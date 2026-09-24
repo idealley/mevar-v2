@@ -1,7 +1,6 @@
 ---
 source: "onedrive"
 sermon_id: "temoignagepdf"
-duplicate_of: "mevar/dieu-veille-sur-sa-parole-pour-lexecuter"
 title: "Dieu Veille sur Sa Parole pour l'Exécuter"
 location: "Abidjan, Côte d'Ivoire"
 preacher: "M'BRA Parfait"

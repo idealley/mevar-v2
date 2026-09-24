@@ -1,7 +1,6 @@
 ---
 source: "onedrive"
 sermon_id: "sorsdetonlit"
-duplicate_of: "mevar/sors-de-ton-lit"
 title: "SORS DE TON LIT !"
 subtitle: "Exhortation de Février 2009"
 date: "2009-02-15"

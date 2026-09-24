@@ -9,13 +9,13 @@
           "id": "mevar/a-moi-la-retribution-a-moi-la-vengeance",
           "title": "A Moi la rétribution - à moi la vengeance",
           "shingles": 9066,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/a_moi_la_vengeance",
           "title": "A Moi la rétribution - à moi la vengeance",
           "shingles": 9068,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -23,6 +23,7 @@
           "a": "mevar/a-moi-la-retribution-a-moi-la-vengeance",
           "b": "onedrive/a_moi_la_vengeance",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.965,
           "in_b": 0.965,
           "title": 1
@@ -38,13 +39,13 @@
           "id": "mevar/a-qui-comparerai-je-cette-generation",
           "title": "A qui comparerai-je cette génération?",
           "shingles": 5825,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/Exho__Octobre_2015",
           "title": "A QUI COMPARERAI-JE CETTE GENERATION ?",
           "shingles": 5808,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -52,6 +53,7 @@
           "a": "mevar/a-qui-comparerai-je-cette-generation",
           "b": "onedrive/Exho__Octobre_2015",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.943,
           "in_b": 0.945,
           "title": 1
@@ -67,13 +69,13 @@
           "id": "mevar/afin-que-les-oeuvres-de-dieu-soient-accomplies",
           "title": "Afin que les œuvres de Dieu soient accomplies",
           "shingles": 9610,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/afin_que_les_oeuvres_soient_accomplies",
           "title": "Afin que les œuvres de Dieu soient accomplies",
           "shingles": 9608,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -81,6 +83,7 @@
           "a": "mevar/afin-que-les-oeuvres-de-dieu-soient-accomplies",
           "b": "onedrive/afin_que_les_oeuvres_soient_accomplies",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.966,
           "in_b": 0.966,
           "title": 1
@@ -96,13 +99,13 @@
           "id": "mevar/anne-et-simeon",
           "title": "Anne et Siméon",
           "shingles": 5064,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/AnneetSimeon",
           "title": "Anne et Siméon",
           "shingles": 5180,
-          "ocr_rate": 0.002
+          "ocr_tokens": 10
         }
       ],
       "pairs": [
@@ -110,6 +113,7 @@
           "a": "mevar/anne-et-simeon",
           "b": "onedrive/AnneetSimeon",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.947,
           "in_b": 0.926,
           "title": 1
@@ -125,13 +129,13 @@
           "id": "mevar/appel-a-la-guerre-appel-au-combat-contre-babylone",
           "title": "Appel à la guerre — appel au combat contre Babylone",
           "shingles": 3050,
-          "ocr_rate": 0.001
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/exho_dec2007",
           "title": "Appel à la guerre – Appel au combat contre Babylone",
           "shingles": 3047,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -139,6 +143,7 @@
           "a": "mevar/appel-a-la-guerre-appel-au-combat-contre-babylone",
           "b": "onedrive/exho_dec2007",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.95,
           "in_b": 0.951,
           "title": 1
@@ -154,13 +159,13 @@
           "id": "mevar/appel-a-lhumilite-et-a-la-simplicite",
           "title": "Appel à l'humilité et à la simplicité",
           "shingles": 2459,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_fin_fevrier_2008",
           "title": "Appel à l'humilité et à la simplicité",
           "shingles": 2468,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -168,6 +173,7 @@
           "a": "mevar/appel-a-lhumilite-et-a-la-simplicite",
           "b": "onedrive/exho_fin_fevrier_2008",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.941,
           "in_b": 0.938,
           "title": 1
@@ -183,13 +189,13 @@
           "id": "mevar/argent-orgueil-et-querelles-dans-les-assemblees",
           "title": "Argent - orgueil et querelles dans les assemblées",
           "shingles": 10360,
-          "ocr_rate": 0.001
+          "ocr_tokens": 10
         },
         {
           "id": "onedrive/argent",
           "title": "ARGENT – ORGUEIL ET QUERELLES DANS LES ASSEMBLEES",
           "shingles": 10368,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -197,6 +203,7 @@
           "a": "mevar/argent-orgueil-et-querelles-dans-les-assemblees",
           "b": "onedrive/argent",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.959,
           "title": 1
@@ -212,13 +219,13 @@
           "id": "mevar/aux-jours-du-saint-esprit",
           "title": "Aux Jours du Saint-Esprit",
           "shingles": 6361,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/Jourssaint",
           "title": "Aux jours du Saint-Esprit",
           "shingles": 6801,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -226,6 +233,7 @@
           "a": "mevar/aux-jours-du-saint-esprit",
           "b": "onedrive/Jourssaint",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.786,
           "in_b": 0.735,
           "title": 1
@@ -241,13 +249,13 @@
           "id": "mevar/ayez-du-zele-et-non-de-la-paresse",
           "title": "Ayez du zèle et non de la paresse !",
           "shingles": 6085,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/zele",
           "title": "Ayez du zèle et non de la paresse !",
           "shingles": 6073,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -255,6 +263,7 @@
           "a": "mevar/ayez-du-zele-et-non-de-la-paresse",
           "b": "onedrive/zele",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.947,
           "in_b": 0.949,
           "title": 1
@@ -270,13 +279,13 @@
           "id": "mevar/babylone-la-grande-ville",
           "title": "Babylone : la grande ville",
           "shingles": 12075,
-          "ocr_rate": 0.001
+          "ocr_tokens": 9
         },
         {
           "id": "onedrive/babyloneville",
           "title": "Babylone : la grande ville",
           "shingles": 12089,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -284,6 +293,7 @@
           "a": "mevar/babylone-la-grande-ville",
           "b": "onedrive/babyloneville",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.959,
           "title": 1
@@ -299,13 +309,13 @@
           "id": "mevar-pdfs/exhortation_septembre_2019_braver_la_grande_foule",
           "title": "Braver la grande foule",
           "shingles": 5825,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/braver-la-grande-foule",
           "title": "Braver la Grande Foule",
           "shingles": 5839,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -313,6 +323,7 @@
           "a": "mevar-pdfs/exhortation_septembre_2019_braver_la_grande_foule",
           "b": "mevar/braver-la-grande-foule",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.967,
           "in_b": 0.965,
           "title": 1
@@ -328,19 +339,19 @@
           "id": "mevar/c-est-ici-votre-heure-et-la-puissance-des-tenebres",
           "title": "C’est ici votre heure et la puissance des ténèbres",
           "shingles": 3922,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/est-ici-votre-heure-et-la-puissance-des-tenebres",
           "title": "C’est ici votre heure et la puissance des ténèbres",
           "shingles": 3917,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/votreheure pdf",
           "title": "C'est ici votre heure et la puissance des ténèbres",
           "shingles": 3928,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -348,6 +359,7 @@
           "a": "mevar/c-est-ici-votre-heure-et-la-puissance-des-tenebres",
           "b": "onedrive/votreheure pdf",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.844,
           "in_b": 0.843,
           "title": 1
@@ -356,6 +368,7 @@
           "a": "mevar/est-ici-votre-heure-et-la-puissance-des-tenebres",
           "b": "onedrive/votreheure pdf",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.946,
           "in_b": 0.943,
           "title": 1
@@ -371,13 +384,13 @@
           "id": "mevar/ceux-de-la-grande-tribulation",
           "title": "Ceux de la grande tribulation (1)",
           "shingles": 14674,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/ceux_grande-tribulation_1",
           "title": "Ceux de la grande tribulation 1",
           "shingles": 14656,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -385,6 +398,7 @@
           "a": "mevar/ceux-de-la-grande-tribulation",
           "b": "onedrive/ceux_grande-tribulation_1",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.963,
           "in_b": 0.965,
           "title": 1
@@ -400,13 +414,13 @@
           "id": "mevar/ceux-de-la-grande-tribulation-deuxieme-partie",
           "title": "Ceux de la grande tribulation (2)",
           "shingles": 12301,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/ceux-de-la-tribulation__2_",
           "title": "Ceux de la grande tribulation 2",
           "shingles": 12279,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -414,6 +428,7 @@
           "a": "mevar/ceux-de-la-grande-tribulation-deuxieme-partie",
           "b": "onedrive/ceux-de-la-tribulation__2_",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.952,
           "in_b": 0.954,
           "title": 1
@@ -429,13 +444,13 @@
           "id": "mevar-pdfs/exhortation_fevrier_202_chercher_dieu_et_le_trouver",
           "title": "CHERCHER DIEU ET LE TROUVER",
           "shingles": 5815,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/chercher-dieu-et-le-trouver",
           "title": "Chercher Dieu et le trouver!",
           "shingles": 5205,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -443,6 +458,7 @@
           "a": "mevar-pdfs/exhortation_fevrier_202_chercher_dieu_et_le_trouver",
           "b": "mevar/chercher-dieu-et-le-trouver",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.831,
           "in_b": 0.929,
           "title": 1
@@ -458,13 +474,13 @@
           "id": "mevar/chercheurs-de-dieu",
           "title": "Chercheurs de Dieu",
           "shingles": 4494,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/chercheurDieu",
           "title": "Chercheurs de Dieu",
           "shingles": 4509,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -472,6 +488,7 @@
           "a": "mevar/chercheurs-de-dieu",
           "b": "onedrive/chercheurDieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.918,
           "in_b": 0.915,
           "title": 1
@@ -487,13 +504,13 @@
           "id": "mevar-pdfs/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur",
           "title": "Cherchez avec le Seigneur",
           "shingles": 4717,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/cherchez-avec-le-seigneur",
           "title": "Cherchez avec le Seigneur",
           "shingles": 4730,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -501,6 +518,7 @@
           "a": "mevar-pdfs/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur",
           "b": "mevar/cherchez-avec-le-seigneur",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.955,
           "in_b": 0.953,
           "title": 1
@@ -516,13 +534,13 @@
           "id": "mevar/combat-contre-le-peche",
           "title": "Combat contre le péché",
           "shingles": 6743,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/combat",
           "title": "Combat contre le péché",
           "shingles": 6753,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -530,6 +548,7 @@
           "a": "mevar/combat-contre-le-peche",
           "b": "onedrive/combat",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.972,
           "in_b": 0.97,
           "title": 1
@@ -545,19 +564,19 @@
           "id": "mevar/combat-contre-lennemi",
           "title": "Combat contre l'ennemi",
           "shingles": 6114,
-          "ocr_rate": 0.001
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/combat_contre_l_ennemi_2012_burkina",
           "title": "Combat contre l’ennemi",
           "shingles": 6123,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/combat_ennemi",
           "title": "Combat contre l'ennemi",
           "shingles": 6123,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -565,6 +584,7 @@
           "a": "mevar/combat-contre-lennemi",
           "b": "onedrive/combat_contre_l_ennemi_2012_burkina",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.957,
           "title": 1
@@ -573,6 +593,7 @@
           "a": "mevar/combat-contre-lennemi",
           "b": "onedrive/combat_ennemi",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.957,
           "title": 1
@@ -581,6 +602,7 @@
           "a": "onedrive/combat_contre_l_ennemi_2012_burkina",
           "b": "onedrive/combat_ennemi",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.96,
           "title": 1
@@ -596,13 +618,13 @@
           "id": "mevar/commencer-et-achever-la-marche-pas-lesprit",
           "title": "Commencer et achever la marche pas l'Esprit",
           "shingles": 13075,
-          "ocr_rate": 0
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/exho_mars2011",
           "title": "COMMENCER ET ACHEVER LA MARCHE PAR L’ESPRIT",
           "shingles": 13075,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -610,6 +632,7 @@
           "a": "mevar/commencer-et-achever-la-marche-pas-lesprit",
           "b": "onedrive/exho_mars2011",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.946,
           "in_b": 0.946,
           "title": 1
@@ -625,13 +648,13 @@
           "id": "mevar/convention-nationale-de-reveil",
           "title": "Convention Nationale de Réveil",
           "shingles": 7564,
-          "ocr_rate": 0
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/Propheties_convention_Lakota",
           "title": "Convention Nationale de Réveil",
           "shingles": 7579,
-          "ocr_rate": 0.001
+          "ocr_tokens": 6
         }
       ],
       "pairs": [
@@ -639,6 +662,7 @@
           "a": "mevar/convention-nationale-de-reveil",
           "b": "onedrive/Propheties_convention_Lakota",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.951,
           "in_b": 0.949,
           "title": 1
@@ -654,13 +678,13 @@
           "id": "mevar-pdfs/COVID_19_ou_la_mort_dans_les_nations_exhortation_mars_2020",
           "title": "COVID-19 OU LA MORT DANS LES NATIONS",
           "shingles": 3158,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/covid-19-ou-la-mort-dans-les-nations",
           "title": "COVID-19 ou la mort dans les nations",
           "shingles": 3170,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -668,6 +692,7 @@
           "a": "mevar-pdfs/COVID_19_ou_la_mort_dans_les_nations_exhortation_mars_2020",
           "b": "mevar/covid-19-ou-la-mort-dans-les-nations",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.944,
           "in_b": 0.94,
           "title": 1
@@ -683,13 +708,13 @@
           "id": "mevar-pdfs/David_et_Goliath_le_cri_de_minuit",
           "title": "David et Goliath - le cri de minuit",
           "shingles": 4923,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/david-et-goliath",
           "title": "David et Goliath",
           "shingles": 4936,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -697,6 +722,7 @@
           "a": "mevar-pdfs/David_et_Goliath_le_cri_de_minuit",
           "b": "mevar/david-et-goliath",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.956,
           "in_b": 0.953,
           "title": 0.8
@@ -712,13 +738,13 @@
           "id": "mevar/dehors-les-chiens",
           "title": "Dehors les chiens !",
           "shingles": 6036,
-          "ocr_rate": 0.001
+          "ocr_tokens": 6
         },
         {
           "id": "onedrive/dehors",
           "title": "Dehors les chiens !",
           "shingles": 6031,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -726,6 +752,7 @@
           "a": "mevar/dehors-les-chiens",
           "b": "onedrive/dehors",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.947,
           "in_b": 0.948,
           "title": 1
@@ -741,13 +768,13 @@
           "id": "mevar/demas-ou-l-esprit-de-la-mondanite",
           "title": "Démas, ou l’esprit de la mondanité",
           "shingles": 11075,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/DEMAS",
           "title": "Démas, ou l’esprit de la mondanité",
           "shingles": 11075,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -755,6 +782,7 @@
           "a": "mevar/demas-ou-l-esprit-de-la-mondanite",
           "b": "onedrive/DEMAS",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.969,
           "in_b": 0.969,
           "title": 1
@@ -770,13 +798,13 @@
           "id": "mevar/demonstration-desprit-et-de-puissance",
           "title": "Démonstration d'Esprit et de Puissance",
           "shingles": 3675,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/demonstration",
           "title": "Démonstration d'Esprit et de Puissance",
           "shingles": 3681,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -784,6 +812,7 @@
           "a": "mevar/demonstration-desprit-et-de-puissance",
           "b": "onedrive/demonstration",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.939,
           "in_b": 0.937,
           "title": 1
@@ -799,13 +828,13 @@
           "id": "mevar/des-hommes-de-mission-a-la-ressemblance-de-jesus",
           "title": "Des hommes de mission à la ressemblance de Jésus",
           "shingles": 13520,
-          "ocr_rate": 0.001
+          "ocr_tokens": 5
         },
         {
           "id": "onedrive/des_hommes_de_mission",
           "title": "Les hommes de mission de Jésus",
           "shingles": 13531,
-          "ocr_rate": 0.001
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -813,6 +842,7 @@
           "a": "mevar/des-hommes-de-mission-a-la-ressemblance-de-jesus",
           "b": "onedrive/des_hommes_de_mission",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.973,
           "in_b": 0.972,
           "title": 0.857
@@ -828,13 +858,13 @@
           "id": "mevar-pdfs/des_hommes_faits_30_10_2016",
           "title": "Des hommes faits",
           "shingles": 8379,
-          "ocr_rate": 0.001
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/des-hommes-faits",
           "title": "Des Hommes Faits",
           "shingles": 8367,
-          "ocr_rate": 0.003
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -842,6 +872,7 @@
           "a": "mevar-pdfs/des_hommes_faits_30_10_2016",
           "b": "mevar/des-hommes-faits",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.943,
           "in_b": 0.944,
           "title": 1
@@ -857,13 +888,13 @@
           "id": "mevar-pdfs/des_noms_sous_les_propheties_06.06.2021",
           "title": "Des noms sous des prophéties",
           "shingles": 11501,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/des-noms-sous-les-propheties",
           "title": "Des noms sous les prophéties",
           "shingles": 11497,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -871,6 +902,7 @@
           "a": "mevar-pdfs/des_noms_sous_les_propheties_06.06.2021",
           "b": "mevar/des-noms-sous-les-propheties",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.965,
           "in_b": 0.966,
           "title": 1
@@ -886,19 +918,19 @@
           "id": "mevar/dieu-fuyant-le-peche",
           "title": "Dieu fuyant le péché",
           "shingles": 9222,
-          "ocr_rate": 0.001
+          "ocr_tokens": 5
         },
         {
           "id": "onedrive/dieufuyant",
           "title": "Dieu fuyant le péché",
           "shingles": 9089,
-          "ocr_rate": 0.001
+          "ocr_tokens": 6
         },
         {
           "id": "onedrive/septembreexhopff",
           "title": "Dieu fuyant le péché",
           "shingles": 9219,
-          "ocr_rate": 0.001
+          "ocr_tokens": 5
         }
       ],
       "pairs": [
@@ -906,6 +938,7 @@
           "a": "mevar/dieu-fuyant-le-peche",
           "b": "onedrive/dieufuyant",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.872,
           "in_b": 0.885,
           "title": 1
@@ -914,6 +947,7 @@
           "a": "mevar/dieu-fuyant-le-peche",
           "b": "onedrive/septembreexhopff",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.89,
           "in_b": 0.891,
           "title": 1
@@ -922,6 +956,7 @@
           "a": "onedrive/dieufuyant",
           "b": "onedrive/septembreexhopff",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.913,
           "in_b": 0.9,
           "title": 1
@@ -937,13 +972,13 @@
           "id": "mevar/dieu-n-est-pas-un-homme-pour-mentir",
           "title": "Dieu n'est pas un homme pour mentir",
           "shingles": 8333,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Dieu_nest_pas_un_homme_pour__mentir",
           "title": "Dieu n'est pas un homme pour mentir",
           "shingles": 8321,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -951,6 +986,7 @@
           "a": "mevar/dieu-n-est-pas-un-homme-pour-mentir",
           "b": "onedrive/Dieu_nest_pas_un_homme_pour__mentir",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.95,
           "in_b": 0.952,
           "title": 1
@@ -966,13 +1002,13 @@
           "id": "mevar-pdfs/dieu_regarde_le_coeur_exhortation_de_Juillet_2020",
           "title": "DIEU REGARDE LE CŒUR",
           "shingles": 6188,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/dieu-regarde-au-coeur",
           "title": "Dieu regarde au coeur",
           "shingles": 6206,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -980,6 +1016,7 @@
           "a": "mevar-pdfs/dieu_regarde_le_coeur_exhortation_de_Juillet_2020",
           "b": "mevar/dieu-regarde-au-coeur",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.945,
           "in_b": 0.942,
           "title": 0.8
@@ -995,13 +1032,13 @@
           "id": "mevar/dieu-veille-sur-sa-parole-pour-lexecuter",
           "title": "Dieu veille sur sa parole pour l’exécuter",
           "shingles": 14125,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/temoignagepdf",
           "title": "Dieu Veille sur Sa Parole pour l'Exécuter",
           "shingles": 14023,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1009,6 +1046,7 @@
           "a": "mevar/dieu-veille-sur-sa-parole-pour-lexecuter",
           "b": "onedrive/temoignagepdf",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.915,
           "in_b": 0.922,
           "title": 1
@@ -1024,13 +1062,13 @@
           "id": "mevar/dispensateurs-des-biens-du-christ",
           "title": "Dispensateurs des biens du Christ",
           "shingles": 5751,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/dispensateurs_biens",
           "title": "Dispensateurs des biens du Christ",
           "shingles": 5746,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1038,6 +1076,7 @@
           "a": "mevar/dispensateurs-des-biens-du-christ",
           "b": "onedrive/dispensateurs_biens",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.955,
           "in_b": 0.956,
           "title": 1
@@ -1053,13 +1092,13 @@
           "id": "mevar/ebranlez-les-prisons",
           "title": "Ébranlez les prisons !",
           "shingles": 8792,
-          "ocr_rate": 0.001
+          "ocr_tokens": 5
         },
         {
           "id": "onedrive/Ebranlez_prisonpdf",
           "title": "EBRANLEZ LES PRISONS !",
           "shingles": 8815,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1067,6 +1106,7 @@
           "a": "mevar/ebranlez-les-prisons",
           "b": "onedrive/Ebranlez_prisonpdf",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.975,
           "in_b": 0.972,
           "title": 1
@@ -1082,13 +1122,13 @@
           "id": "mevar-pdfs/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015",
           "title": "Et soudain entrera dans son temple, le Seigneur que vous cherchez",
           "shingles": 6963,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez",
           "title": "Et soudain entrera dans son temple, le Seigneur que vous cherchez",
           "shingles": 6958,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1096,6 +1136,7 @@
           "a": "mevar-pdfs/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015",
           "b": "mevar/et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.94,
           "in_b": 0.94,
           "title": 1
@@ -1111,13 +1152,13 @@
           "id": "mevar-pdfs/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022",
           "title": "FACE À FACE AVEC LES RÉALITÉS DE LA FOI",
           "shingles": 5692,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/face-a-face-avec-les-realites-de-la-foi",
           "title": "Face à face avec les réalités de la foi",
           "shingles": 5690,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1125,6 +1166,7 @@
           "a": "mevar-pdfs/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022",
           "b": "mevar/face-a-face-avec-les-realites-de-la-foi",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.907,
           "in_b": 0.907,
           "title": 1
@@ -1140,13 +1182,13 @@
           "id": "mevar/faire-dieu-menteur",
           "title": "Faire Dieu menteur",
           "shingles": 8481,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/FAIRE_DIEU_MENTEUR",
           "title": "Faire Dieu menteur",
           "shingles": 8459,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1154,6 +1196,7 @@
           "a": "mevar/faire-dieu-menteur",
           "b": "onedrive/FAIRE_DIEU_MENTEUR",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.951,
           "in_b": 0.954,
           "title": 1
@@ -1169,13 +1212,13 @@
           "id": "mevar-pdfs/holocoste_exhortation_mars_2021",
           "title": "HOLOCAUSTE",
           "shingles": 3069,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/holocauste",
           "title": "Holocauste",
           "shingles": 3072,
-          "ocr_rate": 0.001
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -1183,6 +1226,7 @@
           "a": "mevar-pdfs/holocoste_exhortation_mars_2021",
           "b": "mevar/holocauste",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.913,
           "in_b": 0.912,
           "title": 1
@@ -1198,19 +1242,19 @@
           "id": "mevar/je-lui-ferai-une-aide-semblable",
           "title": "Je lui ferai une aide semblable",
           "shingles": 15379,
-          "ocr_rate": 0.001
+          "ocr_tokens": 6
         },
         {
           "id": "onedrive/aide_semblable",
           "title": "Je lui ferai une aide semblable…",
           "shingles": 15585,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/aide_semblable_anderson",
           "title": "Je lui ferai une aide semblable…",
           "shingles": 15582,
-          "ocr_rate": 0
+          "ocr_tokens": 4
         }
       ],
       "pairs": [
@@ -1218,6 +1262,7 @@
           "a": "mevar/je-lui-ferai-une-aide-semblable",
           "b": "onedrive/aide_semblable",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.879,
           "in_b": 0.867,
           "title": 1
@@ -1226,6 +1271,7 @@
           "a": "mevar/je-lui-ferai-une-aide-semblable",
           "b": "onedrive/aide_semblable_anderson",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.883,
           "in_b": 0.871,
           "title": 1
@@ -1234,6 +1280,7 @@
           "a": "onedrive/aide_semblable",
           "b": "onedrive/aide_semblable_anderson",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.97,
           "in_b": 0.971,
           "title": 1
@@ -1249,13 +1296,13 @@
           "id": "mevar/jesus-christ-architecte-et-constructeur",
           "title": "Jésus-Christ : architecte et constructeur",
           "shingles": 2909,
-          "ocr_rate": 0.001
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/exho_mi_juillet_2009",
           "title": "JESUS-CHRIST : ARCHITECTE ET CONSTRUCTEUR",
           "shingles": 2920,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1263,6 +1310,7 @@
           "a": "mevar/jesus-christ-architecte-et-constructeur",
           "b": "onedrive/exho_mi_juillet_2009",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.942,
           "in_b": 0.939,
           "title": 1
@@ -1278,13 +1326,13 @@
           "id": "mevar/jesus-christ-est-le-meme-hier-aujourd-hui-et-eternellement",
           "title": "Jésus-Christ est le même hier, aujourd’hui et éternellement",
           "shingles": 10480,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/jesus_hier-aujourdhui",
           "title": "Jésus-Christ est le même hier – Aujourd’hui et éternellement",
           "shingles": 10482,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1292,6 +1340,7 @@
           "a": "mevar/jesus-christ-est-le-meme-hier-aujourd-hui-et-eternellement",
           "b": "onedrive/jesus_hier-aujourdhui",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.965,
           "in_b": 0.965,
           "title": 1
@@ -1307,13 +1356,13 @@
           "id": "mevar/jesus-et-marie",
           "title": "Jésus et Marie",
           "shingles": 10192,
-          "ocr_rate": 0.001
+          "ocr_tokens": 4
         },
         {
           "id": "onedrive/Jesus_et_Marie",
           "title": "Marie et Jésus",
           "shingles": 10194,
-          "ocr_rate": 0
+          "ocr_tokens": 4
         }
       ],
       "pairs": [
@@ -1321,6 +1370,7 @@
           "a": "mevar/jesus-et-marie",
           "b": "onedrive/Jesus_et_Marie",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.97,
           "in_b": 0.969,
           "title": 1
@@ -1336,13 +1386,13 @@
           "id": "mevar-pdfs/sujets_de_priere_juillet_2019",
           "title": "Sujets de Prière de Juillet 2019",
           "shingles": 583,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/juillet-2019",
           "title": "Juillet 2019",
           "shingles": 574,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1350,6 +1400,7 @@
           "a": "mevar-pdfs/sujets_de_priere_juillet_2019",
           "b": "mevar/juillet-2019",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.911,
           "in_b": 0.925,
           "title": 0.667
@@ -1365,13 +1416,13 @@
           "id": "mevar-pdfs/sujets_de_priere_juin_2019",
           "title": "Sujets de Prière de Juin",
           "shingles": 605,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/juin-2019",
           "title": "Juin 2019",
           "shingles": 627,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1379,6 +1430,7 @@
           "a": "mevar-pdfs/sujets_de_priere_juin_2019",
           "b": "mevar/juin-2019",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.972,
           "in_b": 0.938,
           "title": 0.4
@@ -1394,19 +1446,19 @@
           "id": "mevar/l-adoration-par-la-revelation",
           "title": "L'adoration par la révélation",
           "shingles": 9219,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/adoration",
           "title": "L'adoration par la révélation",
           "shingles": 9214,
-          "ocr_rate": 0.001
+          "ocr_tokens": 8
         },
         {
           "id": "onedrive/adoration2",
           "title": "L'ADORATION PAR LA REVELATION",
           "shingles": 8527,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -1414,6 +1466,7 @@
           "a": "mevar/l-adoration-par-la-revelation",
           "b": "onedrive/adoration",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.921,
           "in_b": 0.921,
           "title": 1
@@ -1422,6 +1475,7 @@
           "a": "mevar/l-adoration-par-la-revelation",
           "b": "onedrive/adoration2",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.839,
           "in_b": 0.907,
           "title": 1
@@ -1430,6 +1484,7 @@
           "a": "onedrive/adoration",
           "b": "onedrive/adoration2",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.872,
           "in_b": 0.942,
           "title": 1
@@ -1445,13 +1500,13 @@
           "id": "mevar/l-amour-et-la-connaissance",
           "title": "L'amour et la connaissance",
           "shingles": 3415,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exhortation_Mars_2014",
           "title": "L'AMOUR ET LA CONNAISSANCE",
           "shingles": 3403,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1459,6 +1514,7 @@
           "a": "mevar/l-amour-et-la-connaissance",
           "b": "onedrive/exhortation_Mars_2014",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.951,
           "in_b": 0.954,
           "title": 1
@@ -1474,13 +1530,13 @@
           "id": "mevar-pdfs/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021",
           "title": "L’Ancien Testament et le Royaume de Dieu",
           "shingles": 10512,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/l-ancien-testament-et-le-royaume-de-dieu",
           "title": "L’ Ancien Testament et le Royaume de Dieu",
           "shingles": 10524,
-          "ocr_rate": 0.001
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1488,6 +1544,7 @@
           "a": "mevar-pdfs/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021",
           "b": "mevar/l-ancien-testament-et-le-royaume-de-dieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.956,
           "in_b": 0.955,
           "title": 1
@@ -1503,13 +1560,13 @@
           "id": "mevar/l-appel-a-la-victoire",
           "title": "L’ Appel à la victoire",
           "shingles": 11628,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/l-appel-a-la-victoire-partie-1",
           "title": "L'Appel à la victoire (première partie)",
           "shingles": 11651,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -1517,6 +1574,7 @@
           "a": "mevar/l-appel-a-la-victoire",
           "b": "onedrive/l-appel-a-la-victoire-partie-1",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.948,
           "in_b": 0.946,
           "title": 0.667
@@ -1532,13 +1590,13 @@
           "id": "mevar-pdfs/Appel_a_sortir_de_Babylone",
           "title": "L'Appel à sortir de Babylone",
           "shingles": 12185,
-          "ocr_rate": 0
+          "ocr_tokens": 3
         },
         {
           "id": "mevar/l-appel-a-sortir-de-babylone",
           "title": "L’ Appel à sortir de Babylone",
           "shingles": 12229,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         }
       ],
       "pairs": [
@@ -1546,6 +1604,7 @@
           "a": "mevar-pdfs/Appel_a_sortir_de_Babylone",
           "b": "mevar/l-appel-a-sortir-de-babylone",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.949,
           "in_b": 0.946,
           "title": 1
@@ -1561,13 +1620,13 @@
           "id": "mevar/l-appel-de-1933",
           "title": "L' Appel de 1933",
           "shingles": 13628,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/L_APPEL_DE_1933",
           "title": "L'APPEL DE 1933",
           "shingles": 13766,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -1575,6 +1634,7 @@
           "a": "mevar/l-appel-de-1933",
           "b": "onedrive/L_APPEL_DE_1933",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.829,
           "in_b": 0.82,
           "title": 1
@@ -1590,13 +1650,13 @@
           "id": "mevar/l-autorite-spirituelle",
           "title": "L’autorité spirituelle",
           "shingles": 6973,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/autorite-spirituelle",
           "title": "L'autorité spirituelle",
           "shingles": 6978,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1604,6 +1664,7 @@
           "a": "mevar/l-autorite-spirituelle",
           "b": "onedrive/autorite-spirituelle",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.956,
           "in_b": 0.956,
           "title": 1
@@ -1619,13 +1680,13 @@
           "id": "mevar/l-eglise-comme-obed-edom",
           "title": "L’Eglise comme Obed-Edom",
           "shingles": 7537,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Eglise_comme_Obed",
           "title": "L’Eglise comme Obed-Edom",
           "shingles": 7530,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1633,6 +1694,7 @@
           "a": "mevar/l-eglise-comme-obed-edom",
           "b": "onedrive/Eglise_comme_Obed",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.89,
           "in_b": 0.891,
           "title": 1
@@ -1648,13 +1710,13 @@
           "id": "mevar-pdfs/combattre_contre_les_goliath_premiere_partie_23.07.2021",
           "title": "L'enjeu du combat contre Goliath – Partie 1",
           "shingles": 5607,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/l-enjeu-du-combat-contre-goliath-1",
           "title": "L’enjeu du combat contre Goliath",
           "shingles": 5617,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1662,6 +1724,7 @@
           "a": "mevar-pdfs/combattre_contre_les_goliath_premiere_partie_23.07.2021",
           "b": "mevar/l-enjeu-du-combat-contre-goliath-1",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.958,
           "in_b": 0.956,
           "title": 0.889
@@ -1677,13 +1740,13 @@
           "id": "mevar/l-epreuve-de-jean-baptiste",
           "title": "L'épreuve de Jean-Baptiste",
           "shingles": 5746,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/epreuvedejb",
           "title": "L'épreuve de Jean Baptiste",
           "shingles": 5834,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1691,6 +1754,7 @@
           "a": "mevar/l-epreuve-de-jean-baptiste",
           "b": "onedrive/epreuvedejb",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.909,
           "in_b": 0.896,
           "title": 1
@@ -1706,13 +1770,13 @@
           "id": "mevar/l-epreuve-de-moise",
           "title": "L’épreuve de Moïse (1)",
           "shingles": 12473,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Epreuve_de-Moise_1_12.2018",
           "title": "L'épreuve de Moïse",
           "shingles": 12480,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1720,6 +1784,7 @@
           "a": "mevar/l-epreuve-de-moise",
           "b": "onedrive/Epreuve_de-Moise_1_12.2018",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.965,
           "in_b": 0.965,
           "title": 1
@@ -1735,13 +1800,13 @@
           "id": "mevar/l-epreuve-de-moise-deuxieme-partie",
           "title": "L’épreuve de Moïse (2)",
           "shingles": 8657,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Epreuve-de-Moise_2",
           "title": "L'épreuve de Moïse 2",
           "shingles": 8631,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1749,6 +1814,7 @@
           "a": "mevar/l-epreuve-de-moise-deuxieme-partie",
           "b": "onedrive/Epreuve-de-Moise_2",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.966,
           "in_b": 0.969,
           "title": 1
@@ -1764,13 +1830,13 @@
           "id": "mevar/l-evangile-de-grace",
           "title": "L'Évangile de grâce",
           "shingles": 10365,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/evangile_de_grace",
           "title": "L'Evangile de grâce",
           "shingles": 10396,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1778,6 +1844,7 @@
           "a": "mevar/l-evangile-de-grace",
           "b": "onedrive/evangile_de_grace",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.952,
           "in_b": 0.949,
           "title": 1
@@ -1793,13 +1860,13 @@
           "id": "mevar/l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel",
           "title": "L'éveil de l'homme spirituel pour le combat spirituel",
           "shingles": 11620,
-          "ocr_rate": 0.001
+          "ocr_tokens": 4
         },
         {
           "id": "onedrive/eveildelhomme",
           "title": "L’EVEIL DE L’HOMME SPIRITUEL POUR LE COMBAT SPIRITUEL",
           "shingles": 11615,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1807,6 +1874,7 @@
           "a": "mevar/l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel",
           "b": "onedrive/eveildelhomme",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.943,
           "in_b": 0.944,
           "title": 1
@@ -1822,13 +1890,13 @@
           "id": "mevar/l-heure-cruciale-vous-pleurerez-et-vous-vous-lamenterez",
           "title": "L' Heure cruciale - vous pleurerez et vous vous lamenterez",
           "shingles": 5869,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exhortation_janvier_2015",
           "title": "L'HEURE CRUCIALE - VOUS PLEUREREZ ET VOUS VOUS LAMENTEREZ",
           "shingles": 5855,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1836,6 +1904,7 @@
           "a": "mevar/l-heure-cruciale-vous-pleurerez-et-vous-vous-lamenterez",
           "b": "onedrive/exhortation_janvier_2015",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.953,
           "in_b": 0.956,
           "title": 1
@@ -1851,13 +1920,13 @@
           "id": "mevar/l-ile-de-patmos-l-ile-de-la-revelation",
           "title": "L’Île de patmos – l’Île de la revelation",
           "shingles": 5439,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_mai_2014",
           "title": "L'ÎLE DE PATMOS – L'ÎLE DE LA REVELATION",
           "shingles": 5428,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1865,6 +1934,7 @@
           "a": "mevar/l-ile-de-patmos-l-ile-de-la-revelation",
           "b": "onedrive/exho_mai_2014",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.945,
           "in_b": 0.947,
           "title": 1
@@ -1880,13 +1950,13 @@
           "id": "mevar/l-objet-de-la-foi",
           "title": "L'objet de la foi",
           "shingles": 11080,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Objet_de_la_Foi_pdf",
           "title": "L'Objet de la foi",
           "shingles": 11007,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1894,6 +1964,7 @@
           "a": "mevar/l-objet-de-la-foi",
           "b": "onedrive/Objet_de_la_Foi_pdf",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.946,
           "in_b": 0.953,
           "title": 1
@@ -1909,13 +1980,13 @@
           "id": "mevar-pdfs/l_oeuvre_de_dieu_un_investissement_abidjan_12.08.2021",
           "title": "L’œuvre de Dieu – un investissement",
           "shingles": 5835,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/l-oeuvre-de-dieu-un-investissement",
           "title": "L’œuvre de Dieu – un investissement",
           "shingles": 5859,
-          "ocr_rate": 0.001
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1923,6 +1994,7 @@
           "a": "mevar-pdfs/l_oeuvre_de_dieu_un_investissement_abidjan_12.08.2021",
           "b": "mevar/l-oeuvre-de-dieu-un-investissement",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.957,
           "in_b": 0.953,
           "title": 1
@@ -1938,13 +2010,13 @@
           "id": "mevar/l-offrande-salee",
           "title": "L’Offrande salée",
           "shingles": 6091,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/offrande__sallee_15_janvier_2018",
           "title": "L'Offrande salée",
           "shingles": 6092,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1952,6 +2024,7 @@
           "a": "mevar/l-offrande-salee",
           "b": "onedrive/offrande__sallee_15_janvier_2018",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.962,
           "in_b": 0.962,
           "title": 1
@@ -1967,13 +2040,13 @@
           "id": "mevar/l-univers-de-la-revelation",
           "title": "L’Univers de la révélation (1)",
           "shingles": 13911,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/l_Univers_de_la_Revelations_1",
           "title": "L’Univers de la révélation 1",
           "shingles": 13900,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -1981,6 +2054,7 @@
           "a": "mevar/l-univers-de-la-revelation",
           "b": "onedrive/l_Univers_de_la_Revelations_1",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.967,
           "in_b": 0.968,
           "title": 1
@@ -1996,13 +2070,13 @@
           "id": "mevar/l-univers-de-la-revelation-deuxieme-partie",
           "title": "L’ Univers de la révélation (2)",
           "shingles": 9231,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/l_Univers_de_la_Revelations_2",
           "title": "L'univers de la révélation 2",
           "shingles": 9216,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2010,6 +2084,7 @@
           "a": "mevar/l-univers-de-la-revelation-deuxieme-partie",
           "b": "onedrive/l_Univers_de_la_Revelations_2",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.961,
           "title": 1
@@ -2025,13 +2100,13 @@
           "id": "mevar/la-chute-deutychus",
           "title": "La chute d'Eutychus",
           "shingles": 4213,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/exho_sept11",
           "title": "LA CHUTE D'EUTYCHUS",
           "shingles": 4217,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2039,6 +2114,7 @@
           "a": "mevar/la-chute-deutychus",
           "b": "onedrive/exho_sept11",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.938,
           "in_b": 0.937,
           "title": 1
@@ -2054,13 +2130,13 @@
           "id": "mevar-pdfs/la_crainte_de_l_eternel_samuel",
           "title": "La Crainte de l’Eternel",
           "shingles": 2084,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/la-crainte-de-l-eternel",
           "title": "La Crainte de l’Eternel",
           "shingles": 2093,
-          "ocr_rate": 0.001
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -2068,6 +2144,7 @@
           "a": "mevar-pdfs/la_crainte_de_l_eternel_samuel",
           "b": "mevar/la-crainte-de-l-eternel",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.971,
           "in_b": 0.967,
           "title": 1
@@ -2083,13 +2160,13 @@
           "id": "mevar/la-derniere-priere-des-saints",
           "title": "La dernière prière des saints",
           "shingles": 4694,
-          "ocr_rate": 0.001
+          "ocr_tokens": 6
         },
         {
           "id": "onedrive/dernierepriere",
           "title": "LA DERNIERE PRIERE DES SAINTS",
           "shingles": 4700,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         }
       ],
       "pairs": [
@@ -2097,6 +2174,7 @@
           "a": "mevar/la-derniere-priere-des-saints",
           "b": "onedrive/dernierepriere",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.965,
           "in_b": 0.964,
           "title": 1
@@ -2112,13 +2190,13 @@
           "id": "mevar-pdfs/la_doctrine_de_Balaam",
           "title": "La doctrine de Balaam",
           "shingles": 3160,
-          "ocr_rate": 0.001
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/la-doctrine-de-balaam",
           "title": "La doctrine de Balaam",
           "shingles": 3166,
-          "ocr_rate": 0.001
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2126,6 +2204,7 @@
           "a": "mevar-pdfs/la_doctrine_de_Balaam",
           "b": "mevar/la-doctrine-de-balaam",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.941,
           "in_b": 0.939,
           "title": 1
@@ -2141,13 +2220,13 @@
           "id": "mevar/la-douleur-d-un-prophete",
           "title": "La douleur d’un prophète",
           "shingles": 14543,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/la_douleur_prophete",
           "title": "La douleur d'un prophète",
           "shingles": 14540,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2155,6 +2234,7 @@
           "a": "mevar/la-douleur-d-un-prophete",
           "b": "onedrive/la_douleur_prophete",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.969,
           "in_b": 0.969,
           "title": 1
@@ -2170,13 +2250,13 @@
           "id": "mevar/la-drachme-perdue",
           "title": "La drachme perdue",
           "shingles": 5555,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/drachme",
           "title": "La drachme perdue",
           "shingles": 5573,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2184,6 +2264,7 @@
           "a": "mevar/la-drachme-perdue",
           "b": "onedrive/drachme",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.963,
           "in_b": 0.96,
           "title": 1
@@ -2199,13 +2280,13 @@
           "id": "mevar-pdfs/exhortation_la_fin_d_une_epoque_novembre_2022",
           "title": "LA FIN D’UNE ÉPOQUE",
           "shingles": 11405,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/la-fin-d-une-epoque",
           "title": "La fin d'une époque",
           "shingles": 11247,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -2213,6 +2294,7 @@
           "a": "mevar-pdfs/exhortation_la_fin_d_une_epoque_novembre_2022",
           "b": "mevar/la-fin-d-une-epoque",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.932,
           "in_b": 0.945,
           "title": 1
@@ -2228,13 +2310,13 @@
           "id": "mevar/la-foi-d-enoch",
           "title": "La Foi d'Enoch",
           "shingles": 7400,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Marcher_avec_Dieu_02-03-2018",
           "title": "La Foi d'Enoch",
           "shingles": 7387,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2242,6 +2324,7 @@
           "a": "mevar/la-foi-d-enoch",
           "b": "onedrive/Marcher_avec_Dieu_02-03-2018",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.962,
           "title": 1
@@ -2257,13 +2340,13 @@
           "id": "mevar/la-foi-et-la-nature-divine",
           "title": "La foi et la nature divine (1)",
           "shingles": 9032,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/La_foi_et_la_nature_divine",
           "title": "La foi et la nature divine",
           "shingles": 8998,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2271,6 +2354,7 @@
           "a": "mevar/la-foi-et-la-nature-divine",
           "b": "onedrive/La_foi_et_la_nature_divine",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.964,
           "title": 1
@@ -2286,13 +2370,13 @@
           "id": "mevar/la-foi-et-la-nature-divine-deuxieme-partie",
           "title": "La foi et la nature divine (2)",
           "shingles": 9155,
-          "ocr_rate": 0.001
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/La_foi_et_la_nature_divine_suite",
           "title": "La Foi et la nature divine (SUITE)",
           "shingles": 9119,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -2300,6 +2384,7 @@
           "a": "mevar/la-foi-et-la-nature-divine-deuxieme-partie",
           "b": "onedrive/La_foi_et_la_nature_divine_suite",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.954,
           "in_b": 0.958,
           "title": 0.8
@@ -2315,13 +2400,13 @@
           "id": "mevar/la-foi-pour-manger-le-lait-et-le-miel",
           "title": "La foi pour manger le lait et le miel",
           "shingles": 7623,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_Mars_2017",
           "title": "LA FOI POUR MANGER LE LAIT ET LE MIEL",
           "shingles": 7589,
-          "ocr_rate": 0.003
+          "ocr_tokens": 25
         }
       ],
       "pairs": [
@@ -2329,6 +2414,7 @@
           "a": "mevar/la-foi-pour-manger-le-lait-et-le-miel",
           "b": "onedrive/Exhortation_Mars_2017",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.909,
           "in_b": 0.913,
           "title": 1
@@ -2344,13 +2430,13 @@
           "id": "mevar/la-foi-voit-l-invisible",
           "title": "La Foi voit l’invisible",
           "shingles": 9614,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/LA_FOI_SAISIT_LINVISIBLE",
           "title": "La Foi voit l'invisible",
           "shingles": 9591,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -2358,6 +2444,7 @@
           "a": "mevar/la-foi-voit-l-invisible",
           "b": "onedrive/LA_FOI_SAISIT_LINVISIBLE",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.957,
           "in_b": 0.959,
           "title": 1
@@ -2373,13 +2460,13 @@
           "id": "mevar/la-grande-tentation-et-le-chemin-de-la-gloire",
           "title": "La grande tentation et le chemin de la gloire",
           "shingles": 4657,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/exho_octobre_2008",
           "title": "La grande tentation et le chemin de la gloire",
           "shingles": 4676,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2387,6 +2474,7 @@
           "a": "mevar/la-grande-tentation-et-le-chemin-de-la-gloire",
           "b": "onedrive/exho_octobre_2008",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.95,
           "in_b": 0.946,
           "title": 1
@@ -2402,13 +2490,13 @@
           "id": "mevar/la-guerre-du-dragon-contre-le-fils-de-l-eglise",
           "title": "La guerre du Dragon contre le Fils de l’Eglise",
           "shingles": 8207,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/la_guerre_du_dragon_contre_le_fils",
           "title": "La guerre du Dragon contre le Fils de l'Eglise",
           "shingles": 8188,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2416,6 +2504,7 @@
           "a": "mevar/la-guerre-du-dragon-contre-le-fils-de-l-eglise",
           "b": "onedrive/la_guerre_du_dragon_contre_le_fils",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.951,
           "in_b": 0.953,
           "title": 1
@@ -2431,13 +2520,13 @@
           "id": "mevar-pdfs/La_guerre_spirituelle_actuelle_nous_triompherons_exhortation_fin_avril_2020",
           "title": "LA GUERRE SPIRITUELLE ACTUELLE – NOUS TRIOMPHERONS",
           "shingles": 4240,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/la-guerre-spirituelle-actuelle-nous-triompherons",
           "title": "La guerre spirituelle actuelle - nous triompherons",
           "shingles": 4246,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2445,6 +2534,7 @@
           "a": "mevar-pdfs/La_guerre_spirituelle_actuelle_nous_triompherons_exhortation_fin_avril_2020",
           "b": "mevar/la-guerre-spirituelle-actuelle-nous-triompherons",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.911,
           "in_b": 0.91,
           "title": 1
@@ -2460,13 +2550,13 @@
           "id": "mevar/la-lepre-de-nahaman",
           "title": "La lèpre de Naaman",
           "shingles": 8891,
-          "ocr_rate": 0
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/Nahaman_predpdf",
           "title": "La lèpre de Nahaman",
           "shingles": 8909,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2474,6 +2564,7 @@
           "a": "mevar/la-lepre-de-nahaman",
           "b": "onedrive/Nahaman_predpdf",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.922,
           "in_b": 0.92,
           "title": 0.5
@@ -2489,13 +2580,13 @@
           "id": "mevar-pdfs/la_maison_construite_sur_le_roc_stephane",
           "title": "La maison construite sur le roc",
           "shingles": 2066,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/la-maison-construite-sur-le-roc",
           "title": "La maison construite sur le roc",
           "shingles": 2083,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2503,6 +2594,7 @@
           "a": "mevar-pdfs/la_maison_construite_sur_le_roc_stephane",
           "b": "mevar/la-maison-construite-sur-le-roc",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.913,
           "in_b": 0.906,
           "title": 1
@@ -2518,13 +2610,13 @@
           "id": "mevar/la-maison-du-tresor",
           "title": "La Maison du Trésor",
           "shingles": 4724,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/la_maison_du_tresor_exho_aout_2018",
           "title": "LA MAISON DU TRESOR",
           "shingles": 4718,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2532,6 +2624,7 @@
           "a": "mevar/la-maison-du-tresor",
           "b": "onedrive/la_maison_du_tresor_exho_aout_2018",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.933,
           "in_b": 0.934,
           "title": 1
@@ -2547,13 +2640,13 @@
           "id": "mevar/la-marche-de-l-incredulite",
           "title": "La marche de l’incrédulité",
           "shingles": 5168,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/La_marche_de_lincredulite",
           "title": "La marche de l'incrédulité",
           "shingles": 5152,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2561,6 +2654,7 @@
           "a": "mevar/la-marche-de-l-incredulite",
           "b": "onedrive/La_marche_de_lincredulite",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.97,
           "in_b": 0.973,
           "title": 1
@@ -2576,19 +2670,19 @@
           "id": "mevar-pdfs/la_marche_des_vierges_29_11_2013",
           "title": "La marche prophétique des dix vierges",
           "shingles": 11452,
-          "ocr_rate": 0
+          "ocr_tokens": 5
         },
         {
           "id": "mevar/la-marche-prophetique-des-dix-vierges",
           "title": "La marche prophétique des dix vierges",
           "shingles": 11506,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/la_marche_des_dix_vierges",
           "title": "ETUDE BIBLIQUE : LA PARABOLE DES DIX VIERGES EXPLIQUEE (Matthieu 25)",
           "shingles": 13364,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2596,6 +2690,7 @@
           "a": "mevar-pdfs/la_marche_des_vierges_29_11_2013",
           "b": "mevar/la-marche-prophetique-des-dix-vierges",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.946,
           "in_b": 0.942,
           "title": 1
@@ -2604,6 +2699,7 @@
           "a": "mevar-pdfs/la_marche_des_vierges_29_11_2013",
           "b": "onedrive/la_marche_des_dix_vierges",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.897,
           "in_b": 0.769,
           "title": 0.222
@@ -2612,6 +2708,7 @@
           "a": "mevar/la-marche-prophetique-des-dix-vierges",
           "b": "onedrive/la_marche_des_dix_vierges",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.897,
           "in_b": 0.773,
           "title": 0.222
@@ -2627,13 +2724,13 @@
           "id": "mevar/la-mission-du-saint-esprit-dans-l-eglise",
           "title": "La Mission du Saint-Esprit dans l’Eglise (1)",
           "shingles": 9193,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/La_mission_du_Saint-Esprit_partie_1",
           "title": "La Mission du Saint-Esprit dans l’Eglise",
           "shingles": 9171,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2641,6 +2738,7 @@
           "a": "mevar/la-mission-du-saint-esprit-dans-l-eglise",
           "b": "onedrive/La_mission_du_Saint-Esprit_partie_1",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.952,
           "in_b": 0.955,
           "title": 1
@@ -2656,13 +2754,13 @@
           "id": "mevar/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie",
           "title": "La mission du Saint-Esprit dans l’Eglise (2)",
           "shingles": 10011,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/La_mission_du_Saint-Esprit_2",
           "title": "La mission du Saint-Esprit dans l’Eglise",
           "shingles": 9992,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2670,6 +2768,7 @@
           "a": "mevar/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie",
           "b": "onedrive/La_mission_du_Saint-Esprit_2",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.955,
           "in_b": 0.956,
           "title": 1
@@ -2685,13 +2784,13 @@
           "id": "mevar/la-nuit-et-le-jour-des-esprits",
           "title": "La Nuit et le Jour des Esprits",
           "shingles": 8547,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_de_janvier_2014",
           "title": "LA NUIT ET LE JOUR DES ESPRITS",
           "shingles": 8535,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2699,6 +2798,7 @@
           "a": "mevar/la-nuit-et-le-jour-des-esprits",
           "b": "onedrive/exho_de_janvier_2014",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.954,
           "in_b": 0.956,
           "title": 1
@@ -2714,13 +2814,13 @@
           "id": "mevar/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur",
           "title": "Là où est ton trésor, là aussi sera ton cœur",
           "shingles": 9749,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/La_ou_est_ton_tresor_09-03-19",
           "title": "Là où est ton trésor, là aussi sera ton cœur",
           "shingles": 9729,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2728,6 +2828,7 @@
           "a": "mevar/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur",
           "b": "onedrive/La_ou_est_ton_tresor_09-03-19",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.95,
           "in_b": 0.952,
           "title": 1
@@ -2743,13 +2844,13 @@
           "id": "mevar/la-parabole-des-talents",
           "title": "La parabole des talents",
           "shingles": 10428,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/la_parabole_des_talents",
           "title": "La parabole des talents",
           "shingles": 10447,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2757,6 +2858,7 @@
           "a": "mevar/la-parabole-des-talents",
           "b": "onedrive/la_parabole_des_talents",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.968,
           "in_b": 0.966,
           "title": 1
@@ -2772,13 +2874,13 @@
           "id": "mevar/la-parabole-du-pain",
           "title": "La parabole du pain",
           "shingles": 2448,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_fin_mai_2012",
           "title": "LA PARABOLE DU PAIN",
           "shingles": 2462,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2786,6 +2888,7 @@
           "a": "mevar/la-parabole-du-pain",
           "b": "onedrive/exho_fin_mai_2012",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.901,
           "in_b": 0.896,
           "title": 1
@@ -2801,13 +2904,13 @@
           "id": "mevar-pdfs/exhortation_fin_mars_2022_la_peur_de_satan",
           "title": "LA PEUR DE SATAN",
           "shingles": 4638,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/la-peur-de-satan",
           "title": "La peur de Satan",
           "shingles": 4022,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2815,6 +2918,7 @@
           "a": "mevar-pdfs/exhortation_fin_mars_2022_la_peur_de_satan",
           "b": "mevar/la-peur-de-satan",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.82,
           "in_b": 0.946,
           "title": 1
@@ -2830,13 +2934,13 @@
           "id": "mevar-pdfs/Exhortation_de_Juillet_2019",
           "title": "LA POSITION DE SAUVEUR",
           "shingles": 6374,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/la-position-de-sauveur",
           "title": "La position de sauveur",
           "shingles": 6381,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2844,6 +2948,7 @@
           "a": "mevar-pdfs/Exhortation_de_Juillet_2019",
           "b": "mevar/la-position-de-sauveur",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.938,
           "in_b": 0.937,
           "title": 1
@@ -2859,13 +2964,13 @@
           "id": "mevar-pdfs/predication_de_la_croix_et_le_message_du_temps_de_la_fin_koumassi.21.02.2021",
           "title": "La prédication de la croix et le Message du temps de la fin",
           "shingles": 9728,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "mevar/la-predication-de-la-croix-et-le-message-du-temps-de-la-fin",
           "title": "La prédication de la croix et le Message du temps de la fin",
           "shingles": 9796,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -2873,6 +2978,7 @@
           "a": "mevar-pdfs/predication_de_la_croix_et_le_message_du_temps_de_la_fin_koumassi.21.02.2021",
           "b": "mevar/la-predication-de-la-croix-et-le-message-du-temps-de-la-fin",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.954,
           "in_b": 0.948,
           "title": 1
@@ -2888,13 +2994,13 @@
           "id": "mevar/la-repentance",
           "title": "La repentance",
           "shingles": 15120,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/La_repentance_pdf",
           "title": "La repentance",
           "shingles": 15116,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2902,6 +3008,7 @@
           "a": "mevar/la-repentance",
           "b": "onedrive/La_repentance_pdf",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.965,
           "in_b": 0.965,
           "title": 1
@@ -2917,13 +3024,13 @@
           "id": "mevar/la-restitution",
           "title": "La restitution",
           "shingles": 10394,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/restitution_31052015",
           "title": "La restitution",
           "shingles": 10398,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2931,6 +3038,7 @@
           "a": "mevar/la-restitution",
           "b": "onedrive/restitution_31052015",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.96,
           "title": 1
@@ -2946,13 +3054,13 @@
           "id": "mevar/la-revolte-de-sheba",
           "title": "La révolte de Shéba",
           "shingles": 5865,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exhortation_fin_aout_14",
           "title": "LA REVOLTE DE SCHEBA",
           "shingles": 5886,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2960,6 +3068,7 @@
           "a": "mevar/la-revolte-de-sheba",
           "b": "onedrive/exhortation_fin_aout_14",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.926,
           "in_b": 0.923,
           "title": 0.5
@@ -2975,13 +3084,13 @@
           "id": "mevar/la-solution-a-la-souffrance",
           "title": "La Solution à la Souffrance",
           "shingles": 3854,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exhortation_decembre_2013",
           "title": "LA SOLUTION A LA SOUFFRANCE",
           "shingles": 3846,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -2989,6 +3098,7 @@
           "a": "mevar/la-solution-a-la-souffrance",
           "b": "onedrive/exhortation_decembre_2013",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.95,
           "in_b": 0.952,
           "title": 1
@@ -3004,13 +3114,13 @@
           "id": "mevar/la-toilette-du-chretien",
           "title": "La toilette du chrétien",
           "shingles": 7613,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/toilette",
           "title": "La toilette du chrétien",
           "shingles": 7625,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3018,6 +3128,7 @@
           "a": "mevar/la-toilette-du-chretien",
           "b": "onedrive/toilette",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.931,
           "in_b": 0.929,
           "title": 1
@@ -3033,13 +3144,13 @@
           "id": "mevar/la-trompette-du-reveil",
           "title": "La trompette du Réveil",
           "shingles": 4311,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/trompettereveil",
           "title": "La trompette du Réveil",
           "shingles": 4240,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3047,6 +3158,7 @@
           "a": "mevar/la-trompette-du-reveil",
           "b": "onedrive/trompettereveil",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.738,
           "in_b": 0.75,
           "title": 1
@@ -3062,13 +3174,13 @@
           "id": "mevar/la-vision-du-bon-berger",
           "title": "La vision du bon Berger",
           "shingles": 8063,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/la_vision_du_souverain_berger",
           "title": "La vision du bon Berger",
           "shingles": 8032,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3076,6 +3188,7 @@
           "a": "mevar/la-vision-du-bon-berger",
           "b": "onedrive/la_vision_du_souverain_berger",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.947,
           "in_b": 0.95,
           "title": 1
@@ -3091,13 +3204,13 @@
           "id": "mevar/la-vision-prophetique-fait-la-difference",
           "title": "La vision prophétique fait la différence",
           "shingles": 9584,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/la_vision_prophetique",
           "title": "La vision prophétique fait la différence",
           "shingles": 9588,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3105,6 +3218,7 @@
           "a": "mevar/la-vision-prophetique-fait-la-difference",
           "b": "onedrive/la_vision_prophetique",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.952,
           "in_b": 0.951,
           "title": 1
@@ -3120,13 +3234,13 @@
           "id": "mevar/la-voix-de-l-offrande",
           "title": "La voix de l'offrande",
           "shingles": 6115,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_fin_Aout_2016",
           "title": "La voix de l'offrande",
           "shingles": 6097,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3134,6 +3248,7 @@
           "a": "mevar/la-voix-de-l-offrande",
           "b": "onedrive/Exhortation_fin_Aout_2016",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.945,
           "in_b": 0.948,
           "title": 1
@@ -3149,13 +3264,13 @@
           "id": "mevar/lange-de-la-marche",
           "title": "L’Ange de la marche",
           "shingles": 7470,
-          "ocr_rate": 0.001
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/ange_de_la_marche",
           "title": "L'Ange de la marche",
           "shingles": 7470,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -3163,6 +3278,7 @@
           "a": "mevar/lange-de-la-marche",
           "b": "onedrive/ange_de_la_marche",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.96,
           "title": 1
@@ -3178,13 +3294,13 @@
           "id": "mevar/lappel-et-lexperience-du-ministere",
           "title": "L'appel et l'expérience du ministère",
           "shingles": 19326,
-          "ocr_rate": 0.001
+          "ocr_tokens": 9
         },
         {
           "id": "onedrive/le_ministere_anders",
           "title": "L’APPEL ET L’EXPERIENCE DU MINISTERE",
           "shingles": 14766,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         }
       ],
       "pairs": [
@@ -3192,6 +3308,7 @@
           "a": "mevar/lappel-et-lexperience-du-ministere",
           "b": "onedrive/le_ministere_anders",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.744,
           "in_b": 0.974,
           "title": 1
@@ -3207,13 +3324,13 @@
           "id": "mevar/larche-et-les-adorateurs",
           "title": "L’Arche et les adorateurs",
           "shingles": 9747,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/arche_et_les_adorateurs",
           "title": "L'ESPRIT SUPERIEUR",
           "shingles": 11726,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3221,6 +3338,7 @@
           "a": "mevar/larche-et-les-adorateurs",
           "b": "onedrive/arche_et_les_adorateurs",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.963,
           "in_b": 0.801,
           "title": 0
@@ -3236,13 +3354,13 @@
           "id": "mevar/laveugle-bartimee",
           "title": "L'aveugle Bartimée",
           "shingles": 6068,
-          "ocr_rate": 0
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/exho_mi_Juillet2010",
           "title": "L'AVEUGLE BARTIMEE",
           "shingles": 6074,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3250,6 +3368,7 @@
           "a": "mevar/laveugle-bartimee",
           "b": "onedrive/exho_mi_Juillet2010",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.943,
           "in_b": 0.943,
           "title": 1
@@ -3265,19 +3384,19 @@
           "id": "mevar-pdfs/exhortation_speciale_aout_2006_le_baton_de_dieu",
           "title": "Le bâton de Dieu",
           "shingles": 7620,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-baton-de-dieu",
           "title": "Le bâton de Dieu",
           "shingles": 7630,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/baton",
           "title": "Le bâton de Dieu",
           "shingles": 7110,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -3285,6 +3404,7 @@
           "a": "mevar-pdfs/exhortation_speciale_aout_2006_le_baton_de_dieu",
           "b": "mevar/le-baton-de-dieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.964,
           "in_b": 0.963,
           "title": 1
@@ -3293,6 +3413,7 @@
           "a": "mevar-pdfs/exhortation_speciale_aout_2006_le_baton_de_dieu",
           "b": "onedrive/baton",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.845,
           "in_b": 0.905,
           "title": 1
@@ -3301,6 +3422,7 @@
           "a": "mevar/le-baton-de-dieu",
           "b": "onedrive/baton",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.844,
           "in_b": 0.905,
           "title": 1
@@ -3316,13 +3438,13 @@
           "id": "mevar-pdfs/7_Sceaux_1",
           "title": "Le Message des 7 Sceaux (premier sceau)",
           "shingles": 13671,
-          "ocr_rate": 0.001
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse",
           "title": "Le Cavalier au Cheval Blanc d'Apocalypse",
           "shingles": 13724,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3330,6 +3452,7 @@
           "a": "mevar-pdfs/7_Sceaux_1",
           "b": "mevar/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.955,
           "title": 0
@@ -3345,13 +3468,13 @@
           "id": "mevar-pdfs/7_sceaux_3",
           "title": "Le Message des 7 Sceaux (4e sceau-1er partie)",
           "shingles": 10860,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "mevar/le-cavalier-au-cheval-pale-la-mort",
           "title": "Le Cavalier au Cheval Pâle: La Mort",
           "shingles": 10913,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -3359,6 +3482,7 @@
           "a": "mevar-pdfs/7_sceaux_3",
           "b": "mevar/le-cavalier-au-cheval-pale-la-mort",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.937,
           "in_b": 0.932,
           "title": 0
@@ -3374,13 +3498,13 @@
           "id": "mevar-pdfs/le_chemin_de_saul_21_aout_2021",
           "title": "Le chemin de Saül",
           "shingles": 5745,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "mevar/le-chemin-de-saul",
           "title": "Le chemin de Saül",
           "shingles": 5743,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -3388,6 +3512,7 @@
           "a": "mevar-pdfs/le_chemin_de_saul_21_aout_2021",
           "b": "mevar/le-chemin-de-saul",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.963,
           "in_b": 0.964,
           "title": 1
@@ -3403,13 +3528,13 @@
           "id": "mevar/le-chemin-le-plus-long",
           "title": "Le chemin le plus long",
           "shingles": 5772,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/le_chemin_le_plus_long",
           "title": "Le chemin le plus long",
           "shingles": 5769,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3417,6 +3542,7 @@
           "a": "mevar/le-chemin-le-plus-long",
           "b": "onedrive/le_chemin_le_plus_long",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.963,
           "in_b": 0.964,
           "title": 1
@@ -3432,13 +3558,13 @@
           "id": "mevar-pdfs/7_sceaux_2",
           "title": "Le Message des 7 sceaux (Deuxième et troisième sceau)",
           "shingles": 10975,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "mevar/le-cheval-roux-et-le-cheval-noir",
           "title": "Le Cheval Roux et le Cheval Noir",
           "shingles": 11064,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3446,6 +3572,7 @@
           "a": "mevar-pdfs/7_sceaux_2",
           "b": "mevar/le-cheval-roux-et-le-cheval-noir",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.972,
           "in_b": 0.964,
           "title": 0
@@ -3461,13 +3588,13 @@
           "id": "mevar/le-choix",
           "title": "Le Choix",
           "shingles": 8043,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/le_choix_samuel",
           "title": "Le choix",
           "shingles": 8029,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3475,6 +3602,7 @@
           "a": "mevar/le-choix",
           "b": "onedrive/le_choix_samuel",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.95,
           "in_b": 0.952,
           "title": 1
@@ -3490,13 +3618,13 @@
           "id": "mevar-pdfs/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles",
           "title": "LE CROYANT SEMBLABLE AU MARCHAND DE PERLES",
           "shingles": 5667,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-croyant-semblable-au-marchand-de-perles",
           "title": "Le croyant semblable au marchand de perles",
           "shingles": 5680,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3504,6 +3632,7 @@
           "a": "mevar-pdfs/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles",
           "b": "mevar/le-croyant-semblable-au-marchand-de-perles",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.934,
           "in_b": 0.932,
           "title": 1
@@ -3519,13 +3648,13 @@
           "id": "mevar/le-culte-de-la-vierge-marie",
           "title": "Le culte de la vierge Marie",
           "shingles": 14588,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/vierge_doc",
           "title": "LE CULTE DE LA VIERGE MARIE L’ABOMINATION DES IVOIRIENS",
           "shingles": 14513,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -3533,6 +3662,7 @@
           "a": "mevar/le-culte-de-la-vierge-marie",
           "b": "onedrive/vierge_doc",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.945,
           "in_b": 0.949,
           "title": 0.75
@@ -3548,13 +3678,13 @@
           "id": "mevar/le-deguisement-de-la-femme-de-jeroboam",
           "title": "Le déguisement de la femme de Jéroboam",
           "shingles": 4377,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_juin_2017",
           "title": "LE DEGUISEMENT DE LA FEMME DE JEROBOAM",
           "shingles": 4364,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3562,6 +3692,7 @@
           "a": "mevar/le-deguisement-de-la-femme-de-jeroboam",
           "b": "onedrive/exho_juin_2017",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.963,
           "title": 1
@@ -3577,13 +3708,13 @@
           "id": "mevar/le-depart-du-dioscures",
           "title": "Le départ du Dioscures",
           "shingles": 8715,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exhortation_de_Juillet_2014_1",
           "title": "LE DEPART DU DIOSCURES",
           "shingles": 8705,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3591,6 +3722,7 @@
           "a": "mevar/le-depart-du-dioscures",
           "b": "onedrive/exhortation_de_Juillet_2014_1",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.971,
           "in_b": 0.972,
           "title": 1
@@ -3606,13 +3738,13 @@
           "id": "mevar/le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu",
           "title": "Le devoir du fils - la fidélité dans la maison de Dieu",
           "shingles": 4422,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_mi-avril_2017",
           "title": "LE DEVOIR DU FILS – LA FIDELITE DANS LA MAISON DE DIEU",
           "shingles": 4395,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3620,6 +3752,7 @@
           "a": "mevar/le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu",
           "b": "onedrive/Exhortation_mi-avril_2017",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.966,
           "title": 1
@@ -3635,13 +3768,13 @@
           "id": "mevar/le-droit-de-rachat",
           "title": "Le droit de rachat",
           "shingles": 9600,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/le_droit_de_rachat",
           "title": "Le droit de rachat",
           "shingles": 9603,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3649,6 +3782,7 @@
           "a": "mevar/le-droit-de-rachat",
           "b": "onedrive/le_droit_de_rachat",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.975,
           "in_b": 0.975,
           "title": 1
@@ -3664,13 +3798,13 @@
           "id": "mevar/le-fils-male-lanon-prophetique",
           "title": "Le fils mâle — l'ânon prophétique",
           "shingles": 8435,
-          "ocr_rate": 0.001
+          "ocr_tokens": 5
         },
         {
           "id": "onedrive/Exho_octobre-2014",
           "title": "LE FILS MALE - L'ANON PROPHETIQUE",
           "shingles": 8439,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3678,6 +3812,7 @@
           "a": "mevar/le-fils-male-lanon-prophetique",
           "b": "onedrive/Exho_octobre-2014",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.91,
           "in_b": 0.91,
           "title": 1
@@ -3693,13 +3828,13 @@
           "id": "mevar/le-fils-prodigue",
           "title": "Le fils prodigue",
           "shingles": 6633,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/le_fils_prodigue",
           "title": "Le fils prodigue",
           "shingles": 6626,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3707,6 +3842,7 @@
           "a": "mevar/le-fils-prodigue",
           "b": "onedrive/le_fils_prodigue",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.956,
           "in_b": 0.957,
           "title": 1
@@ -3722,13 +3858,13 @@
           "id": "mevar/le-fruit-de-la-repentance",
           "title": "Le fruit de la repentance",
           "shingles": 10602,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/le_fruit_de_la_repentance",
           "title": "Le fruit de la repentance",
           "shingles": 10604,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3736,6 +3872,7 @@
           "a": "mevar/le-fruit-de-la-repentance",
           "b": "onedrive/le_fruit_de_la_repentance",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.959,
           "title": 1
@@ -3751,13 +3888,13 @@
           "id": "mevar/le-jeune-homme-riche",
           "title": "Le jeune homme riche",
           "shingles": 3810,
-          "ocr_rate": 0.001
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/exho_fev2009",
           "title": "LE JEUNE HOMME RICHE",
           "shingles": 3824,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3765,6 +3902,7 @@
           "a": "mevar/le-jeune-homme-riche",
           "b": "onedrive/exho_fev2009",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.947,
           "in_b": 0.944,
           "title": 1
@@ -3780,13 +3918,13 @@
           "id": "mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david",
           "title": "Le juste jugement de Dieu - l'affaire d'Urie contre David",
           "shingles": 5770,
-          "ocr_rate": 0.001
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/exho_janv2011",
           "title": "LE JUSTE JUGEMENT DE DIEU – AFFAIRE URIE CONTRE DAVID",
           "shingles": 5774,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -3794,6 +3932,7 @@
           "a": "mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david",
           "b": "onedrive/exho_janv2011",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.967,
           "in_b": 0.967,
           "title": 1
@@ -3809,13 +3948,13 @@
           "id": "mevar/le-livre-des-chroniques-de-dieu",
           "title": "Le livre des chroniques de Dieu",
           "shingles": 7097,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_fevrier_2017",
           "title": "LE LIVRE DES CHRONIQUES DE DIEU",
           "shingles": 7084,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3823,6 +3962,7 @@
           "a": "mevar/le-livre-des-chroniques-de-dieu",
           "b": "onedrive/Exhortation_fevrier_2017",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.929,
           "in_b": 0.931,
           "title": 1
@@ -3838,13 +3978,13 @@
           "id": "mevar-pdfs/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021",
           "title": "Le ministère de l’Esprit dans le royaume de Dieu",
           "shingles": 10228,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-ministere-de-l-esprit-dans-le-royaume-de-dieu",
           "title": "Le ministère de l’Esprit dans le royaume de Dieu",
           "shingles": 10227,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3852,6 +3992,7 @@
           "a": "mevar-pdfs/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021",
           "b": "mevar/le-ministere-de-l-esprit-dans-le-royaume-de-dieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.961,
           "in_b": 0.961,
           "title": 1
@@ -3867,13 +4008,13 @@
           "id": "mevar-pdfs/le_nom_de_jesus_24_02_2019",
           "title": "Le nom de Jésus",
           "shingles": 6725,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-nom-de-jesus",
           "title": "Le nom de Jésus",
           "shingles": 6727,
-          "ocr_rate": 0.002
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3881,6 +4022,7 @@
           "a": "mevar-pdfs/le_nom_de_jesus_24_02_2019",
           "b": "mevar/le-nom-de-jesus",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.953,
           "in_b": 0.953,
           "title": 1
@@ -3896,13 +4038,13 @@
           "id": "mevar/le-petit-troupeau-de-la-fin-des-temps",
           "title": "Le petit troupeau de la fin des temps",
           "shingles": 7396,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/petit_troupeau",
           "title": "Le petit troupeau de la fin des temps",
           "shingles": 7376,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3910,6 +4052,7 @@
           "a": "mevar/le-petit-troupeau-de-la-fin-des-temps",
           "b": "onedrive/petit_troupeau",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.955,
           "in_b": 0.957,
           "title": 1
@@ -3925,13 +4068,13 @@
           "id": "mevar-pdfs/Le_processus_de_la_maturation_du_Fils_de_l_Eglise",
           "title": "Le Processus de la maturation du fils de l’Église",
           "shingles": 8487,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-processus-de-la-maturation-du-fils-de-l-eglise",
           "title": "Le Processus de la maturation du fils de l’Église",
           "shingles": 8483,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3939,6 +4082,7 @@
           "a": "mevar-pdfs/Le_processus_de_la_maturation_du_Fils_de_l_Eglise",
           "b": "mevar/le-processus-de-la-maturation-du-fils-de-l-eglise",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.959,
           "title": 1
@@ -3954,13 +4098,13 @@
           "id": "mevar-pdfs/7_sceaux_4",
           "title": "Le Message des sept sceaux (Suite 4ᵉ, 5e et 6e Sceau)",
           "shingles": 13164,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-quatrieme-cinquieme-et-sixeme-sceaux",
           "title": "Le quatrième, cinquième et sixème sceaux",
           "shingles": 13232,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3968,6 +4112,7 @@
           "a": "mevar-pdfs/7_sceaux_4",
           "b": "mevar/le-quatrieme-cinquieme-et-sixeme-sceaux",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.94,
           "in_b": 0.935,
           "title": 0.222
@@ -3983,13 +4128,13 @@
           "id": "mevar-pdfs/le_reflet_11_10_2015",
           "title": "Le reflet",
           "shingles": 6383,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-reflet",
           "title": "Le reflet",
           "shingles": 6381,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -3997,6 +4142,7 @@
           "a": "mevar-pdfs/le_reflet_11_10_2015",
           "b": "mevar/le-reflet",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.959,
           "title": 1
@@ -4012,13 +4158,13 @@
           "id": "mevar/le-repos-en-christ",
           "title": "Le repos en Christ",
           "shingles": 10706,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/le_repos_en_christ",
           "title": "Le repos en Christ",
           "shingles": 10711,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4026,6 +4172,7 @@
           "a": "mevar/le-repos-en-christ",
           "b": "onedrive/le_repos_en_christ",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.961,
           "in_b": 0.961,
           "title": 1
@@ -4041,13 +4188,13 @@
           "id": "mevar/le-reveil-de-la-fin-des-temps-selon-william-branham",
           "title": "Le réveil de la Fin des Temps selon William Branham",
           "shingles": 5118,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/LE_REVEIL-SELON_branham",
           "title": "Le réveil de la Fin des Temps selon William BRANHAM",
           "shingles": 5105,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4055,6 +4202,7 @@
           "a": "mevar/le-reveil-de-la-fin-des-temps-selon-william-branham",
           "b": "onedrive/LE_REVEIL-SELON_branham",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.951,
           "in_b": 0.954,
           "title": 1
@@ -4070,13 +4218,13 @@
           "id": "mevar-pdfs/le_salut_selon_la_bible",
           "title": "Le Salut selon la Bible",
           "shingles": 3790,
-          "ocr_rate": 0.004
+          "ocr_tokens": 14
         },
         {
           "id": "mevar/le-salut-selon-la-bible",
           "title": "Le salut selon la Bible",
           "shingles": 3798,
-          "ocr_rate": 0.004
+          "ocr_tokens": 14
         }
       ],
       "pairs": [
@@ -4084,6 +4232,7 @@
           "a": "mevar-pdfs/le_salut_selon_la_bible",
           "b": "mevar/le-salut-selon-la-bible",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.965,
           "in_b": 0.963,
           "title": 1
@@ -4099,13 +4248,13 @@
           "id": "mevar/le-semeur-de-miniuit",
           "title": "Le semeur de minuit",
           "shingles": 7396,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_fin2010",
           "title": "LE SEMEUR DE MINUIT",
           "shingles": 7410,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4113,6 +4262,7 @@
           "a": "mevar/le-semeur-de-miniuit",
           "b": "onedrive/exho_fin2010",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.944,
           "in_b": 0.943,
           "title": 1
@@ -4128,13 +4278,13 @@
           "id": "mevar-pdfs/le_septieme_sceau_premiere_partie_6_09_2019",
           "title": "Le Message des 7 sceaux, le 7e sceau (première partie)",
           "shingles": 13235,
-          "ocr_rate": 0.004
+          "ocr_tokens": 2
         },
         {
           "id": "mevar/le-septieme-sceau",
           "title": "Le septième sceau",
           "shingles": 13235,
-          "ocr_rate": 0.001
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4142,6 +4292,7 @@
           "a": "mevar-pdfs/le_septieme_sceau_premiere_partie_6_09_2019",
           "b": "mevar/le-septieme-sceau",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.93,
           "in_b": 0.93,
           "title": 0.286
@@ -4157,13 +4308,13 @@
           "id": "mevar/le-soldat-urie",
           "title": "Le Soldat Urie",
           "shingles": 3774,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exhortation_avril_2014",
           "title": "LE SOLDAT URIE",
           "shingles": 3757,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4171,6 +4322,7 @@
           "a": "mevar/le-soldat-urie",
           "b": "onedrive/exhortation_avril_2014",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.918,
           "in_b": 0.922,
           "title": 1
@@ -4186,13 +4338,13 @@
           "id": "mevar/le-sort-de-cain",
           "title": "Le sort de Caïn",
           "shingles": 8219,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/sort_de_Cain",
           "title": "Le sort de Caïn",
           "shingles": 7862,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4200,6 +4352,7 @@
           "a": "mevar/le-sort-de-cain",
           "b": "onedrive/sort_de_Cain",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.898,
           "in_b": 0.939,
           "title": 1
@@ -4215,13 +4368,13 @@
           "id": "mevar-pdfs/exhortation_de_mai_2022_le_temoignage_de_deux_est_vrai",
           "title": "Le Témoignage de Deux Est Vrai",
           "shingles": 3026,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-temoignage-de-deux-est-vrai",
           "title": "Le témoignage de deux est vrai",
           "shingles": 3048,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4229,6 +4382,7 @@
           "a": "mevar-pdfs/exhortation_de_mai_2022_le_temoignage_de_deux_est_vrai",
           "b": "mevar/le-temoignage-de-deux-est-vrai",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.954,
           "in_b": 0.947,
           "title": 1
@@ -4244,13 +4398,13 @@
           "id": "mevar-pdfs/Le_temoignage_de_Dieu_15_janvier_2022",
           "title": "Le témoignage de Dieu",
           "shingles": 7133,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-temoignage-de-dieu",
           "title": "Le témoignage de Dieu",
           "shingles": 7161,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4258,6 +4412,7 @@
           "a": "mevar-pdfs/Le_temoignage_de_Dieu_15_janvier_2022",
           "b": "mevar/le-temoignage-de-dieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.957,
           "title": 1
@@ -4273,13 +4428,13 @@
           "id": "mevar-pdfs/le_temoignage_des_apotres_13_janvier_2022",
           "title": "Le témoignage des apôtres",
           "shingles": 7276,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-temoignage-des-apotres",
           "title": "Le témoignage des apôtres",
           "shingles": 7291,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4287,6 +4442,7 @@
           "a": "mevar-pdfs/le_temoignage_des_apotres_13_janvier_2022",
           "b": "mevar/le-temoignage-des-apotres",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.941,
           "in_b": 0.939,
           "title": 1
@@ -4302,13 +4458,13 @@
           "id": "mevar/le-temoignage-final",
           "title": "Le témoignage final",
           "shingles": 7231,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/temoignage_final",
           "title": "Le témoignage final",
           "shingles": 7218,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4316,6 +4472,7 @@
           "a": "mevar/le-temoignage-final",
           "b": "onedrive/temoignage_final",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.907,
           "in_b": 0.908,
           "title": 1
@@ -4331,13 +4488,13 @@
           "id": "mevar-pdfs/exhortation_speciale_de_decembre_2021",
           "title": "LE TEMPS DE DIEU",
           "shingles": 7549,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/le-temps-de-dieu",
           "title": "Le Temps de Dieu",
           "shingles": 7558,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -4345,6 +4502,7 @@
           "a": "mevar-pdfs/exhortation_speciale_de_decembre_2021",
           "b": "mevar/le-temps-de-dieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.95,
           "in_b": 0.949,
           "title": 1
@@ -4360,13 +4518,13 @@
           "id": "mevar/le-vin-nouveau-et-le-vieux-vin",
           "title": "Le vin nouveau et le vieux vin",
           "shingles": 5708,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/le_vin_nouveau_et_le_vieux_vin_exhortation_de_Juillet_2018",
           "title": "LE VIN NOUVEAU ET LE VIEUX VIN",
           "shingles": 5688,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4374,6 +4532,7 @@
           "a": "mevar/le-vin-nouveau-et-le-vieux-vin",
           "b": "onedrive/le_vin_nouveau_et_le_vieux_vin_exhortation_de_Juillet_2018",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.935,
           "in_b": 0.938,
           "title": 1
@@ -4389,13 +4548,13 @@
           "id": "mevar/le-voeux-de-jephte",
           "title": "Le vœux de Jephté",
           "shingles": 7109,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/LE_VOEU_DE_JEPHTE",
           "title": "Le vœu de Jephté",
           "shingles": 7111,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4403,6 +4562,7 @@
           "a": "mevar/le-voeux-de-jephte",
           "b": "onedrive/LE_VOEU_DE_JEPHTE",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.958,
           "in_b": 0.958,
           "title": 1
@@ -4418,13 +4578,13 @@
           "id": "mevar/lenjeu",
           "title": "L'Enjeu",
           "shingles": 10773,
-          "ocr_rate": 0
+          "ocr_tokens": 4
         },
         {
           "id": "onedrive/enjeu",
           "title": "L'ENJEU",
           "shingles": 10798,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4432,6 +4592,7 @@
           "a": "mevar/lenjeu",
           "b": "onedrive/enjeu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.952,
           "in_b": 0.95,
           "title": 1
@@ -4447,13 +4608,13 @@
           "id": "mevar/les-coeurs-durs",
           "title": "Les coeurs durs",
           "shingles": 6397,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_octobre_2017",
           "title": "LES CŒURS DURS",
           "shingles": 6382,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4461,6 +4622,7 @@
           "a": "mevar/les-coeurs-durs",
           "b": "onedrive/Exhortation_octobre_2017",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.955,
           "in_b": 0.958,
           "title": 0.667
@@ -4476,13 +4638,13 @@
           "id": "mevar-pdfs/les_disciples_de_jean_baptiste_31_08_2019",
           "title": "Les croyants du Message du Temps de la Fin comme les disciples de Jean-Baptiste",
           "shingles": 9738,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "mevar/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste",
           "title": "Les croyants du Message du Temps de la Fin comme les disciples de Jean-Baptiste",
           "shingles": 9707,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -4490,6 +4652,7 @@
           "a": "mevar-pdfs/les_disciples_de_jean_baptiste_31_08_2019",
           "b": "mevar/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.952,
           "in_b": 0.955,
           "title": 1
@@ -4505,13 +4668,13 @@
           "id": "mevar/les-dons-excellents",
           "title": "Les dons excellents",
           "shingles": 11353,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/dons_excellents",
           "title": "Les dons excellents",
           "shingles": 11363,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4519,6 +4682,7 @@
           "a": "mevar/les-dons-excellents",
           "b": "onedrive/dons_excellents",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.959,
           "title": 1
@@ -4534,13 +4698,13 @@
           "id": "mevar/les-intercesseurs-de-minuit",
           "title": "Les intercesseurs de Minuit",
           "shingles": 2771,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/internuit",
           "title": "Les intercesseurs de Minuit",
           "shingles": 2756,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4548,6 +4712,7 @@
           "a": "mevar/les-intercesseurs-de-minuit",
           "b": "onedrive/internuit",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.928,
           "in_b": 0.933,
           "title": 1
@@ -4563,13 +4728,13 @@
           "id": "mevar/les-jours-du-fils-de-l-homme",
           "title": "Les jours du fils de l'homme",
           "shingles": 13336,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/jourdufils",
           "title": "LES JOURS DU FILS DE L'HOMME",
           "shingles": 13310,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4577,6 +4742,7 @@
           "a": "mevar/les-jours-du-fils-de-l-homme",
           "b": "onedrive/jourdufils",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.887,
           "in_b": 0.889,
           "title": 1
@@ -4592,13 +4758,13 @@
           "id": "mevar-pdfs/jugements_de_dieu_22_aout_2020",
           "title": "Les jugements de Dieu",
           "shingles": 10094,
-          "ocr_rate": 0
+          "ocr_tokens": 3
         },
         {
           "id": "mevar/les-jugements-de-dieu",
           "title": "Les jugements de Dieu",
           "shingles": 10153,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4606,6 +4772,7 @@
           "a": "mevar-pdfs/jugements_de_dieu_22_aout_2020",
           "b": "mevar/les-jugements-de-dieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.952,
           "in_b": 0.946,
           "title": 1
@@ -4621,13 +4788,13 @@
           "id": "mevar/les-liberateurs-du-peuple-de-dieu",
           "title": "Les libérateurs du peuple de Dieu",
           "shingles": 6994,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/LES_LIBERATEURS__",
           "title": "Les libérateurs du peuple de Dieu",
           "shingles": 6978,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4635,6 +4802,7 @@
           "a": "mevar/les-liberateurs-du-peuple-de-dieu",
           "b": "onedrive/LES_LIBERATEURS__",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.961,
           "in_b": 0.963,
           "title": 1
@@ -4650,13 +4818,13 @@
           "id": "mevar-pdfs/Les_miracles_et_les_fruits_de_l_esprit_8_aout_2021",
           "title": "Les miracles et les fruits de l’Esprit",
           "shingles": 7983,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/les-miracles-et-les-fruits-de-l-esprit",
           "title": "Les miracles et les fruits de l’Esprit",
           "shingles": 7534,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4664,6 +4832,7 @@
           "a": "mevar-pdfs/Les_miracles_et_les_fruits_de_l_esprit_8_aout_2021",
           "b": "mevar/les-miracles-et-les-fruits-de-l-esprit",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.889,
           "in_b": 0.942,
           "title": 1
@@ -4679,13 +4848,13 @@
           "id": "mevar/les-porteurs-du-royaume-de-dieu",
           "title": "Les porteurs du royaume de Dieu",
           "shingles": 6508,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/exho_dec_2012",
           "title": "Les Porteurs du Royaume de Dieu",
           "shingles": 6528,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4693,6 +4862,7 @@
           "a": "mevar/les-porteurs-du-royaume-de-dieu",
           "b": "onedrive/exho_dec_2012",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.935,
           "in_b": 0.933,
           "title": 1
@@ -4708,13 +4878,13 @@
           "id": "mevar/les-prisonniers-de-la-religion",
           "title": "Les prisonniers de la religion",
           "shingles": 10335,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/Les_prisonniers-de-la_religion",
           "title": "Les prisonniers de la religion",
           "shingles": 10327,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4722,6 +4892,7 @@
           "a": "mevar/les-prisonniers-de-la-religion",
           "b": "onedrive/Les_prisonniers-de-la_religion",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.964,
           "in_b": 0.965,
           "title": 1
@@ -4737,13 +4908,13 @@
           "id": "mevar-pdfs/les_sentiments_justes_exhortation_fevrier_2020",
           "title": "Les Sentiments Justes",
           "shingles": 4932,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/les-sentiments-justes",
           "title": "Les sentiments justes",
           "shingles": 4946,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -4751,6 +4922,7 @@
           "a": "mevar-pdfs/les_sentiments_justes_exhortation_fevrier_2020",
           "b": "mevar/les-sentiments-justes",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.941,
           "in_b": 0.938,
           "title": 1
@@ -4766,13 +4938,13 @@
           "id": "mevar-pdfs/2_signes_d_un_ministere_17_11_19",
           "title": "Les signes d’un Ministère ou d’une œuvre authentique de Dieu, deuxième partie",
           "shingles": 11156,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie",
           "title": "Les signes d’un Ministère ou d’une œuvre authentique de Dieu (2)",
           "shingles": 11127,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4780,6 +4952,7 @@
           "a": "mevar-pdfs/2_signes_d_un_ministere_17_11_19",
           "b": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.917,
           "in_b": 0.92,
           "title": 0.833
@@ -4795,13 +4968,13 @@
           "id": "mevar-pdfs/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019",
           "title": "Les signes d’un Ministère ou d’une œuvre authentique de Dieu",
           "shingles": 13800,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie",
           "title": "Les signes d’un Ministère ou d’une œuvre authentique de Dieu (1)",
           "shingles": 13846,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4809,6 +4982,7 @@
           "a": "mevar-pdfs/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019",
           "b": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.961,
           "in_b": 0.958,
           "title": 1
@@ -4824,13 +4998,13 @@
           "id": "mevar-pdfs/4_eprouvez_les_signes_05_01_20",
           "title": "Les signes d’un Ministère ou d’une œuvre authentique de Dieu - 4e partie – ou Comment éprouver les signes",
           "shingles": 12120,
-          "ocr_rate": 0
+          "ocr_tokens": 3
         },
         {
           "id": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie",
           "title": "Les signes d’un Ministère ou d’une œuvre authentique de Dieu (4)",
           "shingles": 12148,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4838,6 +5012,7 @@
           "a": "mevar-pdfs/4_eprouvez_les_signes_05_01_20",
           "b": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.953,
           "in_b": 0.951,
           "title": 0.769
@@ -4853,13 +5028,13 @@
           "id": "mevar-pdfs/3_signes_d_un_ministere_01_12_19",
           "title": "Les signes d’une œuvre ou d’un Ministère authentique de Dieu - 3e partie",
           "shingles": 11723,
-          "ocr_rate": 0.002
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie",
           "title": "Les signes d’une œuvre ou d’un Ministère authentique de Dieu (3)",
           "shingles": 11689,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4867,6 +5042,7 @@
           "a": "mevar-pdfs/3_signes_d_un_ministere_01_12_19",
           "b": "mevar/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.913,
           "in_b": 0.915,
           "title": 0.909
@@ -4882,13 +5058,13 @@
           "id": "mevar-pdfs/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel",
           "title": "LES TÉRAPHIM ET LA MORT DE RACHEL",
           "shingles": 7372,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/les-teraphims-et-la-mort-de-rachel",
           "title": "Les téraphim et la mort de Rachel",
           "shingles": 7370,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4896,6 +5072,7 @@
           "a": "mevar-pdfs/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel",
           "b": "mevar/les-teraphims-et-la-mort-de-rachel",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.939,
           "in_b": 0.939,
           "title": 1
@@ -4911,13 +5088,13 @@
           "id": "mevar/les-visages-de-satan",
           "title": "Les visages de Satan",
           "shingles": 4186,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_de_Juin-2018",
           "title": "LES VISAGES DE SATAN",
           "shingles": 4173,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4925,6 +5102,7 @@
           "a": "mevar/les-visages-de-satan",
           "b": "onedrive/Exhortation_de_Juin-2018",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.965,
           "in_b": 0.968,
           "title": 1
@@ -4940,13 +5118,13 @@
           "id": "mevar/lesprit-babylonien",
           "title": "L'esprit babylonien",
           "shingles": 11020,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/babylonien",
           "title": "L'ESPRIT BABYLONIEN",
           "shingles": 11514,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4954,6 +5132,7 @@
           "a": "mevar/lesprit-babylonien",
           "b": "onedrive/babylonien",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.944,
           "in_b": 0.904,
           "title": 1
@@ -4969,13 +5148,13 @@
           "id": "mevar-pdfs/sujets_de_priere_fin_mai_juin_2019",
           "title": "SUJETS DE PRIERE FIN MAI - JUIN",
           "shingles": 272,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/mai-juin-2019",
           "title": "Mai - Juin 2019",
           "shingles": 285,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -4983,6 +5162,7 @@
           "a": "mevar-pdfs/sujets_de_priere_fin_mai_juin_2019",
           "b": "mevar/mai-juin-2019",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.967,
           "in_b": 0.923,
           "title": 0.4
@@ -4998,13 +5178,13 @@
           "id": "mevar/malheures-aux-enfants-rebelles",
           "title": "Malheurs aux enfants rebelles",
           "shingles": 2444,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_3_juillet",
           "title": "Malheur aux enfants rebelles",
           "shingles": 2457,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5012,6 +5192,7 @@
           "a": "mevar/malheures-aux-enfants-rebelles",
           "b": "onedrive/exho_3_juillet",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.93,
           "in_b": 0.925,
           "title": 0.667
@@ -5027,13 +5208,13 @@
           "id": "mevar-pdfs/manger_le_sacrifice_20_octobre_2020",
           "title": "Manger le Sacrifice",
           "shingles": 6299,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/manger-le-sacrifice",
           "title": "Manger le Sacrifice",
           "shingles": 6314,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5041,6 +5222,7 @@
           "a": "mevar-pdfs/manger_le_sacrifice_20_octobre_2020",
           "b": "mevar/manger-le-sacrifice",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.977,
           "in_b": 0.974,
           "title": 1
@@ -5056,13 +5238,13 @@
           "id": "mevar-pdfs/medecin_gueris_toi_toi_meme_15_02_2015",
           "title": "Médecin, guéris-toi toi-même",
           "shingles": 9104,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/medecin-gueris-toi-toi-meme",
           "title": "Médecin, guéris-toi toi-même",
           "shingles": 9106,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5070,6 +5252,7 @@
           "a": "mevar-pdfs/medecin_gueris_toi_toi_meme_15_02_2015",
           "b": "mevar/medecin-gueris-toi-toi-meme",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.962,
           "in_b": 0.962,
           "title": 1
@@ -5085,13 +5268,13 @@
           "id": "mevar/nehemie-echanson-du-roi-artaxerxes",
           "title": "Néhémie - Echanson du Roi Artaxerxés",
           "shingles": 5198,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_nehemie_fevrier_2015",
           "title": "Néhémie – Échanson du Roi Artaxerxès",
           "shingles": 5188,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5099,6 +5282,7 @@
           "a": "mevar/nehemie-echanson-du-roi-artaxerxes",
           "b": "onedrive/exho_nehemie_fevrier_2015",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.946,
           "in_b": 0.947,
           "title": 1
@@ -5114,13 +5298,13 @@
           "id": "mevar/nehuschtan-le-serpent-d-airain",
           "title": "Néhuschtan : le serpent d'airain",
           "shingles": 3138,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Serpent-d-airain_2019",
           "title": "Nehuschtan : Le serpent d'airain ou comment un message ou une instruction de Dieu peut devenir une idole",
           "shingles": 3148,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5128,6 +5312,7 @@
           "a": "mevar/nehuschtan-le-serpent-d-airain",
           "b": "onedrive/Serpent-d-airain_2019",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.971,
           "in_b": 0.968,
           "title": 0.462
@@ -5143,13 +5328,13 @@
           "id": "mevar/ninive-et-tarsis",
           "title": "Ninive et Tarsis",
           "shingles": 14349,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/ninive-et-tarsis-juin-2015",
           "title": "Ninive et Tarsis",
           "shingles": 14338,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5157,6 +5342,7 @@
           "a": "mevar/ninive-et-tarsis",
           "b": "onedrive/ninive-et-tarsis-juin-2015",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.956,
           "in_b": 0.956,
           "title": 1
@@ -5172,13 +5358,13 @@
           "id": "mevar/notre-generation-verra-la-guerre",
           "title": "Notre génération verra la guerre",
           "shingles": 5354,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_Fin_Avril_2015",
           "title": "NOTRE GENERATION VERRA LA GUERRE",
           "shingles": 5341,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5186,6 +5372,7 @@
           "a": "mevar/notre-generation-verra-la-guerre",
           "b": "onedrive/Exhortation_Fin_Avril_2015",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.957,
           "in_b": 0.96,
           "title": 1
@@ -5201,13 +5388,13 @@
           "id": "mevar/notre-position-comparee-a-celle-de-jeremie",
           "title": "Notre position comparée à celle de Jérémie",
           "shingles": 6404,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/NOTRE_POSITION_COMPAREE_A_CELLE_DE_JEREMIE",
           "title": "Notre position comparée à celle de Jérémie",
           "shingles": 6405,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5215,6 +5402,7 @@
           "a": "mevar/notre-position-comparee-a-celle-de-jeremie",
           "b": "onedrive/NOTRE_POSITION_COMPAREE_A_CELLE_DE_JEREMIE",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.963,
           "in_b": 0.963,
           "title": 1
@@ -5230,13 +5418,13 @@
           "id": "mevar/notre-volonte",
           "title": "Notre Volonté",
           "shingles": 10014,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/notre_volonte",
           "title": "Notre volonté",
           "shingles": 10017,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5244,6 +5432,7 @@
           "a": "mevar/notre-volonte",
           "b": "onedrive/notre_volonte",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.959,
           "title": 1
@@ -5259,13 +5448,13 @@
           "id": "mevar/nous-avons-vu-son-etoile",
           "title": "Nous avons vu son étoile",
           "shingles": 6313,
-          "ocr_rate": 0
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/exho_fin_2014",
           "title": "NOUS AVONS VU SON ETOILE",
           "shingles": 6318,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5273,6 +5462,7 @@
           "a": "mevar/nous-avons-vu-son-etoile",
           "b": "onedrive/exho_fin_2014",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.94,
           "in_b": 0.94,
           "title": 1
@@ -5288,13 +5478,13 @@
           "id": "mevar-pdfs/sujets_de_priere_novembre_2019",
           "title": "Sujets de Prière Novembre – Décembre 2019",
           "shingles": 372,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/novembre-decembre-2019",
           "title": "Novembre - Décembre 2019",
           "shingles": 401,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5302,6 +5492,7 @@
           "a": "mevar-pdfs/sujets_de_priere_novembre_2019",
           "b": "mevar/novembre-decembre-2019",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.944,
           "in_b": 0.875,
           "title": 0.75
@@ -5317,13 +5508,13 @@
           "id": "mevar/on-l-appellera-samuel",
           "title": "On l’appellera Samuel",
           "shingles": 13228,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exhofinfev2010",
           "title": "ON L’APPELLERA SAMUEL",
           "shingles": 13170,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5331,6 +5522,7 @@
           "a": "mevar/on-l-appellera-samuel",
           "b": "onedrive/exhofinfev2010",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.955,
           "in_b": 0.959,
           "title": 1
@@ -5346,13 +5538,13 @@
           "id": "mevar-pdfs/Le_lavage_des_pieds_17_fevrier_2020_Lausanne",
           "title": "Ôtons nos vêtements",
           "shingles": 8187,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/otons-nos-vetements",
           "title": "Ôtons nos vêtements",
           "shingles": 8232,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -5360,6 +5552,7 @@
           "a": "mevar-pdfs/Le_lavage_des_pieds_17_fevrier_2020_Lausanne",
           "b": "mevar/otons-nos-vetements",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.951,
           "in_b": 0.946,
           "title": 1
@@ -5375,13 +5568,13 @@
           "id": "mevar/plusieurs-me-diront-seigneur-seigneur",
           "title": "Plusieurs me diront : Seigneur ! Seigneur !",
           "shingles": 7343,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/ehojuin2010",
           "title": "Plusieurs me diront : Seigneur ! Seigneur !",
           "shingles": 7352,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5389,6 +5582,7 @@
           "a": "mevar/plusieurs-me-diront-seigneur-seigneur",
           "b": "onedrive/ehojuin2010",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.94,
           "in_b": 0.938,
           "title": 1
@@ -5404,13 +5598,13 @@
           "id": "mevar-pdfs/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019",
           "title": "Pourquoi ne sommes-nous pas exaucés ?",
           "shingles": 9969,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/pourquoi-ne-sommes-nous-pas-exauces",
           "title": "Pourquoi ne sommes-nous pas exaucés ?",
           "shingles": 9953,
-          "ocr_rate": 0.002
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5418,6 +5612,7 @@
           "a": "mevar-pdfs/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019",
           "b": "mevar/pourquoi-ne-sommes-nous-pas-exauces",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.956,
           "in_b": 0.958,
           "title": 1
@@ -5433,13 +5628,13 @@
           "id": "mevar/prenez-courage",
           "title": "Prenez courage",
           "shingles": 8004,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/courage",
           "title": "PRENEZ COURAGE !",
           "shingles": 7990,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5447,6 +5642,7 @@
           "a": "mevar/prenez-courage",
           "b": "onedrive/courage",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.952,
           "in_b": 0.954,
           "title": 1
@@ -5462,13 +5658,13 @@
           "id": "mevar/prenez-garde-a-ce-que-vous-entendez",
           "title": "Prenez garde à ce que vous entendez",
           "shingles": 2499,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/exho_novembre_2008",
           "title": "Exhortation du Mois de Novembre 2008",
           "shingles": 2503,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5476,6 +5672,7 @@
           "a": "mevar/prenez-garde-a-ce-que-vous-entendez",
           "b": "onedrive/exho_novembre_2008",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.956,
           "in_b": 0.954,
           "title": 0
@@ -5491,13 +5688,13 @@
           "id": "mevar/presence-demoniaque-dans-les-mariages",
           "title": "Présence démoniaque dans les mariages",
           "shingles": 11714,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/presence_demoniaque_dans_les_mariages",
           "title": "Présence démoniaque dans les mariages",
           "shingles": 11713,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5505,6 +5702,7 @@
           "a": "mevar/presence-demoniaque-dans-les-mariages",
           "b": "onedrive/presence_demoniaque_dans_les_mariages",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.971,
           "in_b": 0.971,
           "title": 1
@@ -5520,13 +5718,13 @@
           "id": "mevar/qu-ismael-vive-devant-ta-face",
           "title": "Qu'Ismaël vive devant ta face",
           "shingles": 5910,
-          "ocr_rate": 0.001
+          "ocr_tokens": 3
         },
         {
           "id": "onedrive/exho_ juillet_2013",
           "title": "Qu'Ismaël vive devant ta face",
           "shingles": 5892,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5534,6 +5732,7 @@
           "a": "mevar/qu-ismael-vive-devant-ta-face",
           "b": "onedrive/exho_ juillet_2013",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.931,
           "in_b": 0.934,
           "title": 1
@@ -5549,13 +5748,13 @@
           "id": "mevar/que-celui-qui-a-des-oreilles-ecoute-ce-que-l-esprit-dit-aux-eglises",
           "title": "Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises",
           "shingles": 5302,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/que_celui",
           "title": "Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises",
           "shingles": 5292,
-          "ocr_rate": 0.001
+          "ocr_tokens": 1
         }
       ],
       "pairs": [
@@ -5563,6 +5762,7 @@
           "a": "mevar/que-celui-qui-a-des-oreilles-ecoute-ce-que-l-esprit-dit-aux-eglises",
           "b": "onedrive/que_celui",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.941,
           "in_b": 0.943,
           "title": 1
@@ -5578,19 +5778,19 @@
           "id": "mevar/qui-enverrai-je",
           "title": "Qui enverrai-je ?",
           "shingles": 4471,
-          "ocr_rate": 0.001
+          "ocr_tokens": 4
         },
         {
           "id": "onedrive/pred_quienverrai-je",
           "title": "QUI ENVERRAI-JE ?",
           "shingles": 4918,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/pred_quienverraije",
           "title": "QUI ENVERRAI-JE ?",
           "shingles": 4918,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5598,6 +5798,7 @@
           "a": "mevar/qui-enverrai-je",
           "b": "onedrive/pred_quienverrai-je",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.938,
           "in_b": 0.853,
           "title": 1
@@ -5606,6 +5807,7 @@
           "a": "mevar/qui-enverrai-je",
           "b": "onedrive/pred_quienverraije",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.938,
           "in_b": 0.853,
           "title": 1
@@ -5614,6 +5816,7 @@
           "a": "onedrive/pred_quienverrai-je",
           "b": "onedrive/pred_quienverraije",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.961,
           "in_b": 0.961,
           "title": 1
@@ -5629,13 +5832,13 @@
           "id": "mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit",
           "title": "Qui est-ce qui plante une vigne et n’en mange pas le fruit ?",
           "shingles": 10416,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exho_de_Mai_2015",
           "title": "QUI EST-CE QUI PLANTE UNE VIGNE ET N’EN MANGE PAS LE FRUIT ?",
           "shingles": 10404,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5643,6 +5846,7 @@
           "a": "mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit",
           "b": "onedrive/Exho_de_Mai_2015",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.969,
           "in_b": 0.97,
           "title": 1
@@ -5658,13 +5862,13 @@
           "id": "mevar/qui-sera-enleve",
           "title": "Qui sera enlevé?",
           "shingles": 36923,
-          "ocr_rate": 0
+          "ocr_tokens": 4
         },
         {
           "id": "onedrive/qui_sera_enleve",
           "title": "Qui sera enlevé ?",
           "shingles": 36836,
-          "ocr_rate": 0
+          "ocr_tokens": 6
         }
       ],
       "pairs": [
@@ -5672,6 +5876,7 @@
           "a": "mevar/qui-sera-enleve",
           "b": "onedrive/qui_sera_enleve",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.954,
           "in_b": 0.957,
           "title": 1
@@ -5687,13 +5892,13 @@
           "id": "mevar/reveillez-vous-et-preparez-la-guerre",
           "title": "Réveillez-vous et préparez la guerre",
           "shingles": 8519,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/juillet",
           "title": "Exhortation du Mois de Juillet 2006",
           "shingles": 8503,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5701,6 +5906,7 @@
           "a": "mevar/reveillez-vous-et-preparez-la-guerre",
           "b": "onedrive/juillet",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.949,
           "in_b": 0.951,
           "title": 0
@@ -5716,13 +5922,13 @@
           "id": "mevar-pdfs/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire",
           "title": "SANS MOI VOUS NE POUVEZ RIEN FAIRE",
           "shingles": 4012,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/sans-moi-vous-ne-pouvez-rien-faire",
           "title": "Sans Moi vous ne pouvez rien faire",
           "shingles": 3181,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5730,6 +5936,7 @@
           "a": "mevar-pdfs/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire",
           "b": "mevar/sans-moi-vous-ne-pouvez-rien-faire",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.725,
           "in_b": 0.914,
           "title": 1
@@ -5745,13 +5952,13 @@
           "id": "mevar/se-placer-sous-la-benediction-de-dieu",
           "title": "Se placer sous la bénédiction de Dieu",
           "shingles": 4181,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/exho_mi_fevrier2013",
           "title": "Se placer sous la bénédiction de Dieu",
           "shingles": 4192,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5759,6 +5966,7 @@
           "a": "mevar/se-placer-sous-la-benediction-de-dieu",
           "b": "onedrive/exho_mi_fevrier2013",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.958,
           "in_b": 0.956,
           "title": 1
@@ -5774,13 +5982,13 @@
           "id": "mevar/seigneur-je-te-suivrai-partout-ou-tu-iras",
           "title": "Seigneur, Je te suivrai, partout ou tu iras",
           "shingles": 4435,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_de_Fevrier_2018",
           "title": "SEIGNEUR, JE TE SUIVRAI, PARTOUT OU TU IRAS",
           "shingles": 4400,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5788,6 +5996,7 @@
           "a": "mevar/seigneur-je-te-suivrai-partout-ou-tu-iras",
           "b": "onedrive/Exhortation_de_Fevrier_2018",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.949,
           "in_b": 0.956,
           "title": 1
@@ -5803,13 +6012,13 @@
           "id": "mevar/si-dieu-est-avec-nous-soyons-aussi-avec-lui",
           "title": "Si Dieu est avec nous - soyons aussi avec lui",
           "shingles": 5804,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_fin_septembre",
           "title": "SI DIEU EST AVEC NOUS – SOYONS AUSSI AVEC LUI",
           "shingles": 5787,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5817,6 +6026,7 @@
           "a": "mevar/si-dieu-est-avec-nous-soyons-aussi-avec-lui",
           "b": "onedrive/exho_fin_septembre",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.957,
           "in_b": 0.96,
           "title": 1
@@ -5832,13 +6042,13 @@
           "id": "mevar-pdfs/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde_samuel_august_2022",
           "title": "La foi comme un grain de moutarde",
           "shingles": 3451,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde",
           "title": "Si vous aviez de la foi comme un grain de moutarde",
           "shingles": 3526,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5846,6 +6056,7 @@
           "a": "mevar-pdfs/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde_samuel_august_2022",
           "b": "mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.977,
           "in_b": 0.956,
           "title": 0.75
@@ -5861,19 +6072,19 @@
           "id": "mevar/sors-de-ton-lit",
           "title": "Sors de ton lit !",
           "shingles": 8586,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/sorsdetonlit",
           "title": "SORS DE TON LIT !",
           "shingles": 8548,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/sorsdetonlit (1)",
           "title": "SORS DE TON LIT !",
           "shingles": 8561,
-          "ocr_rate": 0.001
+          "ocr_tokens": 7
         }
       ],
       "pairs": [
@@ -5881,6 +6092,7 @@
           "a": "mevar/sors-de-ton-lit",
           "b": "onedrive/sorsdetonlit",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.947,
           "in_b": 0.951,
           "title": 1
@@ -5889,6 +6101,7 @@
           "a": "mevar/sors-de-ton-lit",
           "b": "onedrive/sorsdetonlit (1)",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.947,
           "in_b": 0.95,
           "title": 1
@@ -5897,6 +6110,7 @@
           "a": "onedrive/sorsdetonlit",
           "b": "onedrive/sorsdetonlit (1)",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.971,
           "in_b": 0.97,
           "title": 1
@@ -5912,13 +6126,13 @@
           "id": "mevar/souvenez-vous",
           "title": "Souvenez-vous!",
           "shingles": 4010,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/juin",
           "title": "Souvenez-vous !",
           "shingles": 3989,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5926,6 +6140,7 @@
           "a": "mevar/souvenez-vous",
           "b": "onedrive/juin",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.903,
           "in_b": 0.908,
           "title": 1
@@ -5941,13 +6156,13 @@
           "id": "mevar-pdfs/souviens_toi_d_ou_tu_es_tombe_et_repens_toi_exhortation_de_decembre_2022",
           "title": "Souviens-toi donc d'où tu es tombé et repens-toi",
           "shingles": 2820,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi",
           "title": "Souviens-toi donc d'où tu es tombé et repens-toi",
           "shingles": 2827,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5955,6 +6170,7 @@
           "a": "mevar-pdfs/souviens_toi_d_ou_tu_es_tombe_et_repens_toi_exhortation_de_decembre_2022",
           "b": "mevar/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.946,
           "in_b": 0.944,
           "title": 1
@@ -5970,13 +6186,13 @@
           "id": "mevar-pdfs/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait",
           "title": "Soyez parfaits comme votre Père céleste est parfait",
           "shingles": 3598,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/soyez-parfaits-comme-votre-pere-celeste-est-parfait",
           "title": "Soyez parfaits comme votre Père Céleste est parfait",
           "shingles": 3614,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -5984,6 +6200,7 @@
           "a": "mevar-pdfs/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait",
           "b": "mevar/soyez-parfaits-comme-votre-pere-celeste-est-parfait",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.957,
           "in_b": 0.953,
           "title": 1
@@ -5999,13 +6216,13 @@
           "id": "mevar-pdfs/suis_moi_samuel",
           "title": "Suis-moi ! Comment être un disciple de Christ",
           "shingles": 7625,
-          "ocr_rate": 0.003
+          "ocr_tokens": 22
         },
         {
           "id": "mevar/suis-moi",
           "title": "Suis-moi",
           "shingles": 7635,
-          "ocr_rate": 0.003
+          "ocr_tokens": 20
         }
       ],
       "pairs": [
@@ -6013,6 +6230,7 @@
           "a": "mevar-pdfs/suis_moi_samuel",
           "b": "mevar/suis-moi",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.976,
           "in_b": 0.974,
           "title": 0.333
@@ -6028,13 +6246,13 @@
           "id": "mevar/suivons-le-seigneur",
           "title": "Suivons le Seigneur",
           "shingles": 10431,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Suivons_le_Seigneur",
           "title": "Suivons le Seigneur",
           "shingles": 10452,
-          "ocr_rate": 0
+          "ocr_tokens": 4
         }
       ],
       "pairs": [
@@ -6042,6 +6260,7 @@
           "a": "mevar/suivons-le-seigneur",
           "b": "onedrive/Suivons_le_Seigneur",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.962,
           "in_b": 0.96,
           "title": 1
@@ -6057,13 +6276,13 @@
           "id": "mevar/toutes-choses-s-accompliront",
           "title": "Toutes choses s'accompliront",
           "shingles": 13616,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_aout_2016",
           "title": "TOUTES CHOSES S'ACCOMPLIRONT",
           "shingles": 13595,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6071,6 +6290,7 @@
           "a": "mevar/toutes-choses-s-accompliront",
           "b": "onedrive/Exhortation_aout_2016",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.932,
           "in_b": 0.933,
           "title": 1
@@ -6086,19 +6306,19 @@
           "id": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
           "title": "Trois grandes visions du message de la fin des temps",
           "shingles": 12464,
-          "ocr_rate": 0.001
+          "ocr_tokens": 6
         },
         {
           "id": "onedrive/chap13ministere",
           "title": "Trois Grandes Visions du Message de la Fin des Temps",
           "shingles": 12453,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/chap13ministere (trois grandes visions)",
           "title": "Trois Grandes Visions du Message de la Fin des Temps",
           "shingles": 12453,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         }
       ],
       "pairs": [
@@ -6106,6 +6326,7 @@
           "a": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
           "b": "onedrive/chap13ministere",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.962,
           "in_b": 0.962,
           "title": 1
@@ -6114,6 +6335,7 @@
           "a": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
           "b": "onedrive/chap13ministere (trois grandes visions)",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.961,
           "in_b": 0.962,
           "title": 1
@@ -6122,6 +6344,7 @@
           "a": "onedrive/chap13ministere",
           "b": "onedrive/chap13ministere (trois grandes visions)",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.972,
           "in_b": 0.972,
           "title": 1
@@ -6137,13 +6360,13 @@
           "id": "mevar/tu-demandes-une-chose-difficile",
           "title": "Tu demandes une chose difficile",
           "shingles": 5006,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_de_fevrier_2014",
           "title": "Tu demandes une chose difficile",
           "shingles": 4994,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6151,6 +6374,7 @@
           "a": "mevar/tu-demandes-une-chose-difficile",
           "b": "onedrive/exho_de_fevrier_2014",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.964,
           "in_b": 0.966,
           "title": 1
@@ -6166,13 +6390,13 @@
           "id": "mevar/un-jour-pour-le-seigneur",
           "title": "Un jour pour le Seigneur",
           "shingles": 7802,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Un_jour_pour_le_Seigneur",
           "title": "Un jour pour le Seigneur",
           "shingles": 7793,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6180,6 +6404,7 @@
           "a": "mevar/un-jour-pour-le-seigneur",
           "b": "onedrive/Un_jour_pour_le_Seigneur",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.946,
           "in_b": 0.947,
           "title": 1
@@ -6195,13 +6420,13 @@
           "id": "mevar/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps",
           "title": "Un message de la fin des temps pour une foi de la fin des temps",
           "shingles": 4246,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_Mi-Aout_2016",
           "title": "Exhortation Mi-Août 2016",
           "shingles": 4229,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6209,6 +6434,7 @@
           "a": "mevar/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps",
           "b": "onedrive/Exhortation_Mi-Aout_2016",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.935,
           "in_b": 0.939,
           "title": 0
@@ -6224,13 +6450,13 @@
           "id": "mevar/un-nouveau-ciel-une-nouvelle-terre-un-nouveau-peuple",
           "title": "Un nouveau ciel — une nouvelle terre — un nouveau peuple",
           "shingles": 5567,
-          "ocr_rate": 0
+          "ocr_tokens": 1
         },
         {
           "id": "onedrive/exho_fev2011",
           "title": "Un Nouveau Ciel - Une Nouvelle Terre - Un Nouveau Peuple",
           "shingles": 5580,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6238,6 +6464,7 @@
           "a": "mevar/un-nouveau-ciel-une-nouvelle-terre-un-nouveau-peuple",
           "b": "onedrive/exho_fev2011",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.944,
           "in_b": 0.942,
           "title": 1
@@ -6253,13 +6480,13 @@
           "id": "mevar/un-pays-appele-gosen",
           "title": "Un pays appelé Gosen",
           "shingles": 7660,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/un_pays_appele_gosen",
           "title": "Un pays appelé Gosen",
           "shingles": 7666,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6267,6 +6494,7 @@
           "a": "mevar/un-pays-appele-gosen",
           "b": "onedrive/un_pays_appele_gosen",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.96,
           "in_b": 0.959,
           "title": 1
@@ -6282,13 +6510,13 @@
           "id": "mevar/un-peuple-de-sacrificateurs",
           "title": "Un Peuple de Sacrificateurs",
           "shingles": 10541,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Un peuple de sacrificateurs",
           "title": "Un Peuple de Sacrificateurs",
           "shingles": 11759,
-          "ocr_rate": 0.005
+          "ocr_tokens": 54
         }
       ],
       "pairs": [
@@ -6296,6 +6524,7 @@
           "a": "mevar/un-peuple-de-sacrificateurs",
           "b": "onedrive/Un peuple de sacrificateurs",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.98,
           "in_b": 0.878,
           "title": 1
@@ -6311,13 +6540,13 @@
           "id": "mevar/une-porte-ouverte",
           "title": "Une porte ouverte",
           "shingles": 5415,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/Exhortation_Fin_Aout_2017-pdf",
           "title": "UNE PORTE OUVERTE",
           "shingles": 5396,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6325,6 +6554,7 @@
           "a": "mevar/une-porte-ouverte",
           "b": "onedrive/Exhortation_Fin_Aout_2017-pdf",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.93,
           "in_b": 0.933,
           "title": 1
@@ -6340,13 +6570,13 @@
           "id": "mevar/une-prophetie-sur-william-branham",
           "title": "Une prophétie sur William Branham",
           "shingles": 2832,
-          "ocr_rate": 0.001
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_fin_aout_2012",
           "title": "Une prophétie sur William Branham",
           "shingles": 2843,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6354,6 +6584,7 @@
           "a": "mevar/une-prophetie-sur-william-branham",
           "b": "onedrive/exho_fin_aout_2012",
           "band": "same_sermon",
+          "decision": null,
           "in_a": 0.903,
           "in_b": 0.9,
           "title": 1
@@ -6369,13 +6600,13 @@
           "id": "mevar-pdfs/question_sans_reponse_25_octobre_2020",
           "title": "Une question sans réponse",
           "shingles": 5271,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/une-question-sans-reponse",
           "title": "Une question sans réponse",
           "shingles": 5268,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6383,6 +6614,7 @@
           "a": "mevar-pdfs/question_sans_reponse_25_octobre_2020",
           "b": "mevar/une-question-sans-reponse",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.959,
           "in_b": 0.959,
           "title": 1
@@ -6398,13 +6630,13 @@
           "id": "mevar/untitled",
           "title": "Approchez-vous de Dieu et Il s’approchera de vous",
           "shingles": 6566,
-          "ocr_rate": 0
+          "ocr_tokens": 2
         },
         {
           "id": "onedrive/approchez-vous_de_Dieu",
           "title": "Approchez-vous de Dieu et Il s’approchera de vous",
           "shingles": 6574,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6412,6 +6644,7 @@
           "a": "mevar/untitled",
           "b": "onedrive/approchez-vous_de_Dieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.914,
           "in_b": 0.913,
           "title": 1
@@ -6427,13 +6660,13 @@
           "id": "mevar-pdfs/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019",
           "title": "Voici, je me tiens à la porte, et je frappe",
           "shingles": 6244,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/voici-je-me-tiens-a-la-porte-et-je-frappe",
           "title": "Voici, je me tiens à la porte, et je frappe",
           "shingles": 6262,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6441,6 +6674,7 @@
           "a": "mevar-pdfs/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019",
           "b": "mevar/voici-je-me-tiens-a-la-porte-et-je-frappe",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.951,
           "in_b": 0.949,
           "title": 1
@@ -6456,13 +6690,13 @@
           "id": "mevar-pdfs/Quelque_chose_d_impossible_a_Dieu_11_10_2020",
           "title": "Y a-t-il quelque chose d’impossible à Dieu ?",
           "shingles": 8593,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "mevar/y-a-t-il-quelque-chose-d-impossible-a-dieu",
           "title": "Y a-t-il quelque chose d'Impossible à Dieu?",
           "shingles": 8625,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6470,6 +6704,7 @@
           "a": "mevar-pdfs/Quelque_chose_d_impossible_a_Dieu_11_10_2020",
           "b": "mevar/y-a-t-il-quelque-chose-d-impossible-a-dieu",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.953,
           "in_b": 0.949,
           "title": 1
@@ -6485,13 +6720,13 @@
           "id": "mevar/zachee-et-le-sycomore",
           "title": "Zachée et le Sycomore",
           "shingles": 3500,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/exho_aout11",
           "title": "Zachée et le sycomore",
           "shingles": 3496,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6499,6 +6734,7 @@
           "a": "mevar/zachee-et-le-sycomore",
           "b": "onedrive/exho_aout11",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.948,
           "in_b": 0.949,
           "title": 1
@@ -6507,20 +6743,20 @@
     },
     {
       "keep": "onedrive/le_mariage_et_les_peches_du_sexe",
-      "rule": "cleaner",
+      "rule": "as long and as clean, first by id",
       "keep_is_draft": false,
       "members": [
         {
           "id": "onedrive/le_mariage_et_les_peches_du_sexe",
           "title": "Le Mariage et les Péchés du Sexe",
           "shingles": 42523,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         },
         {
           "id": "onedrive/mariage_final_pdf",
           "title": "Le Mariage et les Péchés du Sexe",
           "shingles": 42628,
-          "ocr_rate": 0
+          "ocr_tokens": 0
         }
       ],
       "pairs": [
@@ -6528,6 +6764,7 @@
           "a": "onedrive/le_mariage_et_les_peches_du_sexe",
           "b": "onedrive/mariage_final_pdf",
           "band": "same_text",
+          "decision": null,
           "in_a": 0.98,
           "in_b": 0.977,
           "title": 1

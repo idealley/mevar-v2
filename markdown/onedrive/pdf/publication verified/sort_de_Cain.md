@@ -1,7 +1,6 @@
 ---
 source: "onedrive"
 sermon_id: "sort_de_Cain"
-duplicate_of: "mevar/le-sort-de-cain"
 title: "Le sort de Caïn"
 subtitle: "Exhortation de Février 2013"
 date: "2013-02-13"
