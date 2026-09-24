@@ -75,6 +75,7 @@ committed and served from our domain (`web/public/images`, `web/public/files`).
 | `91-patch-mevar-frontmatter.mjs`    | adds `local_image:` field to each mevar md frontmatter |
 | `92-download-mevar-assets.mjs`      | body images to `images/mevar/content/`, PDFs to `files/mevar/`; body links root-relative, `local_pdf:` next to `pdf_download:` / `pdf_url:` |
 | `93-optimize-images.mjs`            | `images/` to WebP, under 80 KB a file where it can     |
+| `94-relink-mevar-urls.mjs`          | body links to `mevar.org` root-relative; Ghost bookmark cards to a clean link |
 | `check-local-assets.mjs`            | every local `images/` and `files/` link in `markdown/` resolves |
 
 ## Stage 7 — SurrealDB ingest
