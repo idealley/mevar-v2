@@ -21,10 +21,14 @@ export function entryDate(e: WorkEntry): string {
  * A draft is never built, listed, counted or indexed: every route and list
  * goes through this filter. (The one exception is bookmarks.mjs, a rehype
  * plugin, which cannot read the collection and reads the frontmatter.) Ghost pages (a-propos, newsletter…) are pages of the
- * site with their own route, not works.
+ * site with their own route, not works. A duplicate (goal 09) is not built
+ * either: its URL answers 301 to the work it duplicates (astro.config.mjs).
  */
 export async function allWorks(): Promise<WorkEntry[]> {
-  const all = await getCollection("works", (e) => e.data.status !== "draft" && e.data.type !== "page");
+  const all = await getCollection(
+    "works",
+    (e) => e.data.status !== "draft" && e.data.type !== "page" && !e.data.duplicate_of,
+  );
   return all.sort((a, b) => {
     const da = entryDate(a), db = entryDate(b);
     if (da !== db) return db.localeCompare(da);
