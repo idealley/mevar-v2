@@ -19,22 +19,25 @@ no French equivalent. PR #8 made one visible: `le-ministere-de-lesprit` held
 when goal 03 removed the card.
 
 Measured on 2026-09-24 in `mevar`, `onedrive`, `le-scribe`, `cmpp` and
-`local`: 1,441 spots of the form "<Livre> chapitre N", 199 of the form
-"chapitre N de <Livre>".
+`local`, with the patterns below: 1,429 spots of the form "<Livre> chapitre
+N", 199 of the form "chapitre N de <Livre>".
 
 ## Work items
 
 1. **Two spoken patterns in `65`**, as in `66`:
    - `<Livre>,? (au |le )?chapitre N`
-   - `(le verset M du )?chapitre N (du livre |de l'épître |de l'Évangile )?(de la |de l'|des |de |d'|aux |selon )<Livre>`
+   - `(<verse> du )?chapitre N (du livre |de l'épître |de l'Évangile )?(de la |de l'|des |de |d'|aux |selon )<Livre>`,
+     the verse before the chapter being "le verset M", "le premier verset",
+     "le Mème verset", "les versets M à P" or "verset M et P"
 
-   Each can be followed by its verse, in the forms the texts use: "verset M",
-   "le verset M", "au verset M", "et au verset M", "(versets M-P", "versets M
-   à P", "à partir du verset M", "depuis le verset M", "dès le verset M",
-   "à partir du premier verset", "au verset premier", "du verset M au verset
-   P", "jusqu'au verset P", and a second verse or range after "et" ("versets
-   12 et 15"). "À partir du verset M" is recorded as `N:M`, the verse where
-   the reading starts.
+   The chapter can be followed by its verse, in the forms the texts use:
+   "chapitre N:M", "chapitre N : M", "chapitre N.M" (CMPP), "verset M", "le
+   verset M", "au verset M", "et au verset M", "(versets M-P", "versets M à
+   P", "à partir du verset M", "depuis le verset M", "dès le verset M", "à
+   partir du premier verset", "au verset premier", "du verset M au verset P",
+   "à partir du verset M jusqu'au verset P", and a second verse or range after
+   "et" or a comma ("versets 12 et 15", "11.25,26"). "À partir du verset M" is
+   recorded as `N:M`, the verse where the reading starts.
 2. **Only a full book name.** The spoken form is never abbreviated, and the
    abbreviations are words: "on a **lu** le chapitre 11", "c'**est** au
    chapitre 17", "le texte **hébreu**, au chapitre 18". Case does not matter:

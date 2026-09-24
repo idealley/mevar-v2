@@ -50,13 +50,13 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## `47` truncates `bible_refs` alphabetically at 50
 
-**Status**: 92 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah` — 4,054 references in all (2026-09-24). `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut. A new ref can push an old one out: goal 11's spoken refs took 36 out of the frontmatter of 23 files (`qui-est-dieu` no longer lists `Zacharie 12:10`).
+**Status**: 92 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah`: 4,059 references in all (2026-09-25). `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut. A new ref can push an old one out: goal 11's spoken refs took 38 out of the frontmatter of 25 files (`qui-est-dieu` no longer lists `Zacharie 12:10`).
 
 **Fix**: decide what the page should show, then either lift the cap or keep the references in order of appearance rather than alphabetically. The normalizer sorts them, so order of appearance is not recoverable today.
 
 ## `100` keeps only the first verse group of a list
 
-**Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 939 of 39,212 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").
+**Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 941 of 39,225 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").
 
 **Fix**: split a list into one `bible_ref` per group at ingest (and a `cites` edge to each), or have 65/66 emit one ref per group. Needs a SurrealDB run to verify; none was available for goal 07.
 
