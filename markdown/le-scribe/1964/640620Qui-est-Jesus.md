@@ -49,6 +49,7 @@ bible_refs:
   - "Genèse 15:13"
   - "Jacques 4:2"
   - "Jean 16:24"
+original: "branham/1964/64-0620B"
 ---
 **Résumé de : “Qui est Jésus?” (20 juin 1964, matin)**
 

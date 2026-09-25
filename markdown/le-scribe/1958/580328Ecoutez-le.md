@@ -57,7 +57,7 @@ bible_refs:
   - "Jérémie 16:23"
   - "Marc 9:42,16"
   - "Marc 15:30"
-original: "branham/1958/58-0328"
+original: "branham/1958/58-0324"
 ---
 *Résumé de : “Ecoutez-le” (28 mars 1958, soir)*
 

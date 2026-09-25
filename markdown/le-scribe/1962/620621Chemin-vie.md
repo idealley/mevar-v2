@@ -45,6 +45,7 @@ bible_refs:
   - "Psaumes 16"
   - "Hébreux 11:26"
   - "Psaumes 116:15"
+original: "branham/1962/62-0621B"
 ---
 **Résumé de!: “Le chemin de la Vie” (21 juin 1962, matin)**
 

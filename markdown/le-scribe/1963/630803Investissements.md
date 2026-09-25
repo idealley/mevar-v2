@@ -64,6 +64,7 @@ bible_refs:
   - "1 Corinthiens 2:4"
   - "Psaumes 73:3"
   - "Jean 3:7"
+original: "branham/1963/63-0803B"
 ---
 **1.** [Prière]. Quand je suis fatigué, j'aime écouter les chants du frère Mel Johnson.
 

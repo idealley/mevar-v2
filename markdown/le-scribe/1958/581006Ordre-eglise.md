@@ -39,6 +39,7 @@ bible_refs:
   - "Jean 3:16"
   - "1 Corinthiens 14:32"
   - "1 Corinthiens 14:27"
+original: "branham/1958/58-1007"
 ---
 *L'ordre dans l'église* (6 octobre 1958)
 

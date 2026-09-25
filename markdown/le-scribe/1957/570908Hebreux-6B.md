@@ -63,6 +63,7 @@ bible_refs:
   - "Galates 3:17-20"
   - "Romains 11:29"
   - "Galates 5:22"
+original: "branham/1957/57-0908E"
 ---
 **Résumé de!: “Hébreux, chapitre 6, deuxième partie” (8 septembre 1957, soir)**
 

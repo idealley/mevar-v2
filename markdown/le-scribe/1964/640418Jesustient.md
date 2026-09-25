@@ -45,6 +45,7 @@ bible_refs:
   - "Apocalypse 3:16"
   - "2 Timothée 3:5"
   - "Actes 2:38-39"
+original: "branham/1964/64-0418E"
 ---
 *Jésus tient tous ses engagements* (18 avril 1964, soir)
 

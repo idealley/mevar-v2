@@ -71,6 +71,7 @@ bible_refs:
   - "1 Pierre 1:20,2"
   - "Éphésiens 3:11"
   - "Romains 9:16"
+original: "branham/1957/57-0915E"
 ---
 *Résumé de!: “Hébreux, chapitre 7, première partie” (15 septembre 1957, soir)*
 

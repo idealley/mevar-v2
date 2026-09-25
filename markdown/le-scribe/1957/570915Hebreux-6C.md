@@ -63,6 +63,7 @@ bible_refs:
   - "Romains 8:30"
   - "Hébreux 12:1,2"
   - "Ésaïe 53:5"
+original: "branham/1957/57-0915M"
 ---
 *Résumé de!: “Hébreux, chapitre 6, troisième partie” (15 septembre 1957, matin)*
 

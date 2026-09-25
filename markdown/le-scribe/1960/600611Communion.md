@@ -55,6 +55,7 @@ bible_refs:
   - "Jérémie 31:33"
   - "Hébreux 8:10"
   - "1 Corinthiens 15:55,57"
+original: "branham/1960/60-0611B"
 ---
 **1.** [Cantique, puis courte prière] …
 

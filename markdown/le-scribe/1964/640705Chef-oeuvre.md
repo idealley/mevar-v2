@@ -67,6 +67,7 @@ bible_refs:
   - "Luc 17:28,30"
   - "Malachie 4:5"
   - "Zacharie 14:7"
+original: "branham/1964/64-0705"
 ---
 **Résumé de!: “Le chef-d'œuvre” (5 juillet 1964, après-midi)**
 

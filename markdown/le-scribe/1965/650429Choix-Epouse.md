@@ -74,6 +74,7 @@ bible_refs:
   - "1 Samuel 16:7"
   - "1 Samuel 4:21"
   - "Daniel 5"
+original: "branham/1965/65-0429E"
 ---
 *Résumé de : “Le choix d'une Epouse” (29 avril 1965, après-midi)*
 
