@@ -49,6 +49,9 @@ for (const mdPath of walk(mdRoot)) {
   const manifest = manifestEntries.get(`${source}/${basename}`);
   // Written by 49-link-le-scribe-branham.mjs — frontmatter, not a manifest.
   const original = text.match(/^original: "(.+)"$/m)?.[1] ?? null;
+  // A post's status is its frontmatter's, as the site builds it: Samuel
+  // publishes a draft here, and mevar.json keeps what the Ghost import said.
+  const status = text.match(/^status: "(.+)"$/m)?.[1] ?? manifest?.status ?? null;
 
   index.push({
     source,
@@ -68,7 +71,7 @@ for (const mdPath of walk(mdRoot)) {
     tags: manifest?.tags ?? null,
     authors: manifest?.authors ?? null,
     type: manifest?.type ?? null,
-    status: manifest?.status ?? null,
+    status,
     summary: manifest?.summary ?? null,
     persons: manifest?.persons ?? null,
     places: manifest?.places ?? null,
