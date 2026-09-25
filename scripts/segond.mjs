@@ -1,6 +1,8 @@
 // A Scripture reading as goal 10's editorial pass inserts it: the Louis Segond
-// verses from SurrealDB (bible_verse, seeded by 110), rendered in the house
-// style of goal 04, `> _**1**Adam connut Ève… **2**Elle enfanta…_`. The pass
+// verses from SurrealDB (bible_verse, seeded by 110), rendered as the
+// published sermons quote Scripture (ce-qui-arrive-le-jour-du-seigneur):
+// `> **1**Adam connut Ève… **2**Elle enfanta… (Genèse 4:1-2)`; the site sets
+// a blockquote in italics. The pass
 // (85) writes it, the check (86) verifies it against the same records.
 
 import { Surreal, RecordId } from "surrealdb";
@@ -33,4 +35,4 @@ export async function reading(db, ref) {
   return rows.map((r) => ({ n: r.id.id[2], text: tidy(r.lsg) })).sort((a, b) => a.n - b.n);
 }
 
-export const blockquote = (verses) => `> _${verses.map((v) => `**${v.n}**${v.text}`).join(" ")}_`;
+export const blockquote = (verses, ref) => `> ${verses.map((v) => `**${v.n}**${v.text}`).join(" ")} (${ref})`;
