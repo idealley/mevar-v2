@@ -1026,7 +1026,7 @@
     {
       "keep": "mevar/dieu-veille-sur-sa-parole-pour-lexecuter",
       "rule": "ghost post",
-      "held": "kept by a Ghost draft",
+      "held": null,
       "members": [
         {
           "id": "mevar/dieu-veille-sur-sa-parole-pour-lexecuter",
@@ -3108,7 +3108,7 @@
     {
       "keep": "mevar/la-toilette-du-chretien",
       "rule": "ghost post",
-      "held": "kept by a Ghost draft",
+      "held": null,
       "members": [
         {
           "id": "mevar/la-toilette-du-chretien",
@@ -4377,7 +4377,7 @@
     {
       "keep": "mevar/le-sort-de-cain",
       "rule": "ghost post",
-      "held": "kept by a Ghost draft",
+      "held": null,
       "members": [
         {
           "id": "mevar/le-sort-de-cain",
@@ -4497,7 +4497,7 @@
     {
       "keep": "mevar/le-temoignage-final",
       "rule": "ghost post",
-      "held": "kept by a Ghost draft",
+      "held": null,
       "members": [
         {
           "id": "mevar/le-temoignage-final",
@@ -6156,7 +6156,7 @@
     {
       "keep": "mevar/sors-de-ton-lit",
       "rule": "ghost post",
-      "held": "kept by a Ghost draft",
+      "held": null,
       "members": [
         {
           "id": "mevar/sors-de-ton-lit",
@@ -6330,7 +6330,7 @@
     {
       "keep": "mevar/suivons-le-seigneur",
       "rule": "ghost post",
-      "held": "kept by a Ghost draft",
+      "held": null,
       "members": [
         {
           "id": "mevar/suivons-le-seigneur",

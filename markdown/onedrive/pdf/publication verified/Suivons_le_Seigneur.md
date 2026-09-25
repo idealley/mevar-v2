@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Suivons_le_Seigneur"
+duplicate_of: "mevar/suivons-le-seigneur"
 title: "Suivons le Seigneur"
 date: "2016-11-10"
 year: 2016
