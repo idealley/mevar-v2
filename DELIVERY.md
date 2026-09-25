@@ -38,7 +38,10 @@ content site with one human needs.
    Fix every finding or decline it with evidence in the commit message that
    answers the round. Re-run once. Open the PR at ACCEPT, or after the second
    round with the remaining findings and the evidence against them in the PR
-   description under "Independent review".
+   description under "Independent review". When the dispatch or Samuel asks
+   for it, a second opinion from another model family follows, with the
+   `codex-second-opinion` skill (`.claude/skills/`); its result goes under
+   "Second opinion".
 5. **Non-draft PR** with `gh pr create`. The description opens with the
    problem, names the goal file, and lists every acceptance item with the
    command run and its output. Deviations from the goal file are stated, not

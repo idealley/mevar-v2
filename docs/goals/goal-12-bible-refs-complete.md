@@ -96,7 +96,7 @@ measured on `main` after PR #12 (2026-09-25).
    of pairs of refs whose first occurrences share an index (expected: 6 in
    `66`, each a chapter and the same chapter with its verse, such as `Luke
    11:24` before `Luke 11`; 0 in `65`). Plus twenty random works with at
-   least five refs, each with its first three refs and the words where they
+   least five refs, drawn with a seed stated in the PR, each with its first three refs and the words where they
    occur.
 3. **Nothing is cut.** For every markdown file with refs, the frontmatter
    `bible_refs` equals the manifest list, same length and same order.

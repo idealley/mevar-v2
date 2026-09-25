@@ -16,7 +16,7 @@ from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 | 09 | [Mevar duplicates](goal-09-mevar-duplicates.md): each sermon once across Ghost, PDFs and OneDrive | none | Samuel decides the uncertain pairs |
 | 10 | [Mevar editorial](goal-10-mevar-editorial.md): goal 04's pass on the OneDrive and PDF texts, in batches | 09 | cost estimate; Samuel reads a sample of each batch |
 | 11 | [French spoken refs](goal-11-french-spoken-refs.md): "Luc chapitre 18 verset 9" and "le chapitre 24 de Matthieu" are recorded | 07 | none |
-| 12 | [Bible refs complete](goal-12-bible-refs-complete.md): every ref in the frontmatter, in the order the work cites them | 11 | none |
+| 12 | [Bible refs complete](goal-12-bible-refs-complete.md): every ref in the frontmatter, in the order the work cites them | 08, 11 | none |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.

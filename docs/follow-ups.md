@@ -73,21 +73,12 @@ at the stop points. End with the report DELIVERY.md asks for.
 Goal file: docs/goals/goal-12-bible-refs-complete.md. Branch:
 goal-12-bible-refs-complete.
 
-Before changing anything, outside the repo, save the commit the branch
-starts from (`git rev-parse origin/main`) and a copy of
-manifests/bible-refs.json at that commit. That is the baseline every
-acceptance item compares against, even if main moves meanwhile.
-The goal is a pure reorder plus the end of the cap; its stop rule (a work
-that gains or loses a ref) is in the goal file.
-
 Order of work: 65 and 66 first (one commit, code only), then 47 (one
 commit), then the regeneration 65, 66, 47, 50 (one data commit), then docs.
 The data commit touches about 2,610 markdown files; never read that diff
 file by file. Prove items 1 to 4 of the acceptance with node scripts that
-compare the working files with the saved baseline (and, for bodies and
-other frontmatter fields, with `git show <saved commit>:<path>`), and show
-their output in the PR. Refs that start at the same position are ordered
-as the goal file says.
+compare the working files with the baseline the goal file defines, and
+show their output in the PR.
 
 After the independent review says ACCEPT, run the codex-second-opinion
 skill (.claude/skills/codex-second-opinion, tracked, so every worktree
