@@ -6,6 +6,7 @@ node_modules/
 .llm-cache/
 .llm-cache-*/
 .parse-cache/
+.pass-cache/
 .pilot/
 .pilot-list.json
 

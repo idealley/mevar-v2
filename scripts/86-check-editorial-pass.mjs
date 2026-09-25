@@ -7,15 +7,16 @@
 //   - whitespace, punctuation, markup, paragraph breaks: not words, not compared;
 //   - typography: case, an accent on a capital (Eglise → Église), œ/oe;
 //   - spacing: a word split or joined with the same letters (c omme → comme);
-//   - page numbers removed;
-//   - the document's header removed: the "#" lines the original opens with
+//   - page numbers removed: a number alone on its line of the original;
+//   - the document's header removed: the lines before the first line of prose
 //     (title, "Prêché le … à …", which the frontmatter holds), and the old
 //     site's "Haut de page Retour Page d'accueil" bar; each is listed;
 //   - a reading inserted where the pass put a marker: " (Réf)" and the
 //     blockquote, which must equal the Segond verses in SurrealDB exactly.
 // A word replaced by another is never accepted silently: it goes into the
 // substitution table, as a non-word corrected to a word (the French Hunspell
-// dictionary says which) or as a word replaced by a word. Any other change
+// dictionary says which) or as a word replaced by a word (several words for
+// others, "à faire" → "affaire", included). Any other change
 // (a word added or removed, a reading that is not Segond) is unexplained, and
 // the text is not written.
 //
@@ -56,6 +57,8 @@ function typography(a, b) {
 }
 
 // Myers diff of two word lists, through diff(1): hunks of [before, after].
+// Two hunks at most two words apart are one change: the diff splits
+// "à faire à" → "affaire à" and "vous vous" → "Vous vous" in two.
 function hunks(a, b) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), "goal10-"));
   fs.writeFileSync(`${dir}/a`, a.map((x) => x.w).join("\n") + "\n");
@@ -63,14 +66,22 @@ function hunks(a, b) {
   const out = spawnSync("diff", [`${dir}/a`, `${dir}/b`], { encoding: "utf8", maxBuffer: 1 << 28 }).stdout;
   fs.rmSync(dir, { recursive: true });
   const range = (s) => { const [x, y = x] = s.split(",").map(Number); return [x, y]; };
-  return [...out.matchAll(/^(\d+(?:,\d+)?)([acd])(\d+(?:,\d+)?)$/gm)].map((m) => {
+  const merged = [];
+  for (const m of out.matchAll(/^(\d+(?:,\d+)?)([acd])(\d+(?:,\d+)?)$/gm)) {
     const [a1, a2] = range(m[1]), [b1, b2] = range(m[3]);
-    return {
-      before: m[2] === "a" ? [] : a.slice(a1 - 1, a2),
-      after: m[2] === "d" ? [] : b.slice(b1 - 1, b2),
-      at: b[Math.max(b1 - 1, 0)]?.at ?? 0, // where it is in the new text
-    };
-  });
+    // half-open ranges [as, ae) of a and [bs, be) of b
+    const h = m[2] === "a" ? { as: a1, ae: a1, bs: b1 - 1, be: b2 }
+      : m[2] === "d" ? { as: a1 - 1, ae: a2, bs: b1, be: b1 }
+      : { as: a1 - 1, ae: a2, bs: b1 - 1, be: b2 };
+    const last = merged.at(-1);
+    if (last && h.as - last.ae <= 2 && h.bs - last.be <= 2) Object.assign(last, { ae: h.ae, be: h.be });
+    else merged.push(h);
+  }
+  return merged.map((h) => ({
+    before: a.slice(h.as, h.ae),
+    after: b.slice(h.bs, h.be),
+    at: b[Math.min(h.bs, b.length - 1)]?.at ?? 0, // where it is in the new text
+  }));
 }
 
 function sentence(text, at) {
@@ -97,19 +108,34 @@ for (const md of batch) {
     r.readings.push({ said, ref });
   }
 
-  // The header and the navigation bar leave the original; the report lists them.
-  const lines = original.split("\n");
-  const opening = lines.findIndex((l) => l.trim() && !l.startsWith("#"));
-  r.removed = lines.slice(0, opening).filter((l) => l.trim());
-  const nav = /^(<u>)?Haut de page(<\/u>)? (<u>)?Retour(<\/u>)? (<u>)?Page d['’]accueil(<\/u>)?$/;
-  r.removed.push(...lines.filter((l) => nav.test(l.trim())));
-  const compared = lines.slice(opening).filter((l) => !nav.test(l.trim())).join("\n");
-
+  // The header (the lines before the first that is not a "#" heading and has
+  // 20 words or more) and the
+  // navigation bar leave the original when the pass removed them; the report
+  // lists each. A header line is kept when the body opens with it, in order.
   const after = words(body);
-  for (const { before, after: now, at } of hunks(words(compared), after)) {
+  const lines = original.split("\n");
+  const prose = lines.findIndex((l) => !l.startsWith("#") && words(l).length >= 20);
+  const keptHeader = new Set();
+  let next = 0;
+  lines.slice(0, prose).forEach((l, i) => {
+    const w = words(l).map((x) => fold(x.w));
+    if (w.length && w.every((x, j) => fold(after[next + j]?.w ?? "") === x)) { keptHeader.add(i); next += w.length; }
+  });
+  const nav = /^(<u>)?Haut de page(<\/u>)? (<u>)?Retour(<\/u>)? (<u>)?Page d['’]accueil(<\/u>)?$/;
+  const dropped = (l, i) => (i < prose && words(l).length && !keptHeader.has(i)) || nav.test(l.trim());
+  r.removed = lines.filter(dropped);
+  const compared = lines.filter((l, i) => !dropped(l, i)).join("\n");
+
+  // Page numbers: a number alone on its line of the original, which the pass removed.
+  const pageNumber = new Set([...compared.matchAll(/^[#*_ ]*(\d+)[*_ ]*$/gm)].map((m) => m.index + m[0].indexOf(m[1])));
+  for (const hunk of hunks(words(compared), after)) {
+    const now = hunk.after;
+    const before = hunk.before.filter((x) => !pageNumber.has(x.at));
+    r.counts.pageNumbers += hunk.before.length - before.length;
+    const text = (xs) => xs.map((x) => x.w).join(" ");
     const join = (xs) => fold(xs.map((x) => x.w).join(""));
+    if (!before.length && !now.length) continue;
     if (before.length && now.length && join(before) === join(now) && before.length !== now.length) r.counts.spacing++;
-    else if (!now.length && before.every((x) => /^\d+$/.test(x.w))) r.counts.pageNumbers += before.length;
     else if (before.length === now.length) {
       before.forEach((b, i) => {
         const a = now[i];
@@ -118,8 +144,11 @@ for (const md of batch) {
         if (!isWord(b.w) && isWord(a.w)) r.nonWord.push(row);
         else r.word.push(row);
       });
+    } else if (before.length && now.length) {
+      // several words for others ("à faire" → "affaire"): a word substitution
+      r.word.push({ before: text(before), after: text(now), sentence: sentence(body, now[0].at) });
     } else {
-      r.unexplained.push(`« ${before.map((x) => x.w).join(" ")} » → « ${now.map((x) => x.w).join(" ")} » in: ${sentence(body, at)}`);
+      r.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, hunk.at)}`);
     }
   }
 
@@ -129,12 +158,10 @@ for (const md of batch) {
   r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w)) ? pass.title : oldTitle;
 
   const file = fs.readFileSync(path.join(root, md), "utf8");
-  r.written = false;
   if (!r.unexplained.length && !/^editorial_pass:/m.test(file)) {
     const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
     const newFm = fm.replace(/^title: .*$/m, `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${pass.body}\n`);
-    r.written = true;
   }
   r.promoted = /^editorial_pass:/m.test(fs.readFileSync(path.join(root, md), "utf8"));
   rows.push(r);
