@@ -6,6 +6,7 @@
 // Bands, chosen from the distribution this script prints (goal 09 PR):
 //   same text      both containments >= 0.90                  applied
 //   same sermon    both containments >= 0.70                  applied
+//   download       a PDF held by the posts that link it       applied
 //   uncertain      one containment >= 0.20, or titles alike   applied only when
 //                  and one containment >= 0.10                Samuel says "same"
 // Samuel's answers: scripts/mevar-duplicates-decided.json, keyed "<id> | <id>",
@@ -64,7 +65,7 @@ for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
     for (let i = 0; i + K <= w.length; i++) shingles.add(w.slice(i, i + K).join(" "));
     works.push({
       id: `${source}/${field(fm, "sermon_id")}`, source, file, fm, body,
-      title: field(fm, "title"), draft: field(fm, "status") === "draft",
+      title: field(fm, "title"), draft: field(fm, "status") === "draft", pdf: field(fm, "local_pdf"),
       excerpt: body.split(/\s+/).filter(Boolean).slice(0, 300).join(" "),
       ocr: body.split(/\s+/).filter((t) => OCR.test(t)).length, shingles,
     });
@@ -134,6 +135,14 @@ const bin = (c, i) => console.log(`  ${(i / 10).toFixed(1)}-${((i + 1) / 10).toF
 bins.forEach(bin);
 console.log(`pairs below ${SAME_SERMON}, by the larger containment:`);
 below.forEach(bin);
+
+// A PDF is its posts' download when the Ghost posts that link it (same
+// local_pdf) hold it between them: one PDF for parts 1 and 2 of a series.
+// Applied like same text. A book whose post is an excerpt stays uncertain.
+for (const w of works.filter((w) => w.source === "mevar-pdfs")) {
+  const links = pairs.filter((p) => p.band === "uncertain" && (p.a === w ? p.b : p.b === w ? p.a : null)?.pdf === w.pdf);
+  if (links.reduce((n, p) => n + (p.a === w ? p.in_a : p.in_b), 0) >= SAME_TEXT) for (const p of links) p.band = "download";
+}
 
 const keys = new Set(pairs.map((p) => `${p.a.id} | ${p.b.id}`));
 for (const [key, value] of Object.entries(decided)) {
