@@ -104,12 +104,12 @@ for (const page of pages) {
     if (!href.startsWith("#")) {
       hrefs++;
       const p = url.pathname;
-      if (!known.has(p)) known.set(p, served(p) !== null);
-      if (!known.get(p)) {
+      if (!known.has(p)) known.set(p, served(p));
+      const f = known.get(p);
+      if (!f) {
         broken.push(`${path.relative(dist, page)} -> ${href}`);
         continue;
       }
-      const f = served(p);
       target = fs.statSync(f).isDirectory() ? path.join(f, "index.html") : f;
     }
     if (!fragment || !target.endsWith(".html")) continue;
