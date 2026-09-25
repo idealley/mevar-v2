@@ -50,9 +50,9 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## `47` truncates `bible_refs` alphabetically at 50, and the citing order is lost
 
-**Status**: goal 12, [`docs/goals/goal-12-bible-refs-complete.md`](goals/goal-12-bible-refs-complete.md), ready to dispatch; its Problem section has the measurements. In short: the 50-ref cap is ours (`47-lift-manifest-fields.mjs:90`), not Astro's, and hides 3,946 refs in 90 works; `65` and `66` sort each list alphabetically, though the text keeps the citing order.
+**Status**: goal 12, [`docs/goals/goal-12-bible-refs-complete.md`](goals/goal-12-bible-refs-complete.md), ready to dispatch; its Problem section has the measurements.
 
-**Fix**: goal 12. Keep the order of first appearance in `65` and `66`, remove the cap in `47`, regenerate. Dispatch text, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
+**Fix**: goal 12. Dispatch text, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
 
 ```
 Read AGENTS.md, VISION.md, DELIVERY.md, docs/goals/README.md, then the goal
@@ -70,9 +70,8 @@ goal-12-bible-refs-complete.
 Before changing anything, save a copy of manifests/bible-refs.json from
 origin/main outside the repo: it is the baseline every acceptance item
 compares against, even if main moves meanwhile.
-The goal is a pure reorder plus the end of the cap. If any work gains or
-loses a ref, stop and find out why before going further; do not "fix" what
-65 or 66 recognise, that is another goal.
+The goal is a pure reorder plus the end of the cap; its stop rule (a work
+that gains or loses a ref) is in the goal file.
 
 Order of work: 65 and 66 first (one commit, code only), then 47 (one
 commit), then the regeneration 65, 66, 47, 50 (one data commit), then docs.
@@ -80,8 +79,8 @@ The data commit touches about 2,540 markdown files; never read that diff
 file by file. Prove items 1 to 4 of the acceptance with node scripts that
 compare the working files with the saved baseline (and, for bodies and
 other frontmatter fields, with `git show origin/main:<path>`), and show
-their output in the PR. Expect 6 refs sharing a position in 66: the goal
-file says how to order them.
+their output in the PR. Refs that start at the same position are ordered
+as the goal file says.
 
 After the independent review says ACCEPT, run the codex-second-opinion
 skill (.claude/skills/codex-second-opinion): gpt-6-astra on the three

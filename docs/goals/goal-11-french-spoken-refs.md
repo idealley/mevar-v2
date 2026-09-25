@@ -77,5 +77,5 @@ N", 199 of the form "chapitre N de <Livre>".
 
 Landing check against `main`, 2026-09-25: a rerun of 65, 66, 47, 49 and 50
 leaves `git status` clean; `le-ministere-de-lesprit` has `2 Corinthiens 3`
-and `jesus-et-marie` `Actes 1:12-14`. The 38 refs the 50-ref cap pushed out
-of the frontmatter, with the 4,059 it already hid, are goal 12.
+and `jesus-et-marie` `Actes 1:12-14`. The 50-ref cap now hides 3,946 refs in
+90 works, the 38 it took from goal 11 included; that is goal 12.

@@ -33,9 +33,6 @@ A work's Bible refs are kept in two places, and neither is right.
   it, and the scripts see each position while they scan. It is only never
   kept.
 
-The manifest and the SurrealDB `cites` edges have every ref; only the
-frontmatter is cut, and only the order is missing everywhere.
-
 Ten files have refs in the manifest but no frontmatter at all (322 refs,
 among them `cmpp/undated/lc56` with 120 and `local/Volume-2-Ver2.0` with
 93). `47` skips them, cap or not. They are "Markdown files with no
@@ -56,6 +53,8 @@ frontmatter" in `docs/follow-ups.md`, not this goal.
    decides (`66`: `REF_RE`, then the spoken patterns; `65`: the spoken
    patterns, then `REF_RE`), so a run is deterministic. Nothing else in
    either script changes: the same refs are found, only their order differs.
+   If any work gains or loses a ref, stop and find out why; what 65 or 66
+   recognises is another goal.
 2. **`47` copies the whole list.** Remove `.slice(0, 50)` and its comment's
    reason; the frontmatter's `bible_refs` becomes exactly the manifest's list
    for that work, same refs, same order.
@@ -97,10 +96,11 @@ against that copy.
 2. **The order is the text's.** For every work, the position of each ref's
    first occurrence in the body, as found by the script's own patterns, never
    decreases along the list. Shown as the count of works checked, of
-   violations (expected 0) and of refs sharing a position (expected: 6 in
-   `66`, all a chapter and the same chapter with its verse, such as `Luke 11`
-   and `Luke 11:24`; 0 in `65`). Plus twenty random works with at least five
-   refs, each with its first three refs and the words where they occur.
+   violations (expected 0) and of pairs of refs whose first occurrences share
+   a position (expected: 6 pairs in `66`, each a chapter and the same chapter
+   with its verse, such as `Luke 11` and `Luke 11:24`; 0 in `65`). Plus
+   twenty random works with at least five refs, each with its first three
+   refs and the words where they occur.
 3. **Nothing is cut.** For every markdown file that has frontmatter and
    refs, the frontmatter `bible_refs` equals the manifest list, same length
    and same order. Expected: 0 mismatches; the 90 works with more than 50
