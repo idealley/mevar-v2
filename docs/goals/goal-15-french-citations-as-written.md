@@ -1,9 +1,8 @@
 # GOAL 15: The French citations read as the preacher wrote them
 
-**Status:** ready to dispatch; runs in parallel with goal 10 (not on its
-texts) and with goal 14, whose two `markdown/mevar/` posts
-(`qui-sera-enleve`, `le-jour-du-seigneur-4-et-les-tribulations`) wait
-until goal 14 merges
+**Status:** merged as PR #17 (2026-09-25). Goal 14's two `markdown/mevar/`
+posts (`qui-sera-enleve`, `le-jour-du-seigneur-4-et-les-tribulations`)
+wait until goal 14 merges: see `docs/follow-ups.md`
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, the bodies of
 `markdown/mevar/`, `markdown/le-scribe/` and, if a source is found,
 `markdown/local/`; `docs/`)
