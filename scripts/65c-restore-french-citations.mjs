@@ -30,10 +30,10 @@ const root = path.resolve(import.meta.dirname, "..");
 const ghost = new Map(
   JSON.parse(fs.readFileSync(resolveGhostExport(root), "utf8")).db[0].data.posts.map((p) => [p.slug, p]),
 );
-const ENTITIES = { "&nbsp;": " ", "&amp;": "&", "&apos;": "'", "&#39;": "'", "&quot;": '"', "&gt;": ">", "&lt;": "<" };
+const ENTITIES = { "&nbsp;": " ", "&amp;": "&", "&apos;": "'", "&#39;": "'", "&quot;": '"', "&gt;": ">" };
 // Block tags part words, inline tags do not ("<em>Dieu</em>," is "Dieu,").
 const htmlText = (html) => html
-  .replace(/<\/?(?:p|br|h\d|li|ul|ol|blockquote|div|figure|figcaption|hr|table|tr|td|th)\b[^>]*>/g, " ")
+  .replace(/<\/?(?:p|br|h\d|li|ul|ol|blockquote|div|figure|figcaption|hr)\b[^>]*>/g, " ")
   .replace(/<[^>]*>/g, "")
   .replace(/&[#\w]+;/g, (e) => ENTITIES[e] ?? e);
 
@@ -44,7 +44,7 @@ const pdfs = new Map(fs.readdirSync(pdfRoot, { recursive: true }).map((p) => [pa
 const pdfText = (pdf) => execFileSync(path.join(root, "node_modules/.bin/lit"), ["parse", "--no-ocr", "-q", pdf], { encoding: "utf8", maxBuffer: 1 << 26 });
 
 const SOURCES = {
-  mevar: (id) => { const p = ghost.get(id); return htmlText(p.html ?? p.plaintext); },
+  mevar: (id) => htmlText(ghost.get(id).html),
   "le-scribe": (id) => pdfText(pdfs.get(id)),
 };
 
