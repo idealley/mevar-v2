@@ -237,7 +237,7 @@ console.log("uncertain decided:", count(uncertain, (u) => u.decision || "open"))
 console.log(`groups: ${groups.length}; keeper rules:`, count(groups, (g) => g.rule));
 console.log("groups held, not applied:", groups.filter((g) => g.held).map((g) => `${g.keep}: ${g.held}`));
 console.log("duplicate_of per source:", count([...duplicateOf.keys()], (id) => id.split("/")[0]));
-const ghostPosts = works.filter((w) => w.source === "mevar" && !w.draft).length;
+const ghostPosts = works.filter((w) => w.source === "mevar" && !w.draft && !field(w.fm, "duplicate_of")).length;
 const others = works.filter((w) => w.source !== "mevar" && !duplicateOf.has(w.id)).length;
 const waiting = groups.filter((g) => g.held).flatMap((g) => g.members.filter((m) => m.id !== g.keep && !m.id.startsWith("mevar/"))).length;
 console.log(`Mevar set: ${ghostPosts} published Ghost posts + ${others} PDF and OneDrive texts without duplicate_of = ${ghostPosts + others}` +

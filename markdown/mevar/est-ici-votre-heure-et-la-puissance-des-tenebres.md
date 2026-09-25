@@ -1,6 +1,7 @@
 ---
 source: "mevar"
 sermon_id: "est-ici-votre-heure-et-la-puissance-des-tenebres"
+duplicate_of: "mevar/c-est-ici-votre-heure-et-la-puissance-des-tenebres"
 title: "C’est ici votre heure et la puissance des ténèbres"
 year: 2006
 published_at: "2006-09-29"

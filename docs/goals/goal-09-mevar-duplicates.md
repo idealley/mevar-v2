@@ -70,8 +70,17 @@ What exists does not settle it:
   merged meanwhile, builds the 301 from a path, and the two differ for a
   keeper in a subfolder (design item 3).
 
+- **Two published posts of one sermon** (« C'est ici votre heure et la
+  puissance des ténèbres », 2006 and 2022): Samuel keeps
+  `c-est-ici-votre-heure-et-la-puissance-des-tenebres`, « the better slug ».
+  `est-ici-votre-heure-et-la-puissance-des-tenebres` gets `duplicate_of` it,
+  by hand (83 writes only the PDF and OneDrive texts), so its URL answers
+  301 instead of disappearing; the kept post takes its « Soubré » tag, the
+  only one, so `/themes/soubre/` and goal 03's `/soubre/` keep their page.
+  `check-dist` does not expect a post with `duplicate_of` at its own URL.
+
 So besides the files below, this goal's diff also touches the six posts'
-`status:` line, `scripts/50-build-index.mjs`, `web/scripts/check-dist.mjs`
+`status:` line, the two posts above, `scripts/50-build-index.mjs`, `web/scripts/check-dist.mjs`
 and `index.json`.
 
 ## Stop point
