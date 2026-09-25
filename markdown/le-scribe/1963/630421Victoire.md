@@ -40,14 +40,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630421Victoire.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 1:7"
   - "Apocalypse 15:1"
-  - "Genèse 32:27"
   - "Hébreux 11:4"
-  - "Jacques 1:2"
-  - "Jean 14:12"
   - "Jean 1:29"
+  - "Jean 14:12"
   - "Josué 1:5"
+  - "Jacques 1:2"
+  - "1 Pierre 1:7"
+  - "Genèse 32:27"
 original: "branham/1963/63-0421"
 ---
 **Résumé de!: “Jour de victoire” (21 Avril 1963, matin)**

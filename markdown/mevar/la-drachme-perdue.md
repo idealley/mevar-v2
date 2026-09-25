@@ -20,12 +20,12 @@ ghost_id: "6448fa86db90770001518fdf"
 uuid: "e9c7ef27-808a-41c5-8a8f-edcd15763819"
 stream_url: "https://mevar.org/la-drachme-perdue/"
 bible_refs:
-  - "1 Corinthiens 13"
+  - "Luc 15:3-10"
   - "1 Corinthiens 13:13"
-  - "Hébreux 11:1-3"
   - "Hébreux 6:17-20"
   - "Luc 15"
-  - "Luc 15:3-10"
+  - "1 Corinthiens 13"
+  - "Hébreux 11:1-3"
 ---
 Que Dieu nous bénisse tous. Nous allons lire dans le livre de Luc.
 

@@ -39,12 +39,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550116Jesus-le-meme.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Marc 5:1"
   - "Hébreux 13:18"
-  - "Jean 16:16"
-  - "Jean 5:19"
   - "Jean 5:20"
   - "Marc 16"
-  - "Marc 5:1"
+  - "Jean 5:19"
+  - "Jean 16:16"
   - "Ésaïe 53:5"
 original: "branham/1955/55-0116E"
 ---

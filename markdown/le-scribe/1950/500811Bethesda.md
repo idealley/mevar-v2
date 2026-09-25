@@ -35,17 +35,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500811Bethesda.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 5:2"
+  - "Jean 14:12"
+  - "2 Timothée 3:12"
+  - "Ésaïe 6:10"
   - "1 Timothée 3:16"
   - "2 Corinthiens 5:19"
-  - "2 Rois 2:14"
-  - "2 Timothée 3:12"
-  - "Jean 11"
-  - "Jean 14:12"
   - "Jean 5:19"
-  - "Jean 5:2"
-  - "Luc 7:11-16"
   - "Luc 8:41-56"
-  - "Ésaïe 6:10"
+  - "Luc 7:11-16"
+  - "Jean 11"
+  - "2 Rois 2:14"
 original: "branham/1950/50-0811"
 ---
 **LA PISCINE DE BETHESDA**

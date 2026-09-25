@@ -41,14 +41,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550224Eau-du-Rocher.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 1:18-25"
-  - "Exode 19"
-  - "Genèse 21:14-19"
-  - "Hébreux 10:26"
-  - "Jacques 5:15"
-  - "Jean 5:24"
-  - "Jean 8:32"
   - "Nombres 20:7-11"
+  - "Jean 8:32"
+  - "Exode 19"
+  - "Hébreux 10:26"
+  - "Jean 5:24"
+  - "Jacques 5:15"
+  - "1 Corinthiens 1:18-25"
+  - "Genèse 21:14-19"
 original: "branham/1955/55-0224"
 ---
 **Résumé de : “L’Eau du Rocher” (24 février 1955, soir)**

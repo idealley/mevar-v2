@@ -41,10 +41,10 @@ themes:
 pdf_url: "http://cmpp.ch/octobre1974.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Amos 8"
   - "Hébreux 13"
-  - "Jean 21"
   - "Tite 1"
+  - "Jean 21"
+  - "Amos 8"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).
 

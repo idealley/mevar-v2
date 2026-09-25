@@ -32,19 +32,19 @@ themes:
 pdf_url: "http://cmpp.ch/exhortation_annee_2022_A5_gc.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "1 Jean 2"
-  - "1 Jean 4"
   - "2 Timothée 2"
-  - "Colossiens 3"
   - "Genèse 3"
-  - "Jean 13"
-  - "Jean 8"
+  - "Ésaïe 7"
   - "Psaumes 112"
-  - "Romains 13"
   - "Romains 6"
   - "Romains 8"
-  - "Ésaïe 7"
+  - "1 Jean 4"
+  - "Jean 13"
+  - "1 Corinthiens 13"
+  - "1 Jean 2"
+  - "Jean 8"
+  - "Colossiens 3"
+  - "Romains 13"
 ---
 EXHORTATION
 ANNEE 2022

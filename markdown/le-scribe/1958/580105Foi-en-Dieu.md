@@ -44,17 +44,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580105Foi-en-Dieu.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Marc 11:20-23"
+  - "Romains 10:17"
   - "Hébreux 11:1"
-  - "Hébreux 13:8"
+  - "Marc 11:24"
+  - "Romains 4:17"
+  - "Juges 15:16"
+  - "Marc 5:25-34"
   - "Hébreux 4:15"
+  - "Hébreux 13:8"
   - "Jean 14:12"
   - "Jean 5:19"
-  - "Juges 15:16"
-  - "Marc 11:20-23"
-  - "Marc 11:24"
-  - "Marc 5:25-34"
-  - "Romains 10:17"
-  - "Romains 4:17"
 original: "branham/1958/58-0105"
 ---
 **1.** [Prière]. C’est maintenant notre seule chance d’être mortel, et de gagner une âme. Faisons-le cette semaine, faites venir les malades. Cet après-midi, j’ai prêché sur “Pourquoi nous devons naître de nouveau”, mais nos enregistrements ne sont pas vendus le dimanche. Le frère Leo s’occupe de cela. Lisons Marc 11:20-23

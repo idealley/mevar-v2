@@ -40,8 +40,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551117Jehovah-Jireh.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Genèse 22:14"
   - "Genèse 22:7"
+  - "Genèse 22:14"
   - "Hébreux 11:6"
   - "Jean 5:19"
 original: "branham/1955/55-1117"

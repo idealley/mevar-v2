@@ -38,11 +38,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560722Tout-possible.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 5:19"
-  - "Marc 11:24"
   - "Marc 9:23"
-  - "Matthieu 8:16-17"
   - "Ésaïe 53"
+  - "Matthieu 8:16-17"
+  - "Marc 11:24"
+  - "Jean 5:19"
 original: "branham/1956/56-0722"
 ---
 **1.** J'ai prié tout l'après-midi, et je suis venu directement ici pour prêcher

@@ -43,20 +43,20 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600713Bartimee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 14:23"
   - "Actes 19"
-  - "Exode 4:8"
   - "Jacques 5:16"
-  - "Jean 5:19"
-  - "Jean 6:44,37"
   - "Jérémie 1:4"
-  - "Luc 18:37-38"
-  - "Luc 19:40"
-  - "Marc 9:23"
-  - "Matthieu 18:20"
+  - "Exode 4:8"
   - "Proverbes 14:12"
+  - "Luc 18:37-38"
+  - "Jean 5:19"
   - "Romains 4:20"
+  - "Luc 19:40"
+  - "Jean 6:44,37"
   - "Ésaïe 53:5"
+  - "1 Corinthiens 14:23"
+  - "Matthieu 18:20"
+  - "Marc 9:23"
 original: "branham/1960/60-0713"
 ---
 **Résumé de : "L'aveugle Bartimée" (le 13 juillet 1960)**

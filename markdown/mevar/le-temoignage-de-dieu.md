@@ -18,12 +18,12 @@ ghost_id: "6448fa86db90770001518fb6"
 uuid: "28bff33a-2e14-46c7-8454-f40e008c9f1b"
 stream_url: "https://mevar.org/le-temoignage-de-dieu/"
 bible_refs:
-  - "Actes 2"
-  - "Apocalypse 6"
+  - "Ézéchiel 14:12"
   - "Genèse 6"
   - "Luc 17"
+  - "Apocalypse 6"
   - "Ézéchiel 14"
-  - "Ézéchiel 14:12"
+  - "Actes 2"
 ---
 ue le nom du Seigneur soit béni. Nous allons commencer notre lecture dans Ézéchiel chapitre 14 à partir du verset 12 :
 

@@ -21,8 +21,8 @@ ghost_id: "6448fa86db90770001518f0c"
 uuid: "81fd3135-d4dd-4898-86fd-7f20021b163f"
 stream_url: "https://mevar.org/la-foi-et-la-nature-divine/"
 bible_refs:
-  - "Hébreux 11"
   - "Josué 10"
+  - "Hébreux 11"
 ---
 ## Première partie
 

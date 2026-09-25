@@ -33,9 +33,9 @@ themes:
 pdf_url: "http://cmpp.ch/lc7.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13"
   - "Actes 1"
   - "Colossiens 2"
-  - "Hébreux 13"
   - "Jacques 5"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).

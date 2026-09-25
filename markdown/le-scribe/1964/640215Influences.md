@@ -42,18 +42,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640215Influences.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Ésaïe 6:1-8"
   - "2 Chroniques 26:1"
-  - "2 Chroniques 26:19"
   - "2 Corinthiens 3:3-4"
-  - "Actes 2:38"
   - "Hébreux 12:1"
-  - "Jean 1:27"
-  - "Jean 9"
-  - "Luc 5:4-11"
+  - "2 Chroniques 26:19"
   - "Marc 16"
   - "Marc 16:19"
   - "Psaumes 16:8"
-  - "Ésaïe 6:1-8"
+  - "Jean 1:27"
+  - "Luc 5:4-11"
+  - "Jean 9"
+  - "Actes 2:38"
 original: "branham/1964/64-0215"
 ---
 **INFLUENCES**

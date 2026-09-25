@@ -18,14 +18,14 @@ ghost_id: "6448fa86db90770001518faf"
 uuid: "a466e196-50d7-4748-87a0-1b108257bd66"
 stream_url: "https://mevar.org/les-miracles-et-les-fruits-de-l-esprit/"
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 13"
-  - "2 Pierre 1"
-  - "2 Pierre 1:5-11"
-  - "Apocalypse 3"
-  - "Galates 5:19-24"
-  - "Galates 5:22"
   - "Marc 16:15-19"
+  - "Galates 5:19-24"
+  - "2 Pierre 1:5-11"
+  - "1 Corinthiens 12"
+  - "Galates 5:22"
+  - "1 Corinthiens 13"
+  - "Apocalypse 3"
+  - "2 Pierre 1"
 ---
 On va lire Mathieu chapitre 7 à partir du verset 15 :
 

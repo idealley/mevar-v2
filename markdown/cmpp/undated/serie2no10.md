@@ -48,21 +48,21 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no10.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2"
-  - "Amos 3"
-  - "Apocalypse 10"
-  - "Genèse 1"
-  - "Genèse 15:6"
+  - "Jacques 2"
   - "Genèse 22"
   - "Genèse 22:1-9"
-  - "Jacques 2"
-  - "Jean 1"
-  - "Jean 6"
-  - "Jude 1:3"
-  - "Luc 17"
-  - "Malachie 4"
   - "Romains 4:1-8"
+  - "Genèse 15:6"
+  - "Jean 6"
   - "Romains 8"
+  - "Genèse 1"
+  - "Jean 1"
+  - "Actes 2"
+  - "Malachie 4"
+  - "Luc 17"
+  - "Apocalypse 10"
+  - "Jude 1:3"
+  - "Amos 3"
 ---
 SERIE 2 N° 10
 

@@ -42,18 +42,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/520713Experiences.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15"
-  - "Actes 16:17"
-  - "Actes 16:18"
+  - "Jérémie 1:4-5"
   - "Actes 19"
-  - "Actes 24:14"
+  - "Actes 16:17"
+  - "Romains 3:4"
+  - "Actes 16:18"
+  - "Ésaïe 35:8"
+  - "1 Corinthiens 15"
+  - "Nombres 16:3"
   - "Actes 27:21"
   - "Josué 1"
   - "Josué 1:5-6"
-  - "Jérémie 1:4-5"
-  - "Nombres 16:3"
-  - "Romains 3:4"
-  - "Ésaïe 35:8"
+  - "Actes 24:14"
 original: "branham/1952/52-0713A"
 ---
 **“Premières expériences spirituelles” (13 juillet 1952)**

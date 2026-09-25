@@ -28,8 +28,8 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 13:11"
-  - "1 Corinthiens 16:13-14"
   - "Galates 4:1-2"
+  - "1 Corinthiens 16:13-14"
 ---
 # Mes meilleurs vœux pour l'année 2010
 

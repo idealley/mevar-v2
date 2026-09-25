@@ -39,11 +39,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551119Redemption.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Exode 13:12-13"
-  - "Hébreux 12:1"
   - "Job 19:25"
+  - "Exode 13:12-13"
   - "Matthieu 24:35"
   - "Ruth 1:16"
+  - "Hébreux 12:1"
 original: "branham/1955/55-1119"
 ---
 **Rédemption**

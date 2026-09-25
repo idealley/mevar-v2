@@ -36,11 +36,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580302Porte-coeur.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13:8"
-  - "2 Timothée 3:12"
   - "Apocalypse 3:20"
-  - "Galates 5:7"
+  - "2 Timothée 3:12"
   - "Marc 9:23"
+  - "Galates 5:7"
+  - "1 Corinthiens 13:8"
 original: "branham/1958/58-0302"
 ---
 **1.** J'aime ce cantique "Crois seulement" ! Il m'émeut toujours. C'est notre dernière réunion. Le frère Cerullo prendra la suite. Merci à tous pour votre coopération. Il ne fallait pas m'offrir une offrande. Je n'en ai jamais demandée. Mon secrétariat me revient à $100 par jour, et, pour les campagnes, Dieu a toujours pourvu. Mon frère Oral Roberts a besoin de $7000 par jour, mais il a un programme lourd, et je ne pourrais pas le supporter. Si je devais quémander, j'abandonnerais. Je dépense $200 en timbres chaque semaine. Merci donc pour votre offrande : elle sera dépensée pour la gloire de Dieu. Merci aux frères Darnell et Littlefield. Dimanche prochain, il y aura une réunion de guérison à Jeffersonville.

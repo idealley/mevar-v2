@@ -49,18 +49,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/wmbch17.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 18"
-  - "1 Rois 18:31"
-  - "1 Thessaloniciens 2:19"
-  - "Apocalypse 13:16"
-  - "Genèse 1:11"
-  - "Jean 5:19"
   - "Joël 2:25"
-  - "Malachie 3"
+  - "1 Thessaloniciens 2:19"
   - "Malachie 4"
   - "Matthieu 17:10"
-  - "Matthieu 24"
+  - "Genèse 1:11"
   - "Ésaïe 9:5"
+  - "Jean 5:19"
+  - "1 Rois 18:31"
+  - "1 Rois 18"
+  - "Malachie 3"
+  - "Apocalypse 13:16"
+  - "Matthieu 24"
 ---
 **CHAPITRE DIX-SEPT**
 

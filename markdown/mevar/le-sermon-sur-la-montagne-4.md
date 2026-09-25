@@ -22,14 +22,14 @@ ghost_id: "6448fa86db90770001518f6a"
 uuid: "f8aa068b-27b5-496a-990a-2781b1a68ea8"
 stream_url: "https://mevar.org/le-sermon-sur-la-montagne-4/"
 bible_refs:
-  - "1 Corinthiens 7"
-  - "Actes 21"
-  - "Galates 5"
-  - "Genèse 49"
-  - "Hébreux 7"
   - "Matthieu 5"
-  - "Matthieu 9"
+  - "Hébreux 7"
   - "Romains 2"
+  - "1 Corinthiens 7"
+  - "Galates 5"
+  - "Matthieu 9"
+  - "Actes 21"
+  - "Genèse 49"
 ---
 ## Quatrième partie
 

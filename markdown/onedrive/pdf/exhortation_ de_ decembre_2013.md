@@ -37,21 +37,21 @@ themes:
   - "Fruit de l'Esprit"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "1 Jean 3:14"
-  - "1 Jean 3:18"
-  - "1 Jean 4:20"
-  - "1 Jean 4:8"
   - "1 Pierre 1:18-21"
-  - "Galates 4:6-7"
-  - "Jacques 2:5-9"
-  - "Jean 13:34-35"
-  - "Jean 3:6"
   - "Luc 1:35"
-  - "Marc 12:30-31"
-  - "Matthieu 12:50"
+  - "Galates 4:6-7"
+  - "Jean 3:6"
   - "Matthieu 7:21"
+  - "Matthieu 12:50"
+  - "Jean 13:34-35"
   - "Philippiens 3:12-16"
+  - "1 Jean 3:18"
+  - "1 Jean 4:8"
+  - "1 Jean 3:14"
+  - "1 Jean 4:20"
+  - "1 Corinthiens 13"
+  - "Marc 12:30-31"
+  - "Jacques 2:5-9"
 ---
 *Exhortation de Novembre 2013*
 

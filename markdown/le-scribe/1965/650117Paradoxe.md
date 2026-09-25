@@ -41,19 +41,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650117Paradoxe.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 10"
-  - "Apocalypse 6"
-  - "Exode 19"
-  - "Hébreux 11:3"
-  - "Hébreux 13:8"
-  - "Jean 14:12"
-  - "Jean 14:19"
+  - "Marc 11:22"
   - "Josué 1"
   - "Josué 10:1"
   - "Josué 10:12"
-  - "Luc 22:17"
+  - "Exode 19"
+  - "Apocalypse 6"
+  - "Apocalypse 10"
   - "Malachie 4"
-  - "Marc 11:22"
+  - "Luc 22:17"
+  - "Hébreux 11:3"
+  - "Jean 14:12"
+  - "Hébreux 13:8"
+  - "Jean 14:19"
 original: "branham/1965/65-0117"
 ---
 *Un paradoxe* (17 janvier 1965, après-midi)

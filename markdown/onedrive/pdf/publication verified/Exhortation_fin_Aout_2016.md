@@ -43,20 +43,20 @@ mevar_match:
   similarity: 0.64
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 2:9-11"
-  - "1 Jean 3:9-16"
-  - "Ecclésiaste 5:1-4"
+  - "Osée 12:4-5"
+  - "Hébreux 5"
+  - "Genèse 4:1-16"
   - "Exode 23:19"
   - "Exode 34:22"
-  - "Galates 5:19-21"
-  - "Genèse 4:1-16"
-  - "Hébreux 11"
-  - "Hébreux 5"
   - "Nombres 18:17"
-  - "Nombres 23:19"
-  - "Osée 12:4-5"
-  - "Romains 8:5-9"
   - "Ésaïe 1:10-13"
+  - "Nombres 23:19"
+  - "Hébreux 11"
+  - "Galates 5:19-21"
+  - "1 Jean 2:9-11"
+  - "1 Jean 3:9-16"
+  - "Romains 8:5-9"
+  - "Ecclésiaste 5:1-4"
 ---
 ## Exhortation Septembre 2016
 

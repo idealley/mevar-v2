@@ -18,12 +18,12 @@ ghost_id: "64511358d18a430001749476"
 uuid: "404d65bc-180d-4bd1-a624-fcdb8bb0b21f"
 stream_url: "https://mevar.org/qui-enverrai-je/"
 bible_refs:
-  - "2 Rois 4"
   - "2 Rois 4:38-41"
+  - "Ésaïe 6:1-8"
+  - "2 Rois 4"
   - "2 Samuel 15"
   - "2 Timothée 2:19"
   - "Exode 20:7"
-  - "Ésaïe 6:1-8"
 ---
 Frères et sœurs, que le Seigneur vous bénisse. Nous continuons de prêcher la Parole. J’étais à So-chanwé et aujourd’hui, nous entamons les réunions de Cotonou. Nous lisons dans le livre des Rois.
 

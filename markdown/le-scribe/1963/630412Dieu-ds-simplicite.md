@@ -37,18 +37,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630412Dieu-ds-simplicite.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15:55"
-  - "2 Timothée 3:5"
-  - "Jean 14:12"
+  - "Ésaïe 53:1"
+  - "Matthieu 11:25"
+  - "Ésaïe 35:8"
   - "Jean 3:18"
   - "Jean 5:36"
   - "Malachie 4:24"
-  - "Marc 11:24"
+  - "2 Timothée 3:5"
   - "Marc 16:17"
   - "Marc 9:23"
-  - "Matthieu 11:25"
-  - "Ésaïe 35:8"
-  - "Ésaïe 53:1"
+  - "1 Corinthiens 15:55"
+  - "Jean 14:12"
+  - "Marc 11:24"
 original: "branham/1963/63-0412E"
 ---
 *Résumé de!: "Dieu caché dans la simplicité" (12 Avril 1963 soir)*

@@ -36,19 +36,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631201bEncore-une-fois.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 5:24"
+  - "Juges 16:27-28"
+  - "Juges 15:15"
+  - "Juges 16:3"
+  - "Apocalypse 17:5"
   - "2 Pierre 2:22"
+  - "Jean 15:7"
   - "2 Timothée 3:2-5"
   - "2 Timothée 3:8"
   - "Actes 2:38"
-  - "Apocalypse 17:5"
-  - "Hébreux 13:8"
-  - "Jean 15:7"
-  - "Jean 5:24"
-  - "Jean 7:37"
-  - "Juges 15:15"
-  - "Juges 16:27-28"
-  - "Juges 16:3"
   - "Juges 16:30"
+  - "Hébreux 13:8"
+  - "Jean 7:37"
 original: "branham/1963/63-1201E"
 ---
 **Résumé de!: “Juste encore une fois, Seigneur” (1er décembre 1963 soir)**

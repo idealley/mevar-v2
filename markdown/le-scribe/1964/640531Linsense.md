@@ -42,14 +42,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640531Linsense.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 2:9"
-  - "1 Rois 19:18"
-  - "2 Corinthiens 12:11"
+  - "Éphésiens 5:19"
   - "Colossiens 3:16"
+  - "2 Corinthiens 12:11"
+  - "1 Pierre 2:9"
   - "Hébreux 13:15"
+  - "1 Rois 19:18"
   - "Malachie 3:1"
   - "Matthieu 24:24"
-  - "Éphésiens 5:19"
 original: "branham/1964/64-0531"
 ---
 **L'INSENSE**

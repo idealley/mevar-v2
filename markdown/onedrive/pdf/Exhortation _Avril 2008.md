@@ -38,21 +38,21 @@ themes:
   - "Repentance et sanctification"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 11:1-4"
-  - "Apocalypse 22:15-16"
+  - "Matthieu 7"
+  - "Matthieu 7:12-15"
+  - "Jean 14:6"
   - "Jean 10"
   - "Jean 10:7"
   - "Jean 10:9"
-  - "Jean 14:6"
-  - "Joël 2:12-16"
-  - "Matthieu 7"
-  - "Matthieu 7:12-15"
-  - "Matthieu 7:15-23"
-  - "Matthieu 7:24-27"
-  - "Ésaïe 35"
   - "Ésaïe 35:3-10"
   - "Ésaïe 53"
   - "Ésaïe 53:1-9"
+  - "2 Corinthiens 11:1-4"
+  - "Matthieu 7:15-23"
+  - "Ésaïe 35"
+  - "Matthieu 7:24-27"
+  - "Joël 2:12-16"
+  - "Apocalypse 22:15-16"
 ---
 ## IL EXISTE DEUX VOIES
 

@@ -38,12 +38,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590611Decision.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 4:7-8"
+  - "Genèse 24:58"
   - "Actes 12:7"
   - "Actes 27:22-23"
-  - "Genèse 24:58"
-  - "Jean 15:7"
+  - "2 Timothée 4:7-8"
   - "Marc 11:24"
+  - "Jean 15:7"
 original: "branham/1959/59-0611"
 ---
 **1.** … [Prière pour la réunion, pour que les pasteurs repartent avec une vision renouvelée, pour les grands malades qui téléphonent depuis les hôpitaux de la région, etc.] …

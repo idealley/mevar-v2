@@ -39,19 +39,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650118Semence-discorde.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 2:18"
-  - "2 Timothée 3:5"
-  - "Genèse 5:13"
-  - "Hébreux 6:8"
-  - "Jean 3:14"
-  - "Jean 5:43"
-  - "Luc 17:28"
-  - "Luc 8:46"
   - "Matthieu 13:24-30"
   - "Matthieu 24:24"
-  - "Nombres 21:4-9"
+  - "Hébreux 6:8"
   - "Ésaïe 29:13"
+  - "Genèse 5:13"
+  - "1 Jean 2:18"
+  - "2 Timothée 3:5"
+  - "Jean 5:43"
+  - "Nombres 21:4-9"
+  - "Jean 3:14"
   - "Ésaïe 53:5"
+  - "Luc 17:28"
+  - "Luc 8:46"
 original: "branham/1965/65-0118"
 ---
 **Résumé de : “La semence de discorde” (18 Janvier 1965, soir)**

@@ -19,13 +19,13 @@ uuid: "b02e6a66-de4c-4a9c-8f00-d338721af8ce"
 stream_url: "https://mevar.org/des-hommes-faits/"
 bible_refs:
   - "1 Corinthiens 14:20"
-  - "2 Thessaloniciens 2"
-  - "Apocalypse 6"
-  - "Hébreux 5"
   - "Hébreux 5:12"
+  - "Éphésiens 4:1"
   - "Philippiens 3"
   - "Éphésiens 4"
-  - "Éphésiens 4:1"
+  - "Hébreux 5"
+  - "Apocalypse 6"
+  - "2 Thessaloniciens 2"
 ---
 Que Dieu nous bénisse. Nous rendons grâce au Seigneur pour ce matin. On va écouter la Parole de Dieu et on verra comment Dieu va nous conduire pour la suite du temps. **Des hommes faits**, c’est ce sujet-là que je voudrais qu’on aborde. Ce sont des choses que nous savons déjà ; mais comme j’aime le dire, il est bon de les rappeler pour entretenir notre foi, car la foi doit être entretenue. Amen. Une foi qui n’est pas entretenue fini par mourir, elle fini par s’éteindre et s’affaiblir. Nous lisons dans 1 corinthiens chapitre 14 verset 20 :
 

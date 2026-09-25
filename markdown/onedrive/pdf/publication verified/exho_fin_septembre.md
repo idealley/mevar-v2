@@ -41,21 +41,21 @@ mevar_match:
   similarity: 0.565
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 13:14-19"
-  - "Deutéronome 7:9,1"
+  - "Matthieu 28"
   - "Jean 14:16-18"
+  - "Deutéronome 7:9,1"
   - "Jean 14:19"
   - "Jean 16:16"
-  - "Jean 3:5"
+  - "Juges 6:12-14"
+  - "Marc 9:23"
+  - "2 Rois 13:14-19"
   - "Josué 1:1-9"
   - "Juges 1:19"
-  - "Juges 6:12-14"
-  - "Marc 11"
-  - "Marc 9:23"
-  - "Matthieu 26:41"
-  - "Matthieu 28"
   - "Romains 8:28"
+  - "Matthieu 26:41"
   - "Tite 3:5"
+  - "Jean 3:5"
+  - "Marc 11"
 ---
 ## SI DIEU EST AVEC NOUS – SOYONS AUSSI AVEC LUI
 

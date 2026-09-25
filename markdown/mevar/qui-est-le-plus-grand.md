@@ -19,8 +19,8 @@ uuid: "300f162b-da06-45c0-8386-aa96e1771438"
 stream_url: "https://mevar.org/qui-est-le-plus-grand/"
 bible_refs:
   - "1 Corinthiens 3:10"
-  - "1 Corinthiens 3:11-15"
   - "1 Corinthiens 3:15"
+  - "1 Corinthiens 3:11-15"
 ---
 ## Introduction
 

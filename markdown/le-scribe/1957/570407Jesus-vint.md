@@ -42,10 +42,10 @@ llm_cleaned: true
 bible_refs:
   - "Jean 10:18"
   - "Jean 5:19"
-  - "Matthieu 14:28"
-  - "Psaumes 16:10"
   - "Psaumes 37:23"
   - "Psaumes 84:10"
+  - "Psaumes 16:10"
+  - "Matthieu 14:28"
 original: "branham/1957/57-0407E"
 ---
 *Résumé de: Alors Jésus vint (7.04.1957)*

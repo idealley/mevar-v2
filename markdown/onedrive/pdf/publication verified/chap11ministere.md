@@ -27,13 +27,13 @@ themes:
   - "Discernement spirituel"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 1"
-  - "Actes 13"
-  - "Apocalypse 1"
+  - "Marc 4"
   - "Jean 1"
   - "Jean 5"
   - "Jean 8"
-  - "Marc 4"
+  - "Apocalypse 1"
+  - "Actes 13"
+  - "2 Timothée 1"
 ---
 ## LA PARABOLE DE LA LAMPE
 

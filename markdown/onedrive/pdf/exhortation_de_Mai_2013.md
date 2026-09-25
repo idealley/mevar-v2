@@ -36,15 +36,15 @@ themes:
   - "attente du retour du Christ"
 llm_cleaned: true
 bible_refs:
+  - "Éphésiens 2:20"
   - "1 Pierre 1:3-7"
   - "1 Pierre 5:9-10"
+  - "Hébreux 10:37"
   - "Exode 4"
   - "Exode 4:19-26"
-  - "Hébreux 10:37"
   - "Luc 22:63-65"
   - "Matthieu 12:38-39"
   - "Matthieu 13:55-58"
-  - "Éphésiens 2:20"
 ---
 ## LA NEGLIGENCE DE MOÏSE
 

@@ -44,12 +44,12 @@ themes:
   - "Rejet des prophètes"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 17"
-  - "Apocalypse 4"
-  - "Luc 4"
   - "Malachie 4:5-6"
-  - "Matthieu 10"
+  - "Apocalypse 4"
   - "Matthieu 10:40"
+  - "Luc 4"
+  - "1 Rois 17"
+  - "Matthieu 10"
   - "Zacharie 14:7"
 ---
 ## La récompense de prophète

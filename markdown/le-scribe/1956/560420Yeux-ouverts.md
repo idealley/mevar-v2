@@ -40,13 +40,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560420Yeux-ouverts.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 13:8"
-  - "Hébreux 4:15"
-  - "Jean 13:20"
   - "Jean 14:10"
   - "Jean 5:19"
   - "Luc 24:31"
+  - "Jean 13:20"
   - "Matthieu 25:40"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
   - "Néhémie 6"
 original: "branham/1956/56-0420"
 ---

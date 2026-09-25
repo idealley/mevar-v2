@@ -33,9 +33,9 @@ themes:
   - "Héritage spirituel"
 llm_cleaned: true
 bible_refs:
+  - "Genèse 32"
   - "Genèse 28:13"
   - "Genèse 28:13-15"
-  - "Genèse 32"
   - "Romains 5"
   - "Romains 5:1-5"
 ---

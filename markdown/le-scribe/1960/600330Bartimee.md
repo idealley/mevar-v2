@@ -37,14 +37,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600330Bartimee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jacques 4:8"
-  - "Jean 6:44"
-  - "Luc 18:38"
-  - "Luc 8:49-59"
-  - "Marc 5:35-43"
   - "Marc 7:33"
   - "Matthieu 9:23-26"
+  - "Marc 5:35-43"
+  - "Luc 8:49-59"
+  - "Luc 18:38"
+  - "Jean 6:44"
   - "Psaumes 66:18"
+  - "Jacques 4:8"
 original: "branham/1960/60-0330"
 ---
 “L’aveugle Bartimée” (le 30 mars 1960)

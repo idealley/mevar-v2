@@ -176,9 +176,9 @@ export interface Chapter {
 }
 
 /**
- * Every chapter a built work cites, from manifests/bible-refs.json (the
- * frontmatter keeps 50 refs a work). A range cites each of its verses. Each
- * list is Mevar first, then the archive, newest first in each.
+ * Every chapter a built work cites, from manifests/bible-refs.json. A range
+ * cites each of its verses. Each list is Mevar first, then the archive,
+ * newest first in each.
  */
 export async function bibleChapters(): Promise<Map<string, Chapter>> {
   const refs: Record<string, string[]> = bibleRefs;

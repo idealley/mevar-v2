@@ -45,15 +45,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/651128bColombe.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Amos 3:7"
-  - "Genèse 15:6-9"
-  - "Genèse 8:6-12"
-  - "Lévitique 12:6"
-  - "Lévitique 14"
+  - "Psaumes 55:2-8"
   - "Matthieu 3:16-17"
   - "Psaumes 32:2"
-  - "Psaumes 55:2-8"
   - "Romains 4:8"
+  - "Genèse 15:6-9"
+  - "Lévitique 12:6"
+  - "Lévitique 14"
+  - "Genèse 8:6-12"
+  - "Amos 3:7"
   - "Ésaïe 53:5"
 original: "branham/1965/65-1128E"
 ---

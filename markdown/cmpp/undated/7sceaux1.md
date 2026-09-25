@@ -35,21 +35,21 @@ themes:
 pdf_url: "http://cmpp.ch/7sceaux1.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Chroniques 17"
-  - "1 Corinthiens 13"
+  - "Malachie 4"
   - "Apocalypse 10"
   - "Apocalypse 19"
-  - "Apocalypse 21"
+  - "1 Chroniques 17"
   - "Jean 14"
-  - "Jean 3"
-  - "Malachie 3"
-  - "Malachie 4"
-  - "Marc 11"
-  - "Matthieu 11"
+  - "Apocalypse 21"
+  - "Ésaïe 53"
   - "Matthieu 11:25,26"
   - "Ésaïe 35"
+  - "1 Corinthiens 13"
   - "Ésaïe 40"
-  - "Ésaïe 53"
+  - "Malachie 3"
+  - "Matthieu 11"
+  - "Jean 3"
+  - "Marc 11"
 ---
 BROCHURE N° 1
 

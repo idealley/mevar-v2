@@ -39,14 +39,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500227Dieu-en-son-peuple.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 5:19"
-  - "Apocalypse 22:9"
-  - "Hébreux 13:8"
-  - "Jacques 5:16"
-  - "Jean 11:43"
-  - "Jean 14:10"
-  - "Jean 1:45-50"
   - "Jean 5:14"
+  - "Jacques 5:16"
+  - "Jean 1:45-50"
+  - "Hébreux 13:8"
+  - "Jean 14:10"
+  - "Apocalypse 22:9"
+  - "Jean 11:43"
+  - "2 Corinthiens 5:19"
 original: "branham/1950/50-0227"
 ---
 **1.** Si je peux avoir votre confiance, il se passera quelque chose pendant la réunion, et vous comprendrez alors que Dieu est avec nous. La presse me qualifie de Médecin Divin, mais c’est Christ qui guérit. Et tout individu qui représente Christ représente aussi la guérison. Il faut que le Don soit selon les Ecritures. Si un Don vient de Dieu, alors Dieu le confirme. Il faut que Dieu le confirme, et pas seulement les hommes. Chacun de nous aura donc à répondre devant Dieu de son attitude durant les prochaines réunions.

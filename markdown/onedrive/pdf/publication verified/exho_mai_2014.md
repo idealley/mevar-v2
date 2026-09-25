@@ -44,17 +44,17 @@ mevar_match:
   similarity: 0.64
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 6:4"
-  - "2 Jean 1:8"
-  - "Abdias 1:21"
   - "Apocalypse 1:7-9"
-  - "Galates 5:22-23"
+  - "Luc 10:19"
   - "Hébreux 5:13"
+  - "Abdias 1:21"
+  - "Néhémie 9:27"
   - "Jean 16:33"
   - "Jean 21:18-19"
   - "Jean 21:22-23"
-  - "Luc 10:19"
-  - "Néhémie 9:27"
+  - "Galates 5:22-23"
+  - "2 Corinthiens 6:4"
+  - "2 Jean 1:8"
 ---
 ## L'ÎLE DE PATMOS – L'ÎLE DE LA REVELATION
 

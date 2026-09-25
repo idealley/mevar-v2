@@ -1,6 +1,7 @@
 # GOAL 12: Every Bible ref of a work, in the order it is cited
 
-**Status:** ready to dispatch
+**Status:** in review (dispatched 2026-09-25 by Samuel; branch
+`goal-12-bible-refs-complete`, baseline `fba80c0`)
 **Repo:** `mevar-v2` (`scripts/47-lift-manifest-fields.mjs`,
 `scripts/65-normalize-bible.mjs`, `scripts/66-normalize-bible-en.mjs`,
 `manifests/bible-refs.json`, `index.json`, the `bible_refs` frontmatter of
@@ -108,6 +109,19 @@ measured on `main` after PR #12 (2026-09-25).
    counts.
 5. **Idempotent.** A second run of `65`, `66`, `47` and `50` leaves
    `git status` clean.
+
+## Measured
+
+On the branch, against `fba80c0`, 2026-09-25: 2,953 keys and 40,602 refs
+in `manifests/bible-refs.json`, 0 added, 0 removed, 0 duplicates; 2,609
+lists change order. Every list is its work's `citations()` in text order
+(1,820 works in `65`, 1,133 in `66`, 0 mismatches); 6 pairs of refs share a
+first index, all in `66`, each a chapter and its verse. Every frontmatter
+`bible_refs` is its manifest list (0 mismatches); the 95 works over 50 refs
+get their 4,325 others back, goal 11's 38 (25 works) included, and the
+longest list has 389. `git diff` touches 2,609 markdown files, `bible_refs`
+lines only; `index.json` changes `size_bytes` and `line_count` of 95 rows.
+A second run of 65, 66, 47 and 50 leaves `git status` clean.
 
 ## Follow-up
 

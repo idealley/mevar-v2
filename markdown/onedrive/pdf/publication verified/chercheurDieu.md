@@ -39,10 +39,10 @@ mevar_match:
   similarity: 0.545
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 3"
-  - "Apocalypse 3:14-22"
-  - "Hébreux 11:32-35"
   - "Matthieu 7:7-11"
+  - "Hébreux 11:32-35"
+  - "Apocalypse 3:14-22"
+  - "Apocalypse 3"
 ---
 ## Chercheurs de Dieu
 

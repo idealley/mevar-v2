@@ -53,8 +53,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510729Second-miracle.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 8:48-49"
   - "Jean 4:46"
+  - "1 Rois 8:48-49"
   - "Jean 5:19,14"
 original: "branham/1951/51-0729E"
 ---

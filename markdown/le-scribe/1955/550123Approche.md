@@ -43,12 +43,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550123Approche.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 1:7"
-  - "Actes 16:31"
-  - "Hébreux 12:5-11"
-  - "Hébreux 9:22"
-  - "Jean 6:44"
   - "Psaumes 65"
+  - "Jean 6:44"
+  - "Hébreux 9:22"
+  - "Actes 16:31"
+  - "1 Pierre 1:7"
+  - "Hébreux 12:5-11"
   - "Romains 8:39"
 original: "branham/1955/55-0123A"
 ---

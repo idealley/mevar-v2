@@ -44,16 +44,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/520725Foi-Afrique.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 13"
   - "3 Jean 1:2"
-  - "Actes 27:21"
-  - "Jean 4:46"
-  - "Josué 1"
-  - "Josué 1:2-9"
-  - "Marc 11:24"
-  - "Matthieu 18:18"
   - "Nombres 16"
   - "Romains 11:29"
+  - "Actes 27:21"
+  - "1 Rois 13"
+  - "Josué 1"
+  - "Josué 1:2-9"
+  - "Jean 4:46"
+  - "Marc 11:24"
+  - "Matthieu 18:18"
 original: "branham/1952/52-0725"
 ---
 **1.** Je suis heureux d’être ici pour servir le Seigneur et vous parler de Jésus-Christ, de son sacrifice pour votre corps et pour votre âme, pour votre joie. Jean écrivait : “Je souhaite que tu sois en bonne santé.” [3 Jean 1:2]. C’est la volonté de Dieu que nous soyons en bonne santé si nous pouvons avoir la foi. Je peux me tromper, mais j’ai découvert que 80% des gens qui disent avoir la foi n’ont en fait que de l’espoir. La foi est une certitude, elle est positive et inébranlable.

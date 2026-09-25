@@ -35,19 +35,19 @@ themes:
 pdf_url: "http://cmpp.ch/votre_attention_A4.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 5"
-  - "Actes 3"
-  - "Galates 6"
-  - "Hébreux 3"
-  - "Hébreux 4"
   - "Jean 13"
-  - "Luc 6"
-  - "Malachie 4"
-  - "Matthieu 24"
   - "Nombres 16"
-  - "Romains 11"
-  - "Éphésiens 5"
+  - "Matthieu 24"
+  - "Actes 3"
+  - "Malachie 4"
+  - "Luc 6"
+  - "Hébreux 3"
   - "Ésaïe 53"
+  - "Éphésiens 5"
+  - "2 Corinthiens 5"
+  - "Galates 6"
+  - "Romains 11"
+  - "Hébreux 4"
 ---
 VOTRE ATTENTION S.V.P.!
 

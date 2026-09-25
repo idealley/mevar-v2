@@ -45,15 +45,15 @@ pdf_url: "https://mevar.org/content/files/2022/12/ministere_de_l_esprit_dans_le_
 local_pdf: "/files/mevar/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 11"
-  - "1 Rois 19"
   - "2 Corinthiens 3"
-  - "Actes 9"
+  - "1 Rois 19"
   - "Exode 3"
-  - "Galates 1"
-  - "Jean 15"
   - "Josué 1"
   - "Josué 5"
+  - "Actes 9"
+  - "Jean 15"
+  - "1 Corinthiens 11"
+  - "Galates 1"
 ---
 Le ministère de l’Esprit dans le royaume de Dieu
 

@@ -50,18 +50,18 @@ themes:
   - "Nudité spirituelle"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 16:19"
-  - "1 Corinthiens 9:19-23"
-  - "1 Pierre 3:1"
-  - "2 Timothée 4:19"
-  - "Actes 18:1-4"
-  - "Actes 18:18"
-  - "Actes 18:24-26"
+  - "Matthieu 18:19"
   - "Galates 6:2"
   - "Genèse 2:25"
   - "Jean 3:19-21"
-  - "Matthieu 18:19"
+  - "Actes 18:1-4"
+  - "Actes 18:18"
+  - "Actes 18:24-26"
   - "Romains 16:3-5"
+  - "2 Timothée 4:19"
+  - "1 Corinthiens 16:19"
+  - "1 Corinthiens 9:19-23"
+  - "1 Pierre 3:1"
 ---
 ## Priscille et Aquilas – Exemple d’un couple au service de Dieu
 

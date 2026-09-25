@@ -37,13 +37,13 @@ themes:
 pdf_url: "http://cmpp.ch/lc5.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 2"
+  - "Hébreux 13"
   - "Actes 13"
-  - "Aggée 2"
+  - "2 Corinthiens 2"
   - "Habacuc 2"
   - "Hébreux 10"
-  - "Hébreux 13"
   - "Psaumes 127"
+  - "Aggée 2"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

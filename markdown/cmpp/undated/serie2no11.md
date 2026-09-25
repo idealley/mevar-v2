@@ -44,16 +44,16 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no11.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "Jean 1"
-  - "Jean 10"
-  - "Jean 5"
   - "Job 23"
-  - "Malachie 4"
+  - "Jean 10"
+  - "Jean 1"
+  - "Jean 5"
   - "Matthieu 1"
-  - "Psaumes 119"
+  - "1 Corinthiens 12"
   - "Romains 8"
   - "Zacharie 4"
+  - "Malachie 4"
+  - "Psaumes 119"
 ---
 SERIE 2 N° 11
 

@@ -36,18 +36,18 @@ themes:
   - "Administration des mystères de Dieu"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 4"
-  - "1 Timothée 3"
-  - "Actes 18"
-  - "Esdras 7"
-  - "Galates 1"
+  - "Luc 2"
   - "Jean 3"
   - "Jean 7"
-  - "Luc 2"
-  - "Luc 24"
-  - "Matthieu 13"
+  - "Galates 1"
+  - "1 Corinthiens 4"
   - "Éphésiens 3"
   - "Ésaïe 28"
+  - "1 Timothée 3"
+  - "Luc 24"
+  - "Matthieu 13"
+  - "Esdras 7"
+  - "Actes 18"
 ---
 ## LE MINISTERE DE DOCTEUR
 

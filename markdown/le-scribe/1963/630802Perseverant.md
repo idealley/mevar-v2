@@ -50,15 +50,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630802Perseverant.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 2:24"
-  - "2 Rois 4:8-37"
-  - "Actes 20:10"
+  - "Matthieu 15:21-28"
   - "Exode 3:6"
   - "Exode 7:11"
-  - "Jean 11:21-22"
-  - "Jean 9"
   - "Jean 9:3"
-  - "Matthieu 15:21-28"
+  - "Jean 11:21-22"
+  - "2 Rois 4:8-37"
+  - "1 Rois 2:24"
+  - "Jean 9"
+  - "Actes 20:10"
 original: "branham/1963/63-0802"
 ---
 **PERSEVERANT**

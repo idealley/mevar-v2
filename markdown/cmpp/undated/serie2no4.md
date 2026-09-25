@@ -43,11 +43,11 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no4.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 2"
   - "Apocalypse 3"
-  - "Hébreux 12"
   - "Matthieu 27"
   - "Romains 8"
+  - "Apocalypse 2"
+  - "Hébreux 12"
 ---
 SERIE 2 N° 4
 

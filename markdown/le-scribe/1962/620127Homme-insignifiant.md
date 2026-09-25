@@ -45,12 +45,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620127Homme-insignifiant.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 3:3-4"
+  - "Luc 7:36"
   - "1 Rois 19:9-13"
+  - "Jean 6:44,37"
+  - "1 Pierre 3:3-4"
   - "Hébreux 13:8"
   - "Jean 14:12"
-  - "Jean 6:44,37"
-  - "Luc 7:36"
   - "Luc 7:39"
 original: "branham/1962/62-0127"
 ---

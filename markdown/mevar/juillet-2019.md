@@ -18,8 +18,8 @@ ghost_id: "6448fa86db90770001518f42"
 uuid: "028b5777-0f04-41c3-98da-7a754cee58c8"
 stream_url: "https://mevar.org/juillet-2019/"
 bible_refs:
-  - "Luc 23:41"
   - "Matthieu 5:43-45"
+  - "Luc 23:41"
 ---
 ## Sujets de prière
 

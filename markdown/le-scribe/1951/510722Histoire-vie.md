@@ -44,11 +44,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510722Histoire-vie.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 24"
+  - "Jean 5:24"
+  - "Hébreux 13:10-14"
   - "1 Jean 3:2"
   - "Hébreux 11:10"
-  - "Hébreux 13:10-14"
-  - "Jean 5:24"
-  - "Matthieu 24"
 original: "branham/1951/51-0722A"
 ---
 *Histoire de ma vie*

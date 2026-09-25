@@ -55,9 +55,9 @@ mevar_match:
   similarity: 0.61
 llm_cleaned: true
 bible_refs:
-  - "Abdias 1"
-  - "Actes 7"
   - "Juges 3"
+  - "Actes 7"
+  - "Abdias 1"
 ---
 ## Les libérateurs du peuple de Dieu
 

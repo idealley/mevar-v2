@@ -40,16 +40,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/581002Commencement.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Timothée 2:5"
-  - "2 Pierre 1:20"
-  - "Actes 10:44"
-  - "Actes 19:1"
-  - "Actes 2:38-39"
-  - "Actes 4:12"
-  - "Galates 1:8"
   - "Marc 7:1"
   - "Matthieu 19:8"
+  - "1 Timothée 2:5"
   - "Romains 3:4"
+  - "2 Pierre 1:20"
+  - "Actes 2:38-39"
+  - "Actes 10:44"
+  - "Actes 19:1"
+  - "Galates 1:8"
+  - "Actes 4:12"
 original: "branham/1958/58-1002"
 ---
 **1.** J’ai été heureux de voir le frère Robert Daugherty : c’est lui qui a soutenu ma première campagne. Je vois aussi le frère Creech qui m’a aidé. L’Ange du Seigneur venait de me visiter à Green Mill [en 1946]. Deux semaines après, le frère m’a demandé d’aller à Saint-Louis où sa fille Betty souffrait de la danse de Saint Gui. Nous y sommes allés, mais rien ne se passait, et j’étais résolu à rester, car il n’y avait pas de campagne alors. En restant ainsi, il n’y a certes pas autant de personnes sauvées, mais je vais jusqu’au bout du cas. Le lendemain, vers 3 heures, j’étais dans ma voiture et j’ai senti l’Esprit descendre. Betty ne cessait de crier, et les médecins étaient impuissants. Une vision est venue devant la voiture. J’ai couru dire au frère Robert ce qu’il devait faire. C’était il y a 13 ans, et elle est une belle femme aujourd’hui. La guérison divine dure aussi longtemps que la foi.

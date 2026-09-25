@@ -41,14 +41,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590706Nos_voies.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 3:21"
   - "Apocalypse 5:3"
-  - "Jacques 4:17"
-  - "Job 19:25-26"
-  - "Josué 3:4"
-  - "Proverbes 28:13"
   - "Psaumes 119"
+  - "Josué 3:4"
   - "Psaumes 46:1"
+  - "Job 19:25-26"
+  - "Jacques 4:17"
+  - "1 Jean 3:21"
+  - "Proverbes 28:13"
 original: "branham/1959/59-0706"
 ---
 “En réfléchissant à nos voies” (le 6 juillet 1959)

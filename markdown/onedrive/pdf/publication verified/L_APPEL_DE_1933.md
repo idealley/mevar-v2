@@ -41,17 +41,17 @@ mevar_match:
   similarity: 0.539
 llm_cleaned: true
 bible_refs:
-  - "2 Thessaloniciens 2"
-  - "Amos 3"
   - "Apocalypse 12"
-  - "Apocalypse 19"
-  - "Apocalypse 3"
-  - "Apocalypse 6"
   - "Apocalypse 7"
+  - "Amos 3"
   - "Luc 1"
+  - "2 Thessaloniciens 2"
   - "Luc 21"
   - "Marc 13"
+  - "Apocalypse 6"
+  - "Apocalypse 19"
   - "Matthieu 25"
+  - "Apocalypse 3"
   - "Psaumes 90:10"
 ---
 ## L'APPEL DE 1933

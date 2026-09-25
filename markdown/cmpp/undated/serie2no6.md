@@ -36,15 +36,15 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no6.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Timothée 3"
-  - "Actes 18"
-  - "Actes 19"
-  - "Actes 4"
-  - "Jean 12"
-  - "Jean 14"
   - "Jean 14:14"
+  - "Jean 14"
+  - "1 Timothée 3"
   - "Jean 17"
   - "Matthieu 10"
+  - "Actes 19"
+  - "Actes 18"
+  - "Jean 12"
+  - "Actes 4"
 ---
 SERIE 2 N° 6
 

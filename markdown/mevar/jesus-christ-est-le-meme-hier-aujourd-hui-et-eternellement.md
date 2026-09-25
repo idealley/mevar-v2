@@ -20,14 +20,14 @@ ghost_id: "6448fa86db90770001518f06"
 uuid: "d80e4da2-71b3-4a90-9591-aa95943f4d38"
 stream_url: "https://mevar.org/jesus-christ-est-le-meme-hier-aujourd-hui-et-eternellement/"
 bible_refs:
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 13:13"
-  - "Hébreux 11"
-  - "Hébreux 11:35"
-  - "Hébreux 13"
   - "Hébreux 13:7-8"
+  - "Hébreux 11:35"
+  - "1 Corinthiens 13:13"
   - "Hébreux 13:8"
+  - "Hébreux 11"
+  - "Hébreux 13"
   - "Éphésiens 6"
+  - "1 Corinthiens 13"
 ---
 Nous allons lire dans Hébreux 13:7-8:
 

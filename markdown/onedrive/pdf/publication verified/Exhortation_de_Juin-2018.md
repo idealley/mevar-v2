@@ -48,16 +48,16 @@ mevar_match:
   similarity: 0.68
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 4:1"
-  - "Apocalypse 3:10"
+  - "Luc 17:26-32"
   - "Jacques 5:11"
-  - "Jacques 5:8"
+  - "1 Pierre 4:1"
   - "Job 42:7-9"
   - "Job 8"
   - "Job 9"
-  - "Luc 17:26-32"
   - "Matthieu 16:23"
+  - "Jacques 5:8"
   - "Éphésiens 6:13"
+  - "Apocalypse 3:10"
 ---
 ## LES VISAGES DE SATAN
 

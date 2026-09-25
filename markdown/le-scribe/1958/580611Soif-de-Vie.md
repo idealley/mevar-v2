@@ -32,12 +32,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580611Soif-de-Vie.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Psaumes 63"
   - "1 Rois 19"
   - "Apocalypse 4:2"
+  - "Ésaïe 28:8"
   - "Esdras 9:8"
   - "Psaumes 42:2"
-  - "Psaumes 63"
-  - "Ésaïe 28:8"
   - "Ézéchiel 9:4"
 original: "branham/1958/58-0611"
 ---

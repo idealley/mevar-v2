@@ -39,17 +39,17 @@ themes:
 pdf_url: "http://cmpp.ch/rev14.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 1"
-  - "Actes 2"
-  - "Apocalypse 19"
-  - "Apocalypse 4"
-  - "Apocalypse 5"
   - "Luc 3:15"
-  - "Lévitique 25"
-  - "Matthieu 1"
+  - "Apocalypse 5"
+  - "Apocalypse 4"
+  - "Apocalypse 19"
+  - "Actes 2"
   - "Matthieu 28"
-  - "Matthieu 5"
+  - "Matthieu 1"
   - "Romains 8"
+  - "Matthieu 5"
+  - "Lévitique 25"
+  - "1 Pierre 1"
 ---
 WILLIAM MARRION BRANHAM
 

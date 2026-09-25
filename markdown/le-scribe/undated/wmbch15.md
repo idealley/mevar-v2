@@ -36,10 +36,10 @@ pdf_url: "http://le-scribe.org/pdfiles/wmbch15.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 15:51"
-  - "1 Jean 3:21"
   - "Jean 6:60-68"
-  - "Marc 13:11"
   - "Matthieu 6:5,6"
+  - "Marc 13:11"
+  - "1 Jean 3:21"
 ---
 **CHAPITRE QUINZE**
 

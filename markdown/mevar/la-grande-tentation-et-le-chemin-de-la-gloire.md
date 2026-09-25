@@ -18,16 +18,16 @@ ghost_id: "6448fa86db90770001518ff9"
 uuid: "ef4c8d17-a10f-449c-8943-a5a373c6f4b2"
 stream_url: "https://mevar.org/la-grande-tentation-et-le-chemin-de-la-gloire/"
 bible_refs:
-  - "1 Corinthiens 10:13"
-  - "Actes 2"
-  - "Actes 2:1-6"
-  - "Colossiens 1:24-25"
   - "Jacques 1:12"
   - "Jean 3:16-17"
-  - "Matthieu 27:38-44"
   - "Matthieu 27:50-54"
+  - "Matthieu 27:38-44"
+  - "Actes 2"
+  - "Actes 2:1-6"
   - "Matthieu 4:1-11"
+  - "Colossiens 1:24-25"
   - "Romains 8:17-18"
+  - "1 Corinthiens 10:13"
 ---
 ## Exhortation d'octobre 2008
 

@@ -40,13 +40,13 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no7.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15"
   - "1 Corinthiens 5"
-  - "1 Thessaloniciens 4"
   - "2 Corinthiens 7"
-  - "Jean 5"
   - "Matthieu 28"
   - "Ésaïe 38"
+  - "Jean 5"
+  - "1 Thessaloniciens 4"
+  - "1 Corinthiens 15"
 ---
 SERIE 3 N° 7
 

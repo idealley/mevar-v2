@@ -50,17 +50,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631117Encore-une-fois.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 2:9"
-  - "2 Pierre 2:22"
-  - "Actes 3:1-11"
-  - "Apocalypse 17:5"
-  - "Juges 15:14-17"
-  - "Juges 16:1-3"
   - "Juges 16:23-30"
-  - "Juges 6:13"
-  - "Marc 16:15-17"
   - "Marc 16:17-18"
   - "Marc 7:13"
+  - "Marc 16:15-17"
+  - "Juges 15:14-17"
+  - "Juges 16:1-3"
+  - "2 Pierre 2:22"
+  - "1 Pierre 2:9"
+  - "Apocalypse 17:5"
+  - "Actes 3:1-11"
+  - "Juges 6:13"
 original: "branham/1963/63-1117"
 ---
 *Résumé de!: “Encore une fois” (17 novembre 1963, soir)*

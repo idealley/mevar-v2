@@ -35,11 +35,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500713Voix-Ange.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 12:7"
-  - "Actes 27:23"
-  - "Actes 8:26"
   - "Exode 23:20"
   - "Genèse 15:13-14"
+  - "Actes 8:26"
+  - "Actes 12:7"
+  - "Actes 27:23"
   - "Jean 14:1"
 original: "branham/1950/50-0713"
 ---

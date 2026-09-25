@@ -42,10 +42,10 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 22"
-  - "Luc 17"
   - "Luc 2"
   - "Luc 2:25-37"
   - "Matthieu 25"
+  - "Luc 17"
   - "Ésaïe 62"
 ---
 ## LA DERNIERE PRIERE DES SAINTS

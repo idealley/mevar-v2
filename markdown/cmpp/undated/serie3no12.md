@@ -45,18 +45,18 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no12.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 27"
   - "1 Timothée 3"
-  - "Actes 19"
+  - "Ésaïe 9"
+  - "Malachie 4"
   - "Apocalypse 13"
   - "Apocalypse 17"
-  - "Galates 1"
-  - "Hébreux 10"
-  - "Hébreux 13"
-  - "Jean 5"
-  - "Malachie 4"
   - "Matthieu 24"
-  - "Matthieu 27"
-  - "Ésaïe 9"
+  - "Actes 19"
+  - "Galates 1"
+  - "Hébreux 13"
+  - "Hébreux 10"
+  - "Jean 5"
 ---
 SERIE 3 N° 12
 

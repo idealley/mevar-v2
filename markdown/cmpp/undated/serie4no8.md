@@ -46,11 +46,11 @@ themes:
 pdf_url: "http://cmpp.ch/serie4no8.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 19"
-  - "Apocalypse 3"
   - "Hébreux 13"
-  - "Jean 11"
   - "Matthieu 17"
+  - "Apocalypse 3"
+  - "Jean 11"
+  - "Actes 19"
 ---
 SERIE 4 N° 8
 

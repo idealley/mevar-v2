@@ -18,9 +18,9 @@ ghost_id: "6448fa86db90770001518f05"
 uuid: "2795d51d-5bb5-4933-9eb9-c5e9dd778d72"
 stream_url: "https://mevar.org/le-chemin-le-plus-long/"
 bible_refs:
-  - "Actes 17:4-7"
   - "Exode 13"
   - "Exode 13:17-22"
+  - "Actes 17:4-7"
 ---
 Que Dieu soit béni ! Nous lisons dans Exode le chapitre 13. _Lorsque Pharaon laissa aller le peuple, Dieu ne le conduisit point par le chemin du pays des Philistins, quoique le plus proche ; car Dieu dit :_
 

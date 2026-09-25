@@ -20,9 +20,9 @@ ghost_id: "6448fa86db90770001518f16"
 uuid: "8899b202-8bdb-4420-8dc3-3b07ee714a56"
 stream_url: "https://mevar.org/dispensateurs-des-biens-du-christ/"
 bible_refs:
+  - "Luc 16"
   - "1 Corinthiens 4:1"
   - "1 Pierre 4:9"
-  - "Luc 16"
 ---
 Nous lisons dans Luc 16 à partir du premier verset.
 

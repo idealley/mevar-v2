@@ -46,17 +46,17 @@ themes:
 pdf_url: "http://cmpp.ch/rev03.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 19"
-  - "Actes 2"
-  - "Actes 20"
-  - "Apocalypse 12"
-  - "Galates 1"
   - "Hébreux 11"
-  - "Hébreux 13"
-  - "Hébreux 6"
-  - "Jean 6"
   - "Marc 16"
   - "Matthieu 5"
+  - "Actes 19"
+  - "Hébreux 13"
+  - "Actes 2"
+  - "Actes 20"
+  - "Galates 1"
+  - "Apocalypse 12"
+  - "Hébreux 6"
+  - "Jean 6"
 ---
 WILLIAM MARRION BRANHAM
 

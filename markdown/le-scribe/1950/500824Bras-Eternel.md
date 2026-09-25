@@ -39,10 +39,10 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500824Bras-Eternel.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 7:9"
-  - "Actes 5:15"
-  - "Actes 5:3"
   - "Ésaïe 53:1"
+  - "2 Rois 7:9"
+  - "Actes 5:3"
+  - "Actes 5:15"
 original: "branham/1950/50-0824"
 ---
 **1.** Je pars demain matin à quatre heures pour une réunion à 300 km d'ici, et je reviens dimanche. Nous avons avec nous les frères Redford et Fred Bosworth. J'ai connu ce dernier à Miami alors que, âgé de plus de 70 ans, il arrêtait de prêcher la guérison divine. Un soir d'hiver à Miami, je lui ai demandé quand il s'était senti le mieux. Il m'a répondu : "Maintenant ! Je suis un gamin qui habite une vieille maison". Le dernier soir, un homme souffrant depuis dix ans d'une sclérose en plaques avait été guéri, et a ensuite écrit au Roi George d'Angleterre. Ce soir-là, une fillette qui louchait pleurait à la porte où se tenait Mme Bosworth, parce qu'elle n'avait pas pu avoir une carte de prière. La sœur lui a expliqué qu'elle n'avait pas besoin de carte de prière, et qu'il suffisait de croire de tout son cœur, et que Dieu me parlerait sur l'estrade. J'ai senti quelque chose sur moi qui m'attirait à l'autre bout de la salle : "Dieu t'a guérie !" Elle a été guérie instantanément. La voici, ici présente ! Gloire à Dieu !

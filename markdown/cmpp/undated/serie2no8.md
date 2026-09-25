@@ -50,14 +50,14 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no8.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 4"
-  - "Actes 26"
-  - "Genèse 6"
-  - "Hébreux 11"
-  - "Jean 14"
   - "Luc 14:16"
-  - "Marc 16"
   - "Matthieu 22"
+  - "Genèse 6"
+  - "Marc 16"
+  - "Jean 14"
+  - "Actes 26"
+  - "2 Timothée 4"
+  - "Hébreux 11"
 ---
 SERIE 2 N° 8
 

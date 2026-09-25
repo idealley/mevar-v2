@@ -39,8 +39,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550815Combattre.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 5:19"
   - "Jude 1:3"
+  - "Jean 5:19"
 original: "branham/1955/55-0815"
 ---
 **1.** Je suis fatigué à cause du décalage horaire, et on vient tout juste de me réveiller. Lisons Jude 1:3 :

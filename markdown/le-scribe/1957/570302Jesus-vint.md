@@ -41,11 +41,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570302Jesus-vint.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:38-39"
-  - "Hébreux 4:15"
   - "Jean 11:17"
-  - "Jean 16:2"
   - "Jean 5:19"
+  - "Jean 16:2"
+  - "Hébreux 4:15"
+  - "Actes 2:38-39"
   - "Zacharie 14:7"
 original: "branham/1957/57-0302"
 ---

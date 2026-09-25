@@ -38,14 +38,14 @@ themes:
   - "Idolâtrie des serviteurs de Dieu"
 llm_cleaned: true
 bible_refs:
-  - "2 Thessaloniciens 2"
-  - "Apocalypse 21"
-  - "Apocalypse 22"
   - "Genèse 19"
   - "Genèse 19:1"
   - "Juges 19"
   - "Juges 20"
   - "Luc 17"
+  - "Apocalypse 22"
+  - "Apocalypse 21"
+  - "2 Thessaloniciens 2"
 ---
 ## Sodome et Gomorrhe dans l'Eglise
 

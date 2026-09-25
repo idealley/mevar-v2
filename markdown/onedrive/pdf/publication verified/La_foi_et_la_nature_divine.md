@@ -45,8 +45,8 @@ mevar_match:
   similarity: 0.564
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 11"
   - "Josué 10"
+  - "Hébreux 11"
 ---
 *Prêché à Lausanne le 25 juillet 2015 par le Fr M'BRA Parfait*
 

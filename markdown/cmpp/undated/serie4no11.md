@@ -35,13 +35,13 @@ themes:
 pdf_url: "http://cmpp.ch/serie4no11.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Psaumes 22"
+  - "Jonas 1"
+  - "Proverbes 13"
   - "Apocalypse 22"
   - "Jean 14"
-  - "Jonas 1"
-  - "Luc 17"
   - "Malachie 4"
-  - "Proverbes 13"
-  - "Psaumes 22"
+  - "Luc 17"
 ---
 SERIE 4 N° 11
 

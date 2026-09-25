@@ -40,20 +40,20 @@ pdf_url: "https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_l
 local_pdf: "/files/mevar/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 7"
-  - "Actes 21"
-  - "Actes 3"
-  - "Deutéronome 18"
-  - "Galates 5"
-  - "Genèse 49"
-  - "Hébreux 7"
-  - "Jean 1"
-  - "Marc 12"
   - "Matthieu 5"
-  - "Matthieu 9"
-  - "Romains 2"
+  - "Jean 1"
+  - "Deutéronome 18"
+  - "Actes 3"
+  - "Marc 12"
   - "Romains 3"
   - "Ézéchiel 36"
+  - "Hébreux 7"
+  - "Romains 2"
+  - "1 Corinthiens 7"
+  - "Galates 5"
+  - "Matthieu 9"
+  - "Actes 21"
+  - "Genèse 49"
 ---
 ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU- 1
 

@@ -39,20 +39,20 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620319Semence-fin.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 17:8-16"
-  - "2 Timothée 3"
   - "Amos 3:7"
-  - "Hébreux 6:7-8"
   - "Job 14:7"
+  - "1 Rois 17:8-16"
   - "Job 19:25-26"
+  - "Luc 1:38"
+  - "Matthieu 24"
+  - "Luc 21:29"
+  - "Ésaïe 66:8"
+  - "2 Timothée 3"
   - "Joël 2:23"
   - "Luc 17:28-30"
-  - "Luc 1:38"
-  - "Luc 21:25"
-  - "Luc 21:29"
-  - "Matthieu 24"
   - "Romains 4:20"
-  - "Ésaïe 66:8"
+  - "Hébreux 6:7-8"
+  - "Luc 21:25"
 original: "branham/1962/62-0319"
 ---
 **Résumé de!: “La semence-signe du temps de la fin” (19 mars 1962, soir)**

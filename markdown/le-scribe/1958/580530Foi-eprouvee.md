@@ -47,12 +47,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580530Foi-eprouvee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 11:1"
-  - "Jean 20:21"
-  - "Jean 5:19"
   - "Marc 11:22"
   - "Marc 11:22-23"
+  - "Hébreux 11:1"
   - "Psaumes 23:4"
+  - "Jean 5:19"
+  - "Jean 20:21"
 original: "branham/1958/58-0530"
 ---
 Résumé de : “Une foi éprouvée par le temps” (30 mai 1958, soir)

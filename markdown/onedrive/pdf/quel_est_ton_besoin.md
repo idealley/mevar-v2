@@ -46,13 +46,13 @@ themes:
   - "Foi"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 4"
   - "2 Timothée 3"
-  - "Actes 19"
+  - "1 Jean 4"
+  - "Matthieu 12"
   - "Jean 14"
   - "Jean 16"
   - "Luc 17"
-  - "Matthieu 12"
+  - "Actes 19"
 ---
 QUEL EST TON BESOIN ?
 

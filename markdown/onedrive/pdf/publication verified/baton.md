@@ -40,21 +40,21 @@ themes:
   - "délivrance"
 llm_cleaned: true
 bible_refs:
+  - "Joël 3:9-10"
   - "2 Samuel 23"
   - "2 Samuel 23:8"
-  - "Actes 8"
-  - "Aggée 2"
-  - "Apocalypse 12"
-  - "Apocalypse 12:7-12"
-  - "Apocalypse 17"
-  - "Apocalypse 17:9-14"
-  - "Daniel 10"
   - "Exode 3:1"
   - "Exode 3:1-4"
   - "Exode 4"
-  - "Joël 3:9-10"
-  - "Luc 22:39-53"
   - "Nombres 17"
+  - "Actes 8"
+  - "Aggée 2"
+  - "Apocalypse 17"
+  - "Apocalypse 17:9-14"
+  - "Apocalypse 12"
+  - "Apocalypse 12:7-12"
+  - "Daniel 10"
+  - "Luc 22:39-53"
 ---
 ## Le bâton de Dieu
 

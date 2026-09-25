@@ -20,10 +20,10 @@ ghost_id: "6448fa86db90770001518fc1"
 uuid: "46eb2811-e62f-4b8b-b711-d22c4c08772e"
 stream_url: "https://mevar.org/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi/"
 bible_refs:
-  - "Apocalypse 2:4-5"
-  - "Jean 8:12"
-  - "Matthieu 24:12"
   - "Psaumes 23"
+  - "Jean 8:12"
+  - "Apocalypse 2:4-5"
+  - "Matthieu 24:12"
 ---
 ## Exhortation de fin d'année 2022
 

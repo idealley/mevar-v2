@@ -37,15 +37,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550113Fondement-foi.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 15:7"
+  - "Jean 14:12"
+  - "Jean 1:1,14"
+  - "Jean 15:5"
+  - "Jean 5:24"
+  - "Jean 14:19"
+  - "Jean 5:19"
   - "Colossiens 2:9"
   - "Hébreux 13:8"
-  - "Jean 14:12"
-  - "Jean 14:19"
-  - "Jean 15:5"
-  - "Jean 15:7"
-  - "Jean 1:1,14"
-  - "Jean 5:19"
-  - "Jean 5:24"
   - "Marc 16:17"
 original: "branham/1955/55-0113"
 ---

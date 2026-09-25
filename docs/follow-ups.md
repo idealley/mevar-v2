@@ -54,39 +54,6 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Fix**: check fragments in `check:dist` against the target page's ids, then repair the two posts' footnote anchors (the text stays).
 
-## `47` truncates `bible_refs` alphabetically at 50, and the citing order is lost
-
-**Status**: goal 12, [`docs/goals/goal-12-bible-refs-complete.md`](goals/goal-12-bible-refs-complete.md), ready to dispatch; its Problem section has the measurements.
-
-**Fix**: goal 12. Dispatch text, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
-
-```
-Read AGENTS.md, VISION.md, DELIVERY.md, docs/goals/README.md, then the goal
-file named below, in that order. Follow DELIVERY.md exactly: worktree from
-origin/main, npm install on this Mac at the root and in web/, atomic
-Conventional Commits, the gates for what you touch, the independent
-subagent review with the prompt given there, then a non-draft PR with
-`gh pr create` whose description opens with the problem and lists every
-acceptance item with the command you ran and its output. Do not merge. Stop
-at the stop points. End with the report DELIVERY.md asks for.
-
-Goal file: docs/goals/goal-12-bible-refs-complete.md. Branch:
-goal-12-bible-refs-complete.
-
-Order of work: 65 and 66 first (one commit, code only), then 47 (one
-commit), then the regeneration 65, 66, 47, 50 (one data commit), then docs.
-The data commit touches about 2,610 markdown files; never read that diff
-file by file. Prove items 1 to 4 of the acceptance with node scripts that
-compare the working files with the baseline the goal file defines, and
-show their output in the PR.
-
-After the independent review says ACCEPT, run the codex-second-opinion
-skill (.claude/skills/codex-second-opinion, tracked, so every worktree
-has it): gpt-6-astra on the three scripts, gpt-6-sol on the data with the
-goal's acceptance commands, `codex exec -C` on the goal's worktree. Never
-edit markdown bodies.
-```
-
 ## `100` keeps only the first verse group of a list
 
 **Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 952 of 40,602 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").

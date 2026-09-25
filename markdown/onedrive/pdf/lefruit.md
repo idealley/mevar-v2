@@ -41,11 +41,11 @@ themes:
   - "perfection"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 12"
+  - "Ésaïe 5:1"
+  - "Ésaïe 5"
   - "Apocalypse 17:14"
   - "Luc 21"
-  - "Ésaïe 5"
-  - "Ésaïe 5:1"
+  - "Apocalypse 12"
 ---
 Le fruit utile, prêché à Koumassi le dimanche 26 Juin 2011, par le frère M'BRA Parfait
 

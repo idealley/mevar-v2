@@ -37,12 +37,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/591220Identifie.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13:1"
-  - "Actes 2:37-39"
   - "Actes 2:4"
   - "Actes 2:6"
   - "Actes 8:18"
+  - "1 Corinthiens 13:1"
   - "Romains 6:1-5"
+  - "Actes 2:37-39"
 original: "branham/1959/59-1220E"
 ---
 **Résumé de : « Identifié à Christ » (20 décembre 1959)**

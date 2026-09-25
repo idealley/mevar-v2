@@ -18,15 +18,15 @@ ghost_id: "6448fa86db90770001518f31"
 uuid: "e3c6c7f7-d30b-4e3a-b04e-4b06de2af9e6"
 stream_url: "https://mevar.org/la-vision-du-bon-berger/"
 bible_refs:
+  - "Jean 15"
+  - "Luc 13:6"
   - "1 Pierre 5:1-6"
-  - "2 Pierre 1:5"
-  - "Apocalypse 12"
+  - "Luc 13"
   - "Galates 5"
   - "Galates 5:22"
-  - "Jean 15"
-  - "Luc 13"
-  - "Luc 13:6"
+  - "2 Pierre 1:5"
   - "Psaumes 23"
+  - "Apocalypse 12"
 ---
 ## Convention de Lakota
 

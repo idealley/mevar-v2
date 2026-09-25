@@ -42,10 +42,10 @@ themes:
 pdf_url: "http://cmpp.ch/rev06.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 13"
-  - "Apocalypse 17"
-  - "Hébreux 4"
   - "Marc 16"
+  - "Hébreux 4"
+  - "Apocalypse 17"
+  - "Apocalypse 13"
 ---
 WILLIAM MARRION BRANHAM
 

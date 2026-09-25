@@ -47,17 +47,17 @@ mevar_match:
   similarity: 0.685
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 14"
-  - "1 Corinthiens 14:1-3"
-  - "1 Jean 4"
   - "1 Thessaloniciens 5:20-21"
+  - "1 Corinthiens 14:1-3"
+  - "Apocalypse 14:7"
+  - "1 Jean 4"
   - "Actes 11:28"
   - "Actes 21:10-11"
-  - "Apocalypse 14:7"
-  - "Jean 15:16"
+  - "1 Corinthiens 14"
   - "Luc 13"
-  - "Psaumes 119"
+  - "Jean 15:16"
   - "Psaumes 119:59"
+  - "Psaumes 119"
 ---
 ## CONVENTION NATIONALE DE REVEIL
 *Lakota les 30-31 Mars et 1er Avril 2018*

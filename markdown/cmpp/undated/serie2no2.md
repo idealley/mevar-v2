@@ -38,14 +38,14 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 11"
-  - "Exode 12"
-  - "Galates 5"
-  - "Jacques 5"
-  - "Jean 14"
   - "Jérémie 29"
   - "Luc 16"
+  - "Exode 12"
+  - "Galates 5"
+  - "Jean 14"
+  - "Jacques 5"
   - "Matthieu 5"
+  - "1 Corinthiens 11"
 ---
 SERIE 2 N° 2
 

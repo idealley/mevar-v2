@@ -38,16 +38,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/520727Conduits.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 2:4"
+  - "Matthieu 10:42"
+  - "Luc 2:25-30"
+  - "Luc 2:11"
+  - "Ésaïe 53:6"
+  - "Psaumes 42:7"
+  - "Luc 19:40"
+  - "Marc 11:24"
   - "Jean 14:12"
   - "Jean 5:19-20"
-  - "Luc 19:40"
-  - "Luc 2:11"
-  - "Luc 2:25-30"
-  - "Marc 11:24"
-  - "Matthieu 10:42"
-  - "Psaumes 42:7"
-  - "Ésaïe 53:6"
+  - "1 Corinthiens 2:4"
 original: "branham/1952/52-0727"
 ---
 **“Conduit par l’Esprit” (27.07.1952)**

@@ -48,21 +48,21 @@ themes:
 pdf_url: "http://cmpp.ch/islam.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Romains 3"
+  - "Luc 23"
+  - "Romains 12"
+  - "Deutéronome 6"
+  - "Deutéronome 18:15"
+  - "Malachie 4"
+  - "Ésaïe 7"
+  - "Michée 5"
+  - "Actes 2"
   - "1 Corinthiens 15"
   - "Actes 1"
-  - "Actes 2"
-  - "Amos 3"
   - "Apocalypse 2"
+  - "Amos 3"
   - "Apocalypse 9"
-  - "Deutéronome 18:15"
-  - "Deutéronome 6"
   - "Joël 4"
-  - "Luc 23"
-  - "Malachie 4"
-  - "Michée 5"
-  - "Romains 12"
-  - "Romains 3"
-  - "Ésaïe 7"
 ---
 # LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS
 

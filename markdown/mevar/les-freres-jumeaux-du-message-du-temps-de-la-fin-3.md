@@ -22,15 +22,15 @@ ghost_id: "6448fa86db90770001518f75"
 uuid: "1d19507c-dace-4909-b6a0-fea7b0fb80e2"
 stream_url: "https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-3/"
 bible_refs:
+  - "Matthieu 25"
+  - "Matthieu 24"
   - "1 Corinthiens 10"
   - "1 Corinthiens 10:1"
-  - "1 Rois 19:15-16"
-  - "1 Samuel 8"
   - "Apocalypse 22"
-  - "Hébreux 12"
-  - "Matthieu 24"
+  - "1 Samuel 8"
   - "Matthieu 24:45-47"
-  - "Matthieu 25"
+  - "Hébreux 12"
+  - "1 Rois 19:15-16"
 ---
 ## Troisième partie
 

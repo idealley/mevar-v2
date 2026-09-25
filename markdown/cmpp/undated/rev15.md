@@ -41,14 +41,14 @@ themes:
 pdf_url: "http://cmpp.ch/rev15.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 10"
-  - "Daniel 7"
   - "Hébreux 4"
   - "Jean 14"
-  - "Jérémie 32"
-  - "Matthieu 1"
-  - "Matthieu 28"
   - "Ésaïe 28:10"
+  - "Jérémie 32"
+  - "Daniel 7"
+  - "Apocalypse 10"
+  - "Matthieu 28"
+  - "Matthieu 1"
 ---
 WILLIAM MARRION BRANHAM
 

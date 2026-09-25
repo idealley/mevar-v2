@@ -46,13 +46,13 @@ themes:
   - "Idolâtrie des hommes de Dieu"
 llm_cleaned: true
 bible_refs:
-  - "2 Chroniques 20:20"
-  - "Apocalypse 3:15"
-  - "Deutéronome 28"
-  - "Galates 4:1"
   - "Jérémie 17:5"
-  - "Marc 13"
+  - "Galates 4:1"
+  - "Deutéronome 28"
+  - "Apocalypse 3:15"
   - "Psaumes 146"
+  - "Marc 13"
+  - "2 Chroniques 20:20"
 ---
 ## LA MALEDICTION DE LA CHAIR
 

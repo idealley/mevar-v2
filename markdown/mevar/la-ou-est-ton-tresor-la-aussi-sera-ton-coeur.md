@@ -18,13 +18,13 @@ ghost_id: "6448fa86db90770001518f3c"
 uuid: "801edf01-f54a-4be9-9bea-0a9f54fbbb9a"
 stream_url: "https://mevar.org/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur/"
 bible_refs:
-  - "Deutéronome 6:1"
-  - "Genèse 6"
-  - "Luc 13"
-  - "Malachie 4"
-  - "Matthieu 13"
   - "Matthieu 24"
+  - "Deutéronome 6:1"
+  - "Matthieu 13"
+  - "Genèse 6"
   - "Matthieu 24:12"
+  - "Malachie 4"
+  - "Luc 13"
 ---
 ## Première partie
 

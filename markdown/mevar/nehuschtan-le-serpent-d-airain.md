@@ -16,14 +16,14 @@ ghost_id: "6448fa86db90770001518f3d"
 uuid: "ab43ade5-b833-4469-b5d3-208d30fe7c4a"
 stream_url: "https://mevar.org/nehuschtan-le-serpent-d-airain/"
 bible_refs:
+  - "Nombres 21:4-9,2"
+  - "Nombres 21:4-9"
   - "1 Corinthiens 10:6"
+  - "2 Rois 18:1-8"
+  - "Psaumes 119"
   - "1 Corinthiens 6:9-10"
   - "2 Pierre 1:3-10"
-  - "2 Rois 18:1-8"
   - "Matthieu 28:20"
-  - "Nombres 21:4-9"
-  - "Nombres 21:4-9,2"
-  - "Psaumes 119"
 ---
 ## Ou comment un message ou une instruction de Dieu peut devenir une idole.
 

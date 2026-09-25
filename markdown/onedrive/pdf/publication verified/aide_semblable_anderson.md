@@ -39,17 +39,17 @@ mevar_match:
   similarity: 0.534
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12:4,1"
-  - "1 Corinthiens 7"
-  - "1 Pierre 3"
-  - "Actes 21"
-  - "Ecclésiaste 7"
   - "Genèse 2"
-  - "Joël 2:28"
   - "Matthieu 19"
   - "Matthieu 19:3-12"
-  - "Romains 12"
+  - "1 Corinthiens 7"
   - "Éphésiens 5"
+  - "Joël 2:28"
+  - "Ecclésiaste 7"
+  - "Actes 21"
+  - "1 Pierre 3"
+  - "Romains 12"
+  - "1 Corinthiens 12:4,1"
 ---
 JE LUI FERAI UNE AIDE SEMBLABLE…
 

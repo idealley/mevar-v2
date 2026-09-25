@@ -16,14 +16,14 @@ ghost_id: "651beed230c1cf0001c927cb"
 uuid: "05c8ec9f-4d3d-4904-8a3a-2bca575d72ec"
 stream_url: "https://mevar.org/sors-de-ton-lit/"
 bible_refs:
-  - "Jean 5"
-  - "Jean 5:1-9"
-  - "Jean 5:9"
-  - "Luc 5:17"
-  - "Luc 5:17-23"
-  - "Matthieu 25"
   - "Matthieu 9:1"
   - "Matthieu 9:1-8"
+  - "Luc 5:17"
+  - "Luc 5:17-23"
+  - "Jean 5:9"
+  - "Jean 5:1-9"
+  - "Jean 5"
+  - "Matthieu 25"
 ---
 Nous allons lire Matthieu chapitre 9 à partir du premier verset (Matthieu 9:1-8) : \[le frère écrit le titre de la prédication sur le tableau. Réd.\]
 

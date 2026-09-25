@@ -38,18 +38,18 @@ themes:
   - "jugement"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 19"
-  - "Apocalypse 3"
-  - "Esther 10:15"
-  - "Exode 2:11"
+  - "Ésaïe 40"
   - "Luc 1"
   - "Luc 1:80"
-  - "Luc 3"
   - "Luc 4:1"
-  - "Malachie 4"
   - "Nombres 14"
+  - "Exode 2:11"
+  - "Malachie 4"
+  - "Apocalypse 19"
+  - "Luc 3"
   - "Psaumes 33"
-  - "Ésaïe 40"
+  - "Apocalypse 3"
+  - "Esther 10:15"
 ---
 Les fils du désert, prêché à Koumassi
 

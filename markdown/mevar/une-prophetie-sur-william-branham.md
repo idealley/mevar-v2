@@ -16,13 +16,13 @@ ghost_id: "6448fa86db90770001518fee"
 uuid: "b2e029e9-960c-4fd0-98a4-dbb35ee03571"
 stream_url: "https://mevar.org/une-prophetie-sur-william-branham/"
 bible_refs:
-  - "2 Corinthiens 3:6"
-  - "Job 22:28"
-  - "Luc 13:23-29"
-  - "Matthieu 7:13-14"
-  - "Proverbes 29:18"
   - "Psaumes 119"
   - "Psaumes 119:130"
+  - "2 Corinthiens 3:6"
+  - "Proverbes 29:18"
+  - "Matthieu 7:13-14"
+  - "Luc 13:23-29"
+  - "Job 22:28"
 ---
 ## Exhortation de fin septembre 2012
 

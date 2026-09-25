@@ -35,20 +35,20 @@ mevar_match:
   similarity: 0.655
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15"
   - "1 Thessaloniciens 4:17"
-  - "Apocalypse 19:8"
-  - "Jean 14:13-14"
-  - "Jean 16:24"
+  - "Matthieu 22:1-14"
   - "Luc 14"
   - "Luc 14:22-24"
-  - "Luc 17:5-6"
   - "Malachie 3:10"
-  - "Marc 4:19-21"
-  - "Marc 4:30-32"
-  - "Matthieu 22:1-14"
   - "Matthieu 6:20-21"
   - "Matthieu 7:21-23"
+  - "1 Corinthiens 15"
+  - "Apocalypse 19:8"
+  - "Luc 17:5-6"
+  - "Marc 4:19-21"
+  - "Marc 4:30-32"
+  - "Jean 14:13-14"
+  - "Jean 16:24"
 ---
 ## LA MAISON DU TRESOR
 

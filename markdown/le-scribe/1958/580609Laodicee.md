@@ -36,11 +36,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580609Laodicee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3:12"
-  - "Apocalypse 3:17-18"
   - "Apocalypse 3:20"
+  - "2 Timothée 3:12"
   - "Hébreux 13:8"
   - "Psaumes 23:4"
+  - "Apocalypse 3:17-18"
   - "Zacharie 14:7"
 original: "branham/1958/58-0609"
 ---

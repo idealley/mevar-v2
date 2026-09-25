@@ -45,13 +45,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580330Missions.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 2:4"
-  - "2 Corinthiens 3:6"
-  - "Actes 19:2"
-  - "Jacques 5:14"
-  - "Marc 16"
   - "Marc 16:15"
   - "Matthieu 10"
+  - "2 Corinthiens 3:6"
+  - "1 Corinthiens 2:4"
+  - "Jacques 5:14"
+  - "Marc 16"
+  - "Actes 19:2"
 original: "branham/1958/58-0330A"
 ---
 *Propos sur les missions* (30 mars 1958, après-midi)

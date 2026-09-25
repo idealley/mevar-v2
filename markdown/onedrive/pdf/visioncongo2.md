@@ -27,8 +27,8 @@ themes:
   - "Fidélité"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 3:21"
   - "Jacques 1:12"
+  - "Apocalypse 3:21"
 ---
 ## VISION DU 10 JANVIER 2010 (Pointe Noire)
 

@@ -39,19 +39,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/621124Investissements.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 2:4"
-  - "Actes 2:38"
-  - "Apocalypse 3:17"
-  - "Deutéronome 23:25"
-  - "Exode 12:13"
-  - "Galates 2:20"
-  - "Hébreux 12:6"
-  - "Jean 10:37"
-  - "Jean 8:58"
-  - "Luc 12:13-21"
-  - "Luc 16:19-31"
-  - "Luc 24:49"
   - "Marc 10:17"
+  - "Jean 10:37"
+  - "Apocalypse 3:17"
+  - "Hébreux 12:6"
+  - "Exode 12:13"
+  - "Luc 24:49"
+  - "Actes 2:38"
+  - "Jean 8:58"
+  - "Deutéronome 23:25"
+  - "Luc 12:13-21"
+  - "Galates 2:20"
+  - "Luc 16:19-31"
+  - "1 Corinthiens 2:4"
 ---
 **Résumé de!: “Investissements” (24 novembre 1962, matin)**
 

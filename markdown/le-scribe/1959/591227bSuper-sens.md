@@ -48,15 +48,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/591227bSuper-sens.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:27"
-  - "Actes 2:39"
   - "Hébreux 11:1-7"
+  - "Actes 2:39"
   - "Jean 11:21-22"
   - "Jean 11:25-26"
   - "Jean 11:27"
   - "Jean 2:19"
-  - "Psaumes 46:2"
+  - "Actes 2:27"
   - "Romains 4:17"
+  - "Psaumes 46:2"
 original: "branham/1959/59-1227E"
 ---
 **Résumé de!: “Un Super-Sens” (27 décembre 1959, soir)**

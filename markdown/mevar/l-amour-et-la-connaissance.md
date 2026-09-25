@@ -18,15 +18,15 @@ ghost_id: "6448fa86db90770001518ef7"
 uuid: "f9b31d7d-78e1-4d79-9bfd-93f3eda3e7a6"
 stream_url: "https://mevar.org/l-amour-et-la-connaissance/"
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 14:1"
   - "1 Corinthiens 8:1-3"
-  - "Actes 22:3"
   - "Actes 5:34"
+  - "Actes 22:3"
   - "Osée 4:6"
   - "Osée 6"
   - "Osée 6:6"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 14:1"
 ---
 ## Exhortation de Mars 2014
 

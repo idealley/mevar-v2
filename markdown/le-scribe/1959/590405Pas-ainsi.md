@@ -38,14 +38,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590405Pas-ainsi.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:2"
+  - "Matthieu 19:8"
   - "Apocalypse 22:18-19"
-  - "Jean 15:5"
+  - "Marc 7:8-9"
   - "Jean 3:5"
+  - "Jean 15:5"
+  - "Actes 2:2"
   - "Marc 16"
   - "Marc 16:17-18"
-  - "Marc 7:8-9"
-  - "Matthieu 19:8"
 ---
 **1.** [Prière].
 

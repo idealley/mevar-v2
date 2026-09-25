@@ -53,14 +53,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/641205Chef-oeuvre.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2"
-  - "Hébreux 7:9"
-  - "Jean 10:30"
+  - "Ésaïe 53:1"
   - "Jean 10:37,5"
-  - "Josué 10:12"
+  - "Jean 10:30"
   - "Luc 6:26"
   - "Marc 9:7"
-  - "Ésaïe 53:1"
+  - "Hébreux 7:9"
+  - "Josué 10:12"
+  - "Actes 2"
 original: "branham/1964/64-1205"
 ---
 *Le Chef-d'Œuvre de Dieu reconnu*

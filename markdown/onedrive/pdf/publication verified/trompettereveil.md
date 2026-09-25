@@ -52,18 +52,18 @@ mevar_match:
   similarity: 0.568
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 2"
-  - "Luc 21"
-  - "Malachie 4"
-  - "Malachie 4:7"
-  - "Matthieu 24"
-  - "Matthieu 25"
-  - "Matthieu 25:1-7"
-  - "Matthieu 25:6"
   - "Psaumes 89"
-  - "Zacharie 14:7"
-  - "Ésaïe 27"
   - "Ésaïe 27:12"
+  - "Malachie 4"
+  - "Matthieu 24"
+  - "Matthieu 25:1-7"
+  - "Matthieu 25"
+  - "Apocalypse 2"
+  - "Ésaïe 27"
+  - "Luc 21"
+  - "Malachie 4:7"
+  - "Zacharie 14:7"
+  - "Matthieu 25:6"
 ---
 Que le nom du Seigneur soit béni ! Nous sommes reconnaissants au Seigneur qui nous a gardés jusqu'au Nigeria. Avant que je ne vienne, le pasteur Rigobert m'avait dit qu'on allait arriver au Nigeria et je suis heureux d'être avec vous ce soir…Que Dieu vous bénisse ! Je vous apporte les salutations des frères et sœurs de Cote d'ivoire. Ils m'ont demandé de vous saluer de la part du Seigneur. Quand j'étais à Cotonou, il y en a qui m'ont appelé pour vous saluer. Nous sommes nombreux à croire le Message du temps de la fin…Si vous me voyez ici, c'est parce que vous avez beaucoup de frères et sœurs en Cote d'Ivoire ! Alléluia [le peuple répond Amen]… Et nous avons fait des réunions à So-shanwé. Là-bas, la vision du réveil a été prêchée.
 

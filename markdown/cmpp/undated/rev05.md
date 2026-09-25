@@ -42,15 +42,15 @@ themes:
 pdf_url: "http://cmpp.ch/rev05.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2"
-  - "Apocalypse 17"
   - "Apocalypse 2"
-  - "Hébreux 12"
   - "Hébreux 4"
+  - "Hébreux 12"
   - "Jean 1"
-  - "Jean 6:48-50"
-  - "Matthieu 28"
+  - "Apocalypse 17"
+  - "Actes 2"
   - "Nombres 24"
+  - "Matthieu 28"
+  - "Jean 6:48-50"
 ---
 WILLIAM MARRION BRANHAM
 

@@ -20,14 +20,14 @@ ghost_id: "6450f0b8d18a430001749241"
 uuid: "42f71d2a-8c36-462c-b7ea-701f70c41ecf"
 stream_url: "https://mevar.org/la-lepre-de-nahaman/"
 bible_refs:
+  - "Romains 10"
+  - "Psaumes 115:2-11"
   - "1 Jean 1:1-3"
   - "2 Rois 5"
   - "2 Rois 5:1-16"
   - "2 Samuel 23"
   - "2 Samuel 23:13-17"
   - "2 Timothée 3"
-  - "Psaumes 115:2-11"
-  - "Romains 10"
 ---
 Que Dieu vous bénisse ! Nous vous saluons au nom de Jésus. Nous voulons vraiment remercier le Seigneur pour la grâce qu’Il nous accorde de nous rassembler encore. Nous l’avons déjà dit au commencement qu’il faut qu’il ait des hommes qui écoutent la voix de Dieu. Que vraiment ceux qui ont l’Esprit puissent écouter la voix de Dieu parce que Dieu parle encore. Le Seigneur se manifeste dans le langage – Il a toujours des Paroles à adresser à Son peuple. Et quand Il parle, Il veut toujours trouver des hommes qui écoutent Sa voix – des hommes qui écoutent et qui acceptent ce que Dieu dit, parce que notre salut à nous tous se trouve dans la Parole de Dieu. Amen ! C’est la Parole qui sauve – la bible dit que la foi vient de ce qu’on entend, ce qu’on entend qui est la Parole de Dieu – la bonne semence – la semence du Royaume. C’est cette semence qui donne la vie, c’est en elle qu’il y a la vie.
 

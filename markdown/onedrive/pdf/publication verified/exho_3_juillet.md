@@ -36,14 +36,14 @@ mevar_match:
   similarity: 0.663
 llm_cleaned: true
 bible_refs:
-  - "Jean 1:5"
-  - "Jean 3:19"
-  - "Luc 11:34-36"
-  - "Matthieu 6:7-8"
-  - "Ésaïe 29"
-  - "Ésaïe 29:15-16"
   - "Ésaïe 30"
   - "Ésaïe 30:1-3"
+  - "Ésaïe 29"
+  - "Ésaïe 29:15-16"
+  - "Jean 3:19"
+  - "Luc 11:34-36"
+  - "Jean 1:5"
+  - "Matthieu 6:7-8"
 ---
 ## Malheur aux enfants rebelles
 

@@ -44,16 +44,16 @@ themes:
   - "Cri de Minuit"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 17:5-6"
-  - "Apocalypse 2:20"
   - "Apocalypse 3"
+  - "Matthieu 25"
+  - "Ruth 1"
   - "Genèse 12"
   - "Genèse 26:1-5"
   - "Joël 2:18"
-  - "Luc 4:1-2"
+  - "Apocalypse 2:20"
+  - "Apocalypse 17:5-6"
   - "Malachie 3"
-  - "Matthieu 25"
-  - "Ruth 1"
+  - "Luc 4:1-2"
 ---
 ## MEDITONS LA PROPHETIE DE JOEL
 

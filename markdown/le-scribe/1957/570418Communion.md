@@ -36,14 +36,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570418Communion.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 1:7"
+  - "Matthieu 26:27"
   - "Exode 12:1"
-  - "Hébreux 11:26"
   - "Hébreux 12:8"
+  - "1 Pierre 1:7"
   - "Hébreux 7:1"
   - "Jean 6:44"
-  - "Matthieu 26:27"
   - "Psaumes 51:7"
+  - "Hébreux 11:26"
 original: "branham/1957/57-0418"
 ---
 **Résumé de!: “La Communion” (18 avril 1957)**

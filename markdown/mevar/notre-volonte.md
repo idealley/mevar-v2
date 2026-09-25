@@ -18,12 +18,12 @@ ghost_id: "6448fa86db90770001518ef0"
 uuid: "7a45b682-e847-4961-818d-a6c778c29468"
 stream_url: "https://mevar.org/notre-volonte/"
 bible_refs:
-  - "Galates 6"
   - "Genèse 1:25"
   - "Genèse 2"
-  - "Hébreux 5:8"
   - "Jacques 4:17"
+  - "Hébreux 5:8"
   - "Proverbes 25"
+  - "Galates 6"
 ---
 Que Dieu nous bénisse ! Nous remercions le Seigneur pour cette occasion. Nous allons écouter la parole de Dieu. Parce que quand Dieu t’appelle, Il t’adresse la parole. Et c’est ce qui s’est passé lorsque le peuple d’Israël est sorti de l’Egypte. Il ne leur a pas adressé la parole en Egypte. C’est quand ils sont sortis, qu’ils ont entamé la marche, qu’Il a fait descendre les commandements et tout l’arsenal de Sa Parole. Amen ! Donc Dieu nous a fait sortir pour pouvoir nous donner sa parole.
 

@@ -45,11 +45,11 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Luc 17:5-6"
-  - "Luc 18:8"
   - "Luc 7:9-10"
   - "Matthieu 15:28"
   - "Romains 10:13-18"
   - "Romains 10:17"
+  - "Luc 18:8"
 ---
 ## Zachée et le sycomore
 

@@ -33,18 +33,18 @@ themes:
 pdf_url: "http://cmpp.ch/exhortation_annee_2023_A5_gc.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 7"
   - "1 Pierre 1"
-  - "1 Pierre 2"
-  - "2 Corinthiens 13"
-  - "Apocalypse 19"
-  - "Colossiens 3"
-  - "Hébreux 10"
   - "Jean 14"
+  - "Romains 8"
+  - "Colossiens 3"
+  - "Apocalypse 19"
+  - "Hébreux 10"
+  - "1 Corinthiens 7"
   - "Jean 8"
   - "Romains 11"
   - "Romains 14"
-  - "Romains 8"
+  - "1 Pierre 2"
+  - "2 Corinthiens 13"
 ---
 ## EXHORTATION
 ## ANNEE 2023

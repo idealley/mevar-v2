@@ -48,18 +48,18 @@ themes:
   - "Puissance du Saint-Esprit"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "2 Rois 19:1-4"
-  - "Apocalypse 12"
-  - "Daniel 9:1-4"
-  - "Esther 4:1-4"
-  - "Jean 3:16"
-  - "Jonas 3:1-7"
-  - "Malachie 4"
-  - "Matthieu 11:20-24"
-  - "Matthieu 24"
   - "Ésaïe 40"
+  - "Apocalypse 12"
+  - "Jean 3:16"
+  - "Matthieu 24"
+  - "2 Rois 19:1-4"
+  - "Esther 4:1-4"
+  - "Jonas 3:1-7"
+  - "Daniel 9:1-4"
+  - "Matthieu 11:20-24"
+  - "Malachie 4"
   - "Ésaïe 62:6"
+  - "1 Corinthiens 13"
 ---
 # Le Sac et la Cendre
 

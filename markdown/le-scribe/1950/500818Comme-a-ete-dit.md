@@ -35,9 +35,9 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500818Comme-a-ete-dit.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 5:24"
   - "Actes 27:20"
   - "Jacques 5:16"
-  - "Jean 5:24"
 original: "branham/1950/50-0818"
 ---
 **1.** Je souhaite que ma mère vienne s'asseoir sur l'estrade. … Nous avons des preuves infaillibles qu'il y a un Ciel. Beaucoup essaient d'y entrer par leurs mérites. Mais on y entre par la foi. Il a été pendu à la croix pour que vous ne soyez pas jugés. Dieu a jugé vos péchés en lui. Nous étions coupables et ennemis de Dieu, mais Christ a pris votre place. Les Patriarches se sont endormis, mais Christ, lui, est mort. Dieu n'était pas avec lui en sa mort. Dans sa mort, il a enduré l'absence de Dieu, pour que nous ayons la présence de Dieu dans notre mort. Dieu l'a frappé par notre condamnation. Confessons nos péchés maintenant. La mort est une séparation, mais il n'y a pas de séparation pour un Chrétien. "Celui qui écoute ma parole, et croit à celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie" [Jean 5:24].

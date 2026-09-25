@@ -30,8 +30,8 @@ local_pdf: "/files/mevar/sujets_de_priere_juillet_2019.pdf"
 llm_cleaned: true
 bible_refs:
   - "Jean 3:16"
-  - "Luc 23:41"
   - "Matthieu 5:43-45"
+  - "Luc 23:41"
 ---
 SUJETS DE PRIERE DE JUILLET 2019
 

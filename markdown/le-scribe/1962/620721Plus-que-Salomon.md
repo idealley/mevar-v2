@@ -37,16 +37,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620721Plus-que-Salomon.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 8:10,38"
-  - "2 Timothée 3:1-5"
+  - "Matthieu 12:38"
+  - "Jean 5:39,10"
+  - "Exode 28:30"
+  - "Nombres 27:21"
   - "Deutéronome 33:8,1"
   - "Esdras 2:63"
-  - "Exode 28:30"
-  - "Jacques 5:15"
-  - "Jean 5:39,10"
-  - "Matthieu 12:38"
-  - "Nombres 27:21"
   - "Osée 11:1"
+  - "1 Rois 8:10,38"
+  - "2 Timothée 3:1-5"
+  - "Jacques 5:15"
 original: "branham/1962/62-0721"
 ---
 **1.** [Prière]. Le Saint-Esprit nous a prouvé qu'il était ici. Les pasteurs ici présents seront heureux d'accueillir dans leurs églises les gens de passage. Je dis toujours aussi que c'est un péché "d'envoyer" les enfants à l'école du dimanche : allez avec eux !

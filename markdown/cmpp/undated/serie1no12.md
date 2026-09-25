@@ -35,14 +35,14 @@ themes:
 pdf_url: "http://cmpp.ch/serie1no12.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Luc 22"
   - "1 Corinthiens 11"
   - "Actes 2"
-  - "Amos 5"
   - "Galates 1"
-  - "Jean 18"
-  - "Luc 22"
-  - "Ésaïe 1"
   - "Ésaïe 28"
+  - "Ésaïe 1"
+  - "Amos 5"
+  - "Jean 18"
 ---
 SERIE 1 N° 12
 

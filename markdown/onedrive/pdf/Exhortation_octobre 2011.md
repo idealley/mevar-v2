@@ -46,21 +46,21 @@ themes:
   - "Idolâtrie de Marie"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 10"
-  - "1 Corinthiens 10:21-22"
+  - "Jean 14:29-31"
+  - "Luc 22"
+  - "Luc 22:53"
+  - "Jean 8:46"
+  - "Genèse 3:6-8"
+  - "Genèse 3:20-24"
+  - "Deutéronome 22:5"
   - "1 Jean 2:15-17"
   - "1 Pierre 3:1-6"
   - "1 Timothée 2:9-11"
-  - "2 Corinthiens 6:14-17"
-  - "2 Corinthiens 6:16"
-  - "Deutéronome 22:5"
-  - "Genèse 3:20-24"
-  - "Genèse 3:6-8"
-  - "Jean 14:29-31"
-  - "Jean 8:46"
-  - "Luc 22"
-  - "Luc 22:53"
   - "Tite 2:3-5"
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 10:21-22"
+  - "2 Corinthiens 6:16"
+  - "2 Corinthiens 6:14-17"
 ---
 ## L’habillement selon DIEU
 

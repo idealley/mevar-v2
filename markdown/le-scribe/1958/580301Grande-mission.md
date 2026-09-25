@@ -37,11 +37,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580301Grande-mission.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 10:35"
-  - "Jean 12"
-  - "Jean 5:24"
   - "Marc 16:14"
   - "Matthieu 10"
+  - "Actes 10:35"
+  - "Jean 5:24"
+  - "Jean 12"
 ---
 **1.** Je n'ai pas été appelé à prêcher comme certains d'entre vous, mais à une autre sorte de ministère. Nous faisons chacun de notre mieux dans notre ministère pour le Royaume de Dieu. J'aime me retrouver au sud. En Angleterre, j'ai eu besoin d'un interprète ! Lisons en Marc 16:14 à 20, les dernières volontés du Seigneur adressées à son Église :
 

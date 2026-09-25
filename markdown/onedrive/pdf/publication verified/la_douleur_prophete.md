@@ -49,13 +49,13 @@ mevar_match:
   similarity: 0.76
 llm_cleaned: true
 bible_refs:
-  - "Jérémie 1"
-  - "Jérémie 12"
-  - "Jérémie 12:1-16"
-  - "Jérémie 29"
   - "Jérémie 3"
-  - "Jérémie 7"
+  - "Jérémie 12:1-16"
   - "Lamentations 4"
+  - "Jérémie 1"
+  - "Jérémie 7"
+  - "Jérémie 12"
+  - "Jérémie 29"
 ---
 ## La douleur d'un prophète
 

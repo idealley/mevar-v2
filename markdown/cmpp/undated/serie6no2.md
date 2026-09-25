@@ -45,15 +45,15 @@ themes:
 pdf_url: "http://cmpp.ch/serie6no2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Amos 3"
-  - "Amos 7"
-  - "Apocalypse 19"
-  - "Hébreux 13"
-  - "Jean 6"
   - "Matthieu 21"
   - "Matthieu 21:10,11"
+  - "Apocalypse 19"
+  - "Amos 7"
+  - "Amos 3"
   - "Michée 5"
   - "Romains 9"
+  - "Jean 6"
+  - "Hébreux 13"
 ---
 SERIE 6, N° 2
 

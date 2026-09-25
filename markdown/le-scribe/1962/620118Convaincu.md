@@ -44,18 +44,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620118Convaincu.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 5:19"
-  - "Actes 2:39"
-  - "Genèse 18:2"
   - "Hébreux 11:10"
+  - "Luc 10:19"
+  - "Jean 1:15"
+  - "Ésaïe 40:3"
+  - "Actes 2:39"
   - "Jean 12:32"
-  - "Jean 14:10"
+  - "Juges 3:31"
+  - "Genèse 18:2"
   - "Jean 14:12"
   - "Jean 15:7"
-  - "Jean 1:15"
-  - "Juges 3:31"
-  - "Luc 10:19"
-  - "Ésaïe 40:3"
+  - "Jean 14:10"
+  - "2 Corinthiens 5:19"
 original: "branham/1962/62-0118"
 ---
 **1.** C’est un plaisir d’être avec le frère Groomer et son église. Je suis en retard à cause de la tempête qui nous a fait perdre deux jours. Hier soir nous avons eu une réunion formidable, mais j’ai prêché quatre heures ! Je vois ici le frère et la sœur Dauch qui conduisent 240 km plusieurs fois par an pour aller de Macon, Georgie, jusqu’à Jeffersonville. Comme Abraham, nous sommes pèlerins et étrangers en ce monde, en attendant la Cité dont Dieu est l’Architecte [Hébreux 11:10].

@@ -19,10 +19,10 @@ ghost_id: "6448fa86db90770001518fcd"
 uuid: "36bb6bc2-e4a4-42d4-8eee-38ca32c75059"
 stream_url: "https://mevar.org/les-5-ministeres-de-la-parole/"
 bible_refs:
-  - "1 Corinthiens 2:4-5"
-  - "Jean 7:16-18"
   - "Éphésiens 4"
   - "Éphésiens 4:13"
+  - "1 Corinthiens 2:4-5"
+  - "Jean 7:16-18"
 ---
 La question de l’exercice des cinq Ministères de la Parole dans l’Église est l’un des thèmes les plus importants pour notre époque. Comme le précise Éphésiens 4 dans les versets 10 à 13, le but des cinq Ministères est d’amener à la perfection les enfants de Dieu par le moyen de la prédication.
 

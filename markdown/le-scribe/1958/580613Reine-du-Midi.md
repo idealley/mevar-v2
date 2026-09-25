@@ -37,17 +37,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580613Reine-du-Midi.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 8:38-39"
-  - "Actes 9:4"
-  - "Hébreux 3:1"
-  - "Hébreux 4:15"
-  - "Jean 10:37"
-  - "Jean 14:19,12"
-  - "Jean 17:18,20"
-  - "Jean 5:17"
-  - "Jean 5:19"
-  - "Marc 16"
   - "Matthieu 12:42"
+  - "Marc 16"
+  - "1 Rois 8:38-39"
+  - "Hébreux 3:1"
+  - "Jean 14:19,12"
+  - "Jean 10:37"
+  - "Jean 5:19"
+  - "Jean 5:17"
+  - "Hébreux 4:15"
+  - "Actes 9:4"
+  - "Jean 17:18,20"
 original: "branham/1958/58-0613"
 ---
 *LA REINE DU MIDI*

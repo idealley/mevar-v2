@@ -37,17 +37,17 @@ themes:
   - "Nécessité d'écouter la voix de Dieu à travers ses serviteurs"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 11:2"
-  - "Actes 13"
-  - "Actes 13:1"
-  - "Apocalypse 6"
-  - "Marc 2:22"
-  - "Matthieu 24"
-  - "Matthieu 25"
-  - "Matthieu 5:45"
-  - "Matthieu 9:18"
   - "Romains 10"
+  - "Apocalypse 6"
+  - "Matthieu 24"
+  - "Matthieu 9:18"
+  - "Marc 2:22"
+  - "Matthieu 5:45"
   - "Ésaïe 42:1-6"
+  - "Matthieu 25"
+  - "2 Corinthiens 11:2"
+  - "Actes 13:1"
+  - "Actes 13"
 ---
 PLANS D'ATTAQUE III,
 

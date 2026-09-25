@@ -50,10 +50,10 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 1:18-25"
   - "2 Corinthiens 12:11"
-  - "Jacques 5:15"
-  - "Jean 10:35"
   - "Jean 8:48"
+  - "Jean 10:35"
   - "Éphésiens 4:11-12"
+  - "Jacques 5:15"
 original: "branham/1964/64-0614E"
 ---
 *Résumé de!: “L'insensé” (14 juin 1964, soir)*

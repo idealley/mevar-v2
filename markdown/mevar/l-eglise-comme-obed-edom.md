@@ -20,12 +20,12 @@ ghost_id: "6448fa86db90770001518efd"
 uuid: "c4847520-1643-41d6-b2c3-e9ff0f18d299"
 stream_url: "https://mevar.org/l-eglise-comme-obed-edom/"
 bible_refs:
-  - "2 Corinthiens 6:14"
-  - "2 Corinthiens 6:14-18"
   - "2 Thessaloniciens 2:1"
   - "2 Thessaloniciens 2:1-8"
-  - "Hébreux 11"
+  - "2 Corinthiens 6:14"
+  - "2 Corinthiens 6:14-18"
   - "Hébreux 5"
+  - "Hébreux 11"
   - "Ésaïe 53"
 ---
 Que Dieu nous bénisse. Nous remercions le Seigneur notre Dieu pour l’occasion d’écouter encore Sa Parole. C’est toujours une très bonne occasion quand on peut se retrouver dans la présence de Dieu pour écouter Sa Parole. Et c’est très important pour nous d’écouter la Parole de Dieu parce que c’est cette Parole-là qui nous donne la vie. Aujourd’hui, le monde a mis de côté la Parole de Dieu. C’est ce que nous voyons, c’est ce que nous constatons. Et si nous devons prêcher, nous les serviteurs de Dieu, je veux dire nous qui avons reçu de Dieu un appel, parce que tous ceux qui prêchent aujourd’hui n’ont pas la volonté de Dieu. Mais il y en a qui ont la volonté de Dieu. Le prédicateur qui a rencontré Dieu a une manière de prêcher parce que nous sommes dans un temps où les prophéties ont déjà dit à l’avance ce qui doit arriver. Alors, notre devoir, c’est d’interpeller à chaque fois le peuple de Dieu, ceux qui croient en Jésus-Christ, ceux qui sont sûrs d’avoir reçu de Dieu une révélation pour marcher dans Sa Parole jusqu’à atteindre le but, qui est l’enlèvement. Amen.

@@ -38,9 +38,9 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510506A-ta-parole.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 4:46-54"
   - "Jean 10:18"
   - "Jean 14:12"
-  - "Jean 4:46-54"
 original: "branham/1951/51-0506E"
 ---
 **SUR TA PAROLE**

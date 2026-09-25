@@ -43,20 +43,20 @@ themes:
 pdf_url: "http://cmpp.ch/serie1no5.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "Actes 10"
-  - "Actes 19"
-  - "Actes 2"
   - "Actes 7"
   - "Hébreux 10"
   - "Hébreux 11"
   - "Jean 14"
-  - "Jean 3"
-  - "Jean 5"
+  - "Actes 2"
   - "Matthieu 28"
-  - "Matthieu 5"
   - "Psaumes 1"
+  - "Actes 19"
+  - "Jean 5"
+  - "Jean 3"
+  - "Actes 10"
   - "Ésaïe 28"
+  - "Matthieu 5"
+  - "1 Corinthiens 12"
 ---
 SERIE 1 N° 5
 

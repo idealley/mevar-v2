@@ -44,14 +44,14 @@ mevar_match:
   similarity: 0.517
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 2:1-14"
-  - "Apocalypse 12"
-  - "Apocalypse 17"
-  - "Genèse 1"
   - "Jean 15:16"
-  - "Jean 5"
-  - "Luc 9:54-56"
+  - "Apocalypse 12"
+  - "Genèse 1"
   - "Ésaïe 9"
+  - "Jean 5"
+  - "Apocalypse 17"
+  - "2 Rois 2:1-14"
+  - "Luc 9:54-56"
 ---
 # Tu demandes une chose difficile
 

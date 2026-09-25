@@ -18,12 +18,12 @@ ghost_id: "6448fa86db90770001518ff6"
 uuid: "0781f036-64b2-4df9-9ab5-5edf6372d89e"
 stream_url: "https://mevar.org/jesus-christ-architecte-et-constructeur/"
 bible_refs:
-  - "1 Samuel 15:22-24"
-  - "Apocalypse 21"
+  - "Matthieu 7:24-27"
   - "Hébreux 11"
+  - "Apocalypse 21"
   - "Matthieu 16"
   - "Matthieu 16:16-18"
-  - "Matthieu 7:24-27"
+  - "1 Samuel 15:22-24"
 ---
 ## Exhortation de mi-juillet 2009
 

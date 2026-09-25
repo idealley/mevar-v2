@@ -41,15 +41,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/561215Ecoutez-le.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Exode 20:5"
-  - "Jean 1"
-  - "Jean 14:20"
+  - "Matthieu 17:1-5"
   - "Jean 5:24"
   - "Jean 6:44"
+  - "Exode 20:5"
   - "Matthieu 10"
-  - "Matthieu 14:58"
-  - "Matthieu 17:1-5"
   - "Ésaïe 49:15-16"
+  - "Jean 14:20"
+  - "Jean 1"
+  - "Matthieu 14:58"
 original: "branham/1956/56-1215"
 ---
 Résumé de : “Ecoutez-le” (15 décembre 1956)

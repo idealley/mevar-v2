@@ -41,16 +41,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550607Vrai-cep.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:2"
-  - "Actes 2:38"
-  - "Deutéronome 21:23"
-  - "Exode 16:33"
-  - "Galates 3:13"
-  - "Jean 14:10"
-  - "Jean 5:19"
   - "Joël 1:4"
   - "Joël 2:25"
+  - "Deutéronome 21:23"
+  - "Galates 3:13"
   - "Proverbes 14:12"
+  - "Exode 16:33"
+  - "Actes 2:38"
+  - "Actes 2:2"
+  - "Jean 14:10"
+  - "Jean 5:19"
 original: "branham/1955/55-0607"
 ---
 **1.** Billy m’a prévenu il y a un instant que je devais prêcher ce soir parce que le frère Jack Moore n’était pas là. Le frère Baxter a été mon manager pendant des années, mais il n’est pas là car il est très occupé par d’autres réunions, et cela fait trop de fers au feu. Je suis la direction de l’Esprit du Seigneur, et c’est un peu difficile pour un manager. Il y avait quatre cents villes du pays qui m’attendaient. Parfois j’indique une direction, et le manager m’indique les endroits qui sont sur le chemin.

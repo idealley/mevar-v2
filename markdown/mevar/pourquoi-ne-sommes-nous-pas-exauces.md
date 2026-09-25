@@ -18,16 +18,16 @@ ghost_id: "6448fa86db90770001518f49"
 uuid: "d3c7886e-e7b9-4a82-9a61-5497c6abc4b4"
 stream_url: "https://mevar.org/pourquoi-ne-sommes-nous-pas-exauces/"
 bible_refs:
-  - "2 Corinthiens 11"
-  - "2 Rois 8:9"
-  - "Aggée 1"
-  - "Deutéronome 16:16"
+  - "Ésaïe 55"
   - "Jacques 4"
-  - "Luc 8:1-3"
-  - "Lévitique 7:11-13"
   - "Proverbes 16"
   - "Proverbes 21"
-  - "Ésaïe 55"
+  - "Aggée 1"
+  - "Luc 8:1-3"
+  - "2 Corinthiens 11"
+  - "Lévitique 7:11-13"
+  - "Deutéronome 16:16"
+  - "2 Rois 8:9"
 ---
 ## Première partie
 

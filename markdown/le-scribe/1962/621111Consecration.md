@@ -39,13 +39,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/621111Consecration.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Romains 5:1"
   - "1 Chroniques 17:1"
-  - "Actes 2:17"
-  - "Actes 4:11"
   - "Actes 7:44"
   - "Hébreux 10:5"
-  - "Romains 5:1"
+  - "Actes 4:11"
   - "Éphésiens 2:20,1"
+  - "Actes 2:17"
 original: "branham/1962/62-1111M"
 ---
 **Résumé de : “Consécration” (11 novembre 1962, matin)**

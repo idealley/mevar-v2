@@ -61,10 +61,10 @@ mevar_match:
   similarity: 0.57
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 5:8"
-  - "Luc 24"
   - "Nombres 36"
   - "Ruth 3"
+  - "Apocalypse 5:8"
+  - "Luc 24"
 ---
 ## Le droit de rachat
 

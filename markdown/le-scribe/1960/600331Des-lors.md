@@ -41,13 +41,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600331Des-lors.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15:55"
-  - "Hébreux 13:8"
   - "Matthieu 10:42"
-  - "Matthieu 24:27"
   - "Matthieu 25:40-42"
   - "Matthieu 4:16-17"
   - "Romains 4:17"
+  - "1 Corinthiens 15:55"
+  - "Hébreux 13:8"
+  - "Matthieu 24:27"
 original: "branham/1960/60-0331"
 ---
 **1.** [Prière] …

@@ -43,18 +43,18 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no2.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Nombres 4"
+  - "Matthieu 24"
+  - "Genèse 6"
+  - "Matthieu 22"
+  - "Matthieu 5"
+  - "Ésaïe 5"
+  - "Ésaïe 3"
+  - "Luc 17"
   - "2 Timothée 4"
+  - "Jean 14"
   - "Actes 19"
   - "Galates 1"
-  - "Genèse 6"
-  - "Jean 14"
-  - "Luc 17"
-  - "Matthieu 22"
-  - "Matthieu 24"
-  - "Matthieu 5"
-  - "Nombres 4"
-  - "Ésaïe 3"
-  - "Ésaïe 5"
 ---
 SERIE 3 N° 2
 

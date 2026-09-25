@@ -44,16 +44,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510413oeuvres.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 6:7"
   - "2 Rois 20:6"
-  - "2 Rois 3"
-  - "Jacques 2:17"
+  - "Jean 4:46"
   - "Jean 10:22"
+  - "Jacques 2:17"
+  - "1 Rois 6:7"
+  - "Marc 9:38"
   - "Jean 13:35,1"
   - "Jean 4:20"
-  - "Jean 4:46"
-  - "Marc 9:38"
   - "Nombres 20:11"
+  - "2 Rois 3"
   - "Psaumes 42:2"
 original: "branham/1951/51-0413"
 ---

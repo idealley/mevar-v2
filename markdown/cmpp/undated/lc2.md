@@ -53,20 +53,20 @@ themes:
 pdf_url: "http://cmpp.ch/lc2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 26"
-  - "Apocalypse 2"
-  - "Colossiens 1"
   - "Hébreux 13"
-  - "Jean 20"
+  - "Actes 26"
+  - "Romains 11"
   - "Jérémie 5"
   - "Jérémie 9"
-  - "Luc 1"
-  - "Matthieu 3"
-  - "Osée 12"
-  - "Romains 11"
-  - "Éphésiens 5"
-  - "Ésaïe 41"
+  - "Jean 20"
+  - "Colossiens 1"
   - "Ésaïe 52"
+  - "Apocalypse 2"
+  - "Matthieu 3"
+  - "Ésaïe 41"
+  - "Osée 12"
+  - "Luc 1"
+  - "Éphésiens 5"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

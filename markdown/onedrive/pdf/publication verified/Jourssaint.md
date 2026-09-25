@@ -44,13 +44,13 @@ mevar_match:
   similarity: 0.529
 llm_cleaned: true
 bible_refs:
-  - "Actes 19"
-  - "Actes 19:1-5"
-  - "Jean 14"
-  - "Jean 7:37"
   - "Luc 18"
-  - "Luc 9:58"
   - "Matthieu 25:6"
+  - "Jean 7:37"
+  - "Jean 14"
+  - "Luc 9:58"
+  - "Actes 19:1-5"
+  - "Actes 19"
 ---
 ## AUX JOURS DU SAINT-ESPRIT
 

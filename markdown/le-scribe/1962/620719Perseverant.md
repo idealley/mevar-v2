@@ -51,20 +51,20 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620719Perseverant.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 15:21-28"
   - "1 Rois 19:12"
-  - "1 Rois 21:19-21"
-  - "1 Rois 22"
-  - "2 Rois 4:8-37"
+  - "Luc 17:26"
+  - "Josué 1:3"
   - "Genèse 7:11"
+  - "Marc 7:24-30"
   - "Hébreux 4:12"
-  - "Hébreux 4:15"
   - "Jean 11:21-22"
   - "Jean 11:25-27"
+  - "2 Rois 4:8-37"
+  - "1 Rois 22"
+  - "1 Rois 21:19-21"
   - "Jean 9"
-  - "Josué 1:3"
-  - "Luc 17:26"
-  - "Marc 7:24-30"
-  - "Matthieu 15:21-28"
+  - "Hébreux 4:15"
 original: "branham/1962/62-0719E"
 ---
 *Persévérant (ou Persévérance)*

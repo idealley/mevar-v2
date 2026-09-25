@@ -40,15 +40,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600302Des-lors.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15:55,57"
-  - "Actes 1:26"
-  - "Apocalypse 12:17"
-  - "Hébreux 13:2"
-  - "Jean 5:19"
-  - "Matthieu 12:42"
-  - "Matthieu 3:9"
   - "Matthieu 4:16-17"
+  - "Actes 1:26"
+  - "Hébreux 13:2"
+  - "Matthieu 3:9"
+  - "1 Corinthiens 15:55,57"
   - "Ésaïe 53:5"
+  - "Matthieu 12:42"
+  - "Apocalypse 12:17"
+  - "Jean 5:19"
 original: "branham/1960/60-0302"
 ---
 “Dès ce moment” (le 2 mars 1960)

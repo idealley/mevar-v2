@@ -39,12 +39,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631128aTemoignage.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Samuel 24"
+  - "Psaumes 23"
   - "2 Corinthiens 9:14-15"
   - "Hébreux 4:12"
   - "Marc 11:23"
+  - "1 Samuel 24"
   - "Nombres 12:1-16"
-  - "Psaumes 23"
 original: "branham/1963/63-1128M"
 ---
 **Résumé de!: “Témoignage” (28 novembre 1963 matin)**

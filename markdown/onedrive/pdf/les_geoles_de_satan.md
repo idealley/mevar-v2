@@ -34,14 +34,14 @@ themes:
   - "Adoration en esprit et en vérité"
 llm_cleaned: true
 bible_refs:
+  - "Psaumes 42"
   - "2 Corinthiens 3:17"
   - "Galates 5:7-9"
+  - "Matthieu 6:14-15"
+  - "Matthieu 5:23-24"
+  - "Matthieu 25"
   - "Malachie 4:5"
   - "Matthieu 24:45-47"
-  - "Matthieu 25"
-  - "Matthieu 5:23-24"
-  - "Matthieu 6:14-15"
-  - "Psaumes 42"
 ---
 ## Les geôles de Satan
 

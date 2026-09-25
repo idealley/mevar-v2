@@ -53,15 +53,15 @@ themes:
 pdf_url: "http://cmpp.ch/7sceaux10.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 12"
-  - "Apocalypse 10"
-  - "Apocalypse 11"
-  - "Apocalypse 14"
-  - "Apocalypse 7"
-  - "Apocalypse 8:1"
-  - "Deutéronome 29"
-  - "Matthieu 24"
   - "Ésaïe 9"
+  - "Apocalypse 11"
+  - "Matthieu 24"
+  - "Apocalypse 7"
+  - "Deutéronome 29"
+  - "1 Rois 12"
+  - "Apocalypse 14"
+  - "Apocalypse 8:1"
+  - "Apocalypse 10"
 ---
 BROCHURE N° 10
 

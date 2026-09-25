@@ -35,18 +35,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620909aCompte.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12:13"
-  - "1 Jean 5:7-8"
   - "2 Timothée 4:13"
-  - "Actes 13:8-11"
-  - "Actes 1:8"
-  - "Apocalypse 1:16,20"
-  - "Genèse 1:1"
-  - "Genèse 6:16"
   - "Hébreux 11:1-3"
-  - "Hébreux 13:8"
-  - "Jean 14:2"
+  - "Genèse 1:1"
+  - "1 Jean 5:7-8"
   - "Jean 5:24"
+  - "Actes 1:8"
+  - "Hébreux 13:8"
+  - "1 Corinthiens 12:13"
+  - "Apocalypse 1:16,20"
+  - "Genèse 6:16"
+  - "Jean 14:2"
+  - "Actes 13:8-11"
 original: "branham/1962/62-0909M"
 ---
 **COMPTE A REBOURS**

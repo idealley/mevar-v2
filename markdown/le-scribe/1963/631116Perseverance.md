@@ -52,14 +52,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631116Perseverance.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:38-39"
+  - "Matthieu 15:21-28"
+  - "Jean 14:12,20"
   - "Hébreux 11:1"
+  - "Marc 7:24-30"
+  - "Josué 1:3"
   - "Jean 11:22"
   - "Jean 11:25-26"
-  - "Jean 14:12,20"
-  - "Josué 1:3"
-  - "Marc 7:24-30"
-  - "Matthieu 15:21-28"
+  - "Actes 2:38-39"
 original: "branham/1963/63-1116E"
 ---
 **Résumé de!: “Persévérance” (16 novembre 1963, soir)**

@@ -42,14 +42,14 @@ mevar_match:
   similarity: 0.52
 llm_cleaned: true
 bible_refs:
+  - "Romains 10"
+  - "Psaumes 115:2-11"
   - "1 Jean 1:1-3"
   - "2 Rois 5"
   - "2 Rois 5:1-16"
   - "2 Samuel 23"
   - "2 Samuel 23:13-17"
   - "2 Timothée 3"
-  - "Psaumes 115:2-11"
-  - "Romains 10"
 ---
 La lèpre de Nahaman,
 *prêché le 4 novembre 2007 à Mougnondzi, Congo/Brazzaville*

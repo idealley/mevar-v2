@@ -42,11 +42,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590209Bartimee.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Marc 10:46-53"
+  - "Proverbes 22:6"
   - "2 Rois 4"
   - "Actes 19:12"
   - "Deutéronome 18:15"
-  - "Marc 10:46-53"
-  - "Proverbes 22:6"
 ---
 **Résumé de : “L’aveugle Bartimée” (9 février 1959, soir)**
 

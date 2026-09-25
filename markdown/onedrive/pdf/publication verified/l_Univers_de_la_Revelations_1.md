@@ -43,11 +43,11 @@ mevar_match:
   similarity: 0.559
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 14"
-  - "1 Jean 4"
   - "Daniel 2"
   - "Joël 2:28-31"
+  - "1 Jean 4"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
 ---
 # L’Univers de la révélation 1
 

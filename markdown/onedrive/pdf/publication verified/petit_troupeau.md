@@ -48,10 +48,10 @@ mevar_match:
   similarity: 0.63
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 4"
   - "Hébreux 4:1"
-  - "Luc 12"
   - "Luc 12:29"
+  - "Hébreux 4"
+  - "Luc 12"
 ---
 Que Dieu vous bénisse! Nous remercions le Seigneur pour cette occasion qu'Il nous donne de nous retrouver en Europe parmi vous ici. Vous savez que nous sommes très loin d'ici, mais par la grâce de Dieu et avec la puissance de l'industrialisation, en quelques heures, on peut arriver en Europe en prenant l'avion. Avant c'était plus difficile. Les gens allaient à pieds, après avec les animaux et puis maintenant on est arrivé aux avions.
 

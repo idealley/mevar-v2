@@ -30,8 +30,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560218Pire-pecheur.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 4:7"
   - "Luc 7:36"
+  - "1 Corinthiens 4:7"
   - "Matthieu 11:28"
   - "Psaumes 2:12"
 ---

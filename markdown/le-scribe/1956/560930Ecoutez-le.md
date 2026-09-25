@@ -41,10 +41,10 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560930Ecoutez-le.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Exode 19"
-  - "Matthieu 11:28"
   - "Matthieu 17:1"
   - "Proverbes 14:12"
+  - "Exode 19"
+  - "Matthieu 11:28"
 original: "branham/1956/56-0930A"
 ---
 **1.** [Prière]. Je suis venu si souvent ici, que c'est un peu ma maison natale. Je reviens d'une réunion en Californie [le 16 septembre 1956] pour le jubilé de la première effusion du Saint-Esprit en Amérique avec la restauration des dons à Azusa Street. Plusieurs témoins de l'époque étaient présents. Nous avons parlé le premier soir et Dieu a déversé sa bénédiction. Il y avait 6 000 personnes dans l'Angelus Temple prévu pour 5 500. J'ai dû partir pour d'autres réunions. Nous n'avons prié que collectivement pour les malades, pour laisser la place à Oral Roberts, Jack Coe, Tommy Hicks et d'autres grands ministères. C'est un privilège d'être reçu ici par mon ami Joseph Booze. Nous comptons sur une effusion de l'Esprit.

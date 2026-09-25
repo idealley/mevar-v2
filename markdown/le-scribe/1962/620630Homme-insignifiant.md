@@ -39,9 +39,9 @@ pdf_url: "http://le-scribe.org/pdfiles/620630Homme-insignifiant.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 11:3-16"
-  - "Actes 2"
   - "Luc 7:36"
   - "Luc 7:39"
+  - "Actes 2"
 original: "branham/1962/62-0630E"
 ---
 **1.** [Prière pour la réunion et sur des tissus]. Je vois qu'il y a beaucoup de gens de l'Arkansas et de l'Oklahoma en Californie ! Ma mère vivait à Tulsa, Oklahoma, quand elle était jeune. J'ai commencé les réunions de mon ministère à Jonesboro [été 1946], Moark, Texarkana, Little Rock, Hot Springs, Oklahoma City, Tulsa. Jonesboro a été ma première grande réunion après avoir quitté St Louis où la guérison de la petite Daugherty avait remué toute la ville [mai 1946 ; Betty Daugherty, fille du pasteur de la ville, se griffait et criait depuis trois mois, et les médecins étaient impuissants]. Des dizaines de milliers de personnes sont venues [NDT : campagne de guérison sous tente à St Louis, Missouri, du 14 au 25 juin 1946 ; la visite de l'Ange avait eu lieu le 7 mai]. C'est aussi à Jonesboro que ma réunion est passée pour la première fois à la radio. Vingt-huit mille personnes étaient présentes, et des tentes avaient été plantées un peu partout sous la pluie. La ligne de prière s'étendait sur plusieurs longueurs d'immeubles. Un soir, j'ai prié toute une nuit debout, et j'ai continué le matin à genoux.

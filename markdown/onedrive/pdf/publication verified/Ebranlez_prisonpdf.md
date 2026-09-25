@@ -41,13 +41,13 @@ themes:
   - "Babylone"
 llm_cleaned: true
 bible_refs:
-  - "Actes 16"
   - "Actes 16:6"
-  - "Actes 8"
   - "Actes 8:26"
-  - "Matthieu 23:13"
-  - "Matthieu 24"
   - "Ésaïe 6"
+  - "Actes 16"
+  - "Actes 8"
+  - "Matthieu 24"
+  - "Matthieu 23:13"
 ---
 ## EBRANLEZ LES PRISONS !
 

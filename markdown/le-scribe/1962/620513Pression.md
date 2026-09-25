@@ -46,16 +46,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620513Pression.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 2:15"
+  - "Proverbes 18:10"
+  - "Ésaïe 32:1-2"
+  - "Josué 20"
+  - "Luc 9:62"
   - "Exode 12:23"
+  - "Éphésiens 2:6"
+  - "1 Jean 2:15"
   - "Galates 2:20"
   - "Jean 5:24"
   - "Jean 6:44"
-  - "Josué 20"
-  - "Luc 9:62"
-  - "Proverbes 18:10"
-  - "Éphésiens 2:6"
-  - "Ésaïe 32:1-2"
 ---
 **Résumé de!: “Relâcher la pression” (13 mai 1962, après-midi)**
 

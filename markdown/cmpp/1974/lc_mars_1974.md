@@ -35,19 +35,19 @@ themes:
 pdf_url: "http://cmpp.ch/lc_mars_1974.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 10"
+  - "Hébreux 13"
+  - "Ésaïe 44"
+  - "Hébreux 1"
   - "1 Corinthiens 3"
+  - "Éphésiens 4"
+  - "Jérémie 1"
+  - "Galates 1"
+  - "Deutéronome 27"
+  - "1 Corinthiens 10"
   - "1 Jean 1"
+  - "Zacharie 14"
   - "Apocalypse 17"
   - "Daniel 2"
-  - "Deutéronome 27"
-  - "Galates 1"
-  - "Hébreux 1"
-  - "Hébreux 13"
-  - "Jérémie 1"
-  - "Zacharie 14"
-  - "Éphésiens 4"
-  - "Ésaïe 44"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

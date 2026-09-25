@@ -48,21 +48,21 @@ mevar_match:
   similarity: 0.708
 llm_cleaned: true
 bible_refs:
+  - "Psaumes 82"
+  - "2 Pierre 1:1-8"
+  - "Josué 10"
   - "1 Corinthiens 3"
   - "1 Corinthiens 3:21-23"
-  - "1 Corinthiens 8"
-  - "1 Jean 2"
-  - "1 Pierre 1"
-  - "1 Timothée 4:8-9"
   - "2 Pierre 1"
-  - "2 Pierre 1:1-8"
-  - "Esther 1"
-  - "Hébreux 13"
+  - "1 Corinthiens 8"
+  - "Proverbes 16"
   - "Jacques 1:2-4"
   - "Jacques 5:7-8"
-  - "Josué 10"
-  - "Proverbes 16"
-  - "Psaumes 82"
+  - "1 Timothée 4:8-9"
+  - "Hébreux 13"
+  - "1 Pierre 1"
+  - "1 Jean 2"
+  - "Esther 1"
 ---
 ## La Foi et la nature divine (SUITE)
 

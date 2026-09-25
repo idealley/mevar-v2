@@ -42,20 +42,20 @@ llm_cleaned: true
 bible_refs:
   - "Apocalypse 12:11"
   - "Exode 14:14"
-  - "Exode 31:18"
-  - "Exode 32:1,35"
-  - "Malachie 4:3"
-  - "Matthieu 27:3,5"
-  - "Matthieu 27:33-35"
-  - "Néhémie 2:20"
   - "Néhémie 4"
+  - "Néhémie 2:20"
   - "Néhémie 4:10"
   - "Néhémie 4:23"
   - "Néhémie 6"
-  - "Néhémie 7:63"
   - "Néhémie 8"
+  - "Néhémie 7:63"
   - "Zacharie 8:16-17"
   - "Zacharie 8:9,19"
+  - "Matthieu 27:33-35"
+  - "Matthieu 27:3,5"
+  - "Exode 31:18"
+  - "Exode 32:1,35"
+  - "Malachie 4:3"
 ---
 ## Témoignage du Frère Nandy Noël
 

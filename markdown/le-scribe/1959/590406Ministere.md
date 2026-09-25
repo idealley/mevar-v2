@@ -40,11 +40,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590406Ministere.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Daniel 8:27"
-  - "Hébreux 13:8"
-  - "Hébreux 4:15"
-  - "Luc 8:43-50"
   - "Marc 5:30"
+  - "Daniel 8:27"
+  - "Hébreux 4:15"
+  - "Hébreux 13:8"
+  - "Luc 8:43-50"
 original: "branham/1959/59-0406"
 ---
 “Un nouveau ministère” (6 avril 1959)

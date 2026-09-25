@@ -43,18 +43,18 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no7.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3"
-  - "Actes 19"
-  - "Apocalypse 13"
-  - "Apocalypse 17"
   - "Genèse 20"
   - "Genèse 20:6"
-  - "Jean 17"
-  - "Jean 5"
-  - "Luc 24"
-  - "Malachie 4"
   - "Matthieu 27"
   - "Psaumes 1"
+  - "Actes 19"
+  - "Apocalypse 17"
+  - "2 Timothée 3"
+  - "Apocalypse 13"
+  - "Jean 17"
+  - "Luc 24"
+  - "Jean 5"
+  - "Malachie 4"
 ---
 SERIE 2 N° 7
 

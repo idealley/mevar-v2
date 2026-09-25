@@ -49,12 +49,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620630Pas-ainsi-au-debut.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 11:21-22"
-  - "Jean 11:41"
   - "Jean 14:10"
   - "Jean 15:5"
-  - "Marc 5:25-34"
   - "Matthieu 11:6"
+  - "Jean 11:21-22"
+  - "Jean 11:41"
+  - "Marc 5:25-34"
 ---
 *Au commencement, il n’en était pas ainsi* (30 juin 1962, matin)
 

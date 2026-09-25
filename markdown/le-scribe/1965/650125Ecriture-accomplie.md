@@ -34,12 +34,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650125Ecriture-accomplie.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Luc 17:30"
   - "Jean 16:20-21"
   - "Jean 17:21"
-  - "Luc 17:28,30"
-  - "Luc 17:30"
   - "Luc 4:16-21"
   - "Ésaïe 61:1-2"
+  - "Luc 17:28,30"
 original: "branham/1965/65-0125"
 ---
 Résumé de : “Aujourd'hui cette Ecriture est accomplie” (25 Janvier 1965, soir)

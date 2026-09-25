@@ -44,16 +44,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600108Conference.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3:12"
-  - "Actes 4:31"
-  - "Genèse 15:13-14"
-  - "Genèse 3:15"
   - "Hébreux 11:10"
+  - "Ésaïe 1:18"
+  - "Genèse 3:15"
+  - "Genèse 15:13-14"
   - "Hébreux 11:6"
-  - "Psaumes 34:19"
   - "Romains 4:17"
   - "Romains 4:20"
-  - "Ésaïe 1:18"
+  - "Psaumes 34:19"
+  - "2 Timothée 3:12"
+  - "Actes 4:31"
 original: "branham/1960/60-0108"
 ---
 *Une conférence avec Dieu* (le 1960)

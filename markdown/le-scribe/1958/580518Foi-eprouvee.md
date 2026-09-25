@@ -39,12 +39,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580518Foi-eprouvee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Exode 2:12"
-  - "Hébreux 11:1"
   - "Marc 11:22"
+  - "Hébreux 11:1"
+  - "Exode 2:12"
   - "Marc 11:22-23"
-  - "Matthieu 8"
   - "Ésaïe 53"
+  - "Matthieu 8"
   - "Ésaïe 53:5"
 original: "branham/1958/58-0518"
 ---

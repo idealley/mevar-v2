@@ -39,11 +39,11 @@ themes:
   - "Enlèvement"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 18"
-  - "1 Rois 19"
   - "1 Rois 19:19-21"
   - "2 Rois 2:1-11"
   - "Malachie 4:5"
+  - "1 Rois 19"
+  - "1 Rois 18"
 ---
 ## L'héritage d'Elisée
 

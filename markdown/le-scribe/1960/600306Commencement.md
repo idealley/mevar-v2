@@ -40,16 +40,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600306Commencement.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 6:44,37"
+  - "Matthieu 19:8"
   - "Actes 2:37-38"
+  - "Matthieu 15:9"
+  - "Marc 7:13"
+  - "Jean 15:5"
+  - "Jean 5:19"
   - "Apocalypse 3:21"
   - "Apocalypse 6:9"
   - "Hébreux 13:8"
-  - "Jean 15:5"
-  - "Jean 5:19"
-  - "Jean 6:44,37"
-  - "Marc 7:13"
-  - "Matthieu 15:9"
-  - "Matthieu 19:8"
 original: "branham/1960/60-0306"
 ---
 **1.** [Prière pour la suite de la réunion] …

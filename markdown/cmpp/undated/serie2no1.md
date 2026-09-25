@@ -43,21 +43,21 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no1.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 15"
-  - "Actes 16"
-  - "Actes 19"
   - "Exode 12:12,13"
-  - "Genèse 4"
-  - "Hébreux 10"
+  - "1 Corinthiens 15"
   - "Hébreux 11"
-  - "Hébreux 12"
-  - "Hébreux 13"
+  - "Actes 19"
   - "Hébreux 6"
-  - "Hébreux 9"
-  - "Jean 14"
+  - "1 Corinthiens 12"
+  - "Hébreux 10"
   - "Josué 2"
+  - "Hébreux 13"
+  - "Jean 14"
   - "Romains 8"
+  - "Hébreux 12"
+  - "Genèse 4"
+  - "Actes 16"
+  - "Hébreux 9"
 ---
 SERIE 2 N° 1
 

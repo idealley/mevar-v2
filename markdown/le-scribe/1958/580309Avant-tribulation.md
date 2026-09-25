@@ -52,14 +52,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580309Avant-tribulation.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Luc 17:26"
   - "Genèse 19:22"
   - "Genèse 6:3"
+  - "Jean 14:6"
   - "Jean 14:12"
   - "Jean 14:19,20"
-  - "Jean 14:6"
-  - "Jean 15:1-2"
   - "Jean 5:19"
-  - "Luc 17:26"
+  - "Jean 15:1-2"
 ---
 Résumé de : “L’Eglise partira-t-elle avant la tribulation” (9 mars 1958, soir)
 

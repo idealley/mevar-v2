@@ -43,14 +43,14 @@ mevar_match:
   similarity: 0.715
 llm_cleaned: true
 bible_refs:
-  - "2 Samuel 15"
-  - "2 Samuel 18"
-  - "Apocalypse 3:21"
-  - "Esdras 1:5"
-  - "Philippiens 2:3-8"
-  - "Philippiens 2:9-12"
   - "Psaumes 75"
   - "Psaumes 75:4-11"
+  - "Esdras 1:5"
+  - "Apocalypse 3:21"
+  - "2 Samuel 15"
+  - "2 Samuel 18"
+  - "Philippiens 2:3-8"
+  - "Philippiens 2:9-12"
 ---
 ## Appel à l'humilité et à la simplicité
 

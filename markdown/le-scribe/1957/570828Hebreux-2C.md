@@ -36,17 +36,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570828Hebreux-2C.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 5:41"
-  - "Genèse 15:9-21"
-  - "Genèse 1:26"
-  - "Genèse 2:5"
-  - "Hébreux 13:8"
   - "Hébreux 2"
+  - "Actes 5:41"
+  - "Hébreux 13:8"
   - "Hébreux 2:1-3"
-  - "Hébreux 2:15-16"
-  - "Hébreux 2:17-18"
   - "Hébreux 7:3"
   - "Jean 6:31,33,49,50"
+  - "Hébreux 2:15-16"
+  - "Genèse 1:26"
+  - "Genèse 2:5"
+  - "Genèse 15:9-21"
+  - "Hébreux 2:17-18"
 original: "branham/1957/57-0828"
 ---
 **Résumé de!: “Hébreux, chapitre 2, troisième partie” (28 août 1957, soir)**

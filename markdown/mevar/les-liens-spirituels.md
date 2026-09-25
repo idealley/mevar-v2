@@ -23,8 +23,8 @@ uuid: "d37b7572-a224-4e0b-a5d6-44e0a5277964"
 stream_url: "https://mevar.org/les-liens-spirituels/"
 bible_refs:
   - "Luc 13"
-  - "Luc 6"
   - "Matthieu 6:1"
+  - "Luc 6"
 ---
 ## Première partie
 

@@ -44,13 +44,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550312Marque-christ.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 7"
-  - "Apocalypse 7:9-12"
   - "Apocalypse 9:3-4"
   - "Hébreux 10:26-27"
   - "Jean 6:44"
   - "Ézéchiel 8"
   - "Ézéchiel 9:3"
+  - "Apocalypse 7"
+  - "Apocalypse 7:9-12"
 original: "branham/1955/55-0312"
 ---
 Résumé de : “La marque de christ” (12 mars 1955, soir)

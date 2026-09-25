@@ -39,8 +39,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551114Heure-sombre.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 11:21"
   - "Jean 11:28"
+  - "Jean 11:21"
   - "Ésaïe 53:5"
 original: "branham/1955/55-1114"
 ---

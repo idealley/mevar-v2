@@ -33,14 +33,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/621104Ordination.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 11:23"
-  - "2 Pierre 1:5"
-  - "2 Timothée 1:5"
-  - "Apocalypse 17:3"
-  - "Apocalypse 22:15"
-  - "Jean 13:2"
-  - "Jean 15:5"
   - "Jean 3:13"
+  - "Apocalypse 22:15"
+  - "Apocalypse 17:3"
+  - "2 Timothée 1:5"
+  - "Jean 15:5"
+  - "2 Pierre 1:5"
+  - "1 Corinthiens 11:23"
+  - "Jean 13:2"
   - "Psaumes 150:6"
 original: "branham/1962/62-1104E"
 ---

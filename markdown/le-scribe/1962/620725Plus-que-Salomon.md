@@ -44,16 +44,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620725Plus-que-Salomon.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 3:16"
+  - "Psaumes 103:3"
+  - "2 Rois 2:24"
+  - "Matthieu 12:41"
+  - "Marc 7:13"
   - "1 Corinthiens 2:4"
+  - "Jonas 2:5"
+  - "1 Rois 8:38"
   - "1 Rois 10:1-13"
   - "1 Rois 10:8"
-  - "1 Rois 8:38"
-  - "2 Rois 2:24"
-  - "Jean 3:16"
-  - "Jonas 2:5"
-  - "Marc 7:13"
-  - "Matthieu 12:41"
-  - "Psaumes 103:3"
 original: "branham/1962/62-0725"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (25 juillet 1962, soir)*

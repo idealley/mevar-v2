@@ -18,12 +18,12 @@ ghost_id: "6448fa86db90770001518f09"
 uuid: "b466836d-afc6-4979-93b8-617b98e11d17"
 stream_url: "https://mevar.org/presence-demoniaque-dans-les-mariages/"
 bible_refs:
-  - "1 Corinthiens 7"
-  - "1 Rois 3:1-2"
   - "Genèse 2:18-25"
-  - "Genèse 34"
   - "Matthieu 12:34"
   - "Matthieu 3:7"
+  - "Genèse 34"
+  - "1 Rois 3:1-2"
+  - "1 Corinthiens 7"
 ---
 Le diable est dans les mariages ! Est-ce que vous comprenez ? Je voudrais donc qu’on s’entretienne là-dessus ce matin, parce que c’est un sujet qui pèse beaucoup sur l’Eglise et sur l’humanité toute entière. Amen ! **Vous savez, la différence entre les chrétiens et les païens,c’est que nous avons la connaissance des choses**. Nous avons l’explication des choses et nous avons aussi les moyens de régler les problèmes. Amen ! C’est pour cette raison que Dieu ne peut pas tolérer les croyants. **Le chrétien a les moyens de régler les problèmes les plus graves qui peuvent arriver à un homme sur cette terre.** Mais s’il ne les règle pas et qu’il va contre la parole de Dieu, ça devient un problème. Beaucoup seront jugés sévèrement parce que Dieu leur a donné les moyens de régler leurs problèmes et qu’ils ne les ont pas réglés jusqu’à ce que ça les emporte.
 

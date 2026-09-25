@@ -39,19 +39,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580625Salomon.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 14:29"
-  - "1 Rois 8:38-39"
-  - "2 Rois 2:24"
   - "Actes 19:12"
   - "Hébreux 11:6"
-  - "Jean 10:37-38"
-  - "Jean 5:19"
-  - "Jean 5:24"
-  - "Jean 5:39"
-  - "Jude 1:4"
   - "Matthieu 12:42"
-  - "Nombres 20:11"
+  - "Jean 10:37-38"
+  - "Jude 1:4"
   - "Romains 8:28"
+  - "1 Rois 8:38-39"
+  - "Jean 5:39"
+  - "Jean 5:24"
+  - "Nombres 20:11"
+  - "2 Rois 2:24"
+  - "1 Corinthiens 14:29"
+  - "Jean 5:19"
 original: "branham/1958/58-0625"
 ---
 **IL Y A ICI PLUS QUE SALOMON**

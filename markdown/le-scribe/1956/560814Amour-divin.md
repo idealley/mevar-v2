@@ -50,13 +50,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560814Amour-divin.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
   - "Exode 14:13"
+  - "1 Corinthiens 13"
   - "Hébreux 13:8"
+  - "Psaumes 42:7"
+  - "Proverbes 16:9"
   - "Jean 5:19"
   - "Jude 1:4"
-  - "Proverbes 16:9"
-  - "Psaumes 42:7"
 original: "branham/1956/56-0814"
 ---
 **1.** Je salue le frère Joseph Mattsson-Booze de Chicago, un ami. David était heureux d’aller à la maison de l’Eternel. Là où les gens sont réunis, là est la maison de Dieu. Nous combattons pour la foi transmise aux saints, non pas contre telle ou telle dénomination, mais contre les ruses du diable, contre le bouddhisme, l’islam, les idoles du monde Nous combattons pour le vrai Dieu vivant. Notre foi n’est pas fondée sur l’émotion, la psychologie, l’enthousiasme, mais sur la Présence de Jésus-Christ ressuscité, et qui le confirme parmi nous chaque soir.

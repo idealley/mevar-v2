@@ -33,18 +33,18 @@ themes:
 pdf_url: "http://cmpp.ch/lc9.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13"
   - "1 Chroniques 28"
   - "1 Corinthiens 3"
-  - "Colossiens 1"
-  - "Exode 25"
-  - "Galates 4"
-  - "Hébreux 13"
-  - "Hébreux 2"
-  - "Jean 14"
   - "Jean 4"
-  - "Marc 11"
-  - "Romains 3"
   - "Romains 8"
+  - "Galates 4"
+  - "Jean 14"
+  - "Marc 11"
+  - "Exode 25"
+  - "Hébreux 2"
+  - "Colossiens 1"
+  - "Romains 3"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

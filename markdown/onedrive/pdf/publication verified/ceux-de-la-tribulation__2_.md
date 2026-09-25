@@ -46,18 +46,18 @@ mevar_match:
   similarity: 0.639
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 14:29"
+  - "Genèse 6"
+  - "Éphésiens 2:20"
+  - "Ésaïe 27"
   - "Apocalypse 12"
   - "Apocalypse 13"
-  - "Apocalypse 14"
+  - "Apocalypse 7"
   - "Apocalypse 17"
   - "Apocalypse 17:1"
-  - "Apocalypse 7"
-  - "Genèse 6"
-  - "Luc 21:28"
-  - "Éphésiens 2:20"
   - "Ésaïe 18"
-  - "Ésaïe 27"
+  - "Apocalypse 14"
+  - "1 Corinthiens 14:29"
+  - "Luc 21:28"
 ---
 Ceux de la grande tribulation 2, prêché le Dimanche 30 Août 2015 à Koumassi par le frère M'BRA Parfait
 

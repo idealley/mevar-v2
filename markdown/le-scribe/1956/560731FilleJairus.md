@@ -49,11 +49,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560731FilleJairus.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:38-39"
+  - "Luc 8:48"
+  - "Jean 5:19"
   - "Apocalypse 22:11"
   - "Hébreux 13:8"
-  - "Jean 5:19"
-  - "Luc 8:48"
+  - "Actes 2:38-39"
   - "Ésaïe 53:5"
 original: "branham/1956/56-0731"
 ---

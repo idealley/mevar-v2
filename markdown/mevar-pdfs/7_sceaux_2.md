@@ -42,13 +42,13 @@ pdf_url: "https://mevar.org/content/files/2022/12/7_sceaux_2.pdf"
 local_pdf: "/files/mevar/7_sceaux_2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12:13,14"
-  - "Apocalypse 16"
-  - "Apocalypse 17"
-  - "Apocalypse 19"
-  - "Apocalypse 2"
-  - "Apocalypse 3"
   - "Apocalypse 6"
+  - "Apocalypse 19"
+  - "1 Corinthiens 12:13,14"
+  - "Apocalypse 2"
+  - "Apocalypse 17"
+  - "Apocalypse 3"
+  - "Apocalypse 16"
 ---
 Le Message des 7 sceaux (Deuxième et troisième sceau)
 

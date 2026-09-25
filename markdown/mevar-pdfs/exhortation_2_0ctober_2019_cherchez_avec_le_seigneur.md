@@ -40,20 +40,20 @@ pdf_url: "https://mevar.org/content/files/2022/12/exhortation_2_0ctober_2019_che
 local_pdf: "/files/mevar/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 1:20"
-  - "Actes 26:18"
-  - "Aggée 1"
+  - "Marc 11:22"
+  - "Jean 14"
+  - "Jean 5:19"
   - "Hébreux 11:1"
   - "Jean 11:42"
-  - "Jean 14"
-  - "Jean 14:1"
-  - "Jean 5:19"
+  - "Actes 26:18"
   - "Josué 1"
   - "Josué 7"
+  - "2 Corinthiens 1:20"
   - "Luc 1:18-20"
+  - "Jean 14:1"
   - "Luc 5"
-  - "Marc 11:22"
   - "Matthieu 7:7"
+  - "Aggée 1"
   - "Éphésiens 6:14-18"
 ---
 Exhortation d’Octobre 2019

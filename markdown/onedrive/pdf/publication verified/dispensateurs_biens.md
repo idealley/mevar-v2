@@ -39,9 +39,9 @@ mevar_match:
   similarity: 0.68
 llm_cleaned: true
 bible_refs:
+  - "Luc 16"
   - "1 Corinthiens 4"
   - "1 Pierre 4"
-  - "Luc 16"
 ---
 ## Dispensateurs des biens du Christ
 

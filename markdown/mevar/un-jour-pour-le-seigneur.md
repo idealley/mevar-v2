@@ -18,14 +18,14 @@ ghost_id: "6448fa86db90770001518f02"
 uuid: "16af51f7-7d0d-4711-9a2a-a4760a94e3a7"
 stream_url: "https://mevar.org/un-jour-pour-le-seigneur/"
 bible_refs:
-  - "Actes 8:39-40"
-  - "Luc 12"
+  - "Ésaïe 2:11"
+  - "Ésaïe 2:11-19"
   - "Malachie 3:16"
   - "Malachie 3:16-18"
   - "Malachie 4:1-6"
-  - "Ésaïe 2:11"
-  - "Ésaïe 2:11-19"
+  - "Luc 12"
   - "Ésaïe 30:26"
+  - "Actes 8:39-40"
 ---
 Un jour pour le Seigneur. Que Dieu soit béni ! Je voudrais revenir un peu sur la Parole prophétique. Ce sont des paroles d’exhortation et d’encouragement qui sont liées aux prophéties bibliques. Nous allons lire dans Esaïe chapitre 2, à partir du verset 11.
 

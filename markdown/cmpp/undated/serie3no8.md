@@ -34,11 +34,11 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no8.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Psaumes 86"
+  - "Matthieu 16"
   - "1 Thessaloniciens 4"
   - "Apocalypse 10"
   - "Malachie 4"
-  - "Matthieu 16"
-  - "Psaumes 86"
 ---
 SERIE 3 N° 8
 

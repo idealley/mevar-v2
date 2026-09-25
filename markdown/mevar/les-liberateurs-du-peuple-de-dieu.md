@@ -20,9 +20,9 @@ ghost_id: "6448fa86db90770001518efb"
 uuid: "66283a96-4e09-4ea2-ab6b-976abbbbbfdf"
 stream_url: "https://mevar.org/les-liberateurs-du-peuple-de-dieu/"
 bible_refs:
-  - "Abdias 1:20-21"
-  - "Actes 7:35"
   - "Juges 3:8"
+  - "Actes 7:35"
+  - "Abdias 1:20-21"
 ---
 Nous lisons Juges 3:8:
 

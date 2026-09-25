@@ -37,19 +37,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550116Position.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12:13"
-  - "2 Corinthiens 5:19"
-  - "Galates 4:1"
-  - "Hébreux 9:22"
-  - "Jean 14"
-  - "Jean 6:44"
-  - "Matthieu 17:5"
-  - "Matthieu 28:18"
   - "Romains 10:17"
   - "Éphésiens 1:1"
+  - "Hébreux 9:22"
+  - "2 Corinthiens 5:19"
+  - "1 Corinthiens 12:13"
   - "Éphésiens 1:2-3"
   - "Éphésiens 1:4"
   - "Éphésiens 1:5"
+  - "Jean 6:44"
+  - "Jean 14"
+  - "Galates 4:1"
+  - "Matthieu 17:5"
+  - "Matthieu 28:18"
 original: "branham/1955/55-0116A"
 ---
 **2.** J'avais prévu de parler sur les promesses inébranlables de Dieu, mais le Seigneur m'a dit qu'il ne valait mieux pas. Le frère Joseph Boze a parlé des photos de l'Ange de l'Eternel. Nous en apporterons demain, car nous ne vendons rien le dimanche. Ce soir, nous prierons pour les malades, et nous distribuerons les cartes de prière vers six heures. Nous les distribuons au jour le jour, pour que ceux qui viennent plus tard aient une chance d'en avoir. C'est notre expérience de huit années de voyages.

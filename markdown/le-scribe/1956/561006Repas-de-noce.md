@@ -48,17 +48,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/561006Repas-de-noce.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 12:1-2"
-  - "Jean 14:2"
-  - "Jean 5:19"
-  - "Jean 6:44"
-  - "Matthieu 22:12-14"
-  - "Matthieu 22:4"
-  - "Matthieu 24:37"
   - "Psaumes 1"
-  - "Romains 3:4"
-  - "Romains 8:30"
+  - "Matthieu 22:12-14"
   - "Zacharie 14:7"
+  - "Jean 6:44"
+  - "Romains 8:30"
+  - "Hébreux 12:1-2"
+  - "Matthieu 22:4"
+  - "Jean 14:2"
+  - "Romains 3:4"
+  - "Matthieu 24:37"
+  - "Jean 5:19"
 ---
 Résumé de : “Un repas de noces” (6 octobre1956)
 

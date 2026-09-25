@@ -33,18 +33,18 @@ themes:
 pdf_url: "http://cmpp.ch/annee_2013_a5.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 3"
-  - "1 Pierre 1"
-  - "Galates 6"
-  - "Hébreux 10"
-  - "Jacques 4"
-  - "Jacques 5"
   - "Marc 3"
-  - "Matthieu 23"
+  - "1 Jean 3"
   - "Psaumes 145"
   - "Romains 11"
-  - "Éphésiens 4"
+  - "Hébreux 10"
+  - "1 Pierre 1"
+  - "Matthieu 23"
+  - "Jacques 4"
+  - "Galates 6"
+  - "Jacques 5"
   - "Ésaïe 11"
+  - "Éphésiens 4"
 ---
 > “Car, quiconque fait la volonté de Dieu, celui-là est mon frère, ma sœur, et ma mère” (Marc 3.45).
 

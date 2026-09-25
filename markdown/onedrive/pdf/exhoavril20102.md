@@ -48,15 +48,17 @@ themes:
   - "Maturité chrétienne"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 1:6-7"
-  - "1 Pierre 4:12-13"
-  - "Deutéronome 13:1-3"
-  - "Exode 15:22-26"
-  - "Genèse 22"
+  - "Psaumes 139"
+  - "Psaumes 139:23-24"
+  - "Psaumes 26:2"
   - "Genèse 22:1-3"
-  - "Jacques 1:13"
-  - "Jacques 1:19-20"
   - "Jacques 1:2-4"
+  - "1 Pierre 1:6-7"
+  - "Psaumes 26"
+  - "Jacques 1:13"
+  - "Genèse 22"
+  - "Exode 15:22-26"
+  - "Deutéronome 13:1-3"
   - "Jérémie 23:25"
   - "Jérémie 27:15"
   - "Jérémie 27:16"
@@ -64,10 +66,8 @@ bible_refs:
   - "Nombres 14:22-24"
   - "Nombres 20"
   - "Nombres 20:7-12"
-  - "Psaumes 139"
-  - "Psaumes 139:23-24"
-  - "Psaumes 26"
-  - "Psaumes 26:2"
+  - "Jacques 1:19-20"
+  - "1 Pierre 4:12-13"
 ---
 ## L'ULTIME EPREUVE
 

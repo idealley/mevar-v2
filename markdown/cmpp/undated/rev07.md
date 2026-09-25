@@ -50,17 +50,17 @@ themes:
 pdf_url: "http://cmpp.ch/rev07.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Rois 19:18"
-  - "Actes 19"
   - "Apocalypse 13"
-  - "Apocalypse 17"
+  - "1 Rois 19:18"
   - "Galates 1"
+  - "Actes 19"
+  - "1 Corinthiens 12"
+  - "Matthieu 28"
+  - "Romains 5"
   - "Hébreux 13"
   - "Luc 24"
   - "Marc 16"
-  - "Matthieu 28"
-  - "Romains 5"
+  - "Apocalypse 17"
 ---
 WILLIAM MARRION BRANHAM
 

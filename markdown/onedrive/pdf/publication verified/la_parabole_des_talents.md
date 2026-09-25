@@ -45,10 +45,10 @@ mevar_match:
   similarity: 0.625
 llm_cleaned: true
 bible_refs:
-  - "Galates 5:6"
+  - "Nombres 10"
   - "Matthieu 24"
   - "Matthieu 25"
-  - "Nombres 10"
+  - "Galates 5:6"
 ---
 *La parabole des talents, prêché le dimanche 5 janvier 2014 à Koumassi par le frère M’BRA Parfait.*
 

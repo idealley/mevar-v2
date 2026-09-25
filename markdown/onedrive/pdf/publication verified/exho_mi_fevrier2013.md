@@ -49,18 +49,18 @@ mevar_match:
   similarity: 0.599
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 11"
-  - "Apocalypse 3"
-  - "Deutéronome 29"
-  - "Galates 3:13"
-  - "Genèse 12:2"
-  - "Genèse 17:1-7"
-  - "Genèse 17:20"
-  - "Jean 3:16"
-  - "Matthieu 26:28"
   - "Proverbes 10"
   - "Ésaïe 28:15"
   - "Ésaïe 28:18"
+  - "Genèse 12:2"
+  - "Genèse 17:1-7"
+  - "Matthieu 26:28"
+  - "1 Corinthiens 11"
+  - "Galates 3:13"
+  - "Genèse 17:20"
+  - "Jean 3:16"
+  - "Deutéronome 29"
+  - "Apocalypse 3"
 ---
 ## Se placer sous la bénédiction de Dieu
 

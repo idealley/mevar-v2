@@ -41,12 +41,12 @@ themes:
   - "combat spirituel"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15"
   - "2 Chroniques 1"
   - "Jacques 1"
-  - "Philippiens 3:17"
-  - "Romains 14:17"
   - "Ésaïe 22"
+  - "Romains 14:17"
+  - "Philippiens 3:17"
+  - "1 Corinthiens 15"
 ---
 ## Le dieu du ventre
 

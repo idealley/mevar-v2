@@ -42,10 +42,10 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631226Ordre-ds-eglise.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Actes 6:3"
   - "1 Corinthiens 14:26-28"
   - "1 Corinthiens 14:32"
   - "1 Jean 2:19"
-  - "Actes 6:3"
   - "Matthieu 17:27"
 original: "branham/1963/63-1226"
 ---

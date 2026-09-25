@@ -44,17 +44,17 @@ themes:
   - "Héritage en Christ"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 13:11"
-  - "1 Jean 3"
-  - "Galates 4:1"
-  - "Jean 8"
-  - "Jean 8:12"
-  - "Jean 8:32"
-  - "Marc 16"
-  - "Ésaïe 28"
   - "Ésaïe 8"
   - "Ésaïe 8:23"
+  - "Jean 8"
+  - "Jean 8:32"
+  - "Jean 8:12"
+  - "Ésaïe 28"
+  - "1 Jean 3"
+  - "Galates 4:1"
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 13:11"
+  - "Marc 16"
 ---
 Satan dévoilé, prêché le dimanche 30 Août 2009 par le frère M’BRA Parfait à Koumassi, Abidjan
 

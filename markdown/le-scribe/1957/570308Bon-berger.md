@@ -50,18 +50,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570308Bon-berger.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jacques 5:15"
   - "Jean 10"
-  - "Jean 10:37,20"
+  - "Psaumes 1:1-3"
+  - "Jean 9:3"
+  - "Jacques 5:15"
+  - "Psaumes 139:8"
   - "Jean 5:24"
   - "Jean 6:37"
-  - "Jean 9:3"
-  - "Marc 8:23"
-  - "Matthieu 9:23-24"
-  - "Psaumes 139:8"
-  - "Psaumes 1:1-3"
   - "Psaumes 81:16"
+  - "Jean 10:37,20"
   - "Ésaïe 40:4"
+  - "Matthieu 9:23-24"
+  - "Marc 8:23"
 original: "branham/1957/57-0308"
 ---
 Résumé de : “ Le bon Berger du troupeau” (8.03.1957)

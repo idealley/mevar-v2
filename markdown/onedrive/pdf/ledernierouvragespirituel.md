@@ -39,15 +39,15 @@ themes:
   - "Respect des parents"
 llm_cleaned: true
 bible_refs:
+  - "Néhémie 2:11"
+  - "Luc 14"
+  - "Luc 14:25-33"
   - "Apocalypse 12"
   - "Apocalypse 21"
   - "Hébreux 5:7"
   - "Hébreux 5:7-10"
-  - "Luc 14"
-  - "Luc 14:25-33"
-  - "Luc 17"
-  - "Néhémie 2:11"
   - "Éphésiens 5:22-33"
+  - "Luc 17"
 ---
 Le dernier ouvrage spirituel,
 

@@ -42,13 +42,13 @@ pdf_url: "http://le-scribe.org/pdfiles/581004Foi-victoire.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Jean 5:4"
-  - "Actes 3:4"
   - "Hébreux 11:10"
+  - "Luc 8:50"
   - "Hébreux 11:6"
   - "Hébreux 12:2"
-  - "Jean 14:19,20,12"
-  - "Luc 8:50"
   - "Romains 10:17"
+  - "Jean 14:19,20,12"
+  - "Actes 3:4"
 original: "branham/1958/58-1004"
 ---
 **1.** Plusieurs personnes ont dû rester dehors faute de place, bien que nous n’ayons fait aucune publicité. Demain matin, l’école du dimanche débute à 9 h 1/2, puis je donnerai un message d’évangélisation.. Nous prierons le soir pour les malades. Lisons 1 Jean 5:4

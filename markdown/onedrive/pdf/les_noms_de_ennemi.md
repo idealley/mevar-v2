@@ -37,19 +37,19 @@ themes:
   - "armure de Dieu"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 11"
-  - "1 Pierre 5"
   - "Apocalypse 12"
   - "Apocalypse 12:9"
-  - "Apocalypse 13"
-  - "Jean 10"
-  - "Jean 7:43"
   - "Jean 8:44"
-  - "Jean 9:16-17"
-  - "Luc 12:51"
-  - "Matthieu 10:35"
-  - "Matthieu 13"
+  - "Jean 10"
+  - "1 Pierre 5"
   - "Tite 2:6"
+  - "Matthieu 13"
+  - "Apocalypse 13"
+  - "Matthieu 10:35"
+  - "Luc 12:51"
+  - "Jean 7:43"
+  - "Jean 9:16-17"
+  - "1 Corinthiens 11"
 ---
 Les noms de l’ennemi, prêché le dimanche 11 Mars 2012 par le frère M’BRA Parfait à Koumassi, Abidjan
 

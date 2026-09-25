@@ -35,17 +35,17 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Exode 29"
-  - "Jean 2"
-  - "Luc 14:28-30"
+  - "Luc 5:37"
   - "Luc 4"
   - "Luc 4:14"
-  - "Luc 5"
-  - "Luc 5:37"
+  - "Matthieu 10:5"
   - "Marc 16"
   - "Matthieu 10"
-  - "Matthieu 10:5"
   - "Matthieu 25"
+  - "Luc 5"
   - "Romains 10"
+  - "Jean 2"
+  - "Luc 14:28-30"
 ---
 ## Le vieux vin et le vin nouveau dans le Message du temps de la fin
 

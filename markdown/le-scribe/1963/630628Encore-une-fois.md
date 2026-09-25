@@ -37,18 +37,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630628Encore-une-fois.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Pierre 2:22"
   - "2 Rois 9:10"
   - "2 Rois 9:36"
-  - "Apocalypse 13:14"
-  - "Apocalypse 17:5"
-  - "Genèse 1:11"
-  - "Jean 6:37"
-  - "Juges 15:14-15"
   - "Juges 16:27-28"
+  - "Juges 15:14-15"
   - "Juges 16:3"
-  - "Luc 17:34"
+  - "Jean 6:37"
+  - "Apocalypse 17:5"
+  - "2 Pierre 2:22"
+  - "Genèse 1:11"
   - "Nombres 13:23-33"
+  - "Apocalypse 13:14"
+  - "Luc 17:34"
 ---
 *O Seigneur ! Juste encore une fois* (28 Juin 1963, après-midi)
 

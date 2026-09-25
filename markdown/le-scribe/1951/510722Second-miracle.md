@@ -33,8 +33,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510722Second-miracle.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 4:29"
   - "Actes 19"
+  - "2 Rois 4:29"
   - "Jean 4:46"
 original: "branham/1951/51-0722E"
 ---

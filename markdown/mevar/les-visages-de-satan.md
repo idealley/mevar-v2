@@ -18,15 +18,15 @@ ghost_id: "6448fa86db90770001518f33"
 uuid: "ec98a98b-9461-4e29-857b-2e825a96e461"
 stream_url: "https://mevar.org/les-visages-de-satan/"
 bible_refs:
-  - "1 Pierre 4:1"
-  - "Apocalypse 3:10"
-  - "Jacques 5:11"
-  - "Jacques 5:8"
-  - "Job 42:7-9"
-  - "Job 9"
   - "Luc 17:26-32"
+  - "Jacques 5:11"
+  - "1 Pierre 4:1"
+  - "Job 9"
+  - "Job 42:7-9"
   - "Matthieu 16:23"
+  - "Jacques 5:8"
   - "Éphésiens 6:13"
+  - "Apocalypse 3:10"
 ---
 ## Exhortation de juin 2018
 

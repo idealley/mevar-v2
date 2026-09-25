@@ -38,8 +38,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500715Conduit.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 4:8-37"
   - "Matthieu 9:27"
+  - "2 Rois 4:8-37"
 original: "branham/1950/50-0715"
 ---
 **CONDUIT PAR L'ESPRIT**

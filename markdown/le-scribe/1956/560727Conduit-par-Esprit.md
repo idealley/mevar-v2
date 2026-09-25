@@ -42,14 +42,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560727Conduit-par-Esprit.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 12:27"
+  - "Romains 8:1"
   - "1 Corinthiens 12"
   - "Exode 12:13"
-  - "Hébreux 12"
-  - "Jean 11:21-22"
-  - "Luc 24:49"
-  - "Matthieu 12:27"
   - "Matthieu 24:37"
-  - "Romains 8:1"
+  - "Hébreux 12"
+  - "Luc 24:49"
+  - "Jean 11:21-22"
 ---
 **1.** [Prière]. Nous avons tous été malades aujourd'hui, à cause de la chaleur. Si vous veniez chez nous, vous gèleriez. Chaque région a son climat. Mais c'est toujours le bon temps pour prêcher la repentance. Nous nous rencontrons sur le fondement du salut et du retour de Jésus-Christ. Il n'y aura plus de problèmes ce jour-là. Aujourd'hui, la polio augmente à Chicago malgré les vaccins.
 

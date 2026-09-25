@@ -30,19 +30,19 @@ themes:
 pdf_url: "http://cmpp.ch/exhortation_annee_2022_A5.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "1 Jean 2"
   - "1 Jean 4"
-  - "2 Timothée 2"
-  - "Colossiens 3"
-  - "Genèse 3"
-  - "Jean 13"
+  - "1 Jean 2"
   - "Jean 8"
-  - "Psaumes 112"
-  - "Romains 13"
-  - "Romains 6"
+  - "Colossiens 3"
   - "Romains 8"
+  - "Romains 13"
+  - "2 Timothée 2"
+  - "Genèse 3"
   - "Ésaïe 7"
+  - "Psaumes 112"
+  - "Romains 6"
+  - "Jean 13"
+  - "1 Corinthiens 13"
 ---
 car celui qui n’aime pas son frère qu’il voit, comment peut-il aimer Dieu qu’il ne voit pas? Et nous avons de lui ce commandement: que celui qui aime Dieu aime aussi son frère” (1 Jean 4.20,21). “Celui qui dit qu’il est dans la lumière, et qui hait son frère, est encore dans les ténèbres. Celui qui aime son frère demeure dans la lumière, et aucune occasion de chute n’est en lui” (1 Jean 2.9,10).
 

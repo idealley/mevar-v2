@@ -45,8 +45,8 @@ pdf_url: "http://le-scribe.org/pdfiles/560108Dieu-a-pourvu.pdf"
 llm_cleaned: true
 bible_refs:
   - "Genèse 22:7-8"
-  - "Hébreux 12:1"
   - "Luc 10:30-35"
+  - "Hébreux 12:1"
   - "Ésaïe 53:5"
 original: "branham/1956/56-0108"
 ---

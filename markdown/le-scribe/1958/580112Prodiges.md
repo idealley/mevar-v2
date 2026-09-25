@@ -42,13 +42,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580112Prodiges.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 1:7"
-  - "Actes 10:34-35"
-  - "Daniel 2:34-35"
-  - "Galates 3:16"
-  - "Jean 8:12"
   - "Matthieu 2:1"
   - "Romains 8:28"
+  - "Actes 10:34-35"
+  - "Galates 3:16"
+  - "Daniel 2:34-35"
+  - "Jean 8:12"
+  - "1 Jean 1:7"
 original: "branham/1958/58-0112A"
 ---
 **Résumé de : “Pour accomplir ses prodiges” (12 janvier 1958, après-midi)**

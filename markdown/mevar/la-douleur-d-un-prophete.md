@@ -18,14 +18,14 @@ ghost_id: "6448fa86db90770001518ee1"
 uuid: "8ee9e478-3579-49a6-b740-e5cb3ee95bf0"
 stream_url: "https://mevar.org/la-douleur-d-un-prophete/"
 bible_refs:
-  - "Jérémie 1"
-  - "Jérémie 12"
-  - "Jérémie 12:1-16"
-  - "Jérémie 29"
   - "Jérémie 3"
-  - "Jérémie 7"
-  - "Lamentations 4"
   - "Osée 5"
+  - "Jérémie 12:1-16"
+  - "Lamentations 4"
+  - "Jérémie 1"
+  - "Jérémie 7"
+  - "Jérémie 12"
+  - "Jérémie 29"
 ---
 Nous allons écouter la parole de Dieu. Est-ce qu’il y a des gens qui sont là pour la première fois ? Ma sœur, ça va mieux ? On a prié pour toi à la veillée, on voulait te rendre visite hier, mais on n’a pas pu. Donc on est content de te voir. Que Dieu te bénisse ! Je devais être là-bas avec ma femme, mais on n’a pas pu. S’il y a des frères et sœurs qui sont malades, informez nous pour qu’on puisse les visiter. Amen ! Nous allons lire dans lamentations de Jérémie. La douleur d’un prophète. Lamentations de Jérémie chapitre 3. Le frère Anderson va lire. Tu lis du verset 1 au verset 18 :
 

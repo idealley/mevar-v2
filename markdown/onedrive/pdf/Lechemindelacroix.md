@@ -36,14 +36,14 @@ themes:
   - "Discipulat"
 llm_cleaned: true
 bible_refs:
+  - "Jean 19:17,18"
+  - "Marc 8:34-38"
   - "1 Corinthiens 1:17-24"
   - "Galates 6:14-15"
-  - "Jean 19:17,18"
   - "Luc 18:18-30"
   - "Luc 19:1-10"
-  - "Marc 8:34-38"
-  - "Matthieu 11"
   - "Matthieu 16:24"
+  - "Matthieu 11"
 ---
 ## Le chemin de la croix
 

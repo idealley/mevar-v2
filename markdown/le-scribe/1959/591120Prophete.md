@@ -44,11 +44,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/591120Prophete.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Ésaïe 40:31"
   - "Actes 2:38"
   - "Hébreux 12:1"
   - "Marc 6:45"
   - "Psaumes 46:2"
-  - "Ésaïe 40:31"
 original: "branham/1959/59-1120"
 ---
 “Un prophète comme Moïse” (20.11.1959)

@@ -38,10 +38,10 @@ pdf_url: "http://le-scribe.org/pdfiles/510929Esperance-en-Dieu.pdf"
 llm_cleaned: true
 bible_refs:
   - "2 Rois 6:8"
+  - "Nombres 22:18,38,23"
+  - "Jean 5:19-20"
   - "Hébreux 13:8"
   - "Jean 14:12,19"
-  - "Jean 5:19-20"
-  - "Nombres 22:18,38,23"
 original: "branham/1951/51-0929"
 ---
 **1.** Je suis un peu fatigué car j’ai veillé jusqu’à deux heures du matin (cf. §33). J’avais un problème sur le cœur, et j’ai prié jusqu’à ce que le Seigneur envoie sa puissance et me donne une révélation. Tout s’est passé comme il me l’avait dit. Notre dernière réunion aura lieu demain. J’aimerais avoir ici des réunions qui se succèdent sans cesse, car il faut trois ou quatre jours, et souvent plus, avant que la bénédiction ne s’installe. En effet, quand Satan a été chassé, il cherche alors à revenir, et il tente à nouveau la personne, et souvent avec succès. Dans ce cas, tout est fini. Si les réunions continuaient assez longtemps, les gens pourraient revenir. Croyez ! Après mon départ, vous découvrirez que beaucoup sont déjà guéris, mais ne l’ont pas encore réalisé. Je vois ici le frère Raymond T. Richey, qui était présent lorsque la photo de l’Ange a été prise lors du débat où j’ai été traité de guérisseur divin. Aucun homme ne guérit. Les médecins peuvent recoudre, et ce sont des serviteurs de Dieu qui aident les gens, mais c’est Dieu qui guérit. Que Dieu aide les médecins. Il soutient tout ce qui peut venir en aide aux hommes.

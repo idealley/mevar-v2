@@ -41,18 +41,18 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no9.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 3"
-  - "Actes 2"
+  - "Marc 11:22"
   - "Hébreux 11"
-  - "Hébreux 4"
-  - "Jacques 5"
+  - "Romains 10"
+  - "1 Jean 3"
   - "Jean 10"
-  - "Jean 14"
   - "Jean 15"
   - "Marc 11"
-  - "Marc 11:22"
+  - "Jacques 5"
   - "Marc 16"
-  - "Romains 10"
+  - "Jean 14"
+  - "Actes 2"
+  - "Hébreux 4"
 ---
 SERIE 3 N° 9
 

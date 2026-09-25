@@ -38,13 +38,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560415Profondeur.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Timothée 2:5"
   - "Actes 19"
-  - "Apocalypse 4:3"
-  - "Jean 5:19"
   - "Luc 2:25-31"
   - "Psaumes 42:7"
+  - "Apocalypse 4:3"
   - "Ésaïe 53:4-6"
+  - "1 Timothée 2:5"
+  - "Jean 5:19"
 original: "branham/1956/56-0415"
 ---
 **Résumé de : "La profondeur appelle la profondeur" (15 avril 1956)**

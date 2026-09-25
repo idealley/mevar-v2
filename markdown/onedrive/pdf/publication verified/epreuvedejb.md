@@ -50,15 +50,15 @@ mevar_match:
   similarity: 0.629
 llm_cleaned: true
 bible_refs:
-  - "1 Thessaloniciens 5"
-  - "Jean 1"
   - "Jean 1:19"
   - "Jean 1:19-34"
-  - "Juges 6:25-29"
-  - "Malachie 3"
   - "Matthieu 11"
   - "Matthieu 11:3-6"
+  - "1 Thessaloniciens 5"
   - "Ésaïe 40"
+  - "Jean 1"
+  - "Malachie 3"
+  - "Juges 6:25-29"
 ---
 *L'épreuve de Jean Baptiste, prêché à Koumassi par le frère M'BRA Parfait*
 

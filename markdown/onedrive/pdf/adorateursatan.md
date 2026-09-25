@@ -47,12 +47,12 @@ themes:
   - "Sincérité du cœur"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 16"
-  - "1 Samuel 2:22-26"
-  - "2 Thessaloniciens 2"
-  - "Exode 32:1-10"
   - "Genèse 4:1-8"
+  - "Exode 32:1-10"
+  - "1 Samuel 2:22-26"
+  - "1 Rois 16"
   - "Jérémie 44:15-22"
+  - "2 Thessaloniciens 2"
   - "Ésaïe 14"
 ---
 Les adorateurs de Satan, prêché à Koumassi par le frère M'BRA Parfait

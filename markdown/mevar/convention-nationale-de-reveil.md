@@ -19,17 +19,17 @@ ghost_id: "6448fa86db90770001518f30"
 uuid: "e5150079-a472-498c-8118-78a53e3c1727"
 stream_url: "https://mevar.org/convention-nationale-de-reveil/"
 bible_refs:
-  - "1 Corinthiens 14"
-  - "1 Corinthiens 14:1-3"
-  - "1 Jean 4"
   - "1 Thessaloniciens 5:20-21"
+  - "1 Corinthiens 14:1-3"
+  - "Apocalypse 14:7"
+  - "1 Jean 4"
   - "Actes 11:28"
   - "Actes 21:10-11"
-  - "Apocalypse 14:7"
-  - "Jean 15:16"
+  - "1 Corinthiens 14"
   - "Luc 13"
-  - "Psaumes 119"
+  - "Jean 15:16"
   - "Psaumes 119:59"
+  - "Psaumes 119"
 ---
 ## Du 30 mars au 1er avril 2018
 

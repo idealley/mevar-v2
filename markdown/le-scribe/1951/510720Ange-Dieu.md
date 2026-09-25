@@ -39,13 +39,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510720Ange-Dieu.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Actes 27:21"
   - "1 Rois 18:37-38"
   - "1 Rois 19:4"
-  - "2 Rois 2:23-24"
-  - "Actes 19:13-16"
-  - "Actes 27:21"
   - "Daniel 10:13"
+  - "2 Rois 2:23-24"
   - "Marc 11:24"
+  - "Actes 19:13-16"
 original: "branham/1951/51-0720"
 ---
 **L'ANGE DE DIEU**

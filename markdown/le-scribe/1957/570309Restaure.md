@@ -43,17 +43,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570309Restaure.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 1:12"
-  - "Actes 20:29"
-  - "Apocalypse 12:11"
-  - "Genèse 45:5,50"
-  - "Jean 13:35"
+  - "Matthieu 18:20"
   - "Joël 1:4"
   - "Joël 2:38"
-  - "Matthieu 18:20"
-  - "Philippiens 1:17"
+  - "1 Corinthiens 13"
+  - "Jean 13:35"
   - "Romains 8"
+  - "Apocalypse 12:11"
+  - "Genèse 45:5,50"
+  - "1 Corinthiens 1:12"
+  - "Philippiens 1:17"
+  - "Actes 20:29"
 original: "branham/1957/57-0309B"
 ---
 *Je restaurerai* (9.03.1957)

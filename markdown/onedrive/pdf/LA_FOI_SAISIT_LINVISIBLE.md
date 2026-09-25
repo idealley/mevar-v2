@@ -46,9 +46,9 @@ mevar_match:
   similarity: 0.535
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 11"
-  - "2 Corinthiens 4:17"
   - "Colossiens 1:15"
+  - "2 Corinthiens 4:17"
+  - "2 Corinthiens 11"
   - "Hébreux 11"
 ---
 La Foi voit l'invisible, prêché le dimanche 4 Janvier 2015 à Koumassi par le frère M'BRA Parfait

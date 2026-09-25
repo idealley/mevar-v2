@@ -18,8 +18,8 @@ ghost_id: "6448fa86db90770001518f07"
 uuid: "5dfb0fe8-8af0-453b-b5a3-46bf1d5e57e8"
 stream_url: "https://mevar.org/l-autorite-spirituelle/"
 bible_refs:
-  - "Actes 4:5-10"
   - "Jean 19:10-12"
+  - "Actes 4:5-10"
   - "Matthieu 18"
 ---
 Alléluia ! Que le Seigneur nous bénisse ! Amen ! Je voudrais revenir sur la foi ce matin. C’est un sujet qui est à l’ordre du jour. Et je pense que chacun de nous doit faire attention à la parole de Dieu. Vous savez, la parole de Dieu est notre conduite. Depuis l’ancien temps, le peuple d’Israël qui a eu premièrement affaire à Dieu avant les nations, a vécu une expérience et c’est par rapport à cette expérience qu’on trouve aujourd’hui des prédicateurs. Ce sont les enfants d’Israël qui ont dit à Dieu de ne plus leur parler comme Il l’avait fait du haut de la montagne. Cela a été difficile à supporter. Ils ont donc dit à Dieu de ne plus leur parler de cette manière, et qu’il serait mieux qu’Il choisisse des hommes pour leur adresser la parole. Amen !

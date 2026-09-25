@@ -34,22 +34,22 @@ themes:
   - "Révélation prophétique"
 llm_cleaned: true
 bible_refs:
+  - "Luc 6:39"
+  - "Matthieu 23:16"
+  - "Romains 14:17"
+  - "Philippiens 3:17-21"
+  - "Jacques 4:4"
+  - "Luc 12"
+  - "Matthieu 4:3-4"
+  - "Deutéronome 8:3"
   - "1 Corinthiens 15:32"
+  - "Ésaïe 22:12-14"
+  - "Luc 21:36"
   - "1 Pierre 4:7"
   - "1 Pierre 5:8"
-  - "Deutéronome 8:3"
-  - "Jacques 4:4"
-  - "Jean 5"
-  - "Luc 12"
-  - "Luc 21:36"
-  - "Luc 6:39"
   - "Luc 6:39-42"
-  - "Matthieu 23:16"
-  - "Matthieu 4:3-4"
-  - "Philippiens 3:17-21"
-  - "Romains 14:17"
+  - "Jean 5"
   - "Romains 6:5-9"
-  - "Ésaïe 22:12-14"
 ---
 ## Le Manger et le Boire – Le Dieu du Ventre
 
