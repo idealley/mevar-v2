@@ -50,7 +50,7 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## `47` truncates `bible_refs` alphabetically at 50, and the citing order is lost
 
-**Status**: goal 12, [`docs/goals/goal-12-bible-refs-complete.md`](goals/goal-12-bible-refs-complete.md), ready to dispatch. Measured on `main` after PR #11 (2026-09-25): 92 works have more than 50 refs, and `47` copies only the first 50 into `bible_refs`, alphabetically, so 4,059 refs never reach the frontmatter (goal 11 pushed 38 more out, `qui-est-dieu` lost `Zacharie 12:1` and `Zacharie 12:10`). The cap is ours (`47-lift-manifest-fields.mjs:90`, `refs.slice(0, 50)`), not Astro's, and nothing under `web/src` reads `bible_refs`. Separately, `65` and `66` sort each work's refs alphabetically before writing `manifests/bible-refs.json`: the order the preacher cites them in is still in the text, the scripts just do not keep it. `manifests/bible-refs.json` and the SurrealDB `cites` edges have every ref.
+**Status**: goal 12, [`docs/goals/goal-12-bible-refs-complete.md`](goals/goal-12-bible-refs-complete.md), ready to dispatch; its Problem section has the measurements. In short: the 50-ref cap is ours (`47-lift-manifest-fields.mjs:90`), not Astro's, and hides 3,946 refs in 90 works; `65` and `66` sort each list alphabetically, though the text keeps the citing order.
 
 **Fix**: goal 12. Keep the order of first appearance in `65` and `66`, remove the cap in `47`, regenerate. Dispatch text, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
 
@@ -68,17 +68,20 @@ Goal file: docs/goals/goal-12-bible-refs-complete.md. Branch:
 goal-12-bible-refs-complete.
 
 Before changing anything, save a copy of manifests/bible-refs.json from
-origin/main outside the repo: every acceptance item compares against it.
+origin/main outside the repo: it is the baseline every acceptance item
+compares against, even if main moves meanwhile.
 The goal is a pure reorder plus the end of the cap. If any work gains or
 loses a ref, stop and find out why before going further; do not "fix" what
 65 or 66 recognise, that is another goal.
 
 Order of work: 65 and 66 first (one commit, code only), then 47 (one
 commit), then the regeneration 65, 66, 47, 50 (one data commit), then docs.
-The data commit touches about 2,700 markdown files; never read that diff
+The data commit touches about 2,540 markdown files; never read that diff
 file by file. Prove items 1 to 4 of the acceptance with node scripts that
-compare the working files with `git show origin/main:<path>`, and show
-their output in the PR.
+compare the working files with the saved baseline (and, for bodies and
+other frontmatter fields, with `git show origin/main:<path>`), and show
+their output in the PR. Expect 6 refs sharing a position in 66: the goal
+file says how to order them.
 
 After the independent review says ACCEPT, run the codex-second-opinion
 skill (.claude/skills/codex-second-opinion): gpt-6-astra on the three
@@ -116,7 +119,7 @@ Those 3 are the place to start, because the right sermon is already known: `5306
 
 ## Markdown files with no frontmatter
 
-**Status**: 7 files — `markdown/local/*.md` (2) and 5 Le-Scribe files (`1950/500115Crois-tu`, `1962/620714Son-confus`, `1962/620623Perseverant`, `undated/5003xxDon&appel`, `undated/5602Combat-foi`). Every script that patches frontmatter skips them, so they carry no metadata and no bible refs.
+**Status**: 10 files (2026-09-25): `markdown/local/*.md` (2), 5 Le-Scribe files (`1950/500115Crois-tu`, `1962/620714Son-confus`, `1962/620623Perseverant`, `undated/5003xxDon&appel`, `undated/5602Combat-foi`) and 3 CMPP files (`undated/lc56`, `undated/serie1no8`, `undated/serie4no6`). Every script that patches frontmatter skips them, so they carry no metadata. Their bible refs are in `manifests/bible-refs.json` (322, 120 of them in `lc56`) but never reach a frontmatter.
 
 **Fix**: run them through `64-add-frontmatter.mjs`, or drop them.
 
