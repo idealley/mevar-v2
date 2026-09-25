@@ -40,13 +40,39 @@ What exists does not settle it:
    one readers and Google know. Between a PDF and a OneDrive text, the one
    with more of the sermon (containment), then the cleaner one (fewer
    OCR-like tokens); the report says which rule chose. The others get
-   `duplicate_of: "<source>/<path>"` (the keeper's file path under `markdown/`, which goal 08's site turns into the 301's target) in their frontmatter. Nothing is deleted:
-   the text stays in `markdown/`, goal 08 does not build it.
+   `duplicate_of: "<source>/<path>"` in their frontmatter: the keeper's file
+   path under `markdown/`, which goal 08's site turns into the 301's target.
+   Nothing is deleted: the text stays in `markdown/`, goal 08 does not build
+   it.
 4. **Idempotent.** A second run changes nothing; Samuel's decisions on the
    uncertain band are read from a committed file, so a rerun keeps them.
    They are his input, not derived: they live in
    `scripts/mevar-duplicates-decided.json`, next to the script, not in
    `manifests/` (which only holds what scripts derive).
+
+## Added by Samuel on the PR (2026-09-25)
+
+- **A duplicate is removed, so goal 10 never edits it.** Six groups were
+  held because their keeper was a Ghost draft. Samuel: « flip those six to
+  published ». `dieu-veille-sur-sa-parole-pour-lexecuter`,
+  `la-toilette-du-chretien`, `le-sort-de-cain`, `le-temoignage-final`,
+  `sors-de-ton-lit` and `suivons-le-seigneur` are published in
+  `markdown/mevar/` (goal 04 did their editorial pass there); their seven
+  OneDrive copies get `duplicate_of`. `sommeil-et-assoupissement-spirituels`
+  stays a draft.
+- **They are not published in Ghost**, which still holds their text from
+  before goal 04: `markdown/` is the source of truth. So a post's status is
+  read from its frontmatter, as the site builds it, by
+  `scripts/50-build-index.mjs` and `web/scripts/check-dist.mjs` too, not
+  from `manifests/mevar.json`, the record of the Ghost import (Samuel:
+  « yes please »).
+- **`duplicate_of` holds the keeper's path**, not its id: goal 08's site,
+  merged meanwhile, builds the 301 from a path, and the two differ for a
+  keeper in a subfolder (design item 3).
+
+So besides the files below, this goal's diff also touches the six posts'
+`status:` line, `scripts/50-build-index.mjs`, `web/scripts/check-dist.mjs`
+and `index.json`.
 
 ## Stop point
 
