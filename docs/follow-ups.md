@@ -92,7 +92,7 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 Those 3 are the place to start, because the right sermon is already known: `530606Demons-physique` is `53-0608A "Demonology, Physical Realm"`, `530607Demons-religieux` is `53-0609A "Demonology, Religious Realm"`; `600803Jehova-J` has no Jehovah-Jireh sermon within four days. The same drift shows in the "claimed twice" rows: `550118Ange` claims `55-0118 "This Great Warrior, David"`. More links of the "only sermon that day" kind may carry it unseen; nothing but a French title against an English one reveals it.
 
-**Fix**: a human pass over the 97, or model the summary→sermon relation as many-to-one on both sides.
+**Fix**: a human pass over the 94, or model the summary→sermon relation as many-to-one on both sides.
 
 ## `npm install` fails in `web/`
 
