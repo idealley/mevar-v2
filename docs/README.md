@@ -12,6 +12,7 @@ This corpus + knowledge graph powers a study tool, a static-with-dynamic publish
 | [queries.md](queries.md)               | Useful SurrealQL recipes (vector search, graph traversal, FTS)  |
 | [auth.md](auth.md)                     | Logto + SurrealDB v3 wiring — current state + next steps        |
 | [follow-ups.md](follow-ups.md)         | Known gaps, technical debt, decisions deferred                  |
+| [infographics.md](infographics.md)     | Ideas for visual pages: Bible map, Branham and MEVAR timelines   |
 
 ## High-level architecture
 
