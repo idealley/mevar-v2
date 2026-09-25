@@ -42,13 +42,11 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: a human pass over the 135, reading each against its PDF (`pdf_url`), like the 39 French names above.
 
-## Le Scribe summaries waiting for an answer
+## Le Scribe links resting on the date alone
 
-**Status**: after goal 14, 819 of 910 are linked. The 91 others are listed in `manifests/le-scribe-branham-unresolved.json` and laid out, with their candidates, in two comments on PR #18. Samuel answers each in `scripts/le-scribe-branham-decided.json` (`"<branham id>"` or `"none"`), then reruns 49 and 50.
+**Status**: goal 14 linked or explained every Le Scribe summary: 900 of 910 linked, 10 recorded as having no Branham sermon, all answers in `scripts/le-scribe-branham-decided.json`. 49 still links a summary to the only sermon of its day on the date alone (616). An audit read the 60 of those whose two texts share no Scripture chapter, or where one cites none: 55 were right, 5 were wrong and are corrected by an answer. The rest share at least one Scripture chapter with their sermon.
 
-Two open questions from that PR:
-- The Semence 1re and 2e parties are two summaries of one sermon (`62-0318`), and `summary_fr` holds one path. A list would need the schema and the work page to change.
-- 49 links 616 summaries as the "only sermon that day", on the date alone. `550118Ange` claims `55-0118 "This Great Warrior, David"` that way; a French title against an English one is the only way to see such a drift.
+**Fix**: none needed now. A new Le Scribe summary linked by date alone is worth the same check (shared chapters in `bible-refs.json`, then the openings).
 
 ## The 404 page's canonical URL names no page
 
