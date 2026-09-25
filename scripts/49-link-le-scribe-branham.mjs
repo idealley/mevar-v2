@@ -170,7 +170,9 @@ for (const summary of summaries) {
 
 // A sermon claimed by two summaries means one of them is wrong — drop both,
 // unless Samuel answered one: his answer stays. Two answers for one sermon
-// cannot both be its summary_fr; both wait, with a warning.
+// stay when the summaries are one series (a long sermon summarized in parts,
+// `series` and `series_part` in their frontmatter); otherwise both wait, with
+// a warning.
 const claimants = new Map();
 for (const [ref, sermon] of links) {
   if (!claimants.has(sermon.ref)) claimants.set(sermon.ref, []);
@@ -180,8 +182,10 @@ for (const [sermonRef, refs] of claimants) {
   if (refs.length < 2) continue;
   const sermon = links.get(refs[0]);
   const kept = refs.filter((ref) => decided[path.basename(ref)] !== undefined);
-  if (kept.length > 1) console.warn(`two answers name ${sermonRef}: ${kept.join(", ")}; neither is linked`);
-  const dropped = kept.length === 1 ? refs.filter((ref) => ref !== kept[0]) : refs;
+  const series = new Set(kept.map((ref) => summaries.find((s) => s.ref === ref).fields.series));
+  const parts = kept.length > 1 && series.size === 1 && !series.has(undefined);
+  if (kept.length > 1 && !parts) console.warn(`two answers name ${sermonRef}: ${kept.join(", ")}; neither is linked`);
+  const dropped = kept.length === 1 || parts ? refs.filter((ref) => !kept.includes(ref)) : refs;
   for (const ref of dropped) {
     const summary = summaries.find((s) => s.ref === ref);
     links.delete(ref);
@@ -214,8 +218,12 @@ function setField(file, key, value) {
   return true;
 }
 
+// A sermon summarized in parts points at part 1.
+const partOf = (ref) => Number(summaries.find((s) => s.ref === ref).fields.series_part ?? 0);
 const summaryOf = new Map(); // sermon.ref → summary.ref
-for (const [ref, sermon] of links) summaryOf.set(sermon.ref, ref);
+for (const [ref, sermon] of links) {
+  if (!summaryOf.has(sermon.ref) || partOf(ref) < partOf(summaryOf.get(sermon.ref))) summaryOf.set(sermon.ref, ref);
+}
 
 let touched = 0;
 for (const s of summaries) if (setField(s.file, "original", links.get(s.ref)?.ref)) touched++;
