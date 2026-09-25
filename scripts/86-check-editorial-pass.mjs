@@ -4,8 +4,10 @@
 // For each text of the batch it compares the original (.parse-cache/, from 84)
 // with the pass (.pass-cache/, from 85) word by word and accepts only the
 // changes goal 04 allows:
-//   - whitespace, punctuation, emphasis, paragraph breaks: not words, not
-//     compared (a heading, HTML or an odd number of ** is unexplained);
+//   - whitespace, punctuation, paragraph breaks: not words, not compared (a
+//     heading, HTML or an odd number of ** is unexplained);
+//   - the preacher's bold stays on the same words; only a verse number in a
+//     quote may become bold (counted);
 //   - typography: case, œ/oe, an accent on a capital (Eglise → Église) when
 //     the unaccented form is not a word (A → À is a substitution); a word in
 //     capitals may get its accents back only in the title;
@@ -19,9 +21,9 @@
 //     that digit does so five times or more (a glyph for "…");
 //   - the document's header removed, listed: the original's words before
 //     those the body opens with, within the first 80, holding the title;
-//   - a reading inserted where the pass put a marker: " (Réf)" and the
-//     blockquote, which must equal the Segond verses in SurrealDB, for a
-//     reference cited both in the original and in the paragraph it closes.
+//   - a reading inserted where the pass put a marker: a blockquote "> **1**…
+//     (Réf)", which must equal the Segond verses in SurrealDB, for a
+//     reference cited both in the original and in the paragraph before it.
 // A word replaced by another is never accepted silently: it goes into the
 // substitution table, as a non-word corrected to a word (the French Hunspell
 // dictionary says which) or as a word replaced by a word; a word the PDF's
@@ -55,8 +57,17 @@ const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
 
 // Words with their position, in NFC text; a number glued to letters is its
-// own word ("11novembre1962").
-const words = (text) => [...text.matchAll(/[\p{L}\p{M}]+|\p{N}+/gu)].map((m) => ({ w: m[0], at: m.index }));
+// own word ("11novembre1962"). Each knows whether it is bold (inside **…**)
+// and whether its line is a quote ("> ").
+function words(text) {
+  const stars = [...text.matchAll(/\*\*/g)].map((m) => m.index);
+  let s = 0;
+  return [...text.matchAll(/[\p{L}\p{M}]+|\p{N}+/gu)].map((m) => {
+    while (s < stars.length && stars[s] < m.index) s++;
+    const line = text.lastIndexOf("\n", m.index) + 1;
+    return { w: m[0], at: m.index, bold: s % 2 === 1, quote: text.startsWith(">", line) };
+  });
+}
 
 function distance(a, b) {
   let row = [...Array(b.length + 1).keys()];
@@ -108,7 +119,14 @@ function hunks(a, b) {
     else merged.push({ ...h, parts: [h] });
   }
   const slice = (h) => ({ before: a.slice(h.as, h.ae), after: b.slice(h.bs, h.be), at: b[Math.min(h.bs, b.length - 1)]?.at ?? 0 });
-  return merged.map((h) => ({ ...slice(h), parts: h.parts.map(slice) }));
+  // the words the diff left equal, pair by pair
+  const equal = [];
+  let [i, j] = [0, 0];
+  for (const h of [...merged, { as: a.length, ae: a.length, bs: b.length, be: b.length }]) {
+    while (i < h.as) equal.push([a[i++], b[j++]]);
+    [i, j] = [h.ae, h.be];
+  }
+  return { changes: merged.map((h) => ({ ...slice(h), parts: h.parts.map(slice) })), equal };
 }
 
 function sentence(text, at) {
@@ -125,7 +143,7 @@ for (const md of batch) {
   const rel = md.slice("markdown/".length);
   const original = fs.readFileSync(path.join(root, ".parse-cache", rel), "utf8").normalize("NFC");
   const pass = JSON.parse(fs.readFileSync(path.join(root, ".pass-cache", rel.replace(/\.md$/, ".json")), "utf8"));
-  const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0 }, nonWord: [], word: [], unexplained: [], readings: [], pass };
+  const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0, verseNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], pass };
 
   // The inserted readings leave the compared text once they are verified:
   // the Segond verses, for a reference the original cites in the paragraph
@@ -136,9 +154,9 @@ for (const md of batch) {
     : c.ref === ref.replace(/-\d+$/, "") || c.ref === ref.replace(/:.*$/, "");
   for (const { ref } of pass.readings) {
     const verses = await reading(db, ref);
-    const inserted = verses && ` (${ref})\n\n${blockquote(verses)}`;
+    const inserted = verses && `\n\n${blockquote(verses, ref)}`;
     const at = inserted ? body.indexOf(inserted) : -1;
-    const paragraph = body.slice(body.lastIndexOf("\n\n", at) + 1, at);
+    const paragraph = body.slice(body.lastIndexOf("\n\n", at - 1) + 2, at);
     const announced = cited.find((c) => matches(c, ref));
     if (at < 0) r.unexplained.push(`reading ${ref} is not the Segond text`);
     else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)))
@@ -228,7 +246,19 @@ for (const md of batch) {
     } else c.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
     return c;
   }
-  for (const hunk of hunks(words(compared), after)) {
+  const { changes, equal } = hunks(words(compared), after);
+  // The preacher's bold: on the same words, except a verse number in a quote.
+  let run = null;
+  const flush = () => { if (run) r.unexplained.push(`bold ${run.added ? "added to" : "removed from"} « ${run.words.join(" ")} » in: ${sentence(body, run.at)}`); run = null; };
+  for (const [o, n] of equal) {
+    const verse = !o.bold && n.bold && n.quote && /^\d+$/.test(n.w);
+    if (verse) r.counts.verseNumbers++;
+    if (o.bold === n.bold || verse) { flush(); continue; }
+    if (run && run.added === n.bold) run.words.push(n.w);
+    else { flush(); run = { added: n.bold, words: [n.w], at: n.at }; }
+  }
+  flush();
+  for (const hunk of changes) {
     let found = [classify(hunk)];
     if (found[0].unexplained.length && hunk.parts.length > 1) found = hunk.parts.map(classify);
     for (const c of found) {
@@ -263,8 +293,8 @@ fs.writeFileSync(path.join(root, "manifests/onedrive.json"), JSON.stringify(mani
 // ─── Report ──────────────────────────────────────────────────────────────────
 const cell = (s) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
 const L = [`# Goal 10, batch ${batchId}: the check`, "", `Generated by \`scripts/86-check-editorial-pass.mjs ${batchId}\`.`, ""];
-L.push("## Per text", "", "| Text | Promoted | Typography | Spacing | Page numbers | Print furniture | Glyphs | Non-word → word | Word → word | Readings inserted | Unexplained |", "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |");
-for (const r of rows) L.push(`| \`${r.md.slice("markdown/".length)}\` | ${!r.promoted ? "**no**" : r.unexplained.length ? "yes (kept from an earlier run)" : "yes"} | ${r.counts.typography} | ${r.counts.spacing} | ${r.counts.pageNumbers} | ${r.counts.print} | ${r.counts.glyph} | ${r.nonWord.length} | ${r.word.length} | ${r.readings.length} | ${r.unexplained.length} |`);
+L.push("## Per text", "", "| Text | Promoted | Typography | Spacing | Page numbers | Print furniture | Glyphs | Verse numbers bolded | Non-word → word | Word → word | Readings inserted | Unexplained |", "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |");
+for (const r of rows) L.push(`| \`${r.md.slice("markdown/".length)}\` | ${!r.promoted ? "**no**" : r.unexplained.length ? "yes (kept from an earlier run)" : "yes"} | ${r.counts.typography} | ${r.counts.spacing} | ${r.counts.pageNumbers} | ${r.counts.print} | ${r.counts.glyph} | ${r.counts.verseNumbers} | ${r.nonWord.length} | ${r.word.length} | ${r.readings.length} | ${r.unexplained.length} |`);
 for (const [head, key] of [["Substitutions: a non-word corrected to a word", "nonWord"], ["Substitutions: a word replaced by another word", "word"]]) {
   L.push("", `## ${head}`, "", "| Text | Before | After | Sentence (after) |", "| --- | --- | --- | --- |");
   for (const r of rows) for (const s of r[key]) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(s.before)} | ${cell(s.after)} | ${cell(s.sentence)} |`);
@@ -286,7 +316,7 @@ const usage = rows.flatMap((r) => r.pass.usage);
 const [tin, tout] = [usage.reduce((a, u) => a + u.prompt_tokens, 0), usage.reduce((a, u) => a + u.completion_tokens, 0)];
 // The estimate given before the first run: $2.60 for 130,000 words.
 const batchWords = rows.reduce((a, r) => a + r.words, 0);
-L.push("", "## Spend", "", `${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words. Extraction (LiteParse) is local.`);
+L.push("", "## Spend", "", `${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words. Extraction (pdftohtml) is local.`);
 const out = path.join(root, `docs/goals/evidence/goal-10-batch-${batchId}.md`);
 fs.writeFileSync(out, L.join("\n") + "\n");
 console.log(`report → ${path.relative(root, out)}`);
