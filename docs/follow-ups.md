@@ -94,14 +94,6 @@ Those 3 are the place to start, because the right sermon is already known: `5306
 
 **Fix**: a human pass over the 97, or model the summary→sermon relation as many-to-one on both sides.
 
-## Branham `date` frontmatter does not match the sermon id
-
-**Symptom**: `markdown/branham/1958/58-0501.md` has `date: "1955-01-29"` and `subtitle: "55-0129"`; `62-0704` has `date: "1965-01-17"`.
-
-**Cause**: the metadata extractor read the date off the wrong element on branham.org. The sermon id is authoritative — that is why `49-link-le-scribe-branham.mjs` matches on the id, not on `date`.
-
-**Fix**: rebuild `date` from `sermon_id` for the branham source.
-
 ## `npm install` fails in `web/`
 
 **Symptom**: `ERESOLVE`: `@vite-pwa/astro@1.2.0` peers `astro@^1 || … || ^5`, the project is on `astro@6.2.2`.

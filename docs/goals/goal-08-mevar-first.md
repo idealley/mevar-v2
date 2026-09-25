@@ -124,6 +124,16 @@ Decided by Samuel (2026-09-24):
   read design item 4 as every built work): 65 scans `mevar-pdfs` too, and 47
   adds a `bible_refs` block to 61 of the 69 PDF texts' frontmatter.
 
+## Added by Samuel on the PR (2026-09-25)
+
+- **A Ghost post with no category tag is in no category**, as on
+  mevar.org: the nine (« Chaîne de prière » months, two audio posts,
+  « Nouveau site web », two from 2014-2015) leave Publications.
+- **Branham dates and places from their source**, not the LLM:
+  `scripts/77-branham-date-location.mjs` sets `date` and `year` from the
+  sermon id and `location` from branham.org's year listing, in the
+  manifests and the frontmatter of `markdown/branham/`.
+
 ## Scope out
 
 - Deduplication (goal 09), the editorial pass and promotion (goal 10).
