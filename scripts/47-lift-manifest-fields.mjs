@@ -81,13 +81,13 @@ for (const filePath of walk(path.join(root, "markdown"))) {
     }
   }
 
-  // bible_refs follows manifests/bible-refs.json (cap at 50 — avoid huge
-  // frontmatter for sermon transcripts). A ref the manifest dropped goes.
+  // bible_refs is the manifests/bible-refs.json list, whole and in its
+  // order. A ref the manifest dropped goes.
   const fmRel = `markdown/${rel.split(path.sep).join("/")}`;
   const refs = refsByFile[fmRel] ?? [];
   // Replace the `bible_refs:` line and its "  - " list in place, append it
   // when missing, drop it when the manifest has nothing left.
-  const block = refs.length ? ["bible_refs:", ...refs.slice(0, 50).map((r) => "  - " + JSON.stringify(r))] : [];
+  const block = refs.length ? ["bible_refs:", ...refs.map((r) => "  - " + JSON.stringify(r))] : [];
   const lines = fm.split("\n");
   const i = lines.indexOf("bible_refs:");
   if (i === -1) lines.push(...block);
