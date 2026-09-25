@@ -17,6 +17,8 @@ from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 | 10 | [Mevar editorial](goal-10-mevar-editorial.md): goal 04's pass on the OneDrive and PDF texts, in batches | 09 | cost estimate; Samuel reads a sample of each batch |
 | 11 | [French spoken refs](goal-11-french-spoken-refs.md): "Luc chapitre 18 verset 9" and "le chapitre 24 de Matthieu" are recorded | 07 | none |
 | 12 | [Bible refs complete](goal-12-bible-refs-complete.md): every ref in the frontmatter, in the order the work cites them | 08, 11 | none |
+| 14 | [Furniture, footnotes, Le Scribe](goal-14-furniture-footnotes-le-scribe.md): no page headers in Branham, working footnotes, every summary linked | 12 | Samuel answers the 94 Le Scribe links |
+| 15 | [French citations as written](goal-15-french-citations-as-written.md): 65's old rewrites undone in Mevar posts and Le Scribe | 07, 12 | the source of the two local volumes |
 | 16 | [CMPP complete](goal-16-cmpp-complete.md): every cmpp.ch publication once, each Branham translation linked to its sermon | 09, 12 | discovery report; unresolved links and doubtful attributions |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
