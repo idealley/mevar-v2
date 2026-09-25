@@ -31,7 +31,7 @@ himself):
 | - | -: | -: | - |
 | `mevar` | 4,789 | 269 | the Ghost export, `manifests/mevar.ghost.2026-09-20-19-24-38.json` (gitignored) |
 | `le-scribe` | 14,051 | 904 | the PDF in each work's `pdf_url` (le-scribe.org) |
-| `cmpp` | 8,807 | 236 | not here: goal 13 (CMPP complete) re-crawls and rewrites these bodies; remeasure after it |
+| `cmpp` | 8,807 | 236 | not here: goal 16 (CMPP complete) re-crawls and rewrites these bodies; remeasure after it |
 | `local` | 151 | 2 | unknown: ask Samuel |
 
 For `mevar` the rewrites are measured, not estimated: of the 4,789, 1,535
@@ -75,7 +75,7 @@ before its first edit (its stop points). Not this goal.
 
 ## Scope out
 
-- OneDrive and `mevar-pdfs` (goal 10), CMPP (after goal 13), Branham (goal
+- OneDrive and `mevar-pdfs` (goal 10), CMPP (after goal 16), Branham (goal
   07's `65b`).
 - Any change to a text other than a citation's wording.
 - What 65 recognises.

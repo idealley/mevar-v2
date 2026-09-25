@@ -157,8 +157,8 @@ the repo.
 
 ```
 <preamble>
-Goal file: docs/goals/goal-13-cmpp-complete.md. Branch:
-goal-13-cmpp-complete.
+Goal file: docs/goals/goal-16-cmpp-complete.md. Branch:
+goal-16-cmpp-complete.
 
 Two stop points: the discovery report before any download, and the
 unresolved links plus the doubtful attributions before any link is

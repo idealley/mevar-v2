@@ -8,7 +8,7 @@ for item 3, `web/scripts/check-dist.mjs`, `docs/`)
 **Depends on:** 12 (merged as PR #14)
 **Rules:** [README.md](README.md)
 
-Goal 13 (CMPP complete) edits the `translation_fr` frontmatter of
+Goal 16 (CMPP complete) edits the `translation_fr` frontmatter of
 `markdown/branham/`, this goal its bodies: the same files, other lines.
 Whichever merges second merges `main` and reruns 47 and 50.
 

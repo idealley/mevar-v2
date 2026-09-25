@@ -1,4 +1,4 @@
-# GOAL 13: CMPP complete, and each Branham translation linked to its sermon
+# GOAL 16: CMPP complete, and each Branham translation linked to its sermon
 
 **Status:** proposed (written 2026-09-25 with Samuel, not dispatched)
 **Repo:** `mevar-v2` (`scripts/12-discover-cmpp.mjs`, `scripts/20-download-pdfs.mjs`,
