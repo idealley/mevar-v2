@@ -116,9 +116,6 @@ if (missing.length) {
   process.exit(1);
 }
 
-// A body with nothing that looks like a header needs no PDF.
-const MAYBE = /THE SPOKEN WORD|[A-Z][A-Z’'.,?!\- ]{3,}[A-Z?!.’'] +\d{1,3}(?!\d)/u;
-
 let files = 0;
 const stripped = { even: 0, odd: 0 };
 const unaligned = [];
@@ -126,7 +123,6 @@ const unaligned = [];
 for (const file of mdFiles) {
   const text = fs.readFileSync(file, "utf8");
   const [, fm, body] = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
-  if (!MAYBE.test(body)) continue;
 
   const { source, titles } = readPdf(pdfOf(file));
   if (!titles.size) continue;
@@ -141,8 +137,9 @@ for (const file of mdFiles) {
     for (const hit of [...out.matchAll(titleRe)].reverse()) {
       const title = hit[1].replace(/[ \t]+/g, " ");
       const rs = readings(out, hit);
-      // An odd-page title with no number is the sermon's own title, not a header.
-      if (!rs.length) continue;
+      // An odd-page title with no number is the sermon's own title, not a
+      // header; so is one that opens the body (page 1 has no header).
+      if (!rs.length || !flat(out.slice(0, hit.index)).replace(/\d+\.?/g, "").trim()) continue;
       const ok = rs.filter((r) => aligns(out, source, title, r));
       if (ok.length === 1) {
         out = strip(out, ok[0]);
