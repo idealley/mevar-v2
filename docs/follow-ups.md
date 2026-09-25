@@ -90,13 +90,10 @@ their output in the PR. Refs that start at the same position are ordered
 as the goal file says.
 
 After the independent review says ACCEPT, run the codex-second-opinion
-skill: gpt-6-astra on the three scripts, gpt-6-sol on the data with the
-goal's acceptance commands. The skill is local to the main checkout
-(`.claude/` is gitignored, so a worktree does not have it): this session
-starts in ~/projects/mevar-v2 and loads it from
-~/projects/mevar-v2/.claude/skills/codex-second-opinion/SKILL.md; run
-`codex exec` with `-C` set to the goal's worktree, as the skill says.
-Never edit markdown bodies.
+skill (.claude/skills/codex-second-opinion, tracked, so every worktree
+has it): gpt-6-astra on the three scripts, gpt-6-sol on the data with the
+goal's acceptance commands, `codex exec -C` on the goal's worktree. Never
+edit markdown bodies.
 ```
 
 ## `100` keeps only the first verse group of a list
