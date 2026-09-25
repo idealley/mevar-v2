@@ -1,5 +1,7 @@
 // The book tables shared by the bible-reference normalizers: 65 (French),
-// 66 (English) and 65b (which restores the Branham text from its source).
+// 66 (English) and 65b (which restores the Branham text from its source);
+// below them, the helpers 65b, 65c and 65d share to align our text with its
+// source.
 // First entry of each row is the canonical name, the rest are accepted variants.
 
 // The three build their regexes from these names.
