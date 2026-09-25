@@ -59,11 +59,10 @@ const sermonById = new Map(sermons.map((s) => [s.id, s]));
 
 const decided = JSON.parse(fs.readFileSync(path.join(root, "scripts/le-scribe-branham-decided.json"), "utf8"));
 const summaryIds = new Set(summaries.map((s) => s.id));
+// An answer naming no summary is ignored; one naming no sermon leaves its
+// summary unresolved rather than falling back to a guess.
 for (const [id, answer] of Object.entries(decided)) {
-  if (!summaryIds.has(id) || (answer !== "none" && !sermonById.has(answer))) {
-    console.warn(`decision ignored: "${id}": "${answer}"`);
-    delete decided[id];
-  }
+  if (!summaryIds.has(id) || (answer !== "none" && !sermonById.has(answer))) console.warn(`decision ignored: "${id}": "${answer}"`);
 }
 
 // ─── Index Branham sermons by YYMMDD ────────────────────────────────────────
@@ -150,7 +149,7 @@ for (const summary of summaries) {
   const answer = decided[summary.id];
   if (!summary.hasFrontmatter) how = "no frontmatter in the Le-Scribe file";
   else if (answer === "none") how = "no Branham sermon (decided)";
-  else if (answer) [sermon, how] = [sermonById.get(answer), "decided"];
+  else if (answer) [sermon, how] = sermonById.has(answer) ? [sermonById.get(answer), "decided"] : [null, `the answer ${answer} names no sermon`];
   else if (!day) how = "no date in the Le-Scribe id";
   else if (candidates.length === 0) how = "no Branham sermon that day";
   else if (candidates.length === 1) [sermon, how] = [candidates[0], "only sermon that day"];
