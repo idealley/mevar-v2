@@ -38,10 +38,12 @@ Permis, et rien d'autre :
 - les coupures de ligne et de paragraphe : le texte vient d'un PDF, ses lignes sont coupées à la largeur de la page ; recoller les lignes d'un même paragraphe et une phrase coupée par un saut de page, séparer un bloc trop long là où le prédicateur change d'idée ;
 - enlever les numéros de page ;
 - enlever l'en-tête du début, avant le premier paragraphe du prédicateur (le titre, « Prêché le … à … ») : le titre, la date et le lieu sont dans les métadonnées ; enlever la barre « Haut de page Retour Page d'accueil » de l'ancien site ;
-- la mise en forme d'une lecture biblique que le transcripteur a tapée : un paragraphe à part, en citation markdown et en italique, « > _…_ », avec les mots tels qu'ils sont (ce n'est pas toujours la Segond : ne les change pas) ;
+- une lecture biblique ou une citation que le prédicateur lit (la Bible, frère Branham) et qui n'est pas dans sa phrase : un paragraphe à part, en citation markdown « > … », sans italique (le site la met en italique), avec les mots tels qu'ils sont (ce n'est pas toujours la Segond : ne les change pas) ; les numéros de verset qui s'y trouvent en gras (« **2** ») ; la référence reste à sa place : si elle suit la lecture, elle reste à la fin, entre parenthèses, « (Apocalypse 14:7) » ;
 - les courtes citations dans une phrase restent dans la phrase, entre « ».
 
-Interdit : reformuler, résumer, couper une répétition ou un « Amen ! », lisser le style oral, ajouter un titre de section. N'ajoute jamais un mot et n'en enlève jamais un, même pour rendre une phrase correcte (pas de « pas » ajouté après un « ne »). Les références bibliques restent écrites comme dans le texte (« Math. 24, 6 » reste « Math. 24, 6 »). Le gras et l'italique déjà présents restent.
+Le gras (**…**) est celui du prédicateur : il souligne ce qu'il tient pour important. Garde-le exactement sur les mêmes mots, ni plus ni moins, dans le texte comme dans les citations. Le PDF ferme le gras à chaque fin de ligne : quand tu recolles les lignes, « **a b** » coupé en « **a** » et « **b** » redevient « **a b** ». N'ajoute du gras qu'aux numéros de verset d'une lecture.
+
+Interdit : reformuler, résumer, couper une répétition ou un « Amen ! », lisser le style oral, ajouter un titre de section. N'ajoute jamais un mot et n'en enlève jamais un, même un petit mot que la grammaire demande et que l'oral a avalé : « ça commencé » reste « ça commencé », « on a plus » reste « on a plus », « Qu'en n'est-il » reste « Qu'en n'est-il », « il ne vient » reste « il ne vient » ; « il ya » devient « il y a » (une espace), jamais « il y en a ». Ne change pas un temps (« disparut » reste « disparut »). Les références bibliques restent écrites comme dans le texte (« Math. 24, 6 » reste « Math. 24, 6 »).
 
 Lecture manquante : si le prédicateur annonce une lecture (« Nous lisons Genèse 4 à partir du verset 1 ») et que le texte lu n'est pas dans la transcription, écris à cet endroit, sur une ligne à part, [[LECTURE: <livre chapitre:verset-verset>]], par exemple [[LECTURE: Genèse 4:1-16]]. Le script y mettra le texte Segond. Ne l'écris jamais toi-même. S'il paraphrase ou cite de mémoire dans sa phrase, ce n'est pas une lecture : rien à insérer.
 
@@ -55,16 +57,16 @@ le texte corrigé, en markdown
 <<<OBSCUR>>>
 une phrase obscure par ligne, ou rien (rien après)`;
 
-// Parts of about 3,500 words, cut between paragraphs.
+// Parts of about 3,500 words, cut after a line that ends a sentence.
 function parts(text) {
   const out = [[]];
   let words = 0;
-  for (const p of text.split(/\n\s*\n/)) {
-    if (words > 3500) { out.push([]); words = 0; }
-    out.at(-1).push(p);
-    words += p.split(/\s+/).length;
+  for (const line of text.split("\n")) {
+    out.at(-1).push(line);
+    words += line.split(/\s+/).filter(Boolean).length;
+    if (words > 3500 && /[.!?»]\**\s*$/.test(line)) { out.push([]); words = 0; }
   }
-  return out.map((ps) => ps.join("\n\n"));
+  return out.map((ls) => ls.join("\n")).filter((p) => p.trim());
 }
 
 async function complete(user) {
@@ -93,13 +95,13 @@ for (const md of batch) {
   const readings = [];
   const unresolved = [];
   let body = results.map((r) => r.text).join("\n\n");
-  // The reference closes the paragraph that announces the reading, as in goal 04.
-  for (const m of [...body.matchAll(/\s*^\[\[LECTURE: *(.+?)\]\]$/gm)]) {
+  // The reading is its own paragraph, its reference at the end, as the published sermons have it.
+  for (const m of [...body.matchAll(/^\[\[LECTURE: *(.+?)\]\]$/gm)]) {
     const ref = [...citations(m[1])][0]?.ref;
     const verses = ref && (await reading(db, ref));
     if (verses) readings.push({ said: m[1], ref });
     else unresolved.push(m[1]);
-    body = body.replace(m[0], verses ? ` (${ref})\n\n${blockquote(verses)}` : "");
+    body = body.replace(m[0], verses ? `\n\n${blockquote(verses, ref)}\n\n` : "");
   }
   fs.mkdirSync(path.dirname(out), { recursive: true });
   fs.writeFileSync(out, JSON.stringify({
