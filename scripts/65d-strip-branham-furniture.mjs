@@ -78,35 +78,41 @@ function readings(text, hit, title) {
   return out;
 }
 
+// Where the PDF confirms a reading: the position of the one header the words
+// either side frame, or -1.
 function aligns(text, source, title, r) {
-  const header = flat(title).split(" ").map(escRe).join(" ");
+  const header = escRe(flat(title));
   const num = r.num ?? "\\d{1,3}";
   // The PDF prints the number first on even pages, last on odd ones.
   const printed = title === EVEN ? `${num} ${header}` : `${header} ${num}`;
   const before = before2(text, r.start, flat), after = after3(text, r.end, flat);
   const re = new RegExp(`${before ? `(?<![^ ])${pattern(before)} ` : ""}\u0001${printed}\u0001${after ? ` ${pattern(after)}(?![^ ])` : ""}`, "g");
-  return [...source.matchAll(re)].length === 1;
+  const found = [...source.matchAll(re)];
+  return found.length === 1 ? found[0].index : -1;
 }
 
 // Remove a spot, with the markdown marks that shared its line with nothing
 // else, and the blank line the page break left in a sentence that goes on.
-// Null when the header shares a bold with the sermon's words: removing it
-// would strand a "**", so the spot is listed instead.
+// Null when the header shares an emphasis with the sermon's words: removing
+// it would strand a "*", so the spot is listed instead.
 function strip(text, { start, end }) {
   let s = start, e = end;
   // A page number in its own bold ("## COUNTDOWN / **17** atomic") goes whole.
-  if (/\*\*\d{1,3}$/.test(text.slice(s, e)) && text.startsWith("**", e)) e += 2;
-  if (/^\d{1,3}\*\*/.test(text.slice(s, e)) && text.slice(0, s).endsWith("**")) s -= 2;
-  // Bold around the header alone ("**2 THE SPOKEN WORD** [A brother") goes.
-  if (text.slice(0, s).endsWith("**") && text.startsWith("**", e)) {
-    s -= 2;
-    e += 2;
+  const numEnd = text.slice(s, e).match(/(\*+)\d{1,3}$/)?.[1];
+  if (numEnd && text.startsWith(numEnd, e)) e += numEnd.length;
+  const numStart = text.slice(s, e).match(/^\d{1,3}(\*+)/)?.[1];
+  if (numStart && text.slice(0, s).endsWith(numStart)) s -= numStart.length;
+  // Emphasis around the header alone ("**2 THE SPOKEN WORD** [A brother") goes.
+  const wrap = text.slice(0, s).match(/\*+$/)?.[0];
+  if (wrap && text.startsWith(wrap, e)) {
+    s -= wrap.length;
+    e += wrap.length;
   }
   const lineStart = text.lastIndexOf("\n", s - 1) + 1;
   if (/^[ \t*#>]*$/.test(text.slice(lineStart, s))) s = lineStart;
   const lineEnd = text.indexOf("\n", e) < 0 ? text.length : text.indexOf("\n", e);
   if (/^[ \t*]*$/.test(text.slice(e, lineEnd))) e = lineEnd;
-  if ((text.slice(s, e).match(/\*\*/g) ?? []).length % 2 || text.slice(0, s).endsWith("**") !== text.startsWith("**", e)) return null;
+  if ((text.slice(s, e).match(/\*/g) ?? []).length % 2 || text.slice(0, s).endsWith("*") !== text.startsWith("*", e)) return null;
   let i = s, j = e;
   while (i > 0 && /\s/.test(text[i - 1])) i--;
   while (j < text.length && /\s/.test(text[j])) j++;
@@ -148,14 +154,14 @@ for (const file of mdFiles) {
   const { source, titles } = readPdf(pdfOf(file));
   if (!titles.size) continue;
   // The PDF spaces some titles out ("THE PR ESENCE OF"), our text often does
-  // not, may break one over lines, write a straight apostrophe for a curly one
+  // not, may break one over lines or put emphasis inside it, write a straight apostrophe for a curly one
   // ("GOD'S"), or its book name in title case ("THE THIRD Exodus 25"): a title
   // matches with any spacing, either quote and any case, and a hit is read
   // back as the PDF's title.
-  const bare = (t) => t.replace(/\s+/g, "").replace(/[‘’]/g, "'").replace(/[“”]/g, '"').toUpperCase();
+  const bare = (t) => t.replace(/[\s*]+/g, "").replace(/[‘’]/g, "'").replace(/[“”]/g, '"').toUpperCase();
   const letter = (ch) => (ch === "'" ? "['‘’]" : ch === '"' ? '["“”]' : escRe(ch));
   const titleOf = new Map([...titles].map((t) => [bare(t), t]));
-  const titleRe = new RegExp(`(?<![\\p{L}])(${[...titleOf.keys()].sort((a, b) => b.length - a.length).map((t) => [...t].map(letter).join("[ \\t]*(?:\\n[ \\t]*){0,2}")).join("|")})(?![\\p{L}])`, "giu");
+  const titleRe = new RegExp(`(?<![\\p{L}])(${[...titleOf.keys()].sort((a, b) => b.length - a.length).map((t) => [...t].map(letter).join("[ \\t*]*(?:\\n[ \\t*]*){0,2}")).join("|")})(?![\\p{L}])`, "giu");
 
   // Removing a header can give its neighbour the context it lacked, so the
   // pass repeats until nothing moves.
@@ -163,7 +169,11 @@ for (const file of mdFiles) {
   do {
     prev = out;
     left = [];
-    for (const hit of [...out.matchAll(titleRe)].reverse()) {
+    // First where each hit aligns, then the stripping: a PDF header that two
+    // spots in our text both claim confirms neither (a quoted sentence can
+    // repeat the words around a header), and both are listed.
+    const plans = [];
+    for (const hit of out.matchAll(titleRe)) {
       const title = titleOf.get(bare(hit[1]));
       const rs = readings(out, hit, title);
       // An odd-page title with no number is the sermon's own title, not a
@@ -171,8 +181,13 @@ for (const file of mdFiles) {
       if (!rs.length || (title !== EVEN && !flat(out.slice(0, hit.index)).replace(/\d+\.?/g, "").trim())) continue;
       // Only a header printed in capitals goes; one in the sermon's case is
       // at most listed.
-      const ok = /\p{Ll}/u.test(hit[1]) ? [] : rs.filter((r) => aligns(out, source, title, r));
-      const cut = ok.length === 1 && strip(out, ok[0]);
+      const found = /\p{Ll}/u.test(hit[1]) ? [] : rs.map((r) => ({ r, at: aligns(out, source, title, r) })).filter((f) => f.at >= 0);
+      plans.push({ hit, title, rs, found });
+    }
+    const claims = new Map();
+    for (const { found } of plans) if (found.length === 1) claims.set(found[0].at, (claims.get(found[0].at) ?? 0) + 1);
+    for (const { hit, title, rs, found } of plans.reverse()) {
+      const cut = found.length === 1 && claims.get(found[0].at) === 1 && strip(out, found[0].r);
       if (cut) {
         out = cut;
         stripped[title === EVEN ? "even" : "odd"]++;
