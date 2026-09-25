@@ -74,8 +74,9 @@ the verification done by a script and by sampling.
   published Ghost sermons 7.4); the defect is lost paragraphs (8 texts with
   a paragraph of 2,000 to 7,800 words). 163 of 164 PDFs have a text layer;
   the last is an empty 2 KB file. No OCR.
-- **Parser:** LiteParse, local, without OCR: the PDF's own text layer, the
-  same words as pdftotext. LlamaParse rebuilds paragraphs, and on five PDFs
+- **Parser:** pdftohtml (poppler), local: the PDF's own text layer, the same
+  words as pdftotext and LiteParse, with the preacher's bold, which Samuel
+  wants kept (« his intention is to highlight what he feels is important »). LlamaParse rebuilds paragraphs, and on five PDFs
   kept every word; on batch 01 it rewrote some ("vends" → "vendis",
   "serviteurs" → "serveurs", "avouait" → "avait était"), which the
   independent review found, so it was dropped (1,854 free credits spent).
@@ -91,6 +92,12 @@ the verification done by a script and by sampling.
   batch of 130,000 words.
 - **Not in the pass:** `onedrive/pdf/thebath.md` is English;
   `onedrive/pdf/LA GUERRE DE LIBERATION.md` has an empty original.
+- **Quotes** (Samuel, after batch 01's first PR round): a citation that is
+  not in the sentence is its own blockquote, `> …`, with the preacher's bold
+  and the reference at the end where he gives it there, as in
+  `markdown/mevar/ce-qui-arrive-le-jour-du-seigneur.md` (« Je vis un autre
+  ange… (Apocalypse 14:7) »); the site sets it in italics. Verse numbers in
+  a quote are bold.
 - **Batches:** `scripts/mevar-editorial-batches.json`. The two books
   (`le_royaume_de_dieu_kadjani`, `les_cinq_ministeres_de_la_parole`, 200,000
   words together) get a batch of their own.
