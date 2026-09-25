@@ -241,7 +241,7 @@ const usage = rows.flatMap((r) => r.pass.usage);
 const [tin, tout] = [usage.reduce((a, u) => a + u.prompt_tokens, 0), usage.reduce((a, u) => a + u.completion_tokens, 0)];
 // The estimate given before the first run: $2.60 for 130,000 words.
 const batchWords = rows.reduce((a, r) => a + r.words, 0);
-L.push("", "## Spend", "", `${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words. Extraction (LiteParse, mammoth) is local.`);
+L.push("", "## Spend", "", `${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words. Extraction (LiteParse) is local.`);
 const out = path.join(root, `docs/goals/evidence/goal-10-batch-${batchId}.md`);
 fs.writeFileSync(out, L.join("\n") + "\n");
 console.log(`report → ${path.relative(root, out)}`);
