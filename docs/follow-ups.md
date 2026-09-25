@@ -48,11 +48,43 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Fix**: strip the furniture at the extraction stage, then rerun 66. Doing it in the normalizer would clean the manifest and leave the visible text broken.
 
-## `47` truncates `bible_refs` alphabetically at 50
+## `47` truncates `bible_refs` alphabetically at 50, and the citing order is lost
 
-**Status**: 92 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah`: 4,059 references in all (2026-09-25). `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut. A new ref can push an old one out: goal 11's spoken refs took 38 out of the frontmatter of 25 files (`qui-est-dieu` no longer lists `Zacharie 12:10`).
+**Status**: goal 12, [`docs/goals/goal-12-bible-refs-complete.md`](goals/goal-12-bible-refs-complete.md), ready to dispatch. Measured on `main` after PR #11 (2026-09-25): 92 works have more than 50 refs, and `47` copies only the first 50 into `bible_refs`, alphabetically, so 4,059 refs never reach the frontmatter (goal 11 pushed 38 more out, `qui-est-dieu` lost `Zacharie 12:1` and `Zacharie 12:10`). The cap is ours (`47-lift-manifest-fields.mjs:90`, `refs.slice(0, 50)`), not Astro's, and nothing under `web/src` reads `bible_refs`. Separately, `65` and `66` sort each work's refs alphabetically before writing `manifests/bible-refs.json`: the order the preacher cites them in is still in the text, the scripts just do not keep it. `manifests/bible-refs.json` and the SurrealDB `cites` edges have every ref.
 
-**Fix**: decide what the page should show, then either lift the cap or keep the references in order of appearance rather than alphabetically. The normalizer sorts them, so order of appearance is not recoverable today.
+**Fix**: goal 12. Keep the order of first appearance in `65` and `66`, remove the cap in `47`, regenerate. Dispatch text, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
+
+```
+Read AGENTS.md, VISION.md, DELIVERY.md, docs/goals/README.md, then the goal
+file named below, in that order. Follow DELIVERY.md exactly: worktree from
+origin/main, npm install on this Mac at the root and in web/, atomic
+Conventional Commits, the gates for what you touch, the independent
+subagent review with the prompt given there, then a non-draft PR with
+`gh pr create` whose description opens with the problem and lists every
+acceptance item with the command you ran and its output. Do not merge. Stop
+at the stop points. End with the report DELIVERY.md asks for.
+
+Goal file: docs/goals/goal-12-bible-refs-complete.md. Branch:
+goal-12-bible-refs-complete.
+
+Before changing anything, save a copy of manifests/bible-refs.json from
+origin/main outside the repo: every acceptance item compares against it.
+The goal is a pure reorder plus the end of the cap. If any work gains or
+loses a ref, stop and find out why before going further; do not "fix" what
+65 or 66 recognise, that is another goal.
+
+Order of work: 65 and 66 first (one commit, code only), then 47 (one
+commit), then the regeneration 65, 66, 47, 50 (one data commit), then docs.
+The data commit touches about 2,700 markdown files; never read that diff
+file by file. Prove items 1 to 4 of the acceptance with node scripts that
+compare the working files with `git show origin/main:<path>`, and show
+their output in the PR.
+
+After the independent review says ACCEPT, run the codex-second-opinion
+skill (.claude/skills/codex-second-opinion): gpt-6-astra on the three
+scripts, gpt-6-sol on the data with the goal's acceptance commands. Never
+edit markdown bodies.
+```
 
 ## `100` keeps only the first verse group of a list
 
