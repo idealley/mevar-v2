@@ -101,7 +101,11 @@ function strip(text, { start, end }) {
   const gap = text.slice(i, s) + text.slice(e, j);
   const tail = text.slice(e, j);
   const indent = tail.includes("\n") ? tail.slice(tail.lastIndexOf("\n") + 1) : "";
-  const sep = !gap.includes("\n") ? " " : /\n[ \t]*\n/.test(gap) && !/^\p{Ll}/u.test(text.slice(j)) ? "\n\n" : "\n";
+  // The sentence goes on in lowercase, or with a verse, an ordinal or a list
+  // ("Ephesians / 4:30", "the / 15th verse", "32, / 33, 34"); a new paragraph
+  // starts with a capital or with its number ("57 Every", "50e", "88b.").
+  const goesOn = /^(?:\p{Ll}|\d+(?::\d|st\b|nd\b|rd\b|th\b|,))/u.test(text.slice(j));
+  const sep = !gap.includes("\n") ? " " : /\n[ \t]*\n/.test(gap) && !goesOn ? "\n\n" : "\n";
   return text.slice(0, i) + (i && j < text.length ? sep + indent : "") + text.slice(j);
 }
 
@@ -139,7 +143,7 @@ for (const file of mdFiles) {
       const rs = readings(out, hit);
       // An odd-page title with no number is the sermon's own title, not a
       // header; so is one that opens the body (page 1 has no header).
-      if (!rs.length || !flat(out.slice(0, hit.index)).replace(/\d+\.?/g, "").trim()) continue;
+      if (!rs.length || (title !== EVEN && !flat(out.slice(0, hit.index)).replace(/\d+\.?/g, "").trim())) continue;
       const ok = rs.filter((r) => aligns(out, source, title, r));
       if (ok.length === 1) {
         out = strip(out, ok[0]);
