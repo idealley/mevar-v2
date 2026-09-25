@@ -1,6 +1,7 @@
 # GOAL 11: The French citations said aloud are found
 
-**Status:** in progress (dispatched 2026-09-24 by Samuel, after PR #8)
+**Status:** done (dispatched 2026-09-24 by Samuel, after PR #8; merged as
+PR #11, 2026-09-25; landing check on `main` the same day)
 **Repo:** `mevar-v2` (`scripts/65-normalize-bible.mjs`, `manifests/bible-refs.json`,
 `index.json`, the `bible_refs` frontmatter of the French sources, `docs/`)
 **Depends on:** 07 (merged as PR #2 and PR #8)
@@ -71,3 +72,10 @@ N", 199 of the form "chapitre N de <Livre>".
 - `git diff` on `markdown/` touches only `bible_refs` frontmatter; Branham
   refs unchanged.
 - 65, 47 and 50: a second run is a no-op.
+
+## Follow-up
+
+Landing check against `main`, 2026-09-25: a rerun of 65, 66, 47, 49 and 50
+leaves `git status` clean; `le-ministere-de-lesprit` has `2 Corinthiens 3`
+and `jesus-et-marie` `Actes 1:12-14`. The 50-ref cap then hid 3,946 refs in
+90 works, the 38 it took from goal 11 included; that is goal 12.
