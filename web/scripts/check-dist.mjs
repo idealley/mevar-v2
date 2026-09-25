@@ -96,8 +96,9 @@ for (const page of pages) {
   const html = fs.readFileSync(page, "utf8");
   for (const [, raw] of html.matchAll(/\shref="([^"]*)"/g)) {
     const href = raw.replaceAll("&amp;", "&");
-    // Another scheme or host: not a file here.
-    if (/^([a-z][a-z0-9+.-]*:|\/\/|$)/i.test(href)) continue;
+    // Another scheme or host: not a file here. Our own absolute URL is, when
+    // it names a fragment.
+    if (/^([a-z][a-z0-9+.-]*:|\/\/|$)/i.test(href) && !(href.startsWith("https://mevar.org/") && href.includes("#"))) continue;
     // A relative href resolves against the page's own URL, as a browser does.
     const url = new URL(href, `https://mevar.org/${path.relative(dist, path.dirname(page))}/`);
     const fragment = decodeURIComponent(url.hash.slice(1));
