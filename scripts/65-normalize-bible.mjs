@@ -272,7 +272,9 @@ if (process.argv[1] === import.meta.filename) {
       const text = fs.readFileSync(file, "utf8");
       const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
 
-      const refs = [...new Set([...citations(body)].map((c) => c.ref))].sort();
+      // In the order the work cites them: by position, the longer match first
+      // at the same position (as web/src/lib/bible-links.mjs), first occurrence.
+      const refs = [...new Set([...citations(body)].sort((a, b) => a.index - b.index || b.text.length - a.text.length).map((c) => c.ref))];
       if (refs.length) {
         totalRefs += refs.length;
         refsBySource[sourceName].refs += refs.length;
