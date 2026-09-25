@@ -51,40 +51,54 @@ const SOURCES = {
 // Goal 14 edits these two posts; they are restored once it has merged.
 const WAIT = new Set(["qui-sera-enleve", "le-jour-du-seigneur-4-et-les-tribulations"]);
 
-// Both sides lose markdown (emphasis, links, escapes, quote and heading
-// marks) and paragraph numbers, which Le Scribe's markdown counts ("**133.**")
-// and its PDF gives as a span ("§133 à 141-"). Quotes may be curly on one
-// side and straight on the other. A range the PDF broke across two lines
-// ("15:21-" / "28") is one range.
-const flat = (s) => s
-  .replace(/^\*\*\d+\.\*\* ?|§\d+(?: à \d+)?- ?/gm, "")
+// Our text loses its markdown (links, quote and heading marks, emphasis; an
+// escaped "\_" is a real underscore) and Le Scribe's paragraph numbers
+// ("**133.**"), which its PDF gives as a span ("§133 à 141-"). The source
+// keeps every character it has, so a span is always its own wording.
+const unmark = (s) => s
+  .replace(/^\*\*\d+\.\*\* ?/gm, "")
   .replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1")
   .replace(/^[ \t]*(?:>|#+)[ \t]?/gm, "")
-  .replace(/[*_\\]/g, "")
+  .replace(/(?<!\\)[*_]/g, "")
+  .replace(/\\(.)/g, "$1");
+// Both sides: quotes may be curly on one side and straight on the other, and
+// a range the PDF broke across two lines ("15:21-" / "28") is one range.
+const flat = (s) => s
+  .replace(/§\d+(?: à \d+)?- ?/g, "")
   .replace(/\s+/g, " ")
   .replace(/(\d)- (\d)/g, "$1-$2");
 const pattern = (s) => escRe(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]');
-const before2 = (text, at) => flat(text.slice(Math.max(0, at - 300), at)).trimEnd().split(" ").slice(-2).join(" ");
-const after3 = (text, at) => flat(text.slice(at, at + 300)).trimStart().split(" ").slice(0, 3).join(" ");
-const context = (text, at, spot) => flat(text.slice(Math.max(0, at - 80), at + spot.length + 60)).trim();
+const before2 = (text, at) => flat(unmark(text.slice(Math.max(0, at - 300), at))).trimEnd().split(" ").slice(-2).join(" ");
+const after3 = (text, at) => flat(unmark(text.slice(at, at + 300))).trimStart().split(" ").slice(0, 3).join(" ");
+const context = (text, at, spot) => flat(unmark(text.slice(Math.max(0, at - 80), at + spot.length + 60))).trim();
+
+// The refs 65 records around a spot: a restored citation must leave them as
+// they were, the spoken ones it may be part of included ("le chapitre 3 de
+// Jean 4" is Jean 3 and Jean 4; "de Jn 4" is only Jean 4).
+const refsNear = (text, at, length) =>
+  [...citations(text.slice(Math.max(0, at - 200), at + length + 200))].map((c) => c.ref).sort().join("|");
 
 // One pass over a body: every canonical citation, from the end so the indexes
-// hold. The span may not contain its own anchor, or where a preacher repeats
-// a phrase a lazy span would start at the earlier repetition.
+// hold. The anchors are whole words, and every place they occur is counted,
+// overlapping ones included (the lookahead). The span may not contain its own
+// anchor, or where a preacher repeats a phrase a lazy span would start at the
+// earlier repetition.
 function restore(body, source, tally) {
   let out = body;
   const canonical = [...citations(body)].filter((c) => c.text === c.ref).sort((a, b) => b.index - a.index);
   for (const { index, text: spot, ref } of canonical) {
     const before = pattern(before2(body, index));
     const after = pattern(after3(body, index + spot.length));
-    const found = [...source.matchAll(new RegExp(`${before} ?((?:(?!${before}).){1,60}?) ?${after}`, "g"))];
+    const re = new RegExp(`(?<![\\p{L}\\d])(?=${before} ?((?:(?!${before}).){1,60}?) ?${after}(?![\\p{L}\\d]))`, "gu");
+    const found = [...source.matchAll(re)];
     const span = found.length === 1 ? found[0][1].trim() : null;
     // The span may end on punctuation our text lost: the opening quote of a
     // reading the markdown made a blockquote ("Jean 4:46-54 “").
     const cite = span && [...citations(span)].find((c) => c.index === 0 && c.ref === ref && !/[\p{L}\d]/u.test(span.slice(c.text.length)));
+    const next = cite && out.slice(0, index) + cite.text + out.slice(index + spot.length);
     if (cite?.text === spot) tally.written++;
-    else if (cite) {
-      out = out.slice(0, index) + cite.text + out.slice(index + spot.length);
+    else if (cite && refsNear(next, index, cite.text.length) === refsNear(out, index, spot.length)) {
+      out = next;
       tally.restored++;
     } else tally.left.push({ spot, source: span, matches: found.length, context: context(body, index, spot) });
   }
