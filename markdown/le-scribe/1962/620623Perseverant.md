@@ -116,8 +116,8 @@ religieux. La Parole était contraire à leur science. Mais Noé a persisté pen
 car il avait la Parole de Dieu dans son cœur. Il croyait que Dieu était capable de mettre
 de l’eau dans le ciel. Caïn était aussi religieux qu’Abel, mais il ne suffit pas d’être
 religieux. “Telle voie paraît droite à un homme, mais son issue, c’est la voie de la mort”
-[Proverbes 14:12]. On ne peut jouer avec cela. Mais Christ a laissé un plan pour que même les
-fous ne s’égarent pas [Ésaïe 35:8].
+[Prov. 14:12]. On ne peut jouer avec cela. Mais Christ a laissé un plan pour que même les
+fous ne s’égarent pas [Es. 35:8].
    §30 à 32- Les autres croyaient que n’importe quel bateau conviendrait. Ils croient que
 n’importe quelle dénomination de leur choix conviendra. Mais Dieu a une Eglise
 construite non sur Pierre, ni sur Jésus, mais sur le Rocher de la révélation spirituelle
@@ -139,7 +139,7 @@ Esprit dans la chambre haute. J’imagine que Noé s’attendait à la pluie pou
 suivant. Mais le lendemain il y avait autant de soleil. C’est là où plusieurs abandonnent,
 prouvant qu’ils ne croient pas ce qu’ils disent. Noé a peut-être vacillé, mais il ne
 pouvait pas sortir, il était scellé à l’intérieur. “N’attristez pas le Saint-Esprit par lequel
-vous avez été scellés jusqu’au jour de votre rédemption” [cf. Éphésiens 4:30]. C’est glorieux
+vous avez été scellés jusqu’au jour de votre rédemption” [cf. Eph. 4:30]. C’est glorieux
 d’être scellé avec Christ ! Seul Dieu pouvait ouvrir la porte. Noé a ainsi attendu et sué
 toute une semaine. Parfois Dieu vous laisse transpirer ainsi. Mme Shakarian a gardé sa
 cataracte pendant plus de deux semaines. Vous devez persévérer, et, si vous croyez
@@ -218,7 +218,7 @@ mais il était sûr de lui : “Celui qui baptise du Saint-Esprit est au milieu 
 aussi, nous savons que le même Saint-Esprit qui est tombé le jour de la Pentecôte est ici.
 Jean a persévéré, et un jour il a pu dire : “Voici l’Agneau de Dieu qui ôte le péché du
 monde”.
-   §58- La foi vient de ce qu’on entend la Parole de Dieu [cf. Romains 10:17]. Cette femme
+   §58- La foi vient de ce qu’on entend la Parole de Dieu [cf. Rom. 10:17]. Cette femme
 était Grecque, mais la foi trouve une source que d’autres ne voient pas. C’est la foi qui
 empoigne la Parole. Seule la foi peut saisir l’épée de la Bible. Le bras de votre foi est
 peut-être faible et ne tranche que jusqu’à la justification. Mais un bras fort tranche
@@ -282,7 +282,7 @@ comporter avec son pasteur. Les cinq ministères sont des dons de Dieu prédesti
 le Corps. Vous devez les respecter pour obtenir quelque chose de Dieu. Même si le
 docteur dit que vous avez un cancer, dites : “Même maintenant, Seigneur ...” Il intercède
 à la droite de la Majesté divine, et il est un Souverain Sacrificateur qui peut être touché
-par nos infirmités [Hébreux 1:3,4:15, 7:25]. Votre foi peut le toucher, et il fera les mêmes
+par nos infirmités [Héb. 1:3, 4:15, 7:25]. Votre foi peut le toucher, et il fera les mêmes
 choses qu’autrefois. Il l’a promis. Pourquoi ne pouvons-nous pas persévérer ?
    §81 à 85- Marthe voulait simplement que Jésus prie. La foi va rencontrer Dieu, et
 
@@ -370,7 +370,7 @@ aujourd’hui et éternellement. Saisissez cela par la foi, persévérez, Dieu f
 promis. Demain après-midi nous prierons pour les malades. Je ressens la présence du
 Saint-Esprit. Croyez. Il était l’Oint, et il a montré le signe du Messie. La Bible dit que le
 Messie serait Dieu-Prophète : “L’Eternel, ton Dieu, te suscitera du milieu de toi, d’entre
-tes frères, un prophète comme moi : vous l’écouterez” [Deutéronome 18:15]. Ils l’ont reconnu car
+tes frères, un prophète comme moi : vous l’écouterez” [Deut. 18:15]. Ils l’ont reconnu car
 il annonçait sans erreur les choses à venir et discernait les pensées. Or il a dit : “Celui qui
 croira en moi fera aussi les œuvres que je fais” [Jean 14:12]. Combien l’église est faible !
 Si la vie d’une citrouille était mise dans une vigne, elle produirait des citrouilles. Si la Vie

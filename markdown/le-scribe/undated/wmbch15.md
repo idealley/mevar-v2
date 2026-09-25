@@ -45,7 +45,7 @@ bible_refs:
 
 **UN MINISTERE D’UNE NOUVELLE DIMENSION**
 
-> “Voici, je vous dis un mystère : nous ne mourrons pas tous, mais tous nous serons changés, en un instant, en un clin d’œil, à la dernière trompette. La trompette sonnera, et les morts ressusciteront incorruptibles, et nous, nous serons changés” [1 Corinthiens 15:51 à 53].
+> “Voici, je vous dis un mystère : nous ne mourrons pas tous, mais tous nous serons changés, en un instant, en un clin d’œil, à la dernière trompette. La trompette sonnera, et les morts ressusciteront incorruptibles, et nous, nous serons changés” [1 Corinthiens 15: 51 à 53].
 
 **La vision de la tente (décembre 1955)**
 
@@ -73,7 +73,7 @@ L’homme m’a répondu : “Mais vous leur parlerez cet après-midi.” ...
 
 “Mais il ne restera qu’une poignée de personnes !”
 
-Et quelque chose m’a dit : “C’est ainsi que tu auras confirmation”. La Voix était tendre mais sévère : “Notre Seigneur n’a-t-il pas été abandonné avec douze disciples seulement, alors que des milliers l’avaient quitté quand il s’est mis à leur dire la Vérité ?” [Jean 6:60-68]
+Et quelque chose m’a dit : “C’est ainsi que tu auras confirmation”. La Voix était tendre mais sévère : “Notre Seigneur n’a-t-il pas été abandonné avec douze disciples seulement, alors que des milliers l’avaient quitté quand il s’est mis à leur dire la Vérité ?” [Jean 6: 60-68]
 
 Et j’ai pénétré plus loin dans la vision. Je tenais un soulier de bébé avec un tout petit œillet de trois millimètres, m’efforçant d’enfiler comme un lacet une ligne de cinquante millimètres de diamètre. Et j’ai cassé les fibres de ma ligne en essayant de forcer au travers de l’œillet.
 

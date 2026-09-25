@@ -94,7 +94,7 @@ bible_refs:
 
 Mes bien-aimés frères et sœurs, je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ, par cette Parole du Psaumes 89 :
 
-> Heureux le peuple qui connaît **le son de la trompette ; Il marche à la clarté de ta face, ô Éternel**! Il se réjouit sans cesse de ton nom, Et il se glorifie de ta justice. (Psaumes 89:16-17).
+> Heureux le peuple qui connaît **le son de la trompette ; Il marche à la clarté de ta face, ô Éternel**! Il se réjouit sans cesse de ton nom, Et il se glorifie de ta justice. (Psaumes 89 :16-17).
 
 C’est toujours avec beaucoup de reconnaissance au Seigneur notre Dieu que nous nous tenons dans Sa présence pour assurer le service auquel Il nous a appelés. Le Seigneur est fidèle et Il sait soutenir ceux qu’Il envoie dans Son champ. Par Sa grâce nous tiendrons debout et Il viendra nous trouver dans cette position, à la tâche.
 
@@ -126,11 +126,11 @@ Dans les évangiles, Jésus parle de Jérusalem qui n’a pas reconnu le temps d
 
 Un peuple qui refuse d’entendre le Message de Dieu n’a aucun avenir, ni aucune prospérité. Car de tout temps, le bonheur du peuple de Dieu est placé dans Sa parole.
 
-Mes bien-aimés frères et sœurs, il est très important pour nous d’entendre le son de la trompette qui sonne pour réussir à modifier notre attitude vis-à-vis du plan de Dieu. **Les sentinelles sont des prophètes de Dieu qui vivent toujours les événements avant les autres**. C’est pour cela qu’ils les annoncent avec assurance : Joseph avait vu la sortie d’Égypte, c’est pour cela qu’il confia ses os aux enfants d’Israël (Exodes 13:19). Abraham avait vu les jours de Christ (Jean 8:56), Ésaïe vécut la naissance du Christ par la vierge (Ésaïe 7:14), Jérémie vécut la déportation en Babylone (Jérémie 18). Les exemples sont légion dans les écritures. Un prophète prit la ceinture de Paul et prophétisa sa captivité (Actes 21:10-11). **Les sentinelles n’inventent pas ce qui arrive, mais vivent les événements avant d’en parler**.
+Mes bien-aimés frères et sœurs, il est très important pour nous d’entendre le son de la trompette qui sonne pour réussir à modifier notre attitude vis-à-vis du plan de Dieu. **Les sentinelles sont des prophètes de Dieu qui vivent toujours les événements avant les autres**. C’est pour cela qu’ils les annoncent avec assurance : Joseph avait vu la sortie d’Égypte, c’est pour cela qu’il confia ses os aux enfants d’Israël (Exodes 13:19). Abraham avait vu les jours de Christ (Jean 8:56), Ésaïe vécut la naissance du Christ par la vierge (Esaïe 7:14), Jérémie vécut la déportation en Babylone (Jérémie 18). Les exemples sont légion dans les écritures. Un prophète prit la ceinture de Paul et prophétisa sa captivité (Actes 21:10-11). **Les sentinelles n’inventent pas ce qui arrive, mais vivent les événements avant d’en parler**.
 
 Dans notre génération, nous avons entendu plusieurs sons de trompettes et nous en entendons encore. Tout a commencé avec le son de la grande trompette :
 
-> En ce temps-là, L'Éternel secouera des fruits (arbres), depuis le cours du fleuve jusqu'au torrent d’Égypte ; Et vous serez ramassés un à un, enfants d’Israël ! En ce jour, **on sonnera de la grande trompette**, et alors **reviendront** ceux qui étaient exilés au pays d'Assyrie ou fugitifs au pays d’Égypte ; **Et ils se prosterneront devant l'Éternel, sur la montagne sainte, à Jérusalem**. (Ésaïe 27:12-13)
+> En ce temps-là, L'Éternel secouera des fruits (arbres), depuis le cours du fleuve jusqu'au torrent d’Égypte ; Et vous serez ramassés un à un, enfants d’Israël ! En ce jour, **on sonnera de la grande trompette**, et alors **reviendront** ceux qui étaient exilés au pays d'Assyrie ou fugitifs au pays d’Égypte ; **Et ils se prosterneront devant l'Éternel, sur la montagne sainte, à Jérusalem**. (Esaïe 27:12-13)
 
 Cette grande trompette dont parle Esaïe représente le Message de la fin des temps, prêché par le prophète William Branham. C’était un Appel à sortir des dénominations de la fin des temps qui sont nées du dernier réveil de 1906 aux États-Unis. Ces dénominations représentaient un grand piège pour le plan de Dieu de la fin des temps, il fallait donc en sortir pour s’unir avec le Seigneur en vue de l’achèvement de son œuvre. C’est aussi une grande trompette qui avait sonné pour préparer le jour du Seigneur, comme cela est écrit :
 
@@ -196,15 +196,15 @@ Quand il ouvrit le troisième sceau, j'entendis le troisième être vivant qui d
 
 Aujourd’hui, les prophéties disent clairement que l’ennemi a atteint son objectif, car l’Église est maintenant occupée par les démons. C’est la raison d’être de l’appel à la guerre lancé dans les prophéties à l’endroit de ceux qui voient encore clair et qui comprennent que l’Église de Jésus-Christ est sous occupation de Satan. C’est un véritable siège qui doit être levé. Ainsi dit le Seigneur :
 
-> Publiez ces choses parmi les nations ! **Préparez la guerre ! Réveillez les héros !** Qu'ils s'approchent, qu'ils montent, tous les hommes de guerre ! De vos hoyaux forgez des épées, et de vos serpes des lances ! Que le faible dise : Je suis fort ! (Joël 3:9-11)
+> Publiez ces choses parmi les nations ! **Préparez la guerre ! Réveillez les héros !** Qu'ils s'approchent, qu'ils montent, tous les hommes de guerre ! De vos hoyaux forgez des épées, et de vos serpes des lances ! Que le faible dise : Je suis fort ! (Joël 3: 9-11)
 
 Mes bien-aimés, de quelle guerre s’agit-il ? Il s’agit d’une guerre de libération lancée dans l’Église par le Seigneur. Cette guerre a pour but de libérer l’Église de l’occupation de Satan et des démons. Ceux qui ont entendu le son de cette trompette vont combattre jusqu’à ce que le Christ soit établi dans Son règne.
 
-> Lorsque, dans votre pays, **vous irez à la guerre contre l'ennemi qui vous combattra, vous sonnerez des trompettes avec éclat**, et vous serez présents au souvenir de l'Éternel, votre Dieu, et vous serez délivrés de vos ennemis. (Nombres 10:9)
+> Lorsque, dans votre pays, **vous irez à la guerre contre l'ennemi qui vous combattra, vous sonnerez des trompettes avec éclat**, et vous serez présents au souvenir de l'Éternel, votre Dieu, et vous serez délivrés de vos ennemis. (Nombres 10: 9)
 
 Une fois l’Église libérée de l’occupation de Satan, prendra alors place **le grand réveil de la fin des temps, qui va entamer le jour du Seigneur**. C’est cette grande guerre qui a commencé par le Cri de minuit et qui va continuer dans le monde par le témoignage de l’Épouse.
 
-> Terre, où retentit le cliquetis des armes, au-delà des fleuves de l’Éthiopie ! Toi qui envoies sur mer des messagers, dans des navires de jonc voguant à la surface des eaux ! Allez, messagers rapides, vers la nation forte et vigoureuse, vers ce peuple redoutable depuis qu'il existe, nation puissante et qui écrase tout, et dont le pays est coupé par des fleuves. Vous tous, habitants du monde, habitants de la terre, voyez la bannière qui se dresse sur les montagnes, **écoutez la trompette qui sonne** ! (Ésaïe 18:2-3)
+> Terre, où retentit le cliquetis des armes, au-delà des fleuves de l’Éthiopie ! Toi qui envoies sur mer des messagers, dans des navires de jonc voguant à la surface des eaux ! Allez, messagers rapides, vers la nation forte et vigoureuse, vers ce peuple redoutable depuis qu'il existe, nation puissante et qui écrase tout, et dont le pays est coupé par des fleuves. Vous tous, habitants du monde, habitants de la terre, voyez la bannière qui se dresse sur les montagnes, **écoutez la trompette qui sonne** ! (Ésaïe 18: 2-3)
 
 ## Le dernier SON de trompette
 
@@ -248,7 +248,7 @@ Mes bien-aimés frères et sœurs, voici l’œuvre de l’Éternel en son jour 
 
 C’est ce que le peuple de Dieu doit faire – chanter à l’Éternel un cantique nouveau, car les anges nous inspirent maintenant des cantiques nouveaux, chantés déjà dans les cieux à la gloire de Dieu, à cause de la nouvelle œuvre qu’Il commence maintenant dans l’Église et dans les nations.
 
-> **Chantez ses louanges aux extrémités de la terre, vous qui voguez sur la mer et vous qui la peuplez, Iles et habitants des îles !** (Ésaïe 42:10)
+> **Chantez ses louanges aux extrémités de la terre, vous qui voguez sur la mer et vous qui la peuplez, Iles et habitants des îles !** (Esaïe 42:10)
 
 C’est maintenant le temps de louer le Seigneur l’Éternel, car c’est l’heure de Sa célébration. Plusieurs lèvres le chanteront, celles qui sont restées longtemps dans les ténèbres et qui n’ont jamais eu l’occasion de le connaître.
 
@@ -264,7 +264,7 @@ N’est-ce pas merveilleux les temps qui sont devant nous ? **Tous les territoi
 
 Qu’est-il écrit ? Ainsi dit le Seigneur :
 
-> Écoutez la parole de l'Éternel, vous qui craignez sa parole. Voici ce que disent vos frères, qui vous haïssent et vous repoussent à cause de mon nom : **que l'Éternel montre sa gloire, et que nous voyions votre joie ! Mais ils seront confondus**. (Ésaïe 66:5)
+> Écoutez la parole de l'Éternel, vous qui craignez sa parole. Voici ce que disent vos frères, qui vous haïssent et vous repoussent à cause de mon nom : **que l'Éternel montre sa gloire, et que nous voyions votre joie ! Mais ils seront confondus**. (Esaïe 66:5)
 
 Ceux qui ne croient pas les Paroles que nous disons maintenant seront confondus, car ils auront méprisé la voix du Seigneur. Et, ils sont nombreux ceux qui ne savent plus ce qui se passe maintenant dans l’Église. Cependant, ne soyez pas inconsidérés, car c’est maintenant le coq qui chante. Il chante pour annoncer le matin du jour du Seigneur.
 

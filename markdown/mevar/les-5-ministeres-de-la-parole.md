@@ -26,7 +26,7 @@ bible_refs:
 ---
 La question de l’exercice des cinq Ministères de la Parole dans l’Église est l’un des thèmes les plus importants pour notre époque. Comme le précise Éphésiens 4 dans les versets 10 à 13, le but des cinq Ministères est d’amener à la perfection les enfants de Dieu par le moyen de la prédication.
 
-> \[_…\] jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ._ (Éphésiens 4:13)
+> \[_…\] jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ._ (Éphésiens. 4:13)
 
 Ce passage indique clairement que le travail des Ministres ne doit pas s’arrêter ou même être relégué au second plan avant que le but du Seigneur ne soit atteint. C’est là que se trouve toute l’importance du thème traité dans cet ouvrage pour le temps dans lequel nous sommes maintenant.
 
