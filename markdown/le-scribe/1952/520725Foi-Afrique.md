@@ -56,7 +56,7 @@ bible_refs:
   - "Matthieu 18:18"
 original: "branham/1952/52-0725"
 ---
-**1.** Je suis heureux d’être ici pour servir le Seigneur et vous parler de Jésus-Christ, de son sacrifice pour votre corps et pour votre âme, pour votre joie. Jean écrivait : “Je souhaite que tu sois en bonne santé.” [3 Jean 1:2]. C’est la volonté de Dieu que nous soyons en bonne santé si nous pouvons avoir la foi. Je peux me tromper, mais j’ai découvert que 80% des gens qui disent avoir la foi n’ont en fait que de l’espoir. La foi est une certitude, elle est positive et inébranlable.
+**1.** Je suis heureux d’être ici pour servir le Seigneur et vous parler de Jésus-Christ, de son sacrifice pour votre corps et pour votre âme, pour votre joie. Jean écrivait : “Je souhaite que tu sois en bonne santé.” [3 Jn. 2]. C’est la volonté de Dieu que nous soyons en bonne santé si nous pouvons avoir la foi. Je peux me tromper, mais j’ai découvert que 80% des gens qui disent avoir la foi n’ont en fait que de l’espoir. La foi est une certitude, elle est positive et inébranlable.
 
 **2.** L’âme a 2 sens. Le corps est gouverné par 5 sens : la vision, le goût, le toucher, l’odorat, l’ouïe. La foi est le 6e sens du corps. Les chrétiens superficiels craignent de se lancer dans les profondeurs. Ils veulent avoir pied. Lors du voyage en Afrique, le Seigneur m’avait dit où aller et quoi faire. Mais tout avait été organisé différemment, les organisateurs ne comprenaient pas, et ils ne m’ont pas laissé faire. “Bien, mais vous le paierez.” J’ai encore prié, et Dieu m’a donné la permission de continuer, mais il m’a dit que je paierais, et j’ai payé comme toute l’équipe. C’est moi qui ai le plus souffert avec une amibiase détectée plus tard. Si nous avions fait ce que le Seigneur avait dit, deux cent mille âmes auraient sans doute été sauvées.
 
@@ -92,11 +92,11 @@ original: "branham/1952/52-0725"
 
 **18.** Mais ils ont chargé les voitures. Je ne voulais pas y aller. “Vous devez y aller !” Je suis sorti, tandis que le Saint-Esprit continuait de me condamner : “Il vaut mieux que tu n’y ailles pas !” – “Mon Dieu, que puis-je faire ? Je suis ici à leur merci.” Je me sentais de plus en plus mal. “Arrêtez la voiture.” Les autres voitures se sont arrêtées. J’étais avec Mr. Schoeman, et il y avait là mon fils Billy Paul, Mr. Stadsklev, Bosworth, et des membres du Comité. “Je n’irai pas plus loin, le Seigneur m’a dit de rebrousser chemin.” Ils ont commencé à se fâcher, et un membre du Comité m’a dit : “Frère Branham, ne pensez-vous pas que Dieu parle aussi à d’autres ?”
 
-**19.** J’ai répondu : “Korê a pensé la même chose de Moïse, et la terre l’a englouti.” [Nombres 16]. “Je ne sais pas ce que Dieu vous a dit, mais je sais ce qu’Il m’a dit.” – “Il nous a dit de prendre cet itinéraire.” – “Il m’a dit de ne pas le faire.” La situation a empiré. Pour finir, le frère Baxter a dit : “Il aurait mieux valu que tu ne parles pas de la partie de chasse.”
+**19.** J’ai répondu : “Korê a pensé la même chose de Moïse, et la terre l’a englouti.” [Nb. 16]. “Je ne sais pas ce que Dieu vous a dit, mais je sais ce qu’Il m’a dit.” – “Il nous a dit de prendre cet itinéraire.” – “Il m’a dit de ne pas le faire.” La situation a empiré. Pour finir, le frère Baxter a dit : “Il aurait mieux valu que tu ne parles pas de la partie de chasse.”
 
 **20.** “Ces pasteurs pensent que tu es venu ici pour chasser, et la moitié d’entre eux sont contre la chasse. Des milliers de malades sont mourants là-bas, et tu parles d’aller à la chasse.” – “Peu m’importe de ne plus tirer un seul coup de fusil. Je ferai seulement ce que Dieu m’a dit de faire. Tu es bien placé pour savoir ce que cela signifie quand je parle au Nom du Seigneur, d’après une vision.” – “Est-ce vraiment une vision de Dieu ?” – “Oui.” – “Alors je ne veux plus m’en mêler. Fais ce que tu as à faire, je serai de ton côté.” J’ai continué à me disputer avec eux. Nous sommes arrivés à une heure. Les gens attendaient.
 
-**21.** La ville était envahie de gens, il n’y avait pas de service d’ordre. On m’a logé chez le frère Fourie. Dès que je me suis assis à table, le Seigneur m’a dit ce qui n’allait pas chez sa femme, combien elle souffrait, et elle a été guérie sur-le-champ. C’était la grâce souveraine de Dieu alors même que j’étais en-dehors de sa volonté ! “Les dons et les appels sont sans repentance” [Romains 11:29].
+**21.** La ville était envahie de gens, il n’y avait pas de service d’ordre. On m’a logé chez le frère Fourie. Dès que je me suis assis à table, le Seigneur m’a dit ce qui n’allait pas chez sa femme, combien elle souffrait, et elle a été guérie sur-le-champ. C’était la grâce souveraine de Dieu alors même que j’étais en-dehors de sa volonté ! “Les dons et les appels sont sans repentance” [Rom. 11:29].
 
 **22.** Le soir, au moment d’aller à la réunion, il y a eu un violent orage tropical, avec éclairs et tonnerre. A dix heures du soir, ils n’ont pas pu me mener près de l’endroit. Il n’y a pas eu de réunion. “Je vous avais prévenu : le Seigneur avait dit de ne pas venir ici. Je suis en dehors de sa volonté. Je dois revenir à Johannesburg.” – “C’est impossible, nous avons promis aux frères.”
 
@@ -106,7 +106,7 @@ original: "branham/1952/52-0725"
 
 **25.** Nous sommes sensés aller à Chicago la semaine prochaine. Mais s’il me dit de rester à Zion, j’y resterai. Un jour, j’avais eu une bonne réunion à Saint Louis, Missouri. Le soir, le Saint-Esprit est venu me dire de repartir vers Zion que je venais de quitter. Vous vous en souvenez, et vous avez vu ce qu’Il a fait. Là, nous avons discuté toute la nuit : “Demain nous retournons à Johannesburg.”
 
-**26.** La situation était affreuse. Qui allait m’aider ? “C’est comme lorsque Paul a dit qu’ils auraient dû l’écouter [Actes 27:21]. Dieu a certes une volonté permissive, mais ce que je veux, c’est faire sa volonté parfaite. Je veux savoir ce qu’il veut que je fasse, et je le fais.” Quand ils m’ont entendu parler de volonté permissive, c’était fini.
+**26.** La situation était affreuse. Qui allait m’aider ? “C’est comme lorsque Paul a dit qu’ils auraient dû l’écouter [Act. 27:21]. Dieu a certes une volonté permissive, mais ce que je veux, c’est faire sa volonté parfaite. Je veux savoir ce qu’il veut que je fasse, et je le fais.” Quand ils m’ont entendu parler de volonté permissive, c’était fini.
 
 **27.** Je suis allé prier dans ma chambre. Il y avait deux petits lits. Billy a posé la main sur mon épaule : “Papa, n’écoute pas cette bande de prédicateurs, écoute ce que Dieu te dit.” – “Je suis épuisé.” – “Nous rentrerons à la maison d’une façon ou d’une autre.”
 
@@ -144,7 +144,7 @@ original: "branham/1952/52-0725"
 
 **44.** Je suis revenu à moi. Souvenez-vous donc que je tiendrais une réunion à l’est de Durban, en Inde je crois, devant 30 000 personnes [vision accomplie en automne 1954 à Bombay]. J’avais de la même façon annoncé la résurrection d’un jeune garçon en Finlande un an à l’avance.
 
-**45.** J’ai levé les mains pour bénir Dieu. Une Bible est alors descendue, ouverte sur le texte de Paul dans la tempête, puis les pages ont tourné jusqu’au chapitre 1 de Josué, et Quelque chose l’a lu : “Moïse, mon serviteur, est mort ; maintenant, lève-toi, passe ce Jourdain, toi et tout ce peuple, … Nul ne tiendra devant toi, tant que tu vivras. Je serai avec toi, comme j'ai été avec Moïse … Fortifie-toi seulement et aie bon courage … car l'Éternel, ton Dieu, est avec toi dans tout ce que tu entreprendras” [cf. Josué 1:2-9]. J’ai tendu le bras pour prendre la Bible … mais elle était en l’air ! Je n’ai rien saisi.
+**45.** J’ai levé les mains pour bénir Dieu. Une Bible est alors descendue, ouverte sur le texte de Paul dans la tempête, puis les pages ont tourné jusqu’au chapitre 1 de Josué, et Quelque chose l’a lu : “Moïse, mon serviteur, est mort ; maintenant, lève-toi, passe ce Jourdain, toi et tout ce peuple, … Nul ne tiendra devant toi, tant que tu vivras. Je serai avec toi, comme j'ai été avec Moïse … Fortifie-toi seulement et aie bon courage … car l'Éternel, ton Dieu, est avec toi dans tout ce que tu entreprendras” [cf. Jos. 1:2-9]. J’ai tendu le bras pour prendre la Bible … mais elle était en l’air ! Je n’ai rien saisi.
 
 **46.** J’ai alors entendu ma femme frapper à la porte. “Un problème Bill ? A 3 heures, le bébé [Sarah, née le 19.03.1951] était agité, et je suis venu te réveiller” Elle est très spirituelle et paisible, mais c’était la première fois que cela se produisait à la maison. Quelque chose lui avait dit : “N’entre pas, une vision est en cours.” Elle a attendu, assise, surveillant le bébé. J’ai aussitôt pris ma Bible et écrit la vision sur un feuillet, et beaucoup l’ont lue.
 
@@ -184,7 +184,7 @@ original: "branham/1952/52-0725"
 
 **63.** Approchez, frère … je ne vous ai pas vu, mais je vois que vous êtes déjà venu dans une de mes réunions … vous vous sentez déjà mieux … vous allez être libéré de cette nervosité, la bénédiction est encore sur vous, ne vous inquiétez pas.
 
-**64.** Il faut parfois attendre plusieurs jours. Daniel a attendu 21 jours. J’ai vu des gens attendre des semaines. Et soudain l’Ange est passé par là. “Tout ce que vous lierez sur terre, je le lierai au Ciel, et ce que vous délierez, je le délierai” [Cf. Matthieu 18:18]. Telle est sa Souveraineté.
+**64.** Il faut parfois attendre plusieurs jours. Daniel a attendu 21 jours. J’ai vu des gens attendre des semaines. Et soudain l’Ange est passé par là. “Tout ce que vous lierez sur terre, je le lierai au Ciel, et ce que vous délierez, je le délierai” [Cf. Mt. 18:18]. Telle est sa Souveraineté.
 
 **65.** Madame, croyez-vous que je suis son prophète ? … il y a un rapport avec ce qu’avait l’autre femme … une tumeur… mais c’est à la tête. [Prière] …
 

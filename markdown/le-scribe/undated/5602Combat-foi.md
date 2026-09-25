@@ -72,7 +72,7 @@ foi personnelle au Seigneur Jésus.
  __________________________________
  §7 à 9- [Remerciements divers]. Tout le monde peut tourner les pages de la Bible, mais nul
 ne peut en donner la compréhension si ce n'est Christ, car elle a été écrite sous
-inspiration. [Prière]. Lisons Jude 1:3
+inspiration. [Prière]. Lisons Jude 3
  “Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti
 obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une
 fois pour toutes.”
@@ -146,7 +146,7 @@ les incrédules ne s'y retrouvent pas en voyant les chrétiens vivre comme eux. 
 une ville de brigands, avait mauvaise réputation. Nous disons de même : “Peut-il venir
 quelque chose de bien de chez les Méthodistes ou de chez les Baptistes ?”
  §25 à 26- Il faut vérifier par la Parole de Dieu : “Quiconque ajoute ou retranche au
-Livre aura son nom retranché du Livre de Vie.” (Apocalypse 22:18). Nous devons donc rester
+Livre aura son nom retranché du Livre de Vie.” (Apoc. 22:18). Nous devons donc rester
 avec ce que disent les Ecritures. Nathanaël a suivi Philippe. Voyons ce que Jésus
 était si nous voulons le trouver ce soir. Il était dans la chair, comme nous. Si nous
 cherchons un homme habillé différemment des autres, nous ne trouverons pas Jésus.

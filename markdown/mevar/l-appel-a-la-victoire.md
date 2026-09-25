@@ -34,25 +34,25 @@ bible_refs:
 ---
 Nous lisons dans Apocalypse chapitre 2. Je vais lire tous les appels à la victoire qui ont été adressés aux différents âges de l’Eglise. Nous avons 7 âges de l’Eglise et c’est Apocalypse 2 et 3 qui les relatent. Je lirai uniquement les différents appels à la victoire.
 
-#### L’âge d’Ephèse (Apocalypse 2:7)
+#### L’âge d’Ephèse (Apoc 2:7)
 
 Là, nous sommes dans l’âge d’Ephèse, c’est-à-dire le tout premier :
 
 > Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises. **Au vainqueur, je donnerai à manger du fruit de l’arbre de vie qui est dans le paradis de Dieu.**
 
-#### L’âge de Smyrne (Apocalypse 2:11)
+#### L’âge de Smyrne (Apoc 2:11)
 
 > Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises. **Au vainqueur, la seconde mort ne causera pas de mal.**
 
-#### L’âge de Pergame (Apocalypse 2:17)
+#### L’âge de Pergame (Apoc 2:17)
 
 > 17 Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises. **Au vainqueur, je donnerai la manne cachée et une pierre blanche; sur cette pierre est gravé un nom nouveau, que personne ne connaît sauf celui qui le reçoit.**
 
-#### L’âge de Thyatire (Apocalypse 2:25-28)
+#### L’âge de Thyatire (Apoc 2:25-28)
 
 > **Au vainqueur, à celui qui continue à agir jusqu’à la fin selon mon enseignement, je donnerai autorité sur les nations: 27 il les dirigera avec un sceptre de fer, comme on brise les poteries d’argile, 28 ainsi que j’en ai reçu, moi aussi, le pouvoir de mon Père.** C’est-à-dire que Jésus a reçu de son père, le pouvoir de gouverner les nations et de les paître et cette autorité a été donnée aux croyants dans une promesse. **Et je lui donnerai l’étoile du matin. Que celui qui a des oreilles entende ce que l’esprit dit aux églises.**
 
-#### L’âge de Sardes (Apocalypse 3:5-6)
+#### L’âge de Sardes (Apoc 3:5-6)
 
 > **Le vainqueur portera ainsi des vêtements blancs, je n’effacerai jamais son nom du livre de vie, je le reconnaîtrai comme mien en présence de mon Père et de ses anges.** 6 Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises.
 
@@ -60,7 +60,7 @@ Là, nous sommes dans l’âge d’Ephèse, c’est-à-dire le tout premier :
 
 > **12 Du vainqueur, je ferai un pilier dans le Temple de mon Dieu, et il n’en sortira plus jamais. Je graverai sur lui le nom de mon Dieu et celui de la ville de mon Dieu, la nouvelle Jérusalem, qui descend du ciel d’auprès de mon Dieu, ainsi que mon nom nouveau**. 13 Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises.
 
-#### L’âge de Laodicée (Apocalypse 3:21-22)
+#### L’âge de Laodicée (Apoc 3:21-22)
 
 > **Le vainqueur, je le ferai siéger avec moi sur mon trône, comme moi-même, je suis allé siéger avec mon Père sur son trône après avoir remporté la victoire.** 22 Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises.
 
@@ -88,7 +88,7 @@ Tu as besoin de comprendre que Dieu appelle d’autres vases qu’Il remplit pou
 
 **Nous avons été appelés à la victoire et notre victoire est manifestée par la foi.** On va y arriver ! Je vais parler de la foi. On en parle tout le temps parce que c’est le temps où on doit parler de la foi. On ne peut pas avoir la victoire si on n’a pas la foi. Donc quand le Seigneur nous appelle à la victoire, Il nous appelle aussi à la foi et la foi vient de ce qu’on entend. **C’est ce qu’on entend et qu’on comprend qui augmente notre foi**. **C’est cela qui affermit notre foi, qui la fait mûrir et qui la rend RESPONSABLE**. Tout à l’heure notre frère nous a fait prier par rapport à cela. Il faut poser des actes responsables, des actes de maturité spirituelle, mais tu ne peux pas le faire, si tu n’as pas la foi, si tu n’as pas compris la parole que Dieu t’adresse dans ta génération et **surtout si tu n’as pas compris ta PROPRE IDENTITE – CE QUE DIEU A FAIT DE TOI.** J’ai prêché la foi reliée à la nature divine. Si tu ne comprends pas ce que Dieu a fait de toi, tu ne peux pas avoir la foi. Ce n’est pas possible.
 
-**Pour avoir la FOI d’AUJOURD’HUI, nous devons comprendre ce que Dieu a fait de nous aujourd’hui**. Qu’est-ce que Dieu a fait de toi ? Tu ne comprends pas ce que Dieu a fait de toi ou bien tu ne crois pas ce que Dieu a fait de toi, mais tu ne peux pas avoir la foi, celle qui triomphe du monde, dont parle 1 Jean 5. Mais on va d’abord lire 1 Jean 4:4 _Pour vous, enfants, vous êtes de Dieu, et vous les avez vaincus, parce que celui qui est en vous est plus grand que celui qui est dans le monde._ Ce sont des versets importants. On va lire : 1 Jean 5 : \*3 car c’est ici l’amour de Dieu, que nous gardions ses commandements, et ses commandements ne sont pas pénibles, \*\*car tout ce qui est né de Dieu triomphe du monde, et la victoire qui triomphe du monde, c’est notre foi. \*\*\*La victoire qui triomphe du monde, c’est notre foi, mais la question de la foi est relative. Qu’est-ce que ça veut dire ? **ça veut dire qu’on perçoit la foi en fonction du Message qu’on reçoit**. Ceux qui ont eu la foi pour accepter la tribulation et la mort dans les âges passés, ont eu une foi différente de la foi de la conquête, la foi pour foncer et arracher la victoire !
+**Pour avoir la FOI d’AUJOURD’HUI, nous devons comprendre ce que Dieu a fait de nous aujourd’hui**. Qu’est-ce que Dieu a fait de toi ? Tu ne comprends pas ce que Dieu a fait de toi ou bien tu ne crois pas ce que Dieu a fait de toi, mais tu ne peux pas avoir la foi, celle qui triomphe du monde, dont parle 1 Jean 5. Mais on va d’abord lire 1 Jean 4 : 4 _Pour vous, enfants, vous êtes de Dieu, et vous les avez vaincus, parce que celui qui est en vous est plus grand que celui qui est dans le monde._ Ce sont des versets importants. On va lire : 1 Jean 5 : \*3 car c’est ici l’amour de Dieu, que nous gardions ses commandements, et ses commandements ne sont pas pénibles, \*\*car tout ce qui est né de Dieu triomphe du monde, et la victoire qui triomphe du monde, c’est notre foi. \*\*\*La victoire qui triomphe du monde, c’est notre foi, mais la question de la foi est relative. Qu’est-ce que ça veut dire ? **ça veut dire qu’on perçoit la foi en fonction du Message qu’on reçoit**. Ceux qui ont eu la foi pour accepter la tribulation et la mort dans les âges passés, ont eu une foi différente de la foi de la conquête, la foi pour foncer et arracher la victoire !
 
 Cette foi ne se laisse pas dominer, c’est la foi comme celle qu’Elie avait eue, ce n’était pas une foi pour accepter la tribulation, pour s’offrir en sacrifice, comme dans l’âge du veau.Non. **La foi dans l’âge du veau est différente de la foi dans l’âge du lion. Nous sommes dans l’âge de l’aigle, là, la foi est différente.** \[Il est fait référence à Apocalypse 4\]. Il faut comprendre ce que l’esprit dit à l’Eglise. **Nous sommes dans l’âge d’Elie**. En son temps, Elie s’était levé seul contre 950 prophètes de Baal et d’Astarté. Elie était seul contre tout Israël. Ça, c’était une foi différente. Un homme de Dieu seul, qui a affronté toute une nation au mont Carmel. Ce n’est pas la même foi qu’ont eue certains qui se sont laissés persécuter et qui sont morts pour la gloire de Dieu. C’est différent. C’est toujours la foi, mais ce n’est pas la même onction, parce que lorsqu’on parle de la foi, il y a aussi la notion d’ONCTION qu’il faut prendre en compte. L’onction que nous avons reçue dans notre génération est une BROYEUSE, je l’ai dit la dernière fois. Il faut qu’on comprenne cela ! C’est très important ! C’est une onction qui est venue broyer les œuvres du diable.
 

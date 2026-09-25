@@ -43,7 +43,7 @@ original: "branham/1963/63-1201X"
 
 Thème central : Cérémonie de mariage.
 
-**1.** … Mes chers amis, nous sommes réunis ici sous le regard de Dieu, et devant ces gens, pour unir cet homme et cette femme par un saint mariage, que Saint Paul ordonne à tous d’honorer (Hébreux 13:4). On ne doit donc pas s’y engager sans réfléchir ou légèrement, mais dans le respect, la dignité, la simplicité, et dans la crainte de Dieu.
+**1.** … Mes chers amis, nous sommes réunis ici sous le regard de Dieu, et devant ces gens, pour unir cet homme et cette femme par un saint mariage, que Saint Paul ordonne à tous d’honorer (Héb. 13:4). On ne doit donc pas s’y engager sans réfléchir ou légèrement, mais dans le respect, la dignité, la simplicité, et dans la crainte de Dieu.
 
 **2.** Ces deux personnes se présentent pour être unies dans ces liens saints. Si quelqu’un ici peut avancer une raison les empêchant d’être unies légitimement en un saint mariage, qu’il le dise maintenant, sinon qu’il se taise ensuite pour toujours. Je vous demande et vous conjure tous les deux, sachant que vous aurez à répondre au jour du jugement, quand les secrets des cœurs seront révélés, si l’un de vous connaît un empêchement qui rendrait illégitime cette union dans le saint mariage, qu’il le confesse maintenant, car soyez assurés que pour tout couple dont l’union ne serait pas permise par la Parole de Dieu, leur mariage serait illégitime.
 

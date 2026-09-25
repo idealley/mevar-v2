@@ -68,7 +68,7 @@ lors de la Transfiguration.
 **1.** J’ai apprécié ce chant. Comme à chaque Nouvel An, tout le monde tourne
 une nouvelle page ce soir. Il y aura beaucoup de vœux, mais peu seront tenus. Paul a
 dit : “Oubliant ce qui est en arrière, et me portant vers ce qui est en avant, je cours
-vers le but, pour remporter le prix de la vocation céleste de Dieu en Jésus-Christ” [Philippiens 3:14]. Je regrette mes erreurs et je lui demande humblement de courir vers le but. Nous
+vers le but, pour remporter le prix de la vocation céleste de Dieu en Jésus-Christ” [Phil. 3:14]. Je regrette mes erreurs et je lui demande humblement de courir vers le but. Nous
 pensons tous ainsi. Plusieurs pasteurs sont venus et parleront jusqu’à minuit. Je salue
 le frère Drummond Thoms et sa femme Charlotte, un jeune couple qui rentre
 d’Afrique. C’est un bon prédicateur, un homme sincère et courageux. Je souhaite à tous
@@ -85,7 +85,7 @@ publicité avec de grandes affiches.
 **21.** Les frères de Jésus lui ont proposé d’aller se faire connaître par des miracles
 à Jérusalem, au lieu de perdre son temps avec le bas peuple [Jean 7:2-5]. Il a répondu que
 son heure n’était pas encore venue. Esaïe avait annoncé la venue de Jean-Baptiste 712
-ans avant sa naissance : “Une voix criera dans le désert” [cf. Ésaïe 40:3]. Mais, face à ces
+ans avant sa naissance : “Une voix criera dans le désert” [cf. Es. 40:3]. Mais, face à ces
 prophéties, les prédicateurs ont pensé que tout le monde serait au courant de sa venue,
 et que ce grand prophète descendrait du ciel dans un char de feu. Il est apparu dans le
 désert, vêtu de peaux de brebis, se baignant une fois tous les trois mois. Il a pourtant
@@ -97,7 +97,7 @@ passent, et le monde ne voit rien.
 **27.** Ils croient que ce qui est glorieux, ce sont ces grands bâtiments et ces
 émissions télévisées. C’est une folie aux yeux de Dieu. Ce qui est une folie pour les
 hommes est grand pour Dieu, et ce qui est grand pour les hommes est une folie
-pour Dieu. “Il lui a plu de sauver les perdus par la folie de la prédication” [cf. 1 Corinthiens 1:21]. Jean passait pour un fanatique. Et ce Jésus né dans une étable, d’une mère
+pour Dieu. “Il lui a plu de sauver les perdus par la folie de la prédication” [cf. 1 Cor. 1:21]. Jean passait pour un fanatique. Et ce Jésus né dans une étable, d’une mère
 enceinte avant même d’être mariée, ne pouvait pas être le Messie ! C’était grand, mais
 ils ne l’ont pas discerné. De même, l’Evangile n’a jamais autant secoué qu’aujourd’hui.
 Il secoue au milieu d’un petit reste. “Si vous entrez dans une ville et qu’ils ne vous
@@ -136,7 +136,7 @@ voir les choses qui doivent arriver dans la suite après celles-ci”.
 terre après l’enlèvement de l’Eglise, et pour préparer l’enlèvement d’Israël. L’Eglise
 réapparaît au chapitre 19 et revient avec l’Epoux : “Réjouissons-nous et soyons dans
 l'allégresse, et donnons-lui gloire ; car les noces de l'Agneau sont venues, et son
-épouse s’est préparée” [Apocalypse 19:7].
+épouse s’est préparée” [Apoc. 19:7].
 
 **63.** Quand un chrétien vient d’être sauvé, sa foi se tourne vers Christ. Puis il
 doit faire quelque chose de lui-même, se sanctifier, laisser les fardeaux, se préparer.
@@ -184,7 +184,7 @@ Un jour, il y aura un rassemblement dans les airs ! Restez prêts, purifiez votr
 de toute mauvaise pensée, ayez foi, même si tout semble sombre et que l’on se moque
 de vous, vivez saintement pour Dieu, allez de l’avant !
 
-**92.** “Et voici, une porte était ouverte dans le ciel” [Apocalypse 4:1]. En Apocalypse 3:8 [lettre à l’église de Philadelphie], il est écrit : “J’ai mis devant toi une porte ouverte que
+**92.** “Et voici, une porte était ouverte dans le ciel” [Apoc. 4:1]. En Apocalypse 3:8 [lettre à l’église de Philadelphie], il est écrit : “J’ai mis devant toi une porte ouverte que
 personne ne peut fermer”. Christ est la Porte ! “Je suis la Porte des brebis” [Jean 10:7].
 Dans certains pays, le berger se couche en travers de la porte : le loup ne peut pas
 entrer et les brebis ne peuvent pas sortir. Quelle sécurité pour les brebis ! Noé se tenait
@@ -195,7 +195,7 @@ Porte.
 
 **98.** Il a mis une “porte ouverte” devant les Méthodistes sanctifiés, mais ils
 ont fait une organisation. Le Saint-Esprit est la Porte : “Par un seul Esprit nous
-sommes baptisés en un seul Corps” qui est Christ [cf. 1 Corinthiens 12:13]. Mais ils se sont
+sommes baptisés en un seul Corps” qui est Christ [cf. 1 Cor. 12:13]. Mais ils se sont
 détournés. On entre en Christ par le baptême de l’Esprit de Christ qui rend
 participant du Corps. Cette Porte est dans le Ciel, et Jean l’a vue : “Une porte était
 ouverte dans le ciel”. Il a levé les yeux, et il a vu Jésus.
@@ -242,7 +242,7 @@ Après avoir quitté la terre, Christ est revenu dans le Corps sous la forme du 
 Esprit, pour vivre dans l’Eglise, en nous. Après avoir montré la fin de l’âge, la fin de
 son œuvres sur terre, il est monté au Ciel : “Je vais te montrer ce qui va se passer
 ensuite, monte vers moi”. Et Jean fut enlevé dans la gloire. Cela ressemble à
-l’expérience de Paul de 2 Corinthiens 12:2 à 4. Paul a vu des choses au troisième ciel
+l’expérience de Paul de 2 Corinthiens 12 :2 à 4. Paul a vu des choses au troisième ciel
 qu’il n’est pas permis à un homme d’exprimer, et je crois qu’il n’aurait pas pu le
 raconter. Je ne suis pas remis moi-même du petit voyage que j’ai fait [allusion à la vision
 de l’au-delà du 8.5.1960].
@@ -292,7 +292,7 @@ en Esprit et lui a montré en avant-première ce qui allait arriver.
 
 **149.** Il a entendu la Voix de Quelqu’un qui était derrière lui. Cette Voix avait
 quitté la terre, elle était montée et était entrée dans la Gloire. “… Monte ici, et je te
-ferai voir les choses qui doivent arriver dans la suite après celles-ci” [Apocalypse 4:1]. Quelle
+ferai voir les choses qui doivent arriver dans la suite après celles-ci” [Apoc. 4:1]. Quelle
 Voix ! C’est celle de Christ, c’est la Voix qui appellera un jour l’Eglise :
 > “Car le Seigneur lui-même, à un signal donné, à la voix d’un Archange, et au son de la
 trompette de Dieu, descendra du ciel, et les morts en Christ ressusciteront premièrement. –
@@ -312,7 +312,7 @@ de Dieu, claire et puissante, sonnera. Elle n’a pas un son confus. Nul ne sait
 l’âme de Lazare, et cela importe peu, mais au son de la trompette, ce corps en
 décomposition est sorti du tombeau ! La même Voix retentit ce soir : “Repens-toi et je
 te donnerai la Vie éternelle ; sois baptisé au Nom de Jésus-Christ pour la rémission de
-tes péchés et tu recevras le don du Saint-Esprit” [cf. Actes 2:38]. Il n’y a là rien de confus.
+tes péchés et tu recevras le don du Saint-Esprit” [cf. Act. 2:38]. Il n’y a là rien de confus.
 Cette trompette de l’Evangile est la vérité, et des millions en sont témoins. “Celui qui
 entend les paroles et croit en Celui qui m’a envoyé a la Vie éternelle. Celui qui croit en
 moi vivra, quand même il serait mort. Celui qui vit et croit en moi ne mourra jamais.
@@ -320,7 +320,7 @@ Celui qui mange ma chair et boit mon Sang a la Vie éternelle, et je le ressusci
 dernier jour”.
 
 **167.** “… Un trône était dressé dans le ciel, et sur ce trône quelqu'un était
-assis” [Apocalypse 4:2]. Il n’est plus au milieu des lampes, mais sur son trône, dans la Gloire.
+assis” [Apoc. 4:2]. Il n’est plus au milieu des lampes, mais sur son trône, dans la Gloire.
 Ce n’est plus le trône de la Grâce, mais le trône du jugement, parce que des
 éclairs et des tonnerres en sortent. Il n’y a plus de grâce, les âges de l’église sont
 terminés. Le Sang est encore sur le trône ce soir, mais, ce jour-là, un Dieu irrité siégera
@@ -337,7 +337,7 @@ communion personnelle avec Christ, et qui seraient enlevés avant la tribulation
 
 **178.** “Et celui qui était assis était d'un aspect semblable à la pierre de jaspe et
 de sardoine. Et un arc-en-ciel était autour du Trône, d'un aspect semblable à
-l'émeraude” [Apocalypse 4:3]. [Chant]. Jésus avait promis que “quelques-uns”, pas “tous”,
+l'émeraude” [Apoc. 4:3]. [Chant]. Jésus avait promis que “quelques-uns”, pas “tous”,
 verraient de leur vivant le Fils de l’homme entrer dans son règne, et Pierre, Jacques et
 Jean l’ont vu. Moïse représentait les morts ressuscités, et Elie, le messager du dernier
 âge, représentait avec son groupe ceux qui seront enlevés par la Colonne de Feu.

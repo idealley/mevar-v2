@@ -35,13 +35,13 @@ puissions faire, c’est de l’aimer et de croire, et il se manifestera bientô
 journaux me qualifient de guérisseur divin, mais je ne suis que votre frère, et seul Dieu
 guérit. Un Don de guérison ne fait pas de vous un guérisseur divin, pas plus que le Don
 de prédication ne fait de vous un sauveur divin. Mais Dieu confirme ses Dons : “Pour
-avoir possédé la foi, les anciens ont obtenu un témoignage favorable” [Hébreux 11:2]. Si Dieu
+avoir possédé la foi, les anciens ont obtenu un témoignage favorable” [Héb. 11:2]. Si Dieu
 ne confirme pas mes paroles, c’est que je n’ai pas dit la vérité. Mais si Dieu les
 confirme, vous devez croire que c’est de Dieu.
    §4 à 5- Ce Don ne guérit personne. Jésus lui-même a dit que ce n’était pas lui qui
 guérissait : “Ce n’est pas moi qui fais les œuvres … le Père qui demeure en moi, c’est lui
 qui fait les œuvres” [Jean 14:10]. Il a donné gloire au Père. “Dieu ne se repent pas de ses
-dons et de son appel” [Romains 11:29]. Ils sont nés sur terre par la prescience de Dieu. Cela
+dons et de son appel” [Rom. 11:29]. Ils sont nés sur terre par la prescience de Dieu. Cela
 ne dépend pas de votre désir ou de vos efforts, mais de la prescience de Dieu. J’aurais
 voulu être grand, mais je suis satisfait d’être comme Dieu m’a fait. Et je fais de mon
 mieux pour le glorifier. Un Don ne fait rien par lui-même, car les gens ne peuvent
@@ -56,12 +56,12 @@ C’était une image de Jésus-Christ venu plus tard porter notre péché et not
 Plus tard Dieu a envoyé un ange à la piscine de Béthesda. Celui qui y plongeait le
 premier avec foi était guéri. Ce n’est pas l’eau qui guérissait, mais l’Ange.
    §8 à 9- C’est Dieu, dans un homme qui lui est soumis, qui fait les œuvres. Dieu
-était en Christ réconciliant le monde avec lui-même [2 Corinthiens 5:19]. Dieu ressuscitait les
+était en Christ réconciliant le monde avec lui-même [2 Cor. 5:19]. Dieu ressuscitait les
 morts et calmait la tempête au travers de lèvres humaines. Après son ascension, il a
 donné des Dons aux hommes, et ceux qui avaient foi en l’homme en qui Dieu demeurait
 étaient guéris. Paul était un pécheur racheté par le Sang, comme nous. Ce n’est pas lui
 qui guérissait. Mais l’Esprit de Dieu guérissait ceux qui avaient la foi en entrant en
-contact avec des mouchoirs que Paul avait touché [Actes 19:12].
+contact avec des mouchoirs que Paul avait touché [Act. 19:12].
    §10 à 11- Si je possédais un esprit d’artiste, je ferais une œuvre d’artiste. L’Esprit
 d’Elie sur Elisée ou sur Jean-Baptiste a produit ce qu’Elie avait fait. Ils sont allés au
 désert. Si je suis Chrétien et si l’Esprit de Christ est sur moi, je suis censé agir comme
@@ -128,7 +128,7 @@ venir en aide. Mais détecter votre maladie ne vous guérit pas. Cela encourage 
 manifesté, et maintenant je dis sur l’estrade les secrets des cœurs et les péchés non
 confessés, etc. Cela ne guérit pas, mais vous aide à croire en Jésus. “Il était blessé
 pour nos iniquités ; le châtiment qui nous donne la paix est tombé sur lui, et c’est par ses
-meurtrissures que nous sommes guéris” [Ésaïe 53:5]. C’est lui ! Je ne suis donc qu’un
+meurtrissures que nous sommes guéris” [Es. 53:5]. C’est lui ! Je ne suis donc qu’un
 canal, un homme qui ne vaut pas certains frères ici présents.
    §24 à 26- Je ne connais pas les gens dont je discerne la maladie et les pensées. C’est le
 Don de Dieu. C’est pour que vous sachiez qu’il est ici. Nathanaël ne croyait pas que
