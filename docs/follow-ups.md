@@ -40,12 +40,6 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: after goal 14 merges, drop `WAIT` from `65c` and rerun it, then 65, 47 and 50.
 
-## 65 reads "est 1" as Esther 1
-
-**Status**: the book variant "Est" matches the verb in any case: "son cachet c'est 1 million", "on est 7,7 milliards" record `Esther 1`, `Esther 7`. 12 works. Before goal 15 the text itself read "c'Esther 1 million"; 65c put the words back, the false ref stays.
-
-**Fix**: in 65, read the variants that are also French words ("Est", "Es", "Os") only with a capital. Not goal 15, which leaves what 65 recognises alone.
-
 ## Printed page furniture is inside the sermon bodies
 
 **Status**: the PDF extractor merged the booklet's running headers and footers into the text. `THE SPOKEN WORD` appears **5,894** times across **840** Branham files, and `QUES TIONS A ND ANSWERS ON` (a spaced-out running header) 23 times. A reader sees it: `53-0729` reads "…and now we're 18 THE SPOKEN WORD at the eye age".
@@ -76,7 +70,7 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Symptom**: 60-odd `Esther <n>` refs in files that never mention Esther.
 
-**Cause**: `Est` is an accepted abbreviation for Esther in `65-normalize-bible.mjs`, and `est` is the French verb. `c'est 11 heures` becomes `Esther 11`. The same shape hits `Job` (`Jb`), `Ruth`, `Amos`, `Ge`, `Ne`.
+**Cause**: `Est` is an accepted abbreviation for Esther in `65-normalize-bible.mjs`, and `est` is the French verb. `c'est 11 heures` becomes `Esther 11`. Until goal 15 the old rewrites had also put it in the text ("son cachet c'Esther 1 million"); 65c put the words back, the false ref stays (12 works read `est <n>` today). The same shape hits `Job` (`Jb`), `Ruth`, `Amos`, `Ge`, `Ne`.
 
 **Fix**: drop the variants that collide with common French words, or require a chapter:verse pair (not a bare chapter) for the two-letter variants. The impossible-chapter filter added in goal 02 catches only the ones above the book's chapter count.
 
