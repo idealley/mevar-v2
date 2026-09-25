@@ -127,6 +127,12 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 
 **Fix**: if it matters, have the page ask the worker to cache `location.href` once it is active (a few lines in the registration).
 
+## CMPP translations with no Branham link
+
+**Status**: `markdown/cmpp/` holds 107 works with `preacher: "William Branham"`, the CMPP's French translations (1954 to 1965 by frontmatter date, all filed under `cmpp/undated/`; the full Seven Seals series of March 1963 among them). None carries `original:` and no Branham file points back at them, so a reader on the English sermon does not learn that a full French translation exists, and the Branham timeline in `infographics.md` cannot count them per sermon.
+
+**Fix**: the same approach as `49-link-le-scribe-branham.mjs`, by date then title against the English title, writing `original:` on the translation and a `translation_fr:` twin of `summary_fr` on the sermon. Then move the files out of `undated/` into their year, since the date is known.
+
 ## Cross-language linking
 
 **Idea**: when a French sermon cites `"Matthieu 24:6"` and an English Branham sermon cites `"Matthew 24:6"`, both currently land on different `bible_ref` records (`matthieu_24_6` vs `matthew_24_6`). They should resolve to the same conceptual verse.
