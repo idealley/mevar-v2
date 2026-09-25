@@ -169,16 +169,22 @@ for (const summary of summaries) {
   }
 }
 
-// A sermon claimed by two summaries means one of them is wrong — drop both.
+// A sermon claimed by two summaries means one of them is wrong — drop both,
+// unless Samuel answered one: his answer stays. Two answers for one sermon
+// cannot both be its summary_fr; both wait, with a warning.
 const claimants = new Map();
 for (const [ref, sermon] of links) {
   if (!claimants.has(sermon.ref)) claimants.set(sermon.ref, []);
   claimants.get(sermon.ref).push(ref);
 }
+const answered = (ref) => decided[path.basename(ref)] !== undefined;
 for (const [sermonRef, refs] of claimants) {
   if (refs.length < 2) continue;
   const sermon = links.get(refs[0]);
-  for (const ref of refs) {
+  const kept = refs.filter(answered);
+  if (kept.length > 1) console.warn(`two answers name ${sermonRef}: ${kept.join(", ")}; neither is linked`);
+  const dropped = kept.length === 1 ? refs.filter((ref) => ref !== kept[0]) : refs;
+  for (const ref of dropped) {
     const summary = summaries.find((s) => s.ref === ref);
     links.delete(ref);
     unresolved.push({
@@ -189,7 +195,7 @@ for (const [sermonRef, refs] of claimants) {
       candidates: [{ branham: sermonRef, title: sermon.fields.title ?? null }],
     });
   }
-  stats["claimed twice"] = (stats["claimed twice"] ?? 0) + refs.length;
+  stats["claimed twice"] = (stats["claimed twice"] ?? 0) + dropped.length;
 }
 
 // ─── Write the frontmatter on both sides ────────────────────────────────────
