@@ -100,6 +100,7 @@ for (const rel of fs.readdirSync(path.join(root, "markdown/branham"), { recursiv
     const i = lines.findIndex((l) => l.startsWith(`${k}: `));
     if (v === undefined) {
       if (i >= 0) lines.splice(i, 1);
+      if (i >= 0 && i <= after) after--;
       continue;
     }
     const line = `${k}: ${typeof v === "number" ? v : JSON.stringify(v)}`;

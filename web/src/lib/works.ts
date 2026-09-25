@@ -149,7 +149,7 @@ export async function worksTagged(name: string): Promise<WorkEntry[]> {
 
 // ─── Preachers ───────────────────────────────────────────────────────────────
 
-export type Preacher = (typeof PREACHERS)[number];
+type Preacher = (typeof PREACHERS)[number];
 export { PREACHERS };
 
 /**
@@ -175,15 +175,12 @@ export interface Chapter {
   verses: Map<number, WorkEntry[]>;
 }
 
-let chapters: Map<string, Chapter> | undefined;
-
 /**
  * Every chapter a built work cites, from manifests/bible-refs.json (the
  * frontmatter keeps 50 refs a work). A range cites each of its verses. Each
  * list is Mevar first, then the archive, newest first in each.
  */
 export async function bibleChapters(): Promise<Map<string, Chapter>> {
-  if (chapters) return chapters;
   const refs: Record<string, string[]> = bibleRefs;
   const map = new Map<string, Chapter>();
   for (const e of await allWorks()) {
@@ -202,6 +199,5 @@ export async function bibleChapters(): Promise<Map<string, Chapter>> {
     mevarFirst(c.whole);
     c.verses.forEach(mevarFirst);
   }
-  chapters = map;
   return map;
 }
