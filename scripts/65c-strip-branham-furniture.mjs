@@ -130,7 +130,12 @@ for (const file of mdFiles) {
 
   const { source, titles } = readPdf(pdfOf(file));
   if (!titles.size) continue;
-  const titleRe = new RegExp(`(?<![\\p{L}])(${[...titles].sort((a, b) => b.length - a.length).map((t) => t.split(" ").map(escRe).join("[ \\t]+")).join("|")})(?![\\p{L}])`, "gu");
+  // The PDF spaces some titles out ("THE PR ESENCE OF"), our text often does
+  // not: a title matches with any spacing between its letters, and a hit is
+  // read back as the PDF's title.
+  const bare = (t) => t.replace(/\s+/g, "");
+  const titleOf = new Map([...titles].map((t) => [bare(t), t]));
+  const titleRe = new RegExp(`(?<![\\p{L}])(${[...titleOf.keys()].sort((a, b) => b.length - a.length).map((t) => [...t].map(escRe).join("[ \\t]*")).join("|")})(?![\\p{L}])`, "gu");
 
   // Removing a header can give its neighbour the context it lacked, so the
   // pass repeats until nothing moves.
@@ -139,7 +144,7 @@ for (const file of mdFiles) {
     prev = out;
     left = [];
     for (const hit of [...out.matchAll(titleRe)].reverse()) {
-      const title = hit[1].replace(/[ \t]+/g, " ");
+      const title = titleOf.get(bare(hit[1]));
       const rs = readings(out, hit);
       // An odd-page title with no number is the sermon's own title, not a
       // header; so is one that opens the body (page 1 has no header).
