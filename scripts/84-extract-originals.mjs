@@ -5,8 +5,7 @@
 // and the check compares against it.
 //
 // The PDF through LiteParse without OCR: its own text layer, word for word
-// (LlamaParse was tried and rewrites words: "vends" → "vendis"). The one
-// text whose only original is a .docx brings a reader with its batch.
+// (LlamaParse was tried and rewrites words: "vends" → "vendis").
 //
 // A text already in .parse-cache/ is not extracted again. The originals are
 // the OneDrive folder at onedrive/ (gitignored, as for 60 and 61).
