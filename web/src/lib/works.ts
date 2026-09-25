@@ -82,13 +82,15 @@ export const CATEGORIES: Record<string, { title: string; tag: string; kinds: str
 };
 
 /**
- * A work tagged with categories is in each of them, as on Ghost (33 posts are
- * both « Prédications » and « Etudes Bibliques »); any other is in the
- * category of its kind.
+ * As on Ghost, a Ghost post is in each category it is tagged with (33 are both
+ * « Prédications » and « Etudes Bibliques »), and in none without such a tag
+ * (the « Chaîne de prière » months, « Nouveau site web »…: Samuel, 2026-09-25).
+ * Any other work is in the category its tags name, or else its kind's.
  */
 function inCategory(e: WorkEntry, category: string): boolean {
   const tags = Object.values(CATEGORIES).map((c) => c.tag).filter((t) => e.data.tags?.includes(t));
-  return tags.length ? tags.includes(CATEGORIES[category].tag) : CATEGORIES[category].kinds.includes(deriveKind(e.data));
+  if (tags.length || e.data.source === "mevar") return tags.includes(CATEGORIES[category].tag);
+  return CATEGORIES[category].kinds.includes(deriveKind(e.data));
 }
 
 /** A category's works: the Mevar ones, and the archive's by source. */
