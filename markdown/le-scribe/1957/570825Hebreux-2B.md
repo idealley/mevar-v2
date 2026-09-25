@@ -70,6 +70,7 @@ bible_refs:
   - "Actes 8:17"
   - "Actes 10:48"
   - "Actes 19:5"
+original: "branham/1957/57-0825E"
 ---
 **Résumé de!: “Hébreux, chapitre 2, seconde partie” (25 août 1957 soir)**
 

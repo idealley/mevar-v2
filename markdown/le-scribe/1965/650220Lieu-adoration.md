@@ -61,6 +61,7 @@ bible_refs:
   - "Malachie 4:5-6"
   - "Luc 17:30"
   - "Apocalypse 4:7"
+original: "branham/1965/65-0220"
 ---
 **Résumé de : “Le lieu d'adoration que Dieu a choisi” (20 février 1965, soir)**
 

@@ -44,6 +44,7 @@ bible_refs:
   - "Hébreux 12:14"
   - "1 Rois 17:1-16"
   - "Jean 15:7"
+original: "branham/1959/59-0412A"
 ---
 *“Comptez sur Dieu” (12 avril 1959)*
 

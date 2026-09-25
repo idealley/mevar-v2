@@ -88,6 +88,9 @@ bible_refs:
   - "Malachie 4"
   - "Malachie 3"
   - "Matthieu 24"
+series: "La Parole parlée est la Semence originelle"
+series_part: 2
+original: "branham/1962/62-0318"
 ---
 *Résumé de!: “La Parole parlée est la Semence originelle - 2e partie” (18 mars 1962, après-midi)*
 

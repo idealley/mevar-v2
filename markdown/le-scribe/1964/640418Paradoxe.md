@@ -60,6 +60,7 @@ bible_refs:
   - "2 Timothée 3:8"
   - "Ézéchiel 9:4"
   - "Jean 12:24"
+original: "branham/1964/64-0418B"
 ---
 **Résumé de!: “Paradoxe” (18 avril 1964, matin)**
 

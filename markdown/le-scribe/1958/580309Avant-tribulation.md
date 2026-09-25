@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 14:19,20"
   - "Jean 5:19"
   - "Jean 15:1-2"
+original: "branham/1958/58-0309E"
 ---
 Résumé de : “L’Eglise partira-t-elle avant la tribulation” (9 mars 1958, soir)
 

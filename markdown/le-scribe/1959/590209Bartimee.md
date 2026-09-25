@@ -47,6 +47,7 @@ bible_refs:
   - "2 Rois 4"
   - "Actes 19:12"
   - "Deutéronome 18:15"
+original: "branham/1959/59-0208"
 ---
 **Résumé de : “L’aveugle Bartimée” (9 février 1959, soir)**
 

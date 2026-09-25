@@ -59,6 +59,7 @@ bible_refs:
   - "2 Corinthiens 5:1"
   - "Jean 3:7"
   - "2 Corinthiens 5:17"
+original: "branham/1957/57-0421E"
 ---
 Résumé de!: “Quand leurs yeux s'ouvrirent ils le reconnurent” (21 avril 1957, soir)
 

@@ -21,7 +21,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
-import { escRe } from "./bible-books.mjs";
+import { quotePattern as pattern, before2, after3 } from "./bible-books.mjs";
 import { citations } from "./65-normalize-bible.mjs";
 import { resolveGhostExport } from "./ghost-export.mjs";
 
@@ -67,9 +67,7 @@ const flat = (s) => s
   .replace(/§\d+(?: à \d+)?- ?/g, "")
   .replace(/\s+/g, " ")
   .replace(/(\d)- (\d)/g, "$1-$2");
-const pattern = (s) => escRe(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]');
-const before2 = (text, at) => flat(unmark(text.slice(Math.max(0, at - 300), at))).trimEnd().split(" ").slice(-2).join(" ");
-const after3 = (text, at) => flat(unmark(text.slice(at, at + 300))).trimStart().split(" ").slice(0, 3).join(" ");
+const norm = (s) => flat(unmark(s));
 const context = (text, at, spot) => flat(unmark(text.slice(Math.max(0, at - 80), at + spot.length + 60))).trim();
 
 // The refs 65 records around a spot: a restored citation must leave them as
@@ -87,8 +85,8 @@ function restore(body, source, tally) {
   let out = body;
   const canonical = [...citations(body)].filter((c) => c.text === c.ref).sort((a, b) => b.index - a.index);
   for (const { index, text: spot, ref } of canonical) {
-    const before = pattern(before2(body, index));
-    const after = pattern(after3(body, index + spot.length));
+    const before = pattern(before2(body, index, norm));
+    const after = pattern(after3(body, index + spot.length, norm));
     const re = new RegExp(`(?<![\\p{L}\\d])(?=${before} ?((?:(?!${before}).){1,60}?) ?${after}(?![\\p{L}\\d]))`, "gu");
     const found = [...source.matchAll(re)];
     const span = found.length === 1 ? found[0][1].trim() : null;

@@ -59,6 +59,7 @@ bible_refs:
   - "Romains 3:4"
   - "Matthieu 24:37"
   - "Jean 5:19"
+original: "branham/1956/56-1004"
 ---
 Résumé de : “Un repas de noces” (6 octobre1956)
 

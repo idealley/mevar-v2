@@ -80,6 +80,7 @@ bible_refs:
   - "Lévitique 23:23-27"
   - "Zacharie 14:7"
   - "Luc 17:30"
+original: "branham/1964/64-0719M"
 ---
 **Résumé de : “La Fête des Trompettes” (19 juillet 1964, matin)**
 

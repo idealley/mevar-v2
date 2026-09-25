@@ -48,7 +48,7 @@ bible_refs:
   - "Psaumes 103:2-3"
   - "Jean 2:19"
   - "Jean 5:19"
-original: "branham/1956/56-1004"
+original: "branham/1956/56-0930E"
 ---
 **Résumé de : "Témoins" (4 octobre 1956)**
 

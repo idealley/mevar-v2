@@ -1,9 +1,19 @@
 // The book tables shared by the bible-reference normalizers: 65 (French),
-// 66 (English) and 65b (which restores the Branham text from its source).
+// 66 (English) and 65b (which restores the Branham text from its source);
+// below them, the helpers 65b, 65c and 65d share to align our text with its
+// source.
 // First entry of each row is the canonical name, the rest are accepted variants.
 
 // The three build their regexes from these names.
 export const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+// Aligning our text with its source (65b, 65c, 65d): a span as a regex whose
+// quotes may be curly on one side and straight on the other, and the two
+// words before a spot and the three after it, once `norm` has flattened the
+// text the way the script compares it.
+export const quotePattern = (s) => escRe(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]');
+export const before2 = (text, at, norm) => norm(text.slice(Math.max(0, at - 300), at)).trimEnd().split(" ").slice(-2).join(" ");
+export const after3 = (text, at, norm) => norm(text.slice(at, at + 300)).trimStart().split(" ").slice(0, 3).join(" ");
 
 // ─── French (Segond names) ───────────────────────────────────────────────────
 // Matched case- and diacritic-insensitively (65's normForMatch).

@@ -62,6 +62,7 @@ bible_refs:
   - "Actes 3"
   - "Actes 4:13"
   - "Marc 5"
+original: "branham/1957/57-0825M"
 ---
 **Résumé de!: “Hébreux, chapitre 2, première partie” (25 août 1957, matin)**
 

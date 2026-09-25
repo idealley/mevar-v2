@@ -53,6 +53,7 @@ Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well
 | `65-normalize-bible.mjs`        | French — LSG style | records refs as `Matthieu 24:6`, spoken ones ("Luc chapitre 18 verset 9", "le chapitre 24 de Matthieu") included; every French source, `mevar-pdfs` included; not `branham/` |
 | `65b-restore-branham-from-source.mjs` | English | puts the branham.org wording back where old runs rewrote it |
 | `65c-restore-french-citations.mjs` | French | puts the Ghost (`mevar`) and le-scribe.org PDF (`le-scribe`) wording of a citation back where old runs of 65 wrote it canonical |
+| `65d-strip-branham-furniture.mjs` | English | takes the booklets' page headers ("18 THE SPOKEN WORD", "AN EXODUS 19") out of the text, where the PDF confirms each one |
 | `66-normalize-bible-en.mjs`     | English — KJV style | records refs as `Matthew 24:6`, spoken ones ("Saint John the 4th chapter") included |
 
 Neither normalizer changes the text: the preacher's words stay as written and
@@ -67,7 +68,9 @@ position, the longer match first). `47-lift-manifest-fields.mjs` copies that
 list, whole and in that order, into the work's `bible_refs`. 65b needs the
 Branham PDFs first (`20-download-pdfs.mjs manifests/branham-<year>.json`,
 152 MB, gitignored) and lists the French names it cannot align in
-`manifests/branham-restore-unaligned.json`. 65c needs the Ghost export
+`manifests/branham-restore-unaligned.json`. 65d runs after it on the same PDFs, before
+66, and lists the headers it cannot align in
+`manifests/branham-furniture-unaligned.json`. 65c needs the Ghost export
 (argument, or the newest at the repo root) and the Le Scribe PDFs
 (`20-download-pdfs.mjs manifests/le-scribe.json`, 164 MB, gitignored); it
 restores a citation only where 65 reads the source's wording as the same ref,

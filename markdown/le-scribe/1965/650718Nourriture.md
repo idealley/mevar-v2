@@ -77,6 +77,7 @@ bible_refs:
   - "2 Timothée 4:5"
   - "1 Rois 18:20-40"
   - "1 Rois 18:36"
+original: "branham/1965/65-0718E"
 ---
 **1.** [Prière]. Beaucoup n'ont pas pu entrer. Je voudrais que vous soyez édifiés dans la foi de cette heure-ci. Pour être enlevé, il faudra plus de foi que dans tout autre âge, il faudra une foi d'enlèvement. Je veux que vous croyiez et accumuliez dans votre cœur tout ce que vous avez vu et entendu ici. Si c'est de Dieu, abandonnez tout pour le suivre. Nous entrons dans une période de détresses, mais nous sommes plus que vainqueurs en Jésus-Christ, la Parole, qui est à la fois le capitaine de notre barque et la boussole qui pointe vers lui. Nous prierons ce soir pour les malades. La guérison n'est pas ce que quelqu'un "fait", mais ce que Dieu "a déjà fait" pour vous. "Tout est possible à celui qui croit" [Marc 9:23]. Lisons 1 Rois 17:1-7
 

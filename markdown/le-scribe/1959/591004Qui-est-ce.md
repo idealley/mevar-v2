@@ -52,6 +52,7 @@ bible_refs:
   - "Luc 19:40"
   - "Marc 11:23"
   - "Nombres 20:8,11"
+original: "branham/1959/59-1004M"
 ---
 **1.** … Chacune de ses promesses est vraie, et nous attendons son apparition. Alors que ce moment approche, nous voulons vérifier où nous en sommes. Nous voulons prier pour notre frère Rogers, mon ami, qui se meurt d’un cancer : je vais lui rendre visite cette semaine, à Milltown, Indiana. C’est un ancien de la 1ère Guerre. Il a été opéré récemment, mais le chirurgien l’a recousu car l’opération ne servait à rien, et il l’a appris samedi dernier.
 
