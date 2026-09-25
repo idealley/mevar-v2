@@ -5,6 +5,8 @@ node_modules/
 .firecrawl/
 .llm-cache/
 .llm-cache-*/
+.parse-cache/
+.pass-cache/
 .pilot/
 .pilot-list.json
 

@@ -77,6 +77,21 @@ restores a citation only where 65 reads the source's wording as the same ref,
 and lists the rest in `manifests/french-citations-unaligned.json`. Run 65, 47
 and 50 after it.
 
+## Stage 4b — Editorial pass on the OneDrive and PDF texts (goal 10)
+
+One batch at a time, the batches listed in `scripts/mevar-editorial-batches.json`.
+Needs SurrealDB with 110 run, the OneDrive originals at `onedrive/`, and
+for 85 the root `.env` (`DOTENV_CONFIG_PATH=<root>/.env` from a worktree).
+
+| Script                              | Action |
+| ----------------------------------- | ------ |
+| `84-extract-originals.mjs <batch>`  | each PDF original to `.parse-cache/` (gitignored) through pdftohtml (poppler): the text layer word for word, with the preacher's bold as `**…**` |
+| `85-editorial-pass.mjs <batch>`     | gpt-6-sol applies goal 04's rules to the original; missing readings become Segond verses from `bible_verse` (`segond.mjs`); result to `.pass-cache/` |
+| `86-check-editorial-pass.mjs <batch>` | word-by-word check of original against pass; a text with no unexplained change is written to `markdown/` with `editorial_pass`; report to `docs/goals/evidence/goal-10-batch-<batch>.md` |
+
+Then 65 on the batch's files and 47, as after any change to a body. 73
+skips a text that has `editorial_pass`.
+
 ## Stage 5 — Index assembly
 
 `50-build-index.mjs` reads all manifests, walks `markdown/`, emits `index.json` (one row per doc with all fields needed for ingest).
@@ -108,7 +123,7 @@ committed and served from our domain (`web/public/images`, `web/public/files`).
 
 ## Stage 8 — Bible verse text
 
-`110-seed-bible-text.mjs` — pulls 4 translations from `bible-data/` (LSG, Darby, Ostervald JSON/XML; KJV JSON), maps each `bible_ref` (canon_order + chapter + verse range) to the source verses, joins multi-verse ranges with " ", merges `text = {lsg, darby, ost, kjv}` into the record. Coverage: 84% (chapter-only refs are skipped — too long inline).
+`110-seed-bible-text.mjs` — pulls 4 translations from `bible-data/` (LSG, Darby, Ostervald JSON/XML; KJV JSON), maps each `bible_ref` (canon_order + chapter + verse range) to the source verses, joins multi-verse ranges with " ", merges `text = {lsg, darby, ost, kjv}` into the record. Coverage: 84% (chapter-only refs are skipped — too long inline). It also writes every LSG verse to `bible_verse:[canon_order, chapter, verse]`, where the editorial pass (goal 10) takes the readings it inserts.
 
 ## Stage 9 — Strong's tags
 
