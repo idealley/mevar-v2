@@ -12,6 +12,8 @@
 //     plus any title/subtitle/date/location/preacher upgrades) into the manifest
 //     entry. Existing manifest fields are kept if LLM returned null.
 //   - Writes manifests/<source>-llm-stats.json with per-doc status.
+//   - Never rewrites a file that has `editorial_pass` (goal 10): its body is
+//     the edited text, not the cache's.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -118,7 +120,7 @@ function makeFrontmatter(e) {
 const manifest = loadManifest();
 const byId = new Map(manifest.map((e) => [e.sermon_id, e]));
 
-const stats = { total: manifest.length, applied: 0, errored: 0, missing_cache: 0, no_change: 0 };
+const stats = { total: manifest.length, applied: 0, errored: 0, missing_cache: 0, no_change: 0, editorial_pass: 0 };
 const errors = [];
 
 for (const cacheFile of fs.readdirSync(cacheDir)) {
@@ -201,6 +203,11 @@ for (const cacheFile of fs.readdirSync(cacheDir)) {
     continue;
   }
 
+  if (/^editorial_pass:/m.test(fs.readFileSync(mdPath, "utf8").split("\n---\n")[0])) {
+    stats.editorial_pass++;
+    continue;
+  }
+
   const fm = makeFrontmatter(entry);
   fs.writeFileSync(mdPath, fm + cache.cleaned_markdown.replace(/^---\n[\s\S]*?\n---\n+/, "") + "\n");
   stats.applied++;
@@ -211,5 +218,5 @@ fs.writeFileSync(
   path.join(root, `manifests/${source}-llm-stats.json`),
   JSON.stringify({ stats, errors }, null, 2),
 );
-console.log(`${source}: applied=${stats.applied} errored=${stats.errored} missing=${stats.missing_cache}`);
+console.log(`${source}: applied=${stats.applied} errored=${stats.errored} missing=${stats.missing_cache} editorial_pass=${stats.editorial_pass}`);
 if (errors.length) console.log(`  ${errors.length} errors → manifests/${source}-llm-stats.json`);
