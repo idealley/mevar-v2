@@ -18,7 +18,8 @@
 // In each group the Ghost post stays; else the text with more of the sermon
 // (more shingles); else the one with fewer OCR-like tokens. A group kept by a
 // Ghost draft, or holding an uncertain pair not called "same", waits.
-// The others get duplicate_of: "<source>/<sermon_id>". Nothing is deleted.
+// The others get duplicate_of: "<source>/<path>", the keeper's file path, which
+// the site turns into its URL (web/astro.config.mjs). Nothing is deleted.
 //
 // Writes manifests/mevar-duplicates.json and the duplicate_of lines of
 // markdown/onedrive/ and markdown/mevar-pdfs/. A second run changes nothing.
@@ -64,7 +65,7 @@ for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
     const shingles = new Set();
     for (let i = 0; i + K <= w.length; i++) shingles.add(w.slice(i, i + K).join(" "));
     works.push({
-      id: `${source}/${field(fm, "sermon_id")}`, source, file, fm, body,
+      id: `${source}/${field(fm, "sermon_id")}`, path: `${source}/${rel.slice(0, -".md".length)}`, source, file, fm, body,
       title: field(fm, "title"), draft: field(fm, "status") === "draft", pdf: field(fm, "local_pdf"),
       excerpt: body.split(/\s+/).filter(Boolean).slice(0, 300).join(" "),
       ocr: body.split(/\s+/).filter((t) => OCR.test(t)).length, shingles,
@@ -193,7 +194,7 @@ for (const group of members.values()) {
     : open.length ? `waits for an answer on ${open.map(key).join(", ")}`
     : split.length ? `joins ${split.map(key).join(", ")}, answered "different": cut a pair that joins them`
     : null;
-  if (!held) for (const w of group) if (w !== keep && w.source !== "mevar") duplicateOf.set(w.id, keep.id);
+  if (!held) for (const w of group) if (w !== keep && w.source !== "mevar") duplicateOf.set(w.id, keep.path);
   groups.push({
     keep: keep.id, rule, held,
     members: group.map((w) => ({ id: w.id, title: w.title, shingles: w.shingles.size, ocr_tokens: w.ocr })),

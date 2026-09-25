@@ -40,7 +40,7 @@ What exists does not settle it:
    one readers and Google know. Between a PDF and a OneDrive text, the one
    with more of the sermon (containment), then the cleaner one (fewer
    OCR-like tokens); the report says which rule chose. The others get
-   `duplicate_of: "<source>/<id>"` in their frontmatter. Nothing is deleted:
+   `duplicate_of: "<source>/<path>"` (the keeper's file path under `markdown/`, which goal 08's site turns into the 301's target) in their frontmatter. Nothing is deleted:
    the text stays in `markdown/`, goal 08 does not build it.
 4. **Idempotent.** A second run changes nothing; Samuel's decisions on the
    uncertain band are read from a committed file, so a rerun keeps them.
