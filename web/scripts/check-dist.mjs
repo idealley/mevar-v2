@@ -33,12 +33,16 @@ function served(p) {
 // publishes a draft in markdown/, and mevar.json keeps what the Ghost import
 // said.
 const posts = read("mevar.json").filter((p) => p.type === "post");
-const frontmatter = (p) => fs.readFileSync(path.join(web, "../markdown/mevar", `${p.sermon_id}.md`), "utf8");
-const status = (p) => frontmatter(p).match(/^status: "(.+)"$/m)?.[1];
+for (const p of posts) {
+  const text = fs.readFileSync(path.join(web, "../markdown/mevar", `${p.sermon_id}.md`), "utf8");
+  const frontmatter = text.slice(0, text.indexOf("\n---\n", 4));
+  p.status = frontmatter.match(/^status: "(.+)"$/m)?.[1];
+  p.duplicate = /^duplicate_of: /m.test(frontmatter);
+}
 // A published post with duplicate_of is not built: its URL answers 301 to the
-// post it duplicates, which section 2 checks.
-const published = posts.filter((p) => status(p) === "published" && !/^duplicate_of: /m.test(frontmatter(p)));
-const drafts = posts.filter((p) => status(p) === "draft");
+// post it duplicates (section 2 checks where the 301 lands).
+const published = posts.filter((p) => p.status === "published" && !p.duplicate);
+const drafts = posts.filter((p) => p.status === "draft");
 report(
   "every published Ghost post at /<slug>/",
   published.filter((p) => !served(`/${p.sermon_id}/`)).map((p) => `/${p.sermon_id}/ missing`),
