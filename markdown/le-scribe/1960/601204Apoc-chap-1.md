@@ -89,6 +89,7 @@ bible_refs:
   - "Actes 19:2"
   - "1 Timothée 3:16"
   - "Apocalypse 1"
+original: "branham/1960/60-1204M"
 ---
 *Résumé de!: “Apocalypse, chapitre un” (4 décembre 1960, matin)*
 

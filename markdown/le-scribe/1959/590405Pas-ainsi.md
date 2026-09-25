@@ -46,6 +46,7 @@ bible_refs:
   - "Actes 2:2"
   - "Marc 16"
   - "Marc 16:17-18"
+original: "branham/1959/59-0405A"
 ---
 **1.** [Prière].
 

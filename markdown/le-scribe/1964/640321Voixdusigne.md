@@ -64,6 +64,7 @@ bible_refs:
   - "Jean 14:12"
   - "Actes 3:4"
   - "1 Rois 19:4"
+original: "branham/1964/64-0321E"
 ---
 **Résumé de!: “La Voix du Signe” (21 mars 1964, soir)**
 

@@ -56,6 +56,7 @@ bible_refs:
   - "Galates 2:20"
   - "Jean 5:24"
   - "Jean 6:44"
+original: "branham/1962/62-0513E"
 ---
 **Résumé de!: “Relâcher la pression” (13 mai 1962, après-midi)**
 

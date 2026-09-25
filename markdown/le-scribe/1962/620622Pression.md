@@ -40,6 +40,7 @@ bible_refs:
   - "Actes 19:2"
   - "Romains 4:3"
   - "Romains 4:11"
+original: "branham/1962/62-0622B"
 ---
 **1.** … Nous avons eu un grand miracle à Southern Pines. Une jeune maman était arrivée en retard, et nous avons prié en coulisses pour son bébé hydrocéphale, aux yeux exorbités et aux veines saillantes. Il recevait des piqûres quotidiennes pour rester en vie. Le lendemain matin, les veines n’étaient plus visibles, la tête était pratiquement normale, et le médecin a déclaré que les piqûres n’étaient plus nécessaires [cf. “Relâcher la pression”, le 9.6.1962, §1-3]. Cela a remué la région, et montre que Dieu répond à la prière des cœurs sincères et qui croient. Je crois qu’il aime agir ainsi pour son peuple. Vous qui êtes connectés par la radio, soyez persévérants avec la promesse de Dieu, croyez que Dieu répondra à la prière. Des centaines de personnes réunies ici prieront avec moi pour vous.
 

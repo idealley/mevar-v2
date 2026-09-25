@@ -48,6 +48,7 @@ bible_refs:
   - "Job 19:25-26"
   - "1 Samuel 28:7"
   - "Psaumes 24"
+original: "branham/1955/55-0225"
 ---
 **JESUS GLORIFIE**
 *GLORIFIED JESUS*

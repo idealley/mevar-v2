@@ -44,7 +44,6 @@ bible_refs:
   - "Jacques 5:14"
   - "2 Samuel 5:24"
   - "Actes 19:12"
-original: "branham/1947/47-1221"
 ---
 **1.** Il y a eu de nombreux miracles en présence de deux médecins. Un aveugle guéri m’a suivi tout autour de l’estrade. Trois fillettes qui louchaient affreusement ont été guéries. Dieu est toujours le JE SUIS. Mais seuls ceux qui croient sont guéris. Et si vous êtes guéris, mais ne le servez pas, ce sera pire ensuite.
 

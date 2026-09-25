@@ -54,7 +54,7 @@ bible_refs:
   - "Jean 4:46"
   - "Marc 11:24"
   - "Matthieu 18:18"
-original: "branham/1952/52-0725"
+original: "branham/1952/52-0726"
 ---
 **1.** Je suis heureux d’être ici pour servir le Seigneur et vous parler de Jésus-Christ, de son sacrifice pour votre corps et pour votre âme, pour votre joie. Jean écrivait : “Je souhaite que tu sois en bonne santé.” [3 Jn. 2]. C’est la volonté de Dieu que nous soyons en bonne santé si nous pouvons avoir la foi. Je peux me tromper, mais j’ai découvert que 80% des gens qui disent avoir la foi n’ont en fait que de l’espoir. La foi est une certitude, elle est positive et inébranlable.
 

@@ -67,6 +67,9 @@ bible_refs:
   - "Actes 13:22,1"
   - "2 Samuel 16:5-12"
   - "2 Samuel 19:18"
+series: "La Parole parlée est la Semence originelle"
+series_part: 1
+original: "branham/1962/62-0318"
 ---
 *Résumé de!: “La Parole parlée est la Semence originelle - Première partie” (18 mars 1962, matin)*
 

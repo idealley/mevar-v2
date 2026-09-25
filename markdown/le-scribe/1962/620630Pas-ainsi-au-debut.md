@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 11:21-22"
   - "Jean 11:41"
   - "Marc 5:25-34"
+original: "branham/1962/62-0630B"
 ---
 *Au commencement, il n’en était pas ainsi* (30 juin 1962, matin)
 

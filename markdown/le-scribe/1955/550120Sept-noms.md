@@ -56,6 +56,7 @@ bible_refs:
   - "Psaumes 103:3"
   - "Jean 5:19"
   - "Marc 11:24"
+original: "branham/1955/55-0120"
 ---
 **1.** [Prière ; informations sur la suite du périple d’évangélisation aux USA]. J’aimerais rester avec vous, mais il y a beaucoup de travail à faire un peu partout, et je dois faire ma part. Le pays n’est pas prêt pour un réveil. C’est peut-être trop tard. J’aime mon frère Joseph Booze qui m’a parlé de la vingtaine de personnes converties en voyant l’œuvre du Seigneur, et il veut que je revienne. Mais en Afrique des milliers se seraient convertis en une soirée. Peu importe que les gens aient ou non entendu parler de Christ : le Don les interpelle, et c’est Dieu qui est là.
 

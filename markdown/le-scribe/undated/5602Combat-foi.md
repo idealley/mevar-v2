@@ -12,6 +12,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Apocalypse 22:18"
   - "Actes 2"
+original: "branham/1956/56-0200"
 ---
  Résumé de : “Combattre pour la foi” (février 1956)
  __________________________________

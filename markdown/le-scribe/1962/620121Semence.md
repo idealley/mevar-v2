@@ -53,6 +53,7 @@ bible_refs:
   - "Luc 7:11-17"
   - "Luc 8:55"
   - "Juges 16:3"
+original: "branham/1962/62-0121M"
 ---
 **1.** Je salue le frère et la sœur Rose, et le frère Sharritt. Nous avons eu une bonne réunion de communion fraternelle hier, et je suis venu pour cela. Je ne suis pas contre les organisations, mais contre le fait que les gens s’appuient trop sur elles au lieu de compter sur Jésus-Christ. Elles cherchent le nombre, mais oublient le Saint-Esprit. Si je vois un homme descendre une rivière avec une petite barque et se diriger droit vers une cataracte, je n’ai rien contre lui, mais je dois crier si je l’aime. Toutes les églises se sont fracassées à cause de cela. Un homme se lève avec la puissance de Dieu, mais, aussitôt après son départ, une organisation est établie. C’est ainsi que l’Institut Biblique Moody est très éloigné de ce que Moody prônait. L’intellect a remplacé l’Esprit.
 

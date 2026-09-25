@@ -32,42 +32,26 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 ## French citations 65 wrote canonical, still to restore
 
-**Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (remeasure after `goal-16-cmpp-complete.md` re-crawls its bodies), `local` (no original: Samuel, 2026-09-25, leave it), and the two posts goal 14 edits (`qui-sera-enleve`, `le-jour-du-seigneur-4-et-les-tribulations`, 293 spots).
+**Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (remeasure after `goal-16-cmpp-complete.md` re-crawls its bodies), and `local` (no original: Samuel, 2026-09-25, leave it).
 
-**Fix**: after goal 14 merges, drop `WAIT` from `65c` and rerun it, then 65, 47 and 50.
+## Branham page headers the PDF could not confirm
 
-## Printed page furniture is inside the sermon bodies
+**Status**: goal 14 (PR #18) removed 11,066 printed page headers from 841 Branham bodies with `65d-strip-branham-furniture.mjs`, and the refs they produced. 135 remain, listed with their context in `manifests/branham-furniture-unaligned.json`: the LLM cleanup changed the words around them, so the PDF cannot confirm the spot (`THE THIRD Exodus 25` in 63-0630M still gives a false `Exodus 25`).
 
-**Status**: goal 14, [`docs/goals/goal-14-furniture-footnotes-le-scribe.md`](goals/goal-14-furniture-footnotes-le-scribe.md), ready to dispatch in parallel with goal 10. Its three items: this furniture (and the running headers 66 records as refs), the broken footnote links of two Ghost posts, and the 94 Le Scribe summaries with no Branham link.
+**Fix**: a human pass over the 135, reading each against its PDF (`pdf_url`), like the 39 French names above.
 
-**Dispatch text**, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
+## Le Scribe links resting on the date alone
 
-```
-Read AGENTS.md, VISION.md, DELIVERY.md, docs/goals/README.md, then the goal
-file named below, in that order. Follow DELIVERY.md exactly: worktree from
-origin/main, npm install on this Mac at the root and in web/, atomic
-Conventional Commits, the gates for what you touch, the independent
-subagent review with the prompt given there, then a non-draft PR with
-`gh pr create` whose description opens with the problem and lists every
-acceptance item with the command you ran and its output. Do not merge. Stop
-at the stop points. End with the report DELIVERY.md asks for.
+**Status**: goal 14 linked or explained every Le Scribe summary: 900 of 910 linked, 10 recorded as having no Branham sermon, all answers in `scripts/le-scribe-branham-decided.json`. 49 still links a summary to the only sermon of its day on the date alone (616). An audit read the 60 of those whose two texts share no Scripture chapter, or where one cites none: 55 were right, 5 were wrong and are corrected by an answer. The rest share at least one Scripture chapter with their sermon.
 
-Goal file: docs/goals/goal-14-furniture-footnotes-le-scribe.md. Branch:
-goal-14-furniture-footnotes-le-scribe.
+**Fix**: none needed now. A new Le Scribe summary linked by date alone is worth the same check (shared chapters in `bible-refs.json`, then the openings).
 
-Goal 10 runs at the same time on the OneDrive and PDF texts: never touch
-them. If main moves, merge it and rerun the scripts that write
-manifests/bible-refs.json and index.json; never hand-merge those files.
+## The 404 page's canonical URL names no page
 
-The Branham PDFs are in pdfs/branham/ of the
-goal-07 worktree, or fetch them with 20-download-pdfs.mjs. The furniture
-diff touches hundreds of Branham files: never read it file by file; prove
-it with the counts and the word-diff sample the goal asks for.
+**Status**: `dist/404.html` has `<link rel="canonical" href="https://mevar.org/404/">`, and no `/404/` page is built. Found by goal 14's `check:dist`, which checks our own absolute URLs only when they carry a `#fragment`.
 
-After the independent review says ACCEPT, run the codex-second-opinion
-skill (.claude/skills/codex-second-opinion): gpt-6-astra on the stripping
-script, gpt-6-sol on the data with the goal's acceptance commands.
-```
+**Fix**: no canonical on the 404 page (or point it at `/`), then let `check:dist` check every absolute `https://mevar.org/` href.
+
 ## `100` keeps only the first verse group of a list
 
 **Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 952 of 40,602 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").

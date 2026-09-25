@@ -49,6 +49,7 @@ bible_refs:
   - "Nombres 13:23-33"
   - "Apocalypse 13:14"
   - "Luc 17:34"
+original: "branham/1963/63-0628M"
 ---
 *O Seigneur ! Juste encore une fois* (28 Juin 1963, après-midi)
 

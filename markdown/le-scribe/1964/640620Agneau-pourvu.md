@@ -44,6 +44,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 15:5"
   - "Actes 2:38-39"
+original: "branham/1964/64-0620E"
 ---
 **Résumé de!: "Dieu a pourvu un Agneau" (20 juin 1964, soir)**
 

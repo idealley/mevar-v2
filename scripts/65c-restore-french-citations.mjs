@@ -21,7 +21,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
-import { escRe } from "./bible-books.mjs";
+import { quotePattern as pattern, before2, after3 } from "./bible-books.mjs";
 import { citations } from "./65-normalize-bible.mjs";
 import { resolveGhostExport } from "./ghost-export.mjs";
 
@@ -48,9 +48,6 @@ const SOURCES = {
   "le-scribe": (id) => pdfText(pdfs.get(id)),
 };
 
-// Goal 14 edits these two posts; they are restored once it has merged.
-const WAIT = new Set(["qui-sera-enleve", "le-jour-du-seigneur-4-et-les-tribulations"]);
-
 // Our text loses its markdown (links, quote and heading marks, emphasis; an
 // escaped "\_" is a real underscore) and Le Scribe's paragraph numbers
 // ("**133.**"), which its PDF gives as a span ("§133 à 141-"). The source
@@ -67,9 +64,7 @@ const flat = (s) => s
   .replace(/§\d+(?: à \d+)?- ?/g, "")
   .replace(/\s+/g, " ")
   .replace(/(\d)- (\d)/g, "$1-$2");
-const pattern = (s) => escRe(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]');
-const before2 = (text, at) => flat(unmark(text.slice(Math.max(0, at - 300), at))).trimEnd().split(" ").slice(-2).join(" ");
-const after3 = (text, at) => flat(unmark(text.slice(at, at + 300))).trimStart().split(" ").slice(0, 3).join(" ");
+const norm = (s) => flat(unmark(s));
 const context = (text, at, spot) => flat(unmark(text.slice(Math.max(0, at - 80), at + spot.length + 60))).trim();
 
 // The refs 65 records around a spot: a restored citation must leave them as
@@ -87,8 +82,8 @@ function restore(body, source, tally) {
   let out = body;
   const canonical = [...citations(body)].filter((c) => c.text === c.ref).sort((a, b) => b.index - a.index);
   for (const { index, text: spot, ref } of canonical) {
-    const before = pattern(before2(body, index));
-    const after = pattern(after3(body, index + spot.length));
+    const before = pattern(before2(body, index, norm));
+    const after = pattern(after3(body, index + spot.length, norm));
     const re = new RegExp(`(?<![\\p{L}\\d])(?=${before} ?((?:(?!${before}).){1,60}?) ?${after}(?![\\p{L}\\d]))`, "gu");
     const found = [...source.matchAll(re)];
     const span = found.length === 1 ? found[0][1].trim() : null;
@@ -111,7 +106,6 @@ for (const [name, sourceOf] of Object.entries(SOURCES)) {
   const dir = path.join(root, "markdown", name);
   for (const rel of fs.readdirSync(dir, { recursive: true }).filter((p) => p.endsWith(".md")).sort()) {
     const file = path.join(dir, rel);
-    if (WAIT.has(path.basename(file, ".md"))) continue;
     const text = fs.readFileSync(file, "utf8");
     const [, fm, body] = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
     if (![...citations(body)].some((c) => c.text === c.ref)) continue;

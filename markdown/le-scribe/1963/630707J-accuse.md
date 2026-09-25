@@ -85,6 +85,7 @@ bible_refs:
   - "Luc 7:11-17"
   - "Jean 19:15"
   - "Nombres 16:26"
+original: "branham/1963/63-0707M"
 ---
 **Résumé de!: “J'accuse cette génération” ou “L'accusation” (7 juillet 1963 matin)**
 

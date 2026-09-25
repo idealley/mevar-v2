@@ -52,6 +52,7 @@ bible_refs:
   - "Galates 2:20"
   - "Luc 16:19-31"
   - "1 Corinthiens 2:4"
+original: "branham/1962/62-1124B"
 ---
 **Résumé de!: “Investissements” (24 novembre 1962, matin)**
 

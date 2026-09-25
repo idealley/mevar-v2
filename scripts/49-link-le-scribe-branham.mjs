@@ -14,6 +14,10 @@
 // Anything still ambiguous is left unlinked and listed in
 // manifests/le-scribe-branham-unresolved.json. Never guessed.
 //
+// Samuel's answers come first: scripts/le-scribe-branham-decided.json,
+// `{"<le-scribe id>": "<branham id>" | "none"}`. An id links; "none" records
+// that the summary has no Branham sermon, and it leaves the unresolved list.
+//
 // Writes: `original: "branham/<year>/<id>"` on the summary,
 //         `summary_fr: "le-scribe/<year>/<id>"` on the sermon.
 
@@ -51,6 +55,15 @@ function readDoc(file) {
 
 const summaries = [...walk(path.join(root, "markdown/le-scribe"))].map(readDoc);
 const sermons = [...walk(path.join(root, "markdown/branham"))].map(readDoc);
+const sermonById = new Map(sermons.map((s) => [s.id, s]));
+
+const decided = JSON.parse(fs.readFileSync(path.join(root, "scripts/le-scribe-branham-decided.json"), "utf8"));
+const summaryIds = new Set(summaries.map((s) => s.id));
+// An answer naming no summary is ignored; one naming no sermon leaves its
+// summary unresolved (below) rather than falling back to a guess.
+for (const [id, answer] of Object.entries(decided)) {
+  if (!summaryIds.has(id)) console.warn(`decision ignored, no such summary: "${id}": "${answer}"`);
+}
 
 // ─── Index Branham sermons by YYMMDD ────────────────────────────────────────
 // Suffixes in time order: sunrise, morning, afternoon, evening.
@@ -124,10 +137,6 @@ function resolve(summary, candidates) {
   return [null, `${candidates.length} sermons that day`];
 }
 
-// Checked by hand: Le-Scribe dates these a day or two off, so the date lands
-// on a sermon with an unrelated title. Left for the human pass, never linked.
-const WRONG_DATE = new Set(["530606Demons-physique", "530607Demons-religieux", "600803Jehova-J"]);
-
 const links = new Map(); // summary.ref → sermon
 const unresolved = [];
 const stats = {};
@@ -137,8 +146,10 @@ for (const summary of summaries) {
   const candidates = day ? byDay.get(day) ?? [] : [];
 
   let sermon = null, how;
+  const answer = decided[summary.id];
   if (!summary.hasFrontmatter) how = "no frontmatter in the Le-Scribe file";
-  else if (WRONG_DATE.has(summary.id)) how = "Le-Scribe date contradicts the title";
+  else if (answer === "none") how = "no Branham sermon (decided)";
+  else if (answer) [sermon, how] = sermonById.has(answer) ? [sermonById.get(answer), "decided"] : [null, `the answer ${answer} names no sermon`];
   else if (!day) how = "no date in the Le-Scribe id";
   else if (candidates.length === 0) how = "no Branham sermon that day";
   else if (candidates.length === 1) [sermon, how] = [candidates[0], "only sermon that day"];
@@ -146,7 +157,7 @@ for (const summary of summaries) {
 
   stats[how] = (stats[how] ?? 0) + 1;
   if (sermon) links.set(summary.ref, sermon);
-  else {
+  else if (answer !== "none") {
     unresolved.push({
       le_scribe: summary.ref,
       title: summary.fields.title ?? null,
@@ -157,7 +168,11 @@ for (const summary of summaries) {
   }
 }
 
-// A sermon claimed by two summaries means one of them is wrong — drop both.
+// A sermon claimed by two summaries means one of them is wrong — drop both,
+// unless Samuel answered one: his answer stays. Two answers for one sermon
+// stay when the summaries are one series (a long sermon summarized in parts,
+// `series` and `series_part` in their frontmatter); otherwise both wait, with
+// a warning.
 const claimants = new Map();
 for (const [ref, sermon] of links) {
   if (!claimants.has(sermon.ref)) claimants.set(sermon.ref, []);
@@ -166,7 +181,12 @@ for (const [ref, sermon] of links) {
 for (const [sermonRef, refs] of claimants) {
   if (refs.length < 2) continue;
   const sermon = links.get(refs[0]);
-  for (const ref of refs) {
+  const kept = refs.filter((ref) => decided[path.basename(ref)] !== undefined);
+  const series = new Set(kept.map((ref) => summaries.find((s) => s.ref === ref).fields.series));
+  const parts = kept.length > 1 && series.size === 1 && !series.has(undefined);
+  if (kept.length > 1 && !parts) console.warn(`two answers name ${sermonRef}: ${kept.join(", ")}; neither is linked`);
+  const dropped = kept.length === 1 || parts ? refs.filter((ref) => !kept.includes(ref)) : refs;
+  for (const ref of dropped) {
     const summary = summaries.find((s) => s.ref === ref);
     links.delete(ref);
     unresolved.push({
@@ -177,7 +197,7 @@ for (const [sermonRef, refs] of claimants) {
       candidates: [{ branham: sermonRef, title: sermon.fields.title ?? null }],
     });
   }
-  stats["claimed twice"] = (stats["claimed twice"] ?? 0) + refs.length;
+  stats["claimed twice"] = (stats["claimed twice"] ?? 0) + dropped.length;
 }
 
 // ─── Write the frontmatter on both sides ────────────────────────────────────
@@ -198,8 +218,12 @@ function setField(file, key, value) {
   return true;
 }
 
+// A sermon summarized in parts points at part 1.
+const partOf = (ref) => Number(summaries.find((s) => s.ref === ref).fields.series_part ?? 0);
 const summaryOf = new Map(); // sermon.ref → summary.ref
-for (const [ref, sermon] of links) summaryOf.set(sermon.ref, ref);
+for (const [ref, sermon] of links) {
+  if (!summaryOf.has(sermon.ref) || partOf(ref) < partOf(summaryOf.get(sermon.ref))) summaryOf.set(sermon.ref, ref);
+}
 
 let touched = 0;
 for (const s of summaries) if (setField(s.file, "original", links.get(s.ref)?.ref)) touched++;

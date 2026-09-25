@@ -51,6 +51,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Malachie 4"
   - "Luc 17"
+original: "branham/1965/65-0429B"
 ---
 **Résumé de : “La semence n'héritera pas avec la balle” (29 avril 1965, soir)**
 

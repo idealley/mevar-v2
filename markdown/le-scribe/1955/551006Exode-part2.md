@@ -42,6 +42,7 @@ bible_refs:
   - "Exode 14:15"
   - "1 Corinthiens 15:55,57"
   - "Genèse 15:13-14"
+original: "branham/1955/55-1006E"
 ---
 Résumé de : “Le Livre de l'Exode – Seconde partie” (6 octobre 1955, soir)
 

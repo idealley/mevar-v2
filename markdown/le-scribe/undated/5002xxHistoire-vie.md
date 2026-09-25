@@ -48,6 +48,7 @@ bible_refs:
   - "Deutéronome 5:16"
   - "Job 38:4,7"
   - "Luc 16:23-24"
+original: "branham/1950/50-0200"
 ---
 **1.** Lisons Hébreux 13:10-14
     “Nous avons un autel dont ceux qui font le service au tabernacle n’ont pas le pouvoir de manger. –

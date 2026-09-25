@@ -49,6 +49,7 @@ llm_cleaned: true
 bible_refs:
   - "Jean 4:46-54"
   - "Actes 19:12"
+original: "branham/1947/47-1221"
 ---
 *Expériences - 2*
 *14 décembre 1947, dimanche après-midi, Phœnix (Arizona)*

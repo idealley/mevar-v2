@@ -23,9 +23,10 @@ function report(name, problems, detail = "") {
 /** The file a root-relative URL path is served from, or null. */
 function served(p) {
   const f = path.join(dist, decodeURIComponent(p));
-  if (p.endsWith("/")) return fs.existsSync(path.join(f, "index.html")) ? f : null;
+  const index = path.join(f, "index.html");
+  if (p.endsWith("/")) return fs.existsSync(index) ? index : null;
   if (fs.existsSync(f) && fs.statSync(f).isFile()) return f;
-  return fs.existsSync(path.join(f, "index.html")) ? f : null;
+  return fs.existsSync(index) ? index : null;
 }
 
 // 1. Ghost posts at their root URL; drafts nowhere.
@@ -83,17 +84,38 @@ const pages = [];
 const known = new Map();
 const broken = [];
 let hrefs = 0;
+// A #fragment names an id of the page it points to: the page's own for "#…".
+const idsOf = new Map();
+const ids = (file) => {
+  if (!idsOf.has(file)) idsOf.set(file, new Set([...fs.readFileSync(file, "utf8").matchAll(/\sid="([^"]*)"/g)].map((m) => m[1])));
+  return idsOf.get(file);
+};
+const noAnchor = [];
+let fragments = 0;
 for (const page of pages) {
   const html = fs.readFileSync(page, "utf8");
   for (const [, raw] of html.matchAll(/\shref="([^"]*)"/g)) {
     const href = raw.replaceAll("&amp;", "&");
-    // Another scheme or host, or a fragment of the same page: not a file here.
-    if (/^([a-z][a-z0-9+.-]*:|\/\/|#|$)/i.test(href)) continue;
-    hrefs++;
+    // Another scheme or host: not a file here. Our own absolute URL is, when
+    // it names a fragment.
+    if (/^([a-z][a-z0-9+.-]*:|\/\/|$)/i.test(href) && !(href.startsWith("https://mevar.org/") && href.includes("#"))) continue;
     // A relative href resolves against the page's own URL, as a browser does.
-    const p = new URL(href, `https://mevar.org/${path.relative(dist, path.dirname(page))}/`).pathname;
-    if (!known.has(p)) known.set(p, served(p) !== null);
-    if (!known.get(p)) broken.push(`${path.relative(dist, page)} -> ${href}`);
+    const url = new URL(href, `https://mevar.org/${path.relative(dist, path.dirname(page))}/`);
+    const fragment = decodeURIComponent(url.hash.slice(1));
+    let target = page;
+    if (!href.startsWith("#")) {
+      hrefs++;
+      const p = url.pathname;
+      if (!known.has(p)) known.set(p, served(p));
+      target = known.get(p);
+      if (!target) {
+        broken.push(`${path.relative(dist, page)} -> ${href}`);
+        continue;
+      }
+    }
+    if (!fragment || !target.endsWith(".html")) continue;
+    fragments++;
+    if (!ids(target).has(fragment)) noAnchor.push(`${path.relative(dist, page)} -> ${href}`);
   }
 }
 report(
@@ -101,6 +123,7 @@ report(
   broken,
   `${hrefs} links checked in ${pages.length} pages, ${known.size} distinct targets`,
 );
+report("every #fragment names an id of its page", noAnchor, `${fragments} fragments checked`);
 
 // 4. The sitemap lists every page once, no draft, no /works/mevar/.
 const sitemapIndex = path.join(dist, "sitemap-index.xml");
