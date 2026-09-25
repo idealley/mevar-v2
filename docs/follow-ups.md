@@ -67,9 +67,10 @@ at the stop points. End with the report DELIVERY.md asks for.
 Goal file: docs/goals/goal-12-bible-refs-complete.md. Branch:
 goal-12-bible-refs-complete.
 
-Before changing anything, save a copy of manifests/bible-refs.json from
-origin/main outside the repo: it is the baseline every acceptance item
-compares against, even if main moves meanwhile.
+Before changing anything, outside the repo, save the commit the branch
+starts from (`git rev-parse origin/main`) and a copy of
+manifests/bible-refs.json at that commit. That is the baseline every
+acceptance item compares against, even if main moves meanwhile.
 The goal is a pure reorder plus the end of the cap; its stop rule (a work
 that gains or loses a ref) is in the goal file.
 
@@ -78,14 +79,18 @@ commit), then the regeneration 65, 66, 47, 50 (one data commit), then docs.
 The data commit touches about 2,540 markdown files; never read that diff
 file by file. Prove items 1 to 4 of the acceptance with node scripts that
 compare the working files with the saved baseline (and, for bodies and
-other frontmatter fields, with `git show origin/main:<path>`), and show
+other frontmatter fields, with `git show <saved commit>:<path>`), and show
 their output in the PR. Refs that start at the same position are ordered
 as the goal file says.
 
 After the independent review says ACCEPT, run the codex-second-opinion
-skill (.claude/skills/codex-second-opinion): gpt-6-astra on the three
-scripts, gpt-6-sol on the data with the goal's acceptance commands. Never
-edit markdown bodies.
+skill: gpt-6-astra on the three scripts, gpt-6-sol on the data with the
+goal's acceptance commands. The skill is local to the main checkout
+(`.claude/` is gitignored, so a worktree does not have it): this session
+starts in ~/projects/mevar-v2 and loads it from
+~/projects/mevar-v2/.claude/skills/codex-second-opinion/SKILL.md; run
+`codex exec` with `-C` set to the goal's worktree, as the skill says.
+Never edit markdown bodies.
 ```
 
 ## `100` keeps only the first verse group of a list

@@ -1,6 +1,8 @@
 # GOAL 08: Mevar first, the archive below, and every work that cites a verse
 
-**Status:** ready after goal 05 (PR #5 merged)
+**Status:** ready after goal 05 (PR #5 merged) and goal 12
+**Depends on:** 05, and 12: the verse pages read `bible_refs`, which is cut
+at 50 refs a work until goal 12 lands (3,946 refs in 90 works)
 **Repo:** `mevar-v2` (`web/`, one pipeline script for item 5)
 **Rules:** [README.md](README.md)
 

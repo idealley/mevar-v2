@@ -85,9 +85,10 @@ frontmatter" in `docs/follow-ups.md`, not this goal.
 ## Acceptance evidence
 
 Each item is shown in the PR with the command run and its output. The
-baseline is a copy of `manifests/bible-refs.json` taken from `origin/main`
-when the goal starts, kept outside the repo; every comparison below is
-against that copy.
+baseline is the commit the branch starts from, saved with a copy of its
+`manifests/bible-refs.json` outside the repo when the goal starts; every
+comparison below, the `git show <commit>:<path>` ones included, is against
+that commit, even if `main` moves meanwhile.
 
 1. **The same refs, only reordered.** For every key of
    `manifests/bible-refs.json`, the set of refs equals the baseline's (same
