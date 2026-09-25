@@ -14,6 +14,10 @@
 // Anything still ambiguous is left unlinked and listed in
 // manifests/le-scribe-branham-unresolved.json. Never guessed.
 //
+// Samuel's answers come first: scripts/le-scribe-branham-decided.json,
+// `{"<le-scribe id>": "<branham id>" | "none"}`. An id links; "none" records
+// that the summary has no Branham sermon, and it leaves the unresolved list.
+//
 // Writes: `original: "branham/<year>/<id>"` on the summary,
 //         `summary_fr: "le-scribe/<year>/<id>"` on the sermon.
 
@@ -51,6 +55,16 @@ function readDoc(file) {
 
 const summaries = [...walk(path.join(root, "markdown/le-scribe"))].map(readDoc);
 const sermons = [...walk(path.join(root, "markdown/branham"))].map(readDoc);
+const sermonById = new Map(sermons.map((s) => [s.id, s]));
+
+const decided = JSON.parse(fs.readFileSync(path.join(root, "scripts/le-scribe-branham-decided.json"), "utf8"));
+const summaryIds = new Set(summaries.map((s) => s.id));
+for (const [id, answer] of Object.entries(decided)) {
+  if (!summaryIds.has(id) || (answer !== "none" && !sermonById.has(answer))) {
+    console.warn(`decision ignored: "${id}": "${answer}"`);
+    delete decided[id];
+  }
+}
 
 // ─── Index Branham sermons by YYMMDD ────────────────────────────────────────
 // Suffixes in time order: sunrise, morning, afternoon, evening.
@@ -124,10 +138,6 @@ function resolve(summary, candidates) {
   return [null, `${candidates.length} sermons that day`];
 }
 
-// Checked by hand: Le-Scribe dates these a day or two off, so the date lands
-// on a sermon with an unrelated title. Left for the human pass, never linked.
-const WRONG_DATE = new Set(["530606Demons-physique", "530607Demons-religieux", "600803Jehova-J"]);
-
 const links = new Map(); // summary.ref → sermon
 const unresolved = [];
 const stats = {};
@@ -137,8 +147,10 @@ for (const summary of summaries) {
   const candidates = day ? byDay.get(day) ?? [] : [];
 
   let sermon = null, how;
+  const answer = decided[summary.id];
   if (!summary.hasFrontmatter) how = "no frontmatter in the Le-Scribe file";
-  else if (WRONG_DATE.has(summary.id)) how = "Le-Scribe date contradicts the title";
+  else if (answer === "none") how = "no Branham sermon (decided)";
+  else if (answer) [sermon, how] = [sermonById.get(answer), "decided"];
   else if (!day) how = "no date in the Le-Scribe id";
   else if (candidates.length === 0) how = "no Branham sermon that day";
   else if (candidates.length === 1) [sermon, how] = [candidates[0], "only sermon that day"];
@@ -146,7 +158,7 @@ for (const summary of summaries) {
 
   stats[how] = (stats[how] ?? 0) + 1;
   if (sermon) links.set(summary.ref, sermon);
-  else {
+  else if (answer !== "none") {
     unresolved.push({
       le_scribe: summary.ref,
       title: summary.fields.title ?? null,
