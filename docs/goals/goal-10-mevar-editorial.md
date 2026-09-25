@@ -132,3 +132,11 @@ and CMPP sources; merging versions (goal 09 chose one).
 - For the goal as a whole, after the last batch: every OneDrive and PDF text
   without `duplicate_of` has `editorial_pass` or is listed with the reason
   it does not.
+
+## Follow-up
+
+- `scripts/64-add-frontmatter.mjs` rewrites a OneDrive text's frontmatter
+  from `manifests/onedrive.json`, which has no `editorial_pass`: a rerun
+  would demote every promoted text, as 73 would have before batch 01.
+  Found by batch 01's fifth review; 64 is not run since the OneDrive
+  import, so it is left for the goal that next touches it.
