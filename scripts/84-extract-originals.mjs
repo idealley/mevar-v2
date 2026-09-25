@@ -37,7 +37,7 @@ function text(pdf) {
     .replace(/<a name=\d+><\/a>|<hr\/?>|<br\/>/g, "\n")
     .replace(/<b>/g, B).replace(/<\/b>/g, E)
     .replace(/<[^>]+>/g, ""))
-    .replace(/ /g, " ");
+    .replace(/\u00a0/g, " ");
   // Bold never crosses a line: it is closed at the end of each line and
   // opened again on the next, so every line is balanced.
   let on = false;
@@ -50,8 +50,13 @@ function text(pdf) {
     .replace(new RegExp(`${E}([ \\t]*)${B}`, "g"), "$1")                       // one run within a line
     .replace(new RegExp(`${B}([^\\p{L}\\p{N}${B}${E}]*)${E}`, "gu"), "$1")      // bold with no word in it, first
     .replace(new RegExp(`${B}(\\s*)`, "g"), `$1${B}`).replace(new RegExp(`(\\s*)${E}`, "g"), `${E}$1`)
-    .replace(new RegExp(`([\\p{L}\\p{N}]+)${B}(?=[\\p{L}\\p{N}])`, "gu"), `${B}$1`) // inside a word: to its start
-    .replace(new RegExp(`(?<=[\\p{L}\\p{N}])${E}([\\p{L}\\p{N}]+)`, "gu"), `$1${E}`) // inside a word: to its end
+    .replace(new RegExp(`(\\p{L}+)${B}(?=\\p{L})`, "gu"), `${B}$1`)            // inside a word: to its start
+    .replace(new RegExp(`(?<=\\p{L})${E}(\\p{L}+)`, "gu"), `$1${E}`)            // inside a word: to its end
+    // against its words, as markdown needs to render it bold ("donnée**. Mais
+    // …**" renders plain): the punctuation at a run's edges stays outside
+    .replace(new RegExp(`${B}([^\\p{L}\\p{N}\\n${B}${E}]+)`, "gu"), `$1${B}`)
+    .replace(new RegExp(`([^\\p{L}\\p{N}\\n${B}${E}]+)${E}`, "gu"), `${E}$1`)
+    .replace(new RegExp(`${B}${E}`, "g"), "")
     .replace(new RegExp(`[${B}${E}]`, "g"), "**");
 }
 
