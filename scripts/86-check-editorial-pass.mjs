@@ -6,8 +6,9 @@
 // changes goal 04 allows:
 //   - whitespace, punctuation, paragraph breaks: not words, not compared (a
 //     heading, HTML or an odd number of ** is unexplained);
-//   - the preacher's bold stays on the same words; only a verse number in a
-//     quote may become bold (counted);
+//   - the preacher's bold stays on the same words; only a verse number may
+//     change, next to its neighbour or covered by a reference cited there
+//     (counted);
 //   - typography: case, œ/oe, an accent on a capital (Eglise → Église) when
 //     the unaccented form is not a word (A → À is a substitution); a word in
 //     capitals may get its accents back only in the title;
@@ -161,7 +162,7 @@ function sentence(text, at) {
 
 const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
 // Words a transcript's header has besides the frontmatter's
-const HEADER_WORDS = "prêché prêchée prédication exhortation article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
+const HEADER_WORDS = "prêché prêchée prédication exhortation fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
 
 const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive.json"), "utf8"));
 const db = await connect();
@@ -199,50 +200,53 @@ for (const md of batch) {
   }
   for (const u of pass.unresolved) r.unexplained.push(`reading announced as « ${u} » could not be resolved: nothing inserted`);
 
-  // The document's header: the original's words before the ones the body
-  // opens with (6 of its first 8, the pass may have corrected one), within
-  // the first 80, and only if every one of them is in the frontmatter (title,
-  // subtitle, date, place, preacher) or a header's own word; listed.
   const file = fs.readFileSync(path.join(root, md), "utf8");
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
   const field = (k) => JSON.parse(fm.match(new RegExp(`^${k}: (.*)$`, "m"))?.[1] ?? '""');
   const oldTitle = field("title");
   const after = rendered(body, r.unexplained);
-  const ow = words(original);
-  r.words = ow.length;
-  const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
-  const key = (w) => bare(fold(w));
-  const [y, mo, d] = field("date").split("-");
-  const own = new Set([oldTitle, pass.title, field("subtitle"), field("location"), field("preacher"),
-    `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
-  const header = k > 0 ? original.slice(0, ow[k].at) : "";
-  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w));
-  r.removed = isHeader ? [header.replace(/\s+/g, " ").trim()] : [];
-  let compared = isHeader ? " ".repeat(ow[k].at) + original.slice(ow[k].at) : original;
+  r.words = words(original).length;
 
-  // Printed page furniture the pass removes: the old site's navigation bar,
-  // the browser's print header and footer ("http://mevar.org/….html  1/4",
-  // "13/03/2010  MEVAR"), a number of one to three digits alone on its line
-  // (a page number), and a digit between two letters where the same digit
-  // does that five times or more, a glyph that stood for "…" ("serviteur4ils").
+  // Printed page furniture the pass removes, first: the old site's navigation
+  // bar, the browser's print header and footer ("http://mevar.org/….html
+  // 1/4", "13/03/2010  MEVAR", or its date and "MEVAR" on lines of their
+  // own), a digit between two letters where the same
+  // digit does that five times or more (a glyph that stood for "…":
+  // "serviteur4ils"), and a number of one to three digits alone on its line
+  // that is 1 or 2 above the last one (a page number; a page may have none).
+  let compared = original;
   const glyphs = new Set([..."0123456789"].filter((d) => (compared.match(new RegExp(`(?<=\\p{L})${d}(?=\\p{L})`, "gu")) ?? []).length >= 5));
   const furniture = [
     [/^\s*Haut\s+de\s+page\s+Retour\s+Page\s+d['’]accueil\s*$/gm, "print"],
     [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
-    [/^\s*\d{2}\/\d{2}\/\d{4}\s+MEVAR\s*$/gm, "print"],
+    [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
   ];
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
   for (const [re, kind] of furniture)
     compared = compared.replace(re, (m) => { r.counts[kind]++; return " ".repeat(m.length); });
-  // Page numbers go up: a number alone on its line is one only if it is
-  // above the last one by 1 or 2 (a page may have none).
   let page = 0;
   compared = compared.replace(/^[#*_ ]*(\d{1,3})[*_ ]*$/gm, (m, n) => {
     if (Number(n) <= page || Number(n) > page + 2) return m;
     page = Number(n);
     r.counts.pageNumbers++;
-    return " ".repeat(m.length);
+    return m.replace(/[^*]/g, " ");
   });
+
+  // The document's header: the words before the ones the body opens with (6
+  // of its first 8, the pass may have corrected one), within the first 80,
+  // and only if every one of them is in the frontmatter (title, subtitle,
+  // date, place, preacher) or a header's own word; listed. Its words go, its
+  // ** stay: a run may open just before the body's first word.
+  const ow = words(compared);
+  const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
+  const key = (w) => bare(fold(w));
+  const [y, mo, d] = field("date").split("-");
+  const own = new Set([oldTitle, pass.title, field("subtitle"), field("location"), field("preacher"),
+    `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
+  const header = k > 0 ? compared.slice(0, ow[k].at) : "";
+  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w));
+  r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
+  if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
 
   const text = (xs) => xs.map((x) => x.w).join(" ");
   const join = (xs) => fold(xs.map((x) => x.w).join(""));
@@ -283,11 +287,26 @@ for (const md of batch) {
     return c;
   }
   const { changes, equal } = hunks(words(compared), after);
-  // The preacher's bold: on the same words, except a verse number (1 to 176,
-  // before a capital) that becomes bold in a quote.
+  // The preacher's bold: on the same words, except a verse number, whose
+  // bold is the house style's: a number up to 176 next to the bold number
+  // before or after it, in its paragraph or the next or previous one (**48**
+  // … **49**; a reading may give each verse its paragraph), or covered by a
+  // reference (with the verse, or the chapter) cited in its paragraph or the
+  // two before, or followed by a word that starts a verse, with a capital
+  // (**17** Jésus, reprenant…); "> Il avait **40** ans" is none of these.
+  const paras = body.split(/\n\s*\n/);
+  const paraOf = (at) => body.slice(0, at).split(/\n\s*\n/).length - 1;
+  const boldNumbers = new Set(after.filter((x) => x.bold && /^\d+$/.test(x.w)).map((x) => `${paraOf(x.at)}:${x.w}`));
+  const covered = (p, v) => [...citations(paras.slice(Math.max(p - 2, 0), p + 1).join("\n"))].some((c) => {
+    const m = c.ref.match(/:(\d+)(?:-(\d+))?/);
+    return !m || (v >= Number(m[1]) && v <= Number(m[2] ?? m[1]));
+  });
   const next = new Map(after.map((x, i) => [x, after[i + 1]]));
-  const verse = (o, n) => !o.bold && n.bold && n.quote && /^\d+$/.test(n.w) && Number(n.w) <= 176
-    && /^\p{Lu}/u.test(next.get(n)?.w ?? "");
+  const verse = (o, n) => o.bold !== n.bold && /^\d+$/.test(n.w) && Number(n.w) <= 176 && (() => {
+    const p = paraOf(n.at), v = Number(n.w);
+    return /^\p{Lu}/u.test(next.get(n)?.w ?? "") || covered(p, v)
+      || [p - 1, p, p + 1].some((q) => boldNumbers.has(`${q}:${v - 1}`) || boldNumbers.has(`${q}:${v + 1}`));
+  })();
   let run = null;
   const flush = () => { if (run) r.unexplained.push(`bold ${run.added ? "added to" : "removed from"} « ${run.words.join(" ")} » in: ${sentence(body, run.at)}`); run = null; };
   for (const [o, n] of equal) {
