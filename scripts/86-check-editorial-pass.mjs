@@ -4,33 +4,37 @@
 // For each text of the batch it compares the original (.parse-cache/, from 84)
 // with the pass (.pass-cache/, from 85) word by word and accepts only the
 // changes goal 04 allows:
-//   - whitespace, punctuation, markup, paragraph breaks: not words, not compared;
-//   - typography: case, œ/oe, an accent on a capital (Eglise → Église) or on
-//     a word in capitals (DESERT → désert) when the unaccented form is not a
-//     word (A → À is a substitution);
-//   - spacing: a word split or joined with the same letters (c omme → comme);
-//   - printed furniture removed: a number alone on its line (page number), the
-//     browser's print header and footer ("…/exo_nov07.html  1/4",
-//     "13/03/2010  MEVAR"), the old site's "Haut de page Retour Page
-//     d'accueil" bar, a digit between two letters (a glyph for "…"); counted;
-//   - the document's header removed: the original's words before those the
-//     body opens with, within the first 80 (title, "Prêché le … à …", which
-//     the frontmatter holds); listed;
+//   - whitespace, punctuation, emphasis, paragraph breaks: not words, not
+//     compared (a heading, HTML or an odd number of ** is unexplained);
+//   - typography: case, œ/oe, an accent on a capital (Eglise → Église) when
+//     the unaccented form is not a word (A → À is a substitution); a word in
+//     capitals may get its accents back only in the title;
+//   - spacing: a word split or joined with the same letters, a side not a
+//     word (c omme → comme; "sur tout" → "surtout" is a substitution), and
+//     digits in groups of three (50000 → 50 000);
+//   - printed furniture removed, counted: a number of 1 to 3 digits alone on
+//     its line (page number), the browser's print header and footer
+//     ("…/exo_nov07.html  1/4", "13/03/2010  MEVAR"), the old site's "Haut de
+//     page Retour Page d'accueil" bar, and a digit between two letters where
+//     that digit does so five times or more (a glyph for "…");
+//   - the document's header removed, listed: the original's words before
+//     those the body opens with, within the first 80, holding the title;
 //   - a reading inserted where the pass put a marker: " (Réf)" and the
-//     blockquote, which must equal the Segond verses in SurrealDB exactly,
-//     for a reference the original cites (same book, chapter, first verse).
+//     blockquote, which must equal the Segond verses in SurrealDB, for a
+//     reference cited both in the original and in the paragraph it closes.
 // A word replaced by another is never accepted silently: it goes into the
 // substitution table, as a non-word corrected to a word (the French Hunspell
 // dictionary says which) or as a word replaced by a word; a word the PDF's
 // text layer broke and the pass joined, a letter or two restored ("réa ite"
-// → "réalité", at most one dictionary word on the left), goes to the latter. Any other change
-// (a word added or removed, several words for a different number of others,
-// a reading that is not Segond or not announced, an odd number of ** in a
-// paragraph) is unexplained, and the text is not written.
+// → "réalité", at most one dictionary word on the left), goes to the latter.
+// Any other change (a word added or removed, several words for a different
+// number of others, a reading not Segond, not announced or not resolved) is
+// unexplained, and the text is not written.
 //
 // A text with no unexplained change is written to markdown/: the pass's body,
-// its title where only typography changed, and editorial_pass: "<date>". A
-// text that already has editorial_pass is left as it is. The report goes to
+// its title where only typography changed (also in manifests/onedrive.json,
+// which 50 reads), and editorial_pass: "<date>". A text that already has
+// editorial_pass is left as it is. The report goes to
 // docs/goals/evidence/goal-10-batch-<batch>.md.
 //
 // Usage: node scripts/86-check-editorial-pass.mjs <batch>   (SurrealDB with 110 run)
@@ -50,9 +54,9 @@ const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editoria
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
 
-// Words with their position; a number glued to letters is its own word
-// ("11novembre1962").
-const words = (text) => [...text.matchAll(/\p{L}+|\p{N}+/gu)].map((m) => ({ w: m[0], at: m.index }));
+// Words with their position, in NFC text; a number glued to letters is its
+// own word ("11novembre1962").
+const words = (text) => [...text.matchAll(/[\p{L}\p{M}]+|\p{N}+/gu)].map((m) => ({ w: m[0], at: m.index }));
 
 function distance(a, b) {
   let row = [...Array(b.length + 1).keys()];
@@ -66,13 +70,14 @@ function distance(a, b) {
 
 const fold = (w) => w.toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae");
 const bare = (w) => w.normalize("NFD").replace(/\p{Diacritic}/gu, "");
-function typography(a, b) {
+// Typography: case, œ/oe, and an accent on a capital where the word without
+// it is not a word ("Eglise" → "Église"; "A" → "À" is a word replaced by a
+// word). A word in capitals has lost all its accents ("PECHE" is péché or
+// pêche), so only a title may have them back ("LES FILS DU DESERT").
+function typography(a, b, title = false) {
   if (fold(a) === fold(b)) return true;
-  // An accent restored where capitals dropped it, and only where the word
-  // without it is not a word: "Eglise" → "Église", "DESERT" → "désert"; but
-  // "A" → "À", "OU" → "où", "LA" → "là" are words replaced by words.
   if (isWord(a.toLowerCase())) return false;
-  if (a === a.toUpperCase() && bare(fold(a)) === bare(fold(b))) return true;
+  if (title && a === a.toUpperCase() && bare(fold(a)) === bare(fold(b))) return true;
   return a[0] !== a[0].toLowerCase() && b[0] !== b[0].toLowerCase()
     && bare(a[0]) === bare(b[0]) && fold(a.slice(1)) === fold(b.slice(1));
 }
@@ -86,8 +91,10 @@ function hunks(a, b) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), "goal10-"));
   fs.writeFileSync(`${dir}/a`, a.map((x) => x.w).join("\n") + "\n");
   fs.writeFileSync(`${dir}/b`, b.map((x) => x.w).join("\n") + "\n");
-  const out = spawnSync("diff", [`${dir}/a`, `${dir}/b`], { encoding: "utf8", maxBuffer: 1 << 28 }).stdout;
+  const res = spawnSync("diff", [`${dir}/a`, `${dir}/b`], { encoding: "utf8", maxBuffer: 1 << 28 });
   fs.rmSync(dir, { recursive: true });
+  if (res.status !== 0 && res.status !== 1) throw new Error(`diff failed: ${res.error ?? res.stderr}`);
+  const out = res.stdout;
   const range = (s) => { const [x, y = x] = s.split(",").map(Number); return [x, y]; };
   const merged = [];
   for (const m of out.matchAll(/^(\d+(?:,\d+)?)([acd])(\d+(?:,\d+)?)$/gm)) {
@@ -110,54 +117,71 @@ function sentence(text, at) {
   return text.slice(start, ends.length ? Math.min(...ends) + 1 : undefined).trim();
 }
 
+const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive.json"), "utf8"));
 const db = await connect();
 const today = new Date().toISOString().slice(0, 10);
 const rows = [];
 for (const md of batch) {
   const rel = md.slice("markdown/".length);
-  const original = fs.readFileSync(path.join(root, ".parse-cache", rel), "utf8");
+  const original = fs.readFileSync(path.join(root, ".parse-cache", rel), "utf8").normalize("NFC");
   const pass = JSON.parse(fs.readFileSync(path.join(root, ".pass-cache", rel.replace(/\.md$/, ".json")), "utf8"));
   const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, navigation: 0, glyph: 0 }, nonWord: [], word: [], unexplained: [], readings: [], pass };
 
   // The inserted readings leave the compared text once they are verified:
-  // the Segond verses, for a reference the original cites.
+  // the Segond verses, for a reference the original cites in the paragraph
+  // the reading closes (same first verse; the same last one if it says one).
   const cited = [...citations(original)];
-  let body = pass.body;
+  let body = pass.body.normalize("NFC");
+  const matches = (c, ref) => c.ref.includes("-") ? c.ref === ref
+    : c.ref === ref.replace(/-\d+$/, "") || c.ref === ref.replace(/:.*$/, "");
   for (const { ref } of pass.readings) {
     const verses = await reading(db, ref);
     const inserted = verses && ` (${ref})\n\n${blockquote(verses)}`;
-    const start = ref.replace(/-\d+$/, "");
-    const announced = cited.find((c) => c.ref.replace(/-\d+$/, "") === start || c.ref === start.replace(/:\d+$/, ""));
-    if (!inserted || !body.includes(inserted)) r.unexplained.push(`reading ${ref} is not the Segond text`);
-    else if (!announced) r.unexplained.push(`reading ${ref} inserted, but the original does not cite it`);
+    const at = inserted ? body.indexOf(inserted) : -1;
+    const paragraph = body.slice(body.lastIndexOf("\n\n", at) + 1, at);
+    const announced = cited.find((c) => matches(c, ref));
+    if (at < 0) r.unexplained.push(`reading ${ref} is not the Segond text`);
+    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)))
+      r.unexplained.push(`reading ${ref} inserted, but the paragraph before it and the original do not announce it`);
     else {
       body = body.replace(inserted, "");
       r.readings.push({ said: announced.text, ref });
     }
   }
-  for (const p of pass.body.split(/\n\s*\n/))
+  for (const u of pass.unresolved) r.unexplained.push(`reading announced as « ${u} » could not be resolved: nothing inserted`);
+  for (const p of body.split(/\n\s*\n/)) {
     if ((p.match(/\*\*/g) ?? []).length % 2) r.unexplained.push(`an odd number of ** in: ${p.slice(0, 200)}`);
+    if (/^#/m.test(p)) r.unexplained.push(`a heading, which a sermon has none of: ${p.slice(0, 200)}`);
+    if (/<!--|<\/?[a-z][^>]*>/i.test(p)) r.unexplained.push(`HTML in: ${p.slice(0, 200)}`);
+  }
 
   // The document's header: the original's words before the ones the body
-  // opens with (6 of its first 8, the pass may have corrected one), if the
-  // body opens within the first 80 words; listed.
+  // opens with (6 of its first 8, the pass may have corrected one), within
+  // the first 80, and only if they hold the title, as a header does; listed.
+  const file = fs.readFileSync(path.join(root, md), "utf8");
+  const oldTitle = JSON.parse(file.match(/^title: (.*)$/m)[1]);
   const after = words(body);
   const ow = words(original);
   r.words = ow.length;
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
-  r.removed = k > 0 ? [original.slice(0, ow[k].at).replace(/\s+/g, " ").trim()] : [];
-  let compared = k > 0 ? " ".repeat(ow[k].at) + original.slice(ow[k].at) : original;
+  const flat = (t) => words(t).map((x) => bare(fold(x.w))).join(" ");
+  const header = k > 0 ? original.slice(0, ow[k].at) : "";
+  const isHeader = [oldTitle, pass.title].some((t) => flat(t) && flat(header).includes(flat(t)));
+  r.removed = isHeader ? [header.replace(/\s+/g, " ").trim()] : [];
+  let compared = isHeader ? " ".repeat(ow[k].at) + original.slice(ow[k].at) : original;
 
   // Printed page furniture the pass removes: the old site's navigation bar,
   // the browser's print header and footer ("http://mevar.org/….html  1/4",
-  // "13/03/2010  MEVAR"), a number alone on its line (a page number), and a
-  // digit between two letters, a glyph that stood for "…" ("serviteur4ils").
+  // "13/03/2010  MEVAR"), a number of one to three digits alone on its line
+  // (a page number), and a digit between two letters where the same digit
+  // does that five times or more, a glyph that stood for "…" ("serviteur4ils").
+  const glyphs = new Set([..."0123456789"].filter((d) => (compared.match(new RegExp(`(?<=\\p{L})${d}(?=\\p{L})`, "gu")) ?? []).length >= 5));
   const furniture = [
     [/^\s*Haut\s+de\s+page\s+Retour\s+Page\s+d['’]accueil\s*$/gm, "navigation"],
     [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
     [/^\s*\d{2}\/\d{2}\/\d{4}\s+MEVAR\s*$/gm, "print"],
-    [/^[#*_ ]*\d+[*_ ]*$/gm, "pageNumbers"],
-    [/(?<=\p{L})\d(?=\p{L})/gu, "glyph"],
+    [/^[#*_ ]*\d{1,3}[*_ ]*$/gm, "pageNumbers"],
+    [new RegExp(`(?<=\\p{L})[${[...glyphs].join("") || "-"}](?=\\p{L})`, "gu"), "glyph"],
   ];
   for (const [re, kind] of furniture)
     compared = compared.replace(re, (m) => { r.counts[kind]++; return " ".repeat(m.length); });
@@ -167,10 +191,22 @@ for (const md of batch) {
   // Reads one change; returns what it found, without touching r.
   function classify({ before, after: now, at }) {
     const c = { typography: 0, spacing: 0, nonWord: [], word: [], unexplained: [] };
-    if (before.length && now.length && join(before) === join(now) && before.length !== now.length) c.spacing++;
-    else if (before.length === now.length) {
+    const both = [...before, ...now];
+    if (before.length && now.length && join(before) === join(now) && before.length !== now.length) {
+      // A split or join of the same letters: spacing where a side is not a
+      // word ("c omme" → "comme"); a substitution where all are words ("si
+      // non" → "sinon", as "sur tout" → "surtout" would be); for digits, only
+      // the thousands separator ("50000" → "50 000") is typography.
+      if (both.every((x) => /^\d+$/.test(x.w))) {
+        if (before.length === 1 && now.slice(1).every((x) => x.w.length === 3)) c.typography++;
+        else c.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
+      } else if (both.some((x) => /^\d+$/.test(x.w))) c.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
+      else if (both.some((x) => !isWord(x.w))) c.spacing++;
+      else c.word.push({ before: text(before), after: text(now), sentence: sentence(body, now[0].at) });
+    } else if (before.length === now.length) {
       before.forEach((b, i) => {
         const a = now[i];
+        if (b.w === a.w) return;
         if (typography(b.w, a.w)) { c.typography++; return; }
         const row = { before: b.w, after: a.w, sentence: sentence(body, a.at) };
         (!isWord(b.w) && isWord(a.w) ? c.nonWord : c.word).push(row);
@@ -197,22 +233,24 @@ for (const md of batch) {
   }
 
   // The title: only typography may change.
-  const file = fs.readFileSync(path.join(root, md), "utf8");
-  const oldTitle = JSON.parse(file.match(/^title: (.*)$/m)[1]);
   const [ot, nt] = [words(oldTitle), words(pass.title)];
-  r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w)) ? pass.title : oldTitle;
+  r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w, true)) ? pass.title : oldTitle;
   r.titleRefused = r.title === pass.title ? "" : pass.title;
 
-  if (!r.unexplained.length && !/^editorial_pass:/m.test(file)) {
-    const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
-    const newFm = fm.replace(/^title: .*$/m, `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
+  const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
+  const promoted = /^editorial_pass:/m.test(fm);
+  if (!r.unexplained.length && !promoted) {
+    const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${pass.body}\n`);
+    // 50 takes index.json's titles from the manifest
+    manifest.find((e) => e.local_md === md).title = r.title;
   }
-  r.promoted = !r.unexplained.length || /^editorial_pass:/m.test(file);
+  r.promoted = !r.unexplained.length || promoted;
   rows.push(r);
   console.log(`${md}: ${r.promoted ? "promoted" : "NOT promoted"} | typography ${r.counts.typography}, spacing ${r.counts.spacing}, page numbers ${r.counts.pageNumbers}, print ${r.counts.print + r.counts.navigation}, glyphs ${r.counts.glyph}, non-word→word ${r.nonWord.length}, word→word ${r.word.length}, readings ${r.readings.length}, unexplained ${r.unexplained.length}`);
 }
 await db.close();
+fs.writeFileSync(path.join(root, "manifests/onedrive.json"), JSON.stringify(manifest, null, 2));
 
 // ─── Report ──────────────────────────────────────────────────────────────────
 const cell = (s) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");

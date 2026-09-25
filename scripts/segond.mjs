@@ -29,8 +29,8 @@ export async function reading(db, ref) {
   const ids = [];
   for (let v = start; v <= Number(m[4] ?? start); v++) ids.push(new RecordId("bible_verse", [order, chapter, v]));
   const [rows] = await db.query("SELECT id, lsg FROM $ids", { ids });
-  if (rows.length !== ids.length) return null;
-  return rows.map((r) => ({ n: r.id.id[2], text: tidy(r.lsg) }));
+  if (!ids.length || rows.length !== ids.length) return null;
+  return rows.map((r) => ({ n: r.id.id[2], text: tidy(r.lsg) })).sort((a, b) => a.n - b.n);
 }
 
 export const blockquote = (verses) => `> _${verses.map((v) => `**${v.n}**${v.text}`).join(" ")}_`;

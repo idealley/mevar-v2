@@ -28,9 +28,12 @@ for (const md of batch) {
   const stem = "onedrive/" + md.slice("markdown/onedrive/".length, -".md".length);
   const hits = inventory.filter((e) => [e.canonical_path, ...e.aliases].some((p) => p.replace(/\.[^.]+$/, "") === stem));
   const pick = hits.find((e) => e.ext === ".pdf");
+  if (!pick) throw new Error(`${md}: no PDF original in manifests/onedrive-inventory.json`);
   const src = path.join(root, pick.canonical_path);
   fs.mkdirSync(path.dirname(out), { recursive: true });
-  const lit = spawnSync(path.join(root, "node_modules/.bin/lit"), ["parse", "-q", "--no-ocr", "-o", out, src], { encoding: "utf8" });
+  // Through a temporary file, so a failed parse never leaves a text 85 and 86 would trust.
+  const lit = spawnSync(path.join(root, "node_modules/.bin/lit"), ["parse", "-q", "--no-ocr", "-o", `${out}.part`, src], { encoding: "utf8" });
   if (lit.status !== 0) throw new Error(`${src}: ${lit.stderr}`);
+  fs.renameSync(`${out}.part`, out);
   console.log(`${md} ← ${pick.canonical_path}`);
 }

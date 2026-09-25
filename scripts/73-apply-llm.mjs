@@ -141,6 +141,14 @@ for (const cacheFile of fs.readdirSync(cacheDir)) {
     continue;
   }
 
+  // A text that had goal 10's pass keeps its body, frontmatter and manifest
+  // entry: its title is the pass's, not the cache's.
+  if (entry.local_md && fs.existsSync(path.join(root, entry.local_md))
+    && /^editorial_pass:/m.test(fs.readFileSync(path.join(root, entry.local_md), "utf8").split("\n---\n")[0])) {
+    stats.editorial_pass++;
+    continue;
+  }
+
   // Merge LLM fields into manifest entry (keep existing if LLM returned null).
   // A date or location "Unknown", "Unknown (likely Florida…)" is the model
   // saying it has nothing.
@@ -200,11 +208,6 @@ for (const cacheFile of fs.readdirSync(cacheDir)) {
   }
   if (!fs.existsSync(mdPath)) {
     stats.missing_cache++;
-    continue;
-  }
-
-  if (/^editorial_pass:/m.test(fs.readFileSync(mdPath, "utf8").split("\n---\n")[0])) {
-    stats.editorial_pass++;
     continue;
   }
 
