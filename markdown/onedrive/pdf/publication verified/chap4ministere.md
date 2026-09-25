@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap4ministere"
+duplicate_of: "onedrive/les_cinq_ministeres_de_la_parole"
 title: "Le Ministère de Prophète"
 summary: "Ce document explore le ministère prophétique dans la Bible, depuis les patriarches (Abraham, Isaac, Jacob) jusqu'aux prophètes de l'accomplissement (Moïse, Josué), en passant par les prophètes messianiques (David, Ésaïe) et Jean-Baptiste. Il aborde également les prophéties de Jésus concernant les nations, Israël et l'Église, et présente William Branham comme la manifestation du Fils de l'homme pour les derniers temps."
 tags:

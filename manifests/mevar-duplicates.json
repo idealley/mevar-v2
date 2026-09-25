@@ -4300,6 +4300,51 @@
       ]
     },
     {
+      "keep": "mevar/le-sermon-sur-la-montagne-4",
+      "rule": "ghost post (several, first by id)",
+      "held": null,
+      "members": [
+        {
+          "id": "mevar-pdfs/etude_biblique_le_sermon_sur_la_montagne_3_et_4_3_avril_2020",
+          "title": "ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU",
+          "shingles": 10964,
+          "ocr_tokens": 1
+        },
+        {
+          "id": "mevar/le-sermon-sur-la-montagne-4",
+          "title": "Le Sermon sur la Montagne (4)",
+          "shingles": 6223,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "mevar/le-sermon-sur-la-montagne-matthieu-5-17-24",
+          "title": "Le sermon sur la montagne (3)",
+          "shingles": 5241,
+          "ocr_tokens": 0
+        }
+      ],
+      "pairs": [
+        {
+          "a": "mevar-pdfs/etude_biblique_le_sermon_sur_la_montagne_3_et_4_3_avril_2020",
+          "b": "mevar/le-sermon-sur-la-montagne-4",
+          "band": "download",
+          "decision": null,
+          "in_a": 0.515,
+          "in_b": 0.907,
+          "title": 0
+        },
+        {
+          "a": "mevar-pdfs/etude_biblique_le_sermon_sur_la_montagne_3_et_4_3_avril_2020",
+          "b": "mevar/le-sermon-sur-la-montagne-matthieu-5-17-24",
+          "band": "download",
+          "decision": null,
+          "in_a": 0.431,
+          "in_b": 0.901,
+          "title": 0
+        }
+      ]
+    },
+    {
       "keep": "mevar/le-soldat-urie",
       "rule": "ghost post",
       "held": null,
@@ -4805,6 +4850,51 @@
           "decision": null,
           "in_a": 0.961,
           "in_b": 0.963,
+          "title": 1
+        }
+      ]
+    },
+    {
+      "keep": "mevar/les-liens-spirituels",
+      "rule": "ghost post (several, first by id)",
+      "held": null,
+      "members": [
+        {
+          "id": "mevar-pdfs/les_liens_spirituels_1_et_2_6_avril_2020",
+          "title": "Les liens spirituels",
+          "shingles": 13924,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "mevar/les-liens-spirituels",
+          "title": "Les liens spirituels (1)",
+          "shingles": 6266,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "mevar/les-liens-spirituels-deuxieme-partie",
+          "title": "Les liens spirituels (2)",
+          "shingles": 8154,
+          "ocr_tokens": 0
+        }
+      ],
+      "pairs": [
+        {
+          "a": "mevar-pdfs/les_liens_spirituels_1_et_2_6_avril_2020",
+          "b": "mevar/les-liens-spirituels",
+          "band": "download",
+          "decision": null,
+          "in_a": 0.421,
+          "in_b": 0.935,
+          "title": 1
+        },
+        {
+          "a": "mevar-pdfs/les_liens_spirituels_1_et_2_6_avril_2020",
+          "b": "mevar/les-liens-spirituels-deuxieme-partie",
+          "band": "download",
+          "decision": null,
+          "in_a": 0.545,
+          "in_b": 0.931,
           "title": 1
         }
       ]
@@ -6298,60 +6388,6 @@
       ]
     },
     {
-      "keep": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
-      "rule": "ghost post",
-      "held": null,
-      "members": [
-        {
-          "id": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
-          "title": "Trois grandes visions du message de la fin des temps",
-          "shingles": 12464,
-          "ocr_tokens": 6
-        },
-        {
-          "id": "onedrive/chap13ministere",
-          "title": "Trois Grandes Visions du Message de la Fin des Temps",
-          "shingles": 12453,
-          "ocr_tokens": 1
-        },
-        {
-          "id": "onedrive/chap13ministere (trois grandes visions)",
-          "title": "Trois Grandes Visions du Message de la Fin des Temps",
-          "shingles": 12453,
-          "ocr_tokens": 2
-        }
-      ],
-      "pairs": [
-        {
-          "a": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
-          "b": "onedrive/chap13ministere",
-          "band": "same_text",
-          "decision": null,
-          "in_a": 0.962,
-          "in_b": 0.962,
-          "title": 1
-        },
-        {
-          "a": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
-          "b": "onedrive/chap13ministere (trois grandes visions)",
-          "band": "same_text",
-          "decision": null,
-          "in_a": 0.961,
-          "in_b": 0.962,
-          "title": 1
-        },
-        {
-          "a": "onedrive/chap13ministere",
-          "b": "onedrive/chap13ministere (trois grandes visions)",
-          "band": "same_text",
-          "decision": null,
-          "in_a": 0.972,
-          "in_b": 0.972,
-          "title": 1
-        }
-      ]
-    },
-    {
       "keep": "mevar/tu-demandes-une-chose-difficile",
       "rule": "ghost post",
       "held": null,
@@ -6742,6 +6778,354 @@
       ]
     },
     {
+      "keep": "onedrive/les_cinq_ministeres_de_la_parole",
+      "rule": "more of the sermon",
+      "held": null,
+      "members": [
+        {
+          "id": "onedrive/chap10ministere",
+          "title": "La parabole des talents",
+          "shingles": 2448,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap11ministere",
+          "title": "La parabole de la lampe",
+          "shingles": 1952,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap12ministere",
+          "title": "LES FAUX CHRIST ET LES FAUX PROPHETES",
+          "shingles": 8506,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap13ministere",
+          "title": "Trois Grandes Visions du Message de la Fin des Temps",
+          "shingles": 12453,
+          "ocr_tokens": 1
+        },
+        {
+          "id": "onedrive/chap13ministere (trois grandes visions)",
+          "title": "Trois Grandes Visions du Message de la Fin des Temps",
+          "shingles": 12453,
+          "ocr_tokens": 2
+        },
+        {
+          "id": "onedrive/chap14ministere",
+          "title": "EPILOGUE",
+          "shingles": 351,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap1ministere",
+          "title": "Les 5 Ministères de la Parole dans la vision des temps de la fin",
+          "shingles": 21804,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap2ministere",
+          "title": "Les cinq Ministères de la Parole",
+          "shingles": 5992,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap3ministere",
+          "title": "Le Ministère d'Apôtre",
+          "shingles": 4437,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap4ministere",
+          "title": "Le Ministère de Prophète",
+          "shingles": 17355,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap5ministere",
+          "title": "Le Ministère d'Evangéliste",
+          "shingles": 6099,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap6ministere",
+          "title": "Le Ministère de Pasteur (Jean 10)",
+          "shingles": 5181,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap7ministere",
+          "title": "Le Ministère de Docteur",
+          "shingles": 3298,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/chap8ministere",
+          "title": "Les Anges de la Prédication et de la Prière",
+          "shingles": 1710,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/les_cinq_ministeres_de_la_parole",
+          "title": "Les Cinq Ministères de la Parole dans la vision des temps de la fin",
+          "shingles": 112048,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/les_ouvriers_du_royaume",
+          "title": "Parfait M’BRA",
+          "shingles": 80658,
+          "ocr_tokens": 73
+        }
+      ],
+      "pairs": [
+        {
+          "a": "onedrive/chap10ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.967,
+          "in_b": 0.021,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap10ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.943,
+          "in_b": 0.029,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap11ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.971,
+          "in_b": 0.017,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap11ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.949,
+          "in_b": 0.023,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap12ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.968,
+          "in_b": 0.073,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap12ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.888,
+          "in_b": 0.094,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap13ministere",
+          "b": "onedrive/chap13ministere (trois grandes visions)",
+          "band": "same_text",
+          "decision": null,
+          "in_a": 0.972,
+          "in_b": 0.972,
+          "title": 1
+        },
+        {
+          "a": "onedrive/chap13ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.94,
+          "in_b": 0.104,
+          "title": 0.182
+        },
+        {
+          "a": "onedrive/chap13ministere (trois grandes visions)",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.94,
+          "in_b": 0.104,
+          "title": 0.182
+        },
+        {
+          "a": "onedrive/chap14ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.969,
+          "in_b": 0.003,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap1ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.98,
+          "in_b": 0.191,
+          "title": 0.909
+        },
+        {
+          "a": "onedrive/chap1ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.812,
+          "in_b": 0.219,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap2ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.98,
+          "in_b": 0.052,
+          "title": 0.667
+        },
+        {
+          "a": "onedrive/chap2ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.95,
+          "in_b": 0.071,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap3ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.992,
+          "in_b": 0.039,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap3ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.968,
+          "in_b": 0.053,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap4ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.975,
+          "in_b": 0.151,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap4ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.433,
+          "in_b": 0.093,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap5ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.943,
+          "in_b": 0.051,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap5ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.924,
+          "in_b": 0.07,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap6ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.982,
+          "in_b": 0.045,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap6ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.949,
+          "in_b": 0.061,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap7ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.959,
+          "in_b": 0.028,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap7ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.938,
+          "in_b": 0.038,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap8ministere",
+          "b": "onedrive/les_cinq_ministeres_de_la_parole",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.978,
+          "in_b": 0.015,
+          "title": 0
+        },
+        {
+          "a": "onedrive/chap8ministere",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.932,
+          "in_b": 0.02,
+          "title": 0
+        },
+        {
+          "a": "onedrive/les_cinq_ministeres_de_la_parole",
+          "b": "onedrive/les_ouvriers_du_royaume",
+          "band": "uncertain",
+          "decision": "same",
+          "in_a": 0.666,
+          "in_b": 0.924,
+          "title": 0
+        }
+      ]
+    },
+    {
       "keep": "onedrive/mariage_final_pdf",
       "rule": "more of the sermon",
       "held": null,
@@ -6774,38 +7158,8 @@
   ],
   "uncertain": [
     {
-      "key": "mevar-pdfs/etude_biblique_le_sermon_sur_la_montagne_3_et_4_3_avril_2020 | mevar/le-sermon-sur-la-montagne-4",
-      "decision": null,
-      "in_a": 0.515,
-      "in_b": 0.907,
-      "title": 0,
-      "a": {
-        "title": "ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU",
-        "excerpt": "ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU- 1 *Par frère M’BRA Parfait, le 3 Avril 2020* Mes bien-aimés frères et sœurs, que Dieu nous bénisse. Que la paix et la grâce du Seigneur soient sur nous. Nous allons continuer notre étude biblique que nous avons entamée il y a quelques jours. Ce matin nous allons lire à partir du verset 17 de Matthieu 5, concernant le sermon sur la montagne : > **17**Ne croyez pas que je sois venu pour abolir la loi ou les prophètes ; je suis venu non pour abolir, mais pour accomplir. **18**Car, je vous le dis en vérité, tant que le ciel et la terre ne passeront point, il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu'à ce que tout soit arrivé. **19**Celui donc qui supprimera l'un de ces plus petits commandements, et qui enseignera aux hommes à faire de même, sera appelé le plus petit dans le royaume des cieux ; mais celui qui les observera, et qui enseignera à les observer, celui-là sera appelé grand dans le royaume des cieux. **20**Car, je vous le dis, si votre justice ne surpasse celle des scribes et des pharisiens, vous n'entrerez point dans le royaume des cieux. **21**Vous avez entendu qu'il a été dit aux anciens : Tu ne tueras point ; celui qui tuera mérite d'être puni par les juges. **22**Mais moi, je vous dis que quiconque se met en colère contre son frère mérite d'être puni par les juges ; que celui qui dira à son frère : Raca ! mérite d'être puni par le sanhédrin ; et que celui qui lui dira : Insensé ! mérite d'être puni par le feu de la géhenne. **23**Si donc tu présentes ton offrande"
-      },
-      "b": {
-        "title": "Le Sermon sur la Montagne (4)",
-        "excerpt": "## Quatrième partie Continuation de l'étude sur le sermon sur la montagne: approfondissement sur la loi. Mes frères et sœurs bien-aimés, que Dieu vous bénisse. Ce matin nous allons continuer notre étude sur le sermon sur la montagne. Je voudrais continuer dans une deuxième séance sur la question concernant la loi parce que c’est un sujet important ; il est bien qu’on en dise un peu plus pour que les choses soient davantage claires dans l’esprit des uns et des autres. Je relis encore Matthieu 5 à partir du verset 17 pour rappeler le contexte : > Ne croyez pas que je sois venu pour abolir la loi ou les prophètes ; je suis venu non pour abolir, mais pour accomplir. Car, je vous le dis en vérité, tant que le ciel et la terre ne passeront point, il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu'à ce que tout soit arrivé. Celui donc qui supprimera l'un de ces plus petits commandements, et qui enseignera aux hommes à faire de même, sera appelé le plus petit dans le royaume des cieux ; mais celui qui les observera, et qui enseignera à les observer, celui-là sera appelé grand dans le royaume des cieux. Maintenant nous allons au verset 33 : > Vous avez encore appris qu'il a été dit aux anciens ; Tu ne te parjureras point, mais tu t'acquitteras envers le Seigneur de ce que tu as déclaré par serment. Mais moi, je vous dis de ne jurer aucunement, ni par le ciel, parce que c'est le trône de Dieu ; ni par la terre, parce que c'est son marchepied ni par Jérusalem, parce que c'est la ville du grand roi. Ne jure pas non plus par ta tête, car tu ne"
-      }
-    },
-    {
-      "key": "mevar-pdfs/etude_biblique_le_sermon_sur_la_montagne_3_et_4_3_avril_2020 | mevar/le-sermon-sur-la-montagne-matthieu-5-17-24",
-      "decision": null,
-      "in_a": 0.431,
-      "in_b": 0.901,
-      "title": 0,
-      "a": {
-        "title": "ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU",
-        "excerpt": "ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU- 1 *Par frère M’BRA Parfait, le 3 Avril 2020* Mes bien-aimés frères et sœurs, que Dieu nous bénisse. Que la paix et la grâce du Seigneur soient sur nous. Nous allons continuer notre étude biblique que nous avons entamée il y a quelques jours. Ce matin nous allons lire à partir du verset 17 de Matthieu 5, concernant le sermon sur la montagne : > **17**Ne croyez pas que je sois venu pour abolir la loi ou les prophètes ; je suis venu non pour abolir, mais pour accomplir. **18**Car, je vous le dis en vérité, tant que le ciel et la terre ne passeront point, il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu'à ce que tout soit arrivé. **19**Celui donc qui supprimera l'un de ces plus petits commandements, et qui enseignera aux hommes à faire de même, sera appelé le plus petit dans le royaume des cieux ; mais celui qui les observera, et qui enseignera à les observer, celui-là sera appelé grand dans le royaume des cieux. **20**Car, je vous le dis, si votre justice ne surpasse celle des scribes et des pharisiens, vous n'entrerez point dans le royaume des cieux. **21**Vous avez entendu qu'il a été dit aux anciens : Tu ne tueras point ; celui qui tuera mérite d'être puni par les juges. **22**Mais moi, je vous dis que quiconque se met en colère contre son frère mérite d'être puni par les juges ; que celui qui dira à son frère : Raca ! mérite d'être puni par le sanhédrin ; et que celui qui lui dira : Insensé ! mérite d'être puni par le feu de la géhenne. **23**Si donc tu présentes ton offrande"
-      },
-      "b": {
-        "title": "Le sermon sur la montagne (3)",
-        "excerpt": "## Troisième Partie Suite de l'étude sur le sermon sur la montagne (Matthieu 5:17-24). Qu'en est-il de la loi et des chrétiens. Mes bien-aimés frères et sœurs, que Dieu nous bénisse. Que la paix et la grâce du Seigneur soient sur nous. Nous allons continuer notre étude biblique que nous avons entamée il y a quelques jours. Ce matin nous allons lire à partir du verset 17 de Matthieu 5, concernant le sermon sur la montagne : > Ne croyez pas que je sois venu pour abolir la loi ou les prophètes ; je suis venu non pour abolir, mais pour accomplir. Car, je vous le dis en vérité, tant que le ciel et la terre ne passeront point, il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu'à ce que tout soit arrivé. Celui donc qui supprimera l'un de ces plus petits commandements, et qui enseignera aux hommes à faire de même, sera appelé le plus petit dans le royaume des cieux ; mais celui qui les observera, et qui enseignera à les observer, celui-là sera appelé grand dans le royaume des cieux. Car, je vous le dis, si votre justice ne surpasse celle des scribes et des pharisiens, vous n'entrerez point dans le royaume des cieux. Vous avez entendu qu'il a été dit aux anciens : Tu ne tueras point ; celui qui tuera mérite d'être puni par les juges. Mais moi, je vous dis que quiconque se met en colère contre son frère mérite d'être puni par les juges ; que celui qui dira à son frère : Raca ! mérite d'être puni par le sanhédrin ; et que celui qui lui dira : Insensé ! mérite d'être puni par le feu de la géhenne. Si donc tu présentes ton"
-      }
-    },
-    {
       "key": "mevar-pdfs/Exhortation_de_Juillet_2019 | mevar/les-teraphims-et-la-mort-de-rachel",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.271,
       "in_b": 0.235,
       "title": 0,
@@ -6820,7 +7174,7 @@
     },
     {
       "key": "mevar-pdfs/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel | mevar/la-position-de-sauveur",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.238,
       "in_b": 0.275,
       "title": 0,
@@ -6835,7 +7189,7 @@
     },
     {
       "key": "mevar-pdfs/le_royaume_de_dieu_kadjani | mevar/l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.028,
       "in_b": 0.202,
       "title": 0,
@@ -6850,7 +7204,7 @@
     },
     {
       "key": "mevar-pdfs/le_royaume_de_dieu_kadjani | mevar/la-maison-construite-sur-le-roc",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.006,
       "in_b": 0.247,
       "title": 0,
@@ -6865,7 +7219,7 @@
     },
     {
       "key": "mevar-pdfs/le_royaume_de_dieu_kadjani | mevar/le-royaume-de-dieu",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.01,
       "in_b": 0.865,
       "title": 1,
@@ -6880,7 +7234,7 @@
     },
     {
       "key": "mevar-pdfs/le_royaume_de_dieu_kadjani | onedrive/eveildelhomme",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.028,
       "in_b": 0.202,
       "title": 0,
@@ -6894,38 +7248,8 @@
       }
     },
     {
-      "key": "mevar-pdfs/les_liens_spirituels_1_et_2_6_avril_2020 | mevar/les-liens-spirituels",
-      "decision": null,
-      "in_a": 0.421,
-      "in_b": 0.935,
-      "title": 1,
-      "a": {
-        "title": "Les liens spirituels",
-        "excerpt": "Les liens spirituels - 1 - *Prêché le 6 Avril 2020 par M'BRA Parfait à Abidjan* Mes chers frères et sœurs, que Dieu vous bénisse. Nous sommes vraiment reconnaissants au Seigneur pour l'occasion qu'Il nous donne encore de nous retrouver aujourd'hui pour continuer à apporter la Parole de Dieu, afin d'encourager les frères et sœurs. Je voudrais lire avec vous dans Luc 13 à partir du verset 10 : > **10**Jésus enseignait dans une des synagogues, le jour du sabbat. **11**Et voici, il y avait là une femme possédée d'un esprit qui la rendait infirme depuis dix-huit ans ; elle était courbée, et ne pouvait pas du tout se redresser. Jésus était entré dans une synagogue, il avait commencé à enseigner le jour du sabbat et c'est là qu'Il a vu une femme qui était possédée d'un esprit qui la rendait infirme depuis 18 ans ; elle était courbée et ne pouvait pas du tout se redresser. > **12**Lorsqu'il la vit, Jésus lui adressa la parole, et lui dit : Femme, tu es délivrée de ton infirmité. **13**Et il lui imposa les mains. A l'instant elle se redressa, et glorifia Dieu. **14**Mais le chef de la synagogue, indigné de ce que Jésus avait opéré cette guérison un jour de sabbat, dit à la foule : Il y a six jours pour travailler ; venez donc vous faire guérir ces jours-là, et non pas le jour du sabbat. **15**Hypocrites ! lui répondit le Seigneur, est-ce que chacun de vous, le jour du sabbat, ne détache pas de la crèche son bœuf ou son âne, pour le mener boire ? **16**Et cette femme, qui est une fille d'Abraham, et que Satan tenait liée depuis dix-huit ans, ne fallait-il pas la délivrer de cette chaîne le jour du sabbat ? **17**Tandis qu'il parlait"
-      },
-      "b": {
-        "title": "Les liens spirituels (1)",
-        "excerpt": "## Première partie Suite de l'étude sur le sermon sur la montagne. Mes chers frères et sœurs, que Dieu vous bénisse. Nous sommes vraiment reconnaissants au Seigneur pour l’occasion qu’Il nous donne encore de nous retrouver aujourd’hui pour continuer à apporter la Parole de Dieu, afin d’encourager les frères et sœurs. Je voudrais lire avec vous dans Luc 13 à partir du verset 10 : > Jésus enseignait dans une des synagogues, le jour du sabbat. Et voici, il y avait là une femme possédée d'un esprit qui la rendait infirme depuis dix-huit ans ; elle était courbée, et ne pouvait pas du tout se redresser. Jésus était entré dans une synagogue, il avait commencé à enseigner le jour du sabbat et c’est là qu’Il a vu une femme qui était possédée d’un esprit qui la rendait _infirme depuis 18 ans ; elle était courbée et ne pouvait pas du tout se redresser._ > Lorsqu'il la vit, Jésus lui adressa la parole, et lui dit : Femme, tu es délivrée de ton infirmité. Et il lui imposa les mains. A l'instant elle se redressa, et glorifia Dieu. Mais le chef de la synagogue, indigné de ce que Jésus avait opéré cette guérison un jour de sabbat, dit à la foule : Il y a six jours pour travailler ; venez donc vous faire guérir ces jours-là, et non pas le jour du sabbat. Hypocrites ! lui répondit le Seigneur, est-ce que chacun de vous, le jour du sabbat, ne détache pas de la crèche son bœuf ou son âne, pour le mener boire ? Et cette femme, qui est une fille d'Abraham, et que Satan tenait liée depuis dix-huit ans, ne fallait-il pas la délivrer de cette chaîne le jour du sabbat ? Tandis qu'il parlait ainsi, tous ses adversaires"
-      }
-    },
-    {
-      "key": "mevar-pdfs/les_liens_spirituels_1_et_2_6_avril_2020 | mevar/les-liens-spirituels-deuxieme-partie",
-      "decision": null,
-      "in_a": 0.545,
-      "in_b": 0.931,
-      "title": 1,
-      "a": {
-        "title": "Les liens spirituels",
-        "excerpt": "Les liens spirituels - 1 - *Prêché le 6 Avril 2020 par M'BRA Parfait à Abidjan* Mes chers frères et sœurs, que Dieu vous bénisse. Nous sommes vraiment reconnaissants au Seigneur pour l'occasion qu'Il nous donne encore de nous retrouver aujourd'hui pour continuer à apporter la Parole de Dieu, afin d'encourager les frères et sœurs. Je voudrais lire avec vous dans Luc 13 à partir du verset 10 : > **10**Jésus enseignait dans une des synagogues, le jour du sabbat. **11**Et voici, il y avait là une femme possédée d'un esprit qui la rendait infirme depuis dix-huit ans ; elle était courbée, et ne pouvait pas du tout se redresser. Jésus était entré dans une synagogue, il avait commencé à enseigner le jour du sabbat et c'est là qu'Il a vu une femme qui était possédée d'un esprit qui la rendait infirme depuis 18 ans ; elle était courbée et ne pouvait pas du tout se redresser. > **12**Lorsqu'il la vit, Jésus lui adressa la parole, et lui dit : Femme, tu es délivrée de ton infirmité. **13**Et il lui imposa les mains. A l'instant elle se redressa, et glorifia Dieu. **14**Mais le chef de la synagogue, indigné de ce que Jésus avait opéré cette guérison un jour de sabbat, dit à la foule : Il y a six jours pour travailler ; venez donc vous faire guérir ces jours-là, et non pas le jour du sabbat. **15**Hypocrites ! lui répondit le Seigneur, est-ce que chacun de vous, le jour du sabbat, ne détache pas de la crèche son bœuf ou son âne, pour le mener boire ? **16**Et cette femme, qui est une fille d'Abraham, et que Satan tenait liée depuis dix-huit ans, ne fallait-il pas la délivrer de cette chaîne le jour du sabbat ? **17**Tandis qu'il parlait"
-      },
-      "b": {
-        "title": "Les liens spirituels (2)",
-        "excerpt": "## Deuxième partie Mes frères et sœurs, que Dieu vous bénisse. Que la grâce et la paix de notre Seigneur soient avec chacun d’entre vous. Nous allons continuer le sujet que nous avons commencé hier, concernant les liens spirituels. Je pense qu’il est important qu’on puisse continuer sur ce sujet parce que j’ai encore quelques paroles à partager avec vous. Donc nous allons lire à nouveau dans Luc 13 à partir du verset 10, notre texte de base : > Jésus enseignait dans une des synagogues, le jour du sabbat. Et voici, il y avait là une femme possédée d'un esprit qui la rendait infirme depuis dix-huit ans ; elle était courbée, et ne pouvait pas du tout se redresser. Lorsqu'il la vit, Jésus lui adressa la parole, et lui dit : Femme, tu es délivrée de ton infirmité. Et il lui imposa les mains. A l'instant elle se redressa, et glorifia Dieu. Mais le chef de la synagogue, indigné de ce que Jésus avait opéré cette guérison un jour de sabbat, dit à la foule : Il y a six jours pour travailler ; venez donc vous faire guérir ces jours-là, et non pas le jour du sabbat. Hypocrites ! lui répondit le Seigneur, est-ce que chacun de vous, le jour du sabbat, ne détache pas de la crèche son bœuf ou son âne, pour le mener boire ? Et cette femme, qui est une fille d'Abraham, et que Satan tenait liée depuis dix-huit ans, ne fallait-il pas la délivrer de cette chaîne le jour du sabbat ? \\*Tandis qu'il parlait ainsi, tous ses adversaires étaient confus, et la foule se réjouissait de toutes les choses glorieuses qu'il faisait. Amen, que Dieu soit béni. Que le Seigneur bénisse sa Parole. Nous allons donc revenir sur ce sujet concernant les"
-      }
-    },
-    {
       "key": "mevar-pdfs/sujets_de_priere_fin_mai_juin_2019 | onedrive/exho-mai_2019",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.39,
       "in_b": 0.018,
       "title": 0,
@@ -6940,7 +7264,7 @@
     },
     {
       "key": "mevar-pdfs/sujets_de_priere_juin_2019 | onedrive/Les_heritages_demoniaques",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.964,
       "in_b": 0.106,
       "title": 0,
@@ -6955,7 +7279,7 @@
     },
     {
       "key": "mevar/juin-2019 | onedrive/Les_heritages_demoniaques",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.93,
       "in_b": 0.106,
       "title": 0,
@@ -6970,7 +7294,7 @@
     },
     {
       "key": "mevar/l-esprit-superieur | onedrive/arche_et_les_adorateurs",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.886,
       "in_b": 0.147,
       "title": 1,
@@ -6985,7 +7309,7 @@
     },
     {
       "key": "mevar/la-parabole-des-talents | onedrive/chap10ministere",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.028,
       "in_b": 0.117,
       "title": 1,
@@ -7000,7 +7324,7 @@
     },
     {
       "key": "mevar/la-parabole-du-pain | onedrive/pourquoi_huitieme",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.347,
       "in_b": 0.056,
       "title": 0,
@@ -7015,7 +7339,7 @@
     },
     {
       "key": "mevar/le-mariage-et-les-peches-du-sexe | onedrive/le_mariage_et_les_peches_du_sexe",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.969,
       "in_b": 0.066,
       "title": 1,
@@ -7030,7 +7354,7 @@
     },
     {
       "key": "mevar/le-mariage-et-les-peches-du-sexe | onedrive/mariage_final_pdf",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.97,
       "in_b": 0.066,
       "title": 1,
@@ -7045,7 +7369,7 @@
     },
     {
       "key": "mevar/les-5-ministeres-de-la-parole | onedrive/chap1ministere",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.962,
       "in_b": 0.085,
       "title": 0.571,
@@ -7060,7 +7384,7 @@
     },
     {
       "key": "mevar/les-5-ministeres-de-la-parole | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.962,
       "in_b": 0.017,
       "title": 0.5,
@@ -7075,7 +7399,7 @@
     },
     {
       "key": "mevar/lesprit-babylonien-exhortation | onedrive/babylonien",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.91,
       "in_b": 0.04,
       "title": 1,
@@ -7090,7 +7414,7 @@
     },
     {
       "key": "mevar/mai-juin-2019 | onedrive/exho-mai_2019",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.372,
       "in_b": 0.018,
       "title": 0,
@@ -7105,7 +7429,7 @@
     },
     {
       "key": "mevar/qui-est-le-plus-grand | onedrive/broch_plusgrand",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.94,
       "in_b": 0.026,
       "title": 1,
@@ -7120,7 +7444,7 @@
     },
     {
       "key": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.93,
       "in_b": 0.103,
       "title": 0.182,
@@ -7135,7 +7459,7 @@
     },
     {
       "key": "onedrive/adorateursatan | onedrive/exho_septembre_2008",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.074,
       "in_b": 0.491,
       "title": 0.4,
@@ -7150,7 +7474,7 @@
     },
     {
       "key": "onedrive/chap10ministere | onedrive/la_parabole_des_talents",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.117,
       "in_b": 0.027,
       "title": 1,
@@ -7165,7 +7489,7 @@
     },
     {
       "key": "onedrive/chap10ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.967,
       "in_b": 0.021,
       "title": 0,
@@ -7180,7 +7504,7 @@
     },
     {
       "key": "onedrive/chap10ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.943,
       "in_b": 0.029,
       "title": 0,
@@ -7195,7 +7519,7 @@
     },
     {
       "key": "onedrive/chap11ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.971,
       "in_b": 0.017,
       "title": 0,
@@ -7210,7 +7534,7 @@
     },
     {
       "key": "onedrive/chap11ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.949,
       "in_b": 0.023,
       "title": 0,
@@ -7225,7 +7549,7 @@
     },
     {
       "key": "onedrive/chap12ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.968,
       "in_b": 0.073,
       "title": 0,
@@ -7240,7 +7564,7 @@
     },
     {
       "key": "onedrive/chap12ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.888,
       "in_b": 0.094,
       "title": 0,
@@ -7255,7 +7579,7 @@
     },
     {
       "key": "onedrive/chap13ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.94,
       "in_b": 0.104,
       "title": 0.182,
@@ -7270,7 +7594,7 @@
     },
     {
       "key": "onedrive/chap13ministere (trois grandes visions) | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.94,
       "in_b": 0.104,
       "title": 0.182,
@@ -7285,7 +7609,7 @@
     },
     {
       "key": "onedrive/chap14ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.969,
       "in_b": 0.003,
       "title": 0,
@@ -7300,7 +7624,7 @@
     },
     {
       "key": "onedrive/chap1ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.98,
       "in_b": 0.191,
       "title": 0.909,
@@ -7315,7 +7639,7 @@
     },
     {
       "key": "onedrive/chap1ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.812,
       "in_b": 0.219,
       "title": 0,
@@ -7330,7 +7654,7 @@
     },
     {
       "key": "onedrive/chap2ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.98,
       "in_b": 0.052,
       "title": 0.667,
@@ -7345,7 +7669,7 @@
     },
     {
       "key": "onedrive/chap2ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.95,
       "in_b": 0.071,
       "title": 0,
@@ -7360,7 +7684,7 @@
     },
     {
       "key": "onedrive/chap3ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.992,
       "in_b": 0.039,
       "title": 0,
@@ -7375,7 +7699,7 @@
     },
     {
       "key": "onedrive/chap3ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.968,
       "in_b": 0.053,
       "title": 0,
@@ -7390,7 +7714,7 @@
     },
     {
       "key": "onedrive/chap4ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.975,
       "in_b": 0.151,
       "title": 0,
@@ -7405,7 +7729,7 @@
     },
     {
       "key": "onedrive/chap4ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.433,
       "in_b": 0.093,
       "title": 0,
@@ -7420,7 +7744,7 @@
     },
     {
       "key": "onedrive/chap5ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.943,
       "in_b": 0.051,
       "title": 0,
@@ -7435,7 +7759,7 @@
     },
     {
       "key": "onedrive/chap5ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.924,
       "in_b": 0.07,
       "title": 0,
@@ -7450,7 +7774,7 @@
     },
     {
       "key": "onedrive/chap6ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.982,
       "in_b": 0.045,
       "title": 0,
@@ -7465,7 +7789,7 @@
     },
     {
       "key": "onedrive/chap6ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.949,
       "in_b": 0.061,
       "title": 0,
@@ -7480,7 +7804,7 @@
     },
     {
       "key": "onedrive/chap7ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.959,
       "in_b": 0.028,
       "title": 0,
@@ -7495,7 +7819,7 @@
     },
     {
       "key": "onedrive/chap7ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.938,
       "in_b": 0.038,
       "title": 0,
@@ -7510,7 +7834,7 @@
     },
     {
       "key": "onedrive/chap8ministere | onedrive/les_cinq_ministeres_de_la_parole",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.978,
       "in_b": 0.015,
       "title": 0,
@@ -7525,7 +7849,7 @@
     },
     {
       "key": "onedrive/chap8ministere | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.932,
       "in_b": 0.02,
       "title": 0,
@@ -7540,7 +7864,7 @@
     },
     {
       "key": "onedrive/Copie de predicationjuin2007 | onedrive/exhojuin2007",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.935,
       "in_b": 0.687,
       "title": 0,
@@ -7555,7 +7879,7 @@
     },
     {
       "key": "onedrive/exho_fin_mai_2012 | onedrive/pourquoi_huitieme",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.37,
       "in_b": 0.06,
       "title": 0,
@@ -7570,7 +7894,7 @@
     },
     {
       "key": "onedrive/exho_septembre_2008 | onedrive/pourquoi_huitieme",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.376,
       "in_b": 0.049,
       "title": 0,
@@ -7585,7 +7909,7 @@
     },
     {
       "key": "onedrive/exho_spec_fev2011 | onedrive/le_mariage_et_les_peches_du_sexe",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.774,
       "in_b": 0.082,
       "title": 0,
@@ -7600,7 +7924,7 @@
     },
     {
       "key": "onedrive/exho_spec_fev2011 | onedrive/mariage_final_pdf",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.775,
       "in_b": 0.082,
       "title": 0,
@@ -7615,7 +7939,7 @@
     },
     {
       "key": "onedrive/exhomai2007 | onedrive/laguerre",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.672,
       "in_b": 0.926,
       "title": 1,
@@ -7630,7 +7954,7 @@
     },
     {
       "key": "onedrive/impudiciteetadulterespdf | onedrive/le_mariage_et_les_peches_du_sexe",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.837,
       "in_b": 0.188,
       "title": 0,
@@ -7645,7 +7969,7 @@
     },
     {
       "key": "onedrive/impudiciteetadulterespdf | onedrive/mariage_final_pdf",
-      "decision": null,
+      "decision": "different",
       "in_a": 0.837,
       "in_b": 0.187,
       "title": 0,
@@ -7660,7 +7984,7 @@
     },
     {
       "key": "onedrive/les_cinq_ministeres_de_la_parole | onedrive/les_ouvriers_du_royaume",
-      "decision": null,
+      "decision": "same",
       "in_a": 0.666,
       "in_b": 0.924,
       "title": 0,

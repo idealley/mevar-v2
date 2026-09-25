@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap14ministere"
+duplicate_of: "onedrive/les_cinq_ministeres_de_la_parole"
 title: "EPILOGUE"
 date: "2004-09-15"
 year: 2004

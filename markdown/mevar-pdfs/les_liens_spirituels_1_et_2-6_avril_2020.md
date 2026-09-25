@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "les_liens_spirituels_1_et_2_6_avril_2020"
+duplicate_of: "mevar/les-liens-spirituels"
 title: "Les liens spirituels"
 date: "2020-04-06"
 year: 2020
