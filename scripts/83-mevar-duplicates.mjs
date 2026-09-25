@@ -138,9 +138,10 @@ below.forEach(bin);
 
 // A PDF is its posts' download when the Ghost posts that link it (same
 // local_pdf) hold it between them: one PDF for parts 1 and 2 of a series.
-// Applied like same text. A book whose post is an excerpt stays uncertain.
+// Applied like same text. A book whose post is an excerpt stays uncertain,
+// and a pair Samuel answered "different" does not count toward the sum.
 for (const w of works.filter((w) => w.source === "mevar-pdfs")) {
-  const links = pairs.filter((p) => p.band === "uncertain" && (p.a === w ? p.b : p.b === w ? p.a : null)?.pdf === w.pdf);
+  const links = pairs.filter((p) => p.band === "uncertain" && p.decision !== "different" && (p.a === w ? p.b : p.b === w ? p.a : null)?.pdf === w.pdf);
   if (links.reduce((n, p) => n + (p.a === w ? p.in_a : p.in_b), 0) >= SAME_TEXT) for (const p of links) p.band = "download";
 }
 
