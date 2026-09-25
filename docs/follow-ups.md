@@ -36,38 +36,26 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: after goal 14 merges, drop `WAIT` from `65c` and rerun it, then 65, 47 and 50.
 
-## Printed page furniture is inside the sermon bodies
+## Branham page headers the PDF could not confirm
 
-**Status**: goal 14, [`docs/goals/goal-14-furniture-footnotes-le-scribe.md`](goals/goal-14-furniture-footnotes-le-scribe.md), ready to dispatch in parallel with goal 10. Its three items: this furniture (and the running headers 66 records as refs), the broken footnote links of two Ghost posts, and the 94 Le Scribe summaries with no Branham link.
+**Status**: goal 14 (PR #18) removed 11,066 printed page headers from 841 Branham bodies with `65d-strip-branham-furniture.mjs`, and the refs they produced. 135 remain, listed with their context in `manifests/branham-furniture-unaligned.json`: the LLM cleanup changed the words around them, so the PDF cannot confirm the spot (`THE THIRD Exodus 25` in 63-0630M still gives a false `Exodus 25`).
 
-**Dispatch text**, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
+**Fix**: a human pass over the 135, reading each against its PDF (`pdf_url`), like the 39 French names above.
 
-```
-Read AGENTS.md, VISION.md, DELIVERY.md, docs/goals/README.md, then the goal
-file named below, in that order. Follow DELIVERY.md exactly: worktree from
-origin/main, npm install on this Mac at the root and in web/, atomic
-Conventional Commits, the gates for what you touch, the independent
-subagent review with the prompt given there, then a non-draft PR with
-`gh pr create` whose description opens with the problem and lists every
-acceptance item with the command you ran and its output. Do not merge. Stop
-at the stop points. End with the report DELIVERY.md asks for.
+## Le Scribe summaries waiting for an answer
 
-Goal file: docs/goals/goal-14-furniture-footnotes-le-scribe.md. Branch:
-goal-14-furniture-footnotes-le-scribe.
+**Status**: after goal 14, 819 of 910 are linked. The 91 others are listed in `manifests/le-scribe-branham-unresolved.json` and laid out, with their candidates, in two comments on PR #18. Samuel answers each in `scripts/le-scribe-branham-decided.json` (`"<branham id>"` or `"none"`), then reruns 49 and 50.
 
-Goal 10 runs at the same time on the OneDrive and PDF texts: never touch
-them. If main moves, merge it and rerun the scripts that write
-manifests/bible-refs.json and index.json; never hand-merge those files.
+Two open questions from that PR:
+- The Semence 1re and 2e parties are two summaries of one sermon (`62-0318`), and `summary_fr` holds one path. A list would need the schema and the work page to change.
+- 49 links 616 summaries as the "only sermon that day", on the date alone. `550118Ange` claims `55-0118 "This Great Warrior, David"` that way; a French title against an English one is the only way to see such a drift.
 
-The Branham PDFs are in pdfs/branham/ of the
-goal-07 worktree, or fetch them with 20-download-pdfs.mjs. The furniture
-diff touches hundreds of Branham files: never read it file by file; prove
-it with the counts and the word-diff sample the goal asks for.
+## The 404 page's canonical URL names no page
 
-After the independent review says ACCEPT, run the codex-second-opinion
-skill (.claude/skills/codex-second-opinion): gpt-6-astra on the stripping
-script, gpt-6-sol on the data with the goal's acceptance commands.
-```
+**Status**: `dist/404.html` has `<link rel="canonical" href="https://mevar.org/404/">`, and no `/404/` page is built. Found by goal 14's `check:dist`, which checks our own absolute URLs only when they carry a `#fragment`.
+
+**Fix**: no canonical on the 404 page (or point it at `/`), then let `check:dist` check every absolute `https://mevar.org/` href.
+
 ## `100` keeps only the first verse group of a list
 
 **Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 952 of 40,602 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").
