@@ -46,7 +46,7 @@ bible_refs:
 
 **4.** Récemment, je pensais au temps où, étant encore enfant, je chassais l’écureuil. Je me suis demandé si j’accepterais de revivre la même vie, avec les mêmes souffrances que j’ai endurées : la mort de Hope, de la petite Sharon, et d’autres. J’ai d’abord pensé que non, puis j’ai dit : “Mon Dieu, j’accepterai de repasser par là pour Ton Royaume !”
 
-**5.** Frère Stadslev, tu sais qu’il est écrit : “Quiconque vient à Dieu doit être châtié et éprouvé.” [Cf. Hébreux 12:6]. Ainsi Job avait tout perdu, mais il a dit : “L'Éternel a donné, et l'Éternel a ôté; que le nom de l'Éternel soit béni !” [Cf. Job 1:21]. Avez-vous noté que Dieu lui a tout rendu, ses biens et ses enfants ! Il avait offert un sacrifice pour eux au cas où ils auraient péché, et ils l’attendaient dans la gloire !
+**5.** Frère Stadslev, tu sais qu’il est écrit : “Quiconque vient à Dieu doit être châtié et éprouvé.” [Cf. Héb. 12:6]. Ainsi Job avait tout perdu, mais il a dit : “L'Éternel a donné, et l'Éternel a ôté; que le nom de l'Éternel soit béni !” [Cf. Jb. 1:21]. Avez-vous noté que Dieu lui a tout rendu, ses biens et ses enfants ! Il avait offert un sacrifice pour eux au cas où ils auraient péché, et ils l’attendaient dans la gloire !
 
 **6.** La sœur m’a dit ce matin que l’enfant était capable de couvrir ses yeux de ses mains et de louer le Seigneur. C’était offrir un sacrifice, et ce soir elle vous attend dans la gloire.
 

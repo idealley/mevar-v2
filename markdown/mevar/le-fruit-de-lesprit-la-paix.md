@@ -52,11 +52,11 @@ Amen. C'est le texte de base que j'ai utilisé, et on l'utilise encore ce matin.
 
 L'homme possède naturellement l'amour, la bonté, la paix, la patience, et ainsi de suite. Mais, quand on parle de fruit de l'Esprit, il est question de ce que l'Esprit de Dieu habitant en nous, a généré, a produit. C'est une production. Quand on parle de fruit, on parle de production, de croissance. Un arbre qui est planté, qui grandit, qui donne des fruits verts pour commencer et qui, arrivés à maturité deviennent mûrs et peuvent être mangés.
 
-C'est comme cela que le Seigneur a comparé le chrétien. Il l'a comparé à un arbre. C'est écrit dans le Psaumes 1, je crois. Le premier Psaume. Vous pouvez le lire :
+C'est comme cela que le Seigneur a comparé le chrétien. Il l'a comparé à un arbre. C'est écrit dans le Psaume 1, je crois. Le premier Psaume. Vous pouvez le lire :
 
 1Heureux l'homme qui ne marche pas selon le conseil des méchants, Qui ne s'arrête pas sur la voie des pécheurs, Et qui ne s'assied pas en compagnie des moqueurs,2 Mais qui trouve son plaisir dans la loi de l'Éternel, Et qui la médite jour et nuit !
 
-> **3 Il est comme un arbre planté près d'un courant d'eau,** Qui donne son fruit en sa saison, Et dont le feuillage ne se flétrit point : Tout ce qu'il fait lui réussit. (Psaumes 1:1-3) On trouve le même texte dans Jérémie 17:8.
+> **3 Il est comme un arbre planté près d'un courant d'eau,** Qui donne son fruit en sa saison, Et dont le feuillage ne se flétrit point : Tout ce qu'il fait lui réussit. (Psaume 1:1-3) On trouve le même texte dans Jérémie 17 :8.
 
 Alléluia ! L'Écriture compare le chrétien à un arbre qui est planté près d'un courant d'eau et qui donne son fruit en sa saison. Donc, le fruit de l'Esprit, c'est un produit, c'est la manifestation de l'Esprit de Dieu en nous. Ce que l'Esprit de Dieu a produit de bon en nous, par l'expérience de la parole de Dieu. Donc, c'est un processus, c'est différent par exemple du don de l'Esprit qui est une manifestation aussi de l'Esprit, mais pour l'édification des rassemblements, l'édification des frères et des sœurs. **Il y a l'un qui est pour l'édification de l'Église, il y a l'autre qui est pour le caractère de Jésus-Christ**, sa vie.
 
@@ -114,15 +114,15 @@ Mais le monde est désorganisé. Sinon, la parole de Dieu est claire. L'homme do
 
 Donc, c'est l'absence de paix. Il y a eu cette absence de paix dans le jardin d’Eden parce qu’il y a eu le péché. Adam et Ève ont été chassés du jardin avec leur progéniture qui était déjà en eux. Donc, la paix a quitté le monde, la paix a quitté la terre. Dieu a prononcé un jugement sur la création entière, et il a promis une restauration, une réconciliation. En effet, quand on parle du trouble, quand on parle de l'absence de paix, on parle aussi de réconciliation. Alléluia ! Et cette réconciliation va avoir lieu en Jésus-Christ. C'est pour ça que l'Écriture dit que Christ est notre paix.
 
-On va lire d'abord une écriture dans Ésaïe 9 :
+On va lire d'abord une écriture dans Esaïe 9 :
 
-> Car un enfant est né pour nous, un fils nous est donné. Et il exercera |l’autorité royale ; il sera appelé Merveilleux Conseiller, Dieu fort, Père à jamais |et **Prince de la paix.** (Ésaïe 9:5)
+> Car un enfant est né pour nous, un fils nous est donné. Et il exercera |l’autorité royale ; il sera appelé Merveilleux Conseiller, Dieu fort, Père à jamais |et **Prince de la paix.** (Esaïe 9:5)
 
 Regardez Jésus quand on l'annonce, il est appelé « Prince de paix » par rapport au travail qu'il vient faire. Et qu'est-ce qu'il vient faire ? Il vient réconcilier le monde avec Dieu. Il vient réconcilier les hommes avec Dieu. Donc, en le faisant, il apporte la paix. Alléluia ! Il apporte la paix. Donc, on l'appelle déjà « Prince de la paix ». Et il y a d'autres Écritures qui disent que Christ est notre paix.
 
 Il vient pour réconcilier les hommes avec Dieu. Et une des définitions de la paix, c'est la réconciliation. Ici, on ne parle pas de fruit de l'Esprit encore. Je vais arriver au fruit de l'Esprit. Mais je suis en train de parler de la paix en tant que notion spirituelle dans l'Écriture. On va arriver au fruit de l'Esprit. La paix en tant que fruit de l'Esprit. Là, on est dans une œuvre que le Seigneur est venu faire avec le Christ.
 
-Donc, Ésaïe 9:5 étant clair, on va y ajouter Colossiens chapitre 1. Voilà ce qui est écrit :
+Donc, Esaïe 9:5 étant clair, on va y ajouter Colossiens chapitre 1. Voilà ce qui est écrit :
 
 > 19Car c’est en lui que Dieu a désiré que toute plénitude ait sa demeure.20 Et c’est par lui (là, il est question de Jésus) qu’il a voulu réconcilier avec lui-même l’univers tout entier : ce qui est sur la terre et ce qui est au ciel, en instaurant la paix par le sang que son Fils a versé sur la croix.
 

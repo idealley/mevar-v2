@@ -74,7 +74,7 @@ original: "branham/1957/57-0811A"
 
 **15.** J’aimerais voir le jour où nous leur dirons : “Est-ce vrai que vous croirez si vous voyez le signe du Messie ressuscité ? Faites venir des gens ici.” Et vous verrez des dizaines de milliers de Juifs venir à Christ en une seule fois ! Le jour où Dieu se tournera vers les Juifs, le jour des Nations sera fini. Quand les Juifs auront reçu le Saint-Esprit, ils vivifieront à nouveau le monde, car ils seront de vrais missionnaires. Dieu leur a promis 3 ans et demi. Je crois que nous y arrivons.
 
-**16.** Lisons le Psaumes 63:1-3
+**16.** Lisons le Psaume 63:1-3
 > “(1) … O Dieu ! Tu es mon Dieu, je te cherche ; mon âme a soif de toi, mon corps soupire après toi, dans une terre aride, desséchée, sans eau. (2) Ainsi je te contemple dans le sanctuaire, pour voir ta puissance et ta gloire. (3) Car ta bonté vaut mieux que la vie : mes lèvres célèbrent tes louanges ”
 
 Je veux parler sur le plus grand Don de la Bible : la Vie éternelle ! C’est un don sublime ! Car là où il y a la Vie, il y a la joie, et Dieu seul possède la Vie éternelle.

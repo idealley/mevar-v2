@@ -50,7 +50,7 @@ Bien que le nom de Balaam soit cité plus de soixante-dix fois dans la Bible, on
 
 > \[...\] Balak, fils de Tsippor, était alors roi de Moab. Il envoya des messagers auprès de Balaam, fils de Beor, à Pethor sur le fleuve, dans le pays des fils de son peuple, afin de l'appeler et de lui dire: Voici, un peuple est sorti d'Égypte, il couvre la surface de la terre, et il habite vis-à-vis de moi. Viens, je te prie, maudis-moi ce peuple, car il est plus puissant que moi; peut-être ainsi pourrai-je le battre et le chasserai-je du pays, car je sais que celui que tu bénis est béni, et que celui que tu maudis est maudit. (Nombres 22:4-6)
 
-Pethor est une ville sur l’Euphrate en Mésopotamie (Deutéronome 23:4). Balaam ne fait pas partie d’Israël mais il a une réputation qui le précède car Balak sait que “celui que \[Balaam\] béni\[t\], est béni” et que cela est aussi valable lorsqu’il maudit quelqu’un.
+Pethor est une ville sur l’Euphrate en Mésopotamie (Deut 23:4). Balaam ne fait pas partie d’Israël mais il a une réputation qui le précède car Balak sait que “celui que \[Balaam\] béni\[t\], est béni” et que cela est aussi valable lorsqu’il maudit quelqu’un.
 
 Balaam vient d’un peuple païen, il ne vient pas du peuple choisi par Dieu et pourtant Dieu lui parle. Même s’il est d’un peuple païen, Balaam est un prophète car il parle de la part de Dieu. On ne sait rien d’autre de lui, on ne sait pas pourquoi il est assez célèbre pour que Balak envoie des émissaires si loin pour aller le chercher.
 

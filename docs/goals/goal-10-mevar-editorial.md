@@ -98,6 +98,11 @@ the verification done by a script and by sampling.
 ## Stop points
 
 - The cost estimate, before the first paid run (LLM or LlamaParse).
+- Before the first edit: how many of the OneDrive texts still carry 65's
+  canonical rewrites from before goal 07 ("Math. 24, 6" became "Matthieu
+  24:6"), measured against their `.docx` originals (Samuel provides them),
+  and a proposal to start the pass from the preacher's form. Samuel
+  decides. Goal 14 does the same for the other French sources.
 - Every batch: Samuel reads the three texts and merges, or sends it back.
 - A sentence the pass cannot make intelligible without rewording: left as
   it is and listed, never rewritten.

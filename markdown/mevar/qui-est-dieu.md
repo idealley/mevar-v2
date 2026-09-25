@@ -72,7 +72,7 @@ bible_refs:
   - "Genèse 22:5"
   - "Genèse 22:8"
 ---
-Le premier des dix commandements est très clair : « Tu craindras l’Eternel, ton Dieu, tu le serviras, et tu jureras par son nom » (Deutéronome 6:13). Quel est Son nom ?“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (NEG 1979. Hébreux 13:8). L’Apocalypse ou la révélation de Jésus Christ, la révélation de qui Jésus Christ est, nous confirme les paroles de Jean:
+Le premier des dix commandements est très clair : « Tu craindras l’Eternel, ton Dieu, tu le serviras, et tu jureras par son nom » (Deut 6:13). Quel est Son nom ?“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (NEG 1979. Hébreux 13:8). L’Apocalypse ou la révélation de Jésus Christ, la révélation de qui Jésus Christ est, nous confirme les paroles de Jean:
 
 > Voici, il vient avec les nuées. Et tout œil le verra, même ceux qui l’ont percé; et toutes les tribus de la terre se lamenteront à cause de lui. Oui. Amen! Je suis l’alpha et l’oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout-Puissant. (NEG 1979. Apocalypse 1:7-8).
 
@@ -90,7 +90,7 @@ Apocalypse 19 nous confirme qui est Jésus: “Son nom est la Parole de Dieu” 
 
 Jésus Christ est la Parole. C’est Lui qui vient sur un cheval blanc. Il est le Dieu créateur, c’est Lui qui nous a créés et c’est Lui qui a créé la terre sur laquelle nous marchons ainsi que tout l’univers. Revenons au début de la Bible.
 
-> Au commencement, Dieu créa les cieux et la terre. (NEG 1979. Genèse 1:1)
+> Au commencement, Dieu créa les cieux et la terre. (NEG 1979. Gen 1 :1)
 
 Quel est le mot que le texte original utilise pour Dieu? La concordance Strong nous donne le mot אֱלֹהִים (Elohim) comme étant le mot hébreu utilisé pour Dieu. La terminaison –im nous indique que c’est un mot qui est accordé au pluriel.
 
@@ -104,11 +104,11 @@ Nous devons aussi nous poser la question de cette pluralité de Dieu pour compre
 
 Le deuxième verset de la Bible nous apprend que Dieu est Esprit. Son Esprit se déplaçait au-dessus des eaux.
 
-> La terre était informe et vide; il y avait des ténèbres à la surface de l’abîme, et l’Esprit de Dieu se mouvait au-dessus des eaux. (NEG 1979. Genèse 1:2)
+> La terre était informe et vide; il y avait des ténèbres à la surface de l’abîme, et l’Esprit de Dieu se mouvait au-dessus des eaux. (NEG 1979. Genèse 1 :2)
 
 L’Apocalypse nous apprend que Jésus est Parole et Jean nous dit qu’au commencement était la Parole et que la Parole était Dieu. Dieu est donc Parole et Esprit. De nombreux autres exemples montrent que Dieu est Esprit. Par exemple quand David est oint roi sur Israël, « l’Esprit de l’Eternel saisit David, à partir de ce jour et dans la suite » (1 Samuel 16:13). On voit que l’Esprit de Dieu repose sur David.
 
-C’est aussi ce qui se passe lorsque Jésus est baptisé, « les cieux s’ouvrirent, et \[Jean-Baptiste\] vit l’Esprit de Dieu descendre comme une colombe et venir sur lui » (Matthieu 3:16). Nous expliquerons un peu plus tard ce qui s’est passé lors du baptême de Jésus. Pour l’instant, ce que ce passage nous montre c’est que Dieu est Esprit.
+C’est aussi ce qui se passe lorsque Jésus est baptisé, « les cieux s’ouvrirent, et \[Jean-Baptiste\] vit l’Esprit de Dieu descendre comme une colombe et venir sur lui » (Matt 3:16). Nous expliquerons un peu plus tard ce qui s’est passé lors du baptême de Jésus. Pour l’instant, ce que ce passage nous montre c’est que Dieu est Esprit.
 
 ### Dieu estAme
 
@@ -116,19 +116,19 @@ Dieu est Esprit, mais Dieu est âme aussi, on peut le voir dans le Lévitique au
 
 Le prophète Jérémie est perplexe devant ce qui arrive à Juda et il demande à Dieu : « As-tu donc rejeté Juda, Et ton âme a-t-elle pris Sion en horreur? » (Jérémie 14:19). On voit qu’à travers ce verset Jérémie se demande si l’âme de Dieu a pris Sion en horreur. Le chapitre 26 du Lévitique donne les conditions nécessaires que doit respecter Israël pour que l’âme de Dieu puisse habiter au milieu d’eux, conditions qui n’étaient depuis bien longtemps plus remplies lorsque Jérémie pose cette question.
 
-On peut aussi voir dans le Nouveau Testament que Dieu a une âme, car quand Dieu parle du Seigneur Jésus qui marche sur la terre, Il dit celui-ci est « Mon bien-aimé en qui mon âme a pris plaisir » (Matthieu 12:18).
+On peut aussi voir dans le Nouveau Testament que Dieu a une âme, car quand Dieu parle du Seigneur Jésus qui marche sur la terre, Il dit celui-ci est « Mon bien-aimé en qui mon âme a pris plaisir » (Matt 12:18).
 
 ### Dieu est Corps
 
 De nombreux passages de la Bible montrent que Dieu se manifeste dans un corps. Abraham a ainsi pu rencontrer Dieu physiquement et Lui parler et même l’implorer face à face d’épargner Sodome et Gomorrhe.
 
-> 1 L’Eternel lui apparut parmi les chênes de Mamré, comme il était assis à l’entrée de sa tente, pendant la chaleur du jour. 2 Il leva les yeux, et regarda: et voici, trois hommes étaient debout près de lui. Quand il les vit, il courut au-devant d’eux, depuis l’entrée de sa tente, et se prosterna à terre. 3 Et il dit: Seigneur, si j’ai trouvé grâce à tes yeux, ne passe point, je te prie, loin de ton serviteur. (Genèse 18:1-3)
+> 1 L’Eternel lui apparut parmi les chênes de Mamré, comme il était assis à l’entrée de sa tente, pendant la chaleur du jour. 2 Il leva les yeux, et regarda: et voici, trois hommes étaient debout près de lui. Quand il les vit, il courut au-devant d’eux, depuis l’entrée de sa tente, et se prosterna à terre. 3 Et il dit: Seigneur, si j’ai trouvé grâce à tes yeux, ne passe point, je te prie, loin de ton serviteur. (Gen 18:1-3)
 
-Ce passage nous montre que l’Eternel se présente à Abraham. Il n’est pas seul. Trois hommes sont là, des hommes en chaire et en os, car ils peuvent manger, avoir les pieds lavés, etc. Un des trois hommes est bien l’Eternel: on peut le voir au moment ou Sara a rit. C’est l’Eternel qui pose la question à Abraham : « L’Eternel dit à Abraham: Pourquoi donc Sara a-t-elle ri, en disant: Est- ce que vraiment j’aurais un enfant, moi qui suis vieille? » (Genèse 18:1-13)
+Ce passage nous montre que l’Eternel se présente à Abraham. Il n’est pas seul. Trois hommes sont là, des hommes en chaire et en os, car ils peuvent manger, avoir les pieds lavés, etc. Un des trois hommes est bien l’Eternel: on peut le voir au moment ou Sara a rit. C’est l’Eternel qui pose la question à Abraham : « L’Eternel dit à Abraham: Pourquoi donc Sara a-t-elle ri, en disant: Est- ce que vraiment j’aurais un enfant, moi qui suis vieille? » (Gen 18:1-13)
 
 C’est ensuite, quand les hommes repartent en direction de Sodome, que l’Eternel déclare qu’Il ne veut rien cacher à Abraham. Au verset 22 nous pouvons lire que « Les hommes s’éloignèrent, et allèrent vers Sodome. Mais Abraham se tint encore en présence de l’Eternel. » Nous pouvons donc déduire que deux des trois hommes se sont éloignés et qu’un des hommes, l’Eternel, est resté avec Abraham.
 
-Abraham n’est pas le seul à avoir parlé à l’Eternel se présentant sous forme humaine. Jacob s’est battu avec l’Eternel à Peniel : «Jacob demeura seul. Alors un homme lutta avec lui jusqu’au lever de l’aurore » (Genèse 32:24).Au verset vingt-huit, nous avons la confirmation que l’homme avec qui Jacob lutta était Dieu : « Il dit encore: ton nom ne sera plus Jacob, mais tu seras appelé Israël; car tu as lutté avec Dieu et avec des hommes, et tu as été vainqueur ». C’est aussi la raison pour laquelle Jacob appela ce lieu de lutte Peniel « car, dit-il, j’ai vu Dieu face à face, et mon âme a été sauvée » (Genèse 32:30).
+Abraham n’est pas le seul à avoir parlé à l’Eternel se présentant sous forme humaine. Jacob s’est battu avec l’Eternel à Peniel : «Jacob demeura seul. Alors un homme lutta avec lui jusqu’au lever de l’aurore » (Genèse 32 :24).Au verset vingt-huit, nous avons la confirmation que l’homme avec qui Jacob lutta était Dieu : « Il dit encore: ton nom ne sera plus Jacob, mais tu seras appelé Israël; car tu as lutté avec Dieu et avec des hommes, et tu as été vainqueur ». C’est aussi la raison pour laquelle Jacob appela ce lieu de lutte Peniel « car, dit-il, j’ai vu Dieu face à face, et mon âme a été sauvée » (Genèse 32 :30).
 
 Alors que Josué est entré dans la terre promise et qu’il s’apprête à attaquer Jéricho, un homme, l’Eternel, se présente à lui.
 
@@ -180,7 +180,7 @@ Il y a certains hommes naturels qui connaissent la nature humaine et dont l’es
 
 \### Emmanuel - Dieu avec nous
 
-Maintenant que nous comprenons mieux qu’elle est la nature d’un homme et celle d’un chrétien, revenons à Dieu pour que nous puissions comprendre ce qui s’est passé lorsqu’Emmanuel a marché sur la terre dans une chaire semblable à la nôtre et donc que Dieu était avec nous en chair et en os et qu’il a donné à Joseph (Matthieu 1:21) et à Marie (Luc 1:31) le nom qui est au-dessus de tous les noms (Psaumes 148:13, Éphésiens 1:21, Philippiens 2:9), le nom par lequel Il veut que nous l’adorions: Jésus.
+Maintenant que nous comprenons mieux qu’elle est la nature d’un homme et celle d’un chrétien, revenons à Dieu pour que nous puissions comprendre ce qui s’est passé lorsqu’Emmanuel a marché sur la terre dans une chaire semblable à la nôtre et donc que Dieu était avec nous en chair et en os et qu’il a donné à Joseph (Matt 1:21) et à Marie (Luc 1:31) le nom qui est au-dessus de tous les noms (Psaumes 148:13, Éphésiens 1:21, Philippiens 2:9), le nom par lequel Il veut que nous l’adorions: Jésus.
 
 Dieu a un plan de salut pour l’humanité. Tout d’abord, Il a défini le péché. Pour cela, il a créé une alliance avec les hommes et il a donné une loi qui définit ce qui est bien et ce qui est mal. C’est la loi que Moïse a reçue. L’homme, étant par nature pécheur, ne pouvait accomplir cette loi. C’est pour cela que Dieu est venu Lui-même sur la terre pour accomplir cette loi et payer le prix de notre salut.
 

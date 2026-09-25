@@ -128,7 +128,7 @@ C’est ici un vrai appel à la communion et à la prière. La prière est un vr
 
 La même exhortation nous est donnée dans le livre d’Ésaïe :
 
-> **_Va, mon peuple, entre dans ta chambre, Et ferme la porte derrière toi; cache-toi pour quelques instants, Jusqu’à ce que la colère soit passée._** (Ésaïe 26:20)
+> **_Va, mon peuple, entre dans ta chambre, Et ferme la porte derrière toi; cache-toi pour quelques instants, Jusqu’à ce que la colère soit passée._** (Esaïe 26:20)
 
 Face à toutes ces calamités annoncées sur la terre, le secours ne peut se trouver que dans une vraie communion avec le Seigneur. **Entrons dans la chambre de notre cœur et fermons la porte derrière nous pour prier dans l’intimité le Seigneur de notre vie.** Il ne s’agit pas de profaner la prière, mais d’une vraie communion avec le Seigneur. **Tenons-nous devant le Seigneur comme de faibles plantes ; pas comme des plantes épineuses, qui blessent ceux qui s’approchent.** Celui qui entre en communion avec Dieu de manière sincère et honnête verra la présence de Dieu multipliée pour lui.
 

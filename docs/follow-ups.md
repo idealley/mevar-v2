@@ -30,30 +30,44 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: add the glued numbered forms ("1Jean", "2Rois", …) to BOOKS_FR, then refuse a digit before a book name, and check the 47.
 
-## Running headers are recorded as refs
+## French citations 65 wrote canonical, still to restore
 
-**Status**: the printed page header "AN EXODUS 19" (with the page number) gives `Exodus 19, 21, 23 … 35` in `56-0615.md`; `GENESIS`, `JOB`, `EXODUS` headers elsewhere the same. 66 matches case-insensitively and its prose rule only refuses a lowercase book name. Since goal 07 the headers are back in capitals in the text, so an all-capitals rule would now catch them. Part of the page-furniture item below.
+**Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (remeasure after `goal-16-cmpp-complete.md` re-crawls its bodies), `local` (no original: Samuel, 2026-09-25, leave it), and the two posts goal 14 edits (`qui-sera-enleve`, `le-jour-du-seigneur-4-et-les-tribulations`, 293 spots).
 
-## The French sources still carry 65's canonical rewrites
-
-**Status**: until goal 07, 65 rewrote every French citation it found into canonical form ("Math. 24, 6" became "Matthieu 24:6", "1Cor 5:20" became "1 Corinthiens 5:20"). It no longer does, and Samuel's rule is that the preacher's words stay; but the text already rewritten in `mevar`, `onedrive`, `le-scribe`, `cmpp` and `local` still reads canonical.
-
-**Fix**: the same approach as 65b, against each source's original: the Ghost export for `mevar` (at the repo root), the `pdf_url` PDFs for `le-scribe` and `cmpp`, the OneDrive originals for `onedrive`. Its own goal.
+**Fix**: after goal 14 merges, drop `WAIT` from `65c` and rerun it, then 65, 47 and 50.
 
 ## Printed page furniture is inside the sermon bodies
 
-**Status**: the PDF extractor merged the booklet's running headers and footers into the text. `THE SPOKEN WORD` appears **5,894** times across **840** Branham files, and `QUES TIONS A ND ANSWERS ON` (a spaced-out running header) 23 times. A reader sees it: `53-0729` reads "…and now we're 18 THE SPOKEN WORD at the eye age".
+**Status**: goal 14, [`docs/goals/goal-14-furniture-footnotes-le-scribe.md`](goals/goal-14-furniture-footnotes-le-scribe.md), ready to dispatch in parallel with goal 10. Its three items: this furniture (and the running headers 66 records as refs), the broken footnote links of two Ghost posts, and the 94 Le Scribe summaries with no Branham link.
 
-It also feeds the bible-ref normalizer false positives, because the page number sits right after a book name: the 8 `Genesis 19 / 21 / 23 … / 33` refs in `53-0729` are all the page numbers of the booklet *Questions and Answers on Genesis*, and none of those chapters is cited anywhere in the sermon.
+**Dispatch text**, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
 
-**Fix**: strip the furniture at the extraction stage, then rerun 66. Doing it in the normalizer would clean the manifest and leave the visible text broken.
+```
+Read AGENTS.md, VISION.md, DELIVERY.md, docs/goals/README.md, then the goal
+file named below, in that order. Follow DELIVERY.md exactly: worktree from
+origin/main, npm install on this Mac at the root and in web/, atomic
+Conventional Commits, the gates for what you touch, the independent
+subagent review with the prompt given there, then a non-draft PR with
+`gh pr create` whose description opens with the problem and lists every
+acceptance item with the command you ran and its output. Do not merge. Stop
+at the stop points. End with the report DELIVERY.md asks for.
 
-## Footnote links to anchors that do not exist
+Goal file: docs/goals/goal-14-furniture-footnotes-le-scribe.md. Branch:
+goal-14-furniture-footnotes-le-scribe.
 
-**Status**: `check:dist` checks a link's page, not its `#fragment`. Codex's review of goal 08 found 32 fragments with no anchor, all from Ghost: 14 in `/qui-sera-enleve/` and 18 footnote links in `/le-jour-du-seigneur-4-et-les-tribulations/`. They predate goal 08.
+Goal 10 runs at the same time on the OneDrive and PDF texts: never touch
+them. If main moves, merge it and rerun the scripts that write
+manifests/bible-refs.json and index.json; never hand-merge those files.
 
-**Fix**: check fragments in `check:dist` against the target page's ids, then repair the two posts' footnote anchors (the text stays).
+The Branham PDFs are in pdfs/branham/ of the
+goal-07 worktree, or fetch them with 20-download-pdfs.mjs. The furniture
+diff touches hundreds of Branham files: never read it file by file; prove
+it with the counts and the word-diff sample the goal asks for.
 
+After the independent review says ACCEPT, run the codex-second-opinion
+skill (.claude/skills/codex-second-opinion): gpt-6-astra on the stripping
+script, gpt-6-sol on the data with the goal's acceptance commands.
+```
 ## `100` keeps only the first verse group of a list
 
 **Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 952 of 40,602 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").
@@ -70,17 +84,9 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Symptom**: 60-odd `Esther <n>` refs in files that never mention Esther.
 
-**Cause**: `Est` is an accepted abbreviation for Esther in `65-normalize-bible.mjs`, and `est` is the French verb. `c'est 11 heures` becomes `Esther 11`. The same shape hits `Job` (`Jb`), `Ruth`, `Amos`, `Ge`, `Ne`.
+**Cause**: `Est` is an accepted abbreviation for Esther in `65-normalize-bible.mjs`, and `est` is the French verb. `c'est 11 heures` becomes `Esther 11`. Until goal 15 the old rewrites had also put it in the text ("son cachet c'Esther 1 million"); 65c put the words back, the false ref stays (12 works read `est <n>` today). The same shape hits `Job` (`Jb`), `Ruth`, `Amos`, `Ge`, `Ne`.
 
 **Fix**: drop the variants that collide with common French words, or require a chapter:verse pair (not a bare chapter) for the two-letter variants. The impossible-chapter filter added in goal 02 catches only the ones above the book's chapter count.
-
-## Le-Scribe summaries with no Branham link
-
-**Status**: 816 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 94 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 60 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 11 with no date in the id (`wmbch15`, `59xxxxDiacres`, `5003xxDon&appel`), and 3 where Le-Scribe's date is known to be wrong.
-
-Those 3 are the place to start, because the right sermon is already known: `530606Demons-physique` is `53-0608A "Demonology, Physical Realm"`, `530607Demons-religieux` is `53-0609A "Demonology, Religious Realm"`; `600803Jehova-J` has no Jehovah-Jireh sermon within four days. The same drift shows in the "claimed twice" rows: `550118Ange` claims `55-0118 "This Great Warrior, David"`. More links of the "only sermon that day" kind may carry it unseen; nothing but a French title against an English one reveals it.
-
-**Fix**: a human pass over the 94, or model the summary→sermon relation as many-to-one on both sides.
 
 ## `npm install` fails in `web/`
 
@@ -126,6 +132,12 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 **Status**: the service worker installs during the first visit, after that page has loaded, so only the pages opened after it are kept in `works-pages`.
 
 **Fix**: if it matters, have the page ask the worker to cache `location.href` once it is active (a few lines in the registration).
+
+## CMPP translations with no Branham link
+
+**Status**: `markdown/cmpp/` holds 107 works with `preacher: "William Branham"`, the CMPP's French translations (1954 to 1965 by frontmatter date, all filed under `cmpp/undated/`; the full Seven Seals series of March 1963 among them). None carries `original:` and no Branham file points back at them, so a reader on the English sermon does not learn that a full French translation exists, and the Branham timeline in `infographics.md` cannot count them per sermon.
+
+**Fix**: goal 16 (`docs/goals/goal-16-cmpp-complete.md`): the same approach as `49-link-le-scribe-branham.mjs`, by date and time of day, then the English title from the booklet's title page, writing `original:` on the translation and a `translation_fr:` twin of `summary_fr` on the sermon; the linked files move out of `undated/` since the work's URL is its path. The same goal rediscovers cmpp.ch (the crawl cache and the PDFs are gone from the Mac; series 6 stops at booklet 5), cleans the three works whose LLM pass failed (`lc56`, `serie1no8`, `serie4no6`, raw bodies today) and folds the 30 layout variants (`_A4`, `_A5`, `_gc`, `_traite`) of 13 texts.
 
 ## Cross-language linking
 
