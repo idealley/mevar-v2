@@ -14,6 +14,7 @@
 //      and merge into bible_ref.text = { lsg, darby, ost, kjv }
 //   3. For ranges (verse_start..verse_end), join with " " between verses
 //   4. For chapter-only refs (no verse_start), skip text (chapter-level too long)
+//   5. Upsert every LSG verse into bible_verse:[canon_order, chapter, verse]
 
 import fs from "node:fs";
 import path from "node:path";
@@ -131,6 +132,18 @@ for (let i = 0; i < updates.length; i += 200) {
   );
   if ((i + 200) % 1000 < 200) console.log(`  ${Math.min(i + 200, updates.length)}/${updates.length}`);
 }
+
+// Every LSG verse on its own, for the readings the editorial pass inserts
+console.log("upserting LSG verses into bible_verse...");
+const verses = [];
+for (const [order, chapters] of Object.entries(lsg))
+  for (const [chapter, vs] of Object.entries(chapters))
+    for (const [verse, text] of Object.entries(vs))
+      verses.push({ id: new RecordId("bible_verse", [Number(order), Number(chapter), Number(verse)]), lsg: text });
+for (let i = 0; i < verses.length; i += 2000) {
+  await db.query(`FOR $v IN $rows { UPSERT $v.id CONTENT { lsg: $v.lsg }; };`, { rows: verses.slice(i, i + 2000) });
+}
+console.log(`  ${verses.length} verses`);
 
 // Sample
 const sample = (await db.query(

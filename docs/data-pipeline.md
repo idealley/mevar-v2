@@ -99,7 +99,7 @@ committed and served from our domain (`web/public/images`, `web/public/files`).
 
 ## Stage 8 — Bible verse text
 
-`110-seed-bible-text.mjs` — pulls 4 translations from `bible-data/` (LSG, Darby, Ostervald JSON/XML; KJV JSON), maps each `bible_ref` (canon_order + chapter + verse range) to the source verses, joins multi-verse ranges with " ", merges `text = {lsg, darby, ost, kjv}` into the record. Coverage: 84% (chapter-only refs are skipped — too long inline).
+`110-seed-bible-text.mjs` — pulls 4 translations from `bible-data/` (LSG, Darby, Ostervald JSON/XML; KJV JSON), maps each `bible_ref` (canon_order + chapter + verse range) to the source verses, joins multi-verse ranges with " ", merges `text = {lsg, darby, ost, kjv}` into the record. Coverage: 84% (chapter-only refs are skipped — too long inline). It also writes every LSG verse to `bible_verse:[canon_order, chapter, verse]`, where the editorial pass (goal 10) takes the readings it inserts.
 
 ## Stage 9 — Strong's tags
 
