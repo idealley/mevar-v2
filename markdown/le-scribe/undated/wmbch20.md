@@ -194,7 +194,7 @@ A la fin de la réunion William Branham s’approcha d’une femme assise dans u
 
 Le 24 mars au matin, William Branham réserva une réunion pour répondre aux questions écrites de l’auditoire :
 
-“Aujourd’hui, c’est le huitième jour que je suis enfermé dans une chambre. Et ce n’est pas possible pour l’instant d’organiser des entrevues : cela m’entraînerait ailleurs, de même que la prière pour les malades. C’est une onction différente. Le Psaumes 1 parle d’un arbre planté près de courants d’eau [au pluriel dans l’original].
+“Aujourd’hui, c’est le huitième jour que je suis enfermé dans une chambre. Et ce n’est pas possible pour l’instant d’organiser des entrevues : cela m’entraînerait ailleurs, de même que la prière pour les malades. C’est une onction différente. Le Psaume 1 parle d’un arbre planté près de courants d’eau [au pluriel dans l’original].
 
 Chaque soir quand je viens ici, il y a une telle tension que, pour la faire baisser, je dois commencer la réunion en parlant d’autre chose, et c’est alors que le Saint-Esprit vient briser le Sceau. C’est chaque soir comme cela. Il n’est donc pas possible de passer de cela à la guérison ou au discernement.
 

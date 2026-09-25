@@ -128,10 +128,10 @@ _____________________________________________________
   **12.** à 16- Ce n’est qu’au cours des dernières années que l’homme est passé de la
  charrette à l’avion. Je me souviens de la voiture du juge Elmer Frank, vers 1914, qui
  roulait à la vitesse terrifiante de 25 km à l’heure ! “Dans les derniers jours la
- connaissance augmentera” [Daniel 12:4]. Il y a quatre mille ans, Nahum a vu la
- circulation de Chicago : “Les chars s’élancent avec furie dans les rues”.[Nahum 2:5] !
+ connaissance augmentera” [Dan. 12:4]. Il y a quatre mille ans, Nahum a vu la
+ circulation de Chicago : “Les chars s’élancent avec furie dans les rues”.[Nah. 2:5] !
  “Leur apparence est comme des flambeaux” : ce sont leurs phares. “Ils trébuchent
- dans leur marche” [Nahum 2:6] : ce sont les accidents. C’est l’inspiration !
+ dans leur marche” [Nah. 2:6] : ce sont les accidents. C’est l’inspiration !
   **17.** à 28- Nous sommes au temps de la fin. Nous étudierons ce soir l’église tiède de
  Laodicée qui donne la nausée à Dieu rien que d’y penser. [Prière]. Que Dieu bénisse
  tous ces frères de différentes dénominations ici présents. [Chant]. Mon jeune frère
@@ -143,7 +143,7 @@ _____________________________________________________
  vicaire assis sur un trône, semblable au Christ ! Ils le croient encore, mais cela
  peut se faire avant la venue de Christ, le Fils de la Prospérité. Il y aura l’enlèvement
  de l’Eglise, que nous attendons, puis ce serra le retour de Christ.
-  **35.** à 36- L’enlèvement n’est pas le Trône blanc [Apocalypse 20:11], car il n’y a pas de
+  **35.** à 36- L’enlèvement n’est pas le Trône blanc [Ap. 20:11], car il n’y a pas de
  jugement lors de l’enlèvement : vous avez déjà été jugés. “Celui qui écoute ma
  parole, et qui croit à celui qui m’a envoyé, a la Vie éternelle et ne vient point en
  jugement, mais il est passé de la mort à la Vie” [Jean 5:24]. Nous avons été baptisés
@@ -169,8 +169,8 @@ _____________________________________________________
  pasteur voyaient l’Epouse à la fois sur le Sinaï, et poursuivie par le dragon, et au
  Ciel !
   **51.** à 54- Je lui ai dit que les 144 000 ne sont pas l’Epouse mais les Juifs qui se
- tiennent au chapitre 14 sur le Sinaï : ils ont le nom de leur Père sur le front [Apocalypse 14:1 ; NDT : ils sont sur le mont Sion avec l’Agneau]. Ce sont les “restes” des Juifs. Quant au
- dragon qui faisait la guerre au “reste” de la postérité de la femme [Apocalypse 12:17], c’est
+ tiennent au chapitre 14 sur le Sinaï : ils ont le nom de leur Père sur le front [Apoc. 14:1 ; NDT : ils sont sur le mont Sion avec l’Agneau]. Ce sont les “restes” des Juifs. Quant au
+ dragon qui faisait la guerre au “reste” de la postérité de la femme [Ap. 12:17], c’est
  l’église romaine, le dragon rouge. Mais l’Epouse est dans la gloire, au Repas des
  Noces pour trois ans et demi. Rome se tenait devant la femme Israël pour
  dévorer son enfant Jésus, dès qu’il naîtrait. Hérode a massacré les enfants, mais
@@ -182,8 +182,8 @@ _____________________________________________________
  sauvée est elle-même formée de deux groupes : les vierges folles et les vierges
  ayant de l’Huile en réserve. Examinons donc ces 144 000 d’Apocalypse 7. Au
  chapitre 6, le cheval blanc, le Saint-Esprit, est parti en vainqueur [NDT : plus tard, W.M.
- Branham corrige et affirme que le cheval blanc du Premier Sceau d’Apocalypse 6:2 est la séduction antichrist].
- Puis vient le temps de la famine [Apocalypse 6:5-6, Troisième Sceau], et ainsi de suite, jusqu’à
+ Branham corrige et affirme que le cheval blanc du Premier Sceau d’Apoc. 6:2 est la séduction antichrist].
+ Puis vient le temps de la famine [Apoc. 6:5-6, Troisième Sceau], et ainsi de suite, jusqu’à
 ce que les Sceaux soient ouverts. Lisons Apocalypse 7:1-3
     > “(1) Après cela, je vis quatre anges debout aux quatre coins de la terre, qui retenaient les
     quatre vents de la terre, afin qu'aucun vent ne soufflât ni sur la terre ni sur la mer ni sur
@@ -206,7 +206,7 @@ ce que les Sceaux soient ouverts. Lisons Apocalypse 7:1-3
     en arrière pour prendre son manteau”.
    En 70, Titus a investi Jérusalem, et les seuls rescapés furent ceux qui avaient
  écouté Jésus. Le temple fut détruit et la mosquée d’Omar a été érigée à
- l’emplacement du lieu saint, comme Daniel [cf. Daniel 9:27] l’avait dit et comme Jésus
+ l’emplacement du lieu saint, comme Daniel [cf. Dan. 9:27] l’avait dit et comme Jésus
  l’avait confirmé.
   **69.** à 71- Nous sommes à la fin, et tout se passe comme prévu. Jésus a prévenu :
  “Quand vous verrez ces choses arriver, levez la tête, parce que votre Rédempteur
@@ -292,15 +292,15 @@ enfant.
   **115.** à119- Cet Homme avec l’écritoire, c’est le Saint-Esprit, et c’est ce même
  Ange qui revient avec le Saint-Esprit. Tout est prêt ! Ce sont bien des Juifs :
   > “Et j'entendis le nombre de ceux qui avaient été marqués du sceau : Cent quarante-
-  quatre mille scellés de toute tribu des fils d’Israël” [Apocalypse 7:4], douze mille de
+  quatre mille scellés de toute tribu des fils d’Israël” [Apoc. 7:4], douze mille de
   chacune des 12 tribus. Ce sont des Israélites qui viennent juste de se rassembler. Et
   voyez Apocalypse 14:1 “Je regardai, et voici l’Agneau se tenait sur la montagne
   de Sion, et avec lui, 144 000 ayant son nom et le nom de son Père écrits sur leurs
   fronts”. L’Agneau est revenu sur la montagne de Sion après l’enlèvement. Joseph
   avait de même éloigné son épouse quand il est allé vers ses frères : “Je suis Joseph,
-  votre frère”, et ils ont eu peur. “D’où te viennent ces blessures ?” [Zacharie 13:6]. Et ils
-  se lamenteront, chaque famille séparément [Zacharie 12:12]. Mais il leur dira comme
-  autrefois : “Ne soyez pas fâchés contre vous-mêmes” [Genèse 45:5]. Dieu a aveuglé les
+  votre frère”, et ils ont eu peur. “D’où te viennent ces blessures ?” [Zac. 13:6]. Et ils
+  se lamenteront, chaque famille séparément [Zac. 12:12]. Mais il leur dira comme
+  autrefois : “Ne soyez pas fâchés contre vous-mêmes” [Gen. 45:5]. Dieu a aveuglé les
   Juifs pour avoir une Epouse venue des Nations.
   **125.** à 126- La suite d’Apocalypse 7 montre l’Epouse, distincte des 144 000 :
    > “(9) Après cela, je regardai, et voici, il y avait une grande foule, que personne ne pouvait
@@ -335,7 +335,7 @@ enfant.
  dénominations continueront avec les vierges folles. Les Juifs recevront le baptême
  du Saint-Esprit, et un grand réveil fermera les cieux comme aux jours d’Elie. Pour
  finir, l’église romaine rompra son accord avec les Juifs. Dieu se lèvera alors, et
- combattra pour Israël. Les deux prophètes seront tués et exposés dans la rue [Apocalypse 11:1-14]. Mais ils ressusciteront, et peu après le “feu d’artifice” commencera. Tout
+ combattra pour Israël. Les deux prophètes seront tués et exposés dans la rue [Apoc. 11:1-14]. Mais ils ressusciteront, et peu après le “feu d’artifice” commencera. Tout
  cela se passe après le départ de l’Epouse.
   **140.** à 146- Dans une même voiture, l’un sera pris et l’autre non. Des tombes
  seront ouvertes. Ce sera une venue secrète, et il nous est ordonné d’être prêt et de
@@ -345,18 +345,18 @@ enfant.
  d’abord les bien-aimés pour que nous ne soyons pas inquiets à leur sujet, puis
  nous serons enlevés avec eux sur les nuées à la rencontre du Seigneur dans les airs.
  Il n’est pas étonnant qu’ils se soient tous levés pour le louer ! Et les anciens se
- sont prosternés [Apocalypse 7:10-11] ! Nous ne serons pas encore dans le Ciel, mais au-
+ sont prosternés [Apoc. 7:10-11] ! Nous ne serons pas encore dans le Ciel, mais au-
  delà de l’espace terrestre.
   **147.** à 150- Rébecca n’avait jamais vu Isaac, et elle est partie à sa rencontre par la
  foi. Au temps du soir, ils se sont rencontrés dans les champs, et elle s’est voilé le
- visage [Genèse 24:62-67]. Puis Isaac l’a conduite dans le royaume de son père et l’a
+ visage [Gen. 24:62-67]. Puis Isaac l’a conduite dans le royaume de son père et l’a
  épousée. C’est ainsi que l’Eglise rencontrera le Seigneur quand il descendra. Nous
  nous tiendrons sur l’orbite de la terre et nous chanterons, tandis que les anges se
  demanderont de quoi nous parlons, car ils ne savent pas ce que signifie être sauvé.
  [Cantique]. Après cela, les 144 000 reçoivent l’Evangile, car les Juifs ne peuvent
  recevoir la Lumière pendant le temps des Nations. Quand l’Epouse est enlevée,
  l’Esprit descend, et les 144 000 des tribus d’Israël le reçoivent.
-  **151.** à 154- [Chant]. Lisons Matthieu 25:1 à 13
+  **151.** à 154- [Chant]. Lisons Matthieu 25 :1 à 13
    > “(1) ALORS le royaume des cieux sera semblable à dix vierges qui, ayant pris leurs lampes,
    allèrent à la rencontre de l'Epoux. (2) Cinq d'entre elles étaient folles, et cinq sages. (3) Les
    folles, en prenant leurs lampes, ne prirent point d'huile dans des vases ; (4) Mais les sages
@@ -431,7 +431,7 @@ Pentecôte balaie la terre, puis on en retire les tortues, les crapauds, etc. Ma
   **183.** à 191- A moment où elles partent acheter de l’Huile, l’Epoux arrive ! Nous
  sommes si près de la Maison ! [Chant]. Que va-t-il arriver à ces églises qui ont fait
  une partie du chemin avec Christ, mais pas jusqu’au bout ? Si l’Esprit de Dieu
- n’est pas en vous, vous n’êtes pas de Dieu [cf. Romains 8:9], mais de l’organisation.
+ n’est pas en vous, vous n’êtes pas de Dieu [cf. Rom. 8:9], mais de l’organisation.
  Elles sont jetées dans la grande tribulation où “il y aura des pleurs, des
  gémissements et des grincements de dents”. Ils constituent le “reste”. C’est ce qui
  reste d’un tissu, après la découpe selon le patron. C’est Dieu qui avant la fondation
@@ -460,7 +460,7 @@ Pentecôte balaie la terre, puis on en retire les tortues, les crapauds, etc. Ma
    fut accordée jusqu’à un certain temps”.
   L’Epouse qui a été enlevée revient après ces trois ans et demi, et “les autres
 morts ne revinrent point à la vie jusqu’à ce que les mille ans fussent accomplis”
-[Apocalypse 20:5]. Il est venu racheter son Epouse. Puis il vient enlever son Epouse,
+[Apoc. 20:5]. Il est venu racheter son Epouse. Puis il vient enlever son Epouse,
  pour la recevoir, et elle vient à sa rencontre dans les airs : c’est la venue secrète du
  Seigneur. La troisième fois, il vient avec elle : le Roi avec sa Reine.
   **199.** à 203- “Des livres” et le Livre de Vie furent ouverts. Le premier est le livre
@@ -497,7 +497,7 @@ des pécheurs rejetés, condamnés dès le commencement. Ce sont des chèvres. M
   **223.** à 229- Eve croyait faire ce qui était juste. C’est pourquoi, selon Paul, une
  femme ne droit pas prêcher, car c’est Eve qui est entrée dans la voie de la
  transgression. Que la femme ne prenne pas autorité, même si un prophète lui dit de
- le faire [cf. 1 Timothée 2:12]. Paul a ajouté : “Si quelqu’un croit être prophète ou inspiré,
+ le faire [cf. 1 Tim. 2:12]. Paul a ajouté : “Si quelqu’un croit être prophète ou inspiré,
  qu’il reconnaisse que ce que je vous écris est un commandement du Seigneur” [cf. 1
  Cor. 14:37]. Il savait de quoi il parlait. S’ils refusent d’écouter, laissez-les aller. Voilà
  les deux esprits. De même, ces femmes policiers dans la rue, c’est une honte pour
@@ -546,8 +546,8 @@ es une église chrétienne, mais tu es morte !” Paul a ordonné aux disciples
   donnent leur pouvoir à la Bête pendant une heure” pour venger le sang versé. Nous
   devrons bientôt fermer ces portes ou prendre la marque dénominationnelle.
   **250.** à 252- Le Saint-Esprit est le Sceau de Dieu. “Dieu nous a marqué de
-  son Sceau” [2 Corinthiens 1:22], et “N’attristez pas le Saint-Esprit de Dieu, par lequel vous
-  avez été scellés pour le jour de la rédemption” [Éphésiens 4:30]. En Apocalypse 9:4 ils
+  son Sceau” [2 Cor. 1:22], et “N’attristez pas le Saint-Esprit de Dieu, par lequel vous
+  avez été scellés pour le jour de la rédemption” [Eph. 4:30]. En Apocalypse 9:4 ils
   ont le Sceau sur le front [“Il fut dit (aux sauterelles) de ne pas toucher à l’herbe de la terre, ni à
   aucune verdure, ni à aucun arbre, mais seulement aux hommes qui n’ont pas le sceau de Dieu sur le
   front”]. C’est l’Ange qui appose le Sceau sur votre front, c’est votre révélation,
@@ -596,12 +596,12 @@ es une église chrétienne, mais tu es morte !” Paul a ordonné aux disciples
   pour le tester. Et il a perdu son aiguillon ! C’était Dieu qu’il avait piqué ! La mort
   bourdonnait aussi autour de Paul, mais il a dit : “O tombeau, où est ta victoire ? …
   Grâces soient rendues à Dieu, qui nous donne la victoire par notre Seigneur Jésus-
-  Christ” [1 Corinthiens 15:54,57]. Une couronne de justice lui était réservée, et il ne craignait
+  Christ” [1 Cor. 15:54,57]. Une couronne de justice lui était réservée, et il ne craignait
   pas d’être décapité. Tel est le véritable Esprit chrétien.
   **281.** à 285- Le Sceau de Dieu, c’est le Saint-Esprit. Celui qui n’a pas l’Esprit de
 Dieu n’est pas à lui. Vous êtes scellés par le Saint-Esprit pour le jour de la rédemption. Que Dieu vous bénisse.
 
-Dieu n’est pas de Dieu [cf. Romains 8:9]. Mais si vous avez le Saint-Esprit, vous êtes une partie de Dieu, il vous a scellé, il est en vous, il fait son œuvre en vous. Quand ils l’ont fouetté, il a dit : “Père, pardonne-leur, car ils ne savent pas ce qu’ils font”. Ses enfants réclamaient son Sang : ils ne savaient pas ! Le Créateur était sur un bois qu’il avait lui-même fait.
+Dieu n’est pas de Dieu [cf. Rom. 8:9]. Mais si vous avez le Saint-Esprit, vous êtes une partie de Dieu, il vous a scellé, il est en vous, il fait son œuvre en vous. Quand ils l’ont fouetté, il a dit : “Père, pardonne-leur, car ils ne savent pas ce qu’ils font”. Ses enfants réclamaient son Sang : ils ne savaient pas ! Le Créateur était sur un bois qu’il avait lui-même fait.
 
 §286 à 297- J’étais ce Barabbas qui méritait la mort, et Jésus a pris ma place. Barabbas attendait sa mise à mort, c’était le jour de l’Ange exterminateur, et il n’avait pas dormi de la nuit. Mais le centurion a ouvert la porte et Barabbas s’est retrouvé libre. C’est vrai que Dieu condamne à mort tout pécheur, mais des bruit des clous et des pleurs mêlés au sang, venaient de la croix où Jésus prenait la place de Barabbas. Quand je contemple la Croix, alors toute renommée n’est que vanité. Comment pourrais-je le repousser ? J’accepte de perdre mes amis, et d’être chassé des organisations. [Cantiques]. Je veux embrasser la Croix et me tenir près de Jésus. Tu as pris ma place, me voici ! Je n’ai rien à t’offrir, je m’accroche seulement à ta Croix. Alors il m’a fait entrer, il m’a revêtu du vêtement de justice. J’étais perdu et je suis retrouvé. [Cantique].
 
@@ -611,19 +611,19 @@ Dieu n’est pas de Dieu [cf. Romains 8:9]. Mais si vous avez le Saint-Esprit, v
 
 Peu importe ce qu’étaient ses parents, cela le concernait lui seul. Les parents d’Esaü étaient saints, mais lui était un mercenaire. C’est individuel.
 
-§303 à 309- La septième année était l’année du jubilé, l’année du repos. Le sacrificateur sonnait de la trompette, un type de la trompette de l’Evangile. Même si pendant sept ans vous avez servi le diable, vous êtes libres quand la trompette sonne. Quand vous entendez l’Evangile, vous n’avez pas besoin de rester lié. Mais ce n’est que pour ceux qui l’entendent ! Mais si l’esclave aimait son maître, ne voulait pas abandonner ceci ou cela, les choses qu’il aimait sur terre, s’il aimait le diable qui lui faisait faire ces choses, les bals, le loto, alors il refusait la liberté de l’Esprit. Alors le diable, le maître, vous conduit devant Dieu, près de la porte qui est Jésus-Christ, ou du poteau du Calvaire, et “il vous perce l’oreille avec un poinçon, et l’esclave sera pour toujours à son service” [Exode 21:6].
+§303 à 309- La septième année était l’année du jubilé, l’année du repos. Le sacrificateur sonnait de la trompette, un type de la trompette de l’Evangile. Même si pendant sept ans vous avez servi le diable, vous êtes libres quand la trompette sonne. Quand vous entendez l’Evangile, vous n’avez pas besoin de rester lié. Mais ce n’est que pour ceux qui l’entendent ! Mais si l’esclave aimait son maître, ne voulait pas abandonner ceci ou cela, les choses qu’il aimait sur terre, s’il aimait le diable qui lui faisait faire ces choses, les bals, le loto, alors il refusait la liberté de l’Esprit. Alors le diable, le maître, vous conduit devant Dieu, près de la porte qui est Jésus-Christ, ou du poteau du Calvaire, et “il vous perce l’oreille avec un poinçon, et l’esclave sera pour toujours à son service” [Ex. 21:6].
 
 §310 à 313- Si vous entendez la vérité de l’Evangile et refusez d’y entrer, alors Dieu marque votre oreille, et vous ne l’entendrez plus jamais. Vous avez franchi la limite entre la mort et la vie. Vous continuerez avec votre dénomination le reste de vos jours, et vous servirez ce maître pour toujours. Je proclame à ceux qui sont au service du péché que le temps du péché est terminé ! que vous n’avez plus à servir le péché, ni à vous plier aux credo dénominationnels ! “Celui que le Fils affranchit est réellement libre” [cf. Jean 8:36]. Mais si Dieu a parlé à votre cœur, et si vous ne voulez pas sortir et servir le Fils, alors votre maître mettra une marque à votre oreille, et vous ne pourrez plus entendre la Trompette. C’est le sceau du diable, la marque de la Bête. Elle vous ramène à Rome, dans les dénominations pour toujours.
 
 §314 à 320- “Si vous aimez le monde ou les choses du monde, l’amour de Dieu n’est point en vous” [1 Jean 2:15]. Ces grandes choses religieuses sont du monde. C’est pourquoi les “vierges folles” qui ont refusé de prendre l’Huile - ce qu’elles commencent à admettre - devront ressusciter pour le jugement qui séparera les justes et les injustes. Il ne reste que peu de temps, quelques minutes ou quelques années, je ne sais pas. Mais c’est proche ! Le temps vient où l’église va se refroidir. Rejeter le Saint-Esprit, c’est prendre la marque de la Bête. Tous ceux qui n’ont pas été scellés ont reçu la marque de la Bête. Ils ont rejeté le Sceau de Dieu en refusant d’entendre.
 
-§321 à 326- La foi vient de ce qu’on entend [Romains 10:17]. La marque est dans l’oreille, pas dans la main. C’est une blessure de l’entendement. Voyez ce que dit Hébreux 6:4 à 8 sur ces croyants frontaliers :
+§321 à 326- La foi vient de ce qu’on entend [Rom. 10:17]. La marque est dans l’oreille, pas dans la main. C’est une blessure de l’entendement. Voyez ce que dit Hébreux 6 : 4 à 8 sur ces croyants frontaliers :
 
 > (6) Car il est impossible que ceux qui ont été une fois éclairés, qui ont goûté la bonne parole de Dieu et les puissances du siècle à venir, et qui sont tombés, soient encore renouvelés et amenés à la repentance, puisqu’ils crucifient pour leur part le Fils de Dieu et l’exposent à l’ignominie (un élu ne peut agir ainsi). (7) En effet, lorsqu’une terre est abreuvée par la pluie qui tombe souvent sur elle, et qu’elle produit une herbe utile à ceux pour qui elle et cultivée, elle participe à la bénédiction de Dieu. (8) Mais si elle produit des épines et des chardons, elle est réprouvée et près d’être maudite, et on finit par y mettre le feu (mais le blé sera amassé dans le grenier).
 
 Cette pluie vivifiante tombe sur la mauvaise herbe et sur le blé. C’est à leurs fruits que vous les reconnaîtrez.
 
-§327 à 336- Voyez aussi ces croyants frontaliers à Kadès Barnéa, le “trône du jugement” [Nombres 13 et 14]. Il n’y avait que onze jours de marche entre la montagne où ils avaient reçu les commandements, et le lieu où Israël a été jugé. Les espions ont ramené une grosse grappe de raisin, mais ils avaient vu des géants, des fils de Caïn établis dans le pays. Ils ont pourtant tous goûté les fruits. Mais seuls Josué et Caleb ont regardé la Parole qui avait promis : “Tout lieu que foulera la plante de votre pied, je vous le donne” [Deutéronome 11:24,14:1-4]. Mais les autres ont dit : “Nous ne pouvons pas avoir un tel réveil, l’archevêque nous mettra à la porte !”
+§327 à 336- Voyez aussi ces croyants frontaliers à Kadès Barnéa, le “trône du jugement” [Nb. 13 et 14]. Il n’y avait que onze jours de marche entre la montagne où ils avaient reçu les commandements, et le lieu où Israël a été jugé. Les espions ont ramené une grosse grappe de raisin, mais ils avaient vu des géants, des fils de Caïn établis dans le pays. Ils ont pourtant tous goûté les fruits. Mais seuls Josué et Caleb ont regardé la Parole qui avait promis : “Tout lieu que foulera la plante de votre pied, je vous le donne” [Deut. 11:24; 14:1-4]. Mais les autres ont dit : “Nous ne pouvons pas avoir un tel réveil, l’archevêque nous mettra à la porte !”
 
 §337 à 342- Ce sont les croyants d’aujourd’hui. Dieu l’a appelé, il a été sauvé, sa mère lui paye des études pour apprendre à prêcher, mais il est attiré par les femmes ou par la cigarette. Il ne veut certes pas cela, et il demande alors à Dieu de le sanctifier. Dieu fait cela pour lui et le conduit dans une petite église où il entend parler du baptême du Saint-Esprit. Il découvre que le baptême dans la Bible est au Nom de Jésus. Mais son évêque lui dit que ce sont des absurdités, et que s’il prêchait cela, tous le quitteraient.
 
@@ -631,4 +631,4 @@ Cette pluie vivifiante tombe sur la mauvaise herbe et sur le blé. C’est à le
 
 §348 à 357- Qui veut être rempli du Saint-Esprit ? … Plus d’une vingtaine ont levé la main … [Cantique] … [Prière] … Il y aura un service de baptême dans quinze minutes. Le baptême est l’expression extérieure de ce qui s’est passé intérieurement. [Chant] … Je me sens si bien ! … Ce soir nous parlerons du dernier âge de l’église.
 
-§358 à 364- Nous allons procéder au baptême … [Enregistrement interrompu] … [Prière et louange] … [Prophétie du frère Neville, parler en langues d’une sœur et interprétation par une autre sœur] … [Le frère Pat lit Apocalypse 22:16 “Moi, Jésus, j’ai envoyé mon ange pour vous rendre témoignage de ces choses dans les assemblées !”] …
+§358 à 364- Nous allons procéder au baptême … [Enregistrement interrompu] … [Prière et louange] … [Prophétie du frère Neville, parler en langues d’une sœur et interprétation par une autre sœur] … [Le frère Pat lit Apoc. 22:16 “Moi, Jésus, j’ai envoyé mon ange pour vous rendre témoignage de ces choses dans les assemblées !”] …

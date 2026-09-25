@@ -94,7 +94,7 @@ Pourquoi n’a-t-il guéri que cet homme ? Parce qu’il ne faisait que ce qu’
 
 **16.** Beaucoup d’infirmes ont été guéris ce soir-là. Les frères allaient m’évacuer mais j’ai voulu rester un peu, et c’est elle qui s’est avancée en traînant son pied sur l’estrade. J’ai fait dire par l’interprète que Jésus-Christ l’avait guérie, et je lui ai dit d’ôter son appareil en commençant par le haut, et en glissant sa main de haut en bas. Les huissiers ont commencé à prendre son appareil. Je priais pour une autre femme quand j’ai entendu un cri : la fillette courait sur l’estrade en brandissant tout son attirail ! Jésus-Christ est le même hier, aujourd’hui et éternellement ! Sa puissance est illimitée.
 
-**17.** “Qui a cru à ce qui nous était annoncé ? Qui a reconnu le bras de l’Eternel ?” [Ésaïe 53:1]. Il est ici ce soir, Jésus, le Fils de Dieu, pour bénir chacun de vous. Confessez votre foi en lui, croyez qu’il m’a envoyé … [Prière].
+**17.** “Qui a cru à ce qui nous était annoncé ? Qui a reconnu le bras de l’Eternel ?” [Es. 53:1]. Il est ici ce soir, Jésus, le Fils de Dieu, pour bénir chacun de vous. Confessez votre foi en lui, croyez qu’il m’a envoyé … [Prière].
 
 **18.** Si vous êtes venu avec un esprit critique ou par simple curiosité, mieux vaut ne pas rester durant cette partie de la réunion, car un démon chassé sait trouver les endroits où aller. Le Fils de Dieu est ici, il connaît toutes choses … Soyez respectueux, tandis que cet infirme s’avance … vous ressentez que quelque chose se passe, c’est l’Ange du Seigneur … vous êtes pasteur … un docteur vous a examiné … un cancer de la vésicule … non, de la vessie … [prière pour cet homme] … louons le Seigneur, … [interruption] … il est guéri ! … [louange] …
 
