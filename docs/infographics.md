@@ -83,8 +83,9 @@ Counts per year as of today (English / Le-Scribe / CMPP):
 Prerequisite: a link from each CMPP translation to its Branham sermon,
 the way script 49 does it for Le-Scribe (by date, then title against the
 English title). Without it the third bar counts files, not sermons, and
-the work page cannot offer "lire l'original". Recorded in
-`follow-ups.md`, "CMPP translations with no Branham link".
+the work page cannot offer "lire l'original". That is
+goal 13 (`goals/goal-13-cmpp-complete.md`), which also rediscovers
+cmpp.ch, so the counts above will move.
 
 Open question: whether the same figure should carry the other French
 voices of the corpus (Ewald Frank's own 128 works and Alexis Barilier's 6
