@@ -43,16 +43,21 @@ function* walk(dir) {
   }
 }
 
-// The PDF's text and the titles of its running headers.
+// The PDF's text and the titles of its running headers. Each header is
+// marked (\u0001…\u0001) so that only a page's header, never the same words in
+// the sermon, can confirm a spot.
 function readPdf(pdf) {
   const { pages } = JSON.parse(execFileSync(path.join(root, "node_modules/.bin/lit"), ["parse", "--no-ocr", "-q", "--format", "json", pdf], { encoding: "utf8", maxBuffer: 1 << 28 }));
   const titles = new Set();
-  for (const page of pages.slice(1)) {
-    const line = page.text.trim().split("\n")[0].replace(/\s+/g, " ");
-    const m = line.match(/^\d{1,3} (THE SPOKEN WORD)$/) ?? line.match(/^([^a-z]*[A-Z][^a-z]*?) \d{1,3}$/);
-    if (m) titles.add(m[1]);
-  }
-  return { source: flat(pages.map((p) => p.text).join("\n")), titles };
+  const texts = pages.map((page, i) => {
+    const [line, ...rest] = page.text.trim().split("\n");
+    const flatLine = line.replace(/\s+/g, " ");
+    const m = i > 0 && (flatLine.match(/^\d{1,3} (THE SPOKEN WORD)$/) ?? flatLine.match(/^([^a-z]*[A-Z][^a-z]*?) \d{1,3}$/));
+    if (!m) return page.text;
+    titles.add(m[1]);
+    return `\u0001${flatLine}\u0001\n${rest.join("\n")}`;
+  });
+  return { source: flat(texts.join("\n")), titles };
 }
 
 // The page number the extractor left before or after a header, across the
@@ -62,8 +67,8 @@ const NUM_AFTER = /^(?:\*\*)?[ \t\n]*(?:\*\*)?(\d{1,3})(?![\d\p{L}])/u;
 
 // Each reading of one header spot: its span in our text and the page number it
 // carries, if any. The PDF decides which reading, if any, is right.
-function readings(text, hit) {
-  const [spot, title] = hit;
+function readings(text, hit, title) {
+  const [spot] = hit;
   const start = hit.index, end = start + spot.length;
   const out = [];
   const b = text.slice(Math.max(0, start - 200), start).match(NUM_BEFORE);
@@ -80,20 +85,24 @@ function aligns(text, source, title, r) {
   const num = r.num ?? "\\d{1,3}";
   // The PDF prints the number first on even pages, last on odd ones.
   const printed = title === EVEN ? `${num} ${header}` : `${header} ${num}`;
-  const re = new RegExp(`${pattern(before2(text, r.start))} ${printed} ${pattern(after3(text, r.end))}`, "g");
+  const before = before2(text, r.start), after = after3(text, r.end);
+  const re = new RegExp(`${before ? `(?<![^ ])${pattern(before)} ` : ""}\u0001${printed}\u0001${after ? ` ${pattern(after)}(?![^ ])` : ""}`, "g");
   return [...source.matchAll(re)].length === 1;
 }
 
-// Remove a spot with the markdown around it on its own line, and the blank
-// line the page break left in a sentence that goes on.
+// Remove a spot, with the markdown marks that shared its line with nothing
+// else, and the blank line the page break left in a sentence that goes on.
 function strip(text, { start, end }) {
   let s = start, e = end;
-  while (s > 0 && /[ \t*#>]/.test(text[s - 1])) s--;
-  while (e < text.length && /[ \t*]/.test(text[e])) e++;
-  // Emphasis marks go only when they wrap the header alone.
-  if ((text.slice(s, e).match(/\*/g) ?? []).length % 2) {
-    s = start;
-    e = end;
+  const lineStart = text.lastIndexOf("\n", s - 1) + 1;
+  if (/^[ \t*#>]*$/.test(text.slice(lineStart, s))) s = lineStart;
+  const lineEnd = text.indexOf("\n", e) < 0 ? text.length : text.indexOf("\n", e);
+  if (/^[ \t*]*$/.test(text.slice(e, lineEnd))) e = lineEnd;
+  // Bold that wrapped the header alone ("**2 THE SPOKEN WORD** [A brother")
+  // goes with it: the delimiter left on the other side goes too.
+  if ((text.slice(s, e).match(/\*\*/g) ?? []).length % 2) {
+    if (text.startsWith("**", e)) e += 2;
+    else if (text.slice(0, s).endsWith("**")) s -= 2;
   }
   let i = s, j = e;
   while (i > 0 && /\s/.test(text[i - 1])) i--;
@@ -101,10 +110,15 @@ function strip(text, { start, end }) {
   const gap = text.slice(i, s) + text.slice(e, j);
   const tail = text.slice(e, j);
   const indent = tail.includes("\n") ? tail.slice(tail.lastIndexOf("\n") + 1) : "";
-  // The sentence goes on in lowercase, or with a verse, an ordinal or a list
-  // ("Ephesians / 4:30", "the / 15th verse", "32, / 33, 34"); a new paragraph
-  // starts with a capital or with its number ("57 Every", "50e", "88b.").
-  const goesOn = /^(?:\p{Ll}|\d+(?::\d|st\b|nd\b|rd\b|th\b|,))/u.test(text.slice(j));
+  // The sentence goes on when the text after starts no paragraph and either
+  // starts in lowercase or follows text that ends no sentence: "grass; /
+  // there's", "generation, / Jesus", "Ephesians / 4:30". In these booklets a
+  // paragraph after a page break opens with its number ("57 Every", "50e",
+  // "**88b.**"); a quote or heading mark or an editor's bracket also starts
+  // one, and a blockquote or heading line before is never continued.
+  const lastLine = text.slice(text.lastIndexOf("\n", i - 1) + 1, i);
+  const next = text.slice(j);
+  const goesOn = !/^\s*[>#]/.test(lastLine) && !/^(?:\**\d+[a-z]?\.?\**\s|[>#[*_-])/.test(next) && (/^\p{Ll}/u.test(next) || !/[.!?…:]["”’)\]*_]*$/.test(lastLine));
   const sep = !gap.includes("\n") ? " " : /\n[ \t]*\n/.test(gap) && !goesOn ? "\n\n" : "\n";
   return text.slice(0, i) + (i && j < text.length ? sep + indent : "") + text.slice(j);
 }
@@ -131,11 +145,12 @@ for (const file of mdFiles) {
   const { source, titles } = readPdf(pdfOf(file));
   if (!titles.size) continue;
   // The PDF spaces some titles out ("THE PR ESENCE OF"), our text often does
-  // not: a title matches with any spacing between its letters, and a hit is
-  // read back as the PDF's title.
-  const bare = (t) => t.replace(/\s+/g, "");
+  // not, may break one over two lines, or write its book name in title case
+  // ("THE THIRD Exodus 25"): a title matches with any spacing and any case, and
+  // a hit is read back as the PDF's title.
+  const bare = (t) => t.replace(/\s+/g, "").toUpperCase();
   const titleOf = new Map([...titles].map((t) => [bare(t), t]));
-  const titleRe = new RegExp(`(?<![\\p{L}])(${[...titleOf.keys()].sort((a, b) => b.length - a.length).map((t) => [...t].map(escRe).join("[ \\t]*")).join("|")})(?![\\p{L}])`, "gu");
+  const titleRe = new RegExp(`(?<![\\p{L}])(${[...titleOf.keys()].sort((a, b) => b.length - a.length).map((t) => [...t].map(escRe).join("[ \\t]*\\n?[ \\t]*")).join("|")})(?![\\p{L}])`, "giu");
 
   // Removing a header can give its neighbour the context it lacked, so the
   // pass repeats until nothing moves.
@@ -145,7 +160,7 @@ for (const file of mdFiles) {
     left = [];
     for (const hit of [...out.matchAll(titleRe)].reverse()) {
       const title = titleOf.get(bare(hit[1]));
-      const rs = readings(out, hit);
+      const rs = readings(out, hit, title);
       // An odd-page title with no number is the sermon's own title, not a
       // header; so is one that opens the body (page 1 has no header).
       if (!rs.length || (title !== EVEN && !flat(out.slice(0, hit.index)).replace(/\d+\.?/g, "").trim())) continue;
@@ -153,7 +168,9 @@ for (const file of mdFiles) {
       if (ok.length === 1) {
         out = strip(out, ok[0]);
         stripped[title === EVEN ? "even" : "odd"]++;
-      } else {
+      } else if (/\p{Lu}{2}/u.test(hit[1])) {
+        // Listed when printed as a header, in capitals; a title that does not
+        // align in the sermon's own words ("the spoken Word") is no header.
         const at = rs[0];
         left.push({ spot: flat(out.slice(at.start, at.end)).trim(), context: flat(out.slice(Math.max(0, at.start - 80), at.end + 60)).trim() });
       }
