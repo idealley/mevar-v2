@@ -34,11 +34,17 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Status**: the printed page header "AN EXODUS 19" (with the page number) gives `Exodus 19, 21, 23 … 35` in `56-0615.md`; `GENESIS`, `JOB`, `EXODUS` headers elsewhere the same. 66 matches case-insensitively and its prose rule only refuses a lowercase book name. Since goal 07 the headers are back in capitals in the text, so an all-capitals rule would now catch them. Part of the page-furniture item below.
 
-## The French sources still carry 65's canonical rewrites
+## French citations 65 wrote canonical, still to restore
 
-**Status**: until goal 07, 65 rewrote every French citation it found into canonical form ("Math. 24, 6" became "Matthieu 24:6", "1Cor 5:20" became "1 Corinthiens 5:20"). It no longer does, and Samuel's rule is that the preacher's words stay; but the text already rewritten in `mevar`, `onedrive`, `le-scribe`, `cmpp` and `local` still reads canonical.
+**Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (remeasure after the CMPP goal re-crawls its bodies), `local` (no original: Samuel, 2026-09-25, leave it), and the two posts goal 14 edits (`qui-sera-enleve`, `le-jour-du-seigneur-4-et-les-tribulations`, 293 spots).
 
-**Fix**: the same approach as 65b, against each source's original: the Ghost export for `mevar` (at the repo root), the `pdf_url` PDFs for `le-scribe` and `cmpp`, the OneDrive originals for `onedrive`. Its own goal.
+**Fix**: after goal 14 merges, drop `WAIT` from `65c` and rerun it, then 65, 47 and 50.
+
+## 65 reads "est 1" as Esther 1
+
+**Status**: the book variant "Est" matches the verb in any case: "son cachet c'est 1 million", "on est 7,7 milliards" record `Esther 1`, `Esther 7`. 12 works. Before goal 15 the text itself read "c'Esther 1 million"; 65c put the words back, the false ref stays.
+
+**Fix**: in 65, read the variants that are also French words ("Est", "Es", "Os") only with a capital. Not goal 15, which leaves what 65 recognises alone.
 
 ## Printed page furniture is inside the sermon bodies
 
