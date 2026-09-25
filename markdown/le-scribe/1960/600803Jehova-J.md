@@ -71,6 +71,7 @@ bible_refs:
   - "Jean 6:44"
   - "Psaumes 103:3"
   - "Marc 9:25"
+original: "branham/1960/60-0803"
 ---
 **1.** Je suis en retard à cause d'une urgence. Lisons Genèse 22:7-8 et 14 :
     "(7) Alors Isaac, parlant à Abraham, son père, dit : Mon père ! Et il répondit : Me voici, mon fils ! Isaac reprit : Voici le feu et le bois ; mais où est l'agneau pour l'holocauste ? (8) Abraham répondit : Mon fils, Dieu se pourvoira lui-même de l'agneau pour l'holocauste. Et ils marchèrent tous deux ensemble. - … - (14) Abraham donna à ce lieu le nom de Jehova Jiré. C'est pourquoi l'on dit aujourd'hui : A la montagne de l'Éternel il sera pourvu."

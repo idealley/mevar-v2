@@ -63,6 +63,7 @@ bible_refs:
   - "Marc 13:22"
   - "Lévitique 20:6"
   - "Éphésiens 4:8"
+original: "branham/1953/53-0609A"
 ---
 **1.** [Prière].
 
