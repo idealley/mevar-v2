@@ -23,9 +23,10 @@ function report(name, problems, detail = "") {
 /** The file a root-relative URL path is served from, or null. */
 function served(p) {
   const f = path.join(dist, decodeURIComponent(p));
-  if (p.endsWith("/")) return fs.existsSync(path.join(f, "index.html")) ? f : null;
+  const index = path.join(f, "index.html");
+  if (p.endsWith("/")) return fs.existsSync(index) ? index : null;
   if (fs.existsSync(f) && fs.statSync(f).isFile()) return f;
-  return fs.existsSync(path.join(f, "index.html")) ? f : null;
+  return fs.existsSync(index) ? index : null;
 }
 
 // 1. Ghost posts at their root URL; drafts nowhere.
@@ -105,12 +106,11 @@ for (const page of pages) {
       hrefs++;
       const p = url.pathname;
       if (!known.has(p)) known.set(p, served(p));
-      const f = known.get(p);
-      if (!f) {
+      target = known.get(p);
+      if (!target) {
         broken.push(`${path.relative(dist, page)} -> ${href}`);
         continue;
       }
-      target = fs.statSync(f).isDirectory() ? path.join(f, "index.html") : f;
     }
     if (!fragment || !target.endsWith(".html")) continue;
     fragments++;

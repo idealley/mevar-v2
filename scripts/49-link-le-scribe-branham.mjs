@@ -177,11 +177,10 @@ for (const [ref, sermon] of links) {
   if (!claimants.has(sermon.ref)) claimants.set(sermon.ref, []);
   claimants.get(sermon.ref).push(ref);
 }
-const answered = (ref) => decided[path.basename(ref)] !== undefined;
 for (const [sermonRef, refs] of claimants) {
   if (refs.length < 2) continue;
   const sermon = links.get(refs[0]);
-  const kept = refs.filter(answered);
+  const kept = refs.filter((ref) => decided[path.basename(ref)] !== undefined);
   if (kept.length > 1) console.warn(`two answers name ${sermonRef}: ${kept.join(", ")}; neither is linked`);
   const dropped = kept.length === 1 ? refs.filter((ref) => ref !== kept[0]) : refs;
   for (const ref of dropped) {
