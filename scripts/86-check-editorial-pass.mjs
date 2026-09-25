@@ -8,16 +8,21 @@
 //   - typography: case, an accent on a capital (Eglise → Église), accents on
 //     a word in capitals (DESERT → désert), œ/oe;
 //   - spacing: a word split or joined with the same letters (c omme → comme);
-//   - page numbers removed: a number alone on its line of the original;
-//   - the document's header removed: the paragraphs before the first of prose
-//     (title, "Prêché le … à …", which the frontmatter holds), and the old
-//     site's "Haut de page Retour Page d'accueil" bar; each is listed;
+//   - printed furniture removed: a number alone on its line (page number), the
+//     browser's print header and footer ("…/exo_nov07.html  1/4",
+//     "13/03/2010  MEVAR"), the old site's "Haut de page Retour Page
+//     d'accueil" bar, a digit between two letters (a glyph for "…"); counted;
+//   - the document's header removed: the original's words before those the
+//     body opens with, within the first 80 (title, "Prêché le … à …", which
+//     the frontmatter holds); listed;
 //   - a reading inserted where the pass put a marker: " (Réf)" and the
 //     blockquote, which must equal the Segond verses in SurrealDB exactly,
 //     for a reference the original cites (same book, chapter, first verse).
 // A word replaced by another is never accepted silently: it goes into the
 // substitution table, as a non-word corrected to a word (the French Hunspell
-// dictionary says which) or as a word replaced by a word. Any other change
+// dictionary says which) or as a word replaced by a word; a word the PDF's
+// text layer broke in two and the pass joined, a letter or two restored
+// ("réa ite" → "réalité"), goes there too. Any other change
 // (a word added or removed, several words for a different number of others,
 // a reading that is not Segond or not announced, an odd number of ** in a
 // paragraph) is unexplained, and the text is not written.
@@ -44,8 +49,19 @@ const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editoria
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
 
-// Words with their position.
-const words = (text) => [...text.matchAll(/[\p{L}\p{N}]+/gu)].map((m) => ({ w: m[0], at: m.index }));
+// Words with their position; a number glued to letters is its own word
+// ("11novembre1962").
+const words = (text) => [...text.matchAll(/\p{L}+|\p{N}+/gu)].map((m) => ({ w: m[0], at: m.index }));
+
+function distance(a, b) {
+  let row = [...Array(b.length + 1).keys()];
+  for (let i = 1; i <= a.length; i++) {
+    const next = [i];
+    for (let j = 1; j <= b.length; j++) next[j] = Math.min(row[j] + 1, next[j - 1] + 1, row[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    row = next;
+  }
+  return row[b.length];
+}
 
 const fold = (w) => w.toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae");
 const bare = (w) => w.normalize("NFD").replace(/\p{Diacritic}/gu, "");
@@ -59,8 +75,10 @@ function typography(a, b) {
 }
 
 // Myers diff of two word lists, through diff(1): hunks of [before, after].
-// Two hunks at most two words apart are one change: the diff splits
-// "à faire à" → "affaire à" and "vous vous" → "Vous vous" in two.
+// Two hunks at most two words apart are read as one change first, since the
+// diff splits "vous vous" → "Vous vous" in two; if that change is not
+// allowed, its parts are read one by one ("Ecritures il ya" → "Écritures il
+// y a" is a capital accent and a split).
 function hunks(a, b) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), "goal10-"));
   fs.writeFileSync(`${dir}/a`, a.map((x) => x.w).join("\n") + "\n");
@@ -76,14 +94,11 @@ function hunks(a, b) {
       : m[2] === "d" ? { as: a1 - 1, ae: a2, bs: b1, be: b1 }
       : { as: a1 - 1, ae: a2, bs: b1 - 1, be: b2 };
     const last = merged.at(-1);
-    if (last && h.as - last.ae <= 2 && h.bs - last.be <= 2) Object.assign(last, { ae: h.ae, be: h.be });
-    else merged.push(h);
+    if (last && h.as - last.ae <= 2 && h.bs - last.be <= 2) Object.assign(last, { ae: h.ae, be: h.be, parts: [...last.parts, h] });
+    else merged.push({ ...h, parts: [h] });
   }
-  return merged.map((h) => ({
-    before: a.slice(h.as, h.ae),
-    after: b.slice(h.bs, h.be),
-    at: b[Math.min(h.bs, b.length - 1)]?.at ?? 0, // where it is in the new text
-  }));
+  const slice = (h) => ({ before: a.slice(h.as, h.ae), after: b.slice(h.bs, h.be), at: b[Math.min(h.bs, b.length - 1)]?.at ?? 0 });
+  return merged.map((h) => ({ ...slice(h), parts: h.parts.map(slice) }));
 }
 
 function sentence(text, at) {
@@ -99,7 +114,7 @@ for (const md of batch) {
   const rel = md.slice("markdown/".length);
   const original = fs.readFileSync(path.join(root, ".parse-cache", rel), "utf8");
   const pass = JSON.parse(fs.readFileSync(path.join(root, ".pass-cache", rel.replace(/\.md$/, ".json")), "utf8"));
-  const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], pass };
+  const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, navigation: 0, glyph: 0 }, nonWord: [], word: [], unexplained: [], readings: [], pass };
 
   // The inserted readings leave the compared text once they are verified:
   // the Segond verses, for a reference the original cites.
@@ -119,44 +134,58 @@ for (const md of batch) {
   for (const p of pass.body.split(/\n\s*\n/))
     if ((p.match(/\*\*/g) ?? []).length % 2) r.unexplained.push(`an odd number of ** in: ${p.slice(0, 200)}`);
 
-  // The header (the paragraphs before the first that is not a "#" heading
-  // and has 20 words or more) and the navigation bar leave the original when
-  // the pass removed them; the report lists each. A header paragraph is kept
-  // when the body opens with it, in order.
+  // The document's header: the original's words before the ones the body
+  // opens with (6 of its first 8, the pass may have corrected one), if the
+  // body opens within the first 80 words; listed.
   const after = words(body);
-  const paras = original.split(/\n\s*\n/);
-  const prose = paras.findIndex((p) => !p.trim().startsWith("#") && words(p).length >= 20);
-  const keptHeader = new Set();
-  let next = 0;
-  paras.slice(0, prose).forEach((p, i) => {
-    const w = words(p).map((x) => fold(x.w));
-    if (w.length && w.every((x, j) => fold(after[next + j]?.w ?? "") === x)) { keptHeader.add(i); next += w.length; }
-  });
-  const nav = /^Haut de page Retour Page d['’]accueil$/;
-  const dropped = (p, i) => (i < prose && words(p).length && !keptHeader.has(i)) || nav.test(p.trim());
-  r.removed = paras.filter(dropped).map((p) => p.trim());
-  const compared = paras.filter((p, i) => !dropped(p, i)).join("\n\n");
+  const ow = words(original);
+  const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
+  r.removed = k > 0 ? [original.slice(0, ow[k].at).replace(/\s+/g, " ").trim()] : [];
+  let compared = k > 0 ? " ".repeat(ow[k].at) + original.slice(ow[k].at) : original;
 
-  // Page numbers: a number alone on its line of the original, which the pass removed.
-  const pageNumber = new Set([...compared.matchAll(/^[#*_ ]*(\d+)[*_ ]*$/gm)].map((m) => m.index + m[0].indexOf(m[1])));
-  for (const hunk of hunks(words(compared), after)) {
-    const now = hunk.after;
-    const before = hunk.before.filter((x) => !pageNumber.has(x.at));
-    r.counts.pageNumbers += hunk.before.length - before.length;
-    const text = (xs) => xs.map((x) => x.w).join(" ");
-    const join = (xs) => fold(xs.map((x) => x.w).join(""));
-    if (!before.length && !now.length) continue;
-    if (before.length && now.length && join(before) === join(now) && before.length !== now.length) r.counts.spacing++;
+  // Printed page furniture the pass removes: the old site's navigation bar,
+  // the browser's print header and footer ("http://mevar.org/….html  1/4",
+  // "13/03/2010  MEVAR"), a number alone on its line (a page number), and a
+  // digit between two letters, a glyph that stood for "…" ("serviteur4ils").
+  const furniture = [
+    [/^\s*Haut\s+de\s+page\s+Retour\s+Page\s+d['’]accueil\s*$/gm, "navigation"],
+    [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
+    [/^\s*\d{2}\/\d{2}\/\d{4}\s+MEVAR\s*$/gm, "print"],
+    [/^[#*_ ]*\d+[*_ ]*$/gm, "pageNumbers"],
+    [/(?<=\p{L})\d(?=\p{L})/gu, "glyph"],
+  ];
+  for (const [re, kind] of furniture)
+    compared = compared.replace(re, (m) => { r.counts[kind] = (r.counts[kind] ?? 0) + 1; return " ".repeat(m.length); });
+
+  const text = (xs) => xs.map((x) => x.w).join(" ");
+  const join = (xs) => fold(xs.map((x) => x.w).join(""));
+  // Reads one change; returns what it found, without touching r.
+  function classify({ before, after: now, at }) {
+    const c = { typography: 0, spacing: 0, nonWord: [], word: [], unexplained: [] };
+    if (before.length && now.length && join(before) === join(now) && before.length !== now.length) c.spacing++;
     else if (before.length === now.length) {
       before.forEach((b, i) => {
         const a = now[i];
-        if (typography(b.w, a.w)) { r.counts.typography++; return; }
+        if (typography(b.w, a.w)) { c.typography++; return; }
         const row = { before: b.w, after: a.w, sentence: sentence(body, a.at) };
-        if (!isWord(b.w) && isWord(a.w)) r.nonWord.push(row);
-        else r.word.push(row);
+        (!isWord(b.w) && isWord(a.w) ? c.nonWord : c.word).push(row);
       });
-    } else {
-      r.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, hunk.at)}`);
+    } else if (now.length && now.length < before.length && distance(join(before), join(now)) <= 2) {
+      // a word the text layer broke, joined, a letter or two restored ("réa ite" → "réalité")
+      const row = { before: text(before), after: text(now), sentence: sentence(body, now[0].at) };
+      (before.some((b) => !isWord(b.w)) ? c.nonWord : c.word).push(row);
+    } else c.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
+    return c;
+  }
+  for (const hunk of hunks(words(compared), after)) {
+    let found = [classify(hunk)];
+    if (found[0].unexplained.length && hunk.parts.length > 1) found = hunk.parts.map(classify);
+    for (const c of found) {
+      r.counts.typography += c.typography;
+      r.counts.spacing += c.spacing;
+      r.nonWord.push(...c.nonWord);
+      r.word.push(...c.word);
+      r.unexplained.push(...c.unexplained);
     }
   }
 
@@ -174,15 +203,15 @@ for (const md of batch) {
   }
   r.promoted = /^editorial_pass:/m.test(fs.readFileSync(path.join(root, md), "utf8"));
   rows.push(r);
-  console.log(`${md}: ${r.promoted ? "promoted" : "NOT promoted"} | typography ${r.counts.typography}, spacing ${r.counts.spacing}, page numbers ${r.counts.pageNumbers}, non-word→word ${r.nonWord.length}, word→word ${r.word.length}, readings ${r.readings.length}, unexplained ${r.unexplained.length}`);
+  console.log(`${md}: ${r.promoted ? "promoted" : "NOT promoted"} | typography ${r.counts.typography}, spacing ${r.counts.spacing}, page numbers ${r.counts.pageNumbers}, print ${r.counts.print + r.counts.navigation}, glyphs ${r.counts.glyph}, non-word→word ${r.nonWord.length}, word→word ${r.word.length}, readings ${r.readings.length}, unexplained ${r.unexplained.length}`);
 }
 await db.close();
 
 // ─── Report ──────────────────────────────────────────────────────────────────
 const cell = (s) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
 const L = [`# Goal 10, batch ${batchId}: the check`, "", `Generated by \`scripts/86-check-editorial-pass.mjs ${batchId}\`.`, ""];
-L.push("## Per text", "", "| Text | Promoted | Typography | Spacing | Page numbers | Non-word → word | Word → word | Readings inserted | Unexplained |", "| --- | --- | --- | --- | --- | --- | --- | --- | --- |");
-for (const r of rows) L.push(`| \`${r.md.slice("markdown/".length)}\` | ${r.promoted ? "yes" : "**no**"} | ${r.counts.typography} | ${r.counts.spacing} | ${r.counts.pageNumbers} | ${r.nonWord.length} | ${r.word.length} | ${r.readings.length} | ${r.unexplained.length} |`);
+L.push("## Per text", "", "| Text | Promoted | Typography | Spacing | Page numbers | Print furniture | Glyphs | Non-word → word | Word → word | Readings inserted | Unexplained |", "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |");
+for (const r of rows) L.push(`| \`${r.md.slice("markdown/".length)}\` | ${r.promoted ? "yes" : "**no**"} | ${r.counts.typography} | ${r.counts.spacing} | ${r.counts.pageNumbers} | ${r.counts.print + r.counts.navigation} | ${r.counts.glyph} | ${r.nonWord.length} | ${r.word.length} | ${r.readings.length} | ${r.unexplained.length} |`);
 for (const [head, key] of [["Substitutions: a non-word corrected to a word", "nonWord"], ["Substitutions: a word replaced by another word", "word"]]) {
   L.push("", `## ${head}`, "", "| Text | Before | After | Sentence (after) |", "| --- | --- | --- | --- |");
   for (const r of rows) for (const s of r[key]) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(s.before)} | ${cell(s.after)} | ${cell(s.sentence)} |`);
@@ -194,7 +223,7 @@ for (const r of rows) {
   const items = [...r.unexplained, ...r.pass.unresolved.map((u) => `reading marker not resolved, nothing inserted: ${u}`)];
   if (items.length) L.push(`- \`${r.md.slice("markdown/".length)}\``, ...items.map((u) => `  - ${cell(u)}`));
 }
-L.push("", "## Header lines removed", "");
+L.push("", "## Headers removed (the frontmatter holds title, date, place)", "");
 for (const r of rows) for (const h of r.removed) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
 L.push("", "## Sentences the pass left as they are (unclear)", "");
 for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}`);
