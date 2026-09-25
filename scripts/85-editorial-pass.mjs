@@ -37,7 +37,7 @@ Permis, et rien d'autre :
 - la ponctuation, les espaces et la typographie française : « guillemets », espace insécable avant : ; ? !, apostrophe courbe ’ ;
 - les coupures de ligne et de paragraphe : le texte vient d'un PDF, ses lignes sont coupées à la largeur de la page ; recoller les lignes d'un même paragraphe et une phrase coupée par un saut de page, séparer un bloc trop long là où le prédicateur change d'idée ;
 - enlever les numéros de page ;
-- enlever l'en-tête du début, avant le premier paragraphe du prédicateur (le titre, « Prêché le … à … ») : le titre, la date et le lieu sont dans les métadonnées ; enlever la barre « Haut de page Retour Page d'accueil » de l'ancien site ;
+- enlever l'en-tête du début, avant le premier paragraphe du prédicateur, s'il ne dit que le titre, la date, le lieu et le prédicateur (« Prêché le … à … par le frère … ») : ils sont dans les métadonnées ; toute autre ligne du début (un sous-titre, « VICTOIRE ! VICTOIRE ! », « APPEL À LA GUERRE ») reste, en paragraphe, avec son gras ; enlever la barre « Haut de page Retour Page d'accueil » de l'ancien site ;
 - une lecture biblique ou une citation que le prédicateur lit (la Bible, frère Branham) et qui n'est pas dans sa phrase : un paragraphe à part, en citation markdown « > … », sans italique (le site la met en italique), avec les mots tels qu'ils sont (ce n'est pas toujours la Segond : ne les change pas) ; les numéros de verset qui s'y trouvent en gras (« **2** ») dans cette citation « > » seulement, jamais dans une citation entre « » au milieu d'une phrase ; la référence reste à sa place : si elle suit la lecture, elle reste à la fin, entre parenthèses, « (Apocalypse 14:7) » ;
 - les courtes citations dans une phrase restent dans la phrase, entre « ».
 
