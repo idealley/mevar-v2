@@ -6,9 +6,9 @@
 // changes goal 04 allows:
 //   - whitespace, punctuation, paragraph breaks: not words, not compared (a
 //     heading, HTML or an odd number of ** is unexplained);
-//   - the preacher's bold stays on the same words; only a verse number may
-//     change, next to its neighbour or covered by a reference cited there
-//     (counted);
+//   - the preacher's bold stays on the same words; only a verse number in a
+//     quote may change, next to its neighbour, covered by a reference cited
+//     there, or before a capital (counted);
 //   - typography: case, œ/oe, an accent on a capital (Eglise → Église) when
 //     the unaccented form is not a word (A → À is a substitution); a word in
 //     capitals may get its accents back only in the title;
@@ -109,10 +109,9 @@ const bare = (w) => w.normalize("NFD").replace(/\p{Diacritic}/gu, "");
 // Typography: case, œ/oe, and an accent on a capital where the word without
 // it is not a word ("Eglise" → "Église"; "A" → "À" is a word replaced by a
 // word). A word in capitals has lost all its accents ("PECHE" is péché or
-// pêche), so only a title may have them back ("LES FILS DU DESERT").
-function typography(a, b, title = false) {
+// pêche), so only a title may have them back (below).
+function typography(a, b) {
   if (fold(a) === fold(b)) return true;
-  if (title && a === a.toUpperCase() && bare(fold(a)) === bare(fold(b))) return true;
   if (isWord(a.toLowerCase())) return false;
   return a[0] !== a[0].toLowerCase() && b[0] !== b[0].toLowerCase()
     && bare(a[0]) === bare(b[0]) && fold(a.slice(1)) === fold(b.slice(1));
@@ -241,7 +240,7 @@ for (const md of batch) {
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
   const key = (w) => bare(fold(w));
   const [y, mo, d] = field("date").split("-");
-  const own = new Set([oldTitle, pass.title, field("subtitle"), field("location"), field("preacher"),
+  const own = new Set([oldTitle, field("subtitle"), field("location"), field("preacher"),
     `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w));
@@ -287,8 +286,8 @@ for (const md of batch) {
     return c;
   }
   const { changes, equal } = hunks(words(compared), after);
-  // The preacher's bold: on the same words, except a verse number, whose
-  // bold is the house style's: a number up to 176 next to the bold number
+  // The preacher's bold: on the same words, except a verse number in a quote
+  // ("> …"), whose bold is the house style's: a number up to 176 next to the bold number
   // before or after it, in its paragraph or the next or previous one (**48**
   // … **49**; a reading may give each verse its paragraph), or covered by a
   // reference (with the verse, or the chapter) cited in its paragraph or the
@@ -302,7 +301,7 @@ for (const md of batch) {
     return !m || (v >= Number(m[1]) && v <= Number(m[2] ?? m[1]));
   });
   const next = new Map(after.map((x, i) => [x, after[i + 1]]));
-  const verse = (o, n) => o.bold !== n.bold && /^\d+$/.test(n.w) && Number(n.w) <= 176 && (() => {
+  const verse = (o, n) => o.bold !== n.bold && n.quote && /^\d+$/.test(n.w) && Number(n.w) <= 176 && (() => {
     const p = paraOf(n.at), v = Number(n.w);
     return /^\p{Lu}/u.test(next.get(n)?.w ?? "") || covered(p, v)
       || [p - 1, p, p + 1].some((q) => boldNumbers.has(`${q}:${v - 1}`) || boldNumbers.has(`${q}:${v + 1}`));
@@ -328,9 +327,11 @@ for (const md of batch) {
     }
   }
 
-  // The title: only typography may change.
+  // The title: only typography may change, and a word in capitals may get its
+  // accents back ("LES FILS DU DESERT" → "Les fils du désert").
   const [ot, nt] = [words(oldTitle), words(pass.title)];
-  r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w, true)) ? pass.title : oldTitle;
+  const caps = (a, b) => a === a.toUpperCase() && bare(fold(a)) === bare(fold(b));
+  r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w) || caps(x.w, nt[i].w)) ? pass.title : oldTitle;
   r.titleRefused = r.title === pass.title ? "" : pass.title;
 
   const promoted = /^editorial_pass:/m.test(fm);
