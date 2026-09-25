@@ -48,10 +48,10 @@ function text(pdf) {
   });
   return lines.join("\n")
     .replace(new RegExp(`${E}([ \\t]*)${B}`, "g"), "$1")                       // one run within a line
+    .replace(new RegExp(`${B}([^\\p{L}\\p{N}${B}${E}]*)${E}`, "gu"), "$1")      // bold with no word in it, first
     .replace(new RegExp(`${B}(\\s*)`, "g"), `$1${B}`).replace(new RegExp(`(\\s*)${E}`, "g"), `${E}$1`)
-    .replace(new RegExp(`([\\p{L}\\p{N}]+)${B}`, "gu"), `${B}$1`)               // to the start of its word
-    .replace(new RegExp(`${E}([\\p{L}\\p{N}]+)`, "gu"), `$1${E}`)               // to the end of its word
-    .replace(new RegExp(`${B}${E}|${B}([^\\p{L}\\p{N}${E}]*)${E}`, "gu"), "$1") // bold with no word in it
+    .replace(new RegExp(`([\\p{L}\\p{N}]+)${B}(?=[\\p{L}\\p{N}])`, "gu"), `${B}$1`) // inside a word: to its start
+    .replace(new RegExp(`(?<=[\\p{L}\\p{N}])${E}([\\p{L}\\p{N}]+)`, "gu"), `$1${E}`) // inside a word: to its end
     .replace(new RegExp(`[${B}${E}]`, "g"), "**");
 }
 
