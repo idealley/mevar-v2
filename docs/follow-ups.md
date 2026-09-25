@@ -32,7 +32,7 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 ## The French sources still carry 65's canonical rewrites
 
-**Status**: goal 14, [`docs/goals/goal-14-french-citations-as-written.md`](goals/goal-14-french-citations-as-written.md), ready to dispatch (Mevar posts, Le Scribe, CMPP). The OneDrive texts are goal 10's (its stop points).
+**Status**: goal 15, [`docs/goals/goal-15-french-citations-as-written.md`](goals/goal-15-french-citations-as-written.md), ready to dispatch (Mevar posts, Le Scribe). The OneDrive texts are goal 10's (its stop points), the CMPP texts wait for goal 13 (CMPP complete).
 
 **Dispatch text**, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
 
@@ -46,8 +46,8 @@ subagent review with the prompt given there, then a non-draft PR with
 acceptance item with the command you ran and its output. Do not merge. Stop
 at the stop points. End with the report DELIVERY.md asks for.
 
-Goal file: docs/goals/goal-14-french-citations-as-written.md. Branch:
-goal-14-french-citations-as-written.
+Goal file: docs/goals/goal-15-french-citations-as-written.md. Branch:
+goal-15-french-citations-as-written.
 
 Goal 10 runs at the same time on the OneDrive and PDF texts: never touch
 them. If main moves, merge it and rerun the scripts that write
@@ -62,7 +62,7 @@ gpt-6-sol on the data with the goal's acceptance commands.
 ```
 ## Printed page furniture is inside the sermon bodies
 
-**Status**: goal 13, [`docs/goals/goal-13-furniture-footnotes-le-scribe.md`](goals/goal-13-furniture-footnotes-le-scribe.md), ready to dispatch in parallel with goal 10. Its three items: this furniture (and the running headers 66 records as refs), the broken footnote links of two Ghost posts, and the 94 Le Scribe summaries with no Branham link.
+**Status**: goal 14, [`docs/goals/goal-14-furniture-footnotes-le-scribe.md`](goals/goal-14-furniture-footnotes-le-scribe.md), ready to dispatch in parallel with goal 10. Its three items: this furniture (and the running headers 66 records as refs), the broken footnote links of two Ghost posts, and the 94 Le Scribe summaries with no Branham link.
 
 **Dispatch text**, to paste as the opening message of a fresh session started in `~/projects/mevar-v2`:
 
@@ -76,15 +76,14 @@ subagent review with the prompt given there, then a non-draft PR with
 acceptance item with the command you ran and its output. Do not merge. Stop
 at the stop points. End with the report DELIVERY.md asks for.
 
-Goal file: docs/goals/goal-13-furniture-footnotes-le-scribe.md. Branch:
-goal-13-furniture-footnotes-le-scribe.
+Goal file: docs/goals/goal-14-furniture-footnotes-le-scribe.md. Branch:
+goal-14-furniture-footnotes-le-scribe.
 
 Goal 10 runs at the same time on the OneDrive and PDF texts: never touch
 them. If main moves, merge it and rerun the scripts that write
 manifests/bible-refs.json and index.json; never hand-merge those files.
 
-Order of work: item 2 first (two posts and check-dist), then item 1, then
-item 3's decisions file. The Branham PDFs are in pdfs/branham/ of the
+The Branham PDFs are in pdfs/branham/ of the
 goal-07 worktree, or fetch them with 20-download-pdfs.mjs. The furniture
 diff touches hundreds of Branham files: never read it file by file; prove
 it with the counts and the word-diff sample the goal asks for.

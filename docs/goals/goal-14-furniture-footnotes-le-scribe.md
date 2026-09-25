@@ -1,4 +1,4 @@
-# GOAL 13: No page furniture in Branham, working footnotes, every Le Scribe summary linked
+# GOAL 14: No page furniture in Branham, working footnotes, every Le Scribe summary linked
 
 **Status:** ready to dispatch; runs in parallel with goal 10
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, the bodies of
@@ -8,8 +8,13 @@ for item 3, `web/scripts/check-dist.mjs`, `docs/`)
 **Depends on:** 12 (merged as PR #14)
 **Rules:** [README.md](README.md)
 
-Three follow-ups from `docs/follow-ups.md`, one commit group each. None
-touches the OneDrive or PDF texts goal 10 edits. Goal 14 also edits
+Goal 13 (CMPP complete) edits the `translation_fr` frontmatter of
+`markdown/branham/`, this goal its bodies: the same files, other lines.
+Whichever merges second merges `main` and reruns 47 and 50.
+
+Three follow-ups from `docs/follow-ups.md`, one commit group each, in
+this order: item 2 (two posts and `check-dist`), item 1, item 3. None
+touches the OneDrive or PDF texts goal 10 edits. Goal 15 also edits
 `markdown/mevar/` bodies: it leaves item 2's two posts alone until this
 goal merges. The files several goals regenerate
 (`manifests/bible-refs.json`, `index.json`) are rerun after a merge of
@@ -20,8 +25,15 @@ goal merges. The files several goals regenerate
 **1. Printed page furniture is inside the Branham bodies.** The PDF
 extractor merged the booklets' running headers and footers into the text.
 Measured on `main` after PR #14:
-- **Even pages:** "`<page>` THE SPOKEN WORD" 5,609 times (of 5,894
-  « THE SPOKEN WORD » in 840 files). `53-0729` reads "…the Eastern is the
+- **Even pages:** the footer with its page number, 5,781 times of the
+  5,894 « THE SPOKEN WORD » in 840 files (`grep -rhoE
+  '[0-9]{1,3} +THE SPOKEN WORD' markdown/branham`): on a line of its own
+  5,423 times, the rest inside a line or wrapped by the extractor in bold
+  (`**18 THE SPOKEN WORD**`, 93; `**18** THE SPOKEN WORD`, 38), a heading
+  mark (7) or a blockquote (1). All are in scope. The 32 « THE SPOKEN WORD
+  IS THE ORIGINAL SEED » are that sermon's title header (odd pages, below);
+  the other 81 occurrences are listed and classified before any is
+  stripped. `53-0729` reads "…the Eastern is the
   oldest / 18 THE SPOKEN WORD / civilization": the footer, on a line of its
   own, splits the sentence.
 - **Odd pages:** the sermon's title in capitals and the page number, 3,573
@@ -97,7 +109,7 @@ English one reveals it.
 
 - The 39 French book names goal 07 could not align (their own follow-up).
 - Any other change to a Branham body: typos, the LLM cleanup's wording.
-- Goal 10's texts (OneDrive, PDFs) and goal 14's citation restoration.
+- Goal 10's texts (OneDrive, PDFs) and goal 15's citation restoration.
 
 ## Acceptance evidence
 

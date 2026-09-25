@@ -1,19 +1,18 @@
-# GOAL 14: The French citations read as the preacher wrote them
+# GOAL 15: The French citations read as the preacher wrote them
 
 **Status:** ready to dispatch; runs in parallel with goal 10 (not on its
-texts)
+texts) and with goal 14, whose two `markdown/mevar/` posts
+(`qui-sera-enleve`, `le-jour-du-seigneur-4-et-les-tribulations`) wait
+until goal 14 merges
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, the bodies of
-`markdown/mevar/`, `markdown/le-scribe/`, `markdown/cmpp/` and, if a source
-is found, `markdown/local/`; `docs/`)
+`markdown/mevar/`, `markdown/le-scribe/` and, if a source is found,
+`markdown/local/`; `docs/`)
 **Depends on:** 07 (65 no longer rewrites), 12 (merged as PR #14)
 **Rules:** [README.md](README.md)
 **Kind:** RESTORATION, as goal 07's `65b`: the text goes back to the
 source's own wording where a script changed it. Only a citation's wording
 changes, and only to what the source has (AGENTS.md hard rule 1: the
 preacher's words stay; these are his words, the canonical form was 65's).
-Runs in parallel with goal 10 (not on its texts) and with goal 13, whose
-two `markdown/mevar/` posts (`qui-sera-enleve`,
-`le-jour-du-seigneur-4-et-les-tribulations`) wait until goal 13 merges.
 
 ## Problem
 
@@ -32,7 +31,7 @@ himself):
 | - | -: | -: | - |
 | `mevar` | 4,789 | 269 | the Ghost export, `manifests/mevar.ghost.2026-09-20-19-24-38.json` (gitignored) |
 | `le-scribe` | 14,051 | 904 | the PDF in each work's `pdf_url` (le-scribe.org) |
-| `cmpp` | 8,807 | 236 | the PDF in `pdf_url` (cmpp.ch) |
+| `cmpp` | 8,807 | 236 | not here: goal 13 (CMPP complete) re-crawls and rewrites these bodies; remeasure after it |
 | `local` | 151 | 2 | unknown: ask Samuel |
 
 For `mevar` the rewrites are measured, not estimated: of the 4,789, 1,535
@@ -56,7 +55,7 @@ before its first edit (its stop points). Not this goal.
      other, legitimate differences from Ghost (goal 04's editorial pass on
      seven posts, goals 01 and 03's links): the alignment is on words, not
      on markup, and only the citation changes.
-   - `le-scribe`, `cmpp`: the PDFs, fetched with `20-download-pdfs.mjs`
+   - `le-scribe`: the PDFs, fetched with `20-download-pdfs.mjs`
      into the gitignored `pdfs/`, parsed with `lit parse`.
    - `local`: only if Samuel names a source.
 2. **Refs unchanged.** Rerun `65`, `47`, `50`. 65 reads the restored forms
@@ -69,14 +68,15 @@ before its first edit (its stop points). Not this goal.
 
 ## Stop points
 
-- Before fetching: the PDF count and size for Le Scribe and CMPP; if a
-  site does not answer, say so and continue with the others.
+- Before fetching: the PDF count and size for Le Scribe; if the site does
+  not answer, say so and stop.
 - `local`: ask Samuel for the source of the two volumes.
 - More than 10 % of a source's spots unaligned: stop and show a sample.
 
 ## Scope out
 
-- OneDrive and `mevar-pdfs` (goal 10), Branham (goal 07's `65b`).
+- OneDrive and `mevar-pdfs` (goal 10), CMPP (after goal 13), Branham (goal
+  07's `65b`).
 - Any change to a text other than a citation's wording.
 - What 65 recognises.
 
