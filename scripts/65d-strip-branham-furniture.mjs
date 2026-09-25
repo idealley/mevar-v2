@@ -90,18 +90,23 @@ function aligns(text, source, title, r) {
 
 // Remove a spot, with the markdown marks that shared its line with nothing
 // else, and the blank line the page break left in a sentence that goes on.
+// Null when the header shares a bold with the sermon's words: removing it
+// would strand a "**", so the spot is listed instead.
 function strip(text, { start, end }) {
   let s = start, e = end;
+  // A page number in its own bold ("## COUNTDOWN / **17** atomic") goes whole.
+  if (/\*\*\d{1,3}$/.test(text.slice(s, e)) && text.startsWith("**", e)) e += 2;
+  if (/^\d{1,3}\*\*/.test(text.slice(s, e)) && text.slice(0, s).endsWith("**")) s -= 2;
+  // Bold around the header alone ("**2 THE SPOKEN WORD** [A brother") goes.
+  if (text.slice(0, s).endsWith("**") && text.startsWith("**", e)) {
+    s -= 2;
+    e += 2;
+  }
   const lineStart = text.lastIndexOf("\n", s - 1) + 1;
   if (/^[ \t*#>]*$/.test(text.slice(lineStart, s))) s = lineStart;
   const lineEnd = text.indexOf("\n", e) < 0 ? text.length : text.indexOf("\n", e);
   if (/^[ \t*]*$/.test(text.slice(e, lineEnd))) e = lineEnd;
-  // Bold that wrapped the header alone ("**2 THE SPOKEN WORD** [A brother")
-  // goes with it: the delimiter left on the other side goes too.
-  if ((text.slice(s, e).match(/\*\*/g) ?? []).length % 2) {
-    if (text.startsWith("**", e)) e += 2;
-    else if (text.slice(0, s).endsWith("**")) s -= 2;
-  }
+  if ((text.slice(s, e).match(/\*\*/g) ?? []).length % 2 || text.slice(0, s).endsWith("**") !== text.startsWith("**", e)) return null;
   let i = s, j = e;
   while (i > 0 && /\s/.test(text[i - 1])) i--;
   while (j < text.length && /\s/.test(text[j])) j++;
@@ -143,12 +148,14 @@ for (const file of mdFiles) {
   const { source, titles } = readPdf(pdfOf(file));
   if (!titles.size) continue;
   // The PDF spaces some titles out ("THE PR ESENCE OF"), our text often does
-  // not, may break one over two lines, or write its book name in title case
-  // ("THE THIRD Exodus 25"): a title matches with any spacing and any case, and
-  // a hit is read back as the PDF's title.
-  const bare = (t) => t.replace(/\s+/g, "").toUpperCase();
+  // not, may break one over lines, write a straight apostrophe for a curly one
+  // ("GOD'S"), or its book name in title case ("THE THIRD Exodus 25"): a title
+  // matches with any spacing, either quote and any case, and a hit is read
+  // back as the PDF's title.
+  const bare = (t) => t.replace(/\s+/g, "").replace(/[‘’]/g, "'").replace(/[“”]/g, '"').toUpperCase();
+  const letter = (ch) => (ch === "'" ? "['‘’]" : ch === '"' ? '["“”]' : escRe(ch));
   const titleOf = new Map([...titles].map((t) => [bare(t), t]));
-  const titleRe = new RegExp(`(?<![\\p{L}])(${[...titleOf.keys()].sort((a, b) => b.length - a.length).map((t) => [...t].map(escRe).join("[ \\t]*\\n?[ \\t]*")).join("|")})(?![\\p{L}])`, "giu");
+  const titleRe = new RegExp(`(?<![\\p{L}])(${[...titleOf.keys()].sort((a, b) => b.length - a.length).map((t) => [...t].map(letter).join("[ \\t]*(?:\\n[ \\t]*){0,2}")).join("|")})(?![\\p{L}])`, "giu");
 
   // Removing a header can give its neighbour the context it lacked, so the
   // pass repeats until nothing moves.
@@ -162,11 +169,14 @@ for (const file of mdFiles) {
       // An odd-page title with no number is the sermon's own title, not a
       // header; so is one that opens the body (page 1 has no header).
       if (!rs.length || (title !== EVEN && !flat(out.slice(0, hit.index)).replace(/\d+\.?/g, "").trim())) continue;
-      const ok = rs.filter((r) => aligns(out, source, title, r));
-      if (ok.length === 1) {
-        out = strip(out, ok[0]);
+      // Only a header printed in capitals goes; one in the sermon's case is
+      // at most listed.
+      const ok = /\p{Ll}/u.test(hit[1]) ? [] : rs.filter((r) => aligns(out, source, title, r));
+      const cut = ok.length === 1 && strip(out, ok[0]);
+      if (cut) {
+        out = cut;
         stripped[title === EVEN ? "even" : "odd"]++;
-      } else if (/\p{Lu}{2}/u.test(hit[1])) {
+      } else if (!/\p{Ll}/u.test(hit[1]) || /\p{Lu}{2}/u.test(hit[1])) {
         // Listed when printed as a header, in capitals; a title that does not
         // align in the sermon's own words ("the spoken Word") is no header.
         const at = rs[0];
