@@ -5,8 +5,9 @@
 // with the pass (.pass-cache/, from 85) word by word and accepts only the
 // changes goal 04 allows:
 //   - whitespace, punctuation, markup, paragraph breaks: not words, not compared;
-//   - typography: case, an accent on a capital (Eglise → Église), accents on
-//     a word in capitals (DESERT → désert), œ/oe;
+//   - typography: case, œ/oe, an accent on a capital (Eglise → Église) or on
+//     a word in capitals (DESERT → désert) when the unaccented form is not a
+//     word (A → À is a substitution);
 //   - spacing: a word split or joined with the same letters (c omme → comme);
 //   - printed furniture removed: a number alone on its line (page number), the
 //     browser's print header and footer ("…/exo_nov07.html  1/4",
@@ -21,8 +22,8 @@
 // A word replaced by another is never accepted silently: it goes into the
 // substitution table, as a non-word corrected to a word (the French Hunspell
 // dictionary says which) or as a word replaced by a word; a word the PDF's
-// text layer broke in two and the pass joined, a letter or two restored
-// ("réa ite" → "réalité"), goes there too. Any other change
+// text layer broke and the pass joined, a letter or two restored ("réa ite"
+// → "réalité", at most one dictionary word on the left), goes to the latter. Any other change
 // (a word added or removed, several words for a different number of others,
 // a reading that is not Segond or not announced, an odd number of ** in a
 // paragraph) is unexplained, and the text is not written.
@@ -67,9 +68,11 @@ const fold = (w) => w.toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae");
 const bare = (w) => w.normalize("NFD").replace(/\p{Diacritic}/gu, "");
 function typography(a, b) {
   if (fold(a) === fold(b)) return true;
-  // a word in capitals loses its accents: "DESERT" → "désert"
+  // An accent restored where capitals dropped it, and only where the word
+  // without it is not a word: "Eglise" → "Église", "DESERT" → "désert"; but
+  // "A" → "À", "OU" → "où", "LA" → "là" are words replaced by words.
+  if (isWord(a.toLowerCase())) return false;
   if (a === a.toUpperCase() && bare(fold(a)) === bare(fold(b))) return true;
-  // an accent on a capital: "Eglise" → "Église", "A" → "À"
   return a[0] !== a[0].toLowerCase() && b[0] !== b[0].toLowerCase()
     && bare(a[0]) === bare(b[0]) && fold(a.slice(1)) === fold(b.slice(1));
 }
@@ -121,10 +124,11 @@ for (const md of batch) {
   const cited = [...citations(original)];
   let body = pass.body;
   for (const { ref } of pass.readings) {
-    const inserted = ` (${ref})\n\n${blockquote(await reading(db, ref))}`;
+    const verses = await reading(db, ref);
+    const inserted = verses && ` (${ref})\n\n${blockquote(verses)}`;
     const start = ref.replace(/-\d+$/, "");
     const announced = cited.find((c) => c.ref.replace(/-\d+$/, "") === start || c.ref === start.replace(/:\d+$/, ""));
-    if (!body.includes(inserted)) r.unexplained.push(`reading ${ref} is not the Segond text`);
+    if (!inserted || !body.includes(inserted)) r.unexplained.push(`reading ${ref} is not the Segond text`);
     else if (!announced) r.unexplained.push(`reading ${ref} inserted, but the original does not cite it`);
     else {
       body = body.replace(inserted, "");
@@ -139,6 +143,7 @@ for (const md of batch) {
   // body opens within the first 80 words; listed.
   const after = words(body);
   const ow = words(original);
+  r.words = ow.length;
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
   r.removed = k > 0 ? [original.slice(0, ow[k].at).replace(/\s+/g, " ").trim()] : [];
   let compared = k > 0 ? " ".repeat(ow[k].at) + original.slice(ow[k].at) : original;
@@ -155,7 +160,7 @@ for (const md of batch) {
     [/(?<=\p{L})\d(?=\p{L})/gu, "glyph"],
   ];
   for (const [re, kind] of furniture)
-    compared = compared.replace(re, (m) => { r.counts[kind] = (r.counts[kind] ?? 0) + 1; return " ".repeat(m.length); });
+    compared = compared.replace(re, (m) => { r.counts[kind]++; return " ".repeat(m.length); });
 
   const text = (xs) => xs.map((x) => x.w).join(" ");
   const join = (xs) => fold(xs.map((x) => x.w).join(""));
@@ -170,10 +175,12 @@ for (const md of batch) {
         const row = { before: b.w, after: a.w, sentence: sentence(body, a.at) };
         (!isWord(b.w) && isWord(a.w) ? c.nonWord : c.word).push(row);
       });
-    } else if (now.length && now.length < before.length && distance(join(before), join(now)) <= 2) {
-      // a word the text layer broke, joined, a letter or two restored ("réa ite" → "réalité")
-      const row = { before: text(before), after: text(now), sentence: sentence(body, now[0].at) };
-      (before.some((b) => !isWord(b.w)) ? c.nonWord : c.word).push(row);
+    } else if (now.length && now.length < before.length && before.filter((b) => isWord(b.w)).length < 2
+      && distance(join(before), join(now)) <= 2) {
+      // a word the text layer broke, joined, a letter or two restored ("réa ite"
+      // → "réalité"); read line by line. Two words or more on the left side
+      // would hide a word removed ("n a pa" → "a pas"): unexplained.
+      c.word.push({ before: text(before), after: text(now), sentence: sentence(body, now[0].at) });
     } else c.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
     return c;
   }
@@ -190,18 +197,18 @@ for (const md of batch) {
   }
 
   // The title: only typography may change.
-  const oldTitle = JSON.parse(fs.readFileSync(path.join(root, md), "utf8").match(/^title: (.*)$/m)[1]);
+  const file = fs.readFileSync(path.join(root, md), "utf8");
+  const oldTitle = JSON.parse(file.match(/^title: (.*)$/m)[1]);
   const [ot, nt] = [words(oldTitle), words(pass.title)];
   r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w)) ? pass.title : oldTitle;
   r.titleRefused = r.title === pass.title ? "" : pass.title;
 
-  const file = fs.readFileSync(path.join(root, md), "utf8");
   if (!r.unexplained.length && !/^editorial_pass:/m.test(file)) {
     const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
     const newFm = fm.replace(/^title: .*$/m, `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${pass.body}\n`);
   }
-  r.promoted = /^editorial_pass:/m.test(fs.readFileSync(path.join(root, md), "utf8"));
+  r.promoted = !r.unexplained.length || /^editorial_pass:/m.test(file);
   rows.push(r);
   console.log(`${md}: ${r.promoted ? "promoted" : "NOT promoted"} | typography ${r.counts.typography}, spacing ${r.counts.spacing}, page numbers ${r.counts.pageNumbers}, print ${r.counts.print + r.counts.navigation}, glyphs ${r.counts.glyph}, non-word→word ${r.nonWord.length}, word→word ${r.word.length}, readings ${r.readings.length}, unexplained ${r.unexplained.length}`);
 }
@@ -233,7 +240,7 @@ for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.tit
 const usage = rows.flatMap((r) => r.pass.usage);
 const [tin, tout] = [usage.reduce((a, u) => a + u.prompt_tokens, 0), usage.reduce((a, u) => a + u.completion_tokens, 0)];
 // The estimate given before the first run: $2.60 for 130,000 words.
-const batchWords = rows.reduce((a, r) => a + words(fs.readFileSync(path.join(root, ".parse-cache", r.md.slice("markdown/".length)), "utf8")).length, 0);
+const batchWords = rows.reduce((a, r) => a + r.words, 0);
 L.push("", "## Spend", "", `${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words. Extraction (LiteParse, mammoth) is local.`);
 const out = path.join(root, `docs/goals/evidence/goal-10-batch-${batchId}.md`);
 fs.writeFileSync(out, L.join("\n") + "\n");

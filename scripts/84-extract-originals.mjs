@@ -4,9 +4,9 @@
 // .parse-cache/<path under markdown/>. The editorial pass starts from there,
 // and the check compares against it.
 //
-//   .docx (preferred when OneDrive has both) → mammoth
-//   .pdf → LiteParse without OCR: the PDF's own text layer, word for word
-//          (LlamaParse was tried and rewrites words: "vends" → "vendis")
+// The PDF through LiteParse without OCR: its own text layer, word for word
+// (LlamaParse was tried and rewrites words: "vends" → "vendis"). The one
+// text whose only original is a .docx brings a reader with its batch.
 //
 // A text already in .parse-cache/ is not extracted again. The originals are
 // the OneDrive folder at onedrive/ (gitignored, as for 60 and 61).
@@ -17,7 +17,6 @@
 import fs from "node:fs";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
-import mammoth from "mammoth";
 
 const root = path.resolve(import.meta.dirname, "..");
 const inventory = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive-inventory.json"), "utf8"));
@@ -28,13 +27,10 @@ for (const md of batch) {
   if (fs.existsSync(out)) continue;
   const stem = "onedrive/" + md.slice("markdown/onedrive/".length, -".md".length);
   const hits = inventory.filter((e) => [e.canonical_path, ...e.aliases].some((p) => p.replace(/\.[^.]+$/, "") === stem));
-  const pick = hits.find((e) => e.ext === ".docx") ?? hits.find((e) => e.ext === ".pdf");
+  const pick = hits.find((e) => e.ext === ".pdf");
   const src = path.join(root, pick.canonical_path);
   fs.mkdirSync(path.dirname(out), { recursive: true });
-  if (src.endsWith(".docx")) fs.writeFileSync(out, (await mammoth.convertToMarkdown({ path: src })).value);
-  else {
-    const lit = spawnSync(path.join(root, "node_modules/.bin/lit"), ["parse", "-q", "--no-ocr", "-o", out, src], { encoding: "utf8" });
-    if (lit.status !== 0) throw new Error(`${src}: ${lit.stderr}`);
-  }
+  const lit = spawnSync(path.join(root, "node_modules/.bin/lit"), ["parse", "-q", "--no-ocr", "-o", out, src], { encoding: "utf8" });
+  if (lit.status !== 0) throw new Error(`${src}: ${lit.stderr}`);
   console.log(`${md} ← ${pick.canonical_path}`);
 }
