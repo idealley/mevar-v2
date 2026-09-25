@@ -44,6 +44,7 @@ bible_refs:
   - "Genèse 15:8"
   - "Hébreux 10:26"
   - "Hébreux 6:4"
+  - "Hébreux 7"
   - "Hébreux 7:15"
   - "Hébreux 7:18"
   - "Jean 6:44"

@@ -38,6 +38,7 @@ bible_refs:
   - "1 Jean 1"
   - "1 Jean 3"
   - "1 Jean 4"
+  - "2 Corinthiens 4:1-6"
   - "2 Thessaloniciens 2"
   - "Actes 10"
   - "Apocalypse 13"

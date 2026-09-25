@@ -58,6 +58,7 @@ bible_refs:
   - "Jean 9:38-41"
   - "Job 12:23-25"
   - "Luc 13:24"
+  - "Luc 4"
   - "Luc 4:18-20"
   - "Luc 8:20-21"
   - "Lévitique 8"

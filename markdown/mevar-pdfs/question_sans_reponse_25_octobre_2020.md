@@ -41,6 +41,8 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/question_sans_reponse_25_octobre_2020.pdf"
 local_pdf: "/files/mevar/question_sans_reponse_25_octobre_2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18"
 ---
 *Une question sans réponse, prêché à Koumassi, le 25 Octobre 2020, par le frère M'BRA Parfait*
 

@@ -46,6 +46,7 @@ bible_refs:
   - "Malachie 4"
   - "Marc 11"
   - "Matthieu 11"
+  - "Matthieu 11:25,26"
   - "Ésaïe 35"
   - "Ésaïe 40"
   - "Ésaïe 53"

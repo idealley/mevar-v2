@@ -48,6 +48,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 14:12"
   - "Jean 14:19"
+  - "Josué 1"
   - "Josué 10:1"
   - "Josué 10:12"
   - "Luc 22:17"

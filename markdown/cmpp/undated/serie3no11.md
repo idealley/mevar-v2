@@ -40,6 +40,7 @@ bible_refs:
   - "Hébreux 13"
   - "Jean 14"
   - "Marc 11"
+  - "Marc 11:12-24"
   - "Matthieu 28"
   - "Psaumes 34"
   - "Romains 9"

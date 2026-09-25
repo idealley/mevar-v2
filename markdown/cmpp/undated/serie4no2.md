@@ -45,6 +45,8 @@ bible_refs:
   - "Lévitique 16"
   - "Lévitique 2"
   - "Matthieu 12"
+  - "Matthieu 2"
+  - "Matthieu 2:1-12"
 ---
 SERIE 4, N° 2
 

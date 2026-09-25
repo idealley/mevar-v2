@@ -81,7 +81,12 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "1 Samuel 9"
+  - "Juges 1:19-33"
+  - "Juges 2"
+  - "Juges 2:1-4"
+  - "Malachie 4:5,6"
   - "Matthieu 22"
+  - "Nombres 23:18-19"
 ---
 ## Dieu n'est pas un homme pour mentir
 

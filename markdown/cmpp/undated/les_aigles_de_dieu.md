@@ -41,6 +41,7 @@ pdf_url: "http://cmpp.ch/les_aigles_de_dieu.pdf"
 llm_cleaned: true
 bible_refs:
   - "Deutéronome 32"
+  - "Jean 4"
   - "Jean 8"
   - "Matthieu 16"
 ---

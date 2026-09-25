@@ -34,8 +34,10 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "1 Jean 4:4"
+  - "1 Samuel 2:22"
   - "1 Samuel 2:22-26"
   - "1 Samuel 4:12-18"
+  - "1 Samuel 4:3"
   - "1 Samuel 4:3-11"
   - "1 Samuel 5:1-12"
   - "1 Samuel 6:1-2"
@@ -44,6 +46,7 @@ bible_refs:
   - "1 Samuel 7:2-4"
   - "Apocalypse 6"
   - "Jacques 1:17"
+  - "Jérémie 3:13-16"
 ---
 ## L'ESPRIT SUPERIEUR
 

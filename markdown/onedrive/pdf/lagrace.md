@@ -38,6 +38,7 @@ themes:
   - "Mise en garde contre le dérèglement"
 llm_cleaned: true
 bible_refs:
+  - "Apocalypse 12"
   - "Apocalypse 14:13"
   - "Apocalypse 19"
   - "Genèse 15"
@@ -45,10 +46,18 @@ bible_refs:
   - "Genèse 15:6"
   - "Hébreux 10"
   - "Hébreux 3:12-15"
+  - "Jacques 2"
+  - "Jacques 2:14"
+  - "Jean 1:14-18"
   - "Jean 3:16"
   - "Matthieu 25"
   - "Matthieu 28:19-20"
+  - "Romains 3:21"
   - "Romains 4"
+  - "Romains 4:1-6"
+  - "Romains 5:1"
+  - "Romains 5:12-21"
+  - "Tite 2:11"
 ---
 La Grâce et la Vérité, prêché par le frère M’BRA Parfait à Koumassi le dimanche 23 octobre 2011
 

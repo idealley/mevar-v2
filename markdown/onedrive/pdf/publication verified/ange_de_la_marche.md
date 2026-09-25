@@ -50,9 +50,11 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 10"
   - "2 Corinthiens 11:1-2"
+  - "Apocalypse 14"
   - "Apocalypse 18"
   - "Exode 17"
   - "Exode 23"
+  - "Josué 5:13"
   - "Ésaïe 21"
 ---
 ## L'Ange de la marche

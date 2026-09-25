@@ -20,8 +20,10 @@ stream_url: "https://mevar.org/un-jour-pour-le-seigneur/"
 bible_refs:
   - "Actes 8:39-40"
   - "Luc 12"
+  - "Malachie 3:16"
   - "Malachie 3:16-18"
   - "Malachie 4:1-6"
+  - "Ésaïe 2:11"
   - "Ésaïe 2:11-19"
   - "Ésaïe 30:26"
 ---

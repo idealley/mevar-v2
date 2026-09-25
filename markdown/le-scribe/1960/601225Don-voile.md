@@ -47,6 +47,7 @@ bible_refs:
   - "Actes 2:38"
   - "Apocalypse 18:4"
   - "Apocalypse 1:20"
+  - "Apocalypse 3"
   - "Apocalypse 3:20"
   - "Daniel 2:31-37"
   - "Exode 19:4"

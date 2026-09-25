@@ -45,6 +45,11 @@ themes:
   - "Combat spirituel"
   - "Réveil"
 llm_cleaned: true
+bible_refs:
+  - "2 Thessaloniciens 2"
+  - "Juges 6"
+  - "Juges 7"
+  - "Juges 7:16"
 ---
 La préparation en vue d'une œuvre
 

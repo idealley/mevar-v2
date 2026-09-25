@@ -44,8 +44,10 @@ mevar_match:
   similarity: 0.595
 llm_cleaned: true
 bible_refs:
+  - "Actes 2:38"
   - "Apocalypse 6"
   - "Luc 17"
+  - "Luc 3:1"
   - "Matthieu 24"
   - "Matthieu 25"
 ---

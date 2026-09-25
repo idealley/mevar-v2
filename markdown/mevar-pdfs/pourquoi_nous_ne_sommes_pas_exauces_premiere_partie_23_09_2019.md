@@ -45,6 +45,7 @@ llm_cleaned: true
 bible_refs:
   - "2 Corinthiens 11"
   - "2 Rois 8:9"
+  - "Aggée 1"
   - "Deutéronome 16:16"
   - "Jacques 4"
   - "Luc 8:1-3"

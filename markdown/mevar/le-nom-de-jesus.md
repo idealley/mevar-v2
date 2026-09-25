@@ -17,6 +17,11 @@ authors:
 ghost_id: "6448fa86db90770001518f3b"
 uuid: "89211393-4e8f-46f3-94d6-4a51362306cb"
 stream_url: "https://mevar.org/le-nom-de-jesus/"
+bible_refs:
+  - "Apocalypse 5"
+  - "Matthieu 28:18"
+  - "Philippiens 2:5"
+  - "Ésaïe 9"
 ---
 Nous remercions encore le Seigneur ce matin. On va lire la Parole de Dieu. Hier nous avons entendu qu’on est toujours appelés à faire un choix. Vous serez toujours placés devant un choix à faire. **Ce sera la voie de Dieu ou bien la voie de l’ennemi.** Ce sera toujours comme ça. On est appelés à toujours choisir la voie de Dieu, parce que c’est sur la voie de Dieu qu’on a le bonheur et la paix. Ce matin j’ai une chose importante à vous dire et il est bien que chacun de nous saisisse cela. Ce sont des choses que nous savons déjà, mais quand Dieu parle de cela aujourd’hui, il faut essayer de comprendre ce que ça veut dire. Alors on va lire dans Philippiens chapitre 2, à partir du verset 5 voilà ce qui est écrit :
 

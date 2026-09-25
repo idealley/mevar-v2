@@ -49,6 +49,7 @@ bible_refs:
   - "Luc 4"
   - "Malachie 4:5-6"
   - "Matthieu 10"
+  - "Matthieu 10:40"
   - "Zacharie 14:7"
 ---
 ## La récompense de prophète

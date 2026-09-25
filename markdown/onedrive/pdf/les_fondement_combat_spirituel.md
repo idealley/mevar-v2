@@ -36,6 +36,7 @@ bible_refs:
   - "Colossiens 2:15"
   - "Deutéronome 28"
   - "Esther 3:13"
+  - "Esther 8:8"
   - "Esther 9:1"
   - "Hébreux 4:15"
   - "Luc 4"

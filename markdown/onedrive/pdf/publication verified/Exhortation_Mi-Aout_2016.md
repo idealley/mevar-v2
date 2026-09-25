@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 10:15-16"
   - "Joël 1:1-2"
   - "Jérémie 1:2"
+  - "Luc 18"
   - "Luc 18:8"
   - "Matthieu 15:21-28"
   - "Matthieu 15:28"

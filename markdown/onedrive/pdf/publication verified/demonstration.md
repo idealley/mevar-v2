@@ -43,6 +43,7 @@ bible_refs:
   - "Hébreux 11:1-2"
   - "Jacques 2:14-22"
   - "Marc 5"
+  - "Marc 5:25"
   - "Marc 5:25-34"
   - "Ésaïe 55:1-2"
 ---

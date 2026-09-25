@@ -49,6 +49,7 @@ bible_refs:
   - "Colossiens 1"
   - "Deutéronome 28"
   - "Hébreux 10"
+  - "Hébreux 10:1"
   - "Hébreux 11"
   - "Marc 16"
   - "Matthieu 6"

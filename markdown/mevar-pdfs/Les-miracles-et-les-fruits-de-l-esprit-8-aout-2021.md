@@ -38,9 +38,12 @@ bible_refs:
   - "1 Corinthiens 12"
   - "1 Corinthiens 13"
   - "2 Pierre 1"
+  - "2 Pierre 1:5-11"
   - "Apocalypse 3"
   - "Exode 32:32-33"
+  - "Galates 5:19-24"
   - "Galates 5:22"
+  - "Marc 16:15-19"
 ---
 *Prêché le 8 août 2021 à Koumassi par Parfait M’BRA*
 

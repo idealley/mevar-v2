@@ -51,9 +51,16 @@ pdf_url: "https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste
 local_pdf: "/files/mevar/les_disciples_de_jean_baptiste_31_08_2019.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Actes 18"
+  - "Actes 19"
   - "Actes 19:1-7"
   - "Actes 2"
+  - "Actes 9"
+  - "Jean 1:1"
+  - "Jean 9:14"
   - "Joël 2"
+  - "Luc 3"
+  - "Luc 3:1"
   - "Luc 3:1-7"
   - "Matthieu 25"
 ---

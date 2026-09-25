@@ -50,6 +50,7 @@ bible_refs:
   - "Jacques 1:18"
   - "Jean 12"
   - "Jean 12:46"
+  - "Jean 14"
   - "Jean 14:27"
   - "Jean 14:5-6"
   - "Jean 1:14"
@@ -70,7 +71,6 @@ bible_refs:
   - "Luc 6:32-33"
   - "Luc 6:35-36"
   - "Luc 6:40"
-  - "Luc 9:23"
 ---
 ## Exhortation spéciale fin Février 2010
 

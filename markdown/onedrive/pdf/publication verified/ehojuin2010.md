@@ -58,6 +58,7 @@ bible_refs:
   - "Luc 12:47-48"
   - "Luc 16:10-13"
   - "Luc 3:16"
+  - "Luc 6"
   - "Luc 6:46"
   - "Matthieu 21:28-31"
   - "Matthieu 25"

@@ -35,6 +35,10 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf"
 local_pdf: "/files/mevar/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Luc 12"
+  - "Luc 22:28"
+  - "Matthieu 19:27"
 ---
 Amen, gloire à Dieu. C’est vrai, il y a beaucoup de souffrance dans l’œuvre de Dieu mais celui qui tient ferme sera récompensé. C’est ce que nous allons lire dans Matthieu chapitre 19 au verset 27 :
 

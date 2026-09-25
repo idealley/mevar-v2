@@ -17,6 +17,7 @@ ghost_id: "664c9a875f06290001fc7ede"
 uuid: "688284bc-1082-41f2-a9be-d65bbaf067b7"
 stream_url: "https://mevar.org/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin/"
 bible_refs:
+  - "2 Thessaloniciens 1:6"
   - "Actes 2"
   - "Apocalypse 11:18-19"
   - "Apocalypse 11:3-11"
@@ -31,6 +32,7 @@ bible_refs:
   - "Apocalypse 8"
   - "Malachie 3"
   - "Malachie 4"
+  - "Matthieu 24"
 series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
 series_part: 3

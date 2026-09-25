@@ -30,6 +30,7 @@ bible_refs:
   - "Hébreux 10:25-29"
   - "Hébreux 10:29"
   - "Hébreux 3:7-8"
+  - "Jacques 5"
   - "Jacques 5:8-9"
   - "Jean 8:36"
   - "Marc 11:26"

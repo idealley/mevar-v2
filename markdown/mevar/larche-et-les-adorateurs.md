@@ -19,7 +19,10 @@ uuid: "bfa36585-c34c-44b4-915c-6acc38b4232d"
 stream_url: "https://mevar.org/larche-et-les-adorateurs/"
 bible_refs:
   - "1 Samuel 2"
+  - "1 Samuel 2:22"
+  - "1 Samuel 4:3"
   - "Apocalypse 6"
+  - "Jérémie 3:13-16"
 ---
 Que Dieu nous bénisse ! On va écouter la parole de Dieu. Amen ! Et on remercie aussi le Seigneur pour ce temps d’adoration. Amen ! Il faut adorer le Seigneur, lui être reconnaissant pour tout ce qu’Il fait pour nous. Est-ce qu’il y a des gens qui sont là pour la première fois ? Des gens qui ne sont jamais venus par ici ? Amen ! Est-ce qu’il y a des gens ? Oui, ma sœur, vous venez d’où ? Est-ce qu’elle peut se présenter notre sœur ? Elle est venue avec le frère Benoît….Que Dieu vous bénisse ! Soyez la bienvenue. L’arche et les adorateurs. C’est de cela qu’on va parler. J’avais évoqué ce sujet brièvement à une réunion du soir. On va aller un peu plus dans les détails. Amen ! Que Dieu nous bénisse ! Nous commençons la lecture dans 1 Samuel chapitre 2 à partir du verset 22. 1 Samuel 2 à partir du verset 22. L’arche et les adorateurs.
 

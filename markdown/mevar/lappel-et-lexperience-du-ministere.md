@@ -25,6 +25,7 @@ bible_refs:
   - "1 Rois 17:1"
   - "1 Samuel 3:7"
   - "1 Timothée 1"
+  - "1 Timothée 3:1-10"
   - "1 Timothée 4:15"
   - "2 Corinthiens 11:24-33"
   - "2 Corinthiens 12:6-7"
@@ -63,11 +64,10 @@ bible_refs:
   - "Jude 1:14"
   - "Juges 13:25"
   - "Juges 13:30-40"
+  - "Juges 6:13-15"
   - "Jérémie 1:12"
   - "Jérémie 1:5"
   - "Luc 16"
-  - "Luc 17"
-  - "Luc 17:7-10"
 ---
 ## Introduction
 

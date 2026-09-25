@@ -69,6 +69,7 @@ bible_refs:
   - "Jean 15"
   - "Jean 4"
   - "Jonas 3"
+  - "Joël 2"
   - "Jérémie 36"
   - "Luc 10"
   - "Luc 18"

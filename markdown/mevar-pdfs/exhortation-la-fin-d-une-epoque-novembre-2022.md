@@ -50,6 +50,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 13:1-9"
   - "Apocalypse 17:5"
+  - "Apocalypse 6"
   - "Daniel 9"
   - "Daniel 9:1-3"
   - "Deutéronome 28"

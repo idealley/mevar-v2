@@ -37,8 +37,10 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/wmbch20.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Apocalypse 1"
   - "Apocalypse 1:16"
   - "Apocalypse 1:7"
+  - "Apocalypse 5"
   - "Apocalypse 5:1"
   - "Apocalypse 6:1"
   - "Hébreux 4:12"

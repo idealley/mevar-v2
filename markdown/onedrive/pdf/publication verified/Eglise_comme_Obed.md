@@ -50,6 +50,8 @@ mevar_match:
   similarity: 0.584
 llm_cleaned: true
 bible_refs:
+  - "2 Corinthiens 6:14"
+  - "2 Thessaloniciens 2:1"
   - "Hébreux 11"
   - "Hébreux 5"
   - "Ésaïe 53"

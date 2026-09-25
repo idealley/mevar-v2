@@ -25,6 +25,7 @@ bible_refs:
   - "1 Corinthiens 1:12"
   - "1 Corinthiens 3:4-6"
   - "Actes 26:27"
+  - "Apocalypse 22"
   - "Apocalypse 22:9"
   - "Exode 13:17-22"
   - "Exode 23:23"

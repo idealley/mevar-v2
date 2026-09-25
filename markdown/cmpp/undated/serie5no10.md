@@ -44,11 +44,13 @@ themes:
 pdf_url: "http://cmpp.ch/serie5no10.pdf"
 llm_cleaned: true
 bible_refs:
+  - "1 Jean 2:15"
   - "1 Timothée 3"
   - "Apocalypse 10"
   - "Apocalypse 3"
   - "Genèse 1"
   - "Genèse 4"
+  - "Genèse 4:16"
   - "Hébreux 10"
   - "Jean 1"
   - "Jean 4"
@@ -57,6 +59,7 @@ bible_refs:
   - "Psaumes 14"
   - "Psaumes 16"
   - "Romains 12"
+  - "Romains 12:1,2"
   - "Ésaïe 14"
   - "Ésaïe 9"
 ---

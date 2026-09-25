@@ -51,6 +51,7 @@ pdf_url: "https://mevar.org/content/files/2022/12/des_noms_sous_les_propheties_0
 local_pdf: "/files/mevar/des_noms_sous_les_propheties_06.06.2021.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Actes 2"
   - "Genèse 3"
   - "Genèse 3:14-15"
   - "Genèse 3:15"

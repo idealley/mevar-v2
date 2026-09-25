@@ -66,6 +66,8 @@ bible_refs:
   - "Luc 19:41-44"
   - "Luc 21"
   - "Luc 21:29-31"
+  - "Luc 4"
+  - "Luc 4:18"
   - "Marc 13"
   - "Matthieu 24"
   - "Matthieu 24:14"

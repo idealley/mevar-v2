@@ -53,8 +53,11 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 10"
+  - "Exode 24:12"
   - "Jacques 1:19-21"
   - "Jean 3:16"
+  - "Nombres 12:1-3"
+  - "Nombres 20:1"
 ---
 ## L'épreuve de Moïse
 

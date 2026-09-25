@@ -86,6 +86,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 17"
   - "Apocalypse 17:4-6"
+  - "Apocalypse 2"
   - "Apocalypse 22:10-15"
   - "Apocalypse 2:10"
   - "Colossiens 1:16-18"
@@ -98,7 +99,6 @@ bible_refs:
   - "Exode 3:14"
   - "Galates 2:11-14"
   - "Galates 2:7-9"
-  - "Galates 5:18-22"
 ---
 ## QUI EST LE PLUS GRAND ?
 

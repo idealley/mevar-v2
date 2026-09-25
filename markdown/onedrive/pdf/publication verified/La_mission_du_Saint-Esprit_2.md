@@ -49,7 +49,9 @@ bible_refs:
   - "1 Corinthiens 13"
   - "2 Pierre 1:5"
   - "Actes 19"
+  - "Actes 7:46"
   - "Jean 14"
+  - "Jean 14:15"
   - "Marc 16"
 ---
 ## La mission du Saint-Esprit dans l’Eglise

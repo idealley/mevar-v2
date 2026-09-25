@@ -49,6 +49,8 @@ bible_refs:
   - "1 Jean 3:16"
   - "Jean 12"
   - "Jean 13"
+  - "Jean 3"
+  - "Jean 3:14-16"
   - "Jean 3:16"
 ---
 L'Evangile de grâce, prêché par le frère M'BRA Parfait le dimanche 16 Janvier 2011 à Koumassi

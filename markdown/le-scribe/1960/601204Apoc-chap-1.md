@@ -59,6 +59,7 @@ bible_refs:
   - "Actes 2:36"
   - "Actes 2:38"
   - "Actes 4:12"
+  - "Apocalypse 1"
   - "Apocalypse 15:3"
   - "Apocalypse 1:1"
   - "Apocalypse 1:5"

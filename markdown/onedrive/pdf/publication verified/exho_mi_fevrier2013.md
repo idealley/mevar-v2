@@ -57,6 +57,7 @@ bible_refs:
   - "Genèse 17:20"
   - "Jean 3:16"
   - "Matthieu 26:28"
+  - "Proverbes 10"
   - "Ésaïe 28:15"
   - "Ésaïe 28:18"
 ---

@@ -47,6 +47,8 @@ mevar_match:
   similarity: 0.85
 llm_cleaned: true
 bible_refs:
+  - "2 Timothée 3:1-9"
+  - "2 Timothée 4:6-10"
   - "Ecclésiaste 1"
   - "Luc 11:31"
 ---

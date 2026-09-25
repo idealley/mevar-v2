@@ -57,6 +57,7 @@ bible_refs:
   - "Apocalypse 3"
   - "Apocalypse 3:14-22"
   - "Apocalypse 3:8"
+  - "Apocalypse 4"
   - "Apocalypse 4:1-3"
   - "Hébreux 12:15-17"
   - "Jacques 1:23"

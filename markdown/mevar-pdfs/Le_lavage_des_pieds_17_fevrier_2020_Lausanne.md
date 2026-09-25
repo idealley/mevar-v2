@@ -37,6 +37,10 @@ pdf_url: "https://mevar.org/content/files/2022/12/Le_lavage_des_pieds_17_fevrier
 local_pdf: "/files/mevar/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 13"
+  - "Marc 16"
+  - "Philippiens 2:3"
+  - "Romains 14:1"
   - "Romains 15"
 ---
 Ôtons nos vêtements

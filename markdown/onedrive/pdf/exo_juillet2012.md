@@ -42,6 +42,7 @@ bible_refs:
   - "Jean 5"
   - "Luc 12"
   - "Luc 21:36"
+  - "Luc 6:39"
   - "Luc 6:39-42"
   - "Matthieu 23:16"
   - "Matthieu 4:3-4"

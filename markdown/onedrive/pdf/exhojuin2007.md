@@ -54,6 +54,7 @@ bible_refs:
   - "Osée 1:2"
   - "Osée 4:12"
   - "Ésaïe 13:1-5"
+  - "Ésaïe 21"
   - "Ésaïe 21:6-12"
 ---
 ## Appel à la guerre – Appel au combat contre Babylone

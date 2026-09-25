@@ -38,12 +38,15 @@ themes:
 pdf_url: "http://cmpp.ch/serie5no9.pdf"
 llm_cleaned: true
 bible_refs:
+  - "2 Thessaloniciens 2"
   - "2 Timothée 3"
   - "Apocalypse 21"
   - "Apocalypse 3"
+  - "Genèse 3"
   - "Malachie 4"
   - "Marc 16"
   - "Matthieu 24"
+  - "Ésaïe 14"
 ---
 SERIE 5, N° 9
 

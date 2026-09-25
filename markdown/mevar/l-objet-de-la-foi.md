@@ -25,6 +25,7 @@ bible_refs:
   - "Colossiens 1:24-29"
   - "Deutéronome 28"
   - "Hébreux 10"
+  - "Hébreux 10:1"
   - "Hébreux 10:1-10"
   - "Hébreux 11"
   - "Hébreux 11:32-40"

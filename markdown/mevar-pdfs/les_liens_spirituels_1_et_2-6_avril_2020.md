@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 24"
   - "Matthieu 27"
   - "Matthieu 3:7"
+  - "Matthieu 6:1"
   - "Matthieu 6:24"
   - "Ésaïe 40:2"
 ---

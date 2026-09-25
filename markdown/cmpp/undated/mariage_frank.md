@@ -58,6 +58,7 @@ bible_refs:
   - "2 Corinthiens 2"
   - "2 Corinthiens 6"
   - "2 Samuel 12:25"
+  - "2 Thessaloniciens 2"
   - "2 Timothée 3"
   - "Actes 16"
   - "Actes 2"
@@ -92,7 +93,6 @@ bible_refs:
   - "Jean 3"
   - "Jean 7"
   - "Jean 8"
-  - "Jude 1:7"
 ---
 LE MARIAGE: PROBLEME ANCIEN
 

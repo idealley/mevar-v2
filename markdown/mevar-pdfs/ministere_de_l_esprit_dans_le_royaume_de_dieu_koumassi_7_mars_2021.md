@@ -47,7 +47,12 @@ bible_refs:
   - "1 Corinthiens 11"
   - "1 Rois 19"
   - "2 Corinthiens 3"
+  - "Actes 9"
+  - "Exode 3"
+  - "Galates 1"
   - "Jean 15"
+  - "Josué 1"
+  - "Josué 5"
 ---
 Le ministère de l’Esprit dans le royaume de Dieu
 

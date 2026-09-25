@@ -40,6 +40,17 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/le_temoignage_des_apotres_13_janvier_2022.pdf"
 local_pdf: "/files/mevar/le_temoignage_des_apotres_13_janvier_2022.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 3"
+  - "1 Corinthiens 6"
+  - "1 Jean 1"
+  - "1 Timothée 4"
+  - "2 Pierre 1:16"
+  - "2 Thessaloniciens 2"
+  - "2 Timothée 3"
+  - "Luc 17"
+  - "Luc 21"
+  - "Matthieu 24"
 ---
 Le témoignage des apôtres
 

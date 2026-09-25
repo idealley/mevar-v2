@@ -38,10 +38,12 @@ bible_refs:
   - "Jean 2"
   - "Luc 14:28-30"
   - "Luc 4"
+  - "Luc 4:14"
   - "Luc 5"
   - "Luc 5:37"
   - "Marc 16"
   - "Matthieu 10"
+  - "Matthieu 10:5"
   - "Matthieu 25"
   - "Romains 10"
 ---

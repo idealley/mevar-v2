@@ -19,8 +19,18 @@ ghost_id: "6448fa86db90770001518fb4"
 uuid: "ce8006db-6ea8-49ee-aacd-0bee24ac53b4"
 stream_url: "https://mevar.org/le-temoignage-des-apotres/"
 bible_refs:
+  - "1 Corinthiens 3"
+  - "1 Corinthiens 6"
+  - "1 Jean 1"
   - "1 Jean 1:1-3"
+  - "1 Timothée 4"
+  - "2 Pierre 1:16"
   - "2 Pierre 1:16-19"
+  - "2 Thessaloniciens 2"
+  - "2 Timothée 3"
+  - "Luc 17"
+  - "Luc 21"
+  - "Matthieu 24"
 ---
 Que Dieu vous bénisse. Nous rendons grâce au Seigneur. Comme le frère l’a dit, cela fait depuis 2015 que je ne suis plus venu ici. Mon dernier voyage date de 2015 et il faut dire que toutes ces années passées j’ai voulu venir mais cela n’a pas été facile. Vous savez, c’est Dieu qui fait toutes choses parce qu’après toutes ces années, je reviens et je vous trouve tous en place et je suis content. Amen. Vous comprenez ce que je veux dire ? si tout le monde était dispersé, que chacun était allé ailleurs, ce serait vraiment une préoccupation. Malgré toutes ces années passées vous êtes toujours là, vous tenez dans la foi, vous marchez avec le Seigneur. Donc, cela aussi me réjouit car cela veut dire que si j’étais mort, vous seriez encore en train de marcher avec le Seigneur. Amen ! c’est le plus important car même si les missionnaires ne viennent pas, mais que vous êtes avec le Seigneur et son Esprit, c’est déjà bon. Les frères vous saluent : ceux de l’église et aussi certains frères en Europe. Que Dieu vous bénisse.
 

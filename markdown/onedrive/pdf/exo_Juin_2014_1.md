@@ -37,6 +37,7 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "1 Pierre 5:8"
+  - "Apocalypse 3"
   - "Jacques 5:16-18"
   - "Luc 21:36"
   - "Marc 14:38"

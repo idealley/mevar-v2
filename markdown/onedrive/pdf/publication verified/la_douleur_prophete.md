@@ -50,7 +50,9 @@ llm_cleaned: true
 bible_refs:
   - "Jérémie 1"
   - "Jérémie 12"
+  - "Jérémie 12:1-16"
   - "Jérémie 29"
+  - "Jérémie 3"
   - "Jérémie 7"
   - "Lamentations 4"
 ---

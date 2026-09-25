@@ -50,6 +50,7 @@ bible_refs:
   - "Apocalypse 22:20"
   - "Apocalypse 6:5-6"
   - "Apocalypse 6:8"
+  - "Apocalypse 8"
   - "Apocalypse 9:4"
   - "Hébreux 11:10"
   - "Jean 3:18"

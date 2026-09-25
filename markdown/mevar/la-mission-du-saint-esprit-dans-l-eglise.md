@@ -21,6 +21,7 @@ stream_url: "https://mevar.org/la-mission-du-saint-esprit-dans-l-eglise/"
 bible_refs:
   - "1 Corinthiens 12"
   - "Actes 19"
+  - "Jean 14:15"
   - "Jean 15"
   - "Jean 16"
   - "Marc 16"

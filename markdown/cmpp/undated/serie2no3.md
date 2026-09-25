@@ -39,6 +39,7 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no3.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Actes 20"
   - "Actes 23"
   - "Actes 25"
   - "Actes 26"

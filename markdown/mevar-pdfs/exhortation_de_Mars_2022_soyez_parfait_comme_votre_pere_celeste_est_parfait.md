@@ -46,6 +46,7 @@ bible_refs:
   - "Hébreux 5:12-14"
   - "Matthieu 19"
   - "Matthieu 19:21"
+  - "Matthieu 5"
   - "Matthieu 5:31-32"
   - "Matthieu 5:48"
   - "Ézéchiel 14:14,20"

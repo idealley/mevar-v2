@@ -11,6 +11,7 @@ bible_refs:
   - "1 Pierre 2"
   - "1 Rois 18"
   - "1 Samuel 17"
+  - "2 Rois 20"
   - "2 Rois 4"
   - "2 Rois 5"
   - "2 Samuel 6"
@@ -18,6 +19,7 @@ bible_refs:
   - "Actes 13"
   - "Actes 16"
   - "Actes 19"
+  - "Actes 19:11,12"
   - "Actes 2"
   - "Actes 8"
   - "Actes 9"
@@ -52,8 +54,6 @@ bible_refs:
   - "Luc 14"
   - "Luc 16"
   - "Luc 19"
-  - "Luc 21"
-  - "Luc 23"
 ---
 
 

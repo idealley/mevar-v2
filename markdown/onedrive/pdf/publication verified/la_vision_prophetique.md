@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 24"
   - "Éphésiens 5:26-27"
   - "Ésaïe 27"
+  - "Ésaïe 27:12"
   - "Ésaïe 27:12-13"
 ---
 La vision prophétique fait la différence, prêché le par le frère M’BRA Parfait

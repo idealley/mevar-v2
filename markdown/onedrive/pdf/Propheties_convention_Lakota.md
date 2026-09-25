@@ -52,6 +52,7 @@ bible_refs:
   - "1 Thessaloniciens 5:20-21"
   - "Actes 11:28"
   - "Actes 21:10-11"
+  - "Apocalypse 14:7"
   - "Jean 15:16"
   - "Luc 13"
   - "Psaumes 119"

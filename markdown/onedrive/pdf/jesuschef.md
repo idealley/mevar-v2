@@ -41,6 +41,7 @@ themes:
   - "Service dévoué"
 llm_cleaned: true
 bible_refs:
+  - "1 Chroniques 11:10"
   - "Apocalypse 11:15"
   - "Jacques 2:6-7"
   - "Jean 6"

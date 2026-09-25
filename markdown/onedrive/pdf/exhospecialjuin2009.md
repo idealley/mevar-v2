@@ -49,6 +49,7 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "1 Rois 16:30-33"
+  - "1 Rois 18"
   - "1 Rois 18:36-40"
   - "1 Rois 19:1-5"
   - "1 Rois 19:5-8"

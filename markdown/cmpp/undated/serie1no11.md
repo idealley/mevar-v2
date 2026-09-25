@@ -47,6 +47,7 @@ bible_refs:
   - "Hébreux 4"
   - "Jean 14"
   - "Jean 5"
+  - "Luc 24"
   - "Malachie 3"
   - "Malachie 4"
   - "Marc 16"

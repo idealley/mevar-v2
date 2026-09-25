@@ -56,6 +56,7 @@ bible_refs:
   - "Apocalypse 17"
   - "Apocalypse 19"
   - "Apocalypse 7"
+  - "Apocalypse 8:7"
   - "Apocalypse 9"
   - "Galates 1"
   - "Genèse 1"
@@ -67,11 +68,13 @@ bible_refs:
   - "Luc 22"
   - "Lévitique 16"
   - "Lévitique 23"
+  - "Lévitique 23:23"
   - "Lévitique 23:26"
   - "Lévitique 26"
   - "Malachie 3"
   - "Malachie 4"
   - "Ésaïe 18"
+  - "Ésaïe 18:1"
   - "Ésaïe 27"
 ---
 SERIE 4, N° 7

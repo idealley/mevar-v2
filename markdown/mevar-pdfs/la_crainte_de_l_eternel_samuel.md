@@ -31,6 +31,7 @@ bible_refs:
   - "1 Jean 5:3"
   - "2 Pierre 3:9"
   - "Apocalypse 21:8"
+  - "Deutéronome 10"
   - "Deutéronome 10:12-22"
   - "Hébreux 10:26-31"
   - "Hébreux 1:9"

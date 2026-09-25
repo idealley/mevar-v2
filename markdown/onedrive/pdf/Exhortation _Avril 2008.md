@@ -40,10 +40,12 @@ llm_cleaned: true
 bible_refs:
   - "2 Corinthiens 11:1-4"
   - "Apocalypse 22:15-16"
+  - "Jean 10"
   - "Jean 10:7"
   - "Jean 10:9"
   - "Jean 14:6"
   - "Joël 2:12-16"
+  - "Matthieu 7"
   - "Matthieu 7:12-15"
   - "Matthieu 7:15-23"
   - "Matthieu 7:24-27"

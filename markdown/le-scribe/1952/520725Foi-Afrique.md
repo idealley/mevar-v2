@@ -48,6 +48,7 @@ bible_refs:
   - "3 Jean 1:2"
   - "Actes 27:21"
   - "Jean 4:46"
+  - "Josué 1"
   - "Josué 1:2-9"
   - "Marc 11:24"
   - "Matthieu 18:18"

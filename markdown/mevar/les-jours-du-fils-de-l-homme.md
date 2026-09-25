@@ -27,6 +27,7 @@ bible_refs:
   - "Genèse 37"
   - "Luc 17"
   - "Marc 13"
+  - "Marc 13:34"
   - "Marc 13:34-37"
   - "Zacharie 10"
   - "Zacharie 14"

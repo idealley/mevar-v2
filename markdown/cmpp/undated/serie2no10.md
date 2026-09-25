@@ -52,12 +52,16 @@ bible_refs:
   - "Amos 3"
   - "Apocalypse 10"
   - "Genèse 1"
+  - "Genèse 15:6"
   - "Genèse 22"
+  - "Genèse 22:1-9"
+  - "Jacques 2"
   - "Jean 1"
   - "Jean 6"
   - "Jude 1:3"
   - "Luc 17"
   - "Malachie 4"
+  - "Romains 4:1-8"
   - "Romains 8"
 ---
 SERIE 2 N° 10

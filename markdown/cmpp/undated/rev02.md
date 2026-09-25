@@ -44,6 +44,7 @@ bible_refs:
   - "Apocalypse 1"
   - "Apocalypse 17"
   - "Apocalypse 19"
+  - "Apocalypse 1:9"
   - "Apocalypse 21"
   - "Apocalypse 6"
   - "Daniel 7"

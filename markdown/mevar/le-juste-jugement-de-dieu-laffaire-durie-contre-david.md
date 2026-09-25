@@ -34,6 +34,7 @@ bible_refs:
   - "Exode 20:16"
   - "Exode 23:1"
   - "Exode 23:2-3"
+  - "Galates 6"
   - "Galates 6:7"
   - "Jean 7:50-51"
   - "Jérémie 11:20"

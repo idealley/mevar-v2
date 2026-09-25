@@ -48,9 +48,15 @@ themes:
   - "Persévérance dans l'épreuve"
 llm_cleaned: true
 bible_refs:
+  - "1 Timothée 2:9"
   - "Apocalypse 12"
+  - "Apocalypse 3:14"
   - "Jérémie 33"
+  - "Jérémie 33:14"
+  - "Luc 2"
   - "Romains 8"
+  - "Romains 8:18"
+  - "Ésaïe 9"
 ---
 # L'accomplissement de la bonne Parole
 

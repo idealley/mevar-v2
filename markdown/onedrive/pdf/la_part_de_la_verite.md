@@ -65,6 +65,7 @@ bible_refs:
   - "Apocalypse 19:9"
   - "Apocalypse 22"
   - "Apocalypse 22:18-19"
+  - "Apocalypse 6"
   - "Apocalypse 6:1-2"
   - "Colossiens 3:8"
   - "Deutéronome 4:23"
@@ -91,7 +92,6 @@ bible_refs:
   - "Jean 4:21-24"
   - "Jean 7:16-17"
   - "Jonas 3"
-  - "Josué 23:11"
 ---
 ## LA PART DE LA VÉRITÉ
 

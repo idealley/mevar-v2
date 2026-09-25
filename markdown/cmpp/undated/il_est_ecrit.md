@@ -88,6 +88,7 @@ bible_refs:
   - "Actes 22"
   - "Actes 26"
   - "Actes 3"
+  - "Actes 3:20-23"
   - "Aggée 2"
   - "Amos 3"
   - "Apocalypse 1"
@@ -113,7 +114,6 @@ bible_refs:
   - "Hébreux 13"
   - "Jacques 1"
   - "Jacques 2"
-  - "Jacques 5"
 ---
 # IL EST ECRIT…
 

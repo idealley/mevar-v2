@@ -50,10 +50,12 @@ bible_refs:
   - "Jean 5"
   - "Luc 17"
   - "Luc 24"
+  - "Lévitique 23:9-11"
   - "Malachie 4"
   - "Marc 16"
   - "Matthieu 27"
   - "Romains 8"
+  - "Romains 8:11"
   - "Ésaïe 3"
 ---
 SERIE 1 N° 10

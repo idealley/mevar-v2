@@ -22,9 +22,12 @@ ghost_id: "6448fa86db90770001518f40"
 uuid: "d313001d-63a0-4f12-ab7e-b70208d9171b"
 stream_url: "https://mevar.org/l-appel-a-sortir-de-babylone/"
 bible_refs:
+  - "Apocalypse 17"
+  - "Apocalypse 17:1-6"
   - "Apocalypse 18"
   - "Apocalypse 7"
   - "Jérémie 51"
+  - "Matthieu 24"
 ---
 J’ai déjà donné quelques enseignements concernant Babylone, mais il y a longtemps de cela. L’église aussi se renouvelle, donc il est bon que nous revenions là-dessus. **L’appel à sortir de Babylone** est le sujet sur lequel nous allons nous entretenir ce matin, parce que c’est en lien avec le message que nous avons reçu. Il y a beaucoup qui viennent ici, qui ne comprennent pas. Souvent je reviens là-dessus pour amener les uns et les autres à bien comprendre, à bien saisir les choses. Donc de temps en temps, il est bien de revenir sur ce sujet. Il y a aussi d’autres prédications concernant ce sujet qui sont disponibles sur le site : [www.mevar.org](/).
 

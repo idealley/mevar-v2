@@ -34,10 +34,12 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "2 Chroniques 7:13-14"
+  - "Deutéronome 23"
   - "Deutéronome 23:9-14"
   - "Jacques 5:16"
   - "Josué 7:1"
   - "Marc 2:17"
+  - "Matthieu 6"
   - "Matthieu 6:5-8"
   - "Proverbes 28:13"
   - "Ésaïe 59:1-4"

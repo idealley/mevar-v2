@@ -47,6 +47,7 @@ bible_refs:
   - "Actes 2:38"
   - "Actes 4:12"
   - "Actes 7:51"
+  - "Apocalypse 1"
   - "Apocalypse 17:2"
   - "Apocalypse 17:4"
   - "Apocalypse 17:5"

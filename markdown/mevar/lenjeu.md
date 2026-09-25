@@ -18,6 +18,7 @@ stream_url: "https://mevar.org/lenjeu/"
 bible_refs:
   - "1 Pierre 2"
   - "2 Chroniques 20"
+  - "Colossiens 2:12"
   - "Exode 19"
   - "Exode 31"
   - "Genèse 6"

@@ -38,6 +38,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Pierre 1:3-7"
   - "1 Pierre 5:9-10"
+  - "Exode 4"
   - "Exode 4:19-26"
   - "Hébreux 10:37"
   - "Luc 22:63-65"

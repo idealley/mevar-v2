@@ -44,9 +44,11 @@ llm_cleaned: true
 bible_refs:
   - "Actes 2"
   - "Apocalypse 17"
+  - "Apocalypse 2"
   - "Hébreux 12"
   - "Hébreux 4"
   - "Jean 1"
+  - "Jean 6:48-50"
   - "Matthieu 28"
   - "Nombres 24"
 ---

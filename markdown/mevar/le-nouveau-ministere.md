@@ -21,10 +21,13 @@ uuid: "96fe99df-2404-41e8-9c22-34bf76d36079"
 stream_url: "https://mevar.org/le-nouveau-ministere/"
 bible_refs:
   - "1 Corinthiens 3:16,1"
+  - "2 Thessaloniciens 2"
   - "2 Timothée 3"
   - "Apocalypse 1:8"
   - "Jean 14:17"
+  - "Jean 17"
   - "Jean 17:20-21"
+  - "Michée 5"
 series_id: "le-nouveau-ministere"
 series: "Le nouveau ministère"
 series_part: 1

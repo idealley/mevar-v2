@@ -47,6 +47,8 @@ bible_refs:
   - "Actes 2"
   - "Hébreux 11"
   - "Jean 15"
+  - "Jean 6"
+  - "Jean 6:60"
   - "Luc 10"
   - "Psaumes 22"
   - "Romains 4"

@@ -51,6 +51,7 @@ bible_refs:
   - "Apocalypse 6:8"
   - "Esther 3:13-15"
   - "Exode 1:22"
+  - "Genèse 2"
   - "Genèse 2:16-17"
   - "Genèse 6:5-8"
   - "Matthieu 2:14-15"

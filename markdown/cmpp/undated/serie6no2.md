@@ -47,9 +47,13 @@ llm_cleaned: true
 bible_refs:
   - "Amos 3"
   - "Amos 7"
+  - "Apocalypse 19"
   - "Hébreux 13"
   - "Jean 6"
+  - "Matthieu 21"
+  - "Matthieu 21:10,11"
   - "Michée 5"
+  - "Romains 9"
 ---
 SERIE 6, N° 2
 

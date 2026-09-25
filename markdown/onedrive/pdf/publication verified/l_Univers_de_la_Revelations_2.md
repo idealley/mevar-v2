@@ -51,7 +51,9 @@ llm_cleaned: true
 bible_refs:
   - "1 Rois 13"
   - "2 Thessaloniciens 2"
+  - "Apocalypse 4"
   - "Jérémie 1"
+  - "Jérémie 27"
   - "Jérémie 28"
   - "Luc 17"
 ---

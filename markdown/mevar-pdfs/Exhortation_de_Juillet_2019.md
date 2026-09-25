@@ -50,6 +50,7 @@ bible_refs:
   - "Jean 14:15"
   - "Jean 15:10"
   - "Jean 3:14-16"
+  - "Jean 3:14-17"
   - "Luc 21:17-19"
   - "Luc 21:36"
   - "Malachie 4:3"

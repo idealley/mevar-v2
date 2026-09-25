@@ -54,6 +54,7 @@ pdf_url: "http://le-scribe.org/pdfiles/600716Des-lors.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 2:9"
+  - "Apocalypse 13"
   - "Galates 3:29"
   - "Genèse 15:4-17"
   - "Genèse 17"

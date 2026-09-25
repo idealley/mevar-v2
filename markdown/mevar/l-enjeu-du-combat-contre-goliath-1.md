@@ -19,6 +19,9 @@ authors:
 ghost_id: "6448fa86db90770001518fae"
 uuid: "7b733b6e-66fc-45c7-9c53-43a805889d21"
 stream_url: "https://mevar.org/l-enjeu-du-combat-contre-goliath-1/"
+bible_refs:
+  - "1 Samuel 17"
+  - "2 Pierre 2:17"
 ---
 ## Première partie
 

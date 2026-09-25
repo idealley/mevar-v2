@@ -43,6 +43,10 @@ pdf_url: "http://cmpp.ch/serie6no1.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 17"
+  - "Apocalypse 21:9"
+  - "Apocalypse 3"
+  - "Genèse 24"
+  - "Genèse 24:12"
   - "Hébreux 13"
   - "Ésaïe 53"
 ---

@@ -41,7 +41,10 @@ mevar_match:
   similarity: 0.58
 llm_cleaned: true
 bible_refs:
+  - "1 Jean 5:19"
   - "1 Pierre 2"
+  - "2 Thessaloniciens 2"
+  - "Luc 15:11"
   - "Luc 17"
 ---
 ## Le fils prodigue

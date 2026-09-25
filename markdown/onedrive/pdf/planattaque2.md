@@ -50,6 +50,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 13:12-14"
   - "Apocalypse 17"
+  - "Jérémie 50:2"
   - "Ésaïe 40"
   - "Ésaïe 48"
 ---

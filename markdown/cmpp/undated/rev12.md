@@ -48,6 +48,7 @@ bible_refs:
   - "Apocalypse 20"
   - "Apocalypse 21"
   - "Apocalypse 3"
+  - "Apocalypse 4:2"
   - "Daniel 7"
   - "Exode 23"
   - "Genèse 49"

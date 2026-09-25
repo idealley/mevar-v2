@@ -15,6 +15,7 @@ bible_refs:
   - "Hébreux 4"
   - "Jean 16"
   - "Jean 3"
+  - "Luc 17:28"
   - "Malachie 3"
   - "Malachie 4"
   - "Matthieu 11"

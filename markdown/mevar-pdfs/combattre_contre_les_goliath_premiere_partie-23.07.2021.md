@@ -39,6 +39,9 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
 local_pdf: "/files/mevar/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 17"
+  - "2 Pierre 2:17"
 ---
 L'enjeu du combat contre Goliath – Partie 1
 

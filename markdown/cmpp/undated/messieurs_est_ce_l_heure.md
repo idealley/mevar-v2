@@ -63,6 +63,7 @@ bible_refs:
   - "Matthieu 13"
   - "Romains 11"
   - "Romains 16"
+  - "Romains 9"
   - "Éphésiens 3"
   - "Éphésiens 5"
   - "Éphésiens 6"

@@ -39,10 +39,12 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no6.pdf"
 llm_cleaned: true
 bible_refs:
+  - "1 Pierre 5"
   - "1 Timothée 3"
   - "Apocalypse 17"
   - "Genèse 6"
   - "Hébreux 2"
+  - "Hébreux 2:1-4"
   - "Hébreux 4"
   - "Jean 15"
   - "Jean 5"

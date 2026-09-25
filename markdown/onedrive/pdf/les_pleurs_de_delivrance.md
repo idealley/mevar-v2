@@ -39,6 +39,10 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Jérémie 7"
+  - "Luc 13:1"
+  - "Luc 19:41"
+  - "Luc 7:36"
+  - "Matthieu 16:1"
   - "Matthieu 26"
   - "Zacharie 12"
 ---

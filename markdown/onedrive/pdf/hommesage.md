@@ -37,6 +37,7 @@ bible_refs:
   - "Matthieu 17:20"
   - "Matthieu 21:21"
   - "Matthieu 24:12"
+  - "Romains 13:11-12"
   - "Romains 13:9-10"
   - "Zacharie 4:6"
   - "Zacharie 4:7"

@@ -55,14 +55,22 @@ local_pdf: "/files/mevar/7_sceaux_3.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Rois 18"
+  - "Apocalypse 1"
   - "Apocalypse 17"
   - "Apocalypse 17:15"
   - "Apocalypse 17:5"
+  - "Apocalypse 3:14"
+  - "Apocalypse 4"
+  - "Apocalypse 6:3"
+  - "Apocalypse 6:7"
   - "Deutéronome 28"
   - "Esther 7:7"
   - "Jacques 5:11"
   - "Jérémie 29"
+  - "Luc 17"
   - "Luc 17:26-28"
+  - "Malachie 4"
+  - "Matthieu 24"
   - "Ézéchiel 14"
 ---
 Le Message des 7 Sceaux (4e sceau-1er partie)

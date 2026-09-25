@@ -48,10 +48,13 @@ llm_cleaned: true
 bible_refs:
   - "Actes 19"
   - "Actes 2"
+  - "Actes 20"
+  - "Apocalypse 12"
   - "Galates 1"
   - "Hébreux 11"
   - "Hébreux 13"
   - "Hébreux 6"
+  - "Jean 6"
   - "Marc 16"
   - "Matthieu 5"
 ---

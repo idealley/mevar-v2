@@ -18,6 +18,8 @@ uuid: "bb075f30-c801-488d-9dcd-7da4d7e08602"
 stream_url: "https://mevar.org/le-sort-de-cain/"
 bible_refs:
   - "Apocalypse 3"
+  - "Genèse 4"
+  - "Genèse 4:1"
   - "Genèse 4:1-16"
   - "Hébreux 11"
   - "Matthieu 24:14"

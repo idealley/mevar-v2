@@ -17,6 +17,9 @@ authors:
 ghost_id: "6448fa86db90770001518fb0"
 uuid: "747d736c-7d1d-43f5-8471-9ecbde1883f3"
 stream_url: "https://mevar.org/l-oeuvre-de-dieu-un-investissement/"
+bible_refs:
+  - "Luc 12"
+  - "Luc 22:28"
 ---
 Amen, gloire à Dieu. C’est vrai, il y a beaucoup de souffrance dans l’œuvre de Dieu mais celui qui tient ferme sera récompensé. C’est ce que nous allons lire dans Mathieu chapitre 19 au verset 27 :
 

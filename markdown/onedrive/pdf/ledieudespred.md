@@ -43,9 +43,13 @@ llm_cleaned: true
 bible_refs:
   - "2 Pierre 1:19"
   - "Apocalypse 22"
+  - "Jean 6"
+  - "Jérémie 6"
+  - "Jérémie 6:16-19"
   - "Luc 21"
   - "Malachie 4:5-6"
   - "Marc 13"
+  - "Marc 13:31"
   - "Matthieu 24:45"
   - "Matthieu 25:6"
   - "Matthieu 26"
@@ -54,6 +58,7 @@ bible_refs:
   - "Ésaïe 44"
   - "Ésaïe 46"
   - "Ésaïe 48"
+  - "Ésaïe 9"
 ---
 ## Le Dieu des prédictions
 

@@ -49,6 +49,7 @@ bible_refs:
   - "2 Timothée 4:10"
   - "Actes 12"
   - "Actes 20"
+  - "Actes 26"
   - "Actes 26:15-18"
   - "Apocalypse 17"
   - "Apocalypse 3:18"
@@ -86,7 +87,6 @@ bible_refs:
   - "Matthieu 25:8"
   - "Matthieu 5:15"
   - "Matthieu 7:20"
-  - "Proverbes 29:2"
 ---
 Exhortation de Novembre – Décembre 2019
 

@@ -25,6 +25,7 @@ bible_refs:
   - "1 Timothée 3:16"
   - "2 Corinthiens 4:5"
   - "Actes 27:1-2"
+  - "Actes 28:11"
   - "Apocalypse 4"
   - "Cantique des cantiques 2:11-14"
   - "Colossiens 1"

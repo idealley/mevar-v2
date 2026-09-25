@@ -51,6 +51,7 @@ bible_refs:
   - "Luc 24"
   - "Malachie 2"
   - "Marc 16"
+  - "Marc 8"
 ---
 SERIE 5, N° 4
 

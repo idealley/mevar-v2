@@ -58,6 +58,7 @@ bible_refs:
   - "Jean 8:17"
   - "Job 1:8"
   - "Matthieu 7"
+  - "Éphésiens 6"
   - "Éphésiens 6:13"
 ---
 *Exhortation Fin Mai 2022*

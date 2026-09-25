@@ -55,6 +55,8 @@ llm_cleaned: true
 bible_refs:
   - "Actes 8:39-40"
   - "Luc 12:49"
+  - "Malachie 3:16"
+  - "Ésaïe 2:11"
   - "Ésaïe 30:26"
 ---
 ## Un jour pour le Seigneur

@@ -51,8 +51,12 @@ mevar_match:
   similarity: 0.62
 llm_cleaned: true
 bible_refs:
+  - "Apocalypse 16"
+  - "Apocalypse 16:13"
   - "Apocalypse 17"
   - "Apocalypse 18"
+  - "Apocalypse 3:14"
+  - "Apocalypse 6"
   - "Matthieu 24"
   - "Ésaïe 58"
 ---

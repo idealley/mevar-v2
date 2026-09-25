@@ -46,11 +46,24 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 12"
   - "Actes 1"
+  - "Actes 1:8"
+  - "Actes 2"
+  - "Actes 3"
+  - "Actes 7"
+  - "Actes 8:14"
+  - "Apocalypse 12"
+  - "Galates 1:8"
   - "Galates 3"
+  - "Galates 3:29"
   - "Hébreux 4"
+  - "Jean 14"
+  - "Jean 14:10"
+  - "Jean 16:7"
+  - "Jean 2:1,2"
   - "Joël 2"
   - "Luc 24"
   - "Matthieu 11"
+  - "Romains 4"
 ---
 SERIE 2 N° 5
 

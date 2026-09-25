@@ -45,8 +45,10 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Galates 6"
+  - "Genèse 1:25"
   - "Genèse 2"
   - "Hébreux 5:8"
+  - "Jacques 4:17"
   - "Proverbes 25"
 ---
 ## Notre volonté

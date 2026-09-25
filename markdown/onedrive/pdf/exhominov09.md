@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Timothée 4"
   - "1 Timothée 4:12-16"
+  - "Philippiens 2"
 ---
 ## Le manteau de l'humilité
 
