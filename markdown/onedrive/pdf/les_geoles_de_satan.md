@@ -5,7 +5,7 @@ title: "Les geôles de Satan"
 date: "2013-08-25"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur partage deux visions reçues du Seigneur concernant une agression spirituelle visant à l'enfermer. Il enseigne que Satan a des geôles spirituelles qui bloquent la marche chrétienne, et que même des vérités bibliques, des révélations ou des serviteurs de Dieu peuvent devenir des prisons. Il exhorte les croyants à la liberté en Christ, à ne pas être prisonniers d'hommes, de doctrines ou de lieux, mais à vivre une foi responsable et autonome sous la conduite du Saint-Esprit."
 tags:
   - "Prédications"

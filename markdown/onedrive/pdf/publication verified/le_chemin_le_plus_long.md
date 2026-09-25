@@ -7,7 +7,7 @@ subtitle: "Exhortation de Mai 2015"
 date: "2015-05-02"
 year: 2015
 location: "Toutoubré"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation compare le chemin d'Israël dans le désert à la préparation spirituelle des croyants pour la guerre à venir. Dieu choisit le chemin le plus long pour ôter la peur et l'incrédulité, formant ainsi des soldats spirituels capables d'affronter l'ennemi sans fuir. Le message encourage la persévérance dans la formation divine."
 tags:
   - "Exhortations"

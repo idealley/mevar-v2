@@ -5,7 +5,7 @@ title: "Poussés à bout"
 date: "1963-09-01"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur l'urgence spirituelle des derniers temps, en utilisant l'image de la Pâque et de Jacob pour montrer que les croyants doivent être poussés à bout pour agir avec foi et amour. Il insiste sur le Signe du Saint-Esprit comme preuve que le Sang a été appliqué, et exhorte l'Église à se préparer pour la venue du Seigneur."
 tags:
   - "Signe"

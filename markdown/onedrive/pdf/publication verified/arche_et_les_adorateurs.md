@@ -6,7 +6,7 @@ title: "L'ESPRIT SUPERIEUR"
 subtitle: "Exhortation d'Avril 2012"
 date: "2012-04-01"
 year: 2012
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation s'appuie sur l'histoire de Daniel en Babylone pour montrer que les croyants d'aujourd'hui, comme Daniel, ont reçu un esprit supérieur (le Saint-Esprit) qui les rend capables de vivre dans l'intégrité, la fidélité et la révélation, dominant ainsi sur le monde et les puissances spirituelles. L'esprit supérieur est un esprit de prophétie, de révélation et de sainteté, qui suscite la jalousie mais permet de vaincre les pièges du diable."
 tags:
   - "Exhortations"

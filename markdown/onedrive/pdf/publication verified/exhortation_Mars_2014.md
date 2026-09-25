@@ -6,7 +6,7 @@ title: "L'AMOUR ET LA CONNAISSANCE"
 subtitle: "Exhortation de Mars 2014"
 date: "2014-03-01"
 year: 2014
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore la relation entre la connaissance et l'amour dans la vie chrétienne, s'appuyant sur 1 Corinthiens 8:1-3. L'auteur met en garde contre une connaissance qui enfle d'orgueil et souligne que seule la connaissance accompagnée d'amour édifie. Il appelle à une véritable connaissance de Dieu, centrée sur son caractère et son amour, pour éviter la destruction du peuple de Dieu."
 tags:
   - "Exhortations"

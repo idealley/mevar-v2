@@ -7,7 +7,7 @@ subtitle: "Exhortation de Février 2014"
 date: "2014-02-23"
 year: 2014
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message enseigne que la vengeance et la rétribution appartiennent à Dieu seul. L'homme qui se venge devient méchant et attire le jugement. Dieu punit ou bénit sur plusieurs générations. Le croyant doit pardonner et laisser Dieu agir."
 tags:
   - "Exhortations"

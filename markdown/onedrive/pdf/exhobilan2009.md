@@ -5,7 +5,7 @@ title: "Exhortation bilan de fin d'année 2009"
 subtitle: "Trois années de combat et d'épreuves"
 date: "2010-01-01"
 year: 2010
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation fait le bilan de trois années de combat spirituel et d'épreuves dans le cadre d'un réveil. L'auteur encourage les croyants à persévérer dans l'adversité, à comprendre la guerre spirituelle et à rester disciplinés dans l'armée de Dieu. Il insiste sur la nécessité de l'épreuve pour atteindre la maturité spirituelle et annonce la consolation à venir."
 tags:
   - "Exhortations"

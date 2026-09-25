@@ -6,7 +6,7 @@ title: "Ceux de la grande tribulation 2"
 date: "2015-08-30"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce sermon continue l'étude sur ceux qui passeront par la grande tribulation, en distinguant les vierges folles et ceux qui croiront pendant le ministère de l'Épouse. Il explique Apocalypse 13 et 17, décrivant la bête (système politique européen) et la prostituée (système religieux), et annonce une troisième guerre mondiale qui changera l'ordre mondial."
 tags:
   - "Prédications"

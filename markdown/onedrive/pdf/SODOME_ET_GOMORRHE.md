@@ -5,7 +5,7 @@ title: "Sodome et Gomorrhe dans l'Eglise"
 date: "2007-03-04"
 year: 2007
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur montre que l'esprit de Sodome et Gomorrhe, caractérisé par la débauche sexuelle, s'est infiltré dans l'Eglise. Il s'appuie sur Genèse 19, Juges 19-20, Luc 17 et Apocalypse 22 pour démontrer que ce péché est présent parmi les croyants et que Dieu va purifier son Eglise en mettant dehors les impudiques, idolâtres et magiciens. Il met en garde contre les fausses doctrines qui minimisent le péché et affirme que le chrétien qui persévère dans le péché va en enfer."
 tags:
   - "Prédications"

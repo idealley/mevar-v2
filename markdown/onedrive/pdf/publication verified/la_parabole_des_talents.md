@@ -7,7 +7,7 @@ subtitle: "Exhortation de Janvier 2014"
 date: "2014-01-05"
 year: 2014
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique la parabole des talents en interprétant le talent comme la foi, monnaie du royaume de Dieu. Il exhorte les chrétiens à fructifier leur foi par des actions risquées et persévérantes, afin de produire des intérêts pour le Maître à son retour. Il met en garde contre la passivité et le refroidissement de l'amour."
 tags:
   - "Prédications"

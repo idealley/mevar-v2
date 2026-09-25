@@ -5,7 +5,7 @@ title: "Debout dans la brèche"
 date: "1963-06-23"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème de se tenir dans la brèche pour le peuple, en utilisant l'exemple de Moïse comme type de Christ. Il exhorte l'Église de Laodicée à se réveiller de son aveuglement spirituel et à revenir à la Parole de Dieu, tout en partageant des expériences personnelles et des visions prophétiques."
 tags:
   - "brèche"

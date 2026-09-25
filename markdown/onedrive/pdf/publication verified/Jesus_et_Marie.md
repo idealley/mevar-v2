@@ -6,7 +6,7 @@ title: "Marie et Jésus"
 date: "2018-05-21"
 year: 2018
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation retrace la vie de Marie, mère de Jésus, comme modèle de mission divine. Depuis l'annonciation jusqu'à la Pentecôte, Marie a accepté l'opprobre, partagé les souffrances de Christ et servi fidèlement, illustrant que tout appel de Dieu implique une mission qui exige persévérance et sacrifice."
 tags:
   - "Exhortations"

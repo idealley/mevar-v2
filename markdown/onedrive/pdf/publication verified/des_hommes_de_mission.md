@@ -6,7 +6,7 @@ title: "Les hommes de mission de Jésus"
 subtitle: "Exhortation spéciale de Juillet 2009"
 date: "2009-07-01"
 year: 2009
-preacher: "KOUADIO Pierre"
+preacher: "Pierre Kouadio"
 summary: "Cette exhortation développe le thème de la mission confiée par Jésus à ses disciples, en insistant sur la nécessité d'être équipé du Saint-Esprit, de suivre l'exemple de Christ dans l'humilité et l'obéissance, et de se préparer activement pour le retour du Seigneur. L'auteur met en garde contre les distractions comme l'argent, les murmures et l'oisiveté, et appelle à la prière et à la sanctification."
 tags:
   - "Exhortations"

@@ -6,7 +6,7 @@ subtitle: "Exhortation de Février 2013"
 date: "2013-02-03"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à traduire la parole de Dieu en comportement quotidien, en s'appuyant sur l'histoire de Jérémie et du roi Jojakim qui a brûlé le livre des prophéties. Il met en garde contre le mépris des prophéties bibliques et du Message du temps de la fin, qui attirent le jugement de Dieu. Il appelle à la repentance et à la préparation pour l'enlèvement."
 tags:
   - "Prédications"

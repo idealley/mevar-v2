@@ -5,7 +5,7 @@ duplicate_of: "mevar/chercher-dieu-et-le-trouver"
 title: "CHERCHER DIEU ET LE TROUVER"
 date: "2022-02-01"
 year: 2022
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation s'appuie sur 1 Chroniques 28:9 où David conseille à Salomon de connaître Dieu. Elle souligne l'importance de chercher Dieu de tout son cœur, de se dépouiller de la vie charnelle, et de rester fidèle à la mission divine malgré l'opposition. L'auteur encourage à manifester la gloire de Christ et à persévérer dans la foi."
 tags:
   - "connaissance de Dieu"
@@ -44,6 +44,31 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf"
 local_pdf: "/files/mevar/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 21"
+  - "1 Chroniques 21:10-12"
+  - "1 Chroniques 28:9"
+  - "1 Corinthiens 1:5-8"
+  - "1 Corinthiens 3:16,1"
+  - "2 Timothée 4:14"
+  - "Actes 12:23"
+  - "Actes 13:49-51"
+  - "Actes 13:6-8"
+  - "Jérémie 29:13"
+  - "Marc 16"
+  - "Marc 16:15"
+  - "Matthieu 10"
+  - "Matthieu 10:14-15"
+  - "Matthieu 10:16-18"
+  - "Matthieu 10:21-22"
+  - "Matthieu 10:26-33"
+  - "Matthieu 10:27-28"
+  - "Matthieu 10:29-30"
+  - "Matthieu 10:34-36"
+  - "Matthieu 22"
+  - "Matthieu 22:14"
+  - "Matthieu 7:7"
+  - "Ésaïe 55:6"
 ---
 Exhortation De Février 2022
 

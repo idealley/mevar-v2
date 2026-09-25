@@ -6,7 +6,7 @@ title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu, deux
 date: "2019-11-17"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message poursuit l'étude des signes d'un ministère authentique, en approfondissant les ministères de la Parole (apôtres, prophètes, évangélistes, pasteurs, docteurs) comme premiers signes, les dons spirituels dans l'église, et la distinction entre vrais et faux signes. Il insiste sur l'importance de la voix qui accompagne les signes et sur le discernement des prophéties."
 tags:
   - "signes"
@@ -54,6 +54,23 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/2_signes_d_un_ministere_17_11_19.pdf"
 local_pdf: "/files/mevar/2_signes_d_un_ministere_17_11_19.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 14"
+  - "2 Thessaloniciens 2"
+  - "Actes 8"
+  - "Actes 9"
+  - "Exode 4"
+  - "Exode 6"
+  - "Jean 12:37"
+  - "Jean 6"
+  - "Matthieu 11"
+  - "Matthieu 11:20-24"
+  - "Matthieu 24"
+  - "Matthieu 7"
+  - "Romains 10"
+  - "Éphésiens 4"
+  - "Ésaïe 40"
 ---
 Les signes d’un Ministère ou d’une œuvre authentique de Dieu, deuxième partie –
 prêché par le frère M’BRA Parfait à Koumassi le dimanche 17 Novembre 2019

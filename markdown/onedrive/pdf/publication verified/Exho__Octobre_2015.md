@@ -6,7 +6,7 @@ title: "A QUI COMPARERAI-JE CETTE GENERATION ?"
 subtitle: "Exhortation d'Octobre 2015"
 date: "2015-10-01"
 year: 2015
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation compare la génération actuelle des croyants à celle du temps de Jésus, qui n'a pas su reconnaître Jean-Baptiste et Christ. L'auteur dénonce l'esprit de jugement, l'orgueil et le manque de repentance malgré la grande lumière reçue à travers le Message du Temps de la Fin et le ministère de William Branham. Il appelle à marcher dans les voies de Dieu, à se repentir et à se séparer de l'esprit de séduction et de mondanité."
 tags:
   - "Exhortations"

@@ -6,7 +6,7 @@ title: "Le Message des sept sceaux (Suite 4ᵉ, 5e et 6e Sceau)"
 date: "2019-07-22"
 year: 2019
 location: "Koumassi"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur poursuit l'étude du quatrième sceau (Apocalypse 6:7-8), reliant le cavalier nommé Mort à l'apostasie et à l'homme impie de 2 Thessaloniciens 2. Il explique que Satan s'est assis dans le temple de Dieu (l'Église) par l'organisation et la mondanité, provoquant la mort spirituelle. Le message de l'aigle (Élie) est envoyé pour ramener les cœurs à Christ et faire sortir de Babylone."
 tags:
   - "sept sceaux"
@@ -45,6 +45,30 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/7_sceaux_4.pdf"
 local_pdf: "/files/mevar/7_sceaux_4.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 2:22"
+  - "2 Corinthiens 6:14"
+  - "2 Thessaloniciens 2"
+  - "2 Thessaloniciens 2:1"
+  - "Apocalypse 11:7-14"
+  - "Apocalypse 12"
+  - "Apocalypse 17"
+  - "Apocalypse 20"
+  - "Apocalypse 20:4-5"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14"
+  - "Apocalypse 6"
+  - "Apocalypse 6:12-17"
+  - "Apocalypse 6:9-11"
+  - "Apocalypse 7:1-3"
+  - "Apocalypse 7:9"
+  - "Apocalypse 8:5"
+  - "Jean 4:6"
+  - "Malachie 4"
+  - "Malachie 4:1-6"
+  - "Malachie 4:5"
+  - "Matthieu 24"
+  - "Matthieu 24:12"
 ---
 *Prêché à Koumassi le dimanche 22 juillet 2019, par le Frère M'BRA Parfait.*
 

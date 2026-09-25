@@ -5,7 +5,7 @@ title: "Satan dévoilé"
 date: "2009-08-30"
 year: 2009
 location: "Koumassi, Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que le monde est basé sur le mensonge de Satan depuis la chute d'Adam et Ève. Jésus-Christ, la Vérité, est venu pour délivrer les hommes de ce mensonge. Il distingue la position d'enfant (esclave du péché) de celle de fils (libre par la connaissance de la Vérité), appelant les croyants à adopter le caractère de fils pour vaincre le diable."
 tags:
   - "Prédications"

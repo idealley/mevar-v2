@@ -5,7 +5,7 @@ duplicate_of: "mevar/covid-19-ou-la-mort-dans-les-nations"
 title: "COVID-19 OU LA MORT DANS LES NATIONS"
 date: "2020-03-01"
 year: 2020
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation analyse la pandémie de COVID-19 comme l'accomplissement du quatrième sceau d'Apocalypse, où la Mort chevauche pour détruire les hommes. L'auteur explique que Satan utilise guerres, pandémies et catastrophes pour empêcher la naissance du fils de l'Église, le libérateur des nations. Il appelle les croyants à la prière et à la communion avec Dieu, rappelant que la mort n'est pas la volonté de Dieu mais la conséquence du péché."
 tags:
   - "COVID-19"
@@ -43,6 +43,22 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf"
 local_pdf: "/files/mevar/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 3:5-7"
+  - "Apocalypse 12:1-5"
+  - "Apocalypse 12:9"
+  - "Apocalypse 17"
+  - "Apocalypse 6:7-8"
+  - "Apocalypse 6:8"
+  - "Esther 3:13-15"
+  - "Exode 1:22"
+  - "Genèse 2"
+  - "Genèse 2:16-17"
+  - "Genèse 6:5-8"
+  - "Matthieu 2:14-15"
+  - "Matthieu 2:16-18"
+  - "Romains 6:23"
+  - "Ézéchiel 28"
 ---
 *Exhortation De Mars 2020*
 

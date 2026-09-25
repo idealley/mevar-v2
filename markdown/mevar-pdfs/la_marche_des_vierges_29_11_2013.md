@@ -6,7 +6,7 @@ title: "La marche prophétique des dix vierges"
 date: "2013-10-29"
 year: 2013
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Une étude détaillée de la parabole des dix vierges (Matthieu 25) expliquant que les vierges représentent les croyants du Message du temps de la fin, la lampe est la parole prophétique, l'huile est l'onction, et le cri de minuit est un réveil spirituel par des sentinelles. L'accent est mis sur la chute et le réveil de l'Église de Laodicée."
 tags:
   - "dix vierges"
@@ -34,6 +34,33 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/la_marche_des_vierges_29_11_2013.pdf"
 local_pdf: "/files/mevar/la_marche_des_vierges_29_11_2013.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:19-21"
+  - "1 Thessaloniciens 4"
+  - "2 Corinthiens 11"
+  - "2 Corinthiens 11:1-3"
+  - "2 Timothée 2"
+  - "Apocalypse 12"
+  - "Apocalypse 12:13"
+  - "Apocalypse 19"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14"
+  - "Apocalypse 4"
+  - "Jean 2"
+  - "Luc 17"
+  - "Luc 21"
+  - "Malachie 4:5"
+  - "Marc 13"
+  - "Matthieu 13"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Matthieu 3:3"
+  - "Psaumes 119:105"
+  - "Psaumes 119:130"
+  - "Zacharie 14:7"
+  - "Ésaïe 40"
+  - "Ésaïe 55"
+  - "Ésaïe 7:13-14"
 ---
 Que le Seigneur soit béni. Je vous salue au nom du Seigneur Jésus. Ce soir, je voudrais réaliser une étude biblique avec vous sur la marche prophétique des dix vierges. Il est vrai que j'ai souvent abordé la question des vierges ici, mais ce soir, je voudrais avec méthode qu'on puisse expliquer cette parabole de Matthieu 25 qui, on doit le dire, est une parabole à controverse, parce que beaucoup de gens, beaucoup de prédicateurs parlent de Matthieu 25 et c'est aussi un sujet épineux parmi les croyants du Message du temps de la fin. Mais avec le temps et aussi avec la révélation du Seigneur, on a compris que c'est un texte qui s'explique lui-même. Et le fait d'avoir la compréhension exacte des prophéties de la Bible illumine notre esprit, notre intelligence spirituelle et nous pouvons mieux considérer le temps dans lequel on vit et marcher…
 

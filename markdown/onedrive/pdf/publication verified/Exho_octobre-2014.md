@@ -6,7 +6,7 @@ title: "LE FILS MALE - L'ANON PROPHETIQUE"
 subtitle: "Exhortation d'Octobre 2014"
 date: "2014-10-01"
 year: 2014
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur la nécessité pour les croyants de rester à leur poste de veille et de prière, en s'appuyant sur Habakuk 2:1. Elle développe l'image prophétique de l'ânon (Matthieu 21) comme symbole de l'Église qui doit servir de monture au Christ pour son retour triomphal. L'auteur appelle à une cohabitation intime avec Jésus, afin qu'Il puisse agir à travers ses membres et manifester sa puissance dans le monde."
 tags:
   - "Exhortations"

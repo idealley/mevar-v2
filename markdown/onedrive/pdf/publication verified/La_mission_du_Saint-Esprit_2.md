@@ -7,7 +7,7 @@ subtitle: "Exhortation de Janvier 2017"
 date: "2017-01-22"
 year: 2017
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message insiste sur le rôle central du Saint-Esprit dans l'édification de l'Église et la sanctification individuelle. Le prédicateur exhorte les croyants à rechercher la présence de Dieu, à se repentir et à laisser l'Esprit construire un temple spirituel, plutôt que de s'appuyer sur des œuvres humaines. Il déplore la tiédeur et le manque de manifestations spirituelles dans les assemblées du Message."
 tags:
   - "Exhortations"

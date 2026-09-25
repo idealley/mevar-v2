@@ -6,7 +6,7 @@ title: "NOUS AVONS VU SON ETOILE"
 subtitle: "Exhortation de Fin d'Année 2014"
 date: "2014-12-31"
 year: 2014
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation de fin d'année 2014 développe le thème de l'étoile du Fils de l'Église, en parallèle avec l'étoile qui guida les mages vers Jésus. L'auteur insiste sur la nécessité de discerner la présence de Dieu et de marcher dans la vérité, en évitant l'hypocrisie comme Ananias et Saphira. Il encourage les croyants à se fortifier dans la grâce de Dieu et à vivre selon la vision prophétique du Message du temps de la fin."
 tags:
   - "Exhortations"

@@ -7,7 +7,7 @@ subtitle: "Exhortation d'Avril 2006"
 date: "2006-04-18"
 year: 2006
 location: "Pointe Noire, Congo/Brazzaville"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à entrer en possession de leur héritage spirituel en recevant le Saint-Esprit et en progressant dans la plénitude de l'Esprit, symbolisée par les niveaux d'eau dans Ézéchiel 47. Il insiste sur la nécessité de combattre, prier et jeûner pour passer de la cheville aux genoux, aux reins, puis à la plénitude où l'on nage dans le Saint-Esprit."
 tags:
   - "Prédications"

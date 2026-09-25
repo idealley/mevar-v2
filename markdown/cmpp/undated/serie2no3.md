@@ -6,7 +6,7 @@ subtitle: "30 décembre 1962, matin"
 date: "1962-12-30"
 year: 1962
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le concept d'absolu, une foi inébranlable en Dieu et en Sa Parole, illustré par les exemples de Job, Abraham, Moïse, Daniel, et Paul. Il partage également son témoignage personnel d'une affaire d'impôts résolue par la prière et la foi."
 tags:
   - "absolu"

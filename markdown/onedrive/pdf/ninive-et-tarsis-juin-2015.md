@@ -7,7 +7,7 @@ subtitle: "Exhortation de Juin 2015"
 date: "2015-06-28"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur relie l'histoire de Jonas (Ninive et Tarsis) à l'appel prophétique de 1933 reçu par William Branham. Il explique que cet appel est un rassemblement spirituel pour préparer l'Épouse de Christ et former une armée pour le combat de la fin des temps, en contraste avec ceux qui, comme Jonas, fuient leur mission divine."
 tags:
   - "Prédications"

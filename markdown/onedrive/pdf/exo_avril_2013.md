@@ -6,7 +6,7 @@ subtitle: "Exhortation d'Avril 2013"
 date: "2013-04-01"
 year: 2013
 location: "Koumassi"
-preacher: "Fr M'BRA PARFAIT"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation analyse la parabole des deux fils (Matthieu 21:28-32) en lien avec l'engagement dans l'œuvre de Dieu. L'auteur met en garde contre la tiédeur et la négligence, appelant à un oui ferme et à une persévérance dans la prière, le jeûne et la sainteté, en vue de l'établissement du règne de Christ. Il souligne l'accomplissement des prophéties de Luc 17 sur la fin des temps, avec la légalisation de l'homosexualité comme signe de l'iniquité des Amoréens à son comble, et encourage les croyants à rester dans le 'pays de Gosen' (la protection divine) jusqu'à la délivrance."
 tags:
   - "Exhortations"

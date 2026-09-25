@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "hommesage"
 title: "L'HOMME SAGE SE PREPARE"
-preacher: "Fr. Richard SCHWERY"
+preacher: "Richard Schwéry"
 summary: "Ce message exhorte les croyants à se préparer spirituellement pour le retour du Christ en s'appuyant sur Ésaïe 40:3-5. Il identifie quatre domaines de préparation : le désert (péchés et attitudes négatives), les vallées et défilés (souffrances cachées et péchés secrets), les montagnes et collines (orgueil, incrédulité, doutes), et les chemins raboteux (mauvaises habitudes et mondanité). L'accent est mis sur l'amour, la sanctification et la foi pour que la gloire de Dieu soit révélée dans la vie du croyant."
 tags:
   - "Exhortations"

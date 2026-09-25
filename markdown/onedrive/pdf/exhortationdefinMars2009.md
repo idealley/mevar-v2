@@ -5,7 +5,7 @@ title: "JE TRAITE DUREMENT MON CORPS"
 subtitle: "Exhortation de Mars 2009"
 date: "2009-03-01"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation s'appuie sur 1 Corinthiens 9:26-27 pour encourager les croyants à maîtriser leur corps par le jeûne et la prière, à l'image de l'apôtre Paul. Elle met en garde contre une foi aventurière et souligne l'importance de la révélation et de la discipline dans la course vers l'enlèvement."
 tags:
   - "Exhortations"

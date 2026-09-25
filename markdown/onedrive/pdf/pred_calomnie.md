@@ -5,7 +5,7 @@ title: "Les calomnies"
 date: "2010-03-28"
 year: 2010
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur aborde le thème de la calomnie dans l'Église, un esprit meurtrier qui détruit la communion fraternelle. Il explique que la calomnie est un péché grave équivalent au meurtre devant Dieu, et exhorte les croyants à régler leurs différends directement entre eux, à pardonner et à ne pas répandre de faux bruits. Il souligne l'importance de la crainte de Dieu et de la responsabilité dans les paroles."
 tags:
   - "Exhortations"

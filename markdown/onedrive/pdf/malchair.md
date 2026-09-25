@@ -6,7 +6,7 @@ subtitle: "Exhortation de Février 2007"
 date: "2007-02-25"
 year: 2007
 location: "Koumassi (Abidjan)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur met en garde contre le fait de placer sa confiance dans les hommes, y compris les serviteurs de Dieu, car cela attire une malédiction. Il exhorte les croyants à se confier uniquement en Dieu et en son Esprit, et à grandir spirituellement pour ne pas rester des enfants dépendants de tuteurs humains."
 tags:
   - "Prédications"

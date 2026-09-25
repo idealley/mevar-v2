@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2008"
 date: "2008-01-24"
 year: 2008
 location: "Lausanne"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à prendre conscience des voisins spirituels (démons, incroyants, systèmes du monde) qui les entourent et à s'engager dans le combat spirituel pour ne pas être neutralisés, à l'image d'Israël qui n'a pas chassé tous les Cananéens. Il appelle à la décision et à la séparation d'avec les influences du monde."
 tags:
   - "Exhortations"

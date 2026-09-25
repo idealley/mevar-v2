@@ -28,8 +28,11 @@ bible-data/
 # SurrealDB persistent data (regenerable from scripts)
 db/
 
-# Claude Code workspace
-.claude/
+# Claude Code: .claude/ is tracked (shared skills); its runtime and local
+# files are not
+.claude/scheduled_tasks.lock
+.claude/settings.local.json
+.claude/codex-reviews/
 
 # Stray
 history.txt

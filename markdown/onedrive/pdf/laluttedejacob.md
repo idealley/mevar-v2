@@ -5,7 +5,7 @@ title: "La lutte de Jacob"
 date: "2011-08-11"
 year: 2011
 location: "Koumassi, Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur utilise l'histoire de Jacob luttant avec Dieu à Péniel pour illustrer le combat spirituel du chrétien contre le vieil homme. Il insiste sur la nécessité de renoncer à soi-même, de lutter avec Dieu jusqu'à ce qu'Il déclare vainqueur, et de passer de Jacob (trompeur) à Israël (prince de Dieu). Il met en garde contre l'amour de l'argent (Mammon) et l'attachement aux choses terrestres qui empêchent d'être enlevé."
 tags:
   - "Prédications"

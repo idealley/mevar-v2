@@ -1,0 +1,27 @@
+---
+import type { GetStaticPaths } from "astro";
+import Layout from "../../../../layouts/Layout.astro";
+import CategoryGrid from "../../../../components/CategoryGrid.astro";
+import { ARCHIVE_SOURCES, CATEGORIES, PAGE_SIZE, categoryWorks } from "$lib/works";
+
+// /<category>/archives/<source>/: the archive of one category, one source.
+export const getStaticPaths = (async ({ paginate }) => {
+  const pages = [];
+  for (const category of Object.keys(CATEGORIES)) {
+    for (const { source, works } of (await categoryWorks(category)).archive) {
+      pages.push(...paginate(works, { pageSize: PAGE_SIZE, params: { category, source } }));
+    }
+  }
+  return pages;
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const { category, source } = Astro.params;
+const title = `${CATEGORIES[category].title}, archives\u00a0: ${ARCHIVE_SOURCES[source]}`;
+---
+
+<Layout title={`${title} · Mevar`} description={`${page.total} documents`}>
+  <CategoryGrid title={title} page={page}>
+    <p class="mt-10 text-sm"><a href={`/${category}/`} class="underline underline-offset-4">← {CATEGORIES[category].title} de la mission</a></p>
+  </CategoryGrid>
+</Layout>

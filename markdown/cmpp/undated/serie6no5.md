@@ -6,7 +6,7 @@ subtitle: "7 février 1964, soir"
 date: "1964-02-07"
 year: 1964
 location: "Kern County Fairgrounds, Bakersfield, California, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Ce message examine la vie d'Abraham comme père de la foi, soulignant l'obéissance et la foi inébranlable en la promesse de Dieu malgré les circonstances. Branham montre comment la véritable semence d'Abraham est testée par la Parole et reçoit la promesse de posséder les portes de ses ennemis, illustré par des exemples bibliques comme les enfants hébreux, Daniel et Moïse."
 tags:
   - "Abraham"

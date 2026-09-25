@@ -7,7 +7,7 @@ subtitle: "Exhortation de Mars 2015"
 date: "2015-03-29"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation prophétique insiste sur la préparation du jour du Seigneur, un temps où Dieu seul sera élevé et où les orgueilleux et les idoles disparaîtront. Le prédicateur encourage les croyants à se préparer pour ce jour en s'attachant au Message du temps de la fin, qui précède et prépare ce jour de manifestation divine."
 tags:
   - "Exhortations"

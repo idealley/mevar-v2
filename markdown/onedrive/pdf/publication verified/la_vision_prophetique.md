@@ -6,7 +6,7 @@ title: "La vision prophétique fait la différence"
 date: "2013-06-16"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que la vision prophétique, c'est-à-dire la compréhension des prophéties de la fin des temps, est ce qui distingue les croyants du Message du temps de la fin des autres églises. Il retrace l'histoire de la Réforme et montre comment l'accomplissement des prophéties, comme le retour d'Israël et l'envoi de William Branham, crée une actualité spirituelle. Il insiste sur la sainteté, la séparation du monde et la préparation pour l'enlèvement comme marques distinctives des élus."
 tags:
   - "Prédications"

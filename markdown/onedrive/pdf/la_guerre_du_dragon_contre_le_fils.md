@@ -7,7 +7,7 @@ subtitle: "Exhortation de Janvier 2012"
 date: "2012-01-19"
 year: 2012
 location: "Ouagadougou (Burkina Faso)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette prédication explore le combat spirituel entre l'Église et le Dragon décrit dans Apocalypse 12, en se concentrant sur la naissance du Fils de l'Église, un caractère spirituel de Christ formé dans les croyants. L'orateur insiste sur la nécessité de préserver la semence du Message reçu, de résister aux séductions et de persévérer dans la guerre spirituelle pour atteindre la maturité spirituelle."
 tags:
   - "Prédications"

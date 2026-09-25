@@ -7,7 +7,7 @@ subtitle: "Lakota les 30-31 Mars et 1er Avril 2018"
 date: "2018-03-30"
 year: 2018
 location: "Lakota"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Document rapportant les prophéties et enseignements donnés lors d'une convention nationale de réveil à Lakota. Il insiste sur l'importance du don de prophétie pour l'édification de l'Église, l'examen des prophéties, et la nécessité de la repentance, de la sainteté et de la reconstruction de l'autel familial. Les prophéties appellent à l'abandon de l'hypocrisie, de la sorcellerie, de l'impureté et à un retour sincère à Dieu."
 tags:
   - "Exhortations"

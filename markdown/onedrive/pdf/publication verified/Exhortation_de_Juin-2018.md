@@ -6,7 +6,7 @@ title: "LES VISAGES DE SATAN"
 subtitle: "Exhortation de Juin 2018"
 date: "2018-06-01"
 year: 2018
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore le combat de Job contre Satan, montrant comment le diable utilise divers visages et circonstances pour éprouver les croyants. L'auteur encourage les chrétiens à discerner les manœuvres de Satan, à persévérer dans la foi et la sainteté, et à s'armer de la pensée de souffrir comme Christ."
 tags:
   - "Exhortations"

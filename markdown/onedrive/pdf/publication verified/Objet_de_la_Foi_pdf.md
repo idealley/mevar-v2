@@ -7,7 +7,7 @@ subtitle: "Exhortation de Décembre 2017"
 date: "2017-12-11"
 year: 2017
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que l'objet de la foi chrétienne est la recherche et l'entrée dans la perfection, c'est-à-dire l'accomplissement de la volonté de Dieu en Christ. Il met en garde contre une conception erronée de la foi qui confond les moyens (miracles, dons) avec le but ultime : devenir parfait comme le Père céleste. Il insiste sur la nécessité de ne pas se laisser distraire par les préoccupations matérielles, mais de chercher premièrement le royaume de Dieu."
 tags:
   - "Prédications"

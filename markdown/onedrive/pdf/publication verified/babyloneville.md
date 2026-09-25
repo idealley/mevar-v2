@@ -6,7 +6,7 @@ title: "Babylone : la grande ville"
 date: "2006-12-02"
 year: 2006
 location: "Koumassi (Abidjan)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que Babylone est un système démoniaque politique et religieux contrôlé par Satan, la Bête (Union européenne) et le Faux prophète (papauté). Il montre comment ce système contrôle le monde par des unions politiques et économiques, et comment il s'infiltre dans l'Église par l'organisation et l'esprit de contrôle, étouffant le Saint-Esprit. Il appelle les chrétiens à sortir de Babylone et à se préparer à la persécution à venir."
 tags:
   - "Prédications"

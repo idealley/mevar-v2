@@ -5,7 +5,7 @@ duplicate_of: "mevar/soyez-parfaits-comme-votre-pere-celeste-est-parfait"
 title: "Soyez parfaits comme votre Père céleste est parfait"
 date: "2022-03-01"
 year: 2022
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de mars 2022 appelle les croyants à aspirer à la perfection comme le Père céleste, en vivant l'Évangile de Christ de manière non rationnelle, par l'amour des ennemis, le pardon et la distinction par la foi au milieu des épreuves."
 tags:
   - "perfection"
@@ -40,6 +40,17 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
 local_pdf: "/files/mevar/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:20"
+  - "1 Jean 3:14-15"
+  - "Hébreux 11"
+  - "Hébreux 5:12-14"
+  - "Matthieu 19"
+  - "Matthieu 19:21"
+  - "Matthieu 5"
+  - "Matthieu 5:31-32"
+  - "Matthieu 5:48"
+  - "Ézéchiel 14:14,20"
 ---
 *Exhortation de Mars 2022*
 

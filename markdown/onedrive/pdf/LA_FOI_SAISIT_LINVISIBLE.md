@@ -7,7 +7,7 @@ subtitle: "Exhortation de Janvier 2015"
 date: "2015-01-04"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à vivre par la foi en 2015, expliquant que la foi est une puissance qui voit l'invisible, c'est-à-dire Dieu et ses promesses. Il insiste sur l'importance d'avoir un but dans la foi, de ne pas regarder les circonstances visibles, et de marcher par la foi comme les héros d'Hébreux 11. Il utilise l'exemple de Pierre marchant sur l'eau et d'Israël traversant la mer Rouge pour illustrer que la foi permet de surmonter les obstacles."
 tags:
   - "Prédications"

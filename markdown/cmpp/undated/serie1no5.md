@@ -6,7 +6,7 @@ subtitle: "14 octobre 1962, matin"
 date: "1962-10-14"
 year: 1962
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham enseigne sur la stature de l'homme parfait, basé sur 2 Pierre 1, expliquant comment les croyants peuvent devenir participants de la nature divine par les promesses de Dieu. Il aborde la foi, l'amour pour Christ, et la croissance spirituelle, tout en partageant des témoignages de guérison et d'encouragement."
 tags:
   - "stature parfaite"

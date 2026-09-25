@@ -6,7 +6,7 @@ subtitle: "Le Sixième Sceau"
 date: "1963-03-23"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Dans ce sixième sceau, William Branham décrit les cataclysmes cosmiques (tremblement de terre, soleil noir, lune de sang, étoiles tombant) qui accompagnent l'ouverture du sceau, après le départ de l'Épouse. Il insiste sur le fait que l'Épouse ne passera pas par la tribulation, contrairement à l'église nominale. Il compare également l'attente de l'Épouse à celle d'une jeune fiancée qui croit en la promesse de son époux."
 tags:
   - "sixième sceau"

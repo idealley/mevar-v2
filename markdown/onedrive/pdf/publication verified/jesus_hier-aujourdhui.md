@@ -7,7 +7,7 @@ subtitle: "Exhortation de Mai 2015"
 date: "2015-05-09"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à avoir une foi authentique et persévérante, en s'appuyant sur Hébreux 13:8. Il insiste sur le fait que Jésus-Christ est le même hier, aujourd'hui et éternellement, mais que sa manifestation dépend d'hommes et de femmes de foi qui s'associent à lui. Il encourage à ne pas craindre, à persévérer dans la prière et à vivre une foi qui met en mouvement la puissance de Dieu."
 tags:
   - "Exhortations"

@@ -7,7 +7,7 @@ subtitle: "Exhortation de Novembre 2013"
 date: "2013-11-09"
 year: 2013
 location: "Prilly"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur utilise la parabole du fils prodigue pour exhorter les chrétiens à revenir à Dieu et à se soumettre à son autorité. Il souligne que le monde est sous la puissance du malin et que les chrétiens sont des étrangers et voyageurs sur terre. Il appelle à un retour sincère au Seigneur, à la sainteté et à la préparation pour le retour de Jésus-Christ."
 tags:
   - "Prédications"

@@ -6,7 +6,7 @@ title: "Un Nouveau Ciel - Une Nouvelle Terre - Un Nouveau Peuple"
 subtitle: "Exhortation de Février 2011"
 date: "2011-02-01"
 year: 2011
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de février 2011 appelle les croyants à se préparer spirituellement pour le retour de Christ en ayant les reins ceints de vérité et les lampes allumées (communion avec Dieu). Elle explique que les événements mondiaux actuels sont le prélude à l'établissement d'un nouveau ciel et d'une nouvelle terre, où Dieu régnera avec un nouveau peuple. Le message insiste sur la responsabilité des chrétiens de s'opposer au règne de Satan et de hâter l'avènement du jour de Dieu."
 tags:
   - "Exhortations"

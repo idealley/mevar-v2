@@ -7,7 +7,7 @@ subtitle: "Exhortation de Janvier 2017"
 date: "2017-01-21"
 year: 2017
 location: "Lausanne"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur insiste sur la nécessité de laisser le Saint-Esprit agir dans l'Église et dans la vie personnelle du croyant. Il rappelle que Jésus a promis le Consolateur pour conduire les disciples dans toute la vérité, les convaincre de péché et les préparer pour l'enlèvement. Il déplore que beaucoup de chrétiens ignorent le Saint-Esprit et vivent dans la pauvreté spirituelle, alors que Dieu veut manifester sa puissance et ses dons."
 tags:
   - "Prédications"

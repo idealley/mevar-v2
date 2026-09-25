@@ -4,7 +4,7 @@ sermon_id: "aide_semblable_anderson"
 duplicate_of: "mevar/je-lui-ferai-une-aide-semblable"
 title: "Je lui ferai une aide semblable…"
 location: "Koumassi"
-preacher: "IRIE ANDERSON"
+preacher: "Irié Anderson"
 summary: "Le prédicateur expose le but de Dieu dans le mariage à partir de Genèse 2:18. Il distingue le dessein (but ultime) des objectifs (étapes), et montre que le mariage n'est pas obligatoire mais doit être vécu comme un service divin où l'homme et la femme sont unis pour servir Christ. Il insiste sur l'amour agapao, la soumission mutuelle et la responsabilité des parents dans l'éducation spirituelle des enfants."
 tags:
   - "Exhortations"

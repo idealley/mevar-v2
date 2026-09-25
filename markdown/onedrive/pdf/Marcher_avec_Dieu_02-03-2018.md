@@ -7,7 +7,7 @@ subtitle: "Exhortation de Février 2018"
 date: "2018-02-03"
 year: 2018
 location: "Biasso"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore la foi d'Énoch, qui a marché avec Dieu pendant trois cents ans et a été enlevé. Le prédicateur insiste sur la nécessité d'une marche individuelle avec Dieu, sous l'onction du Message du Temps de la Fin, et met en garde contre l'attachement excessif aux serviteurs de Dieu décédés. Il souligne l'importance des vases de réserve (nouveaux ministères) pour continuer l'œuvre jusqu'à l'enlèvement."
 tags:
   - "Exhortations"

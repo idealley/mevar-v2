@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "sujets-de-prieres-15-16-aout-2014"
 title: "Sujets de Prière"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce document présente trois sujets de prière pour les intercesseurs, incluant la libération des prisons spirituelles, le soutien de la chaîne de prière, et la délivrance des excès. Il annonce également un jeûne les 15 et 16 août."
 tags:
   - "Exhortations"

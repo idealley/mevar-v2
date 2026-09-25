@@ -5,7 +5,7 @@ duplicate_of: "mevar/holocauste"
 title: "HOLOCAUSTE"
 date: "2021-03-01"
 year: 2021
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur la nécessité de la consécration et du sacrifice de soi (holocauste) pour que Dieu approuve notre foi, à l'exemple d'Abraham, de Daniel et de ses compagnons. Elle appelle l'Église de Laodicée à offrir une foi sans défaut pour manifester la gloire de Dieu dans la génération actuelle."
 tags:
   - "holocauste"
@@ -40,6 +40,19 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_2021.pdf"
 local_pdf: "/files/mevar/holocoste-exhortation_mars_2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17:5"
+  - "Daniel 3:28-29"
+  - "Genèse 22:1"
+  - "Jean 14:15"
+  - "Jean 15:10"
+  - "Job 38:1-3"
+  - "Luc 18:8"
+  - "Lévitique 22:18-20"
+  - "Malachie 1:7-8"
+  - "Matthieu 22:36-37"
+  - "Matthieu 24:12"
+  - "Matthieu 24:5"
 ---
 *Exhortation De Mars 2021*
 

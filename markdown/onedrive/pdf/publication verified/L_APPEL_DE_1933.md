@@ -7,7 +7,7 @@ subtitle: "Exhortation de Juin 2015"
 date: "2015-06-21"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que l'appel de 1933, adressé au prophète William Branham, est un appel à sortir des organisations religieuses pour se préparer au retour de Jésus-Christ. Il insiste sur la liberté dans l'Esprit, la responsabilité personnelle dans la foi, et le double aspect de l'appel : alliance de mariage avec Christ et enrôlement dans l'armée spirituelle de la fin des temps."
 tags:
   - "Prédications"

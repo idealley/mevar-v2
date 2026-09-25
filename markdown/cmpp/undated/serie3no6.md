@@ -6,7 +6,7 @@ subtitle: "21 juillet 1963, matin"
 date: "1963-07-21"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème 'Il prend soin. Et vous?' à partir de 1 Pierre 5 et Hébreux 2. Il encourage les croyants à se décharger de leurs soucis sur Dieu, qui prend soin d'eux. Il aborde la consolation du Saint-Esprit, la foi absolue, et met en garde contre les fausses consolations du monde. Il illustre son propos par des témoignages de guérison et de délivrance."
 tags:
   - "soin de Dieu"

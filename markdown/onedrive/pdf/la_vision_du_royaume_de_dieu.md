@@ -5,7 +5,7 @@ title: "La Vision du Royaume de Dieu"
 date: "2008-07-05"
 year: 2008
 location: "Koumassi"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique la vision du Royaume de Dieu, un royaume spirituel annoncé par Jésus et Jean-Baptiste, distinct des organisations religieuses. Il insiste sur la nouvelle naissance, le combat spirituel, et la nécessité de suivre les véritables ministères de la Parole pour être sauvé."
 tags:
   - "Prédications"

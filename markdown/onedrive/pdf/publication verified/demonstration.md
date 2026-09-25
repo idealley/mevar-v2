@@ -6,7 +6,7 @@ title: "Démonstration d'Esprit et de Puissance"
 date: "2006-04-16"
 year: 2006
 location: "Pointe-Noire"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à la foi qui entre en connexion avec la puissance de Dieu pour obtenir guérison, délivrance et bénédictions. Il s'appuie sur l'histoire de l'hémorroïsse (Marc 5) et sur 1 Corinthiens 2:3-5 pour montrer que la démonstration d'Esprit et de puissance est le résultat de la foi agissante. Il appelle à une foi vivante, non morte, qui saisit les promesses de Dieu."
 tags:
   - "Exhortations"

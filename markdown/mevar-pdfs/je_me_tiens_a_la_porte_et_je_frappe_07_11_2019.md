@@ -42,6 +42,31 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf"
 local_pdf: "/files/mevar/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:7"
+  - "1 Timothée 3:1,2"
+  - "2 Rois 2:8"
+  - "Actes 1:8"
+  - "Actes 9:5"
+  - "Apocalypse 12"
+  - "Apocalypse 19:8"
+  - "Apocalypse 3:14-22"
+  - "Apocalypse 3:20"
+  - "Galates 5:22"
+  - "Hébreux 12:25"
+  - "Jacques 1:27"
+  - "Jean 4:1"
+  - "Jérémie 23:21-30"
+  - "Luc 16:19-31"
+  - "Malachie 4:4,5"
+  - "Matthieu 25"
+  - "Nombres 20:25-26"
+  - "Nombres 3:4"
+  - "Proverbes 3:13,14"
+  - "Psaumes 119"
+  - "Ésaïe 11:4"
+  - "Ésaïe 55"
+  - "Ésaïe 6:1-8"
 ---
 > **Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi.** (Apocalypse 3:20)
 

@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juillet 2013"
 date: "2013-07-14"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message exhorte les croyants à passer de l'utilisation d'outils extérieurs (comme le bâton de Moïse) à la proclamation directe de la Parole, en s'appuyant sur leur identité de nouvelles créations en Christ. À travers les récits d'Exode 17 et Nombres 20, l'orateur montre que Dieu attend de son peuple qu'il parle avec autorité aux obstacles, aux démons et à la création, comme Moïse aurait dû parler au rocher. Il insiste sur la nécessité de maîtriser la chair pour exercer la puissance spirituelle et manifester la divinité reçue en Christ."
 tags:
   - "Exhortations"

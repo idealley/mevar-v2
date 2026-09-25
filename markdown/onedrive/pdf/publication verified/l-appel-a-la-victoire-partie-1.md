@@ -6,7 +6,7 @@ title: "L'Appel à la victoire (première partie)"
 date: "2018-08-06"
 year: 2018
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à comprendre l'appel à la victoire adressé à chaque âge de l'Église, en insistant sur la nécessité de vaincre l'esprit du monde présent, de comprendre la Parole de Dieu et d'exercer une foi qui triomphe du monde. Il met en garde contre une fausse compréhension de la prédestination et appelle à un combat spirituel actif."
 tags:
   - "Exhortations"

@@ -128,8 +128,11 @@ const SPOKEN = [
   new RegExp(`[Tt]he\\s+${ORD}\\s+[Cc]hapter\\s+of\\s+(${BOOK_ALT})(?:-[….]*\\s*of\\s+(${BOOK_ALT}))?(?!\\p{L})${VERSES}`, "gu"),
 ];
 
-function normalize(md) {
-  const found = [];
+/**
+ * Every reference this script records in a text: where it is and its
+ * canonical form. The site links the same ones (web/src/lib/bible-links.mjs).
+ */
+export function* citations(md) {
   for (const match of md.matchAll(REF_RE)) {
     const [, bookVariant, , , verseEnd, extra] = match;
     let [, , chap, verseStart] = match;
@@ -157,84 +160,87 @@ function normalize(md) {
       verseEnd: verseEnd ?? null,
       extra: extra ?? null,
     });
-    found.push(rendered);
+    yield { index: match.index, text: match[0], ref: rendered };
   }
-  for (const m of md.matchAll(SPOKEN[0])) spoken(m[1], m[2], m[3]);
-  for (const m of md.matchAll(SPOKEN[1])) spoken(m[3] ?? m[2], m[1], m[4]);
-  function spoken(bookVariant, chapter, verseList) {
+  for (const m of md.matchAll(SPOKEN[0])) yield* spoken(m, m[1], m[2], m[3]);
+  for (const m of md.matchAll(SPOKEN[1])) yield* spoken(m, m[3] ?? m[2], m[1], m[4]);
+  function* spoken(match, bookVariant, chapter, verseList) {
     const book = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     const verses = verseList?.match(/\d+/g) ?? [];
     if (!isPossible(book, chapter, verses)) return;
-    found.push(renderRef({ book, chapter, verseStart: verses[0] ?? null, verseEnd: null, extra: verses.slice(1).join(",") || null }));
+    const ref = renderRef({ book, chapter, verseStart: verses[0] ?? null, verseEnd: null, extra: verses.slice(1).join(",") || null });
     spokenRefs++;
-  }
-  return [...new Set(found)].sort();
-}
-
-function* walk(target) {
-  if (fs.statSync(target).isFile()) {
-    if (target.endsWith(".md")) yield target;
-    return;
-  }
-  for (const ent of fs.readdirSync(target, { withFileTypes: true })) {
-    const p = path.join(target, ent.name);
-    if (ent.isDirectory()) yield* walk(p);
-    else if (ent.isFile() && p.endsWith(".md")) yield p;
+    yield { index: match.index, text: match[0], ref };
   }
 }
 
-const args = process.argv.slice(2);
-const dryRun = args.includes("--dry");
-const targets = args.filter((a) => !a.startsWith("--"));
-
-const sources = targets.length > 0
-  ? targets.map((t) => path.resolve(t))
-  : [path.join(root, "markdown", "branham")];
-
-const refsByFile = {};
-const scanned = [];
-let totalFiles = 0, totalRefs = 0;
-const refsBySource = {};
-
-for (const sourceDir of sources) {
-  const sourceName = path.basename(sourceDir);
-  refsBySource[sourceName] = { files: 0, refs: 0, unique: new Set() };
-  for (const file of walk(sourceDir)) {
-    totalFiles++;
-    scanned.push(path.relative(root, file));
-    refsBySource[sourceName].files++;
-    const text = fs.readFileSync(file, "utf8");
-    const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
-    const refs = normalize(body);
-    if (refs.length) {
-      totalRefs += refs.length;
-      refsBySource[sourceName].refs += refs.length;
-      for (const r of refs) refsBySource[sourceName].unique.add(r);
-      refsByFile[path.relative(root, file)] = refs;
+// Only when run, not when the site imports citations().
+if (process.argv[1] === import.meta.filename) {
+  function* walk(target) {
+    if (fs.statSync(target).isFile()) {
+      if (target.endsWith(".md")) yield target;
+      return;
+    }
+    for (const ent of fs.readdirSync(target, { withFileTypes: true })) {
+      const p = path.join(target, ent.name);
+      if (ent.isDirectory()) yield* walk(p);
+      else if (ent.isFile() && p.endsWith(".md")) yield p;
     }
   }
-}
 
-console.log(`English bible refs normalized:`);
-console.log(`  files scanned: ${totalFiles}`);
-console.log(`  total ref instances: ${totalRefs}`);
-console.log(`  impossible refs dropped: ${dropped}`);
-console.log(`  lowercase book names skipped: ${notCitations}`);
-console.log(`  spoken citations recorded: ${spokenRefs}`);
-console.log(`  by source:`);
-for (const [src, s] of Object.entries(refsBySource)) {
-  console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
-}
+  const args = process.argv.slice(2);
+  const dryRun = args.includes("--dry");
+  const targets = args.filter((a) => !a.startsWith("--"));
 
-if (!dryRun) {
-  // Merge with existing bible-refs.json (don't overwrite French refs).
-  // A scanned file with no refs left loses its key.
-  const outPath = path.join(root, "manifests/bible-refs.json");
-  const merged = JSON.parse(fs.readFileSync(outPath, "utf8"));
-  for (const rel of scanned) {
-    if (refsByFile[rel]) merged[rel] = refsByFile[rel];
-    else delete merged[rel];
+  const sources = targets.length > 0
+    ? targets.map((t) => path.resolve(t))
+    : [path.join(root, "markdown", "branham")];
+
+  const refsByFile = {};
+  const scanned = [];
+  let totalFiles = 0, totalRefs = 0;
+  const refsBySource = {};
+
+  for (const sourceDir of sources) {
+    const sourceName = path.basename(sourceDir);
+    refsBySource[sourceName] = { files: 0, refs: 0, unique: new Set() };
+    for (const file of walk(sourceDir)) {
+      totalFiles++;
+      scanned.push(path.relative(root, file));
+      refsBySource[sourceName].files++;
+      const text = fs.readFileSync(file, "utf8");
+      const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
+      const refs = [...new Set([...citations(body)].map((c) => c.ref))].sort();
+      if (refs.length) {
+        totalRefs += refs.length;
+        refsBySource[sourceName].refs += refs.length;
+        for (const r of refs) refsBySource[sourceName].unique.add(r);
+        refsByFile[path.relative(root, file)] = refs;
+      }
+    }
   }
-  fs.writeFileSync(outPath, JSON.stringify(merged, null, 2));
-  console.log(`  merged ${scanned.length} scanned files into manifests/bible-refs.json (${Object.keys(merged).length} keys)`);
+
+  console.log(`English bible refs normalized:`);
+  console.log(`  files scanned: ${totalFiles}`);
+  console.log(`  total ref instances: ${totalRefs}`);
+  console.log(`  impossible refs dropped: ${dropped}`);
+  console.log(`  lowercase book names skipped: ${notCitations}`);
+  console.log(`  spoken citations recorded: ${spokenRefs}`);
+  console.log(`  by source:`);
+  for (const [src, s] of Object.entries(refsBySource)) {
+    console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
+  }
+
+  if (!dryRun) {
+    // Merge with existing bible-refs.json (don't overwrite French refs).
+    // A scanned file with no refs left loses its key.
+    const outPath = path.join(root, "manifests/bible-refs.json");
+    const merged = JSON.parse(fs.readFileSync(outPath, "utf8"));
+    for (const rel of scanned) {
+      if (refsByFile[rel]) merged[rel] = refsByFile[rel];
+      else delete merged[rel];
+    }
+    fs.writeFileSync(outPath, JSON.stringify(merged, null, 2));
+    console.log(`  merged ${scanned.length} scanned files into manifests/bible-refs.json (${Object.keys(merged).length} keys)`);
+  }
 }

@@ -1,3 +1,19 @@
+---
+source: "cmpp"
+sermon_id: "serie4no6"
+title: "L’original"
+subtitle: "14 juin 1964, soir"
+date: "1964-06-14"
+year: 1964
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Branham"
+pdf_url: "http://cmpp.ch/serie4no6.pdf"
+bible_refs:
+  - "1 Corinthiens 1:18"
+  - "2 Corinthiens 12"
+  - "2 Corinthiens 12:11"
+  - "Matthieu 24"
+---
     SERIE 4, N° 6
 
 

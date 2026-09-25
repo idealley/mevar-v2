@@ -5,7 +5,7 @@ duplicate_of: "mevar/la-peur-de-satan"
 title: "LA PEUR DE SATAN"
 date: "2022-03-31"
 year: 2022
-preacher: "Pasteur M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation explore l'origine de la peur dans le péché d'Adam et Ève, montrant comment la peur a gagné l'humanité. Elle affirme qu'en Christ, la peur a changé de camp : c'est désormais Satan et les démons qui tremblent devant l'Église, peuple puissant ayant reçu toute autorité. Le croyant est appelé à se débarrasser de la peur et à marcher dans la foi."
 tags:
   - "peur"
@@ -40,6 +40,30 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_fin_mars_2022_la_peur_de_satan.pdf"
 local_pdf: "/files/mevar/exhortation_fin_mars_2022_la_peur_de_satan.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 2:25"
+  - "1 Samuel 17"
+  - "1 Samuel 28:5-6"
+  - "2 Corinthiens 10:4-5"
+  - "2 Timothée 1:7"
+  - "Actes 4:19,5"
+  - "Colossiens 1:16-19"
+  - "Daniel 3:17-19,6"
+  - "Genèse 2:20"
+  - "Genèse 3"
+  - "Genèse 3:10"
+  - "Genèse 3:14-15"
+  - "Hébreux 11"
+  - "Jacques 2:19"
+  - "Jacques 5:16"
+  - "Marc 16:17-18"
+  - "Matthieu 10:8"
+  - "Matthieu 18:18"
+  - "Matthieu 27:14"
+  - "Matthieu 28:19"
+  - "Matthieu 8:31"
+  - "Romains 5:6-10"
+  - "Éphésiens 2:12-13"
 ---
 **Exhortation Fin Mars 2022**
 

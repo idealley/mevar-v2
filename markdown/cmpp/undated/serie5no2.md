@@ -6,7 +6,7 @@ subtitle: "21 février 1965, après-midi"
 date: "1965-02-21"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham explore l'identité de Melchisédec à partir d'Hébreux 7.1-3, affirmant qu'il s'agit d'une personne éternelle, Dieu lui-même, et non d'un mythe ou d'un ordre sacerdotal. Il en profite pour enseigner l'unité de Dieu en trois fonctions (Père, Fils, Saint-Esprit) contre la doctrine trinitaire."
 tags:
   - "Melchisédec"

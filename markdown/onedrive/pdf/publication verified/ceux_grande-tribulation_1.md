@@ -7,7 +7,7 @@ subtitle: "Exhortation d'Août 2015"
 date: "2015-08-23"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique la grande tribulation à la lumière des prophéties bibliques, en insistant sur le retour d'Israël, le Message du temps de la fin donné à William Branham, et la nécessité d'être corporellement habité par Jésus-Christ pour échapper à la tribulation. Il distingue deux guerres : celle des saints contre Satan (menant à l'enlèvement) et celle de Satan contre les saints restants (la grande tribulation)."
 tags:
   - "Prédications"

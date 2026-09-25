@@ -7,7 +7,7 @@ subtitle: "Exhortation d'Octobre 2013"
 date: "2013-10-06"
 year: 2013
 location: "Kinshasa"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur insiste sur le but du message du temps de la fin : préparer un peuple pour le réveil de l'Épouse de Christ. Il introduit le thème du vœu, montrant que les croyants doivent s'engager par des promesses envers Dieu pour briser la tiédeur et la paresse, à l'exemple de Jephté, Anne, Jacob et Paul."
 tags:
   - "Prédications"

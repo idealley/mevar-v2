@@ -6,7 +6,7 @@ title: "Les liens spirituels"
 date: "2020-04-06"
 year: 2020
 location: "Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message examine l'histoire de la femme courbée dans Luc 13 pour enseigner sur les liens spirituels qui entravent les croyants. L'auteur exhorte à rechercher la délivrance de ces liens par la foi et la prière, afin d'être des temples du Saint-Esprit prêts pour l'enlèvement."
 tags:
   - "liens spirituels"
@@ -37,6 +37,23 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf"
 local_pdf: "/files/mevar/les_liens_spirituels_1_et_2-6_avril_2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 1"
+  - "Actes 1:16-18"
+  - "Colossiens 3:5-7"
+  - "Jean 6:70"
+  - "Luc 13"
+  - "Luc 22"
+  - "Luc 6"
+  - "Matthieu 12:34"
+  - "Matthieu 23"
+  - "Matthieu 23:33"
+  - "Matthieu 24"
+  - "Matthieu 27"
+  - "Matthieu 3:7"
+  - "Matthieu 6:1"
+  - "Matthieu 6:24"
+  - "Ésaïe 40:2"
 ---
 Les liens spirituels - 1 -
 

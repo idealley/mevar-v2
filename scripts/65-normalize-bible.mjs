@@ -15,7 +15,7 @@
 //   3) Collect found refs per file into manifests.
 //
 // CLI:
-//   node scripts/65-normalize-bible.mjs               # process all 5 French sources
+//   node scripts/65-normalize-bible.mjs               # process all 6 French sources
 //   node scripts/65-normalize-bible.mjs <glob>        # process matched files only
 //   node scripts/65-normalize-bible.mjs --dry         # report only, don't write
 
@@ -195,9 +195,17 @@ function spoken({ book: bookVariant, chapter, ...g }) {
   return renderRef({ book, chapter, verseStart: v.start, verseEnd, extra });
 }
 
-function normalize(md) {
-  const found = [];
-  for (const re of SPOKEN) for (const m of md.matchAll(re)) found.push(spoken(m.groups));
+/**
+ * Every reference this script records in a text: where it is and its
+ * canonical form. The site links the same ones (web/src/lib/bible-links.mjs).
+ */
+export function* citations(md) {
+  for (const re of SPOKEN) {
+    for (const m of md.matchAll(re)) {
+      const ref = spoken(m.groups);
+      if (ref) yield { index: m.index, text: m[0], ref };
+    }
+  }
   for (const match of md.matchAll(REF_RE)) {
     const [, bookVariant, , , verseEnd, extra] = match;
     let [, , chap, verseStart] = match;
@@ -219,80 +227,82 @@ function normalize(md) {
       verseEnd: verseEnd ?? null,
       extra: extra ?? null,
     });
-    found.push(rendered);
+    yield { index: match.index, text: match[0], ref: rendered };
   }
-  return [...new Set(found.filter(Boolean))].sort();
 }
 
 // ─── Driver ──────────────────────────────────────────────────────────────────
-function* walk(target) {
-  if (fs.statSync(target).isFile()) {
-    if (target.endsWith(".md")) yield target;
-    return;
-  }
-  for (const ent of fs.readdirSync(target, { withFileTypes: true })) {
-    const p = path.join(target, ent.name);
-    if (ent.isDirectory()) yield* walk(p);
-    else if (ent.isFile() && p.endsWith(".md")) yield p;
-  }
-}
-
-const args = process.argv.slice(2);
-const dryRun = args.includes("--dry");
-const targets = args.filter((a) => !a.startsWith("--"));
-
-const sources = targets.length > 0
-  ? targets.map((t) => path.resolve(t))
-  : ["mevar", "onedrive", "le-scribe", "cmpp", "local"] // branham is English: 66 owns it
-      .map((s) => path.join(root, "markdown", s))
-      .filter((d) => fs.existsSync(d));
-
-const refsBySource = {};
-const refsByFile = {};
-const scanned = [];
-let totalFiles = 0, totalRefs = 0;
-
-for (const source of sources) {
-  const sourceName = path.basename(source);
-  refsBySource[sourceName] = { files: 0, refs: 0, unique: new Set() };
-
-  for (const file of walk(source)) {
-    totalFiles++;
-    scanned.push(path.relative(root, file));
-    refsBySource[sourceName].files++;
-    const text = fs.readFileSync(file, "utf8");
-    const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
-
-    const refs = normalize(body);
-    if (refs.length) {
-      totalRefs += refs.length;
-      refsBySource[sourceName].refs += refs.length;
-      for (const r of refs) refsBySource[sourceName].unique.add(r);
-      refsByFile[path.relative(root, file)] = refs;
+// Only when run, not when the site imports citations().
+if (process.argv[1] === import.meta.filename) {
+  function* walk(target) {
+    if (fs.statSync(target).isFile()) {
+      if (target.endsWith(".md")) yield target;
+      return;
+    }
+    for (const ent of fs.readdirSync(target, { withFileTypes: true })) {
+      const p = path.join(target, ent.name);
+      if (ent.isDirectory()) yield* walk(p);
+      else if (ent.isFile() && p.endsWith(".md")) yield p;
     }
   }
-}
 
-// Output stats
-console.log(`bible refs normalized:`);
-console.log(`  files scanned: ${totalFiles}`);
-console.log(`  total ref instances: ${totalRefs}`);
-console.log(`  impossible refs dropped: ${dropped}`);
-console.log(`  by source:`);
-for (const [src, s] of Object.entries(refsBySource)) {
-  console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
-}
+  const args = process.argv.slice(2);
+  const dryRun = args.includes("--dry");
+  const targets = args.filter((a) => !a.startsWith("--"));
 
-// Persist per-file refs for later use (frontmatter integration etc.).
-// Merge, so a targeted run only rewrites the files it scanned — with no
-// target this is still a full rebuild of every French source.
-if (!dryRun) {
-  const outPath = path.join(root, "manifests/bible-refs.json");
-  const merged = JSON.parse(fs.readFileSync(outPath, "utf8"));
-  for (const rel of scanned) {
-    if (refsByFile[rel]) merged[rel] = refsByFile[rel];
-    else delete merged[rel];
+  const sources = targets.length > 0
+    ? targets.map((t) => path.resolve(t))
+    : ["mevar", "mevar-pdfs", "onedrive", "le-scribe", "cmpp", "local"] // branham is English: 66 owns it
+        .map((s) => path.join(root, "markdown", s))
+        .filter((d) => fs.existsSync(d));
+
+  const refsBySource = {};
+  const refsByFile = {};
+  const scanned = [];
+  let totalFiles = 0, totalRefs = 0;
+
+  for (const source of sources) {
+    const sourceName = path.basename(source);
+    refsBySource[sourceName] = { files: 0, refs: 0, unique: new Set() };
+
+    for (const file of walk(source)) {
+      totalFiles++;
+      scanned.push(path.relative(root, file));
+      refsBySource[sourceName].files++;
+      const text = fs.readFileSync(file, "utf8");
+      const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
+
+      const refs = [...new Set([...citations(body)].map((c) => c.ref))].sort();
+      if (refs.length) {
+        totalRefs += refs.length;
+        refsBySource[sourceName].refs += refs.length;
+        for (const r of refs) refsBySource[sourceName].unique.add(r);
+        refsByFile[path.relative(root, file)] = refs;
+      }
+    }
   }
-  fs.writeFileSync(outPath, JSON.stringify(merged, null, 2));
-  console.log(`  merged ${scanned.length} scanned files into manifests/bible-refs.json (${Object.keys(merged).length} keys)`);
+
+  // Output stats
+  console.log(`bible refs normalized:`);
+  console.log(`  files scanned: ${totalFiles}`);
+  console.log(`  total ref instances: ${totalRefs}`);
+  console.log(`  impossible refs dropped: ${dropped}`);
+  console.log(`  by source:`);
+  for (const [src, s] of Object.entries(refsBySource)) {
+    console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
+  }
+
+  // Persist per-file refs for later use (frontmatter integration etc.).
+  // Merge, so a targeted run only rewrites the files it scanned — with no
+  // target this is still a full rebuild of every French source.
+  if (!dryRun) {
+    const outPath = path.join(root, "manifests/bible-refs.json");
+    const merged = JSON.parse(fs.readFileSync(outPath, "utf8"));
+    for (const rel of scanned) {
+      if (refsByFile[rel]) merged[rel] = refsByFile[rel];
+      else delete merged[rel];
+    }
+    fs.writeFileSync(outPath, JSON.stringify(merged, null, 2));
+    console.log(`  merged ${scanned.length} scanned files into manifests/bible-refs.json (${Object.keys(merged).length} keys)`);
+  }
 }

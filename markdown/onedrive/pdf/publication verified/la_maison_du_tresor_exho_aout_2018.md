@@ -6,7 +6,7 @@ title: "LA MAISON DU TRESOR"
 subtitle: "Exhortation d'Août 2018"
 date: "2018-08-01"
 year: 2018
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur l'urgence de remplir la salle des Noces en allant chercher les derniers invités, comme dans la parabole des noces. Elle développe le thème de la Maison du trésor, où nos biens terrestres et spirituels doivent être placés dans le ciel, dans notre cœur consacré à Dieu. Elle encourage à exercer une foi active, même petite, pour accomplir de grandes choses."
 tags:
   - "Exhortations"

@@ -4,7 +4,7 @@ sermon_id: "enjeu"
 duplicate_of: "mevar/lenjeu"
 title: "L'ENJEU"
 location: "Koumassi"
-preacher: "frère KADJANY"
+preacher: "André Kadjany"
 summary: "Le prédicateur expose le conflit cosmique entre Dieu et Satan, dont l'enjeu est l'adoration que les hommes doivent à Dieu. À travers les exemples de Job, Noé, Israël et Jésus-Christ, il montre que Dieu cherche des adorateurs désintéressés, capables de l'aimer même au prix de leur vie, pour répondre au défi de Satan."
 tags:
   - "Prédications"

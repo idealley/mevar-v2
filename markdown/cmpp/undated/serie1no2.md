@@ -5,7 +5,7 @@ title: "La Nourriture Spirituelle au Temps Convenable"
 date: "1965-07-18"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la foi pour la guérison et compare le ministère d'Élie à l'époque actuelle, soulignant la sécheresse spirituelle et la nécessité de se nourrir de la Parole de Dieu au temps convenable."
 tags:
   - "foi"

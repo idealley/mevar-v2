@@ -6,7 +6,7 @@ title: "Se placer sous la bénédiction de Dieu"
 subtitle: "Exhortation de Mi-Février 2013"
 date: "2013-02-15"
 year: 2013
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore la nature de la bénédiction de Dieu comme faveur divine liée à une alliance. Elle distingue les bénédictions spirituelles de l'alliance des bénédictions matérielles hors alliance, et appelle les croyants à revenir à Dieu dans la repentance pour expérimenter la véritable bénédiction qui enrichit spirituellement."
 tags:
   - "Exhortations"

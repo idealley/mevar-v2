@@ -5,7 +5,7 @@ title: "LES PLEURS ET LES GRINCEMENTS DE DENTS"
 subtitle: "Exhortation de Juillet 2011"
 date: "2011-07-15"
 year: 2011
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation examine les différents contextes bibliques où Jésus parle de 'pleurs et grincements de dents', distinguant ceux qui sont jetés dans les ténèbres du dehors (grande tribulation) de ceux qui sont jetés dans la fournaise de feu (perdition éternelle). L'auteur met en garde contre l'incrédulité, le sommeil spirituel et l'iniquité, et encourage à se préparer pour l'enlèvement."
 tags:
   - "Exhortations"

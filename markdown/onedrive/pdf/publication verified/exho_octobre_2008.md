@@ -6,7 +6,7 @@ title: "La grande tentation et le chemin de la gloire"
 subtitle: "Exhortation d'Octobre 2008"
 date: "2008-10-01"
 year: 2008
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation d'octobre 2008 aborde la tentation comme chemin nécessaire vers la gloire, en s'appuyant sur la tentation de Jésus au désert. L'auteur met en garde contre les pièges de Satan qui cherche à détourner les croyants de la volonté de Dieu par des propositions charnelles, spectaculaires ou de gloire prématurée. Il encourage à persévérer dans l'obéissance et la foi, rappelant que Dieu prépare toujours une issue."
 tags:
   - "Exhortations"

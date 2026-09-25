@@ -5,7 +5,7 @@ duplicate_of: "mevar/cherchez-avec-le-seigneur"
 title: "Cherchez avec le Seigneur"
 date: "2019-10-01"
 year: 2019
-preacher: "Pasteur M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation encourage les croyants à avoir une foi authentique en Dieu, basée sur la connaissance de Lui et sur Ses promesses. Elle utilise des exemples bibliques (Josué, Zacharie, la pêche miraculeuse) pour montrer que la foi agit lorsque les choses ne fonctionnent pas normalement, et qu'il faut chercher avec le Seigneur pour obtenir des résultats. L'accent est mis sur la nécessité de rebâtir la maison de Dieu et de prendre toutes les armes spirituelles pour le combat de la foi."
 tags:
   - "foi"
@@ -39,6 +39,22 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf"
 local_pdf: "/files/mevar/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 1:20"
+  - "Actes 26:18"
+  - "Aggée 1"
+  - "Hébreux 11:1"
+  - "Jean 11:42"
+  - "Jean 14"
+  - "Jean 14:1"
+  - "Jean 5:19"
+  - "Josué 1"
+  - "Josué 7"
+  - "Luc 1:18-20"
+  - "Luc 5"
+  - "Marc 11:22"
+  - "Matthieu 7:7"
+  - "Éphésiens 6:14-18"
 ---
 Exhortation d’Octobre 2019
 

@@ -6,7 +6,7 @@ subtitle: "6 décembre 1965, soir"
 date: "1965-12-06"
 year: 1965
 location: "San Bernardino, Californie, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la nécessité de comprendre les événements modernes à la lumière de la prophétie biblique. Il compare l'état actuel de l'Église à la parabole du grain de blé, soulignant que chaque âge de l'Église a son message spécifique et que l'âge de l'Épouse est arrivé. Il insiste sur la révélation divine comme seule clé pour comprendre les Écritures, et met en garde contre les organisations religieuses qui s'éloignent de la Parole."
 tags:
   - "prophétie"

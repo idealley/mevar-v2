@@ -6,7 +6,7 @@ title: "Les Porteurs du Royaume de Dieu"
 subtitle: "Exhortation de Décembre 2012"
 date: "2012-12-01"
 year: 2012
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation de décembre 2012 appelle les croyants à être des porteurs dans le Royaume de Dieu, soutenant les malades spirituels et physiques par la prière et l'amour. Elle souligne que Dieu ne tarde pas, mais prépare ses élus, et que l'Église de Laodicée, comme la veuve d'Elisée, doit fournir des vases vides pour recevoir l'onction. Le texte insiste sur la sainteté, la repentance et la foi agissante pour voir la délivrance."
 tags:
   - "Exhortations"

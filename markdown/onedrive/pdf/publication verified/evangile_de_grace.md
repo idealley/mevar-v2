@@ -7,7 +7,7 @@ subtitle: "Exhortation de Janvier 2011"
 date: "2011-01-16"
 year: 2011
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que l'Évangile de grâce repose sur l'amour de Dieu manifesté en Christ, et que celui qui le reçoit doit renoncer à vivre pour lui-même pour vivre pour Dieu et pour les autres. Il insiste sur le fait que l'Évangile interdit de vivre pour soi-même et appelle à aimer Dieu et son prochain, y compris ses ennemis."
 tags:
   - "Prédications"

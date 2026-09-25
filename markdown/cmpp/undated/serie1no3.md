@@ -5,7 +5,7 @@ title: "Les oints du temps de la fin"
 date: "1965-07-25"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur Matthieu 24.24, expliquant que dans les derniers temps, de faux christs et de faux prophètes oints du Saint-Esprit produiront des signes et des miracles, séduisant même les élus s'il était possible. Il utilise la parabole du bon grain et de l'ivraie, ainsi que l'exemple de Balaam, pour montrer que la même onction peut reposer sur les justes et les injustes, mais que le fruit (la Parole) révèle la véritable nature."
 tags:
   - "faux prophètes"

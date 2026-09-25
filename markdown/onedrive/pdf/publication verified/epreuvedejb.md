@@ -4,7 +4,7 @@ sermon_id: "epreuvedejb"
 duplicate_of: "mevar/l-epreuve-de-jean-baptiste"
 title: "L'épreuve de Jean Baptiste"
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur examine l'épreuve de Jean-Baptiste, qui après avoir reçu une révélation divine sur le Messie, a douté en prison. Il compare cette épreuve à la prison spirituelle de l'esprit babylonien qui attaque les croyants aujourd'hui, les amenant à remettre en cause les révélations et prophéties. Il exhorte à ne pas mépriser les prophéties, à entretenir la communion avec Dieu par la prière et à résister au doute."
 tags:
   - "Exhortations"

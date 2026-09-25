@@ -6,7 +6,7 @@ title: "Et soudain entrera dans son temple, le Seigneur que vous cherchez"
 date: "2015-12-16"
 year: 2015
 location: "Matadi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que le message du temps de la fin a pour but de préparer le temple de Dieu, c'est-à-dire les croyants, afin que Christ habite corporellement en eux. Il met en garde contre la tiédeur et le sommeil spirituel de Laodicée, appelant à la repentance et au réveil pour être prêts à recevoir le Seigneur."
 tags:
   - "temple de Dieu"
@@ -37,6 +37,14 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf"
 local_pdf: "/files/mevar/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 7"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14"
+  - "Malachie 3"
+  - "Malachie 3:1"
+  - "Matthieu 24"
+  - "Matthieu 25"
 ---
 *Et soudain entrera dans son temple, le Seigneur que vous cherchez, prêché le 16 Décembre 2015 à Matadi par le frère M'BRA Parfait (RDC)*
 

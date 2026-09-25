@@ -6,7 +6,7 @@ title: "Le Message des 7 Sceaux (premier sceau)"
 date: "2019-07-01"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message introduit une série sur les 7 sceaux, soulignant l'importance de la révélation des sceaux pour la fin des temps. Il exhorte les croyants à prendre une position de sauveur et d'intercesseur plutôt que d'accusateur, et explique que l'ouverture des sceaux par Christ conduit à la maturité spirituelle et à la préparation de l'Épouse pour l'enlèvement."
 tags:
   - "7 sceaux"
@@ -42,6 +42,21 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/7_Sceaux_1.pdf"
 local_pdf: "/files/mevar/7_Sceaux_1.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:18"
+  - "1 Jean 4"
+  - "1 Samuel 8:3-9"
+  - "Apocalypse 17"
+  - "Apocalypse 19:11"
+  - "Apocalypse 1:1"
+  - "Apocalypse 1:12"
+  - "Apocalypse 2"
+  - "Apocalypse 5"
+  - "Apocalypse 6"
+  - "Matthieu 24:28"
+  - "Matthieu 24:31"
+  - "Matthieu 25"
+  - "Ésaïe 46"
 ---
 Le Message des 7 Sceaux (premier sceau), prêché à Koumassi le dimanche 1ᵉʳ Juillet 2019 par le frère M’BRA Parfait
 

@@ -6,7 +6,7 @@ title: "Le témoignage de Dieu"
 date: "2022-01-15"
 year: 2022
 location: "Matadi, Congo"
-preacher: "Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "L'exhortation souligne l'importance du témoignage que Dieu rend de ses serviteurs, en prenant l'exemple de Noé, Daniel et Job. Ces trois hommes ont vécu dans des temps difficiles et ont influencé Dieu par leur conduite. L'orateur encourage les croyants à avoir un cœur tourné vers le retour de Jésus et à triompher du péché et du monde pour recevoir un bon témoignage de Dieu."
 tags:
   - "témoignage"
@@ -37,6 +37,14 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
 local_pdf: "/files/mevar/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2"
+  - "Apocalypse 6"
+  - "Genèse 6"
+  - "Luc 17"
+  - "Matthieu 6"
+  - "Ézéchiel 14"
+  - "Ézéchiel 14:12"
 ---
 *Le témoignage de Dieu*
 *Prêché le 15 janvier 2022*

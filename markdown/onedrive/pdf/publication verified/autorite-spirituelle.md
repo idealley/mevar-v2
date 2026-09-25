@@ -7,7 +7,7 @@ subtitle: "Exhortation de Mai 2015"
 date: "2015-05-24"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que l'autorité spirituelle est source de foi et que le croyant doit comprendre sa position en Christ pour combattre efficacement le diable. Il insiste sur le fait que Jésus a reçu tout pouvoir dans les cieux et sur la terre, et que l'Église, en tant que Corps de Christ, participe à cette autorité. La foi commence par croire en son identité de fils de Dieu."
 tags:
   - "Prédications"

@@ -6,7 +6,7 @@ title: "Exhortation du Mois de Juillet 2006"
 subtitle: "REVEILLEZ-VOUS ET PREPAREZ LA GUERRE !"
 date: "2006-07"
 year: 2006
-preacher: "Fr. M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation appelle les croyants à se préparer au combat spirituel final contre Babylone. Elle détaille les stratégies de Satan (division, infiltration par le péché, ruse, camouflage) et les armes spirituelles pour y faire face, insistant sur l'unité, la prière et la Parole de Dieu."
 tags:
   - "Exhortations"

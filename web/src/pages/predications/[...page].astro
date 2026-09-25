@@ -2,20 +2,23 @@
 import type { GetStaticPaths } from "astro";
 import Layout from "../../layouts/Layout.astro";
 import CategoryGrid from "../../components/CategoryGrid.astro";
-import { worksByKind, PAGE_SIZE } from "$lib/works";
+import ArchiveBlock from "../../components/ArchiveBlock.astro";
+import { categoryWorks, PAGE_SIZE } from "$lib/works";
 
 export const getStaticPaths = (async ({ paginate }) => {
-  const entries = await worksByKind("sermon");
-  return paginate(entries, { pageSize: PAGE_SIZE });
+  const { mevar, archive } = await categoryWorks("predications");
+  return paginate(mevar, { pageSize: PAGE_SIZE, props: { archive } });
 }) satisfies GetStaticPaths;
 
-const { page } = Astro.props;
+const { page, archive } = Astro.props;
 ---
 
-<Layout title="Prédications — Mevar" description={`${page.total} prédications dans la bibliothèque Mevar`}>
+<Layout title="Prédications · Mevar" description={`${page.total} prédications de la mission MEVAR`}>
   <CategoryGrid
     title="Prédications"
-    description="Les prédications du Message du temps de la fin — sermons de William Branham, du frère M'BRA Parfait, et d'autres serviteurs de Dieu."
+    description="Les prédications de la mission MEVAR."
     page={page}
-  />
+  >
+    <ArchiveBlock category="predications" archive={archive} />
+  </CategoryGrid>
 </Layout>

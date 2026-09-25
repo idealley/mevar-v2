@@ -6,7 +6,7 @@ title: "Des noms sous des prophéties"
 date: "2021-06-06"
 year: 2021
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message explore comment Dieu associe des noms spécifiques à l'accomplissement de ses prophéties, depuis Genèse 3 jusqu'à la fin des temps. Il montre que chaque prophétie biblique a des personnes désignées pour l'exécuter, et que les croyants d'aujourd'hui peuvent avoir leur nom inscrit dans les prophéties de la fin des temps."
 tags:
   - "prophétie"
@@ -51,6 +51,24 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/des_noms_sous_les_propheties_06.06.2021.pdf"
 local_pdf: "/files/mevar/des_noms_sous_les_propheties_06.06.2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2"
+  - "Genèse 3"
+  - "Genèse 3:14-15"
+  - "Genèse 3:15"
+  - "Jean 8:44"
+  - "Malachie 4"
+  - "Malachie 4:5"
+  - "Matthieu 12:34"
+  - "Matthieu 24"
+  - "Matthieu 24:45"
+  - "Matthieu 25"
+  - "Matthieu 3:7-9"
+  - "Michée 6:4"
+  - "Éphésiens 2:2-5"
+  - "Ésaïe 46"
+  - "Ésaïe 53"
+  - "Ésaïe 53:9"
 ---
 Des noms sous des prophéties
 

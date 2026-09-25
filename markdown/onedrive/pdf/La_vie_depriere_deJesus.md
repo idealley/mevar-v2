@@ -6,7 +6,7 @@ subtitle: "Exhortation de Décembre 2007"
 date: "2007-12-16"
 year: 2007
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur partage son expérience personnelle et les enseignements de Jésus sur la prière, insistant sur l'importance de prier la nuit, dans l'isolement, et en persévérant sur un seul sujet (Gethsémané). Il encourage les chrétiens à passer de la prière ordinaire à une vie de prière intense pour expérimenter la puissance de Dieu."
 tags:
   - "Exhortations"

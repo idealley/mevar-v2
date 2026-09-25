@@ -6,7 +6,7 @@ title: "L'ÎLE DE PATMOS – L'ÎLE DE LA REVELATION"
 subtitle: "Exhortation de Mai 2014"
 date: "2014-05-01"
 year: 2014
-preacher: "Fr M'BRA PARFAIT"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore la signification spirituelle de l'île de Patmos comme lieu de tribulation et de révélation. L'auteur encourage les croyants à embrasser les épreuves comme moyen de croissance et de préparation pour devenir des libérateurs du peuple de Dieu, à l'image de David et de Jean. Il souligne l'importance de l'expérience de la parole de Dieu pour vaincre les puissances des ténèbres."
 tags:
   - "Exhortations"

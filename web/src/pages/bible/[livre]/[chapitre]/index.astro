@@ -1,0 +1,54 @@
+---
+// /bible/<livre>/<chapitre>/: the works citing each verse of a chapter, whole-
+// chapter references first. A section of more than PAGE_SIZE works shows its
+// first ones and links to its own paginated page ([section]/).
+import Layout from "../../../../layouts/Layout.astro";
+import VerseWorks from "../../../../components/VerseWorks.astro";
+import { PAGE_SIZE, bibleChapters, type Chapter } from "$lib/works";
+import { bookName, chapterUrl } from "$lib/bible.mjs";
+
+export async function getStaticPaths() {
+  return [...(await bibleChapters()).values()].map((c) => {
+    const [, , livre, chapitre] = chapterUrl(c.book, c.chapter).split("/");
+    return { params: { livre, chapitre }, props: { c } };
+  });
+}
+
+const { c } = Astro.props as { c: Chapter };
+const name = `${bookName(c.book)} ${c.chapter}`;
+const url = chapterUrl(c.book, c.chapter);
+const SHOWN = 10;
+const sections = [
+  ...(c.whole.length ? [{ id: "tout", title: `${name}, tout le chapitre`, works: c.whole }] : []),
+  ...[...c.verses.keys()].sort((a, b) => a - b).map((v) => ({ id: `v${v}`, title: `${name}:${v}`, works: c.verses.get(v)! })),
+];
+---
+
+<Layout title={`${name} · Mevar`} description={`Les prédications et études qui citent ${name}`}>
+  <div class="container mx-auto px-4 py-12 md:py-16 max-w-3xl">
+    <header class="mb-10">
+      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">{name}</h1>
+      <p class="text-lg text-muted-foreground">
+        Les textes de la bibliothèque qui citent {name}, verset par verset&nbsp;: ceux
+        de la mission d'abord, puis les archives.
+      </p>
+    </header>
+    {sections.map((s) => (
+      <section id={s.id} class="mb-8">
+        <h2 class="text-xl font-semibold tracking-tight">{s.title}</h2>
+        {s.works.length > PAGE_SIZE ? (
+          <>
+            <VerseWorks works={s.works.slice(0, SHOWN)} />
+            <p class="mt-2 text-sm">
+              <a href={`${url}${s.id.replace(/^v/, "")}/`} class="font-medium text-primary hover:underline">
+                Les {s.works.length.toLocaleString("fr-FR")} textes →
+              </a>
+            </p>
+          </>
+        ) : (
+          <VerseWorks works={s.works} />
+        )}
+      </section>
+    ))}
+  </div>
+</Layout>

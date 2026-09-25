@@ -7,7 +7,7 @@ subtitle: "Première partie"
 date: "2019-09-23"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique pourquoi les prières des chrétiens ne sont pas toujours exaucées, en se basant sur des textes bibliques comme Esaïe 55, Jacques 4, Proverbes 16 et Aggée 1. Il identifie des obstacles tels que la convoitise, la jalousie, les mauvaises motivations, et le fait de ne pas aligner ses projets sur les intérêts de Dieu. Il insiste sur l'importance de recommander ses œuvres à Dieu et de considérer ses activités comme un ministère au service de l'œuvre divine."
 tags:
   - "prière"
@@ -43,6 +43,17 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
 local_pdf: "/files/mevar/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 11"
+  - "2 Rois 8:9"
+  - "Aggée 1"
+  - "Deutéronome 16:16"
+  - "Jacques 4"
+  - "Luc 8:1-3"
+  - "Lévitique 7:11-13"
+  - "Proverbes 16"
+  - "Proverbes 21"
+  - "Ésaïe 55"
 ---
 *Pourquoi ne sommes-nous pas exaucés ? Première partie, prêché le dimanche 23 septembre 2019 à Koumassi par le frère M'BRA Parfait*
 

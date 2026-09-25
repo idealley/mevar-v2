@@ -7,7 +7,7 @@ subtitle: "Exhortation de Novembre 2012"
 date: "2012-11-08"
 year: 2012
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte le petit troupeau à réaliser que Dieu investit en eux comme son trésor, et que là où est leur trésor, là est leur cœur. Il insiste sur la nécessité de la révélation pour comprendre la Parole et de ne pas investir là où Dieu n'investit pas."
 tags:
   - "Exhortations"

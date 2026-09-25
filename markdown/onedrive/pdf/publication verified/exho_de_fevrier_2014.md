@@ -6,7 +6,7 @@ title: "Tu demandes une chose difficile"
 subtitle: "Exhortation de Février 2014"
 date: "2014-02-01"
 year: 2014
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation développe le thème de la semence de la perfection et de la maturité spirituelle attendue de l'Épouse dans le Message du temps de la fin. S'appuyant sur l'histoire d'Élie et Élisée, l'auteur souligne que la double portion de l'Esprit est une chose difficile à obtenir, nécessitant la traversée du Jourdain (mort du vieil homme) et la vision de l'enlèvement. Il appelle les croyants à persévérer dans la sanctification et l'amour pour hériter de la puissance de Dieu."
 tags:
   - "Exhortations"

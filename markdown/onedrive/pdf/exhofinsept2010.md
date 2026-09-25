@@ -5,7 +5,7 @@ title: "LE TEMOIGNAGE DE DIEU"
 subtitle: "Exhortation de Septembre 2010"
 date: "2010-09-01"
 year: 2010
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation s'appuie sur 1 Jean 5:9 et Nombres 17 pour montrer que Dieu rendra témoignage en faveur de ses serviteurs choisis, comme la verge d'Aaron a fleuri. Elle met en garde contre l'esprit de rébellion et de murmure qui a causé la perte des enfants d'Israël dans le désert, et encourage les croyants à persévérer dans la foi en attendant le verdict divin."
 tags:
   - "Exhortations"

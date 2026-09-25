@@ -7,7 +7,7 @@ subtitle: "Exhortation de Juillet 2015"
 date: "2015-07-25"
 year: 2015
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur la nécessité de mettre en pratique la Parole de Dieu et de développer une foi responsable. S'appuyant sur Josué 10, le prédicateur montre que la foi permet de commander à la création et de vaincre les puissances des ténèbres. Il encourage les croyants à croire en leur nature divine et à exercer l'autorité spirituelle reçue de Dieu."
 tags:
   - "Exhortations"

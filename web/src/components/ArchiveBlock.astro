@@ -1,0 +1,29 @@
+---
+// Below a category's Mevar list, on every page of it: the archive of that
+// category, a count and a link per source.
+import { ARCHIVE_SOURCES, type WorkEntry } from "$lib/works";
+
+interface Props {
+  category: string;
+  archive: { source: string; works: WorkEntry[] }[];
+}
+
+const { category, archive } = Astro.props;
+---
+
+{archive.length > 0 && (
+  <aside class="mt-14 pt-8 border-t max-w-2xl" aria-labelledby="archives">
+    <h2 id="archives" class="text-xl font-semibold tracking-tight mb-2">Archives</h2>
+    <p class="text-sm text-muted-foreground mb-4">
+      Des textes de contexte et d'histoire, à côté des publications de la mission.
+    </p>
+    <ul class="space-y-2">
+      {archive.map((a) => (
+        <li>
+          <a href={`/${category}/archives/${a.source}/`} class="underline underline-offset-4">{ARCHIVE_SOURCES[a.source]}</a>
+          <span class="text-sm text-muted-foreground"> · {a.works.length.toLocaleString("fr-FR")}</span>
+        </li>
+      ))}
+    </ul>
+  </aside>
+)}

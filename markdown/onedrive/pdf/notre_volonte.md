@@ -7,7 +7,7 @@ subtitle: "Exhortation de Décembre 2013"
 date: "2013-12-01"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que Dieu a créé l'homme avec une volonté propre, et que le chrétien ne perd pas sa volonté en devenant croyant. Il met en garde contre l'esprit de passivité qui aliène la volonté et empêche d'agir pour Dieu. Il exhorte à exprimer sa volonté en faveur de Dieu, à prendre des initiatives spirituelles et à pratiquer la Parole pour se préparer à l'enlèvement."
 tags:
   - "Exhortations"

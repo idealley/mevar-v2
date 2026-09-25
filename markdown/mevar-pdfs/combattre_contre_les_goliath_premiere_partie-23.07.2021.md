@@ -6,7 +6,7 @@ title: "L'enjeu du combat contre Goliath – Partie 1"
 date: "2021-07-23"
 year: 2021
 location: "Bouaké"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation compare le combat spirituel du chrétien à celui de David contre Goliath, soulignant que les démons cherchent à réduire les croyants en esclavage. Le prédicateur encourage à se lever par la foi pour terrasser ces esprits forts, rappelant que la victoire est en Jésus-Christ."
 tags:
   - "combat spirituel"
@@ -40,6 +40,9 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
 local_pdf: "/files/mevar/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 17"
+  - "2 Pierre 2:17"
 ---
 L'enjeu du combat contre Goliath – Partie 1
 

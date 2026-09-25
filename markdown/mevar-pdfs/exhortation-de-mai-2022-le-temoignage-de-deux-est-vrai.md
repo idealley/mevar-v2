@@ -5,7 +5,7 @@ duplicate_of: "mevar/le-temoignage-de-deux-est-vrai"
 title: "Le Témoignage de Deux Est Vrai"
 date: "2022-05-31"
 year: 2022
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation souligne l'importance du double témoignage (le nôtre et celui de Dieu) dans la vie chrétienne, et montre que l'épreuve est nécessaire pour révéler la qualité de notre foi et de notre œuvre en Christ, en vue de la gloire et de la manifestation des fils de Dieu."
 tags:
   - "témoignage"
@@ -43,6 +43,24 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf"
 local_pdf: "/files/mevar/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 3:11-17"
+  - "1 Corinthiens 3:13"
+  - "1 Pierre 1:6-7"
+  - "1 Pierre 4:12-13"
+  - "1 Pierre 4:14-16"
+  - "Hébreux 11:5"
+  - "Jacques 1:1-4"
+  - "Jacques 5:11"
+  - "Jacques 5:13"
+  - "Jean 8:12"
+  - "Jean 8:14"
+  - "Jean 8:17"
+  - "Job 1:8"
+  - "Matthieu 7"
+  - "Éphésiens 6"
+  - "Éphésiens 6:13"
 ---
 *Exhortation Fin Mai 2022*
 

@@ -7,7 +7,7 @@ subtitle: "Exhortation d'Août 2012"
 date: "2012-08-31"
 year: 2012
 location: "Houndé, Burkina Faso"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les chrétiens à cultiver une hostilité spirituelle envers Satan, seul ennemi véritable, et à mener un combat spirituel déterminé pour libérer leur maison et leur vie de toute influence démoniaque, en s'appuyant sur la puissance de Dieu et la persévérance."
 tags:
   - "Exhortations"

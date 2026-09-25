@@ -6,7 +6,7 @@ subtitle: "15 août 1965, matin"
 date: "1965-08-15"
 year: 1965
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur l'âge de l'Église de Laodicée, dénonçant l'aveuglement spirituel et le conformisme mondain. Il critique les femmes prédicatrices, les vêtements immoraux, et le système religieux tiède, appelant à la repentance et à la sainteté selon la Parole."
 tags:
   - "Laodicée"

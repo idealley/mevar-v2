@@ -6,7 +6,7 @@ title: "Les miracles et les fruits de l’Esprit"
 date: "2021-08-08"
 year: 2021
 location: "Koumassi"
-preacher: "Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "Ce message distingue clairement les miracles (manifestations de la puissance de Dieu) des fruits de l’Esprit (manifestations de la vie et de la nature de Dieu). Il met en garde contre les faux prophètes qui peuvent opérer des miracles mais ne portent pas de bons fruits, et insiste sur la nécessité de produire les fruits de l’Esprit par la décision de laisser Christ vivre en nous, à travers les épreuves et l’humiliation."
 tags:
   - "miracles"
@@ -35,6 +35,16 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
 local_pdf: "/files/mevar/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "2 Pierre 1"
+  - "2 Pierre 1:5-11"
+  - "Apocalypse 3"
+  - "Exode 32:32-33"
+  - "Galates 5:19-24"
+  - "Galates 5:22"
+  - "Marc 16:15-19"
 ---
 *Prêché le 8 août 2021 à Koumassi par Parfait M’BRA*
 

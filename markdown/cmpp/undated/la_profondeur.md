@@ -6,7 +6,7 @@ subtitle: "Washington D.C., juillet 1954"
 date: "1954-07-01"
 year: 1954
 location: "Washington D.C."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème 'La profondeur appelle la profondeur', expliquant que tout désir spirituel vient de Dieu et trouve sa réponse en Lui. Il utilise l'exemple de Siméon et Anne, ainsi que des observations de la nature, pour illustrer comment le Saint-Esprit conduit les croyants à Christ. Il termine par une prière pour les malades et des démonstrations de guérison divine."
 tags:
   - "guérison divine"

@@ -6,7 +6,7 @@ subtitle: "Exhortation de Septembre 2013"
 date: "2013-09-01"
 year: 2013
 location: "Ouagadougou"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur insiste sur l'importance de l'onction divine qui distingue les vrais serviteurs de Dieu. Il met en garde contre les faux prophètes et les substituts à la promesse de Dieu, appelant à la préparation, à la sainteté et à la persévérance dans le Message du temps de la fin."
 tags:
   - "Prédications"

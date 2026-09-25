@@ -6,7 +6,7 @@ title: "Ayez du zèle et non de la paresse !"
 subtitle: "Exhortation spéciale du Mois d'Août 2006"
 date: "2006-08"
 year: 2006
-preacher: "KOUADIO Pierre"
+preacher: "Pierre Kouadio"
 summary: "Cette exhortation, basée sur Romains 12:11, appelle les croyants du Message du temps de la fin à rejeter la paresse et à cultiver le zèle dans leur vie spirituelle et pratique. L'auteur dénonce les manifestations de la paresse (négligence, sommeil spirituel, manque de prière et de jeûne) et encourage à la repentance, à la ferveur de l'esprit et au service du Seigneur, en s'appuyant sur des exemples bibliques et ceux de William Branham."
 tags:
   - "Exhortations"

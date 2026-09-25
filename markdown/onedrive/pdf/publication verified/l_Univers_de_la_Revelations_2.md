@@ -6,7 +6,7 @@ title: "L'univers de la révélation 2"
 date: "2018-10-29"
 year: 2018
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message aborde les fausses révélations et leurs conséquences, en s'appuyant sur les exemples bibliques de Jérémie 28 et 1 Rois 13. L'orateur distingue deux catégories de faux prophètes : ceux qui ne sont jamais envoyés par Dieu et ceux qui, bien qu'authentiques, corrompent leur ministère. Il met en garde contre les révélations qui contredisent l'orientation spirituelle donnée à l'église et insiste sur la nécessité de discerner les esprits."
 tags:
   - "Exhortations"

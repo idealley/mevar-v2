@@ -6,7 +6,7 @@ title: "LE LIVRE DES CHRONIQUES DE DIEU"
 subtitle: "Exhortation de Février 2017"
 date: "2017-02-01"
 year: 2017
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur la nécessité de la violence spirituelle pour s'emparer de l'enlèvement, en référence à Matthieu 11:12. Elle rappelle que les œuvres justes sont essentielles à la préparation de l'Épouse, et que Dieu se souvient des bonnes œuvres de ses serviteurs, comme dans l'histoire de Mardochée et Corneille. L'auteur appelle les croyants à démontrer leur foi par leurs actes et à supporter le châtiment divin pour être purifiés."
 tags:
   - "Exhortations"

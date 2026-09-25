@@ -7,7 +7,7 @@ subtitle: "Exhortation d'Août 2017"
 date: "2017-08-01"
 year: 2017
 location: "Yamoussoukro"
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation développe le thème de la porte ouverte à partir d'Apocalypse 3:8, en lien avec l'Église de Philadelphie et les portes ouvertes à Éphèse et Corinthe. L'auteur appelle à la repentance et à la consécration pour emprunter la nouvelle porte du Cri de Minuit, suite à la Convention de Yamoussoukro d'août 2017, où une prophétie a annoncé que Dieu a tout donné à son peuple et les engage dans un combat final contre l'esprit antichrist et l'esprit religieux."
 tags:
   - "Exhortations"

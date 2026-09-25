@@ -7,7 +7,7 @@ subtitle: "Exhortation de Janvier 2017"
 date: "2017-01-15"
 year: 2017
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que toute offrande à Dieu doit être 'salée', c'est-à-dire accompagnée de sacrifice, à l'image de Jésus-Christ. Il insiste sur la nécessité du renoncement à soi-même et de la souffrance pour plaire à Dieu, en s'appuyant sur Lévitique 2:13, Marc 9:43-50 et l'histoire du jeune homme riche."
 tags:
   - "Prédications"

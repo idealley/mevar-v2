@@ -6,7 +6,7 @@ title: "L’Univers de la révélation 1"
 date: "2018-10-22"
 year: 2018
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Enseignement sur les révélations : définition, modes de transmission, but, distinction entre révélations personnelles et collectives, nécessité d'éprouver les révélations, maîtrise de soi dans la transmission, et mise en garde contre les fausses révélations."
 tags:
   - "Exhortations"

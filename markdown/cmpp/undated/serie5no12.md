@@ -6,7 +6,7 @@ subtitle: "9 février 1964, après-midi, Fairgrounds, Bakersfield — Californie
 date: "1964-02-09"
 year: 1964
 location: "Bakersfield, Californie, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham utilise des analogies naturelles (cheval, automobile, avion, astronaute) pour illustrer les âges de l'Église et la progression spirituelle. Il compare le compte à rebours scientifique au compte à rebours divin des sept âges de l'Église, culminant avec l'enlèvement de l'Épouse. Il souligne que les réalisations naturelles sont des types des réalités spirituelles."
 tags:
   - "compte à rebours"

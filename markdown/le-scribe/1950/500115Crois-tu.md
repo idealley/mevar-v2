@@ -1,3 +1,28 @@
+---
+source: "le-scribe"
+sermon_id: "500115Crois-tu"
+title: "Crois-tu cela ?"
+subtitle: "Believest Thou This?"
+date: "1950-01-15"
+year: 1950
+location: "Houston (Texas)"
+preacher: "William Branham"
+pdf_url: "http://le-scribe.org/pdfiles/500115Crois-tu.pdf"
+bible_refs:
+  - "Actes 2:39"
+  - "Jean 11:20-27"
+  - "Jean 1:23"
+  - "Jean 3:3,5"
+  - "Jérémie 1:5"
+  - "Luc 1:38"
+  - "Luc 1:44"
+  - "Marc 16:17-18"
+  - "Marc 9:20"
+  - "Romains 8:28"
+  - "Ésaïe 40:3"
+  - "Ésaïe 53:5"
+original: "branham/1950/50-0115"
+---
  _____________________________________________________
 
    CROIS-TU CELA ?

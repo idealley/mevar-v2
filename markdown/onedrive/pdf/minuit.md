@@ -6,7 +6,7 @@ subtitle: "Exhortation spéciale du Mois de Décembre 2006"
 date: "2006-12-01"
 year: 2006
 location: "Soubré"
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur l'importance de la sanctification, du jeûne et de la prière pour se préparer à la rencontre avec l'Epoux. Elle compare la situation de l'Eglise à celle des vierges sages et folles de Matthieu 25, et appelle les croyants à se réveiller et à se purifier pour être prêts pour l'enlèvement."
 tags:
   - "Exhortations"

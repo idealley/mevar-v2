@@ -6,7 +6,7 @@ title: "Le ministère de l’Esprit dans le royaume de Dieu"
 date: "2021-03-07"
 year: 2021
 location: "Koumassi"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur expose la différence entre le ministère lévitique de l'Ancien Testament et le ministère de l'Esprit dans la nouvelle alliance, où chaque croyant est le temple du Saint-Esprit et a un accès direct à Dieu par Jésus-Christ, sans intermédiaire humain. Il illustre la continuité de l'œuvre de Dieu à travers les exemples d'Élie et Élisée, Moïse et Josué, et la conversion de Paul, soulignant que la connexion spirituelle vient de Dieu seul."
 tags:
   - "ministère de l'Esprit"
@@ -44,6 +44,16 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf"
 local_pdf: "/files/mevar/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Rois 19"
+  - "2 Corinthiens 3"
+  - "Actes 9"
+  - "Exode 3"
+  - "Galates 1"
+  - "Jean 15"
+  - "Josué 1"
+  - "Josué 5"
 ---
 Le ministère de l’Esprit dans le royaume de Dieu
 

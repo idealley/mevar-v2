@@ -7,7 +7,7 @@ subtitle: "Convention de Lakota, samedi matin 1er Avril 2018"
 date: "2018-04-01"
 year: 2018
 location: "Lakota"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les pasteurs à adopter la vision du souverain Berger, Jésus-Christ, qui est de produire du fruit dans le troupeau. Il insiste sur la responsabilité des pasteurs de prendre soin des brebis, de les amener à porter le fruit de l'Esprit, et de ne pas se limiter à leur seul ministère mais de faire appel à d'autres serviteurs de Dieu. Il met en garde contre la négligence, la domination et l'attachement aux biens matériels, et appelle à un réveil des pasteurs pour manifester Christ dans l'Église."
 tags:
   - "Exhortations"

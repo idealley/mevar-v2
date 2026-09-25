@@ -6,7 +6,7 @@ title: "Manger le Sacrifice"
 date: "2020-10-20"
 year: 2020
 location: "Muraz - Suisse"
-preacher: "Pouyt Samuel"
+preacher: "Samuel Pouyt"
 summary: "À partir d'Aggée 2, l'auteur établit un parallèle entre le peuple juif revenant de Babylone et les croyants d'aujourd'hui, appelés à construire le temple spirituel de Dieu. Il explique le sens des sacrifices de l'Ancien Testament (holocauste, expiation, action de grâces) accomplis en Jésus-Christ, et insiste sur la nécessité d'être pur pour manger le sacrifice, c'est-à-dire participer à la sainte cène et se nourrir de la révélation de Dieu."
 tags:
   - "sacrifice"
@@ -42,6 +42,33 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/manger-le-sacrifice-20-octobre-2020.pdf"
 local_pdf: "/files/mevar/manger-le-sacrifice-20-octobre-2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:26-30"
+  - "Aggée 2:11-14"
+  - "Apocalypse 1:4-6"
+  - "Apocalypse 5:12"
+  - "Apocalypse 5:5-13"
+  - "Jean 12:26"
+  - "Jean 20:17"
+  - "Luc 17:37"
+  - "Lévitique 1:3-4"
+  - "Lévitique 1:6"
+  - "Lévitique 1:9"
+  - "Lévitique 6"
+  - "Lévitique 6:11"
+  - "Lévitique 6:11-22"
+  - "Lévitique 6:18-20"
+  - "Lévitique 6:19"
+  - "Lévitique 6:21"
+  - "Lévitique 6:22"
+  - "Lévitique 7:19"
+  - "Lévitique 7:19-21"
+  - "Marc 10:38-39"
+  - "Matthieu 24:28"
+  - "Matthieu 26:26"
+  - "Nombres 9:17-18"
+  - "Éphésiens 2:22"
+  - "Ésaïe 53:12"
 ---
 *Pouyt Samuel - Muraz - Suisse - 20.10.2020*
 

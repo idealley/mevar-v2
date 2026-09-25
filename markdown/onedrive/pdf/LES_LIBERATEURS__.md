@@ -7,7 +7,7 @@ subtitle: "Exhortation de Juillet 2014"
 date: "2014-07-13"
 year: 2014
 location: "Koumassi"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message exhorte les croyants à comprendre que Dieu suscite des libérateurs pour son peuple, comme dans le livre des Juges. Il insiste sur la nécessité d'une formation spirituelle par les épreuves pour pouvoir libérer les autres et manifester la gloire de Jésus-Christ avant l'enlèvement."
 tags:
   - "Prédications"

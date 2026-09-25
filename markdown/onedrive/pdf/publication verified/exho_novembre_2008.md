@@ -6,7 +6,7 @@ title: "Exhortation du Mois de Novembre 2008"
 subtitle: "Prenez garde à ce que vous entendez"
 date: "2008-11-01"
 year: 2008
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation met en garde les croyants sur l'importance d'écouter attentivement la Parole de Dieu à l'heure actuelle, car le diable cherche à corrompre l'entendement. L'auteur aborde le départ de certains collaborateurs et les compare à Jonathan, qui n'a pas su se séparer de son père Saül pour suivre David. Il appelle à la vigilance et à la rupture avec les vieilles habitudes religieuses pour recevoir le vin nouveau du réveil."
 tags:
   - "Exhortations"

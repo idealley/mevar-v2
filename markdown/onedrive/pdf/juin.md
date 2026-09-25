@@ -6,7 +6,7 @@ title: "Souvenez-vous !"
 subtitle: "Exhortation de Juin 2006"
 date: "2006-06-01"
 year: 2006
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur l'importance du souvenir dans la vie chrétienne, en s'appuyant sur des exemples bibliques où Dieu demande à son peuple de se souvenir de ses œuvres. L'auteur met en garde contre l'oubli de Dieu qui conduit à la religion et à la tiédeur, et appelle les croyants à revenir à la Vérité de la Parole et à l'expérience des Actes des Apôtres."
 tags:
   - "Exhortations"

@@ -6,7 +6,7 @@ subtitle: "Cinquième Sceau"
 date: "1963-03-22"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Prédication sur le cinquième sceau de l'Apocalypse (6.9-11), expliquant que les âmes sous l'autel sont celles des martyrs de la Parole. Branham montre qu'après le quatrième sceau, il n'y a plus d'être vivant pour annoncer les sceaux, car l'Église est enlevée et l'antichrist a achevé sa course. Il insiste sur la simplicité de Dieu et la révélation par la foi."
 tags:
   - "cinquième sceau"

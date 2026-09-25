@@ -5,7 +5,7 @@ duplicate_of: "onedrive/les_cinq_ministeres_de_la_parole"
 title: "Les 5 Ministères de la Parole dans la vision des temps de la fin"
 date: "2005"
 location: "Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cet ouvrage traite de l'appel et de l'exercice des cinq ministères de la Parole (apôtre, prophète, évangéliste, pasteur, docteur) dans l'Église, en s'appuyant sur les Écritures et des exemples bibliques et contemporains. Il souligne l'importance de répondre à l'appel de Dieu, de vivre selon la vision du livre ancien (la Bible) et de travailler à la perfection des saints jusqu'à la stature parfaite de Christ."
 tags:
   - "Publications"

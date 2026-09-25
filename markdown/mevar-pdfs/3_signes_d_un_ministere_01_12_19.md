@@ -6,7 +6,7 @@ title: "Les signes d’une œuvre ou d’un Ministère authentique de Dieu - 3e 
 date: "2019-12-01"
 year: 2019
 location: "Koumassi"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Dans cette troisième partie, le prédicateur insiste sur la condition intérieure des porteurs de signes (dons et ministères) : l'amour et la foi sont essentiels pour exercer un service authentique, car les dons sans amour sont vains et peuvent mener au rejet. Il distingue le don (gratuit) du fruit de l'Esprit (qui demande un travail spirituel) et exhorte à rechercher l'amour comme moteur du service."
 tags:
   - "signes"
@@ -37,6 +37,18 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/3_signes_d_un_ministere_01_12_19.pdf"
 local_pdf: "/files/mevar/3_signes_d_un_ministere_01_12_19.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "1 Timothée 4:14"
+  - "2 Pierre 1"
+  - "Esther 1"
+  - "Galates 5:22"
+  - "Jean 14"
+  - "Jérémie 1:17"
+  - "Marc 11"
+  - "Matthieu 14"
+  - "Matthieu 7"
 ---
 Les signes d’une œuvre ou d’un Ministère authentique de Dieu - 3e partie
 

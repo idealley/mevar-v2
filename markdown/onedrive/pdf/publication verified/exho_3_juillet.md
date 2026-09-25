@@ -6,7 +6,7 @@ title: "Malheur aux enfants rebelles"
 subtitle: "Troisième exhortation de Juillet 2009"
 date: "2009-07-01"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation met en garde contre la rébellion spirituelle, en s'appuyant sur Ésaïe 30 et 29. Elle insiste sur la nécessité de la transparence devant Dieu, de ne pas cacher ses desseins, et de consulter le Seigneur dans toutes les décisions. L'auteur appelle à marcher dans la lumière, à éviter les domaines réservés dans le cœur, et à être sincères pour être prêts pour l'enlèvement."
 tags:
   - "Exhortations"

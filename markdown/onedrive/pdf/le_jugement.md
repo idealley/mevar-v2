@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "le_jugement"
 title: "Le Jugement dans l'Assemblée Locale"
-preacher: "M'Bra Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce traité examine le jugement dans l'assemblée locale selon les Écritures, en distinguant le jugement interdit (calomnie, mépris sur des questions non doctrinales) du jugement nécessaire des péchés. Il détaille la procédure de Matthieu 18 en quatre étapes, les sanctions (considérer comme païen/publicain et livraison à Satan), et insiste sur la repentance et le pardon comme voies de retour."
 tags:
   - "Publications"

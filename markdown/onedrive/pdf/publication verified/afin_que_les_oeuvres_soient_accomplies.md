@@ -7,7 +7,7 @@ subtitle: "Exhortation de Septembre 2012"
 date: "2012-09-02"
 year: 2012
 location: "Houndé, Burkina Faso"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que les épreuves et les situations difficiles sont permises par Dieu afin que ses œuvres soient manifestées et qu'un témoignage soit arraché à l'humanité pour sa gloire. Il s'appuie sur les récits de l'aveugle-né, de Lazare, du jeune homme de Nain et de la Samaritaine pour montrer que Dieu prépare un peuple au caractère de Christ, et que le Message du temps de la fin, donné à William Branham, est le canevas de cette préparation."
 tags:
   - "Exhortations"

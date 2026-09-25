@@ -6,7 +6,7 @@ title: "LA NUIT ET LE JOUR DES ESPRITS"
 subtitle: "Exhortation de Janvier 2014"
 date: "2014-01-01"
 year: 2014
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation aborde les épreuves de la fin des temps, notamment les trahisons et la séduction des faux prophètes. Elle insiste sur l'importance du Message du Temps de la Fin comme lampe et corps mort autour duquel les aigles (les élus) se rassemblent. L'auteur appelle à la persévérance, au discernement du corps de Christ et à la séparation d'avec les autres maîtres."
 tags:
   - "Exhortations"
