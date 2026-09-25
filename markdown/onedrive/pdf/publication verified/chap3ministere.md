@@ -1,7 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap3ministere"
-duplicate_of: "onedrive/les_cinq_ministeres_de_la_parole"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "Le Ministère d'Apôtre"
 summary: "Ce document explore le ministère apostolique à travers l'exemple de Jésus-Christ, premier apôtre, et de Paul, apôtre des nations. Il détaille les différentes facettes de ce ministère : évangélisation pour fonder des églises, organisation des assemblées, visites régulières, assistance aux serviteurs de Dieu, autorité dans l'Église, et intercession. Le texte insiste sur la conformité au fondement posé par Paul et sur le rôle des apôtres comme surveillants de la marche spirituelle des églises."
 tags:

@@ -1,7 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "les_ouvriers_du_royaume"
-duplicate_of: "onedrive/les_cinq_ministeres_de_la_parole"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "Parfait M’BRA"
 bible_refs:
   - "1 Corinthiens 1"

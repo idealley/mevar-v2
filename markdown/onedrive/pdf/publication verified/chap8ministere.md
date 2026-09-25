@@ -1,7 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap8ministere"
-duplicate_of: "onedrive/les_cinq_ministeres_de_la_parole"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "Les Anges de la Prédication et de la Prière"
 summary: "Ce chapitre montre que les anges soutiennent les ministres de la Parole dans leur œuvre, les conduisent et les fortifient. Il distingue les anges de la prédication et ceux de la prière, illustrant leur action à travers des exemples bibliques (Apocalypse, Luc, Daniel, Actes) et l'expérience de William Branham. Il exhorte les serviteurs de Dieu à la communion, à la prière et à la sainteté pour être efficaces dans le ministère."
 tags:

@@ -1,7 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap12ministere"
-duplicate_of: "onedrive/les_cinq_ministeres_de_la_parole"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "LES FAUX CHRIST ET LES FAUX PROPHETES"
 summary: "Ce texte examine les faux christs et faux prophètes des temps de la fin, s'appuyant sur des passages bibliques comme Matthieu 24 et 2 Timothée 3. Il compare ces faux ministres à Balaam et à l'esprit de python, dénonçant leur amour de l'argent et leurs pratiques de divination. L'auteur annonce la manifestation future des vrais fils de Dieu, symbolisée par les noces de Cana, où la Parole et l'Esprit produiront une onction puissante pour la moisson finale."
 tags:

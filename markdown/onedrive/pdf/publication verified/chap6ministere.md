@@ -1,7 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap6ministere"
-duplicate_of: "onedrive/les_cinq_ministeres_de_la_parole"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "Le Ministère de Pasteur (Jean 10)"
 summary: "Ce texte explore le ministère pastoral à la lumière de Jean 10, en présentant Jésus comme le modèle du bon berger. Il détaille les rôles du pasteur : rassembler, conduire, paître, protéger et aimer le troupeau. L'auteur insiste sur les vertus nécessaires (humilité, douceur, patience, amour) et donne des exemples bibliques (Moïse, David, Pierre). Il met en garde contre les faux pasteurs et exhorte à un amour profond pour le Maître et les brebis."
 tags:
