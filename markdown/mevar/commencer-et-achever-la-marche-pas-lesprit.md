@@ -71,7 +71,7 @@ Mes chers amis, nous remercions le Seigneur notre Dieu qui prend soin de nous da
 
 **Dieu doit conduire l’homme dans sa vie de tous les jours. Le Seigneur doit conduire Son peuple dans sa vie au quotidien**. Lorsque nous devenons chrétiens, nous devons abandonner nos voies et nos pensées pour nous laisser conduire par le Seigneur.
 
-> _**Que le méchant abandonne sa voie, Et l’homme de rien ses pensées** ; qu’il retourne à l’Éternel, Qui aura compassion de lui, A notre Dieu, Qui pardonne abondamment. **Car mes pensées ne sont pas vos pensées, Et vos voies ne sont pas mes voies,** Oracle de l’Éternel. Autant les cieux sont élevés au–dessus de la terre, autant mes voies sont élevées au–dessus de vos voies Et mes pensées au–dessus de vos pensées._ (Ésaïe 55:7-9)
+> _**Que le méchant abandonne sa voie, Et l’homme de rien ses pensées** ; qu’il retourne à l’Éternel, Qui aura compassion de lui, A notre Dieu, Qui pardonne abondamment. **Car mes pensées ne sont pas vos pensées, Et vos voies ne sont pas mes voies,** Oracle de l’Éternel. Autant les cieux sont élevés au–dessus de la terre, autant mes voies sont élevées au–dessus de vos voies Et mes pensées au–dessus de vos pensées._ (Ésaïe 55 :7-9)
 
 En dehors de Christ, nous avons des pensées et des voies, **et nos voies ne sont pas les voies de Dieu tant que nous refusons de nous laisser conduire par le Seigneur.** Un homme doté d’intelligence a des voies et des pensées dans son cœur ; cela ne manque pas, à moins que cet homme ne soit pas doté de raison.
 
@@ -155,7 +155,7 @@ C’est ainsi mes frères ! L’homme spirituel marche par la révélation en J�
 
 **L’homme spirituel est celui qui a l’expérience de la Parole de Dieu qu’il écoute.** Dans tous les âges de l’Eglise, dans tous les temps bibliques, les hommes spirituels sont toujours ceux qui arrivent à mettre en pratique la Parole révélée qu’ils écoutent. **Ce sont eux qui par cela expérimentent la Parole. Car la Parole que nous écoutons doit être une vie en nous – un comportement dans notre marche de tous les jours.**
 
-> _**13 Or quiconque en est au lait n’a pas l’expérience de la parole de justice**, car il est un enfant. 14 Mais la nourriture solide est pour les hommes faits, pour ceux qui, par l’usage, ont le sens exercé au discernement du bien et du mal._ (Hébreux 5:13-14)
+> _**13 Or quiconque en est au lait n’a pas l’expérience de la parole de justice**, car il est un enfant. 14 Mais la nourriture solide est pour les hommes faits, pour ceux qui, par l’usage, ont le sens exercé au discernement du bien et du mal._ (Hébreux 5 :13-14)
 
 Si on nous prêche que nous sommes morts avec le Christ, nous devons parvenir à expérimenter cette mort effectivement. Si on nous prêche le réveil spirituel, nous devons parvenir effectivement à expérimenter le réveil dans notre vie. Si on nous prêche le jeûne et la prière, nous devons parvenir à expérimenter le jeûne et la prière. **Aucune Parole ne doit être pour nous de la théorie.**
 
@@ -211,7 +211,7 @@ De quelle nature est l’œuvre de chacun ? Est-ce une œuvre spirituelle ou cha
 
 Pour ma part, je crois que Dieu jugera les pasteurs par rapport à la qualité du travail accompli dans la vie des croyants placés sous leurs responsabilités. Si notre travail est charnel, il s’écroulera avec l’épreuve. Nous ferons des chrétiens qui ne peuvent pas faire face à l’épreuve de la foi :
 
-> _**24   Ainsi, quiconque entend de moi ces paroles et les met en pratique sera semblable à un homme prudent qui a bâti sa maison sur le roc**. 25 La pluie est tombée les torrents sont venus, les vents ont soufflé et se sont portés sur cette maison : elle n’est pas tombée, car elle était fondée sur le roc. **26 Mais quiconque entend de moi ces paroles, et ne les met pas en pratique sera semblable à un homme insensé qui a bâti sa maison sur le sable.** 27 La pluie est tombée, les torrents sont venus, les vents ont soufflé et se sont abattus sur cette maison : elle est tombée et sa ruine a été grande._ (Matthieu 7:22-27)
+> _**24   Ainsi, quiconque entend de moi ces paroles et les met en pratique sera semblable à un homme prudent qui a bâti sa maison sur le roc**. 25 La pluie est tombée les torrents sont venus, les vents ont soufflé et se sont portés sur cette maison : elle n’est pas tombée, car elle était fondée sur le roc. **26 Mais quiconque entend de moi ces paroles, et ne les met pas en pratique sera semblable à un homme insensé qui a bâti sa maison sur le sable.** 27 La pluie est tombée, les torrents sont venus, les vents ont soufflé et se sont abattus sur cette maison : elle est tombée et sa ruine a été grande._ (Matthieu 7 :22-27)
 
 Les chrétiens spirituels pratiquent la Parole de Dieu. Quand ils n’y arrivent pas, ils font des efforts pour y arriver. **Aujourd’hui, beaucoup ne sont pas spirituels, alors ils regardent à l’apparence des choses et jugent faussement.** Vous pouvez avoir une église charnelle qui compte mille âmes, mais avoir une église spirituelle de dix ou quinze membres. Quelle est ici l’assemblée la plus précieuse aux yeux de Dieu ? C’est bien celle qui compte dix ou quinze membres, parce qu’ils sont spirituels. Quinze membres sur qui Dieu peut compter pour accomplir Son œuvre. Quinze membres qui peuvent être des instruments dans la main du Seigneur. Goliath a insulté la totalité de l’armée d’Israël avec à sa tête le roi lui- même pendant 40 jours. [Mais David seul réussit à terrasser Goliath](/l-enjeu-du-combat-contre-goliath-1/). Ce furent 300 personnes qui vainquirent la nombreuse armée des Madianites, au temps de Gédéon.
 
@@ -303,7 +303,7 @@ C’est donc celui qui voit clair, c'est-à-dire celui qui a une bonne vision sp
 
 Pour en finir avec cette vie charnelle, il faut s’exercer à la piété, c'est-à-dire qu’il faut faire des efforts pour détruire la racine de cet arbre charnel planté dans notre cœur. Christ, en nous faisant naître de nouveau par l’Evangile nous a mis sur la voie. Christ nous a délivrés à la croix. Il faut maintenant que chacun expérimente cette grâce divine.
 
-> _12 Ainsi donc, frères, nous ne sommes point redevables à la chair, pour vivre selon la chair. 13 Si vous vivez selon la chair, vous mourrez ; **mais si par l’Esprit vous faites mourir les actions du corps, vous vivrez…**_(Romains 8:12-13)
+> _12 Ainsi donc, frères, nous ne sommes point redevables à la chair, pour vivre selon la chair. 13 Si vous vivez selon la chair, vous mourrez ; **mais si par l’Esprit vous faites mourir les actions du corps, vous vivrez…**_(Romains 8 :12-13)
 
 C’est l’exercice de la piété qui peut nous conduire à détruire les actions du corps par l’Esprit. Sans exercice de la piété, nous ne pouvons pas le faire. **Et l’exercice de la piété est une vision à avoir ; car cet exercice marche avec la vision de la perfection.** Ceux qui ont la vision de la perfection comprennent que l’exercice de la piété leur est utile. C’est utile pour la vie présente parce que ça nous préserve de la vie charnelle du monde, et ayant acquis les valeurs spirituels par cet exercice, nous gagnons aussi des prix dans le combat pour le Royaume de Dieu. Ça doit être la priorité de notre vie. C’est ainsi que vécurent nos pères les apôtres.
 

@@ -26,9 +26,9 @@ bible_refs:
 ---
 ## Exhortation de fin septembre 2012
 
-Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole de David dans le Psaumes 119 :
+Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole de David dans le Psaume 119 :
 
-> _**La révélation de tes paroles éclaire, Elle donne de l’intelligence aux simples.**_ (Psaumes 119:130)
+> _**La révélation de tes paroles éclaire, Elle donne de l’intelligence aux simples.**_ (Ps 119:130)
 
 C’est la révélation des paroles de Dieu qui éclaire le peuple de Dieu en marche. **C’est la révélation qui donne l’orientation à suivre.** Nous sommes en marche avec le Dieu qui dit des mystères ; alors il faut la révélation de l’Esprit pour comprendre les mystères de Dieu.
 

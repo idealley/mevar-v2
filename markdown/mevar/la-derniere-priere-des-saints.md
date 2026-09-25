@@ -173,7 +173,7 @@ Nous serons divinement avertis. **L’Eglise comme Anne sera divinement avertie.
 
 Bien-aimés frères et sœurs, j’espère que nous nous sommes compris. Nous nous sommes compris ? \[L’Assemblée répond : Amen ! Réd.\]. Alléluia ! \[L’Assemblée répond : Amen ! Réd.\]. Nous nous sommes compris frères \[L’Assemblée répond : Amen ! Réd.\].
 
-Nous sommes au temps du réveil. Minuit est arrivé pour nous tous. C’EST LE TEMPS DE NOUS REVEILLER. Ce n’est plus le temps de dormir. Lisez Ésaïe 62 il est dit que… On va lire cela. Les premiers versets. On va lire Ésaïe 62 et puis je vais arrêter. Premier verset : « _**Pour l’amour de Sion je ne me tairai point, Pour l’amour de Jérusalem je ne prendrai point de repos, Jusqu’à ce que son salut paraisse, comme l’aurore, Et sa délivrance, comme un flambeau qui s’allume. »**_ Alléluia ! \[L’Assemblée répond : Amen ! Réd.\].
+Nous sommes au temps du réveil. Minuit est arrivé pour nous tous. C’EST LE TEMPS DE NOUS REVEILLER. Ce n’est plus le temps de dormir. Lisez Esaïe 62 il est dit que… On va lire cela. Les premiers versets. On va lire Esaïe 62 et puis je vais arrêter. Premier verset : « _**Pour l’amour de Sion je ne me tairai point, Pour l’amour de Jérusalem je ne prendrai point de repos, Jusqu’à ce que son salut paraisse, comme l’aurore, Et sa délivrance, comme un flambeau qui s’allume. »**_ Alléluia ! \[L’Assemblée répond : Amen ! Réd.\].
 
 _**Je ne me tairai point, pour l’amour de Sion je ne me tairai point**_…
 
