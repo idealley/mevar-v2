@@ -68,6 +68,21 @@ Branham PDFs first (`20-download-pdfs.mjs manifests/branham-<year>.json`,
 152 MB, gitignored) and lists the French names it cannot align in
 `manifests/branham-restore-unaligned.json`.
 
+## Stage 4b — Editorial pass on the OneDrive and PDF texts (goal 10)
+
+One batch at a time, the batches listed in `scripts/mevar-editorial-batches.json`.
+Needs SurrealDB with 110 run, the OneDrive originals at `onedrive/`, and
+the root `.env` (`DOTENV_CONFIG_PATH=<root>/.env` from a worktree).
+
+| Script                              | Action |
+| ----------------------------------- | ------ |
+| `84-extract-originals.mjs <batch>`  | each original to `.parse-cache/` (gitignored): .docx through mammoth, PDF through LlamaParse cost_effective; never parsed twice |
+| `85-editorial-pass.mjs <batch>`     | gpt-6-sol applies goal 04's rules to the original; missing readings become Segond verses from `bible_verse` (`segond.mjs`); result to `.pass-cache/` |
+| `86-check-editorial-pass.mjs <batch>` | word-by-word check of original against pass; a text with no unexplained change is written to `markdown/` with `editorial_pass`; report to `docs/goals/evidence/goal-10-batch-<batch>.md` |
+
+Then 65 on the batch's files and 47, as after any change to a body. 73
+skips a text that has `editorial_pass`.
+
 ## Stage 5 — Index assembly
 
 `50-build-index.mjs` reads all manifests, walks `markdown/`, emits `index.json` (one row per doc with all fields needed for ingest).

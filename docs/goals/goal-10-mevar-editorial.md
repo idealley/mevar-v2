@@ -63,6 +63,37 @@ the verification done by a script and by sampling.
    chosen at random, and the one with the most changes. **Merging the PR is
    the promotion.**
 
+## Measured before the first run, and Samuel's answers (2026-09-25)
+
+- **Scope:** 166 texts without `duplicate_of`: 165 OneDrive (158 from a
+  PDF, 7 from a .docx) and `mevar-pdfs/le_royaume_de_dieu_kadjani`, 1.56
+  million words. The originals are Samuel's OneDrive folder
+  `Private/mevar-uploads`, byte-identical to `manifests/onedrive-inventory.json`,
+  linked as `onedrive/` (gitignored).
+- **Source quality:** the words are clean (5.6 non-words per 1,000, the
+  published Ghost sermons 7.4); the defect is lost paragraphs (8 texts with
+  a paragraph of 2,000 to 7,800 words). 163 of 164 PDFs have a text layer;
+  the last is an empty 2 KB file. No OCR.
+- **Parser:** on five PDFs with lost paragraphs, LiteParse keeps every word
+  and the PDF's lines; LlamaParse (cost_effective and agentic) keeps every
+  word, rebuilds the paragraphs and drops the page numbers. 84 uses
+  LlamaParse cost_effective: 3 credits a page, about 8,350 credits for all
+  2,783 pages.
+- **65's canonical rewrites:** 65 ran before the DeepSeek cleanup, so the
+  cleaned text carries them. All 4,407 citations in the 158 OneDrive texts
+  that cite Scripture are canonical; in three originals, 726 of 728
+  non-canonical citations had been rewritten. Samuel: restore. The pass
+  starts from the original (84), so the preacher's forms come back, and the
+  DeepSeek cleanup's word changes go through the check too.
+- **Model:** a pilot on three texts; `gpt-6-sol` had the fewest changes the
+  check refuses and none an added word: about $30 for the goal, $2.60 for a
+  batch of 130,000 words.
+- **Not in the pass:** `onedrive/pdf/thebath.md` is English;
+  `onedrive/pdf/LA GUERRE DE LIBERATION.md` has an empty original.
+- **Batches:** `scripts/mevar-editorial-batches.json`. The two books
+  (`le_royaume_de_dieu_kadjani`, `les_cinq_ministeres_de_la_parole`, 200,000
+  words together) get a batch of their own.
+
 ## Stop points
 
 - The cost estimate, before the first paid run (LLM or LlamaParse).
