@@ -87,7 +87,8 @@ let hrefs = 0;
 // A #fragment names an id of the page it points to: the page's own for "#…".
 const idsOf = new Map();
 const ids = (file) => {
-  if (!idsOf.has(file)) idsOf.set(file, new Set([...fs.readFileSync(file, "utf8").matchAll(/\sid="([^"]*)"/g)].map((m) => m[1])));
+  // An id="…" inside a comment names no element.
+  if (!idsOf.has(file)) idsOf.set(file, new Set([...fs.readFileSync(file, "utf8").replace(/<!--[\s\S]*?-->/g, "").matchAll(/\sid="([^"]*)"/g)].map((m) => m[1])));
   return idsOf.get(file);
 };
 const noAnchor = [];

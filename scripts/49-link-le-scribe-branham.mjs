@@ -60,9 +60,9 @@ const sermonById = new Map(sermons.map((s) => [s.id, s]));
 const decided = JSON.parse(fs.readFileSync(path.join(root, "scripts/le-scribe-branham-decided.json"), "utf8"));
 const summaryIds = new Set(summaries.map((s) => s.id));
 // An answer naming no summary is ignored; one naming no sermon leaves its
-// summary unresolved rather than falling back to a guess.
+// summary unresolved (below) rather than falling back to a guess.
 for (const [id, answer] of Object.entries(decided)) {
-  if (!summaryIds.has(id) || (answer !== "none" && !sermonById.has(answer))) console.warn(`decision ignored: "${id}": "${answer}"`);
+  if (!summaryIds.has(id)) console.warn(`decision ignored, no such summary: "${id}": "${answer}"`);
 }
 
 // ─── Index Branham sermons by YYMMDD ────────────────────────────────────────
