@@ -48,9 +48,6 @@ const SOURCES = {
   "le-scribe": (id) => pdfText(pdfs.get(id)),
 };
 
-// Goal 14 edits these two posts; they are restored once it has merged.
-const WAIT = new Set(["qui-sera-enleve", "le-jour-du-seigneur-4-et-les-tribulations"]);
-
 // Our text loses its markdown (links, quote and heading marks, emphasis; an
 // escaped "\_" is a real underscore) and Le Scribe's paragraph numbers
 // ("**133.**"), which its PDF gives as a span ("§133 à 141-"). The source
@@ -109,7 +106,6 @@ for (const [name, sourceOf] of Object.entries(SOURCES)) {
   const dir = path.join(root, "markdown", name);
   for (const rel of fs.readdirSync(dir, { recursive: true }).filter((p) => p.endsWith(".md")).sort()) {
     const file = path.join(dir, rel);
-    if (WAIT.has(path.basename(file, ".md"))) continue;
     const text = fs.readFileSync(file, "utf8");
     const [, fm, body] = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
     if (![...citations(body)].some((c) => c.text === c.ref)) continue;
