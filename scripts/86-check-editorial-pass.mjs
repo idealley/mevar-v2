@@ -48,6 +48,7 @@ import path from "node:path";
 import { spawnSync } from "node:child_process";
 import dictionary from "dictionary-fr";
 import nspell from "nspell";
+import { fromMarkdown } from "mdast-util-from-markdown";
 import { citations } from "./65-normalize-bible.mjs";
 import { connect, reading, blockquote } from "./segond.mjs";
 
@@ -58,16 +59,38 @@ const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
 
 // Words with their position, in NFC text; a number glued to letters is its
-// own word ("11novembre1962"). Each knows whether it is bold (inside **…**)
-// and whether its line is a quote ("> ").
+// own word ("11novembre1962").
+const WORD = /[\p{L}\p{M}]+|\p{N}+/gu;
+
+// The original's words (84's text, whose only markup is **…**, balanced on
+// each line and set against words): each knows whether it is bold.
 function words(text) {
   const stars = [...text.matchAll(/\*\*/g)].map((m) => m.index);
   let s = 0;
-  return [...text.matchAll(/[\p{L}\p{M}]+|\p{N}+/gu)].map((m) => {
+  return [...text.matchAll(WORD)].map((m) => {
     while (s < stars.length && stars[s] < m.index) s++;
-    const line = text.lastIndexOf("\n", m.index) + 1;
-    return { w: m[0], at: m.index, bold: s % 2 === 1, quote: text.startsWith(">", line) };
+    return { w: m[0], at: m.index, bold: s % 2 === 1, quote: false };
   });
+}
+
+// The pass's words as the site renders its markdown (mdast, the parser Astro
+// uses): bold is what renders bold, a quote is inside a blockquote. Headings
+// and HTML, which a sermon has none of, go to `found`.
+function rendered(md, found) {
+  const out = [];
+  (function walk(node, bold, quote) {
+    if (node.type === "heading" || node.type === "html")
+      found.push(`${node.type === "html" ? "HTML" : "a heading"}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
+    // text, and code (a line indented four spaces), whose words are words too
+    if (["text", "code", "inlineCode"].includes(node.type))
+      for (const m of node.value.matchAll(WORD)) out.push({ w: m[0], at: node.position.start.offset + m.index, bold, quote });
+    // an ordered list's numbers are markup to markdown, words to the check
+    (node.children ?? []).forEach((c, i) => {
+      if (node.type === "list" && node.ordered) out.push({ w: String((node.start ?? 1) + i), at: c.position.start.offset, bold, quote });
+      walk(c, bold || node.type === "strong", quote || node.type === "blockquote");
+    });
+  })(fromMarkdown(md), false, false);
+  return out;
 }
 
 function distance(a, b) {
@@ -88,8 +111,8 @@ const bare = (w) => w.normalize("NFD").replace(/\p{Diacritic}/gu, "");
 // pêche), so only a title may have them back ("LES FILS DU DESERT").
 function typography(a, b, title = false) {
   if (fold(a) === fold(b)) return true;
-  if (isWord(a.toLowerCase())) return false;
   if (title && a === a.toUpperCase() && bare(fold(a)) === bare(fold(b))) return true;
+  if (isWord(a.toLowerCase())) return false;
   return a[0] !== a[0].toLowerCase() && b[0] !== b[0].toLowerCase()
     && bare(a[0]) === bare(b[0]) && fold(a.slice(1)) === fold(b.slice(1));
 }
@@ -136,6 +159,10 @@ function sentence(text, at) {
   return text.slice(start, ends.length ? Math.min(...ends) + 1 : undefined).trim();
 }
 
+const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+// Words a transcript's header has besides the frontmatter's
+const HEADER_WORDS = "prêché prêchée prédication exhortation article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
+
 const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive.json"), "utf8"));
 const db = await connect();
 const today = new Date().toISOString().slice(0, 10);
@@ -147,8 +174,8 @@ for (const md of batch) {
   const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0, verseNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], pass };
 
   // The inserted readings leave the compared text once they are verified:
-  // the Segond verses, for a reference the original cites in the paragraph
-  // the reading closes (same first verse; the same last one if it says one).
+  // a paragraph of its own, the Segond verses, for a reference the original
+  // cites and that the paragraph just before announces as a reading.
   const cited = [...citations(original)];
   let body = pass.body.normalize("NFC");
   // A bare chapter ("Nous lisons dans Jean 3") never authorises a reading:
@@ -159,35 +186,37 @@ for (const md of batch) {
     const verses = await reading(db, ref);
     const inserted = verses && `\n\n${blockquote(verses, ref)}`;
     const at = inserted ? body.indexOf(inserted) : -1;
-    const paragraph = body.slice(body.lastIndexOf("\n\n", at - 1) + 2, at);
+    const whole = at >= 0 && /^[ \t]*(\n\s*\n|\s*$)/.test(body.slice(at + inserted.length));
+    const paragraph = body.slice(0, Math.max(at, 0)).split(/\n\s*\n/).filter((p) => p.trim()).at(-1) ?? "";
     const announced = cited.find((c) => matches(c, ref));
-    if (at < 0) r.unexplained.push(`reading ${ref} is not the Segond text`);
-    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)))
-      r.unexplained.push(`reading ${ref} inserted, but the paragraph before it and the original do not announce it`);
+    if (!whole) r.unexplained.push(`reading ${ref} is not the Segond text as a paragraph of its own`);
+    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/\b(lis\p{L}*|lire|lu|lecture)\b/iu.test(paragraph))
+      r.unexplained.push(`reading ${ref} inserted, but the paragraph before it does not announce it as a reading the original cites`);
     else {
       body = body.replace(inserted, "");
       r.readings.push({ said: announced.text, ref });
     }
   }
   for (const u of pass.unresolved) r.unexplained.push(`reading announced as « ${u} » could not be resolved: nothing inserted`);
-  for (const p of body.split(/\n\s*\n/)) {
-    if ((p.match(/\*\*/g) ?? []).length % 2) r.unexplained.push(`an odd number of ** in: ${p.slice(0, 200)}`);
-    if (/^#/m.test(p)) r.unexplained.push(`a heading, which a sermon has none of: ${p.slice(0, 200)}`);
-    if (/<!--|<\/?[a-z][^>]*>/i.test(p)) r.unexplained.push(`HTML in: ${p.slice(0, 200)}`);
-  }
 
   // The document's header: the original's words before the ones the body
   // opens with (6 of its first 8, the pass may have corrected one), within
-  // the first 80, and only if they hold the title, as a header does; listed.
+  // the first 80, and only if every one of them is in the frontmatter (title,
+  // subtitle, date, place, preacher) or a header's own word; listed.
   const file = fs.readFileSync(path.join(root, md), "utf8");
-  const oldTitle = JSON.parse(file.match(/^title: (.*)$/m)[1]);
-  const after = words(body);
+  const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
+  const field = (k) => JSON.parse(fm.match(new RegExp(`^${k}: (.*)$`, "m"))?.[1] ?? '""');
+  const oldTitle = field("title");
+  const after = rendered(body, r.unexplained);
   const ow = words(original);
   r.words = ow.length;
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
-  const flat = (t) => words(t).map((x) => bare(fold(x.w))).join(" ");
+  const key = (w) => bare(fold(w));
+  const [y, mo, d] = field("date").split("-");
+  const own = new Set([oldTitle, pass.title, field("subtitle"), field("location"), field("preacher"),
+    `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
   const header = k > 0 ? original.slice(0, ow[k].at) : "";
-  const isHeader = [oldTitle, pass.title].some((t) => flat(t) && flat(header).includes(flat(t)));
+  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w));
   r.removed = isHeader ? [header.replace(/\s+/g, " ").trim()] : [];
   let compared = isHeader ? " ".repeat(ow[k].at) + original.slice(ow[k].at) : original;
 
@@ -221,6 +250,10 @@ for (const md of batch) {
   function classify({ before, after: now, at }) {
     const c = { typography: 0, spacing: 0, nonWord: [], word: [], unexplained: [] };
     const both = [...before, ...now];
+    // bold is compared inside a change too: the same on both sides
+    if (before.length === now.length ? before.some((b, i) => b.bold !== now[i].bold && !verse(b, now[i]))
+      : new Set(both.map((x) => x.bold)).size > 1)
+      c.unexplained.push(`bold changed with « ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
     if (before.length && now.length && join(before) === join(now) && before.length !== now.length) {
       // A split or join of the same letters: spacing where a side is not a
       // word ("c omme" → "comme"); a substitution where all are words ("si
@@ -250,13 +283,16 @@ for (const md of batch) {
     return c;
   }
   const { changes, equal } = hunks(words(compared), after);
-  // The preacher's bold: on the same words, except a verse number in a quote.
+  // The preacher's bold: on the same words, except a verse number (1 to 176,
+  // before a capital) that becomes bold in a quote.
+  const next = new Map(after.map((x, i) => [x, after[i + 1]]));
+  const verse = (o, n) => !o.bold && n.bold && n.quote && /^\d+$/.test(n.w) && Number(n.w) <= 176
+    && /^\p{Lu}/u.test(next.get(n)?.w ?? "");
   let run = null;
   const flush = () => { if (run) r.unexplained.push(`bold ${run.added ? "added to" : "removed from"} « ${run.words.join(" ")} » in: ${sentence(body, run.at)}`); run = null; };
   for (const [o, n] of equal) {
-    const verse = !o.bold && n.bold && n.quote && /^\d+$/.test(n.w);
-    if (verse) r.counts.verseNumbers++;
-    if (o.bold === n.bold || verse) { flush(); continue; }
+    if (verse(o, n)) r.counts.verseNumbers++;
+    if (o.bold === n.bold || verse(o, n)) { flush(); continue; }
     if (run && run.added === n.bold) run.words.push(n.w);
     else { flush(); run = { added: n.bold, words: [n.w], at: n.at }; }
   }
@@ -278,8 +314,10 @@ for (const md of batch) {
   r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w, true)) ? pass.title : oldTitle;
   r.titleRefused = r.title === pass.title ? "" : pass.title;
 
-  const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
   const promoted = /^editorial_pass:/m.test(fm);
+  // a text promoted earlier is still this pass's body
+  if (promoted && file.slice(file.indexOf("\n---\n") + 5) !== `${pass.body}\n`)
+    r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
     const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${pass.body}\n`);
@@ -319,7 +357,7 @@ const usage = rows.flatMap((r) => r.pass.usage);
 const [tin, tout] = [usage.reduce((a, u) => a + u.prompt_tokens, 0), usage.reduce((a, u) => a + u.completion_tokens, 0)];
 // The estimate given before the first run: $2.60 for 130,000 words.
 const batchWords = rows.reduce((a, r) => a + r.words, 0);
-L.push("", "## Spend", "", `${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words. Extraction (pdftohtml) is local.`);
+L.push("", "## Spend", "", `The pass behind these results: ${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words. Extraction (pdftohtml) is local.`);
 const out = path.join(root, `docs/goals/evidence/goal-10-batch-${batchId}.md`);
 fs.writeFileSync(out, L.join("\n") + "\n");
 console.log(`report → ${path.relative(root, out)}`);
