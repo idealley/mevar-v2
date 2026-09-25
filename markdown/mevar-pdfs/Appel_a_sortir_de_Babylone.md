@@ -5,7 +5,7 @@ title: "L'Appel à sortir de Babylone"
 date: "2019-06-09"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette prédication explique que Babylone est un esprit de séduction mondial qui contrôle la politique, la religion, la culture, la technologie et tous les domaines de la société. L'appel à sortir de Babylone est un appel spirituel à se libérer de cet esprit pour ne pas participer à ses péchés et à ses fléaux. Le message du temps de la fin, apporté par William Branham, est cet appel à sortir de la grande séduction."
 tags:
   - "Babylone"
@@ -42,6 +42,13 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Appel_a_sortir_de_Babylone.pdf"
 local_pdf: "/files/mevar/Appel_a_sortir_de_Babylone.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17"
+  - "Apocalypse 17:1-6"
+  - "Apocalypse 18"
+  - "Apocalypse 7"
+  - "Jérémie 51"
+  - "Matthieu 24"
 ---
 *Prêché à Koumassi par frère M'BRA Parfait, le dimanche 09 Juin 2019*
 

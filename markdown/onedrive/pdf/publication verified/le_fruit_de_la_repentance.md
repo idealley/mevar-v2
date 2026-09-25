@@ -6,7 +6,7 @@ subtitle: "Exhortation d'Août 2013"
 date: "2013-08-04"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur aborde la nécessité d'une repentance sincère et profonde, en s'appuyant sur une prophétie de 1916 de Charles Price concernant l'ouverture des sceaux et la préparation de l'Épouse. Il insiste sur le fait que seule une minorité parviendra à la maturité spirituelle, et que la repentance véritable produit des fruits de délivrance et d'humilité."
 tags:
   - "Exhortations"

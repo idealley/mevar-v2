@@ -6,7 +6,7 @@ subtitle: "26 décembre 1963, soir"
 date: "1963-12-26"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham expose l'ordre biblique pour l'Église locale, traitant des rôles du pasteur, des diacres et des administrateurs, de l'exercice des dons spirituels (parler en langues, interprétation, prophétie), de l'aide financière aux membres, et de l'organisation de l'école du dimanche. Il insiste sur la soumission à la Parole et l'ordre dans les réunions."
 tags:
   - "ordre dans l'Église"

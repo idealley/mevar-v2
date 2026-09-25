@@ -5,7 +5,7 @@ title: "Le péché de Jonas"
 date: "2008-10-21"
 year: 2008
 location: "Lagos"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur M'BRA Parfait exhorte l'Église du Message à prendre conscience de sa responsabilité spirituelle, en utilisant l'exemple de Jonas qui a fui sa mission. Il dénonce la tiédeur, la religion sans puissance, et appelle à un retour à l'appel initial du Message pour la préparation à l'enlèvement."
 tags:
   - "Prédications"

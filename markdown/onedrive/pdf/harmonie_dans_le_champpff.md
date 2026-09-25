@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mai 2012"
 date: "2012-05-01"
 year: 2012
 location: "Koumassi"
-preacher: "Frère IRIE Anderson"
+preacher: "Irié Anderson"
 summary: "Cette exhortation traite de l'harmonie et de l'ordre dans le champ missionnaire, en s'appuyant sur des exemples bibliques et des récits contemporains. L'auteur insiste sur la nécessité de respecter les collaborateurs, de veiller à leurs droits et de maintenir une équipe unie sous la direction de Dieu."
 tags:
   - "Exhortations"

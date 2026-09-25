@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "temoignagepdf"
 title: "Dieu Veille sur Sa Parole pour l'Exécuter"
 location: "Abidjan, Côte d'Ivoire"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le frère M'BRA Parfait relate l'origine de son appel divin depuis son enfance, ses expériences avec des visitations angéliques, et la révélation de son ministère en lien avec Matthieu 25:6. Il explique le contexte prophétique du Message du Temps de la Fin en trois périodes (Branham, Frank, et le réveil à minuit) et décrit les combats spirituels contre l'esprit de Mahomet et de Babylone dans l'Église. Il met en garde contre les calomnies et insiste sur l'importance des fruits pour discerner les vrais ministères."
 tags:
   - "Exhortations"

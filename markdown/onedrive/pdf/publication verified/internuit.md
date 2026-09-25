@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "internuit"
 title: "Les intercesseurs de Minuit"
 subtitle: "Exhortation spéciale du Mois d'Août"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation spéciale pour le mois d'août s'adresse aux participants de la chaîne de prière et d'intercession. S'appuyant sur Ésaïe 62 et Ézéchiel 22, l'auteur appelle à intercéder sans relâche pour l'Église, comparée à Jérusalem, afin de ramener la gloire de Dieu et le réveil spirituel. Il souligne l'urgence de l'intercession face à l'assoupissement et au péché dans l'Assemblée."
 tags:
   - "Exhortations"

@@ -6,7 +6,7 @@ subtitle: "Exhortation d'Octobre 2011"
 date: "2011-10-23"
 year: 2011
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur approfondit le thème de la grâce et de la vérité, expliquant que la grâce de Dieu est venue avec la vérité (la Parole) qui en détermine les conditions de vie. Il distingue l'accès à la grâce par la foi et la vie dans la grâce, qui implique un enseignement de sanctification et de renoncement au péché. Il met en garde contre ceux qui transforment la grâce en dérèglement, notamment par des doctrines permissives concernant le péché sexuel et la boisson."
 tags:
   - "Prédications"

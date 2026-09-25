@@ -5,7 +5,7 @@ title: "Les prisonniers de la religion"
 date: "2007-03-24"
 year: 2007
 location: "Houndé, Burkina Faso"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur dénonce les organisations religieuses comme des prisons spirituelles qui empêchent les chrétiens de connaître Dieu véritablement. Il appelle à un réveil et à une adoration en esprit et en vérité, en insistant sur la révélation de Jésus-Christ comme Dieu unique manifesté en chair, et sur le baptême au nom de Jésus."
 tags:
   - "Prédications"

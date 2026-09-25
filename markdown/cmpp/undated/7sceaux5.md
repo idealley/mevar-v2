@@ -6,7 +6,7 @@ subtitle: "Le Troisième Sceau"
 date: "1963-03-20"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Dans ce message, William Branham ouvre le troisième sceau de l'Apocalypse, représenté par un cheval noir et une balance. Il explique que ce sceau symbolise la famine spirituelle et la déviation de la Parole de Dieu, en contraste avec les substituts religieux. Il relie ce thème à la chute d'Ève et à l'Église qui a rejeté la véritable Parole pour des traditions humaines."
 tags:
   - "troisième sceau"

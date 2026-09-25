@@ -5,7 +5,7 @@ title: "La guerre des dieux"
 date: "2011-08-25"
 year: 2011
 location: "Koumassi"
-preacher: "Kadjany André"
+preacher: "André Kadjany"
 summary: "Le prédicateur expose la réalité de la guerre spirituelle entre les dieux, où les fils de Dieu sont appelés à combattre les faux dieux qui tiennent les nations captives. Il insiste sur la nécessité d'être purifié par le feu du fondeur pour participer à ce combat, et annonce la défaite finale de tous les dieux babyloniens et l'établissement de la justice sur la terre."
 tags:
   - "Prédications"

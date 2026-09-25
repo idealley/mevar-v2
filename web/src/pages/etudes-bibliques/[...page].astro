@@ -2,20 +2,23 @@
 import type { GetStaticPaths } from "astro";
 import Layout from "../../layouts/Layout.astro";
 import CategoryGrid from "../../components/CategoryGrid.astro";
-import { worksByKind, PAGE_SIZE } from "$lib/works";
+import ArchiveBlock from "../../components/ArchiveBlock.astro";
+import { categoryWorks, PAGE_SIZE } from "$lib/works";
 
 export const getStaticPaths = (async ({ paginate }) => {
-  const entries = await worksByKind("bible_study");
-  return paginate(entries, { pageSize: PAGE_SIZE });
+  const { mevar, archive } = await categoryWorks("etudes-bibliques");
+  return paginate(mevar, { pageSize: PAGE_SIZE, props: { archive } });
 }) satisfies GetStaticPaths;
 
-const { page } = Astro.props;
+const { page, archive } = Astro.props;
 ---
 
-<Layout title="Études bibliques — Mevar" description={`${page.total} études bibliques`}>
+<Layout title="Études bibliques · Mevar" description={`${page.total} études bibliques de la mission MEVAR`}>
   <CategoryGrid
     title="Études bibliques"
     description="Études thématiques approfondies, organisées par sujet."
     page={page}
-  />
+  >
+    <ArchiveBlock category="etudes-bibliques" archive={archive} />
+  </CategoryGrid>
 </Layout>

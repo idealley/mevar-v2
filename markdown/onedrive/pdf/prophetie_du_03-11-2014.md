@@ -4,7 +4,7 @@ sermon_id: "prophetie_du_03-11-2014"
 title: "Parler en langue traduit du dimanche 03 novembre 2014"
 date: "2014-11-03"
 year: 2014
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Une prophétie adressée aux vainqueurs des âges, les encourageant à persévérer dans la prière malgré les tribulations. Le commentaire explique que les épreuves sont des douleurs d'enfantement qui poussent à genoux, et que la prière est le seul recours pour le peuple de Dieu."
 tags:
   - "Exhortations"

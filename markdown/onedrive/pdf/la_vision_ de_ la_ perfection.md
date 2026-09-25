@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juin 2009"
 date: "2009-06-21"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation développe le thème de la perfection chrétienne à travers l'image du potier et de l'argile (Jérémie 18, Romains 9). Dieu est le potier qui façonne ses enfants à l'image de Christ, la perfection. Le prédicateur insiste sur la nécessité de se laisser former par Dieu, d'abandonner son libre arbitre et d'obéir à la Parole pour atteindre la perfection et être enlevé. Il met en garde contre la rébellion et l'entêtement qui mènent à la souffrance et à la perdition."
 tags:
   - "Exhortations"

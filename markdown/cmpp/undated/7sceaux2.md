@@ -6,7 +6,7 @@ subtitle: "La Brèche entre les sept âges de l’Eglise et les sept Sceaux"
 date: "1963-03-17"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham introduit l'étude des sept Sceaux de l'Apocalypse, expliquant la brèche entre les âges de l'Église et les Sceaux. Il relate une vision où il reçoit l'épée du Roi et souligne que seul l'Agneau peut ouvrir le Livre scellé. Il annonce que la révélation des mystères aura lieu au temps du septième ange, à la fin des âges de l'Église."
 tags:
   - "sept sceaux"

@@ -6,7 +6,7 @@ subtitle: "17 février 1965, après-midi"
 date: "1965-02-17"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur Jonas comme un homme fuyant la présence du Seigneur, soulignant la responsabilité des croyants à faire face à la vérité de Dieu et à accepter le message de l'heure, plutôt que de suivre la voie facile du compromis."
 tags:
   - "Jonas"

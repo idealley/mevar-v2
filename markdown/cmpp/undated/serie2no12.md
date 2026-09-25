@@ -6,7 +6,7 @@ subtitle: "1er août 1965, matin"
 date: "1965-08-01"
 year: 1965
 location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème du dieu de cet âge mauvais, expliquant que l'âge actuel est celui de la plus grande séduction, où Dieu appelle un peuple qui porte Son Nom, Son Épouse, pour l'éprouver et la manifester face à Satan. Il insiste sur la nécessité de s'attacher à toute Parole de Dieu et de discerner les faux prophètes."
 tags:
   - "âge mauvais"

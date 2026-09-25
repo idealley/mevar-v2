@@ -5,7 +5,7 @@ title: "Tabitha, Servante du Seigneur Jésus-Christ"
 subtitle: "Exhortation de Novembre 2009"
 date: "2009-11-01"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation médite sur la vie de Tabitha (Dorcas) dans Actes 9, soulignant son don de soi et ses bonnes œuvres au sein de l'Église de Joppé. L'auteur appelle les croyants à vivre pour les autres, à pratiquer des œuvres de foi, et à s'engager dans le réveil spirituel en vue de l'enlèvement. Il insiste sur l'importance d'un livre de souvenir devant Dieu et de la persévérance dans la voie du Seigneur."
 tags:
   - "Exhortations"

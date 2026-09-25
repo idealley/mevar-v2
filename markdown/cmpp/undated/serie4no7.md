@@ -6,7 +6,7 @@ subtitle: "19 juillet 1964, matin"
 date: "1964-07-19"
 year: 1964
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la Fête des Trompettes de Lévitique 23, liée aux prophéties d'Ésaïe 18 et 27. Il explique pourquoi le Saint-Esprit ne l'a pas laissé prêcher sur les sept trompettes de l'Apocalypse, car ces choses concernent Israël et non l'Église. Il souligne que les mystères des sept sceaux ont été révélés pour l'Église des derniers jours, et que Dieu agit toujours par des prophètes."
 tags:
   - "fête des trompettes"

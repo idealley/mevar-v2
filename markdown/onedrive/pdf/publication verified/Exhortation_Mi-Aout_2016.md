@@ -5,7 +5,7 @@ title: "Exhortation Mi-Août 2016"
 subtitle: "UN MESSAGE DE LA FIN DES TEMPS POUR UNE FOI DE LA FIN DES TEMPS"
 date: "2016-08-15"
 year: 2016
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation traite de la foi à la fin des temps, s'appuyant sur Romains 10:17 et Luc 18:8. L'auteur insiste sur la nécessité d'une grande foi, ancrée dans la Parole de Christ pour cette génération, et cite les exemples du centenier et de la femme cananéenne. Il encourage les croyants à développer les attributs de la divinité décrits dans 2 Pierre 1 pour une foi inébranlable."
 tags:
   - "Exhortations"

@@ -5,7 +5,7 @@ title: "QUEL EST TON BESOIN ?"
 date: "2007-11-18"
 year: 2007
 location: "Koumassi"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'orateur explique que le seul véritable besoin de l'homme est le Saint-Esprit, et non les biens matériels ou les relations. Il met en garde contre les illusions de Satan qui détournent les hommes de ce besoin essentiel, et montre comment le Saint-Esprit permet de triompher dans un monde dominé par les ténèbres."
 tags:
   - "Exhortations"

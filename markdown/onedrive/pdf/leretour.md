@@ -6,7 +6,7 @@ subtitle: "Exhortation d'Octobre 2010"
 date: "2010-10-21"
 year: 2010
 location: "Kinshasa"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à avoir un cœur droit devant Dieu, en s'appuyant sur l'histoire de Simon le magicien (Actes 8) et le ministère d'Élie. Il insiste sur le retour au Seigneur Jésus-Christ, loin de l'esprit religieux et des partis-pris, et appelle à remplir le ministère de prière et d'intercession pour l'Église."
 tags:
   - "Exhortations"

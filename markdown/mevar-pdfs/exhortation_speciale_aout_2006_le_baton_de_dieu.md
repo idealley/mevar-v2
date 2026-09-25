@@ -5,7 +5,7 @@ title: "Le bâton de Dieu"
 date: "2006-04-17"
 year: 2006
 location: "Pointe Noire, République du Congo"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Exhortation sur la nécessité de se préparer au combat spirituel avec la puissance de Dieu, symbolisée par le bâton de Moïse, pour affronter les derniers temps et faire tomber Babylone."
 tags:
   - "combat spirituel"
@@ -44,6 +44,21 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf"
 local_pdf: "/files/mevar/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Samuel 23"
+  - "Actes 8"
+  - "Aggée 2"
+  - "Apocalypse 12"
+  - "Apocalypse 12:7-12"
+  - "Apocalypse 17"
+  - "Apocalypse 17:9-14"
+  - "Daniel 10"
+  - "Exode 3:1"
+  - "Exode 3:1-4"
+  - "Exode 4"
+  - "Joël 3:9-10"
+  - "Luc 22:39-53"
+  - "Nombres 17"
 ---
 *Exhortation spéciale du Mois d'Août 2006*
 

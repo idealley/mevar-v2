@@ -1,3 +1,23 @@
+---
+source: "le-scribe"
+sermon_id: "5003xxDon&appel"
+title: "Les dons et les appels sont sans repentance"
+subtitle: "Gifts and Callings Are Without Repentance"
+year: 1950
+location: "Carlsbad (New Mexico)"
+preacher: "William Branham"
+pdf_url: "http://le-scribe.org/pdfiles/5003xxDon&appel.pdf"
+bible_refs:
+  - "2 Corinthiens 5:19"
+  - "Actes 19:12"
+  - "Exode 23:20"
+  - "Hébreux 11:2"
+  - "Jean 14:1"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Romains 11:29"
+  - "Ésaïe 53:5"
+---
  _____________________________________________________
 
    LES DONS ET LES APPELS SONT SANS REPENTANCE

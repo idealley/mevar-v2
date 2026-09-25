@@ -5,7 +5,7 @@ title: "JESUS-CHRIST – LE BON SAMARITAIN"
 subtitle: "Exhortation de Mars 2012"
 date: "2012-03-01"
 year: 2012
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore la mission de faire connaître le Dieu invisible, comme Jésus l'a fait. Elle utilise la parabole du bon Samaritain pour illustrer l'état de l'Église dépouillée par le diable et le besoin de compassion et d'obéissance. L'auteur appelle les croyants à se laisser soigner par le Seigneur dans l'hôtellerie spirituelle avant de pouvoir aider les autres."
 tags:
   - "Exhortations"

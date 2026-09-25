@@ -6,7 +6,7 @@ subtitle: "Exhortation de Décembre 2015"
 date: "2015-12-23"
 year: 2015
 location: "Kinshasa"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur compare la position de l'Église du Message à celle du prophète Jérémie, établi par Dieu sur les nations et les royaumes. Il exhorte les croyants à prendre conscience de leur position spirituelle d'autorité et de domination, source de foi et de responsabilité, pour arracher, détruire et bâtir selon la volonté de Dieu."
 tags:
   - "Prédications"

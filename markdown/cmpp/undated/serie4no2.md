@@ -6,7 +6,7 @@ subtitle: "22 décembre 1963, soir"
 date: "1963-12-22"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche un message de Noël sur les dons appropriés, en s'appuyant sur Matthieu 2 et Jean 3.16. Il aborde la naissance de Jésus, la visite des mages, et la signification de Bethléhem comme 'Maison du Pain de Dieu'. Il critique la commercialisation de Noël et souligne l'importance de la Parole de Dieu."
 tags:
   - "Noël"

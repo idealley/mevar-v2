@@ -5,7 +5,7 @@ title: "DIEU EST AMOUR – NOUS SOMMES AMOUR"
 subtitle: "Exhortation de Novembre 2013"
 date: "2013-11-01"
 year: 2013
-preacher: "Fr M'BRA PARFAIT"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur l'amour comme commandement suprême et essence de la vie chrétienne. L'auteur rappelle que l'obéissance à Dieu se manifeste par l'amour fraternel, au-delà des doctrines et des querelles. Il appelle à une préparation dans l'amour pour l'enlèvement."
 tags:
   - "Exhortations"

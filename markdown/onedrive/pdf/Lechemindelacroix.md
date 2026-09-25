@@ -6,7 +6,7 @@ subtitle: "Exhortation de Décembre 2009"
 date: "2009-12-13"
 year: 2009
 location: "Koumassi"
-preacher: "Fr. KADJANY André"
+preacher: "André Kadjany"
 summary: "L'exhortation insiste sur la nécessité de porter sa croix pour suivre Jésus, en renonçant à soi-même et au monde. Elle oppose l'attitude du jeune homme riche, qui refuse de tout quitter, à celle de Zachée, qui accueille Jésus avec joie et se dépouille de ses biens. La croix est présentée comme la puissance de Dieu et le seul chemin vers le Royaume."
 tags:
   - "Exhortations"

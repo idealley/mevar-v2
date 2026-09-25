@@ -5,7 +5,7 @@ title: "Le témoignage des apôtres"
 date: "2022-01-13"
 year: 2022
 location: "Matadi, Congo"
-preacher: "Parfait M'BRA"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur l'importance d'être de vrais témoins de Christ à la fin des temps, comme les apôtres l'ont été. Le message du temps de la fin, prêché par William Branham, vise à susciter des disciples qui ont une expérience personnelle et authentique avec le Seigneur, non une foi religieuse superficielle. Le témoignage personnel, construit par la communion avec le Saint-Esprit, est essentiel pour le combat spirituel et la manifestation de la vérité."
 tags:
   - "témoignage"
@@ -40,6 +40,17 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/le_temoignage_des_apotres_13_janvier_2022.pdf"
 local_pdf: "/files/mevar/le_temoignage_des_apotres_13_janvier_2022.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 3"
+  - "1 Corinthiens 6"
+  - "1 Jean 1"
+  - "1 Timothée 4"
+  - "2 Pierre 1:16"
+  - "2 Thessaloniciens 2"
+  - "2 Timothée 3"
+  - "Luc 17"
+  - "Luc 21"
+  - "Matthieu 24"
 ---
 Le témoignage des apôtres
 

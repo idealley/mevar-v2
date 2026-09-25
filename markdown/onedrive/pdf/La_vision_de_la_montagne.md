@@ -5,7 +5,7 @@ title: "La vision de la montagne"
 date: "2014-02-23"
 year: 2014
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation développe le thème de la vision de la montagne, en s'appuyant sur Exode 24 et 1 Chroniques 28, pour montrer que Dieu a un plan et un modèle pour son temple spirituel, l'Église. Le prédicateur insiste sur la nécessité d'être convoqué par Dieu sur la montagne de la révélation pour recevoir la vision du Christ, le vrai temple, et de se laisser façonner selon ce modèle divin."
 tags:
   - "Exhortations"

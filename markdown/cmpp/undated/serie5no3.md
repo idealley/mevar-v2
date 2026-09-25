@@ -6,7 +6,7 @@ subtitle: "21 février 1965, après-midi / 18 avril 1965, soir"
 date: "1965-04-18"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur l'élection divine et la sécurité éternelle des croyants scellés par le Saint-Esprit. Il utilise l'histoire de Balaam pour montrer que Dieu ne change jamais Sa pensée au sujet de Sa Parole, et compare l'Israël de l'Ancien Testament à l'Épouse du Nouveau Testament. Il ordonne plusieurs pasteurs par l'imposition des mains."
 tags:
   - "élection"

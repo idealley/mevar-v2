@@ -6,7 +6,7 @@ subtitle: "Exhortation d'Avril 2010"
 date: "2010-03-28"
 year: 2010
 location: "Koumassi"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation traite de l'épreuve de la foi comme moyen de perfectionnement spirituel. Le prédicateur explique que les épreuves viennent de Dieu pour sonder le cœur et les reins du croyant, afin de révéler ses pensées cachées et de l'affermir dans la foi. Il distingue l'épreuve (de Dieu) de la tentation (du diable) et montre, à travers des exemples bibliques (Abraham, Job, Israël au désert), que l'épreuve est nécessaire pour grandir et atteindre la maturité spirituelle."
 tags:
   - "Exhortations"

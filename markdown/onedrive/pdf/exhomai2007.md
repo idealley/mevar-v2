@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mai 2007"
 date: "2007-05-01"
 year: 2007
 location: "Koumassi"
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation et prédication appellent les croyants à sortir de Babylone, c'est-à-dire de la religion et des impuretés, et à mener une guerre de libération contre le siège de Satan dans le Corps de Christ. Elle insiste sur la nécessité de la sanctification individuelle et collective, et sur le rôle de la chaîne de prière dans ce combat spirituel."
 tags:
   - "Exhortations"

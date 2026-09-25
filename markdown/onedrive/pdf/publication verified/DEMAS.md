@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mars 2016"
 date: "2016-03-16"
 year: 2016
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur examine le personnage biblique de Démas, qui abandonna l'apôtre Paul par amour pour le siècle présent. Il met en garde contre l'esprit de mondanité qui peut corrompre l'onction et empêcher la libération spirituelle. S'appuyant sur l'Ecclésiaste, il montre que les plaisirs du monde sont vanité et que le vrai problème du chrétien est la libération de son esprit de toute influence démoniaque."
 tags:
   - "Prédications"

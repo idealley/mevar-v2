@@ -5,7 +5,7 @@ title: "La guerre des deux maisons – Saül contre David"
 subtitle: "Exhortation de Décembre 2011"
 date: "2011-12-01"
 year: 2011
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation compare la guerre entre la maison de Saül et la maison de David à la lutte spirituelle actuelle entre la vie charnelle et la vie spirituelle. L'auteur encourage les croyants à se ranger du côté de la maison de David, qui représente ceux qui ont l'onction royale et la promesse de régner avec Christ, et à éviter les compromis et les mélanges."
 tags:
   - "Exhortations"

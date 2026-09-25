@@ -5,7 +5,7 @@ title: "LE TEMPS DE LA RESTITUTION"
 subtitle: "Exhortation de Juin 2013"
 date: "2013-06-01"
 year: 2013
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore le thème de la liberté en Christ et de la restitution, en s'appuyant sur l'histoire de Job. L'auteur explique que la foi chrétienne passe par trois étapes : l'appel, l'épreuve et la restauration. Il insiste sur la nécessité de la destruction du vieil homme pour expérimenter la restitution de toutes choses par Dieu, et appelle les croyants à marcher dans la sainteté et l'intégrité."
 tags:
   - "Exhortations"

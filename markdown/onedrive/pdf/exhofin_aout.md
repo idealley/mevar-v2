@@ -6,7 +6,7 @@ subtitle: "ÉVÉNEMENTS MYSTÉRIEUX DANS LE SOLEIL - APPEL À LA GUERRE – APPE
 date: "2007-08-31"
 year: 2007
 location: "Toutoubré, Gagnoa, Côte d'Ivoire"
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce document rapporte des événements mystérieux observés dans le soleil le 1er août 2007 dans un village de Côte d'Ivoire, interprétés comme une revue de troupes célestes annonçant le combat spirituel contre Babylone. Il exhorte les croyants à s'engager dans la prière et le jeûne pour déstabiliser les puissances démoniaques et préparer le réveil."
 tags:
   - "Exhortations"

@@ -28,6 +28,9 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/sujets_de_priere_juin_2019.pdf"
 local_pdf: "/files/mevar/sujets_de_priere_juin_2019.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 19:33-37"
+  - "Juges 6:25"
 ---
 SUJETS DE PRIERE DE JUIN
 

@@ -6,7 +6,7 @@ subtitle: "APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE - 2009 – ANN
 date: "2008-12-31"
 year: 2008
 location: "Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation bilan de fin d'année 2008 fait le point sur les épreuves et attaques spirituelles subies par le mouvement de réveil durant l'année, soulignant l'importance des dons du Saint-Esprit (prophéties, visions, songes) dans le combat spirituel. L'auteur annonce que 2009 sera une année de campagne contre Babylone, appelant les croyants à se préparer à la guerre spirituelle et à la délivrance."
 tags:
   - "Exhortations"

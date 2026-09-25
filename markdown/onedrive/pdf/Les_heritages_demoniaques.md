@@ -5,7 +5,7 @@ title: "Les héritages démoniaques"
 subtitle: "Exhortation de Juin 2019"
 date: "2019-06-01"
 year: 2019
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette prédication explique que les alliances spirituelles contractées par les ancêtres avec des esprits démoniaques deviennent des héritages pour leur descendance. Elle montre à travers des exemples bibliques (Adam, les Gabaonites, les Crétois) comment ces héritages influencent les comportements et les malédictions familiales, et enseigne comment s'en affranchir par la puissance de la nouvelle alliance en Jésus-Christ."
 tags:
   - "Prédications"

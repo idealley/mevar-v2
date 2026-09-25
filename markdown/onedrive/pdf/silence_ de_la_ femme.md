@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "silence_ de_la_ femme"
 title: "Le silence de la femme"
-preacher: "Anderson Irié"
+preacher: "Irié Anderson"
 summary: "L'article examine l'enseignement biblique sur le rôle de la femme dans l'Église, basé sur 2 Timothée 2:11-15. Il insiste sur le silence, la soumission et l'interdiction d'enseigner ou d'exercer l'autorité sur l'homme, tout en soulignant les dangers de la médisance, des intrigues et de l'insoumission. L'auteur appelle les femmes à la modestie et à la fidélité, et les maris à enseigner leurs femmes à la maison."
 tags:
   - "Publications"

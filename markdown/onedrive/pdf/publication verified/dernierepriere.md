@@ -5,7 +5,7 @@ title: "LA DERNIERE PRIERE DES SAINTS"
 date: "2006-04-19"
 year: 2006
 location: "Pointe Noire, Congo Brazzaville"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message exhorte les saints à se préparer pour l'enlèvement en vivant dans la communion intime avec Dieu, la prière, le jeûne et la réconciliation. Il révèle que la dernière prière des saints sera 'Viens, Seigneur Jésus', une prière unanime de l'Épouse et de l'Esprit, et met en garde contre la folie spirituelle qui empêche d'y participer."
 tags:
   - "Prédications"

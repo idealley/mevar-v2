@@ -5,7 +5,7 @@ title: "La prédication de la croix et le Message du temps de la fin"
 date: "2021-02-21"
 year: 2021
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique la différence entre l'Évangile de la croix et le Message du temps de la fin prêché par William Branham. Il met en garde contre la confusion dans les milieux du Message, insiste sur la nécessité de revenir à Jésus-Christ et à la sanctification, et dénonce les fausses doctrines comme la polygamie et la consommation d'alcool."
 tags:
   - "croix"
@@ -46,6 +46,17 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.pdf"
 local_pdf: "/files/mevar/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 1:17"
+  - "2 Pierre 1"
+  - "Galates 2:20"
+  - "Galates 3:3"
+  - "Marc 10"
+  - "Marc 10:7-9"
+  - "Matthieu 13"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Matthieu 27"
 ---
 La prédication de la croix et le Message du temps de la fin
 

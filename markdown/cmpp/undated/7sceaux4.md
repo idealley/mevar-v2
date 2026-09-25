@@ -6,7 +6,7 @@ subtitle: "Le Deuxième Sceau"
 date: "1963-03-19"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Prédication sur le deuxième sceau de l'Apocalypse, où le cavalier au cheval roux ôte la paix de la terre. Branham relie ce sceau à l'antichrist et aux imitations de Satan, insistant sur la révélation des mystères dans les derniers jours par les prophètes."
 tags:
   - "deuxième sceau"

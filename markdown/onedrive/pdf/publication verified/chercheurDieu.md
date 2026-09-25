@@ -5,7 +5,7 @@ title: "Chercheurs de Dieu"
 date: "2007-01-17"
 year: 2007
 location: "So-Tchanwé, Bénin"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Dans cette exhortation, le frère M'BRA Parfait appelle les croyants à devenir des chercheurs de Dieu dans les temps de réveil. Il insiste sur la nécessité de jeûner et prier, car le réveil modifie le comportement des chrétiens et les pousse à rechercher Dieu avec ferveur. Il partage son expérience personnelle de visitation angélique et encourage l'assemblée à entrer dans la vision du réveil."
 tags:
   - "Exhortations"

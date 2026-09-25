@@ -1,3 +1,32 @@
+---
+source: "le-scribe"
+sermon_id: "620623Perseverant"
+title: "Persévérant"
+subtitle: "Perseverant"
+date: "1962-06-23"
+year: 1962
+location: "South Gates (Californie)"
+preacher: "William Branham"
+pdf_url: "http://le-scribe.org/pdfiles/620623Perseverant.pdf"
+bible_refs:
+  - "1 Rois 21:19-21"
+  - "1 Rois 22"
+  - "2 Rois 4:8-37"
+  - "Deutéronome 18:15"
+  - "Hébreux 1:3,4"
+  - "Hébreux 6"
+  - "Jean 11:21-22"
+  - "Jean 11:25-27"
+  - "Jean 14:12"
+  - "Jean 14:19,17"
+  - "Jean 9"
+  - "Matthieu 15:21-28"
+  - "Proverbes 14:12"
+  - "Romains 10:17"
+  - "Éphésiens 4:30"
+  - "Ésaïe 35:8"
+original: "branham/1962/62-0623"
+---
     Résumé de!: “Persévérant” (23 juin 1963, soir)       1
     _____________________________________________________
 

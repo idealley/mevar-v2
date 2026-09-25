@@ -5,7 +5,7 @@ title: "LA VICTOIRE APPARTIENT A L’ETERNEL !"
 subtitle: "Exhortation de Janvier 2008"
 date: "2008-01-01"
 year: 2008
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation de janvier 2008 rappelle les combats spirituels de l'année 2007, notamment la sanctification et la lutte contre les péchés du sexe, puis l'engagement dans le combat spirituel contre Babylone. Elle annonce pour 2008 une année de gloire et de délivrance, avec des opérations de prière pour la RDC, le Bénin et Haïti, et encourage les croyants à être résolus et audacieux dans la foi."
 tags:
   - "Exhortations"

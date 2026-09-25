@@ -6,7 +6,7 @@ subtitle: "25 août 1963, soir"
 date: "1963-08-25"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la foi parfaite, expliquant qu'elle est une ferme assurance des choses espérées, non une imagination. Il insiste sur le fait que la foi vient de la Parole de Dieu et que la foi parfaite agit immédiatement, sans besoin de signes extérieurs. Il illustre par des exemples bibliques et des témoignages de guérison."
 tags:
   - "foi"

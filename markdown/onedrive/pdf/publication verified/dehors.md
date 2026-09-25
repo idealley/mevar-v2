@@ -5,7 +5,7 @@ title: "Dehors les chiens !"
 subtitle: "Exhortation de Juillet 2007"
 date: "2007-07"
 year: 2007
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de juillet 2007, basée sur Apocalypse 22:14-15, appelle les croyants à se préparer pour le retour de Jésus-Christ en se purifiant de tout péché. Elle reprend une vision de David Wilkerson sur l'enlèvement, soulignant l'urgence de la sanctification, du pardon et de la séparation du monde. Le message avertit que beaucoup de chrétiens tièdes seront laissés derrière."
 tags:
   - "Exhortations"

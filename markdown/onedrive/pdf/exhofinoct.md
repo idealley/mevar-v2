@@ -5,7 +5,7 @@ title: "VAINQUEURS DANS LE MAUVAIS JOUR"
 subtitle: "Exhortation d'Octobre 2011"
 date: "2011-10-01"
 year: 2011
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation, basée sur Apocalypse 3:21, appelle les croyants de Laodicée à devenir vainqueurs dans le mauvais jour. Elle insiste sur le combat spirituel, le dépouillement du vieil homme, et la préparation pour la guerre des dieux à la fin des temps. L'auteur annonce une semaine de prière et de jeûne en novembre 2011 pour la sanctification et la victoire sur les démons."
 tags:
   - "Exhortations"

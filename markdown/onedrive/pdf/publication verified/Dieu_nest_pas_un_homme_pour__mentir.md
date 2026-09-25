@@ -6,7 +6,7 @@ subtitle: "Exhortation de Septembre 2015"
 date: "2015-09-05"
 year: 2015
 location: "Guibéroua"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur développe le thème de la fidélité de Dieu à ses promesses, en s'appuyant sur Nombres 23:19. Il montre que Dieu n'est pas un homme pour mentir ou se repentir, et que sa Parole s'accomplit toujours. Cependant, les hommes peuvent se rendre indignes de l'appel de Dieu par leur désobéissance, comme l'illustrent les exemples de Saül et des enfants d'Israël en Canaan. L'exhortation encourage les croyants à demeurer dans les conditions de l'accomplissement des promesses et à ne pas être paresseux dans le combat spirituel."
 tags:
   - "Exhortations"

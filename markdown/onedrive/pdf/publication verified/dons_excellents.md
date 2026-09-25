@@ -6,7 +6,7 @@ subtitle: "Exhortation de Novembre 2013"
 date: "2013-11-24"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à ne pas chercher ce que Dieu ne leur a pas donné, mais à s'attendre aux dons excellents qui viennent d'en haut. Il met en garde contre la convoitise qui mène à la tentation et au péché, et insiste sur le fait que tout travail procure l'abondance si on le fait avec honnêteté et dans la volonté de Dieu."
 tags:
   - "Exhortations"

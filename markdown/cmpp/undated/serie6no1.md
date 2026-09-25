@@ -6,7 +6,7 @@ subtitle: "29 avril 1965, soir"
 date: "1965-04-29"
 year: 1965
 location: "Los Angeles, Californie, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le choix d'une épouse, en utilisant l'histoire d'Isaac et Rebecca comme type de l'Épouse de Christ. Il exhorte à faire des choix sages dans le mariage, l'église et la vie spirituelle, soulignant l'importance de prier et de suivre la volonté de Dieu."
 tags:
   - "choix"

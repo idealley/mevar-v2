@@ -5,7 +5,7 @@ title: "L'Ange de la marche"
 date: "2007-10-23"
 year: 2007
 location: "Pointe Noire"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'assemblée à discerner la présence surnaturelle de l'Ange de la marche, qui conduit l'Église à la fin des temps comme il a conduit Israël en Canaan. Il met en garde contre l'attachement aux hommes, le péché et l'esprit de Babylone, appelant à la sainteté et au combat spirituel pour l'enlèvement."
 tags:
   - "Prédications"

@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2009"
 date: "2009-01-18"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation développe le thème de la Pentecôte comme fête du Saint-Esprit, en s'appuyant sur Actes 2 et la prophétie de Joël. Le prédicateur appelle les croyants à se préparer pour la dernière Pentecôte, qui enlèvera l'Église vers le ciel, et à quitter Babylone pour la chambre haute."
 tags:
   - "Exhortations"

@@ -5,7 +5,7 @@ title: "LE SOLDAT URIE"
 subtitle: "Exhortation d'Avril 2014"
 date: "2014-04-01"
 year: 2014
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation compare les attitudes de David et d'Urie pendant la guerre contre les Ammonites. David, désœuvré, succombe à la tentation et commet l'adultère, tandis qu'Urie, soldat intègre et solidaire de l'arche de Dieu, résiste à la tentation. L'auteur appelle les croyants à être comme Urie, solidaires du combat spirituel du Seigneur contre l'ennemi, en renonçant à la chair et en s'unissant dans l'amour et l'humilité."
 tags:
   - "Exhortations"

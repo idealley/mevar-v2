@@ -4,7 +4,7 @@ sermon_id: "exhortation_speciale_de_decembre_2021"
 title: "LE TEMPS DE DIEU"
 date: "2021-12-01"
 year: 2021
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de décembre 2021 appelle l'Église à laver sa robe spirituelle par l'obéissance aux commandements de Dieu, à discerner les signes des temps face à la révolution des pervers, et à se laisser conduire par le Saint-Esprit plutôt que par les informations du monde. Elle souligne l'importance de la puissance de Dieu et des miracles dans le combat spirituel, et annonce une nouvelle période dans l'œuvre de Dieu."
 tags:
   - "temps de Dieu"
@@ -39,6 +39,30 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_speciale_de_decembre_2021.pdf"
 local_pdf: "/files/mevar/exhortation_speciale_de_decembre_2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 6:19-20"
+  - "1 Jean 2:15-17"
+  - "2 Rois 11"
+  - "2 Rois 7"
+  - "2 Timothée 3:1-5"
+  - "Apocalypse 19"
+  - "Apocalypse 22"
+  - "Apocalypse 22:14"
+  - "Apocalypse 22:16"
+  - "Apocalypse 3:15-17"
+  - "Colossiens 1:3-6"
+  - "Jacques 4:4"
+  - "Jean 11:45-50"
+  - "Jean 12:9-11"
+  - "Jean 14:18-19"
+  - "Jean 15:1-2"
+  - "Jean 17:15-17"
+  - "Luc 4:25-27"
+  - "Matthieu 10:7-9"
+  - "Matthieu 16:1-3"
+  - "Matthieu 22:13"
+  - "Matthieu 25"
+  - "Ésaïe 35:4-6"
 ---
 Exhortation Spéciale de Décembre 2021
 

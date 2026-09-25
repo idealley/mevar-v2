@@ -5,7 +5,7 @@ title: "La foi comme un grain de moutarde"
 date: "2022-08-17"
 year: 2022
 location: "Lausanne"
-preacher: "Pouyt Samuel"
+preacher: "Samuel Pouyt"
 summary: "Cette exhortation explore la parabole du grain de moutarde et son lien avec la foi. Le grain de moutarde représente Jésus, la semence unique plantée dans le monde, qui grandit pour devenir le royaume de Dieu. Avoir la foi comme un grain de moutarde signifie connaître son rôle, rester focalisé sur sa mission et produire des œuvres, à l'image de Jésus."
 tags:
   - "foi"
@@ -32,6 +32,18 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
 local_pdf: "/files/mevar/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 3:15"
+  - "Hébreux 11:5-6"
+  - "Jean 12:23-24"
+  - "Luc 18:7-8"
+  - "Matthieu 13:31-32"
+  - "Matthieu 17:14-21"
+  - "Matthieu 17:5"
+  - "Matthieu 3:17"
+  - "Michée 5:1-4"
+  - "Romains 10:17"
+  - "Ésaïe 53:1-3"
 ---
 “Si vous aviez de la foi comme un grain de moutarde.”
 

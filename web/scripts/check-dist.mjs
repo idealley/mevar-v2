@@ -50,10 +50,11 @@ report(
   fs.existsSync(path.join(dist, "works/mevar")) ? ["dist/works/mevar/ exists"] : [],
 );
 
-// 2. Every redirect lands on a page. ":slug" is each Ghost author.
+// 2. Every redirect lands on a page: goal 03's, and the duplicates' (goal 08)
+// that the build appends. ":slug" is each Ghost author.
 const authors = read("mevar-authors.json").map((a) => a.slug);
 const targets = fs
-  .readFileSync(path.join(web, "public/_redirects"), "utf8")
+  .readFileSync(path.join(dist, "_redirects"), "utf8")
   .split("\n")
   .filter((l) => l.startsWith("/"))
   .flatMap((l) => {

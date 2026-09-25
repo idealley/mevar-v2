@@ -6,7 +6,7 @@ subtitle: "11 juillet 1965, matin"
 date: "1965-07-11"
 year: 1965
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la honte d'être associé à Christ dans les derniers jours, exhortant l'Église à rester fidèle à la Parole. Il partage des expériences personnelles, des visions prophétiques sur le jugement de Los Angeles, et appelle à chercher l'Épouse de Christ."
 tags:
   - "honte"

@@ -12,7 +12,7 @@ from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 | 05 | [Search and deploy](goal-05-search-and-deploy.md): Pagefind, Cloudflare Pages, Africa budget | 01, 03 | Cloudflare project, secrets, DNS |
 | 06 | [Email on Resend](goal-06-email-on-resend.md): signup, member import, publication emails | 01, 05 | Resend account, DNS, real import, every real send |
 | 07 | [Branham text](goal-07-branham-text.md): restore the text from branham.org, find spoken citations | 02 | none |
-| 08 | [Mevar first](goal-08-mevar-first.md): Mevar lists and search first, the archive below, verse pages | 05, 12 | none |
+| 08 | [Mevar first](goal-08-mevar-first.md): Mevar lists and search first, the archive below, verse pages | 05 | none |
 | 09 | [Mevar duplicates](goal-09-mevar-duplicates.md): each sermon once across Ghost, PDFs and OneDrive | none | Samuel decides the uncertain pairs |
 | 10 | [Mevar editorial](goal-10-mevar-editorial.md): goal 04's pass on the OneDrive and PDF texts, in batches | 09 | cost estimate; Samuel reads a sample of each batch |
 | 11 | [French spoken refs](goal-11-french-spoken-refs.md): "Luc chapitre 18 verset 9" and "le chapitre 24 de Matthieu" are recorded | 07 | none |

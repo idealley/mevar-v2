@@ -5,7 +5,7 @@ title: "LES CŒURS DURS"
 subtitle: "Exhortation d'Octobre 2017"
 date: "2017-10-01"
 year: 2017
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation traite de la dureté du cœur, qui empêche de comprendre l'Évangile et de pratiquer la miséricorde. L'auteur explique que le divorce n'est pas permis dans le peuple de Dieu ayant expérimenté la nouvelle naissance, et donne des conseils pour les couples mixtes. Il encourage à cultiver un cœur de chair, doux et humble, pour servir Dieu et supporter les autres."
 tags:
   - "Exhortations"

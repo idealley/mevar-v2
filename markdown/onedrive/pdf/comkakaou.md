@@ -5,7 +5,7 @@ title: "Communiqué du Pasteur M'BRA Parfait relatif aux activités du faux prop
 date: "2009-02-15"
 year: 2009
 location: "Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le pasteur M'BRA Parfait met en garde contre les enseignements de Kacou Philippe, qu'il qualifie de faux prophète. Il réfute ses affirmations sur la Bible Darby, le rebaptême et son statut de dernier messager, et explique que le Cri de Minuit de Matthieu 25 s'adresse aux chrétiens endormis, non à de nouveaux convertis. Il appelle les chrétiens à éprouver les esprits selon la Parole de Dieu."
 tags:
   - "Publications"

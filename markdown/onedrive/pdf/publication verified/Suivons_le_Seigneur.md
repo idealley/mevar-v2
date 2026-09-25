@@ -5,7 +5,7 @@ title: "Suivons le Seigneur"
 date: "2016-11-10"
 year: 2016
 location: "Duekoué"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Exhortation à suivre Jésus-Christ seul, non les hommes, les églises ou les doctrines. Le prédicateur insiste sur la nécessité de marcher dans l'obéissance à la Parole, de se séparer du monde et de persévérer dans les épreuves pour être honoré par Dieu et participer à l'enlèvement."
 tags:
   - "Exhortations"

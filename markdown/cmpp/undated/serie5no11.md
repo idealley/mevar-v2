@@ -6,7 +6,7 @@ subtitle: "25 novembre 1965, soir"
 date: "1965-11-25"
 year: 1965
 location: "Shreveport, Louisiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur l'union invisible de l'Épouse de Christ, utilisant Romains 7 comme texte de base. Il compare la relation de l'Église avec Christ à un mariage, soulignant que l'Église ne peut être mariée à la fois à Christ et au monde. Il aborde la pureté de l'Épouse, la sanctification, et la nécessité de se séparer des dénominations et des credo pour être fidèle à la Parole de Dieu."
 tags:
   - "Épouse de Christ"

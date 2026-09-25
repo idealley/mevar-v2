@@ -5,7 +5,7 @@ title: "La femme étrangère"
 date: "2007-08-12"
 year: 2007
 location: "Koumassi"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Prédication sur l'esprit de séduction appelé 'la femme étrangère' dans Proverbes 7, qui conduit à la mort spirituelle. L'orateur exhorte à la maîtrise de soi dans les réunions, dénonce les péchés d'impudicité et d'adultère, et appelle hommes et femmes à se délivrer de cet esprit par l'obéissance à la Parole de Dieu."
 tags:
   - "Prédications"

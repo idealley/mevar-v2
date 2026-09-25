@@ -6,7 +6,7 @@ subtitle: "24 mars 1963, matin"
 date: "1963-03-24"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham répond à des questions sur les sept sceaux, les vierges sages et folles, le mariage après divorce, l'huile et le vin, le Livre de Vie, et le salut des Juifs. Il exhorte à ne pas interpréter les révélations et à continuer fidèlement son service."
 tags:
   - "sept sceaux"

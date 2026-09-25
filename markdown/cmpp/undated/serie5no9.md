@@ -6,7 +6,7 @@ subtitle: "29 août 1965, soir"
 date: "1965-08-29"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la tromperie de Satan qui, depuis le jardin d'Eden, pervertit la Parole de Dieu. Il compare l'Eden de Dieu (justice, sainteté, vie éternelle) à l'éden de Satan (péché, religion pervertie, connaissance intellectuelle). Il avertit que dans les derniers jours, Satan trompe même les élus par une fausse religion, et que l'Église de Laodicée est riche mais aveugle et nue."
 tags:
   - "Eden"

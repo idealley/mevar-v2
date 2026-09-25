@@ -5,7 +5,7 @@ import Layout from "../layouts/Layout.astro";
 import { render } from "astro:content";
 import { Badge } from "$lib/components/ui/badge";
 import { formatDateFr, deriveKind } from "$lib/utils";
-import { allWorks, tags, workAt, workUrl, type WorkEntry } from "$lib/works";
+import { allWorks, isMevar, tags, workAt, workUrl, type WorkEntry } from "$lib/works";
 
 interface Props {
   entry: WorkEntry;
@@ -45,6 +45,7 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
     {preacher && <meta data-pagefind-filter="preacher[content]" content={preacher} />}
     {fm.year && <meta data-pagefind-filter="year[content]" content={String(fm.year)} />}
     {fm.source && <meta data-pagefind-filter="source[content]" content={fm.source} />}
+    <meta data-pagefind-filter="collection[content]" content={isMevar(entry) ? "Mevar" : "Archives"} />
     <!-- Header: only the title is indexed, as the result's title -->
     <header class="mb-8 pb-8 border-b" data-pagefind-ignore>
       <div class="flex flex-wrap gap-1 mb-3">

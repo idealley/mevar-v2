@@ -5,7 +5,7 @@ title: "LE VIN NOUVEAU ET LE VIEUX VIN"
 subtitle: "Exhortation de Juillet 2018"
 date: "2018-07-01"
 year: 2018
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore le thème de la victoire en Christ dans l'âge de Laodicée, en insistant sur le prix à payer pour être vainqueur. Elle compare le temps de Lot à notre génération, soulignant la rareté des justes. L'auteur distingue le vieux vin (l'onction passée) du vin nouveau (l'onction du réveil pour l'Épouse), appelant à entrer dans la nouvelle onction pour accomplir le dessein de Dieu."
 tags:
   - "Exhortations"

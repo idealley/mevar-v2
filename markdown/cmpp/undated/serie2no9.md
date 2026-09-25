@@ -6,7 +6,7 @@ subtitle: "16 août 1964, matin"
 date: "1964-08-16"
 year: 1964
 location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la confirmation de la Parole de Dieu à travers les âges, en utilisant les exemples de la femme à la perte de sang et de la reine de Séba. Il souligne que Dieu prouve Sa Parole par des signes et des prodiges, et que la foi doit s'appuyer sur la Parole confirmée. Il partage également des expériences personnelles de visions prophétiques accomplies."
 tags:
   - "foi"

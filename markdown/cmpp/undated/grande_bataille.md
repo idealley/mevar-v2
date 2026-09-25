@@ -6,7 +6,7 @@ subtitle: "11 mars 1962, matin"
 date: "1962-03-11"
 year: 1962
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham enseigne que la plus grande bataille jamais livrée se déroule dans la pensée humaine, où Satan attaque par le doute de la Parole de Dieu. Il explique la constitution de l'homme (corps, âme, esprit) et comment la foi doit être reçue par le libre arbitre, en laissant la Parole de Dieu agir sans entraves. Il encourage les croyants à garder leur position comme les étoiles dans le ciel."
 tags:
   - "bataille spirituelle"

@@ -5,7 +5,7 @@ title: "NOTRE GENERATION VERRA LA GUERRE"
 subtitle: "Exhortation de Avril 2015"
 date: "2015-04-01"
 year: 2015
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur la nécessité de se préparer à la guerre spirituelle imminente. L'auteur compare le chemin du désert emprunté par Israël à la préparation actuelle de l'Église par le Message du Temps de la Fin. Il appelle les croyants à croire aux prophètes et à se dépouiller de la peur et de l'incrédulité pour devenir des soldats efficaces dans le dernier réveil mondial."
 tags:
   - "Exhortations"

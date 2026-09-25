@@ -6,7 +6,7 @@ subtitle: "Exhortation de Novembre 2011"
 date: "2011-11-13"
 year: 2011
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur expose la vision spirituelle de la fin des temps, où l'Église doit se préparer à la guerre spirituelle contre les forces de Babylone. Il utilise l'histoire biblique d'Athalie et de Joas pour illustrer comment la semence royale (Christ en nous) a été cachée et sera manifestée pour paître les nations avec une verge de fer, rétablissant la vérité avant l'enlèvement."
 tags:
   - "Prédications"

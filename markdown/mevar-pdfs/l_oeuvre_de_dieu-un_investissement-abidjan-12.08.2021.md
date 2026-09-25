@@ -5,7 +5,7 @@ title: "L’œuvre de Dieu – un investissement"
 date: "2021-08-12"
 year: 2021
 location: "Port-bouët - Abidjan"
-preacher: "Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "L'exhortation encourage les chrétiens à persévérer dans l'œuvre de Dieu en considérant le service comme un investissement spirituel qui rapporte des récompenses éternelles et terrestres. S'appuyant sur Matthieu 19:27-30 et Luc 22:28-30, l'orateur explique que tout acte de foi est pour notre propre bénéfice, et que Dieu récompense fidèlement ceux qui servent avec zèle."
 tags:
   - "investissement spirituel"
@@ -35,6 +35,10 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf"
 local_pdf: "/files/mevar/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Luc 12"
+  - "Luc 22:28"
+  - "Matthieu 19:27"
 ---
 Amen, gloire à Dieu. C’est vrai, il y a beaucoup de souffrance dans l’œuvre de Dieu mais celui qui tient ferme sera récompensé. C’est ce que nous allons lire dans Matthieu chapitre 19 au verset 27 :
 

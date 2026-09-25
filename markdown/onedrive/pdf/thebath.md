@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "thebath"
 title: "The bath of the Christian"
 location: "Arrah"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message exhorte les chrétiens à se sanctifier par la prière et le jeûne, en utilisant la métaphore du bain : l'eau représente la Parole de Dieu, le savon la prière, et l'éponge le jeûne. Il critique la tiédeur spirituelle et appelle à un combat spirituel pour être prêt pour l'enlèvement."
 tags:
   - "Exhortations"

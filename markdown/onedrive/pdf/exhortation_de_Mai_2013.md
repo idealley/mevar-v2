@@ -5,7 +5,7 @@ title: "LA NEGLIGENCE DE MOÏSE"
 subtitle: "Exhortation de Mai 2013"
 date: "2013-05-01"
 year: 2013
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation met en garde contre la négligence dans le service de Dieu, en prenant l'exemple de Moïse qui faillit être tué par Dieu pour avoir négligé la circoncision de son fils. Elle souligne que Dieu n'est pas un bouffon et que les miracles ne se produisent que lorsque Dieu est content et trouve des vases complices. Les croyants sont appelés à la sainteté, à la sobriété et à la fidélité dans l'attente du retour du Seigneur."
 tags:
   - "Exhortations"

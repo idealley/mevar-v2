@@ -5,7 +5,9 @@
 `scripts/65-normalize-bible.mjs`, `scripts/66-normalize-bible-en.mjs`,
 `manifests/bible-refs.json`, `index.json`, the `bible_refs` frontmatter of
 every source, `docs/`)
-**Depends on:** 11 (merged as PR #11)
+**Depends on:** 11 (merged as PR #11) and 08 (merged as PR #12, which
+exported `citations()` from 65 and 66 and gave the ten works with no
+frontmatter theirs)
 **Rules:** [README.md](README.md)
 
 ## Problem
@@ -16,9 +18,10 @@ A work's Bible refs are kept in two places, and neither is right.
   copies the refs into `bible_refs` with `refs.slice(0, 50)`. The comment
   says why: "avoid huge frontmatter for sermon transcripts". It is our own
   limit, from commit `958cab3` (2026-05-06), older than any page that could
-  show the refs; nothing under `web/src` reads `bible_refs` today. Measured
-  on `main` after PR #11: 90 works with frontmatter have more than 50 refs,
-  and 3,946 of their refs never reach it. The longest list has 389.
+  show the refs; nothing under `web/src` reads `bible_refs` today (goal 08's
+  verse pages read `manifests/bible-refs.json`). Measured on `main` after
+  PR #12: 95 works have more than 50 refs, and 4,325 of their refs never
+  reach the frontmatter. The longest list has 389.
 - **The cut is alphabetical, so it hides the end of the alphabet.** A long
   list keeps its first 50 names in alphabetical order (`1 Corinthiens`,
   `Actes`, `Apocalypse`, …) and loses the rest (`Romains`, `Zacharie`, …),
@@ -26,35 +29,25 @@ A work's Bible refs are kept in two places, and neither is right.
   goal 11 took 38 refs out of 25 works that way (`qui-est-dieu` lost
   `Zacharie 12:1` and `Zacharie 12:10`).
 - **The order the preacher cites them in is thrown away.** `65` and `66`
-  find each ref at its place in the text, then sort the list alphabetically
-  before writing `manifests/bible-refs.json`
-  (`scripts/65-normalize-bible.mjs:224`, `scripts/66-normalize-bible-en.mjs:171`:
-  `[...new Set(found)].sort()`). The order is not lost: the text still has
-  it, and the scripts see each position while they scan. It is only never
-  kept.
-
-Ten files have refs in the manifest but no frontmatter at all (322 refs,
-among them `cmpp/undated/lc56` with 120 and `local/Volume-2-Ver2.0` with
-93). `47` skips them, cap or not. They are "Markdown files with no
-frontmatter" in `docs/follow-ups.md`, not this goal.
+  find each ref with its position (`citations()` yields `{ index, text, ref
+  }`), then sort the list alphabetically before writing
+  `manifests/bible-refs.json` (`scripts/65-normalize-bible.mjs:275`,
+  `scripts/66-normalize-bible-en.mjs:213`: `[...new Set([...citations(body)]
+  .map((c) => c.ref))].sort()`). The order is not lost: the positions are
+  right there. It is only never kept.
 
 ## Work items
 
-1. **`65` and `66` keep the order of first appearance.** Each match already
-   carries its position (`match.index`). Collect `[position, ref]` from every
-   pattern of the script (in `65`: the two spoken patterns and `REF_RE`; in
-   `66`: `REF_RE` and the two spoken patterns), sort by position, keep the
-   first occurrence of each ref, and write that list. Two patterns can find
-   refs at nearby positions ("Genèse 19, genèse chapitre 19"): position
-   decides, and a ref already listed keeps its first place. Two refs can
-   also start at the same position: in `66`, "Luke 11th chapter and 24th
-   verse" gives `Luke 11` from `REF_RE` and `Luke 11:24` from a spoken
-   pattern. At the same position, the order the script collects them in
-   decides (`66`: `REF_RE`, then the spoken patterns; `65`: the spoken
-   patterns, then `REF_RE`), so a run is deterministic. Nothing else in
-   either script changes: the same refs are found, only their order differs.
-   If any work gains or loses a ref, stop and find out why; what 65 or 66
-   recognises is another goal.
+1. **`65` and `66` keep the order of first appearance.** Change only the
+   driver line quoted above, in each script: sort the citations by `index`,
+   and at the same index the longer `text` first (the rule
+   `web/src/lib/bible-links.mjs` already uses), then keep the first
+   occurrence of each ref. `citations()` itself does not change: the site
+   imports it. Two refs can start at the same index: in `66`, "Luke 11th
+   chapter and 24th verse" gives `Luke 11` (the shorter `REF_RE` match) and
+   `Luke 11:24` (the spoken one); the longer match comes first. The same
+   refs are found, only their order differs. If any work gains or loses a
+   ref, stop and find out why; what 65 or 66 recognises is another goal.
 2. **`47` copies the whole list.** Remove `.slice(0, 50)` and its comment's
    reason; the frontmatter's `bible_refs` becomes exactly the manifest's list
    for that work, same refs, same order.
@@ -74,8 +67,10 @@ frontmatter" in `docs/follow-ups.md`, not this goal.
 - **What a page shows.** No page lists a work's refs today. If one ever
   does, how many it shows is a display choice for that goal, not a cut in
   the data.
-- **Goal 08's verse pages.** They read the refs; this goal makes them
-  complete. Building them is goal 08.
+- **`web/`.** Goal 08's verse pages read `manifests/bible-refs.json`, which
+  is already complete, and `web/src/lib/bible-links.mjs` links the refs in a
+  body through `citations()`, which this goal does not change. No page
+  changes; `npm run build` is not a gate here.
 - **`100-ingest-surrealdb.mjs`.** It builds sets of refs, so the order does
   not matter to it, and it is not rerun here (no database is needed for
   this goal).
@@ -88,28 +83,27 @@ Each item is shown in the PR with the command run and its output. The
 baseline is the commit the branch starts from, saved with a copy of its
 `manifests/bible-refs.json` outside the repo when the goal starts; every
 comparison below, the `git show <commit>:<path>` ones included, is against
-that commit, even if `main` moves meanwhile.
+that commit, even if `main` moves meanwhile. The expected values were
+measured on `main` after PR #12 (2026-09-25).
 
 1. **The same refs, only reordered.** For every key of
    `manifests/bible-refs.json`, the set of refs equals the baseline's (same
-   keys, same refs, no duplicate within a list). Expected: 2,886 keys, 39,225
-   refs, 0 added, 0 removed; about 2,550 lists change order.
-2. **The order is the text's.** For every work, the position of each ref's
-   first occurrence in the body, as found by the script's own patterns, never
-   decreases along the list. Shown as the count of works checked, of
-   violations (expected 0) and of pairs of refs whose first occurrences share
-   a position (expected: 6 pairs in `66`, each a chapter and the same chapter
-   with its verse, such as `Luke 11` and `Luke 11:24`; 0 in `65`). Plus
-   twenty random works with at least five refs, each with its first three
-   refs and the words where they occur.
-3. **Nothing is cut.** For every markdown file that has frontmatter and
-   refs, the frontmatter `bible_refs` equals the manifest list, same length
-   and same order. Expected: 0 mismatches; the 90 works with more than 50
-   refs have them all (3,946 refs back in the frontmatter, including the 38
-   of goal 11). The 10 files with no frontmatter are listed with their ref
-   counts and left alone.
+   keys, same refs, no duplicate within a list). Expected: 2,953 keys,
+   40,602 refs, 0 added, 0 removed; about 2,610 lists change order.
+2. **The order is the text's.** For every work, the list equals its
+   `citations()` sorted by index, then longer text first, first occurrence
+   kept. Shown as the count of works checked, of mismatches (expected 0) and
+   of pairs of refs whose first occurrences share an index (expected: 6 in
+   `66`, each a chapter and the same chapter with its verse, such as `Luke
+   11:24` before `Luke 11`; 0 in `65`). Plus twenty random works with at
+   least five refs, each with its first three refs and the words where they
+   occur.
+3. **Nothing is cut.** For every markdown file with refs, the frontmatter
+   `bible_refs` equals the manifest list, same length and same order.
+   Expected: 0 mismatches; the 95 works with more than 50 refs have them all
+   (4,325 refs back in the frontmatter, including the 38 of goal 11).
 4. **Nothing else changes.** `git diff` on `markdown/` touches only
-   `bible_refs` lines: no body, no other frontmatter field; about 2,540
+   `bible_refs` lines: no body, no other frontmatter field; about 2,610
    files. `index.json` changes only `size_bytes` and `line_count`. Shown as
    counts.
 5. **Idempotent.** A second run of `65`, `66`, `47` and `50` leaves

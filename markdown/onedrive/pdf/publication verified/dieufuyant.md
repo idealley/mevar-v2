@@ -5,7 +5,7 @@ title: "Dieu fuyant le péché"
 date: "2006-04-09"
 year: 2006
 location: "Pointe noire"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur montre à travers l'histoire d'Israël que Dieu s'éloigne du péché, comme à Silo et dans le temple de Jérusalem. Il applique ce principe à l'Église du Message du temps de la fin, appelant à la repentance et à quitter l'orgueil et les divisions pour que la gloire de Dieu revienne."
 tags:
   - "Prédications"

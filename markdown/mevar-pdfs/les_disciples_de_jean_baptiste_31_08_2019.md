@@ -5,7 +5,7 @@ title: "Les croyants du Message du Temps de la Fin comme les disciples de Jean-B
 date: "2019-08-31"
 year: 2019
 location: "kpèbo (Toumodi)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message compare les croyants du Message du Temps de la Fin aux disciples de Jean-Baptiste, mettant en garde contre l'esprit sectaire qui consiste à former des groupes autour d'un serviteur de Dieu plutôt que de suivre Jésus-Christ. L'orateur insiste sur le fait que le message reçu doit conduire à l'Époux, Jésus-Christ, et non à un groupe ou à un homme."
 tags:
   - "Message du Temps de la Fin"
@@ -50,6 +50,19 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste_31_08_2019.pdf"
 local_pdf: "/files/mevar/les_disciples_de_jean_baptiste_31_08_2019.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 18"
+  - "Actes 19"
+  - "Actes 19:1-7"
+  - "Actes 2"
+  - "Actes 9"
+  - "Jean 1:1"
+  - "Jean 9:14"
+  - "Joël 2"
+  - "Luc 3"
+  - "Luc 3:1"
+  - "Luc 3:1-7"
+  - "Matthieu 25"
 ---
 Les croyants du Message du Temps de la Fin
 comme les disciples de Jean-Baptiste

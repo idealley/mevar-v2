@@ -5,7 +5,7 @@ title: "C'est ici votre heure et la puissance des ténèbres"
 date: "2006-09-30"
 year: 2006
 location: "Soubré"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'Église à rejeter un évangile sans puissance et à entrer dans un combat spirituel de libération intérieure. Il compare la situation actuelle à l'heure des ténèbres lors de la crucifixion de Jésus, annonçant que cette heure passe pour laisser place à la lumière de la résurrection et du réveil."
 tags:
   - "Exhortations"

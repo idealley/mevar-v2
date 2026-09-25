@@ -5,7 +5,7 @@ title: "Y a-t-il quelque chose d’impossible à Dieu ?"
 date: "2020-08-09"
 year: 2020
 location: "Abidjan"
-preacher: "Pasteur Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "Cette prédication inaugure une série sur la foi, partant de l'inquiétude de Jésus dans Luc 18:8 : trouvera-t-il la foi à son retour ? Le prédicateur explore la question de Genèse 18:14 : 'Y a-t-il rien qui soit étonnant de la part de l'Éternel ?' en montrant que Dieu est le Tout-Puissant pour qui rien n'est impossible, comme illustré par Abraham, Sara, Marie et Élisabeth."
 tags:
   - "foi"
@@ -36,6 +36,18 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Quelque_chose_d_impossible_a_Dieu-11-10-2020.pdf"
 local_pdf: "/files/mevar/Quelque_chose_d_impossible_a_Dieu-11-10-2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2"
+  - "Apocalypse 1"
+  - "Genèse 15"
+  - "Genèse 17"
+  - "Genèse 17:1"
+  - "Genèse 18"
+  - "Hébreux 11"
+  - "Luc 1"
+  - "Luc 18"
+  - "Luc 18:23"
+  - "Matthieu 17:18"
 ---
 Y a-t-il quelque chose d’impossible à Dieu ?
 

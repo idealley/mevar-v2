@@ -1,0 +1,28 @@
+---
+// The works citing a verse (or a whole chapter): Mevar first, then the
+// archive under its own label. Titles and preachers only: no Bible text.
+import { isMevar, workUrl, type WorkEntry } from "$lib/works";
+
+interface Props {
+  works: WorkEntry[];
+}
+
+const { works } = Astro.props;
+const groups = [works.filter(isMevar), works.filter((e) => !isMevar(e))];
+---
+
+{groups.map((list, i) => list.length > 0 && (
+  <>
+    {i === 1 && <p class="mt-3 text-xs uppercase tracking-wide text-muted-foreground">Archives</p>}
+    <ul class="mt-1 space-y-1">
+      {list.map((e) => (
+        <li>
+          <a href={workUrl(e)} class="underline underline-offset-4">{e.data.title ?? e.id}</a>
+          <span class="ml-2 text-sm text-muted-foreground">
+            {[e.data.preacher ?? e.data.authors?.[0], e.data.year].filter(Boolean).join(", ")}
+          </span>
+        </li>
+      ))}
+    </ul>
+  </>
+))}

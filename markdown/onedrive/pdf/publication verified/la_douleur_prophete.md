@@ -5,7 +5,7 @@ title: "La douleur d'un prophète"
 date: "2012-08-26"
 year: 2012
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur s'appuie sur le livre des Lamentations de Jérémie et Jérémie 12 pour décrire la souffrance d'un prophète appelé à annoncer le jugement de Dieu. Il établit un parallèle avec la situation de la Côte d'Ivoire, sous le châtiment divin, et exhorte le peuple à ne pas se laisser distraire par les querelles politiques ou les fausses prophéties, mais à prier pour les autorités et à attendre le temps fixé par Dieu pour la délivrance."
 tags:
   - "Prédications"
