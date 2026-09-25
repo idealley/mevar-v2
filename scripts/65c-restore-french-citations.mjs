@@ -33,7 +33,7 @@ const ghost = new Map(
 const ENTITIES = { "&nbsp;": " ", "&amp;": "&", "&apos;": "'", "&#39;": "'", "&quot;": '"', "&gt;": ">" };
 // Block tags part words, inline tags do not ("<em>Dieu</em>," is "Dieu,").
 const htmlText = (html) => html
-  .replace(/<\/?(?:p|br|h\d|li|ul|ol|blockquote|div|figure|figcaption|hr)\b[^>]*>/g, " ")
+  .replace(/<\/?(?:p|br|h\d|li|ul|ol|blockquote|div|figure|hr)\b[^>]*>/g, " ")
   .replace(/<[^>]*>/g, "")
   .replace(/&[#\w]+;/g, (e) => ENTITIES[e] ?? e);
 
