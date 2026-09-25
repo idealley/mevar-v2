@@ -5,7 +5,7 @@ title: "Néhémie – Échanson du Roi Artaxerxès"
 subtitle: "Exhortation de Février 2015"
 date: "2015-02-01"
 year: 2015
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation s'appuie sur le personnage de Néhémie, échanson du roi Artaxerxès, pour encourager les croyants à être des serviteurs fidèles devant le Roi des rois. L'auteur insiste sur l'importance de la prière, du jeûne et de l'intégrité face à la Parole de Dieu, dans un contexte de confusion religieuse et de faux prophètes. Il rappelle que Dieu prépare un jour de délivrance pour son peuple, où la différence entre le juste et le méchant sera manifeste."
 tags:
   - "Exhortations"

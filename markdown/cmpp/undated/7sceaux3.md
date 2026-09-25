@@ -6,7 +6,7 @@ subtitle: "Premier Sceau"
 date: "1963-03-18"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham expose la révélation du premier sceau de l'Apocalypse, identifiant le cavalier sur le cheval blanc comme un esprit d'antichrist qui séduit l'Église. Il souligne que seul l'Agneau peut ouvrir les sceaux et que ces mystères sont révélés à la fin des temps pour préparer l'Épouse à l'enlèvement."
 tags:
   - "premier sceau"

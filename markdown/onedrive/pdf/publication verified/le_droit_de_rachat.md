@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2014"
 date: "2014-01-12"
 year: 2014
 location: "BIASSO"
-preacher: "frère KADJANY"
+preacher: "André Kadjany"
 summary: "Le prédicateur expose la loi du droit de rachat dans l'Ancien Testament à travers les récits des filles de Tselophchad et de Ruth, puis l'applique à l'œuvre rédemptrice de Jésus-Christ et au devoir des chrétiens d'exercer ce droit en faveur de leurs proches encore dans les ténèbres."
 tags:
   - "Exhortations"

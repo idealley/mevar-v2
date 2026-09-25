@@ -5,7 +5,7 @@ title: "L’habillement selon DIEU"
 subtitle: "Exhortation d’Octobre 2011"
 date: "2011-10-01"
 year: 2011
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation traite de l'habillement chrétien selon la pensée de Dieu, en remontant à la Genèse où Dieu fut le premier couturier. L'auteur insiste sur la séparation d'avec le monde, la décence, la pudeur et la modestie, et met en garde contre les parures mondaines. Un témoignage de délivrance illustre le combat spirituel contre les esprits liés à la mode et à l'idolâtrie."
 tags:
   - "Exhortations"

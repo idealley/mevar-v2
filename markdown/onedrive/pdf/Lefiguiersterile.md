@@ -5,7 +5,7 @@ title: "Le figuier stérile"
 date: "2008-11-03"
 year: 2008
 location: "Mankoko, Nigéria"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette prédication utilise la parabole du figuier stérile (Luc 13) et l'épisode du figuier maudit (Marc 11) pour exhorter les chrétiens à porter du fruit spirituel. L'orateur insiste sur la nécessité de la sainteté, de la pratique de la Parole et de la production de bonnes œuvres, car le vêtement de l'Épouse aux noces de l'Agneau est constitué des œuvres justes des saints. Il appelle à se réveiller, à quitter le péché et à coudre son propre vêtement de noces avant l'enlèvement."
 tags:
   - "Prédications"

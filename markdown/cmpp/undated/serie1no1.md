@@ -6,7 +6,7 @@ subtitle: "26 juillet 1964, matin"
 date: "1964-07-26"
 year: 1964
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la nécessité de reconnaître le jour prophétique et son message, en s'appuyant sur Osée 6. Il relie les fêtes juives (Pâque, Pentecôte, Trompettes) aux âges de l'Église et à la restauration d'Israël. Il partage une vision de l'Épouse et de l'église apostate, et insiste sur la révélation des mystères par le septième ange."
 tags:
   - "reconnaître le jour"

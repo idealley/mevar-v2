@@ -5,7 +5,7 @@ title: "Anne et Siméon"
 date: "2007-01-20"
 year: 2007
 location: "Lagos, Nigeria"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message exhorte les croyants à se réveiller et à mener le combat spirituel contre les forces des ténèbres, en s'inspirant de l'attitude d'Anne et Siméon qui attendaient le Messie avec ferveur, jeûne et prière. L'orateur appelle à une vie de sainteté et de prière intense pour être prêt pour l'enlèvement."
 tags:
   - "Prédications"

@@ -5,7 +5,7 @@ title: "LA DESOLATION D'ELIE"
 subtitle: "Exhortation de Juin 2009"
 date: "2009-06-01"
 year: 2009
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation analyse l'histoire d'Élie face à Jézabel comme type prophétique pour l'Église de la fin des temps. Elle montre comment l'esprit de Jézabel (Babylone) séduit encore aujourd'hui, et comment le ministère d'Élie se poursuit à travers Jéhu pour détruire l'idolâtrie. L'auteur appelle à sortir de la caverne du sommeil spirituel pour recevoir la parole de Dieu et combattre la séduction religieuse."
 tags:
   - "Exhortations"

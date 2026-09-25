@@ -5,7 +5,7 @@ title: "Les prisonniers de la religion"
 date: "2007-01-14"
 year: 2007
 location: "So-Chanwé"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'Église à sortir de la religion, définie comme une adoration sans révélation ni puissance du Saint-Esprit. Il utilise l'histoire de Pierre emprisonné pour illustrer comment les croyants sont liés par des traditions, des conceptions humaines et un sommeil spirituel. Il appelle à un réveil par la prière et la recherche de la puissance de Dieu."
 tags:
   - "Exhortations"

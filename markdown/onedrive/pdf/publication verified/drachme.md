@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juin 2010"
 date: "2010-06-25"
 year: 2010
 location: "Muraz, Suisse"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur utilise la parabole de la drachme perdue (Luc 15) pour exhorter l'Église à retrouver les valeurs spirituelles perdues : sainteté, puissance de Dieu, amour fraternel, vie de prière et de jeûne. Il compare la femme qui balaie sa maison à l'Église qui doit balayer sa vie intérieure par la prédication et la repentance pour retrouver ces trésors spirituels."
 tags:
   - "Exhortations"

@@ -5,7 +5,7 @@ title: "LE SEMEUR DE MINUIT"
 subtitle: "Exhortation de Fin d'année 2010"
 date: "2010-12-31"
 year: 2010
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de fin d'année 2010 développe le thème du Temple de Dieu, appelant les croyants à la perfection et à l'habitation corporelle du Christ en eux. Elle utilise la parabole du semeur pour analyser les différentes réceptions du Message du réveil, mettant en garde contre les cœurs endurcis, les racines superficielles et les soucis du monde, et encourageant à porter du fruit dans la bonne terre."
 tags:
   - "Exhortations"

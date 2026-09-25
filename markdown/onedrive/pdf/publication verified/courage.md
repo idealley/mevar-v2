@@ -5,7 +5,7 @@ title: "PRENEZ COURAGE !"
 subtitle: "Exhortation du Mois d'Août 2006"
 date: "2006-08-01"
 year: 2006
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation encourage les membres de la chaîne de prière à prendre courage dans le combat spirituel pour obtenir la pluie de l'arrière-saison. Elle insiste sur la nécessité de la repentance collective, du jeûne et de l'intercession pour restaurer la puissance de Dieu dans l'Église, en s'appuyant sur des exemples bibliques comme Élie, Josué et la repentance de Ninive."
 tags:
   - "Exhortations"

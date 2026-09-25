@@ -5,7 +5,7 @@ title: "Simon le magicien"
 subtitle: "Exhortation de Octobre 2010"
 date: "2010-10-01"
 year: 2010
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation met en garde contre un cœur non droit devant Dieu, à l'exemple de Simon le magicien qui cherchait la puissance pour dominer. Elle insiste sur la crainte de Dieu, le jugement dans la maison de Dieu, et le réveil de préparation à Minuit, où l'esprit d'Élie ramène les cœurs au Seigneur Jésus-Christ."
 tags:
   - "Exhortations"

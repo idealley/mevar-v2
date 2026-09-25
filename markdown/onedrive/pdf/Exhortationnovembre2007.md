@@ -5,7 +5,7 @@ title: "La vie en abondance"
 subtitle: "Exhortation de Novembre 2007"
 date: "2007-11-01"
 year: 2007
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation développe le thème de la vie en abondance promise par Jésus-Christ en Jean 10:10. Elle met en garde contre les faux bergers et la pauvreté spirituelle de l'église de Laodicée, appelant à un travail spirituel persévérant dans la prière et la communion avec Dieu pour posséder les richesses de l'Esprit."
 tags:
   - "Exhortations"

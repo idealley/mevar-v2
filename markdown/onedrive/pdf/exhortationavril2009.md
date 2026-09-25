@@ -5,7 +5,7 @@ title: "PROGRESSEZ ENCORE !"
 subtitle: "Exhortation d'Avril 2009"
 date: "2009-04-01"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation encourage les croyants à progresser spirituellement, à persévérer dans la prière et le jeûne, et à participer au réveil mondial. L'auteur partage une vision personnelle sur la course chrétienne et insiste sur la nécessité de marcher de progrès en progrès pour atteindre l'enlèvement."
 tags:
   - "Exhortations"

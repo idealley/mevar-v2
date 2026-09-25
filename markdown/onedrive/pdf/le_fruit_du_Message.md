@@ -6,7 +6,7 @@ subtitle: "Exhortation de Février 2014"
 date: "2014-02-15"
 year: 2014
 location: "Sinfra"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à laisser le Message du temps de la fin prospérer dans leur cœur pour porter du fruit, c'est-à-dire manifester la vie de Christ. Il explique que la semence de la perfection a été plantée par le prophète William Branham et que le temps de la moisson approche, où le fruit sera révélé aux nations. Il met en garde contre les soucis de la vie qui étouffent la parole et appelle à des efforts spirituels pour atteindre la maturité."
 tags:
   - "Exhortations"

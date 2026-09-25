@@ -6,7 +6,7 @@ subtitle: "22 août 1965, matin"
 date: "1965-08-22"
 year: 1965
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la révélation de Christ dans Sa Parole, expliquant que la Bible est l'absolu de Dieu, non un livre de systèmes ou de morale, mais la révélation de Jésus-Christ. Il souligne l'unité de Christ et de la Parole, la prédestination des croyants en Dieu dès le commencement, et la nécessité d'un absolu dans la vie chrétienne."
 tags:
   - "révélation"

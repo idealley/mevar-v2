@@ -5,7 +5,7 @@ title: "Appel au combat spirituel – Appel à la prière"
 subtitle: "Exhortation spéciale de Juin 2012"
 date: "2012-06-01"
 year: 2012
-preacher: "Frère IRIE ANDERSON"
+preacher: "Irié Anderson"
 summary: "Cet article exhorte les chrétiens, en particulier ceux du Message du temps de la fin, à s'engager dans le combat spirituel. Il utilise le livre d'Esther pour illustrer que la loi divine ne peut être révoquée, mais que Jésus a obtenu une nouvelle loi de grâce permettant aux croyants de se défendre contre les démons et les malédictions. L'auteur appelle à la prière et au jeûne pour la libération individuelle et collective de l'Église."
 tags:
   - "Exhortations"

@@ -4,7 +4,7 @@ sermon_id: "La_guerre_spirituelle_actuelle_nous_triompherons_exhortation_fin_avr
 title: "LA GUERRE SPIRITUELLE ACTUELLE – NOUS TRIOMPHERONS"
 date: "2020-04-30"
 year: 2020
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation rappelle que Dieu prépare son peuple à la guerre spirituelle de la fin des temps, comme Il l'a fait avec Israël dans le désert. Le combat contre Babylone est en cours, et les croyants doivent revêtir toutes les armes de Dieu, en particulier le bouclier de la foi, pour triompher des attaques de Satan. L'auteur partage des expériences personnelles de combat spirituel et encourage à être de bons soldats de Christ."
 tags:
   - "guerre spirituelle"
@@ -42,6 +42,35 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf"
 local_pdf: "/files/mevar/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 11"
+  - "1 Corinthiens 15:32"
+  - "2 Corinthiens 10:3-5"
+  - "2 Samuel 23"
+  - "2 Timothée 2:2-5"
+  - "Actes 16"
+  - "Actes 17"
+  - "Actes 18"
+  - "Actes 19"
+  - "Apocalypse 13"
+  - "Apocalypse 17:1-5"
+  - "Apocalypse 18:1-3"
+  - "Daniel 2"
+  - "Daniel 2:32-33"
+  - "Daniel 2:34-35"
+  - "Daniel 2:44-45"
+  - "Exode 13"
+  - "Exode 13:17-18"
+  - "Exode 17"
+  - "Genèse 15:1"
+  - "Luc 23:31"
+  - "Nombres 13"
+  - "Nombres 21:13-15"
+  - "Psaumes 62:12"
+  - "Romains 16:20"
+  - "Éphésiens 6:10-12"
+  - "Éphésiens 6:13-15"
+  - "Éphésiens 6:18"
 ---
 Exhortation Fin Avril 2020
 

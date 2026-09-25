@@ -6,7 +6,7 @@ subtitle: "18 avril 1965, matin"
 date: "1965-04-18"
 year: 1965
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Prédication de Pâques sur la résurrection de Jésus-Christ, présentée comme la puissance qui donne la vie. Branham utilise l'image du lever du soleil pour illustrer la résurrection du Fils de Dieu, qui apporte la vie éternelle à la semence prédestinée. Il relie la résurrection à la confirmation de la Parole de Dieu et à la manifestation du Saint-Esprit dans les derniers jours."
 tags:
   - "résurrection"

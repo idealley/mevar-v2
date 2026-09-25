@@ -4,7 +4,7 @@ sermon_id: "etude_biblique_le_sermon_sur_la_montagne_3_et_4_3_avril_2020"
 title: "ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU"
 date: "2020-04-03"
 year: 2020
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette étude biblique en deux parties examine la relation entre la loi de Moïse et le Royaume de Dieu. L'auteur soutient que Jésus n'est pas venu abolir la loi mais l'accomplir, et que dans le Royaume de Dieu, la loi est renforcée et rendue spirituelle, applicable par la nouvelle naissance et le Saint-Esprit. Il met en garde contre les tendances judaïsantes qui cherchent à ramener les chrétiens aux pratiques charnelles de l'Ancienne Alliance."
 tags:
   - "loi de Moïse"
@@ -38,6 +38,21 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
 local_pdf: "/files/mevar/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 7"
+  - "Actes 21"
+  - "Actes 3"
+  - "Deutéronome 18"
+  - "Galates 5"
+  - "Genèse 49"
+  - "Hébreux 7"
+  - "Jean 1"
+  - "Marc 12"
+  - "Matthieu 5"
+  - "Matthieu 9"
+  - "Romains 2"
+  - "Romains 3"
+  - "Ézéchiel 36"
 ---
 ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU- 1
 

@@ -5,7 +5,7 @@ title: "La Parole de Dieu"
 date: "2007-01-07"
 year: 2007
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message définit la Parole de Dieu comme semence, lumière, feu, marteau et eau, appelant les croyants à examiner s'ils possèdent réellement la Parole établie dans leur cœur, produisant fruit, éclairage, chaleur, brisement et sanctification."
 tags:
   - "Prédications"

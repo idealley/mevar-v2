@@ -6,7 +6,7 @@ subtitle: "Exhortation de Février 2007"
 date: "2007-02-01"
 year: 2007
 location: "Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation invite les croyants à plaider avec Dieu pour la confession des péchés, en s'appuyant sur Ésaïe 1:18-20. Elle relate une rencontre de prière à Abidjan où deux effusions de l'Esprit ont eu lieu, et inclut le témoignage de frère Martin Sende, qui a eu une vision sur le tri des croyants et la nécessité de couper les liens avec les péchés non confessés."
 tags:
   - "Exhortations"

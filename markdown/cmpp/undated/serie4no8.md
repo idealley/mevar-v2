@@ -6,7 +6,7 @@ subtitle: "19 juillet 1964, soir"
 date: "1964-07-19"
 year: 1964
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur Hébreux 13.10-14, exhortant les croyants à sortir du camp des traditions et des dénominations pour aller vers Christ, la Parole vivante. Il compare l'expérience d'Israël sortant d'Égypte à l'appel actuel à quitter les systèmes religieux humains pour vivre dans la présence de Dieu, confirmée par Sa Parole et Ses signes."
 tags:
   - "sortir du camp"

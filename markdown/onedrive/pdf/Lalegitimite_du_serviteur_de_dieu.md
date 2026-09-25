@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "Lalegitimite_du_serviteur_de_dieu"
 title: "LA LEGITIMITE D’UN SERVITEUR DE DIEU"
-preacher: "IRIE ANDERSON"
+preacher: "Irié Anderson"
 summary: "Cet article traite de la légitimité d'un serviteur de Dieu, basée sur l'appel divin et non sur l'appartenance à un ordre ou une organisation. L'auteur s'appuie sur Marc 9:38-41 pour montrer que Christ rejette l'esprit sectaire et que tout homme qui œuvre au nom de Jésus est légitime. Il met en garde contre les systèmes rigides qui étouffent les vrais ministères et encourage à reconnaître les serviteurs de Dieu à leurs fruits, non à leur affiliation."
 tags:
   - "Publications"

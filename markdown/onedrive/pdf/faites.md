@@ -5,7 +5,7 @@ title: "Faites-vous un cœur nouveau et un esprit nouveau, pourquoi mourriez-vou
 subtitle: "Exhortation d'Octobre 2010"
 date: "2010-10-23"
 year: 2010
-preacher: "Richard SCHWERY"
+preacher: "Richard Schwéry"
 summary: "Une exhortation basée sur Lévitique 19 et d'autres passages, appelant à la repentance et à la mise en pratique de la loi d'amour. Le prédicateur insiste sur l'importance de la miséricorde envers les pauvres et les étrangers, de l'honnêteté dans les affaires, et de la pureté spirituelle, en évitant les mélanges et l'occultisme. Il souligne que la connaissance sans amour est vaine et que le véritable fruit chrétien est l'amour en actes."
 tags:
   - "Exhortations"

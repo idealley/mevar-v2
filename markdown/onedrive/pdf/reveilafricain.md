@@ -5,7 +5,7 @@ title: "Appel au réveil des Africains"
 subtitle: "Exhortation de Juin 2007"
 date: "2007-06-01"
 year: 2007
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation appelle les Africains à se préparer pour le réveil spirituel annoncé par les prophéties bibliques et les visions de William Branham. L'auteur insiste sur la nécessité de la prière persévérante, à l'exemple d'Élie, et souligne le rôle central de l'Afrique dans le dernier réveil avant le retour du Christ."
 tags:
   - "Exhortations"

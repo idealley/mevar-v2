@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juin 2009"
 date: "2009-06-28"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que le problème fondamental de l'humanité est l'introduction du comportement du serpent (Satan) dans la race humaine par la séduction d'Ève, et que le plan de Dieu à travers Christ est d'éradiquer ce comportement pour restaurer la sainteté. Il exhorte les croyants à se séparer totalement du péché et de la mondanité, et à marcher dans la voie sainte en vue de l'enlèvement."
 tags:
   - "Prédications"

@@ -6,7 +6,7 @@ subtitle: "21 février 1965, matin"
 date: "1965-02-21"
 year: 1965
 location: "Jeffersonville — Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham enseigne sur le mariage et le divorce à partir de Matthieu 19, insistant sur le retour au commencement (Genèse) pour trouver la réponse biblique. Il aborde la question du péché originel, de la continuité de la Parole de Dieu et de la nécessité de l'amour divin plutôt que du légalisme ou du laxisme."
 tags:
   - "mariage"

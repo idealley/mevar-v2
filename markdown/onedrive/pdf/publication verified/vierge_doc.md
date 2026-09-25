@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "vierge_doc"
 title: "LE CULTE DE LA VIERGE MARIE L’ABOMINATION DES IVOIRIENS"
 date: "2017-04"
-preacher: "Parfait M'BRA"
+preacher: "Parfait M'bra"
 summary: "Ce document examine la vénération de la Vierge Marie dans l'Église catholique à la lumière des Écritures, la qualifiant d'idolâtrie et d'abomination. L'auteur soutient que Marie n'était qu'une servante de Dieu, qu'elle a eu d'autres enfants après Jésus, et que les apparitions mariales sont des déceptions démoniaques. Il appelle les chrétiens à abandonner le culte marial et à adorer Dieu seul en esprit et en vérité."
 tags:
   - "Publications"

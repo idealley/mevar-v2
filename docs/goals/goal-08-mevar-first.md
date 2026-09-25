@@ -108,6 +108,32 @@ Decided by Samuel (2026-09-24):
    same display names. Delete the follow-up « The same preacher under
    several names » (added by goal 05) from `docs/follow-ups.md`.
 
+## Added by Samuel on the PR (2026-09-24)
+
+- **Categories as on mevar.org.** A Ghost post is listed under every
+  category tag it carries (33 are both « Prédications » and « Etudes
+  Bibliques »), not under one derived kind; Études bibliques showed 8
+  works where mevar.org shows 47.
+- **The follow-up « Markdown files with no frontmatter » is done here.**
+  The ten works (5 Le Scribe, 3 CMPP, the 2 local volumes) get their
+  frontmatter from their title pages (`scripts/76-add-missing-frontmatter.mjs`),
+  then 47, 49 and 50 run. So `markdown/` also gains those ten frontmatter
+  blocks and what 47 and 49 derive from them, besides the `preacher:` lines
+  and the "Unknown" fields.
+- **The PDF texts on the verse pages** (from Codex's second opinion, which
+  read design item 4 as every built work): 65 scans `mevar-pdfs` too, and 47
+  adds a `bible_refs` block to 61 of the 69 PDF texts' frontmatter.
+
+## Added by Samuel on the PR (2026-09-25)
+
+- **A Ghost post with no category tag is in no category**, as on
+  mevar.org: the nine (« Chaîne de prière » months, two audio posts,
+  « Nouveau site web », two from 2014-2015) leave Publications.
+- **Branham dates and places from their source**, not the LLM:
+  `scripts/77-branham-date-location.mjs` sets `date` and `year` from the
+  sermon id and `location` from branham.org's year listing, in the
+  manifests and the frontmatter of `markdown/branham/`.
+
 ## Scope out
 
 - Deduplication (goal 09), the editorial pass and promotion (goal 10).

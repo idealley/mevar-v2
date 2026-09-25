@@ -6,7 +6,7 @@ subtitle: "18 août 1963, soir"
 date: "1963-08-18"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème de l'union, montrant comment les signes des temps indiquent une période d'union à la fois dans l'Église (œcuménisme) et dans le monde (communisme), parallèlement au rejet du message divin. Il exhorte les croyants à s'unir à Christ plutôt qu'à des organisations humaines."
 tags:
   - "union"

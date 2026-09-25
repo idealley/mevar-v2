@@ -5,7 +5,7 @@ title: "Le Message de la Sanctification"
 subtitle: "Exhortation de Mars 2007"
 date: "2007-03-01"
 year: 2007
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur la sanctification comme message central pour l'Église à l'heure de minuit, appelant au jeûne et à la prière pour se préparer au retour du Seigneur. Elle met en garde contre un faux réveil émotionnel et contrefait, et encourage le combat spirituel contre les puissances démoniaques. Une vision de frère Patrick E. illustre la différence entre le vrai et le faux réveil."
 tags:
   - "Exhortations"

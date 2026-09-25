@@ -6,7 +6,7 @@ subtitle: "1er septembre 1963, matin"
 date: "1963-09-01"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème du signe (token) à partir d'Exode 12.12-13, expliquant que le sang de l'agneau était le signe de la rédemption pour Israël en Égypte, et que pour l'Église aujourd'hui, le Saint-Esprit est le signe que Dieu requiert. Il insiste sur l'identification du croyant avec le sacrifice de Christ et l'urgence d'appliquer ce signe avant le jugement."
 tags:
   - "signe"

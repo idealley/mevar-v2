@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mai 2010"
 date: "2010-05-01"
 year: 2010
 location: "Koumassi"
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation appelle les croyants à la maturité spirituelle, en s'appuyant sur la vision du Macédonien (Actes 16) pour répondre à l'appel de Dieu à secourir le monde. Elle distingue trois étapes de la foi (enfant, adolescent, homme) et insiste sur la nécessité de devenir des héritiers matures pour accomplir la mission divine."
 tags:
   - "Exhortations"

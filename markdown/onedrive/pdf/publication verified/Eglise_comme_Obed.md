@@ -6,7 +6,7 @@ subtitle: "Exhortation de Septembre 2014"
 date: "2014-09-23"
 year: 2014
 location: "Lausanne"
-preacher: "Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les chrétiens à prendre une position d'intégrité et de sainteté face à la séduction de Satan dans l'Église des derniers temps. Il utilise l'image d'Obed-Edom, chez qui l'arche de Dieu a trouvé la paix, pour illustrer le chrétien comme temple du Saint-Esprit. Il appelle à se séparer du monde et à être chrétien à l'ancienne mode, selon la Parole de Dieu."
 tags:
   - "Exhortations"

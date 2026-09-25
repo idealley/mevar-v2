@@ -5,7 +5,7 @@ title: "Plans d'attaque I"
 date: "2009-11-08"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur expose la réalité du combat spirituel de l'Église, en s'appuyant sur les récits de Josué (Jéricho, Aï, Gabaon) et d'Éphésiens 6. Il montre que Dieu a des plans d'attaque précis pour chaque bataille, tandis que Satan utilise ruse et tentations pour distraire et neutraliser les soldats. L'accent est mis sur la nécessité de rester éveillé, de consulter Dieu et de ne pas se laisser tromper par les apparences."
 tags:
   - "Prédications"

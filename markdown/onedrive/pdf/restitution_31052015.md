@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mai 2015"
 date: "2015-05-31"
 year: 2015
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que la destruction du peuple de Dieu par Satan est progressive, comme décrit dans Joël 1 et Apocalypse 6. La restitution se fait également progressivement, à travers les âges de l'Église, culminant dans le Message du Temps de la Fin apporté par William Branham. Il encourage les croyants à s'enraciner dans la Parole restaurée pour manifester les fruits de l'Esprit."
 tags:
   - "Exhortations"

@@ -5,7 +5,7 @@ title: "IL EXISTE DEUX VOIES"
 subtitle: "Exhortation d'Avril 2008"
 date: "2008-04-01"
 year: 2008
-preacher: "Fr. M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation, basée sur Matthieu 7:12-15, met en garde contre les deux voies : la porte étroite et resserrée qui mène à la vie, et la porte large et spacieuse qui mène à la perdition. L'auteur encourage les croyants à emprunter la voie de la sainteté, à se détacher du péché et à se préparer pour l'enlèvement, en insistant sur la nécessité de la repentance, de la prière et de la sanctification."
 tags:
   - "Exhortations"

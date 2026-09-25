@@ -5,7 +5,7 @@ title: "LE DEVOIR DU FILS – LA FIDELITE DANS LA MAISON DE DIEU"
 subtitle: "Exhortation de Mi-Avril 2017"
 date: "2017-04-15"
 year: 2017
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation développe la différence entre l'esclave et le fils dans la maison de Dieu, insistant sur la fidélité et le service comme héritiers. À travers les exemples d'Élie, de Jésus, du fils prodigue et des deux fils, l'auteur appelle les croyants à accomplir toute la volonté de Dieu dans leur génération, en se détachant des peurs et des raisonnements charnels."
 tags:
   - "Exhortations"

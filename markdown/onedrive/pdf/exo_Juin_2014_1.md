@@ -5,7 +5,7 @@ title: "LA POSITION DU JUSTE DANS LA PRIERE EFFICACE"
 subtitle: "Exhortation de Juin 2014"
 date: "2014-06-01"
 year: 2014
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur la nécessité pour les croyants de prendre la position du juste dans la prière pour être efficaces. Elle rappelle que Dieu regarde les justes et écoute leurs prières, et que la prière fervente du juste a une grande efficacité. L'auteur encourage à prier pour Sion et à se tenir dans une position de justice envers Dieu et les autres."
 tags:
   - "Exhortations"

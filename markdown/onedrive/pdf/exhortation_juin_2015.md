@@ -5,7 +5,7 @@ title: "METTEZ-MOI DE LA SORTE A L'EPREUVE..."
 subtitle: "Exhortation de Juin 2015"
 date: "2015-06-01"
 year: 2015
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation complète le sujet du mois précédent sur le droit des serviteurs de Dieu, en se basant sur Malachie 3:8-12. L'auteur insiste sur la fidélité dans les dîmes et offrandes, montrant que cela fait partie de l'adoration et ouvre les écluses des cieux. Il met en garde contre la malédiction liée à l'infidélité et encourage à mettre Dieu à l'épreuve dans ce domaine."
 tags:
   - "Exhortations"

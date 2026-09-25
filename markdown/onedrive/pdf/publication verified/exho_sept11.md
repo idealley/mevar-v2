@@ -5,7 +5,7 @@ title: "LA CHUTE D'EUTYCHUS"
 subtitle: "Exhortation de Septembre 2011"
 date: "2011-09-01"
 year: 2011
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation s'appuie sur Actes 20:6-12 pour mettre en garde contre la position spirituelle dangereuse de la 'fenêtre', symbole d'un cœur partagé entre Dieu et le monde. Elle appelle les croyants à la persévérance, à l'obéissance aux conducteurs et à la recherche de la perfection, afin d'éviter le sommeil spirituel et la chute, et d'être prêts pour l'enlèvement."
 tags:
   - "Exhortations"

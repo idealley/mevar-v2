@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2015"
 date: "2015-01-31"
 year: 2015
 location: "Chantier, Sinfra"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur la nécessité de s'approcher de Dieu avec humilité et repentance, en se concentrant sur Lui plutôt que sur les autres. Elle explique pourquoi beaucoup sont appelés mais peu sont élus, en soulignant l'importance de la communion intime avec Dieu au-delà du service extérieur."
 tags:
   - "Exhortations"

@@ -5,7 +5,7 @@ title: "Appel à la guerre – Appel au combat contre Babylone"
 subtitle: "Exhortation d'Octobre 2007"
 date: "2007-10-01"
 year: 2007
-preacher: "Fr. M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation encourage les croyants à ne pas craindre les ennemis spirituels, s'appuyant sur Deutéronome 20:1-4 et d'autres passages bibliques. Elle appelle à un combat spirituel contre Babylone et la religion, dénonçant les dérives dans les églises issues du Message du Temps de la Fin. L'auteur insiste sur la nécessité d'une foi solide et d'un engagement total dans la consécration."
 tags:
   - "Exhortations"

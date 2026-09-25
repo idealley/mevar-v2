@@ -5,7 +5,7 @@ title: "Les oeuvres sont l'expression de la foi"
 date: "1965-11-26"
 year: 1965
 location: "Shreveport, Louisiane, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham enseigne que les oeuvres sont l'expression de la foi, en prenant l'exemple d'Abraham qui a agi sur la promesse de Dieu. Il aborde la guérison divine, la révélation comme fondement de l'Église, et partage des expériences personnelles et des visions prophétiques, notamment sur le jugement de Los Angeles."
 tags:
   - "foi"

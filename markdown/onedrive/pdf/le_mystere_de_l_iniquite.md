@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2011"
 date: "2011-01-23"
 year: 2011
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur expose le mystère de l'iniquité comme le péché religieux commis par les croyants dans l'Église, en contraste avec le mystère de la piété. Il montre comment Satan s'établit dans l'Église pour répandre l'iniquité, et exhorte les frères à veiller, combattre le péché et tendre vers la perfection en Christ."
 tags:
   - "Prédications"

@@ -6,7 +6,7 @@ subtitle: "18 février 1965, soir"
 date: "1965-02-18"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur Galates 4.27-31, expliquant que la semence spirituelle de la promesse (l'Épouse) n'hérite pas avec la semence charnelle (les dénominations). Il utilise les types d'Agar, Sara et Marie pour illustrer les âges de l'Église (Luther, Wesley, Pentecôte) et annonce que l'Épouse doit sortir de la balle dénominationnelle pour être enlevée."
 tags:
   - "semence"

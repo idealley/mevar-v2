@@ -48,15 +48,21 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Fix**: strip the furniture at the extraction stage, then rerun 66. Doing it in the normalizer would clean the manifest and leave the visible text broken.
 
+## Footnote links to anchors that do not exist
+
+**Status**: `check:dist` checks a link's page, not its `#fragment`. Codex's review of goal 08 found 32 fragments with no anchor, all from Ghost: 14 in `/qui-sera-enleve/` and 18 footnote links in `/le-jour-du-seigneur-4-et-les-tribulations/`. They predate goal 08.
+
+**Fix**: check fragments in `check:dist` against the target page's ids, then repair the two posts' footnote anchors (the text stays).
+
 ## `47` truncates `bible_refs` alphabetically at 50
 
-**Status**: 92 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah`: 4,059 references in all (2026-09-25). `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut. A new ref can push an old one out: goal 11's spoken refs took 38 out of the frontmatter of 25 files (`qui-est-dieu` no longer lists `Zacharie 12:10`).
+**Status**: 95 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah`: 4,325 references in all (goal 08, with goal 11's spoken refs and the PDF texts). `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut. A new ref can push an old one out: goal 11's spoken refs took 38 out of the frontmatter of 25 files (`qui-est-dieu` no longer lists `Zacharie 12:10`).
 
 **Fix**: decide what the page should show, then either lift the cap or keep the references in order of appearance rather than alphabetically. The normalizer sorts them, so order of appearance is not recoverable today.
 
 ## `100` keeps only the first verse group of a list
 
-**Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 941 of 39,225 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").
+**Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 952 of 40,602 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").
 
 **Fix**: split a list into one `bible_ref` per group at ingest (and a `cites` edge to each), or have 65/66 emit one ref per group. Needs a SurrealDB run to verify; none was available for goal 07.
 
@@ -76,25 +82,11 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## Le-Scribe summaries with no Branham link
 
-**Status**: 813 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 97 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 60 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter, and 3 where Le-Scribe's date is known to be wrong.
+**Status**: 816 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 94 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 60 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 11 with no date in the id (`wmbch15`, `59xxxxDiacres`, `5003xxDon&appel`), and 3 where Le-Scribe's date is known to be wrong.
 
 Those 3 are the place to start, because the right sermon is already known: `530606Demons-physique` is `53-0608A "Demonology, Physical Realm"`, `530607Demons-religieux` is `53-0609A "Demonology, Religious Realm"`; `600803Jehova-J` has no Jehovah-Jireh sermon within four days. The same drift shows in the "claimed twice" rows: `550118Ange` claims `55-0118 "This Great Warrior, David"`. More links of the "only sermon that day" kind may carry it unseen; nothing but a French title against an English one reveals it.
 
-**Fix**: a human pass over the 97, or model the summary→sermon relation as many-to-one on both sides.
-
-## Markdown files with no frontmatter
-
-**Status**: 7 files — `markdown/local/*.md` (2) and 5 Le-Scribe files (`1950/500115Crois-tu`, `1962/620714Son-confus`, `1962/620623Perseverant`, `undated/5003xxDon&appel`, `undated/5602Combat-foi`). Every script that patches frontmatter skips them, so they carry no metadata and no bible refs.
-
-**Fix**: run them through `64-add-frontmatter.mjs`, or drop them.
-
-## Branham `date` frontmatter does not match the sermon id
-
-**Symptom**: `markdown/branham/1958/58-0501.md` has `date: "1955-01-29"` and `subtitle: "55-0129"`; `62-0704` has `date: "1965-01-17"`.
-
-**Cause**: the metadata extractor read the date off the wrong element on branham.org. The sermon id is authoritative — that is why `49-link-le-scribe-branham.mjs` matches on the id, not on `date`.
-
-**Fix**: rebuild `date` from `sermon_id` for the branham source.
+**Fix**: a human pass over the 94, or model the summary→sermon relation as many-to-one on both sides.
 
 ## `npm install` fails in `web/`
 
@@ -128,12 +120,6 @@ node scripts/130-seed-strongs.mjs          # parses TAGNT + TAHOT, merges Strong
 ## Auth not wired
 
 See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + the 7 steps documented there.
-
-## The same preacher under several names
-
-**Status**: `preacher` has "William Branham" (2,123 works) and "William Marrion Branham" (81); "M'BRA Parfait" (116), "Fr M'BRA Parfait" (48) and "Frère M'BRA Parfait" (12), and the Ghost posts, which have no `preacher`, "Parfait M'bra" in `authors` (298). Since goal 05 the search filter by preacher lists each spelling as a separate preacher.
-
-**Fix**: normalise `preacher` in the pipeline stage that writes it (a frontmatter field, not the wording of a work), then rebuild.
 
 ## Long search queries download megabytes
 

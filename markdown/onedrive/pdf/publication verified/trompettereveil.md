@@ -5,7 +5,7 @@ title: "La trompette du Réveil"
 date: "2007-01-19"
 year: 2007
 location: "Lagos, Nigeria"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que dans la génération actuelle, Dieu a envoyé l'esprit d'Élie pour accomplir le réveil. Il distingue deux trompettes : celle du soir (appel à sortir de Babylone par William Branham) et celle de minuit (appel au réveil et au combat contre Babylone). Il exhorte les croyants à se préparer pour le combat et la rencontre de l'Époux."
 tags:
   - "Prédications"

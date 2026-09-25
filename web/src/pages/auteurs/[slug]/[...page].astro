@@ -2,12 +2,12 @@
 import type { GetStaticPaths } from "astro";
 import Layout from "../../../layouts/Layout.astro";
 import CategoryGrid from "../../../components/CategoryGrid.astro";
-import { PAGE_SIZE, authors, worksBy } from "$lib/works";
+import { PAGE_SIZE, PREACHERS, worksBy } from "$lib/works";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const pages = [];
-  for (const author of authors) {
-    const entries = await worksBy(author.name);
+  for (const author of PREACHERS) {
+    const entries = await worksBy(author);
     if (entries.length) pages.push(...paginate(entries, { pageSize: PAGE_SIZE, params: { slug: author.slug }, props: { author } }));
   }
   return pages;

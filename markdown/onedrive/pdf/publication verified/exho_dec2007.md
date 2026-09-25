@@ -5,7 +5,7 @@ title: "Appel à la guerre – Appel au combat contre Babylone"
 subtitle: "Exhortation de Décembre 2007"
 date: "2007-12-01"
 year: 2007
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation appelle les croyants à un combat spirituel intense contre les forces de Babylone, en insistant sur la prière et le jeûne comme moyens d'échapper aux pièges de Satan. L'auteur met en garde contre les soucis matériels et le travail excessif qui peuvent étouffer la vie de prière, et partage une vision reçue au Congo révélant les stratégies des démons pour entraver l'œuvre de Dieu. Il encourage les fidèles à se préparer pour l'enlèvement en restant vigilants et en multipliant les moments de prière collective."
 tags:
   - "Exhortations"

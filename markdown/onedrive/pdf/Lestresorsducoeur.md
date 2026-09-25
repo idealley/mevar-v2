@@ -5,7 +5,7 @@ title: "Les trésors du cœur"
 date: "2008-11-06"
 year: 2008
 location: "Assemblée de Sanandé (Cotonou)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le frère M'BRA Parfait exhorte les croyants à garder leur cœur plus que toute autre chose, car il est la source de la vie chrétienne et le trésor de Dieu. Il met en garde contre les poisons de Satan comme l'amertume et l'offense, et encourage à remplir son cœur des bonnes œuvres de la foi."
 tags:
   - "Exhortations"

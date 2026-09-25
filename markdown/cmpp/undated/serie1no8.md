@@ -1,3 +1,26 @@
+---
+source: "cmpp"
+sermon_id: "serie1no8"
+title: "Les douleurs de l’enfantement"
+subtitle: "24 janvier 1965, après-midi"
+date: "1965-01-24"
+year: 1965
+location: "Ramada Inn, Phoenix, Arizona, U.S.A."
+preacher: "William Branham"
+pdf_url: "http://cmpp.ch/serie1no8.pdf"
+bible_refs:
+  - "1 Jean 5"
+  - "Actes 2"
+  - "Apocalypse 21"
+  - "Hébreux 4"
+  - "Jean 16"
+  - "Jean 3"
+  - "Luc 17:28"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Matthieu 11"
+  - "Matthieu 24"
+---
     SERIE 1 N° 8
 
 

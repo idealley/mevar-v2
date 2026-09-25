@@ -5,7 +5,7 @@ title: "Ôtons nos vêtements"
 date: "2020-02-17"
 year: 2020
 location: "Lausanne"
-preacher: "Parfait MBRA"
+preacher: "Parfait M'bra"
 summary: "Jésus a ôté ses vêtements pour laver les pieds des disciples, symbole de l'humilité et du service. De même, les croyants doivent ôter leurs vêtements (orgueil, statut social) pour servir les frères et sœurs dans l'Église, en commençant par l'accueil et l'identification à l'autre."
 tags:
   - "lavage des pieds"
@@ -36,6 +36,12 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf"
 local_pdf: "/files/mevar/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 13"
+  - "Marc 16"
+  - "Philippiens 2:3"
+  - "Romains 14:1"
+  - "Romains 15"
 ---
 Ôtons nos vêtements
 

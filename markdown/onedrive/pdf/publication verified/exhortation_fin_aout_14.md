@@ -5,7 +5,7 @@ title: "LA REVOLTE DE SCHEBA"
 subtitle: "Exhortation d'Août 2014"
 date: "2014-08-01"
 year: 2014
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation traite de la rébellion spirituelle, symbolisée par Schéba, et de ses conséquences dans la vie chrétienne et l'Église. L'auteur met en garde contre l'esprit de rébellion qui s'oppose à l'autorité de Dieu et de sa Parole, et appelle à la soumission et à la repentance pour retrouver la paix et la délivrance."
 tags:
   - "Exhortations"

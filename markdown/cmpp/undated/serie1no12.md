@@ -5,7 +5,7 @@ title: "Discerner le Corps du Seigneur"
 date: "1959-08-12"
 year: 1959
 location: "Middletown, Ohio, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur l'importance de discerner le Corps du Seigneur, c'est-à-dire l'Église des croyants, en se basant sur 1 Corinthiens 11. Il critique le manque de discernement spirituel dans l'Église moderne, qui conduit à la faiblesse, la maladie et la mort spirituelle. Il exhorte les croyants à vivre selon la Parole de Dieu et à reconnaître les signes des temps."
 tags:
   - "discernement"

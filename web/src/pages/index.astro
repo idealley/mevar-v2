@@ -32,7 +32,7 @@ const counts = await corpusCounts();
     <div class="container mx-auto px-4 py-8">
       <div class="grid grid-cols-2 md:grid-cols-5 gap-4 text-center">
         <a href="/predications" class="group">
-          <div class="text-2xl font-bold group-hover:text-primary transition">{counts.sermons.toLocaleString("fr-FR")}</div>
+          <div class="text-2xl font-bold group-hover:text-primary transition">{counts.predications.toLocaleString("fr-FR")}</div>
           <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">prédications</div>
         </a>
         <a href="/exhortations" class="group">
@@ -40,11 +40,11 @@ const counts = await corpusCounts();
           <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">exhortations</div>
         </a>
         <a href="/etudes-bibliques" class="group">
-          <div class="text-2xl font-bold group-hover:text-primary transition">{counts.studies}</div>
+          <div class="text-2xl font-bold group-hover:text-primary transition">{counts["etudes-bibliques"]}</div>
           <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">études bibliques</div>
         </a>
         <a href="/publications" class="group">
-          <div class="text-2xl font-bold group-hover:text-primary transition">{(counts.books + counts.articles).toLocaleString("fr-FR")}</div>
+          <div class="text-2xl font-bold group-hover:text-primary transition">{counts.publications}</div>
           <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">publications</div>
         </a>
         <div>

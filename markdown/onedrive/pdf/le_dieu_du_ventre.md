@@ -5,7 +5,7 @@ title: "Le dieu du ventre"
 date: "2014-02-23"
 year: 2014
 location: "Koumassi (Abidjan, Côte d'Ivoire)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à acquérir la sagesse divine, nécessaire pour l'enlèvement, et à se détourner de la folie qui consiste à faire du ventre son dieu, en vivant pour les plaisirs terrestres sans espérance éternelle. Il dénonce la mondanité et les mauvaises fréquentations qui corrompent la foi, et encourage à marcher dans la sainteté et l'obéissance à la volonté de Dieu."
 tags:
   - "Exhortations"

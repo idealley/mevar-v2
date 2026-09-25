@@ -5,7 +5,7 @@ title: "L'UNITE DE LA FOI ET DE L'ESPRIT DANS LE CORPS DE CHRIST"
 subtitle: "Exhortation de Juillet 2010"
 date: "2010-07-01"
 year: 2010
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de juillet 2010 par le frère M'BRA Parfait appelle les croyants à reconstruire la muraille de l'unité de la foi et de l'esprit dans le Corps de Christ. S'appuyant sur Éphésiens 4 et d'autres Écritures, l'auteur insiste sur l'humilité, l'amour, la paix et le choix de bonnes compagnies pour réaliser cette unité spirituelle nécessaire à la fin des temps."
 tags:
   - "Exhortations"

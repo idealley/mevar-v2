@@ -5,7 +5,7 @@ title: "Présence démoniaque dans les mariages"
 date: "2015-06-07"
 year: 2015
 location: "Koumassi"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette prédication explore l'origine et les manifestations des présences démoniaques dans le mariage, depuis le jardin d'Éden jusqu'aux foyers contemporains. L'orateur explique que le mariage est une alliance charnelle et spirituelle qui donne des droits aux esprits, et que les couples chrétiens doivent utiliser les moyens spirituels pour éradiquer ces influences."
 tags:
   - "Prédications"

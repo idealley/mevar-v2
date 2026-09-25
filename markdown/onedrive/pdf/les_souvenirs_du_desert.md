@@ -5,7 +5,7 @@ title: "Les souvenirs du désert"
 date: "2012-04-01"
 year: 2012
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que le désert (épreuves, difficultés) fait partie intégrante de la grâce de Dieu pour éduquer ses enfants. Il insiste sur l'importance de la reconnaissance et de l'obéissance apprises dans le désert, en s'appuyant sur Deutéronome 8 et 1 Corinthiens 10. Le but est de préparer le peuple à entrer dans la terre promise (Canaan) avec humilité et gratitude."
 tags:
   - "Prédications"

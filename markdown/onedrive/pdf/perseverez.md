@@ -5,7 +5,7 @@ title: "Persévérez dans la prière et l'intercession"
 subtitle: "Exhortation de Mai 2009"
 date: "2009-05-01"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation rappelle aux membres de la chaîne de prière leur mission d'intercession pour Jérusalem, symbole de l'Église. Elle encourage à persévérer dans la prière et le jeûne, en s'appuyant sur Ésaïe 62 et l'exemple d'Élie, jusqu'à la délivrance totale. Une semaine de prière est annoncée du 25 au 31 mai."
 tags:
   - "Exhortations"

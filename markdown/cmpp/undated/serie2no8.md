@@ -6,7 +6,7 @@ subtitle: "30 juin 1963, soir"
 date: "1963-06-30"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la parabole du grand souper (Luc 14), montrant que les hommes trouvent toujours des excuses pour rejeter l'invitation de Dieu. Il applique cela aux nations (Russie, Angleterre, Amérique) qui ont rejeté le Saint-Esprit et sont entrées dans le jugement. Il exhorte à ne pas rejeter le jour de la visitation et à suivre la Colonne de Feu chaque jour."
 tags:
   - "invitation"

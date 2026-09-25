@@ -1,13 +1,17 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { authors, worksBy } from "$lib/works";
+import { PREACHERS, worksBy } from "$lib/works";
 
 const rows = [];
-for (const a of authors) {
-  const count = (await worksBy(a.name)).length;
-  if (count) rows.push({ ...a, count });
+for (const p of PREACHERS) {
+  const count = (await worksBy(p)).length;
+  if (count) rows.push({ ...p, count });
 }
 rows.sort((a, b) => b.count - a.count);
+const groups = [
+  { title: undefined, rows: rows.filter((p) => !p.archive) },
+  { title: "Archives", rows: rows.filter((p) => p.archive) },
+];
 ---
 
 <Layout title="Auteurs · Mevar" description="Auteurs des prédications, exhortations et études bibliques de Mevar">
@@ -18,17 +22,22 @@ rows.sort((a, b) => b.count - a.count);
         Les voix qui portent le message au sein de la mission MEVAR.
       </p>
     </header>
-    <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {rows.map((a) => (
-        <li>
-          <a href={`/auteurs/${a.slug}/`} class="block rounded-lg border bg-card p-5 hover:border-primary/50 transition">
-            <div class="font-semibold text-lg">{a.name}</div>
-            <div class="text-sm text-muted-foreground mt-1">
-              {a.count} publication{a.count > 1 ? "s" : ""}
-            </div>
-          </a>
-        </li>
-      ))}
-    </ul>
+    {groups.map((g) => (
+      <section class={g.title ? "mt-14" : undefined}>
+        {g.title && <h2 class="text-xl font-semibold tracking-tight mb-4">{g.title}</h2>}
+        <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {g.rows.map((a) => (
+            <li>
+              <a href={`/auteurs/${a.slug}/`} class="block rounded-lg border bg-card p-5 hover:border-primary/50 transition">
+                <div class="font-semibold text-lg">{a.name}</div>
+                <div class="text-sm text-muted-foreground mt-1">
+                  {a.count.toLocaleString("fr-FR")} publication{a.count > 1 ? "s" : ""}
+                </div>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
   </div>
 </Layout>

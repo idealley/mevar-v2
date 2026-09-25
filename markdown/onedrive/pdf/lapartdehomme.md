@@ -5,7 +5,7 @@ title: "La part de l'homme dans le plan de Dieu"
 date: "2011-07-10"
 year: 2011
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message explique que dans le plan de Dieu, l'homme a toujours une part à accomplir. Dieu fait Sa part, mais si l'homme refuse de faire la sienne (obéissance, repentance, action), il rend nul le dessein de Dieu à son égard. Des exemples bibliques (Noé, Lot, Jean-Baptiste, Israël) illustrent que la paresse et l'incrédulité empêchent l'accomplissement du plan divin."
 tags:
   - "Prédications"

@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "aide_semblable"
 title: "Je lui ferai une aide semblable…"
 location: "Koumassi"
-preacher: "IRIE ANDERSON"
+preacher: "Irié Anderson"
 summary: "Le prédicateur aborde le but de Dieu dans le mariage, en s'appuyant sur Genèse 2:18 et Matthieu 19. Il explique que le mariage n'est pas obligatoire mais doit être vécu selon la volonté de Dieu, en ayant Christ et l'Église comme modèle. Il insiste sur le ministère commun du couple, la soumission de la femme à son mari comme chef, et la responsabilité des parents d'éduquer leurs enfants selon Dieu."
 tags:
   - "Prédications"

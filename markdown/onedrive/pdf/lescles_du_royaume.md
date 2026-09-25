@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juin 2013"
 date: "2013-06-30"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que les clés du royaume de Dieu sont liées à la foi, et que seul l'homme spirituel, la nouvelle création en Christ, peut exercer cette foi. Il exhorte les croyants à prendre conscience de leur divinité, à proclamer des paroles de foi et à utiliser les clés qui leur ont été données pour ouvrir toutes les portes spirituelles."
 tags:
   - "Prédications"

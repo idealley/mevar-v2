@@ -5,7 +5,7 @@ title: "LE JUGE INIQUE - LA PARTIE ADVERSE"
 subtitle: "Exhortation de Novembre 2010"
 date: "2010-11-01"
 year: 2010
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation s'appuie sur la parabole du juge inique (Luc 18:1-8) pour encourager l'Église à persévérer dans la prière et la foi. L'auteur identifie Satan comme le juge inique et la partie adverse, et appelle les croyants à crier à Dieu nuit et jour pour obtenir justice et délivrance. Il souligne que la prière est l'arme des faibles et que la foi est le moteur de la prière persévérante."
 tags:
   - "Exhortations"

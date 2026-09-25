@@ -5,7 +5,7 @@ title: "Exhortation Janvier 2013"
 subtitle: "2013 - ANNEE DE MISSION"
 date: "2013-01-01"
 year: 2013
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation de janvier 2013 appelle les croyants à prendre conscience de leur appel et de leur mission en tant que disciples de Christ, à annoncer le retour imminent de Jésus et à se préparer par la sainteté. Elle insiste sur la nécessité d'une nouvelle sacrificature, purifiée des souillures, et encourage à entrer dans les choses nouvelles que Dieu veut accomplir."
 tags:
   - "Exhortations"

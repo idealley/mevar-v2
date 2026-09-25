@@ -6,7 +6,7 @@ subtitle: "Exhortation d'Avril 2016"
 date: "2016-04-10"
 year: 2016
 location: "Morofé"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation dénonce l'incrédulité dans l'Église, qui fait Dieu menteur en empêchant la manifestation de sa puissance. Le prédicateur appelle à une grande foi, seule capable de triompher des épreuves et de permettre à Dieu d'agir comme aux temps bibliques."
 tags:
   - "Exhortations"

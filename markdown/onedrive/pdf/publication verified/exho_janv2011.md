@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2011"
 date: "2011-01-01"
 year: 2011
 location: "Koumassi"
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation examine la justice de Dieu à travers l'affaire d'Urie et David, montrant que Dieu juge sans acception de personne. Elle appelle les croyants à marcher dans la vérité, à éviter les calomnies et les mensonges, et à se repentir pour être purifiés."
 tags:
   - "Exhortations"

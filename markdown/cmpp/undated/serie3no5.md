@@ -6,7 +6,7 @@ subtitle: "17 juillet 1963, soir"
 date: "1963-07-17"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème de Paul comme prisonnier de Jésus-Christ, expliquant que Paul a abandonné ses ambitions et son savoir pour devenir lié à la Parole par le Saint-Esprit. Il encourage les croyants à se laisser emprisonner par Christ, renonçant à leur propre volonté pour suivre la direction de l'Esprit."
 tags:
   - "prisonnier de Christ"

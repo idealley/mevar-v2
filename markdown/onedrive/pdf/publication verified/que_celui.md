@@ -5,7 +5,7 @@ title: "Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises"
 date: "2007-11-08"
 year: 2007
 location: "Mouyondzi, Congo Brazzaville"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à écouter ce que l'Esprit dit aux Églises, soulignant que nous sommes dans un temps particulier, à la fin de l'Église sur terre. Il insiste sur l'importance d'écouter la voix de Dieu à travers les hommes, de ne pas s'attacher aux hommes mais à la Parole, et de se préparer pour l'enlèvement en vivant dans la sainteté et la pureté."
 tags:
   - "Prédications"

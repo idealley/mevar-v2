@@ -5,7 +5,7 @@ title: "La lèpre de Nahaman"
 date: "2007-11-04"
 year: 2007
 location: "Mougnondzi, Congo/Brazzaville"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'Église à se purifier de la lèpre du péché et de Babylone, en s'appuyant sur l'histoire de Naaman. Il appelle les croyants à se soumettre à la Parole prophétique pour le Réveil et la victoire spirituelle."
 tags:
   - "Prédications"

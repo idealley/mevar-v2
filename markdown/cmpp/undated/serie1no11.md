@@ -6,7 +6,7 @@ subtitle: "28 juillet 1963, matin"
 date: "1963-07-28"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le mystère de Dieu révélé en Christ, avec des témoignages personnels, des consécrations d'enfants, et des annonces de voyages. Il souligne l'importance de la foi et de la révélation divine."
 tags:
   - "mystère de Dieu"

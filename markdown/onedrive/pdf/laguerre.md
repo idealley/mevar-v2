@@ -5,7 +5,7 @@ title: "LA GUERRE DE LIBERATION"
 date: "2007-04-22"
 year: 2007
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message explique que l'enlèvement de l'Église est précédé d'une guerre de libération contre le siège de Satan dans le Corps de Christ. L'apostasie et l'installation de l'adversaire dans le temple de Dieu (l'Église) sont des signes précurseurs. Le réveil vise à lever une armée pour chasser les démons et libérer chaque croyant individuellement, afin d'être prêt pour l'enlèvement."
 tags:
   - "Prédications"

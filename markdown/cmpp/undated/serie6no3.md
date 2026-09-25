@@ -6,7 +6,7 @@ subtitle: "19 septembre 1965, soir"
 date: "1965-09-19"
 year: 1965
 location: "Tucson, Arizona, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la soif spirituelle, comparant la soif naturelle d'eau à la soif de Dieu. Il explique que la soif est une alarme divine pour nos besoins, et que tout être humain a une soif naturelle de Dieu. Il encourage les croyants à persévérer malgré les obstacles du diable."
 tags:
   - "soif"

@@ -5,7 +5,7 @@ title: "LE JEUNE HOMME RICHE"
 subtitle: "Exhortation de Février 2009"
 date: "2009-02-01"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation analyse l'histoire du jeune homme riche (Marc 10:17-22) pour enseigner le renoncement à soi-même comme condition de la perfection en Christ. L'auteur souligne que beaucoup de croyants, comme ce jeune homme, veulent la vie éternelle mais refusent de payer le prix du renoncement à leur personnalité orgueilleuse. Il appelle à pratiquer les recommandations du Cri de Minuit pour être prêts pour l'enlèvement."
 tags:
   - "Exhortations"

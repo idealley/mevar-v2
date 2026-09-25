@@ -5,7 +5,7 @@ title: "L'AVEUGLE BARTIMEE"
 subtitle: "Exhortation de Mi-Juillet 2010"
 date: "2010-07-15"
 year: 2010
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation utilise l'histoire de l'aveugle Bartimée (Marc 10:46-53) pour illustrer la cécité spirituelle de l'Église de Laodicée. L'auteur explique que l'aveuglement est une malédiction divine pour ceux qui méprisent la révélation, et appelle les croyants à se repentir, à entrer par la porte étroite de la révélation et à suivre Christ dans le chemin resserré. Un appendice invite à la prière et au jeûne pour le jubilé des indépendances africaines."
 tags:
   - "Exhortations"

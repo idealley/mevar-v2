@@ -6,7 +6,7 @@ subtitle: "14 juillet 1963, matin"
 date: "1963-07-14"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur Exode 13-14, où Dieu dit à Moïse 'Pourquoi cries-tu à moi? Parle au peuple et qu'il marche.' Il souligne que la foi ointe par la rencontre personnelle avec Dieu permet d'agir avec autorité, comme Moïse après le buisson ardent. Il applique cela à l'Église des derniers temps, appelée à parler avec foi plutôt que de crier."
 tags:
   - "foi"
