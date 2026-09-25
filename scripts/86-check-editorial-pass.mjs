@@ -23,7 +23,8 @@
 //     those the body opens with, within the first 80, holding the title;
 //   - a reading inserted where the pass put a marker: a blockquote "> **1**…
 //     (Réf)", which must equal the Segond verses in SurrealDB, for a
-//     reference cited both in the original and in the paragraph before it.
+//     reference cited with its verses both in the original and in the
+//     paragraph before it (a bare chapter is not enough).
 // A word replaced by another is never accepted silently: it goes into the
 // substitution table, as a non-word corrected to a word (the French Hunspell
 // dictionary says which) or as a word replaced by a word; a word the PDF's
@@ -150,8 +151,10 @@ for (const md of batch) {
   // the reading closes (same first verse; the same last one if it says one).
   const cited = [...citations(original)];
   let body = pass.body.normalize("NFC");
-  const matches = (c, ref) => c.ref.includes("-") ? c.ref === ref
-    : c.ref === ref.replace(/-\d+$/, "") || c.ref === ref.replace(/:.*$/, "");
+  // A bare chapter ("Nous lisons dans Jean 3") never authorises a reading:
+  // the announcement names the verses, the first at least.
+  const matches = (c, ref) => c.ref.includes(":")
+    && (c.ref.includes("-") ? c.ref === ref : c.ref === ref.replace(/-\d+$/, ""));
   for (const { ref } of pass.readings) {
     const verses = await reading(db, ref);
     const inserted = verses && `\n\n${blockquote(verses, ref)}`;
