@@ -72,11 +72,11 @@ Branham PDFs first (`20-download-pdfs.mjs manifests/branham-<year>.json`,
 
 One batch at a time, the batches listed in `scripts/mevar-editorial-batches.json`.
 Needs SurrealDB with 110 run, the OneDrive originals at `onedrive/`, and
-the root `.env` (`DOTENV_CONFIG_PATH=<root>/.env` from a worktree).
+for 85 the root `.env` (`DOTENV_CONFIG_PATH=<root>/.env` from a worktree).
 
 | Script                              | Action |
 | ----------------------------------- | ------ |
-| `84-extract-originals.mjs <batch>`  | each original to `.parse-cache/` (gitignored): .docx through mammoth, PDF through LlamaParse cost_effective; never parsed twice |
+| `84-extract-originals.mjs <batch>`  | each original to `.parse-cache/` (gitignored): .docx through mammoth, PDF through LiteParse without OCR (the text layer, word for word) |
 | `85-editorial-pass.mjs <batch>`     | gpt-6-sol applies goal 04's rules to the original; missing readings become Segond verses from `bible_verse` (`segond.mjs`); result to `.pass-cache/` |
 | `86-check-editorial-pass.mjs <batch>` | word-by-word check of original against pass; a text with no unexplained change is written to `markdown/` with `editorial_pass`; report to `docs/goals/evidence/goal-10-batch-<batch>.md` |
 

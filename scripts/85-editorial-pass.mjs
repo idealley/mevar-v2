@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Goal 10: goal 04's editorial pass on one batch of OneDrive and PDF texts.
 //
-// The model reads the original (.parse-cache/, from 84) and returns it with
+// The model reads the original (.parse-cache/, from 84: the PDF's text layer) and returns it with
 // only the changes goal 04 allows. Where the preacher announces a reading
 // that the transcript does not contain, it writes a marker
 // [[LECTURE: <référence>]]; this script replaces the marker with the Segond
@@ -35,9 +35,9 @@ const SYSTEM = `Tu fais la passe éditoriale d'une prédication chrétienne tran
 Permis, et rien d'autre :
 - corriger les fautes de frappe et d'orthographe du transcripteur, et ses fautes d'accord (« Dieu a vue » devient « Dieu a vu ») ;
 - la ponctuation, les espaces et la typographie française : « guillemets », espace insécable avant : ; ? !, apostrophe courbe ’ ;
-- les coupures de paragraphe : recoller une phrase coupée par la mise en page, séparer un bloc trop long là où le prédicateur change d'idée ;
+- les coupures de ligne et de paragraphe : le texte vient d'un PDF, ses lignes sont coupées à la largeur de la page ; recoller les lignes d'un même paragraphe et une phrase coupée par un saut de page, séparer un bloc trop long là où le prédicateur change d'idée ;
 - enlever les numéros de page ;
-- enlever l'en-tête du début, c'est-à-dire les lignes de titre en « # » (le titre, « Prêché le … à … ») : le titre, la date et le lieu sont dans les métadonnées ; enlever la barre « Haut de page Retour Page d'accueil » de l'ancien site ; enlever les balises <u> et </u> ;
+- enlever l'en-tête du début, avant le premier paragraphe du prédicateur (le titre, « Prêché le … à … ») : le titre, la date et le lieu sont dans les métadonnées ; enlever la barre « Haut de page Retour Page d'accueil » de l'ancien site ;
 - la mise en forme d'une lecture biblique que le transcripteur a tapée : un paragraphe à part, en citation markdown et en italique, « > _…_ », avec les mots tels qu'ils sont (ce n'est pas toujours la Segond : ne les change pas) ;
 - les courtes citations dans une phrase restent dans la phrase, entre « ».
 

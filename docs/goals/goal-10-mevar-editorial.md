@@ -74,11 +74,12 @@ the verification done by a script and by sampling.
   published Ghost sermons 7.4); the defect is lost paragraphs (8 texts with
   a paragraph of 2,000 to 7,800 words). 163 of 164 PDFs have a text layer;
   the last is an empty 2 KB file. No OCR.
-- **Parser:** on five PDFs with lost paragraphs, LiteParse keeps every word
-  and the PDF's lines; LlamaParse (cost_effective and agentic) keeps every
-  word, rebuilds the paragraphs and drops the page numbers. 84 uses
-  LlamaParse cost_effective: 3 credits a page, about 8,350 credits for all
-  2,783 pages.
+- **Parser:** LiteParse, local, without OCR: the PDF's own text layer, the
+  same words as pdftotext. LlamaParse rebuilds paragraphs, and on five PDFs
+  kept every word; on batch 01 it rewrote some ("vends" → "vendis",
+  "serviteurs" → "serveurs", "avouait" → "avait était"), which the
+  independent review found, so it was dropped (1,854 free credits spent).
+  The pass rejoins the lines and paragraphs itself.
 - **65's canonical rewrites:** 65 ran before the DeepSeek cleanup, so the
   cleaned text carries them. All 4,407 citations in the 158 OneDrive texts
   that cite Scripture are canonical; in three originals, 726 of 728
