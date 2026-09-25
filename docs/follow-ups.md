@@ -32,9 +32,7 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 ## French citations 65 wrote canonical, still to restore
 
-**Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (remeasure after `goal-16-cmpp-complete.md` re-crawls its bodies), `local` (no original: Samuel, 2026-09-25, leave it), and the two posts goal 14 edits (`qui-sera-enleve`, `le-jour-du-seigneur-4-et-les-tribulations`, 293 spots).
-
-**Fix**: after goal 14 merges, drop `WAIT` from `65c` and rerun it, then 65, 47 and 50.
+**Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (remeasure after `goal-16-cmpp-complete.md` re-crawls its bodies), and `local` (no original: Samuel, 2026-09-25, leave it). The two posts goal 14 edited (`qui-sera-enleve`, `le-jour-du-seigneur-4-et-les-tribulations`) were restored once it merged: 174 citations back to the Ghost wording, 117 already as written, 2 listed.
 
 ## Branham page headers the PDF could not confirm
 
