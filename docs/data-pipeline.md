@@ -63,9 +63,9 @@ The book tables live in `scripts/bible-books.mjs`. Both normalizers merge into
 `manifests/bible-refs.json`, keyed by markdown path; each work's refs are
 listed in the order the work cites them, first occurrence only (at the same
 position, the longer match first). `47-lift-manifest-fields.mjs` copies that
-list, whole and in that order, into the work's `bible_refs`. 65b needs the Branham PDFs
-first (`20-download-pdfs.mjs manifests/branham-<year>.json`, 152 MB, gitignored)
-and lists the French names it cannot align in
+list, whole and in that order, into the work's `bible_refs`. 65b needs the
+Branham PDFs first (`20-download-pdfs.mjs manifests/branham-<year>.json`,
+152 MB, gitignored) and lists the French names it cannot align in
 `manifests/branham-restore-unaligned.json`.
 
 ## Stage 5 — Index assembly
