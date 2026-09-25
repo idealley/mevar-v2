@@ -20,7 +20,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
-import { escRe } from "./bible-books.mjs";
+import { escRe, quotePattern, before2, after3 } from "./bible-books.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const mdRoot = path.join(root, "markdown/branham");
@@ -31,9 +31,7 @@ const EVEN = "THE SPOKEN WORD";
 // does not; quotes may be curly on one side and straight on the other, and our
 // paragraph numbers may carry a period the PDF does not print.
 const flat = (s) => s.replace(/^[ \t]*(?:>[ \t]*)+|^#{1,6}[ \t]+/gm, "").replace(/\*+/g, "").replace(/\s+/g, " ").replace(/(\d)- (\d)/g, "$1-$2");
-const pattern = (s) => escRe(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]').replace(/(^| )(\d+)\\\./g, "$1$2\\.?");
-const before2 = (text, at) => flat(text.slice(Math.max(0, at - 300), at)).trimEnd().split(" ").slice(-2).join(" ");
-const after3 = (text, at) => flat(text.slice(at, at + 300)).trimStart().split(" ").slice(0, 3).join(" ");
+const pattern = (s) => quotePattern(s).replace(/(^| )(\d+)\\\./g, "$1$2\\.?");
 
 function* walk(dir) {
   for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -85,7 +83,7 @@ function aligns(text, source, title, r) {
   const num = r.num ?? "\\d{1,3}";
   // The PDF prints the number first on even pages, last on odd ones.
   const printed = title === EVEN ? `${num} ${header}` : `${header} ${num}`;
-  const before = before2(text, r.start), after = after3(text, r.end);
+  const before = before2(text, r.start, flat), after = after3(text, r.end, flat);
   const re = new RegExp(`${before ? `(?<![^ ])${pattern(before)} ` : ""}\u0001${printed}\u0001${after ? ` ${pattern(after)}(?![^ ])` : ""}`, "g");
   return [...source.matchAll(re)].length === 1;
 }
