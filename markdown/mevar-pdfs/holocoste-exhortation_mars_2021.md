@@ -40,17 +40,17 @@ pdf_url: "https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_202
 local_pdf: "/files/mevar/holocoste-exhortation_mars_2021.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 17:5"
-  - "Daniel 3:28-29"
-  - "Genèse 22:1"
-  - "Jean 14:15"
-  - "Jean 15:10"
-  - "Job 38:1-3"
   - "Luc 18:8"
+  - "Matthieu 24:12"
+  - "Job 38:1-3"
+  - "Genèse 22:1"
+  - "Daniel 3:28-29"
+  - "Apocalypse 17:5"
   - "Lévitique 22:18-20"
   - "Malachie 1:7-8"
   - "Matthieu 22:36-37"
-  - "Matthieu 24:12"
+  - "Jean 14:15"
+  - "Jean 15:10"
   - "Matthieu 24:5"
 ---
 *Exhortation De Mars 2021*

@@ -45,14 +45,14 @@ themes:
 pdf_url: "http://cmpp.ch/7sceaux2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 1"
-  - "Apocalypse 10"
-  - "Apocalypse 11"
   - "Apocalypse 5"
-  - "Genèse 49"
-  - "Lévitique 25"
+  - "Apocalypse 10"
+  - "Apocalypse 1"
   - "Malachie 4"
   - "Romains 8"
+  - "Apocalypse 11"
+  - "Lévitique 25"
+  - "Genèse 49"
   - "Zacharie 3"
   - "Zacharie 4"
 ---

@@ -58,17 +58,17 @@ themes:
 pdf_url: "http://cmpp.ch/chef_oeuvre.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 10"
+  - "Ésaïe 53"
+  - "Jean 14"
+  - "Marc 9"
+  - "Malachie 3"
+  - "Jean 12"
+  - "Matthieu 24"
   - "Apocalypse 17"
   - "Apocalypse 3"
-  - "Jean 12"
-  - "Jean 14"
-  - "Luc 17"
-  - "Malachie 3"
   - "Malachie 4"
-  - "Marc 9"
-  - "Matthieu 24"
-  - "Ésaïe 53"
+  - "Apocalypse 10"
+  - "Luc 17"
 ---
 LA PAROLE PARLEE
 

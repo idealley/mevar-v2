@@ -37,20 +37,20 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590424Ecoutez-le.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Timothée 2:5"
-  - "2 Corinthiens 5:19"
-  - "2 Pierre 1:18"
   - "Actes 19:12"
+  - "Matthieu 17:5"
+  - "Luc 8:51"
+  - "2 Pierre 1:18"
+  - "2 Corinthiens 5:19"
+  - "Jean 14:2"
   - "Deutéronome 22:5"
-  - "Hébreux 13:8"
-  - "Hébreux 4:15"
+  - "Jean 13:35"
   - "Jean 11:21-22"
   - "Jean 11:25-26"
-  - "Jean 13:35"
-  - "Jean 14:2"
+  - "Hébreux 4:15"
+  - "1 Timothée 2:5"
+  - "Hébreux 13:8"
   - "Jean 15:5"
-  - "Luc 8:51"
-  - "Matthieu 17:5"
 ---
 **1.** … Je vous présente mon ami Booth-Clibborn qui a composé : “Il est descendu de sa Gloire” que j’ai fait chanter partout. C’est le premier cantique que ma fille Becky qui apprend le piano a joué. Je me sens mal à l’aise de prêcher devant un tel homme qui parle sept langues, le grec et l’hébreu, alors que je ne parle même pas bien l’anglais !
 

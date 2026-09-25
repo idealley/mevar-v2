@@ -22,10 +22,10 @@ ghost_id: "685d4de436cbb90001f67eef"
 uuid: "b191e2ca-879c-49f8-96da-f2d58a8bc953"
 stream_url: "https://mevar.org/faire-front-par-la-foi-deuxieme-partie/"
 bible_refs:
+  - "Jean 15"
   - "2 Samuel 6"
   - "Hébreux 11"
   - "Hébreux 11:31-36"
-  - "Jean 15"
 series_id: "faire-front-par-la-foi"
 series: "Faire front par la Foi"
 series_part: 2

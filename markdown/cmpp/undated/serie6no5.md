@@ -40,15 +40,15 @@ themes:
 pdf_url: "http://cmpp.ch/serie6no5.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2"
   - "Genèse 22:15"
+  - "Romains 4"
+  - "Actes 2"
+  - "Romains 3"
   - "Hébreux 11"
   - "Hébreux 13"
   - "Hébreux 4"
   - "Jean 4"
   - "Jean 5"
-  - "Romains 3"
-  - "Romains 4"
 ---
 SERIE 6, N° 5
 

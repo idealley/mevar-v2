@@ -42,18 +42,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640216Identification.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 1:15"
-  - "Actes 2:38"
+  - "Philippiens 2:5-11"
   - "Apocalypse 3:5,9"
-  - "Galates 1:8"
   - "Jean 14:11,20"
-  - "Jean 14:12"
-  - "Jean 3:2"
+  - "1 Jean 1:15"
   - "Jean 5:46"
+  - "Ésaïe 9:5,7"
+  - "Jean 3:2"
   - "Jean 6:68"
   - "Luc 16:19-31"
-  - "Philippiens 2:5-11"
-  - "Ésaïe 9:5,7"
+  - "Actes 2:38"
+  - "Galates 1:8"
+  - "Jean 14:12"
 original: "branham/1964/64-0216"
 ---
 *Identification* (16 février 1964, soir)

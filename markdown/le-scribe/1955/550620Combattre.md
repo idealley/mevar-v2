@@ -38,10 +38,10 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550620Combattre.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 13:8"
-  - "Jean 5:19"
   - "Jude 1:3"
   - "Marc 6:5-6"
+  - "Jean 5:19"
+  - "Hébreux 13:8"
 original: "branham/1955/55-0620"
 ---
 **1.** Lisons Jude 1:3 :

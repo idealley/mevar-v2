@@ -46,17 +46,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631114Influence.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12:14-26"
-  - "2 Chroniques 26:16-21"
-  - "Exode 19"
-  - "Exode 3:5"
-  - "Jean 8:42,13"
-  - "Jean 8:58"
-  - "Jean 9"
-  - "Luc 5:5"
-  - "Malachie 3"
   - "Marc 6:6"
   - "Ésaïe 6:1-8"
+  - "2 Chroniques 26:16-21"
+  - "1 Corinthiens 12:14-26"
+  - "Exode 19"
+  - "Exode 3:5"
+  - "Jean 8:58"
+  - "Jean 8:42,13"
+  - "Malachie 3"
+  - "Luc 5:5"
+  - "Jean 9"
 original: "branham/1963/63-1114"
 ---
 **1.** [Prière]. La seule chose qui puisse limiter Dieu, c’est notre foi. “Il ne put faire là aucun miracle, si ce n’est qu’il imposa les mains à quelques malades et les guérit. Et il s’étonnait de leur incrédulité” (Marc 6:6). Il nous suffit d’être parfaitement connecté à lui. “Si vous aviez de la foi et que vous ne doutiez point, … quand vous diriez à cette montagne : Ote-toi de là et jette-toi dans la mer, cela se ferait. – Tout ce que vous demanderez avec foi par la prière, vous le recevrez” (Mat. 21:21-22).

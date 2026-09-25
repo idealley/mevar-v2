@@ -49,13 +49,13 @@ mevar_match:
   similarity: 0.614
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 13"
-  - "2 Thessaloniciens 2"
-  - "Apocalypse 4"
-  - "Jérémie 1"
-  - "Jérémie 27"
   - "Jérémie 28"
+  - "1 Rois 13"
+  - "Jérémie 27"
+  - "2 Thessaloniciens 2"
+  - "Jérémie 1"
   - "Luc 17"
+  - "Apocalypse 4"
 ---
 # L'univers de la révélation 2
 

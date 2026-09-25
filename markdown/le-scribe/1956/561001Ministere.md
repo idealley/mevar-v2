@@ -43,12 +43,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/561001Ministere.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Chroniques 17"
-  - "Jean 5"
-  - "Jérémie 1:5"
   - "Marc 16"
-  - "Matthieu 12:42"
   - "Éphésiens 4:11"
+  - "Jean 5"
+  - "Matthieu 12:42"
+  - "1 Chroniques 17"
+  - "Jérémie 1:5"
 original: "branham/1956/56-1001"
 ---
 **LE MINISTERE EXPLIQUE**

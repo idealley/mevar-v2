@@ -49,14 +49,14 @@ mevar_match:
   similarity: 0.67
 llm_cleaned: true
 bible_refs:
-  - "Jean 11"
-  - "Jean 11:1"
-  - "Jean 4"
   - "Jean 9"
-  - "Job 42:1"
-  - "Luc 1"
+  - "Jean 11:1"
   - "Luc 7:11"
+  - "Jean 4"
   - "Malachie 4"
+  - "Luc 1"
+  - "Jean 11"
+  - "Job 42:1"
 ---
 # Afin que les œuvres de Dieu soient accomplies
 

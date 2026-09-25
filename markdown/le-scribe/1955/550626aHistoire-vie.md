@@ -36,9 +36,9 @@ pdf_url: "http://le-scribe.org/pdfiles/550626aHistoire-vie.pdf"
 llm_cleaned: true
 bible_refs:
   - "Hébreux 13:10-14"
-  - "Marc 9:23"
-  - "Matthieu 9:22"
   - "Matthieu 9:29"
+  - "Matthieu 9:22"
+  - "Marc 9:23"
   - "Proverbes 13:15"
 original: "branham/1955/55-0626A"
 ---

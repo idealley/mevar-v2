@@ -39,12 +39,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570127Imitation.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:38"
-  - "Joël 1:4"
-  - "Juges 16:3"
   - "Luc 5:37"
-  - "Matthieu 11:29-30"
+  - "Joël 1:4"
+  - "Actes 2:38"
   - "Ézéchiel 36:26"
+  - "Juges 16:3"
+  - "Matthieu 11:29-30"
 original: "branham/1957/57-0127A"
 ---
 *Résumé de : “L’imitation du christianisme” (27 janvier 1957)*

@@ -46,11 +46,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620129Ministere-explique.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Samuel 8:3-20"
-  - "Hébreux 13:8"
-  - "Jean 14:19,17"
-  - "Jean 5:19"
   - "Marc 16"
+  - "Jean 14:19,17"
+  - "Hébreux 13:8"
+  - "1 Samuel 8:3-20"
+  - "Jean 5:19"
   - "Marc 5:30"
 original: "branham/1962/62-0129"
 ---

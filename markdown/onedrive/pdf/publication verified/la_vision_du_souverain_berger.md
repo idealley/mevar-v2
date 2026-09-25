@@ -40,14 +40,14 @@ mevar_match:
   similarity: 0.625
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 5"
-  - "2 Pierre 1:5"
-  - "Apocalypse 12"
-  - "Galates 5"
   - "Jean 15"
-  - "Luc 13"
   - "Luc 13:6"
+  - "1 Pierre 5"
+  - "Luc 13"
+  - "Galates 5"
+  - "2 Pierre 1:5"
   - "Psaumes 23"
+  - "Apocalypse 12"
 ---
 La vision du bon Berger, prêché par le frère M’BRA Parfait, à la Convention de Lakota, le samedi matin 1ᵉʳ Avril 2018
 

@@ -37,12 +37,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560115Jonction.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3:8"
-  - "Actes 2:15"
-  - "Apocalypse 11"
   - "Joël 2:28"
+  - "Actes 2:15"
   - "Luc 17:26"
+  - "Apocalypse 11"
   - "Luc 21:28"
+  - "2 Timothée 3:8"
 original: "branham/1956/56-0115"
 ---
 **LE CARREFOUR DU TEMPS**

@@ -38,17 +38,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620627Voir-Jesus.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 5:19"
-  - "2 Rois 7"
-  - "Deutéronome 18:15-19"
-  - "Hébreux 13:8"
-  - "Hébreux 1:1-2"
   - "Jean 12:20-21"
+  - "Hébreux 13:8"
+  - "Deutéronome 18:15-19"
+  - "Hébreux 1:1-2"
   - "Jean 14:10"
   - "Jean 5:19"
+  - "2 Corinthiens 5:19"
   - "Jean 5:39,10"
   - "Jean 8:57"
   - "Zacharie 14:7"
+  - "2 Rois 7"
 original: "branham/1962/62-0627"
 ---
 **Résumé de!: "Nous voudrions voir Jésus" (27 juin 1962, soir)**

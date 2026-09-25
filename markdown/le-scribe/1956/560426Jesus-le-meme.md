@@ -42,17 +42,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560426Jesus-le-meme.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Colossiens 1:27"
-  - "Daniel 3:17-18"
-  - "Exode 28:30"
-  - "Hébreux 13:8"
+  - "Matthieu 11:25"
   - "Jean 12:20-21"
+  - "Hébreux 13:8"
+  - "Exode 28:30"
+  - "Marc 16"
+  - "Daniel 3:17-18"
   - "Jean 12:21"
+  - "Psaumes 22:6"
+  - "Colossiens 1:27"
   - "Jean 1:47"
   - "Jean 5:19"
-  - "Marc 16"
-  - "Matthieu 11:25"
-  - "Psaumes 22:6"
 original: "branham/1956/56-0426"
 ---
 **Résumé de : “Jésus-Christ le même” (26 avril 1956)**

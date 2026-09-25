@@ -36,15 +36,15 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no11.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 4"
-  - "Hébreux 13"
-  - "Jean 14"
-  - "Marc 11"
-  - "Marc 11:12-24"
-  - "Matthieu 28"
   - "Psaumes 34"
   - "Romains 9"
+  - "1 Jean 4"
+  - "Matthieu 28"
+  - "Marc 11:12-24"
+  - "Marc 11"
   - "Ésaïe 14"
+  - "Jean 14"
+  - "Hébreux 13"
 ---
 SERIE 3 N° 11
 

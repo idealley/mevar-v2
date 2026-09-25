@@ -45,22 +45,22 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "1 Timothée 4:1"
-  - "2 Pierre 1:19"
   - "2 Timothée 3:1"
-  - "Apocalypse 12"
-  - "Apocalypse 17"
-  - "Apocalypse 22:16"
-  - "Apocalypse 3:21"
-  - "Exode 2"
-  - "Galates 4:22-31"
-  - "Galates 5:1"
-  - "Genèse 17:16-22"
-  - "Jacques 5:7-8"
   - "Malachie 4:5-6"
-  - "Marc 13:33-37"
+  - "Genèse 17:16-22"
   - "Romains 4:18-22"
+  - "Jacques 5:7-8"
+  - "Galates 4:22-31"
   - "Romains 8:19"
+  - "Apocalypse 17"
   - "Éphésiens 5:27"
+  - "Apocalypse 12"
+  - "Galates 5:1"
+  - "Exode 2"
+  - "Marc 13:33-37"
+  - "Apocalypse 22:16"
+  - "2 Pierre 1:19"
+  - "Apocalypse 3:21"
 ---
 ## Qu'Ismaël vive devant ta face
 

@@ -41,8 +41,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551110Vie-cachee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:38-39"
   - "Hébreux 10:19-20"
+  - "Actes 2:38-39"
   - "Ésaïe 28:10"
 original: "branham/1955/55-1110"
 ---

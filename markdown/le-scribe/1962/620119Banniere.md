@@ -40,13 +40,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620119Banniere.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 1:8"
-  - "Hébreux 9:22"
   - "Jean 12:32"
+  - "Ésaïe 5:26"
+  - "Romains 10:17"
+  - "Hébreux 9:22"
+  - "Actes 1:8"
   - "Jean 13:35"
   - "Jean 14:10,5"
-  - "Romains 10:17"
-  - "Ésaïe 5:26"
 original: "branham/1962/62-0119"
 ---
 **UNE BANNIERE**

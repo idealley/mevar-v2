@@ -42,13 +42,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640620Qui-est-Jesus.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Psaumes 133:2"
+  - "Luc 19:1"
+  - "Éphésiens 3:15"
+  - "Philippiens 2:10"
   - "Genèse 15:13"
   - "Jacques 4:2"
   - "Jean 16:24"
-  - "Luc 19:1"
-  - "Philippiens 2:10"
-  - "Psaumes 133:2"
-  - "Éphésiens 3:15"
 ---
 **Résumé de : “Qui est Jésus?” (20 juin 1964, matin)**
 

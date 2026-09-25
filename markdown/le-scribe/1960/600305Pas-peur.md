@@ -39,14 +39,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600305Pas-peur.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Daniel 5:5,25"
-  - "Exode 12:13"
+  - "Matthieu 14:22"
   - "Jean 10:37-38"
   - "Jean 1:48"
   - "Jean 4:10"
-  - "Jean 5:19"
-  - "Matthieu 14:22"
+  - "Exode 12:13"
   - "Ésaïe 66:1"
+  - "Jean 5:19"
+  - "Daniel 5:5,25"
 original: "branham/1960/60-0305"
 ---
 **1.** [Prière] …

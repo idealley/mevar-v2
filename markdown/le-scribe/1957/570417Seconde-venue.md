@@ -44,14 +44,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570417Seconde-venue.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Luc 15:8"
   - "Apocalypse 22:20"
-  - "Apocalypse 3:17"
+  - "Luc 21:30"
+  - "Genèse 12:3,27"
+  - "Nombres 24:9"
   - "Daniel 5:27"
   - "Galates 5:22"
-  - "Genèse 12:3,27"
-  - "Luc 15:8"
-  - "Luc 21:30"
-  - "Nombres 24:9"
+  - "Apocalypse 3:17"
 original: "branham/1957/57-0417"
 ---
 **Résumé de!: “La Seconde Venue du Seigneur” (17 avril 1957, soir)**

@@ -44,21 +44,21 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "1 Samuel 2:22"
+  - "Jérémie 7:1"
+  - "Jérémie 7"
+  - "Jérémie 27:6-7"
+  - "Luc 21"
+  - "Jérémie 27:6"
+  - "Ésaïe 27"
+  - "Apocalypse 3:14"
   - "2 Thessaloniciens 2"
-  - "Actes 3:19"
   - "Apocalypse 1"
   - "Apocalypse 2"
-  - "Apocalypse 3:14"
-  - "Jérémie 27:6"
-  - "Jérémie 27:6-7"
-  - "Jérémie 7"
-  - "Jérémie 7:1"
-  - "Luc 18"
-  - "Luc 18:9"
-  - "Luc 21"
-  - "Luc 9:57"
   - "Matthieu 24:45"
-  - "Ésaïe 27"
+  - "Luc 18:9"
+  - "Actes 3:19"
+  - "Luc 18"
+  - "Luc 9:57"
 ---
 *Exhortation spéciale du Mois de Septembre 2006*
 

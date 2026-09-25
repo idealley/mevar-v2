@@ -59,9 +59,9 @@ mevar_match:
   similarity: 0.6
 llm_cleaned: true
 bible_refs:
-  - "Actes 17:4-7"
   - "Exode 13"
   - "Exode 13:17-22"
+  - "Actes 17:4-7"
 ---
 ## Le chemin le plus long
 

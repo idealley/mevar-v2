@@ -35,13 +35,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560129Atmosphere.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 3:15"
-  - "2 Rois 5:8"
-  - "2 Timothée 3:8"
-  - "Hébreux 13:8"
   - "Jean 10:7"
-  - "Jean 15:7"
+  - "2 Rois 5:8"
+  - "Hébreux 13:8"
   - "Jean 5:24"
+  - "Jean 15:7"
+  - "1 Pierre 3:15"
+  - "2 Timothée 3:8"
 original: "branham/1956/56-0129"
 ---
 *Résumé de!: “Le Surnaturel” (29 janvier 1956, matin)*

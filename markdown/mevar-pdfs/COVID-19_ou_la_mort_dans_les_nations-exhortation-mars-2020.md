@@ -43,21 +43,21 @@ pdf_url: "https://mevar.org/content/files/2022/12/COVID-19_ou_la_mort_dans_les_n
 local_pdf: "/files/mevar/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Pierre 3:5-7"
-  - "Apocalypse 12:1-5"
-  - "Apocalypse 12:9"
-  - "Apocalypse 17"
-  - "Apocalypse 6:7-8"
-  - "Apocalypse 6:8"
-  - "Esther 3:13-15"
-  - "Exode 1:22"
   - "Genèse 2"
   - "Genèse 2:16-17"
+  - "Apocalypse 12:9"
+  - "Ézéchiel 28"
   - "Genèse 6:5-8"
+  - "2 Pierre 3:5-7"
+  - "Romains 6:23"
+  - "Apocalypse 6:7-8"
+  - "Apocalypse 12:1-5"
+  - "Apocalypse 17"
+  - "Exode 1:22"
   - "Matthieu 2:14-15"
   - "Matthieu 2:16-18"
-  - "Romains 6:23"
-  - "Ézéchiel 28"
+  - "Esther 3:13-15"
+  - "Apocalypse 6:8"
 ---
 *Exhortation De Mars 2020*
 

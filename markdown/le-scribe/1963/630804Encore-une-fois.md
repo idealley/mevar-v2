@@ -37,14 +37,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630804Encore-une-fois.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Juges 16:27-28"
   - "2 Pierre 2:22"
   - "2 Timothée 3:5"
   - "Apocalypse 17"
-  - "Apocalypse 3:12"
   - "Jean 10:37"
-  - "Jean 13:35"
-  - "Juges 16:27-28"
   - "Ésaïe 1:3"
+  - "Apocalypse 3:12"
+  - "Jean 13:35"
 original: "branham/1963/63-0804A"
 ---
 **1.** [Prière]. Lisons Juges 16:27-28

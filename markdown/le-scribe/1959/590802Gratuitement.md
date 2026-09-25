@@ -36,16 +36,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590802Gratuitement.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Psaumes 34:19"
+  - "Matthieu 16:15-16"
+  - "Ésaïe 55:1"
   - "Actes 3:6"
-  - "Apocalypse 22:17"
+  - "Matthieu 10:8"
+  - "Marc 16:15-18"
+  - "Psaumes 46:1"
   - "Jean 3:15-16"
   - "Jean 9:25"
-  - "Marc 16:15-18"
-  - "Matthieu 10:8"
-  - "Matthieu 16:15-16"
-  - "Psaumes 34:19"
-  - "Psaumes 46:1"
-  - "Ésaïe 55:1"
+  - "Apocalypse 22:17"
 original: "branham/1959/59-0802"
 ---
 **1.** Le frère Neville m'informe qu'on ne m'entend pas au fond. Je suis si petit que je dois faire du bruit pour montrer que je suis présent ! C'est ce que je disais à Mrs. Edith Ehalt qui me reprochait le bruit que mes souliers à crampons faisaient quand je montais les marches du temps où je travaillais pour la Régie d'Électricité.

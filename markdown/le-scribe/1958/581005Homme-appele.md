@@ -46,20 +46,20 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/581005Homme-appele.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Samuel 17:37"
   - "2 Rois 2:1-4"
-  - "Actes 2:38"
-  - "Actes 8:5-25"
+  - "1 Samuel 17:37"
   - "Hébreux 13:8"
   - "Jean 12:20"
-  - "Jean 14:12"
-  - "Jean 14:17,23"
+  - "Marc 16:17"
   - "Jean 14:19"
+  - "Jean 14:17,23"
   - "Jean 15:5"
+  - "Actes 2:38"
+  - "Actes 8:5-25"
   - "Jean 1:42,48"
   - "Jean 4"
-  - "Marc 16:17"
   - "Marc 5:25-30"
+  - "Jean 14:12"
 original: "branham/1958/58-1005E"
 ---
 **Résumé de : “Un homme appelé par Dieu” (5 octobre 1958, soir)**

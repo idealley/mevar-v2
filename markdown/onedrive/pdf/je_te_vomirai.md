@@ -39,15 +39,15 @@ themes:
   - "Chercheurs de Dieu"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 14"
-  - "2 Timothée 3:1"
+  - "Matthieu 25:11"
+  - "Proverbes 24"
   - "Apocalypse 3"
+  - "Matthieu 6"
   - "Apocalypse 3:14"
   - "Matthieu 13"
-  - "Matthieu 25:11"
-  - "Matthieu 6"
-  - "Proverbes 24"
+  - "2 Timothée 3:1"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
 ---
 ## JE TE VOMIRAI DE MA BOUCHE
 

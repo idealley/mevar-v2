@@ -48,17 +48,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560225Jesus-le-meme.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "Actes 2:22"
-  - "Genèse 15:10"
-  - "Jean 14:19"
-  - "Jean 1:49"
-  - "Jean 3:2"
-  - "Jean 5:19"
-  - "Jean 8:44"
-  - "Jude 1"
-  - "Luc 16:16"
   - "Marc 9:2-3"
+  - "Jude 1"
+  - "1 Corinthiens 12"
+  - "Luc 16:16"
+  - "Jean 8:44"
+  - "Jean 1:49"
+  - "Actes 2:22"
+  - "Jean 3:2"
+  - "Genèse 15:10"
+  - "Jean 5:19"
+  - "Jean 14:19"
 original: "branham/1956/56-0225"
 ---
 *Résumé de : "Jésus-Christ est le même hier, aujourd'hui et éternellement" (25 février soir 1956)*

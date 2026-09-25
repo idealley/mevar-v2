@@ -39,13 +39,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560121Voile-interieur.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:38-39"
-  - "Apocalypse 11:15"
+  - "Ésaïe 53:5"
   - "Hébreux 10:19-23"
   - "Jean 6:44"
   - "Proverbes 14:12"
-  - "Ésaïe 53:5"
+  - "Actes 2:38-39"
   - "Ézéchiel 36:26-27"
+  - "Apocalypse 11:15"
 original: "branham/1956/56-0121"
 ---
 **LE VOILE INTERIEUR**

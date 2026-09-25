@@ -38,12 +38,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/591123Parle-montagne.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Genèse 22"
-  - "Luc 9:56"
-  - "Marc 11"
-  - "Marc 11:20-24"
   - "Psaumes 34:8"
+  - "Marc 11:20-24"
   - "Ésaïe 53:5"
+  - "Marc 11"
+  - "Luc 9:56"
+  - "Genèse 22"
 original: "branham/1959/59-1123"
 ---
 *Résumé de!: “Parle à cette montagne” (23 novembre 1959, soir)*

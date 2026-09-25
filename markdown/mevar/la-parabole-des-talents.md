@@ -16,10 +16,10 @@ ghost_id: "6448fa86db90770001518ef2"
 uuid: "930c3ee2-25bc-4e56-8047-3f3c6e4fb9fa"
 stream_url: "https://mevar.org/la-parabole-des-talents/"
 bible_refs:
-  - "Galates 5:6"
+  - "Nombres 10"
   - "Matthieu 24"
   - "Matthieu 25"
-  - "Nombres 10"
+  - "Galates 5:6"
 ---
 Alors on remercie le Seigneur pour le rassemblement de ce matin. Je voudrais qu’on s’entretienne sur la parabole des talents. C’est un sujet que j’ai déjà évoqué ici une année, il y a longtemps. Je voudrais revenir là-dessus avec de nouvelles pensées. Amen ! Donc nous allons déjà lire dans Mathieu chapitre 24 le verset 9 :
 

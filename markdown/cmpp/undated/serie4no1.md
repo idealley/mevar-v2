@@ -43,16 +43,16 @@ themes:
 pdf_url: "http://cmpp.ch/serie4no1.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Samuel 9"
-  - "Actes 2"
-  - "Hébreux 11"
-  - "Jean 15"
   - "Jean 6"
   - "Jean 6:60"
+  - "Ésaïe 35"
+  - "Romains 4"
   - "Luc 10"
   - "Psaumes 22"
-  - "Romains 4"
-  - "Ésaïe 35"
+  - "Hébreux 11"
+  - "Actes 2"
+  - "1 Samuel 9"
+  - "Jean 15"
 ---
 SERIE 4, N° 1
 

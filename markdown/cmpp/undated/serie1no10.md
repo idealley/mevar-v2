@@ -41,22 +41,22 @@ themes:
 pdf_url: "http://cmpp.ch/serie1no10.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Thessaloniciens 4"
-  - "Actes 10"
-  - "Actes 19"
   - "Apocalypse 1"
+  - "Romains 8"
+  - "Marc 16"
+  - "Romains 8:11"
+  - "Luc 24"
   - "Hébreux 13"
   - "Jean 14"
-  - "Jean 5"
-  - "Luc 17"
-  - "Luc 24"
   - "Lévitique 23:9-11"
+  - "Luc 17"
   - "Malachie 4"
-  - "Marc 16"
-  - "Matthieu 27"
-  - "Romains 8"
-  - "Romains 8:11"
+  - "Jean 5"
+  - "Actes 10"
+  - "Actes 19"
   - "Ésaïe 3"
+  - "Matthieu 27"
+  - "1 Thessaloniciens 4"
 ---
 SERIE 1 N° 10
 

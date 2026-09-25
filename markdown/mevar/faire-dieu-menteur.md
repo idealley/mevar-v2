@@ -19,13 +19,13 @@ ghost_id: "6448fa86db90770001518f18"
 uuid: "f7918e2a-526c-45fe-bf3e-ee5ba7a29426"
 stream_url: "https://mevar.org/faire-dieu-menteur/"
 bible_refs:
-  - "1 Jean 5"
-  - "1 Jean 5:9-10"
-  - "Hébreux 11"
-  - "Hébreux 13"
-  - "Hébreux 13:8"
   - "Marc 11"
   - "Nombres 23:18"
+  - "1 Jean 5"
+  - "1 Jean 5:9-10"
+  - "Hébreux 13:8"
+  - "Hébreux 13"
+  - "Hébreux 11"
 ---
 Nous rendons grâce au Seigneur pour ce matin. Et je remercie aussi le Seigneur qui m’a fait la grâce d’arriver ici. Ça fait très longtemps que je ne suis pas venu ici dans cette église. Ça fait longtemps qu’on n’a pas apporté la parole ici et je remercie Dieu pour cette occasion. Ma prière c’est qu’on puisse avoir l’occasion de vous rendre visite. Vous devez savoir aussi que le diable combat l’œuvre de Dieu. Il combat les serviteurs de Dieu, il combat l’œuvre missionnaire. Il travaille pour nous empêcher d’aller là où on doit se rendre. Mais je pense qu’ici il y a des serviteurs pour vous apporter la parole et cela vous aide à aller de l’avant. Je voudrais qu’on s’entretienne sur un sujet important. Mais avant d’arriver là, je voudrais vous dire que l’année passée, j’ai prêché sur la foi pendant longtemps parce que le Seigneur est en train de nous enseigner sur la foi dans une dimension plus élevée. **Le Message qu’on a reçu à la fin des temps est un Message qui est venu pour nous donner une grande foi, une foi importante. Une foi qui nous amène à faire face aux épreuves de la fin des temps.**
 

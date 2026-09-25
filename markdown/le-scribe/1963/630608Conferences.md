@@ -34,18 +34,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630608Conferences.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Ésaïe 1:18"
+  - "Daniel 5"
+  - "Éphésiens 5:27"
+  - "Jean 1:1"
+  - "Genèse 2:17"
+  - "Ésaïe 1:11-15"
+  - "Exode 3:7"
+  - "Exode 3:5"
+  - "Luc 22:42"
   - "Actes 19"
   - "Actes 2:38"
   - "Actes 4:23-31"
-  - "Daniel 5"
-  - "Exode 3:5"
-  - "Exode 3:7"
-  - "Genèse 2:17"
-  - "Jean 1:1"
-  - "Luc 22:42"
-  - "Éphésiens 5:27"
-  - "Ésaïe 1:11-15"
-  - "Ésaïe 1:18"
 original: "branham/1963/63-0608"
 ---
 *Conférences*

@@ -8,15 +8,15 @@ location: "Carlsbad (New Mexico)"
 preacher: "William Branham"
 pdf_url: "http://le-scribe.org/pdfiles/5003xxDon&appel.pdf"
 bible_refs:
+  - "Hébreux 11:2"
+  - "Jean 14:10"
+  - "Romains 11:29"
   - "2 Corinthiens 5:19"
   - "Actes 19:12"
-  - "Exode 23:20"
-  - "Hébreux 11:2"
-  - "Jean 14:1"
-  - "Jean 14:10"
   - "Jean 14:12"
-  - "Romains 11:29"
+  - "Jean 14:1"
   - "Ésaïe 53:5"
+  - "Exode 23:20"
 ---
  _____________________________________________________
 

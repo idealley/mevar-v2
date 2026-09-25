@@ -33,14 +33,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/520224Chasser-demons.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 18:41-46"
-  - "Hébreux 13:8"
-  - "Jean 14:12"
-  - "Jean 15:7"
   - "Marc 16"
-  - "Marc 16:17"
+  - "Hébreux 13:8"
+  - "Jean 15:7"
+  - "Jean 14:12"
   - "Romains 4:18,19"
   - "Romains 4:20"
+  - "1 Rois 18:41-46"
+  - "Marc 16:17"
   - "Ésaïe 53:5"
 original: "branham/1952/52-0224"
 ---

@@ -37,9 +37,9 @@ themes:
   - "Enlèvement"
 llm_cleaned: true
 bible_refs:
+  - "Exode 32"
   - "2 Corinthiens 6"
   - "Apocalypse 22:15"
-  - "Exode 32"
 ---
 # LA GUERRE DE LIBERATION
 

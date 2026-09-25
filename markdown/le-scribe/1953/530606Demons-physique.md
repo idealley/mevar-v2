@@ -35,17 +35,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/530606Demons-physique.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 3:9"
-  - "1 Jean 5:7"
-  - "Actes 19:13-20"
-  - "Exode 15:26"
-  - "Jean 11:25,26"
-  - "Jean 5:24"
-  - "Jean 6:65"
-  - "Marc 16:17,18"
   - "Psaumes 103"
+  - "Jean 5:24"
+  - "Jean 11:25,26"
+  - "Jean 6:65"
+  - "1 Jean 3:9"
+  - "Actes 19:13-20"
+  - "1 Jean 5:7"
   - "Psaumes 103:3"
+  - "Exode 15:26"
   - "Romains 4:17"
+  - "Marc 16:17,18"
 ---
 **1.** Un jour, je campais dans le New Hampshire, et une famille d'ours a dévasté ma tente. Et l'un des oursons a fait un festin de mon pot de miel. J'ai pensé à ces anciennes réunions du Saint-Esprit, où le Pot était ouvert, il suffisait d'y plonger la main, de la lécher et de recommencer. Quand l'ourson a terminé, il était couvert de miel, et sa mère et l'autre ourson se sont mis à le lécher. J'espère que nous aussi, nous pourrons aller témoigner aux autres que la Gloire de Dieu est tombée sur nous !
 

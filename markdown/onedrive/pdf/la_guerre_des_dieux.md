@@ -42,13 +42,13 @@ themes:
   - "rétablissement de la justice"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 22"
-  - "Malachie 2"
   - "Psaumes 82"
   - "Ésaïe 21"
   - "Ésaïe 41"
   - "Ésaïe 41:21"
   - "Ésaïe 42"
+  - "Malachie 2"
+  - "Apocalypse 22"
 ---
 La guerre des dieux, prêchés à Koumassi le dimanche 25 août 2011 par le frère Kadjany André
 

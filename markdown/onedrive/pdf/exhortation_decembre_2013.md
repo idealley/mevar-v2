@@ -39,18 +39,18 @@ mevar_match:
   similarity: 0.682
 llm_cleaned: true
 bible_refs:
+  - "Jacques 5:13"
+  - "Ésaïe 53"
+  - "Ésaïe 53:3"
+  - "Ésaïe 53:10"
   - "1 Corinthiens 7:28"
-  - "1 Timothée 2:8"
-  - "2 Samuel 16:5-13"
   - "Exode 20:2-6"
   - "Jacques 4"
   - "Jacques 4:8-10"
-  - "Jacques 5:13"
   - "Job 17:9"
+  - "1 Timothée 2:8"
   - "Psaumes 75"
-  - "Ésaïe 53"
-  - "Ésaïe 53:10"
-  - "Ésaïe 53:3"
+  - "2 Samuel 16:5-13"
 ---
 ## LA SOLUTION A LA SOUFFRANCE
 

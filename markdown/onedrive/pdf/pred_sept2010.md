@@ -49,12 +49,12 @@ themes:
   - "Obéissance"
 llm_cleaned: true
 bible_refs:
-  - "Marc 16"
-  - "Matthieu 18"
+  - "Romains 13:1"
   - "Matthieu 28"
   - "Nombres 16"
+  - "Matthieu 18"
   - "Romains 13"
-  - "Romains 13:1"
+  - "Marc 16"
 ---
 L'autorité spirituelle, prêché par le frère M'BRA Parfait
 

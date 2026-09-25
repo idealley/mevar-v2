@@ -39,9 +39,9 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551111Pentecote-echec.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 4:20"
   - "Galates 4:5"
   - "Psaumes 103:3"
+  - "1 Jean 4:20"
 original: "branham/1955/55-1111"
 ---
 **Résumé de : "En quoi la Pentecôte a-t-elle échoué selon moi" (11 novembre 1955, soir)**

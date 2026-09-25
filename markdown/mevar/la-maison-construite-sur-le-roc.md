@@ -21,15 +21,15 @@ ghost_id: "6448fa86db90770001518fac"
 uuid: "992f91e8-3a5c-4437-9ae9-6caa8d04b080"
 stream_url: "https://mevar.org/la-maison-construite-sur-le-roc/"
 bible_refs:
-  - "Apocalypse 19:7-8"
-  - "Apocalypse 3:18-20"
-  - "Jacques 2:14-26"
-  - "Luc 6:46-49"
-  - "Matthieu 23:25-28"
-  - "Matthieu 5:45"
-  - "Matthieu 7:21-23"
   - "Matthieu 7:24-29"
+  - "Matthieu 5:45"
+  - "Luc 6:46-49"
   - "Matthieu 9:16-17"
+  - "Matthieu 23:25-28"
+  - "Apocalypse 19:7-8"
+  - "Jacques 2:14-26"
+  - "Matthieu 7:21-23"
+  - "Apocalypse 3:18-20"
 ---
 Nous allons lire la parabole du sage qui construit sa maison sur le roc et du fou qui construit sa maison sur le sable.
 

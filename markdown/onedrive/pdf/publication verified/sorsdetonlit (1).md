@@ -37,11 +37,11 @@ mevar_match:
   similarity: 0.615
 llm_cleaned: true
 bible_refs:
-  - "Jean 5"
-  - "Jean 5:9"
-  - "Luc 5:17"
-  - "Matthieu 25"
   - "Matthieu 9:1"
+  - "Luc 5:17"
+  - "Jean 5:9"
+  - "Jean 5"
+  - "Matthieu 25"
 ---
 ## SORS DE TON LIT !
 

@@ -43,15 +43,15 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 10"
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 15"
-  - "1 Jean 3"
-  - "1 Jean 3:16"
-  - "Jean 12"
-  - "Jean 13"
   - "Jean 3"
   - "Jean 3:14-16"
+  - "1 Corinthiens 15"
+  - "Jean 13"
+  - "1 Jean 3:16"
+  - "Jean 12"
   - "Jean 3:16"
+  - "1 Jean 3"
+  - "1 Corinthiens 13"
 ---
 L'Evangile de grâce, prêché par le frère M'BRA Parfait le dimanche 16 Janvier 2011 à Koumassi
 

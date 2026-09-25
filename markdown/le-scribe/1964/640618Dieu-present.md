@@ -43,17 +43,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640618Dieu-present.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 10:1-10"
+  - "Matthieu 12:38"
   - "Amos 3:7"
   - "Deutéronome 18:15"
-  - "Jean 14:12"
-  - "Jean 19:11"
-  - "Luc 11:31"
-  - "Luc 11:52"
-  - "Luc 17:26-27"
   - "Luc 17:34"
+  - "Luc 11:52"
   - "Luc 7:36-50"
-  - "Matthieu 12:38"
+  - "Jean 19:11"
+  - "Luc 17:26-27"
+  - "Luc 11:31"
+  - "1 Rois 10:1-10"
+  - "Jean 14:12"
 original: "branham/1964/64-0618"
 ---
 *Dieu présent mais non identifié* (18 juin 1964, soir)

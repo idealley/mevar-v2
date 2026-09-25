@@ -34,10 +34,10 @@ pdf_url: "http://le-scribe.org/pdfiles/631118Funerailles.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Thessaloniciens 4:13-18"
-  - "Jean 11:25"
-  - "Jean 3:3"
   - "Job 14:1-22"
   - "Job 19:25"
+  - "Jean 3:3"
+  - "Jean 11:25"
 original: "branham/1963/63-1118"
 ---
 *Service funèbre de Garnett Peake*

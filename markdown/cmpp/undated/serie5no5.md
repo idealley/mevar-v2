@@ -42,17 +42,17 @@ themes:
 pdf_url: "http://cmpp.ch/serie5no5.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Marc 7:7"
   - "1 Chroniques 13"
+  - "Marc 7"
   - "1 Chroniques 15"
   - "Amos 3"
+  - "Matthieu 15"
+  - "Malachie 4"
   - "Apocalypse 10"
-  - "Deutéronome 4"
   - "Joël 2"
   - "Luc 17"
-  - "Malachie 4"
-  - "Marc 7"
-  - "Marc 7:7"
-  - "Matthieu 15"
+  - "Deutéronome 4"
 ---
 SERIE 5, N° 5
 

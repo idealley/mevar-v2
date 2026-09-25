@@ -38,18 +38,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/520713Dieu-temoigne.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:17"
-  - "Actes 2:41"
   - "Esther 10"
-  - "Exode 34:7"
+  - "Actes 2:41"
   - "Hébreux 11:4"
-  - "Jean 14:10"
-  - "Jean 14:12"
-  - "Jean 5:19-20"
-  - "Joël 2:28"
-  - "Matthieu 8:31"
-  - "Matthieu 9:25"
+  - "Exode 34:7"
   - "Nombres 14:18"
+  - "Matthieu 9:25"
+  - "Joël 2:28"
+  - "Actes 2:17"
+  - "Jean 14:10"
+  - "Jean 5:19-20"
+  - "Matthieu 8:31"
+  - "Jean 14:12"
 original: "branham/1952/52-0713E"
 ---
 **1.** Le frère Baxter m’a fait part de votre offrande. Merci du fond du cœur. Je suis resté 7 mois sans réunion. La situation a été difficile pour la famille, et j’ai des frais très importants. J’emploierai chaque centime à la gloire de Dieu, et je lui demande qu’il vous le rende au centuple.

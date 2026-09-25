@@ -51,19 +51,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560401Puissant-vainqueur.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Luc 24:25-31"
+  - "Jean 10:18"
   - "1 Corinthiens 2:4"
+  - "Jean 5:24"
+  - "Matthieu 27:42"
+  - "Hébreux 13:8"
+  - "Jean 3:13"
+  - "Ésaïe 9:6"
   - "Actes 7:56"
   - "Actes 9:5"
   - "Apocalypse 1:9,14"
-  - "Hébreux 13:8"
-  - "Jean 10:18"
-  - "Jean 14:10"
   - "Jean 14:12"
-  - "Jean 3:13"
-  - "Jean 5:24"
-  - "Luc 24:25-31"
-  - "Matthieu 27:42"
-  - "Ésaïe 9:6"
+  - "Jean 14:10"
 original: "branham/1956/56-0401M"
 ---
 Résumé de : “Le puissant vainqueur” (1er avril 1956)

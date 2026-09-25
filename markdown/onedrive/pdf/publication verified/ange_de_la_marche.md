@@ -48,14 +48,14 @@ mevar_match:
   similarity: 0.61
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 10"
+  - "Exode 17"
   - "2 Corinthiens 11:1-2"
   - "Apocalypse 14"
   - "Apocalypse 18"
-  - "Exode 17"
+  - "Ésaïe 21"
   - "Exode 23"
   - "Josué 5:13"
-  - "Ésaïe 21"
+  - "1 Corinthiens 10"
 ---
 ## L'Ange de la marche
 

@@ -17,8 +17,8 @@ ghost_id: "6448fa86db90770001518fd4"
 uuid: "e5399745-cfb3-417b-8d2a-7733214235d4"
 stream_url: "https://mevar.org/lesprit-babylonien-exhortation/"
 bible_refs:
-  - "Daniel 3"
   - "Jérémie 51:6"
+  - "Daniel 3"
 ---
 ## Exhortation du mois de novembre 2006
 

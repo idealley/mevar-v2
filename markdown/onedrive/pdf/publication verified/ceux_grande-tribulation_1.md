@@ -42,21 +42,21 @@ mevar_match:
   similarity: 0.505
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 24"
+  - "Ésaïe 27:12-13"
+  - "Colossiens 2:9"
+  - "Apocalypse 7"
+  - "Apocalypse 12"
+  - "Jean 3:16"
+  - "Apocalypse 4"
   - "Apocalypse 11"
   - "Apocalypse 11:3"
-  - "Apocalypse 12"
-  - "Apocalypse 13"
-  - "Apocalypse 20"
-  - "Apocalypse 4"
-  - "Apocalypse 7"
-  - "Colossiens 2:9"
-  - "Genèse 11"
-  - "Jean 3:16"
-  - "Matthieu 24"
   - "Zacharie 12"
   - "Zacharie 12:10-14"
   - "Zacharie 13:1"
-  - "Ésaïe 27:12-13"
+  - "Apocalypse 13"
+  - "Genèse 11"
+  - "Apocalypse 20"
 ---
 *Ceux de la grande tribulation 1, prêché le dimanche 23 Août 2015 à Koumassi par le frère M'BRA Parfait*
 

@@ -50,9 +50,9 @@ mevar_match:
   similarity: 0.62
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 12"
-  - "Apocalypse 12:1"
   - "Matthieu 24"
+  - "Apocalypse 12:1"
+  - "Apocalypse 12"
 ---
 ## La guerre du Dragon contre le Fils de l'Eglise
 

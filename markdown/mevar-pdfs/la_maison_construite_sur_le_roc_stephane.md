@@ -32,15 +32,15 @@ pdf_url: "https://mevar.org/content/files/2022/12/la_maison_construite_sur_le_ro
 local_pdf: "/files/mevar/la_maison_construite_sur_le_roc_stephane.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 19:7-8"
-  - "Apocalypse 3:18-20"
-  - "Jacques 2:14-26"
-  - "Luc 6:46-49"
-  - "Matthieu 23:25-28"
-  - "Matthieu 5:45"
-  - "Matthieu 7:21-23"
   - "Matthieu 7:24-29"
+  - "Matthieu 5:45"
+  - "Luc 6:46-49"
   - "Matthieu 9:16-17"
+  - "Matthieu 23:25-28"
+  - "Apocalypse 19:7-8"
+  - "Jacques 2:14-26"
+  - "Matthieu 7:21-23"
+  - "Apocalypse 3:18-20"
 ---
 LA MAISON CONSTRUITE SUR LE ROC
 

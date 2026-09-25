@@ -19,12 +19,12 @@ ghost_id: "6448fa86db90770001518f20"
 uuid: "b762f61b-8458-4511-aff4-0a44c36b8810"
 stream_url: "https://mevar.org/la-mission-du-saint-esprit-dans-l-eglise/"
 bible_refs:
-  - "1 Corinthiens 12"
-  - "Actes 19"
   - "Jean 14:15"
   - "Jean 15"
   - "Jean 16"
+  - "1 Corinthiens 12"
   - "Marc 16"
+  - "Actes 19"
 ---
 ## Première partie
 

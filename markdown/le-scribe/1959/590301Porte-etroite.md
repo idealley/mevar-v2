@@ -35,19 +35,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590301Porte-etroite.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3:1-5"
-  - "Deutéronome 23:2"
+  - "Luc 10:19"
+  - "Matthieu 7:13-14"
+  - "Jean 8:56"
   - "Genèse 18"
   - "Genèse 18:17"
-  - "Hébreux 13:8"
   - "Jean 8:44"
-  - "Jean 8:56"
-  - "Luc 10:19"
-  - "Matthieu 11:25"
   - "Matthieu 15:14"
-  - "Matthieu 7:13-14"
-  - "Philippiens 2:12"
+  - "Matthieu 11:25"
+  - "Hébreux 13:8"
+  - "Deutéronome 23:2"
+  - "2 Timothée 3:1-5"
   - "Ézéchiel 9:4"
+  - "Philippiens 2:12"
 original: "branham/1959/59-0301M"
 ---
 **ETROITE EST LA PORTE**

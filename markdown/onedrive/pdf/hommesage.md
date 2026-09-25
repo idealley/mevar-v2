@@ -30,20 +30,20 @@ themes:
   - "Gloire de Dieu"
 llm_cleaned: true
 bible_refs:
+  - "Romains 13:9-10"
   - "1 Corinthiens 13:13"
+  - "Romains 13:11-12"
+  - "Ésaïe 21:11-12"
+  - "Matthieu 24:12"
   - "Apocalypse 3:16"
-  - "Luc 3:5"
-  - "Marc 11:23"
+  - "Ésaïe 40:3-5"
   - "Matthieu 17:20"
   - "Matthieu 21:21"
-  - "Matthieu 24:12"
-  - "Romains 13:11-12"
-  - "Romains 13:9-10"
-  - "Zacharie 4:6"
+  - "Marc 11:23"
   - "Zacharie 4:7"
-  - "Ésaïe 21:11-12"
+  - "Zacharie 4:6"
   - "Ésaïe 40"
-  - "Ésaïe 40:3-5"
+  - "Luc 3:5"
 ---
 ## L’HOMME SAGE SE PREPARE
 

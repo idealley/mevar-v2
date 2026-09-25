@@ -47,10 +47,10 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Deutéronome 32:35"
-  - "Deutéronome 7"
-  - "Proverbes 11"
-  - "Proverbes 11:28"
   - "Ésaïe 35"
+  - "Deutéronome 7"
+  - "Proverbes 11:28"
+  - "Proverbes 11"
 ---
 # A Moi la rétribution - à moi la vengeance
 

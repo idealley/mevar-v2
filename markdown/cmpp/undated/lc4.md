@@ -48,20 +48,20 @@ themes:
 pdf_url: "http://cmpp.ch/lc4.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 10"
-  - "2 Corinthiens 6"
-  - "Apocalypse 3"
-  - "Exode 33"
   - "Hébreux 13"
-  - "Jean 1"
   - "Jean 12"
-  - "Jean 17"
-  - "Jean 20"
-  - "Matthieu 25"
-  - "Romains 13"
-  - "Zacharie 14"
   - "Éphésiens 5"
+  - "Zacharie 14"
+  - "2 Corinthiens 6"
+  - "Exode 33"
   - "Ésaïe 60"
+  - "Romains 13"
+  - "Matthieu 25"
+  - "Jean 20"
+  - "Jean 17"
+  - "Apocalypse 3"
+  - "Jean 1"
+  - "2 Corinthiens 10"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

@@ -48,13 +48,13 @@ mevar_match:
   similarity: 0.52
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 17"
   - "2 Corinthiens 11:2"
-  - "Apocalypse 3:14"
-  - "Hébreux 10:10"
   - "Jean 5:35"
-  - "Lévitique 10:1-3"
+  - "Apocalypse 3:14"
+  - "1 Rois 17"
   - "Zacharie 10:1"
+  - "Hébreux 10:10"
+  - "Lévitique 10:1-3"
 ---
 ## La toilette du chrétien
 

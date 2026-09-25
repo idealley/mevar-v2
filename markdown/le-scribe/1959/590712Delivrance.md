@@ -38,16 +38,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590712Delivrance.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 5:7"
-  - "1 Jean 2:15"
-  - "Exode 10:26"
-  - "Exode 23:20-23"
-  - "Exode 33:22-23"
-  - "Genèse 15:13-14"
-  - "Jean 13:35"
-  - "Luc 12:32"
   - "Nombres 13"
+  - "Luc 12:32"
+  - "Exode 23:20-23"
+  - "Genèse 15:13-14"
+  - "1 Corinthiens 5:7"
+  - "Exode 33:22-23"
+  - "Exode 10:26"
   - "Ésaïe 53:5"
+  - "1 Jean 2:15"
+  - "Jean 13:35"
 original: "branham/1959/59-0712"
 ---
 *Résumé de!: “Une délivrance totale” (12 juillet 1959, matin)*

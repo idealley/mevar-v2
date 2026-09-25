@@ -35,10 +35,10 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600401Pourquoi.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:38-39"
   - "Jérémie 8:22"
   - "Matthieu 15:9"
   - "Psaumes 16:10"
+  - "Actes 2:38-39"
 original: "branham/1960/60-0401M"
 ---
 “Pourquoi ?” (le 1er avril 1960)

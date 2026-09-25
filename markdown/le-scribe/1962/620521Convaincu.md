@@ -38,18 +38,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620521Convaincu.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Genèse 22:17"
-  - "Genèse 32:26"
-  - "Jean 14:12"
   - "Jean 1:35-42"
-  - "Jean 9:30,24-25"
-  - "Joël 2:28-32"
-  - "Juges 3:31"
   - "Luc 17:28"
-  - "Marc 16"
   - "Romains 4:20"
-  - "Zacharie 14:7"
+  - "Marc 16"
+  - "Genèse 32:26"
+  - "Juges 3:31"
+  - "Genèse 22:17"
   - "Ésaïe 28:10-11"
+  - "Joël 2:28-32"
+  - "Jean 14:12"
+  - "Zacharie 14:7"
+  - "Jean 9:30,24-25"
 original: "branham/1962/62-0521"
 ---
 **Résumé de!: “Convaincu, puis impliqué” (21 mai 1962, soir)**

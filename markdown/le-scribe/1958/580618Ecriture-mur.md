@@ -44,8 +44,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580618Ecriture-mur.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 3:22"
   - "Daniel 5:25"
+  - "Apocalypse 3:22"
   - "Luc 17:26-30"
 original: "branham/1958/58-0618"
 ---

@@ -51,17 +51,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/591126Jehova_miracles.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Luc 1:36"
+  - "Ésaïe 9:6"
+  - "Jacques 4:8"
+  - "Proverbes 23:7"
+  - "Luc 1:34"
+  - "Marc 11:23"
+  - "Luc 9:26"
   - "1 Chroniques 17:2"
   - "1 Chroniques 17:7-8"
-  - "Jacques 4:8"
-  - "Jean 1:51"
   - "Jean 5:19"
-  - "Luc 1:34"
-  - "Luc 1:36"
-  - "Luc 9:26"
-  - "Marc 11:23"
-  - "Proverbes 23:7"
-  - "Ésaïe 9:6"
+  - "Jean 1:51"
 original: "branham/1959/59-1126"
 ---
 **1.** J’ai apprécié cette chorale. J’ai toujours voulu chanter. Mais, dès que j’essaie, ma femme, ici présente, se sauve ! Mais un jour au Ciel vous entendrez quelqu’un chanter : “Grâce étonnante” et vous saurez que j’ai enfin réussi ! Vous avez profité de la prédication dans vos églises ce matin : priez pour vos pasteurs, et Dieu vous communiquera des messages.

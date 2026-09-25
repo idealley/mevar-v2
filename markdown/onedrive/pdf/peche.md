@@ -52,16 +52,16 @@ themes:
   - "Laodicée"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:38"
   - "Amos 4:12"
   - "Apocalypse 17"
-  - "Apocalypse 3:14"
-  - "Daniel 4:10"
   - "Genèse 11"
-  - "Jacques 3"
-  - "Jérémie 1"
-  - "Jérémie 27:5"
   - "Matthieu 25"
+  - "Jacques 3"
+  - "Daniel 4:10"
+  - "Jérémie 27:5"
+  - "Apocalypse 3:14"
+  - "Jérémie 1"
+  - "Actes 2:38"
 ---
 ## Exhortation du Mois de Décembre 2006
 

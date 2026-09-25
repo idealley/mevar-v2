@@ -49,9 +49,9 @@ mevar_match:
   similarity: 0.685
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 6"
   - "Joël 1:1-15"
   - "Joël 2:25-27"
+  - "Apocalypse 6"
 ---
 La restitution, prêchée le dimanche 31 Mai 2015 à Koumassi par le frère M'BRA Parfait
 

@@ -39,15 +39,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550223Jesus-glorifie.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Samuel 28:7"
-  - "Jean 6:44"
-  - "Job 19:25-26"
-  - "Luc 9:20"
-  - "Luc 9:27-36"
   - "Matthieu 16:15-18"
+  - "Luc 9:27-36"
   - "Matthieu 16:16"
-  - "Psaumes 24"
+  - "Luc 9:20"
+  - "Jean 6:44"
   - "Romains 8:39,17"
+  - "Job 19:25-26"
+  - "1 Samuel 28:7"
+  - "Psaumes 24"
 ---
 **JESUS GLORIFIE**
 *GLORIFIED JESUS*

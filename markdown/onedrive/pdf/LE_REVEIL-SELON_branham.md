@@ -41,8 +41,8 @@ mevar_match:
   similarity: 0.575
 llm_cleaned: true
 bible_refs:
-  - "2 Chroniques 7:14"
   - "2 Rois 2"
+  - "2 Chroniques 7:14"
 ---
 ## Le réveil de la Fin des Temps selon William BRANHAM
 

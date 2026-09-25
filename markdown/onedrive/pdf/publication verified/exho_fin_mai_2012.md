@@ -45,25 +45,25 @@ mevar_match:
   similarity: 0.697
 llm_cleaned: true
 bible_refs:
-  - "1 Timothée 3:14-15"
-  - "2 Thessaloniciens 2"
-  - "Apocalypse 17:1"
-  - "Apocalypse 17:15"
-  - "Apocalypse 1:20"
-  - "Apocalypse 2"
-  - "Apocalypse 3:12"
   - "Ecclésiaste 11:1-6"
-  - "Galates 2:9"
-  - "Hébreux 3:6"
-  - "Jean 12:24"
-  - "Jean 6:31-35"
   - "Jean 6:48"
   - "Jean 6:50-51"
-  - "Matthieu 25"
+  - "Jean 6:31-35"
+  - "Apocalypse 17:1"
+  - "Apocalypse 17:15"
+  - "Jean 12:24"
+  - "Proverbes 9:1-4"
+  - "Hébreux 3:6"
+  - "1 Timothée 3:14-15"
+  - "Apocalypse 3:12"
+  - "Galates 2:9"
   - "Michée 3"
+  - "Apocalypse 2"
+  - "Apocalypse 1:20"
   - "Michée 5"
   - "Michée 5:1-5"
-  - "Proverbes 9:1-4"
+  - "Matthieu 25"
+  - "2 Thessaloniciens 2"
 ---
 ## LA PARABOLE DU PAIN
 

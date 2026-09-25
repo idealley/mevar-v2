@@ -52,15 +52,15 @@ themes:
   - "Réveil du temps de la fin"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3:10"
-  - "Apocalypse 22"
-  - "Apocalypse 3"
-  - "Luc 17"
-  - "Luc 2"
   - "Malachie 4"
-  - "Marc 13"
-  - "Matthieu 24:14"
+  - "Luc 2"
   - "Matthieu 25"
+  - "Marc 13"
+  - "Apocalypse 3"
+  - "Apocalypse 22"
+  - "2 Timothée 3:10"
+  - "Matthieu 24:14"
+  - "Luc 17"
 ---
 *L'onction fait la différence, prêché le Dimanche 1ᵉʳ Septembre 2013 à Ouagadougou*
 

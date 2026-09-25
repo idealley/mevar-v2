@@ -41,11 +41,11 @@ mevar_match:
   similarity: 0.743
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 4"
   - "2 Rois 4:38"
+  - "Ésaïe 6:1"
+  - "2 Rois 4"
   - "2 Samuel 15"
   - "Exode 20:7"
-  - "Ésaïe 6:1"
 ---
 QUI ENVERRAI-JE ?
 

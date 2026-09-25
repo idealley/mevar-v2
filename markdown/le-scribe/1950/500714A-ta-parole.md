@@ -46,12 +46,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500714A-ta-parole.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 4:2-3"
-  - "Actes 14:9"
   - "Galates 6:2"
-  - "Luc 5:1"
   - "Luc 8:51,53"
   - "Marc 7:33"
+  - "Actes 14:9"
+  - "1 Jean 4:2-3"
+  - "Luc 5:1"
 original: "branham/1950/50-0714"
 ---
 **SUR TA PAROLE SEIGNEUR**

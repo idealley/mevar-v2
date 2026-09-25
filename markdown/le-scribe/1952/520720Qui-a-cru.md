@@ -48,13 +48,13 @@ pdf_url: "http://le-scribe.org/pdfiles/520720Qui-a-cru.pdf"
 llm_cleaned: true
 bible_refs:
   - "Actes 19:12"
-  - "Actes 3:6"
   - "Actes 5:15"
-  - "Jean 1:49"
-  - "Jean 5:19"
+  - "Ésaïe 53:1"
   - "Matthieu 8:17"
   - "Ésaïe 53"
-  - "Ésaïe 53:1"
+  - "Actes 3:6"
+  - "Jean 5:19"
+  - "Jean 1:49"
 original: "branham/1952/52-0720E"
 ---
 **“Qui a cru notre à ce qui nous était annoncé ?” (20.07.1952)**

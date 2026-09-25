@@ -18,14 +18,14 @@ ghost_id: "6448fa86db90770001518ef5"
 uuid: "cd659127-57ad-41fc-8eb5-3ad9d1bd1148"
 stream_url: "https://mevar.org/tu-demandes-une-chose-difficile/"
 bible_refs:
-  - "2 Rois 2:1-14"
-  - "Apocalypse 12"
-  - "Apocalypse 17"
-  - "Genèse 1"
   - "Jean 15:16"
-  - "Jean 5"
-  - "Luc 9:54-56"
+  - "Apocalypse 12"
+  - "Genèse 1"
   - "Ésaïe 9"
+  - "Jean 5"
+  - "Apocalypse 17"
+  - "2 Rois 2:1-14"
+  - "Luc 9:54-56"
 ---
 ## Exhortations de février 2014
 

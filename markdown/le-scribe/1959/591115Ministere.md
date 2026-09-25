@@ -51,18 +51,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/591115Ministere.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2:28"
-  - "Jean 14:19,17,12"
   - "Marc 11:10-24"
-  - "Marc 16"
   - "Matthieu 11:11"
-  - "Matthieu 11:28"
-  - "Matthieu 16:18"
-  - "Matthieu 17:4"
-  - "Matthieu 9:37-38"
   - "Psaumes 22"
-  - "Psaumes 22:1"
+  - "Jean 14:19,17,12"
   - "Ésaïe 53:5"
+  - "Psaumes 22:1"
+  - "Matthieu 16:18"
+  - "Marc 16"
+  - "Matthieu 17:4"
+  - "Matthieu 11:28"
+  - "Actes 2:28"
+  - "Matthieu 9:37-38"
 original: "branham/1959/59-1115"
 ---
 **1.** … Nous partons après la réunion pour San Jose, en Californie, puis à une réunion de deux jours des Hommes d’Affaires. Je suis dans une grande attente ce matin car je crois que nous sommes à la veille de quelque chose que Dieu va faire pour aider ses enfants à aller plus loin. La Bible dit que lorsque l’ennemi vient comme un torrent, l’Esprit de Dieu dresse une bannière contre lui. Quand Dieu bénit son Eglise mais qu’elle laisse le monde entrer, alors elle commence à s’écrouler. C’est alors que l’Esprit de Dieu intervient et brandit la bannière et un réveil éclate. Notre espérance est que l’Esprit de Dieu ramène Jésus sur la terre. Ce sera alors la perfection.

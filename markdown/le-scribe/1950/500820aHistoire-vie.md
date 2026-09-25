@@ -44,9 +44,9 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500820aHistoire-vie.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 11:10"
-  - "Hébreux 11:13"
   - "Hébreux 13:10-14"
+  - "Hébreux 11:13"
+  - "Hébreux 11:10"
   - "Job 38:4,7"
 original: "branham/1950/50-0820A"
 ---

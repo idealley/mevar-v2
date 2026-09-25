@@ -23,8 +23,8 @@ ghost_id: "64779cd1c6dd100001090175"
 uuid: "46942f6a-3a2d-4318-8662-39ad0ba8f1b9"
 stream_url: "https://mevar.org/la-foi-la-mer-et-les-tempetes/"
 bible_refs:
-  - "Marc 16:15-20"
   - "Marc 4:35-41"
+  - "Marc 16:15-20"
 ---
 Que la grâce et la paix du Seigneur soient sur nous. Nous allons lire dans Marc :
 

@@ -58,19 +58,19 @@ themes:
   - "Unité de l'Église"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 18:1-2"
-  - "Actes 22:28"
   - "Actes 23:11"
   - "Actes 23:12-15"
+  - "Actes 22:28"
   - "Actes 25:10-11"
+  - "Matthieu 24:14"
   - "Hébreux 11:5"
   - "Jude 1:14"
+  - "1 Rois 18:1-2"
   - "Luc 8:18"
-  - "Matthieu 24:14"
-  - "Matthieu 24:45"
-  - "Matthieu 25"
-  - "Philémon 1:8-12"
   - "Romains 14:1-3"
+  - "Matthieu 25"
+  - "Matthieu 24:45"
+  - "Philémon 1:8-12"
 ---
 ## IL FAUT QUE TU RENDES TEMOIGNAGE DANS ROME
 

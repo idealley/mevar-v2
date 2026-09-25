@@ -47,10 +47,10 @@ pdf_url: "http://le-scribe.org/pdfiles/561209Promesse.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 15:35"
-  - "Esther 5"
   - "Jean 1:29-32"
   - "Jean 5:24"
   - "Luc 12:8"
+  - "Esther 5"
 original: "branham/1956/56-1209A"
 ---
 *Résumé de : “La promesse faite par Dieu” ( 9 décembre 1956)*

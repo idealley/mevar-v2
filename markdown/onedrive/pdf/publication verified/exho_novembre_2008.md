@@ -41,22 +41,22 @@ mevar_match:
   similarity: 0.555
 llm_cleaned: true
 bible_refs:
+  - "Marc 4:24-25"
+  - "Jean 1:1-4"
+  - "Romains 10:13-17"
+  - "2 Timothée 3:8"
+  - "Apocalypse 2:7"
+  - "Apocalypse 2:11"
+  - "Apocalypse 2:17"
+  - "Apocalypse 2:29"
+  - "Apocalypse 3:6"
+  - "Apocalypse 3:13"
+  - "Apocalypse 3:22"
+  - "Luc 5:37-38"
   - "1 Samuel 14"
   - "1 Samuel 18"
   - "1 Samuel 18:1-4"
   - "2 Samuel 1:17-27"
-  - "2 Timothée 3:8"
-  - "Apocalypse 2:11"
-  - "Apocalypse 2:17"
-  - "Apocalypse 2:29"
-  - "Apocalypse 2:7"
-  - "Apocalypse 3:13"
-  - "Apocalypse 3:22"
-  - "Apocalypse 3:6"
-  - "Jean 1:1-4"
-  - "Luc 5:37-38"
-  - "Marc 4:24-25"
-  - "Romains 10:13-17"
 ---
 ## Exhortation du Mois de Novembre 2008
 

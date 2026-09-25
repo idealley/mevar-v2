@@ -53,13 +53,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550603Jesus-le-meme.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 18:36"
-  - "Hébreux 13:8"
-  - "Jean 14:19"
-  - "Jean 5:19"
-  - "Jude 1:3"
-  - "Marc 11:24"
   - "Ésaïe 53:5"
+  - "Marc 11:24"
+  - "Jude 1:3"
+  - "Hébreux 13:8"
+  - "Jean 5:19"
+  - "1 Rois 18:36"
+  - "Jean 14:19"
 original: "branham/1955/55-0603"
 ---
 Résumé de : "Jésus-Christ est le même hier, aujourd'hui, et éternellement" (3 juin 1955, soir)

@@ -33,18 +33,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570421Conquerant.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15:55"
-  - "Apocalypse 1:17"
-  - "Apocalypse 1:18"
-  - "Jean 11:25,40"
-  - "Jean 1:19"
-  - "Jean 3:16"
   - "Matthieu 28:7"
-  - "Psaumes 51:7"
-  - "Romains 1:16"
-  - "Romains 3:12"
-  - "Romains 8:37"
   - "Ésaïe 35:8"
+  - "Psaumes 51:7"
+  - "Romains 3:12"
+  - "Jean 3:16"
+  - "Jean 11:25,40"
+  - "Apocalypse 1:18"
+  - "Jean 1:19"
+  - "Apocalypse 1:17"
+  - "Romains 1:16"
+  - "1 Corinthiens 15:55"
+  - "Romains 8:37"
 original: "branham/1957/57-0421S"
 ---
 *Résumé de!: “Le grand et puissant Conquérant” (21 avril 1957, matin)*

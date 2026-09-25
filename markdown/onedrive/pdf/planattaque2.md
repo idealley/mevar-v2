@@ -47,12 +47,12 @@ themes:
   - "Œcuménisme"
 llm_cleaned: true
 bible_refs:
+  - "Jérémie 50:2"
+  - "Ésaïe 48"
+  - "Apocalypse 17"
   - "Apocalypse 13"
   - "Apocalypse 13:12-14"
-  - "Apocalypse 17"
-  - "Jérémie 50:2"
   - "Ésaïe 40"
-  - "Ésaïe 48"
 ---
 Mes chers amis,
 

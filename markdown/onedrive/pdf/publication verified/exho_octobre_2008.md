@@ -44,16 +44,16 @@ mevar_match:
   similarity: 0.65
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 10:13"
-  - "Actes 2"
-  - "Actes 2:1-6"
-  - "Colossiens 1:24-25"
   - "Jacques 1:12"
   - "Jean 3:16-17"
-  - "Matthieu 27:38-44"
   - "Matthieu 27:50-54"
+  - "Matthieu 27:38-44"
+  - "Actes 2"
+  - "Actes 2:1-6"
   - "Matthieu 4:1-11"
+  - "Colossiens 1:24-25"
   - "Romains 8:17-18"
+  - "1 Corinthiens 10:13"
 ---
 ## La grande tentation et le chemin de la gloire
 

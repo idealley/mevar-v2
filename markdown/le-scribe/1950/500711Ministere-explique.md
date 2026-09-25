@@ -38,17 +38,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500711Ministere-explique.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 5:19"
   - "2 Timothée 3:12"
-  - "Actes 19:10"
-  - "Hébreux 3:1"
-  - "Jean 14:10"
   - "Jean 14:18,17"
-  - "Jean 3:18"
-  - "Jean 5:14"
+  - "Jean 14:10"
+  - "Romains 10:17"
+  - "2 Corinthiens 5:19"
   - "Marc 11:24"
   - "Marc 16:18"
-  - "Romains 10:17"
+  - "Actes 19:10"
+  - "Jean 5:14"
+  - "Jean 3:18"
+  - "Hébreux 3:1"
 original: "branham/1950/50-0711"
 ---
 **SIGNIFICATION DE CE MINISTERE**

@@ -20,11 +20,11 @@ ghost_id: "6448fa86db90770001518f3a"
 uuid: "5214e5a3-f8b2-4bfb-b722-db7bbefae327"
 stream_url: "https://mevar.org/l-epreuve-de-moise-deuxieme-partie/"
 bible_refs:
+  - "Jacques 1:19"
+  - "Proverbes 19:11"
+  - "Proverbes 14:29"
   - "1 Corinthiens 10"
   - "Ecclésiaste 9"
-  - "Jacques 1:19"
-  - "Proverbes 14:29"
-  - "Proverbes 19:11"
 ---
 ## Deuxième partie
 

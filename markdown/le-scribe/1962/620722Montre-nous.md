@@ -48,11 +48,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620722Montre-nous.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Timothée 3:16"
-  - "2 Corinthiens 5:19"
   - "Jean 14:8-9"
-  - "Jean 16:16"
   - "Jean 5:39,10"
+  - "2 Corinthiens 5:19"
+  - "1 Timothée 3:16"
+  - "Jean 16:16"
 original: "branham/1962/62-0722"
 ---
 *Montre-nous le Père, et cela nous suffira* (22 juillet 1962, après-midi)

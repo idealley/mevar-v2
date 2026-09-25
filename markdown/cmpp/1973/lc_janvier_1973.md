@@ -43,21 +43,21 @@ themes:
 pdf_url: "http://cmpp.ch/lc_janvier_1973.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 2"
-  - "1 Samuel 30"
-  - "Apocalypse 17"
-  - "Apocalypse 18"
-  - "Apocalypse 3"
-  - "Colossiens 1"
-  - "Galates 1"
-  - "Galates 2"
-  - "Hébreux 12"
   - "Hébreux 13"
-  - "Hébreux 9"
-  - "Jean 7"
-  - "Marc 12"
+  - "Apocalypse 3"
+  - "Apocalypse 18"
+  - "Hébreux 12"
+  - "Apocalypse 17"
   - "Marc 14"
+  - "Hébreux 9"
   - "Ésaïe 2"
+  - "Galates 2"
+  - "Galates 1"
+  - "Jean 7"
+  - "1 Pierre 2"
+  - "Colossiens 1"
+  - "Marc 12"
+  - "1 Samuel 30"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

@@ -45,12 +45,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/561208Abraham.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 19"
-  - "Genèse 12"
-  - "Hébreux 12:1-2"
-  - "Jean 5:24"
-  - "Psaumes 103:3"
   - "Romains 4:17"
+  - "Genèse 12"
+  - "Actes 19"
+  - "Hébreux 12:1-2"
+  - "Psaumes 103:3"
+  - "Jean 5:24"
 original: "branham/1956/56-1208"
 ---
 Résumé de : “Abraham” (8 décembre 1956)

@@ -32,9 +32,9 @@ themes:
   - "Parole promise pour l'âge"
 llm_cleaned: true
 bible_refs:
+  - "Jean 14:25-26"
   - "2 Thessaloniciens 2"
   - "2 Thessaloniciens 2:1-12"
-  - "Jean 14:25-26"
   - "Ésaïe 14"
 ---
 ## RELISEZ « l’EDEN DE SATAN »

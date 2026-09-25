@@ -54,11 +54,11 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no1.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 4"
-  - "Apocalypse 22"
-  - "Genèse 1"
-  - "Nombres 16"
   - "Romains 8"
+  - "Apocalypse 22"
+  - "Nombres 16"
+  - "Genèse 1"
+  - "2 Timothée 4"
 ---
 SERIE 3 N° 1
 

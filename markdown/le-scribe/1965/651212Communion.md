@@ -36,12 +36,12 @@ pdf_url: "http://le-scribe.org/pdfiles/651212Communion.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 11:23-26"
+  - "Actes 2:38"
+  - "Ésaïe 28:8,13"
+  - "Jean 6:53"
+  - "Actes 5:1-11"
   - "1 Corinthiens 11:27-29"
   - "1 Corinthiens 11:30-34"
-  - "Actes 2:38"
-  - "Actes 5:1-11"
-  - "Jean 6:53"
-  - "Ésaïe 28:8,13"
 original: "branham/1965/65-1212"
 ---
 **1.** Nous en avons vu assez pour savoir que nous devons nous abandonner à Dieu et le servir. Nous voyons aussi que le monde devient fou. C'est le temps de la fin, et notre vie est si courte, alors que Dieu est infini, et qu’il n'a ni commencement ni fin.

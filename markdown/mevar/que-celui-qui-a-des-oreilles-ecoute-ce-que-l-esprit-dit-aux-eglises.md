@@ -18,9 +18,9 @@ ghost_id: "6448fa86db90770001518edd"
 uuid: "b1f754dc-e9e4-45b0-8535-a4c7856db438"
 stream_url: "https://mevar.org/que-celui-qui-a-des-oreilles-ecoute-ce-que-l-esprit-dit-aux-eglises/"
 bible_refs:
-  - "1 Jean 1"
   - "Apocalypse 2"
   - "Apocalypse 3"
+  - "1 Jean 1"
   - "Psaumes 115"
 ---
 Gloire à Jésus ! Nous sommes plus que vainqueurs au nom de Jésus. Frères et sœurs que Dieu vous bénisse ! Je suis heureux d’être avec vous comme le frère Abiyahou l’a dit ; nous sommes des frères et cela fait un moment que nous sommes en communion. Je suis arrivé au Congo pour la première fois l’année passée ; je pense bien que c’était en avril, mais je n’ai pas pu vous visiter et le frère a dit que si prochainement je venais, nous viendrons ici. Et je remercie le Seigneur qui a permis qu’on puisse arriver ici chez vous. Pour ceux qui ne me connaissent pas, je suis le frère M’BRA Parfait. Je suis ivoirien et je vis en Côte d’Ivoire. Depuis l’année passée, le Seigneur m’a ouvert des portes à l’étranger pour la prédication. C’est dans ce cadre-là que je suis arrivé ici au Congo. Et je prêche le réveil ; c’est le travail que Dieu m’a confié.

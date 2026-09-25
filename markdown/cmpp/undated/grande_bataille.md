@@ -45,9 +45,9 @@ bible_refs:
   - "1 Pierre 5"
   - "Daniel 12"
   - "Genèse 3"
+  - "Matthieu 24"
   - "Hébreux 4"
   - "Jacques 4"
-  - "Matthieu 24"
 ---
 LA PAROLE PARLEE
 

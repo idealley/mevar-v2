@@ -46,12 +46,12 @@ mevar_match:
   similarity: 0.605
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 5:9"
-  - "Hébreux 11"
-  - "Hébreux 13"
-  - "Hébreux 13:8"
   - "Marc 11"
   - "Nombres 23:18"
+  - "1 Jean 5:9"
+  - "Hébreux 13:8"
+  - "Hébreux 13"
+  - "Hébreux 11"
 ---
 ## Faire Dieu menteur
 

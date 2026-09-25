@@ -33,13 +33,13 @@ themes:
 pdf_url: "http://cmpp.ch/savez-vous.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 2"
+  - "Ecclésiaste 3"
   - "2 Timothée 3"
   - "2 Timothée 4"
+  - "1 Corinthiens 2"
+  - "Malachie 4"
   - "Actes 3"
   - "Apocalypse 3"
-  - "Ecclésiaste 3"
-  - "Malachie 4"
 ---
 ## LE SAVEZ-VOUS… ?
 

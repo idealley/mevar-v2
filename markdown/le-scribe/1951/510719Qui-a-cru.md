@@ -48,9 +48,9 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510719Qui-a-cru.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 5:1"
   - "2 Corinthiens 5:19"
   - "Jean 14:10"
-  - "Jean 5:1"
   - "Ésaïe 53:1"
 original: "branham/1951/51-0719"
 ---

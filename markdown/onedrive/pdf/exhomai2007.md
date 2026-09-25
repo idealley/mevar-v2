@@ -41,16 +41,16 @@ themes:
   - "Chaîne de prière"
 llm_cleaned: true
 bible_refs:
-  - "1 Thessaloniciens 5:17"
-  - "2 Corinthiens 6"
   - "2 Corinthiens 6:14-19"
-  - "Apocalypse 22:15"
-  - "Exode 32"
   - "Genèse 13"
-  - "Luc 18"
+  - "Exode 32"
+  - "2 Corinthiens 6"
+  - "Apocalypse 22:15"
   - "Luc 18:1"
-  - "Matthieu 26:41"
+  - "Luc 18"
   - "Éphésiens 6:18"
+  - "1 Thessaloniciens 5:17"
+  - "Matthieu 26:41"
 ---
 ## LA GUERRE DE LIBERATION
 

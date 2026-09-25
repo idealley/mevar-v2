@@ -38,15 +38,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580517Peche-incredulite.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 13:8"
-  - "Jean 15:5"
-  - "Jean 15:7"
-  - "Jean 5:19"
-  - "Jean 5:39"
-  - "Jean 8:58"
-  - "Marc 3:29"
   - "Matthieu 12:42"
   - "Romains 4:21"
+  - "Marc 3:29"
+  - "Hébreux 13:8"
+  - "Jean 5:39"
+  - "Jean 5:19"
+  - "Jean 8:58"
+  - "Jean 15:5"
+  - "Jean 15:7"
   - "Ésaïe 53:5"
 original: "branham/1958/58-0517E"
 ---

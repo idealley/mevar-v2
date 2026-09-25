@@ -38,17 +38,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560805Condition-Eglise.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 11:30"
-  - "1 Corinthiens 12"
-  - "Hébreux 12:16,17"
+  - "Romains 4:17"
+  - "Romains 4:21"
   - "Jean 1:28"
   - "Jean 3:16"
   - "Jean 5:19"
-  - "Jean 6:37"
-  - "Romains 4:17"
-  - "Romains 4:21"
-  - "Romains 8:1"
   - "Ésaïe 53:7"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 11:30"
+  - "Romains 8:1"
+  - "Jean 6:37"
+  - "Hébreux 12:16,17"
 original: "branham/1956/56-0805"
 ---
 Résumé de!: “L'Eglise et sa condition” (5 août 1956)

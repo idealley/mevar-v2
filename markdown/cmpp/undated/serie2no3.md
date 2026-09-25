@@ -39,19 +39,19 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no3.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 20"
-  - "Actes 23"
-  - "Actes 25"
   - "Actes 26"
-  - "Apocalypse 22"
-  - "Hébreux 11"
+  - "Actes 25"
+  - "Actes 23"
+  - "Philippiens 1"
   - "Jean 15"
-  - "Jean 5"
-  - "Jean 8"
+  - "Hébreux 11"
+  - "Matthieu 11"
   - "Malachie 3"
   - "Malachie 4"
-  - "Matthieu 11"
-  - "Philippiens 1"
+  - "Jean 8"
+  - "Apocalypse 22"
+  - "Actes 20"
+  - "Jean 5"
 ---
 SERIE 2 N° 3
 

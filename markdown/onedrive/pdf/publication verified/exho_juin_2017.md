@@ -43,18 +43,18 @@ mevar_match:
   similarity: 0.655
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 5:19"
-  - "1 Rois 12:26-32"
-  - "1 Rois 14:1-15"
-  - "1 Rois 15:1-5"
-  - "2 Corinthiens 3:18"
-  - "Colossiens 1:9-10"
-  - "Jacques 1:22-23"
-  - "Jean 3:20"
   - "Luc 10:21-24"
-  - "Matthieu 25"
-  - "Nombres 17"
   - "Ésaïe 53"
+  - "1 Jean 5:19"
+  - "Colossiens 1:9-10"
+  - "1 Rois 14:1-15"
+  - "1 Rois 12:26-32"
+  - "1 Rois 15:1-5"
+  - "Nombres 17"
+  - "Matthieu 25"
+  - "Jean 3:20"
+  - "2 Corinthiens 3:18"
+  - "Jacques 1:22-23"
 ---
 ## LE DEGUISEMENT DE LA FEMME DE JEROBOAM
 

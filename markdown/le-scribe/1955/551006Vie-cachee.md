@@ -39,11 +39,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551006Vie-cachee.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 10:19"
   - "1 Corinthiens 2:9"
+  - "Galates 4:4"
   - "Actes 2:38-39"
   - "Apocalypse 2:17"
-  - "Galates 4:4"
-  - "Hébreux 10:19"
   - "Nombres 17:8"
 original: "branham/1955/55-1006A"
 ---

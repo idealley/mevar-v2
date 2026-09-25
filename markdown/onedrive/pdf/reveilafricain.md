@@ -37,16 +37,16 @@ themes:
   - "Ministère prophétique"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 18:41-45"
-  - "Apocalypse 13"
-  - "Galates 2:7-8"
-  - "Jacques 5:17-18"
   - "Jacques 5:7-8"
+  - "Zacharie 10:1"
+  - "Jacques 5:17-18"
+  - "1 Rois 18:41-45"
   - "Malachie 4:5-6"
   - "Psaumes 68"
-  - "Psaumes 68:31"
-  - "Zacharie 10:1"
   - "Ésaïe 18"
+  - "Apocalypse 13"
+  - "Psaumes 68:31"
+  - "Galates 2:7-8"
 ---
 ## APPEL AU REVEIL DES AFRICAINS
 

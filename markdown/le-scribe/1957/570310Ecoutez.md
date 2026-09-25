@@ -39,13 +39,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570310Ecoutez.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 14:23"
-  - "Jean 14"
-  - "Jean 5:19"
   - "Matthieu 17:1-5"
-  - "Néhémie 5"
   - "Psaumes 37:23"
+  - "Jean 14"
   - "Romains 8:19-23"
+  - "1 Corinthiens 14:23"
+  - "Néhémie 5"
+  - "Jean 5:19"
 original: "branham/1957/57-0310E"
 ---
 **Résumé de : “Ecoutez-le” (10.03.1957)**

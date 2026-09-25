@@ -21,14 +21,14 @@ ghost_id: "6448fa86db90770001518fd3"
 uuid: "f4a6cf13-246e-4635-a23c-ca46138b1ea3"
 stream_url: "https://mevar.org/babylone-la-grande-ville/"
 bible_refs:
+  - "Ésaïe 58"
+  - "Apocalypse 3:14"
   - "Apocalypse 16"
   - "Apocalypse 16:13"
   - "Apocalypse 17"
   - "Apocalypse 18"
-  - "Apocalypse 3:14"
-  - "Apocalypse 6"
   - "Matthieu 24"
-  - "Ésaïe 58"
+  - "Apocalypse 6"
 ---
 La dernière fois, on avait fait une annonce pour la fin d’année. **Les 27, 28 et 29 décembre 2006,** on a une séance de jeûne et prières. Parce qu’on a estimé qu’il faille que chacun d’entre nous se libère de ses liens. Amen ! **Un chrétien ne doit pas vivre sa foi avec des liens, des liens de péché, des liens de démons, toutes sortes de liens.** Donc les trois jours… on va jeûner et prier… chacun va se recueillir devant Dieu. Chacun devra se regarder devant Le Seigneur… Ce qui ne va pas dans sa vie, qui est un problème, un lien que Le Seigneur lui enlève cela. Là où il n’a pas de succès… il y a beaucoup de blocages… Il faut venir au Seigneur avec tout cela.
 

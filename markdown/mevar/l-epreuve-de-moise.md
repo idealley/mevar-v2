@@ -20,12 +20,12 @@ ghost_id: "6448fa86db90770001518f39"
 uuid: "227b6f92-9d6f-4f82-ad7f-c5c253c92dd1"
 stream_url: "https://mevar.org/l-epreuve-de-moise/"
 bible_refs:
-  - "1 Corinthiens 10"
   - "Exode 24:12"
-  - "Jacques 1:19-21"
-  - "Jean 3:16"
   - "Nombres 12:1-3"
   - "Nombres 20:1"
+  - "Jacques 1:19-21"
+  - "1 Corinthiens 10"
+  - "Jean 3:16"
 ---
 ## Première partie
 

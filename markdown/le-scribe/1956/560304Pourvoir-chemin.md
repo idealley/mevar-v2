@@ -45,15 +45,15 @@ pdf_url: "http://le-scribe.org/pdfiles/560304Pourvoir-chemin.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 10:12-13"
-  - "2 Samuel 5:24,1"
+  - "Matthieu 12:26"
+  - "Romains 10:17"
+  - "Matthieu 15:3"
+  - "Matthieu 13:18"
   - "2 Timothée 4:7-8"
   - "Jean 14:19"
-  - "Matthieu 12:26"
-  - "Matthieu 13:18"
-  - "Matthieu 15:3"
   - "Matthieu 28"
-  - "Romains 10:17"
   - "Zacharie 14:7"
+  - "2 Samuel 5:24,1"
 original: "branham/1956/56-0304"
 ---
 *Préparer une voie de secours* (4.3.1956)

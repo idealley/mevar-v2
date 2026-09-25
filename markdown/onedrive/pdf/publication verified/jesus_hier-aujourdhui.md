@@ -56,13 +56,13 @@ mevar_match:
   similarity: 0.71
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "Hébreux 11"
-  - "Hébreux 11:35"
-  - "Hébreux 13"
   - "Hébreux 13:7-8"
+  - "Hébreux 11:35"
   - "Hébreux 13:8"
+  - "Hébreux 11"
+  - "Hébreux 13"
   - "Éphésiens 6"
+  - "1 Corinthiens 13"
 ---
 ## Jésus-Christ est le même hier – Aujourd’hui et éternellement
 

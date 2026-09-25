@@ -37,13 +37,13 @@ pdf_url: "https://mevar.org/content/files/2022/12/Et_soudain_entrera_dans_son_te
 local_pdf: "/files/mevar/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 7"
-  - "Apocalypse 3"
-  - "Apocalypse 3:14"
-  - "Malachie 3"
   - "Malachie 3:1"
+  - "Malachie 3"
   - "Matthieu 24"
+  - "Actes 7"
+  - "Apocalypse 3:14"
   - "Matthieu 25"
+  - "Apocalypse 3"
 ---
 *Et soudain entrera dans son temple, le Seigneur que vous cherchez, prêché le 16 Décembre 2015 à Matadi par le frère M'BRA Parfait (RDC)*
 

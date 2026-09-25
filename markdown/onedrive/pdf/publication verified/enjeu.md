@@ -45,18 +45,18 @@ mevar_match:
   similarity: 0.576
 llm_cleaned: true
 bible_refs:
-  - "1 Pierre 2"
-  - "2 Chroniques 20"
-  - "Colossiens 2:12"
-  - "Exode 19"
-  - "Exode 31"
-  - "Genèse 6"
+  - "Ésaïe 14"
   - "Job 1"
   - "Job 2"
   - "Luc 14"
-  - "Romains 8"
-  - "Ésaïe 14"
+  - "Genèse 6"
+  - "Exode 19"
+  - "Exode 31"
+  - "2 Chroniques 20"
+  - "Colossiens 2:12"
   - "Ésaïe 35"
+  - "1 Pierre 2"
+  - "Romains 8"
 ---
 L’ENJEU, prêché par le frère KADJANY à Koumassi
 

@@ -67,23 +67,23 @@ mevar_match:
   similarity: 0.569
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 12"
-  - "2 Rois 17"
-  - "Actes 1"
+  - "Jérémie 51:6"
+  - "Daniel 3"
   - "Actes 16:5-7"
+  - "Galates 3:1-3"
   - "Apocalypse 17"
   - "Apocalypse 18"
-  - "Apocalypse 3:14"
-  - "Apocalypse 4"
-  - "Apocalypse 4:7"
-  - "Apocalypse 6"
-  - "Daniel 3"
-  - "Daniel 4:29-33"
-  - "Galates 3:1-3"
+  - "1 Rois 12"
   - "Genèse 11"
-  - "Jérémie 51:6"
+  - "2 Rois 17"
+  - "Actes 1"
+  - "Apocalypse 6"
+  - "Apocalypse 4:7"
+  - "Apocalypse 4"
+  - "Apocalypse 3:14"
   - "Luc 17"
   - "Matthieu 25:5"
+  - "Daniel 4:29-33"
 ---
 ## L'ESPRIT BABYLONIEN
 

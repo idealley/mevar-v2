@@ -41,8 +41,8 @@ llm_cleaned: true
 bible_refs:
   - "1 Rois 18:17"
   - "2 Timothée 3:1-5"
-  - "Hébreux 13:8"
   - "Marc 9:14-32"
+  - "Hébreux 13:8"
   - "Psaumes 121:4"
   - "Psaumes 23:4"
 original: "branham/1958/58-1001"

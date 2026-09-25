@@ -43,22 +43,22 @@ themes:
 pdf_url: "http://cmpp.ch/7sceaux4.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Thessaloniciens 2"
+  - "Nombres 3"
   - "Apocalypse 10"
+  - "Matthieu 11"
+  - "2 Thessaloniciens 2"
+  - "Joël 2"
+  - "Malachie 4"
+  - "Jean 14"
+  - "Marc 16"
+  - "Matthieu 24"
+  - "Apocalypse 2"
+  - "Matthieu 4"
   - "Apocalypse 11"
   - "Apocalypse 17"
   - "Apocalypse 19"
-  - "Apocalypse 2"
-  - "Esther 9"
   - "Hébreux 4"
-  - "Jean 14"
-  - "Joël 2"
-  - "Malachie 4"
-  - "Marc 16"
-  - "Matthieu 11"
-  - "Matthieu 24"
-  - "Matthieu 4"
-  - "Nombres 3"
+  - "Esther 9"
 ---
 BROCHURE N° 4
 

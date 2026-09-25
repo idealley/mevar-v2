@@ -34,11 +34,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/590510Qui_est-ce.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Exode 33:23"
   - "Hébreux 11:10"
-  - "Jean 16:28,20"
-  - "Luc 17:12-17"
   - "Matthieu 21:1-11"
+  - "Luc 17:12-17"
+  - "Jean 16:28,20"
+  - "Exode 33:23"
 original: "branham/1959/59-0510E"
 ---
 **1.** Quand les disciples qui accompagnaient Jésus ont vu Jérusalem, ils ont été remplis de joie : "Est-ce maintenant que le Royaume va être rétabli ?" Quelqu'un m'a dit que lors d'un voyage à Jérusalem, il s'est trouvé à l'endroit où s'étaient tenus Jésus et les disciples, et il s'est mis à pleurer. Quelque chose dans les disciples disait qu'il y aurait une Restauration, et maintenant elle est proche. Les gens le ressentent.

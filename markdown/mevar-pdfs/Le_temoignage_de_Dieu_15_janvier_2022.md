@@ -37,13 +37,13 @@ pdf_url: "https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvi
 local_pdf: "/files/mevar/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 2"
-  - "Apocalypse 6"
+  - "Ézéchiel 14:12"
   - "Genèse 6"
   - "Luc 17"
-  - "Matthieu 6"
+  - "Apocalypse 6"
   - "Ézéchiel 14"
-  - "Ézéchiel 14:12"
+  - "Actes 2"
+  - "Matthieu 6"
 ---
 *Le témoignage de Dieu*
 *Prêché le 15 janvier 2022*

@@ -51,21 +51,21 @@ themes:
 pdf_url: "http://cmpp.ch/serie5no1.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "Actes 4"
-  - "Apocalypse 22"
-  - "Apocalypse 22:18"
-  - "Apocalypse 4"
   - "Deutéronome 16"
-  - "Exode 12"
-  - "Hébreux 13"
   - "Jean 6"
-  - "Luc 17"
-  - "Malachie 3"
-  - "Malachie 4"
-  - "Marc 16"
   - "Romains 8"
   - "Éphésiens 2"
+  - "Exode 12"
+  - "Actes 4"
+  - "1 Corinthiens 12"
+  - "Apocalypse 22"
+  - "Apocalypse 22:18"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Hébreux 13"
+  - "Luc 17"
+  - "Apocalypse 4"
+  - "Marc 16"
 ---
 SERIE 5, N° 1
 

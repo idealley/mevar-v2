@@ -46,14 +46,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560408Temps-proche.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 1:1-3"
-  - "Hébreux 4:15"
-  - "Jean 14:10"
-  - "Jean 14:12"
-  - "Jean 17:1"
-  - "Jean 5:19"
   - "Jean 6:44"
+  - "Jean 17:1"
+  - "Apocalypse 1:1-3"
   - "Zacharie 14:7"
+  - "Jean 14:12"
+  - "Jean 14:10"
+  - "Jean 5:19"
+  - "Hébreux 4:15"
 original: "branham/1956/56-0408E"
 ---
 **1.** [Prière]. Je suis toujours heureux d'être avec mes frères Joseph Boze et Elnar Ekberg, Hutchinson, et avec vous tous. Je suis très touché par tous vos cadeaux d'anniversaire. Si tout Chicago était comme cette assemblée, il n'y aurait plus besoin de police. Il en sera ainsi quand Jésus va venir pour recevoir ses serviteurs. Je veux en faire partie car il m'a aimé.

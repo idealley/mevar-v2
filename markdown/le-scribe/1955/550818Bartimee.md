@@ -35,8 +35,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550818Bartimee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Marc 10:46"
   - "Marc 10:46-53"
+  - "Marc 10:46"
 original: "branham/1955/55-0818"
 ---
 *Résumé de : “L'aveugle Bartimée ” (18 août 1955, soir)*

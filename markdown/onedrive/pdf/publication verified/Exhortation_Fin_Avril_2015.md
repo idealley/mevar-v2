@@ -46,23 +46,23 @@ mevar_match:
   similarity: 0.67
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 10"
-  - "1 Corinthiens 15"
-  - "1 Corinthiens 1:12"
-  - "1 Corinthiens 3:4-6"
+  - "Psaumes 126:5"
   - "Actes 26:27"
+  - "Éphésiens 2:20"
+  - "Luc 24"
+  - "1 Corinthiens 15"
+  - "Luc 1:70"
   - "Apocalypse 22"
   - "Apocalypse 22:9"
   - "Exode 13:17-22"
   - "Exode 23:23"
-  - "Luc 1:70"
-  - "Luc 24"
-  - "Malachie 3:14-15"
-  - "Matthieu 24"
   - "Nombres 14"
   - "Nombres 14:1-10"
-  - "Psaumes 126:5"
-  - "Éphésiens 2:20"
+  - "1 Corinthiens 10"
+  - "Matthieu 24"
+  - "Malachie 3:14-15"
+  - "1 Corinthiens 1:12"
+  - "1 Corinthiens 3:4-6"
 ---
 ## NOTRE GENERATION VERRA LA GUERRE
 

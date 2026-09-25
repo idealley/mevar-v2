@@ -40,11 +40,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/581012Enlevement-secret.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Thessaloniciens 4:16"
   - "1 Thessaloniciens 5:1"
+  - "1 Thessaloniciens 4:16"
   - "2 Timothée 4:8"
-  - "Actes 7:51"
   - "Apocalypse 19:7"
+  - "Actes 7:51"
   - "Luc 17:34,36"
   - "Marc 16:17"
 original: "branham/1958/58-1012"

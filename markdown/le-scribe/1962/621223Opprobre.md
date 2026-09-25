@@ -48,17 +48,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/621223Opprobre.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3:12"
-  - "Actes 19:7"
-  - "Actes 2:23"
-  - "Galates 5:22"
-  - "Jean 11:27"
-  - "Jean 2:21"
-  - "Jean 8:58"
-  - "Jérémie 28"
-  - "Psaumes 89:51-53"
-  - "Ésaïe 53:5"
   - "Ésaïe 6:5"
+  - "Psaumes 89:51-53"
+  - "2 Timothée 3:12"
+  - "Ésaïe 53:5"
+  - "Galates 5:22"
+  - "Jérémie 28"
+  - "Actes 19:7"
+  - "Jean 8:58"
+  - "Jean 2:21"
+  - "Actes 2:23"
+  - "Jean 11:27"
 original: "branham/1962/62-1223"
 ---
 **1.** Je viens de prier pour des malades. Une petite fille très malade est en voie de guérison. Le plombage d'une de mes dents vient de sauter, et cela siffle un peu quand je parle. Tout à l'heure nous distribuerons des cadeaux aux enfants au nom de Jésus-Christ, qui est la Vérité. La nuit de Noël, plusieurs pasteurs parleront.

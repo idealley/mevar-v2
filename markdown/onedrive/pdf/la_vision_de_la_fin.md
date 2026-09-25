@@ -40,18 +40,18 @@ themes:
   - "Combat spirituel"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15"
-  - "1 Jean 3:11-12"
-  - "Actes 20:29-30"
-  - "Galates 3:16"
-  - "Genèse 3"
   - "Genèse 3:1-19"
-  - "Malachie 3:18"
-  - "Marc 7:20-23"
-  - "Matthieu 5:22"
-  - "Matthieu 7:15"
-  - "Ésaïe 35:8"
+  - "1 Jean 3:11-12"
+  - "Galates 3:16"
+  - "1 Corinthiens 15"
+  - "Genèse 3"
   - "Ésaïe 53"
+  - "Matthieu 5:22"
+  - "Marc 7:20-23"
+  - "Matthieu 7:15"
+  - "Actes 20:29-30"
+  - "Ésaïe 35:8"
+  - "Malachie 3:18"
 ---
 ## La vision de la fin
 

@@ -48,13 +48,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630626Pourquoi.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 1:18"
-  - "2 Rois 1:1-4"
-  - "Actes 2:38-39"
-  - "Jean 10:37"
   - "Jean 11"
-  - "Jean 15:5"
+  - "2 Rois 1:1-4"
   - "Jérémie 8:22"
+  - "1 Corinthiens 1:18"
+  - "Jean 10:37"
+  - "Actes 2:38-39"
+  - "Jean 15:5"
 original: "branham/1963/63-0626"
 ---
 **Résumé de!: “Pourquoi ?” (26 Juin 1963, soir)**

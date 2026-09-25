@@ -43,16 +43,16 @@ themes:
 pdf_url: "http://cmpp.ch/rev11.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Thessaloniciens 4"
-  - "2 Corinthiens 12"
-  - "Apocalypse 1"
+  - "Apocalypse 4"
   - "Apocalypse 19"
   - "Apocalypse 3"
-  - "Apocalypse 4"
   - "Jean 10"
-  - "Jean 21"
+  - "Apocalypse 1"
+  - "2 Corinthiens 12"
   - "Matthieu 16"
   - "Matthieu 17"
+  - "Jean 21"
+  - "1 Thessaloniciens 4"
 ---
 WILLIAM MARRION BRANHAM
 

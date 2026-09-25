@@ -35,17 +35,17 @@ themes:
 pdf_url: "http://cmpp.ch/lc_mars_1972_A5.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 3"
-  - "1 Timothée 3"
-  - "Actes 1"
-  - "Actes 13"
   - "Hébreux 13"
-  - "Josué 1"
-  - "Luc 24"
-  - "Marc 1"
-  - "Matthieu 25"
-  - "Zacharie 4"
   - "Zacharie 8"
+  - "Marc 1"
+  - "Actes 13"
+  - "1 Corinthiens 3"
+  - "Zacharie 4"
+  - "1 Timothée 3"
+  - "Josué 1"
+  - "Actes 1"
+  - "Matthieu 25"
+  - "Luc 24"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

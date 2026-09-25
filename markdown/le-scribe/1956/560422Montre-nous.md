@@ -45,13 +45,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560422Montre-nous.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 5:19"
   - "2 Rois 20:1-11"
-  - "Actes 3:4"
-  - "Jean 10:34"
   - "Jean 14:5"
+  - "2 Corinthiens 5:19"
   - "Psaumes 42:7"
+  - "Jean 10:34"
   - "Psaumes 82:6"
+  - "Actes 3:4"
 original: "branham/1956/56-0422"
 ---
 **1.** Merci pour le mot d'accueil du pasteur Parton, un cher frère très humble. J'espère pouvoir venir un jour avec la tente et rester plus longtemps [Allusion à la vision de la tente, décembre 1955]. Je suis épuisé. Je n'ai pris aucun repos depuis 4 mois, et ma gorge est en mauvais état. D'ici un an, certains parmi nous, jeunes ou vieux, ne seront plus de ce monde. Je suis heureux que plusieurs se soient rassemblés hier soir autour de la Parole.

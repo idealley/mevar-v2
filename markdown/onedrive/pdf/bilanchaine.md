@@ -57,12 +57,12 @@ themes:
   - "Combat spirituel"
 llm_cleaned: true
 bible_refs:
+  - "Marc 11:20-26"
+  - "Marc 11:14"
+  - "Matthieu 8:22"
   - "2 Timothée 2:16-18"
   - "2 Timothée 2:20-22"
   - "Apocalypse 22:17"
-  - "Marc 11:14"
-  - "Marc 11:20-26"
-  - "Matthieu 8:22"
 ---
 ## Bref témoignage bilan de la chaîne de prière
 

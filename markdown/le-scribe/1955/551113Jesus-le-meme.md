@@ -45,16 +45,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551113Jesus-le-meme.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Ésaïe 53:5"
+  - "Hébreux 13:8"
+  - "Jude 1:3"
+  - "Marc 16"
+  - "Jean 5:19"
+  - "Actes 2:22"
   - "Actes 10:11"
   - "Actes 12:7"
   - "Actes 27:23"
-  - "Actes 2:22"
-  - "Hébreux 13:8"
   - "Jean 15:7"
-  - "Jean 5:19"
-  - "Jude 1:3"
-  - "Marc 16"
-  - "Ésaïe 53:5"
 original: "branham/1955/55-1113"
 ---
 *Résumé de : “Jésus-Christ le même hier, aujourd'hui, et éternellement” (13 novembre 1955, après-midi)*

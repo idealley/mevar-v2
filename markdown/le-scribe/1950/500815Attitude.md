@@ -39,17 +39,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500815Attitude.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12:3"
   - "1 Jean 5:1"
-  - "1 Samuel 15:22"
-  - "Exode 15:26"
-  - "Hébreux 11:6"
-  - "Jean 14:12"
-  - "Jean 5:19"
+  - "1 Corinthiens 12:3"
   - "Luc 7:1"
+  - "Jean 14:12"
   - "Marc 11:24"
   - "Marc 16:17-18"
+  - "Hébreux 11:6"
+  - "1 Samuel 15:22"
+  - "Jean 5:19"
   - "Nombres 24:13"
+  - "Exode 15:26"
   - "Ésaïe 53:5"
 original: "branham/1950/50-0815"
 ---

@@ -37,12 +37,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550807bConduite-Esprit.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 5:19"
   - "Luc 2:25-30"
-  - "Nombres 24:17"
   - "Romains 8:14"
-  - "Zacharie 14:7"
+  - "Jean 5:19"
   - "Ésaïe 21:11"
+  - "Nombres 24:17"
+  - "Zacharie 14:7"
   - "Ésaïe 53:5"
 original: "branham/1955/55-0807E"
 ---

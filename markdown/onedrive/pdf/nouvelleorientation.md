@@ -44,13 +44,13 @@ themes:
   - "Unité de l'Église"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
   - "Exode 17"
   - "Exode 17:8-16"
-  - "Marc 16"
-  - "Matthieu 24"
-  - "Ésaïe 62:1"
   - "Ézéchiel 22:24-31"
+  - "Matthieu 24"
+  - "1 Corinthiens 12"
+  - "Marc 16"
+  - "Ésaïe 62:1"
 ---
 ## L'intercession
 

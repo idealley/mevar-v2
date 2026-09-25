@@ -40,13 +40,13 @@ pdf_url: "https://mevar.org/content/files/2022/12/4_eprouvez_les_signes_05_01_20
 local_pdf: "/files/mevar/4_eprouvez_les_signes_05_01_20.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 14"
-  - "1 Jean 4"
-  - "Matthieu 13"
   - "Matthieu 21"
+  - "1 Jean 4"
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 13"
   - "Ésaïe 40"
+  - "Matthieu 13"
+  - "1 Corinthiens 12"
 ---
 Les signes d’un Ministère ou d’une œuvre authentique de Dieu - 4e partie – ou Comment éprouver les signes
 

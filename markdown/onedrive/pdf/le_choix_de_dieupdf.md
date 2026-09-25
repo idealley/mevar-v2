@@ -42,12 +42,12 @@ themes:
   - "Obéissance à la Parole"
 llm_cleaned: true
 bible_refs:
-  - "1 Timothée 1"
-  - "1 Timothée 6:12"
   - "Luc 18"
-  - "Matthieu 24:45"
   - "Matthieu 25"
+  - "1 Timothée 1"
+  - "Matthieu 24:45"
   - "Matthieu 25:6"
+  - "1 Timothée 6:12"
 ---
 ## Le choix de Dieu
 

@@ -42,11 +42,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550624Abraham.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 2:15"
-  - "Galates 2:20"
   - "Genèse 22:7-8,14"
-  - "Jean 5:19"
   - "Jean 8:44,7"
+  - "Galates 2:20"
+  - "Jean 5:19"
+  - "1 Jean 2:15"
 original: "branham/1955/55-0624"
 ---
 Résumé de : “Abraham” (24 juin 1955, soir)

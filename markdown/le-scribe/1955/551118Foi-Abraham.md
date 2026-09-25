@@ -51,12 +51,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551118Foi-Abraham.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15:55,57"
-  - "1 Pierre 1:7"
   - "Genèse 22:8,14"
   - "Genèse 24:7"
+  - "1 Pierre 1:7"
   - "Hébreux 11:19"
   - "Matthieu 27:52"
+  - "1 Corinthiens 15:55,57"
   - "Ésaïe 53:5"
 original: "branham/1955/55-1118"
 ---

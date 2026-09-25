@@ -63,15 +63,15 @@ llm_cleaned: true
 bible_refs:
   - "Actes 20"
   - "Apocalypse 13"
-  - "Hébreux 13"
-  - "Hébreux 4"
-  - "Jean 14"
-  - "Jean 4"
   - "Malachie 4"
   - "Nombres 12"
   - "Nombres 21"
   - "Zacharie 12:10"
   - "Ésaïe 45"
+  - "Hébreux 4"
+  - "Hébreux 13"
+  - "Jean 14"
+  - "Jean 4"
 ---
 SERIE 4, N° 5
 

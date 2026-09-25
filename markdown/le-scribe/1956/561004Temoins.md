@@ -45,9 +45,9 @@ pdf_url: "http://le-scribe.org/pdfiles/561004Temoins.pdf"
 llm_cleaned: true
 bible_refs:
   - "Actes 1:5-8"
+  - "Psaumes 103:2-3"
   - "Jean 2:19"
   - "Jean 5:19"
-  - "Psaumes 103:2-3"
 original: "branham/1956/56-1004"
 ---
 **Résumé de : "Témoins" (4 octobre 1956)**

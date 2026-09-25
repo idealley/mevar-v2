@@ -47,23 +47,23 @@ mevar_match:
   similarity: 0.605
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 7:35"
-  - "2 Corinthiens 11:27"
-  - "2 Corinthiens 6:5"
-  - "2 Timothée 2:3-4"
+  - "Jérémie 29:10-14"
+  - "Apocalypse 10:9-11"
   - "Actes 13:1-4"
   - "Actes 14:23"
-  - "Apocalypse 10:9-11"
+  - "2 Corinthiens 11:27"
+  - "2 Corinthiens 6:5"
   - "Colossiens 4:2"
+  - "1 Corinthiens 7:35"
+  - "2 Timothée 2:3-4"
+  - "Néhémie 1:1-8"
   - "Ecclésiaste 10:19"
-  - "Josué 2:8-11"
-  - "Joël 2:25-28"
-  - "Jérémie 29:10-14"
-  - "Malachie 3:16-18"
+  - "Psaumes 104:15"
   - "Matthieu 26"
   - "Matthieu 26:29"
-  - "Néhémie 1:1-8"
-  - "Psaumes 104:15"
+  - "Malachie 3:16-18"
+  - "Joël 2:25-28"
+  - "Josué 2:8-11"
 ---
 ## Néhémie – Échanson du Roi Artaxerxès
 

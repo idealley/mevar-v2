@@ -39,18 +39,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620624Super-Signe.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Ésaïe 7:10-14"
   - "Apocalypse 17"
   - "Genèse 22:17"
-  - "Jean 5:19"
   - "Juges 3:31"
-  - "Luc 8:41"
+  - "Malachie 4"
   - "Malachie 3"
   - "Malachie 3:1"
-  - "Malachie 4"
-  - "Malachie 4:6"
   - "Matthieu 11:10"
+  - "Malachie 4:6"
   - "Zacharie 14:7"
-  - "Ésaïe 7:10-14"
+  - "Jean 5:19"
+  - "Luc 8:41"
 original: "branham/1962/62-0624"
 ---
 **Résumé de!: “Le Super Signe” (24 juin 1962, après-midi)**

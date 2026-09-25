@@ -42,9 +42,9 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/490718Desobeissant.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 5:19"
   - "Matthieu 4:23-24"
   - "Ésaïe 53:5"
+  - "Jean 5:19"
 original: "branham/1949/49-0718"
 ---
 **1.** [Prière]. Je remercie Dieu qui vient juste de guérir une jeune fille qui souffrait terriblement, et qui demandait seulement un contact de ma main. Elle a été guérie instantanément. Lisons Matthieu 4:23-24

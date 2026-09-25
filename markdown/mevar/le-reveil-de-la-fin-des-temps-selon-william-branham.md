@@ -18,8 +18,8 @@ ghost_id: "6448fa86db90770001518ee3"
 uuid: "1b95622b-de2c-466f-9a09-28268ea9b366"
 stream_url: "https://mevar.org/le-reveil-de-la-fin-des-temps-selon-william-branham/"
 bible_refs:
-  - "2 Chroniques 7:14"
   - "2 Rois 2"
+  - "2 Chroniques 7:14"
 ---
 Nous lisons dans 2 Rois 2, le texte que notre frère a lu dans la prédication que nous venons d’écouter. Un homme appelé de Dieu.
 

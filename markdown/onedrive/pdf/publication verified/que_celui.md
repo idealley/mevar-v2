@@ -50,9 +50,9 @@ mevar_match:
   similarity: 0.595
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 1"
   - "Apocalypse 2"
   - "Apocalypse 3"
+  - "1 Jean 1"
   - "Psaumes 115"
 ---
 Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises, prêché le 8 Novembre 2007 à Mouyondzi- Congo Brazzaville

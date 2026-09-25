@@ -38,10 +38,10 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570228Salomon.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Matthieu 10"
   - "Matthieu 12:42"
-  - "Psaumes 103:3"
   - "Romains 10:17"
+  - "Psaumes 103:3"
+  - "Matthieu 10"
 original: "branham/1957/57-0228"
 ---
 **Résumé de!: “Il y a ici plus que Salomon” (28 février 1957, soir)**

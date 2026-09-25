@@ -56,19 +56,19 @@ themes:
 pdf_url: "http://cmpp.ch/serie6no3.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "1 Jean 2"
-  - "1 Timothée 2"
-  - "Apocalypse 22"
-  - "Hébreux 13"
-  - "Jean 4"
-  - "Jean 6"
-  - "Marc 16"
-  - "Matthieu 24"
-  - "Matthieu 5"
-  - "Psaumes 18"
   - "Psaumes 42"
+  - "Psaumes 18"
   - "Romains 7"
+  - "Marc 16"
+  - "Hébreux 13"
+  - "1 Timothée 2"
+  - "Matthieu 24"
+  - "1 Corinthiens 13"
+  - "Jean 4"
+  - "1 Jean 2"
+  - "Apocalypse 22"
+  - "Jean 6"
+  - "Matthieu 5"
 ---
 SERIE 6, N° 3
 

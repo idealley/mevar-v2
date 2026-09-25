@@ -21,13 +21,13 @@ ghost_id: "6448fa86db90770001518f43"
 uuid: "6694bb3d-b09c-4d42-8161-3076e8f6f946"
 stream_url: "https://mevar.org/le-cheval-roux-et-le-cheval-noir/"
 bible_refs:
-  - "1 Corinthiens 12:13,14"
-  - "Apocalypse 16"
-  - "Apocalypse 17"
-  - "Apocalypse 19"
-  - "Apocalypse 2"
-  - "Apocalypse 3"
   - "Apocalypse 6"
+  - "Apocalypse 19"
+  - "1 Corinthiens 12:13,14"
+  - "Apocalypse 2"
+  - "Apocalypse 17"
+  - "Apocalypse 3"
+  - "Apocalypse 16"
 ---
 ## Le deuxième et le troisième sceaux
 

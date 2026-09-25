@@ -32,13 +32,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/581006Ordre-eglise.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 14:27"
-  - "1 Corinthiens 14:32"
+  - "Romains 5:1"
   - "Hébreux 13:12,13"
+  - "1 Corinthiens 12"
   - "Jean 13:35"
   - "Jean 3:16"
-  - "Romains 5:1"
+  - "1 Corinthiens 14:32"
+  - "1 Corinthiens 14:27"
 ---
 *L'ordre dans l'église* (6 octobre 1958)
 

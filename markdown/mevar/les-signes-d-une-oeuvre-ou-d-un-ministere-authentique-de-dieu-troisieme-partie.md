@@ -22,17 +22,17 @@ ghost_id: "6448fa86db90770001518f54"
 uuid: "aac1f6f5-450b-4d58-8ffc-023bfe327efe"
 stream_url: "https://mevar.org/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie/"
 bible_refs:
+  - "Matthieu 7"
+  - "Jean 14"
   - "1 Corinthiens 12"
   - "1 Corinthiens 13"
-  - "1 Timothée 4:14"
+  - "Galates 5:22"
   - "2 Pierre 1"
   - "Esther 1"
-  - "Galates 5:22"
-  - "Jean 14"
-  - "Jérémie 1:17"
+  - "1 Timothée 4:14"
   - "Marc 11"
   - "Matthieu 14"
-  - "Matthieu 7"
+  - "Jérémie 1:17"
 ---
 ## La condition des porteurs de signes — troisième partie
 

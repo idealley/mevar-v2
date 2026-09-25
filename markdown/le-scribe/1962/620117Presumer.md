@@ -44,15 +44,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620117Presumer.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 18:16-40"
-  - "Deutéronome 18"
+  - "Nombres 14:41"
+  - "Jean 15:7"
   - "Deutéronome 18:15,19,21,22"
   - "Jean 14:12"
-  - "Jean 15:7"
-  - "Joël 2:28"
   - "Marc 16:17"
-  - "Nombres 14:41"
+  - "1 Rois 18:16-40"
+  - "Deutéronome 18"
   - "Ésaïe 28:11"
+  - "Joël 2:28"
 original: "branham/1962/62-0117"
 ---
 *Présumer*

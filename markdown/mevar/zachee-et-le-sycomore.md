@@ -18,15 +18,15 @@ ghost_id: "6448fa86db90770001518fe8"
 uuid: "cb3b8d23-0bdb-4739-ace0-287d75444bf8"
 stream_url: "https://mevar.org/zachee-et-le-sycomore/"
 bible_refs:
-  - "Actes 10:1-6"
-  - "Actes 10:17-20"
-  - "Luc 17:5-6"
-  - "Luc 18:8"
   - "Luc 19:1-10"
+  - "Luc 17:5-6"
   - "Luc 7:9-10"
   - "Matthieu 15:28"
   - "Romains 10:13-18"
+  - "Actes 10:1-6"
+  - "Actes 10:17-20"
   - "Romains 10:17"
+  - "Luc 18:8"
 ---
 ## Exhortation d'août 2011
 

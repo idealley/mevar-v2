@@ -34,18 +34,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600925Calvaire.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13:3"
-  - "Galates 2:20"
-  - "Hébreux 11:10"
-  - "Jean 14:12"
-  - "Matthieu 25:35-36"
-  - "Matthieu 25:41-43"
   - "Matthieu 27:27"
-  - "Matthieu 5:48"
-  - "Matthieu 6:3"
-  - "Matthieu 7:21"
-  - "Proverbes 14:12"
   - "Ézéchiel 18:20"
+  - "Hébreux 11:10"
+  - "Matthieu 5:48"
+  - "Matthieu 25:41-43"
+  - "Matthieu 25:35-36"
+  - "Proverbes 14:12"
+  - "Matthieu 7:21"
+  - "Matthieu 6:3"
+  - "Galates 2:20"
+  - "1 Corinthiens 13:3"
+  - "Jean 14:12"
 original: "branham/1960/60-0925"
 ---
 “Ce jour-là sur le Calvaire” (le 25 septembre 1960)

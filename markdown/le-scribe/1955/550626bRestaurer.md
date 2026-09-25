@@ -37,13 +37,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550626bRestaurer.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3:1-5"
-  - "2 Timothée 3:6"
   - "Actes 8"
+  - "Marc 16"
   - "Joël 1:1-5,11-12"
   - "Joël 2:25"
-  - "Marc 16"
   - "Proverbes 14:12"
+  - "2 Timothée 3:1-5"
+  - "2 Timothée 3:6"
 original: "branham/1955/55-0626E"
 ---
 **1.** Je ne reste pas assez longtemps, et c'est pourquoi les gens n'ont pas le temps de bien comprendre. Je remercie le Dr. Guggenbuhl et tous ceux qui ont organisé ces réunions. Peut-être pourrons-nous rester plus longtemps une prochaine fois. Billy Graham a reçu l'aide de toutes les églises, mais mon ministère est différent et n'est pas soutenu par une organisation. C'est dommage que les églises ne coopèrent pas avec nous. J'aime les frères, mais je ne peux pas appartenir à une organisation. Jésus a des enfants dans toutes, et ceux qui ont le cœur pur verront Dieu.

@@ -48,21 +48,21 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "1 Samuel 17:45-47"
-  - "2 Rois 13"
-  - "2 Rois 13:14-19"
-  - "Apocalypse 12"
-  - "Apocalypse 12:1-5"
-  - "Hébreux 11"
-  - "Jacques 1:5-8"
-  - "Job 22:28"
-  - "Luc 17:26-37"
-  - "Luc 1:28-30"
-  - "Luc 1:38"
-  - "Luc 1:45"
-  - "Luc 21:11"
   - "Psaumes 60"
   - "Psaumes 60:12"
   - "Ésaïe 1:18"
+  - "Luc 21:11"
+  - "Apocalypse 12"
+  - "Apocalypse 12:1-5"
+  - "Luc 17:26-37"
+  - "Luc 1:28-30"
+  - "Luc 1:45"
+  - "Luc 1:38"
+  - "Hébreux 11"
+  - "2 Rois 13"
+  - "2 Rois 13:14-19"
+  - "Job 22:28"
+  - "Jacques 1:5-8"
 ---
 ## LA VICTOIRE APPARTIENT A L’ETERNEL !
 

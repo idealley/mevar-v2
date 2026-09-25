@@ -47,15 +47,15 @@ mevar_match:
   similarity: 0.545
 llm_cleaned: true
 bible_refs:
-  - "2 Thessaloniciens 2"
-  - "Actes 2"
-  - "Apocalypse 6"
-  - "Malachie 4:5-6"
-  - "Matthieu 24"
-  - "Éphésiens 5:26-27"
   - "Ésaïe 27"
   - "Ésaïe 27:12"
   - "Ésaïe 27:12-13"
+  - "Malachie 4:5-6"
+  - "Matthieu 24"
+  - "Apocalypse 6"
+  - "2 Thessaloniciens 2"
+  - "Éphésiens 5:26-27"
+  - "Actes 2"
 ---
 La vision prophétique fait la différence, prêché le par le frère M’BRA Parfait
 à Koumassi le dimanche 16 Juin 2013

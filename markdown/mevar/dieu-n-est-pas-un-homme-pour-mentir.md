@@ -19,13 +19,13 @@ ghost_id: "6448fa86db90770001518f10"
 uuid: "46dab7ea-5e8e-4c41-8775-6f6c5b105e12"
 stream_url: "https://mevar.org/dieu-n-est-pas-un-homme-pour-mentir/"
 bible_refs:
-  - "1 Samuel 9"
   - "Juges 1:19-33"
-  - "Juges 2"
   - "Juges 2:1-4"
+  - "Nombres 23:18-19"
   - "Malachie 4:5,6"
   - "Matthieu 22"
-  - "Nombres 23:18-19"
+  - "1 Samuel 9"
+  - "Juges 2"
 ---
 Ce soir, j’ai des paroles à lire ici pour chacun d’entre nous et nous devons effectivement prêter attention à la parole de Dieu parce que c’est la parole de Dieu qui nous conduit. Nous marchons par la parole du Seigneur. Le peuple de Dieu ne peut pas marcher s’il n’a pas la parole. Amen.
 

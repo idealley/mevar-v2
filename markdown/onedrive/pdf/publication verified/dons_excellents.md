@@ -41,14 +41,14 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 10"
+  - "Jacques 1:13"
+  - "Jean 3:27"
+  - "Proverbes 14"
+  - "Proverbes 14:23"
+  - "Philippiens 4:11-12"
   - "1 Jean 2"
   - "1 Jean 2:15-16"
   - "2 Pierre 1:5-11"
-  - "Jacques 1:13"
-  - "Jean 3:27"
-  - "Philippiens 4:11-12"
-  - "Proverbes 14"
-  - "Proverbes 14:23"
 ---
 Les dons excellents, prêché le 24 Novembre 2013 à Koumassi par le frère M’BRA Parfait
 

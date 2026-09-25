@@ -44,19 +44,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560407Bartimee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Timothée 3:1-5"
-  - "Jean 14:12"
-  - "Jean 14:13-14,15"
-  - "Jean 4:29"
-  - "Jean 5:19"
-  - "Josué 6:13-14"
+  - "Marc 10:46-53"
   - "Luc 18:35-43"
   - "Luc 18:42-43"
-  - "Marc 10:46-53"
+  - "Josué 6:13-14"
+  - "Jean 14:13-14,15"
+  - "Jean 14:12"
   - "Marc 16:17-18"
-  - "Matthieu 12:32"
-  - "Matthieu 18:6"
+  - "2 Timothée 3:1-5"
   - "Ésaïe 53:5"
+  - "Jean 5:19"
+  - "Jean 4:29"
+  - "Matthieu 18:6"
+  - "Matthieu 12:32"
 original: "branham/1956/56-0407"
 ---
 **Résumé de : “L'aveugle Bartmée” (7 avril 1956)**

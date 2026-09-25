@@ -42,14 +42,14 @@ themes:
   - "Parler au rocher"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 5:17"
-  - "Exode 17"
-  - "Jean 10:34-37"
-  - "Marc 11"
   - "Matthieu 16"
   - "Matthieu 16:17-19"
+  - "Exode 17"
   - "Nombres 20"
   - "Tite 3:4-9"
+  - "2 Corinthiens 5:17"
+  - "Jean 10:34-37"
+  - "Marc 11"
 ---
 ## Parle au rocher ou Proclamations
 

@@ -39,20 +39,20 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631130aInfluence.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Ésaïe 6:1-8"
+  - "2 Corinthiens 3:3"
   - "2 Chroniques 26:1"
   - "2 Chroniques 26:16-23"
-  - "2 Corinthiens 3:3"
   - "Actes 2:13"
   - "Actes 2:39"
+  - "Psaumes 16:8"
   - "Genèse 1:1"
   - "Jean 4"
-  - "Jean 9"
   - "Luc 4:8"
-  - "Philippiens 3:14"
-  - "Psaumes 16:8"
+  - "Jean 9"
   - "Psaumes 84:11"
   - "Romains 8:39"
-  - "Ésaïe 6:1-8"
+  - "Philippiens 3:14"
 original: "branham/1963/63-1130B"
 ---
 **INFLUENCE**

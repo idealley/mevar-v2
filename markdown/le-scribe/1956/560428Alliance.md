@@ -41,11 +41,11 @@ pdf_url: "http://le-scribe.org/pdfiles/560428Alliance.pdf"
 llm_cleaned: true
 bible_refs:
   - "Actes 19:12"
+  - "Jean 11:21"
   - "Genèse 22:14"
   - "Hébreux 3:1"
-  - "Jean 11:21"
-  - "Jean 5:19"
   - "Jean 5:24"
+  - "Jean 5:19"
   - "Luc 8:51"
   - "Marc 8:23"
 original: "branham/1956/56-0428"

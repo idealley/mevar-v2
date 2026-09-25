@@ -40,19 +40,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550114Docteur-Moise.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 16:29-31"
+  - "Hébreux 11:1"
+  - "Jean 3:1-2"
+  - "Proverbes 14:12"
+  - "Jean 3:14-15"
+  - "Matthieu 2:15"
+  - "Osée 11:1"
+  - "Matthieu 16:17"
   - "1 Corinthiens 2:5"
+  - "Matthieu 16:18"
   - "Actes 2:38"
   - "Deutéronome 8:4,29"
   - "Exode 15:26"
-  - "Hébreux 11:1"
-  - "Jean 16:29-31"
-  - "Jean 3:1-2"
-  - "Jean 3:14-15"
-  - "Matthieu 16:17"
-  - "Matthieu 16:18"
-  - "Matthieu 2:15"
-  - "Osée 11:1"
-  - "Proverbes 14:12"
 original: "branham/1955/55-0114"
 ---
 Résumé de : “Docteur Moïse” (14 janvier 1955, soir)

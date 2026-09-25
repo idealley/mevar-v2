@@ -41,18 +41,18 @@ themes:
 pdf_url: "http://cmpp.ch/serie4no12.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 5"
   - "1 Timothée 2"
-  - "Apocalypse 10"
-  - "Galates 4"
-  - "Hébreux 13"
-  - "Jean 14"
-  - "Jean 5"
   - "Josué 1"
+  - "Galates 4"
+  - "1 Jean 5"
+  - "Romains 8"
+  - "Jean 5"
+  - "Matthieu 24"
+  - "Apocalypse 10"
+  - "Hébreux 13"
   - "Luc 17"
   - "Malachie 4"
-  - "Matthieu 24"
-  - "Romains 8"
+  - "Jean 14"
 ---
 SERIE 4 N° 12
 

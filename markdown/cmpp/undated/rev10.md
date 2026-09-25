@@ -45,17 +45,17 @@ themes:
 pdf_url: "http://cmpp.ch/rev10.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 3"
-  - "Apocalypse 13"
-  - "Apocalypse 3:14"
-  - "Jacques 5"
   - "Jean 19"
-  - "Luc 1"
+  - "1 Corinthiens 13"
+  - "Apocalypse 13"
   - "Malachie 4"
   - "Matthieu 17"
+  - "Luc 1"
   - "Matthieu 2"
   - "Osée 11"
+  - "Apocalypse 3:14"
+  - "1 Corinthiens 3"
+  - "Jacques 5"
   - "Romains 11:15-27"
 ---
 WILLIAM MARRION BRANHAM

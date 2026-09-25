@@ -34,20 +34,20 @@ themes:
 pdf_url: "http://cmpp.ch/paille_et_froment_A4.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Jean 1"
-  - "1 Jean 5"
-  - "1 Pierre 4"
-  - "2 Corinthiens 1"
-  - "Actes 3"
+  - "Jérémie 23"
+  - "Malachie 4"
   - "Genèse 3"
   - "Jean 1"
-  - "Jérémie 23"
+  - "2 Corinthiens 1"
+  - "Éphésiens 4"
   - "Malachie 3"
-  - "Malachie 4"
+  - "1 Jean 1"
+  - "1 Pierre 4"
   - "Marc 12"
   - "Matthieu 24"
-  - "Éphésiens 4"
   - "Ésaïe 53"
+  - "Actes 3"
+  - "1 Jean 5"
 ---
 LA PAILLE ET LE FROMENT
 

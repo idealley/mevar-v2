@@ -38,9 +38,9 @@ pdf_url: "http://le-scribe.org/pdfiles/600328Trop-difficile.pdf"
 llm_cleaned: true
 bible_refs:
   - "Genèse 18:14"
-  - "Hébreux 12:1-2"
-  - "Marc 8:18"
   - "Romains 8:28"
+  - "Marc 8:18"
+  - "Hébreux 12:1-2"
 original: "branham/1960/60-0328"
 ---
 **1.** [Cantique. Prière] …

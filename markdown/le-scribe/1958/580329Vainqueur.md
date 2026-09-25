@@ -49,14 +49,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580329Vainqueur.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15:55"
-  - "2 Rois 6:15-17"
   - "Apocalypse 6:1"
-  - "Daniel 2:34"
   - "Marc 5:9"
+  - "Psaumes 34:8"
+  - "2 Rois 6:15-17"
+  - "1 Corinthiens 15:55"
+  - "Daniel 2:34"
   - "Psaumes 24:7"
   - "Psaumes 24:8"
-  - "Psaumes 34:8"
   - "Romains 8:37"
 original: "branham/1958/58-0329"
 ---

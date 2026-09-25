@@ -39,8 +39,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551006Exode-part2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 15:55,57"
   - "Exode 14:15"
+  - "1 Corinthiens 15:55,57"
   - "Genèse 15:13-14"
 ---
 Résumé de : “Le Livre de l'Exode – Seconde partie” (6 octobre 1955, soir)

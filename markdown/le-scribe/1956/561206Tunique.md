@@ -38,9 +38,9 @@ pdf_url: "http://le-scribe.org/pdfiles/561206Tunique.pdf"
 llm_cleaned: true
 bible_refs:
   - "2 Rois 2:13"
-  - "Jean 5:19"
-  - "Marc 16"
   - "Psaumes 42:7"
+  - "Marc 16"
+  - "Jean 5:19"
 original: "branham/1956/56-1206"
 ---
 Résumé de : “Une tunique de seconde main” (6 décembre 1956)

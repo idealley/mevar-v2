@@ -41,16 +41,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600228Conferences.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Apocalypse 21:1"
+  - "Ésaïe 1:18"
+  - "Exode 3:5"
+  - "Hébreux 12:1"
+  - "Marc 11:23"
   - "Actes 2:2-3"
   - "Actes 2:38"
   - "Actes 3:2"
   - "Actes 4"
   - "Actes 4:31"
-  - "Apocalypse 21:1"
-  - "Exode 3:5"
-  - "Hébreux 12:1"
-  - "Marc 11:23"
-  - "Ésaïe 1:18"
   - "Ézéchiel 9:4"
 original: "branham/1960/60-0228"
 ---

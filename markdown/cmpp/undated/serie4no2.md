@@ -38,15 +38,15 @@ themes:
 pdf_url: "http://cmpp.ch/serie4no2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 12"
-  - "Jean 14"
-  - "Jean 19"
-  - "Jean 3"
-  - "Lévitique 16"
-  - "Lévitique 2"
-  - "Matthieu 12"
   - "Matthieu 2"
+  - "Jean 3"
   - "Matthieu 2:1-12"
+  - "Jean 14"
+  - "Lévitique 2"
+  - "Lévitique 16"
+  - "Matthieu 12"
+  - "Jean 19"
+  - "Jean 12"
 ---
 SERIE 4, N° 2
 

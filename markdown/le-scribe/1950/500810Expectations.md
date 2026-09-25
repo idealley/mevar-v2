@@ -45,8 +45,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500810Expectations.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 8"
   - "Luc 2:25-30"
+  - "1 Rois 8"
   - "Marc 11:24"
 original: "branham/1950/50-0810"
 ---

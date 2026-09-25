@@ -48,13 +48,13 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551008Consequences-decision.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 19"
-  - "Hébreux 4:10"
-  - "Jean 3:16"
   - "Josué 3:7"
-  - "Nombres 22:23"
-  - "Éphésiens 4"
+  - "Jean 3:16"
   - "Ésaïe 28:8,10"
+  - "Hébreux 4:10"
+  - "Éphésiens 4"
+  - "Nombres 22:23"
+  - "Actes 19"
 original: "branham/1955/55-1008"
 ---
 Résumé de : “Les conséquences d'une décision” (8 octobre 1955, soir)

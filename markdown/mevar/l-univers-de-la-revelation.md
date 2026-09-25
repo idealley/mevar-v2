@@ -18,11 +18,11 @@ ghost_id: "6448fa86db90770001518f37"
 uuid: "f9ec443d-17b1-47f0-ab13-7d9104b90507"
 stream_url: "https://mevar.org/l-univers-de-la-revelation/"
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 14"
-  - "1 Jean 4"
   - "Daniel 2"
   - "Joël 2:28-31"
+  - "1 Jean 4"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
 ---
 ## Première partie
 

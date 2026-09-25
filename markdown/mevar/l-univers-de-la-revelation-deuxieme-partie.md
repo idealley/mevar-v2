@@ -18,13 +18,13 @@ ghost_id: "6448fa86db90770001518f38"
 uuid: "398c2254-4a8e-4573-a9d5-d20f872c55bd"
 stream_url: "https://mevar.org/l-univers-de-la-revelation-deuxieme-partie/"
 bible_refs:
-  - "1 Rois 13"
-  - "2 Thessaloniciens 2"
-  - "Apocalypse 4"
-  - "Jérémie 1"
-  - "Jérémie 27"
   - "Jérémie 28"
+  - "1 Rois 13"
+  - "Jérémie 27"
+  - "2 Thessaloniciens 2"
+  - "Jérémie 1"
   - "Luc 17"
+  - "Apocalypse 4"
 ---
 ## Deuxième partie
 

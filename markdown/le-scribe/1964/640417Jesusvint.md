@@ -47,19 +47,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640417Jesusvint.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 11:18"
+  - "Jean 5:19"
+  - "Jean 11:41-42"
   - "2 Rois 4:8-37"
   - "Hébreux 10:26"
-  - "Jean 11:18"
-  - "Jean 11:41-42"
-  - "Jean 4:1-26"
-  - "Jean 5:19"
-  - "Jean 8:58"
   - "Job 14"
   - "Job 19:25"
-  - "Luc 19:1-10"
+  - "Jean 8:58"
   - "Luc 8:41-56"
-  - "Luc 8:43-48"
   - "Marc 10:47"
+  - "Luc 19:1-10"
+  - "Luc 8:43-48"
+  - "Jean 4:1-26"
 original: "branham/1964/64-0417"
 ---
 Résumé de : “Alors Jésus vint et appela” (17 avril 1964, soir)

@@ -45,18 +45,18 @@ mevar_match:
   similarity: 0.61
 llm_cleaned: true
 bible_refs:
+  - "Jean 8:34-36"
   - "Galates 4"
   - "Galates 4:1"
-  - "Hébreux 10:7"
-  - "Hébreux 3"
-  - "Hébreux 3:1-6"
-  - "Jean 8:34-36"
-  - "Luc 15:11-32"
-  - "Luc 2:42-50"
-  - "Matthieu 21:28-32"
-  - "Matthieu 7:6"
   - "Romains 8"
   - "Romains 8:15"
+  - "Hébreux 10:7"
+  - "Luc 2:42-50"
+  - "Hébreux 3"
+  - "Hébreux 3:1-6"
+  - "Luc 15:11-32"
+  - "Matthieu 21:28-32"
+  - "Matthieu 7:6"
 ---
 ## LE DEVOIR DU FILS – LA FIDELITE DANS LA MAISON DE DIEU
 

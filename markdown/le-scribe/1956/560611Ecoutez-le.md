@@ -39,11 +39,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560611Ecoutez-le.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 14:2"
-  - "Luc 2:49"
-  - "Matthieu 17:4"
   - "Matthieu 17:5"
+  - "Luc 2:49"
   - "Proverbes 16:9"
+  - "Jean 14:2"
+  - "Matthieu 17:4"
 original: "branham/1956/56-0611"
 ---
 **1.** Ce soir, alors que je prenais un sandwich, un frère italien, un ami de Gene Goad qui s'occupe des enregistrements, m'a abordé. Lui et sa femme catholique m'avaient apporté leur enfant cancéreux au dernier degré. Il est vivant aujourd'hui, deux ou trois ans plus tard, et les parents sont sauvés et remplis de l'Esprit. Un autre cas m'a été rappelé il y a un instant, un enfant leucémique. Il y a deux ans, j'étais épuisé, mais j'ai reçu un appel d'un motel : "Bébé ayant sept jours à vivre". Les parents avaient bravé le blizzard et traversé le Kansas, le Missouri et l'Illinois. Le Saint-Esprit est venu et a dit aux parents ce qu'ils devaient faire et qu'ils devaient accepter Christ. Deux semaines plus tard, l'enfant jouait à l'école.

@@ -41,10 +41,10 @@ themes:
   - "Enlèvement"
 llm_cleaned: true
 bible_refs:
-  - "Proverbes 8:13"
-  - "Psaumes 111:10"
   - "Ésaïe 1:18-20"
   - "Ésaïe 43:26"
+  - "Psaumes 111:10"
+  - "Proverbes 8:13"
 ---
 ## VENEZ ET PLAIDONS!
 

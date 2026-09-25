@@ -53,17 +53,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600716Des-lors.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 2:9"
-  - "Apocalypse 13"
-  - "Galates 3:29"
-  - "Genèse 15:4-17"
-  - "Genèse 17"
-  - "Jean 14:19"
-  - "Jean 5:19"
   - "Matthieu 4:17"
-  - "Psaumes 51:5-6,58"
   - "Romains 4:20"
+  - "Genèse 17"
+  - "Genèse 15:4-17"
+  - "Psaumes 51:5-6,58"
+  - "Galates 3:29"
+  - "Apocalypse 13"
+  - "1 Corinthiens 2:9"
   - "Ésaïe 9:5"
+  - "Jean 5:19"
+  - "Jean 14:19"
 original: "branham/1960/60-0716"
 ---
 Résumé de : “Dès ce moment” (le 16 juillet 1960)

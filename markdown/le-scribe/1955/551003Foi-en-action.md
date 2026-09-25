@@ -43,12 +43,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551003Foi-en-action.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12:3"
-  - "2 Rois 13:14-19"
   - "Jacques 4:3"
-  - "Jean 14:10"
-  - "Jean 14:13"
+  - "2 Rois 13:14-19"
   - "Romains 4:19-21"
+  - "1 Corinthiens 12:3"
+  - "Jean 14:13"
+  - "Jean 14:10"
 original: "branham/1955/55-1003"
 ---
 **LA FOI EN ACTION**

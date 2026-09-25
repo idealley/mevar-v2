@@ -41,8 +41,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/561005Jezabel.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 9:30"
   - "Actes 19"
+  - "2 Rois 9:30"
   - "Hébreux 12:1-2"
 ---
 **LA JEZABEL AU VISAGE FARDE**

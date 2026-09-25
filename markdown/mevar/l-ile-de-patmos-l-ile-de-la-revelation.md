@@ -18,17 +18,17 @@ ghost_id: "6448fa86db90770001518ef9"
 uuid: "f521812f-d6fa-4319-adc5-1eb2f057f4df"
 stream_url: "https://mevar.org/l-ile-de-patmos-l-ile-de-la-revelation/"
 bible_refs:
-  - "2 Corinthiens 6:4"
-  - "2 Jean 1:8"
-  - "Abdias 1:21"
   - "Apocalypse 1:7-9"
-  - "Galates 5:22-23"
+  - "Luc 10:19"
   - "Hébreux 5:13"
+  - "Abdias 1:21"
+  - "Néhémie 9:27"
   - "Jean 16:33"
   - "Jean 21:18-19"
   - "Jean 21:22-23"
-  - "Luc 10:19"
-  - "Néhémie 9:27"
+  - "Galates 5:22-23"
+  - "2 Corinthiens 6:4"
+  - "2 Jean 1:8"
 ---
 ## Exhortation de mai 2014
 

@@ -37,19 +37,19 @@ themes:
   - "Intercession"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 25:6"
+  - "Genèse 1:27"
   - "1 Corinthiens 15"
   - "1 Corinthiens 2"
-  - "1 Timothée 4:7-8"
-  - "Daniel 9:3"
-  - "Esther 4:3"
-  - "Genèse 1:27"
-  - "Joël 2:13"
-  - "Matthieu 11:21"
-  - "Matthieu 25:6"
-  - "Osée 6"
   - "Romains 7:14"
   - "Romains 8:5"
+  - "1 Timothée 4:7-8"
+  - "Osée 6"
+  - "Esther 4:3"
   - "Ésaïe 58:5"
+  - "Daniel 9:3"
+  - "Matthieu 11:21"
+  - "Joël 2:13"
 ---
 ## Pourquoi jeûner ?
 

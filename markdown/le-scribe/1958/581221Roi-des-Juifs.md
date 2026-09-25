@@ -41,19 +41,19 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/581221Roi-des-Juifs.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 2:1"
   - "1 Corinthiens 1:18-25"
   - "Actes 10:34-35"
-  - "Actes 9:3-5"
   - "Daniel 2:34"
+  - "Luc 14:15-24"
+  - "Actes 9:3-5"
   - "Genèse 14:18"
+  - "Michée 5:1"
+  - "Jean 3:16"
+  - "Jean 1:50-51"
   - "Hébreux 13:8"
   - "Jean 14:19,17,12"
-  - "Jean 1:50-51"
-  - "Jean 3:16"
   - "Jean 6:44"
-  - "Luc 14:15-24"
-  - "Matthieu 2:1"
-  - "Michée 5:1"
 original: "branham/1958/58-1221M"
 ---
 **Où est le Roi des Juifs**

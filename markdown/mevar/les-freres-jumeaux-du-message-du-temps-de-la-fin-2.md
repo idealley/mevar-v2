@@ -21,11 +21,11 @@ ghost_id: "6448fa86db90770001518f73"
 uuid: "d048e412-53c3-4fce-97d4-5b4c3b71c445"
 stream_url: "https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-2/"
 bible_refs:
-  - "Lévitique 10"
-  - "Matthieu 24"
-  - "Matthieu 24:45"
   - "Matthieu 25"
+  - "Matthieu 24"
   - "Éphésiens 4"
+  - "Matthieu 24:45"
+  - "Lévitique 10"
 ---
 ## Deuxième partie
 

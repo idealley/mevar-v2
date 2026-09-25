@@ -35,18 +35,18 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 1"
-  - "Apocalypse 12"
   - "Apocalypse 1:8"
   - "Apocalypse 21:6"
+  - "Jean 13:14-15"
   - "Apocalypse 22:13"
   - "Jean 12:24"
-  - "Jean 13:14-15"
   - "Jean 14:6"
+  - "Malachie 1"
+  - "Luc 9"
   - "Jean 2:5"
   - "Luc 5:15"
-  - "Luc 9"
-  - "Malachie 1"
   - "Malachie 3:17-18"
+  - "Apocalypse 12"
 ---
 ## SEIGNEUR, JE TE SUIVRAI, PARTOUT OU TU IRAS
 

@@ -42,17 +42,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/580126Ecoutez-le.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 1:10,12"
-  - "Actes 19:2"
-  - "Deutéronome 22:5"
-  - "Hébreux 13:8"
-  - "Jean 14:12"
-  - "Jean 14:2"
-  - "Jean 1:50"
-  - "Jude 1:11"
   - "Matthieu 17:1"
-  - "Psaumes 103:3"
+  - "Actes 19:2"
+  - "Jean 14:2"
+  - "Deutéronome 22:5"
   - "Éphésiens 1:5"
+  - "Jean 14:12"
+  - "Jude 1:11"
+  - "2 Rois 1:10,12"
+  - "Hébreux 13:8"
+  - "Jean 1:50"
+  - "Psaumes 103:3"
 original: "branham/1958/58-0126"
 ---
 *26 janvier 1958, dimanche soir, Waterloo (Iowa)*

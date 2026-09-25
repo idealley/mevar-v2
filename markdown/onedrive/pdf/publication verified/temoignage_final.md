@@ -45,17 +45,17 @@ mevar_match:
   similarity: 0.69
 llm_cleaned: true
 bible_refs:
-  - "1 Rois 17"
-  - "1 Rois 18"
-  - "1 Rois 18:20-40"
-  - "Amos 8:11"
-  - "Apocalypse 17"
-  - "Apocalypse 17:1-5"
-  - "Luc 1"
-  - "Malachie 4:5-6"
   - "Matthieu 24"
   - "Matthieu 24:11-14"
+  - "1 Rois 18"
+  - "1 Rois 18:20-40"
+  - "Apocalypse 17"
+  - "Apocalypse 17:1-5"
   - "Matthieu 24:14"
+  - "Malachie 4:5-6"
+  - "Luc 1"
+  - "1 Rois 17"
+  - "Amos 8:11"
 ---
 ## Le témoignage final
 

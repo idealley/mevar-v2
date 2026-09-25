@@ -43,9 +43,9 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no3.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 13"
-  - "Apocalypse 17"
+  - "Exode 3:1-12"
   - "Exode 11"
+  - "Apocalypse 13"
   - "Exode 12"
   - "Exode 13"
   - "Exode 14"
@@ -54,17 +54,17 @@ bible_refs:
   - "Exode 17"
   - "Exode 18"
   - "Exode 19"
+  - "Apocalypse 17"
   - "Exode 20"
   - "Exode 21"
   - "Exode 22"
+  - "Malachie 4"
   - "Exode 23"
   - "Exode 24"
   - "Exode 25"
+  - "Jean 6"
   - "Exode 26"
   - "Exode 27"
-  - "Exode 3:1-12"
-  - "Jean 6"
-  - "Malachie 4"
 ---
 SERIE 3 N° 3
 

@@ -22,13 +22,13 @@ ghost_id: "6448fa86db90770001518f5c"
 uuid: "08a2af20-93fb-497e-b2a7-bde23c1bbdf5"
 stream_url: "https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie/"
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 14"
-  - "1 Jean 4"
-  - "Matthieu 13"
   - "Matthieu 21"
+  - "1 Jean 4"
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 13"
   - "Ésaïe 40"
+  - "Matthieu 13"
+  - "1 Corinthiens 12"
 ---
 ## Ou comment éprouver les signes — quatrième partie
 

@@ -45,10 +45,10 @@ mevar_match:
   similarity: 0.645
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 13"
-  - "Jean 3"
   - "Lévitique 2:13"
   - "Marc 9"
+  - "Jean 3"
+  - "1 Corinthiens 13"
   - "Matthieu 24:14"
 ---
 ## L'Offrande salée

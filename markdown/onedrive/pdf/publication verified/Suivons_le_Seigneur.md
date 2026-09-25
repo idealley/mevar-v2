@@ -49,8 +49,8 @@ mevar_match:
   similarity: 0.515
 llm_cleaned: true
 bible_refs:
-  - "Jean 12:26"
   - "Jean 3"
+  - "Jean 12:26"
 ---
 *Suivons le Seigneur, prêché le jeudi 10 novembre 2016 à Duekoué par le frère M'BRA Parfait*
 

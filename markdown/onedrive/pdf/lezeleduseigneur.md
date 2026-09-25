@@ -58,14 +58,14 @@ bible_refs:
   - "2 Rois 10"
   - "2 Rois 10:15-30"
   - "2 Rois 9"
-  - "Actes 22:1-5"
-  - "Actes 8"
-  - "Apocalypse 12"
-  - "Galates 1:13-17"
   - "Nombres 25"
+  - "Actes 22:1-5"
+  - "Galates 1:13-17"
   - "Romains 10"
+  - "Actes 8"
   - "Romains 12:11"
   - "Ésaïe 37:31"
+  - "Apocalypse 12"
 ---
 ## Le zèle pour l'Eternel
 

@@ -16,14 +16,14 @@ ghost_id: "6448fa86db90770001518fe7"
 uuid: "9dd9ed2a-b9dd-4d85-8696-397115c5e359"
 stream_url: "https://mevar.org/malheures-aux-enfants-rebelles/"
 bible_refs:
-  - "1 Jean 1:5"
-  - "Jean 3:19"
-  - "Luc 11:34-36"
-  - "Matthieu 6:7-8"
+  - "Ésaïe 30:1-3"
+  - "Ésaïe 30"
   - "Ésaïe 29"
   - "Ésaïe 29:15-16"
-  - "Ésaïe 30"
-  - "Ésaïe 30:1-3"
+  - "Jean 3:19"
+  - "Luc 11:34-36"
+  - "1 Jean 1:5"
+  - "Matthieu 6:7-8"
 ---
 ## Troisième exhortation de juillet 2009
 

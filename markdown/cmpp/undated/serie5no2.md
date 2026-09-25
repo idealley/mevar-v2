@@ -37,21 +37,21 @@ themes:
 pdf_url: "http://cmpp.ch/serie5no2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Timothée 3"
-  - "1 Timothée 6"
-  - "2 Corinthiens 5"
+  - "Hébreux 7"
   - "Apocalypse 10"
+  - "1 Timothée 6"
+  - "1 Timothée 3"
   - "Apocalypse 13:8"
+  - "Jean 1:1"
+  - "Romains 8"
+  - "2 Corinthiens 5"
   - "Apocalypse 19"
   - "Exode 33"
   - "Genèse 1"
   - "Genèse 18"
-  - "Hébreux 13"
-  - "Hébreux 7"
-  - "Jean 1:1"
   - "Jean 4"
+  - "Hébreux 13"
   - "Malachie 4"
-  - "Romains 8"
 ---
 SERIE 5, N° 2
 

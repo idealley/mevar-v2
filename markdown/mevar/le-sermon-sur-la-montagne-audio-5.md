@@ -21,10 +21,10 @@ ghost_id: "6448fa86db90770001518f6f"
 uuid: "513abe86-bc54-451b-9c69-427a2114d86a"
 stream_url: "https://mevar.org/le-sermon-sur-la-montagne-audio-5/"
 bible_refs:
-  - "Apocalypse 3"
-  - "Jacques 1"
-  - "Matthieu 6"
   - "Matthieu 7"
+  - "Matthieu 6"
+  - "Jacques 1"
+  - "Apocalypse 3"
 ---
 ## La bonne vision de la sanctification - cinquième partie
 

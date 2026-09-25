@@ -40,17 +40,17 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650429Semence.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 17"
-  - "Galates 3:16"
   - "Galates 4:27-31"
+  - "Joël 2:23"
+  - "Galates 3:16"
+  - "Apocalypse 17"
   - "Genèse 2"
   - "Jean 5:24"
   - "Jean 6:44,10"
-  - "Joël 2:23"
-  - "Luc 17"
-  - "Malachie 4"
-  - "Zacharie 14:7"
   - "Ésaïe 9:5"
+  - "Zacharie 14:7"
+  - "Malachie 4"
+  - "Luc 17"
 ---
 **Résumé de : “La semence n'héritera pas avec la balle” (29 avril 1965, soir)**
 

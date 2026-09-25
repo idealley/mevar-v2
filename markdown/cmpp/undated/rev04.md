@@ -50,9 +50,9 @@ themes:
 pdf_url: "http://cmpp.ch/rev04.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
   - "Exode 19"
   - "Hébreux 11"
+  - "1 Corinthiens 12"
 ---
 WILLIAM MARRION BRANHAM
 

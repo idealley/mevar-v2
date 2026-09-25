@@ -38,15 +38,15 @@ pdf_url: "http://le-scribe.org/pdfiles/561002Pere-heure-venue.pdf"
 llm_cleaned: true
 bible_refs:
   - "2 Chroniques 18:22-27"
-  - "2 Samuel 5:24"
-  - "Hébreux 11:4"
   - "Jean 17:1"
   - "Jude 1:12-13"
+  - "Matthieu 5:28"
+  - "Hébreux 11:4"
+  - "Marc 8:18"
+  - "Ésaïe 40"
   - "Luc 24:49"
   - "Marc 16"
-  - "Marc 8:18"
-  - "Matthieu 5:28"
-  - "Ésaïe 40"
+  - "2 Samuel 5:24"
 original: "branham/1956/56-1002A"
 ---
 **Père, l'heure est venue**

@@ -17,11 +17,11 @@ ghost_id: "664c99995f06290001fc7ecb"
 uuid: "f0a6323d-ea14-48c8-aa70-454f8ebb715a"
 stream_url: "https://mevar.org/le-jour-du-seigneur-il-viendra-comme-un-voleur/"
 bible_refs:
+  - "Apocalypse 16:15"
+  - "Apocalypse 16"
   - "1 Rois 22"
   - "1 Rois 22:19-21"
   - "2 Thessaloniciens 2"
-  - "Apocalypse 16"
-  - "Apocalypse 16:15"
 series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
 series_part: 2

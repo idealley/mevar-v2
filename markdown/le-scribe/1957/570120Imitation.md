@@ -43,9 +43,9 @@ llm_cleaned: true
 bible_refs:
   - "2 Timothée 4"
   - "2 Timothée 4:3-5"
-  - "Actes 26:24"
   - "Jean 6:37,40"
   - "Joël 2:28"
+  - "Actes 26:24"
   - "Juges 16:3"
   - "Ésaïe 53:5"
 original: "branham/1957/57-0120M"

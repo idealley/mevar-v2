@@ -38,8 +38,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/500813Dieu-revele.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 7"
   - "Exode 3:1"
+  - "2 Rois 7"
 original: "branham/1950/50-0813E"
 ---
 **1.** Nous sommes réunis afin de prier pour les malades. Lisons Exode 3:1 à 2

@@ -37,15 +37,15 @@ mevar_match:
   similarity: 0.645
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
-  - "1 Corinthiens 13"
-  - "1 Corinthiens 14:1"
   - "1 Corinthiens 8:1-3"
-  - "Actes 22:3"
   - "Actes 5:34"
+  - "Actes 22:3"
   - "Osée 4:6"
   - "Osée 6"
   - "Osée 6:6"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 14:1"
 ---
 ## L'AMOUR ET LA CONNAISSANCE
 

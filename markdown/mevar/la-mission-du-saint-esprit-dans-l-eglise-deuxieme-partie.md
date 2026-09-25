@@ -19,15 +19,15 @@ ghost_id: "6448fa86db90770001518f21"
 uuid: "f779926f-5c45-4402-9a9e-cdf258f1a7b9"
 stream_url: "https://mevar.org/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie/"
 bible_refs:
-  - "1 Corinthiens 12"
+  - "Jean 14"
+  - "Jean 14:15"
+  - "Actes 7:46"
   - "1 Corinthiens 12:1"
   - "1 Corinthiens 13"
   - "2 Pierre 1:5"
-  - "Actes 19"
-  - "Actes 7:46"
-  - "Jean 14"
-  - "Jean 14:15"
   - "Marc 16"
+  - "Actes 19"
+  - "1 Corinthiens 12"
 ---
 ## Deuxième partie
 

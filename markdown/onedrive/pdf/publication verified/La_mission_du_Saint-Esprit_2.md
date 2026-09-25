@@ -44,15 +44,15 @@ mevar_match:
   similarity: 0.642
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 12"
+  - "Jean 14"
+  - "Jean 14:15"
+  - "Actes 7:46"
   - "1 Corinthiens 12:1"
   - "1 Corinthiens 13"
   - "2 Pierre 1:5"
-  - "Actes 19"
-  - "Actes 7:46"
-  - "Jean 14"
-  - "Jean 14:15"
   - "Marc 16"
+  - "Actes 19"
+  - "1 Corinthiens 12"
 ---
 ## La mission du Saint-Esprit dans l’Eglise
 

@@ -50,16 +50,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630118Esprit-verite.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Rois 5:14"
-  - "Genèse 18:13"
-  - "Hébreux 1:1-2"
-  - "Hébreux 4:12"
-  - "Hébreux 4:15"
-  - "Jean 10:37-38"
   - "Jean 16:12"
+  - "Hébreux 1:1-2"
   - "Jean 1:12"
   - "Jean 5:39"
+  - "Jean 10:37-38"
+  - "Hébreux 4:12"
+  - "2 Rois 5:14"
   - "Luc 17:28"
+  - "Genèse 18:13"
+  - "Hébreux 4:15"
 original: "branham/1963/63-0118"
 ---
 **Résumé de!: “L’Esprit de vérité” (18 Janvier 1963)**
