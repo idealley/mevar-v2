@@ -28,15 +28,15 @@ bible_refs:
 ---
 ## Ecris à l'ange de l'église de Laodicée (Apocalypse 3.14)
 
-L'âge de Laodicée commence en 1906 lors du réveil de pentecôte à Azusa street. Comme tous les âges, après le réveil, cette église retombe dans l'organisation, dans le système des dénominations. Les hommes ne laissent pas la place à Dieu et préfèrent leur organisation humaine. C'est ce dont Dieu parle lorsqu'Il déclare : « Je connais tes œuvres » (Apocalypse 3:15). L'église est retournée aux œuvres. Comme tous les autres âges. C'est le retour aux dénominations. C'est en étudiant Apocalypse 2 que l'on peut comprendre. En effet le Seigneur Jésus déclare que l'église d'Ephèse a abandonné son premier amour et Il l'exhorte à revenir aux premières œuvres. Il faut revenir au premier amour pour pouvoir faire les premières œuvres, les œuvres justes qui viennent de Dieu.
+L'âge de Laodicée commence en 1906 lors du réveil de pentecôte à Azusa street. Comme tous les âges, après le réveil, cette église retombe dans l'organisation, dans le système des dénominations. Les hommes ne laissent pas la place à Dieu et préfèrent leur organisation humaine. C'est ce dont Dieu parle lorsqu'Il déclare : « Je connais tes œuvres » (Apocalypse 3 :15). L'église est retournée aux œuvres. Comme tous les autres âges. C'est le retour aux dénominations. C'est en étudiant Apocalypse 2 que l'on peut comprendre. En effet le Seigneur Jésus déclare que l'église d'Ephèse a abandonné son premier amour et Il l'exhorte à revenir aux premières œuvres. Il faut revenir au premier amour pour pouvoir faire les premières œuvres, les œuvres justes qui viennent de Dieu.
 
 L'église de Laodicée est une église tiède qui se croit riche mais qui est nue et pauvre. Elle est riche aux yeux du monde mais elle est pauvre et nue aux yeux de Dieu.
 
-La définition évidente que la Bible nous donne de Laodicée est qu'elle est tiède. (Apocalypse 3:16)
+La définition évidente que la Bible nous donne de Laodicée est qu'elle est tiède. (Apocalypse 3 :16)
 
 Mais si nous cherchons à comprendre la signification du nom même de Laodicée et d'où vient ce nom, alors la Parole s'éclaire et ce nom prend tout son sens.
 
-Avant d'être nommée Laodicée, cette ville s'appelait Diospolis, « Ville de Zeus ». Cette ville était donc nommée en l'honneur de Zeus et nous savons que le trône de Zeus était à Pergame. Ce trône c'est le trône de Satan (Apocalypse 2:13).
+Avant d'être nommée Laodicée, cette ville s'appelait Diospolis, « Ville de Zeus ». Cette ville était donc nommée en l'honneur de Zeus et nous savons que le trône de Zeus était à Pergame. Ce trône c'est le trône de Satan (Apocalypse 2 :13).
 
 C'est Antiochos II Théos qui renomme Diospolis en Laodicée en l'honneur de sa femme Laodice.
 

@@ -30,7 +30,7 @@ bible_refs:
 ---
 ## Exhortation de Mars 2014
 
-Je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette parole de Paul aux Corinthiens : _1 Pour ce qui concerne les viandes sacrifiées aux idoles, nous savons que nous avons tous la connaissance. **La connaissance enfle, mais l’amour édifie**. 2 **Si quelqu’un croit savoir quelque chose, il n’a pas encore connu comme il faut connaître.** 3 Mais si quelqu’un aime Dieu, celui-là est connu de lui._ (1 Corinthiens 8:1-3)
+Je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette parole de Paul aux Corinthiens : _1 Pour ce qui concerne les viandes sacrifiées aux idoles, nous savons que nous avons tous la connaissance. **La connaissance enfle, mais l’amour édifie**. 2 **Si quelqu’un croit savoir quelque chose, il n’a pas encore connu comme il faut connaître.** 3 Mais si quelqu’un aime Dieu, celui-là est connu de lui._ (1 Cor 8 :1-3)
 
 Mes bien-aimés frères et sœurs, j’ai souhaité aborder cette question avec vous par inspiration. L’Esprit a attiré mon attention sur ces propos de l’apôtre Paul durant une réunion de prière et cela m’a conduit dans la méditation. Il s’agit de **la connaissance et de l’amour.** L’auteur de cette déclaration était un homme plein de connaissance. En effet, Paul était un disciple de Gamaliel, docteur de la loi, qui a fait de lui aussi un docteur de la loi. (Actes 5:34) _Mais un pharisien, nommé Gamaliel, **docteur de la loi, estimé de tout le peuple,** se leva dans le sanhédrin, et ordonna de faire sortir un instant les apôtres._
 

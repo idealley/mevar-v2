@@ -57,7 +57,7 @@ Le mot « symbole » dans le texte grec est le mot _παραβολή parabolē_ 
 
 Nous pouvons encore un autre mot qui n’apparaît que deux fois dans le Nouveau Testament. C’est le mot _ἀντίτυπος (antitypos)_. Il apparaît dans Romains 9:24 et 1 Pierre 3:21
 
-> Car Christ n’est pas entré dans un sanctuaire fait de main d’homme, en **imitation** du véritable, mais il est entré dans le ciel même, afin de comparaître maintenant pour nous devant la face de Dieu. (Romains 9:24)
+> Car Christ n’est pas entré dans un sanctuaire fait de main d’homme, en **imitation** du véritable, mais il est entré dans le ciel même, afin de comparaître maintenant pour nous devant la face de Dieu. (Romain 9:24)
 
 > Cette eau était une **figure** du baptême, qui n’est pas la purification des souillures du corps, mais l’engagement d’une bonne conscience envers Dieu, et qui maintenant vous sauve, vous aussi, par la résurrection de Jésus- Christ (NEG 1979. 1 Pierre 3:21)
 

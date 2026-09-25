@@ -69,7 +69,7 @@ Résumé de : “L’Eglise partira-t-elle avant la tribulation” (9 mars 1958,
 
 Thème central : A chaque jointure des temps, Dieu lance un appel de grâce avant le jugement, et ainsi ceux qui entendent sont mis à l’abri.
 
-**1-2.** [Prière]. Lisons Luc 17:26 à 30
+**1-2.** [Prière]. Lisons Luc 17: 26 à 30
 > “(26) Ce qui arriva du temps de Noé arrivera de même aux jours du Fils de l’homme. (27) Les hommes mangeaient, buvaient, se mariaient et mariaient leurs enfants, jusqu’au jour où Noé entra dans l’arche ; le déluge vint, et les fit tous périr. (28) Ce qui arriva du temps de Lot arrivera pareillement. Les hommes mangeaient, buvaient, achetaient, vendaient, plantaient, bâtissaient ; (29) mais le jour où Lot sortit de Sodome, une pluie de feu et de soufre tomba du ciel. (30) Il en sera de même le jour où le Fils de l’homme paraîtra.”
 
 et aussi Genèse 19:22
@@ -79,7 +79,7 @@ et aussi Genèse 19:22
 
 **5-6.** Il est si tard, qu’il est presque trop tard pour l’Amérique. C’est la fin de la route. Je veux montrer ce soir combien nous sommes proches de la venue du Seigneur. Quelque chose se prépare, les églises se combattent, et les chrétiens sont nerveux. Quand nous voyons ces choses se produire, c’est que la rédemption est proche [cf. Mat. 24:33]. Il aime ses enfants et il les prévient. A chaque jointure des temps, Dieu lance un appel de grâce avant le jugement. Avant le Concile de Nicée et la formation de l’église catholique, l’époque était comme celle d’aujourd’hui, et les choses se répètent.
 
-**7-8.** A chaque jointure du temps, Dieu envoie un ange, un prophète, un message. A chaque fois, l’église le rejette. Noé a prêché 120 ans [Genèse 6:3]. Comme aujourd’hui, le message était pour sauver les gens, mais ils n’ont pas écouté. Jésus est sur le point de revenir pour son Eglise et pour nous faire entrer dans sa gloire. Quelle bénédiction c’est d’attendre ce rassemblement ! Il a dit de considérer les jours de Noé comme un exemple. Quand Caïn a tué Abel, Satan essayait de détruire la semence royale promise de la femme. Mais Jésus a remplacé Abel par Seth, un type de Christ ressuscité dans la future semence.
+**7-8.** A chaque jointure du temps, Dieu envoie un ange, un prophète, un message. A chaque fois, l’église le rejette. Noé a prêché 120 ans [Gen. 6:3]. Comme aujourd’hui, le message était pour sauver les gens, mais ils n’ont pas écouté. Jésus est sur le point de revenir pour son Eglise et pour nous faire entrer dans sa gloire. Quelle bénédiction c’est d’attendre ce rassemblement ! Il a dit de considérer les jours de Noé comme un exemple. Quand Caïn a tué Abel, Satan essayait de détruire la semence royale promise de la femme. Mais Jésus a remplacé Abel par Seth, un type de Christ ressuscité dans la future semence.
 
 **9-11.** Notez que Caïn était religieux et adorait l’Eternel. Il était respectable. Mais c’était un pseudo-croyant. Dans le monde, il y a les croyants, les incroyants et les pseudo-croyants. De cette lignée viennent les savants, alors que de l’autre lignée viennent les paysans. Il y avait une grande confusion avant que ne vienne la fin. Comme aujourd’hui, ils construisaient beaucoup. Nous avons parlé ce matin des missiles capables de détruire le monde. La science est du côté du mal. Dieu espère que ses enfants lui feront confiance en tout, mais l’homme compte sur ses propres mains. “Je suis le chemin, la vérité, la vie. Nul ne vient au Père que par moi” [Jean 14:6].
 
