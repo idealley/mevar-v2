@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022"
+duplicate_of: "mevar/face-a-face-avec-les-realites-de-la-foi"
 title: "FACE À FACE AVEC LES RÉALITÉS DE LA FOI"
 date: "2022-04-30"
 year: 2022

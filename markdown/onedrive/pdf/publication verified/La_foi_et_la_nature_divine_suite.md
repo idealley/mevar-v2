@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "La_foi_et_la_nature_divine_suite"
+duplicate_of: "mevar/la-foi-et-la-nature-divine-deuxieme-partie"
 title: "La Foi et la nature divine (SUITE)"
 subtitle: "Exhortation de Juillet 2015"
 date: "2015-07-26"

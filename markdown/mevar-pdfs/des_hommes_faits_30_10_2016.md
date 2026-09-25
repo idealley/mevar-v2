@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "des_hommes_faits_30_10_2016"
+duplicate_of: "mevar/des-hommes-faits"
 title: "Des hommes faits"
 date: "2016-10-30"
 year: 2016

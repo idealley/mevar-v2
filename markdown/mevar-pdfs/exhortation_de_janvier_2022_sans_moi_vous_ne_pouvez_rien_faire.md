@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire"
+duplicate_of: "mevar/sans-moi-vous-ne-pouvez-rien-faire"
 title: "SANS MOI VOUS NE POUVEZ RIEN FAIRE"
 date: "2022-01-01"
 year: 2022

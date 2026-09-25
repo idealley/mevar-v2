@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "LES_LIBERATEURS__"
+duplicate_of: "mevar/les-liberateurs-du-peuple-de-dieu"
 title: "Les libérateurs du peuple de Dieu"
 subtitle: "Exhortation de Juillet 2014"
 date: "2014-07-13"

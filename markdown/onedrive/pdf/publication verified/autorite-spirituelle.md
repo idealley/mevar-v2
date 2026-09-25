@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "autorite-spirituelle"
+duplicate_of: "mevar/l-autorite-spirituelle"
 title: "L'autorité spirituelle"
 subtitle: "Exhortation de Mai 2015"
 date: "2015-05-24"

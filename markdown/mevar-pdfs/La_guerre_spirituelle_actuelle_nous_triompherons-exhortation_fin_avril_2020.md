@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "La_guerre_spirituelle_actuelle_nous_triompherons_exhortation_fin_avril_2020"
+duplicate_of: "mevar/la-guerre-spirituelle-actuelle-nous-triompherons"
 title: "LA GUERRE SPIRITUELLE ACTUELLE – NOUS TRIOMPHERONS"
 date: "2020-04-30"
 year: 2020

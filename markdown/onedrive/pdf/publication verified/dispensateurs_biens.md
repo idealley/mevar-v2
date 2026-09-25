@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "dispensateurs_biens"
+duplicate_of: "mevar/dispensateurs-des-biens-du-christ"
 title: "Dispensateurs des biens du Christ"
 date: "2014-02-23"
 year: 2014

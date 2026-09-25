@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "suis_moi_samuel"
+duplicate_of: "mevar/suis-moi"
 title: "Suis-moi ! Comment être un disciple de Christ"
 year: 2019
 summary: "Cet article explore ce que signifie répondre à l'appel de Jésus à le suivre, en prenant l'exemple de Matthieu et du jeune homme riche. Il insiste sur la nécessité d'une consécration totale, de quitter le monde et de placer Christ à la première place, même au-dessus des liens familiaux. Le disciple doit porter sa croix, craindre Dieu plutôt que les hommes, et expérimenter la communion avec Dieu et les signes qui accompagnent la foi."

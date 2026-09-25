@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_nehemie_fevrier_2015"
+duplicate_of: "mevar/nehemie-echanson-du-roi-artaxerxes"
 title: "Néhémie – Échanson du Roi Artaxerxès"
 subtitle: "Exhortation de Février 2015"
 date: "2015-02-01"

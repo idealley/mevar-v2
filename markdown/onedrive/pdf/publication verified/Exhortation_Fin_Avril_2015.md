@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Exhortation_Fin_Avril_2015"
+duplicate_of: "mevar/notre-generation-verra-la-guerre"
 title: "NOTRE GENERATION VERRA LA GUERRE"
 subtitle: "Exhortation de Avril 2015"
 date: "2015-04-01"

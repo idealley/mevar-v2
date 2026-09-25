@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "Le_temoignage_de_Dieu_15_janvier_2022"
+duplicate_of: "mevar/le-temoignage-de-dieu"
 title: "Le témoignage de Dieu"
 date: "2022-01-15"
 year: 2022

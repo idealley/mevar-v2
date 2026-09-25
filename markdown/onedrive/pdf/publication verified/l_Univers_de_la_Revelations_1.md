@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "l_Univers_de_la_Revelations_1"
+duplicate_of: "mevar/l-univers-de-la-revelation"
 title: "L’Univers de la révélation 1"
 date: "2018-10-22"
 year: 2018

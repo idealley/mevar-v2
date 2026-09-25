@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "baton"
+duplicate_of: "mevar/le-baton-de-dieu"
 title: "Le bâton de Dieu"
 date: "2006-04-17"
 year: 2006

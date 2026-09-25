@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap10ministere"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "La parabole des talents"
 summary: "Cette exhortation explique la parabole des talents (Matthieu 25:14-30) en l'appliquant aux dons spirituels et aux ministères dans l'Église. Elle distingue deux groupes de dons (ministères de la Parole et dons du Saint-Esprit) et insiste sur la nécessité de les mettre en valeur pour la gloire de Dieu, sous peine de perdre ce qui a été reçu."
 tags:

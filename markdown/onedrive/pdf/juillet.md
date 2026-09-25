@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "juillet"
+duplicate_of: "mevar/reveillez-vous-et-preparez-la-guerre"
 title: "Exhortation du Mois de Juillet 2006"
 subtitle: "REVEILLEZ-VOUS ET PREPAREZ LA GUERRE !"
 date: "2006-07"

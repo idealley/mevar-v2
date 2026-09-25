@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Les_prisonniers-de-la_religion"
+duplicate_of: "mevar/les-prisonniers-de-la-religion"
 title: "Les prisonniers de la religion"
 date: "2007-03-24"
 year: 2007

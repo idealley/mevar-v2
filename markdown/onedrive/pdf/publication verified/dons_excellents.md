@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "dons_excellents"
+duplicate_of: "mevar/les-dons-excellents"
 title: "Les dons excellents"
 subtitle: "Exhortation de Novembre 2013"
 date: "2013-11-24"

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_fin_aout_2012"
+duplicate_of: "mevar/une-prophetie-sur-william-branham"
 title: "Une prophétie sur William Branham"
 subtitle: "Exhortation de Septembre 2012"
 date: "2012-09-01"

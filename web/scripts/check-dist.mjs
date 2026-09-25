@@ -29,9 +29,13 @@ function served(p) {
 }
 
 // 1. Ghost posts at their root URL; drafts nowhere.
+// A post's status is its frontmatter's, as the site builds it: Samuel
+// publishes a draft in markdown/, and mevar.json keeps what the Ghost import
+// said.
 const posts = read("mevar.json").filter((p) => p.type === "post");
-const published = posts.filter((p) => p.status === "published");
-const drafts = posts.filter((p) => p.status === "draft");
+const status = (p) => fs.readFileSync(path.join(web, "../markdown/mevar", `${p.sermon_id}.md`), "utf8").match(/^status: "(.+)"$/m)?.[1];
+const published = posts.filter((p) => status(p) === "published");
+const drafts = posts.filter((p) => status(p) === "draft");
 report(
   "every published Ghost post at /<slug>/",
   published.filter((p) => !served(`/${p.sermon_id}/`)).map((p) => `/${p.sermon_id}/ missing`),

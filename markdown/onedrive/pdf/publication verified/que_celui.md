@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "que_celui"
+duplicate_of: "mevar/que-celui-qui-a-des-oreilles-ecoute-ce-que-l-esprit-dit-aux-eglises"
 title: "Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises"
 date: "2007-11-08"
 year: 2007

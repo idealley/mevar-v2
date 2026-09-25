@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_mars2011"
+duplicate_of: "mevar/commencer-et-achever-la-marche-pas-lesprit"
 title: "COMMENCER ET ACHEVER LA MARCHE PAR L’ESPRIT"
 subtitle: "Exhortation de Mars 2011"
 date: "2011-03-01"

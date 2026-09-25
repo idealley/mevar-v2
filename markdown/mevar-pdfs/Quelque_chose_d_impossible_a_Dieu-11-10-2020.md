@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "Quelque_chose_d_impossible_a_Dieu_11_10_2020"
+duplicate_of: "mevar/y-a-t-il-quelque-chose-d-impossible-a-dieu"
 title: "Y a-t-il quelque chose d’impossible à Dieu ?"
 date: "2020-08-09"
 year: 2020

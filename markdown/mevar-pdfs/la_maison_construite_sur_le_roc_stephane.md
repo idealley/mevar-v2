@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "la_maison_construite_sur_le_roc_stephane"
+duplicate_of: "mevar/la-maison-construite-sur-le-roc"
 title: "La maison construite sur le roc"
 date: "2017-11-01"
 year: 2017

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "la_vision_prophetique"
+duplicate_of: "mevar/la-vision-prophetique-fait-la-difference"
 title: "La vision prophétique fait la différence"
 date: "2013-06-16"
 year: 2013

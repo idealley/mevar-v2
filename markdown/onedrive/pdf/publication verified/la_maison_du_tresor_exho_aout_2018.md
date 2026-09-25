@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "la_maison_du_tresor_exho_aout_2018"
+duplicate_of: "mevar/la-maison-du-tresor"
 title: "LA MAISON DU TRESOR"
 subtitle: "Exhortation d'Août 2018"
 date: "2018-08-01"

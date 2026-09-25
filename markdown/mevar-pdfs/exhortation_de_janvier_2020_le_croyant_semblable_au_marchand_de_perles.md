@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles"
+duplicate_of: "mevar/le-croyant-semblable-au-marchand-de-perles"
 title: "LE CROYANT SEMBLABLE AU MARCHAND DE PERLES"
 date: "2020-01-01"
 year: 2020

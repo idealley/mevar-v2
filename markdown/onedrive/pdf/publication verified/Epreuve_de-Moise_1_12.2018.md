@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Epreuve_de-Moise_1_12.2018"
+duplicate_of: "mevar/l-epreuve-de-moise"
 title: "L'épreuve de Moïse"
 subtitle: "Exhortation de Décembre 2018"
 date: "2018-12-17"

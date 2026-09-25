@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "Exhortation_de_Juillet_2019"
+duplicate_of: "mevar/la-position-de-sauveur"
 title: "LA POSITION DE SAUVEUR"
 date: "2019-07"
 year: 2019

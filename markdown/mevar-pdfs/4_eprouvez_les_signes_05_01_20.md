@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "4_eprouvez_les_signes_05_01_20"
+duplicate_of: "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie"
 title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu - 4e partie – ou Comment éprouver les signes"
 date: "2020-01-05"
 year: 2020

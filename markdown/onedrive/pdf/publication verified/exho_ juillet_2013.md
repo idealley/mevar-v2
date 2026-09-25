@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_ juillet_2013"
+duplicate_of: "mevar/qu-ismael-vive-devant-ta-face"
 title: "Qu'Ismaël vive devant ta face"
 subtitle: "Exhortation de Juillet 2013"
 date: "2013-07-01"

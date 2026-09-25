@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021"
+duplicate_of: "mevar/le-ministere-de-l-esprit-dans-le-royaume-de-dieu"
 title: "Le ministère de l’Esprit dans le royaume de Dieu"
 date: "2021-03-07"
 year: 2021

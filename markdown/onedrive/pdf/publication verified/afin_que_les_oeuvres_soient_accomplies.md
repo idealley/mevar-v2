@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "afin_que_les_oeuvres_soient_accomplies"
+duplicate_of: "mevar/afin-que-les-oeuvres-de-dieu-soient-accomplies"
 title: "Afin que les œuvres de Dieu soient accomplies"
 subtitle: "Exhortation de Septembre 2012"
 date: "2012-09-02"

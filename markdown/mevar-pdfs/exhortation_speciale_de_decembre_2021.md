@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_speciale_de_decembre_2021"
+duplicate_of: "mevar/le-temps-de-dieu"
 title: "LE TEMPS DE DIEU"
 date: "2021-12-01"
 year: 2021

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "le_repos_en_christ"
+duplicate_of: "mevar/le-repos-en-christ"
 title: "Le repos en Christ"
 date: "2013-10-20"
 year: 2013

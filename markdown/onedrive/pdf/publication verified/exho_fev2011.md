@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_fev2011"
+duplicate_of: "mevar/un-nouveau-ciel-une-nouvelle-terre-un-nouveau-peuple"
 title: "Un Nouveau Ciel - Une Nouvelle Terre - Un Nouveau Peuple"
 subtitle: "Exhortation de Février 2011"
 date: "2011-02-01"

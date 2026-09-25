@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "le_salut_selon_la_bible"
+duplicate_of: "mevar/le-salut-selon-la-bible"
 title: "Le Salut selon la Bible"
 year: 2019
 summary: "Cet article expose la conception biblique du salut, en insistant sur la foi en Jésus-Christ, la repentance, la nouvelle naissance, la sanctification, l'obéissance aux commandements et la vigilance contre les faux christs. Il affirme que le salut est un don de Dieu par la grâce, accessible à ceux qui croient et suivent Jésus avec un cœur repentant."

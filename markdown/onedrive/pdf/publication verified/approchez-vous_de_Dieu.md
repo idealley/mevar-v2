@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "approchez-vous_de_Dieu"
+duplicate_of: "mevar/untitled"
 title: "Approchez-vous de Dieu et Il s’approchera de vous"
 subtitle: "Exhortation de Janvier 2015"
 date: "2015-01-31"

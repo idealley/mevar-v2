@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "combat"
+duplicate_of: "mevar/combat-contre-le-peche"
 title: "Combat contre le péché"
 subtitle: "Exhortation de Janvier 2007"
 date: "2007-01-21"

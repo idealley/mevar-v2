@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Objet_de_la_Foi_pdf"
+duplicate_of: "mevar/l-objet-de-la-foi"
 title: "L'Objet de la foi"
 subtitle: "Exhortation de Décembre 2017"
 date: "2017-12-11"

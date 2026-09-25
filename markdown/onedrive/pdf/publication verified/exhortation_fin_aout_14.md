@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exhortation_fin_aout_14"
+duplicate_of: "mevar/la-revolte-de-sheba"
 title: "LA REVOLTE DE SCHEBA"
 subtitle: "Exhortation d'Août 2014"
 date: "2014-08-01"

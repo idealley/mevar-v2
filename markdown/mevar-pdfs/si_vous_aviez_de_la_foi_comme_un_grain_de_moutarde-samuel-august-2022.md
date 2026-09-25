@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde_samuel_august_2022"
+duplicate_of: "mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde"
 title: "La foi comme un grain de moutarde"
 date: "2022-08-17"
 year: 2022

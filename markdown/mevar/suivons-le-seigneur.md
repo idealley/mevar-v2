@@ -5,7 +5,7 @@ title: "Suivons le Seigneur"
 year: 2016
 published_at: "2016-11-09"
 type: "post"
-status: "draft"
+status: "published"
 url: "https://mevar.org/suivons-le-seigneur/"
 tags:
   - "Prédications"

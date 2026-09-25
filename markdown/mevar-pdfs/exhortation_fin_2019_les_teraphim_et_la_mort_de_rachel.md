@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel"
+duplicate_of: "mevar/les-teraphims-et-la-mort-de-rachel"
 title: "LES TÉRAPHIM ET LA MORT DE RACHEL"
 date: "2019-11"
 year: 2020

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_septembre_2019_braver_la_grande_foule"
+duplicate_of: "mevar/braver-la-grande-foule"
 title: "Braver la grande foule"
 date: "2019-09-01"
 year: 2019

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Exhortation_octobre_2017"
+duplicate_of: "mevar/les-coeurs-durs"
 title: "LES CŒURS DURS"
 subtitle: "Exhortation d'Octobre 2017"
 date: "2017-10-01"

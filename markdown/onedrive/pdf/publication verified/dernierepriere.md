@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "dernierepriere"
+duplicate_of: "mevar/la-derniere-priere-des-saints"
 title: "LA DERNIERE PRIERE DES SAINTS"
 date: "2006-04-19"
 year: 2006

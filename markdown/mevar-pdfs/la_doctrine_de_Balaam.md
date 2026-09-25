@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "la_doctrine_de_Balaam"
+duplicate_of: "mevar/la-doctrine-de-balaam"
 title: "La doctrine de Balaam"
 year: 2017
 summary: "Une étude sur Balaam, type du croyant charnel qui connaît Dieu mais suit son propre chemin, séduit par le monde et l'argent. L'histoire de Balaam sert d'avertissement pour l'Église de Pergame et pour les chrétiens d'aujourd'hui."

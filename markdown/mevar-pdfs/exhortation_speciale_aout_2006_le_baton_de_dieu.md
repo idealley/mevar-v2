@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_speciale_aout_2006_le_baton_de_dieu"
+duplicate_of: "mevar/le-baton-de-dieu"
 title: "Le bâton de Dieu"
 date: "2006-04-17"
 year: 2006

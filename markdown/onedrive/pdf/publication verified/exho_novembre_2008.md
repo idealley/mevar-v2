@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_novembre_2008"
+duplicate_of: "mevar/prenez-garde-a-ce-que-vous-entendez"
 title: "Exhortation du Mois de Novembre 2008"
 subtitle: "Prenez garde à ce que vous entendez"
 date: "2008-11-01"

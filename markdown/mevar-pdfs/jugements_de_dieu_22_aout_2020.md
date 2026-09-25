@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "jugements_de_dieu_22_aout_2020"
+duplicate_of: "mevar/les-jugements-de-dieu"
 title: "Les jugements de Dieu"
 date: "2020-08-22"
 year: 2020

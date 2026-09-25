@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "COVID_19_ou_la_mort_dans_les_nations_exhortation_mars_2020"
+duplicate_of: "mevar/covid-19-ou-la-mort-dans-les-nations"
 title: "COVID-19 OU LA MORT DANS LES NATIONS"
 date: "2020-03-01"
 year: 2020

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "7_sceaux_4"
+duplicate_of: "mevar/le-quatrieme-cinquieme-et-sixeme-sceaux"
 title: "Le Message des sept sceaux (Suite 4ᵉ, 5e et 6e Sceau)"
 date: "2019-07-22"
 year: 2019

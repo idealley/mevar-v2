@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "combat_contre_l_ennemi_2012_burkina"
+duplicate_of: "mevar/combat-contre-lennemi"
 title: "Combat contre l’ennemi"
 subtitle: "Exhortation d'Août 2012"
 date: "2012-08-31"

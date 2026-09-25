@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "les_sentiments_justes_exhortation_fevrier_2020"
+duplicate_of: "mevar/les-sentiments-justes"
 title: "Les Sentiments Justes"
 date: "2020-02-01"
 year: 2020

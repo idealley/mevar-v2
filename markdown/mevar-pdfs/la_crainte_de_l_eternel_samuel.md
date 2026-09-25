@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "la_crainte_de_l_eternel_samuel"
+duplicate_of: "mevar/la-crainte-de-l-eternel"
 title: "La Crainte de l’Eternel"
 year: 2019
 summary: "Ce texte exhorte le peuple de Dieu à craindre l’Éternel, ce qui est le commencement de la connaissance et de la sagesse. Il insiste sur l'obéissance aux commandements, la haine du mal, et la nécessité de persévérer dans la foi pour ne pas être retranché comme les branches naturelles d'Israël."

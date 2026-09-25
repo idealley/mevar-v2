@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_3_juillet"
+duplicate_of: "mevar/malheures-aux-enfants-rebelles"
 title: "Malheur aux enfants rebelles"
 subtitle: "Troisième exhortation de Juillet 2009"
 date: "2009-07-01"

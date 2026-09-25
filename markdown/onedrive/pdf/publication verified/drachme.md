@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "drachme"
+duplicate_of: "mevar/la-drachme-perdue"
 title: "La drachme perdue"
 subtitle: "Exhortation de Juin 2010"
 date: "2010-06-25"

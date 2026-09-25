@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "L_APPEL_DE_1933"
+duplicate_of: "mevar/l-appel-de-1933"
 title: "L'APPEL DE 1933"
 subtitle: "Exhortation de Juin 2015"
 date: "2015-06-21"

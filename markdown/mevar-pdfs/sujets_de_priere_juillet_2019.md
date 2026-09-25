@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "sujets_de_priere_juillet_2019"
+duplicate_of: "mevar/juillet-2019"
 title: "Sujets de Prière de Juillet 2019"
 date: "2019-07-01"
 year: 2019

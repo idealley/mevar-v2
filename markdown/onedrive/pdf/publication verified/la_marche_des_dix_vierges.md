@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "la_marche_des_dix_vierges"
+duplicate_of: "mevar/la-marche-prophetique-des-dix-vierges"
 title: "ETUDE BIBLIQUE : LA PARABOLE DES DIX VIERGES EXPLIQUEE (Matthieu 25)"
 date: "2013-10-29"
 year: 2013

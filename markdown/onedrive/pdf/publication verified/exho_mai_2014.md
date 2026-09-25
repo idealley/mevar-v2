@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_mai_2014"
+duplicate_of: "mevar/l-ile-de-patmos-l-ile-de-la-revelation"
 title: "L'ÎLE DE PATMOS – L'ÎLE DE LA REVELATION"
 subtitle: "Exhortation de Mai 2014"
 date: "2014-05-01"

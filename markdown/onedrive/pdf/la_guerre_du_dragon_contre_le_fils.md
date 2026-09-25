@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "la_guerre_du_dragon_contre_le_fils"
+duplicate_of: "mevar/la-guerre-du-dragon-contre-le-fils-de-l-eglise"
 title: "La guerre du Dragon contre le Fils de l'Eglise"
 subtitle: "Exhortation de Janvier 2012"
 date: "2012-01-19"

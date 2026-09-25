@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "les_disciples_de_jean_baptiste_31_08_2019"
+duplicate_of: "mevar/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste"
 title: "Les croyants du Message du Temps de la Fin comme les disciples de Jean-Baptiste"
 date: "2019-08-31"
 year: 2019

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "FAIRE_DIEU_MENTEUR"
+duplicate_of: "mevar/faire-dieu-menteur"
 title: "Faire Dieu menteur"
 subtitle: "Exhortation d'Avril 2016"
 date: "2016-04-10"

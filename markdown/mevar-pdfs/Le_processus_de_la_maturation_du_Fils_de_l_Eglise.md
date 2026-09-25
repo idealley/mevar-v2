@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "Le_processus_de_la_maturation_du_Fils_de_l_Eglise"
+duplicate_of: "mevar/le-processus-de-la-maturation-du-fils-de-l-eglise"
 title: "Le Processus de la maturation du fils de l’Église"
 date: "2015-12-17"
 year: 2015
