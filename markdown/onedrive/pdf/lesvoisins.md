@@ -52,6 +52,7 @@ bible_refs:
   - "Juges 2"
   - "Juges 2:20"
   - "Tite 2"
+  - "Tite 2:3"
 ---
 ## Les voisins
 

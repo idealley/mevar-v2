@@ -51,6 +51,7 @@ bible_refs:
   - "1 Corinthiens 3"
   - "Actes 1"
   - "Actes 17"
+  - "Actes 18:24"
   - "Apocalypse 10"
   - "Apocalypse 2"
   - "Exode 4"

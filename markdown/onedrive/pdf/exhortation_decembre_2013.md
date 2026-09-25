@@ -43,6 +43,7 @@ bible_refs:
   - "1 Timothée 2:8"
   - "2 Samuel 16:5-13"
   - "Exode 20:2-6"
+  - "Jacques 4"
   - "Jacques 4:8-10"
   - "Jacques 5:13"
   - "Job 17:9"

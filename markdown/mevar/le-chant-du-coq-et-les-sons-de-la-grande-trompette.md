@@ -57,9 +57,11 @@ bible_refs:
   - "Matthieu 13:39"
   - "Matthieu 22:11-14"
   - "Matthieu 24:31"
+  - "Matthieu 25"
   - "Matthieu 25:5-6"
   - "Matthieu 25:8-9"
   - "Michée 4:14"
+  - "Nombres 10"
   - "Nombres 10:1-3"
   - "Nombres 10:5-6"
   - "Nombres 10:9"
@@ -70,8 +72,6 @@ bible_refs:
   - "Zacharie 14"
   - "Zacharie 14:6-7"
   - "Zacharie 14:7"
-  - "Ésaïe 11:11-12"
-  - "Ésaïe 18:1-3"
 ---
 ### Exhortation spéciale de Novembre 2024
 

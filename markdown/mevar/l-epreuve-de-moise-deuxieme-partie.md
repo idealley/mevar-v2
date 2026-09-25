@@ -22,6 +22,9 @@ stream_url: "https://mevar.org/l-epreuve-de-moise-deuxieme-partie/"
 bible_refs:
   - "1 Corinthiens 10"
   - "Ecclésiaste 9"
+  - "Jacques 1:19"
+  - "Proverbes 14:29"
+  - "Proverbes 19:11"
 ---
 ## Deuxième partie
 

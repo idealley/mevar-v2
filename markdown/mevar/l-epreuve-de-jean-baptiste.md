@@ -22,6 +22,7 @@ stream_url: "https://mevar.org/l-epreuve-de-jean-baptiste/"
 bible_refs:
   - "1 Thessaloniciens 5:19"
   - "Jean 1"
+  - "Jean 1:19"
   - "Jean 1:19-34"
   - "Juges 6:25-29"
   - "Malachie 3"

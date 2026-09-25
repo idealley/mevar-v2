@@ -66,10 +66,12 @@ bible_refs:
   - "Marc 16"
   - "Marc 7"
   - "Matthieu 24"
+  - "Matthieu 28"
   - "Matthieu 4"
   - "Nombres 24"
   - "Psaumes 22"
   - "Ésaïe 42"
+  - "Ésaïe 42:1-7"
 ---
 SERIE 4, N° 4
 

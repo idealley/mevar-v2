@@ -26,6 +26,7 @@ bible_refs:
   - "1 Corinthiens 10:1"
   - "1 Rois 19:15-16"
   - "1 Samuel 8"
+  - "Apocalypse 22"
   - "Hébreux 12"
   - "Matthieu 24"
   - "Matthieu 24:45-47"

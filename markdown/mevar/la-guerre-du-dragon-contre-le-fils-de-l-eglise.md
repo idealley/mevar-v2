@@ -19,6 +19,7 @@ uuid: "7e887e3c-0a2b-4440-b06f-a70e7f6fc185"
 stream_url: "https://mevar.org/la-guerre-du-dragon-contre-le-fils-de-l-eglise/"
 bible_refs:
   - "Apocalypse 12"
+  - "Apocalypse 12:1"
   - "Matthieu 24"
 ---
 Nous remercions le Seigneur pour ce moment et pour le travail qu’Il est en train de faire parmi nous dans l’Eglise. Nous sommes dans un temps où l’Esprit de Dieu parle à l’Eglise et effectivement, chacun d’entre nous doit prêter attention pour écouter la voix de l’Esprit. **Parce que notre marche est spirituelle. C’est ce qui fait la difficulté pour plusieurs personnes, pour plusieurs qui n’arrivent pas à suivre, c’est parce que la marche est spirituelle.** Si c’était une marche dans la chair, c’était plus facile. Amen ! Tu vois une colonne de personnes qui est en train de marcher dans une certaine direction, tu les suis. Cela est facile.

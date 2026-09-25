@@ -51,6 +51,7 @@ bible_refs:
   - "Actes 2:38"
   - "Apocalypse 22"
   - "Apocalypse 22:1-2"
+  - "Galates 5:19"
   - "Genèse 1"
   - "Genèse 1:27-28"
   - "Genèse 2"
@@ -61,12 +62,15 @@ bible_refs:
   - "Hébreux 12"
   - "Hébreux 13"
   - "Jean 17"
+  - "Jean 3"
   - "Jean 3:16"
   - "Jean 7:38-39"
   - "Marc 3:28-29"
   - "Matthieu 13"
   - "Matthieu 22"
   - "Romains 12:2"
+  - "Romains 8:1-14"
+  - "Tite 3:3-6"
 ---
 ## Les deux arbres
 

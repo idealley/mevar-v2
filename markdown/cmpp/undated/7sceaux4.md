@@ -50,6 +50,7 @@ bible_refs:
   - "Apocalypse 19"
   - "Apocalypse 2"
   - "Esther 9"
+  - "Hébreux 4"
   - "Jean 14"
   - "Joël 2"
   - "Malachie 4"

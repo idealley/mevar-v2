@@ -27,6 +27,7 @@ bible_refs:
   - "Apocalypse 17"
   - "Apocalypse 18"
   - "Apocalypse 3:14"
+  - "Apocalypse 4"
   - "Apocalypse 4:7"
   - "Apocalypse 6"
   - "Daniel 4:29-33"

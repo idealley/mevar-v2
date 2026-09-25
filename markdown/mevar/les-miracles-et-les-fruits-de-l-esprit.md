@@ -21,8 +21,11 @@ bible_refs:
   - "1 Corinthiens 12"
   - "1 Corinthiens 13"
   - "2 Pierre 1"
+  - "2 Pierre 1:5-11"
   - "Apocalypse 3"
+  - "Galates 5:19-24"
   - "Galates 5:22"
+  - "Marc 16:15-19"
 ---
 On va lire Mathieu chapitre 7 à partir du verset 15 :
 

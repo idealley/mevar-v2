@@ -46,6 +46,7 @@ mevar_match:
   similarity: 0.535
 llm_cleaned: true
 bible_refs:
+  - "Genèse 5:21"
   - "Hébreux 11"
   - "Luc 17"
 ---

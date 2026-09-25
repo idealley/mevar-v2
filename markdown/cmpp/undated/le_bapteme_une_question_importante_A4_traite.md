@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 28"
   - "Romains 13"
   - "Romains 6"
+  - "Romains 6:3,4"
   - "Éphésiens 1"
 ---
 LE BAPTEME? UNE QUESTION IMPORTANTE!

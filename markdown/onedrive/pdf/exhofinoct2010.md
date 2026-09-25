@@ -59,6 +59,7 @@ bible_refs:
   - "Apocalypse 3"
   - "Apocalypse 3:17"
   - "Daniel 1:5-8"
+  - "Deutéronome 6"
   - "Deutéronome 6:13-19"
   - "Exode 30:31-33"
   - "Galates 5"
@@ -93,7 +94,6 @@ bible_refs:
   - "Matthieu 7:22"
   - "Philippiens 3:13-14"
   - "Proverbes 23"
-  - "Proverbes 23:20-22"
 ---
 ## SIMON LE MAGICIEN
 

@@ -46,6 +46,7 @@ bible_refs:
   - "Hébreux 3"
   - "Jean 1"
   - "Jean 4"
+  - "Malachie 4"
   - "Marc 12"
   - "Matthieu 24"
   - "Matthieu 9"

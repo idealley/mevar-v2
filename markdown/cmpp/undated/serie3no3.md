@@ -62,6 +62,7 @@ bible_refs:
   - "Exode 25"
   - "Exode 26"
   - "Exode 27"
+  - "Exode 3:1-12"
   - "Jean 6"
   - "Malachie 4"
 ---

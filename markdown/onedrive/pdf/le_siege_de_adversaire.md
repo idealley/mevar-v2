@@ -46,6 +46,7 @@ bible_refs:
   - "1 Corinthiens 6:19"
   - "1 Thessaloniciens 4"
   - "2 Corinthiens 6:15"
+  - "2 Thessaloniciens 2"
   - "2 Thessaloniciens 2:1-12"
   - "Apocalypse 12"
   - "Apocalypse 3"

@@ -47,6 +47,8 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 13"
   - "1 Corinthiens 3"
+  - "Apocalypse 13"
+  - "Apocalypse 3:14"
   - "Jacques 5"
   - "Jean 19"
   - "Luc 1"
@@ -54,6 +56,7 @@ bible_refs:
   - "Matthieu 17"
   - "Matthieu 2"
   - "Osée 11"
+  - "Romains 11:15-27"
 ---
 WILLIAM MARRION BRANHAM
 

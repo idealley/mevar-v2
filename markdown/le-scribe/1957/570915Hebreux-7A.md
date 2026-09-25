@@ -56,6 +56,7 @@ bible_refs:
   - "Genèse 14:18-19"
   - "Genèse 18"
   - "Genèse 3:16"
+  - "Hébreux 7"
   - "Hébreux 7:1-3"
   - "Hébreux 7:11"
   - "Hébreux 7:4"

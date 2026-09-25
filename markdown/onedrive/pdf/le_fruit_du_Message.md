@@ -41,6 +41,9 @@ themes:
   - "Élus et appelés"
 llm_cleaned: true
 bible_refs:
+  - "Apocalypse 12"
+  - "Jean 15:15-16"
+  - "Matthieu 13"
   - "Ésaïe 40"
 ---
 ## Le fruit du Message

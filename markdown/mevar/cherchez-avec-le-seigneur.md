@@ -20,6 +20,7 @@ stream_url: "https://mevar.org/cherchez-avec-le-seigneur/"
 bible_refs:
   - "2 Corinthiens 1:20"
   - "Actes 26:18"
+  - "Aggée 1"
   - "Hébreux 11:1"
   - "Jean 11:42"
   - "Jean 14"

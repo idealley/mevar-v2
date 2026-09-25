@@ -49,6 +49,9 @@ llm_cleaned: true
 bible_refs:
   - "1 Rois 17:1"
   - "1 Rois 18"
+  - "2 Timothée 4:1"
+  - "Actes 8"
+  - "Actes 8:5"
   - "Actes 8:5-24"
   - "Apocalypse 12"
   - "Apocalypse 17"

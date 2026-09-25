@@ -47,6 +47,7 @@ bible_refs:
   - "Apocalypse 14"
   - "Apocalypse 14:6"
   - "Apocalypse 22"
+  - "Apocalypse 6"
   - "Daniel 10:10-11"
   - "Daniel 10:13"
   - "Luc 22"

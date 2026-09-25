@@ -43,10 +43,12 @@ llm_cleaned: true
 bible_refs:
   - "Apocalypse 10"
   - "Daniel 7"
+  - "Hébreux 4"
   - "Jean 14"
   - "Jérémie 32"
   - "Matthieu 1"
   - "Matthieu 28"
+  - "Ésaïe 28:10"
 ---
 WILLIAM MARRION BRANHAM
 

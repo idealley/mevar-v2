@@ -47,6 +47,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 12"
   - "Actes 19"
+  - "Jean 14:15"
   - "Jean 15"
   - "Jean 16"
   - "Marc 16"

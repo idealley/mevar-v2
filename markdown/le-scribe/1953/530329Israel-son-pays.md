@@ -44,6 +44,7 @@ bible_refs:
   - "Exode 17"
   - "Genèse 3:15"
   - "Hébreux 12:2"
+  - "Josué 1"
   - "Josué 2"
   - "Josué 5:13"
   - "Matthieu 6:21"

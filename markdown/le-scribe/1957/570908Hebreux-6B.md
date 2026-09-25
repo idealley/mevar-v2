@@ -52,6 +52,7 @@ bible_refs:
   - "Galates 5:22"
   - "Genèse 20"
   - "Hébreux 10:26-29"
+  - "Hébreux 6"
   - "Hébreux 6:11-14"
   - "Hébreux 6:4"
   - "Hébreux 6:7,8"

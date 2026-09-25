@@ -21,7 +21,12 @@ bible_refs:
   - "1 Corinthiens 11"
   - "1 Rois 19"
   - "2 Corinthiens 3"
+  - "Actes 9"
+  - "Exode 3"
+  - "Galates 1"
   - "Jean 15"
+  - "Josué 1"
+  - "Josué 5"
 ---
 Est-ce qu’il y a des gens qui nous rendent visite pour la première fois ce matin ? Non ? Amen ! Le ministère de l’Esprit dans le royaume de Dieu. Est-ce que dans l’Ancien Testament, il y avait le ministère de l’Esprit ? Dimanche passé, de quoi avons-nous parlé ? Nous avons parlé de « **l’ancien testament et le royaume de Dieu »**. Et qu’est-ce qu’on a dit ? Vous savez, quand on prêche, retenez la pensée de Dieu et faites une petite conclusion de ce que vous pouvez retenir de votre compréhension. On ne peut pas aller dans les petits détails. **Dans le royaume de Dieu, le chrétien est régénéré par la parole de Dieu et il devient le temple du Saint-Esprit, Dieu en nous**. Être chrétien, veut dire que Dieu vit en toi par le Saint-Esprit. Dans l’Ancien Testament, cela n’existait pas. Et pourquoi ? Parce que dans la nouvelle alliance en Jésus-Christ, il y a ce qu’on appelle la nouvelle naissance, c’est-à-dire, la régénération de l’homme intérieure qui a chuté dans le jardin d’Éden. En Christ, il a été relevé, donc il a été régénéré par la puissance de Dieu.
 

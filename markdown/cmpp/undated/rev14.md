@@ -41,6 +41,10 @@ llm_cleaned: true
 bible_refs:
   - "1 Pierre 1"
   - "Actes 2"
+  - "Apocalypse 19"
+  - "Apocalypse 4"
+  - "Apocalypse 5"
+  - "Luc 3:15"
   - "Lévitique 25"
   - "Matthieu 1"
   - "Matthieu 28"

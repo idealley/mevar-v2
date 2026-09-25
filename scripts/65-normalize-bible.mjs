@@ -127,8 +127,77 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
   return out;
 }
 
+// A preacher reading his text aloud: "Luc chapitre 18 verset 9", "2 Corinthiens,
+// chapitre 3", "le verset 15 du chapitre 3 de la Genèse". Only the full book
+// name: the abbreviations are words ("on a lu le chapitre 11", "c'est au
+// chapitre 17", "le texte hébreu, au chapitre 18"). Any case: the transcripts
+// write "dans apocalypse chapitre 12".
+const FULL_ALT = variantsSorted // "II Rois" is "2 Rois" in full
+  .filter((v) => normForMatch(v).replace(/^(i{1,3}) /, (m, i) => `${i.length} `).startsWith(normForMatch(VARIANT_TO_CANONICAL.get(normForMatch(v)))))
+  .map(escRe)
+  .join("|");
+const BOOK_END = "(?![\\p{L}\\-'’])"; // not "Jean-Baptiste"
+// "Pierre", "Cor", …: after "et 2" they start the next citation ("verset 16 et
+// 1 Jean chapitre 4"), not after "et 14". New Ghost posts are still read by
+// this script.
+const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().filter((v) => / /.test(v)).map((v) => v.replace(/^\S+ /, "")))]
+  .sort((a, b) => b.length - a.length)
+  .map(escRe)
+  .join("|");
+const RANGE = "\\s*(?:[\\-\\u2013\\u2014]|à)\\s*";
+// Not "à 19:3", a chapter. Tight: in "versets 35 : 35 A moi", the colon opens
+// the quote.
+const NOT_NEXT = "(?![:.]\\d|\\d)";
+// After a start verse: its last ("à 14", "au verset 14", "jusqu'au verset 14")
+// and a second verse or range after "et" or a comma ("versets 12 et 15",
+// "11.25,26").
+const TAIL =
+  `(?:${RANGE}(?<end>\\d{1,3})|\\s+(?:au|jusqu['’]au)\\s+verset\\s+(?<endSaid>\\d{1,3}))?${NOT_NEXT}` +
+  `(?:(?:\\s+et\\s+|,)(?<more>\\d{1,3}(?:${RANGE}\\d{1,3})?)${NOT_NEXT}(?!(?<=(?<!\\d)[1-3])\\s+(?:${NUMBERED})(?!\\p{L})))?`;
+// The verse after the chapter: "chapitre 3:14", "chapitre 11.1-3" (CMPP),
+// "verset 9", "le verset 38", "(versets 13-14", "à partir du premier verset",
+// "depuis le verset 25", "et au verset 18", "du verset 1 au verset 6".
+const VERSES =
+  "(?:(?:(?:\\s*:\\s*|\\.)(?<num>\\d{1,3})|[\\s,(]*(?:(?:à\\s+partir\\s+)?d[ue]s?\\s+|(?:depuis|dès)\\s+le\\s+|(?:et\\s+)?aux?\\s+|les?\\s+)?" +
+  "(?:versets?\\s+(?<said>\\d{1,3})|(?<first>premier)\\s+verset|verset\\s+(?<firstAfter>premier)))" + TAIL + ")?";
+// The verse before the chapter, in the reverse form: "le verset 15 du chapitre
+// 3", "le premier verset du chapitre 6", "le 3ème verset du", "les versets 15
+// à 27 du", "verset 10 et 11 du".
+const BEFORE =
+  "(?:(?:(?:le|au|du|les|aux)\\s+)?(?:(?<bFirst>premier)\\s+verset|(?<!\\d)(?<bOrd>\\d{1,3})(?:e|ème|eme)\\s+verset|" +
+  `versets?\\s+(?<bSaid>\\d{1,3})(?:${RANGE}(?<bEnd>\\d{1,3}))?(?:\\s+et\\s+(?<bMore>\\d{1,3}))?)\\s+du\\s+)?`;
+const SPOKEN = [
+  new RegExp(`(?<![\\p{L}\\d])(?<book>${FULL_ALT}),?\\s+(?:au\\s+|le\\s+)?chapitre\\s+(?<chapter>\\d{1,3})(?!\\d)${VERSES}`, "giu"),
+  new RegExp(
+    `${BEFORE}chapitre\\s+(?<chapter>\\d{1,3})${VERSES}\\s+` +
+    "(?:du\\s+livre\\s+|de\\s+l['’]\\s*(?:[ée]p[iî]tre|[ée]vangile)\\s+)?" +
+    `(?:de\\s+la\\s+|de\\s+l['’]\\s*|des\\s+|de\\s+|d['’]\\s*|aux\\s+|selon\\s+)(?<book>${FULL_ALT})${BOOK_END}` +
+    VERSES.replace(/\(\?<(\w+)>/g, "(?<a$1>"), // the same groups, prefixed "a"
+    "giu",
+  ),
+];
+
+// The verse said before the chapter wins; then the one between chapter and
+// book ("chapitre 3.20-23 des Actes"); then the one after the book.
+function spoken({ book: bookVariant, chapter, ...g }) {
+  const book = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
+  const v = g.bSaid || g.bOrd || g.bFirst
+    ? { start: g.bFirst ? "1" : g.bSaid ?? g.bOrd, end: g.bEnd, more: g.bMore }
+    : g.num || g.said || g.first || g.firstAfter
+      ? { start: g.first || g.firstAfter ? "1" : g.num ?? g.said, end: g.end ?? g.endSaid, more: g.more }
+      : { start: g.afirst || g.afirstAfter ? "1" : g.anum ?? g.asaid, end: g.aend ?? g.aendSaid, more: g.amore };
+  const verseEnd = Number(v.end) > Number(v.start) ? v.end : undefined;
+  const extra = v.more?.replace(/\s*à\s*/iu, "-");
+  if (!isPossible(book, chapter, [v.start, verseEnd, ...(extra ?? "").split(/\D+/)])) {
+    dropped++;
+    return null;
+  }
+  return renderRef({ book, chapter, verseStart: v.start, verseEnd, extra });
+}
+
 function normalize(md) {
   const found = [];
+  for (const re of SPOKEN) for (const m of md.matchAll(re)) found.push(spoken(m.groups));
   for (const match of md.matchAll(REF_RE)) {
     const [, bookVariant, , , verseEnd, extra] = match;
     let [, , chap, verseStart] = match;
@@ -152,7 +221,7 @@ function normalize(md) {
     });
     found.push(rendered);
   }
-  return [...new Set(found)].sort();
+  return [...new Set(found.filter(Boolean))].sort();
 }
 
 // ─── Driver ──────────────────────────────────────────────────────────────────

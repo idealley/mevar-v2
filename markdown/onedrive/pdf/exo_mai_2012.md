@@ -55,6 +55,7 @@ bible_refs:
   - "Apocalypse 12"
   - "Apocalypse 12:5"
   - "Genèse 3"
+  - "Genèse 3:15"
   - "Hébreux 11"
   - "Hébreux 11:24-27"
   - "Hébreux 11:6"

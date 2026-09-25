@@ -32,6 +32,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 17:1-5"
   - "Apocalypse 18:1-3"
+  - "Daniel 2"
   - "Daniel 2:32-33"
   - "Daniel 2:34-35"
   - "Daniel 2:44-45"

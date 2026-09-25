@@ -48,6 +48,7 @@ bible_refs:
   - "2 Timothée 3"
   - "Actes 2"
   - "Apocalypse 17"
+  - "Apocalypse 22"
   - "Hébreux 10"
   - "Hébreux 13"
   - "Hébreux 6"
@@ -55,6 +56,7 @@ bible_refs:
   - "Jean 14"
   - "Jean 15"
   - "Joël 2"
+  - "Luc 23:33"
   - "Malachie 4"
   - "Marc 16"
 ---

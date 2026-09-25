@@ -30,12 +30,6 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: add the glued numbered forms ("1Jean", "2Rois", …) to BOOKS_FR, then refuse a digit before a book name, and check the 47.
 
-## 65 does not read "<Livre>, chapitre N"
-
-**Status**: goal 07 taught 66 the spoken English forms ("Saint John the 4th chapter"); 65 has no French equivalent. "Nous allons lire dans 2 Corinthiens, chapitre 3" records nothing. Measured 2026-09-24: 1,560 such spots in 479 French files, about 1,000 with no matching ref. The landing check of goal 07 made one visible: `le-ministere-de-lesprit` had `2 Corinthiens 3` only because a Ghost bookmark card quoted it, and lost it when goal 03 removed the card.
-
-**Fix**: a spoken pattern in 65 (`<Livre>,? (au )?chapitre <N>(, (au )?verset <M>)?`), recorded without rewriting the text, as in 66.
-
 ## Running headers are recorded as refs
 
 **Status**: the printed page header "AN EXODUS 19" (with the page number) gives `Exodus 19, 21, 23 … 35` in `56-0615.md`; `GENESIS`, `JOB`, `EXODUS` headers elsewhere the same. 66 matches case-insensitively and its prose rule only refuses a lowercase book name. Since goal 07 the headers are back in capitals in the text, so an all-capitals rule would now catch them. Part of the page-furniture item below.
@@ -56,13 +50,13 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## `47` truncates `bible_refs` alphabetically at 50
 
-**Status**: 90 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah` — 3,956 references in all. `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut.
+**Status**: 92 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah`: 4,059 references in all (2026-09-25). `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut. A new ref can push an old one out: goal 11's spoken refs took 38 out of the frontmatter of 25 files (`qui-est-dieu` no longer lists `Zacharie 12:10`).
 
 **Fix**: decide what the page should show, then either lift the cap or keep the references in order of appearance rather than alphabetically. The normalizer sorts them, so order of appearance is not recoverable today.
 
 ## `100` keeps only the first verse group of a list
 
-**Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 875 of 38,118 refs carry a list (goal 07 added the "and" lists).
+**Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 941 of 39,225 refs carry a list (goal 07 added the "and" lists, goal 11 the French "versets 12 et 15").
 
 **Fix**: split a list into one `bible_ref` per group at ingest (and a `cites` edge to each), or have 65/66 emit one ref per group. Needs a SurrealDB run to verify; none was available for goal 07.
 

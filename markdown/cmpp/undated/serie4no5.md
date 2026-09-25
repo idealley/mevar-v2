@@ -66,9 +66,11 @@ bible_refs:
   - "Hébreux 13"
   - "Hébreux 4"
   - "Jean 14"
+  - "Jean 4"
   - "Malachie 4"
   - "Nombres 12"
   - "Nombres 21"
+  - "Zacharie 12:10"
   - "Ésaïe 45"
 ---
 SERIE 4, N° 5

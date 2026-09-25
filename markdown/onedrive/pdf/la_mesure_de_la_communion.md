@@ -35,6 +35,7 @@ bible_refs:
   - "Apocalypse 22"
   - "Galates 6:7-8"
   - "Luc 6"
+  - "Luc 6:38"
   - "Marc 12"
   - "Marc 12:41-44"
   - "Matthieu 25:10"

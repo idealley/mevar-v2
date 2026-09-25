@@ -17,6 +17,7 @@ ghost_id: "6448fa86db90770001518f2e"
 uuid: "f6429a5e-f508-4027-bf1d-dec6e823c627"
 stream_url: "https://mevar.org/la-foi-d-enoch/"
 bible_refs:
+  - "Genèse 5:21"
   - "Hébreux 11"
   - "Luc 17"
 ---

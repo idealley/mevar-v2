@@ -18,7 +18,10 @@ ghost_id: "6448fa86db90770001518ef6"
 uuid: "3f3a6cc1-6950-4501-9aab-701d0b63c14f"
 stream_url: "https://mevar.org/a-moi-la-retribution-a-moi-la-vengeance/"
 bible_refs:
+  - "Deutéronome 32:35"
+  - "Deutéronome 7"
   - "Proverbes 11"
+  - "Proverbes 11:28"
   - "Ésaïe 35"
 ---
 Alléluia ! Je voudrais donner un enseignement ce matin sur ce sujet pour attirer l’attention de chacun d’entre nous sur le déroulement de la vie chrétienne de tous les jours et aussi sur le déroulement de la vie sur la terre, parce que c’est un sujet qui concerne à la fois ceux qui sont chrétiens et aussi ceux qui ne sont pas chrétiens. Amen ! **Si les hommes souffrent sur la terre, c’est parce qu’ils ne connaissent pas les lois de Dieu**. Les hommes veulent ignorer qu’il existe un créateur. Qu’on soit chrétien, qu’on ne soit pas chrétien ; **qui que nous soyons sur cette terre, pourvu que nous soyons homme, on ne doit pas ignorer qu’il existe un créateur qui a fait les cieux et la terre, qui a établi partout des lois ; qui a établi des manières de vivre et de se comporter pour être en harmonie avec son corps, son âme, son esprit et aussi avec les autres ;** Et même avec le reste de la création. Je parle même de la nature, des animaux, de Dieu Lui-même et des anges.

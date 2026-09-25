@@ -42,6 +42,7 @@ bible_refs:
   - "Genèse 38:6-11"
   - "Juges 19"
   - "Matthieu 18"
+  - "Proverbes 7"
 ---
 ## La femme étrangère
 

@@ -53,7 +53,9 @@ bible_refs:
   - "2 Timothée 4"
   - "Actes 26"
   - "Genèse 6"
+  - "Hébreux 11"
   - "Jean 14"
+  - "Luc 14:16"
   - "Marc 16"
   - "Matthieu 22"
 ---

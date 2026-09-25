@@ -61,6 +61,7 @@ bible_refs:
   - "Marc 5"
   - "Matthieu 24"
   - "Matthieu 28"
+  - "Romains 4:20"
   - "Ésaïe 9"
 ---
 SERIE 2 N° 9

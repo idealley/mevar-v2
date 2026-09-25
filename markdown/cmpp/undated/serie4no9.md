@@ -69,11 +69,14 @@ themes:
 pdf_url: "http://cmpp.ch/serie4no9.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Apocalypse 13"
   - "Jean 14"
   - "Jean 3"
   - "Jean 7"
   - "Jérémie 2"
+  - "Jérémie 2:12,13"
   - "Psaumes 36"
+  - "Zacharie 13"
   - "Ésaïe 40"
 ---
 SERIE 4 N° 9

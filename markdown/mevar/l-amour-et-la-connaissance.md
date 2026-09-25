@@ -20,6 +20,7 @@ stream_url: "https://mevar.org/l-amour-et-la-connaissance/"
 bible_refs:
   - "1 Corinthiens 12"
   - "1 Corinthiens 13"
+  - "1 Corinthiens 14:1"
   - "1 Corinthiens 8:1-3"
   - "Actes 22:3"
   - "Actes 5:34"

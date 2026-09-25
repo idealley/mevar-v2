@@ -58,6 +58,7 @@ bible_refs:
   - "Deutéronome 24:1-4"
   - "Ecclésiaste 4:9-12"
   - "Esdras 10:3"
+  - "Hébreux 10:26"
   - "Jean 14:23"
   - "Jean 14:24"
   - "Jean 15:5-6"

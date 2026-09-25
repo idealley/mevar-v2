@@ -28,6 +28,7 @@ bible_refs:
   - "2 Corinthiens 5:17"
   - "2 Pierre 3:11-14"
   - "Apocalypse 21"
+  - "Apocalypse 21:1"
   - "Colossiens 1:15-17"
   - "Colossiens 1:18"
   - "Colossiens 1:18-20"

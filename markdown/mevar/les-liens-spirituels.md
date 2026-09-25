@@ -24,6 +24,7 @@ stream_url: "https://mevar.org/les-liens-spirituels/"
 bible_refs:
   - "Luc 13"
   - "Luc 6"
+  - "Matthieu 6:1"
 ---
 ## Première partie
 

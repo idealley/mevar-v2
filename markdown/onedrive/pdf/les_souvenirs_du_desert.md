@@ -37,6 +37,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 10"
   - "Deutéronome 8"
+  - "Deutéronome 8:1"
 ---
 ## Les souvenirs du désert
 

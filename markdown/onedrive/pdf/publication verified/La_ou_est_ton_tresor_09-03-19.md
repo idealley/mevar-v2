@@ -43,8 +43,12 @@ mevar_match:
   similarity: 0.629
 llm_cleaned: true
 bible_refs:
+  - "Deutéronome 6:1"
+  - "Genèse 6"
   - "Luc 13"
   - "Malachie 4"
+  - "Matthieu 13"
+  - "Matthieu 24"
   - "Matthieu 24:12"
 ---
 *Là où est ton trésor, là aussi sera ton cœur - 1, prêché le 9 Mars 2019 à Kouassikro par le frère M'BRA Parfait*

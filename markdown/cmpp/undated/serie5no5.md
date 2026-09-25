@@ -51,6 +51,7 @@ bible_refs:
   - "Luc 17"
   - "Malachie 4"
   - "Marc 7"
+  - "Marc 7:7"
   - "Matthieu 15"
 ---
 SERIE 5, N° 5

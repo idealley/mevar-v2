@@ -48,6 +48,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 17"
   - "Genèse 20"
+  - "Genèse 20:6"
   - "Jean 17"
   - "Jean 5"
   - "Luc 24"

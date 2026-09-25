@@ -49,9 +49,15 @@ mevar_match:
   similarity: 0.57
 llm_cleaned: true
 bible_refs:
+  - "Actes 1:12-14"
   - "Jean 19"
+  - "Jean 2"
+  - "Luc 1"
+  - "Luc 1:26"
   - "Luc 2"
   - "Marc 6:3"
+  - "Ésaïe 7"
+  - "Ésaïe 7:14"
 ---
 ## Marie et Jésus
 
