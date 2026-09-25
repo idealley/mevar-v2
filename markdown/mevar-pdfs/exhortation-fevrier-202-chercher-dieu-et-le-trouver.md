@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_fevrier_202_chercher_dieu_et_le_trouver"
+duplicate_of: "mevar/chercher-dieu-et-le-trouver"
 title: "CHERCHER DIEU ET LE TROUVER"
 date: "2022-02-01"
 year: 2022

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "sujets_de_priere_novembre_2019"
+duplicate_of: "mevar/novembre-decembre-2019"
 title: "Sujets de Prière Novembre – Décembre 2019"
 date: "2019-11-25"
 year: 2019

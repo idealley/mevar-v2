@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "LA_FOI_SAISIT_LINVISIBLE"
+duplicate_of: "mevar/la-foi-voit-l-invisible"
 title: "La Foi voit l'invisible"
 subtitle: "Exhortation de Janvier 2015"
 date: "2015-01-04"

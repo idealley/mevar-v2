@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "courage"
+duplicate_of: "mevar/prenez-courage"
 title: "PRENEZ COURAGE !"
 subtitle: "Exhortation du Mois d'Août 2006"
 date: "2006-08-01"

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "l_oeuvre_de_dieu_un_investissement_abidjan_12.08.2021"
+duplicate_of: "mevar/l-oeuvre-de-dieu-un-investissement"
 title: "L’œuvre de Dieu – un investissement"
 date: "2021-08-12"
 year: 2021

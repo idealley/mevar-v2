@@ -5,7 +5,7 @@ title: "Dieu veille sur sa parole pour l’exécuter"
 year: 2006
 published_at: "2006-10-14"
 type: "post"
-status: "draft"
+status: "published"
 url: "https://mevar.org/dieu-veille-sur-sa-parole-pour-lexecuter/"
 tags:
   - "Témoignage"

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "le_temoignage_des_apotres_13_janvier_2022"
+duplicate_of: "mevar/le-temoignage-des-apotres"
 title: "Le témoignage des apôtres"
 date: "2022-01-13"
 year: 2022

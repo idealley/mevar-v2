@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "eveildelhomme"
+duplicate_of: "mevar/l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel"
 title: "L’EVEIL DE L’HOMME SPIRITUEL POUR LE COMBAT SPIRITUEL"
 summary: "Ce traité aborde le réveil de l'homme spirituel pour le combat spirituel à la fin des temps. Il distingue l'homme charnel, né de la chair et esclave du péché, de l'homme spirituel, né de l'Esprit par la nouvelle naissance, qui reçoit en Christ la position de vainqueur. L'auteur insiste sur la nécessité de demeurer en Christ pour porter du fruit et combattre les puissances des ténèbres, et appelle à un réveil spirituel pour l'Église endormie."
 tags:

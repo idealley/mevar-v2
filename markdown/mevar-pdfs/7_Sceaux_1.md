@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "7_Sceaux_1"
+duplicate_of: "mevar/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse"
 title: "Le Message des 7 Sceaux (premier sceau)"
 date: "2019-07-01"
 year: 2019

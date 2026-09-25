@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "un_pays_appele_gosen"
+duplicate_of: "mevar/un-pays-appele-gosen"
 title: "Un pays appelé Gosen"
 subtitle: "Exhortation de Mai 2014"
 date: "2014-05-19"

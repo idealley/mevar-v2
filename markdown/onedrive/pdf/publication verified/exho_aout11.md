@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_aout11"
+duplicate_of: "mevar/zachee-et-le-sycomore"
 title: "Zachée et le sycomore"
 subtitle: "Exhortation d'Août 2011"
 date: "2011-08-01"

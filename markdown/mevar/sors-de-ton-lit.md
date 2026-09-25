@@ -5,7 +5,7 @@ title: "Sors de ton lit !"
 year: 2009
 published_at: "2009-02-14"
 type: "post"
-status: "draft"
+status: "published"
 url: "https://mevar.org/sors-de-ton-lit/"
 tags:
   - "Prédications"

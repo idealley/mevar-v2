@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Exhortation_aout_2016"
+duplicate_of: "mevar/toutes-choses-s-accompliront"
 title: "TOUTES CHOSES S'ACCOMPLIRONT"
 subtitle: "Exhortation Spéciale Août 2016"
 date: "2016-08-01"

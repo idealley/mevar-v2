@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "l_Univers_de_la_Revelations_2"
+duplicate_of: "mevar/l-univers-de-la-revelation-deuxieme-partie"
 title: "L'univers de la révélation 2"
 date: "2018-10-29"
 year: 2018

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Propheties_convention_Lakota"
+duplicate_of: "mevar/convention-nationale-de-reveil"
 title: "Convention Nationale de Réveil"
 subtitle: "Lakota les 30-31 Mars et 1er Avril 2018"
 date: "2018-03-30"

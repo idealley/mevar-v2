@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chercheurDieu"
+duplicate_of: "mevar/chercheurs-de-dieu"
 title: "Chercheurs de Dieu"
 date: "2007-01-17"
 year: 2007

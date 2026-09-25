@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "ceux_grande-tribulation_1"
+duplicate_of: "mevar/ceux-de-la-grande-tribulation"
 title: "Ceux de la grande tribulation 1"
 subtitle: "Exhortation d'Août 2015"
 date: "2015-08-23"

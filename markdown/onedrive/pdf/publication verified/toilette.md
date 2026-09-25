@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "toilette"
+duplicate_of: "mevar/la-toilette-du-chretien"
 title: "La toilette du chrétien"
 location: "Arrah"
 preacher: "Parfait M'bra"

@@ -5,7 +5,7 @@ title: "Le témoignage final"
 year: 2009
 published_at: "2009-05-03"
 type: "post"
-status: "draft"
+status: "published"
 url: "https://mevar.org/le-temoignage-final/"
 tags:
   - "Prédications"

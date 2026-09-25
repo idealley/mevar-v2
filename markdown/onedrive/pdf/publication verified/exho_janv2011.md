@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_janv2011"
+duplicate_of: "mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david"
 title: "LE JUSTE JUGEMENT DE DIEU – AFFAIRE URIE CONTRE DAVID"
 subtitle: "Exhortation de Janvier 2011"
 date: "2011-01-01"

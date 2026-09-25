@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015"
+duplicate_of: "mevar/et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez"
 title: "Et soudain entrera dans son temple, le Seigneur que vous cherchez"
 date: "2015-12-16"
 year: 2015

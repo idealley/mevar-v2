@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "predication_de_la_croix_et_le_message_du_temps_de_la_fin_koumassi.21.02.2021"
+duplicate_of: "mevar/la-predication-de-la-croix-et-le-message-du-temps-de-la-fin"
 title: "La prédication de la croix et le Message du temps de la fin"
 date: "2021-02-21"
 year: 2021

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap7ministere"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "Le Ministère de Docteur"
 summary: "Ce texte expose le ministère de docteur dans l'Église, en s'appuyant sur des exemples bibliques comme Jésus, Esdras et Apollos. Il souligne que le docteur explique les doctrines et prophéties, rétablit la vérité, et lit les signes des temps, tout en étant un administrateur des mystères de Dieu."
 tags:

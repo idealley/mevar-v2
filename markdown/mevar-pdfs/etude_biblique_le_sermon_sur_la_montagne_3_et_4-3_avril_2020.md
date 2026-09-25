@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "etude_biblique_le_sermon_sur_la_montagne_3_et_4_3_avril_2020"
+duplicate_of: "mevar/le-sermon-sur-la-montagne-4"
 title: "ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU"
 date: "2020-04-03"
 year: 2020

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "ange_de_la_marche"
+duplicate_of: "mevar/lange-de-la-marche"
 title: "L'Ange de la marche"
 date: "2007-10-23"
 year: 2007

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "2_signes_d_un_ministere_17_11_19"
+duplicate_of: "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie"
 title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu, deuxième partie"
 date: "2019-11-17"
 year: 2019

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "combattre_contre_les_goliath_premiere_partie_23.07.2021"
+duplicate_of: "mevar/l-enjeu-du-combat-contre-goliath-1"
 title: "L'enjeu du combat contre Goliath – Partie 1"
 date: "2021-07-23"
 year: 2021

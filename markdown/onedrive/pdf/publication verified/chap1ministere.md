@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap1ministere"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "Les 5 Ministères de la Parole dans la vision des temps de la fin"
 date: "2005"
 location: "Abidjan"

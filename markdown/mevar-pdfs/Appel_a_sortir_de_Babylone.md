@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "Appel_a_sortir_de_Babylone"
+duplicate_of: "mevar/l-appel-a-sortir-de-babylone"
 title: "L'Appel à sortir de Babylone"
 date: "2019-06-09"
 year: 2019

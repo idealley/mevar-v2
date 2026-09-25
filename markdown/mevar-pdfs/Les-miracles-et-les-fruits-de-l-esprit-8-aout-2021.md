@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "Les_miracles_et_les_fruits_de_l_esprit_8_aout_2021"
+duplicate_of: "mevar/les-miracles-et-les-fruits-de-l-esprit"
 title: "Les miracles et les fruits de l’Esprit"
 date: "2021-08-08"
 year: 2021

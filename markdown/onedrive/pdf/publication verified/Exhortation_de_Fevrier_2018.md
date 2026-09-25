@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Exhortation_de_Fevrier_2018"
+duplicate_of: "mevar/seigneur-je-te-suivrai-partout-ou-tu-iras"
 title: "SEIGNEUR, JE TE SUIVRAI, PARTOUT OU TU IRAS"
 subtitle: "Exhortation de Mars 2018"
 date: "2018-03-01"

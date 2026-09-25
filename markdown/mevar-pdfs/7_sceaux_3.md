@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "7_sceaux_3"
+duplicate_of: "mevar/le-cavalier-au-cheval-pale-la-mort"
 title: "Le Message des 7 Sceaux (4e sceau-1er partie)"
 date: "2019-07-22"
 year: 2019

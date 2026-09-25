@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "Le_lavage_des_pieds_17_fevrier_2020_Lausanne"
+duplicate_of: "mevar/otons-nos-vetements"
 title: "Ôtons nos vêtements"
 date: "2020-02-17"
 year: 2020

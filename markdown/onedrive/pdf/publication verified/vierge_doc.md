@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "vierge_doc"
+duplicate_of: "mevar/le-culte-de-la-vierge-marie"
 title: "LE CULTE DE LA VIERGE MARIE L’ABOMINATION DES IVOIRIENS"
 date: "2017-04"
 preacher: "Parfait M'bra"

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait"
+duplicate_of: "mevar/soyez-parfaits-comme-votre-pere-celeste-est-parfait"
 title: "Soyez parfaits comme votre Père céleste est parfait"
 date: "2022-03-01"
 year: 2022

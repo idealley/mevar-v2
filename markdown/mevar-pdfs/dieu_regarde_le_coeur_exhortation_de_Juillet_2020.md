@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "dieu_regarde_le_coeur_exhortation_de_Juillet_2020"
+duplicate_of: "mevar/dieu-regarde-au-coeur"
 title: "DIEU REGARDE LE CŒUR"
 date: "2020-07-01"
 year: 2020

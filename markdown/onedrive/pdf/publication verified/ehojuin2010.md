@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "ehojuin2010"
+duplicate_of: "mevar/plusieurs-me-diront-seigneur-seigneur"
 title: "Plusieurs me diront : Seigneur ! Seigneur !"
 subtitle: "Exhortation de Juin 2010"
 date: "2010-06-01"

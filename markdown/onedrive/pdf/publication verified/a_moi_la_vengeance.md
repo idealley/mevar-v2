@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "a_moi_la_vengeance"
+duplicate_of: "mevar/a-moi-la-retribution-a-moi-la-vengeance"
 title: "A Moi la rétribution - à moi la vengeance"
 subtitle: "Exhortation de Février 2014"
 date: "2014-02-23"

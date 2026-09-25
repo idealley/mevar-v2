@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "adoration2"
+duplicate_of: "mevar/l-adoration-par-la-revelation"
 title: "L'ADORATION PAR LA REVELATION"
 date: "2006-04-20"
 year: 2006

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exhortation_janvier_2015"
+duplicate_of: "mevar/l-heure-cruciale-vous-pleurerez-et-vous-vous-lamenterez"
 title: "L'HEURE CRUCIALE - VOUS PLEUREREZ ET VOUS VOUS LAMENTEREZ"
 subtitle: "Exhortation de Janvier 2015"
 date: "2015-01-01"

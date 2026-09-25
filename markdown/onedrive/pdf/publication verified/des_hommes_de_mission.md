@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "des_hommes_de_mission"
+duplicate_of: "mevar/des-hommes-de-mission-a-la-ressemblance-de-jesus"
 title: "Les hommes de mission de Jésus"
 subtitle: "Exhortation spéciale de Juillet 2009"
 date: "2009-07-01"

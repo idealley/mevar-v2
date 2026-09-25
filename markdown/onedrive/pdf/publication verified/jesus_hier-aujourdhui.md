@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "jesus_hier-aujourdhui"
+duplicate_of: "mevar/jesus-christ-est-le-meme-hier-aujourd-hui-et-eternellement"
 title: "Jésus-Christ est le même hier – Aujourd’hui et éternellement"
 subtitle: "Exhortation de Mai 2015"
 date: "2015-05-09"

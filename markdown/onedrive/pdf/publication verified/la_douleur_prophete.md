@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "la_douleur_prophete"
+duplicate_of: "mevar/la-douleur-d-un-prophete"
 title: "La douleur d'un prophète"
 date: "2012-08-26"
 year: 2012

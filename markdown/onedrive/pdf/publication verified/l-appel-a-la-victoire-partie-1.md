@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "l-appel-a-la-victoire-partie-1"
+duplicate_of: "mevar/l-appel-a-la-victoire"
 title: "L'Appel à la victoire (première partie)"
 date: "2018-08-06"
 year: 2018

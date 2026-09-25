@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "ninive-et-tarsis-juin-2015"
+duplicate_of: "mevar/ninive-et-tarsis"
 title: "Ninive et Tarsis"
 subtitle: "Exhortation de Juin 2015"
 date: "2015-06-28"

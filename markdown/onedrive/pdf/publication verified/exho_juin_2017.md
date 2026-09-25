@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_juin_2017"
+duplicate_of: "mevar/le-deguisement-de-la-femme-de-jeroboam"
 title: "LE DEGUISEMENT DE LA FEMME DE JEROBOAM"
 subtitle: "Exhortation de Juin 2017"
 date: "2017-06-01"

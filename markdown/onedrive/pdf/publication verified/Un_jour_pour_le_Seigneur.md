@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Un_jour_pour_le_Seigneur"
+duplicate_of: "mevar/un-jour-pour-le-seigneur"
 title: "Un jour pour le Seigneur"
 subtitle: "Exhortation de Mars 2015"
 date: "2015-03-29"

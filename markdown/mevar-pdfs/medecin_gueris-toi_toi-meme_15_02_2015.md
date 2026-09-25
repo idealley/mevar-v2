@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "medecin_gueris_toi_toi_meme_15_02_2015"
+duplicate_of: "mevar/medecin-gueris-toi-toi-meme"
 title: "Médecin, guéris-toi toi-même"
 date: "2015-02-15"
 year: 2015

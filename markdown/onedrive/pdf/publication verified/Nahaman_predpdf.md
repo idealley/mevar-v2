@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Nahaman_predpdf"
+duplicate_of: "mevar/la-lepre-de-nahaman"
 title: "La lèpre de Nahaman"
 date: "2007-11-04"
 year: 2007

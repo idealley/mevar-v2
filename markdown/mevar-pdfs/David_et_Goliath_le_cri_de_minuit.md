@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "David_et_Goliath_le_cri_de_minuit"
+duplicate_of: "mevar/david-et-goliath"
 title: "David et Goliath - le cri de minuit"
 year: 2017
 summary: "L'histoire de David et Goliath est interprétée comme un type prophétique de l'Église de la fin des temps, montrant son état spirituel et le réveil nécessaire pour vaincre l'ennemi. David représente le huitième prince qui réveille l'armée endormie, et les cinq pierres polies symbolisent les chrétiens préparés par la Parole."

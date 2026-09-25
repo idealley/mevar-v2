@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap5ministere"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "Le Ministère d'Evangéliste"
 summary: "Ce texte expose le ministère d'évangéliste, son fondement dans la naissance, la mort et la résurrection de Jésus-Christ, et son œuvre de guérison, délivrance et proclamation de la bonne nouvelle. Il s'appuie sur des exemples bibliques comme Philippe et souligne la puissance du nom de Jésus."
 tags:

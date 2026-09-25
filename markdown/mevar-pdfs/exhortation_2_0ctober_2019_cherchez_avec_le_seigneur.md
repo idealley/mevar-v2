@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_2_0ctober_2019_cherchez_avec_le_seigneur"
+duplicate_of: "mevar/cherchez-avec-le-seigneur"
 title: "Cherchez avec le Seigneur"
 date: "2019-10-01"
 year: 2019

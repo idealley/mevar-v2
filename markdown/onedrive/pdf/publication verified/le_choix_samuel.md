@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "le_choix_samuel"
+duplicate_of: "mevar/le-choix"
 title: "Le choix"
 summary: "Ce texte établit un parallèle entre l'histoire des Hébreux et celle de l'Église de Laodicée, montrant comment le peuple de Dieu s'est endormi après avoir reçu le message du temps de la fin. Il identifie les sept pasteurs (messagers des âges) et le huitième (Josué) qui doit réveiller les vierges endormies pour le combat final. L'auteur appelle à la repentance, à la foi éprouvée et à la sanctification pour échapper au jugement."
 tags:

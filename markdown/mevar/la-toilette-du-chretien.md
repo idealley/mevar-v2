@@ -5,7 +5,7 @@ title: "La toilette du chrétien"
 year: 2007
 published_at: "2007-11-17"
 type: "post"
-status: "draft"
+status: "published"
 url: "https://mevar.org/la-toilette-du-chretien/"
 tags:
   - "Prédications"

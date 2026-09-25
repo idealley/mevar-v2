@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap2ministere"
+duplicate_of: "onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole"
 title: "Les cinq Ministères de la Parole"
 summary: "Ce texte expose la nature et le rôle des cinq ministères de la Parole (apôtres, prophètes, évangélistes, pasteurs, docteurs) dans l'Église, en s'appuyant sur Éphésiens 4. Il souligne leur importance pour la prédication, leur caractère de don à l'Église, leur consécration comme les lévites, et leur droit de vivre de l'Évangile. Il insiste particulièrement sur la place fondamentale des apôtres et des prophètes dans le plan de Dieu."
 tags:
