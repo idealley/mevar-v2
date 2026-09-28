@@ -94,11 +94,9 @@ function rendered(md, found) {
     // text, and code (a line indented four spaces), whose words are words too
     if (["text", "code", "inlineCode"].includes(node.type))
       for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote });
-    // an ordered list's numbers are markup to markdown, words to the check:
-    // the number as written, not as the list would count it
-    (node.children ?? []).forEach((c) => {
-      const n = node.type === "list" && node.ordered && md.slice(c.position.start.offset).match(/^\s*(\d+)/);
-      if (n) out.push({ w: n[1], at: c.position.start.offset, bold, quote });
+    // an ordered list's numbers are markup to markdown, words to the check
+    (node.children ?? []).forEach((c, i) => {
+      if (node.type === "list" && node.ordered) out.push({ w: String((node.start ?? 1) + i), at: c.position.start.offset, bold, quote, marker: true });
       walk(c, bold || node.type === "strong", quote || node.type === "blockquote");
     });
   })(fromMarkdown(md), false, false);
@@ -360,9 +358,13 @@ for (const md of batch) {
   })();
   let run = null;
   const flush = () => { if (run) r.unexplained.push(`bold ${run.added ? "added to" : "removed from"} « ${run.words.join(" ")} » in: ${sentence(body, run.at)}`); run = null; };
+  // an ordered list's number cannot be bold in markdown ("**2**. …" is not
+  // an item): the original's bold on it is lost, and listed
+  r.listBold = [];
   for (const [o, n] of equal) {
     if (verse(o, n)) r.counts.verseNumbers++;
-    if (o.bold === n.bold || verse(o, n)) { flush(); continue; }
+    if (o.bold && n.marker) r.listBold.push(body.slice(n.at).split("\n")[0]);
+    if (o.bold === n.bold || verse(o, n) || (o.bold && n.marker)) { flush(); continue; }
     if (run && run.added === n.bold) run.words.push(n.w);
     else { flush(); run = { added: n.bold, words: [n.w], at: n.at }; }
   }
@@ -430,6 +432,8 @@ L.push("", "## Editor's fixes (scripts/mevar-editorial-fixes.json)", "", "| Text
 for (const r of rows) for (const f of r.fixes) L.push(`| \`${path.basename(r.md, ".md")}\` | ${f.kind} | ${cell(f.find)} | ${cell(f.replace)} | ${cell(f.why)} |`);
 L.push("", "## Words the editor added or removed (fixes of kind \"word\")", "", "| Text | Before | After | Why |", "| --- | --- | --- | --- |");
 for (const r of rows) for (const w of r.editorWords) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(w.before)} | ${cell(w.after)} | ${cell(w.why)} |`);
+L.push("", "## Bold on a list's number, which markdown cannot carry", "");
+for (const r of rows) for (const b of r.listBold) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(b)}`);
 L.push("", "## Headers removed (the frontmatter holds title, date, place)", "");
 for (const r of rows) for (const h of r.removed) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
 L.push("", "## Sentences the pass left as they are (unclear)", "");
