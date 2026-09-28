@@ -94,9 +94,11 @@ function rendered(md, found) {
     // text, and code (a line indented four spaces), whose words are words too
     if (["text", "code", "inlineCode"].includes(node.type))
       for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote });
-    // an ordered list's numbers are markup to markdown, words to the check
-    (node.children ?? []).forEach((c, i) => {
-      if (node.type === "list" && node.ordered) out.push({ w: String((node.start ?? 1) + i), at: c.position.start.offset, bold, quote });
+    // an ordered list's numbers are markup to markdown, words to the check:
+    // the number as written, not as the list would count it
+    (node.children ?? []).forEach((c) => {
+      const n = node.type === "list" && node.ordered && md.slice(c.position.start.offset).match(/^\s*(\d+)/);
+      if (n) out.push({ w: n[1], at: c.position.start.offset, bold, quote });
       walk(c, bold || node.type === "strong", quote || node.type === "blockquote");
     });
   })(fromMarkdown(md), false, false);
@@ -195,13 +197,8 @@ for (const md of batch) {
   }
   const placed = edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at.get(b) - at.get(a));
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
-  let shift = 0;
-  const spans = [];
-  for (const f of [...placed].reverse()) {
-    if (f.kind === "word") spans.push([at.get(f) + shift, at.get(f) + shift + f.replace.length, f]);
-    shift += f.replace.length - f.find.length;
-  }
   r.editorWords = [];
+  r.readingsRemoved = [];
   const proposedTitle = edits.title ?? pass.title;
 
   // The inserted readings leave the compared text once they are verified:
@@ -216,6 +213,8 @@ for (const md of batch) {
   const matches = (c, ref) => c.ref.includes(":")
     && (c.ref.includes("-") ? c.ref === ref : c.ref === ref.replace(/-\d+$/, ""));
   for (const { ref } of pass.readings) {
+    // a reading the editor took out again (it could not be verified)
+    if (edits.fixes.some((f) => f.find.includes(`(${ref})`) && !f.replace.includes(`(${ref})`))) { r.readingsRemoved.push(ref); continue; }
     const verses = await reading(db, ref);
     const inserted = verses && `\n\n${blockquote(verses, ref)}`;
     const at = inserted ? body.indexOf(inserted) : -1;
@@ -231,6 +230,12 @@ for (const md of batch) {
     }
   }
   for (const u of pass.unresolved) r.unexplained.push(`reading announced as « ${u} » could not be resolved: nothing inserted`);
+  // where each "word" fix sits in the text the check compares (after the
+  // verified readings came out)
+  const spans = placed.filter((f) => f.kind === "word").map((f) => {
+    const i = body.indexOf(f.replace.normalize("NFC"));
+    return [i, i + f.replace.length, f];
+  }).filter(([i]) => i >= 0);
 
   const file = fs.readFileSync(path.join(root, md), "utf8");
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
@@ -359,24 +364,15 @@ for (const md of batch) {
   }
   flush();
   for (const hunk of changes) {
-    // a change inside an editor's "word" fix is the editor's decision
-    const span = spans.find(([s, e]) => hunk.at >= s - 1 && hunk.at <= e && hunk.after.every((x) => x.at >= s - 1 && x.at <= e));
-    if (span) {
-      // only the part of the change no rule allows is the editor's; the
-      // substitutions around it still go to their tables
-      const parts = hunk.parts.map((h) => [h, classify(h)]);
-      if (parts.some(([, c]) => c.unexplained.length)) {
-        for (const [h, c] of parts) {
-          if (c.unexplained.length) { r.editorWords.push({ before: text(h.before), after: text(h.after), why: span[2].why }); continue; }
-          r.counts.typography += c.typography; r.counts.spacing += c.spacing; r.counts.glyph += c.glyph;
-          r.nonWord.push(...c.nonWord); r.word.push(...c.word);
-        }
-        continue;
-      }
-    }
-    let found = [classify(hunk)];
-    if (found[0].unexplained.length && hunk.parts.length > 1) found = hunk.parts.map(classify);
-    for (const c of found) {
+    // a change the rules refuse inside an editor's "word" fix is the editor's
+    // decision; its parts are read one by one so the substitutions next to it
+    // still go to their tables
+    const inSpan = (h) => spans.find(([s, e]) => h.at >= s - 1 && h.at <= e && h.after.every((x) => x.at >= s - 1 && x.at <= e));
+    let units = [[hunk, classify(hunk)]];
+    if (units[0][1].unexplained.length && hunk.parts.length > 1) units = hunk.parts.map((h) => [h, classify(h)]);
+    for (const [h, c] of units) {
+      const span = c.unexplained.length && inSpan(h);
+      if (span) { r.editorWords.push({ before: text(h.before), after: text(h.after), why: span[2].why }); continue; }
       r.counts.typography += c.typography;
       r.counts.spacing += c.spacing;
       r.counts.glyph += c.glyph;
@@ -425,6 +421,7 @@ for (const [head, key] of [["Substitutions: a non-word corrected to a word", "no
 }
 L.push("", "## Segond readings inserted", "", "| Text | Announced as | Looked up under |", "| --- | --- | --- |");
 for (const r of rows) for (const x of r.readings) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(x.said)} | ${x.ref} |`);
+for (const r of rows) for (const x of r.readingsRemoved) L.push(`| \`${path.basename(r.md, ".md")}\` | (inserted by the pass, taken out by the editor: not verifiable) | ${x} |`);
 L.push("", "## Not accepted, per text", "");
 for (const r of rows) {
   if (r.unexplained.length) L.push(`- \`${r.md.slice("markdown/".length)}\``, ...r.unexplained.map((u) => `  - ${cell(u)}`));
