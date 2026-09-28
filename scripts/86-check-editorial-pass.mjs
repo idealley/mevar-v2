@@ -282,7 +282,9 @@ for (const md of batch) {
   // The document's header: the words before the ones the body opens with (6
   // of its first 8, the pass may have corrected one), within the first 80,
   // and only if every one of them is in the frontmatter (title, subtitle,
-  // date, place, preacher) or a header's own word; listed. Its words go, its
+  // date, place, preacher) or a header's own word, and only if it holds the
+  // whole title or the whole subtitle (« Un mois de grâce ! » is the sermon's
+  // own line, not the header of « La grâce »); listed. Its words go, its
   // ** stay: a run may open just before the body's first word.
   const ow = words(compared);
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
@@ -291,7 +293,10 @@ for (const md of batch) {
   const own = new Set([oldTitle, field("subtitle"), field("location"), field("preacher"),
     `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
-  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w));
+  const inHeader = new Set(words(header).map((x) => key(x.w)));
+  const holds = (t) => words(t).length > 0 && words(t).every((x) => inHeader.has(key(x.w)));
+  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w))
+    && (holds(oldTitle) || holds(field("subtitle")));
   r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
   if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
 
