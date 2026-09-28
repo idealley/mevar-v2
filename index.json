@@ -167023,7 +167023,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Ce document est un témoignage bilan de la chaîne de prière après cinq mois d'existence. L'auteur encourage les membres à persévérer dans la foi et le pardon, et annonce une nouvelle organisation en cellules d'intercession pour l'année 2007.",
     "persons": [
       "Jésus-Christ",
@@ -167075,8 +167075,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/bilanchaine.md",
-    "size_bytes": 18389,
-    "line_count": 163
+    "size_bytes": 18405,
+    "line_count": 164
   },
   {
     "source": "onedrive",
