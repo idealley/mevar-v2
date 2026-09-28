@@ -162,7 +162,7 @@ Comme dirait le Psalmiste :
 
 > **Ma part, ô Éternel** ! Je l’ai dit, **c’est de garder tes paroles**.
 
-Mes chers amis, c’est là notre part, garder la Parole révélée que nous avons reçue, afin qu’elle soit une vie en nous, un comportement. Car c’est Elle qui nous donnera toutes les vertus, les qualités et les manifestations spirituelles auxquelles nous aspirons. **Nous irons au ciel, dans la présence de Dieu avec cette part. C’est pourquoi nous devons être toujours reconnaissants au Seigneur pour la grande grâce qu’Il nous a accordée de nous asseoir à Ses propres pieds pour recevoir de Lui des instructions à cette heure**. C’est une grâce que d’avoir sa part dans l’œuvre de Dieu à cette heure. C’est une grâce que d’avoir accès à la vision prophétique maintenant. Souvenez-vous de la prédication « Ami, m’aimes-tu ? »
+Mes chers amis, c’est là notre part, garder la Parole révélée que nous avons reçue, afin qu’elle soit une vie en nous, un comportement. Car c’est Elle qui nous donnera toutes les vertus, les qualités et les manifestations spirituelles auxquelles nous aspirons. **Nous irons au ciel, dans la présence de Dieu avec cette part. C’est pourquoi nous devons être toujours reconnaissants au Seigneur pour la grande grâce qu’Il nous a accordée de nous s’asseoir à Ses propres pieds pour recevoir de Lui des instructions à cette heure**. C’est une grâce que d’avoir sa part dans l’œuvre de Dieu à cette heure. C’est une grâce que d’avoir accès à la vision prophétique maintenant. Souvenez-vous de la prédication « Ami, m’aimes-tu ? »
 
 Je vous ai dit que le Seigneur nous traite en amis, c’est pourquoi Il nous révèle Son plan. Nous devons être patients pour entrer dans les bonnes grâces de Dieu. Que Son nom soit béni !
 

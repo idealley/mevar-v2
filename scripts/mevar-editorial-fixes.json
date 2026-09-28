@@ -2553,10 +2553,16 @@
     "title": "Relisez « L’Éden de Satan »",
     "fixes": [
       {
-        "find": "**Exhortation de septembre 2008**\n\n**RELISEZ « l’ÉDEN DE SATAN** »\n\nJe vous salue tous mes biens-aimés frères et sœurs",
-        "replace": "Je vous salue tous mes bien-aimés frères et sœurs",
+        "find": "**Exhortation de septembre 2008**\n\n**RELISEZ « l’ÉDEN DE SATAN** »\n\nJe vous salue tous",
+        "replace": "Je vous salue tous",
         "kind": "markup",
-        "why": "document header (subtitle and title) is removed; spelling bien-aimés"
+        "why": "document header (subtitle and title) is removed"
+      },
+      {
+        "find": "mes biens-aimés frères et sœurs",
+        "replace": "mes bien-aimés frères et sœurs",
+        "kind": "typo",
+        "why": "spelling of « bien-aimés »"
       },
       {
         "find": "Il s’agit de la prédication « **l’Éden de Satan** »",
@@ -2733,12 +2739,6 @@
         "replace": "Et Christ, au travers de Ses amis",
         "kind": "typo",
         "why": "« au travers de » (spelling slip)"
-      },
-      {
-        "find": "accordée de nous s’asseoir à Ses propres pieds",
-        "replace": "accordée de nous asseoir à Ses propres pieds",
-        "kind": "word",
-        "why": "doubled reflexive pronoun: « de nous asseoir »"
       },
       {
         "find": "Il dit : Laisse–moi aller",
