@@ -42,12 +42,12 @@ export function rehypeFrenchTypography() {
         last = null;
         return;
       }
-      // a paragraph, a list item, a cell…: what it opens with is not spaced
-      // from what closed the one before
-      if (node.type === "element" && BLOCKS.has(node.tagName)) last = null;
+      // a paragraph, a list item, a cell, a line break…: what it opens with
+      // is not spaced from what closed the one before
+      if (node.type === "element" && (BLOCKS.has(node.tagName) || node.tagName === "br")) last = null;
       if (node.type === "text" && node.value) {
         const lead = node.value.match(/^[ \u00a0\u2009]*(?=[;?!]|:(?!\/\/))/)?.[0];
-        const trail = last?.value.match(/[ \u00a0\u2009]+$/)?.[0];
+        const trail = last?.value.match(/[ \u00a0\u2009\u202f]+$/)?.[0];
         if (lead !== undefined && trail) {
           last.value = last.value.slice(0, -trail.length) + NARROW;
           node.value = node.value.slice(lead.length);

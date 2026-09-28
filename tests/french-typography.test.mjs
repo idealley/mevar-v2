@@ -52,3 +52,14 @@ test("a paragraph does not reach into the one before", () => {
   rehypeFrenchTypography()(tree, { path: "/x/markdown/mevar/a.md" });
   assert.deepEqual(tree.children.map((c) => c.children[0].value), ["fin ", ": suite"]);
 });
+
+test("the plugin collapses a narrow space and an ordinary one across nodes, and stops at a line break", () => {
+  const text = (value) => ({ type: "text", value });
+  const run = (...children) => {
+    const tree = { type: "root", children: [{ type: "element", tagName: "p", children }] };
+    rehypeFrenchTypography()(tree, { path: "/x/markdown/mevar/a.md" });
+    return tree.children[0].children.map((c) => c.value ?? c.tagName);
+  };
+  assert.deepEqual(run(text(`avez${N}`), text(" ; car")), [`avez${N}`, "; car"]);
+  assert.deepEqual(run(text("Amen "), { type: "element", tagName: "br", children: [] }, text(": suite")), ["Amen ", "br", ": suite"]);
+});

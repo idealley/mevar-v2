@@ -39,7 +39,6 @@ const field = (k) => {
 };
 
 if (field("status") !== "published") throw new Error(`${rel} is not published: a draft is never emailed`);
-// The site's French typography (goal 17): the narrow space before « : ; ? ! ».
 const title = frenchSpacing(field("title"));
 // `preacher` is the one display name goal 08 writes; until then, the first author.
 const preacher = field("preacher") ?? front.match(/^authors:\n {2}- (.*)$/m)?.[1]?.replace(/^"|"$/g, "");
