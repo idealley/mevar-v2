@@ -93,7 +93,7 @@ the verification done by a script and by sampling.
   changes, then the preacher's bold); from batch 02, about $4 a batch (the
   pass and a second try of refused texts), about $35 for the 9 left, about
   $57 for the goal.
-- **Not in the pass:** `onedrive/pdf/thebath.md` is English;
+- **Not in the pass:** `onedrive/pdf/exhortation_2011.md` (batch 03): it reads 1 Samuel 18:11-12, and OpenAI's content filter stops `gpt-6-sol`'s answer on that part every time (whole, halved, in 500-word parts); it waits for a fallback Samuel approves; `onedrive/pdf/thebath.md` is English;
   `onedrive/pdf/LA GUERRE DE LIBERATION.md` has an empty original.
 - **Quotes** (Samuel, after batch 01's first PR round): a citation that is
   not in the sentence is its own blockquote, `> …`, with the preacher's bold
