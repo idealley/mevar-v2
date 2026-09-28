@@ -204,7 +204,8 @@ for (const md of batch) {
   // The inserted readings leave the compared text once they are verified:
   // a paragraph of its own, the Segond verses, for a reference the original
   // cites and that the paragraph just before announces as a reading (« nous
-  // lisons », « le deuxième texte se trouve dans »).
+  // lisons », « le deuxième texte se trouve dans »: a text counted, not
+  // « le texte de Jean 3:16 », which may be one he explains), once.
   // (the PDF's justified lines double some spaces: « 1  Samuel 2 : 22-26 »)
   const cited = [...citations(original.replace(/[ \t]+/g, " "))];
   let body = edited.normalize("NFC");
@@ -213,16 +214,18 @@ for (const md of batch) {
   const matches = (c, ref) => c.ref.includes(":")
     && (c.ref.includes("-") ? c.ref === ref : c.ref === ref.replace(/-\d+$/, ""));
   for (const { ref } of pass.readings) {
-    // a reading the editor took out again (it could not be verified)
-    if (edits.fixes.some((f) => f.find.includes(`(${ref})`) && !f.replace.includes(`(${ref})`))) { r.readingsRemoved.push(ref); continue; }
     const verses = await reading(db, ref);
+    // a reading the editor took out again (it could not be verified): a fix
+    // whose passage holds the whole Segond text and whose replacement quotes
+    // nothing
+    if (verses && edits.fixes.some((f) => f.find.normalize("NFC").includes(blockquote(verses, ref)) && !/^\s*>/m.test(f.replace))) { r.readingsRemoved.push(ref); continue; }
     const inserted = verses && `\n\n${blockquote(verses, ref)}`;
     const at = inserted ? body.indexOf(inserted) : -1;
-    const whole = at >= 0 && /^[ \t]*(\n\s*\n|\s*$)/.test(body.slice(at + inserted.length));
+    const whole = at >= 0 && body.indexOf(inserted, at + 1) < 0 && /^[ \t]*(\n\s*\n|\s*$)/.test(body.slice(at + inserted.length));
     const paragraph = body.slice(0, Math.max(at, 0)).split(/\n\s*\n/).filter((p) => p.trim()).at(-1) ?? "";
     const announced = cited.find((c) => matches(c, ref));
     if (!whole) r.unexplained.push(`reading ${ref} is not the Segond text as a paragraph of its own`);
-    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/(?<!\p{L})(lis\p{L}*|lire|lu|lecture|texte)(?!\p{L})/iu.test(paragraph))
+    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/(?<!\p{L})(lis\p{L}*|lire|lu|lecture|(premier|\p{L}+ième|dernier) texte)(?!\p{L})/iu.test(paragraph))
       r.unexplained.push(`reading ${ref} inserted, but the paragraph before it does not announce it as a reading the original cites`);
     else {
       body = body.replace(inserted, "");
