@@ -18,6 +18,7 @@ ghost_id: "6448fa86db90770001518ef3"
 uuid: "0a90f84a-cee8-4ad2-a611-46e9ba131bef"
 stream_url: "https://mevar.org/le-droit-de-rachat/"
 bible_refs:
+  - "Nombres 27"
   - "Nombres 36"
   - "Ruth 3"
   - "Apocalypse 5:8"

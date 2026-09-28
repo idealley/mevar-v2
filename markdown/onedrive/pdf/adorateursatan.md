@@ -50,6 +50,7 @@ bible_refs:
   - "Genèse 4:1-8"
   - "Exode 32:1-10"
   - "1 Samuel 2:22-26"
+  - "Nombres 25:1"
   - "1 Rois 16"
   - "Jérémie 44:15-22"
   - "2 Thessaloniciens 2"

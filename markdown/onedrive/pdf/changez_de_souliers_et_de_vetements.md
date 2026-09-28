@@ -60,6 +60,7 @@ bible_refs:
   - "Romains 13:14"
   - "Éphésiens 4"
   - "Colossiens 3:12"
+  - "Philippiens 2:13"
   - "Éphésiens 4:12"
 editorial_pass: "2026-09-28"
 ---
