@@ -4,11 +4,12 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { frenchSpacing } from "./french-typography.mjs";
 
 // Relative to web/, as the content collection's base is.
 const dir = "../markdown/mevar";
 
-/** The first ~200 characters of a markdown body's first paragraph of text: Ghost's excerpt. */
+/** The first ~200 characters of a markdown body's first paragraph of text: Ghost's excerpt, with French typography (a Ghost post is French; the feed reads it raw). */
 export function excerpt(markdown) {
   const para = markdown
     .split(/\n\s*\n/)
@@ -20,7 +21,7 @@ export function excerpt(markdown) {
     .replace(/^>\s*/gm, "")
     .replace(/[*_`\\]/g, "")
     .replace(/\s+/g, " ");
-  return text.length <= 200 ? text : `${text.slice(0, text.lastIndexOf(" ", 200))}…`;
+  return frenchSpacing(text.length <= 200 ? text : `${text.slice(0, text.lastIndexOf(" ", 200))}…`);
 }
 
 /** Published Ghost posts: slug -> { title, summary }. */
