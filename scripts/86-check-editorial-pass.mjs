@@ -38,8 +38,10 @@
 //
 // A text with no unexplained change is written to markdown/: the pass's body,
 // its title where only typography changed (also in manifests/onedrive.json,
-// which 50 reads), and editorial_pass: "<date>". A text that already has
-// editorial_pass is left as it is. The report goes to
+// which 50 reads), and editorial_pass: "<date>". A PDF that prints two works
+// (a second exhortation after the first) is checked as one and written as
+// two: the editor's `split` gives the words the second begins with and its
+// frontmatter. A text that already has editorial_pass is left as it is. The report goes to
 // docs/goals/evidence/goal-10-batch-<batch>.md.
 //
 // Usage: node scripts/86-check-editorial-pass.mjs <batch>   (SurrealDB with 110 run)
@@ -395,15 +397,32 @@ for (const md of batch) {
   r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w) || caps(x.w, nt[i].w)) ? proposedTitle : oldTitle;
   r.titleRefused = r.title === proposedTitle ? "" : proposedTitle;
 
+  const split = edits.split ? edited.indexOf(edits.split.at) : 0;
+  if (edits.split && (split <= 0 || edited.includes(edits.split.at, split + 1)))
+    r.unexplained.push(`the split « ${edits.split.at} » does not occur exactly once after the text's start`);
+  const parts = split > 0 ? [edited.slice(0, split).trimEnd(), edited.slice(split)] : [edited];
+  r.split = split > 0 ? `${path.dirname(md)}/${edits.split.frontmatter.sermon_id}.md` : null;
+  const bodyOf = (p) => {
+    const t = fs.existsSync(path.join(root, p)) ? fs.readFileSync(path.join(root, p), "utf8") : "";
+    return t.slice(t.indexOf("\n---\n") + 5);
+  };
+
   const promoted = /^editorial_pass:/m.test(fm);
   // a text promoted earlier is still this pass's body, with the editor's fixes
-  if (promoted && file.slice(file.indexOf("\n---\n") + 5) !== `${edited}\n`)
+  if (promoted && (bodyOf(md) !== `${parts[0]}\n` || (r.split && bodyOf(r.split) !== `${parts[1]}\n`)))
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
     const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
-    fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${edited}\n`);
+    fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${parts[0]}\n`);
     // 50 takes index.json's titles from the manifest
     manifest.find((e) => e.local_md === md).title = r.title;
+    if (r.split) {
+      const f = { source: "onedrive", ...edits.split.frontmatter };
+      const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}` : `${k}: ${JSON.stringify(v)}`);
+      fs.writeFileSync(path.join(root, r.split), `---\n${yaml.join("\n")}\neditorial_pass: "${today}"\n---\n${parts[1]}\n`);
+      const i = manifest.findIndex((e) => e.local_md === r.split);
+      manifest[i < 0 ? manifest.length : i] = { ...f, local_md: r.split };
+    }
   }
   r.promoted = !r.unexplained.length || promoted;
   rows.push(r);
@@ -423,6 +442,8 @@ for (const [head, key] of [["Substitutions: a non-word corrected to a word", "no
 }
 L.push("", "## Segond readings inserted", "", "| Text | Announced as | Looked up under |", "| --- | --- | --- |");
 for (const r of rows) for (const x of r.readings) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(x.said)} | ${x.ref} |`);
+L.push("", "## Works split in two (the PDF prints a second work after the first)", "");
+for (const r of rows) if (r.split) L.push(`- \`${path.basename(r.md, ".md")}\` → \`${path.basename(r.split, ".md")}\`, from « ${cell(fixes[r.md].split.at)} »`);
 L.push("", "## Not accepted, per text", "");
 for (const r of rows) {
   if (r.unexplained.length) L.push(`- \`${r.md.slice("markdown/".length)}\``, ...r.unexplained.map((u) => `  - ${cell(u)}`));
