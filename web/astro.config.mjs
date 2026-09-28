@@ -10,6 +10,7 @@ import fs from "node:fs";
 import { rehypeBibleLinks } from "./src/lib/bible-links.mjs";
 import { rehypeBookmarks } from "./src/lib/bookmarks.mjs";
 import { rehypeBodyImages } from "./src/lib/body-images.mjs";
+import { rehypeFrenchTypography } from "./src/lib/french-typography.mjs";
 
 // A duplicate (goal 09: `duplicate_of: "<source>/<path>"`) is not built; its
 // URL, public since goal 05, answers 301 to the work it duplicates. The rules
@@ -39,7 +40,7 @@ const duplicateRedirects = {
 export default defineConfig({
   site: "https://mevar.org",
   trailingSlash: "always",
-  markdown: { rehypePlugins: [rehypeBookmarks, rehypeBodyImages, rehypeBibleLinks] },
+  markdown: { rehypePlugins: [rehypeBookmarks, rehypeBodyImages, rehypeBibleLinks, rehypeFrenchTypography] },
   integrations: [
     duplicateRedirects,
     svelte(),
