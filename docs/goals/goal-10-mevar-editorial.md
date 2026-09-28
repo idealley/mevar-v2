@@ -159,9 +159,7 @@ and CMPP sources; merging versions (goal 09 chose one).
   would demote every promoted text, as 73 would have before batch 01.
   Found by batch 01's fifth review; 64 is not run since the OneDrive
   import, so it is left for the goal that next touches it.
-
-- The report's « since fixed by the editor » mark misses a pass's unclear
-  sentence that holds bold (86 looks for it verbatim in the body): two in
-  batch 03's `exhojuil2010`. Found by batch 03's review.
 - The editor's file can set a title, not a subtitle: `exhortation_janvier_2013`
-  keeps « 2013 - ANNEE DE MISSION ».
+  keeps « 2013 - ANNEE DE MISSION ». And 86 refuses a header whose words
+  differ from the title's (« VOUS MEME » for « vous-mêmes »):
+  `exhortation_aout_2008` keeps its header until Samuel says which is right.
