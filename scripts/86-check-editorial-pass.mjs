@@ -233,11 +233,15 @@ for (const md of batch) {
   }
   for (const u of pass.unresolved) r.unexplained.push(`reading announced as « ${u} » could not be resolved: nothing inserted`);
   // where each "word" fix sits in the text the check compares (after the
-  // verified readings came out)
-  const spans = placed.filter((f) => f.kind === "word").map((f) => {
-    const i = body.indexOf(f.replace.normalize("NFC"));
-    return [i, i + f.replace.length, f];
-  }).filter(([i]) => i >= 0);
+  // verified readings came out): its replacement must occur there once, or
+  // the words it would explain are not the editor's for sure
+  const spans = [];
+  for (const f of placed.filter((f) => f.kind === "word")) {
+    const rep = f.replace.normalize("NFC");
+    const i = body.indexOf(rep);
+    if (i < 0 || body.indexOf(rep, i + 1) >= 0) r.unexplained.push(`editor's word fix « ${f.replace} » is not found exactly once in the compared text`);
+    else spans.push([i, i + rep.length, f]);
+  }
 
   const file = fs.readFileSync(path.join(root, md), "utf8");
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
