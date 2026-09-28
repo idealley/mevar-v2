@@ -98,6 +98,13 @@ the verification done by a script and by sampling.
   `markdown/mevar/ce-qui-arrive-le-jour-du-seigneur.md` (« Je vis un autre
   ange… (Apocalypse 14:7) »); the site sets it in italics. Verse numbers in
   a quote are bold.
+- **Editing pass** (Samuel, after batch 01's bold round: « can you do
+  yourself an editing pass ? »): Claude reads each text of a batch against
+  its PDF, keeps or reverts every substitution, fixes what the pass missed,
+  and resolves the refused changes; the fixes are
+  `scripts/mevar-editorial-fixes.json`, applied and checked by 86. A
+  transcriber's dropped or doubled word may be fixed there (kind `word`),
+  listed apart; the preacher's oral style stays (a dropped « ne » stays).
 - **Batches:** `scripts/mevar-editorial-batches.json`. The two books
   (`le_royaume_de_dieu_kadjani`, `les_cinq_ministeres_de_la_parole`, 200,000
   words together) get a batch of their own.

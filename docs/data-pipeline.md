@@ -88,6 +88,7 @@ for 85 the root `.env` (`DOTENV_CONFIG_PATH=<root>/.env` from a worktree).
 | `84-extract-originals.mjs <batch>`  | each PDF original to `.parse-cache/` (gitignored) through pdftohtml (poppler): the text layer word for word, with the preacher's bold as `**…**` |
 | `85-editorial-pass.mjs <batch>`     | gpt-6-sol applies goal 04's rules to the original; missing readings become Segond verses from `bible_verse` (`segond.mjs`); result to `.pass-cache/` |
 | `86-check-editorial-pass.mjs <batch>` | word-by-word check of original against pass; a text with no unexplained change is written to `markdown/` with `editorial_pass`; report to `docs/goals/evidence/goal-10-batch-<batch>.md` |
+| `mevar-editorial-fixes.json`        | the editor's fixes (Samuel, or Claude as his editor): per text, an exact passage of the pass and its replacement, with a kind and a reason; 86 applies them before its check and lists them; only a fix of kind `word` may add or remove a word |
 
 Then 65 on the batch's files and 47, as after any change to a body. 73
 skips a text that has `editorial_pass`.
