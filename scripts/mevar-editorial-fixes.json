@@ -965,6 +965,12 @@
         "replace": "**Il y eut un grand réveil",
         "kind": "word",
         "why": "editor: « Il y eut », « y » dropped by the author's typing"
+      },
+      {
+        "find": "comme c’est fut le cas dans Luc 18",
+        "replace": "comme ce fut le cas dans Luc 18",
+        "kind": "word",
+        "why": "editor: « comme ce fut le cas »; « c'est fut » is the author's slip, as in the other place"
       }
     ]
   },
@@ -2218,9 +2224,9 @@
       },
       {
         "find": "alors qu’il a des liens, on n’est pas délivré si on a des liens",
-        "replace": "alors qu’il a des liens, on n’est pas délivré si on a des liens",
-        "kind": "word",
-        "why": "editor: the transcriber dropped the n' of « on n'est », which sounds the same; the pass's « n' » stays"
+        "replace": "alors qu’il a des liens, on est pas délivré si on a des liens",
+        "kind": "restore",
+        "why": "the preacher's « on est pas », as in the PDF: a dropped « ne » is oral style and stays"
       },
       {
         "find": "Il paraît que ça a été prêché dans une église",

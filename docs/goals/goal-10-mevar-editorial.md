@@ -88,8 +88,11 @@ the verification done by a script and by sampling.
   starts from the original (84), so the preacher's forms come back, and the
   DeepSeek cleanup's word changes go through the check too.
 - **Model:** a pilot on three texts; `gpt-6-sol` had the fewest changes the
-  check refuses and none an added word: about $30 for the goal, $2.60 for a
-  batch of 130,000 words.
+  check refuses and none an added word: $2.60 for a batch of 130,000 words.
+  Batch 01 cost about $22, redone as the bar rose (LlamaParse's word
+  changes, then the preacher's bold); from batch 02, about $4 a batch (the
+  pass and a second try of refused texts), about $35 for the 9 left, about
+  $57 for the goal.
 - **Not in the pass:** `onedrive/pdf/thebath.md` is English;
   `onedrive/pdf/LA GUERRE DE LIBERATION.md` has an empty original.
 - **Quotes** (Samuel, after batch 01's first PR round): a citation that is
@@ -102,9 +105,14 @@ the verification done by a script and by sampling.
   yourself an editing pass ? »): Claude reads each text of a batch against
   its PDF, keeps or reverts every substitution, fixes what the pass missed,
   and resolves the refused changes; the fixes are
-  `scripts/mevar-editorial-fixes.json`, applied and checked by 86. A
-  transcriber's dropped or doubled word may be fixed there (kind `word`),
-  listed apart; the preacher's oral style stays (a dropped « ne » stays).
+  `scripts/mevar-editorial-fixes.json`, applied and checked by 86. The
+  model never adds or removes a word; the editor may, for a transcriber's
+  slip only (kind `word`, listed apart): a sound that was said and not
+  written (« ça été » → « ça a été », « il y des » → « il y a des »), a
+  doubled or misheard word (« il n'y a avait », « Quand est-il » → « Qu'en
+  est-il », « rendez de vous »). What was not said stays, as oral style: a
+  dropped « ne » (« on est pas délivré »), a missing « pas ». Samuel may
+  overrule any of them.
 - **Batches:** `scripts/mevar-editorial-batches.json`. The two books
   (`le_royaume_de_dieu_kadjani`, `les_cinq_ministeres_de_la_parole`, 200,000
   words together) get a batch of their own.
