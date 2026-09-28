@@ -202,7 +202,9 @@ for (const md of batch) {
   const placed = edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at.get(b) - at.get(a));
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
   // the pass's unclear sentences an editor's fix has since changed
-  r.unclearFixed = new Set(pass.unclear.filter((u) => pass.body.includes(u) && !edited.includes(u)));
+  // (read without the bold: the pass lists them without its **)
+  const plain = (t) => t.replace(/\*\*/g, "");
+  r.unclearFixed = new Set(pass.unclear.filter((u) => plain(pass.body).includes(plain(u)) && !plain(edited).includes(plain(u))));
   r.editorWords = [];
   const proposedTitle = edits.title ?? pass.title;
 
