@@ -36,7 +36,8 @@ export function frenchSpacing(text, before = "") {
 function joinReferences(text) {
   let out = "";
   let at = 0;
-  for (const c of [...citations(text)].sort((a, b) => a.index - b.index)) {
+  // in order; of two at the same place, the longer, as the Bible links
+  for (const c of [...citations(text)].sort((a, b) => a.index - b.index || b.text.length - a.text.length)) {
     if (c.index < at) continue;
     out += text.slice(at, c.index) + c.text.replace(/(?<=\d)[ \u00a0\u2009\u202f]*:[ \u00a0\u2009\u202f]*(?=\d)/g, ":");
     at = c.index + c.text.length;
