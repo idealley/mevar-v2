@@ -201,7 +201,6 @@ for (const md of batch) {
   // the pass's unclear sentences an editor's fix has since changed
   r.unclearFixed = new Set(pass.unclear.filter((u) => pass.body.includes(u) && !edited.includes(u)));
   r.editorWords = [];
-  r.readingsRemoved = [];
   const proposedTitle = edits.title ?? pass.title;
 
   // The inserted readings leave the compared text once they are verified:
@@ -218,10 +217,6 @@ for (const md of batch) {
     && (c.ref.includes("-") ? c.ref === ref : c.ref === ref.replace(/-\d+$/, ""));
   for (const { ref } of pass.readings) {
     const verses = await reading(db, ref);
-    // a reading the editor took out again (it could not be verified): a fix
-    // whose passage holds the whole Segond text and whose replacement quotes
-    // nothing
-    if (verses && edits.fixes.some((f) => f.find.normalize("NFC").includes(blockquote(verses, ref)) && !/^\s*>/m.test(f.replace))) { r.readingsRemoved.push(ref); continue; }
     const inserted = verses && `\n\n${blockquote(verses, ref)}`;
     const at = inserted ? body.indexOf(inserted) : -1;
     const whole = at >= 0 && body.indexOf(inserted, at + 1) < 0 && /^[ \t]*(\n\s*\n|\s*$)/.test(body.slice(at + inserted.length));
@@ -428,7 +423,6 @@ for (const [head, key] of [["Substitutions: a non-word corrected to a word", "no
 }
 L.push("", "## Segond readings inserted", "", "| Text | Announced as | Looked up under |", "| --- | --- | --- |");
 for (const r of rows) for (const x of r.readings) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(x.said)} | ${x.ref} |`);
-for (const r of rows) for (const x of r.readingsRemoved) L.push(`| \`${path.basename(r.md, ".md")}\` | (inserted by the pass, taken out by the editor: not verifiable) | ${x} |`);
 L.push("", "## Not accepted, per text", "");
 for (const r of rows) {
   if (r.unexplained.length) L.push(`- \`${r.md.slice("markdown/".length)}\``, ...r.unexplained.map((u) => `  - ${cell(u)}`));
