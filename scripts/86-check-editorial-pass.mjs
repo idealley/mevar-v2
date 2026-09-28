@@ -58,7 +58,9 @@ const batchId = process.argv[2];
 const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-batches.json"), "utf8"))[batchId];
 // The editor's fixes to a pass (Samuel's delegate, then Samuel): each is an
 // exact passage of the pass's body and its replacement, with the reason. They
-// are applied before the check, which verifies the result like the rest.
+// are applied before the check, which verifies the result like the rest. A
+// text's entry may also give the title, and a location the header states and
+// the frontmatter lacks.
 const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-fixes.json"), "utf8"));
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
@@ -168,7 +170,7 @@ function sentence(text, at) {
 
 const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
 // Words a transcript's header has besides the frontmatter's
-const HEADER_WORDS = "prêché prêchée prédication exhortation fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
+const HEADER_WORDS = "prêché prêchée prédication exhortation spécial spéciale fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
 
 const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive.json"), "utf8"));
 const db = await connect();
@@ -204,8 +206,10 @@ for (const md of batch) {
 
   // The inserted readings leave the compared text once they are verified:
   // a paragraph of its own, the Segond verses, for a reference the original
-  // cites and that the paragraph just before announces as a reading.
-  const cited = [...citations(original)];
+  // cites and that the paragraph just before announces as a reading (« nous
+  // lisons », « le deuxième texte se trouve dans »).
+  // (the PDF's justified lines double some spaces: « 1  Samuel 2 : 22-26 »)
+  const cited = [...citations(original.replace(/[ \t]+/g, " "))];
   let body = edited.normalize("NFC");
   // A bare chapter ("Nous lisons dans Jean 3") never authorises a reading:
   // the announcement names the verses, the first at least.
@@ -219,7 +223,7 @@ for (const md of batch) {
     const paragraph = body.slice(0, Math.max(at, 0)).split(/\n\s*\n/).filter((p) => p.trim()).at(-1) ?? "";
     const announced = cited.find((c) => matches(c, ref));
     if (!whole) r.unexplained.push(`reading ${ref} is not the Segond text as a paragraph of its own`);
-    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/(?<!\p{L})(lis\p{L}*|lire|lu|lecture)(?!\p{L})/iu.test(paragraph))
+    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/(?<!\p{L})(lis\p{L}*|lire|lu|lecture|texte)(?!\p{L})/iu.test(paragraph))
       r.unexplained.push(`reading ${ref} inserted, but the paragraph before it does not announce it as a reading the original cites`);
     else {
       body = body.replace(inserted, "");
@@ -232,6 +236,8 @@ for (const md of batch) {
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
   const field = (k) => JSON.parse(fm.match(new RegExp(`^${k}: (.*)$`, "m"))?.[1] ?? '""');
   const oldTitle = field("title");
+  // a place the header gives and the frontmatter lacks, set by the editor
+  const location = field("location") || edits.location || "";
   const after = rendered(body, r.unexplained);
   r.words = words(original).length;
 
@@ -247,6 +253,9 @@ for (const md of batch) {
   const furniture = [
     [/^[\s*]*(\d\s+)?Haut\s+de\s+page\s+Retour\s+Page\s+d['’]accueil[\s*]*$/gm, "print"],
     [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
+    [/^\s*\S*mevar\.org\/\S*(\s+\d+\/\d+)?\s*$/gim, "print"],
+    [/^\s*\d+\/\d+\s*$/gm, "print"],
+    [/^[\s*]*Haut\s+de\s+page[\s*]*$/gm, "print"],
     [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
   ];
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
@@ -269,7 +278,7 @@ for (const md of batch) {
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
   const key = (w) => bare(fold(w));
   const [y, mo, d] = field("date").split("-");
-  const own = new Set([oldTitle, field("subtitle"), field("location"), field("preacher"),
+  const own = new Set([oldTitle, field("subtitle"), location, field("preacher"),
     `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w));
@@ -389,10 +398,14 @@ for (const md of batch) {
   if (promoted && file.slice(file.indexOf("\n---\n") + 5) !== `${edited}\n`)
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
-    const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
+    let newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`);
+    if (edits.location && !field("location")) newFm = newFm.replace(/^(date: .*|year: .*)$/m, (l) => `${l}\nlocation: ${JSON.stringify(edits.location)}`);
+    newFm += `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${edited}\n`);
     // 50 takes index.json's titles from the manifest
-    manifest.find((e) => e.local_md === md).title = r.title;
+    const entry = manifest.find((e) => e.local_md === md);
+    entry.title = r.title;
+    if (edits.location && !field("location")) entry.location = edits.location;
   }
   r.promoted = !r.unexplained.length || promoted;
   rows.push(r);
