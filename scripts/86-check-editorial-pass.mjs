@@ -187,7 +187,9 @@ for (const md of batch) {
   // Applied from the end, so each fix's place in the edited body is known:
   // a fix of kind "word" (the editor adding or removing a word the
   // transcriber dropped or doubled: "ça été" → "ça a été") may do so inside
-  // its own span, and is listed apart.
+  // its own span, and is listed apart. One whose find is its replacement
+  // approves the pass's own removal there (« en genouillé » → « agenouillé »),
+  // listed the same way.
   let edited = pass.body;
   const at = new Map(edits.fixes.map((f) => [f, pass.body.indexOf(f.find)]));
   for (const f of edits.fixes) {
