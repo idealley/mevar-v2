@@ -56,12 +56,19 @@ import { connect, reading, blockquote } from "./segond.mjs";
 const root = path.resolve(import.meta.dirname, "..");
 const batchId = process.argv[2];
 const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-batches.json"), "utf8"))[batchId];
+// The editor's fixes to a pass (Samuel's delegate, then Samuel): each is an
+// exact passage of the pass's body and its replacement, with the reason. They
+// are applied before the check, which verifies the result like the rest.
+const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-fixes.json"), "utf8"));
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
 
 // Words with their position, in NFC text; a number glued to letters is its
-// own word ("11novembre1962").
-const WORD = /[\p{L}\p{M}]+|\p{N}+/gu;
+// own word ("11novembre1962"), and a number in groups of three is one number
+// ("50 000" is "50000": the thousands separator is typography, as is a
+// number the PDF's line break cut in groups of three).
+const WORD = /[\p{L}\p{M}]+|\p{N}{1,3}(?:[ \u00a0\u202f]\p{N}{3})+(?!\p{N})|\p{N}+/gu;
+const token = (m) => m.replace(/[ \u00a0\u202f]/g, "");
 
 // The original's words (84's text, whose only markup is **…**, balanced on
 // each line and set against words): each knows whether it is bold.
@@ -70,7 +77,7 @@ function words(text) {
   let s = 0;
   return [...text.matchAll(WORD)].map((m) => {
     while (s < stars.length && stars[s] < m.index) s++;
-    return { w: m[0], at: m.index, bold: s % 2 === 1, quote: false };
+    return { w: token(m[0]), at: m.index, bold: s % 2 === 1, quote: false };
   });
 }
 
@@ -84,7 +91,7 @@ function rendered(md, found) {
       found.push(`${node.type === "html" ? "HTML" : "a heading"}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
     // text, and code (a line indented four spaces), whose words are words too
     if (["text", "code", "inlineCode"].includes(node.type))
-      for (const m of node.value.matchAll(WORD)) out.push({ w: m[0], at: node.position.start.offset + m.index, bold, quote });
+      for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote });
     // an ordered list's numbers are markup to markdown, words to the check
     (node.children ?? []).forEach((c, i) => {
       if (node.type === "list" && node.ordered) out.push({ w: String((node.start ?? 1) + i), at: c.position.start.offset, bold, quote });
@@ -172,12 +179,34 @@ for (const md of batch) {
   const original = fs.readFileSync(path.join(root, ".parse-cache", rel), "utf8").normalize("NFC");
   const pass = JSON.parse(fs.readFileSync(path.join(root, ".pass-cache", rel.replace(/\.md$/, ".json")), "utf8"));
   const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0, verseNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], pass };
+  const edits = fixes[md] ?? { title: null, fixes: [] };
+  r.fixes = edits.fixes;
+  // Applied from the end, so each fix's place in the edited body is known:
+  // a fix of kind "word" (the editor adding or removing a word the
+  // transcriber dropped or doubled: "ça été" → "ça a été") may do so inside
+  // its own span, and is listed apart.
+  let edited = pass.body;
+  const at = new Map(edits.fixes.map((f) => [f, pass.body.indexOf(f.find)]));
+  for (const f of edits.fixes) {
+    const n = pass.body.split(f.find).length - 1;
+    if (n !== 1) r.unexplained.push(`editor's fix found ${n} times, not once: « ${f.find} »`);
+  }
+  const placed = edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at.get(b) - at.get(a));
+  for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
+  let shift = 0;
+  const spans = [];
+  for (const f of [...placed].reverse()) {
+    if (f.kind === "word") spans.push([at.get(f) + shift, at.get(f) + shift + f.replace.length, f]);
+    shift += f.replace.length - f.find.length;
+  }
+  r.editorWords = [];
+  const proposedTitle = edits.title ?? pass.title;
 
   // The inserted readings leave the compared text once they are verified:
   // a paragraph of its own, the Segond verses, for a reference the original
   // cites and that the paragraph just before announces as a reading.
   const cited = [...citations(original)];
-  let body = pass.body.normalize("NFC");
+  let body = edited.normalize("NFC");
   // A bare chapter ("Nous lisons dans Jean 3") never authorises a reading:
   // the announcement names the verses, the first at least.
   const matches = (c, ref) => c.ref.includes(":")
@@ -216,7 +245,7 @@ for (const md of batch) {
   let compared = original;
   const glyphs = new Set([..."0123456789"].filter((d) => (compared.match(new RegExp(`(?<=\\p{L})${d}(?=\\p{L})`, "gu")) ?? []).length >= 5));
   const furniture = [
-    [/^\s*Haut\s+de\s+page\s+Retour\s+Page\s+d['’]accueil\s*$/gm, "print"],
+    [/^[\s*]*(\d\s+)?Haut\s+de\s+page\s+Retour\s+Page\s+d['’]accueil[\s*]*$/gm, "print"],
     [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
     [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
   ];
@@ -250,8 +279,12 @@ for (const md of batch) {
   const text = (xs) => xs.map((x) => x.w).join(" ");
   const join = (xs) => fold(xs.map((x) => x.w).join(""));
   // Reads one change; returns what it found, without touching r.
-  function classify({ before, after: now, at }) {
-    const c = { typography: 0, spacing: 0, nonWord: [], word: [], unexplained: [] };
+  function classify({ before: all, after: now, at }) {
+    const c = { typography: 0, spacing: 0, glyph: 0, nonWord: [], word: [], unexplained: [] };
+    // a glyph digit inside a change is a glyph ("Eglise 4" → "Église")
+    const before = all.filter((x) => !(glyphs.has(x.w) && !now.some((y) => y.w === x.w)));
+    c.glyph += all.length - before.length;
+    if (!before.length && !now.length) return c;
     const both = [...before, ...now];
     // bold is compared inside a change too: the same on both sides
     if (before.length === now.length ? before.some((b, i) => b.bold !== now[i].bold && !verse(b, now[i]))
@@ -263,7 +296,8 @@ for (const md of batch) {
       // non" → "sinon", as "sur tout" → "surtout" would be); for digits, only
       // the thousands separator ("50000" → "50 000") is typography.
       if (both.every((x) => /^\d+$/.test(x.w))) {
-        if (before.length === 1 && now.slice(1).every((x) => x.w.length === 3)) c.typography++;
+        const grouped = (xs) => xs.length > 1 && xs.slice(1).every((x) => x.w.length === 3);
+        if (grouped(before) || grouped(now)) c.typography++;
         else c.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
       } else if (both.some((x) => /^\d+$/.test(x.w))) c.unexplained.push(`« ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
       else if (both.some((x) => !isWord(x.w))) c.spacing++;
@@ -316,11 +350,18 @@ for (const md of batch) {
   }
   flush();
   for (const hunk of changes) {
+    // a change inside an editor's "word" fix is the editor's decision
+    const span = spans.find(([s, e]) => hunk.at >= s - 1 && hunk.at <= e && hunk.after.every((x) => x.at >= s - 1 && x.at <= e));
+    if (span) {
+      const c = classify(hunk);
+      if (c.unexplained.length) { r.editorWords.push({ before: text(hunk.before), after: text(hunk.after), why: span[2].why }); continue; }
+    }
     let found = [classify(hunk)];
     if (found[0].unexplained.length && hunk.parts.length > 1) found = hunk.parts.map(classify);
     for (const c of found) {
       r.counts.typography += c.typography;
       r.counts.spacing += c.spacing;
+      r.counts.glyph += c.glyph;
       r.nonWord.push(...c.nonWord);
       r.word.push(...c.word);
       r.unexplained.push(...c.unexplained);
@@ -329,18 +370,18 @@ for (const md of batch) {
 
   // The title: only typography may change, and a word in capitals may get its
   // accents back ("LES FILS DU DESERT" → "Les fils du désert").
-  const [ot, nt] = [words(oldTitle), words(pass.title)];
+  const [ot, nt] = [words(oldTitle), words(proposedTitle)];
   const caps = (a, b) => a === a.toUpperCase() && bare(fold(a)) === bare(fold(b));
-  r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w) || caps(x.w, nt[i].w)) ? pass.title : oldTitle;
-  r.titleRefused = r.title === pass.title ? "" : pass.title;
+  r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w) || caps(x.w, nt[i].w)) ? proposedTitle : oldTitle;
+  r.titleRefused = r.title === proposedTitle ? "" : proposedTitle;
 
   const promoted = /^editorial_pass:/m.test(fm);
-  // a text promoted earlier is still this pass's body
-  if (promoted && file.slice(file.indexOf("\n---\n") + 5) !== `${pass.body}\n`)
+  // a text promoted earlier is still this pass's body, with the editor's fixes
+  if (promoted && file.slice(file.indexOf("\n---\n") + 5) !== `${edited}\n`)
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
     const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
-    fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${pass.body}\n`);
+    fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${edited}\n`);
     // 50 takes index.json's titles from the manifest
     manifest.find((e) => e.local_md === md).title = r.title;
   }
@@ -366,6 +407,10 @@ L.push("", "## Not accepted, per text", "");
 for (const r of rows) {
   if (r.unexplained.length) L.push(`- \`${r.md.slice("markdown/".length)}\``, ...r.unexplained.map((u) => `  - ${cell(u)}`));
 }
+L.push("", "## Editor's fixes (scripts/mevar-editorial-fixes.json)", "", "| Text | Kind | In the pass | Fixed to | Why |", "| --- | --- | --- | --- | --- |");
+for (const r of rows) for (const f of r.fixes) L.push(`| \`${path.basename(r.md, ".md")}\` | ${f.kind} | ${cell(f.find)} | ${cell(f.replace)} | ${cell(f.why)} |`);
+L.push("", "## Words the editor added or removed (fixes of kind \"word\")", "", "| Text | Before | After | Why |", "| --- | --- | --- | --- |");
+for (const r of rows) for (const w of r.editorWords) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(w.before)} | ${cell(w.after)} | ${cell(w.why)} |`);
 L.push("", "## Headers removed (the frontmatter holds title, date, place)", "");
 for (const r of rows) for (const h of r.removed) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
 L.push("", "## Sentences the pass left as they are (unclear)", "");
