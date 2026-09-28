@@ -170,7 +170,7 @@ function sentence(text, at) {
 
 const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
 // Words a transcript's header has besides the frontmatter's
-const HEADER_WORDS = "prêché prêchée prédication exhortation spécial spéciale fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
+const HEADER_WORDS = "prêché prêchée prédication exhortation fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
 
 const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive.json"), "utf8"));
 const db = await connect();
@@ -261,7 +261,6 @@ for (const md of batch) {
     [/^[\s*]*(\d\s+)?Haut\s+de\s+page\s+Retour\s+Page\s+d['’]accueil[\s*]*$/gm, "print"],
     [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
     [/^\s*\S*mevar\.org\/\S*(\s+\d+\/\d+)?\s*$/gim, "print"],
-    [/^\s*\d+\/\d+\s*$/gm, "print"],
     [/^[\s*]*Haut\s+de\s+page[\s*]*$/gm, "print"],
     [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
   ];
