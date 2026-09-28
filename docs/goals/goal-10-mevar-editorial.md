@@ -93,8 +93,12 @@ the verification done by a script and by sampling.
   changes, then the preacher's bold); from batch 02, about $4 a batch (the
   pass and a second try of refused texts), about $35 for the 9 left, about
   $57 for the goal.
-- **Not in the pass:** `onedrive/pdf/exhortation_2011.md` (batch 03): it reads 1 Samuel 18:11-12, and OpenAI's content filter stops `gpt-6-sol`'s answer on that part every time (whole, halved, in 500-word parts); it waits for a fallback Samuel approves; `onedrive/pdf/thebath.md` is English;
-  `onedrive/pdf/LA GUERRE DE LIBERATION.md` has an empty original.
+- **Not in the pass:** `onedrive/pdf/thebath.md` is English;
+  `onedrive/pdf/LA GUERRE DE LIBERATION.md` has an empty original;
+  `onedrive/pdf/exhortation_2011.md` (found in batch 03) reads 1 Samuel
+  18:11-12, and OpenAI's content filter stops `gpt-6-sol`'s answer on
+  that part every time (whole, halved, in 500-word parts): it waits for a
+  fallback Samuel approves.
 - **Quotes** (Samuel, after batch 01's first PR round): a citation that is
   not in the sentence is its own blockquote, `> …`, with the preacher's bold
   and the reference at the end where he gives it there, as in
@@ -155,3 +159,9 @@ and CMPP sources; merging versions (goal 09 chose one).
   would demote every promoted text, as 73 would have before batch 01.
   Found by batch 01's fifth review; 64 is not run since the OneDrive
   import, so it is left for the goal that next touches it.
+
+- The report's « since fixed by the editor » mark misses a pass's unclear
+  sentence that holds bold (86 looks for it verbatim in the body): two in
+  batch 03's `exhojuil2010`. Found by batch 03's review.
+- The editor's file can set a title, not a subtitle: `exhortation_janvier_2013`
+  keeps « 2013 - ANNEE DE MISSION ».
