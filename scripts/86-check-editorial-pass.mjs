@@ -196,6 +196,8 @@ for (const md of batch) {
   }
   const placed = edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at.get(b) - at.get(a));
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
+  // the pass's unclear sentences an editor's fix has since changed
+  r.unclearFixed = new Set(pass.unclear.filter((u) => pass.body.includes(u) && !edited.includes(u)));
   r.editorWords = [];
   r.readingsRemoved = [];
   const proposedTitle = edits.title ?? pass.title;
@@ -428,7 +430,7 @@ for (const r of rows) for (const w of r.editorWords) L.push(`| \`${path.basename
 L.push("", "## Headers removed (the frontmatter holds title, date, place)", "");
 for (const r of rows) for (const h of r.removed) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
 L.push("", "## Sentences the pass left as they are (unclear)", "");
-for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}`);
+for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}${r.unclearFixed.has(u) ? " (since fixed by the editor)" : ""}`);
 L.push("", "## Titles", "", "| Text | Title | Proposed by the pass and refused (a word changed) |", "| --- | --- | --- |");
 for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.titleRefused)} |`);
 // gpt-6-sol, per million tokens: $2 in, $10 out (reasoning included)
