@@ -41,7 +41,8 @@
 // which 50 reads), and editorial_pass: "<date>". A PDF that prints two works
 // (a second exhortation after the first) is checked as one and written as
 // two: the editor's `split` gives the words the second begins with and its
-// frontmatter. A text that already has editorial_pass is left as it is. The report goes to
+// frontmatter, and each file names the other in `published_with`, so the
+// site keeps them together. A text that already has editorial_pass is left as it is. The report goes to
 // docs/goals/evidence/goal-10-batch-<batch>.md.
 //
 // Usage: node scripts/86-check-editorial-pass.mjs <batch>   (SurrealDB with 110 run)
@@ -409,15 +410,20 @@ for (const md of batch) {
   if (promoted && (bodyOf(file) !== `${parts[0]}\n` || (r.split && bodyOf(fs.readFileSync(path.join(root, r.split), "utf8")) !== `${parts[1]}\n`)))
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
-    const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
+    const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
+    const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`)
+      + (r.split ? `\npublished_with: ${JSON.stringify(work(r.split))}` : "") + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${parts[0]}\n`);
     // 50 takes index.json's titles from the manifest
     manifest.find((e) => e.local_md === md).title = r.title;
     if (r.split) {
-      const f = { source: "onedrive", ...edits.split.frontmatter };
+      const f = { source: "onedrive", ...edits.split.frontmatter, published_with: work(md) };
       const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}` : `${k}: ${JSON.stringify(v)}`);
       fs.writeFileSync(path.join(root, r.split), `---\n${yaml.join("\n")}\neditorial_pass: "${today}"\n---\n${parts[1]}\n`);
-      manifest.push({ ...f, local_md: r.split });
+      // replaced, not added, when the original is promoted again (reset to
+      // main's text so a new fix applies)
+      const i = manifest.findIndex((e) => e.local_md === r.split);
+      manifest[i < 0 ? manifest.length : i] = { ...f, local_md: r.split };
     }
   }
   r.promoted = !r.unexplained.length || promoted;
