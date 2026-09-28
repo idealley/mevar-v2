@@ -17,6 +17,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { frenchSpacing } from "../web/src/lib/french-typography.mjs";
 
 const SITE = "https://mevar.org";
 const MAX_HTML = 40 * 1024;
@@ -25,7 +26,7 @@ const root = path.resolve(import.meta.dirname, "..");
 
 const [file] = process.argv.slice(2).filter((a, i, all) => !a.startsWith("--") && all[i - 1] !== "--note");
 const noteAt = process.argv.indexOf("--note");
-const note = noteAt === -1 ? undefined : process.argv[noteAt + 1];
+const note = noteAt === -1 ? undefined : frenchSpacing(process.argv[noteAt + 1]);
 if (!file) {
   console.error('usage: node email/build.mjs markdown/<source>/<slug>.md [--note "Une phrase."]');
   process.exit(1);
@@ -38,7 +39,8 @@ const field = (k) => {
 };
 
 if (field("status") !== "published") throw new Error(`${rel} is not published: a draft is never emailed`);
-const title = field("title");
+// The site's French typography (goal 17): the narrow space before « : ; ? ! ».
+const title = frenchSpacing(field("title"));
 // `preacher` is the one display name goal 08 writes; until then, the first author.
 const preacher = field("preacher") ?? front.match(/^authors:\n {2}- (.*)$/m)?.[1]?.replace(/^"|"$/g, "");
 const date = new Date(`${field("published_at")}T00:00:00Z`).toLocaleDateString("fr-FR", {
@@ -47,7 +49,7 @@ const date = new Date(`${field("published_at")}T00:00:00Z`).toLocaleDateString("
   year: "numeric",
   timeZone: "UTC",
 });
-const summary = field("summary");
+const summary = frenchSpacing(field("summary"));
 const image = field("local_image");
 const pdf = field("local_pdf");
 // The site's own rule (web/src/lib/works.ts, workUrl).
