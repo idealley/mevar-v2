@@ -122,7 +122,7 @@ Dans l’est du pays, une autre assemblée que nous avons visitée connaît auss
 Mes chers frères et sœurs, amis de la chaîne de prière, je voudrais être bref dans ce compte rendu. Sachez que de nouveaux combats nous attendent dans les prières d’intercession. Si vous êtes sûrs que le Seigneur Jésus-Christ me conduit dans cette œuvre, **comme vous-mêmes priez pour moi dans ce but, alors comprenez que les nouvelles stratégies que nous développons maintenant sont le fruit de vos prières en ma faveur**. Le Saint-Esprit a procédé à une réorganisation des troupes telles que présentées ci-après. Les intercesseurs sont organisés en Cellules d’intercession.
 
 1. Cellule d’Abidjan (Côte d’Ivoire)
-**2**. Cellule de Soubré (Côte d’Ivoire)
+2. Cellule de Soubré (Côte d’Ivoire)
 3. Cellule de Guibéroua (Côte d’Ivoire)
 4. Cellule d’Arrah (Côte d’Ivoire)
 5. Cellule de Jacqueville (Côte d’Ivoire)

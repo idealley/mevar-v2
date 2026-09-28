@@ -2381,6 +2381,12 @@
         "replace": "la traduction des « Trois Grandes Visions du Message du Temps de la Fin » – « le Réveil Promis » – « Dieu veille sur Sa Parole pour l’Exécuter » et continue",
         "kind": "markup",
         "why": "three brochure titles set in guillemets so the list reads"
+      },
+      {
+        "find": "**2**. Cellule de Soubré",
+        "replace": "2. Cellule de Soubré",
+        "kind": "markup",
+        "why": "a bold number is not a list marker: the line joined item 1 and the list counted 13 items for 14"
       }
     ]
   },
