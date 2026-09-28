@@ -125,7 +125,7 @@ Après avoir entendu toutes ces Paroles, le peuple pouvait entrer dans le deuil�
 
 > **Toute l’assemblée éleva la voix et poussa des cris, et le peuple pleura pendant la nuit**. Tous les enfants d’Israël murmurèrent contre Moïse et Aaron, et toute l’assemblée leur dit : Que ne sommes-nous morts dans le pays d’Égypte, ou que ne sommes-nous morts dans ce désert ! (Nbres 14:1-2)
 
-**Aujourd’hui, le peuple de Dieu a besoin d’entendre la prédication du combat spirituel pour avoir la force et le courage de s’engager dans ce combat contre Babylone**. C’est maintenant le temps où les prédicateurs doivent se comporter comme Josué et Caleb. **Notre espérance est notre victoire déjà assurée**. **La victoire est pour nous** ! La chute de Babylone est déjà proclamée dans des prophéties qui s’accompliront dans notre génération. **Quel que soit l’intensité du combat, notre victoire est déjà assurée par Celui qui nous a enrôlés**.
+**Aujourd’hui, le peuple de Dieu a besoin d’entendre la prédication du combat spirituel pour avoir la force et le courage de s’engager dans ce combat contre Babylone**. C’est maintenant le temps où les prédicateurs doivent se comporter comme Josué et Caleb. **Notre espérance est notre victoire déjà assurée**. **La victoire est pour nous** ! La chute de Babylone est déjà proclamée dans des prophéties qui s’accompliront dans notre génération. **Quelle que soit l’intensité du combat, notre victoire est déjà assurée par Celui qui nous a enrôlés**.
 
 Paul exhortait Timothée à souffrir avec lui dans le combat comme un bon soldat de Christ. C’est le même Paul qui a exposé sa vie d’épreuve dans le Ministère aux Corinthiens :
 

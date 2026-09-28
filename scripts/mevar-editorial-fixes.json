@@ -3008,9 +3008,9 @@
       },
       {
         "find": "**Quelque soit l’intensité",
-        "replace": "**Quel que soit l’intensité",
-        "kind": "typo",
-        "why": "spelling of 'quel que soit'"
+        "replace": "**Quelle que soit l’intensité",
+        "kind": "word",
+        "why": "transcriber's spelling of « quelle que soit » (same sound), feminine to agree with « intensité »"
       },
       {
         "find": "que je ne sois faible ?\n\n> Qui vient à tomber",
