@@ -101,7 +101,7 @@ Voici **un évènement** qui arrive dans le jour du Seigneur ou bien de l’Éte
 
 > 4 Ses pieds se poseront en ce jour sur la montagne des oliviers, Qui est vis-à-vis de Jérusalem, du côté de l’orient ; La montagne des oliviers se fendra par le milieu, à l'orient et à l'occident, Et il se formera une très grande vallée : Une moitié de la montagne reculera vers le septentrion, Et une moitié vers le midi.
 
-> 5 Vous fuirez alors dans la vallée de mes montagnes, Car la vallée des montagnes s'étendra jusqu'à Atzel ; Vous fuirez comme vous avez fui devant le tremblement de terre, Au temps d'Ozias, roi de Juda. Et **l'Éternel, mon Dieu, viendra, et tous ses saints avec lui**. (Zacharie 14:1-7)
+> 5 Vous fuirez alors dans la vallée de mes montagnes, Car la vallée des montagnes s'étendra jusqu'à Atzel ; Vous fuirez comme vous avez fui devant le tremblement de terre, Au temps d'Ozias, roi de Juda. Et **l'Éternel, mon Dieu, viendra, et tous ses saints avec lui**. (Zacharie 14 :1-7)
 
 Alléluia. Il viendra et tous ses saints avec lui. Mais ses saints, ils étaient où à ce moment-là ? ils étaient en haut, au ciel. Donc ils viennent avec lui. Voilà une information qui concerne la troisième venue – puisque le Seigneur Jésus vient trois fois. La première venue s’est déjà accomplie avec le Messie, la deuxième venue sera pour l’enlèvement, et à la troisième venue, il vient avec les saints pour juger les nations. Donc, quand vous regardez cette information :
 
@@ -113,23 +113,23 @@ Et **l'Éternel, mon Dieu, viendra, et tous ses saints avec lui » :**
 
 Amen. On comprend par-là que nous sommes dans les jours du Seigneur parce que le frère Branham a utilisé cette écriture pour commencer son ministère. « Mais vers le soir la lumière paraîtra ». Nous sommes dans le jour du Seigneur et il y a plusieurs évènements dans le jour du Seigneur. Il y a un élément dans ce jour qui indique qu’il y a un jour unique, un jour J – qui peut être un jeudi, un vendredi, un samedi ou un dimanche – et là, il s’agit de la résurrection, en un seul jour. Mais quand on dit le jour du Seigneur, on ne sait pas combien de mois, d’années cela fait mais c’est un laps de temps à l’intérieur duquel il y a des évènements dont l’un d’eux est la résurrection des morts qui, elle, a lieu en un jour, en un clin d’œil. Aussi, on ne peut pas dire que cela dure plusieurs jours. Est-ce que le clin d’œil peut durer plusieurs jours ? non, c’est en un seul jour : la résurrection des morts, le changement des corps et l’enlèvement. Donc, Zacharie 14 parle du jour du Seigneur.
 
-On va lire Ésaïe 13, verset 9 qui est encore plus explicite :
+On va lire Esaïe 13, verset 9 qui est encore plus explicite :
 
-> 9 Voici, le jour de l'Éternel arrive, - « voici le jour de l’Éternel arrive », même expression - **Jour cruel, jour de colère et d'ardente fureur, Qui réduira la terre en solitude, Et en exterminera les pécheurs**. 10 Car les étoiles des cieux et leurs astres Ne feront plus briller leur lumière, Le soleil s'obscurcira dès son lever, Et la lune ne fera plus luire sa clarté. (Ésaïe 13:9-10)
+> 9 Voici, le jour de l'Éternel arrive, - « voici le jour de l’Éternel arrive », même expression - **Jour cruel, jour de colère et d'ardente fureur, Qui réduira la terre en solitude, Et en exterminera les pécheurs**. 10 Car les étoiles des cieux et leurs astres Ne feront plus briller leur lumière, Le soleil s'obscurcira dès son lever, Et la lune ne fera plus luire sa clarté. (Esaïe 13:9-10)
 
 L’information que vous trouvez là, dans Esaïe, se trouve dans Mathieu 24, verset 29. Nous allons le lire tout de suite pour ne pas le perdre :
 
 > 29 Aussitôt après ces jours de détresse, le soleil s'obscurcira, la lune ne donnera plus sa lumière, les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées. Mathieu (24:29)
 
-Et maintenant, voici ce qui est dit dans Ésaïe 13 :
+Et maintenant, voici ce qui est dit dans Esaïe 13 :
 
-> 10 Car les étoiles des cieux et leurs astres ne feront plus briller leur lumière, Le soleil s'obscurcira dès son lever, Et la lune ne fera plus luire sa clarté. Ésaïe 13:10
+> 10 Car les étoiles des cieux et leurs astres ne feront plus briller leur lumière, Le soleil s'obscurcira dès son lever, Et la lune ne fera plus luire sa clarté. Esaïe 13:10
 
 Alléluia. Est-ce que vous comprenez ? vous voyez que ce sont les mêmes informations. Dans Mathieu 24, c’est Jésus lui-même, le prophète, qui annonce ces évènements-là. Vous savez que Mathieu 24 annonce les prophéties sur ce qui va se passer à la fin des temps. Maintenant, cette même information sur le jour du Seigneur, on la retrouve dans Apocalypse 6, dans le sixième sceau :
 
 > 12 Je regardai, quand il ouvrit le sixième sceau – le sixième sceau annonce des jugements -; et **il y eut un grand tremblement de terre, le soleil devint noir comme un sac de crin, la lune entière devint comme du sang, 13 et les étoiles du ciel tombèrent sur la terre, comme lorsqu'un figuier secoué par un vent violent jette ses figues vertes**. (Apocalypse 6:12-13)
 
-Est-ce que cela n’est pas une information ? suivez bien, frères, tout ce que je suis en train de vous dire va aboutir à quelque chose. Suivez bien, frères, ne promenez pas vos esprits, suivez très bien ! vous voyez que l’information donnée dans Ésaïe 13 se retrouve dans Mathieu 24, puis dans Apocalypse 6 et toutes ces prophéties disent la même chose. Quand on parle du jour du Seigneur, on trouve à l’intérieur un temps de jugement et cela concerne beaucoup d’évènements graves. Une information est donnée dans Ésaïe 13 – même Pierre dit qu’au jour du Seigneur, le ciel sera dissout, les éléments embrasés vont se dissoudre et ainsi de suite. Pierre parle aussi du jugement. Donc, il y a des informations qui concernent le jour du Seigneur en termes de jugement et d’autres informations en termes de festivités. **Donc, il y a un côté festivités pour l’Église, pour les saints, et il y a un côté jugement pour les nations, pour les peuples de la terre. Il ne faut pas faire de confusion.**
+Est-ce que cela n’est pas une information ? suivez bien, frères, tout ce que je suis en train de vous dire va aboutir à quelque chose. Suivez bien, frères, ne promenez pas vos esprits, suivez très bien ! vous voyez que l’information donnée dans Esaïe 13 se retrouve dans Mathieu 24, puis dans Apocalypse 6 et toutes ces prophéties disent la même chose. Quand on parle du jour du Seigneur, on trouve à l’intérieur un temps de jugement et cela concerne beaucoup d’évènements graves. Une information est donnée dans Esaïe 13 – même Pierre dit qu’au jour du Seigneur, le ciel sera dissout, les éléments embrasés vont se dissoudre et ainsi de suite. Pierre parle aussi du jugement. Donc, il y a des informations qui concernent le jour du Seigneur en termes de jugement et d’autres informations en termes de festivités. **Donc, il y a un côté festivités pour l’Église, pour les saints, et il y a un côté jugement pour les nations, pour les peuples de la terre. Il ne faut pas faire de confusion.**
 
 Nous allons mettre l’accent sur l’Église, sur les détails des évènements parce qu’il y a beaucoup de choses qui se passent quand nous sommes dans le jour du Seigneur. Les hommes ne peuvent rien changer aux évènements qui sont prévus au jour du Seigneur – ils s’accompliront tous. Amen. Je vais revenir dans les détails sur ce qui nous concerne parce que c’est très important. Ce qui nous concerne est très important. C’est très important pour avoir sa foi ancrée dans quelque chose de clair, de sûr. Aujourd’hui, on ne doit pas être des chrétiens qui se promènent dans la rue sans savoir où ils vont, qui ne savent pas ce qui se passe et qui se laissent entraîner à tous les vents de doctrine.
 
@@ -157,9 +157,9 @@ Les opposants racontent beaucoup trop de choses sur le message et le prophète 
 
 Et nous sommes dans le jour du Seigneur Jésus. C’est son jour qui englobe les deux derniers millénaires. Jésus leur a parlé des jours du fils de l’homme. Les jours du fils de l’homme sont les jours des prophéties de Jésus. Cela a commencé avec le ministère de prophète de Jésus. Là où nous sommes arrivés en notre temps, on parle de la notion de **l’esprit d’Elie**. C’est une autre notion. **Quand on parle des jours du fils de l’homme à la fin des temps, on fait appel à l’esprit d’Elie qui a animé le frère Branham pour achever son Ministère qui avait commencé depuis le temps de Jean-Baptiste.** Et l’avènement de l’esprit d’Élie, c’est pour nous amener à comprendre l’esprit dans lequel les prophéties de la fin des temps ont été données. C’est pour cela que ceux qui n’ont pas cru au message de frère Branham sont aujourd’hui embrouillés et ne savent pas ce qui se passe. Alléluia. Que Dieu soit béni.
 
-Donc, pour revenir au sujet, nous sommes dans les jours du fils de l’homme et on est en train de constater que les prophéties dont on parle ici concernent en partie des temps de jugement et puis des temps de bénédictions. On va lire le verset 11 de Ésaïe 13 :
+Donc, pour revenir au sujet, nous sommes dans les jours du fils de l’homme et on est en train de constater que les prophéties dont on parle ici concernent en partie des temps de jugement et puis des temps de bénédictions. On va lire le verset 11 de Esaïe 13 :
 
-> 11 Je punirai le monde pour sa malice, Et les méchants pour leurs iniquités ; Je ferai cesser l'orgueil des hautains, Et j'abattrai l'arrogance des tyrans. (Ésaïe 13:11)
+> 11 Je punirai le monde pour sa malice, Et les méchants pour leurs iniquités ; Je ferai cesser l'orgueil des hautains, Et j'abattrai l'arrogance des tyrans. (Esaïe 13:11)
 
 C’est le Seigneur qui parle. Et c’est le jugement qui va s’abattre sur le monde, sur la terre. Maintenant, on peut lire Amos 5 :
 

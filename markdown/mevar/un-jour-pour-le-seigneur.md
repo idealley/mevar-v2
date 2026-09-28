@@ -31,7 +31,7 @@ Un jour pour le Seigneur. Que Dieu soit béni ! Je voudrais revenir un peu sur l
 
 > 11 L’homme au regard hautain sera abaissé, Et l’orgueilleux sera humilié: L’Eternel seul sera élevé ce jour-là. 12 Car il y a un jour pour l’Eternel des armées Contre tout homme orgueilleux et hautain, Contre quiconque s’élève, afin qu’il soit abaissé ; 13 Contre tous les cèdres du Liban, hauts et élevés, Et contre tous les chênes de Basan ; 14 Contre toutes les hautes montagnes, Et contre toutes les collines élevées ; 15 Contre toutes les hautes tours, Et contre toutes les murailles fortifiées ;  
 >   
-> **16 Contre tous les navires de Tarsis,** **Et contre tout ce qui plaît à la vue**. 17 L’homme orgueilleux sera humilié, Et le hautain sera abaissé : L’Eternel seul sera élevé ce jour-là. 18 Toutes les idoles disparaîtront. 19 On entrera dans les cavernes des rochers Et dans les profondeurs de la poussière, Pour éviter la terreur de l’Eternel et l’éclat de sa majesté, **Quand il se lèvera pour effrayer la terre.** (Ésaïe 2:11-19)
+> **16 Contre tous les navires de Tarsis,** **Et contre tout ce qui plaît à la vue**. 17 L’homme orgueilleux sera humilié, Et le hautain sera abaissé : L’Eternel seul sera élevé ce jour-là. 18 Toutes les idoles disparaîtront. 19 On entrera dans les cavernes des rochers Et dans les profondeurs de la poussière, Pour éviter la terreur de l’Eternel et l’éclat de sa majesté, **Quand il se lèvera pour effrayer la terre.** (Esaïe 2:11-19)
 
 Je suis heureux de lire que Dieu va un jour effrayer la terre. Nous allons lire dans Malachie, le chapitre 3, à partir du verset 16.
 
@@ -125,7 +125,7 @@ Et quand le temps de Dieu est arrivé, le phénomène qu’on n’avait jamais v
 
 Pourquoi les gens seront dans l’étonnement ? Parce qu’ils seraient en train de voir des choses étranges. **Ça ne sera pas le jour d’un homme qui va se fatiguer le lendemain.** Mais ça sera le jour du Seigneur. Et quand le jour du Seigneur arrive, c’est ainsi ! Et c’est pour préparer ce jour qu’Il a fait venir le Message du Temps de la Fin. N’oubliez jamais cela frères ! N’oubliez pas cela ! Le Message est venu à cause d’un BUT. Le Message est venu préparer le jour du Seigneur. **Il y a un jour spécial du Seigneur Jésus-Christ qui est prévu dans nos vies, dans nos maisons, dans l’Eglise et dans les nations. Les prophéties disent que le Soleil de Justice va se lever dans nos cœurs et Il va briller.** Et son éclat sera multiplié sept fois (7 fois).
 
-Amen ! On le lit dans le prophète Esaïe : **La lumière de la lune sera comme la lumière du soleil, Et la lumière du soleil sera sept fois plus grande Comme la lumière de sept jours, Lorsque l’Eternel bandera la blessure de son peuple, Et qu’il guérira la plaie de ses coups.** (Ésaïe 30:26)
+Amen ! On le lit dans le prophète Esaïe : **La lumière de la lune sera comme la lumière du soleil, Et la lumière du soleil sera sept fois plus grande Comme la lumière de sept jours, Lorsque l’Eternel bandera la blessure de son peuple, Et qu’il guérira la plaie de ses coups.** (Esaïe 30:26)
 
 Sept fois ! Amen ! La lumière du Soleil sera sept fois plus grande. **La lune**, c’est le symbole de l’Epouse et le Soleil, c’est le symbole de Christ, l’Epoux. Mais en jour-là, au jour du Seigneur, **la lumière de la lune sera comme la lumière du soleil**, or la lumière du soleil sera sept fois plus grande que les autres fois. Et c’est ce Soleil, Christ qui va se lever dans notre cœur en son jour. Amen !
 

@@ -211,6 +211,8 @@ export function* citations(md) {
     let [, , chap, verseStart] = match;
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!canonical) continue;
+    // « Nombre 25 :1 » is the book; « le nombre 7 » is a number
+    if (bookVariant === "nombre") continue;
     // A one-chapter book cited without a verse ("Jude 23"): the number is the
     // verse. "Jude 1" alone stays the chapter, which is the whole book.
     if (MAX_CHAPTER[canonical] === 1 && !verseStart && chap !== "1") [chap, verseStart] = ["1", chap];

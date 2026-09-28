@@ -44,6 +44,7 @@ bible_refs:
   - "Actes 19"
   - "2 Rois 9:30"
   - "Hébreux 12:1-2"
+original: "branham/1956/56-1003"
 ---
 **LA JEZABEL AU VISAGE FARDE**
 *PAINTED FACE JEZEBEL*

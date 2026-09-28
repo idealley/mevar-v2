@@ -14,6 +14,7 @@ events.EventEmitter.defaultMaxListeners = 30;
 
 import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
+import { frenchSpacing } from "./lib/french-typography.mjs";
 
 const sources = process.env.CONTENT_SOURCES?.split(",").map((s) => s.trim()).filter(Boolean);
 const pattern = sources?.length
@@ -63,7 +64,15 @@ const works = defineCollection({
     llm_cleaned: z.boolean().optional(),
     // Inferred field set by getEntry handler:
     kind: KIND.optional(),
-  }).passthrough(),
+  }).passthrough()
+    // French typography on what every list and page shows (goal 17); the
+    // body gets it from rehypeFrenchTypography. Branham is English.
+    .transform((d) => d.source === "branham" ? d : {
+      ...d,
+      title: frenchSpacing(d.title),
+      subtitle: frenchSpacing(d.subtitle),
+      summary: frenchSpacing(d.summary),
+    }),
 });
 
 export const collections = { works };

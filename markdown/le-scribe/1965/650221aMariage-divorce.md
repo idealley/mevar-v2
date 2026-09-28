@@ -125,8 +125,8 @@ de Dieu. A cause de ce ministère étrange, j'ai été traité aussi bien de “
 la prédication du 19 février 1965 de “Aujourd'hui cette Ecriture est accomplie”] m'a dit : “Votre ministère
 est clairement identifié dans la Bible. Les luthériens ont reconnu Luther, mais qu'en est-il
 des pentecôtistes ? Ils ne savent pas où aller”. C'était une déclaration forte ! Cette même
-Colonne de Feu a jeté Paul à terre : “Je suis Jésus que tu persécutes” [Actes 9:5]. Cette
-même Colonne de Feu a libéré Pierre de prison [Actes 12:7]. C'est Jésus-Christ hier,
+Colonne de Feu a jeté Paul à terre : “Je suis Jésus que tu persécutes” [Act. 9:5]. Cette
+même Colonne de Feu a libéré Pierre de prison [Act. 12:7]. C'est Jésus-Christ hier,
 aujourd'hui et éternellement. Tout ce que j'ai annoncé s'est toujours produit. Or Dieu n'agit
 pas sans raison, et quelque chose est donc sur le point d'arriver.
 
@@ -218,12 +218,12 @@ du serpent a été introduite. L'espèce humaine est la seule où la femelle est
 mâle. Satan la modèle encore ainsi aujourd’hui pour qu'elle puisse tromper.
 
 **122.** à **132**- La première destruction du monde est venue de la beauté des femmes qui a
-attiré les fils de Dieu [Genèse 6:2]. Le péché est beau aux yeux du monde. L'autel de Caïn
+attiré les fils de Dieu [Gen. 6:2]. Le péché est beau aux yeux du monde. L'autel de Caïn
 avec des fruits était plus beau que celui d'Abel. La beauté du monde est trompeuse. Amos
 a crié en voyant l'Hollywood de son temps : “Le Dieu même que vous prétendez servir
 vous détruira”. Judas était beau. Mais Dieu est caractérisé par un beau caractère. Jésus
 “n'avait ni beauté, ni éclat pour attirer nos regards, et son aspect n'avait rien pour nous
-plaire” (Ésaïe 53:2). Il n'avait pas l'air d'un chef ou d'un érudit. Il n'avait pas l'air d'un Dieu.
+plaire” (Esaïe 53:2). Il n'avait pas l'air d'un chef ou d'un érudit. Il n'avait pas l'air d'un Dieu.
 
 **133.** à **147**- Quand Israël a voulu un roi, malgré Samuel qui leur avait dit que c'était
 Dieu leur Roi, ils ont choisi Saül, un grand et bel homme. Quand Samuel est allé dans la
@@ -272,21 +272,21 @@ pareil aujourd'hui.
 **174.** à **182**- La femme dévergondée est le dieu de cet âge, elle est sur toutes les
 affiches. Autrefois aussi les cultes païens avaient des rites sexuels prétendant qu'elle était
 une créatrice. C'est Dieu qui est le seul Créateur. Mais le monde retourne au culte de la
-femme. Salomon a dit que ses portes sont celles de l'enfer [cf. Proverbes 5:5 “Ses pieds descendent
+femme. Salomon a dit que ses portes sont celles de l'enfer [cf. Prov. 5:5 “Ses pieds descendent
 vers la mort”]. Il est aussi parlé de cette église dans Apocalypse 2:15 “De même, toi
 aussi, tu as des gens attachés pareillement à la doctrine des Nicolaïtes”. Ces filles qui
 suivent la mode d'Hollywood ne savent pas que le diable en a fait ses instruments.
 
 **183.** à **191**- C'est pourquoi Dieu leur a interdit d'enseigner la Parole : “Je ne permets
-pas à la femme d'enseigner, ni de prendre de l'autorité sur l'homme (cf. 1 Timothée 2:9-15).
+pas à la femme d'enseigner, ni de prendre de l'autorité sur l'homme (cf. 1 Tim. 2:9-15).
 Que les femmes se taisent dans les assemblées, car il ne leur est pas permis d'y parler;
-mais qu'elles soient soumises, selon que le dit aussi la loi” (1 Corinthiens 14:34), ce qui maintient
+mais qu'elles soient soumises, selon que le dit aussi la loi” (1 Cor. 14:34), ce qui maintient
 la continuité. Mais aujourd'hui elles sont pasteurs ! Reportez-vous donc au
 commencement. On me traite de misogyne, comme on l'a fait avec Paul et Elie. Mais il
 était seulement contre les Jézabel. Et comme la Parole vient aux prophètes, Dieu doit
 penser la même chose.
 
-**192.** à **199**- Dieu a créé la femme pour l'homme, pas l'inverse [cf. 1 Corinthiens 11:9]. Au
+**192.** à **199**- Dieu a créé la femme pour l'homme, pas l'inverse [cf. 1 Cor. 11:9]. Au
 commencement, avant la chute, ils étaient à égalité, mais, après la chute, elle ne
 gouvernait plus avec lui, chacun avait son alliance, il est devenu son chef, comme le dit
 Genèse 3:14-19
@@ -361,7 +361,7 @@ pas le seul coupable. S'habiller de façon indécente, c'est une souillure, une 
 spirituelle, même si vous ne l'admettez pas. Un esprit impur est en vous, et vous êtes un
 produit dérivé utilisé pour tenter.
 
-**253.** à **259**- David a épousé Abigaïl, la veuve de Nabal [1 Samuel 25:39]. Il était roi, et
+**253.** à **259**- David a épousé Abigaïl, la veuve de Nabal [1 Sam. 25:39]. Il était roi, et
 pouvait le faire, mais un sacrificateur ne le pouvait pas [NDT : c’est le “souverain sacrificateur” qui
 ne le pouvait pas]. De même, l'Epouse de Christ doit être une vierge de la Parole, elle doit être
 parfaite. Christ peut répudier, et il a répudié au cours des âges les dénominations qui ont
@@ -392,7 +392,7 @@ la foi, par révélation, Abel offrit à Dieu un sacrifice plus excellent que ce
 
 **272.** à **279**- Pour le mariage et le divorce, il faut aussi que ce soit par révélation. Or,
 selon Apocalypse 10, tous les mystères cachés de la Bible doivent être révélés. “Une
-femme vertueuse est la couronne de son mari” [Proverbes 12:4]. Mais le désir doit venir de
+femme vertueuse est la couronne de son mari” [Prov. 12:4]. Mais le désir doit venir de
 vous. La femme a été faite pour pouvoir être impure, mais il lui a été donné le droit de
 refuser ou d'accepter.
 
@@ -414,7 +414,7 @@ regarder. C'était une journée claire, sans nuage. Toute la ville a regardé. C
 m'a révélé ce que je vais vous dire.
 
 **310.** à **313**- Le prophète Moïse aussi a été autorisé par Dieu à donner une lettre de
-divorce [Deutéronome 24] à cause de la situation du peuple. Paul aussi, quand il a trouvé l'église
+divorce [Deut. 24] à cause de la situation du peuple. Paul aussi, quand il a trouvé l'église
 dans l'état où elle était, a parlé en 1 Corinthiens 7:12-15 du divorce dans les couples
 formés d'un croyant et d'un incroyant, en disant : “Ce n'est pas le Seigneur, c'est moi qui
 dis”. Et, avec la confirmation de son Nuage, Dieu me permet d'agir de même, de vous
@@ -425,7 +425,7 @@ uniquement pour mon assemblée.
 
 **314.** à **326**- “Au commencement, il n'en était pas ainsi”, et il n'en sera pas ainsi à la
 fin. Vivez avec votre femme, élevez vos enfants en les instruisant selon Dieu à ne jamais
-faire une chose pareille. Courons vers le but de la vocation céleste [cf. Philippiens 3:14]. [Prière].
+faire une chose pareille. Courons vers le but de la vocation céleste [cf. Phil. 3:14]. [Prière].
 J'ai dit ces choses à cause des circonstances et avec la permission de Dieu. Satan m'a
 combattu pendant des semaines. Je répète que ceci s'adresse uniquement à ceux qui
 suivent ce message. Je vous ai dit la Vérité, “Ainsi dit le Seigneur”, d'un bout à l'autre.

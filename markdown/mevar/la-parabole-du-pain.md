@@ -91,7 +91,7 @@ Selon la prophétie, la Sagesse, Christ, a bâti Sa maison sur 7 colonnes qu’I
 
 > **_Celui qui vaincra, je ferai de lui une colonne dans le temple de mon   Dieu,_** _et il n’en sortira plus; j’écrirai sur lui le nom de mon Dieu, et le nom de la ville de mon Dieu, de la nouvelle Jérusalem qui descend du ciel d’auprès de mon Dieu, et mon nom nouveau._ (Apocalypse 3:12)
 
-**Les vainqueurs de Philadelphie seront comme des colonnes dans le temple de Dieu.** Ce sont bel et bien des hommes. Tout ceci est en rapport avec les âges de l’Église. Dans Galates 2:9, **Pierre, Jean et Jacques ont été cités par Paul comme des colonnes dans l’Église de Jérusalem.**
+**Les vainqueurs de Philadelphie seront comme des colonnes dans le temple de Dieu.** Ce sont bel et bien des hommes. Tout ceci est en rapport avec les âges de l’Église. Dans Galates 2 :9, **Pierre, Jean et Jacques ont été cités par Paul comme des colonnes dans l’Église de Jérusalem.**
 
 Les colonnes de la maison de Dieu sont des Ministères importants envoyés à l’Église dans les différents âges. **La Bible parle des 7 colonnes de la Maison de la sagesse. Elle parle d’une part de pain spécialement réservée à 7 personnes. L’Écriture parle aussi de 7 pasteurs dans Michée 3 et de 7 étoiles dans Apocalypse 2.** Tout cela se rapporte à la même chose. Il s’agit de l’œuvre de Dieu durant tous les 7 âges de l’Eglise.
 

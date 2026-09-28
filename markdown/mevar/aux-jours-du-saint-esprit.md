@@ -68,7 +68,7 @@ C’est le temps où ce qui est écrit doit prendre corps pour nous. **La Bible 
 
 Si on ne veut pas se battre on ne pourra pas entrer. Il faut se battre en prenant appui sur les prophéties bibliques. **C’est mon message essentiel**. Et je crois nous avons tous compris Amen ! Notre vie n’est plus la même. **Les choses ont changé, les choses ont évolué**. Regardez le monde autour de vous. **Tout évolue ! C’est pour ça que nous aussi, nous évoluons. On doit évoluer. On doit suivre le mouvement de l’Esprit saint.**
 
-Le frère FRANK dit _**que le temps est venu de prêcher maintenant Matthieu 25:6**_.Qu’est-ce que ça veut dire ? **C’est l’Appel au réveil, l’Appel au réveil !** Le frère invite les prédicateurs à prêcher Matthieu 25:6. _**« Voici l’Époux, allez à sa rencontre ! »**_. Mais dans cette Parole, il y a beaucoup de choses qui doivent se faire. Il y a des détails que chacun doit prendre. Alléluia ! \[Amen ! Réd\]. Que Le Nom du Seigneur soit béni ! \[Amen !\]
+Le frère FRANK dit _**que le temps est venu de prêcher maintenant Matthieu 25 :6**_.Qu’est-ce que ça veut dire ? **C’est l’Appel au réveil, l’Appel au réveil !** Le frère invite les prédicateurs à prêcher Matthieu 25 :6. _**« Voici l’Époux, allez à sa rencontre ! »**_. Mais dans cette Parole, il y a beaucoup de choses qui doivent se faire. Il y a des détails que chacun doit prendre. Alléluia ! \[Amen ! Réd\]. Que Le Nom du Seigneur soit béni ! \[Amen !\]
 
 _**LES JOURS DU SAINT-ESPRIT**_
 
@@ -90,7 +90,7 @@ Il a aussi dit à Ses disciples : « _je ne vous laisserai pas orphelins, mais j
 
 Frères, le Saint-Esprit est une promesse dans l’_É_glise : c’est la promesse la plus importante dans l’église. La promesse du Saint-Esprit est la plus importante parce que le Saint-Esprit, **c’est Dieu Lui-même venant dans le croyant. L**e Saint-Esprit, c’est Dieu Lui-même venant **habiter** dans le croyant.
 
-Dans l’évangile de Luc, il est dit que Le Seigneur est venu sur la terre et **n’avait pas de domicile**. \[Luc 9:58, Réd.\] Il n’avait pas un lieu où dormir, parce que la Bible dit que Dieu ne vit pas dans ce qui est de la main des hommes. Dieu n’est pas dans ce bâtiment où nous sommes.
+Dans l’évangile de Luc, il est dit que Le Seigneur est venu sur la terre et **n’avait pas de domicile**. \[Luc 9 :58, Réd.\] Il n’avait pas un lieu où dormir, parce que la Bible dit que Dieu ne vit pas dans ce qui est de la main des hommes. Dieu n’est pas dans ce bâtiment où nous sommes.
 
 Mais quand Le Christ est venu, Il est venu pour délivrer les hommes, pour chasser les démons qui avaient occupé la vie des hommes et des femmes. En effet, après la chute frères, les démons sont entrés dans le monde et désormais, en dehors des montagnes, en dehors des forêts, **ils vivent dans les hommes. Les hommes sont remplis de démons. Les hommes sont des temples de démons.**
 
@@ -98,7 +98,7 @@ Aussi, quand Le Seigneur Jésus-Christ est venu sur la terre, Il avait un object
 
 La promesse de l’Esprit Saint est pour le croyant, dans son être intérieur car c’est en nous frères et sœurs, que Dieu veut vivre. C’est en nous frères et sœurs, que Christ veut vivre. **Un chrétien est fait pour être habité par le Saint-Esprit. La valeur d’un chrétien c’est la Parole de Dieu, c’est le Saint-Esprit en lui. C’est très important, frères. Et c’est le but du Message.** Le Message est venu frères, afin que nous puissions entrer en possession du Saint-Esprit, pas seulement (être) nés de nouveau mais être possédé par Le Seigneur Jésus-Christ.
 
-C’est pour cette raison que celui qui vient à ce Message et n’est pas parvenu à ce stade où il est baptisé du Saint-Esprit, ressent un manque. Il y a un manque en lui. Alors je vous le dis frères, **est-ce que vous avez reçu l’Esprit Saint quand vous avez cru ?** Paul a posé la question aux disciples de Jean-Baptiste : « _est-ce que vous avez reçu le Saint-Esprit quand vous avez cru_ ? ». \[Actes 19:1-5 Réd.\] Ils étaient étonnés. J’espère que vous n’êtes pas étonnés au sujet du Saint-Esprit ? On vous a parlé du Saint-Esprit. Le prophète de l’heure a parlé du Saint-Esprit. Vous savez ce que c’est que Le Saint-Esprit. C’est Dieu Lui-même venant vivre en vous.
+C’est pour cette raison que celui qui vient à ce Message et n’est pas parvenu à ce stade où il est baptisé du Saint-Esprit, ressent un manque. Il y a un manque en lui. Alors je vous le dis frères, **est-ce que vous avez reçu l’Esprit Saint quand vous avez cru ?** Paul a posé la question aux disciples de Jean-Baptiste : « _est-ce que vous avez reçu le Saint-Esprit quand vous avez cru_ ? ». \[Actes 19 : 1-5 Réd.\] Ils étaient étonnés. J’espère que vous n’êtes pas étonnés au sujet du Saint-Esprit ? On vous a parlé du Saint-Esprit. Le prophète de l’heure a parlé du Saint-Esprit. Vous savez ce que c’est que Le Saint-Esprit. C’est Dieu Lui-même venant vivre en vous.
 
 **Les Jours du Saint-Esprit, ce sont les jours de Dieu dans le Corps de Christ. Les jours du Saint-Esprit, ce sont les jours de Jésus dans le croyant. Alors frères et sœurs, est-ce que vous êtes participants des jours du Saint-Esprit ? Parce qu’aux jours du Saint-Esprit Dieu conduit les hommes. Il vient d’abord habiter dans les hommes, Il les conduit. Amen !**
 

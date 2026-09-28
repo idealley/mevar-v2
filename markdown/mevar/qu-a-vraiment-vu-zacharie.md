@@ -42,7 +42,7 @@ Nous vivons à la fin des temps, et de nombreux progrès technologiques ont tran
 
 Dieu dit à Daniel qu'à la fin des temps la connaissance augmentera :
 
-> Toi, Daniel, tiens secrètes ces paroles, et scelle le livre jusqu'au temps de la fin. Plusieurs alors le liront, et la connaissance augmentera. (Daniel 12:4)
+> Toi, Daniel, tiens secrètes ces paroles, et scelle le livre jusqu'au temps de la fin. Plusieurs alors le liront, et la connaissance augmentera. (Dan 12:4)
 
 Nos connaissances technologiques ont en effet augmenté, la connaissance d'un individu moyen de notre siècle est aussi supérieure à celle de quelqu'un d'il y a 100 ans. Notre monde est totalement différent de celui des prophètes2 de l'ancien testament et nous avons la chance de pouvoir comprendre les visions qu'ils ont reçues.
 
@@ -50,33 +50,33 @@ J'aimerais parler de Zacharie 5 car j'avais déjà entendu parler de cette visio
 
 Le chapitre étant court, je propose de le lire en entier :
 
-> 1 Je levai de nouveau les yeux et je regardai, et voici, il y avait un rouleau de manuscrits qui volait. 2 Il me dit: Que vois- tu? Je répondis: Je vois un rouleau qui vole; il a vingt coudées de longueur, et dix coudées de largeur. 3 Et il me dit: C'est la malédiction qui se répand sur tout le pays; car selon elle tout voleur sera chassé d'ici, et selon elle tout parjure sera chassé d'ici. 4 Je la répands, dit l'Eternel des armées, afin qu'elle entre dans la maison du voleur et de celui qui jure faussement en mon nom, afin qu'elle y établisse sa demeure, et qu'elle la consume avec le bois et les pierres. 5 L'ange qui me parlait s'avança, et il me dit: Lève les yeux, et regarde ce qui sort là. 6 Je répondis: Qu'est- ce? Et il me dit: C'est l'épha qui sort. Il ajouta: C'est leur iniquité dans tout le pays. 7 Et voici, une masse de plomb s'éleva, et il y avait une femme assise au milieu de l'épha. 8 Il dit: C'est l'iniquité. Et il la repoussa dans l'épha, et il jeta sur l'ouverture la masse de plomb. 9 Je levai les yeux et je regardai, et voici, deux femmes parurent. Le vent soufflait dans leurs ailes; elles avaient des ailes comme celles de la cigogne. Elles enlevèrent l'épha entre la terre et le ciel. 10 Je dis à l'ange qui me parlait: Où emportent- elles l'épha? 11 Il me répondit: Elles vont lui bâtir une maison dans le pays de Schinea8r; et quand elle sera prête, il sera déposé là dans son lieu. (Zacharie 5)
+> 1 Je levai de nouveau les yeux et je regardai, et voici, il y avait un rouleau de manuscrits qui volait. 2 Il me dit: Que vois- tu? Je répondis: Je vois un rouleau qui vole; il a vingt coudées de longueur, et dix coudées de largeur. 3 Et il me dit: C'est la malédiction qui se répand sur tout le pays; car selon elle tout voleur sera chassé d'ici, et selon elle tout parjure sera chassé d'ici. 4 Je la répands, dit l'Eternel des armées, afin qu'elle entre dans la maison du voleur et de celui qui jure faussement en mon nom, afin qu'elle y établisse sa demeure, et qu'elle la consume avec le bois et les pierres. 5 L'ange qui me parlait s'avança, et il me dit: Lève les yeux, et regarde ce qui sort là. 6 Je répondis: Qu'est- ce? Et il me dit: C'est l'épha qui sort. Il ajouta: C'est leur iniquité dans tout le pays. 7 Et voici, une masse de plomb s'éleva, et il y avait une femme assise au milieu de l'épha. 8 Il dit: C'est l'iniquité. Et il la repoussa dans l'épha, et il jeta sur l'ouverture la masse de plomb. 9 Je levai les yeux et je regardai, et voici, deux femmes parurent. Le vent soufflait dans leurs ailes; elles avaient des ailes comme celles de la cigogne. Elles enlevèrent l'épha entre la terre et le ciel. 10 Je dis à l'ange qui me parlait: Où emportent- elles l'épha? 11 Il me répondit: Elles vont lui bâtir une maison dans le pays de Schinea8r; et quand elle sera prête, il sera déposé là dans son lieu. (Zach 5)
 
 Pour recréer une image mentale correspondant à celle qu'eut le prophète, reprenons le premier verset :
 
-> Je levai de nouveau les yeux et je regardai, et voici, il y avait un rouleau de manuscrits qui volait. (Zacharie 5:1)
+> Je levai de nouveau les yeux et je regardai, et voici, il y avait un rouleau de manuscrits qui volait. (Zach 5 :1)
 
 L'expression « rouleau de manuscrits » a été traduite à partir du mot hébreu _megillah_ et non, comme les dimensions (dont nous allons parler) données plus bas par Zacharie pourraient le suggérer, du mot _megillah_ au pluriel: _megillot_3 . Un _megillah_ est un rouleau simple. Ce n'est pas ce double rouleau sur lesquel la Torah est par exemple écrite. Les livres plus petits comme celui d'Esther étaient écrits sur un rouleau et non sur deux.
 
-Les dimensions données par le prophète : « \[...\] vingt coudées de longueur, et dix coudées de largeur » (Zacharie 5:2) semblent indiquer un rectangle dont la longueur est de vingt coudées alors que la largeur est de dix. Ces dimensions seraient plus en faveur du megillot. Mais il faut prendre quelques instants en considération le mot: rochab. Ce mot veut bien dire largeur, étendue, mais nous avons une notion de largeur bien différente de celle des Hébreux :
+Les dimensions données par le prophète : « \[...\] vingt coudées de longueur, et dix coudées de largeur » (Zach 5:2) semblent indiquer un rectangle dont la longueur est de vingt coudées alors que la largeur est de dix. Ces dimensions seraient plus en faveur du megillot. Mais il faut prendre quelques instants en considération le mot: rochab. Ce mot veut bien dire largeur, étendue, mais nous avons une notion de largeur bien différente de celle des Hébreux :
 
-La hauteur de l'une des colonnes était de dix-huit coudées, et un cordon de douze coudées l'entourait; elle était creuse, et son épaisseur avait quatre doigts; (Jérémie 52:21)
+La hauteur de l'une des colonnes était de dix-huit coudées, et un cordon de douze coudées l'entourait; elle était creuse, et son épaisseur avait quatre doigts; (Jér 52:21)
 
 > Il fit la mer de métal fondu. Elle avait dix coudées d'un bord à l'autre, une forme entièrement ronde, cinq coudées de hauteur, et une circonférence que mesurait un cordon de trente coudées. (1 Rois 7:23)
 
-Les Hébreux ne connaissaient pas la notion de diamètre qui est apparue avec les Grecs4. Ils savaient mesurer une circonférence (Jérémie 52:21) en entourant un cylindre avec une corde ou lorsqu'ils avaient la possibilité de mesurer ce que nous appelons le diamètre sur un récipient creux (comme les mers du temple de Salomon), l'auteur donne aussi la longueur de la circonférence (1 Rois 7:23). On pourrait presque déduire que la Bible nous donne une approximation de π équivalente à 3 puisque le diamètre est de 10 et la circonférence de 30...
+Les Hébreux ne connaissaient pas la notion de diamètre qui est apparue avec les Grecs4. Ils savaient mesurer une circonférence (Jér 52:21) en entourant un cylindre avec une corde ou lorsqu'ils avaient la possibilité de mesurer ce que nous appelons le diamètre sur un récipient creux (comme les mers du temple de Salomon), l'auteur donne aussi la longueur de la circonférence (1 Rois 7:23). On pourrait presque déduire que la Bible nous donne une approximation de π équivalente à 3 puisque le diamètre est de 10 et la circonférence de 30...
 
 Même dans les parties plus modernes de la Bible, les auteurs décrivent les dimensions de manière très inhabituelle pour nous:
 
-> que vous puissiez comprendre avec tous les saints quelle est la largeur, la longueur, la profondeur et la hauteur, (Éphésiens 3:18)
+> que vous puissiez comprendre avec tous les saints quelle est la largeur, la longueur, la profondeur et la hauteur, (Eph 3:18)
 
 Paul introduit ici quatre dimensions : la largeur, la longueur, la profondeur et la hauteur. Habituellement nous ne donnons que la hauteur, la longueur et la profondeur. Quand Paul parle de largeur, ne serait-ce pas comme pour l'ancien testament la circonférence ? Le mot largeur ici vient du grec _πλάτος_ (_platos_) et veut dire largeur en suggérant une grande dimension. Paul ne nous demande-t-il pas de comprendre toutes les dimensions de l'amour de Christ et aussi d'en comprendre le pourtour, la circonférence ?
 
-_πλάτος_ est utilisé à deux autres endroits dans la Bible Apocalypse 20:9 et Apocalypse 21:16 :
+_πλάτος_ est utilisé à deux autres endroits dans la Bible Apo 20:9 et Apo 21:16 :
 
-> Ils montèrent à la surface de la terre, et ils investirent le camp des saints et la ville bien- aimée. Mais un feu descendit du ciel, et les dévora. (Apocalypse 20:9)
+> Ils montèrent à la surface de la terre, et ils investirent le camp des saints et la ville bien- aimée. Mais un feu descendit du ciel, et les dévora. (Apo 20:9)
 
-> La ville avait la forme d'un carré, et sa longueur était égale à sa largeur. Il mesura la ville avec le roseau, et trouva douze mille stades; la longueur, la largeur et la hauteur en étaient égales. (Apocalypse 21:16)
+> La ville avait la forme d'un carré, et sa longueur était égale à sa largeur. Il mesura la ville avec le roseau, et trouva douze mille stades; la longueur, la largeur et la hauteur en étaient égales. (Apo 21:16)
 
 Lorsque les mots _πλάτος_ ou rochab sont utilisés la King James Bible utilise à chaque fois le mot breadth. Alors que le traducteur de la NEG 1979 change de mot (surface). Les deux versets de l'Apocalypse ne laissent pas planer le doute. Une fois ils nous parlent d'une sphère et l'autre fois d'un carré (tétraèdre). On aurait donc très bien pu dire : Ils montèrent sur la circonférence de la terre.
 
@@ -98,7 +98,7 @@ De plus, ce _megillah_, cette malédiction, ne fait pas que voler mais elle cons
 
 La traduction du verset 5 en français induit en erreur ou, au pire, n'est pas très précise. L'ange dit « Lève les yeux, et regarde ce qui sort là » que ce soit dans la version NEG 1979 ou celle de Segond datée de 1910 tout comme la version d'Ostervald. La traduction de Martin de 1744 omet même le mot « là ».
 
-Michael Rood traduit de la manière suivante le verset 5 et une partie du verset 6 : 5 Then the angel said, "Look up and see what this flying scroll is." 6 And I responded, "What is it?" Ce qui pourrait être traduit par « Lève les yeux et regarde ce que le rouleau volant Esther 6 Et je répondis qu'est-ce ? » (ma traduction) La traduction de Rood n'est pas une traduction mot à mot mais plutôt une interprétation.
+Michael Rood traduit de la manière suivante le verset 5 et une partie du verset 6 : 5 Then the angel said, "Look up and see what this flying scroll is." 6 And I responded, "What is it?" Ce qui pourrait être traduit par « Lève les yeux et regarde ce que le rouleau volant est. 6 Et je répondis qu'est-ce ? » (ma traduction) La traduction de Rood n'est pas une traduction mot à mot mais plutôt une interprétation.
 
 Une traduction mot à mot serait plus proche de:
 
@@ -137,7 +137,7 @@ Il est par exemple impossible de traduire la phrase "Il y va d'un certain pas" e
 7.  Au passé, l'hébreu peut s'abstenir du sujet d'un verbe sauf à la troisième personne du singulier car toutes les informations de personne sont contenues dans la terminaison du verbe. C'est pourquoi il faut rajouter le pronom « je » en français.
 8.  Approximation phonétique française
 9.  Ibid.
-10.  Shinear/Shinar veut dire "deux rivières" et ce pays est situé en Mésopotamie, donc on pense au Tigre et à l'Euphrate. C'est aussi là qu'était Babylone. Donc sur un plan physique on peut penser qu'une guerre nucléaire aura lieu à cet endroit, spirituellement Babylone représentant le monde actuel, je pense qu'aucune partie du monde est à l'abri... On pourrait peut-être aussi faire un lien avec Ésaïe 17 car la Syrie se trouve en Mésopotamie et que ces deux rivières y coulent.
+10.  Shinear/Shinar veut dire "deux rivières" et ce pays est situé en Mésopotamie, donc on pense au Tigre et à l'Euphrate. C'est aussi là qu'était Babylone. Donc sur un plan physique on peut penser qu'une guerre nucléaire aura lieu à cet endroit, spirituellement Babylone représentant le monde actuel, je pense qu'aucune partie du monde est à l'abri... On pourrait peut-être aussi faire un lien avec Esaïe 17 car la Syrie se trouve en Mésopotamie et que ces deux rivières y coulent.
 
 \### Bibliographie
 

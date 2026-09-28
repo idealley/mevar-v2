@@ -151,7 +151,7 @@ Les deux dernières résurrections sont celles décrites dans Apocalypse 20. Il 
 
 3.    La résurrection des martyrs (Apocalypse 20:4-5)
 
-4.    La résurrection pour le jugement dernier (Apocalypse 20:11-15)
+4.    La résurrection pour le jugement dernier (Apocalypse 20: 11-15)
 
 Les deux premières résurrections qui vont avoir lieu pour l’enlèvement, et la résurrection des martyrs y compris les deux témoins, l’écriture les appelle « la première résurrection ». Quant à la dernière, il s’agit de la résurrection de tous ceux qui sont morts et ne sont pas compris dans la troupe qui va dans l’enlèvement, qui ne sont pas compris parmi les martyrs. Il s’agit de ceux qui vont passer devant le tribunal de Dieu, le jugement du trône blanc. Eux tous reviennent à la vie pour être jugés, et soit être condamnés, soit entrer dans la vie éternelle. C’est Dieu qui va décider.
 

@@ -149,6 +149,26 @@ real send is Samuel's.
 
 ---
 
+## 7. Goal 16: CMPP complete
+
+After 09 and 12 are merged. Runs on the Mac: cmpp.ch refuses the TLS
+handshake from a Linux sandbox, and the PDFs and the crawl cache are not in
+the repo.
+
+```
+<preamble>
+Goal file: docs/goals/goal-16-cmpp-complete.md. Branch:
+goal-16-cmpp-complete.
+
+Two stop points: the discovery report before any download, and the
+unresolved links plus the doubtful attributions before any link is
+written on a guess. A date or a preacher comes from the PDF's title page,
+never from what you know about Branham's ministry. The site is not live,
+so the moves out of cmpp/undated/ are free today; do them with git mv.
+```
+
+---
+
 ## Merge ritual, by Samuel, after each PR
 
 ```bash

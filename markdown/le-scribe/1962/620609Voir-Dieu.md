@@ -34,6 +34,7 @@ llm_cleaned: true
 bible_refs:
   - "Jean 6:36"
   - "Jean 3:3"
+original: "branham/1962/62-0609B"
 ---
 **1.** L’humour permet de relâcher la pression. J’ai remarqué que les premiers pères de l’Eglise avaient de l’humour, et Dieu a lui aussi le sens de l’humour. Le frère F.F. Bosworth disait que la communion fraternelle, “fellowship”, c’est deux amis, deux “fellows”, dans un bateau, dans un “ship”. Un groupe de frères me disaient il y a quelques jours que c’était ridicule de prêcher le guérison divine, et que je n’aurais pas dû prêcher avant de passer par une école biblique. J’ai répondu : “Malgré toutes mes erreurs, il m’aime tant que parfois c’est insoutenable, alors combien il doit aimer ceux qui ont la vérité !” Nous avons été ensevelis et ressuscités en Christ, nous sommes en lui par le baptême en un seul Esprit.
 

@@ -83,7 +83,7 @@ Thème central : Jésus est toujours le même, et il se manifeste au temps de la
 
 **10.** Tout cela a été accompli au Calvaire : “Il était blessé pour nos péchés, … et par ses meurtrissures nous sommes guéris.” C’est déjà fait. C’est par notre foi en l’œuvre achevée de substitution à la Croix, que nous en obtenons les bénéfices. Ceux qui viennent sur l’estrade ne sont pas plus privilégiés que ceux qui sont au fond de la salle. C’est quand votre foi s’appuie sur ce que Dieu a déjà fait. Mais, comme le disait le frère Bosworth, la guérison n’est qu’un appât qui cache l’hameçon de Dieu : l’homme sait alors que Dieu l’aime.
 
-**11.** La brebis d’un berger avait une patte brisée. “C’est moi qui ai fait cela.” – “Vous êtes cruel !” – “Non, c’est pour qu’elle me suive.” Dieu doit parfois nous frapper pour montrer qu’il est Dieu : “Toutes choses concourent au bien de ceux qui aiment Dieu” [Romains 8:28]. C’est la vérité.
+**11.** La brebis d’un berger avait une patte brisée. “C’est moi qui ai fait cela.” – “Vous êtes cruel !” – “Non, c’est pour qu’elle me suive.” Dieu doit parfois nous frapper pour montrer qu’il est Dieu : “Toutes choses concourent au bien de ceux qui aiment Dieu” [Rom. 8:28]. C’est la vérité.
 
 **12.** Je ne suis qu’un prédicateur de secours. Le frère Booth-Clibborn et d’autres ici seraient plus aptes que moi pour prêcher. Je ne suis qu’un paysan du Kentucky. Mais si je ne connais pas bien le Livre, j’en connais l’Auteur, et je compte sur lui. Lisons Jean 12:20-21
       “(20) Quelques Grecs, du nombre de ceux qui étaient montés pour adorer pendant la fête, (21) s'adressèrent à Philippe, de Bethsaïda en Galilée, et lui dirent avec instance: Seigneur, nous voudrions voir Jésus.”
@@ -107,9 +107,9 @@ Thème central : Jésus est toujours le même, et il se manifeste au temps de la
 
 **21.** Il fera dans son Eglise ce qu’il a fait autrefois car c’est son programme d’agir ainsi avec elle. Les baptistes, méthodistes, pentecôtistes, etc., croient tous cela. Mais cela va-t-il se produire ? Cela se produira si nous le croyons car c’est la Parole de Dieu. Croyez-le de toutes vos forces. Examinons donc ce qu’il faisait autrefois, sachant qu’il est toujours le même.
 
-**22.** Nous allons examiner comment il se manifestait autrefois. Il doit faire de même aujourd’hui. Notons que Jésus n’a jamais prétendu guérir : “Ce n’est pas moi, mais c’est le Père en moi qui fait les œuvres.” [cf. Jean 14:10].
+**22.** Nous allons examiner comment il se manifestait autrefois. Il doit faire de même aujourd’hui. Notons que Jésus n’a jamais prétendu guérir : “Ce n’est pas moi, mais c’est le Père en moi qui fait les œuvres.” [cf. Jn. 14:10].
 
-**23.** Il y avait une foule d’infirmes à Bethesda. L’un d’eux était sur sa paillasse. Jésus savait qu’il était dans cet état depuis longtemps. Il l’a guéri puis il est reparti. Il serait critiqué pareillement aujourd’hui pour avoir guéri untel et pas un autre. “Je ne fais que ce que je vois le Père faire. Le Père agit, moi aussi j’agis” [cf. Jean 5:19,17].
+**23.** Il y avait une foule d’infirmes à Bethesda. L’un d’eux était sur sa paillasse. Jésus savait qu’il était dans cet état depuis longtemps. Il l’a guéri puis il est reparti. Il serait critiqué pareillement aujourd’hui pour avoir guéri untel et pas un autre. “Je ne fais que ce que je vois le Père faire. Le Père agit, moi aussi j’agis” [cf. Jn. 5:19,17].
 
 **24.** Nous savons que Jésus est né dans une étable de Bethléhem, et ce qui s’est passé quand il a eu 12 ans. Puis il y a eu son baptême, la descente de l’Esprit sur lui, les 40 jours dans le désert. Puis son ministère a débuté. Mais les gens avaient leur propre conception de ce que serait le Christ. Sa venue a été si différente qu’ils n’ont pas compris. Et cela pourrait se reproduire.
 
@@ -119,15 +119,15 @@ Thème central : Jésus est toujours le même, et il se manifeste au temps de la
 
 **27.** Ils n’avaient pas trop de temps pour parler, mais le message était urgent. Il l’est encore plus aujourd’hui. Nathanaël était méfiant et ne pensait pas que ce Jésus de Galilée pouvait être le Messie. Sinon le souverain sacrificateur et les églises l’auraient su. Philippe lui a donné la meilleure réponse qui soit : “Viens voir et compare avec ce que dit la Bible !”
 
-**28.** En chemin, Philippe lui a raconté la scène où Jésus avait révélé le nom de Simon et celui de son père. Or Moïse avait dit : “L'Éternel, ton Dieu, te suscitera du milieu de toi, d'entre tes frères, un prophète comme moi” [Deutéronome 18:15]. Le Messie devait être prophète et le Dieu des prophètes. “Ne serait-ce pas lui ? Je ne serais pas surpris qu’il te connaisse.” – “Il n’arrivera pas à lire dans mes pensées !”
+**28.** En chemin, Philippe lui a raconté la scène où Jésus avait révélé le nom de Simon et celui de son père. Or Moïse avait dit : “L'Éternel, ton Dieu, te suscitera du milieu de toi, d'entre tes frères, un prophète comme moi” [Deut. 18:15]. Le Messie devait être prophète et le Dieu des prophètes. “Ne serait-ce pas lui ? Je ne serais pas surpris qu’il te connaisse.” – “Il n’arrivera pas à lire dans mes pensées !”
 
 **29.** A l’arrivée, ils ont pris place dans la ligne de prière. Jésus a alors vu Nathanaël pour la première fois : “Voici un Juif dans lequel il n’y a point de fraude.” – “Où m’as-tu déjà vu ?” – “Je t’ai vu sous le figuier.” Aussitôt, ce Juif appelé à la Vie éternelle, a dit : “Tu es le Fils de Dieu, le Roi d’Israël !” Il a cru car il savait que seul le Messie pouvait faire cela, et c’est ce qu’il attendait.
 
 **30.** Il y avait des Juifs venus de grandes églises et qui ne croyaient pas. En eux-mêmes ils disaient que c’était un devin, un démon, un télépathe. “C’est Belzébul qui lui parle.” Jésus a prévenu que parler ainsi quand le Saint-Esprit ferait ces choses ne serait jamais pardonné. Ce signe n’avait été vu que par les Juifs et les Samaritains car ils attendaient sa venue. Mais les Gentils n’avaient encore jamais vu ce signe. Et maintenant c’est à leur tour de le voir. De même, trois groupes sont sortis de Noé pour former l’humanité : Sem, Cham et Japhet.
 
-**31.** Traiter le Saint-Esprit d’esprit impur ne sera jamais pardonné. En ce temps-là, les Nations étaient idolâtres et n’attendaient pas Christ. Jésus était venu pour les siens et a demandé aux disciples de n’aller que vers les brebis perdues d’Israël [Matthieu 10:6]. Mais il y avait aussi les Samaritains.
+**31.** Traiter le Saint-Esprit d’esprit impur ne sera jamais pardonné. En ce temps-là, les Nations étaient idolâtres et n’attendaient pas Christ. Jésus était venu pour les siens et a demandé aux disciples de n’aller que vers les brebis perdues d’Israël [Mt. 10:6]. Mais il y avait aussi les Samaritains.
 
-**32.** Jésus s’était manifesté aux Juifs, et il devait le faire de la même façon devant les Samaritains qui attendaient eux aussi le Messie. Et un jour il est passé en Samarie. Il s’est assis près d’un puits pendant que les disciples allaient chercher des vivres. Il avait trente ans, mais devait en paraître cinquante [cf. Jean 8:57].
+**32.** Jésus s’était manifesté aux Juifs, et il devait le faire de la même façon devant les Samaritains qui attendaient eux aussi le Messie. Et un jour il est passé en Samarie. Il s’est assis près d’un puits pendant que les disciples allaient chercher des vivres. Il avait trente ans, mais devait en paraître cinquante [cf. Jn. 8:57].
 
 **33.** Jésus était fatigué et se reposait. Une femme de mauvaise vie est venue chercher de l’eau au puits. Elle n’était pas venue avec les autres femmes à cause de sa réputation.
 
@@ -139,11 +139,11 @@ Thème central : Jésus est toujours le même, et il se manifeste au temps de la
 
 **37.** “Nous savons que c’est le signe du Messie, le prophète annoncé par Moïse. Qui es-tu donc ?” – “Je le suis, moi qui te parle.” Lui seul pouvait dire cela. Elle a posé ses jarres et couru prévenir la ville : “Il m’a dit ce que j’avais fait. N’est-ce pas le Messie ?” Si tel était alors le signe du Messie, tel il est encore aujourd’hui :
 
-**38.** Notez que ce signe n’est donné qu’à la fin de la génération, quand elle est éloignée de Dieu. Il s’est occupé d’Israël toujours en tant que nation, et il s’occupe des Gentils en tant qu’individus. Il a aveuglé Israël de cette façon. Et nous sommes à la fin des Gentils. Zacharie a dit : “Ce sera un jour qui ne sera ni jour ni nuit. Mais vers le soir la Lumière paraîtra.” [cf. Zacharie 14:7]. Le soleil qui se couche à l’Ouest est le même qui s’est levé à l’Est. C’est sur un peuple de l’Est que le Saint-Esprit est venu le jour de la Pentecôte.
+**38.** Notez que ce signe n’est donné qu’à la fin de la génération, quand elle est éloignée de Dieu. Il s’est occupé d’Israël toujours en tant que nation, et il s’occupe des Gentils en tant qu’individus. Il a aveuglé Israël de cette façon. Et nous sommes à la fin des Gentils. Zacharie a dit : “Ce sera un jour qui ne sera ni jour ni nuit. Mais vers le soir la Lumière paraîtra.” [cf. Zac. 14:7]. Le soleil qui se couche à l’Ouest est le même qui s’est levé à l’Est. C’est sur un peuple de l’Est que le Saint-Esprit est venu le jour de la Pentecôte.
 
 **39.** Le jour a parcouru le monde. Il y a eu de grandes églises, de grands réveils, des bâtiments construits. L’ordre de mission était d’annoncer l’Evangile, de manifester la puissance de sa résurrection, mais la journée a été grise. La civilisation arrive à l’Ouest, ensuite c’est l’océan. L’Est et l’Ouest se rencontrent. Le Saint-Esprit est ici. Dieu est tenu de se manifester comme alors, et il a promis de le faire.
 
-**40.** Jésus a dit en effet : “Ce qui arriva du temps de Lot arrivera pareillement à la venue du Fils de l’homme” [cf. Luc 17:26-28]. Sodome et Gomorrhe ont été détruites alors, or le monde doit être à nouveau détruit. Le ciel et la terre seront consumés. Tous ces missiles vont frapper la terre un jour. Je peux me tromper car je ne suis pas scientifique. Mais j’ai lu ce que peuvent faire des pluies acides volcaniques. Si un missile déclenchait cela, le ciel serait en feu.
+**40.** Jésus a dit en effet : “Ce qui arriva du temps de Lot arrivera pareillement à la venue du Fils de l’homme” [cf. Lc. 17:26-28]. Sodome et Gomorrhe ont été détruites alors, or le monde doit être à nouveau détruit. Le ciel et la terre seront consumés. Tous ces missiles vont frapper la terre un jour. Je peux me tromper car je ne suis pas scientifique. Mais j’ai lu ce que peuvent faire des pluies acides volcaniques. Si un missile déclenchait cela, le ciel serait en feu.
 
 **41.** Un seul missile russe peur creuser un trou profond de 50 mètres ! Un général a déclaré récemment que la prochaine guerre ne durerait que quelques minutes. Le monde ne pourra pas le supporter. Nous sommes à la fin.
 
@@ -223,7 +223,7 @@ Thème central : Jésus est toujours le même, et il se manifeste au temps de la
 
 **82.** Courbons la tête et chantons bouche fermée. Que les rétrogrades qui ont levé la main s’approchent pour que je prie pour eux… J’aurai à répondre de vous au jour du jugement. “Quiconque me confessera devant les hommes, je le confesserai aussi devant mon Père et devant les anges de Dieu” [Matthieu 10:32, Luc 12:8] … approchez-vous … [Cantique] …
 
-**83.** Des cancers ont disparu ce soir sur l’estrade, vous verrez que des infirmes, des aveugles, etc., ont été guéris. C’est l’œuvre du Seigneur. En levant les mains vous avez brisé la loi naturelle de la gravité. L’esprit en vous a pris cette décision de vouloir Christ. “Celui qui écoute ma parole, et qui croit à celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie.”[Jean 5:24]. Nous vous aimons. Vous avez pris la plus importante des décisions. Vous êtes maintenant à Dieu.
+**83.** Des cancers ont disparu ce soir sur l’estrade, vous verrez que des infirmes, des aveugles, etc., ont été guéris. C’est l’œuvre du Seigneur. En levant les mains vous avez brisé la loi naturelle de la gravité. L’esprit en vous a pris cette décision de vouloir Christ. “Celui qui écoute ma parole, et qui croit à celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie.”[Jn. 5:24]. Nous vous aimons. Vous avez pris la plus importante des décisions. Vous êtes maintenant à Dieu.
 
 **84.** Priez maintenant à votre façon. Si vous prenez parti pour lui, il prendra parti pour vous … [Actions de grâces et prière pour les guérisons et les conversions] …
 

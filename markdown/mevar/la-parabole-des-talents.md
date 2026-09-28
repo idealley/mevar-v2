@@ -23,7 +23,7 @@ bible_refs:
 ---
 Alors on remercie le Seigneur pour le rassemblement de ce matin. Je voudrais qu’on s’entretienne sur la parabole des talents. C’est un sujet que j’ai déjà évoqué ici une année, il y a longtemps. Je voudrais revenir là-dessus avec de nouvelles pensées. Amen ! Donc nous allons déjà lire dans Mathieu chapitre 24 le verset 9 :
 
-> Alors on vous livrera aux tourments, et l’on vous fera mourir ; et vous serez haïs de toutes les nations, à cause de mon Nombres 10 Alors aussi plusieurs succomberont, et ils se trahiront, se haïront les uns les autres. 11 Plusieurs faux prophètes s’élèveront, et ils séduiront beaucoup de gens. 12 Et, parce que l’iniquité se sera accrue, la charité du plus grand nombre se refroidira. 13 Mais celui qui persévérera jusqu’à la fin sera sauvé. **14 Cette bonne nouvelle du royaume sera prêchée dans le monde entier, pour servir de témoignage à toutes les nations. Alors viendra la fin.**
+> Alors on vous livrera aux tourments, et l’on vous fera mourir ; et vous serez haïs de toutes les nations, à cause de mon nom. 10 Alors aussi plusieurs succomberont, et ils se trahiront, se haïront les uns les autres. 11 Plusieurs faux prophètes s’élèveront, et ils séduiront beaucoup de gens. 12 Et, parce que l’iniquité se sera accrue, la charité du plus grand nombre se refroidira. 13 Mais celui qui persévérera jusqu’à la fin sera sauvé. **14 Cette bonne nouvelle du royaume sera prêchée dans le monde entier, pour servir de témoignage à toutes les nations. Alors viendra la fin.**
 
 Maintenant on vient dans Mathieu chapitre 25. On lit à partir du verset 14 :
 

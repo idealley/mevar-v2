@@ -25,4 +25,4 @@ bible_refs:
   - "Matthieu 22"
   - "Matthieu 24"
 ---
-Etude basée sur Romains 8, Matthieu 22 et Matthieu 24. Que Signifie être appelé ou élu dans la Bible?
+Etude basée sur Romain 8, Matthieu 22 et Matthieu 24. Que Signifie être appelé ou élu dans la Bible?

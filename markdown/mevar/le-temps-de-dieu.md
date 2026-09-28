@@ -96,11 +96,11 @@ Aujourd’hui, le monde est rempli de démons et de maladies. Satan est en train
 
 Ésaïe écrit :
 
-> « Dites à ceux qui ont le cœur troublé : Prenez courage, ne craignez point ; Voici votre Dieu, la vengeance viendra, La rétribution de Dieu ; **Il viendra lui-même, et vous sauvera. Alors s'ouvriront les yeux des aveugles, S'ouvriront les oreilles des sourds ; Alors le boiteux sautera comme un cerf, Et la langue du muet éclatera de joie.** Car des eaux jailliront dans le désert, Et des ruisseaux dans la solitude ». (Ésaïe 35:4-6)
+> « Dites à ceux qui ont le cœur troublé : Prenez courage, ne craignez point ; Voici votre Dieu, la vengeance viendra, La rétribution de Dieu ; **Il viendra lui-même, et vous sauvera. Alors s'ouvriront les yeux des aveugles, S'ouvriront les oreilles des sourds ; Alors le boiteux sautera comme un cerf, Et la langue du muet éclatera de joie.** Car des eaux jailliront dans le désert, Et des ruisseaux dans la solitude ». (Esaïe 35:4-6)
 
 C’est conscient de cette réalité que Jésus envoya ses disciples. Il leur donna le pouvoir de guérir toutes les infirmités sur les hommes :
 
-> « Allez, prêchez, et dites : Le royaume des cieux est proche. **Guérissez les malades, ressuscitez les morts, purifiez les lépreux, chassez les démons**. Vous avez reçu gratuitement, donnez gratuitement ». (Matthieu 10:7-9)
+> « Allez, prêchez, et dites : Le royaume des cieux est proche. **Guérissez les malades, ressuscitez les morts, purifiez les lépreux, chassez les démons**. Vous avez reçu gratuitement, donnez gratuitement ». (Matthieu 10: 7-9)
 
 La délivrance des hommes de toutes les maladies et de toutes les possessions démoniaques fut au cœur même du ministère de Jésus. Alors, au moment où l’Église s’apprête à entrer dans le nouveau ministère de Christ dans notre génération, il est plus ou moins normal qu’on voit apparaître de graves maladies et de graves phénomènes sociaux dans le monde. Il faut que tout cela arrive afin que Christ soit glorifié.
 

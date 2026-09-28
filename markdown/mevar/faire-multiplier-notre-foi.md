@@ -26,7 +26,7 @@ bible_refs:
 ---
 Le Seigneur dit dans Luc 19 :
 
-> _**30**…Allez au village qui est en face; quand vous y serez entrés, vous trouverez un ânon attaché, sur lequel aucun homme ne s'est jamais assis; détachez-le, et amenez-le. **31**Si quelqu'un vous demande : Pourquoi le détachez-vous ? vous lui répondrez : **Le Seigneur en a besoin**. (Luc 19:30-31)_
+> _**30**…Allez au village qui est en face; quand vous y serez entrés, vous trouverez un ânon attaché, sur lequel aucun homme ne s'est jamais assis; détachez-le, et amenez-le. **31**Si quelqu'un vous demande : Pourquoi le détachez-vous ? vous lui répondrez : **Le Seigneur en a besoin**. (Luc 19 :30-31)_
 
 Je voudrais encore vous exhorter sur cela. Mes frères et sœurs, très souvent c’est nous qui faisons connaître nos besoins au Seigneur. Nous sommes les premiers. Mais nous oublions que le Seigneur aussi a des besoins. Est-ce que nous le savons ? On se dit que c’est le Seigneur, le Grand Dieu, il est puissant, il n’a besoin de rien. Oui c’est vrai, mais il a besoin de ses fils et de ses filles ! Ne pensons pas que Dieu n’a pas de besoin. Il travaille dans le monde, il travaille parmi les hommes ; donc Dieu a besoin de nous. Mais souvent nous ignorons cela et lui présentons les nôtres.
 

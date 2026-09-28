@@ -53,7 +53,7 @@ original: "branham/1958/58-0720E"
 
 **4.** Le frère Hollin Hickerson a été élu à l'unanimité. Le frère Collins est déjà pasteur, nous lui demandons de devenir diacre et associé de frère Neville. Il a aussi été demandé aux frères Tony Zable et Taylor de devenir diacres, et au frère Bob Harnard de devenir trésorier.
 
-**5.** Lisons en 1 Timothée 3:8-13 ce qui est exigé des diacres :
+**5.** Lisons en 1 Timothée 3: 8-13 ce qui est exigé des diacres :
 > “Les diacres aussi doivent être honnêtes, éloignés de la duplicité, des excès du vin, d'un gain sordide, conservant le mystère de la foi dans une conscience pure. Qu'on les éprouve d'abord, et qu'ils exercent ensuite leur ministère, s'ils sont sans reproche. Les femmes [en anglais: leurs femmes], de même, doivent être honnêtes, non médisantes, sobres, fidèles en toutes choses. Les diacres doivent être maris d'une seule femme, et bien diriger leurs enfants et leur propre maison ; car ceux qui remplissent convenablement leur ministère s'acquièrent un rang honorable, et une grande assurance dans la foi en Jésus-Christ”.
 
 **6.** Que les frères qui ont été nommés s'avancent tandis que nous prions. [Prière].

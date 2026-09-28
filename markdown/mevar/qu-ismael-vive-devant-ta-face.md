@@ -121,7 +121,7 @@ L’apôtre Paul parlant de l’histoire d’Abraham expliqua qu’il s’agit d
 
 Parlant de Sara et d’Agar, Paul a parlé d’Israël spirituel, l’Église – le royaume de Dieu et d’Israël charnel, la nation juive. Cela est un fait, ****mais **je voudrais aller plus loin en montrant l’Épouse de Christ comme la Jérusalem d’en haut qui est libre et qui a les promesses et le reste de l’Église qui ne pourra pas entrer dans l’accomplissement de la promesse de Dieu.******
 
-La grande promesse qui nous a été faite et dont nous attendons l’accomplissement est aussi **la naissance d’un fils – le fils de l’Église promise dans notre génération**. [C’est aussi la révélation des fils de Dieu](/le-processus-de-la-maturation-du-fils-de-l-eglise/). (Romains 8:19)
+La grande promesse qui nous a été faite et dont nous attendons l’accomplissement est aussi **la naissance d’un fils – le fils de l’Église promise dans notre génération**. [C’est aussi la révélation des fils de Dieu](/le-processus-de-la-maturation-du-fils-de-l-eglise/). (Rom 8:19)
 
 > _1 Un grand signe parut dans le ciel : une femme enveloppée du soleil, la lune sous ses pieds, et une couronne de douze étoiles sur sa tête. **2 Elle était enceinte, et elle criait, étant en travail et dans les douleurs de l’enfantement.** 3 Un autre signe parut encore dans le ciel ; et voici, c’était un grand dragon rouge, ayant sept têtes et dix cornes, et sur ses têtes sept diadèmes._
 
@@ -149,7 +149,7 @@ Qui est votre mère ? La question est là pour nous tous. **Agar a fait Ismaël 
 
 Paul nous apprend dans le premier verset du chapitre 5 de Galates que nous sommes libres si nous appartenons réellement à la postérité spirituelle d’Abraham.
 
-> _**1 C’est pour la liberté que Christ nous a affranchis. Demeurez donc fermes, et ne vous laissez pas mettre de nouveau sous le joug de la servitude.**_ (Galates 5:1)
+> _**1 C’est pour la liberté que Christ nous a affranchis. Demeurez donc fermes, et ne vous laissez pas mettre de nouveau sous le joug de la servitude.**_ (Galates 5 :1)
 
 **Nous ne devons pas nous mettre à nouveau sous le joug des moqueurs et des esclaves, ceux-là mêmes qui ont fait du Message du Temps de la Fin, une organisation branhamiste et qui sont assis dans la chaire de William Branham.** Mes frères, Dieu ne nous a pas appelés à vivre dans des substituts, mais à une réelle marche de l’Esprit, dans une totale liberté.
 
@@ -173,7 +173,7 @@ Mes chers frères et sœurs en Christ, nous devons comprendre la parole prophét
 
 Il est évident que le Seigneur apparaît au Matin pour l’enlèvement. N’est-ce pas qu’Il est Lui-même l’étoile brillante du Matin ? Jésus-Christ est l’étoile brillante du Matin. Il est ressuscité le matin du troisième jour de Sa mort.
 
-> _**16 Moi, Jésus, j’ai envoyé mon ange pour vous attester ces choses dans les Eglises. Je suis le rejeton et la postérité de David, l’étoile brillante du matin.**_ (Apocalypse 22:16)
+> _**16 Moi, Jésus, j’ai envoyé mon ange pour vous attester ces choses dans les Eglises. Je suis le rejeton et la postérité de David, l’étoile brillante du matin.**_ (Apoc 22:16)
 
 Par ailleurs, Pierre nous informe que la Parole prophétique de cette heure est venue pour nous conduire dans la nuit comme une lampe **jusqu’à la parution du Jour — au Matin.** Le Soir n’est pas la parution du Jour. Minuit n’est pas non plus la parution du Jour. Et le Chant du Coq annonce la parution du Jour, mais le jour ne parait qu’au Matin.
 

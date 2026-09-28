@@ -61,6 +61,7 @@ mevar_match:
   similarity: 0.57
 llm_cleaned: true
 bible_refs:
+  - "Nombres 27"
   - "Nombres 36"
   - "Ruth 3"
   - "Apocalypse 5:8"

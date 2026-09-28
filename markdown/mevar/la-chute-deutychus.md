@@ -63,7 +63,7 @@ En effet, lorsque dans une assemblée, les frères sont obéissants, il est faci
 
 A la suite de cette exhortation de Paul, il demanda aux frères de prier pour eux les apôtres et aussi pour les conducteurs :
 
-> _18 **Priez pour nous ; car nous croyons avoir une bonne conscience, voulant en toutes choses bien nous conduire.**_ (Hébreux 13:17-18)
+> _18 **Priez pour nous ; car nous croyons avoir une bonne conscience, voulant en toutes choses bien nous conduire.**_ (Hébreux 13 : 17-18)
 
 Paul parle aux frères dans l’esprit des pasteurs qui sont toujours animés par le souci de bien faire, de bien servir les frères et sœurs dans une bonne conscience. **Nous voulons en toutes choses bien nous conduire frères et sœurs. Les bons pasteurs veulent toujours bien se conduire, mais il peut arriver qu’il y ait des problèmes.** Les bons frères veulent toujours bien se conduire, dans une bonne conscience. C’est pour cela que lorsqu’il y a des problèmes, nous devons savoir nous conduire pour ne pas marcher dans l’hypocrisie et la rébellion.
 

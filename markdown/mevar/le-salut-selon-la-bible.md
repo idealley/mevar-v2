@@ -92,7 +92,7 @@ Nous ne pouvons donc pas faire des œuvres justes si nous ne croyons pas d’abo
 
 La repentance est un virage à cent quatre-vingts degré. C’est le moment où Dieu nous montre la noirceur de notre cœur et notre éloignement d’avec Lui. En se repentant, nous demandons pardon à Dieu et nous devons croire que nous sommes pardonnés car Dieu nous pardonne si nous le Lui demandons.
 
-> Mon âme, bénis l'Eternel, et n'oublie pas un de ses bienfaits. 3 C'est lui qui te pardonne toutes tes iniquités, qui guérit toutes tes infirmités; (Psaumes 103:2)  
+> Mon âme, bénis l'Eternel, et n'oublie pas un de ses bienfaits. 3 C'est lui qui te pardonne toutes tes iniquités, qui guérit toutes tes infirmités; (Psaume 103:2)  
 >   
 > Si nous confessons nos péchés, il est fidèle et juste pour nous pardonner nos péchés, et nous nettoyer de toute iniquité. (1 Jean 1:9)
 
@@ -102,7 +102,7 @@ Le but de la repentance est que nous renoncions complètement au péché et chan
 
 > Je \[Jésus\] ne suis point venu appeler à la repentance les justes, mais les pécheurs. (Luc 5:32)
 
-> \[…\] si vous ne vous repentez, vous périrez tous de la même manière. (Luc 13:3)
+> \[…\] si vous ne vous repentez, vous périrez tous de la même manière. (Luc 13 :3)
 
 La condamnation pour ceux qui ne se repentent pas, qui ne renoncent pas au péché est la mort. La repentance est l’action de reconnaître que l'on est séparé de Dieu et qu'on a des torts devant Lui, reconnaître que nous avons péché et que nous sommes donc pécheurs et de Lui demander pardon et, le cas échéant, de réparer. Jésus est notre avocat, nous n’avons pas besoin de confesser nos péchés à un homme (curé, pasteur, etc.). Par contre si nous avons blessé une personne, nous devons lui demander pardon et nous devons aussi pardonner à ceux qui nous ont offensés.
 
@@ -116,11 +116,11 @@ La repentance est donc le processus qui, lors de la conversion, permet de se dé
 
 La conversion est une nouvelle naissance. Nous étions vivant, mais nous étions mort car nous vivions dans le péché. Quand nous expérimentons la nouvelle naissance, la conversion, nous mourons à notre ancienne vie mais nous renaissons à une vie nouvelle, une vie avec Dieu.
 
-> Jésus répondit, et lui dit: en vérité, en vérité je te dis: si quelqu'un n'est né de nouveau, il ne peut point voir le Royaume de Dieu. (Jean 3:3)
+> Jésus répondit, et lui dit: en vérité, en vérité je te dis: si quelqu'un n'est né de nouveau, il ne peut point voir le Royaume de Dieu. (Jean 3 :3)
 
 Sans nouvelle naissance, nous ne pouvons pas faire partie du royaume de Dieu. C’est un peu plus loin que Jésus explique que la nouvelle naissance n’est pas une naissance physique ou de chair, mais une naissance spirituelle :
 
-> Ce qui est né de la chair, est chair; et ce qui est né de l'Esprit, est esprit. 7 Ne t'étonne pas de ce que je t'ai dit: il vous faut être nés de nouveau. (Jean 3:6)
+> Ce qui est né de la chair, est chair; et ce qui est né de l'Esprit, est esprit. 7 Ne t'étonne pas de ce que je t'ai dit: il vous faut être nés de nouveau. (Jean 3 :6)
 
 La nouvelle naissance est donc la régénération de notre homme intérieur. Ce n’est que par l’Esprit de Dieu que nous pouvons naître spirituellement. C’est Lui qui nous donne la vie et nous fait renaître d’entre les morts.
 
@@ -140,7 +140,7 @@ Nous devons aussi être attentif à ce que nous vivons, car lorsqu’un chrétie
 
 La sanctification est un processus, c’est une course :
 
-> Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetant tout fardeau, et le péché qui nous enveloppe si aisément, poursuivons constamment la course qui nous est proposée; (Hébreux 12:1)
+> Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetant tout fardeau, et le péché qui nous enveloppe si aisément, poursuivons constamment la course qui nous est proposée; (Hébreux 12 :1)
 
 > Ne savez- vous pas que quand on court dans la lice, tous courent bien, mais un seul remporte le prix? courez \[donc\] tellement que vous le remportiez. 25 Or quiconque lutte, vit entièrement de régime; et quant à ceux- là, ils le font pour avoir une couronne corruptible; mais nous, pour en avoir une incorruptible. 26 Je cours donc, \[mais\] non pas sans savoir comment; je combats, \[mais\] non pas comme battant l'air. 27 Mais je mortifie mon corps, et je me le soumets; de peur qu'après avoir prêché aux autres, je ne sois trouvé moi-même en quelque sorte non recevable. (1 Corinthiens 9:24-27)
 
@@ -192,7 +192,7 @@ La Parole de Dieu nous avertit qu’à la fin des temps il y aura beaucoup de s�
 
 Cela est possible car notre ennemi est bien plus malin que nous. C’est un ange, un ange déchu, mais il n’a rien de cet être cornu avec une fourche. Si Satan séduit, c’est qu’il est beau et que son message plaît aux oreilles des hommes.
 
-> Et cela n'est pas étonnant: car Satan lui-même se déguise en Ange de lumière. 15 Ce n'est donc pas un grand sujet d'étonnement si ses ministres aussi se déguisent en ministres de justice; \[mais\] leur fin sera conforme à leurs oeuvres. (2 Corinthiens 11:14)
+> Et cela n'est pas étonnant: car Satan lui-même se déguise en Ange de lumière. 15 Ce n'est donc pas un grand sujet d'étonnement si ses ministres aussi se déguisent en ministres de justice; \[mais\] leur fin sera conforme à leurs oeuvres. (2 Corinthien 11:14)
 
 Le Seigneur Jésus a déjà vaincu Satan, son jugement est déjà écrit dans la Bible, en Christ, nous n’avons pas à avoir peur de lui, mais il en va de notre salut, il nous faut tout vérifier pour tester si cela est conforme à la Parole de Dieu.
 

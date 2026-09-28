@@ -82,8 +82,8 @@ celui qui s’humilie.
 vient en entendant la Parole. Jésus lui-même était prédestiné à être la semence de la
 femme qui écraserait la tête du serpent. Moïse était prédestiné à devenir autre chose que
 l’héritier de Pharaon. Esaïe a vu Jean-Baptiste 720 ans avant sa naissance, comme étant
-la voix criant dans le désert [Ésaïe 40:3; Jean 1:23]. Jérémie aussi était connu de Dieu avant sa
-naissance [Jérémie 1:5]. Mais il faut faire attention à l’enthousiasme du nouveau converti qui
+la voix criant dans le désert [Es. 40:3; Jean 1:23]. Jérémie aussi était connu de Dieu avant sa
+naissance [Jér. 1:5]. Mais il faut faire attention à l’enthousiasme du nouveau converti qui
 se dit appelé à prêcher.
    §22 à 23- Jésus était considéré comme un bâtard, car conçu avant le mariage. Je crois
 que quand Dieu fait une grande chose sur terre, il l’annonce par des Anges. Celui
@@ -156,7 +156,7 @@ que la veille. Elle vient d’en haut, et ce n’est pas un prêtre qui peut la 
 ainsi goûter à la manne originelle. Là, les vers ne s’y mettaient pas.
    §51 à 53- Le jour de la Pentecôte, notre Manne est descendue. “La promesse est pour
 vous, pour vos enfants, et pour tous ceux qui sont au loin, en aussi grand nombre que le
-Seigneur notre Dieu les appellera” [Actes 2:39]. Vous avez droit au même Saint-Esprit, la
+Seigneur notre Dieu les appellera” [Act. 2:39]. Vous avez droit au même Saint-Esprit, la
 même chose réelle, avec les mêmes preuves ! Alléluia ! Mais nos églises s’en sont
 éloignées. Elles construisent de beaux bâtiments, font des compromis, et ont de belles
 chorales de femmes fardées en jupes courtes. “Vous les reconnaîtrez à leurs fruits” [Mat.
@@ -172,7 +172,7 @@ Mais les gens sont morts et ne le savent pas. Ils ignorent ce qu’est la puissa
 Esprit.
    §56 à 57- Lors du baptême de Jésus, le Saint-Esprit est descendu sur lui. Rempli du
 Saint-Esprit, il est allé au désert pour y être tenté 40 jours. Il en est sorti, et des signes
-l’accompagnaient. “Voici les signes qui accompagneront ceux qui auront cru” [Marc 16:17-18]. Les signes accompagnent toujours l’Eglise de Dieu. Mais les hommes
+l’accompagnaient. “Voici les signes qui accompagneront ceux qui auront cru” [Marc 16: 17-18]. Les signes accompagnent toujours l’Eglise de Dieu. Mais les hommes
 transforment les réveils en organisation. Alors Dieu en éloigne son peuple. Nous avons
 
  _____________________________________________________
@@ -184,7 +184,7 @@ en vision, et il n’a pas suivi ceux qui étaient venus le chercher. Ils ont d�
 d’hypocrite, et changer d’église ! C’est pour la même raison que votre pasteur ne peut
 rien pour vous. Laissez-le venir vous faire l’onction d’huile, et Dieu honorera l’homme
 de Dieu. S’il tarde, n’oubliez pas que toutes choses concourent au bien de ceux qui
-aiment Dieu [Romains 8:28].
+aiment Dieu [Rom. 8:28].
    §58 à 60- L’état de Lazare a empiré, et ce soutien de famille est mort, laissant deux
 jeunes filles derrière lui. Jésus, celui qu’elles aimaient, n’était pas venu. Quand il a prié
 pour l’enfant épileptique, Jésus aussi a dû mener un grand combat [cf. Marc 9:20]. Ayez
@@ -195,7 +195,7 @@ Allez vers Christ !” Ce qui est nécessaire, c’est votre foi.
    §61 à 67- Si la guérison vous avait été prêchée comme l’a été le baptême du Saint-
 Esprit, les résultats seraient similaires. Les gens saisissent cela, ils ont faim. Si vous
 compreniez qu’il a été brisé pour nos iniquités et que par ses meurtrissures nous
-sommes guéris, [Ésaïe 53:5], vous pourriez être guéris sur place ! Au quatrième jour, Jésus
+sommes guéris, [Es. 53:5], vous pourriez être guéris sur place ! Au quatrième jour, Jésus
 est arrivé. Il n’y avait plus d’espoir. Et la foi a saisi Marthe à l’heure la plus sombre, la
 même foi qui les avait contraints à quitter l’église. Quiconque suit Jésus, est mis à la
 porte de l’église. Et les moqueurs ont souligné qu’il n’avait pas guéri son ami ! Jésus

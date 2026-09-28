@@ -153,7 +153,7 @@ Mettez la Parole de Dieu en pratique :
 
 Nous n'aurons aucune excuse au jour du jugement ! Ceux-là seuls qui sont prêts seront enlevés pour les Noces de l’Agneau !
 
-> _...car les noces de l'agneau sont venues, et son épouse s'est préparée._ (Apocalypse 19:7)
+> _...car les noces de l'agneau sont venues, et son épouse s'est préparée._ (Apocalypse19:7)
 
 ## L'épouses s'est préparée !
 

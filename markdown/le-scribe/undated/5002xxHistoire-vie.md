@@ -48,6 +48,7 @@ bible_refs:
   - "Deutéronome 5:16"
   - "Job 38:4,7"
   - "Luc 16:23-24"
+original: "branham/1950/50-0200"
 ---
 **1.** Lisons Hébreux 13:10-14
     “Nous avons un autel dont ceux qui font le service au tabernacle n’ont pas le pouvoir de manger. –
@@ -59,7 +60,7 @@ bible_refs:
    Je veux parler sur le fait que nous n’avons pas ici-bas de cité permanente.
 
 **2 à 5-** Abraham, conduit par l’Esprit, a quitté Ur pour chercher la cité dont Dieu est
-l’architecte [Hébreux 11:10]. Il a reconnu qu’il était voyageur et étranger sur la terre [Hébreux 11:13,1 P. 2:11]. Rien ne remplace un foyer. Nous aimons être chez nous. Je me souviens d’une
+l’architecte [Héb. 11:10]. Il a reconnu qu’il était voyageur et étranger sur la terre [Héb. 11:13; 1 P. 2:11]. Rien ne remplace un foyer. Nous aimons être chez nous. Je me souviens d’une
 humble maison dans un terrain de bruyères entourée de quelques pommiers. Ma famille
 était très pauvre. Mon père [Charles Branham] travaillait comme bûcheron pour 75 cents
 par jour. Il revenait du travail la chemise collée à son dos brûlé par le soleil. Il buvait,

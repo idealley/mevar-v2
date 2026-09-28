@@ -217,9 +217,9 @@ aujourd’hui.
 **54** à **56**- Un rabbin qui connaissait John Rhyn m’a interrogé. “Par quel moyen avez-
 vous ouvert ses yeux ?” – “Dans le Nom de notre Seigneur et Sauveur Jésus-Christ.”
 – “Il n’est ni Seigneur ni Sauveur, il a volé du blé dans un champ un jour de sabbat.”
-[cf. Mat. 12:1] – “La Loi de Dieu autorisait la cueillette des épis” [Deutéronome 23:25] – “Jésus
+[cf. Mat. 12:1] – “La Loi de Dieu autorisait la cueillette des épis” [Deut. 23:25] – “Jésus
 n’est pas le Fils de Dieu. Vous ne pourrez pas couper Dieu en trois, et donner cela à un
-Juif.” – “Vous croyez aux prophètes. Qui est celui dont parle Ésaïe 9:6 : ‘Un fils nous
+Juif.” – “Vous croyez aux prophètes. Qui est celui dont parle Esaïe 9:6 : ‘Un fils nous
 est né’ ?” – “C’est le Messie.” – “Que sera donc le Messie ?” – “Il sera Dieu.” –
 “Où Jésus a-t-il échoué, prouvant alors que ce n’était pas lui ?” Il n’a pas répondu.
 J’ai ajouté : “Vous savez que John était aveugle. C’est Jésus-Christ, votre Messie que

@@ -50,7 +50,7 @@ Mes bien-aimés, soumettez aussi ce domaine de votre vie au Seigneur sinon, vous
 
 Comme le Seigneur l’a dit :
 
-> **_Nul ne peut servir deux maîtres_**_. Car, ou il haïra l’un, et aimera l’autre; ou il s’attachera à l’un, et méprisera l’autre._ **_Vous ne pouvez servir Dieu et Mammon._** (Matthieu 6:24)
+> **_Nul ne peut servir deux maîtres_**_. Car, ou il haïra l’un, et aimera l’autre; ou il s’attachera à l’un, et méprisera l’autre._ **_Vous ne pouvez servir Dieu et Mammon._** (Matthieu 6 :24)
 
 Cette déclaration de notre Seigneur est tellement vraie qu’elle se vérifie aujourd’hui dans le milieu des frères et sœurs. Nous ne pouvons pas servir deux maîtres à la fois. En effet, le maître qui gouverne le milieu de l’emploi aujourd’hui est Mammon – c’est lui l’homme fort du milieu. **Et Mammon a tendance à placer ceux qui travaillent dans un environnement démoniaque qui les empêche d’adorer Dieu – il les lie dans beaucoup d’engagements financiers qu’ils doivent honorer par beaucoup d’heures de travail.** La vie devient alors une perpétuelle course pour de telles personnes et l’enlèvement pour eux est compromis – ils n’échapperont pas, parce qu’ils ne prient pas, comme Jésus l’a dit : _Veillez donc et priez en tout temps,_ **_afin que vous ayez la force d’échapper à toutes ces choses qui arriveront_**. Seule la prière vous sortira de l’esclavage de Mammon. Je n’en dirai pas plus. Que notre Seigneur vous bénisse et vous garde dans Sa paix profonde.
 

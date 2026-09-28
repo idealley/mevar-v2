@@ -24,7 +24,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
-import { BOOKS_FR, BOOKS_EN, escRe } from "./bible-books.mjs";
+import { BOOKS_FR, BOOKS_EN, escRe, quotePattern as pattern, before2, after3 } from "./bible-books.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const mdRoot = path.join(root, "markdown/branham");
@@ -51,7 +51,6 @@ const bookOf = (span) => EN_OF.get(VARIANTS.find((v) => span.toLowerCase().start
 // A range the PDF broke across two lines ("32:1-" / "12") comes out of lit as
 // "32:1- 12"; it is one range.
 const flat = (s) => s.replace(/\*+/g, "").replace(/\s+/g, " ").replace(/(\d)- (\d)/g, "$1-$2");
-const pattern = (s) => escRe(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]');
 
 function* walk(dir) {
   for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -61,18 +60,15 @@ function* walk(dir) {
   }
 }
 
-const before2 = (text, at) => flat(text.slice(Math.max(0, at - 300), at)).trimEnd().split(" ").slice(-2).join(" ");
-const after3 = (text, at) => flat(text.slice(at, at + 300)).trimStart().split(" ").slice(0, 3).join(" ");
-
 // Pass 1: a book name that is French, or where the PDF ends a sentence.
 function restoreNames(text, source, left) {
   let out = text;
   for (const hit of [...text.matchAll(NAME_RE)].reverse()) {
     const [spot, name, number] = hit;
-    const before = before2(text, hit.index);
+    const before = before2(text, hit.index, flat);
     // Skip the period our text puts after a paragraph number ("80. And").
     const end = hit.index + spot.length;
-    const after = after3(text, text[end] === "." ? end + 1 : end);
+    const after = after3(text, text[end] === "." ? end + 1 : end, flat);
     // The PDF may carry a page footer between the word and the paragraph number.
     const re = new RegExp(`${pattern(before)} (\\S+(?: \\S+)?) (?:\\d{1,3} THE SPOKEN WORD )?${escRe(number)}\\.? ${pattern(after)}`, "g");
     const found = [...source.matchAll(re)];
@@ -95,8 +91,8 @@ function restoreCitations(text, source) {
   let out = text;
   for (const hit of [...text.matchAll(CITE_RE)].reverse()) {
     const [spot, name] = hit;
-    const before = pattern(before2(text, hit.index));
-    const after = pattern(after3(text, hit.index + spot.length));
+    const before = pattern(before2(text, hit.index, flat));
+    const after = pattern(after3(text, hit.index + spot.length, flat));
     const found = [...source.matchAll(new RegExp(`${before} ((?:(?!${before}).){1,60}?) ?${after}`, "g"))];
     const span = found.length === 1 ? found[0][1].trim() : null;
     if (span && span !== spot && !span.includes("THE SPOKEN WORD") && bookOf(span) === name) {

@@ -249,6 +249,8 @@ bible_refs:
   - "Psaumes 83:1-9"
   - "Apocalypse 17:13"
   - "Ésaïe 21:11"
+  - "Nombres 24:17-20"
+  - "Nombres 24"
   - "Michée 5:1"
   - "Matthieu 2:1-6"
   - "Luc 17:22-30"

@@ -79,7 +79,7 @@ C’est ce qui arrive quand il n’y a pas de préparation, quand il n’y a pas
 
 Le réveil est une vie de sainteté et de séparation totale d’avec le monde. Amen ! Ça commence par là. Et celui qui a fait cet exercice et qui a eu la victoire, pour le reste il n’y a plus de problème parce que cette puissance qui vient va dévorer les méchants et puis ça va bénir les plus sages et les plus intelligents. Que Dieu soit béni ! Je voudrais m’arrêter là. Je pense que c’était juste pour compléter ce que nous avons écouté. Et avec cela, je souhaite que ce sujet sur le réveil soit définitivement compris par tous. Je voulais que chacun de nous comprenne le point de vue de frère Branham sur la question.
 
-Le frère a fait référence aussi à 2 Chroniques 7:14.
+Le frère a fait référence aussi à 2 chroniques 7:14.
 
 > **Si mon peuple sur qui est invoqué mon nom s’humilie, prie, et cherche ma face, et s’il se détourne de ses mauvaises voies, je l’exaucerai des cieux, je lui pardonnerai son péché, et je guérirai son pays**.
 

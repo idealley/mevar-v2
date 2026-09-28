@@ -108,7 +108,7 @@ Dieu reproche au peuple à travers son prophète Aggée de lui offrir des sacrif
 
 Nous voyons que les sacrificateurs ont la connaissance de la loi, ils connaissent le message de Moïse mais ils ne l’appliquent pas à leur vie et ne conduisent pas le peuple dans la sainteté. C’est pour cela que Dieu demande aux conducteurs du peuple et au peuple de se fortifier et de travailler! Dieu ne veut pas que nous soyons inactifs. Le peuple doit travailler pour plaire à Dieu, les conducteurs du peuple de Dieu doivent aussi travailler. Le travail des conducteurs est de servir le peuple, pour que le peuple puisse arriver là où Dieu veut qu’il soit. Soyons attentifs à ce qui est dit dans la loi car l’implication pour nous est très grave:
 
-> 18 Parle à Aaron et à ses fils, et dis: Voici la loi du sacrifice d'expiation. C'est dans le lieu où l'on égorge l'holocauste que sera égorgée devant l'Éternel la victime pour le sacrifice d'expiation: c'est une chose très sainte. 19 **Le sacrificateur qui offrira la victime expiatoire la mangera; elle sera mangée dans un lieu saint, dans le parvis de la tente d'assignation.** 20 **Quiconque en touchera la chair sera sanctifié. (Lévitique 6:18-20)**
+> 18 Parle à Aaron et à ses fils, et dis: Voici la loi du sacrifice d'expiation. C'est dans le lieu où l'on égorge l'holocauste que sera égorgée devant l'Éternel la victime pour le sacrifice d'expiation: c'est une chose très sainte. 19 **Le sacrificateur qui offrira la victime expiatoire la mangera; elle sera mangée dans un lieu saint, dans le parvis de la tente d'assignation.** 20 **Quiconque en touchera la chair sera sanctifié. (Lev 6:18-20)**
 
 Dans les passages du Lévitique que nous avons lu, il y a trois types de sacrifices. Les trois types de sacrifices sont accomplis par Jésus sur la croix. L’holocauste est un sacrifice d’odeur agréable à l’Eternel. La description de l’holocauste montre bien qu’il s’agit d’un mâle, sans défaut offert pour l’expiation des péchés et que cela est agréable à Dieu:
 
@@ -118,11 +118,11 @@ Dans les passages du Lévitique que nous avons lu, il y a trois types de sacrifi
 
 Il est toujours agréable à Dieu quand son peuple veut revenir à Lui et qu’il demande pardon. Jésus a été ce sacrifice ultime dont nous avions besoin pour être réconciliés avec Dieu. Jésus était ce sacrifice sans défaut car il n’a pas péché, il n’avait pas de défaut devant Dieu ce qui le qualifiait pour ce sacrifice.
 
-Jésus accomplit l’holocauste sur la croix, mais sur cette même croix il accomplit le sacrifice d’expiation. Lévitique 6 est clair sur le fait que la victime expiatoire sera égorgée dans le même lieu que l’holocauste. Ce lieu, c’est la croix! Nous pouvons aussi lire que la victime pour le sacrifice d’expiation est une chose très sainte (Lévitique 6:22). Cette victime qui a expié nos péchés, c’est Jésus. La chair qui a servi au sacrifice, c’est Jésus! C’est pour cela que la victime expiatoire est une chose très sainte car Dieu, dans sa grandeur et connaissant son plan avait prévu qu’il se sacrifierait pour nous, pour nous libérer de nos péchés.
+Jésus accomplit l’holocauste sur la croix, mais sur cette même croix il accomplit le sacrifice d’expiation. Lévitique 6 est clair sur le fait que la victime expiatoire sera égorgée dans le même lieu que l’holocauste. Ce lieu, c’est la croix! Nous pouvons aussi lire que la victime pour le sacrifice d’expiation est une chose très sainte (Lev 6:22). Cette victime qui a expié nos péchés, c’est Jésus. La chair qui a servi au sacrifice, c’est Jésus! C’est pour cela que la victime expiatoire est une chose très sainte car Dieu, dans sa grandeur et connaissant son plan avait prévu qu’il se sacrifierait pour nous, pour nous libérer de nos péchés.
 
 La loi ordonne aussi de manger le sacrifice expiatoire dans un lieu saint. Pour nous, c’est Jésus qui nous explique ce que veut dire de manger du sacrifice, quand il partage le pain avec ses disciples:
 
-> Pendant qu'ils mangeaient, Jésus prit du pain; et, après avoir rendu grâces, il le rompit, et le donna aux disciples, en disant: Prenez, mangez, ceci est mon **corps**. (Seg 1910, Matthieu 26:26)
+> Pendant qu'ils mangeaient, Jésus prit du pain; et, après avoir rendu grâces, il le rompit, et le donna aux disciples, en disant: Prenez, mangez, ceci est mon **corps**. (Seg 1910, Matt 26:26)
 
 Il sait et il leur a déjà annoncé qu’il doit mourir en sacrifice pour l’humanité pour payer le prix de nos péchés. Il montre à ses disciples qu’il faut manger le corps de Jésus, comme les sacrificateurs qui travaillaient dans le temple pouvaient manger du sacrifice expiatoire, mais pour cela ils devaient être purs. Jésus utilise le pain comme symbole pour que nous nous souvenions de son sacrifice.
 
@@ -142,7 +142,7 @@ Nous pouvons aller plus loin dans la compréhension des sacrifices en regardant 
 
 > Et il répondit: Où sera le **corps**, là s'assembleront les **aigles**. (Seg 1910, Luc 17:37)  
 >   
-> En quelque lieu que soit le **cadavre**, là s'assembleront les **aigles**. (Seg 1910, Matthieu 24:28)
+> En quelque lieu que soit le **cadavre**, là s'assembleront les **aigles**. (Seg 1910, Matt 24:28)
 
 Certaines traductions parlent de charognards comme les vautours au lieu des aigles, car cela semble logique pour les hommes qui ont traduit le texte sans pour autant en comprendre le sens profond. Un aigle est un oiseau qui chasse et qui tue pour manger, alors que les vautours sont des charognards qui mangent de la chair qu’ils n’ont pas tuée.
 
@@ -160,7 +160,7 @@ Ceux qui ont suivi Jésus étaient des aigles, ils sont allés là où se trouva
 
 Nous avons dit que les aigles sont des animaux qui tuent leur proie, et nous pouvons nous comparer aux aigles aussi à ce niveau-là, car si Jésus s’est sacrifié à la croix pour nous, c’est à cause de nous, à cause de nos péchés à cause de notre nature de pécheur. Donc nous pouvons dire que nous avons tué ce corps. Et que Dieu dans sa miséricorde a intercédé pour nous, pour que nous soyons pardonnés et libérés de notre nature de pécheurs:
 
-> 12 C'est pourquoi je lui donnerai sa part avec les grands; Il partagera le butin avec les puissants, Parce qu'il s'est livré lui-même à la mort, Et qu'il a été mis au nombre des malfaiteurs, Parce qu'il a porté les péchés de beaucoup d'hommes, Et qu'il a intercédé pour les coupables. (Seg 1910, Ésaïe 53:12)
+> 12 C'est pourquoi je lui donnerai sa part avec les grands; Il partagera le butin avec les puissants, Parce qu'il s'est livré lui-même à la mort, Et qu'il a été mis au nombre des malfaiteurs, Parce qu'il a porté les péchés de beaucoup d'hommes, Et qu'il a intercédé pour les coupables. (Seg 1910, Es 53:12)
 
 Mais la raison principale de l'utilisation de l’aigle, c’est que l’aigle est le symbole de la prophétie, c’est le symbole de l’âge prophétique dans lequel nous sommes, c’est le symbole qui représente l’apôtre Jean qui a écrit le livre d’Apocalypse qui est une prophétie qui révèle la nature de Dieu. Les aigles qui s’assemblent devant le corps, ceux qui suivent le plan de Dieu, sont ceux à qui Dieu a fait la grâce de révéler son plan, ce sont ceux qui écoutent et qui comprennent la révélation et ce sont ceux qui se nourrissent du message actuel de Dieu.
 
@@ -168,27 +168,27 @@ Nous l’avons compris, nous sommes les aigles et nous marchons avec Jésus pour
 
 Mais nous sommes aussi dans la même situation que le peuple qui reçoit la prophétie par Aggée. Nous sommes appelés à être un peuple de sacrificateurs pour notre Dieu. Le sacrificateur qui peut manger le sacrifice expiatoire c’est nous:
 
-> 4 Jean, aux sept assemblées qui sont en Asie : Grâce et paix à vous, de la part de celui qui est\*, et qui était, et qui vient\*\*, et de la part des sept Esprits qui sont devant son trône, 5 et de la part de Jésus Christ, le témoin fidèle, le premier-né des morts, et le prince des rois de la terre ! À celui qui nous aime, et qui nous a lavés de nos péchés dans son sang ; 6 - et il nous a faits un royaume, **des sacrificateurs pour son Dieu et Père** ; - à lui la gloire et la force aux siècles des siècles ! Amen. (Darby, Apocalypse 1:4-6)
+> 4 Jean, aux sept assemblées qui sont en Asie : Grâce et paix à vous, de la part de celui qui est\*, et qui était, et qui vient\*\*, et de la part des sept Esprits qui sont devant son trône, 5 et de la part de Jésus Christ, le témoin fidèle, le premier-né des morts, et le prince des rois de la terre ! À celui qui nous aime, et qui nous a lavés de nos péchés dans son sang ; 6 - et il nous a faits un royaume, **des sacrificateurs pour son Dieu et Père** ; - à lui la gloire et la force aux siècles des siècles ! Amen. (Darby, Apo 1:4-6)
 
 Le sacrifice, le prix de notre salut a déjà été payé pour nous, et nous sommes bien un peuple de sacrificateurs pour notre Dieu. Dans cette perspective nous devons faire attention à comment nous faisons nos sacrifices et comment nous mangeons du sacrifice:
 
-> \[...\] au sujet des offrandes consumées par le feu devant l'Éternel: Quiconque en touche la chair sera sanctifié. (Lévitique 6:11)
+> \[...\] au sujet des offrandes consumées par le feu devant l'Éternel: Quiconque en touche la chair sera sanctifié. (Lev 6:11)
 
-Une offrande ou un sacrifice consumé par le feu, c’est un holocauste (Lévitique 1:6). Jésus représente cet holocauste qui a été consumé pour nous. Quiconque touche à une offrande consumée par le feu est sanctifié. C’est la promesse que Dieu nous a fait. Quiconque vient à Jésus peut être sauvé grâce à son sacrifice.
+Une offrande ou un sacrifice consumé par le feu, c’est un holocauste (Lev 1:6). Jésus représente cet holocauste qui a été consumé pour nous. Quiconque touche à une offrande consumée par le feu est sanctifié. C’est la promesse que Dieu nous a fait. Quiconque vient à Jésus peut être sauvé grâce à son sacrifice.
 
-Jésus est aussi l’accomplissement du sacrifice expiatoire. C’est ce sacrifice que les sacrificateurs avaient le droit de manger. Pour avancer avec Dieu et pour bénéficier de sa révélation, le sacrifice doit être mangé dans un lieu saint (Lévitique 6:19). Le lieu saint fait référence au tabernacle, puis plus tard au temple. Le tabernacle c’est l’habitation de Dieu pour les hébreux, et nous, nous sommes le tabernacle de Dieu pour qu’il puisse habiter en nous:
+Jésus est aussi l’accomplissement du sacrifice expiatoire. C’est ce sacrifice que les sacrificateurs avaient le droit de manger. Pour avancer avec Dieu et pour bénéficier de sa révélation, le sacrifice doit être mangé dans un lieu saint (Lev 6:19). Le lieu saint fait référence au tabernacle, puis plus tard au temple. Le tabernacle c’est l’habitation de Dieu pour les hébreux, et nous, nous sommes le tabernacle de Dieu pour qu’il puisse habiter en nous:
 
-> En lui vous êtes aussi édifiés pour être une habitation de Dieu en Esprit. (Éphésiens 2:22)
+> En lui vous êtes aussi édifiés pour être une habitation de Dieu en Esprit. (Eph 2:22)
 
 Être l’habitation de Dieu c’est l’objectif à atteindre. Dieu doit se révéler en nous. Il doit manifester sa gloire à travers son épouse et pour cela nous devons être ce lieu saint dans lequel Il peut habiter pleinement. Et c’est en étant ce lieu saint que nous pouvons manger pleinement de la révélation, car si nous sommes saints nous pouvons manger sans crainte d’être retranché du peuple.
 
 Par contre, si quelqu’un mangeait du sacrifice en étant impur ou en ayant touché quelque chose d’impur, celui-ci devait être retranché du peuple. Qu’en est-il de nous? Pouvons-nous être un aigle qui se nourrit du corps mort sans être pur, sans se sanctifier? Dieu ne changeant pas, cela semble inconcevable. La loi étant un type des choses à venir, il est certain que cela n’est pas possible.
 
-L’explication est fort simple: “La chair qui a touché quelque chose d'impur ne sera point mangée: elle sera brûlée au feu” (Lévitique 7:19). Les versets suivants passent de quelque chose à quelqu’un. On voit bien que, si quelque chose d’impur touche le sacrifice ou que si quelqu’un d’impur touche ou mange du sacrifice cela rend le sacrifice impur. La personne coupable doit être retranchée du peuple. Si Dieu accepte l'impureté dans son sein. Il devient impur et cela est inacceptable. Dieu ne peut pas vivre dans une habitation qui n’est pas pure car il ne peut pas cohabiter avec le péché.
+L’explication est fort simple: “La chair qui a touché quelque chose d'impur ne sera point mangée: elle sera brûlée au feu” (Lev 7:19). Les versets suivants passent de quelque chose à quelqu’un. On voit bien que, si quelque chose d’impur touche le sacrifice ou que si quelqu’un d’impur touche ou mange du sacrifice cela rend le sacrifice impur. La personne coupable doit être retranchée du peuple. Si Dieu accepte l'impureté dans son sein. Il devient impur et cela est inacceptable. Dieu ne peut pas vivre dans une habitation qui n’est pas pure car il ne peut pas cohabiter avec le péché.
 
 C’est pour cela que Dieu nous appelle à revenir à lui, à nous humilier devant lui pour qu’il puisse nous relever. C’est pour cela que nous devons mourir à nous-même, mourir à notre nature de pécheur pour être trouvé digne devant Dieu, digne d’être le lieu saint dans lequel nous pouvons manger le sacrifice. La loi nous explique même cela:
 
-> Le vase de terre dans lequel elle aura cuit sera brisé; si c'est dans un vase d'airain qu'elle a cuit, il sera nettoyé et lavé dans l'eau. (Lévitique 6:21)
+> Le vase de terre dans lequel elle aura cuit sera brisé; si c'est dans un vase d'airain qu'elle a cuit, il sera nettoyé et lavé dans l'eau. (Lev 6:21)
 
 Jésus a mis à mort sa chair sur la croix. Le récipient qui a servi à préparer le sacrifice a été brisé. Son corps humain a été lavé. Jésus parle de sa mort comme d’un baptême lorsqu’il répond au fils de Zébédée:
 

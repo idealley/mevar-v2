@@ -75,7 +75,7 @@ après-midi je prêcherai, Dieu voulant, sur le thème de l’Aigle qui boulever
 **4.** Nous sommes tous des humains, mais chacun de nous a un esprit. Quand l’Onction du
 Saint-Esprit vient, c’est comme une respiration, et les gens ressentent si c’est la foi, ou
 l’incrédulité, etc. Vous me direz que c’est de la psychologie. Peut-être. Si c’est le cas, Jésus
-en a tenu compte : il a mené un homme hors de la ville avant de prier pour lui [Marc 7:33]. Une
+en a tenu compte : il a mené un homme hors de la ville avant de prier pour lui [Mc. 7:33]. Une
 autre fois il a fait sortir la foule qui se lamentait chez le chef de la synagogue dont la fille
 venait de mourir. Il n’a gardé que les parents, ainsi que Pierre, Jacques et Jean. Et il a
 ressuscité la fille [Matthieu 9:23-26, Marc 5:35-43, Luc 8:49-59]. Le regard est la porte de l’âme. La vue a une
@@ -199,7 +199,7 @@ ne varie pas. Quiconque cherche Dieu doit avoir cette assurance !
 nous sommes limités. Il ne peut pas faire d’erreur. S’il a guéri ou sauvé une personne une fois
 à cause de sa foi, il devra guérir ou sauver ceux qui viendront ensuite vers lui avec cette foi.
 Souvenez-vous que c’est une bénédiction que de se sentir appelé par Dieu. “Nul ne peut venir
-à moi, si le Père qui m'a envoyé ne l'attire d’abord.” [Jean 6:44]. Et s’il n’avait jamais frappé à la
+à moi, si le Père qui m'a envoyé ne l'attire d’abord.” [Jn. 6:44]. Et s’il n’avait jamais frappé à la
 porte de votre cœur ? Réfléchissez-y. Dieu donne une occasion à chacun, mais c’est vous-
 même qui le rejetez.
 
@@ -230,7 +230,7 @@ prière, faites quelque chose pour eux, du mieux que vous pouvez. Ne leur tourne
 dos, même s’ils vous maltraitent. Si vous ne pouvez le faire du fond du cœur, allez à l’autel
 et restez-y jusqu’à ce qu’un esprit vienne en vous et vous fasse aimer ceux qui ne vous
  aiment pas. C’est alors que Dieu répondra à vos prières. David a dit : “Si j'avais conçu
-l'iniquité dans mon cœur, le Seigneur ne m'aurait pas exaucé.” [Psaumes 66:18]. Sinon il ne vous
+l'iniquité dans mon cœur, le Seigneur ne m'aurait pas exaucé.” [Ps. 66:18]. Sinon il ne vous
 écoutera pas.
 
 **25.** Elie et Elisée étaient passés par là, mais on avait dit à Bartimée que le temps des
@@ -261,7 +261,7 @@ gagner des âmes pour Christ. Je me suis alors interrogé sur mon amour pour Chr
 l’aime et il nous aime. Nous sommes très occupés, mais Dieu veut que nous fassions une
 pause pour l’adorer, pour lui parler. J’aime cette douceur. Ce qu’il y a de plus précieux dans
 nos vies, c’est de s’arrêter pour méditer. Si les gens pensaient à Dieu, il y aurait moins
-d’énervement dans le pays. “Approchez-vous de Dieu, et il s'approchera de vous.” [Jacques 4:8].
+d’énervement dans le pays. “Approchez-vous de Dieu, et il s'approchera de vous.” [Jac. 4:8].
 
 **29.** Bartimée pensait au grand Guerrier donnant ses instructions à Josué, et lui annonçant la
 chute des murailles au son de la trompette, et il se disait que Dieu est toujours le même. C’est

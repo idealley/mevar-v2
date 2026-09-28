@@ -147,9 +147,9 @@ du divorce. L’économie est incertaine, l’avenir est confus, il suffit qu’
 trop de vodka et appuie sur le bouton pour que nous partions en poussière. Toutes les
 nations ont ces bombes destructrices. Le monde ne pourra pas supporter l’explosion de
 ces milliers de bombes. Toutes les nations ont peur. L’ONU est ébranlé, et tout ce qui
-peut être ébranlé le sera. Mais nous avons reçu un Royaume inébranlable [Hébreux 12:28].
+peut être ébranlé le sera. Mais nous avons reçu un Royaume inébranlable [Héb. 12:28].
    §45 à 47- Les saisons sont incertaines et irrégulières. Les savants disent que la terre
-gonfle en son centre, et que la Finlande Esther 1/8 de fois plus grande qu’il y a quelques
+gonfle en son centre, et que la Finlande est 1/8 de fois plus grande qu’il y a quelques
 années. C’est le signal rouge. Il vient, soyez prêts. Les polices d’assurance sont des jeux
 de hasard incertains. Les dénominations sont incertaines, et c’est pourquoi elles
 s’unissent dans le Conseil Mondial des Eglises, où des croyants se mélangent à des
@@ -187,7 +187,7 @@ la Vie qui vient de l’Homme vit. Il est le Pain de Vie venu de Dieu. L’Arbre
 
    _____________________________________________________
 
-planté près des courants d’eaux” [cf. Psaumes 1:3], avec plusieurs courants des divers dons, et
+planté près des courants d’eaux” [cf. Ps. 1:3], avec plusieurs courants des divers dons, et
 le même Esprit. Mais les Romains l’ont abattu et pendu à un arbre fait de main
 d’homme. Il est revenu, et il a intronisé l’Arbre de l’Epouse ayant en elle son propre
 Esprit pour porter le même fruit. Tout a bien marché pendant trois siècles.
@@ -256,7 +256,7 @@ les gens aiment être caressés dans le sens du poil. L’instruction a été la
 pour l’Evangile. Les enfants de Caïn étaient savants, et ceux de Seth d’humbles bergers.
 Nous donnons tellement d’importance à l’intellectualisme ! Dieu veut des gens mis à
 part, et non pas des gens qui vont avec n’importe qui et comme bon leur semble :
-“Mettez-moi à part Barnabas et Saul” [Actes 13:2]. Ce n’est pas facile à faire, mais c’est ce
+“Mettez-moi à part Barnabas et Saul” [Act.13:2]. Ce n’est pas facile à faire, mais c’est ce
 que Dieu exige.
    §73 à 74- Les brebis sont entraînées à suivre la voix du berger. Mais j’ai appris qu’une
 grande dénomination évangélique fait passer ses missionnaires devant un psychanalyste
@@ -267,7 +267,7 @@ faut des hommes qui savent par expérience qui est Dieu. Dites au moins comment 
 bougie a été allumée !
    §75 à 79- Les deux Alliances avec Adam puis avec Noé ont été brisées. Mais
 l’Alliance avec Abraham était inconditionnelle. Dieu voulait sauver l’homme, c’est là un
-son clair : “Je t’ai sauvé, toi et ta postérité, et je jure par moi-même de le faire” [cf. Genèse 22:15-18]. Il n’y a aucune incertitude là ! Tout ce que fait l’homme est corruptible. Seul
+son clair : “Je t’ai sauvé, toi et ta postérité, et je jure par moi-même de le faire” [cf. Gen. 22:15-18]. Il n’y a aucune incertitude là ! Tout ce que fait l’homme est corruptible. Seul
 Christ est incorruptible. Le salut est inconditionnel, par grâce. Quand Dieu a promis un
 enfant à Abraham, il n’y avait rien de confus, et Abraham a cru malgré les années qui
 passaient. Dieu avait parlé, et donc c’était réglé. Noé a proclamé la venue de la pluie à
@@ -325,10 +325,10 @@ monde, et prêchez la bonne nouvelle à toute la création. … Voici les miracl
 accompagneront ceux qui auront cru : en mon nom, ils chasseront les démons ; ils
 parleront de nouvelles langues ; ils saisiront des serpents ; s’ils boivent quelque
 breuvage mortel, il ne leur fera point de mal ; ils imposeront les mains aux malades, et
-les malades seront guéris” [Marc 16:15,17-18]. Rien de confus ! Il n’est pas dit de serrer la
+les malades seront guéris” [Marc. 16:15,17-18]. Rien de confus ! Il n’est pas dit de serrer la
 main du pasteur, ou de mettre une hostie sur la langue. Donner la dîme, c’est bien, mais il
 a parlé de “signes qui accompagneraient les croyants”. La Bible annonce une “Lumière
-au temps du soir” [Zacharie 14:7], que le Fils de Dieu brillerait dans les derniers jours. Jésus a
+au temps du soir” [Zac. 14:7], que le Fils de Dieu brillerait dans les derniers jours. Jésus a
 dit qu’il en serait comme du temps de Noé où huit personnes seulement ont été sauvées,
 car étroite est la porte [1 Pierre 3:20, Mat. 7:14]. La seule solution, c’est que vous
 
@@ -344,7 +344,7 @@ derniers jours qu’il est toujours le même, en venant en plénitude. Il n’y 
 confus.
    §97 à 101- Si vous ne savez que faire, la Bible dit : “Repentez-vous, et que chacun de
 vous soit baptisé au Nom de Jésus-Christ pour le pardon de vos péchés ; et vous
-recevrez le don du Saint-Esprit” [Actes 2:38]. Il n’y a là rien de confus ! C’est une
+recevrez le don du Saint-Esprit” [Act. 2:38]. Il n’y a là rien de confus ! C’est une
 promesse. La femme de Zachée croyait en Jésus, elle a prié pour son mari, et un jour il
 est allé en ville et s’est caché dans un arbre. Jésus s’est arrêté à cet endroit même, et l’a
 interpellé. Il n’y avait là rien de confus, Zachée a su que c’était le Messie et il a lâché les
@@ -364,7 +364,7 @@ un baume qui vous maintiendra mort toute votre existence.
 quiconque vit et croit en moi ne mourra jamais” [Jean 11:25-26], et aussi : “Celui qui
 mange ma chair et qui boit mon sang a la vie éternelle ; et je le ressusciterai au dernier
 jour” [Jean 6:54]. Mais celui qui mange le pain ou boit la coupe indignement, sans
-discerner le corps du Seigneur, mange et boit un jugement contre lui-même [cf. 1 Corinthiens 11:27,29]. Il n’y a là rien de confus. La résurrection est promise à celui qui marche dans la
+discerner le corps du Seigneur, mange et boit un jugement contre lui-même [cf. 1 Cor. 11:27,29]. Il n’y a là rien de confus. La résurrection est promise à celui qui marche dans la
 Parole, dans la foi. Mais la femme qui vit dans les plaisirs est morte, quoique vivante [1
 Tim. 5:6]. Dieu ne change pas. Le général Valdena m’avait permis de venir à Mexico, et
 l’évêque catholique avait protesté : “Cet homme n’est pas catholique !” – “Mais il a

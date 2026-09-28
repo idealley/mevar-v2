@@ -29,11 +29,11 @@ bible_refs:
 
 Je vous salue tous mes biens aimés frères et sœurs et membres de la chaîne de prière, par cette Parole d’Ésaïe :
 
-> _Malheur, dit l’Eternel, **aux enfants rebelles, qui prennent des résolutions sans moi, et qui font des alliances sans ma volonté,** pour accumuler péché sur péché! qui descendent en Egypte sans me consulter, pour se réfugier sous la protection de Pharaon, et chercher un abri sous l’ombre de l’Egypte ! La protection de Pharaon sera pour vous une honte, et l’abri sous l’ombre de l’Egypte une ignominie._ (Ésaïe 30:1-3)
+> _Malheur, dit l’Eternel, **aux enfants rebelles, qui prennent des résolutions sans moi, et qui font des alliances sans ma volonté,** pour accumuler péché sur péché! qui descendent en Egypte sans me consulter, pour se réfugier sous la protection de Pharaon, et chercher un abri sous l’ombre de l’Egypte ! La protection de Pharaon sera pour vous une honte, et l’abri sous l’ombre de l’Egypte une ignominie._ (Esaïe 30:1-3)
 
-Avant Ésaïe 30, le même Seigneur a dit dans Ésaïe 29 :
+Avant Esaïe 30, le même Seigneur a dit dans Esaïe 29 :
 
-> _**Malheur à ceux qui cachent leurs desseins pour les dérober à l’Eternel, qui font leurs oeuvres dans les ténèbres,** et qui disent: **Qui nous voit et qui nous connaît?** Quelle perversité est la vôtre! **Le potier doit-il être considéré comme de l’argile**, pour que l’ouvrage dise de l’ouvrier: Il ne m’a point fait? **Pour que le vase dise du potier: Il n’a point d’intelligence?**_ (Ésaïe 29:15-16)
+> _**Malheur à ceux qui cachent leurs desseins pour les dérober à l’Eternel, qui font leurs oeuvres dans les ténèbres,** et qui disent: **Qui nous voit et qui nous connaît?** Quelle perversité est la vôtre! **Le potier doit-il être considéré comme de l’argile**, pour que l’ouvrage dise de l’ouvrier: Il ne m’a point fait? **Pour que le vase dise du potier: Il n’a point d’intelligence?**_ (Esaïe 29:15-16)
 
 Mes chers amis, que la grâce et la Paix de notre Seigneur Jésus-Christ soient avec vous dans Son amour. Je voudrais encore nous exhorter brièvement avec ce passage de l’Écriture sur lequel mon attention a été particulièrement attirée dans ces temps. **Il s’agit du Seigneur qui s’adresse à Son Peuple qui l’a offensé par son attitude – par un comportement qui n’a pas honoré le Seigneur**. Et Il en parle pour notre instruction. Ce peuple auquel le Seigneur s’adresse est taxé de rebelle. Aujourd’hui, nous sommes appelés à faire très attention à la rébellion spirituelle. En effet, comme notre rébellion est spirituelle, souvent, on ne s’en aperçoit pas. **Qui sont les enfants rebelles dans la Maison de Dieu ? Pourquoi sont-ils malheureux ?**
 

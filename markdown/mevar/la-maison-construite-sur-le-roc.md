@@ -55,7 +55,7 @@ Je prendrai un exemple. Un homme riche donne la clé d’une magnifique maison a
 
 **Les vierges folles, toutes joyeuses, se réjouiront parce que les malades seront guéris, les démons seront chassés, ils prophétiseront, ils feront des miracles mais leur maison sera détruite quand même, parce que n’ayant pas des fondations assez solides, l’orgueil les submergera et les détruira.**
 
-> Personne ne met une pièce de drap neuf à un vieil habit ; car elle emporterait une partie de l'habit, et la déchirure serait pire. [17](http://saintebible.com/matthew/9-17.htm) On ne met pas non plus du vin nouveau dans de vieilles outres ; autrement, les outres se rompent, le vin se répand, et les outres sont perdues ; mais on met le vin nouveau dans des outres neuves, et le vin et les outres se conservent.(Matthieu 9:16-17)
+> Personne ne met une pièce de drap neuf à un vieil habit ; car elle emporterait une partie de l'habit, et la déchirure serait pire. [17](http://saintebible.com/matthew/9-17.htm) On ne met pas non plus du vin nouveau dans de vieilles outres ; autrement, les outres se rompent, le vin se répand, et les outres sont perdues ; mais on met le vin nouveau dans des outres neuves, et le vin et les outres se conservent.(Matthieu 9 :16-17)
 
 Devant Dieu, nous sommes des vases que nous devons nettoyer non seulement à l’extérieur, l’apparence, mais aussi à l’intérieur en extirpant toutes les mauvaises choses :
 
@@ -75,7 +75,7 @@ Dans ce texte, on voit que les œuvres sont liées à la foi et que cette foi pr
 
 Voyons l’avertissement qui est donné à l’église de Laodicée :
 
-> je te conseille d'acheter de moi de l'or éprouvé par le feu, afin que tu deviennes riche, et des vêtements blancs, afin que tu sois vêtu et que la honte de ta nudité ne paraisse pas, et un collyre pour oindre tes yeux, afin que tu voies. Moi, je reprends et je châtie tous ceux que j'aime. Aie donc du zèle, et repens-toi. Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi. (Apocalypse 3:18-20)
+> je te conseille d'acheter de moi de l'or éprouvé par le feu, afin que tu deviennes riche, et des vêtements blancs, afin que tu sois vêtu et que la honte de ta nudité ne paraisse pas, et un collyre pour oindre tes yeux, afin que tu voies. Moi, je reprends et je châtie tous ceux que j'aime. Aie donc du zèle, et repens-toi. Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi. (Apocalypse 3 :18-20)
 
 Dans ce passage, Dieu conseille à l’Église de Laodicée d’acheter de l’or, un vêtement blanc et un collyre pour oindre les yeux. Pourquoi ? L’or symbolise la foi, la pureté, la valeur (dans le sens être précieux), le vêtement blanc est le type des œuvres justes des saints et nous avons besoin du collyre pour que Dieu nous ouvre la vue et **que nous puissions voir et comprendre notre situation**.
 
