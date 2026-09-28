@@ -45,7 +45,7 @@ bible_refs:
   - "Apocalypse 3:14-22"
 editorial_pass: "2026-09-28"
 ---
-**Exhortation d’Août 2008**
+**Exhortation d’août 2008**
 
 **PRENEZ GARDE À VOUS MÊME**
 
