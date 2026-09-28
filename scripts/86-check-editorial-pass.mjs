@@ -59,8 +59,7 @@ const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editoria
 // The editor's fixes to a pass (Samuel's delegate, then Samuel): each is an
 // exact passage of the pass's body and its replacement, with the reason. They
 // are applied before the check, which verifies the result like the rest. A
-// text's entry may also give the title, and a location the header states and
-// the frontmatter lacks.
+// text's entry may also give the title.
 const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-fixes.json"), "utf8"));
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
@@ -241,8 +240,6 @@ for (const md of batch) {
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
   const field = (k) => JSON.parse(fm.match(new RegExp(`^${k}: (.*)$`, "m"))?.[1] ?? '""');
   const oldTitle = field("title");
-  // a place the header gives and the frontmatter lacks, set by the editor
-  const location = field("location") || edits.location || "";
   const after = rendered(body, r.unexplained);
   r.words = words(original).length;
 
@@ -283,7 +280,7 @@ for (const md of batch) {
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
   const key = (w) => bare(fold(w));
   const [y, mo, d] = field("date").split("-");
-  const own = new Set([oldTitle, field("subtitle"), location, field("preacher"),
+  const own = new Set([oldTitle, field("subtitle"), field("location"), field("preacher"),
     `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w));
@@ -395,13 +392,11 @@ for (const md of batch) {
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
     let newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`);
-    if (edits.location && !field("location")) newFm = newFm.replace(/^(date: .*|year: .*)$/m, (l) => `${l}\nlocation: ${JSON.stringify(edits.location)}`);
     newFm += `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${edited}\n`);
     // 50 takes index.json's titles from the manifest
     const entry = manifest.find((e) => e.local_md === md);
     entry.title = r.title;
-    if (edits.location && !field("location")) entry.location = edits.location;
   }
   r.promoted = !r.unexplained.length || promoted;
   rows.push(r);
