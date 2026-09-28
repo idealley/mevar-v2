@@ -87,10 +87,10 @@ function words(text) {
 
 // The pass's words as the site renders its markdown (mdast, the parser Astro
 // uses): bold is what renders bold, a quote is inside a blockquote. Headings,
-// HTML and images, which a sermon has none of, go to `found`.
+// HTML, images and link definitions, which a sermon has none of, go to `found`.
 function rendered(md, found) {
   const out = [];
-  const kinds = { heading: "a heading", html: "HTML", image: "an image", imageReference: "an image" };
+  const kinds = { heading: "a heading", html: "HTML", image: "an image", imageReference: "an image", definition: "a link definition" };
   (function walk(node, bold, quote) {
     if (kinds[node.type])
       found.push(`${kinds[node.type]}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
@@ -402,14 +402,11 @@ for (const md of batch) {
     r.unexplained.push(`the split « ${edits.split.at} » does not occur exactly once after the text's start`);
   const parts = split > 0 ? [edited.slice(0, split).trimEnd(), edited.slice(split)] : [edited];
   r.split = split > 0 ? `${path.dirname(md)}/${edits.split.frontmatter.sermon_id}.md` : null;
-  const bodyOf = (p) => {
-    const t = fs.existsSync(path.join(root, p)) ? fs.readFileSync(path.join(root, p), "utf8") : "";
-    return t.slice(t.indexOf("\n---\n") + 5);
-  };
+  const bodyOf = (t) => t.slice(t.indexOf("\n---\n") + 5);
 
   const promoted = /^editorial_pass:/m.test(fm);
   // a text promoted earlier is still this pass's body, with the editor's fixes
-  if (promoted && (bodyOf(md) !== `${parts[0]}\n` || (r.split && bodyOf(r.split) !== `${parts[1]}\n`)))
+  if (promoted && (bodyOf(file) !== `${parts[0]}\n` || (r.split && bodyOf(fs.readFileSync(path.join(root, r.split), "utf8")) !== `${parts[1]}\n`)))
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
     const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
@@ -420,8 +417,7 @@ for (const md of batch) {
       const f = { source: "onedrive", ...edits.split.frontmatter };
       const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}` : `${k}: ${JSON.stringify(v)}`);
       fs.writeFileSync(path.join(root, r.split), `---\n${yaml.join("\n")}\neditorial_pass: "${today}"\n---\n${parts[1]}\n`);
-      const i = manifest.findIndex((e) => e.local_md === r.split);
-      manifest[i < 0 ? manifest.length : i] = { ...f, local_md: r.split };
+      manifest.push({ ...f, local_md: r.split });
     }
   }
   r.promoted = !r.unexplained.length || promoted;
