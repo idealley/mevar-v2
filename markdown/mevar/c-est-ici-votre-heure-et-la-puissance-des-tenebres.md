@@ -12,6 +12,7 @@ url: "https://mevar.org/c-est-ici-votre-heure-et-la-puissance-des-tenebres/"
 tags:
   - "Prédications"
   - "2006"
+  - "Soubré"
 authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eda"
