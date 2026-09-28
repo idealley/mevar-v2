@@ -1,6 +1,6 @@
 # GOAL 17: French typography: a narrow space before « : ; ? ! »
 
-**Status:** in progress
+**Status:** merged as PR #22 (2026-09-28); the reference follow-up below in progress
 **Repo:** `mevar-v2` (`web/src/lib/`, `web/src/content.config.ts`,
 `web/astro.config.mjs`, `email/build.mjs`, `tests/`, `package.json`,
 `docs/`)
@@ -45,6 +45,15 @@ bodies; and where a text has none, one is added.
 3. **The emails**: `email/build.mjs` applies it to the title, the summary
    and Samuel's note.
 4. **Tests** for the function, in the root `npm test`.
+5. **Follow-up (Samuel, after PR #22): a reference takes no space.**
+   Word puts one before « : » (« Philippiens 2 :3-8 »), and PR #22 made it
+   the narrow one. In a Bible reference as 65 reads it (`citations()`, the
+   same the Bible links use), « : » now takes no space on either side:
+   « 2:3-8 », « 24:28 », « Hébreux 5:5-10 ». Not between any two numbers:
+   « juin 1933 : 1) » and « verset 24 : 24 Car » are not references. A
+   spelling 65 does not read (« Mathieu », « Ephésiens », « Hébr », « Pier »,
+   about 180 in `dist`) keeps its narrow space, and is not linked either:
+   a follow-up for 65.
 
 ## Scope out
 

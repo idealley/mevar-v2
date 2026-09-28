@@ -3,7 +3,12 @@
 // render. A space before the mark (ordinary, no-break, thin) becomes the
 // narrow one; a letter or a closing mark directly before it gets one. Not
 // after a digit (« Jean 3:16 », « 10:30 »), not between two marks (« ?! »),
-// not in a web address.
+// not in a web address. In a Bible reference, as 65 reads them, « : » takes
+// no space at all: Word adds one to « Philippiens 2 :3-8 » (Samuel), which
+// reads « 2:3-8 »; « juin 1933 : 1) » or « verset 24 : 24 Car » are not
+// references and keep theirs.
+
+import { citations } from "../../../scripts/65-normalize-bible.mjs";
 
 const NARROW = "\u202f";
 const BLOCKS = new Set(["p", "li", "blockquote", "h1", "h2", "h3", "h4", "h5", "h6", "td", "th", "div", "figure", "figcaption"]);
@@ -20,12 +25,24 @@ export function frenchSpacing(text, before = "") {
     .map((part, i) => {
       if (i % 2) return part;
       const prev = i === 0 ? before.slice(-1) : "";
-      return (prev + part)
+      return joinReferences(prev + part)
         .replace(/(?<=\S)[ \u00a0\u2009\u202f]+(?=[;?!:])/g, NARROW)
         .replace(/(?<=[\p{L}»)\]’])(?=[;?!]|:(?!\/\/))/gu, NARROW)
         .slice(prev.length);
     })
     .join("");
+}
+
+function joinReferences(text) {
+  let out = "";
+  let at = 0;
+  // in order; of two at the same place, the longer, as the Bible links
+  for (const c of [...citations(text)].sort((a, b) => a.index - b.index || b.text.length - a.text.length)) {
+    if (c.index < at) continue;
+    out += text.slice(at, c.index) + c.text.replace(/(?<=\d)[ \u00a0\u2009\u202f]*:[ \u00a0\u2009\u202f]*(?=\d)/g, ":");
+    at = c.index + c.text.length;
+  }
+  return out + text.slice(at);
 }
 
 // Rehype: every text of a French work's body, in reading order, so a mark

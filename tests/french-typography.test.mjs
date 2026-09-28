@@ -16,6 +16,15 @@ test("a word or a closing mark gets one", () => {
   assert.equal(frenchSpacing("« Viens »! (Luc 9)? [sic]: l’homme’?"), `« Viens »${N}! (Luc 9)${N}? [sic]${N}: l’homme’${N}?`);
 });
 
+test("a reference loses the space Word puts in it", () => {
+  assert.equal(frenchSpacing("(Philippiens 2 :3-8)"), "(Philippiens 2:3-8)");
+  assert.equal(frenchSpacing(`Matthieu 24${N}: 28 et Actes 10\u00a0:34`), "Matthieu 24:28 et Actes 10:34");
+  assert.equal(frenchSpacing("(Hébreux 5: 5-10) et Gen 3 :10"), "(Hébreux 5:5-10) et Gen 3:10");
+  assert.equal(frenchSpacing("le point 2 : la foi"), `le point 2${N}: la foi`);
+  assert.equal(frenchSpacing("le 22 juin 1933 : 1) guerre"), `le 22 juin 1933${N}: 1) guerre`);
+  assert.equal(frenchSpacing("Verset 24 : 24 Car il"), `Verset 24${N}: 24 Car il`);
+});
+
 test("references, times, addresses and doubled marks stay", () => {
   assert.equal(frenchSpacing("Jean 3:16 à 10:30"), "Jean 3:16 à 10:30");
   assert.equal(frenchSpacing("voir https://mevar.org/page?id=3 et www.mevar.org/x?y"), "voir https://mevar.org/page?id=3 et www.mevar.org/x?y");
