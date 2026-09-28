@@ -3,7 +3,8 @@
 // render. A space before the mark (ordinary, no-break, thin) becomes the
 // narrow one; a letter or a closing mark directly before it gets one. Not
 // after a digit (« Jean 3:16 », « 10:30 »), not between two marks (« ?! »),
-// not in a web address.
+// not in a web address. Between two numbers, « : » takes no space at all:
+// Word adds one to « Philippiens 2 :3-8 » (Samuel), which reads « 2:3-8 ».
 
 const NARROW = "\u202f";
 const BLOCKS = new Set(["p", "li", "blockquote", "h1", "h2", "h3", "h4", "h5", "h6", "td", "th", "div", "figure", "figcaption"]);
@@ -21,6 +22,7 @@ export function frenchSpacing(text, before = "") {
       if (i % 2) return part;
       const prev = i === 0 ? before.slice(-1) : "";
       return (prev + part)
+        .replace(/(?<=\d)[ \u00a0\u2009\u202f]+:[ \u00a0\u2009\u202f]*(?=\d)/g, ":")
         .replace(/(?<=\S)[ \u00a0\u2009\u202f]+(?=[;?!:])/g, NARROW)
         .replace(/(?<=[\p{L}»)\]’])(?=[;?!]|:(?!\/\/))/gu, NARROW)
         .slice(prev.length);
