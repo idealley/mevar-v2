@@ -37,7 +37,7 @@ bible_refs:
   - "Proverbes 4:23"
   - "Luc 6:43-45"
   - "Hébreux 12"
-editorial_pass: "2026-09-25"
+editorial_pass: "2026-09-28"
 ---
 Nous remercions le Seigneur qui nous a gardés pendant notre voyage. Nous avons passé deux semaines au Nigeria. On a visité les églises et nous croyons que le Seigneur a donné la Parole qu’il fallait aux frères et sœurs. Moi je suis en train de rentrer à Abidjan, mais ce soir, nous sommes venus à la réunion pour vous exhorter encore. Cotonou est devenu un aéroport international pour moi. À chaque fois il faut passer par ici. Bon ! C’est votre grâce. Alléluia ! Alors il faut en profiter.
 
@@ -73,7 +73,7 @@ Et frères, le cœur de l’homme **c’est le trésor de Dieu**. **Notre cœur 
 
 **Mais le problème, c’est que nous ne gardons pas notre cœur, nous laissons notre cœur à Satan qui vient y mettre ce qu’il veut**. Ce n’est pas juste frères ! Ce n’est pas juste !
 
-Vous voyez ! Il est écrit qu’un homme bon tire les bonnes choses du bon trésor qui est dans son cœur. Mais celui qui est méchant, tire les mauvaises choses de son mauvais trésor : « **Et le méchant tire de mauvaises choses de son mauvais trésor. Car c’est de l’abondance du cœur que la bouche parle**. » Si nous sommes chrétiens, nous sommes le trésor de Dieu. Notre cœur est le trésor de Dieu. Dieu, c’est le grand roi, c’est Lui qui a tous les trésors et, **Il veut que nos cœurs soient de grands trésors, des chambres où Il dispose ses propres biens – un lieu où Il peut garder Ses richesses… les fruits du Saint-Esprit, les bonnes œuvres de la foi**. C’est pour cette raison que Dieu ne veut pas partager notre cœur avec les démons…
+Vous voyez ! Il est écrit qu’un homme bon tire les bonnes choses du bon trésor qui est dans son cœur. Mais celui qui est méchant, tire les mauvaises choses de son mauvais trésor : « **Et le méchant tire de mauvaises choses de son mauvais trésor. Car c’est de l’abondance du cœur que la bouche parle**. » Si nous sommes chrétiens, nous sommes le trésor de Dieu. Notre cœur est le trésor de Dieu. Dieu, c’est le grand roi, c’est Lui qui a tous les trésors et, **Il veut que nos cœurs soient de grands trésors, des chambres où Il dispose Ses propres biens – un lieu où Il peut garder Ses richesses… les fruits du Saint-Esprit, les bonnes œuvres de la foi**. C’est pour cette raison que Dieu ne veut pas partager notre cœur avec les démons…
 
 Et le Seigneur l’a dit : « Vous ne pouvez pas servir deux maîtres à la fois. » Si vous ne pouvez pas servir deux maîtres à la fois, vous ne pouvez pas en servir trois à la fois ! **Notre Maître, c’est Jésus-Christ seul, c’est Lui qu’on doit servir. Et notre cœur est Son trésor, là où Il veut garder Ses richesses. Là où Il veut garder les bonnes œuvres, pour que nous soyons des hommes spirituellement riches, et que nous puissions montrer cette richesse au monde**.
 
@@ -85,7 +85,7 @@ Vous savez frères, parmi nous, **il y en a qui gardent des trésors qu’ils ne
 
 Mettez du poison dans de l’eau et buvez ! Vous allez mourir… C’est ainsi. Surveille ton cœur pour ne pas que Satan y mette ce qu’il a envie de mettre pour te détruire dans les amertumes et les vilains sentiments. Mais il faut veiller. Si le diable est en train de mettre quelque chose qui est un poison, il faut refouler cela. **Frères, si vous voulez être enlevés, ne regardez pas au prochain. Nous venons tous à l’église, mais si vous voulez être enlevés**, **arrangez-vous avec le Seigneur… ne gardez rien dans votre cœur contre quelqu’un**. Si quelqu’un t’a fait du mal, il ne faut pas garder cela contre lui dans ton cœur. N’acceptez pas les poisons de Satan dans votre cœur.
 
-Prions le Seigneur et disons : « Seigneur que mon cœur soit Ton trésor. Et toi, mets dans mon cœur les bonnes œuvres de la foi. Mets dans mon cœur Tes richesses, car Tes richesses me suffisent. Et ne permets pas que le diable mette dans mon cœur ses poisons parce que mon cœur n’est pas le trésor de Satan. »
+Prions le Seigneur et disons : « Seigneur, que mon cœur soit Ton trésor. Et Toi, mets dans mon cœur les bonnes œuvres de la foi. Mets dans mon cœur Tes richesses, car Tes richesses me suffisent. Et ne permets pas que le diable mette dans mon cœur ses poisons parce que mon cœur n’est pas le trésor de Satan. »
 
 **L’homme bon tire les bonnes choses du bon trésor de son cœur**. Frères, quels trésors avons-nous ? Que contient notre trésor ? Est-ce les bonnes œuvres de Jésus ? **Est-ce que nos cœurs contiennent les bonnes œuvres du Seigneur ou les trésors de Satan ? Sachons que le Seigneur nous a acquis pour que nous soyons Son bon trésor**. Alléluia ! Que Dieu nous aide frères. Nous devons travailler pour ces choses. Vous savez, l’homme spirituel travaille. Il travaille parce que la vie chrétienne est un travail, parce que nous avons des problèmes. **Et le travail, ce sont les prières, les jeûnes**, **les supplications, la prédication, la lecture, l’écoute et la pratique de la Parole. Celui qui fait cela, son cœur sera un bon trésor**.
 
