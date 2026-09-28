@@ -2258,12 +2258,6 @@
     "title": null,
     "fixes": [
       {
-        "find": "dans Nombre 25 :1.\n\n> **1**Israël demeurait à Sittim ; et le peuple commença à se livrer à la débauche avec les filles de Moab. (Nombres 25:1)\n\nIl est question",
-        "replace": "dans Nombre 25 :1. Il est question",
-        "kind": "restore",
-        "why": "remove the reading the pass inserted for « Nombre 25 :1 » (unverifiable); sentence continues as in the original"
-      },
-      {
         "find": "il s’est agenouillé devant les dieux",
         "replace": "il s’est agenouillé devant les dieux",
         "kind": "word",
@@ -2446,6 +2440,12 @@
         "replace": "Eph. 4 :12, français courant\n\n> « **Il a agi",
         "kind": "markup",
         "why": "Bible reading of Eph 4:12 as its own quote paragraph"
+      },
+      {
+        "find": "le Seigneur a laissé croître et les ronces et qu’Il ne l’arrose plus",
+        "replace": "le Seigneur a laissé croître les ronces et qu’Il ne l’arrose plus",
+        "kind": "word",
+        "why": "Samuel: the first « et » makes the sentence obscure; « a laissé croître les ronces et qu’Il ne l’arrose plus »"
       }
     ]
   },
