@@ -219,7 +219,7 @@ for (const md of batch) {
     const paragraph = body.slice(0, Math.max(at, 0)).split(/\n\s*\n/).filter((p) => p.trim()).at(-1) ?? "";
     const announced = cited.find((c) => matches(c, ref));
     if (!whole) r.unexplained.push(`reading ${ref} is not the Segond text as a paragraph of its own`);
-    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/\b(lis\p{L}*|lire|lu|lecture)\b/iu.test(paragraph))
+    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/(?<!\p{L})(lis\p{L}*|lire|lu|lecture)(?!\p{L})/iu.test(paragraph))
       r.unexplained.push(`reading ${ref} inserted, but the paragraph before it does not announce it as a reading the original cites`);
     else {
       body = body.replace(inserted, "");
@@ -353,8 +353,17 @@ for (const md of batch) {
     // a change inside an editor's "word" fix is the editor's decision
     const span = spans.find(([s, e]) => hunk.at >= s - 1 && hunk.at <= e && hunk.after.every((x) => x.at >= s - 1 && x.at <= e));
     if (span) {
-      const c = classify(hunk);
-      if (c.unexplained.length) { r.editorWords.push({ before: text(hunk.before), after: text(hunk.after), why: span[2].why }); continue; }
+      // only the part of the change no rule allows is the editor's; the
+      // substitutions around it still go to their tables
+      const parts = hunk.parts.map((h) => [h, classify(h)]);
+      if (parts.some(([, c]) => c.unexplained.length)) {
+        for (const [h, c] of parts) {
+          if (c.unexplained.length) { r.editorWords.push({ before: text(h.before), after: text(h.after), why: span[2].why }); continue; }
+          r.counts.typography += c.typography; r.counts.spacing += c.spacing; r.counts.glyph += c.glyph;
+          r.nonWord.push(...c.nonWord); r.word.push(...c.word);
+        }
+        continue;
+      }
     }
     let found = [classify(hunk)];
     if (found[0].unexplained.length && hunk.parts.length > 1) found = hunk.parts.map(classify);
