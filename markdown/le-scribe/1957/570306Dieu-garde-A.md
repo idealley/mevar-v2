@@ -43,6 +43,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570306Dieu-garde-A.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Nombres 13:30"
   - "Jean 14:35"
   - "Matthieu 24:26-27"
   - "2 Timothée 3:8"

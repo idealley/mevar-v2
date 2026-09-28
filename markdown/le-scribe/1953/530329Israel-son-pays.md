@@ -44,6 +44,7 @@ bible_refs:
   - "Nombres 21"
   - "Genèse 3:15"
   - "Exode 17"
+  - "Nombres 20:2"
   - "Nombres 22"
   - "Apocalypse 17"
   - "Josué 2"

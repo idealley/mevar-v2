@@ -33,6 +33,8 @@ const [previous, next] = [series[at - 1], series[at + 1]];
 // A Le-Scribe summary and the Branham sermon it summarizes.
 const original = fm.original ? await workAt(fm.original as string) : undefined;
 const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefined;
+// Two works one PDF printed together (86 split them).
+const publishedWith = fm.published_with ? await workAt(fm.published_with as string) : undefined;
 ---
 
 <Layout
@@ -72,6 +74,11 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
       {original && (
         <p class="mt-4 text-sm">
           Résumé de la prédication <a href={workUrl(original)} class="underline underline-offset-4">« {original.data.title} »</a> (texte original en anglais).
+        </p>
+      )}
+      {publishedWith && (
+        <p class="mt-4 text-sm">
+          Publié avec <a href={workUrl(publishedWith)} class="underline underline-offset-4">« {publishedWith.data.title} »</a>, dans le même document.
         </p>
       )}
       {summaryFr && (

@@ -72,6 +72,8 @@ bible_refs:
   - "Joël 2:28-32"
   - "Apocalypse 10"
   - "Apocalypse 10:7"
+  - "Nombres 21:18"
+  - "Nombres 21:14-19"
   - "Actes 3:19-20"
   - "Actes 3:19"
   - "2 Corinthiens 5:20"

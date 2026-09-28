@@ -70,6 +70,7 @@ bible_refs:
   - "Hébreux 13"
   - "Romains 3"
   - "Amos 3"
+  - "Nombres 24"
   - "2 Pierre 2"
   - "1 Rois 22"
   - "2 Samuel 6"

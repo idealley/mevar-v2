@@ -17,8 +17,9 @@
 //     digits in groups of three (50000 → 50 000);
 //   - printed furniture removed, counted: a number of 1 to 3 digits alone on
 //     its line that continues the pages' rising count (page number), the browser's print header and footer
-//     ("…/exo_nov07.html  1/4", "13/03/2010  MEVAR"), the old site's "Haut de
-//     page Retour Page d'accueil" bar, and a digit between two letters where
+//     ("…/exo_nov07.html  1/4", "13/03/2010  MEVAR", or a mevar.org address
+//     and its "1/4" on lines of their own), the old site's "Haut de
+//     page Retour Page d'accueil" bar or its "Haut de page" alone, and a digit between two letters where
 //     that digit does so five times or more (a glyph for "…");
 //   - the document's header removed, listed: the original's words before
 //     those the body opens with, within the first 80, holding the title;
@@ -37,8 +38,11 @@
 //
 // A text with no unexplained change is written to markdown/: the pass's body,
 // its title where only typography changed (also in manifests/onedrive.json,
-// which 50 reads), and editorial_pass: "<date>". A text that already has
-// editorial_pass is left as it is. The report goes to
+// which 50 reads), and editorial_pass: "<date>". A PDF that prints two works
+// (a second exhortation after the first) is checked as one and written as
+// two: the editor's `split` gives the words the second begins with and its
+// frontmatter, and each file names the other in `published_with`, so the
+// site keeps them together. A text that already has editorial_pass is left as it is. The report goes to
 // docs/goals/evidence/goal-10-batch-<batch>.md.
 //
 // Usage: node scripts/86-check-editorial-pass.mjs <batch>   (SurrealDB with 110 run)
@@ -58,7 +62,8 @@ const batchId = process.argv[2];
 const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-batches.json"), "utf8"))[batchId];
 // The editor's fixes to a pass (Samuel's delegate, then Samuel): each is an
 // exact passage of the pass's body and its replacement, with the reason. They
-// are applied before the check, which verifies the result like the rest.
+// are applied before the check, which verifies the result like the rest. A
+// text's entry may also give the title.
 const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-fixes.json"), "utf8"));
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
@@ -82,19 +87,20 @@ function words(text) {
 }
 
 // The pass's words as the site renders its markdown (mdast, the parser Astro
-// uses): bold is what renders bold, a quote is inside a blockquote. Headings
-// and HTML, which a sermon has none of, go to `found`.
+// uses): bold is what renders bold, a quote is inside a blockquote. Headings,
+// HTML, images and link definitions, which a sermon has none of, go to `found`.
 function rendered(md, found) {
   const out = [];
+  const kinds = { heading: "a heading", html: "HTML", image: "an image", imageReference: "an image", definition: "a link definition" };
   (function walk(node, bold, quote) {
-    if (node.type === "heading" || node.type === "html")
-      found.push(`${node.type === "html" ? "HTML" : "a heading"}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
+    if (kinds[node.type])
+      found.push(`${kinds[node.type]}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
     // text, and code (a line indented four spaces), whose words are words too
     if (["text", "code", "inlineCode"].includes(node.type))
       for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote });
     // an ordered list's numbers are markup to markdown, words to the check
     (node.children ?? []).forEach((c, i) => {
-      if (node.type === "list" && node.ordered) out.push({ w: String((node.start ?? 1) + i), at: c.position.start.offset, bold, quote });
+      if (node.type === "list" && node.ordered) out.push({ w: String((node.start ?? 1) + i), at: c.position.start.offset, bold, quote, marker: true });
       walk(c, bold || node.type === "strong", quote || node.type === "blockquote");
     });
   })(fromMarkdown(md), false, false);
@@ -184,7 +190,9 @@ for (const md of batch) {
   // Applied from the end, so each fix's place in the edited body is known:
   // a fix of kind "word" (the editor adding or removing a word the
   // transcriber dropped or doubled: "ça été" → "ça a été") may do so inside
-  // its own span, and is listed apart.
+  // its own span, and is listed apart. One whose find is its replacement
+  // approves the pass's own removal there (« en genouillé » → « agenouillé »),
+  // listed the same way.
   let edited = pass.body;
   const at = new Map(edits.fixes.map((f) => [f, pass.body.indexOf(f.find)]));
   for (const f of edits.fixes) {
@@ -193,19 +201,18 @@ for (const md of batch) {
   }
   const placed = edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at.get(b) - at.get(a));
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
-  let shift = 0;
-  const spans = [];
-  for (const f of [...placed].reverse()) {
-    if (f.kind === "word") spans.push([at.get(f) + shift, at.get(f) + shift + f.replace.length, f]);
-    shift += f.replace.length - f.find.length;
-  }
+  // the pass's unclear sentences an editor's fix has since changed
+  r.unclearFixed = new Set(pass.unclear.filter((u) => pass.body.includes(u) && !edited.includes(u)));
   r.editorWords = [];
   const proposedTitle = edits.title ?? pass.title;
 
   // The inserted readings leave the compared text once they are verified:
   // a paragraph of its own, the Segond verses, for a reference the original
-  // cites and that the paragraph just before announces as a reading.
-  const cited = [...citations(original)];
+  // cites and that the paragraph just before announces as a reading (« nous
+  // lisons », « le deuxième texte se trouve dans »: a text counted, not
+  // « le texte de Jean 3:16 », which may be one he explains), once.
+  // (the PDF's justified lines double some spaces: « 1  Samuel 2 : 22-26 »)
+  const cited = [...citations(original.replace(/[ \t]+/g, " "))];
   let body = edited.normalize("NFC");
   // A bare chapter ("Nous lisons dans Jean 3") never authorises a reading:
   // the announcement names the verses, the first at least.
@@ -215,11 +222,11 @@ for (const md of batch) {
     const verses = await reading(db, ref);
     const inserted = verses && `\n\n${blockquote(verses, ref)}`;
     const at = inserted ? body.indexOf(inserted) : -1;
-    const whole = at >= 0 && /^[ \t]*(\n\s*\n|\s*$)/.test(body.slice(at + inserted.length));
+    const whole = at >= 0 && body.indexOf(inserted, at + 1) < 0 && /^[ \t]*(\n\s*\n|\s*$)/.test(body.slice(at + inserted.length));
     const paragraph = body.slice(0, Math.max(at, 0)).split(/\n\s*\n/).filter((p) => p.trim()).at(-1) ?? "";
     const announced = cited.find((c) => matches(c, ref));
     if (!whole) r.unexplained.push(`reading ${ref} is not the Segond text as a paragraph of its own`);
-    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/(?<!\p{L})(lis\p{L}*|lire|lu|lecture)(?!\p{L})/iu.test(paragraph))
+    else if (!announced || ![...citations(paragraph)].some((c) => matches(c, ref)) || !/(?<!\p{L})(lis\p{L}*|lire|lu|lecture|(premier|\p{L}+ième|dernier) texte)(?!\p{L})/iu.test(paragraph))
       r.unexplained.push(`reading ${ref} inserted, but the paragraph before it does not announce it as a reading the original cites`);
     else {
       body = body.replace(inserted, "");
@@ -227,6 +234,16 @@ for (const md of batch) {
     }
   }
   for (const u of pass.unresolved) r.unexplained.push(`reading announced as « ${u} » could not be resolved: nothing inserted`);
+  // where each "word" fix sits in the text the check compares (after the
+  // verified readings came out): its replacement must occur there once, or
+  // the words it would explain are not the editor's for sure
+  const spans = [];
+  for (const f of placed.filter((f) => f.kind === "word")) {
+    const rep = f.replace.normalize("NFC");
+    const i = body.indexOf(rep);
+    if (i < 0 || body.indexOf(rep, i + 1) >= 0) r.unexplained.push(`editor's word fix « ${f.replace} » is not found exactly once in the compared text`);
+    else spans.push([i, i + rep.length, f]);
+  }
 
   const file = fs.readFileSync(path.join(root, md), "utf8");
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
@@ -236,9 +253,9 @@ for (const md of batch) {
   r.words = words(original).length;
 
   // Printed page furniture the pass removes, first: the old site's navigation
-  // bar, the browser's print header and footer ("http://mevar.org/….html
-  // 1/4", "13/03/2010  MEVAR", or its date and "MEVAR" on lines of their
-  // own), a digit between two letters where the same
+  // bar or its "Haut de page" alone, the browser's print header and footer
+  // ("http://mevar.org/….html 1/4", "13/03/2010  MEVAR", or its address, its
+  // "1/4", its date and "MEVAR" on lines of their own), a digit between two letters where the same
   // digit does that five times or more (a glyph that stood for "…":
   // "serviteur4ils"), and a number of one to three digits alone on its line
   // that is 1 or 2 above the last one (a page number; a page may have none).
@@ -247,6 +264,8 @@ for (const md of batch) {
   const furniture = [
     [/^[\s*]*(\d\s+)?Haut\s+de\s+page\s+Retour\s+Page\s+d['’]accueil[\s*]*$/gm, "print"],
     [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
+    [/^\s*\S*mevar\.org\/\S*(\s+\d+\/\d+)?\s*$/gim, "print"],
+    [/^[\s*]*Haut\s+de\s+page[\s*]*$/gm, "print"],
     [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
   ];
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
@@ -342,32 +361,27 @@ for (const md of batch) {
   })();
   let run = null;
   const flush = () => { if (run) r.unexplained.push(`bold ${run.added ? "added to" : "removed from"} « ${run.words.join(" ")} » in: ${sentence(body, run.at)}`); run = null; };
+  // an ordered list's number cannot be bold in markdown ("**2**. …" is not
+  // an item): the original's bold on it is lost, and listed
+  r.listBold = [];
   for (const [o, n] of equal) {
     if (verse(o, n)) r.counts.verseNumbers++;
-    if (o.bold === n.bold || verse(o, n)) { flush(); continue; }
+    if (o.bold && n.marker) r.listBold.push(body.slice(n.at).split("\n")[0]);
+    if (o.bold === n.bold || verse(o, n) || (o.bold && n.marker)) { flush(); continue; }
     if (run && run.added === n.bold) run.words.push(n.w);
     else { flush(); run = { added: n.bold, words: [n.w], at: n.at }; }
   }
   flush();
   for (const hunk of changes) {
-    // a change inside an editor's "word" fix is the editor's decision
-    const span = spans.find(([s, e]) => hunk.at >= s - 1 && hunk.at <= e && hunk.after.every((x) => x.at >= s - 1 && x.at <= e));
-    if (span) {
-      // only the part of the change no rule allows is the editor's; the
-      // substitutions around it still go to their tables
-      const parts = hunk.parts.map((h) => [h, classify(h)]);
-      if (parts.some(([, c]) => c.unexplained.length)) {
-        for (const [h, c] of parts) {
-          if (c.unexplained.length) { r.editorWords.push({ before: text(h.before), after: text(h.after), why: span[2].why }); continue; }
-          r.counts.typography += c.typography; r.counts.spacing += c.spacing; r.counts.glyph += c.glyph;
-          r.nonWord.push(...c.nonWord); r.word.push(...c.word);
-        }
-        continue;
-      }
-    }
-    let found = [classify(hunk)];
-    if (found[0].unexplained.length && hunk.parts.length > 1) found = hunk.parts.map(classify);
-    for (const c of found) {
+    // a change the rules refuse inside an editor's "word" fix is the editor's
+    // decision; its parts are read one by one so the substitutions next to it
+    // still go to their tables
+    const inSpan = (h) => spans.find(([s, e]) => h.at >= s - 1 && h.at <= e && h.after.every((x) => x.at >= s - 1 && x.at <= e));
+    let units = [[hunk, classify(hunk)]];
+    if (units[0][1].unexplained.length && hunk.parts.length > 1) units = hunk.parts.map((h) => [h, classify(h)]);
+    for (const [h, c] of units) {
+      const span = c.unexplained.length && inSpan(h);
+      if (span) { r.editorWords.push({ before: text(h.before), after: text(h.after), why: span[2].why }); continue; }
       r.counts.typography += c.typography;
       r.counts.spacing += c.spacing;
       r.counts.glyph += c.glyph;
@@ -384,15 +398,33 @@ for (const md of batch) {
   r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w) || caps(x.w, nt[i].w)) ? proposedTitle : oldTitle;
   r.titleRefused = r.title === proposedTitle ? "" : proposedTitle;
 
+  const split = edits.split ? edited.indexOf(edits.split.at) : 0;
+  if (edits.split && (split <= 0 || edited.includes(edits.split.at, split + 1)))
+    r.unexplained.push(`the split « ${edits.split.at} » does not occur exactly once after the text's start`);
+  const parts = split > 0 ? [edited.slice(0, split).trimEnd(), edited.slice(split)] : [edited];
+  r.split = split > 0 ? `${path.dirname(md)}/${edits.split.frontmatter.sermon_id}.md` : null;
+  const bodyOf = (t) => t.slice(t.indexOf("\n---\n") + 5);
+
   const promoted = /^editorial_pass:/m.test(fm);
   // a text promoted earlier is still this pass's body, with the editor's fixes
-  if (promoted && file.slice(file.indexOf("\n---\n") + 5) !== `${edited}\n`)
+  if (promoted && (bodyOf(file) !== `${parts[0]}\n` || (r.split && bodyOf(fs.readFileSync(path.join(root, r.split), "utf8")) !== `${parts[1]}\n`)))
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
-    const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
-    fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${edited}\n`);
+    const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
+    const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`)
+      + (r.split ? `\npublished_with: ${JSON.stringify(work(r.split))}` : "") + `\neditorial_pass: "${today}"`;
+    fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${parts[0]}\n`);
     // 50 takes index.json's titles from the manifest
     manifest.find((e) => e.local_md === md).title = r.title;
+    if (r.split) {
+      const f = { source: "onedrive", ...edits.split.frontmatter, published_with: work(md) };
+      const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}` : `${k}: ${JSON.stringify(v)}`);
+      fs.writeFileSync(path.join(root, r.split), `---\n${yaml.join("\n")}\neditorial_pass: "${today}"\n---\n${parts[1]}\n`);
+      // replaced, not added, when the original is promoted again (reset to
+      // main's text so a new fix applies)
+      const i = manifest.findIndex((e) => e.local_md === r.split);
+      manifest[i < 0 ? manifest.length : i] = { ...f, local_md: r.split };
+    }
   }
   r.promoted = !r.unexplained.length || promoted;
   rows.push(r);
@@ -412,6 +444,8 @@ for (const [head, key] of [["Substitutions: a non-word corrected to a word", "no
 }
 L.push("", "## Segond readings inserted", "", "| Text | Announced as | Looked up under |", "| --- | --- | --- |");
 for (const r of rows) for (const x of r.readings) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(x.said)} | ${x.ref} |`);
+L.push("", "## Works split in two (the PDF prints a second work after the first)", "");
+for (const r of rows) if (r.split) L.push(`- \`${path.basename(r.md, ".md")}\` → \`${path.basename(r.split, ".md")}\`, from « ${cell(fixes[r.md].split.at)} »`);
 L.push("", "## Not accepted, per text", "");
 for (const r of rows) {
   if (r.unexplained.length) L.push(`- \`${r.md.slice("markdown/".length)}\``, ...r.unexplained.map((u) => `  - ${cell(u)}`));
@@ -420,10 +454,12 @@ L.push("", "## Editor's fixes (scripts/mevar-editorial-fixes.json)", "", "| Text
 for (const r of rows) for (const f of r.fixes) L.push(`| \`${path.basename(r.md, ".md")}\` | ${f.kind} | ${cell(f.find)} | ${cell(f.replace)} | ${cell(f.why)} |`);
 L.push("", "## Words the editor added or removed (fixes of kind \"word\")", "", "| Text | Before | After | Why |", "| --- | --- | --- | --- |");
 for (const r of rows) for (const w of r.editorWords) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(w.before)} | ${cell(w.after)} | ${cell(w.why)} |`);
+L.push("", "## Bold on a list's number, which markdown cannot carry", "");
+for (const r of rows) for (const b of r.listBold) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(b)}`);
 L.push("", "## Headers removed (the frontmatter holds title, date, place)", "");
 for (const r of rows) for (const h of r.removed) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
 L.push("", "## Sentences the pass left as they are (unclear)", "");
-for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}`);
+for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}${r.unclearFixed.has(u) ? " (since fixed by the editor)" : ""}`);
 L.push("", "## Titles", "", "| Text | Title | Proposed by the pass and refused (a word changed) |", "| --- | --- | --- |");
 for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.titleRefused)} |`);
 // gpt-6-sol, per million tokens: $2 in, $10 out (reasoning included)

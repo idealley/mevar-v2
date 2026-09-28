@@ -82628,8 +82628,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/serie1no3.md",
-    "size_bytes": 158763,
-    "line_count": 866
+    "size_bytes": 158780,
+    "line_count": 867
   },
   {
     "source": "cmpp",
@@ -97511,8 +97511,8 @@
     "llm_cleaned": true,
     "original": "branham/1953/53-0329",
     "local_md": "markdown/le-scribe/1953/530329Israel-son-pays.md",
-    "size_bytes": 19398,
-    "line_count": 138
+    "size_bytes": 19417,
+    "line_count": 139
   },
   {
     "source": "le-scribe",
@@ -108153,8 +108153,8 @@
     "llm_cleaned": true,
     "original": "branham/1957/57-0306",
     "local_md": "markdown/le-scribe/1957/570306Dieu-garde-A.md",
-    "size_bytes": 30118,
-    "line_count": 171
+    "size_bytes": 30138,
+    "line_count": 172
   },
   {
     "source": "le-scribe",
@@ -156123,8 +156123,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/le-droit-de-rachat.md",
-    "size_bytes": 55399,
-    "line_count": 163
+    "size_bytes": 55416,
+    "line_count": 164
   },
   {
     "source": "mevar",
@@ -167023,7 +167023,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Ce document est un témoignage bilan de la chaîne de prière après cinq mois d'existence. L'auteur encourage les membres à persévérer dans la foi et le pardon, et annonce une nouvelle organisation en cellules d'intercession pour l'année 2007.",
     "persons": [
       "Jésus-Christ",
@@ -167075,8 +167075,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/bilanchaine.md",
-    "size_bytes": 18121,
-    "line_count": 150
+    "size_bytes": 18405,
+    "line_count": 164
   },
   {
     "source": "onedrive",
@@ -167687,7 +167687,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhofev",
-    "title": "VENEZ ET PLAIDONS!",
+    "title": "Venez et plaidons !",
     "subtitle": "Exhortation de Février 2007",
     "date": "2007-02-01",
     "year": 2007,
@@ -167743,8 +167743,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhofev.md",
-    "size_bytes": 15827,
-    "line_count": 113
+    "size_bytes": 16264,
+    "line_count": 125
   },
   {
     "source": "onedrive",
@@ -168365,7 +168365,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhofin_aout",
-    "title": "Exhortation spéciale fin Août 2007",
+    "title": "Exhortation spéciale fin août 2007",
     "subtitle": "ÉVÉNEMENTS MYSTÉRIEUX DANS LE SOLEIL - APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE",
     "date": "2007-08-31",
     "year": 2007,
@@ -168422,8 +168422,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhofin_aout.md",
-    "size_bytes": 31080,
-    "line_count": 159
+    "size_bytes": 31619,
+    "line_count": 168
   },
   {
     "source": "onedrive",
@@ -170034,7 +170034,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exho_septembre_2008",
-    "title": "RELISEZ « l’EDEN DE SATAN »",
+    "title": "Relisez « L’Éden de Satan »",
     "subtitle": "Exhortation de Septembre 2008",
     "date": "2008-09-01",
     "year": 2008,
@@ -170082,8 +170082,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exho_septembre_2008.md",
-    "size_bytes": 12788,
-    "line_count": 68
+    "size_bytes": 12881,
+    "line_count": 69
   },
   {
     "source": "onedrive",
@@ -170451,7 +170451,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhobilan2008",
-    "title": "Exhortation bilan de fin d'année 2008",
+    "title": "Exhortation bilan de fin d’année 2008",
     "subtitle": "APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE - 2009 – ANNEE DE CAMPAGNE",
     "date": "2008-12-31",
     "year": 2008,
@@ -170525,8 +170525,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhobilan2008.md",
-    "size_bytes": 44544,
-    "line_count": 256
+    "size_bytes": 46327,
+    "line_count": 255
   },
   {
     "source": "onedrive",
@@ -170658,7 +170658,7 @@
   {
     "source": "onedrive",
     "sermon_id": "comkakaou",
-    "title": "Communiqué du Pasteur M'BRA Parfait relatif aux activités du faux prophète Kacou Philippe en Côte d'Ivoire",
+    "title": "Communiqué du pasteur M’BRA Parfait relatif aux activités du faux prophète Kacou Philippe en Côte d’Ivoire",
     "subtitle": null,
     "date": "2009-02-15",
     "year": 2009,
@@ -170708,8 +170708,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/comkakaou.md",
-    "size_bytes": 13041,
-    "line_count": 110
+    "size_bytes": 13373,
+    "line_count": 116
   },
   {
     "source": "onedrive",
@@ -171971,7 +171971,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhofinaout2009",
-    "title": "LE PASTEUR INVISIBLE",
+    "title": "Le pasteur invisible",
     "subtitle": "Exhortation d'Août 2009",
     "date": "2009-08-01",
     "year": 2009,
@@ -172043,8 +172043,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhofinaout2009.md",
-    "size_bytes": 40579,
-    "line_count": 235
+    "size_bytes": 41545,
+    "line_count": 232
   },
   {
     "source": "onedrive",
@@ -172245,7 +172245,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhofinnov09",
-    "title": "Tabitha, Servante du Seigneur Jésus-Christ",
+    "title": "Tabitha, servante du Seigneur Jésus-Christ",
     "subtitle": "Exhortation de Novembre 2009",
     "date": "2009-11-01",
     "year": 2009,
@@ -172304,8 +172304,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhofinnov09.md",
-    "size_bytes": 33423,
-    "line_count": 172
+    "size_bytes": 34102,
+    "line_count": 216
   },
   {
     "source": "onedrive",
@@ -172612,7 +172612,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhobilan2009",
-    "title": "Exhortation bilan de fin d'année 2009",
+    "title": "Exhortation bilan de fin d’année 2009",
     "subtitle": "Trois années de combat et d'épreuves",
     "date": "2010-01-01",
     "year": 2010,
@@ -172670,8 +172670,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhobilan2009.md",
-    "size_bytes": 57962,
-    "line_count": 234
+    "size_bytes": 60052,
+    "line_count": 278
   },
   {
     "source": "onedrive",
@@ -172891,7 +172891,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhoavril20102",
-    "title": "L'ULTIME EPREUVE",
+    "title": "L’ultime épreuve",
     "subtitle": "Exhortation d'Avril 2010",
     "date": "2010-03-28",
     "year": 2010,
@@ -172954,8 +172954,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhoavril20102.md",
-    "size_bytes": 70569,
-    "line_count": 249
+    "size_bytes": 71887,
+    "line_count": 282
   },
   {
     "source": "onedrive",
@@ -173020,7 +173020,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhoavril2010",
-    "title": "L'ECRITURE SUR LA MURAILLE DE BABYLONE",
+    "title": "L’Écriture sur la muraille de Babylone",
     "subtitle": "Exhortation Fin Avril 2010",
     "date": "2010-04-30",
     "year": 2010,
@@ -173071,8 +173071,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhoavril2010.md",
-    "size_bytes": 20344,
-    "line_count": 112
+    "size_bytes": 21009,
+    "line_count": 140
   },
   {
     "source": "onedrive",
@@ -173683,7 +173683,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhofinsept2010",
-    "title": "LE TEMOIGNAGE DE DIEU",
+    "title": "Le témoignage de Dieu",
     "subtitle": "Exhortation de Septembre 2010",
     "date": "2010-09-01",
     "year": 2010,
@@ -173738,8 +173738,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhofinsept2010.md",
-    "size_bytes": 33882,
-    "line_count": 160
+    "size_bytes": 34352,
+    "line_count": 193
   },
   {
     "source": "onedrive",
@@ -173872,8 +173872,44 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhofinoct2010.md",
-    "size_bytes": 71321,
-    "line_count": 353
+    "size_bytes": 54977,
+    "line_count": 297
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "exhofinoct2010-les-deux-vins",
+    "title": "Les deux vins : le vin religieux et le vin de l’Esprit",
+    "subtitle": "Exhortation d’octobre 2010, présentée par le frère M’bra",
+    "date": "2010-10-01",
+    "year": 2010,
+    "location": null,
+    "preacher": "Irié Anderson",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": null,
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": [
+      "Exhortations",
+      "2010",
+      "Réveil",
+      "Sobriété"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "Présentée par le frère M'bra, cette exhortation oppose le vin religieux, qui enivre les croyants comme Noé et Lot et que Babylone verse aux nations, au vin nouveau de l'Esprit, que le Seigneur donne à ceux qui se gardent sobres comme Daniel et les Récabites ; elle annonce le réveil de l'Afrique.",
+    "persons": null,
+    "places": null,
+    "themes": null,
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": false,
+    "original": null,
+    "local_md": "markdown/onedrive/pdf/exhofinoct2010-les-deux-vins.md",
+    "size_bytes": 18443,
+    "line_count": 112
   },
   {
     "source": "onedrive",
@@ -174509,7 +174545,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exho_spec_fev2011",
-    "title": "Priscille et Aquilas – Exemple d’un couple au service de Dieu",
+    "title": "Priscille et Aquilas – exemple d’un couple au service de Dieu",
     "subtitle": "Exhortation Spécial de Février 2011",
     "date": "2011-02-01",
     "year": 2011,
@@ -174575,8 +174611,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exho_spec_fev2011.md",
-    "size_bytes": 28164,
-    "line_count": 144
+    "size_bytes": 28424,
+    "line_count": 182
   },
   {
     "source": "onedrive",
@@ -174727,7 +174763,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhoavril2011",
-    "title": "LA BONNE PART QUI NE NOUS SERA JAMAIS OTEE",
+    "title": "La bonne part qui ne nous sera jamais ôtée",
     "subtitle": "Exhortation de Avril 2011",
     "date": "2011-04-01",
     "year": 2011,
@@ -174784,8 +174820,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhoavril2011.md",
-    "size_bytes": 38581,
-    "line_count": 183
+    "size_bytes": 39201,
+    "line_count": 226
   },
   {
     "source": "onedrive",
@@ -175127,8 +175163,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/changez_de_souliers_et_de_vetements.md",
-    "size_bytes": 35207,
-    "line_count": 197
+    "size_bytes": 35867,
+    "line_count": 194
   },
   {
     "source": "onedrive",
@@ -175331,7 +175367,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhofinaout11",
-    "title": "LA PARABOLE DES CONVIES",
+    "title": "La parabole des conviés",
     "subtitle": "Exhortation Fin Août 2011",
     "date": "2011-08-01",
     "year": 2011,
@@ -175386,8 +175422,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhofinaout11.md",
-    "size_bytes": 65264,
-    "line_count": 408
+    "size_bytes": 66190,
+    "line_count": 361
   },
   {
     "source": "onedrive",
@@ -175638,7 +175674,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhofinoct",
-    "title": "VAINQUEURS DANS LE MAUVAIS JOUR",
+    "title": "Vainqueurs dans le mauvais jour",
     "subtitle": "Exhortation d'Octobre 2011",
     "date": "2011-10-01",
     "year": 2011,
@@ -175696,8 +175732,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhofinoct.md",
-    "size_bytes": 28539,
-    "line_count": 134
+    "size_bytes": 29413,
+    "line_count": 177
   },
   {
     "source": "onedrive",
@@ -179025,8 +179061,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/le_droit_de_rachat.md",
-    "size_bytes": 54648,
-    "line_count": 202
+    "size_bytes": 54665,
+    "line_count": 203
   },
   {
     "source": "onedrive",
@@ -184189,7 +184225,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exho-mai_2019",
-    "title": "MEDITONS LA PROPHETIE DE JOEL",
+    "title": "Méditons la prophétie de Joël",
     "subtitle": "Exhortation de Mai 2019",
     "date": "2019-05-01",
     "year": 2019,
@@ -184249,8 +184285,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exho-mai_2019.md",
-    "size_bytes": 34793,
-    "line_count": 158
+    "size_bytes": 35369,
+    "line_count": 213
   },
   {
     "source": "onedrive",
@@ -184459,8 +184495,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/adorateursatan.md",
-    "size_bytes": 72084,
-    "line_count": 173
+    "size_bytes": 80532,
+    "line_count": 249
   },
   {
     "source": "onedrive",
@@ -186192,8 +186228,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/La_part_du_Huitieme.md",
-    "size_bytes": 157843,
-    "line_count": 824
+    "size_bytes": 157886,
+    "line_count": 826
   },
   {
     "source": "onedrive",
@@ -186825,8 +186861,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/nehemie_patriote.md",
-    "size_bytes": 210245,
-    "line_count": 1063
+    "size_bytes": 210285,
+    "line_count": 1065
   },
   {
     "source": "onedrive",
