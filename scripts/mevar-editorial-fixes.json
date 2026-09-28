@@ -3253,7 +3253,25 @@
         "kind": "typo",
         "why": "accent on capital (batch 01 lesson), spacing kept"
       }
-    ]
+    ],
+    "split": {
+      "at": "Mes chers amis,\n\nJ’ai demandé à un de mes collaborateurs",
+      "frontmatter": {
+        "sermon_id": "exhofinoct2010-les-deux-vins",
+        "title": "Les deux vins : le vin religieux et le vin de l’Esprit",
+        "subtitle": "Exhortation d’octobre 2010, présentée par le frère M’bra",
+        "date": "2010-10-01",
+        "year": 2010,
+        "preacher": "Irié Anderson",
+        "summary": "Présentée par le frère M'bra, cette exhortation oppose le vin religieux, qui enivre les croyants comme Noé et Lot et que Babylone verse aux nations, au vin nouveau de l'Esprit, que le Seigneur donne à ceux qui se gardent sobres comme Daniel et les Récabites ; elle annonce le réveil de l'Afrique.",
+        "tags": [
+          "Exhortations",
+          "2010",
+          "Réveil",
+          "Sobriété"
+        ]
+      }
+    }
   },
   "markdown/onedrive/pdf/exhofinsept2010.md": {
     "title": null,
