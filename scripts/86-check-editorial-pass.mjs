@@ -84,13 +84,14 @@ function words(text) {
 }
 
 // The pass's words as the site renders its markdown (mdast, the parser Astro
-// uses): bold is what renders bold, a quote is inside a blockquote. Headings
-// and HTML, which a sermon has none of, go to `found`.
+// uses): bold is what renders bold, a quote is inside a blockquote. Headings,
+// HTML and images, which a sermon has none of, go to `found`.
 function rendered(md, found) {
   const out = [];
+  const kinds = { heading: "a heading", html: "HTML", image: "an image", imageReference: "an image" };
   (function walk(node, bold, quote) {
-    if (node.type === "heading" || node.type === "html")
-      found.push(`${node.type === "html" ? "HTML" : "a heading"}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
+    if (kinds[node.type])
+      found.push(`${kinds[node.type]}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
     // text, and code (a line indented four spaces), whose words are words too
     if (["text", "code", "inlineCode"].includes(node.type))
       for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote });
