@@ -47,9 +47,13 @@ bodies; and where a text has none, one is added.
 4. **Tests** for the function, in the root `npm test`.
 5. **Follow-up (Samuel, after PR #22): a reference takes no space.**
    Word puts one before « : » (« Philippiens 2 :3-8 »), and PR #22 made it
-   the narrow one. Between two numbers, « : » now takes no space on
-   either side: « 2:3-8 », « 24:28 ». Measured in the French bodies: 1,715
-   with a space before, 269 with one on both sides.
+   the narrow one. In a Bible reference as 65 reads it (`citations()`, the
+   same the Bible links use), « : » now takes no space on either side:
+   « 2:3-8 », « 24:28 », « Hébreux 5:5-10 ». Not between any two numbers:
+   « juin 1933 : 1) » and « verset 24 : 24 Car » are not references. A
+   spelling 65 does not read (« Mathieu », « Ephésiens », « Hébr », « Pier »,
+   about 180 in `dist`) keeps its narrow space, and is not linked either:
+   a follow-up for 65.
 
 ## Scope out
 
