@@ -17,8 +17,9 @@
 //     digits in groups of three (50000 → 50 000);
 //   - printed furniture removed, counted: a number of 1 to 3 digits alone on
 //     its line that continues the pages' rising count (page number), the browser's print header and footer
-//     ("…/exo_nov07.html  1/4", "13/03/2010  MEVAR"), the old site's "Haut de
-//     page Retour Page d'accueil" bar, and a digit between two letters where
+//     ("…/exo_nov07.html  1/4", "13/03/2010  MEVAR", or a mevar.org address
+//     and its "1/4" on lines of their own), the old site's "Haut de
+//     page Retour Page d'accueil" bar or its "Haut de page" alone, and a digit between two letters where
 //     that digit does so five times or more (a glyph for "…");
 //   - the document's header removed, listed: the original's words before
 //     those the body opens with, within the first 80, holding the title;
@@ -246,9 +247,9 @@ for (const md of batch) {
   r.words = words(original).length;
 
   // Printed page furniture the pass removes, first: the old site's navigation
-  // bar, the browser's print header and footer ("http://mevar.org/….html
-  // 1/4", "13/03/2010  MEVAR", or its date and "MEVAR" on lines of their
-  // own), a digit between two letters where the same
+  // bar or its "Haut de page" alone, the browser's print header and footer
+  // ("http://mevar.org/….html 1/4", "13/03/2010  MEVAR", or its address, its
+  // "1/4", its date and "MEVAR" on lines of their own), a digit between two letters where the same
   // digit does that five times or more (a glyph that stood for "…":
   // "serviteur4ils"), and a number of one to three digits alone on its line
   // that is 1 or 2 above the last one (a page number; a page may have none).
@@ -393,12 +394,10 @@ for (const md of batch) {
   if (promoted && file.slice(file.indexOf("\n---\n") + 5) !== `${edited}\n`)
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
   if (!r.unexplained.length && !promoted) {
-    let newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`);
-    newFm += `\neditorial_pass: "${today}"`;
+    const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`) + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${edited}\n`);
     // 50 takes index.json's titles from the manifest
-    const entry = manifest.find((e) => e.local_md === md);
-    entry.title = r.title;
+    manifest.find((e) => e.local_md === md).title = r.title;
   }
   r.promoted = !r.unexplained.length || promoted;
   rows.push(r);
