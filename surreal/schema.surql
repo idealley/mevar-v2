@@ -35,6 +35,11 @@ DEFINE FIELD OVERWRITE text ON bible_ref TYPE option<object> FLEXIBLE;       -- 
 DEFINE INDEX OVERWRITE bible_ref_canonical ON bible_ref FIELDS canonical UNIQUE;
 DEFINE INDEX OVERWRITE bible_ref_book_chapter ON bible_ref FIELDS book, chapter;
 
+-- One Louis Segond verse per record, id bible_verse:[canon_order, chapter, verse].
+-- The editorial pass (goal 10) quotes a reading verse by verse from here.
+DEFINE TABLE OVERWRITE bible_verse SCHEMAFULL;
+DEFINE FIELD OVERWRITE lsg ON bible_verse TYPE string;
+
 -- ──────────────────────────────────────────────────────────────────────────────
 -- Entities
 -- ──────────────────────────────────────────────────────────────────────────────
