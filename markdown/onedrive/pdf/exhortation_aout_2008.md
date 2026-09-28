@@ -47,7 +47,7 @@ editorial_pass: "2026-09-28"
 ---
 **Exhortation d’Août 2008**
 
-**PRENEZ GARDE A VOUS MEME**
+**PRENEZ GARDE À VOUS MÊME**
 
 Je vous salue tous, mes bien-aimés frères et sœurs et visiteurs de notre site, à tous pour ce mois d’août, par ces Paroles de notre Seigneur Jésus-Christ à Ses disciples que nous sommes :
 

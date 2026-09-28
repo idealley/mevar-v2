@@ -90,7 +90,7 @@ Cette fois-ci, nous aurons une longue liste de sujets de prière pour lesquels n
 
 **LA GUERRE DE LIBÉRATION**
 
-**Prêché à Koumassi le dimanche 22 Avril 2007**
+**Prêché à Koumassi le dimanche 22 avril 2007**
 
 Que Dieu soit béni ! Nous lisons dans 2 Thessaloniciens 2 à partir du premier verset.
 

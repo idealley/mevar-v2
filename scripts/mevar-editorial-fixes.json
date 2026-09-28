@@ -3711,7 +3711,7 @@
     "fixes": [
       {
         "find": "**Fr M’BRA Parfait**\n\nQue Dieu soit béni ! Nous lisons dans 2",
-        "replace": "**Fr M’BRA Parfait**\n\n**LA GUERRE DE LIBÉRATION**\n\n**Prêché à Koumassi le dimanche 22 Avril 2007**\n\nQue Dieu soit béni ! Nous lisons dans 2",
+        "replace": "**Fr M’BRA Parfait**\n\n**LA GUERRE DE LIBÉRATION**\n\n**Prêché à Koumassi le dimanche 22 avril 2007**\n\nQue Dieu soit béni ! Nous lisons dans 2",
         "kind": "restore",
         "why": "restore the mid-text header of the preached sermon (after the letter’s signature) as the two bold lines of the original"
       },
@@ -3959,7 +3959,7 @@
     "fixes": [
       {
         "find": "**Fr M’BRA Parfait**\n\nAmen ! Moi je n’aime pas",
-        "replace": "**Fr M’BRA Parfait**\n\n**Le manteau de l’humilité**\n\n**Prêché le Mercredi 30 Septembre 2009**\n\n**à Kinshasa par le frère M’BRA Parfait**\n\nAmen ! Moi je n’aime pas",
+        "replace": "**Fr M’BRA Parfait**\n\n**Le manteau de l’humilité**\n\n**Prêché le mercredi 30 septembre 2009**\n\n**à Kinshasa par le frère M’BRA Parfait**\n\nAmen ! Moi je n’aime pas",
         "kind": "restore",
         "why": "restore the header of the preached sermon (mid-text, after the exhortation’s signature) as the three bold lines of the original"
       },
@@ -4129,7 +4129,7 @@
     "fixes": [
       {
         "find": "Je vous salue tous, mes bien-aimés frères et sœurs et visiteurs",
-        "replace": "**Exhortation d’Août 2008**\n\n**PRENEZ GARDE A VOUS MEME**\n\nJe vous salue tous, mes bien-aimés frères et sœurs et visiteurs",
+        "replace": "**Exhortation d’Août 2008**\n\n**PRENEZ GARDE À VOUS MÊME**\n\nJe vous salue tous, mes bien-aimés frères et sœurs et visiteurs",
         "kind": "restore",
         "why": "header removed by the pass but refused by the checker; put back as in the PDF, bold"
       },

@@ -74,7 +74,7 @@ Soyons des modèles en parole et en conduite. **Autrement dit, ce n’est pas de
 
 **Le manteau de l’humilité**
 
-**Prêché le Mercredi 30 Septembre 2009**
+**Prêché le mercredi 30 septembre 2009**
 
 **à Kinshasa par le frère M’BRA Parfait**
 
