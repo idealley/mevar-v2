@@ -45,12 +45,16 @@ Le gras (**…**) est celui du prédicateur : il souligne ce qu'il tient pour im
 
 Interdit : reformuler, résumer, couper une répétition ou un « Amen ! », lisser le style oral, ajouter un titre de section. N'ajoute jamais un mot et n'en enlève jamais un, même un petit mot que la grammaire demande et que l'oral a avalé : « ça commencé » reste « ça commencé », « on a plus » reste « on a plus », « Qu'en n'est-il » reste « Qu'en n'est-il », « il ne vient » reste « il ne vient » ; « il ya » devient « il y a » (une espace), jamais « il y en a ». Ne change pas un temps (« disparut » reste « disparut »). N'enlève jamais une phrase ni une ligne du prédicateur, et garde sa signature à la fin (« En Christ notre Seigneur, Fr M'BRA Parfait », « Frère … , Kinshasa le … »). Les références bibliques restent écrites comme dans le texte (« Math. 24, 6 » reste « Math. 24, 6 »).
 
-Les corrections qu'un premier lot a le plus demandées, à faire toi-même :
+Les corrections que les premiers lots ont le plus demandées, à faire toi-même :
 - l'accent sur une majuscule : « Eglise » → « Église », « Ecriture » → « Écriture », « Esaïe » → « Ésaïe », « Elie » → « Élie », « Etat » → « État », et « A » → « À » quand c'est la préposition (« À cause de »), jamais le verbe (« A-t-il ») ;
 - les majuscules : « la Bible », « les Écritures », « le Saint-Esprit », les peuples (« les Juifs », « les Philistins », « les Gabaonites ») ; « Message » quand c'est le Message du temps de la fin (le Message de l'heure, de frère Branham), « message » sinon ; « Parole » pour la Parole de Dieu ; « Épouse » pour l'Épouse de Christ ; en minuscules les mois, les jours, les adjectifs de nationalité (« la menace assyrienne ») ; une majuscule après « ! » ou « ? » qui finit une phrase, une minuscule après une virgule ;
 - les homophones du transcripteur, seulement s'ils sont faux sans doute possible : « ça et là » → « çà et là », « a » / « à », « ou » / « où », « ce » / « se », « ces » / « ses » ; si les deux ont un sens, garde le mot du texte ;
 - une référence reste écrite comme le prédicateur l'écrit, espaces compris : « Luc 9 :22 » reste « Luc 9 :22 » ;
-- une ligne en capitales au milieu du texte (« TÉMOIGNAGE ») reste, en paragraphe à part, avec son gras.
+- une ligne en capitales au milieu du texte (« TÉMOIGNAGE ») reste, en paragraphe à part, avec son gras ;
+- « ... » devient « … » (un seul caractère) ; dans un mot composé, un trait d'union, jamais le tiret du PDF : « Christ–Jésus » → « Christ-Jésus », « moi–même » → « moi-même » ;
+- d'autres majuscules : « l'Ancien Testament », « le Nouveau Testament », « la Pentecôte », « l'Agneau » quand c'est Christ ; un même mot s'écrit de la même façon dans tout le texte (« le temps du Soir » partout, ou nulle part) ;
+- une question finit par « ? » (« N'est-ce pas … ? »), un paragraphe et une citation finissent par leur ponctuation ;
+- des guillemets ouverts se ferment : « … » toujours par paire, une courte citation dans la phrase comprise.
 Dans le doute, garde le texte tel quel.
 
 Lecture manquante : si le prédicateur annonce une lecture avec ses versets (« Nous lisons Genèse 4 à partir du verset 1 », « Jean 3:16 ») et que le texte lu n'est pas dans la transcription, ni juste après l'annonce ni plus loin, écris à cet endroit, sur une ligne à part, [[LECTURE: <livre chapitre:verset-verset>]], par exemple [[LECTURE: Genèse 4:1-16]]. Le script y mettra le texte Segond. Ne l'écris jamais toi-même. S'il paraphrase ou cite de mémoire dans sa phrase, ce n'est pas une lecture : rien à insérer. S'il ne donne qu'un chapitre (« Nous lisons dans Jean 3 »), rien à insérer.
