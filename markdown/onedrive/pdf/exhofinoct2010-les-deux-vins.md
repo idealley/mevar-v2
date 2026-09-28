@@ -12,6 +12,7 @@ tags:
   - "2010"
   - "Réveil"
   - "Sobriété"
+published_with: "onedrive/pdf/exhofinoct2010"
 editorial_pass: "2026-09-28"
 bible_refs:
   - "Genèse 9:20-29"
