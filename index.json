@@ -167816,7 +167816,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhormars",
-    "title": "Le Message de la Sanctification",
+    "title": "Le Message de la sanctification",
     "subtitle": "Exhortation de Mars 2007",
     "date": "2007-03-01",
     "year": 2007,
@@ -167869,8 +167869,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhormars.md",
-    "size_bytes": 32397,
-    "line_count": 154
+    "size_bytes": 33028,
+    "line_count": 182
   },
   {
     "source": "onedrive",
@@ -168065,7 +168065,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhomai2007",
-    "title": "LA GUERRE DE LIBERATION",
+    "title": "La guerre de libération",
     "subtitle": "Exhortation de Mai 2007",
     "date": "2007-05-01",
     "year": 2007,
@@ -168121,13 +168121,13 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhomai2007.md",
-    "size_bytes": 53229,
-    "line_count": 218
+    "size_bytes": 54552,
+    "line_count": 238
   },
   {
     "source": "onedrive",
     "sermon_id": "exhojuin2007",
-    "title": "Appel à la guerre – Appel au combat contre Babylone",
+    "title": "Appel à la guerre – appel au combat contre Babylone",
     "subtitle": "Exhortation spéciale de Juin 2007",
     "date": "2007-06-01",
     "year": 2007,
@@ -168182,8 +168182,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhojuin2007.md",
-    "size_bytes": 64739,
-    "line_count": 189
+    "size_bytes": 65936,
+    "line_count": 196
   },
   {
     "source": "onedrive",
@@ -169836,7 +169836,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortation_de_mai_2008",
-    "title": "Sauve-toi pour ta vie !",
+    "title": "Sauve-toi pour ta vie !",
     "subtitle": "Exhortation de Mai 2008",
     "date": "2008-05-01",
     "year": 2008,
@@ -169894,8 +169894,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhortation_de_mai_2008.md",
-    "size_bytes": 36438,
-    "line_count": 167
+    "size_bytes": 37234,
+    "line_count": 244
   },
   {
     "source": "onedrive",
@@ -170028,8 +170028,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhortation_aout_2008.md",
-    "size_bytes": 14607,
-    "line_count": 109
+    "size_bytes": 15037,
+    "line_count": 108
   },
   {
     "source": "onedrive",
@@ -170833,7 +170833,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortationdefinMars2009",
-    "title": "JE TRAITE DUREMENT MON CORPS",
+    "title": "Je traite durement mon corps",
     "subtitle": "Exhortation de Mars 2009",
     "date": "2009-03-01",
     "year": 2009,
@@ -170875,8 +170875,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhortationdefinMars2009.md",
-    "size_bytes": 6811,
-    "line_count": 56
+    "size_bytes": 6856,
+    "line_count": 57
   },
   {
     "source": "onedrive",
@@ -171062,7 +171062,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortationavril2009",
-    "title": "PROGRESSEZ ENCORE !",
+    "title": "Progressez encore !",
     "subtitle": "Exhortation d'Avril 2009",
     "date": "2009-04-01",
     "year": 2009,
@@ -171109,8 +171109,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhortationavril2009.md",
-    "size_bytes": 19281,
-    "line_count": 102
+    "size_bytes": 19483,
+    "line_count": 108
   },
   {
     "source": "onedrive",
@@ -171367,7 +171367,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhomimai",
-    "title": "QUE TON CAMP SOIT SAINT",
+    "title": "Que ton camp soit saint",
     "subtitle": "Exhortation de Mi-Mai 2009",
     "date": "2009-05-15",
     "year": 2009,
@@ -171416,8 +171416,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhomimai.md",
-    "size_bytes": 19236,
-    "line_count": 127
+    "size_bytes": 19877,
+    "line_count": 117
   },
   {
     "source": "onedrive",
@@ -171473,7 +171473,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhojuin2009",
-    "title": "Travaillez ! Travaillez encore !",
+    "title": "Travaillez ! Travaillez encore !",
     "subtitle": "Exhortation de Juin 2009",
     "date": "2009-06-01",
     "year": 2009,
@@ -171536,13 +171536,13 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhojuin2009.md",
-    "size_bytes": 28701,
-    "line_count": 194
+    "size_bytes": 29149,
+    "line_count": 193
   },
   {
     "source": "onedrive",
     "sermon_id": "exhospecialjuin2009",
-    "title": "LA DESOLATION D'ELIE",
+    "title": "La désolation d’Élie",
     "subtitle": "Exhortation de Juin 2009",
     "date": "2009-06-01",
     "year": 2009,
@@ -171606,8 +171606,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhospecialjuin2009.md",
-    "size_bytes": 23786,
-    "line_count": 133
+    "size_bytes": 24859,
+    "line_count": 146
   },
   {
     "source": "onedrive",
@@ -172180,7 +172180,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhominov09",
-    "title": "Le manteau de l'humilité",
+    "title": "Le manteau de l’humilité",
     "subtitle": "Exhortation Mi-Novembre 2009",
     "date": "2009-09-30",
     "year": 2009,
@@ -172239,8 +172239,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhominov09.md",
-    "size_bytes": 53418,
-    "line_count": 210
+    "size_bytes": 56151,
+    "line_count": 230
   },
   {
     "source": "onedrive",
@@ -173077,7 +173077,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhomai2010",
-    "title": "LA VISION DU MACEDONIEN",
+    "title": "La vision du Macédonien",
     "subtitle": "Exhortation de Mai 2010",
     "date": "2010-05-01",
     "year": 2010,
@@ -173140,8 +173140,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhomai2010.md",
-    "size_bytes": 42382,
-    "line_count": 213
+    "size_bytes": 43106,
+    "line_count": 293
   },
   {
     "source": "onedrive",
@@ -173411,7 +173411,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhojuil2010",
-    "title": "JESUS-CHRIST EST MA GUERISON",
+    "title": "Jésus-Christ est ma guérison",
     "subtitle": "Exhortation spéciale de Juillet 2010",
     "date": "2010-07-01",
     "year": 2010,
@@ -173470,13 +173470,13 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhojuil2010.md",
-    "size_bytes": 71176,
-    "line_count": 337
+    "size_bytes": 72244,
+    "line_count": 372
   },
   {
     "source": "onedrive",
     "sermon_id": "exhojuil20102",
-    "title": "L'UNITE DE LA FOI ET DE L'ESPRIT DANS LE CORPS DE CHRIST",
+    "title": "L’unité de la foi et de l’esprit dans le Corps de Christ",
     "subtitle": "Exhortation de Juillet 2010",
     "date": "2010-07-01",
     "year": 2010,
@@ -173555,8 +173555,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhojuil20102.md",
-    "size_bytes": 41615,
-    "line_count": 240
+    "size_bytes": 42170,
+    "line_count": 291
   },
   {
     "source": "onedrive",
@@ -174168,7 +174168,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhonov2010",
-    "title": "LE JUGE INIQUE - LA PARTIE ADVERSE",
+    "title": "Le juge inique – la partie adverse",
     "subtitle": "Exhortation de Novembre 2010",
     "date": "2010-11-01",
     "year": 2010,
@@ -174215,8 +174215,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhonov2010.md",
-    "size_bytes": 22913,
-    "line_count": 172
+    "size_bytes": 23018,
+    "line_count": 143
   },
   {
     "source": "onedrive",
@@ -174826,7 +174826,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhomimars2011",
-    "title": "L’EUROPE ET LES ETATS-UNIS DANS L’ACTUALITE MONDIALE PROPHETIQUE",
+    "title": "L’Europe et les États-Unis dans l’actualité mondiale prophétique",
     "subtitle": "Exhortation d’Avril 2011",
     "date": "2011-04-01",
     "year": 2011,
@@ -174888,8 +174888,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhomimars2011.md",
-    "size_bytes": 70816,
-    "line_count": 314
+    "size_bytes": 72278,
+    "line_count": 384
   },
   {
     "source": "onedrive",
@@ -177355,7 +177355,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortation_janvier_2013",
-    "title": "Exhortation Janvier 2013",
+    "title": "Exhortation janvier 2013",
     "subtitle": "2013 - ANNEE DE MISSION",
     "date": "2013-01-01",
     "year": 2013,
@@ -177421,8 +177421,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhortation_janvier_2013.md",
-    "size_bytes": 33007,
-    "line_count": 179
+    "size_bytes": 33357,
+    "line_count": 186
   },
   {
     "source": "onedrive",
@@ -177761,7 +177761,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortation_de_Mai_2013",
-    "title": "LA NEGLIGENCE DE MOÏSE",
+    "title": "La négligence de Moïse",
     "subtitle": "Exhortation de Mai 2013",
     "date": "2013-05-01",
     "year": 2013,
@@ -177813,8 +177813,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhortation_de_Mai_2013.md",
-    "size_bytes": 25726,
-    "line_count": 124
+    "size_bytes": 26150,
+    "line_count": 141
   },
   {
     "source": "onedrive",
@@ -178534,7 +178534,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortation_ de_ decembre_2013",
-    "title": "DIEU EST AMOUR – NOUS SOMMES AMOUR",
+    "title": "Dieu est amour – nous sommes amour",
     "subtitle": "Exhortation de Novembre 2013",
     "date": "2013-11-01",
     "year": 2013,
@@ -178587,8 +178587,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhortation_ de_ decembre_2013.md",
-    "size_bytes": 19782,
-    "line_count": 147
+    "size_bytes": 20116,
+    "line_count": 148
   },
   {
     "source": "onedrive",
@@ -181099,7 +181099,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortation_juin_2015",
-    "title": "METTEZ-MOI DE LA SORTE A L'EPREUVE...",
+    "title": "Mettez-moi de la sorte à l’épreuve…",
     "subtitle": "Exhortation de Juin 2015",
     "date": "2015-06-01",
     "year": 2015,
@@ -181160,8 +181160,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhortation_juin_2015.md",
-    "size_bytes": 41817,
-    "line_count": 218
+    "size_bytes": 43438,
+    "line_count": 230
   },
   {
     "source": "onedrive",
