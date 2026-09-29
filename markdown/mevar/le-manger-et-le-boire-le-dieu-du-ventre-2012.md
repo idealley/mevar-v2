@@ -2,7 +2,7 @@
 source: "onedrive"
 source_path: "onedrive/pdf/exo_juillet2012.md"
 sermon_id: "exo_juillet2012"
-title: "Le manger et le boire – Le dieu du ventre"
+title: "Le manger et le boire – le dieu du ventre"
 subtitle: "Exhortation de Juillet 2012"
 date: "2012-07-01"
 year: 2012

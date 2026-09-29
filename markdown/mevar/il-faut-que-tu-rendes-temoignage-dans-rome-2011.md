@@ -87,7 +87,7 @@ Pareillement aujourd’hui, vous devez savoir mes chers frères et sœurs, **qu�
 
 **Après que le Cri de Minuit ait retenti dans notre milieu pour nous préparer, notre voix doit être entendue dans le monde**. De même que Paul fut appelé à rendre témoignage de son appel, nous devons rendre témoignage de notre appel, l’appel de l’Épouse, l’appel au combat contre les puissances religieuses et démoniaques, l’appel à la repentance et à la conversion de la fin des temps, puisque le retour du Seigneur notre Dieu est proche.
 
-## Paul - citoyen romain
+## Paul – citoyen romain
 
 > Lorsqu’on l’eut exposé au fouet, Paul dit au centenier qui était présent : Vous est-il permis de battre de verges **un citoyen romain**, qui n’est pas même condamné ? **26** À ces mots, le centenier alla l’annoncer au tribun disant : Que vas-tu faire ? Cet homme est Romain. **27** Le tribun vint donc et lui dit : Dis-moi, es-tu Romain ? **Oui, répondit-il**. **28** Le tribun reprit : Moi, c’est avec beaucoup d’argent que j’ai acquis ce droit de citoyen. Et moi, dit Paul, je l’ai de naissance. (Actes 22:28)
 
@@ -143,7 +143,7 @@ Comme nous le voyons, la marche du premier navire qu’empruntèrent Paul et ses
 
 Ceux qui avaient la vision du témoignage à Rome savaient que Lycie n’était pas Rome. Ceux-là embarquèrent sur l’Adriatique. **À partir de l’Adriatique, des difficultés commencèrent à apparaître dans le voyage**. Les difficultés qui commencèrent dans la suite du voyage ne voulaient pas dire que Paul et ses compagnons avaient emprunté une mauvaise direction. L’Adriatique allait dans la direction de Rome, mais rencontrait de nouvelles difficultés. **L’Adriatique est le symbole de la FOI ÉPROUVÉE, le symbole de la vision éprouvée**. C’était la deuxième étape de cette œuvre de réveil.
 
-### L’Adriatique - le navire d’Alexandrie
+### L’Adriatique – le navire d’Alexandrie
 
 > **7** **Pendant plusieurs jours nous naviguâmes lentement, et ce ne fut pas sans difficulté que nous atteignîmes la hauteur de Cnide**, où le vent ne nous permit pas d’aborder. Nous passâmes au-dessous de l’île de Crète, du côté de Salmone. **8** Nous la côtoyâmes avec peine, et nous arrivâmes à un lieu nommé Beaux Ports, près duquel était la ville de Lasée.
 
@@ -245,7 +245,7 @@ Remarquez qu’après s’être réchauffé, Paul reprit du service. Dieu se man
 
 Nous savons que le réveil de guérison se produira dans notre cheminement, comme nous en voyons ici l’image avec Paul sur l’île de la consolation. Ce qui est frappant ici est que la manifestation de l’onction divine donne des honneurs et du respect. Ce Paul qu’on n’avait pas écouté dans le navire reçut de grands honneurs sur l’île de Malte, de la part de ceux qui avaient été guéris. Même dans les endroits les plus perdus, l’onction divine fait du bien.
 
-## Le navire les Dioscures - arrivée à Rome
+## Le navire les Dioscures – arrivée à Rome
 
 > **11** Après un séjour de trois mois, nous nous embarquâmes sur un navire d’Alexandrie, qui avait passé l’hiver dans l’île, et qui portait pour enseigne les Dioscures. **12** Ayant abordé à Syracuse, nous y restâmes trois jours. **13** De là, en suivant la côte, nous atteignîmes Reggio ; et, **le vent du sud s’étant levé le lendemain**, nous fîmes en deux jours le trajet jusqu’à Pouzzoles, **14** où nous trouvâmes des frères qui nous prièrent de passer sept jours avec eux. Et c’est ainsi que nous allâmes à Rome.
 

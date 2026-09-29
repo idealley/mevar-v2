@@ -56,7 +56,7 @@ bible_refs:
   - "Colossiens 1:16"
 editorial_pass: "2026-09-29"
 ---
-## Exhortation du frère Richard Schwery de la Suisse
+**Exhortation du frère Richard SCHWERY de la Suisse**
 
 Cette Parole d’Ézéchiel 18:31 est un ordre simple, mais combien profond. Il est bon, en ces temps de la fin, que chaque chrétien y prenne garde. Lors de notre nuit de prière du 16 octobre, le Seigneur avait donné à une sœur le thème de la repentance (Joël 2 :17-27). Pour la prédication, le Seigneur a donné Lévitique 19 : 9-37 ; Matthieu 25 :33-46, Luc 3 :11 et Luc 10 :25-37. Ces choses-là ont touché notre cœur très profondément et cela nous a conduits à la repentance dans le jeûne et la prière.
 
