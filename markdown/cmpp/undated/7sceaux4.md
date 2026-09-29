@@ -68,7 +68,7 @@ PAR
 
 WILLIAM MARRION BRANHAM
 
-DEUXIÈME SCEAU
+## Deuxième sceau
 
 http://www.cmpp.ch
 

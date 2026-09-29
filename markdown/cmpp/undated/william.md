@@ -71,7 +71,7 @@ UN PROPHETE ENVOYE PAR DIEU
 
 EWALD FRANK
 
-INTRODUCTION
+## Introduction
 
 Au cours de mes voyages pour la publication de la Parole de Dieu, il m’a souvent été demandé de faire paraître quelque chose sur William M. Branham. Je l’ai connu personnellement pendant exactement 10 ans (1955–1965) et j’ai été avec lui aussi bien en Europe qu’aux Etats-Unis. Nous avons mangé à la même table et avons voyagé dans la même voiture. Je l’ai vu vivre en tant qu’homme et en tant que serviteur de Dieu. Il m’a été accordé le privilège d’être un témoin oculaire et auriculaire du ministère exceptionnel que Dieu lui avait donné. Ainsi je puis parler et écrire à son sujet avec une connaissance personnelle et approfondie. Je suis également en possession de plus de trois cents de ses prédications, et j’ai pu de cette manière me faire une opinion générale de sa manière de prêcher la Parole de Dieu, de son apostolat hors du commun et du Message que Dieu lui a accordé de porter.
 
@@ -91,7 +91,7 @@ William Branham n’est pas venu avec de nouvelles révélations; son ministère
 
 Il est vrai qu’en apportant une prédication absolument biblique il se mettait en contradiction avec les interprétations traditionnelles ayant cours dans les églises officielles ou libres. Cependant, l’accord impressionnant qu’il y avait entre les Saintes Ecritures, ses doctrines et ce qu’il pratiquait, oblige tout homme sincère, qu’il soit d’un clergé ou qu’il soit simple laïque, à éprouver l’enseignement et la pratique qui lui sont propres. A tout chercheur sincère de la Vérité il ne reste alors plus qu’à se soumettre au seul témoignage valable devant Dieu, celui des Ecritures. C’est sur la base de ce fondement inébranlable, le fondement sur lequel l’Eglise primitive a été bâtie, que le jugement doit être entrepris.
 
-CONFIRMATION SURNATURELLE
+## Confirmation surnaturelle
 
 De tous temps les hommes envoyés par Dieu ont été légitimés sur terre par un témoignage venu du ciel. Lors du christianisme primitif la poursuite du ministère commencé par Jésus, le Christ du Dieu Vivant, se fit après la résurrection du Rédempteur au travers des rachetés. Après l’effusion du Saint-Esprit le jour de Pentecôte, la prédication apostolique fut accompagnée de la coopération du Seigneur, qui de cette manière confirmait la prédication. C’est l’Eglise primitive qui en toutes circonstances est l’exemple valable pour toute la durée du temps de la grâce. “Le Seigneur donc, après leur avoir parlé, fut élevé en haut dans le ciel, et s’assit la droite de Dieu. Et eux, étant partis prêchèrent partout, le Seigneur coopérant avec eux et confirmant la parole par les signes qui l’accompagnaient” (Marc 16.19,20). “Comment échapperons-nous, si nous négligeons un si grand salut, qui, ayant commencé par être annoncé par le Seigneur, nous a été confirmé par ceux qui l’avaient entendu, Dieu rendant témoignage avec eux par des signes et des prodiges, et par divers miracles et distribution de l’Esprit Saint, selon sa propre volonté?” (Hébreux 2.3,4).
 
@@ -111,7 +111,7 @@ Ce que notre Seigneur a dit de Lui-même se rapporte également à la lettre à 
 
 Les oeuvres opérées par Dieu de façon surnaturelle sont la preuve qu’il y a là, en rapport avec la prédication de l’Evangile de Jésus-Christ, une personne divinement envoyée. Ce sont ces oeuvres qui à proprement parler constituent la légitimation irréfutable et convaincante pour tous les homme. Notre Seigneur disait: “Croyez-moi, que je suis dans le Père, et que le Père est en moi; sinon, croyez-moi cause des oeuvres elles-mêmes. En vérité, en vérité, je vous dis: Celui qui croit en moi fera, lui aussi; les oeuvres que moi je fait, et il en fera de plus grandes que celles-ci…” (Jean 14.11,12). Dieu Lui-même a confirmé dans le ministère de William Branham cette Parole comme étant véritable, de telle sorte qu’il n’y a pas besoin de l’avis des hommes. Moïse et Elie, Pierre et Paul, bien sûr, tous les hommes que Dieu a envoyés ont été confirmés par Lui. La même chose peut être dite à l’égard de notre frère Branham. De cette manière celui qui a de la peine à croire en un homme a ainsi la possibilité de croire Dieu. “… car personne ne peut faire ces miracles que toi tu fais, si Dieu n’est avec lui” (Jean 3.2).
 
-DES L’ENFANCE…
+## Dès l’enfance…
 
 La présence surnaturelle de Dieu accompagna cet homme dès son enfance. Il y a réellement des hommes destinés à une tâche particulière dès leur enfance, et William Branham en fait partie. Ces hommes ne se sont pas, à un certain moment, désignés eux-mêmes à cette tâche, se faisant appeler prophètes, mais c’est en vertu d’un appel céleste direct qu’ils ont été établis par Dieu même. Déjà dans son enfance William Branham eut la vision d’événements qui se sont tous accomplis souvent bien des années plus tard.
 

@@ -49,7 +49,7 @@ bible_refs:
   - "2 Rois 23:17"
   - "Matthieu 25"
 ---
-**PREFACE**
+## Préface
 
 Le grand trésor dans un vase de terre
 
@@ -80,7 +80,7 @@ Nous remercions Daniel Chiron, maître de conférences à l’université de Gre
 *Annecy, décembre 1987.*
 *G. R. STUELSATZ*
 
-**AVERTISSEMENT**
+## Avertissement
 
 La vie de William Marrion Branham a été jalonnée d’évènements extraordinaires en si grand nombre et d’une telle nature que dès son vivant, et encore aujourd’hui, le monde religieux ne peut apporter une réponse unanime à la question : “Que signifie la vie étrange de cet homme pour notre siècle qui s’achève ?”
 
@@ -106,7 +106,7 @@ Pour la seule gloire du Seigneur Jésus-Christ, notre Seigneur et Sauveur.
 
 *Daniel Chiron, décembre 1987.*
 
-**REMERCIEMENTS**
+## Remerciements
 
 Nous remercions l’association cultuelle de l’ACADA, [“Chalmont”, Manigod, 74230 Thones, Haute-Savoie, France], de nous avoir permis d’intégrer sur notre site “Le-Scribe” cet ouvrage, et de nous avoir autorisé à effectuer les retouches qui nous semblaient nécessaires.
 Le livre, titré “WILLIAM BRANHAM, un grand trésor dans un vase de terre” a été achevé d’imprimer le 15 septembre 1988, et est ainsi référencé : dépôt légal 3e trimestre 1988 ; ISBN 2-85964-102-05.

@@ -68,7 +68,7 @@ LA REVELATION DE JESUS-CHRIST — AGE D'EPHESE
 
 LA REVELATION DE JESUS-CHRIST
 
-EGLISE D'EPHESE
+## Église d'Éphèse
 
 5 décembre 1960, lundi soir
 Branham Tabernacle

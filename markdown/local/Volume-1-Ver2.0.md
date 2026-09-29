@@ -79,7 +79,7 @@ ou partielle doit premièrement faire l’objet du consentement de l’auteur.
                               7801 Dahl Road
                            Moses Lake WA 98837
 
-    DÉDICACE
+## Dédicace
 
 
 
@@ -90,7 +90,7 @@ Est-ce que Dieu existe réellement ? Si oui, qui est-Il ? Et où est-Il ?
         C’est à toi, jeune chercheur, que ce livre est dédié.
         Parce que, moi aussi, j’en ai été un.
 
-    TABLE DES MATIÈRES
+## Table des matières
 
 
 
@@ -118,7 +118,7 @@ SOURCES ET NOTES DE LA FIN .....................................................
 AU SUJET DE L’AUTEUR ................................................................................. 153
 INDEX.................................................................................................................. 154
 
-        INTRODUCTION
+## Introduction
 
    Vingt-cinq ans se sont écoulés depuis que Surnaturelle : La Vie de
 William Branham a été imprimée pour la première fois en 1993. Son
@@ -168,9 +168,9 @@ Le garçon et ses privations
 La cabane de bois rond près de Burkesville, Kentucky,
       où William Branham est né le 6 avril 1909
 
-        CHAPITRE 1
+## Chapitre 1
 
- UN MYSTÉRIEUX SIGNE DE NAISSANCE
+### Un mystérieux signe de naissance
 
         1909 — 1912
 
@@ -565,9 +565,9 @@ milles [16 km] au nord-est de New Albany, en Indiana. »
 
 
 
-    CHAPITRE 2
+## Chapitre 2
 
-SA PREMIÈRE VISION
+### Sa première vision
 
    1912 — 1916
 
@@ -1055,9 +1055,9 @@ Albany. Chose étrange, cela s’était révélé vrai. Un pont sur la
 rivière ? Seize hommes qui mouraient ? Et si, un jour, ça arrivait ?
 Ella nota l’incident en pensant : « On verra bien. »
 
-        CHAPITRE 3
+## Chapitre 3
 
-        L’OPPROBRE DE LA PAUVRETÉ
+### L’opprobre de la pauvreté
 
         1916 — 1917
 
@@ -1352,9 +1352,9 @@ la seule chemise qu’il possédait.
 
 
 
-        CHAPITRE 4
+## Chapitre 4
 
-        BATTU SANS PITIÉ
+### Battu sans pitié
 
         1922 — 1923
 
@@ -1631,9 +1631,9 @@ enflées.
    Lorsque l’année scolaire fut terminée, Billy quitta l’école et n’y
 revint plus jamais.
 
-        CHAPITRE 5
+## Chapitre 5
 
-        L’ACCIDENT DE CHASSE
+### L’accident de chasse
 
         1923 — 1924
 
@@ -2025,9 +2025,9 @@ chambre d’hôpital, regardant son père.
 
 
 
-        CHAPITRE 6
+## Chapitre 6
 
-        LE COUP TERRIBLE
+### Le coup terrible
 
         1925 — 1927
 
@@ -2331,9 +2331,9 @@ en Arizona, il lui écrirait une lettre pour lui expliquer.
 
 
 
-        CHAPITRE 7
+## Chapitre 7
 
-        LA FUITE DANS LE DÉSERT
+### La fuite dans le désert
 
         1927 — 1929
 
@@ -2597,9 +2597,9 @@ rendit au cimetière, balaya la neige sur la tombe d’Edward et étendit
 la couverture sur le monticule de terre. Il voulait qu’Edward soit au
 chaud.
 
-        CHAPITRE 8
+## Chapitre 8
 
-        LE SIGNE LE SUIT
+### Le signe le suit
 
         1929
 
@@ -2817,9 +2817,9 @@ lorsqu’elle avait dit que sa destinée était dans l’Ouest ?
 
 
 
-        CHAPITRE 9
+## Chapitre 9
 
-        SA DERNIÈRE CHANCE
+### Sa dernière chance
 
         1931 — 1932
 
@@ -3178,9 +3178,9 @@ monde entier. »
    Cela sembla très étrange à Billy, car sa mère ne rêvait presque
 jamais.
 
-        CHAPITRE 10
+## Chapitre 10
 
-        LE PREMIER TEST DE FOI
+### Le premier test de foi
 
         1932
 
@@ -3440,7 +3440,7 @@ de lunettes. Lorsqu’il fit contrôler ses yeux, il obtint 20 sur 20, une
 vision parfaite. Il était rempli d’allégresse ; et sa confiance dans les
 promesses de Dieu fit un bond en avant.
 
-        CHAPITRE 11
+## Chapitre 11
 
        CONSACRÉ POUR UN ÉVANGILE
         SURNATUREL
@@ -3776,9 +3776,9 @@ l’amènerait à découvrir le secret de sa vie particulière, un secret qui
 déclencherait le plus grand ministère de guérison par la foi que le
 monde n’eut jamais connu.
 
-     CHAPITRE 12
+## Chapitre 12
 
-    SE TENANT DANS LES AIRS
+### Se tenant dans les airs
 
      1933
 
@@ -4256,9 +4256,9 @@ mois, il avait témoigné à assez de gens pour se rendre compte qu’on
 ne pouvait pas changer l’opinion de quelqu’un par un bon
 argument. La foi était une révélation qui venait de Dieu.
 
-        CHAPITRE 13
+## Chapitre 13
 
-   L’ÉTOILE MYSTÉRIEUSE RÉAPPARAÎT
+### L’étoile mystérieuse réapparaît
 
         1933
 
@@ -4736,7 +4736,7 @@ l’attente qui brûlait dans son âme.
 
 
 
-        CHAPITRE 14
+## Chapitre 14
 
     SON FUTUR TABERNACLE LUI EST
         MONTRÉ
@@ -4936,7 +4936,7 @@ l’œuvre d’un évangéliste, remplis bien ton ministère. »
 
     Billy posant la pierre d’angle du tabernacle
 
-    SOURCES ET NOTES DE LA FIN
+## Sources et notes de la fin
 
 
 
@@ -5167,7 +5167,7 @@ Sept visions d’événements des temps de la fin : 60-1211E 44,
 
 
 
-        AU SUJET DE L’AUTEUR
+## Au sujet de l’auteur
 
    Owen Jorgensen est né en 1952 d’un agriculteur danois
 américain de deuxième génération. Owen a grandi dans la ferme
@@ -5198,7 +5198,7 @@ Branham, il estime avoir passé 12 000 heures à travailler sur ce
 projet. À ce jour, il a reçu tant de remerciements de la part de
 lecteurs reconnaissants, qu’il sait que son temps était bien dispensé.
 
-INDEX
+## Index
 
 
 

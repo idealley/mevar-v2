@@ -753,7 +753,7 @@ puisse identifier les messagers, comme étant les étoiles dans la main droite d
 la gloire du Seigneur, la même Colonne de feu qui était avec les enfants d’Israël, et qui plane
 également sur Son Eglise.
 
-        LES DIFFERENTS AGES
+## Les différents âges
 
    Dans le temps où Jean vit Christ et Son Eglise dans la prophétie, il existait beaucoup
 d’assemblées locales, auxquelles Paul avait adressé ses épîtres. Cependant, le Saint-Esprit
