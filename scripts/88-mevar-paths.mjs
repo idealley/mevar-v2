@@ -42,25 +42,28 @@ const slug = (t) => t.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCas
 // Only when run, not when 86 imports located().
 if (import.meta.url === `file://${process.argv[1]}`) {
   const dry = process.argv.includes("--dry");
+  // the promoted texts still to move, and those moved already, whose name a
+  // new title may change
   const texts = [];
-  for (const dir of ["markdown/onedrive", "markdown/mevar-pdfs"])
+  for (const dir of ["markdown/onedrive", "markdown/mevar-pdfs", MEVAR])
     for (const rel of fs.readdirSync(path.join(root, dir), { recursive: true }).sort()) {
       if (!rel.endsWith(".md")) continue;
       const md = `${dir}/${rel}`;
       const text = fs.readFileSync(path.join(root, md), "utf8");
       const fm = frontmatter(text);
-      if (!/^editorial_pass:/m.test(fm) || /^duplicate_of:/m.test(fm)) continue;
+      if (!/^editorial_pass:/m.test(fm) || /^duplicate_of:/m.test(fm) || (dir === MEVAR && !/^source_path:/m.test(fm))) continue;
       const date = field(fm, "date") ?? "";
-      const year = String(field(fm, "year") ?? date.slice(0, 4) ?? "");
+      const year = String(field(fm, "year") ?? date.slice(0, 4));
       const base = slug(field(fm, "title"));
       texts.push({ md, text, base, year, month: MONTHS[Number(date.slice(5, 7)) - 1] });
     }
 
-  // the name: title and year; with the month where two would be the same
-  const name = (t, month) => [t.base, /(^|-)\d{4}(-|$)/.test(t.base) ? "" : [month && t.month, t.year].filter(Boolean).join("-")].filter(Boolean).join("-");
+  // the name: title and year (not repeated when the title holds that year);
+  // with the month where two would be the same
+  const name = (t, month) => [t.base, t.year && `-${t.base}-`.includes(`-${t.year}-`) ? "" : [month && t.month, t.year].filter(Boolean).join("-")].filter(Boolean).join("-");
   const counts = new Map();
   for (const t of texts) counts.set(name(t), (counts.get(name(t)) ?? 0) + 1);
-  const ghost = new Set(fs.readdirSync(path.join(root, MEVAR)).filter((f) => f.endsWith(".md")).map((f) => f.slice(0, -3)));
+  const ghost = new Set(fs.readdirSync(path.join(root, MEVAR)).filter((f) => f.endsWith(".md")).map((f) => `${MEVAR}/${f}`).filter((f) => !texts.some((t) => t.md === f)).map((f) => path.basename(f, ".md")));
   for (const t of texts) {
     t.slug = counts.get(name(t)) > 1 ? name(t, true) : name(t);
     t.to = `${MEVAR}/${t.slug}.md`;
@@ -70,23 +73,25 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     for (const t of clash) console.error(`${t.md}: « ${t.slug} » is taken`);
     process.exit(1);
   }
-  for (const t of texts) console.log(`${t.md} → ${t.to}${t.year ? "" : "  (no year)"}`);
-  console.log(`${texts.length} texts to move`);
-  if (dry || !texts.length) process.exit(0);
+  const moving = texts.filter((t) => t.md !== t.to);
+  for (const t of moving) console.log(`${t.md} → ${t.to}${t.year ? "" : "  (no year)"}`);
+  console.log(`${moving.length} texts to move`);
+  if (dry || !moving.length) process.exit(0);
 
-  const moved = new Map(texts.map((t) => [t.md, t.to]));
+  const moved = new Map(moving.map((t) => [t.md, t.to]));
   const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
-  const workMoved = new Map(texts.map((t) => [work(t.md), work(t.to)]));
+  const workMoved = new Map(moving.map((t) => [work(t.md), work(t.to)]));
 
-  for (const t of texts) {
-    const text = t.text.replace(/^(source: .*)$/m, `$1\nsource_path: ${JSON.stringify(t.md.slice("markdown/".length))}`);
+  for (const t of moving) {
+    const text = /^source_path: /m.test(frontmatter(t.text)) ? t.text
+      : t.text.replace(/^(source: .*)$/m, `$1\nsource_path: ${JSON.stringify(t.md.slice("markdown/".length))}`);
     fs.writeFileSync(path.join(root, t.to), text);
     fs.rmSync(path.join(root, t.md));
   }
 
   // published_with and duplicate_of, wherever they name a moved text
   for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true })) {
-    if (!rel.endsWith(".md") || rel.startsWith("branham/")) continue;
+    if (!rel.endsWith(".md")) continue;
     const p = path.join(root, "markdown", rel);
     const text = fs.readFileSync(p, "utf8");
     const next = text.replace(/^(published_with|duplicate_of): "([^"]+)"$/gm, (l, k, v) => workMoved.has(v) ? `${k}: ${JSON.stringify(workMoved.get(v))}` : l);
@@ -103,5 +108,5 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const refsPath = path.join(root, "manifests/bible-refs.json");
   const refs = JSON.parse(fs.readFileSync(refsPath, "utf8"));
   fs.writeFileSync(refsPath, JSON.stringify(Object.fromEntries(Object.entries(refs).map(([k, v]) => [moved.get(k) ?? k, v])), null, 2));
-  console.log(`moved ${texts.length}`);
+  console.log(`moved ${moving.length}`);
 }
