@@ -4593,7 +4593,7 @@
     ]
   },
   "markdown/onedrive/pdf/exo_juillet2012.md": {
-    "title": "Le manger et le boire – Le dieu du ventre",
+    "title": "Le manger et le boire – le dieu du ventre",
     "fixes": [
       {
         "find": "Que dit-il ? Voici, dit-il, ce que je ferai : **j’abattrai",
@@ -4754,6 +4754,24 @@
         "replace": "Nous sommes pleins de foi",
         "kind": "typo",
         "why": "agreement with « nous »"
+      },
+      {
+        "find": "**PAUL - CITOYEN ROMAIN**",
+        "replace": "**PAUL – CITOYEN ROMAIN**",
+        "kind": "typo",
+        "why": "the original has an en dash here"
+      },
+      {
+        "find": "**L’Adriatique - le navire d’Alexandrie**",
+        "replace": "**L’Adriatique – le navire d’Alexandrie**",
+        "kind": "typo",
+        "why": "the original has an en dash here"
+      },
+      {
+        "find": "**LE NAVIRE LES DIOSCURES - ARRIVÉE À ROME**",
+        "replace": "**LE NAVIRE LES DIOSCURES – ARRIVÉE À ROME**",
+        "kind": "typo",
+        "why": "a dash, printed as a hyphen: an en dash, as in this text's other headings"
       }
     ]
   },
