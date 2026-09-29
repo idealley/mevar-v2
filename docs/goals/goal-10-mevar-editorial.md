@@ -117,6 +117,8 @@ the verification done by a script and by sampling.
   est-il », « rendez de vous »). What was not said stays, as oral style: a
   dropped « ne » (« on est pas délivré »), a missing « pas ». Samuel may
   overrule any of them.
+- **Headings** (goal 18): after 85, `87-section-headings.mjs <batch>`
+  decides the batch's section titles; 86 applies them.
 - **Batches:** `scripts/mevar-editorial-batches.json`. The two books
   (`le_royaume_de_dieu_kadjani`, `les_cinq_ministeres_de_la_parole`, 200,000
   words together) get a batch of their own.
