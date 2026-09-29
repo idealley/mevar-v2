@@ -57,6 +57,16 @@ report(
     .map((u) => `${u} exists`),
   `${drafts.length} drafts`,
 );
+// Goal 19: every Mevar text moved beside the Ghost posts is at its root URL
+// (a draft, bilanchaine, is never built).
+const moved = fs.readdirSync(path.join(web, "../markdown/mevar")).filter((f) => {
+  const text = f.endsWith(".md") ? fs.readFileSync(path.join(web, "../markdown/mevar", f), "utf8") : "";
+  return /^source_path: /m.test(text) && !/^status: "draft"$/m.test(text);
+});
+report(
+  `every moved Mevar text at /<slug>/: ${moved.length} texts`,
+  moved.map((f) => `/${f.slice(0, -3)}/`).filter((u) => !served(u)).map((u) => `${u} missing`),
+);
 report(
   "no /works/mevar/ page",
   fs.existsSync(path.join(dist, "works/mevar")) ? ["dist/works/mevar/ exists"] : [],

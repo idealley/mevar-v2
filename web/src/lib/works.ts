@@ -64,7 +64,7 @@ export const ARCHIVE_SOURCES: Record<string, string> = {
 
 /** Ghost posts keep the root URL they had on Ghost; every other work lives under /works/. */
 export function workUrl(e: WorkEntry): string {
-  return e.data.source === "mevar" ? `/${e.id.slice("mevar/".length)}/` : `/works/${e.id}/`;
+  return e.id.startsWith("mevar/") ? `/${e.id.slice("mevar/".length)}/` : `/works/${e.id}/`;
 }
 
 /** The work at a corpus path ("branham/1963/63-0112"), as `original` and `summary_fr` name it. */

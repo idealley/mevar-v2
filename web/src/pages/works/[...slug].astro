@@ -2,11 +2,11 @@
 import WorkPage from "../../components/WorkPage.astro";
 import { allWorks } from "$lib/works";
 
-// Ghost posts are at their root URL (../[slug].astro), not here.
+// The works under markdown/mevar/ are at their root URL (../[slug].astro), not here.
 export async function getStaticPaths() {
   const works = await allWorks();
   return works
-    .filter((entry) => entry.data.source !== "mevar")
+    .filter((entry) => !entry.id.startsWith("mevar/"))
     .map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
 }
 
