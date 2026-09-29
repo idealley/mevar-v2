@@ -78,12 +78,15 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   console.log(`${moving.length} texts to move`);
   if (dry) process.exit(0);
 
+  // in two steps, so that two texts exchanging names lose nothing: each
+  // written aside, the sources removed, then each put in its place
   for (const t of moving) {
     const text = /^source_path: /m.test(frontmatter(t.text)) ? t.text
       : t.text.replace(/^(source: .*)$/m, `$1\nsource_path: ${JSON.stringify(t.md.slice("markdown/".length))}`);
-    fs.writeFileSync(path.join(root, t.to), text);
-    fs.rmSync(path.join(root, t.md));
+    fs.writeFileSync(path.join(root, `${t.to}.moving`), text);
   }
+  for (const t of moving) fs.rmSync(path.join(root, t.md));
+  for (const t of moving) fs.renameSync(path.join(root, `${t.to}.moving`), path.join(root, t.to));
 
   // Every reference follows every moved text, from its original path or a
   // name it had before (a rename): a second run finds nothing to change.
