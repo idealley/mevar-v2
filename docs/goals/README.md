@@ -21,6 +21,7 @@ from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 | 15 | [French citations as written](goal-15-french-citations-as-written.md): 65's old rewrites undone in Mevar posts and Le Scribe | 07, 12 | the source of the two local volumes |
 | 16 | [CMPP complete](goal-16-cmpp-complete.md): every cmpp.ch publication once, each Branham translation linked to its sermon | 09, 12 | discovery report; unresolved links and doubtful attributions |
 | 17 | [French typography](goal-17-french-typography.md): a narrow space before « : ; ? ! », added at display | 10 | none |
+| 18 | [Section headings](goal-18-section-headings.md): a line that stands alone as a section title becomes `##` or `###`, in sentence case | 10, 17 | Samuel reads the headings |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.

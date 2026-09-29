@@ -135,7 +135,8 @@ the verification done by a script and by sampling.
 
 ## Scope out
 
-Rewriting, cutting, summarising, adding headings; the Branham, Le Scribe
+Rewriting, cutting, summarising, adding headings (a line that already stands
+alone as a section title becomes one: goal 18); the Branham, Le Scribe
 and CMPP sources; merging versions (goal 09 chose one).
 
 ## Acceptance evidence (per batch PR)
