@@ -35,6 +35,9 @@ const MODEL = "gpt-6-sol";
 // reading the preacher quotes: « Je frapperai David contre la paroi » (1 Samuel
 // 18:11, exhortation_2011), whole, halved or in 500-word parts.
 const FALLBACK = "claude-opus-5";
+// Through the official SDK (@anthropic-ai/sdk), which streams: a 32,000-token
+// answer over a plain request would risk the API's timeout, and streaming by
+// hand is what the SDK already does.
 
 const SYSTEM = `Tu fais la passe éditoriale d'une prédication chrétienne transcrite (MEVAR, message du temps de la fin). Le texte est celui du prédicateur : ses mots ne changent pas.
 
