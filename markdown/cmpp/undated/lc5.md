@@ -117,7 +117,7 @@ Celui qui, en ce temps-là, écoutait la voix du prophète, entendait en réalit
 
 Nous croyons que le ministère prophétique de frère Branham et le message du temps de la fin sont une Parole directe du Seigneur à Son peuple pour ce temps. En outre, nous croyons que le Seigneur n’a pas cessé d’agir, mais qu’au contraire, Il conduit Son oeuvre à son achèvement, en ces jours, comme Il l’a promis.
 
-## Événements actuels
+**EVENEMENTS ACTUELS**
 
 Toujours à nouveau, il nous est demandé ce qui va arriver prochainement, et combien de temps cela peut encore durer jusqu’au retour de Jésus-Christ. Pour ce qui est du jour et de l’heure, personne ne le sait, même pas les anges dans les cieux. Le Fils ne le savait pas davantage, dans les jours de Son humanité. C’est pourquoi nous devons veiller et prier en tout temps, pour être capables d’échapper à ce qui doit venir sur le globe terrestre. Nous devons demeurer sobres, vaquer à nos occupations, et continuer à vivre comme si cela devait durer encore longtemps, mais être intérieurement prêts à chaque instant à rencontrer le Seigneur.
 
@@ -131,7 +131,7 @@ Frère Branham disait que les royaumes des nations prendront fin de la même man
 
 C’est ainsi qu’on pouvait récemment le lire dans différents journaux rendant compte de la nouvelle Bible commune, à laquelle dix-sept théologiens des deux confessions et originaires de Suisse, d’Autriche, de la RDA et de la RFA ont collaboré. Dans cette Bible, nous ne trouvons plus: “L’Esprit de Dieu se mouvait au-dessus des eaux”, mais: “Des tempêtes mugissaient au-dessus des eaux”. A divers autres exemples de la nouvelle traduction, on discerne bien de quoi il s’agit véritablement, c’est-à-dire de détruire, chez les hommes, les dernières traces de foi qu’ils ont dans l’inspiration et la véracité de la Parole de Dieu. Nous vivons en un temps où l’orgueil et la présomption sont devenus pires qu’aux jours de Sodome et de Gomorrhe. Les justes retournent à Dieu, tiennent ferme à la Parole de Dieu et à la foi en Jésus-Christ; les autres tombent dans une totale apostasie, de laquelle Paul a déjà parlé. Il n’y a plus qu’un petit reste qui écoute la voix du Seigneur. Le Seigneur connaît les Siens, et les conduit merveilleusement. C’est pour eux que seront préservées la Vérité au milieu du mensonge, la Lumière au milieu des ténèbres, la Vie spirituelle au milieu de la mort spirituelle.
 
-## Fin d’année 1975
+**FIN D’ANNEE 1975**
 
 Un poète disait: «Rapidement s’envolent les jours…». Une année a à peine commencé, qu’elle est déjà à son terme! Chacun repense à ce qui s’est passé, dans les mois écoulés. Pour nous, l’année 1975 fut une année parmi les plus glorieuses et les plus couronnées de succès que le Seigneur nous ait donné de vivre, par Sa grâce. Je suis sûr qu’une riche moisson pour la gloire de Son Nom a été produite.
 

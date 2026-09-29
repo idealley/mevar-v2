@@ -195,7 +195,7 @@ Les gens donnent leur propre interprétation à la Parole qui a été donnée et
 
 39 Ainsi tout est parfait. Le jour de la Pentecôte, vinrent les messagers de la première heure avec la Parole. A la suite de quoi suivit un âge sombre qui obstrua le travail et ensuite, au milieu du jour, vint d’abord Luther, bientôt suivi de Wesley. Ensuite arriva le message du temps du soir par lequel nous recevons la même chose que ceux qui étaient au commencement. Le message qui est délivré vers le soir est destiné à ramener les choses à leur état initial, comme elles l’étaient au commencement de l’église.
 
-## Ma vision de l’Épouse
+MA VISION DE L’EPOUSE
 
 40 Rappelez-vous la vision que j’eus la semaine passée. Je ne pensais pas du tout à cela. J’étais simplement en train de regarder dehors. C’est alors qu’est venue l’Epouse. Près de moi, j’ai entendu une voix qui me disait: «Voici une vision de l’Epouse». Et Elle s’est approchée. J’ai alors remarqué comment elle était. Elle était jeune et très jolie, vraiment adorable. Elle s’avançait d’un pas harmonieux, non pas comme pour une marche militaire, mais d’une démarche gracieuse comme des jeunes femmes savent le faire; elle passa alors sur ma gauche puis disparut hors de ma vue.
 

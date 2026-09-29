@@ -70,9 +70,9 @@ La Révélation de Jésus-Christ
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 2
 
-## La révélation de Jésus-Christ
+LA REVELATION DE JESUS-CHRIST
 
-### Église de Sardes
+EGLISE DE SARDES
 
 9 décembre 1960, vendredi soir
 Branham Tabernacle

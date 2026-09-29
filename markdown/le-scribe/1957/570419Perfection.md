@@ -48,7 +48,7 @@ original: "branham/1957/57-0419"
 ---
 **Résumé de!: “La perfection” (19 avril 1957, soir)**
 
-## La perfection (ou soyez donc parfait, ou le parfait sacrifice)
+**LA PERFECTION (ou SOYEZ DONC PARFAIT, ou LE PARFAIT SACRIFICE)**
 
 **Thème central :** La Justice de Dieu exigeant la perfection, il a fallu le Sacrifice de substitution du Christ parfait, pour permettre au pécheur ainsi racheté d'être purifié des convoitises du monde et de se tenir dans la Présence de Dieu.
 

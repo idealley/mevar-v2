@@ -258,7 +258,7 @@ Ces derniers temps, ce qui me trouble profondément lors de mes voyages missionn
 De tels événements, ainsi que maints autres encore, sont les motifs qui m’ont amené à cet exposé qui doit, en même temps, représenter un défi et une mise en garde. Qu’est-ce qui est réellement écrit dans les Saintes Ecritures, et qu’est-ce qui vient à être interprété et compris? Que pratiquaient réellement les apôtres et que peut-il leur être attribué? C’est ce qui doit être demandé et aussi clairement démontré! Qu’est-ce qui est Parole de Dieu, et qu’est-ce qui est interprétation?
 
 
-## Ainsi commença la tromperie
+AINSI COMMENÇA LA TROMPERIE
 
 Les premiers hommes, en qui nous avons tous été représentés, sont tombés dans le péché parce qu’ils ont écouté l’ennemi qui a faussé la Parole pour Eve, et de cette façon il a porté le premier mensonge sur la terre. La chose est généralement connue. Nous avons tous expérimenté le même sort et n’avons pas résisté à la tentation. Comme cela est arrivé lors de la chute dans le péché, nous tous sommes nés dans ce monde par l’engendrement charnel. Ainsi la mort nous a tous rejoint.
 
@@ -303,7 +303,7 @@ Nous devons demander très sérieusement: De quel droit les docteurs de la Bible
 La confession et les doctrines des apôtres sont exclusivement, et vraiment exclusivement, à trouver dans les Actes des apôtres et dans les Epîtres des apôtres. Toutes autres choses ne sont que falsifications, qui ont pris origine dans les interprétations propres de passages bibliques. L’ennemi a véritablement commencé d’agir ainsi déjà dans le Christianisme primitif en interprétant la Parole de Dieu, et depuis il n’a pas cessé de le faire. Sans le savoir le monde religieux en entier est spirituellement aveugle et il s’égare, à moins que la révélation ne lui soit donnée. Bien que richement décorées avec des passages bibliques, aussi les doctrines protestantes dans leur ensemble sont demeurées non bibliques, et même dans les églises et dans les communautés du «Plein Evangile», elles sont recouvertes du manteau babylonien. La signification originelle de la Parole est partout annulée par des interprétations personnelles.
 
 
-## Éprouvez toutes choses
+EPROUVEZ TOUTES CHOSES
 
 Maintenant voici ce qui est pour beaucoup, la première surprise, celle qui secoue tout et tous: Il n’y a pas une seule action dans toute la Bible qui ait été faite au Nom du Père, du Fils et du Saint-Esprit! Cette constatation importante aura, espérons-le, auprès de ceux qui se trouvent encore dans des traditions non bibliques, déclenché un choc durable et salutaire.
 
@@ -322,7 +322,7 @@ C’est là que je me tiens, fondé sur le fondement des apôtres et des prophè
 Les questions suivantes ne sont pas posées pour offenser quiconque, mais dans la pensée d’éprouver et d’éclairer. Chaque lecteur doit avec amour, mais aussi avec le sérieux nécessaire qui nous est indispensable, être conduit à réfléchir et à entreprendre les corrections nécessaires.
 
 
-## Pourquoi? Pourquoi?
+POURQUOI? POURQUOI?
 
 Pourquoi la parole «Trinité» ne se trouve-t-elle pas une seule fois dans la Bible?
 Pourquoi l’expression «Dieu trois en un» ne se trouve-t-elle pas une seule fois dans la Bible?
@@ -961,7 +961,7 @@ de Dieu. Prier seulement en disant: «Que Ta volonté soit faite…» ne servira
 dans la Tête, Christ, ainsi dans les membres du Corps de Christ doit être faite la volonté lors de
 l’achèvement.
 
-## Quelqu’un doit le dire
+    QUELQU’UN DOIT LE DIRE
 
    Quelqu’un doit le dire et faire retentir l’avertissement. Dans tous les pays du monde, les
 représentants en fonction de chaque religion luttent pour leurs propres pensées doctrinales et
@@ -1517,7 +1517,7 @@ AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION 31
 été manifesté; nous savons que quand il sera manifesté, nous lui serons semblables, car nous
 le verrons comme il est” (1 Jean 3.2).
 
-## Le temps est proche
+        LE TEMPS EST PROCHE
 
    Derrière nous se trouvent les deux mille ans du temps de la grâce, connus comme «les
 derniers jours» (Actes 2.17; Hébreux 1.1-2 et autres), donnés par Dieu à l’humanité pendant le temps
@@ -1765,7 +1765,7 @@ baptisés pour le nom du Seigneur Jésus” (v. 5).
            fondées au commencement, la liste de tout ce qu’ils ont fait en Son Nom ne leur servira à rien
     (Mat. 7.21-27). Ils auront à entendre le “Retirez-vous de moi!” sortant de la bouche du Seigneur.
 
-## Voici, je viens bientôt!
+     VOICI, JE VIENS BIENTOT!
 
    Il est dit dans Matthieu 25.6: “Voici l’époux; sortez à sa rencontre”, et dans le dernier chapitre
 de la Bible, au verset 12: “Voici, je viens, bientôt, et ma récompense est avec moi…”. Dans le

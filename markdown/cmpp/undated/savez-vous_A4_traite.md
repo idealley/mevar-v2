@@ -80,7 +80,7 @@ Nous pouvons ignorer l'homme, mais si c'est Dieu qui nous a parlé par un proph�
 
 Le 28 février 1963, cette nuée surnaturelle apparut sur la montagne de Sunset, au nord de Tucson, en Arizona, USA, exactement comme cela avait été montré dans une vision au rév. William M. Branham, le 22 décembre 1962. Ceci pourrait-il être un signe du proche retour de Jésus-Christ? Bien que cette photographie ait été prise de très loin, le visage du Seigneur est clairement reconnaissable à l'intérieur de cette nuée. Le 19 avril 1963, le Science Magazine reproduisit cette photographie sur sa page de couverture. James E. McDonald, de l'Institute of Atmospheric Physics à l'University of Arizona de Tucson, écrivit un rapport à ce sujet sans pourtant pouvoir donner une explication à ce phénomène. Le plus grand hebdomadaire du monde, le Life Magazine, présenta cette photographie dans son numéro du 17 mai 1963, avec un article. Cette nuée apparut dans un ciel bleu, à une altitude où aucune humidité ne se trouve pour former des nuages. Cela est certainement une confirmation du Tout-Puissant qui, dans Son amour, est également venu à la rencontre de ceux qui ne peuvent pas croire sans voir. Dieu a parlé, pourquoi ne pas écouter?
 
-## Bon pour littérature gratuite
+BON POUR LITTERATURE GRATUITE
 
 Nos autres publications: «Le Christianisme traditionnel», «L'Apocalypse», «Le défi de la théologie chrétienne et plus…» et plusieurs brochures: «La grande tragédie et le plan du salut de Dieu à la lumière du Message du temps de la fin», «Le Christianisme hier et aujourd'hui», «Dieu et Son plan pour l'humanité», «Le retour de Christ», « William Branham – Un prophète envoyé par Dieu», «L'indicateur», «Le chemin qui mène à Dieu», «Vision 7000 – Information globale», etc.
 

@@ -61,7 +61,7 @@ original: "branham/1953/53-0325"
 ---
 *Israël en Egypte* (25 mars 1953, soir)
 
-## Israël et l'Église – 1 : Israël en Égypte
+**ISRAEL ET L'EGLISE – 1 : ISRAEL EN EGYPTE**
 
 **ISRAEL AND THE CHURCH - PART I, ISRAEL IN EGYPT**
 

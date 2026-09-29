@@ -66,7 +66,7 @@ bible_refs:
 ---
 BROCHURE N° 9
 
-## Révélation des sept sceaux
+RÉVÉLATION DES SEPT SCEAUX
 
 PAR WILLIAM MARRION BRANHAM
 

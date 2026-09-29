@@ -67,7 +67,7 @@ CINQUIÈME SCEAU
 
 **Révélation des Sept Sceaux / Le Cinquième Sceau**
 
-## Le Cinquième Sceau
+**Le Cinquième Sceau**
 
 22 mars 1963, soir
 Branham Tabernacle

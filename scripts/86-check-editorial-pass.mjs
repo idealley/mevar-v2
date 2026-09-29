@@ -103,7 +103,7 @@ function rendered(md, found, headings) {
   const kinds = { heading: "a heading", html: "HTML", image: "an image", imageReference: "an image", definition: "a link definition" };
   (function walk(node, bold, quote, heading) {
     const line = node.type === "heading" && headings.get(md.slice(node.position.start.offset, node.position.end.offset));
-    const ours = line !== undefined && line !== false;
+    const ours = typeof line === "string";
     if (kinds[node.type] && !ours)
       found.push(`${kinds[node.type]}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
     // text, and code (a line indented four spaces), whose words are words too

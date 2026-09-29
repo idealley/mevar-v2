@@ -69,7 +69,7 @@ bible_refs:
   - "Ésaïe 43"
   - "Psaumes 122"
 ---
-## Lettre ouverte
+LETTRE OUVERTE
 
 Rédigée par le pasteur Ewald Frank
 en langues allemande, anglaise, française et russe
@@ -96,7 +96,7 @@ LETTRE OUVERTE: Le peuple et le pays d’Israël
 
 AVRIL 1991
 
-## Le peuple et le pays d’Israël
+LE PEUPLE ET LE PAYS D’ISRAEL
 
 Comme ce thème a été récemment encore discuté de façon toujours plus intensive, et qu’il faut compter qu’il en résultera un violent dénouement, il est indispensable donc, à une heure aussi décisive de l’histoire mondiale, qu’une parole incontestable du Tout-Puissant soit introduite dans l’ordre du jour. Juifs, Chrétiens et Musulmans croient tous au Créateur du ciel et de la terre, à Qui tous les enfants des hommes doivent leur vie terrestre et tous les enfants de Dieu leur Vie éternelle. Dans Sa Parole, Dieu expose clairement Ses décisions en ce qui concerne le peuple d’Israël, décisions irrévocables et par là même aussi définitives, que Mahomet (la paix soit avec lui) a aussi respectées.
 
@@ -186,7 +186,7 @@ Toute autre discussion sur ce thème est superflue. Nous pouvons être certains 
 
 > “Et l’ange qui parlait avec moi me dit: Crie, et dis: Ainsi parle l’Eternel des armées: Je suis ému d’une grande jalousie pour Jérusalem, et pour Sion, et je suis saisi d’une grande irritation contre les nations orgueilleuses; car je n’étais que peu irrité, mais elles ont contribué au mal. C’est pourquoi ainsi parle l’Eternel: Je reviens à Jérusalem avec compassion, ma maison y sera rebâtie, et le cordeau sera étendu sur Jérusalem. Crie de nouveau, et dis: Ainsi parle l’Eternel des armées: Mes villes auront encore des biens en abondance; l’Eternel consolera encore Sion, il choisira encore Jérusalem” (Zacharie 1.14-17).
 
-## Résultat
+RESULTAT
 
 Si tous les participants à cet enjeu, qu’ils soient Juifs, Chrétiens ou Musulmans, se comportaient selon leur foi, cette discussion ne pourrait se faire que dans la perspective d’une extension des territoires pour Israël.
 

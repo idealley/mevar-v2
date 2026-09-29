@@ -70,7 +70,7 @@ Si on ne veut pas se battre on ne pourra pas entrer. Il faut se battre en prenan
 
 Le frère FRANK dit _**que le temps est venu de prêcher maintenant Matthieu 25 :6**_.Qu’est-ce que ça veut dire ? **C’est l’Appel au réveil, l’Appel au réveil !** Le frère invite les prédicateurs à prêcher Matthieu 25 :6. _**« Voici l’Époux, allez à sa rencontre ! »**_. Mais dans cette Parole, il y a beaucoup de choses qui doivent se faire. Il y a des détails que chacun doit prendre. Alléluia ! \[Amen ! Réd\]. Que Le Nom du Seigneur soit béni ! \[Amen !\]
 
-## Les jours du Saint-Esprit
+_**LES JOURS DU SAINT-ESPRIT**_
 
 Ce soir, je veux parler un peu du Saint-Esprit. C’est un des sujets que nous connaissons déjà mais on y revient à chaque fois car c’est important. Amen ! Lisez les brochures. Frère Branham a traité du Saint-Esprit en deux ou trois brochures : _**QU’EST-CE QUE C’EST QUE LE SAINT-ESPRIT, POURQUOI LE SAINT-ESPRIT A ETE DONNE ?**_ Dans plusieurs prédications il fait des déclarations sur le Saint-Esprit. Et, en prêchant sur le Saint-Esprit, il a dit ceci : « \*j’ai prêché sur plusieurs sujets, mais le sujet dont je parle maintenant est le plus capital dans mon ministère \*». Il a parlé du **Signe**. Il a dit que c’est le sujet le plus capital dans son ministère. Si vous avez toutes les brochures mais que vous manquez ce sujet, c’est comme si vous n’avez pas cru au Message. Donc, c’est un sujet important et je veux en parler ce soir au moment où je me sépare de vous. Alléluia ! \[Amen ! Réd.\]. Que Le Nom du Seigneur soit béni ! \[Amen ! Réd.\].
 

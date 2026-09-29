@@ -213,7 +213,7 @@ Joseph représente l’Eglise remplie de l’Esprit. C’est un type de Christ. 
 
 ---
 
-## Annexe – texte de l’Apocalypse, chapitre 1
+**ANNEXE – Texte de l’Apocalypse, chapitre 1**
 
 > (1) Révélation de Jésus-Christ, que Dieu lui a donnée pour montrer à ses serviteurs les choses qui doivent arriver bientôt, et qu’il a fait connaître, par l’envoi de son ange, à son serviteur Jean ; (2) celui-ci a attesté la parole de Dieu et le témoignage de Jésus-Christ : soit tout ce qu’il a vu.
 > (3) Heureux celui qui lit et ceux qui entendent les paroles de la prophétie, et qui gardent les choses qui y sont écrites ! Car le temps est proche.

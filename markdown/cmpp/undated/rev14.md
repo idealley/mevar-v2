@@ -59,7 +59,7 @@ La Révélation de Jésus-Christ
 
 LA REVELATION DE JESUS-CHRIST — LE SERPENT ECRASE 2
 
-## La révélation de Jésus-Christ
+LA REVELATION DE JESUS-CHRIST
 
 LE SERPENT ECRASE
 Apocalypse, chapitre cinq (1ère partie)

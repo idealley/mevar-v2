@@ -45,7 +45,7 @@ const alnum = (c) => /[\p{L}\p{N}]/u.test(c);
 function headingOf(line, proposed) {
   const level = proposed.match(/^(#{2,3}) /)?.[1];
   const from = [...plain(line)];
-  const to = [...plain(proposed ?? "")].filter(alnum);
+  const to = [...plain(proposed)].filter(alnum);
   if (!level) return null;
   let out = "";
   let j = 0;
@@ -149,13 +149,10 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     }
   }
 
-  // What is already decided follows the rules: a line that repeats the
-  // title or the subtitle is no heading, and a heading is rebuilt on its line.
+  // A title or subtitle can change after its lines were decided (86 takes
+  // the editor's): a line that repeats one is no heading.
   for (const [md, , title, subtitle] of works)
-    for (const d of all[md] ?? []) {
-      if (sameWords(d.line, title) || sameWords(d.line, subtitle)) d.heading = null;
-      else if (d.heading) d.heading = headingOf(d.line, d.heading) ?? d.heading;
-    }
+    for (const d of all[md] ?? []) if (sameWords(d.line, title) || sameWords(d.line, subtitle)) d.heading = null;
 
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
@@ -178,7 +175,9 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   let [tin, tout] = [0, 0];
   for (const [md, lines] of pending) {
     const { decisions, usage } = await decide(lines);
-    all[md] = [...(all[md] ?? []), ...decisions.map((d) => ({ ...d, heading: d.heading && (headingOf(d.line, d.heading) ?? d.heading) }))];
+    // a heading that is not its line, case and accents aside, stays a line
+    for (const d of decisions) if (d.heading && !headingOf(d.line, d.heading)) console.log(`  kept, the model changed a word: ${md}: « ${d.line} » → « ${d.heading} »`);
+    all[md] = [...(all[md] ?? []), ...decisions.map((d) => ({ ...d, heading: d.heading && headingOf(d.line, d.heading) }))];
     [tin, tout] = [tin + usage.prompt_tokens, tout + usage.completion_tokens];
     fs.writeFileSync(DECISIONS, JSON.stringify(Object.fromEntries(Object.entries(all).sort()), null, 2) + "\n");
   }
