@@ -58,6 +58,7 @@ import nspell from "nspell";
 import { fromMarkdown } from "mdast-util-from-markdown";
 import { citations } from "./65-normalize-bible.mjs";
 import { connect, reading, blockquote } from "./segond.mjs";
+import { applyHeadings } from "./87-section-headings.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const batchId = process.argv[2];
@@ -68,6 +69,10 @@ const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editoria
 // text's entry may also give the title, the subtitle, the date and the place
 // (below), and a split.
 const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-fixes.json"), "utf8"));
+// Goal 18: a line that stands alone as a section title becomes ## or ###
+// (87's decisions, applied after the editor's fixes): same words, case and
+// accents aside; its bold goes.
+const sections = JSON.parse(fs.readFileSync(path.join(root, "manifests/section-headings.json"), "utf8"));
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
 
@@ -90,23 +95,25 @@ function words(text) {
 }
 
 // The pass's words as the site renders its markdown (mdast, the parser Astro
-// uses): bold is what renders bold, a quote is inside a blockquote. Headings,
-// HTML, images and link definitions, which a sermon has none of, go to `found`.
-function rendered(md, found) {
+// uses): bold is what renders bold, a quote is inside a blockquote. Headings
+// (other than goal 18's, in `headings`), HTML, images and link definitions,
+// which a sermon has none of, go to `found`.
+function rendered(md, found, headings = new Set()) {
   const out = [];
   const kinds = { heading: "a heading", html: "HTML", image: "an image", imageReference: "an image", definition: "a link definition" };
-  (function walk(node, bold, quote) {
-    if (kinds[node.type])
+  (function walk(node, bold, quote, heading) {
+    const ours = node.type === "heading" && headings.has(md.slice(node.position.start.offset, node.position.end.offset));
+    if (kinds[node.type] && !ours)
       found.push(`${kinds[node.type]}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
     // text, and code (a line indented four spaces), whose words are words too
     if (["text", "code", "inlineCode"].includes(node.type))
-      for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote });
+      for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote, heading });
     // an ordered list's numbers are markup to markdown, words to the check
     (node.children ?? []).forEach((c, i) => {
       if (node.type === "list" && node.ordered) out.push({ w: String((node.start ?? 1) + i), at: c.position.start.offset, bold, quote, marker: true });
-      walk(c, bold || node.type === "strong", quote || node.type === "blockquote");
+      walk(c, bold || node.type === "strong", quote || node.type === "blockquote", heading || ours);
     });
-  })(fromMarkdown(md), false, false);
+  })(fromMarkdown(md), false, false, false);
   return out;
 }
 
@@ -142,7 +149,11 @@ function hunks(a, b) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), "goal10-"));
   fs.writeFileSync(`${dir}/a`, a.map((x) => x.w).join("\n") + "\n");
   fs.writeFileSync(`${dir}/b`, b.map((x) => x.w).join("\n") + "\n");
-  const res = spawnSync("diff", [`${dir}/a`, `${dir}/b`], { encoding: "utf8", maxBuffer: 1 << 28 });
+  // case aside (-i): a case change is typography, and a heading in sentence
+  // case must pair with its own line in capitals, not with the same words in
+  // the sentence after it (« LES MALADIES DU CORPS » / « Les maladies du
+  // corps sont… »)
+  const res = spawnSync("diff", ["-i", `${dir}/a`, `${dir}/b`], { encoding: "utf8", maxBuffer: 1 << 28 });
   fs.rmSync(dir, { recursive: true });
   if (res.status !== 0 && res.status !== 1) throw new Error(`diff failed: ${res.error ?? res.stderr}`);
   const out = res.stdout;
@@ -204,6 +215,11 @@ for (const md of batch) {
   }
   const placed = edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at.get(b) - at.get(a));
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
+  const sectioned = applyHeadings(edited, sections[md]);
+  edited = sectioned.body;
+  r.unexplained.push(...sectioned.refused);
+  const headings = new Set((sections[md] ?? []).map((d) => d.heading).filter(Boolean));
+  r.headings = [...headings].filter((h) => edited.split(/\n{2,}/).includes(h));
   // the pass's unclear sentences an editor's fix has since changed
   // (read without the bold: the pass lists them without its **)
   // and its final mark: « … au Seigneur. » may end « au Seigneur » (Act 9 …) »)
@@ -255,7 +271,7 @@ for (const md of batch) {
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
   const field = (k) => JSON.parse(fm.match(new RegExp(`^${k}: (.*)$`, "m"))?.[1] ?? '""');
   const oldTitle = field("title");
-  const after = rendered(body, r.unexplained);
+  const after = rendered(body, r.unexplained, headings);
   r.words = words(original).length;
 
   // Printed page furniture the pass removes, first: the old site's navigation
@@ -343,7 +359,7 @@ for (const md of batch) {
     if (!before.length && !now.length) return c;
     const both = [...before, ...now];
     // bold is compared inside a change too: the same on both sides
-    if (before.length === now.length ? before.some((b, i) => b.bold !== now[i].bold && !verse(b, now[i]))
+    if (before.length === now.length ? before.some((b, i) => b.bold !== now[i].bold && !verse(b, now[i]) && !(b.bold && now[i].heading))
       : new Set(both.map((x) => x.bold)).size > 1)
       c.unexplained.push(`bold changed with « ${text(before)} » → « ${text(now)} » in: ${sentence(body, at)}`);
     if (before.length && now.length && join(before) === join(now) && before.length !== now.length) {
@@ -362,7 +378,8 @@ for (const md of batch) {
       before.forEach((b, i) => {
         const a = now[i];
         if (b.w === a.w) return;
-        if (typography(b.w, a.w)) { c.typography++; return; }
+        // in a goal 18 heading, case and accents only (« EVANGELISATION », « Evangélisation » → « évangélisation »)
+        if (typography(b.w, a.w) || (a.heading && bare(fold(b.w)) === bare(fold(a.w)))) { c.typography++; return; }
         const row = { before: b.w, after: a.w, sentence: sentence(body, a.at) };
         (!isWord(b.w) && isWord(a.w) ? c.nonWord : c.word).push(row);
       });
@@ -404,7 +421,7 @@ for (const md of batch) {
   for (const [o, n] of equal) {
     if (verse(o, n)) r.counts.verseNumbers++;
     if (o.bold && n.marker) r.listBold.push(body.slice(n.at).split("\n")[0]);
-    if (o.bold === n.bold || verse(o, n) || (o.bold && n.marker)) { flush(); continue; }
+    if (o.bold === n.bold || verse(o, n) || (o.bold && n.marker) || (o.bold && n.heading)) { flush(); continue; }
     if (run && run.added === n.bold) run.words.push(n.w);
     else { flush(); run = { added: n.bold, words: [n.w], at: n.at }; }
   }
@@ -453,7 +470,7 @@ for (const md of batch) {
       .replace(/^date: .*\nyear: .*$/m, (l) => r.date === field("date") ? l : `date: ${JSON.stringify(r.date)}\nyear: ${Number(r.date.slice(0, 4))}`)
       .replace(/^location: .*\n/m, (l) => r.location ? l : "")
       .replace(/^summary: .*$/m, (l) => r.summary === field("summary") ? l : `summary: ${JSON.stringify(r.summary)}`)
-      + (r.split ? `\npublished_with: ${JSON.stringify(work(r.split))}` : "") + `\neditorial_pass: "${today}"`;
+      + (r.split && !/^published_with:/m.test(fm) ? `\npublished_with: ${JSON.stringify(work(r.split))}` : "") + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${parts[0]}\n`);
     // 50 takes index.json's titles from the manifest
     Object.assign(manifest.find((e) => e.local_md === md), { title: r.title },
@@ -508,6 +525,10 @@ for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basenam
 if (rows.some((r) => fixes[r.md]?.summary)) {
   L.push("", "## Summaries the editor wrote (the corpus's, not the preacher's words)", "");
   for (const r of rows) if (fixes[r.md]?.summary) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(r.summary)}`);
+}
+if (rows.some((r) => r.headings.length)) {
+  L.push("", "## Section headings (goal 18: a line that stood alone, same words)", "");
+  for (const r of rows) for (const h of r.headings) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
 }
 L.push("", "## Titles", "", "| Text | Title | Proposed by the pass and refused (a word changed) |", "| --- | --- | --- |");
 for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.titleRefused)} |`);
