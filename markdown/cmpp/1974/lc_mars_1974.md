@@ -51,9 +51,9 @@ bible_refs:
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE
+# Lettre circulaire
 
-## MARS 1974
+## Mars 1974
 
 > “Ainsi parle l’Eternel, ton rédempteur, celui qui t’a formé dès ta naissance: Moi, l’Eternel, j’ai fait toutes choses, seul j’ai déployé les cieux, seul j’ai étendu la terre. J’anéantis les signes des prophètes de mensonge, et je proclame insensés les devins; je fais reculer les sages, et je tourne leur science en folie. Je confirme la parole de mon serviteur, et j’accomplis ce que prédisent mes envoyés” (Ésaïe 44.24-26).
 
@@ -69,7 +69,7 @@ Nous sommes très reconnaissants envers le Seigneur, parce qu’à diverses repr
 
 Nous aussi, nous ne prêchons pas seulement le retour de Jésus-Christ, mais nous publions également la puissance de Sa résurrection, car nous avons vu Sa gloire merveilleuse et avons été témoins de ce qu’Il a fait de notre temps. Nous n’avons pas suivi des fables de belle apparence, mais nous avons vu briller la lumière de la Parole prophétique. Alors que les ténèbres recouvrent la terre et que l’obscurité envahit les peuples, l’éclatante lumière de Dieu jaillit avec force et illumine le coeur de Ses élus. Leur seule règle de conduite est la Parole de Dieu.
 
-## FONDATION DE L’EGLISE
+## Fondation de l’Église
 
 On nous demande souvent de quelle manière l’oeuvre de Dieu a commencé. Tous ceux qui depuis des années lisent les brochures et sont familiarisés avec cette oeuvre missionnaire connaissent le ministère particulier de frère Branham, par le moyen duquel Dieu a fait de grandes choses dans notre temps. Comme chaque Eglise a un fondateur, plusieurs s’imaginent que le nôtre est frère Branham! C’est pourquoi nous voulons déclarer clairement que ce n’est pas un homme, mais le Seigneur Lui-même qui a établi Son Eglise. Tout véritable serviteur de Dieu ne peut et ne voudra jamais poser d’autre fondement que celui qui a déjà été posé, selon 1 Corinthiens 3.11, et c’est Jésus-Christ. C’est sur Lui qu’ils continuent à bâtir l’Eglise. Notre Seigneur et Sauveur fonda Lui-même Son Eglise, et les portes de l’enfer ne prévaudront point contre elle. L’occupation des messagers de Dieu a toujours été de ramener les hommes à la Parole originelle de Dieu, à l’enseignement des apôtres et des prophètes. Ils n’ont jamais fondé leurs propres églises et dénominations.
 
@@ -85,7 +85,7 @@ Le Seigneur employa la prédication puissante et biblique de ce simple homme de 
 
 En 1955, beaucoup de personnes, en Europe, ont eu le privilège d’entendre frère Branham. Bien que nous ne connussions encore rien du ministère particulier qu’il avait reçu du Seigneur, déjà en ce temps-là je reconnus que ce frère avait un ministère extraordinaire. Nous avons vu toutes sortes de miracles. Des aveugles recouvraient la vue, des pécheurs se repentaient, des impotents recouvraient la santé, des personnes liées furent délivrées, etc. En vérité, ce que nous vîmes là pouvait être comparé à ce qui nous est relaté dans les Actes des apôtres. Là-dessus, je recherchai tout ce que frère Branham enseignait, et je l’éprouvai en le comparant avec les Ecritures. C’est alors que je fus éclairé et que je vis l’harmonie des desseins de Dieu. En 1960, je ne pus faire autrement que de me ranger entièrement du côté de Dieu, de croire la Parole révélée dans notre temps, et de la faire connaître sans compromis à d’autres. Naturellement qu’à ce moment-là, les portes se fermèrent. Nous fûmes incompris et rejetés, parce que partout on nous éprouvait selon la mesure propre à chacun ou selon celle d’une dénomination. Cependant, le Seigneur Dieu avait Son plan, et Il l’accomplit aussi.
 
-## NOUVEAU COMMENCEMENT
+## Nouveau commencement
 
 Par la grâce de Dieu, quelques fidèles frères et soeurs voulurent bien écouter, ici à Krefeld, les prédications de frère Branham. D’abord, tout semblait décourageant car partout on mettait les gens en garde contre nous. Cependant, nous tenions ferme dans notre décision qui était de suivre à tout prix la Parole de Dieu, et de croire les promesses qui avaient été faites pour notre temps, même si nous devions demeurer tout seuls. Nous étions pleinement décidés à suivre tout le chemin avec le Seigneur Jésus, et nous voulions respecter Son action dans notre temps. Par la grâce de Dieu, nous n’avons pas répondu au mal par le mal, ni à l’insulte par l’insulte. Mais au contraire, remplis de l’Esprit de Dieu et pénétrés de Son amour, nous avons prié pour tous les frères et soeurs qui ne nous comprenaient plus.
 
@@ -115,7 +115,7 @@ En esprit, j’observais, du haut d’une plateforme, comment une foule de gens 
 
 Le Seigneur connaît les Siens, et Il les prépare, pour le glorieux jour des noces de l’Agneau. Nous pensons, à ce propos, au chant que frère Branham aimait tellement chanter: «Ils viennent de l’Est et de l’Ouest, ils viennent du Sud et du Nord… Ils viennent pour le Repas dans la céleste Salle…».
 
-## EMISSIONS RADIOPHONIQUES
+## Émissions radiophoniques
 
 Avec l’aide de Dieu, il nous a été accordé de pouvoir prêcher sur les ondes de la radio chaque dimanche matin à 6h.05, sur les ondes courtes et moyennes de Radio Luxembourg. Par ce moyen, dans toute l’Europe, les personnes de langue allemande sont atteintes. Nous recevons de partout, et même de Russie, de la correspondance venant de personnes qui ont compris dans quel temps nous vivons, et qui croient de tout leur coeur à ce que Dieu fait maintenant. Je souhaiterais que tous les frères et soeurs, auxquels Dieu a mis à coeur de soutenir ce travail missionnaire, puissent avoir seulement une fois l’occasion de lire les lettres que nous recevons. De toutes les églises et communautés, Dieu appelle des âmes fidèles à sortir, et Il leur parle d’une manière telle qu’elles puissent bien comprendre. Ce n’est pas exagéré de dire que non seulement des milliers, mais des dizaines de milliers de personnes croient le témoignage que Dieu a donné dans ce temps.
 
@@ -125,7 +125,7 @@ Puis, nous pensons aux nombreux enfants de Dieu dispersés, aux groupes de priè
 
 Unis dans l’amour reconnaissant.
 
-## EDITORIAL
+## Éditorial
 
 > “Maudit soit l’homme qui fait une image taillée ou une image en fonte, abomination de l’Eternel, oeuvre des mains d’un artisan, et qui la place dans un lieu secret” (Deutéronome 27.15).
 

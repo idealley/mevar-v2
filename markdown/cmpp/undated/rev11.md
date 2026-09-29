@@ -60,7 +60,7 @@ La Révélation de Jésus-Christ
 
 # Chapitre Quatre
 
-## LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE
+## La révélation de Jésus-Christ — Apocalypse, chapitre quatre
 
 31 décembre 1960, samedi soir
 Branham Tabernacle

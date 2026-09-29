@@ -68,7 +68,7 @@ bible_refs:
   - "Matthieu 25:6"
   - "Matthieu 24:14"
   - "Romains 12:5-15"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur par cette histoire connue dans le livre des Actes des Apôtres. L’histoire raconte la mort d’une sainte de Joppé nommée Tabitha qui veut dire Dorcas. N’est-ce pas qu’il est bon et honorable de raconter le témoignage des saints qui ont bien rempli leur Mission dans l’Église sur terre ? Méditons ensemble ce texte.
 
@@ -180,7 +180,7 @@ La foi a toujours marché avec les œuvres spirituelles. La foi a toujours été
 
 C’est pourquoi chacun doit chercher à marcher selon la part qu’il a reçue du Seigneur pour pratiquer les bonnes œuvres de la foi qui se trouvent sur son chemin, déjà préparées par l’Esprit. **Cela veut dire que nous n’avons pas à inventer nos œuvres – elles sont déjà là, près de nous. Il nous suffit seulement d’être attentifs et attentionnés de l’Esprit pour agir selon l’inspiration divine**. C’est pourquoi nos cœurs doivent être toujours bien disposés au Seigneur, car c’est de là que nous recevrons les instructions de l’Esprit pour entreprendre les bonnes œuvres.
 
-**L’ŒUVRE DU MINISTÈRE**
+## L’œuvre du ministère
 
 > Or, que signifie : Il est monté, sinon qu’il est aussi descendu dans les régions inférieures de la terre ? Celui qui est descendu, c’est le même qui est monté au-dessus de tous les cieux, afin de remplir toutes choses. **Et il a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs, pour le perfectionnement des saints en vue de l’œuvre du Ministère et de l’édification du corps de Christ**, jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ... (Éphésiens 4 :9-13)
 

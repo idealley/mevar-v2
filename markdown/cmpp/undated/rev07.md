@@ -72,7 +72,7 @@ LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 2
 
 LA REVELATION DE JESUS-CHRIST
 
-EGLISE DE SARDES
+### Église de Sardes
 
 9 décembre 1960, vendredi soir
 Branham Tabernacle

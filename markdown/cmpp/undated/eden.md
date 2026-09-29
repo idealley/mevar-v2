@@ -78,7 +78,7 @@ Parmi les mystères qu’il a plu à Dieu de nous révéler dans cette dernière
 
 C’est certainement un des signes les plus marquants du prochain retour du Seigneur Jésus-Christ, que Dieu suscite de nos jours un prophète pour ramener Son peuple aux pures vérités de l’Évangile, afin de préparer ainsi Ses élus à l’enlèvement. Nous devons prendre garde à la manière dont nous recevons cette révélation sur le péché originel, car le Seigneur a parlé à Son serviteur et prophète William Branham le 28 février 1963, directement dans une nuée, tout comme Il l’a fait pour Moïse. C’est le même Éternel qui a révélé à Son serviteur ce qu’était le péché originel. Chacun de nous est responsable devant Dieu s’il accepte ou s’il rejette cette révélation. À cause de cela nous devons nous placer dans la prière, devant la face du Seigneur, avant de lire cette étude, afin que le Saint-Esprit puisse parler à notre cœur.
 
-## LES DEUX ARBRES DANS LE JARDIN D’ÉDEN
+## Les deux arbres dans le jardin d’Éden
 
 > “Que celui qui a des oreilles écoute ce que l’Esprit dit aux assemblées. À celui qui vaincra, je lui donnerai de manger de l’arbre de vie qui est dans le paradis de Dieu” (Apocalypse 2.7).
 
@@ -100,7 +100,7 @@ Il est donc souligné que la Vie est dans le Fils de Dieu. Puisqu’il en est ai
 
 Si l’Arbre de Vie est une Personne, alors l’arbre de la connaissance du bien et du mal est aussi une personne. Cela ne peut être autrement. Ainsi, dans le jardin d’Éden, se trouvaient côte à côte: le Juste et le méchant. Le passage dans le livre du prophète Ézéchiel, chapitre 28, verset 13, le précise en parlant de Satan: “Tu as été en Éden, le jardin de Dieu; toutes les pierres précieuses te couvraient…”. Satan était dans le jardin d’Éden, le jardin de Dieu.
 
-## LA SÉDUCTION
+## La séduction
 
 La Parole de Dieu nous dit qu’Ève fut séduite par le serpent: “Or le serpent était plus rusé qu’aucun animal des champs que l’Éternel Dieu avait fait; et il dit à la femme: Quoi, Dieu a dit: Vous ne mangerez pas de tout arbre du jardin? Et la femme dit au serpent: Nous mangeons du fruit des arbres du jardin; mais du fruit de l’arbre qui est au milieu du jardin, Dieu a dit: Vous n’en mangerez point, et vous n’y toucherez point, de peur que vous ne mouriez” (Genèse 3.1).
 
@@ -179,7 +179,7 @@ Lorsque nous prenons connaissance à travers la Bible de tout le plan de salut p
 
 Cependant, un animal fut pris et son sang répandu. Alors seulement, Dieu put à nouveau trouver communion avec les hommes. Plus tard, le jour devait arriver où Dieu Lui-même deviendrait chair, afin de ramener à Lui l’humanité tombée et lui donner part à la Vie éternelle.
 
-## LA LOI DE LA POSTÉRITÉ ET L’ARBRE GÉNÉALOGIQUE D’ADAM
+## La loi de la postérité et l’arbre généalogique d’Adam
 
 Dans le livre de la Genèse, chapitre 5, nous trouvons la postérité décrite de la manière suivante: Adam — Seth — Enosch — Kénan — Mahalaleel — Jéred — Hénoc.
 
@@ -207,7 +207,7 @@ Certains demanderont: «Dieu a-t-Il dit à Ève qu’elle devait prendre garde �
 
 L’ordre chronologique peut encore être lu dans le premier livre des Chroniques, au chapitre 1, versets 1 et 2.
 
-## TOUJOURS LES DEUX SEMENCES
+## Toujours les deux semences
 
 Dans le Nouveau Testament, Jésus-Christ parle de nouveau de deux semences. Dans l’Évangile de Matthieu, au chapitre 13, du verset 36 au verset 43, Il se décrit comme le Semeur qui sort pour semer la bonne semence, car Il est le Fils de l’homme. La bonne semence, ce sont les fils du Royaume de Dieu. L’ennemi est le diable, et les siens sont appelés par le Seigneur Lui-même comme les fils du méchant.
 

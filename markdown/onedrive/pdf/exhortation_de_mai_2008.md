@@ -77,7 +77,7 @@ bible_refs:
   - "Sophonie 2:8-9"
   - "Ésaïe 48:20"
   - "2 Corinthiens 10:3-5"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous par ces Paroles de Genèse 19 :
 
@@ -223,7 +223,7 @@ Mes chers amis, **sauvez-vous pour votre vie ! Sauvez-vous de cette générati
 
 C’est notre témoignage – c’est le témoignage de l’Épouse ! Dites au monde et aux chrétiens : « **Sortez de Babylone parce que la colère de Dieu se trouve sur Babylone**. » Mes bien-aimés, que notre Seigneur vous bénisse ! Que Sa grâce et Sa Paix soient sur vous tous ! Priez pour moi parce que le combat spirituel s’est davantage appesanti sur moi. Que Dieu m’aide à triompher de mes ennemis ! **Je crie Maranatha ! Répondez : Jésus revient bientôt** !
 
-**La guerre de libération continue**
+## La guerre de libération continue
 
 Ce mois est pour nous un mois de prière spécial. Je vous avais annoncé trois opérations pour trois pays en début d’année. Dans ce mois de mai, nous mènerons en prière, une opération d’intercession en faveur de la **République démocratique du Congo** (RDC). Que dans les Cellules de la chaîne, les prières de combat soient consacrées à la délivrance des églises de la RDC.
 

@@ -79,7 +79,7 @@ PAR
 
 WILLIAM MARRION BRANHAM
 
-# L’ENLEVEMENT
+# L’enlèvement
 
 (The Rapture)
 
@@ -89,7 +89,7 @@ Yuma — Arizona, U.S.A.
 
 «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-## L’ENLEVEMENT
+## L’enlèvement
 
 (The Rapture)
 4 décembre 1965, soir

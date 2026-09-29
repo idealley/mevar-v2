@@ -197,7 +197,7 @@ Je lui dis: «Selon la vision, je lui ai tiré dans le coeur».
 77 Satan conduisit Eve à douter, car Satan lui-même n’a jamais cru la Parole. Il n’y croit pas, et c’est pourquoi il induisit Eve à douter d’Elle. C’est encore aujourd’hui ce qu’il fait, et ce qu’il enseigne aux hommes, et ils doutent, comme Eve a douté. Dieu a fortifié Son peuple en le plaçant derrière Sa Parole: c’est votre seule défense. Ne vous cachez pas derrière votre dénomination, derrière votre père, ou votre mère, même si ce sont des gens très bien, mais cachez-vous derrière la Parole de Dieu. C’est là que le croyant est protégé: derrière la Parole. Lorsqu’on vous ouvre une petite brèche avec des: «Je me demande si c’est bien vrai?… cela ne doit sûrement pas être…», le raisonnement s’introduit et prend la place de la foi, et le rempart s’effondre. Dieu garde Sa Parole, et L’accomplit. Mais Satan, lui, induisit Eve à en douter.
 78 Oh, ne raisonnez pas avec la Parole! Vous direz: «Oh, pourquoi Dieu fait-Il cela? Est-ce que ceci n’est pas aussi bien que cela?». Si c’est contraire à la Parole, ce n’est pas aussi bien! C’est pourquoi quiconque, professeur, théologien ou autre, essaie de vous enseigner, ou essaie de vous induire à croire quelque chose de différent de ce que dit la Bible, ne serait-ce que d’un iota, c’est un enseignement faux! Cela vient de Satan, exactement comme ce fut le cas pour Eve. Dieu va de l’avant, quoi que fasse Satan, Dieu va de l’avant, prouvant que Sa Parole est ce qu’Elle Esther 79 Ecoutons ce que Satan dit à Eve: “Vous ne mourrez point; mais Dieu sait que le jour où vous en mangerez, vos yeux s’ouvriront…”. C’est ce que cherche le monde aujourd’hui, les preuves scientifiques, la connaissance venant de l’homme. C’est pourquoi Satan dit: “Vous ne mourrez point”.
 
-## DIEU CONFIRMANT SA PAROLE 11
+## Dieu confirmant sa Parole 11
 
 80 Mais Dieu avait dit: “Vous mourrez!”. Et Il a prouvé qu’il en serait ainsi. Et nous pouvons voir qu’Il pensait ce qu’Il disait. Allez vous promener dans un cimetière, et vous verrez s’Il avait pensé ce qu’Il disait. — “… le jour où tu en mangeras, tu mourras!”. Vous pouvez contrôler la vie de tous les hommes, dans tous les âges, vous verrez qu’il n’y a jamais eu un homme qui ait vécu mille ans. [Pour Dieu, mille ans sont comme un jour (2 Pierre 3.8) — N.d.T.] Dieu a confirmé Sa Parole et Il le fait chaque fois.
 
@@ -219,7 +219,7 @@ Je lui dis: «Selon la vision, je lui ai tiré dans le coeur».
 
 89 Mais, au milieu de cet âge scientifique et incrédule, Dieu confirma Sa Parole et Ses promesses en leur envoyant le déluge. Rappelez-vous que, du temps de Noé, il n’avait encore jamais plu sur la terre. Dieu avait créé un brouillard qui montait de la terre pour l’arroser, mais il n’avait encore jamais plu. Pourtant, Noé dit: “Il pleuvra…”.
 
-## DIEU CONFIRMANT SA PAROLE 12
+## Dieu confirmant sa Parole 12
 
 90 Ils auraient pu envoyer des instruments dans le ciel, et dire: “Il n’y a pas d’humidité là-haut, il n’y a pas de pluie. Nous pouvons prouver qu’il n’y a pas de pluie là-haut”.
 
@@ -241,7 +241,7 @@ Je lui dis: «Selon la vision, je lui ai tiré dans le coeur».
 
 99 Il prouva également à Lot, lorsqu’Il lui dit: “Sors de cette ville, car je vais la détruire”. Il dit à Abraham que s’il pouvait trouver dix hommes justes, Il épargnerait la ville. Il ne put trouver dix hommes, et prouva que Sa Parole était la Vérité.
 
-## DIEU CONFIRMANT SA PAROLE 13
+## Dieu confirmant sa Parole 13
 
 100 — “D’où vient ce feu? Il n’y en a pas, dans cette plaine, dans ces puits de bitume”. Mais Dieu avait parlé, et Abraham savait que cela arriverait. Lot le savait aussi, et il s’échappa dans les montagnes.
 
@@ -291,7 +291,7 @@ Je lui dis: «Selon la vision, je lui ai tiré dans le coeur».
 
 123 Dieu leur avait dit: “Je vous ai fait la promesse d’une terre promise. Mais J’ai dit à Abraham, votre père, que ses enfants séjourneraient pendant quatre cents ans dans une terre étrangère”.
 
-## DIEU CONFIRMANT SA PAROLE 16
+## Dieu confirmant sa Parole 16
 
 124 Moïse leur avait dit: “Je suis le prophète du Seigneur. Considérez ce que je prophétise. Si cela arrive, alors vous saurez que c’est le Seigneur qui m’a envoyé, car Dieu vous en a déjà parlé. Si je prophétise ceci, et que ceci arrive, que je prophétise cela, et que cela arrive, et que c’est toujours pareil, alors vous saurez que je suis envoyé par le Seigneur pour vous le dire. Or, voici, il y a une Terre Promise, c’est Dieu qui l’a promise. Vous comprenez? C’est Dieu qui a promis ce pays. Et c’est un bon pays, où coulent le lait et le miel! Suivez-moi!”.
 
@@ -315,7 +315,7 @@ Je lui dis: «Selon la vision, je lui ai tiré dans le coeur».
 
 134 Il ferma la gueule des lions affamés pour montrer à Daniel, le prophète, que Sa Parole était vraie, et qu’Il avait le pouvoir de délivrer. Pourtant, ces lions étaient nourris de chair humaine! et ils les gardaient affamés, de sorte que, si un homme ou un enfant tombait dans la fosse, ce qui était la peine capitale, cette bande de lions lui sautaient dessus immédiatement et le mettaient en pièces. Mais ces gens se saisirent de ce prophète, de lui qui avait la Parole de Dieu pour les enfants d’Israël, lui qui avait prophétisé qu’ils seraient déportés en ce lieu. Et le voilà au milieu des lions! Mais Dieu n’avait pas encore dit Son dernier mot, Il voulait encore confirmer Sa Parole, disant qu’Il pouvait délivrer. Mais eux, après avoir affamé ces lions, jetèrent le prophète dans la fosse. Aussitôt, les lions se précipitèrent vers lui. Mais la Colonne de feu était là (et nous savons que les animaux ont peur du feu), la Colonne de feu était dressée là, et aussitôt, les lions se couchèrent. Il avait tenu Sa Parole. Il est Le même hier, aujourd’hui et éternellement. Dieu tient Sa Parole, Il La confirme, Il prouve qu’Elle est la Vérité.
 
-## DIEU CONFIRMANT SA PAROLE 17
+## Dieu confirmant sa Parole 17
 
 135 Il ôta la chaleur de la fournaise ardente pour prouver que Sa Parole était la Vérité, qu’Il pouvait délivrer du feu. Il les sauva au milieu de l’embrasement, où ces enfants avaient été jetés et étaient restés un long moment, et où il régnait une chaleur telle que les robustes soldats qui les y avaient jetés périrent. Dieu laissa le feu brûler, mais Il en retira toute chaleur. Il confirme! Si vous restez auprès de Lui, Il restera auprès de vous. Rester auprès de vous? Parfaitement! Une heure plus tard, le roi ouvrit la porte, et demanda “Combien en avez-vous jetés, là dedans?”. On lui répondit: “Trois”. Mais il dit: “Il y en a quatre, et l’un d’eux ressemble à un fils de Dieu!”. Vous voyez, Il confirme! Pourquoi? — parce qu’Il est la Parole.
 
@@ -329,7 +329,7 @@ Je lui dis: «Selon la vision, je lui ai tiré dans le coeur».
 
 140 Jean, avec la mission qu’il reçut, n’avait aucune instruction, et il restait dans les déserts. Sa prédication était basée sur des exemples pratiques. Il disait: “La cognée est mise à la racine de l’arbre”. C’est ce qu’il connaissait: couper le bois à la hache, pour en faire une hutte ou du feu. “Race de vipères…”. C’est ce qu’il voyait. La chose la plus détestable que l’on puisse trouver dans un désert, c’est un serpent. Il disait: “Race de vipères, qui vous a appris à fuir la colère à venir? Produisez donc du fruit digne de la repentance, et ne prétendez pas dire en vous-mêmes: nous avons ceci et cela, nous appartenons à ceci, nous appartenons à cela… de ces pierres-ci, Dieu peut susciter des enfants à Abraham. Déjà la cognée est mise à la racine des arbres: tout arbre donc qui ne porte pas du bon fruit…”. Que faisait-il dans le désert quand il n’y avait pas… il prenait des sauterelles, les coupait en morceaux, et les cuisait au feu. Vous voyez? “… il amassera son blé dans le grenier, mais il brûlera la paille dans un feu qui ne s’éteint point”. Un homme qui n’avait même pas de robe de pasteur, ni de bonnet de prêtre! Il est venu, vêtu d’une peau de brebis, un lambeau de peau de chameau autour des reins, barbu, les cheveux en broussailles, et il dit: “Déjà la cognée est mise à la racine des arbres…”. Il vint, rempli d’audace. Pourquoi cela? Parce que c’était la Parole de Dieu qui était en train de se confirmer “De ces pierres-ci, Dieu peut susciter…”. — Dieu l’avait promis! “Voici, j’envoie mon messager devant ma face…”. Pas quelqu’un de très religieux, ni de très scientifique, quelqu’un qui n’apportait pas des preuves religieuses, mais la Preuve de la Parole de Dieu. Dieu tenant Sa Parole. Non pas un érudit, mais un prophète, envoyé au Nom du Seigneur. C’est ce qu’Il fit, n’est-ce pas? afin de confirmer Sa Parole.
 
-## DIEU CONFIRMANT SA PAROLE 18
+## Dieu confirmant sa Parole 18
 
 141 Or, les prêtres dirent: “Nous savons que quelqu’un doit venir dans les derniers jours, c’est pourquoi nous voulons donner un enseignement particulier à chacun de nos élèves, afin qu’il soit prêt pour cela. Chacun de vous doit recevoir une instruction secondaire. Venez vous instruire! Lorsqu’Il viendra, ce sera certainement comme les Lévites, qui se succédaient suivant une certaine lignée, celle de la sacrificature”. Il n’était pas un sacrificateur, mais un prophète! Et c’était Dieu qui l’avait choisi. Il n’a pas besoin de venir d’une certaine dénomination, ou d’une certaine descendance. C’est Dieu qui choisit par prédestination, par prescience; il vient selon le choix de Dieu. C’est pourquoi ils ne voulaient pas croire en lui, parce qu’il ne vint pas de la manière qu’ils se l’étaient imaginé. Cela pourrait se répéter encore aujourd’hui, et c’est ce qui arrive généralement. Mais nous Voyons qu’il est venu selon ce que Dieu avait prévu, afin de confirmer Sa Parole.
 
@@ -360,7 +360,7 @@ Je lui dis: «Selon la vision, je lui ai tiré dans le coeur».
 
 154 — “Mais non, vous ne mourrez certainement pas! C’est absurde! C’est une idée stupide! N’en croyez rien!”. Mais pourtant, Dieu l’avait dit! Et Dieu prouva que c’était vrai! Et Dieu le prouve encore aujourd’hui, car il y a des gens qui meurent à cet instant même. Il prouve encore que c’est la Vérité.
 
-## DIEU CONFIRMANT SA PAROLE 20
+## Dieu confirmant sa Parole 20
 
 155 Satan vint vers Moïse, et lui dit: “Moïse, tu sais comme tu as la tête chaude, comme tu t’emportes facilement. Regarde ce que font à ceux de ton peuple cette bande de renégats. Pourquoi n’irais-tu pas leur montrer un peu de quel bois tu te chauffes?” ce qu’il fit!
 
@@ -383,7 +383,7 @@ Je lui dis: «Selon la vision, je lui ai tiré dans le coeur».
 
         http://www.cmpp.ch
 
-## DIEU CONFIRMANT SA PAROLE 21
+## Dieu confirmant sa Parole 21
 
 remarqué que Job a dit: “Même si mes vers me détruisent…”. Non pas les vers qui seraient dans la terre: il n’y en a pas. Les vers sont en vous, prêts à vous détruire. C’est la mort qui agit en votre corps mortel. Mais lorsque vous avez Christ, alors la Vie agit en votre corps mortel pour vous ressusciter. Vous comprenez? — Il ressuscita un homme qui était mort depuis quatre jours, et qui sentait déjà mauvais, pour prouver ce qu’Il disait: “Je suis la résurrection et la Vie”. Personne d’autre que Dieu aurait pu dire ceci: “Je suis la résurrection et la Vie. Celui qui croit en moi vivra, quand même il serait mort”. Croyez-vous cela? Et Il ressuscita cet homme pour prouver que Sa Parole était la Vérité. C’est vrai!
 
@@ -414,7 +414,7 @@ remarqué que Job a dit: “Même si mes vers me détruisent…”. Non pas les 
 
         http://www.cmpp.ch
 
-## DIEU CONFIRMANT SA PAROLE 22
+## Dieu confirmant sa Parole 22
 
 176 Mais Jésus dit encore: “… mais l’eau que je lui donnerai, sera en lui une fontaine d’eau jaillissant en vie éternelle” [version Darby — N.d.R.].
 
@@ -440,7 +440,7 @@ remarqué que Job a dit: “Même si mes vers me détruisent…”. Non pas les 
 
         http://www.cmpp.ch
 
-## DIEU CONFIRMANT SA PAROLE 23
+## Dieu confirmant sa Parole 23
 
 connaissait ces choses lorsqu’Il traversa la mer, parce qu’Il connaissait toutes choses. Lorsqu’Il eût traversé la mer, et qu’Il aborda à cet endroit, le sacrificateur vint vers Lui. Sa fille était gravement malade, et les médecins l’avaient abandonnée, en disant: “Elle est à l’article de la mort”.
 
@@ -500,7 +500,7 @@ Dieu”. Il savait ce qu’Il faisait. Il avait dit qu’Il ne faisait rien que 
 
         http://www.cmpp.ch
 
-## DIEU CONFIRMANT SA PAROLE 25
+## Dieu confirmant sa Parole 25
 
 208 Peut-être que lorsqu’Il sortit de Jéricho, ils lui dirent: “Eh, Toi là-bas! Tu sais ressusciter les morts? Il y en a un plein cimetière ici. Viens les réveiller!”. Mais Il ne fit pas la moindre attention à ces gens-là. Il ne les écouta pas, parce qu’Il savait qu’Il était la Parole.
 
@@ -518,7 +518,7 @@ Dieu”. Il savait ce qu’Il faisait. Il avait dit qu’Il ne faisait rien que 
 
         http://www.cmpp.ch
 
-## DIEU CONFIRMANT SA PAROLE 26
+## Dieu confirmant sa Parole 26
 
 215 Lorsqu’arriva le moment de payer le péage, Il nous montra encore qu’Il possédait toutes choses. Il savait qu’il y avait un poisson qui avait juste la somme qu’il fallait dans sa bouche. Quelqu’un l’avait laissé tomber là, et le poisson venait de la ramasser. Et Jésus dit à Pierre: “Jette l’hameçon, et tire le premier poisson qui viendra; ouvre-lui la bouche, et tu trouveras un statère. Prends-le, et donne-le leur pour moi et pour toi”.
 
@@ -539,7 +539,7 @@ Dieu”. Il savait ce qu’Il faisait. Il avait dit qu’Il ne faisait rien que 
 
         http://www.cmpp.ch
 
-## DIEU CONFIRMANT SA PAROLE 27
+## Dieu confirmant sa Parole 27
 
        Enseveli dans Son précieux Nom.
        Jeunes et vieux, repentez-vous de tous vos péchés,
@@ -571,7 +571,7 @@ Dieu”. Il savait ce qu’Il faisait. Il avait dit qu’Il ne faisait rien que 
 
         http://www.cmpp.ch
 
-## DIEU CONFIRMANT SA PAROLE 28
+## Dieu confirmant sa Parole 28
 
 231 Au sujet de cet oiseau tacheté… peu m’importe combien l’auteur de cet article est en désaccord avec ces choses, il se trompe! Vous souvenez-vous de ce que l’on faisait à cet oiseau, et qu’est-ce que c’était que cet oiseau? On en prenait deux; l’un était mis à mort, et l’autre, on le trempait dans le sang pour la purification du lépreux. Il était couvert de taches de sang, et ce sang proclamait: “Saint, Saint, Saint, est l’Eternel!”. Les autres oiseaux… Je suis heureux de ce que mon nom est inscrit dans le Livre. Non pas écrit sur cette terre, mais là-haut; non pas sur la peau de chèvre d’un parchemin, mais sur la peau de l’Agneau. C’est vrai!
 

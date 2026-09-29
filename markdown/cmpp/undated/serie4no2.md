@@ -782,7 +782,7 @@ de Christ. Et beaucoup étaient enrouées pour s’être tant dépensées et avo
 
     http://www.cmpp.ch
 
-## DONS APPROPRIÉS 17
+## Dons appropriés 17
 
 127 Mais en descendant l’allée ils découvrirent le vieil homme. Et en le retournant ils virent la petite poupée pressée contre son coeur. Je suppose qu’il lui apporta son cadeau. Il la trouva dans un pays qui n’est pas d’ici. Il y emporta le cadeau. C’était un don approprié. (O Dieu miséricordieux!) Pourtant cela lui coûta la vie. Il n’y avait pas d’autre moyen au monde pour qu’il puisse lui apporter son cadeau car elle était enterrée. Le seul moyen de le faire était qu’il s’en aille de cette manière. Je ne pense pas que la petite poupée au visage sale avait beaucoup d’importance. Mais que fit-il? Il accomplit une promesse qu’il avait faite. Peu importe ce que pensaient les gens de ses mains sales qui tenaient cette petite poupée sale, mais c’était l’accomplissement d’une promesse faite à sa petite fille.
 
@@ -806,7 +806,7 @@ de Christ. Et beaucoup étaient enrouées pour s’être tant dépensées et avo
 
                        http://www.cmpp.ch
 
-## DONS APPROPRIÉS 18
+## Dons appropriés 18
 
 montrant que vous êtes Sien et qu’Il est vôtre. Si vous n’êtes pas réellement… vous voyez? Oh que la réaction de l’Esprit de Dieu agisse en vous en ce temps de Noël, afin qu’Il vienne à vous maintenant.
 
@@ -826,7 +826,7 @@ montrant que vous êtes Sien et qu’Il est vôtre. Si vous n’êtes pas réell
 
         http://www.cmpp.ch
 
-## DONS APPROPRIÉS 19
+## Dons appropriés 19
 
 ici ce soir un meilleur chrétien qui T’accepte et croit en Toi. Ils ont essayé de vivre une vie chrétienne, mais ce soir puissent-ils être mis à part, puissent-ils recevoir ce Don.
 
@@ -850,7 +850,7 @@ ici ce soir un meilleur chrétien qui T’accepte et croit en Toi. Ils ont essay
 
         http://www.cmpp.ch
 
-## DONS APPROPRIÉS 20
+## Dons appropriés 20
 
 comme le ferait le monde en tournant une nouvelle page. Seigneur je veux simplement accepter Ton Fils. Je veux accepter Ton Don, Seigneur.
 

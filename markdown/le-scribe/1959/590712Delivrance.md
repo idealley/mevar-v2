@@ -52,7 +52,7 @@ original: "branham/1959/59-0712"
 ---
 *Résumé de!: “Une délivrance totale” (12 juillet 1959, matin)*
 
-# UNE DELIVRANCE TOTALE
+# Une délivrance totale
 
 **Thème central :** Quand l'Eglise sera unie, entièrement soumise à Dieu, alors elle pourra se placer sous le Sang et être entièrement libérée.
 

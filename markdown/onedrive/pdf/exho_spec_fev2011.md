@@ -62,7 +62,7 @@ bible_refs:
   - "1 Corinthiens 16:19"
   - "1 Corinthiens 9:19-23"
   - "1 Pierre 3:1"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Seigneur Jésus-Christ :
 
@@ -168,7 +168,7 @@ Je veux que vous compreniez, mes chers amis, que le fait qu’on soit devenu cro
 
 Ma prière est que cette courte exhortation nous aide à marcher avec le Seigneur alors que son retour est tout près de nous. Que Dieu vous bénisse et vous garde. Mes compliments et mes bénédictions à tous les lecteurs. Paix et joie dans nos foyers et dans nos maisons. Paix et amour dans notre communion spirituelle. Il est bon que nous puissions partager des sujets de prière ensemble sur cette parole. Que Dieu vous bénisse !
 
-**Sujets de prière**
+## Sujets de prière
 
 1. Après avoir lu cette courte parole d’exhortation, demandons à Dieu de nous délivrer de l’indifférence de l’un envers l’autre – qu’Il donne aux conjoints de s’impliquer dans leurs affaires spirituelles.
 

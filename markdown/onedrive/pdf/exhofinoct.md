@@ -49,7 +49,7 @@ bible_refs:
   - "Nombres 25"
   - "1 Corinthiens 10:21-22"
   - "2 Corinthiens 6:14-17"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes chers frères et sœurs, je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole d’Apocalypse chapitre 3, le verset 21.
 
@@ -91,7 +91,7 @@ C’est ce Serviteur de Dieu qui a reçu l’approbation de Dieu. C’est Lui qu
 
 **Par ailleurs, c’est par son comportement que l’Épouse sera distinguée dans le monde. Dieu fera des miracles au travers de plusieurs, mais Il ne vivra pas Sa vie dans n’importe qui, sinon seulement en ceux qui ont été préparés pour cela, ceux qui ont été déclarés vainqueurs sur le vieil homme**. En effet, nous devons être déclarés vainqueurs dans notre génération, malgré toutes les épreuves que l’Église traverse. Un peuple doit être déclaré vainqueur. Nous sommes bien partis pour faire partie de ce nombre, mais combien sont-ils, qui savent que les candidats ont des combats à mener pour y arriver ?
 
-**Le mauvais jour**
+## Le mauvais jour
 
 **Le mal le plus présent pour les chrétiens de Laodicée est le manque de révélation dans la marche de la foi**. En effet, plusieurs ne savent pas adopter l’attitude juste dans le temps où nous sommes parvenus. **Or, il faut toujours arriver à adopter l’attitude juste dans le temps où on se trouve. Et l’attitude juste, c’est l’attitude recommandée par la Parole de l’heure**. Déjà dans Éphésiens, Paul donnait des consignes aux frères au sujet du combat spirituel dans le mauvais jour.
 

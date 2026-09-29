@@ -162,15 +162,15 @@ bible_refs:
   - "Zacharie 10"
   - "Romains 9"
 ---
-# IL EST ECRIT…
+# Il est écrit…
 
 ## Ewald Frank
 
-### IL EST ECRIT
+### Il est écrit
 
 Un exposé biblique du missionnaire Ewald Frank
 
-### AVANT-PROPOS
+### Avant-propos
 
 Comme auteur de cette brochure, j’ai le vif désir de voir le lecteur être amené à mieux connaître Dieu et Son plan pour l’humanité. Quoique dans ce court exposé seuls certains points pourront être abordés, j’espère cependant que l’Esprit de Dieu mettra dans le coeur du lecteur le profond désir de faire de plus amples recherches dans la Bible.
 
@@ -184,7 +184,7 @@ Krefeld, septembre 1987    L’auteur
 
 ---
 
-### IL EST ECRIT
+### Il est écrit
 
 Le plus grand trésor que nous puissions tenir en nos mains est la Parole de Dieu écrite, car le ciel et la terre passeront, mais la Parole de Dieu demeure pour l’éternité. C’est dans cette Parole qu’Il nous a révélé Son plan complet pour l’humanité. Tout d’abord la Parole parlée est venue au prophète, puis Elle fut mise par écrit. Plus tard le Seigneur employa les apôtres qui nous laissèrent leur témoignage. Ainsi, aussi bien l’Ancien que le Nouveau Testament nous ont été conservés. Dans l’Ancien Testament nous trouvons des ombres, des indications et des promesses, dans le Nouveau nous avons une description saisissante de la manière avec laquelle les passages des Ecritures correspondants se sont accomplis exactement, à la lettre.
 
@@ -214,7 +214,7 @@ C’est sur la base d’une révélation que Paul se rendit à Jérusalem pour c
 
 A cause des déviations de la Parole, notre Seigneur dirait également aujourd’hui: “Mais ils m’honorent en vain, enseignant, comme doctrines, des commandements d’hommes” (Marc 7.7). Ce qui n’est pas fait conformément à la Parole sera rejeté de Dieu. “Dieu est Esprit, et il faut que ceux qui l’adorent, l’adorent en esprit et en vérité” (Jean 4.24). La Parole de Vérité et l’Esprit de Vérité agissent toujours ensemble. On ne peut pas, et on ne doit pas porter un jugement sur les choses spirituelles selon des critères humains. Celui qui veut comprendre Dieu et Ses desseins doit sonder Sa Parole infaillible car c’est en Elle qu’est pleinement révélée la volonté de Dieu.
 
-### ETRE UN DANS L’ESPRIT
+### Être un dans l’Esprit
 
 Depuis toujours le désir d’unité s’est trouvé dans l’homme. Mais devant Dieu ne peut subsister que ce qui est conforme à Sa volonté et a lieu de la manière qu’Il en a décidé. Si jamais il y a un temps dans lequel le peuple de Dieu devrait être un, c’est bien maintenant. Cependant quelle apparence devrait donc avoir cette unité? La réponse sûre à cette question si importante ne peut être donnée qu’au travers de la Parole écrite de Dieu. Il y a suffisamment de temps que les hommes ont cherché à réaliser leurs propres idées. Maintenant Dieu voudrait faire connaître à Son peuple la pure vérité à ce sujet.
 
@@ -232,7 +232,7 @@ Le messager que l’on envoya chercher le conseilla par ces paroles: “Que ta p
 
 Michée était absolument sûr de son affaire. C’est pourquoi il pouvait dire à Achab, qui promettait de lui régler son compte lorsqu’il reviendrait du combat: “Si jamais tu reviens en paix, l’Eternel n’a point parlé par moi. Et il dit: Peuples, entendez-le tous!” (v. 27). Tout véritable prophète sera en tout temps en accord avec tous les prophètes qui ont parlé au Nom du Seigneur. Il publiera l’absolue vérité par la vertu de la Toute-puissance divine, même si des centaines s’unissent pour dire le contraire. La même chose se réalise avec un apôtre, un docteur, un évangéliste et avec tout ministère et tout service dans l’Assemblée du Dieu Vivant.
 
-### LA CONDITION
+### La condition
 
 Le jour de Pentecôte les cent vingt étaient assemblés dans la chambre haute, dans un même sentiment. Ils se trouvaient en parfait accord avec la Parole de l’heure. Aujourd’hui, pour être un avec Dieu, nous devons aussi être en accord avec Sa Parole promise pour ce temps. Jésus dit dans Sa prière: “… afin que tous soient un, comme toi, Père, tu es en moi et moi en toi” (Jean 17.21). Le Fils était la révélation personnelle du Père: la même substance, le même Esprit, la même Vie.
 
@@ -261,7 +261,7 @@ Cette unité pour laquelle notre Seigneur a prié, Dieu la réalise à Sa propre
 
 Pareillement, dans les versets 11 et 12 du même chapitre il nous est dit que les cinq ministères ont été donnés pour l’édification du Corps de Christ. Au verset 13 Paul dit: “… jusqu’à ce que nous parvenions tous à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature de la plénitude du Christ”.
 
-### REPETITION?
+### Répétition?
 
 Bien que, lors de la première venue de Christ, les Juifs croyants attendaient leur Messie, les conducteurs religieux ne reconnurent ni Son précurseur ni le ministère de ce dernier, et pas davantage le Messie Lui-même. Ayant la Parole de Dieu en mains et tout en pratiquant l’adoration dans le Temple, ils Le rejetèrent. Ceci est incompréhensible mais vrai: Il vint chez les Siens, pourtant les Siens ne Le reçurent point (Jean 1). Quelle honte pour les conducteurs spirituels de ce temps-là précisément d’avoir été ainsi frappés d’aveuglement! Ils avaient leurs propres interprétations mais ne possédaient aucune révélation sur la Parole promise pour leur temps.
 
@@ -275,7 +275,7 @@ Il n’est pas difficile de juger les choses du passé et de constater les erreu
 
 Nous n’avons besoin d’aucun homme qui nous présente ses propres idées sur les choses puissantes que Dieu va faire. De telles représentations fantaisistes ne se sont jamais accomplies et elles ne s’accompliront pas non plus dans l’avenir. Ce dont nous avons besoin, c’est d’une claire compréhension de ce que Dieu a promis dans Sa Parole pour ce temps. Comme nous sommes dans un âge prophétique, nous pouvons compter sans autre sur un ministère prophétique particulier. Dans le passé, avant qu’un événement extraordinaire arrive, le Seigneur a toujours envoyé des hommes ayant une commission spéciale. Avant le déluge Il avait le prophète Noé. Nous lisons ceci à son sujet: “Et Noé le fit; selon tout ce que Dieu lui avait commandé, ainsi il fit” (Genèse 6.22). Avant la destruction de Sodome et de Gomorrhe, le Seigneur visita Son prophète Abraham (Genèse 18). Au verset 17 Il dit: “Cacherai-je à Abraham ce que je vais faire?…”. Dans Luc 17.26-30, le Seigneur se réfère a chacun de ces deux temps et événements en rapport avec Son retour en disant: “Il en sera de même au jour où le Fils de l’homme sera manifesté”. Dieu ne peut pas changer, comme il est écrit dans Malachie 3.6: “Car moi, l’Eternel, je ne change pas”. Lorsque l’Eternel était sur le point d’accomplir la promesse faite à Abraham (Genèse 15.13), Il apparut au prophète Moïse dans le buisson ardent (Exode 3). Il eut aussi un Elie et un Elisée, un Jérémie et un Daniel, un Esaïe et un Ezéchiel, etc. Dans tous les temps Il agit de la même manière. Ses décisions sont parfaites!
 
-### DISPENSER DROITEMENT LA PAROLE
+### Dispenser droitement la Parole
 
 Depuis le commencement du Nouveau Testament et de la fondation de l’Eglise de la Nouvelle Alliance, tout a été considéré et ordonné à la lumière de la Parole prophétique. Pierre, «un homme de la première heure», quelques jours déjà après l’ascension de Jésus, mit en ordre les événements en rapport avec les prophéties bibliques. Dans Actes 2 c’est de nouveau lui qui, lors de l’effusion du Saint-Esprit, classa l’événement sur le fondement biblique en disant: “Mais c’est ici ce qui a été dit par le prophète Joël” (v. 16). Au chapitre 3.20-23 des Actes, lorsqu’il parle des temps de rafraîchissements qui doivent venir de devant la face du Seigneur avant le retour de Jésus-Christ, il dit: “… lequel il faut que le ciel reçoive, jusqu’au temps du rétablissement de toutes choses dont Dieu a parlé par la bouche de ses saints prophètes de tous temps”. Nous voyons de nouveau ici les relations existant avec l’Ancien Testament. Il ressort distinctement de ces paroles qu’un temps de rafraîchissement et de rétablissement spirituels doivent avoir lieu avant que Jésus, en tant qu’Epoux, puisse revenir prendre Son Epouse bien-aimée.
 
@@ -299,7 +299,7 @@ Conformément à ce qui est dit dans le premier chapitre des Hébreux, Dieu a pa
 
 Il existe des passages de l’Ecriture qui nous indiquent dans le même contexte, et même parfois dans le même verset des choses se rapportant aux différentes venues du Seigneur. Les Psaumes 2.7, Actes 13.33 et Hébreux 1.5 parlent de Sa première venue. Lors de Sa deuxième venue, Il vient pour Celle qu’Il a rachetée par Son Sang (Apocalypse 1.5), qu’Il a purifiée par Sa Parole (Éphésiens 5.26), qu’Il a scellée par Son Esprit (Éphésiens 4.30), pour cette Epouse-Eglise qu’Il vient enlever (1 Thess. 4.13-18), afin de célébrer avec Elle le repas des noces (Apocalypse 19.1-9). Le monde ne s’en apercevra même pas. Le Psaumes 2.8,9, Apocalypse 2.27 et 19.15, ainsi que beaucoup d’autres Ecritures se rapportent à Sa venue qui s’effectuera avec une grande puissance lorsqu’Il viendra régler les comptes avec Ses ennemis et entrer dans Son règne sur la terre. Lorsque dans la synagogue de Nazareth le Seigneur lut Ésaïe 61, Il s’arrêta dans Sa lecture au milieu du deuxième verset (Luc 4.19), car seule la première partie se rapportait au ministère qu’Il accomplissait en ce temps-là. Comme nous l’avons déjà exposé, le jour de la vengeance ne viendra que lorsque le temps de la grâce sera terminé. Ainsi Malachie 3.1 se rapporte assurément à Sa première venue, alors que Malachie 4.5 et la deuxième partie du verset 6 se trouvent en rapport avec Sa seconde venue.
 
-### D’UNE IMPORTANCE PARTICULIERE
+### D’une importance particulière
 
 Maintenant la teneur de la commission est de ramener le coeur des enfants de Dieu à la foi des pères apostoliques et ainsi de les tourner à nouveau vers la parole des prophètes. Pour cela un homme est nécessaire, un homme ayant reçu de Dieu une mission particulière, un prophète comme Elie, quelqu’un qui puisse produire une confirmation dont l’authenticité ne peut être mise en doute. Deux choses vont le distinguer de tous les autres: Il aura premièrement la Parole de la promesse pour cette heure, et secondement un véritable ministère apostolique de restauration. C’est là la preuve convaincante de son extraordinaire vocation et de sa mission. Par ce moyen l’attention des enfants de Dieu sera dirigée vers le message de l’heure.
 
@@ -309,7 +309,7 @@ Le premier Elie et Jean-Baptiste, lequel est venu dans l’esprit d’Elie, de m
 
 De même que Jean-Baptiste savait exactement que les passages de l’Ecriture se rapportaient à lui, ainsi doit-il en être du prophète promis en ce temps. Sur la base de la révélation divine, il apportera aux hommes la Parole promise pour ce temps et il inclura aussi dans sa prédication les prophéties bibliques telles que Pierre les décrit en disant: “Et nous avons la parole prophétique rendue ferme…” (2 Pier. 1.19). Il doit également avoir l’esprit de la prophétie dont il est question dans Apocalypse 19.10. C’est là qu’il a été dit à l’apôtre Jean: “… je suis ton compagnon d’esclavage et celui de tes frères qui ont le témoignage de Jésus: rends hommage à Dieu, car l’esprit de prophétie est le témoignage de Jésus”. L’esprit de prophétie n’est pas en relation avec le don de prophétie, mais bien davantage avec la Parole de prophétie, et il est, comme nous venons de le lire, le témoignage de Jésus-Christ. Tout ce sujet est d’une si grande importance que personne ne devrait se contenter de simples hypothèses ou de suppositions. Ce qui est en jeu avec cela, c’est l’achèvement de la véritable Eglise de Dieu qui finalement reconnaîtra sa tâche, se placera sur les promesses qui lui ont été données et deviendra une avec Lui. C’est là la véritable unité de l’Esprit!
 
-### DE VERITABLES PROPHETES
+### De véritables prophètes
 
 Les prophètes étaient élus dès le sein de leur mère déjà en vue d’un ministère déterminé (Jérémie 1.5). D’abord on les appelait des “voyants” parce qu’ils avaient des visions (1 Samuel 9.9). La signification de ces visions leur était donnée par une révélation de Dieu (Jérémie 1.11,12). La Parole du Seigneur vint toujours aux prophètes, comme il est écrit dans Nombres 12.6: “Ecoutez mes paroles: S’il y a un prophète parmi vous, moi l’Eternel, je me ferai connaître à lui en vision, je lui parlerai en songe”. C’est pourquoi un véritable prophète est un porte-parole de Dieu, et il peut confirmer ce qu’il a à dire par le “Ainsi dit le Seigneur”. Celui qui reçoit un tel prophète et qui respecte son ministère recevra la
 

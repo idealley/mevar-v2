@@ -184,13 +184,13 @@ bible_refs:
   - "Marc 16"
   - "1 Corinthiens 2"
 ---
-# LE RETOUR DE CHRIST
+# Le retour de Christ
 
 ## Ses différentes venues et les événements qui lui sont liés
 
 *Un exposé du point de vue biblique du Missionnaire Ewald Frank*
 
-### AVANT-PROPOS
+### Avant-propos
 
 Si je me suis décidé à écrire ce traité, c’est pour que beaucoup de croyants puissent avoir une meilleure compréhension de ce sujet difficile mais combien important du retour du Seigneur.
 
@@ -208,7 +208,7 @@ Krefeld, novembre/décembre 1988 L’auteur
 
 ---
 
-## LE RETOUR DE CHRIST
+## Le retour de Christ
 
 ### Ses différentes venues et les événements qui lui sont liés
 
@@ -276,7 +276,7 @@ Dans le christianisme primitif, cette espérance était constamment vivante dans
 
 “… de même aussi dans le Christ tous seront rendus vivants; mais chacun dans son propre rang: les prémices, Christ; puis ceux qui sont du Christ, à sa venue…” (1 Corinthiens 15.22,23).
 
-### CELA S’ACCOMPLIRA REELLEMENT
+### Cela s’accomplira réellement
 
 Le plus grand nombre des passages bibliques que nous avons présentés nous montrent l’importance de l’événement. Malheureusement, très tôt après la mort des apôtres, on commença à interpréter le retour de Jésus-Christ dans le sens spirituel, et cela continua jusqu’à nos jours. Les hommes meurent, mais malheureusement pas les esprits: ils s’emparent d’autres hommes et continuent de répandre les fausses doctrines. On connaît généralement la théorie d’une organisation prétendant que le Royaume de Dieu aurait commencé sur la terre depuis 1914 et qu’il y serait édifié. De semblables doctrines, en relation avec un moment donné que l’on avait déterminé, étaient déjà apparues avant celle-ci et il y en a maintenant encore. Aujourd’hui, par exemple, elles sont répandues sous la formule de Parousie de Christ. Les défenseurs de cette doctrine prétendent que Christ serait déjà venu et qu’Il serait actuellement présent comme Juge. Une fois de plus la venue de Christ est spiritualisée et déclarée être une certaine “révélation”, laquelle serait accordée à un groupe bien déterminé. Chaque fois on a avancé les mêmes prétentions. C’est avec un grand enthousiasme que l’on prêche cela, et les gens ne remarquent pas qu’ils ont à proprement parler dévié de la Vérité et que la bienheureuse espérance leur a été ainsi dérobée.
 
@@ -300,7 +300,7 @@ Lors de Son retour, tous ceux qui Lui appartiennent, qu’ils soient déjà endo
 
 Les élus du temps de l’Ancien Testament sont déjà ressuscités avec Christ (Mat. 27.51-53). “Et tous ceux-ci, ayant reçu témoignage par la foi, n’ont pas reçu ce qui avait été promis, Dieu ayant en vue quelque chose de meilleur pour nous, afin qu’ils ne parviennent pas à la perfection sans nous” (Hébreux 11.39,40). C’est pourquoi ils attendent dans le paradis, jusqu’à ce que l’heure de l’achèvement soit venue pour tous, et alors, avec les saints du Nouveau Testament, ils prendront part au Repas des Noces. C’est à cela que se rapporte notre Seigneur lorsqu’Il dit dans Matthieu 8.11: “Et je vous dis que plusieurs viendront d’orient et d’occident, et s’assiéront avec Abraham et Isaac et Jacob dans le royaume des cieux”.
 
-### ASPIRATION REALISEE
+### Aspiration réalisée
 
 “Car la vive attente de la création attend la révélation des fils de Dieu… et non seulement elle, mais nous-mêmes aussi qui avons les prémices de l’Esprit, nous aussi, nous soupirons en nous-mêmes, attendant (la réalisation de) l’adoption, la délivrance de notre corps” (Romains 8.19,23).
 
@@ -320,7 +320,7 @@ Jésus-Christ, le Fils de Dieu, qui fut crucifié et mis dans un tombeau, est re
 
 Comme nous l’avons déjà fait remarquer, le retour de Jésus-Christ n’est pas une pieuse illusion, mais bien un grand événement qui sera accompagné de signes visibles. Pour les uns ce sera aussi une amère réalité, comme il est écrit dans Luc 17.34-36: “Je vous dis qu’en cette nuit là, deux seront sur un même lit, l’un sera pris et l’autre laissé; deux femmes moudront ensemble, l’une sera prise et l’autre laissée; deux seront aux champs, l’un sera pris et l’autre laissé”.
 
-### LE CRI DE COMMANDEMENT
+### Le cri de commandement
 
 Selon 1 Thessaloniciens 4.16, lors du retour du Seigneur trois choses arriveront: Son cri de commandement sort, une voix d’archange retentit, et la trompette de Dieu sonne. Cela arrive lorsque le Seigneur descend du Ciel pour attirer les Siens à Lui. La rencontre de l’Epoux et de l’Epouse n’a pas lieu sur la terre, mais bien dans les airs (1 Thess. 4.17).
 
@@ -348,7 +348,7 @@ Jean-Baptiste, qui s’est avancé comme précurseur de la première venue du Se
 
 L’appel à sortir, le cri de réveil et la préparation doivent avoir lieu avant la venue du Seigneur. L’apôtre Jean vit l’Epouse en vision et il écrivit: “Réjouissons-nous et tressaillons de joie, et donnons-lui gloire; car les noces de l’Agneau sont venues; et sa femme s’est préparée…” (Apocalypse 19.7).
 
-### LA VOIX D’UN ARCHANGE
+### La voix d’un archange
 
 La mention de la voix d’un archange, dans 1 Thessaloniciens 4.16, a une importance toute particulière. “Ne sont-ils pas tous des esprits administrateurs envoyés pour servir en faveur de ceux qui vont hériter du salut?” Voilà ce qui est écrit dans Hébreux 1.14. Lors de l’enlèvement, le Sauveur prend à Lui ceux qu’Il a rachetés, et Satan, avec tous ceux qui le suivent, est précipité sur la terre. Cela arrive comme Jean l’a vu en vision: “Et il y eut un combat dans le ciel: Michel et ses anges combattaient contre le dragon. Et le dragon combattait, et ses anges; et il ne fut pas le plus fort, et leur place ne fut plus trouvée dans le ciel. Et le grand dragon fut précipité, le serpent ancien, celui qui est appelé diable et Satan (l’adversaire), celui qui séduit la terre habitée tout entière, il fut précipité sur la terre, et ses anges furent précipités avec lui” (Apocalypse 12.7-9).
 
@@ -368,7 +368,7 @@ Dans Matthieu 22 nous avons la description de la salle des Noces remplie d’inv
 
 Il est dit de la troupe des vainqueurs: “… et eux l’ont vaincu à cause du sang de l’Agneau et à cause de la parole de leur témoignage; et ils n’ont pas aimé leur vie, même jusqu’à la mort” (Apocalypse 12.11). Une réelle marche à la suite de Jésus place les véritables enfants de Dieu dans les empreintes de Jésus-Christ, notre Sauveur, de telle manière que cette parole s’accomplit littéralement: “Car nul de nous ne vit ayant égard à lui-même, et nul ne meurt ayant égard à lui-même: mais soit que nous vivions, nous vivons ayant égard au Seigneur, soit que nous mourions, nous mourons ayant égard au Seigneur” (Romains 14.7,8). Paul, ainsi que tous ceux qui moururent avec Christ par la foi, pouvait dire: “Et je ne vis plus, moi, mais Christ vit en moi” (Galates 2.20). Il ne suffit pas de prêcher, ou de parler de ces choses, mais il faut que cela devienne vrai dans la vie de ceux qui veulent entrer dans la gloire.
 
-### LA TROMPETTE
+### La trompette
 
 La trompette qui retentira lors de la venue du Seigneur, conformément à 1 Thessaloniciens 4.16, est désignée comme étant la Trompette de Dieu. Lors de certaines circonstances, il était d’usage dans l’Ancien Testament de sonner de la trompette. Lorsque le Seigneur descendit sur la montagne du Sinaï, le peuple vit les flammes et les éclairs, il entendit le roulement du tonnerre ainsi que le retentissement puissant des trompettes (Exode 20.18). Le Jubilé, qui est aussi connu comme “l’année du retentissement du cor”, était introduit le jour des expiations par le son bruyant de la trompette (Lévitique 25.8-12).
 
@@ -378,7 +378,7 @@ Jésus-Christ revient avec un cri de commandement accompagné de la voix de l’
 
 Le retour du Seigneur aura lieu comme un éclair, c’est-à-dire subitement, en un clin d’oeil. Celui qui sera réellement prêt à ce moment-là sera changé et enlevé dans la gloire. De même qu’Hénoc, le septième après Adam, fut enlevé et ne fut plus trouvé sur la terre, ainsi, à la fin des sept âges de l’Eglise, ceux qui font partie de l’Epouse seront enlevés et ne se trouveront plus sur la terre.
 
-### LA CONDITION
+### La condition
 
 La condition pour atteindre ce but si élevé est donnée clairement dans la parole suivante: “Et si l’Esprit de celui qui a ressuscité Jésus d’entre les morts habite en vous, celui qui a ressuscité le Christ d’entre les morts vivifiera vos corps mortels aussi, à cause de son Esprit qui habite en vous” (Romains 8.11). Il ne s’agit pas ici d’une onction de l’Esprit, que peut-être des millions de personnes ont, mais bien d’une “habitation intérieure”. Le mot “si” est d’une grande importance. Si l’Esprit, et avec cela Sa puissance, habite en nous, c’est-à-dire demeure en nous, cela arrivera, sinon pas. Conformément aux Paroles de notre Seigneur, il y aura juste avant Son retour beaucoup de faux christs, c’est-à-dire de faux oints, qui feront de grands signes et des miracles, qui auront un ministère “oint”, mais qui, dans les doctrines fondamentales, auront les mêmes racines que le faux prophète (Mat. 24).
 
@@ -653,7 +653,7 @@ comme “serviteurs” et “servantes”. Sans aucun doute l’expression “co
 signifie ici les 144 000 qui sont venus à la foi par le ministère des deux prophètes, et qui pendant
 les trois ans et demi de la grande tribulation sont poursuivis et mis à mort par l’Antichrist.
 
-    LA RETRIBUTION
+## La rétribution
 
    “Et aussitôt après la tribulation de ces jours-là, le soleil sera obscurci, et la lune ne donnera pas
 sa lumière (Ésaïe 13.10; Joël 3.3-5; Apocalypse 6.12-17), et les étoiles tomberont du ciel, et les

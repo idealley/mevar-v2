@@ -78,7 +78,7 @@ PAR
 
 WILLIAM MARRION BRANHAM
 
-# SOIF
+# Soif
 
 (Thirst)
 

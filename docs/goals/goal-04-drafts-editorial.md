@@ -35,8 +35,10 @@ that was read is simply not there). Titles and subtitles are irregular
   followed by nothing else in the quote. The reference goes in the sentence
   that introduces the reading, in canonical form ("Genèse 25:1-10").
 - Short inline quotations stay inline, in « guillemets ».
-- No section headings inside a sermon. The preacher's key sentences may be
-  bold; do not add bold that a reader of the other sermons would not expect.
+- No section headings inside a sermon, except a line that already stands
+  alone as a section title, which becomes `##` or `###` in sentence case
+  (goal 18, Samuel 2026-09-29). The preacher's key sentences may be bold;
+  do not add bold that a reader of the other sermons would not expect.
 - Titles: sentence case, French typography (espace insécable before ! ? : ;),
   curly apostrophes as in the published titles.
 
@@ -46,7 +48,7 @@ that was read is simply not there). Titles and subtitles are irregular
    agreement slips of the transcriber ("Dieu a vue" becomes "Dieu a vu"),
    punctuation, spacing, paragraph breaks, quotation layout. Not allowed:
    rephrasing, cutting repetitions or "Amen !", smoothing oral style,
-   adding headings or summaries. If a sentence is unintelligible, leave it
+   adding headings (beyond goal 18's rule) or summaries. If a sentence is unintelligible, leave it
    and list it in the report.
 2. **Scripture text comes from the data, never from model memory.** Use the
    Louis Segond text seeded by `scripts/110-seed-bible-text.mjs` (the

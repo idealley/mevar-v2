@@ -56,7 +56,7 @@ bible_refs:
   - "Matthieu 15:1-9"
   - "Apocalypse 3:14"
   - "Actes 19"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 **JOYEUX ANNIVERSAIRE**
 
@@ -112,7 +112,7 @@ Je vous adresse la prédication intitulée « Les Prisonniers de la religion�
 
 **Fr M’BRA Parfait**
 
-**Les prisonniers de la religion**
+## Les prisonniers de la religion
 
 **Prêché à So-Chanwé le 14 janvier 2007**
 

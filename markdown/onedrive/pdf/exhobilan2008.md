@@ -83,11 +83,11 @@ bible_refs:
   - "1 Rois 19"
   - "2 Rois 9:7-8"
   - "2 Rois 9:30-37,10"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
-**APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE**
+## Appel à la guerre – appel au combat contre Babylone
 
-**2009 – ANNÉE DE CAMPAGNE**
+### 2009 – année de campagne
 
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site, en cette fin d’année, par cette Parole d’introduction de notre Seigneur à Ses disciples :
 
@@ -131,7 +131,7 @@ En effet, les frères ont cru qu’on pouvait vivre la foi sans les dons du Sain
 
 Lorsque nous nous sommes engagés dans l’œuvre du réveil, les premières effusions de l’Esprit que nous avons expérimentées ont restauré les dons de l’Esprit en notre milieu. C’est avec l’évolution dans le combat spirituel que j’ai compris pourquoi le Seigneur avait restauré ces dons. **En effet, il le fallait pour prévenir les assauts de l’adversaire et dévoiler les secrets des cœurs parce que ces dons contribuent énormément à la sanctification du peuple de Dieu**.
 
-**ATTAQUE CONTRE LE MOUVEMENT**
+## Attaque contre le mouvement
 
 Lorsque le diable a décidé d’attaquer le mouvement du réveil, il a commencé par les dons du Saint-Esprit parce qu’il savait que c’était par ces dons que ses secrets étaient dévoilés ; il fallait donc détruire les services de renseignement en notre milieu. Pour parvenir à ses fins, il a d’abord jeté une grande lourdeur sur le mouvement après la Convention de mars. **Cette lourdeur est venue parce que les décisions prises dans la chaîne de prière ont été mal exploitées**. Nous avons demandé à chaque Cellule d’instaurer une chaîne de prière interne à chaque pays pour mener des combats sur des sujets particuliers. À cause de cela, on a réduit les activités de la chaîne de prière internationale. **Mais nous avons constaté que les Cellules se sont affaiblies parce que les chaînes de prière internes n’ont pas bien fonctionné**. Tout cela était le plan de Satan qui avait décidé de visiter tous les pays engagés dans le réveil.
 
@@ -145,7 +145,7 @@ J’étais tellement accablé par ce problème que je ne savais quoi faire. J’
 
 Lorsque nous avons lancé l’offensive sur la RDC, nous avons pris un moment de jeûne. C’est là dans la prière et le jeûne que le Seigneur m’a révélé que notre mouvement avait un problème. J’avais vu un petit garçon qui semblait être mon fils, qui faisait les quatre pattes pour venir vers moi, mais il avait des boutons partout sur son corps ; il était malade. **L’Esprit par là m’avait dit que le réveil était certes né, mais était un mouvement malade, qui était encore dans la souillure et le péché. J’ai continué à jeûner et à chercher la face du Seigneur ; c’est alors que le Seigneur m’a demandé de convoquer les serviteurs de Dieu pour pratiquer le jeûne d’Esther**. C’est ce que nous avons fait à Abidjan. Dans nos prières, pendant les trois jours de jeûne, nous avons demandé à Dieu de purifier Son œuvre. Nous Lui avons demandé que Son œuvre vive devant Sa face. Au sortir des moments de prière, nous avons eu des visions et des songes qui ont attesté que nos prières avaient été entendues. Nous avons vu le même petit garçon purifié et guéri. **C’est en ce moment que Dieu va nous révéler qu’il y avait des frères qui étaient avec nous dans cette œuvre et qui n’avaient pas abandonné le péché ; c’était leurs œuvres qui souillaient encore le mouvement**.
 
-**LES DÉPARTS EN NOTRE MILIEU**
+## Les départs en notre milieu
 
 Notre Seigneur avait décidé que ceux-là ne soient plus en notre milieu et Il nous l’a annoncé par prophétie : « Ainsi dit le Seigneur, Mon héritage ne sera pas profané, Mon héritage ne sera pas profané, **Je chasserai du milieu de vous les orgueilleux et les cupides. Partout où ce Message ira, dites que Mon héritage ne sera pas profané, Je chasserai du milieu de vous les orgueilleux et les cupides**. J’ai parmi vous Mes captifs que j’utiliserai pour faire paraître Ma gloire. »
 
@@ -161,7 +161,7 @@ En ce qui concerne l’affaire de notre Assemblée de Koumassi, le Seigneur a r�
 
 **En dehors des attaques généralisées, des frères individuellement ont été attaqués dans leurs foyers, dans leurs affaires et dans leurs Ministères**. Nous avons beaucoup souffert, mais c’était le plan de Dieu pour nous affermir et pour nous édifier sur le fondement où nous avons été placés. Chacun devrait tenir ferme et c’est ce que nous avons fait par la grâce de Dieu.
 
-**LES LEÇONS DE L’ATTAQUE**
+## Les leçons de l’attaque
 
 Cette attaque de l’adversaire contre l’œuvre du réveil m’a personnellement fait beaucoup de bien spirituel et m’a enseigné beaucoup de leçons. **Pendant cette année, j’ai vu les entrailles de Satan et j’ai compris que nous étions engagés dans une œuvre très sérieuse**. Le Seigneur Dieu prend cette œuvre très au sérieux. Satan aussi multiplie les attaques contre nous pour disperser le mouvement. **Nous avons compris que le diable brise les rassemblements de croyants de plusieurs manières, parce qu’il vient toujours construire sa chapelle là où Dieu commence à travailler**. Le diable procède toujours ainsi ; il vient construire sa chapelle là où Dieu commence à travailler et l’objectif est de détruire l’œuvre de Dieu. **Nous avons compris que le diable se révèle dans les prophéties, dans les visions et les songes. Satan peut multiplier les songes dans un milieu pour créer la panique et cultiver les soupçons et les médisances en vue de briser la communion fraternelle**.
 
@@ -183,9 +183,9 @@ En effet, nous avons reçu le pouvoir de chasser les démons ; nous avons reç
 
 **En cette fin d’année, le Seigneur m’a révélé que les épreuves que nous avons connues nous ont amenés à dévier quelque peu de la vision initiale du réveil. Nous avons reçu à cet effet que le diable voulait nous donner un faux réveil**. Alors j’ai convoqué les frères et sœurs à des séances de jeûne et de prière. **Le sujet principal était que Dieu nous ramène de nos égarements**. Nous avons associé la chaîne de prière internationale à ce moment de prière parce que les attaques ont eu lieu partout. **C’est après ces moments de prière que notre vision a été recadrée comme au commencement. Depuis lors, les prières d’intercession en faveur du réveil ont sérieusement repris en notre milieu chaque samedi, parce que nous avons reçu du souffle pour les prières et les jeûnes**.
 
-**LES DIRECTIVES DE FIN D’ANNÉE**
+## Les directives de fin d’année
 
-**Parole de consolation**
+### Parole de consolation
 
 > **J’ai vu la souffrance de mon peuple** qui est en Égypte, et **J’ai entendu les cris que lui font pousser ses oppresseurs**, **car Je connais ses douleurs**. **Je suis descendu pour le délivrer de la main des Égyptiens**… (Exode 3:7-10)
 
@@ -195,7 +195,7 @@ Dans cette situation, la seule chose qu’ils pouvaient faire était de crier à
 
 **Par ces Paroles, le Seigneur m’a fait comprendre que nos pleurs, nos cris et nos larmes qui sont montés vers Lui depuis le commencement de cette œuvre ne sont pas vains ; Il les a entendus et Il vient Lui-même cette année pour nous délivrer de la servitude**. Prenons courage mes frères et sœurs. Cette Parole est vraie pour moi et doit être vraie pour vous, parce que j’ai déjà expérimenté une grande délivrance en fin d’année. Cette année, il y aura un grand changement dans cette œuvre de réveil, parce que nous irons davantage de l’avant. Dieu a entendu nos cris. **En effet, celui qui n’a pas poussé de cris dans la détresse ne doit pas attendre de secours et de délivrance. Mais quiconque a poussé des cris de détresse et de secours auprès de Dieu est en droit d’attendre de Lui la délivrance** ; et c’est l’heure de notre délivrance. Que notre Seigneur qui est notre Secours soit béni !
 
-**2009 – année de campagne**
+### 2009 – année de campagne
 
 > L’année suivante, **au temps où les rois se mettaient en campagne**, Joab à la tête d’une forte armée, **alla ravager le pays des fils d’Ammon et assiéger Rabba**. Mais David resta à Jérusalem. Joab battit Rabba et la détruisit. David enleva la couronne de dessus la tête de son roi et la trouva du poids d’un talent d’or : elle était garnie de pierres précieuses. On la mit sur la tête de David qui emporta de la ville, un très grand butin. **Il fit sortir les habitants et les mit aux scies, aux pics de fer et aux haches ; il tua de même toutes les villes des fils d’Ammon**. David retourna à Jérusalem avec tout le peuple… (1 Chroniques 20 : 1-8)
 
@@ -213,13 +213,13 @@ Mes bien-aimés, l’ordre de Mission de Jéhu est notre ordre de Mission pour c
 
 **Mes bien-aimés, cette année est une année de campagne et de vengeance – c’est une année de guerre farouche contre nos ennemis parce que notre Roi va en campagne contre Ses ennemis**. Et les ennemis du Seigneur sont nos ennemis et nos ennemis sont Ses ennemis.
 
-**LES VISIONS PUBLIÉES**
+## Les visions publiées
 
 Au commencement de cette exhortation bilan, je vous ai montré l’importance des visions dans l’Église et surtout dans le combat spirituel. Je vous ai montré que dans ce cadre-là, **les voyants font partie des services de renseignement de Dieu**. Vous avez constaté qu’en cette fin d’année, nous avons commencé à publier une série de visions au sujet du combat que nous menons. Sachez mes chers amis que cela n’est pas simple. Dieu ne s’est pas révélé à ce jeune homme pour un simple plaisir ou pour une simple promenade spirituelle. **En ce qui me concerne, j’accepte les visions et les révélations lorsqu’elles sont en harmonie avec l’orientation du Ministère que le Seigneur m’a donné**. Toutes les visions que nous publions en ce moment sont en relation avec la volonté de Dieu à cette heure. Nous ne nous concertons pas pour avoir des révélations.
 
 **En effet, Dieu nous a révélé ici à Abidjan qu’Il a entendu nos cris et qu’Il vient nous délivrer. Il nous a aussi dit qu’Il se met en campagne contre Ses ennemis**. Si vous avez bien compris cela, lisez cette vision du 2 décembre 2008 reçue à Pointe Noire et vous verrez que c’est le même Seigneur qui s’est révélé à notre frère. **N’oubliez pas la vision de frère Branham concernant l’Épouse de la fin**. Les belles jeunes filles qu’il a vues sont devenues une armée et il leur a été dit : **En avant soldats de Christ** ! Et moi, le Seigneur Jésus-Christ m’a dit : **Ton Ministère va révéler l’Épouse et ça sera une grande Armée** ! Je n’oublierai jamais cela, car l’heure est à la guerre.
 
-**Vision du 2 décembre 2008**
+### Vision du 2 décembre 2008
 
 > Ce matin, je dormais et j’ai senti comme si on m’appelait pour aller à l’écart pour prier. Je me suis levé et sorti. Je suis allé dans la forêt, chose curieuse, quand je marchais, je voyais un homme devant moi. Aussitôt arrivé au lieu où je devais commencer ma prière, quelqu’un m’a dit : **Adam, regarde en haut**. J’ai regardé mais je n’ai rien vu, quelques instants après, j’ai vu le ciel s’ouvrir. **Aussitôt est sorti un cheval blanc et sur ce cheval, un homme y était assis**. On me dit : **Vous avez vu celui qui vient pour la dernière bataille** ? C’est lui qui vient pour vous délivrer des mains du diable. Dis à Mon peuple sur terre, ainsi parle le Très-Haut, **qu’ils suivent cet homme et restent derrière Lui ; car Il vient pour vaincre le diable et tous vos ennemis sur terre**.
 >
@@ -233,7 +233,7 @@ Au commencement de cette exhortation bilan, je vous ai montré l’importance de
 >
 > À la suite de cette voix, ceux qui étaient derrière l’homme sur le cheval disaient : **En avant soldat ! En avant soldat** !… Et on me dit : Tu as entendu cette chanson ? J’ai dit : Oui ! Et on m’a posé la question : Est-ce que tu comprends ? J’ai dit : Non ! Et on me dit : Va sur terre et **dis au peuple d’être en rang comme des soldats en ce moment**, afin d’aller de l’avant. **Que personne ne s’écarte et ne recule des rangs**. Dis-leur que ; **quels que soient les dires des hommes sur terre et les épreuves qu’ils peuvent traverser, qu’ils demeurent dans la foi, car leur récompense est plus grande dans les cieux, qu’ils soient en communion les uns les autres** ; maintenant vas ! »
 
-**NOUVELLE ORIENTATION DE LA CHAÎNE DE PRIÈRE**
+## Nouvelle orientation de la chaîne de prière
 
 **Compte tenu de l’orientation de l’œuvre à cette heure, nous réactivons la chaîne de prière internationale à partir de maintenant**. Je demande à tous les frères responsables des Cellules de prière de la chaîne de prendre toutes les dispositions à cet effet. Que chacun choisisse son heure de prière. Nous consacrerons **tous les samedis** au jeûne et à la prière d’intercession dans toutes les Cellules. Les sujets de prière seront continuellement donnés.
 
@@ -245,7 +245,7 @@ Mes bien-aimés, soyez courageux et pleins de foi dans notre Seigneur Jésus-Chr
 
 **Fr M’BRA Parfait**
 
-**SUJETS DE PRIÈRES**
+## Sujets de prières
 
 **1. Prions le Seigneur notre Dieu de nous donner la force et le courage de nous mettre en campagne contre nos ennemis**.
 

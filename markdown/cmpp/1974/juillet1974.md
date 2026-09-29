@@ -54,9 +54,9 @@ bible_refs:
 ---
 > “Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE
+# Lettre circulaire
 
-## JUILLET 1974
+## Juillet 1974
 
 Je vous salue tous cordialement, dans le précieux Nom de Jésus, par ces paroles de Jacques 5.7-11:
 
@@ -132,7 +132,7 @@ Unis dans l’amour reconnaissant
 
 ---
 
-## EDITORIAL
+## Éditorial
 
 > “Car ce n’est rien que d’être circoncis Ou incirconcis; ce qui est quelque chose, C’est d’être une nouvelle créature. Paix et miséricorde sur tous ceux Qui suivront cette règle, Et sur l’Israël de Dieu!” (Galates 6.15,16).
 

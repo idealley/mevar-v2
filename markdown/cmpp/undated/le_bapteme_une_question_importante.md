@@ -63,7 +63,7 @@ bible_refs:
   - "Actes 11"
   - "Jean 17"
 ---
-## LE BAPTEME? UNE QUESTION IMPORTANTE!
+## Le baptême? Une question importante!
 
 **Chez les Juifs:**
 Paroles: ils confessent un Dieu unique.
@@ -125,7 +125,7 @@ Encyclopédie britannique (Vol. 3, p. 365-366): le “un en trois personnes”, 
 
 ---
 
-## LE BAPTEME DANS L’EAU
+## Le baptême dans l’eau
 
 Bureau d’information Washington, D.C.
 

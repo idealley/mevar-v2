@@ -80,9 +80,9 @@ bible_refs:
   - "Éphésiens 4"
   - "Matthieu 25"
 ---
-# LA NOUVELLE NAISSANCE
+# La nouvelle naissance
 
-## A QUOI SERT LA NOUVELLE NAISSANCE?
+## À quoi sert la nouvelle naissance?
 
 C’est une question qui nous a été posée et qui vaut la peine d’être considérée, car toutes les exigences de l’Ecriture ont une signification importante et des conséquences profondes pour le bonheur des âmes. En effet, l’Eternel, le Dieu de la Bible, nous a créés à Son image et Il est venu en Son Fils seul engendré, Jésus-Christ, nous racheter de la perdition. Cette question dans la bouche de celui qui commence à marcher avec foi dans les Paroles de la Bible est compréhensible parce qu’il désire être assuré de bien comprendre les choses de la Vie éternelle, ainsi que toute Parole inspirée par le Créateur des Cieux et de la terre. Il faut qu’il reconnaisse également l’importance de recevoir cette Parole de tout son coeur afin de La mettre en pratique dès qu’il a reconnu que Celui qui parle, l’Auteur de la Bible, est le seul Dieu Vivant. C’est Lui qui est Son Père céleste, la seule Source de toute vie sur la terre et dans les Cieux.
 
@@ -106,7 +106,7 @@ Le Seigneur Jésus édifie Son Corps sur la révélation de ce qu’Il est dans 
 
 Le fait qu’un croyant reçoit cette révélation d’en haut, que ce Jésus de Nazareth est le Christ, le Fils du Dieu Vivant, est la raison qui permet à l’Esprit de Christ de poursuivre l’édification de cette personne dans la foi véritable, pour la placer dans l’édifice, le Temple du Corps de Christ, qui sera achevé lorsque Jésus présentera à ce monde Son Epouse parvenue à la perfection comme il est écrit dans les Ephésiens 5.27: “Afin que lui se présentât l’assemblée à lui-même, glorieuse, n’ayant ni tache, ni ride, ni rien de semblable, mais afin qu’elle fut sainte et irréprochable”.
 
-## Y A-T-IL DES ETAPES POUR NAITRE DE NOUVEAU?
+## Y a-t-il des étapes pour naître de nouveau?
 
 Certainement! Lorsque un croyant est touché par la révélation de Jésus, qu’il découvre qui Il est véritablement, son développement spirituel dépend dès lors de son engagement. En fait c’est Lui, Jésus, qui l’appelle personnellement lorsqu’Il dit: “Venez à moi, vous tous qui vous fatiguez et qui êtes chargés, et moi je vous donnerai du repos” (Mat. 11.28). Remarquez qu’à l’origine, Jésus n’avait pas adressé ces paroles à des païens, mais bien à des fils d’Abraham, à des gens religieux. Et aujourd’hui encore cet appel à venir à Lui s’adresse tout particulièrement à des gens qui ont une religion, mais qui n’ont pas une relation véritable avec Lui, la Parole faite chair, qui est à nouveau révélée à cette génération par le Message du Dieu de la Bible. Jésus est véritablement “… le premier et le dernier, et le vivant; et j’ai été mort (dit-Il); et voici, je suis vivant aux siècles des siècles” (Apocalypse 1.17-18). C’est Lui qui a manifesté Sa présence sur cette terre, dans notre génération, car Dieu, par le ministère du Fils de l’homme qui animait le prophète de cet âge, a accompli la parole de Malachie 4.5-6: “Voici, je vous envoie Elie, le prophète… Et il fera retourner… le coeur des fils vers leur pères…”. C’est-à-dire qu’au travers de ce Message, Dieu a cherché à ramener nos coeurs à la foi en Jésus, cette foi que nos pères apostoliques possédaient. Aujourd’hui, le Seigneur Jésus adresse le même appel “Venez à moi!” à ceux auxquels Il désire se révéler, en faisant la même promesse de les conduire dans le repos, c’est-à-dire dans une vie dirigée par le Saint-Esprit et non plus dans une vie où ils sont menés par l’esprit de ce monde comme des esclaves de la chair et de ses convoitises. “Christ donc ayant souffert pour nous dans la chair, vous aussi, armez-vous de cette même pensée, que celui qui a souffert dans la chair s’est reposé du péché, pour ne plus vivre le reste de son temps dans la chair pour les convoitises des hommes, mais pour la volonté de Dieu” (1 Pier. 4.1-2).
 

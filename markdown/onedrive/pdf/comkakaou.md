@@ -44,7 +44,7 @@ bible_refs:
   - "Matthieu 25:6"
   - "2 Thessaloniciens 2:9-12"
   - "Jean 4:5-6"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes chers amis chrétiens ivoiriens, depuis quelques années, un Monsieur se nommant **KACOU Philippe** prétend avoir reçu des révélations de la part de Dieu et se dit avoir reçu de Lui, un message à adresser à la chrétienté. Ce message dit que toutes les versions de la Bible qui ne sont pas la version de Darby sont à brûler parce qu’elles seraient des canaris de fétiches. Ce message dit encore que tous les chrétiens doivent être rebaptisés dans le nouveau baptême « **pour la restitution** ». Ce message dit que ce Monsieur KACOU Philippe est le dernier Messager de Dieu sur la terre et que tout le monde doit se conformer à son message pour être appelé chrétien aujourd’hui et que celui qui ne croit pas au message de ce Monsieur n’est pas chrétien.
 
@@ -76,7 +76,7 @@ Selon les déclarations de l’apôtre Paul qui fut à l’origine de la doctrin
 
 Dans notre génération, c’est le prophète William Branham qui a reçu et prêché ce Message de l’enlèvement **au temps du Soir**. Alors toutes les vierges qui ont reçu le Message au temps du Soir sont les mêmes qui ont continué leur marche jusqu’à s’endormir en chemin selon le verset 5 : « **Comme l’époux tardait, toutes s’assoupirent et s’endormirent** ». Ce sont encore les mêmes vierges qui se sont réveillées au Cri de Minuit et qui ont repris la marche vers le Seigneur.
 
-**REMARQUES IMPORTANTES**
+## Remarques importantes
 
 1. Entre le temps du Soir et l’heure de Minuit, le statut de virginité des jeunes filles est resté le même.
 

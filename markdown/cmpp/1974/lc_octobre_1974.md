@@ -45,9 +45,9 @@ bible_refs:
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE
+# Lettre circulaire
 
-## OCTOBRE 1974
+## Octobre 1974
 
 Je vous salue tous cordialement dans le précieux Nom de notre Seigneur par cette parole de Tite 1.1-3:
 
@@ -91,7 +91,7 @@ Agissant de la part de Dieu.
 
 ---
 
-## EDITORIAL
+## Éditorial
 
 > “Et il a donné les uns… pour le perfectionnement des saints en vue de l’oeuvre du ministère et de l’édification du corps de Christ, jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ,…” (Ephésiens 4.11-13).
 

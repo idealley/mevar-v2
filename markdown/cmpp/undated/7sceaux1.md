@@ -53,7 +53,7 @@ bible_refs:
 ---
 BROCHURE N° 1
 
-# RÉVÉLATION DES SEPT SCEAUX
+# Révélation des sept sceaux
 
 PAR
 
@@ -61,11 +61,11 @@ WILLIAM MARRION BRANHAM
 
 ---
 
-## DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ
+## Dieu caché et révélé dans la simplicité
 
-### LA RÉVÉLATION DES SEPT SCEAUX — DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ
+### La révélation des sept sceaux — Dieu caché et révélé dans la simplicité
 
-### INTRODUCTION
+### Introduction
 
 > “Voici, je vous enverrai Elie, le prophète, avant que le jour de l’Éternel arrive, ce jour grand et redoutable. Il ramènera le coeur des pères à leurs enfants, et le coeur des enfants à leurs pères, de peur que je ne vienne frapper le pays d’interdit”.
 > — Malachie 4.5,6
@@ -85,7 +85,7 @@ Billy Paul BRANHAM
 
 ---
 
-## DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ
+## Dieu caché et révélé dans la simplicité
 
 ### (God Hiding Himself In Simplicity)
 

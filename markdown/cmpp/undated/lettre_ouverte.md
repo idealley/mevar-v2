@@ -186,7 +186,7 @@ Toute autre discussion sur ce thème est superflue. Nous pouvons être certains 
 
 > “Et l’ange qui parlait avec moi me dit: Crie, et dis: Ainsi parle l’Eternel des armées: Je suis ému d’une grande jalousie pour Jérusalem, et pour Sion, et je suis saisi d’une grande irritation contre les nations orgueilleuses; car je n’étais que peu irrité, mais elles ont contribué au mal. C’est pourquoi ainsi parle l’Eternel: Je reviens à Jérusalem avec compassion, ma maison y sera rebâtie, et le cordeau sera étendu sur Jérusalem. Crie de nouveau, et dis: Ainsi parle l’Eternel des armées: Mes villes auront encore des biens en abondance; l’Eternel consolera encore Sion, il choisira encore Jérusalem” (Zacharie 1.14-17).
 
-RESULTAT
+## Résultat
 
 Si tous les participants à cet enjeu, qu’ils soient Juifs, Chrétiens ou Musulmans, se comportaient selon leur foi, cette discussion ne pourrait se faire que dans la perspective d’une extension des territoires pour Israël.
 

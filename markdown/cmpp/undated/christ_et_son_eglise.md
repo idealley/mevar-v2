@@ -127,9 +127,9 @@ bible_refs:
   - "Amos 8"
   - "Jude 1"
 ---
-# CHRIST ET SON EGLISE DANS LA PROPHETIE
+# Christ et son Église dans la prophétie
 
-## INTRODUCTION
+## Introduction
 
 Le but de cet exposé est de centrer notre attention sur Christ et Son Eglise dans la prophétie. Dès le commencement des temps, des hommes de Dieu ont consigné les actes sacrés accomplis par le Tout-Puissant. Ils ont rendu témoignage de ce qu’ils avaient vu, entendu et expérimenté. De tels témoignages se trouvent aussi bien dans l’Ancien Testament que dans le Nouveau.
 
@@ -151,7 +151,7 @@ L’auteur
 
 ---
 
-# CHRIST ET SON EGLISE DANS LA PROPHETIE
+# Christ et son Église dans la prophétie
 
 En vérité, c’est un temps glorieux dans l’histoire de l’humanité. Dans tous les domaines, de nouvelles découvertes sont faites. D’énormes progrès ont été réalisés, et des choses incroyables se sont accomplies. Plus rien ne semble impossible. Cette génération a été témoin de la transition entre les jours des chars et des chevaux, et l’âge spatial. Chacun s’efforce de marcher avec son temps. Mais la grande question est celle-ci: Sommes-nous de notre temps dans les choses du Royaume de Dieu? Qu’en est-il de notre progrès spirituel? Suivons-nous le mouvement du Saint-Esprit, alors que le Seigneur est sur le point de nous prendre dans les lieux les plus élevés?
 
@@ -187,7 +187,7 @@ Nous devons tous nous abstenir de présenter une interprétation particulière, 
 
 Laissons la Bible être notre seule autorité et notre seul guide dans toutes les choses scripturaires. Lorsque nous avons à faire à la Parole de la prophétie, nous nous avançons sur un lieu saint. Enlevons simplement nos souliers, tandis que le Seigneur parle.
 
-## CHRIST SOUS SES DIFFERENTS ASPECTS
+## Christ sous ses différents aspects
 
 La Parole de Dieu nous fait voir le Seigneur Jésus-Christ dans plusieurs de Ses différents titres et fonctions lorsqu’Il Se manifeste Lui-même dans le plan de la rédemption. Il est vu comme L’Agneau de Dieu qui ôte le péché du monde (Jean 1.29). Il est le Souverain Sacrificateur, qui est entré dans le lieu très saint avec Son propre Sang (Hébreux 9.11,12). Il est le Seul médiateur entre Dieu et les hommes (1 Timothée 2.5), l’Avocat qui intercède pour nous (1 Jean 2.1). Il est le Lion de la tribu de Juda (Apocalypse 5.5), le Roi des rois, le Seigneur des seigneurs (Apocalypse 19.16). Il est le tout en tous pour les croyants, Dieu manifesté en chair (1 Timothée 3.16). Il est le Fils de Dieu, le Fils de l’homme, et le Fils de David.
 
@@ -217,7 +217,7 @@ De même que, lors de la première venue de Christ, les théologiens donnèrent 
 
 Prenons garde à l’avertissement que Pierre nous a donné sous l’inspiration du Saint-Esprit: “… sachant tout d’abord vous-mêmes qu’aucune prophétie de l’Ecriture ne peut être un objet d’interprétation particulière,…” (2 Pier. 1.20).
 
-## LA VISION DE PATMOS
+## La vision de Patmos
 
 Alors que Jean se trouvait dans l’île de Patmos, il fut ravi en esprit, et le Seigneur lui fit voir en symboles la partie prophétique du plan du salut. Il vit les âges de l’Eglise, ainsi que tout ce qui devait arriver jusqu’à la fin des temps. Il vit même les nouveaux cieux et la nouvelle terre.
 
@@ -247,7 +247,7 @@ Les discussions et les disputes relatives au manger et au boire, ainsi que celle
 
 Jean fut ravi en esprit dans un but plus grand que de commémorer un jour de vingt-quatre heures. Il vit le développement des temps, et les choses importantes qui devaient arriver. Le même glorieux Saint-Esprit, qui avait montré ces choses à Jean, les a révélées maintenant au travers du ministère prophétique.
 
-## POUR MONTRER A SES SERVITEURS…
+## Pour montrer à ses serviteurs…
 
 Le Dieu Tout-Puissant n’a jamais manqué de donner des directives claires à Son peuple; Il l’a fait en envoyant Ses messagers, les serviteurs et prophètes, avec une parole spéciale pour le temps dans lequel ils vivaient. En période d’abondance, si le peuple de Dieu oubliait le Seigneur et ne marchait pas dans Ses sentiers, Dieu lui envoyait un message pour l’avertir avant que le jugement ne l’atteignît. “L’Eternel envoya parmi eux des prophètes pour les ramener à lui, mais ils n’écoutèrent point les avertissements qu’ils en reçurent… Ainsi parle Dieu: Pourquoi transgressez-vous les commandements de l’Eternel? Vous ne prospérerez point; car vous avez abandonné l’Eternel, et il vous abandonnera” (2 Chroniques 24.19,20). De nouveau, les jugements de Dieu sont suspendus sur nos têtes. Quel est donc maintenant le message, avant qu’ils ne nous atteignent.
 
@@ -261,7 +261,7 @@ Tous les membres du Corps de Christ ne peuvent pas être de tels serviteurs de D
 
 Il y a une grande différence entre quelqu’un qui parle de Christ, et Christ qui parle au travers d’un prophète, lequel a le “AINSI DIT LE SEIGNEUR!”. Le grand apôtre Paul dit ceci: “Car je ne l’ai ni reçu ni appris d’un homme, mais par la révélation de Jésus-Christ” (Galates 1.12).
 
-## LA VOIX SEMBLABLE A UNE TROMPETTE
+## La voix semblable à une trompette
 
 Toutes les fois que surgissait une occasion spéciale, que quelque chose d’extraordinaire allait arriver, on sonnait de la trompette pour appeler le peuple à se rassembler, que ce soit pour une fête ou une annonce. Lorsque le Seigneur Dieu descendit sur le mont Sinaï pour s’y rencontrer avec Son prophète Moïse qu’Il avait destiné à recevoir Sa Parole pour le peuple d’Israël, il est écrit: “La montagne de Sinaï était toute en fumée, parce que l’Eternel y était descendu au milieu du feu, cette fumée s’élevait comme la fumée d’une fournaise, et toute la montagne tremblait avec violence. Le son de la trompette retentissait de plus en plus fortement. Moïse parlait, et Dieu lui répondait à haute voix” (Exode 19.18,19).
 
@@ -285,7 +285,7 @@ Dans l’Eglise du premier âge, il y avait des apôtres, des prophètes, des do
 
 Dans chacun des sept âges de l’Eglise, il y eut de grands hommes aux yeux du peuple; ils furent sans l’ombre d’un doute employés par Dieu dans différents ministères, mais le choix de Dieu intervint dans chaque âge pour faire paraître le message de l’heure. Pareillement dans notre génération, nous trouvons beaucoup d’évangélistes renommés et éloquents, mais qui est donc le messager auquel la Parole du Seigneur vient aujourd’hui?
 
-## LE FILS DE L’HOMME
+## Le Fils de l’homme
 
 Jésus-Christ est le Fils de Dieu, le Fils de l’homme, et le Fils de David. Chacun de ces titres Le décrit dans l’une de Ses différentes fonctions, et l’un ne peut être mis à la place de l’autre. En rapport avec la Parole prophétique, Il est présenté comme le Fils de l’homme. C’est la raison pour laquelle nous ne le voyons pas comme le Fils de Dieu, ou comme le Fils de David, mais bien comme le Fils de l’homme marchant au milieu des sept chandeliers d’or (Apocalypse 1.13).
 
@@ -753,7 +753,7 @@ puisse identifier les messagers, comme étant les étoiles dans la main droite d
 la gloire du Seigneur, la même Colonne de feu qui était avec les enfants d’Israël, et qui plane
 également sur Son Eglise.
 
-        LES DIFFERENTS AGES
+## Les différents âges
 
    Dans le temps où Jean vit Christ et Son Eglise dans la prophétie, il existait beaucoup
 d’assemblées locales, auxquelles Paul avait adressé ses épîtres. Cependant, le Saint-Esprit

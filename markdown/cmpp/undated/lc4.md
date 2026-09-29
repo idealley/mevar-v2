@@ -101,7 +101,7 @@ Dans Matthieu 25, il nous est dit que toutes les vierges s’endormirent, mais q
 
 Beaucoup de prédicateurs parlent de l’heure de minuit sans comprendre ce qui s’accomplit au temps du soir. Celui qui passe à côté de ce que Dieu fait au temps du soir — tandis que la lumière se lève à nouveau et que les hommes sont tirés de leur sommeil par le message divin — et qui n’entend pas l’appel qui lui est fait de se préparer, c’est à celui-là que l’huile fera défaut, quand l’heure de minuit tombera. Cela ne sert à rien que les prédicateurs, interprétant Matthieu 25 d’une façon particulière, affirment à leurs auditeurs qu’ils seront tous présents lorsque le Seigneur Jésus reviendra, alors qu’ils désignent tous les autres comme étant des vierges folles. Tous, nous devons faire silence, et nous mettre aux pieds de Jésus afin d’entendre clairement Sa voix. Nous avons besoin de l’huile de l’Esprit pour saisir, comme le font des vierges sages, ce que Dieu fait maintenant au temps du soir. Avoir seulement l’éclaircissement nécessaire au salut de notre âme ne suffit pas pour avoir part à l’enlèvement; nous devons voir la lumière de la Parole prophétique, laquelle brille en ce temps, et marcher dans la lumière de la Parole révélée. Si nous sommes enfants de lumière, nous aurons communion avec notre Seigneur glorifié, comme aussi les uns avec les autres.
 
-L’ACTION DE L’ESPRIT DE DIEU DANS L’EGLISE
+## L’action de l’Esprit de Dieu dans l’Église
 
 Nous connaissons tous de quelle manière l’Esprit de Dieu agissait au commencement parmi les croyants. Premièrement, il est indispensable que nous recevions la puissance du Saint-Esprit, que nous soyons baptisés de l’Esprit et de feu, et qu’ainsi, nous recevions une part à tout ce que l’Esprit de Dieu fait maintenant, comme le Seigneur Jésus nous l’a promis.
 
@@ -137,7 +137,7 @@ Au Seigneur soient la louange, l’honneur et l’adoration!
 
 Agissant de la part de Dieu.
 
-EDITORIAL
+## Éditorial
 
 “Ainsi parle le Seigneur, l’Eternel: Il n’y aura plus de délai dans l’accomplissement de mes paroles; la parole que je prononcerai s’accomplira, dit le Seigneur, l’Eternel” (Ezéchiel 12.28).
 

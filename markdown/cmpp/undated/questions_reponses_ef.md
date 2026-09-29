@@ -155,9 +155,9 @@ bible_refs:
   - "1 Jean 2"
   - "1 Jean 4"
 ---
-# DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE
+# Des personnes interrogent… Dieu répond par sa Parole
 
-## EWALD FRANK
+## Ewald Frank
 
 DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 2
 

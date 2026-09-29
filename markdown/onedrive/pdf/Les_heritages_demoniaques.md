@@ -61,7 +61,7 @@ bible_refs:
   - "Genèse 19:33-37"
   - "Daniel 10"
   - "Juges 6:25"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Les héritages démoniaques. **Le but de cette prédication est d’amener les uns et les autres à comprendre par les Écritures que lorsqu’un être humain s’engage dans une alliance, un contrat ou un accord avec un esprit, que ce soit l’esprit de Dieu ou un esprit démoniaque, cette alliance ou cet accord devient un héritage pour sa descendance parce que les esprits ne meurent pas**. Je vais essayer de vous démontrer la pérennité et la validité d’une telle alliance par les Écritures. Je parlerai aussi de la position et de la qualité de celui qui conclut une telle alliance parce qu’il y a un rapport avec les effets. **Celui qui conclut l’alliance peut être un Chef de famille, un Chef de tribu, un Chef d’État ou un Roi** etc. Il peut être dans n’importe quelle position ou avoir n’importe quelle qualité. **Donc l’influence de l’alliance est en fonction de la position du contractant**. Si c’est un père de famille, l’influence de l’esprit avec lequel l’alliance a été conclue reste dans le cadre familial. Si c’est un Chef de tribu ou un roi, l’influence de cet esprit va jouer sur toute la tribu ou sur tous les ressortissants du Royaume. **C’est pour cette raison que tous les peuples n’ont pas les mêmes comportements, ni les mêmes cultures**.
 
@@ -135,7 +135,7 @@ Cette œuvre est pour tous ceux qui croient. **À nous le Seigneur a dit que nou
 
 > **15** Puis il leur dit : Allez par tout le monde, et prêchez la bonne nouvelle à toute la création. **16** Celui qui croira et qui sera baptisé sera sauvé, mais celui qui ne croira pas sera condamné. **17** Voici les miracles qui accompagneront ceux qui auront cru : en mon nom, ils chasseront les démons ; ils parleront de nouvelles langues ; **18** ils saisiront des serpents ; s’ils boivent quelque breuvage mortel, il ne leur fera point de mal ; ils imposeront les mains aux malades, et les malades, seront guéris
 
-**SUJETS DE PRIÈRE DE JUIN**
+## Sujets de prière de juin
 
 Le sujet de notre prière concerne les héritages démoniaques. Les alliances spirituelles contractées par nos pères qui nous influencent encore. Nous aurons notre moment de prière du **28 au 30 juin 2019**. En effet, il existe plusieurs sortes d’héritages spirituels dans la vie du peuple de Dieu. Nous prions pour nous-mêmes et pour nos familles. **En tant qu’héritiers, nous avons le pouvoir de détruire toute alliance spirituelle contractée par nos pères**. **Nous avons également le pouvoir de faire cesser toute malédiction liée à une abomination ou à un péché commis par nos pères**. Par exemple les Moabites sont sous une malédiction à cause de l’abomination que les filles de Lot avaient commise avec leur père. (Gen 19:33-37) Il existe ainsi des familles qui sont dans ces liens. Il y a aussi des héritages d’adoration, de culte qui ont appelé des esprits dans nos parentés. C’est la malédiction. Nous ne pouvons pas être bénis de manière isolée et avoir une parenté placée encore sous la malédiction. Si nous sommes du sel et de la lumière dans ce monde et si le Seigneur nous a suscités dans une famille, nous avons le devoir de nous affranchir et d’affranchir notre parenté.
 

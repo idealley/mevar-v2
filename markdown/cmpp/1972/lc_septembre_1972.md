@@ -65,9 +65,9 @@ bible_refs:
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE
+# Lettre circulaire
 
-## SEPTEMBRE 1972
+## Septembre 1972
 
 Je vous salue cordialement dans le précieux Nom de Jésus, avec ces paroles d’Ésaïe 54.14,15,17:
 
@@ -75,17 +75,17 @@ Je vous salue cordialement dans le précieux Nom de Jésus, avec ces paroles d�
 
 Nous devons être certains de ceci, c’est que Dieu combat pour nous, si nous nous tenons à Ses côtés. Nous nous trouvons en pleine bataille spirituelle; cependant, le Seigneur a déjà vaincu toutes les puissances de l’ennemi. Nous ne devons ni craindre, ni avoir des frayeurs. Nous disons au contraire, pleins d’assurance: “Si Dieu est pour nous, qui sera contre nous? Que peuvent nous faire des hommes?”. Aucune arme forgée contre le peuple de Dieu ne réussira à l’atteindre, et chaque langue qui s’élèvera contre les élus sera convaincue de mensonge. C’est là l’héritage de celui qui croit Dieu de tout son coeur et qui se confie en Lui.
 
-## NOUVELLES DE LA MISSION
+## Nouvelles de la mission
 
 Au cours des mois passés, j’ai à nouveau eu l’occasion de voir comment Dieu accorde à beaucoup de pays un réveil; que ce soit en Finlande, ou en Sicile, en Europe ou sur d’autres continents, partout, des personnes témoignent que par la Parole révélée de Dieu, ils ont reçu la nourriture spirituelle qu’ils attendaient depuis si longtemps. Les prédications de frère Branham sont répandues en diverses langues sous la forme des bandes et des brochures. Dieu veille à ce que Sa parole ne revienne pas à Lui sans effet, et Il la révèle aux Siens par le Saint-Esprit. Les vérités bibliques rayonnent la pleine lumière de Dieu, comme jamais auparavant. Malheureusement, nous n’avons pas la place pour décrire en détail ce que Dieu a fait à un aussi grand nombre de personnes.
 
-## QUESTIONS ET REPONSES
+## Questions et réponses
 
 Ces mois passés, le Seigneur m’a montré la nécessité de présenter, à la lumière des Ecritures, les fondements pour l’édification de la communauté. Parmi les frères, il est fréquemment demandé: «Comment quelqu’un peut-il savoir s’il est appelé à prêcher, et quelles sont ses devoirs dans le Royaume de Dieu; comment les anciens sont-ils institués, et quelles conditions doivent-ils remplir?».
 
 Intentionnellement, jusqu’à présent, je n’ai pas traité de ces questions, parce que je n’avais reçu du Seigneur que la tâche d’aller de ville en ville pour y proclamer la Parole révélée de Dieu. Je n’ai pas reçu l’ordre de fonder des communautés, ni d’établir des anciens. J’ai le sentiment qu’il ne sortira pas de nouveaux dogmes de cette dernière et ultime proclamation de la Parole, mais bien le Corps de Jésus-Christ, dans son ensemble, lequel sera enlevé. Cependant, en considérant les églises existantes, je ne peux me soustraire à la responsabilité de proclamer tout le conseil de Dieu: l’ordre pour l’édification de l’Eglise en fait partie, et je me dois de démontrer comment les différents ministères sont à l’oeuvre dans la communauté.
 
-## L’EGLISE DE JESUS-CHRIST
+## L’Église de Jésus-Christ
 
 L’Eglise de Jésus-Christ n’est pas une organisation humaine, mais bien une création de Dieu. Christ a dit: “Et moi, je te dis… que sur cette pierre je bâtirai mon Eglise, et que les portes du séjour des morts ne prévaudront point contre elle”. La naissance et la fondation de l’Eglise de Jésus-Christ viennent d’un acte de Dieu. Son Eglise est uniquement placée sous la direction du Saint-Esprit et de la Parole de Dieu. Les interprétations et les dogmes des hommes n’y ont aucune place. Le modèle nous en est donné dans la fondation et l’édification de la première Eglise chrétienne, telle que cela nous est rapporté dans les Ecritures.
 
@@ -97,17 +97,17 @@ Dans 1 Corinthiens 1, il dit: “Paul, appelé à être apôtre de Jésus-Christ
 
 Dans 2 Corinthiens 1, Galates 1, et Colossiens 1, il écrit presque les mêmes paroles. Dans Tite 1, il dit: “Paul, serviteur de Dieu, et apôtre de Jésus-Christ pour la foi des élus de Dieu et la connaissance de la vérité qui est selon la piété”. Il ressort de ces paroles que Paul ne mettait pas l’accent sur son service d’évangéliste, mais bien sur sa responsabilité à l’égard de la foi des élus de Dieu et la connaissance de la vérité. Si aujourd’hui un serviteur de Dieu se présentait au début de ses lettres ou au commencement de ses prédications comme le fit Paul, nous aurions l’impression que ce n’est pas à sa place. Cependant, Paul tenait pour convenable, conduit par l’Esprit de Dieu, de dire dès le début de ses lettres quel était son ministère et quelle était la charge que Dieu lui avait confiée. Ces faits font apparaître qu’en tant qu’homme de Dieu, il représentait et exposait le point de vue divin. Ce qu’il développait sur l’histoire du salut d’après la vision prophétique était aussi obligatoire que la doctrine qu’il écrivait. Les ordonnances pour l'Eglise concernant le baptême, le repas du Seigneur, l’exercice des dons de l’Esprit ou l’institution des anciens dans l’Eglise locale, lui avait été révélées par Dieu.
 
-## QUI A PART A L’EDIFICATION DE L’EGLISE?
+## Qui a part à l’édification de l’Église?
 
 1 Corinthiens 12.4-11 nous décrit l’action diverse du Saint-Esprit dans chaque membre de l’Eglise de Jésus-Christ. Cette Parole est précisément comme un miroir dans lequel nous pouvons nous considérer pour voir où nous en sommes. Nous lisons au verset 7: “Or, à chacun la manifestation de l’Esprit est donnée pour l’utilité commune”.
 
 Chaque enfant de Dieu sera saisi par l’action du Saint-Esprit, et à tous la révélation de l’Esprit sera accordé pour l’utilité commune. Depuis le verset 8, les neuf manifestations du Saint-Esprit nous sont décrites telles qu’elles se développent par la révélation des neufs dons de l’Esprit. Au verset 11, il est dit: “Un seul et même Esprit opère toutes ces choses, les distribuant à chacun en particulier, comme il veut”. C’est donc le témoignage de la Bible que chacun de ceux qui appartiennent à l'Eglise de Jésus-Christ a part à l’action du Saint-Esprit.
 
-## LA VRAIE EGLISE EN TANT QUE CORPS DE CHRIST
+## La vraie Église en tant que corps de Christ
 
 Dans 1 Corinthiens 12.12, l’Eglise est décrite comme le Corps spirituel qui est composé de plusieurs membres. Les membres du Corps sont différents; ce pendant, ils s’appartiennent l’un à l’autre, dépendant les uns des autres et sont unis par la peau qui les recouvre. Le Corps entier de Christ est parcouru par la Vie de Christ, et il est revêtu de Sa force. Au verset 13, il est dit que nous avons tous été baptisés dans un seul Esprit, et tous abreuvés d’un seul Esprit. C’est là le témoignage des Saintes Ecritures. Chaque véritable croyant est baptisé par le Saint-Esprit, dans l'Eglise du Dieu vivant, et par cela, il est placé sous la direction du Saint-Esprit. Malgré leurs différences, tous les membres du Corps de Jésus-Christ se respecteront et se reconnaîtront, car ensemble, ils forment un seul Corps et sont soumis à Christ, qui est la Tête.
 
-## DIEU A ETABLI
+## Dieu a établi
 
 Nous lisons dans 1 Corinthiens 12.28: “Et Dieu a établi dans l'Eglise premièrement des apôtres, secondement des prophètes, troisièmement des docteurs…”. Nous voyons donc que l'assemblée n’est pas fondée par des hommes, mais bien par Jésus-Christ. Nous reconnaissons aussi que tout ce qui s’appelle Eglise du Seigneur ne l'est pas forcément. Cet exposé biblique est donné afin d’aider chacun à s’éprouver soi-même, pour constater s’il appartient réellement à l'Eglise de Jésus-Christ. Comme dans Ephésiens 4.11, il est écrit ici que Dieu a établi dans l’Eglise, “… premièrement des apôtres, deuxièmement des prophètes, troisièmement des docteurs, etc.…”.
 
@@ -133,7 +133,7 @@ Le service d’un évangéliste nous est mieux connu, cependant, nous prendrons 
 
 Comme les quatre autres ministères, celui du pasteur n’est pas limité à une communauté locale, mais il s’étend sur l’ensemble de l'Eglise du Seigneur. Le pasteur porte la responsabilité de la bonne santé de l’Eglise. Un pasteur établi de Dieu sait quelle nourriture spirituelle le “Bon Berger” a prescrite pour Ses brebis.
 
-## ETABLISSEMENT DES ANCIENS
+## Établissement des anciens
 
 Dans l’Eglise du Seigneur, les anciens ne sont pas établis par une élection à majorité (donc par un vote), mais bien par les apôtres, ou par les serviteurs de Dieu désignés par eux. Paul et Barnabas sont un bon exemple de cela. Nous lisons dans Actes 14.23: “Et leur ayant choisi des anciens dans chaque assemblée, ils prièrent avec jeûne, et les recommandèrent au Seigneur en qui ils avaient cru” (Darby).
 
