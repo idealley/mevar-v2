@@ -98,20 +98,21 @@ function words(text) {
 // uses): bold is what renders bold, a quote is inside a blockquote. Headings
 // (other than goal 18's, in `headings`), HTML, images and link definitions,
 // which a sermon has none of, go to `found`.
-function rendered(md, found, headings = new Set()) {
+function rendered(md, found, headings) {
   const out = [];
   const kinds = { heading: "a heading", html: "HTML", image: "an image", imageReference: "an image", definition: "a link definition" };
   (function walk(node, bold, quote, heading) {
-    const ours = node.type === "heading" && headings.has(md.slice(node.position.start.offset, node.position.end.offset));
+    const line = node.type === "heading" && headings.get(md.slice(node.position.start.offset, node.position.end.offset));
+    const ours = line !== undefined && line !== false;
     if (kinds[node.type] && !ours)
       found.push(`${kinds[node.type]}, which a sermon has none of: ${md.slice(node.position.start.offset, node.position.end.offset).slice(0, 200)}`);
     // text, and code (a line indented four spaces), whose words are words too
     if (["text", "code", "inlineCode"].includes(node.type))
-      for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote, heading });
+      for (const m of node.value.matchAll(WORD)) out.push({ w: token(m[0]), at: node.position.start.offset + m.index, bold, quote, heading: !!heading, caps: !!heading && heading === heading.toUpperCase() });
     // an ordered list's numbers are markup to markdown, words to the check
     (node.children ?? []).forEach((c, i) => {
       if (node.type === "list" && node.ordered) out.push({ w: String((node.start ?? 1) + i), at: c.position.start.offset, bold, quote, marker: true });
-      walk(c, bold || node.type === "strong", quote || node.type === "blockquote", heading || ours);
+      walk(c, bold || node.type === "strong", quote || node.type === "blockquote", heading || (ours ? line : false));
     });
   })(fromMarkdown(md), false, false, false);
   return out;
@@ -148,12 +149,11 @@ function typography(a, b) {
 function hunks(a, b) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), "goal10-"));
   fs.writeFileSync(`${dir}/a`, a.map((x) => x.w).join("\n") + "\n");
-  fs.writeFileSync(`${dir}/b`, b.map((x) => x.w).join("\n") + "\n");
-  // case aside (-i): a case change is typography, and a heading in sentence
-  // case must pair with its own line in capitals, not with the same words in
-  // the sentence after it (« LES MALADIES DU CORPS » / « Les maladies du
-  // corps sont… »)
-  const res = spawnSync("diff", ["-i", `${dir}/a`, `${dir}/b`], { encoding: "utf8", maxBuffer: 1 << 28 });
+  // a goal 18 heading made from a line in capitals is compared in capitals:
+  // it pairs with its own line, not with the same words opening the next
+  // sentence (« LES MALADIES DU CORPS » / « Les maladies du corps sont… »)
+  fs.writeFileSync(`${dir}/b`, b.map((x) => x.caps ? x.w.toUpperCase() : x.w).join("\n") + "\n");
+  const res = spawnSync("diff", [`${dir}/a`, `${dir}/b`], { encoding: "utf8", maxBuffer: 1 << 28 });
   fs.rmSync(dir, { recursive: true });
   if (res.status !== 0 && res.status !== 1) throw new Error(`diff failed: ${res.error ?? res.stderr}`);
   const out = res.stdout;
@@ -218,8 +218,9 @@ for (const md of batch) {
   const sectioned = applyHeadings(edited, sections[md]);
   edited = sectioned.body;
   r.unexplained.push(...sectioned.refused);
-  const headings = new Set((sections[md] ?? []).map((d) => d.heading).filter(Boolean));
-  r.headings = [...headings].filter((h) => edited.split(/\n{2,}/).includes(h));
+  // each applied heading and the line it was
+  const headings = new Map((sections[md] ?? []).filter((d) => d.heading).map((d) => [d.heading, d.line.replace(/[*_]/g, "")]));
+  r.headings = [...headings.keys()].filter((h) => edited.split(/\n{2,}/).includes(h));
   // the pass's unclear sentences an editor's fix has since changed
   // (read without the bold: the pass lists them without its **)
   // and its final mark: « … au Seigneur. » may end « au Seigneur » (Act 9 …) »)
