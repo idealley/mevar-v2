@@ -4440,5 +4440,70 @@
         "why": "document header (title or subtitle, in the frontmatter), as in batches 01 and 02"
       }
     ]
+  },
+  "markdown/onedrive/pdf/exhortation_2011.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Et les femmes dirent : 1 Samuel 18:7 : …**Saül a frappé ses mille, Et David ses dix mille**. La Bible",
+        "replace": "Et les femmes dirent : 1 Samuel 18:7 : « …**Saül a frappé ses mille, Et David ses dix mille** ». La Bible",
+        "kind": "markup",
+        "why": "short citation inside his sentence takes « »"
+      },
+      {
+        "find": "fut irrité ce jour-là : 1 Samuel 18:8 : Saül fut très irrité",
+        "replace": "fut irrité ce jour-là :\n\n> 1 Samuel 18:8 : Saül fut très irrité",
+        "kind": "markup",
+        "why": "reading of 1 Samuel 18:8-9 becomes its own quote"
+      },
+      {
+        "find": "dans la suite. (1 Samuel 18:8-9) Vous voyez ! Regardez !",
+        "replace": "dans la suite. (1 Samuel 18:8-9)\n\nVous voyez ! Regardez !",
+        "kind": "markup",
+        "why": "end of the 1 Samuel 18:8-9 quote"
+      },
+      {
+        "find": "l’Écriture dit : **Le lendemain**… Seulement le lendemain, **le mauvais esprit de Dieu",
+        "replace": "l’Écriture dit : « **Le lendemain** »… Seulement le lendemain, « **le mauvais esprit de Dieu",
+        "kind": "markup",
+        "why": "short citations inside his sentence take « »"
+      },
+      {
+        "find": "Saül avait sa lance à la main**. (1 Samuel 18:10)",
+        "replace": "Saül avait sa lance à la main** ». (1 Samuel 18:10)",
+        "kind": "markup",
+        "why": "closing « » of the 1 Samuel 18:10 citation"
+      },
+      {
+        "find": "mais il n’eut pas de succès. 1 Samuel 18:11 : Saül leva",
+        "replace": "mais il n’eut pas de succès.\n\n> 1 Samuel 18:11 : Saül leva",
+        "kind": "markup",
+        "why": "reading of 1 Samuel 18:11-12 becomes its own quote"
+      },
+      {
+        "find": "dans le temps…**David devenait de plus en plus fort, et la maison de Saül allait en s’affaiblissant**. (2 Samuel 3:1) Vous voyez mes frères et sœurs,",
+        "replace": "dans le temps… « **David devenait de plus en plus fort, et la maison de Saül allait en s’affaiblissant** ». (2 Samuel 3:1) Vous voyez, mes frères et sœurs,",
+        "kind": "markup",
+        "why": "short citation inside his sentence takes « »; comma before the vocative"
+      },
+      {
+        "find": "Et cette guerre dura longtemps mes frères.",
+        "replace": "Et cette guerre dura longtemps, mes frères.",
+        "kind": "typo",
+        "why": "comma before the vocative"
+      },
+      {
+        "find": "tandis que Saül, le roi déchu jouissait",
+        "replace": "tandis que Saül, le roi déchu, jouissait",
+        "kind": "typo",
+        "why": "closing comma of the apposition"
+      },
+      {
+        "find": "roi des Philistins, Akisch qui le traita",
+        "replace": "roi des Philistins, Akisch, qui le traita",
+        "kind": "typo",
+        "why": "closing comma of the apposition"
+      }
+    ]
   }
 }
