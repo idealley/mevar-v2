@@ -77,9 +77,9 @@ bible_refs:
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 > (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE
+# Lettre circulaire
 
-## JANVIER 1975
+## Janvier 1975
 
 Je vous salue tous dans le précieux Nom du Seigneur Jésus-Christ par cette parole d’Hébreux 1.3:
 > “… étant le reflet de sa gloire et l’empreinte de sa personne, et soutenant toutes choses par sa parole puissante…”
@@ -94,7 +94,7 @@ Chaque promesse est liée à l’obéissance de la foi. Tous les croyants de cet
 
 En Christ s’est accomplie la Parole de Dieu, déclarant qu’Il ne verrait pas la corruption, et chaque promesse se rapportant à Lui a été confirmée comme véritable. De la même manière, chaque promesse de la Parole de Dieu s’accomplira envers chaque croyant. La même puissance qui a ressuscité Jésus-Christ d’entre les morts rendra la vie à nos corps mortels et les transformera. Tout s’accomplira conformément à la Parole de Dieu. Dieu a déterminé dans Sa Parole le cours de l’histoire de l’humanité entière. Il n’y a absolument rien à changer à cela.
 
-## EVENEMENTS ACTUELS
+## Événements actuels
 
 Toujours à nouveau, l’opinion publique est dirigée vers ce qui se passe au Moyen-Orient, et par cela même, le peuple d’Israël est rappelé au souvenir des gens. Tous les croyants savent quel est l’enjeu de ces choses, et ils pensent au peuple d’Israël dans leurs prières, et le bénissent au Nom du Seigneur. Peu importe l’attitude prise par les gouvernements, l’attitude des enfants de Dieu s’aligne sur celle de la Bible; le fait qu’ils habitent en Russie, en Chine, en Europe ou en Amérique ne joue aucun rôle: les croyants sont enseignés par Dieu, et ils ont pris la position divine de la Parole.
 
@@ -114,7 +114,7 @@ Cet état demeure jusqu’à ce que le nombre entier des nations soit entré dan
 
 Nous devons apprendre à nous approprier les pensées divines de Sa Parole, conformément à chaque thème biblique. Ce n’est qu’ainsi que nous aurons la possibilité de comprendre le plan de salut de Dieu, et nous pourrons alors nous écrier avec Paul: “O profondeur de la richesse, de la sagesse et de la science de Dieu! Que ses jugements sont insondables, et ses voies incompréhensibles!… C’est de lui, par lui et pour lui que sont toutes choses. A lui la gloire dans tous les siècles! Amen!” (Romains 11.33,36).
 
-## LE SABBAT
+## Le sabbat
 
 Toujours à nouveau, quelques-uns sont troublés à cause de la question du Sabbat, c’est pourquoi j’aimerais donner ici seulement quelques indications. Bien heureusement, je ne représente aucune communauté, et c’est pourquoi je peux librement et ouvertement exposer la Parole de Dieu conformément à la Vérité, sans avoir peur d’enfreindre la doctrine prescrite par une confession de foi.
 
@@ -144,7 +144,7 @@ Le Seigneur Dieu, qui avait donné à Son peuple d’Israël le sabbat comme un 
 
 Tous ceux qui ont cru en Jésus-Christ, et ont trouvé la paix avec Dieu, sont entrés dans le véritable “repos de sabbat” de Dieu. Ce repos ne s’étend pas seulement à un jour de la semaine, mais il est pour toujours en Dieu. Vous voyez qu’il est très important qu’en toutes choses nous gardions l’équilibre biblique. Aussitôt que le fanatisme se glisse quelque part, l’amour de Christ se refroidit, et la chicane apparaît. Si nous faisons en sorte que quoi que ce soit d’autre que Lui soit le point central de notre communion, la bénédiction a déjà disparu.
 
-## EXODE DES GENS DE L’EGLISE
+## Exode des gens de l’Église
 
 Les journaux rapportent que des milliers de personnes sortent de l’Eglise. Les mobiles en sont divers. Pour plusieurs, c’est par motif de conscience qu’ils ne peuvent plus rester dans l’Eglise. L’heure de la tentation est venue sur la terre entière par l’oecuménisme, et tout véritable enfant de Dieu se trouve placé devant une décision à prendre. Celui qui se tait, et qui n’agit pas sans tarder, se rend complice de cette séduction religieuse.
 
@@ -152,7 +152,7 @@ La sortie de l’Eglise du pasteur Richard Henninger a, dans les pays d’expres
 
 Pour celui qui fait partie de l’Eglise de Jésus-Christ, il est impossible d’appartenir en même temps à l’oecuménisme. Alors que toutes les Eglises, indépendantes ou non, se rassemblent, il n’est pas seulement nécessaire de recommander de sortir de l’Eglise, mais c’est bien plutôt l’ordre divin que nous devons écouter: “C’est pourquoi, sortez du milieu d’eux, et séparez-vous, dit le Seigneur;…”
 
-## NOUVELLES DE LA MISSION
+## Nouvelles de la mission
 
 C’est avec une profonde reconnaissance que nous regardons en arrière vers ce que Dieu a fait dans cette année. Nous pourrions raconter beaucoup de choses au sujet de ce que Dieu a fait par le Message du temps de la fin, tant à l’Est qu’à l’Ouest, au Nord qu’au Sud. C’est merveilleux de suivre la direction du Saint-Esprit.
 
@@ -166,7 +166,7 @@ A cette occasion, j’aimerais remercier sincèrement tous ceux auxquels le Seig
 
 Agissant de la part de Dieu.
 
-## EDITORIAL
+## Éditorial
 
 > “Voilà pourquoi je prendrai soin de vous rappeler ces choses,
 > Bien que vous les sachiez et que vous soyez affermis

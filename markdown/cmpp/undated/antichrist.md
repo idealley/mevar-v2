@@ -145,9 +145,9 @@ bible_refs:
   - "Hébreux 13"
   - "Jude 1:3"
 ---
-# L'ANTICHRIST
+# L'antichrist
 
-## AVANT-PROPOS
+## Avant-propos
 
 Je suis bien conscient de la portée de ces exposés et je sais aussi que cela entraînera des conséquences. Cependant, face à l'urgence des besoins, il ne me reste aucun autre choix qu'écrire ce qui doit être dit, même s'il ne faut le faire qu'en style télégraphique. Celui qui le veut peut alors commencer à sonder les Saintes Ecritures. Comme toujours, les uns l'accepteront et les autres le rejetteront. Il y aura des personnes qui se réjouiront du fond du coeur de ce que quelqu'un aura eu le courage de prendre le mal à sa racine et, où cela est possible, d'y mettre la hache. Les autres se fâcheront.
 
@@ -169,11 +169,11 @@ Krefeld, juillet 1986    L'auteur
 
 ---
 
-# L'ANTICHRIST
+# L'antichrist
 
 Un exposé du point de vue biblique
 
-## INTRODUCTION
+## Introduction
 
 Dans cet exposé nous nous référons principalement au livre de Daniel et à l'Apocalypse. Jusque dans un passé assez récent, même les docteurs de la Bible internationalement connus ne pouvaient pas vraiment entreprendre l'étude du contenu de ces deux livres prophétiques. Ils se trouvaient sans cesse devant de nouvelles énigmes parce qu'ils n'étaient pas en mesure d'y décoder le langage symbolique utilisé. Ce qui a été écrit en vertu d'une inspiration directe ne peut être dévoilé, pour être compris, que par une révélation particulière d'en-haut. A cet égard aucun esprit philosophique humain ne peut sonder ces choses; il faut que ce soit l'Esprit de Dieu qui éclaire et révèle ce qui est caché (1 Corinthiens 2.10-13). Parce que le temps pour la partie prophétique n'était pas encore venu, l'on a simplement écrit à ce sujet selon sa propre connaissance et son meilleur savoir.
 
@@ -201,7 +201,7 @@ Dans Apocalypse 22.6 nous lisons ceci: "Ces paroles sont certaines et véritable
 
 Lorsqu'arrivent des événements en rapport avec l'histoire du salut, toujours Dieu envoie un ange, c'est-à-dire un prophète. "Or le Seigneur, l'Eternel, ne fera rien qu'il ne révèle son secret à ses serviteurs les prophètes" (Amos 3.7). C'est ainsi par exemple que la naissance de Jean-Baptiste fut annoncée par un ange (Luc 1.13). Dans les champs de Bethléhem les bergers entendirent chanter les armées célestes et ils entendirent de la bouche de l'ange l'annonce de la naissance du Sauveur: "N'ayez point de peur, car voici, je vous annonce un grand sujet de joie qui sera pour tout le peuple; car aujourd'hui, dans la cité de David, vous est né un Sauveur, qui est le Christ, le Seigneur" (Luc 2.10,11). L'ouverture des Sceaux fut aussi annoncée d'une manière surnaturelle.
 
-## CHRIST ET L'ANTICHRIST
+## Christ et l'antichrist
 
 Dans la lutte pour obtenir de la clarté sur ce thème si important au sujet de l'antichrist, c'est sans idées préconçues que nous devons nous tourner vers la Parole de Dieu afin que cette mystérieuse personnalité soit éclairée par les Ecritures. Comme nous l'avons déjà mentionné, des opinions humaines existent depuis longtemps, avec des variations fort différentes de l'une à l'autre. Nous avons cependant droit à une réponse infaillible et irréfutable. Et celle-ci ne peut nous être donnée qu'au travers de la Parole infaillible de Dieu.
 
@@ -230,7 +230,7 @@ Les comparaisons suivantes doivent nous donner quelques indices de l'Antichrist 
 
 Ces comparaisons qui pourraient être poursuivies à volonté sont nécessaires afin que nous puissions nous représenter quelle est cette personne. Dans notre exposé, les contrastes que beaucoup jusqu'à maintenant n'ont pas reconnus deviendront encore plus distincts à la lumière. Dans Daniel, dans les épîtres des apôtres et dans l'Apocalypse nous rencontrons différentes désignations qui cependant décrivent toujours la même personne, respectivement le même système dans sa multiplicité.
 
-## L'ORIGINE
+## L'origine
 
 Aussi certainement que le Christ ne peut être reconnu pour le Véritable que par seule révélation d'en-haut, tout aussi sûrement ne peut-on reconnaître l'antichrist que par seule illumination d'en-haut. De même que Christ est la révélation de Dieu sous une forme humaine, ainsi l'Antichrist, au temps où il se présentera directement, sera la manifestation personnifiée de Satan dans un homme. Satan n'est certainement pas un athée, il croit en Dieu et il tremble (Jacques 2.19). Son représentant sur la terre suit tout à fait ses empreintes. Vu de l'extérieur nous avons affaire à un homme particulièrement pieux qui utilise même des passages de la Bible comme Satan le fit lors de la tentation de Jésus.
 
@@ -242,7 +242,7 @@ Christ nous est décrit par les différentes désignations qui chaque fois Le pr
 
 Comme nous l'avons déjà mentionné, l'antichrist est appelé de divers titres à chaque fois en relation avec ce qu'il est, tel que: le "faux prophète", "l'inique" (C'est-à-dire celui qui est sans la loi), "l'adversaire" et ainsi de suite. Pour celui qui est versé dans les Saintes Ecritures, il ne sera pas difficile de trouver que toutes les qualités et les attributs de Dieu concordent cent pour cent avec Christ et que les caractéristiques de Satan se retrouvent dans l'antichrist.
 
-## ANTI = CONTRE
+## Anti = contre
 
 La clef pour la bonne compréhension et pour suivre les traces de cette personne mystérieuse se trouve dans le mot anti. Comme tout le monde le sait, anti signifie "contre". L'antichrist est donc l'antagoniste, l'adversaire de Christ. La tromperie de cette personne consiste cependant en ceci, c'est qu'elle se réclame de Christ. Et pourtant toutes ses doctrines et l'ensemble de ses pratiques sont en opposition avec Christ et Sa Parole. Il parle de Christ, cependant il lie à lui-même ceux qui le suivent et qui, à son sens, sont appelés "des croyants". Ceux-ci croient à sa parole, et non pas à la Parole de Christ.
 
@@ -270,7 +270,7 @@ Celui qui voit l'antichrist comme dictateur du monde dans le sens d'un tyran pol
 
 L'antichrist n'expérimentera jamais un exaucement de prière; jamais par son moyen, comme ce fut le cas au travers de Christ, un paralytique ne pourra marcher, un aveugle ne pourra voir ou un sourd entendre. Malgré cela, le monde entier l'ovationnera et lui rendra hommage: "… pour ceux qui périssent, parce qu'ils n'ont pas reçu l'amour de la vérité pour être sauvés. Et à cause de cela, Dieu leur envoie une énergie d'erreur pour qu'ils croient au mensonge, afin que tous ceux-là soient jugés, qui n'ont pas cru la vérité, mais qui ont pris plaisir à l'injustice" (2 Thessaloniciens 2.10-12). Pensons à cela: de nom, l'antichrist est un "christ", un oint, mais au fond il est contre Christ. Il parle du Royaume de Dieu, mais il édifie son propre royaume dans lequel il règne.
 
-## SA PROVENANCE
+## Sa provenance
 
 Pour mieux comprendre la tactique et la nature de l'antichrist, nous devons tout d'abord nous occuper de Satan. Cela peut paraître étrange, cependant nous montrerons les parallèles existant entre lui et l'antichrist. Dans Ezéchiel 28.12-15 nous lisons ceci: "Toi, tu étais la forme accomplie de la perfection, plein de sagesse, et parfait en beauté; tu as été en Eden, le jardin de Dieu; toutes les pierres précieuses te couvraient, le sardius, la topaze et le diamant, le chrysolithe, l'onyx et le jaspe, le saphir, l'escarboucle et l'émeraude, et l'or; le riche travail de tes tambourins et de tes flûtes était en toi; au jour où tu fus créé ils étaient préparés. Tu étais un chérubin oint, qui couvrait, et je t'avais établi tel; tu étais dans la sainte montagne de Dieu, tu marchais parmi les pierres de feu. Tu fus parfait dans tes voies depuis le jour où tu fus créé, jusqu'à ce que l'iniquité s'est trouvée en toi".
 
@@ -290,7 +290,7 @@ Il est écrit plus loin: "… par ta sagesse et par ton intelligence tu t'es acq
 
 Nous devons bien garder à la pensée la description générale de Satan et de ses différentes caractéristiques car nous les rencontrons toujours à nouveau lorsqu'il s'agit de son représentant sur la terre. En outre, ce qui est particulièrement important, c'est qu'il s'est présenté comme un ange de lumière et que c'est également ainsi qu'apparaîtront ses représentants jusqu'au dernier, dans lequel il va s'incarner. L'apôtre Paul a pu regarder cela et il le décrit en disant: "Car de tels hommes sont de faux apôtres, des ouvriers trompeurs, se transformant en apôtres de Christ; et ce n'est pas étonnant, car Satan lui-même se transforme en ange de lumière: Ce n'est donc pas chose étrange si ses ministres aussi se transforment en ministres de justice, desquels la fin sera selon leurs oeuvres" (2 Corinthiens 11.13-15).
 
-## DEVOILEMENT DU MYSTERE
+## Dévoilement du mystère
 
 Comme nous l'avons déjà mentionné auparavant, le prophète Daniel vit à l'avance en symboles les événements essentiels du temps de la fin. Il en rendit ainsi témoignage au roi: "Mais il y a un Dieu dans les cieux qui révèle les secrets et fait savoir au roi Nebucadnetsar ce qui arrivera à la fin des jours" (Daniel 2.28). Maintenant comme alors le peuple de Dieu est le mieux informé qui soit. Ce que le Seigneur dit dans Matthieu 23.34 est encore valable aujourd'hui: "C'est pourquoi voici, moi, je vous envoie des prophètes, et des sages, et des scribes". Tandis que les politiciens dépendent pour l'avenir de leurs suppositions, les croyants, eux, reconnaissent les signes des temps à la lumière de la Parole de Dieu. Ils reconnaissent que nous vivons maintenant dans une période prophétique. Ils peuvent placer correctement ce que les prophètes et les apôtres ont vu en vision et ont écrit sous l'inspiration de l'Esprit. La Parole de Dieu vient toujours aux prophètes, jamais aux théologiens.
 

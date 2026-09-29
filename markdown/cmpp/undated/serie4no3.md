@@ -49,7 +49,7 @@ PAR
 
 WILLIAM MARRION BRANHAM
 
-# L’ORDRE DANS L’ÉGLISE
+# L’ordre dans l’Église
 
 *(Church Order)*
 

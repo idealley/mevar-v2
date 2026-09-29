@@ -214,11 +214,11 @@ bible_refs:
   - "Habacuc 2"
   - "Apocalypse 21"
 ---
-# DIEU ET SON PLAN POUR L'HUMANITÉ
+# Dieu et son plan pour l'humanité
 
 ## Un exposé du point de vue biblique
 
-### AVANT-PROPOS
+### Avant-propos
 
 Dans cette brochure j’ai cherché à donner un court exposé sur Dieu et Son plan à l’égard de l’humanité en me basant sur l’Ancien et le Nouveau Testament. Pour cela j’ai dû mettre l’accent sur le thème de la divinité. Malheureusement nous ne pouvions parfois prendre en considération que quelques passages bibliques appartenant au thème traité. Le lecteur a cependant la possibilité de sonder plus profondément les Saintes Ecritures, et cela jusqu’à ce que la clarté nécessaire lui soit accordée par la Vérité.
 
@@ -258,7 +258,7 @@ Les représentations humaines de Dieu sont extrêmement anciennes. Elles remonte
 
 ---
 
-## LA DIVINITE
+## La divinité
 
 Les religions juive, chrétienne et musulmane sont appelées monothéistes, ce qui signifie que leurs membres croient qu’il y a un seul Dieu. Cependant chacune d’elles est parvenue à une connaissance de Dieu complètement différente; leur enseignement et leur espérance contrastent vivement de l’une à l’autre.
 
@@ -313,7 +313,7 @@ Les paroles de Deutéronome 4.35-39 sont également un témoignage clair: “Cel
 
 Nous lisons dans Néhémie 9.13: “Et tu descendis sur la montagne du Sinaï; et tu parlas avec eux depuis les cieux, et tu leur donnas des ordonnances droites et des lois de vérité, de bons statuts et de bons commandements” (Darby). Ces passages de l’Ecriture se rapportent aux événements qui eurent lieu lorsque la loi leur fut donnée. Le Seigneur était descendu sur la montagne, dans le feu, et Il leur parlait d’une voix puissante. Le peuple était un témoin oculaire de ces événements, et il s’effraya. “Et tout le peuple aperçut les tonnerres, et les flammes, et le son de la trompette, et la montagne fumante; et le peuple vit cela, et ils tremblèrent et se tinrent loin, et dirent à Moïse: Toi, parle avec nous et nous écouterons; mais que Dieu ne parle point avec nous, de peur que nous ne mourions” (Exode 20.18,19 — Darby).
 
-## LE SEIGNEUR DANS UNE FORME D’ANGE
+## Le Seigneur dans une forme d’ange
 
 Il nous est rapporté de Moïse que l’Ange de l’Eternel lui est apparu comme une flamme de feu et que Sa voix retentissait du milieu d’un buisson d’épines (Exode 3.2 — Darby). Nous lisons au verset 4: “Et l’Eternel (Jahwe) vit qu’il se détournait pour voir; et Dieu (Elohim) l’appela du milieu du buisson et dit: Moïse! Moïse! Et il dit: Me voici. Et il dit: N’approche pas d’ici; ôte tes sandales de tes pieds, car le lieu sur lequel tu te tiens est une terre sainte. Et il dit: Je suis le Dieu de ton père, le Dieu d’Abraham, le Dieu d’Isaac, et le Dieu de Jacob. Et Moïse cacha son visage, car il craignait de regarder Dieu”.
 
@@ -333,7 +333,7 @@ Cet événement semble presque trop humain. Cependant c’est précisément en c
 
 Nous lisons dans Exode 24, depuis le verset 9: “Et Moïse et Aaron, Nadab et Abihu, et soixante-dix des anciens d'Israël montèrent; et ils virent le Dieu d'Israël et sous ses pieds comme un ouvrage de saphir transparent, et comme le ciel même en pureté. Et il ne porta point sa main sur les nobles d’entre les fils d'Israël: ils virent Dieu, et ils mangèrent et burent” (Darby). Aucun homme ne pouvait voir Dieu dans sa plénitude originelle, en tant qu’Esprit. Il ne fut vu qu’après être entré dans Son corps spirituel. Les soixante-dix anciens, et d’autres le virent dans Sa gloire. Le prophète Ezéchiel rapporte ceci au premier chapitre et au verset 26: “Et au-dessus de l’étendue qui était sur leurs têtes, il y avait comme l’aspect d’une pierre de saphir, la ressemblance d’un trône; et, sur la ressemblance du trône, une ressemblance comme l'aspect d’un homme, dessus, en haut” (Darby). Il n’y a aucun passage de l’Ecriture où l’on puisse voir trois personnes sur le trône. On ne trouve pas davantage dans la Bible les expressions “un Dieu en trois” ou “trinité”. Aucun prophète ou apôtre n’a interprété même un seul passage des Saintes Ecritures dans le sens que Dieu consisterait en plusieurs personnes.
 
-## UNE PAROLE D’ECLAIRCISSEMENT
+## Une parole d’éclaircissement
 
 A la lumière de ce que nous venons d’exposer, nous pouvons reconnaître à qui Dieu parle lors de la création lorsqu’Il dit: “Faisons l’homme à notre image…” (Genèse 1.26 — Darby). Les Saintes Ecritures ont aussi une réponse clarifiante et catégorique à ce sujet. Dans Job 38.4-7, le Seigneur demande à Son serviteur: “Où étais-tu quand j’ai (non pas: nous) fondé la terre? Déclare-le moi, si tu as de l’intelligence. Qui lui a établi sa mesure, si tu le sais? Ou qui a étendu le cordeau sur elle? Sur quoi ses bases sont-elles assises, ou qui a placé sa pierre angulaire, quand les étoiles du matin chantaient ensemble, et que tous les fils de Dieu éclataient de joie?” (Darby). Voilà qui ne peut être dit plus clairement. Lorsque le Seigneur Dieu créa la terre, les armées célestes chantaient ensemble et les anges éclataient de joie. Ainsi Dieu n’était pas seul; Il n’a parlé ni à Lui-même ni à un autre Dieu, car il n’y en avait point d’autre. Mais c’est aux anges qui l’entouraient qu’Il a parlé.
 
@@ -345,7 +345,7 @@ Dieu S’est révélé aux hommes qui croyaient en Lui. Ils recevaient Ses prome
 
 Dieu ne s’est pas davantage multiplié qu’Il n’a changé. Aucun Juif ne pourrait arriver à l’idée d’une trinité; c’est tout simplement exclu parce qu’une telle chose ne peut se trouver dans le témoignage entier des Saintes Ecritures. Dieu se présente bien à nous dans Sa diversité, mais chaque fois, la façon qu’Il a de Se révéler est en relation avec la réalisation de Son plan.
 
-## LA TRANSITION
+## La transition
 
 En ce qui concerne le thème de la divinité, le Nouveau Testament réserve aux hommes des difficultés sensiblement plus grandes que l’Ancien. Cela vient de ce qu’aujourd’hui nous avons affaire à l’héritage d’une pensée théologique tout à fait antibiblique Même au concile de Nicée, en 325, il n’y avait encore aucune discussion sur une trinité. Il est connu de tout historien de l’Eglise qu’à cette occasion il était question de la divinité de Jésus-Christ, doctrine qu’Athanase défendait clairement, par opposition à celle d’Anus. Les diverses formulations de la trinité sont le produit de l’entendement et elles sont basées sur un malentendu total. Non seulement les paroles des prophètes et des apôtres n’ont pas été prises en considération à ce sujet, mais également les déclarations des hommes de Dieu qui ont suivi les temps apostoliques. La doctrine de la trinité provient d’une époque de la pensée philosophico-théologique. On commandait à sa propre raison, disant: «Tu dois voir les trois Personnes comme étant un seul Dieu!». Néanmoins on n’en voyait pas qu’un seul mais trois, et c’est ainsi qu’on passa du monothéisme au trinitarisme.
 
@@ -363,7 +363,7 @@ Avant d’entrer de façon détaillée dans les différentes sphères où notre 
 
 Paul rend un témoignage convaincant lorsqu’il dit ceci: “Et, sans contredit, le mystère de la piété est grand: Dieu a été manifesté en chair, a été justifié en Esprit, a été vu des anges, a été prêché parmi les nations, a été cru au monde, a été élevé dans la gloire” (1 Timothée 3.16 — Darby). Le témoignage unanime des prophètes et des apôtres ne peut pas être ignoré, pas plus qu’il ne peut être mis de côté. Paul écrit aux Colossiens: “… afin que leurs coeurs soient consolés, étant unis ensemble dans l’amour et pour toutes les richesses de la pleine certitude d’intelligence, pour la connaissance du mystère de Dieu, dans lequel sont cachés tous les trésors de la sagesse et de la connaissance” (Colossiens 2.2,3 — Darby). La divinité de Jésus-Christ est le fondement de notre foi et la condition absolue pour notre rédemption.
 
-## LE CREATEUR
+## Le Créateur
 
 Les désignations employées dans l’Ancien Testament à l’égard de Dieu sont également employées à l’égard du Seigneur dans le Nouveau Testament: Rédempteur, Roi, Berger, et ainsi de suite. Le Seigneur Jésus est même placé en rapport avec la création. Nous lisons dans Jean 1.10: “… et le monde fut fait par lui; et le monde ne l’a pas connu” (Darby). Dans Colossiens 1.16,17 il est écrit: “… car par lui ont été créées toutes choses, les choses qui sont dans les cieux et les choses qui sont sur la terre, les visibles et les invisibles, soit trônes, ou seigneuries, ou principautés, ou autorités: toutes choses ont été créées par lui et pour lui; et lui est avant toutes choses, et toutes choses subsistent par lui” (Darby). Il ressort du contexte que ces passages bibliques se rapportent bien à Jésus-Christ.
 
@@ -373,7 +373,7 @@ Par Dieu le Père, toutes choses sont venues à l’existence, et par le moyen d
 
 Dans le livre prophétique du Nouveau Testament, Il est de nouveau le Seigneur Dieu. Apocalypse 4.11: “Tu es digne, notre Seigneur et notre Dieu, de recevoir la gloire, et l’honneur, et la puissance; car c’est toi qui as créé toutes choses, et c’est à cause de ta volonté qu’elles étaient, et qu’elles furent créées” (Darby).
 
-## LE JE SUIS
+## Le Je suis
 
 Dans Jean 8.24 il est écrit: “Je vous ai donc dit que vous mourrez dans vos péchés; car si vous ne croyez pas que c’est moi, vous mourrez dans vos péchés” (Darby). La désignation “JE SUIS” a déjà depuis les jours de Moïse une signification particulière. “Et Moïse dit à Dieu: Voici, quand je viendrai vers les fils d’Israël, et que je leur dirai: Le Dieu de vos pères m'a envoyé vers vous, et qu’ils me diront: Quel est son nom? que leur dirai-je? Et Dieu dit à Moïse: JE SUIS CELUI QUI SUIS. Et il dit: Tu diras ainsi aux fils d’Israël; JE SUIS m’a envoyé vers vous” (Exode 3.13,14 — Darby).
 

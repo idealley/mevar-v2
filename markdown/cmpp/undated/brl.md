@@ -95,11 +95,11 @@ bible_refs:
   - "Jean 13"
   - "1 Timothée 5"
 ---
-# BAPTEME — REPAS DU SEIGNEUR — LAVAGE DES PIEDS
+# Baptême — repas du Seigneur — lavage des pieds
 
 ## Un exposé du point de vue biblique
 
-### INTRODUCTION
+### Introduction
 
 Le baptême et le Repas du Seigneur sont des ordonnances bibliques qui sont pratiquées dans la plupart des églises chrétiennes officielles ou libres, bien que chacune d’elles le fasse à sa manière. Le modèle originel du christianisme primitif a été perdu au cours de l’histoire de l’Eglise. Des docteurs de l’Eglise et des réformateurs ont en effet combattu avec violence au moyen de la même Parole, en faveur de la même Parole, se sont disputés à propos de la même Parole, mais ils ne parvinrent cependant pas à revenir à la proclamation et à la pratique unanimes du christianisme primitif.
 
@@ -119,7 +119,7 @@ Il est dit à l’ange de l’Eglise d’Ephèse: “… et tu as éprouvé ceux
 
 Dans le christianisme primitif, le baptême et le Repas du Seigneur ne comportaient aucun point obscur. Le Seigneur avait donné des instructions claires aux apôtres; Il disait de ceux qu’Il envoyait: “Celui qui vous écoute, m’écoute” (Luc 10.16). C’est pourquoi nous voulons exposer ici le baptême et le Repas du Seigneur tels qu’ils nous ont été laissés dans les Saintes Ecritures. Le lavage des pieds est en relation directe avec le Repas du Seigneur. C’est pourquoi nous le considérerons aussi brièvement à la lumière de la Parole de Dieu.
 
-### LE BAPTEME
+### Le baptême
 
 Il faut tout d’abord que le baptême biblique soit exposé brièvement. Le Seigneur a ordonné de baptiser les croyants, et c’est la raison pour laquelle les dénominations chrétiennes baptisent. Le développement historique de l’église présente cependant de considérables déviations quant à la doctrine et à l’usage du baptême qui était pratiqué dans le christianisme primitif. Bien qu’en ce temps-là la pratique du baptême était uniforme, nous en trouvons aujourd’hui des nuances importantes tant dans les églises officielles que dans les églises indépendantes.
 
@@ -127,7 +127,7 @@ Les paroles de l’apôtre Paul aux croyants d’Ephèse ont cependant aujourd�
 
 Dans ce traité nous voulons répondre aux questions suivantes en nous en tenant aux Saintes Ecritures: Concernant le baptême, de quoi s’agit-il? Quelle en est la signification? A qui peut-il être administré et comment est-il pratiquement exécuté?
 
-#### LA CONDITION
+#### La condition
 
 La condition fondamentale pour être baptisé est la foi personnelle. Peu avant Son Ascension, le Seigneur ressuscité donna cet ordre très clair à Ses disciples: “Allez dans tout le monde, et prêchez l’évangile à toute la création. Celui qui aura cru et qui aura été baptisé sera sauvé” (Marc 16.15,16). En premier lieu il doit y avoir la proclamation du message de salut conforme à l’Ecriture, et non pas un acte religieux.
 
@@ -149,7 +149,7 @@ Le deuxième passage auquel on se réfère également pour le baptême des enfan
 
 La pratique du baptême telle qu’elle est généralement connue aujourd’hui est privée de tout fondement biblique; l’histoire de l’Eglise en rend aussi témoignage. Cette pratique tire son origine de l’époque où avait lieu la cruelle christianisation par la contrainte, où des maisons entières et des peuples furent baptisés contre leur volonté. Pour remplacer la foi qui est nécessaire pour recevoir le baptême, on eut recours plus tard à des parrains et marraines, ce qui est également une pratique entièrement non biblique. Comme nous avons pu le voir clairement en nous référant aux passages des Ecritures déjà exposés, l’homme doit prendre personnellement sa décision devant Dieu. Dans la plupart des cas malheureusement, la prédication dans les églises officielles et indépendantes ne correspond pas au modèle apostolique, et c’est pourquoi aussi les résultats bibliques font défaut.
 
-#### LE NOM
+#### Le nom
 
 Il n’y a guère dans les Saintes Ecritures un verset qui ait été aussi mal compris et mal employé que celui de Matthieu 28.19. Il dit ceci: “Allez donc, et faites disciples toutes les nations, les baptisant POUR LE NOM du Père et du Fils et du Saint-Esprit…”. D’une manière incompréhensible on a fait de cette Parole, dans les siècles qui suivirent, une formule trinitaire, laquelle aujourd’hui encore est employée dans presque toutes les églises officielles ou indépendantes. Personne ne semble cependant se poser la question de savoir quel est le Nom pour lequel on doit être baptisé. Père, Fils et Saint Esprit sont des désignations des différentes révélations de Dieu. Un même homme peut porter plusieurs titres, par exemple professeur, avocat, médecin et ainsi de suite. Un homme peut être père, époux et fils. Tout cela, ce sont des désignations en relation avec la sphère d’existence et qui sont valables pour les relations du moment. Cependant chaque homme porte un nom. Ainsi en est-il de Dieu qui dans l’Ancien Testament s’est fait connaître par le Nom d’alliance de “Jahwe”. Lors du baptême il s’agit du Nom dans lequel Il s’est révélé dans le Nouveau Testament et qui, dans Matthieu 28.19, n’a pas été prononcé.
 
@@ -163,7 +163,7 @@ Dans la prière sacerdotale, le Fils dit en rapport avec le Père: “J’ai man
 
 En ce temps-là Jésus disait aux Juifs: “MOI, je suis venu AU NOM de mon Père, et vous ne me recevez pas” (Jean 5.43). Qu’en est-il des chrétiens? Bienheureux l’homme qui peut croire que le Père s’est révélé dans le Fils et qu’Il nous a fait connaître Son Nom! Mais quel est donc Son Nom? JESUS, qui est Emmanuel: Dieu avec nous! Il y a une seule révélation personnelle de Dieu, laquelle a eu lieu en Christ, et il y a un seul Nom de Dieu duquel il est question ici: Seigneur Jésus. C’est en ce Nom que tout genou pliera, et c’est ce Nom que toute langue confessera. C’est de cette manière que Dieu nous a rencontrés, et ce n’est qu’ainsi que nous pouvons Le rencontrer. L’énigme de Matthieu 28.19 se résoud donc par ce que nous venons d’exposer et aboutit au Nom du Seigneur Jésus-Christ.
 
-#### ENSEIGNEMENT DES APOTRES
+#### Enseignement des apôtres
 
 Nous voulons considérer maintenant comment l’ordre de baptême a été effectivement exécuté dans l’Eglise primitive. Pierre fait partie de ceux auxquels le Seigneur a donné Ses ordres dans Matthieu 28. Il est celui auquel le Seigneur Jésus a confié les clefs du Royaume des cieux, c’est-à-dire qu’il avait accès à tout ce qui concernait le Royaume de Dieu. Déjà avant que le Saint-Esprit ne soit répandu, il s’est levé au milieu des 120 et a commencé à ranger les événements conformément aux Ecritures (Actes 1.15). Tout de suite après qu’il ait été rempli du Saint-Esprit, le jour de Pentecôte, il prêcha l’Evangile à la foule qui était accourue. Sa parole transperça le coeur de plusieurs, qui demandèrent: “Que ferons-nous, frères? Et Pierre leur dit: Repentez-vous, et que chacun de vous soit baptisé AU NOM DE JESUS CHRIST, en rémission des péchés” (Actes 2.37,38). C’est ici que l’ordre de mission fut exécuté pour la première fois, à savoir que ceux qui étaient devenus croyants furent baptisés selon Matthieu 28.19 AU NOM dont il est question dans ce passage. L’argument faisant valoir que les paroles de Jésus seraient plus importantes que celles des apôtres ne peut impressionner un homme qui croit en l’inspiration absolue des Ecritures. Au contraire ce qui nous impressionne très profondément est le fait que le commandement et l’exécution concordent rigoureusement.
 
@@ -193,7 +193,7 @@ De même, qu’en est-il de tous ces évangélistes qui chassent les démons au 
 
 Dans ce passage biblique il est question des gens du plein Evangile qui, d’un côté, ont part aux bénédictions promises à l’Eglise mais qui, de l’autre, considèrent les traditions non bibliques comme très précieuses. Ils ne sont pas prêts à entreprendre une correction complète de leurs voies conformément aux Ecritures. Qui donc est prêt à se plier devant le clair témoignage des Ecritures? Il faut du courage pour rejeter la pratique traditionnelle du baptême et accepter celle qui est biblique. Cependant comme nous l’avons lu dans Romains 6.3, celui qui ne s’identifie pas avec Christ dans Sa mort par le moyen du baptême ne peut pas davantage être ressuscité avec Lui! Des bénédictions et des dons seuls ne signifient rien. Il faut premièrement que l’enseignement et la pratique soient en parfait accord. A la fin, ce qui sera démontré comme étant seul valable c’est l’obéissance de la foi. La foi au travers de laquelle la volonté de Dieu nous est révélée est cette même foi qui produit les oeuvres exigées dans la Parole. Bienheureux ceux qui écoutent la Parole de Dieu et agissent conformément à cette Parole.
 
-#### LA SIGNIFICATION
+#### La signification
 
 Au début du Nouveau Testament, Jean-Baptiste apparut et prêcha: “Repentez-vous, car le royaume des cieux s’est approché” (Mat. 3.2). A maintes reprises le Seigneur se référa à lui et à son ministère. Entre autres choses Il dit: “Et tout le peuple qui entendait cela, et les publicains, justifiaient Dieu, ayant été baptisés du baptême de Jean; mais les pharisiens et les docteurs de la loi rejetaient contre eux-mêmes le conseil de Dieu, n’ayant pas été baptisés par lui” (Luc 7.29,30). Jésus-Christ Lui-même se rendit au Jourdain et se fit baptiser par Jean en disant: “… car ainsi il nous est convenable d’accomplir toute justice” (Mat. 3.13-17).
 
@@ -217,7 +217,7 @@ Avant que le déluge ne fonde sur eux, les gens demandèrent certainement: “Po
 
 Alors pour toujours il sera trop tard et l’on ne pourra plus faire ce que l’on a manqué de faire. C’est pourquoi le Seigneur nous exhorte en disant: “Aujourd’hui, si vous entendez sa voix, n’endurcissez pas vos coeurs…” (Hébreux 3.7). La Parole de Marc 16.16 est toujours valable: “Celui qui aura cru et qui aura été baptisé sera sauvé”. Qui donc est prêt à prendre cela au sérieux et à le suivre? La foi véritable est vivante, et elle se manifeste par l’obéissance à la Parole de Dieu. La foi sans les oeuvres qui l’accompagnent comme elles sont exigées par la Parole est morte en elle-même et est sans valeur. En fait, c’est seulement une confession de foi religieuse qui n’a jamais sauvé personne. Les doctrines chrétiennes ne servent à rien ni à personne si elles ne sont pas scripturaires. Notre communion avec Dieu vient par la Parole qui, grâce à l’Esprit, est rendue vivante en nous. Seul ce qui vient de Lui conduit de nouveau à Lui.
 
-#### EPROUVEZ LES ESPRITS
+#### Éprouvez les esprits
 
 Avant de clore ce sujet il est nécessaire d’y ajouter quelque chose de décisif. En dehors des églises traditionnelles, dans lesquelles aujourd’hui on ne prêche pratiquement plus la conversion biblique et la nouvelle naissance, il règne même dans certains cercles du Plein Evangile un manque de clarté au sujet des plus importantes doctrines fondamentales de l’Ecriture Sainte. Ni les docteurs de la Bible ni les théologiens ne semblent avoir remarqué que dans la Bible il ne se trouve aucun passage attestant qu’une personne ait jamais été baptisée dans la formule “au nom du Père, du Fils et du Saint-Esprit”. Cette formule provient de l’église catholique et a été reprise par les églises protestantes jusqu’aux communautés chrétiennes des temps modernes.
 

@@ -64,9 +64,9 @@ bible_refs:
 ---
 BROCHURE N° 6
 
-# RÉVÉLATION DES SEPT SCEAUX
+# Révélation des sept sceaux
 
-## QUATRIÈME SCEAU
+## Quatrième sceau
 
 ### (The Fourth Seal)
 
@@ -193,7 +193,7 @@ Jeffersonville — Indiana, U.S.A.
 108 Mais c’est dans l’âge de l’aigle, le dernier âge, l’âge prophétique que seront données des paroles prophétiques car c’est aux prophètes que les secrets sont révélés.
 109 Nous allons nous arrêter un instant sur ce sujet afin que ce soir vous compreniez complètement. Vous vous rendez bien compte que la plupart du temps je ne parle pas seulement au groupe ici présent. Les enregistrements vont partout. Vous voyez? Il faut donc que je donne les choses clairement parce que si quelqu’un ne reçoit qu’une seule bande et non pas l’ensemble des prédications il faut quand même qu’il puisse comprendre.
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 11
+## Révélation des sept sceaux / le quatrième sceau 11
 
 110 Dieu a promis cela pour ce jour afin d’apporter la dernière conclusion à toutes ces choses différentes qui étaient tombées dans le mélange. Nous avons eu les vêtements d’Elie, le manteau d’Elie. Il y a eu des gens qui… John Alexander Dowie est enterré quelque part, enveloppé dans une longue robe; il disait qu’il était Elie. Nous avons eu toutes sortes de choses semblables. De toute manière qu’est-ce que cela signifie? Ce n’est que pour ôter une Vérité qui va être présentée.
 
@@ -223,7 +223,7 @@ Jeffersonville — Indiana, U.S.A.
 
                                      http://www.cmpp.ch
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 12
+## Révélation des sept sceaux / le quatrième sceau 12
 
 123 Nous remarquons que cette chose glorieuse s’est produite. Nous croyons qu’il doit y avoir une venue du véritable esprit d’Elie. Cela a été prédit, vous voyez. Et nous devons nous rappeler qu’il sera ici en sa propre saison, en son temps. Il se pourrait que nous soyons maintenant en train de poser les fondations de cela. Et ce ne sera certainement pas une organisation.
 
@@ -256,7 +256,7 @@ Il répondit: “C’est moi”.
 
         http://www.cmpp.ch
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 13
+## Révélation des sept sceaux / le quatrième sceau 13
 
 là-haut, ayant la vue perçante de l’aigle, qui nous permet de voir ce qui vient et de savoir ce qu’il faut faire. C’est l’âge de l’aigle qui l’a révélé. Or nous découvrons que cet âge de l’aigle avait été promis dans Apocalypse 10.7 et, dans Malachie 4.5, que cela aurait lieu dans les derniers jours. C’est vrai qu’il sera là. Bien.
 
@@ -284,7 +284,7 @@ là-haut, ayant la vue perçante de l’aigle, qui nous permet de voir ce qui vi
 
         http://www.cmpp.ch
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 14
+## Révélation des sept sceaux / le quatrième sceau 14
 
 parfaitement clair!…
 
@@ -316,7 +316,7 @@ parfaitement clair!…
 
         http://www.cmpp.ch
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 15
+## Révélation des sept sceaux / le quatrième sceau 15
 
 épée à deux tranchants. Ils pourraient faire venir des milliards de tonnes de mouches s’ils le voulaient. Amen! Quoi qu’ils disent, cela s’accomplira parce que c’est la Parole de Dieu sortant de la bouche de Dieu.
 
@@ -347,7 +347,7 @@ parfaitement clair!…
 
         http://www.cmpp.ch
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 16
+## Révélation des sept sceaux / le quatrième sceau 16
 
 fausse apparence. Oh, mon Dieu! Il vient sous le faux prétexte de la vraie Parole, il s’associe lui-même à la Parole.
 
@@ -379,7 +379,7 @@ fausse apparence. Oh, mon Dieu! Il vient sous le faux prétexte de la vraie Paro
 
     http://www.cmpp.ch
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 17
+## Révélation des sept sceaux / le quatrième sceau 17
 
 trinité. C’est de cela qu’il est fait et il chevauche en une trinité. Son pouvoir est dans une trinité. Sa couronne est une trinité. Son cheval est une trinité. C’est ce qu’il est: une trinité, un pouvoir de trinité, une couronne de trinité, une chevauchée de trinité, ce sont des offices. De nouveau le nombre quatre. Vous voyez, c’est de nouveau le nombre quatre.
 
@@ -409,7 +409,7 @@ trinité. C’est de cela qu’il est fait et il chevauche en une trinité. Son 
 
         http://www.cmpp.ch
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 18
+## Révélation des sept sceaux / le quatrième sceau 18
 
 l’onction de l’Esprit, c’est tout. Et je sais que ce que je reçois est juste. Vous croyez en Dieu? Je sais que vous croyez. Faites attention à ce qui va se passer à la fin de la semaine.
 
@@ -438,7 +438,7 @@ l’onction de l’Esprit, c’est tout. Et je sais que ce que je reçois est ju
 
         http://www.cmpp.ch
 
-## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 19
+## Révélation des sept sceaux / le quatrième sceau 19
 
 209 C’est vrai, nous savons qu’Il lui donna du temps pour se repentir. L’âge de Thyatire était l’âge des ténèbres. C’est en ce temps-là que chevauche le cavalier au cheval noir, alors qu’il fallait payer pour les messes, pour les prières, les neuvaines et tout le reste. Vous voyez, il est alors sur son cheval noir. Après avoir refusé de se repentir à Thyatire (observez ceci), le cavalier change de cheval et enfourche un cheval livide, la Mort, pour son dernier ministère.
 

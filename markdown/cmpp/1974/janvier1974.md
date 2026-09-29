@@ -65,9 +65,9 @@ bible_refs:
 ---
 > “Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE
+# Lettre circulaire
 
-## JANVIER 1974
+## Janvier 1974
 
 Je salue cordialement tous les frères et soeurs, dans le précieux Nom de notre Seigneur Jésus-Christ, par cette parole de Luc 21.36:
 > “Veillez donc et priez en tout temps, afin que vous ayez la force d’échapper à toutes ces choses qui arriveront, et de paraître debout devant le Fils de l’homme”.
@@ -84,7 +84,7 @@ En ce temps-ci, nous ne nous attendons pas à un réveil mondial qui remue de gr
 
 Puissions-nous être trouvés dignes, dans cette dernière génération, d’échapper à tout ce qui doit arriver sur la terre, afin de subsister devant le Seigneur. La pierre du faîte doit être posée sur la Maison de Dieu. Christ doit être manifesté comme étant Le même dans Son Eglise. Il est la Pierre fondamentale et la Pierre du faîte; l’Alpha et l’Oméga, le Chef et le Consommateur de notre foi. Lui-même achève la préparation de Son Eglise pour le jour de Son glorieux retour.
 
-## ISRAEL DANS LA PROPHETIE
+## Israël dans la prophétie
 
 Dans ce temps prophétique, nous voyons la Parole de Dieu s’accomplir de manières variées. Dieu accomplit des choses décisives, non seulement dans l’Eglise, mais également en Israël. Il a dit: “En ce jour-là, je ferai de Jérusalem une pierre pesante pour tous les peuples; tous ceux qui la soulèveront seront meurtris; et toutes les nations de la terre s’assembleront contre elle” (Zacharie 12.3).
 
@@ -106,7 +106,7 @@ Parmi les élus, en Israël, il y a une grande attente du Messie. Il y a dans le
 
 Comment pouvons-nous classer les événements de ce temps-là? Parmi les croyants véritables se pose cette grave question: Combien le temps de la grâce durera-t-il encore, et quand le Seigneur reviendra-t-Il? Les signes des temps nous parlent clairement, et le figuier est en pleine floraison. La parole prophétique s’accomplit sous nos yeux.
 
-## LES 70 SEMAINES DE DANIEL
+## Les 70 semaines de Daniel
 
 Beaucoup de ceux qui s’occupent de la Parole prophétique se posent la question de savoir comment doivent être classées les 70 semaines de Daniel. L’ange Gabriel instruisit le prophète Daniel sur les six buts du plan de salut pour Israël. Dans Daniel 9.24, il est écrit: “Soixante et dix semaines ont été fixées sur ton peuple et sur ta ville sainte, pour…”.
 1. faire cesser les transgressions
@@ -171,7 +171,7 @@ Ce qui suit est traduit des citations extraites de la prédication de frère Bra
 > «Je ne voudrais pas que quelqu’un s’en aille d’ici en comprenant de travers. Que personne n’interprète mal ce que j’ai dit, et prétende que frère Branham aurait dit que Jésus reviendrait en 1977. Je n’ai jamais dit chose pareille. Jésus peut revenir aujourd’hui. Mais j’ai seulement dit qu’entre 1933 et 1977, il se passera quelque chose, et que les choses qui m’ont été montrées en vision s’accompliront. Et cinq d’entre elles sont déjà accomplies.»
 > «N’êtes-vous pas heureux? Revenez au Message, frères Revenez à l’original Revenez à Pentecôte Revenez à la vraie bénédiction Revenez au Nom de Jésus-Christ Revenez au baptême du Saint-Esprit Revenez aux signes et aux miracles Revenez à Pentecôte Finissez-en avec vos organisations ».
 
-## CONCLUSION
+## Conclusion
 
 La charge que j’ai reçue du Seigneur est uniquement de faire connaître plus loin la Parole révélée de Dieu, c’est-à-dire de distribuer la nourriture qui avait été mise en réserve. Je désire accomplir ce service consciencieusement, sans me laisser engager dans quelque spéculation que ce soit. Nous sommes décidés à nous opposer à toute interprétation arbitraire des Saintes Ecritures et de la Parole de Dieu révélée dans ce temps. Nous nous distançons consciemment de tout frère, ou de tout groupe, qui ne s’en tient pas uniquement à la Parole de Dieu.
 
@@ -183,7 +183,7 @@ En toutes choses, nous devons être profonds et vrais. Après le départ de frè
 
 Jusqu’à présent, nous n’avons pas trouvé qu’il était question d’un calendrier qui s’effeuillait de lui-même, et se serait arrêté à l’année 1977. Il a souvent parlé de 1977 en rapport avec différentes choses, mais sa signification n’en est aucunement modifiée. D’ailleurs, les frères des USA ne peuvent pas davantage trouver cette déclaration. On me dit uniquement que cette déclaration se trouvait dans un manuscrit. Nous devons alors purement et simplement la laisser tomber. Que personne ne dise: “Mon Seigneur tarde à revenir ” et que personne ne s’en tienne fanatiquement à un temps déterminé. Il est certain que le retour de Jésus-Christ est proche, mais quant au temps et à l’heure, personne ne les connaît. Que nous puissions seulement veiller journellement et être prêts.
 
-## VOEUX DE BENEDICTION
+## Vœux de bénédiction
 
 Je souhaite de tout coeur, à chacun, la bénédiction du Dieu Tout-puissant pour les fêtes de fin d’année, et une nouvelle année riche et bénie. Nous souhaitons que dans la vie de tous Ses enfants, se réalise littéralement le Psaumes 20, versets 5 et 6.
 
@@ -193,7 +193,7 @@ Que le Dieu fidèle bénisse tous les frères et soeurs de tous les pays qui, pa
 
 Agissant de la part de Dieu.
 
-## EDITORIAL
+## Éditorial
 
 > “Le dragon se tint devant la femme qui allait enfanter, afin de dévorer son enfant, lorsqu’elle aurait enfanté” (Apocalypse 12.4).
 > “Ce jour est un jour d’angoisses, de châtiment et d’opprobre, car les enfants sont près de sortir du sein maternel, et il n’y a point de force pour l’enfantement” (Ésaïe 37.3).

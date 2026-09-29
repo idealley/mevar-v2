@@ -41,9 +41,9 @@ bible_refs:
   - "Actes 3"
   - "Apocalypse 3"
 ---
-## LE SAVEZ-VOUS… ?
+## Le savez-vous… ?
 
-### SAVEZ-VOUS QUE… ?
+### Savez-vous que… ?
 
 Savez-vous que nous avons reçu notre dernier avertissement de la part de Dieu?
 

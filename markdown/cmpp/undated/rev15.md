@@ -54,7 +54,7 @@ WILLIAM MARRION BRANHAM
 
 La Révélation de Jésus-Christ
 
-# LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE CINQ (FIN)
+# La Révélation de Jésus-Christ — Apocalypse, chapitre cinq (fin)
 
 18 juin 1961, dimanche matin
 Branham Tabernacle

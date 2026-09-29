@@ -580,7 +580,7 @@ trouve au-dessous des circonstances. Les gens ont peur de la nouvelle naissance.
 
     http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 11
+## Les aigles de Dieu 11
 
 crucial. Ils ont peur de naître de nouveau!
 
@@ -602,7 +602,7 @@ Oh! frères, je voudrais maintenant vous parler de ces marques faites au fer rou
 
 http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 12
+## Les aigles de Dieu 12
 
 plutôt à ce que les bêtes aient effectivement cette marque de sang sur leur peau.
 
@@ -624,7 +624,7 @@ Ainsi elle se tient là, s’efforçant d’éloigner absolument toutes ces viei
 
 http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 13
+## Les aigles de Dieu 13
 
 forces. Ces plumes sont fixées si solidement à son corps que nul ne peut les en arracher, ainsi les petits ne risquent rien. La vieille mère donne ensuite quelques coups d’ailes et s’envole du rocher. Elle s’en va, cinglant loin dans la profondeur de l’azur, toujours plus haut. Les petits sont maintenant dans une situation qu’ils n’avaient encore jamais connue. Pour eux ce sont vraiment des instants merveilleux et exaltants.
 
@@ -648,7 +648,7 @@ Mais moi je vous dis une chose, frères: Lorsqu’un homme est né pour être un
 
 http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 14
+## Les aigles de Dieu 14
 
 toutes ces choses du monde que les Eglises modernes d’aujourd’hui mêlent à leur activité (sports, musique, récréations les plus diverses) finissent dans la tristesse, car on se demande: «Où est Dieu là-dedans». En effet Dieu, attristé, se retire d’eux de plus en plus. Parfaitement, c’est l’exacte vérité! Les poulets aiment ce genre de choses, mais pas les aigles, car ce n’est pas une nourriture d’aigle.
 
@@ -673,7 +673,7 @@ Vous pouvez faire partie de la plus grande Eglise qu’il y ait dans ce pays et 
 
 http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 15
+## Les aigles de Dieu 15
 
 et aujourd’hui, et éternellement, alors les aigles de Sa propre race diront aussi: «Oui Seigneur, c’est aussi ce que je désire. Je combats pour cela et je veux y arriver». Certainement, Il est le même hier, et aujourd’hui, et éternellement.
 
@@ -701,7 +701,7 @@ Restons dans l’adoration devant Lui et inclinons nos têtes en élevant nos ma
 
 http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 16
+## Les aigles de Dieu 16
 
 Combien de groupes de gens y a-t-il, spirituellement parlant, actuellement sur la terre? Il y en a trois: Sem, Cham et Japhet ou comme on peut les désigner aussi: les Juifs, les Gentils et les Samaritains qui sont à moitié Juifs et Gentils. Avez-vous déjà remarqué cela? Combien d’entre-vous savent que Jésus donna les clés de la Pentecôte à Pierre? C’est pourtant vrai. Avec ces clés, il ouvrit premièrement, à Jérusalem, le royaume aux Juifs. Est-ce exact?
 
@@ -725,7 +725,7 @@ Ainsi je les vois comme dans un tableau, assis sur le bord de ce puits et Il lui
 
 http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 17
+## Les aigles de Dieu 17
 
 que tu ne viennes plus puiser ici.
 — Mais, dit-elle, le puits est profond et tu n’as rien pour puiser… Et la conversation continua. Or que fit-il donc?
@@ -752,7 +752,7 @@ Combien d’entre vous savent que Elohim était le grand Dieu Jéhova, l’Etern
 
 http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 18
+## Les aigles de Dieu 18
 
 reprit: “Abraham, je viens te faire visite pendant cette période de ta vie. Je t’avais promis que tu aurais ce fils et voici venu le temps où tu vas le recevoir”. Or Sara, mais d’une manière tout à fait silencieuse, rit au-dedans d’elle-même. Et l’ange, le dos tourné à la tente s’écria: “Pourquoi Sara a-t-elle donc ri?”. Voyez-vous cela? Or Jésus a dit que ceci se passerait également parmi les Gentils, juste avant le temps de la fin. Le Messie se manifesterait sous la forme du Saint-Esprit.
 
@@ -780,7 +780,7 @@ Soyez attentifs à votre appel, recevez-le et ne manquez pas votre jour. Combien
 
 http://www.cmpp.ch
 
-## LES AIGLES DE DIEU 19
+## Les aigles de Dieu 19
 
 cette ligne de prière, sont-ils des inconnus pour moi? Levez votre main vous tous qui ne me connaissez pas. Je crois que je ne connais personne ici, à part peut-être Gene Goad et Pat Tyler assises là-bas. A l’exception de mon fils qui se tient là-bas, ce sont réellement les seules personnes que je connaisse.
 

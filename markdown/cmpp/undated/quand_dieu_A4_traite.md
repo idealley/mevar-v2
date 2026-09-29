@@ -99,7 +99,7 @@ L’origine de Celui qui est né à Bethléhem remonte aux jours de l’Eternit�
 Jésus était avant Abraham: “Jésus leur dit: «En vérité, en vérité, Je vous le dis, avant qu’Abraham fût, Je suis»” (Jean 8.56-58).
 Thomas reconnut que Jésus était Dieu (Jean 20.28).
 
-## QUAND COMMENÇA LA FILIALITE?
+## Quand commença la filialité?
 
 Jésus était-Il un Fils dans l’Eternité avec Dieu, avant Sa naissance à Bethléhem?
 S’il en est ainsi, quand devint-Il Fils?
@@ -114,7 +114,7 @@ Dans l’Eternité, Dieu était un Esprit invisible, sans chair ni os, qui seul 
 C’est Lui le seul Seigneur Dieu et l’unique Sauveur qui vint sur la terre sous la forme d’un homme pour devenir le salut de l’homme. Son Nom était Jésus, ce qui signifie «Dieu Sauveur».
 C’est alors que commença la filialité: quand Dieu devint un homme, l’enfant de Bethléhem, l’Agneau du sacrifice pour le péché. Ce fut Dieu incarné qui mourut pour les péchés du monde (Actes 20.28). Il n’y avait pas de Fils avant la naissance de Jésus à Bethléhem, bien que Celui qui devint Fils existât de toute Eternité en tant qu’Esprit invisible.
 
-## JESUS ETAIT A LA FOIS DIEU ET HOMME
+## Jésus était à la fois Dieu et homme
 
 Jésus était un homme, un homme parfait. En tant qu’homme, Il dormait, mangeait et éprouvait de la fatigue. Mais tout dans Ses oeuvres puissantes prouve qu’Il était plus qu’un homme. Qui d’autre que Lui aurait pu ressusciter des morts, marcher sur les eaux, ouvrir les yeux des aveugles, multiplier des pains et des poissons, etc.?
 Il était Dieu et homme, unis en une seule image. C’est pourquoi Il pouvait dire à Philippe: “Celui qui M’a vu, a vu le Père” (Jean 14.9). Et n’a-t-Il pas dit: “Mon Père et Moi, nous sommes Un”? N’a-t-Il pas dit également: “Si vous ne croyez pas ce que Je suis (Il parlait du Père), vous mourrez dans vos péchés” (Jean 8.24, 27).
@@ -124,7 +124,7 @@ En tant qu’homme, Il mangeait. En tant que Dieu, Il multiplia les pains et les
 Par conséquent, quand Dieu dit: “Faisons l’homme à notre image…” (et non: «à nos images»), Il parlait des deux aspects de la relation Père et Fils en «une seule image» (et non: «à Ses images» — Genèse 1.26-27). Quelle est donc l’image de Dieu? Jésus est l’image du Dieu invisible (Colossiens 1.15).
 Les enfants d’Israël n’avaient jamais vu leur Dieu. Il était toujours invisible pour eux. Mais quand Jésus vint, le Dieu invisible fut rendu visible. En même temps que Dieu se manifestait en chair sur la terre, Il demeurait Esprit au ciel. C’est pour cette raison que Jésus pouvait parler du «Père qui vit en Moi», et également du «Père qui est aux cieux».
 
-## MAIN DROITE
+## Main droite
 
 «Jésus à la droite de Dieu» ne signifie pas que Dieu et Jésus sont deux Personnes assises l’une à côté de l’autre sur un trône dans le Ciel, tous deux restant là pendant des siècles. C’est une idée de Dieu ridicule et antiscripturaire. Une fois, un prédicateur a dit que Jésus s’était tenu là une seule fois depuis Son ascension au Ciel: ce fut lorsqu’Il accueillit Etienne, car celui-ci L’a vu «debout» à la droite de Dieu.
 Mais telle n’est pas la signification de la main droite de Dieu. La main droite est un terme symbolique qui signifie pouvoir et autorité. Jésus a dit: “Tout pouvoir M’a été donné dans les cieux et sur la terre”. Quand Dieu devint un homme incarné sur la terre, Il accomplit toutes Ses oeuvres puissantes grâce au pouvoir et à l’autorité de cet homme. Et maintenant que Jésus est monté au Ciel, Il a tout pouvoir dans le Ciel (Mat. 28.18). Par conséquent, Jésus à la droite de Dieu signifie qu’Il a tout pouvoir. Cela signifie que Jésus est la puissance de Dieu (1 Corinthiens 1.24). Il faut se rappeler que le Seigneur Jésus-Christ est plus qu’un homme. Il est à la fois Dieu et homme. Il est Dieu manifesté dans la chair (1 Timothée 3.16).
@@ -135,18 +135,18 @@ L’Eternel se tient à la droite du pauvre (Psaumes 109.31).
 Il dirigea la droite de Moïse (Ésaïe 63.12).
 Quand Il est à ma droite, je ne chancelle pas (Psaumes 16.8) et bien d’autres passages.
 
-## LE SAINT-ESPRIT
+## Le Saint-Esprit
 
 Le Saint-Esprit n’est pas une troisième Personne, distincte et séparée du Père et du Fils. Le Saint-Esprit est Dieu. Dans Jean 4.24, nous lisons: “Dieu est Esprit”. Et Dieu est Saint. Par conséquent, Dieu est le Saint-Esprit. Pour prouver que le Saint-Esprit est Dieu, il n’est pas besoin d’autre preuve que la parole des Ecritures qui nous dit que le Saint-Esprit est le Père de Jésus (Mat. 1.18,20). Rappelons-nous que Jésus est Dieu incarné.
 
-## JESUS EST LE SAINT-ESPRIT
+## Jésus est le Saint-Esprit
 
 Un jour, Jésus rassembla Ses disciples et leur dit qu’Il allait bientôt s’en aller, mais qu’Il leur enverrait un autre Consolateur, qui resterait toujours avec eux.
 Qui donc est cet autre Consolateur? Quel est Son Nom? Est-ce quelqu’un d’autre que Jésus? Si le Consolateur est une autre Personne, alors Jésus n’est pas là, Il n’est pas en nous. Mais Jésus a dit: “Je suis avec vous tous les jours, jusqu’à la fin du monde”.
 Jésus n’a pas laissé Ses disciples dans les ténèbres. Il leur a dit clairement qui est l’autre Consolateur. Il a dit: “Je ne vous laisserai pas orphelins, Je viendrai à vous” (Jean 14.18). Il leur a dit de plus que l’autre Consolateur était Celui qui habitait avec eux, et qu’Il serait en eux quand Il reviendrait. Il était avec eux dans la chair et monta au Ciel avec Son corps, mais Il revint en Esprit le jour de Pentecôte pour être en eux. De sorte que nous pouvons chanter avec raison: «Quand Jésus entra dans mon coeur…».
 Par conséquent, le Nom du Consolateur (qui est le Saint-Esprit), est Jésus (Jean 14.26). Il n’y a pas d’autre nom.
 
-## LA THEORIE DE LA TRINITE
+## La théorie de la trinité
 
 A travers les siècles d’obscurantisme et de traditions humaines, la grandeur, la gloire et la majesté du Seigneur Jésus-Christ avaient été voilées. Celui qui avait dit: “Je suis le Premier et le Dernier” avait été relégué à la seconde place.
 Après des siècles d’âpres discussions au sujet de la Divinité, on finit par tomber d’accord sur une doctrine connue sous le nom de Trinité, affirmant ceci: «Dieu comprend trois Personnes distinctes et séparées», mettant ainsi Jésus-Christ (qui est proclamé Seigneur de toutes choses) à la deuxième place.
@@ -159,7 +159,7 @@ Jésus-Christ a embarrassé le monde aux jours de Son incarnation, et Il l’emb
 Ils Lui demandaient constamment: «Qui es-tu? Que te fais-tu toi-même? Quelle sorte d’homme est celui-ci? D’où lui vient sa sagesse? Es-tu le Fils de Dieu? Es-tu le roi des Juifs? D’où es-tu? Comment cet homme connaît-il les Ecritures, n’ayant jamais étudié? Qui est-il pour pardonner les péchés?».
 Et aujourd’hui encore, le monde est dans l’embarras. Ce n’est pas étonnant parce qu’Il est grand et merveilleux. Le Nom de Jésus surpasse tout autre nom. Aucune langue humaine a-t-elle jamais pu en proclamer la valeur?
 
-## L’ANTICHRIST
+## L’antichrist
 
 Le Malin a fait de son mieux pour dissimuler l’identité de Jésus-Christ, pour Le cacher aux yeux du monde, et il y réussira si bien qu’à la fin de cet âge, le monde entier rejettera Jésus-Christ et adorera l’Antichrist comme s’il était Dieu — tous, sauf ceux dont le nom est inscrit dans le Livre de Vie de l’Agneau.
 Jean nous a mis en garde quand il a dit: “Tout esprit qui ne confesse pas Jésus-Christ venu en chair n’est pas de Dieu; et ceci est l’esprit de l’antichrist…”. 1 Timothée 3.16 dit que Dieu a été manifesté en chair et 1 Jean 4.2 dit que Jésus-Christ est venu en chair. En rapprochant ces deux textes, nous trouvons que Jésus-Christ était Dieu venu en chair; Le placer sur un autre plan que celui de Dieu tout-puissant et Seigneur de toute la terre, c’est joindre les rangs des forces de l’Antichrist.
@@ -172,7 +172,7 @@ CH–1002 Lausanne (Suisse)
 Internet: http://www.cmpp.ch
 Imprimé en Suisse
 
-## QUAND DIEU DEVINT UN HOMME
+## Quand Dieu devint un homme
 
 Mystère des mystères.
 Un jour, dans une humble petite ville, un bébé naquit en un lieu rustique et obscur. Sa venue ne fut pas annoncée au monde. Sa mère n’était pas connue. Ne trouvant pas de place à l’hôtellerie bondée, l’humble couple se réfugia dans une étable, et là, dans les heures sombres de la nuit, pendant que la ville était endormie, le petit étranger arriva.

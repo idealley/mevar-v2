@@ -48,9 +48,9 @@ bible_refs:
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE 9
+# Lettre circulaire 9
 
-## NOVEMBRE 1976
+## Novembre 1976
 
 Je vous salue tous affectueusement dans le précieux Nom de notre Seigneur Jésus-Christ par les paroles de 1 Chroniques 28.20:
 > “Fortifie-toi, prends courage et agis; ne crains point, et ne t’effraie point. Car l’Eternel Dieu, mon Dieu, sera avec toi; il ne te délaissera point; il ne t’abandonnera point, jusqu’à ce que tout l’ouvrage pour le service de la maison de l’Eternel soit achevé”.
@@ -109,7 +109,7 @@ Agissant de la part du Seigneur.
 
 ---
 
-## EDITORIAL
+## Éditorial
 
 Les lignes suivantes sont l’adaptation d’une partie de la prédication apportée par notre frère Frank à la rencontre de Genève, le 28 août 1976.
 

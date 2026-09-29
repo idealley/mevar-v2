@@ -121,7 +121,7 @@ La parole d’Hébreux 6 nous parle de personnes qui ont été éclairées, qui 
 
 C’est une sérieuse parole d’exhortation pour le croyant de ce temps, et cela doit le conduire à s’éprouver lui-même. Qu’est-ce que la pluie de la bénédiction a-t-elle donc fait naître dans notre vie?
 
-### VOYAGES MISSIONNAIRES
+### Voyages missionnaires
 
 **Pologne**
 Par la grâce de Dieu, il nous a été accordé de vivre des jours inoubliables avec les frères et soeurs de Pologne. Il régnait une grande joie, lorsque nous rendions témoignage de ce que nous avions vu de nos propres yeux lors des réunions bénies de frère Branham. Tous ceux qui habitent dans les pays de l’Est et qui n’ont pas la possibilité de participer au développement spirituel de ce temps ressentent comme un grand privilège d’entendre parler maintenant de ce que Dieu a fait dans notre génération.
@@ -132,7 +132,7 @@ En Tchécoslovaquie également, nous avons éprouvé une grande joie à revoir l
 **Autriche**
 C’est avec beaucoup de reconnaissance que nous nous souvenons des réunions richement bénies en Autriche. Le Seigneur a parlé aux Siens d’une manière puissante par Sa Parole et Son Esprit. Il nous a montré à nouveau que la nourriture pour ce temps avait été emmagasinée, et qu’elle ne pouvait être distribuée que conformément aux ordres de Dieu, et de la bonne manière.
 
-### TRAVAIL MISSIONNAIRE
+### Travail missionnaire
 
 De différents pays nous parviennent des nouvelles de frères auxquels le Seigneur a mis à coeur de traduire dans leur langue les prédications de frère Branham et de les publier. Le travail de traduction et d’impression est fait avec un plein dévouement et un esprit de sacrifice désintéressé.
 
@@ -165,7 +165,7 @@ Nous venons de recevoir des nouvelles de frère George Smith qui nous parle des 
 
 Chers frères et soeurs, chers amis, nous pourrions continuer à parler sur ce que Dieu fait dans le monde entier, car chaque réveil s’est étendu sur la terre entière. Ainsi, cette dernière visitation de Dieu atteint également Ses enfants jusqu’aux extrémités de la terre. Nous en sommes très reconnaissants au Seigneur, et nous en donnons à Lui Seul toute la gloire.
 
-### RESPONSABILITE COMMUNE
+### Responsabilité commune
 
 Je ne veux pas manquer de remercier de tout coeur les frères et soeurs qui soutiennent fidèlement l’oeuvre missionnaire. Ensemble, nous en portons la responsabilité devant Dieu.
 
@@ -177,7 +177,7 @@ Que le Seigneur récompense chacun, selon les richesses de Sa grâce.
 
 Agissant de la part de Dieu.
 
-### EDITORIAL
+### Éditorial
 
 Chers amis lecteurs, chers frères et soeurs en Jésus-Christ,
 

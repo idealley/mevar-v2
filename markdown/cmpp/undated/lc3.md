@@ -57,16 +57,16 @@ bible_refs:
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE 3
+# Lettre circulaire 3
 
-## AOUT 1975
+## Août 1975
 
 Je vous salue tous cordialement, dans le Nom précieux de Jésus, par ces paroles d’Ésaïe 33.2:
 > “Eternel, aie pitié de nous! Nous espérons en toi. Sois notre aide chaque matin, et notre délivrance au temps de la détresse!”.
 
 Le Seigneur a eu compassion de nous, et nous plaçons notre espérance uniquement en Lui. Son bras ne s’est encore point raccourci, pour qu’Il ne puisse nous venir en aide. La droite de l’Eternel est toujours aussi élevée, la droite de l’Eternel maintient la victoire. Sa grâce se renouvelle chaque matin. Celui qui se confie en Dieu ne sera jamais confus, même dans les heures les plus sombres de la vie. Jésus ne nous déçoit jamais. Seuls, les hommes déçoivent. Notre secours vient du Seigneur qui a fait les cieux et la terre. Il est notre retraite à l’heure de la détresse et dans toutes les situations de la vie, Il nous comprend. A Lui, nous pouvons tout dire. Il est notre conseil et notre force et, pour nous, Il sera tout en tous.
 
-## L’ACHEVEMENT DE L’OEUVRE DE DIEU
+## L’achèvement de l’œuvre de Dieu
 
 Lorsque Dieu créa les cieux et la terre, et qu’Il eut achevé Son oeuvre le septième jour, Il Se reposa de tout Son travail. Tout ce que Dieu commence, Il le continue d’une manière magnifique, et Il l’achève en son temps. Tout ce qu’Il fait est bien fait, tout est bon et parfait.
 
@@ -80,7 +80,7 @@ Par l’offrande du sacrifice de Sa Vie, Il a racheté les Siens, et tous ceux q
 
 L’Esprit de Dieu ne nous montre pas seulement ce qui est arrivé dans les temps passés, mais Il rend vivante pour nous la Parole de ce temps, et Il nous rappelle quel est l’accomplissement des prophéties bibliques pour nos jours. Il y a deux possibilités pour juger de ce que Dieu fait. La plupart des gens jugent avec leur intelligence, selon leur propre point de vue. C’est à eux que s’applique cette Parole: “L’homme animal ne reçoit pas les choses de l’Esprit de Dieu, car elles sont une folie pour lui, et il ne peut les connaître…” (1 Corinthiens 2.14). La seconde possibilité est que l’action de Dieu soit jugée selon le point de vue de l’Ecriture et qu’elle soit classée d’une manière spirituelle.
 
-## ETRE ASSIS DANS LA CHAIRE DE MOISE
+## Être assis dans la chaire de Moïse
 
 Dimanche 11 mai 1975, je pris part à une conférence en Belgique. Alors qu’un frère parlait, et qu’il citait à tout instant des portions des prédications de frère Branham, l’Esprit du Seigneur vint soudainement sur moi et me remit en mémoire cette Parole des Ecritures: “Les scribes et les pharisiens sont assis dans la chaire de Moïse”. Je vis alors clairement que, de nos jours, la même chose se reproduit, en ceci que l’on se réclame du prophète envoyé par Dieu.
 
@@ -90,19 +90,19 @@ Dieu Lui-même dit de Moïse: “Il n’a plus paru en Israël de prophète semb
 
 Moïse fut un prophète important dans l’histoire du salut. C’est lui que le Seigneur avait destiné à conduire les enfants d’Israël hors de l’Egypte, et c’est par lui qu’Il leur donna les commandements et la loi. Pour les Juifs, Moïse n’était pas un simple prophète, mais bien un prophète, tout particulier. C’est la raison pour laquelle les scribes se référaient si volontiers à lui. Cependant, à plusieurs reprises, le Seigneur Jésus, dans Matthieu 23, depuis le verset 13, appelle plusieurs fois les pharisiens et les scribes des hypocrites. Ils avaient enlevé la clef de la connaissance (Luc 11.52), car eux-mêmes n’étaient pas entrés, et ils ne laissaient pas non plus entrer ceux qui l’auraient voulu.
 
-## ETRE ASSIS DANS LA CHAIRE DE PIERRE
+## Être assis dans la chaire de Pierre
 
 Dans toute l’histoire de l’Eglise du Nouveau Testament, nous rencontrons des situations semblables. Les prophètes et les apôtres avaient parlé en vertu d’un appel divin, sous l’inspiration directe du Saint-Esprit. Ce qu’ils ont prêché est infaillible, car Dieu Lui-même parlait au travers d’eux. Et à tout moment, l’on se réfère à ce qu’ont dit ces hommes de Dieu, sans pour autant que l’on ait une part à la proclamation, à la révélation et à la mission qui leur avaient été données en partage. L’église catholique romaine se réclame aujourd’hui encore de la déclaration faite par Jésus-Christ à Pierre: “Je te donnerai les clefs du Royaume des cieux…”. On parle ouvertement d’être dans la chaire de Pierre, on parle de l’autorité et de la succession apostoliques, on parle de l’infaillibilité du Pape et de ses décrets, etc.
 
-## ETRE ASSIS DANS LA CHAIRE DE PAUL
+## Être assis dans la chaire de Paul
 
 Les églises protestantes se réclament plus particulièrement de Paul. La question est de savoir si, tout en faisant valoir cette prétention, elles ont aussi reçu une telle vocation et la compréhension spirituelle du plan de salut de Dieu? Il y a un grand abîme entre le ministère de Paul et les ministères de ceux qui se réfèrent à lui; quiconque connaît la Bible le sait très bien. C’est parce que le Seigneur Dieu était avec Paul d’une manière toute particulière que beaucoup se réclament de lui, mais sans avoir pour autant reçu de Dieu la même mission pour servir dans l’Eglise. Celui qui se réclame de Paul devrait également croire, enseigner, et pratiquer ce que croyait, enseignait et pratiquait cet apôtre.
 
-## ETRE ASSIS DANS LA CHAIRE DES PERES DE L’EGLISE
+## Être assis dans la chaire des Pères de l’Église
 
 On connaît partout des personnalités éminentes de l’histoire de l’Eglise, et on s’y réfère. Les conciles, au cours desquels des décisions importantes furent prises, sont entrés dans l’histoire. Au temps de la Réformation parurent des hommes bien connus tels que Luther, Calvin, Zwingli, Huss, Schwengfeld, et d’autres encore. Et chaque fois que leurs pensées semblent s’adapter aux siennes, on se rapporte à de tels hommes. Il en est partout de même, que ce soit dans les églises indépendantes comme chez les Méthodistes, les Baptistes, dans l’Armée du salut ou dans d’autres dénominations, tous ont leurs grands hommes auxquels ils se réfèrent — et cela sans que les membres de ces dénominations soient prêts à comparer leurs traditions et les écrits qu’ils ont publiés avec les Saintes Ecritures. Au point de vue spirituel, on s’est arrêté, ne parlant que de ce que ces hommes avaient dit et fait dans le passé, et l’on a manqué de participer au progrès spirituel dans l’action de Dieu. Maintenant, l’Eglise de Jésus-Christ va être ramenée au christianisme original et à la pure doctrine biblique.
 
-## ETRE ASSIS DANS LA CHAIRE DE BRANHAM
+## Être assis dans la chaire de Branham
 
 Après un réveil, certaines choses se manifestent. Toujours à nouveau, cette évolution spirituelle est apparue au fur et à mesure, dès le début de l’Eglise du Nouveau Testament. Car il y a des hommes de Dieu qui reçurent directement du Seigneur une tâche à accomplir, et il y en eut d’autres qui agirent de leur propre initiative. Tous les serviteurs du Nouveau Testament ayant reçu leur ministère du Seigneur, savent ranger la parole prophétique à sa vraie place et, du commencement à la fin, en reconnaître l’accomplissement. Il est indispensable que tous ceux qui ont été saisis par le ministère béni de frère Branham puissent différencier cette double évolution, qui se manifeste à la suite de ce dernier réveil. Comme frère Branham lui-même le disait, de chaque réveil, il sort des jumeaux. L’un d’eux a des sentiments charnels, et l’autre est animé de sentiments spirituels. Les croyants de ce dernier groupe sont de vrais enfants de Dieu, et ils sont conduits dans toute la vérité par le Saint-Esprit. Les autres s’enthousiasment pour ce que Dieu a fait, mais ils ne s’y subordonnent pas, et ne deviennent ainsi pas participants de tout ce que Dieu fait. La prédication de la Parole apportée par frère Branham est sans aucun doute comparable à celle des apôtres et des prophètes. Son ministère n’a jamais été surpassé, et Dieu Lui-même a confirmé celui-ci par de puissants signes et miracles.
 
@@ -140,11 +140,11 @@ Le même homme qui prétendait ne dire que ce que le prophète avait dit, fit ce
 
 Cet homme, qui était excité par la colère avant la réunion, distribua même par la suite la Sainte Cène! Pour moi, le fait d’assister à tout cela était douloureux et inconcevable. Je ne pouvais que secouer la tête. L’unique consolation qui me restait était de savoir que, seul, un petit nombre de personnes se laissent prendre à de telles choses. Après quelque temps, la plupart ouvrent les yeux et retrouvent le bon chemin. Que le Seigneur, dans Sa fidélité, leur soit en aide.
 
-## COLLABORATION
+## Collaboration
 
 Dans l’Eglise du Nouveau Testament, il n’y a point de place pour une association particulière. Nous voyons dans les Actes des apôtres de quelle manière merveilleuse les serviteurs de Dieu collaboraient. Et, aujourd’hui, il ne s’agit pas que l’un ou l’autre entraîne dans son sillage quelques personnes qu’il a convaincues de le suivre; il importe plutôt que le Corps de Christ ne soit pas déchiré, mais édifié et uni. Nous vivons dans un temps très proche du retour du Seigneur, et l’ennemi ne doit pas réussir à désunir les élus de Dieu. Il faut que, maintenant comme au temps de l’Eglise primitive, toutes choses soient ordonnées selon la Parole prophétique biblique. De cette façon, nous serons tous enseignés de Dieu, et nous serons conduits à l’unité de la foi et de la connaissance de Jésus-Christ. Personne n’a en vue son avantage personnel. Nous gardons devant les yeux l’ensemble de l’oeuvre de Dieu, laquelle progresse dans ces jours vers son achèvement.
 
-## TRADUCTION
+## Traduction
 
 Nous avons commencé la traduction des prédications de frère Branham en 1960. Nous le faisions tout d’abord seulement pour l’assemblée de Krefeld. Depuis 1966, nous avons développé ce service, conformément à la mission que le Seigneur nous a confiée. Seul, celui qui a déjà traduit lui-même sait combien cela est difficile de le faire, et cela encore plus particulièrement pour les prédications de frère Branham. Ce qui nous a beaucoup aidés, c’est que nous ayons habité quelques années en Amérique du Nord, et que nous ayons appris là-bas le langage familier employé par frère Branham. Lorsque l’on veut traduire littéralement quelque chose dont on ne saisit pas le sens, on peut souvent arriver à dire le contraire.
 
@@ -168,7 +168,7 @@ Le Seigneur a fait reposer Sa pleine bénédiction sur cette oeuvre, et plusieur
 
 Le Seigneur Lui-même, qui a donné la tâche, donne aussi la force et la capacité de l’accomplir. A Lui seul en soit l’honneur, car Il le fait pour l’édification et l’achèvement de l’Eglise de Jésus-Christ. J’aimerais remercier de tout mon coeur et de toute mon âme tous ceux qui se tiennent derrière ce travail, et le portent dans la prière. Sachez que ce n’est que grâce à votre fidélité qu’il a été possible de publier, et de porter à une grande partie du monde, le Message du temps de la fin. Que Dieu vous récompense tous.
 
-## COPYRIGHT
+## Copyright
 
 Malheureusement, j’ai été contraint de munir nos publications d’un Copyright, parce que même les lettres circulaires qui sont écrites en allemand avaient été traduites en anglais sans autorisation, et le texte a été altéré au point d’être méconnaissable. Non seulement personne ne s’en reconnaissait responsable, mais encore on me donnait pour éditeur! Les incroyants n’auraient pas l’audace de faire une telle chose. Ils savent quelle peine peut être infligée à ceux qui abusent du droit d’auteur. Au reste, chaque serviteur appelé par Dieu s’acquittera de son ministère sans chercher à porter des coups à son compagnon de service.
 
@@ -182,7 +182,7 @@ Agissant de la part de Dieu.
 
 ---
 
-## EDITORIAL
+## Éditorial
 
 > “Frères, priez pour nous” (1 Thess. 5.25).
 

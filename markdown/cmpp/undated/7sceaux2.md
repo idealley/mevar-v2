@@ -58,7 +58,7 @@ bible_refs:
 ---
 BROCHURE N° 2
 
-# RÉVÉLATION DES SEPT SCEAUX
+# Révélation des sept sceaux
 
 PAR
 
@@ -66,9 +66,9 @@ WILLIAM MARRION BRANHAM
 
 ---
 
-## LA BRECHE
+## La brèche
 
-### LA RÉVÉLATION DES SEPT SCEAUX — LA BRECHE 2
+### La révélation des sept sceaux — la brèche 2
 
 **LA BRECHE**
 **entre les sept âges de l’Eglise et les sept Sceaux**

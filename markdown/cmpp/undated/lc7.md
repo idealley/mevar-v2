@@ -40,9 +40,9 @@ bible_refs:
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 
-# LETTRE CIRCULAIRE 7
+# Lettre circulaire 7
 
-## JUILLET 1976
+## Juillet 1976
 
 C’est du fond du coeur que je salue chacun de vous, en Europe et dans le monde entier, au Nom de notre Seigneur Jésus-Christ, par ces paroles d’Actes 1.3:
 

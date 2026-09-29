@@ -47,7 +47,7 @@ original: "branham/1959/59-0211"
 ---
 **Résumé de : “Siméon et Anne” (11 février 1959, soir)**
 
-# SIMEON ET ANNE
+# Siméon et Anne
 
 *11 février 1959, mercredi soir, San Juan (Porto Rico)*
 

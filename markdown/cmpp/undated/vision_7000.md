@@ -110,15 +110,15 @@ bible_refs:
   - "Psaumes 103"
   - "Jean 6"
 ---
-# VISION 7000
+# Vision 7000
 
-## INFORMATION GLOBALE
+## Information globale
 
-### LES PROPHETIES BIBLIQUES ONT LE DERNIER MOT
+### Les prophéties bibliques ont le dernier mot
 
-### LES EVENEMENTS ANNONCES DEVIENNENT REALITE
+### Les événements annoncés deviennent réalité
 
-### LE CHEMIN DE DIEU VERS L’HOMME EST LE CHEMIN DE L’HOMME VERS DIEU
+### Le chemin de Dieu vers l’homme est le chemin de l’homme vers Dieu
 
 **DU MISSIONNAIRE EWALD FRANK**
 
@@ -151,7 +151,7 @@ Dieu créa le monde en six jours, puis Il se reposa le septième jour. Lorsqu’
 
 Comme il est certain que nous nous trouvons à la fin de la période de six mille ans, ainsi il est tout aussi certain que le «jour du Seigneur», le septième jour de Dieu qui est le septième millénaire, se trouve à notre porte. Conformément à Apocalypse 20 ce sera ce Règne de paix de mille ans où Christ sera avec les Siens sur terre et auquel se rapporte le verset 6: “Bienheureux et saint celui qui a part à la première résurrection; sur eux la seconde mort n’a point de pouvoir; mais ils seront sacrificateurs de Dieu et du Christ, et ils régneront avec lui mille ans”. Après le processus de purification vient le renouvellement; la terre sera rétablie dans l’état d’un paradis et là régnera une «paix véritable»: même le loup et l’agneau paîtront ensemble (Ésaïe 11.6-9). Nous trouvons dans la Parole de Dieu d’instructives descriptions en rapport avec le sujet biblique de la «vision du septième millénaire».
 
-### LES PROPHETIES BIBLIQUES ONT LE DERNIER MOT
+### Les prophéties bibliques ont le dernier mot
 
 Sous nos yeux s’accomplissent actuellement les prophéties faites auparavant dans les Saintes Ecritures, lesquelles étaient destinées au temps dans lequel nous vivons maintenant. A cet accomplissement appartient en premier lieu le retour du peuple d’Israël dans le «pays promis». Sa dispersion parmi toutes les nations avait déjà été annoncé à l’avance dans Deutéronome 4; et à la fin des temps il devait être à nouveau rassemblé (Ésaïe 14:1; Jérémie 30.3; 31.7-12; Ezé. 36.38). Jésus-Christ a annoncé cela en symbole lorsqu’Il parlait du «figuier» — lequel symbolise Israël (Osée 9.10) — comme un signe tout particulier pour la génération actuelle (Mat. 24.32-41).
 
@@ -167,7 +167,7 @@ Depuis que Michael Gorbatchev accéda au pouvoir, en 1985, bien des conférences
 
 Conformément au troisième «Accord d’Oslo», les pourparlers sur Jérusalem doivent être terminés en 1999. Comme cela est également annoncé dans la Parole prophétique, une paix sera finalement publiée. Malheureusement — même si Israël sacrifie des «terres pour la paix» — seulement une «paix fictive» sera atteinte par beaucoup de compromis, une paix négociée par les politiciens et “bénie” par la plus haute autorité religieuse. Comme il est écrit, c’est précisément à ce moment-là qu’une ruine soudaine surviendra.
 
-### LE JOUR DU SEIGNEUR
+### Le jour du Seigneur
 
 Aussitôt que sera terminé le «jour du salut» (Ésaïe 49.8; 2 Corinthiens 6.2), directement avant le «jour du Seigneur», c’est-à-dire avant le septième millénaire, le monde sera frappé par de terribles plaies et jugements de la colère de Dieu. Dans Matthieu 24, ainsi que dans d’autres passages des Ecritures, le Seigneur Jésus Lui-même indique quelques circonstances qui accompagneront ce jour. Il parle de guerres et de cris de guerres, de tremblements de terre, de famines et de catastrophes naturelles de tout genre, et Il ajouta: “Ceci n’est que le commencement des douleurs”. Les tremblements de terre et les catastrophes naturelles de tout genre augmenteront de plus en plus, jusqu’à ce que survienne le tremblement de terre attendu depuis longtemps, qui surpassera tous les autres, celui de Californie, délimité par la fissure de San Andreas sur la côte Ouest des Etats-Unis, et que les scientifiques s’attendent à voir arriver à tout instant. Habituellement les douleurs précédent toujours une naissance. Selon Romains 8.19-22, la création toute entière soupire et souffre les douleurs d’un nouvel enfantement. Jésus annonce la grande tribulation par ces paroles: “Car il y aura alors une grande tribulation, telle qu’il n’y en a point eu depuis le commencement du monde jusqu’à maintenant, et qu’il n’y en aura jamais” (Mat. 24.21).
 
@@ -185,7 +185,7 @@ Une atmosphère de fin du monde n’est pas à sa place ici, elle n’apporterai
 
 Beaucoup d’autres textes bibliques pourraient être cités sur l’ensemble de ce thème. Tout ce qui a été écrit il y a déjà longtemps entrera bientôt dans l’histoire. Toutefois, nous devons agir avec sobriété et prudence et planifier tout à fait normalement notre vie, car personne ne connaît réellement le temps ni l’heure; nous devrions seulement nous soucier de marcher avec Dieu et d’être prêts en tout temps à rencontrer le Seigneur. Ce tout dernier âge, dans lequel nous vivons maintenant a été comparé par notre Seigneur Jésus-Christ aux jours de Noé et de Sodome et Gomorrhe (Luc 17.26-30). Personne ne contestera que dans le monde entier et sous tous les rapports les choses sont pires qu’en ce temps-là. Aujourd’hui comme en ce temps-là, le monde tombé de la position qu’il avait auprès de Dieu est mûr pour le jugement. Dieu offre les deux choses: la grâce et le jugement. Que voulez-vous choisir?
 
-### LE RETOUR DE CHRIST
+### Le retour de Christ
 
 En tant que Créateur, Dieu a un plan pour Sa création; de même, en tant que Rédempteur, Il a un plan pour Ses rachetés. Celui qui croit à l’existence d’un Dieu personnel est également convaincu qu’il n’a rien laissé au hasard. L’Eternel dit: “Je suis Dieu, et il n’y en a point comme moi, déclarant dès le commencement ce qui sera à la fin, et d’ancienneté ce qui n’a pas été fait, disant: Mon conseil s’accomplira, et je ferai tout mon bon plaisir…” (Ésaïe 46.10). “… car il consomme et abrège l’affaire en justice, parce que le Seigneur fera une affaire abrégée sur la terre” (Romains 9.28).
 

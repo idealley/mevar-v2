@@ -136,7 +136,7 @@ par
 
 Ewald FRANK
 
-## INTRODUCTION
+## Introduction
 
 A cause de certains événements, il est devenu nécessaire, comme le dit Paul à l’Eglise de Corinthe, de répondre aux questions “… au sujet desquelles vous m’avez écrit”. Le thème tout particulier du mariage doit donc être encore une fois éclairé à fond.
 
@@ -164,7 +164,7 @@ Les doctrines non reliées à la loi de Dieu sont les doctrines de “l’inique
 
 Une doctrine ne peut être “biblique” que lorsque les deux, l’Ancien et le Nouveau Testament, sont pris en considération et amenés à l’harmonie. C’est pour cette raison que les confessions chrétiennes sont sur le chemin de l’erreur, parce qu’elles se sont détachées du fondement de l’Ancien Testament. Dans sa prédication “Mariage et Divorce”, l’homme de Dieu nous surprend sans cesse par ses comparaisons inhabituelles qu’il n’aurait, comme nous le savons tous, pas utilisées de lui-même. Dans l’humilité qui lui avait été donnée, il dit: “Parce que c’est une question biblique, il doit y avoir aussi une réponse biblique”. Cependant, les réponses bibliques qu’il donne ne conviennent pas à la représentation moderne que nous en avons. L’esprit de ce temps règne partout sous la bannière de l’égalité. La pleine émancipation est “à la mode”, et malheur à celui qui se réclame des déclarations de la Bible qu’il appelle “vieux jeu et dépassées”.
 
-## RECU DU SEIGNEUR
+## Reçu du Seigneur
 
 Dans l’introduction de sa prédication frère Branham mentionne (p.5, § 25) 10’000 cas dans lesquels quelque chose lui a été révélé et annoncé à l’avance, des choses qui se sont toutes accomplies. Il laissa son Assemblée, qui avait entendu de ses oreilles et vu ces choses de ses propres yeux pendant toutes ces années, confirmer cela par un puissant “Amen!”. Ensuite il montra que les deux pensées doctrinales qui prévalent, lesquelles sont tout à fait opposées l’une à l’autre, sont fausses du point de vue biblique, bien qu’elles soient partout prêchées et crues. Citation: «Si c’est ainsi, nous avons deux écoles de pensée au sujet du mariage et du divorce. L’une dit qu’un homme ne peut être marié qu’une seule fois, à moins que sa femme ne soit morte. C’est une des questions. Mais si vous suivez cette voie-là vous passez par-dessus bord. L’autre dit: “Oh, si le mari ou la femme (l’un ou l’autre) a commis adultère, l’autre peut le répudier et se remarier”. Mais dans cette voie aussi vous passez par-dessus bord». (p. 9, § 50).
 
@@ -172,7 +172,7 @@ Quelquefois il est déplaisant de faire mention d’événements tout à fait pr
 
 Tous les passages bibliques se rapportant à une chose doivent être mis ensemble. Celui qui prend pour lui-même un seul passage de la Bible, sans considérer les autres, fait violence à la Parole de Dieu. Cette Parole n’est pas là pour donner raison à qui que ce soit et encore moins pour appuyer notre propre interprétation. Nous vivons pour donner raison à Dieu et nous soumettre à chacune de Ses Paroles. Par exemple, celui qui ne discerne pas et ne considère pas quelle est la parole adressée à l’homme, et quelle est celle adressée à la femme n’a pas réellement compris la chose, ou c’est peut-être parce qu’il ne veut pas du tout le savoir correctement. Toutefois, quand Dieu dit “il”, c’est bien à l’homme qu’Il pense, et s’Il dit “elle” il s’agit de la femme. Dieu pense toujours ce qu’Il dit, et Il dit ce qu’Il pense.
 
-## C’EST AINSI QUE CELA COMMENCA
+## C’est ainsi que cela commença
 
 C’est au commencement, c’est-à-dire dans le livre de la Genèse (qui veut dire “origine”, “commencement”) que frère Branham va tout d’abord, là ou se trouve l’origine de tout mal, là où se trouve la chute dans le péché, et à cela est liée la première désobéissance, la première transgression de la Parole, la première séduction, le premier adultère, et ainsi de suite. Le frère expose comment Eve était en Adam lors de la création du corps spirituel (Genèse 1), et comment au 2ème chapitre, par une action ayant eu lieu sur la terre, Eve fut sortie d’Adam et lui fut présentée. Ainsi est présenté devant nos yeux depuis le commencement “l’histoire du salut” à l’intérieur de l’histoire de l’humanité: L’Epouse de Christ était déjà dans le Sauveur alors qu’Il se trouvait dans un corps spirituel, mais Elle ne sortit de Lui que lorsqu’Il apparut dans un corps de chair et accomplit la rédemption à la croix de Golgotha.
 

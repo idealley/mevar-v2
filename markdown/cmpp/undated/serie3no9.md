@@ -160,7 +160,7 @@ FOI PARFAITE      6
 
 http://www.cmpp.ch
 
-## FOI PARFAITE
+## Foi parfaite
 
 52 Et le père, voyant Jésus venir, dit: “J’ai amené mon enfant à Tes disciples, mais ils n’ont pas pu le guérir”.
 53 Plus tard les disciples demandèrent à Jésus: “Pourquoi n’avons-nous pas pu le guérir?”.
