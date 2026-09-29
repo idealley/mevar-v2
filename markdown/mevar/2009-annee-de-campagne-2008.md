@@ -88,7 +88,7 @@ editorial_pass: "2026-09-29"
 ---
 ## Appel à la guerre – appel au combat contre Babylone
 
-**2009 – ANNÉE DE CAMPAGNE**
+### 2009 – année de campagne
 
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site, en cette fin d’année, par cette Parole d’introduction de notre Seigneur à Ses disciples :
 
