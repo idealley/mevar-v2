@@ -65,6 +65,8 @@ Les corrections que les premiers lots ont le plus demandées, à faire toi-même
 - d'autres majuscules : « l'Ancien Testament », « le Nouveau Testament », « la Pentecôte », « l'Agneau » quand c'est Christ ; un même mot s'écrit de la même façon dans tout le texte (« le temps du Soir » partout, ou nulle part) ;
 - une question finit par « ? » (« N'est-ce pas … ? »), un paragraphe et une citation finissent par leur ponctuation ;
 - des guillemets ouverts se ferment : « … » toujours par paire, une courte citation dans la phrase comprise.
+- l'en-tête du début se retire en entier ou pas du tout : toutes ses lignes (« Exhortation de mai 2007 », le titre, la date, le lieu), jamais une seule ; une ligne qui dit autre chose que le titre, la date, le lieu ou le prédicateur (« SOYEZ DES HOMMES », « JOYEUX ANNIVERSAIRE », une phrase du prédicateur) reste, en paragraphe, avec son gras ; un en-tête au milieu du texte (une seconde prédication « Prêché à … le … ») reste aussi ;
+- un numéro de liste en gras (« **2**. ») s'écrit « 2. », sinon la liste se casse.
 Dans le doute, garde le texte tel quel.
 
 Lecture manquante : si le prédicateur annonce une lecture avec ses versets (« Nous lisons Genèse 4 à partir du verset 1 », « Jean 3:16 ») et que le texte lu n'est pas dans la transcription, ni juste après l'annonce ni plus loin, écris à cet endroit, sur une ligne à part, [[LECTURE: <livre chapitre:verset-verset>]], par exemple [[LECTURE: Genèse 4:1-16]]. Le script y mettra le texte Segond. Ne l'écris jamais toi-même. S'il paraphrase ou cite de mémoire dans sa phrase, ce n'est pas une lecture : rien à insérer. S'il ne donne qu'un chapitre (« Nous lisons dans Jean 3 »), rien à insérer.
