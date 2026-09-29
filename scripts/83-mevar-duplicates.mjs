@@ -177,7 +177,7 @@ function keeper(group) {
   // sermon split from exhomai2007 over onedrive/pdf/laguerre)
   const edited = group.filter((w) => /^editorial_pass:/m.test(w.fm));
   if (edited.length === 1) return { keep: edited[0], rule: "edited by goal 10" };
-  const [first, second] = [...(edited.length ? edited : group)].sort((x, y) => y.shingles.size - x.shingles.size || x.ocr - y.ocr || x.id.localeCompare(y.id));
+  const [first, second] = [...group].sort((x, y) => y.shingles.size - x.shingles.size || x.ocr - y.ocr || x.id.localeCompare(y.id));
   const rule = first.shingles.size > second.shingles.size ? "more of the sermon"
     : first.ocr < second.ocr ? "cleaner" : "as long and as clean, first by id";
   return { keep: first, rule };

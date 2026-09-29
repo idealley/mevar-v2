@@ -6,6 +6,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { slug } from "github-slugger";
 
 const web = path.resolve(import.meta.dirname, "..");
 const dist = path.join(web, "dist");
@@ -59,13 +60,15 @@ report(
 );
 // Goal 19: every Mevar text moved beside the Ghost posts is at its root URL
 // (a draft, bilanchaine, is never built).
-const moved = fs.readdirSync(path.join(web, "../markdown/mevar")).filter((f) => {
-  const text = f.endsWith(".md") ? fs.readFileSync(path.join(web, "../markdown/mevar", f), "utf8") : "";
-  return /^source_path: /m.test(text) && !/^status: "draft"$/m.test(text);
-});
+const moved = fs.readdirSync(path.join(web, "../markdown/mevar"))
+  .map((f) => [f, fs.readFileSync(path.join(web, "../markdown/mevar", f), "utf8")])
+  .filter(([, text]) => /^source_path: /m.test(text) && !/^status: "draft"$/m.test(text));
 report(
-  `every moved Mevar text at /<slug>/: ${moved.length} texts`,
-  moved.map((f) => `/${f.slice(0, -3)}/`).filter((u) => !served(u)).map((u) => `${u} missing`),
+  `every moved Mevar text at /<slug>/, none at its old /works/ URL: ${moved.length} texts`,
+  moved.flatMap(([f, text]) => {
+    const old = `/works/${text.match(/^source_path: "(.+)\.md"$/m)[1].split("/").map((s) => slug(s)).join("/")}/`;
+    return [...(served(`/${f.slice(0, -3)}/`) ? [] : [`/${f.slice(0, -3)}/ missing`]), ...(served(old) ? [`${old} still built`] : [])];
+  }),
 );
 report(
   "no /works/mevar/ page",
