@@ -147,6 +147,9 @@ for (const post of posts) {
 
   const filePath = path.join(outDir, `${post.slug}.md`);
   const exists = fs.existsSync(filePath);
+  // goal 19 moved Mevar texts here: a Ghost slug one of them holds is a clash
+  if (exists && /^source_path: /m.test(fs.readFileSync(filePath, "utf8").split("\n---\n")[0]))
+    throw new Error(`${post.slug}: a Mevar text moved by goal 19 holds this slug (source_path); rename it before importing`);
   // A file with no manifest entry (imported by hand) adopts this export's version.
   const imported = exists ? prev?.updated_at ?? post.updated_at : post.updated_at;
   if (exists) {
