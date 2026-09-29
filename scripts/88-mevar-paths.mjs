@@ -76,11 +76,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const moving = texts.filter((t) => t.md !== t.to);
   for (const t of moving) console.log(`${t.md} → ${t.to}${t.year ? "" : "  (no year)"}`);
   console.log(`${moving.length} texts to move`);
-  if (dry || !moving.length) process.exit(0);
-
-  const moved = new Map(moving.map((t) => [t.md, t.to]));
-  const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
-  const workMoved = new Map(moving.map((t) => [work(t.md), work(t.to)]));
+  if (dry) process.exit(0);
 
   for (const t of moving) {
     const text = /^source_path: /m.test(frontmatter(t.text)) ? t.text
@@ -88,6 +84,16 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     fs.writeFileSync(path.join(root, t.to), text);
     fs.rmSync(path.join(root, t.md));
   }
+
+  // Every reference follows every moved text, from its original path or a
+  // name it had before (a rename): a second run finds nothing to change.
+  const moved = new Map(moving.map((t) => [t.md, t.to]));
+  for (const f of fs.readdirSync(path.join(root, MEVAR))) {
+    const from = frontmatter(fs.readFileSync(path.join(root, MEVAR, f), "utf8")).match(/^source_path: "(.+)"$/m)?.[1];
+    if (from) moved.set(`markdown/${from}`, `${MEVAR}/${f}`);
+  }
+  const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
+  const workMoved = new Map([...moved].map(([a, b]) => [work(a), work(b)]));
 
   // published_with and duplicate_of, wherever they name a moved text
   for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true })) {
@@ -101,12 +107,15 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   for (const f of ["onedrive.json", "mevar-pdfs-corpus.json"]) {
     const p = path.join(root, "manifests", f);
     const entries = JSON.parse(fs.readFileSync(p, "utf8"));
-    for (const e of entries) if (moved.has(e.local_md)) e.local_md = moved.get(e.local_md);
+    for (const e of entries) {
+      if (moved.has(e.local_md)) e.local_md = moved.get(e.local_md);
+      if (workMoved.has(e.published_with)) e.published_with = workMoved.get(e.published_with);
+    }
     fs.writeFileSync(p, JSON.stringify(entries, null, 2));
   }
   // bible-refs.json's keys, in their order
   const refsPath = path.join(root, "manifests/bible-refs.json");
   const refs = JSON.parse(fs.readFileSync(refsPath, "utf8"));
   fs.writeFileSync(refsPath, JSON.stringify(Object.fromEntries(Object.entries(refs).map(([k, v]) => [moved.get(k) ?? k, v])), null, 2));
-  console.log(`moved ${moving.length}`);
+  console.log(`moved ${moving.length}; references to ${moved.size} moved texts checked`);
 }
