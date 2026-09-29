@@ -200,7 +200,7 @@ Nous savons tous que c’est dans le Ministère de frère Branham que Dieu avait
 
 C’est pour cela qu’il est très important de garder la vision céleste, car c’est l’Esprit d’Élie qui agit dans chacune des trois étapes que l’Église doit traverser, c’est-à-dire Malachie 4 :5-6, Matthieu 24 :45 et Matthieu 25 :6.
 
-**LES HUITIÈMES**
+## Les huitièmes
 
 > Donne **une portion à sept**, **et même à huit** ; car tu ne sais pas quel mal arrivera sur la terre. (Ecclésiaste 11:2)
 

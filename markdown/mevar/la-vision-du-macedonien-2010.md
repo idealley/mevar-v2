@@ -226,7 +226,7 @@ Pilate voyant Jésus dans Ses attributs de roi prophétisa en ces termes : « **
 
 Que Dieu vous bénisse !
 
-**LA VISION DU MACÉDONIEN**
+## La vision du Macédonien
 
 Mes chers amis, je voudrais vous adresser un message que j’ai reçu du Seigneur alors que j’étais en prière. Il s’agit d’une vision que l’apôtre Paul avait eue pendant ses voyages missionnaires avec ses compagnons.
 
