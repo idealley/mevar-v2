@@ -314,6 +314,10 @@ for (const md of batch) {
   r.location = edits.location === "" ? "" : field("location");
   // the summary is the corpus's, not the preacher's: the editor's, listed
   r.summary = edits.summary ?? field("summary");
+  // each is written over its own frontmatter line: without one, the page and
+  // the manifest would disagree
+  for (const [k, line] of [["subtitle", /^subtitle: /m], ["date", /^date: .*\nyear: /m], ["summary", /^summary: /m]])
+    if (edits[k] && !line.test(fm)) r.unexplained.push(`the editor gives a ${k}, but the frontmatter has no ${k} line to write it on`);
 
   const ow = words(compared);
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
