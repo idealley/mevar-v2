@@ -37,8 +37,10 @@
 // unexplained, and the text is not written.
 //
 // A text with no unexplained change is written to markdown/: the pass's body,
-// its title where only typography changed (also in manifests/onedrive.json,
-// which 50 reads), and editorial_pass: "<date>". A PDF that prints two works
+// its title where only typography changed or where the editor gives one the
+// PDF's opening states, likewise its subtitle, the editor's date and place
+// within the limits below (also in manifests/onedrive.json, which 50 reads),
+// and editorial_pass: "<date>". A PDF that prints two works
 // (a second exhortation after the first) is checked as one and written as
 // two: the editor's `split` gives the words the second begins with and its
 // frontmatter, and each file names the other in `published_with`, so the
@@ -63,7 +65,8 @@ const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editoria
 // The editor's fixes to a pass (Samuel's delegate, then Samuel): each is an
 // exact passage of the pass's body and its replacement, with the reason. They
 // are applied before the check, which verifies the result like the rest. A
-// text's entry may also give the title.
+// text's entry may also give the title, the subtitle, the date and the place
+// (below), and a split.
 const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-fixes.json"), "utf8"));
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
@@ -288,17 +291,37 @@ for (const md of batch) {
   // whole title or the whole subtitle (« Un mois de grâce ! » is the sermon's
   // own line, not the header of « La grâce »); listed. Its words go, its
   // ** stay: a run may open just before the body's first word.
+  // The title and the subtitle: only typography may change, and a word in
+  // capitals may get its accents back ("LES FILS DU DESERT" → "Les fils du
+  // désert"); or the editor gives one whose every word is in the PDF's
+  // opening, its first 80 words (Samuel: « Prenez garde à vous-même », as
+  // the header says, not the frontmatter's « vous-mêmes »).
+  const key = (w) => bare(fold(w));
+  const caps = (a, b) => a === a.toUpperCase() && bare(fold(a)) === bare(fold(b));
+  const same = (a, b) => words(a).length === words(b).length && words(a).every((x, i) => typography(x.w, words(b)[i].w) || caps(x.w, words(b)[i].w));
+  const opening = new Set(words(original).slice(0, 80).map((x) => key(x.w)));
+  const fromPdf = (t) => words(t).length > 0 && words(t).every((x) => opening.has(key(x.w)));
+  r.title = same(oldTitle, proposedTitle) || (edits.title && fromPdf(edits.title)) ? proposedTitle : oldTitle;
+  r.titleRefused = r.title === proposedTitle ? "" : proposedTitle;
+  const oldSubtitle = field("subtitle");
+  r.subtitle = edits.subtitle && (same(oldSubtitle, edits.subtitle) || fromPdf(edits.subtitle)) ? edits.subtitle : oldSubtitle;
+  // When a split leaves the first work with the second's date and place: a
+  // date whose month and year the opening states (« Exhortation mi-novembre
+  // 2009 »), and a place only taken away, never given.
+  const [ey, em] = (edits.date ?? "").split("-");
+  r.date = edits.date && opening.has(key(ey)) && opening.has(key(MONTHS[Number(em) - 1] ?? "-")) ? edits.date : field("date");
+  r.location = edits.location === "" ? "" : field("location");
+
   const ow = words(compared);
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
-  const key = (w) => bare(fold(w));
   const [y, mo, d] = field("date").split("-");
-  const own = new Set([oldTitle, field("subtitle"), field("location"), field("preacher"),
+  const own = new Set([oldTitle, oldSubtitle, r.title, r.subtitle, field("location"), field("preacher"),
     `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const inHeader = new Set(words(header).map((x) => key(x.w)));
   const holds = (t) => words(t).length > 0 && words(t).every((x) => inHeader.has(key(x.w)));
   const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w))
-    && (holds(oldTitle) || holds(field("subtitle")));
+    && [oldTitle, oldSubtitle, r.title, r.subtitle].some(holds);
   r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
   if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
 
@@ -398,17 +421,17 @@ for (const md of batch) {
     }
   }
 
-  // The title: only typography may change, and a word in capitals may get its
-  // accents back ("LES FILS DU DESERT" → "Les fils du désert").
-  const [ot, nt] = [words(oldTitle), words(proposedTitle)];
-  const caps = (a, b) => a === a.toUpperCase() && bare(fold(a)) === bare(fold(b));
-  r.title = ot.length === nt.length && ot.every((x, i) => typography(x.w, nt[i].w) || caps(x.w, nt[i].w)) ? proposedTitle : oldTitle;
-  r.titleRefused = r.title === proposedTitle ? "" : proposedTitle;
-
   const split = edits.split ? edited.indexOf(edits.split.at) : 0;
   if (edits.split && (split <= 0 || edited.includes(edits.split.at, split + 1)))
     r.unexplained.push(`the split « ${edits.split.at} » does not occur exactly once after the text's start`);
-  const parts = split > 0 ? [edited.slice(0, split).trimEnd(), edited.slice(split)] : [edited];
+  // `until`: the second work stops where the first one's text resumes (the
+  // letter's prayer subjects after the sermon it prints)
+  const until = edits.split?.until ? edited.indexOf(edits.split.until, split) : -1;
+  if (edits.split?.until && (until <= split || edited.includes(edits.split.until, until + 1)))
+    r.unexplained.push(`the split's end « ${edits.split.until} » does not occur exactly once after its start`);
+  const parts = split <= 0 ? [edited]
+    : until > split ? [`${edited.slice(0, split).trimEnd()}\n\n${edited.slice(until)}`, edited.slice(split, until).trimEnd()]
+    : [edited.slice(0, split).trimEnd(), edited.slice(split)];
   r.split = split > 0 ? `${path.dirname(md)}/${edits.split.frontmatter.sermon_id}.md` : null;
   const bodyOf = (t) => t.slice(t.indexOf("\n---\n") + 5);
 
@@ -419,10 +442,16 @@ for (const md of batch) {
   if (!r.unexplained.length && !promoted) {
     const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
     const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`)
+      .replace(/^subtitle: .*$/m, (l) => r.subtitle === oldSubtitle ? l : `subtitle: ${JSON.stringify(r.subtitle)}`)
+      .replace(/^date: .*\nyear: .*$/m, (l) => r.date === field("date") ? l : `date: ${JSON.stringify(r.date)}\nyear: ${Number(r.date.slice(0, 4))}`)
+      .replace(/^location: .*\n/m, (l) => r.location ? l : "")
       + (r.split ? `\npublished_with: ${JSON.stringify(work(r.split))}` : "") + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${parts[0]}\n`);
     // 50 takes index.json's titles from the manifest
-    manifest.find((e) => e.local_md === md).title = r.title;
+    Object.assign(manifest.find((e) => e.local_md === md), { title: r.title },
+      r.subtitle === oldSubtitle ? {} : { subtitle: r.subtitle },
+      r.date === field("date") ? {} : { date: r.date, year: Number(r.date.slice(0, 4)) },
+      r.location === field("location") ? {} : { location: null });
     if (r.split) {
       const f = { source: "onedrive", ...edits.split.frontmatter, published_with: work(md) };
       const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}` : `${k}: ${JSON.stringify(v)}`);
@@ -452,7 +481,7 @@ for (const [head, key] of [["Substitutions: a non-word corrected to a word", "no
 L.push("", "## Segond readings inserted", "", "| Text | Announced as | Looked up under |", "| --- | --- | --- |");
 for (const r of rows) for (const x of r.readings) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(x.said)} | ${x.ref} |`);
 L.push("", "## Works split in two (the PDF prints a second work after the first)", "");
-for (const r of rows) if (r.split) L.push(`- \`${path.basename(r.md, ".md")}\` → \`${path.basename(r.split, ".md")}\`, from « ${cell(fixes[r.md].split.at)} »`);
+for (const r of rows) if (r.split) L.push(`- \`${path.basename(r.md, ".md")}\` → \`${path.basename(r.split, ".md")}\`, from « ${cell(fixes[r.md].split.at)} »${fixes[r.md].split.until ? ` to « ${cell(fixes[r.md].split.until)} »` : ""}`);
 L.push("", "## Not accepted, per text", "");
 for (const r of rows) {
   if (r.unexplained.length) L.push(`- \`${r.md.slice("markdown/".length)}\``, ...r.unexplained.map((u) => `  - ${cell(u)}`));
