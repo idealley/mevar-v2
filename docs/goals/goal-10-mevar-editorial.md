@@ -92,9 +92,13 @@ the verification done by a script and by sampling.
   Batch 01 cost about $22, redone as the bar rose (LlamaParse's word
   changes, then the preacher's bold); from batch 02, about $4 a batch (the
   pass and a second try of refused texts), about $35 for the 9 left, about
-  $57 for the goal.
+  $57 for the goal. A part OpenAI's content filter stops goes to
+  `claude-opus-5` (Samuel, batch 03: `exhortation_2011` quotes 1 Samuel
+  18:11, « Je frapperai David contre la paroi »); 86 checks it like the rest.
 - **Not in the pass:** `onedrive/pdf/thebath.md` is English;
-  `onedrive/pdf/LA GUERRE DE LIBERATION.md` has an empty original.
+  `onedrive/pdf/LA GUERRE DE LIBERATION.md` has an empty original (the
+  sermon is `onedrive/pdf/exhomai2007-la-guerre-de-liberation.md` since
+  batch 03's split; the empty stub still builds a page).
 - **Quotes** (Samuel, after batch 01's first PR round): a citation that is
   not in the sentence is its own blockquote, `> …`, with the preacher's bold
   and the reference at the end where he gives it there, as in
@@ -155,3 +159,9 @@ and CMPP sources; merging versions (goal 09 chose one).
   would demote every promoted text, as 73 would have before batch 01.
   Found by batch 01's fifth review; 64 is not run since the OneDrive
   import, so it is left for the goal that next touches it.
+- A split's second work keeps its own header in its body (« LA GUERRE DE
+  LIBÉRATION / Prêché à Koumassi… »): 86 moves a header to the frontmatter
+  only at the document's start. Found by batch 03's last review.
+- The OneDrive subtitles are inconsistent: « Exhortation de Mai 2010 »,
+  « Exhortation d'Avril 2009 » beside the editor's « Exhortation de mai
+  2007 »; a pass on the subtitles alone would align them.

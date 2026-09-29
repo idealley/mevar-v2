@@ -12,12 +12,13 @@
 // A text already in .pass-cache/ is not sent again.
 //
 // Usage: node scripts/85-editorial-pass.mjs <batch>
-// Needs OPENAI_API_KEY (the root .env; from a worktree,
+// Needs OPENAI_API_KEY and ANTHROPIC_API_KEY (the root .env; from a worktree,
 // DOTENV_CONFIG_PATH=<root>/.env) and SurrealDB with 110 run.
 
 import fs from "node:fs";
 import path from "node:path";
 import "dotenv/config";
+import Anthropic from "@anthropic-ai/sdk";
 import { citations } from "./65-normalize-bible.mjs";
 import { connect, reading, blockquote } from "./segond.mjs";
 
@@ -29,6 +30,14 @@ const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editoria
 // claude-sonnet-5 and deepseek-v4-pro: the fewest changes the check refuses,
 // none of them an added word (docs/goals/goal-10-mevar-editorial.md).
 const MODEL = "gpt-6-sol";
+// A part OpenAI's content filter stops goes to Claude with the same
+// instructions; 86 checks its words like the rest. The filter stops a violent
+// reading the preacher quotes: « Je frapperai David contre la paroi » (1 Samuel
+// 18:11, exhortation_2011), whole, halved or in 500-word parts.
+const FALLBACK = "claude-opus-5";
+// Through the official SDK (@anthropic-ai/sdk), which streams: a 32,000-token
+// answer over a plain request would risk the API's timeout, and streaming by
+// hand is what the SDK already does.
 
 const SYSTEM = `Tu fais la passe éditoriale d'une prédication chrétienne transcrite (MEVAR, message du temps de la fin). Le texte est celui du prédicateur : ses mots ne changent pas.
 
@@ -45,12 +54,16 @@ Le gras (**…**) est celui du prédicateur : il souligne ce qu'il tient pour im
 
 Interdit : reformuler, résumer, couper une répétition ou un « Amen ! », lisser le style oral, ajouter un titre de section. N'ajoute jamais un mot et n'en enlève jamais un, même un petit mot que la grammaire demande et que l'oral a avalé : « ça commencé » reste « ça commencé », « on a plus » reste « on a plus », « Qu'en n'est-il » reste « Qu'en n'est-il », « il ne vient » reste « il ne vient » ; « il ya » devient « il y a » (une espace), jamais « il y en a ». Ne change pas un temps (« disparut » reste « disparut »). N'enlève jamais une phrase ni une ligne du prédicateur, et garde sa signature à la fin (« En Christ notre Seigneur, Fr M'BRA Parfait », « Frère … , Kinshasa le … »). Les références bibliques restent écrites comme dans le texte (« Math. 24, 6 » reste « Math. 24, 6 »).
 
-Les corrections qu'un premier lot a le plus demandées, à faire toi-même :
+Les corrections que les premiers lots ont le plus demandées, à faire toi-même :
 - l'accent sur une majuscule : « Eglise » → « Église », « Ecriture » → « Écriture », « Esaïe » → « Ésaïe », « Elie » → « Élie », « Etat » → « État », et « A » → « À » quand c'est la préposition (« À cause de »), jamais le verbe (« A-t-il ») ;
 - les majuscules : « la Bible », « les Écritures », « le Saint-Esprit », les peuples (« les Juifs », « les Philistins », « les Gabaonites ») ; « Message » quand c'est le Message du temps de la fin (le Message de l'heure, de frère Branham), « message » sinon ; « Parole » pour la Parole de Dieu ; « Épouse » pour l'Épouse de Christ ; en minuscules les mois, les jours, les adjectifs de nationalité (« la menace assyrienne ») ; une majuscule après « ! » ou « ? » qui finit une phrase, une minuscule après une virgule ;
 - les homophones du transcripteur, seulement s'ils sont faux sans doute possible : « ça et là » → « çà et là », « a » / « à », « ou » / « où », « ce » / « se », « ces » / « ses » ; si les deux ont un sens, garde le mot du texte ;
 - une référence reste écrite comme le prédicateur l'écrit, espaces compris : « Luc 9 :22 » reste « Luc 9 :22 » ;
-- une ligne en capitales au milieu du texte (« TÉMOIGNAGE ») reste, en paragraphe à part, avec son gras.
+- une ligne en capitales au milieu du texte (« TÉMOIGNAGE ») reste, en paragraphe à part, avec son gras ;
+- « ... » devient « … » (un seul caractère) ; dans un mot composé, un trait d'union, jamais le tiret du PDF : « Christ–Jésus » → « Christ-Jésus », « moi–même » → « moi-même » ;
+- d'autres majuscules : « l'Ancien Testament », « le Nouveau Testament », « la Pentecôte », « l'Agneau » quand c'est Christ ; un même mot s'écrit de la même façon dans tout le texte (« le temps du Soir » partout, ou nulle part) ;
+- une question finit par « ? » (« N'est-ce pas … ? »), un paragraphe et une citation finissent par leur ponctuation ;
+- des guillemets ouverts se ferment : « … » toujours par paire, une courte citation dans la phrase comprise.
 Dans le doute, garde le texte tel quel.
 
 Lecture manquante : si le prédicateur annonce une lecture avec ses versets (« Nous lisons Genèse 4 à partir du verset 1 », « Jean 3:16 ») et que le texte lu n'est pas dans la transcription, ni juste après l'annonce ni plus loin, écris à cet endroit, sur une ligne à part, [[LECTURE: <livre chapitre:verset-verset>]], par exemple [[LECTURE: Genèse 4:1-16]]. Le script y mettra le texte Segond. Ne l'écris jamais toi-même. S'il paraphrase ou cite de mémoire dans sa phrase, ce n'est pas une lecture : rien à insérer. S'il ne donne qu'un chapitre (« Nous lisons dans Jean 3 »), rien à insérer.
@@ -85,9 +98,23 @@ async function complete(user) {
   });
   if (!res.ok) throw new Error(`${MODEL}: HTTP ${res.status} ${(await res.text()).slice(0, 300)}`);
   const json = await res.json();
-  const m = json.choices[0].message.content.match(/<<<TITRE>>>\n?([\s\S]*?)<<<TEXTE>>>\n?([\s\S]*?)<<<OBSCUR>>>\n?([\s\S]*)$/);
-  if (!m) throw new Error(`${MODEL}: answer not in the format`);
-  return { title: m[1].trim(), text: m[2].trim(), unclear: m[3].split("\n").map((s) => s.trim()).filter(Boolean), usage: json.usage };
+  if (json.choices[0].finish_reason === "content_filter") return fallback(user);
+  return answer(MODEL, json.choices[0].message.content, json.usage);
+}
+
+async function fallback(user) {
+  const message = await new Anthropic().messages
+    .stream({ model: FALLBACK, max_tokens: 32000, system: SYSTEM, messages: [{ role: "user", content: user }] })
+    .finalMessage();
+  if (message.stop_reason !== "end_turn") throw new Error(`${FALLBACK}: stopped on ${message.stop_reason}`);
+  const text = message.content.filter((b) => b.type === "text").map((b) => b.text).join("");
+  return answer(FALLBACK, text, { model: FALLBACK, prompt_tokens: message.usage.input_tokens, completion_tokens: message.usage.output_tokens });
+}
+
+function answer(model, content, usage) {
+  const m = content.match(/<<<TITRE>>>\n?([\s\S]*?)<<<TEXTE>>>\n?([\s\S]*?)<<<OBSCUR>>>\n?([\s\S]*)$/);
+  if (!m) throw new Error(`${model}: answer not in the format`);
+  return { title: m[1].trim(), text: m[2].trim(), unclear: m[3].split("\n").map((s) => s.trim()).filter(Boolean), usage };
 }
 
 const db = await connect();
