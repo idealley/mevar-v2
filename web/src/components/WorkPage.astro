@@ -78,7 +78,7 @@ const publishedWith = fm.published_with ? await workAt(fm.published_with as stri
       )}
       {publishedWith && (
         <p class="mt-4 text-sm">
-          Publié avec <a href={workUrl(publishedWith)} class="underline underline-offset-4">« {publishedWith.data.title} »</a>, dans le même document.
+          Publié avec <a href={workUrl(publishedWith)} class="underline underline-offset-4">« {publishedWith.data.title} »{publishedWith.data.title === fm.title && publishedWith.data.subtitle ? ` (${publishedWith.data.subtitle})` : ""}</a>, dans le même document.
         </p>
       )}
       {summaryFr && (
