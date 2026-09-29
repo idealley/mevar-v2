@@ -103,9 +103,9 @@ Jésus-Christ
 
 LA REVELATION DE JESUS-CHRIST — LE TRONE    2
 
-LA REVELATION DE JESUS-CHRIST
+## La révélation de Jésus-Christ
 
-            LE TRONE
+### Le trône
 
  8 janvier 1961, dimanche matin
        Branham Tabernacle

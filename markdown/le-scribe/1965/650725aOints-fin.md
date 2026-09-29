@@ -84,7 +84,7 @@ original: "branham/1965/65-0725M"
 
 **LES OINTS DU TEMPS DE LA FIN**
 
-**THE ANOINTED ONES AT THE END TIME**
+## The anointed ones at the end time
 
 *25 juillet 1965, dimanche matin, Jeffersonville (Indiana)*
 

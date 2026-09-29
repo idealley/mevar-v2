@@ -290,7 +290,7 @@ faisons-le de façon équilibrée. Et alors Dieu vous bénira. Il bénira votre 
    Je désire exprimer mes salutations particulières aux frères du Zaïre [Rép. dém. du Congo — N.d.R.], et Dieu voulant, j’irai là-bas au mois de juillet de cette année, je ne sais pas quand exactement mais nous vous le confirmerons. Envoyez beaucoup, beaucoup de salutations à toutes les assemblées, et tout particulièrement à tous les serviteurs dans le ministère. Et s’il vous plaît, ici comme là-bas, gardons l’unité de la foi, ici et partout. Et en Europe, en Afrique et partout autour du monde, comme je l’ai dit précédemment: une seule Parole, un seul Dieu, une seule Bible, un seul Message, un seul Esprit, une seule Epouse, une seule oeuvre de Dieu, un seul Corps de Christ. Soyons une partie de ce Corps. Que Dieu vous bénisse! Priez pour moi, j’en ai besoin, j’en ai grand besoin. Je vous en prie, priez pour moi comme vous ne l’avez jamais fait auparavant.
    J’aimerais remercier mon cher ami et frère Baranowski pour la traduction. Il est un très, très bon traducteur. Que Dieu vous bénisse richement! Priez pour moi! Amen! Amen!
 
-        BON POUR LITTERATURE GRATUITE
+## Bon pour littérature gratuite
 
    Du même auteur ont été publiés trois livres: «Le Christianisme traditionnel», «L’Apocalypse», «Le défi de la théologie chrétienne et plus…» et plusieurs brochures: «La grande tragédie et le plan du salut de Dieu à la lumière du Message du temps de la fin», «Le Christianisme hier et aujourd’hui», «Dieu et Son plan pour l’humanité», «Le retour de Christ», etc.
    Pour recevoir gratuitement une ou plusieurs de ces brochures, envoyez le talon ci-dessous dans une enveloppe fermée et affranchie à l’adresse suivante:

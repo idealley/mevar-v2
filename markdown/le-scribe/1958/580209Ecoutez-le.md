@@ -57,9 +57,9 @@ original: "branham/1958/58-0209A"
 ---
 Résumé de : “Ecoutez-le” (9 février 1958, après-midi)
 
-**ECOUTEZ-LE (ou : L’AMOUR AGAPE)**
+## Écoutez-le (ou : l’amour agape)
 
-**HEAR YE HIM (ou : AGAPO LOVE)**
+## Hear ye him (ou : agapo love)
 
 9 février 1958, dimanche après-midi, South Bend (Indiana)
 

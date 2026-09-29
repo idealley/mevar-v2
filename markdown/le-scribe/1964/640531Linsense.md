@@ -54,7 +54,7 @@ original: "branham/1964/64-0531"
 ---
 **L'INSENSE**
 
-*THE ODDBALL*
+## The oddball
 
 *31 mai 1964, dimanche matin, Prescott (Arizona)*
 

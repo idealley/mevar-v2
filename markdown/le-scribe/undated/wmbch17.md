@@ -62,7 +62,7 @@ bible_refs:
   - "Apocalypse 13:16"
   - "Matthieu 24"
 ---
-**CHAPITRE DIX-SEPT**
+## Chapitre dix-sept
 
 **LES AGES DE L'EGLISE**
 
@@ -72,7 +72,7 @@ C’est en octobre 1959 qu’ont eu lieu les deux épisodes des écureuils cré�
 
 Le 8 mai 1960, il est ravi en Esprit dans l’Eternité.
 
-**Ravi en Esprit dans l’Eternité (8 mai 1960)**
+### Ravi en Esprit dans l’éternité (8 mai 1960)
 
 William Branham rêvait qu’il revenait de promenade avec sa femme dans une campagne riante. Il dit à sa femme : “Nous avons dû rester longtemps dehors.” Elle lui a répondu : “Pour le bien des enfants, il le fallait.” Et il s’est alors réveillé, se demandant à quoi ressemblait “l’autre côté” et il se disait : “J’ai déjà cinquante ans, et je n’ai encore rien fait pour le Seigneur.” Il était près de sept heures. Son épouse dormait profondément à ses côtés. Il a alors entendu les mots suivants : “Tu n’es qu’au point de départ. Persévère dans la bataille. Continue de persévérer.”
 
@@ -128,7 +128,7 @@ Puis William Branham quitta la vision. Sa femme dormait encore.
 
 [“Footprints” p. 336 à 338 d’après “The Rejected King” le 15 mai 1960 à Jeffersonville, Indiana. “Fifth Seal” le 22 mars 1963 à Jeffersonville, Indiana]
 
-**La révélation des sept âges de l’église (décembre 1960)**
+### La révélation des sept âges de l’Église (décembre 1960)
 
 En automne 1960, William Branham chassait dans le Kentucky quand le Saint-Esprit lui dit de se rendre dans un endroit précis du bois. Il attendit près d’une demi-heure, mais rien ne se passa. Il s’allongea, prosterné sur le sol. Et il reçut alors une révélation, au cours de laquelle, entre autres, le chapitre 4 de Malachie fut mis en relief, en particulier les versets 5 et 6 : “Voici je vous enverrai Elie, le prophète, avant que le jour de l’Eternel arrive, ce jour grand et redoutable. Il ramènera le cœur des pères à leurs enfants, et le cœur des enfants à leur père, de peur que je ne vienne frapper le pays d’interdit.”
 
@@ -142,7 +142,7 @@ L’enseignement dispensé lors de ces journées, reprend, avec plus d’autorit
 
 [A Jeffersonville, Indiana, en décembre 1960 : “The Revelation Of Jesus Christ” le 4 au matin; “The Patmos Vision” le 4 au soir ; “The Ephesian Church Age” le 5 ; “The Smyrnaean Church Age” le 6 ; “The Pergamean Church Age” le 7 ; “The Thyatirean Church Age” le 8 ; “ le 9; “The Philadelphian Church Age” le 10 ; “The Ten Virgins” le 11 au matin ; “The Laodicean Church Age” le 11 au soir]
 
-**Confirmation (8 janvier 1961)**
+### Confirmation (8 janvier 1961)
 
 “J’avais prêché sur les sept âges de l’église, et j’en avais fait un dessin sur un tableau.
 [Sur ce dessin, chaque église était représentée par une lune plus ou moins noircie selon le degré d’obscurité spirituelle qui la caractérisait. La lune, qui réfléchit la lumière du soleil, est en effet un symbole de l’église. Il apparaissait ainsi, que les ténèbres avaient envahi progressivement l’église jusqu’à l’époque symbolisée par l’église de Thyatire ; puis, à partir de l’église de Sardes, l’époque de Luther et des grands serviteurs de la “Réforme”, la Lumière avait peu à peu progressé. Malheureusement, l’église de Laodicée, la dernière, s’enfonçait à son tour dans les ténèbres].
@@ -157,7 +157,7 @@ Vers onze heures, j’étais sur le point de prier pour les malades, quand une g
 
 [C’est en septembre de la même année qu’eut lieu la mémorable partie de chasse au Canada avec le caribou et le grizzly, voir chapitre 15.]
 
-**“Prends ta plume”**
+### « Prends ta plume »
 
 [Un jour qu’il était dans l’Esprit, se demandant ce qu’il devait dire et faire pour les gens, William Branham entendit une Voix dire : “Prends ta plume”. L’après-midi du 18 mars 1962, il lut le message qu’il avait ainsi écrit sous onction. Ce texte, à la fois message prophétique et message de sanctification, est assez long mais il reflète la pensée sous-jacente à de nombreuses prédications de William Branham, et nous le reproduisons intégralement.]
 
@@ -230,7 +230,7 @@ Et les prophéties du temps de la fin reproduiront, je le crois, ce qui s’est 
 [Le 7 octobre 1962 la construction d’un nouveau tabernacle plus spacieux est commencée à Jeffersonville. Le nouveau bâtiment sera consacré le 17 mars 1963.
 Le 27 octobre 1961, Ella Branham, la mère de William Branham quittait ce monde.]
 
-**Vision de sa mère symbolisant l’Epouse**
+### Vision de sa mère symbolisant l’Épouse
 
 William Branham dans une vision s’est vu conduisant les chants devant une très grande foule dans un énorme amphithéâtre. Des enfants paralysés occupaient les premières rangées et William Branham chantait le cantique : “Laissez venir à moi les petits enfants”.
 
@@ -242,7 +242,7 @@ William Branham commente : “Savez-vous ce qui se passait en 1906 ? Ma mère é
 
 [“Footprints” p. 373 et 374 d’après “Spirit Of Truth” le 18 janvier 1963 à Phœnix, Arizona]
 
-**Ils veulent des biscuits (2 novembre 1962)**
+### Ils veulent des biscuits (2 novembre 1962)
 
 Vers six heures du matin, William Branham reçut une vision. Dans cette vision, il était debout au soleil, parfaitement heureux, prêchant à une foule énorme, assise dans une forêt. Et la prédication étant longue, la foule a commencé à avoir faim, et certains, fatigués, sont partis chercher de quoi manger. William Branham essaya de les en dissuader, car il avait des point importants à traiter que le Seigneur lui avait donnés, et il parlait des merveilles de Dieu, du discernement, etc. Les gens commençaient à bâiller et à s’en aller. Il se demanda ce qui se passait. Il arrêta quelques jeunes couples qui s’éloignaient : “Un instant mes amis, vous serez de retour chez vous à la nuit tombante, mais laissez-moi vous parler du premier point. D’où viennent toutes ces choses que je vous ai montrées ? Elles viennent de la Parole de Dieu, elles sont Ainsi dit le Seigneur, sa promesse, et vous m’êtes tous témoins que mon ministère c’est de rester avec la Parole. Qu’est-ce qui vous prend ? Ne pouvez-vous pas comprendre la Parole ?”
 
@@ -256,7 +256,7 @@ William Branham a donné l’interprétation du début de cette vision : pour la
 
 [“Footprints” p. 391 à 394 d’après “Blasphemous Names” le 4 novembre 1962 à Jeffersonville, Indiana]
 
-**Vision de l’Epouse (juillet 1964)**
+### Vision de l’Épouse (juillet 1964)
 
 [Bien que tardive, la vision suivante est incorporée dans ce chapitre, car elle aussi concerne l’histoire de l’église.]
 

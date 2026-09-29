@@ -69,7 +69,7 @@ WILLIAM MARRION BRANHAM
 
 LA REVELATION DE JESUS-CHRIST
 
-VISION DE PATMOS
+## Vision de Patmos
 
 4 décembre 1960, dimanche soir
 Branham Tabernacle

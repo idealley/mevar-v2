@@ -57,7 +57,7 @@ original: "branham/1958/58-0620"
 
 **LA REINE DU MIDI**
 
-**QUEEN OF THE SOUTH**
+## Queen of the south
 
 *20 juin 1958, vendredi soir, Greenville (Caroline du Sud)*
 

@@ -58,7 +58,7 @@ original: "branham/1959/59-0125"
 
 **COMPTEZ SUR DIEU**
 
-**BE CERTAIN OF GOD**
+## Be certain of God
 
 *25 janvier 1959, dimanche matin, Jeffersonville (Indiana).*
 

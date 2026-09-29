@@ -67,7 +67,7 @@ original: "branham/1959/59-1108"
 
 **POSSEDANT LES PORTES DE L'ENNEMI (ou LE TEST AVANT LES PORTES PROMISES)**
 
-**POSSESSING THE ENEMY'S GATES (ou TESTING BEFORE PROMISED GATES)**
+## Possessing the enemy's gates (ou testing before promised gates)
 
 *8 novembre 1959, dimanche matin, Jeffersonville (Indiana).*
 

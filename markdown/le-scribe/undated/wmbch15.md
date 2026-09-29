@@ -41,13 +41,13 @@ bible_refs:
   - "Marc 13:11"
   - "1 Jean 3:21"
 ---
-**CHAPITRE QUINZE**
+## Chapitre quinze
 
 **UN MINISTERE D’UNE NOUVELLE DIMENSION**
 
 > “Voici, je vous dis un mystère : nous ne mourrons pas tous, mais tous nous serons changés, en un instant, en un clin d’œil, à la dernière trompette. La trompette sonnera, et les morts ressusciteront incorruptibles, et nous, nous serons changés” [1 Corinthiens 15: 51 à 53].
 
-**La vision de la tente (décembre 1955)**
+## La vision de la tente (décembre 1955)
 
 [William Branham s’était toujours refusé à solliciter de l’argent de l’auditoire lors de ses réunions. Il obéissait ainsi à une promesse faite à Dieu en 1946, l’année de la première visite de l’Ange. Mais, à la fin des réunions tenues à Hollywood en Californie du 15 au 20 novembre 1955, il apparut un déficit de près de 15 000 dollars, couverts par les chrétiens locaux qui s’étaient portés garants. Vers la même époque, le flux de lettres était tombé de près de mille à un peu plus de soixante-dix lettres par jour.
 
@@ -127,7 +127,7 @@ En janvier 1964 William Branham fera à nouveau allusion à ce “grand don”:
 
 [D’après : “Biographie de William Branham” de André Morin ; “Footprints”, p. 495 à 504, d’après “The Inner Veil” (ou “Inner Rest”) du 1er janvier 1956 à Jeffersonville, Indiana, et “Visions And Prophecies” du 8 avril 1956 à Chicago, Illinois et “Unfailing Words Of Promise”, du 20 janvier 1964 à Phœnix, Arizona.]
 
-**Eviter le piège de l’argent**
+## Éviter le piège de l’argent
 
 William Branham refusait de solliciter de l’argent lors de ses réunions. On lui demanda ce qu’il pensait des prédicateurs qui avaient l’habitude de solliciter l’appui financier de l’auditoire :
 
@@ -287,7 +287,7 @@ L’Administration fiscale n’abandonna pas en fait la partie. Pendant cinq ans
 
 [D’après “The Absolute”, 30 décembre 1962 à Jeffersonville, Indiana]
 
-**Humilité**
+## Humilité
 
 L’aveu public suivant remplacerait bien des prédications :
 
@@ -323,7 +323,7 @@ Il est retourné voir le docteur qui lui a dit : “Très bien, préparez tout, 
 
 [Le témoignage suivant n’est qu’un exemple supplémentaire de la qualité du don prophétique manifesté dans la vie de William Branham.]
 
-**Un jeune homme délivré de son tourment (mai 1961)**
+## Un jeune homme délivré de son tourment (mai 1961)
 
 Eddy Byskal, qui relate ces faits, avait assisté pour la première fois à une réunion de William Branham en 1949, à l’âge de quatorze ans. A cette occasion, une petite fille de huit ans environ, aveugle du fait d’un très fort strabisme, s’est avancée sur l’estrade. A six reprises, William Branham lui a imposé les mains en priant. Rien ne s’est produit. Alors William Branham prenant la tête de l’enfant contre sa poitrine a prié ainsi : “Satan, tu sais qu’un Ange de Dieu m’a dit que rien ne résisterait à mes prières, pas même le cancer, si je peux amener les gens à croire. Les gens qui sont ici croient. Et maintenant je t’adjure, au Nom du Dieu Vivant, de quitter cet enfant.” Et la jeune enfant fut instantanément guérie.
 
@@ -343,13 +343,13 @@ William Branham confia à Eddy Byskal que l’Ange avait révélé une ancienne 
 
 [Témoignage de Eddy Byskal rapporté dans “Biographie de William Branham” de André Morin, chapitre 17]
 
-**Guérison d’un épileptique (mai 1961)**
+## Guérison d’un épileptique (mai 1961)
 
 C’est Harvey Southwick (“Bud”), garde-chasse, qui avait invité Eddy Byskal et William Branham au Yukon. Bud souhaitait que William Branham reçoive une vision en faveur de son frère épileptique : ce dernier devait subir jusqu’à six crises dans une même journée. Alors qu’ils chevauchaient le long d’une piste, William Branham reçut une vision. Il s’est mis à décrire le jeune homme. Puis il a recommandé de le faire venir à Fort Saint-John et de veiller sur lui : à la prochaine crise d’épilepsie, il faudrait lui ôter sa chemise, la jeter au feu, et la crise cesserait. C’est ce qui se produisit exactement.
 
 [Témoignage de Eddy Byskal rapporté dans “Biographie de William Branham” de André Morin, chapitre 17]
 
-**Caribou et grizzly (septembre 1961)**
+## Caribou et grizzly (septembre 1961)
 
 En automne, William Branham retourna dans cette région. Avant le départ il fit part à Eddy Byskal d’une vision : il se voyait en terrain dégagé abattre un gros animal brun foncé avec des cornes remontant vers l’arrière, en compagnie de deux ou trois hommes de petite taille dont l’un portait une chemise à carreaux verts. Dans la vision, un homme, aidé par un jeune homme, mesurait l’écartement des cornes avec un mètre ruban, et une voix déclarait : “Quarante-deux pouces” [un mètre six]. Puis, dans cette vision, William Branham abattait d’un seul coup un grizzly argenté avec une carabine qu’il jugeait pourtant insuffisante pour cela.
 

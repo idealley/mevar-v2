@@ -60,7 +60,7 @@ original: "branham/1951/51-0729E"
 ---
 **LE SECOND MIRACLE**
 
-*THE SECOND MIRACLE*
+## The second miracle
 
 *29 juillet 1951, dimanche soir, Erie (Pennsylvanie)*
 

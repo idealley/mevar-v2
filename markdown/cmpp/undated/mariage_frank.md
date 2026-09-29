@@ -309,7 +309,7 @@ accomplir; car, en vérité, je vous dis: Jusqu'à ce que le ciel et la terre pa
 seul trait de lettre ne passera point de la loi, que tout ne soit accompli”(Mat. 5.17,18), Ce qu’Il a dit
 une fois demeure valable pour toujours.
 
-    L’ORDRE DIVIN DEMEURE
+## L’ordre divin demeure
 
    Ainsi l’ordre divin suit réellement son cours en demeurant le même dans l’Ancien et le Nouveau
 Testament. Au 20ème siècle encore Dieu dit la même chose qu’il y a 6000, 4000, ou 2000 ans.

@@ -78,7 +78,7 @@ original: "branham/1960/60-1225"
 
 **LE DON VOILÉ DE DIEU (ou : LE DON DE DIEU SOUS UN EMBALLAGE)**
 
-*GOD’S WRAPPED GIFT*
+## God’s wrapped gift
 
 *25 décembre 1960, dimanche après-midi, Jeffersonville (Indiana). 1 heure et 58 minutes.*
 

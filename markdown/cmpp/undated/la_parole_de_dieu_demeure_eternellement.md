@@ -263,7 +263,7 @@ Cette grâce fut particulière à Moïse et le distinguait de tous les autres pr
 
 Plusieurs disent que cette prétention n’est pas justifiée. Coré de la tribu de Lévi parlait de la même façon. Veuillez lire à ce sujet tout le chapitre 16 des Nombres. Dans le verset 3, nous lisons: “Ils se rassemblèrent donc contre Moïse et contre Aaron et ils leur dirent: C’en est assez! Car toute l’assemblée, tous sont consacrés, et l’Eternel est au milieu d’eux. Pourquoi donc vous élevez-vous au-dessus de l’assemblée de l’Eternel?”. Comme Coré qui rassemblait les principaux et les chefs du peuple contre Moïse, ainsi arriva-t-il au temps de Jean et du Seigneur Jésus. Ce furent les scribes, les pharisiens et les principaux du peuple qui se révoltèrent contre eux. Il en est exactement de même aujourd’hui. Mais comme Coré et les 250 autres reçurent le châtiment de Dieu, ainsi recevront leur châtiment les adversaires qui se liguent pour empêcher et dénigrer le travail de son prophète élu.
 
-LA MISSION DE FRERE BRANHAM
+## La mission de frère Branham
 
 Celui qui a assisté aux conférences de frère Green les semaines passées, se souviendra qu’il démontra par les Ecritures que frère Branham était un prophète de Dieu, qui devait venir avant le grand et terrible jour de l’Eternel, comme il est écrit. Maintenant, il est de mon devoir à mon tour de le prouver par les Ecritures.
 
@@ -722,7 +722,7 @@ enseigné. Ce faisant, on arriva à une stagnation du mouvement, car on mettait 
 l’oeuvre de Dieu. L’histoire de l’Eglise prouve qu’une organisation ne peut expérimenter un réveil,
 ni le maintenir. Chaque réveil est venu indépendamment d’une organisation.
 
-    LA DERNIERE PERIODE DU MINISTERE DE FRERE BRANHAM
+## La dernière période du ministère de frère Branham
 
    En 1962, le Seigneur parla à frère Branham dans une vision et lui dit: «Fais des provisions de
 nourriture pour le temps où on en aura besoin». Dès lors frère Branham répétait souvent qu’il ne

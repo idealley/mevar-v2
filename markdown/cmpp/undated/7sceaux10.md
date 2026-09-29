@@ -71,7 +71,7 @@ PAR WILLIAM MARRION BRANHAM
 
 SEPTIEME SCEAU
 
-LE SEPTIEME SCEAU
+## Le septième sceau
 
 24 mars 1963, soir
 Branham Tabernacle

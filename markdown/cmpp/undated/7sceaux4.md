@@ -68,11 +68,11 @@ PAR
 
 WILLIAM MARRION BRANHAM
 
-DEUXIÈME SCEAU
+## Deuxième sceau
 
 http://www.cmpp.ch
 
-LE DEUXIÈME SCEAU
+## Le deuxième sceau
 
 19 mars 1963, soir
 Branham Tabernacle

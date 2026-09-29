@@ -94,7 +94,7 @@ Agissant de la part de Dieu.
 
 ---
 
-**EDITORIAL**
+## Éditorial
 
 > “Et il a donné les uns… pour le perfectionnement des saints en vue de l’oeuvre du ministère et de l’édification du corps de Christ, jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ,…” (Ephésiens 4.11-13).
 

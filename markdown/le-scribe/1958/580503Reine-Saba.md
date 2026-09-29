@@ -52,7 +52,7 @@ original: "branham/1958/58-0503"
 
 **LA REINE DE SABA**
 
-**QUEEN OF SHEBA**
+## Queen of Sheba
 
 3 mai 1958, samedi soir, Hartford (Connecticut)
 

@@ -169,7 +169,7 @@ les oeuvres et les actions de Dieu jusqu’à notre époque, dans l’intention 
 une compréhension plus profonde des choses que Dieu a destinées à leur croissance spirituelle.
 “Cieux, écoutez! terre, prête l’oreille! Car l’Eternel parle!” (Ésaïe 1.2).
 
-        DIEU ACHEVE SON OEUVRE
+## Dieu achève son œuvre
 
    “Dieu acheva au septième jour son oeuvre, qu’il avait faite; et il se reposa au septième jour de
 toute son oeuvre, qu’il avait faite” (Genèse 2.2).
@@ -322,7 +322,7 @@ demandez ce que vous voudrez, et cela vous sera accordé” (Jean 15.7). Cette p
     dans la mort spirituelle. “Il est écrit: L’homme ne vivra pas de pain seulement, mais de toute parole
     qui sort de la bouche de Dieu” (Mat. 4.4).
 
-                      LA VOIX DE DIEU “AUJOURD’HUI”
+## La voix de Dieu « aujourd’hui »
 
    “En ce moment même, Jésus tressaillit de joie par le Saint-Esprit, et il dit: Je te loue, Père,
 Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents, et
@@ -579,7 +579,7 @@ prophètes de Dieu ne peuvent être trompés par un “esprit de mensonge”, pa
     notre temps. “… Je vous remplacerai les années…” (Joël 2.25). Le message pour cette heure est
     le message d’une complète restauration.
 
-                                   L’ERE DU NOUVEAU TESTAMENT
+## L’ère du Nouveau Testament
 
    Beaucoup de Chrétiens négligent de lire l’Ancien Testament, ne réalisant pas qu’il trouve son
 accomplissement dans le Nouveau. Cent neuf (109) prédictions de l’Ancien Testament concernant

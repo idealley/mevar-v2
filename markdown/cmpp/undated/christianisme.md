@@ -82,7 +82,7 @@ LE CHRISTIANISME HIER ET AUJOURD'HUI
 
 Coup d’oeil historique sur l’Eglise
 
-AVANT-PROPOS
+## Avant-propos
 
 Le propos de cette brochure est de donner une impulsion nouvelle à ceux qui la liront. Nous avons pour but de rendre chacun attentif, afin que tout devienne clair en lui sur ce sujet. En se taisant beaucoup se sont déjà chargés d’une faute grave; mais d’autre part celui qui par ses propos ou ses écrits s’écarte de la tendance générale fait alors mauvaise impression. De toute façon, il n’est pas possible de plaire à tout le monde.
 
@@ -96,7 +96,7 @@ Dans cette courte introduction certains thèmes ne seront qu’effleurés ou tra
 
 Krefeld, printemps 1985    L’auteur
 
-QUELLE EST LA RELIGION JUSTE?
+## Quelle est la religion juste ?
 
 Nous voulons nous occuper ici du sujet le plus important qui existe. Au fond cela devrait intéresser tout homme. L’indifférence peut devenir du fatalisme. Chacun sait qu’il y a différentes religions. Mais la question qui devrait être posée est celle-ci: y a-t-il une religion véritable? Toutes prétendent être dans la vérité. Cependant il est compréhensible que le scepticisme se soit développé d’une telle façon à l’égard des choses religieuses. Des gens se détournent des confessions religieuses et ils ne veulent plus rien avoir à faire avec Dieu. En général on considère même que Dieu et la religion vont ensemble. Cependant il y a des personnes qui réfléchissent sur ces choses dans le silence et se demandent s’il n’y aurait pas un Dieu vivant qui se soucie de l’homme. Mais comment trouver son chemin dans toutes les ramifications religieuses? Qui peut donner à la question posée une réponse positive? Ou bien tout cela n’est-il que tromperie? Les Hindous ont-ils raison? Les Musulmans ont-ils raison? ou bien serait-ce les Bouddhistes? L’un des fondateurs de religions est-il ressuscité d’entre les morts? Jusqu’à ce jour, l’humanité n’a entendu parler que de la résurrection d’un Seul. Tous les autres ont été ensevelis avec leurs doctrines.
 
@@ -160,7 +160,7 @@ Le Saint-Esprit est l’Esprit de Vérité et seule la Parole de Dieu est la Par
 
 Qui donc peut se dispenser de cette Parole à la légère? Exactement comme s’est accompli ce que le Seigneur Dieu a dit au commencement: “Le jour où tu en mangeras, tu mourras”, ainsi se manifestera cette parole comme étant également vraie. Dieu pense ce qu’Il dit, et Il dit ce qu’Il pense. Les Ecritures ne peuvent pas être brisées. Toutes les décisions de Dieu sont irrévocables et parfaites.
 
-DERNIERES VOLONTES
+## Dernières volontés
 
 L’apôtre parle d’un testament, d’un legs, de dernières dispositions qui, sitôt qu’elles ont pris force de loi, ne peuvent plus être changées ou munies d’adjonctions après coup (Galates 3.15). Avec la mort de notre Seigneur, le Nouveau Testament est entré en vigueur. Comment des hommes ont-ils osé entreprendre toutes ces modifications? Dans Hébreux 9, il est encore une fois question de cet état de choses et il est dit aux versets 16 et 17: “Car là où il y a un testament, il est nécessaire que la mort du testateur soit constatée. Un testament, en effet, n’est valable qu’en cas de mort, puisqu’il n’a aucune force tant que le testateur vit”.
 
@@ -190,7 +190,7 @@ Nous ne trouvons pas davantage dans les Saintes Ecritures la moindre indication 
 
 Pareillement les Saintes Ecritures ne nous parlent que de l’Ascension de Jésus-Christ. “Pendant qu’il les bénissait il se sépara d’eux, et il fut enlevé au ciel” (Luc 24.51). Pas un seul apôtre n’a jamais rien su d’une soi-disant ascension de Marie. Ce n’est qu’en 1951 que ce dogme a été établi d’après une légende qui disait que Marie dans son corps et son âme avait été prise dans le Ciel. Il n’y a aucun fondement biblique à cela. Les préceptes des hommes n’ont encore jamais sauvé quelqu’un, mais bien au contraire ils ont retenu des millions de personnes loin du salut.
 
-PRETENTIONS NON BIBLIQUES
+## Prétentions non bibliques
 
 Dans les Saintes Ecritures on ne trouve pas la moindre indication montrant une personne revêtue d’autorité et désignée comme étant un successeur de Pierre. Il n’y est nulle part question d’un remplaçant de Christ. Les Ecritures parlent uniquement de successeurs de Jésus-Christ. Il n’est pas davantage écrit que Pierre ait été institué comme la tête visible de l’Eglise. Comment pourrait-il y avoir un homme qui dût être la tête, alors que Christ Lui-même est la Tête?
 
@@ -214,7 +214,7 @@ Ce développement non biblique ne peut pas être attribué aux apôtres du chris
 
 Cependant l’Esprit de Dieu révélait déjà en ce temps-là, comme Paul le dit, que cela n’allait pas demeurer ainsi. Nous lisons dans 1 Timothée 4: “Mais l’Esprit dit expressément que dans les derniers temps, quelques-uns abandonneront la foi, pour s’attacher à des esprits séducteurs et à des doctrines de démons, par l’hypocrisie de faux docteurs portant la marque de la flétrissure dans leur propre conscience, prescrivant de ne pas se marier et de s’abstenir d’aliments…”. A quoi ces paroles nous font-elles penser? Elles se sont accomplies à la lettre.
 
-UN MALENTENDU
+## Un malentendu
 
 Celui qui lit avec attention Matthieu 16.18 constatera que le Seigneur n’a pas dit là: “Tu es Pierre et sur toi je bâtirai mon Eglise”, mais bien “Et moi, je te dis que tu es Pierre, et que sur cette pierre (ce roc) je bâtirai mon Eglise”. Il n’est pas permis de prendre un seul verset et de l’interpréter arbitrairement. Pour recevoir une réponse claire il est indispensable de lire tout le contexte.
 
@@ -226,7 +226,7 @@ Sur le terrain spirituel il ne s’agit pas d’exposer de bonnes pensées qui a
 
 Il ressort de l’histoire de la tentation de notre Seigneur que l’ennemi est aussi venu à Lui avec des passages bibliques qu’il avait toutefois détachés de leur contexte et qu’il employait faussement. Le Seigneur lui répliqua chaque fois par: “Il est aussi écrit…”. Ainsi se référer aux passages bibliques ne signifie encore rien du tout si ceux-ci ne se trouvent pas en accord avec le témoignage tout entier des Saintes Ecritures. Bien que l’ennemi se présente avec des citations bibliques, il n’en laisse aucune dans son contexte originel.
 
-LES CLEFS
+## Les clefs
 
 Cette parole de Matthieu 16.19: “Je te donnerai les clefs du Royaume des cieux” que le
 Seigneur adressa à Pierre se trouvait en relation directe avec son appel et sa mission. Lorsque
