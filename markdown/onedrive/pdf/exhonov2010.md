@@ -47,7 +47,7 @@ bible_refs:
   - "Luc 10:2"
   - "1 Timothée 2:1-2"
   - "Hébreux 5:7-8"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, je vous salue dans le nom précieux de notre Seigneur Jésus-Christ. Que Sa grâce et Sa paix soient avec vous tous. Je voudrais vous exhorter courtement avec cette parole de la femme veuve dont a parlé Jésus dans la parabole sur le juge inique : « **Fais-moi justice de ma partie adverse** ». Aujourd’hui, l’Église est dans la position de cette femme. C’est pourquoi Elle doit réclamer la Justice de Dieu.
 
@@ -69,7 +69,7 @@ Dieu ne fera-t-Il pas justice à Ses élus qui crient à Lui nuit et jour ? Rete
 
 **Regardez, lorsque le juge inique a décidé de rendre justice à la dame, nous avons compris par là que le plus faible peut venir à bout du plus fort. Dans ce monde, le plus faible que nous sommes peut venir à bout du plus fort qui est le diable – Satan**. Les élus peuvent venir à bout de l’adversaire par la prière persévérante. C’est la voie que le Seigneur a indiquée pour nous.
 
-**NOUS N’AVONS PAS À LUTTER CONTRE LA CHAIR ET LE SANG**
+## Nous n’avons pas à lutter contre la chair et le sang
 
 Soldats ! Dois-je vous rappeler que nous n’avons pas à lutter contre la chair et le sang ? Dois-je vous rappeler que nous sommes engagés dans un grand combat spirituel et que nous devons avoir grandement les yeux ouverts pour toujours discerner les manifestations de Satan ? Dois-je vous rappeler que le combat du diable est toujours dirigé contre la prière et ceux qui prient ? Oui, le diable combat seulement ceux qui prient, parce que ce sont eux qu’il craint dans ce monde. **Satan craint ceux qui marchent dans la Justice et la prière**. Car ce sont eux qui peuvent le faire plier comme cette femme a réussi à faire plier le juge inique.
 

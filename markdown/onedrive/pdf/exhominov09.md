@@ -67,7 +67,7 @@ Soyons des modèles en parole et en conduite. **Autrement dit, ce n’est pas de
 
 **Fr M’BRA Parfait**
 
-**ANNONCE DE PRIÈRE**
+## Annonce de prière
 
 Nous aurons notre semaine de prière dans le mois de décembre, **du 7 au 13**. À cette occasion, nous demanderons au Seigneur Jésus-Christ de faire de notre mouvement de réveil, **UNE SEULE PERSONNE**.
 

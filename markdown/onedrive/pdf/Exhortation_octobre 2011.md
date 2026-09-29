@@ -58,7 +58,7 @@ bible_refs:
   - "1 Corinthiens 10"
   - "1 Corinthiens 10:21-22"
   - "2 Corinthiens 6:14-17"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes chers frères et sœurs, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ. C’est avec beaucoup de reconnaissance au Seigneur que nous pouvons encore nous adresser au peuple de Dieu. Nous sommes heureux de prendre part à la préparation du peuple de Dieu pour l’enlèvement à la fin des temps. En effet, notre préparation doit être approfondie au fur et à mesure que nous avançons dans la présence de Dieu. Si nous sommes réellement dans la Lumière, **Elle brillera plus fortement pour nous au fur et à mesure que nous nous approchons du Seigneur Jésus-Christ et de l’apparition de Son jour**. Par contre, ceux qui ne sont plus dans la Lumière avanceront plus loin dans les ténèbres, au moment où nous sommes dans cette heure décisive.
 
@@ -76,7 +76,7 @@ Une heure de ténèbres était venue sur la terre à l’arrestation du Seigneur
 
 La question du vêtement et de l’habillement dans le milieu chrétien est devenue une question très importante à cause de ce que le monde est bien entré dans ce domaine. Beaucoup de chrétiens s’habillent selon le monde sans souvent le savoir. Mais il y en a aussi qui s’habillent selon le monde par pure convoitise. Je voudrais traiter cette question dans cette Parole d’exhortation pour aider les uns et les autres à se conduire selon la Parole de Dieu.
 
-**L’Éternel Dieu – le premier couturier de l’histoire**
+## L’Éternel Dieu – le premier couturier de l’histoire
 
 **Mes chers amis, je voudrais ici placer la Parole de Dieu devant nous tous, sous nos yeux désormais éclairés**. Car nous ne sommes plus aveugles pour marcher selon le monde. Dans ce mouvement de réveil, nous ne sommes plus aveugles. Nous faisons partie de ceux que Dieu a éclairés après la débâcle de Laodicée. Je vous ai parlé de l’aveugle Bartimée à ce sujet. **S’agissant de la question de l’habillement, il nous faut remonter à l’origine, après la chute dans le péché pour connaître la pensée de Dieu sur le sujet**. Je voudrais considérer avec vous deux textes dans le livre de la Genèse.
 
@@ -104,9 +104,9 @@ Si quelqu’un aime le monde, l’amour de Dieu n’est pas en lui. C’est la v
 
 Jean dit que : « tout ce qui est dans le monde, la convoitise de la chair, la convoitise des yeux et l’orgueil de la vie, ne vient pas du Père, mais vient du monde ». La convoitise qui est dans le monde, notamment celle de la chair, des yeux et l’orgueil de la vie qui nous pousse à nous habiller d’une certaine manière ne vient pas de Dieu. Ce sont des désirs malsains. **L’homme et la femme en Christ doivent s’habiller pour se vêtir, c’est-à-dire cacher leur nudité qui est sacrée selon la pensée de Dieu**. Celui qui s’habille doit avoir cette pensée. « 17 Et le monde passe, et sa convoitise aussi ; mais celui qui fait la volonté de Dieu **demeure éternellement**. » Celui qui fait la volonté de Dieu demeure éternellement, comme la Parole de Dieu demeure éternellement. Mais le monde passera avec sa convoitise et sa mode. Le monde passera avec ses vêtements et sa perversion.
 
-**L’habillement dans le Nouveau Testament**
+## L’habillement dans le Nouveau Testament
 
-**Principe fondamental – la décence**
+### Principe fondamental – la décence
 
 > **1** Vous de même, femmes, soyez soumises chacune à votre mari, afin que même si quelques-uns n’obéissent pas à la parole, ils soient gagnés sans parole, par la conduite de leur femme, **2** en voyant votre conduite pure et respectueuse. **3 N’ayez pas pour parure ce qui est extérieur** : cheveux tressés, ornements d’or, manteaux élégants, **4 mais la parure cachée du cœur**, la parure personnelle inaltérable d’un esprit doux et tranquille ; voilà qui est d’un grand prix devant Dieu. **5 Ainsi se paraient autrefois les saintes femmes qui espéraient en Dieu, soumises à leur mari, 6 telle Sara qui obéissait à Abraham et l’appelait son seigneur**. C’est d’elle que vous êtes devenues les descendantes, si vous faites le bien, sans vous laisser troubler par aucune crainte.
 
@@ -122,7 +122,7 @@ Elles portent des camisoles qui serrent exprès les seins et qui les mettent en 
 
 **La Modestie** : la modestie renvoie à la sobriété dans l’habillement. Dans la pensée de Dieu, les chrétiens ne doivent pas faire partie de ceux qui dépensent beaucoup d’argent pour s’habiller. Il est fait référence ici aux habits de luxe, parce que la Bible nous interdit même la luxure. Car derrière la luxure, il y a un mauvais esprit. Les chrétiens doivent s’habiller sobrement et modestement. Même quand on a les moyens de s’habiller avec beaucoup de luxe, il faut éviter de le faire, parce que tous les membres de la communauté ne sont certainement pas riches comme vous. La modestie est opposée à l’extravagance. Une tenue extravagante est une tenue qui attire les regards et qui suscite trop d’admiration. Les chrétiens doivent se garder de cela. **Si la pensée originelle de Dieu est satisfaite dans l’habillement, cela est le plus important. Cette pensée élimine l’extravagance, l’impudicité et la luxure**.
 
-**Les parures**
+### Les parures
 
 En traitant la question de l’habillement, les apôtres ont aussi traité la question des parures du corps, parce que les parures font partie de l’habillement. Il est à remarquer que les enseignements des apôtres sur l’habillement ne s’adressent qu’aux femmes en Christ. Je le relève parce que ce sont elles qui ont le plus de problèmes dans ce domaine. **Paul demande aux sœurs de ne pas se parer de tresses, d’or, ni de perles, ni d’habits somptueux**… mais de bonnes œuvres. L’apôtre Pierre dit exactement la même chose, comme si les deux serviteurs de Dieu s’étaient consultés. « **3 N’ayez pas pour parure ce qui est extérieur** : cheveux tressés, ornements d’or, manteaux élégants… » Cette déclaration veut dire que les sœurs en Christ ne doivent pas se préoccuper de la parure extérieure, ce qui est en relation directe avec la pensée originelle de Dieu dont nous avons déjà parlé. Au commencement, Dieu fit des vêtements à Adam et Ève. Il n’ajouta rien d’autre.
 
@@ -142,7 +142,7 @@ Lorsqu’on parle de ce sujet, il y a des frères et sœurs qui disent que Dieu 
 
 Il y a ici quelque chose de très important que je voudrais mettre en exergue. Pierre évoque l’ancien temps, faisant allusion à la parure des saintes femmes d’autrefois. **Il dit que ces sœurs, comme Sara se paraient de bonnes œuvres et non de perles, d’or, de bracelets, de tresses et autres**. Il montre que ces femmes n’avaient pas de soucis pour l’habillement, mais qu’elles étaient plus intéressées par se soumettre à leur mari et à servir le Seigneur de manière convenable. **Parce que nous devons servir Dieu « de manière convenable. » Il faut savoir servir le Seigneur. Il faut savoir se marier avec Christ. Il ne faut pas s’encombrer avec du superflu. Mes chers frères et sœurs, mettons-nous en harmonie avec Dieu sur Sa pensée originelle sur tous les sujets**. Prions le Seigneur Dieu, le tout premier couturier de nous enseigner comment nous vêtir pour ne pas tomber dans les pièges de l’ennemi.
 
-**TÉMOIGNAGE**
+## Témoignage
 
 Je voudrais vous raconter un témoignage au sujet de ces choses dont nous parlons. Mon témoignage provient d’une expérience que nous avons vécue pendant des prières de délivrance pour une sœur qui était possédée de mauvais esprits. Cette sœur, quand elle était dans le monde, aimait se mettre à la mode. Elle portait les pantalons, elle aimait se maquiller, elle portait les hauts talons, etc. Sa vie était liée à une vraie mondanité. Lorsque nous avons commencé les prières de délivrance, plusieurs esprits se sont manifestés, mais je voudrais mettre l’accent sur un esprit dont la manifestation se trouvait dans l’habillement. En effet, les démons se manifestent de plusieurs manières, dans tous les domaines. Ceux qui se manifestent dans l’habillement s’appellent généralement « Cyrène des eaux ». En Afrique, on les appelle encore « Mamie Watta ». Ce sont ces esprits qui se manifestent dans la mode. On les trouve avec les mannequins, les stylistes modélistes, les grands couturiers. Ce sont ces démons qui habillent les hommes et les femmes aujourd’hui. Je me souviens que pendant les prières, cet esprit prenait des poses de mannequin. Et il disait que la jeune sœur voulait être mannequin.
 
@@ -178,7 +178,7 @@ Pendant les combats, il nous a révélé que si elle avait accepté de coucher a
 
 Si vous dormez la nuit et que vous avez communion avec de tels esprits, levez-vous dans la prière et le jeûne pour vous séparer d’eux, sinon, ils détruiront votre vie. L’une de leurs manifestations est la jalousie et les querelles dans le couple, lorsqu’ils influencent un partenaire dans le couple. **Ils empêchent même les rapports intimes entre monsieur et madame, parce que c’est en ce moment-là que les querelles commencent**. Ne laissons pas le diable guider notre vie de couple. C’est le temps de la délivrance des œuvres des ténèbres. Mes bien-aimés, affranchissons-nous des démons. Affranchissons-nous de la table et de la coupe des démons pour être agréables à Dieu.
 
-**La vierge Marie, déesse des catholiques**
+### La vierge Marie, déesse des catholiques
 
 Le dernier esprit qui s’est présenté à nous s’appelle « Marie, la reine du ciel ». Un jour, la sœur avait vu dans son sommeil, deux esprits. Un qui s’est présenté à elle comme « la vierge Marie » et un autre qui se fait appeler « faux prophète ». Ils sont venus à elle. Par la suite, elle a vu une maison dans laquelle se trouvaient des démons. Puis elle a entendu un bruit et les démons se sont écriés : « **Babylone est tombée ! Babylone est tombée** ! » Ce songe concernait sa délivrance. En effet, lorsque ce démon de Marie s’est présenté, il nous a dit qu’il est venu combattre parce qu’il y a la guerre. Il est venu combattre l’œuvre du réveil parce que nous travaillons contre son royaume. Il faut dire que je n’avais jamais rencontré un démon aussi résistant que cet esprit de Marie. Tous les démons qu’on a combattus sont coriaces, mais celui-là est plus coriace que les autres. Lui-même nous l’a dit clairement. Il a dit : « Moi, je ne suis pas n’importe qui, je suis une reine. Préparez-vous avant de me combattre. »
 

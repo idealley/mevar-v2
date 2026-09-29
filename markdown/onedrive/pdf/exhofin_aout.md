@@ -53,11 +53,11 @@ bible_refs:
   - "Daniel 10"
   - "Daniel 10:12-14"
   - "Ésaïe 62:6-7"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
-**ÉVÉNEMENTS MYSTÉRIEUX DANS LE SOLEIL**
+## Événements mystérieux dans le soleil
 
-**APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE**
+## Appel à la guerre – appel au combat contre Babylone
 
 Je vous salue tous mes bien-aimés frères et sœurs et amis de la chaîne de prière par les Paroles de Paul aux Colossiens :
 
@@ -81,7 +81,7 @@ Pendant qu’ils observaient ces choses, ils ont éprouvé une grande peur parce
 
 **N.B.** : Nous aurions pu exposer le témoignage écrit des frères eux-mêmes, mais la difficulté est que tous ne peuvent pas s’exprimer de manière claire par écrit en français. Avant l’événement, un frère et une sœur l’avaient déjà vu en songe.
 
-**Songe du frère Kouassi Arthur avant l’événement**
+## Songe du frère Kouassi Arthur avant l’événement
 
 Je m’appelle Gnazalé Kouassi Arthur. C’était au mois de juillet, j’ai vu en songe, une femme, elle s’élevait au-dessus de la terre et mesurait environ 6 mètres. Elle était vêtue de tout noir. Quand elle m’a vu, elle est descendue vers moi. Aussitôt, j’ai commencé à prier contre elle. « Tu es vaincu – tu es vaincu… » Mais quand elle a commencé à me parler, j’ai perdu la voix. Elle me disait que je pouvais demeurer avec elle. Dans mon cœur, je disais au Seigneur : « Pourquoi je perds la voix alors que c’est l’heure du combat ? » J’ai été exaucé et ma voix est revenue et j’ai recommencé à prier : « Tu es vaincu – tu es vaincu au nom de Jésus… » Alors la femme a disparu. Puis, j’ai vu le ciel ouvert et l’armée céleste en mouvement avec des épées, des chars. J’ai vu ce grand cercle rouge, avec les soldats, les épées qu’ils tenaient en main, avec les chars. Les épées étaient en forme de « J » bien blanc… Dans le songe, je montrais ce que je voyais au ciel à certaines personnes qui ne voyaient rien. Mais une sœur passait, je lui ai montré et elle m’a dit qu’elle voyait et **que cela voulait dire que le combat contre Babylone avait commencé et que l’armée céleste descendait pour combattre avec nous**…
 
@@ -97,9 +97,9 @@ Nous devrions reconnaître que ce qui s’est passé dans le soleil ce jour-là 
 
 L’Éternel passe en revue l’armée qui va combattre : **les épées, les cavaliers et les chars qui se sont formés d’un côté et qui passaient devant le soleil avant de se déformer de l’autre côté sont réellement la preuve de la revue des troupes devant le chef de l’armée – le Soleil de Justice**. Ces choses qui ont été vues témoignent de la Puissance militaire des cieux. Dieu par ce qui s’est passé ce **1er août** voulait rassurer Son peuple que le combat contre Babylone a atteint son point culminant. C’est maintenant l’heure de nous lever pour combattre les puissances des ténèbres qui barrent la route au réveil. **Je voudrais rappeler que ce que les frères ont vu n’est pas une vision, mais qu’il s’agit d’une scène qu’ils ont observée à l’œil nu pendant six heures de temps dans le ciel. Cet événement n’a pas été vu dans toute la nation. C’est seulement dans la région de ce village que ce phénomène a été observé. Celui qui veut des vérifications peut se rendre là-bas interroger les témoins**.
 
-**AUTRE ÉVÉNEMENT**
+## Autre événement
 
-**Visitation d’une sœur**
+### Visitation d’une sœur
 
 **Le 16 août 2007**, aux environs de 17 heures, une sœur qui est de passage chez moi a été visitée par un homme dans une vision. Il lui a dit : « **Je suis le chef de l’Armée**. J’ai un message pour Mon serviteur, va lui dire. » Puis la sœur est venue au salon et je l’ai trouvée saisie par le Saint-Esprit en train de prophétiser. L’Esprit disait par elle, entre autres Paroles : « **Tous les démons du monde entier se sont levés contre vous – alors ce n’est pas le temps de baisser les bras… c’est la guerre. C’est le temps de persévérer dans le jeûne et la prière. Que chacun d’entre vous veille sur sa propre vie… Ce n’est pas l’heure de baisser les bras… Babylone est fâchée**. » Puis, elle a eu des visions, elle a vu un homme fâché qui montait un cheval – et lui-même et le cheval qu’il montait étaient noirs. C’est le symbole de l’esprit babylonien. Elle a vu des épées tomber du ciel, et par la suite, une troupe de soldats entrer dans notre assemblée pour y stocker des armes en vue d’un affrontement à venir. Les lettres et les mots ne peuvent pas vous décrire l’ambiance spirituelle que j’ai vécue dans mon salon. J’ai prêché et je continue de prêcher le combat contre Babylone, mais le temps est maintenant à la démonstration. Nous sommes en train de vivre les visitations de l’Esprit à l’ancienne mode en prélude à un événement particulier.
 
@@ -153,7 +153,7 @@ Mes bien-aimés, soyons des hommes de mission. **Et je voudrais en ces moments c
 
 Nous devrions combattre dans la prière jusqu’à ce que la gloire de l’Église lui soit restituée. Et c’est Babylone qui a terni l’image de l’Église et de Christ. Souvenez-vous que les Écritures disent qu’Il avait été défiguré, par la barbarie de Ses bourreaux. **Aujourd’hui, les bourreaux de l’Église et du Christ sont dans Babylone, il s’agit des faux pasteurs, des faux prophètes, des faux apôtres et de tous ceux qui utilisent le nom de Christ en vain, pour s’établir eux-mêmes et s’enrichir. Tous ceux-là doivent disparaître à l’apparition de la gloire de Dieu dans l’Église, avec tous les démons qui se cachent derrière eux. C’est notre combat – c’est notre Mission. Soyons des hommes de Mission comme cet ange envoyé de Dieu auprès de Daniel. Ne baissons pas les bras au moment où le combat n’est pas encore achevé**. Toute l’armée céleste est prête à nous soutenir jusqu’au bout.
 
-**Programme spécial de prière**
+## Programme spécial de prière
 
 Compte tenu de la situation qui prévaut en ce moment, nous avons décrété le mois de septembre, **mois de prière intensif** dans notre assemblée. Pour la chaîne de prière, nous aurons des moments particuliers ensemble.
 
