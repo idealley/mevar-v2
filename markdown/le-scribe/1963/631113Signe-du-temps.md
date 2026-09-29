@@ -56,7 +56,7 @@ bible_refs:
   - "Luc 8:48"
 original: "branham/1963/63-1113"
 ---
-**LE SIGNE DE NOTRE TEMPS**
+## Le signe de notre temps
 
 *13 novembre 1963, mercredi soir, New York (New York)*
 

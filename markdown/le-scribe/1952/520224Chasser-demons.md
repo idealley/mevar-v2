@@ -48,7 +48,7 @@ original: "branham/1952/52-0224"
 
 **CROIRE EN DIEU (ou CHASSER LES DEMONS C’EST CHASSER L'INCREDULITE)**
 
-**BELIEVING GOD (ou CASTING OUT DEVILS IS CASTING OUT UNBELIEF)**
+## Believing God (ou casting out devils is casting out unbelief)
 
 24 février 1952 (parfois daté à tort le 26 août 1951), dimanche matin, Jeffersonville (Indiana)
 

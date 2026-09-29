@@ -60,15 +60,15 @@ bible_refs:
 ---
 WILLIAM MARRION BRANHAM
 
-LA REVELATION DE JESUS-CHRIST
+## La révélation de Jésus-Christ
 
 3 Age d'Ephèse
 
 LA REVELATION DE JESUS-CHRIST — AGE D'EPHESE
 
-LA REVELATION DE JESUS-CHRIST
+## La révélation de Jésus-Christ
 
-EGLISE D'EPHESE
+## Église d'Éphèse
 
 5 décembre 1960, lundi soir
 Branham Tabernacle

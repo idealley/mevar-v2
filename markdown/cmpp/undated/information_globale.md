@@ -124,7 +124,7 @@ EWALD FRANK
 “Mais la parole de notre Dieu demeure éternellement” (Ésaïe 40.8).
 “Et cette parole est celle qui vous a été annoncée par l’Evangile” (1 Pier. 1.25).
 
-LE MONDE ENTIER REGARDE A ROME
+## Le monde entier regarde à Rome
 
 Le mois d’avril 2005 nous a donné directement l’un après l’autre deux événements significatifs survenus dans la capitale de ce monde, Rome. Le départ du pape Jean-Paul II, et l’arrivée de Benoît XVI, lequel est élu par 100 voix sur 115. Pas seulement la presse internationale, mais toutes les mass média, remplirent de leurs comptes-rendus leur programme entier du jour.
 
@@ -188,7 +188,7 @@ Pour cela, il rappelle que l’Europe doit penser à revenir à ses «racines ch
 
 Dans le livre «Introduction dans le Christianisme» du cardinal Joseph Ratzinger, l’actuel pape Benoît XVI donne d’une manière proéminente, sur 266 pages, un exposé complet du point de vue catholique. Cependant, ce qui nous intéresse c’est d’être introduit dans le conseil du salut de Dieu, du point de vue divin. Le mot ou la notion «Christianisme», ne se trouve en réalité pas une seule fois dans la Bible. Nous lisons seulement que ceux qui avaient cru en Christ, à Antioche, furent pour la première fois appelés Chrétiens (Actes 11.26). Le mot «Christ» signifie «l’Oint» et les croyants qui avaient été oints de l’Esprit étaient les baptisés de l’Esprit (Mat. 3.11; Actes chap. 2 et autres) — «les Chrétiens» — «les oints» (2 Corinthiens 1.21-22).
 
-L’HISTOIRE SE POURSUIT
+## L’histoire se poursuit
 
 Maintenant, jetons un coup d’œil dans l’Histoire: Il y a 482 ans, le 19 novembre 1523, c’est pour la dernière fois qu’un Pape allemand avait été élu, Clément VII. C’était le temps de la Réforme: le 31 octobre 1517 le moine allemand Martin Luther avait cloué ses 95 thèses à l’église du château de Wittenberg. Celui qui se donne la peine de les lire avec attention, arrivera à la même conviction que beaucoup de commentateurs ont écrite, c’est que chaque fois il a tapé dans le mille. En 1518 Martin Luther avait refusé de se rétracter et en 1520 il avait publié ses principaux écrits réformateurs. Le 3 janvier 1521 il avait été excommunié par le Pape. En 1522 apparut le Nouveau Testament traduit par Martin Luther. En même temps le théologien Suisse, Huldrych Zwingli, en 1522, avait exposé et publié ses écrits réformateurs en tant que programme complet.
 

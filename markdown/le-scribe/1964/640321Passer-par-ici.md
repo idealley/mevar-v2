@@ -40,7 +40,7 @@ bible_refs:
   - "Luc 19:40"
 original: "branham/1964/64-0321B"
 ---
-**IL DOIT PASSER PAR CI**
+## Il doit passer par ci
 
 *21 mars 1964, samedi midi, Baton Rouge (Louisiane)*
 

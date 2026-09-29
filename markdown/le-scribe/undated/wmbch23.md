@@ -61,13 +61,13 @@ bible_refs:
   - "1 Corinthiens 5:8"
   - "Jean 5:17,19"
 ---
-**CHAPITRE VINGT-TROIS**
+## Chapitre vingt-trois
 
 **ET AUJOURD’HUI ?**
 
 > “... sachant avant tout que, dans les derniers jours, il viendra des moqueurs avec leurs railleries, marchant selon leurs propres convoitises, et disant : Où est la promesse de son avènement ? Car, depuis que les pères sont morts, tout demeure comme dès le commencement de la création” [2 Pierre 3:3 à 4].
 
-**Un ministère méprisé**
+## Un ministère méprisé
 
 [La plus grande déception de William Branham fut de voir les religieux et même ses amis l’abandonner. Le passage suivant lève un peu le voile sur cette tristesse de son cœur.]
 
@@ -81,14 +81,14 @@ Tous avaient abandonné Elie, et préféré la moderne Jézabel. Les prêtres av
 
 [Quelques semaines après ces paroles que William Branham recevait la révélation des Sceaux au milieu d’une nuée d’Anges, puis recevait l’Epée du Roi.]
 
-**La vision de Leo Mercier**
+## La vision de Leo Mercier
 
 Dans une vision, bien avant la révélation des Sept Ages de l’église, le frère Leo vit une grande montagne pyramidale suspendue dans les airs. William Branham prêchait là-haut, et Leo se mit à grimper pour voir de quoi il s’agissait. Il atteignit le sommet de ce pic, et William Branham se tenait plus loin comme sur une Lumière argentée. Leo attira son attention, et William Branham se tourna vers lui. Leo lui demanda : “Comment êtes-vous arrivé jusque là-haut ? Comment pourrais-je y arriver ?”
 “Leo, aucun homme ne peut venir là. C’est Dieu qui peut amener un homme ici. Tu n’es pas censé monter ici. Toi, tu dois descendre témoigner aux gens d’en bas, de ce que tu as vu et que c’est la Vérité.”
 
 [“Footprints” p. 245 d’après “The Seventy Weeks Of Daniel” le 6 août 1961 à Jeffersonville, Indiana ; “The Power of Transformation” le 31 octobre 1965, à Prescott, Arizona, §14-15]
 
-**Le dernier Signe au temps du soir**
+## Le dernier signe au temps du soir
 
 [Les extraits suivants de prédications de Wiliam Branham soulignent encore une fois la nature de ce ministère très particulier, dont le monde et les églises ont été témoins, et rappellent que l’humanité est à la veille d’évènements majeurs.]
 
@@ -110,7 +110,7 @@ Les lumières du soir s’éteignent, l’arbre arrive à maturité. Dieu a dit 
 
 [D’après “Restoration Of The Bride Tree” le 22 avril 1962 à Jeffersonville, Indiana]
 
-**Encore une fois**
+## Encore une fois
 
 [Au cours des années 60, William Branham insista à plusieurs reprises pour annoncer la venue d’évènements importants. L’épisode de “l’Epée du Roi”, la “visitation des sept Anges”, “révélation des Sceaux”, l’expérience du “rocher de l’aigle”, font partie de ces évènements majeurs caractéristiques du ministère de William Branham, mais il semble bien que d’autres évènements soient encore à venir, ainsi que paraissent le refléter les déclarations de William Branham sur le “troisième pull”, sur la “vision de la tente”, sur la “septième colombe”.
 William Branham, dans une prédication du 15 août 1965, rassembla les récits de divers songes et, au début de la réunion, il déclara : “Nous arrivons à la fin de quelque chose mes amis...” Voici les récits de ces songes qui paraissent non seulement répondre à des préoccupations individuelles, mais peut-être aussi, selon certains, annoncer un futur dramatique et glorieux.]
@@ -133,7 +133,7 @@ Sur le coup, William Branham ne put interpréter ce songe à Orland Walker, et l
 
 [“And Knoweth It Not” le 15 août 1965 à Jeffersonville, Indiana, p. 29 à 34]
 
-**Le cheval blanc de Junior Jackson**
+## Le cheval blanc de Junior Jackson
 
 Dans un songe de décembre 1964, Junior Jackson rêva qu’il se dirigeait en voiture avec sa femme vers une réunion où il n’était encore jamais allé auparavant. Junior Jackson, assis à la droite de sa femme qui conduisait, regarda par la vitre en direction de l’Est, et il vit dans le ciel une tache qui s’approchait à très grande vitesse en face de lui. C’était un homme à cheval. Jackson fit arrêter la voiture et sortit. Un grand cheval blanc de l’armée piaffait déjà sur le bord de la route.
 Le cavalier avait le costume d’un “ranger”, un éclaireur en chef, un homme ayant autorité à l’Ouest. Son chapeau était rabattu, mais, quand il s’est retourné, Jackson reconnut William Branham. Ce dernier, se retournant à demi, pointa le doigt vers Jackson : “Prépare-toi, tu auras un travail à faire.” Puis il releva le bras, et pointa à nouveau le doigt : “Prépare-toi pour le travail que tu es appelé à accomplir.” Il pointa le doigt une troisième fois : “Si tu crois ces paroles, un cheval puissant te sera donné pour te transporter dans l’appel qui t’a été adressé.” Puis il toucha les rênes, et en quelques bonds il monta jusqu’au ciel et disparut vers l’Est en direction du soleil.
@@ -174,7 +174,7 @@ Après l’expérience du “rocher de l’aigle” [Voir récit au chapitre 21,
 
 [Deux semaines plus tard environ, William Branham était victime d’un accident d’automobile mortel]
 
-**Quelque chose va se passer (novembre 1965)**
+## Quelque chose va se passer (novembre 1965)
 
 [Le songe suivant semble confirmer, sans plus de détail, une future Visitation du Seigneur au milieu de son peuple.]
 
@@ -183,7 +183,7 @@ En rapportant ce songe de Junior Jackson, William Branham déclara : “Je ne sa
 
 [“I Have Heard But Now I See”, § 2 à 5, 30, le 27 novembre 1965 à Shreveport, Louisiane]
 
-**Le serpent blessé (1961)**
+## Le serpent blessé (1961)
 
 En 1961, William Branham envisagea sérieusement de quitter le ministère à cause d’un bruit que certaines personnes faisaient courir, disant qu’il était Jésus-Christ lui-même ! Il préférait rencontrer Dieu avec l’étiquette de traître plutôt qu’avec l’étiquette d’antichrist. Un jour, deux ou trois personnes vinrent lui demander s’il n’était pas le Messie. Il leur répondit : “Frères, de même que j’ai essayé d’être un véritable serviteur du Christ, je ne vous laisserai jamais dire une telle chose ... et ceux qui diront une telle chose seront responsables des âmes qu’ils auront ainsi égarées.”
 Mais malgré cela cette rumeur ne s’arrêta pas. Un jour, un ami tira même de sa poche un petit billet disant que William Branham était le Seigneur, et qu’il fallait se faire baptiser dans le nom de William Branham. Et il recevait de nombreux coups de téléphone à ce sujet.
@@ -198,7 +198,7 @@ Je m’apprêtai à lui faire sauter la tête, mais un frère m’a dit : “Ne 
 
 [Effectivement, si cet esprit est aujourd’hui encore à l’œuvre en certains endroits où le “baptême au nom de William Branham” est même pratiqué, il a perdu la plus grande partie de sa force. Ses ennemis n’hésitent cependant pas à montrer encore du doigt ces attitudes aberrantes, dans le seul but de flétrir le ministère de William Branham.]
 
-**L’accident du 18 décembre 1965**
+## L’accident du 18 décembre 1965
 
 Dans le songe du rocher décapité de Junior Jackson [Voir chapitre 19], ce dernier avait une première fois crié : “Il ne sera pas toujours ici” [prophétie sur le départ de William Branham de Jeffersonville pour Tucson ?], et il avait une seconde fois crié : “Il ne sera pas toujours avec nous” [prophétie sur la mort de William Branham ?].
 En avril 1965, William Branham déclara qu’il avait vu sa fin arriver à l’âge de 56 ans [“The Easter Seal”, p. 198, le 10 avril 1965 à Phœnix, Arizona]. Rappelons qu’il était né en juin 1909.
@@ -218,7 +218,7 @@ L’inhumation eut lieu le 11 avril 1966 à Jeffersonville.
 
 [D’après “The Acts Of The Prophet” de Pearry Green, chapitres 16 et 17]
 
-**Vision du Trône**
+## Vision du trône
 
 William Branham avait évoqué avec son épouse Meda ce qui se passerait au ciel quand elle rencontrerait Hope, la première épouse de William Branham. Environ un mois après cet entretien, il rêva qu’il se trouvait au moment de la remise des couronnes à l’Epouse [Ce moment glorieux annoncé par les Ecritures ne doit pas être confondu avec le jugement des incrédules]. Un grand Trône dominait la scène, et un Ange tenait le Livre de Vie. Des gradins circulaires d’ivoire blanc permettaient à la multitude présente de voir tout ce qui se passait. William Branham se tenait tranquille, observant les frères et les sœurs monter vers le Christ à l’appel de leur nom inscrit dans le Livre de Vie. Et il entendit ainsi le Seigneur dire à deux d’entre eux : “C’est bien, bon et fidèle serviteur... Entre dans la joie de ton maître” [cf. Matthieu 25:21,23]. Puis ils allèrent vers un monde nouveau magnifique, où ils se retrouvèrent remplis de joie. Et William Branham en voyant cela bondit de joie et s’écria : “Que c’est merveilleux ! Gloire à Dieu ! Alléluia !” Et il vit ainsi monter des personnes qu’il avait connues sur terre.
 Puis un ange l’appela à son tour : “William Branham !”
@@ -226,7 +226,7 @@ Il ne s’y attendait pas, et il fut effrayé : “Il va falloir que je monte mo
 
 [“The Sixth Seal” le 23 mars 1963 à Jeffersonville, Indiana]
 
-**L’année 1977**
+## L’année 1977
 
 A plusieurs reprises, William Branham défia publiquement ses contradicteurs de mentionner une de ses prophéties qui se serait révélée erronée. Si tel avait été le cas une seule fois, il s’engageait à quitter son ministère. La Bible dit en effet : “Le prophète qui aura l’audace de dire EN MON NOM une parole que je ne lui aurai point commandé de dire, ou qui parlera au nom d’autres dieux, ce prophète-là sera puni de mort. Peut-être diras-tu en ton cœur : Comment reconnaîtrons-nous la parole que l’Eternel n’aura point dite ? Quand ce que dira le prophète n’aura pas lieu et n’arrivera pas, ce sera une parole que l’Eternel n’aura point dite. C’est par audace que le prophète l’aura dite: n’aie pas peur de lui” [Deutéronome 18:20 à 22].
 
@@ -260,7 +260,7 @@ Des défenseurs zélés de William Branham se sont néanmoins emparés de ce pas
 Par ailleurs, l’Ecriture dit que l’homme est toujours faillible. Le prophète Nathan, alors qu’il n’était pas sous onction, donna au roi David un conseil déplacé [2 Samuel 7:3]. C’était pourtant un authentique prophète, et quand l’onction reposait sur lui, il devenait une véritable Voix de Dieu [2 Samuel 12:1].
 Nous croyons que les éléments précédents sont suffisants pour remettre les choses à leur juste place.
 
-**Suivre les empreintes ensanglantées du Christ**
+## Suivre les empreintes ensanglantées du Christ
 
 L’un des diacres de William Branham, Tony Zabel, lui raconta un songe qu’il venait d’avoir. Dans ce songe, Tony Zabel essayait de trouver son chemin vers le Ciel et il vit venir un homme revêtu d’une robe noire et lisant un livre : c’était un pasteur. Il demanda à cet homme le chemin des Cieux. L’homme lui répondit : “Demandez à l’homme qui me précède.”
 Plus loin, il rencontra un autre homme habillé de noir chantant des cantiques, c’était un autre pasteur. (Ces deux pasteurs étaient des amis personnels de William Branham). Tony Zabel lui demanda : “Quel est le chemin pour atteindre le sommet de cette montagne là ?”
@@ -272,7 +272,7 @@ William Branham commente ainsi : “C’est la seule chose que je puisse indique
 
 [”Footprints” p. 1 d’après “Present Stage Of My Ministry” § 80 à 84, le 8 septembre 1962 à Jeffersonville, Indiana]
 
-**La Lumière détache un Rocher de la montagne**
+## La lumière détache un rocher de la montagne
 
 “Mon fils Billy Paul ne rêve pas souvent. L’autre nuit, il a rêvé qu’il était dans une église, et je n’étais pas encore arrivé. Quand je suis entré, des flammes sortaient de mes yeux. Et j’ai dit : “C’est le moment ; c’est terminé !” Et tout le monde s’est mis à crier : “Je ne peux pas, mon enfant...”
 Et ma femme a dit : “Je n’arrive même pas à obtenir de Sarah qu’elle prie pour la bénédiction sur le repas” et tout cela. Billy a dit : “Il faut que j’aille chercher Loyce et le bébé.”

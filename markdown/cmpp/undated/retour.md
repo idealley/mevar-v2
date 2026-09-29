@@ -653,7 +653,7 @@ comme “serviteurs” et “servantes”. Sans aucun doute l’expression “co
 signifie ici les 144 000 qui sont venus à la foi par le ministère des deux prophètes, et qui pendant
 les trois ans et demi de la grande tribulation sont poursuivis et mis à mort par l’Antichrist.
 
-    LA RETRIBUTION
+## La rétribution
 
    “Et aussitôt après la tribulation de ces jours-là, le soleil sera obscurci, et la lune ne donnera pas
 sa lumière (Ésaïe 13.10; Joël 3.3-5; Apocalypse 6.12-17), et les étoiles tomberont du ciel, et les

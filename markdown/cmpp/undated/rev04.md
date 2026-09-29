@@ -56,7 +56,7 @@ bible_refs:
 ---
 WILLIAM MARRION BRANHAM
 
-LA REVELATION DE JESUS-CHRIST
+## La révélation de Jésus-Christ
 
 4 Age de Smyrne
 

@@ -91,7 +91,7 @@ Dieu a parlé, pourquoi ne pas écouter?
 
 ---
 
-**BON POUR LITTERATURE GRATUITE**
+## Bon pour littérature gratuite
 
 Nos autres publications: “Le Christianisme traditionnel”, “L'Apocalypse”, “Le défi de la théologie chrétienne et plus... ” et plusieurs brochures: “La grande tragédie et le plan du salut de Dieu à la lumière du Message du temps de la fin”, “Le Christianisme hier et aujourd'hui”, “Dieu et Son plan pour l'humanité”, “Le retour de Christ”, “William Branham — Un prophète envoyé par Dieu”, “L'indicateur”, “Le chemin qui mène à Dieu”, “Vision 7000 — information globale”, etc.
 

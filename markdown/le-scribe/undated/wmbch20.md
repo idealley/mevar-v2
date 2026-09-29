@@ -50,7 +50,7 @@ bible_refs:
   - "Jean 12:23"
   - "Psaumes 1"
 ---
-**CHAPITRE VINGT**
+## Chapitre vingt
 
 **L’OUVERTURE DES SCEAUX**
 
@@ -62,7 +62,7 @@ La vision des trois constellations et de la “pyramide des anges” du 21 déce
 
 C’est en février 1963 que la vision de la constellation trouva son accomplissement concret, dans une vallée du Mont Sunset.
 
-**Les sept Anges du Mont Sunset (28 février 1963)**
+## Les sept anges du mont Sunset (28 février 1963)
 
 Et il me parla disant : “Les sept Sceaux seront ouverts. Le septuple mystère de la Bible, le mystère scellé depuis la fondation du monde, va être révélé”. [“It Is The Rising Of The Sun” 18 avril 1965 à Jeffersonville, Indiana]
 
@@ -84,7 +84,7 @@ L’un des Anges, le septième, attira plus particulièrement l’attention de W
 
 [“What Is The Attraction On The Mountain ?” § 135 à 140, le 25 juillet 1965 à Jeffersonville, Indiana. “The Easter Seal” p. 35, le 10 avril 1965 à Phœnix, Arizona. “The Seventh Seal” le 24 mars 1963, soir, à Jeffersonville, Indiana]
 
-**Le Nuage mystérieux**
+## Le nuage mystérieux
 
 C’est le 28 février 1963 que cette explosion eut lieu. Et tandis que William Branham était dans la présence de ce groupe de sept Anges, un nuage mystérieux, en forme d’anneau, apparut à la verticale du Mont Sunset, dans le ciel d’Arizona habituellement parfaitement dégagé. Des observateurs frappés par la structure inhabituelle et la taille de ce nuage qui se voyait à deux cents ou quatre cents kilomètres de là, en prirent des photographies de divers endroits. Le magasine “Life” du 17 mai 1963 et le “Science Magazine” du 19 avril 1963 y consacrèrent même un article.
 
@@ -102,7 +102,7 @@ Effectivement, beaucoup refusèrent, en ricanant, d’examiner attentivement ce 
 
 [“Standing In The Gap” § 82 à 87 le 23 juin 1963, “What Is The Attraction On The Mountain ?” § 141 à 142, le 25 juillet 1965, à Jeffersonville, Indiana. “Les Actes Du Prophète” de Perry Green, chapitre 11]
 
-**Les réunions de mars 1963**
+## Les réunions de mars 1963
 
 En mars 1963, William Branham tint, devant des auditoires bouleversés, une série de réunions consacrées au brisement des Sceaux mentionnés dès le début du chapitre 5 de l’Apocalypse. Chaque jour, et conformément à ce qui lui avait été promis lorsqu’il avait été enlevé dans la pyramide des sept Anges, il reçut l’interprétation de ces passages.
 
@@ -234,7 +234,7 @@ Dans la vision, il ne m’avait rien dit du tout. C’est le Saint-Esprit qui av
 
 [“It Is The Rising Of The Sun” 18 avril 1965 à Jeffersonville, Indiana]
 
-**Deux songes de Roy Roberson (mars 1963)**
+## Deux songes de Roy Roberson (mars 1963)
 
 Ce songe de Roy Roberson eut lieu vers trois ou quatre heures du matin. Quand il eut ce songe en Indiana, Roy Roberson en informa William Branham qui se trouvait alors encore en Arizona.
 
@@ -246,13 +246,13 @@ Un songe similaire se reproduisit alors que William Branham était arrivé à Je
 
 [“Footprints” p. 443, 444 d’après “Standing In The Gap” § 93 à 97, le 23 juin 1963 à Jeffersonville, Indiana]
 
-**Lumière au-dessus d’un magnétophone**
+## Lumière au-dessus d’un magnétophone
 
 Des enregistrements des prédications de mars 1963 sur les Sceaux avaient été envoyés dans le monde entier et en particulier à la Jamaïque, dans la région de la Montagne Bleue. Un groupe d’indigènes s’était réuni autour d’un magnétophone pour écouter William Branham parler sur les Sept Sceaux. Pendant qu’ils écoutaient, une Lumière vint s’arrêter au-dessus de l’appareil. Ils en prirent une photographie qu’ils envoyèrent à William Branham.
 
 [“Footprints” p. 466 d’après “Paul, A Prisoner Of Christ”, le 17 juillet 1963 à Jeffersonville, Indiana]
 
-**Lumière au-dessus de Tucson (février 1965)**
+## Lumière au-dessus de Tucson (février 1965)
 
 Un jour William Branham monta jusqu’au Finger Rock près de Tucson. Il était préoccupé par le problème du mariage et du divorce chez les chrétiens, et cherchait la réponse selon les Ecritures. C’est pourquoi il se tenait là en prière.
 
