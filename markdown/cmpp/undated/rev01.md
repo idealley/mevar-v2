@@ -80,7 +80,7 @@ LA REVELATION DE JESUS-CHRIST — LA REVELATION 2
 
 LA REVELATION DE JESUS-CHRIST
 
-## La révélation
+LA REVELATION
 
 4 décembre 1960, dimanche matin
 Branham Tabernacle

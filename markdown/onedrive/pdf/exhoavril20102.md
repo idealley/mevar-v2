@@ -68,7 +68,7 @@ bible_refs:
   - "Nombres 20:7-12"
   - "Jacques 1:19-20"
   - "1 Pierre 4:12-13"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Psaumes 139 :
 

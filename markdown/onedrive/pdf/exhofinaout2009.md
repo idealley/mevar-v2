@@ -78,7 +78,7 @@ bible_refs:
   - "Esther 2:15-17"
   - "Matthieu 25:6"
   - "Actes 7:47-50"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer par cette Parole du Psaumes 23 :
 
@@ -144,7 +144,7 @@ Quand David a fait le mal et que le Seigneur le lui a dit par Nathan, il s’est
 
 Ceux qui espèrent en Dieu ont une fin. Ceux qui font du Seigneur leur Pasteur ont une fin. David l’a témoigné aussi : « Oui, **le bonheur** et **la grâce m’accompagneront tous les jours de ma vie, et j’habiterai dans la maison de l’Éternel Jusqu’à la fin de mes jours**. » Voici la fin de celui qui se laisse conduire par le Pasteur Invisible. Mais comme le dit aussi l’Écriture, **maudit soit celui qui se confie dans l’homme**. Que notre Seigneur nous aide à nous abandonner à Lui pour ne plus nous conduire nous-mêmes.
 
-## Ayez foi en Dieu
+**AYEZ FOI EN DIEU**
 
 > **Nous avons auprès de lui cette assurance**, que si nous demandons quelque chose **selon sa volonté, il nous écoute**. Et si nous savons qu’il nous écoute, quelque chose que nous demandions, nous savons que nous possédons la chose que nous lui avons demandée. (1 Jean 5 :14-15)
 
@@ -188,7 +188,7 @@ Il existe un obstacle à la prière ici, comme Jésus l’a enseigné aussi :
 
 **Si vous voulez moissonner la Perfection à la manifestation de Jésus-Christ dans l’Épouse**, alors, cultivez dès maintenant même le pardon et la paix avec tous. **Car c’est mettre du vin nouveau dans une vieille outre que de jeûner et prier alors qu’on n’a pas pardonné à son prochain le mal qu’il a fait**. Vous risquez d’être rompu ! Car en ce moment, vos propres péchés s’accumulent parce qu’ils ne sont pas pardonnés aussi. Et Satan s’en sert pour vous accuser devant le Seigneur. C’est la Loi de Dieu dans l’adoration vraie. Il ne faut pas s’en détourner, quand on veut aller loin avec le Seigneur dans l’enlèvement.
 
-## Entrez en communion avec Dieu
+**ENTREZ EN COMMUNION AVEC DIEU**
 
 Mes bien-aimés, je vous exhorte à entrer en communion avec Dieu. C’est mon discours depuis le début. Je voudrais vous donner une image de mon Ministère dans le livre d’Esther. Comme je vous l’ai souvent dit, le Seigneur Jésus m’a dit « **Ton Ministère va révéler l’Épouse et ça sera une grande armée**. » En effet, je suis comme dans la position de l’eunuque Hégaï. Son travail était de donner aux jeunes filles, ce qui leur fallait pour s’apprêter à entrer dans la chambre à coucher du roi. **Par là, il faut comprendre que le Cri de Minuit donne un Message de préparation qui amène les jeunes filles vierges à s’apprêter à entrer dans la communion avec le roi. L’objectif était d’entrer dans la chambre à coucher du roi pour trouver grâce à ses yeux**.
 
@@ -220,7 +220,7 @@ Que Dieu vous bénisse tous ! **Que Sa grâce et Sa Paix vous soient multipli�
 
 **Fr M’BRA Parfait**
 
-## Communiqué
+**COMMUNIQUÉ**
 
 Nous aurons notre prochaine semaine de prière du **14 au 20 septembre**. Pendant cette semaine :
 

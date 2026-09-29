@@ -54,7 +54,7 @@ original: "branham/1958/58-0225"
 
 **LE REGARD DE DIEU**
 
-## God's eye
+**GOD'S EYE**
 
 25 février 1958, mardi soir, Chattanooga (Tennessee)
 

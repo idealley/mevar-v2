@@ -45,7 +45,7 @@ bible_refs:
   - "Luc 22:63-65"
   - "Matthieu 12:38-39"
   - "Matthieu 13:55-58"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole que le roi Ézéchias adressa aux fils de Lévi après sa prise du trône de David son père dans le livre de Chroniques.
 
@@ -101,7 +101,7 @@ En effet, la négligence a des conséquences dramatiques dans la vie de tous les
 
 Dieu nous avertit par des visions, par des songes, par les prédications, mais il y a toujours des frères et sœurs qui font semblant de ne pas entendre la voix de Dieu. Ils ne s’exécutent pas. Mais on doit savoir que la négligence conduit à la mort. La négligence conduit à l’abandon de Dieu. **Par expérience, j’ai découvert que la puissance de Dieu se manifeste à raison dans notre vie et dans l’Église. Ce n’est pas la peine d’invoquer la puissance de Dieu au moment où vous subissez les conséquences de votre propre négligence, soit par la maladie ou par une souffrance quelconque**. Nous rencontrons beaucoup de chrétiens qui se plaignent de leurs diverses souffrances. Il y en a qui souffrent de maladies qu’ils ont contractées dans les excès, alors que Dieu nous demande d’être sobres, justement pour éviter les maladies. Après, nous réclamons la puissance de Dieu pour être guéris, sans nous être repentis des excès. Quand nous avons négligé une maladie en incubation, et qu’elle s’est aggravée, nous sommes coupables du péché de Moïse. Quand nous avons négligé nos enfants quant à l’éducation spirituelle et qu’après ils deviennent des incroyants, nous sommes coupables du péché de Moïse.
 
-## Jésus-Christ n’est pas un bouffon
+**Jésus-Christ n’est pas un bouffon**
 
 Mes chers frères et sœurs, nous devons comprendre que notre Seigneur est plus grand que nous et que nous n’avons pas besoin de le considérer comme un bouffon. Il y a des frères qui ne connaissent pas encore bien le Seigneur Jésus. **Ils le considèrent comme un bouffon – quelqu’un qui s’amuse avec Sa puissance. La vraie puissance de Dieu que moi j’ai expérimentée se manifeste à raison. C’est-à-dire qu’il y a des règles de manifestation de la puissance de Dieu**. La première chose que nous devons savoir est que la puissance de Dieu se manifeste dans l’intérêt de Dieu Lui-même. **Le Seigneur ne manifeste pas Sa puissance pour amuser les gens. Il ne le fait pas non plus pour faire plaisir à Ses serviteurs. Tous les miracles de Dieu s’opèrent à raison**.
 

@@ -40,7 +40,7 @@ bible_refs:
   - "1 Chroniques 28"
   - "Matthieu 24"
   - "Apocalypse 1"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Amen ! Que Dieu nous bénisse ! Le Seigneur, c’est Celui qui tient notre main. Et je pense que ce matin, Dieu voulait nous faire comprendre que chanter, c’est se prêcher soi-même. Amen ! Adjé n’a pas l’habitude de le faire comme il l’a fait aujourd’hui. On doit comprendre cela. Amen ! Quand tu chantes, tu te prêches. Il faut avoir cette conscience que tu te prêches, alors tu comprendras mieux ce que tu chantes. Amen ! Le frère Georges de Guibéroua est là, il va nous saluer avant qu’on ne puisse écouter la parole…
 

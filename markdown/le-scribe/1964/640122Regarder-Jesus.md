@@ -72,7 +72,7 @@ original: "branham/1964/64-0122"
 ---
 *Regarder à Jésus* (22 janvier 1964, soir)
 
-## Regardez à Jésus
+**REGARDEZ A JESUS**
 
 **LOOKING UNTO JESUS**
 

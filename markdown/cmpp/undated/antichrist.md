@@ -426,7 +426,7 @@ clair, l’indication relative à l’or, à l’argent et aux pierres précieus
 s’est apprêté lui-même est un dieu que ses ancêtres n’ont pas honoré. Le Dieu d’Abraham,
 d’Isaac et de Jacob est un Dieu tout autre.
 
-## La prostituée assise sur la bête
+                    LA PROSTITUEE ASSISE SUR LA BETE
 
                   Nous rencontrons maintenant un symbole tout nouveau qui appartient également à l’ensemble
     de la constellation anti-chrétienne composée de la puissance politique terrestre et de la puissance
@@ -810,7 +810,7 @@ inimaginable survenu après la deuxième guerre mondiale tient presque du miracl
 de feu qui dans les derniers jours de la guerre est tombée sur l’Allemagne, et en Extrême-Orient
 sur le Japon, n’est qu’un faible avant-goût de ce qui va arriver dans un proche avenir.
 
-## L’image de la bête
+L’IMAGE DE LA BETE
 
 Maintenant nous rencontrons une nouvelle notion, c’est-à-dire celle de “l’image de la bête”. Il est dit de la deuxième bête: “Et elle séduit ceux qui habitent sur la terre, à cause des miracles qu’il lui fut donné de faire devant la bête, disant à ceux qui habitent sur la terre de faire une image à la bête qui a la plaie de l’épée et qui a repris vie” (Apocalypse 13.14). C’est une excellente description pour le développement que nous avons déjà observé. Les USA prennent une position privilégiée au milieu de l’alliance militaire: leurs paroles, leur influence ont du poids. Par rapport aux choses religieuses on n’arrivera pas à démembrer les églises protestantes et à les intégrer complètement; celles-ci reconnaîtront uniquement la papauté, et avec cela elles sauvegarderont le droit à leur propre existence et seront reconnues de la papauté.
 
@@ -828,7 +828,7 @@ De la même manière son image, qui est son pendant, la réunion des protestants
 
 Cela arrivera au point que quiconque dira quelque chose contre l’église romaine sera puni. Plus qu’une seule voix sera autorisée sur la terre: toute autre voix sera interdite et on contraindra les gens à la reconnaître et à devenir membres d’une dénomination appartenant au Conseil Mondial des Eglises. Celui qui ne se pliera pas à ces deux systèmes sera mis hors la loi.
 
-## La marque de la bête
+LA MARQUE DE LA BETE
 
 En Apocalypse 13.16 il est dit: “Et elle (la deuxième bête) fait qu’à tous, petits et grands, et riches et pauvres, et libres et esclaves, on leur donne une marque sur leur main droite ou sur leur front”. Ici aussi nous avons à faire avec le langage symbolique de la Bible. Une marque est un signe distinctif, un indice. Paul dit: “Désormais que personne ne vienne me troubler, car moi je porte en mon corps les marques du Seigneur Jésus” (Galates 6. 17). Il a souffert à cause de Christ et à cause de la véritable proclamation de l’Evangile. Il était entré avec Lui dans une communion de souffrance. Ce n’était certainement pas une stigmatisation extérieurement visible des cicatrices de Jésus. Cela aurait été en réalité une moquerie diabolique du saint acte de salut de Dieu en Jésus-Christ notre Seigneur qui a été accompli une seule fois et qui ne peut être imité. Paul était reconnu et caractérisé comme étant serviteur de Christ, et il a porté Son opprobre.
 
@@ -838,7 +838,7 @@ Dans les cercles de croyants bibliques les gens s’occupent de la marque de la 
 
 La plus petite communauté de croyants d’aujourd’hui se tient également rigoureusement à la ligne de conduite qu’elle s’est elle-même établie; seuls ceux qui appartiennent à la même organisation peuvent exercer au milieu d’eux leur fonction de prédicateur. Les protestants ont contesté à l’église catholique sa prétention d’être l’église hors de laquelle il n’y a point de salut, et cela avec raison. Cependant, après un examen plus rigoureux, on trouve les mêmes prétentions dans toutes les dénominations, jusqu’au plus petit groupe séparé. Pourtant que ce soit à voix haute ou à voix basse, tous disent que si l’on ne croit pas leur doctrine, leur connaissance, leur révélation, etc., on ne peut être sauvé. Par cela ils s’identifient avec la marque de la première religion chrétienne organisée, même s’ils différent doctrinalement l’un de l’autre. Cette marque suffit pour recevoir automatiquement la marque de la bête et être soumis à l’esprit de l’antichrist, lequel règne partout où des hommes sont liés à une organisation, à une doctrine particulière ou à une personne. Cela signifie que toutes les églises d’état ou indépendantes, jusqu’au plus petit mouvement ou nouvelle organisation, portent déjà la marque de la bête sans le savoir.
 
-## Le nombre mystérieux
+LE NOMBRE MYSTERIEUX
 
 Pour les personnes qui ne prendront pas la marque de la bête, comme nous l’avons déjà mentionné, des temps de profonde détresse vont venir. En ce qui concerne les choses religieuses, tous ceux qui ne se joindront pas au système antichrist auront à souffrir des persécutions. En rapport avec l’économie, cela signifie que tous devront se plier à ce système d’économie mondiale. Celui qui n’y participera pas sera boycotté et exclu du commerce. C’est ce que nous lisons dans Apocalypse 13.17: “… et que personne ne peut acheter ou vendre, sinon celui qui a la marque, le nom de la bête, ou le nombre de son nom”.
 
@@ -873,7 +873,7 @@ Personne ne pourra croire sérieusement que les gens porteront une inscription v
 
 Celui qui suit véritablement le Seigneur ne demeurera pas, sur ce point également, dans les ténèbres. Le Saint-Esprit accorde à tous la clarté parce que le temps pour cela est venu. Beaucoup de personnes sincères dans leur foi se trouvent sans le savoir, comme nous l’avons déjà exposé, dans le système antichrist parce qu’ils sont membres d’une église qui appartient au Conseil des Eglises, et ils prêtent l’oreille avec curiosité lorsque l’on prêche sur l’antichrist. Les interprètes de la Bible cherchent l’antichrist en Syrie, en Libye, même en Israël et ainsi de suite. Des personnes n’ayant aucun éclaircissement divin sont conduites dans l’erreur par leur soi-disant bon sens, et ils en séduisent d’autres. Par leur connaissance ils impressionnent les ignorants, des personnes qui n’ont point de connaissance de la Bible. Ce jeu perfide et trompeur de Satan qui a la fausse prétention d’apporter un éclaircissement particulier doit être stoppé par le clair langage de la Parole. Puisse cet exposé en accord avec les Saintes Ecritures réussir cela.
 
-## Une comparaison précise
+UNE COMPARAISON PRECISE
 
 Pour conclure, nous voulons encore aborder quelques traits caractéristiques de l’Antichrist. Paul le désigne comme étant “l’inique”, c’est-à-dire quelqu’un qui s’est défait de la loi. Cela n’a rien à faire avec les exigences établies par la loi de Moïse, mais au contraire il s’agit de la partie révélée de l’histoire du salut dans l’Ancien Testament. Tous ont violé la loi et chacun a transgressé les commandements de Dieu. Il est écrit dans Hébreux 3.5: “Et Moïse a bien été fidèle dans toute sa maison, comme serviteur, en témoignage des choses qui devaient être DITES”. Il s’agit donc du plan de salut qui est esquissé comme une ombre au milieu de toutes les prescriptions de à loi. Dans le sermon sur la montagne, Jésus dit: “Ne pensez pas que je sois venu pour abolir la loi ou les prophètes: je ne suis pas venu pour abolir, mais pour accomplir; car, en vérité, je vous dis: Jusqu’à ce que le ciel et la terre passent, un seul iota ou un seul trait de lettre ne passera point de la loi, que tout ne soit accompli” (Mat. 5.17,18). Sans aucun doute, l’expression “accompli” se rapporte à la partie prophétique, laquelle déjà dans l’Ancien Testament était le coeur de la Parole.
 

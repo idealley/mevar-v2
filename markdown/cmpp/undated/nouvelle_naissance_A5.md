@@ -82,9 +82,9 @@ bible_refs:
 ---
 LA NOUVELLE NAISSANCE
 
-## À quoi sert la nouvelle naissance ?
+A QUOI SERT LA NOUVELLE NAISSANCE?
 
-## Réponse à une demande
+REPONSE A UNE DEMANDE
 
 ALEXIS BARILIER
 
@@ -110,7 +110,7 @@ Le Seigneur Jésus édifie Son Corps sur la révélation de ce qu’Il est dans 
 
 Le fait qu’un croyant reçoit cette révélation d’en haut, que ce Jésus de Nazareth est le Christ, le Fils du Dieu Vivant, est la raison qui permet à l’Esprit de Christ de poursuivre l’édification de cette personne dans la foi véritable, pour la placer dans l’édifice, le Temple du Corps de Christ, qui sera achevé lorsque Jésus présentera à ce monde Son Epouse parvenue à la perfection comme il est écrit dans les Ephésiens 5.27: “Afin que lui se présentât l’assemblée à lui-même, glorieuse, n’ayant ni tache, ni ride, ni rien de semblable, mais afin qu’elle fut sainte et irréprochable”.
 
-## Y a-t-il des étapes pour naître de nouveau ?
+Y A-T-IL DES ETAPES POUR NAITRE DE NOUVEAU?
 
 Certainement! Lorsque un croyant est touché par la révélation de Jésus, qu’il découvre qui Il est véritablement, son développement spirituel dépend dès lors de son engagement. En fait c’est Lui, Jésus, qui l’appelle personnellement lorsqu’Il dit: “Venez à moi, vous tous qui vous fatiguez et qui êtes chargés, et moi je vous donnerai du repos” (Mat. 11.28). Remarquez qu’à l’origine, Jésus n’avait pas adressé ces paroles à des païens, mais bien à des fils d’Abraham, à des gens religieux. Et aujourd’hui encore cet appel à venir à Lui s’adresse tout particulièrement à des gens qui ont une religion, mais qui n’ont pas une relation véritable avec Lui, la Parole faite chair, qui est à nouveau révélée à cette génération par le Message du Dieu de la Bible. Jésus est véritablement “… le premier et le dernier, et le vivant; et j’ai été mort (dit-Il); et voici, je suis vivant aux siècles des siècles” (Apocalypse 1.17-18). C’est Lui qui a manifesté Sa présence sur cette terre, dans notre génération, car Dieu, par le ministère du Fils de l’homme qui animait le prophète de cet âge, a accompli la parole de Malachie 4.5-6: “Voici, je vous envoie Elie, le prophète… Et il fera retourner… le coeur des fils vers leur pères…”. C’est-à-dire qu’au travers de ce Message, Dieu a cherché à ramener nos coeurs à la foi en Jésus, cette foi que nos pères apostoliques possédaient. Aujourd’hui, le Seigneur Jésus adresse le même appel “Venez à moi!” à ceux auxquels Il désire se révéler, en faisant la même promesse de les conduire dans le repos, c’est-à-dire dans une vie dirigée par le Saint-Esprit et non plus dans une vie où ils sont menés par l’esprit de ce monde comme des esclaves de la chair et de ses convoitises. “Christ donc ayant souffert pour nous dans la chair, vous aussi, armez-vous de cette même pensée, que celui qui a souffert dans la chair s’est reposé du péché, pour ne plus vivre le reste de son temps dans la chair pour les convoitises des hommes, mais pour la volonté de Dieu” (1 Pier. 4.1-2).
 
@@ -124,7 +124,7 @@ Lors de Son ascension Jésus avait dit à Ses disciples qui cherchaient à conna
 
 ARRIVERA-T-IL QU’UNE PERSONNE REELLEMENT NEE DE NOUVEAU NE SOIT PAS PRISE DANS L’ENLEVEMENT?
 
-## Qu’elle n’appartienne pas au corps de Christ, qui lui, sera enlevé ?
+QU’ELLE N’APPARTIENNE PAS AU CORPS DE CHRIST, QUI LUI, SERA ENLEVE?
 
 Ce que nous savons, c’est qu’il est écrit au sujet d’Israël: “Car les dons de grâce et l‘appel de Dieu sont sans repentir” (Romains 11.29). Nous pouvons sans aucun doute appliquer cette Parole de Dieu à ceux qui ont été appelés dans la Nouvelle Alliance, et qui ont reçu les dons de grâce que le Seigneur a envoyé à Son Eglise (Éphésiens 4.7-16). Quand il est dit que l’Eternel ne Se repent pas de Ses dons et de Son appel, cela signifie qu’ils restent à ceux qui les ont reçus. Ce n’est pas Dieu qui revient sur l’appel et les dons qu’Il a fait, mais la question est plutôt de savoir si les croyants les ont véritablement reçus. Il est certain que les dix vierges de Matthieu 25 ont toutes répondu à un appel et sont sorties de Babylone pour aller à la rencontre de l’Epoux, tout comme il est certain qu’elles avaient toutes en main une lampe allumée en s’en allant à la rencontre de l’Epoux. Mais les vierges folles n’ont pas pris la cruche d’huile de réserve qui leur avait été demandée de prendre, ne suivant pas l’exemple des vierges sages. Cela veut dire que toutes n’ont pas reconnu l’importance de l’onction de l’Esprit qui se trouve dans la Bible, et qu’elles n’ont pas davantage reconnu que cette Lumière parue au temps du soir, était remise sur le chandelier, premièrement par l’intermédiaire du ministère d’Elie, puis par celui du serviteur fidèle et prudent, et enfin au travers de ceux en qui véritablement sont manifestés les cinq ministères de la Parole.
 

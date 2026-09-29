@@ -81,7 +81,7 @@ bible_refs:
   - "Daniel 2"
   - "Romains 9"
   - "Apocalypse 18:15-24"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes chers frères et sœurs en Christ, recevez mes salutations dans le précieux nom de notre Seigneur et Sauveur Jésus-Christ par cette Parole d’Ésaïe 21 :
 
@@ -119,7 +119,7 @@ Voilà ce que Dieu a dit à Ézéchiel : « 7 Et toi, fils de l’homme, je t’
 
 **La question de Babylone est un sujet très important dans la Bible à la fin des temps parce que tout le monde entier est placé sous l’influence de ce Royaume ennemi**. Notre délivrance vient de ce que nous sommes bien éclairés sur le sujet pour être préservés de la manipulation des démons. Et ce sont les sentinelles que Dieu a placées sur nous qui peuvent bien nous informer.
 
-## Conformément à la mission divine
+**CONFORMÉMENT À LA MISSION DIVINE**
 
 Mes chers frères et sœurs bien-aimés, je voudrais avant d’aller plus loin dans le développement de mon sujet, vous dire que nous agissons en relation avec une commission divine. Lorsque vous prenez de l’autorité sur le diable et ses œuvres, vous devez être entièrement conscients de votre responsabilité et aussi de vos prérogatives vis-à-vis de l’adversaire. La vision du réveil de Minuit est fondée sur les prophéties-piliers. **Ce sont des prophéties dont nous sommes dans les temps d’accomplissement et qui nous donnent de l’autorité et un grand pouvoir actuellement dans le monde des ténèbres**. Nous avons Matthieu 25 :5-6 :
 
@@ -139,7 +139,7 @@ Lorsque Paul prophétise après Jésus-Christ, il voit l’homme impie qui vient
 
 **Dieu m’a appelé conformément à Matthieu 25 :5-6, Michée 5 : 4-5 et 2 Thessaloniciens 2 en relation avec le combat contre Babylone. C’est donc par rapport à une Commission divine que nous parlons de Babylone et du combat que l’Église doit lui livrer**. Nous exerçons par cela un Ministère en tant que sentinelle. Parlant de l’esprit babylonien, il faut dire que les prophéties et les visions le présentent sous deux formes : **la Babylone religieuse et la Babylone politique**.
 
-## La Babylone politique dans les visions de Daniel et de Jean
+**LA BABYLONE POLITIQUE DANS LES VISIONS DE DANIEL ET DE JEAN**
 
 Lorsque la Bible parle de la Babylone politique, elle la représente comme une puissance politique symbolisée par **des bêtes**. Nous voyons cela dans Daniel 7 et dans Apocalypse 13. Les bêtes (animaux) de Daniel étaient sorties de la mer.
 
@@ -198,7 +198,7 @@ Mais qui peut combattre la bête ? **Si personne ne peut la combattre, d’où 
 
 C’est la Parole de vérité qui avait blessé la bête dans les âges passés, pendant les réveils en Europe. Mais ce qui est intéressant, c’est que le dernier réveil dans lequel nous sommes engagés va encore blesser la bête. **La Parole de vérité qui sera à nouveau prêchée dans le monde comme la Lumière des nations va encore blesser la bête**. La bête sera encore gravement blessée par la Puissance de Dieu qui sera déployée dans le monde. Amen ! Nous devons avoir cette vision, mes chers amis. Qui peut combattre la bête ? Qui peut combattre l’Europe et l’Amérique ? **Ce sont les chrétiens qui peuvent combattre la bête. Pas n’importe quel chrétien, mais les élus, l’Épouse qui va dans l’enlèvement. Ce sont les chrétiens qui ont la révélation des mensonges de Babylone qui peuvent la combattre**.
 
-## Importante remarque – contexte de la grande tribulation
+**IMPORTANTE REMARQUE – CONTEXTE DE LA GRANDE TRIBULATION**
 
 Ne confondons pas le combat de Babylone contre les saints pendant la grande tribulation et la victoire de l’Épouse sur Babylone. **Pendant la grande tribulation, les saints seront livrés à la bête qui va les décimer**. Cela dure pendant trois ans et demi. Cette description est faite dans Daniel 7 et dans Apocalypse 13.
 
@@ -246,7 +246,7 @@ Lorsque la Bible parle de la femme prostituée, il est question de la Babylone r
 >
 > **10** Ce sont aussi sept rois : cinq sont tombés, un existe, l’autre n’est pas encore venu, et quand il sera venu, il doit rester peu de temps. **11** Et la bête qui était, et qui n’est plus, est elle-même un huitième roi, et elle est du nombre des sept, et elle va à la perdition. **12** Les dix cornes que tu as vues sont dix rois, qui n’ont pas encore reçu de royaume, mais qui reçoivent autorité comme rois pendant une heure avec la bête. **13** Ils ont un même dessein, et ils donnent leur puissance et leur autorité à la bête. **14** Ils combattront contre l’Agneau, et l’Agneau les vaincra, parce qu’il est le Seigneur des seigneurs et le Roi des rois, et les appelés, les élus et les fidèles qui sont avec lui les vaincront aussi. **15** Et il me dit : Les eaux que tu as vues, sur lesquelles la prostituée est assise, ce sont des peuples, des foules, des nations, et des langues.
 
-## Le jugement de la prostituée
+**Le jugement de la prostituée**
 
 Selon les prophéties, un temps viendra dans l’Union, où Dieu mettra dans le cœur des dirigeants de l’Europe de haïr la prostituée. Alors, ils la détruiront par leur puissance. Le temps vient où le Vatican, l’Église catholique et tout le système religieux mondial sera foulé aux pieds par les responsables politiques du monde :
 
@@ -268,7 +268,7 @@ Dans notre génération, plusieurs frères et sœurs sont occupés en tant que t
 
 > **8** Et alors paraîtra l’impie, que **le Seigneur Jésus détruira par le souffle de sa bouche, et qu’il anéantira par l’éclat de son avènement**.
 
-## La bête et les mouvements de rébellion
+**La bête et les mouvements de rébellion**
 
 Mes chers amis, la bête dont nous parlons ici tire son autorité de Satan comme cela est écrit. Et Satan fut le premier rebelle parce qu’il s’opposa à l’autorité de Dieu dans les cieux. **L’une des stratégies de la bête dans la manipulation des États est la création et le soutien des mouvements de rébellion en vue de la déstabilisation des États dont les chefs ne se soumettent pas à son autorité**. Comme à la fin des temps, tout se joue en Afrique, c’est dans ce continent qu’on voit mieux les agissements de la bête. **En Europe et en Amérique, la bête n’a pas besoin de créer des mouvements de rébellion, mais elle opprime les citoyens par la mise en place d’un système social et économique qui les éloigne de Dieu**.
 
@@ -284,7 +284,7 @@ Mes chers amis, la rébellion vient de Satan et de ses hommes. La rébellion est
 
 Certes, tout le monde entier est sous la puissance du malin, **mais Dieu en tant que créateur des cieux et de la terre contrôle l’établissement de toutes les autorités dans le monde**. Elles sont là pour accomplir Ses propres desseins, qu’elles soient bonnes ou mauvaises. Chaque autorité a son utilité devant Dieu. C’est pourquoi les chrétiens doivent se soumettre aux autorités qui les gouvernent et prier pour elles.
 
-## Prier pour les autorités
+**PRIER POUR LES AUTORITÉS**
 
 > **1** J’exhorte donc, en tout premier lieu, à faire des requêtes, prières, intercessions, actions de grâces, pour tous les hommes, **2** **pour les rois et pour tous ceux qui occupent une position supérieure**, **afin que nous menions une vie paisible et tranquille**, en toute piété et dignité. **3** Cela est bon et agréable devant Dieu, notre Sauveur, **4** qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. (1 Timothée 2 :1-4)
 
@@ -326,7 +326,7 @@ Aujourd’hui, voyez ce qui se passe en Libye. La France arme des rebelles contr
 
 **L’esprit de rébellion appelle toujours la mort là où il s’installe**. Dans le désert, lorsque ce démon s’est emparé des Koré, Dathan et Abiram, Dieu les a tous engloutis avec leurs familles dans la terre. Ils sont tous morts. Les Américains ont soutenu la rébellion de Savimbi en Angola pendant de longues années. Cette rébellion prit fin à la mort de Savimbi. Plusieurs coups d’État et rébellions ont été organisés et continuent d’être organisés sur le continent par la bête et ses hommes. **Mes chers amis, nos cœurs ne doivent jamais adhérer à ces choses**, **parce qu’il y a un jugement divin toujours attaché à cela**.
 
-## La Chine – la Russie et le bloc communiste
+**LA CHINE – LA RUSSIE ET LE BLOC COMMUNISTE**
 
 Aujourd’hui, l’on peut se demander la position de la Chine et de la Russie dans les prophéties bibliques. Vous savez vous-mêmes que c’est le bloc communiste. Dieu les réserve pour le jugement contre Babylone. Regardez bien et vous verrez que le bloc communiste ne fait pas partie du système babylonien dont la Bible parle. Lorsque la Bible mentionne les 10 États de l’Europe de l’Est dans l’Union, c’est pour un bref moment et c’est en vue de juger la prostituée. C’est ce que nous avons déjà mentionné. **Depuis le début les deux blocs sont opposés et se battent toujours par État interposé. La Russie et la Chine se démarquent très souvent des positions de l’Europe et des États-Unis au Conseil de Sécurité**. Ce sont eux qui sont opposés à Babylone parce qu’ils ont les mêmes poids militaires. Le frère Branham en son temps disait que le Seigneur lui demandait de faire attention au roi du nord. Le roi du nord en question, c’est la Russie. Aujourd’hui, en plus de la Russie, nous assistons à la montée en puissance de la Chine, au plan économique, alors qu’elle était déjà militairement forte.
 
@@ -344,7 +344,7 @@ Comme je l’ai déjà dit, tout se joue actuellement en Afrique, au plan spirit
 
 **Vous remarquez que la bête mesure la menace de la Chine et de la Russie**. **Alors, c’est pour détruire l’influence de la Chine et l’affaiblir que cette bête essaie d’y introduire la démocratie, par le soutien accordé aux dissidents chinois**. Récemment à Oslo fut accordé le prix Nobel de la Paix à un dissident chinois. Tout cela est fait à dessein. Mais les Russes et les Chinois n’iront pas dans la démocratie. Ces pays n’aiment pas l’Église parce que Babylone leur a présenté une mauvaise image de l’Église. Elle a présenté l’Église comme un moyen de contrôle des peuples, ce qui n’est pas vrai. Dieu a durci le front de ces États contre Babylone et ils exécuteront ces desseins le moment venu.
 
-## Sortez de Babylone
+**SORTEZ DE BABYLONE**
 
 > **4** Et j’entendis du ciel une autre voix qui disait : **Sortez du milieu d’elle, mon peuple, afin que vous ne participiez point à ses péchés, et que vous n’ayez point de part à ses fléaux**. **5** Car ses péchés se sont accumulés jusqu’au ciel, et Dieu s’est souvenu de ses iniquités. **6** Payez-la comme elle a payé, et rendez-lui au double selon ses œuvres. Dans la coupe où elle a versé, versez-lui au double.
 

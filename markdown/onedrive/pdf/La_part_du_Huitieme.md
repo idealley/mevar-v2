@@ -153,9 +153,9 @@ bible_refs:
   - "Marc 16"
   - "Actes 2:4"
   - "Actes 2:38"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
-## Introduction
+**Introduction**
 
 > « Ce qui arriva du temps de Noé arrivera de même **aux jours du Fils de l’homme**. Les hommes mangeaient, buvaient, se mariaient et mariaient leurs enfants, jusqu’au jour où Noé entra dans l’arche ; le déluge vint, et les fit tous périr. » (Luc 17: 26-27)
 
@@ -187,7 +187,7 @@ Vous constaterez qu’avec Joseph, **le réveil se produit pendant que la distri
 
 C’est juste pour dire qu’il n’est pas nécessaire que frère Frank disparaisse pour que l’on puisse parler d’un Cri de réveil à Minuit. **Car comme nous l’avons vu avec l’histoire de Joseph, la distribution de la nourriture n’est pas spirituellement incompatible avec le réveil. Car ce sont deux Ministères qui conduisent l’Épouse jusqu’à l’enlèvement**. Je dis bien Ministères, parce que je ne parle des hommes qui les incarnent. Et Joseph continua avec la distribution de la nourriture après la repentance de ses frères. **Nous sommes souvent limités parce que nous voyons des personnes au lieu de l’Esprit qui agit dans leurs Ministères**. Lorsque nous garderons plus le regard sur la manière d’agir du Saint-Esprit dans notre âge, **cela nous conduira véritablement à garder la vision céleste**. Car de même que les frères de Joseph furent délivrés, l’Église aussi a besoin d’être délivrée du sommeil et de l’assoupissement spirituels.
 
-## Élie au mont Carmel
+**Élie au mont Carmel**
 
 J’aimerais utiliser l’histoire du Mont Carmel pour attirer notre attention sur quelque chose qui nous échappe. En effet, je ne suis pas de ceux-là qui croient que certaines choses sont du hasard ou des coïncidences dans l’Église. Lorsqu’il arriva le tour d’Élie d’invoquer son Dieu au Mont Carmel, Il dit à tout le peuple :
 
@@ -205,7 +205,7 @@ C’est pour cela qu’il est très important de garder la vision céleste, car 
 
 **Selon les Écritures, il y a une part qui est réservée au huitième**. Et dans ce chapitre, nous allons étudier les particularités qui sont liées avec tous ceux qui dans la Bible ont occupé cette position de huitième. Dans l’Ecclésiaste, l’exhortation nous est donnée d’être disposé à donner une part à un huitième, car nous ne connaissons pas ce qui peut arriver sur la terre. Effectivement, le plan de Dieu est insondable : qui peut le connaître ?
 
-## Noé était un huitième (2 Pierre 2 : 5)
+**Noé était un huitième (2 Pierre 2:5)**
 
 J’aimerais aborder ici une particularité liée avec le Ministère de Noé, mais avant cela, nous allons faire une comparaison entre 2 Pierre 2 : 5 et 1 Pierre 3 :20.
 
@@ -213,15 +213,15 @@ J’aimerais aborder ici une particularité liée avec le Ministère de Noé, ma
 
 Vous remarquerez que 1 Pierre 3 :20 met plus l’accent sur le nombre des personnes sauvées et dans toutes les versions bibliques, c’est ce qui est repris. Mais lorsque nous analysons le passage de **2 Pierre 2 :5**, nous constatons que l’accent est plus mis sur le Ministère de Noé et sa personne. Ci-dessous, le verset de 2 Pierre 2 :5 vu par plusieurs traducteurs de la Bible :
 
-### Version Martin (1885)
+**Version Martin (1885)**
 
 > Et s’il n’a point épargné le monde ancien, mais a gardé Noé, **lui huitième**, **qui était le prédicateur de la justice** ; et a fait venir le déluge sur le monde des impies
 
-### Version Crampon
+**Version Crampon**
 
 > S’il n’a pas épargné l’ancien monde, mais en préservant **Noé, lui huitième**, **comme prédicateur de la justice**, lorsqu’il fit venir le déluge sur un monde d’impies
 
-### Version la Bible annotée Annobib
+**Version LA BIBLE ANNOTÉE ANNOBIB**
 
 > Et s’il n’a point épargné l’ancien monde, mais a préservé **Noé, lui huitième, ce prédicateur de la justice**, tandis qu’il faisait venir le déluge sur un monde d’impies
 
@@ -229,47 +229,47 @@ Vous remarquerez que 1 Pierre 3 :20 met plus l’accent sur le nombre des pers
 
 > S’il n’a pas épargné l’ancien monde, mais s’il a sauvé Noé, **lui huitième, ce prédicateur de la justice**, lorsqu’il fit venir le déluge sur un monde d’impies
 
-### Version Bible de l’Épée, version marginale (Édition Leduc)
+**Version Bible de l’Épée, Version marginale (Édition Leduc)**
 
 > Et s’il n’a point épargné l’ancien monde, et **sauva Noé, un prédicateur de la justice, huitième personne à être préservé**, lorsqu’il a envoyé le déluge sur le monde des impies
 
 **N.B** : Note : le mot « personne » dans cette version est ajouté par le traducteur lui-même pour une meilleure compréhension de texte, cela ne fait pas partie des textes originaux.
 
-### Version Bible Abbé Fillion 1855
+**Version Bible Abbé Fillion 1855**
 
 > ...et s’il n’a point épargné l’ancien monde, mais n’a sauvé que **Noé, lui huitième**, **ce prédicateur de la justice**, lorsqu’Il fit venir le déluge sur le monde impie
 
-### Version Pirot Clamer
+**Version Pirot Clamer**
 
 > S’il n’a pas épargné l’ancien monde, mais n’a préservé que **huit personnes dont Noé, prédicateur de la justice**, quand il fit venir le déluge sur le monde des impies
 
 Note : le mot « personne » dans cette version est ajouté par le traducteur lui-même pour une meilleure compréhension de texte, cela ne fait pas partie des textes originaux.
 
-### Version Bible de Genève
+**Version Bible de Genève**
 
 > Et n’a point épargné le monde ancien, **mais a gardé Noé, lui huitième, héraut de justice**, et a amené le déluge sur le monde des méchants
 
-### Version Bible de Jérusalem
+**Version Bible de Jérusalem**
 
 > S’il n’a pas épargné l’ancien monde, **tout en préservant huit personnes dont Noé, héraut de justice**, tandis qu’il amenait le Déluge sur un monde d’impies
 
-### Version King James
+**Version King James**
 
 > Et il n’a pas épargné l’ancien monde, **mais a sauvé Noé, lui huitième, un prédicateur de droiture**, faisant venir le déluge sur le monde des impies.
 
-### Version Bible Martin 1744
+**Version Bible Martin 1744**
 
 > Et s’il n’a point épargné le monde ancien, **mais a gardé Noé, lui huitième, qui était le Héraut de la justice** ; et a fait venir le déluge sur le monde des impies
 
-### Version Olivetan
+**Version Olivetan**
 
 > Et s’il n’a point épargné le monde ancien, **mais a gardé Noé, lui huitième, qui était le héraut de la justice** ; et a fait venir le déluge sur le monde des impies
 
-### Version Ostervald
+**Version Ostervald**
 
 > Et s’il n’a point épargné l’ancien monde, **et s’il a préservé Noé, lui huitième**, **le prédicateur de la justice**, lorsqu’il a envoyé le déluge sur le monde des impies
 
-### Version Darby
+**Version Darby**
 
 > …et s’il n’a pas épargné l’ancien monde, mais a préservé **Noé, lui huitième**, **prédicateur de justice**, faisant venir |le| déluge sur un monde d’impies
 
@@ -323,7 +323,7 @@ Et cette vision est conforme avec l’Écriture, car il est aussi dit de Christ,
 
 Je ne dis pas que Branham fut enlevé, mais c’est juste pour montrer la similitude avec notre temps. **Noé avait aussi une particularité qui consistait à annoncer la pluie, un phénomène que la terre n’avait pas encore vécu**. Dans notre temps **nous attendons aussi la pluie de l’arrière-saison que notre génération n’a jamais vécue**. **Par l’exemple de Noé, nous pourrons aussi comprendre que le chiffre huit est aussi bien placé dans les Écritures prophétiques comme il en est des chiffres 7 – 3 et 12**.
 
-## David était un huitième
+**David était un huitième**
 
 > **Isaï fit passer ses sept fils devant Samuel** ; et Samuel dit à Isaï : L’Éternel n’a choisi aucun d’eux. Puis Samuel dit à Isaï : **Sont-ce là tous tes fils ? Et il répondit : Il reste encore le plus jeune**, mais il fait paître les brebis. Alors Samuel dit à Isaï : Envoie-le chercher, car nous ne nous placerons pas avant qu’il ne soit venu ici. Isaï l’envoya chercher. Or il était blond, avec de beaux yeux et une belle figure. **L’Éternel dit à Samuel : Lève-toi, oins-le, car c’est lui ! Samuel prit la corne d’huile, et l’oignit au milieu de ses frères**. L’esprit de l’Éternel saisit David, à partir de ce jour et dans la suite. Samuel se leva, et s’en alla à Rama. (1 Samuel 16 :10-13)
 
@@ -335,7 +335,7 @@ La vie de David était une vie de combat étant donné qu’il fut un chef du pe
 
 > Puis il appela Salomon son fils, et lui commanda de bâtir une maison à l’Éternel le Dieu d’Israël. David donc dit à Salomon : Mon fils, j’ai désiré de bâtir une maison au Nom de l’Éternel mon Dieu ; **Mais la parole de l’Éternel m’a été adressée, en disant : Tu as répandu beaucoup de sang, et tu as fait de grandes guerres** ; tu ne bâtiras point de maison à mon Nom, parce que tu as répandu beaucoup de sang sur la terre devant moi. 1 Chroniques 22 :6-8
 
-## Le huitième jour
+**Le huitième jour**
 
 Bien que nous savons tous qu’il y a sept jours dans une semaine, dans le plan de Dieu, nous y voyons un huitième jour qui se faufile dans sa particularité au milieu de la semaine prophétique de Dieu :
 
@@ -351,7 +351,7 @@ Remarquons que la septième fête fut la dernière, mais Dieu a prévu une huiti
 
 Bien que Dieu ait déployé son plan du salut en six jours de travail et le septième pour le repos (millénium), il y avait un huitième jour qui, comme un fil a traversé ces sept jours. Ce fil, c’est l’éternité qui se trouvait et qui se trouve dans le cœur de chaque élu de Dieu. Le huitième jour se trouve au milieu des sept jours.
 
-## Le huitième prince
+**Le Huitième prince**
 
 Le point que j’aborde ici est très important. Ma prière est que le Seigneur nous assiste par Sa grâce à le comprendre. C’est dans Michée chapitre 5 que nous trouvons là où il est parlé **d’un huitième Prince** :
 
@@ -387,7 +387,7 @@ Mais cela n’a pas empêché le Saint-Esprit de révéler cela à son prophète
 
 Et cette déclaration a conduit certaines personnes à croire à la révélation des sept tonnerres. Dans le texte de Michée 5, il est important d’expliquer trois mots clés : **Prince – Pays – Reste de Jacob**. Cela me conduira à expliquer le contexte du combat contre Babylone.
 
-### Qu’est-ce qu’un prince ?
+**Qu’est-ce qu’un prince** ?
 
 Au verset 5 de Michée 5, on nous parle de huit princes :
 
@@ -447,7 +447,7 @@ Le combat contre Babylone est vraiment une réalité à la fin de l’âge de La
 
 C’est ici l’importance de ce point que nous avons traité à l’introduction de cet ouvrage. **Le problème est qu’il faut garder la vision céleste. Comme Apocalypse 18 parle aussi du combat contre Babylone, nous devrons comprendre maintenant combien Michée 5 est relié à cela**. Si nous voulons le comprendre, **c’est cela la part du huitième prince dans cet âge de Laodicée. L’ange puissant d’Apocalypse 18 se tient aussi derrière son Ministère pour nous conduire dans le dernier combat avant l’enlèvement**.
 
-### Qui est le reste de Jacob ?
+**Qui est le reste de Jacob** ?
 
 > « **Et le reste de Jacob sera, parmi des peuples nombreux**, comme une rosée qui vient de l’Éternel, comme les gouttes de pluie sur l’herbe, qui n’attend rien de l’homme, et n’espère rien des enfants des hommes. **Et le reste de Jacob sera entre les nations**, parmi des peuples nombreux, comme un lion parmi les bêtes de la forêt, comme un lionceau parmi les troupeaux de brebis, qui, lorsqu’il passe, foule et déchire, et personne ne délivre. Que ta main se lève contre tes adversaires, et que tous tes ennemis soient exterminés ! » (Michée 5 :7-9)
 
@@ -485,7 +485,7 @@ Tout cela parce que la grâce de Dieu c’est-à-dire la faveur imméritée de D
 
 **Après avoir analysé ces 3 mots que sont « Prince** » « **Pays » « Reste de Jacob », nous comprenons que l’Église a bel et bien sa part dans cette prophétie de Michée 5**.
 
-## Le combat contre Babylone dans le Message du réveil
+**Le combat contre Babylone dans le Message du réveil**
 
 Ce huitième prince n’a pas vraiment un Message différent de celui du septième ange de l’Église. Son Message est en rapport avec le Cri de Minuit de Matthieu 25 :6-7 : « À minuit, un cri retentit : **voici l’époux, sortez à sa rencontre. Alors toutes les vierges se réveillèrent et apprêtèrent leurs lampes** » C’est le même Message de préparation qui fut apporté par Branham au temps du Soir, mais seulement comme nous sommes réellement arrivés à Minuit, il y a une particularité qui s’y dégage. En fait, dire que le Cri du verset 6 est le Message déposé par Branham au temps du Soir est correct aussi longtemps que nous considérons le Message comme un tout, **mais Matthieu 25 :6, est le Message dans son aspect de Minuit et non dans le contexte du temps du Soir qui est déjà passé**. Comme nous le savons, une écriture peut avoir des applications multiples, bien que frère Branham ait aussi eu à se référer au Cri de Minuit, cela n’était pas vraiment lié à son temps, car il s’agissait du temps du Soir :
 
@@ -493,7 +493,7 @@ Ce huitième prince n’a pas vraiment un Message différent de celui du septiè
 
 **En son temps, le frère Branham, parlant de la particularité de son Message, le comparait à un instrument de musique abandonné dans une salle poussiéreuse, remplie des toiles d’araignées et qui n’intéressait personne**. **Mais un jour, il y eut un homme qui savait jouer à cet instrument délaissé et qui par son don lui redonna de la valeur**. Le frère Branham typifia cet instrument à la Bible qui fut abandonnée par les dénominations, mais qui par la prédication du Message de l’heure retrouva sa vraie valeur. **Il en est de même avec le Cri de Minuit. Son contenu se trouve dans le Message annoncé par frère Branham, mais ce Cri de préparation fut négligé par le peuple de Dieu à cause de l’assoupissement et du sommeil spirituel**. Amen ! **Mais Dieu par Sa grâce avait prévu ce Cri pour le réveil spirituel des vierges**. Et ce Cri de Minuit qui conduit l’Église au combat spirituel contre Babylone contient les points suivants : **la repentance, la sanctification, le jeûne et la prière et le témoignage final de l’Épouse**.
 
-### La repentance
+**La repentance**
 
 La repentance est la base de tout vrai réveil que nous trouvons dans la Bible et dans l’histoire de l’Église. Et le dernier réveil que nous attendons ne peut échapper à cette réalité. Et c’est ce qui a été demandé à cette Église de Laodicée. Remarquons que l’Église de Laodicée n’a pas eu un groupe de vainqueurs auquel le Seigneur s’est adressé directement. Mais le Seigneur s’est adressé directement à chaque croyant, car c’était une Église qui était devenue orgueilleuse malgré sa pauvreté. Toutefois, elle se croyait riche :
 
@@ -517,7 +517,7 @@ Ici le frère Branham ressort clairement l’importance de la repentance dans la
 
 Effectivement, il n’y a personne qui plaide parce que c’est Laodicée qui se croit être riche et pourtant qui est pauvre et nue. Elle n’a besoin de rien, même pas de la repentance. Honte à nous ! disait Branham.
 
-### La sanctification
+**La sanctification**
 
 **Le Message de la sanctification est le Message de l’heure et le Message de Minuit**. C’est cela la préparation des lampes dont il est question au verset 7 de Mathieu 25. **C’est la recherche d’une communion profonde avec Dieu pour échapper à la manifestation abondante des œuvres de la chair qui ont cours en ce moment dans le Royaume de Dieu**. La sanctification nous libère du carcan du péché et du vieil homme pour nous faire vivre dans la plénitude de l’Esprit. C’est l’abandon du monde pour se consacrer au Seigneur. **Cela implique l’obéissance et la pratique de la Parole**. C’est pour cela que Pierre que Pierre pouvait dire :
 
@@ -533,7 +533,7 @@ Je dis un puissant amen à cette exhortation de frère Branham. L’Église est 
 
 Cette exhortation du prophète est très profonde, mais le **problème est que l’Église ne reconnaît pas qu’Elle a été séduite par le monde**. Ces liens ont provoqué le sommeil spirituel. Nous voyons ses manifestations par les œuvres de Babylone au milieu de nous. Et à Minuit, nous devrons nous défaire de ces liens. C’est cela la préparation des lampes dont il est question dans Matthieu 25. Ceci doit être un désir profond dans notre cœur.
 
-### Jeûne et prière
+**Jeûne et prière**
 
 > « Sur tes murs, Jérusalem, j’ai placé des gardes ; **Ils ne se tairont ni jour ni nuit**. Vous qui la rappelez au souvenir de l’Éternel, Point de repos pour vous ! Et ne lui laissez aucun relâche, Jusqu’à ce qu’il rétablisse Jérusalem Et la rende glorieuse sur la terre ». Ésaïe 62 : 6-7
 
@@ -613,7 +613,7 @@ Et le frère Branham, nous exhorte aussi dans le même esprit jusqu’à ce que 
 
 **Nous voulons être trouvés par le Seigneur parmi ce groupe qui intercède jusqu’à ce que la nouvelle chevelure de l’Église repousse**.
 
-### Le témoignage
+**Le témoignage**
 
 Je pense que c’est le point culminant de ce combat spirituel qui conduira l’Église à vivre la manifestation des fils de Dieu qui est la grande parade que l’Épouse va connaître avant son enlèvement. L’Église-Épouse, par sa vie doit témoigner Christ en apportant le message du salut partout dans le monde. Ce point est en rapport avec le chant du coq dont parle Marc au chapitre 13 :35 : « Veillez donc : car vous ne savez point quand le Seigneur de la maison viendra, si ce sera le soir, ou à minuit, **ou à l’heure que le coq chante**, ou au matin ; » Je pense aussi que c’est ce que le Seigneur avait fait comme promesse à frère Frank, lorsqu’il lui avait parlé avec une voix audible sur ce terme : « **Mon serviteur lorsque la dernière action commencera, je te parlerai de nouveau. Alors mon esprit sera sanctifié en toi** » Lettre circulaire 59, E.Frank
 
@@ -625,7 +625,7 @@ C’est aussi à ce moment-là que s’accomplira la vision de la moissonneuse-b
 
 Ce moment sera vraiment le temps de la grande moisson de la terre. Ma prière est que le Seigneur mette à nos pieds les chaussures de l’armure de Christ qui est le zèle de l’Évangile de paix. (Eph. 6 :15)
 
-## Jérémie et Hanania ou bien Isaac et Rebecca ?
+**Jérémie et Hanania ou bien Isaac et Rebecca** ?
 
 Dans ce chapitre, j’aborderai l’un des événements qui est en train de marquer la fin de l’âge de Laodicée. Il s’agit de la position de frère Frank par rapport au Ministère de frère M’BRA et son Message de réveil. Les frères se posent souvent les questions suivantes :
 
@@ -672,7 +672,7 @@ Souvenons-nous que Dieu pour couper court à ces deux sons de cloche que les deu
 
 Dieu n’avait pas tardé de venir au secours de Jérémie, et cela avait donné à Jérémie un grand zèle pour prononcer le jugement de Dieu sur ce faux prophète. Si nous voulons comparer cette époque à celle de Jérémie et Hanania, nous devrons aussi nous attendre à ce que Dieu agisse de la même manière. **Voilà bientôt trois ans qu’il est question du Cri de Minuit et que cette œuvre avance sur le terrain. Combien de temps Dieu attendra-t-il encore pour clore cette affaire ? À chacun d’y répondre**.
 
-### Mathieu 25 : 6 est-il un ministère ?
+**Mathieu 25 :6 est-il un Ministère** ?
 
 > « Examinons encore les Écritures au sujet de Matthieu 25 : 6 : **Au milieu de la nuit, il se fit un cri : voici l’Époux, sortez à sa rencontre**. Vis-à-vis de cette prophétie, chacun doit se poser la question suivante : **Qui sont ceux qui poussent des cris dans l’Église en rapport avec les prophéties bibliques** ? La meilleure manière d’expliquer cette Parole est d’examiner Ésaïe 40 : Une voix **crie** : Préparez au désert le chemin de l’Éternel, Aplanissez dans les lieux arides. Une route pour notre Dieu. Que toute vallée soit exhaussée, Que toute montagne et toute colline soient abaissées ! Que les coteaux se changent en plaines, Et les défilés étroits en vallons ! (Ésaïe 40 :3-4)
 >
@@ -682,7 +682,7 @@ Dieu n’avait pas tardé de venir au secours de Jérémie, et cela avait donné
 >
 > Le cri de Matthieu 25/6 a la même valeur prophétique que les autres cris d’Ésaïe 40. **Il s’agit bel et bien d’une sentinelle qui crie dans Matthieu 25/6, un Ministère prédit et établi par Jésus-Christ**. Cette sentinelle de Minuit n’est pas différente de la sentinelle de la nuit dont parle Ésaïe 21 : Oracle sur Duma. On me crie de Séir : **Sentinelle, que dis-tu de la nuit ? Sentinelle, que dis-tu de la nuit** ? La sentinelle répond : **Le matin vient**, et **la nuit aussi**. Si vous voulez interroger, interrogez ; Convertissez-vous, et revenez. (Es 21 :11) Si la sentinelle est questionnée au sujet de la nuit, c’est bel et bien parce que son tour de garde est en rapport avec les veilles de la nuit. » Voyez un tsunami spirituel, M’BRA Parfait
 
-### Isaac et Rebecca
+**Isaac et Rebecca**
 
 Selon mon humble avis, c’est l’exemple qui peut illustrer ce que nous sommes en train de vivre actuellement dans l’âge de Laodicée. Isaac fut prophète de l’Éternel très haut, l’Éternel lui apparaissait sans intermédiaire, Gen 26 : 2 et 24 :
 
@@ -692,7 +692,7 @@ Bien que prophète, Isaac jusqu’au soir de sa vie, ne connaissait pas le plan 
 
 **N’est-ce pas là un exemple de deux serviteurs de Dieu qui ne voyaient pas dans la même direction ? Rebecca n’était-elle pas une servante de Dieu** ?
 
-## L’Afrique : base du dernier réveil de l’Épouse
+**L’AFRIQUE : BASE DU DERNIER RÉVEIL DE L’ÉPOUSE**
 
 > « **Je suis noire, mais je suis belle**, filles de Jérusalem, Comme les tentes de Kédar, comme les pavillons de Salomon. » (Cantique 5:2)
 
@@ -717,7 +717,7 @@ Dans l’ancienne alliance qui est l’ombre des choses à venir, nous constaton
 
 Ceci est un type du plan de Dieu pour les nations réparties aux quatre coins de la terre. Le tabernacle dans le désert, obéissait aussi à ces mêmes dispositions prophétiques. **La porte d’entrée était placée du côté Est**, le **lieu très saint était placé du côté Ouest**, **la table des pains de proposition était placée du côté Nord**, et que **le chandelier d’or orienté vers le Sud**.
 
-### Côté est
+**Côté Est**
 
 Le sacrificateur entrait du côté Est pour offrir le sacrifice sur l’autel d’airain. Par la suite, il faisait ses ablutions avec l’eau qui se trouvait dans la cuve d’airain, et changeait de vêtements avant d’entrer dans le lieu saint.
 
@@ -729,7 +729,7 @@ Tout le rituel que faisait le souverain sacrificateur fut accompli par Jésus-Ch
 
 La diffusion de l’Évangile commença à l’Est avec les apôtres après le sacrifice du salut accordé par Jésus-Christ. Tous les apôtres étaient Juifs y compris Paul, le premier Messager du premier l’âge de l’Église. Ils évangélisèrent l’Asie (Est) et une partie de l’Europe.
 
-### Côté nord
+**Côté Nord**
 
 Il y avait les pains de proposition comme type de la Parole. C’était au nombre de douze. Comme le tabernacle est un type de l’Église, **c’est donc le Nord qui reçoit la Parole après l’Est**. Après les apôtres, Paul et Irénée qui furent tous de l’Est, nous constatons que les Messagers des âges de l’Église qui ont suivi étaient du Nord. Il s’agit de :
 
@@ -740,13 +740,13 @@ Il y avait les pains de proposition comme type de la Parole. C’était au nombr
 
 Le Nord qui est l’Europe était plus de 1700 ans au cœur de l’histoire de l’Église. Pendant cette période, il y a eu beaucoup de réveils qui se sont produits là-bas.
 
-### Côté ouest
+**Côté Ouest**
 
 Le lieu très saint se trouvait du côté Ouest de la tente d’assignation. **C’est là que se trouvait l’Arche de l’Alliance**, et dans laquelle étaient gardées les tables de la loi et la manne, **ce qui est un type de la Parole qui constitue les mystères cachés**. Avant et devant le lieu très saint, se trouvait un autre autel en or qui est **l’autel des parfums**, **symbole d’une vie pure, consacrée, identique à la vie de Jésus**. **C’est à l’Ouest, en effet, qu’on retrouvera cette même vie, cette même gloire de la Divinité et tout le rayonnement de la Puissance de Dieu que nous avons vus à l’Est, au travers de notre Seigneur Jésus-Christ**, **mais aussi le même Ministère du fils de l’homme au travers du Ministère de frère Branham (Amérique) à l’Ouest de la terre révélant les mystères**.
 
-### Côté sud
+**Côté Sud**
 
-### Composition externe
+**Composition externe**
 
 Le sud était composé de :
 
@@ -760,7 +760,7 @@ Le sud était composé de :
 
 Mais l’histoire et le cours des évènements montrent que, comme Ruben, l’Afrique a perdu sa position privilégiée, au profit d’autres continents. Et à l’intérieur de la tente, le chandelier qui éclairait le lieu saint se trouvait au Sud. **Pour montrer que le sud va apporter la lumière au monde lorsqu’il fera nuit**.
 
-### Le voyage de l’Évangile
+**Le voyage de l’Évangile**
 
 Le voyage de l’Évangile a toujours été comparé au parcours du Soleil et de la civilisation. Le frère Branham dit : « **Les gens de l’est ont reçu le Saint-Esprit en premier. Et la civilisation voyage toujours avec le soleil, et c’est ainsi que l’Évangile a voyagé avec le soleil. Mais mon opinion est que la civilisation vient par l’Évangile**. Vous pouvez prendre n’importe quel pays qui ne respecte pas Dieu, le… Oh, la la, il n’y a plus pour lui de civilisation. Ainsi donc, la civilisation… **Le Christianisme constitue les racines de la civilisation**. Et c’est une remarque que fit Monsieur Nixon un matin, au petit déjeuner auquel nous avons participé, là-bas à Washington, D.C. pour les Hommes d’Affaires Chrétiens. » (Le Souper de Noces 06. 10. 56)
 
@@ -788,11 +788,11 @@ Même le frère Branham quelques mois avant sa mort, sentait que le Message qui 
 
 « … J’ai dit : “**Le Saint-Esprit essaie, depuis ces quelques dernières années, de me ramener en Afrique**. Il veut utiliser mon ministère là où 30 000 ont accepté Christ en une seule après-midi.” » (Drôle d’Oiseau – 14. 06. 64.). Ce soupir de frère Branham était prophétique. Nous citerons quelques visions de frère Branham pour soutenir cela :
 
-### Vision de l’aigle allemand
+**Vision de l’Aigle Allemand**
 
 > Je me suis soudain trouvé transporté dans cette pyramide des cinq anges. Je me suis dit qu’ils étaient cinq, le nombre de la grâce, alors que l’ange de la mort est seul. Et j’ai crié : « Jésus ! Que veux-tu que je fasse ? » Et tout s’est terminé. Hier je suis resté chez moi, hors de moi-même, encore étourdi de la gloire de Dieu, et me demandant ce que cela signifiait. Il est impossible de décrire aux mortels ce qu’est cette gloire de Dieu. Ce n’est pas agréable, mais troublant. On voudrait se réjouir, mais c’est au-delà de la peur. C’est un saint respect. Tout mon corps était endolori. Cela s’est estompé peu à peu et j’ai demandé : « **Mon Dieu, fais-moi comprendre** ». **L’impression la plus proche de cela, je l’avais eue à Zurich, Suisse, quand Dieu m’avait fait voir un aigle allemand surveillant un cavalier anglais traversant l’Afrique, et il avait dit : “Tous ont péché et sont privés de la gloire de Dieu**”. (Opprobre à cause de sa parole, 23 Décembre 1962)
 
-### La colonne de feu sur l’Afrique
+**La colonne de feu sur l’Afrique**
 
 Le frère Branham en parlant de la colonne de feu dit : « Remarquez que l’Esprit de Dieu qui était au-dessus de l’apparence de ces quatre êtres avait **la couleur de l’ambre**. **Or, l’ambre a une couleur jaune verdâtre**. Il Se révéla à Ézéchiel au milieu d’une vision. **Cette Lumière qu’Ézéchiel vit venir au-dessus des quatre êtres vivants était jaune-verdâtre**. Quand Il vint vers Jean, IL apparut dans la couleur émeraude, qui est d’un vert chaud ; **IL vient à Jean dans une couleur vert jaunâtre. Il vient à nous dans la couleur vert jaunâtre**. Il est la Lumière ! Marchez dans la Lumière. Il est la Lumière. » (§153 Révélation, Chapitre Quatre – 2è partie – Les 24 Anciens)
 
@@ -800,7 +800,7 @@ Et c’est cette lumière que le frère Branham vit sur l’Afrique : « …Et
 
 « Ce monde est affamé, mes **amis. Donnez-leur l’Évangile dans sa véracité, dans sa puissance. Une Lumière verte, pour éclairer l’Afrique**. » Une Seule Vraie Église – 27. 07. 51. **La lumière verte dont parle le frère Branham dans cette citation est la colonne de feu**, **Ézéchiel et Jean ont vu la même colonne de feu dans l’aspect dont le frère Branham l’avait vu briller sur l’Afrique** : « Et je regardais, et voici, un tourbillon venait du Nord, un grand nuage, et un feu s’entortillant, et il y avait une splendeur tout autour, et de son milieu, **comme la couleur d’ambre**, sortant du milieu du feu. » (Ez 1 :4)
 
-### La dynamo qui tourne
+**La dynamo qui tourne**
 
 La dynamo est un appareil qui produit de l’énergie et frère Branham nous parle d’une de ses visions où il a vu une dynamo en Afrique.
 
@@ -808,7 +808,7 @@ La dynamo est un appareil qui produit de l’énergie et frère Branham nous par
 
 Et cette vision de frère Branham est en accord avec cette écriture : « Des grands viennent de l’Égypte ; **L’Éthiopie accourt, les mains tendues vers Dieu**. » (Ps 68:31) Dans cette vision, la dynamo typifie la puissance du Saint-Esprit. C’est cette puissance qui conduira à ce que par l’Afrique le réveil puisse atteindre toute la terre. C’est à ce moment que commencera la grande parade de l’Épouse dont a parlé le frère Branham. Et il pouvait s’exprimer aux Américains en ce terme : « N’est-ce pas quelque chose ça ? **L’Afrique doit nous envoyer des missionnaires ici en Amérique**. C’est ici le lieu où l’on en a besoin, ici même, car c’est pire ici qu’il n’en est là-bas. » (La Révélation de Jésus-Christ – Apocalypse Chapitre Quatre - 1è partie)
 
-## Conclusion
+**Conclusion**
 
 Nous voici à la fin de notre étude sur la part réservée au huitième. Ma prière est que le Seigneur nous vienne en aide pour que nous soyons trouvés pleinement dans Sa volonté révélée pour notre temps. Du temps de notre Seigneur Jésus-Christ, plusieurs n’avaient pas cru en Lui. Il avait été traité de Belzébul, ce qui veut dire « **L’idole de l’ordure** », « **seigneur des mouches** » (Matth 10:25) Les Juifs, par dérision, avaient donné ce nom à Satan appelé aussi « prince des démons ». **Souvent ceux qui viennent de la part Dieu sont traités de la même manière, c’est une des caractéristiques des envoyés de Dieu**. Branham en son temps fut accusé d’exercer le discernement des esprits par télépathie.
 

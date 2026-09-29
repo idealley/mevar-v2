@@ -65,13 +65,13 @@ WILLIAM MARRION BRANHAM
 
 ---
 
-## Sixième sceau
+SIXIÈME SCEAU
 
-## Révélation des sept sceaux / le sixième sceau
+RÉVÉLATION DES SEPT SCEAUX / LE SIXIÈME SCEAU
 
 ---
 
-## Le sixième sceau
+LE SIXIÈME SCEAU
 
 23 mars 1963, soir
 Branham Tabernacle

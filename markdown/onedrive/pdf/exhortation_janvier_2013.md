@@ -132,7 +132,7 @@ Mes frères, nous devons comprendre qu’il y a une catégorie de personnes qui 
 
 La Mission s’effectue avec la puissance de Dieu pour guérir les malades, pour chasser les démons et pour purifier les lépreux. Les malades ici ne sont pas seulement charnels, mais aussi spirituels. Nous devons libérer les hommes et les femmes qui croupissent sous le poids de la servitude des démons et du péché. C’est pourquoi aspirons au Ministère de Jésus-Christ. Aspirons à une vraie vie de disciple en Christ.
 
-## La nouvelle sacrificature
+LA NOUVELLE SACRIFICATURE
 
 > **Il me fit voir Josué, le souverain sacrificateur, debout devant l’ange de l’Éternel, et Satan qui se tenait à sa droite pour l’accuser**. **2** L’Éternel dit à Satan : Que l’Éternel te réprime, Satan ! Que l’Éternel te réprime, lui qui a choisi Jérusalem ! N’est-ce pas là un tison arraché du feu ? **3 Or Josué était couvert de vêtements sales, et il se tenait debout devant l’ange**. **4** L’ange, prenant la parole, dit à ceux qui étaient devant lui : **Ôtez-lui les vêtements sales ! Puis il dit à Josué : Vois, je t’enlève ton iniquité, et je te revêts d’habits de fête**. **5** Je dis : Qu’on mette sur sa tête un turban pur ! Et ils mirent un turban pur sur sa tête, et ils lui mirent des vêtements. L’ange de l’Éternel était là.
 >

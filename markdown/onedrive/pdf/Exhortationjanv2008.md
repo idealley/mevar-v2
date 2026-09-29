@@ -63,9 +63,9 @@ bible_refs:
   - "2 Rois 13:14-19"
   - "Job 22:28"
   - "Jacques 1:5-8"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
-## Victoire ! Victoire ! Victoire !
+**VICTOIRE ! VICTOIRE ! VICTOIRE** !
 
 Je vous salue tous mes bien-aimés frères et sœurs en Christ notre Seigneur et Sauveur par cette adresse de David à Goliath alors qu’ils allaient s’affronter sur le champ de bataille :
 
@@ -76,7 +76,7 @@ Mes bien-aimés, nous sommes reconnaissants au Seigneur notre Dieu qui nous acco
 - Préparation dans la sanctification
 - Engagement du combat spirituel
 
-## Préparation dans la sanctification
+**Préparation dans la sanctification**
 
 L’année qui vient de s’écouler pour nous avait commencé avec la première **Convention de février 2007**. C’est au cours de cette rencontre qui a regroupé plusieurs délégations venues de la sous-région qu’a eu lieu la première grande effusion de l’Esprit sur le mouvement du réveil. Nous étions rassemblés dans les pleurs et les larmes sur nos péchés et le texte d’Ésaïe 1 :18 était notre appui : « **Venez et plaidons** ! dit l’Éternel. **Si vos péchés sont comme le cramoisi, ils deviendront blancs comme la neige** ; S’ils sont rouges comme la pourpre, ils deviendront comme la laine. » Après cette Convention, l’Esprit de Dieu nous a davantage conduits **dans la recherche de la sanctification** et dans la chaîne de prière, nous avons eu des moments de jeûne et de prière reliés à cela. Souvenez-vous que nous avons prié pour que le Seigneur nous dépouille des impuretés et des souillures de l’âme. Nous avons prié longtemps sur ces sujets. Nous avons mené **un combat particulier contre les péchés du sexe dans les jeûnes et les prières**.
 
@@ -97,7 +97,7 @@ Lorsque nous sommes revenus de la Convention de Gagnoa, nous avons fait un progr
 - Prions et demandons à Dieu de soigner notre habillement afin que nous ne soyons pas objet de convoitise – que non plus les esprits de débauche ne s’attachent à nous – par notre habillement – par notre parfum (Que Dieu nous inspire dans les parfums, pour ceux qui en mettent.) parce qu’il existe des parfums qui incitent à la débauche.
 - Prions pour les frères et sœurs et aussi pour les serviteurs de Dieu qui sont liés dans les péchés du sexe et qui ont abandonné la foi **à cause d’une femme ou à cause d’un homme – que Dieu les ramène dans la repentance**.
 
-### Pour les foyers
+**Pour les foyers**
 
 - Prions et demandons à Dieu de libérer les foyers de l’influence de l’esprit de Sodome et Gomorrhe.
 - Prions et demandons à Dieu d’inspirer les couples dans les rapports intimes, pour éviter les habitudes de Sodome et Gomorrhe. La pornographie ne vient pas de Dieu, mais de Satan.
@@ -105,14 +105,14 @@ Lorsque nous sommes revenus de la Convention de Gagnoa, nous avons fait un progr
 - Prions et demandons à Dieu de purifier **nos maisons et nos couches des esprits de Sodome et Gomorrhe, notamment les maris de nuit, les femmes de nuit ; ce sont des démons qui souillent le corps, l’esprit et l’âme**. Que tous les frères et sœurs influencés par ces esprits fassent des efforts pour s’en défaire, car la délivrance dans ce domaine est possible.
 - Prions pour nos enfants afin que le Seigneur les délivre de l’influence des esprits de Sodome et Gomorrhe. Que le Seigneur les garde chastes, avec des pensées pures.
 
-### Pour les assemblées
+**Pour les Assemblées**
 
 - Prions et demandons à Dieu de délivrer nos assemblées de l’esprit de Sodome et Gomorrhe – qu’Il donne de la force et de la vigueur aux frères et sœurs pour combattre ces démons dans les jeûnes et les prières.
 - Prions et demandons à Dieu de chasser de nos assemblées, les méchants, les chiens, les impudiques et les adultères qui refusent de se repentir de leurs mauvaises œuvres. Il a dit « **Dehors les chiens** »
 
 Mes bien-aimés, c’est avec ces sujets de prière que le Seigneur nous a apprêtés dans la sanctification à entrer dans la deuxième étape de l’œuvre au cours de cette année. N’oubliez pas que nous avons prié aussi pour notre bien-aimé frère Frank et les pasteurs de l’Europe et que malgré cela ils sont restés dans l’incompréhension au sujet de ce que Dieu est en train de faire.
 
-## Engagement du combat spirituel
+**Engagement du combat spirituel**
 
 Après notre programme spécial de prière contre les péchés du sexe en août, nous sommes entrés dans un environnement de combat spirituel. **Nous avons été prévenus que l’heure était arrivée d’engager les hostilités contre le royaume de Babylone dans nos différents pays**. C’est ce que nous avons fait dans le mois de septembre 2007. Nous sommes entrés dans le combat spirituel **en attaquant les positions de Babylone dans nos différents pays**. C’est là que les sujets de prières dans la chaîne de prière ont connu un changement. Depuis le mois de septembre 2007, le mouvement de Réveil dans le lequel nous sommes engagés a pris une autre allure. Le combat contre les puissances des ténèbres est devenu une réalité vivante et puissante au point que certaines assemblées ont même été physiquement visitées par des démons. Comme la Bible l’avait aussi annoncé, nous avons même vu **des signes dans le ciel en relation avec le combat spirituel, notamment en Côte d’Ivoire, au Bénin et dernièrement en RDC** :
 
@@ -124,7 +124,7 @@ Dans Apocalypse 12, le combat engagé entre la femme – l’Église et le drago
 
 Mes bien-aimés, les signes dans le ciel dans notre génération ont commencé avec le frère Branham. Sept anges l’avaient visité et en partant avaient formé un grand signe dans le ciel **qui avait fait apparaître le visage de notre Seigneur Jésus-Christ**. N’était-ce pas là le signe du Fils de l’homme, puisque nous sommes dans Ses jours ? (Luc 17 : 26-37) En ce qui nous concerne, ce sont des armées célestes que nous avons vues dans le ciel, notamment dans le soleil et la révélation des armées des cieux dans des signes au ciel est la preuve manifeste que l’Armée de l’Église-Épouse sur la terre est en train de se former pour le combat contre Babylone. C’est ainsi que nous sommes entrés dans le combat contre Babylone. Je voudrais vous rappeler les sujets sur lesquels nous avons prié :
 
-### Prières en faveur de l’œuvre du réveil
+**Prières en faveur de l’œuvre du réveil**
 
 1. Prions et demandons à Dieu de propager l’œuvre du réveil dans notre localité et dans notre pays – que toutes les oppositions religieuses et démoniaques à l’Évangile soient brisées par la Puissance du Saint-Esprit.
 2. Que le Seigneur ébranle toutes les tours de Babel érigées dans notre localité et dans notre pays – les autels des faux dieux de Babylone. (Citez les faux dieux que vous connaissez dans votre localité ou dans le pays)
@@ -134,7 +134,7 @@ Mes bien-aimés, les signes dans le ciel dans notre génération ont commencé a
 6. Que le Seigneur élève des prédicateurs de réveil pour la Moisson dans la Puissance du Saint-Esprit.
 7. Que le Seigneur affermisse toutes les assemblées qui sont engagées dans l’œuvre du réveil – qu’Il étende la chaîne de prière à d’autres chrétiens et à d’autres églises.
 
-### Vie de débauche et œuvre mystique
+**Vie de débauche et œuvre mystique**
 
 1. Nous prions et nous demandons à Dieu de dévoiler la vie de débauche dans les églises. Jésus a dit qu’il n’y a rien de caché qui ne soit découvert. Que toutes les œuvres cachées des faux serviteurs de Dieu soient dévoilées.
 2. Que toutes les œuvres mystiques et sorcières pratiquées par les agents du diable dans les églises soient dévoilées – que toutes puissances autres que la Puissance de Dieu qui se manifestent dans les églises soient dévoilées.
@@ -154,11 +154,11 @@ Cette prophétie n’a fait que dire la vérité, parce qu’en Côte d’Ivoire
 
 **Quant au Bénin, c’est le siège mondial du Vaudou – c’est là l’une des sources importantes des œuvres mystiques mondiales**. Et un grand combat spirituel a lieu actuellement au Bénin contre les œuvres du vaudou. Quand ces deux pays tomberont totalement aux mains de l’Armée céleste au plan spirituel, l’œuvre du réveil connaîtra une ascension fulgurante en Afrique et c’est vers cette victoire que nous nous avançons avec plein de confiance et de détermination.
 
-## Dernière visite
+**Dernière visite**
 
 Mes bien-aimés, vous vous souvenez que dans la prophétie du Congo, Satan avait dit à ses complices qu’il allait lui-même descendre dans certains pays avant la fin de l’année. Nous avons effectivement reçu la visite de Satan. On nous a annoncé la visite à Abidjan d’un grand magicien français dont je voudrais taire le nom. Par l’Esprit, nous avons compris qu’il s’agissait de l’adversaire. Nous avons opposé une vive résistance à ses œuvres mystiques sur tout le territoire national. Nous n’avons pas été les seuls à lui résister. D’autres chrétiens dans le pays ont fait des annonces sur une radio chrétienne pour appeler à la prière contre ses œuvres. Je vous assure mes bien-aimés que les deux premiers spectacles prévus par cet homme ont échoué – ils n’ont pas eu lieu. Les journaux du pays n’ont même pas fait cas des activités de ce grand magicien mondialement connu. Sa présence en Côte d’Ivoire est passée inaperçue pourtant sa venue a été très bien médiatisée. Nous avons achevé l’année avec ce dernier assaut de l’ennemi. Quand on regarde en arrière, on peut se rendre compte que l’année 2007 a été très riche en événements spirituels. Dieu nous a visités et nous a conduits à l’avancement dans la Foi et dans Son œuvre.
 
-## Engagement total
+**Engagement total**
 
 « **Toi à qui une grâce a été faite** »
 
@@ -180,7 +180,7 @@ Ces hommes ont saisi la Grâce de Dieu en leur temps et se sont consacrés à l�
 
 Nous nous battons parce que nous nous sentons citoyens du ciel et participants de l’enlèvement et du règne de Christ. Nous nous battons parce que nous sommes des hommes de Christ – des vaillants héros de Christ. C’est notre raison d’être dans cette génération – c’est notre raison d’être à cette heure de la nuit. Nous nous battons parce que nous voulons que notre Roi vienne régner dans Son Royaume que nous sommes – qu’Il vienne établir Son règne millénaire qui n’est plus loin et que les prophéties ont annoncé depuis des millénaires. Que la gloire soit à Lui Seul d’Éternité en Éternité ! Amen !
 
-## Gloire et délivrance en 2008
+**Gloire et délivrance en 2008**
 
 Mes chers amis, j’ai prié le Seigneur pour qu’Il nous donne les perspectives pour l’année 2008, comme Il l’a fait en début d’année 2007. En réponse, j’ai reçu le texte de 2 Rois 13 que je vous adresse.
 
@@ -194,7 +194,7 @@ Mes bien-aimés, c’est le même Message. **Une Grâce particulière a été fa
 
 Deux mil huit (2008) sera pour les téméraires comme David, une année de gloire et de pleine délivrance. Le Seigneur Dieu visitera puissamment Son peuple. **Le baptême de Feu aura lieu dans l’Église et ce sera l’étonnement et la gloire pour nous tous. Mes bien-aimés, comprenez que notre Père n’a pas oublié votre travail – Non ! Il n’a pas oublié vos moments de prière et de jeûne, mais Il nous éprouve pour nous épurer, parce que nous devrons servir à la manifestation de Sa gloire** !
 
-## Année d’évangélisation et de conquête
+**Année d’Évangélisation et de conquête**
 
 Mes chers compagnons de combat, armez-vous dans le combat et prêchez le Message du réveil, car 2008 sera pour nous une année de conquête dans la prédication. Si nous avons conquis nos pays par la prière, nous devrons les conquérir par la suite dans la prédication de la Parole. **Ceux qui se meurent dans la religion doivent entendre l’appel à sortir qui retentit encore dans le monde**. Priez pour ces choses dans vos moments d’intercession.
 

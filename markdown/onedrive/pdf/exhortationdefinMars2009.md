@@ -29,7 +29,7 @@ bible_refs:
   - "1 Corinthiens 9:26-27"
   - "Romains 8:13"
   - "2 Corinthiens 11"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes chers frères et sœurs, je voudrais vous saluer par cette déclaration de l’apôtre Paul tirée du livre des Corinthiens :
 

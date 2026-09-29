@@ -45,9 +45,9 @@ bible_refs:
   - "Ésaïe 43:26"
   - "Psaumes 111:10"
   - "Proverbes 8:13"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
-## Exhortation fin février
+**Exhortation fin février**
 
 **VENEZ ET PLAIDONS** !
 
@@ -79,7 +79,7 @@ Que chacun parle au Seigneur pour se justifier. Que chacun entre en communion av
 
 **Fr M’BRA Parfait**
 
-## Témoignage de frère Martin Sende
+**TÉMOIGNAGE DE FRÈRE MARTIN SENDE**
 
 Je suis le frère Martin SENDE du Congo Brazzaville, dans la ville de Pointe-Noire. Le témoignage que je voudrais rendre concerne une vision que le Seigneur m’a donnée durant les trois jours de jeûne proclamés dans la chaîne de prière dans le mois de décembre 2006.
 
@@ -109,7 +109,7 @@ L’ange dit : « **Si tu n’as pas le sang de Jésus-Christ, tu ne peux ê
 
 Celui qui craint Dieu a de la haine pour le péché et vit dans la sagesse. Mais l’état d’abomination dans lequel se trouve l’Église montre bien que la crainte de Dieu a quitté les cœurs. Le Message du temps de la fin est dans la déchéance spirituelle. C’est pourquoi nous avons besoin de prière. Nous devrons nous battre comme l’a dit l’ange pour faire partie de ce petit nombre qui ira au premier tour dans l’enlèvement. C’est la raison de l’existence de la chaîne de prière. Le temps est venu pour chacun de mener à son propre niveau, la guerre de libération pour se défaire définitivement du péché et du monde. Chacun doit couper ce fil qui le relie à un péché non confessé. En cela nous avons besoin du secours du Seigneur pour nous aider. Que Sa grâce et Sa paix soient avec vous tous !
 
-## Sujet de prière
+**Sujet de prière**
 
 **1. Prions et demandons à Dieu de mettre Sa crainte dans nos cœurs** – **la crainte de Son nom et de Sa Parole**.
 

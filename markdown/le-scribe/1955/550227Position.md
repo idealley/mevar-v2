@@ -58,7 +58,7 @@ original: "branham/1955/55-0227A"
 
 **POSITION D’UN CROYANT EN CHRIST**
 
-## Position of a believer in Christ
+**POSITION OF A BELIEVER IN CHRIST**
 
 *27 février 1955, dimanche après-midi, Phoenix (Arizona)*
 

@@ -81,13 +81,13 @@ bible_refs:
   - "Luc 3:16"
   - "Luc 12:49-53"
 published_with: "onedrive/pdf/exhofinoct2010-les-deux-vins"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, c’est votre frère M’BRA Parfait qui vous salue dans le nom précieux de notre Seigneur Jésus-Christ. Que Sa grâce et Sa paix soient avec vous tous. Je voudrais vous exhorter avec cette Parole de Deutéronome chapitre 6 ; là où le Seigneur s’est adressé à Son Peuple pour lui demander de ne pas l’oublier, après son entrée dans la terre promise :
 
 > **Tu craindras l’Éternel, ton Dieu, tu le serviras, et tu jureras par son nom**. **Vous n’irez point après d’autres dieux, d’entre les dieux des peuples qui sont autour de vous ; car l’Éternel, ton Dieu, est un Dieu jaloux au milieu de toi**. La colère de l’Éternel, ton Dieu, s’enflammerait contre toi, et il t’exterminerait de dessus la terre. Vous ne tenterez point l’Éternel, votre Dieu, comme vous l’avez tenté à Massa. Mais vous observerez les commandements de l’Éternel, votre Dieu, ses ordonnances et ses lois qu’il vous a prescrites. **Tu feras ce qui est droit et ce qui est bien aux yeux de l’Éternel, afin que tu sois heureux**, et que tu entres en possession du bon pays que l’Éternel a juré à tes pères de te donner, après qu’il aura chassé tous tes ennemis devant toi, comme l’Éternel l’a dit. (Deutéronome 6 :13-19)
 
-## La crainte et le jugement
+**LA CRAINTE ET LE JUGEMENT**
 
 Le Seigneur a demandé aux enfants d’Israël de Le craindre et de Le servir Lui Seul ; ils ne devraient pas aller après d’autres dieux, mais demeurer avec le Seigneur qui les a fait sortir du pays d’Égypte et marcher selon Ses prescriptions et Ses lois. Aujourd’hui, cette même Parole nous est aussi adressée dans la foi chrétienne. Si nous avons été régénérés par la Parole de Dieu dans notre cœur et que nous sommes réellement nés de nouveau, l’Écriture dit que nous sommes devenus une nouvelle création en Jésus-Christ. Alors notre ancienne vie est passée. La version Darby de la Bible l’exprime clairement :
 
@@ -183,7 +183,7 @@ Le but de l’esprit d’Élie est de ramener nos cœurs au Seigneur Jésus ; p
 
 Mes chers amis, ne nous trompons pas d’objectifs, car l’objectif n’est pas de rester accroché à un serviteur de Dieu ou à un Message, mais il faut entrer pleinement dans la présence de Dieu. **Simon le magicien n’avait pas un cœur droit devant Dieu**, **c’est pourquoi les apôtres lui ont dit qu’il n’avait pas de part dans cette œuvre**. Il ne pouvait pas recevoir le Saint-Esprit. Pour nous, si nos cœurs ne sont droits devant Dieu, nous n’aurons pas part à cette œuvre de restauration complète de l’esprit d’Élie. Nous ne verrons pas ce travail glorieux que Dieu est en train d’accomplir dans les cœurs maintenant. Regardez ! Au temps d’Élie, Dieu avait une réserve de sept mille hommes qui n’avaient pas fléchi le genou devant Baal. (1 rois 19 :18). **Car l’amour de l’Éternel était encore dans leur cœur. C’est pareil encore aujourd’hui. Il existe une race de croyants qui ne fléchira pas le genou devant l’esprit religieux babylonien qui vit en ce moment dans le monde de la chrétienté**. Au temps marqué, cette réserve d’élus de Dieu sera révélée. **Marchons dans la droiture de notre cœur, avec une pleine assurance dans le Seigneur Jésus-Christ – c’est Lui qui nous a appelés ; ce n’est pas un homme**.
 
-## Mise au point
+**MISE AU POINT**
 
 Aujourd’hui, beaucoup n’ont pas le cœur droit parce qu’ils entretiennent des mobiles impurs dans la foi et dans l’œuvre de Dieu. Nous devons comprendre que l’œuvre est pour le Seigneur et non pour un homme. Le champ dans lequel nous sommes est le champ de Dieu et non celui d’un homme. Si nous travaillons bien, nous serons récompensés, mais si nous travaillons pour des motifs impurs, Dieu nous châtiera. Simon cherchait la puissance pour dominer ses frères. Il voulait continuer d’étonner les gens par une nouvelle puissance. Celui-là n’avait pas su combien de fois les Pierre et les Jean avaient peiné pour être à ce niveau. Ce fut au moins trois ans de durs labeurs avec le Maître. Lui, il venait à peine d’arriver et il voulait la Puissance de Dieu pour opérer des miracles.
 
@@ -241,7 +241,7 @@ Regardez dans Luc 17. Vous connaissez l’histoire des dix lépreux. Après avoi
 
 Ce Samaritain n’avait pas seulement été purifié sur sa peau, mais aussi dans son cœur. C’est pourquoi il est revenu sur ses pas pour rendre gloire à Dieu. Pour lui, le miracle n’a pas seulement eu lieu sur sa peau, mais dans son cœur. **La confirmation d’un Ministère authentique se trouve dans la vie de ceux qui écoutent ce Ministère**. Vous êtes à l’image du Ministère avec lequel vous marchez, si du moins vous pratiquez la Parole qui vous est donnée par ce Ministère. **Il y en a qui feront des miracles, mais ils n’entreront pas. Et il y en a aussi qui bénéficieront des miracles, comme les aveugles qui ont vu, les sourds qui ont entendu, les paralytiques qui ont marché et les lépreux qui ont été purifiés, mais ils n’entreront pas**, parce que ces miracles ne sont pas entrés dans leur cœur.
 
-## Le témoignage final
+**LE TÉMOIGNAGE FINAL**
 
 Mes chers amis, comprenons que nous sommes dans un réveil en ce moment ; le réveil de la préparation ; alors préparons-nous. **Si vous n’avez pas la révélation de la préparation, priez Dieu afin qu’Il vous révèle comment vous préparer**. Nous arriverons au réveil du témoignage selon Matthieu 24 :14.
 

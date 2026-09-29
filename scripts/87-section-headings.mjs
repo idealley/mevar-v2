@@ -30,15 +30,40 @@ const root = path.resolve(import.meta.dirname, "..");
 const MODEL = "gpt-6-sol";
 const DECISIONS = path.join(root, "manifests/section-headings.json");
 
-const plain = (t) => t.replace(/[*_]/g, "").trim();
-const letters = (t) => plain(t.replace(/^#+\s*/, "")).normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae").match(/\p{L}+|\p{N}+/gu) ?? [];
-// (a number glued to letters is its own word, as 86 reads it: « mars1964 »)
+const plain = (t) => t.replace(/^#+\s*/, "").replace(/[*_]/g, "").trim();
+const key = (c) => c.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
+const letters = (t) => key(plain(t)).replace(/œ/g, "oe").replace(/æ/g, "ae").match(/\p{L}+|\p{N}+/gu) ?? [];
 const sameWords = (a, b) => letters(a).join(" ") === letters(b).join(" ");
+const alnum = (c) => /[\p{L}\p{N}]/u.test(c);
+
+/**
+ * The heading, rebuilt on the line's own characters: its punctuation, spaces
+ * and references as the line has them (« 2 Pierre 2:5 », « JUSTE? »), and
+ * the model's letters, which may differ only in case and accents (and « œ »
+ * for « OE »). Null when they do not align: the model changed a word.
+ */
+function headingOf(line, proposed) {
+  const level = proposed.match(/^(#{2,3}) /)?.[1];
+  const from = [...plain(line)];
+  const to = [...plain(proposed ?? "")].filter(alnum);
+  if (!level) return null;
+  let out = "";
+  let j = 0;
+  for (let i = 0; i < from.length; i++) {
+    if (!alnum(from[i])) { out += from[i]; continue; }
+    const t = to[j++];
+    if (t === undefined) return null;
+    if (/[œæ]/i.test(t) && key(from[i] + (from[i + 1] ?? "")) === key(t).replace("œ", "oe").replace("æ", "ae")) { out += t; i++; continue; }
+    if (key(from[i]) !== key(t)) return null;
+    out += t;
+  }
+  return j === to.length ? `${level} ${out}` : null;
+}
 
 /** The candidate lines of a body: paragraphs of one line that may be a section title. */
-export function candidates(body, title, capsOnly) {
+function candidates(body, title, subtitle, capsOnly) {
   return body.split(/\n{2,}/).map((p) => p.trim()).filter((p) => {
-    if (!p || p.includes("\n") || /^(#|>|- |\d+\.\s)/.test(p) || sameWords(p, title)) return false;
+    if (!p || p.includes("\n") || /^(#|>|- |\d+\.\s)/.test(p) || sameWords(p, title) || sameWords(p, subtitle)) return false;
     const text = plain(p);
     const ls = [...text].filter((c) => /\p{L}/u.test(c));
     const n = letters(p).length;
@@ -57,7 +82,7 @@ export function applyHeadings(body, decisions = []) {
   const paras = body.split(/(\n{2,})/);
   for (const { line, heading } of decisions) {
     if (!heading) continue;
-    if (!/^#{2,3} \S/.test(heading) || !sameWords(line, heading)) {
+    if (headingOf(line, heading) !== heading) {
       refused.push(`the heading « ${heading} » is not the line « ${line} »`);
       continue;
     }
@@ -100,14 +125,15 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const all = fs.existsSync(DECISIONS) ? JSON.parse(fs.readFileSync(DECISIONS, "utf8")) : {};
   const fm = (text) => text.startsWith("---\n") ? text.slice(4, text.indexOf("\n---\n", 4)) : "";
   const bodyOf = (text) => text.startsWith("---\n") ? text.slice(text.indexOf("\n---\n", 4) + 5) : text;
-  const titleOf = (f) => JSON.parse(f.match(/^title: (.*)$/m)?.[1] ?? '""');
+  const fieldOf = (f, k) => JSON.parse(f.match(new RegExp(`^${k}: (.*)$`, "m"))?.[1] ?? '""');
 
-  // [markdown path, body, title, write?, capsOnly?]
+  // [markdown path, body, title, subtitle, write?, capsOnly?]
   const works = [];
   if (batchId) {
     for (const md of JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-batches.json"), "utf8"))[batchId]) {
       const pass = JSON.parse(fs.readFileSync(path.join(root, ".pass-cache", md.slice("markdown/".length).replace(/\.md$/, ".json")), "utf8"));
-      works.push([md, pass.body, pass.title, false, false]);
+      const f = fm(fs.readFileSync(path.join(root, md), "utf8"));
+      works.push([md, pass.body, pass.title, fieldOf(f, "subtitle"), false, false]);
     }
   } else {
     for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true }).sort()) {
@@ -119,14 +145,22 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       const goal10 = /^(onedrive|mevar-pdfs)\//.test(rel);
       // goal 10's texts are read once promoted (86 applies their headings)
       if (goal10 && !/^editorial_pass:/m.test(f)) continue;
-      works.push([md, bodyOf(text), titleOf(f), !goal10, rel.startsWith("mevar/")]);
+      works.push([md, bodyOf(text), fieldOf(f, "title"), fieldOf(f, "subtitle"), !goal10, rel.startsWith("mevar/")]);
     }
   }
 
-  const pending = works.map(([md, body, title, , capsOnly]) => {
+  // What is already decided follows the rules: a line that repeats the
+  // title or the subtitle is no heading, and a heading is rebuilt on its line.
+  for (const [md, , title, subtitle] of works)
+    for (const d of all[md] ?? []) {
+      if (sameWords(d.line, title) || sameWords(d.line, subtitle)) d.heading = null;
+      else if (d.heading) d.heading = headingOf(d.line, d.heading) ?? d.heading;
+    }
+
+  const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
     const paras = body.split(/\n{2,}/).map((p) => p.trim());
-    const lines = candidates(body, title, capsOnly).filter((l) => !done.has(l)).map((line) => {
+    const lines = candidates(body, title, subtitle, capsOnly).filter((l) => !done.has(l)).map((line) => {
       const i = paras.indexOf(line);
       return { line, before: (paras[i - 1] ?? "").slice(-160), after: (paras[i + 1] ?? "").slice(0, 160) };
     });
@@ -144,14 +178,15 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   let [tin, tout] = [0, 0];
   for (const [md, lines] of pending) {
     const { decisions, usage } = await decide(lines);
-    all[md] = [...(all[md] ?? []), ...decisions];
+    all[md] = [...(all[md] ?? []), ...decisions.map((d) => ({ ...d, heading: d.heading && (headingOf(d.line, d.heading) ?? d.heading) }))];
     [tin, tout] = [tin + usage.prompt_tokens, tout + usage.completion_tokens];
     fs.writeFileSync(DECISIONS, JSON.stringify(Object.fromEntries(Object.entries(all).sort()), null, 2) + "\n");
   }
 
   let written = 0;
   const refused = [];
-  for (const [md, body, , write] of works) {
+  if (!pending.length) fs.writeFileSync(DECISIONS, JSON.stringify(Object.fromEntries(Object.entries(all).sort()), null, 2) + "\n");
+  for (const [md, body, , , write] of works) {
     if (!write || !all[md]) continue;
     const r = applyHeadings(body, all[md]);
     refused.push(...r.refused.map((x) => `${md}: ${x}`));

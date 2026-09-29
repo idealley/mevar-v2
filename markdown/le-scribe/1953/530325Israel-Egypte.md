@@ -61,9 +61,9 @@ original: "branham/1953/53-0325"
 ---
 *Israël en Egypte* (25 mars 1953, soir)
 
-## Israël et l'Église – 1 : Israël en Égypte
+**ISRAEL ET L'EGLISE – 1 : ISRAEL EN EGYPTE**
 
-## Israel and the Church - part I, Israel in Egypt
+**ISRAEL AND THE CHURCH - PART I, ISRAEL IN EGYPT**
 
 25 mars 1953, mercredi soir, Jeffersonville (Indiana)
 

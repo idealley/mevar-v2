@@ -76,13 +76,13 @@ WILLIAM MARRION BRANHAM
 
 ---
 
-## Troisième sceau
+TROISIÈME SCEAU
 
 RÉVÉLATION DES SEPT SCEAUX / LE TROISIÈME SCEAU
 
 ---
 
-## Le troisième sceau
+LE TROISIÈME SCEAU
 
 20 mars 1963, soir
 Branham Tabernacle

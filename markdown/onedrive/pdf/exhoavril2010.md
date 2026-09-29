@@ -48,7 +48,7 @@ bible_refs:
   - "Apocalypse 18"
   - "Apocalypse 18:5-8"
   - "Jérémie 50:28"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du prophète Jérémie :
 

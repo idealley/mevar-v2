@@ -30,7 +30,7 @@ bible_refs:
   - "1 Corinthiens 13:11"
   - "Galates 4:1-2"
   - "1 Corinthiens 16:13-14"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes chers amis, que la grâce et la Paix de notre Seigneur Jésus-Christ demeurent avec vous tous dans cette nouvelle année. Les vœux spirituels que je formule pour nous tous se trouvent dans ces deux passages bibliques. Et ces deux déclarations proviennent de l’apôtre Paul :
 

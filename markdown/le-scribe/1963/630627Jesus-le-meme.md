@@ -87,7 +87,7 @@ original: "branham/1963/63-0627"
 ---
 *Résumé de!: “Jésus-Christ est le même hier, aujourd’hui et éternellement” (27 Juin 1963, soir)*
 
-## Jésus-Christ est le même hier, aujourd’hui & éternellement
+**JESUS-CHRIST EST LE MEME HIER, AUJOURD’HUI & ETERNELLEMENT**
 
 *27 Juin 1963, jeudi soir, Hot Springs (Arkansas)*
 

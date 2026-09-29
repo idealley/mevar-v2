@@ -161,7 +161,7 @@ Est-ce que Dieu existe réellement ? Si oui, qui est-Il ? Et où est-Il ?
 
 
 
-## Table des matières
+    TABLE DES MATIÈRES
 
 
 Dédicace................................................................................................................................... III
@@ -293,7 +293,7 @@ Le jeune homme et son désespoir
 
         Chapitre 15
 
-## Une demande en mariage muette
+  UNE DEMANDE EN MARIAGE MUETTE
 
         1933
 
@@ -791,7 +791,7 @@ qu’il connaissait.
 
        Chapitre 17
 
-## Un mariage plein d’espoir
+UN MARIAGE PLEIN D’ESPOIR
 
     1934 — 1935
 
@@ -1023,7 +1023,7 @@ Billy et son amie Hope Brumbach avec
 
       Chapitre 18
 
-## L’erreur après Mishawaka
+L’ERREUR APRÈS MISHAWAKA
 
           1936
 
@@ -1527,7 +1527,7 @@ erreur qui allait bientôt avoir des conséquences désastreuses.
 
         Chapitre 19
 
-## Un rideau noir tombe
+        UN RIDEAU NOIR TOMBE
 
         1936
 
@@ -1897,7 +1897,7 @@ jamais. »
 
         Chapitre 20
 
-## La désastreuse inondation
+       LA DÉSASTREUSE INONDATION
 
         1937
 
@@ -2149,7 +2149,7 @@ d’arbre et fit un feu. Puis il s’assit pour attendre… et s’inquiéter.
 
         Chapitre 21
 
-## Hope meurt
+        HOPE MEURT
 
         1937
 
@@ -2871,7 +2871,7 @@ de ne pas t’inquiéter. »
 
         Chapitre 23
 
-## Combattant l’adversité
+        COMBATTANT L’ADVERSITÉ
 
         1937 — 1939
 
@@ -3252,7 +3252,7 @@ destinée.
 
         Chapitre 24
 
-## Des jambes estropiées redressées
+   DES JAMBES ESTROPIÉES REDRESSÉES
 
         1940
 
@@ -3766,7 +3766,7 @@ conserva son sang-froid.
 
         Chapitre 25
 
-## Le miracle de M-i-i-i-lltown
+       LE MIRACLE DE M-I-I-I-LLTOWN
 
         1940
 
@@ -4234,7 +4234,7 @@ rangée arrière, de gauche à droite : Edgar (Doc), frère (27 ans), Billy,
 
         Chapitre 26
 
-## Perdu sur le mont Hurricane
+    PERDU SUR LE MONT HURRICANE
 
         1941
 
@@ -4655,7 +4655,7 @@ que je sais qu’à la fin se trouvent le repos, la chaleur et la sécurité. »
 
         Chapitre 27
 
-## Le taureau meurtrier
+        LE TAUREAU MEURTRIER
 
         1945
 
@@ -5190,7 +5190,7 @@ M. et Mme John Ryan
 
          Chapitre 28
 
-## Un ange apporte une commission
+UN ANGE APPORTE UNE COMMISSION
 
              1946
 
@@ -5741,7 +5741,7 @@ chez lui un homme nouveau.
 
         Chapitre 29
 
-## Le signe dans sa main
+        LE SIGNE DANS SA MAIN
 
         1946
 
@@ -5976,7 +5976,7 @@ qu’on la laisse retourner chez elle.
 
       Chapitre 30
 
-## Des prisonniers libérés
+DES PRISONNIERS LIBÉRÉS
 
 1946
 
@@ -6640,7 +6640,7 @@ Photo aux réunions de Camden montrant
 
         Chapitre 32
 
-## Défiant la folie
+        DÉFIANT LA FOLIE
 
         1946
 
@@ -7564,7 +7564,7 @@ Billy et Meda avec la jeune Rebekah
 
         Chapitre 34
 
-## Le choc du retour
+        LE CHOC DU RETOUR
 
         1946
 
@@ -7842,7 +7842,7 @@ j’ai tellement faim ! »
 
         Chapitre 35
 
-## Refusant un cadeau de 1 500 000 $
+ REFUSANT UN CADEAU DE 1 500 000 $
 
         1947
 
@@ -8232,7 +8232,7 @@ harmonie avec l’Évangile de Jésus-Christ.
 
   Chapitre 36
 
-## Une foi d’Apache
+UNE FOI D’APACHE
 
       1947
 
@@ -8531,7 +8531,7 @@ aurait pu les attraper avec ses mains.
 
         Chapitre 37
 
-## La réprimande de l’ange
+        LA RÉPRIMANDE DE L’ANGE
 
         1947
 
@@ -8740,7 +8740,7 @@ l’ange. Ce matin, pourtant, il n’en était plus aussi sûr.
 
        Chapitre 38
 
-## La « ligne aux miracles »
+LA « LIGNE AUX MIRACLES »
 
            1947
 
@@ -9030,7 +9030,7 @@ l’offrande.
 
         Chapitre 39
 
-## Les Rocheuses du Colorado
+      LES ROCHEUSES DU COLORADO
 
         1947
 
@@ -9244,7 +9244,7 @@ Pourquoi était-il absent ? Y avait-il quelque chose qui clochait ?
 
         Chapitre 40
 
-## Le grand test
+        LE GRAND TEST
 
         1947
 
@@ -9681,7 +9681,7 @@ Phoenix, Arizona, 7 décembre 1947 (édité)
 
         Chapitre 41
 
-## La connexion Bosworth
+        LA CONNEXION BOSWORTH
 
         1948
 
@@ -10226,7 +10226,7 @@ prendrai des forces dans quelque temps. »
 
         Chapitre 42
 
-## Brisé et relevé
+        BRISÉ ET RELEVÉ
 
         1948
 
@@ -10625,7 +10625,7 @@ dans ses bras, disant : « Chérie, Dieu vient de me guérir ! »
 
         Chapitre 43
 
-## Le second signe apparaît
+        LE SECOND SIGNE APPARAÎT
 
         1948
 
@@ -10952,7 +10952,7 @@ attention au premier signe, ils croiront à ce dernier signe. »56
 
       Chapitre 44
 
-## Comprenant son ministère
+COMPRENANT SON MINISTÈRE
 
       1948 — 1949
 
@@ -11535,7 +11535,7 @@ prêché à Minneapolis, Minnesota, le 11 juillet 1950 (édité).
 
       Chapitre 45
 
-## Phénomènes à Fort Wayne
+PHÉNOMÈNES À FORT WAYNE
 
           1949
 
@@ -12170,7 +12170,7 @@ s’accomplir.
 
          Chapitre 46
 
-## L’ange photographié à Houston
+L’ANGE PHOTOGRAPHIÉ À HOUSTON
 
              1950
 
@@ -12750,7 +12750,7 @@ pour que des gens pauvres puissent en avoir une copie. »
 
     Le  29       janvier 1950
 
-## Rapport et opinion
+    RAPPORT ET        OPINION
 
     Re  : Négatif contestable
 
@@ -12764,7 +12764,7 @@ Révérend William Branham par les Studios Douglas,
 au Colisée Sam Houston dans cette ville, lors d’une
 visite du Révérend à la fin janvier 1950.
 
-### Requête
+    REQUÊTE
 
 Le Révérend Gordon Lindsay requit que je fasse un
 examen du négatif mentionné ci-dessus. Il demanda
@@ -12777,7 +12777,7 @@ la tête du Révérend Branham.
 
     L’ange photographié à Houston | 393
 
-### Examen
+    EXAMEN
 
 Un examen et une étude macroscopique et
 microscopique de la surface entière des deux côtés
@@ -12811,7 +12811,7 @@ ait été développé selon un procédé régulier et
 reconnu. Il ne fut rien trouvé dans la comparaison
 des densités qui ne soit en harmonie.
 
-### Opinion
+    OPINION
 
 Basé sur l’examen et l’étude décrits ci-dessus,
 j’émets l’opinion que le négatif soumis pour
@@ -13770,7 +13770,7 @@ prix élevé qui se rattachait à son don et à son appel.
 
         Chapitre 49
 
-## Amis et ennemis
+        AMIS ET ENNEMIS
 
         1950
 
@@ -14221,7 +14221,7 @@ ne veux pas de votre argent, je veux votre confiance. »
 
         Chapitre 50
 
-## Une lavandière retarde son vol
+  UNE LAVANDIÈRE RETARDE SON VOL
 
         1950
 
@@ -14398,7 +14398,7 @@ Saint-Esprit. »
 
          Chapitre 51
 
-## Les visions expliquées
+    LES VISIONS EXPLIQUÉES
 
     1950
 
@@ -15087,7 +15087,7 @@ qui allait secouer la terre.
 
 
 
-## Sources et notes de la fin
+    SOURCES ET NOTES DE LA FIN
 
 
 
@@ -15475,7 +15475,7 @@ W.M. Branham rencontre une femme portant un costume brun et
 une jupe ce qui a signifié un changement dans son ministère.
 Sources : 57-0309E E52 ; 59-0406 E12-E19 ; 63-0714E 23-27
 
-## Au sujet de l’auteur
+        AU SUJET DE L’AUTEUR
 
    Owen Jorgensen est né en 1952 d’un agriculteur danois
 américain de deuxième génération. Owen a grandi dans la ferme
@@ -15508,7 +15508,7 @@ lecteurs reconnaissants, qu’il sait que son temps était bien dispensé.
 
 
 
-## Index
+INDEX
 
 
 

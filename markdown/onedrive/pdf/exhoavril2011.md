@@ -64,7 +64,7 @@ bible_refs:
   - "Luc 2:25-32"
   - "2 Pierre 3:9"
   - "2 Pierre 3:15"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes chers frères et sœurs en Christ, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Psaumes 119 :
 
@@ -94,7 +94,7 @@ Dans la foi chrétienne, il y a un couloir pour les premiers-nés, un couloir sp
 
 Jésus-Christ est plus qu’une épreuve qui nous frappe ou un malheur qui nous accable. Jésus-Christ est plus que la souffrance que nous endurons. C’est pourquoi toutes ces choses ne sont pas une malédiction pour nous, mais une bénédiction. **Car pour ceux qui aiment Dieu, la malédiction devient une bénédiction**. La fournaise ardente devient un lieu de rencontre avec une autre personne, comme les trois compagnons de Daniel virent une autre personne s’ajouter à eux dans le feu. La fosse aux lions devient un lieu de paix. **Christ est béni ! Pourquoi serais-je maudit ? C’est bien là la bonne part pour nous**.
 
-## La bonne part – Jacob et Ésaü – Marthe et Marie
+**La bonne part – Jacob et Ésaü – Marthe et Marie**
 
 Mes regards ont été attirés ces derniers temps sur la question de « la bonne part » qui ne nous sera jamais ôtée. Et en méditant cette Parole, le Seigneur m’a donné deux exemples importants dans la Genèse et dans le Nouveau Testament. Nous connaissons l’histoire de Marthe et Marie, qui étaient des sœurs de Lazare. Cette famille était une famille amie du Seigneur Jésus. Il leur rendait par moments visite et passait le temps avec eux. Lors d’une première visite chez Marthe, il s’est passé quelque chose.
 
@@ -166,7 +166,7 @@ Mes chers amis, c’est là notre part, garder la Parole révélée que nous avo
 
 Je vous ai dit que le Seigneur nous traite en amis, c’est pourquoi Il nous révèle Son plan. Nous devons être patients pour entrer dans les bonnes grâces de Dieu. Que Son nom soit béni !
 
-## La patience de Dieu dans la prophétie
+**La patience de Dieu dans la prophétie**
 
 Maintenant je voudrais en venir à la Parole de Jacques 5 au sujet de la patience que nous devons observer vis-à-vis de ces choses. Mes bien-aimés frères et sœurs, s’il y a une qualité que nous devons avoir dans le temps d’attente de l’accomplissement d’une prophétie biblique, c’est bien la patience. La patience est une grande vertu que les élus, les fils de la promesse doivent avoir. Dans le but de nous enseigner cette qualité, Jacques nous compare à un laboureur qui a mis de la semence en terre et qui attend la récolte.
 

@@ -62,7 +62,7 @@ bible_refs:
   - "Colossiens 3:12"
   - "Philippiens 2:13"
   - "Éphésiens 4:12"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Bien-aimés frères et sœurs en Christ, j’aimerais partager avec vous quelques paroles de Dieu que j’ai reçues le samedi matin du 2 juillet. Je crois que cette méditation s’adresse à tous ceux qui connaissent leur identité en Christ et qui sont familiers avec les temps de la fin et le Ministère de l’Épouse.
 

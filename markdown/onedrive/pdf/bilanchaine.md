@@ -64,9 +64,9 @@ bible_refs:
   - "2 Timothée 2:16-18"
   - "2 Timothée 2:20-22"
   - "Apocalypse 22:17"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
-## 5 mois de combat – 5 mois de victoire
+**5 mois de combat – 5 mois de victoire**
 
 Mes chers frères et sœurs en Christ Jésus, membres de la chaîne de prière – notre instrument de combat à tous, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient sur vous tous en ce nouvel an. Je voudrais vous saluer par ces Paroles du Christ à Ses disciples que nous sommes :
 
@@ -82,7 +82,7 @@ Plusieurs frères et sœurs m’ont interpellé au sujet de l’attitude à adop
 
 **Ne gardez rien contre ceux qui vous calomnient et qui vous jugent à cause de cette œuvre de réveil, sinon vous ne serez pas exaucés**. **C’est une stratégie de Satan, lequel est spécialiste dans les mensonges, les calomnies, les médisances et les commérages. Ce sont des choses qui ne sont pas spirituelles. Le Seigneur nous demande de pardonner à ceux qui nous offensent quand on veut prier pour être exaucé. Pardonnez à ceux qui sont avec vous dans vos assemblées et qui vous traitent mal**, **car ils ne savent pas ce qu’ils font. Ils sont des prisonniers de la religion**. **Dieu Lui-même s’occupera d’eux au temps convenable**.
 
-## Laissez les morts enterrer leurs morts
+**Laissez les morts enterrer leurs morts**
 
 > Mais Jésus lui répondit : **Suis-moi, et laisse les morts ensevelir leurs morts**. (Matth 8:22).
 
@@ -118,7 +118,7 @@ Dans l’est du pays, une autre assemblée que nous avons visitée connaît auss
 
 À l’étranger, certains serviteurs de Dieu comprennent au fur et à mesure la vision du réveil et s’y inscrivent avec leur assemblée. Les deux dernières assemblées à intégrer cette œuvre sont respectivement à Ouagadougou au Burkina Faso et à Matadi en RDC. Aujourd’hui, les membres de la chaîne de prière sont très nombreux. Nous sommes des centaines d’intercesseurs à travers le Corps de Christ. En cinq mois, le bilan est positif. Il n’y a pas eu de régression – au contraire, nous sommes allés de l’avant avec le Seigneur malgré les oppositions. Et nous irons davantage de l’avant. Mes bien-aimés, laissons Dieu nous conduire par Son Esprit et nous arriverons sûrement à bon port.
 
-## Nouvelle stratégie – nouveaux combats
+**Nouvelle stratégie – nouveaux combats**
 
 Mes chers frères et sœurs, amis de la chaîne de prière, je voudrais être bref dans ce compte rendu. Sachez que de nouveaux combats nous attendent dans les prières d’intercession. Si vous êtes sûrs que le Seigneur Jésus-Christ me conduit dans cette œuvre, **comme vous-mêmes priez pour moi dans ce but, alors comprenez que les nouvelles stratégies que nous développons maintenant sont le fruit de vos prières en ma faveur**. Le Saint-Esprit a procédé à une réorganisation des troupes telles que présentées ci-après. Les intercesseurs sont organisés en Cellules d’intercession.
 

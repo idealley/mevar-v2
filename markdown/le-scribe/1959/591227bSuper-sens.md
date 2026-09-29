@@ -61,7 +61,7 @@ original: "branham/1959/59-1227E"
 ---
 **Résumé de!: “Un Super-Sens” (27 décembre 1959, soir)**
 
-## Un super-sens (ou la foi est le sixième sens)
+**UN SUPER-SENS (ou LA FOI EST LE SIXIEME SENS)**
 
 *A SUPER SENS (ou FAITH IS THE SIXTH SENS)*
 

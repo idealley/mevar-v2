@@ -46,7 +46,7 @@ bible_refs:
   - "1 Jean 5:19"
   - "Daniel 10:13"
   - "Matthieu 25"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs en Christ notre Seigneur et Sauveur – **vous qui avez décidé de vous associer au Ciel pour mener le dernier combat contre l’adversaire de Dieu**. Je vous salue tous avec joie et reconnaissance à notre Seigneur – **vous qui avez pris conscience que la victoire s’acquiert dans la mobilisation commune dans la prière**. Que la grâce et la Paix du Christ notre Maître soient avec vous tous.
 
@@ -88,7 +88,7 @@ Mes chers frères bien-aimés, je vous pose la question suivante : **QUEL EST LE
 
 **Mes bien-aimés, ne vous laissez pas distraire par ceux qui considèrent que la sanctification n’est pas un Message particulier. Ils sont certes des frères, mais manquent de connaissance**. Je vous prie de les supporter jusqu’à ce qu’ils comprennent le fond même du Message du temps de la fin. Parce que plusieurs sont venus au Message du temps de la fin sans rien comprendre dans le fond. Que Dieu vous bénisse et vous garde de la tentation du malin.
 
-## Prières de conquêtes – temps d’offensives
+**Prières de conquêtes – temps d’offensives**
 
 Comme vous le savez en tant qu’intercesseurs, nous sommes entrés dans l’année 2007 avec le verset 14 du Psaumes 60 : **« Avec Dieu, nous ferons des exploits, Il écrasera nos ennemis »**. Je vous avais dit en cette occasion que le combat spirituel allait prendre une autre tournure. Voyez que nous en sommes là par la grâce de Dieu. En effet, depuis que nous avons commencé la chaîne de prière, les sujets de prière que nous avons donnés ont essentiellement concerné notre vie intérieure. Et de bonnes nouvelles nous parviennent en ce qui concerne les résultats de cette communion avec le Seigneur. Plusieurs expérimentent des délivrances internes. La nouvelle stratégie du jeûne hebdomadaire porte aussi ses fruits dans la vie des intercesseurs. Il y a même des frères qui font plus que cela. **Lorsqu’on arrive à bien constater les ruines de la Muraille de Jérusalem, le jeûne n’est plus une corvée, mais une vie qu’on veut mener pour la délivrance de Jérusalem. C’est en cela que notre engagement est sans faille**.
 
@@ -110,7 +110,7 @@ Nous nous attaquerons aux continents, aux pays, aux îles et aux organisations d
 
 **Fr M’BRA Parfait**
 
-## Sujets de prière
+**Sujets de prière**
 
 1. Nous prions et nous demandons à Dieu de nous sanctifier, en nous purifiant de toutes les souillures de l’âme.
 
@@ -126,7 +126,7 @@ Nous nous attaquerons aux continents, aux pays, aux îles et aux organisations d
 
 7. Nous prions et nous demandons à Dieu de fortifier tous les membres de la chaîne de prière – qu’Il relève tous les intercesseurs qui ont baissé les bras.
 
-## Vision de frère Patrick E. sur le vrai et le faux réveil
+**VISION DE FRÈRE PATRICK E. SUR LE VRAI ET LE FAUX RÉVEIL**
 
 Mes chers frères et sœurs bien-aimés, nous avons jugé utile de publier sur notre site à tous, la vision **qu’un frère chrétien a eue sur le réveil qui a commencé dans l’Église de Jésus-Christ**. Nous publions cette vision sur notre site parce que nous estimons que c’est biblique et actuel. Ce témoignage est disponible sur le site www.paroledevie.org.
 
@@ -136,7 +136,7 @@ J’ai pris sur moi le soin de mettre certaines phrases en gras pour davantage a
 
 Voici la vision que j’ai reçue de Dieu concernant un vrai réveil et un faux réveil contrefait. Cette vision m’a été donnée **le 4 mars 2006**.
 
-### La vision
+**LA VISION**
 
 Tout est noir et je vois une personne qui marche d’un pas légèrement cadencé, juste un peu plus rapide que l’allure normale. **Elle marche vers un but, tout droit devant elle, d’un pas assuré, solennel et résolu, un peu comme marcherait un guerrier, un révolutionnaire, avec fermeté**. **Elle brille comme une lumière dans l’obscurité**. J’ai vu ensuite quelques autres personnes dans le lointain, **elles étaient brillantes et éclairaient la nuit qui régnait tout autour et elles allaient dans la même direction**.
 
@@ -152,7 +152,7 @@ Maintenant, ce que je voyais était comme un film obscur ou une vidéo avec peu 
 
 Maintenant, je voyais les deux parties de la vision côte à côte, comme sur un écran partagé. **Elles grandirent en intensité à proportion égale — comme le vrai réveil croissait en puissance, le faux croissait en nombre et lorsque le vrai croissait en nombre, le faux croissait en signes et en prodiges mensongers**. Le Seigneur dit : « **Ce n’est pas une vision de l’avenir, elle a déjà commencé et s’accentuera avec le temps qui passe. En ce moment même l’ennemi s’active contre ce je fais**. »
 
-### Conclusion
+**Conclusion**
 
 Le Seigneur est en train d’amener un réveil en ces derniers temps, tel que nous n’en avons jamais vu et il commence avec vous. **Le Seigneur appelle à se séparer, Il appelle à la sainteté et à la justice selon Dieu. Il désire que nous marchions dans l’obéissance et dans une entière soumission à SA volonté. Ne péchez pas, soyez parfaits comme votre Père céleste est parfait, soyez morts à votre chair et vivants EN Christ. Avancez d’une manière sobre, solennelle et sérieuse devant le Seigneur avec une sainte et respectueuse crainte de Dieu**. **Si vous attendez une grande effusion émotionnelle avec des signes et des prodiges, vous allez manquer le réveil**. Le réveil commence avec vous. **Recherchez le Seigneur et continuez avec Lui en devenant de plus en plus proches de Lui chaque jour. Que le sang et la grâce de Jésus brisent les liens de votre chair et produisent en vous une vie Sainte et Juste**. Demandez au Seigneur de vous montrer ce qui vous tient éloignés de ce qui est pur et parfait — **peu importe la douleur et le prix à payer**. Demandez au Seigneur d’exposer chaque chose qui vous retient de vous tenir tout près de Lui pour donner toute la gloire à son royaume en renonçant à tout ce qu’Il vous dévoilera.
 
@@ -170,7 +170,7 @@ La véritable armée du réveil sera faite de bandes de « révolutionnaires des
 
 Dieu vous appelle à prendre une décision en ce moment même ; qu’allez-vous répondre ?
 
-### Remarques de frère M’BRA Parfait
+**Remarques de frère M’BRA Parfait**
 
 1. Cette vision doit être mise en relation avec Matthieu 25 pour être bien comprise. Ces personnes qui brillent dans la vision marchent dans la nuit comme les vierges dans Matthieu 25. Notre marche a lieu dans la nuit. Elle a commencé depuis le temps du soir, et nous sommes maintenant à l’heure de Minuit.
 

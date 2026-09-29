@@ -48,7 +48,7 @@ original: "branham/1959/59-0628M"
 
 **UNE EGLISE SEDUITE PAR LE MONDE**
 
-## A deceived church, by the world
+**A DECEIVED CHURCH, BY THE WORLD**
 
 *28 juin 1959, dimanche matin, Jeffersonville (Indiana).*
 

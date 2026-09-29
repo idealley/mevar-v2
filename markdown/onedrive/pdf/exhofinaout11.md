@@ -71,7 +71,7 @@ bible_refs:
   - "Colossiens 1:24"
   - "Matthieu 18:15"
   - "1 Jean 1:6"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-28"
 ---
 Mes chers frères et sœurs, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ. Nous remercions le Seigneur pour Sa grâce et Sa miséricorde dans notre vie de tous les jours. Car c’est par Sa grâce que tout est possible. Je voudrais vous adresser cette importante exhortation que le Seigneur a mise sur mon cœur dans ces temps. Mon souhait est que cela participe à notre édification commune. Il s’agit de la parabole des conviés.
 
@@ -119,7 +119,7 @@ Voici l’esprit religieux mes frères. C’est ici les vases de terre et de boi
 
 Celui qui nous a invités viendra. **C’est pourquoi la position de sagesse est la position de la dernière place**. En Christ, on commence à la dernière place pour aller à la première place. S’asseoir à la dernière place, c’est le fait de reconnaître sa position dans l’assemblée locale ou dans l’Église. **Lorsque du point de vue spirituel, tu as reçu la révélation de ta place dans le milieu spirituel où tu te trouves, tu es en ce moment à la dernière place**. Parce que c’est à partir de cette place que Dieu va te faire évoluer. La dernière place, c’est la position de départ pour chacun d’entre nous. C’est la position d’humiliation et d’apprentissage, la position de disciple. Lorsqu’on accepte de reconnaître qu’on est rien, alors nous sommes à la dernière place. Celui qui nous a invités viendra Lui-même nous élever si nous méritons d’être élevés, car dans la Maison de Dieu, il n’y a pas de favoritisme.
 
-## Jésus-Christ – le pain vivant descendu du ciel
+**Jésus-Christ – le Pain vivant descendu du ciel**
 
 Dans ma marche de la foi, j’ai découvert par expérience que beaucoup de frères en Christ se sont égarés parce qu’ils n’avaient pas la connaissance de leur place et de leur position dans la Maison de Dieu. Vous voyez, en tant que chrétiens, nous devons savoir l’esprit et l’onction qui nous animent. Nous devons savoir exactement là où Dieu nous a mis et pourquoi. **Il y en a qui ont réclamé des Ministères de la Parole alors qu’ils n’étaient pas Ministres de la Parole. Car prêcher ne veut pas dire qu’on est Ministre de la Parole**. Ce n’est pas parce qu’on se tient devant les frères avec la Bible qu’on est docteur, apôtre, pasteur, Évangéliste ou prophète ! Non ! **Être Ministre de la Parole c’est premièrement une onction**.
 
@@ -165,7 +165,7 @@ Beaucoup de frères se sont perdus en voulant discuter avec les serviteurs de Di
 
 > **Or, quiconque en est au lait n’a pas l’expérience de la parole de justice ; car il est un enfant**. (Hébreux 5:13)
 
-## La position de disciple – apprendre Christ
+**La position de disciple – apprendre Christ**
 
 Là où Dieu nous veut, c’est dans la position qu’Il nous a donnée et non ailleurs. Quelle peut être notre position dans l’Assemblée locale ou dans l’Église de Jésus-Christ ? **Lorsque c’est le temps de nous abaisser pour apprendre, abaissons-nous pour apprendre**. Car Jésus a dit : « quiconque s’élève sera abaissé, et quiconque s’abaisse sera élevé ». En effet, il y a un temps pour être un disciple et un temps pour être un maître. C’est le Seigneur qui l’a dit :
 
@@ -205,7 +205,7 @@ Celui qui peut s’asseoir à la première place, c’est celui qui a préféré
 
 Mes bien-aimés frères et sœurs, n’écoutez pas les plaisantins ! C’est Jésus-Christ qui décide. Tant que nous avons du temps devant nous, nous devons travailler dans la Maison de Dieu. Ne vous précipitez pas pour vous élever dans une position quelconque. Les places sont réservées, il faut remplir les conditions pour y avoir accès.
 
-## Déclarés vainqueurs
+**Déclarés vainqueurs**
 
 Mes chers amis, nous devons être déclarés vainqueurs comme Israël après avoir lutté avec Dieu comme Jacob. **Car la première place est réservée à ceux qui ont lutté et qui ont vaincu Dieu. C’est cela qui m’est venu dans ces derniers temps**. Nous connaissons bien cette expérience de Jacob dans le livre de la Genèse.
 

@@ -77,7 +77,7 @@ original: "branham/1962/62-0629"
 
 **N’AYEZ PAS PEUR, C’EST MOI**
 
-## Be not afraid, it is I
+**BE NOT AFRAID, IT IS I**
 
 *29 juin 1962, vendredi soir, Santa Maria (Californie)*
 
