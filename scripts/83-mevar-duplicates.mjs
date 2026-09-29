@@ -60,12 +60,15 @@ for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
     const file = path.join(dir, rel);
     const text = fs.readFileSync(file, "utf8");
     const [, fm, body] = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
-    if (source === "mevar" && field(fm, "type") !== "post") continue;
+    // a OneDrive or PDF text goal 19 moved to mevar/ keeps its source; its
+    // path is where it is now
+    const src = field(fm, "source");
+    if (src === "mevar" && field(fm, "type") !== "post") continue;
     const w = words(body);
     const shingles = new Set();
     for (let i = 0; i + K <= w.length; i++) shingles.add(w.slice(i, i + K).join(" "));
     works.push({
-      id: `${source}/${field(fm, "sermon_id")}`, path: `${source}/${rel.slice(0, -".md".length)}`, source, file, fm, body,
+      id: `${src}/${field(fm, "sermon_id")}`, path: `${source}/${rel.slice(0, -".md".length)}`, source: src, file, fm, body,
       title: field(fm, "title"), draft: field(fm, "status") === "draft", pdf: field(fm, "local_pdf"),
       excerpt: body.split(/\s+/).filter(Boolean).slice(0, 300).join(" "),
       ocr: body.split(/\s+/).filter((t) => OCR.test(t)).length, shingles,
@@ -170,6 +173,10 @@ for (const w of grouped) {
 function keeper(group) {
   const ghost = group.filter((w) => w.source === "mevar").sort((x, y) => x.draft - y.draft);
   if (ghost.length) return { keep: ghost[0], rule: ghost.length > 1 ? "ghost post (several, first by id)" : "ghost post" };
+  // a text goal 10 has edited and promoted wins over an unedited copy (the
+  // sermon split from exhomai2007 over onedrive/pdf/laguerre)
+  const edited = group.filter((w) => /^editorial_pass:/m.test(w.fm));
+  if (edited.length === 1) return { keep: edited[0], rule: "edited by goal 10" };
   const [first, second] = [...group].sort((x, y) => y.shingles.size - x.shingles.size || x.ocr - y.ocr || x.id.localeCompare(y.id));
   const rule = first.shingles.size > second.shingles.size ? "more of the sermon"
     : first.ocr < second.ocr ? "cleaner" : "as long and as clean, first by id";

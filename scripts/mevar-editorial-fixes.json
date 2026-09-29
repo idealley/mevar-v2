@@ -2821,7 +2821,7 @@
     ]
   },
   "markdown/onedrive/pdf/exhobilan2008.md": {
-    "title": null,
+    "title": "2009 – année de campagne",
     "fixes": [
       {
         "find": "il faisait beaucoup de bruit, mais ses grands bruits",
@@ -2865,11 +2865,18 @@
         "kind": "markup",
         "why": "missing final period of the paragraph"
       }
-    ]
+    ],
+    "subtitle": "Exhortation bilan de fin d’année 2008"
   },
   "markdown/onedrive/pdf/exhobilan2009.md": {
-    "title": null,
+    "title": "Trois années de combat et d’épreuves",
     "fixes": [
+      {
+        "find": "**TROIS ANNÉES DE COMBAT ET D’ÉPREUVES**\n\nMes chers",
+        "replace": "Mes chers",
+        "kind": "markup",
+        "why": "document header: its title, now in the frontmatter (Samuel: the document's title, the month's as subtitle)"
+      },
       {
         "find": "rangé derrière l’État Major. **Il existe",
         "replace": "rangé derrière l’État-major. **Il existe",
@@ -2906,7 +2913,8 @@
         "kind": "markup",
         "why": "brochure title in guillemets"
       }
-    ]
+    ],
+    "subtitle": "Exhortation bilan de fin d’année 2009"
   },
   "markdown/onedrive/pdf/exhofev.md": {
     "title": null,
@@ -2968,8 +2976,14 @@
     ]
   },
   "markdown/onedrive/pdf/exhofin_aout.md": {
-    "title": null,
+    "title": "Événements mystérieux dans le soleil",
     "fixes": [
+      {
+        "find": "**ÉVÉNEMENTS MYSTÉRIEUX DANS LE SOLEIL**\n\n**APPEL",
+        "replace": "**APPEL",
+        "kind": "markup",
+        "why": "document header: its title, now in the frontmatter (Samuel: the document's title, the month's as subtitle)"
+      },
       {
         "find": "que le Seigneur à Son arrivée trouvera vivant et à l’œuvre",
         "replace": "que le Seigneur à Son arrivée trouvera vivants et à l’œuvre",
@@ -3048,7 +3062,8 @@
         "kind": "typo",
         "why": "homophone 'ait' for 'est'"
       }
-    ]
+    ],
+    "subtitle": "Exhortation spéciale fin août 2007"
   },
   "markdown/onedrive/pdf/exhofinaout11.md": {
     "title": "La parabole des conviés",

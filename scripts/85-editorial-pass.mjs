@@ -21,6 +21,7 @@ import "dotenv/config";
 import Anthropic from "@anthropic-ai/sdk";
 import { citations } from "./65-normalize-bible.mjs";
 import { connect, reading, blockquote } from "./segond.mjs";
+import { located } from "./88-mevar-paths.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const batchId = process.argv[2];
@@ -122,7 +123,7 @@ for (const md of batch) {
   const out = path.join(root, ".pass-cache", md.slice("markdown/".length).replace(/\.md$/, ".json"));
   if (fs.existsSync(out)) continue;
   const original = fs.readFileSync(path.join(root, ".parse-cache", md.slice("markdown/".length)), "utf8");
-  const title = JSON.parse(fs.readFileSync(path.join(root, md), "utf8").match(/^title: (.*)$/m)[1]);
+  const title = JSON.parse(fs.readFileSync(path.join(root, located(md)), "utf8").match(/^title: (.*)$/m)[1]);
   const results = [];
   for (const [i, part] of parts(original).entries())
     results.push(await complete(i === 0 ? `Titre donné : ${title}\n\n${part}` : part));

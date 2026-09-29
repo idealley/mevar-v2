@@ -26,6 +26,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { located } from "./88-mevar-paths.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const MODEL = "gpt-6-sol";
@@ -64,19 +65,33 @@ function headingOf(line, proposed) {
   return j === to.length ? `${level} ${out}` : null;
 }
 
+// A line that repeats the title or the subtitle is a title block's, and
+// stays a line, in the text's opening only: before its first paragraph of
+// twenty words; further on, the same words are a section's title (« 2009 –
+// année de campagne » before 1 Chroniques 20).
+function opening(body) {
+  const paras = body.split(/\n{2,}/).map((p) => p.trim());
+  const first = paras.findIndex((p) => letters(p).length >= 20);
+  const later = new Set(paras.slice(first < 0 ? paras.length : first));
+  // a line counts as the opening's only if it is not found again further on
+  return new Set(paras.slice(0, first < 0 ? paras.length : first).filter((p) => !later.has(p)));
+}
+const repeats = (line, title, subtitle, open) => open.has(line) && (sameWords(line, title) || sameWords(line, subtitle));
+
 /**
  * The candidate lines of a body: paragraphs of one line that may be a
  * section title; and a heading already there that is in capitals, to recase
  * (not in a Ghost post, whose layout is Samuel's).
  */
 function candidates(body, title, subtitle, capsOnly) {
+  const open = opening(body);
   return [...new Set(body.split(/\n{2,}/).map((p) => p.trim()))].filter((p) => {
     if (!p || p.includes("\n")) return false;
     if (isHeading(p)) {
       const ls = [...plain(p)].filter((c) => /\p{L}/u.test(c));
       return !capsOnly && ls.length >= 4 && ls.every((c) => c === c.toUpperCase());
     }
-    if (/^(>|- |\d+\.\s)/.test(p) || sameWords(p, title) || sameWords(p, subtitle)) return false;
+    if (/^(>|- |\d+\.\s)/.test(p) || repeats(p, title, subtitle, open)) return false;
     const text = plain(p);
     const ls = [...text].filter((c) => /\p{L}/u.test(c));
     const n = letters(p).length;
@@ -157,7 +172,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const at = (f) => pass.body.indexOf(f.find);
     for (const f of edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at(b) - at(a)))
       body = body.slice(0, at(f)) + f.replace + body.slice(at(f) + f.find.length);
-    works.push([md, body, edits.title ?? pass.title, edits.subtitle ?? fieldOf(fm(fs.readFileSync(path.join(root, md), "utf8")), "subtitle"), false, false]);
+    works.push([md, body, edits.title ?? pass.title, edits.subtitle ?? fieldOf(fm(fs.readFileSync(path.join(root, located(md)), "utf8")), "subtitle"), false, false]);
   }
   if (!batchId)
     for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true }).sort()) {
@@ -165,17 +180,13 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       const md = `markdown/${rel}`;
       const text = fs.readFileSync(path.join(root, md), "utf8");
       const f = fm(text);
-      if (/^duplicate_of:/m.test(f)) continue;
+      // a goal 10 text moved to mevar/ (goal 19) is read from its batch, above
+      if (/^duplicate_of:/m.test(f) || /^source: "(onedrive|mevar-pdfs)"$/m.test(f)) continue;
       works.push([md, text.slice(text.indexOf("\n---\n", 4) + 5), fieldOf(f, "title"), fieldOf(f, "subtitle"), true, rel.startsWith("mevar/")]);
     }
   // a decision is kept under the path 86 and 87 read, once per line
   if (!batchId) for (const md of Object.keys(all)) if (!works.some(([w]) => w === md)) delete all[md];
   for (const md of Object.keys(all)) all[md] = all[md].filter((d, i, a) => a.findIndex((e) => e.line === d.line) === i);
-
-  // A title or subtitle can change after its lines were decided (86 takes
-  // the editor's): a line that repeats one is no heading.
-  for (const [md, , title, subtitle] of works)
-    for (const d of all[md] ?? []) if (!isHeading(d.line) && (sameWords(d.line, title) || sameWords(d.line, subtitle))) d.heading = null;
 
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));

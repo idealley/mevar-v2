@@ -38,7 +38,7 @@
         {
           "id": "mevar/a-qui-comparerai-je-cette-generation",
           "title": "A qui comparerai-je cette génération?",
-          "shingles": 5825,
+          "shingles": 5824,
           "ocr_tokens": 1
         },
         {
@@ -54,8 +54,8 @@
           "b": "onedrive/Exho__Octobre_2015",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.943,
-          "in_b": 0.945,
+          "in_a": 0.942,
+          "in_b": 0.944,
           "title": 1
         }
       ]
@@ -144,8 +144,8 @@
           "b": "onedrive/exho_dec2007",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.95,
-          "in_b": 0.951,
+          "in_a": 0.951,
+          "in_b": 0.952,
           "title": 1
         }
       ]
@@ -174,8 +174,8 @@
           "b": "onedrive/exho_fin_fevrier_2008",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.941,
-          "in_b": 0.938,
+          "in_a": 0.936,
+          "in_b": 0.933,
           "title": 1
         }
       ]
@@ -204,8 +204,8 @@
           "b": "onedrive/argent",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.96,
-          "in_b": 0.959,
+          "in_a": 0.956,
+          "in_b": 0.955,
           "title": 1
         }
       ]
@@ -248,7 +248,7 @@
         {
           "id": "mevar/ayez-du-zele-et-non-de-la-paresse",
           "title": "Ayez du zèle et non de la paresse !",
-          "shingles": 6085,
+          "shingles": 6084,
           "ocr_tokens": 0
         },
         {
@@ -264,8 +264,8 @@
           "b": "onedrive/zele",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.947,
-          "in_b": 0.949,
+          "in_a": 0.944,
+          "in_b": 0.946,
           "title": 1
         }
       ]
@@ -324,8 +324,8 @@
           "b": "mevar/braver-la-grande-foule",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.967,
-          "in_b": 0.965,
+          "in_a": 0.97,
+          "in_b": 0.967,
           "title": 1
         }
       ]
@@ -400,7 +400,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.963,
-          "in_b": 0.965,
+          "in_b": 0.964,
           "title": 1
         }
       ]
@@ -459,8 +459,8 @@
           "b": "mevar/chercher-dieu-et-le-trouver",
           "band": "same_sermon",
           "decision": null,
-          "in_a": 0.831,
-          "in_b": 0.929,
+          "in_a": 0.826,
+          "in_b": 0.923,
           "title": 1
         }
       ]
@@ -663,8 +663,8 @@
           "b": "onedrive/Propheties_convention_Lakota",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.951,
-          "in_b": 0.949,
+          "in_a": 0.949,
+          "in_b": 0.947,
           "title": 1
         }
       ]
@@ -723,8 +723,8 @@
           "b": "mevar/david-et-goliath",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.956,
-          "in_b": 0.953,
+          "in_a": 0.975,
+          "in_b": 0.972,
           "title": 0.8
         }
       ]
@@ -737,7 +737,7 @@
         {
           "id": "mevar/dehors-les-chiens",
           "title": "Dehors les chiens !",
-          "shingles": 6036,
+          "shingles": 6038,
           "ocr_tokens": 6
         },
         {
@@ -753,8 +753,8 @@
           "b": "onedrive/dehors",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.947,
-          "in_b": 0.948,
+          "in_a": 0.946,
+          "in_b": 0.947,
           "title": 1
         }
       ]
@@ -827,7 +827,7 @@
         {
           "id": "mevar/des-hommes-de-mission-a-la-ressemblance-de-jesus",
           "title": "Des hommes de mission à la ressemblance de Jésus",
-          "shingles": 13520,
+          "shingles": 13517,
           "ocr_tokens": 5
         },
         {
@@ -843,8 +843,8 @@
           "b": "onedrive/des_hommes_de_mission",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.973,
-          "in_b": 0.972,
+          "in_a": 0.971,
+          "in_b": 0.97,
           "title": 0.857
         }
       ]
@@ -873,8 +873,8 @@
           "b": "mevar/des-hommes-faits",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.943,
-          "in_b": 0.944,
+          "in_a": 0.944,
+          "in_b": 0.945,
           "title": 1
         }
       ]
@@ -1017,8 +1017,8 @@
           "b": "mevar/dieu-regarde-au-coeur",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.945,
-          "in_b": 0.942,
+          "in_a": 0.955,
+          "in_b": 0.952,
           "title": 0.8
         }
       ]
@@ -1048,7 +1048,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.915,
-          "in_b": 0.922,
+          "in_b": 0.921,
           "title": 1
         }
       ]
@@ -1227,8 +1227,8 @@
           "b": "mevar/holocauste",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.913,
-          "in_b": 0.912,
+          "in_a": 0.922,
+          "in_b": 0.922,
           "title": 1
         }
       ]
@@ -1311,7 +1311,7 @@
           "b": "onedrive/exho_mi_juillet_2009",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.942,
+          "in_a": 0.943,
           "in_b": 0.939,
           "title": 1
         }
@@ -1431,8 +1431,8 @@
           "b": "mevar/juin-2019",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.972,
-          "in_b": 0.938,
+          "in_a": 0.98,
+          "in_b": 0.946,
           "title": 0.4
         }
       ]
@@ -1515,8 +1515,8 @@
           "b": "onedrive/exhortation_Mars_2014",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.951,
-          "in_b": 0.954,
+          "in_a": 0.95,
+          "in_b": 0.953,
           "title": 1
         }
       ]
@@ -1546,7 +1546,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.956,
-          "in_b": 0.955,
+          "in_b": 0.954,
           "title": 1
         }
       ]
@@ -1575,8 +1575,8 @@
           "b": "onedrive/l-appel-a-la-victoire-partie-1",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.948,
-          "in_b": 0.946,
+          "in_a": 0.945,
+          "in_b": 0.943,
           "title": 0.667
         }
       ]
@@ -1696,7 +1696,7 @@
           "band": "same_sermon",
           "decision": null,
           "in_a": 0.89,
-          "in_b": 0.891,
+          "in_b": 0.89,
           "title": 1
         }
       ]
@@ -1905,8 +1905,8 @@
           "b": "onedrive/exhortation_janvier_2015",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.953,
-          "in_b": 0.956,
+          "in_a": 0.952,
+          "in_b": 0.954,
           "title": 1
         }
       ]
@@ -1935,8 +1935,8 @@
           "b": "onedrive/exho_mai_2014",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.945,
-          "in_b": 0.947,
+          "in_a": 0.944,
+          "in_b": 0.946,
           "title": 1
         }
       ]
@@ -1965,8 +1965,8 @@
           "b": "onedrive/Objet_de_la_Foi_pdf",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.946,
-          "in_b": 0.953,
+          "in_a": 0.945,
+          "in_b": 0.952,
           "title": 1
         }
       ]
@@ -1995,8 +1995,8 @@
           "b": "mevar/l-oeuvre-de-dieu-un-investissement",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.957,
-          "in_b": 0.953,
+          "in_a": 0.956,
+          "in_b": 0.952,
           "title": 1
         }
       ]
@@ -2025,8 +2025,8 @@
           "b": "onedrive/offrande__sallee_15_janvier_2018",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.962,
-          "in_b": 0.962,
+          "in_a": 0.961,
+          "in_b": 0.961,
           "title": 1
         }
       ]
@@ -2086,7 +2086,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.959,
-          "in_b": 0.961,
+          "in_b": 0.96,
           "title": 1
         }
       ]
@@ -2145,8 +2145,8 @@
           "b": "mevar/la-crainte-de-l-eternel",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.971,
-          "in_b": 0.967,
+          "in_a": 0.98,
+          "in_b": 0.976,
           "title": 1
         }
       ]
@@ -2205,8 +2205,8 @@
           "b": "mevar/la-doctrine-de-balaam",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.941,
-          "in_b": 0.939,
+          "in_a": 0.943,
+          "in_b": 0.941,
           "title": 1
         }
       ]
@@ -2235,8 +2235,8 @@
           "b": "onedrive/la_douleur_prophete",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.969,
-          "in_b": 0.969,
+          "in_a": 0.968,
+          "in_b": 0.968,
           "title": 1
         }
       ]
@@ -2295,8 +2295,8 @@
           "b": "mevar/la-fin-d-une-epoque",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.932,
-          "in_b": 0.945,
+          "in_a": 0.938,
+          "in_b": 0.951,
           "title": 1
         }
       ]
@@ -2355,8 +2355,8 @@
           "b": "onedrive/La_foi_et_la_nature_divine",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.96,
-          "in_b": 0.964,
+          "in_a": 0.959,
+          "in_b": 0.963,
           "title": 1
         }
       ]
@@ -2385,8 +2385,8 @@
           "b": "onedrive/La_foi_et_la_nature_divine_suite",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.954,
-          "in_b": 0.958,
+          "in_a": 0.952,
+          "in_b": 0.956,
           "title": 0.8
         }
       ]
@@ -2476,7 +2476,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.95,
-          "in_b": 0.946,
+          "in_b": 0.947,
           "title": 1
         }
       ]
@@ -2525,7 +2525,7 @@
         {
           "id": "mevar/la-guerre-spirituelle-actuelle-nous-triompherons",
           "title": "La guerre spirituelle actuelle - nous triompherons",
-          "shingles": 4246,
+          "shingles": 4245,
           "ocr_tokens": 0
         }
       ],
@@ -2535,8 +2535,8 @@
           "b": "mevar/la-guerre-spirituelle-actuelle-nous-triompherons",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.911,
-          "in_b": 0.91,
+          "in_a": 0.93,
+          "in_b": 0.929,
           "title": 1
         }
       ]
@@ -2609,7 +2609,7 @@
         {
           "id": "mevar/la-maison-du-tresor",
           "title": "La Maison du Trésor",
-          "shingles": 4724,
+          "shingles": 4723,
           "ocr_tokens": 0
         },
         {
@@ -2625,8 +2625,8 @@
           "b": "onedrive/la_maison_du_tresor_exho_aout_2018",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.933,
-          "in_b": 0.934,
+          "in_a": 0.928,
+          "in_b": 0.929,
           "title": 1
         }
       ]
@@ -2691,8 +2691,8 @@
           "b": "mevar/la-marche-prophetique-des-dix-vierges",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.946,
-          "in_b": 0.942,
+          "in_a": 0.947,
+          "in_b": 0.943,
           "title": 1
         },
         {
@@ -2710,7 +2710,7 @@
           "band": "same_sermon",
           "decision": null,
           "in_a": 0.897,
-          "in_b": 0.773,
+          "in_b": 0.772,
           "title": 0.222
         }
       ]
@@ -2859,8 +2859,8 @@
           "b": "onedrive/la_parabole_des_talents",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.968,
-          "in_b": 0.966,
+          "in_a": 0.967,
+          "in_b": 0.965,
           "title": 1
         }
       ]
@@ -2919,8 +2919,8 @@
           "b": "mevar/la-peur-de-satan",
           "band": "same_sermon",
           "decision": null,
-          "in_a": 0.82,
-          "in_b": 0.946,
+          "in_a": 0.804,
+          "in_b": 0.927,
           "title": 1
         }
       ]
@@ -2939,7 +2939,7 @@
         {
           "id": "mevar/la-position-de-sauveur",
           "title": "La position de sauveur",
-          "shingles": 6381,
+          "shingles": 6382,
           "ocr_tokens": 0
         }
       ],
@@ -2949,8 +2949,8 @@
           "b": "mevar/la-position-de-sauveur",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.938,
-          "in_b": 0.937,
+          "in_a": 0.945,
+          "in_b": 0.944,
           "title": 1
         }
       ]
@@ -3009,8 +3009,8 @@
           "b": "onedrive/La_repentance_pdf",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.965,
-          "in_b": 0.965,
+          "in_a": 0.964,
+          "in_b": 0.964,
           "title": 1
         }
       ]
@@ -3099,8 +3099,8 @@
           "b": "onedrive/exhortation_decembre_2013",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.95,
-          "in_b": 0.952,
+          "in_a": 0.948,
+          "in_b": 0.95,
           "title": 1
         }
       ]
@@ -3159,8 +3159,8 @@
           "b": "onedrive/trompettereveil",
           "band": "same_sermon",
           "decision": null,
-          "in_a": 0.738,
-          "in_b": 0.75,
+          "in_a": 0.737,
+          "in_b": 0.749,
           "title": 1
         }
       ]
@@ -3189,8 +3189,8 @@
           "b": "onedrive/la_vision_du_souverain_berger",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.947,
-          "in_b": 0.95,
+          "in_a": 0.945,
+          "in_b": 0.949,
           "title": 1
         }
       ]
@@ -3219,7 +3219,7 @@
           "b": "onedrive/la_vision_prophetique",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.952,
+          "in_a": 0.951,
           "in_b": 0.951,
           "title": 1
         }
@@ -3249,8 +3249,8 @@
           "b": "onedrive/Exhortation_fin_Aout_2016",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.945,
-          "in_b": 0.948,
+          "in_a": 0.944,
+          "in_b": 0.946,
           "title": 1
         }
       ]
@@ -3293,7 +3293,7 @@
         {
           "id": "mevar/lappel-et-lexperience-du-ministere",
           "title": "L'appel et l'expérience du ministère",
-          "shingles": 19326,
+          "shingles": 19324,
           "ocr_tokens": 9
         },
         {
@@ -3573,8 +3573,8 @@
           "b": "mevar/le-cheval-roux-et-le-cheval-noir",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.972,
-          "in_b": 0.964,
+          "in_a": 0.973,
+          "in_b": 0.965,
           "title": 0
         }
       ]
@@ -3604,7 +3604,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.95,
-          "in_b": 0.952,
+          "in_b": 0.951,
           "title": 1
         }
       ]
@@ -3633,8 +3633,8 @@
           "b": "mevar/le-croyant-semblable-au-marchand-de-perles",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.934,
-          "in_b": 0.932,
+          "in_a": 0.952,
+          "in_b": 0.95,
           "title": 1
         }
       ]
@@ -3663,8 +3663,8 @@
           "b": "onedrive/vierge_doc",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.945,
-          "in_b": 0.949,
+          "in_a": 0.937,
+          "in_b": 0.942,
           "title": 0.75
         }
       ]
@@ -3693,8 +3693,8 @@
           "b": "onedrive/exho_juin_2017",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.96,
-          "in_b": 0.963,
+          "in_a": 0.958,
+          "in_b": 0.961,
           "title": 1
         }
       ]
@@ -3707,7 +3707,7 @@
         {
           "id": "mevar/le-depart-du-dioscures",
           "title": "Le départ du Dioscures",
-          "shingles": 8715,
+          "shingles": 8713,
           "ocr_tokens": 0
         },
         {
@@ -3723,8 +3723,8 @@
           "b": "onedrive/exhortation_de_Juillet_2014_1",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.971,
-          "in_b": 0.972,
+          "in_a": 0.955,
+          "in_b": 0.956,
           "title": 1
         }
       ]
@@ -3753,8 +3753,8 @@
           "b": "onedrive/Exhortation_mi-avril_2017",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.96,
-          "in_b": 0.966,
+          "in_a": 0.957,
+          "in_b": 0.962,
           "title": 1
         }
       ]
@@ -3903,7 +3903,7 @@
           "b": "onedrive/exho_fev2009",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.947,
+          "in_a": 0.948,
           "in_b": 0.944,
           "title": 1
         }
@@ -3963,8 +3963,8 @@
           "b": "onedrive/Exhortation_fevrier_2017",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.929,
-          "in_b": 0.931,
+          "in_a": 0.922,
+          "in_b": 0.924,
           "title": 1
         }
       ]
@@ -4173,8 +4173,8 @@
           "b": "onedrive/le_repos_en_christ",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.961,
-          "in_b": 0.961,
+          "in_a": 0.96,
+          "in_b": 0.96,
           "title": 1
         }
       ]
@@ -4233,8 +4233,8 @@
           "b": "mevar/le-salut-selon-la-bible",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.965,
-          "in_b": 0.963,
+          "in_a": 0.967,
+          "in_b": 0.965,
           "title": 1
         }
       ]
@@ -4293,8 +4293,8 @@
           "b": "mevar/le-septieme-sceau",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.93,
-          "in_b": 0.93,
+          "in_a": 0.931,
+          "in_b": 0.931,
           "title": 0.286
         }
       ]
@@ -4578,8 +4578,8 @@
           "b": "onedrive/le_vin_nouveau_et_le_vieux_vin_exhortation_de_Juillet_2018",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.935,
-          "in_b": 0.938,
+          "in_a": 0.934,
+          "in_b": 0.937,
           "title": 1
         }
       ]
@@ -4668,8 +4668,8 @@
           "b": "onedrive/Exhortation_octobre_2017",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.955,
-          "in_b": 0.958,
+          "in_a": 0.947,
+          "in_b": 0.949,
           "title": 0.667
         }
       ]
@@ -4819,7 +4819,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.952,
-          "in_b": 0.946,
+          "in_b": 0.947,
           "title": 1
         }
       ]
@@ -4983,8 +4983,8 @@
           "b": "onedrive/Les_prisonniers-de-la_religion",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.964,
-          "in_b": 0.965,
+          "in_a": 0.963,
+          "in_b": 0.964,
           "title": 1
         }
       ]
@@ -5134,7 +5134,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.913,
-          "in_b": 0.915,
+          "in_b": 0.916,
           "title": 0.909
         }
       ]
@@ -5163,8 +5163,8 @@
           "b": "mevar/les-teraphims-et-la-mort-de-rachel",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.939,
-          "in_b": 0.939,
+          "in_a": 0.94,
+          "in_b": 0.94,
           "title": 1
         }
       ]
@@ -5193,8 +5193,8 @@
           "b": "onedrive/Exhortation_de_Juin-2018",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.965,
-          "in_b": 0.968,
+          "in_a": 0.962,
+          "in_b": 0.965,
           "title": 1
         }
       ]
@@ -5223,8 +5223,8 @@
           "b": "onedrive/babylonien",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.944,
-          "in_b": 0.904,
+          "in_a": 0.942,
+          "in_b": 0.902,
           "title": 1
         }
       ]
@@ -5313,8 +5313,8 @@
           "b": "mevar/manger-le-sacrifice",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.977,
-          "in_b": 0.974,
+          "in_a": 0.986,
+          "in_b": 0.983,
           "title": 1
         }
       ]
@@ -5373,8 +5373,8 @@
           "b": "onedrive/exho_nehemie_fevrier_2015",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.946,
-          "in_b": 0.947,
+          "in_a": 0.947,
+          "in_b": 0.948,
           "title": 1
         }
       ]
@@ -5403,8 +5403,8 @@
           "b": "onedrive/Serpent-d-airain_2019",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.971,
-          "in_b": 0.968,
+          "in_a": 0.969,
+          "in_b": 0.966,
           "title": 0.462
         }
       ]
@@ -5433,7 +5433,7 @@
           "b": "onedrive/ninive-et-tarsis-juin-2015",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.956,
+          "in_a": 0.955,
           "in_b": 0.956,
           "title": 1
         }
@@ -5463,8 +5463,8 @@
           "b": "onedrive/Exhortation_Fin_Avril_2015",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.957,
-          "in_b": 0.96,
+          "in_a": 0.953,
+          "in_b": 0.956,
           "title": 1
         }
       ]
@@ -5597,7 +5597,7 @@
         {
           "id": "mevar/on-l-appellera-samuel",
           "title": "On l’appellera Samuel",
-          "shingles": 13228,
+          "shingles": 13227,
           "ocr_tokens": 0
         },
         {
@@ -5717,7 +5717,7 @@
         {
           "id": "mevar/prenez-courage",
           "title": "Prenez courage",
-          "shingles": 8004,
+          "shingles": 8006,
           "ocr_tokens": 0
         },
         {
@@ -5733,8 +5733,8 @@
           "b": "onedrive/courage",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.952,
-          "in_b": 0.954,
+          "in_a": 0.939,
+          "in_b": 0.941,
           "title": 1
         }
       ]
@@ -5763,8 +5763,8 @@
           "b": "onedrive/exho_novembre_2008",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.956,
-          "in_b": 0.954,
+          "in_a": 0.948,
+          "in_b": 0.946,
           "title": 0
         }
       ]
@@ -5793,8 +5793,8 @@
           "b": "onedrive/presence_demoniaque_dans_les_mariages",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.971,
-          "in_b": 0.971,
+          "in_a": 0.97,
+          "in_b": 0.97,
           "title": 1
         }
       ]
@@ -5823,8 +5823,8 @@
           "b": "onedrive/exho_ juillet_2013",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.931,
-          "in_b": 0.934,
+          "in_a": 0.93,
+          "in_b": 0.933,
           "title": 1
         }
       ]
@@ -5889,8 +5889,8 @@
           "b": "onedrive/pred_quienverrai-je",
           "band": "same_sermon",
           "decision": null,
-          "in_a": 0.938,
-          "in_b": 0.853,
+          "in_a": 0.936,
+          "in_b": 0.851,
           "title": 1
         },
         {
@@ -5898,8 +5898,8 @@
           "b": "onedrive/pred_quienverraije",
           "band": "same_sermon",
           "decision": null,
-          "in_a": 0.938,
-          "in_b": 0.853,
+          "in_a": 0.936,
+          "in_b": 0.851,
           "title": 1
         },
         {
@@ -5921,7 +5921,7 @@
         {
           "id": "mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit",
           "title": "Qui est-ce qui plante une vigne et n’en mange pas le fruit ?",
-          "shingles": 10416,
+          "shingles": 10415,
           "ocr_tokens": 0
         },
         {
@@ -5937,8 +5937,8 @@
           "b": "onedrive/Exho_de_Mai_2015",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.969,
-          "in_b": 0.97,
+          "in_a": 0.965,
+          "in_b": 0.966,
           "title": 1
         }
       ]
@@ -5951,7 +5951,7 @@
         {
           "id": "mevar/qui-sera-enleve",
           "title": "Qui sera enlevé?",
-          "shingles": 36923,
+          "shingles": 36957,
           "ocr_tokens": 4
         },
         {
@@ -5967,8 +5967,8 @@
           "b": "onedrive/qui_sera_enleve",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.954,
-          "in_b": 0.957,
+          "in_a": 0.936,
+          "in_b": 0.939,
           "title": 1
         }
       ]
@@ -5997,8 +5997,8 @@
           "b": "onedrive/juillet",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.949,
-          "in_b": 0.951,
+          "in_a": 0.934,
+          "in_b": 0.935,
           "title": 0
         }
       ]
@@ -6057,8 +6057,8 @@
           "b": "onedrive/exho_mi_fevrier2013",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.958,
-          "in_b": 0.956,
+          "in_a": 0.957,
+          "in_b": 0.955,
           "title": 1
         }
       ]
@@ -6087,8 +6087,8 @@
           "b": "onedrive/Exhortation_de_Fevrier_2018",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.949,
-          "in_b": 0.956,
+          "in_a": 0.948,
+          "in_b": 0.955,
           "title": 1
         }
       ]
@@ -6117,8 +6117,8 @@
           "b": "onedrive/exho_fin_septembre",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.957,
-          "in_b": 0.96,
+          "in_a": 0.956,
+          "in_b": 0.959,
           "title": 1
         }
       ]
@@ -6231,8 +6231,8 @@
           "b": "onedrive/juin",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.903,
-          "in_b": 0.908,
+          "in_a": 0.902,
+          "in_b": 0.907,
           "title": 1
         }
       ]
@@ -6261,8 +6261,8 @@
           "b": "mevar/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.946,
-          "in_b": 0.944,
+          "in_a": 0.943,
+          "in_b": 0.94,
           "title": 1
         }
       ]
@@ -6321,8 +6321,8 @@
           "b": "mevar/suis-moi",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.976,
-          "in_b": 0.974,
+          "in_a": 0.977,
+          "in_b": 0.976,
           "title": 0.333
         }
       ]
@@ -6381,8 +6381,8 @@
           "b": "onedrive/Exhortation_aout_2016",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.932,
-          "in_b": 0.933,
+          "in_a": 0.931,
+          "in_b": 0.932,
           "title": 1
         }
       ]
@@ -6455,7 +6455,7 @@
         {
           "id": "mevar/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps",
           "title": "Un message de la fin des temps pour une foi de la fin des temps",
-          "shingles": 4246,
+          "shingles": 4248,
           "ocr_tokens": 0
         },
         {
@@ -6471,8 +6471,8 @@
           "b": "onedrive/Exhortation_Mi-Aout_2016",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.935,
-          "in_b": 0.939,
+          "in_a": 0.929,
+          "in_b": 0.933,
           "title": 0
         }
       ]
@@ -6561,8 +6561,8 @@
           "b": "onedrive/Un peuple de sacrificateurs",
           "band": "same_sermon",
           "decision": null,
-          "in_a": 0.98,
-          "in_b": 0.878,
+          "in_a": 0.968,
+          "in_b": 0.868,
           "title": 1
         }
       ]
@@ -6591,8 +6591,8 @@
           "b": "onedrive/Exhortation_Fin_Aout_2017-pdf",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.93,
-          "in_b": 0.933,
+          "in_a": 0.926,
+          "in_b": 0.93,
           "title": 1
         }
       ]
@@ -6621,8 +6621,8 @@
           "b": "onedrive/exho_fin_aout_2012",
           "band": "same_sermon",
           "decision": null,
-          "in_a": 0.903,
-          "in_b": 0.9,
+          "in_a": 0.9,
+          "in_b": 0.896,
           "title": 1
         }
       ]
@@ -6711,7 +6711,7 @@
           "b": "mevar/voici-je-me-tiens-a-la-porte-et-je-frappe",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.951,
+          "in_a": 0.952,
           "in_b": 0.949,
           "title": 1
         }
@@ -6773,6 +6773,36 @@
           "decision": null,
           "in_a": 0.948,
           "in_b": 0.949,
+          "title": 1
+        }
+      ]
+    },
+    {
+      "keep": "onedrive/exhomai2007-la-guerre-de-liberation",
+      "rule": "edited by goal 10",
+      "held": null,
+      "members": [
+        {
+          "id": "onedrive/exhomai2007-la-guerre-de-liberation",
+          "title": "La guerre de libération",
+          "shingles": 6258,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/laguerre",
+          "title": "LA GUERRE DE LIBERATION",
+          "shingles": 6276,
+          "ocr_tokens": 0
+        }
+      ],
+      "pairs": [
+        {
+          "a": "onedrive/exhomai2007-la-guerre-de-liberation",
+          "b": "onedrive/laguerre",
+          "band": "same_text",
+          "decision": null,
+          "in_a": 0.906,
+          "in_b": 0.904,
           "title": 1
         }
       ]
@@ -7169,14 +7199,14 @@
       },
       "b": {
         "title": "Les téraphim et la mort de Rachel",
-        "excerpt": "## Exhortation de Novembre – Décembre 2019 Je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole de l’apôtre Paul aux Corinthiens: > **J'ai été dans le travail et dans la peine**, exposé à de nombreuses veilles, à la faim et à la soif, à des jeûnes multipliés, au froid et à la nudité. (2 Corinthiens 11:27) C’est ici les propos d’un serviteur de Dieu – un homme qui avait consacré toute sa vie à son appel, depuis le jour de la révélation de Christ jusqu’à sa mort. Paul ne fit plus cas de sa vie comme si elle lui était précieuse, mais il se consacra à la publication de l’Évangile du salut, la Parole de Dieu, qui est le Pain descendu du ciel pour tous les hommes. (Jean 6:41). Paul avait été dans le travail et dans la peine mes bien-aimés frères et sœurs. Et c’est ce travail qui l’avait souvent conduit dans les nombreuses veilles, c’est-à-dire qu’il avait souvent passé le temps éveillé, au lieu de dormir, pour prier ou pour prêcher la parole comme ce fut le cas dans Actes 20, où Eutychus tomba de la fenêtre alors qu’il fut pris par le sommeil, en écoutant le long discours de Paul. Cette nuit-là fut dédiée à la prédication de la Parole. Aujourd’hui, le Ministère de Paul, sa consécration, son combat et son zèle pour l’œuvre de Dieu devraient nous inspirer. L’amour que Paul avait pour le Seigneur et son œuvre devrait nous inspirer afin que nous soyons à la tâche dans la Mission divine. Nous pouvons constater que le travail et la peine dont Paul parle ici ne sont pas venus s’imposer à lui, mais sont plutôt liés à un appel de Dieu, auquel il avait répondu avec une bonne"
+        "excerpt": "## Exhortation de Novembre – Décembre 2019 Je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole de l’apôtre Paul aux Corinthiens: > **J'ai été dans le travail et dans la peine**, exposé à de nombreuses veilles, à la faim et à la soif, à des jeûnes multipliés, au froid et à la nudité. (2 Cor 11:27) C’est ici les propos d’un serviteur de Dieu – un homme qui avait consacré toute sa vie à son appel, depuis le jour de la révélation de Christ jusqu’à sa mort. Paul ne fit plus cas de sa vie comme si elle lui était précieuse, mais il se consacra à la publication de l’Évangile du salut, la Parole de Dieu, qui est le Pain descendu du ciel pour tous les hommes. (Jean 6:41). Paul avait été dans le travail et dans la peine mes bien-aimés frères et sœurs. Et c’est ce travail qui l’avait souvent conduit dans les nombreuses veilles, c’est-à-dire qu’il avait souvent passé le temps éveillé, au lieu de dormir, pour prier ou pour prêcher la parole comme ce fut le cas dans Actes 20, où Eutychus tomba de la fenêtre alors qu’il fut pris par le sommeil, en écoutant le long discours de Paul. Cette nuit-là fut dédiée à la prédication de la Parole. Aujourd’hui, le Ministère de Paul, sa consécration, son combat et son zèle pour l’œuvre de Dieu devraient nous inspirer. L’amour que Paul avait pour le Seigneur et son œuvre devrait nous inspirer afin que nous soyons à la tâche dans la Mission divine. Nous pouvons constater que le travail et la peine dont Paul parle ici ne sont pas venus s’imposer à lui, mais sont plutôt liés à un appel de Dieu, auquel il avait répondu avec une bonne"
       }
     },
     {
       "key": "mevar-pdfs/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel | mevar/la-position-de-sauveur",
       "decision": "different",
-      "in_a": 0.238,
-      "in_b": 0.275,
+      "in_a": 0.235,
+      "in_b": 0.272,
       "title": 0,
       "a": {
         "title": "LES TÉRAPHIM ET LA MORT DE RACHEL",
@@ -7184,7 +7214,7 @@
       },
       "b": {
         "title": "La position de sauveur",
-        "excerpt": "## Exhortation de Juillet 2019 Mes bien-aimés frères et sœurs, Que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans son amour. Je vous salue par cette Parole très bien connue de tous dans Jean le chapitre 3 les versets 14 à 17 et par cette prophétie que le Seigneur m’a donnée pour son peuple : Ainsi dit le Seigneur « _Ne soyez plus de simples hommes dans vos familles, mais prenez la position de sauveur. C’est ainsi que vous serez bénis. Ne soyez plus des accusateurs, mais prenez la position de sauveur_ ». _14 Et comme Moïse éleva le serpent dans le désert, il faut de même que le Fils de l’homme soit élevé, 15 afin que quiconque croit en lui ait la vie éternelle. 16 **Car Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu’il ait la vie éternelle**.17 Dieu, en effet, n’a pas envoyé son Fils dans le monde pour qu’il juge le monde, mais pour que le monde soit sauvé par lui._ (Jean 3:14-16) En fin d’année passée, cette écriture de Jean m’a habité pendant plusieurs jours alors que j’étais de retour d’un voyage missionnaire. _Car Dieu a tant aimé le monde qu’Il a donné son fils unique, afin que quiconque croit en lui ne périsse point, mais qu’il ait la vie éternelle._ Cette Parole avait rempli mon cœur alors que j’étais assis à l’aéroport de Lisbonne, regardant les voyageurs défiler dans tous les sens, courant par moment, pour ne pas rater le vol sur le point certainement de partir. Je voyageais moi aussi, mais où allions-nous ? Où allaient tous ces gens qui me dépassaient en courant ou en marchant rapidement ? Je ne"
+        "excerpt": "## Exhortation de Juillet 2019 Mes bien-aimés frères et sœurs, Que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans son amour. Je vous salue par cette Parole très bien connue de tous dans Jean le chapitre 3 les versets 14 à 17 et par cette prophétie que le Seigneur m’a donnée pour son peuple : Ainsi dit le Seigneur « _Ne soyez plus de simples hommes dans vos familles, mais prenez la position de sauveur. C’est ainsi que vous serez bénis. Ne soyez plus des accusateurs, mais prenez la position de sauveur_ ». _14 Et comme Moïse éleva le serpent dans le désert, il faut de même que le Fils de l’homme soit élevé, 15 afin que quiconque croit en lui ait la vie éternelle. 16 **Car Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu’il ait la vie éternelle**.17 Dieu, en effet, n’a pas envoyé son Fils dans le monde pour qu’il juge le monde, mais pour que le monde soit sauvé par lui._ (Jean 3 :14-16) En fin d’année passée, cette écriture de Jean m’a habité pendant plusieurs jours alors que j’étais de retour d’un voyage missionnaire. _Car Dieu a tant aimé le monde qu’Il a donné son fils unique, afin que quiconque croit en lui ne périsse point, mais qu’il ait la vie éternelle._ Cette Parole avait rempli mon cœur alors que j’étais assis à l’aéroport de Lisbonne, regardant les voyageurs défiler dans tous les sens, courant par moment, pour ne pas rater le vol sur le point certainement de partir. Je voyageais moi aussi, mais où allions-nous ? Où allaient tous ces gens qui me dépassaient en courant ou en marchant rapidement ? Je"
       }
     },
     {
@@ -7199,7 +7229,7 @@
       },
       "b": {
         "title": "L'éveil de l'homme spirituel pour le combat spirituel",
-        "excerpt": "> _**_**_**Ainsi, dès maintenant, nous ne connaissons plus personne selon la chair ; et si nous avons connu Christ selon la chair, maintenant nous le connaissons plus de cette manière.**_**_** _(2 Corinthiens 5:16)__ > _**Jésus répondit : en vérité, en vérité, je te le dis, si un homme ne nait d’eau et d’Esprit, il ne peut entrer dans le royaume de Dieu. Ce qui est de la chair est chair, ce qui est né de l’Esprit est esprit. Ne t’étonne pas que je t’aie dit : il faut que vous naissiez de nouveau. Le vent souffle où il veut, tu en entends le bruit ; mais tu ne sais d’où il vient, ni où il va. Il en est ainsi de tout homme qui est né de l’Esprit.** (_Jean 3:5-8) Je voudrais aborder dans ce traité, un sujet important concernant le réveil de l’homme spirituel pour le combat spirituel. Il y a, selon la Bible, un grand combat spirituel à mener à la fin des temps. Ce combat concerne l’Église qui est composée de l’ensemble des rachetés. De manière fondamentale, il y a une différence entre les hommes qui vivent sur la terre. Il existe selon la Bible deux types d’hommes. Les chrétiens qui sont nés de l’Esprit de Dieu et les hommes dits charnels qui ne connaissent pas Dieu. Les hommes naissent dans ce monde, selon la parole de Dieu qui est sortie depuis le jardin d’Éden dans le livre de la Genèse : Dieu _créa l’homme à son image, il le créa à l’image de Dieu, il créa l’homme et la femme. Dieu les bénit, et leur dit :_ > **_soyez féconds, multipliez, remplissez la terre, et assujettissez-la_** _; et dominez sur les poissons de la mer, sur les oiseaux du ciel, et sur tout animal qui se"
+        "excerpt": "> _**_**_**Ainsi, dès maintenant, nous ne connaissons plus personne selon la chair ; et si nous avons connu Christ selon la chair, maintenant nous le connaissons plus de cette manière.**_**_** _(2 Corinthiens 5 :16)__ > _**Jésus répondit : en vérité, en vérité, je te le dis, si un homme ne nait d’eau et d’Esprit, il ne peut entrer dans le royaume de Dieu. Ce qui est de la chair est chair, ce qui est né de l’Esprit est esprit. Ne t’étonne pas que je t’aie dit : il faut que vous naissiez de nouveau. Le vent souffle où il veut, tu en entends le bruit ; mais tu ne sais d’où il vient, ni où il va. Il en est ainsi de tout homme qui est né de l’Esprit.** (_Jean 3:5-8) Je voudrais aborder dans ce traité, un sujet important concernant le réveil de l’homme spirituel pour le combat spirituel. Il y a, selon la Bible, un grand combat spirituel à mener à la fin des temps. Ce combat concerne l’Église qui est composée de l’ensemble des rachetés. De manière fondamentale, il y a une différence entre les hommes qui vivent sur la terre. Il existe selon la Bible deux types d’hommes. Les chrétiens qui sont nés de l’Esprit de Dieu et les hommes dits charnels qui ne connaissent pas Dieu. Les hommes naissent dans ce monde, selon la parole de Dieu qui est sortie depuis le jardin d’Éden dans le livre de la Genèse : Dieu _créa l’homme à son image, il le créa à l’image de Dieu, il créa l’homme et la femme. Dieu les bénit, et leur dit :_ > **_soyez féconds, multipliez, remplissez la terre, et assujettissez-la_** _; et dominez sur les poissons de la mer, sur les oiseaux du ciel, et sur tout animal qui"
       }
     },
     {
@@ -7229,7 +7259,7 @@
       },
       "b": {
         "title": "Le royaume de Dieu",
-        "excerpt": "## Comprendre ses principes et son fonctionnement Le Royaume de Dieu ou encore le Royaume des cieux est un projet essentiel du Seigneur Jésus-Christ qu’il a accompli en venant sur la terre. Il est venu avec le salut pour les hommes, mais ce salut n’est pas en dehors du Royaume de Dieu. La nouvelle naissance nous introduit dans le Royaume de Dieu comme l’a expliqué Jésus à Nicodème. Le Royaumede Dieu apparaît alors comme la patrie du Chrétien. Le Chrétien vit dans le monde sur la terre, mais appartient à une patrie spirituelle qui est le Royaumede Dieu. Ce n’est pas après sa mort que le Chrétien entre dans le Royaume de Dieu mais il y est déjà par sa naissance spirituelle. L’Église de Jésus-Christ n’est pas en dehors du Royaume de Dieu. L’Église est une entité spirituelle composée de l’ensemble des rachetés; elle est en mission sur la terre pour le Seigneur au profit de l’humanité. Le Royaume de Dieu est aussi en partie sur la terre. Jésus a dit aux pharisiens :« On ne dira point : Il est ici, ou : Il est là. Car voici, le Royaume de Dieu est au milieu de vous. » (Luc 17:21) Jésus est venu dans le monde pour établir le Royaumede Dieu. A son ascension dans le Ciel, il n’a pas ôté le Royaume de Dieu de la terre car ses disciples l’avaient déjà reçu, et avaient pour mission de l’étendre à toutes les nations. L’Évangile c’est la Bonne Nouvelle du Royaume de Dieu. Écrire un exposé sur les mystères du Royaume s’est imposé à moi comme une nécessité dès le début du Ministère auquel le Seigneur m’a appelé. Il a commencé à se révéler à moi par rapport aux principes qui déterminent le fonctionnement de son Royaume. Il me"
+        "excerpt": "## Comprendre ses principes et son fonctionnement Le Royaume de Dieu ou encore le Royaume des cieux est un projet essentiel du Seigneur Jésus-Christ qu’il a accompli en venant sur la terre. Il est venu avec le salut pour les hommes, mais ce salut n’est pas en dehors du Royaume de Dieu. La nouvelle naissance nous introduit dans le Royaume de Dieu comme l’a expliqué Jésus à Nicodème. Le Royaumede Dieu apparaît alors comme la patrie du Chrétien. Le Chrétien vit dans le monde sur la terre, mais appartient à une patrie spirituelle qui est le Royaumede Dieu. Ce n’est pas après sa mort que le Chrétien entre dans le Royaume de Dieu mais il y est déjà par sa naissance spirituelle. L’Église de Jésus-Christ n’est pas en dehors du Royaume de Dieu. L’Église est une entité spirituelle composée de l’ensemble des rachetés; elle est en mission sur la terre pour le Seigneur au profit de l’humanité. Le Royaume de Dieu est aussi en partie sur la terre. Jésus a dit aux pharisiens :« On ne dira point : Il est ici, ou : Il est là. Car voici, le Royaume de Dieu est au milieu de vous. » (Luc 17 :21) Jésus est venu dans le monde pour établir le Royaumede Dieu. A son ascension dans le Ciel, il n’a pas ôté le Royaume de Dieu de la terre car ses disciples l’avaient déjà reçu, et avaient pour mission de l’étendre à toutes les nations. L’Évangile c’est la Bonne Nouvelle du Royaume de Dieu. Écrire un exposé sur les mystères du Royaume s’est imposé à moi comme une nécessité dès le début du Ministère auquel le Seigneur m’a appelé. Il a commencé à se révéler à moi par rapport aux principes qui déterminent le fonctionnement de son Royaume. Il"
       }
     },
     {
@@ -7250,23 +7280,23 @@
     {
       "key": "mevar-pdfs/sujets_de_priere_fin_mai_juin_2019 | onedrive/exho-mai_2019",
       "decision": "different",
-      "in_a": 0.39,
-      "in_b": 0.018,
+      "in_a": 0.371,
+      "in_b": 0.017,
       "title": 0,
       "a": {
         "title": "SUJETS DE PRIERE FIN MAI - JUIN",
         "excerpt": "SUJETS DE PRIERE FIN MAI - JUIN Nous aurons notre moment de prière du 27 au 31 Mai 2019. Que notre Dieu soit favorable à chacun de nous. 1. Continuons de prier que Dieu allume le feu de la prière dans nos cœurs, dans nos maisons et dans l’Assemblée ; 2. Prions et demandons à Dieu d’éveiller la conscience de l’Eglise sur les séductions de la tiédeur dans notre génération ; 3. Prions et demandons à Dieu de nous rendre sobre dans l’usage d’internet et des réseaux sociaux – que ces instruments de communication nous servent seulement pour notre combat dans le Royaume de Dieu ; 4. Prions et demandons à Dieu de nous délivrer de toutes les formes de distractions qui nous asservissent – Que l’esprit du peuple de Dieu soit ramené à la prière, au jeûne et au combat spirituel ; 5. Prions et demandons à Dieu d’établir sa crainte dans la vie des jeunes frères et sœurs de notre Assemblée – Qu’Il les conduise dans la chasteté, la pureté et la sainteté – Que les esprits de débauche sexuelle et de mondanité n’aient pas de place en leur milieu ; 6. Nous prions que les manifestations de Satan (impudicité, impureté sexuelle, pornographie, relation de fleurte entre frères et sœurs), dans la vie des jeunes frères et sœurs de l’Assemblée soient dévoilées et chassées au nom de Jésus-Christ – que le cœur des plus jeunes soit tourné vers la recherche de Dieu et de son Esprit ; 7. Nous prions que tous les projets de Satan contre les jeunes frères et sœurs de l’Assemblée soient dévoilés – Que le Seigneur délivre ceux qui sont déjà pris sous l’oppression de l’ennemi au nom de Jésus-Christ ;"
       },
       "b": {
-        "title": "MEDITONS LA PROPHETIE DE JOEL",
-        "excerpt": "## MEDITONS LA PROPHETIE DE JOEL *Exhortation de Mai 2019* Que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans son amour. Comme je vous l’ai déjà dit, nous avons entamé la dernière phase de l’œuvre de réveil de Minuit. Aujourd’hui tous les frères et sœurs en Christ devraient comprendre de manière très claire que c’est la prière qui va délivrer l’Eglise et rien d’autre. N’est-ce pas dans les prophéties de Joël que se trouve décrit le triste sort de l’Eglise de Laodicée telle que prêché par le prophète William Branham dans la restitution de l’Arbre de l’Epouse ? Racontez–le à vos enfants, Et que vos enfants le racontent à leurs enfants, Et leurs enfants à la génération qui suivra ! 4 Ce qu’a laissé le gazam, la sauterelle l’a dévoré ; Ce qu’a laissé la sauterelle, le jélek l’a dévoré ; Ce qu’a laissé le jélek, le hasil l’a dévoré. C’est progressivement que le diable a dépouillé l’Assemblée des Saints, de manière inaperçue au départ. De quoi l’a-t-il dépouillée ? Il l’a dépouillé de sa puissance, de son autorité et de ses dons. L’Eglise de Jésus-Christ au 21e siècle ressemble à une armée sans armement. Que peut-elle faire face à l’ennemi ? l’Eglise qui est l’Autorité suprême sur la terre est confondue au monde et est dans la confusion et la séduction des démons. Et à la vue de cette catastrophe, elle devrait pleurer comme il est écrit : 5 Réveillez–vous, ivrognes, et pleurez ! Vous tous, buveurs de vin, gémissez. Malheureusement, il est dit au sujet de Laodicée dans Apocalypse 3 qu’elle ne voit pas sa misère, elle ne sait même pas qu’elle est nue, pauvre et misérable. Je dois avouer que j’étais du nombre de ceux qui ne voyaient pas"
+        "title": "Méditons la prophétie de Joël",
+        "excerpt": "Que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans son amour. Comme je vous l’ai déjà dit, nous avons entamé la dernière phase de l’œuvre de réveil de Minuit. Aujourd’hui tous les frères et sœurs en Christ devraient comprendre de manière très claire que c’est la prière qui va délivrer l’Église et rien d’autre. N’est-ce pas dans les prophéties de Joël que se trouve décrit le triste sort de l’Église de Laodicée telle que prêchée par le prophète William Branham dans la restitution de l’Arbre de l’Épouse ? > Racontez-le à vos enfants, Et que vos enfants le racontent à leurs enfants, Et leurs enfants à la génération qui suivra ! **4** **Ce qu’a laissé le gazam, la sauterelle l’a dévoré ; Ce qu’a laissé la sauterelle, le jélek l’a dévoré ; Ce qu’a laissé le jélek, le hasil l’a dévoré**. C’est progressivement que le diable a dépouillé l’Assemblée des Saints, de manière inaperçue au départ. **De quoi l’a-t-il dépouillée ? Il l’a dépouillée de sa puissance, de son autorité et de ses dons**. L’Église de Jésus-Christ au 21e siècle ressemble à une armée sans armement. Que peut-elle faire face à l’ennemi ? L’Église qui est l’Autorité suprême sur la terre est confondue au monde et est dans la confusion et la séduction des démons. Et à la vue de cette catastrophe, elle devrait pleurer comme il est écrit : > **5** **Réveillez-vous, ivrognes, et pleurez** ! Vous tous, buveurs de vin, gémissez. Malheureusement, il est dit au sujet de Laodicée dans Apocalypse 3 qu’elle ne voit pas sa misère, elle ne sait même pas qu’elle est nue, pauvre et misérable. Je dois avouer que j’étais du nombre de ceux qui ne voyaient pas qu’ils étaient misérables, jusqu’à ce que Dieu commence"
       }
     },
     {
       "key": "mevar-pdfs/sujets_de_priere_juin_2019 | onedrive/Les_heritages_demoniaques",
       "decision": "different",
-      "in_a": 0.964,
-      "in_b": 0.106,
+      "in_a": 0.972,
+      "in_b": 0.107,
       "title": 0,
       "a": {
         "title": "Sujets de Prière de Juin",
@@ -7274,22 +7304,22 @@
       },
       "b": {
         "title": "Les héritages démoniaques",
-        "excerpt": "*Les héritages démoniaques, prêché le 1er Juin 2019 par le frère M'BRA Parfait* ## Les héritages démoniaques Le but de cette prédication est d’amener les uns et les autres à comprendre par les écritures que lorsqu’un être humain s’engage dans une alliance, un contrat ou un accord avec un esprit, que ce soit l’esprit de Dieu ou un esprit démoniaque, cette alliance ou cet accord devient un héritage pour sa descendance parce que les esprits ne meurent pas. Je vais essayer de vous démontrer la pérennité et la validité d’une telle alliance par les écritures. Je parlerai aussi de la position et de la qualité de celui qui conclut une telle alliance parce qu’il y a un rapport avec les effets. Celui qui conclut l’alliance peut être un Chef de famille, un Chef de tribu, un Chef d’Etat ou un Roi etc. Il peut être dans n’importe quelle position ou avoir n’importe quelle qualité. Donc l’influence de l’alliance est en fonction de la position du contractant. Si c’est un père de famille, l’influence de l’esprit avec lequel l’alliance a été conclue reste dans le cadre familial. Si c’est un Chef de tribu ou un roi, l’influence de cet esprit va jouer sur toute la tribu ou sur tous les ressortissants du Royaume. C’est pour cette raison que tous les peuples n’ont pas les mêmes comportements, ni les mêmes cultures. C’est de cela qu’on va parler. Et à la fin on verra comment en Jésus-Christ on peut sortir de ces choses. Il faut dire que par manque de connaissance, les chrétiens ne comprennent pas ces choses et c’est souvent à l’origine de beaucoup de souffrances. Je vais donc expliquer ces choses et nous allons prier par rapport à cela. La première écriture que nous allons considérer se trouve dans Genèse, donc"
+        "excerpt": "Les héritages démoniaques. **Le but de cette prédication est d’amener les uns et les autres à comprendre par les Écritures que lorsqu’un être humain s’engage dans une alliance, un contrat ou un accord avec un esprit, que ce soit l’esprit de Dieu ou un esprit démoniaque, cette alliance ou cet accord devient un héritage pour sa descendance parce que les esprits ne meurent pas**. Je vais essayer de vous démontrer la pérennité et la validité d’une telle alliance par les Écritures. Je parlerai aussi de la position et de la qualité de celui qui conclut une telle alliance parce qu’il y a un rapport avec les effets. **Celui qui conclut l’alliance peut être un Chef de famille, un Chef de tribu, un Chef d’État ou un Roi** etc. Il peut être dans n’importe quelle position ou avoir n’importe quelle qualité. **Donc l’influence de l’alliance est en fonction de la position du contractant**. Si c’est un père de famille, l’influence de l’esprit avec lequel l’alliance a été conclue reste dans le cadre familial. Si c’est un Chef de tribu ou un roi, l’influence de cet esprit va jouer sur toute la tribu ou sur tous les ressortissants du Royaume. **C’est pour cette raison que tous les peuples n’ont pas les mêmes comportements, ni les mêmes cultures**. C’est de cela qu’on va parler. Et à la fin on verra comment en Jésus-Christ on peut sortir de ces choses. Il faut dire que par manque de connaissance, les chrétiens ne comprennent pas ces choses et c’est souvent à l’origine de beaucoup de souffrances. Je vais donc expliquer ces choses et nous allons prier par rapport à cela. La première écriture que nous allons considérer se trouve dans Genèse, donc on va au commencement de la création. (Gen 2 :15) > **15** L’Éternel Dieu"
       }
     },
     {
       "key": "mevar/juin-2019 | onedrive/Les_heritages_demoniaques",
       "decision": "different",
       "in_a": 0.93,
-      "in_b": 0.106,
+      "in_b": 0.107,
       "title": 0,
       "a": {
         "title": "Juin 2019",
-        "excerpt": "## Sujets de prière Le sujet de notre prière concerne les héritages démoniaques. Les alliances spirituelles contractées par nos pères qui nous influencent encore. Nous aurons notre moment de prière du **24 au 28 Juin 2019**. En effet, Il existe plusieurs sortes d’héritages spirituels dans la vie du peuple de Dieu. Nous prions pour nous-mêmes et pour nos familles. En tant qu’héritiers, nous avons le pouvoir de détruire toute alliance spirituelle contractée par nos pères. Nous avons également le pouvoir de faire cesser toute malédiction liée à une abomination ou à un péché commis par nos pères. Par exemple les moabites sont sous une malédiction à cause de l’abomination que les filles de Lot avaient commise avec leur père. (Genèse 19:33-37) Il existe ainsi des familles qui sont dans ces liens. Il y a aussi des héritages d’adoration, de culte qui ont appelé des esprits dans nos parentés. C’est la malédiction. **Nous ne pouvons pas être bénis de manière isolée et avoir une parenté placée encore sous la malédiction.** Si nous sommes du sel et de la lumière dans ce monde et si le Seigneur nous a suscités dans une famille, nous avons le devoir de nous affranchir et d’affranchir notre parenté. - Prions pour détruire l’héritage de la sorcellerie - Prions pour détruire l’héritage de la maladie (les maladies héréditaires) - Prions pour briser la puissance du démon qui a pris en otage notre famille – qui l’influence et qui bloque la vie de tous ses membres, par diverses manifestations. - Prions pour faire cesser le culte des démons qu’on a reçu en héritage dans nos familles respectives. Même si nous ne prenons plus part à ses adorations, notre responsabilité est de détruire ce pieu sacré de la famille, comme cela a été dit à Gédéon. (Juges 6:25) -"
+        "excerpt": "## Sujets de prière Le sujet de notre prière concerne les héritages démoniaques. Les alliances spirituelles contractées par nos pères qui nous influencent encore. Nous aurons notre moment de prière du **24 au 28 Juin 2019**. En effet, Il existe plusieurs sortes d’héritages spirituels dans la vie du peuple de Dieu. Nous prions pour nous-mêmes et pour nos familles. En tant qu’héritiers, nous avons le pouvoir de détruire toute alliance spirituelle contractée par nos pères. Nous avons également le pouvoir de faire cesser toute malédiction liée à une abomination ou à un péché commis par nos pères. Par exemple les moabites sont sous une malédiction à cause de l’abomination que les filles de Lot avaient commise avec leur père. (Gen 19:33-37) Il existe ainsi des familles qui sont dans ces liens. Il y a aussi des héritages d’adoration, de culte qui ont appelé des esprits dans nos parentés. C’est la malédiction. **Nous ne pouvons pas être bénis de manière isolée et avoir une parenté placée encore sous la malédiction.** Si nous sommes du sel et de la lumière dans ce monde et si le Seigneur nous a suscités dans une famille, nous avons le devoir de nous affranchir et d’affranchir notre parenté. - Prions pour détruire l’héritage de la sorcellerie - Prions pour détruire l’héritage de la maladie (les maladies héréditaires) - Prions pour briser la puissance du démon qui a pris en otage notre famille – qui l’influence et qui bloque la vie de tous ses membres, par diverses manifestations. - Prions pour faire cesser le culte des démons qu’on a reçu en héritage dans nos familles respectives. Même si nous ne prenons plus part à ses adorations, notre responsabilité est de détruire ce pieu sacré de la famille, comme cela a été dit à Gédéon. (Juges 6:25) -"
       },
       "b": {
         "title": "Les héritages démoniaques",
-        "excerpt": "*Les héritages démoniaques, prêché le 1er Juin 2019 par le frère M'BRA Parfait* ## Les héritages démoniaques Le but de cette prédication est d’amener les uns et les autres à comprendre par les écritures que lorsqu’un être humain s’engage dans une alliance, un contrat ou un accord avec un esprit, que ce soit l’esprit de Dieu ou un esprit démoniaque, cette alliance ou cet accord devient un héritage pour sa descendance parce que les esprits ne meurent pas. Je vais essayer de vous démontrer la pérennité et la validité d’une telle alliance par les écritures. Je parlerai aussi de la position et de la qualité de celui qui conclut une telle alliance parce qu’il y a un rapport avec les effets. Celui qui conclut l’alliance peut être un Chef de famille, un Chef de tribu, un Chef d’Etat ou un Roi etc. Il peut être dans n’importe quelle position ou avoir n’importe quelle qualité. Donc l’influence de l’alliance est en fonction de la position du contractant. Si c’est un père de famille, l’influence de l’esprit avec lequel l’alliance a été conclue reste dans le cadre familial. Si c’est un Chef de tribu ou un roi, l’influence de cet esprit va jouer sur toute la tribu ou sur tous les ressortissants du Royaume. C’est pour cette raison que tous les peuples n’ont pas les mêmes comportements, ni les mêmes cultures. C’est de cela qu’on va parler. Et à la fin on verra comment en Jésus-Christ on peut sortir de ces choses. Il faut dire que par manque de connaissance, les chrétiens ne comprennent pas ces choses et c’est souvent à l’origine de beaucoup de souffrances. Je vais donc expliquer ces choses et nous allons prier par rapport à cela. La première écriture que nous allons considérer se trouve dans Genèse, donc"
+        "excerpt": "Les héritages démoniaques. **Le but de cette prédication est d’amener les uns et les autres à comprendre par les Écritures que lorsqu’un être humain s’engage dans une alliance, un contrat ou un accord avec un esprit, que ce soit l’esprit de Dieu ou un esprit démoniaque, cette alliance ou cet accord devient un héritage pour sa descendance parce que les esprits ne meurent pas**. Je vais essayer de vous démontrer la pérennité et la validité d’une telle alliance par les Écritures. Je parlerai aussi de la position et de la qualité de celui qui conclut une telle alliance parce qu’il y a un rapport avec les effets. **Celui qui conclut l’alliance peut être un Chef de famille, un Chef de tribu, un Chef d’État ou un Roi** etc. Il peut être dans n’importe quelle position ou avoir n’importe quelle qualité. **Donc l’influence de l’alliance est en fonction de la position du contractant**. Si c’est un père de famille, l’influence de l’esprit avec lequel l’alliance a été conclue reste dans le cadre familial. Si c’est un Chef de tribu ou un roi, l’influence de cet esprit va jouer sur toute la tribu ou sur tous les ressortissants du Royaume. **C’est pour cette raison que tous les peuples n’ont pas les mêmes comportements, ni les mêmes cultures**. C’est de cela qu’on va parler. Et à la fin on verra comment en Jésus-Christ on peut sortir de ces choses. Il faut dire que par manque de connaissance, les chrétiens ne comprennent pas ces choses et c’est souvent à l’origine de beaucoup de souffrances. Je vais donc expliquer ces choses et nous allons prier par rapport à cela. La première écriture que nous allons considérer se trouve dans Genèse, donc on va au commencement de la création. (Gen 2 :15) > **15** L’Éternel Dieu"
       }
     },
     {
@@ -7315,7 +7345,7 @@
       "title": 1,
       "a": {
         "title": "La parabole des talents",
-        "excerpt": "Alors on remercie le Seigneur pour le rassemblement de ce matin. Je voudrais qu’on s’entretienne sur la parabole des talents. C’est un sujet que j’ai déjà évoqué ici une année, il y a longtemps. Je voudrais revenir là-dessus avec de nouvelles pensées. Amen ! Donc nous allons déjà lire dans Mathieu chapitre 24 le verset 9 : > Alors on vous livrera aux tourments, et l’on vous fera mourir ; et vous serez haïs de toutes les nations, à cause de mon Nombres 10 Alors aussi plusieurs succomberont, et ils se trahiront, se haïront les uns les autres. 11 Plusieurs faux prophètes s’élèveront, et ils séduiront beaucoup de gens. 12 Et, parce que l’iniquité se sera accrue, la charité du plus grand nombre se refroidira. 13 Mais celui qui persévérera jusqu’à la fin sera sauvé. **14 Cette bonne nouvelle du royaume sera prêchée dans le monde entier, pour servir de témoignage à toutes les nations. Alors viendra la fin.** Maintenant on vient dans Mathieu chapitre 25. On lit à partir du verset 14 : > 14 Il en sera comme d’un homme qui, partant pour un voyage, appela ses serviteurs, et leur remit ses biens. 15 Il donna cinq talents à l’un, deux à l’autre, et un au troisième, à chacun selon sa capacité, et il partit. Aussitôt 16 celui qui avait reçu les cinq talents s’en alla, les fit valoir, et il gagna cinq autres talents. 17 De même, celui qui avait reçu les deux talents en gagna deux autres. 18 Celui qui n’en avait reçu qu’un alla faire un creux dans la terre, et cacha l’argent de son maître. 19 Longtemps après, le maître de ces serviteurs revint, et leur fit rendre compte. > 20 Celui qui avait reçu les cinq talents s’approcha, en apportant cinq autres talents,"
+        "excerpt": "Alors on remercie le Seigneur pour le rassemblement de ce matin. Je voudrais qu’on s’entretienne sur la parabole des talents. C’est un sujet que j’ai déjà évoqué ici une année, il y a longtemps. Je voudrais revenir là-dessus avec de nouvelles pensées. Amen ! Donc nous allons déjà lire dans Mathieu chapitre 24 le verset 9 : > Alors on vous livrera aux tourments, et l’on vous fera mourir ; et vous serez haïs de toutes les nations, à cause de mon nom. 10 Alors aussi plusieurs succomberont, et ils se trahiront, se haïront les uns les autres. 11 Plusieurs faux prophètes s’élèveront, et ils séduiront beaucoup de gens. 12 Et, parce que l’iniquité se sera accrue, la charité du plus grand nombre se refroidira. 13 Mais celui qui persévérera jusqu’à la fin sera sauvé. **14 Cette bonne nouvelle du royaume sera prêchée dans le monde entier, pour servir de témoignage à toutes les nations. Alors viendra la fin.** Maintenant on vient dans Mathieu chapitre 25. On lit à partir du verset 14 : > 14 Il en sera comme d’un homme qui, partant pour un voyage, appela ses serviteurs, et leur remit ses biens. 15 Il donna cinq talents à l’un, deux à l’autre, et un au troisième, à chacun selon sa capacité, et il partit. Aussitôt 16 celui qui avait reçu les cinq talents s’en alla, les fit valoir, et il gagna cinq autres talents. 17 De même, celui qui avait reçu les deux talents en gagna deux autres. 18 Celui qui n’en avait reçu qu’un alla faire un creux dans la terre, et cacha l’argent de son maître. 19 Longtemps après, le maître de ces serviteurs revint, et leur fit rendre compte. > 20 Celui qui avait reçu les cinq talents s’approcha, en apportant cinq autres talents,"
       },
       "b": {
         "title": "La parabole des talents",
@@ -7340,12 +7370,12 @@
     {
       "key": "mevar/le-mariage-et-les-peches-du-sexe | onedrive/le_mariage_et_les_peches_du_sexe",
       "decision": "different",
-      "in_a": 0.969,
+      "in_a": 0.966,
       "in_b": 0.066,
       "title": 1,
       "a": {
         "title": "Le mariage et les péchés du sexe",
-        "excerpt": "## Introduction Générale Le mariage est un sujet biblique important dans l’Église de Jésus-Christ parce qu’il est en relation directe avec plusieurs péchés. **Les opinions sont diverses sur le sujet, parce que chacun va son chemin en suivant ses propres pensées perverties par le péché ou en s’attachant aux traditions mondaines.** Cependant, il importe de rappeler que **Dieu se trouve avant les coutumes et les traditions mondaines. Dieu est à l’origine du mariage, c’est pourquoi, il ne peut pas ne pas exister de loi divine sur le mariage.** Il existe un modèle divin sur le mariage. Au sujet des modèles bibliques, Dieu dit à Moïse : **_Regarde et fais selon le modèle qui t’est montré sur la montagne_** (Exode 25:40). Le même Dieu dit à Moïse : **_Tu dresseras le tabernacle d’après le modèle qui t’est montré sur la montagne_** (Exode 26:30). Le tabernacle qui était le lieu d’adoration devait être dressé par Moïse d’après le modèle céleste qu’il avait vu. **De même, en Christ, il existe un modèle céleste pour tous les sujets bibliques. Le mariage est chrétien. C’est pourquoi chacun doit retrouver le modèle biblique sur ce sujet dans sa marche avec le Seigneur.** Il faut admettre que sur ce sujet, les influences mondaines ont envahi l’Église. Le monde et sa convoitise ont envahi l’Église sur la question du mariage. Le mariage chrétien est plein du monde. **La vie dans les foyers chrétiens est pleine du monde. Et le prétexte que nous avons souvent trouvé ensemble est qu’il n’existe pas de doctrine** ******particulière sur le sujet du mariage dans les Saintes Écritures. Mais si Dieu a laissé le****** **sujet du mariage sans doctrine, cela veut dire qu’il aurait légalisé les péchés du sexe, à commencer par l’adultère et l’impudicité.** Or, il n’en n’est pas ainsi. **Il existe une"
+        "excerpt": "## Introduction Générale Le mariage est un sujet biblique important dans l’Église de Jésus-Christ parce qu’il est en relation directe avec plusieurs péchés. **Les opinions sont diverses sur le sujet, parce que chacun va son chemin en suivant ses propres pensées perverties par le péché ou en s’attachant aux traditions mondaines.** Cependant, il importe de rappeler que **Dieu se trouve avant les coutumes et les traditions mondaines. Dieu est à l’origine du mariage, c’est pourquoi, il ne peut pas ne pas exister de loi divine sur le mariage.** Il existe un modèle divin sur le mariage. Au sujet des modèles bibliques, Dieu dit à Moïse : **_Regarde et fais selon le modèle qui t’est montré sur la montagne_** (Ex 25 :40). Le même Dieu dit à Moïse : **_Tu dresseras le tabernacle d’après le modèle qui t’est montré sur la montagne_** (Ex 26 :30). Le tabernacle qui était le lieu d’adoration devait être dressé par Moïse d’après le modèle céleste qu’il avait vu. **De même, en Christ, il existe un modèle céleste pour tous les sujets bibliques. Le mariage est chrétien. C’est pourquoi chacun doit retrouver le modèle biblique sur ce sujet dans sa marche avec le Seigneur.** Il faut admettre que sur ce sujet, les influences mondaines ont envahi l’Église. Le monde et sa convoitise ont envahi l’Église sur la question du mariage. Le mariage chrétien est plein du monde. **La vie dans les foyers chrétiens est pleine du monde. Et le prétexte que nous avons souvent trouvé ensemble est qu’il n’existe pas de doctrine** ******particulière sur le sujet du mariage dans les Saintes Écritures. Mais si Dieu a laissé le****** **sujet du mariage sans doctrine, cela veut dire qu’il aurait légalisé les péchés du sexe, à commencer par l’adultère et l’impudicité.** Or, il n’en n’est pas ainsi. **Il"
       },
       "b": {
         "title": "Le Mariage et les Péchés du Sexe",
@@ -7355,12 +7385,12 @@
     {
       "key": "mevar/le-mariage-et-les-peches-du-sexe | onedrive/mariage_final_pdf",
       "decision": "different",
-      "in_a": 0.97,
+      "in_a": 0.967,
       "in_b": 0.066,
       "title": 1,
       "a": {
         "title": "Le mariage et les péchés du sexe",
-        "excerpt": "## Introduction Générale Le mariage est un sujet biblique important dans l’Église de Jésus-Christ parce qu’il est en relation directe avec plusieurs péchés. **Les opinions sont diverses sur le sujet, parce que chacun va son chemin en suivant ses propres pensées perverties par le péché ou en s’attachant aux traditions mondaines.** Cependant, il importe de rappeler que **Dieu se trouve avant les coutumes et les traditions mondaines. Dieu est à l’origine du mariage, c’est pourquoi, il ne peut pas ne pas exister de loi divine sur le mariage.** Il existe un modèle divin sur le mariage. Au sujet des modèles bibliques, Dieu dit à Moïse : **_Regarde et fais selon le modèle qui t’est montré sur la montagne_** (Exode 25:40). Le même Dieu dit à Moïse : **_Tu dresseras le tabernacle d’après le modèle qui t’est montré sur la montagne_** (Exode 26:30). Le tabernacle qui était le lieu d’adoration devait être dressé par Moïse d’après le modèle céleste qu’il avait vu. **De même, en Christ, il existe un modèle céleste pour tous les sujets bibliques. Le mariage est chrétien. C’est pourquoi chacun doit retrouver le modèle biblique sur ce sujet dans sa marche avec le Seigneur.** Il faut admettre que sur ce sujet, les influences mondaines ont envahi l’Église. Le monde et sa convoitise ont envahi l’Église sur la question du mariage. Le mariage chrétien est plein du monde. **La vie dans les foyers chrétiens est pleine du monde. Et le prétexte que nous avons souvent trouvé ensemble est qu’il n’existe pas de doctrine** ******particulière sur le sujet du mariage dans les Saintes Écritures. Mais si Dieu a laissé le****** **sujet du mariage sans doctrine, cela veut dire qu’il aurait légalisé les péchés du sexe, à commencer par l’adultère et l’impudicité.** Or, il n’en n’est pas ainsi. **Il existe une"
+        "excerpt": "## Introduction Générale Le mariage est un sujet biblique important dans l’Église de Jésus-Christ parce qu’il est en relation directe avec plusieurs péchés. **Les opinions sont diverses sur le sujet, parce que chacun va son chemin en suivant ses propres pensées perverties par le péché ou en s’attachant aux traditions mondaines.** Cependant, il importe de rappeler que **Dieu se trouve avant les coutumes et les traditions mondaines. Dieu est à l’origine du mariage, c’est pourquoi, il ne peut pas ne pas exister de loi divine sur le mariage.** Il existe un modèle divin sur le mariage. Au sujet des modèles bibliques, Dieu dit à Moïse : **_Regarde et fais selon le modèle qui t’est montré sur la montagne_** (Ex 25 :40). Le même Dieu dit à Moïse : **_Tu dresseras le tabernacle d’après le modèle qui t’est montré sur la montagne_** (Ex 26 :30). Le tabernacle qui était le lieu d’adoration devait être dressé par Moïse d’après le modèle céleste qu’il avait vu. **De même, en Christ, il existe un modèle céleste pour tous les sujets bibliques. Le mariage est chrétien. C’est pourquoi chacun doit retrouver le modèle biblique sur ce sujet dans sa marche avec le Seigneur.** Il faut admettre que sur ce sujet, les influences mondaines ont envahi l’Église. Le monde et sa convoitise ont envahi l’Église sur la question du mariage. Le mariage chrétien est plein du monde. **La vie dans les foyers chrétiens est pleine du monde. Et le prétexte que nous avons souvent trouvé ensemble est qu’il n’existe pas de doctrine** ******particulière sur le sujet du mariage dans les Saintes Écritures. Mais si Dieu a laissé le****** **sujet du mariage sans doctrine, cela veut dire qu’il aurait légalisé les péchés du sexe, à commencer par l’adultère et l’impudicité.** Or, il n’en n’est pas ainsi. **Il"
       },
       "b": {
         "title": "Le Mariage et les Péchés du Sexe",
@@ -7375,7 +7405,7 @@
       "title": 0.571,
       "a": {
         "title": "Les 5 ministères de la Parole",
-        "excerpt": "La question de l’exercice des cinq Ministères de la Parole dans l’Église est l’un des thèmes les plus importants pour notre époque. Comme le précise Éphésiens 4 dans les versets 10 à 13, le but des cinq Ministères est d’amener à la perfection les enfants de Dieu par le moyen de la prédication. > \\[_…\\] jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ._ (Éphésiens 4:13) Ce passage indique clairement que le travail des Ministres ne doit pas s’arrêter ou même être relégué au second plan avant que le but du Seigneur ne soit atteint. C’est là que se trouve toute l’importance du thème traité dans cet ouvrage pour le temps dans lequel nous sommes maintenant. Ce livre, avec la grâce du Seigneur, devrait alerter les Ministres de la Parole de l’urgence de l’heure, afin qu’ils exploitent les talents qu’ils ont reçus du Seigneur au profit de l’Église. Ces talents ne sont pas pour eux-mêmes mais pour l’Église. L’ouvrage s’adresse à toute l’Église de manière générale, aux Ministres de la Parole en particulier et à ceux d’entre eux qui sont encore timorés par la crainte, la honte ou tout autre blocage lié à eux-mêmes ou à leur environnement. Qu’ils sachent que l’ennemi travaillera toujours dans le sens de les empêcher de répondre à l’appel du Seigneur par toutes sortes d’intimidations. Car, ce n’est pas dans son intérêt que les Ministres de Dieu se mettent au travail dans l’Église. L’appel est individuel et c’est le Seigneur qui appelle à l’œuvre. C’est également à lui que chacun rendra compte de l’usage des talents qu’il a reçus du Seigneur. On ne rendra pas compte à un frère ni à"
+        "excerpt": "La question de l’exercice des cinq Ministères de la Parole dans l’Église est l’un des thèmes les plus importants pour notre époque. Comme le précise Éphésiens 4 dans les versets 10 à 13, le but des cinq Ministères est d’amener à la perfection les enfants de Dieu par le moyen de la prédication. > \\[_…\\] jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ._ (Éphésiens. 4:13) Ce passage indique clairement que le travail des Ministres ne doit pas s’arrêter ou même être relégué au second plan avant que le but du Seigneur ne soit atteint. C’est là que se trouve toute l’importance du thème traité dans cet ouvrage pour le temps dans lequel nous sommes maintenant. Ce livre, avec la grâce du Seigneur, devrait alerter les Ministres de la Parole de l’urgence de l’heure, afin qu’ils exploitent les talents qu’ils ont reçus du Seigneur au profit de l’Église. Ces talents ne sont pas pour eux-mêmes mais pour l’Église. L’ouvrage s’adresse à toute l’Église de manière générale, aux Ministres de la Parole en particulier et à ceux d’entre eux qui sont encore timorés par la crainte, la honte ou tout autre blocage lié à eux-mêmes ou à leur environnement. Qu’ils sachent que l’ennemi travaillera toujours dans le sens de les empêcher de répondre à l’appel du Seigneur par toutes sortes d’intimidations. Car, ce n’est pas dans son intérêt que les Ministres de Dieu se mettent au travail dans l’Église. L’appel est individuel et c’est le Seigneur qui appelle à l’œuvre. C’est également à lui que chacun rendra compte de l’usage des talents qu’il a reçus du Seigneur. On ne rendra pas compte à un frère ni à"
       },
       "b": {
         "title": "Les 5 Ministères de la Parole dans la vision des temps de la fin",
@@ -7390,7 +7420,7 @@
       "title": 0.5,
       "a": {
         "title": "Les 5 ministères de la Parole",
-        "excerpt": "La question de l’exercice des cinq Ministères de la Parole dans l’Église est l’un des thèmes les plus importants pour notre époque. Comme le précise Éphésiens 4 dans les versets 10 à 13, le but des cinq Ministères est d’amener à la perfection les enfants de Dieu par le moyen de la prédication. > \\[_…\\] jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ._ (Éphésiens 4:13) Ce passage indique clairement que le travail des Ministres ne doit pas s’arrêter ou même être relégué au second plan avant que le but du Seigneur ne soit atteint. C’est là que se trouve toute l’importance du thème traité dans cet ouvrage pour le temps dans lequel nous sommes maintenant. Ce livre, avec la grâce du Seigneur, devrait alerter les Ministres de la Parole de l’urgence de l’heure, afin qu’ils exploitent les talents qu’ils ont reçus du Seigneur au profit de l’Église. Ces talents ne sont pas pour eux-mêmes mais pour l’Église. L’ouvrage s’adresse à toute l’Église de manière générale, aux Ministres de la Parole en particulier et à ceux d’entre eux qui sont encore timorés par la crainte, la honte ou tout autre blocage lié à eux-mêmes ou à leur environnement. Qu’ils sachent que l’ennemi travaillera toujours dans le sens de les empêcher de répondre à l’appel du Seigneur par toutes sortes d’intimidations. Car, ce n’est pas dans son intérêt que les Ministres de Dieu se mettent au travail dans l’Église. L’appel est individuel et c’est le Seigneur qui appelle à l’œuvre. C’est également à lui que chacun rendra compte de l’usage des talents qu’il a reçus du Seigneur. On ne rendra pas compte à un frère ni à"
+        "excerpt": "La question de l’exercice des cinq Ministères de la Parole dans l’Église est l’un des thèmes les plus importants pour notre époque. Comme le précise Éphésiens 4 dans les versets 10 à 13, le but des cinq Ministères est d’amener à la perfection les enfants de Dieu par le moyen de la prédication. > \\[_…\\] jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ._ (Éphésiens. 4:13) Ce passage indique clairement que le travail des Ministres ne doit pas s’arrêter ou même être relégué au second plan avant que le but du Seigneur ne soit atteint. C’est là que se trouve toute l’importance du thème traité dans cet ouvrage pour le temps dans lequel nous sommes maintenant. Ce livre, avec la grâce du Seigneur, devrait alerter les Ministres de la Parole de l’urgence de l’heure, afin qu’ils exploitent les talents qu’ils ont reçus du Seigneur au profit de l’Église. Ces talents ne sont pas pour eux-mêmes mais pour l’Église. L’ouvrage s’adresse à toute l’Église de manière générale, aux Ministres de la Parole en particulier et à ceux d’entre eux qui sont encore timorés par la crainte, la honte ou tout autre blocage lié à eux-mêmes ou à leur environnement. Qu’ils sachent que l’ennemi travaillera toujours dans le sens de les empêcher de répondre à l’appel du Seigneur par toutes sortes d’intimidations. Car, ce n’est pas dans son intérêt que les Ministres de Dieu se mettent au travail dans l’Église. L’appel est individuel et c’est le Seigneur qui appelle à l’œuvre. C’est également à lui que chacun rendra compte de l’usage des talents qu’il a reçus du Seigneur. On ne rendra pas compte à un frère ni à"
       },
       "b": {
         "title": "Les Cinq Ministères de la Parole dans la vision des temps de la fin",
@@ -7400,12 +7430,12 @@
     {
       "key": "mevar/lesprit-babylonien-exhortation | onedrive/babylonien",
       "decision": "different",
-      "in_a": 0.91,
-      "in_b": 0.04,
+      "in_a": 0.9,
+      "in_b": 0.039,
       "title": 1,
       "a": {
         "title": "L'esprit babylonien",
-        "excerpt": "## Exhortation du mois de novembre 2006 Je voudrais saluer les usagers de notre site à tous par ces Paroles de Jérémie. > **_Fuyez de Babylone_**_, et que_ **_chacun sauve sa vie_**_, De peur que vous ne périssiez dans sa ruine ! Car c’est_ **_un temps de vengeance pour l’Éternel;_** _Il va lui rendre selon ses œuvres_. (Jérémie 51:6) Mes bien-aimés frères et sœurs, c’est un appel pressant à fuir Babylone, et vous savez que c’est **le Message de l’he**u**re.** Fuyez Babylone pour sauver votre vie, parce que Babylone est vouée à la condamnation de l’Éternel. Aujourd’hui, nous pouvons tous constater, avec la situation lamentable de l’Église, que l’appel à sortir n’a pas été bien entendu. Certes, nous avons quitté les dénominations, mais nous ne sommes pas sortis de Babylone, car Babylone, ce n’est pas seulement les dénominations, mais c’est un esprit – l’esprit du péché et de la religion – l’esprit de l’idolâtrie et du culte de la personnalité. Nébukadnetsar, roi de Babylone, a érigé une statue et a demandé qu’on l’adore. (Daniel 3). Heureusement que les juifs ont refusé de le faire. Et nous avons fabriqué notre dénomination qu’on appelle « **le Message** » Notre combat aujourd’hui est de sortir de cette nouvelle religion pour nous attacher à notre Époux qui vient bientôt nous chercher. En effet, nous n’avons pas quitté les dénominations pour former une nouvelle religion. **Mes bien-aimés, notre exode continu. Fuyons le nouveau quartier de Babylone appelé « le Message » pour nous attacher au Seigneur dans la Puissance du Saint-Esprit**. Nous n’avons pas quitté les fausses doctrines pour venir créer de nouvelles doctrines dans le Message du temps de la fin. **Nous n’avons pas quitté les assemblées mortes des religions pour venir créer de nouvelles assemblées en dehors de la Puissance du Saint-Esprit.** Au"
+        "excerpt": "## Exhortation du mois de novembre 2006 Je voudrais saluer les usagers de notre site à tous par ces Paroles de Jérémie. > **_Fuyez de Babylone_**_, et que_ **_chacun sauve sa vie_**_, De peur que vous ne périssiez dans sa ruine ! Car c’est_ **_un temps de vengeance pour l’Éternel;_** _Il va lui rendre selon ses œuvres_. (Jérémie 51:6) Mes bien-aimés frères et sœurs, c’est un appel pressant à fuir Babylone, et vous savez que c’est **le Message de l’he**u**re.** Fuyez Babylone pour sauver votre vie, parce que Babylone est vouée à la condamnation de l’Éternel. Aujourd’hui, nous pouvons tous constater, avec la situation lamentable de l’Église, que l’appel à sortir n’a pas été bien entendu. Certes, nous avons quitté les dénominations, mais nous ne sommes pas sortis de Babylone, car Babylone, ce n’est pas seulement les dénominations, mais c’est un esprit – l’esprit du péché et de la religion – l’esprit de l’idolâtrie et du culte de la personnalité. Nébukadnetsar, roi de Babylone, a érigé une statue et a demandé qu’on l’adore. (Dan 3). Heureusement que les juifs ont refusé de le faire. Et nous avons fabriqué notre dénomination qu’on appelle « **le Message** » Notre combat aujourd’hui est de sortir de cette nouvelle religion pour nous attacher à notre Époux qui vient bientôt nous chercher. En effet, nous n’avons pas quitté les dénominations pour former une nouvelle religion. **Mes bien-aimés, notre exode continu. Fuyons le nouveau quartier de Babylone appelé « le Message » pour nous attacher au Seigneur dans la Puissance du Saint-Esprit**. Nous n’avons pas quitté les fausses doctrines pour venir créer de nouvelles doctrines dans le Message du temps de la fin. **Nous n’avons pas quitté les assemblées mortes des religions pour venir créer de nouvelles assemblées en dehors de la Puissance du Saint-Esprit.** Au"
       },
       "b": {
         "title": "L'ESPRIT BABYLONIEN",
@@ -7415,16 +7445,16 @@
     {
       "key": "mevar/mai-juin-2019 | onedrive/exho-mai_2019",
       "decision": "different",
-      "in_a": 0.372,
-      "in_b": 0.018,
+      "in_a": 0.354,
+      "in_b": 0.017,
       "title": 0,
       "a": {
         "title": "Mai - Juin 2019",
         "excerpt": "## Sujets de prière Nous aurons notre moment de prière du **27 au 31 Mai 2019**. Que notre Dieu soit favorable à chacun de nous. 1. Continuons de prier que Dieu allume le feu de la prière dans nos cœurs, dans nos maisons et dans l’Assemblée; 2. Prions et demandons à Dieu d’éveiller la conscience de l’Eglise sur les séductions de la tiédeur dans notre génération; 3. Prions et demandons à Dieu de nous rendre sobre dans l’usage d’internet et des réseaux sociaux – que ces instruments de communication nous servent seulement pour notre combat dans le Royaume de Dieu; 4. Prions et demandons à Dieu de nous délivrer de toutes les formes de distractions qui nous asservissent – Que l’esprit du peuple de Dieu soit ramené à la prière, au jeûne et au combat spirituel; 5. Prions et demandons à Dieu d’établir sa crainte dans la vie des jeunes frères et sœurs de notre Assemblée – Qu’Il les conduise dans la chasteté, la pureté et la sainteté – Que les esprits de débauche sexuelle et de mondanité n’aient pas de place en leur milieu; 6. Nous prions que les manifestations de Satan (impudicité, impureté sexuelle, pornographie, relation de fleurte entre frères et sœurs), dans la vie des jeunes frères et sœurs de l’Assemblée soient dévoilées et chassées au nom de Jésus-Christ – que le cœur des plus jeunes soit tourné vers la recherche de Dieu et de son Esprit; 7. Nous prions que tous les projets de Satan contre les jeunes frères et sœurs de l’Assemblée soient dévoilés – Que le Seigneur délivre ceux qui sont déjà pris sous l’oppression de l’ennemi au nom de Jésus-Christ; * * * ### Télécharger le document [Télécharger le PDF](/files/mevar/sujets_de_priere_fin_mai_juin_2019.pdf)"
       },
       "b": {
-        "title": "MEDITONS LA PROPHETIE DE JOEL",
-        "excerpt": "## MEDITONS LA PROPHETIE DE JOEL *Exhortation de Mai 2019* Que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans son amour. Comme je vous l’ai déjà dit, nous avons entamé la dernière phase de l’œuvre de réveil de Minuit. Aujourd’hui tous les frères et sœurs en Christ devraient comprendre de manière très claire que c’est la prière qui va délivrer l’Eglise et rien d’autre. N’est-ce pas dans les prophéties de Joël que se trouve décrit le triste sort de l’Eglise de Laodicée telle que prêché par le prophète William Branham dans la restitution de l’Arbre de l’Epouse ? Racontez–le à vos enfants, Et que vos enfants le racontent à leurs enfants, Et leurs enfants à la génération qui suivra ! 4 Ce qu’a laissé le gazam, la sauterelle l’a dévoré ; Ce qu’a laissé la sauterelle, le jélek l’a dévoré ; Ce qu’a laissé le jélek, le hasil l’a dévoré. C’est progressivement que le diable a dépouillé l’Assemblée des Saints, de manière inaperçue au départ. De quoi l’a-t-il dépouillée ? Il l’a dépouillé de sa puissance, de son autorité et de ses dons. L’Eglise de Jésus-Christ au 21e siècle ressemble à une armée sans armement. Que peut-elle faire face à l’ennemi ? l’Eglise qui est l’Autorité suprême sur la terre est confondue au monde et est dans la confusion et la séduction des démons. Et à la vue de cette catastrophe, elle devrait pleurer comme il est écrit : 5 Réveillez–vous, ivrognes, et pleurez ! Vous tous, buveurs de vin, gémissez. Malheureusement, il est dit au sujet de Laodicée dans Apocalypse 3 qu’elle ne voit pas sa misère, elle ne sait même pas qu’elle est nue, pauvre et misérable. Je dois avouer que j’étais du nombre de ceux qui ne voyaient pas"
+        "title": "Méditons la prophétie de Joël",
+        "excerpt": "Que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans son amour. Comme je vous l’ai déjà dit, nous avons entamé la dernière phase de l’œuvre de réveil de Minuit. Aujourd’hui tous les frères et sœurs en Christ devraient comprendre de manière très claire que c’est la prière qui va délivrer l’Église et rien d’autre. N’est-ce pas dans les prophéties de Joël que se trouve décrit le triste sort de l’Église de Laodicée telle que prêchée par le prophète William Branham dans la restitution de l’Arbre de l’Épouse ? > Racontez-le à vos enfants, Et que vos enfants le racontent à leurs enfants, Et leurs enfants à la génération qui suivra ! **4** **Ce qu’a laissé le gazam, la sauterelle l’a dévoré ; Ce qu’a laissé la sauterelle, le jélek l’a dévoré ; Ce qu’a laissé le jélek, le hasil l’a dévoré**. C’est progressivement que le diable a dépouillé l’Assemblée des Saints, de manière inaperçue au départ. **De quoi l’a-t-il dépouillée ? Il l’a dépouillée de sa puissance, de son autorité et de ses dons**. L’Église de Jésus-Christ au 21e siècle ressemble à une armée sans armement. Que peut-elle faire face à l’ennemi ? L’Église qui est l’Autorité suprême sur la terre est confondue au monde et est dans la confusion et la séduction des démons. Et à la vue de cette catastrophe, elle devrait pleurer comme il est écrit : > **5** **Réveillez-vous, ivrognes, et pleurez** ! Vous tous, buveurs de vin, gémissez. Malheureusement, il est dit au sujet de Laodicée dans Apocalypse 3 qu’elle ne voit pas sa misère, elle ne sait même pas qu’elle est nue, pauvre et misérable. Je dois avouer que j’étais du nombre de ceux qui ne voyaient pas qu’ils étaient misérables, jusqu’à ce que Dieu commence"
       }
     },
     {
@@ -7445,12 +7475,12 @@
     {
       "key": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps | onedrive/les_cinq_ministeres_de_la_parole",
       "decision": "different",
-      "in_a": 0.93,
+      "in_a": 0.929,
       "in_b": 0.103,
       "title": 0.182,
       "a": {
         "title": "Trois grandes visions du message de la fin des temps",
-        "excerpt": "Ce texte est extrait du livre [Les 5 ministères de la parole](/les-5-ministeres-de-la-parole/). [Les 5 ministères de la Parole](/les-5-ministeres-de-la-parole/) ## Le prophète et la vision > **_**_**_L’Éternel dit : Écoutez bien mes Paroles ! lorsqu’il y aura parmi vous un prophète, c’est dans une vision que Moi, l’Éternel, je me ferai connaître à lui, c’est dans un songe que Je lui parlerai_**_**. **_(N_**om**_bres 12_**:**_6)_**_** C’est de cette manière que l’Éternel s’adressa à Aaron et à Miriam lorsqu’ils murmurèrent contre Moïse. A Moïse, Dieu parlait de vive voix et lui faisait contempler sa gloire. Après lui, Dieu parlait aux prophètes en songe et en vision. C’est dans les visions qu’Il leur dévoilait son plan et sa volonté. C’est en vision qu’Il les avertissait. Les visions sont donc d’une importance capitale dans le déroulement du plan de Dieu. Un peuple sans la vision prophétique ne peut avancer dans sa marche. Car la vision éclaire et oriente la marche du peuple. Dans sa définition biblique, la vision est un moyen de communication entre Dieu et les hommes au même titre que les songes. C’est pourquoi il est écrit : Dieu parle cependant, tantôt d’une manière, tantôt d’une autre, et l’on n’y fait pas attention. Il parle en songe, en vision nocturne… (Job 33:14-15). La vision est une expérience qui est continuellement vécue par les chrétiens et par l’ensemble des serviteurs de Dieu, selon que le Seigneur l’avait promis dans les prophéties : _**Vos jeunes gens auront des visions…**_ (Joël 2:28). Dans l’Ancien Testament, les prophètes étaient des voyants. Ils assistaient au Conseil de Dieu par les visions. C’est ainsi que Michée debout devant Achab pouvait dire : _J’ai vu l’Eternel siégeant sur son trône et toute l’armée des cieux se tenant auprès de lui, à sa droite et à sa gauche_ (1 Rois 22:19)."
+        "excerpt": "Ce texte est extrait du livre [Les 5 ministères de la parole](/les-5-ministeres-de-la-parole/). [Les 5 ministères de la Parole](/les-5-ministeres-de-la-parole/) ## Le prophète et la vision > **_**_**_L’Éternel dit : Écoutez bien mes Paroles ! lorsqu’il y aura parmi vous un prophète, c’est dans une vision que Moi, l’Éternel, je me ferai connaître à lui, c’est dans un songe que Je lui parlerai_**_**. **_(N_**om**_bres 12_**:**_6)_**_** C’est de cette manière que l’Éternel s’adressa à Aaron et à Miriam lorsqu’ils murmurèrent contre Moïse. A Moïse, Dieu parlait de vive voix et lui faisait contempler sa gloire. Après lui, Dieu parlait aux prophètes en songe et en vision. C’est dans les visions qu’Il leur dévoilait son plan et sa volonté. C’est en vision qu’Il les avertissait. Les visions sont donc d’une importance capitale dans le déroulement du plan de Dieu. Un peuple sans la vision prophétique ne peut avancer dans sa marche. Car la vision éclaire et oriente la marche du peuple. Dans sa définition biblique, la vision est un moyen de communication entre Dieu et les hommes au même titre que les songes. C’est pourquoi il est écrit : Dieu parle cependant, tantôt d’une manière, tantôt d’une autre, et l’on n’y fait pas attention. Il parle en songe, en vision nocturne… (Job 33:14-15). La vision est une expérience qui est continuellement vécue par les chrétiens et par l’ensemble des serviteurs de Dieu, selon que le Seigneur l’avait promis dans les prophéties : _**Vos jeunes gens auront des visions…**_ (Joel 2:28). Dans l’Ancien Testament, les prophètes étaient des voyants. Ils assistaient au Conseil de Dieu par les visions. C’est ainsi que Michée debout devant Achab pouvait dire : _J’ai vu l’Eternel siégeant sur son trône et toute l’armée des cieux se tenant auprès de lui, à sa droite et à sa gauche_ (1 Rois 22:19)."
       },
       "b": {
         "title": "Les Cinq Ministères de la Parole dans la vision des temps de la fin",
@@ -7460,16 +7490,16 @@
     {
       "key": "onedrive/adorateursatan | onedrive/exho_septembre_2008",
       "decision": "different",
-      "in_a": 0.074,
-      "in_b": 0.491,
+      "in_a": 0.069,
+      "in_b": 0.493,
       "title": 0.4,
       "a": {
         "title": "Les adorateurs de Satan",
-        "excerpt": "Les adorateurs de Satan, prêché à Koumassi par le frère M'BRA Parfait Mes frères et sœurs, que le Seigneur vous bénisse. Que la paix de notre Dieu soit avec vous tous. Ce matin je voudrais apporter une prédication sur les adorateurs de Satan. Satan a des adorateurs dans l'Eglise…ils sont dans le Peuple de Dieu et se livrent à un culte qui n'est pas voué à Dieu, mais à des démons. Mais avant cela, je voudrais nous dire que nous devons prier pour notre pays, pour la situation que nous traversons…Ici il n'y a pas de RDR, il n'y a pas de PDCI, il n'y a pas de FPI. Non, non, non, on n'est pas dans les partis politiques ici. Nous, notre parti, c'est le parti de Jésus [l'assemblée répond amen]. Moi je suis un citoyen du ciel, je me bats pour aller au ciel m'asseoir là-bas. Ce que les gens font sur la terre ne m'intéresse pas. Tout ce qui concerne Jésus et le ciel, c'est ça qui est pour moi, amen ! Nous ne sommes pas des politiciens. Il ne faut pas exagérer frères… Dieu connaît notre cœur. Si tu as en toi un parti politique, si tu te bats pour un parti politique, Dieu le sait et c'est de tout ça que je vais parler ce matin. Ce sont des choses qui ne vont nulle part. Nous, on sait une chose par révélation. C'est que Jésus a signé un décret pour qu'il y ait un réveil en Afrique, qui part d'ici pour aller partout dans le monde et la Côte d'Ivoire a été choisie pour ça. Et cette révélation, ce n'est pas nous seulement qui l'avons. Il y a des gens qui quittent l'extérieur, Dieu leur parle là-bas et ils viennent ici pour nous informer. Ne soyons"
+        "excerpt": "Mes frères et sœurs, que le Seigneur vous bénisse. Que la paix de notre Dieu soit avec vous tous. Ce matin je voudrais apporter une prédication sur les adorateurs de Satan. Satan a des adorateurs dans l’Église… Ils sont dans le Peuple de Dieu et se livrent à un culte qui n’est pas voué à Dieu, mais à des démons. Mais avant cela, je voudrais nous dire que nous devons prier pour notre pays, pour la situation que nous traversons… Ici il n’y a pas de RDR, il n’y a pas de PDCI, il n’y a pas de FPI. Non, non, non, on n’est pas dans les partis politiques ici. Nous, notre parti, c’est le parti de Jésus [l’assemblée répond amen]. Moi je suis un citoyen du ciel, je me bats pour aller au ciel m’asseoir là-bas. Ce que les gens font sur la terre ne m’intéresse pas. Tout ce qui concerne Jésus et le ciel, c’est ça qui est pour moi, amen ! Nous ne sommes pas des politiciens. Il ne faut pas exagérer frères… Dieu connaît notre cœur. Si tu as en toi un parti politique, **si tu te bats pour un parti politique, Dieu le sait et c’est de tout ça que je vais parler ce matin**. Ce sont des choses qui ne vont nulle part. Nous, on sait une chose par révélation. C’est que Jésus a signé un décret pour qu’il y ait un réveil en Afrique, qui part d’ici pour aller partout dans le monde et la Côte d’Ivoire a été choisie pour ça. Et cette révélation, ce n’est pas nous seulement qui l’avons. Il y a des gens qui quittent l’extérieur, Dieu leur parle là-bas et ils viennent ici pour nous informer. Ne soyons pas incrédules. Il ne faudrait pas qu’on soit incrédules. Tous"
       },
       "b": {
-        "title": "RELISEZ « l’EDEN DE SATAN »",
-        "excerpt": "## RELISEZ « l’EDEN DE SATAN » *Exhortation de Septembre 2008* Je vous salue tous mes biens aimés frères et sœurs et visiteurs de notre site à tous pour ce mois de septembre par ces Paroles de notre Seigneur Jésus-Christ à Ses disciples dans le livre de Jean : **Je vous ai dit ces choses pendant que je demeure avec vous. Mais le consolateur, l’Esprit-Saint, que le Père enverra en mon nom, vous enseignera toutes choses, et vous rappellera tout ce que je vous ai dit.** (Jean 14:25-26) Mes chers frères et sœurs en Christ notre Seigneur, c’est avec une grande joie que je vous adresse cette Parole de Jésus. Le Saint-Esprit est Celui-là même qui doit nous enseigner la Parole de Dieu et aussi nous rappeler ce que nous avons entendu, mais que l’adversaire nous a fait oublier. J’ai été très heureux dans ces derniers temps de découvrir quelque chose d’assez précieux pour moi et pour vous dans une prédication de notre frère Branham. Il s’agit de la prédication « l’Eden de Satan ». Vous savez mes chers frères que le Seigneur notre Dieu m’a révélé que l’Eglise est assiégée par l’adversaire de Dieu, le diable, le fils de perdition. Et j’ai prêché cette révélation dans plusieurs prédications et particulièrement dans « La guerre de libération » et « Le siège de l’adversaire » dans lesquelles l’Esprit nous a montré que nous devons nous battre dans le Corps de Christ pour dégager le siège de Satan. Je ne savais pas que notre frère Branham avait aussi reçu cette révélation que la prophétie de 2 Thessaloniciens 2 concernait l’Eglise de la fin des temps. Mais j’ai découvert cela dans la prédication « l’Eden de Satan ». > **Pour ce qui concerne l’avènement de notre Seigneur Jésus-Christ et notre réunion avec"
+        "title": "Relisez « L’Éden de Satan »",
+        "excerpt": "Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous pour ce mois de septembre par ces Paroles de notre Seigneur Jésus-Christ à Ses disciples dans le livre de Jean : > Je vous ai dit ces choses pendant que je demeure avec vous. Mais le consolateur, l’Esprit-Saint, que le Père enverra en mon nom, **vous enseignera toutes choses, et vous rappellera tout ce que je vous ai dit**. (Jn 14 :25-26) Mes chers frères et sœurs en Christ notre Seigneur, c’est avec une grande joie que je vous adresse cette Parole de Jésus. Le Saint-Esprit est Celui-là même qui doit nous enseigner la Parole de Dieu et aussi nous rappeler ce que nous avons entendu, mais que l’adversaire nous a fait oublier. J’ai été très heureux dans ces derniers temps de découvrir quelque chose d’assez précieux pour moi et pour vous dans une prédication de notre frère Branham. Il s’agit de la prédication « **L’Éden de Satan** ». Vous savez mes chers frères que le Seigneur notre Dieu m’a révélé que **l’Église est assiégée par l’adversaire de Dieu**, le diable, le fils de perdition. Et j’ai prêché cette révélation dans plusieurs prédications et particulièrement dans « **La guerre de libération** » et « **Le siège de l’adversaire** » dans lesquelles l’Esprit nous a montré que nous devons nous battre dans le Corps de Christ pour dégager le siège de Satan. **Je ne savais pas que notre frère Branham avait aussi reçu cette révélation que la prophétie de 2 Thessaloniciens 2 concernait l’Église de la fin des temps. Mais j’ai découvert cela dans la prédication « L’Éden de Satan** ». > Pour ce qui concerne l’avènement de notre Seigneur Jésus-Christ et notre réunion avec lui, nous vous prions, frères, de ne pas vous laisser"
       }
     },
     {
@@ -7865,16 +7895,16 @@
     {
       "key": "onedrive/Copie de predicationjuin2007 | onedrive/exhojuin2007",
       "decision": "different",
-      "in_a": 0.935,
-      "in_b": 0.687,
+      "in_a": 0.938,
+      "in_b": 0.69,
       "title": 0,
       "a": {
         "title": "Les prisonniers de la religion",
         "excerpt": "## Les prisonniers de la religion *Prêché à So-Chanwé le 14 janvier 2007* Que le nom du Seigneur soit béni ! [Amen !] Le pasteur Rigobert est venu à Abidjan en Côte d’Ivoire, il a passé un mois chez moi, nous avons eu le temps de parler ensemble sur ce que je prêche – sur ce que j’écris aussi. Nous avons eu des entretiens sur les brochures que j’ai écrites. Avant de venir, il m’avait déjà appelé quand il était aux Etats-unis, et il s’est déplacé du Bénin jusqu'à chez moi. J’ai été très touché par cela…qu’un homme de Dieu soit préoccupé par ce que j’ai écrit, et qui se déplace de son pays jusqu'à chez moi pour en savoir davantage. C’est pour cette raison que j’apprécie beaucoup ce qu’il vient de dire ce matin, parce qu’en Côte d’Ivoire, dans l’Eglise où je suis, les serviteurs de Dieu n’ont jamais cherché à savoir de quoi il est question. On n’a jamais eu d’entretien sur ces choses, seulement ils parlent de moi comme quelqu’un qui a un démon, quelqu’un qui est séduit par les mauvais esprits. Les hommes de Dieu de la Côte d’Ivoire n’ont jamais parlé de ces choses avec moi, mais un étranger quitte sa patrie…vient jusqu’à chez moi pour qu’on parle de ça pendant un mois…et quand le frère est arrivé là-bas, on l’a mis de côté, parce qu’il est venu me voir… Vous savez frère, le ministère de pasteur, ça ne s’achète pas au marché ! Les pasteurs…on ne les ramasse pas au marché. Un vrai pasteur, c’est celui qui cherche de verts pâturages pour son troupeau. Là où il entend que la Parole de Dieu est sortie, il va là pour chercher à en savoir davantage…s’il découvre que c’est vrai, il le prend pour son troupeau,"
       },
       "b": {
-        "title": "Appel à la guerre – Appel au combat contre Babylone",
-        "excerpt": "## Appel à la guerre – Appel au combat contre Babylone *Exhortation spéciale de Juin 2007* **JOYEUX ANNIVERSAIRE** Mes chers frères et sœurs et amis de la chaîne de prière – usagers de notre site Internet à tous, je vous salue dans le précieux et merveilleux nom de notre Seigneur et Sauveur Jésus-Christ. A Lui soient la gloire et la louange au siècle des siècles – Amen ! C’est l’un de mes collaborateurs dans l’œuvre missionnaire qui m’a rappelé que le site web de MEVAR venait d’avoir un an d’existence le 03 Juin passé. En effet, nous avons lancé le site le 03 Juin 2006. Après un an d’existence, nous pouvons mesurer l’impact de cet instrument de travail sur les croyants du Message du temps de la fin. Nous rendons grâce au Seigneur. Ce Mois sera un mois spécial et le peuple de Dieu sera gratifié par plusieurs exhortations. Je vous demande pardon pour les retards que nous accusons dans le positionnement des exhortations. Je comprends votre impatience et je suis réjoui de ce que vous êtes pressés de recevoir la Parole de Dieu. Je prie le Seigneur pour garder le rythme initial, mais mes multiples occupations m’empêchent de le faire. Continuez de prier pour moi afin que Dieu suscite des hommes pour m’aider dans ma tâche. C’est avec beaucoup de reconnaissance au Seigneur notre Dieu que je vous adresse cette exhortation spéciale avec les véritables Paroles de Dieu proclamant la chute de Babylone : > « Car ainsi m’a parlé le Seigneur : Va, place la sentinelle; qu’elle annonce ce qu’elle verra. Elle vit de la cavalerie, des cavaliers deux à deux, Des cavaliers sur des ânes, des cavaliers sur des chameaux; Et elle était attentive, très attentive. Puis elle s’écria, comme un lion: Seigneur, je me tiens sur"
+        "title": "Appel à la guerre – appel au combat contre Babylone",
+        "excerpt": "**JOYEUX ANNIVERSAIRE** **APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE** Mes chers frères et sœurs et amis de la chaîne de prière – usagers de notre site Internet à tous, je vous salue dans le précieux et merveilleux nom de notre Seigneur et Sauveur Jésus-Christ. À Lui soient la gloire et la louange au siècle des siècles – Amen ! C’est l’un de mes collaborateurs dans l’œuvre missionnaire qui m’a rappelé que le site web de MEVAR venait d’avoir un an d’existence **le 03 juin passé**. En effet, nous avons lancé le site le 03 juin 2006. Après un an d’existence, nous pouvons mesurer l’impact de cet instrument de travail sur les croyants du Message du temps de la fin. Nous rendons grâce au Seigneur. Ce mois sera un mois spécial et le peuple de Dieu sera gratifié par plusieurs exhortations. Je vous demande pardon pour les retards que nous accusons dans le positionnement des exhortations. Je comprends votre impatience et je suis réjoui de ce que vous êtes pressés de recevoir la Parole de Dieu. Je prie le Seigneur pour garder le rythme initial, mais mes multiples occupations m’empêchent de le faire. Continuez de prier pour moi afin que Dieu suscite des hommes pour m’aider dans ma tâche. C’est avec beaucoup de reconnaissance au Seigneur notre Dieu que je vous adresse cette exhortation spéciale avec les véritables Paroles de Dieu proclamant la chute de Babylone : > Car ainsi m’a parlé le Seigneur : **Va, place la sentinelle** ; **qu’elle annonce ce qu’elle verra**. Elle vit de la cavalerie, des cavaliers deux à deux, Des cavaliers sur des ânes, des cavaliers sur des chameaux ; Et elle était attentive, très attentive. Puis elle s’écria, comme un lion : Seigneur, je me tiens sur la tour toute la"
       }
     },
     {
@@ -7895,12 +7925,12 @@
     {
       "key": "onedrive/exho_septembre_2008 | onedrive/pourquoi_huitieme",
       "decision": "different",
-      "in_a": 0.376,
-      "in_b": 0.049,
+      "in_a": 0.374,
+      "in_b": 0.048,
       "title": 0,
       "a": {
-        "title": "RELISEZ « l’EDEN DE SATAN »",
-        "excerpt": "## RELISEZ « l’EDEN DE SATAN » *Exhortation de Septembre 2008* Je vous salue tous mes biens aimés frères et sœurs et visiteurs de notre site à tous pour ce mois de septembre par ces Paroles de notre Seigneur Jésus-Christ à Ses disciples dans le livre de Jean : **Je vous ai dit ces choses pendant que je demeure avec vous. Mais le consolateur, l’Esprit-Saint, que le Père enverra en mon nom, vous enseignera toutes choses, et vous rappellera tout ce que je vous ai dit.** (Jean 14:25-26) Mes chers frères et sœurs en Christ notre Seigneur, c’est avec une grande joie que je vous adresse cette Parole de Jésus. Le Saint-Esprit est Celui-là même qui doit nous enseigner la Parole de Dieu et aussi nous rappeler ce que nous avons entendu, mais que l’adversaire nous a fait oublier. J’ai été très heureux dans ces derniers temps de découvrir quelque chose d’assez précieux pour moi et pour vous dans une prédication de notre frère Branham. Il s’agit de la prédication « l’Eden de Satan ». Vous savez mes chers frères que le Seigneur notre Dieu m’a révélé que l’Eglise est assiégée par l’adversaire de Dieu, le diable, le fils de perdition. Et j’ai prêché cette révélation dans plusieurs prédications et particulièrement dans « La guerre de libération » et « Le siège de l’adversaire » dans lesquelles l’Esprit nous a montré que nous devons nous battre dans le Corps de Christ pour dégager le siège de Satan. Je ne savais pas que notre frère Branham avait aussi reçu cette révélation que la prophétie de 2 Thessaloniciens 2 concernait l’Eglise de la fin des temps. Mais j’ai découvert cela dans la prédication « l’Eden de Satan ». > **Pour ce qui concerne l’avènement de notre Seigneur Jésus-Christ et notre réunion avec"
+        "title": "Relisez « L’Éden de Satan »",
+        "excerpt": "Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous pour ce mois de septembre par ces Paroles de notre Seigneur Jésus-Christ à Ses disciples dans le livre de Jean : > Je vous ai dit ces choses pendant que je demeure avec vous. Mais le consolateur, l’Esprit-Saint, que le Père enverra en mon nom, **vous enseignera toutes choses, et vous rappellera tout ce que je vous ai dit**. (Jn 14 :25-26) Mes chers frères et sœurs en Christ notre Seigneur, c’est avec une grande joie que je vous adresse cette Parole de Jésus. Le Saint-Esprit est Celui-là même qui doit nous enseigner la Parole de Dieu et aussi nous rappeler ce que nous avons entendu, mais que l’adversaire nous a fait oublier. J’ai été très heureux dans ces derniers temps de découvrir quelque chose d’assez précieux pour moi et pour vous dans une prédication de notre frère Branham. Il s’agit de la prédication « **L’Éden de Satan** ». Vous savez mes chers frères que le Seigneur notre Dieu m’a révélé que **l’Église est assiégée par l’adversaire de Dieu**, le diable, le fils de perdition. Et j’ai prêché cette révélation dans plusieurs prédications et particulièrement dans « **La guerre de libération** » et « **Le siège de l’adversaire** » dans lesquelles l’Esprit nous a montré que nous devons nous battre dans le Corps de Christ pour dégager le siège de Satan. **Je ne savais pas que notre frère Branham avait aussi reçu cette révélation que la prophétie de 2 Thessaloniciens 2 concernait l’Église de la fin des temps. Mais j’ai découvert cela dans la prédication « L’Éden de Satan** ». > Pour ce qui concerne l’avènement de notre Seigneur Jésus-Christ et notre réunion avec lui, nous vous prions, frères, de ne pas vous laisser"
       },
       "b": {
         "title": "POURQUOI LA PART D’UN HUITIEME ?",
@@ -7910,12 +7940,12 @@
     {
       "key": "onedrive/exho_spec_fev2011 | onedrive/le_mariage_et_les_peches_du_sexe",
       "decision": "different",
-      "in_a": 0.774,
+      "in_a": 0.776,
       "in_b": 0.082,
       "title": 0,
       "a": {
-        "title": "Priscille et Aquilas – Exemple d’un couple au service de Dieu",
-        "excerpt": "## Priscille et Aquilas – Exemple d’un couple au service de Dieu *Exhortation Spécial de Février 2011* Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Seigneur Jésus-Christ : Je vous dis encore que, si deux d’entre vous s’accordent sur la terre pour demander une chose quelconque, elle leur sera accordée par mon Père qui est dans les cieux. (Matthieu 18:19) Mes chers amis, je voudrais par cette exhortation m’adresser aux couples dans nos assemblées locales. Jésus nous apprend que si seulement deux d’entre les croyants s’accordent sur la terre pour demander une chose quelconque, la chose leur sera accordée par le Père. Lorsque nous lisons cette Parole, elle nous semble facile à exécuter et il nous arrive de penser que nous la mettons chaque jour en pratique, à telle enseigne que pour nous les habitués, elle passe inaperçue. Mais cette promesse est une aubaine spirituelle pour les couples qui savent prier, et qui se livrent au travail de l’intercession. C’est aussi une aubaine pour les équipes de travail dans le Ministère. En effet, l’ACCORD COMMUN entre deux personnes spirituelles est très important pour l’avancement de l’œuvre de Dieu dans une assemblée locale, dans un ménage et aussi dans l’Eglise. Par là, Jésus veut dire que le ciel n’a pas besoin de la multitude pour bouger ou pour exaucer les prières. Il faut seulement que la requête présentée soit sérieusement soutenue par au moins deux personnes qui sont d’accord. Pendant une réunion que j’ai tenue avec les couples de notre assemblée, j’ai exhorté les frères et sœurs sur la nécessité absolue de nous accorder dans le couple pour la prière. En effet, il arrive que les couples ne prient pas"
+        "title": "Priscille et Aquilas – exemple d’un couple au service de Dieu",
+        "excerpt": "Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Seigneur Jésus-Christ : > Je vous dis encore que, si **deux d’entre vous s’accordent sur la terre pour demander une chose quelconque**, elle leur sera accordée par mon Père qui est dans les cieux. (Matthieu 18:19) Mes chers amis, je voudrais par cette exhortation m’adresser aux couples dans nos assemblées locales. Jésus nous apprend que si seulement deux d’entre les croyants s’accordent sur la terre pour demander une chose quelconque, la chose leur sera accordée par le Père. Lorsque nous lisons cette Parole, elle nous semble facile à exécuter et il nous arrive de penser que nous la mettons chaque jour en pratique, à telle enseigne que pour nous les habitués, elle passe inaperçue. **Mais cette promesse est une aubaine spirituelle pour les couples qui savent prier, et qui se livrent au travail de l’intercession. C’est aussi une aubaine pour les équipes de travail dans le Ministère**. En effet, **l’ACCORD COMMUN** entre deux personnes spirituelles est très important pour l’avancement de l’œuvre de Dieu dans une assemblée locale, dans un ménage et aussi dans l’Église. Par là, Jésus veut dire que le ciel n’a pas besoin de la multitude pour bouger ou pour exaucer les prières. Il faut seulement que la requête présentée soit sérieusement soutenue par au moins deux personnes qui sont d’accord. Pendant une réunion que j’ai tenue avec les couples de notre assemblée, j’ai exhorté les frères et sœurs sur la nécessité absolue de nous accorder dans le couple pour la prière. En effet, il arrive que les couples ne prient pas ensemble. Satan organise les choses de telle manière que monsieur et madame ne trouvent pas de"
       },
       "b": {
         "title": "Le Mariage et les Péchés du Sexe",
@@ -7925,31 +7955,16 @@
     {
       "key": "onedrive/exho_spec_fev2011 | onedrive/mariage_final_pdf",
       "decision": "different",
-      "in_a": 0.775,
+      "in_a": 0.777,
       "in_b": 0.082,
       "title": 0,
       "a": {
-        "title": "Priscille et Aquilas – Exemple d’un couple au service de Dieu",
-        "excerpt": "## Priscille et Aquilas – Exemple d’un couple au service de Dieu *Exhortation Spécial de Février 2011* Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Seigneur Jésus-Christ : Je vous dis encore que, si deux d’entre vous s’accordent sur la terre pour demander une chose quelconque, elle leur sera accordée par mon Père qui est dans les cieux. (Matthieu 18:19) Mes chers amis, je voudrais par cette exhortation m’adresser aux couples dans nos assemblées locales. Jésus nous apprend que si seulement deux d’entre les croyants s’accordent sur la terre pour demander une chose quelconque, la chose leur sera accordée par le Père. Lorsque nous lisons cette Parole, elle nous semble facile à exécuter et il nous arrive de penser que nous la mettons chaque jour en pratique, à telle enseigne que pour nous les habitués, elle passe inaperçue. Mais cette promesse est une aubaine spirituelle pour les couples qui savent prier, et qui se livrent au travail de l’intercession. C’est aussi une aubaine pour les équipes de travail dans le Ministère. En effet, l’ACCORD COMMUN entre deux personnes spirituelles est très important pour l’avancement de l’œuvre de Dieu dans une assemblée locale, dans un ménage et aussi dans l’Eglise. Par là, Jésus veut dire que le ciel n’a pas besoin de la multitude pour bouger ou pour exaucer les prières. Il faut seulement que la requête présentée soit sérieusement soutenue par au moins deux personnes qui sont d’accord. Pendant une réunion que j’ai tenue avec les couples de notre assemblée, j’ai exhorté les frères et sœurs sur la nécessité absolue de nous accorder dans le couple pour la prière. En effet, il arrive que les couples ne prient pas"
+        "title": "Priscille et Aquilas – exemple d’un couple au service de Dieu",
+        "excerpt": "Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Seigneur Jésus-Christ : > Je vous dis encore que, si **deux d’entre vous s’accordent sur la terre pour demander une chose quelconque**, elle leur sera accordée par mon Père qui est dans les cieux. (Matthieu 18:19) Mes chers amis, je voudrais par cette exhortation m’adresser aux couples dans nos assemblées locales. Jésus nous apprend que si seulement deux d’entre les croyants s’accordent sur la terre pour demander une chose quelconque, la chose leur sera accordée par le Père. Lorsque nous lisons cette Parole, elle nous semble facile à exécuter et il nous arrive de penser que nous la mettons chaque jour en pratique, à telle enseigne que pour nous les habitués, elle passe inaperçue. **Mais cette promesse est une aubaine spirituelle pour les couples qui savent prier, et qui se livrent au travail de l’intercession. C’est aussi une aubaine pour les équipes de travail dans le Ministère**. En effet, **l’ACCORD COMMUN** entre deux personnes spirituelles est très important pour l’avancement de l’œuvre de Dieu dans une assemblée locale, dans un ménage et aussi dans l’Église. Par là, Jésus veut dire que le ciel n’a pas besoin de la multitude pour bouger ou pour exaucer les prières. Il faut seulement que la requête présentée soit sérieusement soutenue par au moins deux personnes qui sont d’accord. Pendant une réunion que j’ai tenue avec les couples de notre assemblée, j’ai exhorté les frères et sœurs sur la nécessité absolue de nous accorder dans le couple pour la prière. En effet, il arrive que les couples ne prient pas ensemble. Satan organise les choses de telle manière que monsieur et madame ne trouvent pas de"
       },
       "b": {
         "title": "Le Mariage et les Péchés du Sexe",
         "excerpt": "# LE MARIAGE ET LES PECHES DU SEXE *M’BRA Parfait* Tous les couples et autres lecteurs de cet ouvrage qui souhaiteraient rencontrer l’auteur peuvent le joindre aux adresses ci-après : M’BRA Parfait 20 BP 1011 Abidjan 20/ Côte d’Ivoire e-mail : parfaitmbra@yahoo.fr Cel.: (+225) 09.05.05.77/ 05633124/ ## Table des Matières Introduction Générale …………………………………………………………………………………..5 Première Partie : Le mariage dans le royaume de Dieu ou le mariage en Christ……………….. 11 Premièrement : Procédure biblique des fiançailles ……………………………………….. 12 Deuxièmement : Le Commandement fut donné à l’homme …………………………….. 21 Troisièmement : La domination fut donnée à l’homme ………………………………….. 23 Quatrièmement : La soumission fut donnée à la femme ………………………………….. 24 Cinquièmement : Femme insoumise : ouvrière avec le diable …………………………. 27 Sixièmement : Le Seigneur n’admet pas les compromis ………………………………….. 31 Septièmement : L’homme est le chef de la femme …………………………………………. 35 Huitièmement : Comparativement à Christ et à l’Eglise ………………………………….. 36 Neuvièmement : Le Ministère de la femme ……………………………………………………. 40 Dixièmement : La médisance : un péché destructeur des foyers ……………………….. 46 Onzièmement : La position des époux dans le foyer ………………………………………. 48 Douzièmement : Le jugement des affaires dans le foyer …………………………………. 49 Conclusion de la Première Partie ………………………………………………………………….. 55 Deuxième Partie : Impudicité et adultère ……………………………………………………….. 59 Treizièmement : Principe fondamental : Nouvelle Naissance …………………………… 60 Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! ………………………………………………………………………………….. 66 Quinzièmement : Qui est dans une position d’adultère ? ………………………………… 71 Seizièmement : Que le lit conjugal soit exempt de souillure ……………………………..75 Conclusion de la Deuxième Partie ………………………………………………………………….. 81 Dix-septièmement : Comment un couple peut-il se mettre au service de Dieu ? ………85 Conclusion finale …………………………………………………………………………………………94 ## Introduction Générale ### La pensée originelle de Dieu sur le mariage Le mariage est un sujet biblique important dans l’Eglise"
-      }
-    },
-    {
-      "key": "onedrive/exhomai2007 | onedrive/laguerre",
-      "decision": "different",
-      "in_a": 0.672,
-      "in_b": 0.926,
-      "title": 1,
-      "a": {
-        "title": "LA GUERRE DE LIBERATION",
-        "excerpt": "## LA GUERRE DE LIBERATION *Exhortation du Mois de Mai 2007* **Sortez de Babylone !** Je vous salue tous mes bien-aimés frères et sœurs en Christ notre Seigneur et Sauveur par cette Parole du Seigneur dans la deuxième lettre de Paul aux Corinthiens : Ne vous mettez pas avec les infidèles sous un joug étranger. Car quel rapport y a-t-il entre la justice et l’iniquité? ou qu’y a-t-il de commun entre la lumière et les ténèbres ? Quel accord y a-t-il entre Christ et Bélial ? ou quelle part a le fidèle avec l’infidèle ? Quel rapport y a-t-il entre le temple de Dieu et les idoles? Car nous sommes le temple du Dieu vivant, comme Dieu l’a dit : J’habiterai et je marcherai au milieu d’eux; je serai leur Dieu, et ils seront mon peuple. C’est pourquoi, Sortez du milieu d’eux, Et séparez-vous, dit le Seigneur; Ne touchez pas à ce qui est impur, et je vous accueillerai. Je serai pour vous un père, Et vous serez pour moi des fils et des filles, dit le Seigneur tout-puissant. Ayant donc de telles promesses, bien-aimés, purifions-nous de toute souillure de la chair et de l’esprit, en achevant notre sanctification dans la crainte de Dieu. (2 Corinthiens 6:14-19) Comme vous le savez tous mes bien-aimés, nous sommes au temps de la séparation parce que l’appel à sortir va ensemble avec la séparation. Celui qui est appelé à sortir doit se séparer obligatoirement du milieu d’où il est appelé à sortir. La vie d’un chrétien est une vie d’exode, parce qu’il marche vers la perfection. En cela, il se trouve toujours réunit avec ceux qui invoquent le Seigneur d’un cœur pur. Notre père dans la foi – Abraham a été appelé à sortir de sa patrie et de la maison de son"
-      },
-      "b": {
-        "title": "LA GUERRE DE LIBERATION",
-        "excerpt": "# LA GUERRE DE LIBERATION *Prêché à Koumassi le dimanche 22 Avril 2007* Que Dieu soit béni ! Nous lisons dans 2 thessalonissiens 2 à partir du premier verset. > **Pour ce qui concerne l'avènement de notre Seigneur Jésus Christ et notre réunion avec lui, nous vous prions, frères, de ne pas vous laisser facilement ébranler dans votre bon sens, et de ne pas vous laisser troubler, soit par quelque inspiration, soit par quelque parole, ou par quelque lettre qu'on dirait venir de nous, comme si le jour du Seigneur était déjà là. Que personne ne vous séduise d'aucune manière; car il faut que l'apostasie soit arrivée auparavant, et qu'on ait vu paraître l'homme du péché, le fils de la perdition, L’adversaire qui s'élève au-dessus de tout ce qu'on appelle Dieu ou de ce qu'on adore, jusqu'à s'asseoir dans le temple de Dieu, se proclamant lui-même Dieu. Ne vous souvenez-vous pas que je vous disais ces choses, lorsque j'étais encore chez vous?** > **Et maintenant vous savez ce qui le retient, afin qu'il ne paraisse qu'en son temps. Car le mystère de l'iniquité agit déjà; il faut seulement que celui qui le retient encore ait disparu. Et alors paraîtra l'impie, que le Seigneur Jésus détruira par le souffle de sa bouche, et qu'il anéantira par l'éclat de son avènement. L'apparition de cet impie se fera, par la puissance de Satan, avec toutes sortes de miracles, de signes et de prodiges mensongers, Et avec toutes les séductions de l'iniquité pour ceux qui périssent parce qu'ils n'ont pas reçu l'amour de la vérité pour être sauvés. Aussi Dieu leur envoie une puissance d'égarement, pour qu'ils croient au mensonge, afin que tous ceux qui n'ont pas cru à la vérité, mais qui ont pris plaisir à l'injustice, soient condamnés.** Nous lisons dans Exode"
       }
     },
     {

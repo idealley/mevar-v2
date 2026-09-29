@@ -108,6 +108,8 @@ for (const [name, sourceOf] of Object.entries(SOURCES)) {
     const file = path.join(dir, rel);
     const text = fs.readFileSync(file, "utf8");
     const [, fm, body] = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
+    // a Mevar text goal 19 moved to mevar/ is no Ghost post (goal 10 edits it)
+    if (/^source_path: /m.test(fm)) continue;
     if (![...citations(body)].some((c) => c.text === c.ref)) continue;
     const source = flat(sourceOf(path.basename(file, ".md")));
 

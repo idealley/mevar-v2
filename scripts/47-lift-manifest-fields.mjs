@@ -58,11 +58,13 @@ for (const filePath of walk(path.join(root, "markdown"))) {
   let fm = m[2];
   const body = m[4];
 
-  // Derive source + sermon_id from path
+  // Derive source + sermon_id from path; a Mevar text goal 19 moved to
+  // markdown/mevar/ keeps its source and sermon_id in its frontmatter
   const rel = path.relative(path.join(root, "markdown"), filePath);
   const parts = rel.split(path.sep);
-  const source = parts[0];
-  const basename = path.basename(filePath, ".md");
+  const moved = fm.match(/^source_path: /m) && fm.match(/^source: "(.+)"$/m)[1];
+  const source = moved || parts[0];
+  const basename = moved ? fm.match(/^sermon_id: "(.+)"$/m)[1] : path.basename(filePath, ".md");
   const entry = lookup.get(`${source}/${basename}`);
 
   let changed = false;
