@@ -498,12 +498,15 @@ L.push("", "## Sentences the pass left as they are (unclear)", "");
 for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}${r.unclearFixed.has(u) ? " (since fixed by the editor)" : ""}`);
 L.push("", "## Titles", "", "| Text | Title | Proposed by the pass and refused (a word changed) |", "| --- | --- | --- |");
 for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.titleRefused)} |`);
-// gpt-6-sol, per million tokens: $2 in, $10 out (reasoning included)
-const usage = rows.flatMap((r) => r.pass.usage);
+// gpt-6-sol, per million tokens: $2 in, $10 out (reasoning included); the
+// parts OpenAI's filter stopped went to claude-opus-5: $5 in, $25 out
+const usage = rows.flatMap((r) => r.pass.usage).filter((u) => !u.model);
+const claude = rows.flatMap((r) => r.pass.usage).filter((u) => u.model);
+const [cin, cout] = [claude.reduce((a, u) => a + u.prompt_tokens, 0), claude.reduce((a, u) => a + u.completion_tokens, 0)];
 const [tin, tout] = [usage.reduce((a, u) => a + u.prompt_tokens, 0), usage.reduce((a, u) => a + u.completion_tokens, 0)];
 // The estimate given before the first run: $2.60 for 130,000 words.
 const batchWords = rows.reduce((a, r) => a + r.words, 0);
-L.push("", "## Spend", "", `The pass behind these results: ${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words. Extraction (pdftohtml) is local.`);
+L.push("", "## Spend", "", `The pass behind these results: ${tin} tokens in, ${tout} out: $${((tin * 2 + tout * 10) / 1e6).toFixed(2)}, against an estimate of $${(batchWords * 2.6 / 130000).toFixed(2)} for ${batchWords} words.${claude.length ? ` The ${claude.length} part(s) OpenAI's filter stopped, on claude-opus-5: ${cin} tokens in, ${cout} out: $${((cin * 5 + cout * 25) / 1e6).toFixed(2)}.` : ""} Extraction (pdftohtml) is local.`);
 const out = path.join(root, `docs/goals/evidence/goal-10-batch-${batchId}.md`);
 fs.writeFileSync(out, L.join("\n") + "\n");
 console.log(`report → ${path.relative(root, out)}`);

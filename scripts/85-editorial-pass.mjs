@@ -12,12 +12,13 @@
 // A text already in .pass-cache/ is not sent again.
 //
 // Usage: node scripts/85-editorial-pass.mjs <batch>
-// Needs OPENAI_API_KEY (the root .env; from a worktree,
+// Needs OPENAI_API_KEY and ANTHROPIC_API_KEY (the root .env; from a worktree,
 // DOTENV_CONFIG_PATH=<root>/.env) and SurrealDB with 110 run.
 
 import fs from "node:fs";
 import path from "node:path";
 import "dotenv/config";
+import Anthropic from "@anthropic-ai/sdk";
 import { citations } from "./65-normalize-bible.mjs";
 import { connect, reading, blockquote } from "./segond.mjs";
 
@@ -29,6 +30,11 @@ const batch = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editoria
 // claude-sonnet-5 and deepseek-v4-pro: the fewest changes the check refuses,
 // none of them an added word (docs/goals/goal-10-mevar-editorial.md).
 const MODEL = "gpt-6-sol";
+// A part OpenAI's content filter stops goes to Claude with the same
+// instructions; 86 checks its words like the rest. The filter stops a violent
+// reading the preacher quotes: « Je frapperai David contre la paroi » (1 Samuel
+// 18:11, exhortation_2011), whole, halved or in 500-word parts.
+const FALLBACK = "claude-opus-5";
 
 const SYSTEM = `Tu fais la passe éditoriale d'une prédication chrétienne transcrite (MEVAR, message du temps de la fin). Le texte est celui du prédicateur : ses mots ne changent pas.
 
@@ -89,9 +95,23 @@ async function complete(user) {
   });
   if (!res.ok) throw new Error(`${MODEL}: HTTP ${res.status} ${(await res.text()).slice(0, 300)}`);
   const json = await res.json();
-  const m = json.choices[0].message.content.match(/<<<TITRE>>>\n?([\s\S]*?)<<<TEXTE>>>\n?([\s\S]*?)<<<OBSCUR>>>\n?([\s\S]*)$/);
-  if (!m) throw new Error(`${MODEL}: answer not in the format`);
-  return { title: m[1].trim(), text: m[2].trim(), unclear: m[3].split("\n").map((s) => s.trim()).filter(Boolean), usage: json.usage };
+  if (json.choices[0].finish_reason === "content_filter") return fallback(user);
+  return answer(MODEL, json.choices[0].message.content, json.usage);
+}
+
+async function fallback(user) {
+  const message = await new Anthropic().messages
+    .stream({ model: FALLBACK, max_tokens: 32000, system: SYSTEM, messages: [{ role: "user", content: user }] })
+    .finalMessage();
+  if (message.stop_reason !== "end_turn") throw new Error(`${FALLBACK}: stopped on ${message.stop_reason}`);
+  const text = message.content.filter((b) => b.type === "text").map((b) => b.text).join("");
+  return answer(FALLBACK, text, { model: FALLBACK, prompt_tokens: message.usage.input_tokens, completion_tokens: message.usage.output_tokens });
+}
+
+function answer(model, content, usage) {
+  const m = content.match(/<<<TITRE>>>\n?([\s\S]*?)<<<TEXTE>>>\n?([\s\S]*?)<<<OBSCUR>>>\n?([\s\S]*)$/);
+  if (!m) throw new Error(`${model}: answer not in the format`);
+  return { title: m[1].trim(), text: m[2].trim(), unclear: m[3].split("\n").map((s) => s.trim()).filter(Boolean), usage };
 }
 
 const db = await connect();
