@@ -1,6 +1,6 @@
 # GOAL 19: The Mevar texts under mevar/, named by their title and year
 
-**Status:** in progress
+**Status:** PR open
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, `index.json`,
 `markdown/onedrive/` and `markdown/mevar-pdfs/` moving to `markdown/mevar/`,
 `web/src/`, `web/scripts/`, `docs/`)
@@ -67,8 +67,12 @@ mevar.org still serves Ghost; the new site is on the preview only, so no
 
 1. The list: old path, new path, title, year; the names that took a month;
    the texts with no year.
-2. `git diff --stat -M`: the moves are renames; bodies unchanged except
-   the three retitled texts' frontmatter.
+2. `git diff --stat -M`: the moves are renames; bodies unchanged except,
+   stated in the PR: the two retitled texts whose title line opened the
+   text lose it to the frontmatter (a header); two section headings a
+   title's repeat further in lets through (goal 18's rule, narrowed to a
+   text's opening); `laguerre` becomes the duplicate of the sermon split
+   from exhomai2007 (83 keeps a text goal 10 edited over its unedited copy).
 3. 86 on batches 01 to 03, 65, 47, 50, 83, 87 and 88: a second run is a
    no-op.
 4. `npm run build`, `check:dist`: every moved text at `/<slug>/`, no
