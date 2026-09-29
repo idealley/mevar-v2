@@ -206,7 +206,8 @@ for (const md of batch) {
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
   // the pass's unclear sentences an editor's fix has since changed
   // (read without the bold: the pass lists them without its **)
-  const plain = (t) => t.replace(/\*\*/g, "");
+  // and its final mark: « … au Seigneur. » may end « au Seigneur » (Act 9 …) »)
+  const plain = (t) => t.replace(/\*\*/g, "").replace(/[\s.!?…»]+$/, "");
   r.unclearFixed = new Set(pass.unclear.filter((u) => plain(pass.body).includes(plain(u)) && !plain(edited).includes(plain(u))));
   r.editorWords = [];
   const proposedTitle = edits.title ?? pass.title;
@@ -311,6 +312,8 @@ for (const md of batch) {
   const [ey, em] = (edits.date ?? "").split("-");
   r.date = edits.date && opening.has(key(ey)) && opening.has(key(MONTHS[Number(em) - 1] ?? "-")) ? edits.date : field("date");
   r.location = edits.location === "" ? "" : field("location");
+  // the summary is the corpus's, not the preacher's: the editor's, listed
+  r.summary = edits.summary ?? field("summary");
 
   const ow = words(compared);
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
@@ -445,13 +448,15 @@ for (const md of batch) {
       .replace(/^subtitle: .*$/m, (l) => r.subtitle === oldSubtitle ? l : `subtitle: ${JSON.stringify(r.subtitle)}`)
       .replace(/^date: .*\nyear: .*$/m, (l) => r.date === field("date") ? l : `date: ${JSON.stringify(r.date)}\nyear: ${Number(r.date.slice(0, 4))}`)
       .replace(/^location: .*\n/m, (l) => r.location ? l : "")
+      .replace(/^summary: .*$/m, (l) => r.summary === field("summary") ? l : `summary: ${JSON.stringify(r.summary)}`)
       + (r.split ? `\npublished_with: ${JSON.stringify(work(r.split))}` : "") + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${parts[0]}\n`);
     // 50 takes index.json's titles from the manifest
     Object.assign(manifest.find((e) => e.local_md === md), { title: r.title },
       r.subtitle === oldSubtitle ? {} : { subtitle: r.subtitle },
       r.date === field("date") ? {} : { date: r.date, year: Number(r.date.slice(0, 4)) },
-      r.location === field("location") ? {} : { location: null });
+      r.location === field("location") ? {} : { location: null },
+      r.summary === field("summary") ? {} : { summary: r.summary });
     if (r.split) {
       const f = { source: "onedrive", ...edits.split.frontmatter, published_with: work(md) };
       const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}` : `${k}: ${JSON.stringify(v)}`);
@@ -496,6 +501,10 @@ L.push("", "## Headers removed (the frontmatter holds title, date, place)", "");
 for (const r of rows) for (const h of r.removed) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
 L.push("", "## Sentences the pass left as they are (unclear)", "");
 for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}${r.unclearFixed.has(u) ? " (since fixed by the editor)" : ""}`);
+if (rows.some((r) => fixes[r.md]?.summary)) {
+  L.push("", "## Summaries the editor wrote (the corpus's, not the preacher's words)", "");
+  for (const r of rows) if (fixes[r.md]?.summary) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(r.summary)}`);
+}
 L.push("", "## Titles", "", "| Text | Title | Proposed by the pass and refused (a word changed) |", "| --- | --- | --- |");
 for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.titleRefused)} |`);
 // gpt-6-sol, per million tokens: $2 in, $10 out (reasoning included); the
