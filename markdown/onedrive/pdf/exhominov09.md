@@ -6,7 +6,7 @@ subtitle: "Exhortation mi-novembre 2009"
 date: "2009-11-15"
 year: 2009
 preacher: "Parfait M'bra"
-summary: "Cette exhortation et prédication insistent sur l'importance de l'humilité comme voie de la victoire en Christ. Le prédicateur met en garde contre l'orgueil, qui a détruit beaucoup dans le Message, et encourage les croyants à se comparer à Jésus plutôt qu'aux autres, à se faire serviteurs de tous, et à viser la première place dans le royaume de Dieu par l'humilité et le service."
+summary: "Dans cette exhortation de mi-novembre 2009, le frère M'bra reprend la parole de Paul à Timothée, « sois un modèle pour les fidèles » : dans un mouvement de réveil, pas de rancœurs, de calomnies ni de médisances, mais le brisement que Dieu opère. Annonce d'une semaine de prière en décembre."
 tags:
   - "Exhortations"
   - "2009"

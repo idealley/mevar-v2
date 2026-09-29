@@ -6,7 +6,7 @@ subtitle: "Exhortation de mai 2007"
 date: "2007-05-01"
 year: 2007
 preacher: "Parfait M'bra"
-summary: "Cette exhortation et prédication appellent les croyants à sortir de Babylone, c'est-à-dire de la religion et des impuretés, et à mener une guerre de libération contre le siège de Satan dans le Corps de Christ. Elle insiste sur la nécessité de la sanctification individuelle et collective, et sur le rôle de la chaîne de prière dans ce combat spirituel."
+summary: "Dans cette exhortation de mai 2007, le frère M'bra appelle à sortir de Babylone et à se séparer des infidèles (2 Corinthiens 6) : nous sommes au temps de la séparation, et celui qui est appelé à sortir doit quitter le milieu d'où il est appelé. Sujets de prière pour la vie intérieure, l'Église et la famille."
 tags:
   - "Exhortations"
   - "2007"
