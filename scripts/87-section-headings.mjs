@@ -72,7 +72,9 @@ function headingOf(line, proposed) {
 function opening(body) {
   const paras = body.split(/\n{2,}/).map((p) => p.trim());
   const first = paras.findIndex((p) => letters(p).length >= 20);
-  return new Set(paras.slice(0, first < 0 ? paras.length : first));
+  const later = new Set(paras.slice(first < 0 ? paras.length : first));
+  // a line counts as the opening's only if it is not found again further on
+  return new Set(paras.slice(0, first < 0 ? paras.length : first).filter((p) => !later.has(p)));
 }
 const repeats = (line, title, subtitle, open) => open.has(line) && (sameWords(line, title) || sameWords(line, subtitle));
 
