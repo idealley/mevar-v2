@@ -80,7 +80,7 @@ Jeffersonville — Indiana, U.S.A.
 
 «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-LA DEMEURE FUTURE DE L'EPOUX CELESTE ET DE L'EPOUSE TERRESTRE
+## La demeure future de l'Époux céleste et de l'Épouse terrestre
 
 (The future home of the Heavenly bridegroom and the earthly Bride)
 
