@@ -59,7 +59,7 @@ Dans cette citation, vous pouvez retrouver l’essentiel du message du Seigneur.
 
 C’est dans notre génération que l’humanité a connu ses plus graves calamités. Il y a eu dans l’histoire de graves tremblements de terre et de grandes catastrophes naturelles qui ont emporté des vies humaines. La Banque mondiale a donné les informations suivantes : **600 catastrophes naturelles** majeures frappent la Terre chaque année.
 
-**Les désastres les plus meurtriers du 20e siècle** :
+## Les désastres les plus meurtriers du 20e siècle
 
 • Volcanisme : 30 000 morts en Martinique en 1902  
 • Sécheresse : 3 000 000 morts en Chine en 1928  

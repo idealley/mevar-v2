@@ -43,7 +43,7 @@ bible_refs:
   - "Ésaïe 59:1-4"
   - "Jacques 5:16"
   - "2 Chroniques 7:13-14"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et membres de la chaîne de prière, par cette Parole de Deutéronome, au chapitre 23.
 

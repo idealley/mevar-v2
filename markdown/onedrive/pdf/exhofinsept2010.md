@@ -57,7 +57,7 @@ bible_refs:
   - "Ésaïe 41:17-20"
   - "Apocalypse 12"
   - "1 Corinthiens 6:4-10"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole de Jean, dans sa première épître :
 

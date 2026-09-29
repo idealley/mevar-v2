@@ -116,7 +116,7 @@ bible_refs:
   - "1 Corinthiens 11:26"
   - "Matthieu 11:3-5"
   - "Psaumes 103:2-5"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Par la seule grâce de Dieu, je suis conduit à écrire brièvement sur ce sujet de la guérison divine qui revêt un caractère important dans l’œuvre de Dieu et dans **le Ministère de l’Église**, dont le Seigneur Jésus Lui-même est le chef. Plusieurs serviteurs de Dieu ont écrit sur le sujet et ont expérimenté la guérison divine. **C’est l’un des sujets sur lequel la théorie n’a pas trop de place**. Là précisément, il s’agit de vivre pleinement ce qu’on prêche, parce que la guérison divine s’opère et s’acquiert seulement par la foi dans les promesses de la croix. Toute la Bible nous entretient sur la guérison divine, mais malheureusement, plusieurs chrétiens, même dans le Corps de Christ, n’arrivent pas à s’approprier cette guérison miraculeuse qui est un vrai test de foi pour eux.
 
@@ -124,7 +124,7 @@ L’objectif dans cet exposé est de faire comprendre aux chrétiens qu’ils on
 
 Si Jésus-Christ n’a jamais existé, Ponce Pilate non plus n’a jamais existé. Or Ponce Pilate a bel et bien existé, et Jésus-Christ aussi. Il est donc impossible de douter de l’existence de Jésus, car Il a existé effectivement et a marqué Sa vie par des miracles et des prodiges. Aujourd’hui, Dieu cherche des hommes qui croient fermement dans les miracles et les prodiges, des gens qui croient fermement dans la guérison divine pour manifester Sa Puissance. Malheureusement, ils sont de plus en plus rares, ceux qui cherchent à comprendre ou à connaître la Puissance de Dieu. Cet exposé est un appel du Saint-Esprit, une exhortation du Seigneur à l’endroit des chrétiens afin de les amener à croire fermement dans la guérison divine, parce que la guérison divine s’obtient uniquement par une foi inébranlable dans la Puissance de Dieu.
 
-**QU’EST-CE QUE C’EST QUE LA MALADIE ?**
+## Qu’est-ce que c’est que la maladie ?
 
 Avant de parler de la guérison divine, il est important pour le croyant de savoir ce que c’est que la maladie. De manière générale, **une maladie est définie comme un mal qui s’attache à l’homme dans son corps**. Lorsque le corps est malade, le sujet se sent mal et éprouve des douleurs. Il existe certaines maladies qui apparaissent sur le corps par des tumeurs, des taches ou des plaies. Par contre, d’autres n’apparaissent pas physiquement. Les maladies ont des conséquences graves sur les hommes et les amènent jusqu’à la mort, c’est-à-dire dans une dissolution complète du corps. Selon la médecine, à l’origine des maladies, il y a des microbes, des virus, des bactéries, etc. C’est pourquoi lorsque l’homme est malade, il prend des médicaments qui sont censés détruire les microbes qui sont à l’origine du mal. Mais selon ce qui est écrit, les maladies ne sont pas seulement physiques mais spirituelles.
 
@@ -138,7 +138,7 @@ Paul écrit encore :
 
 Tel que l’homme est composé, tel il éprouve la maladie, car il existe deux sortes de maladie : **Les maladies physiques et les maladies spirituelles qui sont logées à la fois dans le corps, dans l’âme et dans l’esprit de l’homme**.
 
-**L’ORIGINE DES MALADIES**
+## L’origine des maladies
 
 L’homme est atteint par la maladie parce que son corps est vulnérable. Jésus l’a dit : « Ne craignez pas ceux qui tuent le corps et qui ne peuvent tuer l’âme ; craignez plutôt celui qui peut faire périr **l’âme et le corps dans la géhenne** » (Matth 10 : 28). Le corps de l’homme est mortel, comme Paul le dit aussi : « Qui me délivrera de ce corps de mort ? » Puis il dit encore : « Et si Christ est en vous, **le corps, il est vrai, est mort à cause du péché**, mais l’esprit est vie à cause de la justice. » (Rom 8/10). Le corps de l’homme est sujet à la mort à cause du péché. Et celui qui peut tuer le corps de l’homme, c’est le diable qui peut utiliser un autre homme, un démon ou la maladie pour tuer l’homme.
 
@@ -146,13 +146,13 @@ Le corps de l’homme a été rendu vulnérable par le péché. En effet, à l�
 
 Quand Dieu a décidé que l’homme devrait désormais mourir, Il a commis un démon à la tâche qui s’appelle **la mort**. Cet esprit décide de la mort de ceux qui ont renié Dieu. Il apparaît dans Apocalypse 6 :8, dans le quatrième sceau. Puis après le dernier jugement, il est pris et jeté dans l’étang de feu après avoir rendu tous ceux qu’il a emportés dans son règne. La mort est un ange déchu, un démon. Cet esprit est à l’origine des guerres, des famines, des calamités, des épidémies et de toutes les catastrophes qui peuvent décimer les hommes en grand nombre. Il est aussi à l’origine des maladies. Étant un ange considéré, il travaille avec plusieurs esprits sous sa domination. Car c’est parce que la mort a été décrétée que les maladies existent. Sans la mort, il n’y aurait pas de maladies. À l’origine donc de la maladie demeure **le péché de la désobéissance**, comme il est dit : « Le salaire du péché c’est la mort. » (Rom 6 :23). Le péché consommé engendre la maladie, puis la mort. Dans la vie du Seigneur Jésus, Il a fait face à plusieurs cas de maladies pour lesquelles Il a prié ou a donné des ordres aux mauvais esprits.
 
-**LES MALADIES DU CORPS**
+## Les maladies du corps
 
 Les maladies du corps sont les plus visibles et les plus connues. Ce sont des maladies qui sont connues de la médecine et qui présentent des symptômes bien connus. Ces maladies sont pour la plupart guérissables. De ce nombre peuvent être cités entre autres : le paludisme, la tuberculose, la fièvre jaune, la dysenterie, le cancer, la lèpre, la grippe, les maladies cardiaques, les maladies des reins, les MST, la méningite, les hépatites, etc. Il existe beaucoup de maladies dans le monde. Dans la Bible, plusieurs ont été guéris de toutes ces maladies. Dans Luc 5 : 12-16 est relatée la guérison d’un lépreux qui fut purifié instantanément d’une lèpre. Dans le même livre, au chapitre 6 :6, Jésus guérit un homme qui avait une main sèche. Ailleurs, dans le livre de Matthieu, il est aussi relaté le récit de la guérison du serviteur du centenier. Ce dernier était atteint de paralysie et était mourant. Il fut guéri. (Matth 8 :5). Dans Jean 5, il est question de la guérison d’un homme qui souffrait depuis trente-huit ans, près de la piscine de Bethesda. Là, dans ce lieu se trouvaient des aveugles, des boiteux, des paralytiques et toutes sortes de malades qui furent guéris.
 
 Ailleurs, dans Jean 8 :40-56, Jésus a guéri une femme qui perdait du sang depuis douze ans. Pour tous ces cas, il y avait des maladies qui détruisaient physiquement la vie des victimes. La belle-mère de Pierre avait la fièvre. Lazare est mort à la suite de la maladie. Plusieurs sont morts à la suite de maladies graves.
 
-**LES MALADIES DE L’ÂME**
+## Les maladies de l’âme
 
 De la même manière que le corps de l’homme est sujet à la maladie, l’âme aussi est sujette à la maladie. Contrairement aux maladies du corps, les maladies de l’âme ne sont pas visibles. Les Saintes Écritures rendent aussi le témoignage de ces choses. C’est pourquoi un homme peut avoir un corps sain, c’est-à-dire sans maladie apparente et être malade dans son âme. **Les maladies de l’âme concernent uniquement le péché**. Lorsqu’un homme vit dans le péché, son âme est rendue malade et subit l’oppression spirituelle. **Un homme qui est dominé par des vices est malade dans son âme et a besoin de la délivrance**. Dans les Écritures, il est parlé à ce sujet de la femme pécheresse qui est venue à Jésus avec des pleurs dans la maison d’un pharisien. (Luc 7 :36). Il est dit :
 
@@ -162,15 +162,15 @@ Certainement que cette femme n’était pas la seule pécheresse de la ville, ma
 
 L’homme Zachée était malade et avait aussi besoin de guérison dans son âme. Généralement, ceux qui sont conscients de leurs maladies dans l’âme sont ceux qui cherchent toujours à voir Jésus pour être guéris. Lorsque Zachée fut délivré de son péché, il se rendit compte qu’il devrait partager ses biens à ceux à qui il avait fait du tort. (Luc 19 :1-10). Tous ceux qui ne peuvent se défaire d’un péché sont des malades dans l’âme et ont besoin de guérison comme les malades ordinaires. Sur ce point, il est clair que tout le monde entier est malade. Il y en a qui sont esclaves de l’alcool, ils sont malades. Il y en a qui sont des obsédés sexuels, ils sont malades. Il y en a qui sont liés par beaucoup de vices impurs, des plaisirs qu’ils ne peuvent pas contrôler, pour lesquels ils sont dépendants. C’est là une maladie de l’âme. Les maladies du corps tuent le corps et les maladies de l’âme tuent l’âme et conduisent dans la seconde mort, en enfer. C’est pourquoi il est dit que « l’âme qui pèche est celle qui mourra » (Ézé 18:4).
 
-**LES MALADIES DE L’ESPRIT**
+## Les maladies de l’esprit
 
 Quant aux maladies de l’esprit, elles concernent les possessions diaboliques, les folies et les influences sataniques. Là aussi, les Écritures en parlent largement. Dans le livre de Luc 4 :31-37, il est question d’un homme lié par un démon qui fut guéri. Cet homme était dans la synagogue, c’est-à-dire qu’il prenait part au rassemblement des enfants de Dieu. Mais il était malade dans son esprit. L’homme possédé qui vivait dans le cimetière était aussi malade dans son esprit parce qu’il était lié, il n’avait plus le contrôle de sa personne. Il était malade de la folie (Matth 8 :28-34). Une femme aussi fut délivrée de sept démons, Marie-Madeleine, qui suivait le Seigneur. Il y a des malades de l’oppression, de l’anxiété, du stress. Dans le livre de Luc 9 :37-42, il est parlé d’un enfant possédé par des mauvais esprits qui fut délivré par le Seigneur. Tous ces sujets étaient liés dans leur esprit et n’avaient pas de paix. Pour ce type de maladies, il n’y a pas de douleurs physiques, mais de l’esclavage spirituel. Car celui qui est lié est esclave du démon qui l’a lié. **Les maladies de l’esprit influencent tous les autres cas de maladies, qu’ils soient dans l’âme ou dans l’esprit**.
 
-**COMMENT ÊTRE GUÉRI DES MALADIES PHYSIQUES ET SPIRITUELLES ?**
+## Comment être guéri des maladies physiques et spirituelles ?
 
 Les maladies physiques et les maladies spirituelles peuvent se guérir par **la repentance, le pardon et au moyen du nom Puissant du Seigneur Jésus-Christ**. Dans les Saintes Écritures, les exemples de guérison des maladies physiques concernent des prières opérées par le Seigneur, puis par les disciples et les apôtres. Pendant Son Ministère en Israël, le Seigneur guérissait les malades, chassait les démons, selon qu’il est écrit : « Le soir venu, on lui amenait plusieurs démoniaques. Il chassa les esprits par sa parole et guérit tous les malades. » (Matth 8 :16). « Et toute la foule cherchait à le toucher, parce qu’une force sortait de lui et les guérissait tous. » (Luc 6 :9). Au début de Son Ministère, le Seigneur Lui-même avait clairement dit ce qui le concernait : « L’Esprit du Seigneur est sur moi, parce qu’il m’a oint pour guérir ceux qui ont le cœur brisé ; pour annoncer la bonne nouvelle aux pauvres et aux aveugles le recouvrement de la vue, pour renvoyer libres les opprimés, pour proclamer une année de grâce du Seigneur. » (Luc 4 :18). Déjà, dans la mission du Seigneur, il était établi qu’il devrait s’occuper des malades physiques et spirituels (cœurs brisés). Mais pour toutes ces maladies, le Seigneur réclamait la foi.
 
-**POURQUOI LA CONFESSION ET LA REPENTANCE ?**
+## Pourquoi la confession et la repentance ?
 
 > Quelqu’un parmi vous est-il malade ? Qu’il appelle les anciens de l’Église et que ceux-ci prient pour lui en l’oignant d’huile au nom du Seigneur ; la prière de la foi guérira le malade, et le Seigneur le relèvera, et **s’il a commis des péchés, il lui sera pardonné. Confessez donc vos péchés les uns aux autres**, et priez les uns pour les autres, **afin que vous soyez guéris**. (Jacq 5 :14-16).
 
@@ -200,19 +200,19 @@ Au total, il faut dire que la guérison divine a des origines bibliques fondamen
 
 Tout ceci est dans l’Église afin que tous les saints trouvent en Christ, le réconfort, la délivrance physique et spirituelle.
 
-**LE JUSTE VIVRA PAR LA FOI**
+## Le juste vivra par la foi
 
 > Car je n’ai point honte de l’Évangile : c’est une **puissance de Dieu** pour le salut de quiconque croit, du Juif premièrement puis du Grec, parce qu’en lui est révélée la justice de Dieu par la foi et pour la foi selon qu’il est écrit : **le juste vivra par la foi**. (Rom 1 :17)
 
 Ce principe divin est tellement important pour les chrétiens qu’il doit être bien compris par les uns et les autres. Car celui qui se réclame du Christ doit vivre par la foi. **La foi n’est pas seulement réclamée pour parvenir à Jésus-Christ, mais est aussi réclamée pour vivre en Lui**. Celui qui a été rendu juste par la foi en Christ doit vivre par cette même foi en Lui. C’est pourquoi dans tous les domaines de sa vie, le chrétien doit pleinement manifester sa foi. **Il doit vivre la foi, y compris dans le domaine de la guérison des maladies. Le juste vivra par la foi veut aussi dire que le juste guérira par la foi**. Le croyant malade guérira par la foi en Jésus-Christ. C’est dans la manifestation d’une telle foi que le nom du Seigneur est pleinement glorifié. Ici, il ne doit pas avoir de doute dans l’œuvre de délivrance de la croix. Mais une pleine assurance doit être manifestée en Christ.
 
-**Exemples bibliques de guérison**
+## Exemples bibliques de guérison
 
-**Le muet de Matthieu 9 :32-34**
+### Le muet de Matthieu 9 : 32-34
 
 « Comme ils s’en allaient, on lui amena un démoniaque muet. Le démon chassé, le muet parla. » Dans cette expérience, il est clairement établi que l’homme muet l’était à cause d’un démon qui lui a privé de ses facultés d’expression. C’est donc les mauvais esprits qui sont à l’origine du mutisme.
 
-**L’homme aveugle et muet de Matthieu 12 :22-24**
+### L’homme aveugle et muet de Matthieu 12 : 22-24
 
 « Alors on lui amena un démoniaque aveugle et muet, et il le guérit de sorte que le muet parlait et voyait. » Il fut accusé par les foules de chasser ces démons par Belzébul. Plusieurs autres aveugles furent guéris par le Seigneur. (Jn 9/1-41)
 
@@ -220,7 +220,7 @@ Ce principe divin est tellement important pour les chrétiens qu’il doit être
 
 La guérison de cet homme fut instantanée comme celle de Naaman. Il est dit que « Jésus étendit la main, le toucha et dit : Je le veux, sois purifié. Aussitôt, la lèpre le quitta ». La maladie de la lèpre laissait toujours des traces sur les corps des malades, même après leur guérison, mais dans les cas de délivrance opérée par le Seigneur, les malades étaient entièrement purifiés.
 
-**La femme bossue de Luc 13/10-17**
+### La femme bossue de Luc 13/10-17
 
 « Or, il y avait là, une femme rendue infirme par un esprit depuis dix-huit ans, elle était courbée et ne pouvait absolument pas se redresser. Jésus la vit, lui adressa la parole et dit : “Femme, tu es délivrée de ton infirmité”, et il lui imposa les mains. À l’instant, elle se redressa et glorifia Dieu. » Dans ce récit, la femme était liée par un esprit depuis dix-huit ans. Mais à la prière du Seigneur, le démon a fui et aussitôt, la femme fut guérie.
 
@@ -230,7 +230,7 @@ La guérison de cet homme fut instantanée comme celle de Naaman. Il est dit que
 
 Ainsi donc, à l’origine des maladies physiques, telles que les paralysies, la cécité, la main sèche, la lèpre, etc., il y a des démons. Ces esprits détruisent le corps et le sang par les déformations physiques, par les microbes, les virus ou les bactéries. Ces esprits entretiennent les plaies, les infections, et les déformations. C’est pourquoi la femme qui perdait du sang fut guérie, suite au départ du démon qui entretenait son infection depuis de longues années. Celle qui était bossue recouvra également la liberté lorsque le démon qui la maintenait courbée la quitta.
 
-**LA GUÉRISON DIVINE ET LES MÉDICAMENTS PHARMACEUTIQUES**
+## La guérison divine et les médicaments pharmaceutiques
 
 Aujourd’hui, plusieurs chrétiens sont confrontés à des maladies inguérissables ou incurables. Ils souffrent dans leur corps à cause de leur propre incrédulité. **La médecine et la pharmacie les ont rendus incrédules, au point qu’ils privilégient la prise des médicaments par rapport à la foi dans l’œuvre parfaite de la croix**. Ceux-là sont appelés par le Christ « hommes ou femmes de peu de foi ». Et de tels chrétiens sont nombreux parmi nous. Ils refusent de souffrir les douleurs de la maladie qui sont aussi les douleurs de Christ et veulent toujours une guérison rapide. En eux, ne se trouve aucune patience dans l’épreuve et dans la douleur, c’est pourquoi ils courent après des solutions sans foi.
 
@@ -250,7 +250,7 @@ Il y a des chrétiens qui ont peur des épidémies et des contagions. Mais la Pa
 
 Autrefois, vous portiez en vous la maladie, parce qu’en vous se trouvait ce qui entraîne la maladie, **le péché**. Mais depuis l’apparition de Christ, la guérison est venue à nous et nous la portons comme une vertu à communiquer au monde. C’est pourquoi je vous exhorte à dire non à la maladie pour vivre pleinement dans la délivrance de la croix. Si vous péchez, repentez-vous au plus vite pour ne pas tomber malade. **Car en Christ, la maladie vient à nous, non comme un mal**, **mais comme une épreuve pour notre foi**, mais passez-la avec succès et non avec des murmures et des grincements de dents, car ceux qui grincent les dents ne peuvent être des vainqueurs.
 
-**CHRIST EST MA VIE – LA MORT M’EST UN GAIN (PHIL 1 :21)**
+## Christ est ma vie – la mort m’est un gain (Phil 1 : 21)
 
 Quelle est la finalité de la maladie ? De quoi avons-nous peur quand nous sommes malades ? De la mort ? Mais Christ a vaincu la mort. De quoi avez-vous peur ? Des douleurs ? Mais Christ a porté nos douleurs, sinon vous auriez souffert plus que vous ne souffriez aujourd’hui. Alors Christ a souffert, et vous ne souffririez pas ? Celui qui refuse de souffrir dans la maladie est un homme ingrat qui met en oubli les souffrances du Christ. Il est indigne du Christ et de sa vocation céleste. Un tel homme ne peut être un vainqueur. Quant à Paul, il a dit « **La mort m’est un gain** ». Au moment où plusieurs parmi les chrétiens fuient la mort, il y en a un qui proclame haut et fort que la mort est pour lui un « **gain** ». **Si Christ est notre vie – la mort est effectivement un gain pour nous**. Un gain est un bien, un bénéfice. C’est pourquoi, sachez-le bien ! Pour vous les incrédules, les hommes de peu de foi, qui passent beaucoup plus de temps à discuter qu’à obéir à ce qui est écrit, **sachez que si la mort est un gain pour celui qui est en Christ, la maladie qui engendre la mort est aussi un gain, c’est-à-dire un bénéfice pour celui qui est en Christ**. Nul n’a donc besoin d’avoir peur de la maladie et de la mort.
 
@@ -276,7 +276,7 @@ Quand j’ai reçu cette révélation sur la guérison divine, ces douleurs ont 
 
 **Jésus-Christ n’est pas seulement la guérison, mais IL EST MA GUÉRISON PERSONNELLE**.
 
-**LA GUÉRISON EST UNE VERTU DU CHRÉTIEN**
+## La guérison est une vertu du chrétien
 
 > Il me ramena vers l’entrée de la Maison. Et voici que de l’eau sortait sous le seuil de la Maison à l’est, car la façade de la Maison était à l’est ; l’eau descendait sous le côté droit de la Maison au sud de l’autel. Il me fit sortir par le chemin du porche nord et il me fit faire le tour par dehors jusqu’à l’extérieur du porche faisant face à l’est. Voici que l’eau coulait du côté droit. Lorsque l’homme sortit vers l’est, il avait dans la main un cordeau et il mesura mille coudées ; il me fit traverser l’eau, et j’avais de l’eau jusqu’aux chevilles. Il mesura encore mille coudées et me fit traverser l’eau, et j’avais de l’eau jusqu’aux genoux. Il mesura encore mille coudées et me fit traverser, et j’avais de l’eau jusqu’aux reins. Il mesura encore mille coudées ; c’était un torrent que je ne pouvais traverser, car l’eau était si profonde qu’il fallait y nager ; c’était un torrent qu’on ne pouvait traverser.
 >
@@ -300,27 +300,27 @@ Vous vous imaginez, mes frères, l’ombre de Pierre guérissait les malades. Il
 
 Paul était rempli de la Puissance du Saint-Esprit, au point que les mouchoirs qui le touchaient guérissaient les malades. Et Dieu faisait des miracles extraordinaires par les mains de Paul, **au point qu’on appliquait sur les malades des linges ou des étoffes qui avaient touché son corps ; alors les maladies les quittaient, et les esprits mauvais sortaient**. (Actes 19 :11-12). Un chrétien est un vrai dieu comme la Bible le dit. Psaumes 82 :1-6. « J’avais dit, vous êtes des dieux. » En tant que dieu, le chrétien doit posséder toutes les vertus du Saint-Esprit et les manifester pleinement pour glorifier le Seigneur Jésus dans le monde, notamment, **la capacité de chasser les démons, de guérir les malades, de ressusciter les morts, de consoler les affligés. Tout ceci par la Parole et par la prière**.
 
-**L’EXEMPLE DE JOB, D’ÉZÉCHIAS ET D’AHAZIA**
+## L’exemple de Job, d’Ézéchias et d’Ahazia
 
-**LA MALADIE DE JOB**
+### La maladie de Job
 
 L’histoire de Job est bien connue dans les Saintes Écritures parce qu’elle enseigne beaucoup de leçons aux enfants de Dieu. Job fut livré à Satan pour être tourmenté par la maladie. À l’origine de ces tourments se trouvait un défi lancé par Satan à Dieu au sujet de l’intégrité de Job : « Mais étends ta main, touche à ses os et à sa chair, et je suis sûr qu’il te maudira en face. » (Job 2 :5). Plusieurs préfèrent leur chair à l’amour de Dieu, au point qu’ils sont prêts à renier le Seigneur dans la maladie. Ils ne le font pas en face, mais n’ont aucune confiance dans le Seigneur. Ils remettent entièrement leur sort aux médecins et aux remèdes pharmaceutiques. Quant à Job, il a préféré son âme par rapport à sa chair.
 
 **En plus, à l’origine de son mal, il n’y avait pas de péchés, ni de désobéissance, mais un défi**. Cependant, Job ne savait pas qu’il existait un défi. Il ne savait pas non plus que Dieu avait permis qu’il souffre pour la gloire de l’armée céleste. Job ne savait pas que sa foi était éprouvée de cette manière dans le ciel, en présence de Dieu, des fils de Dieu et de Satan. Et ce spectacle a toujours cours parmi nous, comme le dit Paul : « Nous sommes environnés d’une si grande nuée de témoins. » (Hébr 12 :1). Cette grande nuée de témoins qui a vaincu les épreuves de tout genre, y compris la maladie, observe les chrétiens de cet âge depuis le ciel, lorsqu’ils sont aux prises avec les épreuves et la maladie. Que chaque malade se comporte comme Job, en sachant que son mal peut être provoqué par l’accusateur. Car Job n’avait pas été victime de son péché mais plutôt de **son intégrité**.
 
-**LA MALADIE D’ÉZÉCHIAS**
+### La maladie d’Ézéchias
 
 Dans Ésaïe 38 est relaté le cas d’Ézéchias qui est tombé malade à mort : « Ézéchias fut malade à mort. Le prophète Ésaïe, fils d’Amots vint auprès de lui et lui dit : Ainsi parle l’Éternel : donne des ordres à ta maison, car tu vas mourir, tu ne vivras plus. Ézéchias tourna son visage contre le mur et pria l’Éternel. » (V1-2). L’exemple du roi Ézéchias est très édifiant dans la mesure où il eut l’attitude la plus juste lorsqu’il tomba malade : il consulta l’Éternel et lui remit son sort. Les causes de la maladie d’Ézéchias ne sont pas mentionnées, mais il est dit « qu’il tourna son visage contre le mur et pria l’Éternel ». Il dit au Seigneur : « J’ai marché devant ta face avec fidélité et intégrité de cœur et j’ai fait ce qui est bien à tes yeux. » (V 3).
 
 Comme Job, cet homme n’avait rien à se reprocher, parce qu’il avait la crainte de Dieu dans son cœur. Dieu fit grâce à Ézéchias et ajouta quinze années de plus à sa vie. Il lui dit : « J’ai entendu ta prière, j’ai vu tes larmes, **voici, je te guérirai ; le troisième jour, tu monteras à la maison de l’Éternel**. » Lorsque la Parole de guérison fut proclamée en faveur d’Ézéchias, alors Ésaïe dit : « **Prenez une masse de figues. On la prit et on l’appliqua sur l’ulcère**. » Et Ézéchias guérit. (2 Rois 20 :5-7). Que celui qui est malade s’humilie devant Dieu et prie, en commençant par se repentir — s’il croit, il obtiendra miséricorde, car Dieu ne fait acception de personne. **Au lieu de cela, beaucoup préfèrent commencer par les traitements médicaux, au lieu de chercher la face de Dieu comme Ézéchias**.
 
-**LA MALADIE D’AHAZIA (2 ROIS1 :14)**
+### La maladie d’Ahazia (2 Rois 1 : 14)
 
 Le roi Ahazia tomba malade et se tourna vers Baal-Zéboub, dieu d’Ékron. L’Éternel envoya alors le prophète Élie lui dire : « Est-ce qu’il n’y a pas de Dieu en Israël que vous allez consulter Baal-Zéboub, dieu d’Ékron ? C’est pourquoi, ainsi parle l’Éternel : le lit sur lequel tu es monté, tu n’en descendras pas, car tu mourras certainement. » Ahazia mourut comme Dieu l’avait annoncé. Un tel exemple ne doit pas se trouver parmi les enfants de Dieu. Ceux-ci doivent plutôt se tourner vers le Seigneur Jésus-Christ qui leur a promis la guérison divine. Naaman est venu en Israël dans le Jourdain pour se purifier de sa lèpre, mais Ahazia qui est Juif a trouvé bon d’aller consulter un dieu étranger. Comment alors, Dieu ne se fâcherait-il pas ? Que Dieu aide Son peuple qui manque cruellement de foi en ce moment dans l’Église.
 
 **Job était en communion avec Dieu — Ézéchias aussi était en communion avec Lui, c’est pourquoi les deux ne se reprochaient rien**. Quand ils sont malades, ceux qui n’ont pas de foi dans la guérison divine commencent par absorber des médicaments, sans toutefois chercher à savoir l’origine du mal qu’ils ont. Seulement, ils reviennent au Seigneur quand le mal s’empire.
 
-**LE MINISTÈRE DE LA GUÉRISON**
+## Le ministère de la guérison
 
 Le Ministère de la guérison est exercé par le serviteur de l’Éternel. À ce sujet, il est dit : « Et je te prends par la main, je te protège et je t’établis pour faire alliance avec le peuple, pour être la lumière des nations, pour ouvrir les yeux des aveugles, pour faire sortir de prison le captif, et de leur cachot, les habitants des ténèbres. » (Ésaïe 42 : 6-7). Puis le Seigneur venu en Israël dit : « L’Esprit du Seigneur est sur moi parce qu’il m’a oint pour guérir ceux qui ont le cœur brisé, pour annoncer la bonne nouvelle aux pauvres ; il m’a envoyé pour proclamer aux captifs la délivrance et aux aveugles le recouvrement de la vue, pour renvoyer libres les opprimés. » (Luc 4 :18).
 
@@ -332,11 +332,11 @@ Le Seigneur a entrepris une œuvre de délivrance des esprits liés par les dém
 
 Le Ministère de la guérison s’exerce donc dans la prédication et dans la prière pour les malades. Après avoir exercé ce Ministère, comme il vient d’être relaté, le Seigneur le laissa à l’Église, à Ses serviteurs qui agissent uniquement par le Saint-Esprit.
 
-**L’ORDRE DE MARC 16**
+## L’ordre de Marc 16
 
 Dans Marc 16 :17, il est dit : « **Voici les signes qui accompagneront ceux qui auront cru : en mon nom, ils chasseront les démons, ils imposeront les mains aux malades et ceux-ci seront guéris**. » Ce passage biblique est diversement interprété par plusieurs prédicateurs. Mais les uns et les autres doivent savoir que son accomplissement n’est pas simple. Dans un cadre général, il arrive que le Seigneur accomplisse quelques guérisons et quelques prodiges. **Mais la réalité est que ces signes qui accompagnent ceux qui croient se réalisent par la Puissance de Dieu qui vient sur les disciples. Que ce soit la guérison intérieure comme la guérison physique, leur accomplissement requiert premièrement la Puissance de Dieu**.
 
-**ÊTRE REVÊTU DE LA PLÉNITUDE ET DE LA PUISSANCE DU SAINT-ESPRIT**
+## Être revêtu de la plénitude et de la puissance du Saint-Esprit
 
 Il faut être revêtu de la Puissance de l’Esprit pour être accompagné par les signes et les prodiges de Marc 16. **À ce sujet, il ne s’agit pas de prier dans le doute ou de s’attendre plus ou moins au Seigneur**. Il ne s’agit pas non plus d’intimer l’ordre aujourd’hui et demain à un mauvais esprit. **Mais il s’agit d’exercer promptement l’autorité du Seigneur Jésus-Christ par la Puissance de Son nom**. Dans le cas du Seigneur, les deux choses sont mentionnées dans Sa vie. En effet, **lors de Son baptême, tandis qu’Il priait, l’Esprit descendit sur Lui sous une forme corporelle, comme une colombe**. En ce moment, Il fut rempli corporellement de **la plénitude du Saint-Esprit**. C’est pourquoi il est dit dans Luc 4 :1 : « **Jésus rempli d’Esprit saint**, revint du Jourdain et fut conduit par l’Esprit dans le désert. » Cependant, lorsqu’Il partit jeûner et prier dans le désert pendant quarante jours, Il y est revenu étant revêtu de **la Puissance de l’Esprit**, c’est pourquoi il est dit au verset 14 : « Jésus retourna en Galilée, **avec la puissance de l’Esprit** et sa renommée se répandait dans toute la région. »
 
@@ -344,7 +344,7 @@ C’est après avoir réuni ces deux choses : **la Plénitude et la Puissance*
 
 N’est-ce pas que les disciples avaient pratiqué le Ministère de la guérison après la Pentecôte ? Il a fallu qu’ils soient d’abord revêtus de la Puissance du Saint-Esprit, car les disciples à la Pentecôte n’avaient pas seulement fait l’expérience du baptême du Saint-Esprit, mais avaient aussi été revêtus de la Puissance de Dieu, laquelle était symbolisée par les langues de feu qui se posaient sur eux. Et Jésus Lui-même parla de ce feu qu’Il devait jeter sur la terre dans Luc 12 :49-50. « **Je suis venu jeter un feu sur la terre, et qu’ai-je à désirer, s’il est déjà allumé ? Il est un baptême dont je dois être baptisé, et combien il me tarde qu’il soit accompli** ! »
 
-**PRIER POUR LES MALADES DANS L’ASSEMBLÉE LOCALE**
+## Prier pour les malades dans l’assemblée locale
 
 Dans les rassemblements de l’Église, on prie pour les malades parmi les frères. Mais Jésus a dit : « En mon nom, ils imposeront les mains aux malades et ceux-ci seront guéris. » Puis il est encore dit dans Jacques :
 

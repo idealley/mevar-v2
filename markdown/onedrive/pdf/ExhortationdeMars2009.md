@@ -65,7 +65,7 @@ bible_refs:
   - "1 Corinthiens 9:23-27"
   - "2 Corinthiens 11"
   - "Galates 1:15-18"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et membres de la chaîne de prière, par cette Parole d’Ésaïe, au chapitre 40 :
 

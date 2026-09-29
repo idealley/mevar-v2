@@ -72,9 +72,9 @@ bible_refs:
   - "Proverbes 7"
   - "1 Corinthiens 9:25-27"
   - "Apocalypse 18:1-2"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
-**TROIS ANNÉES DE COMBAT ET D’ÉPREUVES**
+## Trois années de combat et d’épreuves
 
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur et Sauveur Jésus-Christ par cette Parole de Paul aux Hébreux :
 
@@ -118,7 +118,7 @@ Chacun d’entre nous doit accepter l’épreuve qu’il endure dans cette œuvr
 
 Si Dieu doit louer votre foi dans Ses livres de Souvenirs, il faut auparavant que cette foi soit éprouvée.
 
-**DIEU NOUS ENVERRA LA CONSOLATION**
+## Dieu nous enverra la consolation
 
 Mes chers amis, nous obtiendrons de la part de notre Dieu, la consolation, puisque nous avons part avec Lui, à la souffrance de la Mission divine. C’est ainsi que Paul nous exhorte, lui qui a achevé dans son corps, les souffrances de Christ. En son temps, Paul ne savait pas qu’après lui viendraient d’autres, qui devaient aussi marcher dans ses traces pour continuer de porter les douleurs du Christ :
 
@@ -156,7 +156,7 @@ Nous avons écouté la prédication « **Les fils du désert** ». Nous devons
 
 Une route est effectivement ouverte dans un désert spirituel pour le Seigneur Jésus-Christ, la Consolation que tout le monde entier attend. Mes bien-aimés, la chose la plus remarquable est que cette route est ouverte dans ton cœur et dans mon cœur. **C’est par toi et moi – par tous les chrétiens décidés et résolus que le Seigneur pourra à nouveau se frayer un passage pour atteindre l’Église – le monde et toute la création en ce moment en souffrance**. Beaucoup attendent le Seigneur, mais beaucoup ne veulent pas faire le désert. Ils veulent un réveil sans épreuve – ils veulent un enfantement sans douleurs. Que Dieu nous aide et nous soutienne tous ! Nous pouvons espérer dans notre Consolation parce qu’elle arrive. Notre Dieu va à nouveau nous visiter et ça sera la joie !
 
-**PLANS D’ATTAQUES – RUSES DE SATAN**
+## Plans d’attaques – ruses de Satan
 
 > **Au reste, fortifiez-vous dans le Seigneur**, et par sa force toute-puissante. **Revêtez-vous de toutes les armes de Dieu, afin de pouvoir tenir ferme contre les ruses du diable**. Car nous n’avons pas à lutter contre la chair et le sang, mais contre les dominations, contre les autorités, contre les princes de ce monde de ténèbres, contre les esprits méchants dans les lieux célestes. **C’est pourquoi, prenez toutes les armes de Dieu, afin de pouvoir résister dans le mauvais jour, et tenir ferme après avoir tout surmonté**. (Éphésiens 6 :10-13)
 
@@ -210,7 +210,7 @@ C’est ici une stratégie de Satan. **Je dois avouer que nous avons été souve
 
 Dalila n’aimait pas Samson, mais c’est Samson qui l’aimait et qui voulait vivre avec elle. Alors ses ennemis sont passés par elle pour découvrir son secret. Elle a procédé par la ruse et la flatterie pour l’avoir. **C’était un combat et Samson le savait très bien. Mais il a succombé à cause de l’envoûtement de Dalila**. Souvent, le diable parle au cœur de plusieurs parmi nous, comme Dalila parlait au cœur de Samson, et les envoûte de cette manière. Et l’adversaire nous a à l’usure avec cette stratégie. **Il joue sur les sentiments fraternels, mais nous devons prier pour être habités par l’Esprit militaire**. Car dans l’armée, il n’y a pas de sentiments, ni de compromis avec l’adversaire. **Nous devons de manière rigoureuse appliquer la discipline militaire en notre milieu, sans haine, ni mépris, quand la situation se présente avec les frères**.
 
-**NOUS SOMMES DANS L’ARMÉE – NOTRE OBJECTIF EST MILITAIRE**
+## Nous sommes dans l’armée – notre objectif est militaire
 
 Mes bien-aimés frères et sœurs, sachez que nous sommes dans l’Armée et que **notre objectif est un objectif militaire**. Nous poursuivons un objectif militaire – nous ne sommes pas dans la plaisanterie. C’est pourquoi il est bon que celui qui ne comprend pas s’asseye pour examiner les choses. **Notre objectif est militaire parce qu’il s’agit pour nous de détruire une puissance – un royaume et une armée ennemie. Cette armée ennemie**, **c’est l’armée de Babylone**. Il y a beaucoup de serviteurs de Dieu qui prennent part à cette œuvre, mais qui n’ont pas encore compris l’objectif poursuivi. Je voudrais nous rappeler que nous sommes dans l’Armée et que cela est conforme à la vision de frère Branham concernant la marche finale de l’Épouse. Je vous ai montré que dans la brochure « L’Enlèvement », le frère Branham a relaté la vision qu’il avait eue concernant la marche des vierges après lui. Il a vu en dernière phase, les jeunes filles vierges bien en ordre, et une voix se fit entendre : « **En avant, soldats de Christ** ! »
 
@@ -248,7 +248,7 @@ C’est à cause du sérieux de l’objectif que notre vie n’est plus la même
 
 Aujourd’hui, ma grande souffrance et mes nombreux soucis proviennent des frères en Côte d’Ivoire. Je vis dans la crainte de savoir ce qu’ils vont soulever à nouveau le lendemain, comme question à débattre ou comme compréhension ou développement particulier. Le diable a fragilisé certains frères parmi nous et les a conduits dans la rébellion à l’œuvre de Dieu sans qu’ils ne s’en rendent compte. Certains ne prient plus dans la chaîne de prière parce que les sujets de prière ne leur conviennent plus. D’autres réclament des Ministères à exercer. En effet, les frères n’ont pas encore compris que nous sommes une Armée en préparation et que nous sommes dans un **SEUL MINISTÈRE AVEC UNE SEULE CONSIGNE POUR UN SEUL OBJECTIF**. Les Ministères qui sont apparus dans ce mouvement de réveil doivent affermir les frères et sœurs qui sont engagés dans la voie du réveil. C’est ce qu’ils doivent faire : **affermir les frères et sœurs et non les désorienter ou leur enseigner une autre vision**.
 
-**QUELLE EST LA STRATÉGIE DE SATAN AUJOURD’HUI ?**
+## Quelle est la stratégie de Satan aujourd’hui ?
 
 **Aujourd’hui, la stratégie du diable est de disperser le mouvement du réveil parce que cette œuvre de prière le dérange énormément**. La vision de cette œuvre dérange le diable. C’est pourquoi il met tout en œuvre pour la détruire. Depuis le début, je l’ai vu venir. **Vous vous souvenez qu’en fin d’année 2007, on avait reçu une vision du Congo qui disait que Satan allait visiter les pays dans lesquels se trouvaient les croyants du réveil**. J’ai publié cette vision partout pour l’instruction des frères. Et cette vision disait que le diable avait remplacé son collaborateur de la Côte d’Ivoire parce qu’il avait échoué. Et l’instruction fut donnée au prochain démon sur la Côte d’Ivoire d’attaquer mes collaborateurs afin de m’isoler. Le diable a vu qu’il ne pouvait pas m’atteindre, mais qu’il pouvait avoir mes collaborateurs. **C’est ce qu’il a fait et il a réussi son travail par l’enseignement. À ce sujet, je voudrais vous mettre en garde mes bien-aimés**. Satan séduit en notre milieu par **l’enseignement, les songes, les visions et les prophéties. Nous avons abondamment expérimenté les quatre choses en Côte d’Ivoire**. **Mais il a échoué**.
 
@@ -266,7 +266,7 @@ Si nous prions contre un péché qui n’est pas dans votre vie, pourquoi ne pri
 
 Et tout ce travail est l’œuvre de ce démon que Satan a mandaté pour éprouver mes collaborateurs, les influencer pour les amener à déranger la direction et la vision. Mais Satan ment, il ne pourra pas nous faire plier – seulement que la guerre sera très dure entre nous. Le combat sera dur pour nous tous. Priez pour moi afin que Dieu m’aide à tenir ferme dans la voie où nous sommes engagés, car cette œuvre est vraie – nous sommes vrais parce que notre Seigneur est vrai. Il nous enverra la consolation que nous attendons. Souvent je suis silencieux à cause de toutes ces tribulations que Satan et les frères me suscitent. Priez pour moi afin que Dieu me rende fort, qu’Il m’aide à vous rendre le service que je vous dois.
 
-**NOUS AVONS CHOISI – C’EST LA VOLONTÉ DE DIEU**
+## Nous avons choisi – c’est la volonté de Dieu
 
 **Nous sommes dans l’Armée. Nous avons choisi la guerre**. **Nous avons choisi les jeûnes et les prières**. Nous avons choisi la vie difficile que nous impose le réveil. Dieu nous l’a proposé et nous l’avons choisi sans pression, ni menace. Qui nous menacerait ? C’est notre vie et nous l’aimons ainsi. **Nous souffrons, nous peinons, mais nous savons que nous avons part à la consolation divine**. Mes chers amis, n’errez pas et ne suivez pas les meneurs de troupes et les faiseurs de bruit. **Ayez les regards fixés sur l’objectif, en respectant les consignes qui vous sont données de l’État-major**. Ne vous laissez pas distraire par les raisonnements de Satan. Au reste, demeurons dans la prière et dans la foi et nous verrons la gloire de Dieu. Tous les frères et sœurs qui sont apparus dans les temps de réveil sont passés par notre chemin. **Nous devons être fiers d’être des pionniers dans les cœurs desquels le Seigneur est en train de se frayer un chemin pour son apparition à nouveau dans l’Église et dans le monde**.
 

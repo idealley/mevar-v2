@@ -55,7 +55,7 @@ bible_refs:
   - "Jérémie 44:15-22"
   - "2 Thessaloniciens 2"
   - "Ésaïe 14"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes frères et sœurs, que le Seigneur vous bénisse. Que la paix de notre Dieu soit avec vous tous. Ce matin je voudrais apporter une prédication sur les adorateurs de Satan. Satan a des adorateurs dans l’Église… Ils sont dans le Peuple de Dieu et se livrent à un culte qui n’est pas voué à Dieu, mais à des démons. Mais avant cela, je voudrais nous dire que nous devons prier pour notre pays, pour la situation que nous traversons… Ici il n’y a pas de RDR, il n’y a pas de PDCI, il n’y a pas de FPI. Non, non, non, on n’est pas dans les partis politiques ici. Nous, notre parti, c’est le parti de Jésus [l’assemblée répond amen]. Moi je suis un citoyen du ciel, je me bats pour aller au ciel m’asseoir là-bas. Ce que les gens font sur la terre ne m’intéresse pas. Tout ce qui concerne Jésus et le ciel, c’est ça qui est pour moi, amen ! Nous ne sommes pas des politiciens.
 

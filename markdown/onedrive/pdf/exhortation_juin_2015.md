@@ -76,7 +76,7 @@ bible_refs:
   - "Aggée 1:6-7"
   - "1 Timothée 6:17"
   - "2 Samuel 12:8-9"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ qui a accepté de donner sa vie pour notre salut, par son sang. C’est en Lui que nous avons la paix qui surpasse toutes les intelligences. Mes chers amis, après la publication de la précédente exhortation, l’Esprit m’a encore ramené sur le même sujet pour ce mois. J’ai donc trouvé nécessaire de compléter ce qui a été dit le mois passé au sujet du droit des serviteurs de Dieu. **Sur ce sujet, il n’existe pas de doctrine dans le Nouveau Testament, mais le peuple de Dieu est appelé à marcher dans la Foi, la Liberté et la Fidélité à l’égard de Dieu**. Ce qui était prescrit dans la Loi de Moïse comme une ordonnance est prescrit dans le Nouveau Testament comme une Loi de l’Esprit dans notre cœur.
 
@@ -146,7 +146,7 @@ Aujourd’hui, la plupart de ceux qu’on appelle pasteurs brillent dans ce mond
 
 **En effet, si nous nous sentons responsables, appelés de Dieu, nous devons parvenir, à cette heure de la nuit, à pourvoir aux besoins de l’œuvre tant au niveau spirituel que matériel**. Comme je l’ai dit dans la dernière exhortation, nous devons semer des biens spirituels dans la vie de ceux qui nous écoutent. **C’est en pourvoyant premièrement aux besoins spirituels de l’œuvre que nous pouvons donner les moyens aux autres membres du Corps de pourvoir aux besoins matériels**. Si vous regardez parmi les femmes qui assistaient Jésus de leurs biens, vous verrez qu’elles avaient été délivrées, certaines de démons et d’autres de maladies. Dans le milieu religieux, les gens sont assis avec leurs démons et leurs problèmes spirituels et donnent quand même, parce qu’en donnant, ils n’espèrent pas les biens spirituels, mais la prospérité matérielle dans ce monde. Mais le vrai croyant qui se trouve dans la voie juste se dépouille en croyant que Dieu va davantage l’utiliser pour son œuvre.
 
-**Bénédiction et malédiction**
+## Bénédiction et malédiction
 
 > Un homme trompe-t-il Dieu ? Car vous me trompez, et vous dites : En quoi t’avons-nous trompé ? Dans les dîmes et les offrandes. **9** **Vous êtes frappés par la malédiction**, et vous me trompez, la nation tout entière !
 

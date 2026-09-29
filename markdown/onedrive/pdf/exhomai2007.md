@@ -50,7 +50,7 @@ bible_refs:
 published_with: "onedrive/pdf/exhomai2007-la-guerre-de-liberation"
 editorial_pass: "2026-09-29"
 ---
-**Sortez de Babylone** !
+## Sortez de Babylone !
 
 Je vous salue tous, mes bien-aimés frères et sœurs en Christ notre Seigneur et Sauveur, par cette Parole du Seigneur dans la deuxième lettre de Paul aux Corinthiens :
 
@@ -84,9 +84,9 @@ Cette fois-ci, nous aurons une longue liste de sujets de prière pour lesquels n
 
 **Fr M’BRA Parfait**
 
-**Sujets de prière**
+## Sujets de prière
 
-**Sujets de prière pour la vie intérieure**
+### Sujets de prière pour la vie intérieure
 
 1. Prions et demandons à Dieu de **libérer notre âme et notre esprit du siège des démons** – que tout joug de l’adversaire qui pèse sur nous soit brisé au Nom de Jésus.
 
@@ -110,7 +110,7 @@ Cette fois-ci, nous aurons une longue liste de sujets de prière pour lesquels n
 
 11. Le Seigneur s’est inquiété dans Luc 18 au sujet de la foi : « **Mais, quand le Fils de l’homme viendra, trouvera-t-il la foi sur la terre** ? » Prions et demandons à Dieu de nous augmenter la foi pour que **nous puissions lui faire totalement confiance - qu’Il nous enseigne à prier pour être exaucés**.
 
-**Sujets de prière pour la vie de l’Église**
+### Sujets de prière pour la vie de l’Église
 
 1. **Prions et demandons à Dieu de rendre toute l’Église consciente du siège de l’adversaire dans le Corps de Christ**. Que le Seigneur délivre l’Église du Sommeil et de l’Assoupissement spirituels.
 
@@ -126,7 +126,7 @@ Cette fois-ci, nous aurons une longue liste de sujets de prière pour lesquels n
 
 6. Prions et demandons à Dieu de conduire la chaîne de prière pour les combats futurs. Prions pour nos assemblées locales.
 
-**Sujets de prière pour la famille**
+### Sujets de prière pour la famille
 
 1. Prions et demandons à Dieu de libérer les foyers des membres de la chaîne de prière du siège de l’adversaire. Que la mondanité, les querelles, les animosités et l’inimitié soient chassées au nom de Jésus.
 

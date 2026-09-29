@@ -54,9 +54,9 @@ bible_refs:
   - "Luc 10:1"
   - "Ésaïe 30:26"
   - "2 Samuel 15"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
-**APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE**
+## Appel à la guerre – appel au combat contre Babylone
 
 Je vous salue tous mes bien-aimés frères et sœurs et amis de la chaîne de prière par ces Paroles de Paul à Timothée : « Souffre avec moi, comme **un bon soldat** de Jésus-Christ. Il n’est pas de **soldat qui s’embarrasse des affaires de la vie**, s’il veut plaire à celui qui l’a enrôlé… » (2 Tim 2:3-4) C’est avec beaucoup de réconfort que je vous adresse mes chaleureuses salutations en Christ notre Seigneur. Aujourd’hui, nous devrons reconnaître que notre Seigneur nous appelle tous au combat et à la guerre, car telle est Sa volonté à la fin de la marche de l’Église-Épouse.
 
@@ -99,7 +99,7 @@ Mes bien-aimés, je pense que vous devriez prendre au sérieux ce qui arrive dan
 **Fr M’BRA Parfait**  
 **Missionnaire**
 
-**Témoignage**
+## Témoignage
 
 C’était hier, vers 17 heures 30, nous étions dans un centre médical, j’étais assis sur une plate-forme. J’ai fait face vers le soleil couchant. J’ai vu un signe, un grand nuage rouge, c’était tellement rouge, comme du sang. Le deuxième signe, c’était du jaune. Le jaune est entré dans le rouge et le rouge était tacheté de jaune. Après on a vu un grand nuage blanc, très blanc, il occupait la troisième position. Le nuage blanc a commencé à s’enfoncer dans les deux couleurs. Là, j’ai appelé ma mère et je lui ai dit : « **Viens voir** ! » On ne voyait pas cette scène aussi loin dans le ciel, c’était comme si le ciel s’était rapproché de nous. **Alors le nuage blanc a comme englouti les deux couleurs et on voyait maintenant comme une grande voie qui se frayait dans le nuage blanc. Au commencement, c’était comme un mirage – une route avec des mirages, mais par la suite, on voyait une armée nombreuse qui grouillait. On voyait des soldats avec des casques en fer sur la tête – ils se dépassaient, allaient et venaient**.
 
@@ -107,9 +107,9 @@ Mon enfant était malade, ma mère venait voir l’enfant, jusqu’au soir, la c
 
 NB : Je voudrais préciser aux lecteurs que l’événement que notre frère a observé avec sa mère a eu lieu **le vendredi 20 septembre 2007**. Dans cette période, les frères de l’Assemblée étaient dans un moment de jeûne et de prière, du **17 au 21 septembre**. Le frère et sa mère n’étaient pas à l’église parce qu’ils étaient au chevet de l’enfant du frère qui était malade. Ils n’étaient pas informés de l’événement qui a eu lieu en Côte d’Ivoire. Ce que les frères ont vu est un témoignage de la présence de l’Armée céleste au Bénin. Le grand nuage rouge et le grand nuage blanc ont été vus là-bas comme ils ont été vus en Côte d’Ivoire.
 
-**ÉCOUTEZ L’EXHORTATION DU SEIGNEUR JÉSUS-CHRIST**
+## Écoutez l’exhortation du Seigneur Jésus-Christ
 
-**Prophétie du 23 septembre 2007**
+### Prophétie du 23 septembre 2007
 
 **par le frère Raymond de Sènadé (Cotonou)**
 

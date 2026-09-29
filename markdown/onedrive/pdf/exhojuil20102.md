@@ -99,7 +99,7 @@ bible_refs:
   - "Galates 5:7-9"
   - "Tite 3:8-11"
   - "1 Timothée 6:11-16"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole de Paul aux Éphésiens :
 
@@ -115,7 +115,7 @@ Souvent, dans les églises locales, les frères se demandent pourquoi ils ont de
 
 Mes bien-aimés, il n’y a pas d’enseignements plus clairs sur le sujet que ce qui est écrit ici. Si les membres d’une église locale sont divisés, cette assemblée ne peut pas subsister. Si les membres du Corps de Christ sont divisés, le Corps sera tourmenté et fatigué par l’adversaire.
 
-**QU’EST-CE QUE C’EST QUE L’UNITÉ DE L’ESPRIT** ?
+## Qu’est-ce que c’est que l’unité de l’esprit ?
 
 Avant d’aller plus loin dans le sujet, je voudrais qu’on définisse ensemble cette notion d’unité de l’esprit. **Sachons pour commencer que l’unité de l’esprit se réalise autour du Christ et des Missions qu’Il assigne à l’Église qui est Son Corps, au fur et à mesure que l’Église avance dans sa marche**. Aujourd’hui, nous sommes à la fin des temps. Si l’Église doit être dans une unité spirituelle, elle doit se réaliser autour de la vision de la fin des temps. Dans ce cadre-là, il y a problème parce que les chrétiens ne comprennent pas toujours bien la vision de la fin des temps qui se trouve inscrite dans les prophéties bibliques. **Je peux dire qu’il y a une unité de l’esprit qui est centrale**, autour de laquelle gravitent les autres choses.
 
@@ -129,7 +129,7 @@ En ce qui concerne la vision du réveil, nous ne pouvons pas être UN en esprit 
 
 En effet, ceux qui souffrent des mêmes maladies consultent les mêmes spécialistes. Comment pouvons-nous être UN en esprit si nous n’avons pas reçu les mêmes révélations ? Cela n’est pas possible. C’est pourquoi l’Église est séparée aujourd’hui ! **Il faut que ceux qui ont reçu les mêmes révélations et qui ont emprunté le même chemin pour atteindre le même objectif soient d’un côté pour réaliser l’unité de l’esprit que Dieu demande**.
 
-**SERVIR DIEU D’UN COMMUN ACCORD**
+## Servir Dieu d’un commun accord
 
 > Alors je donnerai aux peuples des lèvres pures, Afin qu’ils invoquent tous le nom de l’Éternel, **pour le servir d’un commun accord**. (Sophonie 3:9)
 
@@ -145,7 +145,7 @@ Mes chers amis, est-ce que nous comprenons la profondeur de ces Paroles ? Est-c
 
 Mes chers amis, l’unité spirituelle dont nous parlons n’est pas pour les morts, mais pour les vivants. En effet, c’est nous qui sommes parvenus à la fin des temps qui sommes appelés à réaliser cette œuvre glorieuse et mystérieuse. Nous devons ensemble considérer l’ampleur de cet ouvrage et travailler à sa réalisation. Nous devons travailler ensemble d’**UN COMMUN ACCORD** pour avancer, nous qui avons reçu la même révélation au commencement. **C’est la vision de l’heure**, **c’est l’esprit de l’heure. C’est la Volonté de Dieu à la fin. Et c’est cette vision que nous devons fixer**. Cette vision exclut les animosités, les querelles, les mésententes, les calomnies, le mépris, les exclusions et tous les vilains sentiments que nous pouvons avoir les uns à l’égard des autres dans l’assemblée locale.
 
-**LES FONDEMENTS DE LA MURAILLE : AMOUR ET HUMILITÉ**
+## Les fondements de la muraille : amour et humilité
 
 Si on est appelé à servir Dieu d’un commun accord, on doit faire des sacrifices. Lorsque nous lisons l’exhortation de Paul, **on voit qu’il invite les frères à faire des sacrifices sur eux-mêmes – sacrifices basés sur l’amour et l’humilité**.
 
@@ -159,7 +159,7 @@ On ne peut pas réussir l’unité de l’esprit en dehors de l’humilité et d
 
 L’ouvrage que nous construisons n’est pas une vue de l’esprit, mais une réalité. L’unité de l’esprit et de la foi est une réalité dans l’Église. En effet, la foi vient de ce qu’on entend, qui est la Parole de Dieu. Si nous devons avoir une grande foi pour l’enlèvement, cela doit venir du Message que les candidats à l’enlèvement écoutent maintenant. **Donc notre unité de foi provient de ce que nous ÉCOUTONS et PRATIQUONS la même PAROLE RÉVÉLÉE**. Si nous n’écoutons pas et ne pratiquons pas la même Parole qui nous a été révélée, comment pouvons-nous avoir la même foi ? Mes chers amis, comprenons ensemble la pensée de Dieu pour nous y conformer.
 
-**LE LIEN DE LA PAIX**
+## Le lien de la paix
 
 Paul exhorte les frères à conserver l’unité de l’esprit par **le lien de la paix**. Autrement dit, là où il n’y a pas de paix entre les frères et sœurs, il n’y a pas d’unité de l’esprit. On ne peut pas dire qu’on est ensemble alors qu’il n’y a pas de paix entre nous. **Là où il y a les méfiances, les soupçons et les vilains sentiments, on ne peut pas parler d’unité de l’esprit et l’œuvre de Dieu ne peut pas prospérer**. Nous avons besoin de paix entre nous frères et sœurs de la même communauté pour entreprendre cette œuvre de reconstruction. Il existe déjà des brèches dans la muraille de l’unité de la foi et de l’esprit. C’est pourquoi il s’agit pour nous d’une reconstruction. Si nous devons continuer de cultiver entre nous les inimitiés et l’intolérance, c’est que nous ne sommes pas de la même équipe, alors nous descendrons de la muraille. **La PAIX est le lien spirituel qui nous permet de conserver l’unité de l’esprit entre frères et sœurs et membres d’une même équipe de travail**.
 
@@ -179,7 +179,7 @@ Dans Actes des apôtres, l’Écriture montre que les églises prospéraient par
 
 L’Esprit de Dieu travaille véritablement parmi le peuple de Dieu lorsque les frères et sœurs d’une même assemblée qui forment ensemble le temple du Saint-Esprit sont en paix les uns avec les autres. **Quand nous cultivons les inimitiés et les querelles dans nos assemblées, quand nous ne réglons pas les problèmes que nous créons entre nous, ne nous étonnons pas de l’absence de Dieu en notre milieu**.
 
-**LA CHAIR ET L’ESPRIT**
+## La chair et l’esprit
 
 **Un chrétien charnel** et **un chrétien spirituel** ne peuvent pas réaliser l’unité de l’esprit, parce qu’il est difficile à un chrétien charnel d’être humble. Généralement, les hommes charnels sont orgueilleux et ne connaissent pas l’amour de Christ. L’unité de l’esprit est pour les hommes faits, qui ont vraiment renoncé à eux-mêmes. L’église de Corinthe était divisée et vivait dans le péché. Lorsque Paul s’adresse à eux, il leur dit qu’ils sont charnels :
 
@@ -193,7 +193,7 @@ N’oubliez pas que le Seigneur nous a dit : « Mon héritage ne sera pas prof
 
 Beaucoup seront emballés dans le réveil – beaucoup viendront à la foi dans le dernier témoignage, mais peu seront enlevés, à cause des sacrifices à consentir. Beaucoup comme le jeune homme riche ne pourront pas consentir ces sacrifices. **Ma prière est que le Seigneur aide chacun d’entre nous à faire des sacrifices pour le Christ et Son Corps**.
 
-**LES MAUVAISES COMPAGNIES CORROMPENT LES BONNES MŒURS**
+## Les mauvaises compagnies corrompent les bonnes mœurs
 
 > Ne vous y trompez pas : **les mauvaises compagnies corrompent les bonnes mœurs**. (1 Corinthiens 15:33)
 
@@ -257,7 +257,7 @@ Certainement, les mauvaises compagnies corrompent les bonnes mœurs. Mais à ceu
 
 > **Veillez donc avec soin sur votre conduite, non comme des fous, mais comme des sages ; rachetez le temps, car les jours sont mauvais**. C’est pourquoi ne soyez pas sans intelligence, mais comprenez quelle est la volonté du Seigneur. Ne vous enivrez pas de vin : c’est de la débauche. Mais soyez remplis de l’Esprit : **entretenez-vous par des psaumes, des hymnes et des cantiques spirituels** ; **chantez et célébrez le Seigneur de tout votre cœur** ; rendez toujours grâces pour tout à Dieu le Père, au nom de notre Seigneur Jésus-Christ… (Éphésiens 5 :15-20)
 
-**L’ANGE DE LA MARCHE**
+## L’ange de la marche
 
 > Voici, j’envoie un ange devant toi, pour te protéger en chemin, et pour te faire arriver au lieu que j’ai préparé. **Tiens-toi sur tes gardes en sa présence, et écoute sa voix ; ne lui résiste point, parce qu’il ne pardonnera pas vos péchés, car mon nom est en lui**. Mais si tu écoutes sa voix, et si tu fais tout ce que je te dirai, je serai l’ennemi de tes ennemis et l’adversaire de tes adversaires. Mon ange marchera devant toi, et te conduira chez les Amoréens, les Héthiens, les Phéréziens, les Cananéens, les Héviens et les Jébusiens, et je les exterminerai. (Exode 23 :20-23)
 

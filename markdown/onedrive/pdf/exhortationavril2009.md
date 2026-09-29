@@ -34,7 +34,7 @@ bible_refs:
   - "1 Thessaloniciens 4:1"
   - "Matthieu 24:14"
   - "Matthieu 25"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et membres de la chaîne de prière, par cette Parole de Paul aux Thessaloniciens :
 
@@ -84,7 +84,7 @@ Dans la Parabole des vierges de Matthieu 25, c’est ce mal qui a atteint les vi
 
 **Fr M’BRA Parfait**
 
-**COMMUNIQUÉ**
+## Communiqué
 
 Mes bien-aimés, nous consacrerons ensemble le week-end du **24 au 26 avril** au jeûne et à la prière. Pendant ce moment de jeûne :
 

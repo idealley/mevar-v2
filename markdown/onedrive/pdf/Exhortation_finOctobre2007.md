@@ -54,7 +54,7 @@ bible_refs:
   - "Ésaïe 36:14-20"
   - "Jérémie 1:10"
   - "Jérémie 1:17-19"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Exhortation fin octobre 2007
 

@@ -74,7 +74,7 @@ bible_refs:
   - "1 Corinthiens 6:19"
   - "2 Corinthiens 6:16"
   - "Luc 17"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur Jésus-Christ soient avec vous tous, et que son amour surabonde dans vos cœurs parce que nous avons réellement besoin de son amour pour vivre dans notre génération. Je voudrais vous saluer encore par cette parole de l’apôtre Paul aux Romains :
 

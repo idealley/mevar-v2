@@ -45,7 +45,7 @@ bible_refs:
   - "Matthieu 16:24"
   - "Matthieu 19"
   - "Matthieu 11"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Alléluia ! Nous restons dans cette position et nous lisons dans Jean chapitre 19 verset 17 et 18.
 

@@ -81,7 +81,7 @@ bible_refs:
   - "Actes 17"
   - "Romains 8:18-22"
   - "Matthieu 5:14-16"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole de Jean :
 
@@ -117,7 +117,7 @@ Comme le Seigneur a combattu contre le monde, Il a vu combien de fois il est dif
 
 Nous devons prendre courage parce que la guerre contre Babylone ne fait que commencer. **Notre armée n’est pas encore totalement formée et la guerre n’a pas encore atteint son point culminant**. La grande pression qui va s’exercer sur **l’Église Épouse** avant l’enlèvement n’a pas encore eu lieu et le témoignage de l’Épouse n’a pas encore non plus eu lieu. Nous sommes pour l’heure en préparation. **L’œuvre de Dieu est devant nous, c’est pourquoi dans la foi et l’espérance, prenons courage** ! Prenons courage mes frères, pour ne pas relâcher, parce que la guerre ne fait que commencer.
 
-**APPEL À LA MATURITÉ – APPEL À LA FOI DE L’HÉRITIER**
+## Appel à la maturité – appel à la foi de l’héritier
 
 Aujourd’hui, Dieu nous appelle à la maturité spirituelle dans cette œuvre, comme je vous l’ai dit en début d’année dans mes vœux de nouvel an. Ce ne sont pas mes vœux, mais les vœux du Seigneur. **Nous devons parvenir à la maturité pour agir avec sérieux et courage dans cette œuvre qui nous est confiée**. Nous ne devons plus être des enfants. Notre foi dans l’appel que nous avons reçu doit grandir et parvenir à la maturité. **Nos prières d’intercession doivent être faites avec beaucoup de foi et d’assurance**.
 
@@ -267,7 +267,7 @@ Prenons courage et ne nous laissons pas abattre par les épreuves et les tribula
 
 J’ai prêché cette Parole dans notre assemblée de Koumassi et nous avons consacré une semaine de prière et de jeûne devant Dieu, pour lui demander de renouveler nos forces, afin que nous puissions répondre à la prière du Macédonien. Nous venons d’achever ce moment par une veillée de prière. Nous avons fortement ressenti la grâce de Dieu à notre endroit parce que nous avons réalisé qu’il nous fallait cette prédication pour nous ramener toujours à la vision céleste que nous avons reçue. Que Dieu vous bénisse.
 
-**SUJETS DE PRIÈRE**
+## Sujets de prière
 
 Pour notre chaîne de prière, nous aurons ensemble trois jours de jeûne et de prière consacrés à cette Parole **ce mois de mai, les 14, 15 et 16**. Pendant ce moment :
 
