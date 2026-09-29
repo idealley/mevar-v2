@@ -43,7 +43,9 @@ const alnum = (c) => /[\p{L}\p{N}]/u.test(c);
  * for « OE »). Null when they do not align: the model changed a word.
  */
 function headingOf(line, proposed) {
-  const level = proposed.match(/^(#{2,3}) /)?.[1];
+  // a line already a heading keeps its level
+  const level = line.match(/^(#{1,4}) /)?.[1] ?? proposed.match(/^(#{2,3}) /)?.[1];
+  if (!/^#{1,4} /.test(proposed)) return null;
   const from = [...plain(line)];
   const to = [...plain(proposed)].filter(alnum);
   if (!level) return null;
@@ -60,10 +62,21 @@ function headingOf(line, proposed) {
   return j === to.length ? `${level} ${out}` : null;
 }
 
-/** The candidate lines of a body: paragraphs of one line that may be a section title. */
+const isHeading = (p) => /^#{1,4} /.test(p);
+
+/**
+ * The candidate lines of a body: paragraphs of one line that may be a
+ * section title; and a heading already there that is in capitals, to recase
+ * (not in a Ghost post, whose layout is Samuel's).
+ */
 function candidates(body, title, subtitle, capsOnly) {
   return body.split(/\n{2,}/).map((p) => p.trim()).filter((p) => {
-    if (!p || p.includes("\n") || /^(#|>|- |\d+\.\s)/.test(p) || sameWords(p, title) || sameWords(p, subtitle)) return false;
+    if (!p || p.includes("\n")) return false;
+    if (isHeading(p)) {
+      const ls = [...plain(p)].filter((c) => /\p{L}/u.test(c));
+      return !capsOnly && ls.length >= 4 && ls.every((c) => c === c.toUpperCase());
+    }
+    if (/^(>|- |\d+\.\s)/.test(p) || sameWords(p, title) || sameWords(p, subtitle)) return false;
     const text = plain(p);
     const ls = [...text].filter((c) => /\p{L}/u.test(c));
     const n = letters(p).length;
@@ -95,7 +108,9 @@ export function applyHeadings(body, decisions = []) {
 
 const SYSTEM = `Tu mets en forme des prédications et des textes chrétiens en français (MEVAR, le Message du temps de la fin). On te donne, dans l'ordre du texte, des lignes qui sont chacune un paragraphe à elle seule, avec la fin du paragraphe d'avant et le début de celui d'après.
 
-Pour chaque ligne, dis si c'est un titre de section du texte :
+Une ligne qui commence déjà par # est déjà un titre : réponds avec le même nombre de #, ses mots en casse normale (règles ci-dessous).
+
+Pour chaque autre ligne, dis si c'est un titre de section du texte :
 - un titre de section annonce ce qui suit (« POURQUOI LA CONFESSION ET LA REPENTANCE ? », « Sujets de prière pour la famille », « TÉMOIGNAGE ») : réponds ## ou ###. ## par défaut ; ### seulement quand la ligne est une sous-section visible d'un ## qui précède (« Sujets de prière » puis « Sujets de prière pour la famille »).
 - une phrase du prédicateur qu'il met en valeur (« **La victoire est pour nous** ! », « IL FAUT QUE LE SIÈGE SOIT DÉGAGÉ ! »), une signature (« Fr M'BRA Parfait »), une formule (« Amen ! »), une ligne d'en-tête de document (date, lieu) ou tout ce qui n'annonce pas une section : réponds -.
 
@@ -152,7 +167,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   // A title or subtitle can change after its lines were decided (86 takes
   // the editor's): a line that repeats one is no heading.
   for (const [md, , title, subtitle] of works)
-    for (const d of all[md] ?? []) if (sameWords(d.line, title) || sameWords(d.line, subtitle)) d.heading = null;
+    for (const d of all[md] ?? []) if (!isHeading(d.line) && (sameWords(d.line, title) || sameWords(d.line, subtitle))) d.heading = null;
 
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
