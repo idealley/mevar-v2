@@ -91,7 +91,7 @@ bible_refs:
   - "Matthieu 12:25"
 editorial_pass: "2026-09-29"
 ---
-## Réveillez-vous et sortez des péchés du sexe !
+**Réveillez-vous et sortez des péchés du sexe** !
 
 Je voudrais saluer les usagers de notre site à tous par ces Paroles d’exhortation dans le livre de Corinthiens :
 

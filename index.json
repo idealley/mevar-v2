@@ -166629,7 +166629,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/impudicite-et-adultere-2006.md",
-    "size_bytes": 59271,
+    "size_bytes": 59272,
     "line_count": 413
   },
   {
@@ -174969,7 +174969,7 @@
     "source": "onedrive",
     "sermon_id": "exo_mai2011_pdf",
     "title": "Il faut que tu rendes témoignage dans Rome",
-    "subtitle": "Exhortation Fin Mai 2011",
+    "subtitle": "Exhortation fin mai 2011",
     "date": "2011-05-01",
     "year": 2011,
     "location": null,
@@ -176137,7 +176137,7 @@
     "source": "onedrive",
     "sermon_id": "exo_mars12",
     "title": "Jésus-Christ – le bon Samaritain",
-    "subtitle": "Exhortation de Mars 2012",
+    "subtitle": "Exhortation fin mars 2012",
     "date": "2012-03-01",
     "year": 2012,
     "location": null,
@@ -176192,7 +176192,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/jesus-christ-le-bon-samaritain-2012.md",
-    "size_bytes": 42574,
+    "size_bytes": 42575,
     "line_count": 211
   },
   {
@@ -176508,7 +176508,7 @@
     "source": "onedrive",
     "sermon_id": "harmonie_dans_le_champpff",
     "title": "L’harmonie dans le champ",
-    "subtitle": "Exhortation de Mai 2012",
+    "subtitle": "Exhortation spéciale de mai 2012",
     "date": "2012-05-01",
     "year": 2012,
     "location": "Koumassi",
@@ -176576,8 +176576,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/l-harmonie-dans-le-champ-2012.md",
-    "size_bytes": 33692,
-    "line_count": 199
+    "size_bytes": 33664,
+    "line_count": 197
   },
   {
     "source": "onedrive",
@@ -176777,7 +176777,7 @@
     "source": "onedrive",
     "sermon_id": "exo_juillet2012",
     "title": "Le manger et le boire – le dieu du ventre",
-    "subtitle": "Exhortation de Juillet 2012",
+    "subtitle": "Exhortation fin juillet 2012",
     "date": "2012-07-01",
     "year": 2012,
     "location": null,
@@ -176826,7 +176826,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/le-manger-et-le-boire-le-dieu-du-ventre-2012.md",
-    "size_bytes": 33238,
+    "size_bytes": 33239,
     "line_count": 183
   },
   {

@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exo_mai2011_pdf.md"
 sermon_id: "exo_mai2011_pdf"
 title: "Il faut que tu rendes témoignage dans Rome"
-subtitle: "Exhortation Fin Mai 2011"
+subtitle: "Exhortation fin mai 2011"
 date: "2011-05-01"
 year: 2011
 preacher: "Parfait M'bra"

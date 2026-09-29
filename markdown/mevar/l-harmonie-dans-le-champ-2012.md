@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/harmonie_dans_le_champpff.md"
 sermon_id: "harmonie_dans_le_champpff"
 title: "L’harmonie dans le champ"
-subtitle: "Exhortation de Mai 2012"
+subtitle: "Exhortation spéciale de mai 2012"
 date: "2012-05-01"
 year: 2012
 location: "Koumassi"
@@ -85,8 +85,6 @@ bible_refs:
   - "Matthieu 9"
 editorial_pass: "2026-09-29"
 ---
-## Exhortation spéciale de mai 2012
-
 Mes chers amis, après avoir lu cet article de mon frère Anderson, j’ai jugé nécessaire de le publier pour l’édification du peuple de Dieu.
 
 Fr M’BRA

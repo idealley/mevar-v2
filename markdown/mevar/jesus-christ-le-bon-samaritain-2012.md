@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exo_mars12.md"
 sermon_id: "exo_mars12"
 title: "Jésus-Christ – le bon Samaritain"
-subtitle: "Exhortation de Mars 2012"
+subtitle: "Exhortation fin mars 2012"
 date: "2012-03-01"
 year: 2012
 preacher: "Parfait M'bra"
