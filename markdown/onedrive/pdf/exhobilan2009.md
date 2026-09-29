@@ -1,8 +1,8 @@
 ---
 source: "onedrive"
 sermon_id: "exhobilan2009"
-title: "Exhortation bilan de fin d’année 2009"
-subtitle: "Trois années de combat et d'épreuves"
+title: "Trois années de combat et d’épreuves"
+subtitle: "Exhortation bilan de fin d’année 2009"
 date: "2010-01-01"
 year: 2010
 preacher: "Parfait M'bra"
@@ -74,8 +74,6 @@ bible_refs:
   - "Apocalypse 18:1-2"
 editorial_pass: "2026-09-29"
 ---
-**TROIS ANNÉES DE COMBAT ET D’ÉPREUVES**
-
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur et Sauveur Jésus-Christ par cette Parole de Paul aux Hébreux :
 
 > **Souvenez-vous de ces premiers jours, où, après avoir été éclairés, vous avez soutenu un grand combat au milieu des souffrances, d’une part, exposés comme en spectacle aux opprobres et aux tribulations, et de l’autre, vous associant à ceux dont la position était la même**...

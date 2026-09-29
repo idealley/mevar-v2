@@ -1,8 +1,8 @@
 ---
 source: "onedrive"
 sermon_id: "exhobilan2008"
-title: "Exhortation bilan de fin d’année 2008"
-subtitle: "APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE - 2009 – ANNEE DE CAMPAGNE"
+title: "2009 – année de campagne"
+subtitle: "Exhortation bilan de fin d’année 2008"
 date: "2008-12-31"
 year: 2008
 location: "Abidjan"
@@ -87,7 +87,7 @@ editorial_pass: "2026-09-29"
 ---
 ## Appel à la guerre – appel au combat contre Babylone
 
-### 2009 – année de campagne
+**2009 – ANNÉE DE CAMPAGNE**
 
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site, en cette fin d’année, par cette Parole d’introduction de notre Seigneur à Ses disciples :
 
@@ -195,7 +195,7 @@ Dans cette situation, la seule chose qu’ils pouvaient faire était de crier à
 
 **Par ces Paroles, le Seigneur m’a fait comprendre que nos pleurs, nos cris et nos larmes qui sont montés vers Lui depuis le commencement de cette œuvre ne sont pas vains ; Il les a entendus et Il vient Lui-même cette année pour nous délivrer de la servitude**. Prenons courage mes frères et sœurs. Cette Parole est vraie pour moi et doit être vraie pour vous, parce que j’ai déjà expérimenté une grande délivrance en fin d’année. Cette année, il y aura un grand changement dans cette œuvre de réveil, parce que nous irons davantage de l’avant. Dieu a entendu nos cris. **En effet, celui qui n’a pas poussé de cris dans la détresse ne doit pas attendre de secours et de délivrance. Mais quiconque a poussé des cris de détresse et de secours auprès de Dieu est en droit d’attendre de Lui la délivrance** ; et c’est l’heure de notre délivrance. Que notre Seigneur qui est notre Secours soit béni !
 
-### 2009 – année de campagne
+**2009 – année de campagne**
 
 > L’année suivante, **au temps où les rois se mettaient en campagne**, Joab à la tête d’une forte armée, **alla ravager le pays des fils d’Ammon et assiéger Rabba**. Mais David resta à Jérusalem. Joab battit Rabba et la détruisit. David enleva la couronne de dessus la tête de son roi et la trouva du poids d’un talent d’or : elle était garnie de pierres précieuses. On la mit sur la tête de David qui emporta de la ville, un très grand butin. **Il fit sortir les habitants et les mit aux scies, aux pics de fer et aux haches ; il tua de même toutes les villes des fils d’Ammon**. David retourna à Jérusalem avec tout le peuple… (1 Chroniques 20 : 1-8)
 

@@ -1,8 +1,8 @@
 ---
 source: "onedrive"
 sermon_id: "exhofin_aout"
-title: "Exhortation spéciale fin août 2007"
-subtitle: "ÉVÉNEMENTS MYSTÉRIEUX DANS LE SOLEIL - APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE"
+title: "Événements mystérieux dans le soleil"
+subtitle: "Exhortation spéciale fin août 2007"
 date: "2007-08-31"
 year: 2007
 location: "Toutoubré, Gagnoa, Côte d'Ivoire"
@@ -55,8 +55,6 @@ bible_refs:
   - "Ésaïe 62:6-7"
 editorial_pass: "2026-09-29"
 ---
-## Événements mystérieux dans le soleil
-
 ## Appel à la guerre – appel au combat contre Babylone
 
 Je vous salue tous mes bien-aimés frères et sœurs et amis de la chaîne de prière par les Paroles de Paul aux Colossiens :
