@@ -119,6 +119,9 @@ the verification done by a script and by sampling.
   overrule any of them.
 - **Headings** (goal 18): after 85, `87-section-headings.mjs <batch>`
   decides the batch's section titles; 86 applies them.
+- **Paths** (goal 19): after 86 promotes a batch, `88-mevar-paths.mjs`
+  moves its texts to `markdown/mevar/<title>-<year>.md`; the pipeline
+  keeps their original path as its key.
 - **Batches:** `scripts/mevar-editorial-batches.json`. The two books
   (`le_royaume_de_dieu_kadjani`, `les_cinq_ministeres_de_la_parole`, 200,000
   words together) get a batch of their own.
