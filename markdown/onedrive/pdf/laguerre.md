@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "laguerre"
+duplicate_of: "mevar/la-guerre-de-liberation-avril-2007"
 title: "LA GUERRE DE LIBERATION"
 date: "2007-04-22"
 year: 2007
