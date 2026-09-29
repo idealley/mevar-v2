@@ -4613,7 +4613,8 @@
         "kind": "typo",
         "why": "agreement: l’ = une autre voie"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin juillet 2012"
   },
   "markdown/onedrive/pdf/exo_juin_2011.md": {
     "title": null,
@@ -4773,7 +4774,8 @@
         "kind": "typo",
         "why": "a dash, printed as a hyphen: an en dash, as in this text's other headings"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin mai 2011"
   },
   "markdown/onedrive/pdf/exo_mai_2012.md": {
     "title": null,
@@ -4837,7 +4839,8 @@
         "kind": "markup",
         "why": "the short citation of Jesus' words in « », separate from the preacher's own bold comment"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin mars 2012"
   },
   "markdown/onedrive/pdf/exo_mi_juillet_2011.md": {
     "title": "Les pleurs et les grincements de dents",
@@ -5021,6 +5024,12 @@
     "title": "L’harmonie dans le champ",
     "fixes": [
       {
+        "find": "**Exhortation spéciale de mai 2012**\n\n",
+        "replace": "",
+        "kind": "markup",
+        "why": "the header, whole: the subtitle, as the PDF opens"
+      },
+      {
         "find": "C’est afin d’amener le peuple",
         "replace": "C’est afin d’amener le peuple",
         "kind": "word",
@@ -5068,7 +5077,8 @@
         "kind": "typo",
         "why": "close the parenthesis opened after « officier d’état civil »"
       }
-    ]
+    ],
+    "subtitle": "Exhortation spéciale de mai 2012"
   },
   "markdown/onedrive/pdf/heritage.md": {
     "title": "L’héritage d’Élisée",
