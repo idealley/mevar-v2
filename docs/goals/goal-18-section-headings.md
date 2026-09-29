@@ -45,6 +45,10 @@ the end-time Message); its bold goes. Capitals for emphasis inside a
 paragraph (« IL FAUT QUE LE SIÈGE SOIT DÉGAGÉ ! ») stay: that is the
 preacher speaking. Nothing else becomes a heading: no heading is invented.
 
+A heading already in the text but in capitals (`## LA CHUTE DANS LE PECHE`)
+is recased the same way and keeps its level (Samuel, on PR #25: « we can
+add this in this PR »); the Ghost posts' own headings stay Samuel's.
+
 A line in capitals is a candidate; a short bold line is a candidate too, and
 may be the preacher's emphasis on a sentence (« **La victoire est pour
 nous** ! »): each is decided and listed. A line that repeats the work's
