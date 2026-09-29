@@ -60,12 +60,15 @@ for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
     const file = path.join(dir, rel);
     const text = fs.readFileSync(file, "utf8");
     const [, fm, body] = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
-    if (source === "mevar" && field(fm, "type") !== "post") continue;
+    // a OneDrive or PDF text goal 19 moved to mevar/ keeps its source; its
+    // path is where it is now
+    const src = source === "mevar" ? field(fm, "source") ?? "mevar" : source;
+    if (src === "mevar" && field(fm, "type") !== "post") continue;
     const w = words(body);
     const shingles = new Set();
     for (let i = 0; i + K <= w.length; i++) shingles.add(w.slice(i, i + K).join(" "));
     works.push({
-      id: `${source}/${field(fm, "sermon_id")}`, path: `${source}/${rel.slice(0, -".md".length)}`, source, file, fm, body,
+      id: `${src}/${field(fm, "sermon_id")}`, path: `${source}/${rel.slice(0, -".md".length)}`, source: src, file, fm, body,
       title: field(fm, "title"), draft: field(fm, "status") === "draft", pdf: field(fm, "local_pdf"),
       excerpt: body.split(/\s+/).filter(Boolean).slice(0, 300).join(" "),
       ocr: body.split(/\s+/).filter((t) => OCR.test(t)).length, shingles,

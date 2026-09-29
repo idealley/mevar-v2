@@ -59,6 +59,7 @@ import { fromMarkdown } from "mdast-util-from-markdown";
 import { citations } from "./65-normalize-bible.mjs";
 import { connect, reading, blockquote } from "./segond.mjs";
 import { applyHeadings } from "./87-section-headings.mjs";
+import { located } from "./88-mevar-paths.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const batchId = process.argv[2];
@@ -268,7 +269,10 @@ for (const md of batch) {
     else spans.push([i, i + rep.length, f]);
   }
 
-  const file = fs.readFileSync(path.join(root, md), "utf8");
+  // where the text is now: goal 19 moves a promoted text to mevar/, and the
+  // pipeline keeps its original path as its key
+  const here = located(md);
+  const file = fs.readFileSync(path.join(root, here), "utf8");
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
   const field = (k) => JSON.parse(fm.match(new RegExp(`^${k}: (.*)$`, "m"))?.[1] ?? '""');
   const oldTitle = field("title");
@@ -457,7 +461,8 @@ for (const md of batch) {
   const parts = split <= 0 ? [edited]
     : until > split ? [`${edited.slice(0, split).trimEnd()}\n\n${edited.slice(until)}`, edited.slice(split, until).trimEnd()]
     : [edited.slice(0, split).trimEnd(), edited.slice(split)];
-  r.split = split > 0 ? `${path.dirname(md)}/${edits.split.frontmatter.sermon_id}.md` : null;
+  const splitFrom = split > 0 ? `${path.dirname(md)}/${edits.split.frontmatter.sermon_id}.md` : null;
+  r.split = splitFrom && located(splitFrom);
   const bodyOf = (t) => t.slice(t.indexOf("\n---\n") + 5);
 
   const promoted = /^editorial_pass:/m.test(fm);
@@ -472,15 +477,15 @@ for (const md of batch) {
       .replace(/^location: .*\n/m, (l) => r.location ? l : "")
       .replace(/^summary: .*$/m, (l) => r.summary === field("summary") ? l : `summary: ${JSON.stringify(r.summary)}`)
       + (r.split && !/^published_with:/m.test(fm) ? `\npublished_with: ${JSON.stringify(work(r.split))}` : "") + `\neditorial_pass: "${today}"`;
-    fs.writeFileSync(path.join(root, md), `---\n${newFm}\n---\n${parts[0]}\n`);
+    fs.writeFileSync(path.join(root, here), `---\n${newFm}\n---\n${parts[0]}\n`);
     // 50 takes index.json's titles from the manifest
-    Object.assign(manifest.find((e) => e.local_md === md), { title: r.title },
+    Object.assign(manifest.find((e) => e.local_md === here), { title: r.title },
       r.subtitle === oldSubtitle ? {} : { subtitle: r.subtitle },
       r.date === field("date") ? {} : { date: r.date, year: Number(r.date.slice(0, 4)) },
       r.location === field("location") ? {} : { location: null },
       r.summary === field("summary") ? {} : { summary: r.summary });
     if (r.split) {
-      const f = { source: "onedrive", ...edits.split.frontmatter, published_with: work(md) };
+      const f = { source: "onedrive", ...(r.split !== splitFrom && { source_path: splitFrom.slice("markdown/".length) }), ...edits.split.frontmatter, published_with: work(here) };
       const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}` : `${k}: ${JSON.stringify(v)}`);
       fs.writeFileSync(path.join(root, r.split), `---\n${yaml.join("\n")}\neditorial_pass: "${today}"\n---\n${parts[1]}\n`);
       // replaced, not added, when the original is promoted again (reset to

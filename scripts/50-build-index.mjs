@@ -41,12 +41,14 @@ for (const mdPath of walk(mdRoot)) {
   const text = fs.readFileSync(mdPath, "utf8");
   const lineCount = text.split("\n").length;
 
-  // markdown/<source>/<...path>/<basename>.md
+  // markdown/<source>/<...path>/<basename>.md; a Mevar text goal 19 moved to
+  // markdown/mevar/ keeps its source and sermon_id in its frontmatter
   const parts = rel.split(path.sep);
-  const source = parts[1];
+  const source = text.match(/^source: "(.+)"$/m)?.[1] ?? parts[1];
   const basename = path.basename(mdPath, ".md");
 
-  const manifest = manifestEntries.get(`${source}/${basename}`);
+  const moved = source !== parts[1];
+  const manifest = manifestEntries.get(`${source}/${moved ? text.match(/^sermon_id: "(.+)"$/m)[1] : basename}`);
   // Written by 49-link-le-scribe-branham.mjs — frontmatter, not a manifest.
   const original = text.match(/^original: "(.+)"$/m)?.[1] ?? null;
   // A post's status is its frontmatter's, as the site builds it: Samuel

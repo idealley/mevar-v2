@@ -26,6 +26,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { located } from "./88-mevar-paths.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const MODEL = "gpt-6-sol";
@@ -157,7 +158,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const at = (f) => pass.body.indexOf(f.find);
     for (const f of edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at(b) - at(a)))
       body = body.slice(0, at(f)) + f.replace + body.slice(at(f) + f.find.length);
-    works.push([md, body, edits.title ?? pass.title, edits.subtitle ?? fieldOf(fm(fs.readFileSync(path.join(root, md), "utf8")), "subtitle"), false, false]);
+    works.push([md, body, edits.title ?? pass.title, edits.subtitle ?? fieldOf(fm(fs.readFileSync(path.join(root, located(md)), "utf8")), "subtitle"), false, false]);
   }
   if (!batchId)
     for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true }).sort()) {
@@ -165,7 +166,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       const md = `markdown/${rel}`;
       const text = fs.readFileSync(path.join(root, md), "utf8");
       const f = fm(text);
-      if (/^duplicate_of:/m.test(f)) continue;
+      // a goal 10 text moved to mevar/ (goal 19) is read from its batch, above
+      if (/^duplicate_of:/m.test(f) || /^source: "(onedrive|mevar-pdfs)"$/m.test(f)) continue;
       works.push([md, text.slice(text.indexOf("\n---\n", 4) + 5), fieldOf(f, "title"), fieldOf(f, "subtitle"), true, rel.startsWith("mevar/")]);
     }
   // a decision is kept under the path 86 and 87 read, once per line
