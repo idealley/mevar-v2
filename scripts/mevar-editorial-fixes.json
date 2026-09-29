@@ -3703,6 +3703,12 @@
         "replace": "Ainsi dit",
         "kind": "markup",
         "why": "document header (title or subtitle, in the frontmatter), as in batches 01 and 02"
+      },
+      {
+        "find": "Tite en Dalmatie. (Timothée 4:1)",
+        "replace": "Tite en Dalmatie. (2 Timothée 4:10)",
+        "kind": "word",
+        "why": "Samuel, on batch 03's PR: the verse is 2 Timothée 4:10 (« Crescens en Galatie, Tite en Dalmatie »); the transcript's reference was wrong"
       }
     ]
   },
@@ -3751,7 +3757,30 @@
         "kind": "markup",
         "why": "document header (title or subtitle, in the frontmatter), as in batches 01 and 02"
       }
-    ]
+    ],
+    "subtitle": "Exhortation de mai 2007",
+    "location": "",
+    "split": {
+      "at": "**LA GUERRE DE LIBÉRATION**\n\n**Prêché à Koumassi le dimanche 22 avril 2007**",
+      "until": "**Sujets de prière**\n\n",
+      "frontmatter": {
+        "sermon_id": "exhomai2007-la-guerre-de-liberation",
+        "title": "La guerre de libération",
+        "subtitle": "Prédication du dimanche 22 avril 2007",
+        "date": "2007-04-22",
+        "year": 2007,
+        "location": "Koumassi",
+        "preacher": "Parfait M'bra",
+        "summary": "Prêchée à Koumassi, cette prédication lit 2 Thessaloniciens 2 : l'apostasie annoncée est là, l'adversaire est assis dans le lieu saint ; chacun doit se lever contre le siège de l'adversaire dans sa propre vie et se séparer des ténèbres pour être libéré.",
+        "tags": [
+          "Prédications",
+          "2007",
+          "guerre spirituelle",
+          "libération",
+          "apostasie"
+        ]
+      }
+    }
   },
   "markdown/onedrive/pdf/exhomai2010.md": {
     "title": "La vision du Macédonien",
@@ -3955,8 +3984,14 @@
     ]
   },
   "markdown/onedrive/pdf/exhominov09.md": {
-    "title": null,
+    "title": "Sois un modèle",
     "fixes": [
+      {
+        "find": "**Exhortation mi-novembre 2009**\n\n**SOIS UN MODÈLE**\n\nMes chers frères",
+        "replace": "Mes chers frères",
+        "kind": "markup",
+        "why": "document header of the letter (its title and subtitle, in the frontmatter)"
+      },
       {
         "find": "**Fr M’BRA Parfait**\n\nAmen ! Moi je n’aime pas",
         "replace": "**Fr M’BRA Parfait**\n\n**Le manteau de l’humilité**\n\n**Prêché le mercredi 30 septembre 2009**\n\n**à Kinshasa par le frère M’BRA Parfait**\n\nAmen ! Moi je n’aime pas",
@@ -4023,7 +4058,31 @@
         "kind": "typo",
         "why": "agreement slip: « un grand nombre de frères » (Rom 8:29)"
       }
-    ]
+    ],
+    "subtitle": "Exhortation mi-novembre 2009",
+    "date": "2009-11-15",
+    "location": "",
+    "split": {
+      "at": "**Le manteau de l’humilité**\n\n**Prêché le mercredi 30 septembre 2009**",
+      "until": "**ANNONCE DE PRIÈRE**",
+      "frontmatter": {
+        "sermon_id": "exhominov09-le-manteau-de-l-humilite",
+        "title": "Le manteau de l’humilité",
+        "subtitle": "Prédication du mercredi 30 septembre 2009",
+        "date": "2009-09-30",
+        "year": 2009,
+        "location": "Kinshasa",
+        "preacher": "Parfait M'bra",
+        "summary": "Prêchée à Kinshasa, cette prédication appelle à revêtir le manteau de l'humilité : l'orgueil a détruit bien des serviteurs ; celui qui veut être le premier sert son prochain, et le Seigneur brise les cœurs pour qu'ils soient remplis d'amour.",
+        "tags": [
+          "Prédications",
+          "2009",
+          "humilité",
+          "orgueil",
+          "service"
+        ]
+      }
+    }
   },
   "markdown/onedrive/pdf/exhonov2010.md": {
     "title": "Le juge inique – la partie adverse",
@@ -4125,14 +4184,8 @@
     ]
   },
   "markdown/onedrive/pdf/exhortation_aout_2008.md": {
-    "title": null,
+    "title": "Prenez garde à vous-même",
     "fixes": [
-      {
-        "find": "Je vous salue tous, mes bien-aimés frères et sœurs et visiteurs",
-        "replace": "**Exhortation d’août 2008**\n\n**PRENEZ GARDE À VOUS MÊME**\n\nJe vous salue tous, mes bien-aimés frères et sœurs et visiteurs",
-        "kind": "restore",
-        "why": "header removed by the pass but refused by the checker; put back as in the PDF, bold"
-      },
       {
         "find": "il faut veillez et priez pour être éclairé",
         "replace": "il faut veiller et prier pour être éclairé",
@@ -4163,7 +4216,8 @@
         "kind": "message",
         "why": "Jesus’ discourse, not the end-time Message"
       }
-    ]
+    ],
+    "subtitle": "Exhortation d’août 2008"
   },
   "markdown/onedrive/pdf/exhortation_de_Mai_2013.md": {
     "title": "La négligence de Moïse",
@@ -4272,7 +4326,7 @@
     ]
   },
   "markdown/onedrive/pdf/exhortation_janvier_2013.md": {
-    "title": "Exhortation janvier 2013",
+    "title": "2013 – année de mission",
     "fixes": [
       {
         "find": "Allons-y de l’avant, car notre marche",
@@ -4298,7 +4352,8 @@
         "kind": "markup",
         "why": "document header (title or subtitle, in the frontmatter), as in batches 01 and 02"
       }
-    ]
+    ],
+    "subtitle": "Exhortation janvier 2013"
   },
   "markdown/onedrive/pdf/exhortation_juin_2015.md": {
     "title": "Mettez-moi de la sorte à l’épreuve…",

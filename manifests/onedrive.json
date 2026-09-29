@@ -1914,10 +1914,10 @@
     "source": "onedrive",
     "sermon_id": "exhomai2007",
     "title": "La guerre de libération",
-    "subtitle": "Exhortation de Mai 2007",
+    "subtitle": "Exhortation de mai 2007",
     "date": "2007-05-01",
     "year": 2007,
-    "location": "Koumassi",
+    "location": null,
     "preacher": "Parfait M'bra",
     "pdf_url": null,
     "audio_url": null,
@@ -3505,8 +3505,8 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortation_aout_2008",
-    "title": "Prenez garde à vous-mêmes",
-    "subtitle": "Exhortation d'Août 2008",
+    "title": "Prenez garde à vous-même",
+    "subtitle": "Exhortation d’août 2008",
     "date": "2008-08-01",
     "year": 2008,
     "location": null,
@@ -5134,11 +5134,11 @@
   {
     "source": "onedrive",
     "sermon_id": "exhominov09",
-    "title": "Le manteau de l’humilité",
-    "subtitle": "Exhortation Mi-Novembre 2009",
-    "date": "2009-09-30",
+    "title": "Sois un modèle",
+    "subtitle": "Exhortation mi-novembre 2009",
+    "date": "2009-11-15",
     "year": 2009,
-    "location": "Kinshasa",
+    "location": null,
     "preacher": "Parfait M'bra",
     "pdf_url": null,
     "audio_url": null,
@@ -9176,8 +9176,8 @@
   {
     "source": "onedrive",
     "sermon_id": "exhortation_janvier_2013",
-    "title": "Exhortation janvier 2013",
-    "subtitle": "2013 - ANNEE DE MISSION",
+    "title": "2013 – année de mission",
+    "subtitle": "Exhortation janvier 2013",
     "date": "2013-01-01",
     "year": 2013,
     "location": null,
@@ -19842,5 +19842,45 @@
     ],
     "published_with": "onedrive/pdf/exhofinoct2010",
     "local_md": "markdown/onedrive/pdf/exhofinoct2010-les-deux-vins.md"
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "exhomai2007-la-guerre-de-liberation",
+    "title": "La guerre de libération",
+    "subtitle": "Prédication du dimanche 22 avril 2007",
+    "date": "2007-04-22",
+    "year": 2007,
+    "location": "Koumassi",
+    "preacher": "Parfait M'bra",
+    "summary": "Prêchée à Koumassi, cette prédication lit 2 Thessaloniciens 2 : l'apostasie annoncée est là, l'adversaire est assis dans le lieu saint ; chacun doit se lever contre le siège de l'adversaire dans sa propre vie et se séparer des ténèbres pour être libéré.",
+    "tags": [
+      "Prédications",
+      "2007",
+      "guerre spirituelle",
+      "libération",
+      "apostasie"
+    ],
+    "published_with": "onedrive/pdf/exhomai2007",
+    "local_md": "markdown/onedrive/pdf/exhomai2007-la-guerre-de-liberation.md"
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "exhominov09-le-manteau-de-l-humilite",
+    "title": "Le manteau de l’humilité",
+    "subtitle": "Prédication du mercredi 30 septembre 2009",
+    "date": "2009-09-30",
+    "year": 2009,
+    "location": "Kinshasa",
+    "preacher": "Parfait M'bra",
+    "summary": "Prêchée à Kinshasa, cette prédication appelle à revêtir le manteau de l'humilité : l'orgueil a détruit bien des serviteurs ; celui qui veut être le premier sert son prochain, et le Seigneur brise les cœurs pour qu'ils soient remplis d'amour.",
+    "tags": [
+      "Prédications",
+      "2009",
+      "humilité",
+      "orgueil",
+      "service"
+    ],
+    "published_with": "onedrive/pdf/exhominov09",
+    "local_md": "markdown/onedrive/pdf/exhominov09-le-manteau-de-l-humilite.md"
   }
 ]

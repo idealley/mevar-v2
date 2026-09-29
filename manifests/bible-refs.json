@@ -6267,6 +6267,7 @@
     "Nombres 15:8-10",
     "Romains 12:1-2",
     "Philippiens 2:17",
+    "2 Timothée 4:10",
     "Ésaïe 55",
     "Ésaïe 55:2",
     "Aggée 2:4",
@@ -6286,10 +6287,6 @@
   "markdown/onedrive/pdf/exhomai2007.md": [
     "2 Corinthiens 6:14-19",
     "Genèse 13",
-    "2 Thessaloniciens 2",
-    "Exode 32",
-    "2 Corinthiens 6",
-    "Apocalypse 22:15",
     "Luc 18:1",
     "Luc 18",
     "Éphésiens 6:18",
@@ -6384,8 +6381,7 @@
   "markdown/onedrive/pdf/exhominov09.md": [
     "1 Timothée 4",
     "1 Timothée 4:12-16",
-    "Éphésiens 5:27",
-    "Philippiens 2"
+    "Éphésiens 5:27"
   ],
   "markdown/onedrive/pdf/exhonov2010.md": [
     "Luc 18:1-8",
@@ -46506,5 +46502,14 @@
     "Actes 10",
     "Luc 1:15",
     "Juges 14:14"
+  ],
+  "markdown/onedrive/pdf/exhomai2007-la-guerre-de-liberation.md": [
+    "2 Thessaloniciens 2",
+    "Exode 32",
+    "2 Corinthiens 6",
+    "Apocalypse 22:15"
+  ],
+  "markdown/onedrive/pdf/exhominov09-le-manteau-de-l-humilite.md": [
+    "Philippiens 2"
   ]
 }

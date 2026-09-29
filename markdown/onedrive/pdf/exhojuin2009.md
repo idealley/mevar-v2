@@ -54,6 +54,7 @@ bible_refs:
   - "Nombres 15:8-10"
   - "Romains 12:1-2"
   - "Philippiens 2:17"
+  - "2 Timothée 4:10"
   - "Ésaïe 55"
   - "Ésaïe 55:2"
   - "Aggée 2:4"
@@ -69,7 +70,7 @@ bible_refs:
   - "2 Corinthiens 1:7"
   - "2 Corinthiens 7:4"
   - "2 Corinthiens 7:6-7"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Ainsi dit le Seigneur : **Travaillez ! Travaillez ! Travaillez ! Car plusieurs parmi vous serviront de libations pour l’avancement de Mon œuvre. Vos prédécesseurs sont passés par là. Vous n’échapperez pas ! Travaillez** !
 
@@ -115,7 +116,7 @@ Si nos prédécesseurs sont passés par cette voie, ce n’est pas nous qui allo
 
 **Il y en a parmi nous qui sont des suiveurs, des ramassis qui ne savent même pas où nous allons et qui comme Démas sont encore remplis de l’amour du monde**. Ce Démas était un compagnon d’œuvre de l’apôtre Paul, mais il n’avait pas compris l’engagement de Paul et des autres compagnons dans le Ministère de Jésus. Au moment où le monde avait pâli aux yeux de Paul et de ses compagnons, lui avait encore les yeux fixés dans le monde et dans la réussite sociale. **Il voulait se réaliser ; il ne pouvait pas supporter les calamités du Ministère – c’était trop difficile**. Démas ne voulait pas se contenter du salaire que Dieu lui donnait, mais il voulait avoir gros, alors il a quitté Paul – il a abandonné le Ministère et est retourné à ses occupations.
 
-> Car Démas m’a abandonné, par amour pour le siècle présent, et il est parti pour Thessalonique ; Crescens est allé en Galatie, Tite en Dalmatie. (Timothée 4:1)
+> Car Démas m’a abandonné, par amour pour le siècle présent, et il est parti pour Thessalonique ; Crescens est allé en Galatie, Tite en Dalmatie. (2 Timothée 4:10)
 
 La chose fut ainsi pour le serviteur d’Élisée, Géhazi, qui était allé chercher l’or de Naaman à cause de sa convoitise. Il fut atteint par la lèpre de Naaman. C’est malheureux de voir que plusieurs travaillent pour l’aisance sociale et négligent par cela l’œuvre du Seigneur. Mais la prophétie nous exhorte à travailler à l’œuvre de Dieu. La prophétie nous exhorte à travailler de manière résolue et ferme dans la vision que nous avons reçue à cette heure. Notre engagement doit être total dans cette œuvre. Dans Ésaïe 55, le Seigneur faisait le reproche aux enfants d’Israël :
 

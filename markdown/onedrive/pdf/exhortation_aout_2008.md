@@ -1,8 +1,8 @@
 ---
 source: "onedrive"
 sermon_id: "exhortation_aout_2008"
-title: "Prenez garde à vous-mêmes"
-subtitle: "Exhortation d'Août 2008"
+title: "Prenez garde à vous-même"
+subtitle: "Exhortation d’août 2008"
 date: "2008-08-01"
 year: 2008
 preacher: "Parfait M'bra"
@@ -43,12 +43,8 @@ bible_refs:
   - "Luc 17:25-36"
   - "2 Timothée 3:1-6"
   - "Apocalypse 3:14-22"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
-**Exhortation d’août 2008**
-
-**PRENEZ GARDE À VOUS MÊME**
-
 Je vous salue tous, mes bien-aimés frères et sœurs et visiteurs de notre site, à tous pour ce mois d’août, par ces Paroles de notre Seigneur Jésus-Christ à Ses disciples que nous sommes :
 
 > Prenez garde à vous-mêmes, de crainte que **vos cœurs ne s’appesantissent par les excès du manger et du boire**, et par **les soucis de la vie**, et que ce jour ne vienne sur vous à l’improviste ; car il viendra comme un filet sur tous ceux qui habitent sur la face de toute la terre. **Veillez donc et priez en tout temps**, **afin que vous ayez la force d’échapper** à toutes ces choses qui arriveront, et de paraître debout devant le Fils de l’homme. (Luc 21 :34-36)

@@ -1,8 +1,8 @@
 ---
 source: "onedrive"
 sermon_id: "exhortation_janvier_2013"
-title: "Exhortation janvier 2013"
-subtitle: "2013 - ANNEE DE MISSION"
+title: "2013 – année de mission"
+subtitle: "Exhortation janvier 2013"
 date: "2013-01-01"
 year: 2013
 preacher: "Parfait M'bra"
@@ -66,7 +66,7 @@ bible_refs:
   - "1 Jean 4:8"
   - "1 Jean 4:20"
   - "1 Corinthiens 13"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-29"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole qui relate l’appel et la mission confiés aux disciples de Jésus-Christ, les douze qu’Il appela au commencement de Son Ministère. Nous lisons cela dans le livre de Matthieu le chapitre 10.
 
