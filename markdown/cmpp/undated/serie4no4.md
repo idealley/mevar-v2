@@ -90,7 +90,7 @@ Jeffersonville — Indiana, U.S.A.
 
 «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-## Il y a ici un homme qui peut allumer la lumière
+IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE
 (There is a Man here that can turn on the Light)

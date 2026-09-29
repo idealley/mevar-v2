@@ -65,7 +65,7 @@ Jeffersonville — Indiana, U.S.A.
 
 «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-## Arrive-t-il à Dieu de changer sa pensée au sujet de sa Parole?
+ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?
 
 18 avril 1965, soir
 Branham tabernacle

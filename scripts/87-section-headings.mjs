@@ -65,11 +65,6 @@ function headingOf(line, proposed) {
   return j === to.length ? `${level} ${out}` : null;
 }
 
-/**
- * The candidate lines of a body: paragraphs of one line that may be a
- * section title; and a heading already there that is in capitals, to recase
- * (not in a Ghost post, whose layout is Samuel's).
- */
 // A line that repeats the title or the subtitle is a title block's, and
 // stays a line, in the text's opening only: before its first paragraph of
 // twenty words; further on, the same words are a section's title (« 2009 –
@@ -81,6 +76,11 @@ function opening(body) {
 }
 const repeats = (line, title, subtitle, open) => open.has(line) && (sameWords(line, title) || sameWords(line, subtitle));
 
+/**
+ * The candidate lines of a body: paragraphs of one line that may be a
+ * section title; and a heading already there that is in capitals, to recase
+ * (not in a Ghost post, whose layout is Samuel's).
+ */
 function candidates(body, title, subtitle, capsOnly) {
   const open = opening(body);
   return [...new Set(body.split(/\n{2,}/).map((p) => p.trim()))].filter((p) => {
@@ -185,13 +185,6 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   // a decision is kept under the path 86 and 87 read, once per line
   if (!batchId) for (const md of Object.keys(all)) if (!works.some(([w]) => w === md)) delete all[md];
   for (const md of Object.keys(all)) all[md] = all[md].filter((d, i, a) => a.findIndex((e) => e.line === d.line) === i);
-
-  // A title or subtitle can change after its lines were decided (86 takes
-  // the editor's): a line that repeats one is no heading.
-  for (const [md, body, title, subtitle] of works) {
-    const open = opening(body);
-    for (const d of all[md] ?? []) if (!isHeading(d.line) && repeats(d.line, title, subtitle, open)) d.heading = null;
-  }
 
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
