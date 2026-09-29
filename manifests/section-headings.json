@@ -172,7 +172,7 @@
     },
     {
       "line": "**Le Cinquième Sceau**",
-      "heading": "## Le Cinquième Sceau"
+      "heading": null
     }
   ],
   "markdown/cmpp/undated/7sceaux8.md": [
@@ -190,7 +190,7 @@
     },
     {
       "line": "RÉVÉLATION DES SEPT SCEAUX / LE SIXIÈME SCEAU",
-      "heading": "## Révélation des sept sceaux / le sixième sceau"
+      "heading": null
     },
     {
       "line": "LE SIXIÈME SCEAU",
@@ -204,7 +204,7 @@
     },
     {
       "line": "RÉVÉLATION DES SEPT SCEAUX",
-      "heading": "## Révélation des sept sceaux"
+      "heading": null
     },
     {
       "line": "PAR WILLIAM MARRION BRANHAM",
@@ -1126,7 +1126,7 @@
   "markdown/cmpp/undated/lettre_ouverte.md": [
     {
       "line": "LETTRE OUVERTE",
-      "heading": "## Lettre ouverte"
+      "heading": null
     },
     {
       "line": "AVRIL 1991",
@@ -1134,7 +1134,7 @@
     },
     {
       "line": "LE PEUPLE ET LE PAYS D’ISRAEL",
-      "heading": "## Le peuple et le pays d’Israël"
+      "heading": null
     },
     {
       "line": "RESULTAT",
@@ -1334,11 +1334,11 @@
     },
     {
       "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": "## La révélation de Jésus-Christ"
+      "heading": null
     },
     {
       "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": "## La révélation de Jésus-Christ"
+      "heading": null
     },
     {
       "line": "EGLISE D'EPHESE",
@@ -1372,7 +1372,7 @@
     },
     {
       "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": "## La révélation de Jésus-Christ"
+      "heading": null
     }
   ],
   "markdown/cmpp/undated/rev05.md": [
@@ -1402,7 +1402,7 @@
     },
     {
       "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": "## La révélation de Jésus-Christ"
+      "heading": null
     },
     {
       "line": "EGLISE DE SARDES",
@@ -1450,7 +1450,7 @@
     },
     {
       "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": "## La révélation de Jésus-Christ"
+      "heading": null
     },
     {
       "line": "LE TRONE",
@@ -1468,7 +1468,7 @@
     },
     {
       "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": "## La révélation de Jésus-Christ"
+      "heading": null
     }
   ],
   "markdown/cmpp/undated/rev15.md": [
@@ -2600,7 +2600,7 @@
     },
     {
       "line": "HONTEUX DE LUI 2",
-      "heading": "## Honteux de lui 2"
+      "heading": null
     }
   ],
   "markdown/cmpp/undated/serie5no5.md": [
@@ -2904,7 +2904,7 @@
   "markdown/le-scribe/1952/520224Chasser-demons.md": [
     {
       "line": "**BELIEVING GOD (ou CASTING OUT DEVILS IS CASTING OUT UNBELIEF)**",
-      "heading": "## Believing God (ou casting out devils is casting out unbelief)"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1952/520713Experiences.md": [
@@ -2922,7 +2922,7 @@
   "markdown/le-scribe/1953/530325Israel-Egypte.md": [
     {
       "line": "**ISRAEL ET L'EGLISE – 1 : ISRAEL EN EGYPTE**",
-      "heading": "## Israël et l'Église – 1 : Israël en Égypte"
+      "heading": null
     },
     {
       "line": "**ISRAEL AND THE CHURCH - PART I, ISRAEL IN EGYPT**",
@@ -3082,7 +3082,7 @@
     },
     {
       "line": "**LA PERFECTION (ou SOYEZ DONC PARFAIT, ou LE PARFAIT SACRIFICE)**",
-      "heading": "## La perfection (ou soyez donc parfait, ou le parfait sacrifice)"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1957/570420Tombeau.md": [
@@ -3130,17 +3130,17 @@
   "markdown/le-scribe/1958/580128Babel.md": [
     {
       "line": "**L'UNITE (ou LA TOUR DE BABEL)**",
-      "heading": "## L'unité (ou la tour de Babel)"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1958/580209Ecoutez-le.md": [
     {
       "line": "**ECOUTEZ-LE (ou : L’AMOUR AGAPE)**",
-      "heading": "## Écoutez-le (ou : l’amour agape)"
+      "heading": null
     },
     {
       "line": "**HEAR YE HIM (ou : AGAPO LOVE)**",
-      "heading": "## Hear ye him (ou : agapo love)"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1958/580225Regard-de-Dieu.md": [
@@ -3192,13 +3192,13 @@
   "markdown/le-scribe/1958/580619Naitre.md": [
     {
       "line": "**YE MUST BE BORN AGAIN**",
-      "heading": "## Ye must be born again"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1958/580620Reine-du-Midi.md": [
     {
       "line": "**QUEEN OF THE SOUTH**",
-      "heading": "## Queen of the south"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1958/580928Serpent.md": [
@@ -3222,7 +3222,7 @@
   "markdown/le-scribe/1959/590125Assure-de-Dieu.md": [
     {
       "line": "**BE CERTAIN OF GOD**",
-      "heading": "## Be certain of God"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1959/590209Bartimee.md": [
@@ -3264,7 +3264,7 @@
   "markdown/le-scribe/1959/590628Eglise-seduite.md": [
     {
       "line": "**A DECEIVED CHURCH, BY THE WORLD**",
-      "heading": "## A deceived church, by the world"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1959/590628Q&R.md": [
@@ -3282,7 +3282,7 @@
   "markdown/le-scribe/1959/591108Posseder-portes.md": [
     {
       "line": "**POSSESSING THE ENEMY'S GATES (ou TESTING BEFORE PROMISED GATES)**",
-      "heading": "## Possessing the enemy's gates (ou testing before promised gates)"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1959/591220Identifie.md": [
@@ -3298,13 +3298,13 @@
     },
     {
       "line": "**UN SUPER-SENS (ou LA FOI EST LE SIXIEME SENS)**",
-      "heading": "## Un super-sens (ou la foi est le sixième sens)"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1960/600301Soin-de-vous.md": [
     {
       "line": "**2.** LUI-MÊME PREND SOIN DE VOUS",
-      "heading": "## Lui-même prend soin de vous"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1960/600311Marie.md": [
@@ -3370,7 +3370,7 @@
   "markdown/le-scribe/1960/601209Sardes.md": [
     {
       "line": "**ANNEXE – Texte de l'Apocalypse 3:1 à 6**",
-      "heading": "## Annexe – Texte de l'Apocalypse 3:1 à 6"
+      "heading": "## Annexe – texte de l'Apocalypse 3:1 à 6"
     }
   ],
   "markdown/le-scribe/1960/601225Don-voile.md": [
@@ -3382,7 +3382,7 @@
   "markdown/le-scribe/1961/610101Anciens.md": [
     {
       "line": "**ANNEXE – Texte de l’Apocalypse 4:1-11**",
-      "heading": "## Annexe – Texte de l’Apocalypse 4:1-11"
+      "heading": "## Annexe – texte de l’Apocalypse 4:1-11"
     }
   ],
   "markdown/le-scribe/1962/620204Communion.md": [
@@ -3418,7 +3418,7 @@
   "markdown/le-scribe/1962/620513aVoie.md": [
     {
       "line": "**LA VOIE D'UN VRAI PROPHETE DE DIEU**",
-      "heading": "## La voie d'un vrai prophète de Dieu"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1962/620520Perseverance.md": [
@@ -3712,7 +3712,7 @@
   "markdown/le-scribe/1963/630627Jesus-le-meme.md": [
     {
       "line": "**JESUS-CHRIST EST LE MEME HIER, AUJOURD’HUI & ETERNELLEMENT**",
-      "heading": "## Jésus-Christ est le même hier, aujourd’hui & éternellement"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1963/630630aTroisieme-exode.md": [
@@ -3766,7 +3766,7 @@
   "markdown/le-scribe/1963/631113Signe-du-temps.md": [
     {
       "line": "**LE SIGNE DE NOTRE TEMPS**",
-      "heading": "## Le signe de notre temps"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1963/631116Perseverance.md": [
@@ -3826,7 +3826,7 @@
   "markdown/le-scribe/1964/640122Regarder-Jesus.md": [
     {
       "line": "**REGARDEZ A JESUS**",
-      "heading": "## Regardez à Jésus"
+      "heading": null
     },
     {
       "line": "**LOOKING UNTO JESUS**",
@@ -3902,7 +3902,7 @@
   "markdown/le-scribe/1964/640321Passer-par-ici.md": [
     {
       "line": "**IL DOIT PASSER PAR CI**",
-      "heading": "## Il doit passer par ci"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1964/640321Voixdusigne.md": [
@@ -3996,7 +3996,7 @@
   "markdown/le-scribe/1964/640830bQ&R.md": [
     {
       "line": "**QUESTIONS AND ANSWERS**",
-      "heading": "## Questions and answers"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1965/650118Semence-discorde.md": [
@@ -4014,7 +4014,7 @@
   "markdown/le-scribe/1965/650725aOints-fin.md": [
     {
       "line": "**THE ANOINTED ONES AT THE END TIME**",
-      "heading": "## The anointed ones at the end time"
+      "heading": null
     }
   ],
   "markdown/le-scribe/1965/651031aTransform.md": [
