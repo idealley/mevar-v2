@@ -128,7 +128,8 @@
     },
     {
       "line": "### EDITORAL",
-      "heading": null
+      "heading": null,
+      "refused": "### Éditorial"
     }
   ],
   "markdown/cmpp/1973/lc_juin_1973.md": [
@@ -427,10 +428,6 @@
     {
       "line": "### INTRODUCTION",
       "heading": "### Introduction"
-    },
-    {
-      "line": "## DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ",
-      "heading": "## Dieu caché et révélé dans la simplicité"
     }
   ],
   "markdown/cmpp/undated/7sceaux10.md": [
@@ -681,10 +678,6 @@
       "heading": "## Avant-propos"
     },
     {
-      "line": "# L'ANTICHRIST",
-      "heading": "# L'antichrist"
-    },
-    {
       "line": "## INTRODUCTION",
       "heading": "## Introduction"
     },
@@ -809,10 +802,6 @@
     {
       "line": "## INTRODUCTION",
       "heading": "## Introduction"
-    },
-    {
-      "line": "# CHRIST ET SON EGLISE DANS LA PROPHETIE",
-      "heading": "# Christ et son Église dans la prophétie"
     },
     {
       "line": "## CHRIST SOUS SES DIFFERENTS ASPECTS",
@@ -983,10 +972,6 @@
     {
       "line": "### AVANT-PROPOS",
       "heading": "### Avant-propos"
-    },
-    {
-      "line": "### IL EST ECRIT",
-      "heading": "### Il est écrit"
     },
     {
       "line": "### ETRE UN DANS L’ESPRIT",
@@ -3353,10 +3338,6 @@
       "heading": null
     },
     {
-      "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": null
-    },
-    {
       "line": "EGLISE D'EPHESE",
       "heading": "## Église d'Éphèse"
     },
@@ -4989,10 +4970,6 @@
     {
       "line": "### LE CHEMIN DE DIEU VERS L’HOMME EST LE CHEMIN DE L’HOMME VERS DIEU",
       "heading": "### Le chemin de Dieu vers l’homme est le chemin de l’homme vers Dieu"
-    },
-    {
-      "line": "### LES PROPHETIES BIBLIQUES ONT LE DERNIER MOT",
-      "heading": "### Les prophéties bibliques ont le dernier mot"
     },
     {
       "line": "### LE JOUR DU SEIGNEUR",
@@ -7315,12 +7292,6 @@
       "heading": null
     }
   ],
-  "markdown/onedrive/pdf/exhofinoct2010-les-deux-vins.md": [
-    {
-      "line": "**Fr M’BRA**",
-      "heading": null
-    }
-  ],
   "markdown/onedrive/pdf/exhofinoct2010.md": [
     {
       "line": "**LA CRAINTE ET LE JUGEMENT**",
@@ -7340,6 +7311,14 @@
     },
     {
       "line": "**Fr M’BRA Parfait**",
+      "heading": null
+    },
+    {
+      "line": "**Fr M’BRA**",
+      "heading": null
+    },
+    {
+      "line": "**LES DEUX VINS : LE VIN RELIGIEUX ET LE VIN DE L’ESPRIT**",
       "heading": null
     }
   ],
@@ -7525,12 +7504,6 @@
       "heading": null
     }
   ],
-  "markdown/onedrive/pdf/exhomai2007-la-guerre-de-liberation.md": [
-    {
-      "line": "**Prêché à Koumassi le dimanche 22 avril 2007**",
-      "heading": null
-    }
-  ],
   "markdown/onedrive/pdf/exhomai2007.md": [
     {
       "line": "**Sortez de Babylone** !",
@@ -7559,6 +7532,10 @@
     {
       "line": "**Sujets de prière pour la famille**",
       "heading": "### Sujets de prière pour la famille"
+    },
+    {
+      "line": "**Prêché à Koumassi le dimanche 22 avril 2007**",
+      "heading": null
     }
   ],
   "markdown/onedrive/pdf/exhomai2010.md": [
@@ -7631,16 +7608,6 @@
       "heading": null
     }
   ],
-  "markdown/onedrive/pdf/exhominov09-le-manteau-de-l-humilite.md": [
-    {
-      "line": "**Prêché le mercredi 30 septembre 2009**",
-      "heading": null
-    },
-    {
-      "line": "**à Kinshasa par le frère M’BRA Parfait**",
-      "heading": null
-    }
-  ],
   "markdown/onedrive/pdf/exhominov09.md": [
     {
       "line": "**Fr M’BRA Parfait**",
@@ -7649,6 +7616,18 @@
     {
       "line": "**ANNONCE DE PRIÈRE**",
       "heading": "## Annonce de prière"
+    },
+    {
+      "line": "**Le manteau de l’humilité**",
+      "heading": null
+    },
+    {
+      "line": "**Prêché le mercredi 30 septembre 2009**",
+      "heading": null
+    },
+    {
+      "line": "**à Kinshasa par le frère M’BRA Parfait**",
+      "heading": null
     }
   ],
   "markdown/onedrive/pdf/exhonov2010.md": [
@@ -7685,10 +7664,6 @@
     {
       "line": "**VISION DE FRÈRE PATRICK E. SUR LE VRAI ET LE FAUX RÉVEIL**",
       "heading": "## Vision de frère Patrick E. sur le vrai et le faux réveil"
-    },
-    {
-      "line": "**Fr M’BRA Parfait**",
-      "heading": null
     },
     {
       "line": "**LA VISION**",

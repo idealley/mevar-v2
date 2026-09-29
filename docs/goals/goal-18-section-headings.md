@@ -1,6 +1,6 @@
 # GOAL 18: Section headings: a line that stands alone becomes ## or ###
 
-**Status:** in progress
+**Status:** PR #25 open
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, the bodies of
 `markdown/onedrive/`, `markdown/mevar-pdfs/`, `markdown/le-scribe/`,
 `markdown/cmpp/`, `markdown/local/`, one line of `markdown/mevar/`;
@@ -61,8 +61,8 @@ title is left as it is.
 2. **`87-section-headings.mjs`**: finds the candidates in every French
    work, asks the model for each one (heading or not, its level, its words
    in sentence case) with the paragraphs around it, and records the
-   decisions in `manifests/section-headings.json`, reviewed data like
-   `mevar-editorial-fixes.json`. A decision whose words differ from the
+   decisions in `scripts/mevar-section-headings.json`, reviewed data beside
+   `mevar-editorial-fixes.json` (not in `manifests/`, which is generated). A decision whose words differ from the
    line's by more than case and accents is refused. It writes the headings
    into the texts goal 10 does not check (`le-scribe`, `cmpp`, `local`,
    `mevar`); a second run is a no-op.

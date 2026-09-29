@@ -72,7 +72,7 @@ const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editoria
 // Goal 18: a line that stands alone as a section title becomes ## or ###
 // (87's decisions, applied after the editor's fixes): same words, case and
 // accents aside; its bold goes.
-const sections = JSON.parse(fs.readFileSync(path.join(root, "manifests/section-headings.json"), "utf8"));
+const sections = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-section-headings.json"), "utf8"));
 const spell = nspell(dictionary);
 const isWord = (w) => spell.correct(w) || spell.correct(w.toLowerCase());
 
