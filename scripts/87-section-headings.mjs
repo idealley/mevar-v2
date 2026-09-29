@@ -70,14 +70,26 @@ function headingOf(line, proposed) {
  * section title; and a heading already there that is in capitals, to recase
  * (not in a Ghost post, whose layout is Samuel's).
  */
+// A line that repeats the title or the subtitle is a title block's, and
+// stays a line, in the text's opening only: before its first paragraph of
+// twenty words; further on, the same words are a section's title (« 2009 –
+// année de campagne » before 1 Chroniques 20).
+function opening(body) {
+  const paras = body.split(/\n{2,}/).map((p) => p.trim());
+  const first = paras.findIndex((p) => letters(p).length >= 20);
+  return new Set(paras.slice(0, first < 0 ? paras.length : first));
+}
+const repeats = (line, title, subtitle, open) => open.has(line) && (sameWords(line, title) || sameWords(line, subtitle));
+
 function candidates(body, title, subtitle, capsOnly) {
+  const open = opening(body);
   return [...new Set(body.split(/\n{2,}/).map((p) => p.trim()))].filter((p) => {
     if (!p || p.includes("\n")) return false;
     if (isHeading(p)) {
       const ls = [...plain(p)].filter((c) => /\p{L}/u.test(c));
       return !capsOnly && ls.length >= 4 && ls.every((c) => c === c.toUpperCase());
     }
-    if (/^(>|- |\d+\.\s)/.test(p) || sameWords(p, title) || sameWords(p, subtitle)) return false;
+    if (/^(>|- |\d+\.\s)/.test(p) || repeats(p, title, subtitle, open)) return false;
     const text = plain(p);
     const ls = [...text].filter((c) => /\p{L}/u.test(c));
     const n = letters(p).length;
@@ -176,8 +188,10 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 
   // A title or subtitle can change after its lines were decided (86 takes
   // the editor's): a line that repeats one is no heading.
-  for (const [md, , title, subtitle] of works)
-    for (const d of all[md] ?? []) if (!isHeading(d.line) && (sameWords(d.line, title) || sameWords(d.line, subtitle))) d.heading = null;
+  for (const [md, body, title, subtitle] of works) {
+    const open = opening(body);
+    for (const d of all[md] ?? []) if (!isHeading(d.line) && repeats(d.line, title, subtitle, open)) d.heading = null;
+  }
 
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
