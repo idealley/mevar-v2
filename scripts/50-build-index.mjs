@@ -45,7 +45,7 @@ for (const mdPath of walk(mdRoot)) {
   // markdown/mevar/ keeps its source and sermon_id in its frontmatter
   const parts = rel.split(path.sep);
   const fm = text.slice(0, text.indexOf("\n---\n", 4));
-  const source = fm.match(/^source: "(.+)"$/m)?.[1] ?? parts[1];
+  const source = fm.match(/^source: "(.+)"$/m)[1];
   const basename = path.basename(mdPath, ".md");
 
   const manifest = manifestEntries.get(`${source}/${source !== parts[1] ? fm.match(/^sermon_id: "(.+)"$/m)[1] : basename}`);

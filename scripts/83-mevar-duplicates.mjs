@@ -62,7 +62,7 @@ for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
     const [, fm, body] = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
     // a OneDrive or PDF text goal 19 moved to mevar/ keeps its source; its
     // path is where it is now
-    const src = source === "mevar" ? field(fm, "source") ?? "mevar" : source;
+    const src = field(fm, "source");
     if (src === "mevar" && field(fm, "type") !== "post") continue;
     const w = words(body);
     const shingles = new Set();
