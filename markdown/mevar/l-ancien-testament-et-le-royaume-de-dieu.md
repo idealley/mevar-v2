@@ -34,7 +34,7 @@ bible_refs:
   - "Ézéchiel 36"
   - "Lévitique 18"
   - "Genèse 20"
-  - "Osée 1"
+  - "Osée 1:2-4"
   - "Ésaïe 8"
   - "1 Rois 20:35-38"
   - "Marc 10"

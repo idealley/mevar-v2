@@ -40,7 +40,7 @@ bible_refs:
   - "Apocalypse 9:1-21"
   - "Apocalypse 8"
   - "Apocalypse 10"
-  - "Apocalypse 11:1-11"
+  - "Apocalypse 11:1-19"
   - "Apocalypse 9"
   - "Apocalypse 12"
   - "Apocalypse 11:15"
