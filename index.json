@@ -166889,9 +166889,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/minuit.md",
-    "size_bytes": 75150,
-    "line_count": 300
+    "local_md": "markdown/mevar/le-message-de-minuit-2006.md",
+    "size_bytes": 77076,
+    "line_count": 309
   },
   {
     "source": "onedrive",
@@ -166962,9 +166962,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/peche.md",
-    "size_bytes": 65137,
-    "line_count": 217
+    "local_md": "markdown/mevar/le-peche-de-nebukadnetsar-2006.md",
+    "size_bytes": 66467,
+    "line_count": 232
   },
   {
     "source": "onedrive",
@@ -167181,7 +167181,7 @@
     "source": "onedrive",
     "sermon_id": "parolededieu",
     "title": "La Parole de Dieu",
-    "subtitle": null,
+    "subtitle": "Prêché à Koumassi le dimanche matin 07 janvier 2007",
     "date": "2007-01-07",
     "year": 2007,
     "location": "Koumassi",
@@ -167243,9 +167243,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/parolededieu.md",
-    "size_bytes": 99595,
-    "line_count": 244
+    "local_md": "markdown/mevar/la-parole-de-dieu-2007.md",
+    "size_bytes": 102055,
+    "line_count": 323
   },
   {
     "source": "onedrive",
@@ -168390,7 +168390,7 @@
     "source": "onedrive",
     "sermon_id": "pred_femmeetrangere",
     "title": "La femme étrangère",
-    "subtitle": null,
+    "subtitle": "Koumassi, dimanche 12 août 2007",
     "date": "2007-08-12",
     "year": 2007,
     "location": "Koumassi",
@@ -168436,9 +168436,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/pred_femmeetrangere.md",
-    "size_bytes": 74951,
-    "line_count": 203
+    "local_md": "markdown/mevar/la-femme-etrangere-2007.md",
+    "size_bytes": 77389,
+    "line_count": 215
   },
   {
     "source": "onedrive",
@@ -168768,8 +168768,8 @@
   {
     "source": "onedrive",
     "sermon_id": "pred_0109",
-    "title": "Quand un homme peut trouver grâce aux yeux de l'Eternel",
-    "subtitle": "Exhortation d'Octobre 2007",
+    "title": "Quand un homme peut trouver grâce aux yeux de l’Éternel",
+    "subtitle": "Koumassi, dimanche 21 octobre 2007",
     "date": "2007-10-21",
     "year": 2007,
     "location": "Koumassi",
@@ -168826,9 +168826,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/pred_0109.md",
-    "size_bytes": 45704,
-    "line_count": 182
+    "local_md": "markdown/mevar/quand-un-homme-peut-trouver-grace-aux-yeux-de-l-eternel-2007.md",
+    "size_bytes": 47364,
+    "line_count": 187
   },
   {
     "source": "onedrive",
@@ -170234,7 +170234,7 @@
     "source": "onedrive",
     "sermon_id": "peche_jonas",
     "title": "Le péché de Jonas",
-    "subtitle": null,
+    "subtitle": "Prêché le 21 octobre 2008, à Lagos",
     "date": "2008-10-21",
     "year": 2008,
     "location": "Lagos",
@@ -170286,9 +170286,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/peche_jonas.md",
-    "size_bytes": 28743,
-    "line_count": 80
+    "local_md": "markdown/mevar/le-peche-de-jonas-2008.md",
+    "size_bytes": 29414,
+    "line_count": 116
   },
   {
     "source": "onedrive",
@@ -171080,8 +171080,8 @@
   {
     "source": "onedrive",
     "sermon_id": "pred_aimes_tu",
-    "title": "Ami, m'aimes-tu ?",
-    "subtitle": "Exhortation de Mars 2009",
+    "title": "Ami, m’aimes-tu ?",
+    "subtitle": "Prêché le 15 mars 2009 à Koumassi",
     "date": "2009-03-15",
     "year": 2009,
     "location": "Koumassi",
@@ -171133,9 +171133,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/pred_aimes_tu.md",
-    "size_bytes": 46419,
-    "line_count": 152
+    "local_md": "markdown/mevar/ami-m-aimes-tu-2009.md",
+    "size_bytes": 47713,
+    "line_count": 168
   },
   {
     "source": "onedrive",
@@ -171194,7 +171194,7 @@
     "source": "onedrive",
     "sermon_id": "pred_processus",
     "title": "Le processus de la fin des temps",
-    "subtitle": null,
+    "subtitle": "Prêché le dimanche 12 avril 2009, à Koumassi",
     "date": "2009-04-12",
     "year": 2009,
     "location": "Koumassi",
@@ -171265,9 +171265,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/pred_processus.md",
-    "size_bytes": 64879,
-    "line_count": 292
+    "local_md": "markdown/mevar/le-processus-de-la-fin-des-temps-2009.md",
+    "size_bytes": 67596,
+    "line_count": 293
   },
   {
     "source": "onedrive",
@@ -171324,7 +171324,7 @@
   {
     "source": "onedrive",
     "sermon_id": "perseverez",
-    "title": "Persévérez dans la prière et l'intercession",
+    "title": "Persévérez dans la prière et l’intercession",
     "subtitle": "Exhortation de Mai 2009",
     "date": "2009-05-01",
     "year": 2009,
@@ -171371,9 +171371,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/perseverez.md",
-    "size_bytes": 9434,
-    "line_count": 65
+    "local_md": "markdown/mevar/perseverez-dans-la-priere-et-l-intercession-2009.md",
+    "size_bytes": 9637,
+    "line_count": 77
   },
   {
     "source": "onedrive",
@@ -172360,7 +172360,7 @@
   {
     "source": "onedrive",
     "sermon_id": "nov2009",
-    "title": "PERSEVEREZ DANS LA VISION DU REVEIL",
+    "title": "Persévérez dans la vision du réveil",
     "subtitle": "Exhortation de Novembre 2009",
     "date": "2009-11-01",
     "year": 2009,
@@ -172409,14 +172409,14 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/nov2009.md",
-    "size_bytes": 20437,
-    "line_count": 130
+    "local_md": "markdown/mevar/perseverez-dans-la-vision-du-reveil-2009.md",
+    "size_bytes": 21293,
+    "line_count": 129
   },
   {
     "source": "onedrive",
     "sermon_id": "planattaque",
-    "title": "Plans d'attaque I",
+    "title": "Plans d’attaque I",
     "subtitle": null,
     "date": "2009-11-08",
     "year": 2009,
@@ -172470,9 +172470,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/planattaque.md",
-    "size_bytes": 40103,
-    "line_count": 141
+    "local_md": "markdown/mevar/plans-d-attaque-i-2009.md",
+    "size_bytes": 41381,
+    "line_count": 163
   },
   {
     "source": "onedrive",
@@ -172542,7 +172542,7 @@
   {
     "source": "onedrive",
     "sermon_id": "planattaque2",
-    "title": "Plan d'attaque II",
+    "title": "Plan d’attaque II",
     "subtitle": null,
     "date": "2009-11-15",
     "year": 2009,
@@ -172604,15 +172604,15 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/planattaque2.md",
-    "size_bytes": 67548,
-    "line_count": 252
+    "local_md": "markdown/mevar/plan-d-attaque-ii-2009.md",
+    "size_bytes": 69095,
+    "line_count": 263
   },
   {
     "source": "onedrive",
     "sermon_id": "plandattaque",
-    "title": "PLANS D'ATTAQUE III",
-    "subtitle": null,
+    "title": "Plans d’attaque III",
+    "subtitle": "Prêché le 22 novembre 2009 à Koumassi",
     "date": "2009-11-22",
     "year": 2009,
     "location": "Koumassi",
@@ -172663,9 +172663,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/plandattaque.md",
-    "size_bytes": 66173,
-    "line_count": 221
+    "local_md": "markdown/mevar/plans-d-attaque-iii-2009.md",
+    "size_bytes": 84979,
+    "line_count": 306
   },
   {
     "source": "onedrive",
@@ -173076,7 +173076,7 @@
     "source": "onedrive",
     "sermon_id": "pred_calomnie",
     "title": "Les calomnies",
-    "subtitle": null,
+    "subtitle": "Prêché à Koumassi, le dimanche 28 mars 2010",
     "date": "2010-03-28",
     "year": 2010,
     "location": "Koumassi",
@@ -173128,9 +173128,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/pred_calomnie.md",
-    "size_bytes": 72575,
-    "line_count": 241
+    "local_md": "markdown/mevar/les-calomnies-2010.md",
+    "size_bytes": 74122,
+    "line_count": 257
   },
   {
     "source": "onedrive",
@@ -174029,8 +174029,8 @@
   {
     "source": "onedrive",
     "sermon_id": "pred_jan2011",
-    "title": "L'accomplissement de la bonne Parole",
-    "subtitle": "Exhortation d'Octobre 2010",
+    "title": "L’accomplissement de la bonne Parole",
+    "subtitle": "Prêché le mercredi 13 octobre 2010 à Kinshasa (RDC)",
     "date": "2010-10-13",
     "year": 2010,
     "location": "Kinshasa (RDC)",
@@ -174091,9 +174091,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/pred_jan2011.md",
-    "size_bytes": 27065,
-    "line_count": 160
+    "local_md": "markdown/mevar/l-accomplissement-de-la-bonne-parole-2010.md",
+    "size_bytes": 27910,
+    "line_count": 156
   },
   {
     "source": "onedrive",
@@ -176746,7 +176746,7 @@
   {
     "source": "onedrive",
     "sermon_id": "pourquoi_huitieme",
-    "title": "POURQUOI LA PART D’UN HUITIEME ?",
+    "title": "Pourquoi la part d’un huitième ?",
     "subtitle": "Exhortation Fin Juin 2012",
     "date": "2012-06-30",
     "year": 2012,
@@ -176810,9 +176810,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/pourquoi_huitieme.md",
-    "size_bytes": 92425,
-    "line_count": 489
+    "local_md": "markdown/mevar/pourquoi-la-part-d-un-huitieme-2012.md",
+    "size_bytes": 94177,
+    "line_count": 677
   },
   {
     "source": "onedrive",
@@ -178189,8 +178189,8 @@
   {
     "source": "onedrive",
     "sermon_id": "parle_au_rocher",
-    "title": "Parle au rocher ou Proclamations",
-    "subtitle": "Exhortation de Juillet 2013",
+    "title": "Parle au rocher ou proclamations",
+    "subtitle": "Prêché le dimanche 14 juillet 2013 à Koumassi",
     "date": "2013-07-14",
     "year": 2013,
     "location": "Koumassi",
@@ -178245,9 +178245,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/parle_au_rocher.md",
-    "size_bytes": 40620,
-    "line_count": 148
+    "local_md": "markdown/mevar/parle-au-rocher-ou-proclamations-2013.md",
+    "size_bytes": 42490,
+    "line_count": 163
   },
   {
     "source": "onedrive",
@@ -178374,8 +178374,8 @@
   {
     "source": "onedrive",
     "sermon_id": "onction_fait_ladifference",
-    "title": "L'onction fait la différence",
-    "subtitle": "Exhortation de Septembre 2013",
+    "title": "L’onction fait la différence",
+    "subtitle": "Prêché le dimanche 1er septembre 2013 à Ouagadougou",
     "date": "2013-09-01",
     "year": 2013,
     "location": "Ouagadougou",
@@ -178440,9 +178440,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/onction_fait_ladifference.md",
-    "size_bytes": 55623,
-    "line_count": 199
+    "local_md": "markdown/mevar/l-onction-fait-la-difference-2013.md",
+    "size_bytes": 57945,
+    "line_count": 202
   },
   {
     "source": "onedrive",
@@ -180094,8 +180094,8 @@
   {
     "source": "onedrive",
     "sermon_id": "pred_sept2010",
-    "title": "L'autorité spirituelle",
-    "subtitle": "Exhortation d'Août 2014",
+    "title": "L’autorité spirituelle",
+    "subtitle": "Prêché le dimanche 22 août à Koumassi",
     "date": "2014-08-22",
     "year": 2014,
     "location": "Koumassi",
@@ -180157,9 +180157,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/pred_sept2010.md",
-    "size_bytes": 42594,
-    "line_count": 191
+    "local_md": "markdown/mevar/l-autorite-spirituelle-2014.md",
+    "size_bytes": 44458,
+    "line_count": 188
   },
   {
     "source": "onedrive",
@@ -187026,8 +187026,8 @@
   {
     "source": "onedrive",
     "sermon_id": "nouvelleorientation",
-    "title": "L'intercession",
-    "subtitle": null,
+    "title": "L’intercession",
+    "subtitle": "Prêché à l’église de Cocotomé / Cotonou",
     "date": null,
     "year": null,
     "location": "Cocotomé / Cotonou",
@@ -187087,9 +187087,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/nouvelleorientation.md",
-    "size_bytes": 30316,
-    "line_count": 125
+    "local_md": "markdown/mevar/l-intercession.md",
+    "size_bytes": 31292,
+    "line_count": 132
   },
   {
     "source": "onedrive",
