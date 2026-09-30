@@ -40,6 +40,7 @@ pdf_url: "http://le-scribe.org/pdfiles/500824Bras-Eternel.pdf"
 llm_cleaned: true
 bible_refs:
   - "Ésaïe 53:1"
+  - "Matthieu 25:42"
   - "2 Rois 7:9"
   - "Actes 5:3"
   - "Actes 5:15"

@@ -20,6 +20,7 @@ stream_url: "https://mevar.org/notre-position-comparee-a-celle-de-jeremie/"
 bible_refs:
   - "Jérémie 1"
   - "Malachie 4"
+  - "Matthieu 24"
 ---
 Alléluia ! Que le nom du Seigneur soit béni ! Nous allons encore écouter la parole du Seigneur. Comme je l’ai dit, nous prêchons sur la foi. Nous demeurons toujours sur le même sujet parce que c’est un sujet important. Ma prière c’est que chacun de nous comprenne de quoi il est question. Nous allons lire dans Jérémie 1 à partir du premier verset.
 

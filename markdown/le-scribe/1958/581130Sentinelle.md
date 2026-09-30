@@ -37,6 +37,7 @@ bible_refs:
   - "Ésaïe 21"
   - "Actes 2:27"
   - "Luc 18:8"
+  - "Matthieu 5:5"
   - "Luc 21:11,25,26"
   - "Luc 21:28"
   - "Luc 21:30-32"
@@ -45,6 +46,8 @@ bible_refs:
   - "Actes 2:17"
   - "2 Timothée 4:7-8"
   - "Ésaïe 53:5"
+  - "Matthieu 6:33"
+  - "Matthieu 21:21"
   - "Marc 12:42"
 original: "branham/1958/58-1130"
 ---

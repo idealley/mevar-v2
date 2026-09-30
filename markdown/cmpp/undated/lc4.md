@@ -61,6 +61,7 @@ bible_refs:
   - "Jean 17"
   - "Apocalypse 3"
   - "Jean 1"
+  - "Matthieu 10"
   - "2 Corinthiens 10"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).

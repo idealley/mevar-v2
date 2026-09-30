@@ -50,6 +50,7 @@ bible_refs:
   - "1 Corinthiens 6:17"
   - "Apocalypse 21:8"
   - "Matthieu 10:28"
+  - "Proverbes 8:13"
   - "Psaumes 5:5"
   - "Psaumes 45:7"
   - "Hébreux 1:9"

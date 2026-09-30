@@ -45,6 +45,7 @@ bible_refs:
   - "Jean 10:37"
   - "Jean 20:21"
   - "Lévitique 2:1-2"
+  - "Matthieu 12:18"
   - "Jean 19:39"
   - "Jean 12:1-8"
   - "Matthieu 26:6-13"

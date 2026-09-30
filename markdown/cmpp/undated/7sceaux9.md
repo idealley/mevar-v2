@@ -46,6 +46,7 @@ bible_refs:
   - "Matthieu 5"
   - "Matthieu 28"
   - "Actes 2"
+  - "Matthieu 7"
   - "Daniel 9"
   - "Apocalypse 11"
   - "Malachie 3"

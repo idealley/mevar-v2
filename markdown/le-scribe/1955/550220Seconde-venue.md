@@ -44,7 +44,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550220Seconde-venue.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 14:10,5"
+  - "Jean 14:10"
   - "Marc 16:14-15"
   - "Marc 16:17-18"
   - "Jean 5:24"

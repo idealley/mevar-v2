@@ -46,6 +46,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 13:1-10"
   - "Apocalypse 13:11-18"
+  - "Matthieu 21:21"
   - "Malachie 4"
   - "Nombres 12"
   - "Nombres 12:6-8"
@@ -60,6 +61,7 @@ bible_refs:
   - "Exode 3:5-6"
   - "Jean 3:14"
   - "Ésaïe 53:5"
+  - "Hébreux 13:8"
   - "Marc 4:35-41"
   - "Jean 11"
   - "Luc 8:40-56"
@@ -71,6 +73,7 @@ bible_refs:
   - "Luc 18:18-25"
   - "Jean 16:16"
   - "Jean 14:12"
+  - "Hébreux 4:15"
   - "Luc 8:46"
 original: "branham/1963/63-1229E"
 ---

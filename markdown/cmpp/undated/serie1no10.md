@@ -45,6 +45,7 @@ bible_refs:
   - "Romains 8"
   - "Marc 16"
   - "Romains 8:11"
+  - "Matthieu 28"
   - "Luc 24"
   - "Hébreux 13"
   - "Jean 14"

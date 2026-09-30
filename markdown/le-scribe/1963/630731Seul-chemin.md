@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 14:12"
   - "Marc 16:17-18"
   - "Jean 8:46"
+  - "Matthieu 4:4"
   - "Actes 2:39"
   - "Actes 2:38"
   - "Exode 3"

@@ -38,6 +38,8 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650424Un_Million.pdf"
 llm_cleaned: true
 original: "branham/1965/65-0424"
+bible_refs:
+  - "Matthieu 7:21"
 ---
 *Un sur un million*
 

@@ -47,17 +47,21 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620715Plus-que-Salomon.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 24:24"
   - "Matthieu 12:38"
   - "Jean 4:19"
   - "Jean 4:26"
   - "Jean 10:37"
+  - "Matthieu 15:3"
   - "Marc 7:9,13"
   - "Jean 10:37-38"
+  - "Matthieu 12:1"
   - "Deutéronome 23:25"
   - "Ésaïe 9:6"
   - "Jean 20:29"
   - "1 Rois 8:48"
   - "Jean 6:37"
+  - "Matthieu 7:16"
   - "Luc 17:28-30"
 original: "branham/1962/62-0715"
 ---

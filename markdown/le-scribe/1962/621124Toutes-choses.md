@@ -40,6 +40,7 @@ pdf_url: "http://le-scribe.org/pdfiles/621124Toutes-choses.pdf"
 llm_cleaned: true
 bible_refs:
   - "Romains 8:32"
+  - "Matthieu 22:21"
   - "1 Corinthiens 11:29"
   - "Ésaïe 1"
   - "2 Pierre 1:7"

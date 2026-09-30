@@ -56,6 +56,7 @@ bible_refs:
   - "Apocalypse 14"
   - "Apocalypse 12"
   - "Apocalypse 7"
+  - "Ézéchiel 9"
   - "Matthieu 24"
   - "Apocalypse 11"
   - "Apocalypse 19"

@@ -41,6 +41,8 @@ pdf_url: "http://le-scribe.org/pdfiles/640401Christ-identifie.pdf"
 llm_cleaned: true
 bible_refs:
   - "Hébreux 13:1"
+  - "Matthieu 28:20"
+  - "Matthieu 9:38"
   - "Amos 3:7"
   - "Jean 5:39,46"
   - "Malachie 3:6"
@@ -51,6 +53,7 @@ bible_refs:
   - "Jean 1:42"
   - "Jean 1:49"
   - "Hébreux 4:12"
+  - "Matthieu 12:31-32"
   - "Zacharie 14:7"
   - "Malachie 4"
   - "Jean 14:12"

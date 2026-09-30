@@ -40,6 +40,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550621Centenier.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 8:8"
   - "Ésaïe 53:5"
   - "Luc 19:44"
 original: "branham/1955/55-0621"

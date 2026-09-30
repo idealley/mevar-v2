@@ -16,6 +16,7 @@ ghost_id: "6448fa86db90770001518fde"
 uuid: "d9cc2019-6183-400f-a339-90a83fc19960"
 stream_url: "https://mevar.org/les-dons-excellents/"
 bible_refs:
+  - "Matthieu 7"
   - "1 Corinthiens 10"
   - "Jacques 1:13"
   - "Jean 3:27"

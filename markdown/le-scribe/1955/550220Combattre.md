@@ -47,6 +47,7 @@ bible_refs:
   - "Hébreux 13:12"
   - "2 Corinthiens 5:19"
   - "Actes 2:22"
+  - "Matthieu 7:7"
   - "Jean 1:49"
   - "Jean 14:10"
   - "2 Corinthiens 8:9"

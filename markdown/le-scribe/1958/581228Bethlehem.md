@@ -54,6 +54,7 @@ bible_refs:
   - "Michée 5:1"
   - "Luc 12:32"
   - "Ruth 4:20"
+  - "Matthieu 1:5"
   - "Ruth 1:22"
   - "Ruth 1:16"
   - "Jean 19:30"
@@ -61,6 +62,7 @@ bible_refs:
   - "Luc 2:11"
   - "Jean 6:50"
   - "Psaumes 23"
+  - "Matthieu 15:9"
   - "Jean 15:1"
 original: "branham/1958/58-1228"
 ---

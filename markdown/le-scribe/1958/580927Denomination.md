@@ -51,6 +51,7 @@ bible_refs:
   - "Exode 20:5"
   - "Apocalypse 18:16"
   - "Apocalypse 18:20"
+  - "Matthieu 24:22"
   - "Apocalypse 17:17-18"
   - "Actes 5:1-11"
   - "Ésaïe 1"

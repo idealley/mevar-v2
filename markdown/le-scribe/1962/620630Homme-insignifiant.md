@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 11:3-16"
   - "Luc 7:36"
+  - "Matthieu 22:11-14"
   - "Luc 7:39"
   - "Actes 2"
 original: "branham/1962/62-0630E"

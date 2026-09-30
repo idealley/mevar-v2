@@ -53,6 +53,7 @@ bible_refs:
   - "Malachie 4"
   - "Psaumes 1"
   - "Colossiens 1"
+  - "Matthieu 24"
   - "Malachie 3"
   - "Hébreux 11"
 ---

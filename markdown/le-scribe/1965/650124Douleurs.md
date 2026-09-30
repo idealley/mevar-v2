@@ -46,6 +46,8 @@ bible_refs:
   - "Jean 16:20-21"
   - "1 Jean 5:7"
   - "Actes 24:14"
+  - "Matthieu 6:33"
+  - "Matthieu 24:24"
   - "Malachie 3:1"
   - "Luc 2:36-38"
   - "Luc 2:25-32"
@@ -53,6 +55,7 @@ bible_refs:
   - "Luc 17:26"
   - "Luc 17:28,30"
   - "Genèse 19:11"
+  - "Hébreux 4:12-13"
   - "Ésaïe 52:11"
 original: "branham/1965/65-0124"
 ---

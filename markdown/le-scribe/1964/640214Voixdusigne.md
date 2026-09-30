@@ -39,7 +39,7 @@ pdf_url: "http://le-scribe.org/pdfiles/640214Voixdusigne.pdf"
 llm_cleaned: true
 bible_refs:
   - "Exode 4:1-8"
-  - "Exode 2:24,6"
+  - "Exode 2:24"
   - "Amos 3:7"
   - "Genèse 15:13-16"
   - "Jean 12:37"
@@ -49,6 +49,7 @@ bible_refs:
   - "Nombres 12:6"
   - "Deutéronome 19:22"
   - "Marc 16:15-18"
+  - "Matthieu 12:39"
   - "Luc 17:28"
   - "Malachie 4"
   - "Jean 6:44"

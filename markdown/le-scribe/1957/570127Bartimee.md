@@ -47,7 +47,7 @@ bible_refs:
   - "Matthieu 28:29"
   - "Jean 14:12"
   - "Jean 5:19"
-  - "Jean 15:26,14"
+  - "Jean 15:26"
   - "Jean 13:3"
 original: "branham/1957/57-0127E"
 ---

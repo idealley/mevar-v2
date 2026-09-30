@@ -89,6 +89,7 @@ bible_refs:
   - "Actes 2:38"
   - "Matthieu 28:19"
   - "Matthieu 16:17-18"
+  - "Hébreux 11:4"
   - "Apocalypse 10"
   - "Proverbes 12:4"
   - "Deutéronome 24"

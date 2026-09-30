@@ -36,6 +36,7 @@ bible_refs:
   - "Hébreux 13"
   - "1 Chroniques 28"
   - "1 Corinthiens 3"
+  - "2 Pierre 3"
   - "Jean 4"
   - "Romains 8"
   - "Galates 4"
@@ -43,6 +44,7 @@ bible_refs:
   - "Marc 11"
   - "Exode 25"
   - "Hébreux 2"
+  - "Matthieu 25"
   - "Colossiens 1"
   - "Romains 3"
 ---

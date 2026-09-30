@@ -20,6 +20,7 @@ uuid: "bbb80bd0-6159-4dc4-a249-054f4df9c8e1"
 stream_url: "https://mevar.org/la-foi-pour-manger-le-lait-et-le-miel/"
 bible_refs:
   - "Luc 11:21-22"
+  - "2 Pierre 1"
   - "2 Corinthiens 5:7"
   - "2 Corinthiens 10"
   - "2 Corinthiens 10:4-6"

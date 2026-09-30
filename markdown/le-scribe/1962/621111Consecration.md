@@ -45,6 +45,7 @@ bible_refs:
   - "Hébreux 10:5"
   - "Actes 4:11"
   - "Éphésiens 2:20,1"
+  - "Matthieu 16:17,18"
   - "Actes 2:17"
 original: "branham/1962/62-1111M"
 ---

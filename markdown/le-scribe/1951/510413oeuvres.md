@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 4:46"
   - "Jean 10:22"
   - "Jacques 2:17"
+  - "Matthieu 7:16"
   - "1 Rois 6:7"
   - "Marc 9:38"
   - "Jean 13:35,1"

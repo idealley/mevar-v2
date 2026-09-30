@@ -46,7 +46,7 @@ bible_refs:
   - "Actes 9:7"
   - "Actes 22:9"
   - "Galates 1:10"
-  - "Actes 9:1-22,22"
+  - "Actes 9:1-22"
   - "Galates 1:17-18"
   - "Matthieu 13:45-46"
   - "Actes 16:16-18"
@@ -57,9 +57,11 @@ bible_refs:
   - "Actes 9:16"
   - "Genèse 37:5-10"
   - "Jean 14:12"
+  - "Matthieu 21:21"
   - "Marc 11:23"
   - "Jean 15:7"
   - "Genèse 41:14"
+  - "Matthieu 16:25"
 original: "branham/1963/63-0717"
 ---
 **Résumé de!: “Paul, prisonnier de Christ” (17 juillet 1963 soir)**

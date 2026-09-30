@@ -73,6 +73,7 @@ bible_refs:
   - "Jean 6:44"
   - "Actes 24:14"
   - "Jean 8:58"
+  - "Matthieu 25:40"
   - "1 Corinthiens 15:52"
   - "Genèse 18:12-13"
   - "Jean 15:7"

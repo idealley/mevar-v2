@@ -18,6 +18,8 @@ ghost_id: "6448fa86db90770001518f07"
 uuid: "5dfb0fe8-8af0-453b-b5a3-46bf1d5e57e8"
 stream_url: "https://mevar.org/l-autorite-spirituelle/"
 bible_refs:
+  - "Matthieu 28"
+  - "Matthieu 28:17"
   - "Jean 19:10-12"
   - "Actes 4:5-10"
   - "Matthieu 18"

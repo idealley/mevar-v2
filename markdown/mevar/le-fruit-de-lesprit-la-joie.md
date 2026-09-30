@@ -32,6 +32,7 @@ bible_refs:
   - "Psaumes 126:5-6"
   - "Matthieu 25"
   - "Matthieu 25:22-23"
+  - "1 Thessaloniciens 2:18"
 series_id: "le-fruit-de-lesprit-lamour"
 series: "Le fruit de l’Esprit"
 series_part: 2

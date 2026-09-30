@@ -43,6 +43,7 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 4:23"
   - "Luc 2:25-30"
+  - "Matthieu 7:14"
   - "Luc 17:26"
   - "Jude 1:4"
 original: "branham/1951/51-0930E"

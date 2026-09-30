@@ -34,7 +34,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510415Histoire-vie.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 13:14,11"
+  - "Hébreux 13:14"
   - "Actes 19:13-16"
   - "Job 38:4"
   - "Luc 16:24"

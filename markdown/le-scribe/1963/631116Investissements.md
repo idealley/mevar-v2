@@ -43,13 +43,14 @@ bible_refs:
   - "Exode 12:13"
   - "Matthieu 19:16"
   - "1 Jean 2:15"
+  - "Matthieu 24:35"
   - "Jean 7:46"
   - "Jean 10:37"
   - "Jean 5:39"
   - "Luc 17:26"
   - "Actes 16:31"
   - "Actes 14:22"
-  - "Jean 14:26,15"
+  - "Jean 14:26"
   - "1 Timothée 5:6"
   - "Luc 24:49"
   - "Actes 19:2"
@@ -59,6 +60,7 @@ bible_refs:
   - "1 Corinthiens 2:4"
   - "Luc 12:19"
   - "Luc 16:23"
+  - "Matthieu 5:11,3,5"
 original: "branham/1963/63-1116B"
 ---
 **3.** De même qu'une brebis ne fabrique pas sa laine, mais en porte, un Chrétien ne fabrique pas du fruit, mais en porte. Des gens de toutes les dénominations sont ici ce matin. Je me souviens qu'au printemps, lors du assemblement du bétail, les employés de l'Association pour la Race Hereford ne regardaient pas la marque du propriétaire des bêtes, mais l'étiquette indiquant la race. De même, pour le Grand Rassemblement dans le Royaume de Dieu, Dieu ne regardera pas à l'étiquette dénominationnelle, mais à la marque du Sang : "Je verrai le Sang, et je passerai par-dessus vous" (Ex. 12:13).

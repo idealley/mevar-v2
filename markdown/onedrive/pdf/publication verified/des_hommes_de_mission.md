@@ -46,7 +46,7 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Jean 20:21"
-  - "Jean 8:18,12"
+  - "Jean 8:18"
   - "Jean 18:37"
   - "Jean 8:12"
   - "Jean 14:30"

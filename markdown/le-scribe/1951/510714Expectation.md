@@ -45,6 +45,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510714Expectation.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 10:37"
   - "Luc 2:25-30"
   - "Romains 10:17"
   - "Jean 4:48"

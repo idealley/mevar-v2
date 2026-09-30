@@ -41,11 +41,13 @@ llm_cleaned: true
 bible_refs:
   - "1 Jean 5:1"
   - "1 Corinthiens 12:3"
+  - "Matthieu 16:17"
   - "Luc 7:1"
   - "Jean 14:12"
   - "Marc 11:24"
   - "Marc 16:17-18"
   - "Hébreux 11:6"
+  - "Matthieu 8:13"
   - "1 Samuel 15:22"
   - "Jean 5:19"
   - "Nombres 24:13"

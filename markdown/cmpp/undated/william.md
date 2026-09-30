@@ -47,7 +47,9 @@ llm_cleaned: true
 bible_refs:
   - "Amos 3"
   - "Malachie 4"
+  - "Matthieu 17"
   - "Ésaïe 43"
+  - "Matthieu 10"
   - "Marc 16"
   - "Hébreux 2"
   - "Romains 1"
@@ -63,6 +65,7 @@ bible_refs:
   - "Jean 4"
   - "Deutéronome 18"
   - "Actes 3"
+  - "Matthieu 24"
   - "Hébreux 12"
 ---
 WILLIAM BRANHAM

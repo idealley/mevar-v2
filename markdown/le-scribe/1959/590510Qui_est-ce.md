@@ -37,7 +37,7 @@ bible_refs:
   - "Hébreux 11:10"
   - "Matthieu 21:1-11"
   - "Luc 17:12-17"
-  - "Jean 16:28,20"
+  - "Jean 16:28"
   - "Exode 33:23"
 original: "branham/1959/59-0510E"
 ---

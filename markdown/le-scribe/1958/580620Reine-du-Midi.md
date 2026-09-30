@@ -46,11 +46,15 @@ pdf_url: "http://le-scribe.org/pdfiles/580620Reine-du-Midi.pdf"
 llm_cleaned: true
 bible_refs:
   - "Matthieu 12:42"
+  - "Matthieu 11:23"
   - "2 Rois 4"
   - "Jean 11:21-22"
   - "Romains 8:28"
   - "1 Rois 8:38-39"
+  - "Matthieu 5:6"
+  - "Matthieu 24:28"
   - "Jean 14:19,12"
+  - "Matthieu 28:20"
 original: "branham/1958/58-0620"
 ---
 *Résumé de : "La reine du Midi" (20 juin 1958, soir)*

@@ -47,7 +47,7 @@ bible_refs:
   - "Matthieu 17:1"
   - "Daniel 5"
   - "Jean 14:2"
-  - "Romains 8:23,9"
+  - "Romains 8:23"
   - "Éphésiens 1:5"
   - "Galates 4:5"
   - "Romains 8:17"

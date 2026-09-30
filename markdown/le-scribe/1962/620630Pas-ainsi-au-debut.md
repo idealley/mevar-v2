@@ -49,6 +49,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620630Pas-ainsi-au-debut.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 19:8"
   - "Jean 14:10"
   - "Jean 15:5"
   - "Matthieu 11:6"

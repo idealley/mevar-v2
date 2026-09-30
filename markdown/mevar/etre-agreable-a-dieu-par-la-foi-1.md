@@ -24,6 +24,7 @@ bible_refs:
   - "Hébreux 11:5-6"
   - "Hébreux 11"
   - "Hébreux 11:6"
+  - "Matthieu 7:7-8"
 ---
 ### Première partie
 

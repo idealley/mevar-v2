@@ -29,6 +29,7 @@ bible_refs:
   - "Actes 2:38"
   - "Jacques 5:16"
   - "Luc 15"
+  - "Hébreux 3:13"
   - "1 Timothée 4"
   - "Matthieu 13:22"
   - "Jérémie 3:22"

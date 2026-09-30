@@ -42,6 +42,7 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 27:11-26"
   - "Apocalypse 3:17"
+  - "Hébreux 13:8"
   - "Jean 14:12"
   - "Apocalypse 17:1,5"
   - "2 Timothée 3:5"
@@ -50,7 +51,9 @@ bible_refs:
   - "Jean 5:39"
   - "Jean 5:36"
   - "Ésaïe 7:14"
+  - "Matthieu 1:23"
   - "Ésaïe 29:18"
+  - "Matthieu 11:5"
   - "Deutéronome 18:15-19"
   - "Malachie 4:5-6"
   - "Genèse 15:13-14"
@@ -58,7 +61,10 @@ bible_refs:
   - "Ésaïe 55:11"
   - "Jean 1:1,14"
   - "Actes 2:38-39"
+  - "Matthieu 28:19"
   - "Marc 16:17"
+  - "Matthieu 16:3"
+  - "Hébreux 10:26"
   - "Nombres 13:33"
 original: "branham/1964/64-0126"
 ---

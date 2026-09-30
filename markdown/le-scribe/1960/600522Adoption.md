@@ -49,6 +49,7 @@ bible_refs:
   - "1 Pierre 2:9,5"
   - "Hébreux 13:15"
   - "Job 1:21"
+  - "Matthieu 26:26"
   - "1 Corinthiens 2:9"
   - "Jean 10:34"
   - "Genèse 2"

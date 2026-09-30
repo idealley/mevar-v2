@@ -20,6 +20,7 @@ ghost_id: "6448fa86db90770001518ed1"
 uuid: "29f9f06e-685a-49af-926f-792b9f88ef1a"
 stream_url: "https://mevar.org/aux-jours-du-saint-esprit/"
 bible_refs:
+  - "1 Corinthiens 10:4"
   - "Luc 18"
   - "Matthieu 25:6"
   - "Jean 7:37"
@@ -27,6 +28,7 @@ bible_refs:
   - "Luc 9:58"
   - "Actes 19:1-5"
   - "Actes 19"
+  - "1 Thessaloniciens 5:19"
 ---
 SHALOM ! Ce mot je l’ai encore mieux apprécié ici au Congo. Généralement à Abidjan on est habitué à dire : « frère, que Dieu te bénisse ! ». Ici, j’entends beaucoup SHALOM ! Amen ! \[L’Assemblée répond : amen ! Rédaction\]. C’est un vrai mot. C’est un mot qui vient de Dieu. Que Le Nom du Seigneur soit béni !
 

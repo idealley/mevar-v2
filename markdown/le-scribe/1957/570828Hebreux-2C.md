@@ -37,9 +37,11 @@ pdf_url: "http://le-scribe.org/pdfiles/570828Hebreux-2C.pdf"
 llm_cleaned: true
 bible_refs:
   - "Hébreux 2"
+  - "Matthieu 5:12"
   - "Actes 5:41"
   - "Hébreux 13:8"
   - "Hébreux 2:1-3"
+  - "Matthieu 17:27"
   - "Hébreux 7:3"
   - "Jean 6:31,33,49,50"
   - "Hébreux 2:15-16"

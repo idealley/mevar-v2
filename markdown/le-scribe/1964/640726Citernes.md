@@ -47,6 +47,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640726Citernes.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 24:36"
   - "Jérémie 2:12-13"
   - "Apocalypse 13"
   - "Jérémie 2:13"
@@ -58,6 +59,7 @@ bible_refs:
   - "Genèse 21:19"
   - "Zacharie 13:1"
   - "Psaumes 36:10"
+  - "Hébreux 13:8"
 original: "branham/1964/64-0726E"
 ---
 **Résumé de!: “Des citernes crevassées” (26 juillet 1964 soir)**

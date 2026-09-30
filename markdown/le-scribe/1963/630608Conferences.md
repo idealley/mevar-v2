@@ -45,7 +45,9 @@ bible_refs:
   - "Luc 22:42"
   - "Actes 19"
   - "Actes 2:38"
+  - "Matthieu 4:4"
   - "Actes 4:23-31"
+  - "Matthieu 16:17-18"
 original: "branham/1963/63-0608"
 ---
 *Conférences*

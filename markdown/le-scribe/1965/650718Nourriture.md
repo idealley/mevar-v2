@@ -74,6 +74,7 @@ bible_refs:
   - "Joël 2:28"
   - "Zacharie 14:7"
   - "1 Rois 19:6-8"
+  - "Matthieu 15:26"
   - "2 Timothée 4:5"
   - "1 Rois 18:20-40"
   - "1 Rois 18:36"

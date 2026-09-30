@@ -40,6 +40,7 @@ bible_refs:
   - "Jean 7:2-5"
   - "Ésaïe 40:3"
   - "1 Corinthiens 1:21"
+  - "Matthieu 10:11-15"
   - "Apocalypse 4:1"
   - "Apocalypse 19:7"
   - "Apocalypse 19:7-9"
@@ -47,12 +48,15 @@ bible_refs:
   - "Jean 10:7"
   - "1 Corinthiens 12:13"
   - "Apocalypse 1:10"
+  - "Matthieu 22:11-14"
   - "Apocalypse 4:2"
   - "2 Corinthiens 12:2"
   - "Matthieu 16"
+  - "Matthieu 17:2"
   - "Jean 21:22"
   - "Actes 2:38"
   - "Apocalypse 4:3"
+  - "Matthieu 17:5"
 original: "branham/1960/60-1231"
 ---
 Résumé de!: “Apocalypse, chapitre quatre – première partie” (31 décembre 1960, soir)

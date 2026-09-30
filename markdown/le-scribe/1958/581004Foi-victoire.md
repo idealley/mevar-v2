@@ -42,6 +42,7 @@ pdf_url: "http://le-scribe.org/pdfiles/581004Foi-victoire.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Jean 5:4"
+  - "Matthieu 7:13-14"
   - "Hébreux 11:10"
   - "Luc 8:50"
   - "Hébreux 11:6"

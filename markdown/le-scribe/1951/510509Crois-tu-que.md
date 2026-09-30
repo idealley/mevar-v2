@@ -53,11 +53,12 @@ bible_refs:
   - "Matthieu 9:27"
   - "Jean 4:14"
   - "Jean 14:12"
-  - "Jean 5:19,14"
   - "Jean 5:19"
   - "Jean 1:48"
+  - "Matthieu 17:27"
   - "Jean 5:36"
   - "Actes 19:13-16"
+  - "Matthieu 8:28-34"
   - "Daniel 7:15"
 original: "branham/1951/51-0509"
 ---

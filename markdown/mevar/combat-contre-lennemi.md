@@ -19,6 +19,8 @@ authors:
 ghost_id: "6448fa86db90770001518fd9"
 uuid: "e9aa0114-0b81-40f6-9c8a-5e8836860adb"
 stream_url: "https://mevar.org/combat-contre-lennemi/"
+bible_refs:
+  - "Matthieu 24:14"
 ---
 Amen ! Nous combattons le Diable. Le Diable est notre ennemi. C’est notre ennemi juré. Un chrétien doit avoir un ennemi. On n’a pas deux, trois ennemis. Un chrétien a un seul ennemi : c’est le Diable. Amen ! Et frères, quand tu deviens chrétien, tu dois avoir cet ennemi. **Tu dois l’avoir comme ton ennemi. Tu dois réaliser que c’est ton ennemi. C’est ton ennemi, ton ennemi juré.** Amen ! Il n’y en a pas d’autre. On ne voit pas dans la chair.
 

@@ -22,6 +22,7 @@ bible_refs:
   - "Luc 18"
   - "Luc 18:8"
   - "Jérémie 1:2"
+  - "Ézéchiel 1:3"
   - "Osée 1:1"
   - "Joël 1:1-2"
   - "Romains 10"

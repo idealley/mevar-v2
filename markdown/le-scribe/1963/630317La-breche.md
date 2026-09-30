@@ -75,6 +75,7 @@ bible_refs:
   - "Apocalypse 5:8"
   - "Jean 11:25-26"
   - "Jean 6:54"
+  - "1 Thessaloniciens 4:17"
   - "Matthieu 25:6"
   - "1 Corinthiens 6:2"
   - "Daniel 7:9"

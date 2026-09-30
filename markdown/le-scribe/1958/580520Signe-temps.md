@@ -40,6 +40,7 @@ pdf_url: "http://le-scribe.org/pdfiles/580520Signe-temps.pdf"
 llm_cleaned: true
 bible_refs:
   - "Daniel 5:25"
+  - "Matthieu 4:8-9"
   - "Luc 4:5-9"
   - "Proverbes 30:8"
   - "Apocalypse 3:17"

@@ -26,6 +26,7 @@ bible_refs:
   - "Luc 11:29-30"
   - "Jean 2:19"
   - "Ésaïe 46:10"
+  - "2 Pierre 3:11-13"
   - "1 Timothée 3:16"
   - "Jean 4:2"
   - "Marc 1:10,11"

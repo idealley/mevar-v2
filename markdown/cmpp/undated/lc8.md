@@ -37,6 +37,7 @@ bible_refs:
   - "Hébreux 13"
   - "Apocalypse 3"
   - "Jean 14"
+  - "Matthieu 24"
   - "2 Corinthiens 5"
   - "2 Corinthiens 7"
   - "1 Jean 3"

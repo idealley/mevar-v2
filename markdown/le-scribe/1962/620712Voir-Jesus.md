@@ -58,6 +58,8 @@ bible_refs:
   - "Hébreux 4:12-13"
   - "Jean 5:39"
   - "Jean 10:37-38"
+  - "Matthieu 16:3"
+  - "Matthieu 11:25"
   - "Ésaïe 9:6"
   - "Ésaïe 7:14"
   - "Hébreux 11:26"

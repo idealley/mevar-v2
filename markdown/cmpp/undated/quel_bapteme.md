@@ -31,13 +31,16 @@ llm_cleaned: true
 bible_refs:
   - "Actes 19"
   - "Ésaïe 40"
+  - "Matthieu 3"
   - "Matthieu 28"
   - "Actes 2"
+  - "Matthieu 4"
   - "Jean 17"
   - "Jean 14"
   - "Colossiens 3"
   - "Jean 4"
   - "Marc 12"
+  - "Matthieu 16"
   - "Hébreux 10"
   - "Luc 1"
   - "1 Jean 4"
@@ -45,6 +48,7 @@ bible_refs:
   - "1 Jean 5"
   - "Actes 17"
   - "Malachie 4"
+  - "Matthieu 24"
 ---
 DE QUEL BAPTEME AVEZ-VOUS DONC ETE BAPTISE?
 (Actes 19.3)

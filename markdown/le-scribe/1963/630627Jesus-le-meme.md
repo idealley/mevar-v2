@@ -57,8 +57,9 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630627Jesus-le-meme.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 18:20"
   - "Jean 12:20-21"
-  - "Jean 10:18,16"
+  - "Jean 10:18"
   - "Romains 8:17"
   - "2 Corinthiens 5:19"
   - "Hébreux 4:12"
@@ -69,6 +70,7 @@ bible_refs:
   - "Deutéronome 13:1-6"
   - "Amos 3:7"
   - "Jean 1:49"
+  - "Matthieu 12:31"
   - "1 Corinthiens 10:4"
   - "Jean 8:58"
   - "Jean 5:19"
@@ -82,6 +84,7 @@ bible_refs:
   - "Marc 5:25-34"
   - "Hébreux 4:15"
   - "Marc 5:23"
+  - "Matthieu 8:8"
   - "1 Corinthiens 14:24"
 original: "branham/1963/63-0627"
 ---

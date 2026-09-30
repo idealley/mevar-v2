@@ -41,6 +41,7 @@ pdf_url: "http://le-scribe.org/pdfiles/620621Chemin-vie.pdf"
 llm_cleaned: true
 bible_refs:
   - "2 Rois 2:12"
+  - "Matthieu 12:26"
   - "Zacharie 14:7"
   - "Psaumes 16"
   - "Hébreux 11:26"

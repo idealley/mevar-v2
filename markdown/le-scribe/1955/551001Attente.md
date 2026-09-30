@@ -42,6 +42,7 @@ bible_refs:
   - "Matthieu 4:4"
   - "Nombres 24:17"
   - "Jean 5:19"
+  - "Matthieu 16:17-18"
 original: "branham/1955/55-1001"
 ---
 Résumé de : “Dans l'attente ” (1er octobre 1955, soir)

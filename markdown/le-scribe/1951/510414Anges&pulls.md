@@ -44,12 +44,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510414Anges&pulls.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 13:24-30"
   - "Hébreux 6:4-6"
+  - "Matthieu 12:32"
   - "1 Jean 4:2-3"
   - "Actes 12:7"
   - "Jean 14:12"
   - "Jean 5:19"
   - "1 Samuel 9"
+  - "Matthieu 24:24"
+  - "Matthieu 7:22-23"
   - "2 Timothée 3:12"
   - "Deutéronome 18:21-22"
   - "Jean 2:48"

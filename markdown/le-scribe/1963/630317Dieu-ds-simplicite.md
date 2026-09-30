@@ -53,6 +53,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630317Dieu-ds-simplicite.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 21:13"
   - "Exode 20:4"
   - "Exode 25:18"
   - "1 Chroniques 17:1"
@@ -81,7 +82,12 @@ bible_refs:
   - "Matthieu 11:10"
   - "Ésaïe 40:4"
   - "Psaumes 114:4"
+  - "Matthieu 3:9"
+  - "Matthieu 3:7"
+  - "Matthieu 11:9"
   - "Malachie 3"
+  - "Matthieu 3:12"
+  - "Matthieu 17:10-12"
   - "Apocalypse 20:5"
   - "Luc 17:34-35"
   - "Jean 3:16"

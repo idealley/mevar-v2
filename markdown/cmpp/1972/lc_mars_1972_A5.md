@@ -40,6 +40,7 @@ bible_refs:
   - "Marc 1"
   - "Actes 13"
   - "1 Corinthiens 3"
+  - "1 Pierre 1"
   - "Zacharie 4"
   - "1 Timothée 3"
   - "Josué 1"

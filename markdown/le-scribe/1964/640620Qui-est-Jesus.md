@@ -47,8 +47,10 @@ bible_refs:
   - "Éphésiens 3:15"
   - "Philippiens 2:10"
   - "Genèse 15:13"
+  - "Matthieu 7:7"
   - "Jacques 4:2"
   - "Jean 16:24"
+  - "Matthieu 24:28"
 original: "branham/1964/64-0620B"
 ---
 **Résumé de : “Qui est Jésus?” (20 juin 1964, matin)**

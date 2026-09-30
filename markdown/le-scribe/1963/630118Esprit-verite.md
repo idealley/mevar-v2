@@ -55,10 +55,12 @@ bible_refs:
   - "Jean 1:12"
   - "Jean 5:39"
   - "Jean 10:37-38"
+  - "Matthieu 9:24"
   - "Hébreux 4:12"
   - "2 Rois 5:14"
   - "Luc 17:28"
   - "Genèse 18:13"
+  - "Matthieu 9:21"
   - "Hébreux 4:15"
 original: "branham/1963/63-0118"
 ---

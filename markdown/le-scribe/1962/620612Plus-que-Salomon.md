@@ -57,6 +57,7 @@ bible_refs:
   - "Nombres 27:21"
   - "Deutéronome 33:8,1"
   - "Esdras 2:63"
+  - "Matthieu 11:23"
   - "Psaumes 37:31"
   - "1 Rois 8:48"
   - "Jonas 2:5"
@@ -67,6 +68,7 @@ bible_refs:
   - "1 Rois 4:29-34"
   - "1 Rois 10:6-9"
   - "2 Rois 5:17"
+  - "Matthieu 12:42"
   - "Ésaïe 49:15-16"
 original: "branham/1962/62-0612"
 ---

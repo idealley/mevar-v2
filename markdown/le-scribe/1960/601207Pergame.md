@@ -46,6 +46,7 @@ bible_refs:
   - "Juges 7:5-6"
   - "Apocalypse 2:12"
   - "Luc 12:32"
+  - "Matthieu 25:40"
   - "Jean 16:2"
   - "Apocalypse 1:16"
   - "Apocalypse 19:11-16"

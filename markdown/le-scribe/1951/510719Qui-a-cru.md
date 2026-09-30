@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 5:1"
   - "2 Corinthiens 5:19"
   - "Jean 14:10"
+  - "Matthieu 12:39"
   - "Ésaïe 53:1"
 original: "branham/1951/51-0719"
 ---

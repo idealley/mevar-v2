@@ -50,6 +50,7 @@ bible_refs:
   - "Hébreux 4"
   - "Marc 11:23"
   - "Genèse 22:13"
+  - "Matthieu 8:29"
   - "Actes 16:17"
   - "Jean 10:35"
   - "Exode 20:19"

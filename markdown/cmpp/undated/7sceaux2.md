@@ -55,6 +55,7 @@ bible_refs:
   - "Genèse 49"
   - "Zacharie 3"
   - "Zacharie 4"
+  - "Matthieu 23"
 ---
 BROCHURE N° 2
 

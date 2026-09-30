@@ -47,7 +47,8 @@ pdf_url: "http://le-scribe.org/pdfiles/640318Voir-Jesus.pdf"
 llm_cleaned: true
 bible_refs:
   - "Jean 12:12-22"
-  - "Jean 16:16,14"
+  - "Jean 16:16"
+  - "Matthieu 28:20"
   - "Hébreux 13:8"
   - "Malachie 3:1"
   - "Amos 3:7"

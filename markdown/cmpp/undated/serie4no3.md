@@ -40,6 +40,7 @@ pdf_url: "http://cmpp.ch/serie4no3.pdf"
 llm_cleaned: true
 bible_refs:
   - "Ésaïe 34"
+  - "Matthieu 6"
 ---
 SÉRIE 4, N° 3
 

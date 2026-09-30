@@ -45,7 +45,7 @@ bible_refs:
   - "Jean 14:10"
   - "Jean 5:19"
   - "2 Corinthiens 5:19"
-  - "Jean 5:39,10"
+  - "Jean 5:39"
   - "Jean 8:57"
   - "Zacharie 14:7"
   - "2 Rois 7"

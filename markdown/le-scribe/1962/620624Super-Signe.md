@@ -43,6 +43,7 @@ bible_refs:
   - "Apocalypse 17"
   - "Genèse 22:17"
   - "Juges 3:31"
+  - "Matthieu 12:47-50"
   - "Malachie 4"
   - "Malachie 3"
   - "Malachie 3:1"
@@ -51,6 +52,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Jean 5:19"
   - "Luc 8:41"
+  - "Matthieu 8:8"
 original: "branham/1962/62-0624"
 ---
 **Résumé de!: “Le Super Signe” (24 juin 1962, après-midi)**

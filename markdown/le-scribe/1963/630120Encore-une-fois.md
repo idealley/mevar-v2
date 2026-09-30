@@ -46,8 +46,9 @@ llm_cleaned: true
 bible_refs:
   - "Juges 16:27"
   - "Juges 15:15"
-  - "Juges 15:13-14,16"
+  - "Juges 15:13-14"
   - "Juges 14:5-6"
+  - "Matthieu 6:21"
   - "1 Samuel 17:34-35"
   - "1 Samuel 17:39"
   - "2 Timothée 3:5"
@@ -61,6 +62,7 @@ bible_refs:
   - "Apocalypse 3:17"
   - "Jean 12:24"
   - "Jean 14:19"
+  - "Matthieu 28:20"
   - "Hébreux 4:15"
 original: "branham/1963/63-0120E"
 ---

@@ -50,6 +50,7 @@ bible_refs:
   - "Jean 6:63"
   - "Marc 7:9"
   - "Hébreux 6:4-6"
+  - "Matthieu 23:27"
   - "Josué 7:1"
   - "Josué 7:21"
   - "Exode 12:23"
@@ -57,6 +58,7 @@ bible_refs:
   - "Jean 14:12"
   - "Ésaïe 28:10"
   - "Daniel 5:3"
+  - "Matthieu 18:6"
   - "Malachie 4"
 original: "branham/1962/62-0408"
 ---

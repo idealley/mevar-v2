@@ -45,6 +45,7 @@ bible_refs:
   - "1 Jean 3:9"
   - "Apocalypse 3:20"
   - "Malachie 3:13-18"
+  - "Matthieu 27:37"
   - "Jean 18:33-37"
   - "2 Rois 17:1-6"
   - "Michée 5:1-2"
@@ -53,6 +54,7 @@ bible_refs:
   - "Jean 12:31"
   - "Apocalypse 17:14"
   - "Apocalypse 18:2-3"
+  - "Matthieu 25"
   - "Apocalypse 17"
   - "Romains 16:20"
 ---

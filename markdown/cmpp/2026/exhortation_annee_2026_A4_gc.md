@@ -48,6 +48,7 @@ bible_refs:
   - "Luc 16"
   - "Jacques 1"
   - "Job 42"
+  - "Matthieu 25"
   - "Éphésiens 2"
   - "Jacques 5"
   - "Luc 18"

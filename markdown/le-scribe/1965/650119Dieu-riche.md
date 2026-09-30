@@ -42,6 +42,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650119Dieu-riche.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 7:4-10"
   - "Jean 17:7"
   - "Actes 2:38-39"
   - "Exode 33:23"
@@ -51,6 +52,7 @@ bible_refs:
   - "Jean 5:2-4"
   - "Jean 3:14-15"
   - "Ésaïe 53:5"
+  - "Hébreux 13:8"
   - "Luc 8:43-48"
   - "Matthieu 21:21"
   - "Luc 17:28,30"

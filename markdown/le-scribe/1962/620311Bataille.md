@@ -67,6 +67,7 @@ bible_refs:
   - "Hébreux 1:14"
   - "1 Rois 18:36"
   - "Hébreux 13:8"
+  - "Matthieu 12:39"
   - "1 Rois 21:19"
   - "Genèse 1:1"
   - "Jean 4:4"

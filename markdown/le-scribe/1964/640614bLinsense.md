@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 8:48"
   - "Jean 10:35"
   - "Éphésiens 4:11-12"
+  - "Hébreux 4:12-13"
   - "Jacques 5:15"
 original: "branham/1964/64-0614E"
 ---

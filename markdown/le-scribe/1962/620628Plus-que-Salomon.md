@@ -49,6 +49,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620628Plus-que-Salomon.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 14:20"
   - "Matthieu 12:38"
   - "Jean 3:18"
   - "Jean 6:44"

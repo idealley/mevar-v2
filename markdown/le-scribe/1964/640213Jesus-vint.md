@@ -51,10 +51,12 @@ bible_refs:
   - "Marc 9:23"
   - "Job 19:25"
   - "Jean 13:3"
-  - "Jean 14:19-20,16"
+  - "Jean 14:19-20"
   - "Luc 8:42"
   - "Jean 11:40"
   - "Marc 10:47"
+  - "Matthieu 14:22-33"
+  - "Matthieu 14:27"
 original: "branham/1964/64-0213"
 ---
 **Résumé de!: “Alors Jésus vint et appela” (13 février 1964, soir)**

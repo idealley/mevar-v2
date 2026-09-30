@@ -22,6 +22,7 @@ bible_refs:
   - "Galates 5:19-24"
   - "2 Pierre 1:5-11"
   - "1 Corinthiens 12"
+  - "Matthieu 24"
   - "Galates 5:22"
   - "1 Corinthiens 13"
   - "Apocalypse 3"

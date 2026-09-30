@@ -43,6 +43,7 @@ bible_refs:
   - "Actes 5:12-16"
   - "Luc 22:19-20"
   - "1 Corinthiens 11:25-30"
+  - "Matthieu 3:16-18"
   - "Apocalypse 20:11-15"
   - "2 Timothée 2:8-18"
 ---
