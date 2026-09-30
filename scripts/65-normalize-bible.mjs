@@ -200,13 +200,19 @@ function spoken({ book: bookVariant, chapter, ...g }) {
  * canonical form. The site links the same ones (web/src/lib/bible-links.mjs).
  */
 export function* citations(md) {
+  // an inline image's base64 is letters and digits, never a citation
+  // (« …/99U/MAt7p8+… » is not Matthieu 7)
+  const images = [...md.matchAll(/\]\(data:[^)]*\)/g)].map((m) => [m.index, m.index + m[0].length]);
+  const inImage = (i) => images.some(([s, e]) => i >= s && i < e);
   for (const re of SPOKEN) {
     for (const m of md.matchAll(re)) {
+      if (inImage(m.index)) continue;
       const ref = spoken(m.groups);
       if (ref) yield { index: m.index, text: m[0], ref };
     }
   }
   for (const match of md.matchAll(REF_RE)) {
+    if (inImage(match.index)) continue;
     const [, bookVariant, , , verseEnd, extra] = match;
     let [, , chap, verseStart] = match;
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
