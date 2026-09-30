@@ -39,7 +39,8 @@
 // A text with no unexplained change is written to markdown/: the pass's body,
 // its title where only typography changed or where the editor gives one the
 // PDF's opening states, likewise its subtitle, the editor's date and place
-// within the limits below (also in manifests/onedrive.json, which 50 reads),
+// within the limits below, its summary, tags, persons, places and themes
+// (also in manifests/onedrive.json, which 50 reads),
 // and editorial_pass: "<date>". A PDF that prints two works
 // (a second exhortation after the first) is checked as one and written as
 // two: the editor's `split` gives the words the second begins with and its
@@ -188,6 +189,10 @@ function sentence(text, at) {
 }
 
 const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+// The frontmatter lists the editor may give, and how they are written
+const LISTS = ["tags", "persons", "places", "themes"];
+const yamlList = (k, v) => `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}`;
+
 // Words a transcript's header has besides the frontmatter's
 const HEADER_WORDS = "prêché prêchée prédication exhortation spéciale mois fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
 
@@ -199,7 +204,7 @@ for (const md of batch) {
   const rel = md.slice("markdown/".length);
   const original = fs.readFileSync(path.join(root, ".parse-cache", rel), "utf8").normalize("NFC");
   const pass = JSON.parse(fs.readFileSync(path.join(root, ".pass-cache", rel.replace(/\.md$/, ".json")), "utf8"));
-  const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0, verseNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], pass };
+  const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0, verseNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], lists: {}, pass };
   const edits = fixes[md] ?? { title: null, fixes: [] };
   r.fixes = edits.fixes;
   // Applied from the end, so each fix's place in the edited body is known:
@@ -335,10 +340,14 @@ for (const md of batch) {
   r.location = edits.location === "" ? "" : field("location");
   // the summary is the corpus's, not the preacher's: the editor's, listed
   r.summary = edits.summary ?? field("summary");
+  // likewise its tags, persons, places and themes: a split leaves the first
+  // work with the whole PDF's, which the second work's are (« Azusa Street »
+  // on a covering letter)
+  r.lists = Object.fromEntries(LISTS.filter((k) => edits[k]).map((k) => [k, edits[k]]));
   // each is written over its own frontmatter line: without one, the page and
   // the manifest would disagree
-  for (const [k, line] of [["subtitle", /^subtitle: /m], ["date", /^date: .*\nyear: /m], ["summary", /^summary: /m]])
-    if (edits[k] && !line.test(fm)) r.unexplained.push(`the editor gives a ${k}, but the frontmatter has no ${k} line to write it on`);
+  for (const [k, line] of [["subtitle", /^subtitle: /m], ["date", /^date: .*\nyear: /m], ["summary", /^summary: /m], ...LISTS.map((l) => [l, new RegExp(`^${l}:\\n  - `, "m")])])
+    if (edits[k] && !(Array.isArray(edits[k]) && !edits[k].length) && !line.test(fm)) r.unexplained.push(`the editor gives a ${k}, but the frontmatter has no ${k} line to write it on`);
 
   const ow = words(compared);
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
@@ -476,6 +485,8 @@ for (const md of batch) {
       .replace(/^date: .*\nyear: .*$/m, (l) => r.date === field("date") ? l : `date: ${JSON.stringify(r.date)}\nyear: ${Number(r.date.slice(0, 4))}`)
       .replace(/^location: .*\n/m, (l) => r.location ? l : "")
       .replace(/^summary: .*$/m, (l) => r.summary === field("summary") ? l : `summary: ${JSON.stringify(r.summary)}`)
+      // an empty list takes its key away
+      .replace(new RegExp(`\\n(${LISTS.join("|")}):(?:\\n  - .*)+`, "g"), (l, k) => !r.lists[k] ? l : r.lists[k].length ? `\n${yamlList(k, r.lists[k])}` : "")
       + (r.split && !/^published_with:/m.test(fm) ? `\npublished_with: ${JSON.stringify(work(r.split))}` : "") + `\neditorial_pass: "${today}"`;
     fs.writeFileSync(path.join(root, here), `---\n${newFm}\n---\n${parts[0]}\n`);
     // 50 takes index.json's titles from the manifest
@@ -483,10 +494,10 @@ for (const md of batch) {
       r.subtitle === oldSubtitle ? {} : { subtitle: r.subtitle },
       r.date === field("date") ? {} : { date: r.date, year: Number(r.date.slice(0, 4)) },
       r.location === field("location") ? {} : { location: null },
-      r.summary === field("summary") ? {} : { summary: r.summary });
+      r.summary === field("summary") ? {} : { summary: r.summary }, r.lists);
     if (r.split) {
       const f = { source: "onedrive", ...(r.split !== splitFrom && { source_path: splitFrom.slice("markdown/".length) }), ...edits.split.frontmatter, published_with: work(here) };
-      const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}` : `${k}: ${JSON.stringify(v)}`);
+      const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? yamlList(k, v) : `${k}: ${JSON.stringify(v)}`);
       fs.writeFileSync(path.join(root, r.split), `---\n${yaml.join("\n")}\neditorial_pass: "${today}"\n---\n${parts[1]}\n`);
       // replaced, not added, when the original is promoted again (reset to
       // main's text so a new fix applies)
@@ -528,9 +539,14 @@ L.push("", "## Headers removed (the frontmatter holds title, date, place)", "");
 for (const r of rows) for (const h of r.removed) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
 L.push("", "## Sentences the pass left as they are (unclear)", "");
 for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}${r.unclearFixed.has(u) ? " (since fixed by the editor)" : ""}`);
-if (rows.some((r) => fixes[r.md]?.summary)) {
+if (rows.some((r) => fixes[r.md]?.summary || fixes[r.md]?.split?.frontmatter.summary)) {
   L.push("", "## Summaries the editor wrote (the corpus's, not the preacher's words)", "");
   for (const r of rows) if (fixes[r.md]?.summary) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(r.summary)}`);
+  for (const r of rows) if (fixes[r.md]?.split?.frontmatter.summary) L.push(`- \`${fixes[r.md].split.frontmatter.sermon_id}\` (split): ${cell(fixes[r.md].split.frontmatter.summary)}`);
+}
+if (rows.some((r) => Object.keys(r.lists).length)) {
+  L.push("", "## Tags, persons, places and themes the editor gave (a split's first work)", "");
+  for (const r of rows) for (const [k, v] of Object.entries(r.lists)) L.push(`- \`${path.basename(r.md, ".md")}\`, ${k}: ${v.map(cell).join(", ") || "none"}`);
 }
 if (rows.some((r) => r.headings.length)) {
   L.push("", "## Section headings (goal 18: a line that stood alone, same words)", "");
