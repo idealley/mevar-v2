@@ -185963,8 +185963,7 @@
       "Exhortations",
       "2014",
       "Infaillibilité",
-      "Idolâtrie",
-      "Serviteur fidèle et prudent"
+      "Idolâtrie"
     ],
     "authors": null,
     "type": null,
@@ -185973,38 +185972,20 @@
     "persons": [
       "William Branham",
       "Frank",
-      "Paul",
-      "Pierre",
-      "Nathan",
-      "David",
-      "Salomon",
-      "William J. Seymour",
-      "Frank Bartlemen",
-      "John Wesley",
-      "Guido Kwiyas"
+      "Jean"
     ],
-    "places": [
-      "Los Angeles",
-      "Azusa Street",
-      "Houston",
-      "Pasadena",
-      "Jeffersonville"
-    ],
+    "places": [],
     "themes": [
       "Infaillibilité des serviteurs de Dieu",
-      "Idolâtrie et fanatisme",
-      "Rôle du serviteur fidèle et prudent",
-      "Réveil d'Azusa Street",
-      "Autorité de la Bible",
-      "Complémentarité des ministères"
+      "Idolâtrie et fanatisme"
     ],
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent-introduction.md",
-    "size_bytes": 8078,
-    "line_count": 72
+    "size_bytes": 7671,
+    "line_count": 53
   },
   {
     "source": "onedrive",
@@ -186023,6 +186004,7 @@
     "aliases": null,
     "tags": [
       "Exhortations",
+      "2014",
       "Infaillibilité",
       "Idolâtrie",
       "Serviteur fidèle et prudent"
@@ -186064,8 +186046,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent.md",
-    "size_bytes": 77813,
-    "line_count": 373
+    "size_bytes": 77824,
+    "line_count": 374
   },
   {
     "source": "onedrive",

@@ -16661,36 +16661,17 @@
       "Exhortations",
       "2014",
       "Infaillibilité",
-      "Idolâtrie",
-      "Serviteur fidèle et prudent"
+      "Idolâtrie"
     ],
     "persons": [
       "William Branham",
       "Frank",
-      "Paul",
-      "Pierre",
-      "Nathan",
-      "David",
-      "Salomon",
-      "William J. Seymour",
-      "Frank Bartlemen",
-      "John Wesley",
-      "Guido Kwiyas"
+      "Jean"
     ],
-    "places": [
-      "Los Angeles",
-      "Azusa Street",
-      "Houston",
-      "Pasadena",
-      "Jeffersonville"
-    ],
+    "places": [],
     "themes": [
       "Infaillibilité des serviteurs de Dieu",
-      "Idolâtrie et fanatisme",
-      "Rôle du serviteur fidèle et prudent",
-      "Réveil d'Azusa Street",
-      "Autorité de la Bible",
-      "Complémentarité des ministères"
+      "Idolâtrie et fanatisme"
     ],
     "llm_cleaned": true
   },
@@ -19885,12 +19866,14 @@
   },
   {
     "source": "onedrive",
+    "source_path": "onedrive/pdf/infaillibilite-l-infaillibilite-du-serviteur-fidele-et-prudent.md",
     "sermon_id": "infaillibilite-l-infaillibilite-du-serviteur-fidele-et-prudent",
     "title": "L’infaillibilité du serviteur fidèle et prudent",
     "subtitle": "Exposé d’un frère en Christ Jésus, présenté par le frère M’bra",
     "summary": "L'auteur, un frère resté anonyme, met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule.",
     "tags": [
       "Exhortations",
+      "2014",
       "Infaillibilité",
       "Idolâtrie",
       "Serviteur fidèle et prudent"

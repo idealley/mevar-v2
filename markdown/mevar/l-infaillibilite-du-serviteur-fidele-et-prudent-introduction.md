@@ -10,32 +10,13 @@ tags:
   - "2014"
   - "Infaillibilité"
   - "Idolâtrie"
-  - "Serviteur fidèle et prudent"
 persons:
   - "William Branham"
   - "Frank"
-  - "Paul"
-  - "Pierre"
-  - "Nathan"
-  - "David"
-  - "Salomon"
-  - "William J. Seymour"
-  - "Frank Bartlemen"
-  - "John Wesley"
-  - "Guido Kwiyas"
-places:
-  - "Los Angeles"
-  - "Azusa Street"
-  - "Houston"
-  - "Pasadena"
-  - "Jeffersonville"
+  - "Jean"
 themes:
   - "Infaillibilité des serviteurs de Dieu"
   - "Idolâtrie et fanatisme"
-  - "Rôle du serviteur fidèle et prudent"
-  - "Réveil d'Azusa Street"
-  - "Autorité de la Bible"
-  - "Complémentarité des ministères"
 llm_cleaned: true
 bible_refs:
   - "1 Jean 5:20-21"
