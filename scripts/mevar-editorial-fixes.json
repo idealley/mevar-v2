@@ -5818,5 +5818,1656 @@
         "why": "transcriber dropped « y » of « il ne peut y avoir »"
       }
     ]
+  },
+  "markdown/onedrive/pdf/la_benediction_de_Dieu.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "ton ministère est béni, cela n’avait rien à voir",
+        "replace": "ton ministère est béni, cela n’avait rien à voir",
+        "kind": "word",
+        "why": "approve: the PDF's « rien avoir » is a homophone slip for « rien à voir »"
+      },
+      {
+        "find": "Clinique internationale ultramoderne située dans",
+        "replace": "Clinique internationale ultramoderne située dans",
+        "kind": "word",
+        "why": "approve: « ultra moderne » is one word; « située » agrees with « Clinique »"
+      },
+      {
+        "find": "Ça n’a rien à voir avec les sacs de riz",
+        "replace": "Ça n’a rien à voir avec les sacs de riz",
+        "kind": "word",
+        "why": "approve: the PDF's « rien avoir » is a homophone slip for « rien à voir »"
+      },
+      {
+        "find": "Ils disent cela pour encourager les gens. Amen ! **« C’est la bénédiction de l’Éternel qui enrichit, Et il ne la fait suivre d’aucun chagrin »**. Cela est le texte de base.",
+        "replace": "Ils disent cela pour encourager les gens. Amen !\n\n> **C’est la bénédiction de l’Éternel qui enrichit, Et il ne la fait suivre d’aucun chagrin**.\n\nCela est le texte de base.",
+        "kind": "markup",
+        "why": "the base text he reads (Proverbes 10, verse 22, announced just before) is a reading: its own quote paragraph, bold kept"
+      },
+      {
+        "find": "C’est la Vision prophétique.",
+        "replace": "C’est la vision prophétique.",
+        "kind": "revert",
+        "why": "the PDF has « vision » in lower case; not one of the agreed capitals"
+      },
+      {
+        "find": "toi, tu l’acquières simplement",
+        "replace": "toi, tu l’acquiers simplement",
+        "kind": "typo",
+        "why": "misspelt conjugation of « acquérir », same sound"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/la_guerre_des_dieux.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "vous êtes tous des fils du Très Haut**",
+        "replace": "vous êtes tous des fils du Très-Haut**",
+        "kind": "typo",
+        "why": "Très-Haut is hyphenated"
+      },
+      {
+        "find": "**Vous êtes des fils du Très Haut, mais",
+        "replace": "**Vous êtes des fils du Très-Haut, mais",
+        "kind": "typo",
+        "why": "Très-Haut is hyphenated"
+      },
+      {
+        "find": "Elle prie encore la Parole, et dit",
+        "replace": "Elle prit encore la parole, et dit",
+        "kind": "typo",
+        "why": "homophone slip in the reading: she took up speech (prit la parole), not the Word"
+      },
+      {
+        "find": "Vous vous souvenez qu’Il a avait jugé",
+        "replace": "Vous vous souvenez qu’Il avait jugé",
+        "kind": "word",
+        "why": "transcriber's doubled auxiliary, like « il n’y a avait »"
+      },
+      {
+        "find": "seront menacés ; Ils sont déjà menacés",
+        "replace": "seront menacés ; ils sont déjà menacés",
+        "kind": "typo",
+        "why": "no capital after a semicolon"
+      },
+      {
+        "find": "défier les indiens chez eux",
+        "replace": "défier les Indiens chez eux",
+        "kind": "typo",
+        "why": "people of India takes a capital"
+      },
+      {
+        "find": "ce sont les arabes qui sont là-bas",
+        "replace": "ce sont les Arabes qui sont là-bas",
+        "kind": "typo",
+        "why": "people name takes a capital"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/la_mesure_de_la_communion.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "qu’est-ce qu’il y a là-dedans",
+        "replace": "qu’est-ce qu’il y a là-dedans",
+        "kind": "word",
+        "why": "approve the pass: « qu’est qu’il y a » is a slip for « qu’est-ce qu’il y a »"
+      },
+      {
+        "find": "Et je pense que ça été bien déposé.",
+        "replace": "Et je pense que ça a été bien déposé.",
+        "kind": "word",
+        "why": "« ça été » is a slip for « ça a été »"
+      },
+      {
+        "find": "Amen ! Ça coulé beaucoup",
+        "replace": "Amen ! Ça a coulé beaucoup",
+        "kind": "word",
+        "why": "« ça coulé » is a slip for « ça a coulé »"
+      },
+      {
+        "find": "Et ça coulé jusqu’à ce qu’il",
+        "replace": "Et ça a coulé jusqu’à ce qu’il",
+        "kind": "word",
+        "why": "« ça coulé » is a slip for « ça a coulé »"
+      },
+      {
+        "find": "Ça commencé à travailler dans mon cœur",
+        "replace": "Ça a commencé à travailler dans mon cœur",
+        "kind": "word",
+        "why": "« ça commencé » is a slip for « ça a commencé »"
+      },
+      {
+        "find": "Ça été à la mesure de la préparation",
+        "replace": "Ça a été à la mesure de la préparation",
+        "kind": "word",
+        "why": "« ça été » is a slip for « ça a été »"
+      },
+      {
+        "find": "Cherchons Dieu, qu’il nous brise, qu’on soit humble, qu’on soit simple, qu’on comprenne sa grandeur",
+        "replace": "Cherchons Dieu, qu’Il nous brise, qu’on soit humble, qu’on soit simple, qu’on comprenne Sa grandeur",
+        "kind": "typo",
+        "why": "God's pronouns take a capital throughout this text"
+      },
+      {
+        "find": "il y a les faux prophètes, Mais la réalité",
+        "replace": "il y a les faux prophètes, mais la réalité",
+        "kind": "typo",
+        "why": "stray capital after a comma"
+      },
+      {
+        "find": "Il est Le rémunérateur de ceux",
+        "replace": "Il est le rémunérateur de ceux",
+        "kind": "typo",
+        "why": "article, stray capital"
+      },
+      {
+        "find": "ils trouvent que c’est fatiguant.",
+        "replace": "ils trouvent que c’est fatigant.",
+        "kind": "typo",
+        "why": "adjective spelling (fatigant)"
+      },
+      {
+        "find": "comme Jésus à Getsémané",
+        "replace": "comme Jésus à Gethsémané",
+        "kind": "typo",
+        "why": "spelling of Gethsémané"
+      },
+      {
+        "find": "Le ciel a dit : Que chacun vienne avec son récipient.",
+        "replace": "Le ciel a dit : « Que chacun vienne avec son récipient. »",
+        "kind": "markup",
+        "why": "short citation inside his sentence goes in « »"
+      },
+      {
+        "find": "Ils ont bien dit : Que chacun vienne avec son récipient.",
+        "replace": "Ils ont bien dit : « Que chacun vienne avec son récipient. »",
+        "kind": "markup",
+        "why": "short citation inside his sentence goes in « »"
+      },
+      {
+        "find": "Il a dit : **Père Je sais que quand Je te prie, Tu m’exauces toujours**.",
+        "replace": "Il a dit : « **Père, Je sais que quand Je te prie, Tu m’exauces toujours** ».",
+        "kind": "markup",
+        "why": "Jesus's words cited inline go in « »; comma after the vocative"
+      },
+      {
+        "find": "Dieu a dit : **Que chacun vienne avec son récipient** !",
+        "replace": "Dieu a dit : « **Que chacun vienne avec son récipient** ! »",
+        "kind": "markup",
+        "why": "short citation inside his sentence goes in « »"
+      },
+      {
+        "find": "On lui dit : **prends des récipients**.",
+        "replace": "On lui dit : « **Prends des récipients** ».",
+        "kind": "markup",
+        "why": "quoted words in « », capital at the start"
+      },
+      {
+        "find": "Elle a dit à son fils : **Donne encore**. Il dit : **il n’y en a plus. Maman, il n’y a plus de récipient**.",
+        "replace": "Elle a dit à son fils : « **Donne encore** ». Il dit : « **Il n’y en a plus. Maman, il n’y a plus de récipient** ».",
+        "kind": "markup",
+        "why": "quoted words in « », capital at the start"
+      },
+      {
+        "find": "le prophète lui a dit : **va, vends cela paye tes dettes et tu vas vivre avec tes enfants**.",
+        "replace": "le prophète lui a dit : « **Va, vends cela, paye tes dettes et tu vas vivre avec tes enfants** ».",
+        "kind": "markup",
+        "why": "quoted words in « », capital at the start, comma between the verbs"
+      },
+      {
+        "find": "Chacun va te dire : « **frère moi j’attends",
+        "replace": "Chacun va te dire : « **Frère, moi j’attends",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence; comma after the vocative"
+      },
+      {
+        "find": "On dit : « **oh, Dieu est tellement bon",
+        "replace": "On dit : « **Oh, Dieu est tellement bon",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "Il se renseigne : **Qui est-ce** ?",
+        "replace": "Il se renseigne : « **Qui est-ce** ? »",
+        "kind": "markup",
+        "why": "quoted words in « » like the answers that follow"
+      },
+      {
+        "find": "il va moissonner avec champ d’allégresse",
+        "replace": "il va moissonner avec chant d’allégresse",
+        "kind": "typo",
+        "why": "homophone: « chant d’allégresse » (song of joy)"
+      },
+      {
+        "find": "que Lui Seul voit",
+        "replace": "que Lui seul voit",
+        "kind": "typo",
+        "why": "stray capital on « seul »"
+      },
+      {
+        "find": "On attend que Le Seigneur fasse",
+        "replace": "On attend que le Seigneur fasse",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "Vous savez ce texte-là, Le Seigneur me l’a présenté",
+        "replace": "Vous savez ce texte-là, le Seigneur me l’a présenté",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "C’est comme ça que Le Seigneur m’a inspiré",
+        "replace": "C’est comme ça que le Seigneur m’a inspiré",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "Donc Le Seigneur a commencé à travailler",
+        "replace": "Donc le Seigneur a commencé à travailler",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "Et moi, Le Seigneur m’a montré",
+        "replace": "Et moi, le Seigneur m’a montré",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "et ils sortaient, Le Seigneur est venu",
+        "replace": "et ils sortaient, le Seigneur est venu",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "Maintenant, Le Seigneur tire les conclusions",
+        "replace": "Maintenant, le Seigneur tire les conclusions",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "l’argent avec Le Nom de Dieu",
+        "replace": "l’argent avec le Nom de Dieu",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "On va prier Le Seigneur afin",
+        "replace": "On va prier le Seigneur afin",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "que vraiment Le Seigneur nous aide tous",
+        "replace": "que vraiment le Seigneur nous aide tous",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/la_part_de_la_verite.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "**QUESTIONS RÉPONSES**\n\nIntroduction",
+        "replace": "Introduction",
+        "kind": "markup",
+        "why": "part of the opening header (title, « QUESTIONS REPONSES », author): the whole header goes; its words go to the subtitle"
+      },
+      {
+        "find": "J’ai à faire à des visiteurs courtois",
+        "replace": "J’ai affaire à des visiteurs courtois",
+        "kind": "word",
+        "why": "transcriber's slip « à faire à » for « affaire à », as the pass did later in the text"
+      },
+      {
+        "find": "nous avons affaire à plusieurs Ministères",
+        "replace": "nous avons affaire à plusieurs Ministères",
+        "kind": "word",
+        "why": "approve the pass: « à faire à » is the slip for « affaire à »"
+      },
+      {
+        "find": "Il s’en est rendu compte quand",
+        "replace": "Il s’en est rendu compte quand",
+        "kind": "word",
+        "why": "approve the pass: the stray « n’ » in « s’en n’est rendu compte » is a slip (no negation meant)"
+      },
+      {
+        "find": "c’est que le je le suis.",
+        "replace": "c’est que je le suis.",
+        "kind": "word",
+        "why": "stray doubled « le » before « je »"
+      },
+      {
+        "find": "Où devrait-il sceller",
+        "replace": "Où devrait-il sceller",
+        "kind": "word",
+        "why": "approve the pass: « devrait t-il » has a superfluous euphonic t"
+      },
+      {
+        "find": "**Aujourd’hui, Il est certain que",
+        "replace": "**Aujourd’hui, il est certain que",
+        "kind": "typo",
+        "why": "impersonal « il », not a divine pronoun"
+      },
+      {
+        "find": "et les 7 sept sceaux comme",
+        "replace": "et les 7 sceaux comme",
+        "kind": "word",
+        "why": "the number is doubled (« 7 sept »)"
+      },
+      {
+        "find": "serviteurs de Dieu célibataires peuvent-ils bénir",
+        "replace": "serviteurs de Dieu célibataires peuvent-ils bénir",
+        "kind": "word",
+        "why": "approve the pass: « peuvent t-ils » has a superfluous euphonic t"
+      },
+      {
+        "find": "un jeûne dans 2 chroniques 20,",
+        "replace": "un jeûne dans 2 Chroniques 20,",
+        "kind": "typo",
+        "why": "book name takes a capital"
+      },
+      {
+        "find": "ce sera Dieu** » (v. 10-16).",
+        "replace": "ce sera Dieu** (v. 10-16).",
+        "kind": "typo",
+        "why": "stray closing guillemet: the PDF quote has no opening mark"
+      },
+      {
+        "find": "des harpes et des trompettes ».",
+        "replace": "des harpes et des trompettes.",
+        "kind": "typo",
+        "why": "stray closing guillemet: the PDF quote has no opening mark"
+      },
+      {
+        "find": "à se tenir prêts pour ce jour-là » (Est. 3.13-15).",
+        "replace": "à se tenir prêts pour ce jour-là (Est. 3.13-15).",
+        "kind": "typo",
+        "why": "stray closing guillemet: the PDF quote has no opening mark"
+      },
+      {
+        "find": "et il ne le fit pas » (Jonas 3.1-10).",
+        "replace": "et il ne le fit pas (Jonas 3.1-10).",
+        "kind": "typo",
+        "why": "stray closing guillemet: the PDF quote has no opening mark"
+      },
+      {
+        "find": "ni acceptation de présents. 2 (Chron 19:7)",
+        "replace": "ni acceptation de présents. (2 Chron 19:7)",
+        "kind": "typo",
+        "why": "the book number fell outside the parenthesis"
+      },
+      {
+        "find": "tomber quelquefois, mais il finit",
+        "replace": "tomber quelquefois, mais il finit",
+        "kind": "word",
+        "why": "approve the pass: « quelques fois » is the slip for the adverb « quelquefois » (sometimes)"
+      },
+      {
+        "find": "d’où vient-il qu’un Ministère doit",
+        "replace": "d’où vient-il qu’un Ministère doit",
+        "kind": "word",
+        "why": "approve the pass: « vient t-il » has a superfluous euphonic t"
+      },
+      {
+        "find": "versions de la Bible. Vous êtes un séducteur**.",
+        "replace": "versions de la Bible ? Vous êtes un séducteur**.",
+        "kind": "typo",
+        "why": "the first sentence is a question"
+      },
+      {
+        "find": "n’ait rien compris depuis le commencement.\n\n**J’ai appris qu’un malentendu",
+        "replace": "n’ait rien compris depuis le commencement.\n\nQuestion 28\n\n**J’ai appris qu’un malentendu",
+        "kind": "restore",
+        "why": "the pass dropped the line « Question 28 »"
+      },
+      {
+        "find": "parce qu’ils n’en n’ont même pas besoin",
+        "replace": "parce qu’ils n’en ont même pas besoin",
+        "kind": "word",
+        "why": "doubled « n’ » (like « s’en n’est »): « n’en ont »"
+      }
+    ],
+    "subtitle": "Questions réponses"
+  },
+  "markdown/onedrive/pdf/la_vision_ de_ la_ perfection.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Dans ta vie de tous les jours, quel",
+        "replace": "Dans ta vie de tous les jours, quel",
+        "kind": "word",
+        "why": "approve the pass: « de tous jours » is a transcriber's slip for « de tous les jours », as in the sentence before"
+      },
+      {
+        "find": "C’est la forme que tu as voulu.",
+        "replace": "C’est la forme que tu as voulue.",
+        "kind": "typo",
+        "why": "agreement slip: « la forme que tu as voulue »"
+      },
+      {
+        "find": "« **Petit troupeau** » « Beaucoup d’appelés, mais **Peu d’élus** » Depuis",
+        "replace": "« **Petit troupeau** », « Beaucoup d’appelés, mais **Peu d’élus** ». Depuis",
+        "kind": "typo",
+        "why": "punctuation between the two citations and to end the sentence"
+      },
+      {
+        "find": "dans Sa main pour qu’il te traite",
+        "replace": "dans Sa main pour qu’Il te traite",
+        "kind": "typo",
+        "why": "the Potter, God, takes the capital as everywhere in the sentence (« qu’Il veut »)"
+      },
+      {
+        "find": "C’est à Dieu qu’Il appartient de nous donner",
+        "replace": "C’est à Dieu qu’il appartient de nous donner",
+        "kind": "typo",
+        "why": "impersonal « il appartient », not God"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/la_vision_de_la_fin.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "donc il y a avait beaucoup de choses",
+        "replace": "donc il y avait beaucoup de choses",
+        "kind": "word",
+        "why": "transcriber's slip « il y a avait » (one « a » too many)"
+      },
+      {
+        "find": "tous ceux que Dieu programmé, qui doivent",
+        "replace": "tous ceux que Dieu a programmé, qui doivent",
+        "kind": "word",
+        "why": "the auxiliary « a » was said with « Dieu » but not written"
+      },
+      {
+        "find": "**Ça été d’abord une prédication",
+        "replace": "**Ça a été d’abord une prédication",
+        "kind": "word",
+        "why": "« ça été » → « ça a été », the « a » was said but not written"
+      },
+      {
+        "find": "Il n’y rien d’autre que cela.",
+        "replace": "Il n’y a rien d’autre que cela.",
+        "kind": "word",
+        "why": "« il n’y rien » → « il n’y a rien », the « a » was said but not written"
+      },
+      {
+        "find": "depuis la genèse, jusqu’à Malachie",
+        "replace": "depuis la Genèse, jusqu’à Malachie",
+        "kind": "typo",
+        "why": "book name, capital, as with Malachie"
+      },
+      {
+        "find": "les lois de ce nouveau monde là.",
+        "replace": "les lois de ce nouveau monde-là.",
+        "kind": "typo",
+        "why": "hyphen in the demonstrative « -là »"
+      },
+      {
+        "find": "ne court pas vers ce but là aujourd’hui",
+        "replace": "ne court pas vers ce but-là aujourd’hui",
+        "kind": "typo",
+        "why": "hyphen in the demonstrative « -là »"
+      },
+      {
+        "find": "Jean dit qu’il était du malin : « Car ce qui vous",
+        "replace": "Jean dit qu’il était du malin :\n\n> Car ce qui vous",
+        "kind": "markup",
+        "why": "a reading with its reference: its own paragraph as a quote"
+      },
+      {
+        "find": "étaient justes. » (1 Jean 3 :11-12)",
+        "replace": "étaient justes. (1 Jean 3 :11-12)",
+        "kind": "markup",
+        "why": "closing of the reading now set as a quote"
+      },
+      {
+        "find": "secours d’un homme** : Il est dit : « Or les promesses",
+        "replace": "secours d’un homme** : Il est dit :\n\n> Or les promesses",
+        "kind": "markup",
+        "why": "a reading with its reference: its own paragraph as a quote"
+      },
+      {
+        "find": "à Christ. » (Galates 3:16)",
+        "replace": "à Christ. (Galates 3:16)",
+        "kind": "markup",
+        "why": "closing of the reading now set as a quote"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/la_vision_du_royaume_de_dieu.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "L’amour est patient, elle est pleine de bonté",
+        "replace": "L’amour est patiente, elle est pleine de bonté",
+        "kind": "revert",
+        "why": "the preacher reads the verse with « l’amour » in the feminine throughout (« elle », « envieuse »); the pass changed one word only"
+      },
+      {
+        "find": "quand Il a fait Sa Chose**, C’est ça qu’on doit comprendre",
+        "replace": "quand Il a fait Sa Chose**. C’est ça qu’on doit comprendre",
+        "kind": "typo",
+        "why": "a new sentence starts with the capital: period, not comma"
+      },
+      {
+        "find": "**La création – la chute et le l’avènement du Royaume de Dieu**",
+        "replace": "**La création – la chute et l’avènement du Royaume de Dieu**",
+        "kind": "word",
+        "why": "doubled article « le l’ » is a typing slip"
+      },
+      {
+        "find": "ça corrompu le sein de la femme",
+        "replace": "ça a corrompu le sein de la femme",
+        "kind": "word",
+        "why": "« ça corrompu » is a slip for « ça a corrompu »"
+      },
+      {
+        "find": "le diable a maîtrisé ce corps ; Il l’a maîtrisé",
+        "replace": "le diable a maîtrisé ce corps ; il l’a maîtrisé",
+        "kind": "typo",
+        "why": "the devil, not God: no capital"
+      },
+      {
+        "find": "C’est un royaume, Il faut y faire entrer",
+        "replace": "C’est un royaume, il faut y faire entrer",
+        "kind": "typo",
+        "why": "stray capital after a comma"
+      },
+      {
+        "find": "Satan a des prédicateurs. [2 corinthiens 11:15 Réd.]",
+        "replace": "Satan a des prédicateurs. [2 Corinthiens 11:15 Réd.]",
+        "kind": "typo",
+        "why": "book name takes a capital (editor's note)"
+      },
+      {
+        "find": "à la chaire a commencé à se dévoiler en disant : maintenant, je suis investi du pouvoir du cobra ! Attention à vous !",
+        "replace": "à la chaire a commencé à se dévoiler en disant : « Maintenant, je suis investi du pouvoir du cobra ! Attention à vous ! »",
+        "kind": "markup",
+        "why": "the pastor's words quoted in the sentence go in « »"
+      },
+      {
+        "find": "c’est lui seul. Les autres, Non !",
+        "replace": "c’est lui seul. Les autres, non !",
+        "kind": "typo",
+        "why": "stray capital after a comma"
+      },
+      {
+        "find": "Tu es un homme mort Frère !",
+        "replace": "Tu es un homme mort, frère !",
+        "kind": "typo",
+        "why": "vocative: comma, no capital"
+      },
+      {
+        "find": "il a dit que c’est La PAROLE de Dieu",
+        "replace": "il a dit que c’est la PAROLE de Dieu",
+        "kind": "typo",
+        "why": "article, stray capital (the preacher's capitals on PAROLE kept)"
+      },
+      {
+        "find": "Je n’entends pas. L’assemblée répond NON ! Je vous ai dit",
+        "replace": "Je n’entends pas. [L’assemblée répond NON !] Je vous ai dit",
+        "kind": "markup",
+        "why": "editor's note, bracketed like the other notes around it"
+      },
+      {
+        "find": "Il y en a. quelques-uns, ils sont là",
+        "replace": "Il y en a. Quelques-uns, ils sont là",
+        "kind": "typo",
+        "why": "capital after a period"
+      },
+      {
+        "find": "Il faut être délivré de l’esprit de d’organisation.",
+        "replace": "Il faut être délivré de l’esprit d’organisation.",
+        "kind": "word",
+        "why": "doubled « de d’ » is a typing slip"
+      },
+      {
+        "find": "le frère Branham. Quand Il est venu, il nous a ramenés",
+        "replace": "le frère Branham. Quand il est venu, il nous a ramenés",
+        "kind": "typo",
+        "why": "Branham is meant: no divine capital"
+      },
+      {
+        "find": "Maintenant Le Seigneur Jésus, pour nous",
+        "replace": "Maintenant le Seigneur Jésus, pour nous",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "les non-dits dans les Paroles et les conversations",
+        "replace": "les non-dits dans les paroles et les conversations",
+        "kind": "typo",
+        "why": "people's words, not the Word"
+      },
+      {
+        "find": "il est venu Lui Le Seigneur, Lui Le Roi du Royaume",
+        "replace": "il est venu Lui le Seigneur, Lui le Roi du Royaume",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "Et Le Seigneur a été clair",
+        "replace": "Et le Seigneur a été clair",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "**Les positions dans le Royaume de Dieu**\n\n: **les plus grands et les Premiers**",
+        "replace": "**Les positions dans le Royaume de Dieu** : **les plus grands et les Premiers**",
+        "kind": "markup",
+        "why": "the PDF prints this as one title line; the split left a line starting with « : »"
+      },
+      {
+        "find": "Un esclave n’a pas droit à la Parole, il ne fait",
+        "replace": "Un esclave n’a pas droit à la parole, il ne fait",
+        "kind": "typo",
+        "why": "the right to speak, not the Word (the next sentence has « la parole »)"
+      },
+      {
+        "find": "C’est ce que Le Seigneur dit ici.",
+        "replace": "C’est ce que le Seigneur dit ici.",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "qui combattent pour Le Roi du Royaume",
+        "replace": "qui combattent pour le Roi du Royaume",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "dans chaque âge, Le Seigneur a dit",
+        "replace": "dans chaque âge, le Seigneur a dit",
+        "kind": "typo",
+        "why": "article, stray capital mid-sentence"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/lagrace.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "comprendre une fois pour toute la question",
+        "replace": "comprendre une fois pour toutes la question",
+        "kind": "typo",
+        "why": "« une fois pour toutes » takes the plural"
+      },
+      {
+        "find": "ne périsse pas, mais qu’Il ait la vie éternelle",
+        "replace": "ne périsse pas, mais qu’il ait la vie éternelle",
+        "kind": "typo",
+        "why": "« il » is « quiconque », not God: no capital"
+      },
+      {
+        "find": "On n’en a rencontré beaucoup",
+        "replace": "On en a rencontré beaucoup",
+        "kind": "word",
+        "why": "liaison heard as « n’ »: « on en a rencontré »"
+      },
+      {
+        "find": "C’est le don de Jésus Christ**",
+        "replace": "C’est le don de Jésus-Christ**",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "le don de Jésus Christ, qui a manifesté",
+        "replace": "le don de Jésus-Christ, qui a manifesté",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "Si Jésus Christ n’avait pas existé",
+        "replace": "Si Jésus-Christ n’avait pas existé",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "maître et Seigneur Jésus Christ",
+        "replace": "maître et Seigneur Jésus-Christ",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "du Seigneur Jésus Christ est venue avec la vérité",
+        "replace": "du Seigneur Jésus-Christ est venue avec la vérité",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "**Jésus Christ est notre avocat**",
+        "replace": "**Jésus-Christ est notre avocat**",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "Si Jésus Christ est en train de venir",
+        "replace": "Si Jésus-Christ est en train de venir",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "sont venues par Jésus Christ**",
+        "replace": "sont venues par Jésus-Christ**",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "maintenant en Jésus Christ, ils ne sont plus",
+        "replace": "maintenant en Jésus-Christ, ils ne sont plus",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "sacrifice de Jésus Christ. Tu crois",
+        "replace": "sacrifice de Jésus-Christ. Tu crois",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "baptisé au Nom de Jésus Christ,",
+        "replace": "baptisé au Nom de Jésus-Christ,",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "la parole de Jésus Christ qui a dit",
+        "replace": "la parole de Jésus-Christ qui a dit",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the rest of the text writes it"
+      },
+      {
+        "find": "**et enseignez leur à garder",
+        "replace": "**et enseignez-leur à garder",
+        "kind": "typo",
+        "why": "imperative with pronoun takes a hyphen"
+      },
+      {
+        "find": "l’obéissance de la foi, L’accomplissement",
+        "replace": "l’obéissance de la foi, l’accomplissement",
+        "kind": "typo",
+        "why": "no capital after a comma"
+      },
+      {
+        "find": "compté comme justice, Cela est en relation",
+        "replace": "compté comme justice, cela est en relation",
+        "kind": "typo",
+        "why": "no capital after a comma"
+      },
+      {
+        "find": "tu vas au plateau (centre",
+        "replace": "tu vas au Plateau (centre",
+        "kind": "typo",
+        "why": "the Plateau district of Abidjan, capitalised as earlier in the text"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/laluttedejacob.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "gouvernent dans le monde : Dieu, Jésus Christ et Mammon",
+        "replace": "gouvernent dans le monde : Dieu, Jésus-Christ et Mammon",
+        "kind": "typo",
+        "why": "hyphen in « Jésus-Christ », as the text writes it elsewhere"
+      },
+      {
+        "find": "C’est Le seul Dieu, le vrai Dieu",
+        "replace": "C’est le seul Dieu, le vrai Dieu",
+        "kind": "typo",
+        "why": "the article takes no capital"
+      },
+      {
+        "find": "Son frère s’appelle Esaü.",
+        "replace": "Son frère s’appelle Ésaü.",
+        "kind": "typo",
+        "why": "accent on the capital, as the pass wrote « Ésaü » elsewhere"
+      },
+      {
+        "find": "Il aimait bien son fils Esaü,",
+        "replace": "Il aimait bien son fils Ésaü,",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "Jacob dit à son frère Esaü",
+        "replace": "Jacob dit à son frère Ésaü",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "il n’avait pas vu. Esaü a dit",
+        "replace": "il n’avait pas vu. Ésaü a dit",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "les poils de mon fils Esaü.",
+        "replace": "les poils de mon fils Ésaü.",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "alors Esaü vint plus tard",
+        "replace": "alors Ésaü vint plus tard",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "Mais Esaü s’amusait",
+        "replace": "Mais Ésaü s’amusait",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "**Jacob et son frère Esaü sont des",
+        "replace": "**Jacob et son frère Ésaü sont des",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "Et son frère Esaü, lui, ne distinguait",
+        "replace": "Et son frère Ésaü, lui, ne distinguait",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "n’est pas différent d’Esaü**",
+        "replace": "n’est pas différent d’Ésaü**",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "Et le Seigneur Lui a dit à ce sujet",
+        "replace": "Et le Seigneur lui a dit à ce sujet",
+        "kind": "typo",
+        "why": "« lui » is Jacob, not God: no capital"
+      },
+      {
+        "find": "**15 Voici, je suis avec toi, je te garderai",
+        "replace": "**15** **Voici, je suis avec toi, je te garderai",
+        "kind": "markup",
+        "why": "verse number set apart from the preacher's bold, as verses 13 and 14"
+      },
+      {
+        "find": "que je l’aime quoiqu’il advienne",
+        "replace": "que je l’aime quoi qu’il advienne",
+        "kind": "typo",
+        "why": "spelling: « quoi qu’il advienne »"
+      },
+      {
+        "find": "C’est le Dieu Tout-puissant.",
+        "replace": "C’est le Dieu Tout-Puissant.",
+        "kind": "typo",
+        "why": "« Tout-Puissant » as everywhere else in the text"
+      },
+      {
+        "find": "Non pas que les autres ne le l’ont pas connu.",
+        "replace": "Non pas que les autres ne l’ont pas connu.",
+        "kind": "word",
+        "why": "stray « le » doubled with « l’ » by the transcriber"
+      },
+      {
+        "find": "un souci qui, qu’il soit.",
+        "replace": "un souci qui qu’il soit.",
+        "kind": "typo",
+        "why": "« qui qu’il soit » takes no comma"
+      },
+      {
+        "find": "il va te briser. Et te briser, ce sont des gens irrespectueux qu’ils t’envoient.",
+        "replace": "Il va te briser. Et te briser, ce sont des gens irrespectueux qu’Il t’envoie.",
+        "kind": "typo",
+        "why": "God breaks and sends (« si Dieu veut… »): capital, and the homophone « qu’Il t’envoie »"
+      },
+      {
+        "find": "parce que leur combat, n’était pas contre",
+        "replace": "parce que leur combat n’était pas contre",
+        "kind": "typo",
+        "why": "no comma between subject and verb"
+      },
+      {
+        "find": "Surtout vous devez être libre.",
+        "replace": "Surtout vous devez être libres.",
+        "kind": "typo",
+        "why": "agreement slip: he speaks to the sisters, plural"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/lapartdehomme.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Qu’est-ce que Dieu a à voir à faire là-dedans ?",
+        "replace": "Qu’est-ce que Dieu a à voir à faire là-dedans ?",
+        "kind": "word",
+        "why": "approve the pass: « a avoir » is the transcriber's slip for « a à voir », the « à » was said"
+      },
+      {
+        "find": "et l’homme doit faire Sa part.",
+        "replace": "et l’homme doit faire sa part.",
+        "kind": "typo",
+        "why": "the capital is for God's part; here it is man's"
+      },
+      {
+        "find": "chacun a accompli Sa part.",
+        "replace": "chacun a accompli sa part.",
+        "kind": "typo",
+        "why": "the capital is for God; here each age's part"
+      },
+      {
+        "find": "qu’on appelle Jean Baptiste.",
+        "replace": "qu’on appelle Jean-Baptiste.",
+        "kind": "typo",
+        "why": "hyphen in the compound name Jean-Baptiste"
+      },
+      {
+        "find": "Il a appelé Jean Baptiste ;",
+        "replace": "Il a appelé Jean-Baptiste ;",
+        "kind": "typo",
+        "why": "hyphen in the compound name Jean-Baptiste"
+      },
+      {
+        "find": "se faire baptiser au temps de Jean Baptiste,",
+        "replace": "se faire baptiser au temps de Jean-Baptiste,",
+        "kind": "typo",
+        "why": "hyphen in the compound name Jean-Baptiste"
+      },
+      {
+        "find": "Ici au temps de Jean Baptiste,",
+        "replace": "Ici au temps de Jean-Baptiste,",
+        "kind": "typo",
+        "why": "hyphen in the compound name Jean-Baptiste"
+      },
+      {
+        "find": "qu’ils ont vu Jean Baptiste comme",
+        "replace": "qu’ils ont vu Jean-Baptiste comme",
+        "kind": "typo",
+        "why": "hyphen in the compound name Jean-Baptiste"
+      },
+      {
+        "find": "Il lui a donné un Message, Il a commencé à prêcher. Il s’est mis dans le Jourdain, Il a commencé",
+        "replace": "Il lui a donné un Message, il a commencé à prêcher. Il s’est mis dans le Jourdain, il a commencé",
+        "kind": "typo",
+        "why": "the one who began to preach is Jean, not God: no capital pronoun mid-sentence"
+      },
+      {
+        "find": "les temps de Noé et de Loth.",
+        "replace": "les temps de Noé et de Lot.",
+        "kind": "typo",
+        "why": "the text spells him Lot everywhere else"
+      },
+      {
+        "find": "On ajoute à chaque foi un peu de connaissance",
+        "replace": "On ajoute à chaque fois un peu de connaissance",
+        "kind": "typo",
+        "why": "homophone slip: « à chaque fois »"
+      },
+      {
+        "find": "je rembourse leur argent. **Tous ceux à qui j’ai fait du tort… Amen !",
+        "replace": "je rembourse leur argent. **Tous ceux à qui j’ai fait du tort… » Amen !",
+        "kind": "typo",
+        "why": "Zachée's words end here; what follows is the preacher's comment"
+      },
+      {
+        "find": "Il avait la révélation de sa part**. »",
+        "replace": "Il avait la révélation de sa part**.",
+        "kind": "typo",
+        "why": "closing guillemet moved to the end of Zachée's words"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/larecompensedeprophete.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "reçoit une récompense de prophète ; mais malheur",
+        "replace": "reçoit une récompense de prophète ; mais malheur",
+        "kind": "word",
+        "why": "PDF glyph split « r»compense » into two tokens; the pass rejoined the one word « récompense »"
+      },
+      {
+        "find": "Car Ainsi parle l’Éternel",
+        "replace": "Car ainsi parle l’Éternel",
+        "kind": "typo",
+        "why": "stray capital mid-sentence"
+      },
+      {
+        "find": "Et nous ; nous avons reçu",
+        "replace": "Et nous, nous avons reçu",
+        "kind": "typo",
+        "why": "punctuation: comma before the repeated pronoun"
+      },
+      {
+        "find": "pour leur donner un Message pour le Peuple",
+        "replace": "pour leur donner un message pour le Peuple",
+        "kind": "message",
+        "why": "a prophet's message in general, not the end-time Message"
+      },
+      {
+        "find": "viennent à l’Église avec un Message – ils",
+        "replace": "viennent à l’Église avec un message – ils",
+        "kind": "message",
+        "why": "prophets' message in general"
+      },
+      {
+        "find": "de la part du Seigneur, un Message.",
+        "replace": "de la part du Seigneur, un message.",
+        "kind": "message",
+        "why": "Elijah's message to the widow"
+      },
+      {
+        "find": "**Élie est allé vers cette femme avec un Message**",
+        "replace": "**Élie est allé vers cette femme avec un message**",
+        "kind": "message",
+        "why": "Elijah's message to the widow"
+      },
+      {
+        "find": "recevoir pour entendre son Message. C’est comme",
+        "replace": "recevoir pour entendre son message. C’est comme",
+        "kind": "message",
+        "why": "the prophet's message, generic"
+      },
+      {
+        "find": "elle ne peut pas entendre son Message.",
+        "replace": "elle ne peut pas entendre son message.",
+        "kind": "message",
+        "why": "the prophet's message, generic"
+      },
+      {
+        "find": "vous ne pouvez pas entendre son Message. Le Message de Dieu envers",
+        "replace": "vous ne pouvez pas entendre son message. Le message de Dieu envers",
+        "kind": "message",
+        "why": "the prophet's message; God's message to the widow"
+      },
+      {
+        "find": "il a obéi au Message qui lui a été adressé. Le Message lui a dit",
+        "replace": "il a obéi au message qui lui a été adressé. Le message lui a dit",
+        "kind": "message",
+        "why": "Elisha's message to Naaman"
+      },
+      {
+        "find": "reçoit un Message de la part de Dieu",
+        "replace": "reçoit un message de la part de Dieu",
+        "kind": "message",
+        "why": "a prophet's message in general"
+      },
+      {
+        "find": "Quand Nahaman a reçu et obéi au Message",
+        "replace": "Quand Naaman a reçu et obéi au message",
+        "kind": "message",
+        "why": "Elisha's message to Naaman; name spelled as in the Luc 4 reading the pass corrected"
+      },
+      {
+        "find": "Cet homme Nahaman avait la lèpre",
+        "replace": "Cet homme Naaman avait la lèpre",
+        "kind": "typo",
+        "why": "name spelled as in the Luc 4 reading (Naaman)"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/le_choix_de_dieupdf.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "comme ça a été difficile",
+        "replace": "comme ça a été difficile",
+        "kind": "word",
+        "why": "approve the pass: « ça été » is a slip for « ça a été »"
+      },
+      {
+        "find": "L’assemblée apprend et chante Réd. Amen !",
+        "replace": "[L’assemblée apprend et chante. Réd.] Amen !",
+        "kind": "markup",
+        "why": "editor's note, bracketed like the other [… Réd.] notes"
+      },
+      {
+        "find": "la vision qu’il a eu.",
+        "replace": "la vision qu’il a eue.",
+        "kind": "typo",
+        "why": "agreement with « la vision »"
+      },
+      {
+        "find": "verset 12 : « Combats le bon combat de la foi, saisis la vie éternelle, à laquelle tu as été appelé, et pour laquelle tu as fait une belle confession en présence d’un grand nombre de témoins. »",
+        "replace": "verset 12 :\n\n> Combats le bon combat de la foi, saisis la vie éternelle, à laquelle tu as été appelé, et pour laquelle tu as fait une belle confession en présence d’un grand nombre de témoins.",
+        "kind": "markup",
+        "why": "a reading the preacher reads: its own quote paragraph"
+      },
+      {
+        "find": "nous devons Lui dire Merci.",
+        "replace": "nous devons Lui dire merci.",
+        "kind": "typo",
+        "why": "common noun, no capital"
+      }
+    ],
+    "subtitle": "Convention Arrah, 16 mars 2008"
+  },
+  "markdown/onedrive/pdf/le_dieu_du_ventre.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "hommes nouveaux créés en Jésus Christ.",
+        "replace": "hommes nouveaux créés en Jésus-Christ.",
+        "kind": "typo",
+        "why": "hyphen in the compound name, as elsewhere in the text"
+      },
+      {
+        "find": "ennemi à l’objectif de Jésus Christ sur la croix",
+        "replace": "ennemi à l’objectif de Jésus-Christ sur la croix",
+        "kind": "typo",
+        "why": "hyphen in the compound name, as elsewhere in the text"
+      },
+      {
+        "find": "faux Christ par-là !",
+        "replace": "faux Christ par là !",
+        "kind": "typo",
+        "why": "« par ici, par là »: no hyphen"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/le_fruit_du_Message.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Il y en a aussi qui écoutent et qui disent",
+        "replace": "Il y en a aussi qui écoutent et qui disent",
+        "kind": "word",
+        "why": "approve: the PDF's « Il y en aussi » lost the verb « a » (« il y en a »)"
+      },
+      {
+        "find": "C’est comme cela le Message, ça été planté.",
+        "replace": "C’est comme cela le Message, ça a été planté.",
+        "kind": "word",
+        "why": "« ça a été » heard as « ça été »"
+      },
+      {
+        "find": "c’est depuis leur temps que ça commencé.",
+        "replace": "c’est depuis leur temps que ça a commencé.",
+        "kind": "word",
+        "why": "« ça a » heard as one « a »; the auxiliary is needed"
+      },
+      {
+        "find": "quand il y a eu le réveil de 1905, ça manifesté des serviteurs",
+        "replace": "quand il y a eu le réveil de 1905, ça a manifesté des serviteurs",
+        "kind": "word",
+        "why": "« ça a » heard as one « a »; the auxiliary is needed"
+      },
+      {
+        "find": "on jette les mangues, il y en tellement dans sa saison.",
+        "replace": "on jette les mangues, il y en a tellement dans sa saison.",
+        "kind": "word",
+        "why": "« il y en a » lost its « a », as in « Il y en aussi » elsewhere in the PDF"
+      },
+      {
+        "find": "Et ça été semé dans le cœur",
+        "replace": "Et ça a été semé dans le cœur",
+        "kind": "word",
+        "why": "« ça a été » heard as « ça été »"
+      },
+      {
+        "find": "Même le Message ! Ça été la même chose.",
+        "replace": "Même le Message ! Ça a été la même chose.",
+        "kind": "word",
+        "why": "« ça a été » heard as « ça été »"
+      },
+      {
+        "find": "et que tout le monde voit. C’est cela.",
+        "replace": "et que tout le monde voie. C’est cela.",
+        "kind": "typo",
+        "why": "subjunctive after « pour que … et que », same sound"
+      },
+      {
+        "find": "avant qu’on ne voit que cette plante",
+        "replace": "avant qu’on ne voie que cette plante",
+        "kind": "typo",
+        "why": "subjunctive after « avant que », same sound"
+      },
+      {
+        "find": "Les hommes connaitront la vérité.",
+        "replace": "Les hommes connaîtront la vérité.",
+        "kind": "typo",
+        "why": "circumflex, as the pass did for « connaît » elsewhere"
+      },
+      {
+        "find": "Si je veux m’emballer avec toutes ses pensées,",
+        "replace": "Si je veux m’emballer avec toutes ces pensées,",
+        "kind": "typo",
+        "why": "homophone: the worries just listed (« ces »), not someone's (« ses »)"
+      },
+      {
+        "find": "**Le Seigneur nous a envoyé pour qu’on porte du fruit",
+        "replace": "**Le Seigneur nous a envoyés pour qu’on porte du fruit",
+        "kind": "typo",
+        "why": "agreement with « nous » (plural), same sound"
+      },
+      {
+        "find": "la stature de l’homme parfait commence par-là,",
+        "replace": "la stature de l’homme parfait commence par là,",
+        "kind": "typo",
+        "why": "« par là » (by that) takes no hyphen"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/le_jugement.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "PREMIÈRE ÉTAPE :  \nl’Affaire se trouve entre le fautif",
+        "replace": "PREMIÈRE ÉTAPE :\n\nl’Affaire se trouve entre le fautif",
+        "kind": "markup",
+        "why": "same layout as the other table-of-contents entries (separate paragraph, no hard break)"
+      },
+      {
+        "find": "dans la Bible depuis la genèse jusqu’à l’Apocalypse",
+        "replace": "dans la Bible depuis la Genèse jusqu’à l’Apocalypse",
+        "kind": "typo",
+        "why": "book name takes a capital, like l’Apocalypse"
+      },
+      {
+        "find": "il arrivait qu’il tombe à nouveau dans le même péché. Tu iras à nouveau",
+        "replace": "il arrivait qu’il tombe à nouveau dans le même péché, tu iras à nouveau",
+        "kind": "typo",
+        "why": "the « si » clause and its main clause are one sentence"
+      },
+      {
+        "find": "comme un païen et un publicain**. Brochure Chapitre",
+        "replace": "comme un païen et un publicain** ». Brochure Chapitre",
+        "kind": "typo",
+        "why": "close the guillemet opened at « qu’il soit"
+      },
+      {
+        "find": "jugé par le prophète Natan par une parabole",
+        "replace": "jugé par le prophète Nathan par une parabole",
+        "kind": "typo",
+        "why": "the text spells him Nathan everywhere else"
+      },
+      {
+        "find": "Hyméné et Alexandre furent livrés",
+        "replace": "Hyménée et Alexandre furent livrés",
+        "kind": "typo",
+        "why": "spelling of the name Hyménée"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/le_livre_despropheties.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "tous ceux qui prêchent n’ont pas mandat",
+        "replace": "tous ceux qui prêchent n’ont pas mandat",
+        "kind": "word",
+        "why": "approve: the PDF's « non pas mandat » is a homophone slip for « n'ont pas mandat »"
+      },
+      {
+        "find": "qu’est-ce que Dieu a à en faire",
+        "replace": "qu’est-ce que Dieu a à en faire",
+        "kind": "word",
+        "why": "approve: « Dieu à en faire » lost the verb « a » merged in the sound « a à »"
+      },
+      {
+        "find": "Sachez qu’il la fera interpréter",
+        "replace": "Sachez qu’Il la fera interpréter",
+        "kind": "typo",
+        "why": "« Il » is God, as in the sentence before (« qu'Il l'a fait écrire »)"
+      },
+      {
+        "find": "**le temps du soir**-**minuit-le chant du coq",
+        "replace": "**le temps du soir-minuit-le chant du coq",
+        "kind": "markup",
+        "why": "one bold span split by the PDF line break; same bold words"
+      },
+      {
+        "find": "afin qu’Élie voit le miracle",
+        "replace": "afin qu’Élie voie le miracle",
+        "kind": "typo",
+        "why": "subjunctive after « afin que », same sound"
+      },
+      {
+        "find": "que la farine et l’huile ne finiraient pas** Amen",
+        "replace": "que la farine et l’huile ne finiraient pas**. Amen",
+        "kind": "typo",
+        "why": "missing full stop before « Amen ! »"
+      },
+      {
+        "find": "Mais Vous êtes ma couronne",
+        "replace": "Mais vous êtes ma couronne",
+        "kind": "typo",
+        "why": "stray capital in mid-sentence"
+      },
+      {
+        "find": "Frère vient ici, va là-bas.",
+        "replace": "Frère, viens ici, va là-bas.",
+        "kind": "typo",
+        "why": "imperative « viens » (homophone), vocative comma"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/le_mystere_de_l_iniquite.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "et cette œuvre à son aboutissement dans l’Église",
+        "replace": "et cette œuvre a son aboutissement dans l’Église",
+        "kind": "typo",
+        "why": "homophone: the verb « a »"
+      },
+      {
+        "find": "le Corps de Christ de Christ. (Eph 3)",
+        "replace": "le Corps de Christ. (Eph 3)",
+        "kind": "word",
+        "why": "« de Christ » doubled by the transcriber"
+      },
+      {
+        "find": "Je ne vous ai jamais connus retirez-vous de moi",
+        "replace": "Je ne vous ai jamais connus, retirez-vous de moi",
+        "kind": "typo",
+        "why": "punctuation between the two clauses"
+      },
+      {
+        "find": "> **19** Ne savez-vous pas que",
+        "replace": "> Ne savez-vous pas que",
+        "kind": "restore",
+        "why": "undo the added « 19 »: the PDF gives 19 only in the reference « 1 Corinthiens 6 :19 », which the sentence before keeps"
+      },
+      {
+        "find": "**11 Aussi Dieu leur envoie une puissance d’égarement, pour qu’ils croient au mensonge, 12** afin que",
+        "replace": "**11** **Aussi Dieu leur envoie une puissance d’égarement, pour qu’ils croient au mensonge**, **12** afin que",
+        "kind": "word",
+        "why": "approve « 12 », the verse number the PDF splits as « 1**2 »; the preacher's bold stays on the verse's words, verse numbers bold as in the rest of the quote"
+      },
+      {
+        "find": "> **4 Vous n’avez pas encore résisté jusqu’au sang en combattant contre le péché**.",
+        "replace": "> **4** **Vous n’avez pas encore résisté jusqu’au sang en combattant contre le péché**.",
+        "kind": "markup",
+        "why": "verse number set apart from the preacher's bold, as the other verse numbers"
+      },
+      {
+        "find": "Le sceptre de ton règne est un sceptre d’équité ; 9 Tu as aimé la justice, et tu as haï l’iniquité** ;",
+        "replace": "Le sceptre de ton règne est un sceptre d’équité** ; **9** **Tu as aimé la justice, et tu as haï l’iniquité** ;",
+        "kind": "markup",
+        "why": "verse number 9 set apart from the preacher's bold, as the other verse numbers"
+      },
+      {
+        "find": "On ne peut pas l’expliquer ? Mais ça commencé quelque part",
+        "replace": "On ne peut pas l’expliquer ? Mais ça a commencé quelque part",
+        "kind": "word",
+        "why": "« ça commencé » is a transcriber's slip for « ça a commencé »"
+      },
+      {
+        "find": "Dieu ne permettra jamais qu’un seul voit tout",
+        "replace": "Dieu ne permettra jamais qu’un seul voie tout",
+        "kind": "typo",
+        "why": "homophone: subjunctive « qu’un seul voie »"
+      },
+      {
+        "find": "nous devons faire attention et être humble**",
+        "replace": "nous devons faire attention et être humbles**",
+        "kind": "typo",
+        "why": "agreement slip with « nous »"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/le_siege_de_adversaire.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Ça concerne les vierges sages, frères, Il faut que nous puissions",
+        "replace": "Ça concerne les vierges sages, frères. Il faut que nous puissions",
+        "kind": "typo",
+        "why": "a new sentence starts at « Il faut » (capital kept): the comma becomes a period"
+      },
+      {
+        "find": "le sacrifice dans le temple jusqu’au au milieu de la semaine",
+        "replace": "le sacrifice dans le temple jusqu’au milieu de la semaine",
+        "kind": "word",
+        "why": "doubled « au », a transcriber's slip"
+      },
+      {
+        "find": "pour ne pas être dénoncé – et qu’on ne voit rien",
+        "replace": "pour ne pas être dénoncé – et qu’on ne voie rien",
+        "kind": "typo",
+        "why": "homophone: subjunctive « qu’on ne voie rien »"
+      },
+      {
+        "find": "J’ai été chez un pasteur, L’Esprit a saisi",
+        "replace": "J’ai été chez un pasteur. L’Esprit a saisi",
+        "kind": "typo",
+        "why": "punctuation: a new sentence starts at « L’Esprit »"
+      },
+      {
+        "find": "« Écris à l’Ange de l’Église de Laodicée",
+        "replace": "> Écris à l’Ange de l’Église de Laodicée",
+        "kind": "markup",
+        "why": "the preacher reads the verses of the letter to Laodicea: its own paragraph as a quote"
+      },
+      {
+        "find": "**Je sais que tu n’es ni froid ni bouillant** ! » Ça, c’est le sommeil",
+        "replace": "**Je sais que tu n’es ni froid ni bouillant** !\n\nÇa, c’est le sommeil",
+        "kind": "markup",
+        "why": "end of the quoted reading; his comment is a new paragraph"
+      },
+      {
+        "find": "que ça s’ouvre, que ça voit ce que Dieu",
+        "replace": "que ça s’ouvre, que ça voie ce que Dieu",
+        "kind": "typo",
+        "why": "homophone: subjunctive « que ça voie »"
+      },
+      {
+        "find": "Il faut la suivre, Il faut la suivre, il ne faut pas",
+        "replace": "Il faut la suivre, il faut la suivre, il ne faut pas",
+        "kind": "typo",
+        "why": "no capital after a comma"
+      },
+      {
+        "find": "à Abidjan, à chaque fois, ça été dit",
+        "replace": "à Abidjan, à chaque fois, ça a été dit",
+        "kind": "word",
+        "why": "« ça été » is a transcriber's slip for « ça a été »"
+      },
+      {
+        "find": "et ici en Europe, ça été dit",
+        "replace": "et ici en Europe, ça a été dit",
+        "kind": "word",
+        "why": "« ça été » is a transcriber's slip for « ça a été »"
+      },
+      {
+        "find": "pour ceux qui n’en n’ont pas",
+        "replace": "pour ceux qui n’en ont pas",
+        "kind": "word",
+        "why": "stray « n’ » doubled by the transcriber: « qui n’en ont pas »"
+      },
+      {
+        "find": "quand quelqu’un vient prêcher à la chair",
+        "replace": "quand quelqu’un vient prêcher à la chaire",
+        "kind": "typo",
+        "why": "homophone: the pulpit, « la chaire » (as the PDF writes it elsewhere)"
+      },
+      {
+        "find": "Mais ça commencé par des visions",
+        "replace": "Mais ça a commencé par des visions",
+        "kind": "word",
+        "why": "« ça commencé » is a transcriber's slip for « ça a commencé »"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/leculte.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "entretenir ceux qu’il voyait sur",
+        "replace": "entretenir ceux qu’ils voyaient sur",
+        "kind": "revert",
+        "why": "the PDF's plural may mean Paul and his friends just named; the pass changed who is meant"
+      },
+      {
+        "find": "Que chacun voit que Dieu",
+        "replace": "Que chacun voie que Dieu",
+        "kind": "typo",
+        "why": "subjunctive after « que », homophone slip"
+      },
+      {
+        "find": "Il m’a dit : « **donne-moi ton passeport",
+        "replace": "Il m’a dit : « **Donne-moi ton passeport",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "en disant : « **voici désormais",
+        "replace": "en disant : « **Voici désormais",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "« **frère, sur cette question",
+        "replace": "« **Frère, sur cette question",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "je venais de prêcher un Message contre le péché",
+        "replace": "je venais de prêcher un message contre le péché",
+        "kind": "message",
+        "why": "a sermon, not the end-time Message"
+      },
+      {
+        "find": "Jésus a dit : « **Soyez saints comme votre Père est saint. Un chrétien",
+        "replace": "Jésus a dit : « **Soyez saints comme votre Père est saint.** » **Un chrétien",
+        "kind": "markup",
+        "why": "only the first sentence is Jesus's word; the rest is the preacher's (bold kept on the same words)"
+      },
+      {
+        "find": "le Message est venu**. » Ce n’est pas pour",
+        "replace": "le Message est venu**. Ce n’est pas pour",
+        "kind": "markup",
+        "why": "closing » moved after Jesus's sentence"
+      },
+      {
+        "find": "Veillez et prier car",
+        "replace": "Veillez et priez car",
+        "kind": "typo",
+        "why": "imperative, homophone slip (« veillez et priez »)"
+      },
+      {
+        "find": "frères et sœurs qui ballotent",
+        "replace": "frères et sœurs qui ballottent",
+        "kind": "typo",
+        "why": "spelling of « ballotter »"
+      },
+      {
+        "find": "la position de Jean Baptiste",
+        "replace": "la position de Jean-Baptiste",
+        "kind": "typo",
+        "why": "hyphen in the compound name"
+      },
+      {
+        "find": "Ce n’est pas cela mon Esprit.",
+        "replace": "Ce n’est pas cela mon esprit.",
+        "kind": "typo",
+        "why": "the preacher's own spirit, not the Holy Spirit"
+      },
+      {
+        "find": "sinon, Mon armée allait",
+        "replace": "sinon, mon armée allait",
+        "kind": "typo",
+        "why": "stray capital mid-sentence"
+      },
+      {
+        "find": "Devant le Seigneur, le diable a cité",
+        "replace": "Devant le Seigneur, le Diable a cité",
+        "kind": "typo",
+        "why": "the text writes « le Diable » everywhere else"
+      },
+      {
+        "find": "chacun de nous, Car en lui",
+        "replace": "chacun de nous, car en lui",
+        "kind": "typo",
+        "why": "stray capital after a comma in the reading"
+      }
+    ],
+    "subtitle": "Prêché le lundi 28 septembre 2009 à l’assemblée de Mamayemo"
+  },
+  "markdown/onedrive/pdf/ledernierouvragespirituel.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Il y a beaucoup de gens qui le suivaient.",
+        "replace": "Il y a beaucoup des gens qui le suivaient.",
+        "kind": "revert",
+        "why": "the PDF has « beaucoup des gens », the preacher's own form; not a transcriber's slip"
+      },
+      {
+        "find": "n’est pas n’importe quel Message.",
+        "replace": "n’est pas n’importe quel message.",
+        "kind": "message",
+        "why": "generic « message » here, not the end-time Message itself"
+      },
+      {
+        "find": "Et à chaque fois, qu’il y a de nouveaux Messages,",
+        "replace": "Et à chaque fois qu’il y a de nouveaux messages,",
+        "kind": "message",
+        "why": "new preachings, generic « messages »; stray comma inside « à chaque fois qu' »"
+      },
+      {
+        "find": "beaucoup à celui qui reçu beaucoup",
+        "replace": "beaucoup à celui qui a reçu beaucoup",
+        "kind": "word",
+        "why": "auxiliary « a » dropped by the transcriber (« qui a reçu »), as in the next sentence"
+      },
+      {
+        "find": "mais c’est par vous que ça commencé.",
+        "replace": "mais c’est par vous que ça a commencé.",
+        "kind": "word",
+        "why": "« ça a » heard as one « a »; the auxiliary is needed"
+      },
+      {
+        "find": "C’est l’Église, Elle était en travail",
+        "replace": "C’est l’Église, elle était en travail",
+        "kind": "typo",
+        "why": "stray capital after a comma"
+      },
+      {
+        "find": "la guerre contre Babylone, C’est un travail",
+        "replace": "la guerre contre Babylone. C’est un travail",
+        "kind": "typo",
+        "why": "a new sentence starts at the capital « C'est »; full stop"
+      },
+      {
+        "find": "« Frère donne-moi cent mille",
+        "replace": "« Frère, donne-moi cent mille",
+        "kind": "typo",
+        "why": "vocative comma, as in « Frère, pardonne-moi » just before"
+      },
+      {
+        "find": "Il a cultivé, ça donné et il a beaucoup gagné.",
+        "replace": "Il a cultivé, ça a donné et il a beaucoup gagné.",
+        "kind": "word",
+        "why": "« ça a » heard as one « a »; the auxiliary is needed"
+      },
+      {
+        "find": "Parce ce que la femme occupe",
+        "replace": "Parce que la femme occupe",
+        "kind": "word",
+        "why": "doubled « ce » (« Parce ce que »), transcriber's slip for « Parce que »"
+      },
+      {
+        "find": "Crois en Jésus Christ et tu seras sauvé",
+        "replace": "Crois en Jésus-Christ et tu seras sauvé",
+        "kind": "typo",
+        "why": "hyphen in the compound, as elsewhere in the text (« Jésus-Christ est calomnié »)"
+      },
+      {
+        "find": "l’œuvre de Dieu ? Est**-**ce qu’on peut faire cela**",
+        "replace": "l’œuvre de Dieu ? Est-ce qu’on peut faire cela**",
+        "kind": "markup",
+        "why": "one bold span split at the hyphen; same bold words"
+      }
+    ]
   }
 }
