@@ -214,8 +214,8 @@ export function quoted(md, end, ref) {
   const quote = QUOTE.exec(md)?.[1].replace(/\\\*/g, "*");
   const runs = [...(quote ?? "").matchAll(/\*\*([^*]+)\*\*/g)];
   const verse = ([, run]) => !BOOK_FIRST.test(run.trim()) && Number(run.trim().match(/^(\d{1,3})\.?(?:\s|$)/)?.[1]);
-  if (!runs.length || !/^>[^\S\n]*$/.test(quote.slice(0, runs[0].index)) || !verse(runs[0])) return ref;
-  const first = verse(runs[0]);
+  const first = runs.length && /^>[^\S\n]*$/.test(quote.slice(0, runs[0].index)) && verse(runs[0]);
+  if (!first) return ref;
   let last = first;
   for (const n of runs.slice(1).map(verse).filter(Boolean)) {
     if (n <= last) break;
