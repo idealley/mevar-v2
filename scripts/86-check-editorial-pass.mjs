@@ -299,6 +299,8 @@ for (const md of batch) {
     [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
     [/^\s*\S*mevar\.org\/\S*(\s+\d+\/\d+)?\s*$/gim, "print"],
     [/^[\s*]*Haut\s+de\s+page[\s*]*$/gm, "print"],
+    // a word processor's page footer, letter-spaced: « P a g e  | **1** »
+    [/^[ \t*]*P a g e[ \t]*\|[ \t*]*\d{1,3}[ \t*]*$/gm, "print"],
     [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
   ];
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
@@ -333,6 +335,8 @@ for (const md of batch) {
   r.titleRefused = r.title === proposedTitle ? "" : proposedTitle;
   const oldSubtitle = field("subtitle");
   r.subtitle = edits.subtitle && (same(oldSubtitle, edits.subtitle) || fromPdf(edits.subtitle)) ? edits.subtitle : oldSubtitle;
+  // the editor's subtitle, listed: taken, or refused (a word not in the opening)
+  r.subtitles = edits.subtitle ? { after: r.subtitle, refused: r.subtitle === edits.subtitle ? "" : edits.subtitle } : null;
   // When a split leaves the first work with the second's date and place: a
   // date whose month and year the opening states (« Exhortation mi-novembre
   // 2009 »), and a place only taken away, never given.
@@ -347,7 +351,7 @@ for (const md of batch) {
   r.lists = Object.fromEntries(LISTS.filter((k) => edits[k]).map((k) => [k, edits[k]]));
   // each is written over its own frontmatter line: without one, the page and
   // the manifest would disagree
-  for (const [k, line] of [["subtitle", /^subtitle: /m], ["date", /^date: .*\nyear: /m], ["summary", /^summary: /m], ...LISTS.map((l) => [l, new RegExp(`^${l}:\\n  - `, "m")])])
+  for (const [k, line] of [["date", /^date: .*\nyear: /m], ["summary", /^summary: /m], ...LISTS.map((l) => [l, new RegExp(`^${l}:\\n  - `, "m")])])
     if (edits[k] && !(Array.isArray(edits[k]) && !edits[k].length) && !line.test(fm)) r.unexplained.push(`the editor gives a ${k}, but the frontmatter has no ${k} line to write it on`);
 
   const ow = words(compared);
@@ -504,10 +508,15 @@ for (const md of batch) {
   // a text promoted earlier is still this pass's body, with the editor's fixes
   if (promoted && (bodyOf(file) !== `${parts[0]}\n` || (r.split && bodyOf(fs.readFileSync(path.join(root, r.split), "utf8")) !== `${parts[1]}\n`)))
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
+  // and its subtitle the editor's: one given after promotion is not written
+  if (promoted && edits.subtitle && r.subtitle === edits.subtitle && field("subtitle") !== r.subtitle)
+    r.unexplained.push(`the promoted subtitle « ${field("subtitle")} » is not the editor's « ${r.subtitle} »: promote the text again`);
   if (!r.unexplained.length && !promoted) {
     const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
     const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`)
       .replace(/^subtitle: .*$/m, (l) => r.subtitle === oldSubtitle ? l : `subtitle: ${JSON.stringify(r.subtitle)}`)
+      // a subtitle the PDF's opening states, for a text that had none: under its title
+      .replace(/^(title: .*)$/m, (l) => /^subtitle: /m.test(fm) || r.subtitle === oldSubtitle ? l : `${l}\nsubtitle: ${JSON.stringify(r.subtitle)}`)
       .replace(/^date: .*\nyear: .*$/m, (l) => r.date === field("date") ? l : `date: ${JSON.stringify(r.date)}\nyear: ${Number(r.date.slice(0, 4))}`)
       .replace(/^location: .*\n/m, (l) => r.location ? l : "")
       .replace(/^summary: .*$/m, (l) => r.summary === field("summary") ? l : `summary: ${JSON.stringify(r.summary)}`)
@@ -581,6 +590,10 @@ if (rows.some((r) => r.headings.length)) {
 }
 L.push("", "## Titles", "", "| Text | Title | Proposed by the pass and refused (a word changed) |", "| --- | --- | --- |");
 for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.titleRefused)} |`);
+if (rows.some((r) => r.subtitles)) {
+  L.push("", "## Subtitles the editor gave", "", "| Text | Subtitle | Refused (a word not in the PDF's opening) |", "| --- | --- | --- |");
+  for (const r of rows) if (r.subtitles) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.subtitles.after)} | ${cell(r.subtitles.refused)} |`);
+}
 // gpt-6-sol, per million tokens: $2 in, $10 out (reasoning included); the
 // parts OpenAI's filter stopped went to claude-opus-5: $5 in, $25 out
 const usage = rows.flatMap((r) => r.pass.usage).filter((u) => !u.model);

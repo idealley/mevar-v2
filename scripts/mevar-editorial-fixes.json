@@ -7543,5 +7543,1637 @@
         "why": "one bold span split at the hyphen; same bold words"
       }
     ]
+  },
+  "markdown/onedrive/pdf/ledieudespred.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "il a dit que Zacharie 14 :7 est accompli. « Au temps du Soir, la lumière",
+        "replace": "il a dit que Zacharie 14 :7 est accompli. « Au temps du soir, la lumière",
+        "kind": "revert",
+        "why": "the PDF has « soir » lower case here: keep the preacher's capitals, add none"
+      },
+      {
+        "find": "Ceci était la volonté de Dieu. Au temps du Soir, la lumière",
+        "replace": "Ceci était la volonté de Dieu. Au temps du soir, la lumière",
+        "kind": "revert",
+        "why": "the PDF has « soir » lower case here: keep the preacher's capitals, add none"
+      },
+      {
+        "find": "Dans 2 Pierre 1 : 19, il est écrit : « Et nous tenons",
+        "replace": "Dans 2 Pierre 1 : 19, il est écrit :\n\n> Et nous tenons",
+        "kind": "markup",
+        "why": "a verse the preacher reads: its own quote paragraph"
+      },
+      {
+        "find": "que l’étoile du matin se lève dans vos cœurs. »",
+        "replace": "que l’étoile du matin se lève dans vos cœurs.",
+        "kind": "markup",
+        "why": "end of the reading now set as a quote: closing guillemet removed"
+      },
+      {
+        "find": "Voilà comment Dieu s’est adressé à son peuple : « Ainsi parle l’Éternel :",
+        "replace": "Voilà comment Dieu s’est adressé à son peuple :\n\n> Ainsi parle l’Éternel :",
+        "kind": "markup",
+        "why": "he reads the Jeremiah 6 passage again: its own quote paragraph"
+      },
+      {
+        "find": "Mais ils répondent : Nous n’y marcherons pas. »",
+        "replace": "Mais ils répondent : Nous n’y marcherons pas.",
+        "kind": "markup",
+        "why": "end of the reading now set as a quote: closing guillemet removed"
+      },
+      {
+        "find": "Si tu n’es pas connecté au Ministère, comment",
+        "replace": "Si tu n’es pas connecté au ministère, comment",
+        "kind": "revert",
+        "why": "the PDF has « ministère » lower case here: the pass added a capital"
+      },
+      {
+        "find": "Le Psaume 89 : 15 :",
+        "replace": "Le Psaumes 89 : 15 :",
+        "kind": "revert",
+        "why": "the reference stays in the preacher's form « Psaumes 89 »"
+      },
+      {
+        "find": "Quand le Messie devait naître, l’ange",
+        "replace": "Quand le Messie devrait naître, l’ange",
+        "kind": "revert",
+        "why": "« devrait » is the preacher's word (not a homophone): tense change undone"
+      },
+      {
+        "find": "Cela est dans Matthieu 25 et quand la Bible dit",
+        "replace": "Cela est dans Mathieu 25 et quand la Bible dit",
+        "kind": "revert",
+        "why": "the reference stays in the preacher's spelling (as « Mathieu 26 le verset 31-33 » in the same text)"
+      }
+    ],
+    "subtitle": "Prêché le vendredi 15 octobre 2010 à Kinshasa"
+  },
+  "markdown/onedrive/pdf/lefruit.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "C’est le plant qu’il chérissait, **Il avait espéré",
+        "replace": "C’est le plant qu’il chérissait. **Il avait espéré",
+        "kind": "typo",
+        "why": "a new sentence begins with « Il »: full stop"
+      },
+      {
+        "find": "Et le croyant a Sa part dans la marche de la foi.",
+        "replace": "Et le croyant a sa part dans la marche de la foi.",
+        "kind": "typo",
+        "why": "« sa » is the believer's, not God's: no honorific capital"
+      },
+      {
+        "find": "nous tous qui nous sommes engagés dans cette voie**, **Nous devons savoir",
+        "replace": "nous tous qui nous sommes engagés dans cette voie**. **Nous devons savoir",
+        "kind": "typo",
+        "why": "a new sentence begins with « Nous »: full stop"
+      },
+      {
+        "find": "**le fruit utile** amen !",
+        "replace": "**le fruit utile**, amen !",
+        "kind": "typo",
+        "why": "missing comma before « amen »"
+      },
+      {
+        "find": "pour voir, comprendre entrer dans le fond des choses",
+        "replace": "pour voir, comprendre, entrer dans le fond des choses",
+        "kind": "typo",
+        "why": "missing comma in the list"
+      }
+    ],
+    "subtitle": "Prêché à Koumassi le dimanche 26 juin 2011"
+  },
+  "markdown/onedrive/pdf/lejeune.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Donc l’Église entière a le devoir de prendre soin d’elle",
+        "replace": "Donc l’église entière a le devoir de prendre soin d’elle",
+        "kind": "revert",
+        "why": "the original has « l'église » (this assembly): the pass added a capital"
+      },
+      {
+        "find": "Quand Il m’a dit par des songes que j’aurai une œuvre",
+        "replace": "Quand Il m’a dit par des songes que j’aurais une œuvre",
+        "kind": "typo",
+        "why": "homophone: conditional of reported speech, like « je prendrais part » and « j'aurais un parcours »"
+      },
+      {
+        "find": "et que j’aurai même un Ministère à accomplir",
+        "replace": "et que j’aurais même un Ministère à accomplir",
+        "kind": "typo",
+        "why": "homophone: conditional of reported speech, parallel to « je prendrais part » in the same sentence"
+      },
+      {
+        "find": "J’avais aussi compris que j’aurai part à la même souffrance",
+        "replace": "J’avais aussi compris que j’aurais part à la même souffrance",
+        "kind": "typo",
+        "why": "homophone: conditional after « J'avais compris que », like « j'aurais un Ministère » just before"
+      },
+      {
+        "find": "a dit : **« L’heure est à la prière… Le temps où on est, c’est le temps de prier. Ne dormez pas frères, et cet ange n’est pas venu une seule fois mais plusieurs fois m’exhorter à la prière**. »",
+        "replace": "a dit : « **L’heure est à la prière… Le temps où on est, c’est le temps de prier. Ne dormez pas frères** », **et cet ange n’est pas venu une seule fois mais plusieurs fois m’exhorter à la prière**.",
+        "kind": "typo",
+        "why": "the quotation ends at « Ne dormez pas frères »; the rest is the preacher's narration (bold kept on the same words)"
+      },
+      {
+        "find": "c’est dans cela qu’on est jusqu’aujourd’hui",
+        "replace": "c’est dans cela qu’on est jusqu’à aujourd’hui",
+        "kind": "word",
+        "why": "the PDF's « jusqu'au aujourd'hui » holds a sound said: « à », misheard as « au »; the pass had dropped it"
+      },
+      {
+        "find": "de ne plus avoir affaire à cela",
+        "replace": "de ne plus avoir affaire à cela",
+        "kind": "word",
+        "why": "approve: « à faire à » is a transcriber's slip for « affaire à »"
+      },
+      {
+        "find": "les jeûnes, les veilles,… quand tu cours",
+        "replace": "les jeûnes, les veilles… quand tu cours",
+        "kind": "typo",
+        "why": "stray comma before the ellipsis"
+      },
+      {
+        "find": "Cela n’a rien à avoir avec cela",
+        "replace": "Cela n’a rien à voir avec cela",
+        "kind": "typo",
+        "why": "« rien à voir », as the pass corrected the same slip earlier in the text"
+      }
+    ],
+    "subtitle": "Prêché le 08 mai 2010 à Koumassi"
+  },
+  "markdown/onedrive/pdf/leretour.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "> **5** Philippe, étant descendu",
+        "replace": "> Philippe, étant descendu",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "y prêcha le Christ. **6** Les foules",
+        "replace": "y prêcha le Christ. Les foules",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "les miracles qu’il faisait. **7** Car des esprits",
+        "replace": "les miracles qu’il faisait. Car des esprits",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "de boiteux furent guéris. **8** Et il y eut",
+        "replace": "de boiteux furent guéris. Et il y eut",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "dans cette ville. **9** Il y avait auparavant",
+        "replace": "dans cette ville. Il y avait auparavant",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "peuple de la Samarie. **10** Tous, depuis",
+        "replace": "peuple de la Samarie. Tous, depuis",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "s’appelle la grande. » **11** Ils l’écoutaient",
+        "replace": "s’appelle la grande. » Ils l’écoutaient",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "> **12** Mais, quand ils eurent cru",
+        "replace": "> Mais, quand ils eurent cru",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "se firent baptiser. **13** Simon lui-même",
+        "replace": "se firent baptiser. Simon lui-même",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "prodiges qui s’opéraient. **14** Les apôtres",
+        "replace": "prodiges qui s’opéraient. Les apôtres",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "Pierre et Jean. **15** Ceux-ci",
+        "replace": "Pierre et Jean. Ceux-ci",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "qu’ils reçussent le Saint-Esprit. **16** Car il n’était",
+        "replace": "qu’ils reçussent le Saint-Esprit. Car il n’était",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "du Seigneur Jésus. **17** Alors Pierre",
+        "replace": "du Seigneur Jésus. Alors Pierre",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "> **18** Lorsque Simon vit",
+        "replace": "> Lorsque Simon vit",
+        "kind": "restore",
+        "why": "the pass added a verse number the PDF does not print"
+      },
+      {
+        "find": "Il lui a dit qu’il n’avait ni part, ni lot",
+        "replace": "Il lui a dit qu’il n’avait ni part, ni lot",
+        "kind": "word",
+        "why": "approve: the PDF doubles « que » (« dit que qu'il »), a transcriber's slip"
+      },
+      {
+        "find": "où que nous soyons, **quelle que soit notre occupation",
+        "replace": "où que nous soyons, **quelle que soit notre occupation",
+        "kind": "word",
+        "why": "approve: « quelque soit » is a spelling slip for « quelle que soit », same sounds"
+      },
+      {
+        "find": "on doit prier quelles que soient nos occupations",
+        "replace": "on doit prier quelles que soient nos occupations",
+        "kind": "word",
+        "why": "approve: « quelque soit nos occupation » is a spelling and agreement slip for « quelles que soient nos occupations », same sounds"
+      },
+      {
+        "find": "Il se faisait passer pour l’Esprit de Dieu alors",
+        "replace": "Il se faisait passer pour l’esprit de Dieu alors",
+        "kind": "revert",
+        "why": "the PDF has « l'esprit » here (the magician's spirit), capital only in the next clause; never add a capital"
+      },
+      {
+        "find": "mais Il voulait avoir l’autorité",
+        "replace": "mais il voulait avoir l’autorité",
+        "kind": "typo",
+        "why": "the pronoun is Simon the magician, not God"
+      },
+      {
+        "find": "C’est la décision de Dieu, Ce n’est pas",
+        "replace": "C’est la décision de Dieu, ce n’est pas",
+        "kind": "typo",
+        "why": "capital after a comma mid-sentence"
+      },
+      {
+        "find": "Mes frères et sœurs, **Il est très important",
+        "replace": "Mes frères et sœurs, **il est très important",
+        "kind": "typo",
+        "why": "capital after a comma mid-sentence"
+      },
+      {
+        "find": "Élie leur a dit : **« Pourquoi clochez-vous** ? »",
+        "replace": "Élie leur a dit : « **Pourquoi clochez-vous** ? »",
+        "kind": "markup",
+        "why": "the preacher's bold stays on his words, inside the guillemets"
+      },
+      {
+        "find": "Ce qui nous demande, comme Paul",
+        "replace": "Ce qu’il nous demande, comme Paul",
+        "kind": "word",
+        "why": "homophone slip « ce qui » for « ce qu'il » (what He asks of us)"
+      },
+      {
+        "find": "ce qui le caractérise, ce qu’il fait qu’on l’appelle Dieu",
+        "replace": "ce qui le caractérise, ce qui fait qu’on l’appelle Dieu",
+        "kind": "word",
+        "why": "homophone slip « ce qu'il fait » for « ce qui fait »"
+      },
+      {
+        "find": "comme soi-même parce dans ta vie de tous les jours",
+        "replace": "comme soi-même parce que dans ta vie de tous les jours",
+        "kind": "word",
+        "why": "« parce dans »: the « que » of « parce que » said but not written"
+      },
+      {
+        "find": "**Demander à Dieu de restaurer toutes choses",
+        "replace": "**Demandez à Dieu de restaurer toutes choses",
+        "kind": "typo",
+        "why": "imperative like « Priez » just before (-er for -ez)"
+      },
+      {
+        "find": "Nous n’avons pas le temps, toujours occupé à travailler",
+        "replace": "Nous n’avons pas le temps, toujours occupés à travailler",
+        "kind": "typo",
+        "why": "agreement with « nous »"
+      },
+      {
+        "find": "Sortez de la religion, **Sortez des démons du Message",
+        "replace": "Sortez de la religion, **sortez des démons du Message",
+        "kind": "typo",
+        "why": "capital after a comma mid-sentence"
+      }
+    ],
+    "subtitle": "Prêché le jeudi 21 octobre 2010 à Kinshasa"
+  },
+  "markdown/onedrive/pdf/les_fondement_combat_spirituel.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Lisons maintenant le livre d’Esther chapitre 8 verset 8 : « écrivez donc en faveur des Juifs comme il vous plaira, au nom du roi, et scellez avec l’anneau du roi ; **car une lettre écrite au nom du roi et scellée avec l’anneau du roi ne peut être révoquée** ». Il est nécessaire",
+        "replace": "Lisons maintenant le livre d’Esther chapitre 8 verset 8 :\n\n> Écrivez donc en faveur des Juifs comme il vous plaira, au nom du roi, et scellez avec l’anneau du roi ; **car une lettre écrite au nom du roi et scellée avec l’anneau du roi ne peut être révoquée**.\n\nIl est nécessaire",
+        "kind": "markup",
+        "why": "a reading he announces (Esther 8, verse 8): its own quote paragraph, bold kept"
+      },
+      {
+        "find": "Car il est écrit : « si quelqu’un a péché, nous avons un avocat auprès du père Jésus-Christ le juste » ; 1 Jean 2 :1. L’avocat",
+        "replace": "Car il est écrit :\n\n> Si quelqu’un a péché, nous avons un avocat auprès du Père, Jésus-Christ le juste. 1 Jean 2 :1.\n\nL’avocat",
+        "kind": "markup",
+        "why": "a reading with its reference: its own quote paragraph; « Père » is God the Father"
+      },
+      {
+        "find": "En voici les termes : « qu’on détruise, qu’on tue et qu’on fasse périr tous les Juifs, jeunes et vieux, petits-enfants et femmes… et pour que leurs biens soient livrés au pillage ». Esther 3 :13.",
+        "replace": "En voici les termes :\n\n> Qu’on détruise, qu’on tue et qu’on fasse périr tous les Juifs, jeunes et vieux, petits enfants et femmes… et pour que leurs biens soient livrés au pillage. Esther 3 :13.",
+        "kind": "markup",
+        "why": "the decree he reads, reference at the end as he gives it: its own quote paragraph; « petits enfants » (children), as Esther 3:13 in the Segond database, not « petits-enfants »"
+      },
+      {
+        "find": "(Ezéchiel 18 :4)",
+        "replace": "(Ézéchiel 18 :4)",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "Voilà ce qui est lu à ce propos dans Matthieu 5 :18 : « car je vous le dis en vérité, tant que le ciel et la terre ne passeront point, **il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu’à ce que tout soit arrivé** ».",
+        "replace": "Voilà ce qui est lu à ce propos dans Matthieu 5 :18 :\n\n> Car je vous le dis en vérité, tant que le ciel et la terre ne passeront point, **il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu’à ce que tout soit arrivé**.",
+        "kind": "markup",
+        "why": "a reading with its reference: its own quote paragraph, bold kept"
+      },
+      {
+        "find": "en s’appuyant sur 2 Corinthiens 5 :17 : « si quelqu’un est en Christ, il est une nouvelle créature, les choses anciennes sont passées ; voici toutes sont devenues nouvelles ». Je le crois aussi,",
+        "replace": "en s’appuyant sur 2 Corinthiens 5 :17 :\n\n> Si quelqu’un est en Christ, il est une nouvelle créature, les choses anciennes sont passées ; voici toutes sont devenues nouvelles.\n\nJe le crois aussi,",
+        "kind": "markup",
+        "why": "a reading with its reference: its own quote paragraph"
+      },
+      {
+        "find": "le premier édit. Esther 9 :1 : « … et où les ennemis des Juifs avaient espéré dominer sur eux, et ce fut le contraire qui arriva, et les Juifs dominèrent sur leurs ennemis ». Si les Juifs",
+        "replace": "le premier édit. Esther 9 :1 :\n\n> … et où les ennemis des Juifs avaient espéré dominer sur eux, et ce fut le contraire qui arriva, et les Juifs dominèrent sur leurs ennemis.\n\nSi les Juifs",
+        "kind": "markup",
+        "why": "a reading with its reference: its own quote paragraph"
+      },
+      {
+        "find": "nous lisons les versets 5 et 16 : « les Juifs frappèrent à coups d’épée tous leurs ennemis, ils les tuèrent et les firent périr ; ils traitèrent comme il leur plut ceux qui leur étaient hostiles » ; « les autres Juifs qui étaient dans les provinces du roi se rassemblèrent et défendirent leur vie ; **ils se procurèrent du repos en se délivrant de leurs ennemis**, et ils tuèrent soixante-quinze mille de ceux qui leur étaient hostiles ». Prophétiquement,",
+        "replace": "nous lisons les versets 5 et 16 :\n\n> Les Juifs frappèrent à coups d’épée tous leurs ennemis, ils les tuèrent et les firent périr ; ils traitèrent comme il leur plut ceux qui leur étaient hostiles.\n\n> Les autres Juifs qui étaient dans les provinces du roi se rassemblèrent et défendirent leur vie ; **ils se procurèrent du repos en se délivrant de leurs ennemis**, et ils tuèrent soixante-quinze mille de ceux qui leur étaient hostiles.\n\nProphétiquement,",
+        "kind": "markup",
+        "why": "the two verses he reads (5 and 16): each its own quote paragraph, bold kept"
+      },
+      {
+        "find": "Paul a dit : « c’est pour cela qu’il y a parmi vous beaucoup d’infirmes et de malades, et qu’un grand nombre sont morts et si nous nous jugions nous-mêmes, nous ne serions pas jugés ». 1 Corinthiens 11 :30-31.",
+        "replace": "Paul a dit :\n\n> C’est pour cela qu’il y a parmi vous beaucoup d’infirmes et de malades, et qu’un grand nombre sont morts et si nous nous jugions nous-mêmes, nous ne serions pas jugés. 1 Corinthiens 11 :30-31.",
+        "kind": "markup",
+        "why": "a reading, reference at the end as he gives it: its own quote paragraph"
+      },
+      {
+        "find": "Car il est écrit dans Colossiens 2 :15 : « il a dépouillé les dominations et les autorités, les a livrées publiquement en spectacle en triomphant d’elles par la croix ». **Avant",
+        "replace": "Car il est écrit dans Colossiens 2 :15 :\n\n> Il a dépouillé les dominations et les autorités, les a livrées publiquement en spectacle en triomphant d’elles par la croix.\n\n**Avant",
+        "kind": "markup",
+        "why": "a reading with its reference: its own quote paragraph"
+      },
+      {
+        "find": "sur laquelle nous devons méditer : « L’Esprit du Seigneur est sur moi,",
+        "replace": "sur laquelle nous devons méditer :\n\n> L’Esprit du Seigneur est sur moi,",
+        "kind": "markup",
+        "why": "the verses of Luke 4 he reads (announced in the sentence): its own quote paragraph"
+      },
+      {
+        "find": "**pour publier une année de grâce du seigneur** ». Ainsi, c’est",
+        "replace": "**pour publier une année de grâce du Seigneur**.\n\nAinsi, c’est",
+        "kind": "markup",
+        "why": "end of the quote paragraph; « Seigneur » (the Lord) takes its capital as everywhere in the text"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/les_geoles_de_satan.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "encore vus dans l’après-midi",
+        "replace": "encore vus dans l’après-midi",
+        "kind": "word",
+        "why": "approve: the PDF's doubled article « dans la l'après-midi » is a transcriber's slip"
+      },
+      {
+        "find": "Allez-y relire vous allez voir",
+        "replace": "Allez-y relire vous allez voir",
+        "kind": "word",
+        "why": "approve: the PDF's « Allez-s-y » has a stray letter"
+      },
+      {
+        "find": "ta marche s’arrête ! **« Si vous pardonnez aux hommes",
+        "replace": "ta marche s’arrête !\n\n> **Si vous pardonnez aux hommes",
+        "kind": "markup",
+        "why": "the reading he reads becomes its own quote paragraph, bold as in the PDF"
+      },
+      {
+        "find": "pas non plus vos offenses »**. (Matthieu 6:14-15)",
+        "replace": "pas non plus vos offenses**. (Matthieu 6:14-15)",
+        "kind": "markup",
+        "why": "close of the reading, now a quote"
+      },
+      {
+        "find": "qu’on aille réparer ! « Si donc tu présentes",
+        "replace": "qu’on aille réparer !\n\n> Si donc tu présentes",
+        "kind": "markup",
+        "why": "the reading he reads becomes its own quote paragraph"
+      },
+      {
+        "find": "viens présenter ton offrande » (Matthieu 5:23-14). Si c’est notre frère aussi qui nous a offensé,",
+        "replace": "viens présenter ton offrande (Matthieu 5:23-14).\n\nSi c’est notre frère aussi qui nous a offensés,",
+        "kind": "markup",
+        "why": "end of the quote; his sentence resumes as a paragraph; « nous a offensés » agreement slip"
+      },
+      {
+        "find": "C’est pourquoi la Bible dit : Nous tous qui, le visage",
+        "replace": "C’est pourquoi la Bible dit :\n\n> Nous tous qui, le visage",
+        "kind": "markup",
+        "why": "the verse he reads again becomes its own quote paragraph"
+      },
+      {
+        "find": "je vous effraie dans cette Église à tout moment",
+        "replace": "je vous effraie dans cette église à tout moment",
+        "kind": "revert",
+        "why": "the PDF has « église » in lower case; never add a capital"
+      },
+      {
+        "find": "une sœur qui est dans cette Église peut se refroidir",
+        "replace": "une sœur qui est dans cette église peut se refroidir",
+        "kind": "revert",
+        "why": "the PDF has « église » in lower case; never add a capital"
+      },
+      {
+        "find": "Ne soyez pas prisonniers d’une Église.",
+        "replace": "Ne soyez pas prisonniers d’une église.",
+        "kind": "revert",
+        "why": "the PDF has « église » in lower case; never add a capital"
+      },
+      {
+        "find": "des cellules au sein de l’Église et ils",
+        "replace": "des cellules au sein de l’église et ils",
+        "kind": "revert",
+        "why": "the PDF has « l'église » in lower case; never add a capital"
+      },
+      {
+        "find": "Le but de ma prédication, Le but du réveil",
+        "replace": "Le but de ma prédication, le but du réveil",
+        "kind": "typo",
+        "why": "capital after a comma mid-sentence"
+      },
+      {
+        "find": "notre père Abraham… Les corinthiens se sont soumis",
+        "replace": "notre père Abraham… Les Corinthiens se sont soumis",
+        "kind": "typo",
+        "why": "a people takes a capital (as the pass did elsewhere)"
+      },
+      {
+        "find": "Ni ceux de M’BRA, Non** !",
+        "replace": "Ni ceux de M’BRA, non** !",
+        "kind": "typo",
+        "why": "capital after a comma mid-sentence"
+      },
+      {
+        "find": "C’est le Christ qu’on voit voir.",
+        "replace": "C’est le Christ qu’on doit voir.",
+        "kind": "typo",
+        "why": "« voit » for « doit », as in the sentences just before: « C'est Lui qu'on doit voir »"
+      },
+      {
+        "find": "ce que ça nous a fait, ce que ça coûté…",
+        "replace": "ce que ça nous a fait, ce que ça a coûté…",
+        "kind": "word",
+        "why": "« ça coûté » for « ça a coûté », the auxiliary said but not written"
+      }
+    ],
+    "subtitle": "Prêché dans la nuit du samedi 25 août 2013 à Koumassi"
+  },
+  "markdown/onedrive/pdf/les_noms_de_ennemi.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Donc frères, dans l’Église, si vous trouvez un frère",
+        "replace": "Donc frères, dans l’église, si vous trouvez un frère",
+        "kind": "revert",
+        "why": "the original has « l'église »: the pass added a capital"
+      },
+      {
+        "find": "Même parmi nous à l’Église, il y a des frères",
+        "replace": "Même parmi nous à l’église, il y a des frères",
+        "kind": "revert",
+        "why": "the original has « l'église »: the pass added a capital"
+      },
+      {
+        "find": "il torture les chrétiens dans l’Église. Les démons",
+        "replace": "il torture les chrétiens dans l’église. Les démons",
+        "kind": "revert",
+        "why": "the original has « l'église »: the pass added a capital"
+      }
+    ],
+    "subtitle": "Prêché le dimanche 11 mars 2012 à Koumassi, Abidjan"
+  },
+  "markdown/onedrive/pdf/les_pleurs_de_delivrance.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "échanges entre Jésus et les saducéens.",
+        "replace": "échanges entre Jésus et les sadducéens.",
+        "kind": "typo",
+        "why": "misspelling of « sadducéens », as the Matthieu 16 reading spells it"
+      },
+      {
+        "find": "pharisiens et vous les saducéens.",
+        "replace": "pharisiens et vous les sadducéens.",
+        "kind": "typo",
+        "why": "misspelling of « sadducéens »"
+      },
+      {
+        "find": "Mais ceux-là, les saducéens, les pharisiens",
+        "replace": "Mais ceux-là, les sadducéens, les pharisiens",
+        "kind": "typo",
+        "why": "misspelling of « sadducéens »"
+      },
+      {
+        "find": "et les pharisiens et les saducéens n’avaient",
+        "replace": "et les pharisiens et les sadducéens n’avaient",
+        "kind": "typo",
+        "why": "misspelling of « sadducéens »"
+      },
+      {
+        "find": "le Seigneur m’a dit « l’heure n’est pas",
+        "replace": "le Seigneur m’a dit « L’heure n’est pas",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "Il a dit** « **leurs noms sont",
+        "replace": "Il a dit** « **Leurs noms sont",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "Il m’a dit « leurs noms sont",
+        "replace": "Il m’a dit « Leurs noms sont",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "Il leur a dit « mais vous, vous",
+        "replace": "Il leur a dit « Mais vous, vous",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "de toutes parts ; Ils te détruiront",
+        "replace": "de toutes parts ; ils te détruiront",
+        "kind": "typo",
+        "why": "no capital after a semicolon"
+      },
+      {
+        "find": "vont pleurer demain ; Mais ce sera",
+        "replace": "vont pleurer demain ; mais ce sera",
+        "kind": "typo",
+        "why": "no capital after a semicolon"
+      },
+      {
+        "find": "tellement abondantes que ça commencé à nettoyer",
+        "replace": "tellement abondantes que ça a commencé à nettoyer",
+        "kind": "word",
+        "why": "transcriber's slip: « ça commencé » for « ça a commencé »"
+      },
+      {
+        "find": "et Jésus en a trouvés plusieurs",
+        "replace": "et Jésus en a trouvé plusieurs",
+        "kind": "typo",
+        "why": "agreement slip: the participle does not agree with « en »"
+      },
+      {
+        "find": "dans Job : **Si tu es juste, est-ce que c’est à l’avantage du Tout-Puissant** ? Non",
+        "replace": "dans Job : « **Si tu es juste, est-ce que c’est à l’avantage du Tout-Puissant** ? » Non",
+        "kind": "markup",
+        "why": "short citation inside his sentence goes in « »"
+      }
+    ],
+    "subtitle": "Prêché à Lausanne, Suisse, le 19 janvier 2008"
+  },
+  "markdown/onedrive/pdf/les_souvenirs_du_desert.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Normalement, le week-end prochain",
+        "replace": "Normalement, le week-end prochain",
+        "kind": "word",
+        "why": "approve: the PDF doubles « end » (« le week-end end prochain »), a transcriber's slip"
+      },
+      {
+        "find": "Même Caleb ; Il a dit",
+        "replace": "Même Caleb ; il a dit",
+        "kind": "typo",
+        "why": "« il » is Caleb, not God: no capital after the semicolon"
+      },
+      {
+        "find": "mangées jusqu’à ce que. Mais tout cela",
+        "replace": "mangées jusqu’à ce que… Mais tout cela",
+        "kind": "typo",
+        "why": "an unfinished sentence: suspension points, as elsewhere in the text"
+      }
+    ],
+    "subtitle": "Prêché le dimanche 1er avril 2012 à Koumassi"
+  },
+  "markdown/onedrive/pdf/les_temps_de_Noe.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Dans leur cœur, il n’y a avait pas le bien.",
+        "replace": "Dans leur cœur, il n’y avait pas le bien.",
+        "kind": "word",
+        "why": "transcriber's slip: « il n’y a avait » for « il n’y avait »"
+      },
+      {
+        "find": "que Jésus est venu**, **Pour que le mal",
+        "replace": "que Jésus est venu**, **pour que le mal",
+        "kind": "typo",
+        "why": "no capital after a comma, mid-sentence"
+      },
+      {
+        "find": "la révélation de la DIVINITÉ ; frères.",
+        "replace": "la révélation de la DIVINITÉ, frères.",
+        "kind": "typo",
+        "why": "punctuation: a comma before the vocative « frères », not a semicolon"
+      },
+      {
+        "find": "C’est comme cela. Entre temps, il faut",
+        "replace": "C’est comme cela. Entre-temps, il faut",
+        "kind": "typo",
+        "why": "hyphen in the compound « entre-temps »"
+      },
+      {
+        "find": "> **5 L’Éternel vit que la méchanceté",
+        "replace": "> **5** **L’Éternel vit que la méchanceté",
+        "kind": "markup",
+        "why": "verse number bolded on its own, the verse keeps its bold"
+      },
+      {
+        "find": "uniquement vers le mal. 6 L’Éternel se repentit",
+        "replace": "uniquement vers le mal**. **6** **L’Éternel se repentit",
+        "kind": "markup",
+        "why": "verse number bolded on its own, the verse keeps its bold"
+      }
+    ],
+    "subtitle": "Prêché à Morofé (Yamoussoukro) le dimanche 09 décembre 2012"
+  },
+  "markdown/onedrive/pdf/lesac.md": {
+    "title": "Le sac et la cendre",
+    "fixes": [
+      {
+        "find": "vu l’environnement spirituel dans lequel",
+        "replace": "vu l’environnement spirituel dans lequel",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 2 »"
+      },
+      {
+        "find": "le Seigneur a dit, quand tu fais ton offrande",
+        "replace": "le Seigneur a dit, quand tu fais ton offrande",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 3 »"
+      },
+      {
+        "find": "par la révélation. Amen ?",
+        "replace": "par la révélation. Amen ?",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 4 »"
+      },
+      {
+        "find": "**Les prophéties disent que ça été dévoré.",
+        "replace": "**Les prophéties disent que ça a été dévoré.",
+        "kind": "word",
+        "why": "« ça été »: the « a » was said but not written"
+      },
+      {
+        "find": "Ça été dévoré** ! Alors, comme ça été dévoré, ça doit",
+        "replace": "Ça a été dévoré** ! Alors, comme ça a été dévoré, ça doit",
+        "kind": "word",
+        "why": "« ça été » twice: the « a » was said but not written; also approves the pass's removal of the PDF page number here (not the preacher's word) « 5 »"
+      },
+      {
+        "find": "en ces mots :\n>\n> **2**. Lève-toi",
+        "replace": "en ces mots :\n>\n> **2**. Lève-toi",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 6 »"
+      },
+      {
+        "find": "point repenties.\n>\n> **21**. Malheur",
+        "replace": "point repenties.\n>\n> **21**. Malheur",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 7 »"
+      },
+      {
+        "find": "le royaume qui dominait la région",
+        "replace": "le royaume qui dominait la région",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 8 »"
+      },
+      {
+        "find": "chrétiens parce que le sac et la cendre, c’est vraiment",
+        "replace": "chrétiens parce que le sac et la cendre, c’est vraiment",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 9 »"
+      },
+      {
+        "find": "pour nous instruire.\n\nMaintenant, dans le Nouveau",
+        "replace": "pour nous instruire.\n\nMaintenant, dans le Nouveau",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 10 »"
+      },
+      {
+        "find": "avaient ce comportement-là.",
+        "replace": "avaient ce comportement-là.",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 11 »"
+      },
+      {
+        "find": "retourner à Jérusalem…\n\nAlors, il s’est senti",
+        "replace": "retourner à Jérusalem…\n\nAlors, il s’est senti",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 12 »"
+      },
+      {
+        "find": "c’est la destruction, c’est la déchéance",
+        "replace": "c’est la destruction, c’est la déchéance",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 13 »"
+      },
+      {
+        "find": "tu vas mourir ! Beaucoup feront ça",
+        "replace": "tu vas mourir ! Beaucoup feront ça",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 14 »"
+      },
+      {
+        "find": "vous êtes menacés dans le pays",
+        "replace": "vous êtes menacés dans le pays",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 15 »"
+      },
+      {
+        "find": "le Seigneur revienne. Amen !\n\n**Dans ces temps",
+        "replace": "le Seigneur revienne. Amen !\n\n**Dans ces temps",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 16 »"
+      },
+      {
+        "find": "doit avoir pour lui-même**. Que Dieu nous bénisse.",
+        "replace": "doit avoir pour lui-même**. Que Dieu nous bénisse.",
+        "kind": "word",
+        "why": "approves the pass's removal of the PDF page number here (not the preacher's word) « 17 »"
+      },
+      {
+        "find": "Préparez au désert le chemin du Seigneur** ! ».",
+        "replace": "Préparez au désert le chemin du Seigneur** ! »",
+        "kind": "typo",
+        "why": "double final punctuation"
+      },
+      {
+        "find": "ils ne savent pas ce qu’ils font** ! ».",
+        "replace": "ils ne savent pas ce qu’ils font** ! »",
+        "kind": "typo",
+        "why": "double final punctuation"
+      },
+      {
+        "find": "que vous êtes mes disciples » Amen !",
+        "replace": "que vous êtes mes disciples ». Amen !",
+        "kind": "typo",
+        "why": "missing full stop after the citation"
+      },
+      {
+        "find": "Ils ne se tairont ni jour ni nuit » Ils vont prier",
+        "replace": "Ils ne se tairont ni jour ni nuit ». Ils vont prier",
+        "kind": "typo",
+        "why": "missing full stop after the citation"
+      },
+      {
+        "find": "> **1** Puis la parole de l’Éternel",
+        "replace": "> **1**. Puis la parole de l’Éternel",
+        "kind": "markup",
+        "why": "verse number formatted like the others"
+      },
+      {
+        "find": "ils publièrent un jeûne et se revêtir de sacs",
+        "replace": "ils publièrent un jeûne et se revêtirent de sacs",
+        "kind": "typo",
+        "why": "verb of the reading, as « publièrent »: transcriber's slip"
+      },
+      {
+        "find": "Et toi, Capernaüm, qui a été élevée",
+        "replace": "Et toi, Capernaüm, qui as été élevée",
+        "kind": "typo",
+        "why": "agreement with « toi »"
+      },
+      {
+        "find": "> **22**. C’est pourquoi je vous dis que le sort du pays de Sodome",
+        "replace": "> **24**. C’est pourquoi je vous dis que le sort du pays de Sodome",
+        "kind": "typo",
+        "why": "the reading's second « 22 » is the Sodome verse, 24 in Matthieu 11 (the Segond database: 11:24)"
+      },
+      {
+        "find": "Donc, nous avons parlé de l’Évangile de grâce",
+        "replace": "Donc, nous avons parlé de l’Évangile de grâce",
+        "kind": "word",
+        "why": "the PDF's page number « 4 » before this line, removed by the pass"
+      }
+    ],
+    "subtitle": "Prêché à Lausanne, le 14 juin 2010"
+  },
+  "markdown/onedrive/pdf/lescles_du_royaume.md": {
+    "title": "Les clefs du royaume de Dieu",
+    "fixes": [
+      {
+        "find": "« **À Dieu tout est possible** » et « **À celui qui croit",
+        "replace": "« **À Dieu tout est possible** » **et** « **À celui qui croit",
+        "kind": "restore",
+        "why": "the PDF has « et » in bold with the two sayings"
+      },
+      {
+        "find": "toutes les autres fonctions dans l’Église. Les clés",
+        "replace": "toutes les autres fonctions dans l’église. Les clés",
+        "kind": "revert",
+        "why": "the PDF has « l'église » in lower case; never add a capital"
+      },
+      {
+        "find": "de ses capacités spirituels…",
+        "replace": "de ses capacités spirituelles…",
+        "kind": "typo",
+        "why": "agreement with « capacités »"
+      },
+      {
+        "find": "sur la terre de s’assujettis toute chose",
+        "replace": "sur la terre de s’assujettir toute chose",
+        "kind": "typo",
+        "why": "infinitive after « de » (-is for -ir, same sound)"
+      },
+      {
+        "find": "doit savoir que c’est L’homme spirituel qui parle",
+        "replace": "doit savoir que c’est l’homme spirituel qui parle",
+        "kind": "typo",
+        "why": "capital mid-sentence"
+      },
+      {
+        "find": "la parole est déjà prononcée et ça exprimé ma volonté",
+        "replace": "la parole est déjà prononcée et ça a exprimé ma volonté",
+        "kind": "word",
+        "why": "« ça exprimé » for « ça a exprimé », the auxiliary said but not written"
+      },
+      {
+        "find": "Ce n’est pas normal, Elisabeth,",
+        "replace": "Ce n’est pas normal, Élisabeth,",
+        "kind": "typo",
+        "why": "accent on a capital"
+      },
+      {
+        "find": "me donne la guérison de ses sœurs.",
+        "replace": "me donne la guérison de ces sœurs.",
+        "kind": "typo",
+        "why": "homophone: « ces sœurs », the sisters he spoke of earlier (« la délivrance de ces sœurs »)"
+      }
+    ],
+    "subtitle": "Prêché le dimanche 30 juin 2013 à Koumassi"
+  },
+  "markdown/onedrive/pdf/lesdeuxarbres.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "« **les deux arbres** » ou « **du jardin",
+        "replace": "« **les deux arbres** » **ou** « **du jardin",
+        "kind": "restore",
+        "why": "the PDF bolds the whole title phrase, « ou » included"
+      },
+      {
+        "find": "la capacité de t’édifier",
+        "replace": "la capacité de t’édifier",
+        "kind": "word",
+        "why": "approve: the PDF's « de ‘édifier » lost the « t » of « t’édifier »"
+      },
+      {
+        "find": "C’est Lui qui t’a créé, Il te donne",
+        "replace": "C’est lui qui t’a créé, Il te donne",
+        "kind": "revert",
+        "why": "the PDF has « lui »: keep his capitals, never add one"
+      },
+      {
+        "find": "donc Il faut que Dieu réveille",
+        "replace": "donc il faut que Dieu réveille",
+        "kind": "typo",
+        "why": "impersonal « il faut »: no capital mid-sentence"
+      },
+      {
+        "find": "Sans effusion de Sang, Il n’y avait pas",
+        "replace": "Sans effusion de Sang, il n’y avait pas",
+        "kind": "typo",
+        "why": "impersonal « il n’y avait »: no capital mid-sentence"
+      },
+      {
+        "find": "L’esprit renouvelé produit aussi une intelligence renouvelée. Ne vous conformez",
+        "replace": "L’esprit renouvelé produit aussi une intelligence renouvelée.\n\n> Ne vous conformez",
+        "kind": "markup",
+        "why": "the verse he reads, with its reference (Romains 12:2) at the end: its own quote paragraph"
+      },
+      {
+        "find": "ce qui est bon, agréable et parfait. (Romains 12:2) Le cœur, c’est pareil",
+        "replace": "ce qui est bon, agréable et parfait. (Romains 12:2)\n\nLe cœur, c’est pareil",
+        "kind": "markup",
+        "why": "end of the quote paragraph"
+      },
+      {
+        "find": "Matthieu 22 verset 30",
+        "replace": "Mathieu 22 verset 30",
+        "kind": "revert",
+        "why": "references stay in the preacher's form (the PDF has « Mathieu »)"
+      },
+      {
+        "find": "ils sont encore dans ce corps qui les a faits tomber",
+        "replace": "ils sont encore dans ce corps qui les a fait tomber",
+        "kind": "typo",
+        "why": "« fait » before an infinitive does not agree"
+      },
+      {
+        "find": "par l’offrande du corps de Jésus-Christ, une fois pour toute**",
+        "replace": "par l’offrande du corps de Jésus-Christ, une fois pour toutes**",
+        "kind": "typo",
+        "why": "« une fois pour toutes »"
+      },
+      {
+        "find": "temps d’ignorance une fois pour toute.",
+        "replace": "temps d’ignorance une fois pour toutes.",
+        "kind": "typo",
+        "why": "« une fois pour toutes »"
+      },
+      {
+        "find": "La sanctification qui a été faite une bonne fois pour toute,",
+        "replace": "La sanctification qui a été faite une bonne fois pour toutes,",
+        "kind": "typo",
+        "why": "« une fois pour toutes »"
+      },
+      {
+        "find": "on a été sanctifiés une bonne fois pour toute.",
+        "replace": "on a été sanctifiés une bonne fois pour toutes.",
+        "kind": "typo",
+        "why": "« une fois pour toutes »"
+      },
+      {
+        "find": "On a été sanctifié une bonne fois pour toute.",
+        "replace": "On a été sanctifié une bonne fois pour toutes.",
+        "kind": "typo",
+        "why": "« une fois pour toutes »"
+      },
+      {
+        "find": "Si j’ai été sanctifié une bonne fois pour toute et",
+        "replace": "Si j’ai été sanctifié une bonne fois pour toutes et",
+        "kind": "typo",
+        "why": "« une fois pour toutes »"
+      },
+      {
+        "find": "Il a dit à Timothée : « La recommandation que je t’adresse",
+        "replace": "Il a dit à Timothée :\n\n> La recommandation que je t’adresse",
+        "kind": "markup",
+        "why": "the verses he reads, with their reference (1 Timothée 1 :18-19) at the end: their own quote paragraph"
+      },
+      {
+        "find": "en ce qui concerne la foi**. » (1 Timothée 1 :18-19)",
+        "replace": "en ce qui concerne la foi**. (1 Timothée 1 :18-19)",
+        "kind": "markup",
+        "why": "end of the quote paragraph"
+      },
+      {
+        "find": "Quand Paul parlait aux corinthiens",
+        "replace": "Quand Paul parlait aux Corinthiens",
+        "kind": "typo",
+        "why": "a people takes a capital"
+      },
+      {
+        "find": "Il parlait aux corinthiens.",
+        "replace": "Il parlait aux Corinthiens.",
+        "kind": "typo",
+        "why": "a people takes a capital"
+      },
+      {
+        "find": "Il dit : je vous ai engendré. Amen",
+        "replace": "Il dit : je vous ai engendrés. Amen",
+        "kind": "typo",
+        "why": "agreement with « vous » (the Corinthians)"
+      },
+      {
+        "find": "je vous ai engendré par la Parole de Christ",
+        "replace": "je vous ai engendrés par la Parole de Christ",
+        "kind": "typo",
+        "why": "agreement with « vous » (the Corinthians)"
+      },
+      {
+        "find": "je vous ai engendré par l’Évangile",
+        "replace": "je vous ai engendrés par l’Évangile",
+        "kind": "typo",
+        "why": "agreement with « vous » (the Corinthians)"
+      },
+      {
+        "find": "comme ils en ont eus.",
+        "replace": "comme ils en ont eu.",
+        "kind": "typo",
+        "why": "« en » does not make the participle agree"
+      },
+      {
+        "find": "ceux que Dieu m’a donnés, Personne ne peut",
+        "replace": "ceux que Dieu m’a donnés, personne ne peut",
+        "kind": "typo",
+        "why": "no capital mid-sentence"
+      },
+      {
+        "find": "(Ezéchiel 47)",
+        "replace": "(Ézéchiel 47)",
+        "kind": "typo",
+        "why": "accent on the capital"
+      },
+      {
+        "find": "Lisons Hébreux 12 verset 29 : « Car notre Dieu est aussi un feu dévorant. » Vous voyez",
+        "replace": "Lisons Hébreux 12 verset 29 :\n\n> Car notre Dieu est aussi un feu dévorant.\n\nVous voyez",
+        "kind": "markup",
+        "why": "the verse he reads: its own quote paragraph"
+      }
+    ],
+    "subtitle": "Prêché le dimanche 25 juillet 2010 à Koumassi"
+  },
+  "markdown/onedrive/pdf/lesfils.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "ça doit être avec **assurance**.",
+        "replace": "ça doit être avec assurance.",
+        "kind": "restore",
+        "why": "bold the pass added; the original has none"
+      },
+      {
+        "find": "Le temple n’est plus le temple de Dieu, ça dévié ;",
+        "replace": "Le temple n’est plus le temple de Dieu, ça a dévié ;",
+        "kind": "word",
+        "why": "« ça dévié »: the « a » was said but not written"
+      },
+      {
+        "find": "par les saints anges ; Il mangeait les criquets",
+        "replace": "par les saints anges ; il mangeait les criquets",
+        "kind": "typo",
+        "why": "stray capital after a semicolon (Jean, not God)"
+      },
+      {
+        "find": "il est allé faire Trois ans ;",
+        "replace": "il est allé faire trois ans ;",
+        "kind": "typo",
+        "why": "stray capital mid-sentence"
+      },
+      {
+        "find": "soient tirés du palais de pharaon, au désert",
+        "replace": "soient tirés du palais de Pharaon, au désert",
+        "kind": "typo",
+        "why": "proper name, capital as everywhere else in the text"
+      },
+      {
+        "find": "**C’était des « Égyptiens** ».",
+        "replace": "**C’était des « Égyptiens »**.",
+        "kind": "markup",
+        "why": "closing guillemet inside the bold with its word"
+      },
+      {
+        "find": "**« Je traite durement mon corps, afin de le tenir assujetti… Parce qu’au désert, le corps souffre »**.",
+        "replace": "**« Je traite durement mon corps, afin de le tenir assujetti… » Parce qu’au désert, le corps souffre**.",
+        "kind": "markup",
+        "why": "the quotation ends before his own comment"
+      },
+      {
+        "find": "Qu’est-ce qui n’a pas vu, frères ?",
+        "replace": "Qu’est-ce qu’il n’a pas vu, frères ?",
+        "kind": "word",
+        "why": "homophone « qui »/« qu’il »: Paul has seen everything"
+      },
+      {
+        "find": "renverser Jéricho, renverser Aïe,",
+        "replace": "renverser Jéricho, renverser Aï,",
+        "kind": "typo",
+        "why": "biblical name, Bible spelling « Aï »"
+      },
+      {
+        "find": "Ils sont arrivés à Aïe,",
+        "replace": "Ils sont arrivés à Aï,",
+        "kind": "typo",
+        "why": "biblical name, Bible spelling « Aï »"
+      }
+    ],
+    "subtitle": "Prêché à Koumassi le dimanche 1er mars 2009"
+  },
+  "markdown/onedrive/pdf/lesvoisins.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "avec ses voisins, ça été au mépris de Dieu",
+        "replace": "avec ses voisins, ça a été au mépris de Dieu",
+        "kind": "word",
+        "why": "transcriber's slip: « ça été » for « ça a été »"
+      },
+      {
+        "find": "des Cananéens, des Hétiens, des Amoréens",
+        "replace": "des Cananéens, des Héthiens, des Amoréens",
+        "kind": "typo",
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
+      },
+      {
+        "find": "des Héviens et des Jébbusiens ;",
+        "replace": "des Héviens et des Jébusiens ;",
+        "kind": "typo",
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
+      },
+      {
+        "find": "chez les Amoréens, les Hétiens, les Phéréziens",
+        "replace": "chez les Amoréens, les Héthiens, les Phéréziens",
+        "kind": "typo",
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
+      },
+      {
+        "find": "les Héviens et les Gébusiens, et",
+        "replace": "les Héviens et les Jébusiens, et",
+        "kind": "typo",
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
+      },
+      {
+        "find": "les Cananéens et les Hétiens. Je ne les",
+        "replace": "les Cananéens et les Héthiens. Je ne les",
+        "kind": "typo",
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
+      }
+    ],
+    "subtitle": "Prêché à Lausanne le 24 janvier 2008"
+  },
+  "markdown/onedrive/pdf/lezeleduseigneur.md": {
+    "title": "Le zèle pour l’Éternel",
+    "fixes": [
+      {
+        "find": "pas d’autres choses, Kadjani",
+        "replace": "pas d’autres choses, Kadjani",
+        "kind": "word",
+        "why": "approve: the PDF's « il n’y a pas autres choses » lost the « d’ » that is heard"
+      },
+      {
+        "find": "il a accompli tout le travail avec le zèle",
+        "replace": "il a accompli tout le travail avec le zèle",
+        "kind": "word",
+        "why": "approve: the PDF's « il accompli » lost the auxiliary « a »"
+      },
+      {
+        "find": "Dieu lui a fait une promesse : « l’Éternel dit à Jéhu : parce que tu as bien exécuté ce qui est droit à mes yeux et que tu as fait à la maison d’Achab tout ce qui était conforme à ma volonté, tes fils jusqu’à la quatrième génération seront assis sur le trône d’Israël ». **Voici",
+        "replace": "Dieu lui a fait une promesse :\n\n> L’Éternel dit à Jéhu : Parce que tu as bien exécuté ce qui est droit à mes yeux et que tu as fait à la maison d’Achab tout ce qui était conforme à ma volonté, tes fils jusqu’à la quatrième génération seront assis sur le trône d’Israël.\n\n**Voici",
+        "kind": "markup",
+        "why": "the verse of the promise he quotes (read at the start): its own quote paragraph"
+      },
+      {
+        "find": "on le lit au chapitre 6 :15 : **Mettez pour chaussure à vos pieds, le zèle que donne l’Évangile de paix**. C’est une arme",
+        "replace": "on le lit au chapitre 6 :15 :\n\n> **Mettez pour chaussure à vos pieds, le zèle que donne l’Évangile de paix**.\n\nC’est une arme",
+        "kind": "markup",
+        "why": "the verse he reads: its own quote paragraph, bold kept"
+      },
+      {
+        "find": "De là, je suis allé à Diégonefla.",
+        "replace": "De là, je suis allé à Diégonéfla.",
+        "kind": "typo",
+        "why": "the town's name as the text spells it earlier (« Diégonéfla », with the transcriber's note)"
+      },
+      {
+        "find": "Mais ça été difficile pour les frères.",
+        "replace": "Mais ça a été difficile pour les frères.",
+        "kind": "word",
+        "why": "« ça été » → « ça a été »: the auxiliary is heard, not written"
+      },
+      {
+        "find": "Mais au temps de Paul, ils marchaient.",
+        "replace": "Mais au temps des Paul, ils marchaient.",
+        "kind": "revert",
+        "why": "« des » → « de » is not a homophone: his words kept"
+      },
+      {
+        "find": "> **11 Ayez du zèle, et non de la paresse.",
+        "replace": "> **11** **Ayez du zèle, et non de la paresse.",
+        "kind": "markup",
+        "why": "verse number set apart from the preacher's bold"
+      },
+      {
+        "find": "comment tu vas le Servir ?",
+        "replace": "comment tu vas le servir ?",
+        "kind": "typo",
+        "why": "no capital on a verb mid-sentence"
+      },
+      {
+        "find": "**5 Car un enfant nous est né, un fils nous est donné, Et la domination",
+        "replace": "**5** **Car un enfant nous est né, un fils nous est donné, Et la domination",
+        "kind": "markup",
+        "why": "verse number set apart from the preacher's bold"
+      },
+      {
+        "find": "Il y en même qui jeûnent plusieurs jours",
+        "replace": "Il y en a même qui jeûnent plusieurs jours",
+        "kind": "word",
+        "why": "« Il y en même » → « Il y en a même »: the « a » is heard, not written"
+      }
+    ],
+    "subtitle": "Prêché à Koumassi, le dimanche 27 mars 2011"
+  },
+  "markdown/onedrive/pdf/malchair.md": {
+    "title": "La malédiction de la chair",
+    "fixes": [
+      {
+        "find": "vous allez voir que l’Église se portera mieux",
+        "replace": "vous allez voir que l’église se portera mieux",
+        "kind": "revert",
+        "why": "the original has « l'église » (this local church): the pass added a capital"
+      },
+      {
+        "find": "Maintenant on lit le Psaume 146 :",
+        "replace": "Maintenant on lit le Psaumes 146 :",
+        "kind": "revert",
+        "why": "the reference stays in the preacher's form « Psaumes 146 »"
+      },
+      {
+        "find": "(Alléluia !) « **Tu penses que tu vois, mais tu ne vois pas** ») [Cf",
+        "replace": "(Alléluia !) « **Tu penses que tu vois, mais tu ne vois pas** » [Cf",
+        "kind": "typo",
+        "why": "stray closing parenthesis after the closing guillemet"
+      },
+      {
+        "find": "Et quand Dieu voit dans l’Église que les frères",
+        "replace": "Et quand Dieu voit dans l’église que les frères",
+        "kind": "revert",
+        "why": "the original has « l'église »: the pass added a capital"
+      },
+      {
+        "find": "Quand Dieu voit que dans l’Église, votre cœur",
+        "replace": "Quand Dieu voit que dans l’église, votre cœur",
+        "kind": "revert",
+        "why": "the original has « l'église »: the pass added a capital"
+      },
+      {
+        "find": "vers un frère dans l’Église de manière particulière",
+        "replace": "vers un frère dans l’église de manière particulière",
+        "kind": "revert",
+        "why": "the original has « l'église »: the pass added a capital"
+      },
+      {
+        "find": "Le frère, il tombe où il a un problème",
+        "replace": "Le frère, il tombe ou il a un problème",
+        "kind": "typo",
+        "why": "homophone: « ou » (he falls or he has a problem)"
+      },
+      {
+        "find": "sœurs qui sont dans l’Église, qui sont des hommes de prière",
+        "replace": "sœurs qui sont dans l’église, qui sont des hommes de prière",
+        "kind": "revert",
+        "why": "the original has « l'église »: the pass added a capital"
+      },
+      {
+        "find": "des personnes dans l’Église qui ont une certaine position",
+        "replace": "des personnes dans l’église qui ont une certaine position",
+        "kind": "revert",
+        "why": "the original has « l'église »: the pass added a capital"
+      },
+      {
+        "find": "un homme c’est un homme** ! [Amen ! Réd. Alléluia ! Amen ! Réd] **Un homme, c’est un homme !",
+        "replace": "un homme c’est un homme** ! **[Amen ! Réd. Alléluia ! Amen ! Réd] Un homme, c’est un homme !",
+        "kind": "restore",
+        "why": "the original has this bracket in bold, inside the bold run"
+      },
+      {
+        "find": "Vous allez le pleurer demain, soit il meure ou bien il commet",
+        "replace": "Vous allez le pleurer demain, soit il meurt ou bien il commet",
+        "kind": "typo",
+        "why": "indicative, parallel to « il commet »: homophone slip"
+      },
+      {
+        "find": "Il faut qu’un jour on voit que celui-là",
+        "replace": "Il faut qu’un jour on voie que celui-là",
+        "kind": "typo",
+        "why": "subjunctive after « il faut que »: homophone slip"
+      },
+      {
+        "find": "comme la femme dont Jésus a parlée",
+        "replace": "comme la femme dont Jésus a parlé",
+        "kind": "typo",
+        "why": "past participle with « dont » does not agree"
+      },
+      {
+        "find": "Le trouver** [L’assemblée crie Amen ! Réd]",
+        "replace": "Le trouver** [Assemblée crie Amen ! Réd]",
+        "kind": "restore",
+        "why": "the pass added « L' »: restore the original's words"
+      },
+      {
+        "find": "c’est parmi nous qu’il y a la confusion",
+        "replace": "c’est parmi nous qu’il y a la confusion",
+        "kind": "word",
+        "why": "approve: the original doubles « il » (« qu'il il y a »), a transcriber's slip"
+      },
+      {
+        "find": "frère Frank a dit… frère Frank a dit… C’est une malédiction ! Oui frères",
+        "replace": "frère Frank a dit… frère Frank a dit… » C’est une malédiction ! Oui frères",
+        "kind": "typo",
+        "why": "closing guillemet of the quotation « Frère Frank a dit… »"
+      },
+      {
+        "find": "pourtant eux-mêmes, ils n’en n’ont jamais eu",
+        "replace": "pourtant eux-mêmes, ils n’en ont jamais eu",
+        "kind": "word",
+        "why": "spelling: « n'en ont »"
+      },
+      {
+        "find": "C’est de la « foutaise » Jésus pourrait dire",
+        "replace": "C’est de la « foutaise ». Jésus pourrait dire",
+        "kind": "typo",
+        "why": "missing full stop, as in the sentence before"
+      },
+      {
+        "find": "Si je n’en n’ai pas, c’est bon",
+        "replace": "Si je n’en ai pas, c’est bon",
+        "kind": "word",
+        "why": "spelling: « n'en ai »"
+      },
+      {
+        "find": "Il s’est dit en lui-même : **On peut lui faire confiance",
+        "replace": "Il s’est dit en lui-même : « **On peut lui faire confiance",
+        "kind": "typo",
+        "why": "opening guillemet for the thought whose closing » is already there"
+      }
+    ],
+    "subtitle": "Prêché le dimanche 25 février 2007 à Koumassi (Abidjan)"
+  },
+  "markdown/onedrive/pdf/marchant_pour_les_propheties.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "Donc il dit : « **Je sais que Dieu va vous visiter** » parce qu’il était un acteur conscient. Il agissait par révélation. Il connaissait les choses, les prophéties. **C’est comme",
+        "replace": "Donc il dit : « **Je sais que Dieu va vous visiter** » **parce qu’il était un acteur conscient. Il agissait par révélation. Il connaissait les choses, les prophéties**. **C’est comme",
+        "kind": "restore",
+        "why": "the original has these words in bold; the pass dropped it"
+      },
+      {
+        "find": "**Les événements qu’on a connus à l’époque",
+        "replace": "**Les évènements qu’on a connus à l’époque",
+        "kind": "revert",
+        "why": "« évènements » is correct and the spelling used everywhere else in the text"
+      },
+      {
+        "find": "Ils étaient des sachants dans la Torah",
+        "replace": "Ils étaient des sachants dans la Thora",
+        "kind": "revert",
+        "why": "the PDF's « thora » is a valid spelling: capital only"
+      },
+      {
+        "find": "mais le problème c’est qu’il y en qui ne croyaient pas",
+        "replace": "mais le problème c’est qu’il y en a qui ne croyaient pas",
+        "kind": "word",
+        "why": "« il y en qui »: the « a » was said but not written"
+      },
+      {
+        "find": "Les soviétiques ont libéré l’Europe",
+        "replace": "Les Soviétiques ont libéré l’Europe",
+        "kind": "typo",
+        "why": "people name takes a capital"
+      },
+      {
+        "find": "Il faut qu’il soit des sachants.",
+        "replace": "Il faut qu’ils soient des sachants.",
+        "kind": "typo",
+        "why": "agreement slip: « des gens … qu’ils soient des sachants »"
+      },
+      {
+        "find": "Qu’il comprenne, qu’il voit et qu’il sache",
+        "replace": "Qu’il comprenne, qu’il voie et qu’il sache",
+        "kind": "typo",
+        "why": "subjunctive « qu’il voie », as « qu’il sache »"
+      },
+      {
+        "find": "ses frères pour accomplir Sa parole.",
+        "replace": "ses frères pour accomplir Sa Parole.",
+        "kind": "message",
+        "why": "God's word: « Parole » with a capital"
+      },
+      {
+        "find": "Cette bonne nouvelle du royaume doit être prêchée alors viendra la fin.",
+        "replace": "« Cette bonne nouvelle du royaume doit être prêchée, alors viendra la fin. »",
+        "kind": "markup",
+        "why": "short citation of the verse he names, in guillemets"
+      },
+      {
+        "find": "la guerre, la deuxième guerre mondiale, c’était",
+        "replace": "la guerre, la Deuxième Guerre mondiale, c’était",
+        "kind": "typo",
+        "why": "proper name of the war"
+      }
+    ],
+    "subtitle": "Prêché le dimanche 27 mai 2012 à Koumassi (Abidjan)"
+  },
+  "markdown/onedrive/pdf/meprise.md": {
+    "title": null,
+    "fixes": [
+      {
+        "find": "**TRAITÉ : QUE PERSONNE NE MÉPRISE TA JEUNESSE**\n\n",
+        "replace": "",
+        "kind": "markup",
+        "why": "the header, whole: « Traité » becomes the subtitle, the title is the frontmatter's"
+      },
+      {
+        "find": "Ce sont-là des révélations",
+        "replace": "Ce sont là des révélations",
+        "kind": "typo",
+        "why": "no hyphen in « ce sont là »"
+      },
+      {
+        "find": "Ils étaient trop jeunes et avaient à faire à des adultes",
+        "replace": "Ils étaient trop jeunes et avaient affaire à des adultes",
+        "kind": "word",
+        "why": "« à faire à » for « affaire à », a transcriber's slip"
+      },
+      {
+        "find": "**BARNABAS ET PAUL**\n\n**PAUL ET TIMOTHÉE**",
+        "replace": "**BARNABAS ET PAUL – PAUL ET TIMOTHÉE**",
+        "kind": "markup",
+        "why": "one section title the PDF prints on two lines (« …à travers ces trois personnages » follows)"
+      }
+    ],
+    "subtitle": "Traité"
+  },
+  "markdown/onedrive/pdf/message.md": {
+    "title": "Un Message sans Puissance",
+    "fixes": [
+      {
+        "find": "**UN MESSAGE SANS PUISSANCE**\n\nJe voudrais saluer",
+        "replace": "Je voudrais saluer",
+        "kind": "markup",
+        "why": "the document's real title becomes the frontmatter title; its line is removed from the start as header (Samuel's rule)"
+      },
+      {
+        "find": "en Afrique de l’ouest, en Europe",
+        "replace": "en Afrique de l’Ouest, en Europe",
+        "kind": "typo",
+        "why": "capital on the region name « l’Ouest »"
+      },
+      {
+        "find": "comment Le Seigneur est en train",
+        "replace": "comment le Seigneur est en train",
+        "kind": "typo",
+        "why": "mid-sentence article in lower case"
+      },
+      {
+        "find": "ont pour Absolu Le Seigneur Jésus, pas un homme",
+        "replace": "ont pour Absolu le Seigneur Jésus, pas un homme",
+        "kind": "typo",
+        "why": "mid-sentence article in lower case, as in the next sentence"
+      },
+      {
+        "find": "Mais Le Seigneur dit aussi que",
+        "replace": "Mais le Seigneur dit aussi que",
+        "kind": "typo",
+        "why": "mid-sentence article in lower case"
+      },
+      {
+        "find": "nous sommes devant Le Seigneur. Amen",
+        "replace": "nous sommes devant le Seigneur. Amen",
+        "kind": "typo",
+        "why": "mid-sentence article in lower case"
+      },
+      {
+        "find": "Nous sommes devant Le Seigneur. La Bible",
+        "replace": "Nous sommes devant le Seigneur. La Bible",
+        "kind": "typo",
+        "why": "mid-sentence article in lower case"
+      },
+      {
+        "find": "Nous sommes devant Le Seigneur. Et devant Le Seigneur, il faut",
+        "replace": "Nous sommes devant le Seigneur. Et devant le Seigneur, il faut",
+        "kind": "typo",
+        "why": "mid-sentence article in lower case (twice)"
+      },
+      {
+        "find": "que tous les saints ont eu avant",
+        "replace": "que tous les saints ont eus avant",
+        "kind": "typo",
+        "why": "agreement slip: the participle agrees with « que » (les combats)"
+      },
+      {
+        "find": "Dans 2 thessalonicien 2,",
+        "replace": "Dans 2 Thessalonicien 2,",
+        "kind": "typo",
+        "why": "capital on the book name; the reference otherwise kept in his form"
+      },
+      {
+        "find": "Et là où ça commencé, cela",
+        "replace": "Et là où ça a commencé, cela",
+        "kind": "word",
+        "why": "transcriber's slip: « ça commencé » for « ça a commencé »"
+      },
+      {
+        "find": "C’est le premier Message que je vous donne ici",
+        "replace": "C’est le premier message que je vous donne ici",
+        "kind": "message",
+        "why": "a sermon he gives, not the end-time Message"
+      },
+      {
+        "find": "il dit : « **venez** à moi",
+        "replace": "il dit : « **Venez** à moi",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "Il dit : « **revenez** »",
+        "replace": "Il dit : « **Revenez** »",
+        "kind": "typo",
+        "why": "capital at the start of a quoted sentence"
+      },
+      {
+        "find": "On ne lui a pas prêché. Elle venue s’installer",
+        "replace": "On ne lui a pas prêché. Elle est venue s’installer",
+        "kind": "word",
+        "why": "transcriber's slip: « Elle venue » for « Elle est venue »"
+      }
+    ],
+    "subtitle": "Exhortation du mois d’octobre 2006",
+    "summary": "Dans cette exhortation d'octobre 2006, le frère M'bra dénonce les impuretés sexuelles et l'adultère dans les assemblées du Message du temps de la fin, qui ont enlevé la puissance de Dieu, et appelle la chaîne de prière au jeûne et à la repentance. Il y joint la prédication « Refusez l'Évangile sans Puissance ».",
+    "tags": [
+      "Exhortations",
+      "2006",
+      "Puissance de Dieu",
+      "Repentance",
+      "Impuretés sexuelles"
+    ],
+    "persons": [
+      "Paul",
+      "Timothée",
+      "Fidy"
+    ],
+    "places": [
+      "Côte d'Ivoire",
+      "Madagascar",
+      "Haïti",
+      "Europe",
+      "Afrique centrale",
+      "Afrique de l'Ouest"
+    ],
+    "themes": [
+      "Impuretés sexuelles",
+      "Jeûne et prière",
+      "Repentance",
+      "Combat spirituel"
+    ],
+    "split": {
+      "at": "**REFUSEZ L’ÉVANGILE SANS PUISSANCE**\n\nPrêché à Soubré",
+      "until": "En Christ notre Seigneur",
+      "frontmatter": {
+        "sermon_id": "message-refusez-l-evangile-sans-puissance",
+        "title": "Refusez l’Évangile sans Puissance",
+        "subtitle": "Prêché à Soubré le 30 septembre 2006",
+        "date": "2006-09-30",
+        "year": 2006,
+        "location": "Soubré",
+        "preacher": "Parfait M'bra",
+        "summary": "Prêchée à Soubré, cette prédication refuse un Évangile de promesses sans expérience : le baptême de l'Esprit introduit dans le Corps de Christ ; comme la femme pécheresse chez le pharisien, il faut revenir au Seigneur dans la repentance pour retrouver la puissance de Dieu.",
+        "tags": [
+          "Prédications",
+          "2006",
+          "Puissance de Dieu",
+          "Baptême de l'Esprit",
+          "Repentance"
+        ],
+        "persons": [
+          "William Branham",
+          "Barilier",
+          "Job",
+          "Moïse",
+          "Samson",
+          "Élie",
+          "Abraham"
+        ],
+        "places": [
+          "Soubré",
+          "Abidjan"
+        ],
+        "themes": [
+          "Puissance de Dieu",
+          "Baptême de l'Esprit",
+          "Repentance",
+          "Réveil spirituel"
+        ]
+      }
+    }
   }
 }
