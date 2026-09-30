@@ -5918,9 +5918,9 @@
       },
       {
         "find": "Et je pense que ça été bien déposé.",
-        "replace": "Et je pense que ça a été bien déposé.",
+        "replace": "Et je pense que ça a été bien déposée.",
         "kind": "word",
-        "why": "« ça été » is a slip for « ça a été »"
+        "why": "« ça été » is a slip for « ça a été »; « déposée » as the PDF, agreeing with « la prédication du réveil »"
       },
       {
         "find": "Amen ! Ça coulé beaucoup",
