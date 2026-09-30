@@ -200,9 +200,10 @@ function spoken({ book: bookVariant, chapter, ...g }) {
  * canonical form. The site links the same ones (web/src/lib/bible-links.mjs).
  */
 export function* citations(md) {
-  // an inline image's base64 is letters and digits, never a citation
+  // an inline image's base64 is letters and digits, never a citation; it
+  // may wrap, never across a blank line
   // (« …/99U/MAt7p8+… » is not Matthieu 7)
-  const images = [...md.matchAll(/\]\(data:[^)]*\)/g)].map((m) => [m.index, m.index + m[0].length]);
+  const images = [...md.matchAll(/\]\(<?data:(?:[^)\n]|\n(?!\s*\n))*\)/gi)].map((m) => [m.index, m.index + m[0].length]);
   const inImage = (i) => images.some(([s, e]) => i >= s && i < e);
   for (const re of SPOKEN) {
     for (const m of md.matchAll(re)) {

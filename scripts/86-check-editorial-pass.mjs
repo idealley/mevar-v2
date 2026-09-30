@@ -478,15 +478,15 @@ for (const md of batch) {
   r.split = splitFrom && located(splitFrom);
   // Goal 20: the second work opens with its own header just as well
   // (« **LA GUERRE DE LIBÉRATION** », « **Prêché à Koumassi le dimanche 22
-  // avril 2007** »): its opening paragraphs whose every word is its
-  // frontmatter's or a header's own, if they hold its whole title or
+  // avril 2007** »): its opening paragraphs, each a bold line whose every
+  // word is its frontmatter's or a header's own, if they hold its whole title or
   // subtitle, leave its body; listed (a body all header words keeps
   // them). The check above compared them.
   r.removedSecond = "";
   if (r.split) {
     const s = edits.split.frontmatter;
     const second = ownWords([s.title, s.subtitle, s.location, s.preacher], s.date);
-    const end = [...parts[1].matchAll(/[^\n]+(?:\n[^\n]+)*/g)].find((p) => !words(p[0]).every((x) => second.has(key(x.w))))?.index ?? 0;
+    const end = [...parts[1].matchAll(/[^\n]+(?:\n[^\n]+)*/g)].find((p) => !/^\*\*[^*]+\*\*$/.test(p[0]) || !words(p[0]).every((x) => second.has(key(x.w))))?.index ?? 0;
     const inHead = new Set(words(parts[1].slice(0, end)).map((x) => key(x.w)));
     if ([s.title, s.subtitle].some((t) => t && words(t).every((x) => inHead.has(key(x.w))))) {
       r.removedSecond = parts[1].slice(0, end).replace(/\*\*/g, "").replace(/\s+/g, " ").trim();
