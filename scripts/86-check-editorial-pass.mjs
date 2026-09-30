@@ -335,6 +335,8 @@ for (const md of batch) {
   r.titleRefused = r.title === proposedTitle ? "" : proposedTitle;
   const oldSubtitle = field("subtitle");
   r.subtitle = edits.subtitle && (same(oldSubtitle, edits.subtitle) || fromPdf(edits.subtitle)) ? edits.subtitle : oldSubtitle;
+  // the editor's subtitle, listed: taken, or refused (a word not in the opening)
+  r.subtitles = edits.subtitle ? { after: r.subtitle, refused: r.subtitle === edits.subtitle ? "" : edits.subtitle } : null;
   // When a split leaves the first work with the second's date and place: a
   // date whose month and year the opening states (« Exhortation mi-novembre
   // 2009 »), and a place only taken away, never given.
@@ -585,6 +587,10 @@ if (rows.some((r) => r.headings.length)) {
 }
 L.push("", "## Titles", "", "| Text | Title | Proposed by the pass and refused (a word changed) |", "| --- | --- | --- |");
 for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.titleRefused)} |`);
+if (rows.some((r) => r.subtitles)) {
+  L.push("", "## Subtitles the editor gave", "", "| Text | Subtitle | Refused (a word not in the PDF's opening) |", "| --- | --- | --- |");
+  for (const r of rows) if (r.subtitles) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.subtitles.after)} | ${cell(r.subtitles.refused)} |`);
+}
 // gpt-6-sol, per million tokens: $2 in, $10 out (reasoning included); the
 // parts OpenAI's filter stopped went to claude-opus-5: $5 in, $25 out
 const usage = rows.flatMap((r) => r.pass.usage).filter((u) => !u.model);
