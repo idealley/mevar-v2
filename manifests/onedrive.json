@@ -775,7 +775,7 @@
     "aliases": [],
     "hash": null,
     "mevar_match": null,
-    "summary": "Cette exhortation dénonce les impuretés sexuelles et l'adultère dans les assemblées du Message du Temps de la Fin, qui ont enlevé la puissance de Dieu. L'auteur appelle à la repentance, au jeûne et à la prière pour retrouver la puissance perdue, et refuse un évangile sans puissance, exhortant à la violence spirituelle pour conquérir les promesses de Dieu.",
+    "summary": "Dans cette exhortation d'octobre 2006, le frère M'bra dénonce les impuretés sexuelles et l'adultère dans les assemblées du Message du temps de la fin, qui ont enlevé la puissance de Dieu, et appelle la chaîne de prière au jeûne et à la repentance. Il y joint la prédication « Refusez l'Évangile sans Puissance ».",
     "tags": [
       "Exhortations",
       "2006",
@@ -786,19 +786,10 @@
     "persons": [
       "Paul",
       "Timothée",
-      "Job",
-      "Moïse",
-      "Josué",
-      "Samson",
-      "William Branham",
-      "M'BRA Parfait",
-      "Fidy",
-      "Barilier"
+      "Fidy"
     ],
     "places": [
       "Côte d'Ivoire",
-      "Soubré",
-      "Abidjan",
       "Madagascar",
       "Haïti",
       "Europe",
@@ -806,13 +797,10 @@
       "Afrique de l'ouest"
     ],
     "themes": [
-      "Puissance de Dieu",
-      "Repentance",
-      "Jeûne et prière",
       "Impuretés sexuelles",
-      "Réveil spirituel",
-      "Combat spirituel",
-      "Violence spirituelle"
+      "Jeûne et prière",
+      "Repentance",
+      "Combat spirituel"
     ],
     "llm_cleaned": true
   },
@@ -19909,5 +19897,44 @@
     ],
     "published_with": "mevar/l-infaillibilite-du-serviteur-fidele-et-prudent-introduction",
     "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent.md"
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "message-refusez-l-evangile-sans-puissance",
+    "title": "Refusez l’Évangile sans Puissance",
+    "subtitle": "Prêché à Soubré le 30 septembre 2006",
+    "date": "2006-09-30",
+    "year": 2006,
+    "location": "Soubré",
+    "preacher": "Parfait M'bra",
+    "summary": "Prêchée à Soubré, cette prédication refuse un Évangile de promesses sans expérience : le baptême de l'Esprit introduit dans le Corps de Christ ; comme la femme pécheresse chez le pharisien, il faut revenir au Seigneur dans la repentance pour retrouver la puissance de Dieu.",
+    "tags": [
+      "Prédications",
+      "2006",
+      "Puissance de Dieu",
+      "Baptême de l'Esprit",
+      "Repentance"
+    ],
+    "persons": [
+      "William Branham",
+      "Barilier",
+      "Job",
+      "Moïse",
+      "Samson",
+      "Élie",
+      "Abraham"
+    ],
+    "places": [
+      "Soubré",
+      "Abidjan"
+    ],
+    "themes": [
+      "Puissance de Dieu",
+      "Baptême de l'Esprit",
+      "Repentance",
+      "Réveil spirituel"
+    ],
+    "published_with": "mevar/un-message-sans-puissance-2006",
+    "local_md": "markdown/mevar/refusez-l-evangile-sans-puissance-2006.md"
   }
 ]
