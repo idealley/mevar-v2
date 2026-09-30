@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhonov2010.md"
 sermon_id: "exhonov2010"
 title: "Le juge inique – la partie adverse"
-subtitle: "Exhortation de Novembre 2010"
+subtitle: "Exhortation de novembre 2010"
 date: "2010-11-01"
 year: 2010
 preacher: "Parfait M'bra"

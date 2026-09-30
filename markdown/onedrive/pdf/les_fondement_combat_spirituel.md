@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "les_fondement_combat_spirituel"
 title: "Appel au combat spirituel – Appel à la prière"
-subtitle: "Exhortation spéciale de Juin 2012"
+subtitle: "Exhortation spéciale de juin 2012"
 date: "2012-06-01"
 year: 2012
 preacher: "Irié Anderson"

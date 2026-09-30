@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_dec2007"
 duplicate_of: "mevar/appel-a-la-guerre-appel-au-combat-contre-babylone"
 title: "Appel à la guerre – Appel au combat contre Babylone"
-subtitle: "Exhortation de Décembre 2007"
+subtitle: "Exhortation de décembre 2007"
 date: "2007-12-01"
 year: 2007
 preacher: "Parfait M'bra"

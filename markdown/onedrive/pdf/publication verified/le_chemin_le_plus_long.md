@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "le_chemin_le_plus_long"
 duplicate_of: "mevar/le-chemin-le-plus-long"
 title: "Le chemin le plus long"
-subtitle: "Exhortation de Mai 2015"
+subtitle: "Exhortation de mai 2015"
 date: "2015-05-02"
 year: 2015
 location: "Toutoubré"

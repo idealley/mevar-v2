@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Exhortation_finOctobre2007.md"
 sermon_id: "Exhortation_finOctobre2007"
 title: "Appel à la guerre – appel au combat contre Babylone"
-subtitle: "Exhortation d'Octobre 2007"
+subtitle: "Exhortation d'octobre 2007"
 date: "2007-10-01"
 year: 2007
 preacher: "Parfait M'bra"

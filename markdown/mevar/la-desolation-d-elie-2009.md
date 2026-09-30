@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhospecialjuin2009.md"
 sermon_id: "exhospecialjuin2009"
 title: "La désolation d’Élie"
-subtitle: "Exhortation de Juin 2009"
+subtitle: "Exhortation de juin 2009"
 date: "2009-06-01"
 year: 2009
 preacher: "Parfait M'bra"

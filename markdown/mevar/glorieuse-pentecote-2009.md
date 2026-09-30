@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/glorieusepentecote.md"
 sermon_id: "glorieusepentecote"
 title: "Glorieuse Pentecôte"
-subtitle: "Exhortation de Janvier 2009"
+subtitle: "Exhortation de janvier 2009"
 date: "2009-01-18"
 year: 2009
 location: "Koumassi"

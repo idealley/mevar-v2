@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "lesvoisins"
 title: "Les voisins"
-subtitle: "Exhortation de Janvier 2008"
+subtitle: "Exhortation de janvier 2008"
 date: "2008-01-24"
 year: 2008
 location: "Lausanne"

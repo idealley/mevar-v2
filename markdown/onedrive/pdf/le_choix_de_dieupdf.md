@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "le_choix_de_dieupdf"
 title: "Le choix de Dieu"
-subtitle: "Exhortation de Mars 2008"
+subtitle: "Exhortation de mars 2008"
 date: "2008-03-16"
 year: 2008
 location: "Arrah"

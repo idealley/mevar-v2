@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortationavril2009.md"
 sermon_id: "exhortationavril2009"
 title: "Progressez encore !"
-subtitle: "Exhortation d'Avril 2009"
+subtitle: "Exhortation d'avril 2009"
 date: "2009-04-01"
 year: 2009
 preacher: "Parfait M'bra"

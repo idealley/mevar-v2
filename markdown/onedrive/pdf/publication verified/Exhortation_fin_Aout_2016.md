@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exhortation_fin_Aout_2016"
 duplicate_of: "mevar/la-voix-de-l-offrande"
 title: "La voix de l'offrande"
-subtitle: "Exhortation de Septembre 2016"
+subtitle: "Exhortation de septembre 2016"
 date: "2016-09-01"
 year: 2016
 preacher: "Parfait M'bra"

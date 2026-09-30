@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Exhortationjanv2008.md"
 sermon_id: "Exhortationjanv2008"
 title: "La victoire appartient à l’Éternel !"
-subtitle: "Exhortation de Janvier 2008"
+subtitle: "Exhortation de janvier 2008"
 date: "2008-01-01"
 year: 2008
 preacher: "Parfait M'bra"

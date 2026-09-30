@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "evangile_de_grace"
 duplicate_of: "mevar/l-evangile-de-grace"
 title: "L'Evangile de grâce"
-subtitle: "Exhortation de Janvier 2011"
+subtitle: "Exhortation de janvier 2011"
 date: "2011-01-16"
 year: 2011
 location: "Koumassi"

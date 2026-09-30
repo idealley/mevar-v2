@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_fin_septembre"
 duplicate_of: "mevar/si-dieu-est-avec-nous-soyons-aussi-avec-lui"
 title: "SI DIEU EST AVEC NOUS – SOYONS AUSSI AVEC LUI"
-subtitle: "Exhortation de Septembre 2017"
+subtitle: "Exhortation de septembre 2017"
 date: "2017-09-01"
 year: 2017
 preacher: "Parfait M'bra"

@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_fin2010"
 duplicate_of: "mevar/le-semeur-de-miniuit"
 title: "LE SEMEUR DE MINUIT"
-subtitle: "Exhortation de Fin d'année 2010"
+subtitle: "Exhortation de fin d'année 2010"
 date: "2010-12-31"
 year: 2010
 preacher: "Parfait M'bra"

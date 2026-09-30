@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofev.md"
 sermon_id: "exhofev"
 title: "Venez et plaidons !"
-subtitle: "Exhortation de Février 2007"
+subtitle: "Exhortation de février 2007"
 date: "2007-02-01"
 year: 2007
 location: "Abidjan"

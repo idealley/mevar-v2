@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "onction_fait_ladifference"
 title: "L'onction fait la différence"
-subtitle: "Exhortation de Septembre 2013"
+subtitle: "Exhortation de septembre 2013"
 date: "2013-09-01"
 year: 2013
 location: "Ouagadougou"

@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhojuin2007.md"
 sermon_id: "exhojuin2007"
 title: "Appel à la guerre – appel au combat contre Babylone"
-subtitle: "Exhortation spéciale de Juin 2007"
+subtitle: "Exhortation spéciale de juin 2007"
 date: "2007-06-01"
 year: 2007
 location: "Koumassi"

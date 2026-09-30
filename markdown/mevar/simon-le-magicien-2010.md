@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinoct2010.md"
 sermon_id: "exhofinoct2010"
 title: "Simon le magicien"
-subtitle: "Exhortation de Octobre 2010"
+subtitle: "Exhortation de octobre 2010"
 date: "2010-10-01"
 year: 2010
 preacher: "Parfait M'bra"

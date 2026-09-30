@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "pourquoi_huitieme"
 title: "POURQUOI LA PART D’UN HUITIEME ?"
-subtitle: "Exhortation Fin Juin 2012"
+subtitle: "Exhortation fin juin 2012"
 date: "2012-06-30"
 year: 2012
 summary: "L'exhortation aborde la nécessité de racheter le temps dans un contexte de jours mauvais, en s'appuyant sur Éphésiens 5:16 et Colossiens 4:5. Elle explique que Satan a volé le temps des hommes pour les choses de Dieu, et que les chrétiens doivent se réveiller et être spirituellement mûrs. La prophétie de Michée 5 est ensuite détaillée, montrant comment elle s'accomplit dans le Messie et l'Église, et comment l'ennemi (l'Assyrien) a conquis l'Église à travers les quatre premiers sceaux de l'Apocalypse."

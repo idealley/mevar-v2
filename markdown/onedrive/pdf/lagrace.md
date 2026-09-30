@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "lagrace"
 title: "La Grâce et la Vérité"
-subtitle: "Exhortation d'Octobre 2011"
+subtitle: "Exhortation d'octobre 2011"
 date: "2011-10-23"
 year: 2011
 location: "Koumassi"

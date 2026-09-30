@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Exhortation_Fin_Mai_2017.md"
 sermon_id: "Exhortation_Fin_Mai_2017"
 title: "Les pensées humaines contre la révélation"
-subtitle: "Exhortation de Mai 2017"
+subtitle: "Exhortation de mai 2017"
 date: "2017-05-01"
 year: 2017
 summary: "Cette exhortation met en garde contre les pensées humaines qui s'opposent à la révélation divine, en s'appuyant sur Matthieu 16 et l'expérience de Pierre. Elle souligne que la foi chrétienne se nourrit de révélation et que les pensées humaines conduisent à l'incrédulité. L'auteur appelle à la repentance et à la recherche de la pensée de Dieu pour la fin des temps, face à l'état tiède de l'Église de Laodicée."

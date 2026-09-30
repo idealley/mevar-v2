@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exo_avril_2013.md"
 sermon_id: "exo_avril_2013"
 title: "La parabole des deux fils"
-subtitle: "Exhortation d'Avril 2013"
+subtitle: "Exhortation d'avril 2013"
 date: "2013-04-01"
 year: 2013
 location: "Koumassi"

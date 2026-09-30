@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/changez_de_souliers_et_de_vetements.md"
 sermon_id: "changez_de_souliers_et_de_vetements"
 title: "Changez de souliers et de vêtements"
-subtitle: "Exhortation de Juillet 2011"
+subtitle: "Exhortation de juillet 2011"
 date: "2011-07-05"
 year: 2011
 location: "Bex"

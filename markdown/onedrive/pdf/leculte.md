@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "leculte"
 title: "Le culte des Athéniens"
-subtitle: "Exhortation de Septembre 2009"
+subtitle: "Exhortation de septembre 2009"
 date: "2009-09-28"
 year: 2009
 location: "Kinshasa (RDC)"

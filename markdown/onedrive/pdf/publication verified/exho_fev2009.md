@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_fev2009"
 duplicate_of: "mevar/le-jeune-homme-riche"
 title: "LE JEUNE HOMME RICHE"
-subtitle: "Exhortation de Février 2009"
+subtitle: "Exhortation de février 2009"
 date: "2009-02-01"
 year: 2009
 preacher: "Parfait M'bra"

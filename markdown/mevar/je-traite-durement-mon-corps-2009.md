@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortationdefinMars2009.md"
 sermon_id: "exhortationdefinMars2009"
 title: "Je traite durement mon corps"
-subtitle: "Exhortation de Mars 2009"
+subtitle: "Exhortation de mars 2009"
 date: "2009-03-01"
 year: 2009
 preacher: "Parfait M'bra"

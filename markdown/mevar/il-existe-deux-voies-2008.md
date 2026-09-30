@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Exhortation _Avril 2008.md"
 sermon_id: "Exhortation _Avril 2008"
 title: "Il existe deux voies"
-subtitle: "Exhortation d'Avril 2008"
+subtitle: "Exhortation d'avril 2008"
 date: "2008-04-01"
 year: 2008
 preacher: "Parfait M'bra"

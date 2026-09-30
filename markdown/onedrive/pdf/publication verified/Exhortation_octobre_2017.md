@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exhortation_octobre_2017"
 duplicate_of: "mevar/les-coeurs-durs"
 title: "LES CŒURS DURS"
-subtitle: "Exhortation d'Octobre 2017"
+subtitle: "Exhortation d'octobre 2017"
 date: "2017-10-01"
 year: 2017
 preacher: "Parfait M'bra"

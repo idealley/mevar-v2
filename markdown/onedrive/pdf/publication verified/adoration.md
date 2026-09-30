@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "adoration"
 duplicate_of: "mevar/l-adoration-par-la-revelation"
 title: "L'adoration par la révélation"
-subtitle: "Exhortation de Septembre 2006"
+subtitle: "Exhortation de septembre 2006"
 date: "2006-09-01"
 year: 2006
 location: "Pointe-Noire"

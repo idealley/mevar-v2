@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/impudiciteetadulterespdf.md"
 sermon_id: "impudiciteetadulterespdf"
 title: "Impudicité et adultère"
-subtitle: "Exhortation du Mois de Novembre 2006"
+subtitle: "Exhortation du mois de novembre 2006"
 date: "2006-11-01"
 year: 2006
 summary: "Cette exhortation traite des péchés sexuels (impudicité, adultère) dans l'Église, appelant les croyants à se séparer de Babylone et de ses impuretés. Elle insiste sur la nécessité de la nouvelle naissance, la sainteté du mariage en Christ, et la séparation d'avec les conjoints non-croyants. L'auteur avertit que les impudiques et adultères n'hériteront pas du royaume de Dieu et doivent se repentir ou être exclus."

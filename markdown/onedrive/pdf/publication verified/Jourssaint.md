@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Jourssaint"
 duplicate_of: "mevar/aux-jours-du-saint-esprit"
 title: "Aux jours du Saint-Esprit"
-subtitle: "Exhortation d'Avril 2006"
+subtitle: "Exhortation d'avril 2006"
 date: "2006-04-18"
 year: 2006
 location: "Pointe Noire, Congo/Brazzaville"

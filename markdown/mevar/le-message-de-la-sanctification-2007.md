@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhormars.md"
 sermon_id: "exhormars"
 title: "Le Message de la sanctification"
-subtitle: "Exhortation de Mars 2007"
+subtitle: "Exhortation de mars 2007"
 date: "2007-03-01"
 year: 2007
 preacher: "Parfait M'bra"

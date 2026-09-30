@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_fin_2014"
 duplicate_of: "mevar/nous-avons-vu-son-etoile"
 title: "NOUS AVONS VU SON ETOILE"
-subtitle: "Exhortation de Fin d'Année 2014"
+subtitle: "Exhortation de fin d'année 2014"
 date: "2014-12-31"
 year: 2014
 preacher: "Parfait M'bra"

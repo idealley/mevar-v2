@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "lescles_du_royaume"
 title: "Les Clefs du Royaume de Dieu"
-subtitle: "Exhortation de Juin 2013"
+subtitle: "Exhortation de juin 2013"
 date: "2013-06-30"
 year: 2013
 location: "Koumassi"

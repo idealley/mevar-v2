@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exho_spec_fev2011.md"
 sermon_id: "exho_spec_fev2011"
 title: "Priscille et Aquilas – exemple d’un couple au service de Dieu"
-subtitle: "Exhortation Spécial de Février 2011"
+subtitle: "Exhortation spécial de février 2011"
 date: "2011-02-01"
 year: 2011
 preacher: "Parfait M'bra"

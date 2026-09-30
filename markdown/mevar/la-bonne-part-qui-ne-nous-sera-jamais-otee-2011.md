@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhoavril2011.md"
 sermon_id: "exhoavril2011"
 title: "La bonne part qui ne nous sera jamais ôtée"
-subtitle: "Exhortation de Avril 2011"
+subtitle: "Exhortation de avril 2011"
 date: "2011-04-01"
 year: 2011
 preacher: "Parfait M'bra"

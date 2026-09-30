@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exhortation_mi-avril_2017"
 duplicate_of: "mevar/le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu"
 title: "LE DEVOIR DU FILS – LA FIDELITE DANS LA MAISON DE DIEU"
-subtitle: "Exhortation de Mi-Avril 2017"
+subtitle: "Exhortation de mi-avril 2017"
 date: "2017-04-15"
 year: 2017
 preacher: "Parfait M'bra"

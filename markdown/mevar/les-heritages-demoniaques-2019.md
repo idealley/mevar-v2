@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Les_heritages_demoniaques.md"
 sermon_id: "Les_heritages_demoniaques"
 title: "Les héritages démoniaques"
-subtitle: "Exhortation de Juin 2019"
+subtitle: "Exhortation de juin 2019"
 date: "2019-06-01"
 year: 2019
 preacher: "Parfait M'bra"

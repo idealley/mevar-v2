@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exo_Juin_2014_1.md"
 sermon_id: "exo_Juin_2014_1"
 title: "La position du juste dans la prière efficace"
-subtitle: "Exhortation de Juin 2014"
+subtitle: "Exhortation de juin 2014"
 date: "2014-06-01"
 year: 2014
 preacher: "Parfait M'bra"

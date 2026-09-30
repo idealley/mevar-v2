@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Epreuve-de-Moise_2"
 duplicate_of: "mevar/l-epreuve-de-moise-deuxieme-partie"
 title: "L'épreuve de Moïse 2"
-subtitle: "Exhortation de Janvier 2019"
+subtitle: "Exhortation de janvier 2019"
 date: "2019-01-07"
 year: 2019
 location: "Koumassi"

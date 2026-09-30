@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "notre_volonte"
 duplicate_of: "mevar/notre-volonte"
 title: "Notre volonté"
-subtitle: "Exhortation de Décembre 2013"
+subtitle: "Exhortation de décembre 2013"
 date: "2013-12-01"
 year: 2013
 location: "Koumassi"

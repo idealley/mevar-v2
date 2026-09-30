@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "le_fruit_de_la_repentance"
 duplicate_of: "mevar/le-fruit-de-la-repentance"
 title: "Le fruit de la repentance"
-subtitle: "Exhortation d'Août 2013"
+subtitle: "Exhortation d'août 2013"
 date: "2013-08-04"
 year: 2013
 location: "Koumassi"

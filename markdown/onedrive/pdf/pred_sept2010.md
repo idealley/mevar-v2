@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "pred_sept2010"
 title: "L'autorité spirituelle"
-subtitle: "Exhortation d'Août 2014"
+subtitle: "Exhortation d'août 2014"
 date: "2014-08-22"
 year: 2014
 location: "Koumassi"

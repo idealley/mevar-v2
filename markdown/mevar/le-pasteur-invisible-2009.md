@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinaout2009.md"
 sermon_id: "exhofinaout2009"
 title: "Le pasteur invisible"
-subtitle: "Exhortation d'Août 2009"
+subtitle: "Exhortation d'août 2009"
 date: "2009-08-01"
 year: 2009
 location: "Koumassi"

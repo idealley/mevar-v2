@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "minuit"
 title: "Le Message de Minuit"
-subtitle: "Exhortation spéciale du Mois de Décembre 2006"
+subtitle: "Exhortation spéciale du mois de décembre 2006"
 date: "2006-12-01"
 year: 2006
 location: "Soubré"

@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_mars2011"
 duplicate_of: "mevar/commencer-et-achever-la-marche-pas-lesprit"
 title: "COMMENCER ET ACHEVER LA MARCHE PAR L’ESPRIT"
-subtitle: "Exhortation de Mars 2011"
+subtitle: "Exhortation de mars 2011"
 date: "2011-03-01"
 year: 2011
 summary: "Cette exhortation met en garde contre le danger de commencer la vie chrétienne par l'Esprit et de finir par la chair, en s'appuyant sur Galates 3:1-3. Elle insiste sur la nécessité d'être conduit par le Saint-Esprit, de connaître Christ spirituellement et d'expérimenter la Parole de Dieu. L'auteur critique l'état charnel de l'Église de Laodicée et appelle à un réveil de perfection et de purification intérieure."

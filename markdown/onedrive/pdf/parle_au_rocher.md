@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "parle_au_rocher"
 title: "Parle au rocher ou Proclamations"
-subtitle: "Exhortation de Juillet 2013"
+subtitle: "Exhortation de juillet 2013"
 date: "2013-07-14"
 year: 2013
 location: "Koumassi"

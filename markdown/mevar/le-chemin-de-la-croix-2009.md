@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Lechemindelacroix.md"
 sermon_id: "Lechemindelacroix"
 title: "Le chemin de la croix"
-subtitle: "Exhortation de Décembre 2009"
+subtitle: "Exhortation de décembre 2009"
 date: "2009-12-13"
 year: 2009
 location: "Koumassi"

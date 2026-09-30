@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "le_livre_despropheties"
 title: "Le livre des prophéties de Dieu"
-subtitle: "Exhortation de Février 2013"
+subtitle: "Exhortation de février 2013"
 date: "2013-02-03"
 year: 2013
 location: "Koumassi"

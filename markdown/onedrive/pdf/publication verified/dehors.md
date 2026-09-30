@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "dehors"
 duplicate_of: "mevar/dehors-les-chiens"
 title: "Dehors les chiens !"
-subtitle: "Exhortation de Juillet 2007"
+subtitle: "Exhortation de juillet 2007"
 date: "2007-07"
 year: 2007
 preacher: "Parfait M'bra"

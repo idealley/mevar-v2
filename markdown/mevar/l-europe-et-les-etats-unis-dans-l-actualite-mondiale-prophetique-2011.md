@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhomimars2011.md"
 sermon_id: "exhomimars2011"
 title: "L’Europe et les États-Unis dans l’actualité mondiale prophétique"
-subtitle: "Exhortation d’Avril 2011"
+subtitle: "Exhortation d’avril 2011"
 date: "2011-04-01"
 year: 2011
 summary: "Cette exhortation analyse le rôle prophétique de l'Europe et des États-Unis dans le contexte biblique de la fin des temps, en s'appuyant sur les visions de Daniel et de Jean dans l'Apocalypse. L'auteur, se présentant comme une sentinelle, explique comment ces puissances politiques et religieuses (Babylone) s'opposent à Dieu et à son Église, et appelle les croyants à prier pour les autorités tout en combattant spirituellement l'esprit babylonien."

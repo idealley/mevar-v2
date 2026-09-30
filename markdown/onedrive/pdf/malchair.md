@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "malchair"
 title: "LA MALEDICTION DE LA CHAIR"
-subtitle: "Exhortation de Février 2007"
+subtitle: "Exhortation de février 2007"
 date: "2007-02-25"
 year: 2007
 location: "Koumassi (Abidjan)"

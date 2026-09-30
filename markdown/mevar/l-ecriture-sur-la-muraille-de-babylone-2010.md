@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhoavril2010.md"
 sermon_id: "exhoavril2010"
 title: "L’Écriture sur la muraille de Babylone"
-subtitle: "Exhortation Fin Avril 2010"
+subtitle: "Exhortation fin avril 2010"
 date: "2010-04-30"
 year: 2010
 preacher: "Parfait M'bra"

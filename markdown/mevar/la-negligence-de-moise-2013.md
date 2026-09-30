@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortation_de_Mai_2013.md"
 sermon_id: "exhortation_de_Mai_2013"
 title: "La négligence de Moïse"
-subtitle: "Exhortation de Mai 2013"
+subtitle: "Exhortation de mai 2013"
 date: "2013-05-01"
 year: 2013
 preacher: "Parfait M'bra"

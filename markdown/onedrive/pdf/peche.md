@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "peche"
 title: "Le péché de Nébukadnetsar"
-subtitle: "Exhortation de Décembre 2006"
+subtitle: "Exhortation de décembre 2006"
 date: "2006-12-01"
 year: 2006
 location: "Koumassi (Abidjan)"

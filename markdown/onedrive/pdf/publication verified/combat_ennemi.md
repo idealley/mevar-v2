@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "combat_ennemi"
 duplicate_of: "mevar/combat-contre-lennemi"
 title: "Combat contre l'ennemi"
-subtitle: "Exhortation d'Août 2012"
+subtitle: "Exhortation d'août 2012"
 date: "2012-08-31"
 year: 2012
 location: "Houndé, Burkina Faso"

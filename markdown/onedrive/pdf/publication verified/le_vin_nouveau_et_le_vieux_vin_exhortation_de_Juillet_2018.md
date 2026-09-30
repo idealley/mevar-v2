@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "le_vin_nouveau_et_le_vieux_vin_exhortation_de_Juillet_2018"
 duplicate_of: "mevar/le-vin-nouveau-et-le-vieux-vin"
 title: "LE VIN NOUVEAU ET LE VIEUX VIN"
-subtitle: "Exhortation de Juillet 2018"
+subtitle: "Exhortation de juillet 2018"
 date: "2018-07-01"
 year: 2018
 preacher: "Parfait M'bra"

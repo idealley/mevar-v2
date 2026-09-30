@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/faites.md"
 sermon_id: "faites"
 title: "Faites-vous un cœur nouveau et un esprit nouveau, pourquoi mourriez-vous, maison d’Israël ?"
-subtitle: "Exhortation d'Octobre 2010"
+subtitle: "Exhortation d'octobre 2010"
 date: "2010-10-23"
 year: 2010
 preacher: "Richard Schwéry"

@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhojuil2010.md"
 sermon_id: "exhojuil2010"
 title: "Jésus-Christ est ma guérison"
-subtitle: "Exhortation spéciale de Juillet 2010"
+subtitle: "Exhortation spéciale de juillet 2010"
 date: "2010-07-01"
 year: 2010
 summary: "Ce document est une exhortation sur la guérison divine, expliquant que la guérison est un droit pour les croyants par la foi en Jésus-Christ. Il traite de l'origine des maladies (physiques, de l'âme et de l'esprit), de la nécessité de la repentance et de la foi, et de l'importance de vivre par la foi. L'auteur insiste sur le fait que Christ a porté nos maladies à la croix et que le chrétien doit s'approprier cette guérison."

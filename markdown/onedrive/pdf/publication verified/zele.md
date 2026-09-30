@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "zele"
 duplicate_of: "mevar/ayez-du-zele-et-non-de-la-paresse"
 title: "Ayez du zèle et non de la paresse !"
-subtitle: "Exhortation spéciale du Mois d'Août 2006"
+subtitle: "Exhortation spéciale du mois d'août 2006"
 date: "2006-08"
 year: 2006
 preacher: "Pierre Kouadio"

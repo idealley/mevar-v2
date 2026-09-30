@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_sept11"
 duplicate_of: "mevar/la-chute-deutychus"
 title: "LA CHUTE D'EUTYCHUS"
-subtitle: "Exhortation de Septembre 2011"
+subtitle: "Exhortation de septembre 2011"
 date: "2011-09-01"
 year: 2011
 preacher: "Parfait M'bra"

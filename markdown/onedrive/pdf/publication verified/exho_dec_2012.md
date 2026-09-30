@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_dec_2012"
 duplicate_of: "mevar/les-porteurs-du-royaume-de-dieu"
 title: "Les Porteurs du Royaume de Dieu"
-subtitle: "Exhortation de Décembre 2012"
+subtitle: "Exhortation de décembre 2012"
 date: "2012-12-01"
 year: 2012
 preacher: "Parfait M'bra"

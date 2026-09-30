@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinsept2010.md"
 sermon_id: "exhofinsept2010"
 title: "Le témoignage de Dieu"
-subtitle: "Exhortation de Septembre 2010"
+subtitle: "Exhortation de septembre 2010"
 date: "2010-09-01"
 year: 2010
 preacher: "Parfait M'bra"

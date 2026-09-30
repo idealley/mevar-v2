@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exhortation_de_Juillet_2014_1"
 duplicate_of: "mevar/le-depart-du-dioscures"
 title: "LE DEPART DU DIOSCURES"
-subtitle: "Exhortation de Juillet 2014"
+subtitle: "Exhortation de juillet 2014"
 date: "2014-07-01"
 year: 2014
 summary: "L'exhortation compare le voyage de Paul à Rome aux étapes spirituelles de l'Église de Laodicée, soulignant la nécessité de traverser l'épreuve (l'hiver) pour entrer dans le printemps de l'Épouse. Elle insiste sur la foi aux prophéties, le mystère de la piété (Christ manifesté en chair, justifié en Esprit, etc.) et l'appel à la sainteté en vue de la manifestation des fils de Dieu."

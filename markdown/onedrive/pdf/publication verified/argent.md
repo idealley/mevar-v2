@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "argent"
 duplicate_of: "mevar/argent-orgueil-et-querelles-dans-les-assemblees"
 title: "ARGENT – ORGUEIL ET QUERELLES DANS LES ASSEMBLEES"
-subtitle: "Exhortation du Mois d'octobre 2006"
+subtitle: "Exhortation du mois d'octobre 2006"
 date: "2006-10-01"
 year: 2006
 summary: "Cette exhortation traite de trois problèmes majeurs dans les assemblées issues du Message du Temps de la Fin : l'amour de l'argent, l'orgueil et les querelles. L'auteur rappelle les mises en garde du Seigneur au prophète William Branham et déplore que ces démons aient vaincu les croyants, enlevant la puissance de Dieu. Il appelle à la repentance, à l'humilité et à la fidélité dans les dîmes et offrandes, citant de nombreux passages bibliques."

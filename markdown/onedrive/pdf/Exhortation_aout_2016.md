@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exhortation_aout_2016"
 duplicate_of: "mevar/toutes-choses-s-accompliront"
 title: "TOUTES CHOSES S'ACCOMPLIRONT"
-subtitle: "Exhortation Spéciale Août 2016"
+subtitle: "Exhortation spéciale août 2016"
 date: "2016-08-01"
 year: 2016
 summary: "L'exhortation met en garde contre l'incrédulité et les attaques contre le Message du Temps de la Fin, en s'appuyant sur l'exemple d'Israël dans le désert. Elle affirme que le Message de William Branham est l'unique préparation pour le retour du Christ et que ceux qui le rejettent ou le jugent s'exposent à la colère de Dieu. Le texte insiste sur la nécessité de produire des fruits de repentance et de rester fidèles à l'appel de 1933."

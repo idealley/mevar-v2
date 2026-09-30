@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/ExhortationdeMars2009.md"
 sermon_id: "ExhortationdeMars2009"
 title: "Les fils du désert"
-subtitle: "Exhortation de Mars 2009"
+subtitle: "Exhortation de mars 2009"
 date: "2009-03-01"
 year: 2009
 preacher: "Parfait M'bra"

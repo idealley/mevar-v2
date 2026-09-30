@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "la_benediction_de_Dieu"
 title: "La bénédiction de Dieu"
-subtitle: "Exhortation de Janvier 2013"
+subtitle: "Exhortation de janvier 2013"
 date: "2013-01-27"
 year: 2013
 location: "Koumassi"

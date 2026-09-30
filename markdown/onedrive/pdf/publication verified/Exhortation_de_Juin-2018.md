@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exhortation_de_Juin-2018"
 duplicate_of: "mevar/les-visages-de-satan"
 title: "LES VISAGES DE SATAN"
-subtitle: "Exhortation de Juin 2018"
+subtitle: "Exhortation de juin 2018"
 date: "2018-06-01"
 year: 2018
 preacher: "Parfait M'bra"

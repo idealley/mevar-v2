@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_mi_Juillet2010"
 duplicate_of: "mevar/laveugle-bartimee"
 title: "L'AVEUGLE BARTIMEE"
-subtitle: "Exhortation de Mi-Juillet 2010"
+subtitle: "Exhortation de mi-juillet 2010"
 date: "2010-07-15"
 year: 2010
 preacher: "Parfait M'bra"

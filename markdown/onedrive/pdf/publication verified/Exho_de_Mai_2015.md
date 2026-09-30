@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exho_de_Mai_2015"
 duplicate_of: "mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit"
 title: "QUI EST-CE QUI PLANTE UNE VIGNE ET N’EN MANGE PAS LE FRUIT ?"
-subtitle: "Exhortation de Mai 2015"
+subtitle: "Exhortation de mai 2015"
 date: "2015-05-01"
 year: 2015
 summary: "Cette exhortation traite du droit des prédicateurs de l'Évangile à être soutenus matériellement par le peuple de Dieu, en s'appuyant sur 1 Corinthiens 9 et l'Ancien Testament. L'auteur met en garde contre les abus et la séduction, insistant sur la liberté et la sagesse dans l'exercice de ce droit. Il aborde également la question des dîmes et offrandes, affirmant leur validité pour l'Église spirituelle."
