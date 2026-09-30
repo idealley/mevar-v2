@@ -4655,18 +4655,6 @@
     "title": "Il faut que tu rendes témoignage dans Rome",
     "fixes": [
       {
-        "find": "C’est pourquoi Paul avertit les autres, en disant",
-        "replace": "C’est pourquoi Paul avertit 10 les autres, en disant",
-        "kind": "restore",
-        "why": "the verse number stands here in the original; put it back where it was"
-      },
-      {
-        "find": "> **10** **Ô hommes, je vois que la navigation",
-        "replace": "> **Ô hommes, je vois que la navigation",
-        "kind": "restore",
-        "why": "remove the verse number the pass moved into the quote"
-      },
-      {
         "find": "Mais nous devons échouer sur une île.\n\n> **1** Après nous être sauvés",
         "replace": "Mais nous devons échouer sur une île.\n\n**L’île de Malte – la consolation**\n\n> **1** Après nous être sauvés",
         "kind": "restore",
@@ -4773,6 +4761,18 @@
         "replace": "**LE NAVIRE LES DIOSCURES – ARRIVÉE À ROME**",
         "kind": "typo",
         "why": "a dash, printed as a hyphen: an en dash, as in this text's other headings"
+      },
+      {
+        "find": "C’est pourquoi Paul avertit les autres, en disant",
+        "replace": "C’est pourquoi Paul avertit les autres, en disant",
+        "kind": "word",
+        "why": "the verse number 10, printed in the prose (« Paul avertit 10 les autres »), goes to the head of its verse in the quote that follows, between the 9 before it and the 11 (Samuel)"
+      },
+      {
+        "find": "> **10** **Ô hommes, je vois que la navigation",
+        "replace": "> **10** **Ô hommes, je vois que la navigation",
+        "kind": "word",
+        "why": "the verse number 10, printed in the prose (« Paul avertit 10 les autres »), goes to the head of its verse in the quote that follows, between the 9 before it and the 11 (Samuel)"
       }
     ],
     "subtitle": "Exhortation fin mai 2011"
@@ -5353,8 +5353,14 @@
     ]
   },
   "markdown/onedrive/pdf/infaillibilite.md": {
-    "title": "L’infaillibilité du serviteur fidèle et prudent",
+    "title": "L’infaillibilité du serviteur fidèle et prudent – introduction",
     "fixes": [
+      {
+        "find": "**Introduction**\n\n",
+        "replace": "",
+        "kind": "markup",
+        "why": "the header, whole, with the title line: « Introduction » is now in the title"
+      },
       {
         "find": "Tout s’arrête-t-il avec le Ministère",
         "replace": "Tout s’arrête-t-il avec le Ministère",
@@ -5475,7 +5481,51 @@
         "kind": "typo",
         "why": "common noun, no capital"
       }
-    ]
+    ],
+    "summary": "Le frère M'bra présente l'exposé d'un frère resté anonyme sur l'infaillibilité du serviteur fidèle et prudent. Il exhorte à se garder de l'idolâtrie (1 Jean 5:20-21) : aucun serviteur de Dieu n'est infaillible, pas même frère Frank ; il faut croire sainement dans les Ministères que Dieu envoie, sans fanatisme.",
+    "split": {
+      "at": "**L’infaillibilité du serviteur fidèle et prudent**\n\nJe vous salue",
+      "frontmatter": {
+        "sermon_id": "infaillibilite-l-infaillibilite-du-serviteur-fidele-et-prudent",
+        "title": "L’infaillibilité du serviteur fidèle et prudent",
+        "subtitle": "Exposé d’un frère en Christ Jésus, présenté par le frère M’bra",
+        "summary": "L'auteur, un frère resté anonyme, met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule.",
+        "tags": [
+          "Exhortations",
+          "Infaillibilité",
+          "Idolâtrie",
+          "Serviteur fidèle et prudent"
+        ],
+        "persons": [
+          "William Branham",
+          "Frank",
+          "Paul",
+          "Pierre",
+          "Nathan",
+          "David",
+          "Salomon",
+          "William J. Seymour",
+          "Frank Bartlemen",
+          "John Wesley",
+          "Guido Kwiyas"
+        ],
+        "places": [
+          "Los Angeles",
+          "Azusa Street",
+          "Houston",
+          "Pasadena",
+          "Jeffersonville"
+        ],
+        "themes": [
+          "Infaillibilité des serviteurs de Dieu",
+          "Idolâtrie et fanatisme",
+          "Rôle du serviteur fidèle et prudent",
+          "Réveil d'Azusa Street",
+          "Autorité de la Bible",
+          "Complémentarité des ministères"
+        ]
+      }
+    }
   },
   "markdown/onedrive/pdf/je_te_vomirai.md": {
     "title": "Je te vomirai de ma bouche",
