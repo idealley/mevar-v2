@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "Exode 32"
   - "2 Corinthiens 6"
+  - "Matthieu 25"
   - "Apocalypse 22:15"
 ---
 # LA GUERRE DE LIBERATION

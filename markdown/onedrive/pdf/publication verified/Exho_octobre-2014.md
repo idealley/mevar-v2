@@ -57,6 +57,7 @@ mevar_match:
   similarity: 0.529
 llm_cleaned: true
 bible_refs:
+  - "Habacuc 2:1"
   - "Matthieu 24:42"
   - "Matthieu 25:13"
   - "Marc 13:35"

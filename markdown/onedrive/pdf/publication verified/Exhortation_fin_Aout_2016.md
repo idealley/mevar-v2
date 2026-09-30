@@ -45,6 +45,7 @@ llm_cleaned: true
 bible_refs:
   - "Osée 12:4-5"
   - "Hébreux 5"
+  - "Hébreux 5:4-10"
   - "Genèse 4:1-16"
   - "Exode 23:19"
   - "Exode 34:22"
@@ -52,6 +53,7 @@ bible_refs:
   - "Ésaïe 1:10-13"
   - "Nombres 23:19"
   - "Hébreux 11"
+  - "Hébreux 11:4"
   - "Galates 5:19-21"
   - "1 Jean 2:9-11"
   - "1 Jean 3:9-16"

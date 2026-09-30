@@ -47,6 +47,7 @@ mevar_match:
   similarity: 0.69
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 28"
   - "Jean 19"
   - "Actes 4"
   - "Matthieu 18"

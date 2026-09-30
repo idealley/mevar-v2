@@ -91,6 +91,7 @@ bible_refs:
   - "Matthieu 24:45-47"
   - "Matthieu 24"
   - "Ésaïe 40:1-3"
+  - "2 Pierre 1:19-21,2"
   - "Jérémie 23:31-32"
   - "Ésaïe 40:3"
 ---

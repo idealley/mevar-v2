@@ -55,6 +55,7 @@ themes:
   - "Foi et persévérance"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 13"
   - "2 Rois 10"
   - "2 Rois 10:15-30"
   - "2 Rois 9"

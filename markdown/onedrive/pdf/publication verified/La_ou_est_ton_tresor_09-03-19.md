@@ -45,8 +45,8 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Matthieu 24"
-  - "Deutéronome 6:1"
   - "Matthieu 13"
+  - "Deutéronome 6:1"
   - "Genèse 6"
   - "Matthieu 24:12"
   - "Malachie 4"

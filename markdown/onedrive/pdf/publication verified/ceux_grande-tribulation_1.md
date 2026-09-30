@@ -46,6 +46,7 @@ bible_refs:
   - "Matthieu 24"
   - "Ésaïe 27:12-13"
   - "Colossiens 2:9"
+  - "Matthieu 24:31"
   - "Apocalypse 7"
   - "Apocalypse 12"
   - "Jean 3:16"

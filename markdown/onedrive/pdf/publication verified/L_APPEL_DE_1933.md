@@ -46,11 +46,12 @@ bible_refs:
   - "Amos 3"
   - "Luc 1"
   - "2 Thessaloniciens 2"
+  - "Matthieu 25"
+  - "Matthieu 24"
   - "Luc 21"
   - "Marc 13"
   - "Apocalypse 6"
   - "Apocalypse 19"
-  - "Matthieu 25"
   - "Apocalypse 3"
   - "Psaumes 90:10"
 ---

@@ -38,6 +38,8 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Jean 10"
+  - "1 Pierre 2"
+  - "Hébreux 13"
   - "Ésaïe 53"
   - "Psaumes 23"
   - "Ésaïe 40"

@@ -44,6 +44,7 @@ bible_refs:
   - "Matthieu 17:5"
   - "Hébreux 11:5-6"
   - "Luc 18:7-8"
+  - "Jacques 2:17-18"
   - "Romains 10:17"
 ---
 “Si vous aviez de la foi comme un grain de moutarde.”

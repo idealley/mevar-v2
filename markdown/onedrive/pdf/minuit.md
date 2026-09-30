@@ -69,6 +69,7 @@ bible_refs:
   - "Lévitique 10:1"
   - "Ésaïe 58"
   - "Ésaïe 42:19"
+  - "1 Pierre 4:12-13"
 ---
 *Exhortation spéciale du Mois de Décembre 2006*
 

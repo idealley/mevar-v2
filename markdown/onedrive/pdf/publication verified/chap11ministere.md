@@ -34,6 +34,7 @@ bible_refs:
   - "Apocalypse 1"
   - "Actes 13"
   - "2 Timothée 1"
+  - "Matthieu 17"
 ---
 ## LA PARABOLE DE LA LAMPE
 

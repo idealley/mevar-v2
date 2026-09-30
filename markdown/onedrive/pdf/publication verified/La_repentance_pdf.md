@@ -58,6 +58,7 @@ bible_refs:
   - "Actes 2:38"
   - "Jacques 5:16"
   - "Luc 15"
+  - "Hébreux 3:13"
   - "1 Timothée 4"
   - "Matthieu 13:22"
   - "Jérémie 3:22"
@@ -73,6 +74,7 @@ bible_refs:
   - "Marc 3:29"
   - "Ruth 1"
   - "Ruth 1:15-19"
+  - "Matthieu 1:4-5"
   - "1 Samuel 2:22"
   - "Nombres 25"
 ---

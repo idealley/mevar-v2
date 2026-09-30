@@ -43,6 +43,7 @@ themes:
   - "Prophétie de Michée 5"
 llm_cleaned: true
 bible_refs:
+  - "2 Pierre 1:20-21"
   - "1 Corinthiens 12"
   - "Michée 5"
   - "Michée 5:1-7"
@@ -108,6 +109,7 @@ bible_refs:
   - "Matthieu 14:25"
   - "Malachie 4"
   - "Matthieu 24"
+  - "2 Pierre 1:19"
   - "Matthieu 13"
   - "Matthieu 13:24-30"
   - "1 Samuel 3"

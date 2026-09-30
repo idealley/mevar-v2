@@ -51,6 +51,7 @@ bible_refs:
   - "Apocalypse 3"
   - "Apocalypse 3:15-17"
   - "Deutéronome 28"
+  - "Jacques 1:22-24"
   - "Luc 8:20-21"
   - "Exode 4"
   - "Jean 12:37-40"

@@ -68,6 +68,7 @@ bible_refs:
   - "2 Thessaloniciens 2:9"
   - "Lamentations 2:14"
   - "Amos 8:11"
+  - "2 Chroniques 25:17-18"
   - "Jean 3"
   - "Matthieu 7:6"
   - "Luc 12:47-48"

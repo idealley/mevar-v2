@@ -40,6 +40,8 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Jérémie 36"
+  - "Matthieu 24"
+  - "Matthieu 25"
   - "Luc 17"
   - "Luc 21"
   - "Marc 13"

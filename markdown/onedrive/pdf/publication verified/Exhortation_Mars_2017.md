@@ -55,6 +55,7 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Luc 11:21-22"
+  - "2 Pierre 1"
   - "2 Corinthiens 5:7"
   - "2 Corinthiens 10"
   - "2 Corinthiens 10:4-6"

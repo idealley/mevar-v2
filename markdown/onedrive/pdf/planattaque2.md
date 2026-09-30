@@ -47,6 +47,7 @@ themes:
   - "Œcuménisme"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 24"
   - "Jérémie 50:2"
   - "Ésaïe 48"
   - "Apocalypse 17"

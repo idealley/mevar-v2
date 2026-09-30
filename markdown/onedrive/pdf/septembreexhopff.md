@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Samuel 2:22"
   - "Jérémie 7:1"
+  - "2 Chroniques 7"
   - "Jérémie 7"
   - "Jérémie 27:6-7"
   - "Luc 21"

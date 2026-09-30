@@ -42,6 +42,7 @@ llm_cleaned: true
 bible_refs:
   - "Marc 11:12-14"
   - "Apocalypse 3:7"
+  - "Matthieu 19:25-26"
   - "Marc 9:21-24"
   - "Marc 11"
 ---

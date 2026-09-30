@@ -60,6 +60,7 @@ bible_refs:
   - "Luc 1:45"
   - "Luc 1:38"
   - "Hébreux 11"
+  - "Hébreux 11:32-38"
   - "2 Rois 13"
   - "2 Rois 13:14-19"
   - "Job 22:28"

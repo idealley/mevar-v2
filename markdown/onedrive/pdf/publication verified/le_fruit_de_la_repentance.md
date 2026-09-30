@@ -48,9 +48,10 @@ bible_refs:
   - "Apocalypse 6"
   - "Matthieu 24"
   - "Luc 17"
+  - "Matthieu 25:6"
+  - "Matthieu 25"
   - "Luc 3:1"
   - "Actes 2:38"
-  - "Matthieu 25"
 ---
 Le fruit de la repentance
 

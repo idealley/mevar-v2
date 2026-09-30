@@ -46,6 +46,7 @@ bible_refs:
   - "Jean 1:1-4"
   - "Romains 10:13-17"
   - "2 Timothée 3:8"
+  - "1 Pierre 1:13"
   - "Apocalypse 2:7"
   - "Apocalypse 2:11"
   - "Apocalypse 2:17"

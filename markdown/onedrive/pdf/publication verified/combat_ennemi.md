@@ -42,6 +42,8 @@ mevar_match:
   title: "Combat contre l'ennemi"
   similarity: 0.505
 llm_cleaned: true
+bible_refs:
+  - "Matthieu 24:14"
 ---
 ## Combat contre l’ennemi
 

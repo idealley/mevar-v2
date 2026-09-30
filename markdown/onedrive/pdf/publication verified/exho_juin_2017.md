@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "Luc 10:21-24"
   - "Ésaïe 53"
+  - "2 Pierre 1:19-20"
   - "1 Jean 5:19"
   - "Colossiens 1:9-10"
   - "1 Rois 14:1-15"

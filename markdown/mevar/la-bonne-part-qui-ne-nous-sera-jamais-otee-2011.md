@@ -58,6 +58,7 @@ bible_refs:
   - "Genèse 37:33-35"
   - "Daniel 6:22"
   - "Jérémie 20:2"
+  - "Habacuc 2:2-3"
   - "Hébreux 11"
   - "Hébreux 11:1-2"
   - "Hébreux 11:35-40"

@@ -54,6 +54,7 @@ themes:
   - "Évangélisation"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 3"
   - "Luc 24:44"
   - "Ésaïe 42"
   - "Ésaïe 49"
@@ -93,6 +94,7 @@ bible_refs:
   - "Philippiens 4"
   - "2 Thessaloniciens 1"
   - "1 Thessaloniciens 1"
+  - "Colossiens 1"
   - "Romains 1"
   - "Éphésiens 4"
   - "1 Timothée 2"

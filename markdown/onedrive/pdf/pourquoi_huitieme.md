@@ -65,6 +65,7 @@ bible_refs:
   - "Matthieu 10:6"
   - "Matthieu 15:24"
   - "Jean 10:16"
+  - "1 Pierre 2:25"
   - "Éphésiens 2:13-18"
   - "Matthieu 23:39"
   - "Jean 14:19"

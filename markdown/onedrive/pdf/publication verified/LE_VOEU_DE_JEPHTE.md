@@ -59,6 +59,7 @@ bible_refs:
   - "Apocalypse 4"
   - "Apocalypse 6"
   - "Juges 11"
+  - "Actes 18"
   - "Nombres 30"
 ---
 ## Le vœu de Jephté

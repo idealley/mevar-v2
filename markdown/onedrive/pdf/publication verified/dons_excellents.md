@@ -41,6 +41,7 @@ mevar_match:
   similarity: 0.51
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 7"
   - "1 Corinthiens 10"
   - "Jacques 1:13"
   - "Jean 3:27"

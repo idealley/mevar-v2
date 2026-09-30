@@ -48,7 +48,10 @@ mevar_match:
   similarity: 0.68
 llm_cleaned: true
 bible_refs:
+  - "2 Pierre 3"
   - "Luc 17:26-32"
+  - "2 Pierre 2:5-7"
+  - "2 Pierre 2:7"
   - "Jacques 5:11"
   - "1 Pierre 4:1"
   - "Job 42:7-9"

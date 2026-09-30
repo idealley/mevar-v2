@@ -48,6 +48,7 @@ bible_refs:
   - "Actes 17"
   - "1 Timothée 6:11"
   - "Apocalypse 3:14"
+  - "Matthieu 25"
 ---
 *Le culte des Athéniens, prêché le Lundi 28 Septembre 2009 à l’Assemblée de Mamayemo, Kinshasa (RDC) par le frère M’BRA Parfait*
 

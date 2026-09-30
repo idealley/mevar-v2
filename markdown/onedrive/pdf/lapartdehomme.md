@@ -46,6 +46,7 @@ bible_refs:
   - "Luc 7:28"
   - "Luc 17"
   - "Apocalypse 16"
+  - "Matthieu 24"
   - "Apocalypse 19"
 ---
 ## La part de l'homme dans le plan de Dieu

@@ -21,6 +21,7 @@ bible_refs:
   - "2 Thessaloniciens 2"
   - "Exode 32"
   - "2 Corinthiens 6"
+  - "Matthieu 25"
   - "Apocalypse 22:15"
 ---
 Que Dieu soit béni ! Nous lisons dans 2 Thessaloniciens 2 à partir du premier verset.

@@ -58,9 +58,9 @@ bible_refs:
   - "Apocalypse 12"
   - "Galates 5:1"
   - "Exode 2"
+  - "2 Pierre 1:19"
   - "Marc 13:33-37"
   - "Apocalypse 22:16"
-  - "2 Pierre 1:19"
   - "Apocalypse 3:21"
 ---
 ## Qu'Ismaël vive devant ta face

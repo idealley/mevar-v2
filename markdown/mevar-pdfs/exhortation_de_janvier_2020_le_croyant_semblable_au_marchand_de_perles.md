@@ -32,6 +32,7 @@ pdf_url: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2020_le
 local_pdf: "/files/mevar/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf"
 llm_cleaned: true
 bible_refs:
+  - "2 Pierre 1"
   - "Apocalypse 22"
   - "Apocalypse 21:27"
   - "Apocalypse 19"
@@ -47,7 +48,7 @@ bible_refs:
   - "Matthieu 13:45-46"
   - "Matthieu 7:6"
   - "Galates 5:22"
-  - "2 Pierre 1"
+  - "2 Pierre 1:5-8"
   - "Éphésiens 6"
   - "Éphésiens 6:13-17"
   - "1 Timothée 4:8-9"
@@ -57,6 +58,7 @@ bible_refs:
   - "Proverbes 8:12"
   - "Proverbes 16:16"
   - "1 Corinthiens 2:6-10"
+  - "2 Pierre 1:8-10"
   - "Proverbes 27:17"
   - "Proverbes 16:32"
   - "Proverbes 25:28"

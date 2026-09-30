@@ -47,6 +47,7 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Malachie 3"
+  - "Hébreux 3:6"
   - "1 Corinthiens 3:9"
   - "Luc 8:1-3"
   - "Jean 13:29"

@@ -36,10 +36,10 @@ local_pdf: "/files/mevar/la_marche_des_vierges_29_11_2013.pdf"
 llm_cleaned: true
 bible_refs:
   - "Matthieu 25"
+  - "Matthieu 24"
   - "Marc 13"
   - "Luc 17"
   - "Luc 21"
-  - "Matthieu 24"
   - "Matthieu 13"
   - "1 Pierre 1:19-21"
   - "Ésaïe 7:13-14"

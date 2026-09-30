@@ -38,6 +38,7 @@ pdf_url: "https://mevar.org/content/files/2022/12/Et_soudain_entrera_dans_son_te
 local_pdf: "/files/mevar/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Proverbes 24"
   - "Malachie 3:1"
   - "Malachie 3"
   - "Matthieu 24"

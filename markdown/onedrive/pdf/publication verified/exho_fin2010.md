@@ -39,6 +39,8 @@ mevar_match:
   similarity: 0.612
 llm_cleaned: true
 bible_refs:
+  - "Habacuc 2"
+  - "Habacuc 2:19-20"
   - "Colossiens 2:9-10"
   - "1 Corinthiens 3:16-17"
   - "2 Corinthiens 6:16"

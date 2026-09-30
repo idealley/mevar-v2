@@ -52,6 +52,7 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "2 Timothée 4:7-8"
+  - "1 Pierre 4:7"
   - "1 Jean 2:18"
   - "Romains 16:20"
   - "Apocalypse 20:1-2"

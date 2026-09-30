@@ -43,6 +43,7 @@ mevar_match:
   similarity: 0.597
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 4:15"
   - "1 Corinthiens 10"
   - "Jean 3"
   - "Jean 3:14-16"
@@ -51,6 +52,7 @@ bible_refs:
   - "1 Jean 3:16"
   - "Jean 12"
   - "Jean 3:16"
+  - "Matthieu 22"
   - "1 Jean 3"
   - "1 Corinthiens 13"
 ---

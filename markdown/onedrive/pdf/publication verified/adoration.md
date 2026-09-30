@@ -63,6 +63,7 @@ bible_refs:
   - "Marc 7:16"
   - "Marc 4:23"
   - "Matthieu 13"
+  - "Matthieu 13:16-18"
   - "Apocalypse 4:7"
   - "Matthieu 16"
   - "Genèse 12:6"

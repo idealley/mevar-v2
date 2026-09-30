@@ -52,6 +52,7 @@ bible_refs:
   - "2 Corinthiens 3:17"
   - "Galates 5:1"
   - "Matthieu 15:1-9"
+  - "Matthieu 15"
   - "Apocalypse 3:14"
   - "Actes 19"
 ---

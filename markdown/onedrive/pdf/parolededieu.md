@@ -73,6 +73,7 @@ bible_refs:
   - "Apocalypse 18"
   - "Apocalypse 1"
   - "Jacques 1:23-25"
+  - "Hébreux 4:12"
 ---
 ## La Parole de Dieu
 

@@ -48,6 +48,8 @@ llm_cleaned: true
 bible_refs:
   - "2 Rois 4:40-42"
   - "1 Corinthiens 9"
+  - "Nombres 3:12-13"
+  - "Nombres 18:19-24"
   - "2 Thessaloniciens 3:8-12"
   - "Actes 24"
   - "Actes 13:1-4"

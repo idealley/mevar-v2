@@ -25,15 +25,19 @@ themes:
   - "Jugement"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 25"
   - "Marc 16"
+  - "Matthieu 28"
   - "Éphésiens 4"
   - "1 Corinthiens 12"
   - "Ésaïe 42"
   - "Romains 12"
+  - "1 Pierre 4"
   - "Actes 17"
   - "2 Corinthiens 12"
   - "1 Corinthiens 7"
   - "Actes 5"
+  - "Matthieu 10"
   - "2 Timothée 1"
   - "2 Timothée 2"
 ---

@@ -38,6 +38,7 @@ bible_refs:
   - "Deutéronome 8"
   - "Deutéronome 8:1"
   - "1 Corinthiens 10"
+  - "Hébreux 5:7"
 ---
 ## Les souvenirs du désert
 

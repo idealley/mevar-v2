@@ -45,8 +45,10 @@ bible_refs:
   - "Marc 14:38"
   - "Luc 6:28"
   - "Colossiens 4:3"
+  - "2 Thessaloniciens 3:1"
   - "Luc 10:2"
   - "1 Timothée 2:1-2"
+  - "1 Thessaloniciens 5:17"
   - "Hébreux 5:7-8"
 editorial_pass: "2026-09-29"
 ---

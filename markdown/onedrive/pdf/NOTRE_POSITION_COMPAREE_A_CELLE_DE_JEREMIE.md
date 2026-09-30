@@ -50,6 +50,7 @@ llm_cleaned: true
 bible_refs:
   - "Jérémie 1"
   - "Malachie 4"
+  - "Matthieu 24"
 ---
 ## Notre position comparée à celle de Jérémie
 

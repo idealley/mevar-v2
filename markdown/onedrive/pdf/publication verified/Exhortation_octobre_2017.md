@@ -48,6 +48,8 @@ bible_refs:
   - "1 Jean 4:8"
   - "Romains 8:31-32"
   - "Colossiens 3:1-2"
+  - "1 Pierre 2:11"
+  - "Hébreux 11:13"
   - "Romains 8:35"
   - "Luc 23:34"
   - "Actes 7:60"

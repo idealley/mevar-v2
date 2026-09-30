@@ -42,6 +42,7 @@ bible_refs:
   - "Apocalypse 3:7-13"
   - "2 Corinthiens 7:1"
   - "1 Thessaloniciens 4:3"
+  - "Hébreux 12:14"
   - "Apocalypse 3:14-22"
   - "Psaumes 60"
   - "1 Jean 5:19"

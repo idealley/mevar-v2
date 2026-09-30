@@ -56,6 +56,7 @@ bible_refs:
   - "Exode 31:18"
   - "Exode 32:1,35"
   - "Malachie 4:3"
+  - "1 Pierre 2:4,5"
 ---
 ## Témoignage du Frère Nandy Noël
 

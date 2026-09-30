@@ -56,6 +56,7 @@ bible_refs:
   - "1 Pierre 1:7"
   - "2 Rois 2:8"
   - "Jacques 1:27"
+  - "Matthieu 3:8"
   - "Galates 5:22"
   - "Actes 1:8"
   - "Malachie 4:4,5"

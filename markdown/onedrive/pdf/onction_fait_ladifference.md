@@ -53,8 +53,8 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Malachie 4"
-  - "Luc 2"
   - "Matthieu 25"
+  - "Luc 2"
   - "Marc 13"
   - "Apocalypse 3"
   - "Apocalypse 22"

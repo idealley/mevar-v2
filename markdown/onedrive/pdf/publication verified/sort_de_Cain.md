@@ -48,6 +48,7 @@ bible_refs:
   - "Hébreux 11"
   - "Ésaïe 53"
   - "Apocalypse 3"
+  - "Matthieu 24:14"
 ---
 *Le sort de Caïn, prêché le dimanche 13 février 2013 à Abidjan Koumassi, par le frère M'BRA Parfait*
 

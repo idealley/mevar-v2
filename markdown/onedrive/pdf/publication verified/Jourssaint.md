@@ -44,6 +44,7 @@ mevar_match:
   similarity: 0.529
 llm_cleaned: true
 bible_refs:
+  - "1 Corinthiens 10:4"
   - "Luc 18"
   - "Matthieu 25:6"
   - "Jean 7:37"
@@ -51,6 +52,7 @@ bible_refs:
   - "Luc 9:58"
   - "Actes 19:1-5"
   - "Actes 19"
+  - "1 Thessaloniciens 5:19"
 ---
 ## AUX JOURS DU SAINT-ESPRIT
 
