@@ -60,7 +60,11 @@ Reading batches 01 to 04 on the site, Samuel found four things left over:
 ## Scope out
 
 - Any word of a text; the Ghost posts, CMPP, Branham, Le Scribe, local.
-- 85, and the texts of batch 05 (in flight in parallel).
+- 85, and batch 05's editorial files (fixes, batches, headings), in
+  flight in parallel. Batch 05's texts are goal 10 texts not yet promoted,
+  so 89 and 65 reach 13 of its 20 (a subtitle, new references): whichever
+  branch merges second reruns 89, 65, 47 and 50 instead of merging those
+  lines by hand.
 - 65 on the sources goal 10 does not cover (the new aliases find references
   there too: a question for Samuel in the PR).
 
@@ -70,7 +74,7 @@ Reading batches 01 to 04 on the site, Samuel found four things left over:
 2. The headers 86 removes from the three second works; `git diff
    --word-diff` on their bodies shows only those lines gone.
 3. The scan's counts per spelling, the aliases added, the references
-   gained per text.
+   gained per text; none read inside an inline image (base64).
 4. 86 on batches 01 to 04 promotes every text; 65, 47, 50, 83, 88 and 89:
    a second run is a no-op.
 5. `npm run build`, `npm run check:dist`.
