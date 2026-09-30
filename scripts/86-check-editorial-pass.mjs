@@ -299,6 +299,8 @@ for (const md of batch) {
     [/^\s*\S*\.html?\s+\d+\/\d+\s*$/gm, "print"],
     [/^\s*\S*mevar\.org\/\S*(\s+\d+\/\d+)?\s*$/gim, "print"],
     [/^[\s*]*Haut\s+de\s+page[\s*]*$/gm, "print"],
+    // a word processor's page footer, letter-spaced: « P a g e  | **1** »
+    [/^[\s*]*P a g e\s*\|[\s*]*\d{1,3}[\s*]*$/gm, "print"],
     [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
   ];
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
@@ -347,7 +349,7 @@ for (const md of batch) {
   r.lists = Object.fromEntries(LISTS.filter((k) => edits[k]).map((k) => [k, edits[k]]));
   // each is written over its own frontmatter line: without one, the page and
   // the manifest would disagree
-  for (const [k, line] of [["subtitle", /^subtitle: /m], ["date", /^date: .*\nyear: /m], ["summary", /^summary: /m], ...LISTS.map((l) => [l, new RegExp(`^${l}:\\n  - `, "m")])])
+  for (const [k, line] of [["date", /^date: .*\nyear: /m], ["summary", /^summary: /m], ...LISTS.map((l) => [l, new RegExp(`^${l}:\\n  - `, "m")])])
     if (edits[k] && !(Array.isArray(edits[k]) && !edits[k].length) && !line.test(fm)) r.unexplained.push(`the editor gives a ${k}, but the frontmatter has no ${k} line to write it on`);
 
   const ow = words(compared);
@@ -508,6 +510,8 @@ for (const md of batch) {
     const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
     const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`)
       .replace(/^subtitle: .*$/m, (l) => r.subtitle === oldSubtitle ? l : `subtitle: ${JSON.stringify(r.subtitle)}`)
+      // a subtitle the PDF's opening states, for a text that had none: under its title
+      .replace(/^(title: .*)$/m, (l) => /^subtitle: /m.test(fm) || r.subtitle === oldSubtitle ? l : `${l}\nsubtitle: ${JSON.stringify(r.subtitle)}`)
       .replace(/^date: .*\nyear: .*$/m, (l) => r.date === field("date") ? l : `date: ${JSON.stringify(r.date)}\nyear: ${Number(r.date.slice(0, 4))}`)
       .replace(/^location: .*\n/m, (l) => r.location ? l : "")
       .replace(/^summary: .*$/m, (l) => r.summary === field("summary") ? l : `summary: ${JSON.stringify(r.summary)}`)
