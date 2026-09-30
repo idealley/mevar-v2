@@ -4330,7 +4330,7 @@
           "band": "download",
           "decision": null,
           "in_a": 0.515,
-          "in_b": 0.907,
+          "in_b": 0.908,
           "title": 0
         },
         {
@@ -5524,7 +5524,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.959,
-          "in_b": 0.959,
+          "in_b": 0.958,
           "title": 1
         }
       ]
@@ -7370,7 +7370,7 @@
     {
       "key": "mevar/le-mariage-et-les-peches-du-sexe | onedrive/le_mariage_et_les_peches_du_sexe",
       "decision": "different",
-      "in_a": 0.966,
+      "in_a": 0.965,
       "in_b": 0.066,
       "title": 1,
       "a": {

@@ -7129,31 +7129,33 @@
     "Apocalypse 20:11-15",
     "2 Timothée 2:8-18"
   ],
-  "markdown/onedrive/pdf/la_benediction_de_Dieu.md": [
+  "markdown/mevar/la-benediction-de-dieu-2013.md": [
     "Proverbes 10:22",
     "Deutéronome 28",
     "Genèse 17",
     "Genèse 12",
+    "Éphésiens 1",
     "Josué 1",
     "Josué 1:1",
     "Esther 2",
     "2 Samuel 5:17"
   ],
-  "markdown/onedrive/pdf/la_guerre_des_dieux.md": [
+  "markdown/mevar/la-guerre-des-dieux-2011.md": [
     "Psaumes 82",
     "Ésaïe 21",
     "Ésaïe 41",
     "Ésaïe 41:21",
     "Ésaïe 42",
     "Malachie 2",
-    "Apocalypse 22"
+    "Apocalypse 22",
+    "Ézéchiel 47"
   ],
   "markdown/onedrive/pdf/la_guerre_du_dragon_contre_le_fils.md": [
     "Matthieu 24",
     "Apocalypse 12:1",
     "Apocalypse 12"
   ],
-  "markdown/onedrive/pdf/la_mesure_de_la_communion.md": [
+  "markdown/mevar/la-mesure-de-la-communion-2008.md": [
     "Luc 6:38",
     "Marc 12",
     "Marc 12:41-44",
@@ -7166,7 +7168,7 @@
     "Psaumes 126:5-6",
     "Apocalypse 22"
   ],
-  "markdown/onedrive/pdf/la_part_de_la_verite.md": [
+  "markdown/mevar/la-part-de-la-verite.md": [
     "Michée 5:1-6",
     "Michée 5",
     "Matthieu 7",
@@ -7212,7 +7214,6 @@
     "Marc 14:38",
     "Luc 21:36",
     "Actes 20:31",
-    "1 Corinthiens 16:13",
     "1 Pierre 5:8",
     "Exode 23:1",
     "Lévitique 19:16",
@@ -7281,15 +7282,16 @@
     "Jean 16:12",
     "Jean 14:27"
   ],
-  "markdown/onedrive/pdf/la_vision_ de_ la_ perfection.md": [
+  "markdown/mevar/la-vision-de-la-perfection-2009.md": [
     "Jérémie 18:1-6",
     "Romains 9",
     "Romains 9:20-26",
+    "Éphésiens 5:25-27",
     "1 Jean 3",
     "1 Jean 3:1-3",
     "Apocalypse 21"
   ],
-  "markdown/onedrive/pdf/la_vision_de_la_fin.md": [
+  "markdown/mevar/la-vision-de-la-fin-2009.md": [
     "Genèse 3:1-19",
     "1 Jean 3:11-12",
     "Galates 3:16",
@@ -7303,7 +7305,7 @@
     "Ésaïe 35:8",
     "Malachie 3:18"
   ],
-  "markdown/onedrive/pdf/la_vision_du_royaume_de_dieu.md": [
+  "markdown/mevar/la-vision-du-royaume-de-dieu-2008.md": [
     "Matthieu 3:1",
     "Matthieu 3",
     "Marc 1:14",
@@ -7316,6 +7318,7 @@
     "Actes 2:38",
     "Actes 10:43",
     "2 Corinthiens 5:17",
+    "Éphésiens 4:11",
     "2 Corinthiens 11:15",
     "Matthieu 13:34",
     "1 Jean 4:6",
@@ -7326,6 +7329,8 @@
     "Jérémie 7",
     "1 Corinthiens 12",
     "1 Corinthiens 14",
+    "Éphésiens 4",
+    "Éphésiens 2:20",
     "Jean 13",
     "1 Pierre 1",
     "Philippiens 2",
@@ -7335,7 +7340,7 @@
     "Matthieu 20",
     "Apocalypse 18"
   ],
-  "markdown/onedrive/pdf/lagrace.md": [
+  "markdown/mevar/la-grace-et-la-verite-2011.md": [
     "Matthieu 25",
     "Jean 1:14-18",
     "Romains 5:1",
@@ -7348,6 +7353,7 @@
     "Hébreux 10",
     "Matthieu 28:19-20",
     "Romains 3:21",
+    "Romains 3:21-31",
     "Romains 4:1-6",
     "Jacques 2",
     "Jacques 2:14",
@@ -7356,7 +7362,9 @@
     "Genèse 15",
     "Genèse 15:4-6",
     "Apocalypse 14:13",
-    "Apocalypse 19"
+    "Apocalypse 19",
+    "Éphésiens 2",
+    "Éphésiens 6"
   ],
   "markdown/onedrive/pdf/laguerre.md": [
     "Exode 32",
@@ -7364,21 +7372,23 @@
     "Matthieu 25",
     "Apocalypse 22:15"
   ],
-  "markdown/onedrive/pdf/laluttedejacob.md": [
+  "markdown/mevar/la-lutte-de-jacob-2011.md": [
     "Genèse 32",
-    "Genèse 28:13",
+    "Éphésiens 4:17",
+    "Genèse 28",
     "Genèse 28:13-15",
+    "Éphésiens 6",
     "Romains 5",
     "Romains 5:1-5"
   ],
-  "markdown/onedrive/pdf/lapartdehomme.md": [
+  "markdown/mevar/la-part-de-l-homme-dans-le-plan-de-dieu-2011.md": [
     "Luc 7:28",
     "Luc 17",
     "Apocalypse 16",
     "Matthieu 24",
     "Apocalypse 19"
   ],
-  "markdown/onedrive/pdf/larecompensedeprophete.md": [
+  "markdown/mevar/la-recompense-de-prophete-2007.md": [
     "Malachie 4:5-6",
     "Apocalypse 4",
     "Matthieu 10:40",
@@ -7565,7 +7575,7 @@
     "Jérémie 7:18",
     "Marc 8:22-25"
   ],
-  "markdown/onedrive/pdf/le_choix_de_dieupdf.md": [
+  "markdown/mevar/le-choix-de-dieu-2008.md": [
     "Luc 18",
     "Matthieu 25",
     "1 Timothée 1",
@@ -7573,21 +7583,23 @@
     "Matthieu 25:6",
     "1 Timothée 6:12"
   ],
-  "markdown/onedrive/pdf/le_dieu_du_ventre.md": [
+  "markdown/mevar/le-dieu-du-ventre-2014.md": [
     "2 Chroniques 1",
     "Jacques 1",
     "Ésaïe 22",
     "Romains 14:17",
     "Philippiens 3:17",
-    "1 Corinthiens 15"
+    "1 Corinthiens 15",
+    "Éphésiens 4:20"
   ],
-  "markdown/onedrive/pdf/le_fruit_du_Message.md": [
+  "markdown/mevar/le-fruit-du-message-2014.md": [
     "Matthieu 13",
     "Jean 15:15-16",
     "Ésaïe 40",
     "Apocalypse 12"
   ],
-  "markdown/onedrive/pdf/le_jugement.md": [
+  "markdown/mevar/le-jugement-dans-l-assemblee-locale.md": [
+    "Matthieu 18",
     "Genèse 19:24",
     "1 Corinthiens 6:5",
     "1 Corinthiens 10",
@@ -7608,7 +7620,6 @@
     "Jean 7",
     "Deutéronome 16",
     "Philippiens 2",
-    "Matthieu 18",
     "Matthieu 18:15-22",
     "Lévitique 19",
     "Proverbes 11:14",
@@ -7631,16 +7642,15 @@
     "2 Jean 1:9-10",
     "2 Timothée 4"
   ],
-  "markdown/onedrive/pdf/le_livre_despropheties.md": [
+  "markdown/mevar/le-livre-des-propheties-de-dieu-2013.md": [
     "Jérémie 36",
     "Matthieu 24",
     "Matthieu 25",
     "Luc 17",
     "Luc 21",
     "Marc 13",
-    "Jérémie 36:1",
-    "Jérémie 5",
     "2 Thessaloniciens 2",
+    "Ézéchiel 9",
     "Malachie 4:5",
     "2 Pierre 1:19",
     "Jérémie 7",
@@ -7844,16 +7854,15 @@
     "Romains 12:2",
     "1 Pierre 1:14-17"
   ],
-  "markdown/onedrive/pdf/le_mystere_de_l_iniquite.md": [
+  "markdown/mevar/le-mystere-de-l-iniquite-2011.md": [
     "2 Thessaloniciens 2",
     "Matthieu 13",
     "Jean 1:18",
     "Éphésiens 3",
     "Matthieu 7",
     "Matthieu 23:28",
-    "Matthieu 13:41",
     "1 Corinthiens 6:19",
-    "Hébreux 12:4",
+    "Hébreux 12",
     "Luc 17",
     "1 Samuel 2:22-23",
     "1 Rois 13",
@@ -7878,7 +7887,7 @@
     "Apocalypse 11",
     "1 Corinthiens 1"
   ],
-  "markdown/onedrive/pdf/le_siege_de_adversaire.md": [
+  "markdown/mevar/le-siege-de-l-adversaire-2008.md": [
     "1 Thessaloniciens 4",
     "2 Thessaloniciens 2",
     "2 Thessaloniciens 2:1-12",
@@ -7891,21 +7900,23 @@
     "Luc 11:34",
     "Apocalypse 12"
   ],
-  "markdown/onedrive/pdf/leculte.md": [
+  "markdown/mevar/le-culte-des-atheniens-2009.md": [
     "Actes 17:16",
     "Actes 17",
     "1 Timothée 6:11",
     "Apocalypse 3:14",
     "Matthieu 25"
   ],
-  "markdown/onedrive/pdf/ledernierouvragespirituel.md": [
+  "markdown/mevar/le-dernier-ouvrage-spirituel-2008.md": [
     "Néhémie 2:11",
     "Luc 14",
     "Luc 14:25-33",
     "Apocalypse 12",
     "Apocalypse 21",
+    "Ézéchiel 34:17-20",
     "Hébreux 5:7",
     "Hébreux 5:7-10",
+    "Éphésiens 5:22",
     "Éphésiens 5:22-33",
     "Luc 17"
   ],
@@ -46824,10 +46835,10 @@
     "2 Corinthiens 11",
     "Matthieu 26:41"
   ],
-  "markdown/onedrive/pdf/publication verified/combat_ennemi.md": [
+  "markdown/onedrive/pdf/publication verified/combat_contre_l_ennemi_2012_burkina.md": [
     "Matthieu 24:14"
   ],
-  "markdown/onedrive/pdf/publication verified/combat_contre_l_ennemi_2012_burkina.md": [
+  "markdown/onedrive/pdf/publication verified/combat_ennemi.md": [
     "Matthieu 24:14"
   ]
 }
