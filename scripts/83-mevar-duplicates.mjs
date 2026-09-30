@@ -137,7 +137,7 @@ for (const [key, n] of shared) {
 const byId = new Map(works.map((w) => [w.id, w]));
 for (const [key, value] of Object.entries(decided)) {
   const [a, b] = key.split(" | ").map((id) => byId.get(id));
-  if (value === "same" && a && b && !pairs.some((p) => p.a === a && p.b === b))
+  if (value === "same" && a && b && !pairs.some((p) => [p.a, p.b].includes(a) && [p.a, p.b].includes(b)))
     pairs.push({ a, b, band: "decided", decision: "same", in_a: 0, in_b: 0, title: null });
 }
 pairs.sort((p, q) => p.a.id.localeCompare(q.a.id) || p.b.id.localeCompare(q.b.id));
