@@ -10,7 +10,9 @@
 //   uncertain      one containment >= 0.20, or titles alike   applied only when
 //                  and one containment >= 0.10                Samuel says "same"
 // Samuel's answers: scripts/mevar-duplicates-decided.json, keyed "<id> | <id>",
-// "same" or "different", on any pair: "different" also cuts an applied pair.
+// "same" or "different", on any pair: "different" also cuts an applied pair,
+// and "same" joins a pair the shingles cannot find (an empty page, a PDF
+// with no text layer, shares none with the work it stands for).
 //
 // A shingle held by more than 20 works is a formula ("au nom de jesus christ")
 // and is not counted as shared.
@@ -131,6 +133,12 @@ for (const [key, n] of shared) {
     a: first, b: second, band, decision,
     in_a: round(first === a ? inA : inB), in_b: round(first === a ? inB : inA), title: round(title),
   });
+}
+const byId = new Map(works.map((w) => [w.id, w]));
+for (const [key, value] of Object.entries(decided)) {
+  const [a, b] = key.split(" | ").map((id) => byId.get(id));
+  if (value === "same" && a && b && !pairs.some((p) => p.a === a && p.b === b))
+    pairs.push({ a, b, band: "decided", decision: "same", in_a: 0, in_b: 0, title: null });
 }
 pairs.sort((p, q) => p.a.id.localeCompare(q.a.id) || p.b.id.localeCompare(q.b.id));
 
