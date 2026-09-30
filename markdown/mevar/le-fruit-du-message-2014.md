@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/le_fruit_du_Message.md"
 sermon_id: "le_fruit_du_Message"
 title: "Le fruit du Message"
-subtitle: "Exhortation de Février 2014"
+subtitle: "Exhortation de février 2014"
 date: "2014-02-15"
 year: 2014
 location: "Sinfra"

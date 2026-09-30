@@ -50,6 +50,7 @@ bible_refs:
   - "Marc 16:17"
   - "1 Corinthiens 14"
   - "Zacharie 3:8"
+  - "Matthieu 25"
   - "2 Timothée 2:21"
   - "Éphésiens 4"
   - "Éphésiens 4:11"
@@ -66,6 +67,7 @@ bible_refs:
   - "Actes 2:22"
   - "Matthieu 24:24"
   - "Actes 8"
+  - "Matthieu 7:22"
   - "Exode 4:6"
   - "1 Corinthiens 11"
 ---

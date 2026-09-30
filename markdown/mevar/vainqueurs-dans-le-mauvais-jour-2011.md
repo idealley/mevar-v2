@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinoct.md"
 sermon_id: "exhofinoct"
 title: "Vainqueurs dans le mauvais jour"
-subtitle: "Exhortation d'Octobre 2011"
+subtitle: "Exhortation d'octobre 2011"
 date: "2011-10-01"
 year: 2011
 preacher: "Parfait M'bra"

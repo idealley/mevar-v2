@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhomimai.md"
 sermon_id: "exhomimai"
 title: "Que ton camp soit saint"
-subtitle: "Exhortation de Mi-Mai 2009"
+subtitle: "Exhortation de mi-mai 2009"
 date: "2009-05-15"
 year: 2009
 preacher: "Parfait M'bra"

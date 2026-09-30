@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/La_vie_depriere_deJesus.md"
 sermon_id: "La_vie_depriere_deJesus"
 title: "La vie de prière de Jésus"
-subtitle: "Exhortation de Décembre 2007"
+subtitle: "Exhortation de décembre 2007"
 date: "2007-12-16"
 year: 2007
 location: "Koumassi"

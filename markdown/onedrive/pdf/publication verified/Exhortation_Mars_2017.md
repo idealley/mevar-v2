@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exhortation_Mars_2017"
 duplicate_of: "mevar/la-foi-pour-manger-le-lait-et-le-miel"
 title: "LA FOI POUR MANGER LE LAIT ET LE MIEL"
-subtitle: "Exhortation de Mars 2017"
+subtitle: "Exhortation de mars 2017"
 date: "2017-03-01"
 year: 2017
 preacher: "Parfait M'bra"
@@ -55,6 +55,7 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Luc 11:21-22"
+  - "2 Pierre 1"
   - "2 Corinthiens 5:7"
   - "2 Corinthiens 10"
   - "2 Corinthiens 10:4-6"

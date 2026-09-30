@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exhortation_fevrier_2017"
 duplicate_of: "mevar/le-livre-des-chroniques-de-dieu"
 title: "LE LIVRE DES CHRONIQUES DE DIEU"
-subtitle: "Exhortation de Février 2017"
+subtitle: "Exhortation de février 2017"
 date: "2017-02-01"
 year: 2017
 preacher: "Parfait M'bra"

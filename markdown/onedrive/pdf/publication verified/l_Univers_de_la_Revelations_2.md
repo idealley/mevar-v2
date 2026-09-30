@@ -52,6 +52,7 @@ llm_cleaned: true
 bible_refs:
   - "Jérémie 28"
   - "1 Rois 13"
+  - "Matthieu 24"
   - "Jérémie 27"
   - "2 Thessaloniciens 2"
   - "Jérémie 1"

@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exhofinfev2010"
 duplicate_of: "mevar/on-l-appellera-samuel"
 title: "ON L’APPELLERA SAMUEL"
-subtitle: "Exhortation de Février 2010"
+subtitle: "Exhortation de février 2010"
 date: "2010-02-01"
 year: 2010
 preacher: "Parfait M'bra"

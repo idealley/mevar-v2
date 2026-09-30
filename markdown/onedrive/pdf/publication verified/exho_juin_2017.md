@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_juin_2017"
 duplicate_of: "mevar/le-deguisement-de-la-femme-de-jeroboam"
 title: "LE DEGUISEMENT DE LA FEMME DE JEROBOAM"
-subtitle: "Exhortation de Juin 2017"
+subtitle: "Exhortation de juin 2017"
 date: "2017-06-01"
 year: 2017
 preacher: "Parfait M'bra"
@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "Luc 10:21-24"
   - "Ésaïe 53"
+  - "2 Pierre 1:19-20"
   - "1 Jean 5:19"
   - "Colossiens 1:9-10"
   - "1 Rois 14:1-15"

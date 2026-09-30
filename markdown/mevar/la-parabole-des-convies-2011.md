@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinaout11.md"
 sermon_id: "exhofinaout11"
 title: "La parabole des conviés"
-subtitle: "Exhortation Fin Août 2011"
+subtitle: "Exhortation fin août 2011"
 date: "2011-08-01"
 year: 2011
 summary: "Cette exhortation explore la parabole des conviés (Luc 14:7-11) pour enseigner l'humilité et la soumission à l'ordre divin dans l'Église. Elle met en garde contre la précipitation à occuper des places d'honneur sans avoir été sanctifié et éprouvé par Dieu, et insiste sur la nécessité de devenir disciple de Christ, de lutter avec Dieu comme Jacob pour être déclaré vainqueur."

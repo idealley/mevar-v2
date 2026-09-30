@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Exhortationnovembre2007.md"
 sermon_id: "Exhortationnovembre2007"
 title: "La vie en abondance"
-subtitle: "Exhortation de Novembre 2007"
+subtitle: "Exhortation de novembre 2007"
 date: "2007-11-01"
 year: 2007
 preacher: "Parfait M'bra"

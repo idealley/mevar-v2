@@ -61,6 +61,7 @@ mevar_match:
   similarity: 0.524
 llm_cleaned: true
 bible_refs:
+  - "Nombres 12"
   - "Job 33"
   - "Joël 2"
   - "1 Rois 22"
@@ -110,6 +111,7 @@ bible_refs:
   - "Luc 9:18"
   - "Luc 9:28"
   - "Luc 11:1"
+  - "Matthieu 14:23"
   - "Marc 1:35"
   - "Matthieu 6:9-13"
   - "Luc 22:39-44"
@@ -118,6 +120,7 @@ bible_refs:
   - "Luc 18:1"
   - "Daniel 10"
   - "Daniel 10:12-13"
+  - "Matthieu 18"
 ---
 TROIS GRANDES VISIONS DU MESSAGE DE LA FIN DES TEMPS
 

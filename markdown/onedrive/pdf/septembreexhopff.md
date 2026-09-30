@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "septembreexhopff"
 duplicate_of: "mevar/dieu-fuyant-le-peche"
 title: "Dieu fuyant le péché"
-subtitle: "Exhortation spéciale du Mois de Septembre 2006"
+subtitle: "Exhortation spéciale du mois de septembre 2006"
 date: "2006-04-09"
 year: 2006
 location: "Pointe-Noire"
@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Samuel 2:22"
   - "Jérémie 7:1"
+  - "2 Chroniques 7"
   - "Jérémie 7"
   - "Jérémie 27:6-7"
   - "Luc 21"

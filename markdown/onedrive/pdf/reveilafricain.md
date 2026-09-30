@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "reveilafricain"
 title: "Appel au réveil des Africains"
-subtitle: "Exhortation de Juin 2007"
+subtitle: "Exhortation de juin 2007"
 date: "2007-06-01"
 year: 2007
 preacher: "Parfait M'bra"

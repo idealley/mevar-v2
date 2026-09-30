@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "lejeune"
 title: "Pourquoi jeûner ?"
-subtitle: "Exhortation de Mai 2010"
+subtitle: "Exhortation de mai 2010"
 date: "2010-05-08"
 year: 2010
 location: "Koumassi"

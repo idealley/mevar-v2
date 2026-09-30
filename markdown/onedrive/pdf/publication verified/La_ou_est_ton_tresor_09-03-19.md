@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "La_ou_est_ton_tresor_09-03-19"
 duplicate_of: "mevar/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur"
 title: "Là où est ton trésor, là aussi sera ton cœur"
-subtitle: "Exhortation de Mars 2019"
+subtitle: "Exhortation de mars 2019"
 date: "2019-03-09"
 year: 2019
 location: "Kouassikro"
@@ -45,8 +45,8 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Matthieu 24"
-  - "Deutéronome 6:1"
   - "Matthieu 13"
+  - "Deutéronome 6:1"
   - "Genèse 6"
   - "Matthieu 24:12"
   - "Malachie 4"

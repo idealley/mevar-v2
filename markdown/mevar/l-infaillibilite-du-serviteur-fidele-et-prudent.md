@@ -53,6 +53,7 @@ bible_refs:
   - "Malachie 4"
   - "Apocalypse 1:16"
   - "Galates 2"
+  - "Actes 15"
   - "Apocalypse 6:8"
   - "Colossiens 1:24"
   - "Actes 1:12-15"
@@ -80,12 +81,12 @@ bible_refs:
   - "Matthieu 25"
   - "Romains 13"
   - "1 Corinthiens 14"
+  - "Matthieu 25:6"
+  - "Matthieu 24"
   - "Luc 12"
   - "2 Corinthiens 11"
   - "Matthieu 26:41"
 ---
-**L’infaillibilité du serviteur fidèle et prudent**
-
 Je vous salue par cette parole de Romains 3 :4 : « Nullement ! **Mais que Dieu soit reconnu véritable**, et **tout homme menteur**, selon qu’il est écrit : Afin que tu sois trouvé juste dans tes paroles, et que tu gagnes ta cause lorsqu’on te juge. »
 
 Je vous demanderais de me supporter à cause du titre de mon exposé. Mais c’est malheureusement le constat que j’ai pu faire au milieu de nous qui avons cru au Ministère de notre bien-aimé frère Frank. Je le dis en conséquence des choses et je suis capable de prouver. Aujourd’hui, nous avons des raisonnements selon lesquels le frère Frank ne peut se tromper parce qu’il est **le serviteur fidèle et prudent**. Je voyais les choses moi-même de cette manière, mais Dieu m’a fait grâce de comprendre autrement. Sur ce, j’aimerais partager avec vous cette réflexion sur le Ministère de Matthieu 24 :45-47, ce qui m’a conduit à faire un exposé sur les âges de l’Église, mais principalement sur le dernier. Ma prière est que le Seigneur nous aide tous de telle manière que si l’un de nous est dans l’erreur qu’Il le ramène à Lui par Sa grâce. Amen !

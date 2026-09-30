@@ -47,6 +47,7 @@ bible_refs:
   - "Luc 7:28"
   - "Luc 17"
   - "Apocalypse 16"
+  - "Matthieu 24"
   - "Apocalypse 19"
 editorial_pass: "2026-09-30"
 ---

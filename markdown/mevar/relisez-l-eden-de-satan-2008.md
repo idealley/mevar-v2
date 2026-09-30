@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exho_septembre_2008.md"
 sermon_id: "exho_septembre_2008"
 title: "Relisez « L’Éden de Satan »"
-subtitle: "Exhortation de Septembre 2008"
+subtitle: "Exhortation de septembre 2008"
 date: "2008-09-01"
 year: 2008
 preacher: "Parfait M'bra"

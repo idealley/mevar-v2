@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "leretour"
 title: "Le retour des cœurs au Seigneur"
-subtitle: "Exhortation d'Octobre 2010"
+subtitle: "Exhortation d'octobre 2010"
 date: "2010-10-21"
 year: 2010
 location: "Kinshasa"

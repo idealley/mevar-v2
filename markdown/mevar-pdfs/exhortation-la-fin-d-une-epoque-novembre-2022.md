@@ -75,6 +75,9 @@ bible_refs:
   - "1 Thessaloniciens 5:6-9"
   - "Jean 8:12"
   - "Luc 21:34-36"
+  - "1 Pierre 1:14"
+  - "1 Pierre 4:7-8"
+  - "1 Pierre 5:8-9"
   - "Luc 22:37-38"
   - "1 Corinthiens 13:13"
 ---

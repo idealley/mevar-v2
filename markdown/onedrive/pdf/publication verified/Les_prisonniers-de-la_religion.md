@@ -50,8 +50,10 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Ésaïe 55:6"
+  - "Matthieu 24"
   - "Actes 12"
   - "Genèse 18"
+  - "Matthieu 16:13"
   - "Matthieu 18:19-20"
   - "Jean 1"
   - "Ésaïe 7:14"

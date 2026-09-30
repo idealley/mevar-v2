@@ -23,6 +23,7 @@ from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 | 17 | [French typography](goal-17-french-typography.md): a narrow space before « : ; ? ! », added at display | 10 | none |
 | 18 | [Section headings](goal-18-section-headings.md): a line that stands alone as a section title becomes `##` or `###`, in sentence case | 10, 17 | Samuel reads the headings |
 | 19 | [Mevar paths](goal-19-mevar-paths.md): the Mevar texts under `mevar/`, named by title and year | 10, 18 | none |
+| 20 | [Mevar clean-up](goal-20-mevar-cleanup.md): subtitles in sentence case, a split's header, 65's missed spellings, two strays | 10, 18, 19 | Samuel answers the strays |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.

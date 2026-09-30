@@ -48,7 +48,7 @@ bible_refs:
   - "1 Timothée 4:12-16"
   - "Éphésiens 5:27"
 published_with: "mevar/le-manteau-de-l-humilite-2009"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur par cette Parole de 1 Timothée 4 :
 

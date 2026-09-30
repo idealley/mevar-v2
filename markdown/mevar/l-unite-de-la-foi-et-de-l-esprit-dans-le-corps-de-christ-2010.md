@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhojuil20102.md"
 sermon_id: "exhojuil20102"
 title: "L’unité de la foi et de l’esprit dans le Corps de Christ"
-subtitle: "Exhortation de Juillet 2010"
+subtitle: "Exhortation de juillet 2010"
 date: "2010-07-01"
 year: 2010
 preacher: "Parfait M'bra"

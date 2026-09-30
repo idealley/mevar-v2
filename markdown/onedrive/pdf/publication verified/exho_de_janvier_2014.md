@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_de_janvier_2014"
 duplicate_of: "mevar/la-nuit-et-le-jour-des-esprits"
 title: "LA NUIT ET LE JOUR DES ESPRITS"
-subtitle: "Exhortation de Janvier 2014"
+subtitle: "Exhortation de janvier 2014"
 date: "2014-01-01"
 year: 2014
 preacher: "Parfait M'bra"

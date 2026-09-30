@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "la_vision_du_souverain_berger"
 duplicate_of: "mevar/la-vision-du-bon-berger"
 title: "La vision du bon Berger"
-subtitle: "Convention de Lakota, samedi matin 1er Avril 2018"
+subtitle: "Convention de Lakota, samedi matin 1er avril 2018"
 date: "2018-04-01"
 year: 2018
 location: "Lakota"

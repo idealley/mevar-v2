@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "combat_contre_l_ennemi_2012_burkina"
 duplicate_of: "mevar/combat-contre-lennemi"
 title: "Combat contre l’ennemi"
-subtitle: "Exhortation d'Août 2012"
+subtitle: "Exhortation d'août 2012"
 date: "2012-08-31"
 year: 2012
 location: "Houndé, Burkina Faso"
@@ -43,6 +43,8 @@ mevar_match:
   title: "Combat contre l'ennemi"
   similarity: 0.505
 llm_cleaned: true
+bible_refs:
+  - "Matthieu 24:14"
 ---
 ## Combat contre l’ennemi
 

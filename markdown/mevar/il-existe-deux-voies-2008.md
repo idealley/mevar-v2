@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Exhortation _Avril 2008.md"
 sermon_id: "Exhortation _Avril 2008"
 title: "Il existe deux voies"
-subtitle: "Exhortation d'Avril 2008"
+subtitle: "Exhortation d'avril 2008"
 date: "2008-04-01"
 year: 2008
 preacher: "Parfait M'bra"
@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 7:24-27"
   - "Joël 2:12-16"
   - "Apocalypse 22:15-16"
+  - "Ecclésiaste 9:8"
 editorial_pass: "2026-09-28"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous par ces Paroles de Matthieu chapitre 7 :

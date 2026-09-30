@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "offrande__sallee_15_janvier_2018"
 duplicate_of: "mevar/l-offrande-salee"
 title: "L'Offrande salée"
-subtitle: "Exhortation de Janvier 2017"
+subtitle: "Exhortation de janvier 2017"
 date: "2017-01-15"
 year: 2017
 location: "Lausanne"

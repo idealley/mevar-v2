@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortation_de_mai_2008.md"
 sermon_id: "exhortation_de_mai_2008"
 title: "Sauve-toi pour ta vie !"
-subtitle: "Exhortation de Mai 2008"
+subtitle: "Exhortation de mai 2008"
 date: "2008-05-01"
 year: 2008
 preacher: "Parfait M'bra"

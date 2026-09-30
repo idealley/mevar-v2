@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "Luc 4:23"
   - "Matthieu 9:10-13"
+  - "Matthieu 23"
 ---
 *Prêché à Koumassi le Dimanche 15 Février 2015 par le frère M’BRA Parfait*
 

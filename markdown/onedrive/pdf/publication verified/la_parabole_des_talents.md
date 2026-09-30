@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "la_parabole_des_talents"
 duplicate_of: "mevar/la-parabole-des-talents"
 title: "La parabole des talents"
-subtitle: "Exhortation de Janvier 2014"
+subtitle: "Exhortation de janvier 2014"
 date: "2014-01-05"
 year: 2014
 location: "Koumassi"

@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinnov09.md"
 sermon_id: "exhofinnov09"
 title: "Tabitha, servante du Seigneur Jésus-Christ"
-subtitle: "Exhortation de Novembre 2009"
+subtitle: "Exhortation de novembre 2009"
 date: "2009-11-01"
 year: 2009
 preacher: "Parfait M'bra"

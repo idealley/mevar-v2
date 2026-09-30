@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "juin"
 duplicate_of: "mevar/souvenez-vous"
 title: "Souvenez-vous !"
-subtitle: "Exhortation de Juin 2006"
+subtitle: "Exhortation de juin 2006"
 date: "2006-06-01"
 year: 2006
 preacher: "Parfait M'bra"

@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_fin_mai_2012"
 duplicate_of: "mevar/la-parabole-du-pain"
 title: "LA PARABOLE DU PAIN"
-subtitle: "Exhortation de Mai 2012"
+subtitle: "Exhortation de mai 2012"
 date: "2012-05-01"
 year: 2012
 preacher: "Parfait M'bra"

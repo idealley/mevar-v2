@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Marcher_avec_Dieu_02-03-2018"
 duplicate_of: "mevar/la-foi-d-enoch"
 title: "La Foi d'Enoch"
-subtitle: "Exhortation de Février 2018"
+subtitle: "Exhortation de février 2018"
 date: "2018-02-03"
 year: 2018
 location: "Biasso"
@@ -47,6 +47,7 @@ mevar_match:
   similarity: 0.535
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 25"
   - "Genèse 5:21"
   - "Hébreux 11"
   - "Luc 17"

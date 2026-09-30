@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "dons_excellents"
 duplicate_of: "mevar/les-dons-excellents"
 title: "Les dons excellents"
-subtitle: "Exhortation de Novembre 2013"
+subtitle: "Exhortation de novembre 2013"
 date: "2013-11-24"
 year: 2013
 location: "Koumassi"
@@ -41,6 +41,7 @@ mevar_match:
   similarity: 0.51
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 7"
   - "1 Corinthiens 10"
   - "Jacques 1:13"
   - "Jean 3:27"

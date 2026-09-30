@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortation_2011.md"
 sermon_id: "exhortation_2011"
 title: "La guerre des deux maisons – Saül contre David"
-subtitle: "Exhortation de Décembre 2011"
+subtitle: "Exhortation de décembre 2011"
 date: "2011-12-01"
 year: 2011
 preacher: "Parfait M'bra"

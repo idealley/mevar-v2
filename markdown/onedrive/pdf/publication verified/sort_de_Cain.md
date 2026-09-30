@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "sort_de_Cain"
 duplicate_of: "mevar/le-sort-de-cain"
 title: "Le sort de Caïn"
-subtitle: "Exhortation de Février 2013"
+subtitle: "Exhortation de février 2013"
 date: "2013-02-13"
 year: 2013
 location: "Abidjan Koumassi"
@@ -48,6 +48,7 @@ bible_refs:
   - "Hébreux 11"
   - "Ésaïe 53"
   - "Apocalypse 3"
+  - "Matthieu 24:14"
 ---
 *Le sort de Caïn, prêché le dimanche 13 février 2013 à Abidjan Koumassi, par le frère M'BRA Parfait*
 

@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortation_juin_2015.md"
 sermon_id: "exhortation_juin_2015"
 title: "Mettez-moi de la sorte à l’épreuve…"
-subtitle: "Exhortation de Juin 2015"
+subtitle: "Exhortation de juin 2015"
 date: "2015-06-01"
 year: 2015
 preacher: "Parfait M'bra"
@@ -47,6 +47,7 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Malachie 3"
+  - "Hébreux 3:6"
   - "1 Corinthiens 3:9"
   - "Luc 8:1-3"
   - "Jean 13:29"

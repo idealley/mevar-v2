@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "La_mission_du_Saint-Esprit_partie_1"
 duplicate_of: "mevar/la-mission-du-saint-esprit-dans-l-eglise"
 title: "La Mission du Saint-Esprit dans l’Eglise"
-subtitle: "Exhortation de Janvier 2017"
+subtitle: "Exhortation de janvier 2017"
 date: "2017-01-21"
 year: 2017
 location: "Lausanne"
@@ -52,6 +52,7 @@ bible_refs:
   - "1 Corinthiens 12"
   - "Marc 16"
   - "Actes 19"
+  - "Matthieu 24"
 ---
 ## La Mission du Saint-Esprit dans l’Eglise
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 26"
   - "Jean 6"
   - "Psaumes 89:15"
+  - "Matthieu 25"
 ---
 ## Le Dieu des prédictions
 

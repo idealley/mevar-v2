@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Eglise_comme_Obed"
 duplicate_of: "mevar/l-eglise-comme-obed-edom"
 title: "L’Eglise comme Obed-Edom"
-subtitle: "Exhortation de Septembre 2014"
+subtitle: "Exhortation de septembre 2014"
 date: "2014-09-23"
 year: 2014
 location: "Lausanne"

@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "perseverez"
 title: "Persévérez dans la prière et l'intercession"
-subtitle: "Exhortation de Mai 2009"
+subtitle: "Exhortation de mai 2009"
 date: "2009-05-01"
 year: 2009
 preacher: "Parfait M'bra"

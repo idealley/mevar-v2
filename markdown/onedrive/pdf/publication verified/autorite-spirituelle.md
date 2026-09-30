@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "autorite-spirituelle"
 duplicate_of: "mevar/l-autorite-spirituelle"
 title: "L'autorité spirituelle"
-subtitle: "Exhortation de Mai 2015"
+subtitle: "Exhortation de mai 2015"
 date: "2015-05-24"
 year: 2015
 location: "Koumassi"
@@ -47,6 +47,7 @@ mevar_match:
   similarity: 0.69
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 28"
   - "Jean 19"
   - "Actes 4"
   - "Matthieu 18"

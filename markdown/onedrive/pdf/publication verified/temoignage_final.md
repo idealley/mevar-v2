@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "temoignage_final"
 duplicate_of: "mevar/le-temoignage-final"
 title: "Le témoignage final"
-subtitle: "Exhortation de Mai 2009"
+subtitle: "Exhortation de mai 2009"
 date: "2009-05-03"
 year: 2009
 location: "Koumassi"

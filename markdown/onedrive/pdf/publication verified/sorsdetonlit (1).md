@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "sorsdetonlit (1)"
 duplicate_of: "mevar/sors-de-ton-lit"
 title: "SORS DE TON LIT !"
-subtitle: "Exhortation de Février 2009"
+subtitle: "Exhortation de février 2009"
 date: "2009-02-15"
 year: 2009
 location: "Koumassi"

@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhomai2010.md"
 sermon_id: "exhomai2010"
 title: "La vision du Macédonien"
-subtitle: "Exhortation de Mai 2010"
+subtitle: "Exhortation de mai 2010"
 date: "2010-05-01"
 year: 2010
 location: "Koumassi"

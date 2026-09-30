@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Le_vieux_vin_et_le_vin_nouveau_dans_le_message_du_temps_de_la_fin.md"
 sermon_id: "Le_vieux_vin_et_le_vin_nouveau_dans_le_message_du_temps_de_la_fin"
 title: "Le vieux vin et le vin nouveau dans le Message du temps de la fin"
-subtitle: "Exhortation de Juin 2018"
+subtitle: "Exhortation de juin 2018"
 date: "2018-06-11"
 year: 2018
 location: "Koumassi"

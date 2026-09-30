@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exhortation_de_Juin-2018"
 duplicate_of: "mevar/les-visages-de-satan"
 title: "LES VISAGES DE SATAN"
-subtitle: "Exhortation de Juin 2018"
+subtitle: "Exhortation de juin 2018"
 date: "2018-06-01"
 year: 2018
 preacher: "Parfait M'bra"
@@ -48,7 +48,10 @@ mevar_match:
   similarity: 0.68
 llm_cleaned: true
 bible_refs:
+  - "2 Pierre 3"
   - "Luc 17:26-32"
+  - "2 Pierre 2:5-7"
+  - "2 Pierre 2:7"
   - "Jacques 5:11"
   - "1 Pierre 4:1"
   - "Job 42:7-9"

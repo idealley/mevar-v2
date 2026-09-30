@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "onction_fait_ladifference"
 title: "L'onction fait la différence"
-subtitle: "Exhortation de Septembre 2013"
+subtitle: "Exhortation de septembre 2013"
 date: "2013-09-01"
 year: 2013
 location: "Ouagadougou"
@@ -53,8 +53,8 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Malachie 4"
-  - "Luc 2"
   - "Matthieu 25"
+  - "Luc 2"
   - "Marc 13"
   - "Apocalypse 3"
   - "Apocalypse 22"

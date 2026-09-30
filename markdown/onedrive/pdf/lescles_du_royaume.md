@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "lescles_du_royaume"
 title: "Les Clefs du Royaume de Dieu"
-subtitle: "Exhortation de Juin 2013"
+subtitle: "Exhortation de juin 2013"
 date: "2013-06-30"
 year: 2013
 location: "Koumassi"
@@ -42,6 +42,7 @@ llm_cleaned: true
 bible_refs:
   - "Marc 11:12-14"
   - "Apocalypse 3:7"
+  - "Matthieu 19:25-26"
   - "Marc 9:21-24"
   - "Marc 11"
 ---

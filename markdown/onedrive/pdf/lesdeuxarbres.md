@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "lesdeuxarbres"
 title: "Les deux arbres"
-subtitle: "Exhortation de Juillet 2010"
+subtitle: "Exhortation de juillet 2010"
 date: "2010-07-25"
 year: 2010
 location: "Koumassi"

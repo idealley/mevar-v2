@@ -57,6 +57,7 @@ bible_refs:
   - "Jonas 3:1-7"
   - "Daniel 9:1-4"
   - "Matthieu 11:20-24"
+  - "Matthieu 11:21"
   - "Malachie 4"
   - "Ésaïe 62:6"
   - "1 Corinthiens 13"

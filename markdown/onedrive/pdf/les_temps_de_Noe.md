@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "les_temps_de_Noe"
 title: "Les temps de Noé"
-subtitle: "Exhortation de Décembre 2012"
+subtitle: "Exhortation de décembre 2012"
 date: "2012-12-09"
 year: 2012
 location: "Morofé (Yamoussoukro)"

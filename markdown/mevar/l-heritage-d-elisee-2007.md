@@ -45,6 +45,7 @@ bible_refs:
   - "Malachie 4:5"
   - "1 Rois 19"
   - "1 Rois 18"
+  - "Matthieu 25"
 editorial_pass: "2026-09-29"
 ---
 Que notre Seigneur soit béni. Nous sommes reconnaissants au Seigneur pour notre présence dans cette assemblée. Je pense que nous sommes à la dernière réunion aujourd’hui – demain matin on va retourner à Cotonou. Donc je profite de l’occasion pour vous dire au revoir. Alléluia ! Mais l’année prochaine je vais revenir. Alléluia ! C’est vrai ! Tant qu’on n’est pas encore enlevé, on doit vous rendre visite. **Alors ce soir, je vais apporter une parole pour vous encourager à entrer dans la vision du réveil – c’est une prédication importante. Je peux dire que c’est le Message principal que je vous adresse ici au Nigeria**. Alléluia ! C’est le Message principal que je vous adresse dans cette église. Alors prêtez attention à cela frères et sœurs. Que notre Seigneur soit béni. **Je voudrais parler de l’héritage d’Élisée**. J’ai apporté cette parole à So-chanwé. Alléluia ! Nous allons lire. On ne va pas perdre le temps, on va se lever.

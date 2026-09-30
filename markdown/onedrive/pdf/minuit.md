@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "minuit"
 title: "Le Message de Minuit"
-subtitle: "Exhortation spéciale du Mois de Décembre 2006"
+subtitle: "Exhortation spéciale du mois de décembre 2006"
 date: "2006-12-01"
 year: 2006
 location: "Soubré"
@@ -69,6 +69,7 @@ bible_refs:
   - "Lévitique 10:1"
   - "Ésaïe 58"
   - "Ésaïe 42:19"
+  - "1 Pierre 4:12-13"
 ---
 *Exhortation spéciale du Mois de Décembre 2006*
 

@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "lefruit"
 title: "Le fruit utile"
-subtitle: "Exhortation de Juin 2011"
+subtitle: "Exhortation de juin 2011"
 date: "2011-06-26"
 year: 2011
 location: "Koumassi"

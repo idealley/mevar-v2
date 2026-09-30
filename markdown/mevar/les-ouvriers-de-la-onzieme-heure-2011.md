@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exo_juin_2011.md"
 sermon_id: "exo_juin_2011"
 title: "Les ouvriers de la onzième heure"
-subtitle: "Exhortation de Juin 2011"
+subtitle: "Exhortation de juin 2011"
 date: "2011-06"
 year: 2011
 summary: "Cette exhortation explore la parabole des ouvriers embauchés à différentes heures (Matthieu 20) pour enseigner sur le travail dans la vigne du Seigneur. L'auteur insiste sur l'importance d'être embauché par le Maître, de travailler en équipe sous la direction du porteur de la Parole, et de produire des fruits dignes de la repentance. Il met en garde contre la rébellion, la division et l'appropriation de la vigne, et souligne que la Bonne Nouvelle du Royaume doit être annoncée jusqu'à la fin des temps."

@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "pred_aimes_tu"
 title: "Ami, m'aimes-tu ?"
-subtitle: "Exhortation de Mars 2009"
+subtitle: "Exhortation de mars 2009"
 date: "2009-03-15"
 year: 2009
 location: "Koumassi"

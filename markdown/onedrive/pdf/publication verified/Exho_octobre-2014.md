@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Exho_octobre-2014"
 duplicate_of: "mevar/le-fils-male-lanon-prophetique"
 title: "LE FILS MALE - L'ANON PROPHETIQUE"
-subtitle: "Exhortation d'Octobre 2014"
+subtitle: "Exhortation d'octobre 2014"
 date: "2014-10-01"
 year: 2014
 preacher: "Parfait M'bra"
@@ -57,6 +57,7 @@ mevar_match:
   similarity: 0.529
 llm_cleaned: true
 bible_refs:
+  - "Habacuc 2:1"
   - "Matthieu 24:42"
   - "Matthieu 25:13"
   - "Marc 13:35"

@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exhortation_decembre_2013"
 duplicate_of: "mevar/la-solution-a-la-souffrance"
 title: "LA SOLUTION A LA SOUFFRANCE"
-subtitle: "Exhortation de Décembre 2013"
+subtitle: "Exhortation de décembre 2013"
 date: "2013-12-01"
 year: 2013
 preacher: "Parfait M'bra"

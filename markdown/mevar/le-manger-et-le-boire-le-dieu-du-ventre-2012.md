@@ -50,7 +50,10 @@ bible_refs:
   - "1 Pierre 5:8"
   - "Luc 6:39-42"
   - "Jean 5"
+  - "2 Pierre 1:19-21"
   - "Romains 6:5-9"
+  - "Hébreux 4:9-11"
+  - "1 Pierre 5:10"
 editorial_pass: "2026-09-29"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer pour ce mois de juillet par cette question de Jésus dans Luc chapitre 6 :

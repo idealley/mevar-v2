@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exhortation_Mars_2014"
 duplicate_of: "mevar/l-amour-et-la-connaissance"
 title: "L'AMOUR ET LA CONNAISSANCE"
-subtitle: "Exhortation de Mars 2014"
+subtitle: "Exhortation de mars 2014"
 date: "2014-03-01"
 year: 2014
 preacher: "Parfait M'bra"

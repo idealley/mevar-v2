@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "lezeleduseigneur"
 title: "Le zèle pour l'Eternel"
-subtitle: "Exhortation de Mars 2011"
+subtitle: "Exhortation de mars 2011"
 date: "2011-03-27"
 year: 2011
 location: "Koumassi"
@@ -55,6 +55,7 @@ themes:
   - "Foi et persévérance"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 13"
   - "2 Rois 10"
   - "2 Rois 10:15-30"
   - "2 Rois 9"

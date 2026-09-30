@@ -55,6 +55,8 @@ bible_refs:
   - "1 Rois 17"
   - "Zacharie 10:1"
   - "Hébreux 10:10"
+  - "Hébreux 13:11-13"
+  - "1 Pierre 1:22-23"
   - "Lévitique 10:1-3"
 ---
 ## La toilette du chrétien

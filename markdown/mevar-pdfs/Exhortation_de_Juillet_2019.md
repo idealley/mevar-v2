@@ -65,6 +65,7 @@ bible_refs:
   - "Luc 21:36"
   - "Matthieu 24:12"
   - "Proverbes 29:2"
+  - "2 Pierre 2:7-9"
   - "1 Jean 5:4"
 ---
 *Exhortation de Juillet 2019*

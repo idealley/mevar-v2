@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhoavril20102.md"
 sermon_id: "exhoavril20102"
 title: "L’ultime épreuve"
-subtitle: "Exhortation d'Avril 2010"
+subtitle: "Exhortation d'avril 2010"
 date: "2010-03-28"
 year: 2010
 location: "Koumassi"

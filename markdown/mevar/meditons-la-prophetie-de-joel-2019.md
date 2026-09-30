@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exho-mai_2019.md"
 sermon_id: "exho-mai_2019"
 title: "Méditons la prophétie de Joël"
-subtitle: "Exhortation de Mai 2019"
+subtitle: "Exhortation de mai 2019"
 date: "2019-05-01"
 year: 2019
 preacher: "Parfait M'bra"

@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/ExhortationOctobre2007.md"
 sermon_id: "ExhortationOctobre2007"
 title: "La vision de l’Épouse"
-subtitle: "Exhortation d'Octobre 2007"
+subtitle: "Exhortation d'octobre 2007"
 date: "2007-10-01"
 year: 2007
 preacher: "Parfait M'bra"

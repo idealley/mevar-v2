@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exo_mai_2012.md"
 sermon_id: "exo_mai_2012"
 title: "Des hommes et des actes de foi"
-subtitle: "Exhortation de Mai 2012"
+subtitle: "Exhortation de mai 2012"
 date: "2012-05-01"
 year: 2012
 preacher: "Parfait M'bra"

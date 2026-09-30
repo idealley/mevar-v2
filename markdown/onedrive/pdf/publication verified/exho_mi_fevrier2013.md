@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_mi_fevrier2013"
 duplicate_of: "mevar/se-placer-sous-la-benediction-de-dieu"
 title: "Se placer sous la bénédiction de Dieu"
-subtitle: "Exhortation de Mi-Février 2013"
+subtitle: "Exhortation de mi-février 2013"
 date: "2013-02-15"
 year: 2013
 preacher: "Parfait M'bra"

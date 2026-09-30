@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "petit_troupeau"
 duplicate_of: "mevar/le-petit-troupeau-de-la-fin-des-temps"
 title: "Le petit troupeau de la fin des temps"
-subtitle: "Exhortation de Novembre 2012"
+subtitle: "Exhortation de novembre 2012"
 date: "2012-11-08"
 year: 2012
 location: "Lausanne"

@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "le_droit_de_rachat"
 duplicate_of: "mevar/le-droit-de-rachat"
 title: "Le droit de rachat"
-subtitle: "Exhortation de Janvier 2014"
+subtitle: "Exhortation de janvier 2014"
 date: "2014-01-12"
 year: 2014
 location: "BIASSO"

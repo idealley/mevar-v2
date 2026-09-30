@@ -47,6 +47,7 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Genèse 6"
+  - "1 Jean 5:4"
   - "Éphésiens 2:20"
   - "Ésaïe 27"
   - "Apocalypse 12"

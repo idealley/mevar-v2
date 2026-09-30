@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "Jourssaint"
 duplicate_of: "mevar/aux-jours-du-saint-esprit"
 title: "Aux jours du Saint-Esprit"
-subtitle: "Exhortation d'Avril 2006"
+subtitle: "Exhortation d'avril 2006"
 date: "2006-04-18"
 year: 2006
 location: "Pointe Noire, Congo/Brazzaville"
@@ -44,6 +44,7 @@ mevar_match:
   similarity: 0.529
 llm_cleaned: true
 bible_refs:
+  - "1 Corinthiens 10:4"
   - "Luc 18"
   - "Matthieu 25:6"
   - "Jean 7:37"
@@ -51,6 +52,7 @@ bible_refs:
   - "Luc 9:58"
   - "Actes 19:1-5"
   - "Actes 19"
+  - "1 Thessaloniciens 5:19"
 ---
 ## AUX JOURS DU SAINT-ESPRIT
 

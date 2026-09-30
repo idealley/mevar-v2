@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exho_ juillet_2013"
 duplicate_of: "mevar/qu-ismael-vive-devant-ta-face"
 title: "Qu'Ismaël vive devant ta face"
-subtitle: "Exhortation de Juillet 2013"
+subtitle: "Exhortation de juillet 2013"
 date: "2013-07-01"
 year: 2013
 preacher: "Parfait M'bra"
@@ -58,9 +58,9 @@ bible_refs:
   - "Apocalypse 12"
   - "Galates 5:1"
   - "Exode 2"
+  - "2 Pierre 1:19"
   - "Marc 13:33-37"
   - "Apocalypse 22:16"
-  - "2 Pierre 1:19"
   - "Apocalypse 3:21"
 ---
 ## Qu'Ismaël vive devant ta face

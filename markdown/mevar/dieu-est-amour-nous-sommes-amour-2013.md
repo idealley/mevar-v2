@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortation_ de_ decembre_2013.md"
 sermon_id: "exhortation_ de_ decembre_2013"
 title: "Dieu est amour – nous sommes amour"
-subtitle: "Exhortation de Novembre 2013"
+subtitle: "Exhortation de novembre 2013"
 date: "2013-11-01"
 year: 2013
 preacher: "Parfait M'bra"

@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "exhortation_avril_2014"
 duplicate_of: "mevar/le-soldat-urie"
 title: "LE SOLDAT URIE"
-subtitle: "Exhortation d'Avril 2014"
+subtitle: "Exhortation d'avril 2014"
 date: "2014-04-01"
 year: 2014
 preacher: "Parfait M'bra"

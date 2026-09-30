@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exo_de_ juin_2013.md"
 sermon_id: "exo_de_ juin_2013"
 title: "Le temps de la restitution"
-subtitle: "Exhortation de Juin 2013"
+subtitle: "Exhortation de juin 2013"
 date: "2013-06-01"
 year: 2013
 preacher: "Parfait M'bra"

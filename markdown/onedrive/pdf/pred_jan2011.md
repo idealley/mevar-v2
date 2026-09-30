@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "pred_jan2011"
 title: "L'accomplissement de la bonne Parole"
-subtitle: "Exhortation d'Octobre 2010"
+subtitle: "Exhortation d'octobre 2010"
 date: "2010-10-13"
 year: 2010
 location: "Kinshasa (RDC)"

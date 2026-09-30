@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "le_fils_prodigue"
 duplicate_of: "mevar/le-fils-prodigue"
 title: "Le fils prodigue"
-subtitle: "Exhortation de Novembre 2013"
+subtitle: "Exhortation de novembre 2013"
 date: "2013-11-09"
 year: 2013
 location: "Prilly"

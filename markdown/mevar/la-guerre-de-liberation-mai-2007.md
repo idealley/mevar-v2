@@ -49,7 +49,7 @@ bible_refs:
   - "1 Thessaloniciens 5:17"
   - "Matthieu 26:41"
 published_with: "mevar/la-guerre-de-liberation-avril-2007"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 **Sortez de Babylone** !
 

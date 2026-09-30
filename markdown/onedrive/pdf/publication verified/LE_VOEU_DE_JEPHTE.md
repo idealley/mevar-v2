@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "LE_VOEU_DE_JEPHTE"
 duplicate_of: "mevar/le-voeux-de-jephte"
 title: "Le vœu de Jephté"
-subtitle: "Exhortation d'Octobre 2013"
+subtitle: "Exhortation d'octobre 2013"
 date: "2013-10-06"
 year: 2013
 location: "Kinshasa"
@@ -59,6 +59,7 @@ bible_refs:
   - "Apocalypse 4"
   - "Apocalypse 6"
   - "Juges 11"
+  - "Actes 18"
   - "Nombres 30"
 ---
 ## Le vœu de Jephté

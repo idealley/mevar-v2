@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "semence"
 title: "La semence royale"
-subtitle: "Exhortation de Novembre 2011"
+subtitle: "Exhortation de novembre 2011"
 date: "2011-11-13"
 year: 2011
 location: "Koumassi"

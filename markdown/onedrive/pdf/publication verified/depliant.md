@@ -43,6 +43,7 @@ bible_refs:
   - "1 Corinthiens 15:1"
   - "Jean 4:47"
   - "Apocalypse 1:5"
+  - "1 Pierre 1:18"
   - "Actes 15:8"
   - "Actes 2:38"
   - "Romains 9:30"
