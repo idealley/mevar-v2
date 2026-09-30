@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 2:1-7"
   - "Jean 1:1,14"
+  - "Matthieu 2:18"
   - "Romains 8:28"
   - "Nombres 12:6"
   - "Jérémie 1:5"
@@ -47,6 +48,7 @@ bible_refs:
   - "Deutéronome 22:5-21"
   - "Hébreux 13:8"
   - "Luc 24:49"
+  - "Matthieu 1:20"
   - "Ésaïe 9:5"
   - "Daniel 2:45"
   - "Actes 10:35"
@@ -54,6 +56,7 @@ bible_refs:
   - "Actes 2:38"
   - "Jean 15:7"
   - "Malachie 4:6"
+  - "Matthieu 10:37"
   - "Luc 14:26"
   - "2 Pierre 1:20"
   - "Matthieu 5:18"

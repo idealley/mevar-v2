@@ -44,6 +44,8 @@ bible_refs:
   - "Jean 3:16"
   - "Genèse 21:14-19"
   - "Genèse 16:13"
+  - "Hébreux 13:8"
+  - "Matthieu 4:3"
   - "Romains 8:29-30"
   - "Ésaïe 49:15"
 original: "branham/1962/62-1209"

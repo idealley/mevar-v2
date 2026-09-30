@@ -47,7 +47,7 @@ bible_refs:
   - "Hébreux 11:10"
   - "Jean 15:7"
   - "Éphésiens 4:30"
-  - "Genèse 22:17,12"
+  - "Genèse 22:17"
   - "Hébreux 6:5-6"
   - "Actes 2:27"
   - "Luc 7:11-17"

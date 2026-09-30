@@ -47,7 +47,6 @@ bible_refs:
   - "Job 42:5"
   - "Job 42:10"
   - "Job 42:12-17"
-  - "Jacques 5"
   - "Jacques 5:11"
   - "Luc 4:14"
   - "Romains 13:14"

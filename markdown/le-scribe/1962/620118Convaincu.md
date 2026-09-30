@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 1:15"
   - "Ésaïe 40:3"
   - "Actes 2:39"
+  - "Matthieu 6:33"
   - "Jean 12:32"
   - "Juges 3:31"
   - "Genèse 18:2"

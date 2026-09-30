@@ -76,6 +76,8 @@ bible_refs:
   - "Deutéronome 18:15-22"
   - "Apocalypse 17"
   - "Romains 3:4"
+  - "Matthieu 11:25"
+  - "Matthieu 16:16"
   - "Apocalypse 2:21-22"
   - "Apocalypse 2:22"
   - "Apocalypse 2:23"

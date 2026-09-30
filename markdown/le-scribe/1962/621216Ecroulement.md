@@ -47,8 +47,10 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/621216Ecroulement.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 19:14"
   - "Michée 1:2-4"
   - "Hébreux 12:25"
+  - "Matthieu 23:31"
   - "Apocalypse 17"
   - "Hébreux 13:8"
   - "Jean 8:46"
@@ -61,9 +63,11 @@ bible_refs:
   - "Éphésiens 4:11"
   - "Romains 8:29-30"
   - "Ésaïe 40:8"
+  - "Matthieu 16:18"
   - "Hébreux 12:28"
   - "Actes 2:38"
   - "Éphésiens 2:6"
+  - "Matthieu 25:40"
 original: "branham/1962/62-1216"
 ---
 **Résumé de!: “L’écroulement du monde” (16 Décembre1962, matin)**

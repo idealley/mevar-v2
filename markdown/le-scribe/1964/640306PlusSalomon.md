@@ -46,6 +46,7 @@ pdf_url: "http://le-scribe.org/pdfiles/640306PlusSalomon.pdf"
 llm_cleaned: true
 bible_refs:
   - "Matthieu 12:38-42"
+  - "Matthieu 16:3"
   - "Deutéronome 18:15,19"
   - "Jean 1:11"
   - "Jean 6:37,44"
@@ -57,6 +58,9 @@ bible_refs:
   - "Actes 2:38-39"
   - "1 Rois 10"
   - "Genèse 32:24-32"
+  - "Matthieu 15:21-28"
+  - "Hébreux 13:8"
+  - "Matthieu 12:42"
   - "Jean 6:53-55"
   - "Jean 6:61-62"
   - "Jean 6:68"
@@ -66,8 +70,9 @@ bible_refs:
   - "Nombres 16:21"
   - "Exode 19"
   - "Jean 14:11"
-  - "Jean 14:20,15"
+  - "Jean 14:20"
   - "Luc 8:43-48"
+  - "Hébreux 4:15"
 original: "branham/1964/64-0306"
 ---
 **Résumé de!: “Il y a maintenant ici plus que Salomon” (6 mars 1964, soir)**

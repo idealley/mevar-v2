@@ -62,6 +62,7 @@ bible_refs:
   - "Matthieu 9:12"
   - "Galates 5:22"
   - "Romains 1:20,2"
+  - "Hébreux 11:27"
   - "Genèse 1:11-12"
   - "Lévitique 19:19"
   - "Apocalypse 17:5"
@@ -70,12 +71,14 @@ bible_refs:
   - "Daniel 6:10-24"
   - "Daniel 3:13-30"
   - "Luc 17:11-19"
+  - "Matthieu 8:5-13"
   - "Luc 8:40-56"
   - "Luc 8:43-48"
   - "Luc 8:26-39"
   - "Luc 18:35-43"
   - "Jean 4:1-42"
   - "Jean 11:25"
+  - "Hébreux 4:12"
 original: "branham/1963/63-0721"
 ---
 **Résumé de!: “Il se soucie de vous. Vous souciez-vous de lui ?” (21 juillet 1963 matin)**

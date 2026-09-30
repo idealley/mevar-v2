@@ -35,16 +35,20 @@ bible_refs:
   - "2 Timothée 2"
   - "Genèse 3"
   - "Ésaïe 7"
+  - "Matthieu 1"
+  - "Matthieu 28"
   - "Psaumes 112"
   - "Romains 6"
   - "Romains 8"
   - "1 Jean 4"
   - "Jean 13"
   - "1 Corinthiens 13"
+  - "Matthieu 24"
   - "1 Jean 2"
   - "Jean 8"
   - "Colossiens 3"
   - "Romains 13"
+  - "Matthieu 5"
 ---
 EXHORTATION
 ANNEE 2022

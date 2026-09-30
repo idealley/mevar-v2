@@ -38,6 +38,7 @@ bible_refs:
   - "Nombres 23:9"
   - "Proverbes 14:12"
   - "Hébreux 11:4"
+  - "Matthieu 16:17-18"
   - "Romains 9:13"
   - "2 Corinthiens 6:17"
   - "Nombres 24:8"

@@ -240,7 +240,8 @@
         "kind": "word",
         "why": "editor: « ça a été », whose « a » the transcriber could not hear"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin mai 2017"
   },
   "markdown/onedrive/pdf/Exhortation_finOctobre2007.md": {
     "title": null,
@@ -299,7 +300,8 @@
         "kind": "word",
         "why": "editor: « avoir affaire à »; the transcriber wrote « à faire »"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin octobre 2007"
   },
   "markdown/onedrive/pdf/Exhortation_octobre 2011.md": {
     "title": "L’habillement selon Dieu",
@@ -1103,7 +1105,8 @@
         "kind": "message",
         "why": "« paroles en l’air » means empty words, not the Word of God"
       }
-    ]
+    ],
+    "subtitle": "Koumassi, dimanche 16 décembre 2007"
   },
   "markdown/onedrive/pdf/La_vision_de_la_montagne.md": {
     "title": null,
@@ -1562,7 +1565,8 @@
         "kind": "typo",
         "why": "no agreement: 'nous' is an indirect object"
       }
-    ]
+    ],
+    "subtitle": "Prêché à Koumassi, le dimanche 11 juin 2018"
   },
   "markdown/onedrive/pdf/Lechemindelacroix.md": {
     "title": null,
@@ -1615,7 +1619,8 @@
         "kind": "typo",
         "why": "capital Évangile as everywhere else in the text"
       }
-    ]
+    ],
+    "subtitle": "Koumassi le dimanche 13 décembre 2009"
   },
   "markdown/onedrive/pdf/Lefiguiersterile.md": {
     "title": null,
@@ -2075,7 +2080,8 @@
         "kind": "typo",
         "why": "people name takes a capital"
       }
-    ]
+    ],
+    "subtitle": "Prêché le 1er juin 2019"
   },
   "markdown/onedrive/pdf/Lestresorsducoeur.md": {
     "title": null,
@@ -2818,7 +2824,8 @@
         "kind": "markup",
         "why": "sermon titles take a capital, as elsewhere in the corpus"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin avril 2011"
   },
   "markdown/onedrive/pdf/exhobilan2008.md": {
     "title": "2009 – année de campagne",
@@ -2973,7 +2980,8 @@
         "kind": "typo",
         "why": "capital at the start of the angel's quoted words, as in the other quotes"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin février"
   },
   "markdown/onedrive/pdf/exhofin_aout.md": {
     "title": "Événements mystérieux dans le soleil",
@@ -3151,7 +3159,8 @@
         "kind": "message",
         "why": "the angel's message to Daniel, not the end-time Message"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin août 2009"
   },
   "markdown/onedrive/pdf/exhofinnov09.md": {
     "title": null,
@@ -3186,7 +3195,8 @@
         "kind": "typo",
         "why": "list items after « notamment : » all start lowercase"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin novembre 2009"
   },
   "markdown/onedrive/pdf/exhofinoct.md": {
     "title": null,
@@ -3197,7 +3207,8 @@
         "kind": "typo",
         "why": "quote ends without final punctuation"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin octobre 2011"
   },
   "markdown/onedrive/pdf/exhofinoct2010.md": {
     "title": null,
@@ -3269,6 +3280,7 @@
         "why": "accent on capital (batch 01 lesson), spacing kept"
       }
     ],
+    "subtitle": "Exhortation fin octobre 2010",
     "split": {
       "at": "Mes chers amis,\n\nJ’ai demandé à un de mes collaborateurs",
       "frontmatter": {
@@ -3339,7 +3351,8 @@
         "kind": "typo",
         "why": "exclamation, not a question"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin septembre 2010"
   },
   "markdown/onedrive/pdf/exhojuil2010.md": {
     "title": "Jésus-Christ est ma guérison",
@@ -4439,7 +4452,8 @@
         "kind": "typo",
         "why": "commas around the address"
       }
-    ]
+    ],
+    "subtitle": "Exhortation de fin mars 2009"
   },
   "markdown/onedrive/pdf/exhospecialjuin2009.md": {
     "title": "La désolation d’Élie",
@@ -4456,7 +4470,8 @@
         "kind": "markup",
         "why": "document header (title or subtitle, in the frontmatter), as in batches 01 and 02"
       }
-    ]
+    ],
+    "subtitle": "Exhortation spéciale de juin 2009"
   },
   "markdown/onedrive/pdf/exhortation_2011.md": {
     "title": null,
@@ -4521,7 +4536,8 @@
         "kind": "typo",
         "why": "closing comma of the apposition"
       }
-    ]
+    ],
+    "subtitle": "Exhortation fin décembre 2011"
   },
   "markdown/onedrive/pdf/exo_Juin_2014_1.md": {
     "title": "La position du juste dans la prière efficace",
@@ -5030,7 +5046,8 @@
         "kind": "typo",
         "why": "a language name is lowercase, as in « tu ne comprends pas bété »"
       }
-    ]
+    ],
+    "subtitle": "Prêché le dimanche 18 janvier 2009 à Koumassi"
   },
   "markdown/onedrive/pdf/harmonie_dans_le_champpff.md": {
     "title": "L’harmonie dans le champ",
@@ -5858,7 +5875,8 @@
         "kind": "typo",
         "why": "misspelt conjugation of « acquérir », same sound"
       }
-    ]
+    ],
+    "subtitle": "Prêché le dimanche 27 janvier 2013 à Koumassi"
   },
   "markdown/onedrive/pdf/la_guerre_des_dieux.md": {
     "title": null,
@@ -6269,7 +6287,8 @@
         "kind": "typo",
         "why": "impersonal « il appartient », not God"
       }
-    ]
+    ],
+    "subtitle": "Prêchée le 21 juin 2009 à Koumassi"
   },
   "markdown/onedrive/pdf/la_vision_de_la_fin.md": {
     "title": null,
@@ -6340,7 +6359,8 @@
         "kind": "markup",
         "why": "closing of the reading now set as a quote"
       }
-    ]
+    ],
+    "subtitle": "Prêchée le dimanche 28 juin 2009"
   },
   "markdown/onedrive/pdf/la_vision_du_royaume_de_dieu.md": {
     "title": "La vision du Royaume de Dieu",
@@ -6638,7 +6658,8 @@
         "kind": "word",
         "why": "the preacher's slip: the verse he gives (« faites les nations des disciples et baptisez-les… ») is Matthieu 28:19-20 in the Segond database, not 26:19-20 (Samuel)"
       }
-    ]
+    ],
+    "subtitle": "Prêché à Koumassi le dimanche 23 octobre 2011"
   },
   "markdown/onedrive/pdf/laluttedejacob.md": {
     "title": null,
@@ -6942,6 +6963,7 @@
         "why": "name spelled as in the Luc 4 reading (Naaman)"
       }
     ],
+    "subtitle": "Prêché à Lagos, Mankoko, le 22 janvier 2007",
     "persons": [
       "William Branham",
       "Élie",
@@ -7096,7 +7118,8 @@
         "kind": "typo",
         "why": "« par là » (by that) takes no hyphen"
       }
-    ]
+    ],
+    "subtitle": "Prêché le samedi 15 février 2014 à Sinfra"
   },
   "markdown/onedrive/pdf/le_jugement.md": {
     "title": null,
@@ -7190,7 +7213,8 @@
         "kind": "typo",
         "why": "imperative « viens » (homophone), vocative comma"
       }
-    ]
+    ],
+    "subtitle": "Prêché le dimanche 03 février 2013 à Koumassi"
   },
   "markdown/onedrive/pdf/le_mystere_de_l_iniquite.md": {
     "title": null,
@@ -7255,7 +7279,8 @@
         "kind": "typo",
         "why": "agreement slip with « nous »"
       }
-    ]
+    ],
+    "subtitle": "Prêché le dimanche 23 janvier 2011 à Koumassi"
   },
   "markdown/onedrive/pdf/le_siege_de_adversaire.md": {
     "title": null,

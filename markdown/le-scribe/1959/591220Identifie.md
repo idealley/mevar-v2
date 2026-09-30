@@ -41,6 +41,7 @@ bible_refs:
   - "Actes 2:6"
   - "Actes 8:18"
   - "1 Corinthiens 13:1"
+  - "Hébreux 6"
   - "Romains 6:1-5"
   - "Actes 2:37-39"
 original: "branham/1959/59-1220E"

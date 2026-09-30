@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "Apocalypse 9:3-4"
   - "Hébreux 10:26-27"
+  - "Matthieu 16:18"
   - "Jean 6:44"
   - "Ézéchiel 8"
   - "Ézéchiel 9:3"

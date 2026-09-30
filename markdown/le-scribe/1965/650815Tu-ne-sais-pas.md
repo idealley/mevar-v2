@@ -44,6 +44,7 @@ pdf_url: "http://le-scribe.org/pdfiles/650815Tu-ne-sais-pas.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 3:14-19"
+  - "Matthieu 22:21"
   - "Romains 16:1"
   - "Genèse 6:2"
   - "Nombres 25:1"
@@ -55,6 +56,7 @@ bible_refs:
   - "Jean 6:37"
   - "Jean 10:4"
   - "Apocalypse 9:8-10"
+  - "Matthieu 7:22,23"
 original: "branham/1965/65-0815"
 ---
 **1.** Après une séance au stand de tir avec le jeune Joe Capps, nous avons fait un détour chez Billy, et j'ai été alors appelé au téléphone par le frère Capps. Dieu dispose toutes choses, car sans ce détour chez Billy, Capps n'aurait pas pu me contacter : son fils était en salle d'opération pour une péritonite grave. Tout va bien maintenant. J'espère pouvoir aller à la chasse aux écureuils ces jours-ci, c'est ma détente préférée. Je remercie Dieu pour votre pasteur Orman Neville qui est satisfait de vous. Ce matin, je parlerai seulement à cœur ouvert, car je n'ai pas de sujet précis.

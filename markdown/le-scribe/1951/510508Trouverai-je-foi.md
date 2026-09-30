@@ -34,11 +34,14 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510508Trouverai-je-foi.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 7:16"
   - "Galates 5:22"
   - "1 Corinthiens 13:1-3"
   - "Hébreux 11:1"
   - "Jean 4:23"
   - "Luc 18:8"
+  - "Matthieu 9:22"
+  - "Matthieu 9:29"
   - "Jean 3:14"
   - "Ésaïe 53:5"
   - "Jean 15:7"

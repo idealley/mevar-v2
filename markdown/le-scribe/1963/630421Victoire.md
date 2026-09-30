@@ -43,6 +43,7 @@ bible_refs:
   - "Apocalypse 15:1"
   - "Hébreux 11:4"
   - "Jean 1:29"
+  - "Matthieu 24:6"
   - "Jean 14:12"
   - "Josué 1:5"
   - "Jacques 1:2"

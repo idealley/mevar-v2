@@ -99,7 +99,7 @@ bible_refs:
   - "Michée 5:1-5"
   - "Genèse 11"
   - "Apocalypse 17:1-5"
-  - "Apocalypse 16:13,19"
+  - "Apocalypse 16:13"
   - "Apocalypse 2:20"
   - "Jean 10:12"
   - "Apocalypse 2:1-7"

@@ -43,6 +43,7 @@ bible_refs:
   - "1 Jean 2:9-11"
   - "Colossiens 3:13"
   - "Marc 11:26"
+  - "Matthieu 24:48-51"
   - "Psaumes 50:20-21"
   - "Actes 5:32"
   - "Hébreux 10:29"

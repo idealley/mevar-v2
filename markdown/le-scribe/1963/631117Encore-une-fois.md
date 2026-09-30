@@ -53,6 +53,7 @@ bible_refs:
   - "Juges 16:23-30"
   - "Marc 16:17-18"
   - "Marc 7:13"
+  - "Matthieu 4:4"
   - "Marc 16:15-17"
   - "Juges 15:14-17"
   - "Juges 16:1-3"
@@ -61,6 +62,7 @@ bible_refs:
   - "Apocalypse 17:5"
   - "Actes 3:1-11"
   - "Juges 6:13"
+  - "Matthieu 7:13,21"
 original: "branham/1963/63-1117"
 ---
 *Résumé de!: “Encore une fois” (17 novembre 1963, soir)*

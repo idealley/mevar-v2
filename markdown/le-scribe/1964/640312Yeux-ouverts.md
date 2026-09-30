@@ -41,6 +41,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640312Yeux-ouverts.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 13:58"
   - "Marc 7:33"
   - "Luc 24:13"
   - "Actes 2:27"
@@ -53,7 +54,7 @@ bible_refs:
   - "2 Rois 6:17,20"
   - "Romains 9:16"
   - "Jean 5:39"
-  - "Jean 14:19-20,16"
+  - "Jean 14:19-20"
   - "Luc 17:28,30"
   - "Hébreux 4:12"
   - "Hébreux 4:15"

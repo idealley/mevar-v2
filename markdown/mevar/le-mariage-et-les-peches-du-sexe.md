@@ -32,7 +32,7 @@ bible_refs:
   - "Ézéchiel 28"
   - "Ézéchiel 28:12-14"
   - "Ézéchiel 28:17"
-  - "Genèse 4:1-8,5"
+  - "Genèse 4:1-8"
   - "1 Jean 3:12"
   - "Genèse 4:19"
   - "Genèse 3:1"
@@ -42,6 +42,7 @@ bible_refs:
   - "Lévitique 20:10-20"
   - "Deutéronome 22"
   - "Deutéronome 2:22"
+  - "Matthieu 5:28"
   - "Lévitique 18:23"
 ---
 ## Introduction Générale

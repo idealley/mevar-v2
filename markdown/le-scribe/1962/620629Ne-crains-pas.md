@@ -61,10 +61,12 @@ pdf_url: "http://le-scribe.org/pdfiles/620629Ne-crains-pas.pdf"
 llm_cleaned: true
 bible_refs:
   - "Luc 8:40-56"
+  - "Matthieu 8:5-13"
   - "Luc 10:19"
   - "Matthieu 14:22"
   - "Jean 1:48"
   - "2 Rois 20:1-11"
+  - "Matthieu 18:20"
   - "Jean 5:19"
   - "Hébreux 4:15"
   - "Jean 14:12"

@@ -60,11 +60,13 @@ bible_refs:
   - "Hébreux 1"
   - "Matthieu 3"
   - "Exode 13"
+  - "Matthieu 7"
   - "Matthieu 24"
   - "Matthieu 4"
   - "Apocalypse 22"
   - "1 Rois 21"
   - "1 Rois 22"
+  - "2 Pierre 2"
   - "Psaumes 22"
   - "2 Timothée 3"
   - "Colossiens 2"
@@ -88,6 +90,7 @@ bible_refs:
   - "Psaumes 16"
   - "Genèse 22"
   - "Zacharie 14"
+  - "2 Pierre 3"
   - "Apocalypse 10"
 ---
 SERIE 1 N° 7

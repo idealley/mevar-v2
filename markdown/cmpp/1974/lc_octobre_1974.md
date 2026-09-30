@@ -42,6 +42,7 @@ bible_refs:
   - "Tite 1"
   - "Jean 21"
   - "Amos 8"
+  - "Matthieu 24"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

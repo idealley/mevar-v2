@@ -50,7 +50,7 @@ bible_refs:
   - "Jean 13:35"
   - "Romains 8"
   - "Apocalypse 12:11"
-  - "Genèse 45:5,50"
+  - "Genèse 45:5"
   - "1 Corinthiens 1:12"
   - "Philippiens 1:17"
   - "Actes 20:29"

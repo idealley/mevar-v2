@@ -47,8 +47,10 @@ bible_refs:
   - "Actes 10:34-35"
   - "Galates 3:16"
   - "Daniel 2:34-35"
+  - "Matthieu 4:3"
   - "Jean 8:12"
   - "1 Jean 1:7"
+  - "Matthieu 5:6"
 original: "branham/1958/58-0112A"
 ---
 **Résumé de : “Pour accomplir ses prodiges” (12 janvier 1958, après-midi)**

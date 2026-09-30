@@ -42,6 +42,9 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 24:32-35"
   - "Luc 10:23"
+  - "Matthieu 24:1-2"
+  - "Matthieu 24:3"
+  - "Matthieu 24:20"
   - "Éphésiens 5:27"
   - "Deutéronome 18:22"
   - "Genèse 15:13-14"

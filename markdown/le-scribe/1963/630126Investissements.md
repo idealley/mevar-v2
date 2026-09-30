@@ -42,6 +42,7 @@ bible_refs:
   - "Jérémie 28"
   - "1 Rois 22"
   - "Matthieu 19:16"
+  - "Matthieu 25:14-30"
   - "Actes 2:22-23"
   - "Jean 5:39"
   - "Actes 6:15"

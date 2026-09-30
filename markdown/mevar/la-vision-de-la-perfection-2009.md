@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/la_vision_ de_ la_ perfection.md"
 sermon_id: "la_vision_ de_ la_ perfection"
 title: "La vision de la perfection"
-subtitle: "Exhortation de juin 2009"
+subtitle: "Prêchée le 21 juin 2009 à Koumassi"
 date: "2009-06-21"
 year: 2009
 location: "Koumassi"

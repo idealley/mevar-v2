@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 5:24"
   - "Luc 1:35"
   - "Luc 1:38"
+  - "Matthieu 24:24"
   - "Hébreux 13:8"
   - "Luc 17:30"
   - "Malachie 4:5"

@@ -44,9 +44,11 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 11:10"
   - "Matthieu 17:1"
+  - "Matthieu 18:20"
   - "2 Pierre 1:18"
   - "2 Timothée 3:4-5"
   - "Jean 14:2"
+  - "Matthieu 5:45"
   - "Deutéronome 22:5"
   - "Jean 14:12"
   - "Jean 5:19"

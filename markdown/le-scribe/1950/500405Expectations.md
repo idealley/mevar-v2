@@ -42,6 +42,7 @@ pdf_url: "http://le-scribe.org/pdfiles/500405Expectations.pdf"
 llm_cleaned: true
 bible_refs:
   - "Marc 11:24"
+  - "Matthieu 21:22"
   - "Philippiens 3:10"
   - "Luc 2:25-30"
   - "Jean 5:19"

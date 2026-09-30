@@ -45,7 +45,7 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Genèse 6:5"
-  - "Genèse 6"
+  - "Genèse 6:5-12"
   - "Luc 17"
   - "Romains 12:21"
 editorial_pass: "2026-09-30"

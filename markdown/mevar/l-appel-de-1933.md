@@ -23,14 +23,16 @@ bible_refs:
   - "Amos 3:3-8"
   - "Luc 1:15"
   - "2 Thessaloniciens 2"
+  - "Matthieu 25"
+  - "Matthieu 24"
   - "Luc 21"
   - "Marc 13"
   - "Apocalypse 6"
   - "Apocalypse 19"
   - "Marc 13:35"
-  - "Matthieu 25"
   - "Apocalypse 3"
   - "Apocalypse 3:14-22"
+  - "Matthieu 25:5"
   - "Psaumes 90:10"
 ---
 On aura un moment de prière mercredi et jeudi, et le vendredi, on aura une veillée. Nous faisons notre travail et en tant que Pasteur, c’est notre travail de convoquer souvent l’église à des moments de prière et de jeûne ; à des moments de combats spirituels. Amen ! Mais dans une église, chacun de nous doit être responsable de sa foi et c’est ce qui fait la liberté en Jésus-Christ. Dans la religion, on donne des directives et on tient à ce que les gens obéissent. On les maintient dans une sorte de domination, de servitude, mais ça, ce n’est pas la vie chrétienne. **Le principe qui fonde la foi chrétienne, c’est la liberté et ce n’est pas n’importe quelle liberté, c’est la liberté du Saint-Esprit.** Amen ! Ce qui veut dire que chacun de nous doit parvenir à se laisser conduire par l’Esprit de Dieu. Et quand Dieu te conduit, tu es un homme libre. Comprenez-vous ? Si l’Esprit de Dieu te conduit, tu es un homme libre, parce que l’Esprit de Dieu est venu pour habiter en nous.

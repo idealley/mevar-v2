@@ -44,9 +44,11 @@ bible_refs:
   - "Ésaïe 5:26"
   - "Romains 10:17"
   - "Hébreux 9:22"
+  - "Matthieu 8:20"
+  - "Matthieu 16:18"
   - "Actes 1:8"
   - "Jean 13:35"
-  - "Jean 14:10,5"
+  - "Jean 14:10"
 original: "branham/1962/62-0119"
 ---
 **UNE BANNIERE**

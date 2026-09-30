@@ -42,9 +42,11 @@ llm_cleaned: true
 bible_refs:
   - "2 Corinthiens 5:19"
   - "Jean 14:10"
+  - "Matthieu 18:20"
   - "Hébreux 11:6"
   - "Romains 10:17"
   - "Luc 5:1-11"
+  - "Matthieu 7:29"
   - "Luc 5:4"
   - "1 Pierre 1:7"
   - "Jean 9:3"
@@ -54,6 +56,8 @@ bible_refs:
   - "Luc 8:49"
   - "2 Timothée 4:7-8"
   - "1 Corinthiens 15:55"
+  - "Matthieu 14:25-33"
+  - "Matthieu 12:44"
 original: "branham/1948/48-0305"
 ---
 **1.** [Prière]. Jésus accomplissait les Ecritures en guérissant les malades, et il a reproché aux religieux de ne pas reconnaître en quelle heure ils vivaient, et de ne pas voir le témoignage de Dieu en faveur de son Fils, Christ-Jésus. Quand il est venu, les gens recherchaient Jéhovah tel qu'il était au désert du temps de Moïse, sous la forme de l'Esprit. Or Dieu était en Christ, réconciliant le monde avec lui-même (2 Corinthiens 5:19). "Je suis dans le Père, et le Père est en moi" [Jean 14:10].

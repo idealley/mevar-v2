@@ -21,7 +21,9 @@ uuid: "46eb2811-e62f-4b8b-b711-d22c4c08772e"
 stream_url: "https://mevar.org/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi/"
 bible_refs:
   - "Psaumes 23"
+  - "1 Pierre 2:25"
   - "Jean 8:12"
+  - "Hébreux 13:5-6"
   - "Apocalypse 2:4-5"
   - "Matthieu 24:12"
 ---

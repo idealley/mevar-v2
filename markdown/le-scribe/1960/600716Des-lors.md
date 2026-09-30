@@ -57,7 +57,7 @@ bible_refs:
   - "Romains 4:20"
   - "Genèse 17"
   - "Genèse 15:4-17"
-  - "Psaumes 51:5-6,58"
+  - "Psaumes 51:5-6"
   - "Galates 3:29"
   - "Apocalypse 13"
   - "1 Corinthiens 2:9"

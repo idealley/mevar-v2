@@ -75,6 +75,7 @@ bible_refs:
   - "Jean 17:21"
   - "Ésaïe 61:1-2"
   - "Osée 11:1"
+  - "Hébreux 13:8"
   - "Jean 5:19"
   - "Deutéronome 18:15"
   - "Marc 5:25-34"

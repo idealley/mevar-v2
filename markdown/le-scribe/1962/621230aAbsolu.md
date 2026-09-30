@@ -67,6 +67,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 11:25"
   - "2 Rois 4:8-37"
+  - "Matthieu 16:17"
   - "Psaumes 16:10"
   - "Actes 2:27"
   - "Luc 7:11-17"

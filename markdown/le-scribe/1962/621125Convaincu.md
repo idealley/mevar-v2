@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 11:21-22"
   - "2 Rois 4"
   - "Luc 8:41-56"
+  - "Matthieu 8:5-13"
   - "Jean 8:44"
   - "2 Timothée 3:8-9"
   - "2 Pierre 3:9"

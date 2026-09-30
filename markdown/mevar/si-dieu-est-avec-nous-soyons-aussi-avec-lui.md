@@ -28,6 +28,7 @@ bible_refs:
   - "2 Rois 13:14-19"
   - "Josué 1:1-9"
   - "Juges 1:19"
+  - "1 Pierre 5:8-9"
   - "Romains 8:28"
   - "Matthieu 26:41"
   - "Tite 3:5"

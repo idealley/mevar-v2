@@ -55,7 +55,8 @@ llm_cleaned: true
 bible_refs:
   - "Jean 4:46"
   - "1 Rois 8:48-49"
-  - "Jean 5:19,14"
+  - "Jean 5:19"
+  - "Matthieu 18:16"
 original: "branham/1951/51-0729E"
 ---
 **LE SECOND MIRACLE**

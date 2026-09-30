@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortation_2011.md"
 sermon_id: "exhortation_2011"
 title: "La guerre des deux maisons – Saül contre David"
-subtitle: "Exhortation de décembre 2011"
+subtitle: "Exhortation fin décembre 2011"
 date: "2011-12-01"
 year: 2011
 preacher: "Parfait M'bra"
@@ -59,7 +59,7 @@ bible_refs:
   - "1 Rois 13"
   - "Marc 2:21"
   - "1 Samuel 29:1-9"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, je vous salue dans le nom précieux de notre Seigneur Jésus-Christ par cette adresse faite à l’Église de Pergame.
 

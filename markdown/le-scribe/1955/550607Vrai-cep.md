@@ -43,6 +43,7 @@ llm_cleaned: true
 bible_refs:
   - "Joël 1:4"
   - "Joël 2:25"
+  - "Matthieu 7:16"
   - "Deutéronome 21:23"
   - "Galates 3:13"
   - "Proverbes 14:12"

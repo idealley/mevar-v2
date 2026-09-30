@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 13"
   - "Romains 11"
   - "1 Corinthiens 15"
+  - "1 Thessaloniciens 4"
   - "Éphésiens 3"
   - "Romains 16"
   - "Éphésiens 6"

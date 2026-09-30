@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 11:1-15"
   - "Apocalypse 3:17"
   - "Matthieu 3:10,12"
+  - "Matthieu 3:7,9"
   - "Genèse 26:18"
   - "Genèse 26:20"
   - "Genèse 26:21"

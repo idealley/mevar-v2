@@ -59,6 +59,7 @@ bible_refs:
   - "Actes 10"
   - "Marc 3:28-29"
   - "Deutéronome 18:15"
+  - "Matthieu 10:6"
   - "Jean 6:44"
   - "Zacharie 14:7"
   - "Hébreux 4:15"

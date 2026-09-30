@@ -58,7 +58,7 @@ bible_refs:
   - "1 Corinthiens 10:6"
   - "Matthieu 24:26"
   - "Matthieu 15:9"
-  - "Proverbes 14:12,16"
+  - "Proverbes 14:12"
   - "1 Corinthiens 10:8-10"
 original: "branham/1957/57-0414"
 ---

@@ -47,7 +47,7 @@ bible_refs:
   - "2 Rois 4:17-37"
   - "Jean 11:21-22"
   - "Jean 3:18"
-  - "Jean 5:24,6"
+  - "Jean 5:24"
   - "2 Timothée 3:5"
   - "Ésaïe 40:31"
   - "2 Corinthiens 6:17"

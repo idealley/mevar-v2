@@ -49,6 +49,7 @@ bible_refs:
   - "Proverbes 16"
   - "Proverbes 21"
   - "Aggée 1"
+  - "Ésaïe 55:8-9"
   - "Luc 8:1-3"
   - "2 Corinthiens 11"
   - "Lévitique 7:11-13"

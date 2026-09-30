@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/la_vision_de_la_fin.md"
 sermon_id: "la_vision_de_la_fin"
 title: "La vision de la fin"
-subtitle: "Exhortation de juin 2009"
+subtitle: "Prêchée le dimanche 28 juin 2009"
 date: "2009-06-28"
 year: 2009
 location: "Koumassi"

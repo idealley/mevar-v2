@@ -45,6 +45,7 @@ bible_refs:
   - "2 Thessaloniciens 2"
   - "Apocalypse 18"
   - "Matthieu 10"
+  - "1 Thessaloniciens 4"
   - "Matthieu 24"
   - "Apocalypse 6"
   - "Jean 12"

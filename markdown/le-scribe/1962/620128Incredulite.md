@@ -40,13 +40,18 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620128Incredulite.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 25:1-12"
+  - "Matthieu 25:30"
   - "Apocalypse 3:20"
   - "2 Timothée 4:8"
   - "Romains 3:3"
+  - "Matthieu 3:9"
   - "Joël 2:28"
   - "Ésaïe 28:8"
   - "Romains 10:17"
   - "Jean 16:16"
+  - "Hébreux 13:8"
+  - "Hébreux 11:1"
   - "Josué 10:12"
   - "Jean 8:12"
   - "Jean 14:13"

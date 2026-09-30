@@ -47,6 +47,7 @@ bible_refs:
   - "Matthieu 16:3"
   - "Jean 5:39"
   - "Jean 6:44"
+  - "Hébreux 13:8"
   - "Malachie 3:1"
   - "Matthieu 3:9-11"
   - "Jean 1:33"
@@ -66,6 +67,7 @@ bible_refs:
   - "Matthieu 18:20"
   - "Luc 8:41"
   - "Matthieu 8:8"
+  - "Hébreux 4:12"
 original: "branham/1963/63-1129"
 ---
 **Résumé de!: “Le Super Signe” (29 novembre 1963 soir)**

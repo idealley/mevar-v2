@@ -20,6 +20,7 @@ stream_url: "https://mevar.org/le-chemin-de-saul/"
 bible_refs:
   - "1 Samuel 9:1-24"
   - "Marc 6"
+  - "Matthieu 19"
 ---
 Nous allons lire dans 1 Samuel chapitre 9, versets 1 à 24 :
 

@@ -37,6 +37,8 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 15:7"
   - "Jean 14:12"
+  - "Matthieu 28:20"
+  - "Matthieu 18:19"
   - "Romains 4:18,19"
   - "Romains 4:20"
   - "1 Rois 18:41-46"

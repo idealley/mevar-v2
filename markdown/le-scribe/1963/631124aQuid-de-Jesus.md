@@ -69,12 +69,14 @@ bible_refs:
   - "Éphésiens 4:30"
   - "Actes 19:5"
   - "Galates 1:18"
+  - "Matthieu 26:39"
   - "Hébreux 13:8"
   - "Apocalypse 4:7"
   - "Jean 8:44"
   - "Matthieu 23:33"
   - "Malachie 4"
   - "Apocalypse 6:16-17"
+  - "Hébreux 10:26-27,30"
 original: "branham/1963/63-1124M"
 ---
 **1.** La mort de notre Président Kennedy sur les genoux de sa femme est épouvantable. C'est elle qui a donné le ton à la nation, mais c'est une Catholique, et si elle avait entendu mes prédications, elle aurait peut-être agi différemment. Je n'ai rien contre les Catholiques, mais le Catholicisme est un système comme celui des Presbytériens, des Méthodistes, des Pentecôtistes, etc. Je désapprouvais la politique de ce Président, mais ce meurtre est une honte. C'est le péché qui fait faire ces choses. Moi, j'ai voté pour Nixon que je connais personnellement. Prions pour cette épouse et ses enfants. [Prière].

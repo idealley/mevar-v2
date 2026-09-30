@@ -62,7 +62,6 @@ bible_refs:
   - "Matthieu 12:34"
   - "Matthieu 23:33"
   - "Éphésiens 2:1-3"
-  - "Ésaïe 7"
   - "Ésaïe 7:13-15"
   - "Ésaïe 9:5-6"
   - "Luc 1:26-35"

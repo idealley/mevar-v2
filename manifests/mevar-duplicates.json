@@ -6789,6 +6789,12 @@
           "ocr_tokens": 0
         },
         {
+          "id": "onedrive/LA GUERRE DE LIBERATION",
+          "title": null,
+          "shingles": 0,
+          "ocr_tokens": 0
+        },
+        {
           "id": "onedrive/laguerre",
           "title": "LA GUERRE DE LIBERATION",
           "shingles": 6276,
@@ -6804,6 +6810,15 @@
           "in_a": 0.906,
           "in_b": 0.902,
           "title": 1
+        },
+        {
+          "a": "onedrive/LA GUERRE DE LIBERATION",
+          "b": "onedrive/exhomai2007-la-guerre-de-liberation",
+          "band": "decided",
+          "decision": "same",
+          "in_a": 0,
+          "in_b": 0,
+          "title": null
         }
       ]
     },

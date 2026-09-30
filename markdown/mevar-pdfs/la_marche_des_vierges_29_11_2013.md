@@ -40,6 +40,7 @@ bible_refs:
   - "Marc 13"
   - "Luc 17"
   - "Luc 21"
+  - "Matthieu 25:1"
   - "Matthieu 13"
   - "1 Pierre 1:19-21"
   - "Ésaïe 7:13-14"

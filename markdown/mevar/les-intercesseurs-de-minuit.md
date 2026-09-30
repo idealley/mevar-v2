@@ -25,6 +25,7 @@ bible_refs:
   - "Apocalypse 21:9-11"
   - "2 Chroniques 5:14"
   - "2 Chroniques 7:1-3"
+  - "Matthieu 21:13-17"
   - "Exode 24:17"
   - "Actes 4:32"
   - "Actes 5"

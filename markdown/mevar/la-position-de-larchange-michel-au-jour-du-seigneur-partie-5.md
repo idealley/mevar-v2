@@ -24,6 +24,7 @@ bible_refs:
   - "Apocalypse 12:7"
   - "Apocalypse 12:9"
   - "Apocalypse 6"
+  - "Matthieu 24"
   - "Apocalypse 12:9-10"
   - "Apocalypse 12:11"
   - "Apocalypse 12:12"

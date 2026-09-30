@@ -40,6 +40,7 @@ bible_refs:
   - "Jean 14:12"
   - "Luc 8:46"
   - "Jean 5:19"
+  - "Matthieu 6:5,6"
   - "1 Corinthiens 12:13"
 original: "branham/1956/56-0408A"
 ---

@@ -37,6 +37,7 @@ themes:
 pdf_url: "http://cmpp.ch/quand_dieu.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 1"
   - "Luc 2"
   - "Ésaïe 42"
   - "Colossiens 1"
@@ -46,6 +47,7 @@ bible_refs:
   - "Apocalypse 1"
   - "Jean 8"
   - "Psaumes 146"
+  - "Matthieu 27"
   - "Néhémie 9"
   - "Actes 9"
   - "Genèse 17"
@@ -59,6 +61,7 @@ bible_refs:
   - "Jean 14"
   - "Jean 2"
   - "Genèse 1"
+  - "Matthieu 28"
   - "1 Corinthiens 1"
   - "1 Timothée 3"
   - "Ésaïe 48"

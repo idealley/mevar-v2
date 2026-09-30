@@ -32,6 +32,7 @@ bible_refs:
   - "Matthieu 17:5"
   - "Hébreux 11:5-6"
   - "Luc 18:7-8"
+  - "Jacques 2:17-18"
   - "Romains 10:17"
 ---
 > 31 Il leur proposa une autre parabole, disant : **Le royaume des cieux est semblable à un grain de moutarde qu'un homme prit et sema dans son champ**: 32 lequel est, il est vrai, plus petit que toutes les semences; mais quand il a pris sa croissance, il est plus grand que les herbes et devient un arbre, de sorte que les oiseaux du ciel viennent et demeurent dans ses branches. (Matthieu 13:31-32)

@@ -45,6 +45,7 @@ bible_refs:
   - "Josué 1"
   - "Josué 10:1"
   - "Josué 10:12"
+  - "Matthieu 9:17"
   - "Exode 19"
   - "Apocalypse 6"
   - "Apocalypse 10"
@@ -53,6 +54,7 @@ bible_refs:
   - "Hébreux 11:3"
   - "Jean 14:12"
   - "Hébreux 13:8"
+  - "Matthieu 25:40"
   - "Jean 14:19"
 original: "branham/1965/65-0117"
 ---

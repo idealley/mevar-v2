@@ -37,6 +37,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/550911Christ-malvenu.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 12:26"
   - "Luc 7:36"
   - "Psaumes 2:12"
 original: "branham/1955/55-0911"

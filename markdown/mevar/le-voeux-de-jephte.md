@@ -24,6 +24,7 @@ bible_refs:
   - "Apocalypse 4"
   - "Apocalypse 6"
   - "Juges 11"
+  - "Actes 18"
   - "Nombres 30"
 ---
 Que le Seigneur vous bénisse ! Nous remercions le Seigneur ce matin. Nous sommes venus écouter la parole de Dieu. Nous étions là déjà hier et nous l’avons écouté. Hier nous avons dit qu’il fallait regarder le but du message. **Parce que le message du temps de la fin a été donné dans un but. Et c’est le but qui est le plus important. Celui qui manque le but du message est égaré**. Il y a des frères qui souvent pensent que l’égarement concerne seulement les tonnerres, ou ceux qui vivent dans les grâces infinies...**L’égarement s’explique de plusieurs manières.** **Si tu manques le but de Dieu, tu es égaré**. Les sept sceaux ont été révélés pour un but. La semence du serpent a été révélée pour un but. Tout le livre d’Apocalypse, du premier chapitre au dernier chapitre a été révélé pour un but.

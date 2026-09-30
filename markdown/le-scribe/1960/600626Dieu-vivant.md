@@ -47,7 +47,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600626Dieu-vivant.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Matthieu 16:19,18"
+  - "Matthieu 16:19"
   - "Philippiens 4:6"
   - "Jean 4:14"
   - "Matthieu 5:6"

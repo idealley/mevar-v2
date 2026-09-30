@@ -60,6 +60,7 @@ bible_refs:
   - "Luc 19:1-10"
   - "Luc 8:43-48"
   - "Jean 4:1-26"
+  - "Matthieu 14:22-33"
 original: "branham/1964/64-0417"
 ---
 Résumé de : “Alors Jésus vint et appela” (17 avril 1964, soir)

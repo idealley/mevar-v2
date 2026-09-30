@@ -46,6 +46,7 @@ pdf_url: "http://le-scribe.org/pdfiles/580610Vainqueur.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 6:2"
+  - "Matthieu 3:9"
   - "1 Corinthiens 13:3"
   - "Jean 13:35"
   - "Jean 14:13"
@@ -53,9 +54,11 @@ bible_refs:
   - "Job 19:25"
   - "Genèse 18:12-15"
   - "Daniel 2:34,45"
+  - "Matthieu 27:52"
   - "Psaumes 24:7"
   - "Psaumes 24:8"
   - "1 Corinthiens 15:25"
+  - "Matthieu 5:13"
 original: "branham/1958/58-0610"
 ---
 Résumé de : “Le puissant vainqueur” (10 juin 1958, soir)

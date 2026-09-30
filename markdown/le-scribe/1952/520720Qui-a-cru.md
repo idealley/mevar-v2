@@ -50,6 +50,7 @@ bible_refs:
   - "Actes 19:12"
   - "Actes 5:15"
   - "Ésaïe 53:1"
+  - "Matthieu 8"
   - "Matthieu 8:17"
   - "Ésaïe 53"
   - "Actes 3:6"

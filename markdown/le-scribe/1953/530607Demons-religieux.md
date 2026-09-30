@@ -45,11 +45,12 @@ llm_cleaned: true
 bible_refs:
   - "1 Rois 13"
   - "Hébreux 6"
+  - "Matthieu 13:24-30"
   - "Jean 5:24"
   - "1 Corinthiens 14:31"
   - "Nombres 16"
   - "Romains 11:29"
-  - "Actes 11:27,28,21"
+  - "Actes 11:27,28"
   - "Marc 5:7"
   - "Jacques 2:19"
   - "Genèse 12"
@@ -62,6 +63,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Marc 13:22"
   - "Lévitique 20:6"
+  - "Matthieu 27:52-53"
   - "Éphésiens 4:8"
 original: "branham/1953/53-0609A"
 ---

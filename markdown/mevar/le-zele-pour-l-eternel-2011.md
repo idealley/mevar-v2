@@ -65,8 +65,8 @@ bible_refs:
   - "Galates 1:13-17"
   - "Romains 10"
   - "Actes 8"
-  - "Romains 12"
-  - "Ésaïe 37"
+  - "Romains 12:11"
+  - "Ésaïe 37:31-32"
   - "Apocalypse 12"
 editorial_pass: "2026-09-30"
 ---

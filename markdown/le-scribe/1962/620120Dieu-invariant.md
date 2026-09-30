@@ -56,7 +56,7 @@ bible_refs:
   - "Hébreux 11"
   - "Actes 1:8"
   - "1 Rois 19:1-13"
-  - "Ésaïe 9:5,7"
+  - "Ésaïe 9:5"
   - "Jean 7:37"
   - "Jean 16:14"
   - "Jean 10:37"

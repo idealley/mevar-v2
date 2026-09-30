@@ -17,7 +17,7 @@ uuid: "61d5a55f-b773-4307-b4ef-713a8bf27e14"
 stream_url: "https://mevar.org/des-hommes-de-mission-a-la-ressemblance-de-jesus/"
 bible_refs:
   - "Jean 20:21"
-  - "Jean 8:18,12"
+  - "Jean 8:18"
   - "Jean 18:37"
   - "Jean 8:12"
   - "Jean 14:30"

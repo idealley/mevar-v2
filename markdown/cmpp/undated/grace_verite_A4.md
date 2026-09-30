@@ -41,6 +41,7 @@ bible_refs:
   - "Actes 3"
   - "Actes 1"
   - "Matthieu 24"
+  - "2 Pierre 3"
   - "1 Jean 1"
   - "1 Timothée 2"
   - "Hébreux 3"
@@ -54,8 +55,11 @@ bible_refs:
   - "Apocalypse 6"
   - "1 Jean 5"
   - "Marc 12"
+  - "Matthieu 5"
+  - "Matthieu 4"
   - "Malachie 4"
   - "Éphésiens 4"
+  - "Matthieu 11"
 ---
 LA GRACE ET LA VERITE
 

@@ -43,10 +43,10 @@ bible_refs:
   - "Éphésiens 2"
   - "Apocalypse 10"
   - "1 Corinthiens 2"
+  - "Matthieu 23"
   - "Marc 7"
   - "Deutéronome 18"
   - "Actes 3"
-  - "Matthieu 23"
   - "Luc 11"
   - "Luc 24"
   - "Tite 1"
@@ -54,6 +54,8 @@ bible_refs:
   - "Jacques 3"
   - "2 Timothée 3"
   - "Apocalypse 2"
+  - "1 Thessaloniciens 5"
+  - "Matthieu 7"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

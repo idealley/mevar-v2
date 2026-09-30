@@ -35,6 +35,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620909aCompte.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 25:40"
   - "2 Timothée 4:13"
   - "Hébreux 11:1-3"
   - "Genèse 1:1"
@@ -46,6 +47,8 @@ bible_refs:
   - "Apocalypse 1:16,20"
   - "Genèse 6:16"
   - "Jean 14:2"
+  - "Matthieu 9:18"
+  - "Matthieu 8:8"
   - "Actes 13:8-11"
 original: "branham/1962/62-0909M"
 ---

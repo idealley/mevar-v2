@@ -21,6 +21,7 @@ bible_refs:
   - "Apocalypse 3"
   - "Apocalypse 3:19-20"
   - "Hébreux 10"
+  - "Hébreux 10:5-7"
   - "Colossiens 2:9"
   - "Jean 2:18-22"
   - "1 Corinthiens 3:16-17"

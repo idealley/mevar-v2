@@ -37,6 +37,7 @@ llm_cleaned: true
 bible_refs:
   - "Jean 13"
   - "Nombres 16"
+  - "Matthieu 28"
   - "Matthieu 24"
   - "Actes 3"
   - "Malachie 4"

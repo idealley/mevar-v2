@@ -62,9 +62,11 @@ bible_refs:
   - "Galates 5"
   - "Jacques 2"
   - "Luc 18"
+  - "Matthieu 6"
   - "1 Jean 2"
   - "Romains 12"
   - "Apocalypse 4"
+  - "Matthieu 26"
   - "Marc 14"
   - "Marc 13"
   - "Daniel 1"
@@ -75,6 +77,7 @@ bible_refs:
   - "Actes 1"
   - "Actes 14"
   - "2 Corinthiens 6"
+  - "2 Chroniques 20"
   - "Jonas 3"
   - "Jérémie 36"
   - "Joël 2"
@@ -88,6 +91,8 @@ bible_refs:
   - "Luc 5"
   - "Jean 15"
   - "Jean 14"
+  - "Matthieu 10"
+  - "Matthieu 17"
 ---
 ## Le jeûne
 

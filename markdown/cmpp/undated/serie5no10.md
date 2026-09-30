@@ -60,6 +60,7 @@ bible_refs:
   - "Ésaïe 9"
   - "Jean 1"
   - "1 Timothée 3"
+  - "Matthieu 5"
   - "Psaumes 16"
   - "Romains 12"
 ---

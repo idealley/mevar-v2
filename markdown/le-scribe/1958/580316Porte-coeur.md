@@ -48,6 +48,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 15:5,7"
   - "Jean 16:28,19"
+  - "Matthieu 28:20"
   - "Jean 15:5"
   - "Actes 19:12"
   - "2 Rois 4:29"

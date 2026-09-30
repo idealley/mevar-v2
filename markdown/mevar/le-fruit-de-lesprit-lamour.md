@@ -26,6 +26,7 @@ bible_refs:
   - "Galates 5"
   - "Galates 5:22-26"
   - "Galates 5:22"
+  - "Hébreux 5:12-13"
   - "1 Corinthiens 13"
   - "1 Jean 4:1"
   - "Jean 5"

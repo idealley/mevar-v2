@@ -37,6 +37,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/530325Israel-Egypte.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 16:17"
   - "Genèse 12:1"
   - "Genèse 15:7"
   - "Nombres 19:2"

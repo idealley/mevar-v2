@@ -87,6 +87,7 @@ bible_refs:
   - "Jean 8:58"
   - "Jean 8:52"
   - "Actes 12:7-10"
+  - "Matthieu 7:13"
   - "Jean 6:37,40"
 original: "branham/1963/63-0630M"
 ---

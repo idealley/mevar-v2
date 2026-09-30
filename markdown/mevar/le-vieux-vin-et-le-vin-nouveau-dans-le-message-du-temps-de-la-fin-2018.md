@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Le_vieux_vin_et_le_vin_nouveau_dans_le_message_du_temps_de_la_fin.md"
 sermon_id: "Le_vieux_vin_et_le_vin_nouveau_dans_le_message_du_temps_de_la_fin"
 title: "Le vieux vin et le vin nouveau dans le Message du temps de la fin"
-subtitle: "Exhortation de juin 2018"
+subtitle: "Prêché à Koumassi, le dimanche 11 juin 2018"
 date: "2018-06-11"
 year: 2018
 location: "Koumassi"
@@ -46,7 +46,7 @@ bible_refs:
   - "Luc 5"
   - "Romains 10"
   - "Jean 2"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-30"
 ---
 J’ai voulu dire certaines choses ce matin en rapport avec l’onction que Dieu nous a donnée, donc nous allons lire dans Exode chapitre 29. Nous commençons la lecture là-bas. L’onction pour le service de Dieu. Amen ! Il se peut que je prenne du temps ; je ne sais pas comment Dieu va nous conduire, mais on verra. Exode 29 à partir du premier verset. On lira jusqu’au verset 7. Le texte parle de la consécration d’Aaron et de ses fils.
 

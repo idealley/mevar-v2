@@ -42,6 +42,7 @@ pdf_url: "http://le-scribe.org/pdfiles/580328Ecoutez-le.pdf"
 llm_cleaned: true
 bible_refs:
   - "Matthieu 17:1"
+  - "Matthieu 24:35"
   - "Jean 5:19"
   - "2 Pierre 1:20"
   - "Luc 8:51"
@@ -55,7 +56,7 @@ bible_refs:
   - "Jean 14:14"
   - "Actes 2:22"
   - "Jérémie 16:23"
-  - "Marc 9:42,16"
+  - "Marc 9:42"
   - "Marc 15:30"
 original: "branham/1958/58-0324"
 ---

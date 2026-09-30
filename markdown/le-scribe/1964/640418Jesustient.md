@@ -39,12 +39,14 @@ bible_refs:
   - "Luc 7:36"
   - "Jacques 5:16"
   - "Luc 23:8"
+  - "Matthieu 12:31-32"
   - "Marc 7:9,13"
   - "Deutéronome 18:15"
   - "Hébreux 13:8"
   - "Apocalypse 3:16"
   - "2 Timothée 3:5"
   - "Actes 2:38-39"
+  - "Matthieu 23:37"
 original: "branham/1964/64-0418E"
 ---
 *Jésus tient tous ses engagements* (18 avril 1964, soir)

@@ -46,10 +46,12 @@ llm_cleaned: true
 bible_refs:
   - "2 Rois 4:30"
   - "Luc 9:61"
+  - "Matthieu 8:22"
   - "Luc 9:62"
   - "Ézéchiel 18:4,20"
   - "1 Jean 2:15"
   - "Marc 9:23"
+  - "Matthieu 16:17"
   - "Jean 5:19"
   - "Jean 14:13"
 original: "branham/1956/56-0128"

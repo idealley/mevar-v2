@@ -39,10 +39,12 @@ bible_refs:
   - "Matthieu 26:27"
   - "Exode 12:1"
   - "Hébreux 12:8"
+  - "Matthieu 26:39"
   - "1 Pierre 1:7"
   - "Hébreux 7:1"
   - "Jean 6:44"
   - "Psaumes 51:7"
+  - "Matthieu 5:6"
   - "Hébreux 11:26"
 original: "branham/1957/57-0418"
 ---

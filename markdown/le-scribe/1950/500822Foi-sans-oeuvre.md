@@ -46,6 +46,7 @@ bible_refs:
   - "Romains 4"
   - "Hébreux 3:1"
   - "Marc 11:24"
+  - "Matthieu 10:32"
   - "Luc 12:8"
   - "Jean 5:19"
   - "Jean 10:10"

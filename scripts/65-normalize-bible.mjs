@@ -61,6 +61,7 @@ const BOOK_ALT = variantsSorted.map(escRe).join("|");
 // Allow optional trailing period and optional spaces before chapter number.
 // Chapter:verse separator can be `:`, `,`, or `.` (with optional surrounding space).
 // Verse range can use `-` or `–` or `–`.
+const VERSE_ITEM = "\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?![^\\S\\n]*:[^\\S\\n]*\\d)";
 const REF_RE = new RegExp(
   // word boundary or paren / opening punct
   "(?<![\\p{L}])" +
@@ -76,7 +77,9 @@ const REF_RE = new RegExp(
   // "Jean 17:22-26 : « … »" with a space before the colon.
   // So "Hébreux 8:13-13:8" does not read "13" as the end of a range.
   "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +  // optional verse end (group 4)
-  "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" + // additional verse list (group 5)
+  // additional verse list (group 5), no item a new chapter:verse either:
+  // "Mat. 3:7; 12:34" is Matthieu 3:7, not 3:7,12
+  "(?:\\s*[,;]\\s*(" + VERSE_ITEM + "(?:\\s*[,;]\\s*" + VERSE_ITEM + ")*))?" +
   ")?" +
   "(?![\\d])",                            // not followed by another digit (avoids 24:55 partial match in 24:555)
   "giu",
@@ -195,6 +198,34 @@ function spoken({ book: bookVariant, chapter, ...g }) {
   return renderRef({ book, chapter, verseStart: v.start, verseEnd, extra });
 }
 
+// A chapter announced with a colon, and the reading after it as a quote
+// whose first verse number is bold: « Matthieu 13 :\n\n> **41** Le Fils de
+// l'homme… **42** et ils… **43** Alors… » is Matthieu 13:41-43, the first
+// numbered verse to the last one that follows it. A verse number is a bold
+// run that opens with it (« **41** », « **22 J'ai été faible** »; a
+// transcript may escape it, « \*\*2\*\* »), not one that opens with a book
+// (« **1 Samuel 4:3-11** ») or « **1.1** ». `end` is where the chapter's
+// citation ends in `md`; the site asks with the whole body, which a text
+// node alone does not show.
+const QUOTE = /[^\S\n]*:[^\S\n]*\n(?:[^\S\n]*\n)*(>.*(?:\n>.*)*)/y;
+const BOOK_FIRST = new RegExp(`^(?:${BOOK_ALT})(?![\\p{L}])`, "iu");
+export function quoted(md, end, ref) {
+  QUOTE.lastIndex = end;
+  const quote = QUOTE.exec(md)?.[1].replace(/\\\*/g, "*");
+  const runs = [...(quote ?? "").matchAll(/\*\*([^*]+)\*\*/g)];
+  const verse = ([, run]) => !BOOK_FIRST.test(run.trim()) && Number(run.trim().match(/^(\d{1,3})\.?(?:\s|$)/)?.[1]);
+  const first = runs.length && /^>[^\S\n]*$/.test(quote.slice(0, runs[0].index)) && verse(runs[0]);
+  if (!first) return ref;
+  let last = first;
+  for (const n of runs.slice(1).map(verse).filter(Boolean)) {
+    if (n <= last) break;
+    last = n;
+  }
+  const [, book, chapter] = ref.match(/^(.+) (\d+)$/);
+  if (!isPossible(book, chapter, [first, last])) return ref;
+  return renderRef({ book, chapter, verseStart: first, verseEnd: last > first ? last : null });
+}
+
 /**
  * Every reference this script records in a text: where it is and its
  * canonical form. The site links the same ones (web/src/lib/bible-links.mjs).
@@ -209,7 +240,7 @@ export function* citations(md) {
     for (const m of md.matchAll(re)) {
       if (inImage(m.index)) continue;
       const ref = spoken(m.groups);
-      if (ref) yield { index: m.index, text: m[0], ref };
+      if (ref) yield { index: m.index, text: m[0], ref: ref.includes(":") ? ref : quoted(md, m.index + m[0].length, ref) };
     }
   }
   for (const match of md.matchAll(REF_RE)) {
@@ -236,7 +267,7 @@ export function* citations(md) {
       verseEnd: verseEnd ?? null,
       extra: extra ?? null,
     });
-    yield { index: match.index, text: match[0], ref: rendered };
+    yield { index: match.index, text: match[0], ref: verseStart ? rendered : quoted(md, match.index + match[0].length, rendered) };
   }
 }
 

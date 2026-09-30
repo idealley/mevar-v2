@@ -45,6 +45,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620127Homme-insignifiant.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 9:24"
   - "Luc 7:36"
   - "1 Rois 19:9-13"
   - "Jean 6:44,37"

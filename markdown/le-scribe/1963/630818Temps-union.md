@@ -37,13 +37,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630818Temps-union.pdf"
 llm_cleaned: true
 bible_refs:
-  - "2 Corinthiens 11:30,12"
+  - "2 Corinthiens 11:30"
   - "Psaumes 86:1"
   - "Matthieu 16:1-3"
   - "Michée 1:8"
+  - "Matthieu 24:43,1"
   - "Apocalypse 3:3"
   - "Luc 21:20"
+  - "Matthieu 24:16-18"
   - "Jean 9:20-22"
+  - "1 Thessaloniciens 4:16-17"
   - "Jude 1:3"
   - "Jean 15:7"
   - "Apocalypse 10:4-7"

@@ -44,9 +44,12 @@ bible_refs:
   - "1 Pierre 3:20"
   - "1 Timothée 4:14"
   - "Nombres 22:31"
+  - "Matthieu 16:17-18"
   - "Jean 6:44"
   - "Nombres 16:3"
   - "Exode 19"
+  - "Matthieu 6:10"
+  - "Matthieu 7:22"
   - "Nombres 22:6"
   - "Matthieu 28:19"
   - "2 Rois 20:1-7"
@@ -58,6 +61,8 @@ bible_refs:
   - "Apocalypse 2:14"
   - "Nombres 13"
   - "Apocalypse 17"
+  - "Matthieu 24:35"
+  - "Matthieu 25:40"
 original: "branham/1965/65-0418E"
 ---
 *Arrive-t-il à Dieu de changer sa pensée au sujet de sa Parole?* (18 avril 1965, soir)

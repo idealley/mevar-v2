@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinoct.md"
 sermon_id: "exhofinoct"
 title: "Vainqueurs dans le mauvais jour"
-subtitle: "Exhortation d'octobre 2011"
+subtitle: "Exhortation fin octobre 2011"
 date: "2011-10-01"
 year: 2011
 preacher: "Parfait M'bra"
@@ -50,7 +50,7 @@ bible_refs:
   - "Nombres 25"
   - "1 Corinthiens 10:21-22"
   - "2 Corinthiens 6:14-17"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Mes chers frères et sœurs, je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole d’Apocalypse chapitre 3, le verset 21.
 

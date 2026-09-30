@@ -47,6 +47,7 @@ bible_refs:
   - "1 Corinthiens 12"
   - "1 Corinthiens 11:30"
   - "Romains 8:1"
+  - "Matthieu 6:14,15"
   - "Jean 6:37"
   - "Hébreux 12:16,17"
 original: "branham/1956/56-0805"

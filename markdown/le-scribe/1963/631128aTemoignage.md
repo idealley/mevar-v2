@@ -40,6 +40,7 @@ pdf_url: "http://le-scribe.org/pdfiles/631128aTemoignage.pdf"
 llm_cleaned: true
 bible_refs:
   - "Psaumes 23"
+  - "1 Thessaloniciens 4:16-17"
   - "2 Corinthiens 9:14-15"
   - "Hébreux 4:12"
   - "Marc 11:23"

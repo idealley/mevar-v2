@@ -48,6 +48,7 @@ bible_refs:
   - "Ésaïe 28:10-11"
   - "Joël 2:28-32"
   - "Jean 14:12"
+  - "Matthieu 18:20"
   - "Zacharie 14:7"
   - "Jean 9:30,24-25"
 original: "branham/1962/62-0521"

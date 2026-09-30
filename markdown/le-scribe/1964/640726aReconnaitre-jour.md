@@ -71,13 +71,17 @@ bible_refs:
   - "Jean 1:45-49"
   - "Jean 9"
   - "Luc 19:42,44"
+  - "Matthieu 23:37"
   - "Luc 19:42"
+  - "Matthieu 24:24"
+  - "Matthieu 7:13"
   - "1 Corinthiens 11:1-16"
   - "Jean 5:39"
   - "2 Timothée 3:1-8"
   - "2 Timothée 3:9"
   - "Jean 10:35"
   - "Apocalypse 22:11"
+  - "Matthieu 15:14"
 original: "branham/1964/64-0726M"
 ---
 **1.** [Prière]. J'ai cherché toute la semaine un sujet de prédication pour aujourd'hui. Le Seigneur voulait me dire quelque chose, mais il semblait que Satan faisait obstacle, et donc j'ai attendu. Et ce matin à 7 heures, un passage biblique m'a frappé, et j'en ai terminé l'examen il y a un instant. Peut-être que le Seigneur a un message pour nous ce matin dont Satan voulait nous éloigner. Il nous reste peu de temps, et quelque chose va se passer, si bien que Satan viendra parmi vous, et vous dispersera.

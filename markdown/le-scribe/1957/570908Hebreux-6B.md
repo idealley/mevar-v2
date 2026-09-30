@@ -44,6 +44,8 @@ pdf_url: "http://le-scribe.org/pdfiles/570908Hebreux-6B.pdf"
 llm_cleaned: true
 bible_refs:
   - "Hébreux 6"
+  - "Matthieu 11:25"
+  - "Matthieu 5:48"
   - "Hébreux 6:4"
   - "1 Samuel 31:4"
   - "2 Samuel 1:9-10"
@@ -52,6 +54,7 @@ bible_refs:
   - "Jean 3:18"
   - "Jean 5:24"
   - "Hébreux 6:7,8"
+  - "Matthieu 5:45"
   - "1 Jean 4:3"
   - "Jean 6:37"
   - "Hébreux 6:7-10"
@@ -62,6 +65,7 @@ bible_refs:
   - "Galates 3:16"
   - "Galates 3:17-20"
   - "Romains 11:29"
+  - "Matthieu 7:16"
   - "Galates 5:22"
 original: "branham/1957/57-0908E"
 ---

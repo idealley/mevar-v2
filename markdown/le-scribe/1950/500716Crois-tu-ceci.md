@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 12:32"
   - "Jean 11:20-27"
   - "Éphésiens 5:27"
+  - "Matthieu 24:12"
   - "Romains 8:28"
   - "Jean 5:19"
   - "Job 14:15"

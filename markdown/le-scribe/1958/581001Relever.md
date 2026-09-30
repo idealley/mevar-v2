@@ -41,6 +41,9 @@ llm_cleaned: true
 bible_refs:
   - "1 Rois 18:17"
   - "2 Timothée 3:1-5"
+  - "Matthieu 24:35"
+  - "Matthieu 16:18"
+  - "Matthieu 7:7"
   - "Marc 9:14-32"
   - "Hébreux 13:8"
   - "Psaumes 121:4"

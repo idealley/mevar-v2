@@ -63,6 +63,7 @@ bible_refs:
   - "1 Corinthiens 2:2"
   - "Job 14"
   - "Job 19:25-26"
+  - "Hébreux 2:14-15"
   - "Romains 5:1"
   - "Éphésiens 2:6"
   - "1 Timothée 3:16"
@@ -74,6 +75,7 @@ bible_refs:
   - "Actes 4:12"
   - "Matthieu 24:35"
   - "Josué 10:13"
+  - "Matthieu 25:40"
 original: "branham/1963/63-1201M"
 ---
 **1.** [Prière]. Que le Seigneur brise pour nous ce matin le Pain de Vie, qui est la révélation de Jésus-Christ. Il y a un instant, le Saint-Esprit a ôté le cancer d'une femme venue du Texas. Il y a aussi une femme de pasteur qui est venue. Elle était si nerveuse qu'elle avait du mal à respirer. Le Seigneur me l'avait montrée en vision assise ici. J'ai vu aussi que son mari avait un ulcère parce qu'il était préoccupé par sa femme. Dieu a apaisé cette femme, et je peux dire que cet ulcère est terminé.

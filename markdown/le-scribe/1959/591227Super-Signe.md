@@ -56,13 +56,18 @@ bible_refs:
   - "Genèse 18"
   - "Luc 17:28,30"
   - "1 Timothée 3:16"
+  - "Matthieu 28:20"
   - "Marc 16:17"
   - "Romains 5:19"
   - "Luc 2:49"
   - "Luc 2:34"
+  - "Matthieu 3:17"
   - "Zacharie 14:7"
   - "Jean 1:12"
+  - "Matthieu 19:16-22"
   - "Actes 19"
+  - "Hébreux 11:10"
+  - "Matthieu 4:4"
 original: "branham/1959/59-1227M"
 ---
 *Un Super-Signe*

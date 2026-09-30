@@ -55,7 +55,7 @@ bible_refs:
   - "Apocalypse 8:11"
   - "Matthieu 11:28"
   - "Joël 2:28"
-  - "Psaumes 110:1,16"
+  - "Psaumes 110:1"
   - "Actes 2:26"
   - "Actes 2:23"
   - "Actes 2:38-39"

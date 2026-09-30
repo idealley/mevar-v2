@@ -60,6 +60,7 @@ bible_refs:
   - "1 Jean 2:1-2"
   - "Ésaïe 28:8-9"
   - "Ésaïe 28:10-12"
+  - "Matthieu 11:28"
   - "Hébreux 4:8,10"
   - "Joël 2:28-32"
   - "Actes 2:16-21"

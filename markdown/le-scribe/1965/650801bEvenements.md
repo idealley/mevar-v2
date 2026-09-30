@@ -44,6 +44,7 @@ bible_refs:
   - "Apocalypse 1:1-3"
   - "Malachie 3:1"
   - "Jean 9:28"
+  - "Matthieu 23:29"
   - "Jean 5:39"
   - "Jean 6:44"
   - "Hébreux 1:1"
