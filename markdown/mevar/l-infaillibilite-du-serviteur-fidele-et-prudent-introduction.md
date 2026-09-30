@@ -10,6 +10,7 @@ tags:
   - "2014"
   - "Infaillibilité"
   - "Idolâtrie"
+  - "Serviteur fidèle et prudent"
 persons:
   - "William Branham"
   - "Frank"
