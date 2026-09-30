@@ -65,7 +65,7 @@ Il est nécessaire de lire tout le livre d’Esther pour mieux saisir l’esprit
 
 L’avocat est donc un acteur du système formé à la connaissance du droit ou des lois et chargé de défendre l’accusé afin que ce dernier ne soit pas condamné s’il le peut. Ici, Mardochée luttait pour que le peuple juif ne soit pas condamné à la mort. **Le décret du roi condamnait tous les Juifs sans exception à la mort**. En voici les termes :
 
-> Qu’on détruise, qu’on tue et qu’on fasse périr tous les Juifs, jeunes et vieux, petits-enfants et femmes… et pour que leurs biens soient livrés au pillage. Esther 3 :13.
+> Qu’on détruise, qu’on tue et qu’on fasse périr tous les Juifs, jeunes et vieux, petits enfants et femmes… et pour que leurs biens soient livrés au pillage. Esther 3 :13.
 
 Tout comme ces Juifs, nous sommes en tant qu’hommes, condamnés **à la destruction, à la tuerie, au péril et au pillage de nos biens d’une part, à cause du péché originel et d’autre part, à cause de nos propres péchés que nous commettons chaque jour**. Cette loi qui nous condamne est bien celle de Dieu. « Car l’âme qui pèche, c’est celle qui mourra » (Ézéchiel 18 :4). En plus de cette malédiction principale, bien d’autres malédictions sont sur les hommes (deut 28). **C’est Satan qui est chargé avec ses démons de l’exécution de ces lois et c’est Dieu, le Père qui en est le garant**. C’est d’après les lois de Dieu que Satan agit, de même que les esprits méchants. Même devenus chrétiens, nous restons toujours soumis aux lois antérieures prises par Dieu à l’encontre du péché.
 

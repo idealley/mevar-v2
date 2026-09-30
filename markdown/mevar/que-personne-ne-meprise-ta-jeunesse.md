@@ -100,13 +100,11 @@ C’est ainsi. **L’onction est la puissance de l’Esprit le plus vieux du mon
 
 David reçut l’onction pour être roi alors qu’il était un enfant. Par contre, Moïse entama son ministère à **80 ans**. **Celui qui rencontre Dieu en tant qu’adulte entamera son Ministère dans l’âge adulte. Mais celui qui rencontre Dieu dans son jeune âge entamera son Ministère dans son jeune âge comme Timothée et Tite**. Tout dépend du moment où on vient à la foi et surtout du moment où on a expérimenté le baptême du Saint-Esprit. L’onction n’a pas d’âge : qu’on ne fasse donc pas de la peine aux jeunes frères serviteurs de Jésus-Christ.
 
-## Barnabas et Paul
-
-## Paul et Timothée
+## Barnabas et Paul – Paul et Timothée
 
 La Bible nous montre à travers ces trois personnages, les rapports qui doivent exister entre les **frères âgés** et les **jeunes frères** dans l’œuvre. Dans l’existence de ces rapports, il faut tenir compte de deux faits : **l’âge dans la foi et la position devant Dieu dans l’œuvre**.
 
-Deux mondes différents
+### Deux mondes différents
 
 Les chrétiens se trouvent dans deux mondes différents : le **Royaume du monde** et le **Royaume de Dieu**. **Dans le Royaume du monde, l’âge commence à courir à la naissance de l’enfant**. Son jour et sa date de naissance sont déclarés dans le registre des naissances. **Dans le royaume de Dieu, l’âge dans la foi commence à courir à la nouvelle naissance**. Mais la maturité spirituelle requise pour le service divin ne peut avoir lieu qu’après **le baptême du Saint-Esprit**. Celui qui n’a pas expérimenté le baptême du Saint-Esprit grandit difficilement dans la foi. **Dans ce contexte, l’âge dans le Royaume du monde n’a pas d’importance dans le royaume de Dieu**. Sa place se trouve seulement dans le respect mutuel entre frères en Christ. Car la chair et le sang ne peuvent hériter le royaume de Dieu. C’est pour cette raison qu’il est très dangereux de mépriser les frères dans le Seigneur à cause de leur jeune âge. Là-dessus, Paul dit que nous ne connaissons plus personne selon la chair.
 
@@ -122,7 +120,7 @@ Jérémie qui avait souffert des souffrances du Ministère présente l’appel a
 
 La rencontre de **Paul et Timothée** ne fut pas seulement profitable à Timothée, mais aussi à Paul qui en rend le témoignage à plusieurs endroits des Écritures. Il y a toujours quelque chose de bon à tirer d’un jeune frère dans le Ministère.
 
-Mise au point
+### Mise au point
 
 Dans le traitement de ce sujet, on ne doit plus faire allusion aux exemples de Moïse avec Josué et d’Élie avec Élisée – ceci est très dangereux.
 

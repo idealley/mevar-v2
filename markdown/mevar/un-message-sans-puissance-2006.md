@@ -88,7 +88,7 @@ Vous le voyez bien qu’il s’agit **d’impudicité et d’adultère**. Les É
 
 C’est parmi nous que les pasteurs couchent avec les sœurs. Ces faits sont légion dans les Assemblées du Message du Temps de la Fin et ont influencé considérablement la vie de l’Esprit parmi nous. Des scandales inimaginables. Mais les impudicités et les adultères ont des signes graves dans les Assemblées : « **Ne nous livrons point à l’impudicité, comme quelques-uns d’eux s’y livrèrent, de sorte qu’il en tomba vingt-trois mille en un seul jour**. » (1 Cor 10:8) Il tomba **23 000 hommes morts en un seul jour** à cause de l’impudicité. Ce péché a une grande capacité de nuisance dans le peuple, mais malheureusement, les hommes de Dieu s’y adonnent avec des frères et sœurs dans l’Église. La convoitise, les masturbations, les impudicités et les adultères sont des impuretés sexuelles qui viennent des démons. Je voudrais vous adresser une prédication que j’ai donnée dans une localité en Côte d’Ivoire qui traite de cette question en relation avec la Puissance de Dieu.
 
-## Refusez l’Évangile sans puissance
+## Refusez l’Évangile sans Puissance
 
 Prêché à Soubré le 30 septembre 2006
 
