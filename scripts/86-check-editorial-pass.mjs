@@ -300,7 +300,7 @@ for (const md of batch) {
     [/^\s*\S*mevar\.org\/\S*(\s+\d+\/\d+)?\s*$/gim, "print"],
     [/^[\s*]*Haut\s+de\s+page[\s*]*$/gm, "print"],
     // a word processor's page footer, letter-spaced: « P a g e  | **1** »
-    [/^[\s*]*P a g e\s*\|[\s*]*\d{1,3}[\s*]*$/gm, "print"],
+    [/^[ \t*]*P a g e[ \t]*\|[ \t*]*\d{1,3}[ \t*]*$/gm, "print"],
     [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
   ];
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
@@ -508,6 +508,9 @@ for (const md of batch) {
   // a text promoted earlier is still this pass's body, with the editor's fixes
   if (promoted && (bodyOf(file) !== `${parts[0]}\n` || (r.split && bodyOf(fs.readFileSync(path.join(root, r.split), "utf8")) !== `${parts[1]}\n`)))
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");
+  // and its subtitle the editor's: one given after promotion is not written
+  if (promoted && edits.subtitle && r.subtitle === edits.subtitle && field("subtitle") !== r.subtitle)
+    r.unexplained.push(`the promoted subtitle « ${field("subtitle")} » is not the editor's « ${r.subtitle} »: promote the text again`);
   if (!r.unexplained.length && !promoted) {
     const work = (p) => p.replace(/^markdown\//, "").replace(/\.md$/, "");
     const newFm = fm.replace(/^title: .*$/m, () => `title: ${JSON.stringify(r.title)}`)
