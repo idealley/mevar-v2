@@ -55,17 +55,23 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       const date = field(fm, "date") ?? "";
       const year = String(field(fm, "year") ?? date.slice(0, 4));
       const base = slug(field(fm, "title"));
-      texts.push({ md, text, base, year, month: MONTHS[Number(date.slice(5, 7)) - 1] });
+      texts.push({ md, text, base, year, month: MONTHS[Number(date.slice(5, 7)) - 1], kind: slug((field(fm, "subtitle") ?? "").split(/\s/)[0]) });
     }
 
   // the name: title and year (not repeated when the title holds that year);
   // with the month where two would be the same
-  const name = (t, month) => [t.base, t.year && `-${t.base}-`.includes(`-${t.year}-`) ? "" : [month && t.month, t.year].filter(Boolean).join("-")].filter(Boolean).join("-");
-  const counts = new Map();
-  for (const t of texts) counts.set(name(t), (counts.get(name(t)) ?? 0) + 1);
+  // and, where title, month and year still meet (batch 06's sermon « Les fils
+  // du désert » of 1 March 2009 beside the exhortation of March 2009), the
+  // first word of each one's subtitle: « exhortation », « preche »
+  const name = (t, month, kind) => [t.base, kind && t.kind, t.year && `-${t.base}-`.includes(`-${t.year}-`) ? "" : [month && t.month, t.year].filter(Boolean).join("-")].filter(Boolean).join("-");
+  const counts = new Map(), withMonth = new Map();
+  for (const t of texts) {
+    counts.set(name(t), (counts.get(name(t)) ?? 0) + 1);
+    withMonth.set(name(t, true), (withMonth.get(name(t, true)) ?? 0) + 1);
+  }
   const ghost = new Set(fs.readdirSync(path.join(root, MEVAR)).filter((f) => f.endsWith(".md")).map((f) => `${MEVAR}/${f}`).filter((f) => !texts.some((t) => t.md === f)).map((f) => path.basename(f, ".md")));
   for (const t of texts) {
-    t.slug = counts.get(name(t)) > 1 ? name(t, true) : name(t);
+    t.slug = counts.get(name(t)) === 1 ? name(t) : withMonth.get(name(t, true)) === 1 ? name(t, true) : name(t, true, true);
     t.to = `${MEVAR}/${t.slug}.md`;
   }
   const clash = texts.filter((t) => ghost.has(t.slug) || texts.filter((u) => u.slug === t.slug).length > 1);
