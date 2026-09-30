@@ -166507,8 +166507,8 @@
   {
     "source": "onedrive",
     "sermon_id": "message",
-    "title": "Exhortation du Mois d'octobre 2006",
-    "subtitle": "UN MESSAGE SANS PUISSANCE",
+    "title": "Un Message sans Puissance",
+    "subtitle": "Exhortation du mois d’octobre 2006",
     "date": "2006-10-01",
     "year": 2006,
     "location": null,
@@ -166565,9 +166565,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/message.md",
-    "size_bytes": 50823,
-    "line_count": 209
+    "local_md": "markdown/mevar/un-message-sans-puissance-2006.md",
+    "size_bytes": 51738,
+    "line_count": 206
   },
   {
     "source": "onedrive",
@@ -167749,8 +167749,8 @@
   {
     "source": "onedrive",
     "sermon_id": "malchair",
-    "title": "LA MALEDICTION DE LA CHAIR",
-    "subtitle": "Exhortation de Février 2007",
+    "title": "La malédiction de la chair",
+    "subtitle": "Prêché le dimanche 25 février 2007 à Koumassi (Abidjan)",
     "date": "2007-02-25",
     "year": 2007,
     "location": "Koumassi (Abidjan)",
@@ -167809,9 +167809,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/malchair.md",
-    "size_bytes": 70959,
-    "line_count": 174
+    "local_md": "markdown/mevar/la-malediction-de-la-chair-2007.md",
+    "size_bytes": 72311,
+    "line_count": 192
   },
   {
     "source": "onedrive",
@@ -169511,7 +169511,7 @@
     "source": "onedrive",
     "sermon_id": "les_pleurs_de_delivrance",
     "title": "Les pleurs de la délivrance",
-    "subtitle": null,
+    "subtitle": "Prêché à Lausanne, Suisse, le 19 janvier 2008",
     "date": "2008-01-19",
     "year": 2008,
     "location": "Lausanne, Suisse",
@@ -169563,15 +169563,15 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/les_pleurs_de_delivrance.md",
-    "size_bytes": 61390,
-    "line_count": 181
+    "local_md": "markdown/mevar/les-pleurs-de-la-delivrance-2008.md",
+    "size_bytes": 63317,
+    "line_count": 191
   },
   {
     "source": "onedrive",
     "sermon_id": "lesvoisins",
     "title": "Les voisins",
-    "subtitle": "Exhortation de Janvier 2008",
+    "subtitle": "Prêché à Lausanne le 24 janvier 2008",
     "date": "2008-01-24",
     "year": 2008,
     "location": "Lausanne",
@@ -169626,9 +169626,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lesvoisins.md",
-    "size_bytes": 64157,
-    "line_count": 223
+    "local_md": "markdown/mevar/les-voisins-2008.md",
+    "size_bytes": 65146,
+    "line_count": 256
   },
   {
     "source": "onedrive",
@@ -170972,7 +170972,7 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/mevar/les-fils-du-desert-2009.md",
+    "local_md": "markdown/mevar/les-fils-du-desert-exhortation-mars-2009.md",
     "size_bytes": 37112,
     "line_count": 206
   },
@@ -170980,7 +170980,7 @@
     "source": "onedrive",
     "sermon_id": "lesfils",
     "title": "Les fils du désert",
-    "subtitle": null,
+    "subtitle": "Prêché à Koumassi le dimanche 1er mars 2009",
     "date": "2009-03-01",
     "year": 2009,
     "location": "Koumassi",
@@ -171032,9 +171032,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lesfils.md",
-    "size_bytes": 74040,
-    "line_count": 249
+    "local_md": "markdown/mevar/les-fils-du-desert-preche-mars-2009.md",
+    "size_bytes": 75790,
+    "line_count": 267
   },
   {
     "source": "onedrive",
@@ -173221,7 +173221,7 @@
     "source": "onedrive",
     "sermon_id": "lejeune",
     "title": "Pourquoi jeûner ?",
-    "subtitle": "Exhortation de Mai 2010",
+    "subtitle": "Prêché le 08 mai 2010 à Koumassi",
     "date": "2010-05-08",
     "year": 2010,
     "location": "Koumassi",
@@ -173271,9 +173271,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lejeune.md",
-    "size_bytes": 50166,
-    "line_count": 201
+    "local_md": "markdown/mevar/pourquoi-jeuner-2010.md",
+    "size_bytes": 50674,
+    "line_count": 213
   },
   {
     "source": "onedrive",
@@ -173347,8 +173347,8 @@
   {
     "source": "onedrive",
     "sermon_id": "lesac",
-    "title": "Le Sac et la Cendre",
-    "subtitle": null,
+    "title": "Le sac et la cendre",
+    "subtitle": "Prêché à Lausanne, le 14 juin 2010",
     "date": "2010-06-14",
     "year": 2010,
     "location": "Lausanne",
@@ -173410,9 +173410,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lesac.md",
-    "size_bytes": 48139,
-    "line_count": 211
+    "local_md": "markdown/mevar/le-sac-et-la-cendre-2010.md",
+    "size_bytes": 50007,
+    "line_count": 235
   },
   {
     "source": "onedrive",
@@ -173700,7 +173700,7 @@
     "source": "onedrive",
     "sermon_id": "lesdeuxarbres",
     "title": "Les deux arbres",
-    "subtitle": "Exhortation de Juillet 2010",
+    "subtitle": "Prêché le dimanche 25 juillet 2010 à Koumassi",
     "date": "2010-07-25",
     "year": 2010,
     "location": "Koumassi",
@@ -173750,9 +173750,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lesdeuxarbres.md",
-    "size_bytes": 85717,
-    "line_count": 418
+    "local_md": "markdown/mevar/les-deux-arbres-2010.md",
+    "size_bytes": 88113,
+    "line_count": 453
   },
   {
     "source": "onedrive",
@@ -174058,7 +174058,7 @@
     "source": "onedrive",
     "sermon_id": "ledieudespred",
     "title": "Le Dieu des prédictions",
-    "subtitle": null,
+    "subtitle": "Prêché le vendredi 15 octobre 2010 à Kinshasa",
     "date": "2010-10-15",
     "year": 2010,
     "location": "Kinshasa",
@@ -174113,15 +174113,15 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/ledieudespred.md",
-    "size_bytes": 31015,
-    "line_count": 175
+    "local_md": "markdown/mevar/le-dieu-des-predictions-2010.md",
+    "size_bytes": 32285,
+    "line_count": 176
   },
   {
     "source": "onedrive",
     "sermon_id": "leretour",
     "title": "Le retour des cœurs au Seigneur",
-    "subtitle": "Exhortation d'Octobre 2010",
+    "subtitle": "Prêché le jeudi 21 octobre 2010 à Kinshasa",
     "date": "2010-10-21",
     "year": 2010,
     "location": "Kinshasa",
@@ -174181,9 +174181,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/leretour.md",
-    "size_bytes": 54247,
-    "line_count": 224
+    "local_md": "markdown/mevar/le-retour-des-coeurs-au-seigneur-2010.md",
+    "size_bytes": 56272,
+    "line_count": 228
   },
   {
     "source": "onedrive",
@@ -174761,8 +174761,8 @@
   {
     "source": "onedrive",
     "sermon_id": "lezeleduseigneur",
-    "title": "Le zèle pour l'Eternel",
-    "subtitle": "Exhortation de Mars 2011",
+    "title": "Le zèle pour l’Éternel",
+    "subtitle": "Prêché à Koumassi, le dimanche 27 mars 2011",
     "date": "2011-03-27",
     "year": 2011,
     "location": "Koumassi",
@@ -174830,9 +174830,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lezeleduseigneur.md",
-    "size_bytes": 50764,
-    "line_count": 205
+    "local_md": "markdown/mevar/le-zele-pour-l-eternel-2011.md",
+    "size_bytes": 52286,
+    "line_count": 226
   },
   {
     "source": "onedrive",
@@ -175118,7 +175118,7 @@
     "source": "onedrive",
     "sermon_id": "lefruit",
     "title": "Le fruit utile",
-    "subtitle": "Exhortation de Juin 2011",
+    "subtitle": "Prêché à Koumassi le dimanche 26 juin 2011",
     "date": "2011-06-26",
     "year": 2011,
     "location": "Koumassi",
@@ -175172,9 +175172,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lefruit.md",
-    "size_bytes": 28029,
-    "line_count": 125
+    "local_md": "markdown/mevar/le-fruit-utile-2011.md",
+    "size_bytes": 28396,
+    "line_count": 129
   },
   {
     "source": "onedrive",
@@ -176199,7 +176199,7 @@
     "source": "onedrive",
     "sermon_id": "les_noms_de_ennemi",
     "title": "Les noms de l’ennemi",
-    "subtitle": null,
+    "subtitle": "Prêché le dimanche 11 mars 2012 à Koumassi, Abidjan",
     "date": "2012-03-11",
     "year": 2012,
     "location": "Koumassi, Abidjan",
@@ -176250,9 +176250,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/les_noms_de_ennemi.md",
-    "size_bytes": 59345,
-    "line_count": 228
+    "local_md": "markdown/mevar/les-noms-de-l-ennemi-2012.md",
+    "size_bytes": 60236,
+    "line_count": 252
   },
   {
     "source": "onedrive",
@@ -176314,7 +176314,7 @@
     "source": "onedrive",
     "sermon_id": "les_souvenirs_du_desert",
     "title": "Les souvenirs du désert",
-    "subtitle": null,
+    "subtitle": "Prêché le dimanche 1er avril 2012 à Koumassi",
     "date": "2012-04-01",
     "year": 2012,
     "location": "Koumassi",
@@ -176363,9 +176363,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/les_souvenirs_du_desert.md",
-    "size_bytes": 48489,
-    "line_count": 163
+    "local_md": "markdown/mevar/les-souvenirs-du-desert-2012.md",
+    "size_bytes": 49546,
+    "line_count": 197
   },
   {
     "source": "onedrive",
@@ -176583,7 +176583,7 @@
     "source": "onedrive",
     "sermon_id": "marchant_pour_les_propheties",
     "title": "Marchant pour les prophéties",
-    "subtitle": null,
+    "subtitle": "Prêché le dimanche 27 mai 2012 à Koumassi (Abidjan)",
     "date": "2012-05-27",
     "year": 2012,
     "location": "Koumassi (Abidjan)",
@@ -176647,14 +176647,14 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/marchant_pour_les_propheties.md",
-    "size_bytes": 56837,
-    "line_count": 216
+    "local_md": "markdown/mevar/marchant-pour-les-propheties-2012.md",
+    "size_bytes": 58870,
+    "line_count": 223
   },
   {
     "source": "onedrive",
     "sermon_id": "les_fondement_combat_spirituel",
-    "title": "Appel au combat spirituel – Appel à la prière",
+    "title": "Appel au combat spirituel – appel à la prière",
     "subtitle": "Exhortation spéciale de Juin 2012",
     "date": "2012-06-01",
     "year": 2012,
@@ -176698,9 +176698,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/les_fondement_combat_spirituel.md",
-    "size_bytes": 15397,
-    "line_count": 88
+    "local_md": "markdown/mevar/appel-au-combat-spirituel-appel-a-la-priere-2012.md",
+    "size_bytes": 15524,
+    "line_count": 123
   },
   {
     "source": "onedrive",
@@ -177366,7 +177366,7 @@
     "source": "onedrive",
     "sermon_id": "les_temps_de_Noe",
     "title": "Les temps de Noé",
-    "subtitle": "Exhortation de Décembre 2012",
+    "subtitle": "Prêché à Morofé (Yamoussoukro) le dimanche 09 décembre 2012",
     "date": "2012-12-09",
     "year": 2012,
     "location": "Morofé (Yamoussoukro)",
@@ -177422,9 +177422,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/les_temps_de_Noe.md",
-    "size_bytes": 39866,
-    "line_count": 159
+    "local_md": "markdown/mevar/les-temps-de-noe-2012.md",
+    "size_bytes": 41460,
+    "line_count": 162
   },
   {
     "source": "onedrive",
@@ -178020,8 +178020,8 @@
   {
     "source": "onedrive",
     "sermon_id": "lescles_du_royaume",
-    "title": "Les Clefs du Royaume de Dieu",
-    "subtitle": "Exhortation de Juin 2013",
+    "title": "Les clefs du royaume de Dieu",
+    "subtitle": "Prêché le dimanche 30 juin 2013 à Koumassi",
     "date": "2013-06-30",
     "year": 2013,
     "location": "Koumassi",
@@ -178074,9 +178074,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lescles_du_royaume.md",
-    "size_bytes": 39859,
-    "line_count": 161
+    "local_md": "markdown/mevar/les-clefs-du-royaume-de-dieu-2013.md",
+    "size_bytes": 41725,
+    "line_count": 170
   },
   {
     "source": "onedrive",
@@ -178278,7 +178278,7 @@
     "source": "onedrive",
     "sermon_id": "les_geoles_de_satan",
     "title": "Les geôles de Satan",
-    "subtitle": null,
+    "subtitle": "Prêché dans la nuit du samedi 25 août 2013 à Koumassi",
     "date": "2013-08-25",
     "year": 2013,
     "location": "Koumassi",
@@ -178326,9 +178326,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/les_geoles_de_satan.md",
-    "size_bytes": 83406,
-    "line_count": 239
+    "local_md": "markdown/mevar/les-geoles-de-satan-2013.md",
+    "size_bytes": 86465,
+    "line_count": 252
   },
   {
     "source": "onedrive",
@@ -186847,7 +186847,7 @@
     "source": "onedrive",
     "sermon_id": "meprise",
     "title": "Que personne ne méprise ta jeunesse",
-    "subtitle": null,
+    "subtitle": "Traité",
     "date": null,
     "year": null,
     "location": null,
@@ -186910,9 +186910,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/meprise.md",
-    "size_bytes": 30960,
-    "line_count": 178
+    "local_md": "markdown/mevar/que-personne-ne-meprise-ta-jeunesse.md",
+    "size_bytes": 31513,
+    "line_count": 240
   },
   {
     "source": "onedrive",

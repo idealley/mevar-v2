@@ -1047,7 +1047,7 @@
           "b": "onedrive/temoignagepdf",
           "band": "same_text",
           "decision": null,
-          "in_a": 0.915,
+          "in_a": 0.914,
           "in_b": 0.921,
           "title": 1
         }
@@ -1198,7 +1198,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.951,
-          "in_b": 0.954,
+          "in_b": 0.953,
           "title": 1
         }
       ]
@@ -3544,7 +3544,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.963,
-          "in_b": 0.964,
+          "in_b": 0.963,
           "title": 1
         }
       ]
@@ -5344,7 +5344,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.962,
-          "in_b": 0.962,
+          "in_b": 0.961,
           "title": 1
         }
       ]
@@ -6472,7 +6472,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.929,
-          "in_b": 0.933,
+          "in_b": 0.934,
           "title": 0
         }
       ]
