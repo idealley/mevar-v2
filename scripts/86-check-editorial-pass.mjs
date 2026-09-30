@@ -550,7 +550,7 @@ if (rows.some((r) => fixes[r.md]?.summary || fixes[r.md]?.split?.frontmatter.sum
   for (const r of rows) if (fixes[r.md]?.split?.frontmatter.summary) L.push(`- \`${fixes[r.md].split.frontmatter.sermon_id}\` (split): ${cell(fixes[r.md].split.frontmatter.summary)}`);
 }
 if (rows.some((r) => Object.keys(r.lists).length)) {
-  L.push("", "## Tags, persons, places and themes the editor gave (a split's first work)", "");
+  L.push("", "## Tags, persons, places and themes the editor gave (a split's first work, a name corrected)", "");
   for (const r of rows) for (const [k, v] of Object.entries(r.lists)) L.push(`- \`${path.basename(r.md, ".md")}\`, ${k}: ${v.map(cell).join(", ") || "none"}`);
 }
 if (rows.some((r) => r.headings.length)) {
