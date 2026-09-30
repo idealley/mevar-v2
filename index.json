@@ -175042,7 +175042,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/il-faut-que-tu-rendes-temoignage-dans-rome-2011.md",
-    "size_bytes": 58020,
+    "size_bytes": 58024,
     "line_count": 279
   },
   {
@@ -185947,7 +185947,7 @@
   {
     "source": "onedrive",
     "sermon_id": "infaillibilite",
-    "title": "L’infaillibilité du serviteur fidèle et prudent",
+    "title": "L’infaillibilité du serviteur fidèle et prudent – introduction",
     "subtitle": null,
     "date": null,
     "year": null,
@@ -185969,7 +185969,7 @@
     "authors": null,
     "type": null,
     "status": null,
-    "summary": "L'auteur met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule.",
+    "summary": "Le frère M'bra présente l'exposé d'un frère resté anonyme sur l'infaillibilité du serviteur fidèle et prudent. Il exhorte à se garder de l'idolâtrie (1 Jean 5:20-21) : aucun serviteur de Dieu n'est infaillible, pas même frère Frank ; il faut croire sainement dans les Ministères que Dieu envoie, sans fanatisme.",
     "persons": [
       "William Branham",
       "Frank",
@@ -186002,9 +186002,70 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
+    "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent-introduction.md",
+    "size_bytes": 8078,
+    "line_count": 72
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "infaillibilite-l-infaillibilite-du-serviteur-fidele-et-prudent",
+    "title": "L’infaillibilité du serviteur fidèle et prudent",
+    "subtitle": "Exposé d’un frère en Christ Jésus, présenté par le frère M’bra",
+    "date": null,
+    "year": null,
+    "location": null,
+    "preacher": null,
+    "duration": null,
+    "source_url": null,
+    "pdf_url": null,
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": [
+      "Exhortations",
+      "Infaillibilité",
+      "Idolâtrie",
+      "Serviteur fidèle et prudent"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "L'auteur, un frère resté anonyme, met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule.",
+    "persons": [
+      "William Branham",
+      "Frank",
+      "Paul",
+      "Pierre",
+      "Nathan",
+      "David",
+      "Salomon",
+      "William J. Seymour",
+      "Frank Bartlemen",
+      "John Wesley",
+      "Guido Kwiyas"
+    ],
+    "places": [
+      "Los Angeles",
+      "Azusa Street",
+      "Houston",
+      "Pasadena",
+      "Jeffersonville"
+    ],
+    "themes": [
+      "Infaillibilité des serviteurs de Dieu",
+      "Idolâtrie et fanatisme",
+      "Rôle du serviteur fidèle et prudent",
+      "Réveil d'Azusa Street",
+      "Autorité de la Bible",
+      "Complémentarité des ministères"
+    ],
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": false,
+    "original": null,
     "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent.md",
-    "size_bytes": 84380,
-    "line_count": 405
+    "size_bytes": 77813,
+    "line_count": 373
   },
   {
     "source": "onedrive",

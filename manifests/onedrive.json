@@ -16642,7 +16642,7 @@
   {
     "source": "onedrive",
     "sermon_id": "infaillibilite",
-    "title": "L’infaillibilité du serviteur fidèle et prudent",
+    "title": "L’infaillibilité du serviteur fidèle et prudent – introduction",
     "subtitle": null,
     "date": null,
     "year": null,
@@ -16651,12 +16651,12 @@
     "pdf_url": null,
     "audio_url": null,
     "stream_url": null,
-    "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent.md",
+    "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent-introduction.md",
     "source_path": null,
     "aliases": [],
     "hash": null,
     "mevar_match": null,
-    "summary": "L'auteur met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule.",
+    "summary": "Le frère M'bra présente l'exposé d'un frère resté anonyme sur l'infaillibilité du serviteur fidèle et prudent. Il exhorte à se garder de l'idolâtrie (1 Jean 5:20-21) : aucun serviteur de Dieu n'est infaillible, pas même frère Frank ; il faut croire sainement dans les Ministères que Dieu envoie, sans fanatisme.",
     "tags": [
       "Exhortations",
       "2014",
@@ -19882,5 +19882,48 @@
     ],
     "published_with": "mevar/sois-un-modele-2009",
     "local_md": "markdown/mevar/le-manteau-de-l-humilite-2009.md"
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "infaillibilite-l-infaillibilite-du-serviteur-fidele-et-prudent",
+    "title": "L’infaillibilité du serviteur fidèle et prudent",
+    "subtitle": "Exposé d’un frère en Christ Jésus, présenté par le frère M’bra",
+    "summary": "L'auteur, un frère resté anonyme, met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule.",
+    "tags": [
+      "Exhortations",
+      "Infaillibilité",
+      "Idolâtrie",
+      "Serviteur fidèle et prudent"
+    ],
+    "persons": [
+      "William Branham",
+      "Frank",
+      "Paul",
+      "Pierre",
+      "Nathan",
+      "David",
+      "Salomon",
+      "William J. Seymour",
+      "Frank Bartlemen",
+      "John Wesley",
+      "Guido Kwiyas"
+    ],
+    "places": [
+      "Los Angeles",
+      "Azusa Street",
+      "Houston",
+      "Pasadena",
+      "Jeffersonville"
+    ],
+    "themes": [
+      "Infaillibilité des serviteurs de Dieu",
+      "Idolâtrie et fanatisme",
+      "Rôle du serviteur fidèle et prudent",
+      "Réveil d'Azusa Street",
+      "Autorité de la Bible",
+      "Complémentarité des ministères"
+    ],
+    "published_with": "mevar/l-infaillibilite-du-serviteur-fidele-et-prudent-introduction",
+    "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent.md"
   }
 ]

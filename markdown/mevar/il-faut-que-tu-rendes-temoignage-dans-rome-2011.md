@@ -73,7 +73,7 @@ bible_refs:
   - "Matthieu 25"
   - "Matthieu 24:45"
   - "Philémon 1:8-12"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, je vous salue dans le nom précieux de notre Seigneur Jésus-Christ. Que Sa grâce et Sa paix soient avec vous tous. Je voudrais qu’on examine ensemble l’histoire du voyage de l’apôtre Paul à Rome, car elle revêt une dimension prophétique importante dans notre génération. En effet, après avoir comparu devant Agrippa, Paul devrait s’embarquer pour Rome, où il devrait comparaître devant César. C’est là-bas que devrait prendre fin sa course en tant que serviteur de Dieu. Il devrait rendre témoignage de Jésus-Christ devant César avant sa mort. La nuit suivante, le Seigneur apparut à Paul, et dit : « Prends courage ; car, de même que **tu as rendu témoignage de moi dans Jérusalem**, il faut aussi que **tu rendes témoignage dans Rome**. » (Actes 23:11)
 
@@ -153,9 +153,9 @@ La navigation était devenue lente, avec beaucoup de difficultés. Puis elle com
 
 Il est vrai que dans cette œuvre, après les moments d’enthousiasme, nous sommes passés par des difficultés. En effet, nous sommes entrés dans une période éprouvante. Cela a coïncidé avec la prophétie qui avait dit : « **Mon héritage ne sera pas profané. Je chasserai du milieu de vous les orgueilleux et les cupides**… » Cela a encore coïncidé avec la prédication : les fils du désert. Dieu nous a livrés au désert et aux épreuves de tout genre. Nous embarquions ainsi sur l’Adriatique, le navire de l’épreuve. La vie de prière et de jeûne baissa pour plusieurs, au point que certains se demandaient si on était encore dans la vision. Paul en tant que prophète avait annoncé l’épreuve, mais il ne fut pas écouté.
 
-C’est pourquoi Paul avertit 10 les autres, en disant :
+C’est pourquoi Paul avertit les autres, en disant :
 
-> **Ô hommes, je vois que la navigation ne se fera pas sans péril et sans beaucoup de dommage, non seulement pour la cargaison et pour le navire, mais encore pour nos personnes**. **11** **Le centenier écouta le pilote et le patron du navire** plutôt que les paroles de Paul.
+> **10** **Ô hommes, je vois que la navigation ne se fera pas sans péril et sans beaucoup de dommage, non seulement pour la cargaison et pour le navire, mais encore pour nos personnes**. **11** **Le centenier écouta le pilote et le patron du navire** plutôt que les paroles de Paul.
 
 Mes chers amis, l’apôtre Paul savait que le navire courait un danger en prenant la mer au moment où il donna l’avertissement. Pour lui, il fallait rester dans les eaux de la Crète et attendre le moment favorable pour continuer la route parce que le temps n’était pas bon. Ce fut Dieu qui parla par sa bouche. Mais comme il n’était pas un marin, il ne fut pas écouté. Ceux qui tenaient le navire ne l’écoutèrent pas. Paul était un homme méprisable à leurs yeux en ce moment-là. Il était prisonnier et il n’était pas un professionnel de la navigation. Il y avait vraiment de quoi ne pas l’écouter.
 
