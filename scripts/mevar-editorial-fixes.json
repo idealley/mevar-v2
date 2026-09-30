@@ -6343,7 +6343,7 @@
     ]
   },
   "markdown/onedrive/pdf/la_vision_du_royaume_de_dieu.md": {
-    "title": null,
+    "title": "La vision du Royaume de Dieu",
     "fixes": [
       {
         "find": "L’amour est patient, elle est pleine de bonté",
@@ -6488,6 +6488,30 @@
         "replace": "dans chaque âge, le Seigneur a dit",
         "kind": "typo",
         "why": "article, stray capital mid-sentence"
+      },
+      {
+        "find": "qui dit qu’il est le cri de Minuit ici à Abidjan",
+        "replace": "qui dit qu’il est le cri de minuit ici à Abidjan",
+        "kind": "revert",
+        "why": "the PDF writes « cri de minuit » here; the pass added the capital"
+      },
+      {
+        "find": "Il dit qu’il est le cri de Minuit de Matthieu 25",
+        "replace": "Il dit qu’il est le cri de minuit de Matthieu 25",
+        "kind": "revert",
+        "why": "the PDF writes « cri de minuit » here; the pass added the capital"
+      },
+      {
+        "find": "Mais le cri de Minuit est un cri de",
+        "replace": "Mais le cri de minuit est un cri de",
+        "kind": "revert",
+        "why": "the PDF writes « cri de minuit » here; the pass added the capital"
+      },
+      {
+        "find": "**Le vrai cri de Minuit qui est dans l",
+        "replace": "**Le vrai cri de minuit qui est dans l",
+        "kind": "revert",
+        "why": "the PDF writes « cri de minuit » here; the pass added the capital"
       }
     ]
   },
@@ -6746,9 +6770,9 @@
     "fixes": [
       {
         "find": "Qu’est-ce que Dieu a à voir à faire là-dedans ?",
-        "replace": "Qu’est-ce que Dieu a à voir à faire là-dedans ?",
-        "kind": "word",
-        "why": "approve the pass: « a avoir » is the transcriber's slip for « a à voir », the « à » was said"
+        "replace": "Qu’est-ce que Dieu à avoir à faire là-dedans ?",
+        "kind": "revert",
+        "why": "the PDF's words, « Dieu à avoir à faire »: no reading of them is sure, so they stay (unclear)"
       },
       {
         "find": "et l’homme doit faire Sa part.",
@@ -7389,9 +7413,15 @@
         "replace": "chacun de nous, car en lui",
         "kind": "typo",
         "why": "stray capital after a comma in the reading"
+      },
+      {
+        "find": "il est entré dans le cri de Minuit, dans",
+        "replace": "il est entré dans le cri de minuit, dans",
+        "kind": "revert",
+        "why": "the PDF writes « cri de minuit » here; the pass added the capital"
       }
     ],
-    "subtitle": "Prêché le lundi 28 septembre 2009 à l’assemblée de Mamayemo"
+    "subtitle": "Prêché le lundi 28 septembre 2009 à l’Assemblée de Mamayemo"
   },
   "markdown/onedrive/pdf/ledernierouvragespirituel.md": {
     "title": null,
