@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/larecompensedeprophete.md"
 sermon_id: "larecompensedeprophete"
 title: "La récompense de prophète"
-subtitle: "Exhortation de janvier 2007"
+subtitle: "Prêché à Lagos, Mankoko, le 22 janvier 2007"
 date: "2007-01-22"
 year: 2007
 location: "Lagos, Mankoko"

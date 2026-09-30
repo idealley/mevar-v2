@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinnov09.md"
 sermon_id: "exhofinnov09"
 title: "Tabitha, servante du Seigneur Jésus-Christ"
-subtitle: "Exhortation de novembre 2009"
+subtitle: "Exhortation fin novembre 2009"
 date: "2009-11-01"
 year: 2009
 preacher: "Parfait M'bra"
@@ -69,7 +69,7 @@ bible_refs:
   - "Matthieu 25:6"
   - "Matthieu 24:14"
   - "Romains 12:5-15"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur par cette histoire connue dans le livre des Actes des Apôtres. L’histoire raconte la mort d’une sainte de Joppé nommée Tabitha qui veut dire Dorcas. N’est-ce pas qu’il est bon et honorable de raconter le témoignage des saints qui ont bien rempli leur Mission dans l’Église sur terre ? Méditons ensemble ce texte.
 

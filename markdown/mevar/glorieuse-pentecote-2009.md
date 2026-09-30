@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/glorieusepentecote.md"
 sermon_id: "glorieusepentecote"
 title: "Glorieuse Pentecôte"
-subtitle: "Exhortation de janvier 2009"
+subtitle: "Prêché le dimanche 18 janvier 2009 à Koumassi"
 date: "2009-01-18"
 year: 2009
 location: "Koumassi"
@@ -51,7 +51,7 @@ bible_refs:
   - "Actes 2:1"
   - "Actes 2:1-20"
   - "Hébreux 12:25"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Nous vous saluons au nom de notre Seigneur et Sauveur Jésus-Christ. Que Dieu vous bénisse tous. Nous sommes heureux de nous retrouver dans la présence du Seigneur pour cette réunion. Glorieuse Pentecôte ! Je voudrais parler ce matin de la Pentecôte. Nous allons lire dans le livre des Actes des Apôtres, au chapitre 2.
 

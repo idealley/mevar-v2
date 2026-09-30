@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/le_mystere_de_l_iniquite.md"
 sermon_id: "le_mystere_de_l_iniquite"
 title: "Le mystère de l’iniquité"
-subtitle: "Exhortation de janvier 2011"
+subtitle: "Prêché le dimanche 23 janvier 2011 à Koumassi"
 date: "2011-01-23"
 year: 2011
 location: "Koumassi"

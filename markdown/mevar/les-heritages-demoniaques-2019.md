@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Les_heritages_demoniaques.md"
 sermon_id: "Les_heritages_demoniaques"
 title: "Les héritages démoniaques"
-subtitle: "Exhortation de juin 2019"
+subtitle: "Prêché le 1er juin 2019"
 date: "2019-06-01"
 year: 2019
 preacher: "Parfait M'bra"
@@ -62,7 +62,7 @@ bible_refs:
   - "Genèse 19:33-37"
   - "Daniel 10"
   - "Juges 6:25"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Les héritages démoniaques. **Le but de cette prédication est d’amener les uns et les autres à comprendre par les Écritures que lorsqu’un être humain s’engage dans une alliance, un contrat ou un accord avec un esprit, que ce soit l’esprit de Dieu ou un esprit démoniaque, cette alliance ou cet accord devient un héritage pour sa descendance parce que les esprits ne meurent pas**. Je vais essayer de vous démontrer la pérennité et la validité d’une telle alliance par les Écritures. Je parlerai aussi de la position et de la qualité de celui qui conclut une telle alliance parce qu’il y a un rapport avec les effets. **Celui qui conclut l’alliance peut être un Chef de famille, un Chef de tribu, un Chef d’État ou un Roi** etc. Il peut être dans n’importe quelle position ou avoir n’importe quelle qualité. **Donc l’influence de l’alliance est en fonction de la position du contractant**. Si c’est un père de famille, l’influence de l’esprit avec lequel l’alliance a été conclue reste dans le cadre familial. Si c’est un Chef de tribu ou un roi, l’influence de cet esprit va jouer sur toute la tribu ou sur tous les ressortissants du Royaume. **C’est pour cette raison que tous les peuples n’ont pas les mêmes comportements, ni les mêmes cultures**.
 

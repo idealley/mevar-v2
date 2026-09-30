@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinaout2009.md"
 sermon_id: "exhofinaout2009"
 title: "Le pasteur invisible"
-subtitle: "Exhortation d'août 2009"
+subtitle: "Exhortation fin août 2009"
 date: "2009-08-01"
 year: 2009
 location: "Koumassi"
@@ -79,7 +79,7 @@ bible_refs:
   - "Esther 2:15-17"
   - "Matthieu 25:6"
   - "Actes 7:47-50"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer par cette Parole du Psaumes 23 :
 
