@@ -194,7 +194,7 @@ const LISTS = ["tags", "persons", "places", "themes"];
 const yamlList = (k, v) => `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}`;
 
 // Words a transcript's header has besides the frontmatter's
-const HEADER_WORDS = "prêché prêchée prédication exhortation spéciale mois fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
+const HEADER_WORDS = "prêché prêchée prêchés prédication exhortation spéciale mois fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur past lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
 
 const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive.json"), "utf8"));
 const db = await connect();
@@ -357,7 +357,12 @@ for (const md of batch) {
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const inHeader = new Set(words(header).map((x) => key(x.w)));
   const holds = (t) => words(t).length > 0 && words(t).every((x) => inHeader.has(key(x.w)));
-  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || /^\d{1,3}$/.test(x.w))
+  // a letter the PDF printed twice in the preacher's name (« M’BBRA ») is
+  // still his name; only his name, and only the header's side is collapsed,
+  // so no word passes for another (« guerre » for « guère »)
+  const single = (w) => w.replace(/(\p{L})\1/gu, "$1");
+  const name = new Set(words(field("preacher") ?? "").map((x) => key(x.w)));
+  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || name.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w))
     && [oldTitle, oldSubtitle, r.title, r.subtitle].some(holds);
   r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
   if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
@@ -545,7 +550,7 @@ if (rows.some((r) => fixes[r.md]?.summary || fixes[r.md]?.split?.frontmatter.sum
   for (const r of rows) if (fixes[r.md]?.split?.frontmatter.summary) L.push(`- \`${fixes[r.md].split.frontmatter.sermon_id}\` (split): ${cell(fixes[r.md].split.frontmatter.summary)}`);
 }
 if (rows.some((r) => Object.keys(r.lists).length)) {
-  L.push("", "## Tags, persons, places and themes the editor gave (a split's first work)", "");
+  L.push("", "## Tags, persons, places and themes the editor gave (a split's first work, a name corrected)", "");
   for (const r of rows) for (const [k, v] of Object.entries(r.lists)) L.push(`- \`${path.basename(r.md, ".md")}\`, ${k}: ${v.map(cell).join(", ") || "none"}`);
 }
 if (rows.some((r) => r.headings.length)) {
