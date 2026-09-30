@@ -8217,6 +8217,18 @@
         "replace": "C’est comme cela. Entre-temps, il faut",
         "kind": "typo",
         "why": "hyphen in the compound « entre-temps »"
+      },
+      {
+        "find": "> **5 L’Éternel vit que la méchanceté",
+        "replace": "> **5** **L’Éternel vit que la méchanceté",
+        "kind": "markup",
+        "why": "verse number bolded on its own, the verse keeps its bold"
+      },
+      {
+        "find": "uniquement vers le mal. 6 L’Éternel se repentit",
+        "replace": "uniquement vers le mal**. **6** **L’Éternel se repentit",
+        "kind": "markup",
+        "why": "verse number bolded on its own, the verse keeps its bold"
       }
     ],
     "subtitle": "Prêché à Morofé (Yamoussoukro) le dimanche 09 décembre 2012"
@@ -9115,7 +9127,7 @@
       "Haïti",
       "Europe",
       "Afrique centrale",
-      "Afrique de l'ouest"
+      "Afrique de l'Ouest"
     ],
     "themes": [
       "Impuretés sexuelles",
