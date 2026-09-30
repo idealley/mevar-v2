@@ -198,6 +198,33 @@ function spoken({ book: bookVariant, chapter, ...g }) {
   return renderRef({ book, chapter, verseStart: v.start, verseEnd, extra });
 }
 
+// A chapter announced with a colon, and the reading after it as a quote
+// whose first verse number is bold: « Matthieu 13 :\n\n> **41** Le Fils de
+// l'homme… **42** et ils… **43** Alors… » is Matthieu 13:41-43, the first
+// numbered verse to the last one that follows it. Not « > **1 Samuel 4:3**… »,
+// a reference. `end` is where the chapter's citation ends in `md`; the site
+// asks with the whole body, which a text node alone does not show.
+// A verse number in bold, not a reference: « **41** », « **22 J'ai »,
+// not « **1 Samuel 4:3** »
+const VERSE_NO = "\\*\\*[^\\S\\n]*(\\d{1,3})\\.?(?=\\*\\*|[^\\S\\n]+(?!\\p{L}+\\.?[^\\S\\n]*\\d)\\p{L})";
+const VERSE_NOS = new RegExp(VERSE_NO, "gu");
+// the colon, blank lines, then the quote's lines, the first opening on a
+// verse number
+const QUOTE = new RegExp(`[^\\S\\n]*:[^\\S\\n]*\\n(?:[^\\S\\n]*\\n)*(>[^\\S\\n]*${VERSE_NO}.*(?:\\n>.*)*)`, "uy");
+export function quoted(md, end, ref) {
+  QUOTE.lastIndex = end;
+  const [, quote, first] = QUOTE.exec(md) ?? [];
+  if (!quote) return ref;
+  let last = 0;
+  for (const [, n] of quote.matchAll(VERSE_NOS)) {
+    if (Number(n) <= last) break;
+    last = Number(n);
+  }
+  const [, book, chapter] = ref.match(/^(.+) (\d+)$/);
+  if (!isPossible(book, chapter, [first, last])) return ref;
+  return renderRef({ book, chapter, verseStart: first, verseEnd: last > Number(first) ? last : null });
+}
+
 /**
  * Every reference this script records in a text: where it is and its
  * canonical form. The site links the same ones (web/src/lib/bible-links.mjs).
@@ -212,7 +239,7 @@ export function* citations(md) {
     for (const m of md.matchAll(re)) {
       if (inImage(m.index)) continue;
       const ref = spoken(m.groups);
-      if (ref) yield { index: m.index, text: m[0], ref };
+      if (ref) yield { index: m.index, text: m[0], ref: ref.includes(":") ? ref : quoted(md, m.index + m[0].length, ref) };
     }
   }
   for (const match of md.matchAll(REF_RE)) {
@@ -239,7 +266,7 @@ export function* citations(md) {
       verseEnd: verseEnd ?? null,
       extra: extra ?? null,
     });
-    yield { index: match.index, text: match[0], ref: rendered };
+    yield { index: match.index, text: match[0], ref: verseStart ? rendered : quoted(md, match.index + match[0].length, rendered) };
   }
 }
 

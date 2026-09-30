@@ -8,7 +8,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
-import { citations as french } from "../../../scripts/65-normalize-bible.mjs";
+import { citations as french, quoted } from "../../../scripts/65-normalize-bible.mjs";
 import { citations as english } from "../../../scripts/66-normalize-bible-en.mjs";
 import { chapterUrl, parseRef } from "./bible.mjs";
 
@@ -31,11 +31,19 @@ export function rehypeBibleLinks() {
 
     // A text node becomes text and links. Citations in order, none inside
     // another; of two at the same place, the longer ("Luke 11th chapter and
-    // 24th verse" is Luke 11:24, not Luke 11).
-    function link(text) {
+    // 24th verse" is Luke 11:24, not Luke 11). « Matthieu 13 : » ending its
+    // paragraph is the verses of the quote that follows, as 65 read them in
+    // the whole body (quoted): `end` is where the node ends in the body, none
+    // for a node an earlier plugin made (bookmarks).
+    function link(text, end) {
       const nodes = [];
       let at = 0;
-      const found = [...citations(text)].filter((c) => refs.has(c.ref)).sort((a, b) => a.index - b.index || b.text.length - a.text.length);
+      const verses = (c) => {
+        const ref = citations === french && end !== undefined && !c.ref.includes(":")
+          && quoted(file.value, end - text.length + c.index + c.text.length, c.ref);
+        return refs.has(ref) ? { ...c, ref } : c;
+      };
+      const found = [...citations(text)].map(verses).filter((c) => refs.has(c.ref)).sort((a, b) => a.index - b.index || b.text.length - a.text.length);
       for (const c of found) {
         if (c.index < at) continue;
         if (c.index > at) nodes.push({ type: "text", value: text.slice(at, c.index) });
@@ -60,7 +68,7 @@ export function rehypeBibleLinks() {
           const tags = child.value.match(/<\/?a[\s>]/gi);
           if (tags) inRawLink = !tags.at(-1).startsWith("</");
         }
-        if (child.type === "text" && !inRawLink) return link(child.value);
+        if (child.type === "text" && !inRawLink) return link(child.value, child.position?.end.offset);
         if (child.type === "element" && child.tagName !== "a") walk(child);
         return [child];
       });
