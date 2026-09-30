@@ -4838,6 +4838,18 @@
         "replace": "la question ! « **Va, et toi, fais de même**. » **C’est ici l’appel",
         "kind": "markup",
         "why": "the short citation of Jesus' words in « », separate from the preacher's own bold comment"
+      },
+      {
+        "find": "Le faire connaître à d’Israël",
+        "replace": "Le faire connaître à Israël",
+        "kind": "word",
+        "why": "a stray « d’ » (Samuel)"
+      },
+      {
+        "find": "Car là que Dieu a donné",
+        "replace": "Car c’est là que Dieu a donné",
+        "kind": "word",
+        "why": "« c’est » dropped (Samuel)"
       }
     ],
     "subtitle": "Exhortation fin mars 2012"
