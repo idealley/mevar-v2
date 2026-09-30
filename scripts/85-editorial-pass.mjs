@@ -71,6 +71,9 @@ Les corrections que les premiers lots ont le plus demandées, à faire toi-même
 - une majuscule que le prédicateur a mise à un mot qu'il honore reste où elle est (« le Ministère » reste « le Ministère ») ; n'en ajoute jamais une que le texte n'a pas : « le cri de minuit » reste « le cri de minuit ».
 - les noms composés prennent leur trait d'union : « Jésus-Christ », « Jean-Baptiste », « le Très-Haut », « le Tout-Puissant » ;
 - l'article d'un nom au milieu d'une phrase s'écrit en minuscule : « , Le Seigneur a dit » → « , le Seigneur a dit » ; le nom garde sa majuscule.
+- « l'église » écrite en minuscule par le texte reste en minuscule (l'assemblée locale, le bâtiment) : ne la change pas en « l'Église » ; seule l'accentuation d'une majuscule existante change (« l'Eglise » → « l'Église ») ;
+- le nom d'un livre dans une référence reste celui du prédicateur : « Psaumes 89 » reste « Psaumes 89 », « Mathieu 25 » reste « Mathieu 25 » ;
+- une lecture, même courte, que le prédicateur annonce ou fait suivre de sa référence (« Romains 12:2 ») est un paragraphe à part en citation « > », jamais entre « » dans sa phrase.
 Dans le doute, garde le texte tel quel.
 
 Lecture manquante : si le prédicateur annonce une lecture avec ses versets (« Nous lisons Genèse 4 à partir du verset 1 », « Jean 3:16 ») et que le texte lu n'est pas dans la transcription, ni juste après l'annonce ni plus loin, écris à cet endroit, sur une ligne à part, [[LECTURE: <livre chapitre:verset-verset>]], par exemple [[LECTURE: Genèse 4:1-16]]. Le script y mettra le texte Segond. Ne l'écris jamais toi-même. S'il paraphrase ou cite de mémoire dans sa phrase, ce n'est pas une lecture : rien à insérer. S'il ne donne qu'un chapitre (« Nous lisons dans Jean 3 »), rien à insérer.
