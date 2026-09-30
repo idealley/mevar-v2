@@ -19217,40 +19217,6 @@
   },
   {
     "source": "onedrive",
-    "sermon_id": "sujets-de-prieres-15-16-aout-2014",
-    "title": "Sujets de Prière",
-    "subtitle": null,
-    "date": null,
-    "year": null,
-    "location": null,
-    "preacher": "Parfait M'bra",
-    "pdf_url": null,
-    "audio_url": null,
-    "stream_url": null,
-    "local_md": "markdown/onedrive/pdf/sujets-de-prieres-15-16-aout-2014.md",
-    "source_path": null,
-    "aliases": [],
-    "hash": null,
-    "mevar_match": null,
-    "summary": "Ce document présente trois sujets de prière pour les intercesseurs, incluant la libération des prisons spirituelles, le soutien de la chaîne de prière, et la délivrance des excès. Il annonce également un jeûne les 15 et 16 août.",
-    "tags": [
-      "Exhortations",
-      "Chaîne de prière",
-      "2014"
-    ],
-    "persons": [],
-    "places": [],
-    "themes": [
-      "Prière",
-      "Intercession",
-      "Jeûne",
-      "Délivrance",
-      "Communion avec Dieu"
-    ],
-    "llm_cleaned": true
-  },
-  {
-    "source": "onedrive",
     "sermon_id": "temoignagenandy",
     "title": "Témoignage du Frère Nandy Noël",
     "subtitle": null,
