@@ -50,7 +50,7 @@ for (const dir of ["markdown/onedrive", "markdown/mevar-pdfs", "markdown/mevar"]
     if (after === before) continue;
     fs.writeFileSync(path.join(root, md), text.replace(line[0], `subtitle: ${JSON.stringify(after)}`));
     for (const list of entries.values())
-      for (const e of list) if (e.local_md === md && e.subtitle === before) e.subtitle = after;
+      for (const e of list) if (e.local_md === md) e.subtitle = after;
     changed.push({ md, before, after });
   }
 for (const [m, list] of entries) fs.writeFileSync(path.join(root, m), JSON.stringify(list, null, 2));
