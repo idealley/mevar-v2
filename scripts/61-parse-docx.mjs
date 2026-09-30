@@ -20,8 +20,9 @@ function* walk(dir) {
 let done = 0, failed = 0;
 for (const docx of walk(oneRoot)) {
   const rel = path.relative(oneRoot, docx);
-  // not a work (Samuel, goal 21): a prayer notice for a fast, with no PDF
-  if (rel === "pdf/sujets-de-prieres-15-16-aout-2014.docx") continue;
+  // not a work (Samuel, goal 21): a prayer notice for a fast, with no PDF;
+  // pdf/ and images/pdf/ hold the same file
+  if (path.basename(rel) === "sujets-de-prieres-15-16-aout-2014.docx") continue;
   const outPath = path.join(outRoot, rel.replace(/\.docx$/i, ".md"));
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
   try {

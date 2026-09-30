@@ -61,7 +61,7 @@ const BOOK_ALT = variantsSorted.map(escRe).join("|");
 // Allow optional trailing period and optional spaces before chapter number.
 // Chapter:verse separator can be `:`, `,`, or `.` (with optional surrounding space).
 // Verse range can use `-` or `–` or `–`.
-const VERSE_ITEM = "\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?!\\s*:\\s*\\d)";
+const VERSE_ITEM = "\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?![^\\S\\n]*:[^\\S\\n]*\\d)";
 const REF_RE = new RegExp(
   // word boundary or paren / opening punct
   "(?<![\\p{L}])" +
@@ -201,28 +201,29 @@ function spoken({ book: bookVariant, chapter, ...g }) {
 // A chapter announced with a colon, and the reading after it as a quote
 // whose first verse number is bold: « Matthieu 13 :\n\n> **41** Le Fils de
 // l'homme… **42** et ils… **43** Alors… » is Matthieu 13:41-43, the first
-// numbered verse to the last one that follows it. Not « > **1 Samuel 4:3**… »,
-// a reference. `end` is where the chapter's citation ends in `md`; the site
-// asks with the whole body, which a text node alone does not show.
-// A verse number in bold, not a reference: « **41** », « **22 J'ai »,
-// not « **1 Samuel 4:3** »
-const VERSE_NO = "\\*\\*[^\\S\\n]*(\\d{1,3})\\.?(?=\\*\\*|[^\\S\\n]+(?!\\p{L}+\\.?[^\\S\\n]*\\d)\\p{L})";
-const VERSE_NOS = new RegExp(VERSE_NO, "gu");
-// the colon, blank lines, then the quote's lines, the first opening on a
-// verse number
-const QUOTE = new RegExp(`[^\\S\\n]*:[^\\S\\n]*\\n(?:[^\\S\\n]*\\n)*(>[^\\S\\n]*${VERSE_NO}.*(?:\\n>.*)*)`, "uy");
+// numbered verse to the last one that follows it. A verse number is a bold
+// run that opens with it (« **41** », « **22 J'ai été faible** »; a
+// transcript may escape it, « \*\*2\*\* »), not one that opens with a book
+// (« **1 Samuel 4:3-11** ») or « **1.1** ». `end` is where the chapter's
+// citation ends in `md`; the site asks with the whole body, which a text
+// node alone does not show.
+const QUOTE = /[^\S\n]*:[^\S\n]*\n(?:[^\S\n]*\n)*(>.*(?:\n>.*)*)/y;
+const BOOK_FIRST = new RegExp(`^(?:${BOOK_ALT})(?![\\p{L}])`, "iu");
 export function quoted(md, end, ref) {
   QUOTE.lastIndex = end;
-  const [, quote, first] = QUOTE.exec(md) ?? [];
-  if (!quote) return ref;
-  let last = 0;
-  for (const [, n] of quote.matchAll(VERSE_NOS)) {
-    if (Number(n) <= last) break;
-    last = Number(n);
+  const quote = QUOTE.exec(md)?.[1].replace(/\\\*/g, "*");
+  const runs = [...(quote ?? "").matchAll(/\*\*([^*]+)\*\*/g)];
+  const verse = ([, run]) => !BOOK_FIRST.test(run.trim()) && Number(run.trim().match(/^(\d{1,3})\.?(?:\s|$)/)?.[1]);
+  if (!runs.length || !/^>[^\S\n]*$/.test(quote.slice(0, runs[0].index)) || !verse(runs[0])) return ref;
+  const first = verse(runs[0]);
+  let last = first;
+  for (const n of runs.slice(1).map(verse).filter(Boolean)) {
+    if (n <= last) break;
+    last = n;
   }
   const [, book, chapter] = ref.match(/^(.+) (\d+)$/);
   if (!isPossible(book, chapter, [first, last])) return ref;
-  return renderRef({ book, chapter, verseStart: first, verseEnd: last > Number(first) ? last : null });
+  return renderRef({ book, chapter, verseStart: first, verseEnd: last > first ? last : null });
 }
 
 /**
