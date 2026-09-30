@@ -50,7 +50,7 @@ Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well
 
 | Script                          | Languages          | Output                                   |
 | ------------------------------- | ------------------ | ---------------------------------------- |
-| `65-normalize-bible.mjs`        | French — LSG style | records refs as `Matthieu 24:6`, spoken ones ("Luc chapitre 18 verset 9", "le chapitre 24 de Matthieu") included; every French source, `mevar-pdfs` included; not `branham/` |
+| `65-normalize-bible.mjs`        | French — LSG style | records refs as `Matthieu 24:6`, spoken ones ("Luc chapitre 18 verset 9", "le chapitre 24 de Matthieu") included, and "Matthieu 13 :" before a quote whose first verse number is bold as the quote's verses; every French source, `mevar-pdfs` included; not `branham/` |
 | `65b-restore-branham-from-source.mjs` | English | puts the branham.org wording back where old runs rewrote it |
 | `65c-restore-french-citations.mjs` | French | puts the Ghost (`mevar`) and le-scribe.org PDF (`le-scribe`) wording of a citation back where old runs of 65 wrote it canonical |
 | `65d-strip-branham-furniture.mjs` | English | takes the booklets' page headers ("18 THE SPOKEN WORD", "AN EXODUS 19") out of the text, where the PDF confirms each one |
