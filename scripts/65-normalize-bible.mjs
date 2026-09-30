@@ -61,6 +61,7 @@ const BOOK_ALT = variantsSorted.map(escRe).join("|");
 // Allow optional trailing period and optional spaces before chapter number.
 // Chapter:verse separator can be `:`, `,`, or `.` (with optional surrounding space).
 // Verse range can use `-` or `–` or `–`.
+const VERSE_ITEM = "\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?!\\s*:\\s*\\d)";
 const REF_RE = new RegExp(
   // word boundary or paren / opening punct
   "(?<![\\p{L}])" +
@@ -76,7 +77,9 @@ const REF_RE = new RegExp(
   // "Jean 17:22-26 : « … »" with a space before the colon.
   // So "Hébreux 8:13-13:8" does not read "13" as the end of a range.
   "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +  // optional verse end (group 4)
-  "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" + // additional verse list (group 5)
+  // additional verse list (group 5), no item a new chapter:verse either:
+  // "Mat. 3:7; 12:34" is Matthieu 3:7, not 3:7,12
+  "(?:\\s*[,;]\\s*(" + VERSE_ITEM + "(?:\\s*[,;]\\s*" + VERSE_ITEM + ")*))?" +
   ")?" +
   "(?![\\d])",                            // not followed by another digit (avoids 24:55 partial match in 24:555)
   "giu",
