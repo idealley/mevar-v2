@@ -16,16 +16,10 @@ tags:
   - "orgueil"
   - "service"
 published_with: "mevar/sois-un-modele-2009"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 bible_refs:
   - "Philippiens 2"
 ---
-**Le manteau de l’humilité**
-
-**Prêché le mercredi 30 septembre 2009**
-
-**à Kinshasa par le frère M’BRA Parfait**
-
 Amen ! Moi je n’aime pas que Pascal prêche à moitié, ça me gêne. Il faut qu’on trouve assez de temps pour qu’il vous parle de la part de Dieu. Amen ! On se laisse conduire. Et j’espère que vous avez compris cette Parole. Amen ! Est-ce que vous avez bien compris le fond de la chose ? Parce qu’il faut qu’on se laisse corriger. Moi j’ai vécu cette expérience avant. Quand le Seigneur a commencé à se révéler à moi, il y a des choses sur lesquelles je n’étais pas d’accord. **Parce que dans le Message, on a reçu beaucoup d’enseignements et beaucoup d’influences**. Il y a des choses qu’on a défendues qui n’étaient pas vraies, mais on a défendu cela quand même. Quand Dieu a commencé à balayer cela de mon esprit, j’ai commencé à dire que je n’étais pas d’accord. Il y a des questions que je laissais en suspens pendant des mois, mais l’Esprit me ramenait là. Je regardais, je me disais : ça, vraiment je ne suis pas d’accord. Le frère Frank a dit ça, le frère Branham a dit ça, moi, je ne suis pas d’accord. Je laisse même un mois, je reviens là-dessus parce qu’il a sa place. **Quand la chose ne concordait pas avec ce que frère Branham et frère Frank ont dit, je n’étais pas d’accord**…
 
 **On a souffert de cela parce que quand de fausses connaissances ou des fausses conceptions sont entrées en toi et que c’est emmagasiné, après pour corriger, c’est difficile**. C’est pour cela qu’il y a des frères qui n’arrivent pas à accepter certaines choses. Ils ne peuvent pas comprendre que ça ne soit pas vrai, parce depuis toujours, ils ont cru que c’est vrai ! Donc ils ne peuvent plus comprendre que ça ne soit plus vrai. Amen ! Ça n’a jamais été vrai, mais on a toujours cru que c’était vrai. Alors on ne peut plus comprendre que ça ne soit pas vrai.

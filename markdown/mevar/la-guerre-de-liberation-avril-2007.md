@@ -16,17 +16,13 @@ tags:
   - "libération"
   - "apostasie"
 published_with: "mevar/la-guerre-de-liberation-mai-2007"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 bible_refs:
   - "2 Thessaloniciens 2"
   - "Exode 32"
   - "2 Corinthiens 6"
   - "Apocalypse 22:15"
 ---
-**LA GUERRE DE LIBÉRATION**
-
-**Prêché à Koumassi le dimanche 22 avril 2007**
-
 Que Dieu soit béni ! Nous lisons dans 2 Thessaloniciens 2 à partir du premier verset.
 
 > Pour ce qui concerne **l’avènement de notre Seigneur Jésus Christ et notre réunion avec lui**, nous vous prions, frères, de ne pas vous laisser facilement ébranler dans votre bon sens, et de ne pas vous **laisser troubler, soit par quelque inspiration, soit par quelque parole, ou par quelque lettre qu’on dirait venir de nous, comme si le jour du Seigneur était déjà là**. **Que personne ne vous séduise d’aucune manière ; car il faut que l’apostasie soit arrivée auparavant**, et qu’on ait **vu paraître l’homme du péché, le fils de la perdition, L’adversaire qui s’élève au-dessus de tout ce qu’on appelle Dieu ou de ce qu’on adore, jusqu’à s’asseoir dans le temple de Dieu, se proclamant lui-même Dieu**. Ne vous souvenez-vous pas que je vous disais ces choses, lorsque j’étais encore chez vous ?

@@ -6785,7 +6785,7 @@
         {
           "id": "onedrive/exhomai2007-la-guerre-de-liberation",
           "title": "La guerre de libération",
-          "shingles": 6258,
+          "shingles": 6246,
           "ocr_tokens": 0
         },
         {
@@ -6802,7 +6802,7 @@
           "band": "same_text",
           "decision": null,
           "in_a": 0.906,
-          "in_b": 0.904,
+          "in_b": 0.902,
           "title": 1
         }
       ]
