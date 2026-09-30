@@ -461,7 +461,7 @@ Les jeûnes collectifs sont intervenus dans la vie communautaire des Israélites
 
 Dans ce cadre, je voudrais mentionner l’initiative de quelques conducteurs d’Israël qui conduisirent le peuple de Dieu dans des moments de jeûne, lesquels moments leur furent en grande bénédiction.
 
-### L’initiative de Josaphat
+**L’initiative de Josaphat**
 
 Le roi Josaphat proclama un jeûne dans 2 Chroniques 20, sous la menace de ses ennemis.
 
@@ -475,13 +475,13 @@ Après les moments de jeûne et d’humiliation, les enfants d’Israël furent 
 
 Josaphat et son peuple n’avaient pas jeûné en vain, et ils furent exaucés. Dieu mit en déroute leurs ennemis qui s’entretuèrent. Après l’exaucement à leurs prières, ils louèrent Dieu par des chants et des cantiques. **Lorsque la vie de la communauté est menacée par une situation quelconque**, les pasteurs du peuple ne doivent pas croiser les bras, **mais doivent le conduire dans le jeûne et la prière** comme le fit Josaphat. Le peuple de Dieu doit apprendre à rechercher la face de Dieu dans les jeûnes et les prières lorsque cela s’avère nécessaire. Cela doit d’abord être l’affaire des pasteurs qui sont placés à la tête des communautés. Josaphat était un bon pasteur pour Israël, **c’est pour cette raison qu’il consulta Dieu**. En cela le peuple a besoin d’avoir de bons pasteurs pour vivre de telles expériences.
 
-### L’initiative d’Esdras
+**L’initiative d’Esdras**
 
 > « Là, près du fleuve d’Ahava, je publiai un jeûne d’humiliation devant notre Dieu, **afin d’implorer de lui un heureux voyage pour nous, pour nos enfants**, et pour tout ce qui nous appartenait. J’aurais eu honte de demander au roi une escorte et des cavaliers pour nous protéger contre l’ennemi pendant la route, car nous avions dit au roi : La main de notre Dieu est pour leur bien **sur tous ceux qui le cherchent**, mais sa force et sa colère sont sur tous ceux qui l’abandonnent. **C’est à cause de cela** que nous jeûnâmes et que nous invoquâmes notre Dieu. **Et il nous exauça** » (Esd. 8.21-23).
 
 Esdras devait conduire le peuple de Dieu de Babylone à Jérusalem. Ce voyage **était dangereux et il le savait**. C’est pourquoi **il publia un jeûne d’humiliation dans le peuple** pour rechercher la face du Seigneur afin qu’Il les garde durant leur voyage. Dieu exauça leurs prières en préservant leur vie et leurs affaires pendant leur voyage. Ils arrivèrent à Jérusalem sains et saufs.
 
-### L’initiative d’Esther
+**L’initiative d’Esther**
 
 Pendant leur séjour en déportation en Babylone, les Juifs furent menacés de génocide par les manigances d’Haman, l’un des princes du royaume du roi Assuérus. Lorsque la reine Esther eut connaissance de cette situation, **elle fit proclamer un jeûne dans le milieu des Juifs** en vue de préparer sa rencontre de plaidoyer devant le roi Assuérus :
 
@@ -503,13 +503,13 @@ Une communauté **qui recommande son sort à l’Éternel dans le jeûne et la p
 
 ### Jeûne collectif de repentance
 
-### Ninive
+**Ninive**
 
 > La parole de l’Éternel fut adressée à Jonas une seconde fois, en ces mots : Lève-toi, va à Ninive, la grande ville, et proclames-y la publication que je t’ordonne ! Et Jonas se leva, et alla à Ninive, selon la parole de l’Éternel. Or Ninive était une très grande ville, de trois jours de marche. Jonas fit d’abord dans la ville une journée de marche ; il criait et disait : **Encore quarante jours, et Ninive est détruite ! Les gens de Ninive crurent à Dieu, ils publièrent un jeûne, et se revêtirent de sacs, depuis les plus grands jusqu’aux plus petits**. La chose parvint au roi de Ninive ; il se leva de son trône, ôta son manteau, **se couvrit d’un sac, et s’assit sur la cendre**. Et il fit faire dans Ninive cette publication, par ordre du roi et de ses grands : **Que les hommes et les bêtes, les bœufs et les brebis, ne goûtent de rien, ne paissent point, et ne boivent point d’eau** ! Que les hommes et les bêtes soient couverts de sacs, qu’ils crient à Dieu avec force, et **qu’ils reviennent tous de leur mauvaise voie et des actes de violence dont leurs mains sont coupables** ! Qui **sait si Dieu ne reviendra pas et ne se repentira pas**, et **s’il ne renoncera pas à son ardente colère, en sorte que nous ne périssions point** ? Dieu vit qu’ils agissaient ainsi et qu’ils revenaient de leur mauvaise voie. Alors Dieu se repentit du mal qu’il avait résolu de leur faire, et il ne le fit pas (Jonas 3.1-10).
 
 Les hommes de Ninive avaient péché contre Dieu et méritaient la mort. En conséquence, Dieu avait décidé de détruire toute la ville. **Comme Dieu ne fait rien sans avoir averti auparavant**, Il envoya Jonas le prophète pour avertir la ville par la prédication. Les hommes de Ninive **écoutèrent la Parole de Jonas et entrèrent dans la repentance par le jeûne et les supplications**. Le roi prit le sac et la cendre avec tout le peuple et les animaux – tous furent privés d’eau et de nourriture. Alors ils obtinrent miséricorde. Dieu regretta le mal qu’Il avait résolu de faire à Ninive. Lorsque **l’état spirituel** d’une communauté **se dégrade dans le péché**, ses pasteurs sont autorisés à la conduire dans le jeûne et la prière pour implorer la grâce de Dieu en vue du pardon.
 
-### L’initiative de Néhémie
+**L’initiative de Néhémie**
 
 > Le vingt-quatrième jour du même mois, les enfants d’Israël s’assemblèrent, **revêtus de sacs et couverts de poussière, pour la célébration d’un jeûne**. Ceux qui étaient de la race d’Israël, s’étant séparés de tous les étrangers, se présentèrent et **confessèrent leurs péchés et les iniquités de leurs pères** (Néh. 9.1-3).
 

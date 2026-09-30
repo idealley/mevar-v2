@@ -297,7 +297,7 @@ Dans la Bible, c’est l’assemblée qui sanctionne ses membres. Mais la commun
 
 ### Quatrième étape
 
-### Les sanctions
+**Les sanctions**
 
 Dans les sanctions, le Seigneur préconise deux cas. Dans le premier il faut considérer le frère comme un païen et un publicain. Dans le deuxième cas, il s’agit de la livraison à Satan.
 
