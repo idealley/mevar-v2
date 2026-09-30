@@ -16,7 +16,8 @@ export const before2 = (text, at, norm) => norm(text.slice(Math.max(0, at - 300)
 export const after3 = (text, at, norm) => norm(text.slice(at, at + 300)).trimStart().split(" ").slice(0, 3).join(" ");
 
 // ─── French (Segond names) ───────────────────────────────────────────────────
-// Matched case- and diacritic-insensitively (65's normForMatch).
+// 65 matches them in any case, accents as written (so « Ezé » and « Ézé »
+// are two aliases); its lookup (normForMatch) then ignores both.
 // Goal 20 added the spellings the Mevar texts use and 65 missed (« Mathieu »,
 // « Hébr », « 1 Pier »): measured, each a citation where it is followed by
 // a chapter. « Pier », « Pie » and « Pi » only after the book's number.
