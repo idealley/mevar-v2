@@ -194,7 +194,7 @@ const LISTS = ["tags", "persons", "places", "themes"];
 const yamlList = (k, v) => `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}`;
 
 // Words a transcript's header has besides the frontmatter's
-const HEADER_WORDS = "prêché prêchée prêchés prédication exhortation spéciale mois fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur past assemblée lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
+const HEADER_WORDS = "prêché prêchée prêchés prédication exhortation spéciale mois fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur past lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
 
 const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive.json"), "utf8"));
 const db = await connect();
@@ -357,10 +357,11 @@ for (const md of batch) {
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const inHeader = new Set(words(header).map((x) => key(x.w)));
   const holds = (t) => words(t).length > 0 && words(t).every((x) => inHeader.has(key(x.w)));
-  // a letter the PDF printed twice in a name (« M’BBRA ») is still that name
+  // a letter the PDF printed twice in a header word (« M’BBRA ») is still
+  // the frontmatter's word; only the header's side is collapsed, so a word
+  // missing a letter (« guère ») never passes for one (« guerre »)
   const single = (w) => w.replace(/(\p{L})\1/gu, "$1");
-  const ownSingle = new Set([...own].map(single));
-  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || ownSingle.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w))
+  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || own.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w))
     && [oldTitle, oldSubtitle, r.title, r.subtitle].some(holds);
   r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
   if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
