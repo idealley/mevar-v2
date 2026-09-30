@@ -22,7 +22,8 @@
 //     page Retour Page d'accueil" bar or its "Haut de page" alone, and a digit between two letters where
 //     that digit does so five times or more (a glyph for "…");
 //   - the document's header removed, listed: the original's words before
-//     those the body opens with, within the first 80, holding the title;
+//     those the body opens with, within the first 80, holding the title
+//     (and a split's second work's, below);
 //   - a reading inserted where the pass put a marker: a blockquote "> **1**…
 //     (Réf)", which must equal the Segond verses in SurrealDB, for a
 //     reference cited with its verses both in the original and in the
@@ -351,9 +352,12 @@ for (const md of batch) {
 
   const ow = words(compared);
   const k = ow.slice(0, 80).findIndex((_, i) => after.slice(0, 8).filter((x, j) => fold(x.w) === fold(ow[i + j]?.w ?? "")).length >= 6);
-  const [y, mo, d] = field("date").split("-");
-  const own = new Set([oldTitle, oldSubtitle, r.title, r.subtitle, field("location"), field("preacher"),
-    `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t).map((x) => key(x.w))));
+  // a header's words: the frontmatter's, the date's, and a header's own
+  const ownWords = (texts, date = "") => {
+    const [y, mo, d] = date.split("-");
+    return new Set([...texts, `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t ?? "").map((x) => key(x.w))));
+  };
+  const own = ownWords([oldTitle, oldSubtitle, r.title, r.subtitle, field("location"), field("preacher")], field("date"));
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const inHeader = new Set(words(header).map((x) => key(x.w)));
   const holds = (t) => words(t).length > 0 && words(t).every((x) => inHeader.has(key(x.w)));
@@ -472,6 +476,22 @@ for (const md of batch) {
     : [edited.slice(0, split).trimEnd(), edited.slice(split)];
   const splitFrom = split > 0 ? `${path.dirname(md)}/${edits.split.frontmatter.sermon_id}.md` : null;
   r.split = splitFrom && located(splitFrom);
+  // Goal 20: the second work opens with its own header just as well
+  // (« **LA GUERRE DE LIBÉRATION** », « **Prêché à Koumassi le dimanche 22
+  // avril 2007** »): its opening paragraphs whose every word is its
+  // frontmatter's or a header's own, if they hold its whole title or
+  // subtitle, leave its body; listed. The check above compared them.
+  r.removedSecond = "";
+  if (r.split) {
+    const s = edits.split.frontmatter;
+    const second = ownWords([s.title, s.subtitle, s.location, s.preacher], s.date);
+    const end = [...parts[1].matchAll(/[^\n]+(?:\n[^\n]+)*/g)].find((p) => !words(p[0]).every((x) => second.has(key(x.w)))).index;
+    const inHead = new Set(words(parts[1].slice(0, end)).map((x) => key(x.w)));
+    if ([s.title, s.subtitle].some((t) => t && words(t).every((x) => inHead.has(key(x.w))))) {
+      r.removedSecond = parts[1].slice(0, end).replace(/\*\*/g, "").replace(/\s+/g, " ").trim();
+      parts[1] = parts[1].slice(end);
+    }
+  }
   const bodyOf = (t) => t.slice(t.indexOf("\n---\n") + 5);
 
   const promoted = /^editorial_pass:/m.test(fm);
@@ -537,6 +557,7 @@ L.push("", "## Bold on a list's number, which markdown cannot carry", "");
 for (const r of rows) for (const b of r.listBold) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(b)}`);
 L.push("", "## Headers removed (the frontmatter holds title, date, place)", "");
 for (const r of rows) for (const h of r.removed) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(h)}`);
+for (const r of rows) if (r.removedSecond) L.push(`- \`${fixes[r.md].split.frontmatter.sermon_id}\` (split): ${cell(r.removedSecond)}`);
 L.push("", "## Sentences the pass left as they are (unclear)", "");
 for (const r of rows) for (const u of r.pass.unclear) L.push(`- \`${path.basename(r.md, ".md")}\`: ${cell(u)}${r.unclearFixed.has(u) ? " (since fixed by the editor)" : ""}`);
 if (rows.some((r) => fixes[r.md]?.summary || fixes[r.md]?.split?.frontmatter.summary)) {
