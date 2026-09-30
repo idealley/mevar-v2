@@ -166572,7 +166572,7 @@
   {
     "source": "onedrive",
     "sermon_id": "impudiciteetadulterespdf",
-    "title": "IMPUDICITE ET ADULTERE",
+    "title": "Impudicité et adultère",
     "subtitle": "Exhortation du Mois de Novembre 2006",
     "date": "2006-11-01",
     "year": 2006,
@@ -166628,9 +166628,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/impudiciteetadulterespdf.md",
-    "size_bytes": 57937,
-    "line_count": 301
+    "local_md": "markdown/mevar/impudicite-et-adultere-2006.md",
+    "size_bytes": 59272,
+    "line_count": 413
   },
   {
     "source": "onedrive",
@@ -167561,7 +167561,7 @@
   {
     "source": "onedrive",
     "sermon_id": "heritage",
-    "title": "L'héritage d'Elisée",
+    "title": "L’héritage d’Élisée",
     "subtitle": null,
     "date": "2007-01-21",
     "year": 2007,
@@ -167615,9 +167615,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/heritage.md",
-    "size_bytes": 34106,
-    "line_count": 111
+    "local_md": "markdown/mevar/l-heritage-d-elisee-2007.md",
+    "size_bytes": 35802,
+    "line_count": 117
   },
   {
     "source": "onedrive",
@@ -168863,7 +168863,7 @@
   {
     "source": "onedrive",
     "sermon_id": "je_te_vomirai",
-    "title": "JE TE VOMIRAI DE MA BOUCHE",
+    "title": "Je te vomirai de ma bouche",
     "subtitle": null,
     "date": "2007-10-25",
     "year": 2007,
@@ -168918,9 +168918,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/je_te_vomirai.md",
-    "size_bytes": 50134,
-    "line_count": 112
+    "local_md": "markdown/mevar/je-te-vomirai-de-ma-bouche-2007.md",
+    "size_bytes": 50946,
+    "line_count": 146
   },
   {
     "source": "onedrive",
@@ -170628,9 +170628,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/glorieusepentecote.md",
-    "size_bytes": 31451,
-    "line_count": 134
+    "local_md": "markdown/mevar/glorieuse-pentecote-2009.md",
+    "size_bytes": 31880,
+    "line_count": 135
   },
   {
     "source": "onedrive",
@@ -172916,8 +172916,8 @@
   {
     "source": "onedrive",
     "sermon_id": "fev2010",
-    "title": "LE JARDIN DE L'EPOUX",
-    "subtitle": "Exhortation de Février 2010",
+    "title": "Le jardin de l’Époux",
+    "subtitle": "Exhortation de février 2010",
     "date": "2010-02-01",
     "year": 2010,
     "location": null,
@@ -172958,9 +172958,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/fev2010.md",
-    "size_bytes": 12293,
-    "line_count": 81
+    "local_md": "markdown/mevar/le-jardin-de-l-epoux-2010.md",
+    "size_bytes": 12703,
+    "line_count": 87
   },
   {
     "source": "onedrive",
@@ -174188,7 +174188,7 @@
   {
     "source": "onedrive",
     "sermon_id": "faites",
-    "title": "Faites-vous un cœur nouveau et un esprit nouveau, pourquoi mourriez-vous maison d'Israël ?",
+    "title": "Faites-vous un cœur nouveau et un esprit nouveau, pourquoi mourriez-vous, maison d’Israël ?",
     "subtitle": "Exhortation d'Octobre 2010",
     "date": "2010-10-23",
     "year": 2010,
@@ -174235,9 +174235,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/faites.md",
-    "size_bytes": 31225,
-    "line_count": 134
+    "local_md": "markdown/mevar/faites-vous-un-coeur-nouveau-et-un-esprit-nouveau-pourquoi-mourriez-vous-maison-d-israel-2010.md",
+    "size_bytes": 31494,
+    "line_count": 191
   },
   {
     "source": "onedrive",
@@ -174968,8 +174968,8 @@
   {
     "source": "onedrive",
     "sermon_id": "exo_mai2011_pdf",
-    "title": "IL FAUT QUE TU RENDES TEMOIGNAGE DANS ROME",
-    "subtitle": "Exhortation Fin Mai 2011",
+    "title": "Il faut que tu rendes témoignage dans Rome",
+    "subtitle": "Exhortation fin mai 2011",
     "date": "2011-05-01",
     "year": 2011,
     "location": null,
@@ -175041,9 +175041,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_mai2011_pdf.md",
-    "size_bytes": 57194,
-    "line_count": 268
+    "local_md": "markdown/mevar/il-faut-que-tu-rendes-temoignage-dans-rome-2011.md",
+    "size_bytes": 58024,
+    "line_count": 279
   },
   {
     "source": "onedrive",
@@ -175110,8 +175110,8 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_juin_2011.md",
-    "size_bytes": 67205,
+    "local_md": "markdown/mevar/les-ouvriers-de-la-onzieme-heure-2011.md",
+    "size_bytes": 68167,
     "line_count": 366
   },
   {
@@ -175308,8 +175308,8 @@
   {
     "source": "onedrive",
     "sermon_id": "exo_mi_juillet_2011",
-    "title": "LES PLEURS ET LES GRINCEMENTS DE DENTS",
-    "subtitle": "Exhortation de Juillet 2011",
+    "title": "Les pleurs et les grincements de dents",
+    "subtitle": "Exhortation mi-juillet 2011",
     "date": "2011-07-15",
     "year": 2011,
     "location": null,
@@ -175368,9 +175368,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_mi_juillet_2011.md",
-    "size_bytes": 46307,
-    "line_count": 274
+    "local_md": "markdown/mevar/les-pleurs-et-les-grincements-de-dents-2011.md",
+    "size_bytes": 46477,
+    "line_count": 278
   },
   {
     "source": "onedrive",
@@ -175558,9 +175558,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/jesuschef.md",
-    "size_bytes": 51474,
-    "line_count": 170
+    "local_md": "markdown/mevar/jesus-christ-le-chef-2011.md",
+    "size_bytes": 52660,
+    "line_count": 188
   },
   {
     "source": "onedrive",
@@ -176136,8 +176136,8 @@
   {
     "source": "onedrive",
     "sermon_id": "exo_mars12",
-    "title": "JESUS-CHRIST – LE BON SAMARITAIN",
-    "subtitle": "Exhortation de Mars 2012",
+    "title": "Jésus-Christ – le bon Samaritain",
+    "subtitle": "Exhortation fin mars 2012",
     "date": "2012-03-01",
     "year": 2012,
     "location": null,
@@ -176191,9 +176191,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_mars12.md",
-    "size_bytes": 41755,
-    "line_count": 167
+    "local_md": "markdown/mevar/jesus-christ-le-bon-samaritain-2012.md",
+    "size_bytes": 42579,
+    "line_count": 211
   },
   {
     "source": "onedrive",
@@ -176500,15 +176500,15 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_mai_2012.md",
-    "size_bytes": 33220,
-    "line_count": 176
+    "local_md": "markdown/mevar/des-hommes-et-des-actes-de-foi-2012.md",
+    "size_bytes": 33680,
+    "line_count": 188
   },
   {
     "source": "onedrive",
     "sermon_id": "harmonie_dans_le_champpff",
-    "title": "L'HARMONIE DANS LE CHAMP",
-    "subtitle": "Exhortation de Mai 2012",
+    "title": "L’harmonie dans le champ",
+    "subtitle": "Exhortation spéciale de mai 2012",
     "date": "2012-05-01",
     "year": 2012,
     "location": "Koumassi",
@@ -176575,9 +176575,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/harmonie_dans_le_champpff.md",
-    "size_bytes": 32306,
-    "line_count": 178
+    "local_md": "markdown/mevar/l-harmonie-dans-le-champ-2012.md",
+    "size_bytes": 33664,
+    "line_count": 197
   },
   {
     "source": "onedrive",
@@ -176776,8 +176776,8 @@
   {
     "source": "onedrive",
     "sermon_id": "exo_juillet2012",
-    "title": "Le Manger et le Boire – Le Dieu du Ventre",
-    "subtitle": "Exhortation de Juillet 2012",
+    "title": "Le manger et le boire – le dieu du ventre",
+    "subtitle": "Exhortation fin juillet 2012",
     "date": "2012-07-01",
     "year": 2012,
     "location": null,
@@ -176825,9 +176825,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_juillet2012.md",
-    "size_bytes": 32851,
-    "line_count": 159
+    "local_md": "markdown/mevar/le-manger-et-le-boire-le-dieu-du-ventre-2012.md",
+    "size_bytes": 33239,
+    "line_count": 183
   },
   {
     "source": "onedrive",
@@ -177764,7 +177764,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exo_avril_2013",
-    "title": "LA PARABOLE DES DEUX FILS",
+    "title": "La parabole des deux fils",
     "subtitle": "Exhortation d'Avril 2013",
     "date": "2013-04-01",
     "year": 2013,
@@ -177828,9 +177828,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_avril_2013.md",
-    "size_bytes": 40739,
-    "line_count": 221
+    "local_md": "markdown/mevar/la-parabole-des-deux-fils-2013.md",
+    "size_bytes": 42159,
+    "line_count": 253
   },
   {
     "source": "onedrive",
@@ -177893,7 +177893,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exo_de_ juin_2013",
-    "title": "LE TEMPS DE LA RESTITUTION",
+    "title": "Le temps de la restitution",
     "subtitle": "Exhortation de Juin 2013",
     "date": "2013-06-01",
     "year": 2013,
@@ -177943,9 +177943,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_de_ juin_2013.md",
-    "size_bytes": 27174,
-    "line_count": 124
+    "local_md": "markdown/mevar/le-temps-de-la-restitution-2013.md",
+    "size_bytes": 27908,
+    "line_count": 166
   },
   {
     "source": "onedrive",
@@ -179770,7 +179770,7 @@
   {
     "source": "onedrive",
     "sermon_id": "exo_Juin_2014_1",
-    "title": "LA POSITION DU JUSTE DANS LA PRIERE EFFICACE",
+    "title": "La position du juste dans la prière efficace",
     "subtitle": "Exhortation de Juin 2014",
     "date": "2014-06-01",
     "year": 2014,
@@ -179821,9 +179821,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/exo_Juin_2014_1.md",
-    "size_bytes": 21099,
-    "line_count": 135
+    "local_md": "markdown/mevar/la-position-du-juste-dans-la-priere-efficace-2014.md",
+    "size_bytes": 21469,
+    "line_count": 130
   },
   {
     "source": "onedrive",
@@ -185824,7 +185824,7 @@
   {
     "source": "onedrive",
     "sermon_id": "hommesage",
-    "title": "L'HOMME SAGE SE PREPARE",
+    "title": "L’homme sage se prépare",
     "subtitle": null,
     "date": null,
     "year": null,
@@ -185872,14 +185872,14 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/hommesage.md",
-    "size_bytes": 32232,
-    "line_count": 133
+    "local_md": "markdown/mevar/l-homme-sage-se-prepare.md",
+    "size_bytes": 32667,
+    "line_count": 176
   },
   {
     "source": "onedrive",
     "sermon_id": "huitieme_messager",
-    "title": "Mise au Point sur la Question du Huitième Messager",
+    "title": "Mise au point sur la question du huitième messager",
     "subtitle": null,
     "date": null,
     "year": null,
@@ -185940,14 +185940,14 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/huitieme_messager.md",
-    "size_bytes": 85637,
-    "line_count": 455
+    "local_md": "markdown/mevar/mise-au-point-sur-la-question-du-huitieme-messager.md",
+    "size_bytes": 87706,
+    "line_count": 435
   },
   {
     "source": "onedrive",
     "sermon_id": "infaillibilite",
-    "title": "L'Infaillibilité du Serviteur Fidèle et Prudent",
+    "title": "L’infaillibilité du serviteur fidèle et prudent – introduction",
     "subtitle": null,
     "date": null,
     "year": null,
@@ -185969,7 +185969,51 @@
     "authors": null,
     "type": null,
     "status": null,
-    "summary": "L'auteur met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule.",
+    "summary": "Le frère M'bra présente l'exposé d'un frère resté anonyme sur l'infaillibilité du serviteur fidèle et prudent. Il exhorte à se garder de l'idolâtrie (1 Jean 5:20-21) : aucun serviteur de Dieu n'est infaillible, pas même frère Frank ; il faut croire sainement dans les Ministères que Dieu envoie, sans fanatisme.",
+    "persons": [
+      "William Branham",
+      "Frank",
+      "Jean"
+    ],
+    "places": [],
+    "themes": [
+      "Infaillibilité des serviteurs de Dieu",
+      "Idolâtrie et fanatisme"
+    ],
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": true,
+    "original": null,
+    "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent-introduction.md",
+    "size_bytes": 7706,
+    "line_count": 54
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "infaillibilite-l-infaillibilite-du-serviteur-fidele-et-prudent",
+    "title": "L’infaillibilité du serviteur fidèle et prudent",
+    "subtitle": "Exposé d’un frère en Christ Jésus, présenté par le frère M’bra",
+    "date": null,
+    "year": null,
+    "location": null,
+    "preacher": null,
+    "duration": null,
+    "source_url": null,
+    "pdf_url": null,
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": [
+      "Exhortations",
+      "2014",
+      "Infaillibilité",
+      "Idolâtrie",
+      "Serviteur fidèle et prudent"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "L'auteur, un frère resté anonyme, met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule.",
     "persons": [
       "William Branham",
       "Frank",
@@ -186000,11 +186044,11 @@
     ],
     "feature_image": null,
     "local_image": null,
-    "llm_cleaned": true,
+    "llm_cleaned": false,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/infaillibilite.md",
-    "size_bytes": 82728,
-    "line_count": 421
+    "local_md": "markdown/mevar/l-infaillibilite-du-serviteur-fidele-et-prudent.md",
+    "size_bytes": 77824,
+    "line_count": 374
   },
   {
     "source": "onedrive",
