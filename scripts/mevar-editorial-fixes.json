@@ -7872,9 +7872,9 @@
       },
       {
         "find": "En voici les termes : « qu’on détruise, qu’on tue et qu’on fasse périr tous les Juifs, jeunes et vieux, petits-enfants et femmes… et pour que leurs biens soient livrés au pillage ». Esther 3 :13.",
-        "replace": "En voici les termes :\n\n> Qu’on détruise, qu’on tue et qu’on fasse périr tous les Juifs, jeunes et vieux, petits-enfants et femmes… et pour que leurs biens soient livrés au pillage. Esther 3 :13.",
+        "replace": "En voici les termes :\n\n> Qu’on détruise, qu’on tue et qu’on fasse périr tous les Juifs, jeunes et vieux, petits enfants et femmes… et pour que leurs biens soient livrés au pillage. Esther 3 :13.",
         "kind": "markup",
-        "why": "the decree he reads, reference at the end as he gives it: its own quote paragraph"
+        "why": "the decree he reads, reference at the end as he gives it: its own quote paragraph; « petits enfants » (children), as Esther 3:13 in the Segond database, not « petits-enfants »"
       },
       {
         "find": "(Ezéchiel 18 :4)",
@@ -8966,6 +8966,12 @@
         "replace": "Ils étaient trop jeunes et avaient affaire à des adultes",
         "kind": "word",
         "why": "« à faire à » for « affaire à », a transcriber's slip"
+      },
+      {
+        "find": "**BARNABAS ET PAUL**\n\n**PAUL ET TIMOTHÉE**",
+        "replace": "**BARNABAS ET PAUL – PAUL ET TIMOTHÉE**",
+        "kind": "markup",
+        "why": "one section title the PDF prints on two lines (« …à travers ces trois personnages » follows)"
       }
     ],
     "subtitle": "Traité"
