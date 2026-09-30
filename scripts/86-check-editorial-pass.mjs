@@ -357,11 +357,12 @@ for (const md of batch) {
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const inHeader = new Set(words(header).map((x) => key(x.w)));
   const holds = (t) => words(t).length > 0 && words(t).every((x) => inHeader.has(key(x.w)));
-  // a letter the PDF printed twice in a header word (« M’BBRA ») is still
-  // the frontmatter's word; only the header's side is collapsed, so a word
-  // missing a letter (« guère ») never passes for one (« guerre »)
+  // a letter the PDF printed twice in the preacher's name (« M’BBRA ») is
+  // still his name; only his name, and only the header's side is collapsed,
+  // so no word passes for another (« guerre » for « guère »)
   const single = (w) => w.replace(/(\p{L})\1/gu, "$1");
-  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || own.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w))
+  const name = new Set(words(field("preacher") ?? "").map((x) => key(x.w)));
+  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || name.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w))
     && [oldTitle, oldSubtitle, r.title, r.subtitle].some(holds);
   r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
   if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
