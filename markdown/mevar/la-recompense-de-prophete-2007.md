@@ -25,7 +25,7 @@ persons:
   - "Achab"
   - "Jézabel"
   - "Josaphat"
-  - "Nahaman"
+  - "Naaman"
   - "Jésus-Christ"
 places:
   - "Lagos"
