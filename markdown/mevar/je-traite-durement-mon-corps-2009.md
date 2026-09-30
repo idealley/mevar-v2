@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhortationdefinMars2009.md"
 sermon_id: "exhortationdefinMars2009"
 title: "Je traite durement mon corps"
-subtitle: "Exhortation de mars 2009"
+subtitle: "Exhortation de fin mars 2009"
 date: "2009-03-01"
 year: 2009
 preacher: "Parfait M'bra"
@@ -30,7 +30,7 @@ bible_refs:
   - "1 Corinthiens 9:26-27"
   - "Romains 8:13"
   - "2 Corinthiens 11"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-30"
 ---
 Mes chers frères et sœurs, je voudrais vous saluer par cette déclaration de l’apôtre Paul tirée du livre des Corinthiens :
 

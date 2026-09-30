@@ -37,6 +37,7 @@ bible_refs:
   - "Éphésiens 2:1-8"
   - "Éphésiens 2:13-18"
   - "Matthieu 5"
+  - "Matthieu 5:9"
   - "Matthieu 10"
   - "Luc 18"
 series_id: "le-fruit-de-lesprit-lamour"

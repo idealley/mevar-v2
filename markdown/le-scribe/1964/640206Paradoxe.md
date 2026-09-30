@@ -41,6 +41,7 @@ pdf_url: "http://le-scribe.org/pdfiles/640206Paradoxe.pdf"
 llm_cleaned: true
 bible_refs:
   - "Actes 26:19"
+  - "Matthieu 10:25"
   - "Jean 5:39"
   - "Apocalypse 17:5"
   - "Actes 2:38-39"
@@ -61,8 +62,9 @@ bible_refs:
   - "1 Rois 22:14"
   - "Amos 3:7"
   - "1 Rois 21:21-24"
-  - "Ésaïe 7:14,9"
+  - "Ésaïe 7:14"
   - "Jean 6:53"
+  - "Matthieu 25:40"
   - "Luc 2:49"
 original: "branham/1964/64-0206B"
 ---

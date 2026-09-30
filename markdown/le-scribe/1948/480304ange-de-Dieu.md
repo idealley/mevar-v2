@@ -56,6 +56,7 @@ bible_refs:
   - "Marc 10:38"
   - "Jean 5:19"
   - "Actes 1:8"
+  - "Matthieu 12:45"
   - "Apocalypse 22:11"
   - "2 Rois 7:1-5"
 original: "branham/1948/48-0304"

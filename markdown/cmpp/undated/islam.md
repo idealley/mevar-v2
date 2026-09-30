@@ -48,6 +48,7 @@ themes:
 pdf_url: "http://cmpp.ch/islam.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 7"
   - "Romains 3"
   - "Luc 23"
   - "Romains 12"
@@ -63,6 +64,8 @@ bible_refs:
   - "Amos 3"
   - "Apocalypse 9"
   - "Joël 4"
+  - "Matthieu 28"
+  - "Matthieu 24"
 ---
 # La religion de l’islam à la lumière des événements mondiaux actuels
 

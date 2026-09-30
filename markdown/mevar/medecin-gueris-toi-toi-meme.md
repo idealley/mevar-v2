@@ -19,6 +19,7 @@ stream_url: "https://mevar.org/medecin-gueris-toi-toi-meme/"
 bible_refs:
   - "Luc 4:23"
   - "Matthieu 9:10-13"
+  - "Matthieu 23"
 ---
 C’est un sujet pour poursuivre un peu tout ce dont nous avons parlé dimanche passé. Amen ! Nous lisons dans Luc 4 : 23. _Jésus leur dit : sans doute vous m’appliquerez ce proverbe : Médecin guéris-toi toi-même ; et vous me direz : fais ici dans ta patrie, tout ce que nous avons appris que tu as fait à Capernaüm._
 

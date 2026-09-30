@@ -46,7 +46,11 @@ bible_refs:
   - "1 Corinthiens 14:26-28"
   - "1 Corinthiens 14:32"
   - "1 Jean 2:19"
+  - "Matthieu 21:13"
+  - "Matthieu 23:26"
   - "Matthieu 17:27"
+  - "Matthieu 22:21"
+  - "Matthieu 6:6"
 original: "branham/1963/63-1226"
 ---
 **Résumé de!: “L'ordre dans l'église” (26 décembre 1963 soir)**

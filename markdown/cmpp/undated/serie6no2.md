@@ -50,6 +50,7 @@ bible_refs:
   - "Apocalypse 19"
   - "Amos 7"
   - "Amos 3"
+  - "Matthieu 7"
   - "Michée 5"
   - "Romains 9"
   - "Jean 6"

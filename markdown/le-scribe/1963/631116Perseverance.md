@@ -52,13 +52,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631116Perseverance.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 8:5-13"
   - "Matthieu 15:21-28"
-  - "Jean 14:12,20"
+  - "Jean 14:12"
+  - "Matthieu 28:20"
   - "Hébreux 11:1"
   - "Marc 7:24-30"
   - "Josué 1:3"
   - "Jean 11:22"
   - "Jean 11:25-26"
+  - "Matthieu 25:40"
   - "Actes 2:38-39"
 original: "branham/1963/63-1116E"
 ---

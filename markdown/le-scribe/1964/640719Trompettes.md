@@ -60,6 +60,7 @@ bible_refs:
   - "Apocalypse 10:7"
   - "Malachie 4:5-6"
   - "Malachie 3:1"
+  - "Matthieu 11:14"
   - "Matthieu 17:11"
   - "Malachie 4:5"
   - "Jean 10:35"
@@ -72,6 +73,7 @@ bible_refs:
   - "Apocalypse 6:12-17"
   - "Apocalypse 9:13-21"
   - "Jean 6:44"
+  - "Matthieu 17:5"
   - "Apocalypse 19:14"
   - "Ézéchiel 9:4"
   - "Apocalypse 9:4"
@@ -79,6 +81,7 @@ bible_refs:
   - "Apocalypse 17:8"
   - "Lévitique 23:23-27"
   - "Zacharie 14:7"
+  - "Hébreux 4:12"
   - "Luc 17:30"
 original: "branham/1964/64-0719M"
 ---

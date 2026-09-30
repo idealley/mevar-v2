@@ -43,6 +43,7 @@ pdf_url: "http://le-scribe.org/pdfiles/580126Ecoutez-le.pdf"
 llm_cleaned: true
 bible_refs:
   - "Matthieu 17:1"
+  - "Matthieu 18:20"
   - "Actes 19:2"
   - "Jean 14:2"
   - "Deutéronome 22:5"

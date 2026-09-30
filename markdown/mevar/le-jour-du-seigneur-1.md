@@ -29,6 +29,7 @@ bible_refs:
   - "Zacharie 14:1-7"
   - "Ésaïe 13"
   - "Ésaïe 13:9-10"
+  - "Matthieu 24"
   - "Ésaïe 13:10"
   - "Apocalypse 6"
   - "Apocalypse 6:12-13"

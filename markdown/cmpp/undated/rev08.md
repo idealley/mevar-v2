@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 10"
   - "Jean 10:7"
   - "Matthieu 16"
+  - "Matthieu 7"
   - "Matthieu 28"
   - "Apocalypse 2"
   - "Romains 2"

@@ -38,8 +38,8 @@ pdf_url: "http://le-scribe.org/pdfiles/580209Ecoutez-le.pdf"
 llm_cleaned: true
 bible_refs:
   - "Marc 6:21"
-  - "Luc 14:16,22"
-  - "Jean 12:2,13"
+  - "Luc 14:16"
+  - "Jean 12:2"
   - "1 Corinthiens 11:20,21"
   - "Apocalypse 19:9,17"
   - "Luc 11:38"
@@ -51,8 +51,9 @@ bible_refs:
   - "Actes 2:22"
   - "2 Samuel 6:14-16"
   - "Jérémie 16:23"
-  - "Marc 9:42,16"
+  - "Marc 9:42"
   - "Marc 15:30"
+  - "Matthieu 10:32"
 original: "branham/1958/58-0209A"
 ---
 Résumé de : “Ecoutez-le” (9 février 1958, après-midi)

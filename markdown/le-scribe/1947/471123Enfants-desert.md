@@ -50,14 +50,17 @@ bible_refs:
   - "Nombres 20"
   - "Jean 14:1-3"
   - "Philémon 1:10-21"
+  - "Matthieu 28:20"
   - "Nombres 13"
   - "Nombres 22"
   - "Nombres 22:8"
   - "1 Rois 22"
   - "Nombres 22:22"
   - "Nombres 22:24"
+  - "Matthieu 3:9"
   - "1 Pierre 2:9"
   - "Hébreux 13:15"
+  - "Matthieu 8:31"
 original: "branham/1947/47-1123"
 ---
 **LES ENFANTS DANS LE DESERT**

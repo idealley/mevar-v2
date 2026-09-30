@@ -38,6 +38,7 @@ local_pdf: "/files/mevar/le_chemin_de_saul_21_aout_2021.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Samuel 9:1-24"
+  - "Marc 6:1-6"
   - "Marc 6"
   - "Matthieu 19"
 ---

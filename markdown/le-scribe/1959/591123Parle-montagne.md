@@ -41,8 +41,10 @@ bible_refs:
   - "Psaumes 34:8"
   - "Marc 11:20-24"
   - "Ésaïe 53:5"
+  - "Matthieu 4:4"
   - "Marc 11"
   - "Luc 9:56"
+  - "Matthieu 12:42"
   - "Genèse 22"
 original: "branham/1959/59-1123"
 ---

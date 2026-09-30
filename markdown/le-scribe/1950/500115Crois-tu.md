@@ -16,6 +16,7 @@ bible_refs:
   - "Luc 1:38"
   - "Luc 1:44"
   - "Actes 2:39"
+  - "Matthieu 7:16"
   - "Jean 3:3,5"
   - "Marc 16:17-18"
   - "Romains 8:28"

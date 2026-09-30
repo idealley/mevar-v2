@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/Lechemindelacroix.md"
 sermon_id: "Lechemindelacroix"
 title: "Le chemin de la croix"
-subtitle: "Exhortation de décembre 2009"
+subtitle: "Koumassi le dimanche 13 décembre 2009"
 date: "2009-12-13"
 year: 2009
 location: "Koumassi"
@@ -46,7 +46,7 @@ bible_refs:
   - "Matthieu 16:24"
   - "Matthieu 19"
   - "Matthieu 11"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-30"
 ---
 Alléluia ! Nous restons dans cette position et nous lisons dans Jean chapitre 19 verset 17 et 18.
 

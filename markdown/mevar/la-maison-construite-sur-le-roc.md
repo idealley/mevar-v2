@@ -23,6 +23,7 @@ stream_url: "https://mevar.org/la-maison-construite-sur-le-roc/"
 bible_refs:
   - "Matthieu 7:24-29"
   - "Matthieu 5:45"
+  - "Matthieu 16:13-18"
   - "Luc 6:46-49"
   - "Matthieu 9:16-17"
   - "Matthieu 23:25-28"

@@ -39,8 +39,10 @@ llm_cleaned: true
 bible_refs:
   - "Daniel 5:25"
   - "Osée 1:1"
+  - "Matthieu 2:15"
   - "Actes 10:35"
-  - "Proverbes 14:12,16"
+  - "Proverbes 14:12"
+  - "Matthieu 4:9"
   - "2 Timothée 3:2-4"
   - "1 Timothée 5:6"
   - "1 Jean 2:15"
@@ -49,6 +51,8 @@ bible_refs:
   - "Ésaïe 3:16"
   - "Romains 3:23"
   - "Jean 14:12"
+  - "Matthieu 10:25"
+  - "Matthieu 24:36"
 original: "branham/1958/58-0309M"
 ---
 **1.** Le sujet de ce soir sera : “L’Eglise part-elle avant la grande tribulations ?”. Il y a un débat à ce sujet. Les cartes de prière seront distribuées à 18 heures 30. [Prière]. Lisons Daniel 5:25 :

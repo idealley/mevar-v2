@@ -38,9 +38,11 @@ bible_refs:
   - "Jean 10:7"
   - "2 Rois 5:8"
   - "Hébreux 13:8"
+  - "Matthieu 8:13"
   - "Jean 5:24"
   - "Jean 15:7"
   - "1 Pierre 3:15"
+  - "Matthieu 11:19"
   - "2 Timothée 3:8"
 original: "branham/1956/56-0129"
 ---

@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 13:3"
   - "Actes 9:5"
   - "Marc 10:17"
+  - "Matthieu 12:43-45"
   - "Luc 16:26"
   - "Jean 15:7"
   - "Luc 17:28"

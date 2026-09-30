@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhoavril2011.md"
 sermon_id: "exhoavril2011"
 title: "La bonne part qui ne nous sera jamais ôtée"
-subtitle: "Exhortation de avril 2011"
+subtitle: "Exhortation fin avril 2011"
 date: "2011-04-01"
 year: 2011
 preacher: "Parfait M'bra"
@@ -66,7 +66,7 @@ bible_refs:
   - "Luc 2:25-32"
   - "2 Pierre 3:9"
   - "2 Pierre 3:15"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Mes chers frères et sœurs en Christ, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Psaumes 119 :
 

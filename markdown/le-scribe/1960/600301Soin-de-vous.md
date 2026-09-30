@@ -54,7 +54,6 @@ bible_refs:
   - "1 Corinthiens 11:29"
   - "Psaumes 23:4"
   - "Jean 14:19"
-  - "Jean 14:26,16"
   - "Hébreux 10"
   - "Hébreux 10:26-27"
 original: "branham/1960/60-0301"

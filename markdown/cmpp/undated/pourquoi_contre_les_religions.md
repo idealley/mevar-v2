@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Samuel 8"
   - "1 Samuel 8:4-10"
+  - "Matthieu 25"
   - "Nombres 16"
   - "Proverbes 11"
   - "Jean 3"

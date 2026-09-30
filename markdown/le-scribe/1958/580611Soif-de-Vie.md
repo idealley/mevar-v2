@@ -38,6 +38,7 @@ bible_refs:
   - "Ésaïe 28:8"
   - "Esdras 9:8"
   - "Psaumes 42:2"
+  - "Matthieu 5:6"
   - "Ézéchiel 9:4"
 original: "branham/1958/58-0611"
 ---

@@ -65,11 +65,13 @@ bible_refs:
   - "Romains 8:1"
   - "Exode 12:11"
   - "Exode 12:38"
+  - "Matthieu 13:47"
   - "Ésaïe 28:8,9"
   - "Exode 15:25"
   - "2 Rois 5"
   - "Jean 3:3"
   - "Actes 2:38"
+  - "Matthieu 10:38"
 original: "branham/1953/53-0327"
 ---
 **“Israël et la Mer Rouge (b)”** - *(27 mars 1953, soir)*

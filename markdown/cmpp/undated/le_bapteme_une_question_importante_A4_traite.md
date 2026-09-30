@@ -49,6 +49,7 @@ bible_refs:
   - "Matthieu 28"
   - "Luc 24"
   - "Éphésiens 1"
+  - "Matthieu 16"
   - "Actes 11"
   - "Jean 17"
   - "Deutéronome 6"

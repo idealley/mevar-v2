@@ -35,11 +35,13 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 3:1"
   - "Marc 11:24"
+  - "Matthieu 21:21"
   - "Colossiens 2:9"
   - "Jean 10:30"
   - "Jean 14:10"
   - "Marc 16:15-18"
   - "Luc 8:43-48"
+  - "Matthieu 8:5-13"
   - "Josué 1:2"
 original: "branham/1951/51-0503"
 ---

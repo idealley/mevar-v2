@@ -38,6 +38,7 @@ pdf_url: "http://cmpp.ch/lc5.pdf"
 llm_cleaned: true
 bible_refs:
   - "Hébreux 13"
+  - "Habacuc 1"
   - "Actes 13"
   - "2 Corinthiens 2"
   - "Habacuc 2"

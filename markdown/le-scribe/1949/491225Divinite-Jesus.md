@@ -56,6 +56,7 @@ bible_refs:
   - "Colossiens 1:27"
   - "Luc 17:26"
   - "Jean 14:19"
+  - "Matthieu 28:20"
   - "Actes 2:17-20"
   - "Joël 2:28-32"
   - "Jean 14:12"

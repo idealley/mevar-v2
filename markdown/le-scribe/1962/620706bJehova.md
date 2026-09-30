@@ -69,6 +69,7 @@ bible_refs:
   - "Genèse 18:9"
   - "Luc 17:28,30"
   - "1 Corinthiens 15:54"
+  - "1 Thessaloniciens 4:17"
   - "Genèse 24:11"
 original: "branham/1962/62-0706"
 ---

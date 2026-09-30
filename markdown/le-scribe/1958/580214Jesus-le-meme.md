@@ -53,12 +53,15 @@ bible_refs:
   - "Jean 14:12"
   - "1 Corinthiens 2:4"
   - "Jude 1:3"
+  - "Matthieu 4:4"
+  - "Matthieu 12:32"
+  - "Matthieu 10:6"
   - "Jean 5:19"
   - "Éphésiens 1:5"
   - "Exode 28:30"
   - "Nombres 27:21,1"
   - "Jean 14:19,20"
-  - "Daniel 7:15,10"
+  - "Daniel 7:15"
 original: "branham/1958/58-0214"
 ---
 *Jésus-Christ est le même hier, aujourd'hui et éternellement (ou : Nous voudrions voir Jésus)*

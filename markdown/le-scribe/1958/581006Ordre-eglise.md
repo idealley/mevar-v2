@@ -37,6 +37,7 @@ bible_refs:
   - "1 Corinthiens 12"
   - "Jean 13:35"
   - "Jean 3:16"
+  - "Matthieu 18:18"
   - "1 Corinthiens 14:32"
   - "1 Corinthiens 14:27"
 original: "branham/1958/58-1007"

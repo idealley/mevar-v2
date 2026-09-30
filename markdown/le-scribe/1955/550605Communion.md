@@ -40,6 +40,7 @@ pdf_url: "http://le-scribe.org/pdfiles/550605Communion.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Jean 1:5"
+  - "Matthieu 16:13-18"
   - "Job 19:25-27"
   - "Hébreux 10:2"
   - "Luc 17:26"

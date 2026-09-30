@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofev.md"
 sermon_id: "exhofev"
 title: "Venez et plaidons !"
-subtitle: "Exhortation de février 2007"
+subtitle: "Exhortation fin février"
 date: "2007-02-01"
 year: 2007
 location: "Abidjan"
@@ -46,7 +46,7 @@ bible_refs:
   - "Ésaïe 43:26"
   - "Psaumes 111:10"
   - "Proverbes 8:13"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 ## Exhortation fin février
 

@@ -44,6 +44,7 @@ bible_refs:
   - "Romains 10:17"
   - "2 Corinthiens 5:19"
   - "Marc 11:24"
+  - "Matthieu 10:1"
   - "Marc 16:18"
   - "Actes 19:10"
   - "Jean 5:14"

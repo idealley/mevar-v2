@@ -72,6 +72,7 @@ bible_refs:
   - "Apocalypse 3:17-18"
   - "Ésaïe 53:2"
   - "1 Samuel 16:7"
+  - "Matthieu 17:10-12"
   - "1 Samuel 4:21"
   - "Daniel 5"
 original: "branham/1965/65-0429E"

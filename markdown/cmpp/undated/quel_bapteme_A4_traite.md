@@ -38,6 +38,7 @@ bible_refs:
   - "Colossiens 3"
   - "Jean 4"
   - "Marc 12"
+  - "Matthieu 16"
   - "Hébreux 10"
   - "Luc 1"
   - "1 Jean 4"
@@ -45,8 +46,11 @@ bible_refs:
   - "1 Jean 5"
   - "Actes 17"
   - "Malachie 4"
+  - "Matthieu 24"
   - "Actes 19"
   - "Ésaïe 40"
+  - "Matthieu 3"
+  - "Matthieu 4"
 ---
 Il doit y avoir une réponse ou une explication, parce que la Parole de Dieu est la Vérité (Jean 17.17) et cette Vérité doit nous être révélée personnellement, si nous sommes appelés à connaître le Seigneur Jésus-Christ et à être connus de Lui. Car Sa venue, pour enlever Son Epouse, est très proche.
 

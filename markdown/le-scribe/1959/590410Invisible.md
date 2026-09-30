@@ -45,7 +45,7 @@ pdf_url: "http://le-scribe.org/pdfiles/590410Invisible.pdf"
 llm_cleaned: true
 bible_refs:
   - "2 Corinthiens 4:18"
-  - "Jean 14:16-17,16"
+  - "Jean 14:16-17"
   - "Jean 10:4"
   - "Hébreux 11:27"
   - "Deutéronome 18:18"

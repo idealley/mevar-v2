@@ -39,6 +39,7 @@ bible_refs:
   - "Jean 14:12"
   - "2 Timothée 3:12"
   - "Ésaïe 6:10"
+  - "Matthieu 13:14"
   - "1 Timothée 3:16"
   - "2 Corinthiens 5:19"
   - "Jean 5:19"

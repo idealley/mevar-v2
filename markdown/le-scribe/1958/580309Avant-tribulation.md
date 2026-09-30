@@ -54,6 +54,7 @@ llm_cleaned: true
 bible_refs:
   - "Luc 17:26"
   - "Genèse 19:22"
+  - "Matthieu 24:33"
   - "Genèse 6:3"
   - "Jean 14:6"
   - "Jean 14:12"

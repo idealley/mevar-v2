@@ -46,6 +46,7 @@ bible_refs:
   - "Luc 2"
   - "Colossiens 3"
   - "Jean 16"
+  - "Matthieu 23"
   - "2 Corinthiens 6"
   - "Matthieu 7"
   - "Jean 12"

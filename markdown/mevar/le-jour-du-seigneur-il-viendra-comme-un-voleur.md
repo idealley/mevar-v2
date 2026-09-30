@@ -17,6 +17,7 @@ ghost_id: "664c99995f06290001fc7ecb"
 uuid: "f0a6323d-ea14-48c8-aa70-454f8ebb715a"
 stream_url: "https://mevar.org/le-jour-du-seigneur-il-viendra-comme-un-voleur/"
 bible_refs:
+  - "Matthieu 24:36-44"
   - "Apocalypse 16:15"
   - "Apocalypse 16"
   - "1 Rois 22"

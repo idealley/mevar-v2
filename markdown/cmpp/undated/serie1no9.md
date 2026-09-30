@@ -52,6 +52,7 @@ bible_refs:
   - "Joël 2"
   - "Jean 14"
   - "Marc 16"
+  - "Matthieu 3"
   - "Jean 15"
   - "Jean 1"
   - "Hébreux 6"

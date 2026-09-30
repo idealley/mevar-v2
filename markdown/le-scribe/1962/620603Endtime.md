@@ -49,6 +49,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620603Endtime.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 18:10"
   - "Marc 16:14-20"
   - "Matthieu 10"
   - "Marc 16"
@@ -74,6 +75,7 @@ bible_refs:
   - "Genèse 6:2"
   - "Jean 8:44"
   - "Jean 3:18"
+  - "Matthieu 23:15"
   - "Psaumes 1:1-3"
   - "Malachie 4"
   - "Malachie 3"
@@ -81,6 +83,7 @@ bible_refs:
   - "Jude 1:3"
   - "Joël 2:25"
   - "Jacques 2:19"
+  - "Matthieu 26:51"
   - "Genèse 24"
   - "Luc 7:36-50"
   - "Actes 19:7"

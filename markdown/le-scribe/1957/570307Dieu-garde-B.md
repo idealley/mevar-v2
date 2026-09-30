@@ -56,7 +56,7 @@ bible_refs:
   - "Actes 5:36"
   - "Jean 1:23"
   - "Matthieu 3:2"
-  - "Jean 16:13,14"
+  - "Jean 16:13"
   - "Jean 5:24"
   - "Jean 14:12"
   - "Jean 13:19"

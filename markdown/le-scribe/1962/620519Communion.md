@@ -40,12 +40,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/620519Communion.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 24:35"
   - "1 Jean 1:7"
   - "2 Pierre 1:20"
   - "Jacques 5:11"
   - "Job 19:25-27"
   - "Nombres 19"
+  - "Matthieu 16:17"
   - "Hébreux 13:12"
+  - "Matthieu 22:1-14"
 original: "branham/1962/62-0519"
 ---
 *19 mai 1962, samedi soir, Green Lake (Wisconsin)*

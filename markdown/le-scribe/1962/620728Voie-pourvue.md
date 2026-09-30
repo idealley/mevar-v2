@@ -59,6 +59,8 @@ bible_refs:
   - "Malachie 4"
   - "Hébreux 4:12"
   - "Ésaïe 35:8"
+  - "Matthieu 14:24"
+  - "Matthieu 7:13"
   - "Romains 1:16"
   - "Luc 7:39"
   - "Luc 17:28,30"
@@ -68,6 +70,7 @@ bible_refs:
   - "Jean 5:39"
   - "Jean 10:37"
   - "Hébreux 4:15"
+  - "Matthieu 17:11"
 original: "branham/1962/62-0728"
 ---
 *Dieu a pourvu un Chemin* (28 juillet 1962, soir)

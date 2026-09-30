@@ -54,10 +54,12 @@ pdf_url: "http://le-scribe.org/pdfiles/641205Chef-oeuvre.pdf"
 llm_cleaned: true
 bible_refs:
   - "Ésaïe 53:1"
-  - "Jean 10:37,5"
+  - "Jean 10:37"
   - "Jean 10:30"
   - "Luc 6:26"
+  - "Matthieu 6:28-29"
   - "Marc 9:7"
+  - "Matthieu 24:35"
   - "Hébreux 7:9"
   - "Josué 10:12"
   - "Actes 2"

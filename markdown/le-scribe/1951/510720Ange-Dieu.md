@@ -45,6 +45,7 @@ bible_refs:
   - "Daniel 10:13"
   - "2 Rois 2:23-24"
   - "Marc 11:24"
+  - "Matthieu 17:14-21"
   - "Actes 19:13-16"
 original: "branham/1951/51-0720"
 ---

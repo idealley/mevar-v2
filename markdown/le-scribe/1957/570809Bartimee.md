@@ -49,7 +49,6 @@ bible_refs:
   - "Matthieu 10:42"
   - "Jean 5:24"
   - "Romains 8:35"
-  - "Jean 5:24,6"
 original: "branham/1957/57-0809"
 ---
 Résumé de : “L’aveugle Bartimée” (9.08.1957)

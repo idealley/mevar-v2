@@ -43,7 +43,7 @@ pdf_url: "http://le-scribe.org/pdfiles/550624Abraham.pdf"
 llm_cleaned: true
 bible_refs:
   - "Genèse 22:7-8,14"
-  - "Jean 8:44,7"
+  - "Jean 8:44"
   - "Galates 2:20"
   - "Jean 5:19"
   - "1 Jean 2:15"

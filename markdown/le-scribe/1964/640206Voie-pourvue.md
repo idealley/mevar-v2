@@ -57,6 +57,7 @@ bible_refs:
   - "Genèse 15:13-14"
   - "1 Corinthiens 10:4"
   - "Jean 14:12"
+  - "Matthieu 12:39"
   - "Luc 17:28"
 original: "branham/1964/64-0206E"
 ---

@@ -42,11 +42,15 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631113Signe-du-temps.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 24:37"
   - "1 Pierre 3:19"
   - "Jean 6:44"
   - "Matthieu 12:38"
   - "Jean 15:26"
+  - "Matthieu 27:40"
+  - "Matthieu 26:68"
   - "Marc 16:17"
+  - "Matthieu 28:20"
   - "Jean 14:12"
   - "Hébreux 13:8"
   - "Ésaïe 59:19"
@@ -54,6 +58,7 @@ bible_refs:
   - "Romains 10:17"
   - "Ésaïe 49:15-16"
   - "Luc 8:48"
+  - "Matthieu 9:38"
 original: "branham/1963/63-1113"
 ---
 **LE SIGNE DE NOTRE TEMPS**

@@ -43,6 +43,7 @@ bible_refs:
   - "Matthieu 25"
   - "Jean 17"
   - "Matthieu 10"
+  - "Matthieu 12"
   - "Matthieu 24"
   - "1 Corinthiens 12"
   - "Apocalypse 1:9"

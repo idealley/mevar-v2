@@ -51,7 +51,7 @@ bible_refs:
   - "1 Corinthiens 2:5"
   - "Matthieu 16:18"
   - "Actes 2:38"
-  - "Deutéronome 8:4,29"
+  - "Deutéronome 8:4"
   - "Exode 15:26"
 original: "branham/1955/55-0114"
 ---

@@ -44,6 +44,7 @@ bible_refs:
   - "Joël 2:25"
   - "1 Samuel 16:4-13"
   - "Ézéchiel 9:4"
+  - "Matthieu 25:21,23"
   - "1 Corinthiens 13:1-3"
   - "1 Corinthiens 11:23-32"
 original: "branham/1959/59-0301E"

@@ -44,6 +44,7 @@ bible_refs:
   - "Matthieu 2:15"
   - "Osée 11:1"
   - "Malachie 4:5"
+  - "Matthieu 3:9"
   - "Malachie 4:2"
   - "1 Rois 19:4"
   - "Apocalypse 3:14"

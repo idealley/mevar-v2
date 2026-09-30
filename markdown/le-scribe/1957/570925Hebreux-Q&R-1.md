@@ -61,6 +61,7 @@ bible_refs:
   - "Éphésiens 4:30"
   - "Apocalypse 7:9"
   - "Jude 1:4"
+  - "Matthieu 28:18,19"
   - "Actes 2:38"
   - "Actes 8:17"
   - "Actes 10:49"
@@ -68,6 +69,7 @@ bible_refs:
   - "Matthieu 1:18"
   - "Actes 19:4"
   - "Galates 1:8"
+  - "Matthieu 16:17"
   - "Hébreux 11:4"
   - "Genèse 2:10"
   - "Genèse 2:13"
@@ -76,6 +78,7 @@ bible_refs:
   - "Genèse 4:1"
   - "Apocalypse 20:14"
   - "Jean 5:24"
+  - "Matthieu 5:34,37"
   - "Romains 8:31"
 original: "branham/1957/57-0925"
 ---

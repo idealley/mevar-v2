@@ -35,7 +35,7 @@ themes:
   - "Révélation prophétique"
 llm_cleaned: true
 bible_refs:
-  - "Luc 6"
+  - "Luc 6:39"
   - "Matthieu 23:16"
   - "Romains 14:17"
   - "Philippiens 3:17-21"

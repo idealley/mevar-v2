@@ -240,7 +240,7 @@ bible_refs:
   - "1 Corinthiens 9:19-23"
   - "1 Pierre 3:1"
   - "2 Corinthiens 11:29"
-  - "1 Corinthiens 9"
+  - "1 Corinthiens 9:22"
   - "1 Corinthiens 9:22-23"
   - "Romains 12:2"
   - "1 Pierre 1:14-17"

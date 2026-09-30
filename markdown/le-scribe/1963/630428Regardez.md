@@ -35,9 +35,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630428Regardez.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 19:14"
   - "Hébreux 9:24"
   - "Jean 8:46"
   - "Jean 16:17"
+  - "Matthieu 28:20"
   - "Jean 14:12"
   - "Hébreux 11:1"
   - "Romains 4:18,20"
@@ -51,6 +53,7 @@ bible_refs:
   - "1 Rois 18:41-45"
   - "1 Rois 18:46"
   - "Jonas 2:5,8"
+  - "Matthieu 18:19-20"
   - "Job 19:25"
   - "Jean 6:14"
   - "Jean 8:58"

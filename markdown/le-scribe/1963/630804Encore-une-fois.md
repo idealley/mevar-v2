@@ -39,6 +39,7 @@ llm_cleaned: true
 bible_refs:
   - "Juges 16:27-28"
   - "2 Pierre 2:22"
+  - "Matthieu 13:14"
   - "2 Timothée 3:5"
   - "Apocalypse 17"
   - "Jean 10:37"

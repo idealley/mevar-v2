@@ -48,8 +48,11 @@ llm_cleaned: true
 bible_refs:
   - "Psaumes 42:2"
   - "1 Corinthiens 14:8"
+  - "Matthieu 24:35"
+  - "Matthieu 16:16-18"
   - "Josué 1:7"
   - "Josué 1:3"
+  - "Matthieu 4:1-11"
   - "Jean 10:4"
   - "Jean 14:12"
   - "Actes 2:38"
@@ -71,6 +74,7 @@ bible_refs:
   - "Jean 6:37"
   - "Jean 6:44"
   - "Jean 10:28"
+  - "Matthieu 10:32"
 original: "branham/1963/63-0114"
 ---
 **Résumé de!: “Une trompette rend un son confus” (14 Janvier 1963)**

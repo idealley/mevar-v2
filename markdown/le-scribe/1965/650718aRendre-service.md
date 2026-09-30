@@ -36,6 +36,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650718aRendre-service.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 18:20"
   - "Psaumes 46:2"
   - "Marc 7:7"
   - "1 Chroniques 13"
@@ -49,7 +50,9 @@ bible_refs:
   - "1 Chroniques 15:15"
   - "Jean 5:46"
   - "Deutéronome 18:15"
+  - "Hébreux 13:8"
   - "Amos 3:7"
+  - "Matthieu 23:37"
   - "Apocalypse 16:21"
   - "Malachie 4:5-6"
   - "Apocalypse 10:7"
@@ -65,6 +68,7 @@ bible_refs:
   - "2 Chroniques 5:14,1"
   - "Zacharie 14:7"
   - "Deutéronome 4"
+  - "Matthieu 5:5"
 original: "branham/1965/65-0718M"
 ---
 *Essayer de rendre un service à Dieu sans que ce soit sa volonté* (18 juillet 1965, matin)

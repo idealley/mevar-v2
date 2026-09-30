@@ -72,6 +72,7 @@ bible_refs:
   - "Hébreux 12"
   - "2 Corinthiens 1"
   - "Luc 3"
+  - "Matthieu 5"
   - "Hébreux 6"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).

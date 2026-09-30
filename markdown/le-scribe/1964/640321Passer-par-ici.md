@@ -36,7 +36,9 @@ llm_cleaned: true
 bible_refs:
   - "Luc 19:1-10"
   - "Jean 12:32"
+  - "Matthieu 25:21"
   - "1 Rois 18:44"
+  - "Matthieu 21:9"
   - "Luc 19:40"
 original: "branham/1964/64-0321B"
 ---

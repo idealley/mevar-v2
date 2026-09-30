@@ -45,7 +45,7 @@ bible_refs:
   - "Galates 1:8"
   - "Matthieu 19:14"
   - "Marc 16:15-17"
-  - "Actes 2:38,8"
+  - "Actes 2:38"
   - "Matthieu 28:19"
   - "Matthieu 1:18"
   - "Actes 2:37-39"

@@ -39,6 +39,8 @@ pdf_url: "http://le-scribe.org/pdfiles/610101Anciens.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 4"
+  - "Matthieu 23:29"
+  - "Matthieu 11:25"
   - "Apocalypse 4:2"
   - "Apocalypse 4:3"
   - "Genèse 41:52"

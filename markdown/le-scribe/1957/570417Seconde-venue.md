@@ -46,8 +46,9 @@ llm_cleaned: true
 bible_refs:
   - "Luc 15:8"
   - "Apocalypse 22:20"
+  - "Matthieu 24:2"
   - "Luc 21:30"
-  - "Genèse 12:3,27"
+  - "Genèse 12:3"
   - "Nombres 24:9"
   - "Daniel 5:27"
   - "Galates 5:22"

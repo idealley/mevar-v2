@@ -40,6 +40,8 @@ bible_refs:
   - "Apocalypse 2:21-23"
   - "Jacques 4:4"
   - "1 Corinthiens 2:4"
+  - "Matthieu 7:16"
+  - "Matthieu 28:20"
   - "Jean 14:12"
   - "Exode 33:18-23"
 original: "branham/1959/59-0628M"

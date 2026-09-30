@@ -19,6 +19,7 @@ uuid: "89a05957-6172-48ad-840e-cb6878ed3557"
 stream_url: "https://mevar.org/ceux-de-la-grande-tribulation-deuxieme-partie/"
 bible_refs:
   - "Genèse 6"
+  - "1 Jean 5:4"
   - "Éphésiens 2:20"
   - "Ésaïe 27"
   - "Apocalypse 12"

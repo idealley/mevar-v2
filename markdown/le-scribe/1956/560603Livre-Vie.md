@@ -41,6 +41,7 @@ bible_refs:
   - "Apocalypse 12:1-2"
   - "Matthieu 10:5-7"
   - "Matthieu 5:48"
+  - "Matthieu 24"
   - "Hébreux 6:4-6"
   - "Apocalypse 19:20"
   - "Galates 5:22"

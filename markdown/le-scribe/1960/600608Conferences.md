@@ -44,7 +44,7 @@ bible_refs:
   - "Ésaïe 35:8"
   - "1 Timothée 3:16"
   - "Jean 14:20"
-  - "Actes 1:4,1"
+  - "Actes 1:4"
   - "Marc 16:17-18"
   - "Actes 2:38-39"
   - "Actes 3:6"

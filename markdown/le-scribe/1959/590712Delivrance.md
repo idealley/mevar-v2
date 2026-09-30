@@ -39,6 +39,7 @@ pdf_url: "http://le-scribe.org/pdfiles/590712Delivrance.pdf"
 llm_cleaned: true
 bible_refs:
   - "Nombres 13"
+  - "Matthieu 17:3"
   - "Luc 12:32"
   - "Exode 23:20-23"
   - "Genèse 15:13-14"
@@ -47,6 +48,7 @@ bible_refs:
   - "Exode 10:26"
   - "Ésaïe 53:5"
   - "1 Jean 2:15"
+  - "Matthieu 7:16"
   - "Jean 13:35"
 original: "branham/1959/59-0712"
 ---

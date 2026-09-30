@@ -52,6 +52,7 @@ llm_cleaned: true
 bible_refs:
   - "Juges 6:12-14"
   - "Romains 6:23"
+  - "Matthieu 4:4"
   - "Juges 6:7-10"
   - "Ésaïe 55:11"
   - "Actes 1:8"
@@ -66,7 +67,7 @@ bible_refs:
   - "Joël 2:28"
   - "1 Rois 18:19-40"
   - "Juges 6:21"
-  - "Job 9:9,38"
+  - "Job 9:9"
   - "Actes 3:6"
   - "1 Pierre 4:12"
   - "2 Rois 4"

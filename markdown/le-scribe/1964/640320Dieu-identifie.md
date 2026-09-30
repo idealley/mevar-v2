@@ -48,10 +48,11 @@ pdf_url: "http://le-scribe.org/pdfiles/640320Dieu-identifie.pdf"
 llm_cleaned: true
 bible_refs:
   - "Hébreux 1:1-3"
+  - "Matthieu 24:24"
   - "Hébreux 11:10"
   - "Ésaïe 7:14"
   - "Luc 2:49"
-  - "Jean 9:28,5"
+  - "Jean 9:28"
   - "Deutéronome 18:15"
   - "Hébreux 1:1"
   - "Nombres 12:6"
@@ -69,6 +70,8 @@ bible_refs:
   - "Luc 17:28,30"
   - "Romains 4:20-21"
   - "Hébreux 4:12"
+  - "Matthieu 3:15"
+  - "Matthieu 12:39"
 original: "branham/1964/64-0320"
 ---
 **1.** J’ai été surpris en voyant mon ami Joseph Boze ! Lisons Hébreux 1:1-3

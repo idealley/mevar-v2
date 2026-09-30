@@ -58,7 +58,7 @@ bible_refs:
   - "Jean 5:24"
   - "Jean 6:37"
   - "Psaumes 81:16"
-  - "Jean 10:37,20"
+  - "Jean 10:37"
   - "Ésaïe 40:4"
   - "Matthieu 9:23-24"
   - "Marc 8:23"

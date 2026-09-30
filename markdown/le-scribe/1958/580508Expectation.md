@@ -56,7 +56,7 @@ llm_cleaned: true
 bible_refs:
   - "2 Corinthiens 5:19"
   - "Jean 8:58"
-  - "Jean 13:3,16"
+  - "Jean 13:3"
   - "Actes 9:5"
   - "Actes 12:7"
   - "Jean 14:12"

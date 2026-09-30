@@ -31,6 +31,7 @@ pdf_url: "http://cmpp.ch/onction_temps_fin_A4.pdf"
 llm_cleaned: true
 bible_refs:
   - "Ésaïe 61"
+  - "Matthieu 24"
   - "1 Jean 5"
   - "Matthieu 3"
   - "Ésaïe 60:21"

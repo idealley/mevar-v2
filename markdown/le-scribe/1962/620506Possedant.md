@@ -41,6 +41,8 @@ bible_refs:
   - "Genèse 18:1-15"
   - "Jean 6:47"
   - "Hébreux 7:2-3"
+  - "Matthieu 5:5"
+  - "Matthieu 21:21"
   - "2 Samuel 6:14"
   - "Actes 13:22"
   - "Exode 15:20"

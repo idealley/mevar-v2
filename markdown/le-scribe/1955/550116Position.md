@@ -38,6 +38,7 @@ pdf_url: "http://le-scribe.org/pdfiles/550116Position.pdf"
 llm_cleaned: true
 bible_refs:
   - "Romains 10:17"
+  - "Matthieu 5:18"
   - "Éphésiens 1:1"
   - "Hébreux 9:22"
   - "2 Corinthiens 5:19"

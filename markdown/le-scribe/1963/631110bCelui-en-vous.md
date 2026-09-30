@@ -63,6 +63,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/631110bCelui-en-vous.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 24:24"
   - "Romains 9:16"
   - "Marc 11:12-26"
   - "1 Jean 4:4"
@@ -76,7 +77,9 @@ bible_refs:
   - "Marc 11:24"
   - "Job 19:25-27"
   - "Jean 14:12"
+  - "Matthieu 21:21"
   - "Jean 5:17,19"
+  - "Hébreux 13:8"
   - "Romains 8:37"
   - "Jean 1:42"
   - "Jean 1:45-49"

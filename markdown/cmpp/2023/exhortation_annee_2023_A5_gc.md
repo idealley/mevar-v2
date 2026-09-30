@@ -35,6 +35,8 @@ llm_cleaned: true
 bible_refs:
   - "1 Pierre 1"
   - "Jean 14"
+  - "1 Thessaloniciens 4"
+  - "2 Pierre 3"
   - "Romains 8"
   - "Colossiens 3"
   - "Apocalypse 19"

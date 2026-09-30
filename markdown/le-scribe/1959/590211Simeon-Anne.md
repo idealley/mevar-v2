@@ -41,6 +41,7 @@ llm_cleaned: true
 bible_refs:
   - "Luc 2:25-35"
   - "Luc 2:36-38"
+  - "Matthieu 24:44"
   - "Romains 8:14"
   - "Ésaïe 49:15"
 original: "branham/1959/59-0211"

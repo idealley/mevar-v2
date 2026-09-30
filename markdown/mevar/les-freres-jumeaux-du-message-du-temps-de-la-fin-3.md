@@ -28,9 +28,11 @@ bible_refs:
   - "1 Corinthiens 10:1"
   - "Apocalypse 22"
   - "1 Samuel 8"
+  - "Matthieu 7"
   - "Matthieu 24:45-47"
   - "Hébreux 12"
   - "1 Rois 19:15-16"
+  - "Matthieu 24:45"
 ---
 ## Troisième partie
 

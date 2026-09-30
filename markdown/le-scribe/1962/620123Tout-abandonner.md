@@ -49,6 +49,7 @@ bible_refs:
   - "1 Jean 2:15"
   - "Jean 15:7"
   - "2 Timothée 3:12"
+  - "Matthieu 5:12"
   - "Genèse 13:14-15"
   - "Exode 15:26"
   - "Philippiens 2:9"

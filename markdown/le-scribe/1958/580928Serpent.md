@@ -47,11 +47,12 @@ pdf_url: "http://le-scribe.org/pdfiles/580928Serpent.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 17"
+  - "Matthieu 16:17"
   - "Actes 2:38"
   - "2 Timothée 3:5"
   - "Hébreux 7:9"
   - "Job 38:7"
-  - "Jean 6:65,47,10"
+  - "Jean 6:65,47"
   - "Jean 5:24"
   - "Psaumes 32:2"
   - "Romains 9:20"
@@ -67,6 +68,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "1 Timothée 2:5"
   - "Actes 2:39"
+  - "Matthieu 4:4"
   - "Jacques 4:8"
 original: "branham/1958/58-0928E"
 ---

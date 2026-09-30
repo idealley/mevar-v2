@@ -52,7 +52,7 @@ bible_refs:
   - "Psaumes 1:1"
   - "Proverbes 14:12"
   - "Jean 4:22"
-  - "Matthieu 22:14,7"
+  - "Matthieu 22:14"
   - "Jean 10:18"
   - "Actes 3:6"
   - "Actes 7:55"

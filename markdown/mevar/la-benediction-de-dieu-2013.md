@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/la_benediction_de_Dieu.md"
 sermon_id: "la_benediction_de_Dieu"
 title: "La bénédiction de Dieu"
-subtitle: "Exhortation de janvier 2013"
+subtitle: "Prêché le dimanche 27 janvier 2013 à Koumassi"
 date: "2013-01-27"
 year: 2013
 location: "Koumassi"

@@ -60,10 +60,12 @@ bible_refs:
   - "Ésaïe 7:14"
   - "Ésaïe 28:8"
   - "Michée 5:1"
+  - "Hébreux 13:8"
   - "Actes 2:39"
   - "Jean 14:12"
   - "Jean 5:39"
   - "Job 38:7"
+  - "Matthieu 5:3"
   - "Luc 1:52"
   - "1 Jean 2:15"
   - "2 Pierre 2:22"
@@ -77,6 +79,7 @@ bible_refs:
   - "Jean 10:30"
   - "Jean 6:53"
   - "Zacharie 14:7"
+  - "Matthieu 17:1-8"
   - "Exode 34:29"
   - "Exode 4:6"
   - "Genèse 2:17"
@@ -91,6 +94,7 @@ bible_refs:
   - "2 Pierre 1:21"
   - "Luc 22:32"
   - "Actes 2:38"
+  - "Matthieu 4:4"
 original: "branham/1964/64-1221"
 ---
 **Résumé de!: “Pourquoi fallait-il que ce soit des bergers” (21 décembre 1964, soir)**

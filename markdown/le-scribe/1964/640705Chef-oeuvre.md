@@ -59,6 +59,7 @@ bible_refs:
   - "Actes 2:17"
   - "Jean 12:24"
   - "Romains 1:17"
+  - "Matthieu 24:24"
   - "Éphésiens 5:27"
   - "Apocalypse 3:20"
   - "Malachie 4:6"

@@ -47,7 +47,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560219Conduit.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Daniel 7:15,8"
+  - "Daniel 7:15"
   - "Matthieu 6:6"
   - "Éphésiens 1:4"
   - "Luc 2:25"

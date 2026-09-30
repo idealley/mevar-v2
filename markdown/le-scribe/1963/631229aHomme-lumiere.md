@@ -48,6 +48,7 @@ bible_refs:
   - "Genèse 1:1"
   - "Genèse 1:4-5"
   - "Jean 1:1"
+  - "Hébreux 13:8"
   - "1 Jean 1:7"
   - "Luc 2:9,13"
   - "Ésaïe 7:14"
@@ -81,6 +82,7 @@ bible_refs:
   - "Actes 2:38"
   - "Marc 16:17"
   - "Matthieu 24:24"
+  - "Matthieu 4:4"
   - "Jean 17:18"
 original: "branham/1963/63-1229M"
 ---

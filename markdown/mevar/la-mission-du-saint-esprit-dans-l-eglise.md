@@ -25,6 +25,7 @@ bible_refs:
   - "1 Corinthiens 12"
   - "Marc 16"
   - "Actes 19"
+  - "Matthieu 24"
 ---
 ## Première partie
 

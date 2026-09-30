@@ -68,6 +68,7 @@ bible_refs:
   - "Luc 9:18"
   - "Luc 9:28"
   - "Luc 11:1"
+  - "Matthieu 14"
   - "Marc 1:35"
   - "Matthieu 6:9-13"
   - "Luc 22:39-44"
@@ -76,6 +77,7 @@ bible_refs:
   - "Luc 18:1"
   - "Daniel 10"
   - "Daniel 10:12-13"
+  - "Matthieu 18"
 ---
 Ce texte est extrait du livre [Les 5 ministères de la parole](/les-5-ministeres-de-la-parole/).
 

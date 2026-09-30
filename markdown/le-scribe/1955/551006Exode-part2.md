@@ -41,6 +41,7 @@ llm_cleaned: true
 bible_refs:
   - "Exode 14:15"
   - "1 Corinthiens 15:55,57"
+  - "Matthieu 16:16"
   - "Genèse 15:13-14"
 original: "branham/1955/55-1006E"
 ---

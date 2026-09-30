@@ -57,7 +57,9 @@ bible_refs:
   - "Jean 11:21-22"
   - "Jean 11:25"
   - "Marc 11:24"
+  - "Matthieu 18:19"
   - "Romains 8:30"
+  - "Matthieu 9:21"
   - "Hébreux 4:15"
 original: "branham/1962/62-0520"
 ---

@@ -37,6 +37,7 @@ llm_cleaned: true
 bible_refs:
   - "Malachie 2"
   - "1 Jean 3"
+  - "Matthieu 7"
   - "Actes 14"
   - "Jean 10"
   - "Jean 16"
@@ -70,6 +71,8 @@ bible_refs:
   - "Job 33"
   - "Actes 2"
   - "Joël 2"
+  - "Matthieu 23"
+  - "Matthieu 28"
   - "Jacques 1"
   - "Jacques 5"
 ---

@@ -53,6 +53,7 @@ bible_refs:
   - "1 Corinthiens 15:55"
   - "Jean 14:13"
   - "Jean 16:16"
+  - "Matthieu 28:20"
   - "Marc 16:17"
   - "Jean 5:19"
   - "Jean 1:43"

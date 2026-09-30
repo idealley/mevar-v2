@@ -44,6 +44,7 @@ pdf_url: "http://le-scribe.org/pdfiles/581003Regarder.pdf"
 llm_cleaned: true
 bible_refs:
   - "2 Rois 6:8"
+  - "Matthieu 4:4"
   - "Romains 4:20"
   - "Jean 15:2"
   - "Hébreux 11:26"

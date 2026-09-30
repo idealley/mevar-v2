@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/exhofinoct2010.md"
 sermon_id: "exhofinoct2010"
 title: "Simon le magicien"
-subtitle: "Exhortation de octobre 2010"
+subtitle: "Exhortation fin octobre 2010"
 date: "2010-10-01"
 year: 2010
 preacher: "Parfait M'bra"
@@ -82,7 +82,7 @@ bible_refs:
   - "Luc 3:16"
   - "Luc 12:49-53"
 published_with: "mevar/les-deux-vins-le-vin-religieux-et-le-vin-de-l-esprit-2010"
-editorial_pass: "2026-09-29"
+editorial_pass: "2026-09-30"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, c’est votre frère M’BRA Parfait qui vous salue dans le nom précieux de notre Seigneur Jésus-Christ. Que Sa grâce et Sa paix soient avec vous tous. Je voudrais vous exhorter avec cette Parole de Deutéronome chapitre 6 ; là où le Seigneur s’est adressé à Son Peuple pour lui demander de ne pas l’oublier, après son entrée dans la terre promise :
 

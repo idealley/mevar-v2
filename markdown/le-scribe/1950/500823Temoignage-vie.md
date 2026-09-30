@@ -41,6 +41,7 @@ bible_refs:
   - "Luc 4:33"
   - "Actes 16:17"
   - "Matthieu 9:18"
+  - "Matthieu 5:48"
   - "1 Corinthiens 12:13"
   - "2 Timothée 3:5"
   - "Jean 3:3"

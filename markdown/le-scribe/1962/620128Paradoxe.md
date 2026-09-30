@@ -57,8 +57,10 @@ bible_refs:
   - "Exode 17:6"
   - "1 Rois 22:17"
   - "1 Rois 21:17-24"
+  - "Matthieu 12:48-49"
   - "Jean 14:19,17"
   - "Jean 14:12"
+  - "Matthieu 25:40"
 original: "branham/1962/62-0128A"
 ---
 *Paradoxe*

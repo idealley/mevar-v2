@@ -43,6 +43,7 @@ pdf_url: "http://cmpp.ch/le_bapteme_une_question_importante.pdf"
 llm_cleaned: true
 bible_refs:
   - "Deutéronome 6"
+  - "Matthieu 28"
   - "Actes 2"
   - "Jean 1"
   - "Actes 8"
@@ -57,9 +58,9 @@ bible_refs:
   - "Romains 13"
   - "Colossiens 2"
   - "1 Corinthiens 15"
-  - "Matthieu 28"
   - "Luc 24"
   - "Éphésiens 1"
+  - "Matthieu 16"
   - "Actes 11"
   - "Jean 17"
 ---

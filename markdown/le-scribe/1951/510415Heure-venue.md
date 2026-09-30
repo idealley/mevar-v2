@@ -47,9 +47,11 @@ bible_refs:
   - "2 Rois 7"
   - "Marc 5:28"
   - "Marc 11:24"
+  - "Matthieu 21:22"
   - "2 Timothée 3:4"
   - "Jean 5:19"
   - "Jean 14:12"
+  - "Matthieu 9:24"
   - "Actes 9:40"
 original: "branham/1951/51-0415E"
 ---

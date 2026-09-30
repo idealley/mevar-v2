@@ -42,6 +42,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/530326aIsrael-Mer-Rouge.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Matthieu 5:48"
   - "Romains 8:1"
   - "Jean 6:37"
   - "Jean 5:24"
@@ -51,6 +52,7 @@ bible_refs:
   - "Job 33:24"
   - "Job 19:25,26"
   - "Genèse 50:25"
+  - "Matthieu 27:52,53"
   - "Jean 7:38"
   - "Exode 2"
   - "Jean 3:18"

@@ -36,7 +36,6 @@ llm_cleaned: true
 bible_refs:
   - "Genèse 32"
   - "Éphésiens 4:17"
-  - "Genèse 28"
   - "Genèse 28:13-15"
   - "Éphésiens 6"
   - "Romains 5"

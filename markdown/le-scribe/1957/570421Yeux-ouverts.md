@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 14:19,17"
   - "Jude 1:4"
   - "Jean 14:12"
+  - "Matthieu 8:20"
   - "Hébreux 13:8"
   - "Jean 5:19"
   - "Jean 1:48"
@@ -54,11 +55,15 @@ bible_refs:
   - "Jean 4:26"
   - "Jean 20:17"
   - "Luc 24:13"
+  - "Matthieu 13:57"
+  - "Matthieu 12:32"
   - "Psaumes 34:8"
+  - "Matthieu 18:20"
   - "Éphésiens 4:11"
   - "2 Corinthiens 5:1"
   - "Jean 3:7"
   - "2 Corinthiens 5:17"
+  - "Matthieu 7:20"
 original: "branham/1957/57-0421E"
 ---
 Résumé de!: “Quand leurs yeux s'ouvrirent ils le reconnurent” (21 avril 1957, soir)

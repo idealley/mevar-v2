@@ -83,7 +83,7 @@ bible_refs:
   - "1 Chroniques 20:1-8"
   - "1 Rois 19"
   - "2 Rois 9:7-8"
-  - "2 Rois 9:30-37,10"
+  - "2 Rois 9:30-37"
 editorial_pass: "2026-09-29"
 ---
 ## Appel à la guerre – appel au combat contre Babylone

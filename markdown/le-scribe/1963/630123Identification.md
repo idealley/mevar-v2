@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "Philippiens 2:5"
   - "Jean 3:16"
+  - "Matthieu 8:20"
   - "Jean 1:1"
   - "Jean 10:30"
   - "Jean 8:46"
@@ -55,6 +56,7 @@ bible_refs:
   - "Jean 4"
   - "Éphésiens 2:6"
   - "1 Pierre 2:9"
+  - "Matthieu 16:17-18"
   - "Jean 9:25"
   - "Jean 3:2"
   - "Deutéronome 18:15,18"
@@ -66,6 +68,7 @@ bible_refs:
   - "1 Corinthiens 14:37"
   - "Hébreux 11:26"
   - "Jean 14:12"
+  - "Matthieu 16:24"
   - "Jean 5:19"
 original: "branham/1963/63-0123"
 ---

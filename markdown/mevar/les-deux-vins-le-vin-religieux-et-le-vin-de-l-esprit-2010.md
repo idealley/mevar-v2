@@ -14,7 +14,7 @@ tags:
   - "Réveil"
   - "Sobriété"
 published_with: "mevar/simon-le-magicien-2010"
-editorial_pass: "2026-09-28"
+editorial_pass: "2026-09-30"
 bible_refs:
   - "Genèse 9:20-29"
   - "Apocalypse 3:17"

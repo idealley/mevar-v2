@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/lagrace.md"
 sermon_id: "lagrace"
 title: "La grâce et la vérité"
-subtitle: "Exhortation d'octobre 2011"
+subtitle: "Prêché à Koumassi le dimanche 23 octobre 2011"
 date: "2011-10-23"
 year: 2011
 location: "Koumassi"

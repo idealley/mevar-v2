@@ -35,12 +35,16 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/630825bFoi-parfaite.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Marc 11:23"
   - "Marc 11:22-26"
   - "Romains 10:17"
+  - "Hébreux 11:6"
   - "Romains 4:20-21"
+  - "Hébreux 11:1"
   - "Romains 3:4"
   - "Marc 5:25-34"
+  - "Matthieu 17:14-21"
   - "Josué 10:12-14"
   - "Jean 5:30"
   - "Jean 5:19"
@@ -57,11 +61,15 @@ bible_refs:
   - "1 Rois 18"
   - "Romains 4:19"
   - "Jacques 4:7"
+  - "Matthieu 4:4"
+  - "Matthieu 4:10"
   - "Jean 6:44"
   - "Jean 2:19"
   - "Psaumes 16:10"
   - "Jean 10:18"
+  - "Matthieu 3:17"
   - "Marc 16"
+  - "Hébreux 4:12"
 original: "branham/1963/63-0825E"
 ---
 **LA FOI PARFAITE**

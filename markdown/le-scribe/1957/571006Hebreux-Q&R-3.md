@@ -59,10 +59,12 @@ bible_refs:
   - "Apocalypse 2"
   - "Apocalypse 12:3"
   - "Galates 1:8"
+  - "Matthieu 18:18"
   - "Apocalypse 12:7-9"
   - "Apocalypse 21:19-20"
   - "Apocalypse 5:6"
   - "Apocalypse 4:4,10"
+  - "Matthieu 19:28"
   - "Apocalypse 22:2"
   - "Genèse 38:30"
   - "Apocalypse 11:10"
@@ -76,6 +78,7 @@ bible_refs:
   - "Apocalypse 6:9-11"
   - "Apocalypse 20:7-10"
   - "2 Rois 20"
+  - "Matthieu 10:37"
 original: "branham/1957/57-1006"
 ---
 **Résumé de!: “Hébreux, questions et réponses, troisième partie” (6 Octobre 1957, soir)**
