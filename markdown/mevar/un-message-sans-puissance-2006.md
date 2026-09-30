@@ -23,7 +23,7 @@ places:
   - "Haïti"
   - "Europe"
   - "Afrique centrale"
-  - "Afrique de l'ouest"
+  - "Afrique de l'Ouest"
 themes:
   - "Impuretés sexuelles"
   - "Jeûne et prière"

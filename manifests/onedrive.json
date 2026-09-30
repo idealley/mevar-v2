@@ -794,7 +794,7 @@
       "Haïti",
       "Europe",
       "Afrique centrale",
-      "Afrique de l'ouest"
+      "Afrique de l'Ouest"
     ],
     "themes": [
       "Impuretés sexuelles",
@@ -19867,6 +19867,7 @@
   },
   {
     "source": "onedrive",
+    "source_path": "onedrive/pdf/message-refusez-l-evangile-sans-puissance.md",
     "sermon_id": "message-refusez-l-evangile-sans-puissance",
     "title": "Refusez l’Évangile sans Puissance",
     "subtitle": "Prêché à Soubré le 30 septembre 2006",
