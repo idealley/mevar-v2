@@ -44,12 +44,11 @@ bible_refs:
   - "Romains 5:1"
   - "Jean 3:16"
   - "Romains 5:12-21"
-  - "Matthieu 26:19-20"
+  - "Matthieu 28:19-20"
   - "Tite 2:11"
   - "Apocalypse 12"
   - "Hébreux 3:12-15"
   - "Hébreux 10"
-  - "Matthieu 28:19-20"
   - "Romains 3:21"
   - "Romains 3:21-31"
   - "Romains 4:1-6"
@@ -131,7 +130,7 @@ Quand la Bible dit que tu es justifié, **cela veut dire que Dieu t’a pardonn�
 
 Quand tu t’es repenti, Dieu t’a pardonné tes péchés. **Donc désormais tu es un homme juste. Un homme juste, c’est celui à qui Dieu a pardonné les péchés qu’il a commis dans les reins d’Adam et Ève**. **Car nous étions tous dans les reins d’Adam et Ève quand ils commettaient ce péché** ! Amen ! Est-ce que vous comprenez ? Parce que la condamnation a été placée sur ce péché. Et quand on était dans le sein d’Adam, on a tous commis ce péché. **Donc quand tu te repens et que Dieu te pardonne, tu es justifié. Cela veut dire que tu es pardonné, tu es déchargé de ta faute**. Amen ! **Et l’expérience qui suit cela**, **c’est la nouvelle naissance dans le royaume de Dieu**. Amen !
 
-**Désormais, tu as expérimenté la grâce de Dieu, mais en partie**. Quand je dis en partie, cela veut dire que maintenant, **tu es sur le chemin pour vivre la grâce**. Tu as expérimenté la grâce, tu es entré maintenant **dans la grâce de Dieu**. On t’appelle maintenant, **citoyen du royaume de Dieu, enfant de Dieu**. Amen ! Gens de la maison de Dieu. Amen ! Dans Mathieu 26 : 19-20, il est écrit : **faites les nations des disciples et baptisez-les au nom du Père, du Fils et du Saint-Esprit et enseignez-leur à garder mes commandements**. Amen ! La grâce doit être vécue. **Quand on l’a expérimentée, on doit maintenant la vivre**. Et pour expérimenter la grâce, il faut avoir la foi qui nous permet d’avoir accès à la grâce de Dieu. La foi en quoi ? **Dans le don gratuit, dans le sang de Christ qui nous a purifiés, lavés de nos péchés**. Amen !
+**Désormais, tu as expérimenté la grâce de Dieu, mais en partie**. Quand je dis en partie, cela veut dire que maintenant, **tu es sur le chemin pour vivre la grâce**. Tu as expérimenté la grâce, tu es entré maintenant **dans la grâce de Dieu**. On t’appelle maintenant, **citoyen du royaume de Dieu, enfant de Dieu**. Amen ! Gens de la maison de Dieu. Amen ! Dans Mathieu 28 : 19-20, il est écrit : **faites les nations des disciples et baptisez-les au nom du Père, du Fils et du Saint-Esprit et enseignez-leur à garder mes commandements**. Amen ! La grâce doit être vécue. **Quand on l’a expérimentée, on doit maintenant la vivre**. Et pour expérimenter la grâce, il faut avoir la foi qui nous permet d’avoir accès à la grâce de Dieu. La foi en quoi ? **Dans le don gratuit, dans le sang de Christ qui nous a purifiés, lavés de nos péchés**. Amen !
 
 Et quand tu expérimentes la grâce, cela veut dire que tu es né de nouveau, tu t’es repenti, on t’a pardonné, tu t’appelles maintenant chrétien. Amen ! **Maintenant la grâce de Dieu court toujours. Il faut la vivre parce qu’on vit la foi dans la grâce de Dieu. Dans la Bible, partout, c’est grâce sur grâce… grâce sur grâce**. **Mais c’est cela, on est sous la grâce. Il y a un temps de grâce. Oui** ! La grâce coule toujours comme de l’eau ! On vit toujours dans la grâce de Dieu. **Quand on est chrétien, on doit t’enseigner à vivre dans l’Assemblée de Dieu**. **L’enseignement pour vivre la grâce est différent de celui qu’on t’a donné quand tu venais dans la grâce**…
 
