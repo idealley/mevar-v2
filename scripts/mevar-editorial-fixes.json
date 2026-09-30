@@ -6631,6 +6631,12 @@
         "replace": "tu vas au Plateau (centre",
         "kind": "typo",
         "why": "the Plateau district of Abidjan, capitalised as earlier in the text"
+      },
+      {
+        "find": "Dans Mathieu 26 : 19-20, il est écrit",
+        "replace": "Dans Mathieu 28 : 19-20, il est écrit",
+        "kind": "word",
+        "why": "the preacher's slip: the verse he gives (« faites les nations des disciples et baptisez-les… ») is Matthieu 28:19-20 in the Segond database, not 26:19-20 (Samuel)"
       }
     ]
   },
