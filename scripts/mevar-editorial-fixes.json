@@ -8950,6 +8950,12 @@
     "title": null,
     "fixes": [
       {
+        "find": "**TRAITÉ : QUE PERSONNE NE MÉPRISE TA JEUNESSE**\n\n",
+        "replace": "",
+        "kind": "markup",
+        "why": "the header, whole: « Traité » becomes the subtitle, the title is the frontmatter's"
+      },
+      {
         "find": "Ce sont-là des révélations",
         "replace": "Ce sont là des révélations",
         "kind": "typo",
@@ -8961,7 +8967,8 @@
         "kind": "word",
         "why": "« à faire à » for « affaire à », a transcriber's slip"
       }
-    ]
+    ],
+    "subtitle": "Traité"
   },
   "markdown/onedrive/pdf/message.md": {
     "title": "Un Message sans Puissance",
