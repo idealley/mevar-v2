@@ -8347,7 +8347,7 @@
         "find": "> **22**. C’est pourquoi je vous dis que le sort du pays de Sodome",
         "replace": "> **24**. C’est pourquoi je vous dis que le sort du pays de Sodome",
         "kind": "typo",
-        "why": "the reading runs 21, 22, 23 and he announced verses 20 to 24: this is 24, not a second 22"
+        "why": "the reading's second « 22 » is the Sodome verse, 24 in Matthieu 11 (the Segond database: 11:24)"
       },
       {
         "find": "Donc, nous avons parlé de l’Évangile de grâce",
@@ -8653,31 +8653,31 @@
         "find": "des Cananéens, des Hétiens, des Amoréens",
         "replace": "des Cananéens, des Héthiens, des Amoréens",
         "kind": "typo",
-        "why": "biblical people misspelled; the Bible's spelling is « Héthiens »"
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
       },
       {
         "find": "des Héviens et des Jébbusiens ;",
         "replace": "des Héviens et des Jébusiens ;",
         "kind": "typo",
-        "why": "doubled b; « Jébusiens » as the text itself spells it in the Juges 1 reading"
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
       },
       {
         "find": "chez les Amoréens, les Hétiens, les Phéréziens",
         "replace": "chez les Amoréens, les Héthiens, les Phéréziens",
         "kind": "typo",
-        "why": "biblical people misspelled; the Bible's spelling is « Héthiens »"
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
       },
       {
         "find": "les Héviens et les Gébusiens, et",
         "replace": "les Héviens et les Jébusiens, et",
         "kind": "typo",
-        "why": "biblical people misspelled; « Jébusiens » as elsewhere in the text"
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
       },
       {
         "find": "les Cananéens et les Hétiens. Je ne les",
         "replace": "les Cananéens et les Héthiens. Je ne les",
         "kind": "typo",
-        "why": "biblical people misspelled; the Bible's spelling is « Héthiens »"
+        "why": "the Segond database's spelling (Exode 23:23, Juges 3:5: « Héthiens », « Jébusiens »)"
       }
     ],
     "subtitle": "Prêché à Lausanne le 24 janvier 2008"
@@ -9070,6 +9070,73 @@
         "why": "transcriber's slip: « Elle venue » for « Elle est venue »"
       }
     ],
-    "subtitle": "Exhortation du mois d’octobre 2006"
+    "subtitle": "Exhortation du mois d’octobre 2006",
+    "summary": "Dans cette exhortation d'octobre 2006, le frère M'bra dénonce les impuretés sexuelles et l'adultère dans les assemblées du Message du temps de la fin, qui ont enlevé la puissance de Dieu, et appelle la chaîne de prière au jeûne et à la repentance. Il y joint la prédication « Refusez l'Évangile sans Puissance ».",
+    "tags": [
+      "Exhortations",
+      "2006",
+      "Puissance de Dieu",
+      "Repentance",
+      "Impuretés sexuelles"
+    ],
+    "persons": [
+      "Paul",
+      "Timothée",
+      "Fidy"
+    ],
+    "places": [
+      "Côte d'Ivoire",
+      "Madagascar",
+      "Haïti",
+      "Europe",
+      "Afrique centrale",
+      "Afrique de l'ouest"
+    ],
+    "themes": [
+      "Impuretés sexuelles",
+      "Jeûne et prière",
+      "Repentance",
+      "Combat spirituel"
+    ],
+    "split": {
+      "at": "**REFUSEZ L’ÉVANGILE SANS PUISSANCE**\n\nPrêché à Soubré",
+      "until": "En Christ notre Seigneur",
+      "frontmatter": {
+        "sermon_id": "message-refusez-l-evangile-sans-puissance",
+        "title": "Refusez l’Évangile sans Puissance",
+        "subtitle": "Prêché à Soubré le 30 septembre 2006",
+        "date": "2006-09-30",
+        "year": 2006,
+        "location": "Soubré",
+        "preacher": "Parfait M'bra",
+        "summary": "Prêchée à Soubré, cette prédication refuse un Évangile de promesses sans expérience : le baptême de l'Esprit introduit dans le Corps de Christ ; comme la femme pécheresse chez le pharisien, il faut revenir au Seigneur dans la repentance pour retrouver la puissance de Dieu.",
+        "tags": [
+          "Prédications",
+          "2006",
+          "Puissance de Dieu",
+          "Baptême de l'Esprit",
+          "Repentance"
+        ],
+        "persons": [
+          "William Branham",
+          "Barilier",
+          "Job",
+          "Moïse",
+          "Samson",
+          "Élie",
+          "Abraham"
+        ],
+        "places": [
+          "Soubré",
+          "Abidjan"
+        ],
+        "themes": [
+          "Puissance de Dieu",
+          "Baptême de l'Esprit",
+          "Repentance",
+          "Réveil spirituel"
+        ]
+      }
+    }
   }
 }
