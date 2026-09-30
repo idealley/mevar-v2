@@ -157,7 +157,7 @@ Dans cet exposé, j’apporte des réponses aux questions récurrentes qui me so
 
 **Fr M’BRA Parfait**
 
-Question 1
+## Question 1
 
 **Frère M’BRA, nous avons appris que tu dis être un huitième Messager** ?
 
@@ -167,7 +167,7 @@ R :
 
 Quand j’ai parlé d’un huitième Messager, c’était en relation avec cette prophétie qui se trouve dans le livre de Michée 5. Je crois avoir répondu à cette question. Référez-vous à la Mise au Point sur la question du huitième Messager. Lisez aussi La Part du Huitième de notre frère Christian Kayenga. Ces deux documents sont sur notre site web : www.mevar.org dans la rubrique « **Autres brochures** ». Toutefois, ce que je voudrais dire en complément est que plusieurs frères ont diabolisé ce sujet dans leur esprit. Pour ceux-là : **huitième messager = Satan = séduction**. Dans un tel contexte, vous ne pouvez rien obtenir de Dieu. Et ils évoquent toujours le fait qu’il n’y a pas un huitième Messager pour un huitième âge. Moi non plus, je n’ai jamais dit et écrit qu’il existe un huitième Messager pour un huitième âge. **J’ai parlé de cette question seulement en rapport avec le combat contre Babylone**. **Celui qui ne reste pas dans le contexte de cette prophétie ne comprendra jamais ce que je dis sur ce sujet**.
 
-Question 2
+## Question 2
 
 **Pourquoi as-tu quitté l’Assemblée où tu priais ? Tu as créé ton assemblée, n’est-ce pas que tu as fini par obéir à la voix du démon qui t’avait demandé d’aller créer une église comme tu l’as dit dans ton livre sur les Ministères de la Parole** ?
 
@@ -179,7 +179,7 @@ Avec l’évolution des événements, nous avons compris pourquoi Dieu nous a fa
 
 L’expérience dont j’ai parlé dans mon livre n’a rien à voir avec l’assemblée de Koumassi. L’esprit qui m’avait fait la proposition a été lié dans des chaînes après mes moments de prière. Je l’ai bien dit mais ceux qui lisent ne font pas attention à cela. Et ce même esprit m’avait dit d’aller créer une église à Locodjro, à Yopougon, et non à Koumassi. Et moi, je n’ai jamais créé d’église à Locodjro – et je n’ai pas obéi à la voix d’un démon en allant à Koumassi. Cette expérience n’a rien à voir avec ce qui se passe en ce moment dans l’œuvre du réveil.
 
-Question 3
+## Question 3
 
 **Il existe un autre Ivoirien qui dit qu’il est le Cri de Minuit. Que dis-tu de cela** ?
 
@@ -197,9 +197,9 @@ Dans le désert, plusieurs faisaient du bruit et murmuraient, mais c’est Dieu 
 
 Lorsque je pense à toutes ces expériences dans la Bible, je n’ai rien à dire de quiconque prétend avoir un Ministère, **car Dieu a une manière de révéler Ses serviteurs et a aussi une manière de faire taire les clameurs et les murmures parmi Son peuple**. Et c’est cette manière qu’Il va utiliser pour faire taire toutes les clameurs qui s’élèvent sur la question du réveil à Minuit. Que la gloire soit au Seigneur.
 
-Question 4
+## Question 4
 
-## L’Église doit-elle attendre encore un autre Messager ?
+**L’Église doit-elle attendre encore un autre Messager** ?
 
 R : J’ai constaté que **la difficulté des frères sur ce sujet est qu’ils ne conçoivent pas dans leur esprit, d’autres Messagers dans l’Église que les Messagers des âges de l’Église**. Mais cette manière de penser ne vient pas de Dieu. Dieu a plusieurs Messagers qu’Il envoie à l’Église. C’est pourquoi il a existé de grands hommes de Dieu dans l’histoire de l’Église – des hommes dont les Ministères ont touché le monde entier et qui portaient de la part de Dieu un Message. Si on considère la répartition des temps prophétiques telle que présentée dans Marc 13, l’Église doit encore s’attendre à un Messager à Minuit parce qu’à cette heure, un Message est adressé à l’Église. Ce Message dit « **Voici l’Époux, sortez à sa rencontre** » Matth 25 :6.
 
@@ -225,15 +225,15 @@ La nouvelle dispensation dans laquelle nous nous trouvons s’appelle « **les
 
 En conclusion, à Minuit, un Messager se lève dans l’Église et son Message « **Voici l’Époux, sortez à sa rencontre** » est un Message de réveil adressé aux vierges, c’est-à-dire à l’Église dans son entièreté. Le Ministère de ce Messager va sélectionner les vierges sages, parce que c’est au Cri de Minuit que la différence est faite entre les vierges folles et les vierges sages. **Les unes vont acheter de l’huile tandis que les autres continuent la marche à la rencontre de l’Époux dans le témoignage**. (Matth 25 :6-13)
 
-Question 5
+## Question 5
 
-## Frère M’BRA, crois-tu au Ministère de frère Frank ?
+**Frère M’BRA, crois-tu au Ministère de frère Frank** ?
 
 R : Oui, je crois à cent pour cent au Ministère de frère Frank. Je n’en doute pas du tout. Cependant, je ne crois pas au Ministère de frère Frank comme plusieurs frères le croient, parce que Dieu m’a accordé une révélation particulière au sujet de ce Ministère. En effet, le Ministère du serviteur fidèle et prudent est comme **un pont jeté entre le commencement et la fin**. **Le commencement, qui est le Ministère de frère Branham et la fin qui est le réveil et l’enlèvement**. Celui qui se trouve au commencement doit passer par ce pont pour espérer arriver à la fin, dans le réveil et l’enlèvement. C’est pour cette raison que j’ai écrit trois fois dans un même document « Trois grandes visions du Message du Temps de la fin » que « **celui qui rejette le Ministère de frère Frank ne sera pas enlevé** ». Je ne peux pas renier ce que j’ai écrit par l’Esprit. Mais je ne fais pas partie de ceux qui croient que le serviteur fidèle et prudent est **infaillible**. **Moi, je ne crois pas dans un Ministère infaillible**. Le frère Frank lui-même parle « du Ministère infaillible » de William Branham. Ceci est très grave, parce que Jésus-Christ n’est plus honoré quand c’est à un homme qu’on attribue « un Ministère infaillible. » Que vaut un homme dans un Ministère ? Que vaut un homme dans l’œuvre du Saint-Esprit ? Avons-nous vraiment connu le Dieu qui nous utilise ?
 
 Tous ces propos et ces expressions qui conduisent à la vénération et au culte des Ministères ne m’intéressent pas parce que cela est démoniaque. **William Branham n’a pas eu de Ministère infaillible et Ewald Frank ne peut pas avoir de Ministère infaillible – seul le Seigneur Jésus-Christ a eu un Ministère infaillible. Si ne pas croire dans « l’infaillibilité du serviteur fidèle et prudent** » fait de moi un contestataire de son Ministère, c’est que je le suis.
 
-Question 6
+## Question 6
 
 **Peut-il exister deux Ministères particuliers en même temps ? Pourquoi toi et frère Frank ne vous entendez-vous pas** ?
 
@@ -243,7 +243,7 @@ Dans le Nouveau Testament, les choses ne sont pas ainsi. Là dans le Royaume de 
 
 Pierre et Paul ont œuvré dans des Ministères particuliers qui se trouvaient même dans l’appel du Seigneur Jésus. Mais ils ne travaillaient pas dans la même direction. L’un était apôtre des Juifs et l’autre apôtre des nations. Cela n’a causé aucun problème. Mais les problèmes surgissent lorsque certains serviteurs de Dieu enflés d’orgueil refusent de reconnaître les autres dans le champ, parce qu’ils veulent à eux seuls accomplir tout le travail de Dieu. C’est pour cette raison que nous avons tous besoin d’être délivrés de l’orgueil.
 
-Question 7
+## Question 7
 
 **Existe-t-il une différence entre le temps du Soir et Minuit** ?
 
@@ -251,7 +251,7 @@ R : Oui, il existe une différence entre le temps du Soir et l’heure de Minuit
 
 (Voir réponse n° 4, brochures Qui sera enlevé ? Mise au Point sur la question du huitième Messager)
 
-Question 8
+## Question 8
 
 **Est-ce que Marc 13 :34-37 doit-il s’accomplir avec l’Église ou avec Israël** ?
 
@@ -273,9 +273,9 @@ Le départ du Seigneur de la terre au ciel est considéré comme un voyage. **Et
 
 Dans Luc 12, parlant d’Israël, le Seigneur Jésus a dit : « **Et vous, soyez semblables à des hommes qui attendent que leur maître revienne des noces, afin de lui ouvrir dès qu’il arrivera et frappera**… » Cette prophétie est très claire. Elle concerne Israël à qui le Seigneur va se révéler **après les Noces de l’Agneau**. Le Seigneur en tant qu’Époux viendra se révéler aux Juifs après avoir fini les Noces avec Son Épouse dans le ciel. Mais dans Marc, il est question de la Maison de Dieu, c’est-à-dire de l’Église et des serviteurs de la Maison que sont les Ministres de la Parole avec tous les autres serviteurs de la Maison.
 
-Question 9
+## Question 9
 
-## Frère M’BRA, de quel combat contre Babylone parles-tu ?
+**Frère M’BRA, de quel combat contre Babylone parles-tu** ?
 
 R : Le combat contre Babylone dont je parle se trouve dans les prophéties bibliques. Je vous demande de regarder dans Apocalypse chapitre 6, dans les quatre premiers sceaux qui parlent de l’œuvre du cavalier antichrist.
 
@@ -313,9 +313,9 @@ La femme assise sur la bête est le symbole de l’esprit babylonien. Cet esprit
 
 Les prophéties parlent du combat contre Babylone, cela est clairement dit. La bête avec ses rois planifient de combattre contre l’Agneau et Ses serviteurs. Les chrétiens doivent le savoir pour agir en conséquence. **Notre combat contre Babylone, le combat dont je parle est dirigé contre les œuvres de ce démon dans l’Église, notamment, le formalisme, la tiédeur, le sommeil et l’assoupissement. Car ce sont ces démons qui ont enlevé la Puissance de Dieu à l’Église pour la conduire dans la séduction du péché**. Tout le corps de Christ est envahi par la tiédeur et le formalisme et les frères et sœurs sont plongés dans de fausses espérances spirituelles. Les choses ne peuvent pas continuer ainsi. Le peuple de Dieu doit se lever et se battre contre ces esprits pour redonner à l’Église la gloire de Jésus-Christ. C’est cela mon combat et mon appel.
 
-Question 10
+## Question 10
 
-## Les saints de l’Ancien Testament sont-ils incrédules ?
+**Les saints de l’Ancien Testament sont-ils incrédules** ?
 
 R : Non, les saints de l’Ancien Testament ne sont pas incrédules. N’est-ce pas que **le chapitre 11 d’Hébreux rend témoignage de la foi de plusieurs saints de l’Ancien Testament, à commencer par Abel** ?
 
@@ -335,7 +335,7 @@ Les saints de l’Ancien Testament ont vécu et sont morts dans la foi et ont ob
 
 C’est ce qui est écrit et c’est ce que je crois.
 
-Question 11
+## Question 11
 
 **Le sommeil et l’assoupissement ne sont-ils pas la volonté de Dieu** ?
 
@@ -363,13 +363,13 @@ R : La volonté de Dieu n’a jamais été dans le sommeil et l’assoupissement
 
 Dans toute la Bible, il est question de **veiller et prier** pour ne pas s’éloigner de Dieu et de Sa Parole. Là où l’Esprit de Dieu constate que les esprits sont endormis, il est exhorté au réveil. Le sommeil et l’assoupissement spirituels ne viennent pas de Dieu – ce sont les œuvres des démons dans la vie des chrétiens et de l’Église pour faire disparaître la Puissance de Dieu. Un prédicateur qui dit que le sommeil et l’assoupissement sont dans la volonté de Dieu est spirituellement mort – il ne vit pas seulement dans le sommeil, mais est spirituellement mort parce qu’il est enflé d’orgueil et ne reconnaît pas son état spirituel pour s’en repentir.
 
-Question 12
+## Question 12
 
 **Nous avons appris que tu as corrompu le frère Barilier pour prendre ton parti**.
 
 R : Il y a des frères qui veulent créer un esprit de rivalité entre moi et le frère Frank. Ceux-là sont animés par un esprit partisan. Je crois sincèrement que s’il s’agissait d’une affaire de corruption, le frère Frank serait mieux placé que moi pour corrompre le frère Barilier de prendre son parti. La vérité est que le frère Barilier avait reçu des révélations de la part du Seigneur sur le réveil de la fin des temps longtemps avant moi. Ce sont ces révélations que le Seigneur lui avait montrées depuis longtemps qui l’ont amené à prendre position dans cette œuvre. Toutes les initiatives que le frère Barilier a prises dans le cadre de cette œuvre ont été prises entre lui et le Seigneur, en tout cas pas de concert avec moi. Je ne crois pas l’avoir corrompu, mais c’est le Seigneur qui lui a parlé.
 
-Question 13
+## Question 13
 
 **Nous avons appris que tu casses les églises en Côte d’Ivoire** ?
 
@@ -411,13 +411,13 @@ Qu’en est-il de nous ? Pour le Christ, Il ne devrait pas juger les hommes se
 
 En conclusion, je ne casse pas les églises en Côte d’Ivoire, mais Satan répand sur moi beaucoup de nouvelles pour me rendre infréquentable. Car qui osera marcher avec quelqu’un qui casse les églises ?
 
-Question 14
+## Question 14
 
-## Es-tu celui qui présente l’Épouse au Seigneur ?
+**Es-tu celui qui présente l’Épouse au Seigneur** ?
 
 R : Non, je ne suis pas celui qui présente l’Épouse au Seigneur, et je ne sais pas s’il existe quelqu’un qui va présenter l’Épouse au Seigneur Jésus. Je fais partie des prédicateurs de l’enlèvement, appelés aussi « les amis de l’Époux » (Jn 3 :29). Mon Ministère consiste au contraire **à présenter l’Époux aux jeunes filles vierges pour les amener à s’attacher à Lui**. Je ne suis pas concerné par un Ministère qui présente l’Épouse au Seigneur. Par contre, le Seigneur Jésus m’a dit : « **Ton Ministère va révéler l’Épouse et ça sera une grande armée**. »
 
-Question 15
+## Question 15
 
 **Quelle est la différence entre les sept tonnerres et la révélation des sept sceaux** ?
 
@@ -441,19 +441,19 @@ On a rapporté ce passage à Apocalypse 11 :15, mais en examinant à fond ce tex
 
 Je sais que dans les temps où le frère Branham a reçu la révélation des sept sceaux, il a été visité par sept anges et il a aussi entendu 7 coups de tonnerre. Est-ce que les 7 coups de tonnerre que le prophète a entendus sont les 7 tonnerres d’Apocalypse 10 ? Je ne le sais. Mais il est évident que les 7 anges ont révélé les 7 sceaux pour éclairer ce qui concerne l’Église et aussi Israël. Je ne peux pas établir de liens entre les 7 tonnerres d’Apocalypse 10 et les 7 sceaux comme le prophète l’a fait parce que je n’étais pas dans l’environnement des visions qu’il a reçues.
 
-Question 16
+## Question 16
 
 **Est-ce que les serviteurs de Dieu célibataires peuvent-ils bénir les mariages** ?
 
 R : L’apôtre Paul était un célibataire et pourtant il est l’apôtre qui a le plus écrit sur le mariage. (1 Cor 7). Par là, nous devrons comprendre que le Ministère n’est pas relié à la condition du mariage. Un pasteur célibataire peut bénir un mariage. Mais pour le témoignage, le pasteur qui n’a pas fait de vœu de célibat doit être marié le plus tôt possible pour mieux appréhender les problèmes spirituels liés aux couples dans l’assemblée.
 
-Question 17
+## Question 17
 
-## Comment doit-on faire les jeûnes collectifs ?
+**Comment doit-on faire les jeûnes collectifs** ?
 
 R : J’ai déjà traité ce sujet dans la brochure Sommeil et Assoupissement Spirituels. Je voudrais reproduire ici ce que j’ai déjà écrit concernant ce sujet.
 
-## Les jeûnes collectifs
+### Les jeûnes collectifs
 
 Les jeûnes collectifs sont intervenus dans la vie communautaire des Israélites à des moments particuliers. Je donnerai quelques exemples.
 
@@ -521,7 +521,7 @@ Ces moments de jeûnes avaient consolidé les acquis du réveil qui s’opérait
 
 Lorsque les jeûnes collectifs sont publiés, ils doivent se faire autour d’un sujet de prière bien précis, connu de tous pour ne pas disperser les prières. On ne jeûne pas pour jeûner, mais le jeûne doit répondre à un besoin collectif précis. C’est pourquoi les pasteurs qui prennent ce genre d’initiative doivent expliquer au peuple de Dieu la situation pour l’amener à prendre à cœur l’initiative. Il faut toujours expliquer la situation au peuple de Dieu pour l’amener à réussir le jeûne.
 
-Question 18
+## Question 18
 
 **Que représentent le Cri de commandement, la voix de l’archange et le son de la trompette** ?
 
@@ -547,19 +547,19 @@ Les trompettes annoncent le Roi des rois et le Seigneur des seigneurs. Les tromp
 
 > Et l’ange me dit : Écris : **Heureux ceux qui sont appelés au festin de noces de l’agneau** ! Et il me dit : Ces paroles sont les véritables paroles de Dieu. (Apoc 19:9)
 
-Question 19
+## Question 19
 
 **Le Seigneur a dit « Sur cette pierre, je bâtirai mon Église ! » Pourquoi la vôtre a un nom** ?
 
 R : Je n’ai pas d’église qui porte un nom. Mais je dirige une œuvre missionnaire reliée directement à mon Ministère qui a été déclarée auprès des autorités sous l’appellation « **Mission d’Évangélisation et de Réveil** ». Je ne suis pas le chef d’une communauté religieuse ou d’une dénomination.
 
-Question 20
+## Question 20
 
 **J’ai besoin d’éclaircissement sur les chiffres dans la Bible**.
 
 R : Je ne connais pas beaucoup de choses sur les chiffres dans la Bible. Je ne connais pas non plus d’enseignements particuliers sur ce sujet.
 
-Question 21
+## Question 21
 
 **Est-ce que quelqu’un qui est né de nouveau peut-il avoir des hauts et des bas** ?
 
@@ -579,9 +579,9 @@ Tout chrétien qui vient à la foi doit grandir pour être un fils de Dieu – u
 
 Lorsque cela n’est pas le cas, on a des hauts et des bas.
 
-Question 22
+## Question 22
 
-## Un homme peut-il prendre pour femme sa cousine ?
+**Un homme peut-il prendre pour femme sa cousine** ?
 
 R : La question des alliances entre gens de la même famille a évolué dans la Bible. Au commencement, les enfants d’Adam et Ève se sont mariés entre eux pour que le monde se multiplie. À cette époque, il n’était pas question d’inceste. Abraham a marié sa sœur Sara. Isaac son fils a marié sa cousine. Jacob a marié ses deux cousines. Mais lorsque les hommes sont devenus nombreux sur la terre, Dieu par la loi a commencé à déterminer des lois sur le mariage et les unions. Dans Lévitique 18, plusieurs versets ont été publiés à ce sujet :
 
@@ -615,7 +615,7 @@ R : La question des alliances entre gens de la même famille a évolué dans la 
 
 Aujourd’hui en Christ, je pense qu’il n’est pas convenable de marier sa cousine. Un chrétien doit s’attacher à une sœur dans l’Assemblée de Jésus-Christ et non à sa proche parente. Dans le monde des païens, cela se fait selon les coutumes, mais en Christ, cela n’est pas convenable. C’est mon avis.
 
-Question 23
+## Question 23
 
 **Quand on lit Matthieu 25 :6, on constate que toutes les vierges sont assoupies et endormies, d’où vient-il qu’un Ministère doit les réveiller ? Ce Ministère ne dort-il pas aussi** ?
 
@@ -625,13 +625,13 @@ La sentinelle qui crie au réveil à Minuit est un ami de l’Époux qui s’adr
 
 **Martin Luther, le Messager de la réformation** était un moine catholique, mais Dieu l’a mis à part par la révélation et l’a utilisé pour attaquer les pratiques démoniaques de l’Église catholique. William Branham était un jeune pasteur baptiste, donc il était dans la dénomination, mais Dieu l’a mis à part par la révélation et l’a utilisé pour condamner les églises organisées, c’est-à-dire les dénominations. C’est ainsi que Dieu travaille dans Son Église.
 
-Question 24
+## Question 24
 
 **Quelle est la position de frère Frank pour vous aujourd’hui** ?
 
 R : Moi je ne comprends pas la position de frère Frank aujourd’hui. C’est Dieu Seul qui sait ce qu’il est en train de faire.
 
-Question 25
+## Question 25
 
 **Réveillez-vous l’Épouse avec le Message de frère Branham ou avez-vous un autre Message** ?
 
@@ -643,7 +643,7 @@ R : Je voudrais répondre à cette question avec une déclaration du Seigneur J�
 
 En conclusion, je ne prêche pas le Message de Branham parce que je ne connais pas un Message de Branham. Je connais le Message du Temps de la Fin – le Message de l’enlèvement que William Branham a prêché. C’est aussi ce Message que l’apôtre Paul a prêché et c’est cela qui va préparer les vierges sages pour l’enlèvement. Je n’ai pas un Message à moi ou une doctrine particulière. **Mais j’ai une Commission divine avec une onction pour réveiller par la prédication, les esprits des candidats à l’enlèvement endormis**.
 
-Question 26
+## Question 26
 
 **Pourquoi utilisez-vous la version Darby et d’autres versions de la Bible ? Vous êtes un séducteur**.
 
@@ -657,7 +657,7 @@ R : Je vous invite à lire ce qui est écrit au sujet des séducteurs et de la s
 
 Aucune des nombreuses versions de la Bible n’est parfaite au sens que Dieu le veut, mais par le Saint-Esprit, les vrais serviteurs de Dieu se retrouvent en méditant pour recevoir le Message divin pour le Peuple de Dieu. Si vous faites partie de ceux qui font seulement la promotion de la version Darby et qui brûlent toutes les autres versions de la Bible, je vous conseille d’abandonner cette voie parce que ce n’est pas là l’œuvre de Dieu. L’œuvre de Dieu n’a jamais consisté à brûler des versions de la Bible, mais à proclamer le Message divin aux âmes pour leur salut.
 
-Question 27
+## Question 27
 
 **Est-ce qu’on peut prendre deux fois le baptême au nom de Jésus** ?
 
@@ -677,7 +677,7 @@ Il faut reconnaître que dans le milieu des croyants issus du Message du Temps d
 
 C’est en agissant ainsi, comme la Bible le dit, qu’on doit dénoncer les œuvres des ténèbres (Eph 5 :10-11), qu’une vraie délivrance s’opère dans la vie des baptisés, et que par cela, ils reçoivent la force de marcher dans la nouvelle voie qui leur est ouverte. Lorsque cela n’est pas fait, les baptisés après leur engagement retournent dans les œuvres des ténèbres, sous la domination de leurs anciens maîtres. C’est pour cette raison que je crois qu’il ne faut pas refuser de rebaptiser un frère ou une sœur qui veut reprendre son baptême, car il se peut faire qu’un tel frère ou qu’une telle sœur n’ait rien compris depuis le commencement.
 
-Question 28
+## Question 28
 
 **J’ai appris qu’un malentendu s’est glissé entre le frère Frank et vous-même** :
 

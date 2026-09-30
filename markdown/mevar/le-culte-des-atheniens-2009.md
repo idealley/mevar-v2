@@ -3,7 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/leculte.md"
 sermon_id: "leculte"
 title: "Le culte des Athéniens"
-subtitle: "Prêché le lundi 28 septembre 2009 à l’assemblée de Mamayemo"
+subtitle: "Prêché le lundi 28 septembre 2009 à l’Assemblée de Mamayemo"
 date: "2009-09-28"
 year: 2009
 location: "Kinshasa (RDC)"
@@ -119,7 +119,7 @@ Jésus a dit : « Je vous donne ma paix, pas comme le monde donne. » C’est-à
 
 Barilier est mort… Il y a un mois, c’est la nouvelle qu’on avait reçue en Côte d’Ivoire. Barilier est mort. Il y a un frère qui m’a appelé. « Tu as appris la nouvelle ? » Il dit : « Il y a une sœur qui est venue de l’Europe et qui a dit que le frère Barilier est mort. » Vous savez, les Athéniens aimaient les nouvelles. La Bible dit qu’ils aimaient les nouvelles, ils aimaient recevoir les nouvelles. Barilier est mort. J’ai dit : « Ce que je sais, c’est qu’on a une convention à Pointe-Noire. Je ne sais pas s’il est mort maintenant, je vais l’appeler pour vérifier l’information. » J’appelle, le frère prend le téléphone. J’ai dit : « Frère Barilier, tu n’es pas mort ? » Il dit : « Non ! » J’ai dit : « Je viens d’apprendre que tu es mort. » Il dit : « Ah bon ! » J’ai dit : « OK ! » Trois jours après, un autre m’appelle. Il dit : « Frère, on a appris que frère Barilier est mort. » Vous savez, c’est le culte des Athéniens.
 
-Les gens sont dans Athènes. Ils aiment les nouvelles, la philosophie ; ils sont heureux de donner des nouvelles, de recevoir des nouvelles. « Tu as appris la nouvelle ? Franck et Lifese, ça ne va pas ! » C’est la déchirure, ce sont des combats. L’église est divisée. Et c’est la principale… ils sont contents de répandre la nouvelle parce que c’est cela qui fait leur culte, leur adoration. C’est comme cela. Ils ont cet esprit en eux, de répandre les mauvaises nouvelles. Ce sont les mauvaises nouvelles, ils ne répandent pas la bonne nouvelle. Ce sont des mauvaises nouvelles. « Tu as appris… il est entré dans le cri de Minuit, dans l’affaire de M’BRA. »
+Les gens sont dans Athènes. Ils aiment les nouvelles, la philosophie ; ils sont heureux de donner des nouvelles, de recevoir des nouvelles. « Tu as appris la nouvelle ? Franck et Lifese, ça ne va pas ! » C’est la déchirure, ce sont des combats. L’église est divisée. Et c’est la principale… ils sont contents de répandre la nouvelle parce que c’est cela qui fait leur culte, leur adoration. C’est comme cela. Ils ont cet esprit en eux, de répandre les mauvaises nouvelles. Ce sont les mauvaises nouvelles, ils ne répandent pas la bonne nouvelle. Ce sont des mauvaises nouvelles. « Tu as appris… il est entré dans le cri de minuit, dans l’affaire de M’BRA. »
 
 J’ai appris beaucoup de nouvelles qui me concernent ici. Je suis vraiment dans Athènes ? Parce que j’ai reçu ici des nouvelles, beaucoup de nouvelles sur mon compte. Moi-même, je ne suis pas au courant. C’est malheureux, frères. Le Message, c’est la vie d’Athènes. Ils viennent au culte, des nouvelles, des informations, le culte des personnes, des statues, des images ; ils aiment cela mais quand on veut les transporter dans les choses spirituelles, pour dire : « Allons dans la résurrection » ; ils disent : « Quelqu’un est ressuscité ? Mais il faut démontrer cela. »
 

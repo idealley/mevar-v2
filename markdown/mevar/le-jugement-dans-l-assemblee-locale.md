@@ -137,13 +137,13 @@ Le jugement est défini comme la manifestation de la colère de Dieu. Dans ce se
 
 > Alors l’Éternel fit pleuvoir du ciel sur Sodome et Gomorrhe du soufre et du feu venant de l’Éternel. (Gen 19:24)
 
-### Deux
+DEUX
 
 Le jugement est le règlement d’un différend opposant deux frères ou un couple ou l’examen d’une affaire (problème de péché, mauvais témoignage) concernant un frère, à la lumière des Saintes Écritures. C’est dans ce sens que les frères et sœurs de la communauté sont jugés. C’est en cela que Paul écrit en ces termes :
 
 > Je le dis à votre honte. Ainsi, parmi vous, il n’y a pas un seul homme sage qui puisse prononcer un jugement entre ses frères. (1 Cor 6:5)
 
-### Trois
+TROIS
 
 Le jugement est aussi le fait d’incriminer son prochain, son frère ou sa sœur en Christ sans raison valable, sur ses opinions, lui priver de son droit à la liberté en Christ, le mépriser ou le calomnier à cause de ses opinions.
 
@@ -233,7 +233,7 @@ Aujourd’hui, dans les assemblées, les amitiés, les affinités et les présen
 
 ## Base doctrinale du jugement
 
-La procédure de Matthieu 18
+### La procédure de Matthieu 18
 
 > Si ton frère a péché, va et reprends-le entre toi et lui seul. S’il t’écoute, tu as gagné ton frère.
 >
@@ -249,7 +249,7 @@ La procédure de Matthieu 18
 
 L’enseignement de Jésus dans Matthieu 18 comporte quatre étapes.
 
-Première étape
+### Première étape
 
 **l’Affaire se trouve entre le fautif et celui qui l’a découvert dans la faute**
 
@@ -265,7 +265,7 @@ C’est ainsi. Celui qui se livre à la calomnie contre son frère pour l’avoi
 
 Si ton frère t’écoute, tu l’auras gagné. Si après t’avoir écouté, il arrivait qu’il tombe à nouveau dans le même péché, tu iras à nouveau vers lui dans le secret.
 
-Deuxième étape
+### Deuxième étape
 
 **L’Affaire se trouve entre le fautif – celui qui l’a découvert dans le péché et deux témoins**
 
@@ -273,7 +273,7 @@ Deuxième étape
 
 La deuxième étape de l’enseignement de Jésus intervient lorsque celui qui a péché refuse d’écouter dans le secret, celui qui l’a découvert dans le péché. Dans ce cas, il y a nécessité d’avoir recours à des témoins pour la suite des événements. Alors deux ou trois témoins doivent être informés sur la vie du frère afin de lui parler. Lorsque le frère qui mérite d’être repris refuse d’écouter le frère qui l’a découvert dans le péché et les témoins, l’affaire doit être portée devant l’église qui doit juger. Mais si le frère reconnaît avoir mal agi, la procédure doit automatiquement s’arrêter à ce niveau. Si à l’avenir, il était surpris dans la même faute, celui qui l’a surpris devrait aller vers lui à nouveau et non point divulguer la vie d’un tel frère. Car l’objectif n’est pas d’arriver à sanctionner un frère, mais plutôt l’aider à sortir des griffes de l’ennemi.
 
-Troisième étape
+### Troisième étape
 
 **L’affaire se trouve devant l’église**.
 
@@ -295,7 +295,7 @@ Dans la Bible, c’est l’assemblée qui sanctionne ses membres. Mais la commun
 
 > **Souvenez-vous que si quelque chose arrive dans l’église… si vous devez aller chercher le pasteur pour le conduire vers la personne, et qu’elle ne veut toujours pas écouter, alors exposez la chose devant l’église. Donnez-lui un délai pour se réconcilier, peut-être d’un dimanche à l’autre. Et s’il ne veut pas écouter l’église, alors la Bible dit « qu’il soit comme un païen et un publicain** ». Brochure Chapitre cinq page 6/ paragraphes 38-39.
 
-Quatrième étape
+### Quatrième étape
 
 ## Les sanctions
 
@@ -441,6 +441,6 @@ Jean dit :
 
 Les jugements et les sanctions n’ont pas seulement lieu pour ceux qui vivent dans le péché parmi les saints, mais aussi pour ceux qui persistent dans l’enseignement des fausses doctrines. Car le peuple de Dieu n’a point besoin d’entendre l’erreur. Malgré tout le respect que le peuple de Dieu doit à un serviteur de Dieu, il doit se séparer de lui s’il emprunte une voie qui n’est pas la voie de Dieu en vivant dans le péché ou en prêchant de fausses doctrines. Hyménée et Alexandre furent livrés à Satan par Paul parce qu’ils prêchaient une fausse doctrine qui renversait la foi de plusieurs dans l’Église. (2 Tim 4/9). Ces deux-là ne pouvaient plus se trouver avec Paul alors qu’ils prêchaient une doctrine de démon. Une telle chose est en abomination devant le Seigneur. C’est pourquoi lorsqu’un homme de Dieu est lié par un péché qui le tient assujetti, ou est sous l’influence d’un mauvais esprit ou manque de lumière dans l’enseignement et la prédication, qu’il s’asseye pour être guéri avant de continuer le service divin. Qu’il s’éloigne de la chaire, sinon à cause de sa position, le levain du péché se lèvera dans le peuple et la chaire qu’il utilise dans le péché le jugera.
 
-Conclusion
+## Conclusion
 
 Il faut retenir que c’est la Parole de Dieu qui juge les enfants de Dieu. En conséquence, tout jugement doit être prononcé selon la Parole de Dieu, par les serviteurs de Dieu, établis dans l’assemblée locale comme des juges. Devant la Parole de Dieu, tous les membres du Corps de Christ sont égaux. Nul n’est au-dessus de la Parole de Dieu. Par ailleurs, dans l’assemblée locale, nul n’a le droit de juger son frère sur ses opinions ou ses points de vue sur des questions qui ne relèvent pas de la doctrine biblique ou du péché, conformément à Romains 14. Les sanctions qui sont prises à l’issue des jugements doivent être exécutées dans l’amour pour toujours ramener celui qui s’égare dans la communauté.
