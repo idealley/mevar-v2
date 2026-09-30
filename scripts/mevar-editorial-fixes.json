@@ -9330,9 +9330,9 @@
       },
       {
         "find": "la chaîne de prière est dans Ésaïe 62** : **1/C’est écrit.",
-        "replace": "la chaîne de prière est dans Ésaïe 62** : **1. C’est écrit.",
+        "replace": "la chaîne de prière est dans Ésaïe 62 : 1. C’est écrit.",
         "kind": "typo",
-        "why": "stray « / » for a full stop"
+        "why": "stray « / » for a full stop; the bold, split by the PDF around « : », joined so the reference reads whole (every word keeps its bold)"
       },
       {
         "find": "à Lausanne, en France etc/Il y a même",
