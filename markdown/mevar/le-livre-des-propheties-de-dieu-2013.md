@@ -46,6 +46,7 @@ bible_refs:
   - "Luc 17"
   - "Luc 21"
   - "Marc 13"
+  - "Jérémie 36:1-7"
   - "2 Thessaloniciens 2"
   - "Ézéchiel 9"
   - "Malachie 4:5"

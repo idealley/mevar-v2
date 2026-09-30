@@ -46,7 +46,7 @@ themes:
   - "États-Unis dans la prophétie"
 llm_cleaned: true
 bible_refs:
-  - "Ésaïe 21"
+  - "Ésaïe 21:6-10"
   - "2 Samuel 18:24"
   - "2 Samuel 18:26-27"
   - "Ézéchiel 33"
@@ -65,6 +65,7 @@ bible_refs:
   - "Daniel 7:25"
   - "Apocalypse 13:5-8"
   - "Matthieu 24:14"
+  - "2 Thessaloniciens 2:6-8"
   - "Apocalypse 17"
   - "2 Thessaloniciens 2:4"
   - "1 Corinthiens 3:16"

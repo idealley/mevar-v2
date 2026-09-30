@@ -61,7 +61,7 @@ bible_refs:
   - "Romains 10"
   - "Actes 9"
   - "Actes 8"
-  - "Jean 6"
+  - "Jean 6:1-2"
   - "Jean 12:37"
   - "Matthieu 11"
   - "Matthieu 11:20-24"

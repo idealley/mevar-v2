@@ -53,6 +53,7 @@ bible_refs:
   - "Ésaïe 13"
   - "Malachie 4"
   - "Matthieu 24"
+  - "Apocalypse 6:15-16"
   - "Apocalypse 13"
   - "Apocalypse 17"
   - "Apocalypse 13:3"

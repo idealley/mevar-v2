@@ -42,7 +42,7 @@ local_pdf: "/files/mevar/4_eprouvez_les_signes_05_01_20.pdf"
 llm_cleaned: true
 bible_refs:
   - "Matthieu 21"
-  - "1 Jean 4"
+  - "1 Jean 4:1-3"
   - "1 Corinthiens 14"
   - "1 Corinthiens 13"
   - "Ésaïe 40"
