@@ -1,13 +1,14 @@
 ---
 source: "onedrive"
-source_path: "onedrive/pdf/planattaque2.md"
-sermon_id: "planattaque2"
+source_path: "onedrive/pdf/planattaque2-plan-d-attaque-ii.md"
+sermon_id: "planattaque2-plan-d-attaque-ii"
 title: "Plan d’attaque II"
+subtitle: "Prêché le dimanche 15 novembre 2009 à l’assemblée de Koumassi"
 date: "2009-11-15"
 year: 2009
 location: "Koumassi"
 preacher: "Parfait M'bra"
-summary: "Le prédicateur poursuit l'enseignement sur le plan d'attaque de Dieu contre Satan, expliquant que la vie de sainteté des croyants est la stratégie divine pour faire tomber Babylone. Il détaille le combat spirituel, les ruses de l'ennemi, et l'importance de la compréhension et de la persévérance pour atteindre l'objectif d'une Église sans tache et d'un témoignage puissant au monde."
+summary: "Le prédicateur poursuit l'enseignement sur le plan d'attaque de Dieu contre Satan : la vie de sainteté des croyants est la stratégie divine pour faire tomber Babylone. Il détaille le combat spirituel, les ruses de l'ennemi, la compréhension et la persévérance pour atteindre une Église sans tache et un témoignage puissant au monde."
 tags:
   - "Prédications"
   - "2009"
@@ -46,7 +47,8 @@ themes:
   - "Persévérance des saints"
   - "Témoignage au monde"
   - "Œcuménisme"
-llm_cleaned: true
+published_with: "mevar/plan-d-attaque-ii-novembre-2009"
+editorial_pass: "2026-10-01"
 bible_refs:
   - "Éphésiens 6:10-12"
   - "Éphésiens 5"
@@ -57,16 +59,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 13:12-14"
   - "Ésaïe 40"
-editorial_pass: "2026-09-30"
 ---
-**Mes chers amis**,
-
-Que la grâce et la paix du Seigneur soient avec nous tous. Je vous adresse la prédication « **PLAN D’ATTAQUE II** ». **Je voudrais déjà vous dire que le plan d’attaque de Dieu contre Satan aujourd’hui, c’est notre vie**. Notre vie de sainteté est le plan d’attaque que Dieu prépare contre Son adversaire le diable. **Nous sommes la stratégie de Dieu contre Babylone. En effet, c’est par notre vie de sainteté et par notre prédication que Babylone va s’écrouler. Jésus notre Maître a vaincu le monde par la sainteté et par la prédication**. **Nous vaincrons aussi par la sainteté et par la prédication**. C’est pourquoi chacun d’entre nous doit se laisser préparer, car nous sommes le plan de Dieu – la stratégie de Dieu. Que Dieu nous bénisse !
-
-## Plan d’attaque II
-
-**Prêché par le frère M’BRA Parfait le dimanche 15 novembre 2009 à l’assemblée de Koumassi**
-
 Amen ! Que le Seigneur nous bénisse ! Est-ce qu’il y a des gens qui sont là pour la première fois ? Les personnes invitées parmi nous… Je vais poursuivre un peu ce qui a été dit le dimanche passé, amen ! On va continuer un peu là-dessus parce qu’il y a des choses qui me sont venues. C’est vrai qu’on a parlé dans les principes, mais de manière détaillée, pratique, il y a certaines choses qu’on aurait pu dire parce qu’on a parlé de stratégie. Amen ! Il faut ramener cela à nous pour comprendre certaines choses. Donc on va continuer. Plan d’attaque. C’est de cela qu’on a parlé le dimanche passé et ce matin encore, on va revenir là-dessus. On repart dans le texte de base qu’on a lu dans Éphésiens chapitre 6 du verset 10 au verset 12. On peut lire jusqu’au verset 13.
 
 > Au reste, fortifiez-vous dans le Seigneur, et par sa force toute-puissante. Revêtez-vous de toutes les armes de Dieu, afin de pouvoir tenir ferme contre les ruses du diable. Car nous n’avons pas à lutter contre la chair et le sang, mais contre les dominations, contre les autorités, contre les princes de ce monde de ténèbres, contre les esprits méchants dans les lieux célestes. C’est pourquoi, prenez toutes les armes de Dieu, afin de pouvoir résister dans le mauvais jour, et tenir ferme après avoir tout surmonté.

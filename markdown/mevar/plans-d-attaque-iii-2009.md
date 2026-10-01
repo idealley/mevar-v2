@@ -52,7 +52,7 @@ bible_refs:
   - "2 Corinthiens 11:2"
   - "Actes 13:1"
   - "Actes 13"
-editorial_pass: "2026-09-30"
+editorial_pass: "2026-10-01"
 ---
 Nous vous saluons au Nom du Seigneur. Ce matin, nous allons continuer sur LES PLANS D’ATTAQUE. C’est un titre. Nous sommes à la troisième prédication. Est-ce qu’il y a des gens qui nous rendent visite ce matin, des personnes qui sont là pour la première fois ? [On procède à la présentation des invités du jour Réd.] Que le Seigneur nous bénisse ! Je voudrais continuer sur ce sujet ; il y a beaucoup de choses à dire là-dessus. Et je crois aussi que la prédication du réveil, de manière générale, a déjà abordé ces questions. Seulement, on voudrait y revenir sous forme de rappel en y mettant un accent particulier. Pour ceux qui n’étaient pas là le dimanche passé, vraiment je vous exhorte, si vous avez les moyens d’écouter, à récupérer la prédication sur la clé (USB qui enregistre les prédications audio) de l’Église pour écouter. Ou bien voyez le frère Arnaud pour copier le film pour pouvoir le regarder, parce que nous avons écouté une parole vraiment importante… Il aurait fallu que tous entendent ça. Amen ! Il est bon d’écouter et de réécouter les prédications.
 
@@ -66,7 +66,7 @@ Amen !
 
 Maintenant, on lit dans Romains 10 du verset 14 au verset 17 :
 
-> **Comment donc invoqueront-ils celui en qui ils n’ont pas cru ? Et comment croiront-ils en celui dont ils n’ont pas entendu parler** ? Et comment en entendront-ils parler, s’il n’y a personne qui prêche ? Et comment y aura-t-il des prédicateurs, s’ils ne sont pas envoyés ? Selon qu’il est écrit : Qu’ils sont beaux Les pieds de ceux qui annoncent la paix, De ceux qui annoncent de bonnes nouvelles ! Et comment y aura-t-il des prédicateurs, s’ils ne sont pas envoyés ? Selon qu’il est écrit : Qu’ils sont beaux Les pieds de ceux qui annoncent la paix, De ceux qui annoncent de bonnes nouvelles ! Mais tous n’ont pas obéi à la bonne nouvelle. Aussi Ésaïe dit-il : Seigneur, Qui a cru à notre prédication ? Ainsi la foi vient de ce qu’on entend, et ce qu’on entend vient de la parole de Christ.
+> **Comment donc invoqueront-ils celui en qui ils n’ont pas cru ? Et comment croiront-ils en celui dont ils n’ont pas entendu parler** ? Et comment en entendront-ils parler, s’il n’y a personne qui prêche ? Et comment y aura-t-il des prédicateurs, s’ils ne sont pas envoyés ? Selon qu’il est écrit : Qu’ils sont beaux Les pieds de ceux qui annoncent la paix, De ceux qui annoncent de bonnes nouvelles ! Mais tous n’ont pas obéi à la bonne nouvelle. Aussi Ésaïe dit-il : Seigneur, Qui a cru à notre prédication ? Ainsi la foi vient de ce qu’on entend, et ce qu’on entend vient de la parole de Christ.
 
 Amen !
 

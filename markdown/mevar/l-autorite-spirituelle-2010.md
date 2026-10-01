@@ -4,8 +4,8 @@ source_path: "onedrive/pdf/pred_sept2010.md"
 sermon_id: "pred_sept2010"
 title: "L’autorité spirituelle"
 subtitle: "Prêché le dimanche 22 août à Koumassi"
-date: "2014-08-22"
-year: 2014
+date: "2010-08-22"
+year: 2010
 location: "Koumassi"
 preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que l'autorité spirituelle vient de Dieu et doit être respectée dans l'Église. Il utilise des exemples bibliques (Moïse, Aaron, Élisée) pour montrer les conséquences de la rébellion contre l'autorité établie par Dieu. Il exhorte les croyants à se soumettre aux serviteurs de Dieu et à ne pas contester leur autorité."
@@ -56,7 +56,7 @@ bible_refs:
   - "Matthieu 18"
   - "Romains 13"
   - "Marc 16"
-editorial_pass: "2026-09-30"
+editorial_pass: "2026-10-01"
 ---
 Que Dieu soit béni ! Alors, on va lire. Je prendrai mon temps comme la dernière fois. Amen ! C’est pour cela qu’on commence maintenant. L’autorité spirituelle. On lira beaucoup, mais je ne vais pas m’attarder sur les versets bibliques que nous connaissons déjà. Amen ! Alors, je commence par définir l’autorité. Qu’est-ce que c’est que l’autorité ? On va lire Romains chapitre 13 à partir du premier verset :
 

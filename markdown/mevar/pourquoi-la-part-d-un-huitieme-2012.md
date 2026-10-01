@@ -129,11 +129,19 @@ bible_refs:
   - "Matthieu 25:5"
   - "Apocalypse 3:14-19"
   - "Ésaïe 40:9"
-editorial_pass: "2026-09-30"
+editorial_pass: "2026-10-01"
 ---
-Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole que notre frère Paul a adressée aux Éphésiens au chapitre 5 : « **Rachetez le temps, car les jours sont mauvais**. » (Eph 5:16) C’est avec beaucoup de reconnaissance au Seigneur Jésus que je vous adresse cette parole d’avertissement. En effet, mes regards s’y portent depuis quelque temps déjà et je m’efforce de l’appliquer à moi-même. Car nous sommes dans ce temps où chacun d’entre nous doit vraiment racheter son temps. Cette exhortation est très profonde. Oui ! Les paroles de Dieu sont devenues profondes pour nous qui, par la grâce de Dieu, avons acquis de la profondeur dans notre génération.
+Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole que notre frère Paul a adressée aux Éphésiens au chapitre 5 :
 
-En effet, la profondeur n’appelle-t-elle pas la profondeur ? Si ! La profondeur appelle la profondeur. C’est pourquoi tous ceux qui ont des aspirations profondes dans ces temps seront comblés. C’est ce qui est écrit dans Matthieu 5, le verset 6 : « **Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés !** » **Dans notre génération, tous ceux qui ont faim et soif de vertus, de qualités ou de dons spirituels seront rassasiés. Tous ceux qui ont faim et soif de la justice seront exaucés**. **Ceux qui ont faim et soif de sainteté, d’amour, de paix et de miséricorde seront exaucés**. Dieu fera en sorte que toutes les profondeurs qui sont en nous soient remplies. **C’est pourquoi la profondeur appelle la profondeur. Ceux qui ont faim et soif de la connaissance de Dieu seront rassasiés**. Car ils connaîtront le Seigneur dans la Parole et dans l’expérience de la Parole.
+> **Rachetez le temps, car les jours sont mauvais**. (Eph 5:16)
+
+C’est avec beaucoup de reconnaissance au Seigneur Jésus que je vous adresse cette parole d’avertissement. En effet, mes regards s’y portent depuis quelque temps déjà et je m’efforce de l’appliquer à moi-même. Car nous sommes dans ce temps où chacun d’entre nous doit vraiment racheter son temps. Cette exhortation est très profonde. Oui ! Les paroles de Dieu sont devenues profondes pour nous qui, par la grâce de Dieu, avons acquis de la profondeur dans notre génération.
+
+En effet, la profondeur n’appelle-t-elle pas la profondeur ? Si ! La profondeur appelle la profondeur. C’est pourquoi tous ceux qui ont des aspirations profondes dans ces temps seront comblés. C’est ce qui est écrit dans Matthieu 5, le verset 6 :
+
+> **Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés !**
+
+**Dans notre génération, tous ceux qui ont faim et soif de vertus, de qualités ou de dons spirituels seront rassasiés. Tous ceux qui ont faim et soif de la justice seront exaucés**. **Ceux qui ont faim et soif de sainteté, d’amour, de paix et de miséricorde seront exaucés**. Dieu fera en sorte que toutes les profondeurs qui sont en nous soient remplies. **C’est pourquoi la profondeur appelle la profondeur. Ceux qui ont faim et soif de la connaissance de Dieu seront rassasiés**. Car ils connaîtront le Seigneur dans la Parole et dans l’expérience de la Parole.
 
 Mes chers frères, comment ne pouvons-nous pas avoir de foi vis-à-vis de telles paroles sorties de la bouche même de Jésus-Christ ? C’est ici une promesse. Mais elle ne s’accomplit que pour ceux qui ont réellement faim et soif ! Il faut que cette faim et cette soif spirituelles habitent réellement nos cœurs et nous poussent dans la quête véritable de Dieu. Oui ! Où se trouve notre faim aujourd’hui ? Où se trouve notre soif aujourd’hui ? Les gens du monde ont faim et soif du matériel et du bien-être social. Les religions ont faim et soif de la gloire et du prestige. Chacun poursuit un objectif dans le monde. **Mais il y en a qui ont une faim et une soif qui sont spirituelles et pour des besoins spirituels. Car ici, c’est l’âme qui a faim et soif, ce n’est pas le corps, ni la chair. La justice est spirituelle, la sainteté est spirituelle, la puissance de Dieu est spirituelle. Les dons de l’Esprit de Dieu sont spirituels**.
 
@@ -197,7 +205,7 @@ La suite de la prophétie dit : « 2 C’est pourquoi Il les livrera **Jusqu
 
 Ici, il est dit que le peuple de Dieu sera livré à l’ennemi jusqu’à ce que celle qui doit enfanter enfante. Car l’enfantement de Celui qui doit gouverner le peuple devrait apporter le salut. C’est ce qui arriva selon les paroles de Siméon à la naissance du Messie :
 
-> **29** Maintenant, Seigneur, tu laisses ton serviteur S’en aller en paix, selon ta Parole. **30** **Car mes yeux ont vu ton salut**, **31** **Salut que tu as préparé devant tous les peuples,** **32** **Lumière pour éclairer les nations, Et gloire d’Israël, ton peuple**. (Luc 2 :29-32)
+> **29** Maintenant, Seigneur, tu laisses ton serviteur S’en aller en paix, selon ta parole. **30** **Car mes yeux ont vu ton salut**, **31** **Salut que tu as préparé devant tous les peuples,** **32** **Lumière pour éclairer les nations, Et gloire d’Israël, ton peuple**. (Luc 2 :29-32)
 
 Le Christ est né en tant que salut de tous les peuples, mais aussi gloire d’Israël. Lorsque Marie enfanta le Christ conformément à ce qui est écrit, la servitude des hommes prit fin.
 
@@ -495,7 +503,7 @@ Mes chers amis, je voudrais que vous compreniez que si l’ennemi a réussi à c
 
 ### Le quatrième sceau
 
-### Le couronnement de Satan – la prise du palais
+**Le couronnement de Satan – la prise du palais**
 
 > **7** Quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième être vivant qui disait : Viens. **8** **Je regardai, et voici, parut un cheval d’une couleur pâle. Celui qui le montait se nommait la mort, et le séjour des morts l’accompagnait**. Le pouvoir leur fut donné sur le quart de la terre, pour faire périr les hommes par l’épée, par la famine, par la mortalité, et par les bêtes sauvages de la terre.
 

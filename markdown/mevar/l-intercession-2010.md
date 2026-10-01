@@ -4,6 +4,8 @@ source_path: "onedrive/pdf/nouvelleorientation.md"
 sermon_id: "nouvelleorientation"
 title: "L’intercession"
 subtitle: "Prêché à l’église de Cocotomé / Cotonou"
+date: "2010-03-13"
+year: 2010
 location: "Cocotomé / Cotonou"
 preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'Église à prendre la position d'intercession, comparée à Moïse élevant les mains sur la colline pour assurer la victoire d'Israël. Il souligne que l'intercession est un mur de protection pour l'Église, nécessaire pour manifester la puissance de Dieu et éviter le sommeil spirituel. Il appelle chaque croyant à s'engager dans la prière et le jeûne pour le réveil."
@@ -54,7 +56,7 @@ bible_refs:
   - "Marc 16"
   - "Ézéchiel 22"
   - "Ésaïe 62:1"
-editorial_pass: "2026-09-30"
+editorial_pass: "2026-10-01"
 ---
 Ce soir, je voudrais aborder un autre sujet avec vous. Je voudrais parler de **l’intercession. Vous savez que les prédications que j’apporte sont liées au réveil**. Vous pouvez entendre des prédications sur la prière. Depuis qu’on a cru, on nous parle de la prière. Mais ce que nous disons maintenant sur ce sujet doit être pratiqué. Ce qu’on entend maintenant doit être pratiqué maintenant, c’est l’actualité, parce que l’Église a évolué, et **je l’ai dit qu’on est maintenant à Minuit** !
 
