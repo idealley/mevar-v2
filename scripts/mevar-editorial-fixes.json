@@ -3693,7 +3693,7 @@
       }
     ],
     "persons": [
-      "Esaïe",
+      "Ésaïe",
       "Osée",
       "Jésus-Christ",
       "Ewald Frank"
@@ -3705,7 +3705,8 @@
       "Babylone",
       "combat spirituel",
       "sortie de Babylone",
-      "réveil"
+      "réveil",
+      "sanctification"
     ],
     "split": {
       "at": "**Les prisonniers de la religion**\n\n**Prêché à So-Chanwé",
@@ -3748,7 +3749,8 @@
           "Laodicée"
         ]
       }
-    }
+    },
+    "summary": "Dans cette exhortation spéciale de juin 2007, le frère M'bra lance un appel à la guerre contre Babylone : les prophéties annoncent sa chute, et l'Église doit se sanctifier et se lever pour le combat spirituel. Il y joint la prédication « Les prisonniers de la religion »."
   },
   "markdown/onedrive/pdf/exhojuin2009.md": {
     "title": null,
@@ -11725,12 +11727,6 @@
         "why": "« il y en qui » lost the « a » that is said"
       },
       {
-        "find": "est basée sur la Parole de Dieu. On ne prêche",
-        "replace": "est basée sur la parole de Dieu. On ne prêche",
-        "kind": "revert",
-        "why": "the PDF has lower case; this text mostly writes « parole de Dieu »: never add a capital"
-      },
-      {
         "find": "la femme du sacrificateur Jéhojada qui est",
         "replace": "la femme du sacrificateur Jehojada qui est",
         "kind": "typo",
@@ -11749,28 +11745,10 @@
         "why": "the PDF's spelling is the Bible's; the Segond database, 2 Chroniques 23:1: « Jehojada »"
       },
       {
-        "find": "c’est la Parole de Dieu qui nous oriente",
-        "replace": "c’est la parole de Dieu qui nous oriente",
-        "kind": "revert",
-        "why": "the PDF has lower case: never add a capital"
-      },
-      {
         "find": "c’est pourquoi ça eu lieu dans le temple",
         "replace": "c’est pourquoi ça a eu lieu dans le temple",
         "kind": "word",
         "why": "« ça eu lieu » lost the « a » that is said"
-      },
-      {
-        "find": "le pouvoir de prêcher la Parole aux nations",
-        "replace": "le pouvoir de prêcher la parole aux nations",
-        "kind": "revert",
-        "why": "the PDF has lower case: never add a capital"
-      },
-      {
-        "find": "Frères, c’est la Parole de Dieu. L’Église attend",
-        "replace": "Frères, c’est la parole de Dieu. L’Église attend",
-        "kind": "revert",
-        "why": "the PDF has lower case: never add a capital"
       },
       {
         "find": "C’est pourquoi elles seront paîtes avec",
@@ -11880,10 +11858,10 @@
     "title": "Témoignage du frère Nandy Noël",
     "fixes": [
       {
-        "find": "**TÉMOIGNAGE DU FRÈRE NANDY NOËL**\n\n**Serviteur",
-        "replace": "**Serviteur",
+        "find": "**TÉMOIGNAGE DU FRÈRE NANDY NOËL**\n\n**Serviteur de Dieu dans l’Assemblée de Guibéroua**\n\n",
+        "replace": "",
         "kind": "markup",
-        "why": "the document header (its title line) is removed; the line presenting the author stays"
+        "why": "the document header, whole: the title « Témoignage du frère Nandy Noël » and its apposition « Serviteur de Dieu dans l’Assemblée de Guibéroua », now the subtitle"
       },
       {
         "find": "**d’Apocalypse 12** : **11** « Ils l’ont vaincu à cause du sang de l’Agneau et **à cause de la parole de leur témoignage**, et ils n’ont pas aimé leur vie jusqu’à craindre la mort. » Comme",
@@ -11987,61 +11965,8 @@
         "kind": "markup",
         "why": "the bold, split by the PDF around « : », joined so the reference reads whole (every word keeps its bold)"
       }
-    ]
-  },
-  "markdown/onedrive/pdf/thebath.md": {
-    "title": null,
-    "fixes": [
-      {
-        "find": "Jesus said of John-the-Baptist.",
-        "replace": "Jesus said of John the Baptist.",
-        "kind": "revert",
-        "why": "the PDF has « John the Baptist »; the French hyphen rule does not apply to English"
-      },
-      {
-        "find": "remains in the revelation of Jesus-Christ**",
-        "replace": "remains in the revelation of Jesus Christ**",
-        "kind": "revert",
-        "why": "the PDF has « Jesus Christ » here"
-      },
-      {
-        "find": "must be sanctified:\n\n> **body - soul and spirit**. (2 Th 5: 23)\n\nAnd I would like",
-        "replace": "must be sanctified: **body – soul and spirit**. (2 Th 5: 23) And I would like",
-        "kind": "markup",
-        "why": "a short citation inside his sentence stays inline, as in the PDF; spaced hyphen as dash"
-      },
-      {
-        "find": "For you to wakeup, you need",
-        "replace": "For you to wake up, you need",
-        "kind": "typo",
-        "why": "verb « wake up » is two words"
-      },
-      {
-        "find": "to hear that to wakeup**",
-        "replace": "to hear that to wake up**",
-        "kind": "typo",
-        "why": "verb « wake up » is two words"
-      },
-      {
-        "find": "the morning when I wakeup, I run",
-        "replace": "the morning when I wake up, I run",
-        "kind": "typo",
-        "why": "verb « wake up » is two words"
-      },
-      {
-        "find": "brothers of Jeffersonneville wait",
-        "replace": "brothers of Jeffersonville wait",
-        "kind": "typo",
-        "why": "place name misspelled"
-      },
-      {
-        "find": "His assembly was Jeffersonneville.",
-        "replace": "His assembly was Jeffersonville.",
-        "kind": "typo",
-        "why": "place name misspelled"
-      }
     ],
-    "subtitle": "Preached on November 18 at Arrah"
+    "subtitle": "Serviteur de Dieu dans l’Assemblée de Guibéroua"
   },
   "markdown/onedrive/pdf/tsunami.md": {
     "title": "Éclaircissement",
