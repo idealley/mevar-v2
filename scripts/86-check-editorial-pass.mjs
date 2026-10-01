@@ -208,7 +208,8 @@ for (const md of batch) {
   const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0, verseNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], lists: {}, pass };
   const edits = fixes[md] ?? { title: null, fixes: [] };
   r.fixes = edits.fixes;
-  // Applied from the end, so each fix's place in the edited body is known:
+  // Applied from the end, so each fix's place in the edited body is known
+  // (two that overlap are reported, not applied):
   // a fix of kind "word" (the editor adding or removing a word the
   // transcriber dropped or doubled: "ça été" → "ça a été") may do so inside
   // its own span, and is listed apart. One whose find is its replacement
@@ -220,7 +221,13 @@ for (const md of batch) {
     const n = pass.body.split(f.find).length - 1;
     if (n !== 1) r.unexplained.push(`editor's fix found ${n} times, not once: « ${f.find} »`);
   }
-  const placed = edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at.get(b) - at.get(a));
+  const once = edits.fixes.filter((f) => pass.body.split(f.find).length === 2);
+  // two fixes on overlapping spans: one would be applied over the other's
+  // replacement; neither is, both are reported
+  const end = (f) => at.get(f) + f.find.length;
+  const overlaps = once.flatMap((f, i) => once.slice(i + 1).filter((g) => at.get(f) < end(g) && at.get(g) < end(f)).map((g) => [f, g]));
+  for (const [f, g] of overlaps) r.unexplained.push(`editor's fixes overlap: « ${f.find} » and « ${g.find} »`);
+  const placed = once.filter((f) => !overlaps.flat().includes(f)).sort((a, b) => at.get(b) - at.get(a));
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
   const sectioned = applyHeadings(edited, sections[md]);
   edited = sectioned.body;
