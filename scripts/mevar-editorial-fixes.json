@@ -11887,9 +11887,9 @@
       },
       {
         "find": "**d’Apocalypse 12** : **11** « Ils l’ont vaincu à cause du sang de l’Agneau et **à cause de la parole de leur témoignage**, et ils n’ont pas aimé leur vie jusqu’à craindre la mort. » Comme",
-        "replace": "**d’Apocalypse 12** : **11** :\n\n> Ils l’ont vaincu à cause du sang de l’Agneau et **à cause de la parole de leur témoignage**, et ils n’ont pas aimé leur vie jusqu’à craindre la mort.\n\nComme",
+        "replace": "**d’Apocalypse 12 : 11** :\n\n> Ils l’ont vaincu à cause du sang de l’Agneau et **à cause de la parole de leur témoignage**, et ils n’ont pas aimé leur vie jusqu’à craindre la mort.\n\nComme",
         "kind": "markup",
-        "why": "a reading he gives with its reference: its own > quote"
+        "why": "a reading he gives with its reference: its own > quote; the bold, split by the PDF around « : », joined so the reference reads whole (every word keeps its bold)"
       },
       {
         "find": "la brochure « Les trois grandes visions du message du temps de la fin ».\n2.",
@@ -11980,6 +11980,12 @@
         "replace": "devant Dieu ; Et vous-mêmes, comme des pierres vivantes, édifiez-vous pour former une maison spirituelle,",
         "kind": "typo",
         "why": "the Segond database, 1 Pierre 2:5: « et vous-mêmes… pour former une maison spirituelle »"
+      },
+      {
+        "find": "**Zacharie 8** : **9,19**",
+        "replace": "**Zacharie 8 : 9,19**",
+        "kind": "markup",
+        "why": "the bold, split by the PDF around « : », joined so the reference reads whole (every word keeps its bold)"
       }
     ]
   },
