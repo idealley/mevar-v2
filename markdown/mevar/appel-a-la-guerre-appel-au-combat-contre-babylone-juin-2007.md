@@ -39,14 +39,7 @@ bible_refs:
   - "Joël 3:9-10"
   - "2 Thessaloniciens 2:1-11"
   - "Néhémie 6"
-  - "Actes 12:1-12"
-  - "2 Corinthiens 3:17"
-  - "Galates 5:1"
-  - "Matthieu 15:1-9"
-  - "Matthieu 15"
-  - "Apocalypse 3:14"
-  - "Actes 19"
-published_with: "onedrive/pdf/exhojuin2007-les-prisonniers-de-la-religion"
+published_with: "mevar/les-prisonniers-de-la-religion-2007"
 editorial_pass: "2026-10-01"
 ---
 **JOYEUX ANNIVERSAIRE**

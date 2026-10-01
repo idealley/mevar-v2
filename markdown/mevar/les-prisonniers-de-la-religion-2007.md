@@ -1,5 +1,6 @@
 ---
 source: "onedrive"
+source_path: "onedrive/pdf/exhojuin2007-les-prisonniers-de-la-religion.md"
 sermon_id: "exhojuin2007-les-prisonniers-de-la-religion"
 title: "Les prisonniers de la religion"
 subtitle: "Prêché à So-Chanwé le 14 janvier 2007"
@@ -35,6 +36,14 @@ themes:
   - "Laodicée"
 published_with: "mevar/appel-a-la-guerre-appel-au-combat-contre-babylone-juin-2007"
 editorial_pass: "2026-10-01"
+bible_refs:
+  - "Actes 12:1-12"
+  - "2 Corinthiens 3:17"
+  - "Galates 5:1"
+  - "Matthieu 15:1-9"
+  - "Matthieu 15"
+  - "Apocalypse 3:14"
+  - "Actes 19"
 ---
 Que le nom du Seigneur soit béni ! [Amen !] Le pasteur Rigobert est venu à Abidjan en Côte d’Ivoire, il a passé un mois chez moi, nous avons eu le temps de parler ensemble sur ce que je prêche – sur ce que j’écris aussi. **Nous avons eu des entretiens sur les brochures que j’ai écrites. Avant de venir, il m’avait déjà appelé quand il était aux États-Unis, et il s’est déplacé du Bénin jusqu’à chez moi. J’ai été très touché par cela… qu’un homme de Dieu soit préoccupé par ce que j’ai écrit, et qui se déplace de son pays jusqu’à chez moi pour en savoir davantage**. C’est pour cette raison que j’apprécie beaucoup ce qu’il vient de dire ce matin, parce qu’en Côte d’Ivoire, dans l’Église où je suis, les serviteurs de Dieu n’ont jamais cherché à savoir de quoi il est question. On n’a jamais eu d’entretien sur ces choses, seulement ils parlent de moi comme quelqu’un qui a un démon, quelqu’un qui est séduit par les mauvais esprits. Les hommes de Dieu de la Côte d’Ivoire n’ont jamais parlé de ces choses avec moi, mais un étranger quitte sa patrie… vient jusqu’à chez moi pour qu’on parle de ça pendant un mois… et quand le frère est arrivé là-bas, on l’a mis de côté, parce qu’il est venu me voir…
 

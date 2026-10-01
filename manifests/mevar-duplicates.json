@@ -6778,6 +6778,36 @@
       ]
     },
     {
+      "keep": "onedrive/exhojuin2007-les-prisonniers-de-la-religion",
+      "rule": "edited by goal 10",
+      "held": null,
+      "members": [
+        {
+          "id": "onedrive/Copie de predicationjuin2007",
+          "title": "Les prisonniers de la religion",
+          "shingles": 7900,
+          "ocr_tokens": 0
+        },
+        {
+          "id": "onedrive/exhojuin2007-les-prisonniers-de-la-religion",
+          "title": "Les prisonniers de la religion",
+          "shingles": 7888,
+          "ocr_tokens": 0
+        }
+      ],
+      "pairs": [
+        {
+          "a": "onedrive/Copie de predicationjuin2007",
+          "b": "onedrive/exhojuin2007-les-prisonniers-de-la-religion",
+          "band": "same_text",
+          "decision": "same",
+          "in_a": 0.937,
+          "in_b": 0.938,
+          "title": 1
+        }
+      ]
+    },
+    {
       "keep": "onedrive/exhomai2007-la-guerre-de-liberation",
       "rule": "edited by goal 10",
       "held": null,
@@ -7908,21 +7938,6 @@
       }
     },
     {
-      "key": "onedrive/Copie de predicationjuin2007 | onedrive/exhojuin2007",
-      "decision": "different",
-      "in_a": 0.938,
-      "in_b": 0.69,
-      "title": 0,
-      "a": {
-        "title": "Les prisonniers de la religion",
-        "excerpt": "## Les prisonniers de la religion *Prêché à So-Chanwé le 14 janvier 2007* Que le nom du Seigneur soit béni ! [Amen !] Le pasteur Rigobert est venu à Abidjan en Côte d’Ivoire, il a passé un mois chez moi, nous avons eu le temps de parler ensemble sur ce que je prêche – sur ce que j’écris aussi. Nous avons eu des entretiens sur les brochures que j’ai écrites. Avant de venir, il m’avait déjà appelé quand il était aux Etats-unis, et il s’est déplacé du Bénin jusqu'à chez moi. J’ai été très touché par cela…qu’un homme de Dieu soit préoccupé par ce que j’ai écrit, et qui se déplace de son pays jusqu'à chez moi pour en savoir davantage. C’est pour cette raison que j’apprécie beaucoup ce qu’il vient de dire ce matin, parce qu’en Côte d’Ivoire, dans l’Eglise où je suis, les serviteurs de Dieu n’ont jamais cherché à savoir de quoi il est question. On n’a jamais eu d’entretien sur ces choses, seulement ils parlent de moi comme quelqu’un qui a un démon, quelqu’un qui est séduit par les mauvais esprits. Les hommes de Dieu de la Côte d’Ivoire n’ont jamais parlé de ces choses avec moi, mais un étranger quitte sa patrie…vient jusqu’à chez moi pour qu’on parle de ça pendant un mois…et quand le frère est arrivé là-bas, on l’a mis de côté, parce qu’il est venu me voir… Vous savez frère, le ministère de pasteur, ça ne s’achète pas au marché ! Les pasteurs…on ne les ramasse pas au marché. Un vrai pasteur, c’est celui qui cherche de verts pâturages pour son troupeau. Là où il entend que la Parole de Dieu est sortie, il va là pour chercher à en savoir davantage…s’il découvre que c’est vrai, il le prend pour son troupeau,"
-      },
-      "b": {
-        "title": "Appel à la guerre – appel au combat contre Babylone",
-        "excerpt": "**JOYEUX ANNIVERSAIRE** **APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE** Mes chers frères et sœurs et amis de la chaîne de prière – usagers de notre site Internet à tous, je vous salue dans le précieux et merveilleux nom de notre Seigneur et Sauveur Jésus-Christ. À Lui soient la gloire et la louange au siècle des siècles – Amen ! C’est l’un de mes collaborateurs dans l’œuvre missionnaire qui m’a rappelé que le site web de MEVAR venait d’avoir un an d’existence **le 03 juin passé**. En effet, nous avons lancé le site le 03 juin 2006. Après un an d’existence, nous pouvons mesurer l’impact de cet instrument de travail sur les croyants du Message du temps de la fin. Nous rendons grâce au Seigneur. Ce mois sera un mois spécial et le peuple de Dieu sera gratifié par plusieurs exhortations. Je vous demande pardon pour les retards que nous accusons dans le positionnement des exhortations. Je comprends votre impatience et je suis réjoui de ce que vous êtes pressés de recevoir la Parole de Dieu. Je prie le Seigneur pour garder le rythme initial, mais mes multiples occupations m’empêchent de le faire. Continuez de prier pour moi afin que Dieu suscite des hommes pour m’aider dans ma tâche. C’est avec beaucoup de reconnaissance au Seigneur notre Dieu que je vous adresse cette exhortation spéciale avec les véritables Paroles de Dieu proclamant la chute de Babylone : > Car ainsi m’a parlé le Seigneur : **Va, place la sentinelle** ; **qu’elle annonce ce qu’elle verra**. Elle vit de la cavalerie, des cavaliers deux à deux, Des cavaliers sur des ânes, des cavaliers sur des chameaux ; Et elle était attentive, très attentive. Puis elle s’écria, comme un lion : Seigneur, je me tiens sur la tour toute la"
-      }
-    },
-    {
       "key": "onedrive/exho_fin_mai_2012 | onedrive/pourquoi_huitieme",
       "decision": "different",
       "in_a": 0.362,
@@ -7980,6 +7995,21 @@
       "b": {
         "title": "Le Mariage et les Péchés du Sexe",
         "excerpt": "# LE MARIAGE ET LES PECHES DU SEXE *M’BRA Parfait* Tous les couples et autres lecteurs de cet ouvrage qui souhaiteraient rencontrer l’auteur peuvent le joindre aux adresses ci-après : M’BRA Parfait 20 BP 1011 Abidjan 20/ Côte d’Ivoire e-mail : parfaitmbra@yahoo.fr Cel.: (+225) 09.05.05.77/ 05633124/ ## Table des Matières Introduction Générale …………………………………………………………………………………..5 Première Partie : Le mariage dans le royaume de Dieu ou le mariage en Christ……………….. 11 Premièrement : Procédure biblique des fiançailles ……………………………………….. 12 Deuxièmement : Le Commandement fut donné à l’homme …………………………….. 21 Troisièmement : La domination fut donnée à l’homme ………………………………….. 23 Quatrièmement : La soumission fut donnée à la femme ………………………………….. 24 Cinquièmement : Femme insoumise : ouvrière avec le diable …………………………. 27 Sixièmement : Le Seigneur n’admet pas les compromis ………………………………….. 31 Septièmement : L’homme est le chef de la femme …………………………………………. 35 Huitièmement : Comparativement à Christ et à l’Eglise ………………………………….. 36 Neuvièmement : Le Ministère de la femme ……………………………………………………. 40 Dixièmement : La médisance : un péché destructeur des foyers ……………………….. 46 Onzièmement : La position des époux dans le foyer ………………………………………. 48 Douzièmement : Le jugement des affaires dans le foyer …………………………………. 49 Conclusion de la Première Partie ………………………………………………………………….. 55 Deuxième Partie : Impudicité et adultère ……………………………………………………….. 59 Treizièmement : Principe fondamental : Nouvelle Naissance …………………………… 60 Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! ………………………………………………………………………………….. 66 Quinzièmement : Qui est dans une position d’adultère ? ………………………………… 71 Seizièmement : Que le lit conjugal soit exempt de souillure ……………………………..75 Conclusion de la Deuxième Partie ………………………………………………………………….. 81 Dix-septièmement : Comment un couple peut-il se mettre au service de Dieu ? ………85 Conclusion finale …………………………………………………………………………………………94 ## Introduction Générale ### La pensée originelle de Dieu sur le mariage Le mariage est un sujet biblique important dans l’Eglise"
+      }
+    },
+    {
+      "key": "onedrive/exhojuin2007 | onedrive/huitieme_messager",
+      "decision": null,
+      "in_a": 0.266,
+      "in_b": 0.057,
+      "title": 0,
+      "a": {
+        "title": "Appel à la guerre – appel au combat contre Babylone",
+        "excerpt": "**JOYEUX ANNIVERSAIRE** **APPEL À LA GUERRE – APPEL AU COMBAT CONTRE BABYLONE** Mes chers frères et sœurs et amis de la chaîne de prière – usagers de notre site Internet à tous, je vous salue dans le précieux et merveilleux nom de notre Seigneur et Sauveur Jésus-Christ. À Lui soient la gloire et la louange au siècle des siècles – Amen ! C’est l’un de mes collaborateurs dans l’œuvre missionnaire qui m’a rappelé que le site web de MEVAR venait d’avoir un an d’existence **le 03 juin passé**. En effet, nous avons lancé le site le 03 juin 2006. Après un an d’existence, nous pouvons mesurer l’impact de cet instrument de travail sur les croyants du Message du temps de la fin. Nous rendons grâce au Seigneur. Ce mois sera un mois spécial et le peuple de Dieu sera gratifié par plusieurs exhortations. Je vous demande pardon pour les retards que nous accusons dans le positionnement des exhortations. Je comprends votre impatience et je suis réjoui de ce que vous êtes pressés de recevoir la Parole de Dieu. Je prie le Seigneur pour garder le rythme initial, mais mes multiples occupations m’empêchent de le faire. Continuez de prier pour moi afin que Dieu suscite des hommes pour m’aider dans ma tâche. C’est avec beaucoup de reconnaissance au Seigneur notre Dieu que je vous adresse cette exhortation spéciale avec les véritables Paroles de Dieu proclamant la chute de Babylone : > Car ainsi m’a parlé le Seigneur : **Va, place la sentinelle** ; **qu’elle annonce ce qu’elle verra**. Elle vit de la cavalerie, des cavaliers deux à deux, Des cavaliers sur des ânes, des cavaliers sur des chameaux ; Et elle était attentive, très attentive. Puis elle s’écria, comme un lion : Seigneur, je me tiens sur la tour toute la"
+      },
+      "b": {
+        "title": "Mise au point sur la question du huitième messager",
+        "excerpt": "Mes chers frères et sœurs, je voudrais encore vous saluer dans le Nom précieux de notre Seigneur et Sauveur Jésus-Christ par ces Paroles de Pierre : « Sachez tout d’abord vous-mêmes qu’aucune prophétie de l’Écriture ne peut être **un objet d’interprétation particulière**, car ce n’est pas par une volonté d’homme qu’une prophétie a jamais été apportée, mais c’est poussés par l’Esprit que des hommes ont parlé de la part de Dieu » 2 Pier 1 : 20-21 ; et aussi avec une autre Parole dans 1 Corinthiens 12 : « …**à un autre la diversité des langues ; à un autre l’interprétation des langues** ». Je voudrais dans cet exposé apporter une Mise au Point sur la question du huitième messager pour éclairer si possible certains frères. En effet, des frères nous écrivent des lettres à moi-même et aussi au frère Barilier et les font circuler sur Internet – lettres dans lesquelles la vérité n’est pas dite sinon des mensonges et des calomnies. Je découvre à chaque fois des lettres ouvertes dans ma boîte électronique et aussi des exposés sur le cri de Minuit. Dans tout cela, les frères nous présentent comme des frères opposés au frère Frank et plusieurs nouvelles circulent à ce sujet. En ce qui nous concerne, nous sommes paisibles, c’est pourquoi j’écris pour apaiser les frères et sœurs. L’Église a un seul ennemi qui est Satan. C’est lui qui trouble l’assemblée des frères. C’est lui que nous combattons, sinon, nous ne sommes opposés à personne. En effet, il est évident qu’il existe une incompréhension entre nous et le frère Frank ; et cette incompréhension concerne essentiellement la vision de l’œuvre à Minuit. C’est au sujet du Réveil qu’il y a une incompréhension entre nous. Nous ne nous comprenons pas sur **le Cri de Minuit – la"
       }
     },
     {

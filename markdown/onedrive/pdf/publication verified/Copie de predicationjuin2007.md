@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Copie de predicationjuin2007"
+duplicate_of: "mevar/les-prisonniers-de-la-religion-2007"
 title: "Les prisonniers de la religion"
 date: "2007-01-14"
 year: 2007
