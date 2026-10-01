@@ -9416,9 +9416,7 @@
         "why": "stray « / » for a full stop"
       }
     ],
-    "subtitle": "Prêché à l’église de Cocotomé / Cotonou",
-    "date": "2010-03-13",
-    "decided": "Samuel, 2026-10-01: « Set both »: the date the PDF's header prints, 13/03/2010"
+    "subtitle": "Prêché à l’église de Cocotomé / Cotonou"
   },
   "markdown/onedrive/pdf/nov2009.md": {
     "title": "Persévérez dans la vision du réveil",
@@ -10005,7 +10003,9 @@
         "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
       }
     ],
-    "decided": "Samuel, 2026-10-01: « Segond: Nebucadnetsar », the Bible's spelling for the king's name; « Split all three »",
+    "decided": {
+      "title": "Samuel, 2026-10-01: « Segond: Nebucadnetsar », the Bible's spelling for the king's name"
+    },
     "location": "",
     "summary": "Dans cette exhortation de décembre 2006, « mois de la délivrance », le frère M'bra appelle la chaîne de prière à se préparer à la rencontre du Seigneur (Amos 4:12) en détruisant les œuvres de la chair, annonce le jeûne des 21, 22 et 23 décembre et le bilan de l'œuvre de prière, et joint la prédication sur l'esprit babylonien. Suivent les sujets de prière.",
     "tags": [
@@ -10428,8 +10428,7 @@
         "why": "the PDF prints the sentence of verse 15 twice in a row inside the reading, a copy slip; Romains 10:15 in the Segond database has it once (Samuel, 2026-10-01: « Remove the second copy »)"
       }
     ],
-    "subtitle": "Prêché le 22 novembre 2009 à Koumassi",
-    "decided": "Samuel, 2026-10-01: « Remove the second copy » of Romains 10:15 in the reading"
+    "subtitle": "Prêché le 22 novembre 2009 à Koumassi"
   },
   "markdown/onedrive/pdf/pourquoi_huitieme.md": {
     "title": "Pourquoi la part d’un huitième ?",
@@ -11096,6 +11095,15 @@
     ],
     "subtitle": "Prêché le dimanche 22 août à Koumassi",
     "date": "2010-08-22",
-    "decided": "Samuel, 2026-10-01: « Set both »: 22 August 2010, a Sunday as the header says (« Prêché le dimanche 22 août », no year); 22 August 2014 was a Friday"
+    "decided": {
+      "date": "Samuel, 2026-10-01: « Set both »: 22 August 2010, a Sunday as the header says (« Prêché le dimanche 22 août », no year); 22 August 2014 was a Friday"
+    },
+    "tags": [
+      "Prédications",
+      "2010",
+      "Autorité spirituelle",
+      "Soumission",
+      "Rébellion"
+    ]
   }
 }
