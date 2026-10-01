@@ -48,7 +48,7 @@ bible_refs:
   - "Actes 21"
   - "1 Pierre 3"
   - "Romains 12"
-  - "1 Corinthiens 12:4,1"
+  - "1 Corinthiens 12:4"
 ---
 JE LUI FERAI UNE AIDE SEMBLABLE…
 

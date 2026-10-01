@@ -47,10 +47,10 @@ llm_cleaned: true
 bible_refs:
   - "Luc 9:22-36"
   - "Luc 6:12"
-  - "Marc 1"
+  - "Marc 1:34"
   - "Job 33"
   - "Luc 5"
-  - "Osée 2"
+  - "Osée 2:16"
   - "Luc 9:18"
   - "Luc 11"
   - "Luc 11:1-13"

@@ -44,14 +44,13 @@ llm_cleaned: true
 bible_refs:
   - "Marc 7:7"
   - "1 Chroniques 13"
-  - "Marc 7"
-  - "1 Chroniques 15"
-  - "Amos 3"
-  - "Matthieu 15"
+  - "1 Chroniques 15:15"
+  - "Amos 3:7"
+  - "Matthieu 15:9"
   - "Malachie 4"
   - "Apocalypse 10"
-  - "Joël 2"
-  - "Luc 17"
+  - "Joël 2:25"
+  - "Luc 17:30"
   - "Deutéronome 4"
 ---
 SERIE 5, N° 5

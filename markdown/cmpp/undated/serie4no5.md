@@ -61,16 +61,16 @@ themes:
 pdf_url: "http://cmpp.ch/serie4no5.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 20"
+  - "Actes 20:27"
   - "Apocalypse 13"
   - "Malachie 4"
   - "Nombres 12"
-  - "Nombres 21"
+  - "Nombres 21:5-19"
   - "Zacharie 12:10"
-  - "Ésaïe 45"
+  - "Ésaïe 45:22"
   - "Hébreux 4"
-  - "Hébreux 13"
-  - "Jean 14"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
   - "Jean 4"
 ---
 SERIE 4, N° 5

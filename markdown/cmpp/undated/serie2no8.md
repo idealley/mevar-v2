@@ -54,9 +54,9 @@ bible_refs:
   - "Matthieu 22"
   - "Genèse 6"
   - "Marc 16"
-  - "Jean 14"
-  - "Actes 26"
-  - "2 Timothée 4"
+  - "Jean 14:12"
+  - "Actes 26:19"
+  - "2 Timothée 4:9"
   - "Hébreux 11"
 ---
 SERIE 2 N° 8

@@ -43,13 +43,13 @@ bible_refs:
   - "Apocalypse 5"
   - "Apocalypse 4"
   - "Apocalypse 19"
-  - "Actes 2"
+  - "Actes 2:38"
   - "Matthieu 28"
-  - "Matthieu 1"
-  - "Romains 8"
+  - "Matthieu 1:18"
+  - "Romains 8:22"
   - "Matthieu 5"
   - "Lévitique 25"
-  - "1 Pierre 1"
+  - "1 Pierre 1:18-20"
 ---
 WILLIAM MARRION BRANHAM
 

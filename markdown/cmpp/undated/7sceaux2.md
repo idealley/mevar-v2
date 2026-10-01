@@ -46,16 +46,20 @@ pdf_url: "http://cmpp.ch/7sceaux2.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 5"
+  - "Apocalypse 5:1-7"
   - "Apocalypse 10"
   - "Apocalypse 1"
   - "Malachie 4"
-  - "Romains 8"
-  - "Apocalypse 11"
+  - "Romains 8:22,23"
+  - "Apocalypse 11:18"
   - "Lévitique 25"
-  - "Genèse 49"
+  - "Genèse 49:10"
+  - "Apocalypse 10:7"
+  - "Apocalypse 10:6"
   - "Zacharie 3"
-  - "Zacharie 4"
-  - "Matthieu 23"
+  - "Zacharie 3:8,9"
+  - "Zacharie 4:10"
+  - "Matthieu 23:9"
 ---
 BROCHURE N° 2
 

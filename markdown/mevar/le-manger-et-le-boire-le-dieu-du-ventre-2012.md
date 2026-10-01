@@ -49,7 +49,7 @@ bible_refs:
   - "1 Pierre 4:7"
   - "1 Pierre 5:8"
   - "Luc 6:39-42"
-  - "Jean 5"
+  - "Jean 5:46"
   - "2 Pierre 1:19-21"
   - "Romains 6:5-9"
   - "Hébreux 4:9-11"

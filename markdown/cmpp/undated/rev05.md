@@ -47,9 +47,9 @@ bible_refs:
   - "Hébreux 12"
   - "Jean 1"
   - "Apocalypse 17"
-  - "Actes 2"
+  - "Actes 2:38"
   - "Nombres 24"
-  - "Matthieu 28"
+  - "Matthieu 28:19"
   - "Jean 6:48-50"
 ---
 WILLIAM MARRION BRANHAM

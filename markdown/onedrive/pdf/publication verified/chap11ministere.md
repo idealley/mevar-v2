@@ -28,12 +28,15 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Marc 4"
-  - "Jean 1"
+  - "Jean 1:6-8"
   - "Jean 5"
-  - "Jean 8"
+  - "Jean 8:12"
   - "Apocalypse 1"
-  - "Actes 13"
-  - "2 Timothée 1"
+  - "Apocalypse 1:20"
+  - "Actes 13:47"
+  - "Jean 8:13"
+  - "Jean 8:14-15"
+  - "2 Timothée 1:11-12"
   - "Matthieu 17"
 ---
 ## LA PARABOLE DE LA LAMPE

@@ -44,22 +44,21 @@ themes:
 pdf_url: "http://cmpp.ch/pourquoi_contre_les_religions.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Samuel 8"
   - "1 Samuel 8:4-10"
-  - "Matthieu 25"
-  - "Nombres 16"
-  - "Proverbes 11"
+  - "Matthieu 25:41"
+  - "Nombres 16:1"
+  - "Proverbes 11:14"
   - "Jean 3"
   - "Marc 16"
-  - "Actes 2"
-  - "Galates 1"
+  - "Actes 2:38"
+  - "Galates 1:8"
   - "Apocalypse 17"
   - "Apocalypse 18"
-  - "1 Timothée 4"
-  - "2 Timothée 3"
+  - "1 Timothée 4:1"
+  - "2 Timothée 3:1"
   - "Apocalypse 19"
-  - "2 Pierre 1"
-  - "Galates 5"
+  - "2 Pierre 1:5"
+  - "Galates 5:7"
 ---
 LA PAROLE PARLEE
 

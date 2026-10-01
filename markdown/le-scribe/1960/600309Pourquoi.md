@@ -56,7 +56,8 @@ llm_cleaned: true
 bible_refs:
   - "Jérémie 8:20-22"
   - "Nombres 6"
-  - "1 Timothée 4:14,2"
+  - "1 Timothée 4:14"
+  - "2 Timothée 1:5"
   - "Hébreux 7"
   - "Jean 6:44"
   - "Jean 10:5,27"

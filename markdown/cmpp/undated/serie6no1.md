@@ -47,8 +47,8 @@ bible_refs:
   - "Apocalypse 21:9"
   - "Apocalypse 3"
   - "Apocalypse 17"
-  - "Ésaïe 53"
-  - "Hébreux 13"
+  - "Ésaïe 53:2"
+  - "Hébreux 13:8"
 ---
 SERIE 6, N° 1
 

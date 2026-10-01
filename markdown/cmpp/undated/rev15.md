@@ -47,7 +47,7 @@ bible_refs:
   - "Jérémie 32"
   - "Daniel 7"
   - "Apocalypse 10"
-  - "Matthieu 28"
+  - "Matthieu 28:19"
   - "Matthieu 1"
 ---
 WILLIAM MARRION BRANHAM

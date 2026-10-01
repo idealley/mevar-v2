@@ -40,10 +40,11 @@ themes:
 pdf_url: "http://cmpp.ch/les_aigles_de_dieu.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Deutéronome 32"
-  - "Matthieu 16"
-  - "Jean 8"
+  - "Deutéronome 32:11"
+  - "Matthieu 16:17"
+  - "Jean 8:36"
   - "Jean 4"
+  - "Jean 8:58"
 ---
 LA PAROLE PARLEE
 

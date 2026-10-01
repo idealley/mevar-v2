@@ -28,7 +28,8 @@ bible_refs:
   - "Actes 21"
   - "1 Pierre 3"
   - "Romains 12"
-  - "1 Corinthiens 12:4,1"
+  - "1 Corinthiens 12:4"
+  - "1 Corinthiens 12:27-31"
 ---
 Gloire à Dieu. Que le nom du Seigneur soit béni. Vraiment, je ne vais pas prendre trop de temps. Alléluia. Parce  que la semaine est vraiment  occupée.  Que Dieu soit béni.  Donc, faites l’effort de m’écouter. Amen ! Bon ! J’ai reçu plusieurs  prédications mais, celle-là me paraît quand même urgente, vu la situation par laquelle nous passons. Amen ! Quand je dis : la situation par  laquelle nous passons, ce n’est pas seulement la situation du pays. Mais pour nous, le calendrier que nous suivons est un calendrier  spirituel.  Alléluia !  Et  nous  sommes  dans  une  phase  de  transition, transition pour entrer dans la promesse. Tout ce qui se passe au plan physique en Côte d’Ivoire, c’est  aussi pour nous faire entrer dans notre promesse. Alléluia ! Voilà le titre que je donne à la prédication par la grâce de Dieu : **je lui ferai une aide semblable** ou **le but de Dieu dans le mariage**...
 

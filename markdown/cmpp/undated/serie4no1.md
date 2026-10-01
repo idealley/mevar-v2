@@ -50,9 +50,9 @@ bible_refs:
   - "Luc 10"
   - "Psaumes 22"
   - "Hébreux 11"
-  - "Actes 2"
-  - "1 Samuel 9"
-  - "Jean 15"
+  - "Actes 2:38"
+  - "1 Samuel 9:9"
+  - "Jean 15:7"
 ---
 SERIE 4, N° 1
 

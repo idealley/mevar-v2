@@ -53,7 +53,8 @@ bible_refs:
   - "Jean 14:19"
   - "Matthieu 28"
   - "Zacharie 14:7"
-  - "2 Samuel 5:24,1"
+  - "2 Samuel 5:24"
+  - "1 Chroniques 14:15"
 original: "branham/1956/56-0304"
 ---
 *Préparer une voie de secours* (4.3.1956)

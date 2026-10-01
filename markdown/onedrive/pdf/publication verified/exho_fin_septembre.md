@@ -43,7 +43,8 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 28"
   - "Jean 14:16-18"
-  - "Deutéronome 7:9,1"
+  - "Deutéronome 7:9"
+  - "1 Corinthiens 1:9"
   - "Jean 14:19"
   - "Jean 16:16"
   - "Juges 6:12-14"

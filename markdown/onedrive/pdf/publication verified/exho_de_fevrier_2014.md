@@ -46,9 +46,9 @@ llm_cleaned: true
 bible_refs:
   - "Jean 15:16"
   - "Apocalypse 12"
-  - "Genèse 1"
-  - "Ésaïe 9"
-  - "Jean 5"
+  - "Genèse 1:11"
+  - "Ésaïe 9:6"
+  - "Jean 5:19"
   - "Apocalypse 17"
   - "2 Rois 2:1-14"
   - "Luc 9:54-56"

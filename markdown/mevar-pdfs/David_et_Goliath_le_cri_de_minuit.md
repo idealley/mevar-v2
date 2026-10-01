@@ -59,7 +59,7 @@ bible_refs:
   - "Apocalypse 3:17"
   - "Matthieu 25:6"
   - "Michée 5:2-4"
-  - "Apocalypse 5"
+  - "Apocalypse 5:5"
   - "Proverbes 6:20-30"
   - "Apocalypse 3:19"
 ---

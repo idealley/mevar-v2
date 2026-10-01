@@ -26,20 +26,22 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Matthieu 25"
-  - "Marc 16"
+  - "Marc 16:15"
   - "Matthieu 28"
-  - "Éphésiens 4"
+  - "Éphésiens 4:11"
   - "1 Corinthiens 12"
+  - "Éphésiens 4"
   - "Ésaïe 42"
-  - "Romains 12"
-  - "1 Pierre 4"
-  - "Actes 17"
-  - "2 Corinthiens 12"
-  - "1 Corinthiens 7"
-  - "Actes 5"
+  - "Romains 12:6"
+  - "1 Pierre 4:10"
+  - "Actes 17:6"
+  - "2 Corinthiens 12:12"
+  - "Matthieu 25:21"
+  - "1 Corinthiens 7:17"
+  - "Actes 5:29"
   - "Matthieu 10"
-  - "2 Timothée 1"
-  - "2 Timothée 2"
+  - "2 Timothée 1:7"
+  - "2 Timothée 2:15"
 ---
 ## LA PARABOLE DES TALENTS
 

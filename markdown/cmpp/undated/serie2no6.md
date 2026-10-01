@@ -38,8 +38,9 @@ llm_cleaned: true
 bible_refs:
   - "Jean 14:14"
   - "Jean 14"
-  - "1 Timothée 3"
-  - "Jean 17"
+  - "1 Timothée 3:16"
+  - "Jean 14:12"
+  - "Jean 17:17"
   - "Matthieu 10"
   - "Actes 19"
   - "Actes 18"

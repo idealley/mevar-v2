@@ -46,12 +46,12 @@ pdf_url: "http://cmpp.ch/serie5no4.pdf"
 llm_cleaned: true
 bible_refs:
   - "Malachie 2"
-  - "Genèse 24"
+  - "Genèse 24:7"
   - "Marc 8"
-  - "Actes 2"
-  - "Hébreux 13"
+  - "Actes 2:38"
+  - "Hébreux 13:8"
   - "Marc 16"
-  - "Luc 24"
+  - "Luc 24:49"
 ---
 SERIE 5, N° 4
 

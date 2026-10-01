@@ -70,7 +70,7 @@ bible_refs:
   - "Actes 19"
   - "Galates 1:8"
   - "Deutéronome 18:22,15"
-  - "Ésaïe 53"
+  - "Ésaïe 53:5"
   - "Marc 16"
   - "Matthieu 28:20"
   - "Ésaïe 38:1-6"

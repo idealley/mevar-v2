@@ -25,7 +25,7 @@ bible_refs:
   - "Nombres 23:19"
   - "Nombres 22:20"
   - "2 Pierre 2:15"
-  - "Nombres 22"
+  - "Nombres 22:34"
   - "Romains 6:23"
   - "Psaumes 5:5"
   - "Deutéronome 23:3-4"

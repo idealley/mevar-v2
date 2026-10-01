@@ -102,7 +102,7 @@ bible_refs:
   - "Actes 13:47"
   - "Matthieu 25:1-13"
   - "Matthieu 25:14-30"
-  - "2 Pierre 1"
+  - "2 Pierre 1:21"
   - "Matthieu 24:45-7"
 ---
 ECLAIRCISSEMENT

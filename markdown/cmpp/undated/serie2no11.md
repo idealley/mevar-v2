@@ -44,16 +44,16 @@ themes:
 pdf_url: "http://cmpp.ch/serie2no11.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Job 23"
+  - "Job 23:3"
   - "Jean 10"
   - "Jean 1"
-  - "Jean 5"
-  - "Matthieu 1"
+  - "Jean 5:43"
+  - "Matthieu 1:23"
   - "1 Corinthiens 12"
-  - "Romains 8"
-  - "Zacharie 4"
+  - "Romains 8:1"
+  - "Zacharie 4:7"
   - "Malachie 4"
-  - "Psaumes 119"
+  - "Psaumes 119:11"
 ---
 SERIE 2 N° 11
 

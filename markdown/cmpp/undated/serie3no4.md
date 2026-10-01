@@ -45,8 +45,8 @@ llm_cleaned: true
 bible_refs:
   - "Exode 13"
   - "Exode 14"
-  - "Jean 14"
-  - "Marc 11"
+  - "Jean 14:12"
+  - "Marc 11:23"
 ---
 SERIE 3 N° 4
 

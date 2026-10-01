@@ -45,14 +45,18 @@ llm_cleaned: true
 bible_refs:
   - "Apocalypse 4"
   - "Apocalypse 19"
-  - "Apocalypse 3"
+  - "Apocalypse 19:7-9"
+  - "Apocalypse 3:8"
   - "Jean 10"
-  - "Apocalypse 1"
-  - "2 Corinthiens 12"
-  - "Matthieu 16"
+  - "Apocalypse 1:10"
+  - "2 Corinthiens 12:2"
+  - "Matthieu 16:13"
   - "Matthieu 17"
+  - "Jean 21:20"
   - "Jean 21"
+  - "Apocalypse 4:2"
   - "1 Thessaloniciens 4"
+  - "1 Thessaloniciens 4:16"
 ---
 WILLIAM MARRION BRANHAM
 

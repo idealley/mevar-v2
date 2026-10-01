@@ -41,12 +41,12 @@ pdf_url: "http://cmpp.ch/serie6no5.pdf"
 llm_cleaned: true
 bible_refs:
   - "Genèse 22:15"
-  - "Romains 4"
-  - "Actes 2"
-  - "Romains 3"
+  - "Romains 4:20"
+  - "Actes 2:38-39"
+  - "Romains 3:4"
   - "Hébreux 11"
-  - "Hébreux 13"
-  - "Hébreux 4"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
   - "Jean 4"
   - "Jean 5"
 ---

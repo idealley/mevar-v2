@@ -47,8 +47,11 @@ pdf_url: "http://cmpp.ch/serie4no8.pdf"
 llm_cleaned: true
 bible_refs:
   - "Hébreux 13"
-  - "Matthieu 17"
+  - "Hébreux 13:12"
+  - "Matthieu 17:4"
   - "Apocalypse 3"
+  - "Hébreux 13:12,13"
+  - "Hébreux 13:8"
   - "Jean 11"
   - "Actes 19"
 ---
