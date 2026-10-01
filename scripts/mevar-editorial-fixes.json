@@ -9343,7 +9343,6 @@
           "William Branham",
           "Jésus-Christ",
           "Jacob",
-          "Néhémie",
           "David",
           "Aaron",
           "Nadab",
@@ -9416,7 +9415,13 @@
         "why": "stray « / » for a full stop"
       }
     ],
-    "subtitle": "Prêché à l’église de Cocotomé / Cotonou"
+    "subtitle": "Prêché à l’église de Cocotomé / Cotonou",
+    "tags": [
+      "Exhortations",
+      "Intercession",
+      "Réveil",
+      "Prière"
+    ]
   },
   "markdown/onedrive/pdf/nov2009.md": {
     "title": "Persévérez dans la vision du réveil",
