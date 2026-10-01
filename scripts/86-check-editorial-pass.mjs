@@ -361,7 +361,7 @@ for (const md of batch) {
   // with its words, as this one did (« 2014 » in pred_sept2010's would stay a
   // header word; « 2013 » would not)
   const replaced = decided.date ? edits.replaced_date ?? "" : "";
-  if (decided.date && !promoted && replaced !== (field("date") === edits.date ? "" : field("date")))
+  if (decided.date && !promoted && replaced !== field("date"))
     r.unexplained.push(`the decided date replaces « ${field("date")} », but the editor's replaced_date is « ${replaced} »`);
   r.location = edits.location === "" ? "" : field("location");
   // the summary is the corpus's, not the preacher's: the editor's, listed
