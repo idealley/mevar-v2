@@ -60,18 +60,20 @@ const BOOK_ALT = variantsSorted.map(escRe).join("|");
 
 // "Pierre", "Cor", …: after "et 2" they start the next citation ("verset 16 et
 // 1 Jean chapitre 4"), not after "et 14"; after "; 1" too ("1 Pier. 1.12,25;
-// 1 Jean 1.1-5"). New Ghost posts are still read by this script.
+// 1 Jean 1.1-5", "; 1Cor 2.3"). New Ghost posts are still read by this script.
 const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().filter((v) => / /.test(v)).map((v) => v.replace(/^\S+ /, "")))]
   .sort((a, b) => b.length - a.length)
   .map(escRe)
   .join("|");
-const NOT_NUMBERED_BOOK = `(?!(?<=(?<!\\d)[1-3])\\s+(?:${NUMBERED})(?!\\p{L}))`;
+const NOT_NUMBERED_BOOK = `(?!(?<=(?<!\\d)[1-3])\\s*(?:${NUMBERED})(?!\\p{L}))`;
 
 // Allow optional trailing period and optional spaces before chapter number.
 // Chapter:verse separator can be `:` or `,` (with optional surrounding space),
 // or a dot between two digits, as CMPP writes them ("Mat. 24.14"): only
-// after a book, so a decimal, a price or a time is never one, nor a verse
-// that starts with 0 (« Marc 2.000 personnes »).
+// after a book, so a decimal, a price or a time with none before it is
+// never one, nor a verse that starts with 0 (« Marc 2.000 personnes »). A
+// book name that is also a word still is (« il est 8.30 », Esther), as it
+// is with a colon; the corpus has none.
 // Verse range can use `-` or `–` or `–`.
 const VERSE_ITEM = `\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?![^\\S\\n]*:[^\\S\\n]*\\d|\\.\\d)${NOT_NUMBERED_BOOK}`;
 const REF_RE = new RegExp(

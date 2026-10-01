@@ -153,7 +153,7 @@ bible_refs:
   - "Jean 10:3"
   - "Jean 10:28"
   - "Jean 10"
-  - "Matthieu 12:36-37,2"
+  - "Matthieu 12:36-37"
   - "Proverbes 10:19"
   - "Jacques 3:2"
   - "2 Corinthiens 11:15"
