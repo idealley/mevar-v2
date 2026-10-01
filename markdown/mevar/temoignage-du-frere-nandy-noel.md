@@ -41,7 +41,7 @@ themes:
   - "Fidélité à Dieu"
 llm_cleaned: true
 bible_refs:
-  - "Apocalypse 12"
+  - "Apocalypse 12:11"
   - "Exode 14:14"
   - "Néhémie 4"
   - "Néhémie 2:20"
@@ -51,7 +51,7 @@ bible_refs:
   - "Néhémie 8"
   - "Néhémie 7:63"
   - "Zacharie 8:16-17"
-  - "Zacharie 8"
+  - "Zacharie 8:9,19"
   - "Matthieu 27:33-35"
   - "Matthieu 27:3,5"
   - "Exode 31:18"
@@ -62,7 +62,7 @@ editorial_pass: "2026-10-01"
 ---
 **Serviteur de Dieu dans l’Assemblée de Guibéroua**
 
-Je suis le frère Nandy Noël Gbaha de l’assemblée de Guibéroua en Côte d’Ivoire. Je vous salue tous, frères et sœurs, dans le nom de notre bien-aimé Seigneur et Sauveur Jésus-Christ, par ces paroles tirées **d’Apocalypse 12** : **11** :
+Je suis le frère Nandy Noël Gbaha de l’assemblée de Guibéroua en Côte d’Ivoire. Je vous salue tous, frères et sœurs, dans le nom de notre bien-aimé Seigneur et Sauveur Jésus-Christ, par ces paroles tirées **d’Apocalypse 12 : 11** :
 
 > Ils l’ont vaincu à cause du sang de l’Agneau et **à cause de la parole de leur témoignage**, et ils n’ont pas aimé leur vie jusqu’à craindre la mort.
 
@@ -122,7 +122,7 @@ Je fus poussé à jeûner durant 3 jours… Cependant, il serait important de ra
 
 > Voici ce que vous devez faire : que chacun dise la vérité à son prochain ; jugez dans vos portes selon la vérité et en vue de la paix ; Que nul en son cœur ne pense le mal contre son prochain, et n’aimez pas le faux serment, car ce sont là toutes choses que je hais, dit l’Éternel.
 
-Dans le passage de **Zacharie 8** : **9,19**, l’Éternel des armées nous demande de fortifier nos mains et que de même que nous avons été en malédiction, de même que nous serons en bénédiction. Et pour cela nous ne devons pas craindre mais nous devons fortifier nos mains ; car nos jeûnes se changeront en jours d’allégresses.
+Dans le passage de **Zacharie 8 : 9,19**, l’Éternel des armées nous demande de fortifier nos mains et que de même que nous avons été en malédiction, de même que nous serons en bénédiction. Et pour cela nous ne devons pas craindre mais nous devons fortifier nos mains ; car nos jeûnes se changeront en jours d’allégresses.
 
 **Mercredi 11 octobre** : Dans la nuit de ce jour-là, je fus obligé de me réveiller à cause des moustiques. C’est alors que j’ai entendu le Seigneur me parler et me demander de prier. Regardant l’heure et voyant que je venais à peine de me coucher, j’ai résisté à cette voix et me suis recouché. La même voix me demanda à nouveau de prier mais je lui ai dit : « **Seigneur ! Notre rencontre était à 3 H du matin conformément à l’engagement que j’avais pris pour l’intercession**. » Il me demanda encore de prier sous insistance. Et moi, je lui ai dit qu’en priant comme il le demandait, ce serait trahir le serment que j’avais pris devant lui. Alors, le Seigneur m’a dit que j’ai vu juste et que c’est dans cette communion selon sa volonté qu’il veut emmener son peuple. Mais de regarde cette chose-là me dit-il : « **Il y a deux esprits, deux sortes d’adorations maintenant dans mon Église. Repars au commencement et vois les deux sortes d’adorations avec Abel et Caïn. (Gén.4 : 1**) Deux sortes d’offrandes en sacrifices : **celle de Jésus sur la montagne et celle de Juda au pied de la montagne**. Matthieu 27 : 33-35 ; Matthieu 27 : 3,5, deux sortes d’adorations aux temps des enfants d’Israël dans le désert : celle de Moïse au mont Sinaï et celle du veau d’or au pied de la montagne. Ex.31 : 18- Ex.32 : 1,35. Mais comme toujours, **j’ai choisi la meilleure adoration, celle que je veux et que j’ai toujours agréée. C’est le cas de l’adoration d’Élie et** celle des prophètes **de Baal**. 1Rois 18 : 20. Mais **je vais frapper tout ce qui sera sur mon chemin et qui s’opposera à ma volonté. Je frapperai tout sur mon chemin**. »
 
