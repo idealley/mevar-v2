@@ -331,21 +331,22 @@ for (const md of batch) {
   const same = (a, b) => words(a).length === words(b).length && words(a).every((x, i) => typography(x.w, words(b)[i].w) || caps(x.w, words(b)[i].w));
   const opening = new Set(words(original).slice(0, 80).map((x) => key(x.w)));
   const fromPdf = (t) => words(t).length > 0 && words(t).every((x) => opening.has(key(x.w)));
-  // or Samuel decided it, in his words, recorded in the editor's entry and
-  // listed (« Segond: Nebucadnetsar »; a date the PDF prints without its year)
-  const decided = edits.decided ?? "";
+  // or Samuel decided it, in his words, recorded in the editor's entry for
+  // that field alone and listed (« Segond: Nebucadnetsar » for a title; a
+  // date the PDF prints without its year): { title?, subtitle?, date? }
+  const decided = edits.decided ?? {};
   r.decided = decided;
-  r.title = same(oldTitle, proposedTitle) || (edits.title && (fromPdf(edits.title) || decided)) ? proposedTitle : oldTitle;
+  r.title = same(oldTitle, proposedTitle) || (edits.title && (fromPdf(edits.title) || decided.title)) ? proposedTitle : oldTitle;
   r.titleRefused = r.title === proposedTitle ? "" : proposedTitle;
   const oldSubtitle = field("subtitle");
-  r.subtitle = edits.subtitle && (same(oldSubtitle, edits.subtitle) || fromPdf(edits.subtitle) || decided) ? edits.subtitle : oldSubtitle;
+  r.subtitle = edits.subtitle && (same(oldSubtitle, edits.subtitle) || fromPdf(edits.subtitle) || decided.subtitle) ? edits.subtitle : oldSubtitle;
   // the editor's subtitle, listed: taken, or refused (a word not in the opening)
   r.subtitles = edits.subtitle ? { after: r.subtitle, refused: r.subtitle === edits.subtitle ? "" : edits.subtitle } : null;
   // When a split leaves the first work with the second's date and place: a
   // date whose month and year the opening states (« Exhortation mi-novembre
   // 2009 »), and a place only taken away, never given.
   const [ey, em] = (edits.date ?? "").split("-");
-  r.date = edits.date && ((opening.has(key(ey)) && opening.has(key(MONTHS[Number(em) - 1] ?? "-"))) || decided) ? edits.date : field("date");
+  r.date = edits.date && ((opening.has(key(ey)) && opening.has(key(MONTHS[Number(em) - 1] ?? "-"))) || decided.date) ? edits.date : field("date");
   r.location = edits.location === "" ? "" : field("location");
   // the summary is the corpus's, not the preacher's: the editor's, listed
   r.summary = edits.summary ?? field("summary");
@@ -355,6 +356,8 @@ for (const md of batch) {
   r.lists = Object.fromEntries(LISTS.filter((k) => edits[k]).map((k) => [k, edits[k]]));
   // each is written over its own frontmatter line: without one, the page and
   // the manifest would disagree
+  // a date is written as its date and year lines, both or neither
+  if (edits.date && /^date: /m.test(fm) !== /^year: /m.test(fm)) r.unexplained.push("the editor gives a date, but the frontmatter has a date line without a year line, or a year without a date");
   for (const [k, line] of [["summary", /^summary: /m], ...LISTS.map((l) => [l, new RegExp(`^${l}:\\n  - `, "m")])])
     if (edits[k] && !(Array.isArray(edits[k]) && !edits[k].length) && !line.test(fm)) r.unexplained.push(`the editor gives a ${k}, but the frontmatter has no ${k} line to write it on`);
 
@@ -365,10 +368,12 @@ for (const md of batch) {
     const [y, mo, d] = date.split("-");
     return new Set([...texts, `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t ?? "").map((x) => key(x.w))));
   };
-  // the title the pass read from the header counts too: a title the editor
-  // or Samuel changes after promotion (« Nebucadnetsar » for the header's
+  // the title the pass read from the header counts too, unless 86 refused
+  // it (the pass cannot certify its own deletion): a title the editor or
+  // Samuel changes after promotion (« Nebucadnetsar » for the header's
   // « NEBUKADNETSAR ») must not unmake the header on the next run
-  const own = ownWords([oldTitle, oldSubtitle, r.title, r.subtitle, pass.title, field("location"), field("preacher")], field("date"));
+  const headerTitle = r.titleRefused ? [] : [pass.title];
+  const own = ownWords([oldTitle, oldSubtitle, r.title, r.subtitle, ...headerTitle, field("location"), field("preacher")], field("date"));
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const inHeader = new Set(words(header).map((x) => key(x.w)));
   const holds = (t) => words(t).length > 0 && words(t).every((x) => inHeader.has(key(x.w)));
@@ -378,7 +383,7 @@ for (const md of batch) {
   const single = (w) => w.replace(/(\p{L})\1/gu, "$1");
   const name = new Set(words(field("preacher") ?? "").map((x) => key(x.w)));
   const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || name.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w))
-    && [oldTitle, oldSubtitle, r.title, r.subtitle, pass.title].some(holds);
+    && [oldTitle, oldSubtitle, r.title, r.subtitle, ...headerTitle].some(holds);
   r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
   if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
 
@@ -599,9 +604,9 @@ if (rows.some((r) => r.headings.length)) {
 }
 L.push("", "## Titles", "", "| Text | Title | Proposed by the pass and refused (a word changed) |", "| --- | --- | --- |");
 for (const r of rows) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.titleRefused)} |`);
-if (rows.some((r) => r.decided)) {
-  L.push("", "## Samuel's decisions the editor recorded (title, subtitle or date the PDF's opening does not state)", "", "| Text | Title | Subtitle | Date | Samuel |", "| --- | --- | --- | --- | --- |");
-  for (const r of rows) if (r.decided) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(r.title)} | ${cell(r.subtitle)} | ${cell(r.date)} | ${cell(r.decided)} |`);
+if (rows.some((r) => Object.keys(r.decided ?? {}).length)) {
+  L.push("", "## Samuel's decisions the editor recorded (a title, subtitle or date the PDF's opening does not state)", "", "| Text | Field | Value | Samuel |", "| --- | --- | --- | --- |");
+  for (const r of rows) for (const [k, v] of Object.entries(r.decided ?? {})) L.push(`| \`${path.basename(r.md, ".md")}\` | ${k} | ${cell(r[k])} | ${cell(v)} |`);
 }
 if (rows.some((r) => r.subtitles)) {
   L.push("", "## Subtitles the editor gave", "", "| Text | Subtitle | Refused (a word not in the PDF's opening) |", "| --- | --- | --- |");
