@@ -8713,7 +8713,7 @@
     },
     {
       "line": "**Le Message de Minuit**",
-      "heading": "## Le Message de Minuit"
+      "heading": null
     },
     {
       "line": "**Prêché le 24 novembre à Soubré**",
@@ -8745,7 +8745,7 @@
     },
     {
       "line": "**Le péché de Nébukadnetsar – roi de Babylone**",
-      "heading": "## Le péché de Nébukadnetsar – roi de Babylone"
+      "heading": null
     },
     {
       "line": "**Prêché le 19 novembre 2006, Koumassi (Abidjan)**",
@@ -8754,6 +8754,10 @@
     {
       "line": "**Sujets de prière**",
       "heading": "## Sujets de prière"
+    },
+    {
+      "line": "**Le péché de Nebucadnetsar – roi de Babylone**",
+      "heading": null
     }
   ],
   "markdown/onedrive/pdf/perseverez.md": [
@@ -8769,7 +8773,7 @@
   "markdown/onedrive/pdf/planattaque2.md": [
     {
       "line": "**Plan d’attaque II**",
-      "heading": "## Plan d’attaque II"
+      "heading": null
     }
   ],
   "markdown/onedrive/pdf/pourquoi_huitieme.md": [
@@ -8827,7 +8831,7 @@
     },
     {
       "line": "**Le couronnement de Satan – la prise du palais**",
-      "heading": "### Le couronnement de Satan – la prise du palais"
+      "heading": null
     },
     {
       "line": "**LA STRATÉGIE DE DIEU CONTRE SATAN**",

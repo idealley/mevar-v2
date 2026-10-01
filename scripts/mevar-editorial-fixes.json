@@ -9299,7 +9299,76 @@
         "kind": "typo",
         "why": "Quoted speech starts with a capital."
       }
-    ]
+    ],
+    "location": "",
+    "summary": "Dans cette exhortation de fin d'année 2006, le frère M'bra rappelle les labeurs de Paul dans les veilles et les jeûnes multipliés (2 Corinthiens 11) : celui qui a reçu la révélation de Jésus-Christ s'adonne au jeûne et à la prière pour entrer dans les profondeurs de Dieu, dans l'attente de l'Époux. Il joint ses prédications récentes et annonce le bilan de la chaîne de prière.",
+    "tags": [
+      "Exhortations",
+      "2006",
+      "Jeûne et prière"
+    ],
+    "persons": [
+      "Paul",
+      "William Branham",
+      "Néhémie",
+      "Jacob"
+    ],
+    "places": [],
+    "themes": [
+      "Jeûne et prière",
+      "Attente de l'Époux",
+      "Communion avec Dieu"
+    ],
+    "split": {
+      "at": "**Le Message de Minuit**\n\n**Prêché le 24 novembre à Soubré**",
+      "frontmatter": {
+        "sermon_id": "minuit-le-message-de-minuit",
+        "title": "Le Message de Minuit",
+        "subtitle": "Prêché le 24 novembre à Soubré",
+        "date": "2006-11-24",
+        "year": 2006,
+        "location": "Soubré",
+        "preacher": "Parfait M'bra",
+        "summary": "Prêchée à Soubré, cette prédication insiste sur la sanctification, le jeûne et la prière pour se préparer à la rencontre avec l'Époux. Elle compare l'Église aux vierges sages et folles de Matthieu 25 et appelle les croyants à se réveiller et à se purifier, comme des vases d'honneur, pour être prêts pour l'enlèvement.",
+        "tags": [
+          "Prédications",
+          "2006",
+          "Sanctification",
+          "Jeûne et prière",
+          "Réveil"
+        ],
+        "persons": [
+          "Paul",
+          "Moïse",
+          "William Branham",
+          "Jésus-Christ",
+          "Jacob",
+          "Néhémie",
+          "David",
+          "Aaron",
+          "Nadab",
+          "Abihu"
+        ],
+        "places": [
+          "Soubré",
+          "Congo",
+          "Allemagne",
+          "Côte d'Ivoire",
+          "RDC",
+          "Lausanne",
+          "Krefeld"
+        ],
+        "themes": [
+          "Sanctification",
+          "Jeûne et prière",
+          "Réveil",
+          "Préparation à l'enlèvement",
+          "Vierges sages et folles",
+          "Message de Minuit",
+          "Vases d'honneur"
+        ]
+      }
+    }
   },
   "markdown/onedrive/pdf/nouvelleorientation.md": {
     "title": null,
@@ -9347,7 +9416,9 @@
         "why": "stray « / » for a full stop"
       }
     ],
-    "subtitle": "Prêché à l’église de Cocotomé / Cotonou"
+    "subtitle": "Prêché à l’église de Cocotomé / Cotonou",
+    "date": "2010-03-13",
+    "decided": "Samuel, 2026-10-01: « Set both »: the date the PDF's header prints, 13/03/2010"
   },
   "markdown/onedrive/pdf/nov2009.md": {
     "title": "Persévérez dans la vision du réveil",
@@ -9661,7 +9732,7 @@
     "subtitle": "Prêché à Koumassi le dimanche matin 07 janvier 2007"
   },
   "markdown/onedrive/pdf/peche.md": {
-    "title": null,
+    "title": "Le péché de Nebucadnetsar",
     "fixes": [
       {
         "find": "**Mais Babylone est spirituelle**.",
@@ -9761,17 +9832,258 @@
       },
       {
         "find": "Regardez Nébukadnetsar.",
-        "replace": "Regardez Nébucadnetsar.",
+        "replace": "Regardez Nebucadnetsar.",
         "kind": "revert",
-        "why": "the PDF has « Nébucadnetsar », the spelling closest to the Bible's (Segond « Nebucadnetsar »); the pass's harmonisation is undone"
+        "why": "the PDF has « Nébucadnetsar », the spelling closest to the Bible's (Segond « Nebucadnetsar »); the pass's harmonisation is undone; the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
       },
       {
         "find": "**Le péché de Nébukadnetsar**. **Méfiez-vous",
-        "replace": "**Le péché de Nébucadnetsar**. **Méfiez-vous",
+        "replace": "**Le péché de Nebucadnetsar**. **Méfiez-vous",
         "kind": "revert",
-        "why": "the PDF has « Nébucadnetsar », the spelling closest to the Bible's (Segond « Nebucadnetsar »); the pass's harmonisation is undone"
+        "why": "the PDF has « Nébucadnetsar », the spelling closest to the Bible's (Segond « Nebucadnetsar »); the pass's harmonisation is undone; the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "é de Nébukadnetsar – ro",
+        "replace": "é de Nebucadnetsar – ro",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "-là. Nébucadnetsar a fa",
+        "replace": "-là. Nebucadnetsar a fa",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "é de Nébukadnetsar**. O",
+        "replace": "é de Nebucadnetsar**. O",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "e de Nébucadnetsar.\n\n> ",
+        "replace": "e de Nebucadnetsar.\n\n> ",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "n de Nébukadnetsar – Et",
+        "replace": "n de Nebucadnetsar – Et",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": " Nébukadnetsar étai",
+        "replace": " Nebucadnetsar étai",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "ien, Nébukadnetsar est ",
+        "replace": "ien, Nebucadnetsar est ",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "n de Nébukadnetsar n’ét",
+        "replace": "n de Nebucadnetsar n’ét",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "ever Nébukadnetsar dans",
+        "replace": "ever Nebucadnetsar dans",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "lève Nébukadnetsar sur ",
+        "replace": "lève Nebucadnetsar sur ",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": " lui Nébukadnetsar, il ",
+        "replace": " lui Nebucadnetsar, il ",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "s de Nébukadnetsar. **D",
+        "replace": "s de Nebucadnetsar. **D",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "nant Nébucadnetsar, c’é",
+        "replace": "nant Nebucadnetsar, c’é",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "daté Nébukadnetsar – Je",
+        "replace": "daté Nebucadnetsar – Je",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": " ici Nébucadnetsar a ét",
+        "replace": " ici Nebucadnetsar a ét",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "mme, Nébucadnetsar, son",
+        "replace": "mme, Nebucadnetsar, son",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "rand Nébucadnetsar. Ses",
+        "replace": "rand Nebucadnetsar. Ses",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": " moi Nébucadnetsar, le ",
+        "replace": " moi Nebucadnetsar, le ",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "Mais Nébucadnetsar ici,",
+        "replace": "Mais Nebucadnetsar ici,",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": " que Nébucadnetsar a de",
+        "replace": " que Nebucadnetsar a de",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": " que Nébucadnetsar cass",
+        "replace": " que Nebucadnetsar cass",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "s de Nébucadnetsar. Et ",
+        "replace": "s de Nebucadnetsar. Et ",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "né à Nébukadnetsar, un ",
+        "replace": "né à Nebucadnetsar, un ",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "**Et Nébukadnetsar a pe",
+        "replace": "**Et Nebucadnetsar a pe",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "rôlé Nébukadnetsar lui-",
+        "replace": "rôlé Nebucadnetsar lui-",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": "t de Nébukadnetsar sera",
+        "replace": "t de Nebucadnetsar sera",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
+      },
+      {
+        "find": ".\n\n**Nébukadnetsar a fa",
+        "replace": ".\n\n**Nebucadnetsar a fa",
+        "kind": "typo",
+        "why": "the Bible's spelling, as Samuel decided (« Segond: Nebucadnetsar »): the Segond database, Daniel 4:4, Jérémie 27:6"
       }
-    ]
+    ],
+    "decided": "Samuel, 2026-10-01: « Segond: Nebucadnetsar », the Bible's spelling for the king's name; « Split all three »",
+    "location": "",
+    "summary": "Dans cette exhortation de décembre 2006, « mois de la délivrance », le frère M'bra appelle la chaîne de prière à se préparer à la rencontre du Seigneur (Amos 4:12) en détruisant les œuvres de la chair, annonce le jeûne des 21, 22 et 23 décembre et le bilan de l'œuvre de prière, et joint la prédication sur l'esprit babylonien. Suivent les sujets de prière.",
+    "tags": [
+      "Exhortations",
+      "2006",
+      "Délivrance",
+      "Jeûne et prière"
+    ],
+    "persons": [],
+    "places": [
+      "Afrique de l'Ouest",
+      "Afrique centrale",
+      "Europe",
+      "Haïti",
+      "Madagascar"
+    ],
+    "themes": [
+      "Délivrance",
+      "Jeûne et prière",
+      "Sortie de Babylone"
+    ],
+    "split": {
+      "at": "**Le péché de Nebucadnetsar – roi de Babylone**\n\n**Prêché le 19 novembre 2006",
+      "until": "## Sujets de prière",
+      "frontmatter": {
+        "sermon_id": "peche-le-peche-de-nebucadnetsar",
+        "title": "Le péché de Nebucadnetsar – roi de Babylone",
+        "subtitle": "Prêché le 19 novembre 2006, Koumassi (Abidjan)",
+        "date": "2006-11-19",
+        "year": 2006,
+        "location": "Koumassi (Abidjan)",
+        "preacher": "Parfait M'bra",
+        "summary": "Prêchée à Koumassi, cette prédication traite du péché d'orgueil de Nebucadnetsar, roi de Babylone, figure de l'esprit babylonien qui sévit dans l'Église de Laodicée. Elle appelle à sortir spirituellement de Babylone, en se détachant de l'orgueil, de la religion formelle et de la débauche, pour vivre dans l'humilité et la possession réelle de Dieu.",
+        "tags": [
+          "Prédications",
+          "2006",
+          "Babylone",
+          "orgueil",
+          "humilité",
+          "Laodicée"
+        ],
+        "persons": [
+          "Nebucadnetsar",
+          "Daniel",
+          "Jérémie",
+          "Achab",
+          "Josaphat",
+          "Michée",
+          "Jésus-Christ",
+          "William Branham",
+          "Frank"
+        ],
+        "places": [
+          "Babylone",
+          "Koumassi",
+          "Abidjan",
+          "Arrah",
+          "Congo Démocratique",
+          "Burundi",
+          "Irak",
+          "Mésopotamie",
+          "Jérusalem",
+          "Rome",
+          "Vatican",
+          "France",
+          "Côte d'Ivoire"
+        ],
+        "themes": [
+          "Esprit babylonien",
+          "Orgueil et humiliation",
+          "Sortie de Babylone",
+          "Religion vs révélation",
+          "Humilité chrétienne",
+          "Possession de Dieu",
+          "Laodicée"
+        ]
+      }
+    }
   },
   "markdown/onedrive/pdf/peche_jonas.md": {
     "title": null,
@@ -9889,7 +10201,8 @@
         "kind": "word",
         "why": "misheard homophone: « Autant de Saül » is « Au temps de Saül » (David then consults God about Saul's killing of the Gibeonites)"
       }
-    ]
+    ],
+    "subtitle": "Prêché à Koumassi le dimanche 08 novembre 2009"
   },
   "markdown/onedrive/pdf/planattaque2.md": {
     "title": null,
@@ -9954,7 +10267,78 @@
         "kind": "word",
         "why": "stray « les » before « le temps » at a PDF page break (transcriber's slip)"
       }
-    ]
+    ],
+    "location": "",
+    "summary": "Le frère M'bra adresse la prédication « Plan d'attaque II » : le plan d'attaque de Dieu contre Satan, c'est la vie de sainteté des croyants ; par la sainteté et par la prédication, Babylone tombera, comme Jésus a vaincu le monde.",
+    "tags": [
+      "Exhortations",
+      "2009",
+      "Sainteté",
+      "Babylone"
+    ],
+    "persons": [
+      "Jésus-Christ"
+    ],
+    "places": [],
+    "themes": [
+      "Plan d'attaque de Dieu",
+      "Sainteté comme stratégie"
+    ],
+    "split": {
+      "at": "**Plan d’attaque II**\n\n**Prêché par le frère",
+      "frontmatter": {
+        "sermon_id": "planattaque2-plan-d-attaque-ii",
+        "title": "Plan d’attaque II",
+        "subtitle": "Prêché le dimanche 15 novembre 2009 à l’assemblée de Koumassi",
+        "date": "2009-11-15",
+        "year": 2009,
+        "location": "Koumassi",
+        "preacher": "Parfait M'bra",
+        "summary": "Le prédicateur poursuit l'enseignement sur le plan d'attaque de Dieu contre Satan : la vie de sainteté des croyants est la stratégie divine pour faire tomber Babylone. Il détaille le combat spirituel, les ruses de l'ennemi, la compréhension et la persévérance pour atteindre une Église sans tache et un témoignage puissant au monde.",
+        "tags": [
+          "Prédications",
+          "2009",
+          "Combat spirituel",
+          "Sainteté",
+          "Babylone"
+        ],
+        "persons": [
+          "Jésus-Christ",
+          "Satan",
+          "Josué",
+          "Samson",
+          "Dalila",
+          "Daniel",
+          "Nebucadnetsar",
+          "Martin Luther",
+          "Hérode",
+          "Jean-Baptiste",
+          "Lazare"
+        ],
+        "places": [
+          "Koumassi",
+          "Côte d'Ivoire",
+          "Abidjan",
+          "Jéricho",
+          "Aï",
+          "Gabaon",
+          "Jérusalem",
+          "Babylone",
+          "Rome",
+          "Vatican",
+          "Europe"
+        ],
+        "themes": [
+          "Plan d'attaque de Dieu",
+          "Sainteté comme stratégie",
+          "Combat spirituel",
+          "Babylone et son système",
+          "Persévérance des saints",
+          "Témoignage au monde",
+          "Œcuménisme"
+        ]
+      }
+    }
   },
   "markdown/onedrive/pdf/plandattaque.md": {
     "title": "Plans d’attaque III",
@@ -10036,9 +10420,16 @@
         "replace": "Il n’était pas parmi les douze, mais il remuait la ville.",
         "kind": "typo",
         "why": "« il » is Étienne, not God: no capital"
+      },
+      {
+        "find": "Et comment y aura-t-il des prédicateurs, s’ils ne sont pas envoyés ? Selon qu’il est écrit : Qu’ils sont beaux Les pieds de ceux qui annoncent la paix, De ceux qui annoncent de bonnes nouvelles ! Et comment y aura-t-il des prédicateurs, s’ils ne sont pas envoyés ? Selon qu’il est écrit : Qu’ils sont beaux Les pieds de ceux qui annoncent la paix, De ceux qui annoncent de bonnes nouvelles ! Mais tous",
+        "replace": "Et comment y aura-t-il des prédicateurs, s’ils ne sont pas envoyés ? Selon qu’il est écrit : Qu’ils sont beaux Les pieds de ceux qui annoncent la paix, De ceux qui annoncent de bonnes nouvelles ! Mais tous",
+        "kind": "word",
+        "why": "the PDF prints the sentence of verse 15 twice in a row inside the reading, a copy slip; Romains 10:15 in the Segond database has it once (Samuel, 2026-10-01: « Remove the second copy »)"
       }
     ],
-    "subtitle": "Prêché le 22 novembre 2009 à Koumassi"
+    "subtitle": "Prêché le 22 novembre 2009 à Koumassi",
+    "decided": "Samuel, 2026-10-01: « Remove the second copy » of Romains 10:15 in the reading"
   },
   "markdown/onedrive/pdf/pourquoi_huitieme.md": {
     "title": "Pourquoi la part d’un huitième ?",
@@ -10168,6 +10559,24 @@
         "replace": "s n’ont pas la même fonction, 5 **ainsi,",
         "kind": "markup",
         "why": "the PDF prints this verse number plain, inside the reading; the checker accepts a bold number mid-reading only before a capital"
+      },
+      {
+        "find": "S’en aller en paix, selon ta Parole.",
+        "replace": "S’en aller en paix, selon ta parole.",
+        "kind": "revert",
+        "why": "the PDF and the Segond database (Luc 2:29) have « selon ta parole »; the pass added the capital"
+      },
+      {
+        "find": " : « **Rachetez le temps, car les jours sont mauvais**. » (Eph 5:16) C’est avec",
+        "replace": " :\n\n> **Rachetez le temps, car les jours sont mauvais**. (Eph 5:16)\n\nC’est avec",
+        "kind": "markup",
+        "why": "a reading he gives with its reference: its own quote paragraph"
+      },
+      {
+        "find": "le verset 6 : « **Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés !** » **Dans notre",
+        "replace": "le verset 6 :\n\n> **Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés !**\n\n**Dans notre",
+        "kind": "markup",
+        "why": "a reading he announces (Matthieu 5:6): its own quote paragraph"
       }
     ]
   },
@@ -10685,6 +11094,8 @@
         "why": "Capital after a comma: « ils »."
       }
     ],
-    "subtitle": "Prêché le dimanche 22 août à Koumassi"
+    "subtitle": "Prêché le dimanche 22 août à Koumassi",
+    "date": "2010-08-22",
+    "decided": "Samuel, 2026-10-01: « Set both »: 22 August 2010, a Sunday as the header says (« Prêché le dimanche 22 août », no year); 22 August 2014 was a Friday"
   }
 }
