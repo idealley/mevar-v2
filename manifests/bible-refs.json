@@ -5447,34 +5447,6 @@
     "1 Corinthiens 10:21-22",
     "2 Corinthiens 6:14-17"
   ],
-  "markdown/mevar/les-fils-du-desert-2009.md": [
-    "Ésaïe 40",
-    "Ésaïe 40:1-5",
-    "Marc 13",
-    "Marc 13:34-35",
-    "1 Timothée 3",
-    "1 Timothée 3:14-15",
-    "Éphésiens 2:20",
-    "Apocalypse 21",
-    "Apocalypse 21:2",
-    "Apocalypse 21:6-11",
-    "2 Thessaloniciens 2",
-    "Luc 1:80",
-    "Luc 3:1-3",
-    "Osée 2",
-    "Osée 2:12-16",
-    "Nombres 14",
-    "Nombres 14:28-31",
-    "1 Corinthiens 10",
-    "Apocalypse 12",
-    "Apocalypse 12:10-16",
-    "Luc 4:1-2",
-    "Romains 8:13",
-    "Luc 4:13-21",
-    "1 Corinthiens 9:23-27",
-    "2 Corinthiens 11",
-    "Galates 1:15-18"
-  ],
   "markdown/mevar/la-victoire-appartient-a-l-eternel-2008.md": [
     "1 Samuel 17:45-47",
     "Psaumes 60",
@@ -8832,7 +8804,7 @@
     "Ézéchiel 23:37",
     "Matthieu 16:4"
   ],
-  "markdown/onedrive/pdf/minuit.md": [
+  "markdown/mevar/le-message-de-minuit-decembre-2006.md": [
     "2 Corinthiens 11:27-33",
     "Colossiens 2:1-3",
     "Psaumes 42:7-8",
@@ -8840,26 +8812,7 @@
     "Néhémie 2:18-20",
     "Marc 2:18-22",
     "Jean 8:34",
-    "2 Pierre 2:17-19",
-    "Matthieu 25",
-    "Matthieu 25:1-13",
-    "Exode 19",
-    "Exode 19:10-20",
-    "Apocalypse 3:14",
-    "Matthieu 24:45",
-    "Matthieu 13",
-    "2 Timothée 2",
-    "2 Timothée 2:20-21",
-    "2 Thessaloniciens 3",
-    "Hébreux 10:10",
-    "Hébreux 12",
-    "Hébreux 12:14",
-    "Hébreux 13",
-    "1 Pierre 1:22",
-    "Lévitique 10:1",
-    "Ésaïe 58",
-    "Ésaïe 42:19",
-    "1 Pierre 4:12-13"
+    "2 Pierre 2:17-19"
   ],
   "markdown/onedrive/pdf/nehemie_patriote.md": [
     "Romains 8:19-21",
@@ -9121,16 +9074,7 @@
     "Proverbes 25",
     "Galates 6"
   ],
-  "markdown/onedrive/pdf/nouvelleorientation.md": [
-    "Exode 17",
-    "Exode 17:8-16",
-    "Ézéchiel 22:24-31",
-    "Matthieu 24",
-    "1 Corinthiens 12",
-    "Marc 16",
-    "Ésaïe 62:1"
-  ],
-  "markdown/onedrive/pdf/nov2009.md": [
+  "markdown/mevar/perseverez-dans-la-vision-du-reveil-2009.md": [
     "Osée 6",
     "Osée 6:3",
     "Matthieu 25",
@@ -9142,10 +9086,11 @@
     "Michée 6:6-8",
     "Ésaïe 28:17",
     "Jérémie 22:3",
+    "Ézéchiel 18:21",
     "Luc 11:42",
     "Amos 4:7-12"
   ],
-  "markdown/onedrive/pdf/onction_fait_ladifference.md": [
+  "markdown/mevar/l-onction-fait-la-difference-2013.md": [
     "Malachie 4",
     "Matthieu 25",
     "Luc 2",
@@ -9156,7 +9101,7 @@
     "Matthieu 24:14",
     "Luc 17"
   ],
-  "markdown/onedrive/pdf/parle_au_rocher.md": [
+  "markdown/mevar/parle-au-rocher-ou-proclamations-2013.md": [
     "Matthieu 16",
     "Matthieu 16:17-19",
     "Exode 17",
@@ -9166,7 +9111,7 @@
     "Jean 10:34-37",
     "Marc 11"
   ],
-  "markdown/onedrive/pdf/parolededieu.md": [
+  "markdown/mevar/la-parole-de-dieu-2007.md": [
     "Jérémie 7",
     "Jérémie 1",
     "Luc 8",
@@ -9179,10 +9124,13 @@
     "Apocalypse 3",
     "Zacharie 14",
     "Jérémie 23",
+    "Ézéchiel 36",
     "Luc 24",
     "Matthieu 25",
+    "Éphésiens 5:25,26",
     "Jean 17:17",
     "Actes 2:38",
+    "Éphésiens 6",
     "Malachie 4:5",
     "Matthieu 24:45",
     "Apocalypse 10",
@@ -9194,23 +9142,14 @@
     "Jacques 1:23-25",
     "Hébreux 4:12"
   ],
-  "markdown/onedrive/pdf/peche.md": [
-    "Amos 4:12",
-    "Apocalypse 17",
-    "Genèse 11",
-    "Matthieu 25",
-    "Jacques 3",
-    "Daniel 4:10",
-    "Jérémie 27:5",
-    "Apocalypse 3:14",
-    "Jérémie 1",
-    "Actes 2:38"
+  "markdown/mevar/le-peche-de-nebucadnetsar-2006.md": [
+    "Amos 4:12"
   ],
-  "markdown/onedrive/pdf/peche_jonas.md": [
+  "markdown/mevar/le-peche-de-jonas-2008.md": [
     "Jonas 1:1-3",
     "Malachie 4:5"
   ],
-  "markdown/onedrive/pdf/perseverez.md": [
+  "markdown/mevar/perseverez-dans-la-priere-et-l-intercession-2009.md": [
     "Ésaïe 62",
     "Ésaïe 62:1-4",
     "Ésaïe 62:6-7",
@@ -9218,29 +9157,22 @@
     "Actes 3:19-21",
     "Michée 2:10"
   ],
-  "markdown/onedrive/pdf/planattaque2.md": [
-    "Matthieu 24",
-    "Jérémie 50:2",
-    "Ésaïe 48",
-    "Apocalypse 17",
-    "Apocalypse 13",
-    "Apocalypse 13:12-14",
-    "Ésaïe 40"
-  ],
-  "markdown/onedrive/pdf/plandattaque.md": [
+  "markdown/mevar/plans-d-attaque-iii-2009.md": [
+    "Éphésiens 4",
     "Romains 10",
     "Apocalypse 6",
     "Matthieu 24",
     "Matthieu 9:18",
     "Marc 2:22",
     "Matthieu 5:45",
+    "Jean 5:35",
     "Ésaïe 42:1-6",
     "Matthieu 25",
     "2 Corinthiens 11:2",
     "Actes 13:1",
     "Actes 13"
   ],
-  "markdown/onedrive/pdf/pourquoi_huitieme.md": [
+  "markdown/mevar/pourquoi-la-part-d-un-huitieme-2012.md": [
     "Éphésiens 5",
     "Éphésiens 5:16",
     "Matthieu 5",
@@ -9322,7 +9254,7 @@
     "Apocalypse 3:14-19",
     "Ésaïe 40:9"
   ],
-  "markdown/onedrive/pdf/pred_0109.md": [
+  "markdown/mevar/quand-un-homme-peut-trouver-grace-aux-yeux-de-l-eternel-2007.md": [
     "Nombres 12:4",
     "Exode 17",
     "Exode 33:7-11",
@@ -9330,7 +9262,7 @@
     "Exode 34",
     "Nombres 20:7"
   ],
-  "markdown/onedrive/pdf/pred_aimes_tu.md": [
+  "markdown/mevar/ami-m-aimes-tu-2009.md": [
     "Jean 15:12",
     "Jean 21",
     "Matthieu 24:11",
@@ -9340,7 +9272,7 @@
     "Ésaïe 42:19",
     "Luc 17"
   ],
-  "markdown/onedrive/pdf/pred_calomnie.md": [
+  "markdown/mevar/les-calomnies-2010.md": [
     "Colossiens 3:15",
     "Lévitique 19:16",
     "1 Rois 17:1",
@@ -9351,7 +9283,7 @@
     "Romains 3:8",
     "Nombres 12:2"
   ],
-  "markdown/onedrive/pdf/pred_femmeetrangere.md": [
+  "markdown/mevar/la-femme-etrangere-2007.md": [
     "Proverbes 7",
     "Juges 19",
     "1 Corinthiens 7",
@@ -9364,7 +9296,7 @@
     "Genèse 38",
     "Genèse 38:6-11"
   ],
-  "markdown/onedrive/pdf/pred_jan2011.md": [
+  "markdown/mevar/l-accomplissement-de-la-bonne-parole-2010.md": [
     "Jérémie 33",
     "Jérémie 33:14",
     "1 Timothée 2:9",
@@ -9375,7 +9307,7 @@
     "Apocalypse 3:14",
     "Apocalypse 12"
   ],
-  "markdown/onedrive/pdf/pred_processus.md": [
+  "markdown/mevar/le-processus-de-la-fin-des-temps-2009.md": [
     "Luc 4",
     "Luc 4:18",
     "Zacharie 14",
@@ -9395,7 +9327,7 @@
     "Marc 13",
     "Matthieu 24:14"
   ],
-  "markdown/onedrive/pdf/pred_sept2010.md": [
+  "markdown/mevar/l-autorite-spirituelle-2010.md": [
     "Romains 13:1",
     "Matthieu 28",
     "Nombres 16",
@@ -47139,7 +47071,8 @@
     "1 Rois 18",
     "Matthieu 25"
   ],
-  "markdown/onedrive/pdf/planattaque.md": [
+  "markdown/mevar/plans-d-attaque-i-2009.md": [
+    "Éphésiens 6:10-13",
     "Josué 6:1-5",
     "Josué 8:1-2",
     "Josué 8:14-17",
@@ -48846,5 +48779,58 @@
     "Joël 2",
     "Joël 2:12-17",
     "Luc 7:36-50"
+  ],
+  "markdown/mevar/le-message-de-minuit-novembre-2006.md": [
+    "Matthieu 25",
+    "Matthieu 25:1-13",
+    "Exode 19",
+    "Exode 19:10-20",
+    "Apocalypse 3:14",
+    "Matthieu 24:45",
+    "Matthieu 13",
+    "2 Timothée 2",
+    "2 Timothée 2:20-21",
+    "2 Thessaloniciens 3",
+    "Hébreux 10:10",
+    "Hébreux 12",
+    "Hébreux 12:14",
+    "Hébreux 13",
+    "1 Pierre 1:22",
+    "Lévitique 10:1",
+    "Ésaïe 58",
+    "Ésaïe 42:19",
+    "1 Pierre 4:12-13"
+  ],
+  "markdown/mevar/le-peche-de-nebucadnetsar-roi-de-babylone-2006.md": [
+    "Apocalypse 17",
+    "Genèse 11",
+    "Matthieu 25",
+    "Jacques 3",
+    "Daniel 4:10",
+    "Jérémie 27:5",
+    "Apocalypse 3:14",
+    "Jérémie 1",
+    "Actes 2:38"
+  ],
+  "markdown/mevar/plan-d-attaque-ii-preche-novembre-2009.md": [
+    "Éphésiens 6:10-12",
+    "Éphésiens 5",
+    "Matthieu 24",
+    "Jérémie 50:2",
+    "Ésaïe 48",
+    "Apocalypse 17",
+    "Apocalypse 13",
+    "Apocalypse 13:12-14",
+    "Ésaïe 40"
+  ],
+  "markdown/mevar/l-intercession.md": [
+    "Exode 17",
+    "Exode 17:8-16",
+    "Ézéchiel 22:24-31",
+    "Matthieu 24",
+    "1 Corinthiens 12",
+    "Marc 16",
+    "Ézéchiel 22",
+    "Ésaïe 62:1"
   ]
 }
