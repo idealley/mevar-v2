@@ -166864,7 +166864,6 @@
       "William Branham",
       "Jésus-Christ",
       "Jacob",
-      "Néhémie",
       "David",
       "Aaron",
       "Nadab",
@@ -166893,8 +166892,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/le-message-de-minuit-novembre-2006.md",
-    "size_bytes": 67712,
-    "line_count": 259
+    "size_bytes": 67696,
+    "line_count": 258
   },
   {
     "source": "onedrive",
@@ -187168,7 +187167,6 @@
     "aliases": [],
     "tags": [
       "Exhortations",
-      "2014",
       "Intercession",
       "Réveil",
       "Prière"
@@ -187216,8 +187214,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/l-intercession.md",
-    "size_bytes": 31292,
-    "line_count": 132
+    "size_bytes": 31281,
+    "line_count": 131
   },
   {
     "source": "onedrive",

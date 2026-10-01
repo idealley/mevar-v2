@@ -21,7 +21,6 @@ persons:
   - "William Branham"
   - "Jésus-Christ"
   - "Jacob"
-  - "Néhémie"
   - "David"
   - "Aaron"
   - "Nadab"
