@@ -11,7 +11,7 @@ preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que l'autorité spirituelle vient de Dieu et doit être respectée dans l'Église. Il utilise des exemples bibliques (Moïse, Aaron, Élisée) pour montrer les conséquences de la rébellion contre l'autorité établie par Dieu. Il exhorte les croyants à se soumettre aux serviteurs de Dieu et à ne pas contester leur autorité."
 tags:
   - "Prédications"
-  - "2014"
+  - "2010"
   - "Autorité spirituelle"
   - "Soumission"
   - "Rébellion"
