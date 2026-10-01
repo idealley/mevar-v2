@@ -3,7 +3,7 @@
 // "Book chap:verse[-verse]", in manifests/bible-refs.json. The text is never
 // changed: the preacher's words stay as written, only the ref is canonical.
 // Examples handled (illustrative — full list in BOOK_VARIANTS):
-//   "Mt 24:6" "Math. 24, 6" "Matth 24:5-7" "Matthieu 24 :5-7"
+//   "Mt 24:6" "Math. 24, 6" "Matth 24:5-7" "Matthieu 24 :5-7" "Mat. 24.14"
 //   "1Cor 5:20-21" "I Cor. 5:20-21" "1 Cor 5:20-21" "Première Corinthiens 5:20"
 //   "Apoc 18:1-3" "Apo 18 :1-3" "Ap. 18:1" "Apocalypse 18:1-3"
 //   "Esa 35:1-2" "Esaïe 35,1-2" "ÉSAÏE 35:1-2" "Is 35:1-2"
@@ -58,10 +58,21 @@ const variantsSorted = [...ALL_VARIANTS]
 
 const BOOK_ALT = variantsSorted.map(escRe).join("|");
 
+// "Pierre", "Cor", …: after "et 2" they start the next citation ("verset 16 et
+// 1 Jean chapitre 4"), not after "et 14"; after "; 1" too ("1 Pier. 1.12,25;
+// 1 Jean 1.1-5"). New Ghost posts are still read by this script.
+const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().filter((v) => / /.test(v)).map((v) => v.replace(/^\S+ /, "")))]
+  .sort((a, b) => b.length - a.length)
+  .map(escRe)
+  .join("|");
+const NOT_NUMBERED_BOOK = `(?!(?<=(?<!\\d)[1-3])\\s+(?:${NUMBERED})(?!\\p{L}))`;
+
 // Allow optional trailing period and optional spaces before chapter number.
-// Chapter:verse separator can be `:`, `,`, or `.` (with optional surrounding space).
+// Chapter:verse separator can be `:` or `,` (with optional surrounding space),
+// or a dot between two digits, as CMPP writes them ("Mat. 24.14"): only
+// after a book, so a decimal, a price or a time is never one.
 // Verse range can use `-` or `–` or `–`.
-const VERSE_ITEM = "\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?![^\\S\\n]*:[^\\S\\n]*\\d)";
+const VERSE_ITEM = `\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?![^\\S\\n]*:[^\\S\\n]*\\d|\\.\\d)${NOT_NUMBERED_BOOK}`;
 const REF_RE = new RegExp(
   // word boundary or paren / opening punct
   "(?<![\\p{L}])" +
@@ -70,15 +81,15 @@ const REF_RE = new RegExp(
   "\\s*" +
   "(\\d{1,3})" +                          // chapter (group 2)
   "(?:" +
-  "\\s*[:,]\\s*" +                        // chap-verse separator
+  "(?:\\s*[:,]\\s*|\\.(?=\\d))" +          // chap-verse separator
   "(\\d{1,3})" +                          // verse start (group 3)
   // optional verse end (group 4) — not one that is itself followed by
   // ":<digit>", a new chapter:verse. A bare colon is fine: French writes
   // "Jean 17:22-26 : « … »" with a space before the colon.
-  // So "Hébreux 8:13-13:8" does not read "13" as the end of a range.
-  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +  // optional verse end (group 4)
+  // So "Hébreux 8:13-13:8" (or "8.13-13.8") does not read "13" as the end of a range.
+  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d|\\.\\d))?" +  // optional verse end (group 4)
   // additional verse list (group 5), no item a new chapter:verse either:
-  // "Mat. 3:7; 12:34" is Matthieu 3:7, not 3:7,12
+  // "Mat. 3:7; 12:34" (or "3.7; 12.34") is Matthieu 3:7, not 3:7,12
   "(?:\\s*[,;]\\s*(" + VERSE_ITEM + "(?:\\s*[,;]\\s*" + VERSE_ITEM + ")*))?" +
   ")?" +
   "(?![\\d])",                            // not followed by another digit (avoids 24:55 partial match in 24:555)
@@ -140,13 +151,6 @@ const FULL_ALT = variantsSorted // "II Rois" is "2 Rois" in full
   .map(escRe)
   .join("|");
 const BOOK_END = "(?![\\p{L}\\-'’])"; // not "Jean-Baptiste"
-// "Pierre", "Cor", …: after "et 2" they start the next citation ("verset 16 et
-// 1 Jean chapitre 4"), not after "et 14". New Ghost posts are still read by
-// this script.
-const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().filter((v) => / /.test(v)).map((v) => v.replace(/^\S+ /, "")))]
-  .sort((a, b) => b.length - a.length)
-  .map(escRe)
-  .join("|");
 const RANGE = "\\s*(?:[\\-\\u2013\\u2014]|à)\\s*";
 // Not "à 19:3", a chapter. Tight: in "versets 35 : 35 A moi", the colon opens
 // the quote.
@@ -156,7 +160,7 @@ const NOT_NEXT = "(?![:.]\\d|\\d)";
 // "11.25,26").
 const TAIL =
   `(?:${RANGE}(?<end>\\d{1,3})|\\s+(?:au|jusqu['’]au)\\s+verset\\s+(?<endSaid>\\d{1,3}))?${NOT_NEXT}` +
-  `(?:(?:\\s+et\\s+|,)(?<more>\\d{1,3}(?:${RANGE}\\d{1,3})?)${NOT_NEXT}(?!(?<=(?<!\\d)[1-3])\\s+(?:${NUMBERED})(?!\\p{L})))?`;
+  `(?:(?:\\s+et\\s+|,)(?<more>\\d{1,3}(?:${RANGE}\\d{1,3})?)${NOT_NEXT}${NOT_NUMBERED_BOOK})?`;
 // The verse after the chapter: "chapitre 3:14", "chapitre 11.1-3" (CMPP),
 // "verset 9", "le verset 38", "(versets 13-14", "à partir du premier verset",
 // "depuis le verset 25", "et au verset 18", "du verset 1 au verset 6".
