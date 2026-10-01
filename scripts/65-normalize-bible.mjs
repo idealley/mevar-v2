@@ -70,7 +70,8 @@ const NOT_NUMBERED_BOOK = `(?!(?<=(?<!\\d)[1-3])\\s+(?:${NUMBERED})(?!\\p{L}))`;
 // Allow optional trailing period and optional spaces before chapter number.
 // Chapter:verse separator can be `:` or `,` (with optional surrounding space),
 // or a dot between two digits, as CMPP writes them ("Mat. 24.14"): only
-// after a book, so a decimal, a price or a time is never one.
+// after a book, so a decimal, a price or a time is never one, nor a verse
+// that starts with 0 (« Marc 2.000 personnes »).
 // Verse range can use `-` or `–` or `–`.
 const VERSE_ITEM = `\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?![^\\S\\n]*:[^\\S\\n]*\\d|\\.\\d)${NOT_NUMBERED_BOOK}`;
 const REF_RE = new RegExp(
@@ -81,7 +82,7 @@ const REF_RE = new RegExp(
   "\\s*" +
   "(\\d{1,3})" +                          // chapter (group 2)
   "(?:" +
-  "(?:\\s*[:,]\\s*|\\.(?=\\d))" +          // chap-verse separator
+  "(?:\\s*[:,]\\s*|\\.(?=[1-9]))" +       // chap-verse separator
   "(\\d{1,3})" +                          // verse start (group 3)
   // optional verse end (group 4) — not one that is itself followed by
   // ":<digit>", a new chapter:verse. A bare colon is fine: French writes
