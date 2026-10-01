@@ -8,7 +8,7 @@ date: "2007-06-01"
 year: 2007
 location: "Koumassi"
 preacher: "Parfait M'bra"
-summary: "Cette exhortation appelle les croyants à se lever pour le combat spirituel contre Babylone, symbole de la religion sans révélation. Elle rappelle les prophéties bibliques sur la chute de Babylone et insiste sur la nécessité de sortir de la religion pour vivre dans la puissance du Saint-Esprit. L'auteur partage des expériences de réveil et des paroles prophétiques reçues dans son assemblée."
+summary: "Dans cette exhortation spéciale de juin 2007, le frère M'bra lance un appel à la guerre contre Babylone : les prophéties annoncent sa chute, et l'Église doit se sanctifier et se lever pour le combat spirituel. Il y joint la prédication « Les prisonniers de la religion »."
 tags:
   - "Exhortations"
   - "2007"
@@ -16,7 +16,7 @@ tags:
   - "combat spirituel"
   - "réveil"
 persons:
-  - "Esaïe"
+  - "Ésaïe"
   - "Osée"
   - "Jésus-Christ"
   - "Ewald Frank"
@@ -27,6 +27,7 @@ themes:
   - "combat spirituel"
   - "sortie de Babylone"
   - "réveil"
+  - "sanctification"
 llm_cleaned: true
 bible_refs:
   - "Ésaïe 21:6-12"

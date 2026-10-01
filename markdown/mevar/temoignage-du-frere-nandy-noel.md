@@ -3,6 +3,7 @@ source: "onedrive"
 source_path: "onedrive/pdf/temoignagenandy.md"
 sermon_id: "temoignagenandy"
 title: "Témoignage du frère Nandy Noël"
+subtitle: "Serviteur de Dieu dans l’Assemblée de Guibéroua"
 location: "Guibéroua, Côte d'Ivoire"
 preacher: "Nandy Noël Gbaha"
 summary: "Le frère Nandy Noël rend témoignage de son expérience spirituelle avant et après avoir reçu la brochure 'Les trois grandes visions du message du temps de la fin' et la visite du frère M'BRA Parfait dans son assemblée. Il relate des songes, des visions et des combats spirituels, soulignant l'importance de l'unité de la foi, de la prière et de la fidélité à Dieu."
@@ -60,8 +61,6 @@ bible_refs:
   - "1 Pierre 2:4,5"
 editorial_pass: "2026-10-01"
 ---
-**Serviteur de Dieu dans l’Assemblée de Guibéroua**
-
 Je suis le frère Nandy Noël Gbaha de l’assemblée de Guibéroua en Côte d’Ivoire. Je vous salue tous, frères et sœurs, dans le nom de notre bien-aimé Seigneur et Sauveur Jésus-Christ, par ces paroles tirées **d’Apocalypse 12 : 11** :
 
 > Ils l’ont vaincu à cause du sang de l’Agneau et **à cause de la parole de leur témoignage**, et ils n’ont pas aimé leur vie jusqu’à craindre la mort.

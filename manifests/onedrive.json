@@ -1964,7 +1964,7 @@
     "aliases": [],
     "hash": null,
     "mevar_match": null,
-    "summary": "Cette exhortation appelle les croyants à se lever pour le combat spirituel contre Babylone, symbole de la religion sans révélation. Elle rappelle les prophéties bibliques sur la chute de Babylone et insiste sur la nécessité de sortir de la religion pour vivre dans la puissance du Saint-Esprit. L'auteur partage des expériences de réveil et des paroles prophétiques reçues dans son assemblée.",
+    "summary": "Dans cette exhortation spéciale de juin 2007, le frère M'bra lance un appel à la guerre contre Babylone : les prophéties annoncent sa chute, et l'Église doit se sanctifier et se lever pour le combat spirituel. Il y joint la prédication « Les prisonniers de la religion ».",
     "tags": [
       "Exhortations",
       "2007",
@@ -1973,7 +1973,7 @@
       "réveil"
     ],
     "persons": [
-      "Esaïe",
+      "Ésaïe",
       "Osée",
       "Jésus-Christ",
       "Ewald Frank"
@@ -1985,7 +1985,8 @@
       "Babylone",
       "combat spirituel",
       "sortie de Babylone",
-      "réveil"
+      "réveil",
+      "sanctification"
     ],
     "llm_cleaned": true
   },
@@ -19108,7 +19109,7 @@
     "source": "onedrive",
     "sermon_id": "temoignagenandy",
     "title": "Témoignage du frère Nandy Noël",
-    "subtitle": null,
+    "subtitle": "Serviteur de Dieu dans l’Assemblée de Guibéroua",
     "date": null,
     "year": null,
     "location": "Guibéroua, Côte d'Ivoire",
@@ -19165,7 +19166,7 @@
     "source": "onedrive",
     "sermon_id": "thebath",
     "title": "The bath of the Christian",
-    "subtitle": "Preached on November 18 at Arrah",
+    "subtitle": null,
     "date": null,
     "year": null,
     "location": "Arrah",
@@ -19173,7 +19174,7 @@
     "pdf_url": null,
     "audio_url": null,
     "stream_url": null,
-    "local_md": "markdown/mevar/the-bath-of-the-christian.md",
+    "local_md": "markdown/onedrive/pdf/thebath.md",
     "source_path": null,
     "aliases": [],
     "hash": null,
@@ -19970,6 +19971,7 @@
   },
   {
     "source": "onedrive",
+    "source_path": "onedrive/pdf/exhojuin2007-les-prisonniers-de-la-religion.md",
     "sermon_id": "exhojuin2007-les-prisonniers-de-la-religion",
     "title": "Les prisonniers de la religion",
     "subtitle": "Prêché à So-Chanwé le 14 janvier 2007",

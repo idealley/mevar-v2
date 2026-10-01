@@ -168424,9 +168424,9 @@
     "authors": null,
     "type": null,
     "status": null,
-    "summary": "Cette exhortation appelle les croyants à se lever pour le combat spirituel contre Babylone, symbole de la religion sans révélation. Elle rappelle les prophéties bibliques sur la chute de Babylone et insiste sur la nécessité de sortir de la religion pour vivre dans la puissance du Saint-Esprit. L'auteur partage des expériences de réveil et des paroles prophétiques reçues dans son assemblée.",
+    "summary": "Dans cette exhortation spéciale de juin 2007, le frère M'bra lance un appel à la guerre contre Babylone : les prophéties annoncent sa chute, et l'Église doit se sanctifier et se lever pour le combat spirituel. Il y joint la prédication « Les prisonniers de la religion ».",
     "persons": [
-      "Esaïe",
+      "Ésaïe",
       "Osée",
       "Jésus-Christ",
       "Ewald Frank"
@@ -168438,15 +168438,16 @@
       "Babylone",
       "combat spirituel",
       "sortie de Babylone",
-      "réveil"
+      "réveil",
+      "sanctification"
     ],
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/appel-a-la-guerre-appel-au-combat-contre-babylone-juin-2007.md",
-    "size_bytes": 18656,
-    "line_count": 98
+    "size_bytes": 18554,
+    "line_count": 99
   },
   {
     "source": "onedrive",
@@ -187456,7 +187457,7 @@
     "source": "onedrive",
     "sermon_id": "temoignagenandy",
     "title": "Témoignage du frère Nandy Noël",
-    "subtitle": null,
+    "subtitle": "Serviteur de Dieu dans l’Assemblée de Guibéroua",
     "date": null,
     "year": null,
     "location": "Guibéroua, Côte d'Ivoire",
@@ -187513,8 +187514,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/temoignage-du-frere-nandy-noel.md",
-    "size_bytes": 15747,
-    "line_count": 146
+    "size_bytes": 15754,
+    "line_count": 145
   },
   {
     "source": "onedrive",
@@ -187590,7 +187591,7 @@
     "source": "onedrive",
     "sermon_id": "thebath",
     "title": "The bath of the Christian",
-    "subtitle": "Preached on November 18 at Arrah",
+    "subtitle": null,
     "date": null,
     "year": null,
     "location": "Arrah",
@@ -187658,9 +187659,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/mevar/the-bath-of-the-christian.md",
-    "size_bytes": 40906,
-    "line_count": 157
+    "local_md": "markdown/onedrive/pdf/thebath.md",
+    "size_bytes": 40152,
+    "line_count": 155
   },
   {
     "source": "onedrive",
