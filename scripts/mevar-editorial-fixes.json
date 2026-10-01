@@ -3691,7 +3691,64 @@
         "kind": "markup",
         "why": "document header line (the subtitle); « JOYEUX ANNIVERSAIRE » and the title line under it stay, the header is not one block"
       }
-    ]
+    ],
+    "persons": [
+      "Esaïe",
+      "Osée",
+      "Jésus-Christ",
+      "Ewald Frank"
+    ],
+    "places": [
+      "Babylone"
+    ],
+    "themes": [
+      "Babylone",
+      "combat spirituel",
+      "sortie de Babylone",
+      "réveil"
+    ],
+    "split": {
+      "at": "**Les prisonniers de la religion**\n\n**Prêché à So-Chanwé",
+      "frontmatter": {
+        "sermon_id": "exhojuin2007-les-prisonniers-de-la-religion",
+        "title": "Les prisonniers de la religion",
+        "subtitle": "Prêché à So-Chanwé le 14 janvier 2007",
+        "date": "2007-01-14",
+        "year": 2007,
+        "location": "So-Chanwé",
+        "preacher": "Parfait M'bra",
+        "summary": "Prêchée à So-Chanwé, cette prédication appuyée sur la délivrance de Pierre hors de la prison montre que la religion est une prison à plusieurs cellules, jusque dans le Message : sans la puissance du Saint-Esprit, on vit en prisonnier. Elle appelle à sortir de la religion et à revenir à une expérience vivante avec le Seigneur, à Minuit.",
+        "tags": [
+          "Prédications",
+          "2007",
+          "religion",
+          "délivrance",
+          "réveil"
+        ],
+        "persons": [
+          "Jésus-Christ",
+          "Paul",
+          "Pierre",
+          "William Branham",
+          "Ewald Frank",
+          "Barilier"
+        ],
+        "places": [
+          "Côte d'Ivoire",
+          "Abidjan",
+          "So-Chanwé",
+          "Jérusalem",
+          "Babylone"
+        ],
+        "themes": [
+          "religion",
+          "sortie de la religion",
+          "puissance du Saint-Esprit",
+          "réveil",
+          "Laodicée"
+        ]
+      }
+    }
   },
   "markdown/onedrive/pdf/exhojuin2009.md": {
     "title": null,
