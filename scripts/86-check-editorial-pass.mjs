@@ -357,7 +357,7 @@ for (const md of batch) {
   // each is written over its own frontmatter line: without one, the page and
   // the manifest would disagree
   // a date is written as its date and year lines, both or neither
-  if (edits.date && /^date: /m.test(fm) !== /^year: /m.test(fm)) r.unexplained.push("the editor gives a date, but the frontmatter has a date line without a year line, or a year without a date");
+  if (edits.date && !/^date: .*\nyear: /m.test(fm) && (/^date: /m.test(fm) || /^year: /m.test(fm))) r.unexplained.push("the editor gives a date, but the frontmatter's date and year lines are not together");
   for (const [k, line] of [["summary", /^summary: /m], ...LISTS.map((l) => [l, new RegExp(`^${l}:\\n  - `, "m")])])
     if (edits[k] && !(Array.isArray(edits[k]) && !edits[k].length) && !line.test(fm)) r.unexplained.push(`the editor gives a ${k}, but the frontmatter has no ${k} line to write it on`);
 
@@ -368,11 +368,11 @@ for (const md of batch) {
     const [y, mo, d] = date.split("-");
     return new Set([...texts, `${y ?? ""} ${Number(d) || ""} ${MONTHS[Number(mo) - 1] ?? ""}`, HEADER_WORDS].flatMap((t) => words(t ?? "").map((x) => key(x.w))));
   };
-  // the title the pass read from the header counts too, unless 86 refused
-  // it (the pass cannot certify its own deletion): a title the editor or
-  // Samuel changes after promotion (« Nebucadnetsar » for the header's
-  // « NEBUKADNETSAR ») must not unmake the header on the next run
-  const headerTitle = r.titleRefused ? [] : [pass.title];
+  // where Samuel decided the title (« Nebucadnetsar » for the header's
+  // « NEBUKADNETSAR »), the title the pass read from the header counts too,
+  // so the next run still knows the header; nowhere else (the pass cannot
+  // certify its own deletion)
+  const headerTitle = decided.title && !r.titleRefused ? [pass.title] : [];
   const own = ownWords([oldTitle, oldSubtitle, r.title, r.subtitle, ...headerTitle, field("location"), field("preacher")], field("date"));
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const inHeader = new Set(words(header).map((x) => key(x.w)));
@@ -382,7 +382,8 @@ for (const md of batch) {
   // so no word passes for another (« guerre » for « guère »)
   const single = (w) => w.replace(/(\p{L})\1/gu, "$1");
   const name = new Set(words(field("preacher") ?? "").map((x) => key(x.w)));
-  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || name.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w))
+  // a decided date replaced the one the header may print: its year stays a header word
+  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || name.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w) || (decided.date && /^(19|20)\d\d$/.test(x.w)))
     && [oldTitle, oldSubtitle, r.title, r.subtitle, ...headerTitle].some(holds);
   r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
   if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
