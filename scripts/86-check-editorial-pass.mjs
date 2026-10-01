@@ -217,11 +217,13 @@ for (const md of batch) {
   // listed the same way.
   let edited = pass.body;
   const at = new Map(edits.fixes.map((f) => [f, pass.body.indexOf(f.find)]));
+  // occurrences counted overlapping too: « ha ha » is twice in « ha ha ha »
+  const found = (f) => { let n = 0; for (let i = pass.body.indexOf(f.find); i >= 0; i = pass.body.indexOf(f.find, i + 1)) n++; return n; };
   for (const f of edits.fixes) {
-    const n = pass.body.split(f.find).length - 1;
+    const n = found(f);
     if (n !== 1) r.unexplained.push(`editor's fix found ${n} times, not once: « ${f.find} »`);
   }
-  const once = edits.fixes.filter((f) => pass.body.split(f.find).length === 2);
+  const once = edits.fixes.filter((f) => found(f) === 1);
   // two fixes on overlapping spans: one would be applied over the other's
   // replacement; neither is, both are reported
   const end = (f) => at.get(f) + f.find.length;
@@ -358,8 +360,9 @@ for (const md of batch) {
   // A decided date records the frontmatter's date it replaces (`replaced_date`,
   // none where there was none), checked before promotion: once promoted, the
   // frontmatter no longer has it, and the next run still reads the header
-  // with its words, as this one did (« 2014 » in pred_sept2010's would stay a
-  // header word; « 2013 » would not)
+  // with its words, as this one did (had pred_sept2010's header printed
+  // « 2014 », the year its decision replaced, it would stay a header word;
+  // « 2013 » would not)
   const replaced = decided.date ? edits.replaced_date ?? "" : "";
   if (decided.date && !promoted && replaced !== field("date"))
     r.unexplained.push(`the decided date replaces « ${field("date")} », but the editor's replaced_date is « ${replaced} »`);
