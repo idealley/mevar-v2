@@ -1987,28 +1987,16 @@
       "Esaïe",
       "Osée",
       "Jésus-Christ",
-      "Paul",
-      "Pierre",
-      "William Branham",
-      "Ewald Frank",
-      "Barilier"
+      "Ewald Frank"
     ],
     "places": [
-      "Côte d'Ivoire",
-      "Abidjan",
-      "Koumassi",
-      "So-Chanwé",
-      "Jérusalem",
       "Babylone"
     ],
     "themes": [
       "Babylone",
-      "religion",
-      "réveil",
       "combat spirituel",
-      "sanctification",
-      "puissance du Saint-Esprit",
-      "sortie de Babylone"
+      "sortie de Babylone",
+      "réveil"
     ],
     "llm_cleaned": true
   },
@@ -19990,5 +19978,47 @@
     ],
     "published_with": "mevar/plan-d-attaque-ii-novembre-2009",
     "local_md": "markdown/mevar/plan-d-attaque-ii-preche-novembre-2009.md"
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "exhojuin2007-les-prisonniers-de-la-religion",
+    "title": "Les prisonniers de la religion",
+    "subtitle": "Prêché à So-Chanwé le 14 janvier 2007",
+    "date": "2007-01-14",
+    "year": 2007,
+    "location": "So-Chanwé",
+    "preacher": "Parfait M'bra",
+    "summary": "Prêchée à So-Chanwé, cette prédication appuyée sur la délivrance de Pierre hors de la prison montre que la religion est une prison à plusieurs cellules, jusque dans le Message : sans la puissance du Saint-Esprit, on vit en prisonnier. Elle appelle à sortir de la religion et à revenir à une expérience vivante avec le Seigneur, à Minuit.",
+    "tags": [
+      "Prédications",
+      "2007",
+      "religion",
+      "délivrance",
+      "réveil"
+    ],
+    "persons": [
+      "Jésus-Christ",
+      "Paul",
+      "Pierre",
+      "William Branham",
+      "Ewald Frank",
+      "Barilier"
+    ],
+    "places": [
+      "Côte d'Ivoire",
+      "Abidjan",
+      "So-Chanwé",
+      "Jérusalem",
+      "Babylone"
+    ],
+    "themes": [
+      "religion",
+      "sortie de la religion",
+      "puissance du Saint-Esprit",
+      "réveil",
+      "Laodicée"
+    ],
+    "published_with": "mevar/appel-a-la-guerre-appel-au-combat-contre-babylone-juin-2007",
+    "local_md": "markdown/onedrive/pdf/exhojuin2007-les-prisonniers-de-la-religion.md"
   }
 ]
