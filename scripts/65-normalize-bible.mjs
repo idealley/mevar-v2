@@ -344,6 +344,11 @@ if (process.argv[1] === import.meta.filename) {
       if (refsByFile[rel]) merged[rel] = refsByFile[rel];
       else delete merged[rel];
     }
+    // a file moved or renamed (88) leaves its old key behind: the site and
+    // the SurrealDB ingest look references up by the current path
+    let gone = 0;
+    for (const rel of Object.keys(merged)) if (!fs.existsSync(path.join(root, rel))) { delete merged[rel]; gone++; }
+    if (gone) console.log(`  dropped ${gone} keys of files that no longer exist`);
     fs.writeFileSync(outPath, JSON.stringify(merged, null, 2));
     console.log(`  merged ${scanned.length} scanned files into manifests/bible-refs.json (${Object.keys(merged).length} keys)`);
   }
