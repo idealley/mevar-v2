@@ -85,7 +85,8 @@ const REF_RE = new RegExp(
   "(\\d{1,3})" +                          // chapter (group 2)
   "(?:" +
   "(?:\\s*[:,]\\s*|\\.(?=[1-9]))" +       // chap-verse separator
-  "(\\d{1,3})" +                          // verse start (group 3)
+  "(\\d{1,3})" + NOT_NUMBERED_BOOK +      // verse start (group 3): never the « 1 » of
+                                          // « Éphésiens 4, 1 Corinthiens 2 »
   // optional verse end (group 4) — not one that is itself followed by
   // ":<digit>", a new chapter:verse. A bare colon is fine: French writes
   // "Jean 17:22-26 : « … »" with a space before the colon.
@@ -93,7 +94,9 @@ const REF_RE = new RegExp(
   "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d|\\.\\d))?" +  // optional verse end (group 4)
   // additional verse list (group 5), no item a new chapter:verse either:
   // "Mat. 3:7; 12:34" (or "3.7; 12.34") is Matthieu 3:7, not 3:7,12
-  "(?:\\s*[,;]\\s*(" + VERSE_ITEM + "(?:\\s*[,;]\\s*" + VERSE_ITEM + ")*))?" +
+  // "et" joins verses too ("Ésaïe 9.2 et 6", "Jean 1:1 et 14"), never a
+  // numbered book that follows ("5.2 et 2 Timothée": NOT_NUMBERED_BOOK)
+  "(?:(?:\\s*[,;]\\s*|\\s+et\\s+)(" + VERSE_ITEM + "(?:(?:\\s*[,;]\\s*|\\s+et\\s+)" + VERSE_ITEM + ")*))?" +
   ")?" +
   "(?![\\d])",                            // not followed by another digit (avoids 24:55 partial match in 24:555)
   "giu",
@@ -133,9 +136,9 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
     out += `:${verseStart}`;
     if (verseEnd !== undefined && verseEnd !== null) out += `-${verseEnd}`;
     if (extra) {
-      // Normalize the extra list: split on , or ;, trim, replace en/em-dash with hyphen
+      // Normalize the extra list: split on , ; or « et », trim, replace en/em-dash with hyphen
       const parts = extra
-        .split(/\s*[,;]\s*/)
+        .split(/\s*[,;]\s*|\s+et\s+/)
         .map((p) => p.replace(/\s*[-–—]\s*/g, "-").trim())
         .filter(Boolean);
       if (parts.length) out += "," + parts.join(",");
@@ -275,8 +278,22 @@ export function* citations(md) {
       extra: extra ?? null,
     });
     yield { index: match.index, text: match[0], ref: verseStart ? rendered : quoted(md, match.index + match[0].length, rendered) };
+    // the same book goes on to another chapter: "(Éphésiens 1.13-14; 4.30)",
+    // "Nombres 3.11 et 8.14", "Mat. 3:7; 12:34"
+    if (!verseStart) continue;
+    let at = match.index + match[0].length;
+    for (;;) {
+      const next = CONTINUE_RE.exec(md.slice(at));
+      if (!next || !isPossible(canonical, next[1], [next[2], next[3]].filter(Boolean))) break;
+      const start = at + next[0].length - next[0].trimStart().length;
+      yield { index: start, text: next[0].trimStart(), ref: renderRef({ book: canonical, chapter: next[1], verseStart: next[2], verseEnd: next[3] ?? null, extra: null }) };
+      at += next[0].length;
+    }
   }
 }
+// After a citation: "; 4.30", " et 8.14", ", 12:34" — a chapter and its verse
+// of the same book (a dot only between two digits, as for the book's own)
+const CONTINUE_RE = /^\s*(?:[;,]|\s+et)\s*(\d{1,3})(?:\s*:\s*|\.(?=[1-9]))(\d{1,3})(?:\s*[\-\u2013\u2014]\s*(\d{1,3}))?(?![\d]|[.:]\d)/u;
 
 // ─── Driver ──────────────────────────────────────────────────────────────────
 // Only when run, not when the site imports citations().
