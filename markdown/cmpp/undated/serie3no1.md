@@ -54,10 +54,10 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no1.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Romains 8"
+  - "Romains 8:38,39"
   - "Apocalypse 22"
   - "Nombres 16"
-  - "Genèse 1"
+  - "Genèse 1:1"
   - "2 Timothée 4"
 ---
 SERIE 3 N° 1

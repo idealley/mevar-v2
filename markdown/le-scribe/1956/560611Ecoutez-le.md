@@ -42,6 +42,7 @@ bible_refs:
   - "Matthieu 17:5"
   - "Luc 2:49"
   - "Proverbes 16:9"
+  - "Éphésiens 1:5"
   - "Jean 14:2"
   - "Matthieu 17:4"
 original: "branham/1956/56-0611"

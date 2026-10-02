@@ -70,6 +70,7 @@ bible_refs:
   - "Matthieu 24:45-47"
   - "Ésaïe 40:1-3"
   - "2 Pierre 1:19-21"
+  - "2 Pierre 2:1"
   - "Jérémie 23:31-32"
   - "Matthieu 25:6"
   - "Ésaïe 40:3"
@@ -104,7 +105,7 @@ bible_refs:
   - "Actes 13:47"
   - "Matthieu 25:1-13"
   - "Matthieu 25:14-30"
-  - "2 Pierre 1"
+  - "2 Pierre 1:21"
   - "Matthieu 24:45-7"
 editorial_pass: "2026-10-02"
 ---

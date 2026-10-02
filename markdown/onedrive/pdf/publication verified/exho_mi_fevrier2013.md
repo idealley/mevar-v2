@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 26:28"
   - "1 Corinthiens 11"
   - "Galates 3:13"
+  - "Éphésiens 1"
   - "Genèse 17:20"
   - "Jean 3:16"
   - "Deutéronome 29"

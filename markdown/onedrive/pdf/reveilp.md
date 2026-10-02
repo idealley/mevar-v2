@@ -66,6 +66,7 @@ bible_refs:
   - "Deutéronome 28"
   - "Galates 3"
   - "Éphésiens 1:3"
+  - "Éphésiens 1"
   - "Psaumes 103"
   - "Exode 15:26"
   - "Deutéronome 7"

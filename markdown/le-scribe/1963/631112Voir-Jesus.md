@@ -64,6 +64,7 @@ bible_refs:
   - "2 Corinthiens 5:18"
   - "Hébreux 4:12"
   - "Jean 14:26"
+  - "Jean 15:13"
   - "Matthieu 12:32"
   - "Jean 5:39"
   - "Jean 5:19"

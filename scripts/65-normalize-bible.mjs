@@ -3,7 +3,7 @@
 // "Book chap:verse[-verse]", in manifests/bible-refs.json. The text is never
 // changed: the preacher's words stay as written, only the ref is canonical.
 // Examples handled (illustrative — full list in BOOK_VARIANTS):
-//   "Mt 24:6" "Math. 24, 6" "Matth 24:5-7" "Matthieu 24 :5-7"
+//   "Mt 24:6" "Math. 24, 6" "Matth 24:5-7" "Matthieu 24 :5-7" "Mat. 24.14"
 //   "1Cor 5:20-21" "I Cor. 5:20-21" "1 Cor 5:20-21" "Première Corinthiens 5:20"
 //   "Apoc 18:1-3" "Apo 18 :1-3" "Ap. 18:1" "Apocalypse 18:1-3"
 //   "Esa 35:1-2" "Esaïe 35,1-2" "ÉSAÏE 35:1-2" "Is 35:1-2"
@@ -58,10 +58,28 @@ const variantsSorted = [...ALL_VARIANTS]
 
 const BOOK_ALT = variantsSorted.map(escRe).join("|");
 
+// "Pierre", "Cor", …: after "et 2" they start the next citation ("verset 16 et
+// 1 Jean chapitre 4"), not after "et 14"; after "; 1" too ("1 Pier. 1.12,25;
+// 1 Jean 1.1-5", "; 1Cor 2.3"). New Ghost posts are still read by this script.
+const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().filter((v) => /^(\d|I{1,3}\b)/.test(v)).map((v) => v.replace(/^(?:\d|I{1,3})\s*/, "")).filter((v) => /\p{L}/u.test(v)))]
+  .sort((a, b) => b.length - a.length)
+  .map(escRe)
+  .join("|");
+// a stem is a word, not an elision: « Jean 1:1 c'est » is verse 1 (« 1C », « 1S »)
+const NOT_NUMBERED_BOOK = `(?!(?<=(?<!\\d)[1-3])\\s*(?:${NUMBERED})(?![\\p{L}'’]))`;
+
 // Allow optional trailing period and optional spaces before chapter number.
-// Chapter:verse separator can be `:`, `,`, or `.` (with optional surrounding space).
+// Chapter:verse separator can be `:` or `,` (with optional surrounding space),
+// or a dot between two digits, as CMPP writes them ("Mat. 24.14"): only
+// after a book, so a decimal, a price or a time with none before it is
+// never one, nor a verse that starts with 0 (« Marc 2.000 personnes »). A
+// book name that is also a word still is (« il est 8.30 », Esther), as it
+// is with a colon; the corpus has none.
 // Verse range can use `-` or `–` or `–`.
-const VERSE_ITEM = "\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?![^\\S\\n]*:[^\\S\\n]*\\d)";
+const VERSE_ITEM = `\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?![^\\S\\n]*:[^\\S\\n]*\\d|\\.\\d)${NOT_NUMBERED_BOOK}`;
+// after « et », not one followed by « ,digits » either: « Matthieu 8.28-32 et
+// 12,43-45 » goes on to chapter 12, verses 43 to 45
+const ET_ITEM = `${VERSE_ITEM}(?![^\\S\\n]*,\\d)`;
 const REF_RE = new RegExp(
   // word boundary or paren / opening punct
   "(?<![\\p{L}])" +
@@ -70,16 +88,19 @@ const REF_RE = new RegExp(
   "\\s*" +
   "(\\d{1,3})" +                          // chapter (group 2)
   "(?:" +
-  "\\s*[:,]\\s*" +                        // chap-verse separator
-  "(\\d{1,3})" +                          // verse start (group 3)
+  "(?:\\s*[:,]\\s*|\\.(?=[1-9]))" +       // chap-verse separator
+  "(\\d{1,3})" + NOT_NUMBERED_BOOK +      // verse start (group 3): never the « 1 » of
+                                          // « Éphésiens 4, 1 Corinthiens 2 »
   // optional verse end (group 4) — not one that is itself followed by
   // ":<digit>", a new chapter:verse. A bare colon is fine: French writes
   // "Jean 17:22-26 : « … »" with a space before the colon.
-  // So "Hébreux 8:13-13:8" does not read "13" as the end of a range.
-  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +  // optional verse end (group 4)
+  // So "Hébreux 8:13-13:8" (or "8.13-13.8") does not read "13" as the end of a range.
+  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d|\\.\\d))?" +  // optional verse end (group 4)
   // additional verse list (group 5), no item a new chapter:verse either:
-  // "Mat. 3:7; 12:34" is Matthieu 3:7, not 3:7,12
-  "(?:\\s*[,;]\\s*(" + VERSE_ITEM + "(?:\\s*[,;]\\s*" + VERSE_ITEM + ")*))?" +
+  // "Mat. 3:7; 12:34" (or "3.7; 12.34") is Matthieu 3:7, not 3:7,12
+  // "et" joins verses too ("Ésaïe 9.2 et 6", "Jean 1:1 et 14"), never a
+  // numbered book that follows ("5.2 et 2 Timothée": NOT_NUMBERED_BOOK)
+  "((?:\\s*[,;]\\s*" + VERSE_ITEM + "|\\s+et\\s+" + ET_ITEM + ")+)?" +
   ")?" +
   "(?![\\d])",                            // not followed by another digit (avoids 24:55 partial match in 24:555)
   "giu",
@@ -119,9 +140,9 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
     out += `:${verseStart}`;
     if (verseEnd !== undefined && verseEnd !== null) out += `-${verseEnd}`;
     if (extra) {
-      // Normalize the extra list: split on , or ;, trim, replace en/em-dash with hyphen
+      // Normalize the extra list: split on , ; or « et », trim, replace en/em-dash with hyphen
       const parts = extra
-        .split(/\s*[,;]\s*/)
+        .split(/\s*[,;]\s*|\s+et\s+/)
         .map((p) => p.replace(/\s*[-–—]\s*/g, "-").trim())
         .filter(Boolean);
       if (parts.length) out += "," + parts.join(",");
@@ -140,13 +161,6 @@ const FULL_ALT = variantsSorted // "II Rois" is "2 Rois" in full
   .map(escRe)
   .join("|");
 const BOOK_END = "(?![\\p{L}\\-'’])"; // not "Jean-Baptiste"
-// "Pierre", "Cor", …: after "et 2" they start the next citation ("verset 16 et
-// 1 Jean chapitre 4"), not after "et 14". New Ghost posts are still read by
-// this script.
-const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().filter((v) => / /.test(v)).map((v) => v.replace(/^\S+ /, "")))]
-  .sort((a, b) => b.length - a.length)
-  .map(escRe)
-  .join("|");
 const RANGE = "\\s*(?:[\\-\\u2013\\u2014]|à)\\s*";
 // Not "à 19:3", a chapter. Tight: in "versets 35 : 35 A moi", the colon opens
 // the quote.
@@ -156,7 +170,7 @@ const NOT_NEXT = "(?![:.]\\d|\\d)";
 // "11.25,26").
 const TAIL =
   `(?:${RANGE}(?<end>\\d{1,3})|\\s+(?:au|jusqu['’]au)\\s+verset\\s+(?<endSaid>\\d{1,3}))?${NOT_NEXT}` +
-  `(?:(?:\\s+et\\s+|,)(?<more>\\d{1,3}(?:${RANGE}\\d{1,3})?)${NOT_NEXT}(?!(?<=(?<!\\d)[1-3])\\s+(?:${NUMBERED})(?!\\p{L})))?`;
+  `(?:(?:\\s+et\\s+|,)(?<more>\\d{1,3}(?:${RANGE}\\d{1,3})?)${NOT_NEXT}${NOT_NUMBERED_BOOK})?`;
 // The verse after the chapter: "chapitre 3:14", "chapitre 11.1-3" (CMPP),
 // "verset 9", "le verset 38", "(versets 13-14", "à partir du premier verset",
 // "depuis le verset 25", "et au verset 18", "du verset 1 au verset 6".
@@ -245,8 +259,9 @@ export function* citations(md) {
   }
   for (const match of md.matchAll(REF_RE)) {
     if (inImage(match.index)) continue;
-    const [, bookVariant, , , verseEnd, extra] = match;
-    let [, , chap, verseStart] = match;
+    const [, bookVariant, , , verseEnd] = match;
+    let [, , chap, verseStart, , extra] = match;
+    let text = match[0];
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!canonical) continue;
     // « Nombre 25 :1 » is the book; « le nombre 7 » is a number
@@ -254,6 +269,42 @@ export function* citations(md) {
     // A one-chapter book cited without a verse ("Jude 23"): the number is the
     // verse. "Jude 1" alone stays the chapter, which is the whole book.
     if (MAX_CHAPTER[canonical] === 1 && !verseStart && chap !== "1") [chap, verseStart] = ["1", chap];
+    // A comma and a space, then a list joined by « et », enumerates chapters:
+    // « Ézéchiel 26, 27 et 28 », « Apocalypse 2, 3 et 6 », « 1 Samuel 8, 9 et
+    // 10 ». (« 6,8 et 9 », no space, stays CMPP's chapter,verse.)
+    const sep = text.slice(bookVariant.length).match(/^\.?\s*\d{1,3}(\s*[:,]\s*|\.)/)?.[1] ?? "";
+    if (verseStart && !verseEnd && /^,\s+$/.test(sep) && extra && /\set\s/.test(extra)) {
+      const chapters = [chap, verseStart, ...extra.split(/\s*[,;]\s*|\s+et\s+/)].map((c) => c.trim()).filter(Boolean);
+      // plain numbers that follow one another from the first, each a chapter:
+      // « Jean 3, 16 et 17 » and « Apocalypse 2, 3 et 6-8 » are verses
+      const plain = chapters.every((c) => /^\d{1,3}$/.test(c));
+      const ascending = chapters.every((c, n) => !n || Number(c) > Number(chapters[n - 1]));
+      if (plain && ascending && Number(verseStart) === Number(chap) + 1 && chapters.every((c) => isPossible(canonical, c, []))) {
+        // the first link keeps its book, « Ézéchiel 26 »; the others are the number
+        let from = bookVariant.length;
+        for (const [n, c] of chapters.entries()) {
+          const i = text.indexOf(c, from);
+          yield { index: match.index + (n ? i : 0), text: n ? c : text.slice(0, i + c.length), ref: `${canonical} ${c}` };
+          from = i + c.length;
+        }
+        continue;
+      }
+    }
+    // Verses after « et » come in order: « Jean 1:1 et 14 », not « Marc 11:21-22
+    // et 16 », where 16 is another chapter (the list stops before it)
+    if (extra && /\set\s/.test(extra)) {
+      let last = Number(verseEnd ?? verseStart);
+      const re = /(\s*[,;]\s*|\s+et\s+)(\d{1,3})(?:\s*[\-\u2013\u2014]\s*(\d{1,3}))?/g;
+      let keep = extra.length;
+      for (const m of extra.matchAll(re)) {
+        if (/et/.test(m[1]) && Number(m[2]) <= last) { keep = m.index; break; }
+        last = Number(m[3] ?? m[2]);
+      }
+      if (keep < extra.length) {
+        text = text.slice(0, text.length - (extra.length - keep));
+        extra = extra.slice(0, keep) || undefined;
+      }
+    }
     const verses = [verseStart, verseEnd, ...(extra ?? "").split(/\D+/)].filter(Boolean);
     if (!isPossible(canonical, chap, verses)) {
       // A paragraph number, not a chapter — leave the text alone, record nothing.
@@ -267,9 +318,25 @@ export function* citations(md) {
       verseEnd: verseEnd ?? null,
       extra: extra ?? null,
     });
-    yield { index: match.index, text: match[0], ref: verseStart ? rendered : quoted(md, match.index + match[0].length, rendered) };
+    yield { index: match.index, text, ref: verseStart ? rendered : quoted(md, match.index + text.length, rendered) };
+    // the same book goes on to another chapter: "(Éphésiens 1.13-14; 4.30)",
+    // "Nombres 3.11 et 8.14", "Mat. 3:7; 12:34"
+    if (!verseStart) continue;
+    let at = match.index + text.length;
+    for (;;) {
+      const next = CONTINUE_RE.exec(md.slice(at));
+      if (!next || !isPossible(canonical, next[1], [next[2], next[3]].filter(Boolean))) break;
+      // the link is the citation, not the « ; » or « et » before it
+      const lead = next[0].length - next[0].replace(/^[^\d]*/, "").length;
+      yield { index: at + lead, text: next[0].slice(lead), ref: renderRef({ book: canonical, chapter: next[1], verseStart: next[2], verseEnd: next[3] ?? null, extra: null }) };
+      at += next[0].length;
+    }
   }
 }
+// After a citation: "; 4.30", " et 8.14", ", 12:34" — a chapter and its verse
+// of the same book (a dot only between two digits, as for the book's own),
+// on the same line: never a numbered heading under it (« 2.1 Chapitre »)
+const CONTINUE_RE = /^[^\S\n]*(?:[;,]|[^\S\n]+et)[^\S\n]*(?:\n[^\S\n]*)?(\d{1,3})(?:\s*:\s*|\.(?=[1-9]))(\d{1,3})(?:\s*[\-\u2013\u2014]\s*(\d{1,3}))?(?![\d]|[.:]\d)/u;
 
 // ─── Driver ──────────────────────────────────────────────────────────────────
 // Only when run, not when the site imports citations().

@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 13:24-30"
   - "Hébreux 6:4-6"
+  - "Hébreux 10:29"
   - "Matthieu 12:32"
   - "1 Jean 4:2-3"
   - "Actes 12:7"

@@ -37,7 +37,7 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no5.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 14"
+  - "Jean 14:12"
 ---
 SERIE 3 N° 5
 

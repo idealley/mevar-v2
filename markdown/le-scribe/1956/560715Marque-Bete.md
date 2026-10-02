@@ -55,6 +55,7 @@ bible_refs:
   - "Luc 4:18-19"
   - "1 Corinthiens 11"
   - "Apocalypse 7"
+  - "Éphésiens 4:30"
   - "Ésaïe 5"
   - "Zacharie 14:7"
 original: "branham/1956/56-0715"

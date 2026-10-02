@@ -41,13 +41,15 @@ themes:
 pdf_url: "http://cmpp.ch/rev15.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Éphésiens 1:13,14"
   - "Hébreux 4"
   - "Jean 14"
   - "Ésaïe 28:10"
+  - "Éphésiens 4:30"
   - "Jérémie 32"
   - "Daniel 7"
   - "Apocalypse 10"
-  - "Matthieu 28"
+  - "Matthieu 28:19"
   - "Matthieu 1"
 ---
 WILLIAM MARRION BRANHAM

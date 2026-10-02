@@ -50,6 +50,7 @@ llm_cleaned: true
 bible_refs:
   - "Luc 12"
   - "Luc 12:35"
+  - "Éphésiens 6:14"
   - "Exode 12:11"
   - "Matthieu 24"
   - "Matthieu 24:35"

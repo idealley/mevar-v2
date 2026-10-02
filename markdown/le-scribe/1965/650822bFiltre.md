@@ -41,6 +41,7 @@ pdf_url: "http://le-scribe.org/pdfiles/650822bFiltre.pdf"
 llm_cleaned: true
 bible_refs:
   - "Nombres 19:9"
+  - "Éphésiens 5:22-25"
   - "1 Corinthiens 11:15"
   - "Genèse 6:2"
   - "Nombres 25:1"

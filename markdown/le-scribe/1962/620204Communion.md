@@ -43,6 +43,7 @@ bible_refs:
   - "Matthieu 25:1-12"
   - "Hébreux 12:1-2"
   - "1 Rois 21:19"
+  - "1 Rois 22:17"
   - "Proverbes 18:10"
   - "Jean 6:47-59"
   - "Jean 4:20"

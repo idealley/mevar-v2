@@ -39,6 +39,7 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 16:17"
   - "Genèse 12:1"
+  - "Éphésiens 1:3"
   - "Genèse 15:7"
   - "Nombres 19:2"
   - "Jude 1:4"
@@ -53,6 +54,7 @@ bible_refs:
   - "Jean 6:37,54"
   - "Romains 9:15,16"
   - "Jean 17:12"
+  - "Éphésiens 4:30"
   - "Actes 7"
   - "2 Timothée 3:5"
   - "Apocalypse 13:11"

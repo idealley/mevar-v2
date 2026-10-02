@@ -45,6 +45,7 @@ bible_refs:
   - "Jean 5:19"
   - "Hébreux 11:1"
   - "Jean 11:42"
+  - "Éphésiens 1:7"
   - "Actes 26:18"
   - "Josué 1"
   - "Josué 7"

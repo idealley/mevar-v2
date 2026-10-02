@@ -39,7 +39,9 @@ llm_cleaned: true
 bible_refs:
   - "Marc 6:21"
   - "Luc 14:16"
+  - "Luc 22:20"
   - "Jean 12:2"
+  - "Jean 13:2"
   - "1 Corinthiens 11:20,21"
   - "Apocalypse 19:9,17"
   - "Luc 11:38"
@@ -52,6 +54,7 @@ bible_refs:
   - "2 Samuel 6:14-16"
   - "Jérémie 16:23"
   - "Marc 9:42"
+  - "Marc 16:17"
   - "Marc 15:30"
   - "Matthieu 10:32"
 original: "branham/1958/58-0209A"

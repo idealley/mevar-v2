@@ -53,6 +53,7 @@ bible_refs:
   - "Galates 1:8"
   - "Jean 14:19-20"
   - "Jean 5:19"
+  - "Jean 14:10"
   - "Jean 10:4-5"
   - "Jean 6:37,44"
   - "Jean 5:24"

@@ -43,7 +43,8 @@ pdf_url: "http://cmpp.ch/serie5no7.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 3"
-  - "Colossiens 1"
+  - "Apocalypse 3:14"
+  - "Colossiens 1:15"
 ---
 SERIE 5, N° 7
 

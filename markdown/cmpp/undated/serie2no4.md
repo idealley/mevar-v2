@@ -45,7 +45,7 @@ llm_cleaned: true
 bible_refs:
   - "Apocalypse 3"
   - "Matthieu 27"
-  - "Romains 8"
+  - "Romains 8:1"
   - "Apocalypse 2"
   - "Hébreux 12"
 ---

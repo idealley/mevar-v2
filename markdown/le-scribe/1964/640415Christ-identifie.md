@@ -54,6 +54,7 @@ bible_refs:
   - "Hébreux 13:5"
   - "2 Corinthiens 5:19"
   - "Jean 10:30"
+  - "Jean 14:9"
   - "1 Timothée 3:16"
   - "Jean 1:1,14"
   - "Philippiens 3:13"

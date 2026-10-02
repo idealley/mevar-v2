@@ -62,7 +62,7 @@ bible_refs:
   - "Matthieu 18:18"
   - "Apocalypse 12:7-9"
   - "Apocalypse 21:19-20"
-  - "Apocalypse 5:6"
+  - "Apocalypse 5:6,14"
   - "Apocalypse 4:4,10"
   - "Matthieu 19:28"
   - "Apocalypse 22:2"

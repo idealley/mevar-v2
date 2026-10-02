@@ -40,12 +40,13 @@ themes:
 pdf_url: "http://cmpp.ch/serie5no3.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Éphésiens 4:30"
   - "Nombres 22"
   - "Nombres 22:31"
   - "Exode 19"
-  - "Matthieu 28"
+  - "Matthieu 28:19"
   - "Malachie 4"
-  - "Luc 17"
+  - "Luc 17:30"
   - "Apocalypse 17"
 ---
 SERIE 5, N° 3

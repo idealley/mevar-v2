@@ -78,7 +78,7 @@ bible_refs:
   - "Apocalypse 10"
   - "Apocalypse 10:2"
   - "Apocalypse 5:8"
-  - "Daniel 9:1-3"
+  - "Daniel 9:1-3,20-27"
   - "Apocalypse 6:1"
   - "Jérémie 25:11"
   - "Jérémie 28"

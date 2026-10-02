@@ -46,15 +46,18 @@ bible_refs:
   - "Nombres 4"
   - "Matthieu 24"
   - "Genèse 6"
-  - "Matthieu 22"
-  - "Matthieu 5"
+  - "Matthieu 22:20"
+  - "Matthieu 5:28"
   - "Ésaïe 5"
   - "Ésaïe 3"
+  - "Luc 17:28"
   - "Luc 17"
   - "2 Timothée 4"
+  - "Genèse 6:12"
   - "Jean 14"
   - "Actes 19"
-  - "Galates 1"
+  - "Actes 19:5"
+  - "Galates 1:8"
 ---
 SERIE 3 N° 2
 

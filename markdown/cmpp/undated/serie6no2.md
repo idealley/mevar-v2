@@ -48,13 +48,13 @@ bible_refs:
   - "Matthieu 21"
   - "Matthieu 21:10,11"
   - "Apocalypse 19"
-  - "Amos 7"
-  - "Amos 3"
-  - "Matthieu 7"
-  - "Michée 5"
+  - "Amos 7:14"
+  - "Amos 3:8"
+  - "Matthieu 7:14"
+  - "Michée 5:2"
   - "Romains 9"
   - "Jean 6"
-  - "Hébreux 13"
+  - "Hébreux 13:8"
 ---
 SERIE 6, N° 2
 

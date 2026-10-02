@@ -9,10 +9,9 @@ location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
 preacher: "William Branham"
 pdf_url: "http://cmpp.ch/serie4no6.pdf"
 bible_refs:
-  - "2 Corinthiens 12"
-  - "1 Corinthiens 1:18"
   - "2 Corinthiens 12:11"
-  - "Matthieu 24"
+  - "1 Corinthiens 1:18"
+  - "Matthieu 24:24"
 ---
     SERIE 4, N° 6
 

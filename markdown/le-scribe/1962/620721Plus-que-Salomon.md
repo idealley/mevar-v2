@@ -39,9 +39,11 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 12:38"
   - "Jean 5:39"
+  - "Jean 10:37"
   - "Exode 28:30"
   - "Nombres 27:21"
-  - "Deutéronome 33:8,1"
+  - "Deutéronome 33:8"
+  - "1 Samuel 28:6"
   - "Esdras 2:63"
   - "Osée 11:1"
   - "Matthieu 2:15"

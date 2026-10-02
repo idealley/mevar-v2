@@ -25,6 +25,7 @@ from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 | 19 | [Mevar paths](goal-19-mevar-paths.md): the Mevar texts under `mevar/`, named by title and year | 10, 18 | none |
 | 20 | [Mevar clean-up](goal-20-mevar-cleanup.md): subtitles in sentence case, a split's header, 65's missed spellings, two strays | 10, 18, 19 | Samuel answers the strays |
 | 21 | [Mevar follow-up](goal-21-mevar-followup.md): subtitles from the PDF, the two strays, 65 on every source and on a quote's verse numbers | 10, 20 | none |
+| 22 | [Mevar follow-up](goal-22-mevar-followup.md): 86 reports an overlapping fix and narrows a decided date's year, 65 reads « Mat. 24.14 » | 10, 21 | none |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.

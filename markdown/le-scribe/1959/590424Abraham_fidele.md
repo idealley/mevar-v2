@@ -55,6 +55,7 @@ bible_refs:
   - "Genèse 18:1-5"
   - "Jean 5:24"
   - "Matthieu 11:25"
+  - "Éphésiens 4:30"
   - "Genèse 22"
 original: "branham/1959/59-0424A"
 ---

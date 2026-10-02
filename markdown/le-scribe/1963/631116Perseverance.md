@@ -55,6 +55,8 @@ bible_refs:
   - "Matthieu 8:5-13"
   - "Matthieu 15:21-28"
   - "Jean 14:12"
+  - "Jean 20:21"
+  - "Jean 16:16"
   - "Matthieu 28:20"
   - "Hébreux 11:1"
   - "Marc 7:24-30"

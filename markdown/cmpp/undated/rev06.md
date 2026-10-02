@@ -45,6 +45,8 @@ bible_refs:
   - "Marc 16"
   - "Hébreux 4"
   - "Apocalypse 17"
+  - "Apocalypse 13:16"
+  - "Apocalypse 13:14"
   - "Apocalypse 13"
 ---
 WILLIAM MARRION BRANHAM

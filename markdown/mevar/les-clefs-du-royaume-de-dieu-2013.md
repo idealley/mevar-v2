@@ -41,7 +41,7 @@ themes:
   - "nouvelle création"
 llm_cleaned: true
 bible_refs:
-  - "Marc 11:12-14"
+  - "Marc 11:12-14,20-24"
   - "Apocalypse 3:7"
   - "Matthieu 19:25-26"
   - "Marc 9:21-24"

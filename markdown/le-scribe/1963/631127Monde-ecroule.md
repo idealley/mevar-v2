@@ -73,6 +73,7 @@ bible_refs:
   - "Matthieu 25:6"
   - "Éphésiens 4:30"
   - "Jean 15:26"
+  - "Jean 16:13"
 original: "branham/1963/63-1127"
 ---
 **Résumé de!: “Le monde s'effondre” (27 novembre 1963 soir)**

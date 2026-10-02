@@ -46,6 +46,7 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 2"
   - "Hébreux 1:1"
+  - "Hébreux 2:2"
   - "Hébreux 11:10"
   - "Matthieu 6:19"
   - "Actes 2:22"

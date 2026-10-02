@@ -52,6 +52,7 @@ bible_refs:
   - "Matthieu 16:18"
   - "Actes 2:38"
   - "Deutéronome 8:4"
+  - "Deutéronome 29:5"
   - "Exode 15:26"
 original: "branham/1955/55-0114"
 ---

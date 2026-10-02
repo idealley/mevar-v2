@@ -45,7 +45,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650426Parole-confirmee.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jean 1:1"
+  - "Jean 1:1,14"
   - "Apocalypse 19:13"
   - "Luc 8:40-56"
   - "Romains 4:20"

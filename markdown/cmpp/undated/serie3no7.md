@@ -40,13 +40,13 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no7.pdf"
 llm_cleaned: true
 bible_refs:
-  - "1 Corinthiens 5"
-  - "2 Corinthiens 7"
-  - "Matthieu 28"
+  - "1 Corinthiens 5:15"
+  - "2 Corinthiens 7:1"
+  - "Matthieu 28:16"
   - "Ésaïe 38"
-  - "Jean 5"
-  - "1 Thessaloniciens 4"
-  - "1 Corinthiens 15"
+  - "Jean 5:24"
+  - "1 Thessaloniciens 4:15-17"
+  - "1 Corinthiens 15:52"
 ---
 SERIE 3 N° 7
 

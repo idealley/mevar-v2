@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 4:14"
   - "Jean 14:12"
   - "Jean 5:19"
+  - "Jean 14:10"
   - "Jean 1:48"
   - "Matthieu 17:27"
   - "Jean 5:36"

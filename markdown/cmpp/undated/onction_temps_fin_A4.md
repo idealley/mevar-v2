@@ -30,13 +30,16 @@ themes:
 pdf_url: "http://cmpp.ch/onction_temps_fin_A4.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Ésaïe 61:1-3"
+  - "Matthieu 24:14"
+  - "Ésaïe 61:3"
+  - "1 Jean 5:20"
+  - "1 Jean 5:12"
+  - "Matthieu 3:11"
   - "Ésaïe 61"
-  - "Matthieu 24"
-  - "1 Jean 5"
-  - "Matthieu 3"
   - "Ésaïe 60:21"
-  - "Ésaïe 60"
-  - "Apocalypse 22"
+  - "Apocalypse 22:13"
+  - "Éphésiens 5:27"
 ---
 L'ONCTION DU TEMPS DE LA FIN
 

@@ -41,6 +41,7 @@ bible_refs:
   - "Luc 5:37-39"
   - "Colossiens 1:18-20"
   - "Colossiens 2:8-10"
+  - "Éphésiens 3:14-19"
   - "Ésaïe 66:10-14"
   - "Malachie 4:5"
   - "Matthieu 24:45-47"

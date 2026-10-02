@@ -39,7 +39,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551119Redemption.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Job 19:25"
+  - "Job 19:25,26"
   - "Exode 13:12-13"
   - "Matthieu 24:35"
   - "Ruth 1:16"

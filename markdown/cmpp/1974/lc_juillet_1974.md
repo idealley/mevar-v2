@@ -40,16 +40,21 @@ themes:
 pdf_url: "http://cmpp.ch/lc_juillet_1974.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 13"
-  - "Jacques 5"
-  - "Galates 5"
-  - "Hébreux 10"
-  - "Job 1"
-  - "Luc 22"
-  - "Romains 8"
-  - "Apocalypse 22"
-  - "Galates 6"
-  - "Jacques 3"
+  - "Hébreux 13:8"
+  - "Jacques 5:7-11"
+  - "Galates 5:22"
+  - "Hébreux 10:36,37"
+  - "Éphésiens 1"
+  - "Job 1:8"
+  - "Luc 22:31,32"
+  - "Hébreux 10:36"
+  - "Éphésiens 1:19,20"
+  - "Romains 8:11"
+  - "Hébreux 10:35-37"
+  - "Apocalypse 22:17"
+  - "Galates 6:15,16"
+  - "Jacques 3:13-18"
+  - "Jacques 3:16"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

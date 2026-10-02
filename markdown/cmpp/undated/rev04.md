@@ -52,7 +52,7 @@ llm_cleaned: true
 bible_refs:
   - "Exode 19"
   - "Hébreux 11"
-  - "1 Corinthiens 12"
+  - "1 Corinthiens 12:13"
 ---
 WILLIAM MARRION BRANHAM
 

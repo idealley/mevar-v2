@@ -62,6 +62,7 @@ bible_refs:
   - "Genèse 6:1-2"
   - "Luc 17:30"
   - "Jean 14:19-20"
+  - "Jean 16:16"
   - "Malachie 4:3"
   - "Hébreux 4:12"
   - "2 Rois 7:3-10"

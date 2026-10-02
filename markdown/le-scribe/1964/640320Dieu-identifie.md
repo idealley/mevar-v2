@@ -53,6 +53,7 @@ bible_refs:
   - "Ésaïe 7:14"
   - "Luc 2:49"
   - "Jean 9:28"
+  - "Jean 5:46"
   - "Deutéronome 18:15"
   - "Hébreux 1:1"
   - "Nombres 12:6"

@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 1:33"
   - "Matthieu 17:10-12"
   - "Jean 14:26"
+  - "Jean 16:13"
   - "Éphésiens 4:11-12"
   - "1 Rois 22"
   - "1 Rois 21:11"

@@ -56,6 +56,7 @@ bible_refs:
   - "1 Rois 17"
   - "2 Rois 1:10"
   - "Jean 5:19"
+  - "Jean 14:10"
   - "Jean 1:46"
   - "Jean 14:12"
   - "Jean 14:19"

@@ -40,12 +40,14 @@ llm_cleaned: true
 bible_refs:
   - "Jérémie 29"
   - "Luc 16"
-  - "Exode 12"
-  - "Galates 5"
-  - "Jean 14"
-  - "Jacques 5"
-  - "Matthieu 5"
-  - "1 Corinthiens 11"
+  - "Jérémie 29:10-14"
+  - "Luc 16:16"
+  - "Exode 12:11"
+  - "Galates 5:6"
+  - "Jean 14:23"
+  - "Jacques 5:16"
+  - "Matthieu 5:45"
+  - "1 Corinthiens 11:23-32"
 ---
 SERIE 2 N° 2
 

@@ -256,7 +256,6 @@ bible_refs:
   - "Jean 3:8"
   - "Actes 16:1-4"
   - "Actes 16:4"
-  - "Jacques 3"
   - "Genèse 2:7"
   - "Jean 1:3"
   - "Genèse 1:1"

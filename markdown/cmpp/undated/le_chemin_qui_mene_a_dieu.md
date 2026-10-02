@@ -35,16 +35,20 @@ themes:
 pdf_url: "http://cmpp.ch/le_chemin_qui_mene_a_dieu.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Psaumes 119"
-  - "Genèse 8"
-  - "Genèse 11"
-  - "Luc 23"
-  - "Jean 14"
-  - "Jean 3"
-  - "1 Pierre 1"
-  - "Apocalypse 1"
-  - "Jean 11"
+  - "Psaumes 119:90-91"
+  - "Genèse 8:22"
+  - "Genèse 11:6"
+  - "Luc 23:43"
+  - "Jean 14:2-3"
+  - "Jean 3:2"
+  - "Jean 3:3"
+  - "1 Pierre 1:23"
+  - "Jean 14:6"
+  - "Jean 14:9"
+  - "Apocalypse 1:18"
+  - "Jean 11:25-26"
   - "Psaumes 103"
+  - "Psaumes 103:1-4"
 ---
 LE CHEMIN QUI MENE A DIEU
 

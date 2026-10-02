@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 10:5"
   - "Jean 5:39"
   - "Jean 5:36"
+  - "Jean 10:25"
   - "Joël 2:28"
   - "Actes 2:17"
   - "Apocalypse 3:17-18"

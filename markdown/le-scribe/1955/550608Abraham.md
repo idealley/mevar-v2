@@ -62,7 +62,7 @@ pdf_url: "http://le-scribe.org/pdfiles/550608Abraham.pdf"
 llm_cleaned: true
 bible_refs:
   - "Daniel 7:15"
-  - "Genèse 22:7,8"
+  - "Genèse 22:7,8,14"
   - "Romains 9:16"
   - "Jean 15:16"
   - "Jean 6:44"

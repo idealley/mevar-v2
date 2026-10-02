@@ -208,7 +208,8 @@ for (const md of batch) {
   const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0, verseNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], lists: {}, pass };
   const edits = fixes[md] ?? { title: null, fixes: [] };
   r.fixes = edits.fixes;
-  // Applied from the end, so each fix's place in the edited body is known:
+  // Applied from the end, so each fix's place in the edited body is known
+  // (two that overlap are reported, not applied):
   // a fix of kind "word" (the editor adding or removing a word the
   // transcriber dropped or doubled: "ça été" → "ça a été") may do so inside
   // its own span, and is listed apart. One whose find is its replacement
@@ -216,11 +217,19 @@ for (const md of batch) {
   // listed the same way.
   let edited = pass.body;
   const at = new Map(edits.fixes.map((f) => [f, pass.body.indexOf(f.find)]));
+  // occurrences counted overlapping too: « ha ha » is twice in « ha ha ha »
+  const found = (f) => { let n = 0; for (let i = pass.body.indexOf(f.find); i >= 0; i = pass.body.indexOf(f.find, i + 1)) n++; return n; };
   for (const f of edits.fixes) {
-    const n = pass.body.split(f.find).length - 1;
+    const n = found(f);
     if (n !== 1) r.unexplained.push(`editor's fix found ${n} times, not once: « ${f.find} »`);
   }
-  const placed = edits.fixes.filter((f) => pass.body.split(f.find).length === 2).sort((a, b) => at.get(b) - at.get(a));
+  const once = edits.fixes.filter((f) => found(f) === 1);
+  // two fixes on overlapping spans: one would be applied over the other's
+  // replacement; neither is, both are reported
+  const end = (f) => at.get(f) + f.find.length;
+  const overlaps = once.flatMap((f, i) => once.slice(i + 1).filter((g) => at.get(f) < end(g) && at.get(g) < end(f)).map((g) => [f, g]));
+  for (const [f, g] of overlaps) r.unexplained.push(`editor's fixes overlap: « ${f.find} » and « ${g.find} »`);
+  const placed = once.filter((f) => !overlaps.flat().includes(f)).sort((a, b) => at.get(b) - at.get(a));
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
   const sectioned = applyHeadings(edited, sections[md]);
   edited = sectioned.body;
@@ -281,6 +290,7 @@ for (const md of batch) {
   const file = fs.readFileSync(path.join(root, here), "utf8");
   const [, fm] = file.match(/^---\n([\s\S]*?)\n---\n/);
   const field = (k) => JSON.parse(fm.match(new RegExp(`^${k}: (.*)$`, "m"))?.[1] ?? '""');
+  const promoted = /^editorial_pass:/m.test(fm);
   const oldTitle = field("title");
   const after = rendered(body, r.unexplained, headings);
   r.words = words(original).length;
@@ -347,6 +357,15 @@ for (const md of batch) {
   // 2009 »), and a place only taken away, never given.
   const [ey, em] = (edits.date ?? "").split("-");
   r.date = edits.date && ((opening.has(key(ey)) && opening.has(key(MONTHS[Number(em) - 1] ?? "-"))) || decided.date) ? edits.date : field("date");
+  // A decided date records the frontmatter's date it replaces (`replaced_date`,
+  // none where there was none), checked before promotion: once promoted, the
+  // frontmatter no longer has it, and the next run still reads the header
+  // with its words, as this one did (had pred_sept2010's header printed
+  // « 2014 », the year its decision replaced, it would stay a header word;
+  // « 2013 » would not)
+  const replaced = decided.date ? edits.replaced_date ?? "" : "";
+  if (decided.date && !promoted && replaced !== field("date"))
+    r.unexplained.push(`the decided date replaces « ${field("date")} », but the editor's replaced_date is « ${replaced} »`);
   r.location = edits.location === "" ? "" : field("location");
   // the summary is the corpus's, not the preacher's: the editor's, listed
   r.summary = edits.summary ?? field("summary");
@@ -373,7 +392,7 @@ for (const md of batch) {
   // so the next run still knows the header; nowhere else (the pass cannot
   // certify its own deletion)
   const headerTitle = decided.title && !r.titleRefused ? [pass.title] : [];
-  const own = ownWords([oldTitle, oldSubtitle, r.title, r.subtitle, ...headerTitle, field("location"), field("preacher")], field("date"));
+  const own = new Set([...ownWords([oldTitle, oldSubtitle, r.title, r.subtitle, ...headerTitle, field("location"), field("preacher")], field("date")), ...ownWords([], replaced)]);
   const header = k > 0 ? compared.slice(0, ow[k].at) : "";
   const inHeader = new Set(words(header).map((x) => key(x.w)));
   const holds = (t) => words(t).length > 0 && words(t).every((x) => inHeader.has(key(x.w)));
@@ -382,8 +401,7 @@ for (const md of batch) {
   // so no word passes for another (« guerre » for « guère »)
   const single = (w) => w.replace(/(\p{L})\1/gu, "$1");
   const name = new Set(words(field("preacher") ?? "").map((x) => key(x.w)));
-  // a decided date replaced the one the header may print: its year stays a header word
-  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || name.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w) || (decided.date && /^(19|20)\d\d$/.test(x.w)))
+  const isHeader = k > 0 && words(header).every((x) => own.has(key(x.w)) || name.has(single(key(x.w))) || /^\d{1,3}$/.test(x.w))
     && [oldTitle, oldSubtitle, r.title, r.subtitle, ...headerTitle].some(holds);
   r.removed = isHeader ? [header.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()] : [];
   if (isHeader) compared = header.replace(/[^*]/g, " ") + compared.slice(ow[k].at);
@@ -517,7 +535,6 @@ for (const md of batch) {
   }
   const bodyOf = (t) => t.slice(t.indexOf("\n---\n") + 5);
 
-  const promoted = /^editorial_pass:/m.test(fm);
   // a text promoted earlier is still this pass's body, with the editor's fixes
   if (promoted && (bodyOf(file) !== `${parts[0]}\n` || (r.split && bodyOf(fs.readFileSync(path.join(root, r.split), "utf8")) !== `${parts[1]}\n`)))
     r.unexplained.push("the promoted body is not this pass's: its editorial_pass predates it");

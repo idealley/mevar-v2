@@ -66,13 +66,13 @@ themes:
 pdf_url: "http://cmpp.ch/lc_novembre_1973.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 13"
-  - "Romains 10"
-  - "Romains 5"
-  - "Hébreux 12"
-  - "2 Corinthiens 1"
-  - "Luc 3"
-  - "Matthieu 5"
+  - "Hébreux 13:8"
+  - "Romains 10:16-18"
+  - "Romains 5:10"
+  - "Hébreux 12:14"
+  - "2 Corinthiens 1:20-22"
+  - "Luc 3:17"
+  - "Matthieu 5:45"
   - "Hébreux 6"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).

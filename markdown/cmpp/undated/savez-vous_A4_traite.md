@@ -34,13 +34,14 @@ themes:
 pdf_url: "http://cmpp.ch/savez-vous_A4_traite.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Ecclésiaste 3"
-  - "2 Timothée 3"
-  - "2 Timothée 4"
-  - "1 Corinthiens 2"
-  - "Malachie 4"
-  - "Actes 3"
-  - "Apocalypse 3"
+  - "Ecclésiaste 3:1"
+  - "2 Timothée 3:1-9"
+  - "2 Timothée 4:3-4"
+  - "2 Timothée 3:1-3"
+  - "1 Corinthiens 2:4-5"
+  - "Malachie 4:6"
+  - "Actes 3:21"
+  - "Apocalypse 3:22"
 ---
 SAVEZ-VOUS QUE…?
 

@@ -38,6 +38,7 @@ bible_refs:
   - "Matthieu 21:1-11"
   - "Luc 17:12-17"
   - "Jean 16:28"
+  - "Jean 20:17"
   - "Exode 33:23"
 original: "branham/1959/59-0510E"
 ---

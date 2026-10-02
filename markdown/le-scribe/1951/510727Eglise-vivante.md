@@ -53,6 +53,7 @@ bible_refs:
   - "Marc 16:15-18"
   - "Jean 5:19-20"
   - "Jean 14:12"
+  - "Jean 16:7"
   - "Jean 14:19-20"
   - "Hébreux 13:8"
   - "Jean 14:10"

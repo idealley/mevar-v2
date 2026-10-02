@@ -69,6 +69,7 @@ bible_refs:
   - "Matthieu 4:4"
   - "Luc 8:40-56"
   - "Jean 5:19"
+  - "Jean 14:10"
   - "Marc 9:23"
   - "Marc 16:18"
 original: "branham/1964/64-0122"

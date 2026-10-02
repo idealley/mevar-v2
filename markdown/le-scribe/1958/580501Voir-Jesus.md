@@ -50,6 +50,7 @@ bible_refs:
   - "Jean 8:58"
   - "Jean 16:28"
   - "Actes 9:3"
+  - "Actes 22:6"
   - "Jean 20:21"
 original: "branham/1958/58-0501"
 ---

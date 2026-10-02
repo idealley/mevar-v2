@@ -48,6 +48,7 @@ bible_refs:
   - "Daniel 5"
   - "Jean 14:2"
   - "Romains 8:23"
+  - "Romains 9:4"
   - "Éphésiens 1:5"
   - "Galates 4:5"
   - "Romains 8:17"

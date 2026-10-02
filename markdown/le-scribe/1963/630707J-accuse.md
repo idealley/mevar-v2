@@ -71,6 +71,7 @@ bible_refs:
   - "Jean 4:1-26"
   - "Deutéronome 18:15"
   - "Matthieu 22:1-14"
+  - "Jean 10:25"
   - "Matthieu 13:55"
   - "Matthieu 13:57-58"
   - "Matthieu 15:14"

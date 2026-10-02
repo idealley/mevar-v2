@@ -39,6 +39,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/551111Pentecote-echec.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Éphésiens 1:3"
   - "Galates 4:5"
   - "Psaumes 103:3"
   - "1 Jean 4:20"

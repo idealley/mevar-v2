@@ -53,6 +53,7 @@ bible_refs:
   - "Proverbes 14:12"
   - "Jean 4:22"
   - "Matthieu 22:14"
+  - "Matthieu 7:14"
   - "Jean 10:18"
   - "Actes 3:6"
   - "Actes 7:55"

@@ -71,6 +71,7 @@ bible_refs:
   - "Exode 19"
   - "Jean 14:11"
   - "Jean 14:20"
+  - "Jean 15:5"
   - "Luc 8:43-48"
   - "Hébreux 4:15"
 original: "branham/1964/64-0306"

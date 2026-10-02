@@ -53,15 +53,19 @@ themes:
 pdf_url: "http://cmpp.ch/7sceaux10.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Ésaïe 9"
+  - "Ésaïe 9:6"
   - "Apocalypse 11"
-  - "Matthieu 24"
+  - "Éphésiens 4:30"
+  - "Matthieu 24:31"
+  - "Matthieu 24:32,33"
   - "Apocalypse 7"
-  - "Deutéronome 29"
-  - "1 Rois 12"
+  - "Deutéronome 29:16"
+  - "1 Rois 12:25-30"
   - "Apocalypse 14"
   - "Apocalypse 8:1"
   - "Apocalypse 10"
+  - "Apocalypse 10:1-7"
+  - "Matthieu 24"
 ---
 BROCHURE N° 10
 

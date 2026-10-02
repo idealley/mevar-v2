@@ -26,6 +26,7 @@ bible_refs:
   - "Romains 3:19-20"
   - "Romains 5:13"
   - "Galates 3:7-14"
+  - "Éphésiens 2:8-9"
   - "Jacques 2:10"
   - "Galates 3:13"
   - "Hébreux 9:1-12"

@@ -49,6 +49,7 @@ bible_refs:
   - "Marc 16:17-18"
   - "Job 2:9"
   - "Job 2:10"
+  - "Job 1:21"
   - "Luc 4:25"
   - "Hébreux 13:8"
   - "Jean 4:24"

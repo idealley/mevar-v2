@@ -87,6 +87,7 @@ bible_refs:
   - "Apocalypse 3:17"
   - "Apocalypse 2:18-23"
   - "Exode 11:5"
+  - "Exode 12:29-30"
   - "Matthieu 6:24"
   - "Apocalypse 13:14-15"
   - "Apocalypse 2:22"

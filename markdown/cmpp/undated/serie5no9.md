@@ -41,11 +41,13 @@ bible_refs:
   - "Genèse 3"
   - "Matthieu 24"
   - "2 Timothée 3"
-  - "Apocalypse 3"
+  - "Apocalypse 3:14"
   - "2 Thessaloniciens 2"
   - "Ésaïe 14"
+  - "Matthieu 24:24"
   - "Marc 16"
   - "Malachie 4"
+  - "Apocalypse 3"
   - "Apocalypse 21"
 ---
 SERIE 5, N° 9

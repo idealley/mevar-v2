@@ -49,6 +49,7 @@ bible_refs:
   - "Nombres 19:3-6"
   - "1 Jean 2:15"
   - "Actes 19:2"
+  - "Éphésiens 5"
   - "Éphésiens 5:25-26"
   - "Psaumes 133:1-2"
   - "Hébreux 13:12"

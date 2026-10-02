@@ -41,6 +41,7 @@ bible_refs:
   - "Marc 11:25-26"
   - "Matthieu 5:21-22"
   - "Luc 17:3-4"
+  - "Éphésiens 5:25-28"
   - "Luc 17:34-36"
   - "Hébreux 5:12-14"
   - "1 Thessaloniciens 4:1"

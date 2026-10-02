@@ -74,6 +74,8 @@ bible_refs:
   - "Luc 18:1-8"
   - "Luc 8:43-48"
   - "1 Corinthiens 12:10"
+  - "1 Corinthiens 14:1-5"
+  - "1 Corinthiens 14:29"
   - "Jérémie 1:5"
   - "Jean 5:19"
 original: "branham/1964/64-0305"

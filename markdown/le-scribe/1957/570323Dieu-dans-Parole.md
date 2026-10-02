@@ -41,6 +41,7 @@ bible_refs:
   - "Jean 14:8"
   - "1 Jean 3:9"
   - "Job 1:21"
+  - "Job 2:10"
   - "Job 19:25-26"
   - "Psaumes 42:7"
   - "Apocalypse 4:3"

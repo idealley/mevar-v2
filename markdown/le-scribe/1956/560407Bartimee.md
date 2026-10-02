@@ -49,6 +49,7 @@ bible_refs:
   - "Luc 18:42-43"
   - "Josué 6:13-14"
   - "Jean 14:13-14"
+  - "Jean 15:16"
   - "Jean 14:12"
   - "Marc 16:17-18"
   - "2 Timothée 3:1-5"

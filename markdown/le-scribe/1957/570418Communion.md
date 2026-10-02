@@ -36,8 +36,9 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570418Communion.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Matthieu 26:27"
+  - "Matthieu 26:27,28"
   - "Exode 12:1"
+  - "Éphésiens 6:12"
   - "Hébreux 12:8"
   - "Matthieu 26:39"
   - "1 Pierre 1:7"

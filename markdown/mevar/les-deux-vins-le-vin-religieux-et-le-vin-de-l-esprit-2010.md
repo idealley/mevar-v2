@@ -37,7 +37,7 @@ bible_refs:
   - "Exode 30:31-33"
   - "Matthieu 7:22"
   - "Jean 2:9"
-  - "Éphésiens 4:11"
+  - "Éphésiens 4:11,12"
   - "Luc 5:37-38"
   - "Actes 10"
   - "Luc 1:15"

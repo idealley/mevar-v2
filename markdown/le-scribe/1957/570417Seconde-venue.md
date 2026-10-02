@@ -44,11 +44,12 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570417Seconde-venue.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Luc 15:8"
+  - "Luc 15:8,9"
   - "Apocalypse 22:20"
   - "Matthieu 24:2"
   - "Luc 21:30"
   - "Genèse 12:3"
+  - "Genèse 27:29"
   - "Nombres 24:9"
   - "Daniel 5:27"
   - "Galates 5:22"

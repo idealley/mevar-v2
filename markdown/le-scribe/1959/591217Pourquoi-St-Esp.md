@@ -61,6 +61,7 @@ bible_refs:
   - "Actes 19"
   - "Éphésiens 4:30"
   - "Jean 15:26"
+  - "Jean 14:26"
   - "Jean 16:7"
   - "Jean 5:19"
   - "Jean 20:21"

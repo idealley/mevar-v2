@@ -22,12 +22,12 @@ bible_refs:
   - "Jean 14"
   - "Jean 14:15"
   - "Actes 7:46"
-  - "1 Corinthiens 12:1"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
   - "1 Corinthiens 13"
   - "2 Pierre 1:5"
   - "Marc 16"
   - "Actes 19"
-  - "1 Corinthiens 12"
 ---
 ## Deuxième partie
 

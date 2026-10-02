@@ -46,7 +46,7 @@ bible_refs:
   - "Genèse 45:1"
   - "Zacharie 12:10"
   - "Jean 8:24"
-  - "Zacharie 13:1"
+  - "Zacharie 13:1,7"
   - "Matthieu 26:31"
   - "Ésaïe 66:8"
   - "Apocalypse 20:1"

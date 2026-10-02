@@ -56,6 +56,7 @@ pdf_url: "http://le-scribe.org/pdfiles/620311Bataille.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Pierre 5:8-10"
+  - "Éphésiens 6:10-17"
   - "Daniel 12:1-7"
   - "Jude 1:13"
   - "Jean 15:7"
@@ -69,6 +70,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Matthieu 12:39"
   - "1 Rois 21:19"
+  - "1 Rois 22:1-38"
   - "Genèse 1:1"
   - "Jean 4:4"
   - "2 Rois 4:29"

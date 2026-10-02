@@ -54,7 +54,7 @@ bible_refs:
   - "Apocalypse 17"
   - "Genèse 11"
   - "Matthieu 25"
-  - "Jacques 3"
+  - "Jacques 3:14"
   - "Daniel 4:10"
   - "Jérémie 27:5"
   - "Apocalypse 3:14"

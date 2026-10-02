@@ -112,6 +112,7 @@ bible_refs:
   - "Zacharie 4:1-14"
   - "Apocalypse 19:15"
   - "1 Rois 17:1"
+  - "1 Rois 18:1"
   - "Jacques 5:17"
   - "1 Rois 19:18"
   - "Matthieu 27:45"

@@ -39,7 +39,8 @@ llm_cleaned: true
 bible_refs:
   - "Exode 28:30"
   - "Nombres 27:21"
-  - "Deutéronome 33:8,1"
+  - "Deutéronome 33:8"
+  - "1 Samuel 28:6"
   - "Esdras 2:63"
   - "Jean 6:37"
   - "Jean 12:20"
@@ -54,6 +55,7 @@ bible_refs:
   - "Hébreux 11:26"
   - "Jean 16:28"
   - "Actes 9:3"
+  - "Actes 22:6"
   - "Jean 1:48"
   - "Marc 3:28-29"
   - "Hébreux 4:12"

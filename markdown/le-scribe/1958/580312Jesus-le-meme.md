@@ -43,7 +43,8 @@ llm_cleaned: true
 bible_refs:
   - "Ésaïe 53:5"
   - "Exode 28:30"
-  - "Nombres 27:21,1"
+  - "Nombres 27:21"
+  - "1 Samuel 28:6"
   - "Jean 13:35"
   - "Psaumes 103:3"
   - "1 Jean 1:7"

@@ -62,6 +62,7 @@ bible_refs:
   - "Luc 2:49"
   - "Luc 2:34"
   - "Matthieu 3:17"
+  - "Matthieu 17:5"
   - "Zacharie 14:7"
   - "Jean 1:12"
   - "Matthieu 19:16-22"

@@ -42,7 +42,8 @@ llm_cleaned: true
 bible_refs:
   - "Colossiens 3:15"
   - "Lévitique 19:16"
-  - "1 Rois 17:1"
+  - "1 Rois 17"
+  - "1 Rois 18"
   - "Malachie 4"
   - "Lévitique 19"
   - "Exode 23"

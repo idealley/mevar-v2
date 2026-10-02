@@ -44,7 +44,7 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 11:1-3"
   - "Malachie 4"
-  - "Jean 14"
+  - "Jean 14:12"
 ---
 SERIE 5, N° 12
 

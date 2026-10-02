@@ -49,15 +49,15 @@ llm_cleaned: true
 bible_refs:
   - "Matthieu 25"
   - "Apocalypse 2"
-  - "1 Corinthiens 14"
-  - "Exode 4"
-  - "1 Corinthiens 3"
-  - "Luc 1"
+  - "1 Corinthiens 14:6"
+  - "Exode 4:14"
+  - "1 Corinthiens 3:3,4"
+  - "Luc 1:3,4"
   - "Actes 1"
   - "Actes 17"
   - "Actes 18:24"
   - "Apocalypse 10"
-  - "Matthieu 24"
+  - "Matthieu 24:14"
 ---
 **PRÉDICATION DONNÉE À BRUXELLES LE SAMEDI 9 AVRIL 1988**
 

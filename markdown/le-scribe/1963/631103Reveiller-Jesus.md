@@ -55,6 +55,7 @@ bible_refs:
   - "Éphésiens 2:6"
   - "Marc 16:17"
   - "1 Pierre 4:12"
+  - "1 Pierre 1:7"
   - "Jean 10:37-38"
   - "Jean 5:39"
   - "Psaumes 23:4"

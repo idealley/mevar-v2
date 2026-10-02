@@ -490,10 +490,10 @@
     "title": null,
     "fixes": [
       {
-        "find": "Je vous salue tous mes biens-aimés frères",
+        "find": "**Exhortation novembre 2007**\n\nJe vous salue tous mes biens-aimés frères",
         "replace": "Je vous salue tous mes bien-aimés frères",
-        "kind": "typo",
-        "why": "spelling: bien-aimés, as elsewhere in the text"
+        "kind": "markup",
+        "why": "editor: the header line goes, as in every other text; subtitle and title are in the frontmatter; and spelling: bien-aimés, as elsewhere in the text (two overlapping fixes folded into one, goal 22)"
       },
       {
         "find": "vous comble de toutes Ces grâces",
@@ -506,12 +506,6 @@
         "replace": "voyage missionnaire en République du Congo",
         "kind": "typo",
         "why": "proper noun: République du Congo"
-      },
-      {
-        "find": "**Exhortation novembre 2007**\n\nJe vous salue",
-        "replace": "Je vous salue",
-        "kind": "markup",
-        "why": "editor: the header line goes, as in every other text; subtitle and title are in the frontmatter"
       }
     ]
   },
@@ -11159,6 +11153,7 @@
     ],
     "subtitle": "Prêché le dimanche 22 août à Koumassi",
     "date": "2010-08-22",
+    "replaced_date": "2014-08-22",
     "decided": {
       "date": "Samuel, 2026-10-01: « Set both »: 22 August 2010, a Sunday as the header says (« Prêché le dimanche 22 août », no year); 22 August 2014 was a Friday"
     },

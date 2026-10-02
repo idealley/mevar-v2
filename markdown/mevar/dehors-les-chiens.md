@@ -33,6 +33,7 @@ bible_refs:
   - "Ésaïe 56:9"
   - "Michée 3:11"
   - "Matthieu 7:24"
+  - "Éphésiens 5:16"
   - "Colossiens 3:4"
   - "Habacuc 2:6"
   - "Matthieu 13:22"

@@ -68,6 +68,7 @@ bible_refs:
   - "1 Rois 18:19-40"
   - "Juges 6:21"
   - "Job 9:9"
+  - "Job 38:31"
   - "Actes 3:6"
   - "1 Pierre 4:12"
   - "2 Rois 4"

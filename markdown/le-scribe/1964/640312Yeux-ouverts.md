@@ -55,6 +55,7 @@ bible_refs:
   - "Romains 9:16"
   - "Jean 5:39"
   - "Jean 14:19-20"
+  - "Jean 16:16"
   - "Luc 17:28,30"
   - "Hébreux 4:12"
   - "Hébreux 4:15"

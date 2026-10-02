@@ -55,6 +55,7 @@ bible_refs:
   - "Exode 3:5"
   - "Jean 8:58"
   - "Jean 8:42"
+  - "Jean 13:3"
   - "Malachie 3"
   - "Matthieu 3:15"
   - "Luc 5:5"

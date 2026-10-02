@@ -47,6 +47,7 @@ bible_refs:
   - "Actes 22:9"
   - "Galates 1:10"
   - "Actes 9:1-22"
+  - "Actes 22:3-21"
   - "Galates 1:17-18"
   - "Matthieu 13:45-46"
   - "Actes 16:16-18"

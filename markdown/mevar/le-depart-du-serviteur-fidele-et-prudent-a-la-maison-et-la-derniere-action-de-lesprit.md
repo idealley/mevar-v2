@@ -33,7 +33,7 @@ bible_refs:
   - "Apocalypse 8:1"
   - "Matthieu 25"
   - "Matthieu 25:5"
-  - "Romains 13"
+  - "Romains 13:12"
   - "1 Corinthiens 14:8"
   - "Genèse 18:1-2"
   - "Actes 15:39"

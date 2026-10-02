@@ -84,6 +84,7 @@ bible_refs:
   - "1 Rois 19"
   - "2 Rois 9:7-8"
   - "2 Rois 9:30-37"
+  - "2 Rois 10:15-27"
 editorial_pass: "2026-09-29"
 ---
 ## Appel à la guerre – appel au combat contre Babylone

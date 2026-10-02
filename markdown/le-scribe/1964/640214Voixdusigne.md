@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "Exode 4:1-8"
   - "Exode 2:24"
+  - "Exode 6:5"
   - "Amos 3:7"
   - "Genèse 15:13-16"
   - "Jean 12:37"

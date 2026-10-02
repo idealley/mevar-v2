@@ -56,6 +56,7 @@ bible_refs:
   - "Matthieu 11:28"
   - "Joël 2:28"
   - "Psaumes 110:1"
+  - "Psaumes 16:10"
   - "Actes 2:26"
   - "Actes 2:23"
   - "Actes 2:38-39"
@@ -79,6 +80,7 @@ bible_refs:
   - "Luc 19:28"
   - "Malachie 3:10"
   - "Deutéronome 13:1-3"
+  - "Deutéronome 18:15"
 original: "branham/1960/60-1125"
 ---
 **Résumé de "Conférence" (le 25 novembre 1960)**

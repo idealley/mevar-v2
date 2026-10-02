@@ -72,7 +72,7 @@ export const BOOKS_FR = [
   ["1 Corinthiens", "1 Corinthien", "1 Cor", "1Cor", "1Co", "1C", "I Corinthiens", "I Corinthien", "I Cor", "1corinth"],
   ["2 Corinthiens", "2 Corinthien", "2 Cor", "2Cor", "2Co", "2C", "II Corinthiens", "II Corinthien", "II Cor"],
   ["Galates", "Galate", "Gal", "Ga"],
-  ["Éphésiens", "Ephesiens", "Ephesien", "Éphésien", "Eph", "Éph", "Ep"],
+  ["Éphésiens", "Ephesiens", "Ephesien", "Éphésien", "Ephésiens", "Ephésien", "Eph", "Éph", "Ep"],
   ["Philippiens", "Phil", "Phi", "Phl", "Php", "Ph"],
   ["Colossiens", "Col", "Co", "Colossien", "Colos"],
   ["1 Thessaloniciens", "1 Thes", "1Thes", "1 Th", "1Th", "I Thessaloniciens", "I Thes", "1 Thessalonique", "1 Thess", "1Thess"],

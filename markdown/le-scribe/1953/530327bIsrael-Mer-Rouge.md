@@ -64,6 +64,7 @@ bible_refs:
   - "Exode 12:7-10"
   - "Romains 8:1"
   - "Exode 12:11"
+  - "Éphésiens 6"
   - "Exode 12:38"
   - "Matthieu 13:47"
   - "Ésaïe 28:8,9"

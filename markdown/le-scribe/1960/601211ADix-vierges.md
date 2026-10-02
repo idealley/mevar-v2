@@ -98,6 +98,7 @@ bible_refs:
   - "Hébreux 6:4"
   - "Nombres 13"
   - "Deutéronome 11:24"
+  - "Deutéronome 14:1-4"
   - "Apocalypse 22:16"
 original: "branham/1960/60-1211M"
 ---

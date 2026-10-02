@@ -66,6 +66,7 @@ bible_refs:
   - "Matthieu 17:1-8"
   - "Deutéronome 5:23-33"
   - "Nombres 25:1-3"
+  - "Nombres 31:16"
   - "Nombres 25:6-13"
 original: "branham/1964/64-1227"
 ---

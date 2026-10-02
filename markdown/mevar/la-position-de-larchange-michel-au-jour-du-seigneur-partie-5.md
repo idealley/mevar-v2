@@ -40,6 +40,7 @@ bible_refs:
   - "1 Thessaloniciens 4"
   - "1 Thessaloniciens 4:13"
   - "1 Thessaloniciens 4:14-17"
+  - "Apocalypse 20:1-2"
   - "Apocalypse 20:4"
   - "Apocalypse 13:4-7"
   - "Apocalypse 13:7-8"

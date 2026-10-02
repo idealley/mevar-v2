@@ -41,7 +41,8 @@ pdf_url: "http://le-scribe.org/pdfiles/580323Jesus-le-meme.pdf"
 llm_cleaned: true
 bible_refs:
   - "Exode 28:30"
-  - "Nombres 27:21,1"
+  - "Nombres 27:21"
+  - "1 Samuel 28:6"
   - "Matthieu 24:35"
   - "Ésaïe 53:5"
   - "Psaumes 103:3"

@@ -77,6 +77,7 @@ bible_refs:
   - "Apocalypse 20:12"
   - "Apocalypse 17:15"
   - "Matthieu 7:23"
+  - "Matthieu 24:41"
   - "Hébreux 4:12"
   - "Apocalypse 19:11-13"
   - "Marc 16:15"

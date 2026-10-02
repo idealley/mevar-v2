@@ -43,7 +43,8 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 13:10-14"
   - "Hébreux 11:10"
-  - "Hébreux 11:13,1"
+  - "Hébreux 11:13"
+  - "1 Pierre 2:11"
   - "Éphésiens 6:2"
   - "Deutéronome 5:16"
   - "Job 38:4,7"

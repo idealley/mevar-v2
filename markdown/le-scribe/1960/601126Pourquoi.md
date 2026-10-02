@@ -44,6 +44,7 @@ bible_refs:
   - "Jean 10:37"
   - "Jean 16:28"
   - "Deutéronome 13:1-3"
+  - "Deutéronome 18:15"
   - "Jean 1:42"
   - "Jean 1:49"
   - "Malachie 4:2"

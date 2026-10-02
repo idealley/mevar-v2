@@ -60,10 +60,11 @@ llm_cleaned: true
 bible_refs:
   - "Ésaïe 53"
   - "Jean 14"
-  - "Marc 9"
+  - "Marc 9:7"
   - "Malachie 3"
   - "Jean 12"
-  - "Matthieu 24"
+  - "Jean 12:24"
+  - "Matthieu 24:24"
   - "Apocalypse 17"
   - "Apocalypse 3"
   - "Malachie 4"
