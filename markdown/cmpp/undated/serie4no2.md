@@ -46,7 +46,7 @@ bible_refs:
   - "Lévitique 16:6-15"
   - "Matthieu 12:15-21"
   - "Jean 19:39"
-  - "Jean 12:1"
+  - "Jean 12:1,7"
   - "Jean 12"
 ---
 SERIE 4, N° 2

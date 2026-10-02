@@ -23,6 +23,7 @@ bible_refs:
   - "Jean 15"
   - "Jean 16"
   - "1 Corinthiens 12"
+  - "Éphésiens 4"
   - "Marc 16"
   - "Actes 19"
   - "Matthieu 24"

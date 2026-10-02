@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 6:44"
   - "Matthieu 12:38"
   - "Jean 15:26"
+  - "Jean 16:13"
   - "Matthieu 27:40"
   - "Matthieu 26:68"
   - "Marc 16:17"

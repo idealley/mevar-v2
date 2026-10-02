@@ -58,7 +58,7 @@ bible_refs:
   - "Matthieu 2:14-15"
   - "Matthieu 2:16-18"
   - "Esther 3:13-15"
-  - "Apocalypse 6:8"
+  - "Apocalypse 6:8,9"
 ---
 *Exhortation De Mars 2020*
 

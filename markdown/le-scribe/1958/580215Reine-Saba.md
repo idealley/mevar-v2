@@ -49,6 +49,7 @@ bible_refs:
   - "Luc 9:26"
   - "Jean 14:19,17,12"
   - "Jean 14:10"
+  - "Jean 5:19"
   - "Jean 4:29"
   - "Marc 5:30"
   - "Hébreux 4:15"

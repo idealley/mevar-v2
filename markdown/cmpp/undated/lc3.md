@@ -49,6 +49,7 @@ bible_refs:
   - "Actes 3:22"
   - "Matthieu 23"
   - "Luc 11:52"
+  - "Éphésiens 2:21,22"
   - "Luc 24:27"
   - "Tite 1:10"
   - "1 Corinthiens 13"

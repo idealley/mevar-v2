@@ -47,6 +47,7 @@ bible_refs:
   - "Juges 16:27"
   - "Juges 15:15"
   - "Juges 15:13-14"
+  - "Juges 16:9"
   - "Juges 14:5-6"
   - "Matthieu 6:21"
   - "1 Samuel 17:34-35"

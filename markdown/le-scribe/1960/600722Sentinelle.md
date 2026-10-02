@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 14:17"
   - "Jean 8:58"
   - "Jean 13:3"
+  - "Jean 16:28"
   - "Jean 5:19"
   - "2 Timothée 3:12"
   - "Ésaïe 53:5"

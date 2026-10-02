@@ -56,7 +56,7 @@ bible_refs:
   - "Apocalypse 3:21"
   - "Apocalypse 20:4"
   - "Apocalypse 2:10"
-  - "1 Pierre 5:2"
+  - "1 Pierre 5:2,4"
   - "2 Timothée 4:8"
   - "Daniel 7"
   - "Apocalypse 21"

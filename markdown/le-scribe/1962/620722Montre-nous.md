@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 14:8-9"
   - "Matthieu 5:45"
   - "Jean 5:39"
+  - "Jean 10:37"
   - "2 Corinthiens 5:19"
   - "1 Timothée 3:16"
   - "Jean 16:16"

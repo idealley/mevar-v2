@@ -46,6 +46,7 @@ bible_refs:
   - "Genèse 16:13"
   - "Hébreux 13:8"
   - "Matthieu 4:3"
+  - "Matthieu 26:68"
   - "Romains 8:29-30"
   - "Ésaïe 49:15"
 original: "branham/1962/62-1209"

@@ -41,7 +41,8 @@ pdf_url: "http://cmpp.ch/rev02.pdf"
 llm_cleaned: true
 bible_refs:
   - "Matthieu 25"
-  - "Matthieu 25:33"
+  - "Matthieu 25:33,34"
+  - "Éphésiens 4:30"
   - "Jean 17:17"
   - "Matthieu 10"
   - "Matthieu 12:32"

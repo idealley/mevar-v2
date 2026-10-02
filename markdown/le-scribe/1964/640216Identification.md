@@ -49,6 +49,7 @@ bible_refs:
   - "1 Jean 1:15"
   - "Jean 5:46"
   - "Ésaïe 9:5"
+  - "Ésaïe 7:14"
   - "Jean 3:2"
   - "Jean 6:68"
   - "Matthieu 19:16-26"

@@ -20,6 +20,7 @@ stream_url: "https://mevar.org/le-soldat-urie/"
 bible_refs:
   - "2 Samuel 11:1-26"
   - "2 Thessaloniciens 2"
+  - "Éphésiens 6:14-18"
 ---
 ## Exhortation d'avril 2014
 

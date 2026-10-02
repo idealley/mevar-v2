@@ -42,6 +42,7 @@ bible_refs:
   - "Matthieu 2:15"
   - "Actes 10:35"
   - "Proverbes 14:12"
+  - "Proverbes 16:25"
   - "Matthieu 4:9"
   - "2 Timothée 3:2-4"
   - "1 Timothée 5:6"

@@ -43,6 +43,7 @@ bible_refs:
   - "Luc 9:62"
   - "Exode 12:7"
   - "Jean 15:7"
+  - "Jean 14:13"
   - "Jean 14:6"
   - "Genèse 26:20-21"
   - "Genèse 26:22"

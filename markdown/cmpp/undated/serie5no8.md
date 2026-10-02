@@ -60,15 +60,16 @@ bible_refs:
   - "Malachie 4"
   - "Hébreux 13:8"
   - "2 Timothée 3:16"
-  - "2 Pierre 1:20"
+  - "2 Pierre 1:20,21"
   - "Exode 4:10,12"
   - "Jérémie 1:6"
   - "Ésaïe 53:1"
   - "Galates 1:8"
-  - "Apocalypse 22:18"
+  - "Apocalypse 22:18,19"
   - "Luc 17:30"
   - "Jean 14:12"
   - "Jean 15:24"
+  - "Jean 16:13"
   - "Apocalypse 10:1-7"
 ---
 SERIE 5, N° 8

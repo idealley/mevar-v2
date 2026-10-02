@@ -57,6 +57,7 @@ bible_refs:
   - "1 Rois 8:48"
   - "Jonas 2:5"
   - "Jean 14:12"
+  - "Jean 16:16"
   - "Matthieu 28:19"
   - "Actes 2"
   - "Marc 9:23"

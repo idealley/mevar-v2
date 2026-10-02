@@ -90,6 +90,7 @@ bible_refs:
   - "Apocalypse 2:20"
   - "Ézéchiel 13"
   - "Actes 16:16-18"
+  - "Actes 21:7-14"
   - "1 Corinthiens 14:3"
   - "Ézéchiel 13:23"
   - "Matthieu 16:22,23"

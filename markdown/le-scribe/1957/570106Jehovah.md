@@ -39,7 +39,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/570106Jehovah.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Genèse 22:7,8"
+  - "Genèse 22:7,8,14"
   - "Jean 6:44"
   - "Genèse 15:9"
   - "Jean 14:10"

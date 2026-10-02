@@ -57,7 +57,7 @@ bible_refs:
   - "1 Corinthiens 12"
   - "Matthieu 28:18"
   - "Romains 5:1"
-  - "Hébreux 13:12"
+  - "Hébreux 13:12,13"
   - "Luc 24:49"
   - "Marc 16"
   - "Apocalypse 17"

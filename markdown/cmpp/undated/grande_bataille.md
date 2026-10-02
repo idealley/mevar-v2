@@ -43,6 +43,7 @@ pdf_url: "http://cmpp.ch/grande_bataille.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Pierre 5:8-10"
+  - "Éphésiens 6:10-17"
   - "Daniel 12:1-14"
   - "Genèse 3:1"
   - "Matthieu 24"
@@ -50,6 +51,7 @@ bible_refs:
   - "Hébreux 4"
   - "Genèse 3:4"
   - "Genèse 3"
+  - "Éphésiens 6:10,13"
   - "Jacques 4:7"
 ---
 LA PAROLE PARLEE

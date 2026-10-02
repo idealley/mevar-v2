@@ -51,6 +51,7 @@ bible_refs:
   - "Hébreux 12:1"
   - "Matthieu 18:20"
   - "Jean 14:12"
+  - "Jean 16:16"
   - "Matthieu 28:20"
   - "Jean 10:37"
   - "Daniel 8:27"

@@ -102,6 +102,7 @@ bible_refs:
   - "Exode 4:10-16"
   - "Apocalypse 3:17,18"
   - "2 Timothée 3:9"
+  - "Éphésiens 1:5"
   - "Matthieu 4:4-6"
   - "Jude 1:9"
   - "Deutéronome 31:6"

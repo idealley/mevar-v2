@@ -50,6 +50,7 @@ pdf_url: "http://le-scribe.org/pdfiles/560731FilleJairus.pdf"
 llm_cleaned: true
 bible_refs:
   - "Luc 8:48"
+  - "Éphésiens 4:30"
   - "Jean 5:19"
   - "Apocalypse 22:11"
   - "Hébreux 13:8"

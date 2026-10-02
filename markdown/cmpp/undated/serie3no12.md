@@ -53,6 +53,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 17"
   - "Matthieu 24"
+  - "Éphésiens 4:30"
   - "Actes 19:5"
   - "Galates 1:8"
   - "Hébreux 13:8"

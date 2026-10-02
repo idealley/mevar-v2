@@ -67,6 +67,7 @@ bible_refs:
   - "1 Corinthiens 5:7"
   - "Apocalypse 22:19"
   - "Jean 14:26"
+  - "Jean 16:13"
   - "Hébreux 11:24"
   - "Matthieu 5:45"
   - "Apocalypse 3:20"

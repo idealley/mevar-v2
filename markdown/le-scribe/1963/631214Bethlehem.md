@@ -49,6 +49,7 @@ bible_refs:
   - "Josué 19:15"
   - "Josué 15"
   - "Ruth 1:19"
+  - "Ruth 4:11"
   - "Ruth 1:22"
   - "Zacharie 4:6"
   - "Michée 5:1"

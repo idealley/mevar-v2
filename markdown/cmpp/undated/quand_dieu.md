@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 8:56-58"
   - "Jean 20:28"
   - "Ésaïe 37:16"
+  - "Ésaïe 44:24"
   - "Job 9:8"
   - "Ésaïe 45:5"
   - "Actes 20:28"
@@ -77,10 +78,12 @@ bible_refs:
   - "Jean 14:18"
   - "Jean 14:26"
   - "2 Corinthiens 6:6"
+  - "2 Corinthiens 13:5"
   - "1 Corinthiens 6:19"
   - "Actes 13:30"
   - "Romains 8:11"
   - "Matthieu 1:18"
+  - "Matthieu 16:16"
   - "Ésaïe 40:25"
   - "Actes 2:38"
   - "Jean 8:58"
@@ -90,6 +93,7 @@ bible_refs:
   - "Jean 10:33"
   - "1 Jean 4:2"
   - "Colossiens 2:9"
+  - "Actes 8:12"
   - "Colossiens 3:17"
 ---
 ## Quand Dieu devint homme

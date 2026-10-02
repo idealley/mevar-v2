@@ -55,6 +55,7 @@ llm_cleaned: true
 bible_refs:
   - "Ésaïe 9:6"
   - "Apocalypse 11"
+  - "Éphésiens 4:30"
   - "Matthieu 24:31"
   - "Matthieu 24:32,33"
   - "Apocalypse 7"

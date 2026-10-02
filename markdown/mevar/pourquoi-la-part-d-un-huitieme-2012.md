@@ -101,6 +101,8 @@ bible_refs:
   - "Genèse 11"
   - "Apocalypse 17:1-5"
   - "Apocalypse 16:13"
+  - "Apocalypse 19:20"
+  - "Apocalypse 20:10"
   - "Apocalypse 2:20"
   - "Jean 10:12"
   - "Apocalypse 2:1-7"

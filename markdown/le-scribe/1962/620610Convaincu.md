@@ -55,6 +55,7 @@ bible_refs:
   - "Genèse 22:17"
   - "Romains 8:37"
   - "Matthieu 6:34"
+  - "Matthieu 28:20"
   - "Jean 9:25"
   - "1 Samuel 17"
   - "2 Samuel 5:24"

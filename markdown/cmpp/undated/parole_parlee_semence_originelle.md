@@ -68,6 +68,7 @@ bible_refs:
   - "Hébreux 6:4-8"
   - "Hébreux 6"
   - "1 Pierre 2:1-6"
+  - "Éphésiens 5:23"
   - "Jean 3:16"
   - "Jean 20"
   - "Matthieu 16:19"

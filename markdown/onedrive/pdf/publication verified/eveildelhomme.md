@@ -75,8 +75,11 @@ bible_refs:
   - "Zacharie 9:9"
   - "Zacharie 9"
   - "Jean 12:31"
+  - "Éphésiens 2:2"
+  - "Éphésiens 6:11"
   - "Apocalypse 17:14"
   - "Matthieu 25"
+  - "Éphésiens 5:17"
   - "Apocalypse 17"
   - "Romains 16:20"
 ---

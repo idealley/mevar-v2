@@ -42,6 +42,7 @@ pdf_url: "http://le-scribe.org/pdfiles/510718Ange-Seigneur.pdf"
 llm_cleaned: true
 bible_refs:
   - "Jean 6:37"
+  - "Jean 7:37"
   - "Hébreux 10:7"
   - "1 Corinthiens 2:4"
   - "2 Corinthiens 3:6"

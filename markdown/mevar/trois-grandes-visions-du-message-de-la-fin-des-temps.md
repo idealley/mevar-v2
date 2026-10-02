@@ -53,6 +53,7 @@ bible_refs:
   - "Néhémie 2:11-13"
   - "Néhémie 2:17-18"
   - "1 Corinthiens 6:17"
+  - "Éphésiens 6:17"
   - "Jean 7:38-39"
   - "Galates 5:19-21"
   - "Amos 9:11"

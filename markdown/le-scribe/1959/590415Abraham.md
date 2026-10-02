@@ -47,6 +47,7 @@ bible_refs:
   - "Ésaïe 53:5"
   - "Romains 4:17-18"
   - "Jean 6:44"
+  - "Éphésiens 1:4"
   - "Psaumes 103:3"
   - "Exode 13:13"
   - "Matthieu 3:17"

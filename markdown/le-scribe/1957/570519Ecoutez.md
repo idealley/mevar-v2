@@ -47,6 +47,7 @@ bible_refs:
   - "Apocalypse 11"
   - "Jean 14:2"
   - "Matthieu 24:28"
+  - "Éphésiens 1:5"
   - "Jean 1:18"
   - "Matthieu 28:18"
   - "Luc 14:33"

@@ -71,7 +71,7 @@ bible_refs:
   - "Apocalypse 11"
   - "Genèse 45"
   - "Actes 4:12"
-  - "Jean 14:8"
+  - "Jean 14:8,9"
   - "1 Jean 5:7,8"
   - "Luc 11:24-26"
 ---

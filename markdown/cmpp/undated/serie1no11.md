@@ -48,7 +48,7 @@ bible_refs:
   - "Apocalypse 7"
   - "Marc 16"
   - "Hébreux 4:12"
-  - "Matthieu 11:25"
+  - "Matthieu 11:25,27"
   - "1 Corinthiens 2"
   - "Malachie 4"
   - "Psaumes 1"

@@ -52,6 +52,7 @@ bible_refs:
   - "Job 19:25"
   - "Jean 13:3"
   - "Jean 14:19-20"
+  - "Jean 16:16"
   - "Luc 8:42"
   - "Jean 11:40"
   - "Marc 10:47"

@@ -37,6 +37,7 @@ bible_refs:
   - "Apocalypse 21:9"
   - "Apocalypse 19:2"
   - "Apocalypse 17:1-5"
+  - "Éphésiens 5:25"
   - "Apocalypse 19"
   - "Malachie 3:16-18"
   - "Joël 2:23"

@@ -214,6 +214,7 @@ bible_refs:
   - "Éphésiens 6:1-22"
   - "Colossiens 4"
   - "1 Thessaloniciens 2:17"
+  - "1 Thessaloniciens 3:1-3"
   - "Actes 16"
   - "Actes 17"
   - "Actes 18"

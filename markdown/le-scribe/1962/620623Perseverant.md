@@ -19,6 +19,8 @@ bible_refs:
   - "2 Rois 4:8-37"
   - "Jean 11:21-22"
   - "Hébreux 1:3"
+  - "Hébreux 4:15"
+  - "Hébreux 7:25"
   - "Jean 11:25-27"
   - "1 Rois 22"
   - "1 Rois 21:19-21"

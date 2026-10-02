@@ -75,7 +75,7 @@ bible_refs:
   - "Jérémie 2"
   - "Jean 14"
   - "Jean 3:16"
-  - "Jean 7:37"
+  - "Jean 7:37,38"
   - "Zacharie 13"
   - "Psaumes 36:9"
 ---

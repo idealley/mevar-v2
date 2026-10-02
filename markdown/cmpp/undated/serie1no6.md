@@ -47,6 +47,7 @@ llm_cleaned: true
 bible_refs:
   - "Philippiens 2:1-8"
   - "2 Corinthiens 3:6-18"
+  - "2 Corinthiens 4:1"
   - "Philippiens 2"
   - "Jean 6:62"
   - "Jean 6:70"
@@ -116,6 +117,7 @@ bible_refs:
   - "Matthieu 28:20"
   - "Luc 17:30"
   - "Jean 3:14-16"
+  - "Éphésiens 5:26"
   - "Matthieu 24:35"
   - "Actes 2:17"
   - "Malachie 4:6"

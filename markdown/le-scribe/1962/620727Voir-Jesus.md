@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 1:1,14"
   - "Amos 3:7"
   - "Jean 5:39"
+  - "Jean 10:37"
   - "Hébreux 4:12"
   - "Matthieu 12:34"
   - "Deutéronome 18:15"

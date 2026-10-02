@@ -50,6 +50,7 @@ bible_refs:
   - "1 Corinthiens 11:5-6"
   - "Matthieu 4:4"
   - "Luc 12:57"
+  - "Luc 19:42"
   - "Daniel 11:32"
   - "Jean 14:12"
   - "2 Timothée 3:1-5"

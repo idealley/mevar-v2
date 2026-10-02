@@ -48,6 +48,8 @@ bible_refs:
   - "Jean 15:7"
   - "Éphésiens 4:30"
   - "Genèse 22:17"
+  - "Genèse 12:3"
+  - "Genèse 27:29"
   - "Hébreux 6:5-6"
   - "Actes 2:27"
   - "Luc 7:11-17"

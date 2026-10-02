@@ -51,7 +51,7 @@ bible_refs:
   - "Genèse 6"
   - "2 Pierre 3:10"
   - "Matthieu 24:35"
-  - "Ézéchiel 26:27"
+  - "Ézéchiel 26:27,28"
   - "Apocalypse 18"
   - "Apocalypse 13"
   - "Apocalypse 12"

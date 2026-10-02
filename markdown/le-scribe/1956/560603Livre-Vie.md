@@ -46,6 +46,7 @@ bible_refs:
   - "Apocalypse 19:20"
   - "Galates 5:22"
   - "Matthieu 5:10-12"
+  - "Éphésiens 4:30"
   - "Apocalypse 13:16"
   - "Apocalypse 13:8"
   - "Jean 6:44"

@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 11:21-22"
   - "Jean 3:18"
   - "Jean 5:24"
+  - "Jean 6:40"
   - "2 Timothée 3:5"
   - "Ésaïe 40:31"
   - "2 Corinthiens 6:17"

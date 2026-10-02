@@ -54,6 +54,7 @@ bible_refs:
   - "2 Corinthiens 6:17-18"
   - "Ésaïe 48:20"
   - "Jérémie 50:8"
+  - "Jérémie 51:6"
   - "Actes 2:38"
   - "Actes 19"
   - "Actes 19:5-6"

@@ -39,6 +39,7 @@ bible_refs:
   - "Ésaïe 61"
   - "Ésaïe 60:21"
   - "Apocalypse 22:13"
+  - "Éphésiens 5:27"
 ---
 L'ONCTION DU TEMPS DE LA FIN
 

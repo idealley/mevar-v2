@@ -44,6 +44,7 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 13:8"
   - "Ésaïe 54:14,15,17"
+  - "Éphésiens 4:11,12"
   - "1 Corinthiens 1"
   - "2 Corinthiens 1"
   - "Galates 1"
@@ -52,6 +53,7 @@ bible_refs:
   - "1 Corinthiens 12:4-11"
   - "1 Corinthiens 12:12"
   - "1 Corinthiens 12:28"
+  - "Éphésiens 4:11"
   - "Actes 13:1"
   - "1 Corinthiens 14:29"
   - "2 Timothée 1:11"

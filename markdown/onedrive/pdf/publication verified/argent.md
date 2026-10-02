@@ -73,6 +73,7 @@ bible_refs:
   - "1 Corinthiens 5:11"
   - "Colossiens 3:8-10"
   - "Éphésiens 6:10-12"
+  - "Éphésiens 6"
   - "Éphésiens 4:22-24"
   - "2 Pierre 1"
   - "Philippiens 2:5"

@@ -55,6 +55,7 @@ bible_refs:
   - "Hébreux 11:26"
   - "Jean 16:28"
   - "Actes 9:3"
+  - "Actes 22:6"
   - "Jean 1:48"
   - "Marc 3:28-29"
   - "Hébreux 4:12"

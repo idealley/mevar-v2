@@ -44,6 +44,7 @@ bible_refs:
   - "Jean 14:10"
   - "Jean 5:19"
   - "Jean 6:44"
+  - "Éphésiens 1:5"
   - "Romains 9:13"
   - "Hébreux 13:8"
   - "Jean 15:5,7"

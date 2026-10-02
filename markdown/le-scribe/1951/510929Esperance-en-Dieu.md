@@ -40,6 +40,8 @@ bible_refs:
   - "Matthieu 25:40"
   - "2 Rois 6:8"
   - "Nombres 22:18,38"
+  - "Nombres 23:12"
+  - "Nombres 24:13"
   - "Jean 5:19-20"
   - "Hébreux 13:8"
   - "Jean 14:12,19"

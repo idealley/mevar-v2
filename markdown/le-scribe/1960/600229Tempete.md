@@ -55,6 +55,7 @@ bible_refs:
   - "Hébreux 11:10"
   - "Apocalypse 8"
   - "Apocalypse 9:4"
+  - "Éphésiens 4:30"
   - "Psaumes 91:7"
   - "Apocalypse 6:8"
   - "Apocalypse 6:5-6"

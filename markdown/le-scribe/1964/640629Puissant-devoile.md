@@ -51,6 +51,7 @@ bible_refs:
   - "Matthieu 11:25"
   - "Malachie 3:6"
   - "Job 38:1"
+  - "Job 40:1"
   - "Jean 1:18"
   - "Deutéronome 18:15"
   - "Apocalypse 3:21"

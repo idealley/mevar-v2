@@ -33,6 +33,7 @@ bible_refs:
   - "Ézéchiel 28:12-14"
   - "Ézéchiel 28:17"
   - "Genèse 4:1-8"
+  - "Genèse 5:1-5"
   - "1 Jean 3:12"
   - "Genèse 4:19"
   - "Genèse 3:1"

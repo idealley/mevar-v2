@@ -48,6 +48,7 @@ bible_refs:
   - "Marc 10:46-53"
   - "Hébreux 11:26"
   - "Jean 8:14,42"
+  - "Jean 13:3"
   - "Jean 14:10,20"
   - "Jean 14:12"
   - "1 Corinthiens 12:13"

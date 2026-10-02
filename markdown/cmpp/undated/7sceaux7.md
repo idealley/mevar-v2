@@ -50,7 +50,7 @@ bible_refs:
   - "Romains 11"
   - "Romains 11:25,26"
   - "Apocalypse 12:1"
-  - "Actes 15:13"
+  - "Actes 15:13,14"
   - "Apocalypse 11"
   - "Malachie 4"
   - "Apocalypse 10:7"

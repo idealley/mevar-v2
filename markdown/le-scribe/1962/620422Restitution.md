@@ -101,6 +101,7 @@ bible_refs:
   - "Galates 3:13"
   - "Marc 9:31"
   - "Jean 5:19"
+  - "Jean 14:20"
   - "Jean 17:17"
   - "1 Jean 5:7-8"
   - "1 Jean 2:23"

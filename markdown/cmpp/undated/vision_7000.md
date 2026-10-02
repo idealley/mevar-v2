@@ -55,6 +55,7 @@ bible_refs:
   - "Deutéronome 4"
   - "Ésaïe 14:1"
   - "Jérémie 30:3"
+  - "Jérémie 31:7-12"
   - "Ézéchiel 36:38"
   - "Osée 9:10"
   - "Matthieu 24:32-41"

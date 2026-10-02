@@ -23,6 +23,7 @@ bible_refs:
   - "Hébreux 12:4"
   - "Hébreux 4"
   - "Luc 21"
+  - "Éphésiens 4"
   - "Apocalypse 11"
   - "1 Corinthiens 1"
 ---

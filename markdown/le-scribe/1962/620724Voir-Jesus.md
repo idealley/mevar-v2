@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 1:1,14"
   - "Jean 5:39"
+  - "Jean 10:37"
   - "Amos 3:7"
   - "Deutéronome 18:15"
   - "Jean 1:48"

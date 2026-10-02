@@ -68,6 +68,7 @@ bible_refs:
   - "Jean 5:19"
   - "Matthieu 28:20"
   - "Jean 16:16"
+  - "Jean 17:21"
   - "Luc 8:43-48"
   - "Hébreux 4:15"
 original: "branham/1964/64-0304"

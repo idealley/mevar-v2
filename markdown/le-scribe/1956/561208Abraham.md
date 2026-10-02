@@ -48,6 +48,7 @@ bible_refs:
   - "Romains 4:17"
   - "Genèse 12"
   - "Actes 19"
+  - "Éphésiens 4:30"
   - "Hébreux 12:1-2"
   - "Psaumes 103:3"
   - "Jean 5:24"

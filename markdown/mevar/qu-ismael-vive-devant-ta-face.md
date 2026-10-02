@@ -27,6 +27,7 @@ bible_refs:
   - "Galates 4:22-31"
   - "Romains 8:19"
   - "Apocalypse 17"
+  - "Éphésiens 5:27"
   - "Apocalypse 12"
   - "Galates 5:1"
   - "Exode 2:11-12"

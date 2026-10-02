@@ -68,7 +68,7 @@ bible_refs:
   - "Matthieu 14:2-36"
   - "Matthieu 26:30-46"
   - "Luc 22:44"
-  - "Luc 8:41-42"
+  - "Luc 8:41-42,49-56"
   - "1 Rois 10:1-13"
   - "Luc 11:31"
   - "Matthieu 11:12"

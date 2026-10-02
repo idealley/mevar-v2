@@ -137,7 +137,7 @@ bible_refs:
   - "Ésaïe 40:6-8"
   - "Ésaïe 21"
   - "Ésaïe 21:11"
-  - "Genèse 26:2"
+  - "Genèse 26:2,24"
   - "Genèse 25:28"
   - "Cantique des cantiques 5:2"
   - "Nombres 2:1-34"

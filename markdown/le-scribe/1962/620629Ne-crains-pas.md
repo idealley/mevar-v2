@@ -72,6 +72,7 @@ bible_refs:
   - "Jean 14:12"
   - "1 Corinthiens 2:4-5"
   - "Joël 1:4"
+  - "Joël 2:25"
   - "Luc 17:28-30"
 original: "branham/1962/62-0629"
 ---

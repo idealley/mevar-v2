@@ -59,6 +59,7 @@ bible_refs:
   - "Exode 4:8"
   - "Matthieu 28:18"
   - "1 Corinthiens 4:20"
+  - "1 Corinthiens 2:4"
   - "Matthieu 15:26"
   - "Galates 1:8"
   - "Marc 11:23"

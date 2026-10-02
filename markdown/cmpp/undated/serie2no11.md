@@ -50,9 +50,11 @@ bible_refs:
   - "Jean 5:43"
   - "Matthieu 1:23"
   - "1 Corinthiens 12"
+  - "Éphésiens 4:30"
   - "Romains 8:1"
   - "Zacharie 4:7"
   - "Malachie 4"
+  - "Éphésiens 1:21"
   - "Psaumes 119:11"
 ---
 SERIE 2 N° 11

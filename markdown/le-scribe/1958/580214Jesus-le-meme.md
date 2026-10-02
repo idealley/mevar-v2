@@ -63,6 +63,7 @@ bible_refs:
   - "1 Samuel 28:6"
   - "Jean 14:19,20"
   - "Daniel 7:15"
+  - "Daniel 10:16"
 original: "branham/1958/58-0214"
 ---
 *Jésus-Christ est le même hier, aujourd'hui et éternellement (ou : Nous voudrions voir Jésus)*

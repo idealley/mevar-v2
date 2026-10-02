@@ -58,6 +58,7 @@ bible_refs:
   - "Genèse 17"
   - "Genèse 15:4-17"
   - "Psaumes 51:5-6"
+  - "Psaumes 58:3"
   - "Galates 3:29"
   - "Apocalypse 13"
   - "1 Corinthiens 2:9"

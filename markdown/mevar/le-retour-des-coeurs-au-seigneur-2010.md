@@ -52,7 +52,7 @@ bible_refs:
   - "Actes 8:5"
   - "Actes 8:5-24"
   - "Malachie 4:5"
-  - "1 Rois 17:1"
+  - "1 Rois 17"
   - "1 Rois 18"
   - "Apocalypse 17"
   - "Ésaïe 40"

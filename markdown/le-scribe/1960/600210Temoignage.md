@@ -59,6 +59,7 @@ bible_refs:
   - "Jérémie 1:5"
   - "Actes 16:16-17"
   - "Jean 6:44"
+  - "Jean 10:5"
   - "Matthieu 5:18"
   - "Luc 10:12"
   - "Jean 6:37,39"

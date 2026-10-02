@@ -55,6 +55,7 @@ bible_refs:
   - "Genèse 15:6"
   - "Jean 6:44-46"
   - "Romains 8:28-34"
+  - "Éphésiens 1:1-5"
   - "Genèse 1"
   - "Jean 1:26"
   - "Actes 2:17"

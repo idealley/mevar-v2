@@ -58,6 +58,7 @@ bible_refs:
   - "Lévitique 23:26"
   - "Ésaïe 28"
   - "Hébreux 4"
+  - "Éphésiens 1:10"
   - "Actes 3:23"
   - "Hébreux 11"
   - "Genèse 4:1"

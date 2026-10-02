@@ -42,11 +42,10 @@ pdf_url: "http://cmpp.ch/serie1no10.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 1"
-  - "Apocalypse 1:17"
+  - "Apocalypse 1:17,18"
   - "Romains 8:11"
-  - "Marc 16:1"
-  - "Marc 16"
   - "Marc 16:1,2"
+  - "Marc 16"
   - "Matthieu 28:18,19"
   - "Luc 24:49"
   - "Hébreux 13:8"

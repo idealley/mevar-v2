@@ -53,6 +53,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Actes 9:4"
   - "Jean 17:18"
+  - "Jean 20:21"
 original: "branham/1958/58-0613"
 ---
 *LA REINE DU MIDI*

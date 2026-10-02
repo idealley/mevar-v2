@@ -43,6 +43,7 @@ bible_refs:
   - "1 Corinthiens 5:11"
   - "Colossiens 3:8-10"
   - "Éphésiens 6:10-12"
+  - "Éphésiens 6"
   - "Éphésiens 4:22-24"
   - "2 Pierre 1"
   - "Philippiens 2:5"
@@ -70,6 +71,7 @@ bible_refs:
   - "Colossiens 3:12-15"
   - "Hébreux 3:13"
   - "1 Pierre 4:7-10"
+  - "Éphésiens 3:20-21"
   - "1 Jean 2:28"
 ---
 ## Exhortation du mois d'octobre 2006

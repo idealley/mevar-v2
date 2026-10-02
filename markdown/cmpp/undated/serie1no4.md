@@ -50,8 +50,8 @@ themes:
 pdf_url: "http://cmpp.ch/serie1no4.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Zacharie 14:6"
-  - "1 Jean 5:7"
+  - "Zacharie 14:6,7"
+  - "1 Jean 5:7,8"
   - "Matthieu 18:16"
   - "Apocalypse 10:4"
   - "Apocalypse 10:7"

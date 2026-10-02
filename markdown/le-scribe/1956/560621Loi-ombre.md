@@ -50,6 +50,7 @@ bible_refs:
   - "Hébreux 10:10"
   - "Romains 8:1"
   - "Genèse 2:7"
+  - "Éphésiens 4:30"
   - "1 Corinthiens 6:12"
   - "Amos 8:11"
   - "Jean 3:18"

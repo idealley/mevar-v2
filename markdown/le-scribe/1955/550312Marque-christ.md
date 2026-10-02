@@ -48,6 +48,8 @@ bible_refs:
   - "Hébreux 10:26-27"
   - "Matthieu 16:18"
   - "Jean 6:44"
+  - "Éphésiens 1:12-13"
+  - "Éphésiens 4:30"
   - "Ézéchiel 8"
   - "Ézéchiel 9:3"
   - "Apocalypse 7"

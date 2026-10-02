@@ -57,6 +57,7 @@ bible_refs:
   - "Ésaïe 60:2"
   - "Romains 13:11"
   - "Matthieu 25"
+  - "Éphésiens 1:3"
   - "Jean 20:22"
   - "Jean 17:17"
   - "Apocalypse 3"

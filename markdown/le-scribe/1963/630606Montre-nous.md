@@ -45,6 +45,7 @@ bible_refs:
   - "Jean 11:23-24"
   - "Marc 5:24-34"
   - "Jean 14:11"
+  - "Jean 5:19"
   - "Jean 10:30"
   - "Jean 16:16"
   - "Matthieu 28:20"

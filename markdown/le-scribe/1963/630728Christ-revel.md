@@ -73,6 +73,7 @@ bible_refs:
   - "Jean 6:31-35"
   - "Nombres 13"
   - "Nombres 13:30"
+  - "Nombres 14:9"
   - "Hébreux 4:12"
   - "Matthieu 11:25-27"
   - "Jean 12:37-41"

@@ -46,6 +46,7 @@ bible_refs:
   - "Galates 1:8"
   - "Jude 1:3"
   - "Joël 1:4"
+  - "Joël 2:25"
   - "Hébreux 6:8"
   - "Zacharie 14:7"
   - "Éphésiens 5:27"

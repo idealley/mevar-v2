@@ -44,6 +44,7 @@ bible_refs:
   - "Jean 6:68"
   - "Job 38:1"
   - "Matthieu 14:17"
+  - "Matthieu 15:36"
   - "Jean 2:7"
   - "2 Rois 2:20"
   - "2 Rois 6:6"

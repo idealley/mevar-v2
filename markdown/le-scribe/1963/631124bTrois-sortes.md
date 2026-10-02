@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 16:16"
   - "Hébreux 11:13"
   - "1 Rois 8:33"
+  - "1 Rois 9:3"
   - "Daniel 6"
   - "1 Samuel 17"
   - "Psaumes 61:4"

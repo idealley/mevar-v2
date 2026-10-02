@@ -43,6 +43,7 @@ bible_refs:
   - "Apocalypse 13:17"
   - "Apocalypse 17"
   - "Apocalypse 17:6"
+  - "Apocalypse 18:24"
   - "Jean 16:2"
   - "Apocalypse 17:5"
   - "Apocalypse 2:22,23"

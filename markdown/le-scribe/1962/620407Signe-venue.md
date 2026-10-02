@@ -60,6 +60,7 @@ bible_refs:
   - "Matthieu 11:9-10"
   - "Malachie 3"
   - "Deutéronome 13:1"
+  - "Deutéronome 18:22"
   - "Matthieu 24:24"
   - "Genèse 15:13-16"
   - "Ézéchiel 4:4-7"

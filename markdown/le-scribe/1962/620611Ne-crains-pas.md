@@ -64,6 +64,7 @@ bible_refs:
   - "Marc 16:17-18"
   - "Hébreux 7:25"
   - "Jean 8:42"
+  - "Jean 20:17"
 original: "branham/1962/62-0611"
 ---
 *C'est Moi, n'ayez pas peur* (11 juin 1962, soir)

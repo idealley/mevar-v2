@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "2 Pierre 3:3"
   - "2 Timothée 1:15"
+  - "2 Timothée 4:9"
   - "Hébreux 4:12"
   - "Genèse 24:11"
   - "Genèse 18"

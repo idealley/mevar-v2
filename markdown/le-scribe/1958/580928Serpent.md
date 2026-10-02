@@ -53,6 +53,7 @@ bible_refs:
   - "Hébreux 7:9"
   - "Job 38:7"
   - "Jean 6:65,47"
+  - "Jean 10:29"
   - "Jean 5:24"
   - "Psaumes 32:2"
   - "Romains 9:20"

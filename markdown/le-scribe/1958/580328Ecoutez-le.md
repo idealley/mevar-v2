@@ -47,6 +47,7 @@ bible_refs:
   - "2 Pierre 1:20"
   - "Luc 8:51"
   - "Galates 4"
+  - "Éphésiens 1:5"
   - "Jean 14:2"
   - "Ézéchiel 9:4"
   - "Hébreux 13:8"
@@ -57,6 +58,7 @@ bible_refs:
   - "Actes 2:22"
   - "Jérémie 16:23"
   - "Marc 9:42"
+  - "Marc 16:17"
   - "Marc 15:30"
 original: "branham/1958/58-0324"
 ---

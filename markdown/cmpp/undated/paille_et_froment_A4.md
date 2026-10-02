@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 12:29-30"
   - "1 Pierre 2:24-25"
   - "Matthieu 24:45-47"
+  - "Éphésiens 4:10-16"
   - "Ésaïe 53:10"
   - "Actes 3:17-26"
   - "Matthieu 24:14"

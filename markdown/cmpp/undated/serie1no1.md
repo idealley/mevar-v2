@@ -50,7 +50,7 @@ bible_refs:
   - "Job 38:1"
   - "Job 19:2-27"
   - "1 Rois 22"
-  - "Jean 6:37"
+  - "Jean 6:37,44"
   - "Apocalypse 3:17"
   - "Matthieu 17:10-13"
   - "Luc 3:7-8"

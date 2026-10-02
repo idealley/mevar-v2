@@ -51,6 +51,7 @@ bible_refs:
   - "Matthieu 12:34"
   - "Ésaïe 40:31"
   - "Jean 15:7"
+  - "Jean 14:12"
   - "Jean 14:20"
   - "Jean 8:46"
   - "Exode 3:5"

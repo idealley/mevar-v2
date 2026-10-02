@@ -58,8 +58,10 @@ bible_refs:
   - "Hébreux 12:24"
   - "Genèse 4:10"
   - "Actes 16:31"
+  - "Éphésiens 2:13"
   - "Hébreux 9:11-14"
   - "Hébreux 13:8"
+  - "Éphésiens 4:30"
 ---
 SERIE 2 N° 1
 

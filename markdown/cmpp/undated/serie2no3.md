@@ -49,7 +49,7 @@ bible_refs:
   - "Malachie 3"
   - "Malachie 4"
   - "Jean 8"
-  - "Apocalypse 22:18"
+  - "Apocalypse 22:18,19"
   - "Actes 20"
   - "Apocalypse 22:19"
   - "Jean 5:19"

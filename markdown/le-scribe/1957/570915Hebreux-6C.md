@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 20:29"
   - "Romains 4:17"
   - "Jean 5:24"
+  - "Jean 6:40"
   - "Hébreux 6:19,20"
   - "2 Rois 6:14,17"
   - "Philippiens 3:10"

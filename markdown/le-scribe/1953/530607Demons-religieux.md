@@ -51,6 +51,7 @@ bible_refs:
   - "Nombres 16"
   - "Romains 11:29"
   - "Actes 11:27,28"
+  - "Actes 21:10"
   - "Marc 5:7"
   - "Jacques 2:19"
   - "Genèse 12"

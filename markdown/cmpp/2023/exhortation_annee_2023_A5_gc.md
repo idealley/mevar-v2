@@ -38,6 +38,7 @@ bible_refs:
   - "1 Thessaloniciens 4:16,17"
   - "2 Pierre 3:3,4"
   - "Romains 8:19"
+  - "Éphésiens 5:27"
   - "Colossiens 3:14"
   - "Apocalypse 19:7-9"
   - "Hébreux 10:14"

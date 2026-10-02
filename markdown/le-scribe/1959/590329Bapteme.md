@@ -46,6 +46,7 @@ bible_refs:
   - "Matthieu 19:14"
   - "Marc 16:15-17"
   - "Actes 2:38"
+  - "Actes 8:12"
   - "Matthieu 28:19"
   - "Matthieu 1:18"
   - "Actes 2:37-39"

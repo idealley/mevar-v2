@@ -43,6 +43,7 @@ bible_refs:
   - "Josué 20"
   - "Exode 12:13"
   - "Jean 15:16"
+  - "Jean 16:23"
   - "Jean 15:7"
   - "Colossiens 3:17"
   - "Actes 4:12"

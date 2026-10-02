@@ -51,6 +51,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/560401Puissant-vainqueur.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Éphésiens 1:15-23"
   - "Luc 24:25-31"
   - "Jean 10:18"
   - "1 Corinthiens 2:4"

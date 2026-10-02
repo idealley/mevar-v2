@@ -47,6 +47,7 @@ bible_refs:
   - "Actes 7"
   - "Galates 3:29"
   - "Romains 4"
+  - "Éphésiens 4:30"
   - "Jean 14"
   - "Jean 14:10"
   - "Jean 16:7"

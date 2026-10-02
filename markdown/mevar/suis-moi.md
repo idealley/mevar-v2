@@ -25,6 +25,7 @@ bible_refs:
   - "Jean 14:6"
   - "Luc 5:27"
   - "Jean 6:44"
+  - "Éphésiens 2:8"
   - "Marc 10:17-27"
   - "1 Pierre 5:6-7"
   - "Matthieu 6:31-34"

@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 20:20-22"
   - "Jean 15:5"
   - "Jean 8:46"
+  - "Jean 10:37-38"
   - "Jean 3:1-13"
   - "Matthieu 22:41-46"
   - "Apocalypse 22:16"

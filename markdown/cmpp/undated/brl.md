@@ -127,6 +127,7 @@ bible_refs:
   - "Jean 6:26,27"
   - "Jean 6:32-37"
   - "Jean 6:52"
+  - "Éphésiens 5:30"
   - "Jean 4:34"
   - "Jean 6:58"
   - "1 Corinthiens 10:21,22"

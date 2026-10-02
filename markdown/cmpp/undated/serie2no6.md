@@ -44,6 +44,7 @@ bible_refs:
   - "Matthieu 10"
   - "Actes 19"
   - "Actes 18"
+  - "Éphésiens 4:30"
   - "Jean 12"
   - "Actes 4"
 ---

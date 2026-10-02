@@ -47,6 +47,7 @@ bible_refs:
   - "Genèse 2"
   - "Jean 5:24"
   - "Jean 6:44"
+  - "Jean 10:3-5"
   - "Ésaïe 9:5"
   - "Matthieu 1:18"
   - "Matthieu 1:20"

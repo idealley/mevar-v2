@@ -50,6 +50,7 @@ bible_refs:
   - "1 Chroniques 17:7-8"
   - "Genèse 3:15"
   - "Proverbes 1:2"
+  - "Proverbes 9:10"
   - "Deutéronome 7:7"
   - "Nombres 20:7-12"
   - "Deutéronome 32:49-52"

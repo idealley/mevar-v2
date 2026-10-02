@@ -51,6 +51,8 @@ bible_refs:
   - "Exode 19"
   - "Exode 2:24"
   - "Genèse 12:1-4"
+  - "Genèse 15:5"
+  - "Genèse 17:4"
   - "Matthieu 13:47"
   - "Hébreux 6:17-18"
   - "Genèse 22:16"

@@ -36,6 +36,7 @@ bible_refs:
   - "Ésaïe 54:14-17"
   - "1 Corinthiens 6"
   - "1 Corinthiens 6:12"
+  - "Éphésiens 6"
   - "2 Thessaloniciens 2"
   - "1 Corinthiens 3:16"
   - "1 Corinthiens 3:17"
@@ -47,6 +48,7 @@ bible_refs:
   - "Galates 5:19-21"
   - "1 Corinthiens 6:9-11"
   - "1 Corinthiens 15:50"
+  - "Éphésiens 5:5"
   - "Apocalypse 2:20"
   - "Daniel 10:12-14"
 ---

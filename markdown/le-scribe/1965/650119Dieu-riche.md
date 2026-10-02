@@ -42,6 +42,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650119Dieu-riche.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Éphésiens 2:1-5"
   - "Hébreux 7:4-10"
   - "Jean 17:7"
   - "Actes 2:38-39"

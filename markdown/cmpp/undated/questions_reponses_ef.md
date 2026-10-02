@@ -131,6 +131,7 @@ bible_refs:
   - "Jean 6:32-39"
   - "Jean 4:34"
   - "2 Corinthiens 11:2-4"
+  - "Éphésiens 5:26-27"
   - "Romains 14:7-12"
   - "2 Corinthiens 5:9-10"
   - "2 Corinthiens 5:10"

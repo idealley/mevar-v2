@@ -50,6 +50,8 @@ bible_refs:
   - "Apocalypse 10"
   - "Apocalypse 1"
   - "Malachie 4"
+  - "Éphésiens 1:13,14"
+  - "Éphésiens 4:30"
   - "Romains 8:22,23"
   - "Apocalypse 11:18"
   - "Lévitique 25"

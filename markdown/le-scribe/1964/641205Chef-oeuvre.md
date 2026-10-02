@@ -55,6 +55,7 @@ llm_cleaned: true
 bible_refs:
   - "Ésaïe 53:1"
   - "Jean 10:37"
+  - "Jean 5:36"
   - "Jean 10:30"
   - "Luc 6:26"
   - "Matthieu 6:28-29"

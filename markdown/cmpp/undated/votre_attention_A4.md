@@ -36,9 +36,10 @@ pdf_url: "http://cmpp.ch/votre_attention_A4.pdf"
 llm_cleaned: true
 bible_refs:
   - "Jean 13:20"
-  - "Nombres 16:3"
+  - "Nombres 16:3,11"
   - "Matthieu 28:19"
   - "Matthieu 24:41-51"
+  - "Éphésiens 4:8-16"
   - "Actes 3:19-26"
   - "Malachie 4:1-3"
   - "Malachie 4:5"

@@ -23,6 +23,7 @@ bible_refs:
   - "Jean 10:27"
   - "Jacques 2:19"
   - "Jean 3:21"
+  - "Éphésiens 2:8"
   - "Psaumes 103:2"
   - "1 Jean 1:9"
   - "Luc 5:32"

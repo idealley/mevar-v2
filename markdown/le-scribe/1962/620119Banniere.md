@@ -49,6 +49,7 @@ bible_refs:
   - "Actes 1:8"
   - "Jean 13:35"
   - "Jean 14:10"
+  - "Jean 5:19"
 original: "branham/1962/62-0119"
 ---
 **UNE BANNIERE**

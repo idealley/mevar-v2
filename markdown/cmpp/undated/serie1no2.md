@@ -51,7 +51,7 @@ bible_refs:
   - "Jean 5:39"
   - "Hébreux 13:8"
   - "Amos 3"
-  - "Jean 1:1"
+  - "Jean 1:1,14"
   - "Genèse 3:15"
   - "Daniel 7:9"
   - "Apocalypse 22:18,19"

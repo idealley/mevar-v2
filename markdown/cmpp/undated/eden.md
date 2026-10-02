@@ -80,6 +80,7 @@ bible_refs:
   - "Matthieu 13:36-43"
   - "Jean 8:44"
   - "Matthieu 3:7"
+  - "Matthieu 23:33"
   - "Apocalypse 17:1-6"
   - "Apocalypse 19:6-10"
   - "1 Jean 3:15"

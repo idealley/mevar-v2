@@ -59,6 +59,7 @@ bible_refs:
   - "Genèse 18"
   - "Jean 14:12"
   - "Joël 1:4"
+  - "Joël 2:25"
   - "Zacharie 14:7"
   - "Marc 5:25-34"
   - "Hébreux 4:15"

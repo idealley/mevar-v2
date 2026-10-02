@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 1:23"
   - "Matthieu 3:2"
   - "Jean 16:13"
+  - "Jean 14:26"
   - "Jean 5:24"
   - "Jean 14:12"
   - "Jean 13:19"

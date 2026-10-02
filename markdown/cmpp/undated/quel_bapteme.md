@@ -44,6 +44,7 @@ bible_refs:
   - "Colossiens 3:17"
   - "Jean 4:24"
   - "Marc 12:29"
+  - "Éphésiens 4:5-6"
   - "Matthieu 16:16-18"
   - "Hébreux 10:5"
   - "Luc 1:35"

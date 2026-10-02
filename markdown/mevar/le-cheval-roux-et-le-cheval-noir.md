@@ -23,6 +23,7 @@ stream_url: "https://mevar.org/le-cheval-roux-et-le-cheval-noir/"
 bible_refs:
   - "Apocalypse 6"
   - "Apocalypse 19"
+  - "Éphésiens 4"
   - "1 Corinthiens 12:13,14"
   - "Apocalypse 2"
   - "Apocalypse 17"

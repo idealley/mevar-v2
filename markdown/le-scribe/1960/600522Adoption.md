@@ -37,6 +37,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600522Adoption.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Éphésiens 1:9"
   - "Romains 8:29-30"
   - "Romains 8:19"
   - "2 Timothée 3:12"
@@ -50,6 +51,7 @@ bible_refs:
   - "Hébreux 13:15"
   - "Job 1:21"
   - "Matthieu 26:26"
+  - "Éphésiens 1:9-10"
   - "1 Corinthiens 2:9"
   - "Jean 10:34"
   - "Genèse 2"
@@ -63,10 +65,12 @@ bible_refs:
   - "Éphésiens 1:13"
   - "Jean 17:17"
   - "Actes 2:38"
+  - "Éphésiens 4:30"
   - "2 Corinthiens 5:1"
   - "1 Timothée 2:14"
   - "1 Corinthiens 14:32"
   - "Job 38:7"
+  - "Éphésiens 2:1"
   - "Matthieu 1:21"
   - "Ésaïe 9:6"
   - "Ésaïe 53:5"

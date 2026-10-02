@@ -56,6 +56,7 @@ bible_refs:
   - "Actes 10:9"
   - "Ésaïe 28:11"
   - "Matthieu 5:48"
+  - "Éphésiens 4"
   - "1 Corinthiens 12"
   - "Hébreux 11"
 ---

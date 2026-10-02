@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 8:20"
   - "Hébreux 13:8"
   - "Jean 5:19"
+  - "Jean 14:10"
   - "Jean 1:48"
   - "Jean 4:18"
   - "Jean 4:26"

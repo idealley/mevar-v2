@@ -39,7 +39,7 @@ pdf_url: "http://le-scribe.org/pdfiles/570818Memorial.pdf"
 llm_cleaned: true
 bible_refs:
   - "Matthieu 24:35"
-  - "Deutéronome 18:15"
+  - "Deutéronome 18:15,19"
   - "Josué 1:11"
   - "Josué 3:5"
   - "Exode 19:15"

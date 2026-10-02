@@ -51,6 +51,7 @@ bible_refs:
   - "Actes 16:31"
   - "Actes 14:22"
   - "Jean 14:26"
+  - "Jean 15:13"
   - "1 Timothée 5:6"
   - "Luc 24:49"
   - "Actes 19:2"

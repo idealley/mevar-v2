@@ -42,7 +42,7 @@ themes:
 pdf_url: "http://cmpp.ch/serie3no10.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jude 1:5"
+  - "Jude 1:5,6"
   - "2 Pierre 2:4,5"
   - "1 Pierre 3:18-20"
   - "Jude 1:6"

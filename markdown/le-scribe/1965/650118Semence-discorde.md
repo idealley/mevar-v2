@@ -39,7 +39,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/650118Semence-discorde.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Matthieu 13:24-30"
+  - "Matthieu 13:24-30,36-43"
   - "Matthieu 24:24"
   - "Matthieu 5:45"
   - "Hébreux 6:8"

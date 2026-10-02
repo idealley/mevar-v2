@@ -51,6 +51,7 @@ bible_refs:
   - "Matthieu 4:12-17"
   - "Romains 3:4"
   - "Ésaïe 7:14"
+  - "Ésaïe 9:5"
   - "Jean 5:35"
   - "Ésaïe 40:3"
   - "Malachie 3:1"

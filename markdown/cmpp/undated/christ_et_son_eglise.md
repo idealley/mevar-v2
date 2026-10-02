@@ -55,6 +55,7 @@ bible_refs:
   - "1 Timothée 3:16"
   - "Hébreux 2:4"
   - "Actes 2:42"
+  - "Éphésiens 4:11"
   - "1 Corinthiens 12:28"
   - "1 Corinthiens 12:4-11"
   - "Galates 5:22-26"

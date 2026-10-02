@@ -41,6 +41,7 @@ bible_refs:
   - "Job 38"
   - "2 Timothée 4:9"
   - "Matthieu 24:45"
+  - "Éphésiens 1:15-18"
 ---
 ## Exhortation du mois de septembre 2006
 

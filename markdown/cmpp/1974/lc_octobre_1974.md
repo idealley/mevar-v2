@@ -43,6 +43,7 @@ bible_refs:
   - "Jean 21:25"
   - "Amos 8:11"
   - "Matthieu 24:45,46"
+  - "Éphésiens 4:11-13"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 
