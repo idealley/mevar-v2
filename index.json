@@ -167400,8 +167400,64 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/Copie de predicationjuin2007.md",
-    "size_bytes": 47959,
-    "line_count": 156
+    "size_bytes": 48017,
+    "line_count": 157
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "exhojuin2007-les-prisonniers-de-la-religion",
+    "title": "Les prisonniers de la religion",
+    "subtitle": "Prêché à So-Chanwé le 14 janvier 2007",
+    "date": "2007-01-14",
+    "year": 2007,
+    "location": "So-Chanwé",
+    "preacher": "Parfait M'bra",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": null,
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": [
+      "Prédications",
+      "2007",
+      "religion",
+      "délivrance",
+      "réveil"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "Prêchée à So-Chanwé, cette prédication appuyée sur la délivrance de Pierre hors de la prison montre que la religion est une prison à plusieurs cellules, jusque dans le Message : sans la puissance du Saint-Esprit, on vit en prisonnier. Elle appelle à sortir de la religion et à revenir à une expérience vivante avec le Seigneur, à Minuit.",
+    "persons": [
+      "Jésus-Christ",
+      "Paul",
+      "Pierre",
+      "William Branham",
+      "Ewald Frank",
+      "Barilier"
+    ],
+    "places": [
+      "Côte d'Ivoire",
+      "Abidjan",
+      "So-Chanwé",
+      "Jérusalem",
+      "Babylone"
+    ],
+    "themes": [
+      "religion",
+      "sortie de la religion",
+      "puissance du Saint-Esprit",
+      "réveil",
+      "Laodicée"
+    ],
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": false,
+    "original": null,
+    "local_md": "markdown/mevar/les-prisonniers-de-la-religion-2007.md",
+    "size_bytes": 48321,
+    "line_count": 125
   },
   {
     "source": "onedrive",
@@ -167810,6 +167866,61 @@
     "local_md": "markdown/mevar/la-recompense-de-prophete-2007.md",
     "size_bytes": 27611,
     "line_count": 138
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "reveilafricain-le-reveil-des-africains",
+    "title": "Le réveil des Africains",
+    "subtitle": "Prêché à So-Tchanwé (Bénin) le 28 janvier 2007",
+    "date": "2007-01-28",
+    "year": 2007,
+    "location": "So-Tchanwé (Bénin)",
+    "preacher": "Parfait M'bra",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": null,
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": [
+      "Prédications",
+      "2007",
+      "Réveil",
+      "Afrique"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "Prêchée à So-Tchanwé, cette prédication annonce le rôle de l'Afrique dans le dernier réveil, selon les prophéties bibliques et les visions de frère Branham : l'Afrique, longtemps méprisée, doit se préparer par la prière persévérante à recevoir la puissance de Dieu pour l'Épouse de Christ.",
+    "persons": [
+      "William Branham",
+      "Frank",
+      "Barilier",
+      "Philippe"
+    ],
+    "places": [
+      "Afrique",
+      "États-Unis",
+      "Europe",
+      "Bénin",
+      "Côte d'Ivoire",
+      "Éthiopie",
+      "Égypte",
+      "Jérusalem"
+    ],
+    "themes": [
+      "Réveil spirituel",
+      "Rôle de l'Afrique dans la fin des temps",
+      "Épouse de Christ",
+      "Ministère prophétique"
+    ],
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": false,
+    "original": null,
+    "local_md": "markdown/mevar/le-reveil-des-africains-2007.md",
+    "size_bytes": 23409,
+    "line_count": 102
   },
   {
     "source": "onedrive",
@@ -168313,47 +168424,36 @@
     "authors": null,
     "type": null,
     "status": null,
-    "summary": "Cette exhortation appelle les croyants à se lever pour le combat spirituel contre Babylone, symbole de la religion sans révélation. Elle rappelle les prophéties bibliques sur la chute de Babylone et insiste sur la nécessité de sortir de la religion pour vivre dans la puissance du Saint-Esprit. L'auteur partage des expériences de réveil et des paroles prophétiques reçues dans son assemblée.",
+    "summary": "Dans cette exhortation spéciale de juin 2007, le frère M'bra lance un appel à la guerre contre Babylone : les prophéties annoncent sa chute, et l'Église doit se sanctifier et se lever pour le combat spirituel. Il y joint la prédication « Les prisonniers de la religion ».",
     "persons": [
-      "Esaïe",
+      "Ésaïe",
       "Osée",
       "Jésus-Christ",
-      "Paul",
-      "Pierre",
-      "William Branham",
-      "Ewald Frank",
-      "Barilier"
+      "Ewald Frank"
     ],
     "places": [
-      "Côte d'Ivoire",
-      "Abidjan",
-      "Koumassi",
-      "So-Chanwé",
-      "Jérusalem",
       "Babylone"
     ],
     "themes": [
       "Babylone",
-      "religion",
-      "réveil",
       "combat spirituel",
-      "sanctification",
-      "puissance du Saint-Esprit",
-      "sortie de Babylone"
+      "sortie de Babylone",
+      "réveil",
+      "sanctification"
     ],
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/appel-a-la-guerre-appel-au-combat-contre-babylone-juin-2007.md",
-    "size_bytes": 65997,
-    "line_count": 198
+    "size_bytes": 18554,
+    "line_count": 99
   },
   {
     "source": "onedrive",
     "sermon_id": "reveilafricain",
     "title": "Appel au réveil des Africains",
-    "subtitle": "Exhortation de Juin 2007",
+    "subtitle": "Exhortation spéciale de juin 2007",
     "date": "2007-06-01",
     "year": 2007,
     "location": null,
@@ -168368,45 +168468,34 @@
       "Exhortations",
       "2007",
       "Réveil",
-      "Afrique",
       "Prière"
     ],
     "authors": null,
     "type": null,
     "status": null,
-    "summary": "Cette exhortation appelle les Africains à se préparer pour le réveil spirituel annoncé par les prophéties bibliques et les visions de William Branham. L'auteur insiste sur la nécessité de la prière persévérante, à l'exemple d'Élie, et souligne le rôle central de l'Afrique dans le dernier réveil avant le retour du Christ.",
+    "summary": "Dans cette exhortation de juin 2007, le frère M'bra rappelle que l'Église attend la pluie de l'arrière-saison (Jacques 5:7, Zacharie 10:1) : on ne l'attend pas les bras croisés ; à l'exemple d'Élie, qui pria avec instance, les croyants doivent prier pour le réveil. Il y joint la prédication « Le réveil des Africains ».",
     "persons": [
-      "William Branham",
       "Élie",
-      "Jacques",
-      "Frank",
-      "Barilier",
-      "Philippe"
+      "Jacques"
     ],
     "places": [
-      "Afrique",
       "États-Unis",
       "Europe",
-      "Bénin",
-      "Côte d'Ivoire",
-      "Éthiopie",
-      "Égypte",
-      "Jérusalem"
+      "Afrique",
+      "Bénin"
     ],
     "themes": [
       "Réveil spirituel",
       "Prière d'intercession",
-      "Rôle de l'Afrique dans la fin des temps",
-      "Epouse de Christ",
-      "Ministère prophétique"
+      "Pluie de l'arrière-saison"
     ],
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/reveilafricain.md",
-    "size_bytes": 31179,
-    "line_count": 130
+    "local_md": "markdown/mevar/appel-au-reveil-des-africains-2007.md",
+    "size_bytes": 9383,
+    "line_count": 72
   },
   {
     "source": "onedrive",
@@ -169302,7 +169391,7 @@
   {
     "source": "onedrive",
     "sermon_id": "quel_est_ton_besoin",
-    "title": "QUEL EST TON BESOIN ?",
+    "title": "Quel est ton besoin ?",
     "subtitle": null,
     "date": "2007-11-18",
     "year": 2007,
@@ -169363,9 +169452,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/quel_est_ton_besoin.md",
-    "size_bytes": 78146,
-    "line_count": 388
+    "local_md": "markdown/mevar/quel-est-ton-besoin-2007.md",
+    "size_bytes": 80228,
+    "line_count": 402
   },
   {
     "source": "onedrive",
@@ -171358,7 +171447,7 @@
   {
     "source": "onedrive",
     "sermon_id": "visioncongo",
-    "title": "VISION DU CONGO DU 16 Avril 2009 (Pointe Noire)",
+    "title": "Vision du Congo du 16 avril 2009 (Pointe-Noire)",
     "subtitle": null,
     "date": "2009-04-16",
     "year": 2009,
@@ -171403,8 +171492,8 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/visioncongo.md",
-    "size_bytes": 5546,
+    "local_md": "markdown/mevar/vision-du-congo-du-16-avril-2009-pointe-noire.md",
+    "size_bytes": 5790,
     "line_count": 45
   },
   {
@@ -171586,7 +171675,7 @@
   {
     "source": "onedrive",
     "sermon_id": "visioncongojuin",
-    "title": "Vision de Juin 2009 Congo",
+    "title": "Vision de juin 2009 Congo",
     "subtitle": null,
     "date": "2009-06",
     "year": null,
@@ -171630,9 +171719,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/visioncongojuin.md",
-    "size_bytes": 9918,
-    "line_count": 51
+    "local_md": "markdown/mevar/vision-de-juin-2009-congo.md",
+    "size_bytes": 10479,
+    "line_count": 53
   },
   {
     "source": "onedrive",
@@ -172103,7 +172192,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Ce traité explique l'importance du signe du Saint-Esprit, la prédication de la foi comme moyen de recevoir l'Esprit, et comment purifier son cœur par la foi dans le sang de Christ pour recevoir le Saint-Esprit. Il exhorte à revenir à la prédication de la croix des apôtres.",
     "persons": [
       "Paul",
@@ -172129,8 +172218,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/depliant.md",
-    "size_bytes": 10576,
-    "line_count": 93
+    "size_bytes": 10592,
+    "line_count": 94
   },
   {
     "source": "onedrive",
@@ -172214,7 +172303,7 @@
     "source": "onedrive",
     "sermon_id": "satandevoile",
     "title": "Satan dévoilé",
-    "subtitle": null,
+    "subtitle": "Prêché le dimanche 30 août 2009 à Koumassi, Abidjan",
     "date": "2009-08-30",
     "year": 2009,
     "location": "Koumassi, Abidjan",
@@ -172272,9 +172361,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/satandevoile.md",
-    "size_bytes": 72076,
-    "line_count": 250
+    "local_md": "markdown/mevar/satan-devoile-2009.md",
+    "size_bytes": 73953,
+    "line_count": 257
   },
   {
     "source": "onedrive",
@@ -172968,7 +173057,7 @@
   {
     "source": "onedrive",
     "sermon_id": "visioncongo2",
-    "title": "VISION DU 10 JANVIER 2010",
+    "title": "Vision du 10 janvier 2010",
     "subtitle": null,
     "date": "2010-01-10",
     "year": 2010,
@@ -173011,9 +173100,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/visioncongo2.md",
-    "size_bytes": 6372,
-    "line_count": 54
+    "local_md": "markdown/mevar/vision-du-10-janvier-2010.md",
+    "size_bytes": 6565,
+    "line_count": 48
   },
   {
     "source": "onedrive",
@@ -174056,8 +174145,8 @@
   {
     "source": "onedrive",
     "sermon_id": "preparation",
-    "title": "La préparation en vue d'une œuvre",
-    "subtitle": null,
+    "title": "La préparation en vue d’une œuvre",
+    "subtitle": "Prêchée le dimanche 5 septembre 2010 à Koudougou, Burkina Faso",
     "date": "2010-09-05",
     "year": 2010,
     "location": "Koudougou, Burkina Faso",
@@ -174117,9 +174206,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/preparation.md",
-    "size_bytes": 52760,
-    "line_count": 213
+    "local_md": "markdown/mevar/la-preparation-en-vue-d-une-oeuvre-2010.md",
+    "size_bytes": 54776,
+    "line_count": 232
   },
   {
     "source": "onedrive",
@@ -176178,7 +176267,7 @@
     "source": "onedrive",
     "sermon_id": "semence",
     "title": "La semence royale",
-    "subtitle": "Exhortation de Novembre 2011",
+    "subtitle": "Prêchée le dimanche 13 novembre 2011 à Koumassi",
     "date": "2011-11-13",
     "year": 2011,
     "location": "Koumassi",
@@ -176230,9 +176319,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/semence.md",
-    "size_bytes": 59184,
-    "line_count": 206
+    "local_md": "markdown/mevar/la-semence-royale-2011.md",
+    "size_bytes": 60344,
+    "line_count": 224
   },
   {
     "source": "onedrive",
@@ -180485,9 +180574,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/prophetie_du_03-11-2014.md",
-    "size_bytes": 3930,
-    "line_count": 42
+    "local_md": "markdown/mevar/parler-en-langue-traduit-du-dimanche-03-novembre-2014.md",
+    "size_bytes": 4030,
+    "line_count": 45
   },
   {
     "source": "onedrive",
@@ -187360,15 +187449,15 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/silence_ de_la_ femme.md",
-    "size_bytes": 34436,
-    "line_count": 168
+    "local_md": "markdown/mevar/le-silence-de-la-femme.md",
+    "size_bytes": 35026,
+    "line_count": 198
   },
   {
     "source": "onedrive",
     "sermon_id": "temoignagenandy",
-    "title": "Témoignage du Frère Nandy Noël",
-    "subtitle": null,
+    "title": "Témoignage du frère Nandy Noël",
+    "subtitle": "Serviteur de Dieu dans l’Assemblée de Guibéroua",
     "date": null,
     "year": null,
     "location": "Guibéroua, Côte d'Ivoire",
@@ -187424,9 +187513,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/temoignagenandy.md",
-    "size_bytes": 15455,
-    "line_count": 128
+    "local_md": "markdown/mevar/temoignage-du-frere-nandy-noel.md",
+    "size_bytes": 15754,
+    "line_count": 145
   },
   {
     "source": "onedrive",
@@ -187650,8 +187739,8 @@
   {
     "source": "onedrive",
     "sermon_id": "tsunami",
-    "title": "ECLAIRCISSEMENT",
-    "subtitle": null,
+    "title": "Voyez un tsunami spirituel !",
+    "subtitle": "Éclaircissement",
     "date": null,
     "year": null,
     "location": null,
@@ -187707,9 +187796,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/tsunami.md",
-    "size_bytes": 78532,
-    "line_count": 292
+    "local_md": "markdown/mevar/voyez-un-tsunami-spirituel.md",
+    "size_bytes": 80580,
+    "line_count": 463
   },
   {
     "source": "onedrive",

@@ -74,6 +74,7 @@ Les corrections que les premiers lots ont le plus demandées, à faire toi-même
 - « l'église » écrite en minuscule par le texte reste en minuscule (l'assemblée locale, le bâtiment) : ne la change pas en « l'Église » ; seule l'accentuation d'une majuscule existante change (« l'Eglise » → « l'Église ») ;
 - le nom d'un livre dans une référence reste celui du prédicateur : « Psaumes 89 » reste « Psaumes 89 », « Mathieu 25 » reste « Mathieu 25 » ;
 - une lecture, même courte, que le prédicateur annonce ou fait suivre de sa référence (« Romains 12:2 ») est un paragraphe à part en citation « > », jamais entre « » dans sa phrase.
+- dans une lecture biblique, garde la casse du texte : « selon ta parole » reste « selon ta parole » ; la majuscule de « Parole » pour la Parole de Dieu vaut pour les phrases du prédicateur, pas pour le texte qu'il lit.
 Dans le doute, garde le texte tel quel.
 
 Lecture manquante : si le prédicateur annonce une lecture avec ses versets (« Nous lisons Genèse 4 à partir du verset 1 », « Jean 3:16 ») et que le texte lu n'est pas dans la transcription, ni juste après l'annonce ni plus loin, écris à cet endroit, sur une ligne à part, [[LECTURE: <livre chapitre:verset-verset>]], par exemple [[LECTURE: Genèse 4:1-16]]. Le script y mettra le texte Segond. Ne l'écris jamais toi-même. S'il paraphrase ou cite de mémoire dans sa phrase, ce n'est pas une lecture : rien à insérer. S'il ne donne qu'un chapitre (« Nous lisons dans Jean 3 »), rien à insérer.
