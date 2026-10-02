@@ -2,7 +2,8 @@
 source: "onedrive"
 source_path: "onedrive/pdf/tsunami.md"
 sermon_id: "tsunami"
-title: "Éclaircissement"
+title: "Voyez un tsunami spirituel !"
+subtitle: "Éclaircissement"
 summary: "L'auteur annonce un tsunami spirituel, un vent impétueux qui va souffler dans l'Église, provoquant séparation et réveil. Il explique les trois étapes du ministère du Fils de l'homme (William Branham, Ewald Frank, et un troisième ministère à minuit) et insiste sur la nécessité de la communion avec Dieu et de l'acceptation de la révélation prophétique."
 tags:
   - "Exhortations"
@@ -105,10 +106,8 @@ bible_refs:
   - "Matthieu 25:14-30"
   - "2 Pierre 1"
   - "Matthieu 24:45-7"
-editorial_pass: "2026-10-01"
+editorial_pass: "2026-10-02"
 ---
-**VOYEZ UN TSUNAMI SPIRITUEL** !
-
 Voyez **un tsunami spirituel**, **un vent impétueux** qui va encore souffler dans **l’Assemblée de Jésus-Christ**. Je voudrais pour cela considérer quelques versets avec vous dans les Saintes Écritures en vue de vous avertir au sujet de ce qui va arriver encore de manière particulière dans le Royaume de Dieu :
 
 > Notre Dieu viendra, et il ne **se taira point** ; un **feu dévorera** devant lui, et autour de lui tourbillonnera **la tempête** (Ps 50:3)

@@ -172192,7 +172192,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Ce traité explique l'importance du signe du Saint-Esprit, la prédication de la foi comme moyen de recevoir l'Esprit, et comment purifier son cœur par la foi dans le sang de Christ pour recevoir le Saint-Esprit. Il exhorte à revenir à la prédication de la croix des apôtres.",
     "persons": [
       "Paul",
@@ -172218,8 +172218,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/depliant.md",
-    "size_bytes": 10576,
-    "line_count": 93
+    "size_bytes": 10592,
+    "line_count": 94
   },
   {
     "source": "onedrive",
@@ -187739,8 +187739,8 @@
   {
     "source": "onedrive",
     "sermon_id": "tsunami",
-    "title": "Éclaircissement",
-    "subtitle": null,
+    "title": "Voyez un tsunami spirituel !",
+    "subtitle": "Éclaircissement",
     "date": null,
     "year": null,
     "location": null,
@@ -187796,9 +187796,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/mevar/eclaircissement.md",
-    "size_bytes": 80570,
-    "line_count": 464
+    "local_md": "markdown/mevar/voyez-un-tsunami-spirituel.md",
+    "size_bytes": 80577,
+    "line_count": 463
   },
   {
     "source": "onedrive",
