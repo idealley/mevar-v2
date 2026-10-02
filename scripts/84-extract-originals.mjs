@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Goal 10: the text of a OneDrive work as its original has it, before 65's
+// Goal 10: the text of a OneDrive or mevar.org PDF work as its original has it, before 65's
 // old canonical rewrites and the DeepSeek cleanup, into
 // .parse-cache/<path under markdown/>. The editorial pass starts from there,
 // and the check compares against it.
@@ -15,7 +15,8 @@
 //
 // Usage: node scripts/84-extract-originals.mjs <batch>   (a key of
 // scripts/mevar-editorial-batches.json, e.g. 01). Needs pdftohtml
-// (brew install poppler) and the OneDrive folder at onedrive/ (gitignored).
+// (brew install poppler) and the OneDrive folder at onedrive/ (gitignored);
+// a mevar.org PDF is under files/mevar/.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -63,11 +64,18 @@ function text(pdf) {
 for (const md of batch) {
   const out = path.join(root, ".parse-cache", md.slice("markdown/".length));
   if (fs.existsSync(out)) continue;
+  fs.mkdirSync(path.dirname(out), { recursive: true });
+  // a mevar.org PDF (markdown/mevar-pdfs/) is the site's own copy, its local_pdf
+  if (md.startsWith("markdown/mevar-pdfs/")) {
+    const pdf = fs.readFileSync(path.join(root, md), "utf8").match(/^local_pdf: "\/(.+)"$/m)[1];
+    fs.writeFileSync(out, text(path.join(root, pdf)));
+    console.log(`${md} ← ${pdf}`);
+    continue;
+  }
   const stem = "onedrive/" + md.slice("markdown/onedrive/".length, -".md".length);
   const hits = inventory.filter((e) => [e.canonical_path, ...e.aliases].some((p) => p.replace(/\.[^.]+$/, "") === stem));
   const pick = hits.find((e) => e.ext === ".pdf");
   if (!pick) throw new Error(`${md}: no PDF original in manifests/onedrive-inventory.json`);
-  fs.mkdirSync(path.dirname(out), { recursive: true });
   fs.writeFileSync(out, text(path.join(root, pick.canonical_path)));
   console.log(`${md} ← ${pick.canonical_path}`);
 }

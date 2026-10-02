@@ -41,7 +41,7 @@
 // its title where only typography changed or where the editor gives one the
 // PDF's opening states, likewise its subtitle, the editor's date and place
 // within the limits below, its summary, tags, persons, places and themes
-// (also in manifests/onedrive.json, which 50 reads),
+// (also in manifests/onedrive.json or mevar-pdfs-corpus.json, which 50 reads),
 // and editorial_pass: "<date>". A PDF that prints two works
 // (a second exhortation after the first) is checked as one and written as
 // two: the editor's `split` gives the words the second begins with and its
@@ -221,12 +221,16 @@ const personalOut = (text) => {
 // Words a transcript's header has besides the frontmatter's
 const HEADER_WORDS = "prêché prêchée prêchés prédication exhortation spéciale mois fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur past lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
 
-const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive.json"), "utf8"));
+// a OneDrive text's entry is in onedrive.json, a mevar.org PDF's in mevar-pdfs-corpus.json
+const MANIFESTS = { onedrive: "manifests/onedrive.json", "mevar-pdfs": "manifests/mevar-pdfs-corpus.json" };
+const manifests = Object.fromEntries(Object.entries(MANIFESTS).map(([k, f]) => [k, JSON.parse(fs.readFileSync(path.join(root, f), "utf8"))]));
 const db = await connect();
 const today = new Date().toISOString().slice(0, 10);
 const rows = [];
 for (const md of batch) {
   const rel = md.slice("markdown/".length);
+  const source = rel.split("/")[0];
+  const manifest = manifests[source];
   const original = fs.readFileSync(path.join(root, ".parse-cache", rel), "utf8").normalize("NFC");
   const pass = JSON.parse(fs.readFileSync(path.join(root, ".pass-cache", rel.replace(/\.md$/, ".json")), "utf8"));
   const r = { md, counts: { typography: 0, spacing: 0, pageNumbers: 0, print: 0, glyph: 0, verseNumbers: 0 }, nonWord: [], word: [], unexplained: [], readings: [], lists: {}, pass };
@@ -595,7 +599,7 @@ for (const md of batch) {
       r.location === field("location") ? {} : { location: null },
       r.summary === field("summary") ? {} : { summary: r.summary }, r.lists);
     if (r.split) {
-      const f = { source: "onedrive", ...(r.split !== splitFrom && { source_path: splitFrom.slice("markdown/".length) }), ...edits.split.frontmatter, published_with: work(here) };
+      const f = { source, ...(r.split !== splitFrom && { source_path: splitFrom.slice("markdown/".length) }), ...edits.split.frontmatter, published_with: work(here) };
       const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? yamlList(k, v) : `${k}: ${JSON.stringify(v)}`);
       fs.writeFileSync(path.join(root, r.split), `---\n${yaml.join("\n")}\neditorial_pass: "${today}"\n---\n${parts[1]}\n`);
       // replaced, not added, when the original is promoted again (reset to
@@ -609,7 +613,7 @@ for (const md of batch) {
   console.log(`${md}: ${r.promoted ? "promoted" : "NOT promoted"} | typography ${r.counts.typography}, spacing ${r.counts.spacing}, page numbers ${r.counts.pageNumbers}, print ${r.counts.print}, personal ${r.personal}, glyphs ${r.counts.glyph}, non-word→word ${r.nonWord.length}, word→word ${r.word.length}, readings ${r.readings.length}, unexplained ${r.unexplained.length}`);
 }
 await db.close();
-fs.writeFileSync(path.join(root, "manifests/onedrive.json"), JSON.stringify(manifest, null, 2));
+for (const [k, f] of Object.entries(MANIFESTS)) fs.writeFileSync(path.join(root, f), JSON.stringify(manifests[k], null, 2));
 
 // ─── Report ──────────────────────────────────────────────────────────────────
 const cell = (s) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
