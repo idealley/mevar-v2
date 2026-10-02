@@ -331,7 +331,8 @@ for (const md of batch) {
   // Printed page furniture the pass removes, first: the old site's navigation
   // bar or its "Haut de page" alone, the browser's print header and footer
   // ("http://mevar.org/….html 1/4", "13/03/2010  MEVAR", or its address, its
-  // "1/4", its date and "MEVAR" on lines of their own), a digit between two letters where the same
+  // "1/4", its date and "MEVAR" on lines of their own), a book's running
+  // header, a digit between two letters where the same
   // digit does that five times or more (a glyph that stood for "…":
   // "serviteur4ils"), and a number of one to three digits alone on its line
   // that is 1 or 2 above the last one (a page number; a page may have none).
@@ -349,6 +350,10 @@ for (const md of batch) {
     // comparison (counted where the text loses them, r.personal)
     [new RegExp(PERSONAL, "gu"), null],
   ];
+  // a book's running header: its title alone on a line, at the top of five
+  // pages or more (« **LE ROYAUME DE DIEU** », le_royaume_de_dieu_kadjani)
+  const runningHeader = new RegExp(`^[ \\t*]*${oldTitle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/ +/g, "[ \\t]+")}[ \\t*]*$`, "gimu");
+  if ((compared.match(runningHeader) ?? []).length >= 5) furniture.push([runningHeader, "print"]);
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
   for (const [re, kind] of furniture)
     compared = compared.replace(re, (m) => { if (kind) r.counts[kind]++; return " ".repeat(m.length); });
