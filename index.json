@@ -83466,8 +83466,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/la_parole_de_dieu_demeure_eternellement.md",
-    "size_bytes": 217238,
-    "line_count": 2260
+    "size_bytes": 217213,
+    "line_count": 2259
   },
   {
     "source": "cmpp",
@@ -87208,8 +87208,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/retour.md",
-    "size_bytes": 111215,
-    "line_count": 1198
+    "size_bytes": 111193,
+    "line_count": 1197
   },
   {
     "source": "cmpp",
@@ -87745,8 +87745,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/lc41.md",
-    "size_bytes": 78327,
-    "line_count": 609
+    "size_bytes": 78310,
+    "line_count": 608
   },
   {
     "source": "cmpp",
@@ -88668,8 +88668,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/tragedie.md",
-    "size_bytes": 192645,
-    "line_count": 1718
+    "size_bytes": 192662,
+    "line_count": 1719
   },
   {
     "source": "cmpp",
@@ -91096,8 +91096,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/cmpp/undated/lc56.md",
-    "size_bytes": 120630,
-    "line_count": 1651
+    "size_bytes": 120647,
+    "line_count": 1652
   },
   {
     "source": "cmpp",
@@ -117628,7 +117628,7 @@
     "llm_cleaned": true,
     "original": "branham/1959/59-0404",
     "local_md": "markdown/le-scribe/1959/590404oeuvre.md",
-    "size_bytes": 21409,
+    "size_bytes": 21407,
     "line_count": 151
   },
   {
@@ -124349,8 +124349,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-0610",
     "local_md": "markdown/le-scribe/1960/600610Roi.md",
-    "size_bytes": 49834,
-    "line_count": 256
+    "size_bytes": 49864,
+    "line_count": 258
   },
   {
     "source": "le-scribe",
@@ -127614,7 +127614,7 @@
     "llm_cleaned": true,
     "original": "branham/1961/61-0108",
     "local_md": "markdown/le-scribe/1961/610108Trone.md",
-    "size_bytes": 50067,
+    "size_bytes": 50064,
     "line_count": 293
   },
   {
@@ -149147,7 +149147,7 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/local/Volume-2-Ver2.0.md",
-    "size_bytes": 916005,
+    "size_bytes": 915987,
     "line_count": 15760
   },
   {
@@ -150311,8 +150311,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/david-et-goliath.md",
-    "size_bytes": 28717,
-    "line_count": 189
+    "size_bytes": 28732,
+    "line_count": 190
   },
   {
     "source": "mevar",
@@ -158519,8 +158519,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/les-jugements-de-dieu.md",
-    "size_bytes": 62407,
-    "line_count": 201
+    "size_bytes": 62441,
+    "line_count": 203
   },
   {
     "source": "mevar",
@@ -163603,8 +163603,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/jugements_de_dieu_22_aout_2020.md",
-    "size_bytes": 62421,
-    "line_count": 371
+    "size_bytes": 62455,
+    "line_count": 373
   },
   {
     "source": "mevar-pdfs",
@@ -164487,8 +164487,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/David_et_Goliath_le_cri_de_minuit.md",
-    "size_bytes": 29018,
-    "line_count": 165
+    "size_bytes": 29033,
+    "line_count": 166
   },
   {
     "source": "mevar-pdfs",
@@ -187236,8 +187236,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/nehemie_patriote.md",
-    "size_bytes": 210472,
-    "line_count": 1073
+    "size_bytes": 210488,
+    "line_count": 1074
   },
   {
     "source": "onedrive",

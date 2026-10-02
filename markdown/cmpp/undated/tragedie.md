@@ -148,6 +148,7 @@ bible_refs:
   - "Malachie 3:1"
   - "Ésaïe 40:3"
   - "Amos 3:7"
+  - "Malachie 3"
   - "Matthieu 11:9-10"
   - "Marc 9:12"
   - "Matthieu 17:11"

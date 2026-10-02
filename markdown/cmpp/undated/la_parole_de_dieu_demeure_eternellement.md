@@ -93,7 +93,6 @@ bible_refs:
   - "Jean 8:47"
   - "Jean 1:6,7"
   - "Deutéronome 13:2-4"
-  - "Deutéronome 18:21"
   - "Matthieu 17:1-8"
   - "Actes 1:11"
   - "Matthieu 24:30"

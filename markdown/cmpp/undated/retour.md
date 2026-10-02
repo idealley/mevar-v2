@@ -286,7 +286,6 @@ bible_refs:
   - "Apocalypse 20:4-6"
   - "Psaumes 2:8"
   - "Apocalypse 21:2"
-  - "Apocalypse 9:10"
   - "Ésaïe 4:5"
   - "Apocalypse 21:16"
   - "Apocalypse 15:2,3"
