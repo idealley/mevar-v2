@@ -65,7 +65,8 @@ const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().f
   .sort((a, b) => b.length - a.length)
   .map(escRe)
   .join("|");
-const NOT_NUMBERED_BOOK = `(?!(?<=(?<!\\d)[1-3])\\s*(?:${NUMBERED})(?!\\p{L}))`;
+// a stem is a word, not an elision: « Jean 1:1 c'est » is verse 1 (« 1C », « 1S »)
+const NOT_NUMBERED_BOOK = `(?!(?<=(?<!\\d)[1-3])\\s*(?:${NUMBERED})(?![\\p{L}'’]))`;
 
 // Allow optional trailing period and optional spaces before chapter number.
 // Chapter:verse separator can be `:` or `,` (with optional surrounding space),
@@ -273,8 +274,12 @@ export function* citations(md) {
     // 10 ». (« 6,8 et 9 », no space, stays CMPP's chapter,verse.)
     const sep = text.slice(bookVariant.length).match(/^\.?\s*\d{1,3}(\s*[:,]\s*|\.)/)?.[1] ?? "";
     if (verseStart && !verseEnd && /^,\s+$/.test(sep) && extra && /\set\s/.test(extra)) {
-      const chapters = [chap, verseStart, ...extra.split(/\s*[,;]\s*|\s+et\s+/)].map((c) => c.trim()).filter((c) => /^\d{1,3}$/.test(c));
-      if (chapters.every((c) => isPossible(canonical, c, []))) {
+      const chapters = [chap, verseStart, ...extra.split(/\s*[,;]\s*|\s+et\s+/)].map((c) => c.trim()).filter(Boolean);
+      // plain numbers that follow one another from the first, each a chapter:
+      // « Jean 3, 16 et 17 » and « Apocalypse 2, 3 et 6-8 » are verses
+      const plain = chapters.every((c) => /^\d{1,3}$/.test(c));
+      const ascending = chapters.every((c, n) => !n || Number(c) > Number(chapters[n - 1]));
+      if (plain && ascending && Number(verseStart) === Number(chap) + 1 && chapters.every((c) => isPossible(canonical, c, []))) {
         // the first link keeps its book, « Ézéchiel 26 »; the others are the number
         let from = bookVariant.length;
         for (const [n, c] of chapters.entries()) {
@@ -331,7 +336,7 @@ export function* citations(md) {
 // After a citation: "; 4.30", " et 8.14", ", 12:34" — a chapter and its verse
 // of the same book (a dot only between two digits, as for the book's own),
 // on the same line: never a numbered heading under it (« 2.1 Chapitre »)
-const CONTINUE_RE = /^[^\S\n]*(?:[;,]|[^\S\n]+et)[^\S\n]*(\d{1,3})(?:\s*:\s*|\.(?=[1-9]))(\d{1,3})(?:\s*[\-\u2013\u2014]\s*(\d{1,3}))?(?![\d]|[.:]\d)/u;
+const CONTINUE_RE = /^[^\S\n]*(?:[;,]|[^\S\n]+et)[^\S\n]*(?:\n[^\S\n]*)?(\d{1,3})(?:\s*:\s*|\.(?=[1-9]))(\d{1,3})(?:\s*[\-\u2013\u2014]\s*(\d{1,3}))?(?![\d]|[.:]\d)/u;
 
 // ─── Driver ──────────────────────────────────────────────────────────────────
 // Only when run, not when the site imports citations().
