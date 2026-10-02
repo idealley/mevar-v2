@@ -11969,8 +11969,14 @@
     "subtitle": "Serviteur de Dieu dans l’Assemblée de Guibéroua"
   },
   "markdown/onedrive/pdf/tsunami.md": {
-    "title": "Éclaircissement",
+    "title": "Voyez un tsunami spirituel !",
     "fixes": [
+      {
+        "find": "**VOYEZ UN TSUNAMI SPIRITUEL** !\n\n",
+        "replace": "",
+        "kind": "markup",
+        "why": "the header, whole: « VOYEZ UN TSUNAMI SPIRITUEL ! » is the title and « ÉCLAIRCISSEMENT » the subtitle (Samuel, 2026-10-02: « as you suggest but with correct casing »)"
+      },
       {
         "find": "Seigneur et il n’en est pas autrement",
         "replace": "Seigneur et il n’en est pas autrement",
@@ -12055,7 +12061,8 @@
         "kind": "word",
         "why": "the transcriber doubled the « n’ » (« n’en n’a »), as in « il n’en n’est pas »"
       }
-    ]
+    ],
+    "subtitle": "Éclaircissement"
   },
   "markdown/onedrive/pdf/visioncongo.md": {
     "title": "Vision du Congo du 16 avril 2009 (Pointe-Noire)",
