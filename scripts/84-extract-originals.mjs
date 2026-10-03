@@ -21,6 +21,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
+import { located } from "./88-mevar-paths.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const inventory = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive-inventory.json"), "utf8"));
@@ -66,8 +67,9 @@ for (const md of batch) {
   if (fs.existsSync(out)) continue;
   fs.mkdirSync(path.dirname(out), { recursive: true });
   // a mevar.org PDF (markdown/mevar-pdfs/) is the site's own copy, its local_pdf
+  // (read where 88 has moved the text)
   if (md.startsWith("markdown/mevar-pdfs/")) {
-    const pdf = fs.readFileSync(path.join(root, md), "utf8").match(/^local_pdf: "\/(.+)"$/m)[1];
+    const pdf = fs.readFileSync(path.join(root, located(md)), "utf8").match(/^local_pdf: "\/(.+)"$/m)[1];
     fs.writeFileSync(out, text(path.join(root, pdf)));
     console.log(`${md} ← ${pdf}`);
     continue;
