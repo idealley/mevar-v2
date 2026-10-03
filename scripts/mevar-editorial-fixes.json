@@ -15445,12 +15445,6 @@
         "why": "the Word of God, capital as the book does elsewhere"
       },
       {
-        "find": "l’Exercice des Ministères dans les Assemblées locales",
-        "replace": "L’Exercice des Ministères dans les Assemblées locales",
-        "kind": "typo",
-        "why": "capital at the start of the part title"
-      },
-      {
         "find": "apparaissent également l’œuvre",
         "replace": "apparaît également l’œuvre",
         "kind": "typo",
@@ -15779,6 +15773,48 @@
         "replace": "APPENDICE 2 : TÉMOIGNAGE",
         "kind": "markup",
         "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Deuxième partie :\n\nLes cinq Ministères de la Parole",
+        "replace": "Deuxième partie : Les cinq Ministères de la Parole",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle)"
+      },
+      {
+        "find": "Troisième partie\n\nl’Exercice des Ministères dans les Assemblées locales",
+        "replace": "Troisième partie : l’Exercice des Ministères dans les Assemblées locales",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle); it takes over the capital fix on « l’Exercice », a colon now before it"
+      },
+      {
+        "find": "Cinquième Partie :\n\nLes faux Christ et les faux prophètes",
+        "replace": "Cinquième Partie : Les faux Christ et les faux prophètes",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle)"
+      },
+      {
+        "find": "L’EXERCICE DES MINISTÈRES  \nDANS LES ASSEMBLÉES LOCALES",
+        "replace": "L’EXERCICE DES MINISTÈRES DANS LES ASSEMBLÉES LOCALES",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle)"
+      },
+      {
+        "find": "MON ENSEIGNEMENT N’EST PAS DE MOI,  \nMAIS DE CELUI QUI M’A ENVOYÉ\n\nJEAN 7.16.",
+        "replace": "MON ENSEIGNEMENT N’EST PAS DE MOI, MAIS DE CELUI QUI M’A ENVOYÉ (JEAN 7.16)",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle), with its reference, as the table of contents gives it"
+      },
+      {
+        "find": "EN RAPPORT AVEC L’ÉGLISE. (MATTHIEU 24)",
+        "replace": "EN RAPPORT AVEC L’ÉGLISE (MATTHIEU 24)",
+        "kind": "markup",
+        "why": "a stray full stop before the reference in a title (the table of contents has none)"
+      },
+      {
+        "find": "ces soi-disant hommes de Dieu demandent",
+        "replace": "ses soi-disant hommes de Dieu demandent",
+        "kind": "revert",
+        "why": "the PDF has « ses », which can refer to the spirit of python discussed around it (Codex sol); not a clear slip"
       }
     ],
     "date": "2004-09-15",
@@ -16762,6 +16798,48 @@
         "replace": "ssance à la parole de Dieu. Cela est p",
         "kind": "revert",
         "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "**CHAPITRE I** :\n\n**L’ORIGINE DU ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE I** : **L’ORIGINE DU ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE II** :\n\n**L’œuvre de restauration du Royaume**",
+        "replace": "**CHAPITRE II** : **L’œuvre de restauration du Royaume**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE III**\n\n**LES FILS DU ROYAUME**",
+        "replace": "**CHAPITRE III** : **LES FILS DU ROYAUME**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE IV** :\n\n**LA LOI QUI GOUVERNE LE ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE IV** : **LA LOI QUI GOUVERNE LE ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE V**\n\n**LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE V** : **LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE VI**\n\n**LA VIE DANS LE ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE VI** : **LA VIE DANS LE ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE VII**\n\n**LE ROI DU ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE VII** : **LE ROI DU ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
       }
     ]
   }
