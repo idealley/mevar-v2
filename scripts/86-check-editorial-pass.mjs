@@ -351,13 +351,16 @@ for (const md of batch) {
     [new RegExp(PERSONAL, "gu"), null],
   ];
   // a book's running header: its title alone on a line at the top of a page
-  // (after a page break, three blank lines or more), on five pages or more
+  // (after a page break, three blank lines or more), printed in bold or in
+  // capitals, on five pages or more
   // (« **LE ROYAUME DE DIEU** », le_royaume_de_dieu_kadjani); compared without
   // case, accents or the apostrophe's form, so a title the editor recases
   // still matches on the next run
-  const folded = (t) => t.replace(/[*_]/g, "").normalize("NFD").replace(/\p{M}/gu, "").replace(/[’']/g, "'").replace(/\s+/g, " ").trim().toLowerCase();
-  const headerAt = [...compared.matchAll(/(?<=(?:^|\n)[ \t]*\n[ \t]*\n[ \t]*\n)[^\n]+/g)].filter((m) => folded(m[0]) === folded(oldTitle));
-  if (headerAt.length >= 5) for (const m of headerAt.reverse()) {
+  const folded = (t) => t.replace(/[*_]/g, "").normalize("NFD").replace(/\p{M}/gu, "").replace(/[’']/g, "'").replace(/œ/gi, "oe").replace(/\s+/g, " ").trim().toLowerCase();
+  // printed as a header is: wholly bold, or in capitals
+  const printed = (t) => /^[ \t]*\*\*[^*]+\*\*[ \t]*$/.test(t) || !/\p{Ll}/u.test(t);
+  const headerAt = [...compared.matchAll(/(?<=(?:^|\n)[ \t]*\n[ \t]*\n[ \t]*\n)[^\n]+/g)].filter((m) => printed(m[0]) && folded(m[0]) === folded(oldTitle));
+  if (headerAt.length >= 5) for (const m of headerAt) {
     compared = compared.slice(0, m.index) + " ".repeat(m[0].length) + compared.slice(m.index + m[0].length);
     r.counts.print++;
   }
