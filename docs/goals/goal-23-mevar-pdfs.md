@@ -23,8 +23,10 @@ reader who wants to print or keep a sermon cannot.
      work, the PDF it was printed in), copied to `files/onedrive/`, and
      `local_pdf` set; a mevar.org PDF already has its `local_pdf`;
    - the edited PDF: built from the text and its frontmatter (title,
-     subtitle, preacher, date) to `files/mevar-edited/<slug>.pdf`, and
-     `edited_pdf` set.
+     subtitle, and the line the page shows: preacher, date, place), with
+     its page numbers at each page's foot, to
+     `files/mevar-edited/<slug>.pdf`, and `edited_pdf` set. A text holding
+     what the PDF does not render (HTML, code) is refused, not garbled.
    Deterministic: a second run is a no-op (fixed creation date, the
    `editorial_pass`); it deletes only edited PDFs it made that no text
    names any more.
@@ -48,3 +50,9 @@ reader who wants to print or keep a sermon cannot.
 
 - The repository grows by the PDFs (about 28 MB of originals); Samuel
   sees the size in the PR.
+
+## Follow-up
+
+- 90 reads frontmatter with the same small helpers as 86 and 88 (`field`,
+  `frontmatter`, `slug`); naming them once in a shared module touches
+  those two scripts, outside this goal. Found by goal 23's review.

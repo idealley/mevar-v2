@@ -50,15 +50,13 @@ for (const dir of ["markdown/mevar", "markdown/onedrive", "markdown/mevar-pdfs"]
 const byWork = (work) => texts.get(`markdown/${work}.md`);
 
 // The OneDrive PDF a text was edited from
-function originalOf(t, seen = new Set()) {
-  const sp = field(t.fm, "source_path") ?? t.md.slice("markdown/".length);
-  const stem = sp.replace(/\.md$/, "");
-  const hit = inventory.find((e) => e.ext === ".pdf" && [e.canonical_path, ...e.aliases].some((p) => p.replace(/\.[^.]+$/, "") === stem));
-  if (hit) return hit.canonical_path;
-  // a work 86 split off: the PDF it was printed in
-  const other = field(t.fm, "published_with");
-  if (other && !seen.has(other) && byWork(other)) return originalOf(byWork(other), seen.add(t.md));
-  return null;
+const stemOf = (t) => field(t.fm, "source_path").replace(/\.md$/, "");
+function originalOf(t) {
+  // a work 86 split off (its path is its first work's, a dash, its slug):
+  // the PDF it was printed in, its first work's
+  const first = byWork(field(t.fm, "published_with") ?? "");
+  const stem = first && stemOf(t).startsWith(`${stemOf(first)}-`) ? stemOf(first) : stemOf(t);
+  return inventory.find((e) => e.ext === ".pdf" && [e.canonical_path, ...e.aliases].some((p) => p.replace(/\.[^.]+$/, "") === stem))?.canonical_path ?? null;
 }
 
 // The edited PDF: the frontmatter's header, then the body
@@ -70,8 +68,9 @@ function inline(doc, nodes, style, opts) {
       else if (n.type === "strong") walk(n.children, { ...s, bold: true });
       else if (n.type === "emphasis") walk(n.children, { ...s, italic: true });
       else if (n.type === "break") parts.push(["\n", s]);
-      else if (n.type === "inlineCode") parts.push([n.value, s]);
-      else if (n.children) walk(n.children, s);
+      else if (n.type === "link") walk(n.children, s);
+      // anything else (HTML, code) would lose or garble words: refused
+      else throw new Error(`a ${n.type} in the text, which the PDF does not render: ${JSON.stringify(n.value ?? "").slice(0, 60)}`);
     }
   })(nodes, style);
   if (!parts.length) return;
@@ -85,10 +84,12 @@ function inline(doc, nodes, style, opts) {
     const lead = runs[i][0].match(/^(?:[\u202f\u00a0 ]*[.,;:!?…»)\]])+/u)?.[0];
     if (lead) { runs[i - 1][0] += lead; runs[i][0] = runs[i][0].slice(lead.length); }
   }
-  const kept = runs.filter(([t]) => t);
-  kept.forEach(([t, s], i) => {
+  // a line break (« Fr. M’BRA Parfait  ⏎Missionnaire ») ends a line
+  const lines = [[]];
+  for (const r of runs) if (r[0] === "\n") lines.push([]); else if (r[0]) lines.at(-1).push(r);
+  for (const line of lines.filter((l) => l.length)) line.forEach(([t, s], i) => {
     doc.font(s.bold ? (s.italic ? "bi" : "b") : s.italic ? "i" : "r");
-    doc.text(t, { ...opts, continued: i < kept.length - 1 });
+    doc.text(t, { ...opts, continued: i < line.length - 1 });
   });
 }
 
@@ -119,12 +120,11 @@ function edited(t) {
     const tree = fromMarkdown(body);
     const block = (n, indent = 0, quote = false) => {
       // left-aligned, as on the site: justified text gapes where bold and roman alternate
-      const opts = { width: width - indent, indent: 0, align: "left", lineGap: 2 };
+      const opts = { width: width - indent, align: "left", lineGap: 2 };
       const x = 70 + indent;
       if (n.type === "heading") {
-        const size = { 1: 17, 2: 16, 3: 14, 4: 12.5 }[n.depth] ?? 12;
-        doc.moveDown(0.6).fontSize(size);
-        doc.x = x; inline(doc, n.children, { bold: true }, { ...opts, align: "left" });
+        doc.moveDown(0.6).fontSize({ 2: 16, 3: 14, 4: 12.5 }[n.depth]);
+        doc.x = x; inline(doc, n.children, { bold: true }, opts);
         doc.moveDown(0.4).fontSize(11.5);
       } else if (n.type === "paragraph") {
         doc.x = x; inline(doc, n.children, { italic: quote }, opts);
@@ -144,9 +144,7 @@ function edited(t) {
         doc.moveDown(0.3);
       } else if (n.type === "thematicBreak") {
         doc.moveDown(0.5).text("* * *", 70, undefined, { width, align: "center" }).moveDown(0.5);
-      } else if (n.type === "html" || n.type === "code") {
-        doc.x = x; doc.font("r").text(n.value, opts); doc.moveDown(0.6);
-      }
+      } else throw new Error(`a ${n.type} in the text, which the PDF does not render`);
     };
     for (const n of tree.children) block(n);
     // the page number at each page's foot
@@ -183,7 +181,9 @@ for (const t of texts.values()) {
   // the original
   if (source === "onedrive") {
     const original = originalOf(t);
-    if (!original) { missing.push(t.md); continue; }
+    // none found: what the text names stays, and is listed
+    if (!original) missing.push(t.md);
+    else {
     const dest = `${ORIGINALS}/${slug(path.basename(original, ".pdf"))}.pdf`;
     if (from.has(dest) && from.get(dest) !== original) throw new Error(`${dest}: both ${from.get(dest)} and ${original}`);
     from.set(dest, original);
@@ -194,6 +194,7 @@ for (const t of texts.values()) {
       if (!dry) { fs.mkdirSync(path.join(root, ORIGINALS), { recursive: true }); fs.writeFileSync(path.join(root, dest), buf); }
     }
     text = setField(text, "local_pdf", `/${dest}`);
+    }
   }
   // the edited text
   const dest = `${EDITED}/${path.basename(t.md, ".md")}.pdf`;
@@ -206,16 +207,16 @@ for (const t of texts.values()) {
   text = setField(text, "edited_pdf", `/${dest}`);
   if (text !== t.text) { frontmatters++; if (!dry) fs.writeFileSync(path.join(root, t.md), text); }
 }
-// what it made that no text names any more
+// an edited PDF it made that no text names any more (a text renamed by 88);
+// never an original, never a file another text names
+const anyNames = new Set([...texts.values()].flatMap((t) => [...t.fm.matchAll(/^(?:local_pdf|edited_pdf): "\/(.+)"$/gm)].map((m) => m[1])));
 let removed = 0;
-for (const dir of [ORIGINALS, EDITED]) {
-  if (!fs.existsSync(path.join(root, dir))) continue;
-  for (const f of fs.readdirSync(path.join(root, dir))) {
-    const rel = `${dir}/${f}`;
-    if (named.has(rel)) continue;
+if (fs.existsSync(path.join(root, EDITED)))
+  for (const f of fs.readdirSync(path.join(root, EDITED))) {
+    const rel = `${EDITED}/${f}`;
+    if (!f.endsWith(".pdf") || named.has(rel) || anyNames.has(rel)) continue;
     removed++;
     if (!dry) fs.rmSync(path.join(root, rel));
   }
-}
 console.log(`${named.size} PDFs named; ${copied} originals copied, ${written} edited PDFs written, ${frontmatters} frontmatters, ${removed} removed${dry ? " (dry)" : ""}`);
 if (missing.length) console.log(`no original found for: ${missing.join(", ")}`);
