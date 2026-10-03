@@ -7178,10 +7178,10 @@
     "title": null,
     "fixes": [
       {
-        "find": "PREMIÈRE ÉTAPE :  \nl’Affaire se trouve entre le fautif",
-        "replace": "PREMIÈRE ÉTAPE :\n\nl’Affaire se trouve entre le fautif",
-        "kind": "markup",
-        "why": "same layout as the other table-of-contents entries (separate paragraph, no hard break)"
+        "find": "PREMIÈRE ÉTAPE :  \nl’Affaire se trouve entre le fautif et celui qui l’a découvert dans la faute — 21",
+        "replace": "PREMIÈRE ÉTAPE :\n\nl’Affaire se trouve entre le fautif et celui qui l’a découvert dans la faute (p. 21)",
+        "kind": "word",
+        "why": "same layout as the other table-of-contents entries (separate paragraph, no hard break); and the table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "dans la Bible depuis la genèse jusqu’à l’Apocalypse",
@@ -7212,6 +7212,78 @@
         "replace": "Hyménée et Alexandre furent livrés",
         "kind": "typo",
         "why": "spelling of the name Hyménée"
+      },
+      {
+        "find": "QU’EST-CE QUE C’EST QUE LE JUGEMENT — 7",
+        "replace": "QU’EST-CE QUE C’EST QUE LE JUGEMENT (p. 7)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "QUI JUGE ? — 13",
+        "replace": "QUI JUGE ? (p. 13)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "LES PASTEURS DES ASSEMBLÉES ET LES ANCIENS SONT DES JUGES — 15",
+        "replace": "LES PASTEURS DES ASSEMBLÉES ET LES ANCIENS SONT DES JUGES (p. 15)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "NE POINT JUGER SELON L’APPARENCE — 18",
+        "replace": "NE POINT JUGER SELON L’APPARENCE (p. 18)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La procédure de Matthieu 18 — 20",
+        "replace": "La procédure de Matthieu 18 (p. 20)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’Affaire se trouve entre le fautif – celui qui l’a découvert dans le péché et deux témoins — 22",
+        "replace": "L’Affaire se trouve entre le fautif – celui qui l’a découvert dans le péché et deux témoins (p. 22)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’affaire se trouve devant l’église — 23",
+        "replace": "L’affaire se trouve devant l’église (p. 23)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les sanctions — 26",
+        "replace": "Les sanctions (p. 26)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Considérer le fautif comme un païen et un publicain — 26",
+        "replace": "Considérer le fautif comme un païen et un publicain (p. 26)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La livraison à Satan — 28",
+        "replace": "La livraison à Satan (p. 28)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "REPENTANCE ET VOIE DE RETOUR — 36",
+        "replace": "REPENTANCE ET VOIE DE RETOUR (p. 36)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "CONCLUSION — 48",
+        "replace": "CONCLUSION (p. 48)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       }
     ]
   },
@@ -12132,6 +12204,2053 @@
         "kind": "typo",
         "why": "compound adverbs take a hyphen"
       }
+    ]
+  },
+  "markdown/onedrive/pdf/reveilp.md": {
+    "title": "Le réveil promis",
+    "fixes": [
+      {
+        "find": "INTRODUCTION .............................................................................................. 7",
+        "replace": "INTRODUCTION (p. 7)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "1. DANS LES ÉCRITURES .............................................................................. 13",
+        "replace": "1. DANS LES ÉCRITURES (p. 13)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "2. DANS L’HISTOIRE ..................................................................................... 19",
+        "replace": "2. DANS L’HISTOIRE (p. 19)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE ........... 27",
+        "replace": "3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE (p. 27)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU ------------------------------------------------------------------------- 35",
+        "replace": "4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU (p. 35)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La malédiction empêche la pluie pour nous tous ............................... 38  \n",
+        "replace": "La malédiction empêche la pluie pour nous tous (p. 38)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Aie donc du zèle, et repens-toi ! .......................................................... 41  \n",
+        "replace": "Aie donc du zèle, et repens-toi ! (p. 41)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Un miracle refusé ................................................................................. 42",
+        "replace": "Un miracle refusé (p. 42)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "5. L’HISTOIRE SE RÉPÈTE ........................................................................... 45",
+        "replace": "5. L’HISTOIRE SE RÉPÈTE (p. 45)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "À Jérusalem .......................................................................................... 45  \n",
+        "replace": "À Jérusalem (p. 45)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "En Judée ............................................................................................... 46  \n",
+        "replace": "En Judée (p. 46)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "En Samarie ............................................................................................ 47  \n",
+        "replace": "En Samarie (p. 47)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Visitation particulière de l’Église à minuit .......................................... 47  \n",
+        "replace": "Visitation particulière de l’Église à minuit (p. 47)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les conséquences du réveil .................................................................. 50",
+        "replace": "Les conséquences du réveil (p. 50)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan ..... 50  \n",
+        "replace": "1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan (p. 50)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "2. La sanctification et la piété ......................................................................... 54  \n",
+        "replace": "2. La sanctification et la piété (p. 54)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "3. Séparation d’avec les faux frères ................................................................ 56  \n",
+        "replace": "3. Séparation d’avec les faux frères (p. 56)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "4. La manifestation de la Puissance de Dieu ................................................. 59  \n",
+        "replace": "4. La manifestation de la Puissance de Dieu (p. 59)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Ordre de mission en rapport avec la prédication et les signes ..................... 61  \n",
+        "replace": "Ordre de mission en rapport avec la prédication et les signes (p. 61)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Le troisième pull ............................................................................................. 64",
+        "replace": "Le troisième pull (p. 64)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "6. LA MOISSON ET LES MOISSONNEURS ................................................. 73",
+        "replace": "6. LA MOISSON ET LES MOISSONNEURS (p. 73)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La moisson du Seigneur ....................................................................... 73  \n",
+        "replace": "La moisson du Seigneur (p. 73)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les jours du fils de l’homme sont semblables aux jours de Loth ...... 76  \n",
+        "replace": "Les jours du fils de l’homme sont semblables aux jours de Lot (p. 76)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La Moisson de la terre .......................................................................... 81  \n",
+        "replace": "La Moisson de la terre (p. 81)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "CONCLUSION ................................................................................................. 82",
+        "replace": "CONCLUSION (p. 82)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Pluie de l’arrière saison",
+        "replace": "Pluie de l’arrière-saison",
+        "kind": "typo",
+        "why": "hyphen in the compound, as the author writes it elsewhere (« arrière-saison »)"
+      },
+      {
+        "find": "Georges Whitefield et Jonh Wesley",
+        "replace": "Georges Whitefield et John Wesley",
+        "kind": "typo",
+        "why": "misspelt first name « Jonh »"
+      },
+      {
+        "find": "un allemand, qui",
+        "replace": "un Allemand, qui",
+        "kind": "typo",
+        "why": "capital for a people (batch lesson)"
+      },
+      {
+        "find": "par les biais des missionnaires",
+        "replace": "par le biais des missionnaires",
+        "kind": "typo",
+        "why": "fixed phrase « par le biais de »: article slip"
+      },
+      {
+        "find": "il eut des réveils locaux",
+        "replace": "il y eut des réveils locaux",
+        "kind": "word",
+        "why": "dropped « y » of « il y eut » (typesetter slip)"
+      },
+      {
+        "find": "LA MALÉDICTION EMPÊCHE LA PLUIE\n\nPOUR NOUS TOUS",
+        "replace": "LA MALÉDICTION EMPÊCHE LA PLUIE POUR NOUS TOUS",
+        "kind": "markup",
+        "why": "one section title split over two lines by the PDF (the table of contents has it as one)"
+      },
+      {
+        "find": "Au temps d’Éli, ce fut un feu",
+        "replace": "Au temps d’Élie, ce fut un feu",
+        "kind": "typo",
+        "why": "the fire on the sacrifice (1 Rois 18, cited in the sentence) is Élie's, not Éli's; the PDF has « Eli » for both"
+      },
+      {
+        "find": "alors qu’Il n’en n’est pas l’auteur",
+        "replace": "alors qu’Il n’en est pas l’auteur",
+        "kind": "word",
+        "why": "spelling slip « n’en n’est »"
+      },
+      {
+        "find": "Paragraphe 262A.(juillet 1965**)",
+        "replace": "Paragraphe 262A. (juillet 1965**)",
+        "kind": "markup",
+        "why": "space after the period"
+      },
+      {
+        "find": "jours de Loth\n\n> **Ce qui arriva du temps de Loth arrivera",
+        "replace": "jours de Lot\n\n> **Ce qui arriva du temps de Lot arrivera",
+        "kind": "typo",
+        "why": "« Lot », the Bible's spelling (Samuel's rule); the Segond database, Luc 17:28: « Ce qui arriva du temps de Lot arrivera pareillement »"
+      },
+      {
+        "find": "mais le jour où Loth sortit de Sodome",
+        "replace": "mais le jour où Lot sortit de Sodome",
+        "kind": "typo",
+        "why": "the Segond database, Luc 17:29: « mais le jour où Lot sortit de Sodome »"
+      },
+      {
+        "find": "notamment L’Éternel, accompagné",
+        "replace": "notamment l’Éternel, accompagné",
+        "kind": "typo",
+        "why": "mid-sentence article in lower case (batch 05 lesson)"
+      },
+      {
+        "find": "bouleversèrent Sodome et Gomorrhe au temps de Loth",
+        "replace": "bouleversèrent Sodome et Gomorrhe au temps de Lot",
+        "kind": "typo",
+        "why": "« Lot », the Bible's spelling (Samuel's rule)"
+      },
+      {
+        "find": "comme la femme de Loth au jour",
+        "replace": "comme la femme de Lot au jour",
+        "kind": "typo",
+        "why": "« Lot », the Bible's spelling (Samuel's rule)"
+      },
+      {
+        "find": "Souvenez-vous de la femme de Loth",
+        "replace": "Souvenez-vous de la femme de Lot",
+        "kind": "typo",
+        "why": "the Segond database, Luc 17:32: « Souvenez-vous de la femme de Lot. »"
+      },
+      {
+        "find": "consigne suivante à Loth",
+        "replace": "consigne suivante à Lot",
+        "kind": "typo",
+        "why": "« Lot », the Bible's spelling (Samuel's rule)"
+      },
+      {
+        "find": "qui dépassait son intelligence ; il tomba",
+        "replace": "qui dépassait son intelligence, il tomba",
+        "kind": "typo",
+        "why": "punctuation: a semicolon cut the sentence between its clause and its main verb"
+      },
+      {
+        "find": "la seconde veille ; jeûne, crie",
+        "replace": "la seconde veille, jeûne, crie",
+        "kind": "typo",
+        "why": "punctuation: a list of verbs, comma like the rest of the list"
+      },
+      {
+        "find": "de Samuel à Mitspat",
+        "replace": "de Samuel à Mitspa",
+        "kind": "typo",
+        "why": "biblical name, the Segond database, 1 Samuel 7:5: « Assemblez tout Israël à Mitspa »"
+      },
+      {
+        "find": "en Gethsemané",
+        "replace": "en Gethsémané",
+        "kind": "typo",
+        "why": "biblical name, the Segond database, Matthieu 26:36: « Gethsémané »"
+      },
+      {
+        "find": "1. La conquête du monde et des promesses de Dieu\n\nL’ÉGYPTE ET CANAAN",
+        "replace": "1. La conquête du monde et des promesses de Dieu : L’ÉGYPTE ET CANAAN",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      }
+    ]
+  },
+  "markdown/onedrive/pdf/publication verified/broch_plusgrand.md": {
+    "title": "Qui est le plus grand ?",
+    "fixes": [
+      {
+        "find": "à notre prochain, qui peut-être, un frère ou une sœur",
+        "replace": "à notre prochain, qui peut être un frère ou une sœur",
+        "kind": "typo",
+        "why": "« peut-être » (adverb) for the verb « peut être »; the comma after it goes"
+      },
+      {
+        "find": "il faut y prendre soin jusqu’à ce qu’on en voit les premiers fruits",
+        "replace": "il faut y prendre soin jusqu’à ce qu’on en voie les premiers fruits",
+        "kind": "typo",
+        "why": "subjunctive after « jusqu’à ce que »: « voie »"
+      },
+      {
+        "find": "Il en sera comme au temps de Loth.",
+        "replace": "Il en sera comme au temps de Lot.",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, Luc 17:28: « du temps de Lot »"
+      },
+      {
+        "find": "mais le jour où Loth sortit de Sodome",
+        "replace": "mais le jour où Lot sortit de Sodome",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, Luc 17:29: « le jour où Lot sortit de Sodome »"
+      },
+      {
+        "find": "chez le frère N’gongo le diacre de l’assemblée et chez",
+        "replace": "chez le frère N’gongo, le diacre de l’assemblée, et chez",
+        "kind": "typo",
+        "why": "commas around the apposition « le diacre de l’assemblée »"
+      },
+      {
+        "find": "Tous sont Missionnaires, mais tous ne sont pas Messager. Tous sont missionnaires, mais tous ne sont pas apôtre**",
+        "replace": "Tous sont Missionnaires, mais tous ne sont pas Messagers. Tous sont missionnaires, mais tous ne sont pas apôtres**",
+        "kind": "typo",
+        "why": "agreement with « tous »: plural « Messagers », « apôtres »"
+      },
+      {
+        "find": "Quand il eut le problème de Corinthe",
+        "replace": "Quand il y eut le problème de Corinthe",
+        "kind": "word",
+        "why": "typesetter's dropped « y »: « il y eut »"
+      },
+      {
+        "find": "et il y en qui y vont seulement",
+        "replace": "et il y en a qui y vont seulement",
+        "kind": "word",
+        "why": "typesetter's dropped « a »: « il y en a qui »"
+      },
+      {
+        "find": "Paul recommanda la sœur Phoebé de l’assemblée de Centhré aux frères",
+        "replace": "Paul recommanda la sœur Phœbé de l’assemblée de Cenchrées aux frères",
+        "kind": "typo",
+        "why": "biblical names in the Bible's spelling; the Segond database, Romains 16:1: « Phœbé … l’Église de Cenchrées »"
+      },
+      {
+        "find": "tirée de la brochure l’Enlèvement, à partir",
+        "replace": "tirée de la brochure « L’Enlèvement », à partir",
+        "kind": "typo",
+        "why": "a brochure's title in « »"
+      },
+      {
+        "find": "de l’Épouse ». Je l’ai vu passer. Elle venait",
+        "replace": "de l’Épouse ». Je l’ai vue passer. Elle venait",
+        "kind": "typo",
+        "why": "agreement: « l’ » is the little woman, « vue »"
+      },
+      {
+        "find": "était sortie du pas mais, elle fut finalement",
+        "replace": "était sortie du pas, mais elle fut finalement",
+        "kind": "typo",
+        "why": "comma before « mais », not after it"
+      },
+      {
+        "find": "Veuillez et priez afin que vous ne tombiez pas",
+        "replace": "Veillez et priez afin que vous ne tombiez pas",
+        "kind": "typo",
+        "why": "homophone: « Veillez »; the Segond database, Matthieu 26:41: « Veillez et priez »"
+      },
+      {
+        "find": "nous devons bien comprendre la question elle-même ? Comprenons",
+        "replace": "nous devons bien comprendre la question elle-même. Comprenons",
+        "kind": "typo",
+        "why": "a statement, not a question: full stop"
+      },
+      {
+        "find": "mais tout cela dans la VERITE**",
+        "replace": "mais tout cela dans la VÉRITÉ**",
+        "kind": "typo",
+        "why": "accents on capitals"
+      },
+      {
+        "find": "> Moi, l’Eternel, je t’ai appelé pour le salut",
+        "replace": "> Moi, l’Éternel, je t’ai appelé pour le salut",
+        "kind": "typo",
+        "why": "accent on the capital; the Segond database, Ésaïe 42:6: « Moi, l’Éternel, je t’ai appelé »"
+      },
+      {
+        "find": "S’il y a des prophètes dans l’Église, c’est parce Jésus-Christ est Le Prophète.",
+        "replace": "S’il y a des prophètes dans l’Église, c’est parce que Jésus-Christ est Le Prophète.",
+        "kind": "word",
+        "why": "typesetter's dropped « que »: « c’est parce que », as in the next sentences"
+      },
+      {
+        "find": "il ne doit pas avoir de tyran ou de dominateur",
+        "replace": "il ne doit pas y avoir de tyran ou de dominateur",
+        "kind": "word",
+        "why": "typesetter's dropped « y »: « il ne doit pas y avoir »"
+      },
+      {
+        "find": "C’est ainsi que sont ballotés ceux qui écoutent",
+        "replace": "C’est ainsi que sont ballottés ceux qui écoutent",
+        "kind": "typo",
+        "why": "spelling: « ballottés »"
+      }
+    ],
+    "date": "2010-11-18",
+    "decided": {
+      "date": "Samuel, 2026-10-03: « Yes, signature dates »: the book states no date at its opening; its signature reads « Abidjan, le 18 novembre 2010 »"
+    },
+    "replaced_date": "",
+    "tags": [
+      "Exhortations",
+      "2010",
+      "Purification",
+      "Ministère",
+      "Fondement"
+    ]
+  },
+  "markdown/onedrive/pdf/nehemie_patriote.md": {
+    "title": "L’œuvre de la restauration de la muraille de Jérusalem",
+    "fixes": [
+      {
+        "find": "- Les 3 étapes Les 3 étapes de la déportation",
+        "replace": "- Les 3 étapes de la déportation",
+        "kind": "word",
+        "why": "typesetter's doubled words « Les 3 étapes » in the contents"
+      },
+      {
+        "find": "(2 chroniques 36 :15-21)",
+        "replace": "(2 Chroniques 36 :15-21)",
+        "kind": "typo",
+        "why": "book name takes a capital"
+      },
+      {
+        "find": "**Artaxerxés, roi des rois",
+        "replace": "**Artaxerxès, roi des rois",
+        "kind": "typo",
+        "why": "the Segond database, Esdras 7:12: « Artaxerxès, roi des rois »; the same reading spells it so a line earlier"
+      },
+      {
+        "find": "sept Églises d’apocalypse 2 et 3",
+        "replace": "sept Églises d’Apocalypse 2 et 3",
+        "kind": "typo",
+        "why": "book name takes a capital"
+      },
+      {
+        "find": "l’écriture de Matthieu 24 :45 s’est accomplie",
+        "replace": "l’Écriture de Matthieu 24 :45 s’est accomplie",
+        "kind": "typo",
+        "why": "the Scripture takes a capital, as the pass did elsewhere"
+      },
+      {
+        "find": "Dans les écritures, le vase typifie",
+        "replace": "Dans les Écritures, le vase typifie",
+        "kind": "typo",
+        "why": "the Scriptures take a capital, as the pass did elsewhere"
+      },
+      {
+        "find": "il y a des écritures qui doivent être accomplies",
+        "replace": "il y a des Écritures qui doivent être accomplies",
+        "kind": "typo",
+        "why": "the Scriptures take a capital, as the pass did elsewhere"
+      },
+      {
+        "find": "au temps convenable ? Cette Parole devait aussi s’accomplir**. **La nourriture",
+        "replace": "au temps convenable ? » Cette Parole devait aussi s’accomplir**. **La nourriture",
+        "kind": "typo",
+        "why": "closing » of the Matthew quotation inside Frank's letter"
+      },
+      {
+        "find": "au temps convenable ? **Cette Parole devait aussi s’accomplir**. La nourriture spirituelle, la Parole révélée doit être distribuée… Lettre circulaire 68",
+        "replace": "au temps convenable ? » **Cette Parole devait aussi s’accomplir**. La nourriture spirituelle, la Parole révélée doit être distribuée… » Lettre circulaire 68",
+        "kind": "typo",
+        "why": "closing » of the Matthew quotation and of the quoted letter"
+      },
+      {
+        "find": "! Pierres antiques, conservant",
+        "replace": "! Pierres Antiques, conservant",
+        "kind": "restore",
+        "why": "the poem's capital, as in the PDF"
+      },
+      {
+        "find": "dans ce lieu saint ;",
+        "replace": "dans ce lieu Saint ;",
+        "kind": "restore",
+        "why": "the poem's capital, as in the PDF"
+      },
+      {
+        "find": "Un mur à JERUSALEM ; phil-David",
+        "replace": "Un mur à JÉRUSALEM ; phil-David",
+        "kind": "typo",
+        "why": "accent on capital"
+      },
+      {
+        "find": "dans apocalypse, une ville descendre",
+        "replace": "dans Apocalypse, une ville descendre",
+        "kind": "typo",
+        "why": "book name takes a capital"
+      },
+      {
+        "find": "sous inspiration divine, il y a 4 ans",
+        "replace": "sous inspiration Divine, il y a 4 ans",
+        "kind": "restore",
+        "why": "the author's honorific capital, as in the PDF"
+      },
+      {
+        "find": "« **Sentinelle, que dis-tu de la nuit ?** » La réponse suit : « **Le matin vient** »",
+        "replace": "« **Sentinelle, que dis-tu de la nuit ? » la réponse suit : « Le matin vient** »",
+        "kind": "restore",
+        "why": "bold as in the PDF"
+      },
+      {
+        "find": "ceux qui sont morts et Christ et qui",
+        "replace": "ceux qui sont morts en Christ et qui",
+        "kind": "typo",
+        "why": "homophone slip « et » for « en » (the dead in Christ of 1 Thessaloniciens 4)"
+      },
+      {
+        "find": "4 : 16 et 1 cor 15 :35-38",
+        "replace": "4 : 16 et 1 Cor 15 :35-38",
+        "kind": "typo",
+        "why": "book name takes a capital"
+      },
+      {
+        "find": "ce sont les fils du royaume",
+        "replace": "ce sont les fils du royaume",
+        "kind": "word",
+        "why": "approve the pass: PDF « t le fils » is a broken « les fils »; the Segond database, Matthieu 13:38: « ce sont les fils du royaume »"
+      },
+      {
+        "find": "n’avons pas pris garde à l’avertissement",
+        "replace": "n’avons pas pris en garde à l’avertissement",
+        "kind": "restore",
+        "why": "the pass removed the author's word « en »"
+      },
+      {
+        "find": "« Veuillez et priez afin",
+        "replace": "« Veillez et priez afin",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 26:41: « Veillez et priez »"
+      },
+      {
+        "find": "AGE DE L’ÉGLISE DE PHILADELPHIE",
+        "replace": "ÂGE DE L’ÉGLISE DE PHILADELPHIE",
+        "kind": "typo",
+        "why": "accent on capital"
+      },
+      {
+        "find": "en n’oubliant pas de mentionner",
+        "replace": "en oubliant pas de mentionner",
+        "kind": "restore",
+        "why": "the pass added « n’ »: a dropped « ne » stays"
+      },
+      {
+        "find": "(Ezéchiel 22:30 (Version Ostervald))",
+        "replace": "(Ézéchiel 22:30 (Version Ostervald))",
+        "kind": "typo",
+        "why": "accent on capital"
+      },
+      {
+        "find": "(Ezéchiel 13 :1-10)",
+        "replace": "(Ézéchiel 13 :1-10)",
+        "kind": "typo",
+        "why": "accent on capital"
+      },
+      {
+        "find": "**Vous dites que les vierges folles pourraient être inspirées par le diable** ». — Parfaitement ! — « Et continuer à vivre purement ? »",
+        "replace": "**Vous dites que les vierges folles pourraient être inspirées par le diable ». — Parfaitement ! — « Et continuer à vivre purement** ? »",
+        "kind": "restore",
+        "why": "bold as in the PDF"
+      },
+      {
+        "find": "la graine originale qui va clore et",
+        "replace": "la graine originale qui va éclore et",
+        "kind": "typo",
+        "why": "dropped letter: the grain hatches (« éclore »); see doubts"
+      },
+      {
+        "find": "avec un mandant divin pour",
+        "replace": "avec un mandat divin pour",
+        "kind": "typo",
+        "why": "« mandant » for « mandat » (the text speaks of a divine mandate throughout)"
+      },
+      {
+        "find": "personnes divinement averties",
+        "replace": "personnes divinement avertis",
+        "kind": "revert",
+        "why": "« avertis » agrees with « mages et autres personnes » together; doubtful change"
+      },
+      {
+        "find": "positions traditionnelles, établies par des hommes",
+        "replace": "positions traditionnelles, établis par des hommes",
+        "kind": "revert",
+        "why": "« établis » may agree with « nous »: the change alters who is meant"
+      },
+      {
+        "find": "je dis : O Eternel, Dieu des cieux",
+        "replace": "je dis : Ô Éternel, Dieu des cieux",
+        "kind": "typo",
+        "why": "the Segond database, Néhémie 1:5: « Ô Éternel, Dieu des cieux »"
+      },
+      {
+        "find": "propre cœur** : Ecoutez la parole de l’Eternel !",
+        "replace": "propre cœur** : Écoutez la parole de l’Éternel !",
+        "kind": "typo",
+        "why": "accents on capitals; the Segond database, Ézéchiel 13:2: « Écoutez la parole de l’Éternel ! »"
+      },
+      {
+        "find": "parole de l’Eternel me fut adressée,",
+        "replace": "parole de l’Éternel me fut adressée,",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Ézéchiel 13:1-3: « l’Éternel »"
+      },
+      {
+        "find": "le Seigneur, l’Eternel : **Malheur aux",
+        "replace": "le Seigneur, l’Éternel : **Malheur aux",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Ézéchiel 13:1-3: « l’Éternel »"
+      },
+      {
+        "find": "Au jour de l’Eternel**. Leurs visions",
+        "replace": "Au jour de l’Éternel**. Leurs visions",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Ézéchiel 13:5-9: « l’Éternel »"
+      },
+      {
+        "find": "disent** : **L’Eternel a dit ! Et l’Eternel",
+        "replace": "disent** : **L’Éternel a dit ! Et l’Éternel",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Ézéchiel 13:5-9: « l’Éternel »"
+      },
+      {
+        "find": "dites** : **L’Eternel a dit ! Et je",
+        "replace": "dites** : **L’Éternel a dit ! Et je",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Ézéchiel 13:5-9: « l’Éternel »"
+      },
+      {
+        "find": "Seigneur, l’Eternel : Parce que",
+        "replace": "Seigneur, l’Éternel : Parce que",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Ézéchiel 13:5-9: « l’Éternel »"
+      },
+      {
+        "find": "le Seigneur, l’Eternel. **Ma main sera",
+        "replace": "le Seigneur, l’Éternel. **Ma main sera",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Ézéchiel 13:5-9: « l’Éternel »"
+      },
+      {
+        "find": "le Seigneur, l’Eternel. **Ces choses arriveront",
+        "replace": "le Seigneur, l’Éternel. **Ces choses arriveront",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Ézéchiel 13:5-9: « l’Éternel »"
+      },
+      {
+        "find": "embrasera, Dit l’Eternel des armées,",
+        "replace": "embrasera, Dit l’Éternel des armées,",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Malachie 4:1-5: « l’Éternel »"
+      },
+      {
+        "find": "prépare, Dit l’Eternel des armées.",
+        "replace": "prépare, Dit l’Éternel des armées.",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Malachie 4:1-5: « l’Éternel »"
+      },
+      {
+        "find": "le jour de l’Eternel arrive, Ce jour",
+        "replace": "le jour de l’Éternel arrive, Ce jour",
+        "kind": "typo",
+        "why": "accent on capital; the Segond database, Malachie 4:1-5: « l’Éternel »"
+      },
+      {
+        "find": "Faites simplement—simplement confiance au Seigneur. C’est tout. »",
+        "replace": "Faites simplement—simplement confiance au Seigneur. C’est tout. » QUATRIÈME SCEAU, LE – 21.03.1963 JEFFERSONVILLE, IN, USA",
+        "kind": "restore",
+        "why": "the pass dropped the quotation’s source line, which the PDF prints after it (written with « – » like the CINQUIÈME SCEAU line above)"
+      },
+      {
+        "find": "avant leur union dans l’église",
+        "replace": "avant leur union dans l’église",
+        "kind": "word",
+        "why": "approve: the PDF’s « leur l’union » is a typesetter’s doubled article; the pass rightly dropped « l’ »"
+      },
+      {
+        "find": "> §201 Ne savez-vous pas qu’un homme qui embrasse une femme est moralement obligé de la marier ? **Potentiellement, c’est un acte sexuel. Certainement, cela l’est**.\n\n**Oui, monsieur**. »",
+        "replace": "> §201 « Ne savez-vous pas qu’un homme qui embrasse une femme est moralement obligé de la marier ? **Potentiellement, c’est un acte sexuel. Certainement, cela l’est**. **Oui, monsieur**. »",
+        "kind": "markup",
+        "why": "« Oui, monsieur » is the end of the §201 quotation (its closing » and source follow): rejoin it to the quote, and put back the opening « the pass dropped"
+      },
+      {
+        "find": "Minuit et le Champ de Coq",
+        "replace": "Minuit et le Chant de Coq",
+        "kind": "typo",
+        "why": "homophone: the night watch is the cock’s crow (« le Chant du Coq » later in the text)"
+      },
+      {
+        "find": "acheminons au champ de coq",
+        "replace": "acheminons au chant de coq",
+        "kind": "typo",
+        "why": "homophone: the cock’s crow, as « le Chant du Coq » elsewhere in the text"
+      },
+      {
+        "find": "n° 1 - Jefgf., Ind.",
+        "replace": "n° 1 - Jeff., Ind.",
+        "kind": "typo",
+        "why": "typing slip for « Jeff. » (Jeffersonville), as in « JEFF., IN. » above"
+      },
+      {
+        "find": "le cavalier d’apocalypse 6",
+        "replace": "le cavalier d’Apocalypse 6",
+        "kind": "typo",
+        "why": "book name takes its capital, as the pass did for « d’Apocalypse 17 »"
+      },
+      {
+        "find": "Le livre de proverbes nous",
+        "replace": "Le livre de Proverbes nous",
+        "kind": "typo",
+        "why": "book name takes its capital"
+      },
+      {
+        "find": "le chapitre 7 de proverbes",
+        "replace": "le chapitre 7 de Proverbes",
+        "kind": "typo",
+        "why": "book name takes its capital"
+      },
+      {
+        "find": "ce chapitre 7 des proverbes",
+        "replace": "ce chapitre 7 des Proverbes",
+        "kind": "typo",
+        "why": "book name takes its capital"
+      },
+      {
+        "find": "dans les livres des chroniques",
+        "replace": "dans les livres des Chroniques",
+        "kind": "typo",
+        "why": "book name takes its capital"
+      },
+      {
+        "find": "les Ministères d’éphésiens 4",
+        "replace": "les Ministères d’Éphésiens 4",
+        "kind": "typo",
+        "why": "book name takes its capital, with the accent"
+      },
+      {
+        "find": "vingt-cinquième jour du mois d’Elul, en cinquante-deux jours. (Néhémie",
+        "replace": "vingt-cinquième jour du mois d’Élul, en cinquante-deux jours. (Néhémie",
+        "kind": "typo",
+        "why": "accent on the capital (Elul), the batch lesson; the Segond database, Néhémie 6:15: « du mois d’Élul »"
+      },
+      {
+        "find": "jour du mois d’Elul, en cinquante-deux jours. »",
+        "replace": "jour du mois d’Élul, en cinquante-deux jours. »",
+        "kind": "typo",
+        "why": "accent on the capital (Elul), the batch lesson; the Segond database, Néhémie 6:15: « du mois d’Élul »"
+      },
+      {
+        "find": "> **Eliaschib, le",
+        "replace": "> **Éliaschib, le",
+        "kind": "typo",
+        "why": "accent on the capital (Eliaschib), the batch lesson; the Segond database, Néhémie 3:1: « Éliaschib, le souverain sacrificateur »"
+      },
+      {
+        "find": "côté d’Eliaschib bâtirent",
+        "replace": "côté d’Éliaschib bâtirent",
+        "kind": "typo",
+        "why": "accent on the capital (Eliaschib), the batch lesson; the Segond database, Néhémie 3:1: « Éliaschib, le souverain sacrificateur »"
+      },
+      {
+        "find": "Eliaschib le grand",
+        "replace": "Éliaschib le grand",
+        "kind": "typo",
+        "why": "accent on the capital (Eliaschib), the batch lesson; the Segond database, Néhémie 3:1: « Éliaschib, le souverain sacrificateur »"
+      },
+      {
+        "find": "remarquerons qu’Eliaschib et",
+        "replace": "remarquerons qu’Éliaschib et",
+        "kind": "typo",
+        "why": "accent on the capital (Eliaschib), the batch lesson; the Segond database, Néhémie 3:1: « Éliaschib, le souverain sacrificateur »"
+      },
+      {
+        "find": "sacrificateur Eliaschib avait",
+        "replace": "sacrificateur Éliaschib avait",
+        "kind": "typo",
+        "why": "accent on the capital (Eliaschib), the batch lesson; the Segond database, Néhémie 3:1: « Éliaschib, le souverain sacrificateur »"
+      },
+      {
+        "find": "arrivât, Eliaschib, Sacrificateur",
+        "replace": "arrivât, Éliaschib, Sacrificateur",
+        "kind": "typo",
+        "why": "accent on the capital (Eliaschib), the batch lesson; the Segond database, Néhémie 3:1: « Éliaschib, le souverain sacrificateur »"
+      },
+      {
+        "find": "mal qu’Eliaschib avait",
+        "replace": "mal qu’Éliaschib avait",
+        "kind": "typo",
+        "why": "accent on the capital (Eliaschib), the batch lesson; the Segond database, Néhémie 3:1: « Éliaschib, le souverain sacrificateur »"
+      },
+      {
+        "find": "Hanani, Eliatha, Guiddalthi, Romamthi-Ezer, Joschbekascha,",
+        "replace": "Hanani, Éliatha, Guiddalthi, Romamthi-Ézer, Joschbekascha,",
+        "kind": "typo",
+        "why": "accent on the capital (Eliatha, Romamthi-Ezer), the batch lesson; the Segond database, 1 Chroniques 25:4: « Éliatha, Guiddalthi, Romamthi-Ézer »"
+      },
+      {
+        "find": "Bethléhem Ephrata, Petite",
+        "replace": "Bethléhem Éphrata, Petite",
+        "kind": "typo",
+        "why": "accent on the capital (Ephrata), the batch lesson; the Segond database, Michée 5:1: « Bethléhem Éphrata »"
+      },
+      {
+        "find": "tribu d’Ephraïm. **Et",
+        "replace": "tribu d’Éphraïm. **Et",
+        "kind": "typo",
+        "why": "accent on the capital (Ephraïm), the batch lesson; French spelling Éphraïm"
+      },
+      {
+        "find": "était Ephraïmite. Et",
+        "replace": "était Éphraïmite. Et",
+        "kind": "typo",
+        "why": "accent on the capital (Ephraïmite), the batch lesson; French spelling Éphraïm"
+      },
+      {
+        "find": "Ainsi, Edom est",
+        "replace": "Ainsi, Édom est",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "roux : « Et Esaü dit à",
+        "replace": "roux : « Et Ésaü dit à",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "donné à Esaü le nom d’Edom** » (Genèse",
+        "replace": "donné à Ésaü le nom d’Édom** » (Genèse",
+        "kind": "typo",
+        "why": "accent on the capital (Edom, Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "> Esaü s’établit",
+        "replace": "> Ésaü s’établit",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "Séir. Esaü, c’est Edom. Voici",
+        "replace": "Séir. Ésaü, c’est Édom. Voici",
+        "kind": "typo",
+        "why": "accent on the capital (Edom, Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "postérité d’Esaü, père d’Edom, dans",
+        "replace": "postérité d’Ésaü, père d’Édom, dans",
+        "kind": "typo",
+        "why": "accent on the capital (Edom, Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "travers Edom pour",
+        "replace": "travers Édom pour",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "tuer : « **Esaü conçut",
+        "replace": "tuer : « **Ésaü conçut",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "béni ; et Esaü disait en",
+        "replace": "béni ; et Ésaü disait en",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "promesse : « Esaü dit :",
+        "replace": "promesse : « Ésaü dit :",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "à Esaü : Voici,",
+        "replace": "à Ésaü : Voici,",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "ainsi qu’Edom fut",
+        "replace": "ainsi qu’Édom fut",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "tentes d’Edom et",
+        "replace": "tentes d’Édom et",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "**Il se rend maître d’Edom, Il se rend maître",
+        "replace": "**Il se rend maître d’Édom, Il se rend maître",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "Seth. Il se rend maître d’Edom, Il se rend maître de",
+        "replace": "Seth. Il se rend maître d’Édom, Il se rend maître de",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "prophétisera sur Edom en relation",
+        "replace": "prophétisera sur Édom en relation",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "âge**. Edom est",
+        "replace": "âge**. Édom est",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "représente Edom, c’est",
+        "replace": "représente Édom, c’est",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "15:52. Edom c’est",
+        "replace": "15:52. Édom c’est",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "messagers à Esaü, son frère,",
+        "replace": "messagers à Ésaü, son frère,",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "territoire d’Edom**. » (Genèse",
+        "replace": "territoire d’Édom**. » (Genèse",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "Babylone, **Edom connaîtra",
+        "replace": "Babylone, **Édom connaîtra",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "jugement d’Edom est",
+        "replace": "jugement d’Édom est",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "**fille d’Edom, Habitante",
+        "replace": "**fille d’Édom, Habitante",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "Fille d’Edom, il",
+        "replace": "Fille d’Édom, il",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "désert. (Ezéchiel 35:2-3)",
+        "replace": "désert. (Ézéchiel 35:2-3)",
+        "kind": "typo",
+        "why": "accent on the capital (Ezéchiel), the batch lesson; as the pass wrote « Ézéchiel 4 », « Ézéchiel 5 »"
+      },
+      {
+        "find": "enfants d’Edom**, **Qui,",
+        "replace": "enfants d’Édom**, **Qui,",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "Babylone et Edom. Et à",
+        "replace": "Babylone et Édom. Et à",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "enfants Edom. Bienheureux",
+        "replace": "enfants Édom. Bienheureux",
+        "kind": "word",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »; and the pass joined the PDF's « Bien heureux » into « Bienheureux », as Segond writes it"
+      },
+      {
+        "find": "combat contre Edom ou Babylone :",
+        "replace": "combat contre Édom ou Babylone :",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "montagne d’Esaü** ; Et",
+        "replace": "montagne d’Ésaü** ; Et",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "contre Edom**. Ce",
+        "replace": "contre Édom**. Ce",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "sur Edom** : Nous",
+        "replace": "sur Édom** : Nous",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "contre Edom pour",
+        "replace": "contre Édom pour",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "l’Éternel. Edom sera",
+        "replace": "l’Éternel. Édom sera",
+        "kind": "typo",
+        "why": "accent on the capital (Edom), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "montagne d’Esaü afin",
+        "replace": "montagne d’Ésaü afin",
+        "kind": "typo",
+        "why": "accent on the capital (Esaü), the batch lesson; the Segond database, Genèse 36:8: « Ésaü, c’est Édom »"
+      },
+      {
+        "find": "qu’un Ephésiens 4",
+        "replace": "qu’un Éphésiens 4",
+        "kind": "typo",
+        "why": "accent on the capital (Ephésiens), the batch lesson; as the pass wrote « Éphésiens 2:19 »"
+      },
+      {
+        "find": "Parole (Ephésiens 4",
+        "replace": "Parole (Éphésiens 4",
+        "kind": "typo",
+        "why": "accent on the capital (Ephésiens), the batch lesson; as the pass wrote « Éphésiens 2:19 »"
+      }
+    ],
+    "date": "2009-12-28",
+    "decided": {
+      "date": "Samuel, 2026-10-03: « Yes, signature dates »: the book states no date at its opening; its signature reads « Kinshasa, le 28 Décembre 2009 »"
+    },
+    "replaced_date": "",
+    "tags": [
+      "Exhortations",
+      "2009",
+      "Restauration",
+      "Minuit",
+      "Muraille de Jérusalem"
+    ]
+  },
+  "markdown/onedrive/pdf/lavision_kayenga.md": {
+    "title": "La vision spirituelle correcte de l’évolution du Message du temps de la fin",
+    "fixes": [
+      {
+        "find": "LE JOUR DU SALUT OU L’ANNÉE DE GRÂCE",
+        "replace": "LE JOUR DU SALUT OU L’ANNÉE DE GRÂCE",
+        "kind": "word",
+        "why": "approve: the PDF's split glyphs « ANN N E N E » read « ANNÉE »"
+      },
+      {
+        "find": "LES SAISONS ET LES TEMPS PROPHÉTIQUES DU JOUR DU SALUT OU DE L’ANNÉE DE GRÂCE",
+        "replace": "LES SAISONS ET LES TEMPS PROPHÉTIQUES DU JOUR DU SALUT OU DE L’ANNÉE DE GRÂCE",
+        "kind": "word",
+        "why": "approve: the PDF's stray « N » and split « ANN N E N E » are glyphs of « ANNÉE »"
+      },
+      {
+        "find": "Israël. [Réf. nécessaire]**",
+        "replace": "Israël. [Réf. nécessaire]**",
+        "kind": "word",
+        "why": "approve: « ééé » is a PDF artifact before « [réf. nécessaire] »"
+      },
+      {
+        "find": "Une forte révélation est encore à venir",
+        "replace": "Une forte révélation est encore à venir",
+        "kind": "word",
+        "why": "approve: « avenir » → « à venir » (still to come), homophone"
+      },
+      {
+        "find": "Le Seigneur ne disait-il pas que le disciple",
+        "replace": "Le Seigneur ne disait-il pas que le disciple",
+        "kind": "word",
+        "why": "approve: « disait-t-il » → « disait-il », the extra t is a typesetter slip"
+      },
+      {
+        "find": "Et qu’est-ce qu’elle a fait, conformément",
+        "replace": "Et qu’est-ce qu’elle a fait, conformément",
+        "kind": "word",
+        "why": "approve: the PDF doubles « que » (« qu’est ce que qu’elle »), typesetter slip"
+      },
+      {
+        "find": "**LE PRINCIPE DU LÉGER À LOURD – LE MIDRASH**",
+        "replace": "LE PRINCIPE DU LÉGER À LOURD – LE MIDRASH",
+        "kind": "restore",
+        "why": "the PDF has this title without bold; the pass added it (accents and split glyphs approved)"
+      },
+      {
+        "find": "**DU RÉVEIL AU TEMPS DU SOIR AU RÉVEIL DES VIERGES À MINUIT**",
+        "replace": "DU RÉVEIL AU TEMPS DU SOIR AU RÉVEIL DES VIERGES À MINUIT",
+        "kind": "word",
+        "why": "the PDF has this title without bold; the pass added it. Word: the PDF splits « TEMP M S » with a stray glyph, which the pass removed (approved)"
+      },
+      {
+        "find": "ne passeront point. (Matthieu24 :31-35)",
+        "replace": "ne passeront point. Matthieu24 :31-35",
+        "kind": "restore",
+        "why": "the PDF gives this reference without parentheses; keep the author's form"
+      },
+      {
+        "find": "(Cantique des cantiques 2 :10-13, V. Martin)",
+        "replace": "Cantique des cantiques 2 :10-13, V. Martin",
+        "kind": "restore",
+        "why": "the PDF gives this reference without parentheses; keep the author's form"
+      },
+      {
+        "find": "le jour de la Pentecôte. « … mais chacun en son rang.\n\n> **Christ comme prémices**",
+        "replace": "le jour de la Pentecôte.\n\n> … mais chacun en son rang. **Christ comme prémices**",
+        "kind": "markup",
+        "why": "the reading of 1 Corinthiens 15:23 was split: its first words stayed in the prose with an unclosed «; the Segond database, 1 Corinthiens 15:23: « mais chacun en son rang. Christ comme prémices… »"
+      },
+      {
+        "find": "à moi qui suis une étrangère ? »\n\n(Ruth 1 :8-10)",
+        "replace": "à moi qui suis une étrangère ? » (Ruth 1 :8-10)",
+        "kind": "markup",
+        "why": "the reference belongs to the quote it ends (the PDF prints it on the next line)"
+      },
+      {
+        "find": "DIVINITÉ EXPLIQUÉE, LA 25.04.1961\n\nbb080543",
+        "replace": "DIVINITÉ EXPLIQUÉE, LA 25.04.1961 bb080543",
+        "kind": "markup",
+        "why": "the sermon code belongs to the citation's reference line, as in the other citations"
+      },
+      {
+        "find": "RETOUR ET JUBILÉ - 22.11.1962\n\n087422",
+        "replace": "RETOUR ET JUBILÉ - 22.11.1962 087422",
+        "kind": "markup",
+        "why": "the sermon code belongs to the citation's reference line, as in the other citations"
+      },
+      {
+        "find": "(2 Corinthiens 5:17 )",
+        "replace": "(2 Corinthiens 5:17)",
+        "kind": "typo",
+        "why": "space before the closing parenthesis"
+      },
+      {
+        "find": "Photo prise au centre ville de Kinshasa",
+        "replace": "Photo prise au centre-ville de Kinshasa",
+        "kind": "typo",
+        "why": "compound « centre-ville »"
+      },
+      {
+        "find": "du Judenstaat butte sur",
+        "replace": "du Judenstaat bute sur",
+        "kind": "typo",
+        "why": "verb « buter » (« bute »), not the noun « butte »"
+      },
+      {
+        "find": "« Judenfrage » - qui figure",
+        "replace": "« Judenfrage » – qui figure",
+        "kind": "typo",
+        "why": "spaced dash of an incise"
+      },
+      {
+        "find": "der Judenfrage » - par la question",
+        "replace": "der Judenfrage » – par la question",
+        "kind": "typo",
+        "why": "spaced dash of an incise"
+      },
+      {
+        "find": "« Le 12 juillet 1903, il note dans ces carnets",
+        "replace": "« Le 12 juillet 1903, il note dans ses carnets",
+        "kind": "typo",
+        "why": "homophone: his notebooks (« ses carnets »)"
+      },
+      {
+        "find": "**Le 12 juillet 1903, il note dans ces carnets",
+        "replace": "**Le 12 juillet 1903, il note dans ses carnets",
+        "kind": "typo",
+        "why": "homophone: his notebooks (« ses carnets »)"
+      },
+      {
+        "find": "la pluie-la pluie de l’automne et du printemps-en temps voulu",
+        "replace": "la pluie – la pluie de l’automne et du printemps – en temps voulu",
+        "kind": "typo",
+        "why": "the hyphens are the dashes of an incise in the ZADOC wording"
+      },
+      {
+        "find": "qui nous a introduit au Matin",
+        "replace": "qui nous a introduits au Matin",
+        "kind": "typo",
+        "why": "agreement: « nous a introduits »"
+      },
+      {
+        "find": "jadis considéré dans le futur",
+        "replace": "jadis considérée dans le futur",
+        "kind": "typo",
+        "why": "agreement with « l’expression »"
+      },
+      {
+        "find": "Ministère du 7ième ange",
+        "replace": "Ministère du 7ème ange",
+        "kind": "typo",
+        "why": "ordinal spelled as the author writes it elsewhere (« 7ème ange »)"
+      },
+      {
+        "find": "lire la première bible dans les étoiles",
+        "replace": "lire la première Bible dans les étoiles",
+        "kind": "typo",
+        "why": "capital for la Bible (batch 01 lesson)"
+      },
+      {
+        "find": "lors du refus de la reine Vatchi",
+        "replace": "lors du refus de la reine Vasthi",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, Esther 1:9: « La reine Vasthi »"
+      },
+      {
+        "find": "qui était un parent d’Elimélec mari",
+        "replace": "qui était un parent d’Élimélec mari",
+        "kind": "typo",
+        "why": "accent on the capital; the Segond database, Ruth 1:2: « Élimélec »"
+      },
+      {
+        "find": "qui était de la famille d’Elimélec",
+        "replace": "qui était de la famille d’Élimélec",
+        "kind": "typo",
+        "why": "accent on the capital; the Segond database, Ruth 2:3: « de la famille d’Élimélec »"
+      },
+      {
+        "find": "les connexions du message biblique du temps de la fin",
+        "replace": "les connexions du Message biblique du temps de la fin",
+        "kind": "message",
+        "why": "the end-time Message; the author writes « Message biblique du temps de la fin » everywhere else"
+      },
+      {
+        "find": "tu es envoyé avec **un message qui préparera",
+        "replace": "tu es envoyé avec **un Message qui préparera",
+        "kind": "message",
+        "why": "the end-time Message given to Branham, as « un Message pour préparer » in the same paragraph"
+      },
+      {
+        "find": "vue aussi charnelle de l’action divine.",
+        "replace": "vue aussi charnelle de l’action divine.",
+        "kind": "word",
+        "why": "PDF « l’action de divine »: the typesetter's stray « de », removed by the pass; approved"
+      },
+      {
+        "find": "attirent l’attention des médias du monde.",
+        "replace": "attirent l’attention des médias du monde.",
+        "kind": "word",
+        "why": "PDF « des medias monde »: the typesetter dropped « du », added by the pass; approved"
+      },
+      {
+        "find": "LE CRI DE MINUIT : L’ACCOMPLISSEMENT ULTIME",
+        "replace": "LE CRI DE MINUIT : L’ACCOMPLISSEMENT ULTIME",
+        "kind": "word",
+        "why": "PDF glyphs « M », « N » split inside « ACCOMPLISSEMENT »; the pass removed them; approved"
+      },
+      {
+        "find": "LES ÉVÉNEMENTS ACTUELS",
+        "replace": "LES ÉVÉNEMENTS ACTUELS",
+        "kind": "word",
+        "why": "PDF glyphs « N » split inside « ÉVÉNEMENTS »; the pass removed them; approved"
+      },
+      {
+        "find": "LE SEPTIÈME RELÈVEMENT DE LA SEMENCE DU SERPENT",
+        "replace": "LE SEPTIÈME RELÈVEMENT DE LA SEMENCE DU SERPENT",
+        "kind": "word",
+        "why": "PDF glyphs « M », « N » split inside « SEPTIÈME », « RELÈVEMENT », « SEMENCE »; the pass removed them; approved"
+      },
+      {
+        "find": "le lien suivant : http://www.mevar.org/imprimer/nehemie_patriote.pdf\n\nÀ la lumière",
+        "replace": "le lien suivant : http://www.mevar.org/imprimer/nehemie_patriote.pdf\n\nÀ la lumière",
+        "kind": "word",
+        "why": "the link is the author's, in his sentence (the check takes a mevar.org address alone on a line for the browser's print footer); « A » → « À » after it. Approved"
+      },
+      {
+        "find": "Il ne s’est pas contenté de voir",
+        "replace": "Il ne s’est pas contenté de voir",
+        "kind": "word",
+        "why": "PDF « Il ne sait pas contenter »: homophone slip « sait » → « s’est », « contenter » → « contenté »; approved"
+      },
+      {
+        "find": "ordonné sa belle-mère. Elle descendit à l’aire, et fit tout ce qu’avait ordonné sa belle-mère. Boaz",
+        "replace": "ordonné sa belle-mère. Boaz",
+        "kind": "word",
+        "why": "the reading prints Ruth 3:6 twice in a row; the Segond database, Ruth 3:6: « Elle descendit à l’aire, et fit tout ce qu’avait ordonné sa belle-mère. » (once); one copy removed"
+      },
+      {
+        "find": "Ainsi parle le Seigneur, l’Éternel : Aux montagnes",
+        "replace": "Ainsi parle le Seigneur, l’Éternel, Aux montagnes",
+        "kind": "revert",
+        "why": "the PDF has a comma; the Segond database, Ézéchiel 36:4: « Ainsi parle le Seigneur, l’Éternel, Aux montagnes »"
+      },
+      {
+        "find": "; car son jugement atteint jusqu’aux cieux",
+        "replace": "; Car son jugement atteint jusqu’aux cieux",
+        "kind": "revert",
+        "why": "the PDF has « Car »; the Segond database, Jérémie 51:9: « Car son châtiment atteint jusqu’aux cieux »"
+      },
+      {
+        "find": "liberté religieuse de chacun**. »\n\nLa suite à donner sur le plan national au document reste encore à déterminer. »",
+        "replace": "liberté religieuse de chacun**.\n>\n> La suite à donner sur le plan national au document reste encore à déterminer. »",
+        "kind": "markup",
+        "why": "the quoted Apic article ends after « La suite à donner… » (the PDF's closing »); that paragraph belongs to the quote"
+      },
+      {
+        "find": "Cet appel à sortir, ressemble",
+        "replace": "Cet appel à sortir ressemble",
+        "kind": "typo",
+        "why": "no comma between subject and verb"
+      },
+      {
+        "find": "Boaz n’a pas jeté sur aucune d’elle un regard",
+        "replace": "Boaz n’a pas jeté sur aucune d’elles un regard",
+        "kind": "typo",
+        "why": "agreement: « d’elles » (the servantes)"
+      },
+      {
+        "find": "c’est réveillez-vous et nettoyer vos lampes",
+        "replace": "c’est réveillez-vous et nettoyez vos lampes",
+        "kind": "typo",
+        "why": "imperative like « réveillez-vous »: « nettoyez »"
+      },
+      {
+        "find": "toute confusion sur la parole ne devait",
+        "replace": "toute confusion sur la Parole ne devait",
+        "kind": "message",
+        "why": "the Word of God takes « Parole »"
+      },
+      {
+        "find": "la propagation du message biblique dans le monde",
+        "replace": "la propagation du Message biblique dans le monde",
+        "kind": "message",
+        "why": "the end-time Message (« Message biblique du temps de la fin » elsewhere)"
+      },
+      {
+        "find": "Comme nous l’avons vu ; c’est Marc 13",
+        "replace": "Comme nous l’avons vu, c’est Marc 13",
+        "kind": "typo",
+        "why": "punctuation: comma, not semicolon, before the main clause"
+      },
+      {
+        "find": "institutions de Breton Woods",
+        "replace": "institutions de Bretton Woods",
+        "kind": "typo",
+        "why": "proper name: Bretton Woods"
+      },
+      {
+        "find": "Mahmoud Abas",
+        "replace": "Mahmoud Abbas",
+        "kind": "typo",
+        "why": "proper name: Mahmoud Abbas"
+      },
+      {
+        "find": "Barak Obama",
+        "replace": "Barack Obama",
+        "kind": "typo",
+        "why": "proper name: Barack Obama"
+      },
+      {
+        "find": "deux mille ans que Dieu a eus à faire",
+        "replace": "deux mille ans que Dieu a eu à faire",
+        "kind": "typo",
+        "why": "agreement: « eu » before an infinitive, no agreement"
+      },
+      {
+        "find": "Jacob et Ésaü (Edom) est",
+        "replace": "Jacob et Ésaü (Édom) est",
+        "kind": "typo",
+        "why": "accent on the capital, the Bible's « Édom » (as the pass wrote in Ézéchiel 36:5)"
+      },
+      {
+        "find": "Jacob et Ésaü (Edom). Dans",
+        "replace": "Jacob et Ésaü (Édom). Dans",
+        "kind": "typo",
+        "why": "accent on the capital: « Édom »"
+      },
+      {
+        "find": "aborder le sujet d’Edom en profondeur",
+        "replace": "aborder le sujet d’Édom en profondeur",
+        "kind": "typo",
+        "why": "accent on the capital: « Édom »"
+      },
+      {
+        "find": "il l’appela du nom d’Enosch.",
+        "replace": "il l’appela du nom d’Énosch.",
+        "kind": "typo",
+        "why": "the Segond database, Genèse 4:26: « il l’appela du nom d’Énosch »"
+      },
+      {
+        "find": "Adam, Seth, Enosch, Kainan, Maléléel",
+        "replace": "Adam, Seth, Énosch, Kaïnan, Maléléel",
+        "kind": "typo",
+        "why": "the Bible's spelling: Genèse 4:26 « Énosch »; Luc 3:37 « Maléléel, fils de Kaïnan » (Segond database)"
+      },
+      {
+        "find": "la génération d’Enosch. Enosch la frappa",
+        "replace": "la génération d’Énosch. Énosch la frappa",
+        "kind": "typo",
+        "why": "the Segond database, Genèse 4:26: « Énosch »"
+      },
+      {
+        "find": "dans la génération de Kainan. Kainan frappa",
+        "replace": "dans la génération de Kaïnan. Kaïnan frappa",
+        "kind": "typo",
+        "why": "the Segond database, Luc 3:37: « Kaïnan »"
+      },
+      {
+        "find": "C’est aussi pour eux qu’Enoch, le septième",
+        "replace": "C’est aussi pour eux qu’Énoch, le septième",
+        "kind": "typo",
+        "why": "the Segond database, Jude 1:14: « C’est aussi pour eux qu’Énoch, le septième depuis Adam »"
+      },
+      {
+        "find": "depuis Adam jusqu’à Hénoch, la",
+        "replace": "depuis Adam jusqu’à Hénoc, la",
+        "kind": "typo",
+        "why": "the author's « Hénoc » everywhere else (Genèse's spelling)"
+      },
+      {
+        "find": "par l’Agneau, les appelées, les élus",
+        "replace": "par l’Agneau, les appelés, les élus",
+        "kind": "typo",
+        "why": "agreement: « les appelés », as in the Apocalypse 17:14 he quotes next (Segond database)"
+      },
+      {
+        "find": "bien que j’ai le sentiment",
+        "replace": "bien que j’aie le sentiment",
+        "kind": "typo",
+        "why": "subjunctive after « bien que »: « j’aie »"
+      }
+    ],
+    "date": "2011-08-07",
+    "decided": {
+      "date": "Samuel, 2026-10-03: « Yes, signature dates »: the book states no date at its opening; its signature reads « Kinshasa, le 07/08/2011 »"
+    },
+    "replaced_date": "",
+    "tags": [
+      "Exhortations",
+      "2011",
+      "Message du temps de la fin",
+      "Prophétie",
+      "Fêtes de l'Éternel"
+    ]
+  },
+  "markdown/onedrive/pdf/mariage_final_pdf.md": {
+    "title": "Le mariage et les péchés du sexe",
+    "fixes": [
+      {
+        "find": "**Table des matières**",
+        "replace": "**Table des Matières**",
+        "kind": "revert",
+        "why": "the PDF's case: « Table des Matières »"
+      },
+      {
+        "find": "Introduction générale ................................................................................... 5",
+        "replace": "Introduction Générale (p. 5)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Première partie : Le mariage dans le royaume de Dieu ou le mariage en Christ ...................................................................................... 11",
+        "replace": "Première Partie : Le mariage dans le royaume de Dieu ou le mariage en Christ (p. 11)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Premièrement : Procédure biblique des fiançailles ......................... 12",
+        "replace": "Premièrement : Procédure biblique des fiançailles (p. 12)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Deuxièmement : Le Commandement fut donné à l’homme .......... 21",
+        "replace": "Deuxièmement : Le Commandement fut donné à l’homme (p. 21)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Troisièmement : La domination fut donnée à l’homme ................. 23",
+        "replace": "Troisièmement : La domination fut donnée à l’homme (p. 23)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Quatrièmement : La soumission fut donnée à la femme ................ 24",
+        "replace": "Quatrièmement : La soumission fut donnée à la femme (p. 24)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Cinquièmement : Femme insoumise : ouvrière avec le diable .... 27",
+        "replace": "Cinquièmement : Femme insoumise : ouvrière avec le diable (p. 27)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Sixièmement : Le Seigneur n’admet pas les compromis ................ 31",
+        "replace": "Sixièmement : Le Seigneur n’admet pas les compromis (p. 31)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Septièmement : L’homme est le chef de la femme ............................ 35",
+        "replace": "Septièmement : L’homme est le chef de la femme (p. 35)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Huitièmement : Comparativement à Christ et à l’Église ................. 36",
+        "replace": "Huitièmement : Comparativement à Christ et à l’Église (p. 36)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Neuvièmement : Le Ministère de la femme ......................................... 40",
+        "replace": "Neuvièmement : Le Ministère de la femme (p. 40)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Dixièmement : La médisance : un péché destructeur des foyers ................................................................................................... 46",
+        "replace": "Dixièmement : La médisance : un péché destructeur des foyers (p. 46)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Onzièmement : La position des époux dans le foyer ....................... 48",
+        "replace": "Onzièmement : La position des époux dans le foyer (p. 48)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Douzièmement : Le jugement des affaires dans le foyer ................ 49",
+        "replace": "Douzièmement : Le jugement des affaires dans le foyer (p. 49)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Conclusion de la première partie ............................................................ 55",
+        "replace": "Conclusion de la Première Partie (p. 55)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Deuxième partie : Impudicité et adultère ............................................. 59",
+        "replace": "Deuxième Partie : Impudicité et adultère (p. 59)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Treizièmement : Principe fondamental : Nouvelle Naissance ..... 60",
+        "replace": "Treizièmement : Principe fondamental : Nouvelle Naissance (p. 60)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! ...................................................................... 66",
+        "replace": "Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! (p. 66)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Quinzièmement : Qui est dans une position d’adultère ? ............... 71",
+        "replace": "Quinzièmement : Qui est dans une position d’adultère ? (p. 71)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Seizièmement : Que le lit conjugal soit exempt de souillure ........ 75",
+        "replace": "Seizièmement : Que le lit conjugal soit exempt de souillure (p. 75)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Conclusion de la deuxième partie .......................................................... 81",
+        "replace": "Conclusion de la Deuxième Partie (p. 81)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Dieu ? ..................................................................................... 85",
+        "replace": "Dieu ? (p. 85)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Conclusion finale ........................................................................................... 94",
+        "replace": "Conclusion finale (p. 94)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Dix-septièmement : Comment un couple",
+        "replace": "Dix-septièmement : Comment un couple",
+        "kind": "word",
+        "why": "approve the pass: « Diseptièmement » is a typo for « Dix-septièmement », one word"
+      },
+      {
+        "find": "Introduction générale\n\nLa pensée originelle",
+        "replace": "Introduction Générale\n\nLa pensée originelle",
+        "kind": "revert",
+        "why": "the PDF's case kept in the section title: « Introduction Générale », as in the table of contents"
+      },
+      {
+        "find": "Première partie :\n\nLe mariage dans le royaume",
+        "replace": "Première Partie : Le mariage dans le royaume",
+        "kind": "revert",
+        "why": "the PDF's case kept in the section title: « Première Partie », as in the table of contents; on one line, as the table of contents gives the title"
+      },
+      {
+        "find": "Or, il n’en est pas ainsi. **Il existe",
+        "replace": "Or, il n’en est pas ainsi. **Il existe",
+        "kind": "word",
+        "why": "approve the pass: « il n’en n’est pas » has a doubled « n’ », typesetter's slip"
+      },
+      {
+        "find": "> **l’homme et la femme étaient tous les deux nus",
+        "replace": "> **L’homme et la femme étaient tous les deux nus",
+        "kind": "typo",
+        "why": "a reading set apart begins with a capital"
+      },
+      {
+        "find": "C’est d’ailleurs Lémek, l’un des fils",
+        "replace": "C’est d’ailleurs Lémec, l’un des fils",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 4:19: « Lémec prit deux femmes »"
+      },
+      {
+        "find": "Lémek prit deux femmes appelées",
+        "replace": "Lémec prit deux femmes appelées",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 4:19: « Lémec prit deux femmes »"
+      },
+      {
+        "find": "Mais s’ils manquent de continence qu’ils se marient ; car vaut mieux se marier",
+        "replace": "Mais s’ils manquent de continence qu’ils se marient ; car il vaut mieux se marier",
+        "kind": "word",
+        "why": "word the Segond text has, dropped in the reading: the Segond database, 1 Corinthiens 7:9: « car il vaut mieux se marier que de brûler »"
+      },
+      {
+        "find": "revint avec Rébécca pour la donner",
+        "replace": "revint avec Rebecca pour la donner",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "s’être assuré que Rébécca était la volonté",
+        "replace": "s’être assuré que Rebecca était la volonté",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "son fils. Rébécca qui n’avait jamais vu",
+        "replace": "son fils. Rebecca qui n’avait jamais vu",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "marier. Rébécca, la sœur qui attend",
+        "replace": "marier. Rebecca, la sœur qui attend",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "fut conduit par Rébecca vers ses parents",
+        "replace": "fut conduit par Rebecca vers ses parents",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "comme Rébécca l’a fait, car",
+        "replace": "comme Rebecca l’a fait, car",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "tout homme.** Rébécca n’avait aucune idée",
+        "replace": "tout homme.** Rebecca n’avait aucune idée",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "**Rébécca était soumise et obéissante",
+        "replace": "**Rebecca était soumise et obéissante",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "pour Isaac et Rébecca.** (Gen 26",
+        "replace": "pour Isaac et Rebecca.** (Gen 26",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:15: « Rebecca, née de Bethuel »"
+      },
+      {
+        "find": "Rébécca est là devant toi ; prends-la",
+        "replace": "Rebecca est là devant toi ; prends-la",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:51: « Voici Rebecca devant toi »"
+      },
+      {
+        "find": "> cette affaire vient de l’Éternel, nous ne pouvons",
+        "replace": "> Cette affaire vient de l’Éternel, nous ne pouvons",
+        "kind": "typo",
+        "why": "a reading set apart begins with a capital"
+      },
+      {
+        "find": "comme Laban et Bétouel ont dit",
+        "replace": "comme Laban et Bethuel ont dit",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 24:50: « Laban et Bethuel répondirent »"
+      },
+      {
+        "find": "Rébécca et Isaac se sont découverts l’un l’autre dans la tente de la mère d’Isaac : Isaac conduisit Rébécca dans la tente de sa mère Sara. Il prit Rébécca qui devint sa femme, et il l’aima (Gen 24 :67). Il ne pouvait",
+        "replace": "Rebecca et Isaac se sont découverts l’un l’autre dans la tente de la mère d’Isaac :\n\n> Isaac conduisit Rebecca dans la tente de sa mère Sara. Il prit Rebecca qui devint sa femme, et il l’aima (Gen 24 :67).\n\nIl ne pouvait",
+        "kind": "markup",
+        "why": "a reading he references set apart as a > quote; « Rebecca », the Segond database, Genèse 24:67: « Isaac conduisit Rebecca dans la tente de Sara »"
+      },
+      {
+        "find": "fille de Beéri, le Hittite et Basmath, fille d’Elôm, le Hittite",
+        "replace": "fille de Beéri, le Hittite et Basmath, fille d’Élon, le Hittite",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Genèse 26:34: « Basmath, fille d’Élon »"
+      },
+      {
+        "find": "Esaü en se mariant hors",
+        "replace": "Ésaü en se mariant hors",
+        "kind": "typo",
+        "why": "accent on the capital, as elsewhere in the text"
+      },
+      {
+        "find": "La soumission d’Abigaël",
+        "replace": "La soumission d’Abigaïl",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling, as in the rest of the text: the Segond database, 1 Samuel 25:3: « Abigaïl »"
+      },
+      {
+        "find": "Or il se trouvait à Karmel pour la tonte",
+        "replace": "Or il se trouvait à Carmel pour la tonte",
+        "kind": "typo",
+        "why": "place name in the Bible's spelling: the Segond database, 1 Samuel 25:2: « il se trouvait à Carmel pour la tonte »"
+      },
+      {
+        "find": "> et moi, ta servante, je n’ai pas vu",
+        "replace": "> Et moi, ta servante, je n’ai pas vu",
+        "kind": "typo",
+        "why": "a reading set apart begins with a capital"
+      },
+      {
+        "find": "comme Jésabel et Vasthie.",
+        "replace": "comme Jézabel et Vasthi.",
+        "kind": "typo",
+        "why": "names as elsewhere in the text and in the Bible: the Segond database, 1 Rois 21:25 « Jézabel », Esther 1:9 « Vasthi »"
+      },
+      {
+        "find": "conflit du proche orient et par",
+        "replace": "conflit du Proche-Orient et par",
+        "kind": "typo",
+        "why": "proper noun of a region: capitals and hyphen"
+      },
+      {
+        "find": "Sa femme Dalila, de connivence",
+        "replace": "Sa femme Delila, de connivence",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Juges 16:4: « Elle se nommait Delila »"
+      },
+      {
+        "find": "par la voix de Dalila et a fini",
+        "replace": "par la voix de Delila et a fini",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, Juges 16:4: « Elle se nommait Delila »"
+      },
+      {
+        "find": "croyants, il n’en n’est pas ainsi",
+        "replace": "croyants, il n’en est pas ainsi",
+        "kind": "word",
+        "why": "doubled « n’ », typesetter's slip (the pass fixed the same slip in the introduction)"
+      },
+      {
+        "find": "Mon peuple a pour oppresseur des gamins",
+        "replace": "Mon peuple a pour oppresseurs des gamins",
+        "kind": "typo",
+        "why": "agreement slip in the reading: the Segond database, Ésaïe 3:12: « Mon peuple a pour oppresseurs des enfants »"
+      },
+      {
+        "find": "mais Il dit : **« Je ne fais rien de moi-même »**, puis Il dit encore : **« Moi, Je dis ce que j’ai vu chez mon père »** (Jean 8",
+        "replace": "mais Il dit : **« Je ne fais rien de moi-même », puis Il dit encore : « Moi, Je dis ce que j’ai vu chez mon père »** (Jean 8",
+        "kind": "restore",
+        "why": "the PDF bolds « puis Il dit encore » too: one bold from « Je ne fais » to « mon père »"
+      },
+      {
+        "find": "> **Venez à Moi ? Vous qui êtes fatigués",
+        "replace": "> **Venez à Moi, vous qui êtes fatigués",
+        "kind": "typo",
+        "why": "punctuation: a comma, not « ? », before « vous qui êtes fatigués » (the Segond database, Matthieu 11:28: « Venez à moi, vous tous qui êtes fatigués »)"
+      },
+      {
+        "find": "Il n’y pas de ministère spécial",
+        "replace": "Il n’y a pas de ministère spécial",
+        "kind": "word",
+        "why": "« il n’y pas » → « il n’y a pas », typesetter's dropped « a »"
+      },
+      {
+        "find": "la femme d’Elqana, mère de Samuel",
+        "replace": "la femme d’Elkana, mère de Samuel",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling: the Segond database, 1 Samuel 1:1: « nommé Elkana »"
+      },
+      {
+        "find": "les femmes de valeur, mais Il y avait une",
+        "replace": "les femmes de valeur, mais il y avait une",
+        "kind": "typo",
+        "why": "capital slip: « il » mid-sentence"
+      },
+      {
+        "find": "nous a déjà averti :",
+        "replace": "nous a déjà avertis :",
+        "kind": "typo",
+        "why": "agreement: « nous a déjà avertis »"
+      },
+      {
+        "find": "il doit être réglé le plus tôt possible",
+        "replace": "il doit être réglé le plus tôt possible",
+        "kind": "word",
+        "why": "approve the pass: « le plutôt possible » → « le plus tôt possible », wrong homophone"
+      },
+      {
+        "find": "que l’éternel ton Dieu te donne (Deut 16 :18)",
+        "replace": "que l’Éternel ton Dieu te donne (Deut 16 :18)",
+        "kind": "typo",
+        "why": "capital on the divine name; the Segond database, Deutéronome 16:20: « que l’Éternel, ton Dieu, te donne »"
+      },
+      {
+        "find": "l’ancien qui prend partie dans les affaires de foyer",
+        "replace": "l’ancien qui prend parti dans les affaires de foyer",
+        "kind": "typo",
+        "why": "« prendre parti » (take sides), as earlier in the same paragraph"
+      },
+      {
+        "find": "parce que Dieu lui-même ne prend pas partie, mais",
+        "replace": "parce que Dieu lui-même ne prend pas parti, mais",
+        "kind": "typo",
+        "why": "« prendre parti » (take sides)"
+      },
+      {
+        "find": "car c’est Dieu qui produit vous le vouloir",
+        "replace": "car c’est Dieu qui produit en vous le vouloir",
+        "kind": "word",
+        "why": "dropped word in the reading; the Segond database, Philippiens 2:13: « c’est Dieu qui produit en vous le vouloir et le faire »"
+      },
+      {
+        "find": "limité le Message du temps de la fin au fait de sortir",
+        "replace": "limité le Message du Temps de la fin au fait de sortir",
+        "kind": "revert",
+        "why": "the PDF has « Temps »; keep the author's capital"
+      },
+      {
+        "find": "qui s’attache à un non-croyant après être venu à la foi**",
+        "replace": "qui s’attache à un non-croyant après être venue à la foi**",
+        "kind": "typo",
+        "why": "agreement slip: the subject is « une femme née de nouveau »"
+      },
+      {
+        "find": "exhorte les chrétiens à se préserver tout entier, corps",
+        "replace": "exhorte les chrétiens à se préserver tout entiers, corps",
+        "kind": "typo",
+        "why": "agreement slip with « les chrétiens », as the reading that follows: « tout entiers »"
+      },
+      {
+        "find": "se souillent tout entier, en vivant",
+        "replace": "se souillent tout entiers, en vivant",
+        "kind": "typo",
+        "why": "agreement slip with the plural subject « ceux qui »"
+      },
+      {
+        "find": "vous vivrez**, Car tous ceux qui sont conduits",
+        "replace": "vous vivrez**, car tous ceux qui sont conduits",
+        "kind": "typo",
+        "why": "lower case after a comma; the Segond database, Romains 8:14: « car tous ceux qui sont conduits »"
+      },
+      {
+        "find": "qui la liait à son mari ; Si donc du vivant",
+        "replace": "qui la liait à son mari ; si donc du vivant",
+        "kind": "typo",
+        "why": "lower case after a semicolon"
+      },
+      {
+        "find": "un homme a-t-il le droit se divorcer sa femme",
+        "replace": "un homme a-t-il le droit de divorcer sa femme",
+        "kind": "typo",
+        "why": "typesetter's slip « se » for « de »"
+      },
+      {
+        "find": "Dieu sépara Abraham d’Agar et de son fils. (Gen 21 : 9-12) Pendant",
+        "replace": "Dieu sépara Abraham d’Agar et de son fils. (Gen 21 : 9-12). Pendant",
+        "kind": "typo",
+        "why": "full stop after the reference before a new sentence"
+      },
+      {
+        "find": "Télem et Ouri.\n\n> **Parmi ceux d’Israël**",
+        "replace": "Télem et Ouri.\n>\n> **Parmi ceux d’Israël**",
+        "kind": "markup",
+        "why": "one reading (Esd 10:18-44): keep the list in a single quote"
+      },
+      {
+        "find": "la voie de Dieu**.\n\n(Actes 18 :24-26)",
+        "replace": "la voie de Dieu**. (Actes 18 :24-26)",
+        "kind": "markup",
+        "why": "the reference closes its reading, as everywhere else"
+      },
+      {
+        "find": "> **22 J’ai été faible avec les faibles, afin de gagner les faibles**.",
+        "replace": "> **22** **J’ai été faible avec les faibles, afin de gagner les faibles**.",
+        "kind": "markup",
+        "why": "verse number apart from the author's bold"
+      },
+      {
+        "find": "Premièrement\n\nProcédure biblique des fiançailles",
+        "replace": "Premièrement : Procédure biblique des fiançailles",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Deuxièmement\n\nLe Commandement fut donné à l’homme",
+        "replace": "Deuxièmement : Le Commandement fut donné à l’homme",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Troisièmement\n\nLa domination fut donnée à l’homme",
+        "replace": "Troisièmement : La domination fut donnée à l’homme",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Quatrièmement\n\nLa soumission fut donnée à la femme",
+        "replace": "Quatrièmement : La soumission fut donnée à la femme",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Cinquièmement\n\nFemme insoumise : ouvrière avec le diable",
+        "replace": "Cinquièmement : Femme insoumise : ouvrière avec le diable",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Sixièmement\n\nLe Seigneur n’admet pas les compromis",
+        "replace": "Sixièmement : Le Seigneur n’admet pas les compromis",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Septièmement\n\nL’homme est le chef de la femme",
+        "replace": "Septièmement : L’homme est le chef de la femme",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Huitièmement\n\nComparativement à Christ  \net à l’Église",
+        "replace": "Huitièmement : Comparativement à Christ et à l’Église",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Neuvièmement\n\nLe Ministère de la femme",
+        "replace": "Neuvièmement : Le Ministère de la femme",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Dixièmement\n\nLa médisance : un péché destructeur des foyers",
+        "replace": "Dixièmement : La médisance : un péché destructeur des foyers",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Onzièmement\n\nLa position des époux dans le foyer",
+        "replace": "Onzièmement : La position des époux dans le foyer",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Douzièmement\n\nLe jugement des affaires dans le foyer",
+        "replace": "Douzièmement : Le jugement des affaires dans le foyer",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Deuxième Partie\n\nImpudicité et adultère",
+        "replace": "Deuxième Partie : Impudicité et adultère",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Treizièmement\n\nPrincipe fondamental : Nouvelle Naissance",
+        "replace": "Treizièmement : Principe fondamental : Nouvelle Naissance",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Quatorzièmement\n\nVous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ !",
+        "replace": "Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ !",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Quinzièmement\n\nQui est dans une position d’adultère ?",
+        "replace": "Quinzièmement : Qui est dans une position d’adultère ?",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Dix-septièmement\n\nCOMMENT UN COUPLE PEUT-IL SE METTRE AU SERVICE DE DIEU ?",
+        "replace": "Dix-septièmement : COMMENT UN COUPLE PEUT-IL SE METTRE AU SERVICE DE DIEU ?",
+        "kind": "word",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole (it takes over the approval of the same line: approves the pass: the PDF's « Diseptièmement » is a misspelling of « Dix-septièmement »)"
+      },
+      {
+        "find": "Seizièmement\n\nQue le lit conjugal soit exempt de souillure… (Hébr 13 :4)",
+        "replace": "Seizièmement : Que le lit conjugal soit exempt de souillure… (Hébr 13 :4)",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      }
+    ],
+    "date": "2012-01-09",
+    "decided": {
+      "date": "Samuel, 2026-10-03: « 2012, the PDF's creation »: the book prints no date; its PDF was created on 9 January 2012 (5 January 2023 is the .docx re-export, the day mevar.org published it)"
+    },
+    "replaced_date": "",
+    "tags": [
+      "Publications",
+      "2012",
+      "mariage",
+      "péchés sexuels",
+      "doctrine chrétienne"
     ]
   }
 }

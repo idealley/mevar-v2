@@ -122,6 +122,10 @@ the verification done by a script and by sampling.
 - **Paths** (goal 19): after 86 promotes a batch, `88-mevar-paths.mjs`
   moves its texts to `markdown/mevar/<title>-<year>.md`; the pipeline
   keeps their original path as its key.
+- **Personal data** (Samuel, batch 08: « we can remove the phone number »):
+  a private phone number or e-mail address does not reach the site. 86
+  removes it from a text it promotes, and from the comparison, and counts
+  it per text without quoting it (batch 09).
 - **Batches:** `scripts/mevar-editorial-batches.json`. The two books
   (`le_royaume_de_dieu_kadjani`, `les_cinq_ministeres_de_la_parole`, 200,000
   words together) get a batch of their own.
@@ -171,3 +175,13 @@ and CMPP sources; merging versions (goal 09 chose one).
 - The OneDrive subtitles are inconsistent: « Exhortation de Mai 2010 »,
   « Exhortation d'Avril 2009 » beside the editor's « Exhortation de mai
   2007 »; a pass on the subtitles alone would align them.
+- depliant's phone number was removed by hand (batch 09): the leaflet is a
+  draft without `editorial_pass`, which 73 does not protect, so a rerun of
+  73 would put the line back from its cache. Its three columns come out of
+  pdftohtml interleaved; a column-aware extraction would let it through
+  the editorial path. Found by batch 09's review.
+- 86 removes personal data from the texts it promotes; the repository still
+  holds some elsewhere: an author's e-mail in `manifests/mevar-authors.json`,
+  the drafts and texts not yet promoted, and the OneDrive duplicates of
+  promoted books (`le_mariage_et_les_peches_du_sexe`). Found by batch 09's
+  reviews.
