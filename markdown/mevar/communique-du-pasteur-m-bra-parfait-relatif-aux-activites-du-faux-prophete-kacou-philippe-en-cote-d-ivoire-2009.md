@@ -47,7 +47,7 @@ bible_refs:
   - "Jean 4:5-6"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/comkakaou.pdf"
-edited_pdf: "/files/mevar-edited/communique-du-pasteur-m-bra-parfait-relatif-aux-activites-du-faux-prophete-kacou-philippe-en-cote-d-ivoire-2009.pdf"
+text_pdf: "/files/mevar-text/communique-du-pasteur-m-bra-parfait-relatif-aux-activites-du-faux-prophete-kacou-philippe-en-cote-d-ivoire-2009.pdf"
 ---
 Mes chers amis chrétiens ivoiriens, depuis quelques années, un Monsieur se nommant **KACOU Philippe** prétend avoir reçu des révélations de la part de Dieu et se dit avoir reçu de Lui, un message à adresser à la chrétienté. Ce message dit que toutes les versions de la Bible qui ne sont pas la version de Darby sont à brûler parce qu’elles seraient des canaris de fétiches. Ce message dit encore que tous les chrétiens doivent être rebaptisés dans le nouveau baptême « **pour la restitution** ». Ce message dit que ce Monsieur KACOU Philippe est le dernier Messager de Dieu sur la terre et que tout le monde doit se conformer à son message pour être appelé chrétien aujourd’hui et que celui qui ne croit pas au message de ce Monsieur n’est pas chrétien.
 

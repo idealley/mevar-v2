@@ -131,7 +131,7 @@ bible_refs:
   - "2 Corinthiens 11:2"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/huitieme-messager.pdf"
-edited_pdf: "/files/mevar-edited/mise-au-point-sur-la-question-du-huitieme-messager.pdf"
+text_pdf: "/files/mevar-text/mise-au-point-sur-la-question-du-huitieme-messager.pdf"
 ---
 Mes chers frères et sœurs, je voudrais encore vous saluer dans le Nom précieux de notre Seigneur et Sauveur Jésus-Christ par ces Paroles de Pierre : « Sachez tout d’abord vous-mêmes qu’aucune prophétie de l’Écriture ne peut être **un objet d’interprétation particulière**, car ce n’est pas par une volonté d’homme qu’une prophétie a jamais été apportée, mais c’est poussés par l’Esprit que des hommes ont parlé de la part de Dieu » 2 Pier 1 : 20-21 ; et aussi avec une autre Parole dans 1 Corinthiens 12 : « …**à un autre la diversité des langues ; à un autre l’interprétation des langues** ».
 

@@ -24,6 +24,7 @@ bible_refs:
   - "Ésaïe 53"
   - "Apocalypse 3"
   - "Matthieu 24:14"
+local_pdf: "/files/onedrive/sort-de-cain.pdf"
 ---
 Genèse chapitre 4. Le sort de Caïn. C’est là que nous allons lire. Genèse chapitre 4 à partir du premier verset (Genèse 4:1-16) :
 

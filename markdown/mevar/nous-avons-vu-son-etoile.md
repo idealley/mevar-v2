@@ -43,6 +43,7 @@ bible_refs:
   - "Matthieu 26:41"
   - "Marc 13:35"
   - "Matthieu 24:14"
+local_pdf: "/files/onedrive/exho-fin-2014.pdf"
 ---
 ## Exhortation de fin d'année 2014
 

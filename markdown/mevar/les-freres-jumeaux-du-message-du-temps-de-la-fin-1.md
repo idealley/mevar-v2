@@ -37,6 +37,7 @@ bible_refs:
   - "Luc 21"
   - "Marc 13"
   - "Matthieu 25"
+text_pdf: "/files/mevar-text/les-freres-jumeaux-du-message-du-temps-de-la-fin-1.pdf"
 ---
 ## Première Partie
 

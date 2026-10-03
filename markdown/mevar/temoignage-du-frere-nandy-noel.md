@@ -61,7 +61,7 @@ bible_refs:
   - "1 Pierre 2:4,5"
 editorial_pass: "2026-10-01"
 local_pdf: "/files/onedrive/temoignagenandy.pdf"
-edited_pdf: "/files/mevar-edited/temoignage-du-frere-nandy-noel.pdf"
+text_pdf: "/files/mevar-text/temoignage-du-frere-nandy-noel.pdf"
 ---
 Je suis le frère Nandy Noël Gbaha de l’assemblée de Guibéroua en Côte d’Ivoire. Je vous salue tous, frères et sœurs, dans le nom de notre bien-aimé Seigneur et Sauveur Jésus-Christ, par ces paroles tirées **d’Apocalypse 12 : 11** :
 

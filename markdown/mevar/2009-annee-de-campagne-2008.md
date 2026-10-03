@@ -87,7 +87,7 @@ bible_refs:
   - "2 Rois 10:15-27"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exhobilan2008.pdf"
-edited_pdf: "/files/mevar-edited/2009-annee-de-campagne-2008.pdf"
+text_pdf: "/files/mevar-text/2009-annee-de-campagne-2008.pdf"
 ---
 ## Appel à la guerre – appel au combat contre Babylone
 

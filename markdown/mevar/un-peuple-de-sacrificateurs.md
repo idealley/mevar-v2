@@ -91,6 +91,7 @@ bible_refs:
   - "Psaumes 82:6"
   - "Jean 10:34-36"
   - "Exode 29:43-46"
+text_pdf: "/files/mevar-text/un-peuple-de-sacrificateurs.pdf"
 ---
 > Heureux celui qui lit et ceux qui entendent les paroles de la prophétie, et qui gardent les choses qui y sont écrites! Car le temps est proche. Jean aux sept Églises qui sont en Asie: que la grâce et la paix vous soient données de la part de celui qui est, qui était, et qui vient, et de la part des sept esprits qui sont devant son trône, et de la part de Jésus-Christ, le témoin fidèle, le premier-né des morts, et le prince des rois de la terre! A celui qui nous aime, qui nous a délivrés de nos péchés par son sang, et qui a fait de nous un royaume, des sacrificateurs pour Dieu son Père, à lui soient la gloire et la puissance, aux siècles des siècles! Amen! Voici, il vient avec les nuées. Et tout oeil le verra, même ceux qui l'ont percé; et toutes les tribus de la terre se lamenteront à cause de lui. Oui. Amen! Je suis l'alpha et l'oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout-Puissant. (Apocalypse 1:3-8).
 

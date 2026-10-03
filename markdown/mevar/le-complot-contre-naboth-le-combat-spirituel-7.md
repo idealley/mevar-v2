@@ -18,6 +18,7 @@ authors:
 ghost_id: "6448fa86db90770001518f8f"
 uuid: "61b3781a-44ca-47f1-a3fd-f96b87274444"
 stream_url: "https://mevar.org/le-complot-contre-naboth-le-combat-spirituel-7/"
+text_pdf: "/files/mevar-text/le-complot-contre-naboth-le-combat-spirituel-7.pdf"
 ---
 ## Les complots de Satan (7) - Le combat spirituel
 

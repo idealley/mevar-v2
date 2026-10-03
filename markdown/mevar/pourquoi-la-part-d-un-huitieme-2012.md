@@ -133,7 +133,7 @@ bible_refs:
   - "Ésaïe 40:9"
 editorial_pass: "2026-10-01"
 local_pdf: "/files/onedrive/pourquoi-huitieme.pdf"
-edited_pdf: "/files/mevar-edited/pourquoi-la-part-d-un-huitieme-2012.pdf"
+text_pdf: "/files/mevar-text/pourquoi-la-part-d-un-huitieme-2012.pdf"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole que notre frère Paul a adressée aux Éphésiens au chapitre 5 :
 

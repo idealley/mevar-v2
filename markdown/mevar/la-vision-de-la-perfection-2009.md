@@ -43,7 +43,7 @@ bible_refs:
   - "Apocalypse 21"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/la-vision-de-la-perfection.pdf"
-edited_pdf: "/files/mevar-edited/la-vision-de-la-perfection-2009.pdf"
+text_pdf: "/files/mevar-text/la-vision-de-la-perfection-2009.pdf"
 ---
 Mes frères et sœurs, que Dieu vous bénisse ce matin. Nous allons déjà lire dans Jérémie chapitre 18, du verset 1 au verset 6 :
 

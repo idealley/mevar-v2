@@ -61,7 +61,7 @@ bible_refs:
   - "Jean 4:29"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/exo-mars12.pdf"
-edited_pdf: "/files/mevar-edited/jesus-christ-le-bon-samaritain-2012.pdf"
+text_pdf: "/files/mevar-text/jesus-christ-le-bon-samaritain-2012.pdf"
 ---
 Mes chers frères et sœurs, je voudrais vous saluer au nom de notre Seigneur et Sauveur Jésus-Christ par cette Parole de Jean chapitre 1, le verset 18 : « Personne n’a jamais vu Dieu ; **le Fils unique, qui est dans le sein du Père, est celui qui l’a fait connaître**. »
 

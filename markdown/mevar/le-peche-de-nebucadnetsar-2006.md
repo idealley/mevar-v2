@@ -29,7 +29,7 @@ bible_refs:
 published_with: "mevar/le-peche-de-nebucadnetsar-roi-de-babylone-2006"
 editorial_pass: "2026-10-01"
 local_pdf: "/files/onedrive/peche.pdf"
-edited_pdf: "/files/mevar-edited/le-peche-de-nebucadnetsar-2006.pdf"
+text_pdf: "/files/mevar-text/le-peche-de-nebucadnetsar-2006.pdf"
 ---
 Je vous salue tous, mes bien-aimés frères et sœurs en Jésus-Christ notre Seigneur et sauveur en ce mois spécial de décembre 2006, par cette Parole d’Amos.
 

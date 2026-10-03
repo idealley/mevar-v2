@@ -51,7 +51,7 @@ bible_refs:
   - "Jérémie 50:28"
 editorial_pass: "2026-09-28"
 local_pdf: "/files/onedrive/exhoavril2010.pdf"
-edited_pdf: "/files/mevar-edited/l-ecriture-sur-la-muraille-de-babylone-2010.pdf"
+text_pdf: "/files/mevar-text/l-ecriture-sur-la-muraille-de-babylone-2010.pdf"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du prophète Jérémie :
 

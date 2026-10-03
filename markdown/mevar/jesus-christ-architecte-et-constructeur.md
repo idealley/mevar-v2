@@ -24,6 +24,7 @@ bible_refs:
   - "Matthieu 16"
   - "Matthieu 16:16-18"
   - "1 Samuel 15:22-24"
+local_pdf: "/files/onedrive/exho-mi-juillet-2009.pdf"
 ---
 ## Exhortation de mi-juillet 2009
 

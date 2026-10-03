@@ -777,7 +777,7 @@ bible_refs:
   - "1 Jean 4"
 editorial_pass: "2026-10-03"
 local_pdf: "/files/onedrive/les-cinq-ministeres-de-la-parole.pdf"
-edited_pdf: "/files/mevar-edited/les-cinq-ministeres-de-la-parole-dans-la-vision-des-temps-de-la-fin-2004.pdf"
+text_pdf: "/files/mevar-text/les-cinq-ministeres-de-la-parole-dans-la-vision-des-temps-de-la-fin-2004.pdf"
 ---
 Les Cinq Ministères de la Parole dans la vision des temps de la fin
 

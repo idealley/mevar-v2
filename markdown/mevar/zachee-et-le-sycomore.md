@@ -27,6 +27,7 @@ bible_refs:
   - "Actes 10:17-20"
   - "Romains 10:17"
   - "Luc 18:8"
+local_pdf: "/files/onedrive/exho-aout11.pdf"
 ---
 ## Exhortation d'août 2011
 

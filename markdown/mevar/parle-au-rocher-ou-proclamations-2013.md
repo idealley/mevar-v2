@@ -53,7 +53,7 @@ bible_refs:
   - "Marc 11"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/parle-au-rocher.pdf"
-edited_pdf: "/files/mevar-edited/parle-au-rocher-ou-proclamations-2013.pdf"
+text_pdf: "/files/mevar-text/parle-au-rocher-ou-proclamations-2013.pdf"
 ---
 Nous remercions le Seigneur pour l’occasion qu’Il nous donne d’écouter Sa Parole ce matin. Je voudrais continuer sur un sujet que j’ai abordé ici il y a deux dimanches, sur les clefs du Royaume de Dieu. Je voudrais continuer sur ce sujet parce qu’il est dans mon cœur depuis un moment. Et aussi parce que je crois que c’est le temps où on doit en parler. Le Seigneur veut nous conduire à aller plus en avant sur les questions de la foi. C’est très important, frères et sœurs. Parle au rocher ou Proclamations. Proclamations – Parle au rocher ! C’est le Seigneur qui s’est adressé de cette manière à Moïse. Quand je prêchais la dernière fois, j’ai fait référence à cette Parole, mais je suis allé plus en détails dans les méditations et je voudrais en parler…
 

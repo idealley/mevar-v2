@@ -39,6 +39,7 @@ bible_refs:
   - "Ésaïe 21:9"
   - "Apocalypse 14:8"
   - "Apocalypse 18:2"
+local_pdf: "/files/onedrive/trompettereveil.pdf"
 ---
 Que le nom du Seigneur soit béni ! Nous sommes reconnaissants au Seigneur qui nous a gardés jusqu’au Nigeria. Avant que je ne vienne, le pasteur Rigobert m’avait dit qu’on allait arriver au Nigeria et je suis heureux d’être avec vous ce soir. Que Dieu vous bénisse ! Je vous apporte les salutations des frères et sœurs de Côte d'Ivoire. Ils m’ont demandé de vous saluer de la part du Seigneur. Quand j’étais à Cotonou, certains m’ont appelé pour vous saluer. Nous sommes nombreux à croire le Message du temps de la fin…Si vous me voyez ici, c’est parce que vous avez beaucoup de frères et sœurs en Côte d'Ivoire ! Alléluia. Et, nous avons fait des réunions à So-Shanwé. Là-bas, la vision du réveil a été prêchée. 
 

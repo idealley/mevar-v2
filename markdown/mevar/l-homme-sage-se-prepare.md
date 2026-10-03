@@ -47,7 +47,7 @@ bible_refs:
   - "Luc 3:5"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/hommesage.pdf"
-edited_pdf: "/files/mevar-edited/l-homme-sage-se-prepare.pdf"
+text_pdf: "/files/mevar-text/l-homme-sage-se-prepare.pdf"
 ---
 Bien-aimé frère, sœur en Christ, ami lecteur, que le Seigneur Jésus-Christ, notre Sauveur et notre Rédempteur vous bénisse et que la méditation de la Parole vous enrichisse. L’objet de notre méditation est l’homme qui se prépare. L’homme sage se prépare car nous vivons dans des temps de troubles et la nuit est plus avancée qu’avant. Le retour du Seigneur est aussi plus proche. **Mais avant de pouvoir se préparer, il faut avoir conscience du besoin de se préparer**. Aussi, comme brève introduction, nous examinerons ce que nous dit Paul.
 

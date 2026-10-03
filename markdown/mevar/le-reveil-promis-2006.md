@@ -154,7 +154,7 @@ bible_refs:
   - "Apocalypse 14:14-20"
 editorial_pass: "2026-10-03"
 local_pdf: "/files/onedrive/reveilp.pdf"
-edited_pdf: "/files/mevar-edited/le-reveil-promis-2006.pdf"
+text_pdf: "/files/mevar-text/le-reveil-promis-2006.pdf"
 ---
 LE RÉVEIL PROMIS
 

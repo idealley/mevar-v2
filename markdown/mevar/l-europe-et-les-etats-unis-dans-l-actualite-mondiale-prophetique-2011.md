@@ -88,7 +88,7 @@ bible_refs:
   - "Apocalypse 18:15-24"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exhomimars2011.pdf"
-edited_pdf: "/files/mevar-edited/l-europe-et-les-etats-unis-dans-l-actualite-mondiale-prophetique-2011.pdf"
+text_pdf: "/files/mevar-text/l-europe-et-les-etats-unis-dans-l-actualite-mondiale-prophetique-2011.pdf"
 ---
 Mes chers frères et sœurs en Christ, recevez mes salutations dans le précieux nom de notre Seigneur et Sauveur Jésus-Christ par cette Parole d’Ésaïe 21 :
 

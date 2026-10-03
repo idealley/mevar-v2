@@ -81,7 +81,7 @@ bible_refs:
   - "Actes 7:47-50"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/exhofinaout2009.pdf"
-edited_pdf: "/files/mevar-edited/le-pasteur-invisible-2009.pdf"
+text_pdf: "/files/mevar-text/le-pasteur-invisible-2009.pdf"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer par cette Parole du Psaumes 23 :
 

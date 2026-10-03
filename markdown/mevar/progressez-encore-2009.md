@@ -37,7 +37,7 @@ bible_refs:
   - "Matthieu 25"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exhortationavril2009.pdf"
-edited_pdf: "/files/mevar-edited/progressez-encore-2009.pdf"
+text_pdf: "/files/mevar-text/progressez-encore-2009.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et membres de la chaîne de prière, par cette Parole de Paul aux Thessaloniciens :
 

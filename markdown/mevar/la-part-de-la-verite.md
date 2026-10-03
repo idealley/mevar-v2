@@ -158,7 +158,7 @@ bible_refs:
   - "Jean 14:27"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/la-part-de-la-verite.pdf"
-edited_pdf: "/files/mevar-edited/la-part-de-la-verite.pdf"
+text_pdf: "/files/mevar-text/la-part-de-la-verite.pdf"
 ---
 Introduction
 

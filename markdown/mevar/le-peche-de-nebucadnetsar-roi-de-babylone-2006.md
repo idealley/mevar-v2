@@ -61,7 +61,7 @@ bible_refs:
   - "Jérémie 1"
   - "Actes 2:38"
 local_pdf: "/files/onedrive/peche.pdf"
-edited_pdf: "/files/mevar-edited/le-peche-de-nebucadnetsar-roi-de-babylone-2006.pdf"
+text_pdf: "/files/mevar-text/le-peche-de-nebucadnetsar-roi-de-babylone-2006.pdf"
 ---
 Que le nom du Seigneur soit béni. Nous sommes heureux de nous retrouver avec vous. Nous sommes allés en voyage à Arrah pour assister un frère qui avait perdu son père et aussi profiter pour visiter l’église. Donc hier, nous avons eu un service là-bas le soir et nous sommes rentrés très tôt ce matin à 7 heures pour prendre part au culte. **J’ai été aussi appelé par un frère qui est venu du Congo. Il est natif du Congo Démocratique. Et depuis quelques mois, il était entré en contact avec moi parce qu’il avait été affecté ici à Abidjan**. Donc ce matin, on l’a pris et il est passé prier avec nous. Il va se présenter. [Présentation du frère **Alexandre GASHANGI** venu du Burundi pour travailler à Abidjan aux Nations Unies]
 

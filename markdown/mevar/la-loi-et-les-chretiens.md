@@ -46,6 +46,7 @@ bible_refs:
   - "Matthieu 22:36-40"
   - "Matthieu 11:28-29"
   - "Hébreux 4:1-13"
+text_pdf: "/files/mevar-text/la-loi-et-les-chretiens.pdf"
 ---
 > 17 Ne pensez pas que je sois venu pour abolir la loi ou les prophètes: je ne suis pas venu pour abolir, mais pour accomplir; 18 car, en vérité, je vous dis: Jusqu'à ce que le ciel et la terre passent, un seul iota ou un seul trait de lettre ne passera point de la loi, que tout ne soit accompli. 19 Quiconque donc aura supprimé l'un de ces plus petits commandements et aura enseigné ainsi les hommes, sera appelé le plus petit dans le royaume des cieux; et quiconque l'aura pratiqué et enseigné, celui-là sera appelé grand dans le royaume des cieux. 20 Car je vous dis que, si votre justice ne surpasse pas celle des scribes et des pharisiens, vous n'entrerez point dans le royaume des cieux. (Darby 1991. Matthieu 5:17-20)
 

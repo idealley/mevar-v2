@@ -25,6 +25,7 @@ bible_refs:
   - "Matthieu 6"
   - "Jacques 1"
   - "Apocalypse 3"
+text_pdf: "/files/mevar-text/le-sermon-sur-la-montagne-audio-5.pdf"
 ---
 ## La bonne vision de la sanctification - cinquième partie
 

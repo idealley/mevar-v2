@@ -52,7 +52,7 @@ bible_refs:
   - "2 Corinthiens 6:14-17"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/exhofinoct.pdf"
-edited_pdf: "/files/mevar-edited/vainqueurs-dans-le-mauvais-jour-2011.pdf"
+text_pdf: "/files/mevar-text/vainqueurs-dans-le-mauvais-jour-2011.pdf"
 ---
 Mes chers frères et sœurs, je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole d’Apocalypse chapitre 3, le verset 21.
 

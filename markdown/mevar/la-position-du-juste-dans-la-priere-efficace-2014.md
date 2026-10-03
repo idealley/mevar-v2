@@ -46,7 +46,7 @@ bible_refs:
   - "1 Pierre 5:8"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exo-juin-2014-1.pdf"
-edited_pdf: "/files/mevar-edited/la-position-du-juste-dans-la-priere-efficace-2014.pdf"
+text_pdf: "/files/mevar-text/la-position-du-juste-dans-la-priere-efficace-2014.pdf"
 ---
 Je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette parole de Pierre au peuple de Dieu :
 

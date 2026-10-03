@@ -64,7 +64,7 @@ bible_refs:
   - "Ésaïe 42:19"
   - "1 Pierre 4:12-13"
 local_pdf: "/files/onedrive/minuit.pdf"
-edited_pdf: "/files/mevar-edited/le-message-de-minuit-novembre-2006.pdf"
+text_pdf: "/files/mevar-text/le-message-de-minuit-novembre-2006.pdf"
 ---
 Que le nom du Seigneur soit béni ! Alléluia ! Nous sommes reconnaissants au Seigneur qui nous a fait la grâce d’arriver encore ici à Soubré. Nous sommes à une **veillée de prière**. Vous savez que la veillée, c’est jusqu’au matin… Donc soyez engagés jusqu’au matin – ayez à l’esprit que vous êtes assis dans ce lieu jusqu’à 6 heures du matin. **Ayez un esprit vif pour ne pas dormir**, parce que si vous dormez, vous ratez l’essentiel. **C’est comme dans Matthieu 25**, **les vierges qui se sont engagées dans la course… celles qui sont allées jusqu’au bout, ce sont celles qui ont gardé l’esprit du départ**. **Au commencement, elles devraient aller jusqu’à rencontrer l’Époux. Donc, elles sont restées avec cela jusqu’au matin à la rencontre du Seigneur**. C’est vrai qu’il y a eu des temps de sommeil et d’assoupissement… **ça a été des temps de ralentissement de la marche – des temps de ralentissement de l’activité spirituelle**.
 

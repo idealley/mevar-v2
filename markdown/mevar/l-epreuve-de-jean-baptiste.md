@@ -28,6 +28,7 @@ bible_refs:
   - "Jean 1"
   - "Malachie 3"
   - "Juges 6:25-29"
+local_pdf: "/files/onedrive/epreuvedejb.pdf"
 ---
 Parler en langue, puis interprétation : _J’honore ceux qui m’honorent, J’honore le sacrifice de ceux qui m’honorent. Si vous croyez, vous verrez Ma gloire, si vous m’obéissez, vous verrez Ma gloire. Si vous êtes patients, vous verrez Ma gloire. J’honore ceux qui m’honorent. J’honore le sacrifice de ceux qui m’honorent._
 

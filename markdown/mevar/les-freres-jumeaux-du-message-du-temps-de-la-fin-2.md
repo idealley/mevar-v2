@@ -26,6 +26,7 @@ bible_refs:
   - "Éphésiens 4"
   - "Matthieu 24:45"
   - "Lévitique 10"
+text_pdf: "/files/mevar-text/les-freres-jumeaux-du-message-du-temps-de-la-fin-2.pdf"
 ---
 ## Deuxième partie
 

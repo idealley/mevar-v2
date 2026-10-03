@@ -21,7 +21,7 @@ llm_cleaned: true
 published_with: "mevar/plan-d-attaque-ii-preche-novembre-2009"
 editorial_pass: "2026-10-01"
 local_pdf: "/files/onedrive/planattaque2.pdf"
-edited_pdf: "/files/mevar-edited/plan-d-attaque-ii-novembre-2009.pdf"
+text_pdf: "/files/mevar-text/plan-d-attaque-ii-novembre-2009.pdf"
 ---
 **Mes chers amis**,
 

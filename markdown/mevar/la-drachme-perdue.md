@@ -26,6 +26,7 @@ bible_refs:
   - "Luc 15"
   - "1 Corinthiens 13"
   - "Hébreux 11:1-3"
+local_pdf: "/files/onedrive/drachme.pdf"
 ---
 Que Dieu nous bénisse tous. Nous allons lire dans le livre de Luc.
 

@@ -31,7 +31,7 @@ bible_refs:
   - "Apocalypse 12"
 editorial_pass: "2026-10-01"
 local_pdf: "/files/onedrive/prophetie-du-03-11-2014.pdf"
-edited_pdf: "/files/mevar-edited/parler-en-langue-traduit-du-dimanche-03-novembre-2014.pdf"
+text_pdf: "/files/mevar-text/parler-en-langue-traduit-du-dimanche-03-novembre-2014.pdf"
 ---
 « OH ! VAINQUEURS DES ÂGES ! QUE MA GRÂCE SOIT AVEC VOUS. OH ! FILLES DE JÉRUSALEM, QUE MA PUISSANCE SOIT AVEC VOUS. OH ! ENFANTS DE LA TRIBU DES VAINQUEURS, QUE MA BÉNÉDICTION ET MA GRÂCE VOUS PROTÈGENT.
 

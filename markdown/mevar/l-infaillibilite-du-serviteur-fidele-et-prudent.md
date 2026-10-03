@@ -86,7 +86,7 @@ bible_refs:
   - "2 Corinthiens 11:2"
   - "Matthieu 26:41"
 local_pdf: "/files/onedrive/infaillibilite.pdf"
-edited_pdf: "/files/mevar-edited/l-infaillibilite-du-serviteur-fidele-et-prudent.pdf"
+text_pdf: "/files/mevar-text/l-infaillibilite-du-serviteur-fidele-et-prudent.pdf"
 ---
 Je vous salue par cette parole de Romains 3 :4 : « Nullement ! **Mais que Dieu soit reconnu véritable**, et **tout homme menteur**, selon qu’il est écrit : Afin que tu sois trouvé juste dans tes paroles, et que tu gagnes ta cause lorsqu’on te juge. »
 

@@ -77,7 +77,7 @@ bible_refs:
   - "Luc 17"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/exhortation-fin-mai-2017.pdf"
-edited_pdf: "/files/mevar-edited/les-pensees-humaines-contre-la-revelation-2017.pdf"
+text_pdf: "/files/mevar-text/les-pensees-humaines-contre-la-revelation-2017.pdf"
 ---
 Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur Jésus-Christ soient avec vous tous, et que son amour surabonde dans vos cœurs parce que nous avons réellement besoin de son amour pour vivre dans notre génération. Je voudrais vous saluer encore par cette parole de l’apôtre Paul aux Romains :
 

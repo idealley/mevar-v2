@@ -29,7 +29,7 @@ themes:
 llm_cleaned: true
 editorial_pass: "2026-10-01"
 local_pdf: "/files/onedrive/visioncongojuin.pdf"
-edited_pdf: "/files/mevar-edited/vision-de-juin-2009-congo.pdf"
+text_pdf: "/files/mevar-text/vision-de-juin-2009-congo.pdf"
 ---
 « L’esprit m’a réveillé à 4 heures pour me dire : “Ne sors pas ce matin, mais tu iras à la montagne, là où je te dirai les choses qui concernent mon peuple sur terre.” À 6 heures du matin, je suis allé à la montagne. Arrivé en ce lieu, j’ai tourné sans trouver de place jusqu’à 8 heures, où Il m’a montré une place où je devais m’asseoir. Soudain, un homme m’est apparu et il me dit : “Dis à Mon Peuple : Ainsi dit le Seigneur : Le monde va en perdition sans qu’il ne le sache parce qu’il est dans les ténèbres et dans l’ignorance.
 

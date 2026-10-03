@@ -43,7 +43,7 @@ bible_refs:
   - "Luc 1:15"
   - "Juges 14:14"
 local_pdf: "/files/onedrive/exhofinoct2010.pdf"
-edited_pdf: "/files/mevar-edited/les-deux-vins-le-vin-religieux-et-le-vin-de-l-esprit-2010.pdf"
+text_pdf: "/files/mevar-text/les-deux-vins-le-vin-religieux-et-le-vin-de-l-esprit-2010.pdf"
 ---
 Mes chers amis,
 

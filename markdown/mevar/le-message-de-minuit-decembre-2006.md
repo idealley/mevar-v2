@@ -34,7 +34,7 @@ bible_refs:
 published_with: "mevar/le-message-de-minuit-novembre-2006"
 editorial_pass: "2026-10-01"
 local_pdf: "/files/onedrive/minuit.pdf"
-edited_pdf: "/files/mevar-edited/le-message-de-minuit-decembre-2006.pdf"
+text_pdf: "/files/mevar-text/le-message-de-minuit-decembre-2006.pdf"
 ---
 Je voudrais saluer les usagers de notre site à tous par ces Paroles de Paul, notre apôtre, qui exprime aux Corinthiens les durs labeurs de son Ministère.
 

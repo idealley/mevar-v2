@@ -95,7 +95,7 @@ bible_refs:
   - "Matthieu 12:25"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/impudiciteetadulterespdf.pdf"
-edited_pdf: "/files/mevar-edited/impudicite-et-adultere-2006.pdf"
+text_pdf: "/files/mevar-text/impudicite-et-adultere-2006.pdf"
 ---
 **Réveillez-vous et sortez des péchés du sexe** !
 

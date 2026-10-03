@@ -40,7 +40,7 @@ bible_refs:
   - "Hébreux 12"
 editorial_pass: "2026-09-28"
 local_pdf: "/files/onedrive/lestresorsducoeur.pdf"
-edited_pdf: "/files/mevar-edited/les-tresors-du-coeur-2008.pdf"
+text_pdf: "/files/mevar-text/les-tresors-du-coeur-2008.pdf"
 ---
 Nous remercions le Seigneur qui nous a gardés pendant notre voyage. Nous avons passé deux semaines au Nigeria. On a visité les églises et nous croyons que le Seigneur a donné la Parole qu’il fallait aux frères et sœurs. Moi je suis en train de rentrer à Abidjan, mais ce soir, nous sommes venus à la réunion pour vous exhorter encore. Cotonou est devenu un aéroport international pour moi. À chaque fois il faut passer par ici. Bon ! C’est votre grâce. Alléluia ! Alors il faut en profiter.
 

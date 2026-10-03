@@ -68,7 +68,7 @@ bible_refs:
   - "2 Timothée 4"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/meprise.pdf"
-edited_pdf: "/files/mevar-edited/que-personne-ne-meprise-ta-jeunesse.pdf"
+text_pdf: "/files/mevar-text/que-personne-ne-meprise-ta-jeunesse.pdf"
 ---
 > Que personne **ne méprise ta jeunesse**. (1 Tim 4 : 12)
 

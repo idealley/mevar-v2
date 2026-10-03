@@ -51,7 +51,7 @@ bible_refs:
 published_with: "mevar/la-guerre-de-liberation-avril-2007"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/exhomai2007.pdf"
-edited_pdf: "/files/mevar-edited/la-guerre-de-liberation-mai-2007.pdf"
+text_pdf: "/files/mevar-text/la-guerre-de-liberation-mai-2007.pdf"
 ---
 **Sortez de Babylone** !
 

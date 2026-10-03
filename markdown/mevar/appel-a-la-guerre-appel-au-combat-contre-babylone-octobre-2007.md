@@ -57,7 +57,7 @@ bible_refs:
   - "Jérémie 1:17-19"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/exhortation-finoctobre2007.pdf"
-edited_pdf: "/files/mevar-edited/appel-a-la-guerre-appel-au-combat-contre-babylone-octobre-2007.pdf"
+text_pdf: "/files/mevar-text/appel-a-la-guerre-appel-au-combat-contre-babylone-octobre-2007.pdf"
 ---
 Exhortation fin octobre 2007
 

@@ -55,7 +55,7 @@ bible_refs:
   - "Éphésiens 6:11"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exo-de-juin-2013.pdf"
-edited_pdf: "/files/mevar-edited/le-temps-de-la-restitution-2013.pdf"
+text_pdf: "/files/mevar-text/le-temps-de-la-restitution-2013.pdf"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer dans le précieux nom de notre Seigneur et Sauveur Jésus-Christ qui est mort pour nous par cette parole d’Ésaïe 42.
 

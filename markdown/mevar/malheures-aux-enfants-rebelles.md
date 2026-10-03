@@ -24,6 +24,7 @@ bible_refs:
   - "Luc 11:34-36"
   - "1 Jean 1:5"
   - "Matthieu 6:7-8"
+local_pdf: "/files/onedrive/exho-3-juillet.pdf"
 ---
 ## Troisième exhortation de juillet 2009
 

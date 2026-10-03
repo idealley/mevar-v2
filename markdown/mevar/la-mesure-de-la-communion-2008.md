@@ -44,7 +44,7 @@ bible_refs:
   - "Apocalypse 22"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/la-mesure-de-la-communion.pdf"
-edited_pdf: "/files/mevar-edited/la-mesure-de-la-communion-2008.pdf"
+text_pdf: "/files/mevar-text/la-mesure-de-la-communion-2008.pdf"
 ---
 Ce matin, je voudrais apporter une Parole sur un sujet important. Lorsque nous sommes revenus de la Convention, j’ai été visité par le Seigneur et j’ai reçu ces Paroles pour notre avancement spirituel. Je parle de ce sujet depuis quelque temps. Quand j’ai voyagé avec les frères à l’intérieur du pays, j’ai parlé de cela, et ce matin, je voudrais aborder cela ici pour nous fortifier. Nous allons lire dans Luc chapitre 6 verset 38. Le titre, c’est : **La Mesure de la Communion**.
 

@@ -36,6 +36,7 @@ bible_refs:
   - "2 Pierre 1:5-7"
   - "Juges 21:25"
   - "Apocalypse 19:10"
+text_pdf: "/files/mevar-text/samuel.pdf"
 ---
 J'ai reçu cette prédication, en Suisse, avant mon voyage pour la Côte d'Ivoire et je savais qu'elle était pour notre passage à Bouaké. Comme Dieu gère toute chose, un des textes dont je voulais parler est le même texte que notre frère Georges a utilisé pour sa prédication.
 

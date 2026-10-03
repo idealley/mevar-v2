@@ -71,7 +71,7 @@ bible_refs:
   - "Romains 12:5-15"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/exhofinnov09.pdf"
-edited_pdf: "/files/mevar-edited/tabitha-servante-du-seigneur-jesus-christ-2009.pdf"
+text_pdf: "/files/mevar-text/tabitha-servante-du-seigneur-jesus-christ-2009.pdf"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur par cette histoire connue dans le livre des Actes des Apôtres. L’histoire raconte la mort d’une sainte de Joppé nommée Tabitha qui veut dire Dorcas. N’est-ce pas qu’il est bon et honorable de raconter le témoignage des saints qui ont bien rempli leur Mission dans l’Église sur terre ? Méditons ensemble ce texte.
 

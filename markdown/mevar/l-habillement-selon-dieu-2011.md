@@ -61,7 +61,7 @@ bible_refs:
   - "2 Corinthiens 6:14-17"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exhortation-octobre-2011.pdf"
-edited_pdf: "/files/mevar-edited/l-habillement-selon-dieu-2011.pdf"
+text_pdf: "/files/mevar-text/l-habillement-selon-dieu-2011.pdf"
 ---
 Mes chers frères et sœurs, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ. C’est avec beaucoup de reconnaissance au Seigneur que nous pouvons encore nous adresser au peuple de Dieu. Nous sommes heureux de prendre part à la préparation du peuple de Dieu pour l’enlèvement à la fin des temps. En effet, notre préparation doit être approfondie au fur et à mesure que nous avançons dans la présence de Dieu. Si nous sommes réellement dans la Lumière, **Elle brillera plus fortement pour nous au fur et à mesure que nous nous approchons du Seigneur Jésus-Christ et de l’apparition de Son jour**. Par contre, ceux qui ne sont plus dans la Lumière avanceront plus loin dans les ténèbres, au moment où nous sommes dans cette heure décisive.
 

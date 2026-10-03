@@ -66,6 +66,7 @@ bible_refs:
   - "2 Pierre 2:1-2"
   - "Jérémie 23:29-32"
   - "Ésaïe 40:3"
+local_pdf: "/files/onedrive/temoignagepdf.pdf"
 ---
 ### Introduction
 

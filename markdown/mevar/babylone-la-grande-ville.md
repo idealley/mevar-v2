@@ -29,6 +29,7 @@ bible_refs:
   - "Apocalypse 18"
   - "Matthieu 24"
   - "Apocalypse 6"
+local_pdf: "/files/onedrive/babyloneville.pdf"
 ---
 La dernière fois, on avait fait une annonce pour la fin d’année. **Les 27, 28 et 29 décembre 2006,** on a une séance de jeûne et prières. Parce qu’on a estimé qu’il faille que chacun d’entre nous se libère de ses liens. Amen ! **Un chrétien ne doit pas vivre sa foi avec des liens, des liens de péché, des liens de démons, toutes sortes de liens.** Donc les trois jours… on va jeûner et prier… chacun va se recueillir devant Dieu. Chacun devra se regarder devant Le Seigneur… Ce qui ne va pas dans sa vie, qui est un problème, un lien que Le Seigneur lui enlève cela. Là où il n’a pas de succès… il y a beaucoup de blocages… Il faut venir au Seigneur avec tout cela.
 

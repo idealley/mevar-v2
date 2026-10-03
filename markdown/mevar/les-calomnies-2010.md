@@ -52,7 +52,7 @@ bible_refs:
   - "Nombres 12:2"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/pred-calomnie.pdf"
-edited_pdf: "/files/mevar-edited/les-calomnies-2010.pdf"
+text_pdf: "/files/mevar-text/les-calomnies-2010.pdf"
 ---
 Seigneur notre Dieu, nous Te remercions ce matin. Merci parce que Tu as gardé les uns et les autres. Tu nous as gardés durant toute la semaine écoulée. Tu as pris soin de nous. Tu nous as donné à manger, Tu nous as donné la santé, la paix du cœur… Seigneur notre Dieu, nous n’avons pas été comptés parmi les malades. Même si nous l’avons été, Tu nous as guéris. Que la louange et la gloire Te reviennent. Merci pour Ta protection ; merci pour Ton soutien et Ton amour. Merci parce que nous n’avons pas reçu de nouvelles alarmantes. Ô Dieu, merci pour Ton secours dans la vie de chacun d’entre nous. Nous sommes venus ce matin pour être reconnaissants à Toi, pour Te chanter des cantiques, pour Te remercier pour tout ce que Tu as fait, et nous remettre encore entre Tes Mains. Parce que c’est Toi qui es notre Sauveur, c’est Toi qui es notre appui. C’est Toi qui es notre Dieu. Nous n’avons personne d’autre. Mais c’est Toi seul qui es notre Dieu. Nous sommes venus pour Te chanter, pour Te louer parce que Tu es digne d’être loué, Tu es digne d’être adoré. C’est Toi Jésus qui l’as dit, que le temps est venu de T’adorer en esprit et en vérité. Seigneur, reçois notre adoration, reçois nos louanges, nos cantiques ce matin.
 

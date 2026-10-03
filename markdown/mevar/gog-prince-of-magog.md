@@ -19,6 +19,7 @@ uuid: "ba8bb8ea-8787-4344-bbb9-c4899e61b459"
 stream_url: "https://mevar.org/gog-prince-of-magog/"
 bible_refs:
   - "Ézéchiel 38"
+text_pdf: "/files/mevar-text/gog-prince-of-magog.pdf"
 ---
 Quel sont les lieux géographiques auxquels Ezéchiel 38 fait référence? Gog est le nom d’un prince. Magog, c’est la terre sur laquelle il règne. Mesheh (transcrit Méschec dans la Bible NEG de 1979, Mésec dans la Bible Martin 1744) est une des régions sur lesquelles il règne, tout comme Tubal.
 

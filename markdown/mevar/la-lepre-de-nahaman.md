@@ -28,6 +28,7 @@ bible_refs:
   - "2 Samuel 23"
   - "2 Samuel 23:13-17"
   - "2 Timothée 3"
+local_pdf: "/files/onedrive/nahaman-predpdf.pdf"
 ---
 Que Dieu vous bénisse ! Nous vous saluons au nom de Jésus. Nous voulons vraiment remercier le Seigneur pour la grâce qu’Il nous accorde de nous rassembler encore. Nous l’avons déjà dit au commencement qu’il faut qu’il ait des hommes qui écoutent la voix de Dieu. Que vraiment ceux qui ont l’Esprit puissent écouter la voix de Dieu parce que Dieu parle encore. Le Seigneur se manifeste dans le langage – Il a toujours des Paroles à adresser à Son peuple. Et quand Il parle, Il veut toujours trouver des hommes qui écoutent Sa voix – des hommes qui écoutent et qui acceptent ce que Dieu dit, parce que notre salut à nous tous se trouve dans la Parole de Dieu. Amen ! C’est la Parole qui sauve – la bible dit que la foi vient de ce qu’on entend, ce qu’on entend qui est la Parole de Dieu – la bonne semence – la semence du Royaume. C’est cette semence qui donne la vie, c’est en elle qu’il y a la vie.
 

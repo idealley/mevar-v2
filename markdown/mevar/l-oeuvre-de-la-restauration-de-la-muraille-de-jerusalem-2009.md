@@ -297,7 +297,7 @@ bible_refs:
   - "Daniel 11:15"
 editorial_pass: "2026-10-03"
 local_pdf: "/files/onedrive/nehemie-patriote.pdf"
-edited_pdf: "/files/mevar-edited/l-oeuvre-de-la-restauration-de-la-muraille-de-jerusalem-2009.pdf"
+text_pdf: "/files/mevar-text/l-oeuvre-de-la-restauration-de-la-muraille-de-jerusalem-2009.pdf"
 ---
 ## Sommaire
 

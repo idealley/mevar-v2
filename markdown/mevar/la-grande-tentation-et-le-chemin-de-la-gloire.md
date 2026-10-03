@@ -28,6 +28,7 @@ bible_refs:
   - "Colossiens 1:24-25"
   - "Romains 8:17-18"
   - "1 Corinthiens 10:13"
+local_pdf: "/files/onedrive/exho-octobre-2008.pdf"
 ---
 ## Exhortation d'octobre 2008
 

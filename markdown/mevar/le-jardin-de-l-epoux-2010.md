@@ -33,7 +33,7 @@ bible_refs:
   - "2 Corinthiens 2:14-16"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/fev2010.pdf"
-edited_pdf: "/files/mevar-edited/le-jardin-de-l-epoux-2010.pdf"
+text_pdf: "/files/mevar-text/le-jardin-de-l-epoux-2010.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous par ce dialogue tiré du livre de Cantique des Cantiques. Il s’agit d’un dialogue entre le bien-aimé et la bien-aimée – un dialogue entre le fiancé et la fiancée. Il s’agit d’un dialogue prophétique entre nous et le Seigneur. Le fiancé dit à sa fiancée :
 

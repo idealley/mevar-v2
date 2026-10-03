@@ -43,7 +43,7 @@ bible_refs:
   - "Apocalypse 1"
 editorial_pass: "2026-09-28"
 local_pdf: "/files/onedrive/la-vision-de-la-montagne.pdf"
-edited_pdf: "/files/mevar-edited/la-vision-de-la-montagne-2014.pdf"
+text_pdf: "/files/mevar-text/la-vision-de-la-montagne-2014.pdf"
 ---
 Amen ! Que Dieu nous bénisse ! Le Seigneur, c’est Celui qui tient notre main. Et je pense que ce matin, Dieu voulait nous faire comprendre que chanter, c’est se prêcher soi-même. Amen ! Adjé n’a pas l’habitude de le faire comme il l’a fait aujourd’hui. On doit comprendre cela. Amen ! Quand tu chantes, tu te prêches. Il faut avoir cette conscience que tu te prêches, alors tu comprendras mieux ce que tu chantes. Amen ! Le frère Georges de Guibéroua est là, il va nous saluer avant qu’on ne puisse écouter la parole…
 

@@ -81,7 +81,7 @@ bible_refs:
   - "Hébreux 4:12"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/parolededieu.pdf"
-edited_pdf: "/files/mevar-edited/la-parole-de-dieu-2007.pdf"
+text_pdf: "/files/mevar-text/la-parole-de-dieu-2007.pdf"
 ---
 Que le Nom du Seigneur soit béni. Ce matin, je vais traiter un sujet important. Vous qui êtes dehors, est-ce que vous entendez ? Vous n’entendez pas… Est-ce qu’il n’y a pas de la place ici… non ? On peut mettre des chaises ici pour que les frères viennent. Frères, venez… mettez les chaises dedans ; vous allez vous asseoir. Frères, entrez ! Moi, je me sens toujours gêné quand il y a des frères dehors. Quand on vient à l’église, il faut s’asseoir dedans. S’il n’y a pas une obligation, quelque chose qui empêche qu’on soit dedans, il faut toujours aimer s’asseoir à l’intérieur. Oui, c’est bon comme ça… Mais généralement, les sœurs avec les enfants s’asseyent dehors… il est bien d’être dedans ; mais il y a des frères qui aiment s’asseoir dehors. Moi, j’ai remarqué dans l’église où nous étions… Souvent, vous venez, il y a de la place dedans, mais il y en a qui préfèrent rester à la fenêtre. Ils sont là et à partir de la fenêtre, ils regardent le prédicateur. Ils sont debout là ; ils s’asseyent dehors ; pourtant, il y a de la place à l’intérieur… C’est un esprit qui fait cela. La chaleur de l’intérieur, l’onction qui est là, qui se répand, c’est bon. Mais quand tu es dehors, tu es souvent distrait par les gens qui passent, par l’environnement, tu es distrait et tu ne suis pas bien. Moi, quand je vais à l’église, je préfère m’asseoir dedans. Que Dieu soit béni ! Si vous venez au culte qu’il y a de la place à l’intérieur, asseyez-vous à l’intérieur…
 

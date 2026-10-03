@@ -48,7 +48,7 @@ bible_refs:
   - "Marc 11"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/lescles-du-royaume.pdf"
-edited_pdf: "/files/mevar-edited/les-clefs-du-royaume-de-dieu-2013.pdf"
+text_pdf: "/files/mevar-text/les-clefs-du-royaume-de-dieu-2013.pdf"
 ---
 C’est toujours une joie renouvelée de venir dans la maison de Dieu parce que c’est là que Dieu s’adresse à nous, c’est là qu’il nous donne la vie, la paix, la santé, la joie de vivre… Amen. C’est en Lui que nous avons toutes ces choses. Ailleurs, il n’y a pas d’espérance, ailleurs, il n’y a rien. Amen. C’est dans le Seigneur qu’il y a toute cette grâce.
 

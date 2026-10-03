@@ -48,7 +48,7 @@ bible_refs:
   - "Matthieu 13:55-58"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exhortation-de-mai-2013.pdf"
-edited_pdf: "/files/mevar-edited/la-negligence-de-moise-2013.pdf"
+text_pdf: "/files/mevar-text/la-negligence-de-moise-2013.pdf"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole que le roi Ézéchias adressa aux fils de Lévi après sa prise du trône de David son père dans le livre de Chroniques.
 

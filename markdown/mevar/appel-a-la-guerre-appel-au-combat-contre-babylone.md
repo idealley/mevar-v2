@@ -23,6 +23,7 @@ bible_refs:
   - "Matthieu 6:25-34"
   - "Exode 5:5-9"
   - "Matthieu 6:24"
+local_pdf: "/files/onedrive/exho-dec2007.pdf"
 ---
 ## Exhortation de décembre 2007
 

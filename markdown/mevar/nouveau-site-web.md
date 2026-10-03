@@ -17,6 +17,7 @@ uuid: "ff646ce2-7cad-4348-958d-d8727dc179e2"
 stream_url: "https://mevar.org/nouveau-site-web/"
 bible_refs:
   - "1 Pierre 1:2"
+text_pdf: "/files/mevar-text/nouveau-site-web.pdf"
 ---
 19 mai 2023:  
 nouvelle fonctionalité: pdf download.

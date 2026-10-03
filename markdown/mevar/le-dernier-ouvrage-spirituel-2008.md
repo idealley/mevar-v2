@@ -53,7 +53,7 @@ bible_refs:
   - "Luc 17"
 editorial_pass: "2026-09-30"
 local_pdf: "/files/onedrive/ledernierouvragespirituel.pdf"
-edited_pdf: "/files/mevar-edited/le-dernier-ouvrage-spirituel-2008.pdf"
+text_pdf: "/files/mevar-text/le-dernier-ouvrage-spirituel-2008.pdf"
 ---
 Alléluia ! Que Dieu vous bénisse ! Nous remercions le Seigneur qui nous a gardés pendant tous les voyages. Nous avons déjà parcouru beaucoup de chemins avant d’arriver ici. Et c’est Dieu qui a fait cela ainsi. Je disais déjà aux frères que c’est le Seigneur qui m’avait dit de venir ici au Nigéria. Cette fois-ci, des portes se sont ouvertes dans d’autres églises. Pour vous, cela faisait longtemps que je n’étais pas revenu. Depuis janvier 2007, je ne suis plus revenu ici. Mais cela brûlait dans mon cœur de venir, mais je n’avais pas de temps et je faisais d’autres voyages. Et le Seigneur m’a parlé dans un songe pour me dire d’arriver. Ça veut dire que le Seigneur a insisté. C’est parce que aussi vous êtes le peuple de Dieu. Dieu envoie Ses serviteurs là où se trouve Son peuple. Et partout où je vais, j’insiste pour dire aux frères qu’ils doivent écouter ce que nous prêchons. C’est très important. Les frères vous saluent. Ils connaissent très bien votre pasteur… Alors c’est important d’écouter ce que Dieu dit.
 

@@ -351,7 +351,7 @@ bible_refs:
   - "Apocalypse 22:17"
   - "Matthieu 6:9"
 editorial_pass: "2026-10-03"
-edited_pdf: "/files/mevar-edited/le-royaume-de-dieu-2022.pdf"
+text_pdf: "/files/mevar-text/le-royaume-de-dieu-2022.pdf"
 ---
 **LE ROYAUME DE DIEU**
 

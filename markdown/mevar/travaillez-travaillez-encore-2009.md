@@ -73,7 +73,7 @@ bible_refs:
   - "2 Corinthiens 7:6-7"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exhojuin2009.pdf"
-edited_pdf: "/files/mevar-edited/travaillez-travaillez-encore-2009.pdf"
+text_pdf: "/files/mevar-text/travaillez-travaillez-encore-2009.pdf"
 ---
 Ainsi dit le Seigneur : **Travaillez ! Travaillez ! Travaillez ! Car plusieurs parmi vous serviront de libations pour l’avancement de Mon œuvre. Vos prédécesseurs sont passés par là. Vous n’échapperez pas ! Travaillez** !
 

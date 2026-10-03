@@ -25,6 +25,7 @@ bible_refs:
   - "Hébreux 11"
   - "Hébreux 11:6"
   - "Matthieu 7:7-8"
+text_pdf: "/files/mevar-text/etre-agreable-a-dieu-par-la-foi-1.pdf"
 ---
 ### Première partie
 

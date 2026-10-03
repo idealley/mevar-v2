@@ -27,6 +27,7 @@ series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
 series_part: 2
 series_total: 5
+text_pdf: "/files/mevar-text/le-jour-du-seigneur-il-viendra-comme-un-voleur.pdf"
 ---
 ### **Prêché à Koumassi, le 29 octobre 2023**
 

@@ -18,6 +18,7 @@ authors:
 ghost_id: "6448fa86db90770001518f8e"
 uuid: "46b06db3-0a10-443c-a960-ce9db0500431"
 stream_url: "https://mevar.org/le-complot-de-proces/"
+text_pdf: "/files/mevar-text/le-complot-de-proces.pdf"
 ---
 ## Les complots de Satan (5) - Le combat spirituel
 

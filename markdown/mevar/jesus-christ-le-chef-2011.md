@@ -50,7 +50,7 @@ bible_refs:
   - "Matthieu 20"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/jesuschef.pdf"
-edited_pdf: "/files/mevar-edited/jesus-christ-le-chef-2011.pdf"
+text_pdf: "/files/mevar-text/jesus-christ-le-chef-2011.pdf"
 ---
 Que Dieu vous bénisse ! Nous lisons dans Éphésiens chapitre 1 à partir du verset 15.
 

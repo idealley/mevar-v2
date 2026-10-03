@@ -40,6 +40,7 @@ bible_refs:
   - "1 Pierre 5:6-8"
   - "Proverbes 24"
   - "Proverbes 24:30-34"
+local_pdf: "/files/onedrive/exho-fin2010.pdf"
 ---
 ## Exhortation de fin d'année 2010
 

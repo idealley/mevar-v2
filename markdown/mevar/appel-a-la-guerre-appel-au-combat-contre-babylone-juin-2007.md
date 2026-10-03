@@ -43,7 +43,7 @@ bible_refs:
 published_with: "mevar/les-prisonniers-de-la-religion-2007"
 editorial_pass: "2026-10-01"
 local_pdf: "/files/onedrive/exhojuin2007.pdf"
-edited_pdf: "/files/mevar-edited/appel-a-la-guerre-appel-au-combat-contre-babylone-juin-2007.pdf"
+text_pdf: "/files/mevar-text/appel-a-la-guerre-appel-au-combat-contre-babylone-juin-2007.pdf"
 ---
 **JOYEUX ANNIVERSAIRE**
 

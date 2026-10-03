@@ -74,7 +74,7 @@ bible_refs:
   - "1 Jean 1:6"
 editorial_pass: "2026-09-29"
 local_pdf: "/files/onedrive/exhofinaout11.pdf"
-edited_pdf: "/files/mevar-edited/la-parabole-des-convies-2011.pdf"
+text_pdf: "/files/mevar-text/la-parabole-des-convies-2011.pdf"
 ---
 Mes chers frères et sœurs, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ. Nous remercions le Seigneur pour Sa grâce et Sa miséricorde dans notre vie de tous les jours. Car c’est par Sa grâce que tout est possible. Je voudrais vous adresser cette importante exhortation que le Seigneur a mise sur mon cœur dans ces temps. Mon souhait est que cela participe à notre édification commune. Il s’agit de la parabole des conviés.
 

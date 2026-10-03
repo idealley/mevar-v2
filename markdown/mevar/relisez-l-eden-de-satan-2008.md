@@ -39,7 +39,7 @@ bible_refs:
   - "Ésaïe 14"
 editorial_pass: "2026-09-28"
 local_pdf: "/files/onedrive/exho-septembre-2008.pdf"
-edited_pdf: "/files/mevar-edited/relisez-l-eden-de-satan-2008.pdf"
+text_pdf: "/files/mevar-text/relisez-l-eden-de-satan-2008.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous pour ce mois de septembre par ces Paroles de notre Seigneur Jésus-Christ à Ses disciples dans le livre de Jean :
 

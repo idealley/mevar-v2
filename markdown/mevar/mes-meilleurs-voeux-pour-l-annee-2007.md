@@ -40,7 +40,7 @@ bible_refs:
   - "Psaumes 60:12"
 editorial_pass: "2026-09-28"
 local_pdf: "/files/onedrive/voeu2007.pdf"
-edited_pdf: "/files/mevar-edited/mes-meilleurs-voeux-pour-l-annee-2007.pdf"
+text_pdf: "/files/mevar-text/mes-meilleurs-voeux-pour-l-annee-2007.pdf"
 ---
 Mes meilleurs vœux à vous tous, mes bien-aimés frères et sœurs, amis de la chaîne de prière et visiteurs de notre site à tous. L’important message de mes vœux se trouve dans ces deux versets bibliques :
 

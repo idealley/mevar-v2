@@ -109,7 +109,7 @@ bible_refs:
   - "Matthieu 24:45-7"
 editorial_pass: "2026-10-02"
 local_pdf: "/files/onedrive/tsunami.pdf"
-edited_pdf: "/files/mevar-edited/voyez-un-tsunami-spirituel.pdf"
+text_pdf: "/files/mevar-text/voyez-un-tsunami-spirituel.pdf"
 ---
 Voyez **un tsunami spirituel**, **un vent impétueux** qui va encore souffler dans **l’Assemblée de Jésus-Christ**. Je voudrais pour cela considérer quelques versets avec vous dans les Saintes Écritures en vue de vous avertir au sujet de ce qui va arriver encore de manière particulière dans le Royaume de Dieu :
 
