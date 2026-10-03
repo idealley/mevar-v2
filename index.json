@@ -164876,8 +164876,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/le-royaume-de-dieu-2022.md",
-    "size_bytes": 528167,
-    "line_count": 2417
+    "size_bytes": 528140,
+    "line_count": 2403
   },
   {
     "source": "mevar-pdfs",
@@ -165375,7 +165375,7 @@
     "original": null,
     "local_md": "markdown/mevar/les-cinq-ministeres-de-la-parole-dans-la-vision-des-temps-de-la-fin-2004.md",
     "size_bytes": 715793,
-    "line_count": 5199
+    "line_count": 5189
   },
   {
     "source": "onedrive",
