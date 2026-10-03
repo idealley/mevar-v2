@@ -1083,7 +1083,7 @@ Frère KADJANY Yobouet André
 
 Serviteur de Jésus-Christ
 
-## Avant-Propos
+## Avant-propos
 
 Nous abordons ce sujet très important de l’exercice des cinq Ministères de la Parole avec beaucoup de confiance dans le Seigneur Jésus-Christ qui est à l’origine de la manifestation de tous les dons. Je ne voudrais pas donner mon propre enseignement sur ce sujet. Mon souhait est que le peuple de Dieu soit éclairé, pour marcher continuellement dans la lumière. À ce sujet, Jésus a dit :
 
@@ -1359,7 +1359,7 @@ David vécut l’éloignement. Il fut chassé de son trône par son fils Absalom
 
 David fuit devant son fils. Il fut éloigné du peuple et de son armée. Il fut éloigné de Jérusalem. Ce fut dans cette détresse que David connut davantage le Seigneur, son Dieu. Les épreuves de David et les secours de l’Éternel maintes fois expérimentés se trouvent dans les Psaumes. Là, on découvre que les inspirations profondes de David proviennent de ses multiples épreuves vis-à-vis de Saül, d’Absalom et de son péché d’adultère dénoncé par le prophète Nathan.
 
-### L’Apprentissage et l’assurance
+### L’apprentissage et l’assurance
 
 Dans l’étape de l’apprentissage, l’instrument qu’est le serviteur de Dieu apprend à nouveau à connaître Dieu, non plus seulement comme son sauveur, mais comme son Seigneur et son Maître, Celui à qui il doit obéir pleinement et entièrement, sans douter d’aucune manière. Celui qui doit l’envoyer avant qu’il ne parte. Dans cette étape, l’homme de Dieu apprend à avoir confiance dans les capacités de Dieu et dans sa volonté de sauver les hommes par tous les moyens. Tout ce travail se fait dans le cœur du serviteur de Dieu. C’est un travail intérieur qui est vécu dans la solitude spirituelle. Nul ne s’en aperçoit en dehors du concerné lui-même. C’est là qu’on acquiert de nouvelles vertus et de nouvelles qualités pour le service de Dieu. C’est aussi là que l’homme de Dieu reçoit de nouvelles armes pour le combat spirituel. Dans le cas de Moïse, il découvrit Dieu derrière les troupeaux de son beau-père. Il acquit les qualités d’un pasteur, sans peut-être s’en rendre compte. Il acquit aussi la patience envers les brebis. Il fallait ces vertus à Moïse avant de se trouver devant le difficile peuple d’Israël. Durant l’éloignement, Moïse perdit les habitudes égyptiennes parce qu’il fit quarante ans hors d’Égypte. Il était devenu inoffensif. C’est ainsi. Dieu triomphe toujours de ses instruments. Il triompha de Moïse.
 
@@ -1861,9 +1861,7 @@ Crescens, Artémas, Éraste, Philémon et plusieurs autres Ministres de la Parol
 
 Certains frères pensent que les instructions provenant d’un serviteur de Dieu sont exclues dans le ministère. Mais l’expérience biblique montre que certains Ministres de la Parole – à cause de leur grande responsabilité dans le Royaume de Dieu – reçoivent une mesure d’onction plus importante que les autres et exercent de cette manière une influence particulière sur d’autres serviteurs de Dieu qu’ils entraînent dans le ministère. Ceci n’est pas du suivisme, mais de la réalité biblique. C’est pourquoi, que chacun marche selon la part que le Seigneur lui a faite dans le Royaume de Dieu. Que chacun marche selon l’appel qu’il a reçu du Seigneur, tout en sachant que là où se déroule un service divin se trouve établi un chef de service divin.
 
-## Deuxième partie :
-
-Les cinq Ministères de la Parole
+## Deuxième partie : les cinq ministères de la Parole
 
 -3-
 
@@ -2599,7 +2597,7 @@ Cette Parole « béni soit celui qui vient au nom du Seigneur ! » s’acc
 
 Les Juifs avaient rejeté le Christ, en le faisant mourir à la croix. Mais la Bible dit que le rejet du Christ par les Juifs est pour le salut du reste du monde entier. Mais après avoir sauvé le reste du monde entier, le Seigneur Dieu entend se révéler entièrement aux Juifs comme leur Messie, afin que eux aussi, expérimentent le salut en Jésus-Christ. C’est pour accomplir cette prophétie que Dieu a décidé de rassembler à nouveau les Juifs dans la terre promise en 1948.
 
-### Les prophéties en rapport avec l’Église. (Matthieu 24)
+### Les prophéties en rapport avec l’Église (Matthieu 24)
 
 Plusieurs prophéties du Seigneur concernent l’Église, mais aussi tout l’environnement spirituel à la fin des temps. Le Seigneur a annoncé la manifestation de l’esprit de séduction. Il a averti en ces termes :
 
@@ -3441,10 +3439,7 @@ L’enfant Jésus aimait déjà écouter les docteurs de la loi avec lesquels il
 
 Jésus-Christ est le premier docteur du Nouveau Testament. En tant que docteur, il est venu révéler la loi et les prophètes afin que nous puissions comprendre la vérité révélée. Dans l’exercice de son ministère, Jésus expliquait les doctrines de la loi et les prophéties bibliques. On découvre ainsi que le ministère de docteur est un talent qui explique les doctrines et les prophéties bibliques. Le ministère de docteur ne peut être autrement.
 
-MON ENSEIGNEMENT N’EST PAS DE MOI,  
-MAIS DE CELUI QUI M’A ENVOYÉ
-
-JEAN 7.16.
+### Mon enseignement n’est pas de moi, mais de celui qui m’a envoyé (Jean 7.16)
 
 En tant que docteur de la loi, le Seigneur fit cette importante déclaration qui mérite d’être mise en exergue pour les docteurs des Saintes Écritures. Le Christ dit encore :
 
@@ -3468,7 +3463,7 @@ C’est le docteur qui a la responsabilité d’administrer les mystères de Die
 
 C’est ainsi, car, l’explication de ce qui est caché est pour le docteur des Écritures.
 
-### Place au fondement de l’œuvre
+### Placé au fondement de l’œuvre
 
 Le ministère de docteur est placé au fondement de l’œuvre parce que la doctrine est placée au fondement de l’œuvre. La seule et unique doctrine valable placée au fondement de l’œuvre est la révélation de qui est le Christ :
 
@@ -3664,14 +3659,11 @@ C’est pourquoi mon cher frère ministre de la Parole, serviteur de Jésus-Chri
 
 > Combats le bon combat de la foi, saisis la vie éternelle, à laquelle tu as été appelé, et pour laquelle tu as prononcé cette belle confession en présence d’un grand nombre de témoins. 1 Tim 6 :12-13.
 
-## Troisième partie
-
-## L’exercice des ministères dans les assemblées locales
+## Troisième partie : l’exercice des ministères dans les assemblées locales
 
 -11-
 
-L’EXERCICE DES MINISTÈRES  
-DANS LES ASSEMBLÉES LOCALES
+## L’exercice des ministères dans les assemblées locales
 
 Les ministères sont pour tout le Corps de Christ, y compris pour l’assemblée locale, car, l’assemblée locale fait partie intégrante du Corps de Christ. Plusieurs enseignent que les ministères sont itinérants mais que les anciens sont chargés de la direction des assemblées locales – en sorte que certains frères admettent difficilement l’exercice d’un ministère dans une assemblée locale. De toutes les manières, il est important que les Saintes Écritures soient placées en avant par rapport à toutes les déclarations qu’un quelconque serviteur de Dieu peut faire sur le sujet. Les ministères ont été donnés pour le Corps de Christ. C’est pourquoi ils doivent s’exercer partout où se trouvent des enfants de Dieu. En plus, il ne faut pas occulter la notion de « champ de mission » qui est strictement liée à l’exercice des ministères.
 
@@ -4323,9 +4315,7 @@ Cet avertissement se trouvait à la fin de la parabole des talents. Celui qui m�
 
 QUE CELUI QUI A DES OREILLES ENTENDE CE QUE L’ESPRIT DIT AUX SAINTS.
 
-## Cinquième partie :
-
-Les faux Christ et les faux prophètes
+## Cinquième partie : les faux Christ et les faux prophètes
 
 -14-
 
@@ -4401,7 +4391,7 @@ Jésus a dit que des faux prophètes sont venus dans le monde. Ils sont tous ani
 
 Cette jeune femme dont il est question avait un esprit de python par lequel elle faisait de la divination. Cet esprit est un esprit de séduction. Il peut prédire l’avenir – il prophétise. C’est cet esprit qui disait pendant plusieurs jours aux habitants de la Macédoine que Paul et tous ses compagnons étaient des serviteurs du Dieu Très-Haut. Ce démon ne mentait pas. Il disait la Vérité. La femme au travers de laquelle cet esprit travaillait était consultée comme une prophétesse. Aujourd’hui, il y a beaucoup de prophétesses parmi le peuple de Dieu. Elles prétendent toutes parler de la part de Dieu, mais ne connaissent pas Dieu. Elles sont plutôt animées par l’esprit du python qui est l’esprit de la divination. C’est cet esprit de python qui séduisit Ève dans le jardin d’Éden. C’est lui qui séduisait Balaam. C’est lui qui est à l’œuvre présentement dans le monde. Il travaille puissamment dans le monde de la chrétienté. Il travaille chez ceux qu’on appelle les visionnaires. Ce démon est très puissant et très habile. Il aime même le jeûne et la prière. C’est pourquoi, les faux prophètes le reçoivent après plusieurs jours de jeûne et de prière.
 
-Ceux qui utilisent le langage du python réclament des ministères. Au cours des réunions, ces soi-disant hommes de Dieu demandent à l’assistance de passer du temps dans l’adoration. C’est en ce moment de disposition particulière que cet esprit de python est communiqué aux âmes mal affermies par l’imposition des mains. Ceux qui reçoivent cet esprit perdent connaissance et tombent à la renverse. Alors, on prétend avoir reçu le Saint-Esprit. De telles pratiques n’existent pas dans les Saintes Écritures. Le Saint-Esprit ne saisit pas les chrétiens pour les faire tomber. Le jour de la Pentecôte à Jérusalem, il n’a pas été dit que les disciples sont tombés à la renverse après avoir reçu le Saint-Esprit. Act 2. Celui que le Saint-Esprit saisit est inondé de joie et de paix. Si ce dernier vit dans le péché, il pleure sur son péché et s’en repent. Le Saint-Esprit ne met pas les âmes en transe à chaque séance de prière.
+Ceux qui utilisent le langage du python réclament des ministères. Au cours des réunions, ses soi-disant hommes de Dieu demandent à l’assistance de passer du temps dans l’adoration. C’est en ce moment de disposition particulière que cet esprit de python est communiqué aux âmes mal affermies par l’imposition des mains. Ceux qui reçoivent cet esprit perdent connaissance et tombent à la renverse. Alors, on prétend avoir reçu le Saint-Esprit. De telles pratiques n’existent pas dans les Saintes Écritures. Le Saint-Esprit ne saisit pas les chrétiens pour les faire tomber. Le jour de la Pentecôte à Jérusalem, il n’a pas été dit que les disciples sont tombés à la renverse après avoir reçu le Saint-Esprit. Act 2. Celui que le Saint-Esprit saisit est inondé de joie et de paix. Si ce dernier vit dans le péché, il pleure sur son péché et s’en repent. Le Saint-Esprit ne met pas les âmes en transe à chaque séance de prière.
 
 Lors de la réception de cet esprit de python, certains voient du feu et d’autres ressentent de la chaleur quelque part dans leur corps. Les hommes de Dieu animés par ce démon aiment dire : « l’esprit m’a dit » – « l’esprit a mis sur mon cœur ». Nous connaissons ce langage parce que Dieu nous a fait découvrir le milieu. Ils aiment encore dire : « le Saint-Esprit va vous toucher » – « le Saint-Esprit va vous saisir ». Les faux christs font beaucoup de révélations au cours des réunions parce qu’ils laissent du temps à ce démon pour se manifester et troubler la vie des pauvres âmes. Ils aiment dire aux gens : « la grâce de Dieu est sur toi » – « Dieu veut faire de grandes choses dans ta vie ; dispose-toi ». C’est en ce moment qu’ils révèlent aux intéressés leurs ministères. Les faux prophètes aiment révéler aux femmes leurs ministères, alors qu’il est interdit aux femmes dans les Écritures d’exercer les Ministères de la Parole qui sont dévolus aux hommes (Éph 5.24 ; 1 Tim 2.11-14 ; tit 2.4 ; 1 Cor, 14. 33-39). Lorsque Dieu appelle son serviteur, Il lui adresse directement son ordre de mission. Il ne passe pas par des intermédiaires. Je ne suis pas sûr qu’un apôtre ait une fois dit à tel ou à tel frère que Dieu l’aurait établi pasteur ou évangéliste. Cette pratique qui vient de ce démon a fait qu’il y a désormais dans le champ de Dieu, plusieurs ouvriers qui, en réalité, n’ont reçu aucun mandat divin. Ils sont entrés dans le ministère sur exhortation et révélation des esprits séducteurs.
 

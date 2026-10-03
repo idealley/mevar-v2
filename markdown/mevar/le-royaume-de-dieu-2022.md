@@ -472,9 +472,7 @@ Il est important que les fils du Royaume connaissent bien leur identité, sachen
 
 Dans cet exposé, je ne saurais aborder toutes les questions liées au Royaume, le sujet étant vaste et profond, et comme le dit l’apôtre Paul : aujourd’hui **je connais en partie**. Il serait donc prétentieux de ma part d’affirmer en cerner tous les contours. Bientôt, dans un avenir très proche, nous verrons les choses telles qu’elles sont et ce sera pour nous un sujet de joie éternelle. Pour l’heure, avec le secours de notre Maître et Sauveur Jésus-Christ de Nazareth, j’aborderai ce sujet sur certains de ses aspects liés notamment aux fonctionnements et principes qui le gouvernent. Que le nom du Seigneur soit béni.
 
-## Chapitre I :
-
-### L’origine du Royaume de Dieu
+## Chapitre I : l’origine du Royaume de Dieu
 
 > **Alors le roi dira à ceux qui seront à sa droite : Venez, vous qui êtes bénis de mon Père ; prenez possession du Royaume qui vous a été préparé dès la fondation du monde. (Matthieu 25:34)**
 
@@ -718,9 +716,7 @@ L’homme charnel a peur et tremble devant les démons. Ce qui est né de la cha
 
 Ce n’est pas dans la volonté de Dieu que la Création soit sous l’emprise des puissances démoniaques mais c’est la défaite dans le jardin d’Éden qui a placé l’homme et la Création tout entière sous le règne de Satan. La Création espère qu’un jour elle sera délivrée de la servitude, lorsque les fils de Dieu vont recouvrer la liberté. **Les enfants de Dieu sont appelés à la liberté, mais cette liberté passe par la délivrance de la puissance du péché**.
 
-## Chapitre II :
-
-### L’œuvre de restauration du Royaume
+## Chapitre II : l’œuvre de restauration du Royaume
 
 ### I- La promesse du rétablissement du Royaume
 
@@ -824,9 +820,7 @@ Par l’Église qui est composée des hommes et des femmes rachetés par le sang
 
 Ainsi le Royaume est peuplé des fils et des filles de Dieu. C’est le Royaume des fils de Dieu, car le Seigneur notre Dieu dans ses desseins originels, a voulu manifester sur la terre ses fils et ses filles pour sa propre gloire. Les fils de Dieu reçoivent par leur naissance dans le Royaume, une position et une mission liées à la réalisation de la volonté de leur Père sur la terre.
 
-## Chapitre III
-
-### Les fils du Royaume
+## Chapitre III : les fils du Royaume
 
 > Le Royaume des cieux est encore semblable à un filet jeté dans la mer et ramassant des poissons de toute espèce. Quand il est rempli, les pêcheurs le tirent ; et, après s’être assis sur le rivage, ils mettent dans des vases ce qui est bon, et ils jettent ce qui est mauvais. (Matthieu 13:4-48)
 
@@ -1058,7 +1052,7 @@ Le pouvoir de Satan sur les hommes, et par conséquent sur la Création, est le 
 
 Par son triomphe sur le péché et la mort, Jésus pouvait déclarer : « tout pouvoir m’a été donné non seulement dans le ciel mais également sur la terre » (Ibid.). Il est la postérité de la femme qui a écrasé la tête du serpent, c’est-à-dire sa puissance. Il est la postérité qui n’a jamais été soumise et ne sera jamais soumise à Satan. De Lui est née une postérité semblable à Lui et qui a pour vocation de ne point se soumettre à Satan et à son pouvoir c’est-à-dire le péché. L’armée de Jésus est issue de la postérité qu’Il a reçue en récompense après avoir donné sa vie en rançon pour le pardon des péchés.
 
-**a- Premier critère pour être enrôlé : refuser de se soumettre au péché**
+### a- Premier critère pour être enrôlé : refuser de se soumettre au péché
 
 Par essence le chrétien n’est pas soumis au péché. C’est ce qui le distingue des autres hommes. Il y a un rapport de force établi entre le chrétien et le péché. Ce rapport donne toujours le chrétien vainqueur sur le péché dans son principe. De par sa position, le chrétien est appelé à dominer sur le péché en toutes circonstances. Mais malheureusement il arrive, et cela très souvent, que celui-ci se laisse dominer par le péché qui est non seulement son ennemi mais également celui de tout homme.
 
@@ -1145,9 +1139,7 @@ Les fils du Royaume ayant reçu l’Autorité et la Puissance par leur Roi et Se
 
 Le combat des soldats consiste à manifester la vie et donc la lumière. Celui qui conserve la vie est un témoin véritable, précieux et utile dans l’armée du Seigneur pour repousser et détruire les hordes de ténèbres contre lesquelles le Royaume de Dieu est en guerre. Le règne de Jésus est imminent. Avant ce règne que toute la Création attend, il y a la guerre. Les fils du Royaume sont appelés au combat contre Babylone pour la détruire. Dans le Royaume de Dieu il y a un appel à la guerre. Les soldats sont appelés à la guerre. Celui qui est de l’armée de Jésus doit se lever pour la guerre.
 
-## Chapitre IV :
-
-### La loi qui gouverne le Royaume de Dieu
+## Chapitre IV : la loi qui gouverne le Royaume de Dieu
 
 > Ne croyez pas que je sois venu pour abolir la loi ou les prophètes ; je suis venu non pour abolir mais pour accomplir. Car je vous le dis en vérité, tant que le ciel et la terre ne passeront point, il ne disparaîtra de la loi un seul iota ou un seul trait de lettre, jusqu’à ce que tout soit arrivé. (Matthieu 5:17-18)
 
@@ -1481,7 +1473,7 @@ Malheureusement, il arrive qu’on supplie des frères et souvent en vain, afin 
 
 La survie du vieil homme dans le Royaume de Dieu, est un scandale et une abomination. Tout comportement ou attitude charnel est un scandale dans le Royaume de Dieu. Tout mensonge, toute colère, toute injure dans l’Église est un scandale. Or le Seigneur a promis dans Matthieu 40:42, qu’il enverra ses anges arracher de son Royaume les scandales et ceux qui commettent l’iniquité à la fin du monde. **Avant cet avènement, il appartient à chaque chrétien de traiter le problème de son vieil homme, c’est-à-dire de la chair**.
 
-**b- Le dépouillement du vieil homme, seule solution pour obéir à la loi du Royaume**
+### b- Le dépouillement du vieil homme, seule solution pour obéir à la loi du Royaume
 
 Le dépouillement du vieil homme – ou la destruction de la chair – est l’un des sujets difficiles à cerner par le croyant. En vue de la victoire, tout croyant doit avoir une compréhension juste. Nous venons de voir que le vieil homme – ou la chair – a des œuvres. Les manifestations de ces œuvres attestent des problèmes spirituels du chrétien. Pour un chrétien, chaque manifestation de la chair révèle un problème spirituel c’est-à-dire une immaturité spirituelle. Comment alors traiter cette question du vieil homme ? Que dit la parole de Dieu à ce propos ?
 
@@ -1547,9 +1539,7 @@ C’est ce que l’apôtre Pierre enseigne également :
 
 En abordant la même question, Pierre demande de faire tous nos efforts. Les efforts demandés ici ne sont pas des efforts dans la chair mais des efforts spirituels ou en esprit. C’est ce qui nous donne accès à ces trésors spirituels dans le Royaume de Dieu. La loi n’est pas contre ces choses. Au contraire, leur possession nous conduit à l’accomplissement de la loi en nous, c’est-à-dire à l’obéissance totale à la parole de Dieu qui est la loi du Royaume de Dieu. Ainsi, vivre et marcher par l’esprit consiste à manifester les œuvres de l’Esprit qui sont également les œuvres de la foi. En le manifestant, nous accomplissons la loi du Royaume de Dieu. Car comme il est écrit, toute la loi trouve son accomplissement dans un seul verset : **Car toute la loi est accomplie dans une seule parole, dans celle-ci : Tu aimeras ton prochain comme toi-même. (Galates 5:14**)
 
-## Chapitre V
-
-### Les principes qui gouvernent le Royaume de Dieu
+## Chapitre V : les principes qui gouvernent le Royaume de Dieu
 
 Comme tout Royaume, le Royaume de Dieu est organisé et fonctionne sur des principes. Pour vivre comme un bon citoyen dans le Royaume, il importe de comprendre comment celui-ci est organisé et comment il fonctionne. Son organisation et son fonctionnement sont fondés sur des principes dont la compréhension est nécessaire pour réussir en tant que fils dans le Royaume de notre père.
 
@@ -1749,7 +1739,7 @@ Le principe fondamental, c’est qu’aucun enseignement ne doit aboutir à la n
 
 Certains serviteurs affirment que deux ou trois témoignages des saintes Écritures suffisent pour confirmer une vérité. Cela n’est pas vrai dans tous les cas. Deux ou trois exemples de faits bibliques suffisent pour attester la vérité écrite. Mais des exemples tirés de la Bible ne suffisent pas pour donner naissance à une vérité non écrite. Pour une meilleure compréhension, il est nécessaire d’examiner certaines fausses doctrines et leur mode de conception.
 
-**a- Le parler en langue – signe du baptême du Saint-Esprit**
+### a- Le parler en langue – signe du baptême du Saint-Esprit
 
 Beaucoup de chrétiens croient ceci : « le signe de l’évidence du Saint-Esprit est le parler en langues. » Celui qui expérimente au moins une fois le parler en langues a reçu le Saint-Esprit selon cette doctrine. C’est pour eux la certitude du baptême de l’Esprit. Cette manière de croire est totalement fausse, car cela n’est pas écrit dans la parole de Dieu. On ne trouve aucune écriture qui dise expressément que le fait de parler en langues est le signe que l’on a reçu le baptême du Saint-Esprit ou bien que lorsque l’on reçoit le baptême du Saint-Esprit on doit obligatoirement parler en langues. Cependant beaucoup d’exemples bibliques montrent que plusieurs de ceux qui étaient baptisés du Saint-Esprit parlaient en langues et prophétisaient :
 
@@ -1825,9 +1815,7 @@ Les hommes sont terrestres et ne connaissent que les choses de la terre. Mais le
 
 Or la Parole manifeste la vie harmonieuse dans la paix, la douceur, la patience, l’équité, la justice, la charité… et l’amour. Les matériaux qui participent à l’édification de la maison spirituelle de Dieu sont spirituels. Tous ceux qui œuvrent à la construction de cet édifice doivent être équipés par le Maître de l’ouvrage. Ils doivent alors veiller à ne pas utiliser des matériaux terrestres qui mettent à mal l’équilibre de l’édifice. Tout usage de matériaux terrestres engendre les ténèbres et la mort. Or le Royaume de Dieu, c’est la lumière, c’est la vie.
 
-## Chapitre VI
-
-### La vie dans le Royaume de Dieu
+## Chapitre VI : la vie dans le Royaume de Dieu
 
 > Et voici ce témoignage, c’est que Dieu nous a donné la vie éternelle, et que cette vie est dans son Fils. Celui qui a le Fils a la vie ; celui qui n’a pas le Fils de Dieu n’a pas la vie. Je vous ai écrit ces choses, afin que vous sachiez que vous avez la vie éternelle, vous qui croyez au nom du Fils de Dieu. (1 Jean :11-13)
 
@@ -2053,9 +2041,7 @@ Heureusement la confusion ne sera pas toujours dans le Royaume de Dieu. Le Seign
 
 Lorsque le Soleil de Justice paraîtra dans sa gloire, ils resplendiront de son éclat, car ils sont issus de Lui. Ils brilleront comme le Soleil de Justice parce qu’ils manifesteront la même nature de vie. Ainsi ils brilleront dans le Royaume de leur père sous le règne du Roi des rois et du Seigneur des seigneurs dont le règne et le Royaume sont éternels.
 
-## Chapitre VII
-
-### Le roi du Royaume de Dieu
+## Chapitre VII : le roi du Royaume de Dieu
 
 > Pour indiquer le sujet de sa condamnation, on écrivit au-dessus de sa tête : Celui-ci est Jésus, le roi des Juifs. (Matthieu 27:37)
 
