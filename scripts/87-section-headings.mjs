@@ -213,7 +213,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const { decisions, usage } = await decide(lines);
     // a heading that is not its line, case and accents aside, stays a line
     all[md] = [...(all[md] ?? []), ...decisions.map((d) => {
-      const heading = d.heading && headingOf(d.line, d.heading);
+      // the model gives ## or ### only; #### is an editor's decision (goal 18)
+      const heading = d.heading && /^#{2,3} /.test(d.heading) && headingOf(d.line, d.heading);
       if (d.heading && !heading) console.log(`  kept, the model changed a word: ${md}: « ${d.line} » → « ${d.heading} »`);
       return d.heading && !heading ? { line: d.line, heading: null, refused: d.heading } : { line: d.line, heading };
     })];
