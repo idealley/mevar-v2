@@ -46,6 +46,8 @@ bible_refs:
   - "Genèse 38"
   - "Genèse 38:6-11"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/pred-femmeetrangere.pdf"
+text_pdf: "/files/mevar-text/la-femme-etrangere-2007.pdf"
 ---
 Ce que le frère vient de dire n’est pas à proprement parler un témoignage. Il a quelque chose contre ce qui vient de se passer dans la salle. [Ass : Amen ! Réd.] Lui, il travaille à la chaire, je peux tolérer ça. Mais s’il y a un frère qui a ces genres de propos à tenir ici, qu’il vienne voir les anciens pour faire les reproches [dans la salle de réception Réd.] Est-ce que vous comprenez ? [Ass : Amen ! Réd.] Alors, ce que le frère a dit est vrai. Il faut qu’on arrive à contenir ses émotions. La Bible dit que l’esprit des prophètes est soumis au prophète. Ce n’est pas seulement pour ceux qui prophétisent. Je pense qu’on peut étendre ça, pour dire qu’un croyant qui a en lui l’Esprit Saint peut quand même se maîtriser. Vous comprenez, frères ? Il peut se maîtriser. On peut se maîtriser. Celui qui a en lui l’Esprit Saint peut se maîtriser. La Bible parle de la maîtrise de soi. Et c’est justement l’Esprit Saint qui donne la maîtrise de soi.
 

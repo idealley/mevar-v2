@@ -23,6 +23,7 @@ bible_refs:
   - "Hébreux 5:7-9"
   - "2 Corinthiens 6"
   - "Apocalypse 22:10-12"
+text_pdf: "/files/mevar-text/je-me-sanctifie-moi-meme-pour-eux.pdf"
 ---
 Que notre Dieu soit béni. Je vous salue dans le nom de notre Seigneur Jésus-Christ. Il faut dire que ce matin je ne me porte pas assez bien et j’espère que ma voix sera perceptible. Je compte sur la grâce de Dieu.
 

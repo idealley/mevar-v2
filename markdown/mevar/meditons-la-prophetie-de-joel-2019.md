@@ -57,6 +57,8 @@ bible_refs:
   - "Malachie 3"
   - "Luc 4:1-2"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/exho-mai-2019.pdf"
+text_pdf: "/files/mevar-text/meditons-la-prophetie-de-joel-2019.pdf"
 ---
 Que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans son amour. Comme je vous l’ai déjà dit, nous avons entamé la dernière phase de l’œuvre de réveil de Minuit. Aujourd’hui tous les frères et sœurs en Christ devraient comprendre de manière très claire que c’est la prière qui va délivrer l’Église et rien d’autre. N’est-ce pas dans les prophéties de Joël que se trouve décrit le triste sort de l’Église de Laodicée telle que prêchée par le prophète William Branham dans la restitution de l’Arbre de l’Épouse ?
 

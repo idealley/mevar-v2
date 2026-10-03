@@ -55,6 +55,8 @@ bible_refs:
   - "Luc 17"
   - "Actes 19"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/quel-est-ton-besoin.pdf"
+text_pdf: "/files/mevar-text/quel-est-ton-besoin-2007.pdf"
 ---
 Alléluia ! Amen ! Que Dieu vous bénisse ! Nous remercions les frères et sœurs pour hier, pour le mariage de notre frère Richet et sa femme. Vraiment l’église a honoré ce mariage, et nous sommes reconnaissants. Que Dieu vous bénisse ! Et comme le frère Richet a dit : que vous soyez tous récompensés au centuple. Et je crois que celui qui prend part à ces genres d’évènements sera honoré à son tour. Amen ! C’est comme ça.
 

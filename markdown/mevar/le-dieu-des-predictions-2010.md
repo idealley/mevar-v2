@@ -63,6 +63,8 @@ bible_refs:
   - "Psaumes 89:15"
   - "Matthieu 25"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/ledieudespred.pdf"
+text_pdf: "/files/mevar-text/le-dieu-des-predictions-2010.pdf"
 ---
 Nous vous saluons au Nom du Seigneur Jésus. On va encore écouter la Parole de Dieu, et il est bon que nous soyons attentifs, que nous puissions avoir des oreilles de disciples pour comprendre la Parole de Dieu, parce que le gros problème, c’est que beaucoup ne comprennent pas la Parole de Dieu. Ils ne comprennent pas parce qu’ils sont enseignés par des hommes qui ne sont pas envoyés. Quand ceux qui n’ont pas été envoyés prêchent, c’est difficile de comprendre.
 

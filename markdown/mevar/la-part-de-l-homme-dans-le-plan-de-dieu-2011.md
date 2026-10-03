@@ -50,6 +50,8 @@ bible_refs:
   - "Matthieu 24"
   - "Apocalypse 19"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lapartdehomme.pdf"
+text_pdf: "/files/mevar-text/la-part-de-l-homme-dans-le-plan-de-dieu-2011.pdf"
 ---
 Amen ! On va écouter la Parole de Dieu. On a trouvé bon de programmer encore vendredi et samedi un moment de jeûne. Amen ! Donc on va jeûner le vendredi et puis arrêter le samedi soir après la réunion ici. Donc samedi prochain à dix heures, on aura encore une réunion ici pour prier pour la situation, aussi pour nous-mêmes. On doit reprendre les moments de prière comme je l’ai dit ici.
 

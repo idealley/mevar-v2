@@ -29,6 +29,7 @@ bible_refs:
   - "Apocalypse 21:16"
   - "Esther 6"
   - "Ésaïe 17"
+text_pdf: "/files/mevar-text/qu-a-vraiment-vu-zacharie.pdf"
 ---
 ## Le rouleau et l'épha - étude du chapitre 5 de Zacharie
 

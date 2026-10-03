@@ -66,6 +66,8 @@ bible_refs:
   - "Job 22:28"
   - "Jacques 1:5-8"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhortationjanv2008.pdf"
+text_pdf: "/files/mevar-text/la-victoire-appartient-a-l-eternel-2008.pdf"
 ---
 ## Victoire ! Victoire ! Victoire !
 

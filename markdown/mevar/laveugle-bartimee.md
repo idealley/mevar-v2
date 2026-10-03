@@ -49,6 +49,7 @@ bible_refs:
   - "Lévitique 25:8-13"
   - "Sophonie 3:10-12"
   - "Psaumes 68:31-3"
+local_pdf: "/files/onedrive/exho-mi-juillet2010.pdf"
 ---
 ## Exhortation de mi-juillet 2010
 

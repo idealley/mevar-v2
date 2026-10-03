@@ -61,6 +61,7 @@ bible_refs:
   - "Daniel 7"
   - "Apocalypse 13"
   - "Apocalypse 17:14"
+local_pdf: "/files/onedrive/exho-mars2011.pdf"
 ---
 ## Exhortation de mars 2011
 

@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 8:36"
   - "Hébreux 3:7-8"
   - "2 Corinthiens 7:10"
+local_pdf: "/files/onedrive/dehors.pdf"
 ---
 ## Exhortations de juillet 2007
 

@@ -27,6 +27,7 @@ bible_refs:
   - "Philippiens 2:5-8"
   - "Matthieu 25:6"
   - "Matthieu 24:12"
+local_pdf: "/files/onedrive/exho-fev2009.pdf"
 ---
 ## Exhortation de février 2009
 

@@ -36,6 +36,7 @@ bible_refs:
   - "Michée 5:1-5"
   - "Matthieu 25"
   - "2 Thessaloniciens 2"
+local_pdf: "/files/onedrive/exho-fin-mai-2012.pdf"
 ---
 ## Exhortation de fin mai 2012
 

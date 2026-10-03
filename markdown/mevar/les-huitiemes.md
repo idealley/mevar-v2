@@ -163,6 +163,8 @@ bible_refs:
   - "Actes 2:4"
   - "Actes 2:38"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/la-part-du-huitieme.pdf"
+text_pdf: "/files/mevar-text/les-huitiemes.pdf"
 ---
 ## Introduction
 

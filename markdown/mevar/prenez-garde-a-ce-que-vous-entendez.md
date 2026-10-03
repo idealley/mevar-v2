@@ -33,6 +33,7 @@ bible_refs:
   - "1 Samuel 18"
   - "1 Samuel 18:1-4"
   - "2 Samuel 1:17-27"
+local_pdf: "/files/onedrive/exho-novembre-2008.pdf"
 ---
 ## Exhortation de mois de novembre 2008
 

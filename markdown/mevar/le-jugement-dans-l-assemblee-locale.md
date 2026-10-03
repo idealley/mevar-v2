@@ -83,6 +83,8 @@ bible_refs:
   - "2 Jean 1:9-10"
   - "2 Timothée 4"
 editorial_pass: "2026-10-03"
+local_pdf: "/files/onedrive/le-jugement.pdf"
+text_pdf: "/files/mevar-text/le-jugement-dans-l-assemblee-locale.pdf"
 ---
 © **M’Bra Parfait** : Mission d’Évangélisation et de Réveil, 2006  
 20 B.P. 1011 Abidjan 20 - Côte d’Ivoire  

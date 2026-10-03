@@ -49,6 +49,8 @@ bible_refs:
   - "Daniel 10:13"
   - "Matthieu 25"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhormars.pdf"
+text_pdf: "/files/mevar-text/le-message-de-la-sanctification-2007.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs en Christ notre Seigneur et Sauveur – **vous qui avez décidé de vous associer au Ciel pour mener le dernier combat contre l’adversaire de Dieu**. Je vous salue tous avec joie et reconnaissance à notre Seigneur – **vous qui avez pris conscience que la victoire s’acquiert dans la mobilisation commune dans la prière**. Que la grâce et la Paix du Christ notre Maître soient avec vous tous.
 

@@ -23,6 +23,7 @@ bible_refs:
   - "Matthieu 7:13-14"
   - "Luc 13:23-29"
   - "Job 22:28"
+local_pdf: "/files/onedrive/exho-fin-aout-2012.pdf"
 ---
 ## Exhortation de fin septembre 2012
 

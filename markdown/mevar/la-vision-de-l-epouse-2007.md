@@ -56,6 +56,8 @@ bible_refs:
   - "Ésaïe 30:26"
   - "2 Samuel 15"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhortationoctobre2007.pdf"
+text_pdf: "/files/mevar-text/la-vision-de-l-epouse-2007.pdf"
 ---
 ## Appel à la guerre – appel au combat contre Babylone
 

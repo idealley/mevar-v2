@@ -59,6 +59,8 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 13:12-14"
   - "Ésaïe 40"
+local_pdf: "/files/onedrive/planattaque2.pdf"
+text_pdf: "/files/mevar-text/plan-d-attaque-ii-preche-novembre-2009.pdf"
 ---
 Amen ! Que le Seigneur nous bénisse ! Est-ce qu’il y a des gens qui sont là pour la première fois ? Les personnes invitées parmi nous… Je vais poursuivre un peu ce qui a été dit le dimanche passé, amen ! On va continuer un peu là-dessus parce qu’il y a des choses qui me sont venues. C’est vrai qu’on a parlé dans les principes, mais de manière détaillée, pratique, il y a certaines choses qu’on aurait pu dire parce qu’on a parlé de stratégie. Amen ! Il faut ramener cela à nous pour comprendre certaines choses. Donc on va continuer. Plan d’attaque. C’est de cela qu’on a parlé le dimanche passé et ce matin encore, on va revenir là-dessus. On repart dans le texte de base qu’on a lu dans Éphésiens chapitre 6 du verset 10 au verset 12. On peut lire jusqu’au verset 13.
 

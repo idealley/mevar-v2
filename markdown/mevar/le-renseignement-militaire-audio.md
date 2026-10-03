@@ -17,6 +17,7 @@ authors:
 ghost_id: "6448fa86db90770001518f7f"
 uuid: "9a735971-7384-48cd-ab42-bb525af54861"
 stream_url: "https://mevar.org/le-renseignement-militaire-audio/"
+text_pdf: "/files/mevar-text/le-renseignement-militaire-audio.pdf"
 ---
 ## Le combat spirituel
 

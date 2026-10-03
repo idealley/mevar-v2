@@ -83,6 +83,8 @@ bible_refs:
   - "Romains 8:18-22"
   - "Matthieu 5:14-16"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhomai2010.pdf"
+text_pdf: "/files/mevar-text/la-vision-du-macedonien-2010.pdf"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole de Jean :
 

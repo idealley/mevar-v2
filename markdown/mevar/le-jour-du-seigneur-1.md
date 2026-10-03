@@ -55,6 +55,7 @@ series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
 series_part: 1
 series_total: 5
+text_pdf: "/files/mevar-text/le-jour-du-seigneur-1.pdf"
 ---
 ### **Prêché à koumassi, le 29 octobre 2023**
 

@@ -25,6 +25,7 @@ bible_refs:
   - "Apocalypse 2:13"
   - "Apocalypse 2:6"
   - "Apocalypse 6:2"
+text_pdf: "/files/mevar-text/la-signification-du-nom-laodicee.pdf"
 ---
 ## Ecris à l'ange de l'église de Laodicée (Apocalypse 3.14)
 

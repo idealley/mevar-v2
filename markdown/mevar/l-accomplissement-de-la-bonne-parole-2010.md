@@ -59,6 +59,8 @@ bible_refs:
   - "Apocalypse 3:14"
   - "Apocalypse 12"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/pred-jan2011.pdf"
+text_pdf: "/files/mevar-text/l-accomplissement-de-la-bonne-parole-2010.pdf"
 ---
 Alléluia ! Que le Nom du Seigneur soit béni ! Nous vous saluons au Nom du Seigneur Jésus. C’est par la grâce de Dieu que je suis arrivé encore ici. Je voudrais vous transmettre les salutations du frère Pascal qui devait m’accompagner mais qui n’a pas pu venir, avec les autres frères du Burkina Faso parce que j’ai été là-bas avant de venir ici. Mes frères d’Abidjan vous saluent aussi, les frères du Bénin et hier aussi, on a discuté avec le frère Barilier, il vous salue. Il m’a dit : « Frère, je salue les frères que tu vois. » Amen ! Il va bien. J’ai été là-bas en juin, on a eu deux semaines de réunions et il y a eu aussi beaucoup d’invités qui sont venus écouter la Parole.
 

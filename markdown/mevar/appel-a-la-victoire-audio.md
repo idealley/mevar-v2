@@ -16,6 +16,7 @@ authors:
 ghost_id: "6448fa86db90770001518f7e"
 uuid: "fd1eacf7-24eb-4fd7-ae3b-364982e210e2"
 stream_url: "https://mevar.org/appel-a-la-victoire-audio/"
+text_pdf: "/files/mevar-text/appel-a-la-victoire-audio.pdf"
 ---
 * * *
 

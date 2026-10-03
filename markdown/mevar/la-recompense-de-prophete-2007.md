@@ -53,6 +53,8 @@ bible_refs:
   - "Matthieu 10"
   - "Zacharie 14:7"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/larecompensedeprophete.pdf"
+text_pdf: "/files/mevar-text/la-recompense-de-prophete-2007.pdf"
 ---
 Que le nom du Seigneur soit béni ! Nous remercions le Seigneur pour l’occasion qu’Il nous donne encore de prêcher Sa Parole. Ce soir, je voudrais parler de l’esprit d’Élie. Dans les temps où nous sommes parvenus, c’est cet esprit que Dieu nous a envoyé. Et cet esprit est venu pour nous apporter la Lumière au temps du Soir. Cela a été l’accomplissement de Malachie 4 :5-6. Vous savez vous-mêmes que c’est le fondement du Message du temps de la fin. Dieu a fait la promesse qu’à la fin des temps, il nous enverra le prophète Élie pour ramener nos cœurs à l’adoration des pères apostoliques.
 

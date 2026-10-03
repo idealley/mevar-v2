@@ -20,6 +20,7 @@ authors:
 ghost_id: "6448fa86db90770001518f92"
 uuid: "2c891ebb-9b31-491e-90bf-7f650ae04d9c"
 stream_url: "https://mevar.org/les-complots-de-la-vengeance-2-les-complots-de-satan-11/"
+text_pdf: "/files/mevar-text/les-complots-de-la-vengeance-2-les-complots-de-satan-11.pdf"
 ---
 ## Les complots de Satan (11) - Le combat spirituel
 

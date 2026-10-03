@@ -58,6 +58,7 @@ series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
 series_part: 4
 series_total: 5
+text_pdf: "/files/mevar-text/le-jour-du-seigneur-4-et-les-tribulations.pdf"
 ---
 Gloire à Dieu. On va commencer dans Mathieu 24 à partir du verset 15 :
 

@@ -27,6 +27,7 @@ bible_refs:
   - "Hébreux 13:11-13"
   - "1 Pierre 1:22-23"
   - "Lévitique 10:1-3"
+local_pdf: "/files/onedrive/toilette.pdf"
 ---
 Que le nom du Seigneur soit béni ! Comme le frère l’a dit, nous sommes venu à Arrah pour soutenir notre frère Ebrotié qui a perdu son père. Mais nous sommes des serviteurs de Dieu, des prédicateurs de la Parole de Dieu. Et là où des portes s’ouvrent, nous apportons le Message divin. Et il s’agit chaque jour d’écouter la Parole de Dieu, parce que le Dieu que nous servons est le Dieu du présent… Dieu nous parle toujours au présent et au futur. Et chaque jour, Il a une Parole pour nous. C’est en cela que nous pouvons être sanctifiés.
 

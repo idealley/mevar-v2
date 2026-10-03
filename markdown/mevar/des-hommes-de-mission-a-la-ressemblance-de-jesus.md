@@ -189,6 +189,7 @@ bible_refs:
   - "Hébreux 10:14"
   - "Jean 17:22-26"
   - "Jean 8:16"
+local_pdf: "/files/onedrive/des-hommes-de-mission.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs, en Christ notre Seigneur. Que Sa grâce et Sa paix soient avec vous tous. Pour ce mois de juillet, je voudrais vous adresser une exhortation écrite par notre frère [Kouadio Pierre](/auteurs/pierre-kouadio/), qui travaille avec nous à la Mission d’Évangélisation et de Réveil. Je vous souhaite une bonne lecture.
 

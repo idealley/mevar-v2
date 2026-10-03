@@ -59,6 +59,7 @@ bible_refs:
   - "Nombres 23"
   - "Ésaïe 66:7-24"
   - "Apocalypse 21:2"
+text_pdf: "/files/mevar-text/la-parabole-des-noces.pdf"
 ---
 ### Un peuple mis à part
 

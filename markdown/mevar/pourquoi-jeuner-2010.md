@@ -52,6 +52,8 @@ bible_refs:
   - "Matthieu 11:21"
   - "Joël 2:13"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lejeune.pdf"
+text_pdf: "/files/mevar-text/pourquoi-jeuner-2010.pdf"
 ---
 Que Dieu vous bénisse ! Je vais prendre mon temps pour vous entretenir sur ce sujet de manière définitive pour qu’on puisse se comprendre. Je voudrais appeler notre sœur Prisca si elle est là. Sœur Prisca, vous pouvez venir. C’est la femme du frère Kouamé qui nous a devancés. Il y a certaines personnes qui ne la connaissent pas. C’est la sœur, c’est son mari qui est décédé… la sœur Prisca. Donc c’est une veuve qui est parmi nous. Elle a trois enfants avec elle. Donc l’église entière a le devoir de prendre soin d’elle et de l’assister. Amen ! Sœur, que Dieu te soutienne. On va prier pour que le Seigneur puisse l’assister, la consoler. Donc ceux qui ne connaissent pas le frère Kouamé, c’est sa femme.
 

@@ -40,6 +40,7 @@ bible_refs:
   - "Matthieu 25:21-23"
   - "Luc 16:12-13"
   - "Aggée 1:3-11"
+local_pdf: "/files/onedrive/ehojuin2010.pdf"
 ---
 ## Exhortation de juin 2010
 

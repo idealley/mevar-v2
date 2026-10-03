@@ -44,6 +44,8 @@ bible_refs:
   - "Colossiens 2:15"
   - "Luc 4"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/les-fondement-combat-spirituel.pdf"
+text_pdf: "/files/mevar-text/appel-au-combat-spirituel-appel-a-la-priere-2012.pdf"
 ---
 Je salue à travers cet article tout le Corps de Christ à l’édification duquel je voudrais pouvoir apporter une pierre utile. Par ce message, je voudrais nous sensibiliser au combat spirituel, encourager ceux qui y sont déjà engagés et interpeller ceux qui ne le pratiquent plus ou ne le pratiquent pas du tout, soit par ignorance ou pour cause d’enseignement insuffisant sur le sujet. Certains chrétiens ont circonscrit le combat spirituel au domaine de la sorcellerie, surtout les chrétiens africains, ou au succès social et à la prospérité matérielle et financière, tandis que d’autres l’ont réduit à la recherche de la guérison divine uniquement.
 

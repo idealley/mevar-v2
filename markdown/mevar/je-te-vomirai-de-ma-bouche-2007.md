@@ -51,6 +51,8 @@ bible_refs:
   - "1 Corinthiens 12"
   - "1 Corinthiens 14"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/je-te-vomirai.pdf"
+text_pdf: "/files/mevar-text/je-te-vomirai-de-ma-bouche-2007.pdf"
 ---
 Que Dieu nous bénisse ! Nous sommes reconnaissants au Seigneur qui nous donne l’occasion de nous rencontrer encore ce soir. Il y a des frères et sœurs qui n’arrivent pas à venir aux réunions. J’espère qu’il y a des raisons à cela. Sinon ce n’est pas une bonne chose. Amen ! [Ass : Amen ! Réd] Quand Dieu envoie quelqu’un vers vous, il faut venir écouter ce que Dieu dit. Cela est très important ! On ne se déplace pas en vain, frères et sœurs. On ne voyage pas pour le plaisir de voyager. **On se déplace lorsqu’on a un message pour un peuple**. Et Dieu parle. Nous sommes dans les temps où Dieu parle. Dieu agit, Il se manifeste. Il faut écouter la Voix de Dieu, il faut suivre le mouvement du Saint-Esprit pour être enlevé. C’est très important ! **Parce que celui qui sera enlevé, c’est celui qui sera prêt**. Quand on lit dans la Bible, il n’y a pas d’autres manières. Il est dit que **celles qui étaient prêtes entrèrent**. [Matthieu 25 : 11 Réd.] Quelle est la condition pour être enlevé ? Il faut être prêt. C’est celles qui étaient prêtes qui sont entrées. Celles que le Seigneur a agréées. C’est pour cette raison qu’on doit prêter attention à la préparation. C’est la chose la plus importante dans les temps où nous sommes parvenus. **Parce qu’à l’origine, le Message qu’on a reçu est un Message de préparation**. C’est ce qui a été dit au prophète Branham. Le Seigneur lui a dit : « De la même manière que Jean-Baptiste a été envoyé comme précurseur de ma première venue, tu es envoyé avec un Message qui va préparer Ma seconde venue. »
 

@@ -39,6 +39,7 @@ bible_refs:
   - "Romains 16:20"
   - "Genèse 6"
   - "1 Jean 2:18"
+local_pdf: "/files/onedrive/exho-dec-2012.pdf"
 ---
 ## Exhortation de décembre 2012
 

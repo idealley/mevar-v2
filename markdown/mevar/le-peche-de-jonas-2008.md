@@ -43,6 +43,8 @@ bible_refs:
   - "Jonas 1:1-3"
   - "Malachie 4:5,6"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/peche-jonas.pdf"
+text_pdf: "/files/mevar-text/le-peche-de-jonas-2008.pdf"
 ---
 Alléluia ! Frères et sœurs, que Dieu vous bénisse ! Je pense qu’on peut s’asseoir. Nous remercions le Seigneur qui nous a fait la grâce d’arriver ici à Lagos. Cela fait maintenant la deuxième fois que je viens ici. Je m’appelle M’BRA Parfait… J’avais organisé une convention en Côte d’Ivoire et j’ai invité votre Pasteur Elijah et quand je lui ai dit que je venais ici, il a voulu que je puisse passer du temps avec vous. Alors nous aurons cinq réunions ici, cinq prédications et pour moi mes prédications sont liées les unes aux autres… C’est malheureux que certains ne soient pas là aujourd’hui, parce que ce que nous allons écouter aujourd’hui est relié à tout ce qu’on va écouter par la suite. Parce que je véhicule un Message. Dieu m’a confié un Message que je véhicule aux frères et sœurs.
 

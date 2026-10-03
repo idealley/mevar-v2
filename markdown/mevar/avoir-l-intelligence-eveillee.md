@@ -16,5 +16,6 @@ authors:
 ghost_id: "6448fa86db90770001518fa8"
 uuid: "e62a5a69-2e93-44c8-b7fa-7558f86fc5f6"
 stream_url: "https://mevar.org/avoir-l-intelligence-eveillee/"
+text_pdf: "/files/mevar-text/avoir-l-intelligence-eveillee.pdf"
 ---
 

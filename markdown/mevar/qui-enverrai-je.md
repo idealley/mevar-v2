@@ -24,6 +24,7 @@ bible_refs:
   - "2 Samuel 15"
   - "2 Timothée 2:19"
   - "Exode 20:7"
+local_pdf: "/files/onedrive/pred-quienverrai-je.pdf"
 ---
 Frères et sœurs, que le Seigneur vous bénisse. Nous continuons de prêcher la Parole. J’étais à So-chanwé et aujourd’hui, nous entamons les réunions de Cotonou. Nous lisons dans le livre des Rois.
 

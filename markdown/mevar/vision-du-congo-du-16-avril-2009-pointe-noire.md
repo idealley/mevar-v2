@@ -30,6 +30,8 @@ themes:
   - "Rencontre avec Dieu"
 llm_cleaned: true
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/visioncongo.pdf"
+text_pdf: "/files/mevar-text/vision-du-congo-du-16-avril-2009-pointe-noire.pdf"
 ---
 Je dormais dans ma chambre, puis j’ai été réveillé et conduit au salon, d’où j’ai revu une ancienne vision que j’avais vue au milieu de la cellule de prière. Dans cette vision, j’avais vu un homme dans les cieux, vêtu de blanc, scintillant par le milieu de la poitrine. Plus loin, je voyais une grosse coupe suspendue, un feu brûlait dans cette coupe. Au milieu de ce feu, il y avait un homme comme celui que j’avais vu dans un songe. Cette même vision me revenant cette nuit **du 16 avril 2009**, l’Esprit me secoua en me rappelant qu’il s’agit de la même vision que celle que j’avais vue il y a plusieurs mois.
 

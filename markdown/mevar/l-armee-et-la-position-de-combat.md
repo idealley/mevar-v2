@@ -17,6 +17,7 @@ authors:
 ghost_id: "6448fa86db90770001518f81"
 uuid: "079c3a9f-322d-4a45-ac73-10022f49cef4"
 stream_url: "https://mevar.org/l-armee-et-la-position-de-combat/"
+text_pdf: "/files/mevar-text/l-armee-et-la-position-de-combat.pdf"
 ---
 ## Le combat spirituel
 

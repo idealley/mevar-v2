@@ -19,6 +19,7 @@ authors:
 ghost_id: "6448fa86db90770001518f7c"
 uuid: "af68c157-303a-437b-be9c-7b36e3e57cd3"
 stream_url: "https://mevar.org/le-bouclier-de-la-foi/"
+text_pdf: "/files/mevar-text/le-bouclier-de-la-foi.pdf"
 ---
 ## Le combat spirituel
 

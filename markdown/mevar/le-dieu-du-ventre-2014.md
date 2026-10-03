@@ -50,6 +50,8 @@ bible_refs:
   - "1 Corinthiens 15"
   - "Éphésiens 4:20"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/le-dieu-du-ventre.pdf"
+text_pdf: "/files/mevar-text/le-dieu-du-ventre-2014.pdf"
 ---
 Amen ! Que Dieu soit béni ! On fait des petits bricolages parce qu’il y a des amis qui sont en Europe et qui veulent suivre les prédications. Je leur ai proposé cela parce que ce sont des gens qui ne savent pas trop où aller. Il y a des paroles, quand tu écoutes, tu ne sais plus où aller. Amen ! Tes yeux s’ouvrent et tu ne sais plus où te diriger. Amen ! C’est bon d’avoir les yeux ouverts, mais souvent cela fait un problème. On est en train de trouver une solution. Ce matin, on va essayer pour voir si cela marche. Les dimanches, ils auront l’occasion de suivre les prédications s’ils sont disponibles. Amen ! Donc c’est pour cela qu’il y a des petits bricolages. Nous, on n’en a pas l’habitude. Amen ! Cantique d’adoration.
 

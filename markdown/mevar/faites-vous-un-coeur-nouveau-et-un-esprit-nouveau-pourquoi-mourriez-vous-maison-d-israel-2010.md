@@ -55,6 +55,8 @@ bible_refs:
   - "Matthieu 21:18"
   - "Colossiens 1:16"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/faites.pdf"
+text_pdf: "/files/mevar-text/faites-vous-un-coeur-nouveau-et-un-esprit-nouveau-pourquoi-mourriez-vous-maison-d-israel-2010.pdf"
 ---
 **Exhortation du frère Richard SCHWERY de la Suisse**
 

@@ -37,6 +37,7 @@ series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
 series_part: 3
 series_total: 5
+text_pdf: "/files/mevar-text/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin.pdf"
 ---
 **Prêché à Koumassi, le 12 novembre 2023**
 

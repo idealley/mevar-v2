@@ -79,6 +79,7 @@ bible_refs:
   - "Daniel 10"
   - "Daniel 10:12-13"
   - "Matthieu 18"
+text_pdf: "/files/mevar-text/trois-grandes-visions-du-message-de-la-fin-des-temps.pdf"
 ---
 Ce texte est extrait du livre [Les 5 ministères de la parole](/les-5-ministeres-de-la-parole/).
 

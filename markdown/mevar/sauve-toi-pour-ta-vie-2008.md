@@ -79,6 +79,8 @@ bible_refs:
   - "Ésaïe 48:20"
   - "2 Corinthiens 10:3-5"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhortation-de-mai-2008.pdf"
+text_pdf: "/files/mevar-text/sauve-toi-pour-ta-vie-2008.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous par ces Paroles de Genèse 19 :
 

@@ -56,6 +56,8 @@ bible_refs:
   - "Luc 11:1-13"
   - "Malachie 3:16"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/la-vie-depriere-dejesus.pdf"
+text_pdf: "/files/mevar-text/la-vie-de-priere-de-jesus-2007.pdf"
 ---
 Je voudrais parler de la vie de prière de Jésus. Je vous ai dit qu’en 2000, j’ai posé une question au Seigneur parce que je sentais que Dieu voulait me parler, me dire certaines choses. Alors, je lui ai dit : « Seigneur, enseigne-moi à prier. » Je m’étais rendu compte que je devrais beaucoup prier, mais je sortais d’une situation… vous savez que dans le sommeil et l’assoupissement, il y a une certaine vie de prière qu’on mène… **c’est une vie de prière qui n’est pas suffisante pour régler certains problèmes spirituels et pour s’approcher de Dieu**. Alors j’ai demandé au Seigneur de m’enseigner à prier ; je lui ai dit : « Enseigne-moi Ta vie de prière, celle que tu avais quand tu étais en Israël… » J’ai posé la question. La réponse que le Seigneur m’a donnée, je l’ai pratiquée. Ce matin, je vais en parler parce qu’il est bien que nous sachions prier. On va lire un texte de base dans Luc 9 :22-36 :
 

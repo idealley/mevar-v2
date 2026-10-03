@@ -28,6 +28,7 @@ bible_refs:
   - "Matthieu 25"
   - "2 Pierre 1:3-10"
   - "1 Timothée 4:14-15"
+local_pdf: "/files/onedrive/exho-sept11.pdf"
 ---
 ## Exhortation de septembre 2011
 

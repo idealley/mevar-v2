@@ -26,6 +26,7 @@ bible_refs:
   - "Philippiens 4:11-12"
   - "1 Jean 2"
   - "2 Pierre 1:5-11"
+local_pdf: "/files/onedrive/dons-excellents.pdf"
 ---
 Amen! Vous savez mes frères, quand l'Esprit de Dieu s'exprime, écoutez ce qu’Il dit. C'est très important. Quand vous lisez dans Apocalypse, dans toutes les adresses qui ont été faites aux âges de l'Eglise, vers la fin, le Seigneur a toujours dit « _**Que celui qui a des oreilles écoute ce que l'Esprit dit aux églises**_ ».
 

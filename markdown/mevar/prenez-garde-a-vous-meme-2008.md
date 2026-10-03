@@ -45,6 +45,8 @@ bible_refs:
   - "2 Timothée 3:1-6"
   - "Apocalypse 3:14-22"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhortation-aout-2008.pdf"
+text_pdf: "/files/mevar-text/prenez-garde-a-vous-meme-2008.pdf"
 ---
 Je vous salue tous, mes bien-aimés frères et sœurs et visiteurs de notre site, à tous pour ce mois d’août, par ces Paroles de notre Seigneur Jésus-Christ à Ses disciples que nous sommes :
 

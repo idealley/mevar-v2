@@ -74,6 +74,8 @@ bible_refs:
   - "Matthieu 24:45"
   - "Philémon 1:8-12"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/exo-mai2011-pdf.pdf"
+text_pdf: "/files/mevar-text/il-faut-que-tu-rendes-temoignage-dans-rome-2011.pdf"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, je vous salue dans le nom précieux de notre Seigneur Jésus-Christ. Que Sa grâce et Sa paix soient avec vous tous. Je voudrais qu’on examine ensemble l’histoire du voyage de l’apôtre Paul à Rome, car elle revêt une dimension prophétique importante dans notre génération. En effet, après avoir comparu devant Agrippa, Paul devrait s’embarquer pour Rome, où il devrait comparaître devant César. C’est là-bas que devrait prendre fin sa course en tant que serviteur de Dieu. Il devrait rendre témoignage de Jésus-Christ devant César avant sa mort. La nuit suivante, le Seigneur apparut à Paul, et dit : « Prends courage ; car, de même que **tu as rendu témoignage de moi dans Jérusalem**, il faut aussi que **tu rendes témoignage dans Rome**. » (Actes 23:11)
 

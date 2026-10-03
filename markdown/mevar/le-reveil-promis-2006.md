@@ -153,6 +153,8 @@ bible_refs:
   - "Actes 5:34-40"
   - "Apocalypse 14:14-20"
 editorial_pass: "2026-10-03"
+local_pdf: "/files/onedrive/reveilp.pdf"
+text_pdf: "/files/mevar-text/le-reveil-promis-2006.pdf"
 ---
 LE RÉVEIL PROMIS
 

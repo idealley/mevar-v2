@@ -123,6 +123,8 @@ bible_refs:
   - "Matthieu 11:3-5"
   - "Psaumes 103:2-5"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhojuil2010.pdf"
+text_pdf: "/files/mevar-text/jesus-christ-est-ma-guerison-2010.pdf"
 ---
 Par la seule grâce de Dieu, je suis conduit à écrire brièvement sur ce sujet de la guérison divine qui revêt un caractère important dans l’œuvre de Dieu et dans **le Ministère de l’Église**, dont le Seigneur Jésus Lui-même est le chef. Plusieurs serviteurs de Dieu ont écrit sur le sujet et ont expérimenté la guérison divine. **C’est l’un des sujets sur lequel la théorie n’a pas trop de place**. Là précisément, il s’agit de vivre pleinement ce qu’on prêche, parce que la guérison divine s’opère et s’acquiert seulement par la foi dans les promesses de la croix. Toute la Bible nous entretient sur la guérison divine, mais malheureusement, plusieurs chrétiens, même dans le Corps de Christ, n’arrivent pas à s’approprier cette guérison miraculeuse qui est un vrai test de foi pour eux.
 

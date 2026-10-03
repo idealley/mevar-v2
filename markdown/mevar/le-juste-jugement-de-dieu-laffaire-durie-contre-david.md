@@ -46,6 +46,7 @@ bible_refs:
   - "Apocalypse 21:27"
   - "Apocalypse 22:15"
   - "Apocalypse 22"
+local_pdf: "/files/onedrive/exho-janv2011.pdf"
 ---
 ## Exhortation de janvier 2011
 

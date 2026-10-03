@@ -21,6 +21,7 @@ bible_refs:
   - "Genèse 5:21"
   - "Hébreux 11"
   - "Luc 17"
+local_pdf: "/files/onedrive/marcher-avec-dieu-02-03-2018.pdf"
 ---
 Nous rendons grâce au Seigneur pour tout ce qu’il a fait pendant toutes ces années avec notre frère Christophe. Ce sont des cantiques de réveil, des cantiques inspirés par rapport à la marche dans laquelle nous sommes. Avant d’aller plus loin, je voudrais dire quelque chose de très important et je souhaite que chacun de nous garde cela à l’esprit. **Quand on parle de l’œuvre de Dieu, il ne faut jamais oublier la question de l’onction**. Nous qui avons cru au message du Temps de la Fin, Dieu nous a placés sous une onction, c’est-à-dire qu’il y a une puissance qui a accompagné le Message du Temps de la Fin. Et par rapport à cette onction, Dieu a tracé une voie. Le frère Branham a marché dans cette voie et tous les serviteurs de Dieu qui viennent après lui doivent marcher dans cette voie, sous la même onction. Et dans ce lot, ceux qui sont appelés à composer des cantiques ne sont pas exclus.
 
