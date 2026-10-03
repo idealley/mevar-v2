@@ -350,10 +350,17 @@ for (const md of batch) {
     // comparison (counted where the text loses them, r.personal)
     [new RegExp(PERSONAL, "gu"), null],
   ];
-  // a book's running header: its title alone on a line, at the top of five
-  // pages or more (« **LE ROYAUME DE DIEU** », le_royaume_de_dieu_kadjani)
-  const runningHeader = new RegExp(`^[ \\t*]*${oldTitle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/ +/g, "[ \\t]+")}[ \\t*]*$`, "gimu");
-  if ((compared.match(runningHeader) ?? []).length >= 5) furniture.push([runningHeader, "print"]);
+  // a book's running header: its title alone on a line at the top of a page
+  // (after a page break, three blank lines or more), on five pages or more
+  // (« **LE ROYAUME DE DIEU** », le_royaume_de_dieu_kadjani); compared without
+  // case, accents or the apostrophe's form, so a title the editor recases
+  // still matches on the next run
+  const folded = (t) => t.replace(/[*_]/g, "").normalize("NFD").replace(/\p{M}/gu, "").replace(/[’']/g, "'").replace(/\s+/g, " ").trim().toLowerCase();
+  const headerAt = [...compared.matchAll(/(?<=(?:^|\n)[ \t]*\n[ \t]*\n[ \t]*\n)[^\n]+/g)].filter((m) => folded(m[0]) === folded(oldTitle));
+  if (headerAt.length >= 5) for (const m of headerAt.reverse()) {
+    compared = compared.slice(0, m.index) + " ".repeat(m[0].length) + compared.slice(m.index + m[0].length);
+    r.counts.print++;
+  }
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
   for (const [re, kind] of furniture)
     compared = compared.replace(re, (m) => { if (kind) r.counts[kind]++; return " ".repeat(m.length); });
@@ -605,6 +612,8 @@ for (const md of batch) {
       r.summary === field("summary") ? {} : { summary: r.summary }, r.lists);
     if (r.split) {
       const f = { source, ...(r.split !== splitFrom && { source_path: splitFrom.slice("markdown/".length) }), ...edits.split.frontmatter, published_with: work(here) };
+      // the text's source, whatever the editor's frontmatter says: its manifest is that source's
+      f.source = source;
       const yaml = Object.entries(f).map(([k, v]) => Array.isArray(v) ? yamlList(k, v) : `${k}: ${JSON.stringify(v)}`);
       fs.writeFileSync(path.join(root, r.split), `---\n${yaml.join("\n")}\neditorial_pass: "${today}"\n---\n${parts[1]}\n`);
       // replaced, not added, when the original is promoted again (reset to
