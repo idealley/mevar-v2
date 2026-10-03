@@ -20,7 +20,11 @@ const date = formatDateFr((fm.date as string | null) ?? (fm.published_at as stri
 const lang = fm.source === "branham" ? "en" : "fr";
 // Ghost posts name their preacher in `authors`, the other sources in `preacher`.
 const preacher = fm.preacher ?? fm.authors?.[0];
-const pdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
+// A text goal 10 edited offers its edited PDF first, and the original
+// beside it (goal 23); every other work, its one PDF.
+const originalPdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
+const editedPdf = fm.edited_pdf as string | undefined;
+const pdf = editedPdf ?? originalPdf;
 
 const series = fm.series
   ? (await allWorks())
@@ -93,6 +97,12 @@ const publishedWith = fm.published_with ? await workAt(fm.published_with as stri
             <a href={pdf} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
               PDF
+            </a>
+          )}
+          {editedPdf && originalPdf && (
+            <a href={originalPdf} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              PDF d’origine
             </a>
           )}
           {fm.audio_url && (
