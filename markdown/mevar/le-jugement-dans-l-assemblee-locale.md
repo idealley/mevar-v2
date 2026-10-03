@@ -82,11 +82,11 @@ bible_refs:
   - "Romains 16:17-18"
   - "2 Jean 1:9-10"
   - "2 Timothée 4"
-editorial_pass: "2026-09-30"
+editorial_pass: "2026-10-02"
 ---
 © **M’Bra Parfait** : Mission d’Évangélisation et de Réveil, 2006  
 20 B.P. 1011 Abidjan 20 - Côte d’Ivoire  
-Site Web : www.mevar.org / e-mail : parfaitmbra@yahoo.fr
+Site Web : www.mevar.org
 
 Les citations bibliques sont tirées de la version Louis Segond.
 
