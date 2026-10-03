@@ -184,16 +184,16 @@ for (const t of texts.values()) {
     // none found: what the text names stays, and is listed
     if (!original) missing.push(t.md);
     else {
-    const dest = `${ORIGINALS}/${slug(path.basename(original, ".pdf"))}.pdf`;
-    if (from.has(dest) && from.get(dest) !== original) throw new Error(`${dest}: both ${from.get(dest)} and ${original}`);
-    from.set(dest, original);
-    named.add(dest);
-    const buf = fs.readFileSync(path.join(root, original));
-    if (!sameBytes(path.join(root, dest), buf)) {
-      copied++;
-      if (!dry) { fs.mkdirSync(path.join(root, ORIGINALS), { recursive: true }); fs.writeFileSync(path.join(root, dest), buf); }
-    }
-    text = setField(text, "local_pdf", `/${dest}`);
+      const dest = `${ORIGINALS}/${slug(path.basename(original, ".pdf"))}.pdf`;
+      if (from.has(dest) && from.get(dest) !== original) throw new Error(`${dest}: both ${from.get(dest)} and ${original}`);
+      from.set(dest, original);
+      named.add(dest);
+      const buf = fs.readFileSync(path.join(root, original));
+      if (!sameBytes(path.join(root, dest), buf)) {
+        copied++;
+        if (!dry) { fs.mkdirSync(path.join(root, ORIGINALS), { recursive: true }); fs.writeFileSync(path.join(root, dest), buf); }
+      }
+      text = setField(text, "local_pdf", `/${dest}`);
     }
   }
   // the edited text
