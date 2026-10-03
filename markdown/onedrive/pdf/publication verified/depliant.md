@@ -89,5 +89,3 @@ Que Dieu bénisse richement tous les lecteurs de ce petit traité,
 *Frère DOUBBIN, un vaurien racheté par le SANG précieux de Christ.*
 
 *Arrah le 24 juillet 2009 (R.C.I)*
-
-Cel : 05-10-84-14/06-65-97-17
