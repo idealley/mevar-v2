@@ -69,6 +69,8 @@ bible_refs:
   - "Nombres 17"
   - "Jacques 5:17-18"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/leretour.pdf"
+edited_pdf: "/files/mevar-edited/le-retour-des-coeurs-au-seigneur-2010.pdf"
 ---
 Que le nom du Seigneur soit béni ! Effectivement, c’est le dernier jour aujourd’hui et nous comptons sur la grâce de Dieu pour mettre toute chose en ordre. Et nous avons dit beaucoup de choses tout ce temps. Amen ! Il y a beaucoup de prédications qui ont été apportées. Je voulais faire un rappel pour qu’on ait une vue d’ensemble. Mais des pensées me sont aussi venues ce soir, donc on va se laisser conduire par le Seigneur.
 

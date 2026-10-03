@@ -50,6 +50,8 @@ bible_refs:
   - "Luc 11:42"
   - "Amos 4:7-12"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/nov2009.pdf"
+edited_pdf: "/files/mevar-edited/perseverez-dans-la-vision-du-reveil-2009.pdf"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur par cette Parole d’Osée le chapitre 6 :
 

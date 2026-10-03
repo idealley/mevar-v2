@@ -63,6 +63,8 @@ bible_refs:
   - "Éphésiens 2"
   - "Éphésiens 6"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lagrace.pdf"
+edited_pdf: "/files/mevar-edited/la-grace-et-la-verite-2011.pdf"
 ---
 La grâce et la vérité. C’est pour revenir sur ce qui a été dit ici par notre bien-aimé frère le dimanche passé et aller plus en détails. Amen ! Vous savez, l’enseignement consiste à aborder les questions pour qu’on les comprenne bien. Amen ! Quand une question est large, je l’ai dit à la chaire concernant la prédication du frère… que la question de la grâce est une question qui est large. Donc tel qu’il a présenté les choses, il a pris un aspect. **Il a mis l’accent sur le fait que la grâce est une puissance. Le péché en tant que puissance est entré dans le monde et la grâce de Dieu est venue pour que l’homme soit délivré du péché**. C’est cela qu’il a développé. Amen ! Donc je voudrais revenir là-dessus pour entrer plus en profondeur pour que nous ayons une vue plus claire et plus large sur le sujet.
 

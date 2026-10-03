@@ -68,6 +68,8 @@ bible_refs:
   - "1 Jean 4:20"
   - "1 Corinthiens 13"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhortation-janvier-2013.pdf"
+edited_pdf: "/files/mevar-edited/2013-annee-de-mission.pdf"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette parole qui relate l’appel et la mission confiés aux disciples de Jésus-Christ, les douze qu’Il appela au commencement de Son Ministère. Nous lisons cela dans le livre de Matthieu le chapitre 10.
 

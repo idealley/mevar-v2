@@ -49,6 +49,8 @@ bible_refs:
   - "Luc 17"
   - "Romains 12:21"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/les-temps-de-noe.pdf"
+edited_pdf: "/files/mevar-edited/les-temps-de-noe-2012.pdf"
 ---
 Nous lisons dans Genèse chapitre 6 à partir du verset 5. J’aimerais parler du temps de Noé. Amen ! Vous savez que le Seigneur Jésus a comparé les temps dans lesquels nous sommes au temps de Noé. Donc en parlant du temps de Noé, on parle de notre temps. Parce que les mêmes démons qui se sont manifestés au temps de Noé sont les mêmes qui se manifestent dans notre génération.
 

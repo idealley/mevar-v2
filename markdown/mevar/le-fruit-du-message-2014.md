@@ -47,6 +47,8 @@ bible_refs:
   - "Ésaïe 40"
   - "Apocalypse 12"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/le-fruit-du-message.pdf"
+edited_pdf: "/files/mevar-edited/le-fruit-du-message-2014.pdf"
 ---
 Que Dieu nous bénisse ! Nous remercions le Seigneur pour ce soir. Nous remercions le Seigneur de nous avoir gardés pendant notre voyage. Amen ! J’aurais toujours voulu être avec vous parce qu’il y a beaucoup de choses à vous dire. Mais ce n’est pas facile. Amen ! Ce n’est pas facile. Non seulement le Diable combat contre nous, mais aussi il y a beaucoup d’occupations. On n’est pas toujours libre.
 

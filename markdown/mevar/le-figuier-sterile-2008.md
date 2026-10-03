@@ -42,6 +42,8 @@ bible_refs:
   - "Apocalypse 19"
   - "Matthieu 22"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/lefiguiersterile.pdf"
+edited_pdf: "/files/mevar-edited/le-figuier-sterile-2008.pdf"
 ---
 Alléluia ! Que Dieu vous bénisse, nous remercions le Seigneur pour cette rencontre ; nous voulons encore apporter la Parole de Dieu ce soir afin que chacun puisse découvrir son chemin pour avancer. Le temps est venu où on doit vraiment être chrétien de tout son cœur… Nous allons déjà lire avant d’avancer, Luc chapitre 13, du verset 6 au verset 9 :
 

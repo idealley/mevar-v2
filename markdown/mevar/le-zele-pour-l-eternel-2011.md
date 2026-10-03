@@ -69,6 +69,8 @@ bible_refs:
   - "Ésaïe 37:31-32"
   - "Apocalypse 12"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lezeleduseigneur.pdf"
+edited_pdf: "/files/mevar-edited/le-zele-pour-l-eternel-2011.pdf"
 ---
 Notre pays traverse des moments difficiles. Le diable se manifeste parce que le Diable vient là où il peut créer le maximum de dégâts et de problèmes. Mais dans ces temps difficiles, nous devons avoir le Seigneur pour ami. Amen ! Ce matin, je voudrais parler d’un sujet important. Que Dieu soit béni ! On a perdu un frère. On voudrait vous porter l’information. Le frère KRA de Bassam est décédé. Il s’asseyait là. Qui ne le connaît pas ? Le frère KRA de Bassam (nom d’une ville située dans la périphérie d’Abidjan. N.D.T). Vous le connaissez. C’est le nom que vous n’arrivez pas à coller sur le visage pour certains. Il est resté ici pendant des années. Il est resté là… Il venait de Bassam avec d’autres frères…
 

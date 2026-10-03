@@ -247,6 +247,8 @@ bible_refs:
   - "Romains 12:2"
   - "1 Pierre 1:14-17"
 editorial_pass: "2026-10-03"
+local_pdf: "/files/onedrive/mariage-final-pdf.pdf"
+edited_pdf: "/files/mevar-edited/le-mariage-et-les-peches-du-sexe-2012.pdf"
 ---
 Tous les couples et autres lecteurs de cet ouvrage qui souhaiteraient rencontrer l’auteur peuvent le joindre aux adresses ci-après :
 

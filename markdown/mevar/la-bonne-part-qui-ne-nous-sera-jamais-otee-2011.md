@@ -67,6 +67,8 @@ bible_refs:
   - "2 Pierre 3:9"
   - "2 Pierre 3:15"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/exhoavril2011.pdf"
+edited_pdf: "/files/mevar-edited/la-bonne-part-qui-ne-nous-sera-jamais-otee-2011.pdf"
 ---
 Mes chers frères et sœurs en Christ, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Psaumes 119 :
 

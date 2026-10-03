@@ -48,6 +48,8 @@ bible_refs:
   - "Luc 21"
   - "Apocalypse 12"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lefruit.pdf"
+edited_pdf: "/files/mevar-edited/le-fruit-utile-2011.pdf"
 ---
 Amen ! Nous allons lire dans Ésaïe chapitre 5, à partir du premier verset.
 

@@ -31,6 +31,8 @@ bible_refs:
   - "Jacques 1:12"
   - "Apocalypse 3:21"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/visioncongo2.pdf"
+edited_pdf: "/files/mevar-edited/vision-du-10-janvier-2010.pdf"
 ---
 Pendant que je dormais profondément, on m’a appelé plusieurs fois : Mon fils ! Mon fils… Dis à Mon Peuple élu sur terre qu’il fait face à une grande pression qui se passe. **Plusieurs abandonneront la foi originelle pour s’accrocher à celle des hommes, parce que le mystère de l’apostasie se sera accru. Il se manifestera dans les cœurs des hommes, car la vie des hommes pieux se changera en impiété et celle qui est droite sera tordue, parce que la mort et la chute de plusieurs sur terre est proche**. Ils m’abandonneront et me renieront pour aller se joindre à l’armée satanique sur terre pour devenir mes ennemis.
 

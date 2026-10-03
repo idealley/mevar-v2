@@ -49,6 +49,8 @@ bible_refs:
   - "Éphésiens 5:27"
 published_with: "mevar/le-manteau-de-l-humilite-2009"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/exhominov09.pdf"
+edited_pdf: "/files/mevar-edited/sois-un-modele-2009.pdf"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur par cette Parole de 1 Timothée 4 :
 

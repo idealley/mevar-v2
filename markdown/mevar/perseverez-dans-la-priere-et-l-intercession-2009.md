@@ -40,6 +40,8 @@ bible_refs:
   - "Actes 3:19-21"
   - "Michée 2:10"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/perseverez.pdf"
+edited_pdf: "/files/mevar-edited/perseverez-dans-la-priere-et-l-intercession-2009.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et membres de la chaîne de prière, par cette Parole d’Ésaïe 62 que nous connaissons tous :
 

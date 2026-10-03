@@ -55,6 +55,8 @@ bible_refs:
   - "Hébreux 4:9-11"
   - "1 Pierre 5:10"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exo-juillet2012.pdf"
+edited_pdf: "/files/mevar-edited/le-manger-et-le-boire-le-dieu-du-ventre-2012.pdf"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer pour ce mois de juillet par cette question de Jésus dans Luc chapitre 6 :
 

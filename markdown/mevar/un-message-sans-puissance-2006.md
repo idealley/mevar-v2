@@ -43,6 +43,8 @@ bible_refs:
   - "Matthieu 16:4"
 published_with: "mevar/refusez-l-evangile-sans-puissance-2006"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/message.pdf"
+edited_pdf: "/files/mevar-edited/un-message-sans-puissance-2006.pdf"
 ---
 Je voudrais saluer les usagers de notre site à tous et aussi tous les bien-aimés frères et sœurs qui sont reliés avec nous dans la chaîne de prière et d’intercession en Afrique centrale et en Afrique de l’Ouest, en Europe – en Madagascar et en Haïti. À vous j’adresse cette Parole de Paul à Timothée : « Le commandement que je t’adresse, Timothée, mon enfant, selon les prophéties faites précédemment à ton sujet, c’est que, d’après elles, **tu combattes le bon combat** » (1 Tim 1:18). Combattons tous ensemble **le bon combat de la foi** parce qu’il existe des combats dans la vie qui ne valent même pas la peine d’être menés. Et vous avez choisi la bonne part du combat spirituel, c’est-à-dire **la prière, les jeûnes et l’intercession**. C’est ce combat qui est bon et qui est pour nous. Et nous le menons contre les forces du mal qui agressent l’Église et notre foi commune. Mes bien-aimés, prenez courage dans cette œuvre. Je dis à mon frère Fidy de Madagascar : **prends courage** ! Nous prions pour vous – vous qui êtes isolés pour la cause du réveil. Aucun d’entre vous ne perdra sa récompense dans le Seigneur, ce jour-là quand nous serons devant l’Agneau.
 

@@ -58,6 +58,8 @@ bible_refs:
   - "1 Corinthiens 13:11"
   - "Marc 16"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/satandevoile.pdf"
+edited_pdf: "/files/mevar-edited/satan-devoile-2009.pdf"
 ---
 Que Dieu nous bénisse ! Avant de lire l’Écriture, je voudrais vous informer que la prochaine semaine du jeûne sera la semaine du 14. Amen ! Du 14 au 20, on aura notre moment de prière pour tout le monde. Donc déjà préparez-vous pour cela. Amen ! Je vous avais aussi dit que je serai en voyage tout le mois de septembre. Donc c’est mon dernier dimanche aujourd’hui. Demain, on va aller à l’intérieur du pays pour une semaine de réunion. Donc c’est le dimanche soir qu’on va rentrer à Abidjan. Lundi je serai là, mardi, mercredi peut-être que je vais partir au Nigéria… Je crois que le 10, c’est jeudi et je reviendrai probablement le 12 ou le 13 octobre, selon le mouvement des avions.
 

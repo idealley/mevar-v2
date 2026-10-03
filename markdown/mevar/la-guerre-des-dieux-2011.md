@@ -53,6 +53,8 @@ bible_refs:
   - "Ézéchiel 47"
   - "Ézéchiel 47:21"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/la-guerre-des-dieux.pdf"
+edited_pdf: "/files/mevar-edited/la-guerre-des-dieux-2011.pdf"
 ---
 Que son Nom soit béni. Nous allons écouter une parole que j’avais sur le cœur depuis un moment. Et je prie le Seigneur qu’Il soit à mon aide afin que tel qu’Il m’a inspiré, cela puisse être donné. **La grande guerre spirituelle ou la guerre des dieux**. Je crois que mon frère Anderson a déjà planté le décor. Les quelques paroles qu’on a surprises quand nous sommes arrivés montrent qu’il a déjà planté le décor. Et dans cette église, nous ne pouvons pas dire autre chose. Nous ne pouvons pas donner une autre prédication. Nous allons dire beaucoup de choses, mais ça va finir toujours par là. Parce que c’est ce qui est réel dans le royaume de Dieu. Le royaume de Dieu marche, le royaume de Dieu est engagé dans une guerre. Et dans cette guerre, il y a des étapes, il y a des époques, il y a des moments où le Seigneur agit, faisant un travail précis.
 

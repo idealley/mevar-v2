@@ -51,6 +51,8 @@ bible_refs:
   - "Apocalypse 3:14"
   - "Matthieu 25"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/leculte.pdf"
+edited_pdf: "/files/mevar-edited/le-culte-des-atheniens-2009.pdf"
 ---
 Alléluia ! Que le Nom du Seigneur soit béni ! Nous allons lire dans Actes chapitre 17 à partir du verset 16. Excusez-moi mais quand je parle, je ne sais pas m’arrêter. Donc je préfère qu’on lise les textes avant que je ne commence à parler. Actes 17 à partir du verset 16 :
 

@@ -64,6 +64,8 @@ bible_refs:
   - "1 Corinthiens 9:19-23"
   - "1 Pierre 3:1"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exho-spec-fev2011.pdf"
+edited_pdf: "/files/mevar-edited/priscille-et-aquilas-exemple-d-un-couple-au-service-de-dieu-2011.pdf"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette Parole du Seigneur Jésus-Christ :
 

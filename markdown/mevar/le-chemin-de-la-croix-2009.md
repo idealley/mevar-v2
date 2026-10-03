@@ -47,6 +47,8 @@ bible_refs:
   - "Matthieu 19"
   - "Matthieu 11"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lechemindelacroix.pdf"
+edited_pdf: "/files/mevar-edited/le-chemin-de-la-croix-2009.pdf"
 ---
 Alléluia ! Nous restons dans cette position et nous lisons dans Jean chapitre 19 verset 17 et 18.
 

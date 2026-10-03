@@ -39,6 +39,8 @@ bible_refs:
   - "Joël 2"
   - "Joël 2:12-17"
   - "Luc 7:36-50"
+local_pdf: "/files/onedrive/message.pdf"
+edited_pdf: "/files/mevar-edited/refusez-l-evangile-sans-puissance-2006.pdf"
 ---
 Prêché à Soubré le 30 septembre 2006
 

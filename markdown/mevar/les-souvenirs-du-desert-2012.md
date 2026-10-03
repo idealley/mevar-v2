@@ -42,6 +42,8 @@ bible_refs:
   - "1 Corinthiens 10"
   - "Hébreux 5:7"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/les-souvenirs-du-desert.pdf"
+edited_pdf: "/files/mevar-edited/les-souvenirs-du-desert-2012.pdf"
 ---
 Deutéronome chapitre 8, on lira à partir du premier verset. On lira tout le chapitre. Alors avant de lire, je voudrais vous donner des informations… On s’est réuni ici hier. J’ai dit aux couples de l’église qu’on devait se voir. Donc hier on s’est réuni pour une concertation et la concertation avait pour but la reprise de nos activités qu’on avait interrompues un moment. Disons l’année passée à cause des difficultés qu’on a eues. Donc on s’est concerté. J’ai fait des propositions aux différents couples qui étaient là, on a examiné cela. Donc les uns et les autres ont trouvé nécessaire qu’après le culte d’aujourd’hui, qu’on se retrouve encore pour que ceux qui n’étaient pas là trouvent une occasion pour s’exprimer. Amen ! Parce qu’on veut convenir de certaines activités spirituelles pour délivrer nos foyers des liens des démons qui nous résistent encore. Amen !
 

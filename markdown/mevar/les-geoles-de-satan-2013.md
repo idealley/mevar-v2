@@ -45,6 +45,8 @@ bible_refs:
   - "Malachie 4:5"
   - "Matthieu 24:45-47"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/les-geoles-de-satan.pdf"
+edited_pdf: "/files/mevar-edited/les-geoles-de-satan-2013.pdf"
 ---
 Frères et sœurs, comme je l’ai dit, ce que nous allons faire maintenant n’était pas prévu. Au commencement, nous avons vu un moment de prière et de jeûne, et par la suite, un moment de prière d’ensemble ici, parce que nous avons prié le Seigneur par rapport à un sujet important. **J’avais parlé ici brièvement le dimanche passé des prisons dans lesquelles l’adversaire peut nous enfermer**. Parce que le diable qui est notre ennemi parvient par moment à nous mettre en prison. Donc, j’ai évoqué cela et nous avons pris la résolution de prier pendant trois jours pour nous défaire des prisons de l’adversaire. Et ce moment de prière et aussi ce que j’ai dit est allé dans la même mouvance qu’une vision que j’ai reçue du Seigneur.
 

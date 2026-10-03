@@ -85,6 +85,8 @@ bible_refs:
   - "Matthieu 7"
   - "1 Timothée 1"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/lalegitimite-du-serviteur-de-dieu.pdf"
+edited_pdf: "/files/mevar-edited/la-legitimite-d-un-serviteur-de-dieu.pdf"
 ---
 > Jean lui dit : « **maître, nous avons vu un homme qui chassait des démons en ton nom ; et nous l’en avons empêché, parce qu’il ne nous suit pas**. Ne l’empêchez pas, répondit Jésus, car il n’est personne qui, **faisant un miracle en mon nom, puisse aussitôt après parler mal de moi. Qui n’est pas contre nous est pour nous**. Et quiconque vous donnera un verre en mon nom, parce que vous appartenez à Christ, je vous le dis en vérité, il ne perdra point sa récompense ». (Marc 9/38-41).
 

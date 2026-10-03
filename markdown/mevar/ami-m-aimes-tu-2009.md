@@ -49,6 +49,8 @@ bible_refs:
   - "Ésaïe 42:19"
   - "Luc 17"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/pred-aimes-tu.pdf"
+edited_pdf: "/files/mevar-edited/ami-m-aimes-tu-2009.pdf"
 ---
 Mes chers amis, que le Seigneur vous bénisse. Nous sommes reconnaissants au Seigneur pour ce dimanche. Nous sommes reconnaissants au Seigneur qui nous garde dans notre vie de tous les jours. Que Dieu bénisse tous ceux qui ont été invités, qui nous rendent visite. Ce matin, je voudrais aborder un sujet avec vous. C’est le sujet de l’amour de Dieu. Je crois que j’ai déjà abordé le sujet de l’amour dans ce mouvement de réveil. Vous vous souvenez de la prédication « **l’amour, notre bannière** ».
 

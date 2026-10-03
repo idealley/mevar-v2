@@ -53,6 +53,8 @@ bible_refs:
   - "Actes 13:1"
   - "Actes 13"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/plandattaque.pdf"
+edited_pdf: "/files/mevar-edited/plans-d-attaque-iii-2009.pdf"
 ---
 Nous vous saluons au Nom du Seigneur. Ce matin, nous allons continuer sur LES PLANS D’ATTAQUE. C’est un titre. Nous sommes à la troisième prédication. Est-ce qu’il y a des gens qui nous rendent visite ce matin, des personnes qui sont là pour la première fois ? [On procède à la présentation des invités du jour Réd.] Que le Seigneur nous bénisse ! Je voudrais continuer sur ce sujet ; il y a beaucoup de choses à dire là-dessus. Et je crois aussi que la prédication du réveil, de manière générale, a déjà abordé ces questions. Seulement, on voudrait y revenir sous forme de rappel en y mettant un accent particulier. Pour ceux qui n’étaient pas là le dimanche passé, vraiment je vous exhorte, si vous avez les moyens d’écouter, à récupérer la prédication sur la clé (USB qui enregistre les prédications audio) de l’Église pour écouter. Ou bien voyez le frère Arnaud pour copier le film pour pouvoir le regarder, parce que nous avons écouté une parole vraiment importante… Il aurait fallu que tous entendent ça. Amen ! Il est bon d’écouter et de réécouter les prédications.
 

@@ -63,6 +63,8 @@ bible_refs:
   - "Matthieu 24:14"
   - "Luc 17"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/onction-fait-ladifference.pdf"
+edited_pdf: "/files/mevar-edited/l-onction-fait-la-difference-2013.pdf"
 ---
 Je pense que nous allons prier pour le frère et Dieu va l’aider pour la suite. Mais vous savez, pour lui c’est quelque chose peut-être que tout le monde a perçu, mais depuis qu’on est dans cette œuvre, il y a eu beaucoup de déviations de ce genre… Et c’est une déviation qui prend plusieurs formes. On a connu des frères qui ont marché avec nous et qui sont partis. Il y en a qui ont rendu le témoignage qu’ils ont eu des visions, des songes sur l’œuvre du réveil, après ils sont partis. Ils sont même devenus des contestataires. Il y en a qui ont dit que c’était vrai et puis après, ils sont revenus dire que c’est faux.
 

@@ -78,6 +78,8 @@ bible_refs:
   - "Marc 13"
   - "Matthieu 24:14"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/pred-processus.pdf"
+edited_pdf: "/files/mevar-edited/le-processus-de-la-fin-des-temps-2009.pdf"
 ---
 Alléluia ! Que le Seigneur vous bénisse ce matin. Nous sommes reconnaissants à notre Dieu pour cette réunion. Nous lui sommes reconnaissants parce que dans l’Église, Il ne nous a pas laissés orphelins, mais Il a fait **des pasteurs, des docteurs, des apôtres, des prophètes, des évangélistes**… des Ministères qui ont des lieux où ils se tiennent pour prêcher la Parole de Dieu. Si tu veux avoir la vie, **il faut aller les écouter parce que Dieu a sauvé les hommes par la prédication**. C’est Dieu qui a fait les choses ainsi. Il a voulu que les hommes soient sauvés en écoutant Sa Parole. Donc il faut aller là où tu peux écouter la Parole de Dieu ; pas les enseignements d’une église ou d’une communauté, mais la Parole de Dieu qu’on a reçue du ciel et qui est consignée dans la Bible. Amen !
 

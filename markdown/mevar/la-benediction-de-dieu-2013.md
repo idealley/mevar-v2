@@ -58,6 +58,8 @@ bible_refs:
   - "Esther 2"
   - "2 Samuel 5:17"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/la-benediction-de-dieu.pdf"
+edited_pdf: "/files/mevar-edited/la-benediction-de-dieu-2013.pdf"
 ---
 Nous allons lire dans le livre de Proverbes. Proverbes chapitre 10 à partir du verset 22. C’est un passage de l’Écriture que nous connaissons très bien. On le prononce régulièrement. Amen ! Tout le monde prononce cette parole. C’est une parole que les chrétiens aiment beaucoup. Ils disent cela pour encourager les gens. Amen !
 

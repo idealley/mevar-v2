@@ -67,6 +67,8 @@ bible_refs:
   - "Exode 9:26"
   - "1 Corinthiens 15:33"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exo-avril-2013.pdf"
+edited_pdf: "/files/mevar-edited/la-parabole-des-deux-fils-2013.pdf"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ qui est mort et revenu à la vie pour nos péchés. C’est avec Lui que nous marchons et c’est aussi avec Lui que nous travaillons. Notre Seigneur nous apporte beaucoup de soutiens et c’est par Sa grâce que nous vivons, sinon, nous serions déjà morts. **Car pour nous, la vie n’a plus de sens. Le monde n’a plus de sens**. **Et l’actualité mondiale nous rend encore plus malade. Ce qui est important à nos yeux aujourd’hui demeure l’œuvre de Dieu**. Oui ! C’est l’œuvre de Dieu qui est notre espoir dans ce monde. L’œuvre de Dieu qui va nous conduire à l’établissement du Gouvernement de Jésus-Christ sur la terre.
 

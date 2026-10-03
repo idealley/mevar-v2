@@ -223,6 +223,8 @@ bible_refs:
   - "Jérémie 7:18"
   - "Marc 8:22-25"
 editorial_pass: "2026-10-03"
+local_pdf: "/files/onedrive/lavision-kayenga.pdf"
+edited_pdf: "/files/mevar-edited/la-vision-spirituelle-correcte-de-l-evolution-du-message-du-temps-de-la-fin-2011.pdf"
 ---
 ## Introduction
 

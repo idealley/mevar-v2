@@ -185,6 +185,8 @@ bible_refs:
   - "Nombres 12:7-8"
   - "Colossiens 1:16-18"
 editorial_pass: "2026-10-03"
+local_pdf: "/files/onedrive/broch-plusgrand.pdf"
+edited_pdf: "/files/mevar-edited/qui-est-le-plus-grand-2010.pdf"
 ---
 ## Introduction
 

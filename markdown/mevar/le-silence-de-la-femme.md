@@ -77,6 +77,8 @@ bible_refs:
   - "Proverbes 19"
   - "1 Pierre 4"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/silence-de-la-femme.pdf"
+edited_pdf: "/files/mevar-edited/le-silence-de-la-femme.pdf"
 ---
 > Que la femme écoute l’instruction en silence, avec une entière soumission. Je ne permets pas à la femme d’enseigner, ni de prendre de l’autorité sur l’homme ; mais elle doit demeurer dans le silence. Car Adam a été formé le premier, Ève ensuite ; Adam n’a pas été séduit, mais la femme, séduite, s’est rendue coupable de transgression. Elle sera néanmoins sauvée en devenant mère, si elle persévère avec modestie dans la foi, dans l’amour, et dans la sainteté. (2 Timothée 2/11-15).
 

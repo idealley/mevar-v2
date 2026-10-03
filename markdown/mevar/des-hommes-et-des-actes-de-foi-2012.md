@@ -67,6 +67,8 @@ bible_refs:
   - "Hébreux 11:6"
   - "Josué 10:12-15"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exo-mai-2012.pdf"
+edited_pdf: "/files/mevar-edited/des-hommes-et-des-actes-de-foi-2012.pdf"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer par cette prophétie importante qui se trouve dans le livre de la Genèse, au chapitre 3 le verset 15 : **« Je mettrai inimitié entre toi et la femme, entre ta postérité et sa postérité : celle-ci t’écrasera la tête, et tu lui blesseras le talon »**. C’est le Seigneur Dieu qui s’adressait ainsi au serpent qui avait provoqué la chute de l’humanité en séduisant Ève, la mère de tous les vivants. Mes chers frères, cette Parole est une insistance auprès de vous, afin que vous compreniez le but qui nous rassemble dans le Message du temps de la fin. **La Bible parle de deux fils. Le fils de Dieu et le fils de l’Église. Si nous voulons inclure Israël, nous parlerons de trois fils**. « Quand Israël était jeune, je l’aimais, Et j’appelai mon fils hors d’Égypte. » (Osée 11:1) Vous voyez que cette écriture fut appliquée à la fois à la nation d’Israël et au Christ. Israël fut un type du Christ, comme l’Église est aussi un type de Christ. Mes chers frères et sœurs, pour vous qui suivez les choses depuis le début, comprenez que nous devons comprendre les prophéties qui nous concernent avant de les vivre. Je ne parlerai pas d’Israël ici, mais j’en viendrai seulement au fils de Dieu et au fils de l’Église. Car c’est cela qui est à l’ordre du jour.
 

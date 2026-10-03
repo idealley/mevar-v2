@@ -84,6 +84,8 @@ bible_refs:
   - "Actes 16"
   - "Matthieu 9"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/harmonie-dans-le-champpff.pdf"
+edited_pdf: "/files/mevar-edited/l-harmonie-dans-le-champ-2012.pdf"
 ---
 Mes chers amis, après avoir lu cet article de mon frère Anderson, j’ai jugé nécessaire de le publier pour l’édification du peuple de Dieu.
 

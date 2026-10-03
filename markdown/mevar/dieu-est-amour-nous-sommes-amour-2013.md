@@ -54,6 +54,8 @@ bible_refs:
   - "Marc 12:30-31"
   - "Jacques 2:5-9"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/exhortation-de-decembre-2013.pdf"
+edited_pdf: "/files/mevar-edited/dieu-est-amour-nous-sommes-amour-2013.pdf"
 ---
 Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous dans Son précieux nom qu’Il nous a donné. Nous bénissons notre Dieu pour Son assistance et aussi pour Son amour qu’Il a manifesté envers nous pour notre salut. En effet, nous avons été sauvés et délivrés de la vaine manière de vivre héritée de nos parents, comme l’Écriture le dit : (1 Pierre 1:18-21)
 

@@ -26,6 +26,8 @@ bible_refs:
   - "Apocalypse 22:15"
 published_with: "mevar/l-infaillibilite-du-serviteur-fidele-et-prudent"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/infaillibilite.pdf"
+edited_pdf: "/files/mevar-edited/l-infaillibilite-du-serviteur-fidele-et-prudent-introduction.pdf"
 ---
 Mes bien-aimés frères et sœurs, j’ai reçu d’un frère une réflexion sur un sujet d’actualité dans le Message du temps de la fin. Après avoir lu l’exposé, j’ai jugé qu’il était très utile que je le publie pour l’édification du plus grand nombre. L’auteur du document m’a donné son accord, mais a souhaité garder l’anonymat. Avant de vous souhaiter bonne lecture, je voudrais vous exhorter, mes chers frères et sœurs, à vous garder de **l’idolâtrie**, comme l’apôtre Jean le recommandait aux frères dans le premier siècle de la foi en Christ :
 

@@ -73,6 +73,8 @@ bible_refs:
   - "1 Pierre 4:12-13"
   - "2 Pierre 3:15"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exo-mi-juillet-2011.pdf"
+edited_pdf: "/files/mevar-edited/les-pleurs-et-les-grincements-de-dents-2011.pdf"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, je vous salue dans le nom précieux de notre Seigneur Jésus-Christ. Que la grâce et la paix du Seigneur soient avec vous tous dans Son amour. Je vous adresse encore des Paroles du Seigneur, toujours pour notre édification et aussi pour notre avertissement. Il m’est apparu important de vous adresser cet enseignement parce qu’il existe beaucoup de confusions dans les esprits des frères sur ce sujet. Il y aura des pleurs et des grincements de dents parmi les chrétiens dans notre génération. C’est un jugement dont le Seigneur Jésus a parlé dans plusieurs Paraboles que je souhaite qu’on examine ensemble dans cette étude. Que Dieu vous bénisse !
 

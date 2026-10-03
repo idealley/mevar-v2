@@ -34,6 +34,8 @@ bible_refs:
   - "Malachie 4:5-6"
 published_with: "mevar/le-reveil-des-africains-2007"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/reveilafricain.pdf"
+edited_pdf: "/files/mevar-edited/appel-au-reveil-des-africains-2007.pdf"
 ---
 Mes chers frères et sœurs et amis de la chaîne de prière – usagers de notre site Internet à tous, je vous salue dans le précieux et merveilleux nom de notre Seigneur et Sauveur Jésus-Christ par ces Paroles de Jacques.
 

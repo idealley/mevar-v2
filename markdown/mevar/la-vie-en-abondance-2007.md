@@ -37,6 +37,8 @@ bible_refs:
   - "2 Corinthiens 8:9"
   - "2 Corinthiens 6:10-11"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/exhortationnovembre2007.pdf"
+edited_pdf: "/files/mevar-edited/la-vie-en-abondance-2007.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous par ces Paroles du Seigneur Jésus-Christ à Ses disciples :
 

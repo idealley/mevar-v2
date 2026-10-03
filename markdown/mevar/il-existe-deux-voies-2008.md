@@ -56,6 +56,8 @@ bible_refs:
   - "Apocalypse 22:15-16"
   - "Ecclésiaste 9:8"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/exhortation-avril-2008.pdf"
+edited_pdf: "/files/mevar-edited/il-existe-deux-voies-2008.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et visiteurs de notre site à tous par ces Paroles de Matthieu chapitre 7 :
 

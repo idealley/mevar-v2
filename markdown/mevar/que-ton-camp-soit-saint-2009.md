@@ -45,6 +45,8 @@ bible_refs:
   - "Jacques 5:16"
   - "2 Chroniques 7:13-14"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/exhomimai.pdf"
+edited_pdf: "/files/mevar-edited/que-ton-camp-soit-saint-2009.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et membres de la chaîne de prière, par cette Parole de Deutéronome, au chapitre 23.
 

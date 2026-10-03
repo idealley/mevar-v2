@@ -50,6 +50,8 @@ bible_refs:
   - "Matthieu 25:6"
   - "1 Timothée 6:12"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/le-choix-de-dieupdf.pdf"
+edited_pdf: "/files/mevar-edited/le-choix-de-dieu-2008.pdf"
 ---
 Alléluia ! Que le Seigneur vous bénisse ! Je vois quelques-uns qui dorment. Je vais commencer tout de suite par une chanson. Si vous ne savez pas chanter cette chanson, je vais vous l’apprendre. Alors on va repousser le sommeil avec cela. Et j’aurais souhaité que le peuple de Dieu se lève. Levez-vous ! Levez-vous, je vous en prie. Nous sommes venus pour veiller. Le Seigneur nous dit : veillez et priez en tout temps pour avoir la force, une puissance pour échapper à tout ce qui va arriver. Alléluia ! [Amen ! Réd.] Est-ce que vraiment nous sommes des soldats de Christ ? [Assemblée : Amen ! Réd.] Un vrai soldat ! Avez-vous vu une fois de vrais soldats, les soldats d’un gouvernement de ce monde ? Vous voyez comment ils sont…
 

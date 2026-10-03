@@ -47,6 +47,8 @@ bible_refs:
   - "Psaumes 111:10"
   - "Proverbes 8:13"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/exhofev.pdf"
+edited_pdf: "/files/mevar-edited/venez-et-plaidons-2007.pdf"
 ---
 ## Exhortation fin février
 

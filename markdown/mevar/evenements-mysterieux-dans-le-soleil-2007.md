@@ -58,6 +58,8 @@ bible_refs:
   - "Daniel 10:12-14"
   - "Ésaïe 62:6-7"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhofin-aout.pdf"
+edited_pdf: "/files/mevar-edited/evenements-mysterieux-dans-le-soleil-2007.pdf"
 ---
 ## Appel à la guerre – appel au combat contre Babylone
 

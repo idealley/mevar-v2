@@ -52,6 +52,8 @@ bible_refs:
   - "Exode 34"
   - "Nombres 20:7"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/pred-0109.pdf"
+edited_pdf: "/files/mevar-edited/quand-un-homme-peut-trouver-grace-aux-yeux-de-l-eternel-2007.pdf"
 ---
 Alléluia ! On reste dans cette position et on va lire dans le livre de Nombres. Nombres chapitre 12 à partir du verset 4.
 

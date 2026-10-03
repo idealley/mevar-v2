@@ -31,6 +31,8 @@ bible_refs:
   - "Romains 8:13"
   - "2 Corinthiens 11"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/exhortationdefinmars2009.pdf"
+edited_pdf: "/files/mevar-edited/je-traite-durement-mon-corps-2009.pdf"
 ---
 Mes chers frères et sœurs, je voudrais vous saluer par cette déclaration de l’apôtre Paul tirée du livre des Corinthiens :
 

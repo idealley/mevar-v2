@@ -41,6 +41,8 @@ bible_refs:
   - "Apocalypse 13"
   - "Psaumes 68:31"
   - "Galates 2:7-8"
+local_pdf: "/files/onedrive/reveilafricain.pdf"
+edited_pdf: "/files/mevar-edited/le-reveil-des-africains-2007.pdf"
 ---
 Que le nom du Seigneur soit béni ! Je suis à ma dernière prédication ici. Demain je m’en vais. Je vous dis au revoir. Que le Seigneur vous bénisse pour l’accueil que vous m’avez réservé. Depuis quelque temps, j’ai un sujet sur le cœur. Et je voulais en parler un jour… Mais je n’avais pas choisi ici pour en parler. Et il y a peut-être quatre jours, je m’étais réveillé avec ce sujet dans le cœur. J’ai essayé de chercher des versets bibliques reliés à ça et j’ai pris des notes. Alors tout à l’heure j’ai prié le Seigneur, et je pense que je vais parler de ce sujet ici. Alléluia ! [Amen ! Réd.] C’est un sujet important. Je pense que ça va nous remuer aussi. Ça va nous remuer. Alléluia ! [Amen Réd.] Et Dieu veut nous remuer dans ces temps où nous sommes parvenus. Je vais parler du **réveil des Africains**…
 

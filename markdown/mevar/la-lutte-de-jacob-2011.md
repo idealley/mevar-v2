@@ -41,6 +41,8 @@ bible_refs:
   - "Romains 5"
   - "Romains 5:1-5"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/laluttedejacob.pdf"
+edited_pdf: "/files/mevar-edited/la-lutte-de-jacob-2011.pdf"
 ---
 … ça commence à aller. Amen ! Ce sont les démons, ils font le malin, alors qu’ils ne sont rien. Amen ! C’est cela, frères. Les démons font le malin, mais ne sont rien. Et les démons sont dans la rue. Quand vous voyez des gens qui font le malin dans la rue, ce sont des démons. Ce sont eux qui font le malin. Ils font le malin dans la rue, un peu partout. Il y en a qui sont à la télévision, ils font le malin. Des journalistes, comme on les voit à la télévision, ils font le malin. Ce sont des démons. Oui, ce sont des démons. Je ne parle pas des hommes, mais je parle des esprits qui les animent. Il y en a qui ont des idoles journalistes. Ils font des publicités sur des pancartes, un peu partout. Ce sont des démons qui font le malin. Jésus, Lui, Il ne faisait pas le malin. Il passait inaperçu. Mais quand Il passe inaperçu, ceux qui doivent Le connaître, Le connaissent. Ceux qui doivent Le sentir dans leur corps, le sentent. Amen ! Il ne fait pas le malin. Il y a des pasteurs qui font le malin. Quand vous les voyez, ils brillent. Quand il vient prêcher, on l’accompagne avec une musique spéciale. Vous ne me croyez pas ? Ah, bon ! On va prendre le micro et parler de lui jusqu’à ce qu’il apparaisse comme un fétiche. Un pasteur n’est pas un fétiche. Amen !
 

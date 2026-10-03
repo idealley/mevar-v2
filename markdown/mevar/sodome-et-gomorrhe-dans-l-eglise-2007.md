@@ -48,6 +48,8 @@ bible_refs:
   - "Apocalypse 21"
   - "2 Thessaloniciens 2"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/sodome-et-gomorrhe.pdf"
+edited_pdf: "/files/mevar-edited/sodome-et-gomorrhe-dans-l-eglise-2007.pdf"
 ---
 Que Dieu soit béni ! Ce matin, j’aimerais traiter un sujet très important avec vous : **Sodome et Gomorrhe dans l’Église**. Vous savez, la prédication du réveil prend en compte des points essentiels, notamment **le péché, l’Esprit tape sur le péché, et appelle à la sanctification** [Amen !] Ça c’est un point important, **l’Esprit exhorte au combat spirituel**, parce que les temps de réveil sont aussi des temps de combats. Alors ce matin, on va traiter ce sujet ensemble, « **Sodome et Gomorrhe dans l’Église** ». **Aujourd’hui, Sodome et Gomorrhe s’est transporté dans l’Église, il faut que les chrétiens le sachent, il faut qu’on en parle, il faut que l’enseignement soit donné là-dessus pour que chacun fasse attention à sa foi et à sa vie chrétienne**. On va lire dans Genèse 19, Genèse chapitre 19 à partir du premier verset :
 

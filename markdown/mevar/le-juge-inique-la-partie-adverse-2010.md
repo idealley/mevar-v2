@@ -51,6 +51,8 @@ bible_refs:
   - "1 Thessaloniciens 5:17"
   - "Hébreux 5:7-8"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhonov2010.pdf"
+edited_pdf: "/files/mevar-edited/le-juge-inique-la-partie-adverse-2010.pdf"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, je vous salue dans le nom précieux de notre Seigneur Jésus-Christ. Que Sa grâce et Sa paix soient avec vous tous. Je voudrais vous exhorter courtement avec cette parole de la femme veuve dont a parlé Jésus dans la parabole sur le juge inique : « **Fais-moi justice de ma partie adverse** ». Aujourd’hui, l’Église est dans la position de cette femme. C’est pourquoi Elle doit réclamer la Justice de Dieu.
 

@@ -62,6 +62,8 @@ bible_refs:
   - "Matthieu 25:5-6"
   - "Marc 13"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/marchant-pour-les-propheties.pdf"
+edited_pdf: "/files/mevar-edited/marchant-pour-les-propheties-2012.pdf"
 ---
 Amen ! Que Dieu soit béni ! Le travail continue. Genèse 15, le frère Anderson va lire cela pour nous. Genèse chapitre 15, c’est sans transition. Amen ! On va aller vite. Le verset 12 au verset 20 :
 

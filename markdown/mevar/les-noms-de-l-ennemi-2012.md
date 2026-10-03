@@ -55,6 +55,8 @@ bible_refs:
   - "Jean 9:16-17"
   - "1 Corinthiens 11"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/les-noms-de-ennemi.pdf"
+edited_pdf: "/files/mevar-edited/les-noms-de-l-ennemi-2012.pdf"
 ---
 Je vais revenir sur quelques informations avant qu’on écoute la Parole. Amen ! Alors, pour ceux qui n’étaient pas là dimanche passé, on a dit qu’on a pris quelques décisions par rapport à des séances de prière. Donc, au niveau de tout le pays ici, toutes les églises qui sont reliées avec nous dans la vision spirituelle où on est engagé, on a dit que chaque mois, chaque premier week-end, **vendredi**, **samedi et dimanche**, on va prier et jeûner. Amen ! On va confier des sujets au Seigneur parce qu’il faut persévérer dans la prière. Amen ! C’est ce qu’on a entendu. Et on a dit qu’on allait commencer cela le mois prochain. C’est-à-dire dans le mois d’avril.
 

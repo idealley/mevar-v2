@@ -52,6 +52,8 @@ bible_refs:
   - "Actes 2:1-20"
   - "Hébreux 12:25"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/glorieusepentecote.pdf"
+edited_pdf: "/files/mevar-edited/glorieuse-pentecote-2009.pdf"
 ---
 Nous vous saluons au nom de notre Seigneur et Sauveur Jésus-Christ. Que Dieu vous bénisse tous. Nous sommes heureux de nous retrouver dans la présence du Seigneur pour cette réunion. Glorieuse Pentecôte ! Je voudrais parler ce matin de la Pentecôte. Nous allons lire dans le livre des Actes des Apôtres, au chapitre 2.
 

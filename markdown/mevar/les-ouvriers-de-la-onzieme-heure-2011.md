@@ -93,6 +93,8 @@ bible_refs:
   - "Luc 14:21"
   - "Ésaïe 51:1-3"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exo-juin-2011.pdf"
+edited_pdf: "/files/mevar-edited/les-ouvriers-de-la-onzieme-heure-2011.pdf"
 ---
 Mes chers frères et sœurs, je vous salue dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ qui est mort et ressuscité pour notre salut éternel. Nous sommes remplis de reconnaissance à notre Seigneur pour Son œuvre glorieuse qu’Il est en train d’accomplir dans Son Église. Comme je vous l’ai dit dans notre dernière exhortation, notre marche vers Rome est dirigée par le Seigneur Lui-même. Cette direction se trouve dans la Parole qu’Il nous a annoncée au commencement, que nous avons comprise et pour laquelle nous luttons. Jésus a dit :
 
