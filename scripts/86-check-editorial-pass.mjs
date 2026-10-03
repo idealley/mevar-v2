@@ -278,7 +278,10 @@ for (const md of batch) {
   // the words it would explain are not the editor's for sure
   const spans = [];
   for (const f of placed.filter((f) => f.kind === "word")) {
-    const rep = f.replace.normalize("NFC");
+    // a fix on a line that became a section heading is found as the heading
+    // (only a fix of whole paragraphs, which produced that line itself)
+    const whole = f.find.split(/\n{2,}/).every((p) => pass.body.split(/\n{2,}/).some((q) => q.trim() === p.trim()));
+    const rep = ((whole && [...headings].find(([, line]) => line === f.replace.replace(/[*_]/g, "").trim())?.[0]) || f.replace).normalize("NFC");
     const i = body.indexOf(rep);
     if (i < 0 || body.indexOf(rep, i + 1) >= 0) r.unexplained.push(`editor's word fix « ${f.replace} » is not found exactly once in the compared text`);
     else spans.push([i, i + rep.length, f]);
