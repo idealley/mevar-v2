@@ -7178,10 +7178,10 @@
     "title": null,
     "fixes": [
       {
-        "find": "PREMIÈRE ÉTAPE :  \nl’Affaire se trouve entre le fautif",
-        "replace": "PREMIÈRE ÉTAPE :\n\nl’Affaire se trouve entre le fautif",
-        "kind": "markup",
-        "why": "same layout as the other table-of-contents entries (separate paragraph, no hard break)"
+        "find": "PREMIÈRE ÉTAPE :  \nl’Affaire se trouve entre le fautif et celui qui l’a découvert dans la faute — 21",
+        "replace": "PREMIÈRE ÉTAPE :\n\nl’Affaire se trouve entre le fautif et celui qui l’a découvert dans la faute (p. 21)",
+        "kind": "word",
+        "why": "same layout as the other table-of-contents entries (separate paragraph, no hard break); and the table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "dans la Bible depuis la genèse jusqu’à l’Apocalypse",
@@ -7212,6 +7212,78 @@
         "replace": "Hyménée et Alexandre furent livrés",
         "kind": "typo",
         "why": "spelling of the name Hyménée"
+      },
+      {
+        "find": "QU’EST-CE QUE C’EST QUE LE JUGEMENT — 7",
+        "replace": "QU’EST-CE QUE C’EST QUE LE JUGEMENT (p. 7)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "QUI JUGE ? — 13",
+        "replace": "QUI JUGE ? (p. 13)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "LES PASTEURS DES ASSEMBLÉES ET LES ANCIENS SONT DES JUGES — 15",
+        "replace": "LES PASTEURS DES ASSEMBLÉES ET LES ANCIENS SONT DES JUGES (p. 15)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "NE POINT JUGER SELON L’APPARENCE — 18",
+        "replace": "NE POINT JUGER SELON L’APPARENCE (p. 18)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La procédure de Matthieu 18 — 20",
+        "replace": "La procédure de Matthieu 18 (p. 20)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’Affaire se trouve entre le fautif – celui qui l’a découvert dans le péché et deux témoins — 22",
+        "replace": "L’Affaire se trouve entre le fautif – celui qui l’a découvert dans le péché et deux témoins (p. 22)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’affaire se trouve devant l’église — 23",
+        "replace": "L’affaire se trouve devant l’église (p. 23)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les sanctions — 26",
+        "replace": "Les sanctions (p. 26)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Considérer le fautif comme un païen et un publicain — 26",
+        "replace": "Considérer le fautif comme un païen et un publicain (p. 26)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La livraison à Satan — 28",
+        "replace": "La livraison à Satan (p. 28)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "REPENTANCE ET VOIE DE RETOUR — 36",
+        "replace": "REPENTANCE ET VOIE DE RETOUR (p. 36)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "CONCLUSION — 48",
+        "replace": "CONCLUSION (p. 48)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       }
     ]
   },
@@ -12139,153 +12211,153 @@
     "fixes": [
       {
         "find": "INTRODUCTION .............................................................................................. 7",
-        "replace": "INTRODUCTION — 7",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "INTRODUCTION (p. 7)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "1. DANS LES ÉCRITURES .............................................................................. 13",
-        "replace": "1. DANS LES ÉCRITURES — 13",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "1. DANS LES ÉCRITURES (p. 13)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "2. DANS L’HISTOIRE ..................................................................................... 19",
-        "replace": "2. DANS L’HISTOIRE — 19",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "2. DANS L’HISTOIRE (p. 19)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE ........... 27",
-        "replace": "3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE — 27",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE (p. 27)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU ------------------------------------------------------------------------- 35",
-        "replace": "4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU — 35",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU (p. 35)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "La malédiction empêche la pluie pour nous tous ............................... 38  \n",
-        "replace": "La malédiction empêche la pluie pour nous tous — 38\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "La malédiction empêche la pluie pour nous tous (p. 38)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Aie donc du zèle, et repens-toi ! .......................................................... 41  \n",
-        "replace": "Aie donc du zèle, et repens-toi ! — 41\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "Aie donc du zèle, et repens-toi ! (p. 41)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Un miracle refusé ................................................................................. 42",
-        "replace": "Un miracle refusé — 42",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "Un miracle refusé (p. 42)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "5. L’HISTOIRE SE RÉPÈTE ........................................................................... 45",
-        "replace": "5. L’HISTOIRE SE RÉPÈTE — 45",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "5. L’HISTOIRE SE RÉPÈTE (p. 45)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "À Jérusalem .......................................................................................... 45  \n",
-        "replace": "À Jérusalem — 45\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "À Jérusalem (p. 45)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "En Judée ............................................................................................... 46  \n",
-        "replace": "En Judée — 46\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "En Judée (p. 46)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "En Samarie ............................................................................................ 47  \n",
-        "replace": "En Samarie — 47\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "En Samarie (p. 47)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Visitation particulière de l’Église à minuit .......................................... 47  \n",
-        "replace": "Visitation particulière de l’Église à minuit — 47\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "Visitation particulière de l’Église à minuit (p. 47)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Les conséquences du réveil .................................................................. 50",
-        "replace": "Les conséquences du réveil — 50",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "Les conséquences du réveil (p. 50)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan ..... 50  \n",
-        "replace": "1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan — 50\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan (p. 50)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "2. La sanctification et la piété ......................................................................... 54  \n",
-        "replace": "2. La sanctification et la piété — 54\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "2. La sanctification et la piété (p. 54)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "3. Séparation d’avec les faux frères ................................................................ 56  \n",
-        "replace": "3. Séparation d’avec les faux frères — 56\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "3. Séparation d’avec les faux frères (p. 56)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "4. La manifestation de la Puissance de Dieu ................................................. 59  \n",
-        "replace": "4. La manifestation de la Puissance de Dieu — 59\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "4. La manifestation de la Puissance de Dieu (p. 59)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Ordre de mission en rapport avec la prédication et les signes ..................... 61  \n",
-        "replace": "Ordre de mission en rapport avec la prédication et les signes — 61\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "Ordre de mission en rapport avec la prédication et les signes (p. 61)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Le troisième pull ............................................................................................. 64",
-        "replace": "Le troisième pull — 64",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "Le troisième pull (p. 64)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "6. LA MOISSON ET LES MOISSONNEURS ................................................. 73",
-        "replace": "6. LA MOISSON ET LES MOISSONNEURS — 73",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "6. LA MOISSON ET LES MOISSONNEURS (p. 73)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "La moisson du Seigneur ....................................................................... 73  \n",
-        "replace": "La moisson du Seigneur — 73\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "La moisson du Seigneur (p. 73)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Les jours du fils de l’homme sont semblables aux jours de Loth ...... 76  \n",
-        "replace": "Les jours du fils de l’homme sont semblables aux jours de Lot — 76\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »; « Lot », the Bible's spelling (Samuel's rule)"
+        "replace": "Les jours du fils de l’homme sont semblables aux jours de Lot (p. 76)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "La Moisson de la terre .......................................................................... 81  \n",
-        "replace": "La Moisson de la terre — 81\n\n",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "La Moisson de la terre (p. 81)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "CONCLUSION ................................................................................................. 82",
-        "replace": "CONCLUSION — 82",
-        "kind": "markup",
-        "why": "table of contents: one entry per paragraph, leader replaced by « — »"
+        "replace": "CONCLUSION (p. 82)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Pluie de l’arrière saison",
@@ -12537,7 +12609,14 @@
     "decided": {
       "date": "Samuel, 2026-10-03: « Yes, signature dates »: the book states no date at its opening; its signature reads « Abidjan, le 18 novembre 2010 »"
     },
-    "replaced_date": ""
+    "replaced_date": "",
+    "tags": [
+      "Exhortations",
+      "2010",
+      "Purification",
+      "Ministère",
+      "Fondement"
+    ]
   },
   "markdown/onedrive/pdf/nehemie_patriote.md": {
     "title": "L’œuvre de la restauration de la muraille de Jérusalem",
@@ -13177,7 +13256,14 @@
     "decided": {
       "date": "Samuel, 2026-10-03: « Yes, signature dates »: the book states no date at its opening; its signature reads « Kinshasa, le 28 Décembre 2009 »"
     },
-    "replaced_date": ""
+    "replaced_date": "",
+    "tags": [
+      "Exhortations",
+      "2009",
+      "Restauration",
+      "Minuit",
+      "Muraille de Jérusalem"
+    ]
   },
   "markdown/onedrive/pdf/lavision_kayenga.md": {
     "title": "La vision spirituelle correcte de l’évolution du Message du temps de la fin",
@@ -13565,7 +13651,14 @@
     "decided": {
       "date": "Samuel, 2026-10-03: « Yes, signature dates »: the book states no date at its opening; its signature reads « Kinshasa, le 07/08/2011 »"
     },
-    "replaced_date": ""
+    "replaced_date": "",
+    "tags": [
+      "Exhortations",
+      "2011",
+      "Message du temps de la fin",
+      "Prophétie",
+      "Fêtes de l'Éternel"
+    ]
   },
   "markdown/onedrive/pdf/mariage_final_pdf.md": {
     "title": "Le mariage et les péchés du sexe",
@@ -13578,141 +13671,141 @@
       },
       {
         "find": "Introduction générale ................................................................................... 5",
-        "replace": "Introduction Générale — 5",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number; the PDF's case kept (« Générale »)"
+        "replace": "Introduction Générale (p. 5)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Première partie : Le mariage dans le royaume de Dieu ou le mariage en Christ ...................................................................................... 11",
-        "replace": "Première Partie : Le mariage dans le royaume de Dieu ou le mariage en Christ — 11",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number; the PDF's case kept (« Partie »)"
+        "replace": "Première Partie : Le mariage dans le royaume de Dieu ou le mariage en Christ (p. 11)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Premièrement : Procédure biblique des fiançailles ......................... 12",
-        "replace": "Premièrement : Procédure biblique des fiançailles — 12",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Premièrement : Procédure biblique des fiançailles (p. 12)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Deuxièmement : Le Commandement fut donné à l’homme .......... 21",
-        "replace": "Deuxièmement : Le Commandement fut donné à l’homme — 21",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Deuxièmement : Le Commandement fut donné à l’homme (p. 21)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Troisièmement : La domination fut donnée à l’homme ................. 23",
-        "replace": "Troisièmement : La domination fut donnée à l’homme — 23",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Troisièmement : La domination fut donnée à l’homme (p. 23)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Quatrièmement : La soumission fut donnée à la femme ................ 24",
-        "replace": "Quatrièmement : La soumission fut donnée à la femme — 24",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Quatrièmement : La soumission fut donnée à la femme (p. 24)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Cinquièmement : Femme insoumise : ouvrière avec le diable .... 27",
-        "replace": "Cinquièmement : Femme insoumise : ouvrière avec le diable — 27",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Cinquièmement : Femme insoumise : ouvrière avec le diable (p. 27)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Sixièmement : Le Seigneur n’admet pas les compromis ................ 31",
-        "replace": "Sixièmement : Le Seigneur n’admet pas les compromis — 31",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Sixièmement : Le Seigneur n’admet pas les compromis (p. 31)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Septièmement : L’homme est le chef de la femme ............................ 35",
-        "replace": "Septièmement : L’homme est le chef de la femme — 35",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Septièmement : L’homme est le chef de la femme (p. 35)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Huitièmement : Comparativement à Christ et à l’Église ................. 36",
-        "replace": "Huitièmement : Comparativement à Christ et à l’Église — 36",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Huitièmement : Comparativement à Christ et à l’Église (p. 36)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Neuvièmement : Le Ministère de la femme ......................................... 40",
-        "replace": "Neuvièmement : Le Ministère de la femme — 40",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Neuvièmement : Le Ministère de la femme (p. 40)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Dixièmement : La médisance : un péché destructeur des foyers ................................................................................................... 46",
-        "replace": "Dixièmement : La médisance : un péché destructeur des foyers — 46",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Dixièmement : La médisance : un péché destructeur des foyers (p. 46)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Onzièmement : La position des époux dans le foyer ....................... 48",
-        "replace": "Onzièmement : La position des époux dans le foyer — 48",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Onzièmement : La position des époux dans le foyer (p. 48)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Douzièmement : Le jugement des affaires dans le foyer ................ 49",
-        "replace": "Douzièmement : Le jugement des affaires dans le foyer — 49",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Douzièmement : Le jugement des affaires dans le foyer (p. 49)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Conclusion de la première partie ............................................................ 55",
-        "replace": "Conclusion de la Première Partie — 55",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number; the PDF's case kept (« Partie »)"
+        "replace": "Conclusion de la Première Partie (p. 55)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Deuxième partie : Impudicité et adultère ............................................. 59",
-        "replace": "Deuxième Partie : Impudicité et adultère — 59",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number; the PDF's case kept (« Partie »)"
+        "replace": "Deuxième Partie : Impudicité et adultère (p. 59)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Treizièmement : Principe fondamental : Nouvelle Naissance ..... 60",
-        "replace": "Treizièmement : Principe fondamental : Nouvelle Naissance — 60",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Treizièmement : Principe fondamental : Nouvelle Naissance (p. 60)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! ...................................................................... 66",
-        "replace": "Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! — 66",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! (p. 66)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Quinzièmement : Qui est dans une position d’adultère ? ............... 71",
-        "replace": "Quinzièmement : Qui est dans une position d’adultère ? — 71",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Quinzièmement : Qui est dans une position d’adultère ? (p. 71)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Seizièmement : Que le lit conjugal soit exempt de souillure ........ 75",
-        "replace": "Seizièmement : Que le lit conjugal soit exempt de souillure — 75",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Seizièmement : Que le lit conjugal soit exempt de souillure (p. 75)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Conclusion de la deuxième partie .......................................................... 81",
-        "replace": "Conclusion de la Deuxième Partie — 81",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number; the PDF's case kept (« Partie »)"
+        "replace": "Conclusion de la Deuxième Partie (p. 81)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Dieu ? ..................................................................................... 85",
-        "replace": "Dieu ? — 85",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Dieu ? (p. 85)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Conclusion finale ........................................................................................... 94",
-        "replace": "Conclusion finale — 94",
-        "kind": "markup",
-        "why": "table of contents: dotted leader replaced by « — » before the page number"
+        "replace": "Conclusion finale (p. 94)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
       },
       {
         "find": "Dix-septièmement : Comment un couple",
@@ -14154,6 +14247,7 @@
     "replaced_date": "",
     "tags": [
       "Publications",
+      "2012",
       "mariage",
       "péchés sexuels",
       "doctrine chrétienne"
