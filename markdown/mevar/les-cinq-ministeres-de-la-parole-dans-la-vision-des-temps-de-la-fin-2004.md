@@ -2801,7 +2801,7 @@ Plusieurs autres prophètes sont manifestés dans le Nouveau Testament. Il s’a
 
 Les prophètes dénoncent le péché et l’injustice. C’est pourquoi ils ont beaucoup de difficultés dans le ministère. Élie fut opposé à Achab et à sa femme Jésabel. Michée fut opposé aussi à Achab qui le mit en prison à cause de sa prophétie. Nathan dit à David : « tu es cet homme-là ». David avait fait tuer son soldat pour prendre sa femme. Jérémie fut établi pour dénoncer l’idolâtrie et l’égarement du peuple. Jean-Baptiste mourut décapité parce qu’il avait dénoncé le péché du roi Hérode, lequel avait pris la femme de son frère. Pierre dénonça le péché d’Ananias et Saphira qui voulaient tromper le reste du peuple de Dieu. Dans tous les âges de l’Église, en dehors de l’apôtre Paul, seul William Branham manifesta pleinement le ministère prophétique de manière aussi significative. Depuis que ce ministère a parcouru toute la terre, au milieu du vingtième siècle, plusieurs autres ministères, notamment des évangélistes, des apôtres et même des prophètes ont été manifestés. Je mettrai l’accent sur deux ministères prévus dans les chapitres 24 et 25 de Matthieu.
 
-#### Le ministère du serviteur fidèle et prudent
+### Le ministère du serviteur fidèle et prudent
 
 Dans Matthieu 24.45, Jésus, en tant que prophète, parle d’un serviteur fidèle et prudent :
 
@@ -4319,7 +4319,7 @@ QUE CELUI QUI A DES OREILLES ENTENDE CE QUE L’ESPRIT DIT AUX SAINTS.
 
 -14-
 
-#### Les faux ministres de la Parole – des loups ravisseurs
+### Les faux ministres de la Parole – des loups ravisseurs
 
 Certains ont été mandatés dans la Maison de Dieu comme serviteurs, tandis que d’autres se trouvent dans le champ de Dieu comme des loups. Le Seigneur a parlé de ces faux serviteurs-là. Je ne peux pas achever cet exposé sans parler d’eux. Ces faux serviteurs sont tellement proches des vrais qu’il n’est pas facile de les reconnaître. Cependant, des indices sont donnés très clairement par le Seigneur Jésus. Il a dit :
 
@@ -4327,7 +4327,7 @@ Certains ont été mandatés dans la Maison de Dieu comme serviteurs, tandis que
 
 La confusion provient du fait que les faux prophètes qui sont les faux Ministres de la Parole viennent en vêtements de brebis. C’est-à-dire qu’ils prennent l’apparence de vrais serviteurs de Dieu. Mais au-dedans ce sont des loups ravisseurs – des gens qui n’ont jamais connu Dieu. Ils ont la nature des loups qui ravissent les brebis du Seigneur – des tueurs d’âmes. Leur place se trouve dans le feu éternel. C’est pour cela que j’ai montré que le ministère commence au-dedans avant de parvenir au-dehors. Les vrais Ministres de la Parole le sont d’abord intérieurement, tandis que les faux le sont au-dehors, puis au-dedans, ils sont des loups, des scorpions et des serpents. En donnant les fruits comme indice de reconnaissance, le Seigneur indique effectivement le vrai chemin à suivre. En effet, les fruits sont portés au-dedans, à partir du cœur. Ainsi, celui qui est un vrai pasteur se découvre comme tel à ses fruits. Les fruits ici concernent la vie d’obéissance à la Parole de Dieu – la vie de sanctification ainsi que l’exercice effectif du ministère. Le Seigneur a dit : « Plusieurs viendront sous mon nom disant : c’est moi qui suis le Christ. Et ils séduiront beaucoup de gens. » La qualité de ceux qui diront que Jésus est le Christ n’est pas précisée. Mais il s’agit de plusieurs qui viendront de cette manière. Ceci est la preuve que le temps dans lequel nous vivons est un temps de confusion.
 
-#### Dans quel temps vivons-nous ?
+### Dans quel temps vivons-nous ?
 
 Nous vivons aux temps de la fin. Et le temps de la fin est le temps des faux prophètes et des faux chrétiens. Tous les prédicateurs sont unanimes pour dire que nous sommes dans les derniers temps. C’est dans notre génération que le Seigneur Jésus-Christ reviendra. Ceci est établi selon les Écritures. Nul ne l’ignore. Et les temps dans lesquels nous vivons ont des signes particuliers dans les Saintes Écritures. L’apôtre Paul en parle dans l’épître à Timothée en ces termes :
 
@@ -4355,7 +4355,7 @@ Le Seigneur dit encore :
 
 Plusieurs faux prophètes et faux christs sont dans le monde entier. Ils séduisent beaucoup de chrétiens en venant à eux en vêtements de brebis, alors qu’ils sont des loups ravisseurs en eux-mêmes.
 
-#### Balaam était un faux christ et un faux prophète
+### Balaam était un faux christ et un faux prophète
 
 Balaam est un personnage biblique. Il avait une onction et prophétisait. Balaq, le fils du chef des Moabites eut recours à lui pour maudire les enfants d’Israël qui constituaient une menace pour son peuple. Balaq dit :
 
@@ -4385,7 +4385,7 @@ Les faux christs ont dans leur bouche un esprit de mensonge, selon la Parole de 
 
 Jésus a dit que des faux prophètes sont venus dans le monde. Ils sont tous animés par l’esprit du mensonge qui était ainsi dans la bouche de tous ces quatre cents prophètes au temps de Michée. Seul Michée avait dit la Vérité. Dans notre temps, tous ceux qui se réclament du ministère prophétique sont pour la plupart de faux prophètes. Ils sont animés de l’esprit de séduction. Ils ont le mensonge en commun. Aucun d’eux ne dit la Vérité. Ils ont tous reçu un esprit de divination et n’ont aucun message à adresser au peuple de Dieu. Au contraire, ils organisent des nuits de spectacle pour exploiter les pauvres âmes. Il faut que le peuple de Dieu sache que le temps dans lequel nous vivons est le temps des faux prophètes, le temps de la confusion dans le champ de Dieu.
 
-#### L’esprit de python est à l’œuvre dans le monde
+### L’esprit de python est à l’œuvre dans le monde
 
 > Comme nous allions au lieu de prière, une servante qui avait un esprit de python et qui, par ses divinations, procurait un grand profit à ses Maîtres, vint à notre rencontre. Elle se mit à nous suivre, Paul et nous, et criait : ces hommes sont des serviteurs du Dieu Très-Haut, et ils vous annoncent la voie du salut (Act 16.16-17).
 
@@ -4397,7 +4397,7 @@ Lors de la réception de cet esprit de python, certains voient du feu et d’aut
 
 La réalité est que le démon du python est très bien organisé. C’est de cette manière qu’il recrute lui-même ses propres serviteurs. Il recrute des prophètes et des prophétesses – des hommes et des femmes qui sont ses temples qu’il habite et au travers desquels il séduit la chrétienté dans le monde. En tant qu’Ivoirien, j’ai honte de mon pays du point de vue spirituel. En effet, j’entends dire que la Côte d’Ivoire est un pays béni parce que plusieurs dénominations y sont implantées. Mais en réalité, combien sont-ils les Ivoiriens qui ont vraiment fait la paix avec le Christ ? Combien sont-ils, les chrétiens qui ont réellement rencontré Jésus-Christ et qui ont reçu de lui, l’Esprit Saint ? Ce que j’ai découvert est que c’est l’esprit de python qui règne dans toutes ces églises, avec ses serviteurs qui adorent Mammon, le dieu de l’argent.
 
-#### Les faux christs et les faux prophètes adorateurs de Mammon
+### Les faux christs et les faux prophètes adorateurs de Mammon
 
 > Une servante qui… par ses divinations procurait un grand profit à ses Maîtres… (Act. 16.16).
 
@@ -4423,7 +4423,7 @@ Le mal des églises et des serviteurs de Dieu est l’argent. Chacun réclame un
 
 La servante qui avait l’esprit de python procurait un grand profit à ses Maîtres. Mammon, le dieu de l’argent s’est emparé des cœurs des serviteurs de Dieu – au point que servir Dieu est devenu une fonction sociale, une source de gain – un exutoire au chômage. C’est-à-dire un milieu professionnel dans lequel l’on peut trouver un emploi après quelques mois passés auprès d’un « homme de Dieu ». Mais attention ! Car, la mort se trouve sur ce chemin. Tous ceux qui emprunteront ce chemin mourront certainement.
 
-#### Que dit l’écriture pour l’avenir ?
+### Que dit l’écriture pour l’avenir ?
 
 Pour l’avenir :
 
@@ -4439,7 +4439,7 @@ Dans peu de temps, Dieu mettra fin à l’œuvre des faux prophètes et des faux
 
 Alors se manifesteront les vrais Fils de Dieu. Cette puissante action de Dieu est annoncée dans la scène prophétique des noces de Cana.
 
-#### La manifestation des fils de Dieu : liens prophétiques avec les noces de Cana
+### La manifestation des fils de Dieu : liens prophétiques avec les noces de Cana
 
 La manifestation des fils de Dieu à la fin des temps a lieu par la puissance de Dieu. Car, c’est l’action conjuguée de la Parole et de l’Esprit de Dieu qui manifeste les enfants de Dieu. Il est important de préciser avant d’aller plus loin, que la manifestation des fils de Dieu n’est pas seulement la manifestation de la puissance de Dieu, mais aussi la manifestation de la vie de Jésus-Christ dans le croyant. Car, la Parole de Dieu a le pouvoir de transformer. Celui qui se nourrit de la Parole de Dieu sera confondu à cette Parole et épousera ses attributs. La manifestation des fils de Dieu est donc la manifestation des attributs de la Parole de Dieu à laquelle nous sommes rendus semblables à la fin des temps. À la fin, nous épouserons les attributs et les vertus du Christ. Les élus épouseront entre autres vertus, la puissance de Dieu qui est une onction particulière qui vient sur les fils de Dieu à la fin de leur marche, pour les manifester au monde. Cette dernière étape du plan de Dieu pour les nations est prédite dans les noces de Cana, où Jésus-Christ fit son premier miracle. « Les noces de Cana » fait partie d’un ensemble de scènes prophétiques relatées dans les Évangiles.
 
@@ -4565,7 +4565,7 @@ Certainement que ceux qui prêchent pour le vin sont aux prises avec l’adversa
 
 ## Appendice 1 : trois grandes visions du Message de la fin des temps
 
-#### Le prophète et la vision
+### Le prophète et la vision
 
 > L’Éternel dit : Écoutez bien mes Paroles ! Lorsqu’il y aura parmi vous un prophète, c’est dans une vision que Moi, l’Éternel, je me ferai connaître à lui, c’est dans un songe que Je lui parlerai (Nbres 12/6).
 
@@ -4599,9 +4599,9 @@ Dans notre génération, Dieu a suscité un prophète majeur en la personne de W
 
 Première vision
 
-#### Le ministère d’Élie
+### Le ministère d’Élie
 
-#### Ministère de restauration de la Parole
+### Ministère de restauration de la Parole
 
 > Voici moi-même je vous enverrai le prophète Élie, avant la venue du jour de l’Éternel, jour grand et redoutable. Il ramènera le cœur des pères à leurs fils et le cœur des fils à leurs pères, de peur que je ne vienne frapper le pays d’interdit (Mal 4/5).
 
@@ -4647,9 +4647,9 @@ Tout le Corps du Christ doit être bien illuminé – c’est pour cette raison 
 
 Deuxième vision
 
-#### Le ministère du serviteur fidèle et prudent
+### Le ministère du serviteur fidèle et prudent
 
-#### Ministère de distribution de la nourriture
+### Ministère de distribution de la nourriture
 
 > Quel est donc le serviteur fidèle et prudent, que son Maître a établi sur ses gens, pour leur donner la nourriture au temps convenable ? (Mat 24.45).
 
@@ -4675,7 +4675,7 @@ Selon que le Seigneur l’a dit, le serviteur fidèle et prudent est établi sur
 
 Troisième vision
 
-#### La voix de minuit – un ministère de réveil
+### La voix de minuit – un ministère de réveil
 
 > Au milieu de la nuit, il y eut un cri : voici l’époux, sortez à sa rencontre ! (Mat 25.6).
 
@@ -4799,7 +4799,7 @@ Il existe aussi des brèches dans le mariage, notamment dans les foyers, parce q
 
 De même, la femme qui s’attache à son mari dans une entière soumission sera pleinement unie à lui en Esprit. Le problème du mariage a toujours été la soumission de la femme en toutes choses à son mari. C’est là la clé du succès de toute union en Christ. Dans le monde, les femmes revendiquent l’égalité avec les hommes dans le foyer. Cette lutte de revendication n’est pas simple. Mais elle a lieu parce que le diable sait que la clé du succès dans le mariage est la soumission. C’est pourquoi il l’attaque par la lutte émancipatrice des femmes. L’émancipation consiste à briser l’ordre divin naturel établi dans le mariage pour créer le chaos.
 
-#### Il est minuit – alerte maximum
+### Il est minuit – alerte maximum
 
 Tous ceux qui sont élus dans ce Message du temps de la fin sont un peuple en alerte à partir de minuit. IL EST MINUIT. Nous sommes un peuple en alerte, c’est pourquoi doit prendre fin la vie de désordre en notre milieu. Tous ceux qui prennent part à la reconstruction de la muraille sont des hommes disposés au combat spirituel. C’est pourquoi Néhémie en homme averti dit à ses frères :
 
@@ -4863,7 +4863,7 @@ Cette armée a été vue par la sentinelle de la nuit, le guetteur qui se tient 
 
 Babylone la grande confusion est tombée – et sa chute a été l’œuvre de l’armée du salut – les cavaliers de l’Éternel qui ont mené la grande guerre de la fin des temps. Mais avant ce grand combat, il faut que la ville de Jérusalem soit en sécurité – ce qui passe par la fermeture de toutes les brèches de sa muraille. Que chacun ferme les brèches qui se trouvent dans sa propre vie – et toute l’Église verra la gloire de Dieu. En effet, là où il y a des brèches, l’unité de l’Esprit n’y est pas. Or, la puissance de Dieu que le peuple saint attend se manifeste dans l’unité de l’Esprit.
 
-#### Soyez des disciples dans la prière
+### Soyez des disciples dans la prière
 
 La troisième vision est la vision de la réconciliation des cœurs, la vision de la persévérance dans le jeûne et la prière. Mais comment l’Église peut-elle être exaucée si les frères sont divisés et séparés les uns des autres ? La vision du réveil est une vision de réconciliation, car seule l’unité de l’Esprit garantira le succès du Ministère de l’Épouse et sa victoire sur l’adversaire. Tout réveil arrive par le jeûne et par la prière. Aucun chrétien ne dira le contraire sur ce fait. La première effusion du Saint-Esprit qui eut lieu au temps de nos pères apostoliques arriva alors que ceux-ci persévéraient dans la prière à la chambre haute, d’un commun accord sur ordre du Seigneur Jésus-Christ lui-même. Ce fut la toute première effusion du Saint-Esprit dans le Nouveau Testament (Act 1.13-14). Dans l’attente du Saint-Esprit, les disciples persévéraient dans la prière. C’est donc à une autre chambre haute que le Seigneur convie l’Église étant donné qu’elle attend le réveil. L’église attend la pluie de l’arrière-saison pour entreprendre la moisson de la terre. Nul ne peut échapper à la chambre haute. Plusieurs d’entre les frères négligent la prière. Ils ne désirent même pas prier, mais attendent qu’un miracle ait lieu et que du coup, le réveil descende du ciel. Cette attitude n’est pas biblique. Ce qui est biblique est l’attente du réveil à la chambre haute.
 
@@ -4893,7 +4893,7 @@ Priez-vous les nuits ? Trouvez-vous du temps pour prier à l’écart comme le S
 
 Que les frères et sœurs s’adonnent au jeûne et à la prière plus que par le passé. Que les couples s’adonnent à la prière dans les maisons. Que les lieux de rassemblement multiplient les moments de prière. Qu’on le fasse d’un commun accord étant uni dans l’amour, en bannissant l’hypocrisie et les vilains sentiments. Qu’on le fasse régulièrement autant que cela est possible. Car dans peu de temps, le Seigneur Jésus-Christ descendra du ciel et les puissances des cieux seront ébranlées.
 
-#### Deux manières de prier enseignées par Jésus
+### Deux manières de prier enseignées par Jésus
 
 Dans les Écritures, il existe deux exemples de prière enseignés par notre Seigneur. Il faut tenir compte de ces deux types de prière dans la vie chrétienne pratique : le « Notre père » selon Matthieu 6.9-13 ; et « Gethsémané » selon Luc 22/39-44 et Marc 14/32-33.
 
@@ -4913,7 +4913,7 @@ Plusieurs ont expérimenté Gethsémané – entre autres – Jacob, qui lutta a
 
 Le combat est donc dans la prière et non dans les murmures – dans la prière et non dans les plaintes – dans la prière et non dans les calomnies. Certes, de grandes révélations ont été faites à l’Épouse, mais cela ne doit pas remplacer sa vie de prière et de communion avec Dieu.
 
-#### La prière exige la persévérance
+### La prière exige la persévérance
 
 Le vainqueur est celui qui persévère dans la prière :
 
@@ -4991,7 +4991,7 @@ Car, avoir la possibilité d’entreprendre une œuvre ne veut pas dire qu’on 
 
 Il est bon que ceux qui travaillent dans la maison de Dieu comprennent que le Seigneur trouve plus de plaisir à se faire servir par ceux qu’Il s’est choisis lui-même. Le Seigneur aime se faire servir par les vases qu’Il s’est réservés pour lui-même dans sa maison. Ceci dans tous les domaines de l’œuvre. Quand il s’agit de prêcher la Parole de Dieu, il faut toujours faire premièrement de la place à ceux qu’on sait être des Ministres de la Parole dans l’église. Quand il s’agit de conduire le peuple de Dieu dans l’adoration par la louange, il faut aussi faire premièrement de la place à ceux qui sont reconnus comme étant des Ministres de la louange dans l’assemblée. Il est souvent honteux de voir des hommes non qualifiés debout à la place de ceux qui sont qualifiés dans l’œuvre – ceci pour des raisons qui sont charnelles. Dans cette affaire, ceux qui ne connaissent pas leur position comme ces rois, et qui veulent se mettre à la place des autres sont toujours punis par Dieu, d’une manière ou d’une autre.
 
-#### Comment reconnaître un ministère ?
+### Comment reconnaître un ministère ?
 
 Je voudrais profiter de ce témoignage pour répondre à cette brûlante question qui revient sur les lèvres des enfants de Dieu. Plusieurs frères se demandent comment reconnaître un ministère. Pour répondre à cette question, il faut que la Bible elle-même s’exprime clairement, parce que toutes les fois que les hommes veulent s’exprimer sur le sujet, ils ne disent pas tout. Mais la Bible dit tout sur cette question. Selon ce qui est écrit, la chose dépend de celui qui porte le ministère d’une part et de ceux qui sont les bénéficiaires du ministère d’autre part. Mais avant d’en arriver à ce point, je voudrais dire que ceux qui sont appelés au ministère se découvrent dans les débuts par rapport à leur attitude vis-à-vis de l’œuvre de Dieu. Déjà à douze ans, le Seigneur Jésus se montrait très intéressé par les choses de Dieu. Il avait déjà fait le choix entre ses parents et l’œuvre de Dieu. À ce sujet, il leur dit :
 
@@ -5091,7 +5091,7 @@ Toutefois, un ministère se voit à l’œil nu – une œuvre se voit à l’œ
 
 La reconnaissance des ministères dans une assemblée locale doit se faire par les autorités en charge de l’assemblée. Et de la place doit être faite à ces ministères dans l’église afin qu’ils s’exercent librement. Il n’est pas bon que des ministères s’exercent dans une assemblée et que la direction de l’église ne dise rien à leur sujet. Il faut le faire pour tranquilliser la foi des saints de la localité. C’est dans ce but que les sacrificateurs sont allés demander à Jean ce qu’il était. C’était une juste préoccupation, car Jean prêchait en dehors du temple et faisait des baptêmes. Jean n’était pas dans le même champ que les scribes et les pharisiens. C’est pourquoi le peuple de Dieu devrait être informé au sujet de son ministère. C’est aussi pour cette raison que Jean leur répondit sans détour. Mais généralement, ceux qui ne reconnaissent pas les ministères s’y opposent et un ministère qui n’est pas reconnu finit par s’imposer.
 
-#### Les oppositions aux ministères
+### Les oppositions aux ministères
 
 Je voudrais aussi aborder cette question importante concernant les oppositions aux ministères. En effet, dans l’exercice du ministère, les serviteurs de Dieu sont souvent confrontés à des rébellions et à des incompréhensions provenant de leur propre entourage. Cela est vu clairement dans la Bible. Joseph fut incompris de ses frères et vendu en Égypte (Gen 37). Plus tard, lorsque Moïse fut mandaté pour délivrer Israël, il s’est trouvé des opposants sur son chemin – des gens qui étaient dans le service divin comme lui (Nomb 16). C’est toujours ainsi. Les rébellions et les oppositions aux ministères commencent toujours avec ceux qui sont dans le service divin sans trop savoir comment ils y sont parvenus. Ceux qui ne savent pas la valeur des ministères s’y opposent toujours. Or, un ministère devrait être considéré comme une grâce de Dieu par les saints. Tout frère qui porte un ministère dans l’assemblée devrait être considéré comme une grâce de Dieu par les saints. Un tel frère devrait aussi conduire son ministère en sorte à être une véritable source de bénédiction pour les saints.
 
@@ -5117,7 +5117,7 @@ Quant à Jésus, ses frères étaient jaloux de lui. Ils le prenaient pour quelq
 
 C’est ainsi dans la maison de Dieu. Certains sont jaloux de l’appel des autres et s’en moquent. Ils développent des esprits de raillerie et de diffamation pour rien, simplement en vue de faire passer l’existence du don pour un non-événement. Mais qui peut s’opposer à Dieu et à ses oints ? Ceux qui disent que personne ne peut empêcher l’exercice d’un ministère sont les mêmes qui s’opposent à l’exercice des ministères quand ils n’évoluent pas dans leurs écuries religieuses. C’est de cette manière que le Seigneur essuya l’hostilité des religieux de son époque. Les scribes et les pharisiens combattaient Jésus parce qu’Il n’était pas avec eux. Ils auraient voulu l’avoir avec eux, mais Jésus n’était pas avec eux parce qu’ils étaient devenus des religieux.
 
-#### La religion se construit à l’intérieur des versets bibliques
+### La religion se construit à l’intérieur des versets bibliques
 
 La religion se construit à l’intérieur des versets bibliques. La religion se construit aussi à l’intérieur des déclarations des serviteurs de Dieu. Tout ceci par des disciples qui n’ont pas reçu l’Esprit de la Vérité qui est Christ lui-même. Les mormons ont construit leur religion à l’intérieur des déclarations de Joseph Smith. Les musulmans ont édifié leur religion à l’intérieur des paroles de Mahomet. Les pharisiens ont utilisé la loi pour créer leur religion avec les traditions tandis que les apôtres l’ont utilisée pour expliquer la nouvelle alliance en Jésus-Christ. Les Branhamistes ont construit leur religion à l’intérieur des déclarations du prophète William Branham qui n’a fait que prêcher la Vérité biblique. À ce sujet, Ewald Frank écrit :
 
@@ -5151,7 +5151,7 @@ Moïse avait la vision de la conduite du peuple dans le désert. Mais les religi
 
 Ce qu’on voit est que les dirigeants religieux abrutissent ceux qu’ils dirigent. En effet, les pharisiens de l’époque avaient abruti les peuples qui étaient sous leur surveillance par leur vie de religion. Jésus a dit qu’à l’intérieur d’eux-mêmes, ils étaient des tombeaux blanchis et des ossements de morts (Mat 23.25-27). La religion communique la mort à ceux qui la vivent et s’y plaisent. Elle rend aveugle, c’est pour cette raison que Jésus a dit que les pharisiens étaient aveugles. Ils étaient aveugles et avaient rendu aveugles ceux qu’ils dirigeaient. Ceci doit interpeller les dirigeants des églises. En effet, les pharisiens sont devenus aveugles parce qu’ils avaient rejeté la Parole de la Vérité. Car c’est la Parole de Dieu qui est une lumière sur notre sentier et une lampe à nos pieds (Ps 119.105). Lorsqu’elle est rejetée, celui qui l’a rejetée est frappé d’aveuglement et de mort. Ainsi, là où est refoulée la révélation de la Parole au profit des vieilles pratiques, se trouvent installés ensemble la mort et l’aveuglement parmi les conducteurs et le reste du peuple. Il faut en ce moment un secours extérieur pour ramener les naufragés à l’ordre originel.
 
-#### La manifestation du ministère
+### La manifestation du ministère
 
 Par expérience, je sais aussi que le vrai ministère est révélé après le baptême du Saint-Esprit. À ce sujet, le Seigneur a été clair avec ses disciples. Il leur dit :
 
@@ -5161,7 +5161,7 @@ Nous voyons bien que les vrais témoins du Christ le sont après avoir reçu le 
 
 En effet, pour prêcher la Parole de Dieu, il faut avoir l’Esprit de Dieu. S’il y a aujourd’hui des erreurs dans le monde de la chrétienté, c’est parce que plusieurs prêchent la Parole de Dieu sans avoir reçu l’Esprit Saint. Pour ceux-là, une formation dans une école pastorale ou dans un Institut biblique a suffi. Or, cela ne suffit pas. Ce qui est essentiel et qui est suffisant pour la prédication de la Parole, c’est l’Esprit de Dieu. Une ordination reçue d’un pasteur expérimenté ne qualifie pas au ministère – les seules qualifications demeurent le Saint-Esprit et l’appel de Dieu.
 
-#### L’expérience de la séduction
+### L’expérience de la séduction
 
 J’ai été confronté dans mon ministère à l’esprit de séduction. Ma rencontre avec cet esprit a eu lieu lorsque le Seigneur a commencé à me montrer régulièrement des visions. Il m’a été difficile d’accepter les visions au début parce que je croyais qu’elles provenaient des démons. J’ai beaucoup prié pour les chasser, mais j’ai fini par comprendre qu’elles venaient de Dieu. C’était un ange qui me les montrait. Cependant, je n’avais pas eu tort de croire en la présence des démons dans les visions. Car il se trouvait effectivement un esprit de séduction qui entendait opérer discrètement et subtilement dans ma vie. Plusieurs fois, il est venu sous une forme corporelle pour m’adresser la parole, espérant me conquérir. Cet esprit voulait faire de moi son serviteur comme plusieurs le sont aujourd’hui. Je l’ai su lorsqu’il me proposa d’aller fonder une église dans un lieu qu’il m’a indiqué, en me signifiant qu’il y aurait des prodiges, des miracles et des guérisons dans cette église.
 

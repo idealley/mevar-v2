@@ -1549,7 +1549,7 @@ Les principes du monde ne sont pas les principes du Royaume de Dieu. Appréhende
 
 Il y a beaucoup de principes qui se rattachent à la vie dans la communauté que les spécialistes en sciences sociales et politiques enseignent. Il y a même des principes secrets détenus par des maîtres qui les dispensent à leurs disciples par des cycles initiatiques. Il serait prétentieux d’en parler ici, mais ce qu’il faut retenir c’est que ce monde a des principes dans tous les domaines de la vie. Ceux qui parviennent à émerger et à prendre le pouvoir sur les autres et à les conduire dans une direction donnée, appliquent des principes de ce monde. Ce sont des leaders qui ont bâti leur leadership par l’application de ces principes. Pour comprendre le sujet des principes du Royaume de Dieu, il importe de regarder à un des principes de base sur lequel repose le fonctionnement de ce monde.
 
-#### 1- Nous sommes dans un monde de compétition
+### 1- Nous sommes dans un monde de compétition
 
 La compétition est un principe de base qui gouverne le monde dans lequel nous vivons. Elle est une réalité dans la vie de tous les hommes. Nous sommes en compétition les uns contre les autres. Les entreprises sont en compétition les unes contre les autres. Les nations sont également dans une grande compétition les unes contre les autres. La compétition est l’une des valeurs qu’on inculque à l’enfant dès ses premiers pas dans la vie. À l’école, il apprend et comprend qu’il y a toujours un premier et un dernier. Pour être premier il faut travailler, étudier. Ainsi, à toutes les étapes de la vie il y a des évaluations. Ce sont les résultats des évaluations qui déterminent les positions dans la société. Ceux qui montent toujours plus haut et qui atteignent leurs objectifs ne sont pas forcément les plus intelligents. Ce qu’ils ont de plus, c’est la maîtrise des règles du jeu. Ils ont l’intelligence des affaires du monde. Ils n’ont aucun état d’âme par rapport à la probité ou la moralité, ce qui compte c’est l’atteinte de l’objectif. Même si cela engendre beaucoup de victimes, on pourra soulager sa conscience plus tard par des œuvres sociales à travers des organisations non gouvernementales (ONG) ou des fondations qui portent leur nom.
 
@@ -1559,7 +1559,7 @@ C’est parce que les nations sont dans une compétition sans merci que la guerr
 
 > Jésus les appela, et dit : Vous savez que les chefs des nations les tyrannisent, et que les grands les asservissent. Il n’en sera pas de même au milieu de vous. Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur. (Matthieu 20:25-26)
 
-#### 2- Les positionnements dans le Royaume de Dieu
+### 2- Les positionnements dans le Royaume de Dieu
 
 Le Royaume de Dieu est le Royaume des fils de Dieu. Existe-t-il un ordre de positionnement de ceux-ci dans leur Royaume ? Un ordre hiérarchique existe-t-il entre les différentes positions ? Par quels principes ces positions sont-elles déterminées ? Quelles relations entretiennent-elles ? Les réponses à ces questions fondamentales par le concours des saintes Écritures nous permettront d’avancer dans la compréhension du sujet :
 
@@ -1583,7 +1583,7 @@ Après avoir manifesté de l’embarras en rapport avec la demande des frères, 
 
 Le Seigneur savait que les deux disciples allaient achever la course en gardant la foi et en le servant dans la fidélité. Ils allaient souffrir pour lui et mourir à cause de l’Évangile. En effet, l’apôtre Jacques est mort en martyr à cause de sa foi, et son frère Jean a souffert également jusqu’à ce qu’il soit déporté dans sa vieillesse sur l’île de Patmos à cause de la parole de Dieu. Cette condition n’était pas un obstacle pour Jean et Jacques, car l’amour qu’ils avaient pour le Seigneur était tel qu’ils haïssaient leur propre vie. Ce qui comptait pour eux c’était d’être le plus proche possible du Seigneur dans son Royaume. Ils en avaient fini avec le monde et tout ce que celui-ci pouvait offrir comme avantage ou gloire. Leur engagement de foi était sans faille. Mais le fait de « boire la coupe » ne donne à aucun fils de Dieu un avantage sur un autre fils de Dieu et donc ne peut être une raison pour solliciter une position.
 
-#### 3- […] ne sera donné qu’à ceux à qui mon Père l’a réservé
+### 3- […] ne sera donné qu’à ceux à qui mon Père l’a réservé
 
 La réponse du Seigneur à la demande des deux frères nous donne des informations capitales. D’abord la position d’un frère ou d’une sœur dans le Royaume ne dépend pas de Jésus-Christ de Nazareth en tant que Fils de Dieu. Pourtant il a dit aux disciples : « si vous demandez quelque chose en mon nom, je le ferai. » (Jean 14:14). Le fait de demander une position quelconque dans le Royaume de Dieu est exclu du champ d’exaucement de notre Seigneur et Sauveur Jésus-Christ. Cela est fondamental et lourd de conséquence. Toute position est pour celui à qui le Père l’a réservée. Personne ne pourra de quelque manière que ce soit ravir la position réservée à un autre.
 
@@ -1623,7 +1623,7 @@ L’indignation est un sentiment de colère mêlé de mépris qui résulte d’u
 
 Heureusement, le Seigneur étant présent et témoin des mauvais sentiments qui agitaient les cœurs, les a repris vivement et a recadré chacun selon l’ordre qui régit le Royaume de Dieu : « Jésus les appela, et dit : Vous savez que les chefs des nations les tyrannisent, et que les grands les asservissent. Il n’en sera pas de même au milieu de vous. » (Matthieu 20:25)
 
-#### 4- […] Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur
+### 4- […] Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur
 
 Dans le Royaume de Dieu il y a des grands. Être grand, c’est avoir une position élevée. C’est dire que les positions ne sont pas les mêmes. Il y a des positions plus élevées et des positions moins élevées. Ce qu’il faut comprendre, c’est que dans l’Église chacun a été appelé pour occuper une position dans le Ministère de Christ. Lorsque l’appelé occupe pleinement cette position en accomplissant les missions qui y sont rattachées, alors à la fin de la course, il pourra entrer dans la promesse faite par le Seigneur. En d’autres termes, il pourra occuper la position qui lui a été réservée par le Père bien avant la fondation du monde.
 
@@ -1641,7 +1641,7 @@ Beaucoup ont érigé dans l’Église leur propre Royaume et règnent sans parta
 
 Plusieurs enfants de Dieu sont ainsi liés par des chaînes de faux enseignements ou doctrines et sont à la merci de ces gourous qui les tyrannisent. Être « grand dans le monde » et être « grand dans le Royaume » de Dieu sont deux notions carrément opposées. C’est ce que le Seigneur a voulu montrer à ses disciples qui commençaient à emprunter la voie des hommes à ce moment-là. Être grand dans le Royaume de Dieu, c’est avoir une certaine maturité spirituelle pour se conformer aux règles et aux principes qui le régissent : celui qui est grand est serviteur des autres. Il doit pouvoir manifester les vertus qui caractérisent le serviteur : la soumission, l’obéissance, la douceur, la simplicité, l’humilité, le respect, la fidélité, la charité… Ce sont les vertus que notre Seigneur de Gloire, Jésus-Christ de Nazareth a manifestées, lui dont le nom est au-dessus de tout nom, lorsqu’il a pris la position de serviteur afin de nous sauver.
 
-#### 5- […] et quiconque veut être le premier parmi vous, qu’il soit votre esclave
+### 5- […] et quiconque veut être le premier parmi vous, qu’il soit votre esclave
 
 Le Seigneur montre dans cet enseignement qu’il y a deux positions élevées : la position de « grand » et celle de « premier ». Celui qui veut être grand parmi les frères doit accepter d’être serviteur des frères, par contre celui qui veut être le premier parmi les frères doit être l’esclave des frères. La position de premier est une position d’élévation extrême. Il peut y avoir plusieurs grands mais il y a un seul premier. Vouloir être premier, c’est accepter d’occuper la position d’esclave parmi les frères. Si être premier est de loin plus honorable qu’être grand, il faut reconnaître également que la condition d’esclave est pire que celle de serviteur. Il ne s’agit pas ici de prendre la position « d’esclave du Seigneur » mais celle d’esclave des frères. Être esclave du Seigneur est une position très honorable parce que c’est Lui le Grand Roi.
 
@@ -1655,7 +1655,7 @@ Tout ce qu’ils manifestent se trouve à l’opposé des principes du Royaume d
 
 > Après qu’il leur eut lavé les pieds, et qu’il eut pris ses vêtements, il se remit à table, et leur dit : Comprenez-vous ce que je vous ai fait ? Vous m’appelez Maître et Seigneur ; et vous dites bien, car je le suis. Si donc je vous ai lavé les pieds, moi, le Seigneur et le Maître, vous devez aussi vous laver les pieds les uns aux autres ; car je vous ai donné un exemple, afin que vous fassiez comme je vous ai fait. En vérité, en vérité, je vous le dis, le serviteur n’est pas plus grand que son seigneur, ni l’apôtre plus grand que celui qui l’a envoyé. Si vous savez ces choses, vous êtes heureux, pourvu que vous les pratiquiez. (Jean 13:12-17)
 
-#### 6- L’organisation et le fonctionnement du Royaume : le principe du « corps de Christ »
+### 6- L’organisation et le fonctionnement du Royaume : le principe du « corps de Christ »
 
 L’Église de Jésus-Christ est composée de l’ensemble des rachetés. Elle n’est pas seulement une entité physique, elle est aussi spirituelle. Les rachetés sont ceux qui ont expérimenté la nouvelle naissance par l’action de la parole de Dieu et de l’onction de l’Esprit de Dieu. L’Église est la manifestation du Royaume de Dieu sur la terre :
 
@@ -1713,7 +1713,7 @@ Dans le corps de Christ nous sommes non seulement liés les uns aux autres, mais
 
 Jésus est la tête du Corps. Nous lui appartenons en tant que membres. Il est bien vrai qu’il a été élevé à la perfection. Il attend maintenant, avec patience, que les membres qui sont à lui parviennent également à cette même perfection. Dans nos épreuves il nous soutient, dans nos faiblesses il nous supporte. Il travaille par son Esprit qui agit encore, à amener dans la glorification tout le Corps. L’enlèvement réalisera la réunion de tout le Corps avec la Tête. Ainsi de même qu’il est Un dans le Père, nous serons Un en lui.
 
-#### 6- Principes sur les doctrines, prescriptions et organisations dans l’Église
+### 6- Principes sur les doctrines, prescriptions et organisations dans l’Église
 
 > Or, le Seigneur c’est l’Esprit ; et là où est l’Esprit du Seigneur, là est la liberté. (2 Corinthiens 3:17)
 
@@ -1829,7 +1829,7 @@ Prêcher le Royaume de Dieu, c’est prêcher la vie. Entrer dans le Royaume de 
 
 Ce monde comme il a été dit plus haut, est venu à l’existence par le péché. C’est le péché qui l’a manifesté avec l’apparition de la mort dans la Création. Au commencement c’était la vie et non la mort. Pour comprendre le fondement de ce monde et son avenir, il faut retourner au commencement. De même, la compréhension de l’œuvre du Seigneur sur la terre exige un retour aux desseins originels de Dieu. Alors, si le Royaume de Dieu est caractérisé par la vie, quelle est l’origine de cette vie ? Qu’est-ce que cette vie ? Quelle est sa nature et ses caractéristiques ?
 
-#### 1- La terre dans la création
+### 1- La terre dans la création
 
 Au commencement était la Parole. La Parole était avec Dieu et la Parole était Dieu comme il est écrit. Par la Parole toutes choses ont été créées. Lorsque la Bible parle de commencement, cela indique l’instant de départ de la réalisation du projet de Dieu. Le commencement marque également le début du temps. Sinon, Dieu est Éternel et s’est révélé à l’homme en se présentant sous son nom : Éternel Dieu. Dès la Genèse, il est désigné sous ce nom : Éternel Dieu. Ce qui est éternel est hors du temps et n’a pas de commencement.
 
@@ -1957,7 +1957,7 @@ Les chrétiens ont une mission divine : manifester sur terre les bonnes œuvres
 
 Considérons que le cœur de l’homme est représenté dans la fig. 1 : la parole de Dieu est reçue dans le cœur, dans la Parole se trouve la vie, cette vie est la lumière des hommes. Ainsi, le cœur du chrétien contient la Parole, la vie et la lumière. Celui qui reçoit le Fils de Dieu reçoit la vie et cette vie est la lumière. Cette lumière luit à l’extérieur par les bonnes œuvres. Le cœur qui contient la Parole, la vie et la lumière doit manifester des bonnes œuvres à l’extérieur. Les hommes ne peuvent voir dans le cœur du chrétien mais ce sont les bonnes œuvres qu’ils voient. Par conséquent les hommes sont éclairés par les bonnes œuvres du chrétien. C’est ce que le Seigneur exprime ainsi : « que votre lumière luise ainsi devant les hommes, afin qu’ils voient vos bonnes œuvres, et qu’ils glorifient votre Père qui est dans les cieux. » (Matthieu 5:16) La lumière luit à l’extérieur par les bonnes œuvres. Les bonnes œuvres ne doivent pas demeurer seulement au niveau des intentions ou des résolutions du cœur, mais elles doivent être manifestées en actes. Le témoignage des chrétiens édifie les hommes du monde par les actes produits.
 
-#### 2- La justification par les œuvres de la foi
+### 2- La justification par les œuvres de la foi
 
 La question que l’on peut se poser est celle-ci : que sont les « bonnes œuvres » dont parle la Bible ? Une partie de la réponse à cette question se trouve dans l’épître aux Éphésiens :
 
@@ -2059,7 +2059,7 @@ Les officiels juifs, au plan politique, social et religieux ne pouvaient pas rec
 
 Cependant le peuple allait après lui et croyait qu’il était le fils de David, la délivrance d’Israël. Cette reconnaissance populaire du peuple comportait un enjeu terrible aux yeux de tous les officiels juifs : la destruction de la nation par l’armée romaine qui avait des garnisons à Jérusalem. Cependant, Jésus ignorant les préoccupations des officiels, parlait d’un autre Royaume : le Royaume de Dieu. Il annonçait le Royaume de Dieu et en expliquait les mystères à ses disciples. Les officiels religieux et politiques de la Judée ne percevaient pas son discours. Pendant qu’ils faisaient allusion au Royaume d’Israël, lui, parlait d’un autre Royaume. Il a répondu à Pilate : « Mon Royaume n’est pas de ce monde. » On pourrait se demander alors quel est le lien entre le Royaume d’Israël et le Royaume de Dieu ?
 
-#### 1- Le Royaume d’Israël
+### 1- Le Royaume d’Israël
 
 L’histoire du Royaume d’Israël est dans la Bible. De tous les Royaumes qui ont existé sur la terre, c’est le seul dont l’histoire complète a été préservée. Les détails des évènements qui ont jalonné son existence ont été écrits dans plusieurs documents ou livres par des auteurs différents. L’authenticité de leurs écrits est garantie par l’Esprit de Dieu qui a animé lesdits auteurs. En effet, ceux-ci ne sont pas de simples narrateurs mais des hommes pour la plupart oints par l’Esprit de Dieu. Ce sont des prophètes, des sacrificateurs et des scribes au service de Dieu.
 
@@ -2167,7 +2167,7 @@ Plus tard, Néhémie fut établi comme gouverneur sur la Judée par le roi Artax
 
 Malgré cela, le peuple, ses chefs et ses conducteurs religieux attendaient la délivrance d’Israël, car les prophètes qui avaient annoncé la destruction du Royaume d’Israël avaient aussi prédit l’avènement d’un libérateur qui rétablirait le trône de David.
 
-#### 2- L’avènement du Messie et le rétablissement du trône de David
+### 2- L’avènement du Messie et le rétablissement du trône de David
 
 L’avènement du Messie et le rétablissement du trône de David sont annoncés par plusieurs prophéties dans la Bible. Au temps de Jésus, les Juifs attendaient l’accomplissement de ces prophéties. Ils s’attendaient donc au rétablissement du Royaume d’Israël avec la montée sur le trône du Fils de David. Le Christ appelé Messie, tel qu’annoncé par toutes les prophéties, est identifié au Fils de David :
 
@@ -2207,7 +2207,7 @@ Il est venu comme un simple homme pour s’identifier à l’humanité comme un 
 
 Il était le prophète attendu par Israël.
 
-#### 3- Jésus le Christ, le Fils du Dieu vivant : Roi d’Israël
+### 3- Jésus le Christ, le Fils du Dieu vivant : Roi d’Israël
 
 Par une révélation directe du Ciel, Pierre dit : « Tu es le Christ, le Fils du Dieu vivant. » Ainsi, le Ciel témoigne que Jésus est le Christ, le Fils du Dieu vivant. Jésus, Fils du Dieu Vivant, exprime la divinité de Jésus. Dans cette position de Fils du Dieu vivant, Jésus est le Seigneur, c’est-à-dire le Dieu vivant. C’était là, la pierre d’achoppement pour les officiels juifs. Pourtant, toutes les prophéties définissent clairement l’identité de celui qui était annoncé à Israël. Pour connaître l’identité du Messie, il faut remonter dans les prophéties qui l’annoncent. Ainsi dans Ésaïe, il est dit voici votre Dieu :
 
@@ -2269,7 +2269,7 @@ Ainsi, comme il y a un seul Dieu, il y aura également un seul peuple de Dieu et
 
 Jésus-Christ est le Roi du Royaume de Dieu appelé aussi le Royaume des Cieux. Il n’y a pas deux trônes. Il y a un seul Trône. Le trône du Roi des rois et Seigneur des seigneurs. Comme expliqué plus haut, le trône temporaire et physique sur lequel s’asseyait David dans son règne n’est qu’une image ou symbole du Vrai Trône de Dieu qui doit régner sur toutes les nations et toute la Création.
 
-#### 4- La guerre pour le règne du Christ
+### 4- La guerre pour le règne du Christ
 
 Aujourd’hui, Jésus-Christ le Roi aspire à entrer dans son règne car son règne n’est pas encore établi. Le diable, par le mensonge et la séduction du péché, a pris en otage la Création. Les nations voire toute la Création sont dans la servitude du diable. Pour que notre Seigneur et souverain Maître prenne possession de son règne, il faut qu’Il parvienne à dégager le diable et son pouvoir. C’est la guerre. La guerre pour le règne de Jésus est en cours. Les Fils du Royaume de Dieu sont concernés par cette guerre.
 
@@ -2327,7 +2327,7 @@ Après son action dans les nations, le Fils mâle, c’est-à-dire la troupe des
 
 > Et il y eut guerre dans le ciel. Michel et ses anges combattirent contre le dragon. Et le dragon et ses anges combattirent, mais ils ne furent pas les plus forts, et leur place ne fut plus trouvée dans le ciel. Et il fut précipité, le grand dragon, le serpent ancien, appelé le diable et Satan, celui qui séduit toute la terre, il fut précipité sur la terre, et ses anges furent précipités avec lui. Et j’entendis dans le ciel une voix forte qui disait : **Maintenant le salut est arrivé, et la puissance, et le règne de notre Dieu, et l’autorité de son Christ ; car il a été précipité, l’accusateur de nos frères, celui qui les accusait devant notre Dieu jour et nuit**. Ils l’ont vaincu à cause du sang de l’agneau et à cause de la parole de leur témoignage, et ils n’ont pas aimé leur vie jusqu’à craindre la mort. C’est pourquoi réjouissez-vous, cieux, et vous qui habitez dans les cieux. (Apocalypse 12:7-12)
 
-#### 5- Le règne de mille ans de Jésus le Roi
+### 5- Le règne de mille ans de Jésus le Roi
 
 Après les différents jugements et fléaux sur la terre, le Seigneur combattra avec les armées des cieux, jusqu’à la proclamation de la victoire sur la bête et le faux prophète. L’adversaire de Dieu sera saisi et lié pour mille ans :
 
