@@ -1,20 +1,23 @@
 #!/usr/bin/env node
-// Goal 23: every text goal 10 edited offers two PDFs.
+// Goal 23: every Mevar text offers a PDF, and its original where it has one.
 //
-// For each promoted text (editorial_pass) from the OneDrive folder or the
-// mevar.org PDFs, not a duplicate and not a draft:
-//   - the original: the OneDrive PDF the text was edited from (for a work
-//     86 split off, the PDF it was printed in, its published_with's),
-//     copied to files/onedrive/, named in `local_pdf`; a mevar.org PDF
-//     already has its `local_pdf`, under files/mevar/;
-//   - the edited PDF: the text as the site shows it, with its title,
-//     subtitle, preacher, date and place, written to
-//     files/mevar-edited/<slug>.pdf and named in `edited_pdf`.
-// Samuel (2026-10-03): « Both »; the originals are published as they are.
+// - A text goal 10 edited (editorial_pass) from the OneDrive folder or the
+//   mevar.org PDFs, not a duplicate and not a draft: its original, the
+//   OneDrive PDF it was edited from (a work 86 split off: the PDF it was
+//   printed in), copied to files/onedrive/ and named in `local_pdf` (a
+//   mevar.org PDF already has its own); and the PDF of its text.
+// - A Ghost post (source mevar, a post, not a page) that had no PDF: the
+//   OneDrive original of the same work, where one of its OneDrive
+//   duplicates has it; otherwise the PDF of its text.
+// The PDF of a text: the text as the site shows it, with its title,
+// subtitle, preacher, date and place, and its page numbers, written to
+// files/mevar-text/<slug>.pdf and named in `text_pdf`.
+// Samuel (2026-10-03): « Both »; the originals are published as they are;
+// for the Ghost posts, « 50 originals + 96 generated ».
 //
-// Deterministic: the PDF's creation date is the text's editorial_pass, so a
-// second run writes nothing. It deletes only files in files/onedrive/ and
-// files/mevar-edited/ that no text names any more (it made them).
+// Deterministic: a PDF's dates are the text's editorial_pass or publication
+// date, so a second run writes nothing. It deletes only a PDF of a text it
+// made, in files/mevar-text/, that no text names any more.
 //
 // Usage: node scripts/90-mevar-pdfs.mjs [--dry]. Needs the OneDrive folder
 // at onedrive/ (gitignored) for the originals.
@@ -22,6 +25,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import PDFDocument from "pdfkit";
+import sharp from "sharp";
 import { fromMarkdown } from "mdast-util-from-markdown";
 import { frenchSpacing } from "../web/src/lib/french-typography.mjs";
 
@@ -30,8 +34,9 @@ const dry = process.argv.includes("--dry");
 const inventory = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive-inventory.json"), "utf8"));
 const FONTS = path.join(root, "node_modules/@expo-google-fonts/noto-serif");
 const font = (w) => path.join(FONTS, w, `NotoSerif_${w}.ttf`);
+const hebrew = (w) => path.join(root, "node_modules/@expo-google-fonts/noto-serif-hebrew", w, `NotoSerifHebrew_${w}.ttf`);
 const ORIGINALS = "files/onedrive";
-const EDITED = "files/mevar-edited";
+const TEXT = "files/mevar-text";
 
 const frontmatter = (text) => text.match(/^---\n([\s\S]*?)\n---\n/)[1];
 const field = (fm, k) => { const m = fm.match(new RegExp(`^${k}: (.*)$`, "m")); return m ? JSON.parse(m[1]) : undefined; };
@@ -50,7 +55,7 @@ for (const dir of ["markdown/mevar", "markdown/onedrive", "markdown/mevar-pdfs"]
 const byWork = (work) => texts.get(`markdown/${work}.md`);
 
 // The OneDrive PDF a text was edited from
-const stemOf = (t) => field(t.fm, "source_path").replace(/\.md$/, "");
+const stemOf = (t) => (field(t.fm, "source_path") ?? t.md.slice("markdown/".length)).replace(/\.md$/, "");
 function originalOf(t) {
   // a work 86 split off (its path is its first work's, a dash, its slug):
   // the PDF it was printed in, its first work's
@@ -69,6 +74,8 @@ function inline(doc, nodes, style, opts) {
       else if (n.type === "emphasis") walk(n.children, { ...s, italic: true });
       else if (n.type === "break") parts.push(["\n", s]);
       else if (n.type === "link") walk(n.children, s);
+      // a footnote's anchor in a Ghost post (« <a id="_ftn1" href="#_ftnref1"> »): its number stays
+      else if (n.type === "html" && /^<\/?a(\s[^>]*)?>$/.test(n.value)) continue;
       // anything else (HTML, code) would lose or garble words: refused
       else throw new Error(`a ${n.type} in the text, which the PDF does not render: ${JSON.stringify(n.value ?? "").slice(0, 60)}`);
     }
@@ -87,18 +94,28 @@ function inline(doc, nodes, style, opts) {
   // a line break (« Fr. M’BRA Parfait  ⏎Missionnaire ») ends a line
   const lines = [[]];
   for (const r of runs) if (r[0] === "\n") lines.push([]); else if (r[0]) lines.at(-1).push(r);
-  for (const line of lines.filter((l) => l.length)) line.forEach(([t, s], i) => {
-    doc.font(s.bold ? (s.italic ? "bi" : "b") : s.italic ? "i" : "r");
-    doc.text(t, { ...opts, continued: i < line.length - 1 });
-  });
+  // a Hebrew word in the Hebrew font, which sets it right to left; « n◦ »
+  // is a misprint for « n° », a glyph the font has
+  for (const line of lines.filter((l) => l.length)) {
+    const segs = line.flatMap(([t, s]) => t.replace(/◦/g, "°").split(/([\u0590-\u05ff]+(?:[ \u05be][\u0590-\u05ff]+)*)/).filter(Boolean).map((x) => [x, s]));
+    segs.forEach(([t, s], i) => {
+      doc.font(/[\u0590-\u05ff]/.test(t) ? (s.bold ? "heb" : "he") : s.bold ? (s.italic ? "bi" : "b") : s.italic ? "i" : "r");
+      doc.text(t, { ...opts, continued: i < segs.length - 1 });
+    });
+  }
 }
 
-function edited(t) {
+async function textPdf(t) {
+  // the images a Ghost post shows, as PNG (pdfkit reads no WebP)
+  const images = new Map();
+  for (const m of t.text.matchAll(/!\[[^\]]*\]\(([^)\s]+)/g)) images.set(m[1], await sharp(path.join(root, m[1])).png().toBuffer());
   return new Promise((resolve) => {
     const title = field(t.fm, "title");
+    const author = field(t.fm, "preacher") ?? t.fm.match(/^authors:\n  - "(.+)"$/m)?.[1];
+    const day = new Date(`${(field(t.fm, "editorial_pass") ?? field(t.fm, "published_at")).slice(0, 10)}T00:00:00Z`);
     const doc = new PDFDocument({
       size: "A4", margins: { top: 64, bottom: 64, left: 70, right: 70 }, bufferPages: true,
-      info: { Title: title, ...(field(t.fm, "preacher") && { Author: field(t.fm, "preacher") }), CreationDate: new Date(`${field(t.fm, "editorial_pass")}T00:00:00Z`), ModDate: new Date(`${field(t.fm, "editorial_pass")}T00:00:00Z`), Producer: "mevar.org", Creator: "mevar.org" },
+      info: { Title: title, ...(author && { Author: author }), CreationDate: day, ModDate: day, Producer: "mevar.org", Creator: "mevar.org" },
     });
     const chunks = [];
     doc.on("data", (c) => chunks.push(c));
@@ -107,13 +124,15 @@ function edited(t) {
     doc.registerFont("b", font("700Bold"));
     doc.registerFont("i", font("400Regular_Italic"));
     doc.registerFont("bi", font("700Bold_Italic"));
+    doc.registerFont("he", hebrew("400Regular"));
+    doc.registerFont("heb", hebrew("700Bold"));
     const width = doc.page.width - 140;
     doc.font("b").fontSize(20).text(frenchSpacing(title), { align: "left" });
     const subtitle = field(t.fm, "subtitle");
     if (subtitle) doc.moveDown(0.3).font("i").fontSize(13).text(frenchSpacing(subtitle));
-    const date = field(t.fm, "date");
+    const date = field(t.fm, "date") ?? field(t.fm, "published_at")?.slice(0, 10);
     const when = date ? new Date(`${date}T00:00:00Z`).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }) : field(t.fm, "year");
-    const line = [field(t.fm, "preacher"), when, field(t.fm, "location")].filter(Boolean).join(" · ");
+    const line = [author, when, field(t.fm, "location")].filter(Boolean).join(" · ");
     if (line) doc.moveDown(0.4).font("r").fontSize(11).fillColor("#555555").text(line).fillColor("#000000");
     doc.moveDown(1.2).fontSize(11.5);
     const body = t.text.slice(t.text.indexOf("\n---\n", 4) + 5);
@@ -127,8 +146,13 @@ function edited(t) {
         doc.x = x; inline(doc, n.children, { bold: true }, opts);
         doc.moveDown(0.4).fontSize(11.5);
       } else if (n.type === "paragraph") {
-        doc.x = x; inline(doc, n.children, { italic: quote }, opts);
-        doc.moveDown(0.6);
+        // an image, on its own: the page's width at most
+        const words = n.children.filter((c) => c.type !== "image");
+        if (words.some((c) => c.type !== "text" || c.value.trim())) { doc.x = x; inline(doc, words, { italic: quote }, opts); doc.moveDown(0.6); }
+        for (const c of n.children.filter((c) => c.type === "image")) {
+          doc.image(images.get(c.url), x, undefined, { fit: [width - indent, 360] });
+          doc.moveDown(0.6);
+        }
       } else if (n.type === "blockquote") {
         for (const c of n.children) block(c, indent + 18, true);
       } else if (n.type === "list") {
@@ -173,50 +197,65 @@ const named = new Set();
 const from = new Map(); // an original's file name, and the PDF it was copied from
 let written = 0, copied = 0, frontmatters = 0;
 const missing = [];
-for (const t of texts.values()) {
-  const source = field(t.fm, "source");
-  if (!/^editorial_pass:/m.test(t.fm) || /^duplicate_of:/m.test(t.fm) || field(t.fm, "status") === "draft") continue;
-  if (source !== "onedrive" && source !== "mevar-pdfs") continue;
-  let text = t.text;
-  // the original
-  if (source === "onedrive") {
-    const original = originalOf(t);
-    // none found: what the text names stays, and is listed
-    if (!original) missing.push(t.md);
-    else {
-      const dest = `${ORIGINALS}/${slug(path.basename(original, ".pdf"))}.pdf`;
-      if (from.has(dest) && from.get(dest) !== original) throw new Error(`${dest}: both ${from.get(dest)} and ${original}`);
-      from.set(dest, original);
-      named.add(dest);
-      const buf = fs.readFileSync(path.join(root, original));
-      if (!sameBytes(path.join(root, dest), buf)) {
-        copied++;
-        if (!dry) { fs.mkdirSync(path.join(root, ORIGINALS), { recursive: true }); fs.writeFileSync(path.join(root, dest), buf); }
-      }
-      text = setField(text, "local_pdf", `/${dest}`);
-    }
-  }
-  // the edited text
-  const dest = `${EDITED}/${path.basename(t.md, ".md")}.pdf`;
+// an original copied to files/onedrive/, named in the text
+function copyOriginal(original, text) {
+  const dest = `${ORIGINALS}/${slug(path.basename(original, ".pdf"))}.pdf`;
+  if (from.has(dest) && from.get(dest) !== original) throw new Error(`${dest}: both ${from.get(dest)} and ${original}`);
+  from.set(dest, original);
   named.add(dest);
-  const buf = await edited(t);
+  const buf = fs.readFileSync(path.join(root, original));
+  if (!sameBytes(path.join(root, dest), buf)) {
+    copied++;
+    if (!dry) { fs.mkdirSync(path.join(root, ORIGINALS), { recursive: true }); fs.writeFileSync(path.join(root, dest), buf); }
+  }
+  return setField(text, "local_pdf", `/${dest}`);
+}
+// the PDF of the text, named in it
+async function writeText(t, text) {
+  const dest = `${TEXT}/${path.basename(t.md, ".md")}.pdf`;
+  named.add(dest);
+  const buf = await textPdf(t);
   if (!sameBytes(path.join(root, dest), buf)) {
     written++;
-    if (!dry) { fs.mkdirSync(path.join(root, EDITED), { recursive: true }); fs.writeFileSync(path.join(root, dest), buf); }
+    if (!dry) { fs.mkdirSync(path.join(root, TEXT), { recursive: true }); fs.writeFileSync(path.join(root, dest), buf); }
   }
-  text = setField(text, "edited_pdf", `/${dest}`);
+  return setField(text, "text_pdf", `/${dest}`);
+}
+// the OneDrive duplicates of each work
+const duplicates = new Map();
+for (const t of texts.values()) {
+  const of = field(t.fm, "duplicate_of");
+  if (of && t.md.startsWith("markdown/onedrive/")) duplicates.set(`markdown/${of}.md`, [...(duplicates.get(`markdown/${of}.md`) ?? []), t]);
+}
+for (const t of texts.values()) {
+  const source = field(t.fm, "source");
+  if (/^duplicate_of:/m.test(t.fm) || field(t.fm, "status") === "draft") continue;
+  let text = t.text;
+  if (/^editorial_pass:/m.test(t.fm) && (source === "onedrive" || source === "mevar-pdfs")) {
+    if (source === "onedrive") {
+      const original = originalOf(t);
+      // none found: what the text names stays, and is listed
+      if (original) text = copyOriginal(original, text);
+      else missing.push(t.md);
+    }
+    text = await writeText(t, text);
+  } else if (source === "mevar" && field(t.fm, "type") === "post" && !field(t.fm, "pdf_url") && !(field(t.fm, "local_pdf") ?? "/files/onedrive/").startsWith("/files/mevar/")) {
+    // a Ghost post without a PDF of its own: its OneDrive duplicate's original, or its text
+    const original = (duplicates.get(t.md) ?? []).map(originalOf).find(Boolean);
+    text = original ? copyOriginal(original, text) : await writeText(t, text);
+  } else continue;
   if (text !== t.text) { frontmatters++; if (!dry) fs.writeFileSync(path.join(root, t.md), text); }
 }
-// an edited PDF it made that no text names any more (a text renamed by 88);
-// never an original, never a file another text names
-const anyNames = new Set([...texts.values()].flatMap((t) => [...t.fm.matchAll(/^(?:local_pdf|edited_pdf): "\/(.+)"$/gm)].map((m) => m[1])));
+// a PDF of a text it made that no text names any more (a text renamed by
+// 88); never an original, never a file another text names
+const anyNames = new Set([...texts.values()].flatMap((t) => [...t.fm.matchAll(/^(?:local_pdf|text_pdf): "\/(.+)"$/gm)].map((m) => m[1])));
 let removed = 0;
-if (fs.existsSync(path.join(root, EDITED)))
-  for (const f of fs.readdirSync(path.join(root, EDITED))) {
-    const rel = `${EDITED}/${f}`;
+if (fs.existsSync(path.join(root, TEXT)))
+  for (const f of fs.readdirSync(path.join(root, TEXT))) {
+    const rel = `${TEXT}/${f}`;
     if (!f.endsWith(".pdf") || named.has(rel) || anyNames.has(rel)) continue;
     removed++;
     if (!dry) fs.rmSync(path.join(root, rel));
   }
-console.log(`${named.size} PDFs named; ${copied} originals copied, ${written} edited PDFs written, ${frontmatters} frontmatters, ${removed} removed${dry ? " (dry)" : ""}`);
+console.log(`${named.size} PDFs named; ${copied} originals copied, ${written} text PDFs written, ${frontmatters} frontmatters, ${removed} removed${dry ? " (dry)" : ""}`);
 if (missing.length) console.log(`no original found for: ${missing.join(", ")}`);
