@@ -164823,7 +164823,7 @@
   {
     "source": "mevar-pdfs",
     "sermon_id": "le_royaume_de_dieu_kadjani",
-    "title": "LE ROYAUME DE DIEU",
+    "title": "Le Royaume de Dieu",
     "subtitle": "Comprendre ses principes et son fonctionnement",
     "date": null,
     "year": 2022,
@@ -164875,9 +164875,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/mevar-pdfs/le_royaume_de_dieu_kadjani.md",
-    "size_bytes": 532905,
-    "line_count": 6430
+    "local_md": "markdown/mevar/le-royaume-de-dieu-2022.md",
+    "size_bytes": 528160,
+    "line_count": 2403
   },
   {
     "source": "mevar-pdfs",
@@ -165290,8 +165290,92 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap14ministere.md",
-    "size_bytes": 2910,
+    "size_bytes": 2922,
     "line_count": 56
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "les_cinq_ministeres_de_la_parole",
+    "title": "Les cinq Ministères de la Parole dans la vision des temps de la fin",
+    "subtitle": null,
+    "date": "2004-09-15",
+    "year": 2004,
+    "location": "Abidjan",
+    "preacher": "Parfait M'bra",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": null,
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": [],
+    "tags": [
+      "Publications",
+      "2004",
+      "Cinq Ministères",
+      "Appel",
+      "Ministère"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "Cet ouvrage traite de l'appel et de l'exercice des cinq ministères de la Parole (apôtre, prophète, évangéliste, pasteur, docteur) dans l'Église, en s'appuyant sur les Écritures et des exemples bibliques et historiques. Il aborde également des sujets comme l'autorité spirituelle, les faux ministres, et la vision prophétique pour le temps de la fin.",
+    "persons": [
+      "M'BRA Parfait",
+      "Ewald Frank",
+      "William Branham",
+      "Jésus-Christ",
+      "Paul",
+      "Pierre",
+      "Jonas",
+      "Jean Baptiste",
+      "Ésaïe",
+      "Jérémie",
+      "Ézéchiel",
+      "Matthieu",
+      "André",
+      "Jacques",
+      "Jean",
+      "Philippe",
+      "Apollos",
+      "Barnabas",
+      "Tite",
+      "Timothée",
+      "Moïse",
+      "Esdras",
+      "Balaam",
+      "Martin Luther",
+      "Jean Calvin",
+      "John Wesley",
+      "Charles Finney",
+      "D.L. Moody",
+      "Billy Graham",
+      "Watchman Nee"
+    ],
+    "places": [
+      "Abidjan",
+      "Côte d'Ivoire",
+      "Ninive",
+      "Tarsis",
+      "Galilée",
+      "États-Unis",
+      "Allemagne"
+    ],
+    "themes": [
+      "Appel divin",
+      "Cinq ministères",
+      "Autorité spirituelle",
+      "Fidélité",
+      "Onction",
+      "Prophétie",
+      "Temps de la fin"
+    ],
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": true,
+    "original": null,
+    "local_md": "markdown/mevar/les-cinq-ministeres-de-la-parole-dans-la-vision-des-temps-de-la-fin-2004.md",
+    "size_bytes": 715887,
+    "line_count": 5189
   },
   {
     "source": "onedrive",
@@ -165382,92 +165466,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap1ministere.md",
-    "size_bytes": 140585,
+    "size_bytes": 140597,
     "line_count": 843
-  },
-  {
-    "source": "onedrive",
-    "sermon_id": "les_cinq_ministeres_de_la_parole",
-    "title": "Les Cinq Ministères de la Parole dans la vision des temps de la fin",
-    "subtitle": null,
-    "date": "2005-01-01",
-    "year": 2005,
-    "location": "Abidjan",
-    "preacher": "Parfait M'bra",
-    "duration": null,
-    "source_url": null,
-    "pdf_url": null,
-    "audio_url": null,
-    "mevar_match": null,
-    "aliases": [],
-    "tags": [
-      "Publications",
-      "2005",
-      "Cinq Ministères",
-      "Appel",
-      "Ministère"
-    ],
-    "authors": null,
-    "type": null,
-    "status": null,
-    "summary": "Cet ouvrage traite de l'appel et de l'exercice des cinq ministères de la Parole (apôtre, prophète, évangéliste, pasteur, docteur) dans l'Église, en s'appuyant sur les Écritures et des exemples bibliques et historiques. Il aborde également des sujets comme l'autorité spirituelle, les faux ministres, et la vision prophétique pour le temps de la fin.",
-    "persons": [
-      "M'BRA Parfait",
-      "Ewald Frank",
-      "William Branham",
-      "Jésus-Christ",
-      "Paul",
-      "Pierre",
-      "Jonas",
-      "Jean Baptiste",
-      "Ésaïe",
-      "Jérémie",
-      "Ézéchiel",
-      "Matthieu",
-      "André",
-      "Jacques",
-      "Jean",
-      "Philippe",
-      "Apollos",
-      "Barnabas",
-      "Tite",
-      "Timothée",
-      "Moïse",
-      "Esdras",
-      "Balaam",
-      "Martin Luther",
-      "Jean Calvin",
-      "John Wesley",
-      "Charles Finney",
-      "D.L. Moody",
-      "Billy Graham",
-      "Watchman Nee"
-    ],
-    "places": [
-      "Abidjan",
-      "Côte d'Ivoire",
-      "Ninive",
-      "Tarsis",
-      "Galilée",
-      "États-Unis",
-      "Allemagne"
-    ],
-    "themes": [
-      "Appel divin",
-      "Cinq ministères",
-      "Autorité spirituelle",
-      "Fidélité",
-      "Onction",
-      "Prophétie",
-      "Temps de la fin"
-    ],
-    "feature_image": null,
-    "local_image": null,
-    "llm_cleaned": true,
-    "original": null,
-    "local_md": "markdown/onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole.md",
-    "size_bytes": 721911,
-    "line_count": 4325
   },
   {
     "source": "onedrive",
@@ -185283,7 +185283,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap10ministere.md",
-    "size_bytes": 16362,
+    "size_bytes": 16374,
     "line_count": 89
   },
   {
@@ -185335,7 +185335,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap11ministere.md",
-    "size_bytes": 12636,
+    "size_bytes": 12648,
     "line_count": 83
   },
   {
@@ -185398,7 +185398,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap12ministere.md",
-    "size_bytes": 52518,
+    "size_bytes": 52530,
     "line_count": 252
   },
   {
@@ -185481,7 +185481,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap13ministere.md",
-    "size_bytes": 77184,
+    "size_bytes": 77196,
     "line_count": 314
   },
   {
@@ -185568,7 +185568,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap13ministere (trois grandes visions).md",
-    "size_bytes": 77504,
+    "size_bytes": 77516,
     "line_count": 346
   },
   {
@@ -185649,7 +185649,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap2ministere.md",
-    "size_bytes": 37856,
+    "size_bytes": 37868,
     "line_count": 274
   },
   {
@@ -185728,7 +185728,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap3ministere.md",
-    "size_bytes": 29295,
+    "size_bytes": 29307,
     "line_count": 232
   },
   {
@@ -185803,7 +185803,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap4ministere.md",
-    "size_bytes": 108495,
+    "size_bytes": 108507,
     "line_count": 814
   },
   {
@@ -185878,7 +185878,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap5ministere.md",
-    "size_bytes": 38881,
+    "size_bytes": 38893,
     "line_count": 414
   },
   {
@@ -185940,7 +185940,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap6ministere.md",
-    "size_bytes": 32537,
+    "size_bytes": 32549,
     "line_count": 180
   },
   {
@@ -186001,7 +186001,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap7ministere.md",
-    "size_bytes": 21470,
+    "size_bytes": 21482,
     "line_count": 129
   },
   {
@@ -186062,7 +186062,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap8ministere.md",
-    "size_bytes": 11151,
+    "size_bytes": 11163,
     "line_count": 79
   },
   {
@@ -187165,7 +187165,7 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/onedrive/pdf/les_ouvriers_du_royaume.md",
-    "size_bytes": 513737,
+    "size_bytes": 513749,
     "line_count": 9544
   },
   {

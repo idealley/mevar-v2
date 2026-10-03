@@ -47,7 +47,9 @@ const isHeading = (p) => /^#{1,4} /.test(p);
  */
 function headingOf(line, proposed) {
   // a line already a heading keeps its level
-  const level = line.match(/^(#{1,4}) /)?.[1] ?? proposed.match(/^(#{2,3}) /)?.[1];
+  // (the model proposes ## or ###; an editor's decision for a book with parts,
+  // chapters and sections may take ####, goal 18)
+  const level = line.match(/^(#{1,4}) /)?.[1] ?? proposed.match(/^(#{2,4}) /)?.[1];
   if (!isHeading(proposed)) return null;
   const from = [...plain(line)];
   const to = [...plain(proposed)].filter(alnum);
@@ -211,7 +213,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const { decisions, usage } = await decide(lines);
     // a heading that is not its line, case and accents aside, stays a line
     all[md] = [...(all[md] ?? []), ...decisions.map((d) => {
-      const heading = d.heading && headingOf(d.line, d.heading);
+      // the model gives ## or ### only; #### is an editor's decision (goal 18)
+      const heading = d.heading && /^#{2,3} /.test(d.heading) && headingOf(d.line, d.heading);
       if (d.heading && !heading) console.log(`  kept, the model changed a word: ${md}: « ${d.line} » → « ${d.heading} »`);
       return d.heading && !heading ? { line: d.line, heading: null, refused: d.heading } : { line: d.line, heading };
     })];

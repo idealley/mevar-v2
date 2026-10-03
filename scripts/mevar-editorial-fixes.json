@@ -14252,5 +14252,2595 @@
       "péchés sexuels",
       "doctrine chrétienne"
     ]
+  },
+  "markdown/onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole.md": {
+    "title": "Les cinq Ministères de la Parole dans la vision des temps de la fin",
+    "fixes": [
+      {
+        "find": "**REMERCIEMENTS ......................................................................... 9**",
+        "replace": "**REMERCIEMENTS (p. 9)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**DÉDICACE ..................................................................................... 11**",
+        "replace": "**DÉDICACE (p. 11)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**PRÉFACE ....................................................................................... 13**",
+        "replace": "**PRÉFACE (p. 13)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**AVANT-PROPOS ............................................................................ 19**",
+        "replace": "**AVANT-PROPOS (p. 19)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**PREMIÈRE PARTIE : L’APPEL ET L’EXERCICE DU MINISTÈRE .. 21**",
+        "replace": "**PREMIÈRE PARTIE : L’APPEL ET L’EXERCICE DU MINISTÈRE (p. 21)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**1 : L’APPEL ................................................................................... 23**",
+        "replace": "**1 : L’APPEL (p. 23)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Qu’est-ce que c’est que l’appel .................................................................. 23  \n",
+        "replace": "Qu’est-ce que c’est que l’appel (p. 23)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Pourquoi l’appel est-il possible ? ............................................................. 24  \n",
+        "replace": "Pourquoi l’appel est-il possible ? (p. 24)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Répondre à l’appel de Dieu ...................................................................... 24  \n",
+        "replace": "Répondre à l’appel de Dieu (p. 24)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Exemples d’appels au ministère .............................................................. 26  \n",
+        "replace": "Exemples d’appels au ministère (p. 26)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’ordination dans le ministère ................................................................. 32",
+        "replace": "L’ordination dans le ministère (p. 32)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**2 : L’EXERCICE DU MINISTÈRE .................................................. 35**",
+        "replace": "**2 : L’EXERCICE DU MINISTÈRE (p. 35)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Qu’est-ce que c’est que l’œuvre de Dieu ? ................................................ 35  \n",
+        "replace": "Qu’est-ce que c’est que l’œuvre de Dieu ? (p. 35)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Qu’est-ce que c’est que le ministère ? ...................................................... 36  \n",
+        "replace": "Qu’est-ce que c’est que le ministère ? (p. 36)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La formation spirituelle et l’exercice du ministère ................................. 39",
+        "replace": "La formation spirituelle et l’exercice du ministère (p. 39)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’échec et l’éloignement .................................................................... 39  \n",
+        "replace": "L’échec et l’éloignement (p. 39)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’apprentissage et l’assurance ........................................................... 42  \n",
+        "replace": "L’apprentissage et l’assurance (p. 42)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Du dedans au dehors ......................................................................... 43  \n",
+        "replace": "Du dedans au dehors (p. 43)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "C’est l’Éternel des armées que vous devrez sanctifier ...................... 47  \n",
+        "replace": "C’est l’Éternel des armées que vous devrez sanctifier (p. 47)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les positions dans le service : assis et debout .................................. 49  \n",
+        "replace": "Les positions dans le service : assis et debout (p. 49)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La fidélité dans le ministère .............................................................. 52  \n",
+        "replace": "La fidélité dans le ministère (p. 52)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La bénédiction dans le ministère ...................................................... 54  \n",
+        "replace": "La Bénédiction dans le ministère (p. 54)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’œuvre doit reposer sur le Seigneur ................................................ 57  \n",
+        "replace": "L’œuvre doit reposer sur le Seigneur (p. 57)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La vie de prière et la conduite du Saint-Esprit dans le ministère ........................................................................... 59",
+        "replace": "La vie de prière et la conduite du Saint-Esprit dans le ministère (p. 59)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La puissance et l’influence de l’onction dans le ministère .................... 63-  \n",
+        "replace": "La puissance et l’influence de l’onction dans le ministère (p. 63)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Un ministère dans un autre – un champ de mission dans un autre ................................................................................... 71",
+        "replace": "Un ministère dans un autre – un champ de mission dans un autre (p. 71)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**DEUXIÈME PARTIE ...................................................................... 75**",
+        "replace": "**DEUXIÈME PARTIE (p. 75)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**3 : LES CINQ MINISTÈRES DE LA PAROLE .................................. 77**",
+        "replace": "**3 : LES CINQ MINISTÈRES DE LA PAROLE (p. 77)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Nés pour prêcher ........................................................................................ 77  \n",
+        "replace": "Nés pour prêcher (p. 77)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Puisque le monde avec sa sagesse n’a pas connu Dieu dans la sagesse de Dieu, il a plu à Dieu de sauver les croyants par la folie de la prédication » 1 Cor 1/ 21. ............. 79  \n",
+        "replace": "Puisque le monde avec sa sagesse n’a pas connu Dieu dans la sagesse de Dieu, il a plu à Dieu de sauver les croyants par la folie de la prédication » 1 Cor 1/ 21. (p. 79)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Comme des lévites .................................................................................... 80  \n",
+        "replace": "Comme des lévites (p. 80)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Comme des dons à l’Église ....................................................................... 83  \n",
+        "replace": "Comme des dons à l’Église (p. 83)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Principe fondamental : Vivre de son appel ............................................. 86  \n",
+        "replace": "Principe fondamental : Vivre de son appel (p. 86)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les apôtres et les prophètes au fondement de l’Église et de l’œuvre de Dieu ................................................................................... 90",
+        "replace": "Les apôtres et les prophètes au fondement de l’Église et de l’œuvre de Dieu (p. 90)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**4 : LE MINISTÈRE D’APÔTRE ...................................................... 93**",
+        "replace": "**4 : LE MINISTÈRE D’APÔTRE (p. 93)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Tous travaillent dans le Ministère de Paul .............................................. 95  \n",
+        "replace": "Tous travaillent dans le Ministère de Paul (p. 95)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les apôtres évangélisent pour fonder des églises ................................... 95  \n",
+        "replace": "Les apôtres évangélisent pour fonder des églises (p. 95)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les apôtres organisent les églises ............................................................ 97  \n",
+        "replace": "Les apôtres organisent les églises (p. 97)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les apôtres visitent régulièrement les églises ........................................ 97  \n",
+        "replace": "Les apôtres visitent régulièrement les églises (p. 97)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les apôtres assistent les autres serviteurs de Dieu .............................. 100  \n",
+        "replace": "Les apôtres assistent les autres serviteurs de Dieu (p. 100)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les apôtres ont une grande autorité dans l’Église ................................ 102  \n",
+        "replace": "Les apôtres ont une grande autorité dans l’Église (p. 102)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les apôtres sont des intercesseurs ........................................................ 104",
+        "replace": "Les apôtres sont des intercesseurs (p. 104)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**5 : LE MINISTÈRE DE PROPHÈTE ............................................. 106**",
+        "replace": "**5 : LE MINISTÈRE DE PROPHÈTE (p. 106)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les prophètes de la promesse ................................................................ 109  \n",
+        "replace": "Les prophètes de la promesse (p. 109)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les prophètes de l’accomplissement des promesses ............................. 110  \n",
+        "replace": "Les prophètes de l’accomplissement des promesses (p. 110)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Le prophète de la royauté ....................................................................... 112  \n",
+        "replace": "Le prophète de la royauté (p. 112)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les prophètes messianiques et l’esprit de Christ .................................. 113  \n",
+        "replace": "Les prophètes messianiques et l’esprit de Christ (p. 113)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Jean-Baptiste, prophète intermédiaire ................................................... 116  \n",
+        "replace": "Jean-Baptiste, prophète intermédiaire (p. 116)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Jésus-Christ, prophète ............................................................................ 117  \n",
+        "replace": "Jésus-Christ, prophète (p. 117)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les prophéties en rapport avec les nations et la moralité ..................... 118  \n",
+        "replace": "Les prophéties en rapport avec les nations et la moralité (p. 118)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les prophéties en rapport avec Israël ................................................... 120  \n",
+        "replace": "Les prophéties en rapport avec Israël (p. 120)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les prophéties en rapport avec l’Église ................................................ 122  \n",
+        "replace": "Les prophéties en rapport avec l’Église (p. 122)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Le ministère du fils de l’homme : Jésus-Christ et William Branham ............................................................................... 124  \n",
+        "replace": "Le ministère du fils de l’homme : Jésus-Christ et William Branham (p. 124)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les sept visions de 1933 ......................................................................... 126  \n",
+        "replace": "Les sept visions de 1933 (p. 126)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’attentat du 11 septembre 2001 ........................................................... 130  \n",
+        "replace": "L’attentat du 11 septembre 2001 (p. 130)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les autres prophètes du Nouveau Testament ...................................... 140  \n",
+        "replace": "Les autres prophètes du Nouveau Testament (p. 140)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les prophéties bibliques ......................................................................... 147  \n",
+        "replace": "Les prophéties bibliques (p. 147)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les scènes prophétiques ........................................................................ 150",
+        "replace": "Les scènes prophétiques (p. 150)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**6 : LE MINISTÈRE D’ÉVANGÉLISTE ........................................... 152**",
+        "replace": "**6 : LE MINISTÈRE D’ÉVANGÉLISTE (p. 152)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Fondement de l’œuvre d’évangélisation ................................................ 152  \n",
+        "replace": "Fondement de l’œuvre d’évangélisation (p. 152)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Jésus-Christ : évangéliste ....................................................................... 155  \n",
+        "replace": "Jésus-Christ : évangéliste (p. 155)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’œuvre d’évangélisation ........................................................................ 156  \n",
+        "replace": "L’œuvre d’évangélisation (p. 156)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’évangéliste va chercher et sauver ce qui était perdu ......................... 160  \n",
+        "replace": "L’évangéliste va chercher et sauver ce qui était perdu (p. 160)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les évangélistes sont des pêcheurs et des semeurs .............................. 162  \n",
+        "replace": "Les évangélistes sont des pêcheurs et des semeurs (p. 162)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’évangéliste Philippe ............................................................................ 163",
+        "replace": "L’évangéliste Philippe (p. 163)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**7 : LE MINISTÈRE DE PASTEUR ................................................. 168**",
+        "replace": "**7 : LE MINISTÈRE DE PASTEUR (p. 168)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Ils étaient tous errants comme des brebis ............................................ 169  \n",
+        "replace": "Ils étaient tous errants comme des brebis (p. 169)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Mais celui qui entre par la porte est le berger des brebis ..................... 170  \n",
+        "replace": "Mais celui qui entre par la porte est le berger des brebis (p. 170)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Il appelle par leur nom les brebis qui lui appartiennent et les mène dehors ................................................................................ 172  \n",
+        "replace": "Il appelle par leur nom les brebis qui lui appartiennent et les mène dehors (p. 172)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Le vrai pasteur donne sa vie pour ses brebis ......................................... 174  \n",
+        "replace": "Le vrai pasteur donne sa vie pour ses brebis (p. 174)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les vertus et les dons de Moïse dans le désert ...................................... 176  \n",
+        "replace": "Les vertus et les dons de Moïse dans le désert (p. 176)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Avoir beaucoup gagné en amour ............................................................ 177",
+        "replace": "Avoir beaucoup gagné en amour (p. 177)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**8 : LE MINISTÈRE DE DOCTEUR ............................................... 182**",
+        "replace": "**8 : LE MINISTÈRE DE DOCTEUR (p. 182)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Mon enseignement n’est pas de moi, mais de celui qui m’a envoyé (Jean 7.16) ................................................................. 183  \n",
+        "replace": "Mon enseignement n’est pas de moi, mais de celui qui m’a envoyé (Jean 7.16) (p. 183)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Placé au fondement de l’œuvre .............................................................. 184  \n",
+        "replace": "Placé au fondement de l’œuvre (p. 184)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Rétablir la vérité doctrinale pour consolider la foi des membres du corps ........................................................................ 185  \n",
+        "replace": "Rétablir la vérité doctrinale pour consolider la foi des membres du corps (p. 185)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Savoir lire les signes des temps ........................................................... 186  \n",
+        "replace": "Savoir lire les signes des temps (p. 186)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "ESDRAS : docteur des Saintes Écritures .............................................. 189  \n",
+        "replace": "ESDRAS : docteur des Saintes Écritures (p. 189)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "APOLLOS : docteur des Saintes Écritures ............................................ 189",
+        "replace": "APOLLOS : docteur des Saintes Écritures (p. 189)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**9 : LA MAIN DROITE D’ASSOCIATION DANS LE MINISTÈRE .... 191**",
+        "replace": "**9 : LA MAIN DROITE D’ASSOCIATION DANS LE MINISTÈRE (p. 191)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**10 : LES ANGES DE LA PRÉDICATION ET DE LA PRIÈRE .......... 195**",
+        "replace": "**10 : LES ANGES DE LA PRÉDICATION ET DE LA PRIÈRE (p. 195)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**TROISIÈME PARTIE .................................................................... 201**",
+        "replace": "**TROISIÈME PARTIE (p. 201)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**11 : L’EXERCICE DES MINISTÈRES DANS LES ASSEMBLÉES LOCALES ............................................ 203**",
+        "replace": "**11 : L’EXERCICE DES MINISTÈRES DANS LES ASSEMBLÉES LOCALES (p. 203)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’œuvre des ministères dans actes des apôtres .................................... 204  \n",
+        "replace": "L’œuvre des ministères dans actes des apôtres (p. 204)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les ministères dans les assemblées locales .......................................... 206  \n",
+        "replace": "Les ministères dans les assemblées locales (p. 206)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La fonction d’ancien dans l’assemblée locale ....................................... 210  \n",
+        "replace": "La fonction d’ancien dans l’assemblée locale (p. 210)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’exercice de l’autorité spirituelle dans l’assemblée locale ................. 219",
+        "replace": "L’exercice de l’autorité spirituelle dans l’assemblée locale (p. 219)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": ". L’autorité du pasteur ..................................................................... 219  \n",
+        "replace": ". L’autorité du pasteur (p. 219)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": ". Le pasteur reçoit les plaintes .......................................................... 223  \n",
+        "replace": ". Le pasteur reçoit les plaintes (p. 223)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": ". L’autorité collégiale des anciens .................................................... 227  \n",
+        "replace": ". L’autorité collégiale des anciens (p. 227)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": ". L’autorité de l’église locale ............................................................ 228  \n",
+        "replace": ". L’autorité de l’église locale (p. 228)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": ". Se ranger à l’avis du pasteur .......................................................... 229  \n",
+        "replace": ". Se ranger à l’avis du pasteur (p. 229)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": ". Une assemblée divisée est dévastée .............................................. 230",
+        "replace": ". Une assemblée divisée est dévastée (p. 230)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Ne point dominer le peuple de Dieu ..................................................... 237",
+        "replace": "Ne point dominer le peuple de Dieu (p. 237)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**QUATRIÈME PARTIE : DEUX PARABOLES BIBLIQUES ............. 241**",
+        "replace": "**QUATRIÈME PARTIE : DEUX PARABOLES BIBLIQUES (p. 241)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**12 : LA PARABOLE DES TALENTS .............................................. 243**",
+        "replace": "**12 : LA PARABOLE DES TALENTS (p. 243)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Il existe deux groupes de dons ............................................................... 244  \n",
+        "replace": "Il existe deux groupes de dons (p. 244)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les dons doivent être mis en valeur ...................................................... 246",
+        "replace": "Les dons doivent être mis en valeur (p. 246)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**13 : LA PARABOLE DE LA LAMPE .............................................. 250**",
+        "replace": "**13 : LA PARABOLE DE LA LAMPE (p. 250)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les témoins de la lumière ...................................................................... 250  \n",
+        "replace": "Les témoins de la lumière (p. 250)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La lampe est placée sur le chandelier ..................................................... 251",
+        "replace": "La lampe est placée sur le chandelier (p. 251)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CINQUIÈME PARTIE .................................................................. 255**",
+        "replace": "**CINQUIÈME PARTIE (p. 255)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**14 : LES FAUX CHRISTS ET LES FAUX PROPHÈTES .................. 257**",
+        "replace": "**14 : LES FAUX CHRISTS ET LES FAUX PROPHÈTES (p. 257)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les faux ministres de la parole – des loups ravisseurs ........................ 257  \n",
+        "replace": "Les faux ministres de la parole – des loups ravisseurs (p. 257)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Dans quel temps vivons-nous ? ............................................................. 258  \n",
+        "replace": "Dans quel temps vivons-nous ? (p. 258)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Balaam était un faux christ et un faux prophète ................................... 260  \n",
+        "replace": "Balaam était un faux christ et un faux prophète (p. 260)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "L’esprit de python est à l’œuvre dans le monde ................................... 261  \n",
+        "replace": "L’esprit de python est à l’œuvre dans le monde (p. 261)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Les faux christs et les faux prophètes : adorateurs de mammon ....................................................................... 263  \n",
+        "replace": "Les faux christs et les faux prophètes : adorateurs de mammon (p. 263)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Que dit l’écriture pour l’avenir ? ............................................................ 266  \n",
+        "replace": "Que dit l’écriture pour l’avenir ? (p. 266)\n\n",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "La manifestation des Fils de Dieu Liens prophétiques avec les noces de Cana .......................................................................... 267",
+        "replace": "La manifestation des Fils de Dieu Liens prophétiques avec les noces de Cana (p. 267)",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**APPENDICE 1 : TROIS GRANDES VISIONS DU MESSAGE DU TEMPS DE LA FIN ............................................ 279**",
+        "replace": "**APPENDICE 1 : TROIS GRANDES VISIONS DU MESSAGE DU TEMPS DE LA FIN (p. 279)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**APPENDICE 2 : TÉMOIGNAGE .................................................... 312**",
+        "replace": "**APPENDICE 2 : TÉMOIGNAGE (p. 312)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**ÉPILOGUE .................................................................................. 334**",
+        "replace": "**ÉPILOGUE (p. 334)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "à l’image de son fils, …",
+        "replace": "à l’image de son Fils, …",
+        "kind": "typo",
+        "why": "the Segond database, Romains 8:29: « à l’image de son Fils »"
+      },
+      {
+        "find": "aimé le monde qu’il a donné son fils unique",
+        "replace": "aimé le monde qu’il a donné son Fils unique",
+        "kind": "typo",
+        "why": "the Segond database, Jean 3:16: « son Fils unique »"
+      },
+      {
+        "find": "de révéler en moi son fils, afin",
+        "replace": "de révéler en moi son Fils, afin",
+        "kind": "typo",
+        "why": "the Segond database, Galates 1:16: « révéler en moi son Fils »"
+      },
+      {
+        "find": "Charles Finhey (19e siècle)",
+        "replace": "Charles Finney (19e siècle)",
+        "kind": "typo",
+        "why": "the evangelist’s name is Finney (the persons list says « Charles Finney »)"
+      },
+      {
+        "find": "avec leur Père Zébédée, et qui",
+        "replace": "avec leur père Zébédée, et qui",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 4:21: « avec Zébédée, leur père »; the earthly father, not God"
+      },
+      {
+        "find": "la barque et leur Père, et le suivirent",
+        "replace": "la barque et leur père, et le suivirent",
+        "kind": "typo",
+        "why": "the earthly father Zébédée, not God (same reading, Matthieu 4:22)"
+      },
+      {
+        "find": "leurs filets et leur Père Zébédée pour suivre",
+        "replace": "leurs filets et leur père Zébédée pour suivre",
+        "kind": "typo",
+        "why": "Zébédée, the earthly father, not God"
+      },
+      {
+        "find": "dans les villes des samaritains ;",
+        "replace": "dans les villes des Samaritains ;",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 10:5: « des Samaritains »; capital for a people"
+      },
+      {
+        "find": "que je suis dans le père et que le père est en moi",
+        "replace": "que je suis dans le Père et que le Père est en moi",
+        "kind": "typo",
+        "why": "the Segond database, Jean 14:10: « dans le Père, et que le Père est en moi »"
+      },
+      {
+        "find": "et le père qui demeure en moi",
+        "replace": "et le Père qui demeure en moi",
+        "kind": "typo",
+        "why": "the Segond database, Jean 14:10: « et le Père qui demeure en moi »"
+      },
+      {
+        "find": "je m’en vais au père et que",
+        "replace": "je m’en vais au Père et que",
+        "kind": "typo",
+        "why": "the Segond database, Jean 14:12: « je m’en vais au Père »"
+      },
+      {
+        "find": "L’apprentissage et l’assurance\n",
+        "replace": "L’Apprentissage et l’assurance\n",
+        "kind": "revert",
+        "why": "the book prints « L’Apprentissage »: keep the author’s capital, never change it"
+      },
+      {
+        "find": "se lever quelques temps après",
+        "replace": "se lever quelque temps après",
+        "kind": "typo",
+        "why": "« quelque temps » (some time), invariable here"
+      },
+      {
+        "find": "Qui es-tu, toi qui juge le serviteur",
+        "replace": "Qui es-tu, toi qui juges le serviteur",
+        "kind": "typo",
+        "why": "the Segond database, Romains 14:4: « toi qui juges »; agreement with « toi »"
+      },
+      {
+        "find": "comme tu auras oint leur Père, pour",
+        "replace": "comme tu auras oint leur père, pour",
+        "kind": "typo",
+        "why": "the Segond database, Exode 40:15: « comme tu auras oint leur père »"
+      },
+      {
+        "find": "\nC’EST L’ÉTERNEL DES ARMÉES QUE VOUS DEVREZ SANCTIFIER\n",
+        "replace": "\nC’EST L’ÉTERNEL DES ARMÉES QUE VOUS DEVREZ SANCTIFIER\n",
+        "kind": "word",
+        "why": "the PDF split the title’s letters (« SAN SA CTIFIER »); the pass rejoined them: approved"
+      },
+      {
+        "find": "LA PUISSANCE ET L’INFLUENCE DE L’ONCTION DANS LE MINISTÈRE\n",
+        "replace": "LA PUISSANCE ET L’INFLUENCE DE L’ONCTION DANS LE MINISTÈRE\n",
+        "kind": "word",
+        "why": "the PDF split the title’s letters (« PUISSAN SA CE »); the pass rejoined them: approved"
+      },
+      {
+        "find": "Quand ils furent appelés au service, ils devaient d’abord",
+        "replace": "Quand ils furent appelés au service, ils devraient d’abord",
+        "kind": "revert",
+        "why": "« devraient » → « devaient » changes the mood; the PDF has « devraient »"
+      },
+      {
+        "find": "à la persévérance. 2 Tim 3.10-14 ;",
+        "replace": "à la persévérance. 2 Tim 3.10-14 ;",
+        "kind": "word",
+        "why": "approve the pass: the PDF's « 1014 » lost its hyphen, « 3.10-14 » restores the preacher's reference"
+      },
+      {
+        "find": "avec Zébédée leur Père, et qui réparaient",
+        "replace": "avec Zébédée leur père, et qui réparaient",
+        "kind": "typo",
+        "why": "Zebedee is a human father; the Segond database, Matthieu 4:21: « avec Zébédée, leur père »"
+      },
+      {
+        "find": "laissèrent la barque et leur Père et le suivirent",
+        "replace": "laissèrent la barque et leur père et le suivirent",
+        "kind": "typo",
+        "why": "human father; the Segond database, Matthieu 4:22: « la barque et leur père »"
+      },
+      {
+        "find": "fidèle et d’un Père grec",
+        "replace": "fidèle et d’un père grec",
+        "kind": "typo",
+        "why": "human father; the Segond database, Actes 16:1: « d’un père grec »"
+      },
+      {
+        "find": "Sécondus, Gaüs de Derbe",
+        "replace": "Sécondus, Gaïus de Derbe",
+        "kind": "typo",
+        "why": "PDF glyph ü for ï; the Segond database, Actes 20:4: « Gaïus de Derbe »"
+      },
+      {
+        "find": "prends les lévites du milieu des israélites et purifie-les",
+        "replace": "prends les lévites du milieu des Israélites et purifie-les",
+        "kind": "typo",
+        "why": "a people takes a capital, as the pass did elsewhere (« aux Israélites »)"
+      },
+      {
+        "find": "n’en feras pas le relevé au milieu des israélites",
+        "replace": "n’en feras pas le relevé au milieu des Israélites",
+        "kind": "typo",
+        "why": "a people takes a capital"
+      },
+      {
+        "find": "toute la communauté des israélites. Tu feras approcher les lévites devant l’Éternel, les israélites poseront",
+        "replace": "toute la communauté des Israélites. Tu feras approcher les lévites devant l’Éternel, les Israélites poseront",
+        "kind": "typo",
+        "why": "a people takes a capital"
+      },
+      {
+        "find": "en les agitant de côté et d’autres, je les donne",
+        "replace": "en les agitant de côté et d’autre, je les donne",
+        "kind": "typo",
+        "why": "the Segond database, Nombres 18:11: « de côté et d’autre »"
+      },
+      {
+        "find": "Qui est ce qui fait paître le troupeau",
+        "replace": "Qui est-ce qui fait paître le troupeau",
+        "kind": "typo",
+        "why": "hyphen of the interrogative; the Segond database, 1 Corinthiens 9:7: « Qui est-ce qui fait paître »"
+      },
+      {
+        "find": "Puis à Antioche de Piscidie, ils prêchèrent",
+        "replace": "Puis à Antioche de Pisidie, ils prêchèrent",
+        "kind": "typo",
+        "why": "biblical place name; the Segond database, Actes 13:14: « Antioche de Pisidie »"
+      },
+      {
+        "find": "de vous de quelques repos (Rom 15. 32)",
+        "replace": "de vous de quelque repos (Rom 15. 32)",
+        "kind": "typo",
+        "why": "the Segond database, Romains 15:32: « de quelque repos »"
+      },
+      {
+        "find": "prophétisé selon la parole de l’Éternel",
+        "replace": "prophétisé selon la Parole de l’Éternel",
+        "kind": "message",
+        "why": "the Word of God takes « Parole », as the pass set in the same paragraph"
+      },
+      {
+        "find": "tu disposeras cette arche en cellule et",
+        "replace": "tu disposeras cette arche en cellules et",
+        "kind": "typo",
+        "why": "the Segond database, Genèse 6:14: « en cellules »"
+      },
+      {
+        "find": "de ta patrie et de la maison de ton Père, vers",
+        "replace": "de ta patrie et de la maison de ton père, vers",
+        "kind": "typo",
+        "why": "Abram's human father; the Segond database, Genèse 12:1: « la maison de ton père »"
+      },
+      {
+        "find": "Abraham votre Père a tressailli",
+        "replace": "Abraham votre père a tressailli",
+        "kind": "typo",
+        "why": "the Segond database, Jean 8:56: « Abraham, votre père »"
+      },
+      {
+        "find": "Les fils de ton Père se prosterneront",
+        "replace": "Les fils de ton père se prosterneront",
+        "kind": "typo",
+        "why": "the Segond database, Genèse 49:8: « Les fils de ton père »"
+      },
+      {
+        "find": "à cause de ses rêves et à cause de ses Paroles",
+        "replace": "à cause de ses rêves et à cause de ses paroles",
+        "kind": "typo",
+        "why": "Joseph's words, not the Word of God; the Segond database, Genèse 37:8: « à cause de ses paroles »"
+      },
+      {
+        "find": "Parmi eux, Abraham Isaac et Jacob peuvent",
+        "replace": "Parmi eux, Abraham, Isaac et Jacob peuvent",
+        "kind": "typo",
+        "why": "missing comma in the list"
+      },
+      {
+        "find": "Dieu le rencontra à Harâm, dans",
+        "replace": "Dieu le rencontra à Charan, dans",
+        "kind": "typo",
+        "why": "biblical place name; the Segond database, Genèse 28:10: « s’en alla à Charan »"
+      },
+      {
+        "find": "le Dieu d’Abraham ton Père, et le Dieu d’Isaac",
+        "replace": "le Dieu d’Abraham ton père, et le Dieu d’Isaac",
+        "kind": "typo",
+        "why": "the Segond database, Genèse 28:13: « le Dieu d’Abraham, ton père »"
+      },
+      {
+        "find": "l’Éternel le Dieu de vos Pères, le Dieu d’Abraham",
+        "replace": "l’Éternel le Dieu de vos pères, le Dieu d’Abraham",
+        "kind": "typo",
+        "why": "the Segond database, Exode 3:15: « le Dieu de vos pères »"
+      },
+      {
+        "find": "être invoqué de générations en générations",
+        "replace": "être invoqué de génération en génération",
+        "kind": "typo",
+        "why": "the Segond database, Exode 3:15: « de génération en génération »"
+      },
+      {
+        "find": "devant le sacrificateur Éliazar, qui consultera",
+        "replace": "devant le sacrificateur Éléazar, qui consultera",
+        "kind": "typo",
+        "why": "biblical name; the Segond database, Nombres 27:21: « le sacrificateur Éléazar »"
+      },
+      {
+        "find": "sortiront sur ordre d’Eliézar et",
+        "replace": "sortiront sur ordre d’Éléazar et",
+        "kind": "typo",
+        "why": "biblical name; the Segond database, Nombres 27:21: « sur l’ordre d’Éléazar »"
+      },
+      {
+        "find": "chez Isaï de Bethlehem, car",
+        "replace": "chez Isaï de Bethléhem, car",
+        "kind": "typo",
+        "why": "biblical place name; the Segond database, Matthieu 2:1: « Bethléhem »"
+      },
+      {
+        "find": "ils se sont partagés mes vêtements",
+        "replace": "ils se sont partagé mes vêtements",
+        "kind": "typo",
+        "why": "agreement slip: the object follows the verb (the Segond database, Psaumes 22:19, words it « Ils se partagent mes vêtements »)"
+      },
+      {
+        "find": "et nous nous l’avons considéré comme atteint",
+        "replace": "et nous, nous l’avons considéré comme atteint",
+        "kind": "typo",
+        "why": "the stressed « nous, nous » needs its comma"
+      },
+      {
+        "find": "parlé à nos Pères par les prophètes",
+        "replace": "parlé à nos pères par les prophètes",
+        "kind": "typo",
+        "why": "the Segond database, Hébreux 1:1: « parlé à nos pères »"
+      },
+      {
+        "find": "gardez-vous de vous alarmer – Car, cela doit arriver",
+        "replace": "gardez-vous de vous alarmer – car, cela doit arriver",
+        "kind": "typo",
+        "why": "no capital after a dash in the middle of the sentence"
+      },
+      {
+        "find": "Il en sera comme au temps de Loth.",
+        "replace": "Il en sera comme au temps de Lot.",
+        "kind": "typo",
+        "why": "biblical name (Samuel: « Lot », not « Loth »); the Segond database, Luc 17:28: « du temps de Lot »"
+      },
+      {
+        "find": "l’armée de Titus, le général romain campa contre",
+        "replace": "l’armée de Titus, le général romain, campa contre",
+        "kind": "typo",
+        "why": "closing comma of the apposition"
+      },
+      {
+        "find": "Elle montrait le signe Siegfried",
+        "replace": "Elle montrait la ligne Siegfried",
+        "kind": "typo",
+        "why": "misprint: the vision shows the Siegfried line (« pour la briser »; « Ce fut la ligne Siegfried » further on)"
+      },
+      {
+        "find": "depuis le temps de Nébukadnetsar",
+        "replace": "depuis le temps de Nebucadnetsar",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, Daniel 1:1: « Nebucadnetsar »"
+      },
+      {
+        "find": "l’église catholique romaine.\n\nLe monde est dirigé",
+        "replace": "l’église Catholique romaine.\n\nLe monde est dirigé",
+        "kind": "revert",
+        "why": "the PDF has « Catholique »: keep the author's capital"
+      },
+      {
+        "find": "– le catholicisme et les religions associées",
+        "replace": "– le Catholicisme et les religions associées",
+        "kind": "revert",
+        "why": "the PDF has « Catholicisme »: keep the author's capital"
+      },
+      {
+        "find": "à travers la religion catholique selon",
+        "replace": "à travers la religion Catholique selon",
+        "kind": "revert",
+        "why": "the PDF has « Catholique »: keep the author's capital"
+      },
+      {
+        "find": "Oh Capernaün, dit Jésus",
+        "replace": "Oh Capernaüm, dit Jésus",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, Matthieu 11:23: « Capernaüm »"
+      },
+      {
+        "find": "et Capernaün est au fond",
+        "replace": "et Capernaüm est au fond",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, Matthieu 11:23: « Capernaüm »"
+      },
+      {
+        "find": "s’adressant à Capernaïm",
+        "replace": "s’adressant à Capernaüm",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, Matthieu 11:23: « Capernaüm »"
+      },
+      {
+        "find": "« Ainsi dit le seigneur »",
+        "replace": "« Ainsi dit le Seigneur »",
+        "kind": "typo",
+        "why": "the Lord: capital, as in « Ainsi dit le Seigneur » elsewhere"
+      },
+      {
+        "find": "comme Élie et Élysée, ou comme",
+        "replace": "comme Élie et Élisée, ou comme",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, 2 Rois 13:14: « Élisée »"
+      },
+      {
+        "find": "l’histoire du salut.\n\nDu point de vue prophétique, Matthieu 25 dit",
+        "replace": "l’histoire du salut.\n\nLE CRI DE RÉVEIL DE MINUIT\n\nDu point de vue prophétique, Matthieu 25 dit",
+        "kind": "restore",
+        "why": "section title the pass dropped, as the PDF has it (« LE CRI DE REVEIL DE MINUIT »), accent on the capital"
+      },
+      {
+        "find": "visions de Néboukadnetsar",
+        "replace": "visions de Nebucadnetsar",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, Daniel 1:1: « Nebucadnetsar »"
+      },
+      {
+        "find": "> Vas, prends une femme prostituée",
+        "replace": "> Va, prends une femme prostituée",
+        "kind": "typo",
+        "why": "imperative « va »; the Segond database, Osée 1:2: « Va, prends une femme prostituée »"
+      },
+      {
+        "find": "mon champ qui est à Anoth,",
+        "replace": "mon champ qui est à Anatoth,",
+        "kind": "typo",
+        "why": "misprint of the place name the same reading spells « Anatoth » two lines on; the Segond database, Jérémie 32:7: « Anathoth »"
+      },
+      {
+        "find": "est proche… (‘Matth 3/2)",
+        "replace": "est proche… (Matth 3/2)",
+        "kind": "typo",
+        "why": "stray quote mark of the PDF inside the reference"
+      },
+      {
+        "find": "lumière pour éclair les nations",
+        "replace": "lumière pour éclairer les nations",
+        "kind": "revert",
+        "why": "the PDF has « éclairer »; the Segond database, Luc 2:32: « Lumière pour éclairer les nations »"
+      },
+      {
+        "find": "les évangélistes.\n\nJésus-Christ est mort pour l’expiation",
+        "replace": "les évangélistes.\n\nL’annonce de sa résurrection\n\nJésus-Christ est mort pour l’expiation",
+        "kind": "restore",
+        "why": "section title the pass dropped, as the PDF has it, after « La naissance du Christ » and « L’annonce de sa mort »"
+      },
+      {
+        "find": "> L’éternel est un refuge pour l’opprimé",
+        "replace": "> L’Éternel est un refuge pour l’opprimé",
+        "kind": "typo",
+        "why": "the divine name; the Segond database, Psaumes 9:10: « L’Éternel est un refuge pour l’opprimé »"
+      },
+      {
+        "find": "\nL’ÉVANGÉLISTE VA CHERCHER ET SAUVER CE QUI ÉTAIT PERDU\n",
+        "replace": "\nL’ÉVANGÉLISTE VA CHERCHER ET SAUVER CE QUI ÉTAIT PERDU\n",
+        "kind": "word",
+        "why": "the PDF splits « SAU SA VER »; the pass rejoined it: approved"
+      },
+      {
+        "find": "Samarie y prêcha le christ.",
+        "replace": "Samarie y prêcha le Christ.",
+        "kind": "typo",
+        "why": "the Segond database, Actes 8:5: « y prêcha le Christ »"
+      },
+      {
+        "find": "du nom de Jésus christ, hommes et femmes",
+        "replace": "du nom de Jésus-Christ, hommes et femmes",
+        "kind": "typo",
+        "why": "the Segond database, Actes 8:12: « du nom de Jésus-Christ »"
+      },
+      {
+        "find": "Seigneur Jésus. Mais…\n\n…\n\n> … quand",
+        "replace": "Seigneur Jésus. Mais…\n\n> … quand",
+        "kind": "markup",
+        "why": "the PDF has two « ... » here (after « Mais » and before « quand »); the pass made three, one as a paragraph of its own"
+      },
+      {
+        "find": "> moi, je suis le bon berger. Je connais",
+        "replace": "> Moi, je suis le bon berger. Je connais",
+        "kind": "typo",
+        "why": "capital at the start of the quoted sentence"
+      },
+      {
+        "find": "> mes brebis entendent ma voix",
+        "replace": "> Mes brebis entendent ma voix",
+        "kind": "typo",
+        "why": "capital at the start of the quoted sentence; the Segond database, Jean 10:27: « Mes brebis entendent ma voix »"
+      },
+      {
+        "find": "Avant de dire : « je suis le bon berger »",
+        "replace": "Avant de dire : « Je suis le bon berger »",
+        "kind": "typo",
+        "why": "capital at the start of the quoted sentence, as « Je suis la porte » that follows"
+      },
+      {
+        "find": "> L’éternel est mon berger",
+        "replace": "> L’Éternel est mon berger",
+        "kind": "typo",
+        "why": "the divine name, as the text writes it everywhere else"
+      },
+      {
+        "find": "le Seigneur, l’éternel vient avec puissance",
+        "replace": "le Seigneur, l’Éternel vient avec puissance",
+        "kind": "typo",
+        "why": "the Segond database, Ésaïe 40:10: « le Seigneur, l’Éternel vient avec puissance »"
+      },
+      {
+        "find": "faisait paître le troupeau de son Père.",
+        "replace": "faisait paître le troupeau de son père.",
+        "kind": "typo",
+        "why": "David’s father, not God; the Segond database, 1 Samuel 17:34: « les brebis de son père »"
+      },
+      {
+        "find": "\nESDRAS : DOCTEUR DES SAINTES ÉCRITURES\n",
+        "replace": "\nESDRAS : DOCTEUR DES SAINTES ÉCRITURES\n",
+        "kind": "word",
+        "why": "PDF split « SAI SA NTES » in this title; the pass rejoined it, approved"
+      },
+      {
+        "find": "\nAPOLLOS, DOCTEUR DES SAINTES ÉCRITURES\n",
+        "replace": "\nAPOLLOS, DOCTEUR DES SAINTES ÉCRITURES\n",
+        "kind": "word",
+        "why": "PDF split « SAI SA NTES » in this title; the pass rejoined it, approved"
+      },
+      {
+        "find": "certains ministres de la parole tendirent",
+        "replace": "certains ministres de la Parole tendirent",
+        "kind": "message",
+        "why": "the Word of God, capital as the book does elsewhere (« Ministres de la Parole »)"
+      },
+      {
+        "find": "(Act Act 16 :1)",
+        "replace": "(Act 16 :1)",
+        "kind": "word",
+        "why": "the typesetter doubled « Act »"
+      },
+      {
+        "find": "Silas, Éraste, Sylvain, Grescens, et",
+        "replace": "Silas, Éraste, Silvain, Crescens, et",
+        "kind": "typo",
+        "why": "biblical names: the Segond database, 2 Corinthiens 1:19 « Silvain », 2 Timothée 4:10 « Crescens »"
+      },
+      {
+        "find": "Celui qui est envoyé prêche la parole de Dieu",
+        "replace": "Celui qui est envoyé prêche la Parole de Dieu",
+        "kind": "message",
+        "why": "the Word of God, capital as the book does elsewhere"
+      },
+      {
+        "find": "prédication de la parole de vérité",
+        "replace": "prédication de la Parole de vérité",
+        "kind": "message",
+        "why": "the Word of God, capital as the book does elsewhere"
+      },
+      {
+        "find": "apparaissent également l’œuvre",
+        "replace": "apparaît également l’œuvre",
+        "kind": "typo",
+        "why": "agreement: the subject is « l’œuvre des premiers disciples »"
+      },
+      {
+        "find": "maison de Corneilles, où",
+        "replace": "maison de Corneille, où",
+        "kind": "typo",
+        "why": "biblical name, the Segond database, Actes 10:1 « Corneille », as the book writes it elsewhere"
+      },
+      {
+        "find": "se rendit à Lyddia, où",
+        "replace": "se rendit à Lydda, où",
+        "kind": "typo",
+        "why": "place name as the book's own reading just below has it (« habitaient à Lydda »); the Segond database, Actes 9:32, has « Lydde »"
+      },
+      {
+        "find": "(Act 826-40)",
+        "replace": "(Act 8.26-40)",
+        "kind": "word",
+        "why": "missing separator; the Segond database, Actes 8:26: « Lève-toi, et va du côté du midi… »"
+      },
+      {
+        "find": "> Parties le lendemain",
+        "replace": "> Partis le lendemain",
+        "kind": "typo",
+        "why": "agreement (« nous … partis »), as the same reading is written further on (« Partis le lendemain »)"
+      },
+      {
+        "find": "L’église d’Antioche de Seulucie",
+        "replace": "L’église d’Antioche de Séleucie",
+        "kind": "typo",
+        "why": "place name, the Segond database, Actes 13:4 « Séleucie »"
+      },
+      {
+        "find": "Antioche de Seulucie et Antioche",
+        "replace": "Antioche de Séleucie et Antioche",
+        "kind": "typo",
+        "why": "place name, the Segond database, Actes 13:4 « Séleucie »"
+      },
+      {
+        "find": "Antioche (Seulucie)",
+        "replace": "Antioche (Séleucie)",
+        "kind": "typo",
+        "why": "place name, the Segond database, Actes 13:4 « Séleucie »"
+      },
+      {
+        "find": "pour ensevelir son Père",
+        "replace": "pour ensevelir son père",
+        "kind": "typo",
+        "why": "Jacob, not God; the Segond database, Genèse 50:7: « pour enterrer son père »"
+      },
+      {
+        "find": "à partir de Actes 15",
+        "replace": "à partir d’Actes 15",
+        "kind": "typo",
+        "why": "elision, as the pass did for « d’Actes »"
+      },
+      {
+        "find": "L’ancien, à Kirya, l’élue",
+        "replace": "L’ancien, à Kyria, l’élue",
+        "kind": "typo",
+        "why": "name, the Segond database, 2 Jean 1:1: « à Kyria l’élue »"
+      },
+      {
+        "find": "> Et Toi aussi, fidèle",
+        "replace": "> Et toi aussi, fidèle",
+        "kind": "typo",
+        "why": "stray capital; the Segond database, Philippiens 4:3: « Et toi aussi, fidèle collègue »"
+      },
+      {
+        "find": "comme Abram et Loth",
+        "replace": "comme Abram et Lot",
+        "kind": "typo",
+        "why": "biblical name (Samuel: « Lot », not « Loth »); the Segond database, Genèse 13:8: « Abram dit à Lot »"
+      },
+      {
+        "find": "partie : Deux paraboles bibliques",
+        "replace": "partie : Deux Paraboles bibliques",
+        "kind": "revert",
+        "why": "the PDF has « Deux Paraboles »: keep the author's capital"
+      },
+      {
+        "find": "bonne nouvelle à toute la création ?",
+        "replace": "bonne nouvelle à toute la création.",
+        "kind": "typo",
+        "why": "a statement, not a question; the Segond database, Marc 16:15 ends « à toute la création. »"
+      },
+      {
+        "find": "de Balaam et dit : retournes vers Balaq",
+        "replace": "de Balaam et dit : retourne vers Balaq",
+        "kind": "typo",
+        "why": "imperative « retourne »; the Segond database, Nombres 23:5: « Retourne vers Balak »"
+      },
+      {
+        "find": "Moi, je le séduirai. Dieu lui dit comment ?",
+        "replace": "Moi, je le séduirai. Dieu lui dit : comment ?",
+        "kind": "typo",
+        "why": "colon before the reported question; the Segond database, 1 Rois 22:22: « L’Éternel lui dit : Comment ? »"
+      },
+      {
+        "find": "sont des serviteurs du Dieu très-haut, et ils",
+        "replace": "sont des serviteurs du Dieu Très-Haut, et ils",
+        "kind": "typo",
+        "why": "« le Très-Haut » lesson; the Segond database, Actes 16:17: « du Dieu Très-Haut »"
+      },
+      {
+        "find": "En tant qu’ivoirien, j’ai honte",
+        "replace": "En tant qu’Ivoirien, j’ai honte",
+        "kind": "typo",
+        "why": "noun of a people takes a capital (Ivoirien)"
+      },
+      {
+        "find": "combien sont-ils les ivoiriens qui",
+        "replace": "combien sont-ils les Ivoiriens qui",
+        "kind": "typo",
+        "why": "noun of a people takes a capital (Ivoiriens)"
+      },
+      {
+        "find": "pour retrouver le Message apostolique.",
+        "replace": "pour retrouver le message apostolique.",
+        "kind": "message",
+        "why": "the apostles' message, not the end-time Message; the PDF has lower case"
+      },
+      {
+        "find": "une si grande foi… va qu’il te soit fait",
+        "replace": "une si grande foi… va, qu’il te soit fait",
+        "kind": "typo",
+        "why": "comma after the imperative; the Segond database, Matthieu 8:13: « Va, qu’il te soit fait »"
+      },
+      {
+        "find": "> prends courage ma fille, ta foi t’a guérie.",
+        "replace": "> Prends courage, ma fille, ta foi t’a guérie.",
+        "kind": "typo",
+        "why": "capital at the start of the quote and comma before the vocative; the Segond database, Matthieu 9:22: « Prends courage, ma fille, ta foi t’a guérie »"
+      },
+      {
+        "find": "> O femme, ta foi est grande",
+        "replace": "> Ô femme, ta foi est grande",
+        "kind": "typo",
+        "why": "the interjection « Ô » takes its accent on the capital"
+      },
+      {
+        "find": "(Joël 2/28)",
+        "replace": "(Joel 2/28)",
+        "kind": "revert",
+        "why": "a book name in a reference stays as the author spelled it (the PDF: « Joel 2/28 »)"
+      },
+      {
+        "find": "ni plusieurs Élysée.",
+        "replace": "ni plusieurs Élisée.",
+        "kind": "typo",
+        "why": "biblical name in the Bible's spelling; the Segond database, 2 Rois 2:1: « Élisée »"
+      },
+      {
+        "find": "LE MINISTÈRE DU SERVITEUR FIDÈLE ET PRUDENT MINISTÈRE DE DISTRIBUTION DE LA NOURRITURE",
+        "replace": "LE MINISTÈRE DU SERVITEUR FIDÈLE ET PRUDENT\n\nMINISTÈRE DE DISTRIBUTION DE LA NOURRITURE",
+        "kind": "markup",
+        "why": "title and subtitle on their own lines, as for « LE MINISTÈRE D’ÉLIE » / « MINISTÈRE DE RESTAURATION DE LA PAROLE »; the PDF only wrapped the line"
+      },
+      {
+        "find": "Je refusai par un signe et dit : comment",
+        "replace": "Je refusai par un signe et dis : comment",
+        "kind": "typo",
+        "why": "first person passé simple « je dis »"
+      },
+      {
+        "find": "Parole de Dieu qui donne la Vie éternelle en laquelle ils ont crue.",
+        "replace": "Parole de Dieu qui donne la Vie éternelle en laquelle ils ont cru.",
+        "kind": "typo",
+        "why": "past participle of « croire en » does not agree"
+      },
+      {
+        "find": "selon les prophéties d’Aggée le prophète, et de Zacharie ; fils d’Iddo, ils bâtirent",
+        "replace": "selon les prophéties d’Aggée le prophète, et de Zacharie, fils d’Iddo ; ils bâtirent",
+        "kind": "typo",
+        "why": "punctuation: « fils d’Iddo » belongs to Zacharie; the Segond database, Esdras 6:14: « et de Zacharie, fils d’Iddo ; ils bâtirent »"
+      },
+      {
+        "find": "un type de ce ministère prévu à la fin des temps.\n\nDeux ouvrages furent",
+        "replace": "un type de ce ministère prévu à la fin des temps.\n\nLa voix de minuit comme l’œuvre de Néhémie\n\nDeux ouvrages furent",
+        "kind": "restore",
+        "why": "section title the pass dropped, restored as its own line as the PDF has it"
+      },
+      {
+        "find": "couleront de son sein comme dit l’écriture.",
+        "replace": "couleront de son sein comme dit l’Écriture.",
+        "kind": "typo",
+        "why": "« l’Écriture » (Scripture); the Segond database, Jean 7:38: « comme dit l’Écriture »"
+      },
+      {
+        "find": "que tu as aux mains ? il répondra :",
+        "replace": "que tu as aux mains ? Il répondra :",
+        "kind": "typo",
+        "why": "capital after the question mark; the Segond database, Zacharie 13:6: « aux mains ? Il répondra »"
+      },
+      {
+        "find": "confrontés à des rebellions et à des incompréhensions",
+        "replace": "confrontés à des rébellions et à des incompréhensions",
+        "kind": "typo",
+        "why": "spelling « rébellions »"
+      },
+      {
+        "find": "Les rebellions et les oppositions aux ministères commencent",
+        "replace": "Les rébellions et les oppositions aux ministères commencent",
+        "kind": "typo",
+        "why": "spelling « rébellions »"
+      },
+      {
+        "find": "si un aveugle conduit un aveugle ; ils tomberont",
+        "replace": "si un aveugle conduit un aveugle, ils tomberont",
+        "kind": "typo",
+        "why": "punctuation; the Segond database, Matthieu 15:14: « si un aveugle conduit un aveugle, ils tomberont »"
+      },
+      {
+        "find": "Par-là, on découvre qu’un tel frère",
+        "replace": "Par là, on découvre qu’un tel frère",
+        "kind": "typo",
+        "why": "« par là » takes no hyphen"
+      },
+      {
+        "find": "jusqu’à ce que je les vois liés dans une vision",
+        "replace": "jusqu’à ce que je les voie liés dans une vision",
+        "kind": "typo",
+        "why": "homophone slip: subjunctive « voie » after « jusqu’à ce que »"
+      },
+      {
+        "find": "Jésus revient bientôt !\n\nC’est dans la paix du cœur",
+        "replace": "Jésus revient bientôt !\n\nEPILOGUE\n\nC’est dans la paix du cœur",
+        "kind": "restore",
+        "why": "section title the pass dropped, restored as its own line as the PDF has it"
+      },
+      {
+        "find": "Première partie :\n\nL’APPEL ET L’EXERCICE DU MINISTÈRE",
+        "replace": "Première partie : L’APPEL ET L’EXERCICE DU MINISTÈRE",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "LA FORMATION SPIRITUELLE  \nET L’EXERCICE DU MINISTÈRE",
+        "replace": "LA FORMATION SPIRITUELLE ET L’EXERCICE DU MINISTÈRE",
+        "kind": "markup",
+        "why": "one title, which the PDF breaks in two: the book's table of contents gives it on one line"
+      },
+      {
+        "find": "UN MINISTÈRE DANS UN AUTRE\n\nUN CHAMP DE MISSION DANS UN AUTRE",
+        "replace": "UN MINISTÈRE DANS UN AUTRE – UN CHAMP DE MISSION DANS UN AUTRE",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "LES APÔTRES ET LES PROPHÈTES\n\nAU FONDEMENT DE L’ÉGLISE ET DE L’ŒUVRE DE DIEU",
+        "replace": "LES APÔTRES ET LES PROPHÈTES AU FONDEMENT DE L’ÉGLISE ET DE L’ŒUVRE DE DIEU",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "TOUS TRAVAILLENT DANS\n\nLE MINISTÈRE DE PAUL",
+        "replace": "TOUS TRAVAILLENT DANS LE MINISTÈRE DE PAUL",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "LE MINISTÈRE DU FILS DE L’HOMME\n\nJÉSUS-CHRIST ET WILLIAM BRANHAM",
+        "replace": "LE MINISTÈRE DU FILS DE L’HOMME : JÉSUS-CHRIST ET WILLIAM BRANHAM",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "LES VERTUS ET LES DONS DE MOÏSE  \nDANS LE DÉSERT",
+        "replace": "LES VERTUS ET LES DONS DE MOÏSE DANS LE DÉSERT",
+        "kind": "markup",
+        "why": "one title, which the PDF breaks in two: the book's table of contents gives it on one line"
+      },
+      {
+        "find": "LES ANGES DE LA PRÉDICATION  \nET DE LA PRIÈRE",
+        "replace": "LES ANGES DE LA PRÉDICATION ET DE LA PRIÈRE",
+        "kind": "markup",
+        "why": "one title, which the PDF breaks in two: the book's table of contents gives it on one line"
+      },
+      {
+        "find": "L’ŒUVRE DES MINISTÈRES DANS  \nLE LIVRE DES ACTES DES APÔTRES",
+        "replace": "L’ŒUVRE DES MINISTÈRES DANS LE LIVRE DES ACTES DES APÔTRES",
+        "kind": "markup",
+        "why": "one title, which the PDF breaks in two: the book's table of contents gives it on one line"
+      },
+      {
+        "find": "LES FAUX MINISTRES DE LA PAROLE\n\nDES LOUPS RAVISSEURS",
+        "replace": "LES FAUX MINISTRES DE LA PAROLE – DES LOUPS RAVISSEURS",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "BALAAM ÉTAIT UN FAUX CHRIST\n\nET UN FAUX PROPHÈTE",
+        "replace": "BALAAM ÉTAIT UN FAUX CHRIST ET UN FAUX PROPHÈTE",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "L’ESPRIT DE PYTHON EST À L’ŒUVRE\n\nDANS LE MONDE",
+        "replace": "L’ESPRIT DE PYTHON EST À L’ŒUVRE DANS LE MONDE",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "LES FAUX CHRISTS ET LES FAUX PROPHÈTES ADORATEURS\n\nDE MAMMON",
+        "replace": "LES FAUX CHRISTS ET LES FAUX PROPHÈTES ADORATEURS DE MAMMON",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "LA MANIFESTATION DES FILS DE DIEU : LIENS\n\nPROPHÉTIQUES AVEC LES NOCES DE CANA",
+        "replace": "LA MANIFESTATION DES FILS DE DIEU : LIENS PROPHÉTIQUES AVEC LES NOCES DE CANA",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Appendice 1\n\nTROIS GRANDES VISIONS DU MESSAGE DE LA FIN DES TEMPS",
+        "replace": "Appendice 1 : TROIS GRANDES VISIONS DU MESSAGE DE LA FIN DES TEMPS",
+        "kind": "word",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole; and the pass removed the stray glyph the PDF prints in « MESSAG SA E » (approved, the fix it replaces)"
+      },
+      {
+        "find": "APPENDICE 2\n\nTÉMOIGNAGE",
+        "replace": "APPENDICE 2 : TÉMOIGNAGE",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book's table of contents gives it whole"
+      },
+      {
+        "find": "Deuxième partie :\n\nLes cinq Ministères de la Parole",
+        "replace": "Deuxième partie : Les cinq Ministères de la Parole",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle)"
+      },
+      {
+        "find": "Troisième partie\n\nl’Exercice des Ministères dans les Assemblées locales",
+        "replace": "Troisième partie : l’Exercice des Ministères dans les Assemblées locales",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle); it takes over the capital fix on « l’Exercice », a colon now before it"
+      },
+      {
+        "find": "Cinquième Partie :\n\nLes faux Christ et les faux prophètes",
+        "replace": "Cinquième Partie : Les faux Christ et les faux prophètes",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle)"
+      },
+      {
+        "find": "L’EXERCICE DES MINISTÈRES  \nDANS LES ASSEMBLÉES LOCALES",
+        "replace": "L’EXERCICE DES MINISTÈRES DANS LES ASSEMBLÉES LOCALES",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle)"
+      },
+      {
+        "find": "MON ENSEIGNEMENT N’EST PAS DE MOI,  \nMAIS DE CELUI QUI M’A ENVOYÉ\n\nJEAN 7.16.",
+        "replace": "MON ENSEIGNEMENT N’EST PAS DE MOI, MAIS DE CELUI QUI M’A ENVOYÉ (JEAN 7.16)",
+        "kind": "markup",
+        "why": "one title, which the PDF prints on two lines: the book gives it whole (its table of contents, or the part and its subtitle), with its reference, as the table of contents gives it"
+      },
+      {
+        "find": "EN RAPPORT AVEC L’ÉGLISE. (MATTHIEU 24)",
+        "replace": "EN RAPPORT AVEC L’ÉGLISE (MATTHIEU 24)",
+        "kind": "markup",
+        "why": "a stray full stop before the reference in a title (the table of contents has none)"
+      },
+      {
+        "find": "ces soi-disant hommes de Dieu demandent",
+        "replace": "ses soi-disant hommes de Dieu demandent",
+        "kind": "revert",
+        "why": "the PDF has « ses », which can refer to the spirit of python discussed around it (Codex sol); not a clear slip"
+      }
+    ],
+    "date": "2004-09-15",
+    "decided": {
+      "date": "Samuel, 2026-10-03: « Yes, signature dates »: the book states no date at its opening; its signature reads « Abidjan, le 15 septembre 2004 »"
+    },
+    "replaced_date": "2005-01-01",
+    "tags": [
+      "Publications",
+      "2004",
+      "Cinq Ministères",
+      "Appel",
+      "Ministère"
+    ]
+  },
+  "markdown/mevar-pdfs/le_royaume_de_dieu_kadjani.md": {
+    "title": "Le Royaume de Dieu",
+    "fixes": [
+      {
+        "find": "**AVANT-PROPOS ………...…………………………………. 3**",
+        "replace": "**AVANT-PROPOS (p. 3)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**INTRODUCTION …………………………………..………...6**",
+        "replace": "**INTRODUCTION (p. 6)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CHAPITRE I : ……………………………………………….10**",
+        "replace": "**CHAPITRE I (p. 10)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**L’ORIGINE DU ROYAUME DE DIEU……………………10**",
+        "replace": "**L’ORIGINE DU ROYAUME DE DIEU (p. 10)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CHAPITRE II : …………………………………………….. 35**",
+        "replace": "**CHAPITRE II (p. 35)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**L’ŒUVRE DE RESTAURATION DU ROYAUME ……... 35**",
+        "replace": "**L’ŒUVRE DE RESTAURATION DU ROYAUME (p. 35)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CHAPITRE III …………………………………………….. 46**",
+        "replace": "**CHAPITRE III (p. 46)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**LES FILS DU ROYAUME ………………………………... 46**",
+        "replace": "**LES FILS DU ROYAUME (p. 46)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CHAPITRE IV : ……………………………………………. 80**",
+        "replace": "**CHAPITRE IV (p. 80)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**LA LOI QUI GOUVERNE LE ROYAUME DE DIEU ….. 80**",
+        "replace": "**LA LOI QUI GOUVERNE LE ROYAUME DE DIEU (p. 80)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CHAPITRE V ……………………………………………... 129**",
+        "replace": "**CHAPITRE V (p. 129)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU ………………………………………………………...129**",
+        "replace": "**LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU (p. 129)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CHAPITRE VI ……………………………………………..165**",
+        "replace": "**CHAPITRE VI (p. 165)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**LA VIE DANS LE ROYAUME DE DIEU ……..……… . 165**",
+        "replace": "**LA VIE DANS LE ROYAUME DE DIEU (p. 165)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CHAPITRE VII………………………………………….. 191**",
+        "replace": "**CHAPITRE VII (p. 191)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**LE ROI DU ROYAUME DE DIEU…………………..………… 191**",
+        "replace": "**LE ROI DU ROYAUME DE DIEU (p. 191)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "**CONCLUSION……………………….…………… 228**",
+        "replace": "**CONCLUSION (p. 228)**",
+        "kind": "word",
+        "why": "table of contents in Samuel's form « (p. 13) » (2026-10-03: no em dash in site text); the « p. » is his"
+      },
+      {
+        "find": "Le Royaume de Dieu ou encore le Royaume des cieux est un projet essentiel",
+        "replace": "Le Royaume de Dieu ou encore le Royaume des cieux est un projet essentiel",
+        "kind": "word",
+        "why": "drop capital: the PDF prints the « L » apart; joined to its word (the span reaches the stray letter, which the PDF prints a line further down)"
+      },
+      {
+        "find": "Le « Royaume de Dieu » est un thème",
+        "replace": "Le « Royaume de Dieu » est un thème",
+        "kind": "word",
+        "why": "drop capital: the PDF prints the « L » apart (glued to « une »); joined to its word"
+      },
+      {
+        "find": "Pour appréhender l’origine du Royaume de Dieu, il faut remonter au commencement. C’est au commencement que les desseins de Dieu et sa volonté",
+        "replace": "Pour appréhender l’origine du Royaume de Dieu, il faut remonter au commencement. C’est au commencement que les desseins de Dieu et sa volonté",
+        "kind": "word",
+        "why": "drop capital: the PDF prints the « P » apart; joined to its word (the span reaches the stray letter, which the PDF prints a line further down)"
+      },
+      {
+        "find": "> Dans le temps de ces rois, le Dieu des cieux suscitera un Royaume qui ne sera jamais détruit, et qui ne passera point sous la domination",
+        "replace": "> Dans le temps de ces rois, le Dieu des cieux suscitera un Royaume qui ne sera jamais détruit, et qui ne passera point sous la domination",
+        "kind": "word",
+        "why": "drop capital: the PDF prints the « D » apart; joined to its word (the span reaches the stray letter, which the PDF prints a line further down)"
+      },
+      {
+        "find": "> Le Royaume des cieux est encore semblable à un filet jeté dans la mer et ramassant des poissons de toute espèce. Quand il est rempli, les pêcheurs le tirent",
+        "replace": "> Le Royaume des cieux est encore semblable à un filet jeté dans la mer et ramassant des poissons de toute espèce. Quand il est rempli, les pêcheurs le tirent",
+        "kind": "word",
+        "why": "drop capital: the PDF prints the « L » apart; joined to its word (the span reaches the stray letter, which the PDF prints a line further down)"
+      },
+      {
+        "find": "du monde. (Matthieu 25:34**)",
+        "replace": "du monde. (Matthieu 25:34)**",
+        "kind": "markup",
+        "why": "the PDF bolds the whole epigraph with its reference; close the bold after the parenthesis"
+      },
+      {
+        "find": "par Jean-Baptiste dans ses prédications",
+        "replace": "par Jean le Baptiste dans ses prédications",
+        "kind": "restore",
+        "why": "the PDF has « Jean le Baptiste »: the pass removed the author's « le »"
+      },
+      {
+        "find": "dans cette parole : car le jour où tu en mangeras, tu mourras. Voilà",
+        "replace": "dans cette parole : « car le jour où tu en mangeras, tu mourras. » Voilà",
+        "kind": "typo",
+        "why": "short citation of God's command inside the sentence: « »"
+      },
+      {
+        "find": "commandement express du Seigneur",
+        "replace": "commandement exprès du Seigneur",
+        "kind": "typo",
+        "why": "« exprès » (explicit), not « express »"
+      },
+      {
+        "find": "et en a consommé : et ce n’est pas Adam qui a été séduit, c’est la femme qui, séduite, s’est rendue coupable de transgression. Elle",
+        "replace": "et en a consommé : « et ce n’est pas Adam qui a été séduit, c’est la femme qui, séduite, s’est rendue coupable de transgression. » Elle",
+        "kind": "typo",
+        "why": "short citation of the verse quoted above, inside the sentence: « »"
+      },
+      {
+        "find": "En disant à l’homme vous serez comme des dieux, le diable",
+        "replace": "En disant à l’homme « vous serez comme des dieux », le diable",
+        "kind": "typo",
+        "why": "the serpent's words quoted inside the sentence: « », as in the section title"
+      },
+      {
+        "find": "du tronc d’Isaïe, Et un rejeton",
+        "replace": "du tronc d’Isaï, Et un rejeton",
+        "kind": "typo",
+        "why": "biblical name: the Segond database, Ésaïe 11:1: « du tronc d’Isaï »"
+      },
+      {
+        "find": "le rejeton d’Isaïe Sera là",
+        "replace": "le rejeton d’Isaï Sera là",
+        "kind": "typo",
+        "why": "biblical name: the Segond database, Ésaïe 11:10: « le rejeton d’Isaï »"
+      },
+      {
+        "find": "les versets cités plus hauts",
+        "replace": "les versets cités plus haut",
+        "kind": "typo",
+        "why": "« plus haut » is an invariable adverb"
+      },
+      {
+        "find": "en démontrant par-là Sa victoire",
+        "replace": "en démontrant par là Sa victoire",
+        "kind": "typo",
+        "why": "« par là » (by this), no hyphen"
+      },
+      {
+        "find": "mains des hommes ils le feront mourir",
+        "replace": "mains des hommes ; ils le feront mourir",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 17:22-23: « entre les mains des hommes ; ils le feront mourir » (punctuation only)"
+      },
+      {
+        "find": "« Le Seigneur après sa mort a dit à ses disciples : et vous serez mes témoins",
+        "replace": "Le Seigneur après sa mort a dit à ses disciples : « et vous serez mes témoins",
+        "kind": "typo",
+        "why": "the opening « goes before the Lord's words, not before the author's introduction (closing » kept)"
+      },
+      {
+        "find": "(Matthieu 3 :1-3)\n\n> Le peuple de Zabulon et de Nephtali",
+        "replace": "(Matthieu 3 :1-3)\n\n> Le peuple de Zabulon et de Nephthali",
+        "kind": "typo",
+        "why": "biblical name: the Segond database, Matthieu 4:15: « Nephthali »"
+      },
+      {
+        "find": "territoire de Zabulon et de Nephtali.",
+        "replace": "territoire de Zabulon et de Nephthali.",
+        "kind": "typo",
+        "why": "biblical name: the Segond database, Matthieu 4:13: « Nephthali »"
+      },
+      {
+        "find": "avait annoncé que :\n\n> Le peuple de Zabulon et de Nephtali",
+        "replace": "avait annoncé que :\n\n> Le peuple de Zabulon et de Nephthali",
+        "kind": "typo",
+        "why": "biblical name: the Segond database, Matthieu 4:15: « Nephthali »"
+      },
+      {
+        "find": "puissance de la Parole de Dieu, par",
+        "replace": "puissance de la parole de Dieu, par",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "La Parole de Dieu ayant",
+        "replace": "La parole de Dieu ayant",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "réfutant la Parole de Dieu.",
+        "replace": "réfutant la parole de Dieu.",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "séduction. La Parole de Dieu",
+        "replace": "séduction. La parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "dans la Parole de Dieu,",
+        "replace": "dans la parole de Dieu,",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "tuer. La Parole de Dieu",
+        "replace": "tuer. La parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "côté de la Parole de Dieu. C’est",
+        "replace": "côté de la parole de Dieu. C’est",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "avec la Parole de Dieu.",
+        "replace": "avec la parole de Dieu.",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "cru à la Parole de Dieu, car",
+        "replace": "cru à la parole de Dieu, car",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "transgression à la Parole de Dieu est",
+        "replace": "transgression à la parole de Dieu est",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "Seule la Parole est la",
+        "replace": "Seule la parole est la",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "circonstanciels. La Parole de Dieu",
+        "replace": "circonstanciels. La parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "voir que la Parole de Dieu empêchait",
+        "replace": "voir que la parole de Dieu empêchait",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "par la Parole de Dieu.",
+        "replace": "par la parole de Dieu.",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "La Parole de Dieu a la",
+        "replace": "La parole de Dieu a la",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "l’obéissance à la Parole de Dieu, soit",
+        "replace": "l’obéissance à la parole de Dieu, soit",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "désobéissent à la Parole de Dieu pour",
+        "replace": "désobéissent à la parole de Dieu pour",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "désobéi à la Parole de Dieu. Ils",
+        "replace": "désobéi à la parole de Dieu. Ils",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "contenus dans la Parole de Dieu qui",
+        "replace": "contenus dans la parole de Dieu qui",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "désobéissance à la Parole de Dieu, il",
+        "replace": "désobéissance à la parole de Dieu, il",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "désobéissance à la Parole de Dieu est",
+        "replace": "désobéissance à la parole de Dieu est",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "désobéissance à la Parole de Dieu entraîne",
+        "replace": "désobéissance à la parole de Dieu entraîne",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "désobéissance à la Parole de Dieu, une",
+        "replace": "désobéissance à la parole de Dieu, une",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "vient de la Parole de Dieu, la",
+        "replace": "vient de la parole de Dieu, la",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "désobéissance à la Parole de Dieu. Satan",
+        "replace": "désobéissance à la parole de Dieu. Satan",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "la désobéissance à la Parole de Dieu. Ce qu’il",
+        "replace": "la désobéissance à la parole de Dieu. Ce qu’il",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "acceptable. La Parole de Dieu",
+        "replace": "acceptable. La parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "Dieu. La Parole de Dieu",
+        "replace": "Dieu. La parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "selon la Parole de Dieu,",
+        "replace": "selon la parole de Dieu,",
+        "kind": "revert",
+        "why": "the PDF has « parole » in lower case; keep the author's case"
+      },
+      {
+        "find": "> Ne croyez pas que je sois venu pour abolir la loi ou les prophètes ; je suis venu non pour abolir mais",
+        "replace": "> Ne croyez pas que je sois venu pour abolir la loi ou les prophètes ; je suis venu non pour abolir mais",
+        "kind": "word",
+        "why": "drop capital: the PDF prints « N » apart from « e croyez »; the pass joined it, right"
+      },
+      {
+        "find": "Car je vous le dis en vérité, tant que",
+        "replace": "Car je vous le dis en vérité, tant que",
+        "kind": "word",
+        "why": "drop capital: the stray « N » the PDF prints inside this line is the chapter's drop capital, removed by the pass, right"
+      },
+      {
+        "find": "son enseignement n’avait rien à voir avec",
+        "replace": "son enseignement n’avait rien à voir avec",
+        "kind": "word",
+        "why": "« rien avoir » → « rien à voir »: transcriber slip, the pass is right"
+      },
+      {
+        "find": "le chemin qui mène à la perdition",
+        "replace": "le chemin qui mènent à la perdition",
+        "kind": "revert",
+        "why": "the Segond database, Matthieu 7:13: « le chemin qui mènent à la perdition »; restore the original"
+      },
+      {
+        "find": "resserré le chemin qui mène à la vie",
+        "replace": "resserré le chemin qui mènent à la vie",
+        "kind": "revert",
+        "why": "the Segond database, Matthieu 7:14: « resserré le chemin qui mènent à la vie »; restore the original"
+      },
+      {
+        "find": "rapporter des événements et des faits",
+        "replace": "rapporter des évènements et des faits",
+        "kind": "revert",
+        "why": "« évènements » is a correct spelling (the author also keeps it elsewhere); not a transcriber error"
+      },
+      {
+        "find": "peuples ou des événements du passé",
+        "replace": "peuples ou des évènements du passé",
+        "kind": "revert",
+        "why": "« évènements » is a correct spelling; not a transcriber error"
+      },
+      {
+        "find": "Pourtant, la Bible déclare que la Parole de Dieu demeure",
+        "replace": "Pourtant, la Bible déclare que la parole de Dieu demeure",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "l’Évangile, la véritable Parole de Dieu, est absente",
+        "replace": "l’Évangile, la véritable parole de Dieu, est absente",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "Pourtant, la Parole de Dieu non seulement condamne",
+        "replace": "Pourtant, la parole de Dieu non seulement condamne",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "dans les limites de ce que la Parole de Dieu nous assigne",
+        "replace": "dans les limites de ce que la parole de Dieu nous assigne",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "dans le témoignage transmis qui est la Parole de Dieu, peut",
+        "replace": "dans le témoignage transmis qui est la parole de Dieu, peut",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "Celui qui a reçu la Parole de Dieu porte en lui",
+        "replace": "Celui qui a reçu la parole de Dieu porte en lui",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "6. l’épée de l’Esprit : c’est la Parole de Dieu",
+        "replace": "6. l’épée de l’Esprit : c’est la parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "qui est la Vérité, la Parole de Dieu, mais aussi",
+        "replace": "qui est la Vérité, la parole de Dieu, mais aussi",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "Celui qui reçoit la Parole, reçoit la vie qui est la lumière ayant",
+        "replace": "Celui qui reçoit la parole, reçoit la vie qui est la lumière ayant",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "après avoir fait connaître la Parole de l’Éternel à Israël",
+        "replace": "après avoir fait connaître la parole de l’Éternel à Israël",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "nature de péché insoumise à la Parole de Dieu.",
+        "replace": "nature de péché insoumise à la parole de Dieu.",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "ne peut être abolie parce qu’elle est la Parole de Dieu",
+        "replace": "ne peut être abolie parce qu’elle est la parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "une naissance spirituelle au moyen de la Parole de Dieu et",
+        "replace": "une naissance spirituelle au moyen de la parole de Dieu et",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "qui met sa foi dans la Parole de Dieu.",
+        "replace": "qui met sa foi dans la parole de Dieu.",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "une bonne œuvre conforme à la Parole de Dieu",
+        "replace": "une bonne œuvre conforme à la parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "différente de la loi de l’Esprit, c’est la Parole de Dieu",
+        "replace": "différente de la loi de l’Esprit, c’est la parole de Dieu",
+        "kind": "revert",
+        "why": "the PDF has « parole » here; this book writes « parole de Dieu » in lower case (71 times against 2), so the pass added a capital: restore the original"
+      },
+      {
+        "find": "Et il dit aux juifs qui avaient cru en lui",
+        "replace": "Et il dit aux Juifs qui avaient cru en lui",
+        "kind": "typo",
+        "why": "the Segond database, Jean 8:31: « Et il dit aux Juifs »; a people takes a capital"
+      },
+      {
+        "find": "leur parla ainsi ; Tout pouvoir",
+        "replace": "leur parla ainsi : Tout pouvoir",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 28:18: « leur parla ainsi : Tout pouvoir »"
+      },
+      {
+        "find": "Seigneur, Seigneur ! N’entreront pas tous",
+        "replace": "Seigneur, Seigneur ! n’entreront pas tous",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 7:21: « Seigneur, Seigneur ! n’entreront pas tous »"
+      },
+      {
+        "find": "> Loin de là ; Nous qui sommes morts",
+        "replace": "> Loin de là ! Nous qui sommes morts",
+        "kind": "typo",
+        "why": "the Segond database, Romains 6:2: « Loin de là ! Nous qui sommes morts »"
+      },
+      {
+        "find": "vivants pour Dieu en Jésus-Christ ? (Romains 6:2-11)",
+        "replace": "vivants pour Dieu en Jésus-Christ. (Romains 6:2-11)",
+        "kind": "typo",
+        "why": "the Segond database, Romains 6:11 ends « en Jésus-Christ. », a statement, not a question"
+      },
+      {
+        "find": "Anéantissons-nous donc la loi par la foi ?\n\n> Loin de là ! Au contraire",
+        "replace": "Anéantissons-nous donc la loi par la foi ? Loin de là ! Au contraire",
+        "kind": "markup",
+        "why": "one reading (Romains 3:20-31) cut in two by a page break; the PDF runs on"
+      },
+      {
+        "find": "selon ce que dit l’Écriture ; Quiconque",
+        "replace": "selon ce que dit l’Écriture : Quiconque",
+        "kind": "typo",
+        "why": "the Segond database, Romains 10:10: « selon ce que dit l’Écriture : »"
+      },
+      {
+        "find": "Raca ! Mérite d’être puni",
+        "replace": "Raca ! mérite d’être puni",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 5:22: « Raca ! mérite d’être puni »"
+      },
+      {
+        "find": "Insensé ! Mérite d’être puni",
+        "replace": "Insensé ! mérite d’être puni",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 5:22: « Insensé ! mérite d’être puni »"
+      },
+      {
+        "find": "dans la géhenne.\n\n> Il a été dit : Que celui",
+        "replace": "dans la géhenne.\n>\n> Il a été dit : Que celui",
+        "kind": "markup",
+        "why": "same reading (Matthieu 5:17-48): keep its paragraphs in one quote, as the pass began to do"
+      },
+      {
+        "find": "commet un adultère.\n\n> Vous avez encore appris",
+        "replace": "commet un adultère.\n>\n> Vous avez encore appris",
+        "kind": "markup",
+        "why": "same reading (Matthieu 5:17-48): one quote with its paragraphs"
+      },
+      {
+        "find": "vient du malin.\n\n> Vous avez appris",
+        "replace": "vient du malin.\n>\n> Vous avez appris",
+        "kind": "markup",
+        "why": "same reading (Matthieu 5:17-48): one quote with its paragraphs"
+      },
+      {
+        "find": "emprunter de toi.\n\n> Vous avez appris",
+        "replace": "emprunter de toi.\n>\n> Vous avez appris",
+        "kind": "markup",
+        "why": "same reading (Matthieu 5:17-48): one quote with its paragraphs"
+      },
+      {
+        "find": "pour voir comment cela finirait : Les principaux",
+        "replace": "pour voir comment cela finirait. Les principaux",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 26:58 ends « comment cela finirait. »"
+      },
+      {
+        "find": "Jésus l’a annoncé à la femme Samaritaine",
+        "replace": "Jésus l’a annoncé à la femme samaritaine",
+        "kind": "typo",
+        "why": "« la femme samaritaine »: adjective, lower case"
+      },
+      {
+        "find": "Comme tout Royaume, le Royaume de Dieu est organisé et fonctionne sur des principes. Pour vivre comme un bon citoyen dans le Royaume,",
+        "replace": "Comme tout Royaume, le Royaume de Dieu est organisé et fonctionne sur des principes. Pour vivre comme un bon citoyen dans le Royaume,",
+        "kind": "word",
+        "why": "drop capital: the PDF prints the chapter's « C » apart from « omme »; the pass joined it, which is right (the span reaches the stray letter, which the PDF prints a line further down)"
+      },
+      {
+        "find": "> Et voici ce témoignage, c’est que Dieu nous a donné la vie éternelle, et que cette vie est dans son Fils. Celui qui a le Fils a la vie ; celui qui n’a pas le Fils de Dieu n’a pas la vie",
+        "replace": "> Et voici ce témoignage, c’est que Dieu nous a donné la vie éternelle, et que cette vie est dans son Fils. Celui qui a le Fils a la vie ; celui qui n’a pas le Fils de Dieu n’a pas la vie",
+        "kind": "word",
+        "why": "drop capital: the PDF prints the chapter's « E » apart from « t voici »; the pass joined it, which is right (the span reaches the stray letter, which the PDF prints a line further down)"
+      },
+      {
+        "find": "une seule Église parce qu’il il n’y a qu’un seul corps",
+        "replace": "une seule Église parce qu’il n’y a qu’un seul corps",
+        "kind": "word",
+        "why": "typesetter's doubled « il » (the PDF has « qu’il il »)"
+      },
+      {
+        "find": "**selon l’esprit s’affectionnent aux choses de l’esprit**.\n\nEt l’affection de la chair, c’est la mort, tandis que l’affection de l’esprit, c’est la vie et la paix. Ceux qui vivent",
+        "replace": "**selon l’esprit s’affectionnent aux choses de l’esprit**. Et l’affection de la chair, c’est la mort, tandis que l’affection de l’esprit, c’est la vie et la paix.\n\nCeux qui vivent",
+        "kind": "markup",
+        "why": "the next verse belongs to the reading he quotes (the Segond database, Romains 8:6: Et l’affection de la chair, c’est la mort, tandis que l’affection de l’esprit, c’est la vie et la paix); his own sentence starts at « Ceux qui vivent selon la chair c’est-à-dire »"
+      },
+      {
+        "find": "> Le jour de la pentecôte, **ils étaient",
+        "replace": "> Le jour de la Pentecôte, **ils étaient",
+        "kind": "typo",
+        "why": "capital of Pentecôte, as in the Segond database, Actes 2:1: Le jour de la Pentecôte, ils étaient tous ensemble dans le même lieu"
+      },
+      {
+        "find": "en silence[…] , elle doit demeurer dans le silence […] , que les femmes se taisent dans les assemblées […] , car il ne leur est pas permis d’y parler[…].",
+        "replace": "en silence […], elle doit demeurer dans le silence […], que les femmes se taisent dans les assemblées […], car il ne leur est pas permis d’y parler […].",
+        "kind": "typo",
+        "why": "spacing around the ellipsis marks: no space before the comma (the PDF has none), a space before « […] »"
+      },
+      {
+        "find": "créée en la faisant.\n\n(Genèse 2:1-13)",
+        "replace": "créée en la faisant. (Genèse 2:1-13)",
+        "kind": "markup",
+        "why": "the reference belongs at the end of its reading, not as a paragraph of its own"
+      },
+      {
+        "find": "> Pour indiquer le sujet de sa condamnation",
+        "replace": "> Pour indiquer le sujet de sa condamnation",
+        "kind": "word",
+        "why": "drop capital: the PDF prints « P » apart from « our »; the pass joined it, right"
+      },
+      {
+        "find": "> L’inscription indiquant le sujet de sa condamnation",
+        "replace": "> L’inscription indiquant le sujet de sa condamnation",
+        "kind": "word",
+        "why": "the stray « P » before this line is the drop capital of « Pour » above; removing it is right"
+      },
+      {
+        "find": "Le Royaume de Dieu est la patrie des rachetés",
+        "replace": "Le Royaume de Dieu est la patrie des rachetés",
+        "kind": "word",
+        "why": "drop capital: the PDF prints « L » apart from « e Royaume »; the pass joined it, right"
+      },
+      {
+        "find": "La vie reçue par les rachetés est la vie du Royaume",
+        "replace": "La vie reçue par les rachetés est la vie du Royaume",
+        "kind": "word",
+        "why": "the stray « L » in this line is the chapter's drop capital, joined to « Le Royaume » above; removing it is right"
+      },
+      {
+        "find": "croyances ou religions exceptés les chrétiens",
+        "replace": "croyances ou religions excepté les chrétiens",
+        "kind": "typo",
+        "why": "agreement slip: « excepté » placed before the noun stays invariable"
+      },
+      {
+        "find": "les rois d’Israël se sont succédés ?",
+        "replace": "les rois d’Israël se sont succédé ?",
+        "kind": "typo",
+        "why": "agreement slip: the past participle of « se succéder » stays invariable"
+      },
+      {
+        "find": "Les chrétiennes appartiennent à la nouvelle création, car en Christ ils",
+        "replace": "Les chrétiens appartiennent à la nouvelle création, car en Christ ils",
+        "kind": "typo",
+        "why": "typesetter's slip: « chrétiennes » with « ils » in the same sentence; the author means all Christians"
+      },
+      {
+        "find": "La famille de la maison de Schimeï séparément",
+        "replace": "La famille de Schimeï séparément",
+        "kind": "restore",
+        "why": "the pass added « la maison de »; the PDF and the Segond database, Zacharie 12:13: « La famille de Schimeï séparément »"
+      },
+      {
+        "find": "Notre Père qui est aux cieux",
+        "replace": "Notre Père qui es aux cieux",
+        "kind": "typo",
+        "why": "the Segond database, Matthieu 6:9: « Notre Père qui es aux cieux ! »"
+      },
+      {
+        "find": "Non ! Dirent-ils, mais il y aura",
+        "replace": "Non ! dirent-ils, mais il y aura",
+        "kind": "typo",
+        "why": "the Segond database, 1 Samuel 8:19: « Non ! dirent-ils »"
+      },
+      {
+        "find": "> Et toi, Bethléem Ephrata, Petite",
+        "replace": "> Et toi, Bethléhem Éphrata, Petite",
+        "kind": "typo",
+        "why": "biblical name in a reading: the Segond database, Michée 5:1: « Et toi, Bethléhem Éphrata »"
+      },
+      {
+        "find": " au pied la Parole de Dieu. Il est arr",
+        "replace": " au pied la parole de Dieu. Il est arr",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ssance à la Parole de Dieu manifeste l",
+        "replace": "ssance à la parole de Dieu manifeste l",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "vienne à la Parole de Dieu lorsqu’il a",
+        "replace": "vienne à la parole de Dieu lorsqu’il a",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "prit est la Parole de Dieu.\n\nMalheureu",
+        "replace": "prit est la parole de Dieu.\n\nMalheureu",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ission à la Parole de Dieu. N’est-ce p",
+        "replace": "ission à la parole de Dieu. N’est-ce p",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": " Que dit la Parole de Dieu à ce propos",
+        "replace": " Que dit la parole de Dieu à ce propos",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "nue dans la Parole de Dieu est manifes",
+        "replace": "nue dans la parole de Dieu est manifes",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ontre de la Parole de Dieu. Ils s’affe",
+        "replace": "ontre de la parole de Dieu. Ils s’affe",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "foi dans la Parole de Dieu. Tout exerc",
+        "replace": "foi dans la parole de Dieu. Tout exerc",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": " Lorsque la Parole de Dieu nous comman",
+        "replace": " Lorsque la parole de Dieu nous comman",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "mière de la Parole de Dieu, est enseig",
+        "replace": "mière de la parole de Dieu, est enseig",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "a véritable Parole de Dieu associée au",
+        "replace": "a véritable parole de Dieu associée au",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "totale à la Parole de Dieu qui est la ",
+        "replace": "totale à la parole de Dieu qui est la ",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "cause de la Parole de Dieu. Cette cond",
+        "replace": "cause de la parole de Dieu. Cette cond",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ction de la Parole de Dieu et de l’onc",
+        "replace": "ction de la parole de Dieu et de l’onc",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "vient de la Parole de Dieu.\n\nChaque ch",
+        "replace": "vient de la parole de Dieu.\n\nChaque ch",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "rit dans la Parole de Dieu. On ne trou",
+        "replace": "rit dans la parole de Dieu. On ne trou",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "logique. La Parole de Dieu n’est pas o",
+        "replace": "logique. La parole de Dieu n’est pas o",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "gnant de la Parole de Dieu, c’est qu’o",
+        "replace": "gnant de la parole de Dieu, c’est qu’o",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ement de la Parole de Dieu, on n’est p",
+        "replace": "ement de la parole de Dieu, on n’est p",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "n somme, la Parole de Dieu a créé tout",
+        "replace": "n somme, la parole de Dieu a créé tout",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "sance de la Parole de Dieu qui a créé ",
+        "replace": "sance de la parole de Dieu qui a créé ",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "éliminer la Parole de Dieu sur terre. ",
+        "replace": "éliminer la parole de Dieu sur terre. ",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "’y a que la Parole de Dieu, l’Évangile",
+        "replace": "’y a que la parole de Dieu, l’Évangile",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "e Jésus, la Parole de Dieu.\n\nJésus est",
+        "replace": "e Jésus, la parole de Dieu.\n\nJésus est",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "2) C’est la Parole de Dieu qui manifes",
+        "replace": "2) C’est la parole de Dieu qui manifes",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "t-à-dire la Parole de Dieu.\n\nAucune re",
+        "replace": "t-à-dire la parole de Dieu.\n\nAucune re",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "fig. 1 : la Parole de Dieu est reçue d",
+        "replace": "fig. 1 : la parole de Dieu est reçue d",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ssance à la Parole de Dieu est la seul",
+        "replace": "ssance à la parole de Dieu est la seul",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ssance à la Parole de Dieu, notre foi ",
+        "replace": "ssance à la parole de Dieu, notre foi ",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ission à la Parole de Dieu.\n\nAbraham f",
+        "replace": "ission à la parole de Dieu.\n\nAbraham f",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "mière de la Parole de Dieu. On ne peut",
+        "replace": "mière de la parole de Dieu. On ne peut",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ssance à la Parole de Dieu nous avons ",
+        "replace": "ssance à la parole de Dieu nous avons ",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": " à toute la Parole de Dieu à détruire ",
+        "replace": " à toute la parole de Dieu à détruire ",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "cause de la Parole de Dieu et ceux qui",
+        "replace": "cause de la parole de Dieu et ceux qui",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": " obéir à la Parole de Dieu, parce que ",
+        "replace": " obéir à la parole de Dieu, parce que ",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": " à toute la Parole de Dieu. La restaur",
+        "replace": " à toute la parole de Dieu. La restaur",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "celle de la Parole de Dieu en nous. Ce",
+        "replace": "celle de la parole de Dieu en nous. Ce",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "ssance à la Parole de Dieu. Cela est p",
+        "replace": "ssance à la parole de Dieu. Cela est p",
+        "kind": "revert",
+        "why": "the author writes « parole de Dieu » in lower case (88 times against 2 in the PDF); the pass added the capital. Same decision as the readers of the book's first half"
+      },
+      {
+        "find": "**CHAPITRE I** :\n\n**L’ORIGINE DU ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE I** : **L’ORIGINE DU ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE II** :\n\n**L’œuvre de restauration du Royaume**",
+        "replace": "**CHAPITRE II** : **L’œuvre de restauration du Royaume**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE III**\n\n**LES FILS DU ROYAUME**",
+        "replace": "**CHAPITRE III** : **LES FILS DU ROYAUME**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE IV** :\n\n**LA LOI QUI GOUVERNE LE ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE IV** : **LA LOI QUI GOUVERNE LE ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE V**\n\n**LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE V** : **LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE VI**\n\n**LA VIE DANS LE ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE VI** : **LA VIE DANS LE ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      },
+      {
+        "find": "**CHAPITRE VII**\n\n**LE ROI DU ROYAUME DE DIEU**",
+        "replace": "**CHAPITRE VII** : **LE ROI DU ROYAUME DE DIEU**",
+        "kind": "markup",
+        "why": "the chapter and its title, which the PDF prints on two lines: one heading, as the table of contents pairs them"
+      }
+    ]
   }
 }

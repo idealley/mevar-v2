@@ -45,6 +45,14 @@ the end-time Message); its bold goes. Capitals for emphasis inside a
 paragraph (« IL FAUT QUE LE SIÈGE SOIT DÉGAGÉ ! ») stay: that is the
 preacher speaking. Nothing else becomes a heading: no heading is invented.
 
+A book whose structure has three levels, as its table of contents shows
+(parts, chapters and sections; or chapters, sections and sub-sections),
+takes a third: `##` for the first with the front matter, `###` for the
+second, `####` for the third (Samuel,
+2026-10-03, goal 10 batch 10: « let's add the needed level »). The site
+styles `h4`; 87 accepts a `####` decision, which the editor gives, not the
+model.
+
 A heading already in the text but in capitals (`## LA CHUTE DANS LE PECHE`)
 is recased the same way and keeps its level (Samuel, on PR #25: « we can
 add this in this PR »); the Ghost posts' own headings stay Samuel's.

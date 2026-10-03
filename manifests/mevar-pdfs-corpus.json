@@ -2011,7 +2011,7 @@
   {
     "source": "mevar-pdfs",
     "sermon_id": "le_royaume_de_dieu_kadjani",
-    "title": "LE ROYAUME DE DIEU",
+    "title": "Le Royaume de Dieu",
     "year": 2022,
     "published_at": "2022-12-29",
     "pdf_url": "https://mevar.org/content/files/2022/12/le_royaume_de_dieu_kadjani.pdf",
@@ -2029,7 +2029,7 @@
     "authors": [
       "André Kadjany"
     ],
-    "local_md": "markdown/mevar-pdfs/le_royaume_de_dieu_kadjani.md",
+    "local_md": "markdown/mevar/le-royaume-de-dieu-2022.md",
     "sha1": "a6043ecc612e035393a81a597afcff5d04460b38",
     "size": 2659426,
     "subtitle": "Comprendre ses principes et son fonctionnement",
