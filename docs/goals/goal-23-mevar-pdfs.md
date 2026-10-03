@@ -15,8 +15,10 @@ reader who wants to print or keep a sermon cannot.
   « they are published like this and it was published at that time on
   purpose ».
 - The Ghost posts that had no PDF (146; 141 posts and 5 pages): « 50
-  originals + 96 generated ». The 50 that are the same works as OneDrive
-  texts offer that original; the others, the PDF of their text. The site's
+  originals + 96 generated ». The posts that are the same works as
+  OneDrive texts offer that original: 49 (the 50th, « Un peuple de
+  sacrificateurs », has a .docx for its original, not a PDF, so it offers
+  the PDF of its text, as the 91 others do: 92). The site's
   pages (« À propos », « Newsletter »…) get none.
 
 ## Work items

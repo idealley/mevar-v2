@@ -64,7 +64,7 @@ function originalOf(t) {
   return inventory.find((e) => e.ext === ".pdf" && [e.canonical_path, ...e.aliases].some((p) => p.replace(/\.[^.]+$/, "") === stem))?.canonical_path ?? null;
 }
 
-// The edited PDF: the frontmatter's header, then the body
+// The PDF of a text: the frontmatter's header, then the body
 function inline(doc, nodes, style, opts) {
   const parts = [];
   (function walk(ns, s) {
@@ -239,7 +239,7 @@ for (const t of texts.values()) {
       else missing.push(t.md);
     }
     text = await writeText(t, text);
-  } else if (source === "mevar" && field(t.fm, "type") === "post" && !field(t.fm, "pdf_url") && !(field(t.fm, "local_pdf") ?? "/files/onedrive/").startsWith("/files/mevar/")) {
+  } else if (source === "mevar" && field(t.fm, "type") === "post" && !field(t.fm, "pdf_url") && !field(t.fm, "local_pdf")?.startsWith("/files/mevar/")) {
     // a Ghost post without a PDF of its own: its OneDrive duplicate's original, or its text
     const original = (duplicates.get(t.md) ?? []).map(originalOf).find(Boolean);
     text = original ? copyOriginal(original, text) : await writeText(t, text);
