@@ -165529,9 +165529,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/reveilp.md",
-    "size_bytes": 132797,
-    "line_count": 699
+    "local_md": "markdown/mevar/le-reveil-promis-2006.md",
+    "size_bytes": 135145,
+    "line_count": 915
   },
   {
     "source": "onedrive",
@@ -172218,8 +172218,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/depliant.md",
-    "size_bytes": 10592,
-    "line_count": 94
+    "size_bytes": 10561,
+    "line_count": 92
   },
   {
     "source": "onedrive",
@@ -176387,6 +176387,76 @@
     "local_md": "markdown/mevar/la-guerre-des-deux-maisons-saul-contre-david-2011.md",
     "size_bytes": 31022,
     "line_count": 153
+  },
+  {
+    "source": "onedrive",
+    "sermon_id": "mariage_final_pdf",
+    "title": "Le mariage et les péchés du sexe",
+    "subtitle": null,
+    "date": "2012-01-09",
+    "year": 2012,
+    "location": null,
+    "preacher": "Parfait M'bra",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": null,
+    "audio_url": null,
+    "mevar_match": {
+      "pathname": "/le-mariage-et-les-peches-du-sexe",
+      "url": "https://mevar.org/le-mariage-et-les-peches-du-sexe/",
+      "title": "Le mariage et les péchés du sexe",
+      "similarity": 0.526
+    },
+    "aliases": [],
+    "tags": [
+      "Publications",
+      "mariage",
+      "péchés sexuels",
+      "doctrine chrétienne"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "Cet ouvrage examine le mariage selon la pensée originelle de Dieu, en contraste avec les péchés sexuels introduits par la chute. Il établit une procédure biblique pour les fiançailles et le mariage en Christ, insistant sur la soumission, la monogamie et le rôle des anciens. La deuxième partie traite de l'impudicité et de l'adultère, appelant à la nouvelle naissance et à la pureté conjugale.",
+    "persons": [
+      "Adam",
+      "Ève",
+      "Caïn",
+      "Abel",
+      "Satan",
+      "Lucifer",
+      "David",
+      "Salomon",
+      "Abraham",
+      "Isaac",
+      "Rébecca",
+      "Josué",
+      "Paul"
+    ],
+    "places": [
+      "Jardin d'Éden",
+      "Égypte",
+      "Canaan",
+      "Abidjan",
+      "Côte d'Ivoire"
+    ],
+    "themes": [
+      "Mariage chrétien",
+      "Péché originel",
+      "Soumission de la femme",
+      "Monogamie",
+      "Rôle des anciens",
+      "Adultère",
+      "Impudicité",
+      "Nouvelle naissance"
+    ],
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": true,
+    "original": null,
+    "local_md": "markdown/mevar/le-mariage-et-les-peches-du-sexe-2012.md",
+    "size_bytes": 260612,
+    "line_count": 1472
   },
   {
     "source": "onedrive",
@@ -185025,9 +185095,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/publication verified/broch_plusgrand.md",
-    "size_bytes": 149488,
-    "line_count": 805
+    "local_md": "markdown/mevar/qui-est-le-plus-grand-2010.md",
+    "size_bytes": 151867,
+    "line_count": 824
   },
   {
     "source": "onedrive",
@@ -186743,9 +186813,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/lavision_kayenga.md",
-    "size_bytes": 262816,
-    "line_count": 1336
+    "local_md": "markdown/mevar/la-vision-spirituelle-correcte-de-l-evolution-du-message-du-temps-de-la-fin-2011.md",
+    "size_bytes": 279286,
+    "line_count": 1302
   },
   {
     "source": "onedrive",
@@ -186886,7 +186956,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar/le-jugement-dans-l-assemblee-locale.md",
-    "size_bytes": 54022,
+    "size_bytes": 53990,
     "line_count": 452
   },
   {
@@ -186959,7 +187029,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/le_mariage_et_les_peches_du_sexe.md",
-    "size_bytes": 256166,
+    "size_bytes": 256179,
     "line_count": 1158
   },
   {
@@ -187028,77 +187098,6 @@
     "local_md": "markdown/onedrive/pdf/les_ouvriers_du_royaume.md",
     "size_bytes": 513737,
     "line_count": 9544
-  },
-  {
-    "source": "onedrive",
-    "sermon_id": "mariage_final_pdf",
-    "title": "Le Mariage et les Péchés du Sexe",
-    "subtitle": null,
-    "date": null,
-    "year": null,
-    "location": null,
-    "preacher": "Parfait M'bra",
-    "duration": null,
-    "source_url": null,
-    "pdf_url": null,
-    "audio_url": null,
-    "mevar_match": {
-      "pathname": "/le-mariage-et-les-peches-du-sexe",
-      "url": "https://mevar.org/le-mariage-et-les-peches-du-sexe/",
-      "title": "Le mariage et les péchés du sexe",
-      "similarity": 0.526
-    },
-    "aliases": [],
-    "tags": [
-      "Publications",
-      "2014",
-      "mariage",
-      "péchés sexuels",
-      "doctrine chrétienne"
-    ],
-    "authors": null,
-    "type": null,
-    "status": null,
-    "summary": "Cet ouvrage examine le mariage selon la pensée originelle de Dieu, en contraste avec les péchés sexuels introduits par la chute. Il établit une procédure biblique pour les fiançailles et le mariage en Christ, insistant sur la soumission, la monogamie et le rôle des anciens. La deuxième partie traite de l'impudicité et de l'adultère, appelant à la nouvelle naissance et à la pureté conjugale.",
-    "persons": [
-      "Adam",
-      "Ève",
-      "Caïn",
-      "Abel",
-      "Satan",
-      "Lucifer",
-      "David",
-      "Salomon",
-      "Abraham",
-      "Isaac",
-      "Rébecca",
-      "Josué",
-      "Paul"
-    ],
-    "places": [
-      "Jardin d'Éden",
-      "Égypte",
-      "Canaan",
-      "Abidjan",
-      "Côte d'Ivoire"
-    ],
-    "themes": [
-      "Mariage chrétien",
-      "Péché originel",
-      "Soumission de la femme",
-      "Monogamie",
-      "Rôle des anciens",
-      "Adultère",
-      "Impudicité",
-      "Nouvelle naissance"
-    ],
-    "feature_image": null,
-    "local_image": null,
-    "llm_cleaned": true,
-    "original": null,
-    "local_md": "markdown/onedrive/pdf/mariage_final_pdf.md",
-    "size_bytes": 259189,
-    "line_count": 1165
   },
   {
     "source": "onedrive",
@@ -187235,9 +187234,9 @@
     "local_image": null,
     "llm_cleaned": true,
     "original": null,
-    "local_md": "markdown/onedrive/pdf/nehemie_patriote.md",
-    "size_bytes": 210488,
-    "line_count": 1074
+    "local_md": "markdown/mevar/l-oeuvre-de-la-restauration-de-la-muraille-de-jerusalem-2009.md",
+    "size_bytes": 217656,
+    "line_count": 1368
   },
   {
     "source": "onedrive",
