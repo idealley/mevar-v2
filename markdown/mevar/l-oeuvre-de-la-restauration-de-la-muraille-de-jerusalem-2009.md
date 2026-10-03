@@ -8,7 +8,7 @@ year: 2009
 summary: "Ce document explore la restauration de l'Église à travers le type d'Israël revenant de l'exil babylonien, en reliant les étapes du retour (Zorobabel, Esdras, Néhémie) aux ministères successifs dans l'âge de Laodicée (Branham, Frank). Il insiste sur le cri de minuit (Matthieu 25:6) comme temps prophétique actuel, appelant à la reconstruction des murailles spirituelles de Jérusalem (l'Église) face à l'opposition de Babylone et d'Edom."
 tags:
   - "Exhortations"
-  - "2014"
+  - "2009"
   - "Restauration"
   - "Minuit"
   - "Muraille de Jérusalem"

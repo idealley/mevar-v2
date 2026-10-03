@@ -167,55 +167,55 @@ Les citations bibliques sont tirées de la version Louis Segond.
 
 ## Table des matières
 
-INTRODUCTION — 7
+INTRODUCTION (p. 7)
 
-1. DANS LES ÉCRITURES — 13
+1. DANS LES ÉCRITURES (p. 13)
 
-2. DANS L’HISTOIRE — 19
+2. DANS L’HISTOIRE (p. 19)
 
-3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE — 27
+3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE (p. 27)
 
-4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU — 35
+4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU (p. 35)
 
-La malédiction empêche la pluie pour nous tous — 38
+La malédiction empêche la pluie pour nous tous (p. 38)
 
-Aie donc du zèle, et repens-toi ! — 41
+Aie donc du zèle, et repens-toi ! (p. 41)
 
-Un miracle refusé — 42
+Un miracle refusé (p. 42)
 
-5. L’HISTOIRE SE RÉPÈTE — 45
+5. L’HISTOIRE SE RÉPÈTE (p. 45)
 
-À Jérusalem — 45
+À Jérusalem (p. 45)
 
-En Judée — 46
+En Judée (p. 46)
 
-En Samarie — 47
+En Samarie (p. 47)
 
-Visitation particulière de l’Église à minuit — 47
+Visitation particulière de l’Église à minuit (p. 47)
 
-Les conséquences du réveil — 50
+Les conséquences du réveil (p. 50)
 
-1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan — 50
+1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan (p. 50)
 
-2. La sanctification et la piété — 54
+2. La sanctification et la piété (p. 54)
 
-3. Séparation d’avec les faux frères — 56
+3. Séparation d’avec les faux frères (p. 56)
 
-4. La manifestation de la Puissance de Dieu — 59
+4. La manifestation de la Puissance de Dieu (p. 59)
 
-Ordre de mission en rapport avec la prédication et les signes — 61
+Ordre de mission en rapport avec la prédication et les signes (p. 61)
 
-Le troisième pull — 64
+Le troisième pull (p. 64)
 
-6. LA MOISSON ET LES MOISSONNEURS — 73
+6. LA MOISSON ET LES MOISSONNEURS (p. 73)
 
-La moisson du Seigneur — 73
+La moisson du Seigneur (p. 73)
 
-Les jours du fils de l’homme sont semblables aux jours de Lot — 76
+Les jours du fils de l’homme sont semblables aux jours de Lot (p. 76)
 
-La Moisson de la terre — 81
+La Moisson de la terre (p. 81)
 
-CONCLUSION — 82
+CONCLUSION (p. 82)
 
 ## Introduction
 
@@ -685,7 +685,7 @@ Les serviteurs de Dieu, notamment les dirigeants des assemblées locales, sont i
 
 Le temps est venu pour les serviteurs de Dieu de mettre de l’ordre dans leur vie intérieure, afin de rétablir l’autorité de la Parole de Dieu dans l’Église. En effet, comment peut-on prononcer sans reproche la Parole de Dieu, lorsque notre conscience est chargée de péché ? Comment peut-on prononcer la Parole de Dieu dans une assemblée au sein de laquelle on n’a pas un bon témoignage ? L’autorité de la Parole doit être rétablie dans la vie des serviteurs de la Parole avant d’être rétablie dans l’Église. Ceci est très important. À la fin de la fin des temps, la Parole doit être trouvée établie dans la vie de chaque croyant en vue de la manifestation du troisième Pull.
 
-### 4. La manifestation de la Puissance de Dieu
+### 4. La manifestation de la puissance de Dieu
 
 La manifestation de la Puissance de Dieu est beaucoup attendue dans le dernier réveil. Là-dessus, je voudrais attirer l’attention des frères, afin que chacun comprenne que rien ne se fera en dehors des Saintes Écritures. Tout se fera du début jusqu’à la fin selon les Saintes Écritures. Et ce qui doit avoir lieu à la fin est déjà mentionné dans les Écritures. Avant d’aller plus loin, je voudrais montrer ici qu’il y a une différence entre la plénitude de l’Esprit et la Puissance de l’Esprit, parce que la confusion entre les deux notions fait que certains échecs spirituels qui relèvent du manque de Puissance sont attribués à la volonté de Dieu, alors qu’Il n’en est pas l’auteur. Les principaux textes qui parlent du sujet se trouvent dans le livre de Luc.
 
@@ -809,7 +809,7 @@ Par les visions du troisième Pull, le Seigneur a permis au prophète William Br
 
 - 6 -
 
-## La Moisson et les Moissonneurs
+## La moisson et les moissonneurs
 
 La Bible présente deux moissons. La moisson du champ du Seigneur Jésus en vue de la vie et la moisson de la fin du monde en vue du châtiment et de la perdition.
 
@@ -877,7 +877,7 @@ Les desseins de Dieu sont exécutés sur la terre par Ses serviteurs. Celui qui 
 
 C’est l’Église qui a affaire à ces trois hommes qui sont venus à son secours pour la réveiller et l’amener à la perfection. Que celui qui ne sait pas ce qui se passe fasse donc comme Gamaliel en Actes 5 :34-40. Les jours du fils de l’homme sont des jours prophétiques, des jours au cours desquels l’Église marche par la vision prophétique. C’est pourquoi tant qu’Elle n’est pas encore arrivée à la fin de sa marche, Dieu lui enverra toujours des serviteurs pour lui dire à quel niveau de marche Elle se trouve.
 
-### La Moisson de la terre
+### La moisson de la terre
 
 > Je regardai, et voici, il y avait une nuée blanche, et sur la nuée était assis quelqu’un qui ressemblait à un fils d’homme, ayant sur sa tête une couronne d’or, et dans sa main une faucille tranchante. Et un autre ange sortit du temple, criant d’une voix forte à celui qui était assis sur la nuée : Lance ta faucille, et moissonne ; car l’heure de moissonner est venue, car la moisson de la terre est mûre. Et celui qui était assis sur la nuée jeta sa faucille sur la terre. Et la terre fut moissonnée. Et un autre ange sortit du temple qui est dans le ciel, ayant, lui aussi, une faucille tranchante.
 >

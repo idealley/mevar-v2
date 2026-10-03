@@ -82,7 +82,7 @@ bible_refs:
   - "Romains 16:17-18"
   - "2 Jean 1:9-10"
   - "2 Timothée 4"
-editorial_pass: "2026-10-02"
+editorial_pass: "2026-10-03"
 ---
 © **M’Bra Parfait** : Mission d’Évangélisation et de Réveil, 2006  
 20 B.P. 1011 Abidjan 20 - Côte d’Ivoire  
@@ -92,45 +92,45 @@ Les citations bibliques sont tirées de la version Louis Segond.
 
 Table des matières
 
-QU’EST-CE QUE C’EST QUE LE JUGEMENT — 7
+QU’EST-CE QUE C’EST QUE LE JUGEMENT (p. 7)
 
-QUI JUGE ? — 13
+QUI JUGE ? (p. 13)
 
-LES PASTEURS DES ASSEMBLÉES ET LES ANCIENS SONT DES JUGES — 15
+LES PASTEURS DES ASSEMBLÉES ET LES ANCIENS SONT DES JUGES (p. 15)
 
-NE POINT JUGER SELON L’APPARENCE — 18
+NE POINT JUGER SELON L’APPARENCE (p. 18)
 
 BASE DOCTRINALE DU JUGEMENT :
 
-La procédure de Matthieu 18 — 20
+La procédure de Matthieu 18 (p. 20)
 
 PREMIÈRE ÉTAPE :
 
-l’Affaire se trouve entre le fautif et celui qui l’a découvert dans la faute — 21
+l’Affaire se trouve entre le fautif et celui qui l’a découvert dans la faute (p. 21)
 
 DEUXIÈME ÉTAPE :
 
-L’Affaire se trouve entre le fautif – celui qui l’a découvert dans le péché et deux témoins — 22
+L’Affaire se trouve entre le fautif – celui qui l’a découvert dans le péché et deux témoins (p. 22)
 
 TROISIÈME ÉTAPE :
 
-L’affaire se trouve devant l’église — 23
+L’affaire se trouve devant l’église (p. 23)
 
 QUATRIÈME ÉTAPE :
 
-Les sanctions — 26
+Les sanctions (p. 26)
 
 PREMIER CAS DE SANCTION :
 
-Considérer le fautif comme un païen et un publicain — 26
+Considérer le fautif comme un païen et un publicain (p. 26)
 
 DEUXIÈME CAS DE SANCTION :
 
-La livraison à Satan — 28
+La livraison à Satan (p. 28)
 
-REPENTANCE ET VOIE DE RETOUR — 36
+REPENTANCE ET VOIE DE RETOUR (p. 36)
 
-CONCLUSION — 48
+CONCLUSION (p. 48)
 
 ## Qu’est-ce que c’est que le jugement
 

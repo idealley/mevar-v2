@@ -9,7 +9,7 @@ preacher: "Christian Kayenga Kalubi"
 summary: "Ce texte aborde la nécessité de discerner les temps prophétiques actuels dans le Message du temps de la fin, en s'appuyant sur les types d'Israël dans le désert et les fêtes de l'Éternel. Il insiste sur l'importance de ne pas s'attacher à un homme mais à la volonté de Dieu révélée pour notre époque, et présente le Cri de Minuit comme la vérité présente pour l'Église."
 tags:
   - "Exhortations"
-  - "2014"
+  - "2011"
   - "Message du temps de la fin"
   - "Prophétie"
   - "Fêtes de l'Éternel"

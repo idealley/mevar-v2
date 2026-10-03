@@ -9,6 +9,7 @@ preacher: "Parfait M'bra"
 summary: "Cet ouvrage examine le mariage selon la pensée originelle de Dieu, en contraste avec les péchés sexuels introduits par la chute. Il établit une procédure biblique pour les fiançailles et le mariage en Christ, insistant sur la soumission, la monogamie et le rôle des anciens. La deuxième partie traite de l'impudicité et de l'adultère, appelant à la nouvelle naissance et à la pureté conjugale."
 tags:
   - "Publications"
+  - "2012"
   - "mariage"
   - "péchés sexuels"
   - "doctrine chrétienne"
@@ -253,53 +254,53 @@ M’BRA Parfait 20 BP 1011 Abidjan 20/Côte d’Ivoire
 
 ## Table des matières
 
-Introduction Générale — 5
+Introduction Générale (p. 5)
 
-Première Partie : Le mariage dans le royaume de Dieu ou le mariage en Christ — 11
+Première Partie : Le mariage dans le royaume de Dieu ou le mariage en Christ (p. 11)
 
-Premièrement : Procédure biblique des fiançailles — 12
+Premièrement : Procédure biblique des fiançailles (p. 12)
 
-Deuxièmement : Le Commandement fut donné à l’homme — 21
+Deuxièmement : Le Commandement fut donné à l’homme (p. 21)
 
-Troisièmement : La domination fut donnée à l’homme — 23
+Troisièmement : La domination fut donnée à l’homme (p. 23)
 
-Quatrièmement : La soumission fut donnée à la femme — 24
+Quatrièmement : La soumission fut donnée à la femme (p. 24)
 
-Cinquièmement : Femme insoumise : ouvrière avec le diable — 27
+Cinquièmement : Femme insoumise : ouvrière avec le diable (p. 27)
 
-Sixièmement : Le Seigneur n’admet pas les compromis — 31
+Sixièmement : Le Seigneur n’admet pas les compromis (p. 31)
 
-Septièmement : L’homme est le chef de la femme — 35
+Septièmement : L’homme est le chef de la femme (p. 35)
 
-Huitièmement : Comparativement à Christ et à l’Église — 36
+Huitièmement : Comparativement à Christ et à l’Église (p. 36)
 
-Neuvièmement : Le Ministère de la femme — 40
+Neuvièmement : Le Ministère de la femme (p. 40)
 
-Dixièmement : La médisance : un péché destructeur des foyers — 46
+Dixièmement : La médisance : un péché destructeur des foyers (p. 46)
 
-Onzièmement : La position des époux dans le foyer — 48
+Onzièmement : La position des époux dans le foyer (p. 48)
 
-Douzièmement : Le jugement des affaires dans le foyer — 49
+Douzièmement : Le jugement des affaires dans le foyer (p. 49)
 
-Conclusion de la Première Partie — 55
+Conclusion de la Première Partie (p. 55)
 
-Deuxième Partie : Impudicité et adultère — 59
+Deuxième Partie : Impudicité et adultère (p. 59)
 
-Treizièmement : Principe fondamental : Nouvelle Naissance — 60
+Treizièmement : Principe fondamental : Nouvelle Naissance (p. 60)
 
-Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! — 66
+Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ ! (p. 66)
 
-Quinzièmement : Qui est dans une position d’adultère ? — 71
+Quinzièmement : Qui est dans une position d’adultère ? (p. 71)
 
-Seizièmement : Que le lit conjugal soit exempt de souillure — 75
+Seizièmement : Que le lit conjugal soit exempt de souillure (p. 75)
 
-Conclusion de la Deuxième Partie — 81
+Conclusion de la Deuxième Partie (p. 81)
 
-Dix-septièmement : Comment un couple peut-il se mettre au service de Dieu ? — 85
+Dix-septièmement : Comment un couple peut-il se mettre au service de Dieu ? (p. 85)
 
-Conclusion finale — 94
+Conclusion finale (p. 94)
 
-## Introduction Générale
+## Introduction générale
 
 La pensée originelle de Dieu sur le mariage
 
@@ -414,9 +415,9 @@ Dans la loi, Dieu a restauré les relations sexuelles après le mariage comme au
 
 Puisque Dieu le créateur n’a pas pu apporter l’application de Sa doctrine en matière de mariage dans le monde, **Il a décidé de l’appliquer dans le Royaume de Dieu qui est en Christ. C’est pour cette raison qu’il existe un mariage chrétien**.
 
-## Première Partie : Le mariage dans le royaume de Dieu ou le mariage en Christ
+## Première partie : le mariage dans le royaume de Dieu ou le mariage en Christ
 
-### Premièrement : Procédure biblique des fiançailles
+### Premièrement : procédure biblique des fiançailles
 
 **Le Royaume de Dieu, c’est Christ et Christ est la Perfection**. Après la chute, Dieu a relevé l’homme en Christ et l’a placé non pas dans le monde, mais dans le Royaume de Dieu. Comme Jésus l’a dit :
 
@@ -530,7 +531,7 @@ L’exigence de Dieu dans le mariage, c’est **Sa volonté parfaite et non les 
 
 C’est ainsi. Sara aussi éprouva beaucoup d’amertumes avec sa servante. **Les alliances en dehors de la volonté de Dieu sont toutes des sujets d’amertume. Ésaü en se mariant hors de la maison de son père qui est la maison de Dieu est présenté comme un mauvais exemple. Il aurait dû se comporter comme son frère Jacob qui se maria dans la maison de son père Isaac, qui lui-même se maria dans la maison de son père Abraham. Les chrétiens doivent se marier dans la Maison de Dieu, en Christ et non dans le monde.**
 
-### Deuxièmement : Le Commandement fut donné à l’homme
+### Deuxièmement : le commandement fut donné à l’homme
 
 Le mariage d’Adam et Ève fut consacré lorsqu’ils commencèrent à se multiplier et à avoir une descendance, selon que le Seigneur l’avait annoncé en les bénissant à la création. Cependant, avant qu’ils ne commencent à procréer, avant même que la femme Ève ne soit manifestée dans la chair, Dieu donna le commandement à l’homme. Ceci est l’un des piliers qui fondent le mariage, savoir que le commandement fut donné à l’homme et non à la femme, ni même en sa présence. Voici ce commandement :
 
@@ -540,7 +541,7 @@ La femme n’a pas assisté à ce conseil de Dieu avec l’homme. Et c’était 
 
 **L’homme a reçu le commandement de Dieu, c’est pourquoi il sait à l’origine, comment gouverner sa maison.** Un homme, quel que soit ce qu’il est, se trouve en mesure de gouverner sa maison dès qu’il se marie, parce que c’est cela son destin. Dieu a donné pour cela, une onction au pasteur de la maison, à travers son commandement. C’est pourquoi l’homme est le premier pasteur de la femme. Il doit lui enseigner les voies de Dieu, afin qu’elle y marche pour apprendre à être soumise. N’est-ce pas la femme qui désobéit premièrement dans le jardin, en donnant accès au serpent qui avait en lui Satan ? C’est la femme qui n’avait pas reçu le commandement de Dieu qui fut désobéissante. C’est aussi pourquoi, le Seigneur n’a pas confié le Ministère de la Parole qui est le Ministère du commandement à la femme. Dieu juge de la même manière l’homme qui est désobéissant. Car Dieu ne peut confier Son œuvre à un homme, tant que ce dernier Lui est désobéissant. N’ayant donc pas assisté au conseil de Dieu, la femme ne doit pas prétendre à l’autorité, au contraire, elle doit se soumettre à l’homme qui conduit la maison comme le Seigneur le veut. Le commandement qui fut donné à l’homme au commencement, pour tout le monde entier, traduit son entière responsabilité sur tout le monde entier, sa domination sur toute chose, y compris sur la femme.
 
-### Troisièmement : La domination fut donnée à l’homme
+### Troisièmement : la domination fut donnée à l’homme
 
 > L’Éternel dit à la femme : tes désirs se porteront vers ton mari, mais il dominera sur toi (Gen 3 :15).
 
@@ -550,7 +551,7 @@ La femme n’a pas assisté à ce conseil de Dieu avec l’homme. Et c’était 
 
 **L’homme a été établi sur la femme et doit dominer sur elle dans tous les aspects de la vie du foyer.** Et c’est parce que le commandement qui est l’autorité, ainsi que la domination ont été confiés à l’homme, que Dieu exige que la femme lui soit soumise. Car là où il est exercé une autorité, l’on doit se soumettre. Or, l’homme exerce sa domination et son autorité premièrement dans sa maison, c’est pourquoi là précisément, la femme ou l’épouse doit se soumettre selon l’ordre du Seigneur.
 
-### Quatrièmement : La soumission fut donnée à la femme
+### Quatrièmement : la soumission fut donnée à la femme
 
 > Femmes, soyez soumises chacune à votre mari, comme il convient dans le Seigneur (Col 3 :18).
 
@@ -606,7 +607,7 @@ Ne vous leurrez pas, car c’est une femme soumise qui a du bon sens, car la sou
 
 **Nous avons fait le triste constat que les femmes mariées dans le Seigneur prient difficilement le Seigneur pour être soumises en toutes choses à leurs maris comme au Seigneur.** Nous exhortons les sœurs à le faire. La prière pour la soumission doit être une réalité dans la vie de la femme mariée, car la femme qui prie beaucoup est celle qui recherche la soumission par la prière. Quand la femme sera soumise, elle aura toutes les autres vertus recommandées dans les Saintes Écritures. **Mais une femme insoumise travaille avec le diable pour le diable.**
 
-### Cinquièmement : Femme insoumise : ouvrière avec le diable
+### Cinquièmement : femme insoumise : ouvrière avec le diable
 
 Une femme insoumise à son mari est sous l’influence constante du diable et des démons et est ouvrière avec eux pour détruire sa propre maison et l’église. Par contre, une femme soumise est sous l’influence de son mari et du Seigneur et est ouvrière avec le Seigneur pour répandre la bonne odeur de son témoignage. Car c’est vrai que :
 
@@ -672,7 +673,7 @@ Ananias retint avec le consentement de sa femme, une partie du prix du champ qu�
 
 En conclusion sur ce point, je vous conseillerai de ne presser ni de harceler votre mari pour l’obliger à faire ce qu’il n’a pas envie de faire, car en agissant ainsi, vous ouvrez la porte de votre maison au diable qui viendra y régner. Ce que nous disons ici concerne la femme insoumise. Lorsqu’une femme est soumise à son mari comme au Seigneur, elle lui est d’une aide précieuse. Il lui fait confiance et réclame même ses conseils.
 
-### Sixièmement : Le Seigneur n’admet pas les compromis
+### Sixièmement : le Seigneur n’admet pas les compromis
 
 Ceci est selon le Seigneur : **les compromis ne sont pas admis dans le foyer. Seule est valable la volonté de Dieu exprimée par l’homme qui est le chef de la maison**. Plusieurs prétendent donner des conseils en disant que l’homme et la femme doivent dialoguer pour trouver des compromis en vue de préserver la paix et la quiétude dans le foyer. Ceux qui parlent de cette manière, même s’ils sont des serviteurs de Dieu, parlent à la manière du monde émancipé. **Il n’est pas admis de dialogue pour des compromis dans la maison de Dieu ou dans le foyer. Un foyer n’est pas un parlement**. Pour les croyants, il n’en est pas ainsi, parce que ce ne sont pas les compromis qui préservent la paix dans le foyer, mais bien la soumission de la femme en toutes choses à son mari.
 
@@ -706,7 +707,7 @@ Celui qui vient à Christ se soumet à Sa volonté. **Pareillement, la femme qui
 
 L’autorité et la domination de Dieu s’exercent verticalement, c’est-à-dire du ciel sur la terre. **Dieu exerce son autorité sur le Christ. Le Christ exerce Son autorité sur l’homme, à qui Il a donné une commission dans le foyer et l’homme exerce son autorité sur la femme, qui exerce son autorité sur le reste de la maison** (enfants, serviteurs, servantes) (Eph 5 :22-33 ; Eph 6 :1-9). Dans l’exercice de cette autorité de Dieu, les uns sont placés sous la responsabilité des autres. De même que le Christ est le guide spirituel de tout Son Corps, ainsi, Il a donné l’intelligence et la sagesse à l’homme pour **conduire la vie spirituelle du foyer**. Seul l’homme a la conduite spirituelle du foyer. C’est pourquoi la femme qui s’oppose à l’autorité de Dieu en subira certainement les conséquences. **Les serviteurs de Dieu qui sont établis dans les églises sont là pour aider les hommes à conduire leurs foyers. C’est pourquoi les chefs de famille doivent avoir souvent recours à eux pour les aider à gouverner leur maison selon les Saintes Écritures**. Sur ce sujet, les serviteurs de Dieu doivent comprendre que les conseils sont donnés selon la Parole de Dieu et non selon leurs propres sentiments.
 
-### Septièmement : L’homme est le chef de la femme
+### Septièmement : l’homme est le chef de la femme
 
 L’homme est le chef de la femme, c’est pourquoi il domine sur elle. Mais la domination du mari ne doit être comme celle du méchant Nabal. **Parce que Nabal était un mauvais chef de famille. La domination de l’homme doit être comme celle du Seigneur sur l’Épouse – c’est-à-dire une domination avec un joug léger. La notion de chef ne doit pas être teintée seulement d’autorité et de commandement mais aussi de caresse et de douceur**. Le chef est l’être plus fort qui est l’homme, et sa compagne qui doit lui être soumise et marcher dans ses pas est la femme, qui est le sexe le plus faible (1 Pier 3 :7). Elle doit lui être soumise parce qu’elle est l’être faible qui est facilement influençable par l’ennemi. Cette position dans le cadre du combat spirituel est stratégique.
 
@@ -714,7 +715,7 @@ Nous avons fait le triste constat qu’il est difficile à une femme de se rendr
 
 Par contre, lorsque l’autorité de l’homme est contestée, cela entraîne des difficultés dans les foyers. **Et les femmes insoumises sont des femmes qui ne reconnaissent pas l’autorité de Dieu dans la vie de leurs maris. En conséquence, elles ne leur vouent aucun respect, ni aucune dignité. Continuellement, par leurs comportements déshonorants, elles ouvrent les portes de leurs maisons aux démons qui viennent y régner**.
 
-### Huitièmement : Comparativement à Christ et à l’Église
+### Huitièmement : comparativement à Christ et à l’Église
 
 > Ce mystère est grand ; je dis cela par rapport à Christ et à l’Église. (Eph 5 :32)
 
@@ -746,7 +747,7 @@ En effet, de même que l’Épouse a été appelée au repos en Christ, **ainsi 
 
 La femme doit considérer cette déclaration du Seigneur comme venant de son mari. L’Épouse a trouvé le Christ, elle a aussi trouvé le repos. De la même manière, la femme qui a trouvé un homme a également trouvé le repos. **Le repos ici n’est pas croiser les mains et les pieds, car Paul a écrit que la femme doit être adonnée aux soins domestiques (Tite 2 :5 ; 1 Tim 2:15). Mais il s’agit plutôt d’un repos dans lequel la femme ne se fait plus de soucis**. À ce sujet, le Seigneur a encore dit : « Qui de vous, par ses inquiétudes peut ajouter une seule coudée à la durée de sa vie ? » (Mat 6 :11). Dans le mariage, la femme ne se fait plus de soucis. Elle doit plutôt regarder à l’homme et au Seigneur car ce sont eux qui agiront pour elle. La femme doit se préoccuper seulement de comment plaire à son mari, car la femme qui plaît à son mari plaît aussi au Seigneur.
 
-### Neuvièmement : Le Ministère de la femme
+### Neuvièmement : le ministère de la femme
 
 La femme a un grand ministère dans le Corps du Christ. Mais ce glorieux ministère est le plus souvent ignoré des femmes. Elles ne savent pas ce qu’elles doivent faire dans l’Église et dans leurs foyers. Mais la Bible dit clairement ce que la femme doit faire dans l’Église et dans sa maison.
 
@@ -810,7 +811,7 @@ En conclusion, nous pouvons méditer cette parole de l’apôtre Pierre :
 
 Pierre dit que la femme n’a pas besoin de prêcher mais qu’elle peut gagner son mari incroyant par son attitude respectueuse, douce et paisible. Les apôtres avaient les mêmes enseignements au sujet de la place de la femme dans l’assemblée. C’est pourquoi nulle part, ils n’ont consacré de femmes dans les services de l’assemblée locale. Les nouvelles responsabilités de la femme dans les églises sont apparues avec les organisations religieuses humaines.
 
-### Dixièmement : La médisance : un péché destructeur des foyers
+### Dixièmement : la médisance : un péché destructeur des foyers
 
 > Dis que les femmes (âgées) doivent… n’être ni médisantes… (Tite 2 :1).
 
@@ -826,7 +827,7 @@ Une bonne femme se comporte comme Anne, la mère de Samuel qui disait son amertu
 
 Un conjoint doit expliquer aux serviteurs de Dieu le problème qu’il vit dans son foyer pour se faire aider. Ce n’est pas de la médisance. Mais le dire partout à des gens qui ne peuvent pas vous aider n’est pas biblique. C’est un péché. C’est exposer son conjoint. Il ne faut pas le faire.
 
-### Onzièmement : La position des époux dans le foyer
+### Onzièmement : la position des époux dans le foyer
 
 La position de la femme (1 cor 11)
 
@@ -838,7 +839,7 @@ La position de l’homme
 
 L’homme a aussi une position – celle de demeurer avec sa femme comme l’a dit le Seigneur aussi longtemps qu’elle consente à habiter avec lui. (Matth 5 :32). Que l’homme ne répudie pas sa femme. Il est encore dit : « **Es-tu lié à une femme, ne cherche pas à rompre ce lien** » (1 Cor 7 :27). C’est définitivement que l’homme s’attache à la femme qui consent à vivre avec lui. Il ne lui est pas permis de divorcer, sauf pour cause d’infidélité, selon la Parole du Seigneur. **Mais au lieu de divorcer, l’homme doit intercéder pour sa femme qui a des faiblesses ou des problèmes de soumission**.
 
-### Douzièmement : Le jugement des affaires dans le foyer
+### Douzièmement : le jugement des affaires dans le foyer
 
 Jugement entre les époux
 
@@ -904,7 +905,7 @@ Si les anciens de la communauté et les serviteurs de Dieu se rendent incapables
 
 Que les serviteurs de Dieu comprennent qu’ils ne doivent pas laisser le diable, notre ennemi commun, agir délibérément dans l’église sur les questions de mariage et divorce. Nous ne pouvons pas laisser ceux qui refusent de se soumettre à l’ordre divin agir en complicité avec le diable au milieu de nous. L’Église du Dieu vivant a le pouvoir de lier et de délier, c’est pourquoi son action est nécessaire au règlement des affaires en son sein. Ce que l’église ou la communauté décide sur terre est entériné au ciel conformément à la volonté de Dieu. Sur tous ces sujets précis, que les anciens de l’église jugent de tout selon l’Esprit pour retenir ce qui est bon. **En tout état de cause, lorsque les anciens de la communauté refusent de régler un problème de foyer, qu’ils s’attendent au châtiment de Dieu sur l’ensemble de la communauté**.
 
-### Conclusion de la Première Partie
+### Conclusion de la première partie
 
 Nous voulons conclure brièvement sur la première partie en mettant en exergue les idées essentielles à retenir. Je sais que le lecteur qui a lu jusqu’ici trouvera cette Parole assez dure comme les disciples du Seigneur l’avaient dit à l’époque dans Jean 6:60 : « **Cette Parole est dure, qui peut l’écouter** ? » Ce qu’il faut savoir ici, **c’est que cette Parole est dure à entendre, mais elle n’est pas difficile à pratiquer quand on l’a bien comprise**. Quand la femme a compris que la soumission en toutes choses à son mari est la clef de la réussite de son foyer, **elle ne vit plus la soumission comme une loi de son mari, mais plutôt comme une recommandation du Seigneur**. La soumission de la femme commence par sa bonne compréhension même de la notion de la soumission. **Tant que la femme ne comprend pas que la soumission est pour son propre bonheur spirituel et même social, elle ne peut pas s’y engager de manière sérieuse**.
 
@@ -938,9 +939,9 @@ Donc il est important d’avoir des objectifs spirituels dans le foyer. L’obje
 
 > Ne vous inquiétez donc point, et ne dites pas : **Que mangerons-nous ? Que boirons-nous ? de quoi serons-nous vêtus ? Car toutes ces choses, ce sont les païens qui les recherchent**. Votre Père céleste sait que vous en avez besoin. Cherchez premièrement le royaume et la justice de Dieu ; et toutes ces choses vous seront données par-dessus. Ne vous inquiétez donc pas du lendemain ; car le lendemain aura soin de lui-même. À chaque jour suffit sa peine. (Mat 6 :31-34)
 
-## Deuxième Partie : Impudicité et adultère
+## Deuxième partie : impudicité et adultère
 
-### Treizièmement : Principe fondamental : Nouvelle Naissance
+### Treizièmement : principe fondamental : nouvelle naissance
 
 Réveillez-vous dans l’Église et dans les foyers !
 
@@ -1036,7 +1037,7 @@ Il est aussi clairement écrit et je cite :
 
 Cette adresse était bien pour ceux qui se nommaient frères parmi les Éphésiens. C’est aussi pour nous tous dans le Royaume de Dieu. **Il y a des frères qui se sont attachés à des femmes après être venus à la foi. De tels frères doivent abandonner ces femmes, parce qu’il est interdit à un chrétien de se marier à une femme qui ne connaît pas Dieu**. Un homme qui a eu son âme régénérée par la Parole de Dieu ne peut pas vivre dans le mariage avec une femme non sanctifiée. Il est bon que cela soit très clair pour tous au moment où nous sommes parvenus au seuil de l’enlèvement. **Il n’y a pas d’enlèvement pour ceux qui vivent dans les relations impures du mariage**.
 
-### Quatorzièmement : Vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ !
+### Quatorzièmement : vous êtes séduits par Satan, l’adversaire de Dieu. Revenez en Christ !
 
 **Ceux que Satan a séduits croient qu’ils seront quand même sauvés en vivant dans les alliances impures, comme si Dieu était obligé de les sauver**. Ceux-là croient qu’ils font du mal à Dieu. Mais sachons tous que Dieu n’a pas besoin d’être sauvé. Sur ce point, Éliphaz de Théman a parlé à Job son ami :
 
@@ -1106,7 +1107,7 @@ Cette Parole doit s’accomplir en notre milieu. Ceux que la Bible appelle les c
 
 > Tu n’apporteras point dans la maison de l’Éternel, ton Dieu, **le salaire d’une prostituée ni le salaire d’un chien, pour l’accomplissement d’un vœu quelconque** ; car l’un et l’autre sont en abomination à l’Éternel, ton Dieu. (Deut 23 :18)
 
-### Quinzièmement : Qui est dans une position d’adultère ?
+### Quinzièmement : qui est dans une position d’adultère ?
 
 En même temps que cette question mérite d’être posée, il est bien que le peuple de Dieu comprenne que c’est avec beaucoup de délicatesse qu’une réponse biblique doit être apportée. Le Seigneur Jésus s’est entretenu avec ses disciples sur cette question. Il leur dit :
 
@@ -1210,7 +1211,7 @@ Cependant, la situation de non-retour ne dépend pas du mari mais de Dieu. C’e
 
 > **Qu’elle demeure sans se marier ou qu’elle se réconcilie avec son mari et que le mari ne répudie pas sa femme** (1 Cor 7 :10-11).
 
-### Seizièmement : Que le lit conjugal soit exempt de souillure… (Hébr 13 :4)
+### Seizièmement : que le lit conjugal soit exempt de souillure… (Hébr 13 :4)
 
 Cette déclaration de Paul est d’une importance particulière parce qu’elle est en rapport étroit avec le lit conjugal qui est sacré dans le mariage. **Le lit conjugal est l’élément sacré dans le mariage qui mérite d’être traité avec la plus grande attention**. En relation avec ce sujet sacré et fondamental se trouve un verset important dans 1 Corinthiens 7.
 
