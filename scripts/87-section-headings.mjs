@@ -47,7 +47,9 @@ const isHeading = (p) => /^#{1,4} /.test(p);
  */
 function headingOf(line, proposed) {
   // a line already a heading keeps its level
-  const level = line.match(/^(#{1,4}) /)?.[1] ?? proposed.match(/^(#{2,3}) /)?.[1];
+  // (the model proposes ## or ###; an editor's decision for a book with parts,
+  // chapters and sections may take ####, goal 18)
+  const level = line.match(/^(#{1,4}) /)?.[1] ?? proposed.match(/^(#{2,4}) /)?.[1];
   if (!isHeading(proposed)) return null;
   const from = [...plain(line)];
   const to = [...plain(proposed)].filter(alnum);
