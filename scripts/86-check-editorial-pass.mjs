@@ -194,6 +194,30 @@ const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet"
 const LISTS = ["tags", "persons", "places", "themes"];
 const yamlList = (k, v) => `${k}:\n${v.map((x) => `  - ${JSON.stringify(x)}`).join("\n")}`;
 
+// A private phone number or e-mail address (Samuel, batch 08: « we can
+// remove the phone number »): an address, with its label; a number after
+// « Tél. : » or « Cél. : », or an international one (« (+225) 07-00-… »),
+// whose parts, four digits at least each, are joined by « / » or « - », and
+// may run on to a later line that holds only numbers (« Tél. :
+// 0700000000 /⏎0500000000 »; not « / 1 Jean 2:15 », nor a page number).
+// 86 removes it itself: no fix, report or comment in the repository copies it.
+const NUMBER = String.raw`(?=(?:[ \t()+.\-]*\d){4})[\d(+][\d \t()+.\-]*\d`;
+const NUMBERS = String.raw`(?:${NUMBER})(?:[ \t]*[/\-][ \t]*(?:${NUMBER})|[ \t]*[/\-][ \t]*\n(?:[ \t]*\n)*[ \t]*(?=[\d \t()+./\-]*(?:\n|$))(?:${NUMBER}))*`;
+const LABEL = String.raw`\b(?:T[ée]l(?:[ée]phone)?|C[ée]l(?:lulaire)?|TÉL(?:ÉPHONE)?|CÉL)\.?[^\S\n]*:\s*`;
+const EMAIL = String.raw`(?:\b(?:[Ee]-?mail|E-MAIL)[^\S\n]*:\s*)?(?<![\p{L}\p{N}._%+-])[\p{L}\p{N}._%+-]+@[\p{L}\p{N}-]+(?:\.[\p{L}\p{N}-]+)+`;
+const PERSONAL = `${EMAIL}|${LABEL}${NUMBERS}|` + String.raw`\(\+\d{1,3}\)[ \t]*` + NUMBERS;
+// what a removal that missed part of one leaves: a label before a number, an « @ » in an address
+const PERSONAL_LEFT = new RegExp(`${LABEL}[\\d(+]|[\\p{L}\\p{N}._%+-]@[\\p{L}\\p{N}-]+\\.`, "u");
+// out of a text: a line that holds only that, with the blank line before
+// it; at a line's end, with the « / » or « - » that joins it to the line's
+// other words; elsewhere, alone
+const personalOut = (text) => {
+  let n = 0;
+  const out = [String.raw`(?:\n\n|^)[^\S\n]*(?:\*\*)?[^\S\n]*(?:${PERSONAL})[^\S\n]*[/\-]?(?:\*\*)?[^\S\n]*(?=\n|$)`, String.raw`[^\S\n]+[/–-][^\S\n]*(?:${PERSONAL})(?:[^\S\n]*[/\-])?(?=[^\S\n]*(?:\n|$))`, String.raw`[^\S\n]?(?:${PERSONAL})`]
+    .reduce((t, re) => t.replace(new RegExp(re, "gu"), () => { n++; return ""; }), text);
+  return [out, n];
+};
+
 // Words a transcript's header has besides the frontmatter's
 const HEADER_WORDS = "prêché prêchée prêchés prédication exhortation spéciale mois fin début article étude enseignement par le la les l un une à au aux du de des d en et frère fr sœur pasteur past lundi mardi mercredi jeudi vendredi samedi dimanche 1er er";
 
@@ -231,6 +255,8 @@ for (const md of batch) {
   for (const [f, g] of overlaps) r.unexplained.push(`editor's fixes overlap: « ${f.find} » and « ${g.find} »`);
   const placed = once.filter((f) => !overlaps.flat().includes(f)).sort((a, b) => at.get(b) - at.get(a));
   for (const f of placed) edited = edited.slice(0, at.get(f)) + f.replace + edited.slice(at.get(f) + f.find.length);
+  [edited, r.personal] = personalOut(edited);
+  if (PERSONAL_LEFT.test(edited)) r.unexplained.push("personal data only partly removed: a phone label before a number, or an e-mail address, is left");
   const sectioned = applyHeadings(edited, sections[md]);
   edited = sectioned.body;
   r.unexplained.push(...sectioned.refused);
@@ -315,10 +341,13 @@ for (const md of batch) {
     // a word processor's page footer, letter-spaced: « P a g e  | **1** »
     [/^[ \t*]*P a g e[ \t]*\|[ \t*]*\d{1,3}[ \t*]*$/gm, "print"],
     [/^\s*(\d{2}\/\d{2}\/\d{4}\s+MEVAR|\d{2}\/\d{2}\/\d{4}|MEVAR)\s*$/gm, "print"],
+    // personal data leaves the published text: its words leave the
+    // comparison (counted where the text loses them, r.personal)
+    [new RegExp(PERSONAL, "gu"), null],
   ];
   if (glyphs.size) furniture.push([new RegExp(`(?<=\\p{L})[${[...glyphs].join("")}](?=\\p{L})`, "gu"), "glyph"]);
   for (const [re, kind] of furniture)
-    compared = compared.replace(re, (m) => { r.counts[kind]++; return " ".repeat(m.length); });
+    compared = compared.replace(re, (m) => { if (kind) r.counts[kind]++; return " ".repeat(m.length); });
   let page = 0;
   compared = compared.replace(/^[#*_ ]*(\d{1,3})[*_ ]*$/gm, (m, n) => {
     if (Number(n) <= page || Number(n) > page + 2) return m;
@@ -577,7 +606,7 @@ for (const md of batch) {
   }
   r.promoted = !r.unexplained.length || promoted;
   rows.push(r);
-  console.log(`${md}: ${r.promoted ? "promoted" : "NOT promoted"} | typography ${r.counts.typography}, spacing ${r.counts.spacing}, page numbers ${r.counts.pageNumbers}, print ${r.counts.print}, glyphs ${r.counts.glyph}, non-word→word ${r.nonWord.length}, word→word ${r.word.length}, readings ${r.readings.length}, unexplained ${r.unexplained.length}`);
+  console.log(`${md}: ${r.promoted ? "promoted" : "NOT promoted"} | typography ${r.counts.typography}, spacing ${r.counts.spacing}, page numbers ${r.counts.pageNumbers}, print ${r.counts.print}, personal ${r.personal}, glyphs ${r.counts.glyph}, non-word→word ${r.nonWord.length}, word→word ${r.word.length}, readings ${r.readings.length}, unexplained ${r.unexplained.length}`);
 }
 await db.close();
 fs.writeFileSync(path.join(root, "manifests/onedrive.json"), JSON.stringify(manifest, null, 2));
@@ -587,6 +616,8 @@ const cell = (s) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
 const L = [`# Goal 10, batch ${batchId}: the check`, "", `Generated by \`scripts/86-check-editorial-pass.mjs ${batchId}\`.`, ""];
 L.push("## Per text", "", "| Text | Promoted | Typography | Spacing | Page numbers | Print furniture | Glyphs | Verse numbers bolded | Non-word → word | Word → word | Readings inserted | Unexplained |", "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |");
 for (const r of rows) L.push(`| \`${r.md.slice("markdown/".length)}\` | ${!r.promoted ? "**no**" : r.unexplained.length ? "yes (kept from an earlier run)" : "yes"} | ${r.counts.typography} | ${r.counts.spacing} | ${r.counts.pageNumbers} | ${r.counts.print} | ${r.counts.glyph} | ${r.counts.verseNumbers} | ${r.nonWord.length} | ${r.word.length} | ${r.readings.length} | ${r.unexplained.length} |`);
+if (rows.some((r) => r.personal))
+  L.push("", "## Personal data removed (Samuel, batch 08), not quoted here", "", "| Text | Phone numbers and e-mail addresses |", "| --- | --- |", ...rows.filter((r) => r.personal).map((r) => `| \`${r.md.slice("markdown/".length)}\` | ${r.personal} |`));
 for (const [head, key] of [["Substitutions: a non-word corrected to a word", "nonWord"], ["Substitutions: a word replaced by another word", "word"]]) {
   L.push("", `## ${head}`, "", "| Text | Before | After | Sentence (after) |", "| --- | --- | --- | --- |");
   for (const r of rows) for (const s of r[key]) L.push(`| \`${path.basename(r.md, ".md")}\` | ${cell(s.before)} | ${cell(s.after)} | ${cell(s.sentence)} |`);
