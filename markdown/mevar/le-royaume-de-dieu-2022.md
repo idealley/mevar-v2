@@ -484,7 +484,7 @@ Pour appréhender l’origine du Royaume de Dieu, il faut remonter au commenceme
 
 Comme il est écrit dans le livre de la Genèse, Dieu a créé toutes choses. Tout ce qui existe est objet de la Création de Dieu. En créant l’univers, les cieux et la terre, le Seigneur Dieu avait des desseins et une volonté à manifester. En lisant le récit de la Création, nous découvrons que le Seigneur a exprimé dès le début ses desseins à son égard. Il a créé l’homme à son image et lui a donné la domination sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, sur toute la terre. Ensuite il leur commanda d’être féconds, de se multiplier et remplir la terre pour l’assujettir. Il donna ensuite à manger à l’homme toute herbe portant de la semence qui est à la surface de la terre et tout arbre ayant en lui du fruit d’arbre et portant de la semence. Il a aussi donné à tout animal, aux oiseaux et à tout ce qui se meut sur la terre ayant un souffle de vie, l’herbe verte pour nourriture. Ce qu’il convient de remarquer, est que la parole que Dieu a prononcée sur sa création contient sa volonté parfaite. Sa volonté concernant l’homme a été nettement exprimée. Il a donné à l’homme une position et une mission.
 
-### 1- La position de l’homme dans la création
+#### 1- La position de l’homme dans la création
 
 Dieu a donné à l’homme une position centrale dans la Création. Il lui a donné la domination. Il dit : « Faisons l’homme à notre image, à notre ressemblance et qu’il domine sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail et sur toute la terre. » (ibid.) Cela a été clairement exprimé. L’homme dès la fondation du monde a reçu du Créateur de dominer sur toute la Création. C’est ce rôle qu’Adam et Ève ont joué au commencement. Tout leur était soumis. C’est même lui qui a donné des noms à tout ce qui a été créé.
 
@@ -494,7 +494,7 @@ Cette harmonie pouvait être observée dans les relations que Dieu a imposées e
 
 Ainsi il y avait une harmonie parfaite dans la Création. Le règne d’Adam était un règne de paix et de félicité. Tout était sous la bénédiction du Seigneur. Car après la Création, il a regardé et vu que tout était très bon et il a béni sa création. C’est Dieu lui-même qui a inspecté la Création et qui a vu que tout était très bon. Il n’y avait aucune trace d’impureté et de péché. Au commencement c’était l’harmonie et la paix.
 
-### 2- La mission que Dieu a assignée à l’homme
+#### 2- La mission que Dieu a assignée à l’homme
 
 La mission que le Seigneur a assignée à l’homme est contenue dans le commandement ou l’ordre qu’il lui donna dès le commencement :
 
@@ -514,7 +514,7 @@ Ainsi, pour que ses desseins soient accomplis conformément à la parole qu’il
 
 Le Seigneur, après inspection, a déclaré lui-même que tout était très bon. Dès la fondation du monde, notre Seigneur a préparé pour ses enfants qui devaient venir à l’existence, un monde, un Royaume où devaient régner l’harmonie, la paix, le bonheur et la félicité. Ce n’est pas dans ce Royaume que nous sommes présentement. Ce monde dans lequel nous sommes maintenant est le Royaume de Satan, le diable. Tout est à l’opposé de ce que Dieu a prévu pour ses enfants. C’est dire que ce monde n’est pas selon le dessein originel du Créateur. Pour comprendre la situation qui prévaut sur la terre actuellement et qui n’est pas conforme à la volonté parfaite de Dieu, examinons l’ordre de mission reçu par Adam et Ève.
 
-### 3- L’exécution de l’ordre de mission par Adam et Ève
+#### 3- L’exécution de l’ordre de mission par Adam et Ève
 
 Comme nous l’avons lu dans le livre de Genèse 1 à partir du verset 25, le Seigneur a donné à Adam et Ève l’ordre de multiplier et de remplir la terre. Pour que cela soit possible, il les a bénis en les rendant féconds. Ils avaient en eux la capacité de procréer. C’était la volonté de Dieu que par la procréation ils remplissent toute la terre. Mais cet ordre de mission a été accompli dans la douleur. C’est dans la douleur qu’Ève a enfanté tous ses enfants. Nous voyons déjà là que l’harmonie existante était brisée. Car la douleur et les pleurs étaient étrangers à l’harmonie et à la paix dans lesquelles baignait la Création :
 
@@ -538,7 +538,7 @@ Cela Ève le savait, puisqu’elle a répété au serpent la conséquence de la 
 
 Ici, l’apôtre Paul explique que c’est parce qu’elle a été séduite qu’elle a pu transgresser le commandement de Dieu. Il y a eu une puissante œuvre de séduction de la part du serpent sur la femme. Cette œuvre de séduction se situe à deux niveaux : spirituel et charnel.
 
-### 4- L’œuvre de séduction au niveau spirituel
+#### 4- L’œuvre de séduction au niveau spirituel
 
 Au niveau spirituel, c’est par la parole que le serpent a accompli son œuvre de séduction. La parole de Dieu est Esprit et Vie (Jean 6:63). Elle a la puissance et la capacité pour garder quiconque met sa foi en elle. Mais pour détruire la foi d’un homme dans la parole de Dieu, il suffit de l’amener à mettre sa foi dans une autre parole qui n’est pas de Dieu. C’est le travail que le diable opère dans la marche des enfants de Dieu pour les tuer. La parole de Dieu est Esprit et Vie mais la parole de séduction est péché et mort pour celui qui l’accepte.
 
@@ -548,7 +548,7 @@ Ici, la séduction du serpent par la parole sur la femme a consisté à lui pré
 **b- Vos yeux s’ouvriront** ;  
 **c- Vous serez comme des dieux**.
 
-### a- Vous ne mourrez point !
+#### a- Vous ne mourrez point !
 
 Cette déclaration du serpent à la femme vient carrément en opposition à la parole que le Seigneur a prononcée concernant le même sujet. Le Seigneur a dit sans ambiguïté : « car le jour où tu en mangeras, tu mourras. » Ève devait choisir entre ce que son Dieu avait dit ou continuer à écouter les propos du Serpent. Le péché ici, c’est que de manière consciente et délibérée, Ève a accordé du crédit au mensonge de Satan. Elle aurait dû, dès les premiers propos du serpent, le réfuter avec la parole de Dieu. « Dieu a dit que si nous mangeons, nous mourrons, je n’écoute plus tes mensonges. » Tels auraient dû être les propos d’Ève contre le serpent mais malheureusement elle a accepté ce premier gros mensonge. Dès lors, la suite était possible.
 
@@ -562,7 +562,7 @@ La chair ne se fie qu’à ses sens naturels et aux faits ou réalités circonst
 
 Nous pouvons ici affirmer que la raison de la chute de l’homme dans le jardin d’Éden est l’incrédulité.
 
-### b- Vos yeux s’ouvriront !
+#### b- Vos yeux s’ouvriront !
 
 Voilà une grande déclaration de Satan : vos yeux s’ouvriront ! La première analyse logique que nous pouvons faire face à cette parole, c’est qu’Adam et Ève étaient aveugles ! Ici le serpent affirme que les yeux d’Adam et Ève étaient fermés. Pourtant depuis le commencement, la Bible n’a pas relaté que les deux avaient une infirmité au niveau de la vue. Alors la question que l’on peut se poser est celle-ci : les yeux d’Adam et Ève étaient fermés sur quoi ? Qu’est-ce qu’ils devaient voir que la parole de Dieu empêchait de voir ? La réponse à ces questions nous aidera certainement à comprendre ce qui s’est passé ce jour-là.
 
@@ -608,7 +608,7 @@ La première conséquence de la désobéissance au commandement de Dieu pour l�
 
 > Il dit à l’homme : Puisque tu as écouté la voix de ta femme, et que tu as mangé de l’arbre au sujet duquel je t’avais donné cet ordre : Tu n’en mangeras point ! Le sol sera maudit à cause de toi. C’est à force de peine que tu en tireras ta nourriture tous les jours de ta vie, il te produira des épines et des ronces, et tu mangeras de l’herbe des champs. C’est à la sueur de ton visage que tu mangeras du pain, jusqu’à ce que tu retournes dans la terre, d’où tu as été pris ; car tu es poussière, et tu retourneras dans la poussière. (Genèse 3:17)
 
-### c- Vous serez comme des dieux !
+#### c- Vous serez comme des dieux !
 
 Ces propos du serpent : « vous serez comme des dieux », révèlent de manière profonde les desseins qu’il poursuit dans la Création de Dieu. En effet, proposer à l’homme la possibilité d’être comme Dieu, c’est l’amener à une position de rébellion devant le seul Dieu qui a créé la terre, les cieux et l’univers entier. En fait, Satan a fait là une œuvre de recrutement pour la rébellion qu’il a créée contre Dieu et Son Autorité. En effet, avant que le diable ne vienne tenter Adam et Ève dans le jardin, il y avait déjà un conflit ouvert entre lui et le Dieu créateur, car il a osé s’opposer à Dieu :
 
@@ -644,7 +644,7 @@ Avec la confusion du langage, les hommes ne formaient plus un seul peuple et ne 
 
 Depuis qu’il a réussi à arracher l’autorité et la domination à Adam, il poursuit un seul objectif : substituer au Royaume de Dieu, un monde différent complètement à l’opposé des desseins de Dieu. Pour cela, il utilise toute sa puissance de séduction pour faire de l’homme une créature sans Dieu. Être comme Dieu, c’est nier l’existence même de Dieu. Aujourd’hui, les hommes pour la plus grande majorité ne veulent rien avoir avec Dieu. Les plus audacieux cherchent en eux-mêmes une force vitale ou puissance mentale qui leur permettrait d’atteindre tous leurs objectifs. Ils se déclarent eux-mêmes dieux. Dès lors, chercher les voies du Seigneur pour se soumettre à lui est le dernier de leurs soucis. Même le reste des hommes voulant adorer le Seigneur sont égarés dans les différentes religions que Satan a mises en place pour les empêcher de trouver le chemin de la vraie adoration. Les hommes marchent ainsi en inimitié contre Dieu parce que dès le commencement, ils ont accepté le projet de société de Satan qui consiste à refuser toute dépendance à l’égard de Dieu.
 
-### 5- L’œuvre de séduction au niveau physique ou charnel
+#### 5- L’œuvre de séduction au niveau physique ou charnel
 
 La Bible dit que :
 
@@ -664,7 +664,7 @@ Pendant qu’il met ses pensées d’impuretés ou de désobéissances dans le c
 
 Après le commencement, c’est-à-dire après la chute de l’homme, sa vie a changé sur la terre. La domination et l’autorité que l’homme avait reçues de Dieu pour dominer et assujettir la Création sont passées entre les mains du diable. Désormais, ce n’est pas l’homme mais le diable qui gouverne le monde. De même que la nature de vie de l’homme a changé, le monde aussi dans sa conception originelle, tel que conçu par Dieu, a été dénaturé.
 
-### 1- La nature de la vie dans l’homme a changé
+#### 1- La nature de la vie dans l’homme a changé
 
 Pour mieux appréhender le Royaume de Dieu, il est nécessaire de comprendre que l’enjeu de tout ce qui s’est passé dans le jardin d’Éden et qui se poursuit jusqu’à aujourd’hui, se rapporte à la Vie. À l’origine, Dieu a créé Adam par sa parole pour qu’il vive. La vraie Vie dans son essence, selon l’Auteur de la Vie, est la vie éternelle qui est la vie de Dieu. Lorsqu’on parle de la Vie, en réalité il n’existe qu’une seule Vie, celle qui est de Dieu et qui est dénuée de toute trace de mort.
 
@@ -692,7 +692,7 @@ La semence du serpent doit s’appréhender strictement au plan spirituel. Il n�
 
 Par la puissance du péché Satan a vaincu Adam, c’est-à-dire l’humanité tout entière. Désormais il tient l’humanité et, par conséquent, toute la Création sous son pouvoir et sa domination. En résumé, après avoir consommé le péché, la vie de l’homme est devenue une vie de péché, une vie de déchéance spirituelle. Il a ainsi perdu sa position originelle pour devenir esclave de celui qui l’a vaincu c’est-à-dire Satan, le diable.
 
-### 2- Le monde de Satan
+#### 2- Le monde de Satan
 
 Le monde de Satan est un monde de péché. Ce monde est venu à l’existence par la puissance du péché. L’essence ou la racine de ce monde est le péché, c’est-à-dire la désobéissance à la parole de Dieu. Ce qu’il faut garder à l’esprit, c’est que ce monde dans lequel nous sommes présentement, est venu à l’existence quand le diable a usurpé l’autorité que Dieu a donnée à son fils Adam. Par la capitulation devant le péché, Adam et sa descendance en sont devenus esclaves.
 
@@ -738,7 +738,7 @@ En jugeant les acteurs du péché originel qui a entraîné la Création dans la
 
 > Il a plu à l’Éternel de le briser par la souffrance… Après avoir livré sa vie en sacrifice pour le péché, Il verra une postérité et prolongera ses jours ; Et l’œuvre de l’Éternel prospérera entre ses mains. (Ésaïe 53:10)
 
-### 1- L’œuvre de Golgotha, commencement de la restauration
+#### 1- L’œuvre de Golgotha, commencement de la restauration
 
 Le rétablissement du Royaume de Dieu et la restauration de toute la terre et de toute la Création, dans l’ordre originel divin, passe d’abord par la restauration de l’homme dans toutes ses dimensions. Le Seigneur Jésus-Christ, en venant sur la terre, est venu avec le Royaume de Dieu. Le Royaume de Dieu sur la terre commence avec le Seigneur Jésus-Christ et mieux encore, le Seigneur Jésus-Christ est le Royaume de Dieu :
 
@@ -762,7 +762,7 @@ L’Évangile que Paul a prêché trouve son fondement dans la mort de Jésus, S
 
 > Je vous rappelle, frères, **l’Évangile que je vous ai annoncé, que vous avez reçu**, dans lequel vous avez persévéré, et par lequel vous êtes sauvés, si vous le retenez tel que je vous l’ai annoncé ; autrement, vous auriez cru en vain. **Je vous ai enseigné avant tout, comme je l’avais aussi reçu**, **que Christ est mort pour nos péchés, selon les Écritures ; qu’il a été enseveli, et qu’il est ressuscité le troisième jour, selon les Écritures** ; et qu’il est apparu à Céphas, puis aux douze. Ensuite, il est apparu à plus de cinq cents frères à la fois, dont la plupart sont encore vivants, et dont quelques-uns sont morts. Ensuite, il est apparu à Jacques, puis à tous les apôtres. Après eux tous, il m’est aussi apparu à moi, comme à l’avorton. (1 Corinthiens 15:1-8)
 
-### a- Christ est mort pour nos péchés
+#### a- Christ est mort pour nos péchés
 
 La mort de Jésus est le châtiment qu’il a subi après son jugement et sa condamnation. Sa mort vient de ce qu’il a été jugé et condamné. C’est une mort qui a été annoncée dans les Écritures. Tout devait se dérouler selon ce qui était écrit le concernant. Selon les Écritures, il devait être jugé et condamné à la peine capitale : la mort. Le livre d’Ésaïe 53 décrit et explique dans les moindres détails les circonstances de la mort de Jésus.
 
@@ -780,7 +780,7 @@ La Bible témoigne qu’il n’a pas commis de violence : il n’y a pas eu de
 
 C’était l’heure des méchants, des hypocrites et de la puissance des ténèbres. C’était leur temps d’entrer en scène et de poser leurs mains sur le Fils de Dieu. Eux qui n’avaient aucun pouvoir sur Lui, recevaient maintenant l’ordre et l’autorisation d’agir à son encontre selon ce qui est écrit de Lui. Dès lors, la mort pouvait avoir accès à lui, car la puissance de la mort est le péché. À cause de nos péchés, la mort l’a frappé. Il est mort pour nos péchés.
 
-### b- Christ est ressuscité le troisième jour
+#### b- Christ est ressuscité le troisième jour
 
 > Dès lors, Jésus commença à faire connaître à ses disciples qu’il fallait qu’il allât à Jérusalem, qu’il souffrît beaucoup de la part des anciens, des principaux sacrificateurs et des scribes, qu’il fût mis à mort, et qu’il ressuscitât le troisième jour. (Matthieu 16:21)
 
@@ -1004,7 +1004,7 @@ La position idéale pour attendre l’enlèvement de l’Épouse ou des élus pr
 
 Les Fils du Royaume sont des hommes spirituels. Leur position est en Christ. Dans cette position, ils ont une mission à accomplir sur la terre pour leur Sauveur. En tant que témoins de la mort et de la résurrection du Christ, ils ont le devoir de rendre témoignage que Jésus est vivant. En tant que Fils du Royaume de Dieu, ils sont en guerre contre le monde de Satan et donc contre toutes les puissances des ténèbres. Ils forment sur la terre l’armée de Jésus pour détruire les œuvres du diable.
 
-### 1- Rendre témoignage de la mort et de la résurrection de Jésus
+#### 1- Rendre témoignage de la mort et de la résurrection de Jésus
 
 En tant que témoins de la mort et de la résurrection de Jésus, les fils du Royaume ont un devoir de témoignage. Ils doivent rendre témoignage que ce Jésus qui a été crucifié à Golgotha est ressuscité de manière effective. Ils doivent attester au monde qu’il est vivant et qu’il vit aux siècles des siècles. Témoigner c’est dire la stricte vérité au sujet d’une affaire. L’affaire en question concerne la mort et la résurrection de Jésus. Il y a évidemment deux parties en présence. D’un côté, il y a le Seigneur et ses partisans appelés disciples et de l’autre, le diable et ses acolytes. Chaque partie produit des témoins. L’enjeu, c’est le sort de l’humanité et de toute la Création :
 
@@ -1038,7 +1038,7 @@ Là où la lumière luit, ce sont les bonnes œuvres qui sont manifestées.
 
 En somme, le chrétien est un modèle de perfection pour tous les autres hommes. À cet effet, Paul dit : « Que personne ne méprise ta jeunesse ; mais sois un modèle pour les fidèles, en parole, en conduite, en charité, en foi, en pureté. » (1 Timothée 4:12) La vie que nous avons reçue de notre Maître et Sauveur nous commande d’être pour les autres des modèles dans nos paroles, dans nos actions, dans l’amour, dans la foi et dans la sainteté. Celui qui réussira à être un modèle dans ces cinq aspects essentiels de notre vocation, et de manière cumulative, sera un véritable témoin de Jésus-Christ. Cela est possible car celui qui nous a appelés est vivant et demeure en nous.
 
-### 2- Ils forment l’armée de Jésus-Christ sur la terre
+#### 2- Ils forment l’armée de Jésus-Christ sur la terre
 
 Le chrétien de par sa naissance est un homme spirituel. De ce fait, il est différent des autres hommes sur la terre car le statut « d’homme spirituel » lui confère des valeurs et des capacités. En tant qu’homme spirituel il doit vivre en esprit malgré l’enveloppe charnelle dans laquelle il habite. Le défi du chrétien c’est de pouvoir faire la distinction à chaque instant entre ce qui est charnel et ce qui est spirituel. La vie du Royaume est la vie de l’Esprit. Le disciple accompli est celui qui marche en Esprit, c’est-à-dire qui ramène toute chose en Esprit.
 
@@ -1052,7 +1052,7 @@ Le pouvoir de Satan sur les hommes, et par conséquent sur la Création, est le 
 
 Par son triomphe sur le péché et la mort, Jésus pouvait déclarer : « tout pouvoir m’a été donné non seulement dans le ciel mais également sur la terre » (Ibid.). Il est la postérité de la femme qui a écrasé la tête du serpent, c’est-à-dire sa puissance. Il est la postérité qui n’a jamais été soumise et ne sera jamais soumise à Satan. De Lui est née une postérité semblable à Lui et qui a pour vocation de ne point se soumettre à Satan et à son pouvoir c’est-à-dire le péché. L’armée de Jésus est issue de la postérité qu’Il a reçue en récompense après avoir donné sa vie en rançon pour le pardon des péchés.
 
-### a- Premier critère pour être enrôlé : refuser de se soumettre au péché
+#### a- Premier critère pour être enrôlé : refuser de se soumettre au péché
 
 Par essence le chrétien n’est pas soumis au péché. C’est ce qui le distingue des autres hommes. Il y a un rapport de force établi entre le chrétien et le péché. Ce rapport donne toujours le chrétien vainqueur sur le péché dans son principe. De par sa position, le chrétien est appelé à dominer sur le péché en toutes circonstances. Mais malheureusement il arrive, et cela très souvent, que celui-ci se laisse dominer par le péché qui est non seulement son ennemi mais également celui de tout homme.
 
@@ -1435,7 +1435,7 @@ Dans le Royaume de Dieu, on ne peut pas être déclaré juste sans que la loi de
 
 La nouvelle naissance c’est la naissance par l’Esprit de Dieu. Celui qui est né ainsi de l’Esprit de Dieu est esprit. En tant qu’esprit il a en lui des capacités et des vertus spirituelles. Les exigences de la loi du Royaume ne sont pas au-dessus des capacités ou vertus spirituelles qui sont en lui de par cette naissance. Les questions fondamentales qu’il faut se poser sont celles-ci : tous les chrétiens marchent-ils systématiquement par l’esprit ? Si la marche par l’esprit n’est pas systématique, alors comment parvenir à cette marche spirituelle ? Comment éliminer l’obstacle ou les obstacles à la marche par l’esprit ? Les réponses à ces différentes questions permettront non seulement de comprendre l’enjeu véritable, mais aussi de nous permettre, avec l’assistance du Saint-Esprit, de parvenir à une réelle compréhension de la pensée de Dieu et de sa volonté à l’égard de ses enfants.
 
-### a- La marche selon l’Esprit n’est pas systématique
+#### a- La marche selon l’Esprit n’est pas systématique
 
 La marche selon l’esprit n’est pas systématique dans la vie du croyant et l’obstacle principal est la chair appelée aussi le vieil homme, l’homme animal ou encore l’homme naturel. Le principal ennemi du chrétien n’est pas à l’extérieur de lui mais en lui. Le diable, les démons, le monde et autres intervenants associés sont des ennemis extérieurs que le chrétien se doit de combattre, mais son pire ennemi c’est lui-même. La première grande difficulté est de comprendre et d’accepter cette réalité. Plus haut, nous avons indiqué que, dans la première alliance, deux éléments étaient défaillants et ont été changés dans la Nouvelle Alliance : le sang et la nature de l’homme. Dans la Nouvelle Alliance nous recevons une vie dont la nature est divine. C’est la vie du Fils de Dieu, c’est la vie de Dieu, c’est la vie de l’Esprit. La vie charnelle est venue à la naissance par le péché. C’est la consommation du péché par Adam et Ève qui a manifesté la vie charnelle. C’est une vie de péché et de désobéissance. Elle est différente et opposée à la vie de l’Esprit.
 
@@ -1473,7 +1473,7 @@ Malheureusement, il arrive qu’on supplie des frères et souvent en vain, afin 
 
 La survie du vieil homme dans le Royaume de Dieu, est un scandale et une abomination. Tout comportement ou attitude charnel est un scandale dans le Royaume de Dieu. Tout mensonge, toute colère, toute injure dans l’Église est un scandale. Or le Seigneur a promis dans Matthieu 40:42, qu’il enverra ses anges arracher de son Royaume les scandales et ceux qui commettent l’iniquité à la fin du monde. **Avant cet avènement, il appartient à chaque chrétien de traiter le problème de son vieil homme, c’est-à-dire de la chair**.
 
-### b- Le dépouillement du vieil homme, seule solution pour obéir à la loi du Royaume
+#### b- Le dépouillement du vieil homme, seule solution pour obéir à la loi du Royaume
 
 Le dépouillement du vieil homme – ou la destruction de la chair – est l’un des sujets difficiles à cerner par le croyant. En vue de la victoire, tout croyant doit avoir une compréhension juste. Nous venons de voir que le vieil homme – ou la chair – a des œuvres. Les manifestations de ces œuvres attestent des problèmes spirituels du chrétien. Pour un chrétien, chaque manifestation de la chair révèle un problème spirituel c’est-à-dire une immaturité spirituelle. Comment alors traiter cette question du vieil homme ? Que dit la parole de Dieu à ce propos ?
 
@@ -1549,7 +1549,7 @@ Les principes du monde ne sont pas les principes du Royaume de Dieu. Appréhende
 
 Il y a beaucoup de principes qui se rattachent à la vie dans la communauté que les spécialistes en sciences sociales et politiques enseignent. Il y a même des principes secrets détenus par des maîtres qui les dispensent à leurs disciples par des cycles initiatiques. Il serait prétentieux d’en parler ici, mais ce qu’il faut retenir c’est que ce monde a des principes dans tous les domaines de la vie. Ceux qui parviennent à émerger et à prendre le pouvoir sur les autres et à les conduire dans une direction donnée, appliquent des principes de ce monde. Ce sont des leaders qui ont bâti leur leadership par l’application de ces principes. Pour comprendre le sujet des principes du Royaume de Dieu, il importe de regarder à un des principes de base sur lequel repose le fonctionnement de ce monde.
 
-### 1- Nous sommes dans un monde de compétition
+#### 1- Nous sommes dans un monde de compétition
 
 La compétition est un principe de base qui gouverne le monde dans lequel nous vivons. Elle est une réalité dans la vie de tous les hommes. Nous sommes en compétition les uns contre les autres. Les entreprises sont en compétition les unes contre les autres. Les nations sont également dans une grande compétition les unes contre les autres. La compétition est l’une des valeurs qu’on inculque à l’enfant dès ses premiers pas dans la vie. À l’école, il apprend et comprend qu’il y a toujours un premier et un dernier. Pour être premier il faut travailler, étudier. Ainsi, à toutes les étapes de la vie il y a des évaluations. Ce sont les résultats des évaluations qui déterminent les positions dans la société. Ceux qui montent toujours plus haut et qui atteignent leurs objectifs ne sont pas forcément les plus intelligents. Ce qu’ils ont de plus, c’est la maîtrise des règles du jeu. Ils ont l’intelligence des affaires du monde. Ils n’ont aucun état d’âme par rapport à la probité ou la moralité, ce qui compte c’est l’atteinte de l’objectif. Même si cela engendre beaucoup de victimes, on pourra soulager sa conscience plus tard par des œuvres sociales à travers des organisations non gouvernementales (ONG) ou des fondations qui portent leur nom.
 
@@ -1559,7 +1559,7 @@ C’est parce que les nations sont dans une compétition sans merci que la guerr
 
 > Jésus les appela, et dit : Vous savez que les chefs des nations les tyrannisent, et que les grands les asservissent. Il n’en sera pas de même au milieu de vous. Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur. (Matthieu 20:25-26)
 
-### 2- Les positionnements dans le Royaume de Dieu
+#### 2- Les positionnements dans le Royaume de Dieu
 
 Le Royaume de Dieu est le Royaume des fils de Dieu. Existe-t-il un ordre de positionnement de ceux-ci dans leur Royaume ? Un ordre hiérarchique existe-t-il entre les différentes positions ? Par quels principes ces positions sont-elles déterminées ? Quelles relations entretiennent-elles ? Les réponses à ces questions fondamentales par le concours des saintes Écritures nous permettront d’avancer dans la compréhension du sujet :
 
@@ -1583,7 +1583,7 @@ Après avoir manifesté de l’embarras en rapport avec la demande des frères, 
 
 Le Seigneur savait que les deux disciples allaient achever la course en gardant la foi et en le servant dans la fidélité. Ils allaient souffrir pour lui et mourir à cause de l’Évangile. En effet, l’apôtre Jacques est mort en martyr à cause de sa foi, et son frère Jean a souffert également jusqu’à ce qu’il soit déporté dans sa vieillesse sur l’île de Patmos à cause de la parole de Dieu. Cette condition n’était pas un obstacle pour Jean et Jacques, car l’amour qu’ils avaient pour le Seigneur était tel qu’ils haïssaient leur propre vie. Ce qui comptait pour eux c’était d’être le plus proche possible du Seigneur dans son Royaume. Ils en avaient fini avec le monde et tout ce que celui-ci pouvait offrir comme avantage ou gloire. Leur engagement de foi était sans faille. Mais le fait de « boire la coupe » ne donne à aucun fils de Dieu un avantage sur un autre fils de Dieu et donc ne peut être une raison pour solliciter une position.
 
-### 3- […] ne sera donné qu’à ceux à qui mon Père l’a réservé
+#### 3- […] ne sera donné qu’à ceux à qui mon Père l’a réservé
 
 La réponse du Seigneur à la demande des deux frères nous donne des informations capitales. D’abord la position d’un frère ou d’une sœur dans le Royaume ne dépend pas de Jésus-Christ de Nazareth en tant que Fils de Dieu. Pourtant il a dit aux disciples : « si vous demandez quelque chose en mon nom, je le ferai. » (Jean 14:14). Le fait de demander une position quelconque dans le Royaume de Dieu est exclu du champ d’exaucement de notre Seigneur et Sauveur Jésus-Christ. Cela est fondamental et lourd de conséquence. Toute position est pour celui à qui le Père l’a réservée. Personne ne pourra de quelque manière que ce soit ravir la position réservée à un autre.
 
@@ -1623,7 +1623,7 @@ L’indignation est un sentiment de colère mêlé de mépris qui résulte d’u
 
 Heureusement, le Seigneur étant présent et témoin des mauvais sentiments qui agitaient les cœurs, les a repris vivement et a recadré chacun selon l’ordre qui régit le Royaume de Dieu : « Jésus les appela, et dit : Vous savez que les chefs des nations les tyrannisent, et que les grands les asservissent. Il n’en sera pas de même au milieu de vous. » (Matthieu 20:25)
 
-### 4- […] Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur
+#### 4- […] Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur
 
 Dans le Royaume de Dieu il y a des grands. Être grand, c’est avoir une position élevée. C’est dire que les positions ne sont pas les mêmes. Il y a des positions plus élevées et des positions moins élevées. Ce qu’il faut comprendre, c’est que dans l’Église chacun a été appelé pour occuper une position dans le Ministère de Christ. Lorsque l’appelé occupe pleinement cette position en accomplissant les missions qui y sont rattachées, alors à la fin de la course, il pourra entrer dans la promesse faite par le Seigneur. En d’autres termes, il pourra occuper la position qui lui a été réservée par le Père bien avant la fondation du monde.
 
@@ -1641,7 +1641,7 @@ Beaucoup ont érigé dans l’Église leur propre Royaume et règnent sans parta
 
 Plusieurs enfants de Dieu sont ainsi liés par des chaînes de faux enseignements ou doctrines et sont à la merci de ces gourous qui les tyrannisent. Être « grand dans le monde » et être « grand dans le Royaume » de Dieu sont deux notions carrément opposées. C’est ce que le Seigneur a voulu montrer à ses disciples qui commençaient à emprunter la voie des hommes à ce moment-là. Être grand dans le Royaume de Dieu, c’est avoir une certaine maturité spirituelle pour se conformer aux règles et aux principes qui le régissent : celui qui est grand est serviteur des autres. Il doit pouvoir manifester les vertus qui caractérisent le serviteur : la soumission, l’obéissance, la douceur, la simplicité, l’humilité, le respect, la fidélité, la charité… Ce sont les vertus que notre Seigneur de Gloire, Jésus-Christ de Nazareth a manifestées, lui dont le nom est au-dessus de tout nom, lorsqu’il a pris la position de serviteur afin de nous sauver.
 
-### 5- […] et quiconque veut être le premier parmi vous, qu’il soit votre esclave
+#### 5- […] et quiconque veut être le premier parmi vous, qu’il soit votre esclave
 
 Le Seigneur montre dans cet enseignement qu’il y a deux positions élevées : la position de « grand » et celle de « premier ». Celui qui veut être grand parmi les frères doit accepter d’être serviteur des frères, par contre celui qui veut être le premier parmi les frères doit être l’esclave des frères. La position de premier est une position d’élévation extrême. Il peut y avoir plusieurs grands mais il y a un seul premier. Vouloir être premier, c’est accepter d’occuper la position d’esclave parmi les frères. Si être premier est de loin plus honorable qu’être grand, il faut reconnaître également que la condition d’esclave est pire que celle de serviteur. Il ne s’agit pas ici de prendre la position « d’esclave du Seigneur » mais celle d’esclave des frères. Être esclave du Seigneur est une position très honorable parce que c’est Lui le Grand Roi.
 
@@ -1655,7 +1655,7 @@ Tout ce qu’ils manifestent se trouve à l’opposé des principes du Royaume d
 
 > Après qu’il leur eut lavé les pieds, et qu’il eut pris ses vêtements, il se remit à table, et leur dit : Comprenez-vous ce que je vous ai fait ? Vous m’appelez Maître et Seigneur ; et vous dites bien, car je le suis. Si donc je vous ai lavé les pieds, moi, le Seigneur et le Maître, vous devez aussi vous laver les pieds les uns aux autres ; car je vous ai donné un exemple, afin que vous fassiez comme je vous ai fait. En vérité, en vérité, je vous le dis, le serviteur n’est pas plus grand que son seigneur, ni l’apôtre plus grand que celui qui l’a envoyé. Si vous savez ces choses, vous êtes heureux, pourvu que vous les pratiquiez. (Jean 13:12-17)
 
-### 6- L’organisation et le fonctionnement du Royaume : le principe du « corps de Christ »
+#### 6- L’organisation et le fonctionnement du Royaume : le principe du « corps de Christ »
 
 L’Église de Jésus-Christ est composée de l’ensemble des rachetés. Elle n’est pas seulement une entité physique, elle est aussi spirituelle. Les rachetés sont ceux qui ont expérimenté la nouvelle naissance par l’action de la parole de Dieu et de l’onction de l’Esprit de Dieu. L’Église est la manifestation du Royaume de Dieu sur la terre :
 
@@ -1713,7 +1713,7 @@ Dans le corps de Christ nous sommes non seulement liés les uns aux autres, mais
 
 Jésus est la tête du Corps. Nous lui appartenons en tant que membres. Il est bien vrai qu’il a été élevé à la perfection. Il attend maintenant, avec patience, que les membres qui sont à lui parviennent également à cette même perfection. Dans nos épreuves il nous soutient, dans nos faiblesses il nous supporte. Il travaille par son Esprit qui agit encore, à amener dans la glorification tout le Corps. L’enlèvement réalisera la réunion de tout le Corps avec la Tête. Ainsi de même qu’il est Un dans le Père, nous serons Un en lui.
 
-### 6- Principes sur les doctrines, prescriptions et organisations dans l’Église
+#### 6- Principes sur les doctrines, prescriptions et organisations dans l’Église
 
 > Or, le Seigneur c’est l’Esprit ; et là où est l’Esprit du Seigneur, là est la liberté. (2 Corinthiens 3:17)
 
@@ -1739,7 +1739,7 @@ Le principe fondamental, c’est qu’aucun enseignement ne doit aboutir à la n
 
 Certains serviteurs affirment que deux ou trois témoignages des saintes Écritures suffisent pour confirmer une vérité. Cela n’est pas vrai dans tous les cas. Deux ou trois exemples de faits bibliques suffisent pour attester la vérité écrite. Mais des exemples tirés de la Bible ne suffisent pas pour donner naissance à une vérité non écrite. Pour une meilleure compréhension, il est nécessaire d’examiner certaines fausses doctrines et leur mode de conception.
 
-### a- Le parler en langue – signe du baptême du Saint-Esprit
+#### a- Le parler en langue – signe du baptême du Saint-Esprit
 
 Beaucoup de chrétiens croient ceci : « le signe de l’évidence du Saint-Esprit est le parler en langues. » Celui qui expérimente au moins une fois le parler en langues a reçu le Saint-Esprit selon cette doctrine. C’est pour eux la certitude du baptême de l’Esprit. Cette manière de croire est totalement fausse, car cela n’est pas écrit dans la parole de Dieu. On ne trouve aucune écriture qui dise expressément que le fait de parler en langues est le signe que l’on a reçu le baptême du Saint-Esprit ou bien que lorsque l’on reçoit le baptême du Saint-Esprit on doit obligatoirement parler en langues. Cependant beaucoup d’exemples bibliques montrent que plusieurs de ceux qui étaient baptisés du Saint-Esprit parlaient en langues et prophétisaient :
 
@@ -1753,7 +1753,7 @@ Beaucoup de chrétiens croient ceci : « le signe de l’évidence du Saint-
 
 Dans le domaine de la révélation, il n’y a pas de déduction logique. L’interprétation des faits bibliques par la logique est dangereuse, elle peut être source de fabrication de vérités ou doctrines non écrites, donc fausses. Quand on impose ces fausses vérités ou doctrines à l’Église, le diable s’en réjouit et ouvre grandement la porte à toutes sortes d’esprits qui se manifestent dans la vie des croyants. Les fausses interprétations créent non seulement du désordre, mais ferment l’accès à la véritable lumière qui est la sainte doctrine.
 
-### b- Une assemblée par ville
+#### b- Une assemblée par ville
 
 Dans certains milieux chrétiens, les frères croient ceci : « dans une ville il ne doit y avoir qu’une seule église ou assemblée de chrétiens. » Selon cette assertion, les frères qui croient et qui marchent dans le même esprit doivent avoir, dans la même ville, un seul lieu de culte de manière obligatoire. C’est une « vérité » qui est enseignée et crue. Cependant, lorsque nous examinons les écrits de nos pères apostoliques qui ont rédigé le Nouveau Testament, aucun d’eux n’a fait une telle recommandation à l’Église. Cela n’est écrit nulle part. Si cela n’est pas écrit, c’est que cette doctrine a été fabriquée. Comment a-t-elle été fabriquée ? Par une mauvaise interprétation logique des faits bibliques :
 
@@ -1829,7 +1829,7 @@ Prêcher le Royaume de Dieu, c’est prêcher la vie. Entrer dans le Royaume de 
 
 Ce monde comme il a été dit plus haut, est venu à l’existence par le péché. C’est le péché qui l’a manifesté avec l’apparition de la mort dans la Création. Au commencement c’était la vie et non la mort. Pour comprendre le fondement de ce monde et son avenir, il faut retourner au commencement. De même, la compréhension de l’œuvre du Seigneur sur la terre exige un retour aux desseins originels de Dieu. Alors, si le Royaume de Dieu est caractérisé par la vie, quelle est l’origine de cette vie ? Qu’est-ce que cette vie ? Quelle est sa nature et ses caractéristiques ?
 
-### 1- La terre dans la création
+#### 1- La terre dans la création
 
 Au commencement était la Parole. La Parole était avec Dieu et la Parole était Dieu comme il est écrit. Par la Parole toutes choses ont été créées. Lorsque la Bible parle de commencement, cela indique l’instant de départ de la réalisation du projet de Dieu. Le commencement marque également le début du temps. Sinon, Dieu est Éternel et s’est révélé à l’homme en se présentant sous son nom : Éternel Dieu. Dès la Genèse, il est désigné sous ce nom : Éternel Dieu. Ce qui est éternel est hors du temps et n’a pas de commencement.
 
@@ -1957,7 +1957,7 @@ Les chrétiens ont une mission divine : manifester sur terre les bonnes œuvres
 
 Considérons que le cœur de l’homme est représenté dans la fig. 1 : la parole de Dieu est reçue dans le cœur, dans la Parole se trouve la vie, cette vie est la lumière des hommes. Ainsi, le cœur du chrétien contient la Parole, la vie et la lumière. Celui qui reçoit le Fils de Dieu reçoit la vie et cette vie est la lumière. Cette lumière luit à l’extérieur par les bonnes œuvres. Le cœur qui contient la Parole, la vie et la lumière doit manifester des bonnes œuvres à l’extérieur. Les hommes ne peuvent voir dans le cœur du chrétien mais ce sont les bonnes œuvres qu’ils voient. Par conséquent les hommes sont éclairés par les bonnes œuvres du chrétien. C’est ce que le Seigneur exprime ainsi : « que votre lumière luise ainsi devant les hommes, afin qu’ils voient vos bonnes œuvres, et qu’ils glorifient votre Père qui est dans les cieux. » (Matthieu 5:16) La lumière luit à l’extérieur par les bonnes œuvres. Les bonnes œuvres ne doivent pas demeurer seulement au niveau des intentions ou des résolutions du cœur, mais elles doivent être manifestées en actes. Le témoignage des chrétiens édifie les hommes du monde par les actes produits.
 
-### 2- La justification par les œuvres de la foi
+#### 2- La justification par les œuvres de la foi
 
 La question que l’on peut se poser est celle-ci : que sont les « bonnes œuvres » dont parle la Bible ? Une partie de la réponse à cette question se trouve dans l’épître aux Éphésiens :
 
@@ -2059,7 +2059,7 @@ Les officiels juifs, au plan politique, social et religieux ne pouvaient pas rec
 
 Cependant le peuple allait après lui et croyait qu’il était le fils de David, la délivrance d’Israël. Cette reconnaissance populaire du peuple comportait un enjeu terrible aux yeux de tous les officiels juifs : la destruction de la nation par l’armée romaine qui avait des garnisons à Jérusalem. Cependant, Jésus ignorant les préoccupations des officiels, parlait d’un autre Royaume : le Royaume de Dieu. Il annonçait le Royaume de Dieu et en expliquait les mystères à ses disciples. Les officiels religieux et politiques de la Judée ne percevaient pas son discours. Pendant qu’ils faisaient allusion au Royaume d’Israël, lui, parlait d’un autre Royaume. Il a répondu à Pilate : « Mon Royaume n’est pas de ce monde. » On pourrait se demander alors quel est le lien entre le Royaume d’Israël et le Royaume de Dieu ?
 
-### 1- Le Royaume d’Israël
+#### 1- Le Royaume d’Israël
 
 L’histoire du Royaume d’Israël est dans la Bible. De tous les Royaumes qui ont existé sur la terre, c’est le seul dont l’histoire complète a été préservée. Les détails des évènements qui ont jalonné son existence ont été écrits dans plusieurs documents ou livres par des auteurs différents. L’authenticité de leurs écrits est garantie par l’Esprit de Dieu qui a animé lesdits auteurs. En effet, ceux-ci ne sont pas de simples narrateurs mais des hommes pour la plupart oints par l’Esprit de Dieu. Ce sont des prophètes, des sacrificateurs et des scribes au service de Dieu.
 
@@ -2167,7 +2167,7 @@ Plus tard, Néhémie fut établi comme gouverneur sur la Judée par le roi Artax
 
 Malgré cela, le peuple, ses chefs et ses conducteurs religieux attendaient la délivrance d’Israël, car les prophètes qui avaient annoncé la destruction du Royaume d’Israël avaient aussi prédit l’avènement d’un libérateur qui rétablirait le trône de David.
 
-### 2- L’avènement du Messie et le rétablissement du trône de David
+#### 2- L’avènement du Messie et le rétablissement du trône de David
 
 L’avènement du Messie et le rétablissement du trône de David sont annoncés par plusieurs prophéties dans la Bible. Au temps de Jésus, les Juifs attendaient l’accomplissement de ces prophéties. Ils s’attendaient donc au rétablissement du Royaume d’Israël avec la montée sur le trône du Fils de David. Le Christ appelé Messie, tel qu’annoncé par toutes les prophéties, est identifié au Fils de David :
 
@@ -2207,7 +2207,7 @@ Il est venu comme un simple homme pour s’identifier à l’humanité comme un 
 
 Il était le prophète attendu par Israël.
 
-### 3- Jésus le Christ, le Fils du Dieu vivant : Roi d’Israël
+#### 3- Jésus le Christ, le Fils du Dieu vivant : Roi d’Israël
 
 Par une révélation directe du Ciel, Pierre dit : « Tu es le Christ, le Fils du Dieu vivant. » Ainsi, le Ciel témoigne que Jésus est le Christ, le Fils du Dieu vivant. Jésus, Fils du Dieu Vivant, exprime la divinité de Jésus. Dans cette position de Fils du Dieu vivant, Jésus est le Seigneur, c’est-à-dire le Dieu vivant. C’était là, la pierre d’achoppement pour les officiels juifs. Pourtant, toutes les prophéties définissent clairement l’identité de celui qui était annoncé à Israël. Pour connaître l’identité du Messie, il faut remonter dans les prophéties qui l’annoncent. Ainsi dans Ésaïe, il est dit voici votre Dieu :
 
@@ -2269,7 +2269,7 @@ Ainsi, comme il y a un seul Dieu, il y aura également un seul peuple de Dieu et
 
 Jésus-Christ est le Roi du Royaume de Dieu appelé aussi le Royaume des Cieux. Il n’y a pas deux trônes. Il y a un seul Trône. Le trône du Roi des rois et Seigneur des seigneurs. Comme expliqué plus haut, le trône temporaire et physique sur lequel s’asseyait David dans son règne n’est qu’une image ou symbole du Vrai Trône de Dieu qui doit régner sur toutes les nations et toute la Création.
 
-### 4- La guerre pour le règne du Christ
+#### 4- La guerre pour le règne du Christ
 
 Aujourd’hui, Jésus-Christ le Roi aspire à entrer dans son règne car son règne n’est pas encore établi. Le diable, par le mensonge et la séduction du péché, a pris en otage la Création. Les nations voire toute la Création sont dans la servitude du diable. Pour que notre Seigneur et souverain Maître prenne possession de son règne, il faut qu’Il parvienne à dégager le diable et son pouvoir. C’est la guerre. La guerre pour le règne de Jésus est en cours. Les Fils du Royaume de Dieu sont concernés par cette guerre.
 
@@ -2327,7 +2327,7 @@ Après son action dans les nations, le Fils mâle, c’est-à-dire la troupe des
 
 > Et il y eut guerre dans le ciel. Michel et ses anges combattirent contre le dragon. Et le dragon et ses anges combattirent, mais ils ne furent pas les plus forts, et leur place ne fut plus trouvée dans le ciel. Et il fut précipité, le grand dragon, le serpent ancien, appelé le diable et Satan, celui qui séduit toute la terre, il fut précipité sur la terre, et ses anges furent précipités avec lui. Et j’entendis dans le ciel une voix forte qui disait : **Maintenant le salut est arrivé, et la puissance, et le règne de notre Dieu, et l’autorité de son Christ ; car il a été précipité, l’accusateur de nos frères, celui qui les accusait devant notre Dieu jour et nuit**. Ils l’ont vaincu à cause du sang de l’agneau et à cause de la parole de leur témoignage, et ils n’ont pas aimé leur vie jusqu’à craindre la mort. C’est pourquoi réjouissez-vous, cieux, et vous qui habitez dans les cieux. (Apocalypse 12:7-12)
 
-### 5- Le règne de mille ans de Jésus le Roi
+#### 5- Le règne de mille ans de Jésus le Roi
 
 Après les différents jugements et fléaux sur la terre, le Seigneur combattra avec les armées des cieux, jusqu’à la proclamation de la victoire sur la bête et le faux prophète. L’adversaire de Dieu sera saisi et lié pour mille ans :
 

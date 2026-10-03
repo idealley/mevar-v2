@@ -1097,9 +1097,9 @@ Dans cet exposé, j’apporte à l’ensemble des saints, ma petite expérience 
 
 -1-
 
-## L’appel
+### L’appel
 
-### Qu’est-ce que c’est que l’appel ?
+#### Qu’est-ce que c’est que l’appel ?
 
 Tout part de l’appel, car, il ne peut avoir d’exercice de ministère sans appel. C’est pourquoi, tous ceux qui travaillent dans la maison de Dieu disent avoir reçu de lui un appel. Mais qu’est-ce que c’est qu’un appel ? L’appel est le choix de Dieu. Et celui qui est appelé est un homme choisi par Dieu. Qui est appelé ? Selon les Écritures, il existe deux types d’appel et deux catégories d’appelés : l’appel au salut et l’appel au ministère. À ce sujet, plusieurs versets bibliques rendent témoignage. En ce qui concerne l’appel au salut, il est dit :
 
@@ -1111,11 +1111,11 @@ Paul, parlant aux Thessaloniciens, les exhorte en ces termes :
 
 Cet appel à prendre part au Royaume de Dieu a retenti dans le fameux et puissant verset de Jean 3.16. Là, il est dit : « Car, Dieu a tant aimé le monde qu’il a donné son Fils unique afin que quiconque croit en lui ne périsse point mais qu’il ait la vie éternelle. » L’appel de Dieu adressé à tous est donc pour le salut de quiconque croit. À ce sujet, Paul dit encore dans Romains 11.29 que : « les dons gratuits et l’appel de Dieu sont irrévocables. » Il est clair qu’il existe un appel lié au salut de quiconque croit. Mais ce qu’on considère comme un appel au ministère est traité en arrière-plan, après avoir premièrement répondu à l’appel au salut de Dieu. Car, un appel induit un autre. L’appel au salut comporte plusieurs étapes, tel que c’est relaté dans Romains 8.28-30 : « Nous savons, du reste, que toutes choses concourent au bien de ceux qui aiment Dieu ; de ceux qui sont appelés selon son dessein. Car, ceux qu’il a connus d’avance, il les a aussi prédestinés à être semblables à l’image de son Fils, … Et ceux qu’il a prédestinés, il les a aussi appelés ; et ceux qu’il a appelés, il les a aussi justifiés ; et ceux qu’il a justifiés, il les a aussi glorifiés. »
 
-### Pourquoi l’appel est-il possible ?
+#### Pourquoi l’appel est-il possible ?
 
 L’appel est possible à cause de la grâce de Dieu manifestée en Jésus-Christ, comme il est écrit : « Car, c’est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous. C’est le don de Dieu » (Éph 2.8). Tite dit encore : « Car, la grâce de Dieu, source de salut pour tous les hommes a été manifestée » (Tit 2.11). Seule la grâce de Dieu est source de salut. Seule la grâce de Dieu a rendu possible l’appel au salut par Jésus-Christ. C’est pourquoi, en dehors de la grâce, l’appel au salut n’est point possible et sans l’appel au salut, il n’est pas non plus question d’appel au ministère, car, les ministères s’exercent pour le salut des âmes qui ont répondu à l’appel de Dieu.
 
-### Répondre à l’appel de Dieu
+#### Répondre à l’appel de Dieu
 
 Étant donné que la grâce a pleinement manifesté le salut des hommes en Jésus-Christ, il est important que chaque homme réponde à l’appel de Dieu qui retentit à travers cette grâce. L’homme doit répondre positivement à cet appel.
 
@@ -1143,7 +1143,7 @@ Dans le Nouveau Testament, notamment dans Matthieu 12.38-40, et 16.1, Jésus par
 
 Celui qui est appelé au ministère doit s’assurer qu’il est effectivement mort et ressuscité pour le Christ avant d’entreprendre l’œuvre pour laquelle il a été appelé.
 
-### Exemples d’appels au ministère
+#### Exemples d’appels au ministère
 
 Au sujet des ministères, je dois dire qu’il existe différents types d’appels, parce qu’il existe aussi plusieurs catégories de serviteurs de Dieu. Certes, tous les Ministres de la Parole sont appelés, mais il existe des appels particuliers. Cela se voit à travers les Saintes Écritures. Jésus a choisi douze apôtres, mais parmi eux, il a fait un choix sur la personne de Pierre à qui il a dit : « Pais mes agneaux. » Plusieurs Ministres de la Parole sont présentés dans les Actes des apôtres, notamment Silas, Agabus, Apollos, Jude, Barnabas, Tite, Tychique, Zénas et autre. Mais la Bible parle particulièrement de l’appel de Paul (Actes 9). La Bible parle aussi de l’appel de Timothée par prophétie. Ces frères ont reçu des appels particuliers. L’appel détermine l’œuvre à accomplir. Lorsque l’appel est retentissant, l’œuvre à accomplir est souvent importante. Ésaïe reçut un appel particulier dans une vision (Ésaïe 5). Jérémie fut destiné à être prophète depuis le sein de sa mère :
 
@@ -1215,7 +1215,7 @@ Les Saintes Écritures parlent en partie de l’appel de Timothée, l’un des c
 
 C’est en ces termes qu’il est rendu témoignage de l’appel de Timothée. C’est une prophétie qui donna les termes exacts de l’appel de Timothée. La Bible ne donne pas le contenu détaillé du ministère de Timothée, mais elle parle néanmoins de l’œuvre de Timothée. Plusieurs ont servi le Seigneur dans Actes des apôtres et dans les épîtres, mais aucune information n’est donnée sur leur appel. Cependant, il est évident qu’ils ont tous été appelés au ministère quand on considère l’œuvre qu’ils ont accomplie. Ce sont entre autres : Apollos, Tite, Tychique, Zénas, Silas, Jude, Épaphras, etc.
 
-### L’ordination dans le ministère
+#### L’ordination dans le ministère
 
 Ordination provient du verbe ordonner, qui veut dire donner des ordres. Ainsi, ordonner un disciple dans le ministère, c’est lui dire ce pour lequel il a été appelé au ministère. L’ordination qui est l’ordre de mission a lieu au moment de l’appel. Des exemples se trouvent avec les différents appels que j’ai relatés plus haut. Toutefois, au cours de l’exercice du ministère, le Seigneur peut modifier l’ordre de mission adressé à l’origine.
 
@@ -1247,9 +1247,9 @@ Quand Élie devrait être enlevé, son manteau passa aux mains de son serviteur 
 
 -2-
 
-## L’exercice du ministère
+### L’exercice du ministère
 
-### Qu’est-ce que c’est que l’œuvre de Dieu ?
+#### Qu’est-ce que c’est que l’œuvre de Dieu ?
 
 La réponse à cette question est étroitement liée à l’appel au salut. En effet, cette question fut posée au Seigneur lui-même par les foules : « Que devrons-nous faire pour faire les œuvres de Dieu ? » (Jn 6 :28). Jésus leur répondit en ces termes :
 
@@ -1265,7 +1265,7 @@ Il est évident que c’est le Père qui était dans le Fils qui accomplissait l
 
 Ainsi, ce n’est donc pas l’homme qui entreprend l’œuvre de Dieu, mais c’est plutôt Dieu qui accomplit son œuvre à travers l’homme. C’est pourquoi celui qui n’est pas dans la maison de Dieu ne peut y travailler. Car, l’œuvre de Dieu, c’est premièrement croire en Jésus-Christ.
 
-### Qu’est-ce que c’est que le ministère ?
+#### Qu’est-ce que c’est que le ministère ?
 
 Le ministère, c’est le service divin – c’est la vie de Jésus. Dans la maison de Dieu, il y a plusieurs services et ministères. Et chaque ministère est commandé par le Seigneur lui-même. Dans les Saintes Écritures, il est parlé de deux grands ministères : le ministère d’Aaron et le ministère de Jésus. Le ministère de l’ancienne alliance et celui de la nouvelle alliance. Le ministère de la loi et le ministère de la grâce. Le ministère de la mort et le ministère de la vie. Le ministère de la lettre et le ministère de l’Esprit. Le deuxième a remplacé le premier qui était imparfait comme c’est écrit dans hébreu 7.11 :
 
@@ -1317,11 +1317,11 @@ Les cinq Ministères de la Parole furent manifestés par le Seigneur Jésus lui-
 
 Que celui qui a été établi docteur des Saintes Écritures sache qu’il connaît en partie comme le reconnaît Paul lui-même, qui se présentait comme docteur des païens. Tout ce que nous faisons pour le Christ en tant que serviteurs de Dieu, Ministres de la Parole, est fait en partie, mais la plénitude est le Christ lui-même. C’est pourquoi, il dit que nous sommes des serviteurs inutiles.
 
-### La formation spirituelle et l’exercice du ministère
+#### La formation spirituelle et l’exercice du ministère
 
 L’exercice du ministère est entièrement lié à la formation du serviteur de Dieu. En effet, il n’existe pas de Ministre de la Parole qui ne subisse de formation spirituelle avant d’être employé dans le champ de Dieu. Tout serviteur de Dieu est éprouvé avant d’être utilisé dans le service. Et Dieu forme ses serviteurs en fonction du travail qu’il leur confie et surtout en fonction du résultat qu’il veut atteindre avec eux. Dans l’histoire des serviteurs de Dieu, la Bible donne des témoignages édifiants sur plusieurs d’entre eux. En première ligne se trouve Moïse, lequel fit l’école du désert qui dura 40 ans. Durant toutes ces années, Moïse vécut la solitude parce qu’il apprit que le Pharaon voulait le tuer. Son exemple nous enseigne quelques points de formation spirituelle, notamment : l’échec – l’éloignement – l’apprentissage – la révélation – l’assurance.
 
-### L’échec et l’éloignement
+#### L’échec et l’éloignement
 
 Le serviteur de Dieu qui a connaissance de son ministère échoue lorsqu’il s’engage dans le ministère avec ses propres capacités.
 
@@ -1359,13 +1359,13 @@ David vécut l’éloignement. Il fut chassé de son trône par son fils Absalom
 
 David fuit devant son fils. Il fut éloigné du peuple et de son armée. Il fut éloigné de Jérusalem. Ce fut dans cette détresse que David connut davantage le Seigneur, son Dieu. Les épreuves de David et les secours de l’Éternel maintes fois expérimentés se trouvent dans les Psaumes. Là, on découvre que les inspirations profondes de David proviennent de ses multiples épreuves vis-à-vis de Saül, d’Absalom et de son péché d’adultère dénoncé par le prophète Nathan.
 
-### L’apprentissage et l’assurance
+#### L’apprentissage et l’assurance
 
 Dans l’étape de l’apprentissage, l’instrument qu’est le serviteur de Dieu apprend à nouveau à connaître Dieu, non plus seulement comme son sauveur, mais comme son Seigneur et son Maître, Celui à qui il doit obéir pleinement et entièrement, sans douter d’aucune manière. Celui qui doit l’envoyer avant qu’il ne parte. Dans cette étape, l’homme de Dieu apprend à avoir confiance dans les capacités de Dieu et dans sa volonté de sauver les hommes par tous les moyens. Tout ce travail se fait dans le cœur du serviteur de Dieu. C’est un travail intérieur qui est vécu dans la solitude spirituelle. Nul ne s’en aperçoit en dehors du concerné lui-même. C’est là qu’on acquiert de nouvelles vertus et de nouvelles qualités pour le service de Dieu. C’est aussi là que l’homme de Dieu reçoit de nouvelles armes pour le combat spirituel. Dans le cas de Moïse, il découvrit Dieu derrière les troupeaux de son beau-père. Il acquit les qualités d’un pasteur, sans peut-être s’en rendre compte. Il acquit aussi la patience envers les brebis. Il fallait ces vertus à Moïse avant de se trouver devant le difficile peuple d’Israël. Durant l’éloignement, Moïse perdit les habitudes égyptiennes parce qu’il fit quarante ans hors d’Égypte. Il était devenu inoffensif. C’est ainsi. Dieu triomphe toujours de ses instruments. Il triompha de Moïse.
 
 Le désert était une vie difficile. Mais Moïse y passa 40 ans parce que Dieu envisageait l’utiliser pour conduire tout le peuple d’Israël pendant 40 ans. Pour permettre à Moïse de tenir ferme pendant les 40 ans, Dieu permit qu’il soit le premier parmi les Israélites à passer par le désert. Ceci est vrai. C’est pourquoi, la vie des hommes de Dieu est difficile. Ils passent toujours le chemin avant les autres. Surtout ceux d’entre eux qui ont de grandes responsabilités dans le ministère. À la fin de l’épreuve du désert, l’instrument de Dieu reçoit de l’assurance auprès du Seigneur. Il lui assure son total soutien autant que le serviteur peut compter sur le Maître. En ce qui concerne Moïse, il rencontra Dieu dans le buisson ardent, lequel dialogua avec lui sur sa mission. Au terme de l’entretien, Moïse ne pouvait qu’avoir de l’assurance en Dieu. Mais tout ce temps, il ne réalisa peut-être pas que Dieu était avec lui et qu’il était à l’origine de la vie qu’il menait dans le désert pendant toutes ces années. Dieu donne de l’assurance par la révélation à celui qui lui fait entièrement confiance.
 
-### Du dedans au dehors
+#### Du dedans au dehors
 
 Chers frères Ministres de la Parole, instruments au service de Dieu, sachez que l’appel au ministère ne suffit pas. Pas plus que ne suffisent la manifestation des dons et de la prédication. Il est une chose qu’on ne doit jamais omettre : c’est que le ministère en réalité est la vie de Jésus en nous.
 
@@ -1415,7 +1415,7 @@ Les sacrificateurs doivent être saints selon qu’il est écrit. Ce qui interpe
 
 La nourriture du Seigneur, son aliment, est sa volonté et son œuvre qui sont accomplies par ses serviteurs, les Ministres de la Parole. C’est pourquoi, un Ministre de la Parole cesse d’être agréable au Seigneur lorsqu’il viole la loi de l’interdit pour se retrouver dans le péché et la désobéissance.
 
-### C’est l’Éternel des armées que vous devrez sanctifier
+#### C’est l’Éternel des armées que vous devrez sanctifier
 
 Une règle particulière est donnée pour le sacrificateur qui a la supériorité sur ses frères, sur la tête duquel a été répandue l’huile d’onction… Il ne doit aller vers aucun mort. Tandis que les autres sacrificateurs sont autorisés à toucher les cadavres de leurs plus proches parents, le sacrificateur en chef, lui, en est carrément privé. Il est aussi interdit à un tel sacrificateur de sortir même du sanctuaire. Tel est le Ministre de la Parole dont l’autorité et la responsabilité sont grandes dans la maison de Dieu. Plus les serviteurs de Dieu s’approchent de lui, plus ils sont frappés d’interdits. Plus les responsabilités s’accroissent dans la maison de Dieu, plus les serviteurs de Dieu sont frappés d’interdits – et plus ils doivent se sanctifier. Sur ce point, l’exigence du Seigneur est indiscutable. À ce niveau également, la sévérité de Dieu devient plus difficile à supporter, parce qu’elle se manifeste régulièrement. Moïse et Aaron qui ont servi Dieu comme étant les guides les plus importants dans le désert en ont fait les frais. L’entrée dans la terre promise leur fut privée :
 
@@ -1437,7 +1437,7 @@ Puis, il dit : « Et moi je me sanctifie moi-même pour eux, afin qu’eux aus
 
 Effectivement, ceux qui s’approchent de Dieu le sanctifient et le glorifient devant le peuple. Que cela soit ainsi su et vécu par les serviteurs de Dieu appelés au ministère ou appelés à exercer une fonction quelconque dans l’église.
 
-### Les positions dans le service : assis et debout
+#### Les positions dans le service : assis et debout
 
 > Jésus se leva de table, ôta ses vêtements et prit un linge dont il s’entoura. Ensuite, il versa de l’eau dans un bassin et se mit à laver les pieds des disciples et à les essuyer avec le linge qu’il avait à la ceinture (Jean 13.4-5).
 
@@ -1485,7 +1485,7 @@ Mais, le salut est pour celui qui est bien assis en Jésus-Christ, car, celui qu
 
 Seul Dieu soutient ses serviteurs qu’il envoie. Et ils se tiendront debout s’ils sont assis en lui, à l’apparition du fils de l’homme (Luc 21.36).
 
-### La fidélité dans le ministère
+#### La fidélité dans le ministère
 
 > Maintenant, craignez l’Éternel et servez-le avec intégrité et fidélité… (Jos 24.14).
 
@@ -1533,7 +1533,7 @@ En considération de la fidélité de Dieu, les Ministres de la Parole doivent �
 
 En réalité, tous ceux qui marchent avec Dieu, le suivent parce qu’ils reconnaissent sa fidélité. Les vrais croyants savent que Dieu fait ce qu’Il dit. Il accomplit toujours ses promesses. Aussi, marchent-ils avec lui. En cela, le Ministre de la Parole est interpellé parce que celui qui sert le Dieu fidèle ne doit pas être infidèle. Au contraire, il doit être fidèle comme Dieu est fidèle. Puisse Dieu nous aider à avoir cette qualité.
 
-### La bénédiction dans le ministère
+#### La bénédiction dans le ministère
 
 La bénédiction dans le ministère provient de la fidélité du serviteur de Dieu, qui doit se placer dans la position d’un homme qui doit être béni. Un serviteur fidèle reçoit de Dieu la pleine bénédiction, en sorte qu’étant parti avec peu de moyens, il agit pleinement dans le ministère. La bénédiction de Dieu est premièrement spirituelle. Comme cela est écrit dans Éphésiens :
 
@@ -1565,7 +1565,7 @@ D’où vient-il que certains « prétendus ministères » tournent en rond to
 
 Plusieurs ont pris pour instrument de mesure de la bénédiction de leur ministère, le nombre élevé de personnes dans les rassemblements et le remplissage des caisses de l’église. Bien que cela puisse être un indice, il n’en est pas vraiment le primordial. Le premier indice de bénédiction d’un ministère est bien l’enrichissement spirituel personnel du Ministre de l’Évangile. Puis mettant toutes ses qualités au service des saints, l’œuvre sur laquelle est établi le Ministre prospère à son tour. De cette manière, l’homme de Dieu peut être pauvre financièrement et matériellement, mais être riche spirituellement pour toute la communauté. Seulement la richesse spirituelle appelle, le plus souvent, la richesse matérielle et financière. Encore qu’un vrai serviteur de Dieu dépensera toujours ce qu’il possède pour le Royaume de Dieu.
 
-### L’œuvre doit reposer sur le Seigneur
+#### L’œuvre doit reposer sur le Seigneur
 
 Celui qui est appelé au ministère doit avoir pour seul et unique souci son ministère – le ministère impliquant la vie intérieure. Toute sa vie, l’homme de Dieu doit avoir pour seul souci, son ministère et l’œuvre de Dieu – Car, le Ministre de la Parole a été fait don au monde entier. À ce sujet, Paul dit :
 
@@ -1595,7 +1595,7 @@ Il dit encore :
 
 En Vérité, en Vérité, nul ne peut servir deux Maîtres à la fois. Aucun homme de Dieu ne peut servir Dieu et Mammon. C’est pourquoi, l’homme de Dieu est appelé à choisir entre Dieu et Mammon – entre la recherche du matériel et du bien-être et l’œuvre de Dieu. Très souvent, le serviteur de Dieu manque de consécration à cause des soucis matériels et financiers. Mais les déclarations du Maître sont claires sur le sujet. L’homme de Dieu, comme tout bon chrétien n’est pas autorisé à se soucier ou à s’inquiéter de sa vie, car, Dieu sait ce dont il a besoin. C’est ici la persévérance des saints et des serviteurs de Dieu, car, il n’est pas facile de vivre cette Parole de Dieu. Parce qu’elle requiert une foi sans faille dans les promesses de Dieu. Celui qui franchit cette étape dans le ministère est prêt pour obtenir la puissance de Dieu pour accomplir pleinement son ministère.
 
-### La vie de prière et la conduite du Saint-Esprit dans le ministère
+#### La vie de prière et la conduite du Saint-Esprit dans le ministère
 
 La vie de prière et la conduite de l’Esprit dans le ministère constituent deux importants enseignements dans la vie de Jésus en tant que Seigneur de l’œuvre. De son vivant, le Seigneur eut une vie de prière très remarquable dont le point culminant fut la fameuse nuit d’intercession de Getsémané. Là, le Seigneur pria jusqu’à avoir de la sueur comme des grumeaux de sang. Il mena le combat spirituel le plus rude de l’histoire. C’est pourquoi, la leçon doit être retenue par tous les Ministres de l’Évangile. Tel le Seigneur pria, tel nous devons prier. Tel le Seigneur fut conduit, tel nous devrons être conduits. Car, la conduite de l’Esprit est attelée à la vie de prière du serviteur de Dieu. Un homme de Dieu qui prie constamment est efficacement conduit par le Saint-Esprit. Mais celui qui néglige la prière vit dans le danger permanent de la désobéissance et de l’insoumission.
 
@@ -1663,7 +1663,7 @@ En vue de faire l’œuvre du Père, le Fils s’est premièrement trouvé dans 
 
 Demeurer dans le Fils, c’est manger sa chair, c’est-à-dire vivre pleinement dans sa Parole et boire son sang, c’est-à-dire demeurer dans la plénitude de l’Esprit, dans la communion avec le Seigneur. Celui qui atteint pleinement ce degré de communion expérimente la plénitude et la puissance de l’Esprit. Un tel Ministre chasse les démons, guérit les malades, ressuscite les morts, prêche la Vérité avec puissance et autorité, reçoit des instructions directes de Jésus et ne peut agir sans son accord. Un tel serviteur de Dieu vit pleinement dans la sainteté et expérimente une conduite particulière du Saint-Esprit. En dehors d’une telle communion, l’exercice du ministère devient très difficile.
 
-### La puissance et l’influence de l’onction dans le ministère
+#### La puissance et l’influence de l’onction dans le ministère
 
 L’exercice du ministère est subordonné à la réception de l’onction par le Seigneur Jésus. Dans l’Ancien Testament, l’onction était symbolisée par l’huile que les prophètes et les sacrificateurs mettaient sur la tête des serviteurs de Dieu et des rois. La Bible mentionne de manière très remarquable la place de l’onction dans le sacerdoce qui est le service divin.
 
@@ -1797,7 +1797,7 @@ Quant à Paul, il avait une grande responsabilité devant Dieu vis-à-vis des pa
 
 À cause de ce ministère de Paul, Dieu lui donna une importante onction avec une place particulière dans l’histoire du salut. Comme Jacques, Paul avait un entourage dans le ministère. Ici, l’influence de l’onction se manifeste d’une manière particulière, en ce sens que plusieurs ministères travaillaient dans celui de Paul. Plusieurs ministères étaient attelés à celui de Paul, notamment celui de Timothée, de Tite, de Tychique, de Barnabas et de plusieurs autres frères.
 
-### Un ministère dans un autre – un champ de mission dans un autre
+#### Un ministère dans un autre – un champ de mission dans un autre
 
 > Paul et Timothée, serviteurs du Christ-Jésus, à tous les saints en Christ qui sont à Philippes, aux évêques et aux diacres (Phil 1.1-2).
 
@@ -1865,11 +1865,11 @@ Certains frères pensent que les instructions provenant d’un serviteur de Dieu
 
 -3-
 
-## Les cinq ministères de la Parole
+### Les cinq ministères de la Parole
 
 > Celui qui est descendu, c’est le même qui est monté au-dessus de tous les cieux, afin de remplir toutes choses. Et il a donné les uns comme apôtres – les autres comme prophètes – les autres comme évangélistes – les autres comme pasteurs et docteurs pour le perfectionnement des saints. Cela en vue de l’œuvre du ministère et de l’édification du corps de Christ… (Éph 4.10-12).
 
-### Nés pour prêcher
+#### Nés pour prêcher
 
 Notre Seigneur Jésus, en tant que chef de l’œuvre, tient dans sa main droite cinq Ministères qui représentent cinq manifestations de sa vie en tant que serviteur de Dieu, pour accomplir sa volonté et prolonger son œuvre dans l’Église. Ces cinq Ministères tiennent une place importante dans l’œuvre de Dieu, au regard des missions qui leur sont assignées dans les Saintes Écritures. Cependant, plusieurs services existent dans la maison de Dieu. Nous retenons : les Ministères de la Parole, les services d’anciens, de diacres et la manifestation des dons.
 
@@ -1897,7 +1897,7 @@ Oh ! Combien de fois il est important que ces choses soient sues par l’Églis
 
 De même que Dieu a résolu de sauver les hommes par la prédication, le diable a aussi résolu de donner la mort par la prédication. C’est pourquoi, le diable a des prédicateurs. Ces hommes sont issus du milieu de nous et prêchent de fausses doctrines. Ils portent en eux-mêmes la marque de la mort et sèment des doctrines pernicieuses parmi les enfants de Dieu. Ils apprennent sans jamais connaître la Vérité, parce qu’envahis par l’onction de l’erreur. Ces hommes sont des faux prophètes, parce qu’ils prêchent l’erreur et le mensonge. Ces hommes sont aussi de faux christs parce qu’ils sont sous l’influence d’une fausse onction qui est l’onction de l’erreur et de l’égarement. Mais le temps est venu pour le peuple de Dieu de s’attacher résolument aux ministères établis dans l’Église de Jésus-Christ pour avoir la vie et parvenir à la foi parfaite.
 
-### Comme des lévites
+#### Comme des lévites
 
 Dans leur marche, les Israélites commirent un grand péché. Ils adorèrent un veau fabriqué avec de l’or. Moïse, dès son retour de la montagne du Sinaï, se rendit compte de la bêtise du peuple et se tint à part, avant d’appeler à lui ceux qui sont pour l’Éternel.
 
@@ -1937,7 +1937,7 @@ Le sacrifice ici n’est pas celui de Jésus. Car le sacrifice de Jésus nous a 
 
 Il existe une alliance particulière entre le serviteur de Dieu et le Dieu qu’il sert dans le secret. C’est une alliance dont les termes sont connus par les deux concernés. Paul pouvait dire à ce propos : « C’est le Seigneur qui me juge. Il m’importe peu d’être jugé par vous. » Tout Ministre de la Parole doit savoir que l’appel exige inévitablement et nécessairement des sacrifices pour être efficace dans le ministère. À défaut, l’homme de Dieu sera un serviteur infidèle. De la même manière que le sacrifice d’Élisée fut mangé par tout le peuple, le serviteur de Dieu se sacrifie pour tout le peuple et non pour lui-même. Le vœu de vocation est partagé par tout le peuple, lequel doit pleinement bénéficier du service du Ministre de la Parole. C’est d’ailleurs pour cette raison que Dieu fit approcher seulement le peuple de Lévi autour de lui.
 
-### Comme des dons à l’Église
+#### Comme des dons à l’Église
 
 Les ministères sont des dons à l’Église. Et les Ministres sont des esclaves parmi le peuple de Dieu – des captifs – des hommes domptés par le Seigneur Jésus-Christ lui-même.
 
@@ -1967,7 +1967,7 @@ Tel que c’est écrit, il est établi que les Ministres de l’Évangile sont d
 
 Dieu a fait don des ministères à l’Église comme il fit don des lévites aux Israélites pour s’occuper du service divin. Oh ! Alléluia ! Le Seigneur ne change pas sa pensée. L’Ancien Testament était vraiment l’ombre des choses à venir. Ce ne sont pas seulement les lévites qui furent faits don, mais aussi le service pour lequel ils furent mandatés. « Je vous accorde en pur don l’exercice du sacerdoce. » Aucun étranger n’avait le droit de s’approcher du sacerdoce parce que c’est une œuvre dévolue à des hommes consacrés. Aujourd’hui, l’œuvre de Dieu est envahie par plusieurs qui se réclament Ministres de la Parole, parce qu’ils savent certainement lire les Saintes Écritures. Mais la réalité est tout autre. Car, non seulement les Ministres sont des hommes choisis et consacrés, mais également, le travail qu’ils font est un service consacré – un sacerdoce dévolu à eux seuls. Nul n’a le droit de s’y intégrer sans un appel provenant de Dieu lui-même – à moins d’y avoir été consacré par les Ministres eux-mêmes. C’est dans cet esprit d’ailleurs que sont consacrés les anciens et les diacres dans les églises par les Ministres de la Parole qui sont nés étant déjà consacrés au Seigneur.
 
-### Principe fondamental : vivre de son appel
+#### Principe fondamental : vivre de son appel
 
 > Voici ce qui t’appartient parmi les choses très saintes qui me sont consumées par le feu : toutes leurs offrandes, tous leurs dons, tous leurs sacrifices d’expiation, et tous les sacrifices de culpabilité qu’ils m’offriront ; ces choses très saintes seront pour toi et pour tes fils (Nomb 18.9).
 
@@ -2033,7 +2033,7 @@ C’est à cause des Ministres de l’Évangile qu’ont été instituées les d
 
 Les dîmes et les offrandes sont prélevées comme des salaires pour les Ministres de la Parole et les autres ouvriers qui travaillent dans la maison de Dieu. Ainsi les églises et tous ceux qui bénéficient de l’exercice des ministères doivent soutenir les serviteurs et l’œuvre de Dieu.
 
-### Les apôtres et les prophètes au fondement de l’Église et de l’œuvre de Dieu
+#### Les apôtres et les prophètes au fondement de l’Église et de l’œuvre de Dieu
 
 > Vous avez été édifiés sur le fondement des apôtres et des prophètes, Jésus-Christ lui-même étant la pierre de l’angle (Éph 2.20).
 
@@ -2057,7 +2057,7 @@ En conclusion, il faut dire qu’il existe plusieurs catégories d’apôtres et
 
 -4-
 
-## Le ministère d’apôtre
+### Le ministère d’apôtre
 
 Les apôtres sont les envoyés de Dieu vers les églises. Ils suivent la bonne marche des assemblées et entretiennent la vision céleste dans les cœurs des saints.
 
@@ -2087,7 +2087,7 @@ Ainsi, le ministère apostolique de Paul est particulier parce qu’il est l’�
 
 Paul n’a reçu d’enseignements d’une quelconque autre source que celle de Dieu. Il a été enseigné de Dieu sur les doctrines bibliques qu’il a déposées dans les églises. C’est pourquoi, il dit avoir posé le fondement comme un sage architecte.
 
-### Tous travaillent dans le ministère de Paul
+#### Tous travaillent dans le ministère de Paul
 
 > Selon la grâce de Dieu qui m’a été donnée, comme un sage architecte, j’ai posé le fondement et un autre bâtit dessus. Mais que chacun prenne garde à la manière dont il bâtit dessus. Car, personne ne peut poser un autre fondement que celui qui a été posé, Jésus-Christ (1Cor, 3v10-11).
 
@@ -2095,7 +2095,7 @@ Tous ceux qui se réclament du ministère apostolique travaillent dans le champ 
 
 À Antioche, Paul était cité parmi les docteurs et les prophètes, mais son ministère apostolique n’était pas connu (Act 13.1).
 
-### Les apôtres évangélisent pour fonder des églises
+#### Les apôtres évangélisent pour fonder des églises
 
 Selon les Écritures, le ministère apostolique de Paul commença par l’évangélisation de certaines contrées :
 
@@ -2117,7 +2117,7 @@ C’est ainsi que Paul évangélisa la ville de Philippes. Lydie et sa famille c
 
 On peut donc retenir que le ministère d’apôtre est un ministère porteur de bonne nouvelle. Un apôtre est un envoyé qui annonce la bonne nouvelle du Royaume de Dieu. Pierre en tant qu’apôtre entama son ministère par l’évangélisation à la Pentecôte. Contrairement à l’évangéliste qui prêche la bonne nouvelle dans le souci de faire naître la vie éternelle dans les cœurs, l’apôtre lui, évangélise dans le but non seulement de donner la vie éternelle aux âmes qui croient, mais aussi d’implanter des assemblées.
 
-### Les apôtres organisent les églises
+#### Les apôtres organisent les églises
 
 C’est dans le but d’implanter des assemblées que Paul et Barnabas ont évangélisé plusieurs villes. Lorsque ce travail fut fait, ils sont passés à une autre étape. À ce sujet, il est écrit :
 
@@ -2125,7 +2125,7 @@ C’est dans le but d’implanter des assemblées que Paul et Barnabas ont évan
 
 Comme on le voit, le travail apostolique est un travail très méthodique. Dans cette œuvre de Paul et de Barnabas, il se dégage plusieurs phases. La première phase a consisté à évangéliser. C’est suite à l’évangélisation que les assemblées sont nées. La deuxième phase a consisté à consolider le travail en établissant des anciens dans les églises. C’est dans ce cadre que Paul fit consacrer aussi des anciens par ses aides Timothée et Tite dans les églises de la Crète et à Éphèse.
 
-### Les apôtres visitent régulièrement les églises
+#### Les apôtres visitent régulièrement les églises
 
 Dans le deuxième voyage missionnaire de Paul, il dit clairement à Barnabas :
 
@@ -2191,7 +2191,7 @@ L’exhortation fait partie du ministère des apôtres. Car, l’Église marche 
 
 > L’église était en paix dans toute la Judée, la Galilée et la Samarie, elle s’édifiait, marchait dans la crainte du Seigneur et progressait par l’assistance du Saint-Esprit. Pierre qui parcourait tous ces lieux descendit aussi vers les saints qui habitaient à Lydda (Act 9. 31-32).
 
-### Les apôtres assistent les autres serviteurs de Dieu
+#### Les apôtres assistent les autres serviteurs de Dieu
 
 Cette autre qualité des apôtres est perçue dans le ministère de Paul. En effet, à chaque fois qu’il arrivait dans une ville, Paul songeait à s’entretenir avec les responsables des assemblées, auxquels il prodiguait de sages conseils. À Éphèse, il eut des entretiens avec les responsables des Juifs (Act 19). À Corinthe, il s’entretenait avec les Juifs dans la synagogue. Act 18.4. À Rome, il convoqua les notables des Juifs et eut des entretiens avec eux. Act 28. 17. De Milet, il envoya chercher les anciens de l’église d’Éphèse, avec lesquels il eut un entretien. Il pria avec eux et les recommanda au Seigneur. Act 20. 1.
 
@@ -2203,7 +2203,7 @@ Certes, Tite et Timothée sont reconnus comme des Ministres de la Parole dans le
 
 Quatrièmement, Paul exhorte les serviteurs de Dieu au ministère et à la persévérance. 2 Tim 3.10-14 ; 2 Tim 4. 1-5. Beaucoup d’exhortations, de conseils et d’enseignements sont adressés aux serviteurs de Dieu par l’Esprit dans ces épîtres personnalisées. Les apôtres ont cette capacité d’assister les serviteurs de Dieu parce que leur œuvre constitue l’un des piliers de l’Église de Jésus-Christ. Que le serviteur de Dieu qui veut savoir comment se comporter dans le ministère pastoral lise attentivement les épîtres de Paul à Timothée et à Tite.
 
-### Les apôtres ont une grande autorité dans l’Église
+#### Les apôtres ont une grande autorité dans l’Église
 
 En tant qu’apôtre, Paul faisait des prescriptions aux serviteurs de Dieu. Cela fait partie de l’assistance. À ce sujet, il dit à Philémon :
 
@@ -2237,7 +2237,7 @@ Au temps de nos Pères apostoliques, la loi leur a servi de cadre juridique pour
 
 > Il a paru bon au Saint-Esprit et à nous de ne vous imposer d’autre charge que ce qui est indispensable : savoir de vous abstenir des viandes sacrifiées aux idoles, du sang des animaux étouffés et de l’inconduite ; vous ferez bien de vous en garder. Adieu ! (Act 15. 28-29).
 
-### Les apôtres sont des intercesseurs
+#### Les apôtres sont des intercesseurs
 
 Paul écrit à Timothée en ces termes :
 
@@ -2291,7 +2291,7 @@ En conclusion, il faut retenir que les apôtres sont des envoyés de Dieu vers l
 
 -5-
 
-## Le ministère de prophète
+### Le ministère de prophète
 
 Les prophètes sont des sentinelles établies sur le peuple de Dieu pour l’avertir. Ce sont eux qui reçoivent la révélation des mystères de Dieu. Les prophètes ramènent le peuple de Dieu de son égarement par la prédication de la repentance.
 
@@ -2359,7 +2359,7 @@ Il raconta le songe à son père Jacob qui était lui aussi un prophète. Il lui
 
 C’est ici une catégorie de prophètes. Des prophètes que Dieu a utilisés pour poser des actes prophétiques dont l’implication est en rapport avec le salut. Ces prophètes n’avaient pas de missions particulières comme Moïse, ou Josué ou Jean-Baptiste. Parmi eux, Abraham, Isaac et Jacob peuvent être considérés comme les prophètes de la promesse.
 
-### Les prophètes de la promesse
+#### Les prophètes de la promesse
 
 Certains des prophètes patriarches peuvent être appelés les prophètes de la promesse. C’est-à-dire que par eux, Dieu fit de grandes promesses à l’humanité, notamment à Israël naturel et à Israël spirituel. Il s’agit d’Abraham, d’Isaac et de Jacob, qui est devenu Israël. Par Abraham, Dieu bénit toutes les nations en ces termes :
 
@@ -2375,7 +2375,7 @@ Dieu exauça sa propre promesse en donnant à Isaac un fils qui enfanta les douz
 
 Ainsi, Abraham, Isaac et Jacob sont trois prophètes particuliers. C’est pourquoi, le Seigneur dans l’histoire se présente comme le Dieu d’Abraham, d’Isaac et de Jacob. Dieu parle ainsi pour se rappeler les promesses qu’il a faites aux hommes dans l’histoire. C’est pourquoi, aussi les hommes de foi demandent à Dieu de se souvenir d’Abraham, d’Isaac et de Jacob dans leurs prières, parce que par ces trois prophètes, le Seigneur se souvient de ses promesses.
 
-### Les prophètes de l’accomplissement des promesses (Moïse et Josué)
+#### Les prophètes de l’accomplissement des promesses (Moïse et Josué)
 
 Moïse et Josué furent les deux prophètes qui conduisirent le peuple de Dieu dans la terre promise. Le premier à être en action fut Moïse qui rencontra Dieu dans le buisson ardent. Là, le Seigneur se révéla en ces termes :
 
@@ -2399,7 +2399,7 @@ Josué eut un ministère de conquête et de partage des territoires de la promes
 
 Cet homme, l’ange de l’Éternel qui est apparu à Josué combattit avec lui durant tout le temps de conquête des territoires de la terre promise. Moïse et Josué furent deux prophètes particuliers en ce sens que le Seigneur donna à l’un la loi et les ordonnances, ainsi que l’organisation du sacerdoce et à l’autre la conquête et le partage des territoires de la terre promise. C’est par Josué que les Juifs entrèrent en possession de leur héritage. Du point de vue spirituel, il y aura un Moïse et un Josué pour l’accomplissement des promesses faites à l’Église à la fin des temps.
 
-### Le prophète de la royauté
+#### Le prophète de la royauté
 
 À la mort de Josué, il fut question du gouvernement des juges. Après les juges, Dieu suscita à Israël, Samuel qui fut le premier prophète à oindre le premier roi en Israël.
 
@@ -2417,7 +2417,7 @@ Ce Saül désobéit à l’Éternel du vivant de Samuel qui oignit sur ordre du 
 
 Le rôle majeur joué par Samuel en tant que prophète fut de présenter au peuple, deux rois. Samuel fut utilisé par Dieu pour stabiliser le peuple qui vivait des moments tumultueux pendant le gouvernement des juges.
 
-### Les prophètes messianiques et l’esprit de Christ
+#### Les prophètes messianiques et l’esprit de Christ
 
 Il existe dans les Saintes Écritures des prophètes qui ont annoncé le messie et les temps de délivrance. Le premier prophète messianique est certainement David. À ce sujet, les Écritures témoignent en ces termes :
 
@@ -2483,7 +2483,7 @@ Jésus dit :
 
 Certes, David et Ésaïe furent les prophètes qui parlèrent le plus du Christ dans leurs prophéties. Mais les autres prophètes annoncèrent aussi le Christ d’une manière ou d’une autre, en dehors des Paroles d’exhortation et d’avertissement qu’ils donnaient au peuple de Dieu. Les prophéties de Jérémie concernaient Israël physique mais aussi Israël spirituel parce que celui qui ne marche pas dans la Vérité est très vite fait prisonnier en Babylone. Or, Babylone symbolise la confusion religieuse. Jérémie prophétisa la captivité, mais les autres prophètes prophétisèrent la délivrance et la restauration d’Israël physique et spirituel ainsi que les temps de félicité. Ces prophètes peuvent être appelés les prophètes de la restauration. Ce sont notamment Ézéchiel, Osée, Joël, Michée, Sophonie, Aggée, Zacharie, Malachie. Le message central de ces prophètes se trouve être la restauration des enfants de Dieu à la fin des temps. D’autres prophètes tels que Amos, Abdias, Nahoum, annoncèrent le jour du Seigneur ainsi que la destruction de plusieurs cités par la colère du Seigneur.
 
-### Jean-Baptiste – prophète intermédiaire
+#### Jean-Baptiste – prophète intermédiaire
 
 Jésus a dit une Parole d’une importance capitale qu’il convient de relever. Il dit :
 
@@ -2507,7 +2507,7 @@ Jean présentant Jésus en tant que précurseur, dit :
 
 L’œuvre de Jean-Baptiste fut accomplie de cette manière, en présentant le Christ comme celui qui ôte le péché du monde. C’est pourquoi il prêcha la repentance et pratiqua un baptême de repentance. Son ministère se situa ainsi à la lisière du Nouveau Testament. Jean a accompli la loi et les prophètes en ce sens que son ministère présente Celui dont parle la loi et les prophètes, comme le dit Malachie : « le Seigneur que vous cherchez ».
 
-### Jésus-Christ – prophète
+#### Jésus-Christ – prophète
 
 Durant l’exercice de son ministère, les foules elles-mêmes ont reconnu Jésus comme un prophète. Matthieu écrit à ce sujet :
 
@@ -2545,7 +2545,7 @@ Mais ce Fils est aussi un prophète. C’est bel et bien de lui que parlait Moï
 
 En tant que prophète, il faut dire que le Seigneur a fait une grande œuvre dans les Écritures. Il a donné beaucoup de prophéties concernant les choses à venir aussi bien pour les Juifs que pour l’Église. Il s’agit des prophéties en rapport avec les nations (la politique mondiale) – Israël et l’Église. À ce sujet, les propos du Seigneur sont rapportés dans Matthieu 24 ; 25. Marc 13 ; Luc 17 ; 21.
 
-### Les prophéties en rapport avec les nations et la moralité
+#### Les prophéties en rapport avec les nations et la moralité
 
 Jésus dit :
 
@@ -2561,7 +2561,7 @@ Il est évident que de tout temps, l’homme a bâti, mangé et bu. De tout temp
 
 > Sache que dans les derniers jours, surgiront des temps difficiles. Car, les hommes seront égoïstes, amis de l’argent, fanfarons, orgueilleux, blasphémateurs, rebelles à leurs parents, ingrats, sacrilèges, insensibles, implacables ; calomniateurs, sans frein, cruels, ennemis des gens de bien, traîtres, impulsifs, enflés d’orgueil, aimant le plaisir plus que Dieu… (2 Tim 3.1-5).
 
-### Les prophéties en rapport avec Israël
+#### Les prophéties en rapport avec Israël
 
 En tant que prophète d’Israël, Jésus donna plusieurs prophéties en rapport avec les Israélites. Il prophétisa sur la diaspora juive dans tout le monde entier. Il prophétisa aussi sur le retour des Juifs en Israël. Il dit :
 
@@ -2597,7 +2597,7 @@ Cette Parole « béni soit celui qui vient au nom du Seigneur ! » s’acc
 
 Les Juifs avaient rejeté le Christ, en le faisant mourir à la croix. Mais la Bible dit que le rejet du Christ par les Juifs est pour le salut du reste du monde entier. Mais après avoir sauvé le reste du monde entier, le Seigneur Dieu entend se révéler entièrement aux Juifs comme leur Messie, afin que eux aussi, expérimentent le salut en Jésus-Christ. C’est pour accomplir cette prophétie que Dieu a décidé de rassembler à nouveau les Juifs dans la terre promise en 1948.
 
-### Les prophéties en rapport avec l’Église (Matthieu 24)
+#### Les prophéties en rapport avec l’Église (Matthieu 24)
 
 Plusieurs prophéties du Seigneur concernent l’Église, mais aussi tout l’environnement spirituel à la fin des temps. Le Seigneur a annoncé la manifestation de l’esprit de séduction. Il a averti en ces termes :
 
@@ -2633,7 +2633,7 @@ Ainsi Jésus-Christ en tant que prophète annonça de grands événements en rap
 
 > Alors, de deux hommes qui seront dans un champ l’un sera pris et l’autre laissé, de deux femmes qui moudront à la meule, l’une sera prise et l’autre laissée. Veillez donc, puisque vous ne savez pas quel jour votre sauveur viendra (Mat 24.40-42).
 
-### Le ministère du Fils de l’homme : Jésus-Christ et William Branham
+#### Le ministère du Fils de l’homme : Jésus-Christ et William Branham
 
 > Des jours viendront où vous désirerez voir un des jours du Fils de l’homme, et vous ne le verrez point… Ce qui arriva du temps de Noé arrivera de même aux jours du Fils de l’homme. Les hommes mangeaient, buvaient, se mariaient et mariaient leurs enfants, jusqu’au jour où Noé entra dans l’arche : le déluge vint et les fit périr… (Luc 17.22-37).
 
@@ -2653,7 +2653,7 @@ Toute la chrétienté doit comprendre que le monde entier se trouve aux jours du
 
 Ainsi, dans le Nouveau Testament est manifesté un grand ministère prophétique : celui de Jésus-Christ, au commencement et à la fin des temps de l’Église. Tous ceux qui veulent connaître le plan de Dieu sont invités à rechercher les traces du ministère de William Branham.
 
-### Les sept visions de 1933
+#### Les sept visions de 1933
 
 Le Seigneur Jésus a donné sept visions à William Branham en 1933 pour servir de signes annonçant sa venue prochaine. Le prophète Branham lui-même a raconté son expérience avec le Seigneur.
 
@@ -2687,9 +2687,9 @@ Le commentaire général que je fais, en tant que serviteur de Dieu, est que les
 
 Troisièmement, la quatrième vision et la cinquième qui sont plus ou moins liées montrent la révolte des femmes dans notre génération. Les femmes ne veulent plus se soumettre à leur mari comme c’était la volonté de Dieu à l’origine. Mais elles veulent vivre comme elles l’entendent. Puis les conséquences de l’insoumission sont mises en exergue : c’est la perversion du genre humain par la débauche, car, la nudité de la femme conduit à la débauche et au dérèglement sexuel. C’est ainsi. Les femmes sont retournées avec le serpent qui a séduit Ève dans le jardin d’Éden. Du point de vue spirituel, ces femmes nues symbolisent les églises qui refusent aujourd’hui de se soumettre au Christ qui est le Chef de l’Église. Les nombreuses églises qui parsèment le monde ont, de ce fait, abandonné la Parole de Dieu qui est supposée être le vêtement des croyants. C’est pourquoi, dans Apocalypse 3.14, où il est question du temps de la fin dans l’âge de Laodicée, le Seigneur reprend les croyants en les informant qu’ils sont nus sans le savoir. Les églises sont nues sans s’en rendre compte parce qu’elles ont abandonné la Parole qui est le miroir et le vêtement des saints.
 
-### L’attentat du 11 septembre 2001
+#### L’attentat du 11 septembre 2001
 
-### Dans les prophéties bibliques
+#### Dans les prophéties bibliques
 
 Quelques mois après l’attentat du 11 septembre 2001, mon attention fut focalisée sur les chapitres 30 et 33 d’Ésaïe. Dans ces deux chapitres, j’ai découvert des versets bibliques qui semblaient me donner des informations sur la chute des tours jumelles. Ce que j’écris ici est l’inspiration que j’ai reçue des versets bibliques concernés, en rapport avec l’événement du 11 septembre 2001. La lecture de tout le chapitre 30 d’Ésaïe est nécessaire pour une compréhension profonde du contexte prophétique de l’événement :
 
@@ -2775,7 +2775,7 @@ Cependant, le peuple saint tiendra tête à la bête et à la prostituée au nom
 
 Lorsque l’attentat du 11 septembre 2001 a eu lieu, j’ai vécu une expérience particulière qui m’a amené à m’interroger sur l’accomplissement de la septième vision de 1933. Le Saint-Esprit m’avait tellement pressé de relire les termes de cette vision que je me demandais si elle ne venait pas de trouver son accomplissement ce 11 septembre 2001. J’ai entendu les journalistes dire « décombres – cratères et fumées sur les États-Unis ». Le prophète a dit en relatant la septième vision : « … j’entendis une énorme explosion. Je me retournai et ne vis plus que décombres, cratères et fumées sur le territoire des USA ».
 
-### Los Angeles au fond de la mer
+#### Los Angeles au fond de la mer
 
 William Branham a aussi reçu de la part du Seigneur Jésus une autre prophétie dont l’accomplissement est attendu. Il s’agit de la prophétie sur l’effondrement d’une partie de la côte ouest des USA au fond de la mer. À la suite de cet événement, Los Angeles et Hollywood disparaîtront. Le 25 avril 1965, William Branham vint prêcher dans la ville de Los Angeles, en Californie. Au cours d’une prédication intitulée : « le choix d’une épouse », la prophétie sur l’effondrement de Los Angeles fut prononcée en ces termes :
 
@@ -2795,13 +2795,13 @@ Los Angeles est à l’origine de la souillure du monde par le cinéma, la mode 
 
 Il ne doit pas nous suffire seulement de prêter attention à cette prophétie. Mais nous devons mettre tout en œuvre pour ne pas prendre part à la souillure du monde. Le chrétien ne prend pas plaisir au cinéma. Le chrétien ne prend pas plaisir à écouter de la musique venue des abîmes. La mode non plus ne fait pas partie de la préoccupation des croyants. Toutes les technologies de la communication servent aux intérêts du diable, pour répandre la souillure dans tout le monde entier. Les écrans de télévision et du cinéma ne suffisent plus. C’est pourquoi Satan utilise maintenant l’Internet, où il existe toutes les opportunités de péché et de distraction. Il s’y développe la pornographie et la pédophilie. Tout ceci est la preuve évidente que la moisson du monde est mûre pour être engrangée dans le feu de la géhenne. Cette prophétie sur Los Angeles est en rapport avec la cinquième vision de 1933. Il s’agit de la perversion de tout le monde entier qui est partie des États-Unis d’Amérique, par le cinéma, la mode et la musique. Si Dieu est en train de punir Los Angeles à cause de la souillure, que les chrétiens sachent alors que ce même Dieu ne les épargnera pas s’ils s’adonnent aux plaisirs du monde, car l’amour du monde est inimitié contre Dieu.
 
-### Les autres prophètes du Nouveau Testament
+#### Les autres prophètes du Nouveau Testament
 
 Plusieurs autres prophètes sont manifestés dans le Nouveau Testament. Il s’agit de Paul, de Pierre, de Jacques, de Jean, d’Agabus, etc. Pierre avait des visions. C’est lui qui prédit plusieurs événements bibliques et avertit de plusieurs manières le peuple de Dieu. 2 Pierre 2 ; 3. Quant à Paul, il prophétisa au sujet du mystère de l’iniquité (2 Thess 2) ; de la dépravation dans les derniers jours (2 Tim 3) et de l’esprit de séduction. 1 Tim 4. Etc. Jean eut la vision la plus longue de l’histoire du salut qui est l’Apocalypse. Jean prophétisa au sujet de l’antichrist qui venait. 1 Jn 2. 18 ; 4. Dans le livre des Actes des apôtres, il fut cité plusieurs prophètes. Act 13. 1-2.
 
 Les prophètes dénoncent le péché et l’injustice. C’est pourquoi ils ont beaucoup de difficultés dans le ministère. Élie fut opposé à Achab et à sa femme Jésabel. Michée fut opposé aussi à Achab qui le mit en prison à cause de sa prophétie. Nathan dit à David : « tu es cet homme-là ». David avait fait tuer son soldat pour prendre sa femme. Jérémie fut établi pour dénoncer l’idolâtrie et l’égarement du peuple. Jean-Baptiste mourut décapité parce qu’il avait dénoncé le péché du roi Hérode, lequel avait pris la femme de son frère. Pierre dénonça le péché d’Ananias et Saphira qui voulaient tromper le reste du peuple de Dieu. Dans tous les âges de l’Église, en dehors de l’apôtre Paul, seul William Branham manifesta pleinement le ministère prophétique de manière aussi significative. Depuis que ce ministère a parcouru toute la terre, au milieu du vingtième siècle, plusieurs autres ministères, notamment des évangélistes, des apôtres et même des prophètes ont été manifestés. Je mettrai l’accent sur deux ministères prévus dans les chapitres 24 et 25 de Matthieu.
 
-### Le ministère du serviteur fidèle et prudent
+#### Le ministère du serviteur fidèle et prudent
 
 Dans Matthieu 24.45, Jésus, en tant que prophète, parle d’un serviteur fidèle et prudent :
 
@@ -2829,7 +2829,7 @@ Le serviteur fidèle et prudent fait partie des prophètes du Nouveau Testament 
 
 En effet, le ministère du prophète Branham a allumé les lampes des vierges au commencement de Matthieu 25. Mais c’est au cours du ministère du serviteur fidèle et prudent que la différence est faite entre les folles et les sages. L’épée tenue par le serviteur fidèle et prudent produit la différence entre les vierges. Les folles ont refusé d’évoluer dans la vision céleste, en vivant dans le passé, dans l’ombre de William Branham. Pour les vierges folles, le fait d’avoir reçu le Message suffit. Mais cela ne suffit pas. Il faut suivre l’évolution de la vision céleste telle qu’elle est présentée dans les Saintes Écritures, allant jusqu’au réveil et à l’enlèvement. Aujourd’hui, il est recommandé à ceux qui voudraient connaître clairement les Saintes Écritures de se référer à ces deux ministères qui sont aussi importants dans l’histoire du salut.
 
-### Le cri de réveil de minuit
+#### Le cri de réveil de minuit
 
 Du point de vue prophétique, Matthieu 25 dit :
 
@@ -2883,7 +2883,7 @@ En effet, tous les ministères doivent être manifestés au temps du Fils de l�
 
 Les ministères, à la fin des temps, sont placés comme des sentinelles sur le peuple de Dieu pour le conduire dans la gloire du réveil et de la Jérusalem céleste. Ces ministères sont mis en action par le ministère de la voix de minuit.
 
-### Les prophéties bibliques
+#### Les prophéties bibliques
 
 Une prophétie est une déclaration de Dieu qui a un rapport avec l’avenir immédiat ou lointain. Cette déclaration revêt plusieurs caractères. Elle peut être une information ou un avertissement. Ainsi, les prophéties bibliques se trouvent pêle-mêle dans les Écritures et sont dites sous plusieurs formes. En effet, quand il ne s’agit pas de Parole qui sort de la bouche d’un prophète, c’est plutôt une scène, un événement qui annonce des choses à venir. Telles que les prophéties sont données dans leurs diversités, il est souvent difficile de les reconnaître, à moins d’être soi-même prophète ou docteur des Saintes Écritures. Le domaine des prophéties bibliques est le domaine de la révélation uniquement et non de l’interprétation, car, aucune prophétie ne peut faire l’objet d’interprétation particulière. Au contraire, les prophéties doivent avoir seulement le sens que Dieu leur donne.
 
@@ -2917,7 +2917,7 @@ Après avoir prophétisé la déportation et la désolation, Jérémie prophéti
 
 > Prends un arc et des flèches ! Il se procura un arc et des flèches, puis Élisée dit au roi d’Israël : bande l’arc avec ta main ! Quand il l’eut bandé de sa main, Élisée posa ses mains sur les mains du roi et dit : ouvre la fenêtre vers l’est ! Il l’ouvrit. Élisée dit : tire ! Alors il tira. Élisée dit : c’est une flèche de salut de la part de l’Éternel, une flèche de salut contre les Syriens, tu battras les Syriens à Apheq jusqu’à les exterminer. Élisée dit encore : prends les flèches ! Il les prit : Élisée dit au roi d’Israël : frappe contre terre ! Alors il frappa trois fois et s’arrêta. L’homme de Dieu fut saisi d’indignation contre lui et dit : il fallait frapper cinq ou six fois ; alors tu aurais battu les Syriens jusqu’à les exterminer ; maintenant, tu ne les battras que trois fois (2 Rois 13.14-20).
 
-### Les scènes prophétiques
+#### Les scènes prophétiques
 
 Les scènes prophétiques sont des scènes qui prédisent l’avenir, exactement comme les déclarations prophétiques. Dans les Évangiles, le Christ a annoncé des choses à venir par des scènes prophétiques. Au nombre de ces scènes prophétiques, nous pouvons citer : les noces de Cana (Jean 2.1-12). L’entrée de Jésus à Jérusalem (Luc 19.29). La multiplication des pains (Mat 14.13-21) ; (Mat 15.32-39). La transfiguration (Mat 17. 1-13). Le vase de parfum (Mat 26.6-13). La sainte cène (Mat 26.17-35). Etc. Les noces de Cana illustrent de la manifestation de la puissance de Dieu dans la vie du croyant à la fin des temps. L’onction de l’Esprit est symbolisée par le vin nouveau et les jarres symbolisent les croyants. L’eau est la Parole révélée à la fin des temps. Le premier vin servi est la fausse onction qui a fait naître les faux christs, c’est-à-dire les faux oints. Le vin produit par Jésus est le vin nouveau, la vraie onction qui est reçue après la vie dans la plénitude de la Parole.
 
@@ -2953,7 +2953,7 @@ En conclusion, il faut retenir que les prophètes sont des sentinelles dans l’
 
 -6-
 
-## Le ministère d’évangéliste
+### Le ministère d’évangéliste
 
 Les évangélistes sont les annonceurs de la bonne nouvelle de la délivrance de l’humanité par la croix de Jésus-Christ. Ils ont des talents pour réveiller la conscience spirituelle des hommes pécheurs. Ils sont les messagers de l’espoir.
 
@@ -3021,7 +3021,7 @@ La résurrection du Christ est l’accomplissement de l’œuvre du rachat. Car,
 
 L’œuvre des évangélistes se déroule autour de cette révélation de l’œuvre du rachat accomplie en Jésus-Christ, s’agissant de la naissance, de la mort et de la résurrection de Jésus-Christ, en tant que sauveur du monde. Les évangélistes sont les Ministres de la Parole dont la prédication est définie à l’avance. Il s’agit de l’annonce de cette bonne nouvelle de l’œuvre de Dieu réalisée en Jésus-Christ.
 
-### Jésus-Christ : évangéliste
+#### Jésus-Christ : évangéliste
 
 Durant sa vie, le Seigneur Jésus a exercé le Ministère d’Évangéliste en prêchant la repentance et l’avènement du Royaume de Dieu. Il a libéré les captifs, guéri les malades et révélé la vie éternelle à plusieurs qui ont cru en lui. Sa mission d’Évangéliste qui est un exemple pour tous les évangélistes est mentionnée dans les Saintes Écritures :
 
@@ -3035,7 +3035,7 @@ En tant que messager de la bonne nouvelle, le Seigneur Jésus annonçait le Roya
 
 > L’esprit du Seigneur est sur moi parce qu’il m’a oint pour guérir ceux qui ont le cœur brisé ; pour annoncer la bonne nouvelle aux pauvres ; il m’a envoyé pour proclamer aux captifs la délivrance, et aux aveugles le recouvrement de la vue ; pour renvoyer libres les opprimés ; pour proclamer une année de grâce (Luc 4v18).
 
-### L’œuvre d’évangélisation
+#### L’œuvre d’évangélisation
 
 L’œuvre d’évangélisation consiste à guérir ceux qui ont le cœur brisé, proclamer la bonne nouvelle aux pauvres, annoncer aux captifs la délivrance qu’ils ont obtenue en Jésus-Christ, proclamer aux aveugles le recouvrement de la vue et renvoyer libres les opprimés.
 
@@ -3129,7 +3129,7 @@ Dieu ne peut rester insouciant devant la misère des hommes. Dieu ne peut rester
 
 Tous ceux qui ont un quelconque lien ou un quelconque fardeau qui les opprime sont invités par l’évangéliste à venir au Seigneur Jésus pour trouver la délivrance et la paix. Car, les évangélistes ont reçu du Seigneur Jésus, le pouvoir de renvoyer libres les opprimés. Ils sont oints pour briser le joug des démons sur le cou de l’opprimé et le placer sous le joug doux et léger du Christ. L’évangéliste appelle les âmes à se soustraire du joug étranger, en les informant que Christ les a délivrées de la mort. C’est l’évangéliste qui annonce aux hommes ce que Dieu a fait pour eux à la croix du calvaire.
 
-### L’évangéliste va chercher et sauver ce qui était perdu
+#### L’évangéliste va chercher et sauver ce qui était perdu
 
 Jésus dit à Zachée :
 
@@ -3155,7 +3155,7 @@ Mais dans cette œuvre, le Seigneur a affronté au quotidien les démons et mêm
 
 L’homme est destiné à être une habitation de Dieu par sa vie et par le Saint-Esprit et non une habitation de démons. L’œuvre de l’évangéliste consiste donc à délivrer les hommes de l’emprise du péché et des puissances démoniaques.
 
-### Les évangélistes sont des pêcheurs et des semeurs
+#### Les évangélistes sont des pêcheurs et des semeurs
 
 Les évangélistes sont comparés à des pêcheurs qui jettent leurs filets dans l’eau. L’eau symbolise les peuples, les foules vers lesquels l’Évangile est envoyé. En pêchant, le pêcheur espère prendre des poissons. L’évangéliste ne se fait pas de préjugés – il prêche dans l’espoir de gagner des âmes à Christ. Ses regards sont toujours tournés vers le monde – à la rencontre des perdus. En rapport avec cela, le Seigneur dit :
 
@@ -3179,7 +3179,7 @@ Ce qu’il faut retenir de ce ministère est qu’il est le plus qualifié pour 
 
 L’évangélisation est une nécessité vitale pour le monde entier. Mais il n’est pas facile d’aller chercher et sauver ce qui était perdu – Car, dans cette œuvre, il y en a plusieurs qui ignorent qu’ils sont perdus. Or, aussi longtemps qu’un homme ne se rend pas compte qu’il est perdu, il n’y a pas pour lui de salut. C’est ainsi. L’évangélisation a été imposée à Paul et à tous les évangélistes dans le monde entier. Car, il faut que les hommes soient informés qu’ils sont perdus tant qu’ils demeurent dans ce monde sans Christ. En cela les évangélistes se disputent les âmes avec Satan. Tandis qu’ils réclament les âmes pour Christ, Satan et les démons les réclament pour la perdition.
 
-### L’évangéliste Philippe
+#### L’évangéliste Philippe
 
 Les Saintes Écritures rendent témoignage d’un évangéliste du nom de Philippe qui faisait partie des douze apôtres choisis par Jésus et des sept choisis pour l’église de Jérusalem.
 
@@ -3249,7 +3249,7 @@ En conclusion, il faut retenir que le ministère d’évangéliste consiste à a
 
 -7-
 
-## Le ministère de pasteur (Jean 10)
+### Le ministère de pasteur (Jean 10)
 
 Les pasteurs sont les conducteurs des saints dans les assemblées locales. Ils veillent à la bonne marche du troupeau qui est l’assemblée locale.
 
@@ -3291,7 +3291,7 @@ Dans Apocalypse 7.17, le Seigneur Jésus, en tant qu’agneau, est présenté co
 
 > Car, l’agneau qui est au milieu du trône les paîtra et les conduira aux sources des eaux de la vie, et Dieu essuiera toute larme de leurs yeux.
 
-### Ils étaient tous errants comme des brebis
+#### Ils étaient tous errants comme des brebis
 
 De la même manière que le Christ a rassemblé tous ceux qui étaient en quête de Dieu dans une seule et même bergerie, le pasteur rassemble les âmes de ceux qui ont cru en Jésus-Christ dans un lieu de culte appelé assemblée. Un pasteur est un rassembleur de brebis. Accepter le Seigneur Jésus ne suffit pas. Mais il faut demeurer en lui. Ceci est le travail du pasteur. Le rôle de rassembleur est important, car dans Ézéchiel, les pasteurs d’Israël avaient manqué de jouer ce rôle et les conséquences furent connues :
 
@@ -3301,7 +3301,7 @@ C’est ainsi que se comporte un peuple sans pasteur. Il est dispersé et erre s
 
 Jésus a dit : « Mes brebis entendent ma voix. » De cette même manière, un peuple dans un rassemblement réussit toujours à identifier son pasteur, celui que Dieu a établi pour le conduire – celui à qui tout le monde doit du respect et de l’honneur comme c’est écrit. Dans une assemblée, tous les frères et sœurs ainsi que tous ceux qui prennent part au service divin doivent être en mesure d’entendre la voix du pasteur parce que le pasteur est un rassembleur d’hommes. L’œuvre du pasteur ne divise pas mais rassemble. Les initiatives et les manières du pasteur ne divisent pas mais, au contraire, rassemblent.
 
-### Mais celui qui entre par la porte est le berger des brebis (Jean 10 :2)
+#### Mais celui qui entre par la porte est le berger des brebis (Jean 10 :2)
 
 Avant de dire : « Je suis le bon berger », Jésus a dit : « Je suis la porte de la bergerie. » En effet, le lieu de rassemblement des brebis est bien dans la bergerie – là où ils se reposent, c’est-à-dire en Christ – dans sa Parole. La bergerie est le lieu d’adoration, c’est-à-dire en Christ. La bergerie est aussi l’assemblée locale. C’est là le lieu de compétence du ministère pastoral. Ceci est important de le dire parce que c’est une particularité du ministère pastoral. Le ministère pastoral est étroitement lié à une bergerie, c’est-à-dire à un groupe de frères et sœurs rassemblés dans un endroit bien précis. Car, sans bergerie, il n’y a pas de berger.
 
@@ -3313,7 +3313,7 @@ Le portier qui est le gardien des brebis de la bergerie est le Saint-Esprit. C�
 
 Le rôle du pasteur de l’assemblée consiste à entretenir les croyants à demeurer dans la foi. Il veille à ce que l’assemblée, dans son ensemble, demeure dans l’unité de l’Esprit de Christ et dans la Parole de la Vérité. Le pasteur doit amener les chrétiens de son assemblée à marcher dans la sainteté et dans la piété. Il doit assurer la croissance spirituelle des âmes de l’assemblée. N’est-ce pas qu’un berger se trouve au quotidien avec son troupeau ? En cela l’exercice du ministère pastoral exige la présence physique et continuelle du pasteur dans l’assemblée. Car, dans la pensée de Dieu, les pasteurs sont préparés pour gouverner les assemblées locales.
 
-### Il appelle par leur nom les brebis qui lui appartiennent et les mène dehors
+#### Il appelle par leur nom les brebis qui lui appartiennent et les mène dehors
 
 > Lorsqu’il a fait sortir toutes celles qui lui appartiennent, il marche devant elles, et les brebis le suivent, parce qu’elles connaissent sa voix.
 
@@ -3343,7 +3343,7 @@ C’est pourquoi, il fait l’inspection du troupeau pour connaître celui qui e
 
 Le pasteur qui connaît ses brebis doit être en mesure de veiller sur elles afin qu’aucune d’entre elles ne se perde.
 
-### Le vrai pasteur donne sa vie pour ses brebis
+#### Le vrai pasteur donne sa vie pour ses brebis
 
 Jésus a dit :
 
@@ -3367,7 +3367,7 @@ Le pasteur qui ne vit plus pour lui-même prend soin des âmes qui sont sous sa 
 
 En réalité, le Seigneur accomplit cette œuvre dans le pasteur qui est bien disposé et qui est attentif au Saint-Esprit. C’est par les vertus accordées au pasteur par le Saint-Esprit qu’il peut arriver à prendre soin du troupeau de Dieu. Le pasteur possède le don de la gouvernance. Il possède aussi le don de secourir. Il cherche toujours et ramène les brebis égarées dans la marche avec douceur. Il secourt aussi les veuves et les orphelins dont il devient les parents dans l’assemblée. À cet effet, il veille à ce que la liste des veuves et des orphelins soit connue et entretenue dans l’église. Le pasteur est au chevet des malades physiques et spirituels pour lesquels il apporte des prières et des supplications, ainsi que des Paroles d’exhortation pour panser les plaies et affermir les cœurs. Un pasteur, à cause de sa trop grande responsabilité dans l’église locale, doit être un homme spirituellement riche de vertus, de qualités et de dons pour aider pleinement le peuple de Dieu. Sans vertus et qualités spirituelles, le pasteur ne peut assurer pleinement ses responsabilités. Sans un engagement véritable et un cœur courageux comme celui de David, il est difficile d’être un bon pasteur.
 
-### Les vertus et les dons de Moïse dans le désert
+#### Les vertus et les dons de Moïse dans le désert
 
 > Or, Moïse était un homme très humble, plus qu’aucun être humain sur la terre (Nomb 12.3) (version Louis Segond révisé).
 
@@ -3395,7 +3395,7 @@ Moïse était un bon pasteur. Il avait vraiment la houlette de Dieu avec lui. Un
 
 Le Seigneur Dieu fut convaincu par Moïse. Il écouta sa prière parce que Moïse était fidèle dans toute la maison de Dieu. Dieu n’écoute pas les infidèles, du moins Il les écoute pour leur propre perte. C’est pourquoi, le pasteur doit être trouvé fidèle dans la maison de Dieu.
 
-### Avoir beaucoup gagné en amour
+#### Avoir beaucoup gagné en amour
 
 > Après qu’ils eurent mangé, Jésus dit à Simon Pierre : Simon, fils de Jonas, m’aimes-tu plus que ne m’aiment ceux-ci ? Il lui répondit : oui, Seigneur, tu sais que je t’aime. Jésus lui dit : pais mes agneaux. Il lui dit une seconde fois : Simon, fils de Jonas, m’aimes-tu ? Pierre lui répondit oui Seigneur, tu sais que je t’aime. Jésus lui dit : pais mes brebis. Il lui dit pour la troisième fois : Simon, fils de Jonas, m’aimes-tu ? Pierre fut attristé de ce qu’Il lui avait dit pour la troisième fois : m’aimes-tu ? Et il lui répondit : Seigneur, tu sais toutes choses, tu sais que je t’aime. Jésus lui dit : pais mes brebis (Jean 21.15-18).
 
@@ -3425,7 +3425,7 @@ En conclusion, il faut retenir que les pasteurs ont une onction de rassembleur d
 
 -8-
 
-## Le ministère de docteur
+### Le ministère de docteur
 
 Les docteurs des saintes Écritures expliquent les doctrines et les prophéties bibliques. Ils donnent de la lumière au peuple de Dieu dans sa compréhension des saintes Écritures.
 
@@ -3439,7 +3439,7 @@ L’enfant Jésus aimait déjà écouter les docteurs de la loi avec lesquels il
 
 Jésus-Christ est le premier docteur du Nouveau Testament. En tant que docteur, il est venu révéler la loi et les prophètes afin que nous puissions comprendre la vérité révélée. Dans l’exercice de son ministère, Jésus expliquait les doctrines de la loi et les prophéties bibliques. On découvre ainsi que le ministère de docteur est un talent qui explique les doctrines et les prophéties bibliques. Le ministère de docteur ne peut être autrement.
 
-### Mon enseignement n’est pas de moi, mais de celui qui m’a envoyé (Jean 7.16)
+#### Mon enseignement n’est pas de moi, mais de celui qui m’a envoyé (Jean 7.16)
 
 En tant que docteur de la loi, le Seigneur fit cette importante déclaration qui mérite d’être mise en exergue pour les docteurs des Saintes Écritures. Le Christ dit encore :
 
@@ -3463,7 +3463,7 @@ C’est le docteur qui a la responsabilité d’administrer les mystères de Die
 
 C’est ainsi, car, l’explication de ce qui est caché est pour le docteur des Écritures.
 
-### Placé au fondement de l’œuvre
+#### Placé au fondement de l’œuvre
 
 Le ministère de docteur est placé au fondement de l’œuvre parce que la doctrine est placée au fondement de l’œuvre. La seule et unique doctrine valable placée au fondement de l’œuvre est la révélation de qui est le Christ :
 
@@ -3479,7 +3479,7 @@ En effet, une église qui n’est pas enseignée dans la Vérité de la Parole d
 
 Le temps vient où les faux enseignements seront emportés avec les prédicateurs qui les enseignent et les églises qui leur servaient d’abris et de refuges. Ne subsistera que l’église qui est réellement un appui à la Vérité qui est Christ. C’est de cette manière que furent balayées les traditions des Juifs au temps du Seigneur Jésus.
 
-### Rétablir la vérité doctrinale pour consolider la foi des membres du corps
+#### Rétablir la vérité doctrinale pour consolider la foi des membres du corps
 
 La mission du docteur n’est pas seulement de fonder l’Église du point de vue doctrinal, mais aussi de rétablir la Vérité là où les credo et les traditions, ainsi que le mensonge et l’erreur ont pris tous ensemble le pas sur la Vérité. Le docteur a pour mission de donner un sens à ce qui est écrit. Cela fut l’une des missions essentielles du Christ. En effet, Il dit :
 
@@ -3497,7 +3497,7 @@ Cette démarche doit habiter tous les docteurs des Saintes Écritures, lesquels 
 
 Pourquoi la Parole doit-elle être rétablie par le docteur ? Afin que les frères ne soient pas balancés à tout vent de doctrine, car, le mensonge et l’erreur font ballotter ceux qui les reçoivent. En cela, les docteurs occupent une place particulière parmi le peuple de Dieu et parmi les Ministres de la Parole. Car, ils sont établis pour qu’il n’existe plus de discussion au sein du peuple de Dieu. C’est pourquoi, le peuple doit écouter les docteurs de l’Église.
 
-### Savoir lire les signes des temps
+#### Savoir lire les signes des temps
 
 Le docteur des Écritures Saintes sait lire les signes des temps. Il est celui qui veille à l’accomplissement des prophéties bibliques pour informer le peuple de Dieu. C’est pourquoi, le Seigneur Jésus a pu expliquer aux disciples combien de fois le Christ devrait souffrir, mourir et ressusciter selon ce qui était écrit de lui. À ce sujet, il est écrit :
 
@@ -3529,7 +3529,7 @@ Le scribe du Nouveau Testament a dans son trésor, des choses anciennes et des c
 
 Cependant, existe-t-il encore aujourd’hui des docteurs de la Bible ? Bien sûr que oui. Il existe des docteurs de la Bible – des scribes tels que le Seigneur les présente – instruits de ce qui regarde le Royaume de Dieu. Ils ont été instruits par le Seigneur lui-même, afin qu’ils instruisent à leur tour le peuple de Dieu. Il existe encore des hommes sages qui ont reçu la pleine mesure de la connaissance des mystères du Royaume des cieux pour l’annoncer à l’Épouse de Christ. Ce ne sont pas des hommes qui inventent des mystères, car, le domaine de la révélation des mystères a été réservé aux prophètes. Mais les docteurs expliquent les révélations que reçoivent les prophètes.
 
-### Esdras : docteur des Saintes Écritures
+#### Esdras : docteur des Saintes Écritures
 
 Il existe une qualité du docteur des Saintes Écritures que je voudrais montrer en parlant de l’histoire d’Esdras, le sacrificateur scribe. Esdras avait deux ministères. Il était à la fois sacrificateur et scribe. Selon ce qui est écrit de lui :
 
@@ -3539,7 +3539,7 @@ Esdras, en tant que docteur, était versé dans la loi de Moïse. C’est pourqu
 
 Un docteur est un inspecteur. Il tient dans sa main la Parole de Dieu, qui est son outil d’inspection. L’inspection est un travail de contrôle, ce qui veut dire que les docteurs sont des contrôleurs – ils sont fondés à contrôler le travail qui se fait dans la maison de Dieu, pour vérifier qu’il est conforme à ce qui est écrit. Selon ce qui est écrit, du point de vue prophétique, les saints sont présentement en train d’édifier la maison de Dieu. Dans ce travail, les docteurs sont comme ceux qui contrôlent les travaux, pour s’assurer que la maison est construite selon le Plan que Dieu a donné en Christ. Cette qualité des docteurs doit être sue par le peuple de Dieu, afin que les uns et les autres aient du discernement. C’est en cela que Paul se montre comme un sage architecte qui a posé le fondement.
 
-### Apollos, docteur des Saintes Écritures
+#### Apollos, docteur des Saintes Écritures
 
 Dans le Nouveau Testament, il est aussi fait mention d’un autre docteur des Saintes Écritures. Il s’agit d’Apollos. À son sujet, il est écrit :
 
@@ -3557,7 +3557,7 @@ En conclusion, il faut retenir que les docteurs sont des Ministres qui ont reçu
 
 -9-
 
-## La main droite d’association dans le ministère
+### La main droite d’association dans le ministère
 
 Dans l’exercice des ministères, les Ministres de la Parole se rencontrent dans les champs de mission. Lorsque deux ministres se rencontrent, ils doivent se donner mutuellement la main d’association pour travailler ensemble dans la maison de Dieu. C’est fort de ce principe biblique que certains ministres de la Parole tendirent la main à plusieurs frères avec lesquels ils travaillèrent dans les champs de Dieu. Barnabas rencontra Paul et le prit avec lui (Act 9 :26-32). Le même Barnabas prit Marc avec lui (Act 15 :37). Paul lui-même rencontra Timothée et le prit avec lui (Act 16 :1). Paul rend témoignage de Timothée comme un fidèle Ministre. Paul prit aussi Tite et Tychique avec lui. Paul prit Silas le prophète avec lui (Act 15. 40). Paul et Apollos se donnèrent la main d’association pour travailler dans l’église de Corinthe. À ce sujet, il dit :
 
@@ -3589,7 +3589,7 @@ Quant aux anciens, s’ils doivent recevoir une main d’association, c’est bi
 
 -10-
 
-## Les anges de la prédication et de la prière
+### Les anges de la prédication et de la prière
 
 Dans ce chapitre, nous voulons montrer que les anges se tiennent derrière les Ministres de la Parole. Ce sont ces anges qui les soutiennent dans l’œuvre et les conduisent dans le ministère. Plus un serviteur est en communion avec Dieu, plus il demeure en présence des anges dans le ministère. Le chef de ces anges se montra à Jean dans Apocalypse 22.
 
@@ -3663,7 +3663,7 @@ C’est pourquoi mon cher frère ministre de la Parole, serviteur de Jésus-Chri
 
 -11-
 
-## L’exercice des ministères dans les assemblées locales
+### L’exercice des ministères dans les assemblées locales
 
 Les ministères sont pour tout le Corps de Christ, y compris pour l’assemblée locale, car, l’assemblée locale fait partie intégrante du Corps de Christ. Plusieurs enseignent que les ministères sont itinérants mais que les anciens sont chargés de la direction des assemblées locales – en sorte que certains frères admettent difficilement l’exercice d’un ministère dans une assemblée locale. De toutes les manières, il est important que les Saintes Écritures soient placées en avant par rapport à toutes les déclarations qu’un quelconque serviteur de Dieu peut faire sur le sujet. Les ministères ont été donnés pour le Corps de Christ. C’est pourquoi ils doivent s’exercer partout où se trouvent des enfants de Dieu. En plus, il ne faut pas occulter la notion de « champ de mission » qui est strictement liée à l’exercice des ministères.
 
@@ -3673,7 +3673,7 @@ En effet, un ministère s’exerce toujours dans un champ de mission déterminé
 
 Les ministères portent entièrement et premièrement la responsabilité de l’œuvre dans l’Église qui est le corps de Christ. Ce sont eux qui ont la charge du perfectionnement de l’Église à la mesure de la stature de Christ comme modèle. Tous ne sont pas apôtres, tous ne sont pas pasteurs, tous ne sont pas évangélistes ou prophètes. Mais les ministères sont pour tous. Un ministère peut s’exercer pleinement dans une assemblée locale si Dieu le veut ainsi. Un ministère s’exerce là où Dieu veut qu’il s’exerce. À ce sujet, les exemples bibliques sont clairs dans le livre des Actes des apôtres.
 
-### L’œuvre des ministères dans le livre des Actes des apôtres
+#### L’œuvre des ministères dans le livre des Actes des apôtres
 
 Le livre des Actes des apôtres sont les actes du Saint-Esprit. C’est pourquoi, chaque serviteur de Dieu doit se tenir au respect devant ce livre. Actes des apôtres peut être présenté en plusieurs parties. En effet, du premier au septième chapitre, il est question de la Pentecôte et de l’église de Jérusalem, laquelle est la première communauté de croyants dans l’histoire. Dans ces premiers chapitres apparaît également l’œuvre des premiers disciples après la Pentecôte. À partir du chapitre 8, est présentée l’œuvre en dehors de Jérusalem, en Judée, en Samarie et en Syrie. Trois serviteurs de Dieu sont présentés, notamment Philippe qui évangélisa la Samarie au chapitre 8, la conversion de Paul au chapitre 9. L’apôtre Pierre, apôtre des Juifs est présenté dans les chapitres 9, 10, 11 et 12, sans compter les premiers chapitres des Actes des apôtres où il est présenté comme celui qui apporta la première prédication et celui qui guérit le boiteux à l’entrée du temple. À partir des chapitres 13 et 14, il est question des voyages missionnaires de l’apôtre Paul, lequel s’est trouvé avec Barnabas à l’église d’Antioche. Cependant, le chapitre 15 des Actes des apôtres est le chapitre le plus important parce qu’il présente l’église des Juifs et l’église des non-Juifs, les deux symbolisées par Pierre et Paul, toutes unies par la croix du Christ ensemble pour former le corps de Christ. Après cette rencontre, les autres chapitres des Actes des apôtres relatent l’œuvre des Ministres de l’Évangile, mais plus particulièrement celle de l’apôtre Paul.
 
@@ -3717,7 +3717,7 @@ Les ministères d’Agabus, de Jude et Silas sont mis aussi en exergue. Ils éta
 
 Ce fut le même Agabus qui prophétisa encore l’arrestation de Paul à Jérusalem, à Césarée, chez Philippe (Act 21.10-11). Quant à Jude et Silas, ils exhortaient les frères et les affermissaient dans la foi (Act 15. 32). Tous ces frères dont parle la Bible sont présentés comme des prophètes, des apôtres, des évangélistes ou des docteurs. Nulle part, il est question des anciens, allant de lieu en lieu pour prêcher la Parole de Dieu. Que cela soit bien su.
 
-### Les ministères dans les assemblées locales
+#### Les ministères dans les assemblées locales
 
 Des ministères sont présentés dans les assemblées locales, dans les Actes des apôtres. Il existe plusieurs exemples, notamment les cas de l’église de Jérusalem, de l’église d’Antioche et de l’église de Césarée.
 
@@ -3781,7 +3781,7 @@ Il y avait effectivement une église à Césarée. Mais curieusement, il n’est
 
 Le constat qui est fait au regard de ce qui précède est que les assemblées n’ont pas les mêmes organisations. Là où se trouvent établis des ministères, les anciens ne sont pas présentés en premier plan. Les anciens sont mis en premier plan dans les assemblées où il n’y a pas de ministères établis. En conséquence, ce n’est pas la présence des anciens qui garantit l’ordre dans une assemblée locale. L’ordre dans l’assemblée locale est établi par la prédication de la Vérité biblique avec l’exercice exemplaire de l’autorité spirituelle détenue par celui qui gouverne comme pasteur.
 
-### La fonction d’ancien dans l’assemblée locale
+#### La fonction d’ancien dans l’assemblée locale
 
 Selon la tradition des Juifs
 
@@ -3893,7 +3893,7 @@ Il est évident qu’aucune autorité ne l’a fait. Mais dans l’organisation 
 
 Dans les églises des nations, où l’apôtre Paul et ses compagnons ont travaillé, ils ont consacré des anciens dans les églises par l’imposition des mains selon des critères inspirés du modèle de l’Ancien Testament. C’est pourquoi certains parmi les anciens ont droit à la prédication et à la présidence des rassemblements des saints. Malheureusement, le fait que certains anciens exercent la prédication et la présidence les pousse à se mettre au même niveau que les Ministres de la Parole. Le fait d’avoir reçu l’onction par l’imposition des mains a donné l’impression à certains anciens qu’ils sont Ministres de la Parole. Mais il est bon que les frères comprennent que la présidence et la prédication ne donnent pas le Ministère de la Parole. Plusieurs années passées dans la fonction d’ancien ne donnent pas le ministère de la Parole. Les anciens ne doivent pas se substituer aux Ministres de la Parole dans l’église. Mais doivent être leurs collaborateurs.
 
-### L’exercice de l’autorité spirituelle dans l’assemblée locale
+#### L’exercice de l’autorité spirituelle dans l’assemblée locale
 
 Dans une assemblée locale, il existe trois niveaux d’autorité qui s’expriment subtilement :
 
@@ -3901,7 +3901,7 @@ Dans une assemblée locale, il existe trois niveaux d’autorité qui s’exprim
 - L’autorité collégiale des anciens ou des dirigeants de l’assemblée.
 - L’autorité de l’église en tant qu’institution divine.
 
-### L’autorité du pasteur
+#### L’autorité du pasteur
 
 Dans l’assemblée locale, l’autorité spirituelle qui est la Parole est symbolisée par la chaire. La chaire est le signe extérieur de la présence de Dieu dans l’assemblée comme l’arche était le signe de la présence de Dieu dans le Tabernacle et parmi le peuple d’Israël :
 
@@ -3953,7 +3953,7 @@ Le pasteur suit la conduite du Saint-Esprit en ce qui concerne les activités sp
 
 En tant que chef du service divin, le pasteur exerce d’autres fonctions dans l’assemblée, notamment les fonctions d’intendant des biens du Seigneur et de juge. En tant que juge, il reçoit les plaintes et les accusations.
 
-### Le pasteur reçoit les plaintes et les accusations
+#### Le pasteur reçoit les plaintes et les accusations
 
 Dans l’Ancien comme dans le Nouveau Testament, ceux qui servent dans la maison de Dieu sont établis sur le peuple comme des juges :
 
@@ -3999,7 +3999,7 @@ Quand c’est le pasteur lui-même qui agit mal en péchant, ses collaborateurs 
 
 Si le pasteur n’écoute pas, il doit être démis de ses fonctions lorsqu’il s’agit d’une affaire qui peut souiller le témoignage de Dieu et de l’assemblée. Sur ce point, les anciens sont habilités à prendre une telle décision parce qu’ils sont aussi établis juges dans l’exercice de leurs fonctions.
 
-### L’autorité collégiale des anciens de l’assemblée locale
+#### L’autorité collégiale des anciens de l’assemblée locale
 
 Les anciens établis dans l’assemblée locale, par l’imposition des mains, sont des pasteurs qui partagent ensemble la tâche de la surveillance du troupeau de Dieu. Paul, exhortant les anciens d’Éphèse, leur dit :
 
@@ -4013,7 +4013,7 @@ Dans l’assemblée locale, les anciens exercent, chacun pour sa part, les fonct
 
 Dans l’exercice de l’autorité collégiale, tous les anciens doivent se réunir avec celui qui gouverne, qu’il soit ancien comme eux ou Ministre de la Parole, et examiner ensemble les affaires qui nécessitent la prise d’une décision collégiale. Toutes les affaires dans l’église ne nécessitent pas la prise d’une décision collégiale. Toutes les affaires dans l’église ne sont pas soumises aux règles de la gestion collégiale. Les affaires qui nécessitent la prise de décisions collégiales concernent notamment la consécration des anciens et des diacres, les mariages (1 Cor 7-1), la prononciation des divorces – le jugement des affaires dans la communauté – les sanctions dans la communauté (Mat 18.15-22 ; 2 thes 3. 14-15) – la question des dons collectifs (Gal 2.10) – la question des fausses doctrines et des faux enseignements (Act 15, Rom 16. 17-18) – et toute affaire qui survient dans la communauté et qui nécessite la prise d’une décision ferme à communiquer à l’ensemble. Sur ces questions, les dirigeants doivent se réunir et donner des réponses claires au peuple de Dieu d’un commun accord.
 
-### L’autorité de l’église locale
+#### L’autorité de l’église locale
 
 L’assemblée locale est composée des dirigeants et du reste du peuple de Dieu. Cette assemblée qui forme l’église du Dieu vivant est souveraine. C’est pourquoi elle a reçu le pouvoir pour lier et pour délier dans le ciel et sur la terre. L’autorité de l’église locale est le dernier recours. Elle est mise en action sur demande motivée du collège des anciens qui la sollicite d’un commun accord en cas de crise. Cette autorité est souveraine. Elle est exercée pour ouvrir et pour fermer. Pour lier et pour délier. Ce pouvoir de l’église s’exerce sur plusieurs sujets qui doivent être discernés par les dirigeants de l’église. Lorsque le collège des dirigeants veut user du pouvoir de l’église, il doit informer le peuple de Dieu en détail sur l’affaire et lui donner un délai de réflexion selon les cas. Si le sujet suscite des oppositions ou des contestations, la prière d’autorité doit être ajournée. Il vaut mieux y renoncer jusqu’à ce que le peuple soit convaincu dans son ensemble.
 
@@ -4025,7 +4025,7 @@ L’autorité de l’église locale s’exerce sur tous les sujets dans l’égl
 
 Il faut retenir en conclusion que dans l’assemblée locale, celui qui gouverne comme pasteur a une portion d’autorité qu’il exerce librement. Ceux qui travaillent avec lui doivent le savoir pour l’aider au lieu de le combattre. En retour, le pasteur doit aussi savoir que son autorité ne s’exerce pas exclusivement sur tous les sujets dans l’église, car il y a des sujets sur lesquels tous les dirigeants de l’assemblée doivent se réunir pour examiner et décider d’un commun accord. Les dirigeants de l’église doivent aussi savoir que l’assemblée locale en tant qu’institution divine a une autorité qu’elle exerce en accord avec le Seigneur. Il y a même des sujets sur lesquels le pasteur et ses collaborateurs doivent avoir le consentement de toute l’assemblée. C’est, par exemple, le cas des sanctions à infliger aux membres de la communauté. C’est aussi le cas de la consécration des anciens et des diacres. Le peuple doit donner son accord sur la consécration des anciens et des diacres en son sein. Lorsque le peuple de Dieu émet des réserves sur le témoignage d’un frère, il ne doit pas être consacré dans le service divin. C’est ainsi l’ordre de l’autorité dans l’église. Tout doit se faire dans l’ordre et la discipline pour le bonheur du peuple de Dieu.
 
-### Se ranger à l’avis du pasteur
+#### Se ranger à l’avis du pasteur
 
 Lorsque le pasteur de l’église est connu, il est bon que les frères qui prennent part à la direction de l’église se rangent à son avis, quand l’unanimité n’est pas faite sur une question qui concerne l’assemblée. Je dis cela comme une concession, ce n’est pas un ordre. Ici, il n’y a pas de démocratie. Car, dans la direction du Corps de Christ comme dans la direction d’une église locale, il n’est pas question de la victoire de la majorité sur la minorité. Dans l’Église, le Christ en tant que Chef suprême est celui qui prend les décisions. Dans les assemblées locales, la direction de l’ensemble est placée dans les mains de celui que le Christ a désigné comme pasteur, c’est-à-dire celui qui dirige la chaire. Tant que celui qui dirige n’a pas la conviction d’une décision à prendre, il est sage que cette décision ne soit pas prise par l’ensemble de ses collaborateurs, ceci pour éviter de tomber en dehors de la volonté de Dieu – à moins que librement, le pasteur accepte de s’aligner sur la décision de ses collaborateurs. Cela est possible parce qu’il peut arriver que sur un sujet, le pasteur ne soit pas particulièrement inspiré. Mais à chaque fois, les collaborateurs du pasteur doivent user de patience envers lui parce qu’il tient le bâton de commandement. Ceci est spirituel et non charnel.
 
@@ -4035,7 +4035,7 @@ Lorsque le pasteur de l’église est connu, il est bon que les frères qui pren
 
 Le fait d’être ancien est un honneur. Mais cet honneur est double quand l’ancien travaille à la chaire et à la prédication, car les fonctions de la chaire sont des fonctions sacrées. Ainsi, dans un collège d’anciens, tous ne peuvent pas avoir le même niveau d’autorité. Ceux qui prêchent prennent souvent le pas sur les autres parce que la Parole est l’autorité dans l’église. Je dois aussi dire que lorsque le pasteur de l’assemblée n’a pas obtenu le consentement de ses collaborateurs sur un sujet, il est bon et sage qu’il ajourne les décisions à prendre sur le sujet, à moins d’avoir reçu des instructions directes de la part du Seigneur sur la question.
 
-### Une assemblée divisée est dévastée
+#### Une assemblée divisée est dévastée
 
 Dans une assemblée où les frères qui prennent part à la direction de l’église refusent de travailler dans la soumission avec celui que Dieu a choisi comme celui qui est à la tête, naissent des conflits charnels et des divisions, au préjudice de toute la communauté. En ce moment, s’installent la rébellion et l’orgueil dans les cœurs des autres dirigeants. Puis les portes de la bergerie sont ouvertes à l’ennemi qui entre pour dévorer les âmes, à commencer par les plus faibles et les moins patients. En effet, Qoré, le principal instigateur du soulèvement contre Moïse, était un lévite, c’est-à-dire l’un de ceux qui prenaient part au service divin. C’est pourquoi Moïse dit :
 
@@ -4115,7 +4115,7 @@ Les conséquences de la rébellion furent très graves pour la troupe de Qoré :
 
 C’est de cette manière que Dieu releva son serviteur Moïse, en punissant de mort ceux qui s’étaient rebellés contre son autorité. C’est aussi de cette manière que les rebelles et les contestataires sont frappés de mort et d’égarement dans notre génération.
 
-### Ne point dominer le peuple de Dieu
+#### Ne point dominer le peuple de Dieu
 
 En effet, Dieu n’a pas appelé les dirigeants des assemblées à avoir des querelles inutiles entre eux, mais à l’exercice du ministère pastoral pour faire paître le peuple de Dieu dans la paix. C’est pourquoi, Paul exhortait les frères de Corinthe à la paix et à l’union :
 
@@ -4183,7 +4183,7 @@ Selon le verdict de Dieu, un pasteur ou un groupe de pasteurs (anciens) qui refu
 
 -12-
 
-## La parabole des talents
+### La parabole des talents
 
 > Il en sera comme d’un homme qui, partant pour un voyage, appela ses serviteurs, et leur remit ses biens. Il donna cinq talents à l’un, deux à l’autre et un au troisième, à chacun selon sa capacité, et il partit.
 >
@@ -4207,7 +4207,7 @@ Il dit encore :
 
 Le Seigneur n’a pas seulement laissé des instructions, mais Il a promis des dons aux hommes pour réaliser son plan de salut. Les talents dont il est question dans cette parabole représentent ces dons.
 
-### Il existe deux groupes de dons
+#### Il existe deux groupes de dons
 
 Les dons sont des biens appartenant au Seigneur. Il existe deux groupes de dons : les Ministères de la Parole et les dons du Saint-Esprit. Les ministères sont des dons faits à l’Église, qui est le Corps de Christ. À leur sujet il est écrit :
 
@@ -4227,7 +4227,7 @@ Le Seigneur distribue les dons à qui il veut, et selon les capacités des membr
 
 Les dons sont faits aux membres du Corps selon leurs capacités. Il faut que cela soit bien su, afin qu’il n’y ait pas de jalousie dans la maison de Dieu. Le don qu’un membre du Corps reçoit du Seigneur est vraiment le don qu’il devrait recevoir selon ses capacités spirituelles. Il n’y a pas à envier un frère pour son don.
 
-### Les dons doivent être mis en valeur
+#### Les dons doivent être mis en valeur
 
 Lorsqu’un don est fait, le Seigneur attend de celui qui l’a reçu qu’il le fructifie. C’est pourquoi, il est dit :
 
@@ -4269,13 +4269,13 @@ L’Évangile est public. Les dons se manifestent en public. Mais il y a des chr
 
 -13-
 
-## La parabole de la lampe
+### La parabole de la lampe
 
 > Il disait encore : est-ce que la lampe se met sous le boisseau ou sous le lit ? N’est-ce pas sur le chandelier ? Car, il n’est rien de caché qui ne doive être manifesté, rien de couvert qui ne doive venir au grand jour. Si quelqu’un a des oreilles pour entendre, qu’il entende. Il dit encore : prenez garde à ce que vous entendez. On vous mesurera avec la mesure dont vous mesurez et on y ajoutera pour vous. Car, on donnera à celui qui a ; mais à celui qui n’a pas, on ôtera même ce qu’il a (Marc 4. 21-25).
 
 La parabole de la lampe est en rapport avec l’exercice des dons et particulièrement des ministères.
 
-### Les témoins de la lumière
+#### Les témoins de la lumière
 
 Tous les Ministres de la Parole sont dans la position de Jean-Baptiste. En effet, au sujet de Jean, il fut dit :
 
@@ -4283,7 +4283,7 @@ Tous les Ministres de la Parole sont dans la position de Jean-Baptiste. En effet
 
 En tant que témoin de la lumière, Jean-Baptiste a été présenté par le Seigneur Jésus comme une lampe qui brille : « Jean était la lampe qui brûle et qui luit, et vous avez voulu vous réjouir une heure à sa lumière » (Jean 5. 35). La lampe reflète la lumière mais n’est pas la lumière. Jésus a dit : « Je suis la lumière du monde ; celui qui me suit ne marchera point dans les ténèbres, mais il aura la lumière de la vie » (Jean 8.12). Celui qui est la lumière, c’est le Christ, qui est aussi la Parole de Dieu. Les lampes, ce sont les Ministres de la Parole, notamment, les apôtres, les prophètes, les docteurs, les évangélistes et les pasteurs. Tel Jean-Baptiste a été présenté comme une lampe – tels les ministères sont vus par le Seigneur Jésus comme des lampes – des Porteurs de lumière dans le monde. En tant que des lampes, les ministères reflètent Jésus-Christ, la lumière du monde et la Parole de Dieu.
 
-### La lampe est placée sur le chandelier
+#### La lampe est placée sur le chandelier
 
 Dans la parabole, le Seigneur s’interroge en ces termes : « Est-ce que la lampe se met sous le boisseau ou sous le lit ? N’est-ce pas sur le chandelier ? » Cette interrogation du Seigneur Jésus est très remarquable et exprime une inquiétude. En effet, il existe des serviteurs de Dieu, notamment des Ministres de la Parole qui ignorent qu’ils sont des lampes qui doivent émettre de la lumière en présence de laquelle devraient se réjouir les enfants de Dieu. Dans leur ignorance, ils veulent vivre cachés et montrer en cela qu’ils sont des serviteurs de Dieu humbles et effacés. Mais malheureusement, l’humilité et l’effacement ne se trouvent pas dans le fait de se cacher ou de cacher son talent. Certains disent avoir été appelés à la prédication, mais veulent seulement s’asseoir pour écouter les autres – mettant ainsi de côté ce qu’ils ont reçu. La réalité est que Jean-Baptiste a émis de la lumière. Il n’était pas une lampe éteinte, mais bien allumée pour ceux qui cherchaient Dieu. Une lampe ne se met pas sous le boisseau, ni sous le lit. Mais bien sur le chandelier. De même, un ministère n’est pas un « fétiche », ni un « talisman », ni une chose honteuse qu’on doit cacher, ou dont on doit avoir peur ou honte d’en parler. Un ministère est un bien précieux, un trésor, – un don du Tout-Puissant à son Église. C’est pourquoi, il est dit que la lampe est placée sur le chandelier. Jésus a parlé du chandelier dans Apocalypse 1 : « Les sept chandeliers sont les sept églises » (Apoc 1.20). De tout temps, les lampes que sont les ministères ont été placées sur les chandeliers, c’est-à-dire dans les églises. Tout ministère qui se réclame de Jésus-Christ est une lampe qui doit briller dans l’Église parce que les ministères ont été faits don à l’Église. Un ministère est fait pour être manifesté dans l’Église. Un ministère est donné pour produire de la lumière afin d’éclairer la marche de l’ensemble de la chrétienté. Si les ministères ne se manifestent pas, il n’y a pas de lumière pour le peuple de Dieu – Car, les Ministres sont les porteurs de la Parole de Dieu qui est la lumière des nations. À ce sujet, Paul dit :
 
@@ -4319,7 +4319,7 @@ QUE CELUI QUI A DES OREILLES ENTENDE CE QUE L’ESPRIT DIT AUX SAINTS.
 
 -14-
 
-### Les faux ministres de la Parole – des loups ravisseurs
+#### Les faux ministres de la Parole – des loups ravisseurs
 
 Certains ont été mandatés dans la Maison de Dieu comme serviteurs, tandis que d’autres se trouvent dans le champ de Dieu comme des loups. Le Seigneur a parlé de ces faux serviteurs-là. Je ne peux pas achever cet exposé sans parler d’eux. Ces faux serviteurs sont tellement proches des vrais qu’il n’est pas facile de les reconnaître. Cependant, des indices sont donnés très clairement par le Seigneur Jésus. Il a dit :
 
@@ -4327,7 +4327,7 @@ Certains ont été mandatés dans la Maison de Dieu comme serviteurs, tandis que
 
 La confusion provient du fait que les faux prophètes qui sont les faux Ministres de la Parole viennent en vêtements de brebis. C’est-à-dire qu’ils prennent l’apparence de vrais serviteurs de Dieu. Mais au-dedans ce sont des loups ravisseurs – des gens qui n’ont jamais connu Dieu. Ils ont la nature des loups qui ravissent les brebis du Seigneur – des tueurs d’âmes. Leur place se trouve dans le feu éternel. C’est pour cela que j’ai montré que le ministère commence au-dedans avant de parvenir au-dehors. Les vrais Ministres de la Parole le sont d’abord intérieurement, tandis que les faux le sont au-dehors, puis au-dedans, ils sont des loups, des scorpions et des serpents. En donnant les fruits comme indice de reconnaissance, le Seigneur indique effectivement le vrai chemin à suivre. En effet, les fruits sont portés au-dedans, à partir du cœur. Ainsi, celui qui est un vrai pasteur se découvre comme tel à ses fruits. Les fruits ici concernent la vie d’obéissance à la Parole de Dieu – la vie de sanctification ainsi que l’exercice effectif du ministère. Le Seigneur a dit : « Plusieurs viendront sous mon nom disant : c’est moi qui suis le Christ. Et ils séduiront beaucoup de gens. » La qualité de ceux qui diront que Jésus est le Christ n’est pas précisée. Mais il s’agit de plusieurs qui viendront de cette manière. Ceci est la preuve que le temps dans lequel nous vivons est un temps de confusion.
 
-### Dans quel temps vivons-nous ?
+#### Dans quel temps vivons-nous ?
 
 Nous vivons aux temps de la fin. Et le temps de la fin est le temps des faux prophètes et des faux chrétiens. Tous les prédicateurs sont unanimes pour dire que nous sommes dans les derniers temps. C’est dans notre génération que le Seigneur Jésus-Christ reviendra. Ceci est établi selon les Écritures. Nul ne l’ignore. Et les temps dans lesquels nous vivons ont des signes particuliers dans les Saintes Écritures. L’apôtre Paul en parle dans l’épître à Timothée en ces termes :
 
@@ -4355,7 +4355,7 @@ Le Seigneur dit encore :
 
 Plusieurs faux prophètes et faux christs sont dans le monde entier. Ils séduisent beaucoup de chrétiens en venant à eux en vêtements de brebis, alors qu’ils sont des loups ravisseurs en eux-mêmes.
 
-### Balaam était un faux christ et un faux prophète
+#### Balaam était un faux christ et un faux prophète
 
 Balaam est un personnage biblique. Il avait une onction et prophétisait. Balaq, le fils du chef des Moabites eut recours à lui pour maudire les enfants d’Israël qui constituaient une menace pour son peuple. Balaq dit :
 
@@ -4385,7 +4385,7 @@ Les faux christs ont dans leur bouche un esprit de mensonge, selon la Parole de 
 
 Jésus a dit que des faux prophètes sont venus dans le monde. Ils sont tous animés par l’esprit du mensonge qui était ainsi dans la bouche de tous ces quatre cents prophètes au temps de Michée. Seul Michée avait dit la Vérité. Dans notre temps, tous ceux qui se réclament du ministère prophétique sont pour la plupart de faux prophètes. Ils sont animés de l’esprit de séduction. Ils ont le mensonge en commun. Aucun d’eux ne dit la Vérité. Ils ont tous reçu un esprit de divination et n’ont aucun message à adresser au peuple de Dieu. Au contraire, ils organisent des nuits de spectacle pour exploiter les pauvres âmes. Il faut que le peuple de Dieu sache que le temps dans lequel nous vivons est le temps des faux prophètes, le temps de la confusion dans le champ de Dieu.
 
-### L’esprit de python est à l’œuvre dans le monde
+#### L’esprit de python est à l’œuvre dans le monde
 
 > Comme nous allions au lieu de prière, une servante qui avait un esprit de python et qui, par ses divinations, procurait un grand profit à ses Maîtres, vint à notre rencontre. Elle se mit à nous suivre, Paul et nous, et criait : ces hommes sont des serviteurs du Dieu Très-Haut, et ils vous annoncent la voie du salut (Act 16.16-17).
 
@@ -4397,7 +4397,7 @@ Lors de la réception de cet esprit de python, certains voient du feu et d’aut
 
 La réalité est que le démon du python est très bien organisé. C’est de cette manière qu’il recrute lui-même ses propres serviteurs. Il recrute des prophètes et des prophétesses – des hommes et des femmes qui sont ses temples qu’il habite et au travers desquels il séduit la chrétienté dans le monde. En tant qu’Ivoirien, j’ai honte de mon pays du point de vue spirituel. En effet, j’entends dire que la Côte d’Ivoire est un pays béni parce que plusieurs dénominations y sont implantées. Mais en réalité, combien sont-ils les Ivoiriens qui ont vraiment fait la paix avec le Christ ? Combien sont-ils, les chrétiens qui ont réellement rencontré Jésus-Christ et qui ont reçu de lui, l’Esprit Saint ? Ce que j’ai découvert est que c’est l’esprit de python qui règne dans toutes ces églises, avec ses serviteurs qui adorent Mammon, le dieu de l’argent.
 
-### Les faux christs et les faux prophètes adorateurs de Mammon
+#### Les faux christs et les faux prophètes adorateurs de Mammon
 
 > Une servante qui… par ses divinations procurait un grand profit à ses Maîtres… (Act. 16.16).
 
@@ -4423,7 +4423,7 @@ Le mal des églises et des serviteurs de Dieu est l’argent. Chacun réclame un
 
 La servante qui avait l’esprit de python procurait un grand profit à ses Maîtres. Mammon, le dieu de l’argent s’est emparé des cœurs des serviteurs de Dieu – au point que servir Dieu est devenu une fonction sociale, une source de gain – un exutoire au chômage. C’est-à-dire un milieu professionnel dans lequel l’on peut trouver un emploi après quelques mois passés auprès d’un « homme de Dieu ». Mais attention ! Car, la mort se trouve sur ce chemin. Tous ceux qui emprunteront ce chemin mourront certainement.
 
-### Que dit l’écriture pour l’avenir ?
+#### Que dit l’écriture pour l’avenir ?
 
 Pour l’avenir :
 
@@ -4439,7 +4439,7 @@ Dans peu de temps, Dieu mettra fin à l’œuvre des faux prophètes et des faux
 
 Alors se manifesteront les vrais Fils de Dieu. Cette puissante action de Dieu est annoncée dans la scène prophétique des noces de Cana.
 
-### La manifestation des fils de Dieu : liens prophétiques avec les noces de Cana
+#### La manifestation des fils de Dieu : liens prophétiques avec les noces de Cana
 
 La manifestation des fils de Dieu à la fin des temps a lieu par la puissance de Dieu. Car, c’est l’action conjuguée de la Parole et de l’Esprit de Dieu qui manifeste les enfants de Dieu. Il est important de préciser avant d’aller plus loin, que la manifestation des fils de Dieu n’est pas seulement la manifestation de la puissance de Dieu, mais aussi la manifestation de la vie de Jésus-Christ dans le croyant. Car, la Parole de Dieu a le pouvoir de transformer. Celui qui se nourrit de la Parole de Dieu sera confondu à cette Parole et épousera ses attributs. La manifestation des fils de Dieu est donc la manifestation des attributs de la Parole de Dieu à laquelle nous sommes rendus semblables à la fin des temps. À la fin, nous épouserons les attributs et les vertus du Christ. Les élus épouseront entre autres vertus, la puissance de Dieu qui est une onction particulière qui vient sur les fils de Dieu à la fin de leur marche, pour les manifester au monde. Cette dernière étape du plan de Dieu pour les nations est prédite dans les noces de Cana, où Jésus-Christ fit son premier miracle. « Les noces de Cana » fait partie d’un ensemble de scènes prophétiques relatées dans les Évangiles.
 
@@ -4565,7 +4565,7 @@ Certainement que ceux qui prêchent pour le vin sont aux prises avec l’adversa
 
 ## Appendice 1 : trois grandes visions du Message de la fin des temps
 
-### Le prophète et la vision
+#### Le prophète et la vision
 
 > L’Éternel dit : Écoutez bien mes Paroles ! Lorsqu’il y aura parmi vous un prophète, c’est dans une vision que Moi, l’Éternel, je me ferai connaître à lui, c’est dans un songe que Je lui parlerai (Nbres 12/6).
 
@@ -4599,9 +4599,9 @@ Dans notre génération, Dieu a suscité un prophète majeur en la personne de W
 
 Première vision
 
-### Le ministère d’Élie
+#### Le ministère d’Élie
 
-### Ministère de restauration de la Parole
+#### Ministère de restauration de la Parole
 
 > Voici moi-même je vous enverrai le prophète Élie, avant la venue du jour de l’Éternel, jour grand et redoutable. Il ramènera le cœur des pères à leurs fils et le cœur des fils à leurs pères, de peur que je ne vienne frapper le pays d’interdit (Mal 4/5).
 
@@ -4647,9 +4647,9 @@ Tout le Corps du Christ doit être bien illuminé – c’est pour cette raison 
 
 Deuxième vision
 
-### Le ministère du serviteur fidèle et prudent
+#### Le ministère du serviteur fidèle et prudent
 
-### Ministère de distribution de la nourriture
+#### Ministère de distribution de la nourriture
 
 > Quel est donc le serviteur fidèle et prudent, que son Maître a établi sur ses gens, pour leur donner la nourriture au temps convenable ? (Mat 24.45).
 
@@ -4675,7 +4675,7 @@ Selon que le Seigneur l’a dit, le serviteur fidèle et prudent est établi sur
 
 Troisième vision
 
-### La voix de minuit – un ministère de réveil
+#### La voix de minuit – un ministère de réveil
 
 > Au milieu de la nuit, il y eut un cri : voici l’époux, sortez à sa rencontre ! (Mat 25.6).
 
@@ -4799,7 +4799,7 @@ Il existe aussi des brèches dans le mariage, notamment dans les foyers, parce q
 
 De même, la femme qui s’attache à son mari dans une entière soumission sera pleinement unie à lui en Esprit. Le problème du mariage a toujours été la soumission de la femme en toutes choses à son mari. C’est là la clé du succès de toute union en Christ. Dans le monde, les femmes revendiquent l’égalité avec les hommes dans le foyer. Cette lutte de revendication n’est pas simple. Mais elle a lieu parce que le diable sait que la clé du succès dans le mariage est la soumission. C’est pourquoi il l’attaque par la lutte émancipatrice des femmes. L’émancipation consiste à briser l’ordre divin naturel établi dans le mariage pour créer le chaos.
 
-### Il est minuit – alerte maximum
+#### Il est minuit – alerte maximum
 
 Tous ceux qui sont élus dans ce Message du temps de la fin sont un peuple en alerte à partir de minuit. IL EST MINUIT. Nous sommes un peuple en alerte, c’est pourquoi doit prendre fin la vie de désordre en notre milieu. Tous ceux qui prennent part à la reconstruction de la muraille sont des hommes disposés au combat spirituel. C’est pourquoi Néhémie en homme averti dit à ses frères :
 
@@ -4863,7 +4863,7 @@ Cette armée a été vue par la sentinelle de la nuit, le guetteur qui se tient 
 
 Babylone la grande confusion est tombée – et sa chute a été l’œuvre de l’armée du salut – les cavaliers de l’Éternel qui ont mené la grande guerre de la fin des temps. Mais avant ce grand combat, il faut que la ville de Jérusalem soit en sécurité – ce qui passe par la fermeture de toutes les brèches de sa muraille. Que chacun ferme les brèches qui se trouvent dans sa propre vie – et toute l’Église verra la gloire de Dieu. En effet, là où il y a des brèches, l’unité de l’Esprit n’y est pas. Or, la puissance de Dieu que le peuple saint attend se manifeste dans l’unité de l’Esprit.
 
-### Soyez des disciples dans la prière
+#### Soyez des disciples dans la prière
 
 La troisième vision est la vision de la réconciliation des cœurs, la vision de la persévérance dans le jeûne et la prière. Mais comment l’Église peut-elle être exaucée si les frères sont divisés et séparés les uns des autres ? La vision du réveil est une vision de réconciliation, car seule l’unité de l’Esprit garantira le succès du Ministère de l’Épouse et sa victoire sur l’adversaire. Tout réveil arrive par le jeûne et par la prière. Aucun chrétien ne dira le contraire sur ce fait. La première effusion du Saint-Esprit qui eut lieu au temps de nos pères apostoliques arriva alors que ceux-ci persévéraient dans la prière à la chambre haute, d’un commun accord sur ordre du Seigneur Jésus-Christ lui-même. Ce fut la toute première effusion du Saint-Esprit dans le Nouveau Testament (Act 1.13-14). Dans l’attente du Saint-Esprit, les disciples persévéraient dans la prière. C’est donc à une autre chambre haute que le Seigneur convie l’Église étant donné qu’elle attend le réveil. L’église attend la pluie de l’arrière-saison pour entreprendre la moisson de la terre. Nul ne peut échapper à la chambre haute. Plusieurs d’entre les frères négligent la prière. Ils ne désirent même pas prier, mais attendent qu’un miracle ait lieu et que du coup, le réveil descende du ciel. Cette attitude n’est pas biblique. Ce qui est biblique est l’attente du réveil à la chambre haute.
 
@@ -4893,7 +4893,7 @@ Priez-vous les nuits ? Trouvez-vous du temps pour prier à l’écart comme le S
 
 Que les frères et sœurs s’adonnent au jeûne et à la prière plus que par le passé. Que les couples s’adonnent à la prière dans les maisons. Que les lieux de rassemblement multiplient les moments de prière. Qu’on le fasse d’un commun accord étant uni dans l’amour, en bannissant l’hypocrisie et les vilains sentiments. Qu’on le fasse régulièrement autant que cela est possible. Car dans peu de temps, le Seigneur Jésus-Christ descendra du ciel et les puissances des cieux seront ébranlées.
 
-### Deux manières de prier enseignées par Jésus
+#### Deux manières de prier enseignées par Jésus
 
 Dans les Écritures, il existe deux exemples de prière enseignés par notre Seigneur. Il faut tenir compte de ces deux types de prière dans la vie chrétienne pratique : le « Notre père » selon Matthieu 6.9-13 ; et « Gethsémané » selon Luc 22/39-44 et Marc 14/32-33.
 
@@ -4913,7 +4913,7 @@ Plusieurs ont expérimenté Gethsémané – entre autres – Jacob, qui lutta a
 
 Le combat est donc dans la prière et non dans les murmures – dans la prière et non dans les plaintes – dans la prière et non dans les calomnies. Certes, de grandes révélations ont été faites à l’Épouse, mais cela ne doit pas remplacer sa vie de prière et de communion avec Dieu.
 
-### La prière exige la persévérance
+#### La prière exige la persévérance
 
 Le vainqueur est celui qui persévère dans la prière :
 
@@ -4991,7 +4991,7 @@ Car, avoir la possibilité d’entreprendre une œuvre ne veut pas dire qu’on 
 
 Il est bon que ceux qui travaillent dans la maison de Dieu comprennent que le Seigneur trouve plus de plaisir à se faire servir par ceux qu’Il s’est choisis lui-même. Le Seigneur aime se faire servir par les vases qu’Il s’est réservés pour lui-même dans sa maison. Ceci dans tous les domaines de l’œuvre. Quand il s’agit de prêcher la Parole de Dieu, il faut toujours faire premièrement de la place à ceux qu’on sait être des Ministres de la Parole dans l’église. Quand il s’agit de conduire le peuple de Dieu dans l’adoration par la louange, il faut aussi faire premièrement de la place à ceux qui sont reconnus comme étant des Ministres de la louange dans l’assemblée. Il est souvent honteux de voir des hommes non qualifiés debout à la place de ceux qui sont qualifiés dans l’œuvre – ceci pour des raisons qui sont charnelles. Dans cette affaire, ceux qui ne connaissent pas leur position comme ces rois, et qui veulent se mettre à la place des autres sont toujours punis par Dieu, d’une manière ou d’une autre.
 
-### Comment reconnaître un ministère ?
+#### Comment reconnaître un ministère ?
 
 Je voudrais profiter de ce témoignage pour répondre à cette brûlante question qui revient sur les lèvres des enfants de Dieu. Plusieurs frères se demandent comment reconnaître un ministère. Pour répondre à cette question, il faut que la Bible elle-même s’exprime clairement, parce que toutes les fois que les hommes veulent s’exprimer sur le sujet, ils ne disent pas tout. Mais la Bible dit tout sur cette question. Selon ce qui est écrit, la chose dépend de celui qui porte le ministère d’une part et de ceux qui sont les bénéficiaires du ministère d’autre part. Mais avant d’en arriver à ce point, je voudrais dire que ceux qui sont appelés au ministère se découvrent dans les débuts par rapport à leur attitude vis-à-vis de l’œuvre de Dieu. Déjà à douze ans, le Seigneur Jésus se montrait très intéressé par les choses de Dieu. Il avait déjà fait le choix entre ses parents et l’œuvre de Dieu. À ce sujet, il leur dit :
 
@@ -5091,7 +5091,7 @@ Toutefois, un ministère se voit à l’œil nu – une œuvre se voit à l’œ
 
 La reconnaissance des ministères dans une assemblée locale doit se faire par les autorités en charge de l’assemblée. Et de la place doit être faite à ces ministères dans l’église afin qu’ils s’exercent librement. Il n’est pas bon que des ministères s’exercent dans une assemblée et que la direction de l’église ne dise rien à leur sujet. Il faut le faire pour tranquilliser la foi des saints de la localité. C’est dans ce but que les sacrificateurs sont allés demander à Jean ce qu’il était. C’était une juste préoccupation, car Jean prêchait en dehors du temple et faisait des baptêmes. Jean n’était pas dans le même champ que les scribes et les pharisiens. C’est pourquoi le peuple de Dieu devrait être informé au sujet de son ministère. C’est aussi pour cette raison que Jean leur répondit sans détour. Mais généralement, ceux qui ne reconnaissent pas les ministères s’y opposent et un ministère qui n’est pas reconnu finit par s’imposer.
 
-### Les oppositions aux ministères
+#### Les oppositions aux ministères
 
 Je voudrais aussi aborder cette question importante concernant les oppositions aux ministères. En effet, dans l’exercice du ministère, les serviteurs de Dieu sont souvent confrontés à des rébellions et à des incompréhensions provenant de leur propre entourage. Cela est vu clairement dans la Bible. Joseph fut incompris de ses frères et vendu en Égypte (Gen 37). Plus tard, lorsque Moïse fut mandaté pour délivrer Israël, il s’est trouvé des opposants sur son chemin – des gens qui étaient dans le service divin comme lui (Nomb 16). C’est toujours ainsi. Les rébellions et les oppositions aux ministères commencent toujours avec ceux qui sont dans le service divin sans trop savoir comment ils y sont parvenus. Ceux qui ne savent pas la valeur des ministères s’y opposent toujours. Or, un ministère devrait être considéré comme une grâce de Dieu par les saints. Tout frère qui porte un ministère dans l’assemblée devrait être considéré comme une grâce de Dieu par les saints. Un tel frère devrait aussi conduire son ministère en sorte à être une véritable source de bénédiction pour les saints.
 
@@ -5117,7 +5117,7 @@ Quant à Jésus, ses frères étaient jaloux de lui. Ils le prenaient pour quelq
 
 C’est ainsi dans la maison de Dieu. Certains sont jaloux de l’appel des autres et s’en moquent. Ils développent des esprits de raillerie et de diffamation pour rien, simplement en vue de faire passer l’existence du don pour un non-événement. Mais qui peut s’opposer à Dieu et à ses oints ? Ceux qui disent que personne ne peut empêcher l’exercice d’un ministère sont les mêmes qui s’opposent à l’exercice des ministères quand ils n’évoluent pas dans leurs écuries religieuses. C’est de cette manière que le Seigneur essuya l’hostilité des religieux de son époque. Les scribes et les pharisiens combattaient Jésus parce qu’Il n’était pas avec eux. Ils auraient voulu l’avoir avec eux, mais Jésus n’était pas avec eux parce qu’ils étaient devenus des religieux.
 
-### La religion se construit à l’intérieur des versets bibliques
+#### La religion se construit à l’intérieur des versets bibliques
 
 La religion se construit à l’intérieur des versets bibliques. La religion se construit aussi à l’intérieur des déclarations des serviteurs de Dieu. Tout ceci par des disciples qui n’ont pas reçu l’Esprit de la Vérité qui est Christ lui-même. Les mormons ont construit leur religion à l’intérieur des déclarations de Joseph Smith. Les musulmans ont édifié leur religion à l’intérieur des paroles de Mahomet. Les pharisiens ont utilisé la loi pour créer leur religion avec les traditions tandis que les apôtres l’ont utilisée pour expliquer la nouvelle alliance en Jésus-Christ. Les Branhamistes ont construit leur religion à l’intérieur des déclarations du prophète William Branham qui n’a fait que prêcher la Vérité biblique. À ce sujet, Ewald Frank écrit :
 
@@ -5151,7 +5151,7 @@ Moïse avait la vision de la conduite du peuple dans le désert. Mais les religi
 
 Ce qu’on voit est que les dirigeants religieux abrutissent ceux qu’ils dirigent. En effet, les pharisiens de l’époque avaient abruti les peuples qui étaient sous leur surveillance par leur vie de religion. Jésus a dit qu’à l’intérieur d’eux-mêmes, ils étaient des tombeaux blanchis et des ossements de morts (Mat 23.25-27). La religion communique la mort à ceux qui la vivent et s’y plaisent. Elle rend aveugle, c’est pour cette raison que Jésus a dit que les pharisiens étaient aveugles. Ils étaient aveugles et avaient rendu aveugles ceux qu’ils dirigeaient. Ceci doit interpeller les dirigeants des églises. En effet, les pharisiens sont devenus aveugles parce qu’ils avaient rejeté la Parole de la Vérité. Car c’est la Parole de Dieu qui est une lumière sur notre sentier et une lampe à nos pieds (Ps 119.105). Lorsqu’elle est rejetée, celui qui l’a rejetée est frappé d’aveuglement et de mort. Ainsi, là où est refoulée la révélation de la Parole au profit des vieilles pratiques, se trouvent installés ensemble la mort et l’aveuglement parmi les conducteurs et le reste du peuple. Il faut en ce moment un secours extérieur pour ramener les naufragés à l’ordre originel.
 
-### La manifestation du ministère
+#### La manifestation du ministère
 
 Par expérience, je sais aussi que le vrai ministère est révélé après le baptême du Saint-Esprit. À ce sujet, le Seigneur a été clair avec ses disciples. Il leur dit :
 
@@ -5161,7 +5161,7 @@ Nous voyons bien que les vrais témoins du Christ le sont après avoir reçu le 
 
 En effet, pour prêcher la Parole de Dieu, il faut avoir l’Esprit de Dieu. S’il y a aujourd’hui des erreurs dans le monde de la chrétienté, c’est parce que plusieurs prêchent la Parole de Dieu sans avoir reçu l’Esprit Saint. Pour ceux-là, une formation dans une école pastorale ou dans un Institut biblique a suffi. Or, cela ne suffit pas. Ce qui est essentiel et qui est suffisant pour la prédication de la Parole, c’est l’Esprit de Dieu. Une ordination reçue d’un pasteur expérimenté ne qualifie pas au ministère – les seules qualifications demeurent le Saint-Esprit et l’appel de Dieu.
 
-### L’expérience de la séduction
+#### L’expérience de la séduction
 
 J’ai été confronté dans mon ministère à l’esprit de séduction. Ma rencontre avec cet esprit a eu lieu lorsque le Seigneur a commencé à me montrer régulièrement des visions. Il m’a été difficile d’accepter les visions au début parce que je croyais qu’elles provenaient des démons. J’ai beaucoup prié pour les chasser, mais j’ai fini par comprendre qu’elles venaient de Dieu. C’était un ange qui me les montrait. Cependant, je n’avais pas eu tort de croire en la présence des démons dans les visions. Car il se trouvait effectivement un esprit de séduction qui entendait opérer discrètement et subtilement dans ma vie. Plusieurs fois, il est venu sous une forme corporelle pour m’adresser la parole, espérant me conquérir. Cet esprit voulait faire de moi son serviteur comme plusieurs le sont aujourd’hui. Je l’ai su lorsqu’il me proposa d’aller fonder une église dans un lieu qu’il m’a indiqué, en me signifiant qu’il y aurait des prodiges, des miracles et des guérisons dans cette église.
 
