@@ -31,7 +31,8 @@ Before the design work, Samuel asked for the data to be « correct, clean »
 
 1. **`scripts/mevar-media.json`** holds the decisions: which recording in
    `audio/` belongs to which post, and which YouTube video. Recordings are
-   matched by title, part number and date. 66 SoundCloud posts have one.
+   matched by title, part number and date. 64 of the 69 SoundCloud posts
+   have one.
    Three posts with a full text get the recording of the same sermon
    (same title and date). A recording that matches no post is left out
    and listed in the PR.
