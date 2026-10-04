@@ -13,3 +13,9 @@ export function setField(text, key, value) {
   const next = lineRe.test(fm) ? fm.replace(lineRe, `${key}: ${JSON.stringify(value)}`) : `${fm}\n${key}: ${JSON.stringify(value)}`;
   return text.replace(fm, () => next);
 }
+
+// Removes a field's line from a text's frontmatter, if it has one
+export function dropField(text, key) {
+  const fm = frontmatter(text);
+  return text.replace(fm, () => fm.replace(new RegExp(`^${key}: .*(\\n|$)`, "m"), "").replace(/\n$/, ""));
+}

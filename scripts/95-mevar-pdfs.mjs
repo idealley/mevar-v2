@@ -8,7 +8,8 @@
 //   mevar.org PDF already has its own); and the PDF of its text.
 // - A Ghost post (source mevar, a post, not a page) that had no PDF: the
 //   OneDrive original of the same work, where one of its OneDrive
-//   duplicates has it; otherwise the PDF of its text.
+//   duplicates has it; otherwise the PDF of its text, unless it has hardly
+//   any (goal 25).
 // The PDF of a text: the text as the site shows it, with its title,
 // subtitle, preacher, date and place, and its page numbers, written to
 // files/mevar-text/<slug>.pdf and named in `text_pdf`.
@@ -29,7 +30,7 @@ import sharp from "sharp";
 import { fromMarkdown } from "mdast-util-from-markdown";
 import { frenchSpacing } from "../web/src/lib/french-typography.mjs";
 
-import { frontmatter, field, setField } from "./frontmatter.mjs";
+import { frontmatter, field, setField, dropField } from "./frontmatter.mjs";
 const root = path.resolve(import.meta.dirname, "..");
 const dry = process.argv.includes("--dry");
 const inventory = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive-inventory.json"), "utf8"));
@@ -213,6 +214,10 @@ async function writeText(t, text) {
   }
   return setField(text, "text_pdf", `/${dest}`);
 }
+// A post that is a line or two, the caption of its recording or video, has
+// no PDF of its text (goal 25): its words, the related posts and the
+// headings left out. The longest such post has 78 words, the shortest text 295.
+const words = (t) => (t.text.slice(t.fm.length + 9).split(/\n\* \* \*\n+### Sur le même sujet/)[0].replace(/^#+ .*$/gm, "").match(/[\p{L}\d]+/gu) ?? []).length;
 // the OneDrive duplicates of each work
 const duplicates = new Map();
 for (const t of texts.values()) {
@@ -234,9 +239,9 @@ for (const t of texts.values()) {
   } else if (source === "mevar" && field(t.fm, "type") === "post" && !field(t.fm, "pdf_url") && !field(t.fm, "local_pdf")?.startsWith("/files/mevar/")) {
     // a Ghost post without a PDF of its own: its OneDrive duplicate's original, or its text
     const original = (duplicates.get(t.md) ?? []).map(originalOf).find(Boolean);
-    text = original ? copyOriginal(original, text) : await writeText(t, text);
+    text = original ? copyOriginal(original, text) : words(t) < 100 ? dropField(text, "text_pdf") : await writeText(t, text);
   } else continue;
-  if (text !== t.text) { frontmatters++; if (!dry) fs.writeFileSync(path.join(root, t.md), text); }
+  if (text !== t.text) { frontmatters++; t.fm = frontmatter(text); if (!dry) fs.writeFileSync(path.join(root, t.md), text); }
 }
 // a PDF of a text it made that no text names any more (a text renamed by
 // 88); never an original, never a file another text names
