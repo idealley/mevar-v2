@@ -44,6 +44,7 @@ bible_refs:
   - "Matthieu 8:5-13"
   - "Josué 1:2"
 original: "branham/1951/51-0503"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510503Comme-avec-Moise.pdf"
 ---
 **2.** Un bras paralysé a été redressé aujourd'hui. Je ne peux rien par moi-même, c'est la foi en lui, et j'essaie de vous présenter celui qui est parmi vous. Mais il semble difficile aux gens de croire s'ils ne montent pas sur l'estrade. On m'a fait remarquer que pendant que je priais pour cinq personnes, d'autres pouvaient prier pour cinq cents. J'aimerais tant que tous entrent en contact avec Jésus plutôt qu'avec moi, car il n'y a rien en moi. Or le Saint-Esprit est partout présent ici. Hier, un paralysé a vu ce qui se passait sur l'estrade, et il s'est dit : "Saint-Esprit, guéris-moi aussi, je t'accepte", et c'est arrivé ! Le Sénateur Upshaw était paralysé depuis 66 ans. Je ne l'ai pas touché, j'ai eu une vision, et il a simplement accepté ce que j'ai dit. Sa foi en Jésus-Christ l'a guéri.
 

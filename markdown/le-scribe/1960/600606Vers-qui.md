@@ -65,6 +65,7 @@ bible_refs:
   - "Romains 8:30"
   - "Marc 16"
 original: "branham/1960/60-0606"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600606Vers-qui.pdf"
 ---
 “Vers qui irions-nous ?” (le 6 juin1960)
 

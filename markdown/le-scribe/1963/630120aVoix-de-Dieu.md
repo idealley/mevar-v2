@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 5:25"
   - "2 Timothée 3:5"
 original: "branham/1963/63-0120M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630120aVoix-de-Dieu.pdf"
 ---
 *La voix de Dieu en ces derniers jours*
 *20 janvier 1963, dimanche matin, Phoenix (Arizona)*

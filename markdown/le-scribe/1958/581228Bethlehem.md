@@ -65,6 +65,7 @@ bible_refs:
   - "Matthieu 15:9"
   - "Jean 15:1"
 original: "branham/1958/58-1228"
+local_pdf: "https://files.mevar.org/le-scribe/1958/581228Bethlehem.pdf"
 ---
 **Résumé de : “Pourquoi la petite Bethléhem ?” (28 décembre 1958)**
 

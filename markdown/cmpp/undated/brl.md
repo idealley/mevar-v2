@@ -139,6 +139,7 @@ bible_refs:
   - "Matthieu 20:26"
   - "Jean 13"
   - "1 Timothée 5:10"
+local_pdf: "https://files.mevar.org/cmpp/undated/brl.pdf"
 ---
 # Baptême — repas du Seigneur — lavage des pieds
 

@@ -43,6 +43,7 @@ bible_refs:
   - "Apocalypse 3:17-18"
   - "Zacharie 14:7"
 original: "branham/1958/58-0609"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580609Laodicee.pdf"
 ---
 *Message à l'église de Laodicée* (9 juin 1958, soir)
 

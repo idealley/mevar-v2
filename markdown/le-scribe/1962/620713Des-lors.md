@@ -53,6 +53,7 @@ bible_refs:
   - "Marc 1:40,41"
   - "1 Corinthiens 11:10"
 original: "branham/1962/62-0713"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620713Des-lors.pdf"
 ---
 **Résumé de!: “Dès ce moment” (13 juillet 1962, soir)**
 

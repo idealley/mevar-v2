@@ -55,6 +55,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Malachie 3:10"
 original: "branham/1960/60-0109"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600109Voir-Jesus.pdf"
 ---
 “Nous voudrions voir Jésus” (le 9 janvier 1960)
 

@@ -58,6 +58,7 @@ bible_refs:
   - "Luc 17:28"
   - "Luc 8:46"
 original: "branham/1965/65-0118"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650118Semence-discorde.pdf"
 ---
 **Résumé de : “La semence de discorde” (18 Janvier 1965, soir)**
 

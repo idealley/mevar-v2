@@ -45,6 +45,7 @@ bible_refs:
   - "Marc 11:24"
   - "Jean 15:7"
 original: "branham/1959/59-0611"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590611Decision.pdf"
 ---
 **1.** … [Prière pour la réunion, pour que les pasteurs repartent avec une vision renouvelée, pour les grands malades qui téléphonent depuis les hôpitaux de la région, etc.] …
 

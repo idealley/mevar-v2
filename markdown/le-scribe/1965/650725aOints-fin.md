@@ -92,6 +92,7 @@ bible_refs:
   - "Jean 8:24"
   - "Zacharie 14:7"
 original: "branham/1965/65-0725M"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650725aOints-fin.pdf"
 ---
 **Résumé de : “Les oints du temps de la fin” (25 juillet 1965, matin)**
 

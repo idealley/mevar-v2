@@ -46,6 +46,7 @@ bible_refs:
   - "Jean 3:3"
   - "1 Thessaloniciens 4:14-17"
 original: "branham/1959/59-0525"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590525Image-Christ.pdf"
 ---
 “Des images de Christ” (25 mai 1959)
 

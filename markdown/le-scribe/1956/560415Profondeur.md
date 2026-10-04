@@ -46,6 +46,7 @@ bible_refs:
   - "1 Timothée 2:5"
   - "Jean 5:19"
 original: "branham/1956/56-0415"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560415Profondeur.pdf"
 ---
 **Résumé de : "La profondeur appelle la profondeur" (15 avril 1956)**
 

@@ -37,6 +37,7 @@ bible_refs:
   - "Job 19:26"
   - "Actes 2:26-27"
 original: "branham/1962/62-0313"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620313Expressions.pdf"
 ---
 *Résumé de!: “Expressions” (13 mars 1962, après-midi)*
 

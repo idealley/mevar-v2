@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 3:16"
   - "Ésaïe 53:5"
 original: "branham/1955/55-1007"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551007Decision.pdf"
 ---
 **LE POUVOIR DE DECISION-**
 *THE POWER OF DECISION*

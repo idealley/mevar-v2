@@ -64,6 +64,7 @@ bible_refs:
   - "Actes 2:28"
   - "Matthieu 9:37-38"
 original: "branham/1959/59-1115"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591115Ministere.pdf"
 ---
 **1.** … Nous partons après la réunion pour San Jose, en Californie, puis à une réunion de deux jours des Hommes d’Affaires. Je suis dans une grande attente ce matin car je crois que nous sommes à la veille de quelque chose que Dieu va faire pour aider ses enfants à aller plus loin. La Bible dit que lorsque l’ennemi vient comme un torrent, l’Esprit de Dieu dresse une bannière contre lui. Quand Dieu bénit son Eglise mais qu’elle laisse le monde entrer, alors elle commence à s’écrouler. C’est alors que l’Esprit de Dieu intervient et brandit la bannière et un réveil éclate. Notre espérance est que l’Esprit de Dieu ramène Jésus sur la terre. Ce sera alors la perfection.
 

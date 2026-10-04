@@ -66,6 +66,7 @@ bible_refs:
   - "Actes 10:35"
   - "Marc 16:17-18"
 original: "branham/1962/62-0620"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620620Ne-crains-pas.pdf"
 ---
 **Résumé de!: “N’ayez pas peur” (20 juin 1962, soir)**
 

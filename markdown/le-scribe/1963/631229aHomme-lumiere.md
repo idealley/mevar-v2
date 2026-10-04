@@ -85,6 +85,7 @@ bible_refs:
   - "Matthieu 4:4"
   - "Jean 17:18"
 original: "branham/1963/63-1229M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631229aHomme-lumiere.pdf"
 ---
 **Résumé de!: “Il y a un homme ici qui peut faire la lumière” (29 décembre 1963 matin)**
 

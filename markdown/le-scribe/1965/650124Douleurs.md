@@ -58,6 +58,7 @@ bible_refs:
   - "Hébreux 4:12-13"
   - "Ésaïe 52:11"
 original: "branham/1965/65-0124"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650124Douleurs.pdf"
 ---
 **Résumé de : “Les douleurs de l'enfantement” (24 Janvier 1965, après-midi)**
 

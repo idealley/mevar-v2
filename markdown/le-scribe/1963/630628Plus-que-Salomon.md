@@ -67,6 +67,7 @@ bible_refs:
   - "Matthieu 5:48"
   - "Marc 5:25-34"
 original: "branham/1963/63-0628E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630628Plus-que-Salomon.pdf"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (28 Juin 1963, soir)*
 

@@ -53,6 +53,7 @@ bible_refs:
   - "1 Corinthiens 12:13"
   - "Matthieu 4:23-25"
 original: "branham/1950/50-0821"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500821Ange-mission.pdf"
 ---
 **L'ANGE ET SON ORDRE DE MISSION**
 *THE ANGEL AND THE COMMISSION*

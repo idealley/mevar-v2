@@ -41,6 +41,7 @@ bible_refs:
   - "Marc 9:23"
   - "Proverbes 13:15"
 original: "branham/1955/55-0626A"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550626aHistoire-vie.pdf"
 ---
 Résumé de : “Histoire de ma vie” (26 juin 1955, après-midi)
 

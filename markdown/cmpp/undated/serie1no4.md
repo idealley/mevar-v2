@@ -98,6 +98,7 @@ bible_refs:
   - "Hébreux 12:5"
   - "Luc 11:13"
   - "Actes 4"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie1no4.pdf"
 ---
 SERIE 1 N° 4
 

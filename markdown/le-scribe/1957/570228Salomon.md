@@ -43,6 +43,7 @@ bible_refs:
   - "Psaumes 103:3"
   - "Matthieu 10"
 original: "branham/1957/57-0228"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570228Salomon.pdf"
 ---
 **Résumé de!: “Il y a ici plus que Salomon” (28 février 1957, soir)**
 

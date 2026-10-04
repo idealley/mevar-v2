@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 17:17"
   - "Ésaïe 6:7"
 original: "branham/1955/55-0724"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550724Esprit-seduction.pdf"
 ---
 Résumé de!: “Esprits séducteurs ou Parole de Dieu” (24 juillet 1955, matin)
 

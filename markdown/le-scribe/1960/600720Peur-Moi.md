@@ -66,6 +66,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jérémie 1:5"
 original: "branham/1960/60-0720"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600720Peur-Moi.pdf"
 ---
 **1.** [Salutations]. J'ai découvert ce matin le tarif du motel, et j'ai changé d'endroit. J'ai expliqué au frère Folst que l'église ne doit pas faire une telle dépense, ce n'est pas chrétien. Je devrais être en Allemagne, mais il y a eu des problèmes.
 

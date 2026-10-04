@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 6:37"
   - "Hébreux 12:16,17"
 original: "branham/1956/56-0805"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560805Condition-Eglise.pdf"
 ---
 Résumé de!: “L'Eglise et sa condition” (5 août 1956)
 

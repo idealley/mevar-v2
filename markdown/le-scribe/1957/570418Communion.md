@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 5:6"
   - "Hébreux 11:26"
 original: "branham/1957/57-0418"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570418Communion.pdf"
 ---
 **Résumé de!: “La Communion” (18 avril 1957)**
 

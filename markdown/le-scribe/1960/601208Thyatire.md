@@ -92,6 +92,7 @@ bible_refs:
   - "Apocalypse 2:25"
   - "Ésaïe 49:15"
 original: "branham/1960/60-1208"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601208Thyatire.pdf"
 ---
 **Résumé de!: “L’âge de l’église de Thyatire” (8 décembre 1960, soir)**
 

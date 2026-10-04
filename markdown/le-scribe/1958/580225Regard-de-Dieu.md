@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 8:58"
   - "Jean 15:5"
 original: "branham/1958/58-0225"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580225Regard-de-Dieu.pdf"
 ---
 *Résumé de : "Le regard de Dieu" (25 février 1958, soir)*
 

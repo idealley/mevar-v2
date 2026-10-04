@@ -78,6 +78,7 @@ bible_refs:
   - "Colossiens 2:9"
   - "Actes 4:12"
 original: "branham/1965/65-0801M"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650801Age-mauvais.pdf"
 ---
 **Résumé de : “Le dieu de cet âge mauvais” (1er août 1965, matin)**
 

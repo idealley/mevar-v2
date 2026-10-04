@@ -63,6 +63,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Jean 6:44"
 original: "branham/1959/59-0707"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590707Baume_Galaad.pdf"
 ---
 “Un Baume en Galaad” (7 juillet 1959)
 

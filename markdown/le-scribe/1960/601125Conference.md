@@ -82,6 +82,7 @@ bible_refs:
   - "Deutéronome 13:1-3"
   - "Deutéronome 18:15"
 original: "branham/1960/60-1125"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601125Conference.pdf"
 ---
 **Résumé de "Conférence" (le 25 novembre 1960)**
 

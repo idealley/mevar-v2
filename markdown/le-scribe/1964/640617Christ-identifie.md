@@ -63,6 +63,7 @@ bible_refs:
   - "Jean 1:12"
   - "Hébreux 4:15"
 original: "branham/1964/64-0617"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640617Christ-identifie.pdf"
 ---
 Résumé de : “Le Christ identifié en tous les âges” (17 juin 1964, soir)
 

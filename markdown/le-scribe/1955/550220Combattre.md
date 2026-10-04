@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 5:24"
   - "2 Rois 3:15"
 original: "branham/1955/55-0220E"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550220Combattre.pdf"
 ---
 **1.** Je suis heureux d’être à nouveau ici pour vous apporter le message que le Seigneur m’a donné pour le Royaume et la gloire de son Eglise. Nous envisageons de tenir une réunion chez les Apaches. J’ai noté que la façon d’agir du Saint-Esprit dans mes réunions semble bizarre aux Américains. C’est à cause de toutes ces dénominations et de ces opinions qui les endoctrinent. L’Amérique est devenue une Babylone moderne.
 

@@ -55,6 +55,7 @@ bible_refs:
   - "Marc 16"
   - "Jean 5:19"
 original: "branham/1955/55-0228"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550228Separer.pdf"
 ---
 **Résumé de : “Se séparer de l’incrédulité” (28 février 1955, soir)**
 

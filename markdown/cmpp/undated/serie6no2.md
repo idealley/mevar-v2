@@ -55,6 +55,7 @@ bible_refs:
   - "Romains 9"
   - "Jean 6"
   - "Hébreux 13:8"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie6no2.pdf"
 ---
 SERIE 6, N° 2
 

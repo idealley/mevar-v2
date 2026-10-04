@@ -56,6 +56,7 @@ bible_refs:
   - "Apocalypse 6:10"
   - "Apocalypse 6:11"
 original: "branham/1955/55-0403"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550403Communion.pdf"
 ---
 **1.** J’ai eu 5 semaines de réunions de suite, surtout de la prédication, plutôt que de la guérison. Cela m’a épuisé. Il y a quelques années, une sœur m’a félicité pour ma prédication, et un frère m’a dit qu’il n’aurait pas aimé qu’on le flatte ainsi. J’ai répondu que moi j’avais aimé cela et que, contrairement à lui, je disais la vérité ! Dimanche matin nous aurons une réunion ordinaire de guérison. Un jour, il y avait ici une jeune fille sur une chaise roulante depuis 17 ans, et je lui ai dit qu’elle n’avait pas écouté un appel de Dieu. Et elle a été guérie instantanément. Un homme décharné étendu sur l’estrade et qui n’avait pas marché depuis longtemps s’était relevé et avait marché.
 

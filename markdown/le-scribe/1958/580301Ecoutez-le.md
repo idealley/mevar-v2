@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 14:10"
   - "Jean 5:19"
 original: "branham/1958/58-0301E"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580301Ecoutez-le.pdf"
 ---
 *Résumé de : “Ecoutez-le” (1er mars 1958, soir)*
 

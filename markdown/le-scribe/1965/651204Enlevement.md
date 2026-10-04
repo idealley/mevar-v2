@@ -76,6 +76,7 @@ bible_refs:
   - "Apocalypse 11:11-12"
   - "Ésaïe 7:14"
 original: "branham/1965/65-1204"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651204Enlevement.pdf"
 ---
 *L'Enlèvement*
 

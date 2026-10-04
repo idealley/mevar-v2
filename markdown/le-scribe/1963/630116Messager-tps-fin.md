@@ -104,6 +104,7 @@ bible_refs:
   - "Genèse 32:24-32"
   - "2 Timothée 4:10"
 original: "branham/1963/63-0116"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630116Messager-tps-fin.pdf"
 ---
 **1.** Résumé de!: “Le Messager du temps de la fin” (16 janvier 1963, soir)
 

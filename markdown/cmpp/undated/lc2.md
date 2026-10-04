@@ -68,6 +68,7 @@ bible_refs:
   - "Osée 12:3"
   - "Luc 1:26-38"
   - "Éphésiens 5:26,27"
+local_pdf: "https://files.mevar.org/cmpp/undated/lc2.pdf"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

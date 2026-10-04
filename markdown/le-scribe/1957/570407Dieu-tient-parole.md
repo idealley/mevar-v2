@@ -58,6 +58,7 @@ bible_refs:
   - "Jacques 5:14-15"
   - "Marc 11:23"
 original: "branham/1957/57-0407M"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570407Dieu-tient-parole.pdf"
 ---
 **1.** [Salutations]. Pâque aura lieu le 21. J'aimerais que nous ayons des réunions fraternelles du vendredi au dimanche de Pâque où aura lieu une séance de baptêmes. Ce Tabernacle est ma première et seule église. Nous aimerions aussi avoir une réunion avec les enfants. La venue du printemps nous fait penser à la résurrection. La Parole de Dieu s'accorde avec la nature. Invitez vos voisins à venir écouter la Parole et adorer ensemble. Nous invitons aussi les chanteurs des différentes églises à venir chanter pour nous.
 

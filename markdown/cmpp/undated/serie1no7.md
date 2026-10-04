@@ -121,6 +121,7 @@ bible_refs:
   - "Luc 17:29,30"
   - "2 Pierre 3:4"
   - "Apocalypse 10:7"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie1no7.pdf"
 ---
 SERIE 1 N° 7
 

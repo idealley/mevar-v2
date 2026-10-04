@@ -42,6 +42,7 @@ bible_refs:
   - "Luc 17:26"
   - "Marc 9:14-29"
 original: "branham/1950/50-0814"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500814Temoignage.pdf"
 ---
 **TÉMOIGNAGE**
 

@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 4"
   - "Hébreux 13:8"
   - "Malachie 4"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie5no2.pdf"
 ---
 SERIE 5, N° 2
 

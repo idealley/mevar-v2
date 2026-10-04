@@ -55,6 +55,7 @@ bible_refs:
   - "2 Timothée 3:12"
   - "Actes 4:31"
 original: "branham/1960/60-0108"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600108Conference.pdf"
 ---
 *Une conférence avec Dieu* (le 1960)
 

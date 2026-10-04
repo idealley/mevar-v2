@@ -47,6 +47,7 @@ bible_refs:
   - "Éphésiens 4:30"
   - "Jean 12"
   - "Actes 4"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie2no6.pdf"
 ---
 SERIE 2 N° 6
 

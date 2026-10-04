@@ -58,6 +58,7 @@ bible_refs:
   - "Apocalypse 4:3"
   - "Matthieu 17:5"
 original: "branham/1960/60-1231"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601231AApoc-quatre.pdf"
 ---
 Résumé de!: “Apocalypse, chapitre quatre – première partie” (31 décembre 1960, soir)
 

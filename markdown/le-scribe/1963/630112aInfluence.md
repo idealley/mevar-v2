@@ -65,6 +65,7 @@ bible_refs:
   - "1 Corinthiens 2:2"
   - "Philippiens 1:21"
 original: "branham/1963/63-0112"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630112aInfluence.pdf"
 ---
 **Résumé de!: “Influence” (12 Janvier 1963, matin)**
 

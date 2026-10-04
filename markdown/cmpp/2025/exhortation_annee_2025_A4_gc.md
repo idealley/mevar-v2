@@ -68,6 +68,7 @@ bible_refs:
   - "Galates 4:29"
   - "Éphésiens 5:25-27"
   - "2 Corinthiens 4:16-18"
+local_pdf: "https://files.mevar.org/cmpp/2025/exhortation_annee_2025_A4_gc.pdf"
 ---
 ## Exhortation année 2025
 

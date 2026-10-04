@@ -56,6 +56,7 @@ bible_refs:
   - "Malachie 4"
   - "Luc 17"
 original: "branham/1965/65-0429B"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650429Semence.pdf"
 ---
 **Résumé de : “La semence n'héritera pas avec la balle” (29 avril 1965, soir)**
 

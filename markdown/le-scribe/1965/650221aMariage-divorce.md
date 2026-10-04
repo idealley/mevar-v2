@@ -97,6 +97,7 @@ bible_refs:
   - "Philippiens 3:14"
   - "1 Corinthiens 7"
 original: "branham/1965/65-0221M"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650221aMariage-divorce.pdf"
 ---
 “Mariage et divorce” (21 février 1965, matin)
 

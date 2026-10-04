@@ -66,6 +66,7 @@ bible_refs:
   - "Psaumes 34:8"
   - "Hébreux 11:10"
 original: "branham/1962/62-0909E"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620909bDans-presence.pdf"
 ---
 *Résumé de!: “Dans sa présence” (9 septembre 1962, soir)*
 

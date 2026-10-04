@@ -57,6 +57,7 @@ bible_refs:
   - "Ésaïe 1:18"
   - "Jean 10:4"
 original: "branham/1959/59-0125"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590125Assure-de-Dieu.pdf"
 ---
 *Résumé de!: “Comptez sur Dieu” (25 janvier 1959, matin)*
 

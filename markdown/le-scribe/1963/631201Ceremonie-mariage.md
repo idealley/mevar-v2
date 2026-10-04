@@ -34,6 +34,7 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 13:4"
 original: "branham/1963/63-1201X"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631201Ceremonie-mariage.pdf"
 ---
 *Résumé de!: “Cérémonie de mariage” (1er décembre 1963, 8 heures du matin)*
 

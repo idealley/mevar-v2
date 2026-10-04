@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 20:29"
   - "Actes 2:38-39"
 original: "branham/1963/63-0113E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630113bPerseverance.pdf"
 ---
 *Persévérance* (13 Janvier 1963, après-midi)
 

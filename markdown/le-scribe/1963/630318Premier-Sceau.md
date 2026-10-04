@@ -136,6 +136,7 @@ bible_refs:
   - "Apocalypse 18:4"
   - "Jean 14:12,19,17"
 original: "branham/1963/63-0318"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630318Premier-Sceau.pdf"
 ---
 **Résumé de!: “Le Premier Sceau” (18 mars 1963 soir)**
 

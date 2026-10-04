@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 9"
   - "Actes 20:10"
 original: "branham/1963/63-0802"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630802Perseverant.pdf"
 ---
 **PERSEVERANT**
 

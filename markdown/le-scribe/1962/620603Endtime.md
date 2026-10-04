@@ -90,6 +90,7 @@ bible_refs:
   - "Daniel 3"
   - "Genèse 33:15"
 original: "branham/1962/62-0603"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620603Endtime.pdf"
 ---
 **Résumé de!: “L'évangélisation du temps de la fin” (3 juin 1962, matin)**
 

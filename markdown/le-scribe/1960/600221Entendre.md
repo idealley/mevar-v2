@@ -82,6 +82,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Hébreux 13:8"
 original: "branham/1960/60-0221"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600221Entendre.pdf"
 ---
 **Résumé de!: “Entendre, reconnaître, mettrre en œuvre la Parole de Dieu” (21 février 1960, matin)**
 

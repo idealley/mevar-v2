@@ -54,6 +54,7 @@ bible_refs:
   - "Ésaïe 28:11"
   - "Joël 2:28"
 original: "branham/1962/62-0117"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620117Presumer.pdf"
 ---
 *Présumer*
 *17 janvier 1962, mercredi soir, Phœnix (Arizona)*

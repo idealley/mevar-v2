@@ -73,6 +73,7 @@ bible_refs:
   - "Ésaïe 40:31"
   - "2 Chroniques 5:13-14"
 original: "branham/1959/59-0708M"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590708Consecration.pdf"
 ---
 “Consécration d’une église” (8 juillet 1959)
 

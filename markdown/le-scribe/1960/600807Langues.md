@@ -66,6 +66,7 @@ bible_refs:
   - "Actes 2:7"
   - "1 Corinthiens 12:10"
 original: "branham/1960/60-0807"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600807Langues.pdf"
 ---
 *Débat sur le parler en langues*
 *7 août 1960, dimanche matin, Yakima (Washington)*

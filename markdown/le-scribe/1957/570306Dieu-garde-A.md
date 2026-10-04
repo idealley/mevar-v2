@@ -54,6 +54,7 @@ bible_refs:
   - "1 Corinthiens 13"
   - "Esther 7"
 original: "branham/1957/57-0306"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570306Dieu-garde-A.pdf"
 ---
 Résumé de : “ Dieu est fidèle à sa Parole - 1” (6.03.1957)
 

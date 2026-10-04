@@ -70,6 +70,7 @@ bible_refs:
   - "Matthieu 8:8"
   - "Jean 5:24"
 original: "branham/1963/63-1103"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631103Reveiller-Jesus.pdf"
 ---
 **Aller réveiller Jésus**
 

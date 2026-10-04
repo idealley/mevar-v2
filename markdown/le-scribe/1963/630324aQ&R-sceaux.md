@@ -113,6 +113,7 @@ bible_refs:
   - "Jean 14:10"
   - "Marc 16:17-18"
 original: "branham/1963/63-0324M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630324aQ%26R-sceaux.pdf"
 ---
 **Résumé de!: “Questions & réponses sur les Sceaux” (24 mars 1963, matin)**
 

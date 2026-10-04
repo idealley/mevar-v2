@@ -48,6 +48,7 @@ bible_refs:
   - "1 Corinthiens 13:1-3"
   - "1 Corinthiens 11:23-32"
 original: "branham/1959/59-0301E"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590301Que-fais-tu.pdf"
 ---
 **Résumé de!: “Que fais-tu ici ?” (1er mars 1959, soir)**
 

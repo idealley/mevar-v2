@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 3:18"
   - "Hébreux 3:1"
 original: "branham/1950/50-0711"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500711Ministere-explique.pdf"
 ---
 **SIGNIFICATION DE CE MINISTERE**
 *MINISTRY EXPLAINED*

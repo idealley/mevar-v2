@@ -54,6 +54,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 11"
   - "Actes 19"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie4no8.pdf"
 ---
 SERIE 4 N° 8
 

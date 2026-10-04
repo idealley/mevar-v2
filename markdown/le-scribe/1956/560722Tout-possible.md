@@ -44,6 +44,7 @@ bible_refs:
   - "Marc 11:24"
   - "Jean 5:19"
 original: "branham/1956/56-0722"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560722Tout-possible.pdf"
 ---
 **1.** J'ai prié tout l'après-midi, et je suis venu directement ici pour prêcher
 [Enregistrement interrompu]… les visions ne sont pas aussi claires, car il y a deux sortes d'onction. Celle de la prédication de la Parole remplit de joie, mais celle des visions affaiblit. Dans un cas, c'est Dieu qui donne au travers de la Parole, dans l'autre c'est vous qui tirez de Dieu ce que vous désirez. Lisons Marc 9:23

@@ -57,6 +57,7 @@ bible_refs:
   - "Luc 16:27"
   - "1 Samuel 8:6-7"
 original: "branham/1963/63-0126"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630126Investissements.pdf"
 ---
 **Résumé de!: “Investissements” (26 Janvier 1963, matin)**
 

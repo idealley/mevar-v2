@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 14:19"
 original: "branham/1956/56-0225"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560225Jesus-le-meme.pdf"
 ---
 *Résumé de : "Jésus-Christ est le même hier, aujourd'hui et éternellement" (25 février soir 1956)*
 

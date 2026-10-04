@@ -77,6 +77,7 @@ bible_refs:
   - "Matthieu 9:21"
   - "Hébreux 4:15"
 original: "branham/1965/65-0120"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650120Ne-tappuie-pas.pdf"
 ---
 **Résumé de : “Ne t'appuie pas sur ton intelligence” (20 Janvier 1965, soir)**
 

@@ -49,6 +49,7 @@ bible_refs:
   - "Apocalypse 17"
   - "Ésaïe 53:2"
   - "Hébreux 13:8"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie6no1.pdf"
 ---
 SERIE 6, N° 1
 

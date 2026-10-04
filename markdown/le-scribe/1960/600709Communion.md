@@ -65,6 +65,7 @@ bible_refs:
   - "Jean 6:27"
   - "Colossiens 2:9"
 original: "branham/1960/60-0709"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600709Communion.pdf"
 ---
 **1.** [Prière de consécration] …
 

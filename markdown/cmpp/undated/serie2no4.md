@@ -48,6 +48,7 @@ bible_refs:
   - "Romains 8:1"
   - "Apocalypse 2"
   - "Hébreux 12"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie2no4.pdf"
 ---
 SERIE 2 N° 4
 

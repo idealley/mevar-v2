@@ -63,6 +63,7 @@ bible_refs:
   - "Joël 2:28"
   - "Job 19:25"
 original: "branham/1962/62-0610M"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620610Presumer.pdf"
 ---
 **Résumé de!: “Présumer” (8 avril 1962, matin)**
 

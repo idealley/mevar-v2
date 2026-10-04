@@ -186,6 +186,7 @@ bible_refs:
   - "Amos 8:11"
   - "Hébreux 12:2"
   - "Jude 1:24,25"
+local_pdf: "https://files.mevar.org/cmpp/undated/christ_et_son_eglise.pdf"
 ---
 # Christ et son Église dans la prophétie
 

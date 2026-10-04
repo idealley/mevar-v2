@@ -52,6 +52,7 @@ bible_refs:
   - "1 Jean 1:7"
   - "Matthieu 5:6"
 original: "branham/1958/58-0112A"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580112Prodiges.pdf"
 ---
 **Résumé de : “Pour accomplir ses prodiges” (12 janvier 1958, après-midi)**
 

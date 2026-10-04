@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 16:16"
   - "Jean 14:12"
 original: "branham/1958/58-0520"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580520Signe-temps.pdf"
 ---
 *Le signe du temps* (20 mai 1958, soir)
 

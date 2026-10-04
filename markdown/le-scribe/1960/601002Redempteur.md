@@ -71,6 +71,7 @@ bible_refs:
   - "Deutéronome 18:18"
   - "Hébreux 2:18"
 original: "branham/1960/60-1002"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601002Redempteur.pdf"
 ---
 Résumé de : “Le Parent Rédempteur” (le 02.10.1960)
 

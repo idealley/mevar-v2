@@ -58,6 +58,7 @@ bible_refs:
   - "Apocalypse 4:2"
   - "1 Thessaloniciens 4"
   - "1 Thessaloniciens 4:16,17"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev11.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

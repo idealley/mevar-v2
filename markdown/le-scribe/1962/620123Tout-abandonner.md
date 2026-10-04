@@ -65,6 +65,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Jean 5:19"
 original: "branham/1962/62-0123"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620123Tout-abandonner.pdf"
 ---
 **1.** Oral Roberts sera avec nous mercredi soir. Sur le champ de bataille, nos différences d’opinions n’existent plus, et j’apprécie de rencontrer des gens de dénominations différentes. Nous étions neuf garçons et une fille, nous nous battions, mais si l’un de nous avait été attaqué de l’extérieur, nous serions tous venus à sa rescousse ! Il en est ainsi chez les enfants de Dieu.
 

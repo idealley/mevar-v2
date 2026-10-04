@@ -61,6 +61,7 @@ bible_refs:
   - "1 Rois 18:36"
   - "Jean 14:19"
 original: "branham/1955/55-0603"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550603Jesus-le-meme.pdf"
 ---
 Résumé de : "Jésus-Christ est le même hier, aujourd'hui, et éternellement" (3 juin 1955, soir)
 

@@ -72,6 +72,7 @@ bible_refs:
   - "Matthieu 12:42"
   - "Ésaïe 49:15-16"
 original: "branham/1962/62-0612"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620612Plus-que-Salomon.pdf"
 ---
 **Résumé de!: “Il y a ici plus que Salomon” (12 Juin 1962, soir)**
 

@@ -62,6 +62,7 @@ bible_refs:
   - "Zacharie 3:8,9"
   - "Zacharie 4:10"
   - "Matthieu 23:9"
+local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux2.pdf"
 ---
 BROCHURE N° 2
 

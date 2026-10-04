@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 4:29"
   - "Marc 5:30"
   - "Hébreux 4:15"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580215Reine-Saba.pdf"
 ---
 Résumé de : “La reine de Saba” (15 février 1958, soir)
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Romains 10:17"
   - "Jean 5:19"
 original: "branham/1957/57-0323"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570323Dieu-dans-Parole.pdf"
 ---
 **1.** Demain après-midi, notre thème sera : “pourquoi certains chrétiens sont-ils victorieux”. Mr. Arganbright et mon fils souhaitent s’entretenir avec le secrétaire du Révérend Rasmusson au sujet de la réunion de Tacoma.
 

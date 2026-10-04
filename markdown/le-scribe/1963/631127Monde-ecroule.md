@@ -75,6 +75,7 @@ bible_refs:
   - "Jean 15:26"
   - "Jean 16:13"
 original: "branham/1963/63-1127"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631127Monde-ecroule.pdf"
 ---
 **Résumé de!: “Le monde s'effondre” (27 novembre 1963 soir)**
 

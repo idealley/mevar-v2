@@ -46,6 +46,7 @@ bible_refs:
   - "Luc 16:21"
   - "Hébreux 11:23-26"
 original: "branham/1965/65-1031A"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651031bConduite.pdf"
 ---
 **1.** à **19.** Merci pour ces cadeaux, et j'ai beaucoup apprécié les chants de ces enfants, les prophètes et les prophétesses de l'âge à venir, s'il y en a un. J'ai vu qu'ils étaient élevés dans le Seigneur par leurs mères, comme Moïse par la sienne. Le premier commandement avec une promesse, celle d'une longue vie, est celui du respect dû aux parents [Éphésiens 6:2; Exode 20:12]. [Prière]. Lisons Marc 10:17-22
 

@@ -69,6 +69,7 @@ bible_refs:
   - "Éphésiens 2:6"
   - "Matthieu 25:40"
 original: "branham/1962/62-1216"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621216Ecroulement.pdf"
 ---
 **Résumé de!: “L’écroulement du monde” (16 Décembre1962, matin)**
 

@@ -45,6 +45,7 @@ bible_refs:
   - "Jean 14:12"
   - "Exode 33:18-23"
 original: "branham/1959/59-0628M"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590628Eglise-seduite.pdf"
 ---
 *Résumé de!: “Une église séduite par le monde” (28 juin 1959, matin)*
 

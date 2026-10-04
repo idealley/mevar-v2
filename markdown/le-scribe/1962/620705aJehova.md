@@ -66,6 +66,7 @@ bible_refs:
   - "Actes 19:12"
   - "2 Rois 4:29"
 original: "branham/1962/62-0705"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620705aJehova.pdf"
 ---
 **Résumé de!: “Jehova-Jiré . Première partie” (5 juillet 1962, soir)**
 

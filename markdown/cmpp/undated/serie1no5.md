@@ -59,6 +59,7 @@ bible_refs:
   - "Éphésiens 4"
   - "1 Corinthiens 12"
   - "Hébreux 11"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie1no5.pdf"
 ---
 SERIE 1 N° 5
 

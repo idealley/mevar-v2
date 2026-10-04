@@ -75,6 +75,7 @@ bible_refs:
   - "Hébreux 3:1"
   - "Jacques 5:14"
 original: "branham/1959/59-1129"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591129Voir-Dieu.pdf"
 ---
 **Résumé de!: “Fais-nous voir Dieu” (29 novembre 1959, après-midi)**
 

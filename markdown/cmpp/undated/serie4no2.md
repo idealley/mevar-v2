@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 19:39"
   - "Jean 12:1,7"
   - "Jean 12"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie4no2.pdf"
 ---
 SERIE 4, N° 2
 

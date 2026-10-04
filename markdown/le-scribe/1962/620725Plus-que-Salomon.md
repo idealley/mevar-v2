@@ -58,6 +58,7 @@ bible_refs:
   - "1 Rois 10:1-13"
   - "1 Rois 10:8"
 original: "branham/1962/62-0725"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620725Plus-que-Salomon.pdf"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (25 juillet 1962, soir)*
 

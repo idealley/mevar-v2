@@ -73,6 +73,7 @@ bible_refs:
   - "Apocalypse 9:1-4"
   - "Exode 21"
   - "Apocalypse 22:16"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev09.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

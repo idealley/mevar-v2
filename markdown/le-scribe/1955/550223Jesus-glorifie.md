@@ -49,6 +49,7 @@ bible_refs:
   - "1 Samuel 28:7"
   - "Psaumes 24"
 original: "branham/1955/55-0225"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550223Jesus-glorifie.pdf"
 ---
 **JESUS GLORIFIE**
 *GLORIFIED JESUS*

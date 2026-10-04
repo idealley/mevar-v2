@@ -61,6 +61,7 @@ bible_refs:
   - "Psaumes 36:10"
   - "Hébreux 13:8"
 original: "branham/1964/64-0726E"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640726Citernes.pdf"
 ---
 **Résumé de!: “Des citernes crevassées” (26 juillet 1964 soir)**
 

@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 5:19"
   - "1 Jean 2:15"
 original: "branham/1955/55-0624"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550624Abraham.pdf"
 ---
 Résumé de : “Abraham” (24 juin 1955, soir)
 

@@ -51,6 +51,7 @@ bible_refs:
   - "Matthieu 8:8"
   - "Actes 13:8-11"
 original: "branham/1962/62-0909M"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620909aCompte.pdf"
 ---
 **COMPTE A REBOURS**
 *9 septembre 1962, dimanche matin, Jeffersonville (Indiana)*

@@ -66,6 +66,7 @@ bible_refs:
   - "Matthieu 25:40"
   - "Actes 2:38-39"
 original: "branham/1963/63-1116E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631116Perseverance.pdf"
 ---
 **Résumé de!: “Persévérance” (16 novembre 1963, soir)**
 

@@ -80,6 +80,7 @@ bible_refs:
   - "Luc 17:28"
   - "Marc 16:18"
 original: "branham/1963/63-0115"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630115Accepter-chemin.pdf"
 ---
 **1.** C’est à Phœnix que j’ai prêché pour la première fois à des non-Blancs, à des Apaches. J’avais promis d’aller à leur réserve si un alcoolique et une tuberculeuse étaient guéris, et ils l’ont été. Je me souviens de deux frères qui avaient traversé la rivière en portant leur père sur une planche pour venir à la réunion. J’ai prié pour lui, et il est reparti en brandissant sa planche. Je me souviens d’une vieille Indienne avec des béquilles. Je ne lui ai rien dit, nous nous sommes seulement regardés, et elle est partie ses béquilles à la main. Nous n’avons pas fait de réunion de guérison ici, car l’église est trop petite, mais j’espère pouvoir en faire une avec Oral Roberts et les Hommes d’Affaires du Plein Evangile à la fin du mois.
 

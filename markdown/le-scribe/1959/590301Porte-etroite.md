@@ -56,6 +56,7 @@ bible_refs:
   - "Matthieu 13:57"
   - "Matthieu 13:47"
 original: "branham/1959/59-0301M"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590301Porte-etroite.pdf"
 ---
 **ETROITE EST LA PORTE**
 *1er mars 1959, dimanche matin, Jeffersonville (Indiana).*

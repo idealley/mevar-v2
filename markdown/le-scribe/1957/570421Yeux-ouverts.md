@@ -66,6 +66,7 @@ bible_refs:
   - "2 Corinthiens 5:17"
   - "Matthieu 7:20"
 original: "branham/1957/57-0421E"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570421Yeux-ouverts.pdf"
 ---
 Résumé de!: “Quand leurs yeux s'ouvrirent ils le reconnurent” (21 avril 1957, soir)
 

@@ -58,6 +58,7 @@ bible_refs:
   - "Actes 19"
   - "Actes 19:5"
   - "Galates 1:8"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie3no2.pdf"
 ---
 SERIE 3 N° 2
 

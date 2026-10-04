@@ -47,6 +47,7 @@ bible_refs:
   - "Proverbes 18:10"
   - "Esther 2:15"
 original: "branham/1962/62-0121E"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620121Mariage-Agneau.pdf"
 ---
 **LES NOCES DE L'AGNEAU**
 *MARRIAGE OF THE LAMB*

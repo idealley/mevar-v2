@@ -69,6 +69,7 @@ bible_refs:
   - "Malachie 4:5"
   - "Zacharie 14:7"
 original: "branham/1964/64-0705"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640705Chef-oeuvre.pdf"
 ---
 **Résumé de!: “Le chef-d'œuvre” (5 juillet 1964, après-midi)**
 

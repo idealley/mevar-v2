@@ -13,6 +13,7 @@ bible_refs:
   - "Apocalypse 22:18"
   - "Actes 2"
 original: "branham/1956/56-0200"
+local_pdf: "https://files.mevar.org/le-scribe/undated/5602Combat-foi.pdf"
 ---
  Résumé de : “Combattre pour la foi” (février 1956)
  __________________________________

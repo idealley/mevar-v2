@@ -94,6 +94,7 @@ bible_refs:
   - "Malachie 4"
   - "Malachie 3"
   - "Apocalypse 13:16"
+local_pdf: "https://files.mevar.org/cmpp/undated/parole_parlee_semence_originelle.pdf"
 ---
 LA PAROLE PARLEE
 

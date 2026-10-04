@@ -102,6 +102,7 @@ bible_refs:
 series: "La Parole parlée est la Semence originelle"
 series_part: 2
 original: "branham/1962/62-0318"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620318bSemence.pdf"
 ---
 *Résumé de!: “La Parole parlée est la Semence originelle - 2e partie” (18 mars 1962, après-midi)*
 

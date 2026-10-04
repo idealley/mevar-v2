@@ -46,6 +46,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Luc 8:43-50"
 original: "branham/1959/59-0406"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590406Ministere.pdf"
 ---
 “Un nouveau ministère” (6 avril 1959)
 

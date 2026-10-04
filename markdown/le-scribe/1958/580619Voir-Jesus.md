@@ -60,6 +60,7 @@ bible_refs:
   - "Actes 9:5"
   - "Actes 12:7"
 original: "branham/1958/58-0619E"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580619Voir-Jesus.pdf"
 ---
 **Pouvons-nous voir Jésus ?**
 

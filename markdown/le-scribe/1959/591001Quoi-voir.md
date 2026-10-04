@@ -54,6 +54,7 @@ bible_refs:
   - "Genèse 26:21"
   - "Genèse 26:22"
 original: "branham/1959/59-1001"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591001Quoi-voir.pdf"
 ---
 **1.** On se sent à l’aise dans cette jolie église. J’ai aimé le poème lu par le frère Graham. Ceux qui n’ont jamais été pris en faute n’ont jamais compris cela, et cherchent toujours à rabaisser les autres. Moi aussi je sais ce que signifie être fautif. Un homme est un jour allé chez “Ballard and Ballard” [NDR : célèbre joailler] pour être embauché. On lui a demandé pourquoi il n’y avait pas de gomme au bout de son crayon ? “Je ne me trompe jamais.” – “Dans ce cas, je ne peux vous prendre : vous ne feriez rien.” Celui qui ne fait pas d’erreur n’est bon à rien. Mais un vrai soldat se relève et essaie à nouveau. J’ai souvent dit à Dieu que j’avais honte de moi : “Permets que je me relève et que j’essaie à nouveau.” Il m’a toujours relevé.
 

@@ -57,6 +57,7 @@ bible_refs:
   - "Romains 5:1"
   - "1 Corinthiens 15:55-57"
 original: "branham/1960/60-0630"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600630Dieu-communion.pdf"
 ---
 **LE MOYEN POURVU PAR DIEU POUR UNE COMMUNION AVEC DIEU**
 

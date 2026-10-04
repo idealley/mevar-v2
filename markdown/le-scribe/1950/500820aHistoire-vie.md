@@ -49,6 +49,7 @@ bible_refs:
   - "Hébreux 11:10"
   - "Job 38:4,7"
 original: "branham/1950/50-0820A"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500820aHistoire-vie.pdf"
 ---
 **HISTOIRE DE MA VIE**
 *LIFE STORY*

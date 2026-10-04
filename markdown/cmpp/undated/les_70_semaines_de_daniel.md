@@ -152,6 +152,7 @@ bible_refs:
   - "2 Chroniques 3:1"
   - "Michée 4:1"
   - "Luc 21:36"
+local_pdf: "https://files.mevar.org/cmpp/undated/les_70_semaines_de_daniel.pdf"
 ---
 LES 70 SEMAINES DE DANIEL
 

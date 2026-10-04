@@ -41,6 +41,7 @@ bible_refs:
   - "Matthieu 21:9"
   - "Luc 19:40"
 original: "branham/1964/64-0321B"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640321Passer-par-ici.pdf"
 ---
 **IL DOIT PASSER PAR CI**
 

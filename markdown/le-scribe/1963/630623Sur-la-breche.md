@@ -54,6 +54,7 @@ bible_refs:
   - "Éphésiens 2:20"
   - "Exode 8:20"
 original: "branham/1963/63-0623M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630623Sur-la-breche.pdf"
 ---
 **Résumé de!: “Se tenir sur la brèche” (23 juin1963 matin)**
 

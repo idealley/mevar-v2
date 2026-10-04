@@ -52,6 +52,7 @@ bible_refs:
   - "Luc 12:8"
   - "Esther 5"
 original: "branham/1956/56-1209A"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561209Promesse.pdf"
 ---
 *Résumé de : “La promesse faite par Dieu” ( 9 décembre 1956)*
 

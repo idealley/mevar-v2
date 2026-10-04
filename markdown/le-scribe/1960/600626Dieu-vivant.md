@@ -75,6 +75,7 @@ bible_refs:
   - "1 Corinthiens 2:1"
   - "1 Corinthiens 12:13"
 original: "branham/1960/60-0626"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600626Dieu-vivant.pdf"
 ---
 **1.** Je dois être cet après-midi aux obsèques de l’épouse de mon cousin Henry Branham à Breedings, Kentucky, à 250 km d’ici. Demain je pars à Tulsa, Oklahoma. Nous serons de retour pour samedi. Nous partirons avec la famille le dimanche suivant vers l’Ouest, et nous serons de retour en automne. Que l’église prie pour moi.
 

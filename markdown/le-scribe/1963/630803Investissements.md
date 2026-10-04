@@ -66,6 +66,7 @@ bible_refs:
   - "Psaumes 73:3"
   - "Jean 3:7"
 original: "branham/1963/63-0803B"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630803Investissements.pdf"
 ---
 **1.** [Prière]. Quand je suis fatigué, j'aime écouter les chants du frère Mel Johnson.
 

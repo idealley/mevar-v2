@@ -65,6 +65,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Hébreux 4:15"
 original: "branham/1958/58-0523"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580523Voir-Jesus.pdf"
 ---
 **Résumé de : “Nous voudrions voir Jésus” (23 mai 1958, soir)**
 

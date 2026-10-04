@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 21:18"
   - "Marc 16:17,18"
 original: "branham/1953/53-0608A"
+local_pdf: "https://files.mevar.org/le-scribe/1953/530606Demons-physique.pdf"
 ---
 **1.** Un jour, je campais dans le New Hampshire, et une famille d'ours a dévasté ma tente. Et l'un des oursons a fait un festin de mon pot de miel. J'ai pensé à ces anciennes réunions du Saint-Esprit, où le Pot était ouvert, il suffisait d'y plonger la main, de la lécher et de recommencer. Quand l'ourson a terminé, il était couvert de miel, et sa mère et l'autre ourson se sont mis à le lécher. J'espère que nous aussi, nous pourrons aller témoigner aux autres que la Gloire de Dieu est tombée sur nous !
 

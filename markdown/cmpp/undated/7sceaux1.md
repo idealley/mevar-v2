@@ -55,6 +55,7 @@ bible_refs:
   - "Matthieu 11:14"
   - "Jean 3:16"
   - "Marc 11:23"
+local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux1.pdf"
 ---
 BROCHURE N° 1
 

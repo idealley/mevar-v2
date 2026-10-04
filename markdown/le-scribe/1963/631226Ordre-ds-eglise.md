@@ -52,6 +52,7 @@ bible_refs:
   - "Matthieu 22:21"
   - "Matthieu 6:6"
 original: "branham/1963/63-1226"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631226Ordre-ds-eglise.pdf"
 ---
 **Résumé de!: “L'ordre dans l'église” (26 décembre 1963 soir)**
 

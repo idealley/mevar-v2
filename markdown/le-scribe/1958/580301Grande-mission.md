@@ -45,6 +45,7 @@ bible_refs:
   - "Jean 12"
   - "Matthieu 8:11"
 original: "branham/1958/58-0301B"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580301Grande-mission.pdf"
 ---
 **1.** Je n'ai pas été appelé à prêcher comme certains d'entre vous, mais à une autre sorte de ministère. Nous faisons chacun de notre mieux dans notre ministère pour le Royaume de Dieu. J'aime me retrouver au sud. En Angleterre, j'ai eu besoin d'un interprète ! Lisons en Marc 16:14 à 20, les dernières volontés du Seigneur adressées à son Église :
 

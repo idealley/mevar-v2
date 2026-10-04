@@ -66,6 +66,7 @@ bible_refs:
   - "Romains 3:10-12,23"
   - "Matthieu 10:25"
 original: "branham/1959/59-0416"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590416ElShaddai.pdf"
 ---
 “El-Shaddaï” (16.04.1959)
 

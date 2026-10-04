@@ -56,6 +56,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 5:19"
 original: "branham/1958/58-0105"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580105Foi-en-Dieu.pdf"
 ---
 **1.** [Prière]. C’est maintenant notre seule chance d’être mortel, et de gagner une âme. Faisons-le cette semaine, faites venir les malades. Cet après-midi, j’ai prêché sur “Pourquoi nous devons naître de nouveau”, mais nos enregistrements ne sont pas vendus le dimanche. Le frère Leo s’occupe de cela. Lisons Marc 11 :20-23
 

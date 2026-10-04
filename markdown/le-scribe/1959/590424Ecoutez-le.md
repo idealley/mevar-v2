@@ -52,6 +52,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 15:5"
 original: "branham/1959/59-0424E"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590424Ecoutez-le.pdf"
 ---
 **1.** … Je vous présente mon ami Booth-Clibborn qui a composé : “Il est descendu de sa Gloire” que j’ai fait chanter partout. C’est le premier cantique que ma fille Becky qui apprend le piano a joué. Je me sens mal à l’aise de prêcher devant un tel homme qui parle sept langues, le grec et l’hébreu, alors que je ne parle même pas bien l’anglais !
 

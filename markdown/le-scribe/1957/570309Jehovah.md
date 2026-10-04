@@ -58,6 +58,7 @@ bible_refs:
   - "Nombres 12:6"
   - "Matthieu 18:20"
 original: "branham/1957/57-0309E"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570309Jehovah.pdf"
 ---
 **1 à 2-** [Prière]. J’avais oublié qu’il y aurait une ligne de prière ce soir, et je vais donc changer le sujet de ma prédication. Nous avons eu une excellente communion ce matin. Nos livres sont encore en vente ce soir, car nous ne vendons rien le dimanche. Ils ne nous rapportent rien, nous les achetons à Mr. Lindsay. Le but est de répandre le message. Cette campagne se terminera demain soir.
 

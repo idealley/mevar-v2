@@ -58,6 +58,7 @@ bible_refs:
   - "Genèse 22:18"
   - "1 Corinthiens 14:24-25"
 original: "branham/1959/59-0417"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590417Jehovah.pdf"
 ---
 **1.** [Prière] … Il a dit : “Si mon peuple sur qui est invoqué mon nom se rassemble et prie, je l'exaucerai des cieux” [cf. 2 Chr. 7:14]. Quelle promesse !
 

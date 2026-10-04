@@ -67,6 +67,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 5:1-16"
 original: "branham/1964/64-0315"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640315Influence.pdf"
 ---
 **Résumé de : “Influence” (15 mars 1964, après-midi)**
 

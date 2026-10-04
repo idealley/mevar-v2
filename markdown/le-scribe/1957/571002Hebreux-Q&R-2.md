@@ -60,6 +60,7 @@ bible_refs:
   - "Apocalypse 7"
   - "Luc 21:29-31"
 original: "branham/1957/57-1002"
+local_pdf: "https://files.mevar.org/le-scribe/1957/571002Hebreux-Q%26R-2.pdf"
 ---
 **303-320** Merci d'avoir prié pour ma femme qui a eu une forte fièvre pendant quelques jours. Le frère Bosworth, qui est presque centenaire, me demande d'aller lui rendre visite. Il a été un père pour moi, et je pense qu'il veut m'imposer les mains avant de quitter cette terre.
 Certains se demandent pourquoi je pars précipitamment après les réunions : c'est pour ne pas être trop accaparé et rejoindre mon épouse le plus rapidement possible.

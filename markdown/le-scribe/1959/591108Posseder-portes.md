@@ -63,6 +63,7 @@ bible_refs:
   - "Jean 4:6-30"
   - "Jean 6:44"
 original: "branham/1959/59-1108"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591108Posseder-portes.pdf"
 ---
 *Résumé de!: “Possédant les portes de l'ennemi” (8 novembre 1959, matin)*
 

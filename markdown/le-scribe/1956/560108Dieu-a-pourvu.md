@@ -49,6 +49,7 @@ bible_refs:
   - "Hébreux 12:1"
   - "Ésaïe 53:5"
 original: "branham/1956/56-0108"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560108Dieu-a-pourvu.pdf"
 ---
 **Résumé de : "Dieu a pourvu un chemin" (8 janvier 1956)**
 

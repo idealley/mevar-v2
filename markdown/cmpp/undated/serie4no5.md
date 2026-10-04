@@ -72,6 +72,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 14:12"
   - "Jean 4"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie4no5.pdf"
 ---
 SERIE 4, N° 5
 

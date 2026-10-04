@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 14:10"
   - "Jean 5:19"
 original: "branham/1962/62-0119"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620119Banniere.pdf"
 ---
 **UNE BANNIERE**
 

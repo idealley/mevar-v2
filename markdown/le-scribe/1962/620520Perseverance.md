@@ -62,6 +62,7 @@ bible_refs:
   - "Matthieu 9:21"
   - "Hébreux 4:15"
 original: "branham/1962/62-0520"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620520Perseverance.pdf"
 ---
 **Résumé de!: “Persévérance” (20 mai 1962, après-midi)**
 

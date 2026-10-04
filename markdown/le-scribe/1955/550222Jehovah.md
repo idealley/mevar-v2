@@ -60,6 +60,7 @@ bible_refs:
   - "Hébreux 1:1-2"
   - "Jean 5:19"
 original: "branham/1955/55-0222"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550222Jehovah.pdf"
 ---
 *JEHOVAH JIREH*
 *22 février 1955, mardi soir, Phoenix (Arizona)*

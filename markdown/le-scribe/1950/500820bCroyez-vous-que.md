@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 12:32"
   - "Luc 19:40"
 original: "branham/1950/50-0820E"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500820bCroyez-vous-que.pdf"
 ---
 *20 août 1950, dimanche soir, Cleveland (Ohio)*
 

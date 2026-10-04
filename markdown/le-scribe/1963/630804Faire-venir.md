@@ -64,6 +64,7 @@ bible_refs:
   - "2 Chroniques 7:1-3"
   - "Actes 9:3"
 original: "branham/1963/63-0804E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630804Faire-venir.pdf"
 ---
 *Résumé de!: “Faire entrer Jésus sur scène” (4 août 1963, soir)*
 

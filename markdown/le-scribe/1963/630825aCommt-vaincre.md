@@ -96,6 +96,7 @@ bible_refs:
   - "Job 2:9"
   - "Hébreux 12:1-2"
 original: "branham/1963/63-0825M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630825aCommt-vaincre.pdf"
 ---
 **Résumé de!: “Comment puis-je vaincre” (25 août 1963 matin)**
 

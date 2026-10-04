@@ -56,6 +56,7 @@ bible_refs:
   - "Jean 14:19,12"
   - "Matthieu 28:20"
 original: "branham/1958/58-0620"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580620Reine-du-Midi.pdf"
 ---
 *Résumé de : "La reine du Midi" (20 juin 1958, soir)*
 

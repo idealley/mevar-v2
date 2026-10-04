@@ -23,6 +23,7 @@ bible_refs:
   - "Marc 9:20"
   - "Ésaïe 53:5"
 original: "branham/1950/50-0115"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500115Crois-tu.pdf"
 ---
  _____________________________________________________
 

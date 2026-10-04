@@ -65,6 +65,7 @@ bible_refs:
   - "Daniel 7:15"
   - "Daniel 10:16"
 original: "branham/1958/58-0214"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580214Jesus-le-meme.pdf"
 ---
 *Jésus-Christ est le même hier, aujourd'hui et éternellement (ou : Nous voudrions voir Jésus)*
 *14 février 1958, vendredi soir, Terre Haute (Indiana)*

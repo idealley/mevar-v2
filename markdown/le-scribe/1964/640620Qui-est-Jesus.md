@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 16:24"
   - "Matthieu 24:28"
 original: "branham/1964/64-0620B"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640620Qui-est-Jesus.pdf"
 ---
 **Résumé de : “Qui est Jésus?” (20 juin 1964, matin)**
 

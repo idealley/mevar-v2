@@ -58,6 +58,7 @@ bible_refs:
   - "Actes 19"
   - "Deutéronome 23:2"
 original: "branham/1960/60-1127M"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601127Commencement.pdf"
 ---
 **IL N’EN ETAIT PAS AINSI AU COMMENCEMENT**
 *27 novembre 1960, dimanche matin, Shreveport (Louisiane). 49 minutes.*

@@ -227,6 +227,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jude 1:3"
   - "Matthieu 16:18"
+local_pdf: "https://files.mevar.org/cmpp/undated/antichrist.pdf"
 ---
 # L'antichrist
 

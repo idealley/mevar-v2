@@ -100,6 +100,7 @@ bible_refs:
   - "1 Timothée 3:16"
   - "Apocalypse 1"
 original: "branham/1960/60-1204M"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601204Apoc-chap-1.pdf"
 ---
 *Résumé de!: “Apocalypse, chapitre un” (4 décembre 1960, matin)*
 

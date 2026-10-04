@@ -46,6 +46,7 @@ bible_refs:
   - "Exode 17:6"
   - "Ésaïe 53:5"
 original: "branham/1950/50-0827E"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500827bPrends-la-verge.pdf"
 ---
 *27 août 1950, dimanche soir, Cleveland (Ohio)*
 

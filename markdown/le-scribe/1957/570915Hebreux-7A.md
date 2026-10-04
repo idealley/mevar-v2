@@ -77,6 +77,7 @@ bible_refs:
   - "Éphésiens 3:11"
   - "Romains 9:16"
 original: "branham/1957/57-0915E"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570915Hebreux-7A.pdf"
 ---
 *Résumé de!: “Hébreux, chapitre 7, première partie” (15 septembre 1957, soir)*
 

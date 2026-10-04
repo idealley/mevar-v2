@@ -55,6 +55,7 @@ bible_refs:
   - "Malachie 4:6"
   - "1 Pierre 3:4"
 original: "branham/1965/65-0822E"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650822bFiltre.pdf"
 ---
 *Le filtre d'un homme qui réfléchit* (22 août 1965, soir)
 

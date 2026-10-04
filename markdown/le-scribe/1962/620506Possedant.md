@@ -52,6 +52,7 @@ bible_refs:
   - "Actes 2:29"
   - "1 Corinthiens 11:23-33"
 original: "branham/1962/62-0506"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620506Possedant.pdf"
 ---
 *Possédant toutes choses* (6 mai 1962, soir)
 

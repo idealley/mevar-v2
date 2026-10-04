@@ -74,6 +74,7 @@ bible_refs:
   - "Deutéronome 4:1,2,4,25,26"
   - "1 Samuel 8"
 original: "branham/1965/65-1127B"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651127aService-Dieu.pdf"
 ---
 **ESSAYER DE RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE**
 

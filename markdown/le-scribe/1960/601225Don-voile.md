@@ -79,6 +79,7 @@ bible_refs:
   - "Matthieu 10:25"
   - "Luc 7:36-50"
 original: "branham/1960/60-1225"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601225Don-voile.pdf"
 ---
 **Résumé de : “Le Don voilé de Dieu” (le 25.12.1960)**
 

@@ -46,6 +46,7 @@ bible_refs:
   - "1 Corinthiens 15:55"
   - "Romains 8:37"
 original: "branham/1957/57-0421S"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570421Conquerant.pdf"
 ---
 *Résumé de!: “Le grand et puissant Conquérant” (21 avril 1957, matin)*
 

@@ -87,6 +87,7 @@ bible_refs:
   - "2 Corinthiens 5:1"
   - "1 Corinthiens 15:42-49,53"
 original: "branham/1963/63-0322"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630322CinqiemeSceau.pdf"
 ---
 **Résumé de!: “Le Cinquième Sceau” (22 mars 1963 soir)**
 

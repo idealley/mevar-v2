@@ -48,6 +48,7 @@ bible_refs:
   - "Apocalypse 3:22"
   - "Luc 17:26-30"
 original: "branham/1958/58-0618"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580618Ecriture-mur.pdf"
 ---
 **L'écriture sur le mur**
 

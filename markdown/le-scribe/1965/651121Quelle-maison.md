@@ -41,6 +41,7 @@ bible_refs:
   - "Actes 7:44"
   - "Psaumes 10:5"
 original: "branham/1965/65-1121"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651121Quelle-maison.pdf"
 ---
 **Résumé de : “Quelle maison me bâtirez-vous?” (21 novembre 1965, matin)**
 

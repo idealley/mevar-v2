@@ -63,6 +63,7 @@ bible_refs:
   - "Daniel 8:27"
   - "Marc 5:30"
 original: "branham/1963/63-0604"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630604Jesus-le-meme.pdf"
 ---
 **Résumé de!: “Jésus-Christ est le même, hier, aujourd’hui et éternellement” (4 Juin 1963, soir )**
 

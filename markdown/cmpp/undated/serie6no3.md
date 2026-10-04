@@ -70,6 +70,7 @@ bible_refs:
   - "Jean 6:33"
   - "Psaumes 42:7"
   - "Matthieu 5"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie6no3.pdf"
 ---
 SERIE 6, N° 3
 

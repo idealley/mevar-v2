@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 14:10"
   - "Matthieu 18:16"
 original: "branham/1951/51-0729E"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510729Second-miracle.pdf"
 ---
 **LE SECOND MIRACLE**
 

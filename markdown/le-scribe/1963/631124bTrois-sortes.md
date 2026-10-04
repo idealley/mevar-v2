@@ -77,6 +77,7 @@ bible_refs:
   - "Jean 15:7"
   - "Jean 5:24"
 original: "branham/1963/63-1124E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631124bTrois-sortes.pdf"
 ---
 *Trois sortes de croyants* (24 novembre 1963 soir)
 

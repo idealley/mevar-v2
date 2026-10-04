@@ -73,6 +73,7 @@ bible_refs:
   - "Genèse 18"
   - "Jean 5:19"
 original: "branham/1964/64-0415"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640415Christ-identifie.pdf"
 ---
 *Christ est identifié en tous les âges comme étant le même*
 *15 avril 1964, mercredi soir, Tampa (Floride)*

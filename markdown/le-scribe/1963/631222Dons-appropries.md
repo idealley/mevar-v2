@@ -56,6 +56,7 @@ bible_refs:
   - "Jean 10:34-36"
   - "Luc 17:26"
 original: "branham/1963/63-1222"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631222Dons-appropries.pdf"
 ---
 **1.** Quand un sujet de prédication me vient à l'esprit, je le note aussitôt sur un carnet, et plus tard je l'utilise. J'ai ainsi reçu le thème de ce soir il y a peu de temps au Colorado.
 

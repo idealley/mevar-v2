@@ -61,6 +61,7 @@ bible_refs:
   - "Jean 6:35"
   - "Jean 8:58"
 original: "branham/1959/59-0812"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590812Discerner.pdf"
 ---
 “Discerner le Corps du Seigneur” (12 août 1959)
 

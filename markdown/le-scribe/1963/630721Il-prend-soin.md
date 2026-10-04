@@ -81,6 +81,7 @@ bible_refs:
   - "Jean 11:25"
   - "Hébreux 4:12"
 original: "branham/1963/63-0721"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630721Il-prend-soin.pdf"
 ---
 **Résumé de!: “Il se soucie de vous. Vous souciez-vous de lui ?” (21 juillet 1963 matin)**
 

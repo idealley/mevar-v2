@@ -55,6 +55,7 @@ bible_refs:
   - "Josué 1:5-6"
   - "Actes 24:14"
 original: "branham/1952/52-0713A"
+local_pdf: "https://files.mevar.org/le-scribe/1952/520713Experiences.pdf"
 ---
 **“Premières expériences spirituelles” (13 juillet 1952)**
 

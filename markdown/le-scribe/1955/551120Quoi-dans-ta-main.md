@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 5:24"
   - "Zacharie 14:7"
 original: "branham/1955/55-1120"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551120Quoi-dans-ta-main.pdf"
 ---
 **Résumé de : "Qu'y a-t-il dans ta main ?" (20 novembre 1955, après-midi)**
 

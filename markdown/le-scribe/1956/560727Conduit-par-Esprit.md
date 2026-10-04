@@ -51,6 +51,7 @@ bible_refs:
   - "Luc 24:49"
   - "Jean 11:21-22"
 original: "branham/1956/56-0723"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560727Conduit-par-Esprit.pdf"
 ---
 **1.** [Prière]. Nous avons tous été malades aujourd'hui, à cause de la chaleur. Si vous veniez chez nous, vous gèleriez. Chaque région a son climat. Mais c'est toujours le bon temps pour prêcher la repentance. Nous nous rencontrons sur le fondement du salut et du retour de Jésus-Christ. Il n'y aura plus de problèmes ce jour-là. Aujourd'hui, la polio augmente à Chicago malgré les vaccins.
 

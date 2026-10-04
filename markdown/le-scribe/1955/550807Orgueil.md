@@ -46,6 +46,7 @@ bible_refs:
   - "Luc 7:36"
   - "Psaumes 2:12"
 original: "branham/1955/55-0807A"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550807Orgueil.pdf"
 ---
 *Résumé de : "L'orgueil" (7 août 1955, après-midi)*
 

@@ -101,6 +101,7 @@ bible_refs:
   - "Jean 19:15"
   - "Nombres 16:26"
 original: "branham/1963/63-0707M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630707J-accuse.pdf"
 ---
 **Résumé de!: “J'accuse cette génération” ou “L'accusation” (7 juillet 1963 matin)**
 

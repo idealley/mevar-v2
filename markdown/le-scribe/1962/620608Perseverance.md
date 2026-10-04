@@ -57,6 +57,7 @@ bible_refs:
   - "Deutéronome 18:15-19"
   - "Jean 6:44"
 original: "branham/1962/62-0608"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620608Perseverance.pdf"
 ---
 **Résumé de!: “Persévérance” (8 juin 1963, soir)**
 

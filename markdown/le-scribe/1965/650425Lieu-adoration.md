@@ -69,6 +69,7 @@ bible_refs:
   - "Nombres 18:15"
   - "Zacharie 14:7"
 original: "branham/1965/65-0425"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650425Lieu-adoration.pdf"
 ---
 **Résumé de : “Le lieu d'adoration que Dieu a choisi” (25 avril 1965, après-midi)**
 

@@ -95,6 +95,7 @@ bible_refs:
   - "Colossiens 2:9"
   - "Actes 8:12"
   - "Colossiens 3:17"
+local_pdf: "https://files.mevar.org/cmpp/undated/quand_dieu.pdf"
 ---
 ## Quand Dieu devint homme
 

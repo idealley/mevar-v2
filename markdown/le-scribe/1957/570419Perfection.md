@@ -45,6 +45,7 @@ bible_refs:
   - "Romains 8:30"
   - "Hébreux 10:14"
 original: "branham/1957/57-0419"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570419Perfection.pdf"
 ---
 **Résumé de!: “La perfection” (19 avril 1957, soir)**
 

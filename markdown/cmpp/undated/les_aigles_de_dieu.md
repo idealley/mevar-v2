@@ -45,6 +45,7 @@ bible_refs:
   - "Jean 8:36"
   - "Jean 4"
   - "Jean 8:58"
+local_pdf: "https://files.mevar.org/cmpp/undated/les_aigles_de_dieu.pdf"
 ---
 LA PAROLE PARLEE
 

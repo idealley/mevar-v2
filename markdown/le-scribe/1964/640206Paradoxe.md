@@ -69,6 +69,7 @@ bible_refs:
   - "Matthieu 25:40"
   - "Luc 2:49"
 original: "branham/1964/64-0206B"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640206Paradoxe.pdf"
 ---
 *Un paradoxe* (6 février 1964, matin)
 

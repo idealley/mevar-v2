@@ -50,6 +50,7 @@ bible_refs:
   - "1 Corinthiens 1:18-25"
   - "Genèse 21:14-19"
 original: "branham/1955/55-0224"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550224Eau-du-Rocher.pdf"
 ---
 **Résumé de : “L’Eau du Rocher” (24 février 1955, soir)**
 

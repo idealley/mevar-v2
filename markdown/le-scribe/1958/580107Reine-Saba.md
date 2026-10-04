@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 5:19"
   - "Hébreux 13:8"
 original: "branham/1958/58-0107"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580107Reine-Saba.pdf"
 ---
 *Résumé de : “La reine de Saba” (7 janvier 1958, soir)*
 

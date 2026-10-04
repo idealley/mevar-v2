@@ -60,6 +60,7 @@ bible_refs:
   - "Matthieu 24:37"
   - "Jean 5:19"
 original: "branham/1956/56-1004"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561006Repas-de-noce.pdf"
 ---
 Résumé de : “Un repas de noces” (6 octobre1956)
 

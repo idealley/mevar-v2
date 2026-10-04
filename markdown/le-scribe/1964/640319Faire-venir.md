@@ -63,6 +63,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 11:42"
 original: "branham/1964/64-0319"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640319Faire-venir.pdf"
 ---
 *Résumé de!: “Faire entrer Jésus sur scène” (19 mars 1963, soir)*
 

@@ -50,6 +50,7 @@ bible_refs:
   - "Genèse 15:9-21"
   - "Hébreux 2:17-18"
 original: "branham/1957/57-0828"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570828Hebreux-2C.pdf"
 ---
 **Résumé de!: “Hébreux, chapitre 2, troisième partie” (28 août 1957, soir)**
 

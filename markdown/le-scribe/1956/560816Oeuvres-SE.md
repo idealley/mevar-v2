@@ -48,6 +48,7 @@ bible_refs:
   - "Genèse 18"
   - "Psaumes 37:25"
 original: "branham/1956/56-0816"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560816Oeuvres-SE.pdf"
 ---
 **1.** Demain soir, ce sera la fin de cette courte campagne. Ces réunions sont ouvertes à tous. Quand Jacob, harcelé par les Philistins, a creusé un troisième puits, il l'a appelé : “Il y a de la place pour tous.” C'est le genre de puits où nous buvons ce soir. Comme le dit un vieux cantique, “il y a une place pour moi à la Source.” Mais ne perdons pas de temps, car il me faudrait des années pour raconter tout ce que le Seigneur a fait.
 

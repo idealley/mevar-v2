@@ -58,6 +58,7 @@ bible_refs:
   - "Apocalypse 3:14-22"
   - "Nombres 20:1"
 original: "branham/1953/53-0328"
+local_pdf: "https://files.mevar.org/le-scribe/1953/530328Israel-serpent.pdf"
 ---
 **1.** ISRAEL ET L'EGLISE - 4 : ISRAEL DEVANT LE SERPENT D'AIRAIN (ou ISRAEL A KADES BARNEA)
 

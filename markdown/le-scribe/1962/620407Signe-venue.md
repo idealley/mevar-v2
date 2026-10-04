@@ -77,6 +77,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Joël 2:25"
 original: "branham/1962/62-0407"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620407Signe-venue.pdf"
 ---
 **LE SIGNE DE SA VENUE**
 *THE SIGN OF HIS COMING*

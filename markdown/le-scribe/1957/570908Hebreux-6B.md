@@ -68,6 +68,7 @@ bible_refs:
   - "Matthieu 7:16"
   - "Galates 5:22"
 original: "branham/1957/57-0908E"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570908Hebreux-6B.pdf"
 ---
 **Résumé de!: “Hébreux, chapitre 6, deuxième partie” (8 septembre 1957, soir)**
 

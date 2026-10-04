@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 15:1-5"
   - "Jean 4"
 original: "branham/1957/57-0516"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570516Voir-Jesus.pdf"
 ---
 Résumé de : “Nous voudrions voir Jésus ” (16.05.1957)
 

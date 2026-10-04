@@ -48,6 +48,7 @@ bible_refs:
   - "Actes 2:38-39"
   - "Zacharie 14:7"
 original: "branham/1957/57-0302"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570302Jesus-vint.pdf"
 ---
 **1.** [Cantique, prière]. Je crois que la foi vient de ce qui est écrit, et que Dieu garde sa Parole. Lisons Jean 11:17 “Jésus, étant arrivé, trouva que Lazare était déjà depuis quatre jours dans le sépulcre.”
 

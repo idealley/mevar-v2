@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 15:7"
   - "Marc 16"
 original: "branham/1950/50-0716"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500716Crois-tu-ceci.pdf"
 ---
 **CROIS-TU CELA ?**
 *BELIEVEST THOU THIS ?*

@@ -61,6 +61,7 @@ bible_refs:
   - "Jean 15:5"
   - "Jean 8:58"
 original: "branham/1958/58-0524"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580524Jesus-passe.pdf"
 ---
 **1.** [Prière]. Deux jours ne suffisent pas pour ce que nous voudrions faire. Il faut du temps pour que les malades guéris témoignent à d’autres, et ainsi de suite. Je suis heureux de voir mon ami Harry Burt Caul ici-présent. Je ne l’avais pas vu depuis des années, et nous avons beaucoup chassé ensemble dans ces montagnes.
 

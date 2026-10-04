@@ -47,6 +47,7 @@ bible_refs:
   - "Matthieu 12:42"
   - "Genèse 22"
 original: "branham/1959/59-1123"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591123Parle-montagne.pdf"
 ---
 *Résumé de!: “Parle à cette montagne” (23 novembre 1959, soir)*
 

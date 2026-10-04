@@ -59,6 +59,7 @@ bible_refs:
   - "Ésaïe 5"
   - "Zacharie 14:7"
 original: "branham/1956/56-0715"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560715Marque-Bete.pdf"
 ---
 Résumé de : “La marque de la Bête” (15 juillet 1956)
 

@@ -40,6 +40,7 @@ bible_refs:
   - "Psaumes 16:10"
   - "Actes 2:38-39"
 original: "branham/1960/60-0401M"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600401Pourquoi.pdf"
 ---
 “Pourquoi ?” (le 1er avril 1960)
 

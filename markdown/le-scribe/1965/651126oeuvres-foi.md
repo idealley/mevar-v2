@@ -103,6 +103,7 @@ bible_refs:
   - "2 Rois 20:7"
   - "Amos 3:7"
 original: "branham/1965/65-1126"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651126oeuvres-foi.pdf"
 ---
 **1.** Je voulais parler des conditions que l'Eglise doit remplir pour participer à l'Enlèvement, et ce qui doit se passer juste avant, mais quelque chose m'a dit de prier ce soir pour les malades. Je me souviens du temps où les gens s'approchaient avec une foi pure, et étaient guéris en s'approchant de nous. Il y avait vingt fois plus de guérisons qu'aujourd'hui. Il y a un an, le père d'un garçon voulait avoir une fille, mais les médecins lui avaient dit qu'il ne pouvait plus avoir d'enfant. Selon une vision, je lui ai dit qu'il aurait une fille, et il l'a amenée ici ce soir. Ces choses sont pour les croyants.
 

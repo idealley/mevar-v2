@@ -61,6 +61,7 @@ bible_refs:
   - "Genèse 45"
   - "Jean 3:5"
 original: "branham/1953/53-0325"
+local_pdf: "https://files.mevar.org/le-scribe/1953/530325Israel-Egypte.pdf"
 ---
 *Israël en Egypte* (25 mars 1953, soir)
 

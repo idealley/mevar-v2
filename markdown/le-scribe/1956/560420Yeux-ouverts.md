@@ -49,6 +49,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Néhémie 6"
 original: "branham/1956/56-0420"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560420Yeux-ouverts.pdf"
 ---
 **Résumé de : "Quand leurs yeux furent ouverts" (20 avril 1956)**
 

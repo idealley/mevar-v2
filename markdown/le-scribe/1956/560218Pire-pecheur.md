@@ -35,6 +35,7 @@ bible_refs:
   - "Matthieu 11:28"
   - "Psaumes 2:12"
 original: "branham/1956/56-0218E"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560218Pire-pecheur.pdf"
 ---
 **1.** C'est mon cantique favori. Il exprime la déité parfaite du Seigneur Jésus. Il a été écrit sous inspiration par mon ami Booth-Clibborn, un soir dans un champ, sur un morceau de carton qui lui servait de semelle. Je n'ai pas le temps de rendre visite à mes amis durant ces campagnes, car je dois jeûner et prier. Lisons Luc 7:36, et lisez la suite du chapitre chez vous :
 > “Un pharisien pria Jésus de manger avec lui. Jésus entra dans la maison du pharisien, et se mit à table.”

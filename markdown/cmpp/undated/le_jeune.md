@@ -105,6 +105,7 @@ bible_refs:
   - "Jean 14:12"
   - "Matthieu 10:7,8"
   - "Matthieu 17:19-21"
+local_pdf: "https://files.mevar.org/cmpp/undated/le_jeune.pdf"
 ---
 ## Le jeûne
 

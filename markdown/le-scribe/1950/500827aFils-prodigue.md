@@ -39,6 +39,7 @@ bible_refs:
   - "Luc 15:11"
   - "1 Jean 2:15"
 original: "branham/1950/50-0827A"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500827aFils-prodigue.pdf"
 ---
 **LE FILS PRODIGUE**
 

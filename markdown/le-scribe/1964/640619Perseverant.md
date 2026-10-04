@@ -53,6 +53,7 @@ bible_refs:
   - "1 Rois 21:19"
   - "Jean 9"
 original: "branham/1964/64-0619"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640619Perseverant.pdf"
 ---
 **Résumé de : “Persévérant” (19 juin 1964, soir)**
 

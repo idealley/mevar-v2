@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 16:16"
   - "Ésaïe 53:5"
 original: "branham/1955/55-0116E"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550116Jesus-le-meme.pdf"
 ---
 **1.** [Prière ; remerciements]. Plusieurs d'entre vous ont soutenu notre voyage en Inde, où des milliers de gens ont ainsi connu le Seigneur Jésus-Christ [NDT : en septembre 1954]. Cette soirée sera consacrée à la guérison, ce qui prendra du temps. C'est votre foi en Dieu qui guérit, je n'y suis pour rien, et j'essaie seulement de hisser votre foi jusque là où vous pouvez être guéris.
 

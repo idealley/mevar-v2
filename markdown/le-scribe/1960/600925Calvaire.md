@@ -47,6 +47,7 @@ bible_refs:
   - "1 Corinthiens 13:3"
   - "Jean 14:12"
 original: "branham/1960/60-0925"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600925Calvaire.pdf"
 ---
 “Ce jour-là sur le Calvaire” (le 25 septembre 1960)
 

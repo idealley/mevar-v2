@@ -58,6 +58,7 @@ bible_refs:
   - "Jean 14:19,20"
   - "Jean 14:12"
 original: "branham/1958/58-0323"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580323Jesus-le-meme.pdf"
 ---
 *Résumé de : “Jésus-Christ est le même hier, aujourd’hui et éternellement” (23 mars 1958, soir)*
 

@@ -18,6 +18,7 @@ bible_refs:
   - "Ésaïe 53:5"
   - "Exode 23:20"
 original: "branham/1950/50-0300"
+local_pdf: "https://files.mevar.org/le-scribe/undated/5003xxDon%26appel.pdf"
 ---
  _____________________________________________________
 

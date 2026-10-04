@@ -54,6 +54,7 @@ bible_refs:
   - "Psaumes 24:8-10"
   - "Genèse 6:3"
 original: "branham/1957/57-0808"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570808Vainqueur.pdf"
 ---
 **1.** Merci frère Sothmann. [Courte prière].
 

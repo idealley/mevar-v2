@@ -56,6 +56,7 @@ bible_refs:
   - "Romains 13:8"
   - "Romains 13:10"
   - "Matthieu 5:17"
+local_pdf: "https://files.mevar.org/cmpp/2022/exhortation_annee_2022_A5_gc.pdf"
 ---
 EXHORTATION
 ANNEE 2022

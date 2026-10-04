@@ -44,6 +44,7 @@ bible_refs:
   - "Hébreux 4:12"
   - "Genèse 3:15"
 original: "branham/1956/56-0212"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560212Communion.pdf"
 ---
 **1.** C'est une joie d'être dans la Maison de l'Eternel pour communier et servir le Roi. La neige n'a pas facilité mon voyage hier. Je suis heureux de voir que dans cette ville ceux qui sont appelés par Son Nom se réunissent, car Dieu entend alors les prières. C'est la seule façon d'avoir un réveil. J'ai entendu deux pasteurs mettre en doute les miracles de Jésus, et ils pensaient qu'il s'agissait sans doute d'une action psychique. Mais tous les deux croyaient au miracle du salut qui est bien au-dessus de toute guérison.
 

@@ -216,6 +216,7 @@ bible_refs:
   - "Actes 3:19"
   - "Matthieu 9:37,38"
   - "Romains 9:28"
+local_pdf: "https://files.mevar.org/cmpp/undated/il_est_ecrit.pdf"
 ---
 # Il est écrit…
 

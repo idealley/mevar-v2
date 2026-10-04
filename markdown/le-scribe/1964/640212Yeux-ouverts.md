@@ -67,6 +67,7 @@ bible_refs:
   - "Hébreux 4:12"
   - "2 Rois 7:3-10"
 original: "branham/1964/64-0212"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640212Yeux-ouverts.pdf"
 ---
 **Résumé de!: “Quand leurs yeux furent ouverts” (12 février 1964, soir)**
 

@@ -69,6 +69,7 @@ bible_refs:
   - "Actes 19:13-17"
   - "Jean 14:19"
 original: "branham/1951/51-0727"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510727Eglise-vivante.pdf"
 ---
 **UNE SEULE VERITABLE EGLISE VIVANTE**
 *ONLY ONE TRUE LIVING CHURCH*

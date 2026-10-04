@@ -62,6 +62,7 @@ bible_refs:
   - "Matthieu 8:28-34"
   - "Daniel 7:15"
 original: "branham/1951/51-0509"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510509Crois-tu-que.pdf"
 ---
 **CROIS-TU QUE JE PUISSE FAIRE CELA ?**
 *BELIEVE YE THAT I CAN DO THIS ?*

@@ -58,6 +58,7 @@ bible_refs:
   - "Actes 18:24"
   - "Apocalypse 10"
   - "Matthieu 24:14"
+local_pdf: "https://files.mevar.org/cmpp/1988/predication_bruxelles_1988.pdf"
 ---
 **PRÉDICATION DONNÉE À BRUXELLES LE SAMEDI 9 AVRIL 1988**
 

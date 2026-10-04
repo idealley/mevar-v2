@@ -60,6 +60,7 @@ bible_refs:
   - "1 Corinthiens 15:25"
   - "Matthieu 5:13"
 original: "branham/1958/58-0610"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580610Vainqueur.pdf"
 ---
 Résumé de : “Le puissant vainqueur” (10 juin 1958, soir)
 

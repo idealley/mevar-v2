@@ -52,6 +52,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Jean 9:30,24-25"
 original: "branham/1962/62-0521"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620521Convaincu.pdf"
 ---
 **Résumé de!: “Convaincu, puis impliqué” (21 mai 1962, soir)**
 

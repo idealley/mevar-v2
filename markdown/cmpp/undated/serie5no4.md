@@ -52,6 +52,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Marc 16"
   - "Luc 24:49"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie5no4.pdf"
 ---
 SERIE 5, N° 4
 

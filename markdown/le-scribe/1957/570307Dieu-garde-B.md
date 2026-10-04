@@ -64,6 +64,7 @@ bible_refs:
   - "Actes 8:37"
   - "Matthieu 24:27"
 original: "branham/1957/57-0307"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570307Dieu-garde-B.pdf"
 ---
 Résumé de : “ Dieu est fidèle à sa Parole - 2” (7.03.1957)
 

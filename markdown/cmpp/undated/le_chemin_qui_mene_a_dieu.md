@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 11:25-26"
   - "Psaumes 103"
   - "Psaumes 103:1-4"
+local_pdf: "https://files.mevar.org/cmpp/undated/le_chemin_qui_mene_a_dieu.pdf"
 ---
 LE CHEMIN QUI MENE A DIEU
 

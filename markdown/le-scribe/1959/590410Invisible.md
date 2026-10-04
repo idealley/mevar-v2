@@ -51,6 +51,7 @@ bible_refs:
   - "Hébreux 11:27"
   - "Deutéronome 18:18"
 original: "branham/1959/59-0410"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590410Invisible.pdf"
 ---
 **1.** [Prière].
 

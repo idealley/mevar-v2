@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 18:6"
   - "Matthieu 12:32"
 original: "branham/1956/56-0407"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560407Bartimee.pdf"
 ---
 **Résumé de : “L'aveugle Bartmée” (7 avril 1956)**
 

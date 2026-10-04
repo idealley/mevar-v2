@@ -56,6 +56,7 @@ bible_refs:
   - "Jean 14:14"
   - "Jean 5:24"
 original: "branham/1960/60-0712"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600712Ecoutez.pdf"
 ---
 **Résumé de : "Ecoutez-le" (le 12 juillet 1960)**
 

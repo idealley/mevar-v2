@@ -40,6 +40,7 @@ bible_refs:
   - "Jean 16:29"
   - "Ésaïe 49:15-16"
 original: "branham/1955/55-0610"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550610Croyez-vous.pdf"
 ---
 Résumé de : “Croyez-vous maintenant ?” (10 juin 1955, soir)
 

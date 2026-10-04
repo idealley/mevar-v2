@@ -74,6 +74,7 @@ bible_refs:
   - "Marc 5:30"
   - "Jean 14:12"
 original: "branham/1962/62-0729"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620729Perseverant.pdf"
 ---
 *Persévérant (ou Persévérance)*
 *29 juillet 1962, dimanche après-midi, Victoria (British Columbia, Canada)*

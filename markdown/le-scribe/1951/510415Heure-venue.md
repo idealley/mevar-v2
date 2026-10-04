@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 9:24"
   - "Actes 9:40"
 original: "branham/1951/51-0415E"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510415Heure-venue.pdf"
 ---
 **L'HEURE EST VENUE**
 *THE HOUR IS COME*

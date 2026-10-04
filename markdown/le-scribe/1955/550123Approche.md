@@ -51,6 +51,7 @@ bible_refs:
   - "Hébreux 12:5-11"
   - "Romains 8:39"
 original: "branham/1955/55-0123A"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550123Approche.pdf"
 ---
 *Venir dans la Présence de Dieu* (23 janvier 1955, après-midi)
 

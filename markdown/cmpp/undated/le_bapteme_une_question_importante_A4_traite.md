@@ -56,6 +56,7 @@ bible_refs:
   - "Actes 2:5"
   - "Jean 17:20"
   - "Deutéronome 6:4"
+local_pdf: "https://files.mevar.org/cmpp/undated/le_bapteme_une_question_importante_A4_traite.pdf"
 ---
 LE BAPTEME? UNE QUESTION IMPORTANTE!
 

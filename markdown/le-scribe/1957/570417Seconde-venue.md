@@ -55,6 +55,7 @@ bible_refs:
   - "Galates 5:22"
   - "Apocalypse 3:17"
 original: "branham/1957/57-0417"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570417Seconde-venue.pdf"
 ---
 **Résumé de!: “La Seconde Venue du Seigneur” (17 avril 1957, soir)**
 

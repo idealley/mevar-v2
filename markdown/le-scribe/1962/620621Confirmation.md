@@ -49,6 +49,7 @@ bible_refs:
   - "Marc 5:25-34"
   - "Jean 15:7"
 original: "branham/1962/62-0621E"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620621Confirmation.pdf"
 ---
 **Résumé de!: “Confirmation et preuve” (21 juin 1962, soir)**
 

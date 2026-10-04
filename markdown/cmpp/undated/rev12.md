@@ -60,6 +60,7 @@ bible_refs:
   - "2 Timothée 4:8"
   - "Daniel 7"
   - "Apocalypse 21"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev12.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

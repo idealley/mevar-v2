@@ -60,6 +60,7 @@ bible_refs:
   - "Matthieu 12:39"
   - "Luc 17:28"
 original: "branham/1964/64-0206E"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640206Voie-pourvue.pdf"
 ---
 **Résumé de!: “La voie de Dieu pourvue en ce jour” (6 février 1964, soir)**
 

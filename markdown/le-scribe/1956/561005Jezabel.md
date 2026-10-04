@@ -45,6 +45,7 @@ bible_refs:
   - "2 Rois 9:30"
   - "Hébreux 12:1-2"
 original: "branham/1956/56-1003"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561005Jezabel.pdf"
 ---
 **LA JEZABEL AU VISAGE FARDE**
 *PAINTED FACE JEZEBEL*

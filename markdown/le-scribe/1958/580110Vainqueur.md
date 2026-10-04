@@ -58,6 +58,7 @@ bible_refs:
   - "Apocalypse 6:1"
   - "Jean 5:19"
 original: "branham/1958/58-0110"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580110Vainqueur.pdf"
 ---
 **LE PUISSANT VAINQUEUR**
 *THE MIGHTY CONQUEROR*

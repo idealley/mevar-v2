@@ -70,6 +70,7 @@ bible_refs:
   - "Matthieu 8:8"
   - "Hébreux 4:12"
 original: "branham/1963/63-1129"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631129SuperSigne.pdf"
 ---
 **Résumé de!: “Le Super Signe” (29 novembre 1963 soir)**
 

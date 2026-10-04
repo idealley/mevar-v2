@@ -52,6 +52,7 @@ bible_refs:
   - "Matthieu 17:5"
   - "Matthieu 28:18"
 original: "branham/1955/55-0116A"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550116Position.pdf"
 ---
 **2.** J'avais prévu de parler sur les promesses inébranlables de Dieu, mais le Seigneur m'a dit qu'il ne valait mieux pas. Le frère Joseph Boze a parlé des photos de l'Ange de l'Eternel. Nous en apporterons demain, car nous ne vendons rien le dimanche. Ce soir, nous prierons pour les malades, et nous distribuerons les cartes de prière vers six heures. Nous les distribuons au jour le jour, pour que ceux qui viennent plus tard aient une chance d'en avoir. C'est notre expérience de huit années de voyages.
 

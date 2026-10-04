@@ -59,6 +59,7 @@ bible_refs:
   - "1 Corinthiens 15:55,57"
   - "Ésaïe 53:5"
 original: "branham/1955/55-1118"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551118Foi-Abraham.pdf"
 ---
 **LA FOI D'ABRAHAM**
 *18 novembre 1955, vendredi soir, San Fernando (Californie)*

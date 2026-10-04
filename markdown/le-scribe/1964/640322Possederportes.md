@@ -63,6 +63,7 @@ bible_refs:
   - "Jean 15:7"
   - "Hébreux 4:15"
 original: "branham/1964/64-0322"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640322Possederportes.pdf"
 ---
 **Résumé de!: “Possédant les portes de l’ennemi après l’épreuve” (22 mars 1964)**
 

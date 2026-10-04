@@ -50,6 +50,7 @@ bible_refs:
   - "Hébreux 13:12"
   - "Matthieu 22:1-14"
 original: "branham/1962/62-0519"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620519Communion.pdf"
 ---
 *19 mai 1962, samedi soir, Green Lake (Wisconsin)*
 

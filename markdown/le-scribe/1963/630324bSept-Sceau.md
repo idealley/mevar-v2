@@ -87,6 +87,7 @@ bible_refs:
   - "Apocalypse 6:2-8"
   - "Apocalypse 6:12-17"
 original: "branham/1963/63-0324E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630324bSept-Sceau.pdf"
 ---
 **LE SEPTIÈME SCEAU**
 *THE SEVENTH SEAL*

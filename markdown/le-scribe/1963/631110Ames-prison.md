@@ -87,6 +87,7 @@ bible_refs:
   - "Matthieu 6:10"
   - "Matthieu 26:30"
 original: "branham/1963/63-1110M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631110Ames-prison.pdf"
 ---
 **1.** [Prière]. Il y a quelques minutes, un garçon, le fils d'un cousin catholique, était étendu là, mourant. Le Seigneur l'a remis sur pied. Ils vont venir pour le baptême. Ce soir [NDT : prédication intitulée “Celui qui est en vous”] je parlerai de la guérison, et je prierai pour les malades.
 

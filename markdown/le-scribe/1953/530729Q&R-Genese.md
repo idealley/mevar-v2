@@ -101,6 +101,7 @@ bible_refs:
   - "Matthieu 24:24"
   - "2 Timothée 3:5"
 original: "branham/1953/53-0729"
+local_pdf: "https://files.mevar.org/le-scribe/1953/530729Q%26R-Genese.pdf"
 ---
 *Questions et réponses sur la Genèse (29. 07. 1953)*
 

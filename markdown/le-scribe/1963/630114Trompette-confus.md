@@ -76,6 +76,7 @@ bible_refs:
   - "Jean 10:28"
   - "Matthieu 10:32"
 original: "branham/1963/63-0114"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630114Trompette-confus.pdf"
 ---
 **Résumé de!: “Une trompette rend un son confus” (14 Janvier 1963)**
 

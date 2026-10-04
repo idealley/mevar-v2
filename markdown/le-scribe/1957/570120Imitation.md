@@ -49,6 +49,7 @@ bible_refs:
   - "Juges 16:3"
   - "Ésaïe 53:5"
 original: "branham/1957/57-0120M"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570120Imitation.pdf"
 ---
 **L'IMITATION DU CHRISTIANISME**
 *THE IMPERSONATION OF CHRISTIANITY*

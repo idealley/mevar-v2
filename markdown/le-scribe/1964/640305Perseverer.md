@@ -79,6 +79,7 @@ bible_refs:
   - "Jérémie 1:5"
   - "Jean 5:19"
 original: "branham/1964/64-0305"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640305Perseverer.pdf"
 ---
 **Résumé de!: “Persévérer” (5 mars 1964, soir)**
 

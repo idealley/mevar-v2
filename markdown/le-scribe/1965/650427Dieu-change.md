@@ -49,6 +49,7 @@ bible_refs:
   - "Luc 17"
   - "Malachie 4"
 original: "branham/1965/65-0427"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650427Dieu-change.pdf"
 ---
 *Résumé de : "Dieu change-t-il d'avis ?" (27 avril 1965, soir)*
 

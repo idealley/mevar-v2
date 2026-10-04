@@ -75,6 +75,7 @@ bible_refs:
   - "Ésaïe 9:6"
   - "Ésaïe 53:5"
 original: "branham/1960/60-0522E"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600522Adoption.pdf"
 ---
 **“Adoption” (le 22 mai 1960, soir)**
 

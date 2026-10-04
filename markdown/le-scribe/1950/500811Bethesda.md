@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 11"
   - "2 Rois 2:14"
 original: "branham/1950/50-0811"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500811Bethesda.pdf"
 ---
 **LA PISCINE DE BETHESDA**
 *THE POOL OF BETHESDA*

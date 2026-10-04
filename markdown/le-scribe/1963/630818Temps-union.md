@@ -57,6 +57,7 @@ bible_refs:
   - "Malachie 4:5-6"
   - "Jean 14:20"
 original: "branham/1963/63-0818"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630818Temps-union.pdf"
 ---
 **LE TEMPS ET LE SIGNE DE L'UNION**
 *THE SIGN OF THE UNITING TIME*

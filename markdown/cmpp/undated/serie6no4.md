@@ -74,6 +74,7 @@ bible_refs:
   - "Ésaïe 9:6"
   - "Jean 5:28"
   - "Matthieu 11:23"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie6no4.pdf"
 ---
 SERIE 6, N° 4
 

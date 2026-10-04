@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 11:41"
   - "Marc 5:25-34"
 original: "branham/1962/62-0630B"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620630Pas-ainsi-au-debut.pdf"
 ---
 *Au commencement, il n’en était pas ainsi* (30 juin 1962, matin)
 

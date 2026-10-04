@@ -47,6 +47,7 @@ bible_refs:
   - "Psaumes 16:10"
   - "Matthieu 14:28"
 original: "branham/1957/57-0407E"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570407Jesus-vint.pdf"
 ---
 *Résumé de: Alors Jésus vint (7.04.1957)*
 

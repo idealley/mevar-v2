@@ -106,6 +106,7 @@ bible_refs:
   - "Apocalypse 2:17"
   - "Apocalypse 3:7"
 original: "branham/1960/60-1210"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601210Philadel.pdf"
 ---
 **Résumé de!:** “L’âge de l’église de Philadelphie” (10 décembre 1960, soir)
 

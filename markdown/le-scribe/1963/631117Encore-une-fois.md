@@ -64,6 +64,7 @@ bible_refs:
   - "Juges 6:13"
   - "Matthieu 7:13,21"
 original: "branham/1963/63-1117"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631117Encore-une-fois.pdf"
 ---
 *Résumé de!: “Encore une fois” (17 novembre 1963, soir)*
 

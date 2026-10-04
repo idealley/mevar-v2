@@ -40,6 +40,7 @@ bible_refs:
   - "Matthieu 6:5,6"
   - "Marc 13:11"
   - "1 Jean 3:21"
+local_pdf: "https://files.mevar.org/le-scribe/undated/wmbch15.pdf"
 ---
 ## Chapitre quinze
 

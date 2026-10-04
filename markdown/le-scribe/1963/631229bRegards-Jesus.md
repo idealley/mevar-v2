@@ -76,6 +76,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Luc 8:46"
 original: "branham/1963/63-1229E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631229bRegards-Jesus.pdf"
 ---
 **1.** Frère Blair ici présent a été attaqué par Satan pour qu'il ne me fasse plus confiance, et il avait un problème nerveux. Le Seigneur est venu et lui a révélé certaines choses, et l'a écarté de cela. Un jour son fils avait eu le visage écrasé par une voiture, mais j'avais eu une vision montrant le garçon en parfaite santé.
 

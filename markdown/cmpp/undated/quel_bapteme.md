@@ -58,6 +58,7 @@ bible_refs:
   - "Malachie 4:5-6"
   - "Jean 17:3"
   - "Matthieu 24:44"
+local_pdf: "https://files.mevar.org/cmpp/undated/quel_bapteme.pdf"
 ---
 DE QUEL BAPTEME AVEZ-VOUS DONC ETE BAPTISE?
 (Actes 19.3)

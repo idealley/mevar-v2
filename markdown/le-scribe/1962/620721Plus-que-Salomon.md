@@ -51,6 +51,7 @@ bible_refs:
   - "2 Timothée 3:1-5"
   - "Jacques 5:15"
 original: "branham/1962/62-0721"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620721Plus-que-Salomon.pdf"
 ---
 **1.** [Prière]. Le Saint-Esprit nous a prouvé qu'il était ici. Les pasteurs ici présents seront heureux d'accueillir dans leurs églises les gens de passage. Je dis toujours aussi que c'est un péché "d'envoyer" les enfants à l'école du dimanche : allez avec eux !
 

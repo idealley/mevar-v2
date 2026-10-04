@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 5:24"
   - "Hébreux 6:4-6"
 original: "branham/1956/56-0621"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560621Loi-ombre.pdf"
 ---
 **Résumé de : “La Loi était l'ombre des choses” (21 juin 1956)**
 

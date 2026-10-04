@@ -49,6 +49,7 @@ bible_refs:
   - "Matthieu 16:17,18"
   - "Actes 2:17"
 original: "branham/1962/62-1111M"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621111Consecration.pdf"
 ---
 **Résumé de : “Consécration” (11 novembre 1962, matin)**
 

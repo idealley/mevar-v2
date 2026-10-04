@@ -41,6 +41,7 @@ bible_refs:
   - "Matthieu 9:27"
   - "2 Rois 4:8-37"
 original: "branham/1950/50-0715"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500715Conduit.pdf"
 ---
 **CONDUIT PAR L'ESPRIT**
 *LED BY THE SPIRIT*

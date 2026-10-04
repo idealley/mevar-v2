@@ -71,6 +71,7 @@ bible_refs:
   - "1 Corinthiens 12:13"
   - "Jacques 5:15"
 original: "branham/1956/56-0406"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560406Infaillible.pdf"
 ---
 **Résumé de : “La Parole infaillible de Dieu” (6 avril 1956)**
 

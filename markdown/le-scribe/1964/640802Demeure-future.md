@@ -110,6 +110,7 @@ bible_refs:
   - "Actes 3:4"
   - "Matthieu 9:21"
 original: "branham/1964/64-0802"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640802Demeure-future.pdf"
 ---
 **Résumé de!: “La demeure future de l'Epoux céleste et de l'Epouse terrestre” (2 août1964)**
 

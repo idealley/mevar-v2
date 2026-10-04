@@ -64,6 +64,7 @@ bible_refs:
   - "Deutéronome 18:15-19"
   - "Zacharie 14:7"
 original: "branham/1962/62-0609E"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620609Pression.pdf"
 ---
 *Relâcher la pression* (9 juin 1962, soir)
 

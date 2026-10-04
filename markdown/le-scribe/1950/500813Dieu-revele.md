@@ -41,6 +41,7 @@ bible_refs:
   - "Exode 3:1"
   - "2 Rois 7"
 original: "branham/1950/50-0813E"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500813Dieu-revele.pdf"
 ---
 **1.** Nous sommes réunis afin de prier pour les malades. Lisons Exode 3:1 à 2
     “Moïse faisait paître le troupeau de Jéthro, son beau-père, sacrificateur de Madian ; et il mena le

@@ -50,6 +50,7 @@ bible_refs:
   - "1 Chroniques 17"
   - "Jérémie 1:5"
 original: "branham/1956/56-1001"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561001Ministere.pdf"
 ---
 **LE MINISTERE EXPLIQUE**
 *THE MINISTRY EXPLAINED*

@@ -66,6 +66,7 @@ bible_refs:
   - "Malachie 4"
   - "Jean 15:5"
 original: "branham/1964/64-0409"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640409Christ-identifie.pdf"
 ---
 *Le Christ de tous les âges identifié*
 *9 avril 1964, jeudi soir, Birmingham (Alabama)*

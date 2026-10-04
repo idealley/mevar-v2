@@ -55,6 +55,7 @@ bible_refs:
   - "Actes 9:5"
   - "Actes 12:7"
 original: "branham/1958/58-0612"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580612Voir-Jesus.pdf"
 ---
 *Résumé de : “Nous voudrions voir Jésus” (12 juin 1958, soir)*
 

@@ -67,6 +67,7 @@ bible_refs:
   - "Actes 3:4"
   - "1 Rois 19:4"
 original: "branham/1964/64-0321E"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640321Voixdusigne.pdf"
 ---
 **Résumé de!: “La Voix du Signe” (21 mars 1964, soir)**
 

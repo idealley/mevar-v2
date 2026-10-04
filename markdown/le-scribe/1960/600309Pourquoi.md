@@ -86,6 +86,7 @@ bible_refs:
   - "Romains 11:26"
   - "Apocalypse 22:17"
 original: "branham/1960/60-0309"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600309Pourquoi.pdf"
 ---
 “Pourquoi ?” (le 9 mars 1960)
 

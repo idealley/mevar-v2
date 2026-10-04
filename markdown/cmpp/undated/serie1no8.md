@@ -24,6 +24,7 @@ bible_refs:
   - "Malachie 3:1"
   - "Matthieu 24:24"
   - "Luc 17:28"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie1no8.pdf"
 ---
     SERIE 1 N° 8
 

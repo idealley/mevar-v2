@@ -82,6 +82,7 @@ bible_refs:
   - "2 Corinthiens 5:19"
   - "Hébreux 4:15"
 original: "branham/1964/64-0816"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640816Parole-confirmee.pdf"
 ---
 **Résumé de!: “La Parole confirmée de Dieu” (16 août 1964)**
 

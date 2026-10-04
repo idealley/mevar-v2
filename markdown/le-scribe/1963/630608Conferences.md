@@ -49,6 +49,7 @@ bible_refs:
   - "Actes 4:23-31"
   - "Matthieu 16:17-18"
 original: "branham/1963/63-0608"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630608Conferences.pdf"
 ---
 *Conférences*
 

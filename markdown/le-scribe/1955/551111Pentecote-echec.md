@@ -44,6 +44,7 @@ bible_refs:
   - "Psaumes 103:3"
   - "1 Jean 4:20"
 original: "branham/1955/55-1111"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551111Pentecote-echec.pdf"
 ---
 **Résumé de : "En quoi la Pentecôte a-t-elle échoué selon moi" (11 novembre 1955, soir)**
 

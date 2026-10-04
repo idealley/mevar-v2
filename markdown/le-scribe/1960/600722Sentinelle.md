@@ -54,6 +54,7 @@ bible_refs:
   - "Ésaïe 53:5"
   - "Marc 16:18"
 original: "branham/1960/60-0722"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600722Sentinelle.pdf"
 ---
 **1.** J’ai craint d’être en retard à cause d’une urgence à l’hôpital. Combien de malades ont senti une nette amélioration de leur état après l’exercice de ce nouveau ministère hier soir ? … C’est bien. Je crois que l’homme qui s’est levé de sa chaise roulante hier est présent dans l’auditoire … le voilà ! … Gloire au Seigneur ! Cela montre ce qu’une petite foi peut faire.
 

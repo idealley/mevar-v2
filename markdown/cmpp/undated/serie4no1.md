@@ -53,6 +53,7 @@ bible_refs:
   - "Actes 2:38"
   - "1 Samuel 9:9"
   - "Jean 15:7"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie4no1.pdf"
 ---
 SERIE 4, N° 1
 

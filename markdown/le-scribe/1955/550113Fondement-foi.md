@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 28:18"
   - "Marc 16:17"
 original: "branham/1955/55-0113"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550113Fondement-foi.pdf"
 ---
 **Résumé de!: “Le fondement essentiel de la foi” (13 janvier 1955, soir)**
 

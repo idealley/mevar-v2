@@ -85,6 +85,7 @@ bible_refs:
   - "Malachie 4"
   - "Luc 17"
 original: "branham/1964/64-1212"
+local_pdf: "https://files.mevar.org/le-scribe/1964/641212Temps-moisson.pdf"
 ---
 **1.** J'avais environ 17 ans lors de ma première venue à Phœnix. Je suis heureux de revoir le frère Valdez qui prêche depuis 50 ans. A chaque réunion, je rencontre aussi des personnes guéries dans le passé. La sœur Erb, ici présente, a été guérie d'une grave maladie, il y a 12 ou 14 ans, à Flint, Michigan. Hier soir, il y avait tant d'appels chez moi que j'ai dû prier au téléphone. Une femme de 87 ans avait perdu l'esprit, et criait dans les rues qu'on avait enlevé son bébé, et on pensait qu'elle allait mourir. J'ai pris le téléphone et j'ai prié dans ma chambre, et en peu de temps elle s'est endormie. Elle s'est réveillée guérie. Il n'est pas nécessaire d'être sur place. Nous ne recevons pas parce que nous ne demandons pas, et nous ne demandons pas parce que nous ne croyons pas.
 

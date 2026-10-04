@@ -48,6 +48,7 @@ bible_refs:
   - "Actes 2:38-39"
   - "Matthieu 23:37"
 original: "branham/1964/64-0418E"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640418Jesustient.pdf"
 ---
 *Jésus tient tous ses engagements* (18 avril 1964, soir)
 

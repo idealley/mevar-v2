@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 17:14-21"
   - "Actes 19:13-16"
 original: "branham/1951/51-0720"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510720Ange-Dieu.pdf"
 ---
 **L'ANGE DE DIEU**
 *THE ANGEL OF GOD*

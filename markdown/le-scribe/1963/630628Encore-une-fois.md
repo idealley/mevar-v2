@@ -50,6 +50,7 @@ bible_refs:
   - "Apocalypse 13:14"
   - "Luc 17:34"
 original: "branham/1963/63-0628M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630628Encore-une-fois.pdf"
 ---
 *O Seigneur ! Juste encore une fois* (28 Juin 1963, après-midi)
 

@@ -63,6 +63,7 @@ bible_refs:
   - "Galates 1:8"
   - "1 Corinthiens 14:38"
 original: "branham/1958/58-1005M"
+local_pdf: "https://files.mevar.org/le-scribe/1958/581005Ecoutez-voix.pdf"
 ---
 **1.** Je ne condamne pas les autres églises, mais les enseignements contraires aux Ecritures, et les choses qu'elles permettent. Je ne condamne pas les Catholiques, mais la doctrine de leur église, tout comme dans les dénominations Protestantes. Dieu apprécie la loyauté et la sincérité. Tout homme, même un coureur de jupons, apprécie une vraie femme loyale. Si vous êtes fidèles à ce que vous croyez, alors vous aurez foi en ce que vous dites.
 

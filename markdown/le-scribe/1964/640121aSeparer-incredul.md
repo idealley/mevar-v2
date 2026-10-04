@@ -79,6 +79,7 @@ bible_refs:
   - "Luc 8:46"
   - "Luc 7:6-7"
 original: "branham/1964/64-0121"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640121aSeparer-incredul.pdf"
 ---
 **Résumé de!: “La Parole de Dieu demande une séparation totale d’avec l'incrédulité”**
 *(21 Janvier 1964, matin)*

@@ -40,6 +40,7 @@ bible_refs:
   - "1 Rois 18:36"
   - "Hébreux 11:6"
 original: "branham/1951/51-0928"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510928A-ta-parole.pdf"
 ---
 **SUR TA PAROLE, SEIGNEUR**
 *AT THY WORD LORD*

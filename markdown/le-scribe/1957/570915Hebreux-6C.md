@@ -66,6 +66,7 @@ bible_refs:
   - "Hébreux 12:1,2"
   - "Ésaïe 53:5"
 original: "branham/1957/57-0915M"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570915Hebreux-6C.pdf"
 ---
 *Résumé de!: “Hébreux, chapitre 6, troisième partie” (15 septembre 1957, matin)*
 

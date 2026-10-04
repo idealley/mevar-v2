@@ -98,6 +98,7 @@ bible_refs:
   - "Jean 15"
   - "Marc 11"
   - "Marc 11:21-23"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev13.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

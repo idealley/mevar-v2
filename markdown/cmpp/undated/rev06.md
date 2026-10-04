@@ -48,6 +48,7 @@ bible_refs:
   - "Apocalypse 13:16"
   - "Apocalypse 13:14"
   - "Apocalypse 13"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev06.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

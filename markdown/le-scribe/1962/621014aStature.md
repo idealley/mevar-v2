@@ -91,6 +91,7 @@ bible_refs:
   - "Jean 10:35"
   - "Apocalypse 17:13"
 original: "branham/1962/62-1014M"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621014aStature.pdf"
 ---
 **LA STATURE D'UN HOMME PARFAIT**
 *THE STATURE OF A PERFECT MAN*

@@ -71,6 +71,7 @@ bible_refs:
   - "Jean 14"
   - "Actes 1:11"
   - "Luc 24:50,51"
+local_pdf: "https://files.mevar.org/cmpp/undated/vraitemoin.pdf"
 ---
 JE SUIS UN VRAI TEMOIN
 

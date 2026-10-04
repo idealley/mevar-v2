@@ -330,6 +330,7 @@ bible_refs:
   - "Apocalypse 21:4"
   - "Apocalypse 22:14"
   - "1 Corinthiens 2:9"
+local_pdf: "https://files.mevar.org/cmpp/undated/retour.pdf"
 ---
 # Le retour de Christ
 

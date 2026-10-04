@@ -58,6 +58,7 @@ bible_refs:
   - "Marc 15:30"
   - "Matthieu 10:32"
 original: "branham/1958/58-0209A"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580209Ecoutez-le.pdf"
 ---
 Résumé de : “Ecoutez-le” (9 février 1958, après-midi)
 

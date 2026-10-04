@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 10:18"
   - "Matthieu 7:22-23"
 original: "branham/1957/57-0113"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570113Que_faut_il.pdf"
 ---
 **1.** J'avais promis au frère Joseph de venir aujourd'hui, et j'ai dû rouler tôt sous la neige, après avoir inauguré une église hier soir. Je viens d'apprendre que je dois être à Minneapolis du 10 au 17 février, et je ne pourrai pas rencontrer la veuve de Jack Coe comme prévu. Je n'ai pas de station radio ou télé, et je peux donc aller vers les petites églises. Oral Roberts ne peut pas le faire. Pour ces ministères célèbres, une assemblée de 1500 membres est trop petite, pour pouvoir couvrir leurs charges financières.
 

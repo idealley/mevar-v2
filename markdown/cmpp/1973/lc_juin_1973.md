@@ -58,6 +58,7 @@ bible_refs:
   - "Ésaïe 9:15"
   - "Apocalypse 18:4"
   - "Galates 1:8"
+local_pdf: "https://files.mevar.org/cmpp/1973/lc_juin_1973.pdf"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

@@ -66,6 +66,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 14:19"
 original: "branham/1960/60-0716"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600716Des-lors.pdf"
 ---
 Résumé de : “Dès ce moment” (le 16 juillet 1960)
 

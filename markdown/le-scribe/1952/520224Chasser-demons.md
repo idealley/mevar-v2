@@ -45,6 +45,7 @@ bible_refs:
   - "Marc 16:17"
   - "Ésaïe 53:5"
 original: "branham/1952/52-0224"
+local_pdf: "https://files.mevar.org/le-scribe/1952/520224Chasser-demons.pdf"
 ---
 **Résumé de!: “Croire en Dieu” (24.2.52!; parfois daté à tort le 26. 08. 1951)**
 

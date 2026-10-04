@@ -56,6 +56,7 @@ bible_refs:
   - "Jean 11:25-26"
   - "Luc 12:8"
 original: "branham/1957/57-0519A"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570519Ecoutez.pdf"
 ---
 Résumé de : “Ecoutez-le ” (19.05.1957 ; après-midi)
 

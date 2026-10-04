@@ -42,6 +42,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 16:28"
 original: "branham/1959/59-1127"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591127Bartimee.pdf"
 ---
 **1.** Je viens de parler avec le photographe qui suit cette campagne. La puissance de Dieu l'avait guéri de la tuberculose en 1948 à l'hôpital.
 

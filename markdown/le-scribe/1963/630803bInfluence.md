@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 14:12"
   - "Apocalypse 14:13"
 original: "branham/1963/63-0803E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630803bInfluence.pdf"
 ---
 *Résumé de!: “Influence” (3 Août 1963, soir)*
 

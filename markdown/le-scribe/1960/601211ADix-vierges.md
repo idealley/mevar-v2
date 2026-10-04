@@ -101,6 +101,7 @@ bible_refs:
   - "Deutéronome 14:1-4"
   - "Apocalypse 22:16"
 original: "branham/1960/60-1211M"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601211ADix-vierges.pdf"
 ---
 Résumé de!: “Les dix vierges et les 144 000” (11 décembre 1960, matin)
 _____________________________________________________

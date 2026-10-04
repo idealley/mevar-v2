@@ -39,6 +39,7 @@ bible_refs:
   - "1 Thessaloniciens 4"
   - "Apocalypse 10"
   - "Malachie 4"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie3no8.pdf"
 ---
 SERIE 3 N° 8
 

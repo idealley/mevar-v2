@@ -64,6 +64,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 14:20"
 original: "branham/1959/59-0920"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590920Planter.pdf"
 ---
 “Planter une vigne et où la planter” (le 20 septembre 1959)
 

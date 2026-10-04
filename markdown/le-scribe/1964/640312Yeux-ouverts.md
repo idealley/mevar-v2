@@ -61,6 +61,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Marc 5:25-34"
 original: "branham/1964/64-0312"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640312Yeux-ouverts.pdf"
 ---
 **1.** [Prière]. Chaque auditoire est composé d'esprits, et parfois Jésus a ainsi été empêché de faire beaucoup de guérisons dans son propre pays [Mat. 13:58]. Un jour il a dû s'occuper d'un sourd à l'écart de la foule [Marc 7:33]. Lisons Luc 24:13 à 32
 

@@ -51,6 +51,7 @@ bible_refs:
   - "Ésaïe 53:5"
   - "Hébreux 9:14"
 original: "branham/1962/62-1124E"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621124Toutes-choses.pdf"
 ---
 *Résumé de!: “Toutes choses” (24 novembre 1962, soir)*
 

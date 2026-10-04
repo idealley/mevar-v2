@@ -74,6 +74,7 @@ bible_refs:
   - "Romains 8:39"
   - "Jean 6:37,44"
 original: "branham/1958/58-0927"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580927Denomination.pdf"
 ---
 **5.** Dans les réunions de guérison, votre foi naturelle ne peut pas faire grand chose. Elle peut prétendre posséder quelque chose, mais, s'il y a un doute dans le subconscient, cela ne marchera pas. Il faut donc, quand vous commencez à croire, que le subconscient prenne le relais de votre foi, et que la Foi de Dieu donne la confirmation.
 

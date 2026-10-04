@@ -77,6 +77,7 @@ bible_refs:
   - "Marc 6:5-6"
   - "Luc 8:43-48"
 original: "branham/1962/62-0727"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620727Voir-Jesus.pdf"
 ---
 **1.** C’est un privilège d’être parmi vous. Ceux qui sont en Christ sont la semence d’Abraham, héritiers avec Christ. Je regrette de venir au moment même où des frères de diverses organisations tiennent une convention, mais mon ami Eddie Byskal n’a pas pu trouver une autre date. Je ne reste que pour trois réunions. Nous avons passé trois soirées merveilleuses avec les Indiens à Port Alberni. J’aurais dû venir au printemps, mais un fusil mal réalésé m’a explosé à la figure. J’aurais dû être tué, mais j’ai seulement été sourd pendant quelques jours. Nous sommes ici pour prier pour les malades et avec les perdus, et pour communier autour de la Parole de Dieu. Faites venir les malades que vous connaissez. Le christianisme est convaincant quand il est prêché avec simplicité et non pas avec ritualisme, ni contaminé par des dogmes.
 

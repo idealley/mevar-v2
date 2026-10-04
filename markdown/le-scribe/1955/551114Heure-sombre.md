@@ -43,6 +43,7 @@ bible_refs:
   - "Jean 11:21"
   - "Ésaïe 53:5"
 original: "branham/1955/55-1114"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551114Heure-sombre.pdf"
 ---
 **Résumé de : “Jésus vient à l'heure la plus sombre” (14 novembre 1955, soir)**
 

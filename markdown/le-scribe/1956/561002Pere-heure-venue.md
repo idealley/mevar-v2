@@ -48,6 +48,7 @@ bible_refs:
   - "Marc 16"
   - "2 Samuel 5:24"
 original: "branham/1956/56-1002A"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561002Pere-heure-venue.pdf"
 ---
 **Père, l'heure est venue**
 

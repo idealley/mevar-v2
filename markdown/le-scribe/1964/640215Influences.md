@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 9"
   - "Actes 2:38"
 original: "branham/1964/64-0215"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640215Influences.pdf"
 ---
 **INFLUENCES**
 

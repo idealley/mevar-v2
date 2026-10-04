@@ -43,6 +43,7 @@ bible_refs:
   - "Jean 5:19"
   - "Hébreux 13:8"
 original: "branham/1955/55-0620"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550620Combattre.pdf"
 ---
 **1.** Lisons Jude 3 :
 > "Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes."

@@ -67,6 +67,7 @@ bible_refs:
   - "2 Timothée 4:9,16"
   - "Actes 13:11"
 original: "branham/1962/62-1104M"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621104Blasphemes.pdf"
 ---
 **Résumé de!: “Des noms de blasphème” (4 Novembre 1962, matin)**
 

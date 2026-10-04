@@ -58,6 +58,7 @@ bible_refs:
   - "Proverbes 28:13"
   - "Jean 5:24"
 original: "branham/1959/59-1122"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591122Qui-est-ce.pdf"
 ---
 **1.** Je suis encore dans la joie de ce qui s’est passé hier soir. En me levant ce matin, je me sentais comme au sommet du monde. Je crois que c’est le début d’un nouveau ministère, et, en venant hier, j’ai senti l’opposition de Satan, Il fera tout pour m’en empêcher. Ce ministère est sur le point de se manifester. J’en parlerai demain soir.
 

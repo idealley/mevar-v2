@@ -49,6 +49,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Matthieu 24:27"
 original: "branham/1960/60-0331"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600331Des-lors.pdf"
 ---
 **1.** [Prière] …
 

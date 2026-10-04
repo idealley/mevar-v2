@@ -62,6 +62,7 @@ bible_refs:
   - "Genèse 18:12"
   - "Ésaïe 1:3"
 original: "branham/1959/59-0708E"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590708Certain.pdf"
 ---
 **1.** S’il y a une ville où j’aimerais vivre, c’est à Cleveland, car c’est un grand centre religieux. Ce matin, j’ai consacré une église nouvelle, et ses membres se sont consacrés au service du Seigneur. Je remercie les frères Littlefield et Hall, et les autres pasteurs présents pour leur coopération et leur attachement au réveil de notre époque.
 

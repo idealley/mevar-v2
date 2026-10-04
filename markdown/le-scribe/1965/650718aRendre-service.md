@@ -73,6 +73,7 @@ bible_refs:
   - "Deutéronome 4"
   - "Matthieu 5:5"
 original: "branham/1965/65-0718M"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650718aRendre-service.pdf"
 ---
 *Essayer de rendre un service à Dieu sans que ce soit sa volonté* (18 juillet 1965, matin)
 

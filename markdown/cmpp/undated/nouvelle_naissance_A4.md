@@ -102,6 +102,7 @@ bible_refs:
   - "Éphésiens 4:12-13"
   - "Matthieu 24:14"
   - "Matthieu 25:10"
+local_pdf: "https://files.mevar.org/cmpp/undated/nouvelle_naissance_A4.pdf"
 ---
 # La nouvelle naissance
 

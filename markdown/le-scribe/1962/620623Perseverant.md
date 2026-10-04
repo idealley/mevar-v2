@@ -29,6 +29,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 14:19,17"
 original: "branham/1962/62-0623"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620623Perseverant.pdf"
 ---
     Résumé de!: “Persévérant” (23 juin 1963, soir)       1
     _____________________________________________________
