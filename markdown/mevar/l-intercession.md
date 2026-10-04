@@ -54,6 +54,8 @@ bible_refs:
   - "Ézéchiel 22"
   - "Ésaïe 62:1"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/nouvelleorientation.pdf"
+text_pdf: "/files/mevar-text/l-intercession.pdf"
 ---
 Ce soir, je voudrais aborder un autre sujet avec vous. Je voudrais parler de **l’intercession. Vous savez que les prédications que j’apporte sont liées au réveil**. Vous pouvez entendre des prédications sur la prière. Depuis qu’on a cru, on nous parle de la prière. Mais ce que nous disons maintenant sur ce sujet doit être pratiqué. Ce qu’on entend maintenant doit être pratiqué maintenant, c’est l’actualité, parce que l’Église a évolué, et **je l’ai dit qu’on est maintenant à Minuit** !
 

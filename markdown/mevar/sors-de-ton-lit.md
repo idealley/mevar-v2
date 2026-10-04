@@ -24,6 +24,7 @@ bible_refs:
   - "Jean 5:1-9"
   - "Jean 5"
   - "Matthieu 25"
+local_pdf: "/files/onedrive/sorsdetonlit.pdf"
 ---
 Nous allons lire Matthieu chapitre 9 à partir du premier verset (Matthieu 9:1-8) : \[le frère écrit le titre de la prédication sur le tableau. Réd.\]
 

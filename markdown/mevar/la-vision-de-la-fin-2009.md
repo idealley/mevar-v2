@@ -54,6 +54,8 @@ bible_refs:
   - "Ésaïe 35:8"
   - "Malachie 3:18"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/la-vision-de-la-fin.pdf"
+text_pdf: "/files/mevar-text/la-vision-de-la-fin-2009.pdf"
 ---
 Alors, ce matin je voudrais revenir sur la vision de la fin des temps pour ceux qui ne comprennent pas. Vous savez, frères et sœurs, si vous venez à l’église ou que vous fréquentez un lieu de prière, ou que vous adorez Dieu et que vous ne connaissez pas Ses pensées, vous adorez en vain. Ça, il faut que chacun comprenne cela ! **Parce que Dieu a une volonté qu’Il manifeste**, **Dieu a une orientation qu’Il donne, Dieu a une voie qu’Il trace**. **Si tu n’es pas engagé dans la voie que Dieu a tracée, tu n’es pas dans la volonté de Dieu, tu n’as pas les pensées de Dieu, tu adores en vain** ! Et ce sont des problèmes ! Tu ne peux pas avancer. C’est à cause de cela que les dimanches, quand je suis là et que j’ai l’occasion, je parle toujours de la vision que nous avons reçue, je reviens toujours là-dessus ; et ça, moi c’est mon travail. Chacun a son travail.
 

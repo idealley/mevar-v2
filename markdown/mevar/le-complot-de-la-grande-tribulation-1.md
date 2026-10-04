@@ -19,6 +19,7 @@ authors:
 ghost_id: "6448fa86db90770001518f97"
 uuid: "d255a087-706d-4733-993c-a60e0d839377"
 stream_url: "https://mevar.org/le-complot-de-la-grande-tribulation-1/"
+text_pdf: "/files/mevar-text/le-complot-de-la-grande-tribulation-1.pdf"
 ---
 ## Première partie - les complots de Satan (12)
 

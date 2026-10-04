@@ -54,6 +54,8 @@ bible_refs:
   - "Apocalypse 3"
   - "Esther 10:15"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lesfils.pdf"
+text_pdf: "/files/mevar-text/les-fils-du-desert-preche-mars-2009.pdf"
 ---
 Que Dieu vous bénisse ! [ASS : Amen ! Réd.] Nous remercions le Seigneur pour ce rassemblement. Est-ce qu’il y a des personnes qui sont là pour la première fois, des gens qui ont été invités ou qui nous rendent visite ? [Présentation des personnes invitées Réd.]
 

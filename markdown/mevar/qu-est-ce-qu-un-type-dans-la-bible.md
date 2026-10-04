@@ -22,6 +22,7 @@ bible_refs:
   - "Hébreux 9:9"
   - "Romains 9:24"
   - "1 Pierre 3:21"
+text_pdf: "/files/mevar-text/qu-est-ce-qu-un-type-dans-la-bible.pdf"
 ---
 Pour le dire simplement, un type est une histoire, un objet ou encore une personne de l’Ancien Testament (mais aussi dans le Nouveau Testament) qui peut être vu comme ayant une dimension prophétique ou ayant un sens prophétique. Nous pouvons voir l’accomplissement de ce type dans le nouveau testament ou même à notre époque.
 

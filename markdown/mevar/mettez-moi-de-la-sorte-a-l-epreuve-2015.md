@@ -79,6 +79,8 @@ bible_refs:
   - "1 Timothée 6:17"
   - "2 Samuel 12:8-9"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhortation-juin-2015.pdf"
+text_pdf: "/files/mevar-text/mettez-moi-de-la-sorte-a-l-epreuve-2015.pdf"
 ---
 Je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ qui a accepté de donner sa vie pour notre salut, par son sang. C’est en Lui que nous avons la paix qui surpasse toutes les intelligences. Mes chers amis, après la publication de la précédente exhortation, l’Esprit m’a encore ramené sur le même sujet pour ce mois. J’ai donc trouvé nécessaire de compléter ce qui a été dit le mois passé au sujet du droit des serviteurs de Dieu. **Sur ce sujet, il n’existe pas de doctrine dans le Nouveau Testament, mais le peuple de Dieu est appelé à marcher dans la Foi, la Liberté et la Fidélité à l’égard de Dieu**. Ce qui était prescrit dans la Loi de Moïse comme une ordonnance est prescrit dans le Nouveau Testament comme une Loi de l’Esprit dans notre cœur.
 

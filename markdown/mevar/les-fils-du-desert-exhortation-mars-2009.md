@@ -67,6 +67,8 @@ bible_refs:
   - "2 Corinthiens 11"
   - "Galates 1:15-18"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/exhortationdemars2009.pdf"
+text_pdf: "/files/mevar-text/les-fils-du-desert-exhortation-mars-2009.pdf"
 ---
 Je vous salue tous mes bien-aimés frères et sœurs et membres de la chaîne de prière, par cette Parole d’Ésaïe, au chapitre 40 :
 

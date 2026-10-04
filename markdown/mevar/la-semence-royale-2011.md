@@ -55,6 +55,8 @@ bible_refs:
   - "Actes 4"
   - "Apocalypse 11:15"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/semence.pdf"
+text_pdf: "/files/mevar-text/la-semence-royale-2011.pdf"
 ---
 Que le Seigneur vous bénisse. Je pense que j’ai déjà fait les annonces concernant les moments de prière et de jeûne. Nous faisons notre travail. Frères, dans l’Église, il y a plusieurs catégories de serviteurs de Dieu ; **et je vous ai déjà dit ici que les serviteurs de Dieu viennent dans l’Église en Mission**. Vous savez, la religion nous a donné de fausses conceptions de la foi et de l’œuvre de Dieu. Et c’est enfoui dans nos cœurs et dans nos esprits, et nous avons perdu les voies de Dieu ; sinon, il n’y a pas deux églises, il n’y a pas plusieurs églises, il y a une seule Église que Jésus-Christ a créée à Sa mort et à Sa résurrection… Ce sont les hommes qui ont fait les organisations que nous voyons, ce n’est pas Dieu ! **Donc Dieu a une seule Église et quand Il envoie Ses serviteurs dans l’Église, c’est pour une Mission**. J’ai déjà parlé de la Moisson du Seigneur ici, parlant des ouvriers qui sont venus à différentes heures… Il y a un groupe qui est venu à la sixième heure, un autre à la neuvième heure, ainsi de suite… Les heures sont des saisons prophétiques dans l’Église ; et quand le Seigneur ouvre une saison, Il envoie des serviteurs.
 

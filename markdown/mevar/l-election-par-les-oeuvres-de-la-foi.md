@@ -24,5 +24,6 @@ bible_refs:
   - "Romains 8"
   - "Matthieu 22"
   - "Matthieu 24"
+text_pdf: "/files/mevar-text/l-election-par-les-oeuvres-de-la-foi.pdf"
 ---
 Etude basée sur Romain 8, Matthieu 22 et Matthieu 24. Que Signifie être appelé ou élu dans la Bible?

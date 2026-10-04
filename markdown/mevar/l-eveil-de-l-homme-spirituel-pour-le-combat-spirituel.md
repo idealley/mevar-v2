@@ -60,6 +60,7 @@ bible_refs:
   - "Éphésiens 5:17"
   - "Apocalypse 17"
   - "Romains 16:20"
+local_pdf: "/files/onedrive/eveildelhomme.pdf"
 ---
 > _**_**_**Ainsi, dès maintenant, nous ne connaissons plus personne selon la chair ; et si nous avons connu Christ selon la chair, maintenant nous le connaissons plus de cette manière.**_**_** _(2 Corinthiens 5 :16)__
 

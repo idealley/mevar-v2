@@ -71,6 +71,7 @@ bible_refs:
   - "Genèse 22:2"
   - "Genèse 22:5"
   - "Genèse 22:8"
+text_pdf: "/files/mevar-text/qui-est-dieu.pdf"
 ---
 Le premier des dix commandements est très clair : « Tu craindras l’Eternel, ton Dieu, tu le serviras, et tu jureras par son nom » (Deut 6:13). Quel est Son nom ?“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (NEG 1979. Hébreux 13:8). L’Apocalypse ou la révélation de Jésus Christ, la révélation de qui Jésus Christ est, nous confirme les paroles de Jean:
 

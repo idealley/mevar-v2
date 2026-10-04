@@ -83,6 +83,8 @@ bible_refs:
   - "Luc 12:49-53"
 published_with: "mevar/les-deux-vins-le-vin-religieux-et-le-vin-de-l-esprit-2010"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/exhofinoct2010.pdf"
+text_pdf: "/files/mevar-text/simon-le-magicien-2010.pdf"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, c’est votre frère M’BRA Parfait qui vous salue dans le nom précieux de notre Seigneur Jésus-Christ. Que Sa grâce et Sa paix soient avec vous tous. Je voudrais vous exhorter avec cette Parole de Deutéronome chapitre 6 ; là où le Seigneur s’est adressé à Son Peuple pour lui demander de ne pas l’oublier, après son entrée dans la terre promise :
 

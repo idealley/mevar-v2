@@ -16,6 +16,7 @@ authors:
 ghost_id: "6448fa86db90770001518ee5"
 uuid: "67ce698f-87a5-43ed-bd5b-e8ff22473816"
 stream_url: "https://mevar.org/la-circoncision-conquete-du-pays-de-canaan/"
+text_pdf: "/files/mevar-text/la-circoncision-conquete-du-pays-de-canaan.pdf"
 ---
 ## La conquête du pays de Canaan
 

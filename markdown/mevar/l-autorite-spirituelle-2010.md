@@ -57,6 +57,8 @@ bible_refs:
   - "Romains 13"
   - "Marc 16"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/pred-sept2010.pdf"
+text_pdf: "/files/mevar-text/l-autorite-spirituelle-2010.pdf"
 ---
 Que Dieu soit béni ! Alors, on va lire. Je prendrai mon temps comme la dernière fois. Amen ! C’est pour cela qu’on commence maintenant. L’autorité spirituelle. On lira beaucoup, mais je ne vais pas m’attarder sur les versets bibliques que nous connaissons déjà. Amen ! Alors, je commence par définir l’autorité. Qu’est-ce que c’est que l’autorité ? On va lire Romains chapitre 13 à partir du premier verset :
 

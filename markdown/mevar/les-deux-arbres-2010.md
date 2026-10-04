@@ -76,6 +76,8 @@ bible_refs:
   - "Hébreux 11"
   - "Galates 5:19"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lesdeuxarbres.pdf"
+text_pdf: "/files/mevar-text/les-deux-arbres-2010.pdf"
 ---
 Que le Seigneur soit béni ! Ce matin, je voudrais prendre mon temps pour déposer la Parole de Dieu. Je vais aborder un sujet que j’avais abordé en Suisse. Ici, j’en parlerai plus en détail. Nous allons commencer la lecture dans la Genèse. Il s’agit des deux arbres du Jardin d’Éden.
 

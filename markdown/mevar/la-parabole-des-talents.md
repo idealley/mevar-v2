@@ -20,6 +20,7 @@ bible_refs:
   - "Matthieu 24"
   - "Matthieu 25"
   - "Galates 5:6"
+local_pdf: "/files/onedrive/la-parabole-des-talents.pdf"
 ---
 Alors on remercie le Seigneur pour le rassemblement de ce matin. Je voudrais qu’on s’entretienne sur la parabole des talents. C’est un sujet que j’ai déjà évoqué ici une année, il y a longtemps. Je voudrais revenir là-dessus avec de nouvelles pensées. Amen ! Donc nous allons déjà lire dans Mathieu chapitre 24 le verset 9 :
 

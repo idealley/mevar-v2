@@ -21,6 +21,7 @@ bible_refs:
   - "1 Jean 4:4"
   - "Daniel 5:11"
   - "Jacques 1:17"
+text_pdf: "/files/mevar-text/l-esprit-superieur.pdf"
 ---
 ## Exhortation d'avril 2012
 

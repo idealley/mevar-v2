@@ -47,6 +47,8 @@ bible_refs:
   - "Josué 8:14-17"
   - "Josué 9:3-16"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/planattaque.pdf"
+text_pdf: "/files/mevar-text/plans-d-attaque-i-2009.pdf"
 ---
 Il y a-t-il des gens qui sont venus ici pour la première fois ? Voilà, c’est deux sœurs. Donnez-leur le micro. Madame Koffi, une sœur qui vient de Duékoué. Elle est à Abidjan pour un moment et elle est passée nous saluer. Et l’autre du nom de Nina, invitée par la Sœur Joséphine. Que Dieu vous bénisse, asseyez-vous. Nous vous souhaitons toutes les bénédictions dans le Seigneur, soyez les bienvenues parmi nous. Nous sommes là ce matin pour prier le Seigneur.
 

@@ -74,6 +74,8 @@ bible_refs:
   - "1 Corinthiens 9:25-27"
   - "Apocalypse 18:1-2"
 editorial_pass: "2026-09-29"
+local_pdf: "/files/onedrive/exhobilan2009.pdf"
+text_pdf: "/files/mevar-text/trois-annees-de-combat-et-d-epreuves-2010.pdf"
 ---
 Mes chers frères et sœurs et membres de notre chaîne de prière, je voudrais vous saluer au nom de notre Seigneur et Sauveur Jésus-Christ par cette Parole de Paul aux Hébreux :
 

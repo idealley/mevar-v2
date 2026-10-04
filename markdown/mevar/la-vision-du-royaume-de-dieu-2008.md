@@ -91,6 +91,8 @@ bible_refs:
   - "Matthieu 20"
   - "Apocalypse 18"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/la-vision-du-royaume-de-dieu.pdf"
+text_pdf: "/files/mevar-text/la-vision-du-royaume-de-dieu-2008.pdf"
 ---
 Gloire à Jésus ! Amen ! Nous bénissons le Seigneur pour ce matin. Nous lui sommes reconnaissants parce qu’Il nous a sauvés, car celui qui ne croit pas en Jésus est perdu. Il y en a même plusieurs qui vont à l’église mais qui n’ont pas Jésus… Il est facile d’aller à l’église. Nous avons nos jambes ; donc on se déplace facilement. Mais quand on vient au lieu de prière, il faut avoir Jésus. Si tu n’as pas Jésus, tu es perdu ; et tu vas t’en aller en ton lieu quand le temps sera venu. Soyez bénis ce matin au Nom de Jésus ! Amen ! Je voudrais ce matin aborder un sujet, un sujet très important pour compléter ce que nous savons déjà. Ce sont des choses dont on parle souvent dans les prédications. Mais aujourd’hui, je voudrais revenir là-dessus en détail pour que chacun puisse davantage comprendre la vision dans laquelle nous marchons.
 

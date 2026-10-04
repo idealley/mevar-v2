@@ -64,6 +64,8 @@ bible_refs:
   - "Ésaïe 62:6"
   - "1 Corinthiens 13"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lesac.pdf"
+text_pdf: "/files/mevar-text/le-sac-et-la-cendre-2010.pdf"
 ---
 Que le Seigneur soit béni ! Nous sommes reconnaissants au Seigneur pour ce rassemblement. Nous sommes à notre troisième prédication. Pour ceux qui n’étaient pas là, la première prédication, c’était le samedi soir. Nous avons parlé de l’aveugle Bartimée et nous avons montré que Bartimée avait une situation d’aveuglement qui ressemblait à la situation de Laodicée. **Parce que, le Seigneur, parlant de Laodicée a montré qu’elle était une aveugle. Donc, la cécité spirituelle faisait partie des problèmes de l’église de Laodicée ; et comme c’est une église qui était aveugle, alors, elle était pauvre, elle était misérable et elle avait beaucoup de problèmes**. Elle était séduite parce qu’effectivement quand tu es aveugle, tu ne peux pas travailler. Dans l’ancien temps, c’était difficile de travailler.
 

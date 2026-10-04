@@ -65,6 +65,8 @@ bible_refs:
   - "Philippiens 2:13"
   - "Éphésiens 4:12"
 editorial_pass: "2026-09-28"
+local_pdf: "/files/onedrive/changez-de-souliers-et-de-vetements.pdf"
+text_pdf: "/files/mevar-text/changez-de-souliers-et-de-vetements-2011.pdf"
 ---
 Bien-aimés frères et sœurs en Christ, j’aimerais partager avec vous quelques paroles de Dieu que j’ai reçues le samedi matin du 2 juillet. Je crois que cette méditation s’adresse à tous ceux qui connaissent leur identité en Christ et qui sont familiers avec les temps de la fin et le Ministère de l’Épouse.
 

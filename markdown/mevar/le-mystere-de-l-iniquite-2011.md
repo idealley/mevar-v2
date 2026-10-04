@@ -65,6 +65,8 @@ bible_refs:
   - "1 Timothée 2:9-10"
   - "2 Pierre 2"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/le-mystere-de-l-iniquite.pdf"
+text_pdf: "/files/mevar-text/le-mystere-de-l-iniquite-2011.pdf"
 ---
 Frères et sœurs, que Dieu vous bénisse et que Sa grâce et Sa paix soient avec vous. Nous sommes reconnaissants au Seigneur pour ce moment. Nous allons déjà lire le texte de base de la prédication de ce matin. Je vais parler sur le mystère de l’iniquité. Nous lisons 2 Thessaloniciens 2 :
 

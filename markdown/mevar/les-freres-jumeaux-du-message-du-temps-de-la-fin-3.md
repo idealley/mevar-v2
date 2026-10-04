@@ -33,6 +33,7 @@ bible_refs:
   - "Hébreux 12"
   - "1 Rois 19:15-16"
   - "Matthieu 24:45"
+text_pdf: "/files/mevar-text/les-freres-jumeaux-du-message-du-temps-de-la-fin-3.pdf"
 ---
 ## Troisième partie
 

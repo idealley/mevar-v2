@@ -53,6 +53,8 @@ bible_refs:
   - "Juges 7"
   - "Juges 7:16"
 editorial_pass: "2026-10-01"
+local_pdf: "/files/onedrive/preparation.pdf"
+text_pdf: "/files/mevar-text/la-preparation-en-vue-d-une-oeuvre-2010.pdf"
 ---
 Que Dieu vous bénisse ! Nous lisons dans Juges chapitre 6. **La préparation en vue d’une œuvre**. Le réveil que nous prêchons est un réveil qui est dans la Bible et il y a aussi des exemples que le Seigneur a mentionnés dans la Bible pour nous corriger, nous exhorter, nous encourager, pour nous faire voir son plan. Et j’ai prêché sur ce passage le dimanche passé à Abidjan avant de venir.
 

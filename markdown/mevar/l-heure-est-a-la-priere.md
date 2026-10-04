@@ -16,5 +16,6 @@ authors:
 ghost_id: "6448fa86db90770001518fab"
 uuid: "7a1e5526-6c75-4d73-a13b-95093411398f"
 stream_url: "https://mevar.org/l-heure-est-a-la-priere/"
+text_pdf: "/files/mevar-text/l-heure-est-a-la-priere.pdf"
 ---
 

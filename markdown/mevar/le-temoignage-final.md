@@ -28,6 +28,7 @@ bible_refs:
   - "Luc 1"
   - "1 Rois 17"
   - "Amos 8:11"
+local_pdf: "/files/onedrive/temoignage-final.pdf"
 ---
 Ce matin, je voudrais parler du témoignage final. C’est un thème qui a sa base dans Matthieu 24 le verset 11 (Matthieu 24:11-14) :
 

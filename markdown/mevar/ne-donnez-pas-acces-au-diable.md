@@ -27,6 +27,7 @@ bible_refs:
   - "Proverbes 24"
   - "Hébreux 10"
   - "Matthieu 13"
+text_pdf: "/files/mevar-text/ne-donnez-pas-acces-au-diable.pdf"
 ---
 Nous allons lire Éphésiens chapitre 4 à partir du verset 25. Le frère Branham a comparé le livre d’Éphésiens au livre de Josué, vu l’esprit du combat spirituel qui est présenté dans le chapitre 4 :
 

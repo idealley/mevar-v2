@@ -60,6 +60,8 @@ bible_refs:
   - "Marc 2:21"
   - "1 Samuel 29:1-9"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/exhortation-2011.pdf"
+text_pdf: "/files/mevar-text/la-guerre-des-deux-maisons-saul-contre-david-2011.pdf"
 ---
 Mes bien-aimés frères et sœurs en Christ notre Seigneur, je vous salue dans le nom précieux de notre Seigneur Jésus-Christ par cette adresse faite à l’Église de Pergame.
 

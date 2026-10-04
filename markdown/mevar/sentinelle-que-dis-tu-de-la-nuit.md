@@ -28,6 +28,7 @@ bible_refs:
   - "Daniel 4:30"
   - "Joël 2:26"
   - "Daniel 2:34"
+text_pdf: "/files/mevar-text/sentinelle-que-dis-tu-de-la-nuit.pdf"
 ---
 ## **Exhortation de fin d’année 2023**
 

@@ -17,6 +17,7 @@ authors:
 ghost_id: "6448fa86db90770001518faa"
 uuid: "498c3320-097f-45ae-a05b-3a37d5c9819a"
 stream_url: "https://mevar.org/la-victoire-sur-babylone/"
+text_pdf: "/files/mevar-text/la-victoire-sur-babylone.pdf"
 ---
 * * *
 

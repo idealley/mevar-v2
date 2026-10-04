@@ -37,6 +37,7 @@ bible_refs:
   - "Ésaïe 65:19"
   - "Ésaïe 65:20"
   - "Ésaïe 27:12"
+text_pdf: "/files/mevar-text/la-terre-est-menacee.pdf"
 ---
 Que Dieu soit béni. Nous allons lire dans Ésaïe chapitre 65 à partir du verset 17 :
 

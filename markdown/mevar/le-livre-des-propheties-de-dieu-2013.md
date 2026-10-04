@@ -54,6 +54,8 @@ bible_refs:
   - "Jérémie 7"
   - "Apocalypse 16"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/le-livre-despropheties.pdf"
+text_pdf: "/files/mevar-text/le-livre-des-propheties-de-dieu-2013.pdf"
 ---
 Que Dieu soit béni ! Alléluia ! Nous remercions le Seigneur pour l’occasion que nous avons encore de nous réunir dans Sa présence pour écouter Sa Parole. Amen ! Le plus important comme j’aime le dire c’est la Parole de Dieu. Amen ! Quand on se rassemble, il faut écouter ce que l’Esprit dit au peuple de Dieu. Et il faut veiller à traduire ce qu’on entend en comportement. Amen ! Nous comprenons, frères. **Ce que nous écoutons, que l’Esprit de Dieu nous dit** ; **quand on écoute cela, on doit travailler à le traduire en comportement. Tant que la Parole de Dieu n’est pas devenue ton comportement, il te sera difficile d’entrer au ciel**. Parce que l’objectif que Dieu s’est assigné, en s’adressant à nous, c’est de faire en sorte que la Parole de Dieu devienne un comportement dans notre vie.
 

@@ -28,6 +28,7 @@ bible_refs:
   - "Genèse 17:20"
   - "Jean 3:16"
   - "Deutéronome 29"
+local_pdf: "/files/onedrive/exho-mi-fevrier2013.pdf"
 ---
 ## Exhortation de mi-février 2013
 

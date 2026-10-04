@@ -64,6 +64,8 @@ bible_refs:
   - "2 Rois 9:7-10"
   - "Apocalypse 18:6-7"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/exhospecialjuin2009.pdf"
+text_pdf: "/files/mevar-text/la-desolation-d-elie-2009.pdf"
 ---
 Je vous salue tous, mes bien-aimés frères et sœurs et membres de la chaîne de prière, par l’histoire d’Élie dans le chapitre 18 de 1 Rois. Le Seigneur m’a mis à cœur de méditer cette histoire avec vous pour notre édification commune.
 

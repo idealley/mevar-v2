@@ -47,6 +47,8 @@ bible_refs:
   - "Romains 10"
   - "Jean 2"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/le-vieux-vin-et-le-vin-nouveau-dans-le-message-du-temps-de-la-fin.pdf"
+text_pdf: "/files/mevar-text/le-vieux-vin-et-le-vin-nouveau-dans-le-message-du-temps-de-la-fin-2018.pdf"
 ---
 J’ai voulu dire certaines choses ce matin en rapport avec l’onction que Dieu nous a donnée, donc nous allons lire dans Exode chapitre 29. Nous commençons la lecture là-bas. L’onction pour le service de Dieu. Amen ! Il se peut que je prenne du temps ; je ne sais pas comment Dieu va nous conduire, mais on verra. Exode 29 à partir du premier verset. On lira jusqu’au verset 7. Le texte parle de la consécration d’Aaron et de ses fils.
 

@@ -54,6 +54,8 @@ bible_refs:
   - "Luc 11:34"
   - "Apocalypse 12"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/le-siege-de-adversaire.pdf"
+text_pdf: "/files/mevar-text/le-siege-de-l-adversaire-2008.pdf"
 ---
 Que Dieu vous bénisse ! Je suis très reconnaissant au Seigneur qui m’a fait la grâce d’arriver chez vous ici. Je suis très content de vous retrouver parce que l’assemblée de Lausanne est pour moi une assemblée de soutien. Lorsque le frère Barilier a publié le document que j’ai écrit, il y a eu beaucoup de secousses dans l’Église, et j’ai quand même reçu du soutien spirituel ici. Et cela m’a beaucoup édifié, m’a permis de continuer la marche dans cette vision. Aussi, il y a un frère du Congo Brazzaville, qui a été le premier qui m’a appelé à la prédication dans d’autres pays et j’ai toujours été réconforté lorsque j’ai eu à cœur de venir ici, c’est le Seigneur qui m’a ouvert la porte et qui a permis que j’arrive par ici. Avant de venir à Lausanne, j’ai été dans certains pays africains : au Burkina Faso, plusieurs fois au Bénin, deux fois au Congo Brazzaville et le Seigneur est en train de travailler dans ces endroits-là où je suis passé déjà et aussi dans d’autres pays où les frères sont reliés avec nous dans le travail que nous faisons.
 

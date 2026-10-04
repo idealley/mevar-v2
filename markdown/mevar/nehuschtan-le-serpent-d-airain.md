@@ -23,6 +23,7 @@ bible_refs:
   - "1 Corinthiens 6:9-10"
   - "2 Pierre 1:3-10"
   - "Matthieu 28:20"
+local_pdf: "/files/onedrive/serpent-d-airain-2019.pdf"
 ---
 ## Ou comment un message ou une instruction de Dieu peut devenir une idole.
 

@@ -26,6 +26,7 @@ bible_refs:
   - "2 Samuel 18"
   - "Philippiens 2:3-8"
   - "Philippiens 2:9-12"
+local_pdf: "/files/onedrive/exho-fin-fevrier-2008.pdf"
 ---
 ## Exhortation de mars 2008
 

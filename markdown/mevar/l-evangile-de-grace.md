@@ -30,6 +30,7 @@ bible_refs:
   - "Matthieu 22"
   - "1 Jean 3"
   - "1 Corinthiens 13"
+local_pdf: "/files/onedrive/evangile-de-grace.pdf"
 ---
 Que Dieu vous bénisse ! Ce matin on va parler sur l’Évangile de grâce. J’avais abordé ce sujet quand j’étais allé en Suisse. C’est là-bas que j’ai eu l’inspiration et quand je suis venu, je voulais en parler, mais le temps est passé et c’est aujourd’hui que le Seigneur me donne l’occasion de le faire. Avant cela, je voudrais brièvement rendre compte de notre réunion d’hier. Il y en a qui n’étaient pas là. Il y a des couples qui n’étaient pas là. Vous savez que maintenant, les samedis, les couples de l’église se réunissent ici pour partager ensemble les sujets des prières, des préoccupations communes, donc on était là hier.
 

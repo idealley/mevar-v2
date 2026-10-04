@@ -72,6 +72,7 @@ bible_refs:
   - "Matthieu 4:23"
   - "Luc 4:25-27"
   - "Matthieu 12:42"
+text_pdf: "/files/mevar-text/les-sources-de-la-foi.pdf"
 ---
 Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous. Comme vous le savez, nous sommes engagés avec le Seigneur dans une œuvre de restauration et de restitution des attributs de l’Église de la fin des temps. L’adversaire a dépouillé l’Église de Jésus-Christ de ses biens et l’a plongé dans une grande misère spirituelle (Joël 1) – cependant, Dieu dans Sa grande bonté est venu au secours de l’Église avec le Message de la fin des temps pour susciter un peuple qui accepte de travailler avec le ciel en vue de rendre à l’Église ce qu’elle a perdu. Nous avons cru à cette parole et nous nous sommes engagés. Comme cette femme qui a perdu sa drachme (Luc 15 :8-9), nous cherchons, avec le Seigneur, toutes ces qualités et vertus que nous avons perdues. Nous cherchons nos biens spirituels qui nous manquent encore et qui faisaient la gloire de l’Église au commencement de son existence.
 

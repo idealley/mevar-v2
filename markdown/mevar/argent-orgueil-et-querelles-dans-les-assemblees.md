@@ -73,6 +73,7 @@ bible_refs:
   - "1 Pierre 4:7-10"
   - "Éphésiens 3:20-21"
   - "1 Jean 2:28"
+local_pdf: "/files/onedrive/argent.pdf"
 ---
 ## Exhortation du mois d'octobre 2006
 

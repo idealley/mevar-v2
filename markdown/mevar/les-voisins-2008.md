@@ -55,6 +55,8 @@ bible_refs:
   - "Tite 2:3"
   - "Tite 2"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/lesvoisins.pdf"
+text_pdf: "/files/mevar-text/les-voisins-2008.pdf"
 ---
 Que le Seigneur soit béni ! Nous remercions le Seigneur pour l’occasion qu’Il nous donne encore d’avoir communion avec Lui dans la prière et aussi dans la prédication. Comme je vous ai dit la dernière fois, c’est un travail que nous faisons et c’est un travail à la chaîne. **On doit arriver à prendre conscience et quand on a réussi à prendre conscience, il faut pouvoir prendre des décisions. Parce que la prise de conscience est une chose et la décision est une autre chose**. Quand on parle du réveil, il faut prendre des décisions. Vous lisez l’histoire de l’Église, c’est comme ça. Vous lisez la Bible, c’est comme ça. Regardez un peu dans le livre des Juges. C’est ce qu’on va lire. **Vous allez voir dans le livre des Juges qu’Israël va dans l’égarement et par la suite revient. Après que Dieu ait suscité quelqu’un pour les aider**. **Parce que le livre des Juges est un livre qui traduit ce qu’on appelle le sommeil et l’assoupissement pour le peuple de Dieu**… C’est vraiment le sommeil et l’assoupissement.
 

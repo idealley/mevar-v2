@@ -48,6 +48,8 @@ bible_refs:
   - "Zacharie 12"
   - "Jérémie 7"
 editorial_pass: "2026-09-30"
+local_pdf: "/files/onedrive/les-pleurs-de-delivrance.pdf"
+text_pdf: "/files/mevar-text/les-pleurs-de-la-delivrance-2008.pdf"
 ---
 Que le nom du Seigneur soit béni ! Nous sommes à la deuxième réunion aujourd’hui et je pense que le Seigneur nous permettra de faire un programme parce que je suis arrivé et le frère m’avait dit qu’il n’avait pas envisagé un programme particulier, qu’il fallait qu’on se laisse conduire par le Seigneur. Donc déjà, la première séance m’a permis de voir ce qu’on peut faire pour avancer. Amen !
 

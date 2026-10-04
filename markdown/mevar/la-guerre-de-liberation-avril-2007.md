@@ -23,6 +23,8 @@ bible_refs:
   - "2 Corinthiens 6"
   - "Matthieu 25"
   - "Apocalypse 22:15"
+local_pdf: "/files/onedrive/exhomai2007.pdf"
+text_pdf: "/files/mevar-text/la-guerre-de-liberation-avril-2007.pdf"
 ---
 Que Dieu soit béni ! Nous lisons dans 2 Thessaloniciens 2 à partir du premier verset.
 

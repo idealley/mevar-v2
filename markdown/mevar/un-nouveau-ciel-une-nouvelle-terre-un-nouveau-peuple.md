@@ -44,6 +44,7 @@ bible_refs:
   - "Luc 12:51"
   - "Apocalypse 6:7-8"
   - "Matthieu 24:42-44"
+local_pdf: "/files/onedrive/exho-fev2011.pdf"
 ---
 ## Exhortation de février 2011
 
