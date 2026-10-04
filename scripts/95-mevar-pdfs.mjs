@@ -19,7 +19,7 @@
 // date, so a second run writes nothing. It deletes only a PDF of a text it
 // made, in files/mevar-text/, that no text names any more.
 //
-// Usage: node scripts/90-mevar-pdfs.mjs [--dry]. Needs the OneDrive folder
+// Usage: node scripts/95-mevar-pdfs.mjs [--dry]. Needs the OneDrive folder
 // at onedrive/ (gitignored) for the originals.
 
 import fs from "node:fs";

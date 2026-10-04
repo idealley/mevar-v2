@@ -15,7 +15,7 @@
 // Idempotent: a second run uploads nothing and changes no frontmatter. It
 // deletes nothing, in the bucket or elsewhere.
 //
-// Usage: node scripts/91-r2-pdfs.mjs [--dry]. Needs the `cf` CLI logged in
+// Usage: node scripts/96-r2-pdfs.mjs [--dry]. Needs the `cf` CLI logged in
 // to the account that holds the bucket.
 
 import fs from "node:fs";

@@ -1,5 +1,5 @@
 // A text's frontmatter, as the scripts that write PDF links read and set it
-// (90, 91): the block between the opening « --- » lines, one `key: value`
+// (95, 96): the block between the opening « --- » lines, one `key: value`
 // line per field, the value JSON.
 
 export const frontmatter = (text) => text.match(/^---\n([\s\S]*?)\n---\n/)[1];
