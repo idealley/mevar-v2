@@ -24,12 +24,14 @@ export function excerpt(markdown) {
   return frenchSpacing(text.length <= 200 ? text : `${text.slice(0, text.lastIndexOf(" ", 200))}…`);
 }
 
-/** Published Ghost posts: slug -> { title, summary }. */
+/** Published Ghost posts: slug -> { title, summary }; and the drafts' slugs. */
 const posts = new Map();
+const drafts = new Set();
 for (const f of fs.readdirSync(dir)) {
   const text = fs.readFileSync(path.join(dir, f), "utf8");
   const end = text.indexOf("\n---\n", 4);
   const fm = text.slice(0, end);
+  if (/^type: "post"$/m.test(fm) && /^status: "draft"$/m.test(fm)) drafts.add(f.slice(0, -3));
   if (!/^type: "post"$/m.test(fm) || !/^status: "published"$/m.test(fm)) continue;
   const field = (k) => {
     const m = fm.match(new RegExp(`^${k}: (.*)$`, "m"));
@@ -43,8 +45,14 @@ const el = (tagName, className, children, properties = {}) => ({
 });
 const txt = (value) => ({ type: "text", value });
 
+// A list item that links a draft (« Sur le même sujet ») is left out: a
+// draft is never built (goal 25 hid the posts with neither text nor audio).
+const linksDraft = (li) => li.tagName === "li" && li.children.flatMap((c) => (c.tagName === "p" ? c.children : [c]))
+  .some((c) => c.tagName === "a" && drafts.has(String(c.properties.href).match(/^\/([a-z0-9-]+)\/$/)?.[1]));
+
 export function rehypeBookmarks() {
   return (tree) => {
+    for (const ul of tree.children) if (ul.tagName === "ul") ul.children = ul.children.filter((li) => !linksDraft(li));
     tree.children = tree.children.map((node) => {
       if (node.tagName !== "p") return node;
       const kids = node.children.filter((c) => !(c.type === "text" && !c.value.trim()));
