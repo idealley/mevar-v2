@@ -75,3 +75,14 @@ Before the design work, Samuel asked for the data to be « correct, clean »
 - Nothing is deleted on R2.
 - A recording matched only by guesswork is not published. It goes to
   Samuel.
+
+## Follow-up
+
+- Five recordings match no post: « Être de bons soldats de Christ »
+  (2019-12-26), « L'Épouse comme une ville de lumière » (2020-03-11), « La
+  bonne vision de la sanctification » (2020-04-12), « Le point de la
+  situation », and a WhatsApp recording of 2020-03-31 (23 min) that may be
+  « Le Sermon sur la Montagne (1) ». Samuel decides.
+- `manifests/branham-restore-unaligned.json` (65b) still lists 39 spots
+  that this goal restored. Rerunning 65b could rewrite other citations,
+  so it was not rerun.
