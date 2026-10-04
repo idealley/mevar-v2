@@ -25,17 +25,20 @@ Before the design work, Samuel asked for the data to be « correct, clean »
   which `.gitignore` already excludes): « probably we need to standardize
   the name, but I let you check ».
 - The posts with no text: « Hide them for now » until their audio is back.
+  Then (2026-10-05) he found the four recordings still missing, and: « the
+  recording without page, need to be published ».
 - CMPP's contact details stay as they were published.
 
 ## Work items
 
 1. **`scripts/mevar-media.json`** holds the decisions: which recording in
    `audio/` belongs to which post, and which YouTube video. Recordings are
-   matched by title, part number and date. 64 of the 69 SoundCloud posts
-   have one.
-   Three posts with a full text get the recording of the same sermon
-   (same title and date). A recording that matches no post is left out
-   and listed in the PR.
+   matched by title, part number and date. 68 of the 69 SoundCloud posts
+   have one; « Le Sermon sur la Montagne (5) » has its own text. Three
+   posts with a full text get the recording of the same sermon (same title
+   and date). The four recordings that match no post get a page of their
+   own: a post with the title and date of its recording, Parfait M'bra its
+   preacher, as he is of 65 of the 67 other recordings.
 2. **`scripts/97-mevar-media.mjs`**:
    - converts each recording to a mono 64 kbit/s MP3
      (`audio/mp3/<recording>.mp3`, gitignored). The sources are Ogg Vorbis
@@ -49,8 +52,8 @@ Before the design work, Samuel asked for the data to be « correct, clean »
 3. **The page**: WorkPage plays `local_audio` in the browser's own
    `<audio>` player, which loads nothing until it is played. It links
    `video_url` with a « Vidéo » button.
-4. **Drafts**: a post with no text (under 100 words), no recording and no
-   video gets `status: "draft"` until its audio is found.
+4. **Drafts**: none is left. The four posts with no text, recording or
+   video were drafts until Samuel found their recordings.
 5. **No text PDF for a post without text.** 95 (formerly 90) skips a Ghost
    post of under 100 words and removes its `text_pdf`. The PDF it had
    made is then unnamed, so 95 deletes it as before. Word counts: the
@@ -78,11 +81,6 @@ Before the design work, Samuel asked for the data to be « correct, clean »
 
 ## Follow-up
 
-- Five recordings match no post: « Être de bons soldats de Christ »
-  (2019-12-26), « L'Épouse comme une ville de lumière » (2020-03-11), « La
-  bonne vision de la sanctification » (2020-04-12), « Le point de la
-  situation », and a WhatsApp recording of 2020-03-31 (23 min) that may be
-  « Le Sermon sur la Montagne (1) ». Samuel decides.
 - `manifests/branham-restore-unaligned.json` (65b) still lists 39 spots
   that this goal restored. Rerunning 65b could rewrite other citations,
   so it was not rerun.
