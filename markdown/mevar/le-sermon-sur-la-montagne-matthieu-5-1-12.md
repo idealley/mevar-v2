@@ -5,7 +5,7 @@ title: "Le Sermon sur la Montagne (1)"
 year: 2020
 published_at: "2022-12-29"
 type: "post"
-status: "published"
+status: "draft"
 url: "https://mevar.org/le-sermon-sur-la-montagne-matthieu-5-1-12/"
 feature_image: "https://mevar.org/content/images/2022/12/the-sermon-on-the-mount1.jpg"
 local_image: "images/mevar/le-sermon-sur-la-montagne-matthieu-5-1-12.webp"

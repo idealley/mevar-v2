@@ -5,7 +5,7 @@ title: "La Position de la femme (2)"
 year: 2020
 published_at: "2022-12-29"
 type: "post"
-status: "published"
+status: "draft"
 url: "https://mevar.org/la-position-de-la-femme-deuxieme-partie/"
 tags:
   - "Prédications"
