@@ -5,7 +5,7 @@ title: "La position du mari (2)"
 year: 2020
 published_at: "2022-12-29"
 type: "post"
-status: "draft"
+status: "published"
 url: "https://mevar.org/la-position-du-mari-2/"
 tags:
   - "Prédications"
@@ -18,6 +18,7 @@ authors:
 ghost_id: "6448fa86db90770001518f87"
 uuid: "ba1d4749-0be1-43e5-bb4f-d327d6aeb49b"
 stream_url: "https://mevar.org/la-position-du-mari-2/"
+local_audio: "https://files.mevar.org/audio/la-position-du-mari-2.mp3"
 ---
 ## Deuxième partie
 

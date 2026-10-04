@@ -5,7 +5,7 @@ title: "Le Complot contre l'élévation (9)"
 year: 2020
 published_at: "2022-12-29"
 type: "post"
-status: "draft"
+status: "published"
 url: "https://mevar.org/le-complot-contre-l-elevation-les-complots-de-satan-9/"
 tags:
   - "Prédications"
@@ -18,6 +18,7 @@ authors:
 ghost_id: "6448fa86db90770001518f94"
 uuid: "346de4f7-9e93-44c6-8dbe-ebe738862cbc"
 stream_url: "https://mevar.org/le-complot-contre-l-elevation-les-complots-de-satan-9/"
+local_audio: "https://files.mevar.org/audio/le-complot-contre-l-elevation-les-complots-de-satan-9.mp3"
 ---
 ## Les complots de Satan (9) - Le combat spirituel
 

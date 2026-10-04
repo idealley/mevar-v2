@@ -5,7 +5,7 @@ title: "La Position de la femme (2)"
 year: 2020
 published_at: "2022-12-29"
 type: "post"
-status: "draft"
+status: "published"
 url: "https://mevar.org/la-position-de-la-femme-deuxieme-partie/"
 tags:
   - "Prédications"
@@ -18,6 +18,7 @@ authors:
 ghost_id: "6448fa86db90770001518f84"
 uuid: "d7d2df72-954c-45d7-8726-b90469d54467"
 stream_url: "https://mevar.org/la-position-de-la-femme-deuxieme-partie/"
+local_audio: "https://files.mevar.org/audio/la-position-de-la-femme-deuxieme-partie.mp3"
 ---
 ## Deuxième partie
 
