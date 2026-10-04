@@ -5,8 +5,8 @@
 // embed; the SoundCloud tracks are gone. Samuel found the recordings
 // (audio/, gitignored); scripts/mevar-media.json names the one each post
 // gets, and its YouTube video. For each recording, this script makes a mono
-// 64 kbit/s MP3 named after the post (audio/mp3/<slug>.mp3: Safari does not
-// play the Ogg Vorbis most of them are), uploads it to the R2 bucket as
+// 64 kbit/s MP3 (audio/mp3/<recording>.mp3: Safari does not play the Ogg
+// Vorbis most of them are), uploads it to the R2 bucket as
 // audio/<slug>.mp3 when the bucket does not hold the same bytes, and names
 // it in the post's `local_audio`; each video goes in its `video_url`.
 //
@@ -36,14 +36,18 @@ const queue = Object.entries(media.audio);
 async function worker() {
   for (let r; (r = queue.shift()); ) {
     const [slug, recording] = r;
-    const mp3 = path.join(root, "audio/mp3", `${slug}.mp3`);
+    // the MP3 is named after its recording, so a post given another one gets
+    // a new MP3; a recording that is missing fails the run, even dry
+    const source = path.join(root, "audio", recording);
+    fs.statSync(source);
+    const mp3 = path.join(root, "audio/mp3", `${recording}.mp3`);
     const key = `audio/${slug}.mp3`;
     add(slug, "local_audio", url(key));
     if (!fs.existsSync(mp3)) {
       made++;
       if (dry) { uploaded++; continue; }
       fs.mkdirSync(path.dirname(mp3), { recursive: true });
-      await promisify(execFile)("ffmpeg", ["-v", "error", "-y", "-i", path.join(root, "audio", recording), "-vn", "-ac", "1", "-b:a", "64k",
+      await promisify(execFile)("ffmpeg", ["-v", "error", "-y", "-i", source, "-vn", "-ac", "1", "-b:a", "64k",
         "-map_metadata", "-1", "-fflags", "+bitexact", "-flags:a", "+bitexact", `${mp3}.part.mp3`]);
       fs.renameSync(`${mp3}.part.mp3`, mp3);
     }

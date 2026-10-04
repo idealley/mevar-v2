@@ -217,6 +217,7 @@ async function writeText(t, text) {
 // A post that is a line or two, the caption of its recording or video, has
 // no PDF of its text (goal 25): its words, the related posts and the
 // headings left out. The longest such post has 78 words, the shortest text 295.
+// (The body starts after « ---\n », the frontmatter and « \n---\n »: 9 more.)
 const words = (t) => (t.text.slice(t.fm.length + 9).split(/\n\* \* \*\n+### Sur le même sujet/)[0].replace(/^#+ .*$/gm, "").match(/[\p{L}\d]+/gu) ?? []).length;
 // the OneDrive duplicates of each work
 const duplicates = new Map();

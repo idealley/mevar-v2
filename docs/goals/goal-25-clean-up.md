@@ -37,8 +37,8 @@ Before the design work, Samuel asked for the data to be « correct, clean »
    (same title and date). A recording that matches no post is left out
    and listed in the PR.
 2. **`scripts/97-mevar-media.mjs`**:
-   - converts each recording to a mono 64 kbit/s MP3 named after the post
-     (`audio/mp3/<slug>.mp3`, gitignored). The sources are Ogg Vorbis
+   - converts each recording to a mono 64 kbit/s MP3
+     (`audio/mp3/<recording>.mp3`, gitignored). The sources are Ogg Vorbis
      (55), AAC (14), MP3 (2) and WAV (1), and Safari does not play Vorbis.
    - uploads the MP3 to R2 as `audio/<slug>.mp3`, unless the bucket
      already holds the same bytes;
