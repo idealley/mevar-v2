@@ -35,7 +35,8 @@ for (const f of fs.readdirSync(path.join(root, "manifests"))) {
     if (typeof e.preacher === "string") e.preacher = display(e.preacher);
     for (const a of e.authors ?? []) author(a);
   }
-  const out = JSON.stringify(entries, null, 2);
+  // each manifest keeps its own last line ending (65d ends its with one)
+  const out = JSON.stringify(entries, null, 2) + (text.endsWith("\n") ? "\n" : "");
   if (out !== text) writes.push([p, out]);
 }
 
