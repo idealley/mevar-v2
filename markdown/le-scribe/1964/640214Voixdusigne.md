@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 6:68"
   - "Actes 3:4"
 original: "branham/1964/64-0214"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640214Voixdusigne.pdf"
 ---
 *La Voix du Signe* (14 février 1964, après-midi)
 

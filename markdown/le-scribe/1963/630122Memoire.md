@@ -78,6 +78,7 @@ bible_refs:
   - "Jean 16:14"
   - "Jean 5:19"
 original: "branham/1963/63-0122"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630122Memoire.pdf"
 ---
 *En souvenir du Seigneur*
 *22 Janvier 1963, mardi soir, Phœnix (Arizona)*

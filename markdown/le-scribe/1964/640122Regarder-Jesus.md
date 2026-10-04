@@ -73,6 +73,7 @@ bible_refs:
   - "Marc 9:23"
   - "Marc 16:18"
 original: "branham/1964/64-0122"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640122Regarder-Jesus.pdf"
 ---
 *Regarder à Jésus* (22 janvier 1964, soir)
 

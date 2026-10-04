@@ -45,6 +45,7 @@ bible_refs:
   - "Hébreux 11:6"
   - "Jean 5:19"
 original: "branham/1955/55-1117"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551117Jehovah-Jireh.pdf"
 ---
 *Résumé de : “Jéhovah Jiré” (17 novembre 1955, soir)*
 

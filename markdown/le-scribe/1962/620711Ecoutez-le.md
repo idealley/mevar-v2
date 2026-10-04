@@ -55,6 +55,7 @@ bible_refs:
   - "Hébreux 12:4-8"
   - "Exode 19"
 original: "branham/1962/62-0711"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620711Ecoutez-le.pdf"
 ---
 **1.** S'il ne vient pas aujourd'hui, je l'attendrai demain. Un jour, notre attente s'achèvera. Nous attendons une Cité dont Dieu est l'architecte et le constructeur [Héb. 11:10]. Nous sommes des pèlerins, et nous avons abandonné ce que cherchent les incroyants : l'argent, la popularité, les droits de ce monde. Je crois que Dieu jugera le monde par la Bible. Je suis d'une famille catholique. Je savais que Dieu existait et j'ai été appelé dès mon enfance. Il m'a parlé et demandé de ne pas boire, ni fumer, ni souiller mon corps en aucune manière. Vers 18 ou 20 ans, je suis allé à l'église où on m'a dit que Dieu jugerait le monde par l'église, mais il existe environ 900 dénominations ! Si Dieu jugeait par l'une d'elles, les autres seraient rejetées. Dieu jugera par la Parole, et c'est ce qu'il a donné à l'homme dès le commencement pour le protéger du péché. Tout ce qui raisonne contre la Parole est l'ennemi.
 

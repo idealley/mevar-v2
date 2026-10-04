@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 1:50"
   - "Psaumes 103:3"
 original: "branham/1958/58-0126"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580126Ecoutez-le.pdf"
 ---
 *26 janvier 1958, dimanche soir, Waterloo (Iowa)*
 

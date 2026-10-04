@@ -53,6 +53,7 @@ bible_refs:
   - "1 Corinthiens 15:55,57"
   - "Ésaïe 53:5"
 original: "branham/1959/59-1121"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591121Ta-semence.pdf"
 ---
 “Ta postérité possédera la porte de ses ennemis” (21 novembre 1959)
 

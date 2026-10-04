@@ -62,6 +62,7 @@ bible_refs:
   - "Luc 17:28"
   - "Jacques 4:2"
 original: "branham/1963/63-1130E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631130Appeler-Jesus.pdf"
 ---
 **Résumé de!: “Aller réveiller Jésus” (30 novembre 1963 soir)**
 

@@ -71,6 +71,7 @@ bible_refs:
   - "2 Pierre 2:8"
   - "Genèse 18:13"
 original: "branham/1964/64-0318"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640318Voir-Jesus.pdf"
 ---
 **Résumé de!: “Messieurs, nous voudrions voir Jésus” (4 mars1964, soir)**
 

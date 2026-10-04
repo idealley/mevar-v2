@@ -46,6 +46,7 @@ bible_refs:
   - "2 Rois 2:12"
   - "Marc 11:24"
 original: "branham/1956/56-1125M"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561125Tunique.pdf"
 ---
 **UNE TUNIQUE DE SECONDE MAIN**
 

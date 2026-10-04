@@ -49,6 +49,7 @@ bible_refs:
   - "Apocalypse 17"
   - "Genèse 6:4"
   - "Hébreux 4"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie3no6.pdf"
 ---
 SERIE 3 N° 6
 

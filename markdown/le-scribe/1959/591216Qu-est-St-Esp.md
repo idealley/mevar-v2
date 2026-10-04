@@ -77,6 +77,7 @@ bible_refs:
   - "Actes 19"
   - "1 Corinthiens 12:12-13"
 original: "branham/1959/59-1216"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591216Qu-est-St-Esp.pdf"
 ---
 **Résumé de!: “Qu'est-ce que le Saint-Esprit ?” (16 décembre 1959, soir)**
 

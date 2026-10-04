@@ -57,6 +57,7 @@ bible_refs:
   - "Actes 2:38-39"
   - "Ésaïe 53:5"
 original: "branham/1956/56-0731"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560731FilleJairus.pdf"
 ---
 **1.** Je prierai pour les malades selon le don que le Seigneur m'a fait, et la prédication sera aussi courte que possible. Je veux garder le plus d'énergie possible car l'onction du Saint-Esprit m'épuise. Nous sommes indignes de toutes ces grâces. L'aimez-vous ? J'étais fatigué hier soir en arrivant, à cause de cette chaleur. Vous y êtes habitués, alors que dans le nord nous aimons le froid : j'ai prêché devant des Indiens attentifs, enveloppés d'une simple couverture dans l'air glacial. Mais les gens du Sud sont les plus aimables qui soient.
 

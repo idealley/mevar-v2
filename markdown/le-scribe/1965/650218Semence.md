@@ -66,6 +66,7 @@ bible_refs:
   - "Apocalypse 10:7"
   - "2 Timothée 3:5"
 original: "branham/1965/65-0218"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650218Semence.pdf"
 ---
 **Résumé de : "La semence n'hérite pas avec la balle" (18 février 1965, soir)**
 

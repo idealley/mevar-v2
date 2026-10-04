@@ -65,6 +65,7 @@ bible_refs:
   - "Marc 16:17"
   - "Matthieu 24:24"
 original: "branham/1964/64-0125"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640125Faites-la-lumiere.pdf"
 ---
 **Résumé de!: “Faites la lumière” (25 janvier 1964, matin)**
 

@@ -46,6 +46,7 @@ bible_refs:
   - "Apocalypse 2:17"
   - "Nombres 17:8"
 original: "branham/1955/55-1006A"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551006Vie-cachee.pdf"
 ---
 **1.** [Prière]. Nous remercions Dieu pour notre Président [NDT : Eisenhower] dont on dit qu'il est chrétien. Il a conduit les discussions de paix avec la Russie, et il vient d'avoir une crise cardiaque. Je me sens comme un enfant devant certains pasteurs ici présents. Je remercie la Philadelphian Church et le frère Joseph. La moralité d'un pays est sa colonne vertébrale.
 

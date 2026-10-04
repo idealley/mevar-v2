@@ -69,6 +69,7 @@ bible_refs:
   - "Ésaïe 19:23-25"
   - "Ésaïe 17:1-3"
   - "Zacharie 14:9"
+local_pdf: "https://files.mevar.org/cmpp/undated/l_indicateur.pdf"
 ---
 # L'indicateur
 

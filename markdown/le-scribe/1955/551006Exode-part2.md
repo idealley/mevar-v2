@@ -44,6 +44,7 @@ bible_refs:
   - "Matthieu 16:16"
   - "Genèse 15:13-14"
 original: "branham/1955/55-1006E"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551006Exode-part2.pdf"
 ---
 Résumé de : “Le Livre de l'Exode – Seconde partie” (6 octobre 1955, soir)
 

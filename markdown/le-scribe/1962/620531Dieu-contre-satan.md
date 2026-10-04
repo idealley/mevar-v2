@@ -54,6 +54,7 @@ bible_refs:
   - "Proverbes 18:10"
   - "Jean 6:63"
 original: "branham/1962/62-0531"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620531Dieu-contre-satan.pdf"
 ---
 *Résumé de!: “La guerre entre Dieu et Satan” (31 mai 1962, soir)*
 

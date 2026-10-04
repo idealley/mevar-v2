@@ -420,6 +420,7 @@ bible_refs:
   - "Actes 20:26-27"
   - "Galates 1:10"
   - "1 Pierre 1:24-25"
+local_pdf: "https://files.mevar.org/cmpp/undated/commencement.pdf"
 ---
 AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION
 

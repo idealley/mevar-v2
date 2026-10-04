@@ -57,6 +57,7 @@ bible_refs:
   - "1 Samuel 9"
   - "Nombres 12"
   - "Nombres 12:14"
+local_pdf: "https://files.mevar.org/le-scribe/undated/6405LeeVayle.pdf"
 ---
 **1.** Il faut faire comprendre aux lecteurs en quelle heure nous vivons. S’ils ne voient que le passé, il n’y a plus d’espoir. Ils doivent voir le temps présent. Dieu a envoyé un prophète dans le temps présent.
 

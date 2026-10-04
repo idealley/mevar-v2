@@ -54,6 +54,7 @@ bible_refs:
   - "Actes 19:12"
   - "2 Rois 4:29"
 original: "branham/1958/58-0316E"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580316Porte-coeur.pdf"
 ---
 **1.** Ces réunions ont été parmi les plus spirituelles que nous ayons eues. Je remercie les pasteurs pour leur coopération. Le journal a facturé moitié-prix pour notre annonce, et je les remercie, car souvent les journaux ne disent rien, sinon pour critiquer. Le restaurateur m'a traité comme son fils. Une offrande d'amour a été prélevée, mais, en 27 ans, je n'ai jamais demandé d'argent. Un jour, alors que j'étais à l'église Baptiste de Jeffersonville, je suis passé par une époque difficile pour nous, où je travaillais six jours par semaine pour 37 cents de l'heure, et nous louions un deux-pièces pour six dollars par mois. Nous devions 90 dollars pour les meubles.
 

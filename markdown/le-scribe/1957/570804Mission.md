@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 3:18"
   - "Psaumes 98:4"
 original: "branham/1957/57-0804A"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570804Mission.pdf"
 ---
 Résumé de : “Le grand ordre de mission” (4.08.1957)
 

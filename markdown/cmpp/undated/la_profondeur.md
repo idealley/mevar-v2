@@ -37,6 +37,7 @@ themes:
   - "délivrance des démons"
 pdf_url: "http://cmpp.ch/la_profondeur.pdf"
 llm_cleaned: true
+local_pdf: "https://files.mevar.org/cmpp/undated/la_profondeur.pdf"
 ---
 LA PAROLE PARLEE
 

@@ -45,6 +45,7 @@ bible_refs:
   - "Romains 6:1-5"
   - "Actes 2:37-39"
 original: "branham/1959/59-1220E"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591220Identifie.pdf"
 ---
 **Résumé de : « Identifié à Christ » (20 décembre 1959)**
 

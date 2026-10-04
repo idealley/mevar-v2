@@ -50,6 +50,7 @@ bible_refs:
   - "Marc 16:17"
   - "Matthieu 5:5"
 original: "branham/1958/58-1012"
+local_pdf: "https://files.mevar.org/le-scribe/1958/581012Enlevement-secret.pdf"
 ---
 **Résumé de : “L’enlèvement secret de l’Eglise” (12 octobre 1958, matin)**
 

@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 13:3"
   - "Actes 9:5"
 original: "branham/1958/58-1003"
+local_pdf: "https://files.mevar.org/le-scribe/1958/581003Regarder.pdf"
 ---
 **REGARDER A L'INVISIBLE**
 

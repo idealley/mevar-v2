@@ -44,6 +44,7 @@ bible_refs:
   - "Luc 21:28"
   - "2 Timothée 3:8"
 original: "branham/1956/56-0115"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560115Jonction.pdf"
 ---
 **LE CARREFOUR DU TEMPS**
 

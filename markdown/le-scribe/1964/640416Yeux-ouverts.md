@@ -71,6 +71,7 @@ bible_refs:
   - "2 Pierre 3:9"
   - "Marc 16:18"
 original: "branham/1964/64-0416"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640416Yeux-ouverts.pdf"
 ---
 **Résumé de!:** “Quand leurs yeux furent ouverts ils le reconnurent” (16 avril 1964, soir)
 

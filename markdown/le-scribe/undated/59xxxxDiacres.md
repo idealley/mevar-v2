@@ -41,6 +41,7 @@ pdf_url: "http://le-scribe.org/pdfiles/59xxxxDiacres.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Timothée 3:8-13"
+local_pdf: "https://files.mevar.org/le-scribe/undated/59xxxxDiacres.pdf"
 ---
 Résumé de!:  “Ordination de diacres” (?!?!?!?!?!?)
 ___________________________________________

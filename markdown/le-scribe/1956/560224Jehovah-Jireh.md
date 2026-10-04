@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 6:54"
   - "Luc 9:24"
 original: "branham/1956/56-0224"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560224Jehovah-Jireh.pdf"
 ---
 *Résumé de : "Jéhovah Jireh" (24 février soir 1956)*
 

@@ -60,6 +60,7 @@ bible_refs:
   - "Daniel 8:27"
   - "Nombres 20:7-12"
 original: "branham/1957/57-0805"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570805Dieu-don.pdf"
 ---
 **1.** [Prière]. Lisons Matthieu 12:42
       “La reine du Midi se lèvera, au jour du jugement, avec cette génération et la condamnera, parce qu'elle vint des extrémités de la terre pour entendre la sagesse de Salomon, et voici, il y a ici plus que Salomon.”

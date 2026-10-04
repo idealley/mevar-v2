@@ -90,6 +90,7 @@ bible_refs:
   - "Matthieu 7:13"
   - "Jean 6:37,40"
 original: "branham/1963/63-0630M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630630aTroisieme-exode.pdf"
 ---
 **Résumé de!: “Le troisième exode” (30 juin1963 matin)**
 

@@ -56,6 +56,7 @@ bible_refs:
   - "Actes 2:38-39"
   - "Jean 15:5"
 original: "branham/1963/63-0626"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630626Pourquoi.pdf"
 ---
 **Résumé de!: “Pourquoi ?” (26 Juin 1963, soir)**
 

@@ -65,6 +65,7 @@ bible_refs:
   - "Apocalypse 10:7"
   - "Jude 1:3"
   - "Amos 3:7"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie2no10.pdf"
 ---
 SERIE 2 N° 10
 

@@ -50,6 +50,7 @@ bible_refs:
   - "Jean 4:46-54"
   - "Actes 19:12"
 original: "branham/1947/47-1221"
+local_pdf: "https://files.mevar.org/le-scribe/1947/471214bExperiences.pdf"
 ---
 *Expériences - 2*
 *14 décembre 1947, dimanche après-midi, Phœnix (Arizona)*

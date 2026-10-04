@@ -67,6 +67,7 @@ bible_refs:
   - "Hébreux 10:1-2"
   - "Actes 2:39"
 original: "branham/1963/63-1028"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631028Pardonne.pdf"
 ---
 **Résumé de!: “Etre pardonné” (28 Octobre 1963)**
 

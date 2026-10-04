@@ -56,6 +56,7 @@ bible_refs:
   - "Marc 5:30"
   - "Jean 14:12"
 original: "branham/1951/51-0508"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510508Trouverai-je-foi.pdf"
 ---
 **TROUVERAI-JE LA FOI QUAND JE REVIENDRAI ?**
 *WILL I FIND FAITH WHEN I RETURN ?*

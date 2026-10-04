@@ -48,6 +48,7 @@ bible_refs:
   - "1 Rois 13:1"
   - "2 Rois 23:17"
   - "Matthieu 25"
+local_pdf: "https://files.mevar.org/le-scribe/undated/wmbchpreface.pdf"
 ---
 ## Préface
 

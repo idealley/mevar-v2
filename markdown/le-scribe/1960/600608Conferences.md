@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 5:24"
   - "Psaumes 116:15"
 original: "branham/1960/60-0608"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600608Conferences.pdf"
 ---
 **Résumé de “Tenir des conférences” (le 8 juin 1960)**
 

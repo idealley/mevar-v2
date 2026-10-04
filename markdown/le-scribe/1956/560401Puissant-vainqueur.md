@@ -66,6 +66,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 14:10"
 original: "branham/1956/56-0401M"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560401Puissant-vainqueur.pdf"
 ---
 Résumé de : “Le puissant vainqueur” (1er avril 1956)
 

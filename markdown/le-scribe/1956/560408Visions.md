@@ -43,6 +43,7 @@ bible_refs:
   - "Matthieu 6:5,6"
   - "1 Corinthiens 12:13"
 original: "branham/1956/56-0408A"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560408Visions.pdf"
 ---
 *Résumé de : “Qu’est-ce qu’une vision ?” (8 avril 1956)*
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Luc 12"
   - "2 Corinthiens 5:19"
 original: "branham/1962/62-0128M"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620128Incredulite.pdf"
 ---
 **Résumé de!: “L'incrédulité n'arrête pas Dieu” [28 janvier 1962]**
 

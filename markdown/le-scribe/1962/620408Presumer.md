@@ -61,6 +61,7 @@ bible_refs:
   - "Matthieu 18:6"
   - "Malachie 4"
 original: "branham/1962/62-0408"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620408Presumer.pdf"
 ---
 **Résumé de!: “Présumer” (8 avril 1962, matin)**
 

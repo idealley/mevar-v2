@@ -56,6 +56,7 @@ bible_refs:
   - "Romains 8:39"
   - "Philippiens 3:14"
 original: "branham/1963/63-1130B"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631130aInfluence.pdf"
 ---
 **INFLUENCE**
 

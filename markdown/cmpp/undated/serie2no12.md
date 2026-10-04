@@ -60,6 +60,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Galates 6:7"
   - "Actes 10:47"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie2no12.pdf"
 ---
 SERIE 2 N° 12
 

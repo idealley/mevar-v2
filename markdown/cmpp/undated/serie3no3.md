@@ -65,6 +65,7 @@ bible_refs:
   - "Jean 6"
   - "Exode 26"
   - "Exode 27"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie3no3.pdf"
 ---
 SERIE 3 N° 3
 

@@ -46,6 +46,7 @@ bible_refs:
   - "Psaumes 66:18"
   - "Jacques 4:8"
 original: "branham/1960/60-0330"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600330Bartimee.pdf"
 ---
 “L’aveugle Bartimée” (le 30 mars 1960)
 

@@ -49,6 +49,7 @@ bible_refs:
   - "Apocalypse 6:1"
   - "Jean 12:23"
   - "Psaumes 1"
+local_pdf: "https://files.mevar.org/le-scribe/undated/wmbch20.pdf"
 ---
 ## Chapitre vingt
 

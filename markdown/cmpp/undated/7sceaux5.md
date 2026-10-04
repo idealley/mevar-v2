@@ -71,6 +71,7 @@ bible_refs:
   - "Matthieu 25:4"
   - "Ésaïe 28:11"
   - "Actes 2:16"
+local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux5.pdf"
 ---
 BROCHURE N° 5
 

@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 25"
   - "Actes 1:4-11"
   - "Luc 24:48,49"
+local_pdf: "https://files.mevar.org/cmpp/1972/lc_mars_1972_A5.pdf"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

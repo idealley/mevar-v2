@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 6:37"
   - "Matthieu 5:6"
 original: "branham/1959/59-0810"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590810Reaction.pdf"
 ---
 **1.** …Nous prierons pour les malades demain soir et les jours suivants. J’ai ressenti que c’était en accord avec la volonté de Dieu. Les cartes de prière seront distribuées demain à 6 heures ½. Ce serait bien qu’il y ait des réunions de prière toute la journée, car on ne peut rien obtenir de Dieu sans s’approcher de lui.
 

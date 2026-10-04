@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 10:4-5"
   - "1 Corinthiens 11:23-33"
 original: "branham/1962/62-0204"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620204Communion.pdf"
 ---
 **Résumé de!: “Communion” [4 février 1962, soir]**
 

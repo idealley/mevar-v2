@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 4:1-26"
   - "Matthieu 14:22-33"
 original: "branham/1964/64-0417"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640417Jesusvint.pdf"
 ---
 Résumé de : “Alors Jésus vint et appela” (17 avril 1964, soir)
 

@@ -119,6 +119,7 @@ bible_refs:
   - "Matthieu 11:10"
   - "Malachie 4"
 original: "branham/1963/63-0728"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630728Christ-revel.pdf"
 ---
 **1.** [Prière]. Nous sommes réunis pour savoir comment vivre aujourd'hui, et en quel jour nous vivons. J'ai obéi à la vision où il m'a demandé d'emmagasiner de la nourriture [NDT : allusion à une vision de mars 1962].
 

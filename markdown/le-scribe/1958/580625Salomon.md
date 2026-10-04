@@ -55,6 +55,7 @@ bible_refs:
   - "1 Corinthiens 14:29"
   - "Jean 5:19"
 original: "branham/1958/58-0625"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580625Salomon.pdf"
 ---
 **IL Y A ICI PLUS QUE SALOMON**
 

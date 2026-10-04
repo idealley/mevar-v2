@@ -72,6 +72,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Matthieu 17:11"
 original: "branham/1962/62-0728"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620728Voie-pourvue.pdf"
 ---
 *Dieu a pourvu un Chemin* (28 juillet 1962, soir)
 

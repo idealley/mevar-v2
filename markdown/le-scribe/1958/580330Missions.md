@@ -53,6 +53,7 @@ bible_refs:
   - "Marc 16"
   - "Actes 19:2"
 original: "branham/1958/58-0330A"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580330Missions.pdf"
 ---
 *Propos sur les missions* (30 mars 1958, après-midi)
 

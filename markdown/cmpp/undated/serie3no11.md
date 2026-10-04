@@ -45,6 +45,7 @@ bible_refs:
   - "Marc 11:24"
   - "Jean 14:12"
   - "Hébreux 13:8"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie3no11.pdf"
 ---
 SERIE 3 N° 11
 

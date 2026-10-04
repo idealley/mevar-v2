@@ -77,6 +77,7 @@ bible_refs:
   - "Ésaïe 6:6"
   - "Jacques 5:14"
 original: "branham/1960/60-1113"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601113Condamnation.pdf"
 ---
 **1.** [Salutations. Instruction pour que tous les participants soient bien assis] …
 

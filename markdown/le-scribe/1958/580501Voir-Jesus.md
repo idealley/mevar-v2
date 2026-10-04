@@ -53,6 +53,7 @@ bible_refs:
   - "Actes 22:6"
   - "Jean 20:21"
 original: "branham/1958/58-0501"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580501Voir-Jesus.pdf"
 ---
 *1er mai 1958, jeudi soir, New York (New York)*
 

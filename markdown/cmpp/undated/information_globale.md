@@ -161,6 +161,7 @@ bible_refs:
   - "2 Corinthiens 6:14-18"
   - "Apocalypse 18:4"
   - "Hébreux 3:15"
+local_pdf: "https://files.mevar.org/cmpp/undated/information_globale.pdf"
 ---
 INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT
 

@@ -69,6 +69,7 @@ bible_refs:
   - "Deutéronome 18:15,19"
   - "Jean 14:12"
 original: "branham/1959/59-0418"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590418Decision.pdf"
 ---
 **1.** [Prière] …
 

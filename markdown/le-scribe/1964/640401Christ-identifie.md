@@ -61,6 +61,7 @@ bible_refs:
   - "Marc 5:25-34"
   - "Hébreux 4:15"
 original: "branham/1964/64-0401"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640401Christ-identifie.pdf"
 ---
 *Résumé de : “Le Christ de tous les âges identifié” (1er avril 1964, soir)*
 

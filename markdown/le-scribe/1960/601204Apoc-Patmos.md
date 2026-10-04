@@ -91,6 +91,7 @@ bible_refs:
   - "Malachie 4:1-2"
   - "Marc 11:24"
 original: "branham/1960/60-1204E"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601204Apoc-Patmos.pdf"
 ---
 **Résumé de!: “La vision de Patmos” (4 décembre 1960, après-midi)**
 

@@ -50,6 +50,7 @@ bible_refs:
   - "Jean 5:19"
   - "Hébreux 4:15"
 original: "branham/1958/58-0503"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580503Reine-Saba.pdf"
 ---
 *La reine de Saba* (3 mai 1958, soir)
 

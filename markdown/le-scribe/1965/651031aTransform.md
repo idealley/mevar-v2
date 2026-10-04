@@ -68,6 +68,7 @@ bible_refs:
   - "Jean 11:25-26"
   - "Jean 5:25"
 original: "branham/1965/65-1031M"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651031aTransform.pdf"
 ---
 **Résumé de : “La puissance de transformation” (31 octobre 1965, matin)**
 

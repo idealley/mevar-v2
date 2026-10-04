@@ -64,6 +64,7 @@ bible_refs:
   - "Matthieu 24:35"
   - "Matthieu 25:40"
 original: "branham/1965/65-0418E"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650418bDieu-change.pdf"
 ---
 *Arrive-t-il à Dieu de changer sa pensée au sujet de sa Parole?* (18 avril 1965, soir)
 

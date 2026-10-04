@@ -58,6 +58,7 @@ bible_refs:
   - "Jean 14:10"
   - "Actes 5:15"
 original: "branham/1947/47-0412"
+local_pdf: "https://files.mevar.org/le-scribe/1947/470412Foi-substance.pdf"
 ---
 **1.** C’est mon troisième déplacement en quatre jours, et je serai encore ailleurs demain. C’est ainsi depuis six mois. Cela me navre de devoir partir alors que les gens commencent tout juste à voir Dieu agir surnaturellement ! J’aimerais rester un mois en un même endroit pour un réveil, pour avoir le temps de réunir des témoignages. Je vais me reposer un mois dans les Rocheuses en mai, seul avec Dieu, avant de revenir et de repartir au Canada.
 

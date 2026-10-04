@@ -61,6 +61,7 @@ bible_refs:
   - "Actes 7:51"
   - "Actes 5:15"
 original: "branham/1950/50-0819"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500819Montre-nous.pdf"
 ---
 **MONTRE-NOUS LE PÈRE**
 *SHOW US THE FATHER*

@@ -60,6 +60,7 @@ bible_refs:
   - "Éphésiens 4:11"
   - "1 Corinthiens 12:7"
 original: "branham/1958/58-0928M"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580928Nom-de-Jesus.pdf"
 ---
 **1.** N'oubliez pas que ce n'est pas votre frère qui a mal agi, mais le diable. C'est donc le diable qu'il faut accuser, et non pas le frère. [Prière]. Comme hier, cette réunion est consacrée à l'étude de ce que cette assemblée croit.
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 14:25-33"
   - "Matthieu 12:44"
 original: "branham/1948/48-0305"
+local_pdf: "https://files.mevar.org/le-scribe/1948/480305A-ta-parole.pdf"
 ---
 **1.** [Prière]. Jésus accomplissait les Ecritures en guérissant les malades, et il a reproché aux religieux de ne pas reconnaître en quelle heure ils vivaient, et de ne pas voir le témoignage de Dieu en faveur de son Fils, Christ-Jésus. Quand il est venu, les gens recherchaient Jéhovah tel qu'il était au désert du temps de Moïse, sous la forme de l'Esprit. Or Dieu était en Christ, réconciliant le monde avec lui-même (2 Corinthiens 5:19). "Je suis dans le Père, et le Père est en moi" [Jean 14:10].
 

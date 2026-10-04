@@ -58,6 +58,7 @@ bible_refs:
   - "Matthieu 5:3"
   - "1 Corinthiens 2:4"
 original: "branham/1962/62-1124B"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621124Investissements.pdf"
 ---
 **Résumé de!: “Investissements” (24 novembre 1962, matin)**
 

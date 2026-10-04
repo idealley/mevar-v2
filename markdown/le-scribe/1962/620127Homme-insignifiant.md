@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 14:12"
   - "Luc 7:39"
 original: "branham/1962/62-0127"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620127Homme-insignifiant.pdf"
 ---
 **L'HOMME LE PLUS INSIGNIFIANT QUE JE CONNAISSE**
 

@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 14:10"
 original: "branham/1955/55-0611"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550611Dans-ta-main.pdf"
 ---
 Résumé de : “Qu’y a-t-il dans ta main ?” (11 juin 1955, soir)
 

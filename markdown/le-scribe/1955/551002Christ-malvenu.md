@@ -33,6 +33,7 @@ llm_cleaned: true
 bible_refs:
   - "Luc 7:36"
 original: "branham/1955/55-1002"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551002Christ-malvenu.pdf"
 ---
 **Résumé de : “Christ, le mal accueilli” (2 octobre 1955, soir)**
 

@@ -40,6 +40,7 @@ bible_refs:
   - "1 Corinthiens 13:3"
   - "Jacques 5:13-15"
 original: "branham/1963/63-0714E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630714Humilie-toi.pdf"
 ---
 *Humilie-toi*
 

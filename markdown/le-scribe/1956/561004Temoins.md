@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 2:19"
   - "Jean 5:19"
 original: "branham/1956/56-0930E"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561004Temoins.pdf"
 ---
 **Résumé de : "Témoins" (4 octobre 1956)**
 

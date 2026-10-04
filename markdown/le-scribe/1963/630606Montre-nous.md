@@ -53,6 +53,7 @@ bible_refs:
   - "2 Rois 4:8-37"
   - "Actes 19:12"
 original: "branham/1963/63-0606"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630606Montre-nous.pdf"
 ---
 **Résumé de!: “Montre-nous le Père” (6 Juin 1963, soir)**
 

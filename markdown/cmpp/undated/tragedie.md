@@ -355,6 +355,7 @@ bible_refs:
   - "Apocalypse 12:11"
   - "Apocalypse 19:7-9"
   - "Apocalypse 22:10,12,20-21"
+local_pdf: "https://files.mevar.org/cmpp/undated/tragedie.pdf"
 ---
 LA GRANDE TRAGEDIE ET LE PLAN DU SALUT DE DIEU A LA LUMIERE DU MESSAGE DU TEMPS DE LA FIN
 

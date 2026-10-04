@@ -81,6 +81,7 @@ bible_refs:
   - "Matthieu 5:34,37"
   - "Romains 8:31"
 original: "branham/1957/57-0925"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570925Hebreux-Q%26R-1.pdf"
 ---
 **Résumé de!: "Hébreux, questions et réponses, première partie" (25 septembre 1957, soir)**
 

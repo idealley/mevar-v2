@@ -46,6 +46,7 @@ bible_refs:
   - "Ésaïe 53:5"
   - "Jean 5:19"
 original: "branham/1949/49-0718"
+local_pdf: "https://files.mevar.org/le-scribe/1949/490718Desobeissant.pdf"
 ---
 **1.** [Prière]. Je remercie Dieu qui vient juste de guérir une jeune fille qui souffrait terriblement, et qui demandait seulement un contact de ma main. Elle a été guérie instantanément. Lisons Matthieu 4:23-24
 > “Jésus parcourait toute la Galilée, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple. – Sa renommée se répandit dans toute la Syrie, et on lui amenait tous ceux qui souffraient de maladies et de douleurs de divers genres, des démoniaques, des lunatiques, des paralytiques ; et il les guérissait”.

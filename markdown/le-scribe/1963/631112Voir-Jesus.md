@@ -74,6 +74,7 @@ bible_refs:
   - "Genèse 19:11"
   - "Jean 8:44"
 original: "branham/1963/63-1112"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631112Voir-Jesus.pdf"
 ---
 **Résumé de!: “Nous voudrions voir Jésus” (12 novembre 1963, soir)**
 

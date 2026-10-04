@@ -46,6 +46,7 @@ bible_refs:
   - "Jean 8:57-58"
   - "Jean 5:19"
 original: "branham/1956/56-0429"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560429Jehova-Jire.pdf"
 ---
 **JEHOVAH JIREH**
 

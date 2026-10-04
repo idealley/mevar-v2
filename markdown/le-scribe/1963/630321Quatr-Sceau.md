@@ -108,6 +108,7 @@ bible_refs:
   - "Exode 21:6"
   - "Romains 10:17"
 original: "branham/1963/63-0321"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630321Quatr-Sceau.pdf"
 ---
 **Résumé de!: “Le quatrième Sceau” (21 mars 1963 soir)**
 

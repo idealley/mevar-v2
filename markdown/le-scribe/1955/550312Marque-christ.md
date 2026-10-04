@@ -55,6 +55,7 @@ bible_refs:
   - "Apocalypse 7"
   - "Apocalypse 7:9-12"
 original: "branham/1955/55-0312"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550312Marque-christ.pdf"
 ---
 Résumé de : “La marque de christ” (12 mars 1955, soir)
 

@@ -50,6 +50,7 @@ bible_refs:
   - "Jean 14:13"
   - "Jean 14:10"
 original: "branham/1955/55-1003"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551003Foi-en-action.pdf"
 ---
 **LA FOI EN ACTION**
 

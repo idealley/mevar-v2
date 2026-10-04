@@ -115,6 +115,7 @@ bible_refs:
   - "Marc 9:23"
   - "Marc 5:30"
 original: "branham/1962/62-0422"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620422Restitution.pdf"
 ---
 **RESTITUTION DE L'ARBRE DE L'EPOUSE**
 

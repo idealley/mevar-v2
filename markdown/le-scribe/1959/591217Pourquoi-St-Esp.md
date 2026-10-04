@@ -81,6 +81,7 @@ bible_refs:
   - "Matthieu 11:28"
   - "Actes 3:6"
 original: "branham/1959/59-1217"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591217Pourquoi-St-Esp.pdf"
 ---
 *Résumé de!: “Dans quel but le Saint-Esprit a-t-il été donné” (17 décembre 1959, soir)*
 

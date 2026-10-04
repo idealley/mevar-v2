@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 10:10"
   - "Jean 14:12"
 original: "branham/1950/50-0822"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500822Foi-sans-oeuvre.pdf"
 ---
 **LA FOI SANS LES ŒUVRES EST MORTE**
 *FAITH WITHOUT WORKS IS DEAD*

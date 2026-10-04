@@ -61,6 +61,7 @@ bible_refs:
   - "Luc 24:49"
   - "Hébreux 13:8"
 original: "branham/1962/62-1013"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621013Influence.pdf"
 ---
 **Résumé de!: “L’influence d’un autre” (13 Octobre1962, soir)**
 

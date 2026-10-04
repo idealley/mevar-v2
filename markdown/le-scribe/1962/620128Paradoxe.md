@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 14:12"
   - "Matthieu 25:40"
 original: "branham/1962/62-0128A"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620128Paradoxe.pdf"
 ---
 *Paradoxe*
 *28 janvier 1962, dimanche après-midi, Phœnix (Arizona)*

@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 5:19"
   - "Marc 5:30"
 original: "branham/1962/62-0129"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620129Ministere-explique.pdf"
 ---
 **SIGNIFICATION DE CE MINISTERE**
 *EXPLAINING THE MINISTRY*

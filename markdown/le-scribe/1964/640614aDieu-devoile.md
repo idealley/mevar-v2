@@ -101,6 +101,7 @@ bible_refs:
   - "Jean 10:37"
   - "Apocalypse 19"
 original: "branham/1964/64-0614M"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640614aDieu-devoile.pdf"
 ---
 **Résumé de!: “Dieu dévoilé” (14 juin1964 matin)**
 

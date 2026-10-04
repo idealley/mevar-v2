@@ -84,6 +84,7 @@ bible_refs:
   - "Apocalypse 17:1-6"
   - "Apocalypse 19:6-10"
   - "1 Jean 3:15"
+local_pdf: "https://files.mevar.org/cmpp/undated/eden.pdf"
 ---
 LE SÉDUCTEUR
 CAÏN ET LE PÉCHÉ ORIGINEL

@@ -79,6 +79,7 @@ bible_refs:
   - "Jean 14:19"
   - "Jean 14:12"
 original: "branham/1964/64-0629"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640629Puissant-devoile.pdf"
 ---
 **Résumé de : “Le Dieu puissant dévoilé devant nous” (29 juin 1964, soir)**
 

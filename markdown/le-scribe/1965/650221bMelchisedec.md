@@ -79,6 +79,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "2 Rois 5:3"
 original: "branham/1965/65-0221E"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650221bMelchisedec.pdf"
 ---
 **1.** Nous remercions Dieu pour la révélation qu'il a donnée de lui-même en ces derniers jours. Je n'ai même pas le temps de prier pour les bébés, alors que David, mon petit-fils [fils de Billy Paul], devait être consacré aujourd'hui. Ma belle-fille Loyce était stérile, mais le Seigneur lui a dit qu'elle aurait un fils, et, neuf mois plus tard, Paul est né. Deux mois avant la naissance de Paul, j'ai eu une vision de Billy Paul donnant à manger à Paul, et de Loyce nourrissant un bébé dans une couverture bleue. Onze mois plus tard, David naissait.
 

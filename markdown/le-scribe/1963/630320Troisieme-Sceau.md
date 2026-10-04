@@ -119,6 +119,7 @@ bible_refs:
   - "Jean 4"
   - "Romains 10:17"
 original: "branham/1963/63-0320"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630320Troisieme-Sceau.pdf"
 ---
 **Résumé de!: “Le Troisième Sceau” (20 mars 1963 soir)**
 

@@ -76,6 +76,7 @@ bible_refs:
   - "Actes 10:48"
   - "Actes 19:5"
 original: "branham/1957/57-0825E"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570825Hebreux-2B.pdf"
 ---
 **Résumé de!: “Hébreux, chapitre 2, seconde partie” (25 août 1957 soir)**
 

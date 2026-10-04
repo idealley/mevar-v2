@@ -53,6 +53,7 @@ bible_refs:
   - "Psaumes 103:3"
   - "Jean 5:24"
 original: "branham/1956/56-1208"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561208Abraham.pdf"
 ---
 Résumé de : “Abraham” (8 décembre 1956)
 __________________________________

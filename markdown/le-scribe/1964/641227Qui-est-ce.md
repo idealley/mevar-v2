@@ -69,6 +69,7 @@ bible_refs:
   - "Nombres 31:16"
   - "Nombres 25:6-13"
 original: "branham/1964/64-1227"
+local_pdf: "https://files.mevar.org/le-scribe/1964/641227Qui-est-ce.pdf"
 ---
 **Résumé de : “Qui est-ce selon vous ?” (27 décembre 1964, matin)**
 

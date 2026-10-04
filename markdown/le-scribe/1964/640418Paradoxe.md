@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 12:24"
   - "Matthieu 25:40"
 original: "branham/1964/64-0418B"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640418Paradoxe.pdf"
 ---
 **Résumé de!: “Paradoxe” (18 avril 1964, matin)**
 

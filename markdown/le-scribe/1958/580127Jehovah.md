@@ -64,6 +64,7 @@ bible_refs:
   - "2 Rois 4"
   - "Jean 11:22"
 original: "branham/1958/58-0127"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580127Jehovah.pdf"
 ---
 **Résumé de : “Jéhovah-Jiré” (27 janvier 1958, soir)**
 

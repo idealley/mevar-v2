@@ -72,6 +72,7 @@ bible_refs:
   - "Matthieu 4:4"
   - "Jacques 4:8"
 original: "branham/1958/58-0928E"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580928Serpent.pdf"
 ---
 *“La semence du serpent” (28 septembre 1958, soir)*
 

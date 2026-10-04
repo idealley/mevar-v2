@@ -46,6 +46,7 @@ bible_refs:
   - "1 Corinthiens 15:55,57"
   - "Zacharie 4:6"
 original: "branham/1957/57-0303A"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570303Pourquoi-si-dur.pdf"
 ---
 **Résumé de : “ Pourquoi tant de chrétiens trouvent-ils si difficile de vivre une vie chrétienne” (3.3.1957)**
 

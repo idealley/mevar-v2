@@ -41,6 +41,7 @@ bible_refs:
   - "Proverbes 14:12"
   - "Actes 2:38"
 original: "branham/1958/58-0108"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580108Sur-le-mur.pdf"
 ---
 *Résumé de!: “L'écriture sur le mur” (8 janvier 1958, soir)*
 

@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 14:13"
 original: "branham/1956/56-0128"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560128Inspiration.pdf"
 ---
 **1.** Je suis heureux de revoir le frère et la sœur Rogers, malgré la neige. C'est merveilleux de savoir que le Père exauce nos désirs quand ils sont selon sa volonté, selon sa Parole. J'ai expliqué au frère Collins qu'avant d'agir, j'essaie toujours de savoir si c'est sa volonté, et je teste mes motivations, je vérifie qu'il n'y a pas d'égoïsme. L'égoïsme équivaut à ne pas être dans sa volonté. Quand tout sonne juste, tout est alors possible.
 

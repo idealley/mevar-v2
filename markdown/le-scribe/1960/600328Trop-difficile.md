@@ -42,6 +42,7 @@ bible_refs:
   - "Marc 8:18"
   - "Hébreux 12:1-2"
 original: "branham/1960/60-0328"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600328Trop-difficile.pdf"
 ---
 **1.** [Cantique. Prière] …
 

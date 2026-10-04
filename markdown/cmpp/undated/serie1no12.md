@@ -53,6 +53,7 @@ bible_refs:
   - "1 Corinthiens 11:25-27"
   - "1 Corinthiens 11:28,29"
   - "1 Corinthiens 11:31,34"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie1no12.pdf"
 ---
 SERIE 1 N° 12
 

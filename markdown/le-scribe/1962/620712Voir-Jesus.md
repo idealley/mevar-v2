@@ -77,6 +77,7 @@ bible_refs:
   - "Luc 8:43-48"
   - "Marc 9:23"
 original: "branham/1962/62-0712"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620712Voir-Jesus.pdf"
 ---
 **NOUS VOUDRIONS VOIR JESUS**
 *WE WOULD SEE JESUS*

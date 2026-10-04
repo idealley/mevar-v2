@@ -47,6 +47,7 @@ bible_refs:
   - "Marc 16"
   - "Marc 16:17-18"
 original: "branham/1959/59-0405A"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590405Pas-ainsi.pdf"
 ---
 **1.** [Prière].
 

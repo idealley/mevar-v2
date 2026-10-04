@@ -45,6 +45,7 @@ bible_refs:
   - "Matthieu 11:19"
   - "2 Timothée 3:8"
 original: "branham/1956/56-0129"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560129Atmosphere.pdf"
 ---
 *Résumé de!: “Le Surnaturel” (29 janvier 1956, matin)*
 

@@ -76,6 +76,7 @@ bible_refs:
   - "Marc 5:30"
   - "Hébreux 13:8"
 original: "branham/1965/65-0725E"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650725bAttraction.pdf"
 ---
 **1.** [Prière]. La prédication de ce matin [“Les oints du temps de la fin”] était le message le plus direct depuis “Messieurs quelle heure est-il ?” [30 décembre 1962]. J'ai senti l'onction du Saint-Esprit, et le Seigneur nous a montré en quelle heure nous vivons. “Ceux qui auront de l'intelligence comprendront” [Dan. 12:10]. Mais notre sagesse nous détruira. Ce soir, j'aimerais trouver l'onction du Saint-Esprit et appeler la ligne de prière.
 

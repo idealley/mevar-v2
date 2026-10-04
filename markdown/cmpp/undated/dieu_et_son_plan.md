@@ -306,6 +306,7 @@ bible_refs:
   - "Apocalypse 22:3,4"
   - "Habacuc 2:2,3"
   - "Apocalypse 21:3-7"
+local_pdf: "https://files.mevar.org/cmpp/undated/dieu_et_son_plan.pdf"
 ---
 # Dieu et son plan pour l'humanité
 

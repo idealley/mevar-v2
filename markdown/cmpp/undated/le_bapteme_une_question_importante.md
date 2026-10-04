@@ -66,6 +66,7 @@ bible_refs:
   - "Actes 11:14"
   - "Actes 2:5"
   - "Jean 17:20"
+local_pdf: "https://files.mevar.org/cmpp/undated/le_bapteme_une_question_importante.pdf"
 ---
 ## Le baptême? Une question importante!
 

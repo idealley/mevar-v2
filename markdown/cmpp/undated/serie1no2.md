@@ -80,6 +80,7 @@ bible_refs:
   - "Psaumes 16:10"
   - "Actes 2:27"
   - "Matthieu 24:24"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie1no2.pdf"
 ---
 LA NOURRITURE SPIRITUELLE AU TEMPS CONVENABLE
 

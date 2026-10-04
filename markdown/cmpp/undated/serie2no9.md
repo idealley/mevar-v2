@@ -64,6 +64,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Matthieu 28:20"
   - "Hébreux 4:15"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie2no9.pdf"
 ---
 SERIE 2 N° 9
 

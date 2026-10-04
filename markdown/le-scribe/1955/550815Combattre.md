@@ -42,6 +42,7 @@ bible_refs:
   - "Jude 1:3"
   - "Jean 5:19"
 original: "branham/1955/55-0815"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550815Combattre.pdf"
 ---
 **1.** Je suis fatigué à cause du décalage horaire, et on vient tout juste de me réveiller. Lisons Jude 3 :
 > “Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.”

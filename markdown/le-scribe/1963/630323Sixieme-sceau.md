@@ -132,6 +132,7 @@ bible_refs:
   - "Jean 6:65"
   - "Jean 6:37"
 original: "branham/1963/63-0323"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630323Sixieme-sceau.pdf"
 ---
 **Résumé de!: “Le sixième Sceau” (23 mars 1963 soir)**
 

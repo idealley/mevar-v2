@@ -64,6 +64,7 @@ bible_refs:
   - "Genèse 15:16"
   - "Hébreux 13:8"
   - "Genèse 1"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie3no10.pdf"
 ---
 SERIE 3 N° 10
 

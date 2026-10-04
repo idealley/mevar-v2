@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 14:12"
   - "Marc 11:24"
 original: "branham/1963/63-0412E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630412Dieu-ds-simplicite.pdf"
 ---
 *Résumé de!: "Dieu caché dans la simplicité" (12 Avril 1963 soir)*
 

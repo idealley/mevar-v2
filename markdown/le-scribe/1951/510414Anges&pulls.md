@@ -59,6 +59,7 @@ bible_refs:
   - "Deutéronome 18:21-22"
   - "Jean 2:48"
 original: "branham/1951/51-0414"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510414Anges%26pulls.pdf"
 ---
 **L'ANGE ET LES TROIS "PULLS"**
 *THE ANGEL AND THREE PULLS*

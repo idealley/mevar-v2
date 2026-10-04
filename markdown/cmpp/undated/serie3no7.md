@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 5:24"
   - "1 Thessaloniciens 4:15-17"
   - "1 Corinthiens 15:52"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie3no7.pdf"
 ---
 SERIE 3 N° 7
 

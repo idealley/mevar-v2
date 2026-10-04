@@ -188,6 +188,7 @@ bible_refs:
   - "Actes 8:16"
   - "Actes 10:48"
   - "Actes 2:42"
+local_pdf: "https://files.mevar.org/cmpp/undated/impact.pdf"
 ---
 L’IMPACT
 DE LA

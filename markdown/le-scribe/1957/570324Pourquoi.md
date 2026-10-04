@@ -52,6 +52,7 @@ bible_refs:
   - "Luc 11:24"
   - "1 Corinthiens 13:8"
 original: "branham/1957/57-0324"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570324Pourquoi.pdf"
 ---
 **1.** Je dois être vendredi à Wichita, Kansas. Je ne peux prendre la route du Nord à cause de la neige. Nous parlions de la date du départ, et j'ai pensé au cantique "Crois seulement" qui m'accompagne, depuis dix ans, quand je viens sur l'estrade. Si je dois partir avant la venue de Jésus, il est prévu que je serai enseveli avec ce chant !
 

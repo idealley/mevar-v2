@@ -44,6 +44,7 @@ bible_refs:
   - "Jean 5:19"
   - "Matthieu 16:17-18"
 original: "branham/1955/55-1001"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551001Attente.pdf"
 ---
 Résumé de : “Dans l'attente ” (1er octobre 1955, soir)
 

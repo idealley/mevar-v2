@@ -83,6 +83,7 @@ bible_refs:
   - "Apocalypse 2:27"
   - "Apocalypse 5:8-14"
 original: "branham/1963/63-0317E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630317La-breche.pdf"
 ---
 **Résumé de!: “La brèche entre les 7 âges de l'Eglise et les 7 Sceaux” (17 mars 1963 soir)**
 

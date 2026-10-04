@@ -67,6 +67,7 @@ bible_refs:
   - "Joël 4:9"
   - "Matthieu 28:19"
   - "Matthieu 24:14"
+local_pdf: "https://files.mevar.org/cmpp/undated/islam.pdf"
 ---
 # La religion de l’islam à la lumière des événements mondiaux actuels
 

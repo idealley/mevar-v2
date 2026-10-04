@@ -61,6 +61,7 @@ bible_refs:
   - "Luc 8:48"
   - "Matthieu 9:38"
 original: "branham/1963/63-1113"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631113Signe-du-temps.pdf"
 ---
 **LE SIGNE DE NOTRE TEMPS**
 

@@ -48,6 +48,7 @@ bible_refs:
   - "Malachie 4"
   - "Luc 17:30"
   - "Apocalypse 17"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie5no3.pdf"
 ---
 SERIE 5, N° 3
 

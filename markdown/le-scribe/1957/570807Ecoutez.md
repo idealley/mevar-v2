@@ -57,6 +57,7 @@ bible_refs:
   - "1 Corinthiens 14:23-25"
   - "Actes 2:38-39"
 original: "branham/1957/57-0807"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570807Ecoutez.pdf"
 ---
 Résumé de : “Ecoutez-le” (7.08.1957)
 

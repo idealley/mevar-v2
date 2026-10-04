@@ -56,6 +56,7 @@ bible_refs:
   - "Nombres 22:23"
   - "Actes 19"
 original: "branham/1955/55-1008"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551008Consequences-decision.pdf"
 ---
 Résumé de : “Les conséquences d'une décision” (8 octobre 1955, soir)
 

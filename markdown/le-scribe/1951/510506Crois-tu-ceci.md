@@ -60,6 +60,7 @@ bible_refs:
   - "Daniel 3"
   - "Luc 1:13"
 original: "branham/1951/51-0506A"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510506Crois-tu-ceci.pdf"
 ---
 **CROIS-TU CECI ?**
 *BELIEVEST THOU THIS ?*

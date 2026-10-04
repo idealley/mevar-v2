@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 5:4"
   - "Matthieu 19:14"
 original: "branham/1952/52-0718"
+local_pdf: "https://files.mevar.org/le-scribe/1952/520718Accepter.pdf"
 ---
 “J’écouterai par égard pour lui seul” (18.07.1952)
 

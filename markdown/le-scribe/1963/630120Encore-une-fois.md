@@ -66,6 +66,7 @@ bible_refs:
   - "Matthieu 28:20"
   - "Hébreux 4:15"
 original: "branham/1963/63-0120E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630120Encore-une-fois.pdf"
 ---
 **Résumé de!: “Juste encore une fois Seigneur” (20 janvier 1963)**
 

@@ -64,6 +64,7 @@ bible_refs:
   - "Éphésiens 4:7-16"
   - "Éphésiens 4:13"
   - "Matthieu 11:28-30"
+local_pdf: "https://files.mevar.org/cmpp/undated/grace_verite_A4.pdf"
 ---
 LA GRACE ET LA VERITE
 

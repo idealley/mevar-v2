@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 1:47"
   - "Jean 5:19"
 original: "branham/1956/56-0426"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560426Jesus-le-meme.pdf"
 ---
 **Résumé de : “Jésus-Christ le même” (26 avril 1956)**
 

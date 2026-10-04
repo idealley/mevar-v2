@@ -61,6 +61,7 @@ bible_refs:
   - "Malachie 3"
   - "Apocalypse 13:16"
   - "Matthieu 24"
+local_pdf: "https://files.mevar.org/le-scribe/undated/wmbch17.pdf"
 ---
 ## Chapitre dix-sept
 

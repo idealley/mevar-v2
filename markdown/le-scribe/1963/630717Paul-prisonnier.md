@@ -64,6 +64,7 @@ bible_refs:
   - "Genèse 41:14"
   - "Matthieu 16:25"
 original: "branham/1963/63-0717"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630717Paul-prisonnier.pdf"
 ---
 **Résumé de!: “Paul, prisonnier de Christ” (17 juillet 1963 soir)**
 

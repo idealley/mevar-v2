@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 17:18"
   - "Jean 20:21"
 original: "branham/1958/58-0613"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580613Reine-du-Midi.pdf"
 ---
 *LA REINE DU MIDI*
 *QUEEN OF THE SOUTH*

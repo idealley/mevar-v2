@@ -75,6 +75,7 @@ bible_refs:
   - "Jean 10:34"
   - "2 Corinthiens 3:3"
 original: "branham/1949/49-1225"
+local_pdf: "https://files.mevar.org/le-scribe/1949/491225Divinite-Jesus.pdf"
 ---
 **LA DIVINITE DE JESUS-CHRIST**
 *THE DEITY OF JESUS-CHRIST*

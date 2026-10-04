@@ -62,6 +62,7 @@ bible_refs:
   - "Jean 6:35"
   - "Jean 8:58"
 original: "branham/1953/53-0326"
+local_pdf: "https://files.mevar.org/le-scribe/1953/530326aIsrael-Mer-Rouge.pdf"
 ---
 **“Israël à la Mer Rouge (a)”**
 

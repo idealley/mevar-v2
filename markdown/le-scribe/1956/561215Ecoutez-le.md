@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 1"
   - "Matthieu 14:58"
 original: "branham/1956/56-1215"
+local_pdf: "https://files.mevar.org/le-scribe/1956/561215Ecoutez-le.pdf"
 ---
 Résumé de : “Ecoutez-le” (15 décembre 1956)
 

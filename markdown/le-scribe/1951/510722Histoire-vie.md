@@ -50,6 +50,7 @@ bible_refs:
   - "1 Jean 3:2"
   - "Hébreux 11:10"
 original: "branham/1951/51-0722A"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510722Histoire-vie.pdf"
 ---
 *Histoire de ma vie*
 *Life Story*

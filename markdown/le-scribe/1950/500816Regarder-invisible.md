@@ -37,6 +37,7 @@ llm_cleaned: true
 bible_refs:
   - "2 Rois 6:12"
 original: "branham/1950/50-0816"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500816Regarder-invisible.pdf"
 ---
 **1.** Les Syriens étaient en guerre contre Israël, mais Israël avait connaissance de leurs plans à l'avance. Le roi de Syrie s'est donc demandé qui était l'espion caché dans son armée. Lisons 2 Rois 6:12 à 17
 

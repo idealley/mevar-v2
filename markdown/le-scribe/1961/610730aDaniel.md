@@ -97,6 +97,7 @@ bible_refs:
   - "Daniel 9:24"
   - "Apocalypse 12:15-18"
 original: "branham/1961/61-0730M"
+local_pdf: "https://files.mevar.org/le-scribe/1961/610730aDaniel.pdf"
 ---
 **1.** J'ai annoncé que j'étudierais les "70 semaines de Daniel", avant d'aborder les Sceaux. Il fait chaud, et nous n'avons pas encore la climatisation. Je pense à Mexico où la foule et des malades à l'agonie restaient debout sous un soleil de plomb, attendant de neuf heures du matin jusqu'à neuf heures du soir, pour voir les œuvres du Seigneur. Je pense aux lépreux et autres malades en Inde, étendus sous le soleil ou l'orage pour saisir une Parole de Dieu de temps en temps pour leur âme. Dans une île des mers du Sud, la tempête était si forte que je croyais que personne ne viendrait, mais le stade était comble. Il suffisait d'un simple appel à l'autel pour que des milliers s'avancent.
 

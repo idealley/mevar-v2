@@ -65,6 +65,7 @@ bible_refs:
   - "Luc 8:43-48"
   - "Hébreux 4:15"
 original: "branham/1964/64-0311"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640311Dieu-identifie.pdf"
 ---
 Résumé de!: “Dieu est identifié par ses caractéristiques” (11 mars 1964 soir)
 

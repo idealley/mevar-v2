@@ -66,6 +66,7 @@ bible_refs:
   - "Apocalypse 19:21"
   - "Apocalypse 11"
 original: "branham/1961/61-0730E"
+local_pdf: "https://files.mevar.org/le-scribe/1961/610730bDaniel.pdf"
 ---
 **1.** [Remarques diverses, salutations, remerciements]. S'il n'y avait personne pour m'aimer et écouter le message, il ne servirait à rien, et les poteaux et les arbres ne comprendraient rien. Il faut des gens comme vous pour venir m'écouter malgré la chaleur.
 

@@ -64,6 +64,7 @@ bible_refs:
   - "Matthieu 7:16"
   - "Luc 17:28-30"
 original: "branham/1962/62-0715"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620715Plus-que-Salomon.pdf"
 ---
 Résumé de!: “Voici, il y a ici un plus grand que tout autre” (15 juillet 1962, après-midi)
 

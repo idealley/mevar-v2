@@ -95,6 +95,7 @@ bible_refs:
   - "Marc 11:23"
   - "1 Rois 19:9"
 original: "branham/1963/63-0317M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630317Dieu-ds-simplicite.pdf"
 ---
 **1.** Il y a 30 ans, j'ai consacré le terrain marécageux sur lequel le nouveau Tabernacle que nous inaugurons aujourd'hui a été construit. Le lis des étangs y poussait : il doit traverser la boue où il naît avant de déployer sa beauté au-dessus de l'eau. Le premier Tabernacle a été inauguré ici en 1933. Un jour, les poêles à charbon y ont mis le feu, mais, malgré les piliers carbonisés, il est resté debout. Ce qui fait la beauté d'une église, c'est le caractère des fidèles.
 

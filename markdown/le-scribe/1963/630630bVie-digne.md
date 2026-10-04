@@ -98,6 +98,7 @@ bible_refs:
   - "Romains 9:3"
   - "Matthieu 25:21"
 original: "branham/1963/63-0630E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630630bVie-digne.pdf"
 ---
 **Résumé de!: “Votre vie est-elle digne de l'Evangile ?” (30 juin1963 soir)**
 

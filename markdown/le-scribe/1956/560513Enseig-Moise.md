@@ -41,6 +41,7 @@ bible_refs:
   - "Marc 8:34-37"
   - "Psaumes 34:8"
 original: "branham/1956/56-0513"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560513Enseig-Moise.pdf"
 ---
 **Résumé de!: “Enseignement sur Moïse” (13 mai 1956, matin)**
 

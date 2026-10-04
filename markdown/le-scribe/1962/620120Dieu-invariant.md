@@ -69,6 +69,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Marc 9:23"
 original: "branham/1962/62-0120"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620120Dieu-invariant.pdf"
 ---
 *Un Dieu qui ne varie pas mais qui agit de façon inattendue* (20 janvier 1962, soir)
 

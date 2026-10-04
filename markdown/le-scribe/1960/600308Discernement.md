@@ -70,6 +70,7 @@ bible_refs:
   - "Jean 14:12"
   - "Marc 16"
 original: "branham/1960/60-0308"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600308Discernement.pdf"
 ---
 “Le discernement de l’Esprit” (le 8 mars 1960)
 

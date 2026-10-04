@@ -56,6 +56,7 @@ bible_refs:
   - "Hébreux 8:10"
   - "1 Corinthiens 15:55,57"
 original: "branham/1960/60-0611B"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600611Communion.pdf"
 ---
 **1.** [Cantique, puis courte prière] …
 

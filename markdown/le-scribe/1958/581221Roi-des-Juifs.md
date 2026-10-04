@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 14:19,17,12"
   - "Jean 6:44"
 original: "branham/1958/58-1221M"
+local_pdf: "https://files.mevar.org/le-scribe/1958/581221Roi-des-Juifs.pdf"
 ---
 **Où est le Roi des Juifs**
 

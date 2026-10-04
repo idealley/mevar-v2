@@ -50,6 +50,7 @@ bible_refs:
   - "Job 38:4,7"
   - "Luc 16:23-24"
 original: "branham/1950/50-0200"
+local_pdf: "https://files.mevar.org/le-scribe/undated/5002xxHistoire-vie.pdf"
 ---
 **1.** Lisons Hébreux 13:10-14
     “Nous avons un autel dont ceux qui font le service au tabernacle n’ont pas le pouvoir de manger. –

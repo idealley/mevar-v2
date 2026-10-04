@@ -54,6 +54,7 @@ bible_refs:
   - "Luc 18:7"
   - "Ecclésiaste 7:8"
   - "Ésaïe 53:10"
+local_pdf: "https://files.mevar.org/cmpp/2026/exhortation_annee_2026_A4_gc.pdf"
 ---
 ## Exhortation année 2026
 

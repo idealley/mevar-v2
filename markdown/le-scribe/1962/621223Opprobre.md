@@ -63,6 +63,7 @@ bible_refs:
   - "Actes 2:23"
   - "Jean 11:27"
 original: "branham/1962/62-1223"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621223Opprobre.pdf"
 ---
 **1.** Je viens de prier pour des malades. Une petite fille très malade est en voie de guérison. Le plombage d'une de mes dents vient de sauter, et cela siffle un peu quand je parle. Tout à l'heure nous distribuerons des cadeaux aux enfants au nom de Jésus-Christ, qui est la Vérité. La nuit de Noël, plusieurs pasteurs parleront.
 

@@ -66,6 +66,7 @@ bible_refs:
   - "Matthieu 28:20"
   - "Marc 16:18"
 original: "branham/1963/63-0119"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630119Chemin-prophete.pdf"
 ---
 **Résumé de!: “Le chemin d’un vrai prophète” (19 Janvier1963)**
 

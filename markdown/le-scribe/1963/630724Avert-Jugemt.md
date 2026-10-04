@@ -59,6 +59,7 @@ bible_refs:
   - "Hébreux 12:1-2"
   - "2 Timothée 4:8"
 original: "branham/1963/63-0724"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630724Avert-Jugemt.pdf"
 ---
 **1.** J'apprécie toutes ces sœurs ici, vêtues décemment, les cheveux longs. Ce matin j'ai été informé que le frère Dauch, âgé de 91 ans, venait de tomber, et qu'il respirait à peine. J'ai prié au pied de mon lit. J'ai pu prendre contact avec cet esprit, et il est revenu à la vie.
 

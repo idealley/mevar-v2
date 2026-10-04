@@ -54,6 +54,7 @@ bible_refs:
   - "Luc 8:41"
   - "Matthieu 8:8"
 original: "branham/1962/62-0624"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620624Super-Signe.pdf"
 ---
 **Résumé de!: “Le Super Signe” (24 juin 1962, après-midi)**
 

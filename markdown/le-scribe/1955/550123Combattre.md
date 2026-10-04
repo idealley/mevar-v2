@@ -58,6 +58,7 @@ bible_refs:
   - "Jean 5:19"
   - "Luc 24:49"
 original: "branham/1955/55-0123E"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550123Combattre.pdf"
 ---
 **Résumé de :** *“Combattre avec force pour la foi” (23 janvier 1955, soir)*
 

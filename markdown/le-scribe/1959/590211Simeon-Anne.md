@@ -45,6 +45,7 @@ bible_refs:
   - "Romains 8:14"
   - "Ésaïe 49:15"
 original: "branham/1959/59-0211"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590211Simeon-Anne.pdf"
 ---
 **Résumé de : “Siméon et Anne” (11 février 1959, soir)**
 

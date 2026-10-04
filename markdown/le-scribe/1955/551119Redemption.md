@@ -45,6 +45,7 @@ bible_refs:
   - "Ruth 1:16"
   - "Hébreux 12:1"
 original: "branham/1955/55-1119"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551119Redemption.pdf"
 ---
 **Rédemption**
 

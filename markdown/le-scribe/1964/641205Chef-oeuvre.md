@@ -65,6 +65,7 @@ bible_refs:
   - "Josué 10:12"
   - "Actes 2"
 original: "branham/1964/64-1205"
+local_pdf: "https://files.mevar.org/le-scribe/1964/641205Chef-oeuvre.pdf"
 ---
 *Le Chef-d'Œuvre de Dieu reconnu*
 *5 décembre 1964, samedi soir, Yuma (Arizona)*

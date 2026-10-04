@@ -63,6 +63,7 @@ bible_refs:
   - "Matthieu 9:21"
   - "Hébreux 4:15"
 original: "branham/1963/63-0118"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630118Esprit-verite.pdf"
 ---
 **Résumé de!: “L’Esprit de vérité” (18 Janvier 1963)**
 

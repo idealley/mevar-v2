@@ -64,6 +64,7 @@ bible_refs:
   - "Marc 5:25-30"
   - "Jean 14:12"
 original: "branham/1958/58-1005E"
+local_pdf: "https://files.mevar.org/le-scribe/1958/581005Homme-appele.pdf"
 ---
 **Résumé de : “Un homme appelé par Dieu” (5 octobre 1958, soir)**
 

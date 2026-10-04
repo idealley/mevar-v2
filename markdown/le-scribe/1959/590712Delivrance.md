@@ -51,6 +51,7 @@ bible_refs:
   - "Matthieu 7:16"
   - "Jean 13:35"
 original: "branham/1959/59-0712"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590712Delivrance.pdf"
 ---
 *Résumé de!: “Une délivrance totale” (12 juillet 1959, matin)*
 

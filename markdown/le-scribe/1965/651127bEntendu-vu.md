@@ -76,6 +76,7 @@ bible_refs:
   - "Malachie 4"
   - "Jean 3:18"
 original: "branham/1965/65-1127E"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651127bEntendu-vu.pdf"
 ---
 *J'avais entendu, mais maintenant je vois*
 *I Have Heard But Now I See*

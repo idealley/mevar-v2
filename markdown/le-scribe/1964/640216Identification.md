@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 14:12"
   - "Matthieu 16:24"
 original: "branham/1964/64-0216"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640216Identification.pdf"
 ---
 *Identification* (16 février 1964, soir)
 

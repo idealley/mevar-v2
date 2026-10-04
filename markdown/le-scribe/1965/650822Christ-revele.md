@@ -82,6 +82,7 @@ bible_refs:
   - "Apocalypse 10:1"
   - "Actes 9:6"
 original: "branham/1965/65-0822M"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650822Christ-revele.pdf"
 ---
 *Christ est révélé dans sa propre Parole*
 *22 août 1965, dimanche matin, Jeffersonville (Indiana)*

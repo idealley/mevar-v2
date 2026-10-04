@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 16:16"
   - "Matthieu 28:20"
 original: "branham/1962/62-0722"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620722Montre-nous.pdf"
 ---
 *Montre-nous le Père, et cela nous suffira* (22 juillet 1962, après-midi)
 

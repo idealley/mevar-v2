@@ -52,6 +52,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "2 Rois 7"
 original: "branham/1962/62-0627"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620627Voir-Jesus.pdf"
 ---
 **Résumé de!: "Nous voudrions voir Jésus" (27 juin 1962, soir)**
 

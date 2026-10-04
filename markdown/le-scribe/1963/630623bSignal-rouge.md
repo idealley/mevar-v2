@@ -61,6 +61,7 @@ bible_refs:
   - "Actes 19"
   - "Galates 1:8"
 original: "branham/1963/63-0623E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630623bSignal-rouge.pdf"
 ---
 **Résumé de!: “Le clignotant rouge de sa venue” (23 juin 1963 soir)**
 

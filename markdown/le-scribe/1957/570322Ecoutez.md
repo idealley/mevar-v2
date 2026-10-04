@@ -60,6 +60,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 5:19"
 original: "branham/1957/57-0322"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570322Ecoutez.pdf"
 ---
 **1.** [Prière, salutations]. Après le séisme ressenti aujourd'hui, ce serait bien de parler de la seconde venue de Christ, mais il y en aura d'autres, et cela nous rappelle que Jésus est vivant et que sa Parole est véridique.
 

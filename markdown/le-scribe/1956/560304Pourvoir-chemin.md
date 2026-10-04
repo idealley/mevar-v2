@@ -56,6 +56,7 @@ bible_refs:
   - "2 Samuel 5:24"
   - "1 Chroniques 14:15"
 original: "branham/1956/56-0304"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560304Pourvoir-chemin.pdf"
 ---
 *Préparer une voie de secours* (4.3.1956)
 

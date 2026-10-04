@@ -78,6 +78,7 @@ bible_refs:
   - "Genèse 18:12-13"
   - "Jean 15:7"
 original: "branham/1963/63-0801"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630801Paradoxe.pdf"
 ---
 **1.** J’ai beaucoup apprécié ce cantique. Il y a une puissance dans un chant, et l’armée de Dieu avance en chantant pour porter l’arche, et avant le combat. Nous sommes réunis ce soir pour la bataille, avec le Nom de Jésus-Christ sur nos bannières. Lisons Josué 10:12 à 14
 

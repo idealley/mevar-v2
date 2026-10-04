@@ -71,6 +71,7 @@ bible_refs:
   - "2 Rois 6:17"
   - "2 Rois 20:1-11"
 original: "branham/1951/51-0717"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510717Manifestation-Esprit.pdf"
 ---
 **MANIFESTATION DE L’ESPRIT**
 *MANIFESTATION OF THE SPIRIT*

@@ -67,6 +67,7 @@ bible_refs:
   - "Jean 5:19"
   - "Matthieu 4:23-25"
 original: "branham/1951/51-0501"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510501Exhortation.pdf"
 ---
 **1.** *Exhortation au sujet de la guérison* (1er mai 1951, soir)
 

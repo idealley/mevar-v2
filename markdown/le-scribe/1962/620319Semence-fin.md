@@ -56,6 +56,7 @@ bible_refs:
   - "Hébreux 6:7-8"
   - "Luc 21:25"
 original: "branham/1962/62-0319"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620319Semence-fin.pdf"
 ---
 **Résumé de!: “La semence-signe du temps de la fin” (19 mars 1962, soir)**
 

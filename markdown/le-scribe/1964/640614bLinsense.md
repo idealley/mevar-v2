@@ -56,6 +56,7 @@ bible_refs:
   - "Hébreux 4:12-13"
   - "Jacques 5:15"
 original: "branham/1964/64-0614E"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640614bLinsense.pdf"
 ---
 *Résumé de!: “L'insensé” (14 juin 1964, soir)*
 

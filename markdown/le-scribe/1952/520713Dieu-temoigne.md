@@ -51,6 +51,7 @@ bible_refs:
   - "Matthieu 8:31"
   - "Jean 14:12"
 original: "branham/1952/52-0713E"
+local_pdf: "https://files.mevar.org/le-scribe/1952/520713Dieu-temoigne.pdf"
 ---
 **1.** Le frère Baxter m’a fait part de votre offrande. Merci du fond du cœur. Je suis resté 7 mois sans réunion. La situation a été difficile pour la famille, et j’ai des frais très importants. J’emploierai chaque centime à la gloire de Dieu, et je lui demande qu’il vous le rende au centuple.
 

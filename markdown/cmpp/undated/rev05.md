@@ -51,6 +51,7 @@ bible_refs:
   - "Nombres 24"
   - "Matthieu 28:19"
   - "Jean 6:48-50"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev05.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

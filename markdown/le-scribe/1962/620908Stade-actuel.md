@@ -69,6 +69,7 @@ bible_refs:
   - "Daniel 3"
   - "2 Rois 2"
 original: "branham/1962/62-0908"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620908Stade-actuel.pdf"
 ---
 **Résumé de!: “Le stade présent de mon ministère” (8 septembre 1962, soir)**
 

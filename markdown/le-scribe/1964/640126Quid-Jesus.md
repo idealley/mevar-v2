@@ -67,6 +67,7 @@ bible_refs:
   - "Hébreux 10:26"
   - "Nombres 13:33"
 original: "branham/1964/64-0126"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640126Quid-Jesus.pdf"
 ---
 *Que ferons-nous de ce Jésus qu'on appelle Christ ?* (26 Janvier 1964, après-midi)
 

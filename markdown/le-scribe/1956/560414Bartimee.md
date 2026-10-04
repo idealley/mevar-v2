@@ -47,6 +47,7 @@ bible_refs:
   - "Marc 16"
   - "Marc 11:24"
 original: "branham/1956/56-0414"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560414Bartimee.pdf"
 ---
 **Résumé de : ”L’aveugle Bartimée” (14 avril 1956)**
 

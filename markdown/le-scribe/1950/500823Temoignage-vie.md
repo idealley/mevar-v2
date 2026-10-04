@@ -46,6 +46,7 @@ bible_refs:
   - "2 Timothée 3:5"
   - "Jean 3:3"
 original: "branham/1950/50-0823"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500823Temoignage-vie.pdf"
 ---
 *23 août 1950, mercredi soir, Cleveland (Ohio)*
 

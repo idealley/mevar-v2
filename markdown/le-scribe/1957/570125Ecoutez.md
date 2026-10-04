@@ -56,6 +56,7 @@ bible_refs:
   - "Jean 5:24"
   - "Jean 5:19"
 original: "branham/1957/57-0125"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570125Ecoutez.pdf"
 ---
 **1.** Bonsoir. En pensant aujourd’hui au ministère qui m’a été donné, je me demandais pourquoi il n’est pas compris en Amérique. A cause des enseignements dénominationnels et de l’opposition de certaines églises, les gens ne savent pas que faire. J’ai parlé plus de 2 heures au petit déjeuner pastoral ce matin, et nous avons eu un bon moment de communion. Pourquoi les gens en Amérique ne saisissent-ils pas aussi vite qu’outremer ? Malgré les réunions sur réunions, seule une minorité comprend.
 

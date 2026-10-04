@@ -77,6 +77,7 @@ bible_refs:
   - "Apocalypse 2:17"
   - "Jean 10:37"
 original: "branham/1960/60-1207"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601207Pergame.pdf"
 ---
 *L'âge de l'église de Pergame* (7 décembre 1960, soir)
 

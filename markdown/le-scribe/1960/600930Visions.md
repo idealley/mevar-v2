@@ -50,6 +50,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/600930Visions.pdf"
 llm_cleaned: true
 original: "branham/1960/60-0930"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600930Visions.pdf"
 ---
 **1.** … Le frère Lee Vayle, m’a demandé, en présence du frère Mercier, de relater certaines de mes premières visions. Les visions font partie de mes premiers souvenirs. Il en vient sans arrêt. Je pense que le frère Vayle est intéressé par celles qui ont suivi ma conversion.
 

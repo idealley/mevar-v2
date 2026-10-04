@@ -83,6 +83,7 @@ bible_refs:
   - "Apocalypse 22:11"
   - "Matthieu 15:14"
 original: "branham/1964/64-0726M"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640726aReconnaitre-jour.pdf"
 ---
 **1.** [Prière]. J'ai cherché toute la semaine un sujet de prédication pour aujourd'hui. Le Seigneur voulait me dire quelque chose, mais il semblait que Satan faisait obstacle, et donc j'ai attendu. Et ce matin à 7 heures, un passage biblique m'a frappé, et j'en ai terminé l'examen il y a un instant. Peut-être que le Seigneur a un message pour nous ce matin dont Satan voulait nous éloigner. Il nous reste peu de temps, et quelque chose va se passer, si bien que Satan viendra parmi vous, et vous dispersera.
 

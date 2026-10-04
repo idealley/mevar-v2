@@ -56,6 +56,7 @@ bible_refs:
   - "Actes 27:23"
   - "Jean 15:7"
 original: "branham/1955/55-1113"
+local_pdf: "https://files.mevar.org/le-scribe/1955/551113Jesus-le-meme.pdf"
 ---
 *Résumé de : “Jésus-Christ le même hier, aujourd'hui, et éternellement” (13 novembre 1955, après-midi)*
 

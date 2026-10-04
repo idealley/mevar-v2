@@ -58,6 +58,7 @@ bible_refs:
   - "Jean 14:1-2"
   - "Apocalypse 21:1"
 original: "branham/1965/65-0829"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650829Eden-de-satan.pdf"
 ---
 Résumé de : “L'Eden de Satan” (29 août 1965, soir)
 

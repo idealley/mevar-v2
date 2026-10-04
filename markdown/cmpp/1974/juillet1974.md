@@ -56,6 +56,7 @@ bible_refs:
   - "Galates 6:15,16"
   - "Jacques 3:13-18"
   - "Jacques 3:16"
+local_pdf: "https://files.mevar.org/cmpp/1974/juillet1974.pdf"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 8:58"
   - "Actes 19"
 original: "branham/1958/58-0510"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580510Foi-en-Dieu.pdf"
 ---
 *Ayez foi en Dieu* (10 mai 1958, soir)
 

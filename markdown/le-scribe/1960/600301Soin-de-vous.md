@@ -57,6 +57,7 @@ bible_refs:
   - "Hébreux 10"
   - "Hébreux 10:26-27"
 original: "branham/1960/60-0301"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600301Soin-de-vous.pdf"
 ---
 **1.** *Lui-même prend soin de vous* (1er mars 1960)
 

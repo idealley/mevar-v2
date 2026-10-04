@@ -50,6 +50,7 @@ bible_refs:
   - "Apocalypse 12:17"
   - "Jean 5:19"
 original: "branham/1960/60-0302"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600302Des-lors.pdf"
 ---
 “Dès ce moment” (le 2 mars 1960)
 

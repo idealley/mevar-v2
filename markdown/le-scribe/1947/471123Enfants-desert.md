@@ -62,6 +62,7 @@ bible_refs:
   - "Hébreux 13:15"
   - "Matthieu 8:31"
 original: "branham/1947/47-1123"
+local_pdf: "https://files.mevar.org/le-scribe/1947/471123Enfants-desert.pdf"
 ---
 **LES ENFANTS DANS LE DESERT**
 *CHILDREN IN THE WILDERNESS*

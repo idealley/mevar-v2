@@ -50,6 +50,7 @@ bible_refs:
   - "1 Jean 3:21"
   - "Proverbes 28:13"
 original: "branham/1959/59-0706"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590706Nos_voies.pdf"
 ---
 “En réfléchissant à nos voies” (le 6 juillet 1959)
 

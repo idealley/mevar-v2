@@ -66,6 +66,7 @@ bible_refs:
   - "2 Timothée 3:5"
   - "Matthieu 24:24"
 original: "branham/1964/64-0205"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640205Dieu-interprete.pdf"
 ---
 *Dieu est son propre interprète* (5 février 1964, soir)
 

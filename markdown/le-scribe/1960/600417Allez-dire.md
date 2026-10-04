@@ -64,6 +64,7 @@ bible_refs:
   - "Galates 1:8"
   - "Marc 11:23"
 original: "branham/1960/60-0417M"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600417Allez-dire.pdf"
 ---
 **1.** [Cantique, prière].
 

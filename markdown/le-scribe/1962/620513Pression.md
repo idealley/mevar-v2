@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 5:24"
   - "Jean 6:44"
 original: "branham/1962/62-0513E"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620513Pression.pdf"
 ---
 **Résumé de!: “Relâcher la pression” (13 mai 1962, après-midi)**
 

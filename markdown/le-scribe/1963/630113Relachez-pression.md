@@ -51,6 +51,7 @@ bible_refs:
   - "Job 38:7"
   - "Psaumes 103:5"
 original: "branham/1963/63-0113M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630113Relachez-pression.pdf"
 ---
 **Résumé de!: “Relâchez la pression” (13 Janvier 1963, matin)**
 

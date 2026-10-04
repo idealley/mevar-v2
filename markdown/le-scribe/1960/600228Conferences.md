@@ -53,6 +53,7 @@ bible_refs:
   - "Actes 4:31"
   - "Ézéchiel 9:4"
 original: "branham/1960/60-0228"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600228Conferences.pdf"
 ---
 **1.** Merci, frère Williams … [Salutations] … j’ai été heureux, en revenant de Porto Rico, d’apprendre que la réunion suivante se tiendrait ici. J’ai toujours aimé revenir ici après avoir affronté la neige des montagnes, ou les déserts, au moment où les fleurs s’ouvrent. C’est un petit coin du Ciel. Je devais avoir 16 ou 17 ans lors de ma première venue à Phoenix. Je venais au centre-ville depuis Henshaw, c’était alors le désert, par une route gravillonnée.
 

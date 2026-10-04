@@ -53,6 +53,7 @@ bible_refs:
   - "Exode 19"
   - "Hébreux 11"
   - "1 Corinthiens 12:13"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev04.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

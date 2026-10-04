@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 5:19-20"
   - "1 Corinthiens 2:4"
 original: "branham/1952/52-0727"
+local_pdf: "https://files.mevar.org/le-scribe/1952/520727Conduits.pdf"
 ---
 **“Conduit par l’Esprit” (27.07.1952)**
 

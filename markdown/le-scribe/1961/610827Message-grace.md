@@ -72,6 +72,7 @@ bible_refs:
   - "Jean 4:10"
   - "Zacharie 14:7"
 original: "branham/1961/61-0827"
+local_pdf: "https://files.mevar.org/le-scribe/1961/610827Message-grace.pdf"
 ---
 Résumé de : “Le message de grâce” (27.08.1961)
 __________________________________

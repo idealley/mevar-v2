@@ -57,6 +57,7 @@ bible_refs:
   - "Genèse 17"
   - "Psaumes 103:3"
 original: "branham/1959/59-0423"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590423Abraham_semence.pdf"
 ---
 **LA SEMENCE D'ABRAHAM**
 *23 avril 1959, jeudi après-midi, San Jose (Californie). 65 minutes.*

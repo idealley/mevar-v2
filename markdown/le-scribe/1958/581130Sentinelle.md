@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 21:21"
   - "Marc 12:42"
 original: "branham/1958/58-1130"
+local_pdf: "https://files.mevar.org/le-scribe/1958/581130Sentinelle.pdf"
 ---
 *Résumé de : “Sentinelle, que dis-tu de la nuit?” (30 novembre 1958, matin)*
 

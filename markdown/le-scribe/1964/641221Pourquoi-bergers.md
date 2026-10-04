@@ -96,6 +96,7 @@ bible_refs:
   - "Actes 2:38"
   - "Matthieu 4:4"
 original: "branham/1964/64-1221"
+local_pdf: "https://files.mevar.org/le-scribe/1964/641221Pourquoi-bergers.pdf"
 ---
 **Résumé de!: “Pourquoi fallait-il que ce soit des bergers” (21 décembre 1964, soir)**
 

@@ -76,6 +76,7 @@ bible_refs:
   - "Jean 14:19-20"
   - "Hébreux 13:8"
 original: "branham/1963/63-0901E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630901bPousses-a-bout.pdf"
 ---
 **Résumé de!: “Poussés à bout” (1er septembre 1963 soir)**
 

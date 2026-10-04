@@ -48,6 +48,7 @@ bible_refs:
   - "Actes 19:12"
   - "Deutéronome 18:15"
 original: "branham/1959/59-0208"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590209Bartimee.pdf"
 ---
 **Résumé de : “L’aveugle Bartimée” (9 février 1959, soir)**
 

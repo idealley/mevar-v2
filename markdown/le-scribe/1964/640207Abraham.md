@@ -53,6 +53,7 @@ bible_refs:
   - "Genèse 18:13"
   - "Jean 5:19"
 original: "branham/1964/64-0207"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640207Abraham.pdf"
 ---
 *Le patriarche Abraham* (7 février 1964, soir)
 

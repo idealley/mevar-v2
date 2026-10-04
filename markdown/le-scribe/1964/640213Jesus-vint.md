@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 14:22-33"
   - "Matthieu 14:27"
 original: "branham/1964/64-0213"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640213Jesus-vint.pdf"
 ---
 **Résumé de!: “Alors Jésus vint et appela” (13 février 1964, soir)**
 

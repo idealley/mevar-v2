@@ -70,6 +70,7 @@ bible_refs:
   - "Jean 14:17,19"
   - "Matthieu 18:20"
 original: "branham/1960/60-0607"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600607Entendre.pdf"
 ---
 Résumé de “Entendre, accepter, et agir” (le 7 juin 1960)
 

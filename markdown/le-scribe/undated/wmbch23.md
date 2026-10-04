@@ -61,6 +61,7 @@ bible_refs:
   - "Daniel 2:31"
   - "1 Corinthiens 5:8"
   - "Jean 5:17,19"
+local_pdf: "https://files.mevar.org/le-scribe/undated/wmbch23.pdf"
 ---
 ## Chapitre vingt-trois
 

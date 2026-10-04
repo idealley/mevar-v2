@@ -56,6 +56,7 @@ bible_refs:
   - "Amos 3:7"
   - "Ésaïe 53:5"
 original: "branham/1965/65-1128E"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651128bColombe.pdf"
 ---
 **1.** [Prière]. Un frère d'ici m'a vu en songe portant un pantalon blanc et des mocassins. Or j'étais ainsi habillé quand, depuis Carson, Colorado, j'ai téléphoné à Jack Moore pour cette réunion ! Un pasteur perdu en ville cherchait l'endroit où se tenait la réunion. Le Seigneur lui a indiqué la direction et l'a fait passer devant une église d'où sortait un couple de jeunes mariés. Le Seigneur lui a dit : “Tu as quitté le système dénominationnel pour entrer dans l'Epouse, et partir avec l'Epoux”.
 

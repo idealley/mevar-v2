@@ -58,6 +58,7 @@ bible_refs:
   - "Jean 14:10"
   - "2 Corinthiens 5:19"
 original: "branham/1962/62-0118"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620118Convaincu.pdf"
 ---
 **1.** C’est un plaisir d’être avec le frère Groomer et son église. Je suis en retard à cause de la tempête qui nous a fait perdre deux jours. Hier soir nous avons eu une réunion formidable, mais j’ai prêché quatre heures ! Je vois ici le frère et la sœur Dauch qui conduisent 240 km plusieurs fois par an pour aller de Macon, Georgie, jusqu’à Jeffersonville. Comme Abraham, nous sommes pèlerins et étrangers en ce monde, en attendant la Cité dont Dieu est l’Architecte [Héb. 11:10].
 

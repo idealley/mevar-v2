@@ -65,6 +65,7 @@ bible_refs:
   - "Luc 17:30"
   - "Apocalypse 4:7"
 original: "branham/1965/65-0220"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650220Lieu-adoration.pdf"
 ---
 **Résumé de : “Le lieu d'adoration que Dieu a choisi” (20 février 1965, soir)**
 

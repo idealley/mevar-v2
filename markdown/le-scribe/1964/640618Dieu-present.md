@@ -59,6 +59,7 @@ bible_refs:
   - "1 Rois 10:1-10"
   - "Jean 14:12"
 original: "branham/1964/64-0618"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640618Dieu-present.pdf"
 ---
 *Dieu présent mais non identifié* (18 juin 1964, soir)
 

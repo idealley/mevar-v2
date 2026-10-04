@@ -55,6 +55,7 @@ bible_refs:
   - "Deutéronome 29:5"
   - "Exode 15:26"
 original: "branham/1955/55-0114"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550114Docteur-Moise.pdf"
 ---
 Résumé de : “Docteur Moïse” (14 janvier 1955, soir)
 

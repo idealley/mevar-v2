@@ -53,6 +53,7 @@ bible_refs:
   - "1 Timothée 6:10"
   - "Matthieu 6:21"
 original: "branham/1953/53-0329"
+local_pdf: "https://files.mevar.org/le-scribe/1953/530329Israel-son-pays.pdf"
 ---
 *Israël dans son pays (29. 03. 1953)*
 

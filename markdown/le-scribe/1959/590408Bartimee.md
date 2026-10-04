@@ -48,6 +48,7 @@ bible_refs:
   - "Psaumes 103"
   - "Actes 14:9"
 original: "branham/1959/59-0408"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590408Bartimee.pdf"
 ---
 **“L’aveugle Bartimée” (8 avril 1959)**
 

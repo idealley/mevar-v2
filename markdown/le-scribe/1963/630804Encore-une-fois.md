@@ -47,6 +47,7 @@ bible_refs:
   - "Apocalypse 3:12"
   - "Jean 13:35"
 original: "branham/1963/63-0804A"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630804Encore-une-fois.pdf"
 ---
 **1.** [Prière]. Lisons Juges 16:27-28
     “L’édifice était rempli d’hommes et de femmes ; tous les ducs des Philistins étaient là, et il y avait sur le toit environ trois mille personnes, hommes et femmes, qui regardaient Samson jouer. – Alors Samson invoqua l’Eternel et dit : Seigneur Eternel ! Souviens-toi de moi, je te prie ; ô Dieu ! donne-moi de la force seulement cette fois-ci, et que d’un seul coup je tire vengeance des Philistins pour mes deux yeux !”

@@ -56,6 +56,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Deutéronome 18:15,18"
 original: "branham/1960/60-0313"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600313Ecoutez.pdf"
 ---
 **1.** Que les frères s'approchent pour que nous imposions les mains sur ces linges. On nous demande souvent de les oindre, mais si on examine les Ecritures, Paul ne les oignait pas : ils avaient seulement touché son corps. Nous allons donc prier sur eux. Priez avec nous. [Prière] …
 

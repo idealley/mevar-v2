@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 15:7"
   - "Ésaïe 53:5"
 original: "branham/1958/58-0517E"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580517Peche-incredulite.pdf"
 ---
 *Le péché d’incrédulité* (17 mai 1958, soir)
 

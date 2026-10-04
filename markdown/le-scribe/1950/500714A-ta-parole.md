@@ -53,6 +53,7 @@ bible_refs:
   - "1 Jean 4:2-3"
   - "Luc 5:1"
 original: "branham/1950/50-0714"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500714A-ta-parole.pdf"
 ---
 **SUR TA PAROLE SEIGNEUR**
 *AT THY WORD LORD*

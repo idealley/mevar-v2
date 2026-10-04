@@ -81,6 +81,7 @@ bible_refs:
   - "Matthieu 16:18"
   - "Hébreux 11"
   - "1 Corinthiens 7:12,15"
+local_pdf: "https://files.mevar.org/cmpp/undated/mariage_et_divorce.pdf"
 ---
 LA PAROLE PARLÉE
 

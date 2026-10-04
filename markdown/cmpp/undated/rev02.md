@@ -72,6 +72,7 @@ bible_refs:
   - "Matthieu 17"
   - "Apocalypse 21:23"
   - "Marc 11:22"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev02.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

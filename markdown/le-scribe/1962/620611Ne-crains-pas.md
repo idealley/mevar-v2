@@ -66,6 +66,7 @@ bible_refs:
   - "Jean 8:42"
   - "Jean 20:17"
 original: "branham/1962/62-0611"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620611Ne-crains-pas.pdf"
 ---
 *C'est Moi, n'ayez pas peur* (11 juin 1962, soir)
 

@@ -51,6 +51,7 @@ bible_refs:
   - "Apocalypse 6:9"
   - "Hébreux 13:8"
 original: "branham/1960/60-0306"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600306Commencement.pdf"
 ---
 **1.** [Prière pour la suite de la réunion] …
 

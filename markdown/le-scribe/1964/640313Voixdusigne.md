@@ -77,6 +77,7 @@ bible_refs:
   - "Jean 15:5"
   - "Actes 3:6"
 original: "branham/1964/64-0313"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640313Voixdusigne.pdf"
 ---
 *Résumé de : “La Voix du Signe” (13 mars 1964, soir)*
 

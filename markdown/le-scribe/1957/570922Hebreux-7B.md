@@ -55,6 +55,7 @@ bible_refs:
   - "Actes 2:38"
   - "Actes 19"
 original: "branham/1957/57-0922E"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570922Hebreux-7B.pdf"
 ---
 *Résumé de!: “Hébreux, chapitre 7, deuxième partie” (22 septembre 1957, soir)*
 

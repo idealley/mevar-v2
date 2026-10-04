@@ -80,6 +80,7 @@ bible_refs:
   - "2 Rois 20"
   - "Matthieu 10:37"
 original: "branham/1957/57-1006"
+local_pdf: "https://files.mevar.org/le-scribe/1957/571006Hebreux-Q%26R-3.pdf"
 ---
 **Résumé de!: “Hébreux, questions et réponses, troisième partie” (6 Octobre 1957, soir)**
 

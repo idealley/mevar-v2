@@ -45,6 +45,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 53:5"
 original: "branham/1955/55-0807E"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550807bConduite-Esprit.pdf"
 ---
 **1.** Lisons Luc 2:25-30
 

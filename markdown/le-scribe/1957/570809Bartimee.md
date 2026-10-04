@@ -51,6 +51,7 @@ bible_refs:
   - "Romains 8:35"
   - "Jean 6:24"
 original: "branham/1957/57-0809"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570809Bartimee.pdf"
 ---
 Résumé de : “L’aveugle Bartimée” (9.08.1957)
 

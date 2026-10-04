@@ -212,6 +212,7 @@ bible_refs:
   - "1 Jean 4:6"
   - "Jean 8:47"
   - "Apocalypse 22:17,20-21"
+local_pdf: "https://files.mevar.org/cmpp/undated/questions_reponses_ef.pdf"
 ---
 # Des personnes interrogent… Dieu répond par sa Parole
 

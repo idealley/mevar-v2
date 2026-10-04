@@ -64,6 +64,7 @@ bible_refs:
   - "Matthieu 9:23-24"
   - "Marc 8:23"
 original: "branham/1957/57-0308"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570308Bon-berger.pdf"
 ---
 Résumé de : “ Le bon Berger du troupeau” (8.03.1957)
 

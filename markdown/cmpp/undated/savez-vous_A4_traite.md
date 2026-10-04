@@ -42,6 +42,7 @@ bible_refs:
   - "Malachie 4:6"
   - "Actes 3:21"
   - "Apocalypse 3:22"
+local_pdf: "https://files.mevar.org/cmpp/undated/savez-vous_A4_traite.pdf"
 ---
 SAVEZ-VOUS QUE…?
 

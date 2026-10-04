@@ -42,6 +42,7 @@ bible_refs:
   - "Actes 27:23"
   - "Jean 14:1"
 original: "branham/1950/50-0713"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500713Voix-Ange.pdf"
 ---
 **1.** Ce soir, ce sera notre première ligne de prière pour les malades. Seul Dieu peut guérir, et nous ne pouvons que prier. Priez pour moi tandis que je prie pour les autres. A l'âge de sept ans [septembre 1916], l'Ange m'a parlé dans un tourbillon depuis un buisson, me disant de ne pas boire, ni fumer, ni souiller mon corps en aucune façon, car j'aurais une tâche à accomplir. Mes parents, qui étaient Catholiques, n'ont pas attaché d'importance à cela. Quatre jours plus tard, un sentiment étrange est venu sur moi, et j'ai vu un pont en travers de la rivière, à un endroit où il n'y avait encore rien. J'ai vu 16 hommes en tomber. Et 22 ans plus tard, un pont a été construit à cet endroit, et 16 hommes sont morts. Cela ne vient pas de moi, et je ne peux dire que ce que Dieu me montre.
 

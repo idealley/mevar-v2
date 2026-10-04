@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 25:40"
   - "Jean 14:19"
 original: "branham/1965/65-0117"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650117Paradoxe.pdf"
 ---
 *Un paradoxe* (17 janvier 1965, après-midi)
 

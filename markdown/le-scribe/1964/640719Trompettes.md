@@ -84,6 +84,7 @@ bible_refs:
   - "Hébreux 4:12"
   - "Luc 17:30"
 original: "branham/1964/64-0719M"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640719Trompettes.pdf"
 ---
 **Résumé de : “La Fête des Trompettes” (19 juillet 1964, matin)**
 

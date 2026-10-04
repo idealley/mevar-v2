@@ -38,6 +38,7 @@ bible_refs:
   - "Jean 6:54"
   - "1 Corinthiens 11:27,29"
 original: "branham/1962/62-0714"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620714Son-confus.pdf"
 ---
    _____________________________________________________
 

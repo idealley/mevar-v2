@@ -65,6 +65,7 @@ bible_refs:
   - "Actes 8:14"
   - "1 Corinthiens 12"
   - "Galates 1:8"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie2no5.pdf"
 ---
 SERIE 2 N° 5
 

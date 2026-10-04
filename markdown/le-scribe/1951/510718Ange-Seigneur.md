@@ -58,6 +58,7 @@ bible_refs:
   - "Joël 2:30"
   - "Exode 13:21"
 original: "branham/1951/51-0718"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510718Ange-Seigneur.pdf"
 ---
 **1.** Merci à cette sœur de Cleveland pour son témoignage de guérison. Vous avez cru ce que j’avais dit, sinon vous seriez morte. Dieu ne se trompe jamais. Après les réunions de New-York, je partirai pour l’Afrique. Je serai à Johannesburg le 4 octobre. J’espère être à Jérusalem vers Noël. Les églises scandinaves ont envoyé un million de Nouveaux Testaments à ces Juifs qui disent : “Montrez ce Jésus faire le signe du prophète, et nous l’accepterons comme Messie”.
 

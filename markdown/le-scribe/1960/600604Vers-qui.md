@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 5:19"
   - "Matthieu 18:20"
 original: "branham/1960/60-0604"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600604Vers-qui.pdf"
 ---
 **1.** Je suis heureux de la présence du frère Ruddell et de son église. Il est comme un fils. J’ai travaillé avec son père. Après avoir suivi l’école biblique, cela n’a pas été facile pour lui à cause de sa timidité, et maintenant on voit le fruit de ses efforts, et ce n’est encore qu’un début.
 

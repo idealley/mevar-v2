@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 20:21"
 original: "branham/1958/58-0530"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580530Foi-eprouvee.pdf"
 ---
 Résumé de : “Une foi éprouvée par le temps” (30 mai 1958, soir)
 

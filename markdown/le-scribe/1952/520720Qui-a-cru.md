@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 1:49"
 original: "branham/1952/52-0720E"
+local_pdf: "https://files.mevar.org/le-scribe/1952/520720Qui-a-cru.pdf"
 ---
 **“Qui a cru notre à ce qui nous était annoncé ?” (20.07.1952)**
 

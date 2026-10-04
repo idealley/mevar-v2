@@ -13,6 +13,7 @@ themes:
   - "manuel"
 pdf_url: "http://cmpp.ch/aide_au_pliage_du_traite.pdf"
 llm_cleaned: true
+local_pdf: "https://files.mevar.org/cmpp/undated/aide_au_pliage_du_traite.pdf"
 ---
 Aide pour le pliage du traité
 

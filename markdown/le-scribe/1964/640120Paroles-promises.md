@@ -50,6 +50,7 @@ bible_refs:
   - "Genèse 15:13-14"
   - "Nombres 12:11-16"
 original: "branham/1964/64-0120"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640120Paroles-promises.pdf"
 ---
 *Ses infaillibles paroles de promesses*
 *His Unfailing Words of Promise*

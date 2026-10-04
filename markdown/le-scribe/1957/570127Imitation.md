@@ -46,6 +46,7 @@ bible_refs:
   - "Juges 16:3"
   - "Matthieu 11:29-30"
 original: "branham/1957/57-0127A"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570127Imitation.pdf"
 ---
 *Résumé de : “L’imitation du christianisme” (27 janvier 1957)*
 

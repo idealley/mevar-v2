@@ -71,6 +71,7 @@ bible_refs:
   - "Jean 2:19"
   - "Job 1:21"
 original: "branham/1965/65-0410"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650410Sceau-Paque.pdf"
 ---
 Résumé de : “Le Sceau de Pâque” [10 avril 1965, matin)
 

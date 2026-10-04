@@ -60,6 +60,7 @@ bible_refs:
   - "Romains 4:17"
   - "Psaumes 46:2"
 original: "branham/1959/59-1227E"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591227bSuper-sens.pdf"
 ---
 **Résumé de!: “Un Super-Sens” (27 décembre 1959, soir)**
 

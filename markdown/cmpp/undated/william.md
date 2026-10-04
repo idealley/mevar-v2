@@ -70,6 +70,7 @@ bible_refs:
   - "Actes 3:22,23"
   - "Matthieu 24:14"
   - "Hébreux 12:25"
+local_pdf: "https://files.mevar.org/cmpp/undated/william.pdf"
 ---
 WILLIAM BRANHAM
 

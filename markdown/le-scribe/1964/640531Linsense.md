@@ -51,6 +51,7 @@ bible_refs:
   - "Malachie 3:1"
   - "Matthieu 24:24"
 original: "branham/1964/64-0531"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640531Linsense.pdf"
 ---
 **L'INSENSE**
 

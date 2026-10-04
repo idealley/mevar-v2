@@ -12,6 +12,7 @@ bible_refs:
   - "2 Corinthiens 12:11"
   - "1 Corinthiens 1:18"
   - "Matthieu 24:24"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie4no6.pdf"
 ---
     SERIE 4, N° 6
 

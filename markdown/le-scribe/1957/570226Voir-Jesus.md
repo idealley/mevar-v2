@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 6:44,37"
   - "Jean 5:24"
 original: "branham/1957/57-0226"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570226Voir-Jesus.pdf"
 ---
 *Nous voudrions voir Jésus* (26.02.1957)
 

@@ -63,6 +63,7 @@ bible_refs:
   - "Galates 2:7-9"
   - "Marc 12:41-44"
   - "1 Samuel 30:24,25"
+local_pdf: "https://files.mevar.org/cmpp/1973/lc_janvier_1973.pdf"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

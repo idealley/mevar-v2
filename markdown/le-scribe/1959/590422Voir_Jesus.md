@@ -56,6 +56,7 @@ bible_refs:
   - "Luc 12:8"
   - "Jean 5:24"
 original: "branham/1959/59-0422"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590422Voir_Jesus.pdf"
 ---
 “Nous voudrions voir Jésus” (22 avril 1959)
 

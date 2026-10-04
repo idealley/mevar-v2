@@ -70,6 +70,7 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 12:7-9"
   - "Apocalypse 12:1-9"
+local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux3.pdf"
 ---
 BROCHURE N° 3
 

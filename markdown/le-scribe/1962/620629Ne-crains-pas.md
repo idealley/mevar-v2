@@ -75,6 +75,7 @@ bible_refs:
   - "Joël 2:25"
   - "Luc 17:28-30"
 original: "branham/1962/62-0629"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620629Ne-crains-pas.pdf"
 ---
 *Résumé de!: “N’ayez pas peur, c’est Moi” (29 juin 1962, soir)*
 

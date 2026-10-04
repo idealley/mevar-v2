@@ -70,6 +70,7 @@ bible_refs:
   - "Malachie 4:5"
   - "1 Rois 17"
   - "Jean 3:13"
+local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux9.pdf"
 ---
 BROCHURE N° 9
 

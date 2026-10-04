@@ -71,6 +71,7 @@ bible_refs:
   - "Matthieu 16:24"
   - "Jean 5:19"
 original: "branham/1963/63-0123"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630123Identification.pdf"
 ---
 **Résumé de!: “Identification” (23 Janvier 1963, soir)**
 

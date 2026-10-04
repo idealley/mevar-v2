@@ -89,6 +89,7 @@ bible_refs:
   - "Marc 6:5-6"
   - "Actes 3:6"
 original: "branham/1963/63-1110E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631110bCelui-en-vous.pdf"
 ---
 **1.** [Prière].
 

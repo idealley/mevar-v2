@@ -71,6 +71,7 @@ bible_refs:
   - "Psaumes 24:7"
   - "Hébreux 1:13"
 original: "branham/1957/57-0420"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570420Tombeau.pdf"
 ---
 **Résumé de!: “La mise au tombeau” (20 avril 1957, soir)**
 

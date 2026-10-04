@@ -75,6 +75,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Jean 16:28"
 original: "branham/1962/62-0724"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620724Voir-Jesus.pdf"
 ---
 *Résumé de!: “Nous voudrions voir Jésus” (24 juillet 1962, soir)*
 

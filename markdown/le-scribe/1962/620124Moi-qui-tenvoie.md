@@ -75,6 +75,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jonas 2:5"
 original: "branham/1962/62-0124"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620124Moi-qui-tenvoie.pdf"
 ---
 **Résumé de!: “N’est-ce pas moi qui t’envoie!?” (24 janvier 1962, soir)**
 

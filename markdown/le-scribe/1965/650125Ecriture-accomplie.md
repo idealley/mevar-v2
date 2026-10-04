@@ -41,6 +41,7 @@ bible_refs:
   - "Ésaïe 61:1-2"
   - "Luc 17:28,30"
 original: "branham/1965/65-0125"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650125Ecriture-accomplie.pdf"
 ---
 Résumé de : “Aujourd'hui cette Ecriture est accomplie” (25 Janvier 1965, soir)
 

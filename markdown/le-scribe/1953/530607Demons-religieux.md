@@ -67,6 +67,7 @@ bible_refs:
   - "Matthieu 27:52-53"
   - "Éphésiens 4:8"
 original: "branham/1953/53-0609A"
+local_pdf: "https://files.mevar.org/le-scribe/1953/530607Demons-religieux.pdf"
 ---
 **1.** [Prière].
 

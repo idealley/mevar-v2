@@ -61,6 +61,7 @@ bible_refs:
   - "Marc 16:17"
   - "Marc 15:30"
 original: "branham/1958/58-0324"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580328Ecoutez-le.pdf"
 ---
 *Résumé de : “Ecoutez-le” (28 mars 1958, soir)*
 

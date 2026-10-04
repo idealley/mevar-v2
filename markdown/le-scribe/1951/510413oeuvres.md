@@ -57,6 +57,7 @@ bible_refs:
   - "2 Rois 3"
   - "Psaumes 42:2"
 original: "branham/1951/51-0413"
+local_pdf: "https://files.mevar.org/le-scribe/1951/510413oeuvres.pdf"
 ---
 **LES ŒUVRES QUE JE FAIS RENDENT TÉMOIGNAGE DE MOI**
 *WORKS THAT I DO BEAR WITNESS OF ME*

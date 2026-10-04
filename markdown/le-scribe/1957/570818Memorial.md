@@ -51,6 +51,7 @@ bible_refs:
   - "Marc 10:38"
   - "Jean 5:24"
 original: "branham/1957/57-0818"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570818Memorial.pdf"
 ---
 **1.** … Je suis revenu à la maison pour chasser l'écureuil à cette époque de l'année. J'ai besoin de me reposer. Depuis notre dernière réunion, je suis passé de 75 kg à 67 kg, et je flotte dans mes vêtements ! Une sœur désirait perdre autant de poids : je lui ai conseillé de prêcher ! Mais nous en aurons bientôt fini avec les épreuves.
 

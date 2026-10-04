@@ -59,6 +59,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Hébreux 10:26"
   - "Jean 5:24"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie3no12.pdf"
 ---
 SERIE 3 N° 12
 

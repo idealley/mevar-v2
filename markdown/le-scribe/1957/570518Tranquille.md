@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 10:32"
   - "Luc 12:8"
 original: "branham/1957/57-0518"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570518Tranquille.pdf"
 ---
 **1.** Rappelez-moi de prier sur ces mouchoirs avant la prière pour les malades. Vous pouvez nous écrire à Jeffersonville si vous désirez recevoir un bout de tissu. Nous en envoyons gratuitement un millier par semaine. Vous pouvez garder ce petit tissu dans votre Bible. Ce n’est pas un moyen de collecter des adresses pour ensuite demander de l’argent, car nous n’avons pas de programme radio ou télé à financer. C’est conforme à Actes 19:12.
 

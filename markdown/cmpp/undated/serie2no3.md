@@ -53,6 +53,7 @@ bible_refs:
   - "Actes 20"
   - "Apocalypse 22:19"
   - "Jean 5:19"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie2no3.pdf"
 ---
 SERIE 2 N° 3
 

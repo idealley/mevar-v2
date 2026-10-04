@@ -73,6 +73,7 @@ bible_refs:
   - "Malachie 4"
   - "Malachie 4:6"
 original: "branham/1963/63-1214"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631214Bethlehem.pdf"
 ---
 **Résumé de!: “Pourquoi la petite ville de Bethléhem ?” (14 décembre 1963 matin)**
 

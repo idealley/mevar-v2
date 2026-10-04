@@ -47,6 +47,7 @@ bible_refs:
   - "Matthieu 8"
   - "Ésaïe 53:5"
 original: "branham/1958/58-0518"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580518Foi-eprouvee.pdf"
 ---
 **UNE FOI EPROUVEE DONNE DE BONS FRUITS**
 

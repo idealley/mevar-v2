@@ -47,6 +47,7 @@ bible_refs:
   - "Néhémie 5"
   - "Jean 5:19"
 original: "branham/1957/57-0310E"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570310Ecoutez.pdf"
 ---
 **Résumé de : “Ecoutez-le” (10.03.1957)**
 

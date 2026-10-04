@@ -135,6 +135,7 @@ bible_refs:
   - "Jean 5:24"
   - "Actes 19:12"
 original: "branham/1960/60-1218"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601218Son%2520confus.pdf"
 ---
 Résumé de “Le Son confus” (18.12.1960)
 

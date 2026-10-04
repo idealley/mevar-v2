@@ -72,6 +72,7 @@ bible_refs:
   - "Actes 2:27"
   - "Luc 7:11-17"
 original: "branham/1962/62-1230M"
+local_pdf: "https://files.mevar.org/le-scribe/1962/621230aAbsolu.pdf"
 ---
 **Résumé de!: “L’Absolu” (30 décembre 1962, matin)**
 

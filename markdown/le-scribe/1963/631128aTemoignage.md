@@ -47,6 +47,7 @@ bible_refs:
   - "1 Samuel 24"
   - "Nombres 12:1-16"
 original: "branham/1963/63-1128M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631128aTemoignage.pdf"
 ---
 **Résumé de!: “Témoignage” (28 novembre 1963 matin)**
 

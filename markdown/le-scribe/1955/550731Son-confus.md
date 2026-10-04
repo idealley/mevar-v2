@@ -59,6 +59,7 @@ bible_refs:
   - "Actes 7:55"
   - "Galates 2:20"
 original: "branham/1955/55-0731"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550731Son-confus.pdf"
 ---
 **1.** La réunion en Allemagne a été reportée d'une autre semaine, car le stade était pris. La semaine prochaine, nous serons à Campbellsville, avec des réunions de guérison. Nous partirons pour l'Allemagne à 11 heures du matin, et je prêcherai le lendemain à Francfort avant d'aller à Berlin où je rencontrerai Hal Herman, un ancien directeur de studio d'Hollywood qui prêche l'Evangile sous tente.
 

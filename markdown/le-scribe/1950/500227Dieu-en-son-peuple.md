@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 11:43"
   - "2 Corinthiens 5:19"
 original: "branham/1950/50-0227"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500227Dieu-en-son-peuple.pdf"
 ---
 **1.** Si je peux avoir votre confiance, il se passera quelque chose pendant la réunion, et vous comprendrez alors que Dieu est avec nous. La presse me qualifie de Médecin Divin, mais c’est Christ qui guérit. Et tout individu qui représente Christ représente aussi la guérison. Il faut que le Don soit selon les Ecritures. Si un Don vient de Dieu, alors Dieu le confirme. Il faut que Dieu le confirme, et pas seulement les hommes. Chacun de nous aura donc à répondre devant Dieu de son attitude durant les prochaines réunions.
 

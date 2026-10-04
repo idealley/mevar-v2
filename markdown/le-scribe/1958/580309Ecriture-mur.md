@@ -55,6 +55,7 @@ bible_refs:
   - "Matthieu 10:25"
   - "Matthieu 24:36"
 original: "branham/1958/58-0309M"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580309Ecriture-mur.pdf"
 ---
 **1.** Le sujet de ce soir sera : “L’Eglise part-elle avant la grande tribulations ?”. Il y a un débat à ce sujet. Les cartes de prière seront distribuées à 18 heures 30. [Prière]. Lisons Daniel 5:25 :
 

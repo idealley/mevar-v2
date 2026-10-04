@@ -41,6 +41,7 @@ bible_refs:
   - "1 Corinthiens 14:32"
   - "1 Corinthiens 14:27"
 original: "branham/1958/58-1007"
+local_pdf: "https://files.mevar.org/le-scribe/1958/581006Ordre-eglise.pdf"
 ---
 *L'ordre dans l'église* (6 octobre 1958)
 

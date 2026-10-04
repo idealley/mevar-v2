@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 11"
   - "Malachie 3"
   - "Hébreux 11"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie1no11.pdf"
 ---
 SERIE 1 N° 11
 

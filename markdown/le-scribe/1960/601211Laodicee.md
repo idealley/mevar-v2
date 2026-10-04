@@ -60,6 +60,7 @@ bible_refs:
   - "Luc 12:32"
   - "Apocalypse 2:14"
 original: "branham/1960/60-1211E"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601211Laodicee.pdf"
 ---
 **L'AGE DE L'EGLISE DE LAODICEE**
 *THE LAODICEAN CHURCH AGE*

@@ -54,6 +54,7 @@ bible_refs:
   - "Exode 15:26"
   - "Ésaïe 53:5"
 original: "branham/1950/50-0815"
+local_pdf: "https://files.mevar.org/le-scribe/1950/500815Attitude.pdf"
 ---
 **QUELLE ATTITUDE ET QUI EST DIEU ?**
 *ATTITUDE AND WHOS IS GOD ?*

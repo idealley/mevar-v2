@@ -55,6 +55,7 @@ bible_refs:
   - "Ézéchiel 16"
   - "Marc 16:17-18"
 original: "branham/1963/63-0607"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630607Pas-peur.pdf"
 ---
 **Résumé de!: “N’ayez pas peur” (7 Juin 1963, soir)**
 

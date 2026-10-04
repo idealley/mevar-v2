@@ -48,6 +48,7 @@ bible_refs:
   - "Romains 14:17"
   - "1 Pierre 2"
   - "2 Corinthiens 13:8"
+local_pdf: "https://files.mevar.org/cmpp/2023/exhortation_annee_2023_A5_gc.pdf"
 ---
 ## EXHORTATION
 ## ANNEE 2023

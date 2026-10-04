@@ -73,6 +73,7 @@ bible_refs:
   - "Actes 2:27"
   - "Hébreux 13:8"
 original: "branham/1962/62-0610E"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620610Convaincu.pdf"
 ---
 **Résumé de!: “Convaincu, puis impliqué” (10 juin 1962, soir)**
 

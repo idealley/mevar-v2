@@ -79,6 +79,7 @@ bible_refs:
   - "Matthieu 12:39"
   - "Luc 8:43-48"
 original: "branham/1962/62-0218"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620218Perseverance.pdf"
 ---
 **Résumé de!: “Persévérance” (18 février 1962, matin)**
 

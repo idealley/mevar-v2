@@ -53,6 +53,7 @@ bible_refs:
   - "Éphésiens 1:4-5"
   - "Galates 4:1-5"
 original: "branham/1955/55-0227A"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550227Position.pdf"
 ---
 *Résumé de : “Position d’un croyant en Christ” (27 février 1955, après-midi)*
 

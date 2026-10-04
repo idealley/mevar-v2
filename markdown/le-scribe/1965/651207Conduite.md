@@ -75,6 +75,7 @@ bible_refs:
   - "Matthieu 17:1-8"
   - "Apocalypse 9"
 original: "branham/1965/65-1207"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651207Conduite.pdf"
 ---
 **1.** Il est facile de bâtir un mur droit, mais nous bâtissons une maison, et construire les angles est difficile. [Prière]. Lisons Marc 10:17-22
 

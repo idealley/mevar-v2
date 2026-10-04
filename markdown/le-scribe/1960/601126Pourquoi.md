@@ -65,6 +65,7 @@ bible_refs:
   - "Matthieu 28:20"
   - "Hébreux 13:8"
 original: "branham/1960/60-1126"
+local_pdf: "https://files.mevar.org/le-scribe/1960/601126Pourquoi.pdf"
 ---
 **1.** [Prière] …
 **2.** Nous n’avons pas distribué de cartes de prière en prévision d’une séance de baptêmes

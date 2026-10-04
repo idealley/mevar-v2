@@ -60,6 +60,7 @@ bible_refs:
   - "Ésaïe 40:3"
   - "Matthieu 3:13-15"
   - "Matthieu 4:4"
+local_pdf: "https://files.mevar.org/cmpp/undated/quel_bapteme_A4_traite.pdf"
 ---
 Il doit y avoir une réponse ou une explication, parce que la Parole de Dieu est la Vérité (Jean 17.17) et cette Vérité doit nous être révélée personnellement, si nous sommes appelés à connaître le Seigneur Jésus-Christ et à être connus de Lui. Car Sa venue, pour enlever Son Epouse, est très proche.
 

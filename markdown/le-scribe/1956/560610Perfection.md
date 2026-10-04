@@ -67,6 +67,7 @@ bible_refs:
   - "Hébreux 10:15-17"
   - "1 Jean 3:3"
 original: "branham/1956/56-0610"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560610Perfection.pdf"
 ---
 **2.** Dimanche dernier, j'ai abordé Hébreux 10:1 [“En effet, la loi, qui possède une ombre des biens à venir, et non l'exacte représentation des choses, ne peut jamais, par les mêmes sacrifices qu'on offre perpétuellement chaque année, amener les assistants à la perfection.”]. Invitez vos amis à la réunion d'Indianapolis demain. C'est une convention préparée par une petite organisation. Le 23 juin je serai à une réunion des Hommes d'Affaires à Minneapolis et je rencontrerai le Révérend Gordon Peterson. Il y aura Roberts, Hicks et d'autres. Nous attendrons que le Saint-Esprit nous utilise comme il voudra. Le 15 septembre, après une petite tournée dans cinq villes, nous serons à Azusa Street [à Los Angeles] pour le cinquantenaire de l'effusion du Saint-Esprit aux USA.
 

@@ -87,6 +87,7 @@ bible_refs:
   - "Matthieu 8:8"
   - "1 Corinthiens 14:24"
 original: "branham/1963/63-0627"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630627Jesus-le-meme.pdf"
 ---
 *Résumé de!: “Jésus-Christ est le même hier, aujourd’hui et éternellement” (27 Juin 1963, soir)*
 

@@ -71,6 +71,7 @@ bible_refs:
   - "Marc 16"
   - "Hébreux 4:12"
 original: "branham/1963/63-0825E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630825bFoi-parfaite.pdf"
 ---
 **LA FOI PARFAITE**
 

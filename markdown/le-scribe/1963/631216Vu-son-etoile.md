@@ -61,6 +61,7 @@ bible_refs:
   - "2 Pierre 1:20"
   - "Matthieu 5:18"
 original: "branham/1963/63-1216"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631216Vu-son-etoile.pdf"
 ---
 **Résumé de!: “Nous avons vu son étoile et nous sommes venus l'adorer” (16 décembre 1963 soir)**
 

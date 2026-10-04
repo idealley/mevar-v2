@@ -60,6 +60,7 @@ bible_refs:
   - "Apocalypse 22:11"
   - "2 Rois 7:1-5"
 original: "branham/1948/48-0304"
+local_pdf: "https://files.mevar.org/le-scribe/1948/480304ange-de-Dieu.pdf"
 ---
 *Résumé de!: “L’Ange de Dieu” (4 mars 1948, soir)*
 

@@ -58,6 +58,7 @@ bible_refs:
   - "Matthieu 18:20"
   - "Marc 9:23"
 original: "branham/1960/60-0713"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600713Bartimee.pdf"
 ---
 **Résumé de : "L'aveugle Bartimée" (le 13 juillet 1960)**
 

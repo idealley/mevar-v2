@@ -50,6 +50,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 7:37"
 original: "branham/1963/63-1201E"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631201bEncore-une-fois.pdf"
 ---
 **Résumé de!: “Juste encore une fois, Seigneur” (1er décembre 1963 soir)**
 

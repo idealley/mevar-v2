@@ -64,6 +64,7 @@ bible_refs:
   - "Jean 6:37"
   - "1 Corinthiens 12:13"
 original: "branham/1960/60-0229"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600229Tempete.pdf"
 ---
 “La tempête annoncée” (le 28 février 1960)
 

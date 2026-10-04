@@ -72,6 +72,7 @@ bible_refs:
   - "Luc 8:43-48"
   - "Hébreux 4:15"
 original: "branham/1964/64-0304"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640304Voir-Jesus.pdf"
 ---
 **Résumé de!: “Messieurs, nous voudrions voir Jésus” (4 mars1964, soir)**
 

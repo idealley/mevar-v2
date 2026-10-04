@@ -73,6 +73,7 @@ bible_refs:
   - "Jean 15:7"
   - "1 Corinthiens 5:8"
 original: "branham/1963/63-0714M"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630714Pourquoi-crier.pdf"
 ---
 **Résumé de!: “Pourquoi crier ? Parle !” (14 juillet 1963, matin)**
 

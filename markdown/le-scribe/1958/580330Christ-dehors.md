@@ -45,6 +45,7 @@ bible_refs:
   - "Actes 19:13"
   - "2 Rois 5:27"
 original: "branham/1958/58-0330E"
+local_pdf: "https://files.mevar.org/le-scribe/1958/580330Christ-dehors.pdf"
 ---
 **1.** [Prière]. Ces réunions ont été parmi les plus formidables par la coopération. Le Saint-Esprit agit quand nous sommes un même cœur. Je suis épuisé, je n’ai plus de voix, et je vais prendre trois semaines de vacances. Je remercie tous ceux qui ont coopéré avec moi, et ceux qui ont mis cette salle à notre disposition. Priez pour moi car je vais aller en Afrique. Merci de votre offrande pour aider Billy à m’accompagner outre-mer.
 

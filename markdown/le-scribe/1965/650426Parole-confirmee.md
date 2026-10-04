@@ -67,6 +67,7 @@ bible_refs:
   - "Actes 19:12"
   - "Actes 5:15"
 original: "branham/1965/65-0426"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650426Parole-confirmee.pdf"
 ---
 **LA PAROLE CONFIRMEE DE DIEU**
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Actes 12:7"
   - "Marc 5:24-34"
 original: "branham/1963/63-0605"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630605Plus-que-Salomon.pdf"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (5 Juin 1963, soir)*
 

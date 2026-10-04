@@ -57,6 +57,7 @@ bible_refs:
   - "Romains 1:16"
   - "1 Jean 2:15"
 original: "branham/1955/55-0311"
+local_pdf: "https://files.mevar.org/le-scribe/1955/550311Sceau-antichrist.pdf"
 ---
 **1.** [Prière]. Depuis notre dernière rencontre, le Seigneur a fait des choses glorieuses au cours de nos déplacements, des guérisons et des conversions. Je viens de saluer le fils du Dr. Keeford. Dix réunions sont prévues, et nous remettons tout au Seigneur. Elles sont soutenues par les Hommes d'Affaires du Plein Evangile, la seule organisation dont je fasse partie. Je travaille dans les Affaires du Seigneur ! J'appartiens aussi à la Pastorale de Louisville et à d'autres petites choses, mais pas à une dénomination, car nous sommes tous frères.
 

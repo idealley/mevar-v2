@@ -65,6 +65,7 @@ bible_refs:
   - "Actes 4:13"
   - "Marc 5"
 original: "branham/1957/57-0825M"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570825Hebreux-2A.pdf"
 ---
 **Résumé de!: “Hébreux, chapitre 2, première partie” (25 août 1957, matin)**
 

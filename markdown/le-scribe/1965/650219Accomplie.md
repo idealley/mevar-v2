@@ -87,6 +87,7 @@ bible_refs:
   - "Luc 17:28,30"
   - "Luc 17"
 original: "branham/1965/65-0219"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650219Accomplie.pdf"
 ---
 **AUJOURD'HUI CETTE ECRITURE EST ACCOMPLIE**
 *THIS DAY THIS SCRIPTURE IS FULFILLED*

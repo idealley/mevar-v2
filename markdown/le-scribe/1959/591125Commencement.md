@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 14:19"
   - "Jean 5:19"
 original: "branham/1959/59-1125"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591125Commencement.pdf"
 ---
 “Il n’en était pas ainsi au commencement” (25 novembre 1959)
 

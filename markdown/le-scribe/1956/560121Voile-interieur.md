@@ -49,6 +49,7 @@ bible_refs:
   - "Ézéchiel 36:26-27"
   - "Apocalypse 11:15"
 original: "branham/1956/56-0121"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560121Voile-interieur.pdf"
 ---
 **LE VOILE INTERIEUR**
 *THE INTER VEIL*

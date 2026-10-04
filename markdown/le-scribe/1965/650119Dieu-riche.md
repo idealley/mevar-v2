@@ -59,6 +59,7 @@ bible_refs:
   - "Luc 17:28,30"
   - "Malachie 4:6"
 original: "branham/1965/65-0119"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650119Dieu-riche.pdf"
 ---
 **Résumé de : “Le Dieu qui est riche en miséricorde” (19 Janvier 1965, soir)**
 

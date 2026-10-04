@@ -75,6 +75,7 @@ bible_refs:
   - "Apocalypse 21:3,4"
   - "Apocalypse 11"
   - "Ésaïe 9:6"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie4no10.pdf"
 ---
 SERIE 4, N° 10
 

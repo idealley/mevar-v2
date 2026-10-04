@@ -111,6 +111,7 @@ bible_refs:
   - "Apocalypse 19:11-16"
   - "Amos 3:7"
 original: "branham/1963/63-0319"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630319DeuxiemeSceau.pdf"
 ---
 **Résumé de!: “Deuxième Sceau” (19 mars 1963 soir)**
 

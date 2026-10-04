@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 5"
   - "Lévitique 25"
   - "1 Pierre 1:18-20"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev14.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

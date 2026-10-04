@@ -39,6 +39,7 @@ bible_refs:
   - "Jean 3:3"
   - "Jean 11:25"
 original: "branham/1963/63-1118"
+local_pdf: "https://files.mevar.org/le-scribe/1963/631118Funerailles.pdf"
 ---
 *Service funèbre de Garnett Peake*
 *18 novembre 1963, lundi après-midi, Campbellsville (Kentucky)*

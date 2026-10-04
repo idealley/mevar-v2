@@ -53,6 +53,7 @@ bible_refs:
   - "Romains 11:29"
   - "Nombres 16:11"
   - "Hébreux 4:1-2"
+local_pdf: "https://files.mevar.org/cmpp/undated/votre_attention_A4.pdf"
 ---
 VOTRE ATTENTION S.V.P.!
 

@@ -43,6 +43,7 @@ bible_refs:
   - "1 Corinthiens 11:27-29"
   - "1 Corinthiens 11:30-34"
 original: "branham/1965/65-1212"
+local_pdf: "https://files.mevar.org/le-scribe/1965/651212Communion.pdf"
 ---
 **1.** Nous en avons vu assez pour savoir que nous devons nous abandonner à Dieu et le servir. Nous voyons aussi que le monde devient fou. C'est le temps de la fin, et notre vie est si courte, alors que Dieu est infini, et qu’il n'a ni commencement ni fin.
 

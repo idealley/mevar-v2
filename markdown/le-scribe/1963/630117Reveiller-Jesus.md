@@ -83,6 +83,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Matthieu 13:58"
 original: "branham/1963/63-0117"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630117Reveiller-Jesus.pdf"
 ---
 **Résumé de!: “Réveiller Jésus” (17 Janvier 1963)**
 

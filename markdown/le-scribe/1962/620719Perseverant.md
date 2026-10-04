@@ -66,6 +66,7 @@ bible_refs:
   - "Jean 9"
   - "Hébreux 4:15"
 original: "branham/1962/62-0719E"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620719Perseverant.pdf"
 ---
 *Persévérant (ou Persévérance)*
 *19 juillet 1962, jeudi soir, Salem (Oregon)*

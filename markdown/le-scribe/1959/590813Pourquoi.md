@@ -56,6 +56,7 @@ bible_refs:
   - "Jacques 5:15"
   - "Daniel 10:13"
 original: "branham/1959/59-0813"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590813Pourquoi.pdf"
 ---
 “Pourquoi ?” (13 août 1959)
 

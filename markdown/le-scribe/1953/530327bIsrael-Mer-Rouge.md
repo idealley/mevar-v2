@@ -74,6 +74,7 @@ bible_refs:
   - "Actes 2:38"
   - "Matthieu 10:38"
 original: "branham/1953/53-0327"
+local_pdf: "https://files.mevar.org/le-scribe/1953/530327bIsrael-Mer-Rouge.pdf"
 ---
 **“Israël et la Mer Rouge (b)”** - *(27 mars 1953, soir)*
 

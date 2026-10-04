@@ -64,6 +64,7 @@ bible_refs:
   - "Jean 15:5"
   - "Apocalypse 12:11"
 original: "branham/1959/59-0415E"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590415Abraham.pdf"
 ---
 **LA FOI D'ABRAHAM**
 *FAITHFUL ABRAHAM*

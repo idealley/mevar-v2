@@ -57,6 +57,7 @@ bible_refs:
   - "Philippiens 1:17"
   - "Actes 20:29"
 original: "branham/1957/57-0309B"
+local_pdf: "https://files.mevar.org/le-scribe/1957/570309Restaure.pdf"
 ---
 *Je restaurerai* (9.03.1957)
 

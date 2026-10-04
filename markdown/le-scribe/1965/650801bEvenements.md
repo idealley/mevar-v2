@@ -69,6 +69,7 @@ bible_refs:
   - "Deutéronome 18:15"
   - "Marc 5:30"
 original: "branham/1965/65-0801E"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650801bEvenements.pdf"
 ---
 **Résumé de : “Les évènements éclairés par la prophétie” (1er août 1965, soir)**
 

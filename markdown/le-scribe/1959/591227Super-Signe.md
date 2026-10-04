@@ -70,6 +70,7 @@ bible_refs:
   - "Hébreux 11:10"
   - "Matthieu 4:4"
 original: "branham/1959/59-1227M"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591227Super-Signe.pdf"
 ---
 *Un Super-Signe*
 *A Super Sign*

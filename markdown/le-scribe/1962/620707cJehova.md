@@ -73,6 +73,7 @@ bible_refs:
   - "Genèse 22:8"
   - "Luc 8:43-48"
 original: "branham/1962/62-0707"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620707cJehova.pdf"
 ---
 **Résumé de!: “Jehova-Jiré . Troisième partie” (7 juillet 1962, soir)**
 

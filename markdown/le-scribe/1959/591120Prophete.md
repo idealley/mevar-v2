@@ -50,6 +50,7 @@ bible_refs:
   - "Marc 6:45"
   - "Psaumes 46:2"
 original: "branham/1959/59-1120"
+local_pdf: "https://files.mevar.org/le-scribe/1959/591120Prophete.pdf"
 ---
 “Un prophète comme Moïse” (20.11.1959)
 

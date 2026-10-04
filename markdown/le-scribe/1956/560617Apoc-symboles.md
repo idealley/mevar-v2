@@ -56,6 +56,7 @@ bible_refs:
   - "Romains 8:38,39"
   - "Psaumes 34:8"
 original: "branham/1956/56-0617"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560617Apoc-symboles.pdf"
 ---
 *Résumé de!: “Le livre de l'Apocalypse est écrit en symboles” (17 juin 1956, matin)*
 

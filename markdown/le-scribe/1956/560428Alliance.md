@@ -49,6 +49,7 @@ bible_refs:
   - "Luc 8:51"
   - "Marc 8:23"
 original: "branham/1956/56-0428"
+local_pdf: "https://files.mevar.org/le-scribe/1956/560428Alliance.pdf"
 ---
 **1.** [Prière]. Le Seigneur voulant, j'espère revenir avec une grande tente [allusion à la vision de la Tente de décembre 1955], et ainsi rester plus longtemps. A la réunion des Hommes d'Affaires du Plein Evangile, j'ai eu le plaisir de revoir les frères Arganbright, Gardner, Lee Braxton.
 

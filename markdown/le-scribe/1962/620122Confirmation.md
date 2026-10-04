@@ -60,6 +60,7 @@ bible_refs:
   - "Hébreux 11:26"
   - "Marc 5:25-34"
 original: "branham/1962/62-0122"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620122Confirmation.pdf"
 ---
 **Résumé de!: “Confirmation de l’ordre de mission” (22 janvier 1962, soir)**
 

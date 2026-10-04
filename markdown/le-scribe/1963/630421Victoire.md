@@ -50,6 +50,7 @@ bible_refs:
   - "1 Pierre 1:7"
   - "Genèse 32:27"
 original: "branham/1963/63-0421"
+local_pdf: "https://files.mevar.org/le-scribe/1963/630421Victoire.pdf"
 ---
 **Résumé de!: “Jour de victoire” (21 Avril 1963, matin)**
 

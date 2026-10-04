@@ -58,6 +58,7 @@ bible_refs:
   - "1 Corinthiens 3:17"
   - "Jacques 5:1,2"
   - "Romains 11:15-27"
+local_pdf: "https://files.mevar.org/cmpp/undated/rev10.pdf"
 ---
 WILLIAM MARRION BRANHAM
 

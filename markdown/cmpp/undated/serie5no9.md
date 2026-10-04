@@ -49,6 +49,7 @@ bible_refs:
   - "Malachie 4"
   - "Apocalypse 3"
   - "Apocalypse 21"
+local_pdf: "https://files.mevar.org/cmpp/undated/serie5no9.pdf"
 ---
 SERIE 5, N° 9
 

@@ -58,6 +58,7 @@ bible_refs:
   - "Éphésiens 4:30"
   - "Genèse 22"
 original: "branham/1959/59-0424A"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590424Abraham_fidele.pdf"
 ---
 “La foi d’Abraham” (24 avril 1959)
 

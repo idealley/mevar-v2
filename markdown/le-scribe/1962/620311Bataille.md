@@ -87,6 +87,7 @@ bible_refs:
   - "Daniel 2"
   - "Romains 8:37"
 original: "branham/1962/62-0311"
+local_pdf: "https://files.mevar.org/le-scribe/1962/620311Bataille.pdf"
 ---
 *Résumé de!: “La plus grande bataille jamais livrée” (11 mars 1962, matin)*
 

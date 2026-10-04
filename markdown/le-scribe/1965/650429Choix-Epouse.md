@@ -76,6 +76,7 @@ bible_refs:
   - "1 Samuel 4:21"
   - "Daniel 5"
 original: "branham/1965/65-0429E"
+local_pdf: "https://files.mevar.org/le-scribe/1965/650429Choix-Epouse.pdf"
 ---
 *Résumé de : “Le choix d'une Epouse” (29 avril 1965, après-midi)*
 

@@ -45,6 +45,7 @@ bible_refs:
   - "1 Rois 17:1-16"
   - "Jean 15:7"
 original: "branham/1959/59-0412A"
+local_pdf: "https://files.mevar.org/le-scribe/1959/590412Certain.pdf"
 ---
 *“Comptez sur Dieu” (12 avril 1959)*
 

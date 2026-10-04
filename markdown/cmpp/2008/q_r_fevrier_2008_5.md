@@ -45,6 +45,7 @@ bible_refs:
   - "1 Corinthiens 7:8-10"
   - "Michée 7:18-20"
   - "Hébreux 4:15-16"
+local_pdf: "https://files.mevar.org/cmpp/2008/q_r_fevrier_2008_5.pdf"
 ---
 ## Questions et réponses bibliques du site: http://www.cmpp.ch/jeune.htm
 

@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 5:19"
   - "Daniel 5:5,25"
 original: "branham/1960/60-0305"
+local_pdf: "https://files.mevar.org/le-scribe/1960/600305Pas-peur.pdf"
 ---
 **1.** [Prière] …
 

@@ -188,6 +188,7 @@ bible_refs:
   - "2 Pierre 3:16"
   - "2 Corinthiens 6:8"
   - "Galates 1:10"
+local_pdf: "https://files.mevar.org/cmpp/undated/mariage_frank.pdf"
 ---
 LE MARIAGE: PROBLEME ANCIEN
 

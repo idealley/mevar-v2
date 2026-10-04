@@ -75,6 +75,7 @@ bible_refs:
   - "Luc 8:43-48"
   - "Hébreux 4:15"
 original: "branham/1964/64-0306"
+local_pdf: "https://files.mevar.org/le-scribe/1964/640306PlusSalomon.pdf"
 ---
 **Résumé de!: “Il y a maintenant ici plus que Salomon” (6 mars 1964, soir)**
 
