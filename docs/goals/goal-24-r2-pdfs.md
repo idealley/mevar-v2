@@ -28,12 +28,15 @@ afraid of those links to disappear ».
      gitignored, downloaded by goals 01–02); CMPP's downloaded once from
      its `pdf_url` into `pdfs/cmpp/`;
    - uploaded to `mevar-files` as `<source>/<year>/<name>.pdf` when the
-     bucket does not already hold it with the same size;
+     bucket does not already hold the same bytes (its etag is the file's
+     MD5);
    - named in the work's `local_pdf` as
      `https://files.mevar.org/<source>/<year>/<name>.pdf` (the remote
      `pdf_url` stays, as AGENTS.md keeps every remote URL).
    Idempotent: a second run uploads nothing and changes no frontmatter. It
-   deletes nothing in the bucket.
+   deletes nothing in the bucket. A work whose PDF cannot be had fails the
+   run. It reads and sets frontmatter with `scripts/frontmatter.mjs`, which
+   90 now shares (Samuel, on this PR: name the helpers once).
 3. **The pages** read `local_pdf` before `pdf_url` already: no change.
 
 ## Acceptance evidence
@@ -46,3 +49,9 @@ afraid of those links to disappear ».
 ## Stop points
 
 - Nothing is deleted on R2 or in DNS by this goal.
+
+## Follow-up
+
+- 86, 87 and 88 keep their own variants of the frontmatter helpers that
+  `scripts/frontmatter.mjs` now names for 90 and 91. Found by goal 24's
+  review.

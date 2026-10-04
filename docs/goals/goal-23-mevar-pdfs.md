@@ -65,5 +65,6 @@ reader who wants to print or keep a sermon cannot.
 ## Follow-up
 
 - 90 reads frontmatter with the same small helpers as 86 and 88 (`field`,
-  `frontmatter`, `slug`); naming them once in a shared module touches
-  those two scripts, outside this goal. Found by goal 23's review.
+  `frontmatter`, `slug`). Goal 24 named `frontmatter`, `field` and
+  `setField` once, in `scripts/frontmatter.mjs`, for 90 and 91; 86, 87 and
+  88 still keep their variants. Found by goal 23's review.

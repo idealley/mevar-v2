@@ -32,32 +32,27 @@ async function run(cmd, args, opts) {
     catch (e) { if (!/429/.test(e.message) || wait > 64000) throw e; await new Promise((r) => setTimeout(r, wait)); }
   }
 }
+import { frontmatter, field, setField } from "./frontmatter.mjs";
 const root = path.resolve(import.meta.dirname, "..");
 const dry = process.argv.includes("--dry");
 const BUCKET = "mevar-files";
 const DOMAIN = "https://files.mevar.org";
 const SOURCES = ["branham", "le-scribe", "cmpp"];
 
-const frontmatter = (text) => text.match(/^---\n([\s\S]*?)\n---\n/)[1];
-const field = (fm, k) => { const m = fm.match(new RegExp(`^${k}: (.*)$`, "m")); return m ? JSON.parse(m[1]) : undefined; };
-function setField(text, key, value) {
-  const fm = frontmatter(text);
-  const lineRe = new RegExp(`^${key}: .*$`, "m");
-  const next = lineRe.test(fm) ? fm.replace(lineRe, `${key}: ${JSON.stringify(value)}`) : `${fm}\n${key}: ${JSON.stringify(value)}`;
-  return text.replace(fm, () => next);
-}
 const md5 = (file) => crypto.createHash("md5").update(fs.readFileSync(file)).digest("hex");
 
 // what the bucket holds under a prefix: key → etag
+// (the listing's promise is kept, so the workers share one call per prefix)
 const held = new Map();
-async function list(prefix) {
-  if (held.has(prefix)) return held.get(prefix);
+function list(prefix) {
+  if (!held.has(prefix)) held.set(prefix, listed(prefix));
+  return held.get(prefix);
+}
+async function listed(prefix) {
   const { stdout } = await run("cf", ["r2", "objects", "list", "--bucket-name", BUCKET, "--prefix", prefix, "--per-page", "1000"], { maxBuffer: 1 << 26 });
   const objects = JSON.parse(stdout);
   if (objects.length >= 1000) throw new Error(`${prefix}: 1000 objects or more, past one page`);
-  const m = new Map(objects.map((o) => [o.key, o.etag]));
-  held.set(prefix, m);
-  return m;
+  return new Map(objects.map((o) => [o.key, o.etag]));
 }
 
 // CMPP's PDF, downloaded once; refused unless it is a PDF
@@ -85,7 +80,8 @@ const queue = [...works];
 async function worker() {
   for (let w; (w = queue.shift()); ) {
     const file = path.join(root, "pdfs", w.source, `${w.rel}.pdf`);
-    // a PDF not held locally (all of CMPP's, two of Le Scribe's): downloaded once
+    // a PDF not held locally (on the first run, CMPP's 242 and two of Le
+    // Scribe's): downloaded once
     if (!fs.existsSync(file)) {
       downloaded++;
       if (dry) continue;
@@ -97,12 +93,13 @@ async function worker() {
       uploaded++;
       if (!dry) await run("cf", ["r2", "objects", "put", key, "--bucket-name", BUCKET, "--file", file, "--content-type", "application/pdf", "-q"], { maxBuffer: 1 << 24 });
     }
-    // each part of the path percent-encoded: two Le Scribe names hold a
-    // literal « %20 », one a « & »
+    // each part of the path percent-encoded: Le Scribe's names hold « & »
+    // (18) and a literal « %20 » (two)
     const text = setField(w.text, "local_pdf", `${DOMAIN}/${key.split("/").map(encodeURIComponent).join("/")}`);
     if (text !== w.text) { frontmatters++; if (!dry) fs.writeFileSync(path.join(root, w.md), text); }
   }
 }
 await Promise.all(Array.from({ length: 4 }, worker));
 console.log(`${works.length} works with a pdf_url; ${downloaded} downloaded, ${uploaded} uploaded, ${frontmatters} frontmatters${dry ? " (dry)" : ""}`);
-if (missing.length) console.log(`no PDF for ${missing.length}: ${missing.slice(0, 10).join(", ")}`);
+// every work must have its PDF: one missing fails the run
+if (missing.length) { console.error(`no PDF for ${missing.length}: ${missing.slice(0, 10).join(", ")}`); process.exit(1); }

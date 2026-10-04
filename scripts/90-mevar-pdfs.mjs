@@ -29,6 +29,7 @@ import sharp from "sharp";
 import { fromMarkdown } from "mdast-util-from-markdown";
 import { frenchSpacing } from "../web/src/lib/french-typography.mjs";
 
+import { frontmatter, field, setField } from "./frontmatter.mjs";
 const root = path.resolve(import.meta.dirname, "..");
 const dry = process.argv.includes("--dry");
 const inventory = JSON.parse(fs.readFileSync(path.join(root, "manifests/onedrive-inventory.json"), "utf8"));
@@ -38,8 +39,6 @@ const hebrew = (w) => path.join(root, "node_modules/@expo-google-fonts/noto-seri
 const ORIGINALS = "files/onedrive";
 const TEXT = "files/mevar-text";
 
-const frontmatter = (text) => text.match(/^---\n([\s\S]*?)\n---\n/)[1];
-const field = (fm, k) => { const m = fm.match(new RegExp(`^${k}: (.*)$`, "m")); return m ? JSON.parse(m[1]) : undefined; };
 const slug = (s) => s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
 // The texts, by path
@@ -184,13 +183,6 @@ async function textPdf(t) {
   });
 }
 
-// Writes `key: value` in a frontmatter, in place or appended
-function setField(text, key, value) {
-  const fm = frontmatter(text);
-  const lineRe = new RegExp(`^${key}: .*$`, "m");
-  const next = lineRe.test(fm) ? fm.replace(lineRe, `${key}: ${JSON.stringify(value)}`) : `${fm}\n${key}: ${JSON.stringify(value)}`;
-  return text.replace(fm, () => next);
-}
 const sameBytes = (file, buf) => fs.existsSync(file) && fs.readFileSync(file).equals(buf);
 
 const named = new Set();
