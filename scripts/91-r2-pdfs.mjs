@@ -39,6 +39,7 @@ const BUCKET = "mevar-files";
 const DOMAIN = "https://files.mevar.org";
 const SOURCES = ["branham", "le-scribe", "cmpp"];
 
+const isPdf = (file) => { try { const h = Buffer.alloc(5); const fd = fs.openSync(file, "r"); fs.readSync(fd, h, 0, 5, 0); fs.closeSync(fd); return h.toString() === "%PDF-"; } catch { return false; } };
 const md5 = (file) => crypto.createHash("md5").update(fs.readFileSync(file)).digest("hex");
 
 // what the bucket holds under a prefix: key → etag
@@ -81,8 +82,9 @@ async function worker() {
   for (let w; (w = queue.shift()); ) {
     const file = path.join(root, "pdfs", w.source, `${w.rel}.pdf`);
     // a PDF not held locally (on the first run, CMPP's 242 and two of Le
-    // Scribe's): downloaded once
-    if (!fs.existsSync(file)) {
+    // Scribe's), or a cached file that is not one (an error page an earlier
+    // download kept): downloaded again, and refused unless it is a PDF
+    if (!isPdf(file)) {
       downloaded++;
       if (dry) continue;
       try { await download(w.url, file); } catch (e) { missing.push(`${w.md} (${e.message})`); continue; }

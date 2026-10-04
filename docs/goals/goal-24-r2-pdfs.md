@@ -27,11 +27,14 @@ afraid of those links to disappear ».
    - the PDF: Branham's and Le Scribe's local copies (`pdfs/<source>/`,
      gitignored, downloaded by goals 01–02); CMPP's downloaded once from
      its `pdf_url` into `pdfs/cmpp/`;
-   - uploaded to `mevar-files` as `<source>/<year>/<name>.pdf` when the
+   - refused unless it starts as a PDF (« %PDF- »): a cached file that does
+     not is downloaded again;
+   - uploaded to `mevar-files` as `<source>/<path>.pdf`, its path the
+     work's under `markdown/<source>/` (a year's folder, or `undated`), when the
      bucket does not already hold the same bytes (its etag is the file's
      MD5);
    - named in the work's `local_pdf` as
-     `https://files.mevar.org/<source>/<year>/<name>.pdf` (the remote
+     `https://files.mevar.org/<source>/<path>.pdf` (the remote
      `pdf_url` stays, as AGENTS.md keeps every remote URL).
    Idempotent: a second run uploads nothing and changes no frontmatter. It
    deletes nothing in the bucket. A work whose PDF cannot be had fails the
