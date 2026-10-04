@@ -23,6 +23,7 @@ import path from "node:path";
 import crypto from "node:crypto";
 import { execFile } from "node:child_process";
 import { promisify } from "node:util";
+import { frontmatter, field, setField } from "./frontmatter.mjs";
 
 const exec = promisify(execFile);
 // a call the API rate-limits (429) is tried again, a little later each time
@@ -32,7 +33,6 @@ async function run(cmd, args, opts) {
     catch (e) { if (!/429/.test(e.message) || wait > 64000) throw e; await new Promise((r) => setTimeout(r, wait)); }
   }
 }
-import { frontmatter, field, setField } from "./frontmatter.mjs";
 const root = path.resolve(import.meta.dirname, "..");
 const dry = process.argv.includes("--dry");
 const BUCKET = "mevar-files";
