@@ -18,7 +18,6 @@ authors:
 ghost_id: "6448fa86db90770001518f9a"
 uuid: "f61989d2-ee12-44ee-941d-d596b8376dd9"
 stream_url: "https://mevar.org/les-animaux-instruments-dans-les-mains-de-dieu/"
-text_pdf: "/files/mevar-text/les-animaux-instruments-dans-les-mains-de-dieu.pdf"
 local_audio: "https://files.mevar.org/audio/les-animaux-instruments-dans-les-mains-de-dieu.mp3"
 ---
 * * *

@@ -16,7 +16,6 @@ authors:
 ghost_id: "6448fa86db90770001518fa9"
 uuid: "17b0fbb4-22e1-4c75-8173-43311bb18766"
 stream_url: "https://mevar.org/la-lampe-et-l-etoile/"
-text_pdf: "/files/mevar-text/la-lampe-et-l-etoile.pdf"
 local_audio: "https://files.mevar.org/audio/la-lampe-et-l-etoile.mp3"
 ---
 * * *

@@ -18,7 +18,6 @@ authors:
 ghost_id: "6448fa86db90770001518f87"
 uuid: "ba1d4749-0be1-43e5-bb4f-d327d6aeb49b"
 stream_url: "https://mevar.org/la-position-du-mari-2/"
-text_pdf: "/files/mevar-text/la-position-du-mari-2.pdf"
 ---
 ## Deuxième partie
 

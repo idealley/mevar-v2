@@ -19,7 +19,6 @@ authors:
 ghost_id: "6448fa86db90770001518f9f"
 uuid: "90d71f7e-718e-4493-9c58-e5e21cba3632"
 stream_url: "https://mevar.org/l-epreuve-d-anne-2/"
-text_pdf: "/files/mevar-text/l-epreuve-d-anne-2.pdf"
 local_audio: "https://files.mevar.org/audio/l-epreuve-d-anne-2.mp3"
 ---
 ## Deuxième partie

@@ -18,7 +18,6 @@ authors:
 ghost_id: "6448fa86db90770001518f82"
 uuid: "542ea376-3093-4501-839b-82c8a272c5f2"
 stream_url: "https://mevar.org/la-position-de-la-femme-premiere-partie/"
-text_pdf: "/files/mevar-text/la-position-de-la-femme-premiere-partie.pdf"
 local_audio: "https://files.mevar.org/audio/la-position-de-la-femme-premiere-partie.mp3"
 ---
 ## Première partie

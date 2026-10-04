@@ -21,7 +21,6 @@ uuid: "94d16719-afb6-4749-8557-8473369a0cc4"
 stream_url: "https://mevar.org/la-femme-de-sunem/"
 bible_refs:
   - "2 Rois 4"
-text_pdf: "/files/mevar-text/la-femme-de-sunem.pdf"
 local_audio: "https://files.mevar.org/audio/la-femme-de-sunem.mp3"
 ---
 Exhortation basée sur 2 Rois 4. Quelles sont les vertues que l'Eglise doit avoir?

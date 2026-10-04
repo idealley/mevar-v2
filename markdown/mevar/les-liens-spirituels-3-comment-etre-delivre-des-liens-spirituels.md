@@ -19,7 +19,6 @@ authors:
 ghost_id: "6448fa86db90770001518f6d"
 uuid: "d5173af6-7b15-4125-a191-b95d11ee95c9"
 stream_url: "https://mevar.org/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels/"
-text_pdf: "/files/mevar-text/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels.pdf"
 local_audio: "https://files.mevar.org/audio/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels.mp3"
 ---
 ## Troisième partie - Comment être délivré des liens spirituels

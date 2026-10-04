@@ -17,7 +17,6 @@ authors:
 ghost_id: "6448fa86db90770001518f8b"
 uuid: "1f752eb8-21ce-4d2f-b9c0-eacabae0255e"
 stream_url: "https://mevar.org/les-serviteurs-et-maitres/"
-text_pdf: "/files/mevar-text/les-serviteurs-et-maitres.pdf"
 local_audio: "https://files.mevar.org/audio/les-serviteurs-et-maitres.mp3"
 ---
 ## Le combat spirituel

@@ -16,7 +16,6 @@ authors:
 ghost_id: "6448fa86db90770001518f63"
 uuid: "4d913c29-bda1-4e07-bd51-3a3742c635f0"
 stream_url: "https://mevar.org/le-combat-d-ephese/"
-text_pdf: "/files/mevar-text/le-combat-d-ephese.pdf"
 local_audio: "https://files.mevar.org/audio/le-combat-d-ephese.mp3"
 ---
 

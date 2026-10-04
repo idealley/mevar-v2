@@ -16,7 +16,6 @@ authors:
 ghost_id: "6448fa86db90770001518f9c"
 uuid: "a2585078-4205-448a-b873-5281763addfd"
 stream_url: "https://mevar.org/l-homme-qui-n-avait-pas-d-habit-de-noces/"
-text_pdf: "/files/mevar-text/l-homme-qui-n-avait-pas-d-habit-de-noces.pdf"
 local_audio: "https://files.mevar.org/audio/l-homme-qui-n-avait-pas-d-habit-de-noces.mp3"
 ---
 
