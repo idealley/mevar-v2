@@ -19,6 +19,7 @@ ghost_id: "6448fa86db90770001518f88"
 uuid: "a5d68e1d-0bb6-401f-a973-1430fe012c82"
 stream_url: "https://mevar.org/la-position-du-mari-1/"
 text_pdf: "/files/mevar-text/la-position-du-mari-1.pdf"
+local_audio: "https://files.mevar.org/audio/la-position-du-mari-1.mp3"
 ---
 ## Première partie
 

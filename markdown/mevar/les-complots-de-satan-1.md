@@ -19,6 +19,7 @@ ghost_id: "6448fa86db90770001518f8a"
 uuid: "152a8c8e-827c-455e-82f0-fb92caf57042"
 stream_url: "https://mevar.org/les-complots-de-satan-1/"
 text_pdf: "/files/mevar-text/les-complots-de-satan-1.pdf"
+local_audio: "https://files.mevar.org/audio/les-complots-de-satan-1.mp3"
 ---
 ## Le combat spirituel
 

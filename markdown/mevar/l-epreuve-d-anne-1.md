@@ -20,6 +20,7 @@ ghost_id: "6448fa86db90770001518fa0"
 uuid: "b5f78be9-eb20-43db-a558-82248e410d3b"
 stream_url: "https://mevar.org/l-epreuve-d-anne-1/"
 text_pdf: "/files/mevar-text/l-epreuve-d-anne-1.pdf"
+local_audio: "https://files.mevar.org/audio/l-epreuve-d-anne-1.mp3"
 ---
 ## Première partie
 

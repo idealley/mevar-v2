@@ -21,6 +21,7 @@ stream_url: "https://mevar.org/la-chute-de-sedecias/"
 bible_refs:
   - "Jérémie 38"
 text_pdf: "/files/mevar-text/la-chute-de-sedecias.pdf"
+local_audio: "https://files.mevar.org/audio/la-chute-de-sedecias.mp3"
 ---
 Jérémie 38 et 39
 

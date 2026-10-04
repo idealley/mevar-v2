@@ -25,6 +25,7 @@ bible_refs:
   - "Luc 13"
   - "Matthieu 6:1"
   - "Luc 6"
+local_audio: "https://files.mevar.org/audio/les-liens-spirituels.mp3"
 ---
 ## Première partie
 

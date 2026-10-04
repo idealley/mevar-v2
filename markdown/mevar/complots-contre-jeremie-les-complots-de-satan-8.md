@@ -19,6 +19,7 @@ ghost_id: "6448fa86db90770001518f91"
 uuid: "928a2cd8-6abb-460d-8881-776f9f87f9f2"
 stream_url: "https://mevar.org/complots-contre-jeremie-les-complots-de-satan-8/"
 text_pdf: "/files/mevar-text/complots-contre-jeremie-les-complots-de-satan-8.pdf"
+local_audio: "https://files.mevar.org/audio/complots-contre-jeremie-les-complots-de-satan-8.mp3"
 ---
 ## Les complots de Satan (8) - Le combat spirituel
 

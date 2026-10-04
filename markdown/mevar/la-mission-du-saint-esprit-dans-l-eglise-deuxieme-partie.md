@@ -28,6 +28,7 @@ bible_refs:
   - "2 Pierre 1:5"
   - "Marc 16"
   - "Actes 19"
+video_url: "https://www.youtube.com/watch?v=t9HXJYo1brw"
 ---
 ## Deuxième partie
 

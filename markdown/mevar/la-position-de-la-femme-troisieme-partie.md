@@ -19,6 +19,7 @@ ghost_id: "6448fa86db90770001518f83"
 uuid: "eeafe283-8770-4d11-af6f-9918e4a96d31"
 stream_url: "https://mevar.org/la-position-de-la-femme-troisieme-partie/"
 text_pdf: "/files/mevar-text/la-position-de-la-femme-troisieme-partie.pdf"
+local_audio: "https://files.mevar.org/audio/la-position-de-la-femme-troisieme-partie.mp3"
 ---
 ## Troisième partie
 

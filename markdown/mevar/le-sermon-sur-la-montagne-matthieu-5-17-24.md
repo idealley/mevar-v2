@@ -30,6 +30,7 @@ bible_refs:
   - "Marc 12"
   - "Romains 3"
   - "Ézéchiel 36"
+local_audio: "https://files.mevar.org/audio/le-sermon-sur-la-montagne-matthieu-5-17-24.mp3"
 ---
 ## Troisième Partie
 

@@ -19,6 +19,7 @@ ghost_id: "6448fa86db90770001518f77"
 uuid: "d0950c5c-ddbe-4e47-9acb-32a023fc78d9"
 stream_url: "https://mevar.org/la-parabole-des-talents-2/"
 text_pdf: "/files/mevar-text/la-parabole-des-talents-2.pdf"
+local_audio: "https://files.mevar.org/audio/la-parabole-des-talents-2.mp3"
 ---
 ## Deuxième partie
 

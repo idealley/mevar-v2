@@ -20,6 +20,7 @@ ghost_id: "6448fa86db90770001518f70"
 uuid: "18261ec2-bcf0-4cc7-bbbf-7a9c3902a51d"
 stream_url: "https://mevar.org/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6/"
 text_pdf: "/files/mevar-text/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6.pdf"
+local_audio: "https://files.mevar.org/audio/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6.mp3"
 ---
 ## Le sermon sur la montagne - sixième partie
 

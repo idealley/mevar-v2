@@ -27,6 +27,7 @@ bible_refs:
   - "Matthieu 24:45"
   - "Lévitique 10"
 text_pdf: "/files/mevar-text/les-freres-jumeaux-du-message-du-temps-de-la-fin-2.pdf"
+local_audio: "https://files.mevar.org/audio/les-freres-jumeaux-du-message-du-temps-de-la-fin-2.mp3"
 ---
 ## Deuxième partie
 

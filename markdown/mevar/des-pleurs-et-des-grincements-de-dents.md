@@ -24,6 +24,7 @@ bible_refs:
   - "Jacques 1"
   - "Apocalypse 3"
 text_pdf: "/files/mevar-text/des-pleurs-et-des-grincements-de-dents.pdf"
+local_audio: "https://files.mevar.org/audio/des-pleurs-et-des-grincements-de-dents.mp3"
 ---
 Mes bien-aimés frères et sœurs, que Dieu nous bénisse. Nous rendons grâce au Seigneur notre Dieu ce matin. Je souhaite joyeuse Pâque à tout le monde ; vous savez qu’aujourd’hui c’est la fête de Pâque pour les chrétiens. Pour nous, la bible dit que notre pâque qui est Jésus-Christ, a déjà été immolée. Donc c’est vrai qu’à l’occasion d’une fête prévue dans le calendrier national ou bien même international, on peut se souvenir qu’un jour, Jésus-Christ s’est donné pour nous. Il a livré Sa vie à la mort afin que nous soyons sauvés. Donc Christ en tant que pâques, en tant qu’Agneau du sacrifice, a été immolé à la croix de Golgotha pour notre délivrance. C’est ce que nous devons retenir. Et si nous savons ces choses, il nous appartient de nous appliquer à marcher dans les voix du Seigneur pour lui être reconnaissant pour cette grande œuvre qu’Il a accomplie pour nous.
 

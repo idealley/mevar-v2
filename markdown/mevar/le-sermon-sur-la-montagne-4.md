@@ -30,6 +30,7 @@ bible_refs:
   - "Matthieu 9"
   - "Actes 21"
   - "Genèse 49"
+local_audio: "https://files.mevar.org/audio/le-sermon-sur-la-montagne-4.mp3"
 ---
 ## Quatrième partie
 

@@ -19,6 +19,7 @@ stream_url: "https://mevar.org/la-vision-de-l-armee-celeste/"
 bible_refs:
   - "2 Rois 6"
 text_pdf: "/files/mevar-text/la-vision-de-l-armee-celeste.pdf"
+video_url: "https://www.youtube.com/watch?v=Mb_xtQ-slcY"
 ---
 2 Rois 6Elisée et l'armée syrienne. Les yeux spirituelles du serviteur d'Elisée sont fermé et il ne voit pas que l'armée de Dieu est plus puissante et plus grande que l'armée céleste.
 

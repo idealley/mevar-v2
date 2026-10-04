@@ -26,6 +26,7 @@ bible_refs:
   - "Matthieu 22"
   - "1 Samuel 9"
   - "Juges 2"
+local_audio: "https://files.mevar.org/audio/dieu-n-est-pas-un-homme-pour-mentir.mp3"
 ---
 Ce soir, j’ai des paroles à lire ici pour chacun d’entre nous et nous devons effectivement prêter attention à la parole de Dieu parce que c’est la parole de Dieu qui nous conduit. Nous marchons par la parole du Seigneur. Le peuple de Dieu ne peut pas marcher s’il n’a pas la parole. Amen.
 
