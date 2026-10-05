@@ -18,12 +18,6 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: Samuel finds the files (OneDrive, Ghost admin) and drops them in `images/mevar/` and `files/mevar/`; the PDFs then get `local_pdf` next to `pdf_download`, and the work page shows the PDF button.
 
-## Branham text the restoration could not reach
-
-**Status**: goal 07 put back what the branham.org PDFs say in about 690 sermons. 39 French book names remain in `markdown/branham/`, listed with their context in `manifests/branham-restore-unaligned.json`: the LLM cleanup changed the words around them, so they do not align with the source.
-
-**Fix**: a human pass over the 39, reading each against its PDF (`pdf_url`).
-
 ## 65 reads a book name inside a number or a glued prefix
 
 **Status**: 66 and 65b refuse a book name that starts inside a number since goal 07 ("2 John" in "212 John"). 65 still accepts it, and changing that moves 47 French refs: some are wrong today ("1Jean 5:21" is recorded as "Jean 5:21", because "1Jean" is not a variant), and would simply disappear without a variant for the glued form.
@@ -33,12 +27,6 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 ## French citations 65 wrote canonical, still to restore
 
 **Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (remeasure after `goal-16-cmpp-complete.md` re-crawls its bodies), and `local` (no original: Samuel, 2026-09-25, leave it).
-
-## Branham page headers the PDF could not confirm
-
-**Status**: goal 14 (PR #18) removed 11,066 printed page headers from 841 Branham bodies with `65d-strip-branham-furniture.mjs`, and the refs they produced. 135 remain, listed with their context in `manifests/branham-furniture-unaligned.json`: the LLM cleanup changed the words around them, so the PDF cannot confirm the spot (`THE THIRD Exodus 25` in 63-0630M still gives a false `Exodus 25`).
-
-**Fix**: a human pass over the 135, reading each against its PDF (`pdf_url`), like the 39 French names above.
 
 ## Le Scribe links resting on the date alone
 
