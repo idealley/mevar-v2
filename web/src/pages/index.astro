@@ -4,6 +4,7 @@ import Brand from "../components/Brand.astro";
 import Browse from "../components/Browse.astro";
 import Icon from "../components/Icon.astro";
 import InstallSheet from "../components/InstallSheet.astro";
+import JsonLd from "../components/JsonLd.astro";
 import NewsletterForm from "../components/NewsletterForm.astro";
 import PhotoCard from "../components/PhotoCard.astro";
 import SectionHead from "../components/SectionHead.astro";
@@ -42,6 +43,22 @@ const ways = [
 ---
 
 <Layout>
+  <JsonLd
+    slot="head"
+    data={{
+      "@type": "WebSite",
+      name: "Mevar",
+      url: Astro.site!.href,
+      inLanguage: "fr",
+      publisher: {
+        "@type": "Organization",
+        name: "MEVAR",
+        alternateName: "Mission d'Évangélisation et de Réveil",
+        url: Astro.site!.href,
+        logo: new URL("/brand/icon-512.png", Astro.site).href,
+      },
+    }}
+  />
   <div slot="bar" class="flex items-center justify-between px-5 pt-1 pb-2.5">
     <Brand />
     <div class="flex items-center gap-2">

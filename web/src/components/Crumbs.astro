@@ -1,6 +1,8 @@
 ---
-// From 1024px, where a page is: home, then the lists that lead to it.
+// Where a page is: home, then the lists that lead to it. Shown from 1024px,
+// and told to search engines at every width.
 import Icon from "./Icon.astro";
+import JsonLd from "./JsonLd.astro";
 
 interface Props {
   crumbs: { href: string; label: string }[];
@@ -15,3 +17,14 @@ interface Props {
     </>
   ))}
 </nav>
+<JsonLd
+  data={{
+    "@type": "BreadcrumbList",
+    itemListElement: Astro.props.crumbs.map((c, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: c.label,
+      item: new URL(c.href, Astro.site).href,
+    })),
+  }}
+/>

@@ -5,6 +5,7 @@ import Layout from "../layouts/Layout.astro";
 import BackBar from "./BackBar.astro";
 import Crumbs from "./Crumbs.astro";
 import Icon from "./Icon.astro";
+import JsonLd from "./JsonLd.astro";
 import SectionHead from "./SectionHead.astro";
 import WorkCard from "./WorkCard.astro";
 import { render } from "astro:content";
@@ -12,7 +13,7 @@ import { slug } from "github-slugger";
 import { refUrl } from "$lib/bible.mjs";
 import { formatDateFr } from "$lib/utils";
 import {
-  ARCHIVE_SOURCES, PREACHERS, allWorks, categoryOf, dots, entryDate, isMevar, kindLabel, minutes, nextWorks,
+  ARCHIVE_SOURCES, PREACHERS, allWorks, categoryOf, dots, entryDate, excerptOf, isMevar, kindLabel, minutes, nextWorks,
   preacherOf, refsOf, shortDate, tags, workAt, workUrl, worksBy, type WorkEntry,
 } from "$lib/works";
 
@@ -24,6 +25,8 @@ const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
 const fm = entry.data;
 const title = fm.title ?? entry.id;
+// The day it was published or preached, or the year alone when that is all a work has.
+const published = entryDate(entry).slice(0, 10) || (fm.year ? String(fm.year) : undefined);
 const date = formatDateFr(entryDate(entry).slice(0, 10) || null);
 // Branham's own text is English; everything else is French.
 const lang = fm.source === "branham" ? "en" : "fr";
@@ -81,10 +84,30 @@ const groups = [
 
 <Layout
   title={`${title} · Mevar`}
-  description={fm.summary ?? undefined}
+  description={excerptOf(entry)}
   image={fm.local_image ? `/${fm.local_image}` : undefined}
   lang={lang}
+  article={{ published, author: preacher }}
 >
+  <JsonLd
+    slot="head"
+    data={{
+      "@type": "Article",
+      headline: title,
+      description: excerptOf(entry),
+      inLanguage: lang,
+      datePublished: published,
+      image: fm.local_image && new URL(`/${fm.local_image}`, Astro.site).href,
+      mainEntityOfPage: new URL(workUrl(entry), Astro.site).href,
+      author: preacher && {
+        "@type": "Person",
+        name: preacher,
+        url: author && authorCount ? new URL(`/auteurs/${author.slug}/`, Astro.site).href : undefined,
+      },
+      // The mission publishes its own texts; an archive text is another's, kept here with permission.
+      publisher: isMevar(entry) ? { "@type": "Organization", name: "MEVAR", url: Astro.site!.href } : undefined,
+    }}
+  />
   <Fragment slot="bar">
     <BackBar href={category ? `/${category.slug}/` : "/"} label={category?.title ?? "Accueil"}>
       <button type="button" class="round-btn js-type" aria-label="Taille du texte"><Icon name="type" size={14} /></button>
