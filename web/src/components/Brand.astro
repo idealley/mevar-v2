@@ -1,7 +1,15 @@
 ---
-// The mark and the wordmark, as the header and the footer show them.
+// MEVAR's eagle and the wordmark, as the header and the footer show them.
+// The eagle is dark on a light ground and white on a dark one.
+interface Props {
+  /** On a ground that is dark in both themes: the footer. */
+  onDark?: boolean;
+}
+
+const { onDark } = Astro.props;
 ---
 
 <a href="/" class="flex items-center gap-[9px] text-[17px] leading-[21px] font-semibold tracking-[2.4px] max-lg:gap-2 max-lg:text-[15px] max-lg:tracking-[2.2px]">
-  <span class="size-2.5 max-lg:size-[9px] rounded-full bg-accent"></span>MEVAR
+  {!onDark && <img src="/brand/logo.svg" alt="" width="28" height="28" loading="lazy" class="size-7 max-lg:size-6 dark:hidden" />}
+  <img src="/brand/logo-white.svg" alt="" width="28" height="28" loading="lazy" class:list={["size-7 max-lg:size-6", !onDark && "hidden dark:block"]} />MEVAR
 </a>

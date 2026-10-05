@@ -28,6 +28,10 @@ measure of how the site grows and whom it reaches.
    waits for Google. A reader who leaves before the page has finished
    loading is not counted.
 3. **`AGENTS.md`, hard rule 6**: the exception, named and dated.
+4. **Visits, not advertising profiles**: Google signals and ad
+   personalisation are off for the property's tag. The tag still sets
+   Google Analytics' own cookie, which is how it tells a returning reader
+   from a new one; see « Not in this goal ».
 
 ## Not in this goal
 

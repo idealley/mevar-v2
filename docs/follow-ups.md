@@ -34,11 +34,17 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: none needed now. A new Le Scribe summary linked by date alone is worth the same check (shared chapters in `bible-refs.json`, then the openings).
 
-## The 404 page's canonical URL names no page
+## `check:dist` checks our own absolute URLs only when they carry a fragment
 
-**Status**: `dist/404.html` has `<link rel="canonical" href="https://mevar.org/404/">`, and no `/404/` page is built. Found by goal 14's `check:dist`, which checks our own absolute URLs only when they carry a `#fragment`.
+**Status**: goal 28 removed the 404 page's canonical URL, which named a page that does not exist. `check:dist` would not have caught it: an absolute `https://mevar.org/` href is checked only when it has a `#fragment`.
 
-**Fix**: no canonical on the 404 page (or point it at `/`), then let `check:dist` check every absolute `https://mevar.org/` href.
+**Fix**: let `check:dist` check every absolute `https://mevar.org/` href.
+
+## Astro 7
+
+**Status**: the site builds on Astro 6 (`^6.2.2`; 6.4 already warns on every start). Astro 7.3.5 is out (2026-10-05). From 6.4 on, `markdown.remarkPlugins`, `markdown.rehypePlugins` and `markdown.remarkRehype` are deprecated: our four rehype plugins (`bookmarks`, `body-images`, `bible-links`, `french-typography`, in `web/astro.config.mjs`) are to be passed to `unified({...})` from `@astrojs/markdown-remark`.
+
+**Fix**: a goal of its own, not `npx @astrojs/upgrade` on `main`. Move the four plugins to the new form, check that `@vite-pwa/astro` (pinned to our Astro through `overrides`), `@astrojs/sitemap`, `@astrojs/rss` and `@tailwindcss/vite` have a release for 7, then the full build and `check:dist`. The rendered markdown is cached in `web/node_modules/.astro/`: delete it before comparing a build with the one before.
 
 ## `100` keeps only the first verse group of a list
 

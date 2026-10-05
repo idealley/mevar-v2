@@ -5,6 +5,7 @@ import Layout from "../layouts/Layout.astro";
 import BackBar from "./BackBar.astro";
 import Crumbs from "./Crumbs.astro";
 import Icon from "./Icon.astro";
+import JsonLd from "./JsonLd.astro";
 import SectionHead from "./SectionHead.astro";
 import WorkCard from "./WorkCard.astro";
 import { render } from "astro:content";
@@ -12,7 +13,7 @@ import { slug } from "github-slugger";
 import { refUrl } from "$lib/bible.mjs";
 import { formatDateFr } from "$lib/utils";
 import {
-  ARCHIVE_SOURCES, PREACHERS, allWorks, categoryOf, dots, entryDate, isMevar, kindLabel, minutes, nextWorks,
+  ARCHIVE_SOURCES, PREACHERS, allWorks, categoryOf, dots, entryDate, excerptOf, isMevar, kindLabel, minutes, nextWorks,
   preacherOf, refsOf, shortDate, tags, workAt, workUrl, worksBy, type WorkEntry,
 } from "$lib/works";
 
@@ -24,12 +25,18 @@ const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
 const fm = entry.data;
 const title = fm.title ?? entry.id;
-const date = formatDateFr(entryDate(entry).slice(0, 10) || null);
+const day = entryDate(entry).slice(0, 10);
+const date = formatDateFr(day || null);
+// For a search engine: the day it was published or preached, or its month,
+// or else the year alone (« 1950-01-?? », or no date at all).
+const published = day.match(/^\d{4}-\d{2}(-\d{2})?/)?.[0] ?? (fm.year ? String(fm.year) : undefined);
+const description = excerptOf(entry);
 // Branham's own text is English; everything else is French.
 const lang = fm.source === "branham" ? "en" : "fr";
 const preacher = preacherOf(entry);
 const author = PREACHERS.find((p) => p.name === preacher);
 const authorCount = author ? (await worksBy(author)).length : 0;
+const authorUrl = author && authorCount ? new URL(`/auteurs/${author.slug}/`, Astro.site).href : undefined;
 // A Mevar text offers the PDF of its text first, and its original beside it
 // where it has one (goal 23); every other work, its one PDF.
 const originalPdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
@@ -81,10 +88,29 @@ const groups = [
 
 <Layout
   title={`${title} · Mevar`}
-  description={fm.summary ?? undefined}
+  description={description}
   image={fm.local_image ? `/${fm.local_image}` : undefined}
   lang={lang}
+  article={{ published, author: authorUrl }}
 >
+  <JsonLd
+    slot="head"
+    data={{
+      "@type": "Article",
+      headline: title,
+      description,
+      inLanguage: lang,
+      datePublished: published,
+      image: new URL(fm.local_image ? `/${fm.local_image}` : "/brand/icon-512.png", Astro.site).href,
+      author: preacher && {
+        "@type": "Person",
+        name: preacher,
+        url: authorUrl,
+      },
+      // The mission publishes its own texts; an archive text is another's, kept here with permission.
+      publisher: isMevar(entry) ? { "@type": "Organization", name: "MEVAR", url: Astro.site!.href } : undefined,
+    }}
+  />
   <Fragment slot="bar">
     <BackBar href={category ? `/${category.slug}/` : "/"} label={category?.title ?? "Accueil"}>
       <button type="button" class="round-btn js-type" aria-label="Taille du texte"><Icon name="type" size={14} /></button>
@@ -104,7 +130,7 @@ const groups = [
 
     <!-- Header: only the title is indexed, as the result's title -->
     <header class="mx-auto flex max-w-[1440px] flex-col gap-[26px] px-[84px] max-xl:px-10 pt-[52px] pb-9 max-lg:gap-3 max-lg:px-5 max-lg:pt-4 max-lg:pb-4" data-pagefind-ignore>
-      <Crumbs crumbs={crumbs} />
+      <Crumbs crumbs={crumbs} here={title} />
       <div class="flex flex-col gap-5 max-lg:gap-3">
         <p class="text-[11px] leading-[13px] font-semibold tracking-[2px] text-accent uppercase max-lg:text-[9px] max-lg:leading-[11px] max-lg:tracking-[1.6px]">{fm.subtitle ?? kindLabel(entry)}</p>
         <h1 class="max-w-[1020px] font-display text-[70px] leading-[71px] max-lg:text-[40px] max-lg:leading-[41px]" data-pagefind-meta="title">{title}</h1>
