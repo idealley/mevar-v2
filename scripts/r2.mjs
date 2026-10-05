@@ -1,5 +1,5 @@
 // The R2 bucket that serves our files on files.mevar.org, as the scripts that
-// upload to it use it (96, 97), through the `cf` CLI logged in to the
+// upload to it use it (96, 97, 98), through the `cf` CLI logged in to the
 // account that holds it.
 
 import fs from "node:fs";
