@@ -136,7 +136,7 @@ function pathForId(id) {
     const m = JSON.parse(fs.readFileSync(path.join(root, `manifests/${source}.json`), "utf8"));
     const e = m.find((x) => x.sermon_id === id);
     if (!e) return null;
-    return `markdown/${source}/${e.year ?? "undated"}/${e.sermon_id}.md`;
+    return e.local_md ?? `markdown/${source}/${e.year ?? "undated"}/${e.sermon_id}.md`;
   }
   if (source === "mevar-pdfs") {
     const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/mevar-pdfs-corpus.json"), "utf8"));
@@ -167,9 +167,10 @@ async function recoverDoc(id) {
   const fullPath = path.join(root, mdPath);
   if (!fs.existsSync(fullPath)) return { id, status: "missing_file" };
 
-  // The dot leaders of a coupon (« Nom: . . . . . . ») are shortened: the model
-  // goes on copying them until it runs out of tokens, and the chunk fails.
-  const raw = stripFrontmatter(fs.readFileSync(fullPath, "utf8")).replace(/(?:\.[ \t]?){8,}/g, "… ");
+  // The dot leaders of a CMPP coupon (« Nom: . . . . . . ») are shortened: the
+  // model goes on copying them until it runs out of tokens, and the chunk fails.
+  const text = stripFrontmatter(fs.readFileSync(fullPath, "utf8"));
+  const raw = source === "cmpp" ? text.replace(/(?:\.[ \t]?){8,}/g, "… ") : text;
   const chunks = chunkAtParagraph(raw, CHUNK_SIZE);
   let merged = null;
   let totalIn = 0, totalOut = 0, totalCached = 0;

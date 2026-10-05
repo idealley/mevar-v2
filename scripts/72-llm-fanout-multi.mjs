@@ -80,7 +80,7 @@ Réponse : JSON STRICT uniquement. Schéma :
   "title": "Titre principal",
   "subtitle": "Sous-titre, mois/année pour lettre circulaire, ou null",
   "kind": "exhortation | bible_study | book | article | testimony | communique",
-  "date": "YYYY-MM-DD ou YYYY-MM-01 si seul le mois est connu, sinon null",
+  "date": "YYYY-MM-DD, ou YYYY-MM si seul le mois est connu, sinon null",
   "year": 1974,
   "location": "Krefeld par défaut pour Ewald Frank, sinon précise",
   "preacher": "Auteur du document (Ewald Frank, William Branham, etc.)",
@@ -165,7 +165,8 @@ function loadDocs() {
     const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/cmpp.json"), "utf8"));
     // Only what was never cleaned: the cache of the first pass is gone, and a
     // cleaned body is not cleaned twice.
-    return m.filter((e) => !e.llm_cleaned).map((e) => ({ id: e.sermon_id, mdPath: `markdown/cmpp/${e.year ?? "undated"}/${e.sermon_id}.md` }));
+    // A work the manifest has a path for is read there (49b moves works); a new one is where the parse left it.
+    return m.filter((e) => !e.llm_cleaned).map((e) => ({ id: e.sermon_id, mdPath: e.local_md ?? `markdown/cmpp/${e.year ?? "undated"}/${e.sermon_id}.md` }));
   }
   if (source === "mevar-pdfs") {
     const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/mevar-pdfs-corpus.json"), "utf8"));

@@ -11,7 +11,8 @@
 //
 // PDFs are heterogeneous: monthly letters (mars1974.pdf), videos (video_07_2003.pdf),
 // thematic series (7sceaux3.pdf), exhortations (exhortation_annee_2025_A4.pdf), etc.
-// Sniff dates where the filename embeds a month name or YYYY.
+// Sniff dates where the filename embeds a month name or YYYY. A month with
+// no day is written as a month: "1974-03".
 //
 //   node scripts/12-discover-cmpp.mjs      (on the Mac: no TLS, plain http)
 
@@ -75,14 +76,14 @@ for (const canonical of urls) {
     const mon = months[m1[1]] ?? null;
     if (mon) {
       year = Number(m1[2]);
-      date = `${year}-${mon}-01`;
+      date = `${year}-${mon}`;
     }
   }
   // Pattern: video_MM_YYYY
   const m2 = !date && stem.match(/^video_(\d{2})_(\d{4})/i);
   if (m2) {
     year = Number(m2[2]);
-    date = `${year}-${m2[1]}-01`;
+    date = `${year}-${m2[1]}`;
   }
   // Pattern: lc_<month>_YYYY
   const m3 = !date && stem.toLowerCase().match(/^lc_(janvier|f[eé]vrier|mars|avril|mai|juin|juillet|ao[uû]t|septembre|octobre|novembre|d[eé]cembre)_(\d{4})/);
@@ -90,7 +91,7 @@ for (const canonical of urls) {
     const mon = months[m3[1]] ?? null;
     if (mon) {
       year = Number(m3[2]);
-      date = `${year}-${mon}-01`;
+      date = `${year}-${mon}`;
     }
   }
   // Pattern: any 4-digit year (loose fallback for `annee_2020`, `exhortation_annee_2025_A4`)
