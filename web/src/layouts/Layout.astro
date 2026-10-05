@@ -1,7 +1,8 @@
 ---
 import "../styles/global.css";
 import Header from "../components/Header.astro";
-import NewsletterForm from "../components/NewsletterForm.astro";
+import Footer from "../components/Footer.astro";
+import TabBar from "../components/TabBar.astro";
 
 interface Props {
   title?: string;
@@ -20,16 +21,23 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
-<html lang={lang} class="h-full">
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <!-- Before the first paint: the theme (the reader's choice, or else the
+         system's) and the size the reader chose for a text. -->
+    <script is:inline>
+      document.documentElement.dataset.theme =
+        localStorage.getItem("theme") ?? (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      document.documentElement.style.setProperty("--read-scale", localStorage.getItem("read-scale") ?? 1);
+    </script>
     <link rel="icon" href="/favicon.ico" />
     <link rel="icon" type="image/svg+xml" href="/brand/logo.svg" />
     <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <script is:inline defer src="/registerSW.js"></script>
-    <meta name="theme-color" content="#1c1917" />
+    <meta name="theme-color" content="#141110" />
     <meta name="generator" content={Astro.generator} />
 
     <title>{title}</title>
@@ -41,62 +49,17 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
-
-    <!-- Sober system-font reading stack — works offline, free, lighter than Google Fonts -->
-    <style is:global>
-      :root {
-        --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-        --font-serif: "Iowan Old Style", "Apple Garamond", Baskerville, "Times New Roman", "Droid Serif", Times, "Source Serif Pro", serif;
-      }
-      html { font-family: var(--font-sans); }
-      .prose-reader { font-family: var(--font-serif); }
-    </style>
   </head>
 
-  <body class="min-h-full bg-background text-foreground antialiased">
-    <Header />
-    <main class="min-h-[60vh]">
+  <body class="antialiased">
+    <Header>
+      <slot name="bar" slot="bar" />
+      <slot name="progress" slot="progress" />
+    </Header>
+    <main class="min-h-[60vh] max-lg:min-h-[calc(100dvh-130px)]">
       <slot />
     </main>
-    <footer class="border-t mt-20 bg-muted/30">
-      <div class="container mx-auto px-4 py-12">
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
-          <div class="md:col-span-2">
-            <a href="/" class="flex items-center gap-2 mb-3">
-              <img src="/brand/logo.svg" alt="Mevar" width="32" height="32" class="h-8 w-auto" />
-              <span class="font-semibold text-lg tracking-tight">Mevar</span>
-            </a>
-            <p class="text-sm text-muted-foreground max-w-md">
-              Mission d'Évangélisation et de Réveil. Bibliothèque numérique pour
-              l'étude de la Parole et la marche dans l'Esprit en ce temps de la fin.
-            </p>
-            <h3 class="text-sm font-semibold mt-6 mb-2 tracking-wide uppercase">Newsletter</h3>
-            <p class="text-sm text-muted-foreground mb-3">Un e-mail à chaque nouvelle publication.</p>
-            <NewsletterForm origin="newsletter-footer" />
-          </div>
-          <nav>
-            <h3 class="text-sm font-semibold mb-3 tracking-wide uppercase">Bibliothèque</h3>
-            <ul class="space-y-2 text-sm text-muted-foreground">
-              <li><a href="/predications" class="hover:text-foreground transition">Prédications</a></li>
-              <li><a href="/exhortations" class="hover:text-foreground transition">Exhortations</a></li>
-              <li><a href="/publications" class="hover:text-foreground transition">Publications</a></li>
-              <li><a href="/etudes-bibliques" class="hover:text-foreground transition">Études bibliques</a></li>
-            </ul>
-          </nav>
-          <nav>
-            <h3 class="text-sm font-semibold mb-3 tracking-wide uppercase">Découvrir</h3>
-            <ul class="space-y-2 text-sm text-muted-foreground">
-              <li><a href="/auteurs" class="hover:text-foreground transition">Auteurs</a></li>
-              <li><a href="/themes" class="hover:text-foreground transition">Thèmes</a></li>
-              <li><a href="/recherche" class="hover:text-foreground transition">Recherche</a></li>
-              <li><a href="/a-propos" class="hover:text-foreground transition">À propos</a></li>
-            </ul>
-          </nav>
-        </div>
-        <div class="border-t pt-6 text-xs text-muted-foreground text-center">
-          <p>© {new Date().getFullYear()} MEVAR — Mission d'Évangélisation et de Réveil</p>
-        </div>
-      </div>
-    </footer>
+    <Footer />
+    <TabBar />
   </body>
 </html>

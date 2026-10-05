@@ -1,0 +1,19 @@
+---
+// Under 1024px, the bar of a page reached from a list: the way back to the
+// list, and the page's own buttons on the right.
+import Icon from "./Icon.astro";
+
+interface Props {
+  href: string;
+  label: string;
+}
+
+const { href, label } = Astro.props;
+---
+
+<div class="flex items-center justify-between px-4 pt-1 pb-2.5">
+  <a href={href} class="flex items-center gap-1.5 text-sm leading-[17px] font-medium">
+    <Icon name="chevron-left" size={20} />{label}
+  </a>
+  <div class="flex items-center gap-2"><slot /></div>
+</div>

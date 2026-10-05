@@ -1,0 +1,28 @@
+---
+// Under 1024px, the four places of the site, fixed at the bottom of the screen.
+import Icon from "./Icon.astro";
+
+const here = Astro.url.pathname;
+const tabs = [
+  { href: "/", label: "Accueil", icon: "house" },
+  { href: "/recherche/", label: "Recherche", icon: "search" },
+  { href: "/bible/", label: "Écritures", icon: "book-open" },
+  { href: "/mes-lectures/", label: "Mes lectures", icon: "bookmark" },
+] as const;
+// Every other page is reached from the home page.
+const current = tabs.findLast((t) => here.startsWith(t.href))!;
+---
+
+<nav class="fixed inset-x-0 bottom-0 z-40 border-t bg-bg pb-[env(safe-area-inset-bottom)] lg:hidden" aria-label="Navigation" data-noprint>
+  <div class="mx-auto flex max-w-xl px-2 pt-2.5 pb-1.5">
+    {tabs.map((t) => (
+      <a
+        href={t.href}
+        aria-current={t === current ? "page" : undefined}
+        class="flex flex-1 flex-col items-center gap-[5px] py-1.5 text-[10px] leading-3 font-medium text-muted aria-[current]:font-semibold aria-[current]:text-accent"
+      >
+        <Icon name={t.icon} size={21} />{t.label}
+      </a>
+    ))}
+  </div>
+</nav>

@@ -1,0 +1,17 @@
+---
+// From 1024px, where a page is: home, then the lists that lead to it.
+import Icon from "./Icon.astro";
+
+interface Props {
+  crumbs: { href: string; label: string }[];
+}
+---
+
+<nav class="flex flex-wrap items-center gap-[9px] text-[13px] leading-4 text-ink-2 max-lg:hidden" aria-label="Fil d'Ariane" data-noprint>
+  {Astro.props.crumbs.map((c, i) => (
+    <>
+      {i > 0 && <Icon name="chevron-right" size={13} class="text-dim" />}
+      <a href={c.href} class="hover:text-ink">{c.label}</a>
+    </>
+  ))}
+</nav>

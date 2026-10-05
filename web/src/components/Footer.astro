@@ -1,0 +1,39 @@
+---
+import Brand from "./Brand.astro";
+import Icon from "./Icon.astro";
+
+const columns = [
+  { head: "Le site", links: [["/", "Accueil"], ["/predications/", "Prédications"], ["/exhortations/", "Exhortations"], ["/etudes-bibliques/", "Études bibliques"]] },
+  { head: "La mission", links: [["/a-propos/", "À propos"], ["/auteurs/", "Auteurs"], ["/courage-soldat-de-christ/", "Courage soldat de Christ !"]] },
+  { head: "Suivre", links: [["/newsletter/", "Newsletter"], ["/rss/index.xml", "Flux RSS"], ["/recherche/", "Recherche"]] },
+];
+---
+
+<footer class="bg-dark text-on-dark max-lg:pb-[70px]" data-noprint>
+  <div class="mx-auto flex max-w-[1440px] flex-col gap-[52px] px-10 pt-16 pb-[30px] max-lg:gap-9 max-lg:px-5 max-lg:pt-10">
+    <div class="flex gap-[72px] max-lg:flex-col max-lg:gap-9">
+      <div class="flex w-[360px] max-w-full flex-col gap-4">
+        <Brand />
+        <p class="text-sm leading-[22px] text-on-dark-2">
+          Mission d'Évangélisation et de Réveil. La Parole prêchée, conservée et rendue accessible à tous, partout.
+        </p>
+        <div class="flex items-center gap-2.5 pt-1.5 text-on-dark-2">
+          <a href="/rss/index.xml" aria-label="Flux RSS" class="flex size-[34px] items-center justify-center rounded-full shadow-[inset_0_0_0_1px_var(--hairline)] hover:text-on-dark"><Icon name="rss" /></a>
+          <a href="/newsletter/" aria-label="Newsletter" class="flex size-[34px] items-center justify-center rounded-full shadow-[inset_0_0_0_1px_var(--hairline)] hover:text-on-dark"><Icon name="mail" /></a>
+        </div>
+      </div>
+      <div class="flex flex-1 gap-[72px] max-lg:flex-wrap max-lg:gap-x-12 max-lg:gap-y-8">
+        {columns.map((c) => (
+          <nav class="flex flex-1 flex-col gap-3.5 text-sm leading-[17px] max-lg:flex-none" aria-label={c.head}>
+            <h2 class="text-[10px] leading-3 font-semibold tracking-[1.8px] text-on-dark-2 uppercase">{c.head}</h2>
+            {c.links.map(([href, label]) => <a href={href} class="hover:text-on-dark-2">{label}</a>)}
+          </nav>
+        ))}
+      </div>
+    </div>
+    <div class="flex items-center justify-between border-t border-hairline pt-[22px] text-xs leading-[15px] text-on-dark-2">
+      <p>MEVAR © {new Date().getFullYear()}</p>
+      <a href="/sitemap-index.xml" class="hover:text-on-dark">Plan du site</a>
+    </div>
+  </div>
+</footer>
