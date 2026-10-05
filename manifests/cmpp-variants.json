@@ -17,8 +17,8 @@
     "folded": [
       {
         "id": "annee_2008_a5",
-        "in_keeper": 1,
-        "of_keeper": 1
+        "in_keeper": 0.988,
+        "of_keeper": 0.988
       }
     ],
     "not_folded": []
@@ -317,8 +317,8 @@
     "folded": [
       {
         "id": "honore_tes_parents_A5",
-        "in_keeper": 0.985,
-        "of_keeper": 0.987
+        "in_keeper": 0.986,
+        "of_keeper": 0.988
       }
     ],
     "not_folded": []
@@ -355,6 +355,11 @@
         "id": "lc_janvier_1974_A5",
         "in_keeper": 0.955,
         "of_keeper": 0.966
+      },
+      {
+        "id": "janvier1974",
+        "in_keeper": 0.998,
+        "of_keeper": 0.998
       }
     ],
     "not_folded": []
@@ -367,6 +372,11 @@
         "id": "lc_juillet_1974_A5",
         "in_keeper": 0.973,
         "of_keeper": 0.982
+      },
+      {
+        "id": "juillet1974",
+        "in_keeper": 0.999,
+        "of_keeper": 0.999
       }
     ],
     "not_folded": []
@@ -403,6 +413,11 @@
         "id": "lc_mars_1974_A5",
         "in_keeper": 0.983,
         "of_keeper": 0.989
+      },
+      {
+        "id": "mars1974",
+        "in_keeper": 0.997,
+        "of_keeper": 0.996
       }
     ],
     "not_folded": []
@@ -427,6 +442,11 @@
         "id": "lc_octobre_1974_A5",
         "in_keeper": 0.988,
         "of_keeper": 0.997
+      },
+      {
+        "id": "octobre1974",
+        "in_keeper": 0.998,
+        "of_keeper": 0.998
       }
     ],
     "not_folded": []
@@ -437,8 +457,8 @@
     "folded": [
       {
         "id": "lc_septembre_1972_A5",
-        "in_keeper": 0.986,
-        "of_keeper": 0.992
+        "in_keeper": 0.987,
+        "of_keeper": 0.994
       }
     ],
     "not_folded": []
@@ -593,8 +613,8 @@
     "folded": [
       {
         "id": "lc20_A5",
-        "in_keeper": 0.936,
-        "of_keeper": 0.944
+        "in_keeper": 0.937,
+        "of_keeper": 0.945
       }
     ],
     "not_folded": []
@@ -629,8 +649,8 @@
     "folded": [
       {
         "id": "lc23_A5",
-        "in_keeper": 0.967,
-        "of_keeper": 0.976
+        "in_keeper": 0.968,
+        "of_keeper": 0.977
       }
     ],
     "not_folded": []
@@ -665,8 +685,8 @@
     "folded": [
       {
         "id": "lc26_A5",
-        "in_keeper": 0.974,
-        "of_keeper": 0.981
+        "in_keeper": 0.975,
+        "of_keeper": 0.982
       }
     ],
     "not_folded": []
@@ -677,8 +697,8 @@
     "folded": [
       {
         "id": "lc27_A5",
-        "in_keeper": 0.961,
-        "of_keeper": 0.971
+        "in_keeper": 0.962,
+        "of_keeper": 0.972
       }
     ],
     "not_folded": []
@@ -702,7 +722,7 @@
       {
         "id": "lc29_A5",
         "in_keeper": 0.976,
-        "of_keeper": 0.983
+        "of_keeper": 0.984
       }
     ],
     "not_folded": []
@@ -932,8 +952,8 @@
     "folded": [
       {
         "id": "quel_amour_A5",
-        "in_keeper": 0.994,
-        "of_keeper": 0.992
+        "in_keeper": 0.995,
+        "of_keeper": 0.993
       }
     ],
     "not_folded": []

@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lc8"
 title: "Lettre Circulaire 8"
 subtitle: "Septembre 1976"
-date: "1976-09-01"
+date: "1976-09"
 year: 1976
 location: "Krefeld"
 preacher: "Ewald Frank"

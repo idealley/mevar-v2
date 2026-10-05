@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2019_a5"
 title: "Exhortation Année 2019"
 subtitle: "Janvier 2019"
-date: "2019-01-01"
+date: "2019-01"
 year: 2019
 location: "Krefeld"
 preacher: "Ewald Frank"

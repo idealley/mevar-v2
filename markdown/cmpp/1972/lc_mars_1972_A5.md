@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lc_mars_1972_A5"
 title: "Lettre Circulaire"
 subtitle: "MARS 1972"
-date: "1972-03-01"
+date: "1972-03"
 year: 1972
 location: "Krefeld"
 preacher: "Ewald Frank"

@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "dieu_et_son_plan"
 title: "Dieu et Son plan pour l'humanité"
 subtitle: "Un exposé du point de vue biblique"
-date: "1985-05-01"
+date: "1985-05"
 year: 1985
 location: "Krefeld"
 preacher: "Ewald Frank"

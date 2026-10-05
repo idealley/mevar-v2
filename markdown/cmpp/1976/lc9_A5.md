@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lc9_A5"
 title: "Lettre circulaire"
 subtitle: "Novembre 1976"
-date: "1976-11-01"
+date: "1976-11"
 year: 1976
 location: "Krefeld"
 preacher: "Ewald Frank"

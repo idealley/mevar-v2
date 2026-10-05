@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "retour"
 title: "Le Retour de Christ"
 subtitle: "Ses différentes venues et les événements qui lui sont liés"
-date: "1988-12-01"
+date: "1988-12"
 year: 1988
 location: "Krefeld"
 preacher: "Ewald Frank"

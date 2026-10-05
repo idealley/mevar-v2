@@ -159,4 +159,4 @@ Que chacun puisse rendre témoignage dans Sa vie à la Vérité, et que le monde
 
 ---
 
-ÉDITEUR: CENTRE MISSIONNAIRE DE LA PAROLE PARLEE, CASE POSTALE 5633, CH–1002 LAUSANNE (SUISSE), Internet: http://www.cmpp.ch, E-Mail: info@cmpp.ch
+EDITEUR: CENTRE MISSIONNAIRE DE LA PAROLE PARLEE, CASE POSTALE 5633, CH–1002 LAUSANNE (SUISSE), Internet: http://www.cmpp.ch, E-Mail: info@cmpp.ch

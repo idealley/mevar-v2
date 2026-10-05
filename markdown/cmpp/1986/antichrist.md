@@ -2,7 +2,7 @@
 source: "cmpp"
 sermon_id: "antichrist"
 title: "L'ANTICHRIST"
-date: "1986-07-01"
+date: "1986-07"
 year: 1986
 location: "Krefeld"
 preacher: "Ewald Frank"

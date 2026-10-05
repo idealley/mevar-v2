@@ -157,7 +157,7 @@ Nous remarquons par ces paroles l’importance de l’obéissance à cette loi d
 
 Ce respect envers nos parents n’est pas seulement valable dans notre jeunesse, mais aussi lorsque nous devenons des adultes. Dans le Nouveau Testament, Jésus rappelle cette loi aux Pharisiens et hommes de loi car ils l’avaient interprétée à leur convenance afin de trouver une excuse pour ne pas prendre soin de leurs parents: 
 
-> «Il leur répondit: Et vous, pourquoi transgressez-vous le commandement de Dieu au profit de votre tradition? Car Dieu a dit: Honore ton père et ta mère; et: Celui qui maudira son père ou sa mère sera puni de mort. Mais vous, vous dites: Celui qui dira à son père ou à sa mère: Ce dont j’aurais pu t’assister est une offrande à Dieu, n’est pas tenu d’honorer son père ou sa mère. Vous annulez ainsi la parole de Dieu au profit de votre tradition» (Matthieu 15.3-6). 
+> «Il leur répondit: Et vous, pourquoi transgressez-vous le commandement de Dieu au profit de votre tradition? Car Dieu a dit: Honore ton père et ta mère; et: Celui qui maudira son père ou sa mère sera puni de mort. Mais vous, vous dites: Celui qui dira à son père ou à sa mère: Ce dont j’aurais pu t’assister est une offrande à Dieu, n’est pas tenu d’honorer son père ou sa mère. Vous annulez ainsi la parole de Dieu au profit de votre tradition» (Mathieu 15.3-6). 
 
 Il est aussi écrit dans 1 Timothée 5.8: 
 
@@ -227,7 +227,7 @@ Au commencement, dans le jardin d’Eden, il y avait cette relation parfaite ent
 
 Jésus nous a montré l’exemple de cette obéissance au Père et cela jusqu’à la mort pour nous. 
 
-> «C’est lui qui, dans les jours de sa chair, ayant présenté avec de grands cris et avec larmes des prières et des supplications à celui qui pouvait le sauver de la mort, et ayant été exaucé à cause de sa piété, a appris, bien qu’il fût Fils, l’obéissance par les choses qu’il a souffertes, et qui, après avoir été élevé à la perfection, est devenu pour tous ceux qui lui obéissent l’auteur d’un salut éternel» (Hébreux 5.7). 
+> «C’est lui qui, dans les jours de sa chair, ayant présenté avec de grands cris et avec larmes des prières et des supplications à celui qui pouvait le sauver de la mort, et ayant été exaucé à cause de sa piété, a appris, bien qu’il fût Fils, l’obéissance par les choses qu’il a souffertes, et qui, après avoir été élevé à la perfection, est devenu pour tous ceux qui lui obéissent l’auteur d’un salut éternel» (Hebreux 5.7). 
 
 L’exemple d’Abraham et son fils Isaac était une préfiguration de ce que Dieu allait faire plus tard; Isaac a aussi obéi à son père (Genèse 22).
 

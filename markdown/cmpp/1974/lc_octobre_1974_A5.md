@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lc_octobre_1974_A5"
 title: "Lettre circulaire"
 subtitle: "Octobre 1974"
-date: "1974-10-01"
+date: "1974-10"
 year: 1974
 location: "Krefeld"
 preacher: "Ewald Frank"

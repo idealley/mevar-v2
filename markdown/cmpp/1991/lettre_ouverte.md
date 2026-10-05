@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lettre_ouverte"
 title: "LETTRE OUVERTE: Le peuple et le pays d’Israël"
 subtitle: "AVRIL 1991"
-date: "1991-04-01"
+date: "1991-04"
 year: 1991
 location: "Krefeld"
 preacher: "Ewald Frank"

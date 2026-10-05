@@ -38,6 +38,7 @@ pdf_url: "http://cmpp.ch/la_profondeur.pdf"
 llm_cleaned: true
 local_pdf: "https://files.mevar.org/cmpp/undated/la_profondeur.pdf"
 original: "branham/1954/54-0624"
+date: "1954-07"
 ---
 LA PAROLE PARLEE
 

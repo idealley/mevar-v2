@@ -2,7 +2,7 @@
 source: "cmpp"
 sermon_id: "il_est_ecrit"
 title: "IL EST ECRIT…"
-date: "1987-09-01"
+date: "1987-09"
 year: 1987
 location: "Krefeld"
 preacher: "Ewald Frank"

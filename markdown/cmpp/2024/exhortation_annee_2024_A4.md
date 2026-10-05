@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2024_A4"
 title: "Exhortation Année 2024"
 subtitle: "Janvier 2024"
-date: "2024-01-01"
+date: "2024-01"
 year: 2024
 location: "Krefeld"
 preacher: "Ewald Frank"

@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lc_septembre_1972_A5"
 title: "Lettre circulaire"
 subtitle: "Septembre 1972"
-date: "1972-09-01"
+date: "1972-09"
 year: 1972
 location: "Krefeld"
 preacher: "Ewald Frank"
@@ -80,7 +80,7 @@ SEPTEMBRE 1972
 
 Je vous salue cordialement dans le précieux Nom de Jésus, avec ces paroles d’Esaïe 54.14,15,17:
 
-> “Tu seras affermie par la justice; bannis l’inquiétude, car tu n’as rien à craindre, et la frayeur, car elle n’approchera pas de toi. Si l’on forme des complots cela ne viendra pas de moi; quiconque se ligera contre toi tombera sous ton pouvoir. Toute arme forgée contre toi sera sans effet, et toute langue qui s’élèvera en justice contre toi, tu la condamneras. Tel est l’héritage des serviteurs de l’Eternel, tel est le salut qui leur viendra de moi, dit l’Eternel”.
+> “Tu seras affermie par la justice; bannis l’inquiétude, car tu n’as rien à craindre, et la frayeur, car elle n’approchera pas de toi. Si l’on forme des complots cela ne viendra pas de moi; quiconque se liguera contre toi tombera sous ton pouvoir. Toute arme forgée contre toi sera sans effet, et toute langue qui s’élèvera en justice contre toi, tu la condamneras. Tel est l’héritage des serviteurs de l’Eternel, tel est le salut qui leur viendra de moi, dit l’Eternel”.
 
 Nous devons être certains de ceci, c’est que Dieu combat pour nous, si nous nous tenons à Ses côtés. Nous nous trouvons en pleine bataille spirituelle; cependant, le Seigneur a déjà vaincu toutes les puissances de l’ennemi. Nous ne devons ni craindre, ni avoir des frayeurs. Nous disons au contraire, pleins d’assurance: “Si Dieu est pour nous, qui sera contre nous? Que peuvent nous faire des hommes?”. Aucune arme forgée contre le peuple de Dieu ne réussira à l’atteindre, et chaque langue qui s’élèvera contre les élus sera convaincue de mensonge. C’est là l’héritage de celui qui croit Dieu de tout son coeur et qui se confie en Lui.
 
@@ -118,7 +118,7 @@ Dans 1 Corinthiens 12.12, l’Eglise est décrite comme le Corps spirituel qui e
 
 DIEU A ETABLI
 
-Nous lisons dans 1 Corinthiens 12.28: “Et Dieu a établi dans l’Eglise premièrement des apôtres, secondement des prophètes, troisièmement des docteurs…”. Nous voyons donc que l’assemblée n’est pas fondée par des hommes, mais bien par Jésus-Christ. Nous reconnaissons aussi que tout ce qui s’appelle Eglise du Seigneur ne l’est pas forcément. Cet exposé biblique est donné afin d’aider chacun à s’éprouver soi-même, pour constater s’il appartient réellement à l’Eglise de Jésus-Christ. Comme dans Ephésiens 4.11, il est écrit ici que Dieu a établi dans l’Eglise, “… premièrement des apôtres, secondement des prophètes, troisièmement des docteurs, etc.…”.
+Nous lisons dans 1 Corinthiens 12.28: “Et Dieu a établi dans l’Eglise premièrement des apôtres, secondement des prophètes, troisièmement des docteurs…”. Nous voyons donc que l’assemblée n’est pas fondée par des hommes, mais bien par Jésus-Christ. Nous reconnaissons aussi que tout ce qui s’appelle Eglise du Seigneur ne l’est pas forcément. Cet exposé biblique est donné afin d’aider chacun à s’éprouver soi-même, pour constater s’il appartient réellement à l’Eglise de Jésus-Christ. Comme dans Ephésiens 4.11, il est écrit ici que Dieu a établi dans l’Eglise, “… premièrement des apôtres, deuxièmement des prophètes, troisièmement des docteurs, etc.…”.
 
 Tous ceux qui font partie de l’Eglise de Jésus-Christ respectent l’ordre divin et reconnaissent le ministère d’un serviteur envoyé de Dieu, que ce soit celui d’un apôtre, d’un prophète ou d’un docteur. Tout ce que Dieu a destiné à l’édification de l’Eglise, ceux qui font partie du Corps de Christ le prennent avec reconnaissance. Généralement, on reconnaît le ministère d’un pasteur ou d’un évangéliste, mais en ce qui concerne les trois autres ministères, cela parait être tout différent. Cependant, Dieu a jugé que ceux-ci étaient nécessaires, et Il les a destinés à l’édification de l’Eglise.
 

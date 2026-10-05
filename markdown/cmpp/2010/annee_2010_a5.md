@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2010_a5"
 title: "Exhortation Année 2010"
 subtitle: "Janvier 2010"
-date: "2010-01-01"
+date: "2010-01"
 year: 2010
 location: "Krefeld"
 preacher: "Ewald Frank"

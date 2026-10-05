@@ -2,7 +2,7 @@
 source: "cmpp"
 sermon_id: "vraitemoin"
 title: "JE SUIS UN VRAI TEMOIN"
-date: "1997-12-01"
+date: "1997-12"
 year: 1997
 location: "Krefeld"
 preacher: "Ewald Frank"

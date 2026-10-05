@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "janvier1974"
 title: "Lettre circulaire — Janvier 1974"
 subtitle: "Janvier 1974"
-date: "1974-01-01"
+date: "1974-01"
 year: 1974
 location: "Krefeld"
 preacher: "Ewald Frank"
@@ -67,6 +67,7 @@ bible_refs:
   - "Luc 22:47,48"
   - "Ésaïe 37:30-32"
 local_pdf: "https://files.mevar.org/cmpp/1974/janvier1974.pdf"
+duplicate_of: "cmpp/1974/lc_janvier_1974"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).
 

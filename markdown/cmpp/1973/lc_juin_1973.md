@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lc_juin_1973"
 title: "Lettre Circulaire"
 subtitle: "Juin 1973"
-date: "1973-06-01"
+date: "1973-06"
 year: 1973
 location: "Krefeld"
 preacher: "Ewald Frank"

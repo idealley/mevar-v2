@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "octobre1974"
 title: "Lettre circulaire — Octobre 1974"
 subtitle: "Octobre 1974"
-date: "1974-10-01"
+date: "1974-10"
 year: 1974
 location: "Krefeld"
 preacher: "Ewald Frank"
@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 24:45,46"
   - "Éphésiens 4:11-13"
 local_pdf: "https://files.mevar.org/cmpp/1974/octobre1974.pdf"
+duplicate_of: "cmpp/1974/lc_octobre_1974"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).
 

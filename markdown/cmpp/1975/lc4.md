@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lc4"
 title: "Lettre circulaire 4"
 subtitle: "Novembre 1975"
-date: "1975-11-01"
+date: "1975-11"
 year: 1975
 location: "Krefeld"
 preacher: "Ewald Frank"

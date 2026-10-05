@@ -49,9 +49,9 @@ Most mentions of « fils mâle »: La Parabole des noces (2019, mevar, 13); Le P
 
 | French phrase | French works (mentions) | Translation works (mentions) | First French work | Segond | Darby |
 |---|---|---|---|---|---|
-| épouse de christ | 91 (151) | 5 (15) | 1988 · Prédication à Bruxelles, 9 avril 1988 (Ewald Frank) | 0 | 0 |
+| épouse de christ | 89 (148) | 5 (15) | 1988 · Prédication à Bruxelles, 9 avril 1988 (Ewald Frank) | 0 | 0 |
 | épouse du christ | 2 (4) | 0 (0) | 2004 · Les cinq Ministères de la Parole dans la vision des temps de la fin (Parfait M'bra) | 0 | 0 |
-| épouse | 293 (1310) | 316 (721) | 1974 · Lettre circulaire — Juillet 1974 (Ewald Frank) | 15 | 18 |
+| épouse | 288 (1293) | 316 (721) | 1974 · Lettre circulaire — Juillet 1974 (Ewald Frank) | 15 | 18 |
 
 | English phrase | Branham works (mentions) | KJV | Top Branham sermons |
 |---|---|---|---|
@@ -89,7 +89,7 @@ Most mentions of « témoignage de l'épouse »: La position de l’archange Mic
 
 | French phrase | French works (mentions) | Translation works (mentions) | First French work | Segond | Darby |
 |---|---|---|---|---|---|
-| préparation de l'épouse | 7 (15) | 1 (1) | 2004 · Les cinq Ministères de la Parole dans la vision des temps de la fin (Parfait M'bra) | 0 | 0 |
+| préparation de l'épouse | 6 (13) | 1 (1) | 2004 · Les cinq Ministères de la Parole dans la vision des temps de la fin (Parfait M'bra) | 0 | 0 |
 | préparation | 289 (703) | 30 (34) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 6 | 9 |
 
 | English phrase | Branham works (mentions) | KJV | Top Branham sermons |
@@ -97,7 +97,7 @@ Most mentions of « témoignage de l'épouse »: La position de l’archange Mic
 | preparation of the bride | 0 (0) | 0 |  |
 | preparation | 116 (241) | 9 | 53-1111 Preparation (24); 56-0108 God Hath A Provided Way (20); 60-0608 Having Conferences (13); 53-1018 Elijah (7); 55-1009 The Way To Have Fellowship (7) |
 
-Most mentions of « préparation de l'épouse »: Les cinq Ministères de la Parole dans la vision des temps de la fin (2004, Parfait M'bra, 7); Exhortation Année 2023 (2023, Ewald Frank, 2); Jésus-Christ : architecte et constructeur (2009, mevar, 2); David et Goliath (2017, mevar, 1); L'appel et l'expérience du ministère (2014, mevar, 1); Le Choix (2017, mevar, 1); David et Goliath - le cri de minuit (2017, mevar-pdfs, 1)
+Most mentions of « préparation de l'épouse »: Les cinq Ministères de la Parole dans la vision des temps de la fin (2004, Parfait M'bra, 7); Jésus-Christ : architecte et constructeur (2009, mevar, 2); David et Goliath (2017, mevar, 1); L'appel et l'expérience du ministère (2014, mevar, 1); Le Choix (2017, mevar, 1); David et Goliath - le cri de minuit (2017, mevar-pdfs, 1)
 
 ### huitieme
 
@@ -224,7 +224,7 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | plan de dieu | 183 | 109 |  |  |
 | christ notre seigneur | 183 | 1 | yes | yes |
 | devant le seigneur | 180 | 42 | yes | yes |
-| saintes ecritures | 178 | 23 |  |  |
+| saintes ecritures | 180 | 23 |  |  |
 | message de heure | 178 | 47 |  |  |
 | dieu donné | 177 | 185 | yes | yes |
 | côte ivoire | 177 | 0 |  |  |
@@ -236,8 +236,8 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | nouvelle naissance | 165 | 204 |  |  |
 | parole prophétique | 164 | 7 | yes | yes |
 | rendre compte | 153 | 117 | yes | yes |
+| epouse de christ | 153 | 50 |  |  |
 | communion avec dieu | 153 | 55 |  |  |
-| epouse de christ | 152 | 50 |  |  |
 | père céleste | 151 | 170 | yes | yes |
 | centre missionnaire international | 151 | 0 |  |  |
 | missionnaire international | 151 | 0 |  |  |
@@ -277,8 +277,8 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | vierges folles | 121 | 75 |  |  |
 | matthieu chapitre | 121 | 9 |  |  |
 | révélation divine | 120 | 19 |  |  |
+| eglise du nouveau | 119 | 6 |  |  |
 | beaucoup de gens | 119 | 126 | yes | yes |
-| eglise du nouveau | 118 | 6 |  |  |
 | entendu parler | 118 | 240 | yes | yes |
 | puissance du saint-esprit | 117 | 184 | yes |  |
 | fausses doctrines | 117 | 4 | yes |  |
@@ -344,18 +344,18 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | seigneur parlé | 93 | 13 |  | yes |
 | plan du salut | 92 | 13 |  |  |
 | seigneur seigneur | 92 | 52 | yes | yes |
+| eternel des armées | 92 | 50 |  |  |
 | vérité en vérité | 92 | 50 | yes | yes |
 | prophète promis | 92 | 2 |  |  |
 | face de dieu | 91 | 10 | yes | yes |
-| eternel des armées | 91 | 50 |  |  |
 | info cmpp | 91 | 3 |  |  |
-| épouse de christ | 91 | 5 |  |  |
 | sommes arrivés | 90 | 51 | yes | yes |
 | e-mail info | 90 | 3 |  |  |
 | e-mail info cmpp | 90 | 3 |  |  |
 | plusieurs manières | 90 | 31 | yes | yes |
 | voix forte | 89 | 33 | yes | yes |
 | ministère prophétique | 89 | 1 |  |  |
+| épouse de christ | 89 | 5 |  |  |
 | paroles de dieu | 88 | 39 | yes | yes |
 | rend témoignage | 88 | 23 | yes | yes |
 | sommes parvenus | 88 | 6 | yes | yes |
@@ -397,27 +397,28 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | prendre conscience | 82 | 10 |  |  |
 | seigneur viendra | 81 | 11 | yes | yes |
 | faux prophète | 81 | 105 | yes | yes |
+| editeur centre | 81 | 1 |  |  |
+| editeur centre missionnaire | 81 | 1 |  |  |
 | parole parlée | 81 | 42 |  |  |
 | soeurs en christ | 81 | 3 |  |  |
 | dieu appelé | 81 | 68 |  | yes |
 | elie le prophète | 80 | 47 |  |  |
 | guerre mondiale | 80 | 24 |  |  |
-| editeur centre | 80 | 1 |  |  |
-| editeur centre missionnaire | 80 | 1 |  |  |
 | auprès de dieu | 80 | 45 | yes | yes |
 | seigneur est venu | 80 | 18 | yes | yes |
 | filles de dieu | 80 | 93 |  |  |
 | chaîne de prière | 80 | 11 |  |  |
+| histoire de eglise | 79 | 5 |  |  |
 | gloire dieu | 79 | 238 | yes | yes |
-| âges de église | 79 | 75 |  |  |
-| histoire de eglise | 78 | 5 |  |  |
 | milliers de personnes | 78 | 58 |  |  |
 | lausanne suisse | 78 | 7 |  |  |
 | reçu du seigneur | 78 | 14 | yes | yes |
 | sommes maintenant | 78 | 62 | yes | yes |
+| âges de église | 78 | 75 |  |  |
 | jusqu'au bout | 78 | 70 | yes | yes |
 | suis en train | 78 | 53 |  |  |
 | dieu nous aide | 77 | 53 |  |  |
+| eglise de jésus-christ | 77 | 11 |  |  |
 | plan de salut | 77 | 5 |  |  |
 | dieu nous donné | 77 | 44 | yes | yes |
 | babylone la grande | 77 | 20 | yes | yes |
@@ -427,7 +428,6 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | commencé prêcher | 77 | 12 |  |  |
 | partir du premier | 77 | 0 |  |  |
 | pères apostoliques | 76 | 8 |  |  |
-| eglise de jésus-christ | 76 | 11 |  |  |
 | jugement de dieu | 76 | 45 | yes | yes |
 | seul corps | 76 | 85 | yes | yes |
 | empire romain | 76 | 18 |  |  |
@@ -461,7 +461,6 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | dieu maintenant | 73 | 63 | yes |  |
 | parmi les croyants | 73 | 13 |  |  |
 | voyages missionnaires | 73 | 4 |  |  |
-| éternel des armées | 73 | 10 | yes | yes |
 | domaine spirituel | 73 | 19 |  |  |
 | dieu aime | 73 | 78 | yes | yes |
 | accomplir la volonté | 73 | 8 |  |  |
@@ -479,6 +478,7 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | abraham isaac | 71 | 46 | yes | yes |
 | nature divine | 71 | 11 | yes | yes |
 | jusqu'à la mort | 71 | 31 | yes | yes |
+| éternel des armées | 71 | 10 | yes | yes |
 | avaient reçu | 70 | 51 | yes | yes |
 | parole de vérité | 70 | 7 | yes |  |
 | envoyé par dieu | 70 | 75 | yes | yes |
@@ -490,6 +490,7 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | dieu en effet | 70 | 5 | yes |  |
 | esprit elie | 69 | 66 |  |  |
 | serviteur et prophète | 69 | 1 |  |  |
+| âges de eglise | 69 | 58 |  |  |
 | tant que fils | 69 | 20 |  |  |
 | amour fraternel | 69 | 60 | yes | yes |
 | membres du corps | 69 | 18 | yes | yes |
@@ -497,7 +498,6 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | pris part | 69 | 4 | yes | yes |
 | dieu commencé | 69 | 15 |  |  |
 | actes chapitre | 69 | 3 |  |  |
-| âges de eglise | 68 | 58 |  |  |
 | poser la question | 68 | 10 |  |  |
 | nouvelle création | 68 | 20 |  | yes |
 | jeunes filles | 68 | 73 | yes | yes |
@@ -531,7 +531,6 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | action de dieu | 65 | 14 |  |  |
 | servir le seigneur | 65 | 44 |  |  |
 | monde jean | 65 | 35 |  |  |
-| parole de éternel | 65 | 5 | yes | yes |
 | reçu esprit | 64 | 26 | yes | yes |
 | mission divine | 64 | 0 |  |  |
 | cmpp ch e-mail | 64 | 1 |  |  |
@@ -540,12 +539,14 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | dieu le père | 64 | 90 | yes | yes |
 | écrit dans apocalypse | 64 | 2 |  |  |
 | faux enseignements | 64 | 6 |  |  |
+| parole de éternel | 64 | 5 | yes | yes |
 | sept anges | 63 | 81 | yes | yes |
 | prophète esaïe | 63 | 25 |  |  |
 | sommes reconnaissants | 63 | 48 |  |  |
 | vision céleste | 63 | 18 | yes | yes |
 | pouvons lire | 63 | 10 |  |  |
 | jean-baptiste fut envoyé | 63 | 14 |  |  |
+| seigneur eternel | 62 | 31 |  |  |
 | nouvelle jérusalem | 62 | 22 | yes | yes |
 | tant que prophète | 62 | 14 |  |  |
 | versets bibliques | 62 | 1 |  |  |
@@ -564,7 +565,6 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | ayant reçu | 62 | 34 | yes | yes |
 | mise en garde | 62 | 8 |  |  |
 | sortez sa rencontre | 62 | 3 |  | yes |
-| seigneur eternel | 61 | 31 |  |  |
 | deuxième partie | 61 | 7 |  |  |
 | jean jésus | 61 | 108 | yes |  |
 | eglise du dieu | 61 | 81 |  |  |
@@ -625,20 +625,20 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | écrit dans corinthiens | 43 |  |  |
 | saint-roch case | 43 |  |  |
 | saint-roch case postale | 43 |  |  |
-| saintes écritures | 43 | yes | yes |
 | pays afrique | 42 |  |  |
 | matthieu le seigneur | 41 |  |  |
 | parlee rue saint-roch | 41 |  |  |
 | postale lausanne suisse | 41 |  |  |
 | règne de christ | 40 |  |  |
+| saintes écritures | 40 | yes | yes |
 | mener le combat | 40 |  |  |
 | grande guerre | 40 |  |  |
 | dieu conformément | 39 | yes |  |
+| préparation de epouse | 39 |  |  |
 | disciple de jésus-christ | 39 |  |  |
 | faux dieux | 39 |  |  |
 | écrit dans jean | 38 |  |  |
 | fondement biblique | 38 |  |  |
-| préparation de epouse | 38 |  |  |
 | position spirituelle | 38 |  |  |
 | ministère du prophète | 38 |  |  |
 | commission divine | 37 |  |  |
@@ -705,7 +705,6 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | croyants bibliques | 28 |  |  |
 | intérieur du message | 28 |  |  |
 | bien-aimés dieu | 28 | yes | yes |
-| message qui précédera | 28 |  |  |
 | croiser les bras | 28 |  |  |
 | mener ce combat | 28 |  |  |
 | œuvre spirituelle | 28 |  |  |
@@ -728,3 +727,4 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | salut se trouve | 26 |  |  |
 | apôtre paul écrit | 26 |  |  |
 | impudicité impureté | 26 | yes |  |
+| hériteront point | 26 | yes | yes |

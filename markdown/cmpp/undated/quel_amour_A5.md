@@ -155,7 +155,7 @@ E-Mail : info@cmpp.ch
 
 Nous entendons quotidiennement, dans ce monde parler d'« amour ». Que ce soit dans les rues, au travail, dans les familles, dans les chansons, à la télévision, dans les films, les livres, les revues, les journaux, les écoles, les universités ; tous parlent d'« amour » et tous ont en eux ce désir d'aimer malgré toutes les différences qui les opposent.
 
-Dans le monde religieux aussi, il y a cet état d'esprit qui réclame l'« amour ». Les gens montrent de l'amour les un envers les autres, voulant démontrer qu'ils sont tous unis cela plus particulièrement par l'Oecuménisme, malgré que chaque religion ou credo a un regard différent sur les choses spirituelles.
+Dans le monde religieux aussi, il y a cet état d'esprit qui réclame l'« amour ». Les gens montrent de l'amour les un envers les autres, voulant démontrer qu'ils sont tous unis cela plus particulièrement par l'Oeucuménisme, malgré que chaque religion ou credo a un regard différent sur les choses spirituelles.
 
 Parmi les croyants ayant reçu ce Message du temps de la fin, qui appelle à sortir de Babylone pour revenir à Jérusalem former cette Epouse promise, il en est hélas de même. Nous entendons aussi parler des croyants ayant ce même état d'esprit d'« amour », affirmant que malgré tous les différents points de vue à l'intérieur de ce Message, nous devrions nous aimer et nous unir, parce que nous formons un seul Corps et nous devrions avoir cet amour les uns pour les autres comme le Seigneur l'a demandé :
 

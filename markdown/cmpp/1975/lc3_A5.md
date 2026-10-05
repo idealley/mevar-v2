@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "lc3_A5"
 title: "Lettre circulaire"
 subtitle: "Août 1975"
-date: "1975-08-01"
+date: "1975-08"
 year: 1975
 location: "Krefeld"
 preacher: "Ewald Frank"
