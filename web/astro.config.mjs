@@ -47,7 +47,7 @@ export default defineConfig({
       registerType: "autoUpdate",
       // What every page shows. The manifest icons are fetched by the browser
       // when a reader installs the app, not precached (icon-512 is 85 KB).
-      includeAssets: ["favicon.svg", "favicon.ico", "brand/logo.svg"],
+      includeAssets: ["favicon.svg", "favicon.ico", "brand/logo.svg", "brand/logo-white.svg"],
         manifest: {
           name: "Mevar",
           short_name: "Mevar",
