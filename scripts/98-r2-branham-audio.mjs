@@ -65,7 +65,8 @@ async function worker() {
     if (text !== w.text) { frontmatters++; if (!dry) fs.writeFileSync(path.join(root, w.md), text); }
   }
 }
-await Promise.all(Array.from({ length: 6 }, worker));
+// branham.org's CDN serves about 265 KB/s a connection: 16 at a time
+await Promise.all(Array.from({ length: 16 }, worker));
 console.log(`${works.length} works with an audio_url; ${downloaded} downloaded, ${uploaded} uploaded, ${frontmatters} frontmatters${dry ? " (dry)" : ""}`);
 // every work must have its recording: one missing fails the run
 if (missing.length) { console.error(`no recording for ${missing.length}: ${missing.slice(0, 10).join(", ")}`); process.exit(1); }
