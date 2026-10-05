@@ -51,7 +51,7 @@ Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well
 | Script                          | Languages          | Output                                   |
 | ------------------------------- | ------------------ | ---------------------------------------- |
 | `65-normalize-bible.mjs`        | French — LSG style | records refs as `Matthieu 24:6`, spoken ones ("Luc chapitre 18 verset 9", "le chapitre 24 de Matthieu") included, and "Matthieu 13 :" before a quote whose first verse number is bold as the quote's verses; every French source, `mevar-pdfs` included; not `branham/` |
-| `65b-restore-branham-from-source.mjs` | English | puts the branham.org wording back where old runs rewrote it |
+| `65b-restore-branham-from-source.mjs` | English | puts the branham.org wording back where old runs rewrote it; only with `--from-scratch`, after 73 (goal 26) |
 | `65c-restore-french-citations.mjs` | French | puts the Ghost (`mevar`) and le-scribe.org PDF (`le-scribe`) wording of a citation back where old runs of 65 wrote it canonical |
 | `65d-strip-branham-furniture.mjs` | English | takes the booklets' page headers ("18 THE SPOKEN WORD", "AN EXODUS 19") out of the text, where the PDF confirms each one |
 | `66-normalize-bible-en.mjs`     | English — KJV style | records refs as `Matthew 24:6`, spoken ones ("Saint John the 4th chapter") included |
@@ -110,6 +110,18 @@ committed and served from our domain (`web/public/images`, `web/public/files`).
 | `93-optimize-images.mjs`            | `images/` to WebP, under 80 KB a file where it can     |
 | `94-relink-mevar-urls.mjs`          | body links to `mevar.org` root-relative; Ghost bookmark cards to a clean link |
 | `check-local-assets.mjs`            | every local `images/` and `files/` link in `markdown/` resolves |
+
+## Stage 6b — PDFs and recordings on our domain
+
+73 rewrites a whole file from the manifest and its cache, so after it these run
+again: they set the fields that point at our copies.
+
+| Script                         | Action                                                  |
+| ------------------------------ | ------------------------------------------------------- |
+| `95-mevar-pdfs.mjs`            | a Mevar text's PDF (`text_pdf`) and its OneDrive original (`local_pdf`) |
+| `96-r2-pdfs.mjs`               | Branham, Le Scribe and CMPP PDFs to R2, `local_pdf`    |
+| `97-mevar-media.mjs`           | Ghost posts' recordings to R2 as MP3 (`local_audio`), their YouTube videos (`video_url`), from `scripts/mevar-media.json` |
+| `98-r2-branham-audio.mjs`      | Branham recordings to R2, `local_audio`                |
 
 ## Stage 7 — SurrealDB ingest
 
