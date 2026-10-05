@@ -186,4 +186,47 @@ report(
   `${items.length} items`,
 );
 
+// 6. What a search engine reads (goal 28): robots.txt names the sitemap, every
+// page's JSON-LD parses, and every Ghost post says it is an article, with its
+// title, its date and its author.
+const robots = path.join(dist, "robots.txt");
+report(
+  "robots.txt names the sitemap",
+  fs.existsSync(robots) && fs.readFileSync(robots, "utf8").includes("Sitemap: https://mevar.org/sitemap-index.xml") ? [] : ["dist/robots.txt missing, or without its Sitemap line"],
+);
+// Each page's blocks, parsed; a block that does not parse is reported once.
+const unparsed = [];
+const badDate = [];
+const undescribed = [];
+let blocks = 0;
+const jsonLd = new Map(pages.map((page) => [page, []]));
+for (const page of pages) {
+  const html = fs.readFileSync(page, "utf8");
+  if (!/<meta name="description" content="[^"]/.test(html)) undescribed.push(path.relative(dist, page));
+  for (const [, block] of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
+    blocks++;
+    try {
+      const data = JSON.parse(block);
+      jsonLd.get(page).push(data);
+      // A day, a month or a year: never « 1950-01-?? ».
+      if (data["@type"] === "Article" && data.datePublished && !/^\d{4}(-\d{2}){0,2}$/.test(data.datePublished)) badDate.push(`${path.relative(dist, page)}: ${data.datePublished}`);
+    } catch {
+      unparsed.push(path.relative(dist, page));
+    }
+  }
+}
+report("every JSON-LD block parses", unparsed, `${blocks} blocks`);
+report("every Article's date is a day, a month or a year", badDate);
+report("every page has a description", undescribed);
+report(
+  "every Ghost post is an Article with its title, date and author",
+  published.flatMap((p) => {
+    const file = served(`/${p.sermon_id}/`);
+    const article = jsonLd.get(file)?.find((d) => d["@type"] === "Article");
+    const said = article?.headline && article.datePublished && article.author?.name && fs.readFileSync(file, "utf8").includes('<meta property="og:type" content="article"');
+    return said ? [] : [`/${p.sermon_id}/`];
+  }),
+  `${published.length} posts`,
+);
+
 process.exit(failed ? 1 : 0);

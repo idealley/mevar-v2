@@ -15,7 +15,7 @@ const { eyebrow, title, intro, crumbs } = Astro.props;
 ---
 
 <header class="mx-auto flex max-w-[1440px] flex-col gap-5 px-10 pt-[52px] pb-9 max-lg:gap-[18px] max-lg:px-4 max-lg:pt-1 max-lg:pb-3.5">
-  {crumbs && <Crumbs crumbs={crumbs} />}
+  {crumbs && <Crumbs crumbs={crumbs} here={title} />}
   {eyebrow && <p class="eyebrow max-lg:order-1 max-lg:text-[11px] max-lg:font-normal max-lg:tracking-normal max-lg:normal-case max-lg:text-muted">{eyebrow}</p>}
   <div class="flex items-center justify-between gap-4">
     <h1 class="font-display text-[70px] leading-[71px] max-lg:text-[28px] max-lg:leading-9">{title}</h1>

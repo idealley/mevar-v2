@@ -1,0 +1,11 @@
+---
+// A schema.org description of the page, for search engines.
+interface Props {
+  data: Record<string, unknown>;
+}
+
+// "<" escaped, so that no title can close the script element.
+const json = JSON.stringify({ "@context": "https://schema.org", ...Astro.props.data }).replaceAll("<", "\\u003c");
+---
+
+<script type="application/ld+json" is:inline set:html={json} />
