@@ -13,12 +13,23 @@ const BUCKET = "mevar-files";
 export const url = (key) => `https://files.mevar.org/${key.split("/").map(encodeURIComponent).join("/")}`;
 
 const exec = promisify(execFile);
-// a call the API rate-limits (429) is tried again, a little later each time
+// a call the API rate-limits (429) or that times out is tried again, a
+// little later each time
 async function run(args, opts) {
   for (let wait = 2000; ; wait *= 2) {
     try { return await exec("cf", args, opts); }
-    catch (e) { if (!/429/.test(e.message) || wait > 64000) throw e; await new Promise((r) => setTimeout(r, wait)); }
+    catch (e) { if (!/429|timeout/.test(e.message) || wait > 64000) throw e; await new Promise((r) => setTimeout(r, wait)); }
   }
+}
+
+// at most 4 uploads at a time: more saturate the uplink and time out
+let uploading = 0;
+const waiting = [];
+async function slot(fn) {
+  // a finished upload hands its slot to the next one waiting
+  if (uploading >= 4) await new Promise((r) => waiting.push(r));
+  else uploading++;
+  try { return await fn(); } finally { const next = waiting.shift(); if (next) next(); else uploading--; }
 }
 
 // what the bucket holds under a prefix: key → etag
@@ -40,6 +51,6 @@ async function listed(prefix) {
 export async function put(key, file, contentType, dry) {
   const objects = await list(`${key.slice(0, key.lastIndexOf("/"))}/`);
   if (objects.get(key) === crypto.createHash("md5").update(fs.readFileSync(file)).digest("hex")) return false;
-  if (!dry) await run(["r2", "objects", "put", key, "--bucket-name", BUCKET, "--file", file, "--content-type", contentType, "-q"], { maxBuffer: 1 << 24 });
+  if (!dry) await slot(() => run(["r2", "objects", "put", key, "--bucket-name", BUCKET, "--file", file, "--content-type", contentType, "-q"], { maxBuffer: 1 << 24 }));
   return true;
 }
