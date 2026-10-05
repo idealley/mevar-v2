@@ -1,75 +1,130 @@
 ---
+// /recherche/: Pagefind's index, read through its JS API so the page is the
+// design's own. Mevar by default; the archive when the reader asks for it.
 import Layout from "../layouts/Layout.astro";
+import Icon from "../components/Icon.astro";
+import PageHead from "../components/PageHead.astro";
+import { ARCHIVE_SOURCES } from "$lib/works";
+
+const filters = [
+  { name: "preacher", label: "Prédicateur" },
+  { name: "year", label: "Année" },
+  { name: "source", label: "Source" },
+];
 ---
 
 <Layout title="Recherche · Mevar" description="Recherche dans la bibliothèque Mevar">
-  <div class="container mx-auto px-4 py-12 md:py-16 max-w-2xl">
-    <header class="mb-8">
-      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">Recherche</h1>
-      <p class="text-lg text-muted-foreground">
-        Dans le texte des prédications, exhortations, études et publications
-        de la mission. Les archives, en français et en anglais, sur demande.
-        Filtres par prédicateur, année et source.
+  <PageHead title="Recherche">
+    <a slot="action" href="/" class="round-btn lg:hidden" aria-label="Fermer la recherche"><Icon name="x" /></a>
+  </PageHead>
+  <form id="search" class="mx-auto flex max-w-[1440px] flex-col gap-3 px-10 pb-[72px] max-lg:px-4 max-lg:pt-2.5 max-lg:pb-10" data-sources={JSON.stringify({ mevar: "Mevar", ...ARCHIVE_SOURCES })}>
+    <div class="flex max-w-[760px] flex-col gap-3">
+      <label class="flex h-[50px] items-center gap-2.5 rounded-full bg-surface px-4 shadow-[inset_0_0_0_1px_var(--ink)]">
+        <Icon name="search" size={17} />
+        <input name="q" type="search" aria-label="Rechercher" placeholder="Un mot, une phrase, un titre" autocomplete="off" class="min-w-0 flex-1 bg-transparent text-base leading-5 outline-none placeholder:text-muted [&::-webkit-search-cancel-button]:hidden" />
+        <button type="reset" class="cursor-pointer text-muted hover:text-ink" aria-label="Effacer"><Icon name="circle-x" size={17} /></button>
+      </label>
+      <label class="flex cursor-pointer items-center gap-2.5 text-xs leading-[17px] text-ink-2">
+        <input name="archives" type="checkbox" class="peer sr-only" />
+        <span class="flex h-[22px] w-[38px] shrink-0 items-center rounded-full bg-line p-[3px] transition-colors peer-checked:bg-accent-fill peer-checked:[&>span]:translate-x-4 peer-focus-visible:outline-2 peer-focus-visible:outline-accent">
+          <span class="size-4 rounded-full bg-knob transition-transform"></span>
+        </span>
+        Inclure les archives (Branham, Le Scribe, CMPP…)
+      </label>
+      <div class="flex flex-wrap items-center gap-2 py-0.5">
+        {filters.map((f) => (
+          <label class="hair relative flex items-center gap-[5px] rounded-full px-[13px] py-2 text-xs leading-[15px] font-medium text-ink-2 has-[option:checked:not([value=''])]:text-ink has-[option:checked:not([value=''])]:shadow-[inset_0_0_0_1px_var(--ink)]">
+            <select name={f.name} aria-label={f.label} class="cursor-pointer appearance-none bg-transparent pr-[18px] outline-none">
+              <option value="">{f.label}</option>
+            </select>
+            <Icon name="chevron-down" size={13} class="pointer-events-none absolute right-[13px] text-muted" />
+          </label>
+        ))}
+      </div>
+    </div>
+
+    <div class="flex max-w-[760px] flex-col pt-1">
+      <p class="flex items-center justify-between pb-1.5 text-[13px] leading-4 font-semibold">
+        <span id="count" role="status"></span>
+        <span id="collection" class="shrink-0 pl-4 text-[11px] leading-[13px] font-normal text-muted">Collection Mevar</span>
       </p>
-    </header>
-    <!-- The index and its UI load on first focus, not with the page. -->
-    <input
-      id="search-start"
-      type="search"
-      aria-label="Rechercher"
-      placeholder="Un mot, une phrase, un titre"
-      class="w-full rounded-md border bg-background px-4 py-3 text-lg"
-    />
-    <label class="flex items-center gap-2 mt-4 text-sm">
-      <input id="archives" type="checkbox" />
-      Inclure les archives (Branham, Le Scribe, CMPP…)
-    </label>
-    <div id="search" class="mt-4"></div>
-  </div>
+      <ol id="results" class="flex flex-col"></ol>
+      <button id="more" type="button" class="chip mt-4 cursor-pointer self-start" hidden>Plus de résultats</button>
+    </div>
+  </form>
+
+  <template id="result">
+    <li class="relative flex flex-col gap-1.5 border-t py-[15px]">
+      <p class="cat text-[9px] leading-[11px] tracking-[1.6px] lg:text-[10px] lg:leading-3 lg:tracking-[1.8px]"></p>
+      <h2 class="font-display text-xl leading-[23px] lg:text-[26px] lg:leading-[30px]"><a class="after:absolute after:inset-0"></a></h2>
+      <p class="snip text-[12.5px] leading-[19px] text-ink-2 lg:text-sm lg:leading-[22px] [&_mark]:bg-transparent [&_mark]:font-semibold [&_mark]:text-ink"></p>
+      <p class="about text-[11px] leading-[13px] text-muted lg:text-xs lg:leading-[15px]"></p>
+    </li>
+  </template>
 </Layout>
 
-<style is:global>
-  /* The checkbox above is the one control for Mevar or the archive. */
-  #search details:has(input[name="collection"]) {
-    display: none;
-  }
-</style>
-
 <script>
-  const start = document.getElementById("search-start") as HTMLInputElement;
-  const archives = document.getElementById("archives") as HTMLInputElement;
+  const form = document.getElementById("search") as HTMLFormElement;
+  const results = document.getElementById("results")!;
+  const count = document.getElementById("count")!;
+  const more = document.getElementById("more")!;
+  const template = document.getElementById("result") as HTMLTemplateElement;
+  const sources: Record<string, string> = JSON.parse(form.dataset.sources!);
+  const selects = [...form.querySelectorAll("select")];
+  const PAGE = 10;
 
-  function load() {
-    const css = document.createElement("link");
-    css.rel = "stylesheet";
-    css.href = "/pagefind/pagefind-ui.css";
-    document.head.append(css);
-    const js = document.createElement("script");
-    js.src = "/pagefind/pagefind-ui.js";
-    js.onload = () => {
-      // @ts-expect-error PagefindUI is the global pagefind-ui.js defines
-      const ui = new PagefindUI({
-        element: "#search",
-        showImages: false,
-      });
-      // Mevar by default; the archive when the reader asks for it. triggerFilters
-      // replaces the selection: keep the preacher, year and source ticked.
-      const collection = () => {
-        const filters: Record<string, string[]> = archives.checked ? {} : { collection: ["Mevar"] };
-        for (const box of document.querySelectorAll<HTMLInputElement>("#search .pagefind-ui__filter-checkbox:checked")) {
-          if (box.name !== "collection") (filters[box.name] ??= []).push(box.value);
-        }
-        ui.triggerFilters(filters);
-      };
-      collection();
-      archives.addEventListener("change", collection);
-      start.remove();
-      const input = document.querySelector<HTMLInputElement>("#search input");
-      input?.focus();
-      if (start.value) ui.triggerSearch(start.value);
-    };
-    document.head.append(js);
+  // The index loads when the reader first touches the form, not with the page.
+  let pagefind: any;
+  async function load() {
+    if (pagefind) return pagefind;
+    const path = "/pagefind/pagefind.js";
+    pagefind = await import(/* @vite-ignore */ path);
+    const values: Record<string, Record<string, number>> = await pagefind.filters();
+    for (const select of selects) {
+      const names = Object.keys(values[select.name] ?? {});
+      // Years newest first; preachers and sources by how many texts they have.
+      names.sort((a, b) => select.name === "year" ? Number(b) - Number(a) : values[select.name][b] - values[select.name][a]);
+      for (const name of names) select.add(new Option(select.name === "source" ? sources[name] : name, name));
+    }
+    return pagefind;
   }
 
-  start.addEventListener("focus", load, { once: true });
+  let found: { data: () => Promise<any> }[] = [];
+  async function show() {
+    const page = await Promise.all(found.slice(results.childElementCount, results.childElementCount + PAGE).map((r) => r.data()));
+    for (const r of page) {
+      const li = template.content.cloneNode(true) as DocumentFragment;
+      li.querySelector(".cat")!.textContent = r.meta.category ?? "";
+      const a = li.querySelector("a")!;
+      a.href = r.url;
+      a.textContent = r.meta.title;
+      li.querySelector(".snip")!.innerHTML = r.excerpt;
+      li.querySelector(".about")!.textContent = r.meta.about;
+      results.append(li);
+    }
+    more.hidden = results.childElementCount >= found.length;
+  }
+
+  async function search() {
+    const data = new FormData(form);
+    const q = String(data.get("q")).trim();
+    const filters: Record<string, string[]> = data.has("archives") ? {} : { collection: ["Mevar"] };
+    for (const select of selects) if (select.value) filters[select.name] = [select.value];
+    document.getElementById("collection")!.textContent = data.has("archives") ? "Mevar et archives" : "Collection Mevar";
+    // Without a word, a filter alone lists its texts; nothing asked, nothing listed.
+    const asked = q || selects.some((s) => s.value);
+    const search = asked ? await (await load()).debouncedSearch(q || null, { filters }) : { results: [] };
+    if (!search) return; // a newer search replaced this one
+    found = search.results;
+    results.replaceChildren();
+    count.textContent = !asked ? "" : found.length > 1 ? `${found.length.toLocaleString("fr-FR")} résultats` : found.length ? "1 résultat" : "Aucun résultat";
+    await show();
+  }
+
+  form.addEventListener("focusin", load, { once: true });
+  form.addEventListener("input", search);
+  form.addEventListener("submit", (event) => { event.preventDefault(); search(); });
+  // After the reset has emptied the fields.
+  form.addEventListener("reset", () => setTimeout(search));
+  more.addEventListener("click", show);
 </script>
