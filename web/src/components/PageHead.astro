@@ -1,0 +1,25 @@
+---
+// The head of a page that is not a work: a small label, the title, a line
+// of introduction. Under 1024px it is the page's bar, as on the phone design.
+import Crumbs from "./Crumbs.astro";
+
+interface Props {
+  eyebrow?: string;
+  title: string;
+  intro?: string;
+  /** The lists that lead to the page, in place of the label. */
+  crumbs?: { href: string; label: string }[];
+}
+
+const { eyebrow, title, intro, crumbs } = Astro.props;
+---
+
+<header class="mx-auto flex max-w-[1440px] flex-col gap-5 px-10 pt-[52px] pb-9 max-lg:gap-[18px] max-lg:px-4 max-lg:pt-1 max-lg:pb-3.5">
+  {crumbs && <Crumbs crumbs={crumbs} />}
+  {eyebrow && <p class="eyebrow max-lg:order-1 max-lg:text-[11px] max-lg:font-normal max-lg:tracking-normal max-lg:normal-case max-lg:text-muted">{eyebrow}</p>}
+  <div class="flex items-center justify-between gap-4">
+    <h1 class="font-display text-[70px] leading-[71px] max-lg:text-[28px] max-lg:leading-9">{title}</h1>
+    <slot name="action" />
+  </div>
+  {intro && <p class="max-w-[640px] max-lg:order-2 text-[17px] leading-[27px] text-ink-2 max-lg:text-[13px] max-lg:leading-5">{intro}</p>}
+</header>

@@ -1,6 +1,7 @@
 ---
 // Below a category's Mevar list, on every page of it: the archive of that
 // category, a count and a link per source.
+import Icon from "./Icon.astro";
 import { ARCHIVE_SOURCES, type WorkEntry } from "$lib/works";
 
 interface Props {
@@ -12,16 +13,18 @@ const { category, archive } = Astro.props;
 ---
 
 {archive.length > 0 && (
-  <aside class="mt-14 pt-8 border-t max-w-2xl" aria-labelledby="archives">
-    <h2 id="archives" class="text-xl font-semibold tracking-tight mb-2">Archives</h2>
-    <p class="text-sm text-muted-foreground mb-4">
+  <aside class="mt-14 flex max-w-[648px] flex-col gap-3.5 rounded-2xl bg-tint p-[22px] max-lg:mt-8" aria-labelledby="archives">
+    <h2 id="archives" class="eyebrow">Archives</h2>
+    <p class="text-sm leading-[22px] text-ink-2">
       Des textes de contexte et d'histoire, à côté des publications de la mission.
     </p>
-    <ul class="space-y-2">
+    <ul class="flex flex-col text-[13px] leading-4 font-medium">
       {archive.map((a) => (
-        <li>
-          <a href={`/${category}/archives/${a.source}/`} class="underline underline-offset-4">{ARCHIVE_SOURCES[a.source]}</a>
-          <span class="text-sm text-muted-foreground"> · {a.works.length.toLocaleString("fr-FR")}</span>
+        <li class="border-rail-line not-first:border-t">
+          <a href={`/${category}/archives/${a.source}/`} class="flex items-center justify-between gap-4 py-2.5 hover:text-accent">
+            {ARCHIVE_SOURCES[a.source]}
+            <span class="flex items-center gap-3 font-normal text-ink-2">{a.works.length.toLocaleString("fr-FR")}<Icon name="arrow-up-right" size={13} class="text-rail-icon" /></span>
+          </a>
         </li>
       ))}
     </ul>

@@ -1,0 +1,27 @@
+---
+// A work chosen by hand, on its image under a dark veil (« Cartes et
+// images », C). Only where a person picked the works: the image must exist.
+import { categoryOf, dots, minutes, preacherOf, shortDate, workUrl, type WorkEntry } from "$lib/works";
+
+interface Props {
+  entry: WorkEntry;
+}
+
+const { entry } = Astro.props;
+const fm = entry.data;
+const category = categoryOf(entry);
+---
+
+<a href={workUrl(entry)} class="relative flex h-[420px] flex-1 flex-col items-start justify-end gap-3 overflow-hidden rounded-3xl bg-dark p-[30px] max-lg:h-[280px] max-lg:flex-none max-lg:rounded-[20px] max-lg:p-5">
+  <img src={`/${fm.local_image}`} alt="" loading="lazy" decoding="async" class="absolute inset-0 size-full object-cover" />
+  <span class="absolute inset-0 bg-linear-to-b from-[#14111000] via-[#141110b3] via-55% to-[#141110f2]"></span>
+  {category && (
+    <span class="relative rounded-full bg-[#141110a6] px-[13px] py-[7px] text-[10px] leading-3 font-semibold tracking-[1.8px] text-on-dark uppercase">
+      {category.title}
+    </span>
+  )}
+  <span class="relative font-display text-[38px] leading-[41px] text-white max-lg:text-[27px] max-lg:leading-[30px]">{fm.title}</span>
+  <span class="relative text-[13px] leading-4 text-[#d6cec3]">
+    {dots(preacherOf(entry), shortDate(entry), `${minutes(entry)} min de lecture`)}
+  </span>
+</a>

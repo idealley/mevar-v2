@@ -1,0 +1,35 @@
+---
+// The head of a section: a small label, a title, and a link to the full list.
+import Icon from "./Icon.astro";
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  /** The link on the right: a pill, or text with an arrow (`plain`). */
+  href?: string;
+  label?: string;
+  plain?: boolean;
+  /** The smaller title under a work. */
+  small?: boolean;
+}
+
+const { eyebrow, title, href, label, plain, small } = Astro.props;
+---
+
+<div class="flex items-end justify-between gap-4 max-lg:items-center">
+  <div class="flex flex-col gap-2">
+    <p class="eyebrow max-lg:hidden">{eyebrow}</p>
+    <h2 class:list={["font-display max-lg:text-[25px] max-lg:leading-[31px]", small ? "text-[42px] leading-[55px]" : "text-[46px] leading-[60px]"]}>{title}</h2>
+  </div>
+  {href && (
+    <a
+      href={href}
+      class:list={[
+        "flex shrink-0 items-center gap-2 font-medium max-lg:text-xs max-lg:font-semibold max-lg:text-accent",
+        plain ? "text-[15px] leading-[18px]" : "lg:hair rounded-full text-sm leading-[17px] lg:px-5 lg:py-3",
+      ]}
+    >
+      {label}<Icon name="arrow-right" class:list={["max-lg:hidden", plain && "text-accent"]} />
+    </a>
+  )}
+</div>

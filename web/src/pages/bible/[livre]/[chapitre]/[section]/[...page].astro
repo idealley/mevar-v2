@@ -3,6 +3,9 @@
 // chapter, cited by more works than the chapter page lists, PAGE_SIZE a page.
 import type { GetStaticPaths } from "astro";
 import Layout from "../../../../../layouts/Layout.astro";
+import BackBar from "../../../../../components/BackBar.astro";
+import PageHead from "../../../../../components/PageHead.astro";
+import Pagination from "../../../../../components/Pagination.astro";
 import VerseWorks from "../../../../../components/VerseWorks.astro";
 import { PAGE_SIZE, bibleChapters } from "$lib/works";
 import { bookName, chapterUrl } from "$lib/bible.mjs";
@@ -30,18 +33,16 @@ const { page, title, back, name } = Astro.props;
 ---
 
 <Layout title={`${title} · Mevar`} description={`${page.total} textes citent ${title}`}>
-  <div class="container mx-auto px-4 py-12 md:py-16 max-w-3xl">
-    <header class="mb-8">
-      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">{title}</h1>
-      <p class="text-muted-foreground">
-        {page.total.toLocaleString("fr-FR")} textes, page {page.currentPage} sur {page.lastPage}.
-        <a href={back} class="underline underline-offset-4">{name}, verset par verset</a>
-      </p>
-    </header>
-    <VerseWorks works={page.data} />
-    <nav class="flex justify-between mt-10 text-sm font-medium" aria-label="Pagination">
-      {page.url.prev ? <a href={page.url.prev} class="text-primary hover:underline">← Page précédente</a> : <span />}
-      {page.url.next ? <a href={page.url.next} class="text-primary hover:underline">Page suivante →</a> : <span />}
-    </nav>
+  <BackBar slot="bar" href={back} label={name} />
+  <PageHead
+    crumbs={[{ href: "/", label: "Accueil" }, { href: "/bible/", label: "Écritures" }, { href: back, label: name }]}
+    eyebrow={`${page.total.toLocaleString("fr-FR")} textes, page ${page.currentPage} sur ${page.lastPage}`}
+    title={title}
+  />
+  <div class="mx-auto max-w-[1440px] px-10 pb-[72px] max-lg:px-4 max-lg:pb-10">
+    <div class="max-w-[860px]">
+      <VerseWorks works={page.data} />
+      <Pagination page={page} />
+    </div>
   </div>
 </Layout>

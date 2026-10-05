@@ -1,0 +1,20 @@
+---
+// The ways into the library, as a row of chips: on the home page and above
+// every list. Under 1024px the row scrolls sideways.
+const here = Astro.url.pathname;
+const chips = [
+  ["/predications/", "Prédications"],
+  ["/exhortations/", "Exhortations"],
+  ["/etudes-bibliques/", "Études bibliques"],
+  ["/publications/", "Publications"],
+  ["/bible/", "Écritures"],
+  ["/auteurs/", "Auteurs"],
+  ["/series/", "Séries"],
+];
+---
+
+<nav class:list={["mx-auto flex max-w-[1440px] items-center gap-2.5 overflow-x-auto px-10 pb-[34px] [scrollbar-width:none] max-lg:gap-2 max-lg:pb-3.5", here === "/" ? "max-lg:px-5" : "max-lg:px-4"]} aria-label="Parcourir">
+  <span class="eyebrow pr-3.5 max-lg:hidden">Parcourir</span>
+  <a href="/" class="chip lg:hidden" aria-current={here === "/" ? "page" : undefined}>Tout</a>
+  {chips.map(([href, label]) => <a href={href} class="chip" aria-current={here.startsWith(href) ? "page" : undefined}>{label}</a>)}
+</nav>

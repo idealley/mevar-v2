@@ -1,0 +1,27 @@
+---
+// A Lucide icon (ISC), inlined: the paths are in src/lib/icons.json.
+import icons from "$lib/icons.json";
+
+interface Props {
+  name: keyof typeof icons;
+  size?: number;
+  class?: string;
+}
+
+const { name, size = 15, class: className } = Astro.props;
+---
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width={size}
+  height={size}
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  aria-hidden="true"
+  class:list={["shrink-0", className]}
+  set:html={icons[name]}
+/>

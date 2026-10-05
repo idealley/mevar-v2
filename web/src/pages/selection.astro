@@ -1,0 +1,18 @@
+---
+// /selection/: the texts Samuel marked `featured`, the newest first.
+import Layout from "../layouts/Layout.astro";
+import Browse from "../components/Browse.astro";
+import PageHead from "../components/PageHead.astro";
+import WorkCard from "../components/WorkCard.astro";
+import { mevarWorks } from "$lib/works";
+
+const selection = (await mevarWorks()).filter((e) => e.data.featured);
+---
+
+<Layout title="Mis en avant · Mevar" description="Une sélection de textes de la mission MEVAR">
+  <PageHead eyebrow="Sélection" title="Mis en avant" intro="Des textes choisis à la main, pour commencer ou pour revenir à l'essentiel." />
+  <Browse />
+  <div class="mx-auto grid max-w-[1440px] grid-cols-3 gap-[22px] px-10 pb-[72px] max-lg:grid-cols-1 max-lg:gap-0 max-lg:px-4 max-lg:pb-10">
+    {selection.map((entry) => <WorkCard entry={entry} />)}
+  </div>
+</Layout>

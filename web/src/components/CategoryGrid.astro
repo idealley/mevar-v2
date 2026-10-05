@@ -1,5 +1,8 @@
 ---
 import type { Page } from "astro";
+import Browse from "./Browse.astro";
+import PageHead from "./PageHead.astro";
+import Pagination from "./Pagination.astro";
 import WorkCard from "./WorkCard.astro";
 import type { WorkEntry } from "$lib/works";
 
@@ -10,32 +13,19 @@ interface Props {
 }
 
 const { page, title, description } = Astro.props;
+const count = `${page.total.toLocaleString("fr-FR")} texte${page.total > 1 ? "s" : ""}${page.lastPage > 1 ? `, page ${page.currentPage} sur ${page.lastPage}` : ""}`;
 ---
 
-<section class="container mx-auto px-4 py-10">
-  <header class="mb-8 max-w-2xl">
-    <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-2">{title}</h1>
-    {description && <p class="text-muted-foreground">{description}</p>}
-    <p class="text-sm text-muted-foreground mt-2">
-      {page.total.toLocaleString("fr-FR")} document{page.total > 1 ? "s" : ""}
-      {page.lastPage > 1 && <span>, page {page.currentPage} sur {page.lastPage}</span>}
-    </p>
-  </header>
-
+<PageHead eyebrow={count} title={title} intro={description} />
+<Browse />
+<section class="mx-auto max-w-[1440px] px-10 pb-[72px] max-lg:px-4 max-lg:pb-10">
   {page.total === 0 ? (
-    <p class="text-muted-foreground">Aucun document pour le moment.</p>
+    <p class="text-ink-2">Aucun texte pour le moment.</p>
   ) : (
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div class="grid grid-cols-3 gap-[22px] max-lg:grid-cols-1 max-lg:gap-0">
       {page.data.map((entry) => <WorkCard entry={entry} />)}
     </div>
   )}
-
-  {page.lastPage > 1 && (
-    <nav class="flex justify-between mt-10 text-sm font-medium" aria-label="Pagination">
-      {page.url.prev ? <a href={page.url.prev} class="text-primary hover:underline">← Page précédente</a> : <span />}
-      {page.url.next ? <a href={page.url.next} class="text-primary hover:underline">Page suivante →</a> : <span />}
-    </nav>
-  )}
-
+  <Pagination page={page} />
   <slot />
 </section>

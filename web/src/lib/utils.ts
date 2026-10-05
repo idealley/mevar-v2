@@ -1,10 +1,3 @@
-import { type ClassValue, clsx } from "clsx";
-import { twMerge } from "tailwind-merge";
-
-export function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs));
-}
-
 // Format a YYYY-MM-DD string into a French long-form date for human display.
 export function formatDateFr(d: string | null | undefined): string | null {
   if (!d) return null;

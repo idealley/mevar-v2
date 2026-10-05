@@ -1,0 +1,35 @@
+---
+// /bible/<livre>/: the chapters of a book that the library cites, each with
+// the number of texts citing it.
+import Layout from "../../../layouts/Layout.astro";
+import BackBar from "../../../components/BackBar.astro";
+import PageHead from "../../../components/PageHead.astro";
+import { bibleBooks } from "$lib/works";
+import { bookName, bookUrl, chapterUrl } from "$lib/bible.mjs";
+
+export async function getStaticPaths() {
+  return (await bibleBooks()).map((b) => ({ params: { livre: bookUrl(b.book).split("/")[2] }, props: { b } }));
+}
+
+const { b } = Astro.props;
+const name = bookName(b.book);
+---
+
+<Layout title={`${name} · Mevar`} description={`Les chapitres de ${name} que citent les textes de la bibliothèque`}>
+  <BackBar slot="bar" href="/bible/" label="Écritures" />
+  <PageHead
+    crumbs={[{ href: "/", label: "Accueil" }, { href: "/bible/", label: "Écritures" }]}
+    title={name}
+    intro={`${b.works.size > 1 ? `${b.works.size.toLocaleString("fr-FR")} textes citent` : "Un texte cite"} ce livre. Chaque chapitre mène aux textes qui le citent, verset par verset.`}
+  />
+  <ul class="mx-auto grid max-w-[1440px] grid-cols-8 gap-2.5 px-10 pb-[72px] max-lg:grid-cols-4 max-lg:gap-2 max-lg:px-4 max-lg:pb-10">
+    {b.chapters.map((c) => (
+      <li>
+        <a href={chapterUrl(b.book, c.chapter)} class="hair flex flex-col gap-1 rounded-[10px] p-3.5 hover:bg-surface max-lg:p-2.5">
+          <span class="font-display text-[28px] leading-[29px]">{c.chapter}</span>
+          <span class="text-[11px] leading-[13px] text-ink-2">{c.works.size} texte{c.works.size > 1 ? "s" : ""}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Layout>

@@ -1,0 +1,92 @@
+---
+// /mes-lectures/: the texts this reader opened on this device, from
+// localStorage (src/lib/lectures.ts), each marked when the service worker
+// still holds its page. Nothing here comes from a server.
+import Layout from "../layouts/Layout.astro";
+import Icon from "../components/Icon.astro";
+import PageHead from "../components/PageHead.astro";
+---
+
+<Layout title="Mes lectures · Mevar" description="Les textes ouverts sur cet appareil, lisibles hors ligne">
+  <PageHead title="Mes lectures">
+    <button slot="action" id="sort" type="button" class="round-btn" aria-label="Inverser l'ordre" aria-pressed="false"><Icon name="arrow-up-down" size={14} /></button>
+  </PageHead>
+  <div class="mx-auto flex max-w-[1440px] flex-col gap-3.5 px-10 pb-[72px] max-lg:px-4 max-lg:pt-3 max-lg:pb-10">
+    <div class="flex max-w-[760px] flex-col gap-3.5">
+      <div id="offline" class="flex items-center gap-3.5 rounded-2xl bg-dark p-[18px] shadow-[inset_0_0_0_1px_var(--hairline)]" hidden>
+        <span class="flex size-9 shrink-0 items-center justify-center rounded-full bg-dark-2 text-accent"><Icon name="cloud-off" size={17} /></span>
+        <p class="flex flex-col gap-[3px] text-xs leading-[17px] text-on-dark-2">
+          <strong class="text-sm leading-[17px] font-semibold text-on-dark">Vous êtes hors ligne</strong>
+          Les textes déjà ouverts sur cet appareil restent lisibles.
+        </p>
+      </div>
+      <section class="flex flex-col">
+        <p class="flex items-center justify-between pb-1.5 text-[13px] leading-4 font-semibold">
+          Ouverts sur cet appareil<span id="count" class="text-[11px] leading-[13px] font-normal text-muted"></span>
+        </p>
+        <ol id="list" class="flex flex-col"></ol>
+        <p id="empty" class="border-t py-[15px] text-[13px] leading-5 text-ink-2" hidden>
+          Aucun texte ouvert sur cet appareil pour l'instant. Chaque texte que vous lisez s'ajoute ici.
+        </p>
+      </section>
+      <p class="pt-1.5 text-[11px] leading-[17px] text-muted">
+        Rien n'est téléchargé en bloc&nbsp;: seules les pages que vous ouvrez sont gardées, pendant trente jours. Cette liste reste sur cet appareil.
+      </p>
+    </div>
+  </div>
+
+  <template id="row">
+    <li class="relative flex flex-col gap-1.5 border-t py-[15px]">
+      <p class="flex items-center justify-between">
+        <span class="cat text-[9px] leading-[11px] tracking-[1.6px] lg:text-[10px] lg:leading-3 lg:tracking-[1.8px]"></span>
+        <span class="flex items-center gap-[5px] text-[10px] leading-3 font-semibold text-ink-2">
+          <span class="saved flex items-center gap-[5px] rounded-full bg-tint px-[9px] py-1" hidden><Icon name="bookmark" size={11} />Enregistré</span>
+          <span class="cached flex items-center gap-[5px] rounded-full bg-tint px-[9px] py-1" hidden><Icon name="check" size={11} />Hors ligne</span>
+        </span>
+      </p>
+      <h2 class="font-display text-xl leading-[23px] lg:text-[26px] lg:leading-[30px]"><a class="after:absolute after:inset-0"></a></h2>
+      <p class="about text-[11px] leading-[13px] text-muted lg:text-xs lg:leading-[15px]"></p>
+    </li>
+  </template>
+</Layout>
+
+<script>
+  import { lectures } from "$lib/lectures";
+
+  const list = document.getElementById("list")!;
+  const template = document.getElementById("row") as HTMLTemplateElement;
+  const sort = document.getElementById("sort")!;
+  const offline = document.getElementById("offline")!;
+
+  // Saved texts first, then the most recently opened; the button reverses it.
+  const rows = Object.entries(lectures()).sort(([, a], [, b]) => Number(!!b.saved) - Number(!!a.saved) || b.opened.localeCompare(a.opened));
+  // The pages the service worker still holds (astro.config.mjs, "works-pages").
+  const held = "caches" in window ? await caches.open("works-pages") : undefined;
+
+  for (const [url, l] of rows) {
+    const li = template.content.cloneNode(true) as DocumentFragment;
+    li.querySelector(".cat")!.textContent = l.category;
+    const a = li.querySelector("a")!;
+    a.href = url;
+    a.textContent = l.title;
+    const opened = new Date(l.opened).toLocaleDateString("fr-FR", { day: "numeric", month: "long" });
+    li.querySelector(".about")!.textContent = `Ouvert le ${opened}   ·   ${(l.progress ?? 0) >= 95 ? "terminé" : `lu à ${l.progress ?? 0} %`}`;
+    li.querySelector<HTMLElement>(".saved")!.hidden = !l.saved;
+    // Held, and not past the thirty days after which the service worker refuses it.
+    const page = await held?.match(url, { ignoreSearch: true });
+    li.querySelector<HTMLElement>(".cached")!.hidden = !page || Date.now() - Date.parse(page.headers.get("date") ?? "") > 30 * 24 * 60 * 60 * 1000;
+    list.append(li);
+  }
+  document.getElementById("count")!.textContent = rows.length > 1 ? `${rows.length} textes` : rows.length ? "1 texte" : "";
+  document.getElementById("empty")!.hidden = rows.length > 0;
+
+  sort.addEventListener("click", () => {
+    list.append(...[...list.children].reverse());
+    sort.setAttribute("aria-pressed", String(sort.getAttribute("aria-pressed") !== "true"));
+  });
+
+  const connection = () => { offline.hidden = navigator.onLine; };
+  addEventListener("online", connection);
+  addEventListener("offline", connection);
+  connection();
+</script>

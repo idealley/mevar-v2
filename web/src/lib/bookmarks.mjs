@@ -1,10 +1,11 @@
-// "À lire aussi" cards. A paragraph that is nothing but a link to a Ghost post
+// « Cité dans ce texte » cards. A paragraph that is nothing but a link to a Ghost post
 // (what scripts/94 made of Ghost's bookmark cards) becomes a card with the
 // post's title and summary. Runs on every work's body at build time.
 
 import fs from "node:fs";
 import path from "node:path";
 import { frenchSpacing } from "./french-typography.mjs";
+import icons from "./icons.json" with { type: "json" };
 
 // Relative to web/, as the content collection's base is.
 const dir = "../markdown/mevar";
@@ -42,6 +43,11 @@ const el = (tagName, className, children, properties = {}) => ({
   type: "element", tagName, properties: { ...properties, className }, children,
 });
 const txt = (value) => ({ type: "text", value });
+// A Lucide icon, as components/Icon.astro draws it.
+const icon = (name, size) => ({
+  type: "raw",
+  value: `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[name]}</svg>`,
+});
 
 export function rehypeBookmarks() {
   return (tree) => {
@@ -53,11 +59,15 @@ export function rehypeBookmarks() {
       const post = slug && posts.get(slug);
       if (!post) return node;
       // Another post's title and summary: not this page's text for search.
-      return el("aside", ["my-6"], [
-        el("a", ["block", "rounded-lg", "border", "bg-card", "p-4", "hover:border-primary/50", "transition"], [
-          el("span", ["block", "text-xs", "uppercase", "tracking-wide", "text-muted-foreground", "font-sans"], [txt("À lire aussi")]),
-          el("span", ["block", "font-semibold", "mt-1"], [txt(post.title)]),
-          ...(post.summary ? [el("span", ["block", "text-sm", "text-muted-foreground", "mt-1"], [txt(post.summary)])] : []),
+      return el("aside", [], [
+        el("a", ["flex", "items-center", "gap-4", "rounded-2xl", "bg-tint", "p-5", "font-sans", "no-underline!"], [
+          el("span", ["flex", "size-[38px]", "shrink-0", "items-center", "justify-center", "rounded-xl", "bg-surface", "text-accent"], [icon("corner-down-right", 17)]),
+          el("span", ["flex", "min-w-0", "flex-1", "flex-col", "gap-[3px]"], [
+            el("span", ["text-[10px]", "leading-3", "font-semibold", "tracking-[1.6px]", "text-ink-2", "uppercase"], [txt("Cité dans ce texte")]),
+            el("span", ["font-display", "text-[23px]", "leading-[30px]", "text-ink"], [txt(post.title)]),
+            ...(post.summary ? [el("span", ["line-clamp-2", "text-[13px]", "leading-5", "text-ink-2"], [txt(post.summary)])] : []),
+          ]),
+          el("span", ["text-ink"], [icon("arrow-up-right", 18)]),
         ], { href: `/${slug}/` }),
       ], { dataPagefindIgnore: "" });
     });

@@ -3,17 +3,13 @@
 // that is not a page; without it, Pages answers every unknown path with the
 // home page and status 200.
 import Layout from "../layouts/Layout.astro";
+import PageHead from "../components/PageHead.astro";
 ---
 
 <Layout title="Page introuvable · Mevar">
-  <div class="container mx-auto px-4 py-16 max-w-2xl">
-    <h1 class="text-3xl font-bold tracking-tight mb-4">Page introuvable</h1>
-    <p class="text-lg text-muted-foreground mb-4">
-      Cette adresse ne mène à aucune page de la bibliothèque.
-    </p>
-    <p class="text-lg text-muted-foreground">
-      <a href="/recherche/" class="text-primary underline">Rechercher</a>
-      ou <a href="/" class="text-primary underline">revenir à l’accueil</a>.
-    </p>
-  </div>
+  <PageHead eyebrow="Erreur 404" title="Page introuvable" intro="Cette adresse ne mène à aucune page de la bibliothèque." />
+  <p class="mx-auto flex max-w-[1440px] flex-wrap gap-2.5 px-10 pb-[72px] max-lg:px-4 max-lg:pb-10">
+    <a href="/recherche/" class="chip">Rechercher</a>
+    <a href="/" class="chip">Revenir à l’accueil</a>
+  </p>
 </Layout>
