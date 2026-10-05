@@ -72,7 +72,9 @@ import PageHead from "../components/PageHead.astro";
     const opened = new Date(l.opened).toLocaleDateString("fr-FR", { day: "numeric", month: "long" });
     li.querySelector(".about")!.textContent = `Ouvert le ${opened}   ·   ${(l.progress ?? 0) >= 95 ? "terminé" : `lu à ${l.progress ?? 0} %`}`;
     li.querySelector<HTMLElement>(".saved")!.hidden = !l.saved;
-    li.querySelector<HTMLElement>(".cached")!.hidden = !(await held?.match(url, { ignoreSearch: true }));
+    // Held, and not past the thirty days after which the service worker refuses it.
+    const page = await held?.match(url, { ignoreSearch: true });
+    li.querySelector<HTMLElement>(".cached")!.hidden = !page || Date.now() - Date.parse(page.headers.get("date") ?? "") > 30 * 24 * 60 * 60 * 1000;
     list.append(li);
   }
   document.getElementById("count")!.textContent = rows.length > 1 ? `${rows.length} textes` : rows.length ? "1 texte" : "";

@@ -79,20 +79,38 @@ const filters = [
   async function loadIndex() {
     const path = "/pagefind/pagefind.js";
     const pagefind = await import(/* @vite-ignore */ path);
-    const values: Record<string, Record<string, number>> = await pagefind.filters();
-    for (const select of selects) {
-      const names = Object.keys(values[select.name] ?? {});
-      // Years newest first; preachers and sources by how many texts they have.
-      names.sort((a, b) => select.name === "year" ? Number(b) - Number(a) : values[select.name][b] - values[select.name][a]);
-      for (const name of names) select.add(new Option(select.name === "source" ? sources[name] : name, name));
-    }
+    // Loads every filter's values: a search counts only the ones it has loaded.
+    await pagefind.filters();
+    await choices(pagefind);
     return pagefind;
   }
+
+  // What each filter offers: the preachers, years and sources of the texts
+  // the archive switch lets through, so that no choice can answer nothing.
+  async function choices(pagefind: any) {
+    const { filters: values } = await pagefind.search(null, { filters: collection() });
+    for (const select of selects) {
+      const chosen = select.value;
+      const names = Object.keys(values[select.name] ?? {}).filter((name) => values[select.name][name]);
+      // Years newest first; preachers and sources by how many texts they have.
+      names.sort((a, b) => select.name === "year" ? Number(b) - Number(a) : values[select.name][b] - values[select.name][a]);
+      select.length = 1;
+      for (const name of names) select.add(new Option(select.name === "source" ? sources[name] : name, name));
+      select.value = names.includes(chosen) ? chosen : "";
+    }
+  }
+  const archives = form.elements.namedItem("archives") as HTMLInputElement;
+  const collection = (): Record<string, string[]> => (archives.checked ? {} : { collection: ["Mevar"] });
+  archives.addEventListener("change", async () => { await choices(await load()); search(); });
 
   let found: { data: () => Promise<any> }[] = [];
   let asks = 0;
   async function show() {
-    const page = await Promise.all(found.slice(results.childElementCount, results.childElementCount + PAGE).map((r) => r.data()));
+    const ask = asks;
+    const from = results.childElementCount;
+    const page = await Promise.all(found.slice(from, from + PAGE).map((r) => r.data()));
+    // A newer search, or a second click, got there first.
+    if (ask !== asks || from !== results.childElementCount) return;
     for (const r of page) {
       const li = template.content.cloneNode(true) as DocumentFragment;
       li.querySelector(".cat")!.textContent = r.meta.category ?? "";
@@ -109,7 +127,7 @@ const filters = [
   async function search() {
     const data = new FormData(form);
     const q = String(data.get("q")).trim();
-    const filters: Record<string, string[]> = data.has("archives") ? {} : { collection: ["Mevar"] };
+    const filters = collection();
     for (const select of selects) if (select.value) filters[select.name] = [select.value];
     document.getElementById("collection")!.textContent = data.has("archives") ? "Mevar et archives" : "Collection Mevar";
     // Without a word, a filter alone lists its texts; nothing asked, nothing listed.

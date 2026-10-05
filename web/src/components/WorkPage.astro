@@ -170,7 +170,7 @@ const groups = [
               <p>Publié avec <a href={workUrl(publishedWith)} class="text-ink underline decoration-accent underline-offset-4">« {publishedWith.data.title} »{publishedWith.data.title === fm.title && publishedWith.data.subtitle ? ` (${publishedWith.data.subtitle})` : ""}</a>, dans le même document.</p>
             )}
             {summaryFr && (
-              <p>Résumé en français : <a href={workUrl(summaryFr)} class="text-ink underline decoration-accent underline-offset-4">« {summaryFr.data.title} »</a>.</p>
+              <p>Résumé en français&nbsp;: <a href={workUrl(summaryFr)} class="text-ink underline decoration-accent underline-offset-4">« {summaryFr.data.title} »</a>.</p>
             )}
             {(remoteAudio || video) && (
               <p class="flex flex-wrap gap-2 font-medium text-ink" data-noprint>
@@ -322,6 +322,8 @@ const groups = [
   const toc = all<HTMLAnchorElement>(".js-toc");
   function scrolled() {
     const { top, height } = prose.getBoundingClientRect();
+    // A work that is only a recording has no text to be read through.
+    if (!height) return;
     const read = Math.min(1, Math.max(0, (innerHeight - top) / height));
     for (const bar of bars) bar.style.width = `${read * 100}%`;
     progress = Math.max(progress, Math.round(read * 100));
