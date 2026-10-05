@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "islam"
 title: "La Religion de l'Islam à la Lumière des Événements Mondiaux Actuels"
-date: "2001-01-01"
 year: 2001
 location: "Krefeld"
 preacher: "Ewald Frank"

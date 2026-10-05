@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "la_profondeur"
 title: "La Profondeur Appelle La Profondeur"
 subtitle: "Washington D.C., juillet 1954"
-date: "1954-07-01"
 year: 1954
 location: "Washington D.C."
 preacher: "William Branham"

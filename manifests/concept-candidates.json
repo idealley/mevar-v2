@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-05T23:01:03.435Z",
+  "generated": "2026-10-05T23:01:30.140Z",
   "totals": {
     "branham": 1206,
-    "translation": 1017,
-    "french": 1012
+    "translation": 1016,
+    "french": 1013
   },
   "seeds": [
     {
@@ -362,12 +362,12 @@
         {
           "phrase": "enfant mâle",
           "works": {
-            "french": 20,
-            "translation": 7
+            "french": 21,
+            "translation": 6
           },
           "mentions": {
-            "french": 32,
-            "translation": 9
+            "french": 33,
+            "translation": 8
           },
           "first_fr": {
             "path": "markdown/cmpp/1974/janvier1974.md",
@@ -691,12 +691,12 @@
         {
           "phrase": "épouse",
           "works": {
-            "french": 292,
-            "translation": 317
+            "french": 293,
+            "translation": 316
           },
           "mentions": {
-            "french": 1309,
-            "translation": 722
+            "french": 1310,
+            "translation": 721
           },
           "first_fr": {
             "path": "markdown/cmpp/1974/juillet1974.md",
@@ -1466,12 +1466,12 @@
         {
           "phrase": "huitième",
           "works": {
-            "french": 53,
-            "translation": 24
+            "french": 54,
+            "translation": 23
           },
           "mentions": {
-            "french": 234,
-            "translation": 57
+            "french": 235,
+            "translation": 56
           },
           "first_fr": {
             "path": "markdown/cmpp/1966/la_parole_de_dieu_demeure_eternellement.md",
@@ -2482,8 +2482,8 @@
     {
       "phrase": "parole de dieu",
       "works": {
-        "french": 835,
-        "translation": 607
+        "french": 836,
+        "translation": 606
       },
       "in_bible": {
         "lsg": true,
@@ -2493,8 +2493,8 @@
     {
       "phrase": "peuple de dieu",
       "works": {
-        "french": 584,
-        "translation": 113
+        "french": 585,
+        "translation": 112
       },
       "in_bible": {
         "lsg": true,
@@ -2504,8 +2504,8 @@
     {
       "phrase": "seigneur jésus-christ",
       "works": {
-        "french": 521,
-        "translation": 256
+        "french": 522,
+        "translation": 255
       },
       "in_bible": {
         "lsg": true,
@@ -2515,8 +2515,8 @@
     {
       "phrase": "seigneur jésus",
       "works": {
-        "french": 501,
-        "translation": 525
+        "french": 502,
+        "translation": 524
       },
       "in_bible": {
         "lsg": true,
@@ -2526,8 +2526,8 @@
     {
       "phrase": "royaume de dieu",
       "works": {
-        "french": 466,
-        "translation": 223
+        "french": 467,
+        "translation": 222
       },
       "in_bible": {
         "lsg": true,
@@ -2559,8 +2559,8 @@
     {
       "phrase": "devant dieu",
       "works": {
-        "french": 389,
-        "translation": 293
+        "french": 390,
+        "translation": 292
       },
       "in_bible": {
         "lsg": true,
@@ -2570,8 +2570,8 @@
     {
       "phrase": "william branham",
       "works": {
-        "french": 388,
-        "translation": 77
+        "french": 389,
+        "translation": 76
       },
       "in_bible": {
         "lsg": false,
@@ -2581,8 +2581,8 @@
     {
       "phrase": "monde entier",
       "works": {
-        "french": 384,
-        "translation": 335
+        "french": 385,
+        "translation": 334
       },
       "in_bible": {
         "lsg": true,
@@ -2592,8 +2592,8 @@
     {
       "phrase": "fils de dieu",
       "works": {
-        "french": 374,
-        "translation": 697
+        "french": 375,
+        "translation": 696
       },
       "in_bible": {
         "lsg": true,
@@ -2603,12 +2603,23 @@
     {
       "phrase": "esprit de dieu",
       "works": {
-        "french": 363,
-        "translation": 478
+        "french": 364,
+        "translation": 477
       },
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "nouveau testament",
+      "works": {
+        "french": 346,
+        "translation": 130
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -2620,17 +2631,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "nouveau testament",
-      "works": {
-        "french": 345,
-        "translation": 131
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -2680,8 +2680,8 @@
     {
       "phrase": "dieu lui-même",
       "works": {
-        "french": 305,
-        "translation": 162
+        "french": 306,
+        "translation": 161
       },
       "in_bible": {
         "lsg": true,
@@ -2691,8 +2691,8 @@
     {
       "phrase": "centre missionnaire",
       "works": {
-        "french": 289,
-        "translation": 8
+        "french": 290,
+        "translation": 7
       },
       "in_bible": {
         "lsg": false,
@@ -2702,8 +2702,8 @@
     {
       "phrase": "apôtre paul",
       "works": {
-        "french": 285,
-        "translation": 15
+        "french": 286,
+        "translation": 14
       },
       "in_bible": {
         "lsg": false,
@@ -2724,8 +2724,8 @@
     {
       "phrase": "enfants de dieu",
       "works": {
-        "french": 278,
-        "translation": 232
+        "french": 279,
+        "translation": 231
       },
       "in_bible": {
         "lsg": true,
@@ -2779,8 +2779,8 @@
     {
       "phrase": "seigneur lui-même",
       "works": {
-        "french": 243,
-        "translation": 21
+        "french": 244,
+        "translation": 20
       },
       "in_bible": {
         "lsg": true,
@@ -2790,8 +2790,8 @@
     {
       "phrase": "peuple israël",
       "works": {
-        "french": 240,
-        "translation": 29
+        "french": 241,
+        "translation": 28
       },
       "in_bible": {
         "lsg": true,
@@ -2834,8 +2834,8 @@
     {
       "phrase": "seigneur dieu",
       "works": {
-        "french": 235,
-        "translation": 119
+        "french": 236,
+        "translation": 118
       },
       "in_bible": {
         "lsg": true,
@@ -3063,6 +3063,17 @@
       }
     },
     {
+      "phrase": "dieu donné",
+      "works": {
+        "french": 177,
+        "translation": 185
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "côte ivoire",
       "works": {
         "french": 177,
@@ -3074,21 +3085,10 @@
       }
     },
     {
-      "phrase": "dieu donné",
-      "works": {
-        "french": 176,
-        "translation": 186
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "chapitre verset",
       "works": {
-        "french": 176,
-        "translation": 29
+        "french": 177,
+        "translation": 28
       },
       "in_bible": {
         "lsg": false,
@@ -3129,6 +3129,17 @@
       }
     },
     {
+      "phrase": "jésus lui-même",
+      "works": {
+        "french": 165,
+        "translation": 72
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
+      }
+    },
+    {
       "phrase": "nouvelle naissance",
       "works": {
         "french": 165,
@@ -3140,21 +3151,21 @@
       }
     },
     {
-      "phrase": "jésus lui-même",
-      "works": {
-        "french": 164,
-        "translation": 73
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": true
-      }
-    },
-    {
       "phrase": "parole prophétique",
       "works": {
         "french": 164,
         "translation": 7
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "rendre compte",
+      "works": {
+        "french": 153,
+        "translation": 117
       },
       "in_bible": {
         "lsg": true,
@@ -3173,17 +3184,6 @@
       }
     },
     {
-      "phrase": "rendre compte",
-      "works": {
-        "french": 152,
-        "translation": 118
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "epouse de christ",
       "works": {
         "french": 152,
@@ -3192,6 +3192,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "père céleste",
+      "works": {
+        "french": 151,
+        "translation": 170
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -3214,17 +3225,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "père céleste",
-      "works": {
-        "french": 150,
-        "translation": 171
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -3340,8 +3340,19 @@
     {
       "phrase": "retour du seigneur",
       "works": {
+        "french": 140,
+        "translation": 24
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "actes des apôtres",
+      "works": {
         "french": 139,
-        "translation": 25
+        "translation": 13
       },
       "in_bible": {
         "lsg": false,
@@ -3357,17 +3368,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "actes des apôtres",
-      "works": {
-        "french": 138,
-        "translation": 14
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -3404,6 +3404,17 @@
       }
     },
     {
+      "phrase": "premier verset",
+      "works": {
+        "french": 133,
+        "translation": 16
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "jésus christ",
       "works": {
         "french": 133,
@@ -3422,17 +3433,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "premier verset",
-      "works": {
-        "french": 132,
-        "translation": 17
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": false
       }
     },
@@ -3461,8 +3461,8 @@
     {
       "phrase": "http www cmpp",
       "works": {
-        "french": 129,
-        "translation": 103
+        "french": 130,
+        "translation": 102
       },
       "in_bible": {
         "lsg": false,
@@ -3481,6 +3481,17 @@
       }
     },
     {
+      "phrase": "dieu parle",
+      "works": {
+        "french": 128,
+        "translation": 94
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "chapitre partir",
       "works": {
         "french": 128,
@@ -3489,17 +3500,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "dieu parle",
-      "works": {
-        "french": 127,
-        "translation": 95
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -3558,6 +3558,17 @@
       }
     },
     {
+      "phrase": "apocalypse chapitre",
+      "works": {
+        "french": 123,
+        "translation": 20
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "vient de dieu",
       "works": {
         "french": 122,
@@ -3573,17 +3584,6 @@
       "works": {
         "french": 122,
         "translation": 116
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "apocalypse chapitre",
-      "works": {
-        "french": 122,
-        "translation": 21
       },
       "in_bible": {
         "lsg": false,
@@ -3668,6 +3668,17 @@
       }
     },
     {
+      "phrase": "fausses doctrines",
+      "works": {
+        "french": 117,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
       "phrase": "suis venu",
       "works": {
         "french": 117,
@@ -3690,14 +3701,14 @@
       }
     },
     {
-      "phrase": "fausses doctrines",
+      "phrase": "temple de dieu",
       "works": {
         "french": 116,
-        "translation": 5
+        "translation": 29
       },
       "in_bible": {
         "lsg": true,
-        "darby": false
+        "darby": true
       }
     },
     {
@@ -3709,17 +3720,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "temple de dieu",
-      "works": {
-        "french": 115,
-        "translation": 30
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -3756,10 +3756,10 @@
       }
     },
     {
-      "phrase": "dieu demeure",
+      "phrase": "seul dieu",
       "works": {
-        "french": 111,
-        "translation": 43
+        "french": 112,
+        "translation": 203
       },
       "in_bible": {
         "lsg": true,
@@ -3767,10 +3767,10 @@
       }
     },
     {
-      "phrase": "seul dieu",
+      "phrase": "dieu demeure",
       "works": {
         "french": 111,
-        "translation": 204
+        "translation": 43
       },
       "in_bible": {
         "lsg": true,
@@ -4011,8 +4011,19 @@
     {
       "phrase": "dieu jésus",
       "works": {
-        "french": 103,
-        "translation": 134
+        "french": 104,
+        "translation": 133
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "plusieurs reprises",
+      "works": {
+        "french": 104,
+        "translation": 45
       },
       "in_bible": {
         "lsg": true,
@@ -4024,17 +4035,6 @@
       "works": {
         "french": 103,
         "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "plusieurs reprises",
-      "works": {
-        "french": 103,
-        "translation": 46
       },
       "in_bible": {
         "lsg": true,
@@ -4075,10 +4075,10 @@
       }
     },
     {
-      "phrase": "histoire du salut",
+      "phrase": "paul écrit",
       "works": {
         "french": 101,
-        "translation": 0
+        "translation": 8
       },
       "in_bible": {
         "lsg": false,
@@ -4086,10 +4086,10 @@
       }
     },
     {
-      "phrase": "paul écrit",
+      "phrase": "histoire du salut",
       "works": {
-        "french": 100,
-        "translation": 9
+        "french": 101,
+        "translation": 0
       },
       "in_bible": {
         "lsg": false,
@@ -4130,6 +4130,17 @@
       }
     },
     {
+      "phrase": "raison pour laquelle",
+      "works": {
+        "french": 99,
+        "translation": 84
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "sodome et gomorrhe",
       "works": {
         "french": 99,
@@ -4163,10 +4174,10 @@
       }
     },
     {
-      "phrase": "raison pour laquelle",
+      "phrase": "prendre garde",
       "works": {
         "french": 98,
-        "translation": 85
+        "translation": 8
       },
       "in_bible": {
         "lsg": true,
@@ -4178,17 +4189,6 @@
       "works": {
         "french": 97,
         "translation": 16
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "prendre garde",
-      "works": {
-        "french": 97,
-        "translation": 9
       },
       "in_bible": {
         "lsg": true,
@@ -4218,6 +4218,28 @@
       }
     },
     {
+      "phrase": "case postale",
+      "works": {
+        "french": 96,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "nulle part",
+      "works": {
+        "french": 95,
+        "translation": 113
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
+      }
+    },
+    {
       "phrase": "sept sceaux",
       "works": {
         "french": 95,
@@ -4240,25 +4262,14 @@
       }
     },
     {
-      "phrase": "case postale",
+      "phrase": "paul parle",
       "works": {
-        "french": 95,
-        "translation": 7
+        "french": 94,
+        "translation": 19
       },
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "nulle part",
-      "works": {
-        "french": 94,
-        "translation": 114
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": true
       }
     },
     {
@@ -4270,6 +4281,17 @@
       "in_bible": {
         "lsg": true,
         "darby": false
+      }
+    },
+    {
+      "phrase": "éternel dieu",
+      "works": {
+        "french": 94,
+        "translation": 9
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -4306,24 +4328,13 @@
       }
     },
     {
-      "phrase": "paul parle",
+      "phrase": "seigneur parlé",
       "works": {
         "french": 93,
-        "translation": 20
+        "translation": 13
       },
       "in_bible": {
         "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "éternel dieu",
-      "works": {
-        "french": 93,
-        "translation": 10
-      },
-      "in_bible": {
-        "lsg": true,
         "darby": true
       }
     },
@@ -4346,17 +4357,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "seigneur parlé",
-      "works": {
-        "french": 92,
-        "translation": 14
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": true
       }
     },
@@ -4405,6 +4405,17 @@
       }
     },
     {
+      "phrase": "info cmpp",
+      "works": {
+        "french": 91,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "épouse de christ",
       "works": {
         "french": 91,
@@ -4427,10 +4438,21 @@
       }
     },
     {
-      "phrase": "info cmpp",
+      "phrase": "e-mail info",
       "works": {
         "french": 90,
-        "translation": 4
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "e-mail info cmpp",
+      "works": {
+        "french": 90,
+        "translation": 3
       },
       "in_bible": {
         "lsg": false,
@@ -4464,28 +4486,6 @@
       "works": {
         "french": 89,
         "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "e-mail info",
-      "works": {
-        "french": 89,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "e-mail info cmpp",
-      "works": {
-        "french": 89,
-        "translation": 4
       },
       "in_bible": {
         "lsg": false,
@@ -4559,6 +4559,17 @@
       }
     },
     {
+      "phrase": "prophète william",
+      "works": {
+        "french": 87,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "prenez garde",
       "works": {
         "french": 87,
@@ -4603,10 +4614,10 @@
       }
     },
     {
-      "phrase": "prophète william",
+      "phrase": "prophète william branham",
       "works": {
         "french": 86,
-        "translation": 2
+        "translation": 1
       },
       "in_bible": {
         "lsg": false,
@@ -4662,17 +4673,6 @@
       "works": {
         "french": 85,
         "translation": 19
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "prophète william branham",
-      "works": {
-        "french": 85,
-        "translation": 2
       },
       "in_bible": {
         "lsg": false,
@@ -4900,6 +4900,17 @@
       }
     },
     {
+      "phrase": "internet http",
+      "works": {
+        "french": 82,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "prendre conscience",
       "works": {
         "french": 82,
@@ -4933,10 +4944,10 @@
       }
     },
     {
-      "phrase": "internet http",
+      "phrase": "parole parlée",
       "works": {
         "french": 81,
-        "translation": 5
+        "translation": 42
       },
       "in_bible": {
         "lsg": false,
@@ -5010,21 +5021,21 @@
       }
     },
     {
-      "phrase": "parole parlée",
-      "works": {
-        "french": 80,
-        "translation": 43
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "auprès de dieu",
       "works": {
         "french": 80,
         "translation": 45
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "seigneur est venu",
+      "works": {
+        "french": 80,
+        "translation": 18
       },
       "in_bible": {
         "lsg": true,
@@ -5051,17 +5062,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "seigneur est venu",
-      "works": {
-        "french": 79,
-        "translation": 19
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -5102,6 +5102,17 @@
       "works": {
         "french": 78,
         "translation": 58
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "lausanne suisse",
+      "works": {
+        "french": 78,
+        "translation": 7
       },
       "in_bible": {
         "lsg": false,
@@ -5164,14 +5175,25 @@
       }
     },
     {
-      "phrase": "lausanne suisse",
+      "phrase": "plan de salut",
       "works": {
         "french": 77,
-        "translation": 8
+        "translation": 5
       },
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "dieu nous donné",
+      "works": {
+        "french": 77,
+        "translation": 44
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -5263,28 +5285,6 @@
       }
     },
     {
-      "phrase": "plan de salut",
-      "works": {
-        "french": 76,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "dieu nous donné",
-      "works": {
-        "french": 76,
-        "translation": 45
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "jugement de dieu",
       "works": {
         "french": 76,
@@ -5355,6 +5355,28 @@
       "works": {
         "french": 75,
         "translation": 22
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "dieu puisse",
+      "works": {
+        "french": 75,
+        "translation": 80
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "fondation du monde",
+      "works": {
+        "french": 75,
+        "translation": 259
       },
       "in_bible": {
         "lsg": true,
@@ -5439,32 +5461,10 @@
       }
     },
     {
-      "phrase": "dieu puisse",
-      "works": {
-        "french": 74,
-        "translation": 81
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "quelques années",
       "works": {
         "french": 74,
         "translation": 127
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "fondation du monde",
-      "works": {
-        "french": 74,
-        "translation": 260
       },
       "in_bible": {
         "lsg": true,
@@ -5956,6 +5956,17 @@
       }
     },
     {
+      "phrase": "serviteur et prophète",
+      "works": {
+        "french": 69,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "tant que fils",
       "works": {
         "french": 69,
@@ -6026,17 +6037,6 @@
       "works": {
         "french": 69,
         "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "serviteur et prophète",
-      "works": {
-        "french": 68,
-        "translation": 2
       },
       "in_bible": {
         "lsg": false,
@@ -6154,6 +6154,28 @@
       }
     },
     {
+      "phrase": "jeune fille",
+      "works": {
+        "french": 67,
+        "translation": 203
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "apôtre jean",
+      "works": {
+        "french": 67,
+        "translation": 12
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "point culminant",
       "works": {
         "french": 67,
@@ -6224,28 +6246,6 @@
       "works": {
         "french": 66,
         "translation": 23
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "jeune fille",
-      "works": {
-        "french": 66,
-        "translation": 204
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "apôtre jean",
-      "works": {
-        "french": 66,
-        "translation": 13
       },
       "in_bible": {
         "lsg": false,
@@ -6451,6 +6451,17 @@
       }
     },
     {
+      "phrase": "cmpp ch e-mail",
+      "works": {
+        "french": 64,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "mettre de ordre",
       "works": {
         "french": 64,
@@ -6521,17 +6532,6 @@
       "works": {
         "french": 63,
         "translation": 25
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "cmpp ch e-mail",
-      "works": {
-        "french": 63,
-        "translation": 2
       },
       "in_bible": {
         "lsg": false,
@@ -6642,6 +6642,28 @@
       "works": {
         "french": 62,
         "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "lausanne suisse internet",
+      "works": {
+        "french": 62,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "suisse internet",
+      "works": {
+        "french": 62,
+        "translation": 4
       },
       "in_bible": {
         "lsg": false,
@@ -6781,6 +6803,17 @@
       }
     },
     {
+      "phrase": "jean jésus",
+      "works": {
+        "french": 61,
+        "translation": 108
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
       "phrase": "eglise du dieu",
       "works": {
         "french": 61,
@@ -6796,28 +6829,6 @@
       "works": {
         "french": 61,
         "translation": 71
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "lausanne suisse internet",
-      "works": {
-        "french": 61,
-        "translation": 5
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "suisse internet",
-      "works": {
-        "french": 61,
-        "translation": 5
       },
       "in_bible": {
         "lsg": false,
@@ -6902,6 +6913,17 @@
       }
     },
     {
+      "phrase": "milieu du peuple",
+      "works": {
+        "french": 60,
+        "translation": 27
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "vraie parole",
       "works": {
         "french": 60,
@@ -6913,14 +6935,14 @@
       }
     },
     {
-      "phrase": "jean jésus",
+      "phrase": "dieu établi",
       "works": {
         "french": 60,
-        "translation": 109
+        "translation": 20
       },
       "in_bible": {
         "lsg": true,
-        "darby": false
+        "darby": true
       }
     },
     {
@@ -6954,6 +6976,17 @@
       "in_bible": {
         "lsg": false,
         "darby": true
+      }
+    },
+    {
+      "phrase": "dieu corinthiens",
+      "works": {
+        "french": 60,
+        "translation": 7
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -7067,28 +7100,6 @@
       }
     },
     {
-      "phrase": "milieu du peuple",
-      "works": {
-        "french": 59,
-        "translation": 28
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "dieu établi",
-      "works": {
-        "french": 59,
-        "translation": 21
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "eglise du seigneur",
       "works": {
         "french": 59,
@@ -7108,6 +7119,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "devant la face",
+      "works": {
+        "french": 59,
+        "translation": 14
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -7133,10 +7155,10 @@
       }
     },
     {
-      "phrase": "cinq ministères",
+      "phrase": "suisse internet http",
       "works": {
         "french": 59,
-        "translation": 11
+        "translation": 4
       },
       "in_bible": {
         "lsg": false,
@@ -7144,10 +7166,10 @@
       }
     },
     {
-      "phrase": "dieu corinthiens",
+      "phrase": "cinq ministères",
       "works": {
         "french": 59,
-        "translation": 8
+        "translation": 11
       },
       "in_bible": {
         "lsg": false,
@@ -7298,6 +7320,17 @@
       }
     },
     {
+      "phrase": "dieu a-t-il",
+      "works": {
+        "french": 58,
+        "translation": 61
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "rempli du saint-esprit",
       "works": {
         "french": 58,
@@ -7353,25 +7386,14 @@
       }
     },
     {
-      "phrase": "devant la face",
+      "phrase": "devant nos yeux",
       "works": {
         "french": 58,
-        "translation": 15
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "suisse internet http",
-      "works": {
-        "french": 58,
-        "translation": 5
+        "translation": 9
       },
       "in_bible": {
         "lsg": false,
-        "darby": false
+        "darby": true
       }
     },
     {
@@ -7485,17 +7507,6 @@
       }
     },
     {
-      "phrase": "dieu a-t-il",
-      "works": {
-        "french": 57,
-        "translation": 62
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "tremblements de terre",
       "works": {
         "french": 57,
@@ -7503,17 +7514,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "devant nos yeux",
-      "works": {
-        "french": 57,
-        "translation": 10
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": true
       }
     },
@@ -7727,6 +7727,17 @@
       }
     },
     {
+      "phrase": "dieu est révélé",
+      "works": {
+        "french": 56,
+        "translation": 20
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "agréable dieu",
       "works": {
         "french": 56,
@@ -7918,17 +7929,6 @@
       "works": {
         "french": 55,
         "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "dieu est révélé",
-      "works": {
-        "french": 55,
-        "translation": 21
       },
       "in_bible": {
         "lsg": false,
@@ -8387,6 +8387,17 @@
       }
     },
     {
+      "phrase": "dieu créé",
+      "works": {
+        "french": 53,
+        "translation": 101
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "mauvais esprits",
       "works": {
         "french": 53,
@@ -8413,6 +8424,17 @@
       "works": {
         "french": 53,
         "translation": 24
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "jardin éden",
+      "works": {
+        "french": 53,
+        "translation": 5
       },
       "in_bible": {
         "lsg": true,
@@ -8541,17 +8563,6 @@
       }
     },
     {
-      "phrase": "dieu créé",
-      "works": {
-        "french": 52,
-        "translation": 102
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "appelés sortir",
       "works": {
         "french": 52,
@@ -8600,17 +8611,6 @@
       "works": {
         "french": 52,
         "translation": 34
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "jardin éden",
-      "works": {
-        "french": 52,
-        "translation": 6
       },
       "in_bible": {
         "lsg": true,
@@ -8780,6 +8780,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "dieu en tant",
+      "works": {
+        "french": 51,
+        "translation": 13
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -9014,17 +9025,6 @@
       }
     },
     {
-      "phrase": "dieu en tant",
-      "works": {
-        "french": 50,
-        "translation": 14
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "puissances des ténèbres",
       "works": {
         "french": 50,
@@ -9135,6 +9135,17 @@
       }
     },
     {
+      "phrase": "bonnes œuvres",
+      "works": {
+        "french": 50,
+        "translation": 28
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "combat contre babylone",
       "works": {
         "french": 50,
@@ -9143,6 +9154,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "serviteurs les prophètes",
+      "works": {
+        "french": 49,
+        "translation": 45
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -9333,6 +9355,17 @@
       }
     },
     {
+      "phrase": "verset au verset",
+      "works": {
+        "french": 49,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "jésus leur répondit",
       "works": {
         "french": 49,
@@ -9410,21 +9443,21 @@
       }
     },
     {
+      "phrase": "genèse chapitre",
+      "works": {
+        "french": 49,
+        "translation": 5
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "ouvre la porte",
       "works": {
         "french": 49,
         "translation": 30
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "bonnes œuvres",
-      "works": {
-        "french": 49,
-        "translation": 29
       },
       "in_bible": {
         "lsg": true,
@@ -9469,17 +9502,6 @@
       "works": {
         "french": 49,
         "translation": 14
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "serviteurs les prophètes",
-      "works": {
-        "french": 48,
-        "translation": 46
       },
       "in_bible": {
         "lsg": true,
@@ -9597,6 +9619,17 @@
       }
     },
     {
+      "phrase": "propre volonté",
+      "works": {
+        "french": 48,
+        "translation": 19
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "jésus lui répondit",
       "works": {
         "french": 48,
@@ -9615,17 +9648,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "verset au verset",
-      "works": {
-        "french": 48,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": false
       }
     },
@@ -9707,17 +9729,6 @@
       }
     },
     {
-      "phrase": "genèse chapitre",
-      "works": {
-        "french": 48,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "dieu mes bien-aimés",
       "works": {
         "french": 48,
@@ -9737,6 +9748,17 @@
       "in_bible": {
         "lsg": true,
         "darby": false
+      }
+    },
+    {
+      "phrase": "mystères de dieu",
+      "works": {
+        "french": 47,
+        "translation": 39
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -9814,17 +9836,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "propre volonté",
-      "works": {
-        "french": 47,
-        "translation": 20
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -9990,17 +10001,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "mystères de dieu",
-      "works": {
-        "french": 46,
-        "translation": 40
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -10763,6 +10763,17 @@
       }
     },
     {
+      "phrase": "face du seigneur",
+      "works": {
+        "french": 44,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "regarde en arrière",
       "works": {
         "french": 44,
@@ -10789,17 +10800,6 @@
       "works": {
         "french": 44,
         "translation": 23
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "guides religieux",
-      "works": {
-        "french": 44,
-        "translation": 0
       },
       "in_bible": {
         "lsg": false,
@@ -10855,6 +10855,17 @@
       "works": {
         "french": 44,
         "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "guides religieux",
+      "works": {
+        "french": 44,
+        "translation": 0
       },
       "in_bible": {
         "lsg": false,
@@ -11005,6 +11016,17 @@
       }
     },
     {
+      "phrase": "saintes écritures",
+      "works": {
+        "french": 43,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "histoire de église",
       "works": {
         "french": 43,
@@ -11075,17 +11097,6 @@
       "works": {
         "french": 43,
         "translation": 36
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "face du seigneur",
-      "works": {
-        "french": 43,
-        "translation": 3
       },
       "in_bible": {
         "lsg": true,
@@ -11401,17 +11412,6 @@
       }
     },
     {
-      "phrase": "saintes écritures",
-      "works": {
-        "french": 42,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "dieu existe",
       "works": {
         "french": 42,
@@ -11441,6 +11441,17 @@
       },
       "in_bible": {
         "lsg": false,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "descendu du ciel",
+      "works": {
+        "french": 42,
+        "translation": 72
+      },
+      "in_bible": {
+        "lsg": true,
         "darby": true
       }
     },
@@ -11907,17 +11918,6 @@
       }
     },
     {
-      "phrase": "descendu du ciel",
-      "works": {
-        "french": 41,
-        "translation": 73
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "quelqu'un vient",
       "works": {
         "french": 41,
@@ -12314,6 +12314,28 @@
       }
     },
     {
+      "phrase": "livre des actes",
+      "works": {
+        "french": 40,
+        "translation": 52
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "envers dieu",
+      "works": {
+        "french": 40,
+        "translation": 40
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "dieu william",
       "works": {
         "french": 40,
@@ -12545,6 +12567,17 @@
       }
     },
     {
+      "phrase": "devait arriver",
+      "works": {
+        "french": 39,
+        "translation": 38
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "dieu révélé",
       "works": {
         "french": 39,
@@ -12575,6 +12608,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "oreilles écoute",
+      "works": {
+        "french": 39,
+        "translation": 15
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
       }
     },
     {
@@ -12729,28 +12773,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "livre des actes",
-      "works": {
-        "french": 39,
-        "translation": 53
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "envers dieu",
-      "works": {
-        "french": 39,
-        "translation": 41
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -12919,17 +12941,6 @@
       }
     },
     {
-      "phrase": "devait arriver",
-      "works": {
-        "french": 38,
-        "translation": 39
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "dieu manifesté",
       "works": {
         "french": 38,
@@ -12985,13 +12996,13 @@
       }
     },
     {
-      "phrase": "oreilles écoute",
+      "phrase": "pierres précieuses",
       "works": {
         "french": 38,
-        "translation": 16
+        "translation": 20
       },
       "in_bible": {
-        "lsg": false,
+        "lsg": true,
         "darby": true
       }
     },
@@ -13524,17 +13535,6 @@
       }
     },
     {
-      "phrase": "pierres précieuses",
-      "works": {
-        "french": 37,
-        "translation": 21
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "première prédication",
       "works": {
         "french": 37,
@@ -13543,6 +13543,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "bonne semence",
+      "works": {
+        "french": 37,
+        "translation": 14
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -13810,6 +13821,17 @@
       }
     },
     {
+      "phrase": "vrais enfants",
+      "works": {
+        "french": 36,
+        "translation": 7
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "sainte cène",
       "works": {
         "french": 36,
@@ -13884,17 +13906,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "bonne semence",
-      "works": {
-        "french": 36,
-        "translation": 15
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -14027,6 +14038,17 @@
       "in_bible": {
         "lsg": false,
         "darby": true
+      }
+    },
+    {
+      "phrase": "humanité entière",
+      "works": {
+        "french": 36,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -14305,17 +14327,6 @@
       }
     },
     {
-      "phrase": "vrais enfants",
-      "works": {
-        "french": 35,
-        "translation": 8
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "ordre de dieu",
       "works": {
         "french": 35,
@@ -14569,17 +14580,6 @@
       }
     },
     {
-      "phrase": "humanité entière",
-      "works": {
-        "french": 35,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "pays africains",
       "works": {
         "french": 35,
@@ -14723,6 +14723,28 @@
       }
     },
     {
+      "phrase": "image de dieu",
+      "works": {
+        "french": 35,
+        "translation": 70
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "corps de chair",
+      "works": {
+        "french": 35,
+        "translation": 41
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "suis le chemin",
       "works": {
         "french": 35,
@@ -14731,6 +14753,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "chapitre versets",
+      "works": {
+        "french": 35,
+        "translation": 18
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -14753,6 +14786,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "seigneur éternel",
+      "works": {
+        "french": 35,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -14983,6 +15027,39 @@
       },
       "in_bible": {
         "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "serpent ancien",
+      "works": {
+        "french": 34,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "deux semences",
+      "works": {
+        "french": 34,
+        "translation": 9
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "cependant dieu",
+      "works": {
+        "french": 34,
+        "translation": 11
+      },
+      "in_bible": {
+        "lsg": false,
         "darby": true
       }
     },
@@ -15295,28 +15372,6 @@
       }
     },
     {
-      "phrase": "image de dieu",
-      "works": {
-        "french": 34,
-        "translation": 71
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "corps de chair",
-      "works": {
-        "french": 34,
-        "translation": 42
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "jésus répondit",
       "works": {
         "french": 34,
@@ -15350,17 +15405,6 @@
       }
     },
     {
-      "phrase": "chapitre versets",
-      "works": {
-        "french": 34,
-        "translation": 19
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "tant que chrétien",
       "works": {
         "french": 34,
@@ -15380,17 +15424,6 @@
       "in_bible": {
         "lsg": true,
         "darby": false
-      }
-    },
-    {
-      "phrase": "seigneur éternel",
-      "works": {
-        "french": 34,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -15581,6 +15614,28 @@
       }
     },
     {
+      "phrase": "premier chapitre",
+      "works": {
+        "french": 33,
+        "translation": 25
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "grande prostituée",
+      "works": {
+        "french": 33,
+        "translation": 29
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "dieu en jésus-christ",
       "works": {
         "french": 33,
@@ -15600,39 +15655,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "serpent ancien",
-      "works": {
-        "french": 33,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "deux semences",
-      "works": {
-        "french": 33,
-        "translation": 10
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "cependant dieu",
-      "works": {
-        "french": 33,
-        "translation": 12
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": true
       }
     },
     {
@@ -15871,6 +15893,39 @@
       "works": {
         "french": 33,
         "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "parole parlée case",
+      "works": {
+        "french": 33,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "parlée case",
+      "works": {
+        "french": 33,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "parlée case postale",
+      "works": {
+        "french": 33,
+        "translation": 6
       },
       "in_bible": {
         "lsg": false,
@@ -16252,17 +16307,6 @@
       }
     },
     {
-      "phrase": "premier chapitre",
-      "works": {
-        "french": 32,
-        "translation": 26
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "ouvrir les yeux",
       "works": {
         "french": 32,
@@ -16282,17 +16326,6 @@
       "in_bible": {
         "lsg": true,
         "darby": false
-      }
-    },
-    {
-      "phrase": "grande prostituée",
-      "works": {
-        "french": 32,
-        "translation": 30
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -16395,6 +16428,17 @@
       }
     },
     {
+      "phrase": "porte ouverte",
+      "works": {
+        "french": 32,
+        "translation": 31
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "placé devant",
       "works": {
         "french": 32,
@@ -16465,6 +16509,17 @@
       "works": {
         "french": 32,
         "translation": 2
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "dieu ne change",
+      "works": {
+        "french": 32,
+        "translation": 82
       },
       "in_bible": {
         "lsg": false,
@@ -16648,39 +16703,6 @@
       }
     },
     {
-      "phrase": "parole parlée case",
-      "works": {
-        "french": 32,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "parlée case",
-      "works": {
-        "french": 32,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "parlée case postale",
-      "works": {
-        "french": 32,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "relation avec dieu",
       "works": {
         "french": 32,
@@ -16857,17 +16879,6 @@
       }
     },
     {
-      "phrase": "israël avaient",
-      "works": {
-        "french": 32,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "expérimenté la nouvelle",
       "works": {
         "french": 32,
@@ -16964,6 +16975,17 @@
       "in_bible": {
         "lsg": true,
         "darby": false
+      }
+    },
+    {
+      "phrase": "israël avaient",
+      "works": {
+        "french": 32,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -17088,6 +17110,17 @@
       }
     },
     {
+      "phrase": "verset suivant",
+      "works": {
+        "french": 31,
+        "translation": 16
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "vrais serviteurs",
       "works": {
         "french": 31,
@@ -17129,17 +17162,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "porte ouverte",
-      "works": {
-        "french": 31,
-        "translation": 32
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -17206,17 +17228,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "dieu ne change",
-      "works": {
-        "french": 31,
-        "translation": 83
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -17514,6 +17525,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "pouvez lire",
+      "works": {
+        "french": 31,
+        "translation": 15
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -17946,14 +17968,14 @@
       }
     },
     {
-      "phrase": "verset suivant",
+      "phrase": "droit aînesse",
       "works": {
         "french": 30,
-        "translation": 17
+        "translation": 96
       },
       "in_bible": {
-        "lsg": false,
-        "darby": false
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -18089,10 +18111,32 @@
       }
     },
     {
+      "phrase": "dernière génération",
+      "works": {
+        "french": 30,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "bientôt terminé",
       "works": {
         "french": 30,
         "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "venons de lire",
+      "works": {
+        "french": 30,
+        "translation": 17
       },
       "in_bible": {
         "lsg": false,
@@ -18284,17 +18328,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "pouvez lire",
-      "works": {
-        "french": 30,
-        "translation": 16
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -18738,17 +18771,6 @@
       }
     },
     {
-      "phrase": "droit aînesse",
-      "works": {
-        "french": 29,
-        "translation": 97
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "père du fils",
       "works": {
         "french": 29,
@@ -18870,17 +18892,6 @@
       }
     },
     {
-      "phrase": "dernière génération",
-      "works": {
-        "french": 29,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "quelques minutes",
       "works": {
         "french": 29,
@@ -18929,17 +18940,6 @@
       "works": {
         "french": 29,
         "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "venons de lire",
-      "works": {
-        "french": 29,
-        "translation": 18
       },
       "in_bible": {
         "lsg": false,
@@ -19882,6 +19882,17 @@
       }
     },
     {
+      "phrase": "jean écrit",
+      "works": {
+        "french": 28,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "sept chandeliers",
       "works": {
         "french": 28,
@@ -20564,6 +20575,17 @@
       }
     },
     {
+      "phrase": "jésus-christ que dieu",
+      "works": {
+        "french": 28,
+        "translation": 11
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
       "phrase": "arrivée auparavant",
       "works": {
         "french": 28,
@@ -20847,6 +20869,17 @@
       "in_bible": {
         "lsg": true,
         "darby": false
+      }
+    },
+    {
+      "phrase": "enfanta un fils",
+      "works": {
+        "french": 28,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -21180,17 +21213,6 @@
       }
     },
     {
-      "phrase": "jean écrit",
-      "works": {
-        "french": 27,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "epoux vient",
       "works": {
         "french": 27,
@@ -21389,6 +21411,17 @@
       }
     },
     {
+      "phrase": "seule manière",
+      "works": {
+        "french": 27,
+        "translation": 48
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "accompli la volonté",
       "works": {
         "french": 27,
@@ -21404,6 +21437,17 @@
       "works": {
         "french": 27,
         "translation": 20
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "quelque sorte",
+      "works": {
+        "french": 27,
+        "translation": 44
       },
       "in_bible": {
         "lsg": true,
@@ -21818,17 +21862,6 @@
       }
     },
     {
-      "phrase": "jésus-christ que dieu",
-      "works": {
-        "french": 27,
-        "translation": 12
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": false
-      }
-    },
-    {
       "phrase": "fils de perdition",
       "works": {
         "french": 27,
@@ -22079,17 +22112,6 @@
       "in_bible": {
         "lsg": true,
         "darby": false
-      }
-    },
-    {
-      "phrase": "enfanta un fils",
-      "works": {
-        "french": 27,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -22511,17 +22533,6 @@
       }
     },
     {
-      "phrase": "seule manière",
-      "works": {
-        "french": 26,
-        "translation": 49
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "soleil de justice",
       "works": {
         "french": 26,
@@ -22559,17 +22570,6 @@
       "works": {
         "french": 26,
         "translation": 62
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "quelque sorte",
-      "works": {
-        "french": 26,
-        "translation": 45
       },
       "in_bible": {
         "lsg": true,
@@ -23622,6 +23622,17 @@
       }
     },
     {
+      "phrase": "secret ses serviteurs",
+      "works": {
+        "french": 25,
+        "translation": 22
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "grand événement",
       "works": {
         "french": 25,
@@ -23780,6 +23791,28 @@
       "works": {
         "french": 25,
         "translation": 8
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "donné ordre",
+      "works": {
+        "french": 25,
+        "translation": 9
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "dieu apocalypse",
+      "works": {
+        "french": 25,
+        "translation": 6
       },
       "in_bible": {
         "lsg": false,
@@ -24194,6 +24227,17 @@
       }
     },
     {
+      "phrase": "mettrai inimitié",
+      "works": {
+        "french": 25,
+        "translation": 16
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "écouter sa parole",
       "works": {
         "french": 25,
@@ -24576,6 +24620,17 @@
       "in_bible": {
         "lsg": false,
         "darby": true
+      }
+    },
+    {
+      "phrase": "postale ch lausanne",
+      "works": {
+        "french": 25,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -25206,17 +25261,6 @@
       }
     },
     {
-      "phrase": "secret ses serviteurs",
-      "works": {
-        "french": 24,
-        "translation": 23
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "quelques mots",
       "works": {
         "french": 24,
@@ -25349,17 +25393,6 @@
       }
     },
     {
-      "phrase": "donné ordre",
-      "works": {
-        "french": 24,
-        "translation": 10
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "nations jusqu'à",
       "works": {
         "french": 24,
@@ -25379,17 +25412,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "dieu apocalypse",
-      "works": {
-        "french": 24,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -25833,17 +25855,6 @@
       }
     },
     {
-      "phrase": "mettrai inimitié",
-      "works": {
-        "french": 24,
-        "translation": 17
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "payé le prix",
       "works": {
         "french": 24,
@@ -26215,17 +26226,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "postale ch lausanne",
-      "works": {
-        "french": 24,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -27395,6 +27395,17 @@
       }
     },
     {
+      "phrase": "péché originel",
+      "works": {
+        "french": 23,
+        "translation": 5
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "seigneur donna",
       "works": {
         "french": 23,
@@ -27681,6 +27692,17 @@
       }
     },
     {
+      "phrase": "première épître",
+      "works": {
+        "french": 23,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "craignant dieu",
       "works": {
         "french": 23,
@@ -27890,6 +27912,17 @@
       }
     },
     {
+      "phrase": "étant donné",
+      "works": {
+        "french": 23,
+        "translation": 13
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "beaucoup de passages",
       "works": {
         "french": 23,
@@ -28074,6 +28107,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "appelé fils",
+      "works": {
+        "french": 23,
+        "translation": 29
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -28422,6 +28466,17 @@
       "works": {
         "french": 23,
         "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "chapitre du verset",
+      "works": {
+        "french": 23,
+        "translation": 0
       },
       "in_bible": {
         "lsg": false,
@@ -29012,6 +29067,17 @@
       }
     },
     {
+      "phrase": "deux versets",
+      "works": {
+        "french": 22,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "enfant jésus",
       "works": {
         "french": 22,
@@ -29162,17 +29228,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "péché originel",
-      "works": {
-        "french": 22,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": false
       }
     },
@@ -29452,17 +29507,6 @@
       }
     },
     {
-      "phrase": "première épître",
-      "works": {
-        "french": 22,
-        "translation": 5
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "concernant la parole",
       "works": {
         "french": 22,
@@ -29731,17 +29775,6 @@
       "works": {
         "french": 22,
         "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "étant donné",
-      "works": {
-        "french": 22,
-        "translation": 14
       },
       "in_bible": {
         "lsg": false,
@@ -30039,17 +30072,6 @@
       "works": {
         "french": 22,
         "translation": 6
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "appelé fils",
-      "works": {
-        "french": 22,
-        "translation": 30
       },
       "in_bible": {
         "lsg": true,
@@ -30497,17 +30519,6 @@
       }
     },
     {
-      "phrase": "chapitre du verset",
-      "works": {
-        "french": 22,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "précéder la première",
       "works": {
         "french": 22,
@@ -30743,6 +30754,17 @@
       "works": {
         "french": 22,
         "translation": 18
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "aucune puissance",
+      "works": {
+        "french": 22,
+        "translation": 17
       },
       "in_bible": {
         "lsg": true,
@@ -31080,17 +31102,6 @@
       }
     },
     {
-      "phrase": "deux versets",
-      "works": {
-        "french": 21,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "éléments embrasés",
       "works": {
         "french": 21,
@@ -31099,6 +31110,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "dieu frère branham",
+      "works": {
+        "french": 21,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -31333,6 +31355,17 @@
       }
     },
     {
+      "phrase": "race de vipères",
+      "works": {
+        "french": 21,
+        "translation": 20
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "sanctifie lui-même",
       "works": {
         "french": 21,
@@ -31341,6 +31374,28 @@
       "in_bible": {
         "lsg": true,
         "darby": false
+      }
+    },
+    {
+      "phrase": "semence du serpent",
+      "works": {
+        "french": 21,
+        "translation": 73
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "est-il pas écrit",
+      "works": {
+        "french": 21,
+        "translation": 25
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -31363,6 +31418,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "chapitre nous lisons",
+      "works": {
+        "french": 21,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -31634,6 +31700,17 @@
       "works": {
         "french": 21,
         "translation": 5
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "enfant mâle",
+      "works": {
+        "french": 21,
+        "translation": 6
       },
       "in_bible": {
         "lsg": true,
@@ -32917,6 +32994,17 @@
       }
     },
     {
+      "phrase": "imposé les mains",
+      "works": {
+        "french": 21,
+        "translation": 117
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "tueras point",
       "works": {
         "french": 21,
@@ -33137,6 +33225,17 @@
       }
     },
     {
+      "phrase": "dieu suscite",
+      "works": {
+        "french": 21,
+        "translation": 14
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "jésus enseigné",
       "works": {
         "french": 21,
@@ -33156,17 +33255,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "aucune puissance",
-      "works": {
-        "french": 21,
-        "translation": 18
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -33566,17 +33654,6 @@
       }
     },
     {
-      "phrase": "dieu frère branham",
-      "works": {
-        "french": 20,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "reçu une révélation",
       "works": {
         "french": 20,
@@ -33589,6 +33666,17 @@
     },
     {
       "phrase": "dieu nous voulons",
+      "works": {
+        "french": 20,
+        "translation": 5
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "esprit jean",
       "works": {
         "french": 20,
         "translation": 5
@@ -33676,6 +33764,17 @@
       }
     },
     {
+      "phrase": "verset du chapitre",
+      "works": {
+        "french": 20,
+        "translation": 13
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "couronne de douze",
       "works": {
         "french": 20,
@@ -33687,10 +33786,10 @@
       }
     },
     {
-      "phrase": "race de vipères",
+      "phrase": "fils du royaume",
       "works": {
         "french": 20,
-        "translation": 21
+        "translation": 4
       },
       "in_bible": {
         "lsg": true,
@@ -33709,17 +33808,6 @@
       }
     },
     {
-      "phrase": "semence du serpent",
-      "works": {
-        "french": 20,
-        "translation": 74
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "message particulier",
       "works": {
         "french": 20,
@@ -33728,17 +33816,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "est-il pas écrit",
-      "works": {
-        "french": 20,
-        "translation": 26
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -33754,17 +33831,6 @@
     },
     {
       "phrase": "trouve écrit",
-      "works": {
-        "french": 20,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "chapitre nous lisons",
       "works": {
         "french": 20,
         "translation": 2
@@ -33969,17 +34035,6 @@
       },
       "in_bible": {
         "lsg": false,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "enfant mâle",
-      "works": {
-        "french": 20,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": true,
         "darby": true
       }
     },
@@ -35293,17 +35348,6 @@
       }
     },
     {
-      "phrase": "imposé les mains",
-      "works": {
-        "french": 20,
-        "translation": 118
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "élie le prophète",
       "works": {
         "french": 20,
@@ -35323,6 +35367,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "matthieu au chapitre",
+      "works": {
+        "french": 20,
+        "translation": 8
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -35832,17 +35887,6 @@
       }
     },
     {
-      "phrase": "dieu suscite",
-      "works": {
-        "french": 20,
-        "translation": 15
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "louis segond",
       "works": {
         "french": 20,
@@ -36129,17 +36173,6 @@
       }
     },
     {
-      "phrase": "esprit jean",
-      "works": {
-        "french": 19,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "dieu été manifesté",
       "works": {
         "french": 19,
@@ -36250,17 +36283,6 @@
       }
     },
     {
-      "phrase": "verset du chapitre",
-      "works": {
-        "french": 19,
-        "translation": 14
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "accueillerai je serai",
       "works": {
         "french": 19,
@@ -36327,10 +36349,32 @@
       }
     },
     {
-      "phrase": "fils du royaume",
+      "phrase": "quiconque hait",
       "works": {
         "french": 19,
-        "translation": 5
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "aucun meurtrier",
+      "works": {
+        "french": 19,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "éternelle demeurant",
+      "works": {
+        "french": 19,
+        "translation": 0
       },
       "in_bible": {
         "lsg": true,
@@ -36606,6 +36650,17 @@
       "works": {
         "french": 19,
         "translation": 3
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "témoignage que dieu",
+      "works": {
+        "french": 19,
+        "translation": 4
       },
       "in_bible": {
         "lsg": true,
@@ -36947,6 +37002,17 @@
       "works": {
         "french": 19,
         "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "seulement dieu",
+      "works": {
+        "french": 19,
+        "translation": 17
       },
       "in_bible": {
         "lsg": false,
@@ -38109,17 +38175,6 @@
       }
     },
     {
-      "phrase": "entrer en scène",
-      "works": {
-        "french": 19,
-        "translation": 24
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "réveil commencé",
       "works": {
         "french": 19,
@@ -38223,6 +38278,17 @@
       "works": {
         "french": 19,
         "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "entrer en scène",
+      "works": {
+        "french": 19,
+        "translation": 24
       },
       "in_bible": {
         "lsg": false,
@@ -38366,17 +38432,6 @@
       "works": {
         "french": 19,
         "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "matthieu au chapitre",
-      "works": {
-        "french": 19,
-        "translation": 9
       },
       "in_bible": {
         "lsg": false,
@@ -39220,6 +39275,17 @@
       }
     },
     {
+      "phrase": "prophètes amos",
+      "works": {
+        "french": 18,
+        "translation": 16
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "absolument nécessaire",
       "works": {
         "french": 18,
@@ -39396,32 +39462,10 @@
       }
     },
     {
-      "phrase": "quiconque hait",
+      "phrase": "père le diable",
       "works": {
         "french": 18,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "aucun meurtrier",
-      "works": {
-        "french": 18,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "éternelle demeurant",
-      "works": {
-        "french": 18,
-        "translation": 1
+        "translation": 55
       },
       "in_bible": {
         "lsg": true,
@@ -39778,17 +39822,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "témoignage que dieu",
-      "works": {
-        "french": 18,
-        "translation": 5
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -40221,17 +40254,6 @@
       }
     },
     {
-      "phrase": "seulement dieu",
-      "works": {
-        "french": 18,
-        "translation": 18
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "propres doctrines",
       "works": {
         "french": 18,
@@ -40635,6 +40657,28 @@
       },
       "in_bible": {
         "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "christ corinthiens",
+      "works": {
+        "french": 18,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "commet un adultère",
+      "works": {
+        "french": 18,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": true,
         "darby": false
       }
     },
@@ -42091,6 +42135,17 @@
       }
     },
     {
+      "phrase": "fruit de arbre",
+      "works": {
+        "french": 18,
+        "translation": 10
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "diverses épreuves",
       "works": {
         "french": 18,
@@ -42927,17 +42982,6 @@
       }
     },
     {
-      "phrase": "prophètes amos",
-      "works": {
-        "french": 17,
-        "translation": 17
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "grandes églises",
       "works": {
         "french": 17,
@@ -43151,17 +43195,6 @@
       "works": {
         "french": 17,
         "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "père le diable",
-      "works": {
-        "french": 17,
-        "translation": 56
       },
       "in_bible": {
         "lsg": true,
@@ -44467,32 +44500,10 @@
       }
     },
     {
-      "phrase": "christ corinthiens",
-      "works": {
-        "french": 17,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "part dieu",
       "works": {
         "french": 17,
         "translation": 14
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "commet un adultère",
-      "works": {
-        "french": 17,
-        "translation": 4
       },
       "in_bible": {
         "lsg": true,
@@ -45380,6 +45391,17 @@
       }
     },
     {
+      "phrase": "côte côte",
+      "works": {
+        "french": 17,
+        "translation": 10
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "mort dieu",
       "works": {
         "french": 17,
@@ -45575,6 +45597,28 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "arbres du jardin",
+      "works": {
+        "french": 17,
+        "translation": 7
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "génération en génération",
+      "works": {
+        "french": 17,
+        "translation": 5
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -46766,17 +46810,6 @@
       }
     },
     {
-      "phrase": "fruit de arbre",
-      "works": {
-        "french": 17,
-        "translation": 11
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "yeux de éternel",
       "works": {
         "french": 17,
@@ -47789,6 +47822,17 @@
       }
     },
     {
+      "phrase": "voyons que dieu",
+      "works": {
+        "french": 16,
+        "translation": 10
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "apôtre écrit",
       "works": {
         "french": 16,
@@ -48258,6 +48302,17 @@
       },
       "in_bible": {
         "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "garde la manière",
+      "works": {
+        "french": 16,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": true,
         "darby": false
       }
     },
@@ -48753,6 +48808,17 @@
       },
       "in_bible": {
         "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "dieu au lieu",
+      "works": {
+        "french": 16,
+        "translation": 22
+      },
+      "in_bible": {
+        "lsg": false,
         "darby": true
       }
     },
@@ -49637,6 +49703,17 @@
       }
     },
     {
+      "phrase": "situation dans laquelle",
+      "works": {
+        "french": 16,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "dieu éprouve",
       "works": {
         "french": 16,
@@ -49718,17 +49795,6 @@
       "works": {
         "french": 16,
         "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "côte côte",
-      "works": {
-        "french": 16,
-        "translation": 11
       },
       "in_bible": {
         "lsg": false,
@@ -49869,28 +49935,6 @@
     },
     {
       "phrase": "lire dans apocalypse",
-      "works": {
-        "french": 16,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "grand commandement",
-      "works": {
-        "french": 16,
-        "translation": 0
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "conquête du monde",
       "works": {
         "french": 16,
         "translation": 1
@@ -50066,17 +50110,6 @@
       }
     },
     {
-      "phrase": "arbres du jardin",
-      "works": {
-        "french": 16,
-        "translation": 8
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "cher seigneur",
       "works": {
         "french": 16,
@@ -50085,17 +50118,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "génération en génération",
-      "works": {
-        "french": 16,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -50235,6 +50257,17 @@
       "works": {
         "french": 16,
         "translation": 4
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "conquête du monde",
+      "works": {
+        "french": 16,
+        "translation": 1
       },
       "in_bible": {
         "lsg": false,
@@ -50800,6 +50833,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "grand commandement",
+      "works": {
+        "french": 16,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -52651,17 +52695,6 @@
       }
     },
     {
-      "phrase": "voyons que dieu",
-      "works": {
-        "french": 15,
-        "translation": 11
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "entendit la voix",
       "works": {
         "french": 15,
@@ -53190,17 +53223,6 @@
       }
     },
     {
-      "phrase": "garde la manière",
-      "works": {
-        "french": 15,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": false
-      }
-    },
-    {
       "phrase": "prendra soin",
       "works": {
         "french": 15,
@@ -53378,6 +53400,17 @@
     },
     {
       "phrase": "missionnaire ewald frank",
+      "works": {
+        "french": 15,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "apôtre paul parle",
       "works": {
         "french": 15,
         "translation": 0
@@ -53671,17 +53704,6 @@
       "in_bible": {
         "lsg": true,
         "darby": false
-      }
-    },
-    {
-      "phrase": "dieu au lieu",
-      "works": {
-        "french": 15,
-        "translation": 23
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": true
       }
     },
     {
@@ -54096,6 +54118,17 @@
       "works": {
         "french": 15,
         "translation": 5
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "livre de apocalypse",
+      "works": {
+        "french": 15,
+        "translation": 23
       },
       "in_bible": {
         "lsg": false,
@@ -54554,6 +54587,17 @@
       }
     },
     {
+      "phrase": "révèle son secret",
+      "works": {
+        "french": 15,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
+      }
+    },
+    {
       "phrase": "ecriture parle",
       "works": {
         "french": 15,
@@ -54972,17 +55016,6 @@
       }
     },
     {
-      "phrase": "situation dans laquelle",
-      "works": {
-        "french": 15,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "seigneur du ciel",
       "works": {
         "french": 15,
@@ -55288,6 +55321,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "trois fils",
+      "works": {
+        "french": 15,
+        "translation": 9
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -57942,6 +57986,28 @@
       }
     },
     {
+      "phrase": "cognée est mise",
+      "works": {
+        "french": 14,
+        "translation": 14
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "mise la racine",
+      "works": {
+        "french": 14,
+        "translation": 16
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "avaient péché",
       "works": {
         "french": 14,
@@ -58313,6 +58379,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "placée devant",
+      "works": {
+        "french": 14,
+        "translation": 10
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -59262,6 +59339,28 @@
       }
     },
     {
+      "phrase": "suivante centre",
+      "works": {
+        "french": 14,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "suivante centre missionnaire",
+      "works": {
+        "french": 14,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "livre scellé",
       "works": {
         "french": 14,
@@ -59361,17 +59460,6 @@
       }
     },
     {
-      "phrase": "apôtre paul parle",
-      "works": {
-        "french": 14,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "parle du retour",
       "works": {
         "french": 14,
@@ -59413,6 +59501,17 @@
       "in_bible": {
         "lsg": false,
         "darby": true
+      }
+    },
+    {
+      "phrase": "adresse suivante",
+      "works": {
+        "french": 14,
+        "translation": 7
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -59812,6 +59911,17 @@
       }
     },
     {
+      "phrase": "menu bétail",
+      "works": {
+        "french": 14,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "double portion",
       "works": {
         "french": 14,
@@ -59933,6 +60043,17 @@
       }
     },
     {
+      "phrase": "deux avaient",
+      "works": {
+        "french": 14,
+        "translation": 15
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "devant baal",
       "works": {
         "french": 14,
@@ -60017,17 +60138,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "livre de apocalypse",
-      "works": {
-        "french": 14,
-        "translation": 24
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": false
       }
     },
@@ -60428,6 +60538,17 @@
       }
     },
     {
+      "phrase": "donné sa parole",
+      "works": {
+        "french": 14,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "cent vingt",
       "works": {
         "french": 14,
@@ -60633,17 +60754,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "révèle son secret",
-      "works": {
-        "french": 14,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": true
       }
     },
@@ -61506,28 +61616,6 @@
       }
     },
     {
-      "phrase": "trois fils",
-      "works": {
-        "french": 14,
-        "translation": 10
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "fils de marie",
-      "works": {
-        "french": 14,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "tard dieu",
       "works": {
         "french": 14,
@@ -61851,6 +61939,17 @@
       "works": {
         "french": 14,
         "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "apocalypse au chapitre",
+      "works": {
+        "french": 14,
+        "translation": 17
       },
       "in_bible": {
         "lsg": false,
@@ -62595,6 +62694,17 @@
       }
     },
     {
+      "phrase": "venir prendre",
+      "works": {
+        "french": 14,
+        "translation": 12
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "bonne place",
       "works": {
         "french": 14,
@@ -62980,6 +63090,17 @@
       }
     },
     {
+      "phrase": "accomplir ses desseins",
+      "works": {
+        "french": 14,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "fils obéissance",
       "works": {
         "french": 14,
@@ -62999,6 +63120,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "fils de marie",
+      "works": {
+        "french": 14,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -64773,6 +64905,17 @@
       }
     },
     {
+      "phrase": "devait prendre",
+      "works": {
+        "french": 13,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
+      }
+    },
+    {
       "phrase": "branham le décembre",
       "works": {
         "french": 13,
@@ -65301,10 +65444,10 @@
       }
     },
     {
-      "phrase": "cognée est mise",
+      "phrase": "christ devait",
       "works": {
         "french": 13,
-        "translation": 15
+        "translation": 10
       },
       "in_bible": {
         "lsg": true,
@@ -65312,10 +65455,10 @@
       }
     },
     {
-      "phrase": "mise la racine",
+      "phrase": "racine des arbres",
       "works": {
         "french": 13,
-        "translation": 17
+        "translation": 12
       },
       "in_bible": {
         "lsg": true,
@@ -65730,17 +65873,6 @@
       }
     },
     {
-      "phrase": "placée devant",
-      "works": {
-        "french": 13,
-        "translation": 11
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "terre cependant",
       "works": {
         "french": 13,
@@ -65892,6 +66024,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "dieu ennemi",
+      "works": {
+        "french": 13,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -66599,6 +66742,17 @@
       }
     },
     {
+      "phrase": "commettre adultère",
+      "works": {
+        "french": 13,
+        "translation": 33
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "dieu mon dieu",
       "works": {
         "french": 13,
@@ -66731,28 +66885,6 @@
       }
     },
     {
-      "phrase": "suivante centre",
-      "works": {
-        "french": 13,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "suivante centre missionnaire",
-      "works": {
-        "french": 13,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "messager de alliance",
       "works": {
         "french": 13,
@@ -66863,10 +66995,10 @@
       }
     },
     {
-      "phrase": "adresse suivante",
+      "phrase": "adresse suivante centre",
       "works": {
         "french": 13,
-        "translation": 8
+        "translation": 6
       },
       "in_bible": {
         "lsg": false,
@@ -67080,6 +67212,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "dieu certains",
+      "works": {
+        "french": 13,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -67336,17 +67479,6 @@
       }
     },
     {
-      "phrase": "menu bétail",
-      "works": {
-        "french": 13,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "reçu un esprit",
       "works": {
         "french": 13,
@@ -67483,17 +67615,6 @@
       "works": {
         "french": 13,
         "translation": 38
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "deux avaient",
-      "works": {
-        "french": 13,
-        "translation": 16
       },
       "in_bible": {
         "lsg": false,
@@ -67963,6 +68084,17 @@
       }
     },
     {
+      "phrase": "manière suivante",
+      "works": {
+        "french": 13,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
       "phrase": "grand combat spirituel",
       "works": {
         "french": 13,
@@ -68025,17 +68157,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "donné sa parole",
-      "works": {
-        "french": 13,
-        "translation": 5
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": false
       }
     },
@@ -68125,6 +68246,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "créé image",
+      "works": {
+        "french": 13,
+        "translation": 5
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -70031,17 +70163,6 @@
       }
     },
     {
-      "phrase": "apocalypse au chapitre",
-      "works": {
-        "french": 13,
-        "translation": 18
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "peux pas supporter",
       "works": {
         "french": 13,
@@ -70567,17 +70688,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "venir prendre",
-      "works": {
-        "french": 13,
-        "translation": 13
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -72209,17 +72319,6 @@
       }
     },
     {
-      "phrase": "accomplir ses desseins",
-      "works": {
-        "french": 13,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "entièrement confiance",
       "works": {
         "french": 13,
@@ -73364,17 +73463,6 @@
       }
     },
     {
-      "phrase": "devait prendre",
-      "works": {
-        "french": 12,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": true
-      }
-    },
-    {
       "phrase": "seigneur décidé",
       "works": {
         "french": 12,
@@ -73958,14 +74046,25 @@
       }
     },
     {
-      "phrase": "christ devait",
+      "phrase": "caïn et abel",
       "works": {
         "french": 12,
-        "translation": 11
+        "translation": 41
       },
       "in_bible": {
-        "lsg": true,
-        "darby": true
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "devait sortir",
+      "works": {
+        "french": 12,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -73973,17 +74072,6 @@
       "works": {
         "french": 12,
         "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "racine des arbres",
-      "works": {
-        "french": 12,
-        "translation": 13
       },
       "in_bible": {
         "lsg": true,
@@ -74013,6 +74101,17 @@
       }
     },
     {
+      "phrase": "fiancés un seul",
+      "works": {
+        "french": 12,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "vierge pure",
       "works": {
         "french": 12,
@@ -74021,6 +74120,17 @@
       "in_bible": {
         "lsg": true,
         "darby": false
+      }
+    },
+    {
+      "phrase": "serpent séduisit",
+      "works": {
+        "french": 12,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -74556,17 +74666,6 @@
       "works": {
         "french": 12,
         "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "dieu ennemi",
-      "works": {
-        "french": 12,
-        "translation": 5
       },
       "in_bible": {
         "lsg": false,
@@ -75663,17 +75762,6 @@
       }
     },
     {
-      "phrase": "commettre adultère",
-      "works": {
-        "french": 12,
-        "translation": 34
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "dieu pourra",
       "works": {
         "french": 12,
@@ -76081,17 +76169,6 @@
       }
     },
     {
-      "phrase": "adresse suivante centre",
-      "works": {
-        "french": 12,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "appris connaître",
       "works": {
         "french": 12,
@@ -76312,17 +76389,6 @@
       }
     },
     {
-      "phrase": "dieu certains",
-      "works": {
-        "french": 12,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "parle paul",
       "works": {
         "french": 12,
@@ -76408,6 +76474,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "prière devant",
+      "works": {
+        "french": 12,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -77456,17 +77533,6 @@
       }
     },
     {
-      "phrase": "manière suivante",
-      "works": {
-        "french": 12,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": false
-      }
-    },
-    {
       "phrase": "rendue manifeste",
       "works": {
         "french": 12,
@@ -77497,6 +77563,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "épître de jean",
+      "works": {
+        "french": 12,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -77585,17 +77662,6 @@
       "in_bible": {
         "lsg": false,
         "darby": true
-      }
-    },
-    {
-      "phrase": "créé image",
-      "works": {
-        "french": 12,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -78146,6 +78212,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "lorsqu'il parle",
+      "works": {
+        "french": 12,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
       }
     },
     {
@@ -79172,28 +79249,6 @@
       }
     },
     {
-      "phrase": "prend conscience",
-      "works": {
-        "french": 12,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "peuvent voir",
-      "works": {
-        "french": 12,
-        "translation": 19
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "patience de dieu",
       "works": {
         "french": 12,
@@ -79209,6 +79264,17 @@
       "works": {
         "french": 12,
         "translation": 7
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "semences différentes",
+      "works": {
+        "french": 12,
+        "translation": 1
       },
       "in_bible": {
         "lsg": false,
@@ -79686,6 +79752,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "seul mari",
+      "works": {
+        "french": 12,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -81270,6 +81347,28 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "prend conscience",
+      "works": {
+        "french": 12,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "peuvent voir",
+      "works": {
+        "french": 12,
+        "translation": 19
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -84199,6 +84298,17 @@
       }
     },
     {
+      "phrase": "dieu lisons",
+      "works": {
+        "french": 11,
+        "translation": 19
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "parole de jérémie",
       "works": {
         "french": 11,
@@ -84441,21 +84551,10 @@
       }
     },
     {
-      "phrase": "caïn et abel",
+      "phrase": "anges déchus",
       "works": {
         "french": 11,
-        "translation": 42
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "devait sortir",
-      "works": {
-        "french": 11,
-        "translation": 5
+        "translation": 12
       },
       "in_bible": {
         "lsg": false,
@@ -84485,17 +84584,6 @@
       }
     },
     {
-      "phrase": "fiancés un seul",
-      "works": {
-        "french": 11,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "seul époux",
       "works": {
         "french": 11,
@@ -84504,17 +84592,6 @@
       "in_bible": {
         "lsg": true,
         "darby": false
-      }
-    },
-    {
-      "phrase": "serpent séduisit",
-      "works": {
-        "french": 11,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -86872,17 +86949,6 @@
       }
     },
     {
-      "phrase": "prière devant",
-      "works": {
-        "french": 11,
-        "translation": 5
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "ayant revêtu",
       "works": {
         "french": 11,
@@ -87265,6 +87331,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "corinthiens apôtre",
+      "works": {
+        "french": 11,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -88104,6 +88181,17 @@
       }
     },
     {
+      "phrase": "épître aux corinthiens",
+      "works": {
+        "french": 11,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "résurrection le seigneur",
       "works": {
         "french": 11,
@@ -88178,17 +88266,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "épître de jean",
-      "works": {
-        "french": 11,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -88471,6 +88548,17 @@
       "works": {
         "french": 11,
         "translation": 2
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "pouvait entrer",
+      "works": {
+        "french": 11,
+        "translation": 23
       },
       "in_bible": {
         "lsg": true,
@@ -89024,17 +89112,6 @@
       },
       "in_bible": {
         "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "lorsqu'il parle",
-      "works": {
-        "french": 11,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": true,
         "darby": false
       }
     },
@@ -90183,50 +90260,6 @@
       }
     },
     {
-      "phrase": "première femme",
-      "works": {
-        "french": 11,
-        "translation": 29
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "dieu ressuscité",
-      "works": {
-        "french": 11,
-        "translation": 40
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "père est point",
-      "works": {
-        "french": 11,
-        "translation": 27
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "world trade",
-      "works": {
-        "french": 11,
-        "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "domination de satan",
       "works": {
         "french": 11,
@@ -90249,6 +90282,17 @@
       }
     },
     {
+      "phrase": "première femme",
+      "works": {
+        "french": 11,
+        "translation": 29
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
+      }
+    },
+    {
       "phrase": "brisera la tête",
       "works": {
         "french": 11,
@@ -90257,17 +90301,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "semences différentes",
-      "works": {
-        "french": 11,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -90448,6 +90481,17 @@
     },
     {
       "phrase": "daniel chapitre",
+      "works": {
+        "french": 11,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "world trade",
       "works": {
         "french": 11,
         "translation": 0
@@ -90906,17 +90950,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "seul mari",
-      "works": {
-        "french": 11,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -91976,6 +92009,17 @@
       }
     },
     {
+      "phrase": "nombres chapitre",
+      "works": {
+        "french": 11,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "jugement va commencer",
       "works": {
         "french": 11,
@@ -92460,6 +92504,39 @@
       }
     },
     {
+      "phrase": "dieu ressuscité",
+      "works": {
+        "french": 11,
+        "translation": 40
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "devint enceinte",
+      "works": {
+        "french": 11,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "dieu nous révèle",
+      "works": {
+        "french": 11,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "deux positions",
       "works": {
         "french": 11,
@@ -92497,6 +92574,17 @@
       "works": {
         "french": 11,
         "translation": 19
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "père est point",
+      "works": {
+        "french": 11,
+        "translation": 27
       },
       "in_bible": {
         "lsg": true,
@@ -96563,6 +96651,17 @@
       }
     },
     {
+      "phrase": "ajoute quelque",
+      "works": {
+        "french": 10,
+        "translation": 12
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
       "phrase": "tout-puissant apocalypse",
       "works": {
         "french": 10,
@@ -96611,17 +96710,6 @@
       "works": {
         "french": 10,
         "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "dieu lisons",
-      "works": {
-        "french": 10,
-        "translation": 20
       },
       "in_bible": {
         "lsg": false,
@@ -96860,6 +96948,28 @@
       }
     },
     {
+      "phrase": "milieu du jardin",
+      "works": {
+        "french": 10,
+        "translation": 8
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "jardin de dieu",
+      "works": {
+        "french": 10,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "aucun apôtre",
       "works": {
         "french": 10,
@@ -96948,10 +97058,10 @@
       }
     },
     {
-      "phrase": "anges déchus",
+      "phrase": "deux lignées",
       "works": {
         "french": 10,
-        "translation": 13
+        "translation": 4
       },
       "in_bible": {
         "lsg": false,
@@ -96970,6 +97080,17 @@
       }
     },
     {
+      "phrase": "serviteurs de christ",
+      "works": {
+        "french": 10,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "simplicité égard",
       "works": {
         "french": 10,
@@ -96977,6 +97098,17 @@
       },
       "in_bible": {
         "lsg": true,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "diable jean",
+      "works": {
+        "french": 10,
+        "translation": 18
+      },
+      "in_bible": {
+        "lsg": false,
         "darby": false
       }
     },
@@ -97011,6 +97143,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "donnée par dieu",
+      "works": {
+        "french": 10,
+        "translation": 25
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
       }
     },
     {
@@ -100864,17 +101007,6 @@
       }
     },
     {
-      "phrase": "corinthiens apôtre",
-      "works": {
-        "french": 10,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "clairement exprimé",
       "works": {
         "french": 10,
@@ -101733,6 +101865,17 @@
       }
     },
     {
+      "phrase": "séparé de dieu",
+      "works": {
+        "french": 10,
+        "translation": 22
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "as-tu abandonné",
       "works": {
         "french": 10,
@@ -101953,6 +102096,17 @@
       }
     },
     {
+      "phrase": "manger de arbre",
+      "works": {
+        "french": 10,
+        "translation": 8
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "prophètes envoyés",
       "works": {
         "french": 10,
@@ -102060,17 +102214,6 @@
       "in_bible": {
         "lsg": false,
         "darby": true
-      }
-    },
-    {
-      "phrase": "épître aux corinthiens",
-      "works": {
-        "french": 10,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -102610,17 +102753,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "pouvait entrer",
-      "works": {
-        "french": 10,
-        "translation": 24
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -103182,6 +103314,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "manière que jésus",
+      "works": {
+        "french": 10,
+        "translation": 5
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -103878,6 +104021,17 @@
       }
     },
     {
+      "phrase": "paradis de dieu",
+      "works": {
+        "french": 10,
+        "translation": 13
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "chassent les démons",
       "works": {
         "french": 10,
@@ -104527,6 +104681,17 @@
       }
     },
     {
+      "phrase": "livre du prophète",
+      "works": {
+        "french": 10,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "cinq mille",
       "works": {
         "french": 10,
@@ -104989,6 +105154,17 @@
       }
     },
     {
+      "phrase": "terre genèse",
+      "works": {
+        "french": 10,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "isaac sur autel",
       "works": {
         "french": 10,
@@ -105066,54 +105242,21 @@
       }
     },
     {
-      "phrase": "aura la paix",
-      "works": {
-        "french": 10,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "tiers de humanité",
-      "works": {
-        "french": 10,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "world trade center",
-      "works": {
-        "french": 10,
-        "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "trade center",
-      "works": {
-        "french": 10,
-        "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "juste côté",
       "works": {
         "french": 10,
         "translation": 9
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "deux semences différentes",
+      "works": {
+        "french": 10,
+        "translation": 1
       },
       "in_bible": {
         "lsg": false,
@@ -105243,6 +105386,39 @@
     },
     {
       "phrase": "seule autorité",
+      "works": {
+        "french": 10,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "world trade center",
+      "works": {
+        "french": 10,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "trade center",
+      "works": {
+        "french": 10,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "tiers de humanité",
       "works": {
         "french": 10,
         "translation": 1
@@ -107233,17 +107409,6 @@
       }
     },
     {
-      "phrase": "nombres chapitre",
-      "works": {
-        "french": 10,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "croire au mensonge",
       "works": {
         "french": 10,
@@ -108025,6 +108190,28 @@
       }
     },
     {
+      "phrase": "étoiles des cieux",
+      "works": {
+        "french": 10,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "tomber satan",
+      "works": {
+        "french": 10,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "puni de mort",
       "works": {
         "french": 10,
@@ -108054,6 +108241,17 @@
       },
       "in_bible": {
         "lsg": true,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "aura la paix",
+      "works": {
+        "french": 10,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
         "darby": false
       }
     },
@@ -109066,17 +109264,6 @@
       },
       "in_bible": {
         "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "devint enceinte",
-      "works": {
-        "french": 10,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": true,
         "darby": false
       }
     },
@@ -110966,17 +111153,6 @@
       "works": {
         "french": 10,
         "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "dieu nous révèle",
-      "works": {
-        "french": 10,
-        "translation": 4
       },
       "in_bible": {
         "lsg": false,
@@ -112931,6 +113107,17 @@
       }
     },
     {
+      "phrase": "bible sait",
+      "works": {
+        "french": 9,
+        "translation": 7
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "suis accord",
       "works": {
         "french": 9,
@@ -112972,17 +113159,6 @@
       "in_bible": {
         "lsg": false,
         "darby": true
-      }
-    },
-    {
-      "phrase": "ajoute quelque",
-      "works": {
-        "french": 9,
-        "translation": 13
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": false
       }
     },
     {
@@ -113074,6 +113250,17 @@
       }
     },
     {
+      "phrase": "moment propice",
+      "works": {
+        "french": 9,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "romains dieu",
       "works": {
         "french": 9,
@@ -113140,6 +113327,17 @@
       }
     },
     {
+      "phrase": "ramener son peuple",
+      "works": {
+        "french": 9,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "coup oeil",
       "works": {
         "french": 9,
@@ -113155,28 +113353,6 @@
       "works": {
         "french": 9,
         "translation": 6
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "milieu du jardin",
-      "works": {
-        "french": 9,
-        "translation": 9
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "jardin de dieu",
-      "works": {
-        "french": 9,
-        "translation": 5
       },
       "in_bible": {
         "lsg": true,
@@ -113228,14 +113404,25 @@
       }
     },
     {
-      "phrase": "deux lignées",
+      "phrase": "deux arbres",
       "works": {
         "french": 9,
-        "translation": 5
+        "translation": 27
       },
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "donnerai ce pays",
+      "works": {
+        "french": 9,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -113250,32 +113437,10 @@
       }
     },
     {
-      "phrase": "serviteurs de christ",
-      "works": {
-        "french": 9,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "présence de deux",
       "works": {
         "french": 9,
         "translation": 4
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "diable jean",
-      "works": {
-        "french": 9,
-        "translation": 19
       },
       "in_bible": {
         "lsg": false,
@@ -113492,14 +113657,14 @@
       }
     },
     {
-      "phrase": "donnée par dieu",
+      "phrase": "bénis de dieu",
       "works": {
         "french": 9,
-        "translation": 26
+        "translation": 2
       },
       "in_bible": {
         "lsg": false,
-        "darby": true
+        "darby": false
       }
     },
     {
@@ -115747,6 +115912,28 @@
       }
     },
     {
+      "phrase": "puisse parler",
+      "works": {
+        "french": 9,
+        "translation": 14
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "sang répandu",
+      "works": {
+        "french": 9,
+        "translation": 19
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
       "phrase": "apôtre continue",
       "works": {
         "french": 9,
@@ -117815,10 +118002,32 @@
       }
     },
     {
+      "phrase": "corinthiens apôtre paul",
+      "works": {
+        "french": 9,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "avaient aucun",
       "works": {
         "french": 9,
         "translation": 11
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "manière naturelle",
+      "works": {
+        "french": 9,
+        "translation": 4
       },
       "in_bible": {
         "lsg": false,
@@ -118585,17 +118794,6 @@
       }
     },
     {
-      "phrase": "séparé de dieu",
-      "works": {
-        "french": 9,
-        "translation": 23
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "dieu pourquoi as-tu",
       "works": {
         "french": 9,
@@ -118798,17 +118996,6 @@
       "works": {
         "french": 9,
         "translation": 3
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "manger de arbre",
-      "works": {
-        "french": 9,
-        "translation": 9
       },
       "in_bible": {
         "lsg": true,
@@ -119498,6 +119685,17 @@
       }
     },
     {
+      "phrase": "point de peur",
+      "works": {
+        "french": 9,
+        "translation": 7
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "croit au fils",
       "works": {
         "french": 9,
@@ -119549,6 +119747,17 @@
       },
       "in_bible": {
         "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "cependant aucun",
+      "works": {
+        "french": 9,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": true,
         "darby": false
       }
     },
@@ -119846,6 +120055,17 @@
       },
       "in_bible": {
         "lsg": false,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "tenant debout",
+      "works": {
+        "french": 9,
+        "translation": 5
+      },
+      "in_bible": {
+        "lsg": true,
         "darby": true
       }
     },
@@ -120180,17 +120400,6 @@
       }
     },
     {
-      "phrase": "manière que jésus",
-      "works": {
-        "french": 9,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "piège du diable",
       "works": {
         "french": 9,
@@ -120221,6 +120430,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "tant que sauveur",
+      "works": {
+        "french": 9,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -120741,6 +120961,17 @@
       }
     },
     {
+      "phrase": "jean maintenant",
+      "works": {
+        "french": 9,
+        "translation": 4
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "cependant jésus",
       "works": {
         "french": 9,
@@ -120778,6 +121009,17 @@
       "works": {
         "french": 9,
         "translation": 17
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "venu au milieu",
+      "works": {
+        "french": 9,
+        "translation": 7
       },
       "in_bible": {
         "lsg": true,
@@ -120954,17 +121196,6 @@
       "works": {
         "french": 9,
         "translation": 0
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "paradis de dieu",
-      "works": {
-        "french": 9,
-        "translation": 14
       },
       "in_bible": {
         "lsg": true,
@@ -121676,14 +121907,14 @@
       }
     },
     {
-      "phrase": "livre du prophète",
+      "phrase": "dieu emploie",
       "works": {
         "french": 9,
-        "translation": 5
+        "translation": 12
       },
       "in_bible": {
-        "lsg": true,
-        "darby": true
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -121952,6 +122183,17 @@
     },
     {
       "phrase": "clair et compréhensible",
+      "works": {
+        "french": 9,
+        "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "apôtre jean écrit",
       "works": {
         "french": 9,
         "translation": 0
@@ -122457,17 +122699,6 @@
       }
     },
     {
-      "phrase": "terre genèse",
-      "works": {
-        "french": 9,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "témoignage paul",
       "works": {
         "french": 9,
@@ -122512,17 +122743,6 @@
       }
     },
     {
-      "phrase": "monde aura",
-      "works": {
-        "french": 9,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "murailles de jérusalem",
       "works": {
         "french": 9,
@@ -122531,17 +122751,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "deux semences différentes",
-      "works": {
-        "french": 9,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -123282,6 +123491,17 @@
       }
     },
     {
+      "phrase": "oints de esprit",
+      "works": {
+        "french": 9,
+        "translation": 7
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "reçu des révélations",
       "works": {
         "french": 9,
@@ -123404,6 +123624,17 @@
     },
     {
       "phrase": "branham pris",
+      "works": {
+        "french": 9,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "prochain retour",
       "works": {
         "french": 9,
         "translation": 1
@@ -125790,6 +126021,17 @@
       }
     },
     {
+      "phrase": "monde aura",
+      "works": {
+        "french": 9,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "puissions avancer",
       "works": {
         "french": 9,
@@ -125864,6 +126106,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "pain descendu",
+      "works": {
+        "french": 9,
+        "translation": 6
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
       }
     },
     {
@@ -126036,6 +126289,28 @@
       "works": {
         "french": 9,
         "translation": 2
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
+      "phrase": "réellement passé",
+      "works": {
+        "french": 9,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "apparut abram",
+      "works": {
+        "french": 9,
+        "translation": 1
       },
       "in_bible": {
         "lsg": true,
@@ -127628,17 +127903,6 @@
     },
     {
       "phrase": "envoie un message",
-      "works": {
-        "french": 9,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "tomber satan",
       "works": {
         "french": 9,
         "translation": 4
@@ -130286,17 +130550,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "étoiles des cieux",
-      "works": {
-        "french": 9,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -133281,17 +133534,6 @@
       }
     },
     {
-      "phrase": "bible sait",
-      "works": {
-        "french": 8,
-        "translation": 8
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "disait souvent",
       "works": {
         "french": 8,
@@ -133457,17 +133699,6 @@
       }
     },
     {
-      "phrase": "moment propice",
-      "works": {
-        "french": 8,
-        "translation": 4
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "appelle les siens",
       "works": {
         "french": 8,
@@ -133516,6 +133747,17 @@
       "works": {
         "french": 8,
         "translation": 19
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "lui-même disait",
+      "works": {
+        "french": 8,
+        "translation": 7
       },
       "in_bible": {
         "lsg": true,
@@ -133743,17 +133985,6 @@
       }
     },
     {
-      "phrase": "ramener son peuple",
-      "works": {
-        "french": 8,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "pleine obéissance",
       "works": {
         "french": 8,
@@ -133930,17 +134161,6 @@
       }
     },
     {
-      "phrase": "deux arbres",
-      "works": {
-        "french": 8,
-        "translation": 28
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "dieu la mort",
       "works": {
         "french": 8,
@@ -133974,17 +134194,6 @@
       }
     },
     {
-      "phrase": "donnerai ce pays",
-      "works": {
-        "french": 8,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "pays ta postérité",
       "works": {
         "french": 8,
@@ -133992,6 +134201,17 @@
       },
       "in_bible": {
         "lsg": true,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "premier meurtrier",
+      "works": {
+        "french": 8,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
         "darby": false
       }
     },
@@ -134029,6 +134249,17 @@
       }
     },
     {
+      "phrase": "enfanteras avec douleur",
+      "works": {
+        "french": 8,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": false
+      }
+    },
+    {
       "phrase": "epouse de agneau",
       "works": {
         "french": 8,
@@ -134059,6 +134290,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "septième depuis adam",
+      "works": {
+        "french": 8,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -134096,17 +134338,6 @@
     },
     {
       "phrase": "agit de dieu",
-      "works": {
-        "french": 8,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "bénis de dieu",
       "works": {
         "french": 8,
         "translation": 3
@@ -134913,6 +135144,17 @@
       "works": {
         "french": 8,
         "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "manière différente",
+      "works": {
+        "french": 8,
+        "translation": 4
       },
       "in_bible": {
         "lsg": false,
@@ -137384,17 +137626,6 @@
       }
     },
     {
-      "phrase": "puisse parler",
-      "works": {
-        "french": 8,
-        "translation": 15
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "ayant eu lieu",
       "works": {
         "french": 8,
@@ -137414,17 +137645,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "sang répandu",
-      "works": {
-        "french": 8,
-        "translation": 20
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": false
       }
     },
     {
@@ -139991,17 +140211,6 @@
       }
     },
     {
-      "phrase": "corinthiens apôtre paul",
-      "works": {
-        "french": 8,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "femmes parmi",
       "works": {
         "french": 8,
@@ -140043,17 +140252,6 @@
       "in_bible": {
         "lsg": true,
         "darby": true
-      }
-    },
-    {
-      "phrase": "manière naturelle",
-      "works": {
-        "french": 8,
-        "translation": 5
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -140618,6 +140816,17 @@
       }
     },
     {
+      "phrase": "satan ne pouvait",
+      "works": {
+        "french": 8,
+        "translation": 12
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "nouveaux vêtements",
       "works": {
         "french": 8,
@@ -140757,6 +140966,17 @@
       },
       "in_bible": {
         "lsg": true,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "avez-vous remarqué",
+      "works": {
+        "french": 8,
+        "translation": 74
+      },
+      "in_bible": {
+        "lsg": false,
         "darby": false
       }
     },
@@ -141227,6 +141447,17 @@
       "works": {
         "french": 8,
         "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "relations sexuelles",
+      "works": {
+        "french": 8,
+        "translation": 5
       },
       "in_bible": {
         "lsg": false,
@@ -142180,6 +142411,17 @@
       }
     },
     {
+      "phrase": "péché la mort",
+      "works": {
+        "french": 8,
+        "translation": 5
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "ciel ouvrit",
       "works": {
         "french": 8,
@@ -142239,17 +142481,6 @@
       "works": {
         "french": 8,
         "translation": 11
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "point de peur",
-      "works": {
-        "french": 8,
-        "translation": 8
       },
       "in_bible": {
         "lsg": true,
@@ -142341,17 +142572,6 @@
       },
       "in_bible": {
         "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "cependant aucun",
-      "works": {
-        "french": 8,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": true,
         "darby": false
       }
     },
@@ -142594,17 +142814,6 @@
       },
       "in_bible": {
         "lsg": false,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "tenant debout",
-      "works": {
-        "french": 8,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": true,
         "darby": true
       }
     },
@@ -143181,17 +143390,6 @@
       }
     },
     {
-      "phrase": "tant que sauveur",
-      "works": {
-        "french": 8,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "parole est prêchée",
       "works": {
         "french": 8,
@@ -143200,6 +143398,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "quelque manière",
+      "works": {
+        "french": 8,
+        "translation": 10
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -143797,17 +144006,6 @@
       }
     },
     {
-      "phrase": "jean maintenant",
-      "works": {
-        "french": 8,
-        "translation": 5
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "jésus-christ le message",
       "works": {
         "french": 8,
@@ -144003,17 +144201,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "venu au milieu",
-      "works": {
-        "french": 8,
-        "translation": 8
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {
@@ -145106,17 +145293,6 @@
       }
     },
     {
-      "phrase": "dieu emploie",
-      "works": {
-        "french": 8,
-        "translation": 13
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "pardon de dieu",
       "works": {
         "french": 8,
@@ -145455,17 +145631,6 @@
       "in_bible": {
         "lsg": false,
         "darby": true
-      }
-    },
-    {
-      "phrase": "apôtre jean écrit",
-      "works": {
-        "french": 8,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
       }
     },
     {
@@ -146140,39 +146305,6 @@
       }
     },
     {
-      "phrase": "réellement dieu",
-      "works": {
-        "french": 8,
-        "translation": 6
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "aucune espérance",
-      "works": {
-        "french": 8,
-        "translation": 3
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "événements importants",
-      "works": {
-        "french": 8,
-        "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "assit la droite",
       "works": {
         "french": 8,
@@ -146192,6 +146324,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "arbre du jardin",
+      "works": {
+        "french": 8,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -146232,6 +146375,17 @@
       "works": {
         "french": 8,
         "translation": 0
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "réellement dieu",
+      "works": {
+        "french": 8,
+        "translation": 6
       },
       "in_bible": {
         "lsg": false,
@@ -147262,17 +147416,6 @@
       }
     },
     {
-      "phrase": "oints de esprit",
-      "works": {
-        "french": 8,
-        "translation": 8
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "eglise vivante",
       "works": {
         "french": 8,
@@ -147420,17 +147563,6 @@
       "works": {
         "french": 8,
         "translation": 0
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
-      "phrase": "prochain retour",
-      "works": {
-        "french": 8,
-        "translation": 2
       },
       "in_bible": {
         "lsg": false,
@@ -147735,6 +147867,17 @@
       }
     },
     {
+      "phrase": "écouté ma voix",
+      "works": {
+        "french": 8,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
+      }
+    },
+    {
       "phrase": "doivent devenir",
       "works": {
         "french": 8,
@@ -147776,6 +147919,17 @@
       "in_bible": {
         "lsg": true,
         "darby": false
+      }
+    },
+    {
+      "phrase": "vierge chaste",
+      "works": {
+        "french": 8,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": true
       }
     },
     {
@@ -147827,6 +147981,17 @@
       "works": {
         "french": 8,
         "translation": 2
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "pharisiens modernes",
+      "works": {
+        "french": 8,
+        "translation": 3
       },
       "in_bible": {
         "lsg": false,
@@ -151266,6 +151431,17 @@
       }
     },
     {
+      "phrase": "aucune espérance",
+      "works": {
+        "french": 8,
+        "translation": 3
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
       "phrase": "spirituel de christ",
       "works": {
         "french": 8,
@@ -151350,17 +151526,6 @@
       },
       "in_bible": {
         "lsg": true,
-        "darby": true
-      }
-    },
-    {
-      "phrase": "pain descendu",
-      "works": {
-        "french": 8,
-        "translation": 7
-      },
-      "in_bible": {
-        "lsg": false,
         "darby": true
       }
     },
@@ -151552,10 +151717,10 @@
       }
     },
     {
-      "phrase": "réellement passé",
+      "phrase": "garder esprit",
       "works": {
         "french": 8,
-        "translation": 2
+        "translation": 3
       },
       "in_bible": {
         "lsg": false,
@@ -151666,6 +151831,17 @@
       "works": {
         "french": 8,
         "translation": 17
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
+      }
+    },
+    {
+      "phrase": "événements importants",
+      "works": {
+        "french": 8,
+        "translation": 0
       },
       "in_bible": {
         "lsg": false,
@@ -157148,17 +157324,6 @@
       "in_bible": {
         "lsg": false,
         "darby": false
-      }
-    },
-    {
-      "phrase": "apparut abram",
-      "works": {
-        "french": 8,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {

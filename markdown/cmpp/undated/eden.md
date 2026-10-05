@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "eden"
 title: "Le séducteur — Caïn et le péché originel"
 location: "Krefeld"
-preacher: "William Branham"
 summary: "Cette étude biblique révèle la véritable nature du péché originel et de la séduction dans le jardin d'Éden. Elle explique que l'arbre de la connaissance du bien et du mal représente Satan, et que le serpent a séduit Ève, engendrant Caïn. Ainsi, deux lignées distinctes apparaissent : celle de Seth (enfants de Dieu) et celle de Caïn (enfants du méchant)."
 tags:
   - "péché originel"
