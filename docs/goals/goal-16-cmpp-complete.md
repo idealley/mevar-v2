@@ -262,6 +262,10 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
     « deuxièmement », « critiqueuses », « parviennent », « transmutation »).
     A misprint of the PDF is the PDF's and stays (« l’assemblé »,
     « la écompense », « cala »).
+  Also not restored (the review's second round): « œ » where the PDF
+  prints « oe », about 44 times, 6 of them in built works (`video_02_2005`:
+  « sœurs », « cœur »), and two capitals with an accent the PDF does not
+  print (« FÉVRIER 2005 » in `video_02_2005`, « Éditorial » in `lc56`).
   Not restored: « II » for « Il » in two A5 duplicates (the PDF's text has
   two capital I), and what the first pass may have done to the 239 older
   bodies, which nobody has read against their PDFs.
@@ -331,6 +335,10 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
   - The `preacher`, `date` and `location` of the 274 new works are the
     model's, as those of the first 242 were: 264 Ewald Frank, 6 Alexis
     Barilier, 2 Parfait M'bra, 2 none.
+  - Four works whose month comes from the model's subtitle alone, no page
+    of the PDF printing it: `exhortation_annee_2024_A4` (built, shows
+    « janvier 2024 ») and the duplicates `annee_2010_a5`, `annee_2011_a5`,
+    `annee_2019_a5`.
   - 50 works dated by their year alone (« Année 2020 », the yearly
     exhortations and their layouts, `christianisme`, `l_indicateur`,
     `information_globale`, `vision_7000`) still have the first of January
