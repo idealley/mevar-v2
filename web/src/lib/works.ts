@@ -69,7 +69,7 @@ export function workUrl(e: WorkEntry): string {
   return e.id.startsWith("mevar/") ? `/${e.id.slice("mevar/".length)}/` : `/works/${e.id}/`;
 }
 
-/** The work at a corpus path ("branham/1963/63-0112"), as `original` and `summary_fr` name it. */
+/** The work at a corpus path ("branham/1963/63-0112"), as `original`, `summary_fr` and `translation_fr` name it. */
 export async function workAt(p: string): Promise<WorkEntry | undefined> {
   const works = await allWorks();
   return works.find((e) => e.filePath === `../markdown/${p}.md`);

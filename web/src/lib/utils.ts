@@ -16,7 +16,8 @@ export function deriveKind(fm: Record<string, any>): string {
   if (tags.includes("Etudes Bibliques")) return "bible_study";
   if (tags.includes("Publications")) return "article";
   if (fm.source === "branham" || fm.source === "le-scribe") return "sermon";
-  if (fm.source === "cmpp") return "bible_study";
+  // A Branham sermon the CMPP translated is a sermon, like its original (goal 16).
+  if (fm.source === "cmpp") return fm.original || fm.preacher === "William Branham" ? "sermon" : "bible_study";
   if (fm.source === "local") return "book";
   if (fm.subtitle?.toLowerCase()?.startsWith("exhortation")) return "exhortation";
   if (/chap\d+ministere/i.test(fm.sermon_id ?? "")) return "chapter";
