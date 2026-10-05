@@ -48,9 +48,9 @@ missing:
 
 ## Acceptance evidence
 
-- `check:dist`, four new lines: `robots.txt` names the sitemap; every
+- `check:dist`, five new lines: `robots.txt` names the sitemap; every
   JSON-LD block of every page parses; every Article's date is a day, a
-  month or a year; every published Ghost post is an
+  month or a year; every page has a description; every published Ghost post is an
   `Article` with its title, date and author, and `og:type` `article`.
 - `npm run build` on the full corpus, `check:dist`, `check:limits`,
   `npm test`.
@@ -64,5 +64,7 @@ reading what Google found) is Samuel's.
 
 ## Follow-up
 
+- 17 works have no text paragraph to open on (a recording alone, a table):
+  they keep the site's own sentence as their description.
 - 12 Branham texts have no summary, and their description gets French
   spacing (the excerpt is made for French; noted in goal 27's review).

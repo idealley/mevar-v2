@@ -197,10 +197,13 @@ report(
 // Each page's blocks, parsed; a block that does not parse is reported once.
 const unparsed = [];
 const badDate = [];
+const undescribed = [];
 let blocks = 0;
 const jsonLd = new Map(pages.map((page) => [page, []]));
 for (const page of pages) {
-  for (const [, block] of fs.readFileSync(page, "utf8").matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
+  const html = fs.readFileSync(page, "utf8");
+  if (!/<meta name="description" content="[^"]/.test(html)) undescribed.push(path.relative(dist, page));
+  for (const [, block] of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
     blocks++;
     try {
       const data = JSON.parse(block);
@@ -214,6 +217,7 @@ for (const page of pages) {
 }
 report("every JSON-LD block parses", unparsed, `${blocks} blocks`);
 report("every Article's date is a day, a month or a year", badDate);
+report("every page has a description", undescribed);
 report(
   "every Ghost post is an Article with its title, date and author",
   published.flatMap((p) => {

@@ -12,16 +12,20 @@ const dir = "../markdown/mevar";
 
 /** The first ~200 characters of a markdown body's first paragraph of text: Ghost's excerpt, with French typography (a Ghost post is French; the feed reads it raw). */
 export function excerpt(markdown) {
-  const para = markdown
+  // The first paragraph that still says something once its markup is gone:
+  // not a heading, an image, a table, nor a rule drawn with underscores.
+  const text = markdown
     .split(/\n\s*\n/)
     .map((p) => p.trim())
-    .find((p) => p && !/^(#|!|\*\s\*|-{3}|\||<)/.test(p));
-  if (!para) return undefined;
-  const text = para
-    .replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1")
-    .replace(/^>\s*/gm, "")
-    .replace(/[*_`\\]/g, "")
-    .replace(/\s+/g, " ");
+    .filter((p) => !/^(#|!|\*\s\*|-{3}|\||<)/.test(p))
+    .map((p) => p
+      .replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1")
+      .replace(/^>\s*/gm, "")
+      .replace(/[*_`\\]/g, "")
+      .replace(/\s+/g, " ")
+      .trim())
+    .find(Boolean);
+  if (!text) return undefined;
   return frenchSpacing(text.length <= 200 ? text : `${text.slice(0, text.lastIndexOf(" ", 200))}…`);
 }
 
