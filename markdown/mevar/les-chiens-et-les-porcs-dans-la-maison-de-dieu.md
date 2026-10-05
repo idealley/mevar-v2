@@ -16,6 +16,6 @@ authors:
 ghost_id: "6448fa86db90770001518f79"
 uuid: "2a72de2d-d01b-4faa-8d05-8ade698cf347"
 stream_url: "https://mevar.org/les-chiens-et-les-porcs-dans-la-maison-de-dieu/"
-text_pdf: "/files/mevar-text/les-chiens-et-les-porcs-dans-la-maison-de-dieu.pdf"
+local_audio: "https://files.mevar.org/audio/les-chiens-et-les-porcs-dans-la-maison-de-dieu.mp3"
 ---
 

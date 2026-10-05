@@ -17,7 +17,7 @@ authors:
 ghost_id: "6448fa86db90770001518fa1"
 uuid: "3c26881e-9d7e-4d55-8160-489a9ffd1d7b"
 stream_url: "https://mevar.org/la-gloire-de-la-derniere-maison-2/"
-text_pdf: "/files/mevar-text/la-gloire-de-la-derniere-maison-2.pdf"
+local_audio: "https://files.mevar.org/audio/la-gloire-de-la-derniere-maison-2.mp3"
 ---
 ## Deuxième partie
 

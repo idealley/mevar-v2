@@ -68,3 +68,5 @@ reader who wants to print or keep a sermon cannot.
   `frontmatter`, `slug`). Goal 24 named `frontmatter`, `field` and
   `setField` once, in `scripts/frontmatter.mjs`, for 90 and 91; 86, 87 and
   88 still keep their variants. Found by goal 23's review.
+- Goal 25 renumbered `90-mevar-pdfs` to `95-mevar-pdfs`, because 90 was
+  already `90-download-mevar-images`.

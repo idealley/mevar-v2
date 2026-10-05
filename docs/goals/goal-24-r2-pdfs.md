@@ -58,3 +58,5 @@ afraid of those links to disappear ».
 - 86, 87 and 88 keep their own variants of the frontmatter helpers that
   `scripts/frontmatter.mjs` now names for 90 and 91. Found by goal 24's
   review.
+- Goal 25 renumbered `91-r2-pdfs` to `96-r2-pdfs`, because 91 was already
+  `91-patch-mevar-frontmatter`.

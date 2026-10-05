@@ -15,52 +15,25 @@
 // Idempotent: a second run uploads nothing and changes no frontmatter. It
 // deletes nothing, in the bucket or elsewhere.
 //
-// Usage: node scripts/91-r2-pdfs.mjs [--dry]. Needs the `cf` CLI logged in
+// Usage: node scripts/96-r2-pdfs.mjs [--dry]. Needs the `cf` CLI logged in
 // to the account that holds the bucket.
 
 import fs from "node:fs";
 import path from "node:path";
-import crypto from "node:crypto";
-import { execFile } from "node:child_process";
-import { promisify } from "node:util";
 import { frontmatter, field, setField } from "./frontmatter.mjs";
+import { put, url } from "./r2.mjs";
 
-const exec = promisify(execFile);
-// a call the API rate-limits (429) is tried again, a little later each time
-async function run(cmd, args, opts) {
-  for (let wait = 2000; ; wait *= 2) {
-    try { return await exec(cmd, args, opts); }
-    catch (e) { if (!/429/.test(e.message) || wait > 64000) throw e; await new Promise((r) => setTimeout(r, wait)); }
-  }
-}
 const root = path.resolve(import.meta.dirname, "..");
 const dry = process.argv.includes("--dry");
-const BUCKET = "mevar-files";
-const DOMAIN = "https://files.mevar.org";
 const SOURCES = ["branham", "le-scribe", "cmpp"];
 
 const isPdf = (file) => { try { const h = Buffer.alloc(5); const fd = fs.openSync(file, "r"); fs.readSync(fd, h, 0, 5, 0); fs.closeSync(fd); return h.toString() === "%PDF-"; } catch { return false; } };
-const md5 = (file) => crypto.createHash("md5").update(fs.readFileSync(file)).digest("hex");
-
-// what the bucket holds under a prefix: key → etag
-// (the listing's promise is kept, so the workers share one call per prefix)
-const held = new Map();
-function list(prefix) {
-  if (!held.has(prefix)) held.set(prefix, listed(prefix));
-  return held.get(prefix);
-}
-async function listed(prefix) {
-  const { stdout } = await run("cf", ["r2", "objects", "list", "--bucket-name", BUCKET, "--prefix", prefix, "--per-page", "1000"], { maxBuffer: 1 << 26 });
-  const objects = JSON.parse(stdout);
-  if (objects.length >= 1000) throw new Error(`${prefix}: 1000 objects or more, past one page`);
-  return new Map(objects.map((o) => [o.key, o.etag]));
-}
 
 // CMPP's PDF, downloaded once; refused unless it is a PDF
-async function download(url, file) {
-  const res = await fetch(url);
+async function download(from, file) {
+  const res = await fetch(from);
   const buf = Buffer.from(await res.arrayBuffer());
-  if (!res.ok || buf.subarray(0, 5).toString() !== "%PDF-") throw new Error(`${url}: HTTP ${res.status}, not a PDF`);
+  if (!res.ok || buf.subarray(0, 5).toString() !== "%PDF-") throw new Error(`${from}: HTTP ${res.status}, not a PDF`);
   fs.mkdirSync(path.dirname(file), { recursive: true });
   fs.writeFileSync(file, buf);
 }
@@ -71,8 +44,8 @@ for (const source of SOURCES)
     if (!rel.endsWith(".md")) continue;
     const md = path.join("markdown", source, rel);
     const text = fs.readFileSync(path.join(root, md), "utf8");
-    const url = field(frontmatter(text), "pdf_url");
-    if (url) works.push({ source, rel: rel.replace(/\.md$/, ""), md, text, url });
+    const pdfUrl = field(frontmatter(text), "pdf_url");
+    if (pdfUrl) works.push({ source, rel: rel.replace(/\.md$/, ""), md, text, pdfUrl });
   }
 
 let uploaded = 0, downloaded = 0, frontmatters = 0;
@@ -87,17 +60,11 @@ async function worker() {
     if (!isPdf(file)) {
       downloaded++;
       if (dry) continue;
-      try { await download(w.url, file); } catch (e) { missing.push(`${w.md} (${e.message})`); continue; }
+      try { await download(w.pdfUrl, file); } catch (e) { missing.push(`${w.md} (${e.message})`); continue; }
     }
     const key = `${w.source}/${w.rel}.pdf`;
-    const objects = await list(`${path.posix.dirname(key)}/`);
-    if (objects.get(key) !== md5(file)) {
-      uploaded++;
-      if (!dry) await run("cf", ["r2", "objects", "put", key, "--bucket-name", BUCKET, "--file", file, "--content-type", "application/pdf", "-q"], { maxBuffer: 1 << 24 });
-    }
-    // each part of the path percent-encoded: Le Scribe's names hold « & »
-    // (18) and a literal « %20 » (two)
-    const text = setField(w.text, "local_pdf", `${DOMAIN}/${key.split("/").map(encodeURIComponent).join("/")}`);
+    if (await put(key, file, "application/pdf", dry)) uploaded++;
+    const text = setField(w.text, "local_pdf", url(key));
     if (text !== w.text) { frontmatters++; if (!dry) fs.writeFileSync(path.join(root, w.md), text); }
   }
 }

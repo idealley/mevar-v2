@@ -34,6 +34,7 @@ series: "Le nouveau ministère"
 series_part: 1
 series_total: 2
 text_pdf: "/files/mevar-text/le-nouveau-ministere.pdf"
+local_audio: "https://files.mevar.org/audio/le-nouveau-ministere.mp3"
 ---
 Gloire à Dieu. Gloire au Seigneur Jésus-Christ. Que Dieu nous bénisse. **Ce matin, je voudrais dire certaines choses concernant l’avenir de l’œuvre de Dieu.** Ce sont des déclarations qu’on a eu à faire çà et là mais, ce matin, je vais être plus précis et plus clair pour chacun de nous. Et comme vous le savez, je l’ai déjà dit quelque part dans mes déplacements, que le Seigneur s’appelle **l’Alpha et l’Oméga**. Amen.
 

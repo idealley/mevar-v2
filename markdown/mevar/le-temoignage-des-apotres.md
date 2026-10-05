@@ -31,6 +31,7 @@ bible_refs:
   - "1 Corinthiens 6"
   - "Luc 21"
   - "Matthieu 24"
+local_audio: "https://files.mevar.org/audio/le-temoignage-des-apotres.mp3"
 ---
 Que Dieu vous bénisse. Nous rendons grâce au Seigneur. Comme le frère l’a dit, cela fait depuis 2015 que je ne suis plus venu ici. Mon dernier voyage date de 2015 et il faut dire que toutes ces années passées j’ai voulu venir mais cela n’a pas été facile. Vous savez, c’est Dieu qui fait toutes choses parce qu’après toutes ces années, je reviens et je vous trouve tous en place et je suis content. Amen. Vous comprenez ce que je veux dire ? si tout le monde était dispersé, que chacun était allé ailleurs, ce serait vraiment une préoccupation. Malgré toutes ces années passées vous êtes toujours là, vous tenez dans la foi, vous marchez avec le Seigneur. Donc, cela aussi me réjouit car cela veut dire que si j’étais mort, vous seriez encore en train de marcher avec le Seigneur. Amen ! c’est le plus important car même si les missionnaires ne viennent pas, mais que vous êtes avec le Seigneur et son Esprit, c’est déjà bon. Les frères vous saluent : ceux de l’église et aussi certains frères en Europe. Que Dieu vous bénisse.
 

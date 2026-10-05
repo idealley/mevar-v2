@@ -25,6 +25,9 @@ const preacher = fm.preacher ?? fm.authors?.[0];
 const originalPdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
 const textPdf = fm.text_pdf as string | undefined;
 const pdf = textPdf ?? originalPdf;
+// A Ghost post's recording on R2 and its YouTube video (goal 25).
+const audio = fm.local_audio as string | undefined;
+const video = fm.video_url as string | undefined;
 
 const series = fm.series
   ? (await allWorks())
@@ -91,7 +94,7 @@ const publishedWith = fm.published_with ? await workAt(fm.published_with as stri
         </p>
       )}
 
-      {(pdf || fm.audio_url) && (
+      {(pdf || fm.audio_url || video) && (
         <div class="mt-4 flex flex-wrap gap-2">
           {pdf && (
             <a href={pdf} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
@@ -111,8 +114,16 @@ const publishedWith = fm.published_with ? await workAt(fm.published_with as stri
               Audio
             </a>
           )}
+          {video && (
+            <a href={video} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+              Vidéo
+            </a>
+          )}
         </div>
       )}
+      {/* nothing is loaded until the reader plays it */}
+      {audio && <audio controls preload="none" src={audio} class="mt-4 w-full" aria-label={`Écouter « ${fm.title ?? entry.id} »`}></audio>}
     </header>
 
     {series.length > 1 && (

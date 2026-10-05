@@ -27,6 +27,7 @@ bible_refs:
   - "Marc 16"
   - "Actes 19"
   - "Matthieu 24"
+video_url: "https://www.youtube.com/watch?v=dj7UdkJHvYE"
 ---
 ## Première partie
 

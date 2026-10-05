@@ -18,7 +18,7 @@ authors:
 ghost_id: "6448fa86db90770001518f76"
 uuid: "ae291afd-9582-47d1-9de5-28b4314e3bfe"
 stream_url: "https://mevar.org/la-parabole-des-talents-audio-1/"
-text_pdf: "/files/mevar-text/la-parabole-des-talents-audio-1.pdf"
+local_audio: "https://files.mevar.org/audio/la-parabole-des-talents-audio-1.mp3"
 ---
 ## Première partie - Les talents à la fin des temps
 

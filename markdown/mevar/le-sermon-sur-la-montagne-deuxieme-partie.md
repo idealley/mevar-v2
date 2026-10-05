@@ -21,7 +21,7 @@ uuid: "972e3ebf-2ef9-40aa-9f3e-0ecadcd8e1ca"
 stream_url: "https://mevar.org/le-sermon-sur-la-montagne-deuxieme-partie/"
 bible_refs:
   - "Matthieu 5"
-text_pdf: "/files/mevar-text/le-sermon-sur-la-montagne-deuxieme-partie.pdf"
+local_audio: "https://files.mevar.org/audio/le-sermon-sur-la-montagne-deuxieme-partie.mp3"
 ---
 ## Deuxième partie
 

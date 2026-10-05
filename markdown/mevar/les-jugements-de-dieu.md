@@ -43,6 +43,7 @@ bible_refs:
   - "Psaumes 68"
   - "Sophonie 3"
   - "Jonas 4"
+local_audio: "https://files.mevar.org/audio/les-jugements-de-dieu.mp3"
 ---
 ## Première partie
 

@@ -18,6 +18,6 @@ authors:
 ghost_id: "6448fa86db90770001518f7a"
 uuid: "0ce572e0-b60b-4c0e-8450-0354fc6a10a9"
 stream_url: "https://mevar.org/la-parabole-du-vigneron/"
-text_pdf: "/files/mevar-text/la-parabole-du-vigneron.pdf"
+local_audio: "https://files.mevar.org/audio/la-parabole-du-vigneron.mp3"
 ---
 

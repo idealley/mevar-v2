@@ -22,7 +22,7 @@ stream_url: "https://mevar.org/le-sermon-sur-la-montagne-matthieu-5-1-12/"
 bible_refs:
   - "Matthieu 5:1-12"
   - "Matthieu 5"
-text_pdf: "/files/mevar-text/le-sermon-sur-la-montagne-matthieu-5-1-12.pdf"
+local_audio: "https://files.mevar.org/audio/le-sermon-sur-la-montagne-matthieu-5-1-12.mp3"
 ---
 ## Première partie (Matthieu 5:1-12)
 

@@ -36,6 +36,7 @@ bible_refs:
   - "Matthieu 23:33"
   - "Matthieu 3:7"
   - "Matthieu 23"
+local_audio: "https://files.mevar.org/audio/les-liens-spirituels-deuxieme-partie.mp3"
 ---
 ## Deuxième partie
 

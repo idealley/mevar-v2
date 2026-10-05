@@ -32,6 +32,7 @@ bible_refs:
   - "Luc 1"
   - "Actes 2"
   - "Apocalypse 1"
+local_audio: "https://files.mevar.org/audio/y-a-t-il-quelque-chose-d-impossible-a-dieu.mp3"
 ---
 ## La foi
 

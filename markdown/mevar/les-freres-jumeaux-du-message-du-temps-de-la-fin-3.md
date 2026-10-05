@@ -34,6 +34,7 @@ bible_refs:
   - "1 Rois 19:15-16"
   - "Matthieu 24:45"
 text_pdf: "/files/mevar-text/les-freres-jumeaux-du-message-du-temps-de-la-fin-3.pdf"
+local_audio: "https://files.mevar.org/audio/les-freres-jumeaux-du-message-du-temps-de-la-fin-3.mp3"
 ---
 ## Troisième partie
 
