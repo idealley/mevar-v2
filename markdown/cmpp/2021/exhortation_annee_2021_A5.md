@@ -89,6 +89,7 @@ bible_refs:
   - "1 Jean 3:15"
   - "Proverbes 6:16"
   - "1 Thessaloniciens 5:23,24"
+duplicate_of: "cmpp/2021/exhortation_annee_2021"
 ---
 > “Mais vous recevrez une puissance, le Saint-Esprit survenant sur vous, et vous serez mes témoins à Jérusalem, dans toute la Judée, dans la Samarie, et jusqu’aux extrémités de la terre” (Actes 1.8)
 

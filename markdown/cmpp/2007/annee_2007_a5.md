@@ -35,6 +35,7 @@ bible_refs:
   - "Actes 16:16"
   - "Romains 3:4"
   - "Matthieu 11:29,30"
+duplicate_of: "cmpp/2007/annee_2007"
 ---
 Chers frères, sœurs et amis,
 

@@ -40,6 +40,7 @@ bible_refs:
   - "Actes 1:3"
   - "Colossiens 2:12-15"
   - "Jacques 5:9"
+duplicate_of: "cmpp/1976/lc7"
 ---
 > "Jésus-Christ est le même hier, aujourd'hui, et éternellement" (Héb. 13.8).
 

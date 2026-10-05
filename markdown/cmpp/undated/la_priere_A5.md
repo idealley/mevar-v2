@@ -164,6 +164,7 @@ bible_refs:
   - "Matthieu 6"
   - "Matthieu 6:9-13"
   - "1 Pierre 4:7"
+duplicate_of: "cmpp/undated/la_priere"
 ---
 LA PRIERE
 

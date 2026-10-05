@@ -95,6 +95,7 @@ bible_refs:
   - "Éphésiens 1:7"
   - "Romains 6:23"
   - "Romains 6:16"
+duplicate_of: "cmpp/undated/honore_tes_parents"
 ---
 «Honore ton père et ta mère…»
 

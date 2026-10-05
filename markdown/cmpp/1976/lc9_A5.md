@@ -60,6 +60,7 @@ bible_refs:
   - "Matthieu 25:10"
   - "Colossiens 1:24-29"
   - "Romains 3:4"
+duplicate_of: "cmpp/1976/lc9"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 (Héb. 13.8).

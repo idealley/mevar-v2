@@ -43,6 +43,7 @@ bible_refs:
   - "Ésaïe 60:21"
   - "Apocalypse 22:13"
   - "Éphésiens 5:27"
+duplicate_of: "cmpp/undated/onction_temps_fin_A4"
 ---
 # L'ONCTION DU TEMPS DE LA FIN
 

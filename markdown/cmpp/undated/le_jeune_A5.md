@@ -111,6 +111,7 @@ bible_refs:
   - "Jean 14:12"
   - "Matthieu 10:7,8"
   - "Matthieu 17:19-21"
+duplicate_of: "cmpp/undated/le_jeune"
 ---
 # LE JEÛNE
 

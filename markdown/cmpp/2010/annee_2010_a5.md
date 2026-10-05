@@ -44,6 +44,7 @@ bible_refs:
   - "Galates 2:20"
   - "Matthieu 7:21-23"
   - "Matthieu 6:9,10"
+duplicate_of: "cmpp/2010/annee_2010"
 ---
 > "Enseigne-moi à faire ta volonté! Car tu es mon Dieu. Que ton bon esprit me conduise sur la voie droite" (Ps. 143.10).
 

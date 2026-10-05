@@ -256,6 +256,7 @@ bible_refs:
   - "Actes 2:44"
   - "Romains 15:13"
   - "1 Thessaloniciens 5:23"
+duplicate_of: "cmpp/undated/ministeres_pasteur_A4"
 ---
 MINISTÈRES
 

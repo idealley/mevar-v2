@@ -55,6 +55,7 @@ bible_refs:
   - "Psaumes 127:1"
   - "Aggée 2:6"
   - "Hébreux 10:37"
+duplicate_of: "cmpp/1976/lc5"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 > (Héb. 13.8).

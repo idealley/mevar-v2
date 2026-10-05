@@ -103,6 +103,7 @@ bible_refs:
   - "Matthieu 24:14"
   - "Matthieu 25:10"
 local_pdf: "https://files.mevar.org/cmpp/undated/nouvelle_naissance_A5.pdf"
+duplicate_of: "cmpp/undated/nouvelle_naissance"
 ---
 LA NOUVELLE NAISSANCE
 

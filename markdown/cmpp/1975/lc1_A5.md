@@ -81,6 +81,7 @@ bible_refs:
   - "Hébreux 2:4"
   - "Apocalypse 19:7-8"
 local_pdf: "https://files.mevar.org/cmpp/undated/lc1_A5.pdf"
+duplicate_of: "cmpp/1975/lc1"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 > (Hébreux 13.8).

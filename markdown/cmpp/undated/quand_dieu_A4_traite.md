@@ -94,6 +94,7 @@ bible_refs:
   - "Matthieu 1:23"
   - "Luc 2:11"
 local_pdf: "https://files.mevar.org/cmpp/undated/quand_dieu_A4_traite.pdf"
+duplicate_of: "cmpp/undated/quand_dieu"
 ---
 Les textes suivants pris dans l’Ancien et le Nouveau Testament prouveront définitivement que le Seigneur Dieu de l’Ancien Testament est le Seigneur Jésus-Christ du Nouveau Testament.
 

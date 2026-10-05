@@ -65,6 +65,7 @@ bible_refs:
   - "Jean 1:8"
   - "Matthieu 10:40-42"
   - "2 Corinthiens 10:12-13"
+duplicate_of: "cmpp/1975/lc4"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 (Héb. 13.8).

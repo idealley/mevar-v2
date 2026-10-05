@@ -58,6 +58,7 @@ bible_refs:
   - "Matthieu 24:14"
   - "1 Jean 5:20-21"
 local_pdf: "https://files.mevar.org/cmpp/undated/paille_et_froment_A4.pdf"
+duplicate_of: "cmpp/undated/paille_et_froment"
 ---
 LA PAILLE ET LE FROMENT
 

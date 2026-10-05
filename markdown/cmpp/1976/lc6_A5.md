@@ -52,6 +52,7 @@ bible_refs:
   - "1 Corinthiens 5:12-13"
   - "Galates 6:8"
   - "Romains 8:26-27"
+duplicate_of: "cmpp/1976/lc6"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 (Héb. 13.8).

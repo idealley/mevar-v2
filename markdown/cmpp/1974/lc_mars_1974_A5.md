@@ -58,6 +58,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Apocalypse 17:5"
   - "Daniel 2:34,35"
+duplicate_of: "cmpp/1974/lc_mars_1974"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 (Héb. 13.8).

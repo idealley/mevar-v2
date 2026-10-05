@@ -46,6 +46,7 @@ bible_refs:
   - "Philippiens 3:12-14"
   - "Jérémie 7:24"
   - "Matthieu 24:13"
+duplicate_of: "cmpp/2009/annee_2009"
 ---
 > “Quiconque met la main à la charrue, et regarde en arrière, n’est pas propre au royaume de Dieu” (Luc 9.62).
 

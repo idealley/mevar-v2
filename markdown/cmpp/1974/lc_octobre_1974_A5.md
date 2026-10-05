@@ -52,6 +52,7 @@ bible_refs:
   - "Amos 8:11"
   - "Matthieu 24:45,46"
   - "Éphésiens 4:11-13"
+duplicate_of: "cmpp/1974/lc_octobre_1974"
 ---
 > "Jésus-Christ est le même hier, aujourd'hui, et éternellement"
 > (Héb. 13.8).

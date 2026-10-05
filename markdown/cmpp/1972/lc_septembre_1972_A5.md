@@ -69,6 +69,7 @@ bible_refs:
   - "Jacques 5:14"
   - "Hébreux 13:17"
   - "1 Pierre 5:1"
+duplicate_of: "cmpp/1972/lc_septembre_1972"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 (Héb. 13.8).

@@ -44,6 +44,7 @@ bible_refs:
   - "2 Corinthiens 5"
   - "2 Corinthiens 7:1"
   - "1 Jean 3:3"
+duplicate_of: "cmpp/1976/lc8"
 ---
 > "Jésus-Christ est le même hier, aujourd'hui, et éternellement" (Héb. 13.8).
 

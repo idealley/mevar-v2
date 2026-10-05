@@ -63,6 +63,7 @@ bible_refs:
   - "Romains 11:29"
   - "Nombres 16:11"
   - "Hébreux 4:1-2"
+duplicate_of: "cmpp/undated/votre_attention_A4"
 ---
 # VOTRE ATTENTION S.V.P.!
 

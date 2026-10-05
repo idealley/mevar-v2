@@ -69,6 +69,7 @@ bible_refs:
   - "Galates 4:29"
   - "Éphésiens 5:25-27"
   - "2 Corinthiens 4:16-18"
+duplicate_of: "cmpp/2025/exhortation_annee_2025_A4"
 ---
 > «Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui, selon sa grande miséricorde, nous a régénérés, pour une espérance vivante, par la résurrection de Jésus-Christ d’entre les morts, pour un héritage qui ne se peut ni corrompre, ni souiller, ni flétrir, lequel vous est réservé dans les cieux, à vous qui, par la puissance de Dieu, êtes gardés par la foi pour le salut prêt à être révélé dans les derniers temps!»
 > — 1 Pierre 1.3-6

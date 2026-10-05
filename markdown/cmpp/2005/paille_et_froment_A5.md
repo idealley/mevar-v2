@@ -66,6 +66,7 @@ bible_refs:
   - "Actes 3:17-26"
   - "Matthieu 24:14"
   - "1 Jean 5:20-21"
+duplicate_of: "cmpp/undated/paille_et_froment"
 ---
 LA PAILLE ET LE FROMENT
 
