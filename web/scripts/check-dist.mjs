@@ -205,15 +205,15 @@ for (const page of pages) {
     try {
       const data = JSON.parse(block);
       jsonLd.get(page).push(data);
-      // A day, or a year alone: never « 1950-01-?? ».
-      if (data["@type"] === "Article" && data.datePublished && !/^\d{4}(-\d{2}-\d{2})?$/.test(data.datePublished)) badDate.push(`${path.relative(dist, page)}: ${data.datePublished}`);
+      // A day, a month or a year: never « 1950-01-?? ».
+      if (data["@type"] === "Article" && data.datePublished && !/^\d{4}(-\d{2}){0,2}$/.test(data.datePublished)) badDate.push(`${path.relative(dist, page)}: ${data.datePublished}`);
     } catch {
       unparsed.push(path.relative(dist, page));
     }
   }
 }
 report("every JSON-LD block parses", unparsed, `${blocks} blocks`);
-report("every Article's date is a day or a year", badDate);
+report("every Article's date is a day, a month or a year", badDate);
 report(
   "every Ghost post is an Article with its title, date and author",
   published.flatMap((p) => {

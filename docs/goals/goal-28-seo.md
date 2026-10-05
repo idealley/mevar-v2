@@ -44,13 +44,13 @@ missing:
   the search page reads no `?q=`. Not built.
 - **No publisher on an archive text.** Branham, Frank and the others are
   kept here with permission; MEVAR is the publisher of its own texts.
-- **A work known by its year alone** gives the year as its date.
+- **A work whose day is not known** gives its month, or else its year.
 
 ## Acceptance evidence
 
 - `check:dist`, four new lines: `robots.txt` names the sitemap; every
-  JSON-LD block of every page parses; every Article's date is a day or a
-  year; every published Ghost post is an
+  JSON-LD block of every page parses; every Article's date is a day, a
+  month or a year; every published Ghost post is an
   `Article` with its title, date and author, and `og:type` `article`.
 - `npm run build` on the full corpus, `check:dist`, `check:limits`,
   `npm test`.

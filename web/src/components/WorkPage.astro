@@ -27,9 +27,9 @@ const fm = entry.data;
 const title = fm.title ?? entry.id;
 const day = entryDate(entry).slice(0, 10);
 const date = formatDateFr(day || null);
-// For a search engine: the day it was published or preached, or the year
-// alone when the day is not known (« 1950-01-?? », or no date at all).
-const published = /^\d{4}-\d{2}-\d{2}$/.test(day) ? day : fm.year ? String(fm.year) : undefined;
+// For a search engine: the day it was published or preached, or its month,
+// or else the year alone (« 1950-01-?? », or no date at all).
+const published = /^\d{4}-\d{2}(-\d{2})?$/.test(day) ? day : fm.year ? String(fm.year) : undefined;
 const description = excerptOf(entry);
 // Branham's own text is English; everything else is French.
 const lang = fm.source === "branham" ? "en" : "fr";
