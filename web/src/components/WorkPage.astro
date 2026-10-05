@@ -25,14 +25,18 @@ const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
 const fm = entry.data;
 const title = fm.title ?? entry.id;
-// The day it was published or preached, or the year alone when that is all a work has.
-const published = entryDate(entry).slice(0, 10) || (fm.year ? String(fm.year) : undefined);
-const date = formatDateFr(entryDate(entry).slice(0, 10) || null);
+const day = entryDate(entry).slice(0, 10);
+const date = formatDateFr(day || null);
+// For a search engine: the day it was published or preached, or the year
+// alone when the day is not known (« 1950-01-?? », or no date at all).
+const published = /^\d{4}-\d{2}-\d{2}$/.test(day) ? day : fm.year ? String(fm.year) : undefined;
+const description = excerptOf(entry);
 // Branham's own text is English; everything else is French.
 const lang = fm.source === "branham" ? "en" : "fr";
 const preacher = preacherOf(entry);
 const author = PREACHERS.find((p) => p.name === preacher);
 const authorCount = author ? (await worksBy(author)).length : 0;
+const authorUrl = author && authorCount ? new URL(`/auteurs/${author.slug}/`, Astro.site).href : undefined;
 // A Mevar text offers the PDF of its text first, and its original beside it
 // where it has one (goal 23); every other work, its one PDF.
 const originalPdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
@@ -84,25 +88,24 @@ const groups = [
 
 <Layout
   title={`${title} · Mevar`}
-  description={excerptOf(entry)}
+  description={description}
   image={fm.local_image ? `/${fm.local_image}` : undefined}
   lang={lang}
-  article={{ published, author: preacher }}
+  article={{ published, author: authorUrl }}
 >
   <JsonLd
     slot="head"
     data={{
       "@type": "Article",
       headline: title,
-      description: excerptOf(entry),
+      description,
       inLanguage: lang,
       datePublished: published,
       image: fm.local_image && new URL(`/${fm.local_image}`, Astro.site).href,
-      mainEntityOfPage: new URL(workUrl(entry), Astro.site).href,
       author: preacher && {
         "@type": "Person",
         name: preacher,
-        url: author && authorCount ? new URL(`/auteurs/${author.slug}/`, Astro.site).href : undefined,
+        url: authorUrl,
       },
       // The mission publishes its own texts; an archive text is another's, kept here with permission.
       publisher: isMevar(entry) ? { "@type": "Organization", name: "MEVAR", url: Astro.site!.href } : undefined,
