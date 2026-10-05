@@ -1,0 +1,31 @@
+---
+// /series/: the texts to read in order, each series with its parts.
+import Layout from "../layouts/Layout.astro";
+import Browse from "../components/Browse.astro";
+import PageHead from "../components/PageHead.astro";
+import { dots, minutes, seriesList, shortDate, workUrl } from "$lib/works";
+
+const series = await seriesList();
+---
+
+<Layout title="Séries · Mevar" description="Les textes de la mission à lire dans l'ordre, série par série">
+  <PageHead eyebrow={`${series.length} séries`} title="Séries" intro="Des textes à lire dans l'ordre, une partie après l'autre." />
+  <Browse />
+  <div class="mx-auto grid max-w-[1440px] grid-cols-2 items-start gap-[22px] px-10 pb-[72px] max-lg:grid-cols-1 max-lg:gap-3 max-lg:px-4 max-lg:pb-10">
+    {series.map((s) => (
+      <section id={s.slug} class="hair flex flex-col gap-3.5 rounded-[18px] p-[26px] max-lg:p-5">
+        <p class="eyebrow">{s.parts.length} parties</p>
+        <h2 class="font-display text-[33px] leading-[35px] max-lg:text-[25px] max-lg:leading-[29px]">{s.name}</h2>
+        <ol class="flex flex-col">
+          {s.parts.map((e, i) => (
+            <li class="flex items-baseline gap-4 border-t py-3">
+              <span class="w-[22px] text-xs leading-[15px] font-medium tracking-[1.4px] text-ink-2">{String(i + 1).padStart(2, "0")}</span>
+              <a href={workUrl(e)} class="flex-1 font-display text-[21px] leading-[25px] hover:text-accent">{e.data.title}</a>
+              <span class="shrink-0 text-[13px] leading-4 text-ink-2 max-lg:hidden">{dots(shortDate(e), `${minutes(e)} min`)}</span>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))}
+  </div>
+</Layout>
