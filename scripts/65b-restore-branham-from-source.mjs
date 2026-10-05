@@ -20,6 +20,11 @@
 //
 // Needs the PDFs: node scripts/20-download-pdfs.mjs manifests/branham-<year>.json
 // Run after 65, before 66.
+//
+// Done: goal 25 restored the last French names (the manifest is empty). Do
+// not run it again on the corpus: its second pass now aligns on the running
+// headers the PDF text interleaves, and would write « Hebrews WHAT SHALL I DO
+// WITH JESUS CALLED CHRIS T? 37 » into 64-0427.
 
 import fs from "node:fs";
 import path from "node:path";
