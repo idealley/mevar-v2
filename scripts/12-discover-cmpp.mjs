@@ -1,8 +1,19 @@
 #!/usr/bin/env node
-// Build manifests/cmpp.json from cmpp map + topic-index scrapes.
+// Build manifests/cmpp.json from cmpp.ch itself: a plain fetch of its pages.
+// The site is static HTML. The crawl starts at the home page and at the
+// sitemap robots.txt declares, follows every .htm / .html link of the site
+// and keeps every link to a PDF.
+//
+// An entry the manifest already has is left as it is (73 and 76 have filled
+// it since), also when its PDF is no longer linked on the site: the work
+// exists. A PDF the manifest does not have is added, with what its file name
+// says. The run prints both lists. A second run changes nothing.
+//
 // PDFs are heterogeneous: monthly letters (mars1974.pdf), videos (video_07_2003.pdf),
 // thematic series (7sceaux3.pdf), exhortations (exhortation_annee_2025_A4.pdf), etc.
 // Sniff dates where the filename embeds a month name or YYYY.
+//
+//   node scripts/12-discover-cmpp.mjs      (on the Mac: no TLS, plain http)
 
 import fs from "node:fs";
 import path from "node:path";
@@ -10,22 +21,37 @@ import path from "node:path";
 const root = path.resolve(import.meta.dirname, "..");
 const out = path.join(root, "manifests", "cmpp.json");
 
-function readLinks(p) {
-  if (!fs.existsSync(p)) return [];
-  const j = JSON.parse(fs.readFileSync(p, "utf8"));
-  return j.links ?? j.data?.links?.map((l) => l.url ?? l) ?? [];
-}
+// ─── The crawl ──────────────────────────────────────────────────────────────
+const SITE = "http://www.cmpp.ch";
+const queue = [`${SITE}/`, `${SITE}/sitemap.xml`];
+const pages = new Set();
+const urls = new Set(); // every PDF linked, as the manifest writes it: http://cmpp.ch/<path>
+const dead = [];
 
-const urls = new Set();
-for (const u of readLinks(path.join(root, ".firecrawl/cmpp-map.json"))) {
-  if (typeof u === "string") urls.add(u);
-}
-const pagesDir = path.join(root, ".firecrawl/cmpp-pages");
-if (fs.existsSync(pagesDir)) {
-  for (const f of fs.readdirSync(pagesDir)) {
-    for (const u of readLinks(path.join(pagesDir, f))) urls.add(u);
+async function crawl() {
+  for (let page; (page = queue.shift()); ) {
+    if (pages.has(page)) continue;
+    pages.add(page);
+    const res = await fetch(page);
+    // A link of the site to a page it no longer has is the site's; anything else stops the run.
+    if (res.status === 404) { dead.push(page); continue; }
+    if (!res.ok) throw new Error(`${page}: HTTP ${res.status}`);
+    const text = await res.text();
+    const refs = page.endsWith(".xml") ? text.matchAll(/<loc>([^<]+)<\/loc>/g) : text.matchAll(/href\s*=\s*["']?([^"'\s>]+)/gi);
+    for (const [, ref] of refs) {
+      if (!URL.canParse(ref, page)) continue;
+      const u = new URL(ref, page);
+      if (!/^https?:$/.test(u.protocol) || !/^(www\.)?cmpp\.ch$/.test(u.hostname)) continue;
+      if (/\.pdf$/i.test(u.pathname)) urls.add(`http://cmpp.ch${u.pathname}`);
+      else if (/(\.html?|\/)$/i.test(u.pathname)) queue.push(`${SITE}${u.pathname}`);
+    }
   }
 }
+// Four at a time. A worker that finds the queue empty while another still reads a page is not missed: the loop runs until a pass adds nothing.
+while (queue.length) await Promise.all(Array.from({ length: 4 }, crawl));
+
+const manifest = JSON.parse(fs.readFileSync(out, "utf8"));
+const known = new Set(manifest.map((e) => e.pdf_url));
 
 const months = {
   janvier: "01", fevrier: "02", février: "02", mars: "03", avril: "04",
@@ -34,14 +60,8 @@ const months = {
 };
 
 const entries = [];
-const seenPath = new Map();
-for (const u of urls) {
-  if (typeof u !== "string" || !/\.pdf$/i.test(u)) continue;
-  const canonical = u
-    .replace(/^https?:\/\/www\.cmpp\.ch/, "http://cmpp.ch")
-    .replace(/^https:\/\/cmpp\.ch/, "http://cmpp.ch");
-  if (seenPath.has(canonical)) continue;
-  seenPath.set(canonical, true);
+for (const canonical of urls) {
+  if (known.has(canonical)) continue;
 
   const filename = path.basename(canonical);
   const stem = filename.replace(/\.pdf$/i, "");
@@ -96,9 +116,11 @@ entries.sort((a, b) => {
   if (da !== db) return da.localeCompare(db);
   return a.sermon_id.localeCompare(b.sermon_id);
 });
-fs.mkdirSync(path.dirname(out), { recursive: true });
-fs.writeFileSync(out, JSON.stringify(entries, null, 2));
+const gone = manifest.filter((e) => !urls.has(e.pdf_url));
+if (entries.length) fs.writeFileSync(out, JSON.stringify([...manifest, ...entries], null, 2));
 
-const dated = entries.filter((e) => e.date).length;
-const withYear = entries.filter((e) => e.year).length;
-console.log(`wrote ${out}: ${entries.length} PDFs, ${dated} with full dates, ${withYear} with year`);
+console.log(`cmpp.ch: ${pages.size} pages read, ${urls.size} PDFs linked`);
+if (dead.length) console.log(`  links of the site to a page it does not have: ${dead.join(", ")}`);
+console.log(`manifest: ${manifest.length} entries, ${entries.length} added, ${gone.length} no longer linked on the site (kept)`);
+if (entries.length) console.log(`  added: ${entries.map((e) => e.sermon_id).join(" ")}`);
+if (gone.length) console.log(`  no longer linked: ${gone.map((e) => e.sermon_id).join(" ")}`);
