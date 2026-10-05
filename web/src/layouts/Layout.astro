@@ -64,6 +64,26 @@ const found = Astro.url.pathname !== "/404/";
     <meta name="twitter:card" content={image ? "summary_large_image" : "summary"} />
 
     <slot name="head" />
+
+    {/* Google Analytics, the property mevar.org has counted its visits in
+        since Ghost (goal 29): how the site grows, not who reads. On the
+        built site only. Its script is fetched once the page has loaded, so
+        that neither the text nor the service worker waits for Google. */}
+    {import.meta.env.PROD && (
+      <script is:inline>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag("js", new Date());
+        // Visits, not advertising profiles: no Google signals, no ad personalisation.
+        gtag("config", "G-D3TVDDZ8H7", { allow_google_signals: false, allow_ad_personalization_signals: false });
+        addEventListener("load", () => {
+          const tag = document.createElement("script");
+          tag.async = true;
+          tag.src = "https://www.googletagmanager.com/gtag/js?id=G-D3TVDDZ8H7";
+          document.head.append(tag);
+        });
+      </script>
+    )}
   </head>
 
   <body class="antialiased">

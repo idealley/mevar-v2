@@ -52,6 +52,8 @@ Most guidance is a default Samuel can override. These are not:
 6. **The live site has no runtime dependency.** Every page is static,
    every asset is on our domain, search is a static index. A reader in
    Ouagadougou on a metered phone is the reader we build for (`VISION.md`).
+   One exception (Samuel, 2026-10-05, goal 29): the visit counter, a
+   script from its provider that no page waits for.
 
 ## Glossary
 

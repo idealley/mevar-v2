@@ -112,8 +112,11 @@ const ids = (file) => {
 };
 const noAnchor = [];
 let fragments = 0;
+const uncounted = [];
 for (const page of pages) {
   const html = fs.readFileSync(page, "utf8");
+  const tag = ['gtag("config", "G-D3TVDDZ8H7"', "googletagmanager.com/gtag/js?id=G-D3TVDDZ8H7"];
+  if (tag.some((part) => html.split(part).length !== 2)) uncounted.push(path.relative(dist, page));
   for (const [, raw] of html.matchAll(/\shref="([^"]*)"/g)) {
     const href = raw.replaceAll("&amp;", "&");
     // Another scheme or host: not a file here. Our own absolute URL is, when
@@ -228,5 +231,9 @@ report(
   }),
   `${published.length} posts`,
 );
+
+// 7. Every page counts its visit, once (goal 29): the call that names the
+// property, and the address its script is fetched from.
+report("every page carries the Google Analytics tag once", uncounted, `${pages.length} pages`);
 
 process.exit(failed ? 1 : 0);
