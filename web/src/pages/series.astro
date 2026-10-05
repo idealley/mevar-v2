@@ -9,12 +9,12 @@ const series = await seriesList();
 ---
 
 <Layout title="Séries · Mevar" description="Les textes de la mission à lire dans l'ordre, série par série">
-  <PageHead eyebrow={`${series.length} séries`} title="Séries" intro="Des textes à lire dans l'ordre, une partie après l'autre." />
+  <PageHead eyebrow={`${series.length} série${series.length > 1 ? "s" : ""}`} title="Séries" intro="Des textes à lire dans l'ordre, une partie après l'autre." />
   <Browse />
   <div class="mx-auto grid max-w-[1440px] grid-cols-2 items-start gap-[22px] px-10 pb-[72px] max-lg:grid-cols-1 max-lg:gap-3 max-lg:px-4 max-lg:pb-10">
     {series.map((s) => (
       <section id={s.slug} class="hair flex flex-col gap-3.5 rounded-[18px] p-[26px] max-lg:p-5">
-        <p class="eyebrow">{s.parts.length} parties</p>
+        <p class="eyebrow">{s.parts.length} partie{s.parts.length > 1 ? "s" : ""}</p>
         <h2 class="font-display text-[33px] leading-[35px] max-lg:text-[25px] max-lg:leading-[29px]">{s.name}</h2>
         <ol class="flex flex-col">
           {s.parts.map((e, i) => (

@@ -7,8 +7,8 @@ export interface Lecture {
   category: string;
   /** ISO date of the last opening. */
   opened: string;
-  /** How far the reader got, 0 to 100. */
-  progress: number;
+  /** How far the reader got, 0 to 100; none until they first leave the text. */
+  progress?: number;
   saved?: boolean;
 }
 

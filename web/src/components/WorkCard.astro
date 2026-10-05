@@ -19,6 +19,7 @@ const refs = refsOf(entry);
 const date = shortDate(entry);
 const read = `${minutes(entry)} min de lecture`;
 const category = categoryOf(entry);
+const excerpt = !compact && excerptOf(entry);
 ---
 
 <article
@@ -52,7 +53,7 @@ const category = categoryOf(entry);
       <h3 class:list={["font-display max-lg:text-[21px] max-lg:leading-[25px]", compact ? "text-[23px] leading-[26px]" : "text-[26px] leading-[30px]"]}>
         <a href={workUrl(entry)} class="after:absolute after:inset-0">{fm.title ?? entry.id}</a>
       </h3>
-      {!compact && excerptOf(entry) && <p class="line-clamp-2 text-sm leading-[23px] text-ink-2 max-lg:hidden">{excerptOf(entry)}</p>}
+      {excerpt && <p class="line-clamp-2 text-sm leading-[23px] text-ink-2 max-lg:hidden">{excerpt}</p>}
     </div>
     <div class="flex flex-col gap-[18px]">
       {!compact && refs.length > 0 && (

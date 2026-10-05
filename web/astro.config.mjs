@@ -65,11 +65,12 @@ export default defineConfig({
         },
         workbox: {
           // The shell only: the stylesheet, the few small scripts a page
-          // loads (a text's reading tools, « Mes lectures »), the home page.
+          // loads (a text's reading tools, « Mes lectures »), the home page,
+          // and « Mes lectures », where the offline page sends the reader.
           // Pages and images are cached when a reader opens them, never in
           // bulk: the full corpus is 3,000+ pages, and our readers are on
           // metered phones.
-          globPatterns: ["_astro/*.{css,js}", "index.html", "hors-ligne/index.html"],
+          globPatterns: ["_astro/*.{css,js}", "index.html", "hors-ligne/index.html", "mes-lectures/index.html"],
           // The plugin defaults this to "/", which would answer every
           // navigation with the home page once pages are not precached.
           navigateFallback: null,

@@ -7,11 +7,6 @@ export function formatDateFr(d: string | null | undefined): string | null {
   return `${parseInt(m[3], 10)} ${months[parseInt(m[2], 10) - 1]} ${m[1]}`;
 }
 
-// "2026-09-10" as a card shows it: "10 sept. 2026".
-export function formatDateShort(d: string): string {
-  return new Date(d).toLocaleDateString("fr-FR", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
-}
-
 // Derive `kind` from frontmatter when not explicitly set.
 export function deriveKind(fm: Record<string, any>): string {
   if (fm.kind) return fm.kind;

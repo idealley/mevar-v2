@@ -90,6 +90,7 @@ const filters = [
   }
 
   let found: { data: () => Promise<any> }[] = [];
+  let asks = 0;
   async function show() {
     const page = await Promise.all(found.slice(results.childElementCount, results.childElementCount + PAGE).map((r) => r.data()));
     for (const r of page) {
@@ -113,8 +114,9 @@ const filters = [
     document.getElementById("collection")!.textContent = data.has("archives") ? "Mevar et archives" : "Collection Mevar";
     // Without a word, a filter alone lists its texts; nothing asked, nothing listed.
     const asked = q || selects.some((s) => s.value);
+    const ask = ++asks;
     const search = asked ? await (await load()).debouncedSearch(q || null, { filters }) : { results: [] };
-    if (!search) return; // a newer search replaced this one
+    if (!search || ask !== asks) return; // a newer search replaced this one
     found = search.results;
     results.replaceChildren();
     count.textContent = !asked ? "" : found.length > 1 ? `${found.length.toLocaleString("fr-FR")} résultats` : found.length ? "1 résultat" : "Aucun résultat";

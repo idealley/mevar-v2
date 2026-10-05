@@ -30,7 +30,7 @@ frame as CSS), not from a reading of the pictures.
 
 ## Work items
 
-1. **Tokens, type, themes.** The design's 28 variables as CSS variables,
+1. **Tokens, type, themes.** The design's variables as CSS variables,
    light and dark; its three faces (Instrument Serif, Inter Tight,
    Newsreader) served from our domain, latin subset. The theme is the
    reader's choice, kept on the device, or else the system's, applied
@@ -69,15 +69,22 @@ frame as CSS), not from a reading of the pictures.
   `font-display: swap`, and Newsreader is fetched only by a page with a
   body. The cost is stated in the PR.
 - **A link exists only where its page does.** The design's footer names
-  « Mentions légales », « Confidentialité », « Téléchargements », « Nous
-  écrire », and YouTube and Facebook icons. None has a page, an address or
-  an account in the repo, so none is built. « Ouvrage solidaire du Christ »
+  « Mentions légales », « Confidentialité », « Plan du site »,
+  « Téléchargements », « Nous écrire », and YouTube and Facebook icons.
+  None has a page, an address or an account in the repo, so none is built. « Ouvrage solidaire du Christ »
   leads to the page whose title is « Courage soldat de Christ! » and takes
   that title (copy rule: a label matches its page).
 - **The verse on the home page** is Hébreux 4:12, first clause. Its words
   are checked against the seeded Segond 1910 text (hard rule 2), and it is
   labelled « Segond 1910 », not « NEG 1979 » as drawn: the repo holds no
   NEG text to check it against.
+- **The newsletter is described as goal 06 built it.** The design promises
+  one email a week with the full text; the email is sent at each
+  publication and carries the summary, a link and the PDF. The page says
+  that.
+- **No date on the PDF card.** The design dates the PDF (« mis en ligne
+  le… »); the repo records when a work was published, not when its PDF was
+  put online.
 - **A work's words do not move** (hard rule 1). The design lifts a text's
   first heading above its title and prints a reference under each quote;
   the page shows the body as it is written.

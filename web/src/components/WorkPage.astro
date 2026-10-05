@@ -70,7 +70,7 @@ const crumbs = [
 // The sections of the text, for the rail: its highest level of heading.
 const depth = Math.min(...headings.map((h) => h.depth));
 const toc = headings.filter((h) => h.depth === depth);
-const after = await nextWorks(entry);
+const after = await nextWorks(entry, next);
 const groups = [
   { label: "Thèmes", items: (fm.tags ?? []).map((t) => ({ label: t, href: fm.source === "mevar" ? tags.get(t)?.url : undefined })) },
   { label: "Personnes", items: (fm.persons ?? []).map((label) => ({ label, href: undefined })) },
@@ -160,7 +160,7 @@ const groups = [
       </aside>
 
       <div class="w-[648px] max-w-full min-w-0 max-lg:w-auto">
-        {(fm.summary || original || publishedWith || summaryFr || audio || remoteAudio || video || (textPdf && originalPdf) || series.length > 1) && (
+        {(fm.summary || original || publishedWith || summaryFr || audio || remoteAudio || video || series.length > 1) && (
           <div class="mb-[30px] flex flex-col gap-4 text-sm leading-[22px] text-ink-2" data-pagefind-ignore>
             {fm.summary && <p class="font-read text-lg leading-7 text-ink italic">{fm.summary}</p>}
             {original && (
@@ -172,9 +172,8 @@ const groups = [
             {summaryFr && (
               <p>Résumé en français : <a href={workUrl(summaryFr)} class="text-ink underline decoration-accent underline-offset-4">« {summaryFr.data.title} »</a>.</p>
             )}
-            {((textPdf && originalPdf) || remoteAudio || video) && (
+            {(remoteAudio || video) && (
               <p class="flex flex-wrap gap-2 font-medium text-ink" data-noprint>
-                {textPdf && originalPdf && <a href={originalPdf} class="hair flex items-center gap-2 rounded-full px-[18px] py-[11px] leading-[17px]"><Icon name="download" /> PDF d’origine</a>}
                 {remoteAudio && <a href={remoteAudio} class="hair flex items-center gap-2 rounded-full px-[18px] py-[11px] leading-[17px]"><Icon name="volume-2" /> Audio</a>}
                 {video && <a href={video} class="hair flex items-center gap-2 rounded-full px-[18px] py-[11px] leading-[17px]"><Icon name="play" /> Vidéo</a>}
               </p>
@@ -183,7 +182,10 @@ const groups = [
             {audio && <audio controls preload="none" src={audio} class="w-full" aria-label={`Écouter « ${title} »`} data-noprint></audio>}
             {series.length > 1 && (
               <nav class="rounded-2xl bg-tint p-[22px]" aria-label={`Série ${fm.series}`} data-noprint>
-                <p class="eyebrow mb-3.5"><a href={`/series/#${slug(fm.series as string)}`} class="hover:text-ink">{dots("Série", fm.series)}</a></p>
+                {/* /series/ lists Mevar's series; an archive's has no place there. */}
+                <p class="eyebrow mb-3.5">
+                  {isMevar(entry) ? <a href={`/series/#${slug(fm.series as string)}`} class="hover:text-ink">{dots("Série", fm.series)}</a> : dots("Série", fm.series)}
+                </p>
                 <ol class="flex flex-col text-[13px] leading-4 font-medium">
                   {series.map((e) => (
                     <li class="border-rail-line py-2.5 not-first:border-t">
@@ -281,7 +283,7 @@ const groups = [
           <section class="hair flex flex-col gap-3.5 rounded-2xl p-[22px]">
             <span class="flex size-[38px] items-center justify-center rounded-xl bg-tint text-accent"><Icon name="file-text" size={17} /></span>
             <h2 class="font-display text-[21px] leading-6">{originalPdf ? "Le document d'origine" : "Le texte en PDF"}</h2>
-            <p class="text-[13px] leading-5 text-ink-2">PDF{isMevar(entry) && date ? ` mis en ligne le ${date}` : ""}, à garder ou à imprimer.</p>
+            <p class="text-[13px] leading-5 text-ink-2">En PDF, à garder ou à imprimer.</p>
             <a href={originalPdf ?? pdf} class="flex items-center justify-center gap-2 rounded-full bg-ink px-[18px] py-3 text-sm leading-[17px] font-semibold text-on-invert">
               <Icon name="download" /> Télécharger
             </a>

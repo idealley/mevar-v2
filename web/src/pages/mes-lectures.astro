@@ -70,7 +70,7 @@ import PageHead from "../components/PageHead.astro";
     a.href = url;
     a.textContent = l.title;
     const opened = new Date(l.opened).toLocaleDateString("fr-FR", { day: "numeric", month: "long" });
-    li.querySelector(".about")!.textContent = `Ouvert le ${opened}   ·   ${l.progress >= 95 ? "terminé" : `lu à ${l.progress ?? 0} %`}`;
+    li.querySelector(".about")!.textContent = `Ouvert le ${opened}   ·   ${(l.progress ?? 0) >= 95 ? "terminé" : `lu à ${l.progress ?? 0} %`}`;
     li.querySelector<HTMLElement>(".saved")!.hidden = !l.saved;
     li.querySelector<HTMLElement>(".cached")!.hidden = !(await held?.match(url, { ignoreSearch: true }));
     list.append(li);

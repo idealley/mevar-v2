@@ -2,7 +2,7 @@
 // Centralised so category pages, the index, and search all behave consistently.
 
 import { getCollection } from "astro:content";
-import { deriveKind, formatDateShort } from "./utils";
+import { deriveKind } from "./utils";
 import ghostTags from "../../../manifests/mevar-tags.json";
 import bibleRefs from "../../../manifests/bible-refs.json";
 import { PREACHERS } from "../../../scripts/preachers.mjs";
@@ -110,8 +110,6 @@ const KIND_LABEL: Record<string, string> = {
   book: "Livre",
   chapter: "Chapitre",
   article: "Article",
-  testimony: "Témoignage",
-  communique: "Communiqué",
 };
 /** "Exhortation": what kind of text a work is, in one word. */
 export const kindLabel = (e: WorkEntry): string => KIND_LABEL[deriveKind(e.data)];
@@ -134,20 +132,21 @@ export const refsOf = (e: WorkEntry): string[] => (e.data.bible_refs as string[]
 /** "10 sept. 2026", or the year alone when that is all a work has. */
 export function shortDate(e: WorkEntry): string | undefined {
   const d = entryDate(e);
-  return /^\d{4}-\d{2}-\d{2}/.test(d) ? formatDateShort(d.slice(0, 10)) : e.data.year ? String(e.data.year) : undefined;
+  if (/^\d{4}-\d{2}-\d{2}/.test(d)) return new Date(d.slice(0, 10)).toLocaleDateString("fr-FR", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
+  return e.data.year ? String(e.data.year) : undefined;
 }
 
 /**
- * What to read after a work: the next part of its series, then the texts
- * that follow it (older) in its list, among Mevar's or among its own source's.
+ * What to read after a work: the next part of its series (`part`), then the
+ * texts that follow it (older) in its list, among Mevar's or among its own
+ * source's.
  */
-export async function nextWorks(e: WorkEntry): Promise<WorkEntry[]> {
+export async function nextWorks(e: WorkEntry, part: WorkEntry | undefined): Promise<WorkEntry[]> {
   const all = await allWorks();
   const category = categoryOf(e)?.slug;
   const list = all.filter((o) => isMevar(o) === isMevar(e) && (isMevar(e) || o.data.source === e.data.source) && categoryOf(o)?.slug === category);
   const at = list.findIndex((o) => o.id === e.id);
-  const part = e.data.series && all.find((o) => o.data.series === e.data.series && o.data.series_part === (e.data.series_part as number) + 1);
-  const after = [...list.slice(at + 1), ...list.slice(0, at)].filter((o) => o !== part);
+  const after = [...list.slice(at + 1), ...list.slice(0, at)].filter((o) => o.id !== part?.id);
   return [...(part ? [part] : []), ...after].slice(0, 2);
 }
 

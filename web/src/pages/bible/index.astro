@@ -10,10 +10,9 @@ import { bookName, bookUrl } from "$lib/bible.mjs";
 
 const books = await bibleBooks();
 const indexed = new Set(books.flatMap((b) => [...b.works])).size;
-const matthew = books.findIndex((b) => bookName(b.book) === "Matthieu");
 const testaments = [
-  { id: "at", name: "Ancien Testament", books: books.slice(0, matthew) },
-  { id: "nt", name: "Nouveau Testament", books: books.slice(matthew) },
+  { id: "at", name: "Ancien Testament", books: books.filter((b) => b.book < 39) },
+  { id: "nt", name: "Nouveau Testament", books: books.filter((b) => b.book >= 39) },
 ].map((t) => ({ ...t, top: t.books.toSorted((a, b) => b.works.size - a.works.size).slice(0, 7) }));
 const most = Math.max(...books.map((b) => b.works.size));
 ---

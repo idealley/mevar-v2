@@ -11,7 +11,7 @@ import ThemeToggle from "../components/ThemeToggle.astro";
 import WorkCard from "../components/WorkCard.astro";
 import WorkRow from "../components/WorkRow.astro";
 import { refUrl } from "$lib/bible.mjs";
-import { allWorks, dots, excerptOf, kindLabel, mevarWorks, minutes, refsOf, seriesList, workUrl } from "$lib/works";
+import { allWorks, dots, excerptOf, isMevar, kindLabel, mevarWorks, minutes, refsOf, seriesList, workUrl } from "$lib/works";
 
 const all = await allWorks();
 const mevar = await mevarWorks();
@@ -25,14 +25,14 @@ const leadPdf = (lead.data.text_pdf ?? lead.data.local_pdf ?? lead.data.pdf_url)
 
 const stats = [
   [all.length.toLocaleString("fr-FR"), "textes publiés"],
-  [new Set(all.map((e) => e.data.source)).size, "sources d'archives"],
+  [new Set(all.filter((e) => !isMevar(e)).map((e) => e.data.source)).size, "sources d'archives"],
   [Math.min(...all.flatMap((e) => e.data.year ?? [])), "première archive"],
 ];
 const ways = [
   { icon: "book-open", title: "Lire en ligne", text: "Chaque texte est une page simple, lisible sur un téléphone comme sur un ordinateur, sans rien à installer." },
   { icon: "book-marked", title: "Suivre les Écritures", text: "Les passages cités sont repérés dans le texte et rassemblés en fin de page, avec un index par livre biblique." },
   { icon: "download", title: "Télécharger le PDF", text: "Le document d'origine reste disponible, à garder hors connexion ou à imprimer pour une réunion." },
-  { icon: "mail", title: "Recevoir par email", text: "Une publication par semaine, envoyée le jour où elle paraît, texte complet inclus." },
+  { icon: "mail", title: "Recevoir par e-mail", text: "Un e-mail à chaque nouvelle publication, avec son résumé et le lien vers le texte." },
 ] as const;
 ---
 
@@ -69,7 +69,7 @@ const ways = [
       </div>
 
       <article class="relative flex w-[452px] shrink-0 flex-col overflow-hidden max-xl:w-[380px] rounded-3xl bg-dark-2 text-on-dark-2 shadow-[inset_0_0_0_1px_var(--hairline)] max-lg:w-auto max-lg:rounded-[20px] max-lg:shadow-none">
-        {lead.data.local_image && <img src={`/${lead.data.local_image}`} alt="" class="h-[118px] w-full bg-dark object-cover lg:hidden" />}
+        {lead.data.local_image && <img src={`/${lead.data.local_image}`} alt="" loading="lazy" class="h-[118px] w-full bg-dark object-cover lg:hidden" />}
         <div class="flex flex-col gap-[18px] p-7 max-lg:gap-2.5 max-lg:p-5">
           <p class="flex items-center justify-between text-xs leading-[15px] max-lg:text-[11px] max-lg:leading-[13px]">
             <span class="text-[11px] leading-[13px] font-semibold tracking-[2px] text-accent uppercase max-lg:text-[9px] max-lg:leading-[11px] max-lg:tracking-[1.8px]">À la une</span>
@@ -161,8 +161,8 @@ const ways = [
 
   <section class="flex flex-col items-center gap-[22px] bg-tint px-10 pt-[72px] pb-[76px] text-center max-lg:gap-4 max-lg:px-5 max-lg:py-10">
     <p class="eyebrow">Newsletter</p>
-    <h2 class="max-w-[760px] font-display text-5xl leading-[53px] max-lg:text-[30px] max-lg:leading-[34px]">Une publication dans votre boîte mail, chaque semaine.</h2>
-    <p class="max-w-[600px] text-base leading-[26px] text-ink-2 max-lg:text-sm max-lg:leading-[22px]">Le texte complet et le PDF d'origine, envoyés le jour de la parution.</p>
+    <h2 class="max-w-[760px] font-display text-5xl leading-[53px] max-lg:text-[30px] max-lg:leading-[34px]">Chaque nouvelle publication, dans votre boîte e-mail.</h2>
+    <p class="max-w-[600px] text-base leading-[26px] text-ink-2 max-lg:text-sm max-lg:leading-[22px]">Le résumé du texte, le lien pour le lire et son PDF, à chaque parution.</p>
     <div class="max-w-full pt-2.5"><NewsletterForm origin="newsletter-footer" /></div>
   </section>
 
