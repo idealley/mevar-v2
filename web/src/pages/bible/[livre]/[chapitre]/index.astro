@@ -3,9 +3,11 @@
 // chapter references first. A section of more than PAGE_SIZE works shows its
 // first ones and links to its own paginated page ([section]/).
 import Layout from "../../../../layouts/Layout.astro";
+import BackBar from "../../../../components/BackBar.astro";
+import PageHead from "../../../../components/PageHead.astro";
 import VerseWorks from "../../../../components/VerseWorks.astro";
 import { PAGE_SIZE, bibleChapters, type Chapter } from "$lib/works";
-import { bookName, chapterUrl } from "$lib/bible.mjs";
+import { bookName, bookUrl, chapterUrl } from "$lib/bible.mjs";
 
 export async function getStaticPaths() {
   return [...(await bibleChapters()).values()].map((c) => {
@@ -25,24 +27,21 @@ const sections = [
 ---
 
 <Layout title={`${name} · Mevar`} description={`Les prédications et études qui citent ${name}`}>
-  <div class="container mx-auto px-4 py-12 md:py-16 max-w-3xl">
-    <header class="mb-10">
-      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">{name}</h1>
-      <p class="text-lg text-muted-foreground">
-        Les textes de la bibliothèque qui citent {name}, verset par verset&nbsp;: ceux
-        de la mission d'abord, puis les archives.
-      </p>
-    </header>
+  <BackBar slot="bar" href={bookUrl(c.book)} label={bookName(c.book)} />
+  <PageHead
+    crumbs={[{ href: "/", label: "Accueil" }, { href: "/bible/", label: "Écritures" }, { href: bookUrl(c.book), label: bookName(c.book) }]}
+    title={name}
+    intro={`Les textes de la bibliothèque qui citent ${name}, verset par verset : ceux de la mission d'abord, puis les archives.`}
+  />
+  <div class="mx-auto flex max-w-[1440px] flex-col gap-10 px-10 pb-[72px] max-lg:gap-7 max-lg:px-4 max-lg:pb-10">
     {sections.map((s) => (
-      <section id={s.id} class="mb-8">
-        <h2 class="text-xl font-semibold tracking-tight">{s.title}</h2>
+      <section id={s.id} class="max-w-[860px]">
+        <h2 class="eyebrow pb-3 text-accent">{s.title}</h2>
         {s.works.length > PAGE_SIZE ? (
           <>
             <VerseWorks works={s.works.slice(0, SHOWN)} />
-            <p class="mt-2 text-sm">
-              <a href={`${url}${s.id.replace(/^v/, "")}/`} class="font-medium text-primary hover:underline">
-                Les {s.works.length.toLocaleString("fr-FR")} textes →
-              </a>
+            <p class="border-t pt-4">
+              <a href={`${url}${s.id.replace(/^v/, "")}/`} class="chip">Les {s.works.length.toLocaleString("fr-FR")} textes</a>
             </p>
           </>
         ) : (

@@ -1,0 +1,70 @@
+---
+// /bible/: the Scriptures the library cites, by book. Each testament has its
+// most cited books and all of its books; a book leads to its chapters. Under
+// 1024px one testament shows at a time. No Bible text on the site.
+import Layout from "../../layouts/Layout.astro";
+import Icon from "../../components/Icon.astro";
+import PageHead from "../../components/PageHead.astro";
+import { bibleBooks } from "$lib/works";
+import { bookName, bookUrl } from "$lib/bible.mjs";
+
+const books = await bibleBooks();
+const indexed = new Set(books.flatMap((b) => [...b.works])).size;
+const matthew = books.findIndex((b) => bookName(b.book) === "Matthieu");
+const testaments = [
+  { id: "at", name: "Ancien Testament", books: books.slice(0, matthew) },
+  { id: "nt", name: "Nouveau Testament", books: books.slice(matthew) },
+].map((t) => ({ ...t, top: t.books.toSorted((a, b) => b.works.size - a.works.size).slice(0, 7) }));
+const most = Math.max(...books.map((b) => b.works.size));
+---
+
+<Layout title="Écritures · Mevar" description="Les livres de la Bible que citent les textes de la bibliothèque, chapitre par chapitre">
+  <PageHead
+    title="Écritures"
+    intro={`Chaque référence citée dans un texte mène à son chapitre. ${indexed.toLocaleString("fr-FR")} textes indexés, verset par verset.`}
+  >
+    <a slot="action" href="/recherche/" class="round-btn lg:hidden" aria-label="Recherche"><Icon name="search" /></a>
+  </PageHead>
+
+  <div class="group mx-auto flex max-w-[1440px] flex-col gap-3.5 px-10 pb-[72px] max-lg:px-4 max-lg:pb-10">
+    <div class="flex gap-1 rounded-full bg-tint p-1 lg:hidden" role="radiogroup" aria-label="Testament">
+      {testaments.map((t) => (
+        <label class="flex-1 cursor-pointer">
+          <input type="radio" name="testament" value={t.id} checked={t.id === "nt"} class="peer sr-only" />
+          <span class="block rounded-full py-[9px] text-center text-[13px] leading-4 font-medium text-ink-2 peer-checked:bg-surface peer-checked:font-semibold peer-checked:text-ink peer-focus-visible:outline-2 peer-focus-visible:outline-accent">{t.name}</span>
+        </label>
+      ))}
+    </div>
+    <div class="grid grid-cols-2 gap-x-[72px]">
+      {testaments.map((t) => (
+        <section class:list={["flex flex-col gap-5 max-lg:col-span-2 max-lg:hidden", t.id === "at" ? "max-lg:group-has-[[value=at]:checked]:flex" : "max-lg:group-has-[[value=nt]:checked]:flex"]}>
+          <h2 class="font-display text-[33px] leading-[43px] max-lg:hidden">{t.name}</h2>
+          <div class="flex flex-col">
+            <p class="flex items-center justify-between pb-1 text-[13px] leading-4 font-semibold">
+              Les plus cités<span class="text-[11px] leading-[13px] font-normal text-muted">textes citant le livre</span>
+            </p>
+            <ol class="flex flex-col">
+              {t.top.map((b) => (
+                <li class="border-t">
+                  <a href={bookUrl(b.book)} class="flex items-center gap-3 py-[9px] text-sm leading-[17px] font-medium hover:text-accent">
+                    <span class="w-24 shrink-0">{bookName(b.book)}</span>
+                    <span class="h-[7px] flex-1 rounded-full bg-tint"><span class="block h-full rounded-full bg-accent-fill" style={`width:${(b.works.size / most) * 74}%`}></span></span>
+                    <span class="w-[34px] text-right text-xs leading-[15px] font-normal text-ink-2">{b.works.size}</span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </div>
+          <div class="flex flex-col gap-2">
+            <p class="text-[13px] leading-4 font-semibold">Tous les livres</p>
+            <ul class="grid grid-cols-4 gap-2 max-lg:grid-cols-3">
+              {t.books.map((b) => (
+                <li><a href={bookUrl(b.book)} class="hair block truncate rounded-[10px] px-1.5 py-2.5 text-center text-xs leading-[15px] font-medium hover:bg-surface">{bookName(b.book)}</a></li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+</Layout>
