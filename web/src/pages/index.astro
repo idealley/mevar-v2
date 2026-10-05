@@ -11,23 +11,28 @@ import ThemeToggle from "../components/ThemeToggle.astro";
 import WorkCard from "../components/WorkCard.astro";
 import WorkRow from "../components/WorkRow.astro";
 import { refUrl } from "$lib/bible.mjs";
-import { allWorks, dots, excerptOf, isMevar, kindLabel, mevarWorks, minutes, refsOf, seriesList, workUrl } from "$lib/works";
+import { formatDateFr } from "$lib/utils";
+import { dots, excerptOf, kindLabel, mevarWorks, minutes, preacherOf, seriesList, workUrl } from "$lib/works";
 
-const all = await allWorks();
 const mevar = await mevarWorks();
-// The latest publication leads; the selection is the two newest works Samuel
-// marked `featured` that have an image; the reading cards are the series.
-const [lead] = mevar;
+// The latest publication is the hero, as on mevar.org; the selection is the
+// two newest works Samuel marked `featured` that have an image; the reading
+// cards are the series.
+const [lead, previous] = mevar;
+const series = await seriesList();
 const selection = mevar.filter((e) => e.data.featured && e.data.local_image).slice(0, 2);
-const reading = (await seriesList()).flatMap((s) => s.parts.toReversed()).slice(0, 3);
-const leadRefs = refsOf(lead);
+const reading = series.flatMap((s) => s.parts.toReversed()).slice(0, 3);
 const leadPdf = (lead.data.text_pdf ?? lead.data.local_pdf ?? lead.data.pdf_url) as string | undefined;
+// The series to start with: the longest.
+const longest = series.toSorted((x, y) => y.parts.length - x.parts.length)[0];
 
-const stats = [
-  [all.length.toLocaleString("fr-FR"), "textes publiés"],
-  [new Set(all.filter((e) => !isMevar(e)).map((e) => e.data.source)).size, "sources d'archives"],
-  [Math.min(...all.flatMap((e) => e.data.year ?? [])), "première archive"],
-];
+// « Par où commencer »: the two pages that present MEVAR, then the two ways to study.
+const starts = [
+  { icon: "compass", href: "/a-propos/", title: "Ce que nous croyons", text: "À propos de MEVAR\u00a0: réveiller les chrétiens et évangéliser le monde." },
+  { icon: "shield", href: "/courage-soldat-de-christ/", title: "Courage soldat de Christ\u00a0!", text: "L'appel qui ouvre le site. La première lecture pour qui arrive." },
+  { icon: "list-ordered", href: `/series/#${longest.slug}`, title: "Suivre une série", text: `« ${longest.name} », ${longest.parts.length} parties, dans l'ordre.` },
+  { icon: "book-marked", href: "/bible/", title: "Chercher une Écriture", text: "Chaque verset cité mène aux textes qui l'expliquent." },
+] as const;
 const ways = [
   { icon: "book-open", title: "Lire en ligne", text: "Chaque texte est une page simple, lisible sur un téléphone comme sur un ordinateur, sans rien à installer." },
   { icon: "book-marked", title: "Suivre les Écritures", text: "Les passages cités sont repérés dans le texte et rassemblés en fin de page, avec un index par livre biblique." },
@@ -44,59 +49,72 @@ const ways = [
       <ThemeToggle />
     </div>
   </div>
-  <div class="mx-auto max-w-[1440px] px-5 pt-1.5 pb-[26px] max-lg:pt-3.5 max-lg:pb-3.5">
-    <section class="flex items-center gap-14 max-lg:flex-col max-lg:items-stretch max-lg:gap-3.5 lg:rounded-[32px] lg:bg-dark lg:px-14 lg:py-[76px]">
-      <div class="flex min-w-0 flex-1 flex-col gap-[30px] max-lg:gap-2.5">
-        <p class="flex items-center gap-2.5 text-[11px] leading-[13px] font-semibold tracking-[2px] text-ink-2 uppercase max-lg:gap-2 max-lg:text-[9px] max-lg:leading-[11px] max-lg:tracking-[1.6px] lg:text-on-dark-2">
-          <span class="size-[7px] rounded-full bg-accent max-lg:size-1.5"></span>Mission d'Évangélisation et de Réveil
+  <!-- From 1024px: the latest publication on the photograph of Abraham at Mamre, and where to begin. -->
+  <div class="mx-auto max-w-[1440px] px-5 pt-1.5 pb-[26px] max-lg:hidden">
+    <section class="relative flex items-center gap-14 overflow-hidden rounded-[32px] bg-[#0c0a09] px-14 py-[68px] text-[#a69c90]">
+      <img src="/brand/abraham-mambre.webp" alt="" class="absolute inset-0 size-full object-cover" />
+      <span class="absolute inset-0 bg-linear-to-r from-[#0c0a09f0] via-[#0c0a09c4] via-30% to-[#0c0a0914]"></span>
+      <span class="absolute inset-0 bg-linear-to-b from-transparent from-52% to-[#0c0a0980]"></span>
+      <div class="relative flex min-w-0 flex-1 flex-col gap-[26px]">
+        <p class="flex flex-wrap items-center gap-2.5 text-xs leading-[15px]">
+          <span class="size-[7px] rounded-full bg-accent-fill"></span>
+          <span class="text-[11px] leading-[13px] font-semibold tracking-[2px] text-accent-fill uppercase">Dernière publication</span>
+          <span>·</span>{lead.data.subtitle ?? kindLabel(lead)}
         </p>
-        <h1 class="font-display text-[33px] leading-[34px] lg:text-[clamp(56px,5.7vw,82px)] lg:leading-[0.976] lg:text-on-dark">La Parole prêchée, gardée et partagée.</h1>
-        <p class="max-w-[530px] text-[17px] leading-[27px] text-on-dark-2 max-lg:hidden">
-          Prédications, exhortations et études bibliques, mises au format texte et conservées en un seul endroit. À lire en ligne, à chercher par passage biblique, à télécharger en PDF.
+        <h1 class="font-display text-[clamp(52px,5.14vw,74px)] leading-none text-[#f6f1ea]">{lead.data.title}</h1>
+        <p class="line-clamp-2 max-w-[560px] text-lg leading-[29px]">{excerptOf(lead)}</p>
+        <p class="flex items-center gap-2.5 text-[13px] leading-4">
+          <span class="flex size-[30px] items-center justify-center rounded-full bg-[#2c2522] font-display text-[15px] text-[#f6f1ea]">{preacherOf(lead)?.[0]}</span>
+          {dots(preacherOf(lead), formatDateFr(lead.data.published_at as string), `${minutes(lead)} min de lecture`)}
         </p>
-        <div class="flex flex-wrap items-center gap-3 text-[15px] leading-[18px] whitespace-nowrap max-lg:hidden">
-          <a href="/predications/" class="flex items-center gap-2 rounded-full bg-accent-fill px-6 py-3.5 font-semibold text-on-accent">Explorer le corpus <Icon name="arrow-right" size={16} /></a>
-          <a href={workUrl(lead)} class="flex items-center gap-2 rounded-full px-6 py-3.5 font-medium text-on-dark shadow-[inset_0_0_0_1px_var(--stroke)]"><Icon name="book-open" /> Lire la dernière publication</a>
+        <div class="flex flex-wrap items-center gap-3 pt-1 text-[15px] leading-[18px] text-[#f6f1ea]">
+          <a href={workUrl(lead)} class="flex items-center gap-2 rounded-full bg-accent-fill px-6 py-3.5 font-semibold text-on-accent">Lire le texte <Icon name="arrow-right" size={16} /></a>
+          {leadPdf && <a href={leadPdf} class="flex items-center gap-2 rounded-full px-[22px] py-3.5 font-medium shadow-[inset_0_0_0_1px_#3a3330]"><Icon name="download" /> PDF</a>}
+          <a href={workUrl(previous)} class="flex items-center gap-1.5 pl-2.5 text-[13px] leading-4 text-[#a69c90] hover:text-[#f6f1ea]">Précédente&nbsp;: {previous.data.title} <Icon name="arrow-up-right" size={13} /></a>
         </div>
-        <dl class="flex items-center gap-10 pt-5 max-lg:hidden">
-          {stats.map(([n, label]) => (
-            <div class="flex flex-col-reverse gap-[3px]">
-              <dt class="text-xs leading-[15px] tracking-[0.4px] text-on-dark-2">{label}</dt>
-              <dd class="font-display text-[28px] leading-[36px] text-on-dark">{n}</dd>
-            </div>
-          ))}
-        </dl>
       </div>
 
-      <article class="relative flex w-[452px] shrink-0 flex-col overflow-hidden max-xl:w-[380px] rounded-3xl bg-dark-2 text-on-dark-2 shadow-[inset_0_0_0_1px_var(--hairline)] max-lg:w-auto max-lg:rounded-[20px] max-lg:shadow-none">
-        {lead.data.local_image && <img src={`/${lead.data.local_image}`} alt="" loading="lazy" class="h-[118px] w-full bg-dark object-cover lg:hidden" />}
-        <div class="flex flex-col gap-[18px] p-7 max-lg:gap-2.5 max-lg:p-5">
-          <p class="flex items-center justify-between text-xs leading-[15px] max-lg:text-[11px] max-lg:leading-[13px]">
-            <span class="text-[11px] leading-[13px] font-semibold tracking-[2px] text-accent uppercase max-lg:text-[9px] max-lg:leading-[11px] max-lg:tracking-[1.8px]">À la une</span>
-            {kindLabel(lead)}
-          </p>
-          <h2 class="font-display text-4xl leading-10 text-on-dark max-lg:text-[27px] max-lg:leading-[30px]">
-            <a href={workUrl(lead)} class="max-lg:after:absolute max-lg:after:inset-0">{lead.data.title}</a>
-          </h2>
-          <p class="line-clamp-3 text-sm leading-[22px] max-lg:hidden">{excerptOf(lead)}</p>
-          {leadRefs.length > 0 && (
-            <p class="flex flex-wrap items-center gap-2 text-xs leading-[15px] max-lg:hidden">
-              {leadRefs.slice(0, 2).map((r) => <a href={refUrl(r)} class="rounded-lg bg-hairline px-3 py-[7px] font-medium hover:text-on-dark">{r}</a>)}
-              {leadRefs.length > 2 && <span class="text-dim-2">+ {leadRefs.length - 2} références</span>}
-            </p>
-          )}
-          <div class="flex items-center gap-3 text-sm leading-[17px] whitespace-nowrap max-lg:justify-between max-lg:pt-1 lg:border-t lg:border-hairline lg:pt-[18px]">
-            <a href={workUrl(lead)} class="flex items-center gap-[7px] rounded-full bg-accent-fill px-5 py-3 font-semibold text-on-accent max-lg:order-1 max-lg:gap-1.5 max-lg:px-[15px] max-lg:py-[9px] max-lg:text-[13px] max-lg:leading-4">
-              <span class="max-lg:hidden">Lire le texte</span><span class="lg:hidden">Lire</span> <Icon name="arrow-right" class="max-lg:size-[13px]" />
-            </a>
-            {leadPdf && (
-              <a href={leadPdf} class="flex items-center gap-[7px] rounded-full px-4 py-3 font-medium shadow-[inset_0_0_0_1px_var(--stroke)] hover:text-on-dark max-lg:hidden"><Icon name="download" size={14} /> PDF</a>
-            )}
-            <span class="text-xs leading-[15px] lg:ml-auto">{minutes(lead)} min de lecture</span>
-          </div>
-        </div>
-      </article>
+      <nav class="relative flex w-[440px] shrink-0 flex-col gap-[3px] rounded-3xl bg-[#1b1714d9] px-[26px] pt-[22px] pb-[18px] shadow-[inset_0_0_0_1px_#ffffff26] backdrop-blur-md max-xl:w-[360px]" aria-labelledby="starts">
+        <p class="text-[11px] leading-[13px] font-semibold tracking-[2px] uppercase">Nouveau sur Mevar&nbsp;?</p>
+        <h2 id="starts" class="pt-1 pb-1.5 font-display text-[28px] leading-9 text-[#f6f1ea]">Par où commencer</h2>
+        {starts.map((s) => (
+          <a href={s.href} class="group flex items-center gap-3.5 border-[#2c2522] py-[13px] not-first-of-type:border-t">
+            <span class="flex size-9 shrink-0 items-center justify-center rounded-[11px] bg-[#2c2522] text-accent-fill"><Icon name={s.icon} size={16} /></span>
+            <span class="flex flex-1 flex-col gap-[3px] text-[12.5px] leading-[18px]">
+              <span class="font-display text-[21px] leading-[27px] text-[#f6f1ea]">{s.title}</span>{s.text}
+            </span>
+            <Icon name="arrow-right" class="group-hover:text-[#f6f1ea]" />
+          </a>
+        ))}
+        <a href="/themes/" class="flex items-center gap-1.5 border-t border-[#2c2522] pt-3 text-[13px] leading-4 font-medium hover:text-[#f6f1ea]">Parcourir par thème <Icon name="arrow-right" size={13} /></a>
+      </nav>
     </section>
+  </div>
+
+  <!-- Under 1024px, as the phone design draws it: the mission's sentence, then the latest publication. -->
+  <div class="flex flex-col gap-3.5 px-5 pt-3.5 pb-3.5 lg:hidden">
+    <div class="flex flex-col gap-2.5">
+      <p class="flex items-center gap-2 text-[9px] leading-[11px] font-semibold tracking-[1.6px] text-ink-2 uppercase">
+        <span class="size-1.5 rounded-full bg-accent"></span>Mission d'Évangélisation et de Réveil
+      </p>
+      <h1 class="font-display text-[33px] leading-[34px]">La Parole prêchée, gardée et partagée.</h1>
+    </div>
+    <article class="relative flex flex-col overflow-hidden rounded-[20px] bg-dark-2 text-on-dark-2">
+      {lead.data.local_image && <img src={`/${lead.data.local_image}`} alt="" class="h-[118px] w-full bg-dark object-cover" />}
+      <div class="flex flex-col gap-2.5 p-5">
+        <p class="flex items-center justify-between text-[11px] leading-[13px]">
+          <span class="text-[9px] leading-[11px] font-semibold tracking-[1.8px] text-accent uppercase">À la une</span>
+          {kindLabel(lead)}
+        </p>
+        <h2 class="font-display text-[27px] leading-[30px] text-on-dark">
+          <a href={workUrl(lead)} class="after:absolute after:inset-0">{lead.data.title}</a>
+        </h2>
+        <p class="flex items-center justify-between pt-1 text-xs leading-[15px]">
+          {minutes(lead)} min de lecture
+          <span class="flex items-center gap-1.5 rounded-full bg-accent-fill px-[15px] py-[9px] text-[13px] leading-4 font-semibold text-on-accent">Lire <Icon name="arrow-right" size={13} /></span>
+        </p>
+      </div>
+    </article>
   </div>
 
   <Browse />

@@ -23,7 +23,7 @@ all the functionalities etc. and that all is pixel perfect. »
 | Web — Article (v2), and (sombre) | a work's page from 1024px, both themes |
 | Mobile — Accueil, Article, Recherche, Mes lectures, Écritures, Installer l'app | the six phone screens |
 | Cartes — règles d'image | a card with an image, without one, and on a photo |
-| Web — Accueil v2 (hero photo), Hero — exploration | two other heroes, see « Decisions » |
+| Hero — exploration, B | the hero from 1024px, see « Decisions » |
 
 Measures, colours and type come from the file itself (exported frame by
 frame as CSS), not from a reading of the pictures.
@@ -59,9 +59,13 @@ frame as CSS), not from a reading of the pictures.
 
 ## Decisions (mine, for Samuel to overturn)
 
-- **The hero is the dark slab with the mission's sentence** (« moderne »).
-  It is the only hero the file also draws in dark, and the two others are
-  named « hero photo » and « exploration ».
+- **The hero is the latest publication on the photograph of Abraham at
+  Mamre**, with « Par où commencer » beside it (frame « Hero — exploration »,
+  B). Samuel, 2026-10-05: the latest text leads, as on mevar.org, and the
+  photograph is the background. The first build took the dark slab with the
+  mission's sentence and its three figures; that hero is gone. Under 1024px
+  the phone frame stays as drawn: the mission's sentence, then the latest
+  publication on its own image.
 - **One navigation.** The home frame lists « À propos » without
   « Écritures », the article frame the reverse. The header lists both.
 - **Web fonts, against `DELIVERY.md`'s reject list** (« a web font »). The
@@ -117,4 +121,3 @@ None of Samuel's gates is touched: no deploy, no Cloudflare, no email.
 ## Follow-up
 
 - The four footer pages and the two social accounts, when they exist.
-- The hero with the photo, if Samuel prefers it.
