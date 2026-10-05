@@ -225,12 +225,16 @@ need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
   frontmatter and are settled the same way: `serie4no6` (its cover carries
   the previous issue's date, as `76` notes) and `serie5no3`.
 - **Item 7, the folders.** 173 works moved out of `cmpp/undated/`: the
-  linked ones to their sermon's year, and 77 others, each to the year of
+  linked ones to their sermon's year, and 76 others, each to the year of
   its frontmatter when a short line of its title page prints that year
   (« Krefeld, mai 1985 », « Copyright © 1978 »). 30 stay. This is wider
   than the item as written (« unlinked works stay where they are »): Samuel
   asked why a dated text had « undated » in its address, and should
-  confirm the 77.
+  confirm the 76.
+- **One booklet may cover two sermons.** `parole_parlee_semence_originelle`
+  prints « 18 mars 1962, matin et après-midi » and is linked to 62-0318,
+  « The Spoken Word Is The Original Seed 1 », the only sermon the archive
+  has for that day. For Samuel to confirm.
 - **`local_pdf` did not move.** A moved work keeps the address of its PDF
   on files.mevar.org (`…/cmpp/undated/<id>.pdf`), which still answers. `96`
   names a PDF by its work's path: its next run would upload those PDFs
