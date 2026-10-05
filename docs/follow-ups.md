@@ -26,7 +26,7 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 ## French citations 65 wrote canonical, still to restore
 
-**Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (remeasure after `goal-16-cmpp-complete.md` re-crawls its bodies), and `local` (no original: Samuel, 2026-09-25, leave it).
+**Status**: until goal 07, 65 rewrote every French citation it found into canonical form. Goal 15's `65c` put the source's wording back in `mevar` (from the Ghost export) and `le-scribe` (from the PDFs); what it could not align is in `manifests/french-citations-unaligned.json`. Left: the OneDrive texts (goal 10 measures them against Samuel's `.docx` and asks before its first edit), CMPP (to remeasure: goal 16 added 274 works and left the cleaned bodies as they were), and `local` (no original: Samuel, 2026-09-25, leave it).
 
 ## Le Scribe links resting on the date alone
 
@@ -111,13 +111,20 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 
 **Fix**: if it matters, have the page ask the worker to cache `location.href` once it is active (a few lines in the registration).
 
-## CMPP: what goal 16 has not done yet
+## CMPP: what goal 16 leaves to Samuel
 
-**Status**: goal 16's items 6 to 9 are done, item 5 in part (2026-10-05): `49b-link-cmpp-branham.mjs` links 97 of the 107 Branham translations to their sermon (`original:` on the translation, `translation_fr:` on the sermon) and files 173 CMPP works under their year. 9 translations wait in `manifests/cmpp-branham-unresolved.json` for an answer (`scripts/cmpp-branham-decided.json`): `les_aigles_de_dieu` and eight tracts that may be Ewald Frank's; `eden` is decided to translate no sermon, and still names William Branham as its preacher. 30 works stay under `cmpp/undated/`.
+**Status**: goal 16 is done (2026-10-06): cmpp.ch rediscovered by a plain fetch (512 PDFs, 274 new works, all cleaned), the 90 layout variants folded with `duplicate_of` (`83b`, `manifests/cmpp-variants.json`), 97 Branham translations linked to their sermon (`49b`), three frontmatters corrected from their own text (`76b`). Details and evidence in `docs/goals/goal-16-cmpp-complete.md`, « Measured ».
 
-**Fix**: goal 16's items 1 to 4, each with its own gate: rediscover cmpp.ch (a crawl, on the Mac), download and clean what is new and the three works the LLM pass failed on (`lc56`, `serie1no8`, `serie4no6`: paid, with an estimate first), fold the 13 groups of layout variants (`_A4`, `_A5`, `_gc`, `_traite`) with `duplicate_of`. And what is left of item 5: the title pages against the PDFs, the dates a model set (`la_profondeur`, `islam`).
+**Left, each an answer of Samuel's or a run that is his**:
 
-Two loose ends of the move: the moved works' `local_pdf` still names `…/cmpp/undated/<id>.pdf` on files.mevar.org (it answers; `96`'s next run would upload them again under the new path, Samuel's call), and `100-ingest-surrealdb.mjs` still calls every CMPP work a `bible_study` where the site now calls Branham's a `sermon`.
+- **`local_pdf`.** The 274 new works have none (their pages link the PDF on cmpp.ch), and the works `49b` moved out of `cmpp/undated/` keep `…/cmpp/undated/<id>.pdf` on files.mevar.org, which answers. `96-r2-pdfs.mjs` uploads to R2 and sets the field: one run, Samuel's. It names a PDF by its work's path, so it uploads the moved works' PDFs again under the new path and leaves the old objects.
+- **Nine translations without a sermon** in `manifests/cmpp-branham-unresolved.json`, answered in `scripts/cmpp-branham-decided.json`: `les_aigles_de_dieu` and the four tracts with their `_A4_traite` twins (duplicates now).
+- **Who wrote the tracts.** `savez-vous` and `quel_bapteme` say `preacher: "William Branham"` and speak of him in the third person; `quand_dieu` and `le_bapteme_une_question_importante` name no one; `eden` has no preacher any more. All are unsigned. An answer goes into `scripts/76b-cmpp-title-pages.mjs`.
+- **Same texts under two names**, not folded because their ids are not layouts of one another: the four letters of 1974 (`janvier1974` and `lc_janvier_1974`, and so on), `quanddieu` and `quand_dieu`, three tracts that are parts of `lc55`, `lc56`, `lc57`, and two texts of Parfait M'bra the CMPP publishes and `markdown/mevar/` has (`le_reveil_promis`, `trois_visions`): a pass of `83` that includes `cmpp`, or answers.
+- **Dates by the month.** A circular letter or a « Sommaire des rencontres » dated « Janvier 2013 » has `date: "2013-01-01"` (`12` and the LLM pass). Two such dates were removed where the text shows them wrong (`la_profondeur`, `islam`); the rest is a decision for the whole source: keep the first of the month, or keep the year and say the month in `subtitle`.
+- **The attributions of the 274 new works** are the model's, like those of the first 242, and unverified.
+
+Two smaller ones: `100-ingest-surrealdb.mjs` still calls every CMPP work a `bible_study` where the site calls Branham's a `sermon`; four older works have « sœ ur » for « sœur » from their extraction (`serie6no4`, `serie6no5`, `mariage_frank`, `tragedie`).
 
 ## Cross-language linking
 

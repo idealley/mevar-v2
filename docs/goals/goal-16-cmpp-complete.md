@@ -1,6 +1,6 @@
 # GOAL 16: CMPP complete, and each Branham translation linked to its sermon
 
-**Status:** items 6 to 9 done and item 5 in part, on 2026-10-05, at Samuel's request (« why is this one "undated" in the path… could we verify all those to make this clean? »); items 1 to 4 wait, see « Measured »
+**Status:** done, 2026-10-06: items 6 to 9 on 2026-10-05 at Samuel's request (« why is this one "undated" in the path… could we verify all those to make this clean? »), items 1 to 4 and the rest of item 5 the day after (« I approve all of it, you can crawl, correct etc. until everything is clean »). What waits for Samuel is listed in « Measured »
 **Repo:** `mevar-v2` (`scripts/12-discover-cmpp.mjs`, `scripts/20-download-pdfs.mjs`,
 `scripts/72-llm-fanout-multi.mjs`, `scripts/73-apply-llm.mjs`, a new
 `scripts/49b-link-cmpp-branham.mjs`, `manifests/cmpp.json`,
@@ -198,16 +198,118 @@ Branham, 13 variant groups, 3 uncleaned, 0 links).
 
 ## Measured
 
-On the branch `goal-16-cmpp`, 2026-10-05. Items 1 to 4 are not done: they
-need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
+Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
+`goal-16b-cmpp-rest`, stacked on it, 2026-10-06.
 
-- **Item 5, in part.** The PDFs were not read: the title page is the head
-  of each text, and `49b` reads the day, the time of day and the English
-  title there, for the link only. No frontmatter was corrected, no English
-  title was written into `subtitle`, and there is no table of the 107. Two
-  dates a model set are known to be wrong and stay: `la_profondeur`
-  (`1954-07-01`, where the booklet says « Juillet 1954 ») and `islam`
-  (`2001-01-01`).
+- **Item 1, the discovery.** `12` reads cmpp.ch itself: the home page and
+  the sitemap lead to 644 pages (one link of the site is dead,
+  `index_temp.htm`), which link **512 PDFs**. The manifest had 242:
+  **274 are new**, and **4 are no longer linked** on the site (kept):
+  `janvier1974`, `mars1974`, `juillet1974`, `octobre1974`, the same four
+  letters the site now names `lc_janvier_1974` and so on. Not what the goal
+  expected: series 6 has no booklet after 5 and the circular letters stop
+  at 62 on the site too. The 274: 178 monthly « Sommaire des rencontres »
+  (`video_MM_YYYY`, 2003 to 2019), 70 A5 or large-print layouts, and 26
+  other texts (the yearly exhortations 2007 to 2023, `harry_potter`,
+  `honore_tes_parents`, `la_priere`, `quel_amour`, `reflexions`,
+  `nouvelle_naissance`, `paille_et_froment`, `quanddieu`,
+  `faire_part_alexis_barilier`, and two texts of Parfait M'bra,
+  `le_reveil_promis` and `trois_visions`).
+- **Item 2, the new works.** All 274 downloaded (`20`), extracted, cleaned
+  (`72`, `74`, `73`), each with `llm_cleaned: true` and its `bible_refs`.
+  LiteParse extracted 197 as they are. Two kinds of PDF it reads badly, and
+  neither went through LlamaParse (it rewrites words, `84` notes it):
+  - **14 PDFs whose font maps no apostrophe, dash, quote mark or « œ »**
+    (`video_10_2012` to `video_11_2013`, `video_02_2014`): « c est »,
+    « s urs ». The letters are the text layer's (pdftotext); the lost signs
+    come from an OCR of the pages (Tesseract.js, French), aligned letter by
+    letter, and only where the OCR sees the layer's own punctuation plus
+    such a sign. Five gaps the OCR could not settle were set by hand from
+    the page (four « “… », one « l’enlèvement »).
+  - **63 A5 booklets printed two pages a sheet, in printing order**
+    (8 pages: 8|1, 2|7, 6|3, 4|5). A page-wide extraction interleaves the
+    two pages line by line. Each half-sheet was extracted on its own
+    (pdftotext, cropped) and put in reading order; the page number printed
+    on each half agrees for 62 and is offset by the two cover pages for
+    `ministeres_pasteur_A5`. All 63 are layouts of a text the corpus has,
+    and are folded (item 4).
+
+  The clean-up kept the words: for each of the 277, the share of the
+  extraction's 5-word shingles found in the cleaned text has a median of
+  0.98; the lowest (0.82 to 0.93, six « Sommaire » of 2005 to 2008) are
+  PDFs whose kerning cuts words (« v ersé »), which the model rejoined.
+  Three texts where it had spelled out the Bible abbreviations (« Gen. » to
+  « Genèse ») were run again and keep them. `local_pdf` is not set on the
+  new works: `96` uploads to R2, and that run is Samuel's; their pages link
+  the PDF on cmpp.ch.
+- **Item 3, the three errored works.** `lc56`, `serie1no8`, `serie4no6`
+  are cleaned; their title, subtitle, date, place and preacher are the
+  ones `76` wrote (the model's were left out of the cache before `73`),
+  their `local_pdf` was put back as `96` had written it. `lc56` failed
+  again in `72` for the reason it failed the first time: its last pages
+  hold a coupon, and the model copies the dot leaders until it runs out of
+  tokens; `74` now shortens them before the call. No file of
+  `markdown/cmpp/` is left without `llm_cleaned: true`.
+- **Item 4, the layouts.** `83b-cmpp-variants.mjs`: with the new works the
+  13 groups are **75**, and **90 files are duplicates** (23 the corpus
+  had, 67 new): 516 works, **426 built**. Every variant passes the body
+  check, none is left out: the lowest is 0.925 of
+  `exhortation_annee_2025_A5` in its A4. Keepers and duplicates are in
+  `manifests/cmpp-variants.json`. Where the id without a suffix is new
+  (`annee_2013`, `nouvelle_naissance`, `paille_et_froment`), the layout
+  the corpus had becomes its duplicate and its address redirects.
+- **Item 5.** The title page is the head of each text; the PDFs were read
+  where the head did not settle a question. Of the 107 works attributed to
+  William Branham, 98 print a day, and 96 of them the day their frontmatter
+  has; the two others are `serie4no6` (its cover carries the previous
+  issue's date, `76`) and `serie5no3` (two dates, below). The nine that
+  print no day are `la_profondeur`, `eden` and the eight tracts. Three
+  corrections, in `76b-cmpp-title-pages.mjs`, each with its line:
+
+  | id | field | before | after | the text |
+  | -- | ----- | ------ | ----- | -------- |
+  | `la_profondeur` | `date` | `1954-07-01` | none (`year: 1954` stays) | title page: « Juillet 1954 », « Washington D.C. — U.S.A. » |
+  | `islam` | `date` | `2001-01-01` | none (`year: 2001` stays) | « Auteur: Missionnaire Ewald Frank, Krefeld (Allemagne) Copyright © 2001 », and the text speaks of « le 8 octobre 2001 » |
+  | `eden` | `preacher` | William Branham | none | « Frère Branham certifie que la révélation qu’il a reçue sur le péché originel est l’entière vérité » : written about him; the tract is unsigned |
+
+  No English title was written into `subtitle`. Left for Samuel, nothing
+  changed:
+  - `savez-vous` and `quel_bapteme` (and their `_A4_traite` twins, now
+    duplicates) still say `preacher: "William Branham"`, and their own
+    text says otherwise: « Son nom est: William Marrion Branham. Il s’en est
+    allé comme il est venu (1909 – 1965) », « le ministère de Son serviteur
+    William Branham ». They are unsigned (the PDF's author field says
+    « CMPP »), so no name is put in his place without Samuel.
+  - `quand_dieu` and `le_bapteme_une_question_importante` (and twins)
+    name no one, neither as author nor in the text.
+  - `eden` has `location: "Krefeld"`, the model's; the tract gives only
+    the CMPP's address in Lausanne.
+  - `serie5no10` says « Phoenix, Indiana, U.S.A. »: so does the booklet
+    (« Phoenix — Indiana, U.S.A. »). Not corrected from memory.
+  - `serie5no3` prints two dates (« 21 février 1965, après-midi », Parkview
+    Junior High School, and « 18 avril 1965, soir », Branham Tabernacle);
+    its frontmatter has the second, and it is linked to 65-0418E by its
+    English title.
+  - The `preacher`, `date` and `location` of the 274 new works are the
+    model's, as those of the first 242 were: 264 Ewald Frank, 6 Alexis
+    Barilier, 2 Parfait M'bra, 2 none. A « Sommaire » or a letter dated
+    by its month has the first of the month as its date (`2013-01-01` for
+    « Janvier 2013 »), which is `12`'s and the pass's convention for the
+    source, and the same kind of date as the two corrected above.
+- **Same texts the suffix rule does not see**, found by comparing every
+  CMPP body with the others and with the Mevar sources; not folded, for
+  Samuel: `janvier1974`, `mars1974`, `juillet1974`, `octobre1974` are
+  `lc_janvier_1974`, `lc_mars_1974`, `lc_juillet_1974`,
+  `lc_octobre_1974` (0.96 to 0.97 both ways); `quanddieu` is `quand_dieu`
+  (0.90); `grace_verite_A4`, `votre_attention_A4` and `paille_et_froment`
+  are within `lc57`, `lc55` and `lc56` (0.92 to 0.94 of each);
+  `les_70_semaines_de_daniel` and `lc42` share most of their text (0.79,
+  0.89); `le_reveil_promis` is `mevar/le-reveil-promis-2006` (0.87, 0.93)
+  and `trois_visions` is
+  `mevar/trois-grandes-visions-du-message-de-la-fin-des-temps` (0.88, 0.91).
+- **Four older works keep an extraction fault**: « sœ ur » for « sœur »
+  in `serie6no4`, `serie6no5`, `mariage_frank` and `tragedie`. Their
+  bodies are not this goal's to change.
 - **Item 6, the links.** 107 translations: 97 linked (60 by the English
   title, 20 as the only sermon of their day, 16 by the time of day, 1
   decided), 1 decided to have no sermon, 9 unresolved. No sermon has two
@@ -216,7 +318,8 @@ need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
   `la_profondeur` is « The Deep Calleth to the Deep » (54-0624, Washington,
   D.C.; the booklet says « juillet 1954 »); `eden` is not a sermon of
   Branham's (« I guess you are right »; its `preacher` is not changed
-  here); `les_aigles_de_dieu`, he does not know.
+  here); `les_aigles_de_dieu`, he does not know. Since item 5, `eden` no
+  longer names William Branham, and the works attributed to him are 106.
 - **Four booklets print another time of day than the archive gives their
   sermon.** The English title decides, and Samuel may want to confirm:
   `serie1no2` (« matin ») is 65-0718E, `serie1no9` (« soir ») is 63-0707M,
@@ -230,7 +333,8 @@ need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
   (« Krefeld, mai 1985 », « Copyright © 1978 »). 30 stay. This is wider
   than the item as written (« unlinked works stay where they are »): Samuel
   asked why a dated text had « undated » in its address, and should
-  confirm the 77.
+  confirm the 77. Of the 274 new works, 30 moved the same way; 52 works
+  are under `cmpp/undated/` today, 17 of them duplicates.
 - **`local_pdf` did not move.** A moved work keeps the address of its PDF
   on files.mevar.org (`…/cmpp/undated/<id>.pdf`), which still answers. `96`
   names a PDF by its work's path: its next run would upload those PDFs
@@ -240,8 +344,11 @@ need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
   Le-Scribe summary of its sermon (Samuel's request); the sermon's page
   says « Traduction en français ». `100-ingest-surrealdb.mjs` still calls
   every CMPP work a `bible_study`: a line in `docs/follow-ups.md`.
-- **Idempotent.** A second run of `49b`, `65`, `47` and `50` changes
-  nothing. `160` rewrites its timestamp, as it does on `main`.
+- **Idempotent.** A second run of `12`, `20`, `67`, `76b`, `49b`, `83b`,
+  `65`, `47` and `50` changes nothing. `160` rewrites its timestamp, as it
+  does on `main`. `73` is not in that list: it writes a frontmatter whole
+  from its cache (gitignored), so after it `67`, `76b`, `49b`, `83b`, `65`,
+  `47`, `50` run again, and `96` for `local_pdf`.
 
 ### Still unresolved: 9
 
@@ -251,7 +358,7 @@ Answer in `scripts/cmpp-branham-decided.json`, `"<id>": "<branham id>"` or
 | id | Title | Title page | Why |
 | -- | ----- | ---------- | --- |
 | `les_aigles_de_dieu` | Les Aigles de Dieu | 4 mars 1960, après-midi, « God's Eagles » | the only sermon the archive has that day is 60-0304, « Thirsting for Life »; Samuel does not know |
-| `le_bapteme_une_question_importante` (and `_A4_traite`) | Le Baptême ? Une question importante ! | none | a tract, no date |
+| `le_bapteme_une_question_importante` (and `_A4_traite`; the four twins are duplicates since item 4) | Le Baptême ? Une question importante ! | none | a tract, no date |
 | `quand_dieu` (and `_A4_traite`) | Quand Dieu devint homme | none | a tract, no date |
 | `quel_bapteme` (and `_A4_traite`) | De quel baptême avez-vous donc été baptisé ? | none | a tract, no date |
 | `savez-vous` (and `_A4_traite`) | Le savez-vous… ? | none | a tract, no date |
@@ -276,3 +383,10 @@ Answer in `scripts/cmpp-branham-decided.json`, `"<id>": "<branham id>"` or
 - **Limit:** 15 USD (Samuel). Both figures are under it. The first call is
   one small text, to read the usage the API reports and check this
   estimate before the rest runs.
+
+**Spent: 1.52 USD**, read on the account's balance (29.15 USD before the
+first call, 27.63 after the last). `deepseek-chat` is still accepted and
+is served by `deepseek-flash`. The 277 works as they stand took 1.46
+million tokens in and 1.31 million out; the rest is the first pass on the
+63 booklets before their extraction was redone, the retries of five failed
+works and of the three with spelled-out abbreviations.

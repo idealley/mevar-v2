@@ -11,9 +11,11 @@ Find which docs exist on each source and collect their URLs.
 | `10-discover-branham.mjs`               | branham.org  | `manifests/branham-<year>.json`         |
 | `13b-branham-interact.js`               | branham.org  | one-shot all-years via Playwright       |
 | `11-discover-le-scribe.mjs`             | le-scribe.org | `manifests/le-scribe.json`             |
-| `12-discover-cmpp.mjs`                  | cmpp.ch      | `manifests/cmpp.json`                   |
+| `12-discover-cmpp.mjs`                  | cmpp.ch, by a plain fetch of its pages (home page and sitemap; on the Mac) | `manifests/cmpp.json`: an entry it has is kept as it is, a PDF it has not is added, an entry no longer linked on the site is kept and named |
 | `40-process-mevar.mjs`                  | firecrawl crawl → `markdown/mevar/` (later replaced by Ghost)   |
 | `45-process-ghost.mjs`                  | mevar Ghost export → final `markdown/mevar/` + tags + authors    |
+| `76b-cmpp-title-pages.mjs`              | what a CMPP work's own text says against the model's `date`, `preacher`: a hand-read table, into the frontmatter and `manifests/cmpp.json`. After 73 |
+| `83b-cmpp-variants.mjs`                 | the CMPP's layouts of one text (`_A4`, `_A5`, `_gc`, `_traite`) → `duplicate_of:` on all but one, when the bodies agree; every group in `manifests/cmpp-variants.json`. After 73 and 49b |
 | `49b-link-cmpp-branham.mjs`             | each CMPP translation of a Branham sermon → `original:` / `translation_fr:`, and its year folder; unresolved to `manifests/cmpp-branham-unresolved.json` |
 | `60-onedrive-inventory.mjs`             | onedrive/    | `manifests/onedrive-inventory.json` (sha1 dedup) |
 | `80-download-mevar-pdfs.mjs`            | mevar CDN    | `manifests/mevar-pdfs.json`             |
@@ -30,6 +32,8 @@ Find which docs exist on each source and collect their URLs.
 
 After parse, `.txt` files are renamed to `.md` and live under `markdown/<source>/...`.
 
+Two kinds of CMPP PDF a page-wide parse reads badly (goal 16, 77 of 274): a booklet printed two A5 pages a sheet in printing order (`Page rot: 90` in `pdfinfo`; each half-sheet is extracted on its own with `pdftotext -layout -x -W` and the halves put in reading order), and a font with no Unicode map for its apostrophes, dashes and quotes (the letters from the text layer, the lost signs from an OCR of the pages). LlamaParse rewrites words and is not used.
+
 ## Stage 3 — LLM cleanup + NER (DeepSeek V3)
 
 | Script                                   | Action                                                                      |
@@ -38,14 +42,14 @@ After parse, `.txt` files are renamed to `.md` and live under `markdown/<source>
 | `63-dedup-vs-mevar.mjs`                  | Jaccard fingerprint cross-source dup detection                              |
 | `64-add-frontmatter.mjs`                 | YAML frontmatter into each md                                               |
 | `71-llm-fanout.mjs`                      | onedrive: clean + structured NER via DeepSeek                              |
-| `72-llm-fanout-multi.mjs <source>`       | le-scribe / branham (English prompt) / mevar-pdfs                           |
-| `74-recover-errors.mjs <source>`         | retry with smaller chunks (default 25k chars) for stubborn fails            |
+| `72-llm-fanout-multi.mjs <source>`       | le-scribe / branham (English prompt) / mevar-pdfs / cmpp (only the entries its manifest does not mark `llm_cleaned`) |
+| `74-recover-errors.mjs <source>`         | retry with smaller chunks (default 25k chars) for stubborn fails; a coupon's dot leaders are shortened first |
 | `73-apply-llm.mjs <source>`              | apply LLM cache → markdown body + manifest fields; the model's "Unknown" is no value |
 | `76-add-missing-frontmatter.mjs`         | frontmatter for the ten works that had none (hand-read table) and their manifest entries, `manifests/local.json` for the two volumes; run 47, 49, 50 after |
 | `77-branham-date-location.mjs`          | Branham `date` and `year` from the sermon id, `location` from branham.org's year listing (cached in `.firecrawl/`), in manifests and frontmatter; run 50 after |
 | `67-normalize-preachers.mjs`             | every `preacher` to its display name in `scripts/preachers.mjs` (frontmatter + manifests); fails on an unknown spelling. Run after 73 |
 
-Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well below the $66 paper budget).
+Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well below the $66 paper budget). The 277 CMPP works of goal 16: 1.52 USD (2026-10, `deepseek-chat` served by `deepseek-flash`).
 
 ## Stage 4 — Bible reference normalization
 
@@ -115,7 +119,8 @@ committed and served from our domain (`web/public/images`, `web/public/files`).
 ## Stage 6b — PDFs and recordings on our domain
 
 73 rewrites a whole file from the manifest and its cache, so after it these run
-again: they set the fields that point at our copies.
+again: they set the fields that point at our copies. (For `cmpp`, 67, 76b, 49b,
+83b, 65 and 47 run again too.)
 
 | Script                         | Action                                                  |
 | ------------------------------ | ------------------------------------------------------- |
