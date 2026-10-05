@@ -10,16 +10,11 @@ import fs from "node:fs";
 import path from "node:path";
 import { citations as french, quoted } from "../../../scripts/65-normalize-bible.mjs";
 import { citations as english } from "../../../scripts/66-normalize-bible-en.mjs";
-import { chapterUrl, parseRef } from "./bible.mjs";
+import { refUrl } from "./bible.mjs";
 
 // Relative to web/, where the build runs.
 const recorded = JSON.parse(fs.readFileSync("../manifests/bible-refs.json", "utf8"));
 const root = path.resolve("..");
-
-function href(ref) {
-  const { book, chapter, verses } = parseRef(ref);
-  return chapterUrl(book, chapter) + (verses.length ? `#v${verses[0]}` : "");
-}
 
 export function rehypeBibleLinks() {
   return (tree, file) => {
@@ -50,7 +45,7 @@ export function rehypeBibleLinks() {
         nodes.push({
           type: "element",
           tagName: "a",
-          properties: { href: href(c.ref), className: ["underline", "decoration-dotted", "underline-offset-4"] },
+          properties: { href: refUrl(c.ref), className: ["bible-ref"] },
           children: [{ type: "text", value: c.text }],
         });
         at = c.index + c.text.length;

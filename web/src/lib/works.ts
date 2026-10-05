@@ -2,11 +2,13 @@
 // Centralised so category pages, the index, and search all behave consistently.
 
 import { getCollection } from "astro:content";
-import { deriveKind } from "./utils";
+import { deriveKind, formatDateShort } from "./utils";
 import ghostTags from "../../../manifests/mevar-tags.json";
 import bibleRefs from "../../../manifests/bible-refs.json";
 import { PREACHERS } from "../../../scripts/preachers.mjs";
+import { slug } from "github-slugger";
 import { parseRef } from "./bible.mjs";
+import { excerpt } from "./bookmarks.mjs";
 
 export type WorkEntry = Awaited<ReturnType<typeof getCollection<"works">>>[number];
 
@@ -93,6 +95,62 @@ function inCategory(e: WorkEntry, category: string): boolean {
   return CATEGORIES[category].kinds.includes(deriveKind(e.data));
 }
 
+/** The list a card names above its title and a work page leads back to: the first a work is in. */
+export function categoryOf(e: WorkEntry): { slug: string; title: string } | undefined {
+  const slug = Object.keys(CATEGORIES).find((c) => inCategory(e, c));
+  return slug ? { slug, title: CATEGORIES[slug].title } : undefined;
+}
+
+// ─── What a card and a work page show of a work ──────────────────────────────
+
+const KIND_LABEL: Record<string, string> = {
+  sermon: "Prédication",
+  exhortation: "Exhortation",
+  bible_study: "Étude biblique",
+  book: "Livre",
+  chapter: "Chapitre",
+  article: "Article",
+  testimony: "Témoignage",
+  communique: "Communiqué",
+};
+/** "Exhortation": what kind of text a work is, in one word. */
+export const kindLabel = (e: WorkEntry): string => KIND_LABEL[deriveKind(e.data)];
+
+/** Ghost posts name their preacher in `authors`, the other sources in `preacher`. */
+export const preacherOf = (e: WorkEntry): string | undefined => e.data.preacher ?? e.data.authors?.[0];
+
+/** Minutes to read the body, at 200 words a minute. */
+export const minutes = (e: WorkEntry): number => Math.max(1, Math.round((e.body?.split(/\s+/).length ?? 0) / 200));
+
+/** Its summary, or else the opening of its own words: a text often opens on a Scripture reading. */
+export const excerptOf = (e: WorkEntry): string | undefined => e.data.summary ?? excerpt((e.body ?? "").replace(/^>.*$/gm, ""));
+
+/** "Parfait M'bra   ·   41 min de lecture": what a card says of a work, on one line, spaced as the design spaces it. */
+export const dots = (...parts: unknown[]): string => parts.filter(Boolean).join("\u00a0\u00a0 · \u00a0\u00a0");
+
+/** The references a work cites, in the order it cites them (frontmatter, goal 12). */
+export const refsOf = (e: WorkEntry): string[] => (e.data.bible_refs as string[] | undefined) ?? [];
+
+/** "10 sept. 2026", or the year alone when that is all a work has. */
+export function shortDate(e: WorkEntry): string | undefined {
+  const d = entryDate(e);
+  return /^\d{4}-\d{2}-\d{2}/.test(d) ? formatDateShort(d.slice(0, 10)) : e.data.year ? String(e.data.year) : undefined;
+}
+
+/**
+ * What to read after a work: the next part of its series, then the texts
+ * that follow it (older) in its list, among Mevar's or among its own source's.
+ */
+export async function nextWorks(e: WorkEntry): Promise<WorkEntry[]> {
+  const all = await allWorks();
+  const category = categoryOf(e)?.slug;
+  const list = all.filter((o) => isMevar(o) === isMevar(e) && (isMevar(e) || o.data.source === e.data.source) && categoryOf(o)?.slug === category);
+  const at = list.findIndex((o) => o.id === e.id);
+  const part = e.data.series && all.find((o) => o.data.series === e.data.series && o.data.series_part === (e.data.series_part as number) + 1);
+  const after = [...list.slice(at + 1), ...list.slice(0, at)].filter((o) => o !== part);
+  return [...(part ? [part] : []), ...after].slice(0, 2);
+}
+
 /** A category's works: the Mevar ones, and the archive's by source. */
 export async function categoryWorks(category: string) {
   const all = await allWorks();
@@ -103,18 +161,23 @@ export async function categoryWorks(category: string) {
   return { mevar: works.filter(isMevar), archive };
 }
 
-/** Featured / pinned for the home page (recent Mevar works) */
-export async function recentMevar(limit = 6): Promise<WorkEntry[]> {
-  const all = await allWorks();
-  return all.filter(isMevar).slice(0, limit);
+/** The Mevar works, newest first: what the home page draws from. */
+export async function mevarWorks(): Promise<WorkEntry[]> {
+  return (await allWorks()).filter(isMevar);
 }
 
-/** Stats for the home page: Mevar only, a count per category and the total. */
-export async function corpusCounts() {
-  const all = (await allWorks()).filter(isMevar);
-  const c: Record<string, number> = { total: all.length };
-  for (const category of Object.keys(CATEGORIES)) c[category] = all.filter((e) => inCategory(e, category)).length;
-  return c;
+/** The series of the Mevar works, each in reading order, the one read most recently first. */
+export async function seriesList(): Promise<{ name: string; slug: string; parts: WorkEntry[] }[]> {
+  const byName = new Map<string, WorkEntry[]>();
+  for (const e of await mevarWorks()) {
+    const name = e.data.series as string | undefined;
+    if (name) byName.set(name, [...(byName.get(name) ?? []), e]);
+  }
+  return [...byName].map(([name, parts]) => ({
+    name,
+    slug: slug(name),
+    parts: parts.sort((a, b) => (a.data.series_part as number) - (b.data.series_part as number)),
+  }));
 }
 
 // ─── Ghost taxonomy ──────────────────────────────────────────────────────────
@@ -200,4 +263,17 @@ export async function bibleChapters(): Promise<Map<string, Chapter>> {
     c.verses.forEach(mevarFirst);
   }
   return map;
+}
+
+/** Every book a built work cites, in the Bible's order: the works citing it, and each chapter's. */
+export async function bibleBooks(): Promise<{ book: number; works: Set<WorkEntry>; chapters: { chapter: number; works: Set<WorkEntry> }[] }[]> {
+  const books = new Map<number, { book: number; works: Set<WorkEntry>; chapters: { chapter: number; works: Set<WorkEntry> }[] }>();
+  for (const c of (await bibleChapters()).values()) {
+    const b = books.get(c.book) ?? books.set(c.book, { book: c.book, works: new Set(), chapters: [] }).get(c.book)!;
+    const works = new Set([...c.whole, ...[...c.verses.values()].flat()]);
+    b.chapters.push({ chapter: c.chapter, works });
+    works.forEach((e) => b.works.add(e));
+  }
+  for (const b of books.values()) b.chapters.sort((x, y) => x.chapter - y.chapter);
+  return [...books.values()].sort((x, y) => x.book - y.book);
 }

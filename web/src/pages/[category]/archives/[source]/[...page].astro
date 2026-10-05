@@ -22,6 +22,6 @@ const title = `${CATEGORIES[category].title}, archives\u00a0: ${ARCHIVE_SOURCES[
 
 <Layout title={`${title} · Mevar`} description={`${page.total} documents`}>
   <CategoryGrid title={title} page={page}>
-    <p class="mt-10 text-sm"><a href={`/${category}/`} class="underline underline-offset-4">← {CATEGORIES[category].title} de la mission</a></p>
+    <p class="pt-10"><a href={`/${category}/`} class="chip">{CATEGORIES[category].title} de la mission</a></p>
   </CategoryGrid>
 </Layout>

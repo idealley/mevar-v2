@@ -1,0 +1,18 @@
+---
+import type { Page } from "astro";
+import Icon from "./Icon.astro";
+
+interface Props {
+  page: Page;
+}
+
+const { page } = Astro.props;
+---
+
+{page.lastPage > 1 && (
+  <nav class="flex items-center justify-between gap-4 pt-10 text-[13px] leading-4 text-ink-2 max-lg:pt-6" aria-label="Pagination">
+    {page.url.prev ? <a href={page.url.prev} class="chip items-center gap-2"><Icon name="arrow-left" /> Page précédente</a> : <span />}
+    <span class="max-lg:hidden">Page {page.currentPage} sur {page.lastPage}</span>
+    {page.url.next ? <a href={page.url.next} class="chip items-center gap-2">Page suivante <Icon name="arrow-right" /></a> : <span />}
+  </nav>
+)}

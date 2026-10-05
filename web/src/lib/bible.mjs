@@ -21,8 +21,17 @@ export function parseRef(ref) {
 /** The French name of a book: "Éphésiens". */
 export const bookName = (book) => BOOKS_FR[book][0];
 
-/** "/bible/ephesiens/4/" */
-export function chapterUrl(book, chapter) {
+/** "/bible/ephesiens/" */
+export function bookUrl(book) {
   const slug = bookName(book).normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().replaceAll(" ", "-");
-  return `/bible/${slug}/${chapter}/`;
+  return `/bible/${slug}/`;
+}
+
+/** "/bible/ephesiens/4/" */
+export const chapterUrl = (book, chapter) => `${bookUrl(book)}${chapter}/`;
+
+/** Where a reference is on its verse page: "Éphésiens 4:13" -> "/bible/ephesiens/4/#v13". */
+export function refUrl(ref) {
+  const { book, chapter, verses } = parseRef(ref);
+  return chapterUrl(book, chapter) + (verses.length ? `#v${verses[0]}` : "");
 }

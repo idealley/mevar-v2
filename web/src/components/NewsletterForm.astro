@@ -1,13 +1,15 @@
 ---
 // The "Publications" signup, posted to functions/api/subscribe.ts. `origin`
 // tells the two forms apart in Resend.
+import Icon from "./Icon.astro";
+
 interface Props {
   origin: "newsletter-footer" | "newsletter-page";
 }
 const { origin } = Astro.props;
 ---
 
-<form class="newsletter-form flex flex-col sm:flex-row gap-2 max-w-md" data-origin={origin}>
+<form class="newsletter-form flex max-w-full flex-wrap items-center justify-center gap-2.5" data-origin={origin}>
   <label class="sr-only" for={`email-${origin}`}>Adresse e-mail</label>
   <input
     id={`email-${origin}`}
@@ -15,13 +17,15 @@ const { origin } = Astro.props;
     type="email"
     required
     autocomplete="email"
-    placeholder="Votre adresse e-mail"
-    class="flex-1 rounded-md border bg-background px-3 py-2 text-sm"
+    placeholder="votre@email.com"
+    class="hair w-[330px] max-w-full rounded-full bg-surface px-[22px] py-[15px] text-[15px] leading-[18px] placeholder:text-muted"
   />
-  <button type="submit" class="rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground">
-    S'inscrire
+  <button type="submit" class="flex cursor-pointer items-center gap-2 rounded-full bg-accent-fill px-6 py-3.5 text-[15px] leading-[18px] font-semibold text-on-accent disabled:opacity-60">
+    S'abonner <Icon name="arrow-right" size={16} />
   </button>
-  <p class="text-sm sm:basis-full" role="status"></p>
+  <p class="mt-3 basis-full text-center text-[13px] leading-4 text-ink-2" role="status">
+    Pas de publicité, pas de partage d'adresse. Désabonnement en un clic.
+  </p>
 </form>
 
 <script>

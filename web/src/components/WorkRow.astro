@@ -1,0 +1,33 @@
+---
+// A work on one line, in a numbered list: its list, title, preacher, date
+// and reading time. Under 1024px, the title over the date and the time.
+import Icon from "./Icon.astro";
+import { categoryOf, dots, minutes, preacherOf, shortDate, workUrl, type WorkEntry } from "$lib/works";
+
+interface Props {
+  entry: WorkEntry;
+  n: number;
+}
+
+const { entry, n } = Astro.props;
+const date = shortDate(entry);
+const read = `${minutes(entry)} min de lecture`;
+const category = categoryOf(entry);
+---
+
+<li class="group relative flex items-center gap-[26px] border-t py-[21.5px] text-[13px] leading-4 text-ink-2 max-lg:py-[17px]">
+  <span class="w-[30px] text-xs leading-[15px] font-medium tracking-[1.4px] max-lg:hidden">{String(n).padStart(2, "0")}</span>
+  <div class="flex flex-1 flex-col gap-2 max-lg:gap-[7px]">
+    {category && <p class="cat max-lg:text-[9px] max-lg:tracking-[1.6px]">{category.title}</p>}
+    <h3 class="font-display text-[29px] leading-[33px] text-ink max-lg:text-[21px] max-lg:leading-[25px]">
+      <a href={workUrl(entry)} class="after:absolute after:inset-0">{entry.data.title ?? entry.id}</a>
+    </h3>
+    <p class="text-xs leading-[15px] lg:hidden">{dots(date, read)}</p>
+  </div>
+  <span class="min-w-[104px] max-lg:hidden">{preacherOf(entry)}</span>
+  <span class="w-24 text-right max-lg:hidden">{date}</span>
+  <span class="w-[126px] text-right max-lg:hidden">{read}</span>
+  <span class="hair flex size-10 items-center justify-center rounded-full text-ink group-first:bg-accent-fill group-first:text-on-accent group-first:shadow-none group-hover:bg-accent-fill group-hover:text-on-accent group-hover:shadow-none max-lg:hidden">
+    <Icon name="arrow-up-right" size={16} />
+  </span>
+</li>
