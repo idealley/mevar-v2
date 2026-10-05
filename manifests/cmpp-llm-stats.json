@@ -1,23 +1,11 @@
 {
   "stats": {
-    "total": 242,
-    "applied": 239,
-    "errored": 3,
+    "total": 516,
+    "applied": 277,
+    "errored": 0,
     "missing_cache": 0,
-    "no_change": 0
+    "no_change": 0,
+    "editorial_pass": 0
   },
-  "errors": [
-    {
-      "id": "lc56",
-      "reason": "chunk 5 failed"
-    },
-    {
-      "id": "serie1no8",
-      "reason": "terminated"
-    },
-    {
-      "id": "serie4no6",
-      "reason": "chunk 4 failed"
-    }
-  ]
+  "errors": []
 }

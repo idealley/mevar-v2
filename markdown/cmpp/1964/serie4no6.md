@@ -7,333 +7,129 @@ date: "1964-06-14"
 year: 1964
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
 preacher: "William Branham"
+summary: "Dans ce message, William Branham utilise l'analogie de l'original et de la reproduction pour exhorter les croyants à être authentiques dans leur foi. Il souligne que le monde considère les vrais chrétiens comme des originaux ou des fous à cause de Christ, mais que cette folie est la puissance de Dieu. Il encourage à rester fidèle à la Parole et à ne pas se conformer aux reproductions hybrides du christianisme moderne."
+tags:
+  - "original"
+  - "folie"
+  - "authenticité"
+  - "foi"
+  - "Parole"
+persons:
+  - "William Branham"
+  - "Paul"
+  - "Jésus"
+  - "Billy Dauch"
+  - "frère Troy"
+  - "Michel Ange"
+  - "Abraham Lincoln"
+  - "Patrick Henri"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Arizona"
+  - "Tucson"
+  - "Los Angeles"
+  - "Californie"
+  - "Topéka"
+  - "Kansas"
+  - "Philadelphie"
+  - "Kenya"
+  - "Tanganyika"
+  - "Ouganda"
+  - "Phoenix"
+  - "Prescott"
+themes:
+  - "original vs reproduction"
+  - "folie de la croix"
+  - "authenticité chrétienne"
+  - "sagesse du monde"
+  - "puissance de Dieu"
+  - "persécution"
+  - "foi vivante"
 pdf_url: "http://cmpp.ch/serie4no6.pdf"
+llm_cleaned: true
+original: "branham/1964/64-0614E"
 bible_refs:
   - "2 Corinthiens 12:11"
   - "1 Corinthiens 1:18"
   - "Matthieu 24:24"
 local_pdf: "https://files.mevar.org/cmpp/undated/serie4no6.pdf"
-original: "branham/1964/64-0614E"
 ---
-    SERIE 4, N° 6
+SERIE 4, N° 6
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
+WILLIAM MARRION BRANHAM
 
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
-
-  L’ORIGINAL
+L’ORIGINAL
 (The Oddball)
 
-
-
-
-     29 décembre 1963, soir
-       Branham Tabernacle
+29 décembre 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+L’ORIGINAL
+(The Oddball)
 
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    L’ORIGINAL        2
-
-                  L’ORIGINAL
-                  (The Oddball)
-
-
-
-       14 juin 1964, soir
-       Branham Tabernacle
+14 juin 1964, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
-
-
-
-1 Restons debout juste un petit instant. Bien-aimé Seigneur, nous venons de nouveau en Ta
-divine présence par le moyen de la prière, et nous voulons tout d’abord Te remercier pour tout ce
-que Tu as fait pour nous, ainsi que pour ce grand amour que Tu as mis dans notre coeur pour Toi
-et pour Ta Parole. Seigneur, ce soir ces gens que j’aime de tout mon coeur ont fait des sacrifices
-afin de venir dans cette pièce surchauffée et aux autres désagréments, parce qu’ils aiment Ta
-Parole.
-2 Et ce soir nous voulons prier pour les malades et les nécessiteux, Seigneur. Puisse-t-il ne
-plus y avoir une seule personne faible au milieu de nous à la fin de ce service. Récompense-les
-pour toute leur foi, Seigneur. Parle-nous au travers de Ta Parole, Seigneur, et affermis-nous tandis
-que nous supporterons tous Tes reproches. Quel privilège de pouvoir faire cela. Nous le
-demandons au Nom de Jésus. Amen. (Vous pouvez vous asseoir.)
-3 Je ne pourrais évidemment pas trouver de mots pour exprimer ma gratitude envers un groupe
-de gens tel que celui-ci qui vient de s’installer dans cet édifice. J’aimerais dire que demain ou lors
-de la prochaine réunion, nous irons à Topéka dans le Kansas. Et cela se terminera le dimanche
-suivant. Puis de là nous irons à Philadelphie. Ensuite nous serons censés aller outre-mer, au
-Kenya, au Tanganyika et en Ouganda, dans ces tribus là-bas. Il y a en ce moment un soulèvement
-avec les Mau Mau. Je ne pourrai pas aller là-bas comme missionnaire mais j’essaierai d’y aller en
-tant que chasseur.
-4 Habituellement je vais en tant que missionnaire et j’en profite pour chasser, mais cette fois-ci
-j’irai en tant que chasseur et je serai un missionnaire. Il faut employer tous les moyens pour
-parvenir jusqu’à eux. Et frère Mattsson-Boze travaille à cela, essayant de me faire entrer et de
-trouver un safari où je puisse aller chasser. Puis lorsque je serai dans ce safari, il dira: «Notre frère
-Branham est dans le pays (il ira à l’ambassade); verriez-vous un inconvénient à ce qu’il tienne une
-petite réunion là dehors?». Vous voyez? Cela permet de prendre un bon départ, ensuite tout ira
-comme sur des roulettes. Ainsi nous ne savons pas si cela se fera, si nous pourrons faire cela ou
-pas, mais nous essayons. Et j’ai demandé au Seigneur que si par hasard cela ne se faisait pas,
-cela soit un signe pour moi que je dois revenir à Jeffersonville pour prêcher sur les sept
-Trompettes, ce sera pour le mois de juillet ou d’août, environ à cette époque.
-5 Si nous faisons cela, nous nous occuperons aujourd’hui d’essayer d’avoir cette salle de
-classe avec air conditionné car cette fraîcheur serait très agréable. On peut asseoir de quinze
-cents à dix-huit cents personnes et il y a l’air conditionné; c’est un bâtiment flambant neuf situé à
-environ cinq blocs de maisons au-dessus d’ici. Nous l’avons demandé une fois et ils n’ont pas
-voulu nous le donner. Et celui qui ne voulait pas nous le laisser a été expulsé du conseil. Et
-maintenant celui qui l’a remplacé dit que nous pouvons l’avoir chaque fois que nous le voulons.
-Nous sommes donc très heureux de l’avoir. Nous pourrions ainsi l’avoir maintenant et vers le mois
-de juillet. Combien prieront pour cela? Et si c’est la volonté du Seigneur… A moins que quelque
-chose ne nous en empêche…
-6 J’aime l’Arizona, vous savez. C’est un merveilleux pays; j’ai toujours souhaité y vivre. (Frère
-Ben, si vous pouviez pousser un peu cela, s’il vous plaît. Ou si vous pouviez le monter un peu…
-Qu’y a-t-il? Oh, ce sont simplement les bandes! Oh, voilà l’autre là-haut, je suis désolé. Très bien,
-frère Ben.)
-
-http://www.cmpp.ch
-
-L’ORIGINAL 3
-7 Quand je reviens ici depuis l’Arizona, je suis un peu enroué à cause du changement de
-climat. Ici, nous avons environ 87 à 90 pour-cent, et parfois même 100 pour-cent d’humidité, tandis
-que là-bas cela reste à zéro pour-cent et cela atteint parfois une moyenne de 1/20 pour-cent
-d’humidité. C’est tout simplement comme si vous viviez sous une tente à oxygène. Ainsi quand
-vous sortez de là-bas pour venir ici, vous voyez quelle différence cela fait. Et cela vous détraque la
-voix et toutes ces choses… (mets-le là où il se trouvait, frère Ben, si tu veux, j’ai fait une erreur et
-je l’ai sorti. J’ai cru que c’était… mais le voici de nouveau où ils l’avaient mis.)
-8 Maintenant, priez tous pour nous. J’apprécie ce que vous faites pour moi. Billy me disait que
-quelqu’un avait apporté un panier de pêches et des petits cadeaux que vous… Je ne pourrai
-jamais assez vous remercier, je ne sais comment le faire. Et je me sens tellement indigne de
-prendre ces choses de votre part. Je prie Dieu qu’Il vous bénisse et je sais qu’Il le fera car Il a dit:
-“Tout ce que vous faites à l’un de ces petits, c’est à moi que vous l’avez fait”. Et Dieu vous bénira,
-j’en suis sûr.
-9 Et peu importe combien l’Arizona est un beau pays, il y a quelque chose qui me manquera,
-c’est vous tous. C’est juste! Vous me manquez tous. Peu importe où je vais, ce n’est pas comme
-si c’était vous. J’ai des amis tout autour du monde; mais ce n’est pas vous tous. Il y a quelque
-chose en ce petit groupe qui est simplement… Je ne sais pas. Mais je pense à eux.
-10 Tucson, vous savez, est une ville touristique et les églises cherchent à attirer…Vous savez
-cela? C’est vraiment dur. Ce n’est pas très spirituel car cette compétition est très forte et cela rend
-les choses difficiles. Si je pouvais vous avoir tous avec moi ainsi que l’église pour aller vivre
-là-bas, je pense que ce serait très bien. Vous voyez? Mais je suppose que tant que ceci restera
-une église et que vous continuerez à venir, je viendrai ici jusqu’à ce que Jésus revienne.
-11 Priez donc pour moi ainsi que je l’ai dit il y a un moment, Ce n’est pas mon intention de
-répéter cela, mais lorsque je suis devant vous, je deviens nerveux, mélancolique et sentimental, et
-aussi instable. C’est ma nature d’être ainsi et cela me déchire intérieurement. Mais de savoir que
-partout où je vais… Je ne connais pas un seul groupe sur terre qui me soit aussi attaché que
-celui-ci. Puisse Dieu nous laisser être, dans le Royaume à venir, aussi inséparables;
-puissions-nous être ensemble, c’est là ma prière.
-12 Il y a un instant je me trouvais près de la porte et je discutais avec Billy Dauch au sujet de
-quelqu’un qui se trouvait dans l’autre pièce et que nous voulions ramener à Christ. Mais pendant
-que je discutais avec lui (il a quatre-vingt-onze ans), il me dit: «Je deviens faible. Mes yeux ne sont
-pas ce qu’ils devraient être». Et je me souviens qu’il y a deux ans, j’étais allé vers lui alors qu’il
-avait eu une paralysie totale du coeur; son coeur était bloqué; il était mourant. Et le médecin
-même, qui le soignait et avait dit qu’il ne s’en sortirait pas, est mort. Et Billy Dauch est assis ici
-(vous voyez?); il a quatre-vingt-onze ans. Je lui dis: «Billy, pour ce qui est du travail et des choses
-ainsi, tu n’es plus d’aucune utilité, mais je me demande si le Seigneur ne t’a pas donné des forces
-parce que tu aimes tant les réunions». Cet homme de quatre-vingt-onze ans a traversé tout le
-pays en automobile, indifférent à la chaleur, la sécheresse, le froid et toutes ces choses pour
-entendre la Parole. Que Dieu bénisse cette âme vaillante.
-13 Je dois encore m’excuser de vous avoir gardés comme je l’ai fait ce matin durant trois heures.
-Et cela n’a servi de rien pour le message, car j’ai dû le partager, en laisser de côté et en sauter
-une partie. C’est pourquoi je leur ai dit de retenir la bande. Il faudrait que je puisse avoir de
-nouveau ce message dans un endroit où il fait frais. Et je pourrais ainsi sentir l’Esprit, mais lorsque
-je vous regarde, je vous vois vous éventer et je sais que vous avez très chaud, et cela me déchire
-de le voir. Je ne veux pas que vous souffriez, je veux que vous soyez à l’aise. Vous voyez? Et cela
-me préoccupe.
-14 C’est comme quand je vois des gens qui sont malades. Si je ne peux pas avoir de la
-compassion pour ces gens malades, je ne peux leur faire aucun bien. Je dois pouvoir
-compatir. Et c’est la même chose pour vous, je dois avoir de la compassion pour vous sinon je ne
-peux pas être votre frère. Vous voyez? Je dois pouvoir compatir. Et c’est ce que je fais, Dieu sait
-que c’est vrai!
-15 Et ce soir je prierai pour les malades. Je veux louer et bénir ces hommes comme frère Collins,
-frère Hickerson, frère Neville, frère Caps, les administrateurs et tous les autres, pour ces bons
-témoignages de votre ordre, de votre manière d’établir l’église et de tout mettre dans sa bonne
-position. Je vous en suis reconnaissant. Que le Seigneur vous bénisse pour tous vos efforts de
-
-        http://www.cmpp.ch
-
-L’ORIGINAL 4
-mise en ordre. J’ai reçu à Tucson lettre sur lettre me disant: «Frère Branham, ce n’est plus comme
-avant. C’est tellement différent. Il y a un sentiment tellement béni de la présence de Dieu». Et je
-suis reconnaissant pour cela. Que le Seigneur vous bénisse tous.
-16 Et ce soir j’aimerais lire un petit passage de l’Ecriture afin de pouvoir faire ressortir quelques
-paroles; je prendrai peut-être deux passages, puis je vous parlerai pendant un petit instant et nous
-prierons ensuite pour les malades. Cela ne prendra que quelques instants, je suis attentif à
-l’horloge. Et j’essaierai de faire cela aussi court que possible.
-17 Mais je crois réellement que lorsqu’une foule de gens est assemblée sans lire la Parole ni
-recevoir une exhortation ou quelque chose, la réunion n’est pas complète. Beaucoup parmi vous
-ont dû attendre; ce soir beaucoup parmi vous devront de nouveau faire des kilomètres et des
-kilomètres. Combien j’admire cela. Combien je vois et observe chacun de vous! Quand je me
-trouve là-bas en Arizona, je pense: «Lorsque je le reverrai, je descendrai directement là-bas; je lui
-toucherai la main et je le serrerai dans mes bras». Et vous êtes assis là, mais vers qui puis-je
-aller? Vous savez? Je ne sais tout simplement pas par qui commencer, je ne sais pas comment
-m’en sortir. Mais je vous aime. Dieu vous aime, Lui aussi.
-18 Maintenant je pense ne pas m’être trompé, je pense avoir le bon passage de l’Ecriture ici; je
-veux lire dans 1 Corinthiens au 1er chapitre depuis le verset 18 et je lirai aussi dans 2 Corinthiens 12.11 et ceci sera mon texte. Maintenant je vais essayer de trouver cela rapidement, puis nous le
-lirons et prierons. Commençons directement; je vais vous parler pendant quelques minutes sur un
-petit sujet, dans 1 Corinthiens, chapitre 1, verset 18:
-     “Car la parole de la croix est folie pour ceux qui périssent, mais à nous qui obtenons le
-     salut, elle est la puissance de Dieu. Car il est écrit: Je détruirai la sagesse des sages et
-     j’annulerai l’intelligence des intelligents. Où est le sage? où est le scribe? où est le
-     disputeur de ce siècle? Dieu n’a-t-il pas fait de la sagesse du monde… (puis-je lire cela
-     de nouveau?) Dieu n’a-t-il pas fait de la sagesse du monde une folie?… (qu’est donc la
-     sagesse du monde? une folie). Dieu n’a-t-il pas fait de la sagesse du monde une folie?
-     Car puisque, dans la sagesse de Dieu, le monde, par la sagesse, n’a pas connu Dieu, il a
-     plu à Dieu, par la folie de la prédication, de sauver ceux qui croient… (Puis-je lire de
-     nouveau ce verset? Ecoutez attentivement). Car, puisque, dans la sagesse de Dieu, le
-     monde, par la sagesse, n’a pas connu Dieu, il a plu à Dieu, par la folie de la prédication,
-     de sauver ceux qui croient; puisque les Juifs demandent des miracles et que les Grecs
-     recherchent la sagesse; mais nous, nous prêchons Christ crucifié, aux Juifs occasion de
-     chute, aux nations folie, mais à ceux qui sont appelés, et Juifs et Grecs, Christ la
-     puissance de Dieu et la sagesse de Dieu; parce que la folie de Dieu est plus sage que
-     les hommes, et que la faiblesse de Dieu est plus forte que les hommes”.
+1 Restons debout juste un petit instant. Bien-aimé Seigneur, nous venons de nouveau en Ta divine présence par le moyen de la prière, et nous voulons tout d’abord Te remercier pour tout ce que Tu as fait pour nous, ainsi que pour ce grand amour que Tu as mis dans notre coeur pour Toi et pour Ta Parole. Seigneur, ce soir ces gens que j’aime de tout mon coeur ont fait des sacrifices afin de venir dans cette pièce surchauffée et aux autres désagréments, parce qu’ils aiment Ta Parole.
+2 Et ce soir nous voulons prier pour les malades et les nécessiteux, Seigneur. Puisse-t-il ne plus y avoir une seule personne faible au milieu de nous à la fin de ce service. Récompense-les pour toute leur foi, Seigneur. Parle-nous au travers de Ta Parole, Seigneur, et affermis-nous tandis que nous supporterons tous Tes reproches. Quel privilège de pouvoir faire cela. Nous le demandons au Nom de Jésus. Amen. (Vous pouvez vous asseoir.)
+3 Je ne pourrais évidemment pas trouver de mots pour exprimer ma gratitude envers un groupe de gens tel que celui-ci qui vient de s’installer dans cet édifice. J’aimerais dire que demain ou lors de la prochaine réunion, nous irons à Topéka dans le Kansas. Et cela se terminera le dimanche suivant. Puis de là nous irons à Philadelphie. Ensuite nous serons censés aller outre-mer, au Kenya, au Tanganyika et en Ouganda, dans ces tribus là-bas. Il y a en ce moment un soulèvement avec les Mau Mau. Je ne pourrai pas aller là-bas comme missionnaire mais j’essaierai d’y aller en tant que chasseur.
+4 Habituellement je vais en tant que missionnaire et j’en profite pour chasser, mais cette fois-ci j’irai en tant que chasseur et je serai un missionnaire. Il faut employer tous les moyens pour parvenir jusqu’à eux. Et frère Mattsson-Boze travaille à cela, essayant de me faire entrer et de trouver un safari où je puisse aller chasser. Puis lorsque je serai dans ce safari, il dira: «Notre frère Branham est dans le pays (il ira à l’ambassade); verriez-vous un inconvénient à ce qu’il tienne une petite réunion là dehors?». Vous voyez? Cela permet de prendre un bon départ, ensuite tout ira comme sur des roulettes. Ainsi nous ne savons pas si cela se fera, si nous pourrons faire cela ou pas, mais nous essayons. Et j’ai demandé au Seigneur que si par hasard cela ne se faisait pas, cela soit un signe pour moi que je dois revenir à Jeffersonville pour prêcher sur les sept Trompettes, ce sera pour le mois de juillet ou d’août, environ à cette époque.
+5 Si nous faisons cela, nous nous occuperons aujourd’hui d’essayer d’avoir cette salle de classe avec air conditionné car cette fraîcheur serait très agréable. On peut asseoir de quinze cents à dix-huit cents personnes et il y a l’air conditionné; c’est un bâtiment flambant neuf situé à environ cinq blocs de maisons au-dessus d’ici. Nous l’avons demandé une fois et ils n’ont pas voulu nous le donner. Et celui qui ne voulait pas nous le laisser a été expulsé du conseil. Et maintenant celui qui l’a remplacé dit que nous pouvons l’avoir chaque fois que nous le voulons. Nous sommes donc très heureux de l’avoir. Nous pourrions ainsi l’avoir maintenant et vers le mois de juillet. Combien prieront pour cela? Et si c’est la volonté du Seigneur… A moins que quelque chose ne nous en empêche…
+6 J’aime l’Arizona, vous savez. C’est un merveilleux pays; j’ai toujours souhaité y vivre. (Frère Ben, si vous pouviez pousser un peu cela, s’il vous plaît. Ou si vous pouviez le monter un peu… Qu’y a-t-il? Oh, ce sont simplement les bandes! Oh, voilà l’autre là-haut, je suis désolé. Très bien, frère Ben.)
+7 Quand je reviens ici depuis l’Arizona, je suis un peu enroué à cause du changement de climat. Ici, nous avons environ 87 à 90 pour-cent, et parfois même 100 pour-cent d’humidité, tandis que là-bas cela reste à zéro pour-cent et cela atteint parfois une moyenne de 1/20 pour-cent d’humidité. C’est tout simplement comme si vous viviez sous une tente à oxygène. Ainsi quand vous sortez de là-bas pour venir ici, vous voyez quelle différence cela fait. Et cela vous détraque la voix et toutes ces choses… (mets-le là où il se trouvait, frère Ben, si tu veux, j’ai fait une erreur et je l’ai sorti. J’ai cru que c’était… mais le voici de nouveau où ils l’avaient mis.)
+8 Maintenant, priez tous pour nous. J’apprécie ce que vous faites pour moi. Billy me disait que quelqu’un avait apporté un panier de pêches et des petits cadeaux que vous… Je ne pourrai jamais assez vous remercier, je ne sais comment le faire. Et je me sens tellement indigne de prendre ces choses de votre part. Je prie Dieu qu’Il vous bénisse et je sais qu’Il le fera car Il a dit: “Tout ce que vous faites à l’un de ces petits, c’est à moi que vous l’avez fait”. Et Dieu vous bénira, j’en suis sûr.
+9 Et peu importe combien l’Arizona est un beau pays, il y a quelque chose qui me manquera, c’est vous tous. C’est juste! Vous me manquez tous. Peu importe où je vais, ce n’est pas comme si c’était vous. J’ai des amis tout autour du monde; mais ce n’est pas vous tous. Il y a quelque chose en ce petit groupe qui est simplement… Je ne sais pas. Mais je pense à eux.
+10 Tucson, vous savez, est une ville touristique et les églises cherchent à attirer…Vous savez cela? C’est vraiment dur. Ce n’est pas très spirituel car cette compétition est très forte et cela rend les choses difficiles. Si je pouvais vous avoir tous avec moi ainsi que l’église pour aller vivre là-bas, je pense que ce serait très bien. Vous voyez? Mais je suppose que tant que ceci restera une église et que vous continuerez à venir, je viendrai ici jusqu’à ce que Jésus revienne.
+11 Priez donc pour moi ainsi que je l’ai dit il y a un moment, Ce n’est pas mon intention de répéter cela, mais lorsque je suis devant vous, je deviens nerveux, mélancolique et sentimental, et aussi instable. C’est ma nature d’être ainsi et cela me déchire intérieurement. Mais de savoir que partout où je vais… Je ne connais pas un seul groupe sur terre qui me soit aussi attaché que celui-ci. Puisse Dieu nous laisser être, dans le Royaume à venir, aussi inséparables; puissions-nous être ensemble, c’est là ma prière.
+12 Il y a un instant je me trouvais près de la porte et je discutais avec Billy Dauch au sujet de quelqu’un qui se trouvait dans l’autre pièce et que nous voulions ramener à Christ. Mais pendant que je discutais avec lui (il a quatre-vingt-onze ans), il me dit: «Je deviens faible. Mes yeux ne sont pas ce qu’ils devraient être». Et je me souviens qu’il y a deux ans, j’étais allé vers lui alors qu’il avait eu une paralysie totale du coeur; son coeur était bloqué; il était mourant. Et le médecin même, qui le soignait et avait dit qu’il ne s’en sortirait pas, est mort. Et Billy Dauch est assis ici (vous voyez?); il a quatre-vingt-onze ans. Je lui dis: «Billy, pour ce qui est du travail et des choses ainsi, tu n’es plus d’aucune utilité, mais je me demande si le Seigneur ne t’a pas donné des forces parce que tu aimes tant les réunions». Cet homme de quatre-vingt-onze ans a traversé tout le pays en automobile, indifférent à la chaleur, la sécheresse, le froid et toutes ces choses pour entendre la Parole. Que Dieu bénisse cette âme vaillante.
+13 Je dois encore m’excuser de vous avoir gardés comme je l’ai fait ce matin durant trois heures. Et cela n’a servi de rien pour le message, car j’ai dû le partager, en laisser de côté et en sauter une partie. C’est pourquoi je leur ai dit de retenir la bande. Il faudrait que je puisse avoir de nouveau ce message dans un endroit où il fait frais. Et je pourrais ainsi sentir l’Esprit, mais lorsque je vous regarde, je vous vois vous éventer et je sais que vous avez très chaud, et cela me déchire de le voir. Je ne veux pas que vous souffriez, je veux que vous soyez à l’aise. Vous voyez? Et cela me préoccupe.
+14 C’est comme quand je vois des gens qui sont malades. Si je ne peux pas avoir de la compassion pour ces gens malades, je ne peux leur faire aucun bien. Je dois pouvoir compatir. Et c’est la même chose pour vous, je dois avoir de la compassion pour vous sinon je ne peux pas être votre frère. Vous voyez? Je dois pouvoir compatir. Et c’est ce que je fais, Dieu sait que c’est vrai!
+15 Et ce soir je prierai pour les malades. Je veux louer et bénir ces hommes comme frère Collins, frère Hickerson, frère Neville, frère Caps, les administrateurs et tous les autres, pour ces bons témoignages de votre ordre, de votre manière d’établir l’église et de tout mettre dans sa bonne position. Je vous en suis reconnaissant. Que le Seigneur vous bénisse pour tous vos efforts de mise en ordre. J’ai reçu à Tucson lettre sur lettre me disant: «Frère Branham, ce n’est plus comme avant. C’est tellement différent. Il y a un sentiment tellement béni de la présence de Dieu». Et je suis reconnaissant pour cela. Que le Seigneur vous bénisse tous.
+16 Et ce soir j’aimerais lire un petit passage de l’Ecriture afin de pouvoir faire ressortir quelques paroles; je prendrai peut-être deux passages, puis je vous parlerai pendant un petit instant et nous prierons ensuite pour les malades. Cela ne prendra que quelques instants, je suis attentif à l’horloge. Et j’essaierai de faire cela aussi court que possible.
+17 Mais je crois réellement que lorsqu’une foule de gens est assemblée sans lire la Parole ni recevoir une exhortation ou quelque chose, la réunion n’est pas complète. Beaucoup parmi vous ont dû attendre; ce soir beaucoup parmi vous devront de nouveau faire des kilomètres et des kilomètres. Combien j’admire cela. Combien je vois et observe chacun de vous! Quand je me trouve là-bas en Arizona, je pense: «Lorsque je le reverrai, je descendrai directement là-bas; je lui toucherai la main et je le serrerai dans mes bras». Et vous êtes assis là, mais vers qui puis-je aller? Vous savez? Je ne sais tout simplement pas par qui commencer, je ne sais pas comment m’en sortir. Mais je vous aime. Dieu vous aime, Lui aussi.
+18 Maintenant je pense ne pas m’être trompé, je pense avoir le bon passage de l’Ecriture ici; je veux lire dans 1 Corinthiens au 1er chapitre depuis le verset 18 et je lirai aussi dans 2 Corinthiens 12.11 et ceci sera mon texte. Maintenant je vais essayer de trouver cela rapidement, puis nous le lirons et prierons. Commençons directement; je vais vous parler pendant quelques minutes sur un petit sujet, dans 1 Corinthiens, chapitre 1, verset 18:
+> “Car la parole de la croix est folie pour ceux qui périssent, mais à nous qui obtenons le salut, elle est la puissance de Dieu. Car il est écrit: Je détruirai la sagesse des sages et j’annulerai l’intelligence des intelligents. Où est le sage? où est le scribe? où est le disputeur de ce siècle? Dieu n’a-t-il pas fait de la sagesse du monde… (puis-je lire cela de nouveau?) Dieu n’a-t-il pas fait de la sagesse du monde une folie?… (qu’est donc la sagesse du monde? une folie). Dieu n’a-t-il pas fait de la sagesse du monde une folie? Car puisque, dans la sagesse de Dieu, le monde, par la sagesse, n’a pas connu Dieu, il a plu à Dieu, par la folie de la prédication, de sauver ceux qui croient… (Puis-je lire de nouveau ce verset? Ecoutez attentivement). Car, puisque, dans la sagesse de Dieu, le monde, par la sagesse, n’a pas connu Dieu, il a plu à Dieu, par la folie de la prédication, de sauver ceux qui croient; puisque les Juifs demandent des miracles et que les Grecs recherchent la sagesse; mais nous, nous prêchons Christ crucifié, aux Juifs occasion de chute, aux nations folie, mais à ceux qui sont appelés, et Juifs et Grecs, Christ la puissance de Dieu et la sagesse de Dieu; parce que la folie de Dieu est plus sage que les hommes, et que la faiblesse de Dieu est plus forte que les hommes”.
 19 Et dans 2 Corinthiens, chapitre 12, verset 11, Paul dit:
-     “Je suis devenu insensé: vous m'y avez contraint; car moi, j’aurais dû être recommandé
-     par vous; car je n’ai été en rien moindre que les plus excellents apôtres, quoique je ne
-     sois rien”.
-20 Prions. Seigneur Jésus, puisses-Tu ce soir ajouter Ta bénédiction à ces quelques mots que
-prononça ce grand apôtre Paul en ces jours lointains; nous Te demandons cela afin que nous
-puissions prospérer en entendant ces paroles ce soir et en les appliquant à nos vies, afin que
-nous puissions être l’oeuvre de Dieu, faite de la manière qu’Il a choisie pour nous. Nous Te
-le demandons au Nom de Jésus. Amen.
-21 Ce soir, si le Seigneur le permet, je prêcherai pendant quelques minutes sur le sujet de
-l’original. Maintenant, ceci est un texte très brut et très dur mais qui exposera plus ou moins ce
-que je veux exprimer.
-22 Vous savez, aujourd’hui il se passe tellement de choses que les gens deviennent des
-originaux, comme nous les appelons. Si quelqu’un a déjà entendu cette expression, il saura qu’elle
-désigne une personne étrange, qui semble bizarre aux autres. Et il ne fait aucun doute que pour
-les autres nous sommes des gens bizarres.
-23 Un jour que je descendais dans la rue à Los Angeles en Californie, je vis une personne très
-étrange qui se comportait de manière bizarre. Cet homme descendait la rue sans précipitation
-mais comme s’il faisait une promenade de l’après-midi. J’allai de l’autre côté de la rue pourvoir ce
-qu’il faisait. Tout le monde tournait là autour et se moquait de lui à cause de son étrange
-
-        http://www.cmpp.ch
-
-L’ORIGINAL 5
-comportement. Je remarquai qu’un signe pendait devant lui. Et je voyais tous ces gens qui se
-moquaient de cet homme étrange et bizarre. C’est comme cela que je le remarquai. Et tandis que
-les gens le regardaient et se moquaient de lui, il semblait avoir un autre genre de sourire, un
-sourire de contentement. Les sourires que lui adressaient les autres étaient plutôt destinés à le
-ridiculiser. Mais il semblait satisfait de ce qu’il faisait.
-24 Eh bien, cela donne matière à penser lorsqu’un homme est satisfait de ce qu’il fait et
-croit que ce qu’il fait est juste. Bien qu’il semble être un original pour quelqu’un d’autre, il croit
-que ce qu’il fait est juste et il en est satisfait; qu’il reste donc ainsi. Et tandis que je m’approchais
-de cet homme, je remarquai qu’il y avait sur sa poitrine une plaque ou une pancarte sur laquelle
-était inscrit: «Je suis fou»; et en bas il y avait: «à cause de Christ!». En grandes lettres: «Je suis
-fou» et en bas «à cause de Christ!». Et tout le monde se moquait de cela.
-25 Et alors que le petit homme se frayait un chemin à travers la foule railleuse et poursuivait sa
-route, je me retournai pour voir ce qu’il y avait dans son dos. Il s’y trouvait un grand point
-d’interrogation et en dessous il y avait cette inscription: «Et vous, quelle sorte de fou êtes-vous
-donc?».
-26 Eh bien, je pensai: «Il y a quelque chose là-dedans». Vous voyez? Mais il semblait satisfait de
-pouvoir être un fou à cause de Christ. Et c’est là ce que Paul disait être devenu: un fou à cause de
-Christ.
-27 Un de mes très chers amis, frère Troy, des Hommes d’affaires du Plein Evangile, est
-charcutier. Il a attrapé une sorte de germe dans la main en coupant du porc… Je me demande si
-quelqu’un connaîtrait de quel germe il s’agit; c’est un germe qui dévore. Ils durent l’amputer de
-trois doigts afin de sauver sa vie. Et il n’a plus que deux doigts sur une main et pourtant il est resté
-boucher.
-28 Et il y avait là un jeune Allemand qui travaillait avec lui, un boucher qui avait débarqué à Los
-Angeles; et il essaya d’amener le jeune Allemand à Christ. Mais il disait qu’il était luthérien et que
-tout était en ordre pour lui. Il était satisfait d’être un chrétien car il appartenait à l’église luthérienne,
-comme il disait. Un soir, frère Troy eut le privilège de l’amener à l’église.
-29 Il s’appelait Henri. Et en allemand Henri se dit “Heinrich”; ils l’appelèrent donc Heini. Vous
-avez entendu cette expression. Il dit: «Heini, que dirais-tu de venir ce soir à l’église avec moi?».
-30 «Bien», dit-il, «je crois que j’irai». Il alla donc dans une réunion à l’ancienne mode où ils
-avaient une réunion de prière, il fut réellement convaincu et donna son coeur à Christ. Oh, le
-lendemain, le jeune Allemand était vraiment dans la joie. A chaque instant il se mettait à marcher
-dans le bâtiment et levait les mains en l’air en disant: «Loué soit Dieu! Merci Seigneur Jésus!». Et
-il attirait l’attention de tous.
-31 Vous voyez, il devint bizarre pour tous les bouchers. Et tandis qu’il coupait sa viande, il se
-mettait à penser au Seigneur et il commençait à crier de joie. Il posait son couteau, et il allait et
-venait dans les couloirs, non de manière hystérique, mais simplement en adorant Christ et disant:
-«Oh, combien je T’aime, Jésus!». Il allait et venait ainsi, vous savez.
-32 Et le patron vint et le vit agir ainsi. Et comme il allait et venait en criant de joie, le patron… Il
-n’avait même pas remarqué le patron, il pensait à Jésus. Et il recommença à lever les mains en
-l’air et les larmes roulaient sur ses joues; il disait: «Oh, Dieu, combien je T’aime!».
-Et le patron lui dit: «Heini, que vous est-il donc arrivé?». Il ajouta: «Tout le monde dans l’équipe
-parle de cela. Que vous est-il donc arrivé, Heini?».
+> “Je suis devenu insensé: vous m'y avez contraint; car moi, j’aurais dû être recommandé par vous; car je n’ai été en rien moindre que les plus excellents apôtres, quoique je ne sois rien”.
+20 Prions. Seigneur Jésus, puisses-Tu ce soir ajouter Ta bénédiction à ces quelques mots que prononça ce grand apôtre Paul en ces jours lointains; nous Te demandons cela afin que nous puissions prospérer en entendant ces paroles ce soir et en les appliquant à nos vies, afin que nous puissions être l’oeuvre de Dieu, faite de la manière qu’Il a choisie pour nous. Nous Te le demandons au Nom de Jésus. Amen.
+21 Ce soir, si le Seigneur le permet, je prêcherai pendant quelques minutes sur le sujet de l’original. Maintenant, ceci est un texte très brut et très dur mais qui exposera plus ou moins ce que je veux exprimer.
+22 Vous savez, aujourd’hui il se passe tellement de choses que les gens deviennent des originaux, comme nous les appelons. Si quelqu’un a déjà entendu cette expression, il saura qu’elle désigne une personne étrange, qui semble bizarre aux autres. Et il ne fait aucun doute que pour les autres nous sommes des gens bizarres.
+23 Un jour que je descendais dans la rue à Los Angeles en Californie, je vis une personne très étrange qui se comportait de manière bizarre. Cet homme descendait la rue sans précipitation mais comme s’il faisait une promenade de l’après-midi. J’allai de l’autre côté de la rue pourvoir ce qu’il faisait. Tout le monde tournait là autour et se moquait de lui à cause de son étrange comportement. Je remarquai qu’un signe pendait devant lui. Et je voyais tous ces gens qui se moquaient de cet homme étrange et bizarre. C’est comme cela que je le remarquai. Et tandis que les gens le regardaient et se moquaient de lui, il semblait avoir un autre genre de sourire, un sourire de contentement. Les sourires que lui adressaient les autres étaient plutôt destinés à le ridiculiser. Mais il semblait satisfait de ce qu’il faisait.
+24 Eh bien, cela donne matière à penser lorsqu’un homme est satisfait de ce qu’il fait et croit que ce qu’il fait est juste. Bien qu’il semble être un original pour quelqu’un d’autre, il croit que ce qu’il fait est juste et il en est satisfait; qu’il reste donc ainsi. Et tandis que je m’approchais de cet homme, je remarquai qu’il y avait sur sa poitrine une plaque ou une pancarte sur laquelle était inscrit: «Je suis fou»; et en bas il y avait: «à cause de Christ!». En grandes lettres: «Je suis fou» et en bas «à cause de Christ!». Et tout le monde se moquait de cela.
+25 Et alors que le petit homme se frayait un chemin à travers la foule railleuse et poursuivait sa route, je me retournai pour voir ce qu’il y avait dans son dos. Il s’y trouvait un grand point d’interrogation et en dessous il y avait cette inscription: «Et vous, quelle sorte de fou êtes-vous donc?».
+26 Eh bien, je pensai: «Il y a quelque chose là-dedans». Vous voyez? Mais il semblait satisfait de pouvoir être un fou à cause de Christ. Et c’est là ce que Paul disait être devenu: un fou à cause de Christ.
+27 Un de mes très chers amis, frère Troy, des Hommes d’affaires du Plein Evangile, est charcutier. Il a attrapé une sorte de germe dans la main en coupant du porc… Je me demande si quelqu’un connaîtrait de quel germe il s’agit; c’est un germe qui dévore. Ils durent l’amputer de trois doigts afin de sauver sa vie. Et il n’a plus que deux doigts sur une main et pourtant il est resté boucher.
+28 Et il y avait là un jeune Allemand qui travaillait avec lui, un boucher qui avait débarqué à Los Angeles; et il essaya d’amener le jeune Allemand à Christ. Mais il disait qu’il était luthérien et que tout était en ordre pour lui. Il était satisfait d’être un chrétien car il appartenait à l’église luthérienne, comme il disait. Un soir, frère Troy eut le privilège de l’amener à l’église.
+29 Il s’appelait Henri. Et en allemand Henri se dit “Heinrich”; ils l’appelèrent donc Heini. Vous avez entendu cette expression. Il dit: «Heini, que dirais-tu de venir ce soir à l’église avec moi?».
+30 «Bien», dit-il, «je crois que j’irai». Il alla donc dans une réunion à l’ancienne mode où ils avaient une réunion de prière, il fut réellement convaincu et donna son coeur à Christ. Oh, le lendemain, le jeune Allemand était vraiment dans la joie. A chaque instant il se mettait à marcher dans le bâtiment et levait les mains en l’air en disant: «Loué soit Dieu! Merci Seigneur Jésus!». Et il attirait l’attention de tous.
+31 Vous voyez, il devint bizarre pour tous les bouchers. Et tandis qu’il coupait sa viande, il se mettait à penser au Seigneur et il commençait à crier de joie. Il posait son couteau, et il allait et venait dans les couloirs, non de manière hystérique, mais simplement en adorant Christ et disant: «Oh, combien je T’aime, Jésus!». Il allait et venait ainsi, vous savez.
+32 Et le patron vint et le vit agir ainsi. Et comme il allait et venait en criant de joie, le patron… Il n’avait même pas remarqué le patron, il pensait à Jésus. Et il recommença à lever les mains en l’air et les larmes roulaient sur ses joues; il disait: «Oh, Dieu, combien je T’aime!».
+Et le patron lui dit: «Heini, que vous est-il donc arrivé?». Il ajouta: «Tout le monde dans l’équipe parle de cela. Que vous est-il donc arrivé, Heini?».
 33 Le jeune Allemand dit: «Oh, patron, gloire à Dieu, je suis sauvé!».
-     Il dit: «Vous êtes quoi?».
-     Il dit: «Je suis sauvé! Je suis allé à une petite mission là-bas avec frère Troy et j’ai été sauvé.
-Et Jésus est venu dans mon coeur et je suis tellement rempli d’amour!».
-     Il dit: «Vous êtes sûrement allé dans ce nid de toqués».
-     [en anglais le même mot “nut” qui signifie écrou signifie aussi “toqué”. — N.d.T.]
-34 Il dit: «Oui! Gloire à Dieu!». «Merci Seigneur pour les toqués!». Il ajouta: «Vous savez, si vous
-prenez une voiture qui descend la rue et que vous enleviez tous les écrous, il ne vous restera rien
-d’autre qu’un tas de ferraille».
-
-        http://www.cmpp.ch
-
-L’ORIGINAL 6
-35 Eh bien, tout ce que je sais, c’est que le jeune Allemand avait raison. Si vous enlevez tous les
-écrous… Les écrous tiennent le tout ensemble. Et je crois que c’est parfois ce qui tient l’église
-ensemble ainsi que la civilisation…
-36 Il y a quelques jours, en rentrant d’une visite à Prescott, j’observais le désert et je remarquai
-le nombre de jardins japonais qu’ils ont en dehors de Phoenix, et ils ont là des fleurs, de belles
-fleurs. Lorsque j’étais enfant, je gardais du bétail dans ces endroits-là. Il n’y avait pas d’herbe et
-les vaches vivaient simplement de cactus et de choses ainsi.
-37 Et je remarquai que l’on cherchait à développer les cultures dans le désert. Et nous voyons
-que dans le désert croissent les cactus et non les fleurs. Et dans l’appartement que nous louons…
-Soeur Larson, je crois qu’elle était ici ce matin, je l’ai vue. Elle a un parterre de fleurs à l’extérieur
-de la maison. Il n’y a que du sable. Elle a donc mis de la terre dans ces plates-bandes à fleurs de
-chaque côté du duplex. Et je dois sortir chaque matin pour arroser ces fleurs. Si je ne les arrose
-pas, elles meurent. Et je dois les vaporiser d’insecticide afin de les préserver des poux et des
-punaises qui les dévorent.
-38 Et si vous allez juste un peu plus haut, à environ dix mètres de là, des fleurs poussent, elles
-poussent dans le désert; et vous pourriez creuser à trente pieds de profondeur, cela ressemblerait
-à un puits de poussière, ce ne serait rien d’autre que de la poussière. Et il n’y a pas d’eau du tout.
-Et qui les vaporise? Vous voyez? Celles qui se trouvent dans les parterres de fleurs, si vous
-négligez de les vaporiser et de les arroser, les termites, ou les punaises, les poux les dévoreront.
-Mais les poux ne peuvent toucher celles qui sont là-bas dans le désert. Et elles n’ont pas non plus
-besoin d’être soignées et arrosées tous les jours. C’est une production du Créateur. Les autres
-sont une reproduction hybride.
-39 Et je crois que la raison pour laquelle le christianisme est devenu aujourd’hui une folie pour
-les hommes est que nous avons un paquet de reproductions et non d’authentiques chrétiens;
-nous avons un tas de reproductions qui doivent être soignées et vaporisées afin qu’elles
-restent dans l’église.
-40 Je peux imaginer la toute première Eglise, ce qu’ils étaient, et la comparer avec la
-reproduction d’aujourd’hui; ceci serait une reproduction bon marché de ce qu’était la véritable
-première Eglise, ces robustes croyants en Dieu remplis du Saint-Esprit. Vous n’aviez pas besoin
-de les soigner. Vous n’aviez pas besoin de les féliciter, ni de dire que vous les prendriez dans telle
-communauté. Aujourd’hui, s’ils sont lassés de l’une, ils iront dans une autre. Et vous en faites des
-diacres s’ils quittent telle communauté pour venir ici. Ceci est une reproduction hybride.
-41 Je pensais à la peinture originale de Michel Ange, je crois qu’il s’agit du “dernier souper”. Je
-crois que c’est lui qui l’a faite. Réalisez-vous ce que vous coûterait cette peinture originale? Un
-nombre incalculable de dollars ne pourraient acquérir cet original car il est au-dessus de tout prix,
-tant son estimation est haute. Mais vous pouvez en acheter une reproduction bon marché pour
-environ deux dollars.
-42 C’est pourquoi aujourd’hui les gens ne peuvent comprendre la vigueur des vrais, des
-authentiques croyants. Ceux-ci deviennent pour eux des toqués. Vous savez, le monde suit
-tellement ses ornières qu’à chaque instant vous avez besoin d’un toqué pour le redresser. Prenez
-quelqu’un d’un peu différent entrant en scène, et il devient un toqué pour cette génération.
-43 L’autre jour je réfléchissais et me demandais qui aujourd’hui n’est pas un toqué. Vous êtes
-toujours un toqué pour quelqu’un. Je crois que le monde devient complètement fou. Saviez-vous
-que c’est maintenant le temps où les gens ne peuvent plus distinguer ce qui est juste de ce
-qui est faux ni la vérité de l’erreur? Saviez-vous que les politiciens ne peuvent plus distinguer ce
-qui est juste de ce qui est faux? Voyez-vous comme ils restent silencieux face à ce vote
-concernant le retour de la Bible dans l’école? Ils ne savent pas de quel côté va souffler le vent de
-leur politique. Pensez à cela! J’ignore comment cela se passe maintenant en Indiana, mais dans
-l’état de l’Arizona il est contraire à la loi de lire la Bible à l’école. Je pense qu’il en est de même en
-Indiana ainsi que dans la quasi-totalité des Etats-Unis; cela parce que quelque femme infidèle
-changea tout le programme. Et souvenez-vous qu’il est contraire à la loi de lire la Bible dans nos
-écoles publiques; mais l’impôt des croyants permet l’enseignement des choses immorales dans
-les écoles.
-44 La politique… Nous avons besoin d’un autre Abraham Lincoln; nous avons besoin d’un autre
-Patrick Henri; nous avons besoin d’un Américain qui puisse tenir ferme sans considérer ce qu’est
-
-        http://www.cmpp.ch
+Il dit: «Vous êtes quoi?».
+Il dit: «Je suis sauvé! Je suis allé à une petite mission là-bas avec frère Troy et j’ai été sauvé. Et Jésus est venu dans mon coeur et je suis tellement rempli d’amour!».
+Il dit: «Vous êtes sûrement allé dans ce nid de toqués».
+[en anglais le même mot “nut” qui signifie écrou signifie aussi “toqué”. — N.d.T.]
+34 Il dit: «Oui! Gloire à Dieu!». «Merci Seigneur pour les toqués!». Il ajouta: «Vous savez, si vous prenez une voiture qui descend la rue et que vous enleviez tous les écrous, il ne vous restera rien d’autre qu’un tas de ferraille».
+35 Eh bien, tout ce que je sais, c’est que le jeune Allemand avait raison. Si vous enlevez tous les écrous… Les écrous tiennent le tout ensemble. Et je crois que c’est parfois ce qui tient l’église ensemble ainsi que la civilisation…
+36 Il y a quelques jours, en rentrant d’une visite à Prescott, j’observais le désert et je remarquai le nombre de jardins japonais qu’ils ont en dehors de Phoenix, et ils ont là des fleurs, de belles fleurs. Lorsque j’étais enfant, je gardais du bétail dans ces endroits-là. Il n’y avait pas d’herbe et les vaches vivaient simplement de cactus et de choses ainsi.
+37 Et je remarquai que l’on cherchait à développer les cultures dans le désert. Et nous voyons que dans le désert croissent les cactus et non les fleurs. Et dans l’appartement que nous louons… Soeur Larson, je crois qu’elle était ici ce matin, je l’ai vue. Elle a un parterre de fleurs à l’extérieur de la maison. Il n’y a que du sable. Elle a donc mis de la terre dans ces plates-bandes à fleurs de chaque côté du duplex. Et je dois sortir chaque matin pour arroser ces fleurs. Si je ne les arrose pas, elles meurent. Et je dois les vaporiser d’insecticide afin de les préserver des poux et des punaises qui les dévorent.
+38 Et si vous allez juste un peu plus haut, à environ dix mètres de là, des fleurs poussent, elles poussent dans le désert; et vous pourriez creuser à trente pieds de profondeur, cela ressemblerait à un puits de poussière, ce ne serait rien d’autre que de la poussière. Et il n’y a pas d’eau du tout. Et qui les vaporise? Vous voyez? Celles qui se trouvent dans les parterres de fleurs, si vous négligez de les vaporiser et de les arroser, les termites, ou les punaises, les poux les dévoreront. Mais les poux ne peuvent toucher celles qui sont là-bas dans le désert. Et elles n’ont pas non plus besoin d’être soignées et arrosées tous les jours. C’est une production du Créateur. Les autres sont une reproduction hybride.
+39 Et je crois que la raison pour laquelle le christianisme est devenu aujourd’hui une folie pour les hommes est que nous avons un paquet de reproductions et non d’authentiques chrétiens; nous avons un tas de reproductions qui doivent être soignées et vaporisées afin qu’elles restent dans l’église.
+40 Je peux imaginer la toute première Eglise, ce qu’ils étaient, et la comparer avec la reproduction d’aujourd’hui; ceci serait une reproduction bon marché de ce qu’était la véritable première Eglise, ces robustes croyants en Dieu remplis du Saint-Esprit. Vous n’aviez pas besoin de les soigner. Vous n’aviez pas besoin de les féliciter, ni de dire que vous les prendriez dans telle communauté. Aujourd’hui, s’ils sont lassés de l’une, ils iront dans une autre. Et vous en faites des diacres s’ils quittent telle communauté pour venir ici. Ceci est une reproduction hybride.
+41 Je pensais à la peinture originale de Michel Ange, je crois qu’il s’agit du “dernier souper”. Je crois que c’est lui qui l’a faite. Réalisez-vous ce que vous coûterait cette peinture originale? Un nombre incalculable de dollars ne pourraient acquérir cet original car il est au-dessus de tout prix, tant son estimation est haute. Mais vous pouvez en acheter une reproduction bon marché pour environ deux dollars.
+42 C’est pourquoi aujourd’hui les gens ne peuvent comprendre la vigueur des vrais, des authentiques croyants. Ceux-ci deviennent pour eux des toqués. Vous savez, le monde suit tellement ses ornières qu’à chaque instant vous avez besoin d’un toqué pour le redresser. Prenez quelqu’un d’un peu différent entrant en scène, et il devient un toqué pour cette génération.
+43 L’autre jour je réfléchissais et me demandais qui aujourd’hui n’est pas un toqué. Vous êtes toujours un toqué pour quelqu’un. Je crois que le monde devient complètement fou. Saviez-vous que c’est maintenant le temps où les gens ne peuvent plus distinguer ce qui est juste de ce qui est faux ni la vérité de l’erreur? Saviez-vous que les politiciens ne peuvent plus distinguer ce qui est juste de ce qui est faux? Voyez-vous comme ils restent silencieux face à ce vote concernant le retour de la Bible dans l’école? Ils ne savent pas de quel côté va souffler le vent de leur politique. Pensez à cela! J’ignore comment cela se passe maintenant en Indiana, mais dans l’état de l’Arizona il est contraire à la loi de lire la Bible à l’école. Je pense qu’il en est de même en Indiana ainsi que dans la quasi-totalité des Etats-Unis; cela parce que quelque femme infidèle changea tout le programme. Et souvenez-vous qu’il est contraire à la loi de lire la Bible dans nos écoles publiques; mais l’impôt des croyants permet l’enseignement des choses immorales dans les écoles.
+44 La politique… Nous avons besoin d’un autre Abraham Lincoln; nous avons besoin d’un autre Patrick Henri; nous avons besoin d’un Américain qui puisse tenir ferme sans considérer ce qu’est
 
 L’ORIGINAL 7
 la politique, et appeler juste ce qui est juste et faux ce qui est faux.
@@ -915,7 +711,7 @@ chrétiens de Chicago, j’ai dit à cette soeur sous l’inspiration du Saint-E
 
         http://www.cmpp.ch
 
-    L’ORIGINAL            17
+L’ORIGINAL            17
 côté et ne pouvait même pas se tenir debout. Je lui dis: «Soeur, vous ne vous en débarrasserez
 pas immédiatement mais vous irez bien. Cela peut prendre dix-huit mois comme deux ans. Mais
 déjà présent sur ce tabouret vous allez vous sentir bien”.
@@ -962,20 +758,20 @@ Certainement Il le fera, croyez simplement en Lui. Ayez foi en Lui, n’ayez pas
 sujet, croyez en Lui!
 142 Priez pour moi. Lorsque vous n’aurez plus à prier pour personne, souvenez-vous simplement
 de moi. Et alors…
-        Jusqu’au revoir, jusqu’au revoir,
-        Jusqu’au revoir (merci d’être venus de si loin; que Dieu vous protège, tandis
-        que vous rentrez à la maison!)
-        Jusqu’au revoir (saluez tous les chrétiens, saluez-les de la part de ce groupe ici.
-        Que la paix de Dieu repose sur vous. Shalom!)
-        Que Dieu soit avec vous jusqu’à la prochaine rencontre.
-     [Frère Branham commence à fredonner le chant et chante par intermittence.]
-        … aux pieds de Jésus;
-        Jusqu’au revoir, jusqu’au revoir,
+> Jusqu’au revoir, jusqu’au revoir,
+> Jusqu’au revoir (merci d’être venus de si loin; que Dieu vous protège, tandis
+> que vous rentrez à la maison!)
+> Jusqu’au revoir (saluez tous les chrétiens, saluez-les de la part de ce groupe ici.
+> Que la paix de Dieu repose sur vous. Shalom!)
+> Que Dieu soit avec vous jusqu’à la prochaine rencontre.
+[Frère Branham commence à fredonner le chant et chante par intermittence.]
+> … aux pieds de Jésus;
+> Jusqu’au revoir, jusqu’au revoir,
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 L’ORIGINAL 18
-        Que Dieu soit avec vous jusqu’à la prochaine rencontre.
+> Que Dieu soit avec vous jusqu’à la prochaine rencontre.
 143 Je suis tellement content. Vous voyez, il y a beaucoup de choses que je ne connais pas, mais
 il en est d’autres que je connais. Je suis tellement reconnaissant pour vous. Je suis tellement
 reconnaissant d’être associé avec vous. Je suis tellement heureux d’être l’un de vous. Que Dieu
@@ -987,17 +783,17 @@ sommes contents de l’avoir parmi nous. Frère Don Ruddell est assis là-bas. O
 Je ne sais pas. Si j’ai oublié quelqu’un… Frère Ben Bryant est ici. Et beaucoup d’autres sont ici, il
 y a notre chère frère Williard Collins. Nous sommes tellement heureux de vous avoir tous ici. Je
 me demande si nous pourrions nous lever un instant. Inclinons la tête maintenant.
-        Jusqu’au revoir, jusqu’au revoir,
-        Jusqu’au revoir aux pieds de Jésus (jusqu’au revoir);
-        Jusqu’au revoir, jusqu’au revoir,
-        Que Dieu soit avec vous jusqu’au revoir.
+> Jusqu’au revoir, jusqu’au revoir,
+> Jusqu’au revoir aux pieds de Jésus (jusqu’au revoir);
+> Jusqu’au revoir, jusqu’au revoir,
+> Que Dieu soit avec vous jusqu’au revoir.
 145 Sentez-vous cette proche communion que nous avons avec l’Esprit? Fredonnons-le:
-     [Frère Branham parle tandis que l’assemblée fredonne — N.d.R.]
-     (J’ai remarqué que frère Mc Kinney de l’Ohio était avec nous; il y a aussi frère John Martin et
+[Frère Branham parle tandis que l’assemblée fredonne — N.d.R.]
+(J’ai remarqué que frère Mc Kinney de l’Ohio était avec nous; il y a aussi frère John Martin et
 son frère. Je suis tellement heureux de vous avoir tous. Frères, il se peut que je ne vous voie
 même pas, mais Lui vous connaît).
-        … jusqu’au revoir! (Puissent mon coeur et le vôtre être un avec le coeur de Dieu
-        jusqu’à ce que nous nous revoyons).
+> … jusqu’au revoir! (Puissent mon coeur et le vôtre être un avec le coeur de Dieu
+> jusqu’à ce que nous nous revoyons).
 146 Tandis que nous inclinons la tête pour la prière, faites en sorte que chaque pasteur sache que
 nous sommes heureux de sa présence ici. Vous, tous les laïcs du Tennessee, de l’Ohio et de tout
 le pays… Il y a quelques femmes que j’ai rencontrées aujourd’hui et qui ont fait tout le chemin
@@ -1009,13 +805,4 @@ proche qu’un frère même».
 rencontre dans quelques jours. Je vais demander à notre bon et loyal frère Richard Blair s’il ne
 voudrait pas nous congédier par une parole de prière. Frère Blair.
 
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch
+http://www.cmpp.ch

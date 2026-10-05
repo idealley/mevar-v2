@@ -7,7 +7,42 @@ date: "1965-01-24"
 year: 1965
 location: "Ramada Inn, Phoenix, Arizona, U.S.A."
 preacher: "William Branham"
+summary: "Message prêché par William Branham le 24 janvier 1965 à Phoenix, Arizona, sur les douleurs de l'enfantement comme type de la naissance spirituelle et de la transition de la loi à la grâce. Il souligne que l'eau, le sang et l'Esprit correspondent à la justification, la sanctification et le baptême du Saint-Esprit, et que l'Église a besoin d'être réveillée par l'Évangile."
+tags:
+  - "nouvelle naissance"
+  - "souffrance"
+  - "Saint-Esprit"
+  - "Église"
+  - "Évangile"
+persons:
+  - "William Branham"
+  - "Jésus"
+  - "Danny Henri"
+  - "Carl Williams"
+  - "Demos"
+  - "Florence"
+  - "Shakarian"
+  - "Victor Le Deaux"
+  - "Billy"
+  - "Jack"
+places:
+  - "Phoenix"
+  - "Arizona"
+  - "Californie"
+  - "Louisiane"
+  - "Terre Sainte"
+  - "Golgotha"
+themes:
+  - "douleurs de l'enfantement"
+  - "naissance spirituelle"
+  - "justification"
+  - "sanctification"
+  - "baptême du Saint-Esprit"
+  - "réveil de l'Église"
+  - "simplicité de l'Évangile"
 pdf_url: "http://cmpp.ch/serie1no8.pdf"
+llm_cleaned: true
+original: "branham/1965/65-0124"
 bible_refs:
   - "Jean 16"
   - "Jean 16:21"
@@ -25,613 +60,218 @@ bible_refs:
   - "Matthieu 24:24"
   - "Luc 17:28"
 local_pdf: "https://files.mevar.org/cmpp/undated/serie1no8.pdf"
-original: "branham/1965/65-0124"
 ---
-    SERIE 1 N° 8
+Courbons nos têtes.
 
+Dieu Bien-aimé, aujourd'hui, nous te sommes très reconnaissants de l'effusion de Ta présence au milieu de nous. Cet après-midi, nous comptons qu'elle se fera sentir puissamment et avec abondance. Nous Te remercions de ce cantique merveilleux que cette chère chrétienne vient de nous chanter, et de l'interprétation que Tu nous en as donnée par Ton Esprit qui est descendu ici. Seigneur, qu'il en soit ainsi, nous t'en prions. Oh Dieu! je Te demande de bénir chacun d'entre nous. Que nos coeurs soient remplis de joie, lorsque nous le verrons s'accomplir. Dieu Bien-aimé, cet après-midi, nous te demandons, s'il existe ici quelqu'un qui ne soit pas prêt à Te rencontrer, que cette heure soit celle où il puisse prendre cette décision définitive et entrer en Toi, par la nouvelle naissance. Accorde-le, je Te prie.
 
+Seigneur, bénis tous ceux d'entre nous qui, depuis longtemps, avons suivi Ton chemin. Nous Te prions de nous enseigner de nouvelles choses par Ta parole. Que par Ton Esprit, Seigneur, Tu nous donnes un meilleur entendement. Qu'il vienne et interprète la Parole. Le seul interprète que nous ayons, c'est l'Esprit. Nous prions pour qu'Il nous accorde cela aujourd'hui. Nous Te le demandons dans le Nom de Jésus. Amen.
 
+[Un message est donné par quelqu'un, dans l'auditoire — N.d.R.]
 
-    LA PAROLE PARLEE
+[Sur l'estrade, quelqu'un s'entretient avec le frère Branham — N.d.R.] Merci. Quel moment! Je ne connais pas de meilleur endroit où je puisse me trouver, si ce n'est dans le ciel, car ici nous ressentons vraiment cette onction. Comprenez-vous? En Christ, nous sommes assis tous ensemble dans les lieux célestes.
 
-    PAR
+Que Dieu bénisse la soeur Florence. Elle est en train de passer par un temps d'ombres et de tristesse, car son père vient de lui être enlevé, et je prie que Dieu bénisse cette enfant.
 
-    WILLIAM MARRION BRANHAM
+Egalement le frère Demos, car c'est sur lui que repose le poids de toutes ces conventions et autres soucis. Il a besoin lui aussi de nos prières. Que Dieu bénisse le frère Shakarian.
 
+Frère Carl Williams, je suis si heureux d'assister à cette convention avec toi, et parmi tous ces chers frères. J'ai déjà eu le privilège de rencontrer certains d'entre vous. Aujourd'hui (pour autant que je le sache), j'arrive au terme de mon service, alors je m'attends à pouvoir serrer les mains de quelques-uns de ces braves gens et à faire leur connaissance. Je compte bien passer l'Eternité avec eux dans un monde meilleur.
 
+Juste une petite chose — j'espère que je ne serai pas mal compris. Bien. Je ne pense pas qu'il s'agisse là d'une coïncidence, mais je crois que c'est providentiel: hier, ici, un de mes amis, Danny Henri, m'a remis un cadeau. C'était un garçon… Un jour, je tenais une réunion en Californie, dans la Convention des hommes d'affaires chrétiens. Je parlais très sévèrement sur les conditions actuelles, et j'espère que chacun puisse le comprendre — ce n'est pas que j'aie de mauvais sentiments dans le coeur. Ce n'est pas cela. Vous comprenez certainement que ce n'était pas mon intention. Mais je dois dire ce que je reçois.
 
+Après cela, ce jeune homme, un frère Baptiste — qui était, je crois, apparenté à une star de cinéma — vint à moi. Il m'entoura de ses bras, et il me dit: «Que le Seigneur vous bénisse, frère Branham! j'aimerais seulement dire une prière». Et il commença à parler en français, alors qu'il ne savait pas un mot de français. Alors, une femme de forte taille qui venait, je crois, de la Louisiane, se leva et dit: «C'est du français!». Puis, tout au fond, un homme dit: «C'est du français!». Et ils inscrivirent sur une feuille de papier ce qui avait été dit. J'en ai ici la copie originale. Alors, il se trouva que, du fond de la salle, un jeune homme s'avança (il désirait voir ce qu'ils avaient écrit); c'était un interprète de l'O.N.U. pour le français — et il constata que c'était véritablement du français!
 
-LES DOULEURS DE
-L’ENFANTEMENT
-      (Birth Pains)
+J'aimerais vous lire cette note. C'est l'écrit original de cet homme qui l'a interprété. Je ne puis pas prononcer exactement son nom: Le Deaux, Victor Le Deaux. C'est un pur Français. Voici donc ce message:
 
+> «Parce que tu as choisi le sentier étroit, le chemin le plus difficile, parce que tu y as marché de ton propre gré que tu as pris la décision correcte et précise, et parce qu'elle est Mon chemin; à cause de cette importante décision, voici, une portion du Ciel t'attend. Quelle glorieuse décision a été la tienne! Elle est en elle-même ce qui donnera une immense victoire, qui s'accomplira dans l'amour divin».
 
+Quand je reçus cela… Vous savez, quand j'entendis pour la première fois des personnes parler en langues — sans vouloir rien critiquer, car j'en ai entendu des authentiques — je n'étais pas toujours sûr. Mais, quand cela se produisit, et que je sus quel était le message qu'il contenait, alors je reconnus qu'il venait de Dieu.
 
-24 janvier 1965, après-midi
-         Ramada Inn
- Phoenix — Arizona, U.S.A.
+C'est son frère (un avocat renommé), qui est assis là; c'est lui qui m'a remis ce cadeau de Danny. Danny vient de quitter la Terre Sainte. Et là-bas, il s'est allongé dans le tombeau où Jésus avait été placé après Sa mort. Quand il fit cela, il se mit à penser à moi. L'Esprit du Seigneur vint sur lui. Puis il alla sur le Mont de Golgotha où eut lieu la crucifixion. Il y prit un morceau de rocher. Quand il rentra à la maison, il en fit faire une paire de boutons de manchettes; ils me sont très chers. Et maintenant ceci — évidemment, Danny ignorait cela — mais ce matin, lorsque j'étais en prière, mon regard se posa sur chacun d'eux. Si vous le remarquez, chacun, de ces boutons de manchettes est de couleur sang, et une ligne droite traverse chacun d'eux. Comme cela s'accorde exactement avec le message de Dieu, donné ici: Celui d'une route droite et étroite! Je pensai qu'il y avait là quelque chose de providentiel. Tous mes vifs remerciements à Danny! Vous lui direz, frère, combien j'apprécie cela.
 
+Voici une autre chose étrange. Je demandais à ma femme, l'autre matin… J'avais enfilé une chemise dont les poignets devaient se fermer avec des boutons de manchettes, et ma femme me dit: «J'ai oublié de prendre les boutons de manchettes!». Ainsi, le Seigneur venait de m'en procurer une paire!
 
+Oh, c'est une vie glorieuse! n'est-ce pas frères? Il suffit seulement de marcher dans la simplicité de l'Evangile. Et cependant, dans sa simplicité, c'est la plus grande chose que je connaisse. Il n'y a rien de plus grand que la simplicité. Et parce que c'était fait aussi simplement, j'ai eu le bonheur d'y entrer — par la grâce de Dieu.
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+Cet après-midi, je ne veux pas vous retenir trop longtemps ici, sachant que ce soir, vous vous rendrez dans vos églises respectives. Je pense que vous tous, visiteurs qui êtes ici, devriez parcourir l'estrade des yeux et vous y verriez ces prédicateurs qui seraient heureux de vous avoir à leur réunion, ce soir. Ils vous feront du bien. Sans doute, ce matin, vous avez assisté dans cette ville à quelque école du dimanche. Pendant que nous avons ces conventions (celles des hommes d'affaires du Plein Evangile), il est de notre devoir de donner à nos églises tout le soutien possible, car elles sont le lieu où se rendent nos hommes d'affaires chrétiens. C'est la maison de Dieu. J'espère que ce soir, vous irez dans une de ces églises.
 
-    LES DOULEURS DE L’ENFANTEMENT    2
+Demain soir, ce sera je crois la fin de cette Convention. Et je pense qu'on a annoncé qui parlerait. Dieu voulant, je serai là pour écouter son message. Que Dieu bénisse chacun de vous!
 
+Maintenant, je ne prétends pas être un prédicateur. Je ne possède pas une éducation suffisante pour m'attribuer le titre de prédicateur. Quand on parle d'un prédicateur, on s'attend à ce qu'il possède quelques diplômes universitaires. Moi, je n'en possède aucun. Ce que je possède, c'est une petite fronde. J'essaie de rechercher la brebis malade, afin de la ramener, si je le puis, au pâturage du Père.
 
-LES DOULEURS DE L’ENFANTEMENT
-        (Birth Pains)
+Si je fais des erreurs, pardonnez-moi. Je ne suis pas un théologien. Je ne critique pas les théologiens. La théologie est une bonne chose. Nous en avons besoin. Mais parfois, je critique la condition dans laquelle nous sommes tombés. Cela ne s'adresse à aucune personne en particulier. Cela concerne seulement le Message. J'aurai souhaité n'avoir pas eu à le donner. Cela me déchire, parce que — vous savez ce que vous éprouveriez.
 
+Qu'en est-il de vos propres enfants? Voyez-vous, ne détestez vous pas gronder votre enfant, le faire hurler, ou choses pareilles? Moi-même, je suis père, et je sais ce que cela signifie. Et je suis sûr que vous me pardonnez.
 
+Je désire que vous fassiez comme ceci: Quand vous prendrez place ici cet après-midi, je vous demanderai une faveur. J'ai pris seulement quelques notes, comme je vous l'ai déjà dit. Je dois noter et écrire mes versets. Autrefois, je pouvais presque citer la Bible par coeur, mais plus maintenant. J'ai eu tant de dures batailles! Et puis, je suis maintenant trop vieux pour cela. Je suis certain que, cet après-midi, vous m'écouterez un tout petit moment, et que tout simplement, vous ouvrirez réellement votre coeur pour essayer de comprendre ce que je serai en train de faire ressortir. Je pense que cela serait mieux — tout particulièrement pour les pasteurs de cette ville, et pour ceux des autres endroits. Je suis persuadé que vous m'écouterez très attentivement.
 
- 24 janvier 1965, après-midi
-          Ramada Inn
-  Phoenix — Arizona, U.S.A.
+Et maintenant, faites cela. Vous ferez comme moi, quand je mange ma tarte préférée: celle aux cerises; et ma viande préférée: le poulet. Quand je suis en train de me régaler d'une tranche de tarte aux cerises, et que je trouve un noyau, je ne vais pas, pour autant, m'arrêter de manger ma tarte! Je mets le noyau de côté, et je continue à manger ma tarte. Lorsque je trouve un os de poulet, je ne jette pas le poulet; je mets seulement l'os de côté.
 
+Ainsi, si je vous dis quelque chose avec quoi vous n'êtes pas d'accord, mettez de côté ce passage — mais regardez-le vraiment bien. Soyez sûr que c'est un os! Et alors, puis-je vous dire également que si cela se trouve être un noyau rappelez-vous qu'il apporte la vie nouvelle. Alors, examinez tout cela de très près, et que le Seigneur vous bénisse!
 
+L'autre soir, le frère Carl Williams a dit quelque chose au sujet de la prière pour les malades, ce qui serait très bien. Je reconnais que ce serait très bien. Mais nous ne sommes pas préparés pour cela, c'est-à-dire pour faire une ligne de prière. Et je ne sais pas si le frère Oral ou quelqu'autre frère ait jamais eu des lignes de prière, ou non, dans les conventions? Je n'en sais rien. J'ai essayé à deux ou trois reprises. Mais habituellement, quand il y a une foule comme celle-ci, on doit distribuer des cartes de prière à cet effet. Car ici, ce n'est pas une arène, c'est une maison de Dieu. Elle est consacrée à cela. Et ils se poussent, et se serrent; mais si vous avez des cartes, vous pouvez les mettre en ligne dans l'ordre.
 
+Aussi, Billy m'a-t-il demandé: «Dois-je aller là-bas pour distribuer des cartes? Les gens m'en ont demandé». Je lui répondis: «Non! Billy. Laissons tout simplement faire le Saint-Esprit comme Il le désire». Voyez! Et laissons-le peut-être faire grandir la foi, afin que vous soyez guéri, là où vous êtes.
 
+Voyez-vous, la guérison divine est une chose peu importante, dans l'Evangile. Et vous ne pouvez jamais donner la première place à ce qui est secondaire. Mais c'est un appât qui est utilisé pour amener les gens à croire à la présence surnaturelle de Dieu — à ce que le surnaturel est présent. Et ainsi, grâce à cela, s'ils peuvent reconnaître Sa présence, alors ils sont guéris. Vous voyez? — le recevant par la foi.
 
-   Courbons nos têtes.
-   Dieu Bien-aimé, aujourd’hui, nous te sommes très reconnaissants de l’effusion de Ta présence
-au milieu de nous. Cet après-midi, nous comptons qu’elle se fera sentir puissamment et avec
-abondance. Nous Te remercions de ce cantique merveilleux que cette chère chrétienne vient de
-nous chanter, et de l’interprétation que Tu nous en as donnée par Ton Esprit qui est descendu ici.
-Seigneur, qu’il en soit ainsi, nous t’en prions. Oh Dieu! je Te demande de bénir chacun d’entre
-nous. Que nos coeurs soient remplis de joie, lorsque nous le verrons s’accomplir. Dieu Bien-aimé,
-cet après-midi, nous te demandons, s’il existe ici quelqu’un qui ne soit pas prêt à Te rencontrer,
-que cette heure soit celle où il puisse prendre cette décision définitive et entrer en Toi, par la
-nouvelle naissance. Accorde-le, je Te prie.
-   Seigneur, bénis tous ceux d’entre nous qui, depuis longtemps, avons suivi Ton chemin. Nous
-Te prions de nous enseigner de nouvelles choses par Ta parole. Que par Ton Esprit, Seigneur, Tu
-nous donnes un meilleur entendement. Qu’il vienne et interprète la Parole. Le seul interprète
-que nous ayons, c’est l’Esprit. Nous prions pour qu’Il nous accorde cela aujourd’hui. Nous Te le
-demandons dans le Nom de Jésus. Amen.
-   [Un message est donné par quelqu’un, dans l’auditoire — N.d.R.]
-   [Sur l’estrade, quelqu’un s’entretient avec le frère Branham — N.d.R.] Merci. Quel moment! Je
-ne connais pas de meilleur endroit où je puisse me trouver, si ce n’est dans le ciel, car ici nous
-ressentons vraiment cette onction. Comprenez-vous? En Christ, nous sommes assis tous
-ensemble dans les lieux célestes.
-   Que Dieu bénisse la soeur Florence. Elle est en train de passer par un temps d’ombres et de
-tristesse, car son père vient de lui être enlevé, et je prie que Dieu bénisse cette enfant.
-   Egalement le frère Demos, car c’est sur lui que repose le poids de toutes ces conventions et
-autres soucis. Il a besoin lui aussi de nos prières. Que Dieu bénisse le frère Shakarian.
-   Frère Carl Williams, je suis si heureux d’assister à cette convention avec toi, et parmi tous ces
-chers frères. J’ai déjà eu le privilège de rencontrer certains d’entre vous. Aujourd’hui (pour autant
-que je le sache), j’arrive au terme de mon service, alors je m’attends à pouvoir serrer les mains de
-quelques-uns de ces braves gens et à faire leur connaissance. Je compte bien passer l’Eternité
-avec eux dans un monde meilleur.
-   Juste une petite chose — j’espère que je ne serai pas mal compris. Bien. Je ne pense pas qu’il
-s’agisse là d’une coïncidence, mais je crois que c’est providentiel: hier, ici, un de mes amis, Danny
-Henri, m’a remis un cadeau. C’était un garçon… Un jour, je tenais une réunion en Californie, dans
-la Convention des hommes d’affaires chrétiens. Je parlais très sévèrement sur les conditions
-actuelles, et j’espère que chacun puisse le comprendre — ce n’est pas que j’aie de mauvais
-sentiments dans le coeur. Ce n’est pas cela. Vous comprenez certainement que ce n’était pas
-mon intention. Mais je dois dire ce que je reçois.
-   Après cela, ce jeune homme, un frère Baptiste — qui était, je crois, apparenté à une star de
-cinéma — vint à moi. Il m’entoura de ses bras, et il me dit: «Que le Seigneur vous bénisse, frère
+Maintenant, je veux lire quelques passages de la Parole de Dieu, dans le Nouveau Testament. Je ne vous parlerai que peu de temps sur le sujet choisi cet après-midi. Je ne vous tiendrai pas trop longtemps ici, car vous avez des réunions ce soir. Mais rappelez-vous — j'espère que je me sois bien fait comprendre — prêtez bien attention à cela quelques instants, si vous le voulez bien.
 
-        http://www.cmpp.ch
+Avant de le faire, courbons encore une fois nos têtes. Vous savez, nous pourrions trop chanter, nous pourrions trop crier, jusqu'à en être tout enroués. Nous pourrions chanter ou crier au mauvais moment. Mais voici une chose dans laquelle nous ne sommes jamais “hors de l'ordre”: c'est dans la prière. Il est écrit: “Je veux donc que les hommes prient en tout lieu, en élevant des mains saintes…”.
 
-LES DOULEURS DE L’ENFANTEMENT 3
-Branham! j’aimerais seulement dire une prière». Et il commença à parler en français, alors qu’il ne
-savait pas un mot de français. Alors, une femme de forte taille qui venait, je crois, de la Louisiane,
-se leva et dit: «C’est du français!». Puis, tout au fond, un homme dit: «C’est du français!». Et ils
-inscrivirent sur une feuille de papier ce qui avait été dit. J’en ai ici la copie originale. Alors, il se
-trouva que, du fond de la salle, un jeune homme s’avança (il désirait voir ce qu’ils avaient écrit);
-c’était un interprète de l’O.N.U. pour le français — et il constata que c’était véritablement du
-français!
-   J’aimerais vous lire cette note. C’est l’écrit original de cet homme qui l’a interprété. Je ne puis
-pas prononcer exactement son nom: Le Deaux, Victor Le Deaux. C’est un pur Français. Voici donc
-ce message:
-   «Parce que tu as choisi le sentier étroit, le chemin le plus difficile, parce que tu y as
-marché de ton propre gré que tu as pris la décision correcte et précise, et parce qu’elle est
-Mon chemin; à cause de cette importante décision, voici, une portion du Ciel t’attend.
-Quelle glorieuse décision a été la tienne! Elle est en elle-même ce qui donnera une immense
-victoire, qui s’accomplira dans l’amour divin».
-   Quand je reçus cela… Vous savez, quand j’entendis pour la première fois des personnes parler
-en langues — sans vouloir rien critiquer, car j’en ai entendu des authentiques — je n’étais pas
-toujours sûr. Mais, quand cela se produisit, et que je sus quel était le message qu’il contenait,
-alors je reconnus qu’il venait de Dieu.
-   C’est son frère (un avocat renommé), qui est assis là; c’est lui qui m’a remis ce cadeau de
-Danny. Danny vient de quitter la Terre Sainte. Et là-bas, il s’est allongé dans le tombeau où Jésus
-avait été placé après Sa mort. Quand il fit cela, il se mit à penser à moi. L’Esprit du Seigneur vint
-sur lui. Puis il alla sur le Mont de Golgotha où eut lieu la crucifixion. Il y prit un morceau de rocher.
-Quand il rentra à la maison, il en fit faire une paire de boutons de manchettes; ils me sont très
-chers. Et maintenant ceci — évidemment, Danny ignorait cela — mais ce matin, lorsque j’étais en
-prière, mon regard se posa sur chacun d’eux. Si vous le remarquez, chacun, de ces boutons de
-manchettes est de couleur sang, et une ligne droite traverse chacun d’eux. Comme cela s’accorde
-exactement avec le message de Dieu, donné ici: Celui d’une route droite et étroite! Je pensai qu’il
-y avait là quelque chose de providentiel. Tous mes vifs remerciements à Danny! Vous lui direz,
-frère, combien j’apprécie cela.
-   Voici une autre chose étrange. Je demandais à ma femme, l’autre matin… J’avais enfilé une
-chemise dont les poignets devaient se fermer avec des boutons de manchettes, et ma femme me
-dit: «J’ai oublié de prendre les boutons de manchettes!». Ainsi, le Seigneur venait de m’en
-procurer une paire!
-   Oh, c’est une vie glorieuse! n’est-ce pas frères? Il suffit seulement de marcher dans la
-simplicité de l’Evangile. Et cependant, dans sa simplicité, c’est la plus grande chose que je
-connaisse. Il n’y a rien de plus grand que la simplicité. Et parce que c’était fait aussi
-simplement, j’ai eu le bonheur d’y entrer — par la grâce de Dieu.
-   Cet après-midi, je ne veux pas vous retenir trop longtemps ici, sachant que ce soir, vous vous
-rendrez dans vos églises respectives. Je pense que vous tous, visiteurs qui êtes ici, devriez
-parcourir l’estrade des yeux et vous y verriez ces prédicateurs qui seraient heureux de vous avoir
-à leur réunion, ce soir. Ils vous feront du bien. Sans doute, ce matin, vous avez assisté dans cette
-ville à quelque école du dimanche. Pendant que nous avons ces conventions (celles des hommes
-d’affaires du Plein Evangile), il est de notre devoir de donner à nos églises tout le soutien possible,
-car elles sont le lieu où se rendent nos hommes d’affaires chrétiens. C’est la maison de Dieu.
-J’espère que ce soir, vous irez dans une de ces églises.
-   Demain soir, ce sera je crois la fin de cette Convention. Et je pense qu’on a annoncé qui
-parlerait. Dieu voulant, je serai là pour écouter son message. Que Dieu bénisse chacun de vous!
-   Maintenant, je ne prétends pas être un prédicateur. Je ne possède pas une éducation suffisante
-pour m’attribuer le titre de prédicateur. Quand on parle d’un prédicateur, on s’attend à ce qu’il
-possède quelques diplômes universitaires. Moi, je n’en possède aucun. Ce que je possède, c’est
-une petite fronde. J’essaie de rechercher la brebis malade, afin de la ramener, si je le puis, au
-pâturage du Père.
-   Si je fais des erreurs, pardonnez-moi. Je ne suis pas un théologien. Je ne critique pas les
+Père, c'est le plus grand privilège qu'un mortel ait jamais possédé, celui de fermer ses yeux et d'ouvrir son coeur en Te parlant. Nous savons que Tu nous entends, si nous pouvons simplement croire que Tu nous entends, car Jésus a dit: “Tout ce que vous demanderez à mon Père en mon nom, vous sera accordé”. Cette promesse est donnée sous la condition que nous ne doutions pas. Ainsi, Père, aide-nous à croire, cet après-midi, que nos requêtes seront exaucées; que nulle part, il n'y ait l'ombre d'un doute, mais que nous voyons s'accomplir les choses que nous Te demandons. Oh Dieu, que Ton grand Nom soit honoré aujourd'hui. Conduis dans Ton Royaume toute âme perdue ou égarée qui a entendu le son de notre voix, ou à qui cette bande parviendrait — là-bas, dans les pays païens, où que s'en aillent les bandes, tout autour du monde.
 
-        http://www.cmpp.ch
+Je Te prie, Père céleste, qu'il n'existe au milieu de nous, aujourd'hui, personne qui soit faible. Quand ce service sera terminé, que le Seigneur sauve toute âme perdue, qu'Il guérisse tout corps malade, et qu'Il remplisse de joie le coeur de Ses enfants. C'est pourquoi nous avons la foi, Seigneur, de le demander à Dieu notre Père, dans le Nom de Jésus, parce qu'Il a promis qu'Il écouterait, et cela pour Sa gloire. Amen.
 
-LES DOULEURS DE L’ENFANTEMENT 4
-théologiens. La théologie est une bonne chose. Nous en avons besoin. Mais parfois, je critique la
-condition dans laquelle nous sommes tombés. Cela ne s’adresse à aucune personne en
-particulier. Cela concerne seulement le Message. J’aurai souhaité n’avoir pas eu à le donner. Cela
-me déchire, parce que — vous savez ce que vous éprouveriez.
-   Qu’en est-il de vos propres enfants? Voyez-vous, ne détestez vous pas gronder votre enfant, le
-faire hurler, ou choses pareilles? Moi-même, je suis père, et je sais ce que cela signifie. Et je suis
-sûr que vous me pardonnez.
-   Je désire que vous fassiez comme ceci: Quand vous prendrez place ici cet après-midi, je vous
-demanderai une faveur. J’ai pris seulement quelques notes, comme je vous l’ai déjà dit. Je dois
-noter et écrire mes versets. Autrefois, je pouvais presque citer la Bible par coeur, mais plus
-maintenant. J’ai eu tant de dures batailles! Et puis, je suis maintenant trop vieux pour cela. Je suis
-certain que, cet après-midi, vous m’écouterez un tout petit moment, et que tout simplement,
-vous ouvrirez réellement votre coeur pour essayer de comprendre ce que je serai en train
-de faire ressortir. Je pense que cela serait mieux — tout particulièrement pour les pasteurs de
-cette ville, et pour ceux des autres endroits. Je suis persuadé que vous m’écouterez très
-attentivement.
-   Et maintenant, faites cela. Vous ferez comme moi, quand je mange ma tarte préférée: celle aux
-cerises; et ma viande préférée: le poulet. Quand je suis en train de me régaler d’une tranche de
-tarte aux cerises, et que je trouve un noyau, je ne vais pas, pour autant, m’arrêter de manger ma
-tarte! Je mets le noyau de côté, et je continue à manger ma tarte. Lorsque je trouve un os de
-poulet, je ne jette pas le poulet; je mets seulement l’os de côté.
-   Ainsi, si je vous dis quelque chose avec quoi vous n’êtes pas d’accord, mettez de côté
-ce passage — mais regardez-le vraiment bien. Soyez sûr que c’est un os! Et alors, puis-je vous
-dire également que si cela se trouve être un noyau rappelez-vous qu’il apporte la vie nouvelle.
-Alors, examinez tout cela de très près, et que le Seigneur vous bénisse!
-   L’autre soir, le frère Carl Williams a dit quelque chose au sujet de la prière pour les malades, ce
-qui serait très bien. Je reconnais que ce serait très bien. Mais nous ne sommes pas préparés pour
-cela, c’est-à-dire pour faire une ligne de prière. Et je ne sais pas si le frère Oral ou quelqu’autre
-frère ait jamais eu des lignes de prière, ou non, dans les conventions? Je n’en sais rien. J’ai
-essayé à deux ou trois reprises. Mais habituellement, quand il y a une foule comme celle-ci, on
-doit distribuer des cartes de prière à cet effet. Car ici, ce n’est pas une arène, c’est une maison de
-Dieu. Elle est consacrée à cela. Et ils se poussent, et se serrent; mais si vous avez des cartes,
-vous pouvez les mettre en ligne dans l’ordre.
-   Aussi, Billy m’a-t-il demandé: «Dois-je aller là-bas pour distribuer des cartes? Les gens m’en
-ont demandé». Je lui répondis: «Non! Billy. Laissons tout simplement faire le Saint-Esprit comme Il
-le désire». Voyez! Et laissons-le peut-être faire grandir la foi, afin que vous soyez guéri, là où vous
-êtes.
-   Voyez-vous, la guérison divine est une chose peu importante, dans l’Evangile. Et vous ne
-pouvez jamais donner la première place à ce qui est secondaire. Mais c’est un appât qui est
-utilisé pour amener les gens à croire à la présence surnaturelle de Dieu — à ce que le
-surnaturel est présent. Et ainsi, grâce à cela, s’ils peuvent reconnaître Sa présence, alors ils
-sont guéris. Vous voyez? — le recevant par la foi.
-   Maintenant, je veux lire quelques passages de la Parole de Dieu, dans le Nouveau Testament.
-Je ne vous parlerai que peu de temps sur le sujet choisi cet après-midi. Je ne vous tiendrai pas
-trop longtemps ici, car vous avez des réunions ce soir. Mais rappelez-vous — j’espère que je me
-sois bien fait comprendre — prêtez bien attention à cela quelques instants, si vous le voulez bien.
-   Avant de le faire, courbons encore une fois nos têtes. Vous savez, nous pourrions trop chanter,
-nous pourrions trop crier, jusqu’à en être tout enroués. Nous pourrions chanter ou crier au mauvais
-moment. Mais voici une chose dans laquelle nous ne sommes jamais “hors de l’ordre”: c’est
-dans la prière. Il est écrit: “Je veux donc que les hommes prient en tout lieu, en élevant des
-mains saintes…”.
-   Père, c’est le plus grand privilège qu’un mortel ait jamais possédé, celui de fermer ses yeux et
-d’ouvrir son coeur en Te parlant. Nous savons que Tu nous entends, si nous pouvons simplement
+Je désire vous lire ce texte dans l'Evangile de Jean, au 17ᵉ chapitre, en commençant au verset 20. Je pense que c'est juste. “Ce n'est pas pour eux seulement que je prie, mais encore pour ceux qui croiront en moi par leur parole; afin que…”.
 
-        http://www.cmpp.ch
+Je crois que je me suis trompé de place. Excusez-moi, juste un moment. Je cherche la prière de Jésus que — ou plutôt ce n'est pas la prière de Jésus, mais je dois avoir noté une fausse référence pour mon texte! Je voulais parler du passage où Jésus parle de la femme qui se trouve dans les douleurs de l'enfantement. Est-ce dans Luc ou dans Jean… Jack, où donc cela se trouve-t-il? Dans Jean 16? Je croyais que, c'était juste, mais cela ne sonne pas juste. Jean 16 [un monsieur sur l'estrade dit: «Verset 21.» — N.d.R.] Verset 21. Bien sûr, verset 21. Bien sûr, nous y sommes. Jean, Saint-Jean 16.21.
 
-LES DOULEURS DE L’ENFANTEMENT 5
-croire que Tu nous entends, car Jésus a dit: “Tout ce que vous demanderez à mon Père en mon
-nom, vous sera accordé”. Cette promesse est donnée sous la condition que nous ne doutions pas.
-Ainsi, Père, aide-nous à croire, cet après-midi, que nos requêtes seront exaucées; que nulle
-part, il n’y ait l’ombre d’un doute, mais que nous voyons s’accomplir les choses que nous
-Te demandons. Oh Dieu, que Ton grand Nom soit honoré aujourd’hui. Conduis dans Ton
-Royaume toute âme perdue ou égarée qui a entendu le son de notre voix, ou à qui cette bande
-parviendrait — là-bas, dans les pays païens, où que s’en aillent les bandes, tout autour du monde.
-   Je Te prie, Père céleste, qu’il n’existe au milieu de nous, aujourd’hui, personne qui soit faible.
-Quand ce service sera terminé, que le Seigneur sauve toute âme perdue, qu’Il guérisse tout
-corps malade, et qu’Il remplisse de joie le coeur de Ses enfants. C’est pourquoi nous avons
-la foi, Seigneur, de le demander à Dieu notre Père, dans le Nom de Jésus, parce qu’Il a
-promis qu’Il écouterait, et cela pour Sa gloire. Amen.
-   Je désire vous lire ce texte dans l’Evangile de Jean, au 17ᵉ chapitre, en commençant au
-verset 20. Je pense que c’est juste. “Ce n’est pas pour eux seulement que je prie, mais encore
-pour ceux qui croiront en moi par leur parole; afin que…”.
-   Je crois que je me suis trompé de place. Excusez-moi, juste un moment. Je cherche la prière
-de Jésus que — ou plutôt ce n’est pas la prière de Jésus, mais je dois avoir noté une fausse
-référence pour mon texte! Je voulais parler du passage où Jésus parle de la femme qui se trouve
-dans les douleurs de l’enfantement. Est-ce dans Luc ou dans Jean… Jack, où donc cela se
-trouve-t-il? Dans Jean 16? Je croyais que, c’était juste, mais cela ne sonne pas juste. Jean 16
-[un monsieur sur l’estrade dit: «Verset 21.» — N.d.R.] Verset 21. Bien sûr, verset 21. Bien sûr,
-nous y sommes. Jean, Saint-Jean 16.21.
-   “Afin qu’ils puissent être…” Non, frère Jack! C’est encore faux: 16.21. J’ai le seizième chapitre
-de Saint-Jean, verset 21, mais — suis-je donc dans l’erreur? Oh, alors! Ce n’est pas en ordre! Il y
-a du mélange, dans cette Bible. Oui, m’sieur! Ils l’ont mal imprimée. Oui, m’sieur! Vous savez
-quoi? C’est l’exacte vérité. Voici une Bible toute neuve; je viens de la recevoir. Elle a été mal
-imprimée (Un prêtre catholique s’approche du pupitre, et offre sa Bible, en disant ces mots au frère
-Branham «Ceci est Dieu…?… La raison pour laquelle cela s’est fait, et vous… et Dieu vous
-montrera ce qu’il doit en résulter. C’est merveilleux!») [Frère Branham se réfère à cet incident, et
-explique comment l’Ecriture doit être accomplie dans le message Aujourd’hui, cette Ecriture s’est
-accomplie du 19 février 1965 — N.d.R.].
-   Très bien. Je vous remercie. Merci beaucoup Jean 16.20,21. Merci. Merci infiniment. C’est vrai,
-cela.
-        “En vérité en vérité, je vous le dis, vous pleurerez, et vous vous lamenterez et le
-      monde se réjouira; vous serez dans la tristesse, mais votre tristesse se changera en
-      joie. La femme, lorsqu’elle enfante éprouve de la tristesse, parce que son heure est
-      venue, mais lorsqu’elle a donné le jour à l’enfant, elle ne se souvient plus de la
-      souffrance, à cause de la joie qu’elle a de ce qu’un homme est né dans le monde”.
-   Merci beaucoup, mon frère. J’ai apprécié cela. Il y a certainement une faute d’impression dans
-ma Bible — une page a été mal placée. Je venais de trouver ce passage dans ma vieille Bible
-Scofield, puis je pris vite celle-ci avant de venir rapidement ici, il y a juste quelques instants (parce
-que mon épouse venait de me la donner en cadeau, à Noël).
-   Maintenant, j’aimerais vous parler cet après-midi sur le sujet que je vous ai annoncé: Les
-douleurs de l’enfantement. Ceci sonne très mal à l’oreille, mais cela se trouve dans la Bible. Je
-crois que Jésus parla de cela, lorsqu’Il dit: “Vous serez dans la tristesse, mais votre tristesse sera
-changée en joie” — et Il parlait ici à Ses disciples, sachant que la naissance du christianisme
-arrivait.
-   Et alors, ce qui est ancien doit mourir, pour que ce qui est nouveau puisse naître. Tout ce
-qui donne la vie doit ressentir les douleurs et les angoisses, et ces hommes devaient
-nécessairement traverser des souffrances, des détresses et des angoisses, pour passer de la loi
-a la grâce.
-   La naissance naturelle normale est le type de la naissance spirituelle. Toutes les choses
-du naturel sont un type des choses du spirituel. Et nous nous apercevons, si nous regardons
+“Afin qu'ils puissent être…” Non, frère Jack! C'est encore faux: 16.21. J'ai le seizième chapitre de Saint-Jean, verset 21, mais — suis-je donc dans l'erreur? Oh, alors! Ce n'est pas en ordre! Il y a du mélange, dans cette Bible. Oui, m'sieur! Ils l'ont mal imprimée. Oui, m'sieur! Vous savez quoi? C'est l'exacte vérité. Voici une Bible toute neuve; je viens de la recevoir. Elle a été mal imprimée (Un prêtre catholique s'approche du pupitre, et offre sa Bible, en disant ces mots au frère Branham «Ceci est Dieu…?… La raison pour laquelle cela s'est fait, et vous… et Dieu vous montrera ce qu'il doit en résulter. C'est merveilleux!») [Frère Branham se réfère à cet incident, et explique comment l'Ecriture doit être accomplie dans le message Aujourd'hui, cette Ecriture s'est accomplie du 19 février 1965 — N.d.R.].
 
-        http://www.cmpp.ch
+Très bien. Je vous remercie. Merci beaucoup Jean 16.20,21. Merci. Merci infiniment. C'est vrai, cela.
 
-LES DOULEURS DE L’ENFANTEMENT 6
-par terre et voyons un arbre sortir de terre, qu’il lutte pour la vie. Ce fait même nous montre qu’il
-doit se trouver quelque part un arbre qui ne meurt point, car il tend à quelque chose. Remarquez
-comme c’est parfait.
-   Or, dans 1 Jean 5.7 (je crois que c’est cela, si je ne me trompe pas), il est dit: “Car il y en a trois
-dans le ciel qui rendent témoignage: le Père, la Parole et le Saint-Esprit, et les trois sont UN. Et il y
-en a trois sur la terre qui rendent témoignage: l’Esprit, et l’eau, et le sang, et les trois sont
-d’accord” (version du Roi Jacques). Remarquez que les trois premiers sont un, et que les trois
-autres sont d’accord (s’accordent) en un. Vous ne pouvez pas avoir le Père sans le Fils: vous
-ne pouvez pas avoir le Fils sans avoir le Saint-Esprit. Mais vous pouvez avoir l’eau sans le sang,
-et le sang sans l’Esprit!
-   Je pense qu’au travers de nos âges, cela a été prouvé comme étant exact. L’eau, le sang et
-l’Esprit — justification, sanctification, baptême du Saint-Esprit. Cela donne le type, ou plutôt
-l’antitype, de ce qui est tiré de la naissance naturelle. Regardez, lorsqu’une femme, ou un animal,
-est en travail pour accoucher: la première chose qui arrive, ce sont les eaux (lors d’une naissance
-normale): puis vient le sang, et enfin la vie — eau, sang, esprit. Et cela constitue la naissance
-naturelle, normale.
-   Il en est de même, dans le domaine spirituel. L’eau, c’est la justification par la foi, le fait
-même de croire en Dieu, de le recevoir comme votre sauveur personnel et d’être baptisé.
-Ensuite, c’est la sanctification par l’Esprit — le fait que Dieu lave votre Esprit de tous les
-éléments du monde, et des désirs de ce monde. Et puis, le Saint-Esprit entre, et produit la
-nouvelle naissance, et Il remplit ce vaisseau sanctifié.
-   Ainsi, par exemple: je vous ai dit de mettre de côté ce que vous ne croyez pas, et de prendre
-ensuite de la tarte. Maintenant, supposez que, dans le poulailler, il se trouve un verre. Vous n’allez
-pas vous en saisir, le mettre sur votre table et le remplir d’eau ou de lait. Non! Le fait de le
-ramasser, c’est la justification. Le fait de le nettoyer c’est la sanctification. Le mot grec, traduit
-par sanctifier, est un mot composé qui signifie nettoyer et mettre à part POUR le service
-(non pas en service, mais pour le service). C’est lorsque vous le remplissez que vous le
-mettez en service.
-   Excusez-moi (ce n’est pas pour vous blesser que je le dis), mais c’est ici que vous, les “Pilgrim
-Holiness” (Pèlerins de la Sainteté), et vous, Nazaréens, avez manqué de poursuivre votre
-marche jusqu’à la Pentecôte. Vous avez été nettoyés par la sanctification, mais quand vous
-étiez prêts à être mis en service par les dons de parler en langues et autres, vous l’avez refusé,
-et vous êtes retombés dans le poulailler. Voyez? C’est ce qui se passe, cela arrive toujours
-comme cela. Ce n’est pas pour vous critiquer, mais seulement pour libérer mon coeur de cela.
-Depuis que je suis ici, cela brûlait dans mon coeur. Ainsi, pour moi, mieux valait le dire — grâce à
-l’obligeance de Carl, de Demos et de tous les autres, je fais de mon mieux pour libérer mon âme.
-Et maintenant, c’est à vous d’en disposer comme vous le voudrez.
-   Le naturel est donc le type du spirituel. Ainsi, lors de la naissance d’un enfant, habituellement,
-quand les eaux s’écoulent, vous n’avez pas grand chose à faire. Quand le sang arrive, il en est de
-même, mais, afin que la vie vienne dans le bébé, vous devez lui donner une fessée pour le faire
-crier. Pour moi qui n’ai pas fait d’études, à la différence de mes frères ici présents qui sont bien
-instruits sur ces choses, je suis obligé de prendre la nature comme un type. Alors, nous y
-sommes donc. Ainsi, c’est ce qui se passe. Il leur faut une vraie fessée, pour y arriver.
-   Il lui faut une sorte de choc. Peut-être cela ne sera-t-il pas nécessaire de lui donner cette
-fessée, un petit choc pourra suffire. Quelquefois, le fait que le bébé se rende compte qu’il est né
-sera suffisant. Empoignez-le, secouez-le. S’il ne commence pas à respirer, donnez-lui une petite
-fessée, et alors, il hurlera en langues (il se parlera à lui-même, je pense). Mais voyez-vous… de
-toute façon, il fera du bruit. Je pense que si un bébé vient au monde sans mouvement, sans
-bruit, sans réaction, alors, c’est un bébé mort.
-   C’est cela le problème, aujourd’hui, pour l’église — le système. Nous avons trop d’enfants
-mort-nés. Ils ont besoin d’être fessés par l’Evangile, pour les réveiller, pour les ramener à
-eux, afin que Dieu puisse souffler en eux le souffle de la vie! Et maintenant, nous savons que
-c’est tellement vrai. C’est une théologie crue, mais de toute façon, c’est la vérité.
+> “En vérité en vérité, je vous le dis, vous pleurerez, et vous vous lamenterez et le monde se réjouira; vous serez dans la tristesse, mais votre tristesse se changera en joie. La femme, lorsqu'elle enfante éprouve de la tristesse, parce que son heure est venue, mais lorsqu'elle a donné le jour à l'enfant, elle ne se souvient plus de la souffrance, à cause de la joie qu'elle a de ce qu'un homme est né dans le monde”.
 
-        http://www.cmpp.ch
+Merci beaucoup, mon frère. J'ai apprécié cela. Il y a certainement une faute d'impression dans ma Bible — une page a été mal placée. Je venais de trouver ce passage dans ma vieille Bible Scofield, puis je pris vite celle-ci avant de venir rapidement ici, il y a juste quelques instants (parce que mon épouse venait de me la donner en cadeau, à Noël).
+
+Maintenant, j'aimerais vous parler cet après-midi sur le sujet que je vous ai annoncé: Les douleurs de l'enfantement. Ceci sonne très mal à l'oreille, mais cela se trouve dans la Bible. Je crois que Jésus parla de cela, lorsqu'Il dit: “Vous serez dans la tristesse, mais votre tristesse sera changée en joie” — et Il parlait ici à Ses disciples, sachant que la naissance du christianisme arrivait.
+
+Et alors, ce qui est ancien doit mourir, pour que ce qui est nouveau puisse naître. Tout ce qui donne la vie doit ressentir les douleurs et les angoisses, et ces hommes devaient nécessairement traverser des souffrances, des détresses et des angoisses, pour passer de la loi a la grâce.
+
+La naissance naturelle normale est le type de la naissance spirituelle. Toutes les choses du naturel sont un type des choses du spirituel. Et nous nous apercevons, si nous regardons par terre et voyons un arbre sortir de terre, qu'il lutte pour la vie. Ce fait même nous montre qu'il doit se trouver quelque part un arbre qui ne meurt point, car il tend à quelque chose. Remarquez comme c'est parfait.
+
+Or, dans 1 Jean 5.7 (je crois que c'est cela, si je ne me trompe pas), il est dit: “Car il y en a trois dans le ciel qui rendent témoignage: le Père, la Parole et le Saint-Esprit, et les trois sont UN. Et il y en a trois sur la terre qui rendent témoignage: l'Esprit, et l'eau, et le sang, et les trois sont d'accord” (version du Roi Jacques). Remarquez que les trois premiers sont un, et que les trois autres sont d'accord (s'accordent) en un. Vous ne pouvez pas avoir le Père sans le Fils: vous ne pouvez pas avoir le Fils sans avoir le Saint-Esprit. Mais vous pouvez avoir l'eau sans le sang, et le sang sans l'Esprit!
+
+Je pense qu'au travers de nos âges, cela a été prouvé comme étant exact. L'eau, le sang et l'Esprit — justification, sanctification, baptême du Saint-Esprit. Cela donne le type, ou plutôt l'antitype, de ce qui est tiré de la naissance naturelle. Regardez, lorsqu'une femme, ou un animal, est en travail pour accoucher: la première chose qui arrive, ce sont les eaux (lors d'une naissance normale): puis vient le sang, et enfin la vie — eau, sang, esprit. Et cela constitue la naissance naturelle, normale.
+
+Il en est de même, dans le domaine spirituel. L'eau, c'est la justification par la foi, le fait même de croire en Dieu, de le recevoir comme votre sauveur personnel et d'être baptisé. Ensuite, c'est la sanctification par l'Esprit — le fait que Dieu lave votre Esprit de tous les éléments du monde, et des désirs de ce monde. Et puis, le Saint-Esprit entre, et produit la nouvelle naissance, et Il remplit ce vaisseau sanctifié.
+
+Ainsi, par exemple: je vous ai dit de mettre de côté ce que vous ne croyez pas, et de prendre ensuite de la tarte. Maintenant, supposez que, dans le poulailler, il se trouve un verre. Vous n'allez pas vous en saisir, le mettre sur votre table et le remplir d'eau ou de lait. Non! Le fait de le ramasser, c'est la justification. Le fait de le nettoyer c'est la sanctification. Le mot grec, traduit par sanctifier, est un mot composé qui signifie nettoyer et mettre à part POUR le service (non pas en service, mais pour le service). C'est lorsque vous le remplissez que vous le mettez en service.
+
+Excusez-moi (ce n'est pas pour vous blesser que je le dis), mais c'est ici que vous, les “Pilgrim Holiness” (Pèlerins de la Sainteté), et vous, Nazaréens, avez manqué de poursuivre votre marche jusqu'à la Pentecôte. Vous avez été nettoyés par la sanctification, mais quand vous étiez prêts à être mis en service par les dons de parler en langues et autres, vous l'avez refusé, et vous êtes retombés dans le poulailler. Voyez? C'est ce qui se passe, cela arrive toujours comme cela. Ce n'est pas pour vous critiquer, mais seulement pour libérer mon coeur de cela. Depuis que je suis ici, cela brûlait dans mon coeur. Ainsi, pour moi, mieux valait le dire — grâce à l'obligeance de Carl, de Demos et de tous les autres, je fais de mon mieux pour libérer mon âme. Et maintenant, c'est à vous d'en disposer comme vous le voudrez.
+
+Le naturel est donc le type du spirituel. Ainsi, lors de la naissance d'un enfant, habituellement, quand les eaux s'écoulent, vous n'avez pas grand chose à faire. Quand le sang arrive, il en est de même, mais, afin que la vie vienne dans le bébé, vous devez lui donner une fessée pour le faire crier. Pour moi qui n'ai pas fait d'études, à la différence de mes frères ici présents qui sont bien instruits sur ces choses, je suis obligé de prendre la nature comme un type. Alors, nous y sommes donc. Ainsi, c'est ce qui se passe. Il leur faut une vraie fessée, pour y arriver.
+
+Il lui faut une sorte de choc. Peut-être cela ne sera-t-il pas nécessaire de lui donner cette fessée, un petit choc pourra suffire. Quelquefois, le fait que le bébé se rende compte qu'il est né sera suffisant. Empoignez-le, secouez-le. S'il ne commence pas à respirer, donnez-lui une petite fessée, et alors, il hurlera en langues (il se parlera à lui-même, je pense). Mais voyez-vous… de toute façon, il fera du bruit. Je pense que si un bébé vient au monde sans mouvement, sans bruit, sans réaction, alors, c'est un bébé mort.
+
+C'est cela le problème, aujourd'hui, pour l'église — le système. Nous avons trop d'enfants mort-nés. Ils ont besoin d'être fessés par l'Evangile, pour les réveiller, pour les ramener à eux, afin que Dieu puisse souffler en eux le souffle de la vie! Et maintenant, nous savons que c'est tellement vrai. C'est une théologie crue, mais de toute façon, c'est la vérité.
 
 LES DOULEURS DE L’ENFANTEMENT 7
-   Remarquez, lors de la naissance d’une graine, la vieille graine doit d’abord mourir, avant
-que puisse naître la nouvelle. C’est pourquoi la mort est toujours pénible. Elle est douloureuse,
-pleine d’angoisses. Pour la naissance, c’est pareil, parce que la vie est apportée dans le monde, et
-cela est douloureux.
-   Jésus a dit que Sa Parole était une semence, qu’un semeur sortit pour semer (nous sommes
-tous au courant de cela, et je veux vous enseigner comme je le ferais dans une leçon d’école du
-dimanche, parce que c’est dimanche). Notez que cette Parole étant une semence — mais
-souvenez-vous que la semence ne peut apporter une vie nouvelle que si elle meurt. C’est la
-raison pour laquelle il fut si difficile aux pharisiens de comprendre le Seigneur Jésus-Christ, parce
-qu’ils étaient sous la loi, et que la loi était la Parole de Dieu en forme de graine. Mais quand la
-Parole fut faite chair, elle se transforma de loi en grâce. Or, la grâce et la loi ne peuvent exister
-en même temps, parce que la grâce est tellement supérieure à la loi que celle-ci n’apparaît même
-plus. C’est pourquoi il est si difficile aux pharisiens de mourir à leur loi, pour que la grâce puisse
-naître. Mais elle doit s’en aller. Les deux lois ne peuvent exister en même temps.
-   Il ne peut y avoir une loi qui dise que vous pouvez passer le signal, et une autre disant que
-vous ne le pouvez pas — l’une disant que vous le pouvez, et l’autre que vous ne le pouvez pas.
-Là, il ne doit y avoir qu’une loi à la fois. Peut-être qu’une fois vous avez pu y passer; s’il devient
-orange, vous passez encore. Mais cette fois, il est rouge — STOP! Vous voyez! Ainsi, il ne peut y
-avoir deux lois existant en même temps.
-   Ma pensée à votre égard est que vous acceptiez la douleur, la détresse, l’inconfort. Voyez
-comment ces pharisiens sont morts à cette loi — au travers de la souffrance, de la détresse et de
-l’inconfort, mais il doit en être ainsi.
-   Or, nous savons que c’est la pluie qui fait pousser les fruits sur la terre. «Elle est née, comme
-l’a dit le poète, dans les champs du tonnerre, dans un ciel déchiré et tourmenté». Mais si nous
-n’avions pas le tonnerre, ni les cieux déchirés et tourmentés, la petite goutte de pluie ne
-serait pas née — si elle n’avait pas été prise de l’océan et séparée de son sel par distillation. Il
-faut ces éclairs, ce tonnerre, ces rafales, ces déchirements, ces choses effrayantes pour produire
-ces doux pétales que sont ces gouttes d’eau. Il faut des douleurs pour enfanter; il faut mourir.
-Lorsque les nuages meurent, la pluie est formée, parce que la pluie est une partie de ce
-nuage. L’un doit disparaître pour que l’autre puisse exister. Maintenant, certains de mes
-frères ici pourraient vous expliquer toutes les lois concernant ces choses. Je ne le puis pas.
-   Passons à une autre chose, juste pour apporter une petite preuve. Je pense que l’une des plus
-jolies fleurs — chacun a sa propre idée à ce sujet — mais je pense que la plus jolie fleur que j’aie
-jamais vue (là-bas dans l’Est) est notre lis d’étang. Combien parmi vous ont-ils déjà vu un lis
-d’étang? Oh, pour moi, il n’y a vraiment rien de pareil. Mais avez-vous remarqué ce que ce lis
-d’étang doit être? Je pense à ce que Jésus dit: “Considérez comment croissent les lis des champs:
-ils ne travaillent ni ne filent; cependant, je vous dis que Salomon même, dans toute sa gloire, n’a
-jamais été vêtu comme l’un d’eux”. Parce que la gloire de Salomon et son vêtement étaient
-artificiels. Tandis que c’est la vie se trouvant dans le lis qui lui donne sa beauté, et non
-quelque barbouillage ou maquillage artificiel.
-   C’est comme pour nos femmes. Je ne pense pas que vous deviez mettre tout ce vert, vous
-savez, et ces faux-cils et toute cette manucure — je mélange tout ça! — et toutes ces choses, sur
-votre visage, pour vous rendre jolies. C’est ce qui vous rend belles, qui est beau. Si vous prenez
-un peu d’Actes 2.4, et que vous le mélangez avec un peu de Jean 3.16, vous obtiendrez un
-produit bien supérieur à tout ce que Max Factor peut essayer de préparer. Votre mari vous
-aimera davantage, et tout le monde aussi et Dieu aussi le fera j’en suis sûr.
-   Quant au lis — Il a dit de le considérer, de voir comment il croît, comment il travaille pour
-se développer. Ce petit lis d’étang, regardez ce qu’il doit traverser: la terre, la saleté, la vase, les
-eaux boueuses, les eaux troubles; et il se fraie un chemin à travers tout cela (ce petit germe de
-vie). Il a dû travailler pour sortir du fond de l’étang, où il se trouvait avec les grenouilles et toutes
-sortes d’autres choses; et ensuite, il s’élève au travers de tout cela. Mais quand il parvient dans la
-présence du soleil, c’est la naissance. La petite graine éclate ouvertement à la vie. Elle ne pouvait
-pas faire cela avant d’avoir passé par tout le processus. Elle devait passer par tout cela. Et ce qui
-le lui fait faire, c’est le soleil qui l’attirait à lui. Et lorsqu’il se trouve bien au-dessus de ces
 
-        http://www.cmpp.ch
+Remarquez, lors de la naissance d’une graine, la vieille graine doit d’abord mourir, avant que puisse naître la nouvelle. C’est pourquoi la mort est toujours pénible. Elle est douloureuse, pleine d’angoisses. Pour la naissance, c’est pareil, parce que la vie est apportée dans le monde, et cela est douloureux.
+
+Jésus a dit que Sa Parole était une semence, qu’un semeur sortit pour semer (nous sommes tous au courant de cela, et je veux vous enseigner comme je le ferais dans une leçon d’école du dimanche, parce que c’est dimanche). Notez que cette Parole étant une semence — mais souvenez-vous que la semence ne peut apporter une vie nouvelle que si elle meurt. C’est la raison pour laquelle il fut si difficile aux pharisiens de comprendre le Seigneur Jésus-Christ, parce qu’ils étaient sous la loi, et que la loi était la Parole de Dieu en forme de graine. Mais quand la Parole fut faite chair, elle se transforma de loi en grâce. Or, la grâce et la loi ne peuvent exister en même temps, parce que la grâce est tellement supérieure à la loi que celle-ci n’apparaît même plus. C’est pourquoi il est si difficile aux pharisiens de mourir à leur loi, pour que la grâce puisse naître. Mais elle doit s’en aller. Les deux lois ne peuvent exister en même temps.
+
+Il ne peut y avoir une loi qui dise que vous pouvez passer le signal, et une autre disant que vous ne le pouvez pas — l’une disant que vous le pouvez, et l’autre que vous ne le pouvez pas. Là, il ne doit y avoir qu’une loi à la fois. Peut-être qu’une fois vous avez pu y passer; s’il devient orange, vous passez encore. Mais cette fois, il est rouge — STOP! Vous voyez! Ainsi, il ne peut y avoir deux lois existant en même temps.
+
+Ma pensée à votre égard est que vous acceptiez la douleur, la détresse, l’inconfort. Voyez comment ces pharisiens sont morts à cette loi — au travers de la souffrance, de la détresse et de l’inconfort, mais il doit en être ainsi.
+
+Or, nous savons que c’est la pluie qui fait pousser les fruits sur la terre. «Elle est née, comme l’a dit le poète, dans les champs du tonnerre, dans un ciel déchiré et tourmenté». Mais si nous n’avions pas le tonnerre, ni les cieux déchirés et tourmentés, la petite goutte de pluie ne serait pas née — si elle n’avait pas été prise de l’océan et séparée de son sel par distillation. Il faut ces éclairs, ce tonnerre, ces rafales, ces déchirements, ces choses effrayantes pour produire ces doux pétales que sont ces gouttes d’eau. Il faut des douleurs pour enfanter; il faut mourir. Lorsque les nuages meurent, la pluie est formée, parce que la pluie est une partie de ce nuage. L’un doit disparaître pour que l’autre puisse exister. Maintenant, certains de mes frères ici pourraient vous expliquer toutes les lois concernant ces choses. Je ne le puis pas.
+
+Passons à une autre chose, juste pour apporter une petite preuve. Je pense que l’une des plus jolies fleurs — chacun a sa propre idée à ce sujet — mais je pense que la plus jolie fleur que j’aie jamais vue (là-bas dans l’Est) est notre lis d’étang. Combien parmi vous ont-ils déjà vu un lis d’étang? Oh, pour moi, il n’y a vraiment rien de pareil. Mais avez-vous remarqué ce que ce lis d’étang doit être? Je pense à ce que Jésus dit: “Considérez comment croissent les lis des champs: ils ne travaillent ni ne filent; cependant, je vous dis que Salomon même, dans toute sa gloire, n’a jamais été vêtu comme l’un d’eux”. Parce que la gloire de Salomon et son vêtement étaient artificiels. Tandis que c’est la vie se trouvant dans le lis qui lui donne sa beauté, et non quelque barbouillage ou maquillage artificiel.
+
+C’est comme pour nos femmes. Je ne pense pas que vous deviez mettre tout ce vert, vous savez, et ces faux-cils et toute cette manucure — je mélange tout ça! — et toutes ces choses, sur votre visage, pour vous rendre jolies. C’est ce qui vous rend belles, qui est beau. Si vous prenez un peu d’Actes 2.4, et que vous le mélangez avec un peu de Jean 3.16, vous obtiendrez un produit bien supérieur à tout ce que Max Factor peut essayer de préparer. Votre mari vous aimera davantage, et tout le monde aussi et Dieu aussi le fera j’en suis sûr.
+
+Quant au lis — Il a dit de le considérer, de voir comment il croît, comment il travaille pour se développer. Ce petit lis d’étang, regardez ce qu’il doit traverser: la terre, la saleté, la vase, les eaux boueuses, les eaux troubles; et il se fraie un chemin à travers tout cela (ce petit germe de vie). Il a dû travailler pour sortir du fond de l’étang, où il se trouvait avec les grenouilles et toutes sortes d’autres choses; et ensuite, il s’élève au travers de tout cela. Mais quand il parvient dans la présence du soleil, c’est la naissance. La petite graine éclate ouvertement à la vie. Elle ne pouvait pas faire cela avant d’avoir passé par tout le processus. Elle devait passer par tout cela. Et ce qui le lui fait faire, c’est le soleil qui l’attirait à lui. Et lorsqu’il se trouve bien au-dessus de ces
+
+http://www.cmpp.ch
 
 LES DOULEURS DE L’ENFANTEMENT 8
-eaux troubles et de la vase, il est si heureux qu’il s’ouvre pour donner sa vie, librement.
-C’est une vie magnifique, lorsqu’il se trouve ainsi en présence de Celui qui l’a attiré à lui.
-   Et je pense que c’est là une très belle image de la vie chrétienne. Que c’est beau, quand vous
-êtes attiré hors du monde, jusqu’au moment ou vous naissez dans Sa présence par le
-Saint-Esprit! Si vous essayiez de l’aider, vous le tueriez.
-   C’est comme un petit poussin lorsqu’il éclôt. Vous savez, si vous avez déjà remarqué l’un de
-ces petits amis (ou n’importe quel oiseau qui sort d’un oeuf), il a au bout de son bec une pointe
-avec laquelle il picote cette vieille coquille d’oeuf. La vieille partie intérieure de l’oeuf doit pourrir. Et
-il doit utiliser son petit bec pour gratter de haut en bas, jusqu’à ce qu’il brise la coquille. Là-bas,
-dans le Kentucky d’où je viens, nous appelons cela “pipping” (becqueter) — se frayer un chemin.
-Ils n’ont jamais trouvé une meilleure façon de faire. Pourquoi? Parce que c’est de cette manière
-que Dieu a pourvu. Si vous essayiez de l’aider, vous le tueriez. Enlevez la coquille qui l’environne,
-il mourra. Voyez, il doit travailler, faire tous ses efforts pour la briser!
-   C’est ainsi que doit faire un chrétien. Ce n’est pas le fait que quelqu’un vous serre la main qui
-vous y fait entrer. Vous devez rester jusqu’à ce que vous mouriez, que vous “pourrissiez”, et
-que vous naissiez dans le Royaume de Dieu. C’est de cette manière que Dieu a pourvu. Ce
-n’est pas par les livres que vous pouvez y entrer, par le fait qu’on vous serre la main, et que vous
-vous joigniez à eux. Vous devez tout simplement vous éloigner de la vieille coquille. Remarquez,
-ils ne trouvèrent pas de meilleure manière de faire.
-   Ils ne trouvèrent pas de meilleure manière pour qu’un bébé reçoive ce qu’il désire, en dehors de
-celle prévue par Dieu. Alors, lorsque ce petit bébé est né, vous pourriez placer une clochette à
-côté de son petit lit, et vous pourriez ensuite lui dire: «Mon petit garçon, je suis un théologien. J’ai
-lu des livres sur l’éducation des bébés, et je te le dis: tu es un enfant moderne! tu es né dans une
-famille moderne, de parents modernes. Lorsque tu as faim ou que tu as besoin de maman ou de
-moi, alors, agite seulement la clochette». Cela ne marchera jamais! La seule manière qu’il a
-d’obtenir ce qu’il désire, est de crier. C’est cela la façon de Dieu.
-   Et pour nous, la seule façon d’obtenir ce que nous voulons — c’est de crier. Criez donc!
-N’ayez pas honte! Dites: «J’ai faim de Dieu!». Ne vous souciez pas des diacres, ni des pasteurs
-ou de toute autre personne pouvant se trouver autour de vous. De toute façon, criez fort! Si les
-Dupont sont assis à vos côtés, quelle différence cela peut-il faire? Criez donc! C’est le seul moyen
-de l’obtenir — jusqu’à ce que vous receviez de l’aide. Jésus enseigna cela quand il était sur la
-terre, vous le savez bien, concernant le juge inique.
-   Considérez une petite goutte de rosée — je n’en connais pas la formule. Peut-être y a-t-il ici un
-homme de science, mais je vais simplement vous dire cela comme je le pense. Il se peut que ce
-soit une concentration de l’atmosphère qui se forme pendant la nuit, et qui tombe sur la terre.
-Ainsi, quand cela a lieu, elle est née dans la nuit. Mais le matin venu, elle se trouve là, grelottant
-de froid sur un brin d’herbe, ou suspendue à votre fil d’étendage. Mais que le soleil vienne à briller,
-voyez alors combien elle devient heureuse! Elle étincelle et frémit. Pourquoi? Parce qu’elle sait
-que cette lumière va la faire retourner là où elle se trouvait au commencement.
-   Il en est ainsi de chaque homme, ou de chaque femme qui est né de l’Esprit de Dieu. Lorsque
-la Lumière se répand au-dessus de nous, il y a quelque chose qui nous rend heureux, parce
-que nous savons que nous retournons à l’endroit d’où nous sommes venus — du sein de
-Dieu. Cette petite goutte scintille de joie, lorsque le soleil la touche, sachant, bien sûr, qu’elle
-retourne à l’endroit d’où elle est venue. Ce sont là de simples petites choses, sur lesquelles nous
-pourrions nous étendre, mais trouvons quelque chose d’autre.
-   Nous savons que la vieille semence doit pourrir avant que la nouvelle puisse sortir d’elle.
-Certainement! Non seulement mourir, mais encore pourrir après qu’elle soit morte. Nous savons
-que cela est vrai. Il en est de même, dans la nouvelle naissance. Nous n’allons jamais en
-arrière, mais nous allons de l’avant — quand nous sommes nés de nouveau.
-   C’est pourquoi je pense qu’aujourd’hui il y a si peu de nouvelles naissances authentiques,
-parce qu’ils sympathisent peut-être avec la Parole ou avec le prédicateur, mais qu’ils ne désirent
-pas “pourrir” complètement à l’ancien système dans lequel ils étaient. Ils ne veulent pas en sortir.
-Ils veulent demeurer dans le vieux système, et ils réclament cependant la nouvelle
-naissance, ou le message de l’âge.
+eaux troubles et de la vase, il est si heureux qu’il s’ouvre pour donner sa vie, librement. C’est une vie magnifique, lorsqu’il se trouve ainsi en présence de Celui qui l’a attiré à lui.
 
-        http://www.cmpp.ch
+Et je pense que c’est là une très belle image de la vie chrétienne. Que c’est beau, quand vous êtes attiré hors du monde, jusqu’au moment ou vous naissez dans Sa présence par le Saint-Esprit! Si vous essayiez de l’aider, vous le tueriez.
 
-    LES DOULEURS DE L’ENFANTEMENT    9
-   Nous avons vu cela avec Luther, Wesley, les Pentecôtistes, et avec tous les autres âges. Ils
-essaient toujours de se cramponner encore au vieux système, et de le revendiquer. Mais le vieux
-système de chaque âge doit mourir — et pourrir — afin d’en produire un nouveau. Ils veulent
-encore s’accrocher. Remarquez, ils savent que le vieux système est mort, mais ils ne veulent pas
-pourrir pour pouvoir s’en sortir. Or, pourrir, signifie “disparaître complètement”.
-   Lorsqu’ils déclarent être nés de nouveau… Une déclaration n’est qu’une prétention, c’est le
-pourrissement qui apporte la nouvelle naissance Vous devez pourrir complètement à cela, comme
-nous l’avons fait dans tous les âges — au travers de l’âge de Wesley, et ainsi de suite. Mais voilà
-comment sont les choses: après que la nouvelle naissance ait eut lieu… Luther vint avec une
-parole: “Le juste vivra par la foi”. Il ne pouvait plus se cramponner à l’ancien système, il
-devait en sortir.
-   Lorsque les Calvinistes mirent l’église anglicane dans une situation telle (sous la doctrine
-calviniste) que Dieu suscitât une doctrine arminienne (celle de John Wesley)… L’ancien système
-devait mourir pour que le nouveau put être établi. Lorsque l’âge de Wesley cessa, et que tous les
-petits âges qui étaient comme des rejets sortant de la tige qui portait l’aigrette du temps de
-Wesley… Voyez! Lorsque la Pentecôte vint avec la restauration des dons, ils durent sortir des
-Baptistes, des «Pilgrim Holiness», Nazaréens, Eglise de Christ (ainsi nommée) et de tous les
-autres. Ils durent sortir de cela et pourrir, pour accepter la nouvelle naissance.
-   Vous serez toujours traités de fous. Mais, comme le dit Paul, lorsqu’il “pourrit” aux choses qu’il
-avait proclamées: “… conformément à une certaine doctrine qu’ils appellent une hérésie, je sers le
-Dieu de mes pères” (Synodale) — conformément à une certaine doctrine qu’ils appellent une
-hérésie: voyez, il avait accepté la nouvelle vie que l’Ancien Testament avait enfantée —
-produisant le Nouveau. Et il devait complètement “pourrir” à l’Ancien (qui n’était qu’une ombre),
-afin de…
-   C’est exactement là où nous en sommes, maintenant. Supportez-moi, je vous en prie, mais
-c’est mon idée. Les églises sont devenues tellement systématisées que vous ne pouvez pas
-entrer dans l’une d’elles, à moins de lui appartenir. Vous devez avoir une carte de membre,
-ou quelque autre moyen d’être identifié. A cause de cela, la seule porte qui me reste ouverte
-est celle des Hommes d’Affaires Chrétiens. Aussi longtemps qu’ils ne forment pas une
-organisation, je puis aller chez eux pour apporter aux gens le message que j’ai sur mon coeur.
-Mais c’est devenu tellement systématisé — pourtant je vous aime, vous, gens de Pentecôte. De
-toute façon, la Pentecôte n’est pas une organisation. Vous vous appelez comme cela. Car la
-Pentecôte, c’est une expérience, et non une dénomination.
-   Mais voyez! Ce qui est difficile à beaucoup de personnes, lorsqu’elles considèrent cela et le
-croient, et qu’elles le voient si bien identifié par Dieu dans Sa Parole — c’est de pourrir
-complètement à la chose dans laquelle ils se trouvaient. «Que ferai-je? Où trouverai-je à
-manger?»… C’est Dieu qui est votre nourriture! Dieu est le Seul auquel vous deviez vous
-accrocher. “Cherchez premièrement le Royaume de Dieu et Sa justice”. Je m’arrêterai là, car
-vous savez ce dont je parle!
-   Comme les prophètes de Dieu nous l’ont annoncé, nous aurons de nouveaux cieux et une
-nouvelle terre. Si vous désirez avoir un passage de l’Ecriture, c’est dans l’Apocalypse 21. Je
-pourrais vous le citer. Je l’ai ici, Jean dit: “Puis je vis un nouveau ciel et une nouvelle terre; car le
-premier ciel et la première terre avaient disparu…”. Ils étaient partis.
-   Or, si nous devons avoir une nouvelle terre, l’ancienne et la nouvelle ne peuvent exister en
-même temps — ni le nouveau monde et l’ancien en même temps. Il ne peut y avoir ensemble, et
-simultanément, deux ordres du monde. Pour obtenir la nouvelle terre, il faut que meure
-l’ancienne, et puisque l’ancienne doit mourir, cela provoque alors, maintenant, pour la nouvelle, les
-douleurs de l’enfantement.
-   Quand un médecin examine une patiente qui est en travail (et je sais que je suis en train de
-parler ici en présence de deux ou trois très bons docteurs en médecine, chrétiens), l’une des
-premières choses qu’il fera, après avoir observé la patiente, c’est de mesurer la cadence des
-douleurs — les douleurs de l’enfantement. Il mesure l’intervalle entre les douleurs, et l’intensité
-toujours plus grande de chacune d’elles. Chacune est plus violente que la précédente, et leur
-cadence s’accélère de plus en plus. C’est sa manière de poser le diagnostic: par les douleurs de
+C’est comme un petit poussin lorsqu’il éclôt. Vous savez, si vous avez déjà remarqué l’un de ces petits amis (ou n’importe quel oiseau qui sort d’un oeuf), il a au bout de son bec une pointe avec laquelle il picote cette vieille coquille d’oeuf. La vieille partie intérieure de l’oeuf doit pourrir. Et il doit utiliser son petit bec pour gratter de haut en bas, jusqu’à ce qu’il brise la coquille. Là-bas, dans le Kentucky d’où je viens, nous appelons cela “pipping” (becqueter) — se frayer un chemin. Ils n’ont jamais trouvé une meilleure façon de faire. Pourquoi? Parce que c’est de cette manière que Dieu a pourvu. Si vous essayiez de l’aider, vous le tueriez. Enlevez la coquille qui l’environne, il mourra. Voyez, il doit travailler, faire tous ses efforts pour la briser!
 
-        http://www.cmpp.ch
+C’est ainsi que doit faire un chrétien. Ce n’est pas le fait que quelqu’un vous serre la main qui vous y fait entrer. Vous devez rester jusqu’à ce que vous mouriez, que vous “pourrissiez”, et que vous naissiez dans le Royaume de Dieu. C’est de cette manière que Dieu a pourvu. Ce n’est pas par les livres que vous pouvez y entrer, par le fait qu’on vous serre la main, et que vous vous joigniez à eux. Vous devez tout simplement vous éloigner de la vieille coquille. Remarquez, ils ne trouvèrent pas de meilleure manière de faire.
 
-    LES DOULEURS DE L’ENFANTEMENT    10
+Ils ne trouvèrent pas de meilleure manière pour qu’un bébé reçoive ce qu’il désire, en dehors de celle prévue par Dieu. Alors, lorsque ce petit bébé est né, vous pourriez placer une clochette à côté de son petit lit, et vous pourriez ensuite lui dire: «Mon petit garçon, je suis un théologien. J’ai lu des livres sur l’éducation des bébés, et je te le dis: tu es un enfant moderne! tu es né dans une famille moderne, de parents modernes. Lorsque tu as faim ou que tu as besoin de maman ou de moi, alors, agite seulement la clochette». Cela ne marchera jamais! La seule manière qu’il a d’obtenir ce qu’il désire, est de crier. C’est cela la façon de Dieu.
+
+Et pour nous, la seule façon d’obtenir ce que nous voulons — c’est de crier. Criez donc! N’ayez pas honte! Dites: «J’ai faim de Dieu!». Ne vous souciez pas des diacres, ni des pasteurs ou de toute autre personne pouvant se trouver autour de vous. De toute façon, criez fort! Si les Dupont sont assis à vos côtés, quelle différence cela peut-il faire? Criez donc! C’est le seul moyen de l’obtenir — jusqu’à ce que vous receviez de l’aide. Jésus enseigna cela quand il était sur la terre, vous le savez bien, concernant le juge inique.
+
+Considérez une petite goutte de rosée — je n’en connais pas la formule. Peut-être y a-t-il ici un homme de science, mais je vais simplement vous dire cela comme je le pense. Il se peut que ce soit une concentration de l’atmosphère qui se forme pendant la nuit, et qui tombe sur la terre. Ainsi, quand cela a lieu, elle est née dans la nuit. Mais le matin venu, elle se trouve là, grelottant de froid sur un brin d’herbe, ou suspendue à votre fil d’étendage. Mais que le soleil vienne à briller, voyez alors combien elle devient heureuse! Elle étincelle et frémit. Pourquoi? Parce qu’elle sait que cette lumière va la faire retourner là où elle se trouvait au commencement.
+
+Il en est ainsi de chaque homme, ou de chaque femme qui est né de l’Esprit de Dieu. Lorsque la Lumière se répand au-dessus de nous, il y a quelque chose qui nous rend heureux, parce que nous savons que nous retournons à l’endroit d’où nous sommes venus — du sein de Dieu. Cette petite goutte scintille de joie, lorsque le soleil la touche, sachant, bien sûr, qu’elle retourne à l’endroit d’où elle est venue. Ce sont là de simples petites choses, sur lesquelles nous pourrions nous étendre, mais trouvons quelque chose d’autre.
+
+Nous savons que la vieille semence doit pourrir avant que la nouvelle puisse sortir d’elle. Certainement! Non seulement mourir, mais encore pourrir après qu’elle soit morte. Nous savons que cela est vrai. Il en est de même, dans la nouvelle naissance. Nous n’allons jamais en arrière, mais nous allons de l’avant — quand nous sommes nés de nouveau.
+
+C’est pourquoi je pense qu’aujourd’hui il y a si peu de nouvelles naissances authentiques, parce qu’ils sympathisent peut-être avec la Parole ou avec le prédicateur, mais qu’ils ne désirent pas “pourrir” complètement à l’ancien système dans lequel ils étaient. Ils ne veulent pas en sortir. Ils veulent demeurer dans le vieux système, et ils réclament cependant la nouvelle naissance, ou le message de l’âge.
+
+http://www.cmpp.ch
+
+LES DOULEURS DE L’ENFANTEMENT 9
+
+Nous avons vu cela avec Luther, Wesley, les Pentecôtistes, et avec tous les autres âges. Ils essaient toujours de se cramponner encore au vieux système, et de le revendiquer. Mais le vieux système de chaque âge doit mourir — et pourrir — afin d’en produire un nouveau. Ils veulent encore s’accrocher. Remarquez, ils savent que le vieux système est mort, mais ils ne veulent pas pourrir pour pouvoir s’en sortir. Or, pourrir, signifie “disparaître complètement”.
+
+Lorsqu’ils déclarent être nés de nouveau… Une déclaration n’est qu’une prétention, c’est le pourrissement qui apporte la nouvelle naissance Vous devez pourrir complètement à cela, comme nous l’avons fait dans tous les âges — au travers de l’âge de Wesley, et ainsi de suite. Mais voilà comment sont les choses: après que la nouvelle naissance ait eut lieu… Luther vint avec une parole: “Le juste vivra par la foi”. Il ne pouvait plus se cramponner à l’ancien système, il devait en sortir.
+
+Lorsque les Calvinistes mirent l’église anglicane dans une situation telle (sous la doctrine calviniste) que Dieu suscitât une doctrine arminienne (celle de John Wesley)… L’ancien système devait mourir pour que le nouveau put être établi. Lorsque l’âge de Wesley cessa, et que tous les petits âges qui étaient comme des rejets sortant de la tige qui portait l’aigrette du temps de Wesley… Voyez! Lorsque la Pentecôte vint avec la restauration des dons, ils durent sortir des Baptistes, des «Pilgrim Holiness», Nazaréens, Eglise de Christ (ainsi nommée) et de tous les autres. Ils durent sortir de cela et pourrir, pour accepter la nouvelle naissance.
+
+Vous serez toujours traités de fous. Mais, comme le dit Paul, lorsqu’il “pourrit” aux choses qu’il avait proclamées: “… conformément à une certaine doctrine qu’ils appellent une hérésie, je sers le Dieu de mes pères” (Synodale) — conformément à une certaine doctrine qu’ils appellent une hérésie: voyez, il avait accepté la nouvelle vie que l’Ancien Testament avait enfantée — produisant le Nouveau. Et il devait complètement “pourrir” à l’Ancien (qui n’était qu’une ombre), afin de…
+
+C’est exactement là où nous en sommes, maintenant. Supportez-moi, je vous en prie, mais c’est mon idée. Les églises sont devenues tellement systématisées que vous ne pouvez pas entrer dans l’une d’elles, à moins de lui appartenir. Vous devez avoir une carte de membre, ou quelque autre moyen d’être identifié. A cause de cela, la seule porte qui me reste ouverte est celle des Hommes d’Affaires Chrétiens. Aussi longtemps qu’ils ne forment pas une organisation, je puis aller chez eux pour apporter aux gens le message que j’ai sur mon coeur. Mais c’est devenu tellement systématisé — pourtant je vous aime, vous, gens de Pentecôte. De toute façon, la Pentecôte n’est pas une organisation. Vous vous appelez comme cela. Car la Pentecôte, c’est une expérience, et non une dénomination.
+
+Mais voyez! Ce qui est difficile à beaucoup de personnes, lorsqu’elles considèrent cela et le croient, et qu’elles le voient si bien identifié par Dieu dans Sa Parole — c’est de pourrir complètement à la chose dans laquelle ils se trouvaient. «Que ferai-je? Où trouverai-je à manger?»… C’est Dieu qui est votre nourriture! Dieu est le Seul auquel vous deviez vous accrocher. “Cherchez premièrement le Royaume de Dieu et Sa justice”. Je m’arrêterai là, car vous savez ce dont je parle!
+
+Comme les prophètes de Dieu nous l’ont annoncé, nous aurons de nouveaux cieux et une nouvelle terre. Si vous désirez avoir un passage de l’Ecriture, c’est dans l’Apocalypse 21. Je pourrais vous le citer. Je l’ai ici, Jean dit: “Puis je vis un nouveau ciel et une nouvelle terre; car le premier ciel et la première terre avaient disparu…”. Ils étaient partis.
+
+Or, si nous devons avoir une nouvelle terre, l’ancienne et la nouvelle ne peuvent exister en même temps — ni le nouveau monde et l’ancien en même temps. Il ne peut y avoir ensemble, et simultanément, deux ordres du monde. Pour obtenir la nouvelle terre, il faut que meure l’ancienne, et puisque l’ancienne doit mourir, cela provoque alors, maintenant, pour la nouvelle, les douleurs de l’enfantement.
+
+Quand un médecin examine une patiente qui est en travail (et je sais que je suis en train de parler ici en présence de deux ou trois très bons docteurs en médecine, chrétiens), l’une des premières choses qu’il fera, après avoir observé la patiente, c’est de mesurer la cadence des douleurs — les douleurs de l’enfantement. Il mesure l’intervalle entre les douleurs, et l’intensité toujours plus grande de chacune d’elles. Chacune est plus violente que la précédente, et leur cadence s’accélère de plus en plus. C’est sa manière de poser le diagnostic: par les douleurs de
+
+http://www.cmpp.ch
+
+LES DOULEURS DE L’ENFANTEMENT 10
 l’enfantement.
-   Si ce monde doit donner naissance à un nouveau monde, alors examinons quelques-unes
-des douleurs d’enfantement que nous avons sur la terre. Alors, nous verrons à quel jour et à
-quel moment de son travail elle se trouve.
-   La première guerre mondiale a révélé une grande douleur — une douleur d’enfantement. Cela
-indiquait qu’elle entrait dans une des premières douleurs du travail d’enfantement. En ce temps-là,
-nous avons introduit les bombes, les mitrailleuses et les gaz toxiques. Et vous vous souvenez —
-mais peut-être beaucoup d’entre vous le peuvent-ils — je n’étais qu’un petit garçon d’environ huit
-ans, mais je me souviens que l’on parlait de ce gaz au chlore. A peine cela venait-il de commencer
-que l’on disait déjà que ces gaz brûleraient la terre entière, et tueraient tout le monde. Cela aurait
-pu arriver, avec ces vents qui balaient la terre; et, à la menace de cette arme terrible les gaz
-toxiques, chacun en était presque mort de frayeur. La terre ressentit sa première douleur
-d’enfantement.
-   Or, nous savons que nous avons eu une seconde guerre mondiale. Et ses douleurs furent
-toujours plus terrifiantes — c’étaient les douleurs d’enfantement de la terre. En ce temps-là, elle y
-laissa presque sa vie, à cause de la bombe atomique qui pouvait détruire des villes entières. Ces
-douleurs-là étaient plus grandes que celles de la première guerre mondiale qui avait ravagé la
-terre.
-   Maintenant, elle sait que le temps de sa délivrance est proche. La raison pour laquelle elle est
-aussi nerveuse et agitée, est qu’il y a une bombe à hydrogène et des missiles dans l’air, qui
-pourraient détruire le monde entier. Une nation, même si elle est petite, pourrait en effrayer une
-autre. Ils disent qu’ils ont des missiles qu’ils peuvent diriger par les satellites et les faire tomber à
-volonté sur n’importe quel endroit du monde.
-   J’entendis l’autre jour, aux nouvelles, que la Russie prétendait pouvoir détruire cette nation, tout
-en empêchant que les atomes et d’autres choses ne détruisent son pays. Nous ne savons que
-faire à ce sujet. Chacun proclame la même chose, et c’est ainsi. La science a fait irruption dans le
-grand laboratoire de Dieu. Ils vont se détruire eux-mêmes.
-   Dieu laisse toujours la sagesse se détruire elle-même. Dieu ne détruit rien du tout. L’homme
-se détruit lui-même par la sagesse, comme il le fit au commencement, en prenant la
-sagesse de Satan au lieu de la Parole de Dieu.
-   Elle sait qu’elle doit succomber. Elle ne peut supporter cela. Je crois que la Russie détruirait
-cette nation aujourd’hui, si elle pensait qu’elle pourrait la détruire tout en se préservant elle-même.
-Chacune de ces petites nations pourrait le faire, mais elles sont effrayées, parce qu’elles savent
-que ce monde, dans de telles conditions, ne peut demeurer sur son orbite. Ainsi, le monde sait
-que ces douleurs d’enfantement sont tellement grandes qu’il doit s’effacer. Il va y avoir
-prochainement une nouvelle naissance.
-   Je suis reconnaissant pour cela. Je suis fatigué de ce monde. Chacun reconnaît qu’ici, c’est un
-endroit de mort, de tristesse et de toutes sortes de désaccords, etc. Je suis content que tu doives
-t’effacer. Je suis heureux que le temps soit proche. Jean le disait il y a bien longtemps: “Amen!
-Viens, Seigneur Jésus!”.
-   Elle doit pourrir (bien sûr, comme je l’ai dit), afin de produire une nouvelle naissance. Regardez
-en quoi elle est pourrie. Remarquez, mes frères, elle est complètement POURRIE! Sa politique et
-son système sont aussi pourris qu’ils peuvent l’être. Pas un seul de ses os n’est sain — dans son
-système mondial! Sa politique et sa politique religieuse, et quoi qu’il y ait. — L’un dira: «Je suis un
-Démocrate»; l’autre: «Je suis un Républicain»; ou «Je suis un Méthodiste»; ou «Je suis un
-Baptiste» — oh! tout est pourri jusqu’à la moelle! Il doit y avoir quelque chose qui s’en aille! Elle ne
-peut tenir. Vous pouvez bien mettre un George Washington ou un Abraham Lincoln dans chaque
-comté des Etats-Unis, ils ne pourraient même pas enrayer le mal! Ils sont parvenus au-delà de la
-rédemption; une seule chose peut les aider, c’est la venue du Créateur!
-   Elle sait qu’elle doit s’en aller. Elle est dans les douleurs et dans l’angoisse. On ne sait que
-faire. L’un regarde ici, l’autre là; l’un craint l’autre; l’un essaie de faire quelque chose ou de détruire
-ceci, et celui-ci est en train de contredire celui-là et d’exterminer l’autre; à tel point que,
-maintenant, ils ont remis cela dans les mains d’un pécheur, qui pourrait détruire le monde en cinq
-minutes. Comprenez-vous?
 
-        http://www.cmpp.ch
+Si ce monde doit donner naissance à un nouveau monde, alors examinons quelques-unes des douleurs d’enfantement que nous avons sur la terre. Alors, nous verrons à quel jour et à quel moment de son travail elle se trouve.
+
+La première guerre mondiale a révélé une grande douleur — une douleur d’enfantement. Cela indiquait qu’elle entrait dans une des premières douleurs du travail d’enfantement. En ce temps-là, nous avons introduit les bombes, les mitrailleuses et les gaz toxiques. Et vous vous souvenez — mais peut-être beaucoup d’entre vous le peuvent-ils — je n’étais qu’un petit garçon d’environ huit ans, mais je me souviens que l’on parlait de ce gaz au chlore. A peine cela venait-il de commencer que l’on disait déjà que ces gaz brûleraient la terre entière, et tueraient tout le monde. Cela aurait pu arriver, avec ces vents qui balaient la terre; et, à la menace de cette arme terrible les gaz toxiques, chacun en était presque mort de frayeur. La terre ressentit sa première douleur d’enfantement.
+
+Or, nous savons que nous avons eu une seconde guerre mondiale. Et ses douleurs furent toujours plus terrifiantes — c’étaient les douleurs d’enfantement de la terre. En ce temps-là, elle y laissa presque sa vie, à cause de la bombe atomique qui pouvait détruire des villes entières. Ces douleurs-là étaient plus grandes que celles de la première guerre mondiale qui avait ravagé la terre.
+
+Maintenant, elle sait que le temps de sa délivrance est proche. La raison pour laquelle elle est aussi nerveuse et agitée, est qu’il y a une bombe à hydrogène et des missiles dans l’air, qui pourraient détruire le monde entier. Une nation, même si elle est petite, pourrait en effrayer une autre. Ils disent qu’ils ont des missiles qu’ils peuvent diriger par les satellites et les faire tomber à volonté sur n’importe quel endroit du monde.
+
+J’entendis l’autre jour, aux nouvelles, que la Russie prétendait pouvoir détruire cette nation, tout en empêchant que les atomes et d’autres choses ne détruisent son pays. Nous ne savons que faire à ce sujet. Chacun proclame la même chose, et c’est ainsi. La science a fait irruption dans le grand laboratoire de Dieu. Ils vont se détruire eux-mêmes.
+
+Dieu laisse toujours la sagesse se détruire elle-même. Dieu ne détruit rien du tout. L’homme se détruit lui-même par la sagesse, comme il le fit au commencement, en prenant la sagesse de Satan au lieu de la Parole de Dieu.
+
+Elle sait qu’elle doit succomber. Elle ne peut supporter cela. Je crois que la Russie détruirait cette nation aujourd’hui, si elle pensait qu’elle pourrait la détruire tout en se préservant elle-même. Chacune de ces petites nations pourrait le faire, mais elles sont effrayées, parce qu’elles savent que ce monde, dans de telles conditions, ne peut demeurer sur son orbite. Ainsi, le monde sait que ces douleurs d’enfantement sont tellement grandes qu’il doit s’effacer. Il va y avoir prochainement une nouvelle naissance.
+
+Je suis reconnaissant pour cela. Je suis fatigué de ce monde. Chacun reconnaît qu’ici, c’est un endroit de mort, de tristesse et de toutes sortes de désaccords, etc. Je suis content que tu doives t’effacer. Je suis heureux que le temps soit proche. Jean le disait il y a bien longtemps: “Amen! Viens, Seigneur Jésus!”.
+
+Elle doit pourrir (bien sûr, comme je l’ai dit), afin de produire une nouvelle naissance. Regardez en quoi elle est pourrie. Remarquez, mes frères, elle est complètement POURRIE! Sa politique et son système sont aussi pourris qu’ils peuvent l’être. Pas un seul de ses os n’est sain — dans son système mondial! Sa politique et sa politique religieuse, et quoi qu’il y ait. — L’un dira: «Je suis un Démocrate»; l’autre: «Je suis un Républicain»; ou «Je suis un Méthodiste»; ou «Je suis un Baptiste» — oh! tout est pourri jusqu’à la moelle! Il doit y avoir quelque chose qui s’en aille! Elle ne peut tenir. Vous pouvez bien mettre un George Washington ou un Abraham Lincoln dans chaque comté des Etats-Unis, ils ne pourraient même pas enrayer le mal! Ils sont parvenus au-delà de la rédemption; une seule chose peut les aider, c’est la venue du Créateur!
+
+Elle sait qu’elle doit s’en aller. Elle est dans les douleurs et dans l’angoisse. On ne sait que faire. L’un regarde ici, l’autre là; l’un craint l’autre; l’un essaie de faire quelque chose ou de détruire ceci, et celui-ci est en train de contredire celui-là et d’exterminer l’autre; à tel point que, maintenant, ils ont remis cela dans les mains d’un pécheur, qui pourrait détruire le monde en cinq minutes. Comprenez-vous?
+
+http://www.cmpp.ch
 
 LES DOULEURS DE L’ENFANTEMENT 11
-   Ainsi, elle sait qu’elle ne peut le supporter. Les gens savent qu’elle ne peut subsister, et le
-monde sait que cela va arriver, car Dieu l’a dit. Les cieux et la terre entière seront en feu. Il va y
-avoir un renouvellement de toutes choses, afin que puisse naître un nouveau monde. Dieu
-l’a prophétisé.
-   Elle est pourrie dans tout son système, et il doit en être ainsi, afin qu’elle pourrisse
-complètement. C’est pourquoi je dis qu’elle est si nerveuse et rouge de figure, et agitée. Et il y a
-des tremblements de terre partout, du haut en bas de la côte, et des raz-de-marée en Alaska, etc.,
-et les gens écrivent: «Devons-nous quitter cet endroit? Devons-nous quitter?». Voyez, ils ne
-savent que faire. Il n’y a aucune zone de sécurité, sinon UNE — c’est Christ, le Fils du Dieu
-Vivant. Il n’y en a qu’Un qui soit la zone de sécurité: c’est Lui. Et tout ce qui est en dehors de
-cela périra, aussi certainement que Dieu l’a dit.
-   Maintenant, consultons le “Livre du Docteur” (si donc elle se trouve dans cette condition), et
-voyons si cela est censé arriver quand la nouvelle terre doit naître — Matthieu 24 dans le “Livre du
-Docteur” (qui est la Bible), et voyons ce qui est prophétisé — et quels en seraient les symptômes.
-Or, si un médecin connaît les symptômes de la naissance d’un enfant… Et vers le moment où
-l’enfant doit arriver, il prépare tout, parce que tous les symptômes lui montrent que le
-temps est venu où l’enfant doit naître. Les eaux sont venues, puis le sang, et maintenant c’est
-le moment où l’enfant doit sortir, c’est l’instant où l’enfant doit naître. C’est pourquoi il prépare tout
-en vue de cela.
-   Or, Jésus nous dit exactement ce qui devrait arriver à ce moment précis. Il nous dit en
-Matthieu 24 que l’Eglise (la vraie église), et l’autre église — l’église naturelle et l’église spirituelle
-— deviendraient si proches l’une de l’autre (à cause des imitateurs), qu’ils séduiraient les vrais
-Elus, s’il était possible. Comme il en fut au temps de Noé, où l’on mangeait, buvait, se mariait et
-donnait en mariage, et toute cette immoralité du monde que nous voyons aujourd’hui — la Bible, le
-livre (le “Livre du Docteur”) dit que cela arriverait. Ainsi, quand nous voyons ces choses arriver,
-nous savons que la naissance est proche! Elle doit l’être. Oui m’sieur!
-   Jusqu’ici, nous avons considéré une nation — ou alors plutôt qu’une nation, un monde.
-Maintenant, revenons en arrière, et considérons quelques minutes Israël, type de l’église, et
-suivons-le peut-être pendant les dix prochaines minutes.
-   Israël a eu des douleurs d’enfantement, chaque fois qu’un prophète est venu sur la terre. Il
-avait des douleurs d’enfantement à son Message. Mais que fit le prophète? Il avait la Parole;
-cependant Israël avait semé tellement de pourriture et fabriqué en elle-même tant d’ordres
-systématiques, avant que chaque prophète le secouât et le jetât hors de ses fondements, que ces
-prophètes furent haïs de tout le monde. C’est pourquoi, quand Dieu envoya un prophète, l’église
-elle-même entra dans les douleurs de l’enfantement, parce que la Parole du Seigneur ne vient
-qu’au prophète, et à lui seulement. C’est-à-dire que la Parole qui a été proclamée pour ce jour-
-là est rendue manifeste par le prophète de cet âge — et il en a toujours été ainsi. Et les
-églises ont construit tellement de systèmes autour de la Parole — à tel point qu’Il les secoue et les
-jette hors de leur fondement! Cela provoque des douleurs d’enfantement.
-   Qu’était-ce donc? — “Revenez à la Parole! Revenez à la Parole!”. Les systèmes n’ont pas la
-Vie! C’est la Parole de Dieu qui a la Vie! C’est la Parole qui donne la Vie!
-   Son Message ramènera le reste de la Parole. Un petit groupe sortira, et il croira peut-être tôt ou
-tard — au temps de Noé, il n’y eut environ que huit personnes, mais de toute façon, Dieu ramena
-le reste, et détruisit l’autre partie.
-   Cela se passa au travers de tous les âges, jusqu’à ce que, finalement, l’église accouchât d’un
-Enfant mâle, et cet Enfant mâle était la Parole elle-même, faite chair. “Au commencement était
-la Parole, et la Parole était avec Dieu, et la Parole était Dieu… et la Parole a été faite chair, et elle
-a habité parmi nous…”. C’est avec la Parole du Père, seulement, qu’Il vainquit chaque démon,
-chaque puissance qui vint contre Lui sur la terre. A chaque tentation dans laquelle Satan Le
-conduisit, Il chassa Satan, non point avec sa propre puissance, mais avec la Parole de Dieu: “Il est
-écrit!…” “Il est écrit!…” “Il est écrit!…”. Parce qu’Il était la Parole!
-   Lorsque Satan s’attaqua à Eve, elle n’était pas la Parole, c’est pourquoi elle faillit. Quand il
-s’attaqua à Moïse, il en fut de même. Mais lorsqu’il toucha au Fils de Dieu, c’était du 10 000 volt! Il
-y perdit des plumes. Quand Jésus lui répliqua: “Il est écrit: L’homme ne vivra pas de pain
 
-        http://www.cmpp.ch
+Ainsi, elle sait qu’elle ne peut le supporter. Les gens savent qu’elle ne peut subsister, et le monde sait que cela va arriver, car Dieu l’a dit. Les cieux et la terre entière seront en feu. Il va y avoir un renouvellement de toutes choses, afin que puisse naître un nouveau monde. Dieu l’a prophétisé.
 
-    LES DOULEURS DE L’ENFANTEMENT    12
+Elle est pourrie dans tout son système, et il doit en être ainsi, afin qu’elle pourrisse complètement. C’est pourquoi je dis qu’elle est si nerveuse et rouge de figure, et agitée. Et il y a des tremblements de terre partout, du haut en bas de la côte, et des raz-de-marée en Alaska, etc., et les gens écrivent: «Devons-nous quitter cet endroit? Devons-nous quitter?». Voyez, ils ne savent que faire. Il n’y a aucune zone de sécurité, sinon UNE — c’est Christ, le Fils du Dieu Vivant. Il n’y en a qu’Un qui soit la zone de sécurité: c’est Lui. Et tout ce qui est en dehors de cela périra, aussi certainement que Dieu l’a dit.
+
+Maintenant, consultons le “Livre du Docteur” (si donc elle se trouve dans cette condition), et voyons si cela est censé arriver quand la nouvelle terre doit naître — Matthieu 24 dans le “Livre du Docteur” (qui est la Bible), et voyons ce qui est prophétisé — et quels en seraient les symptômes. Or, si un médecin connaît les symptômes de la naissance d’un enfant… Et vers le moment où l’enfant doit arriver, il prépare tout, parce que tous les symptômes lui montrent que le temps est venu où l’enfant doit naître. Les eaux sont venues, puis le sang, et maintenant c’est le moment où l’enfant doit sortir, c’est l’instant où l’enfant doit naître. C’est pourquoi il prépare tout en vue de cela.
+
+Or, Jésus nous dit exactement ce qui devrait arriver à ce moment précis. Il nous dit en Matthieu 24 que l’Eglise (la vraie église), et l’autre église — l’église naturelle et l’église spirituelle — deviendraient si proches l’une de l’autre (à cause des imitateurs), qu’ils séduiraient les vrais Elus, s’il était possible. Comme il en fut au temps de Noé, où l’on mangeait, buvait, se mariait et donnait en mariage, et toute cette immoralité du monde que nous voyons aujourd’hui — la Bible, le livre (le “Livre du Docteur”) dit que cela arriverait. Ainsi, quand nous voyons ces choses arriver, nous savons que la naissance est proche! Elle doit l’être. Oui m’sieur!
+
+Jusqu’ici, nous avons considéré une nation — ou alors plutôt qu’une nation, un monde. Maintenant, revenons en arrière, et considérons quelques minutes Israël, type de l’église, et suivons-le peut-être pendant les dix prochaines minutes.
+
+Israël a eu des douleurs d’enfantement, chaque fois qu’un prophète est venu sur la terre. Il avait des douleurs d’enfantement à son Message. Mais que fit le prophète? Il avait la Parole; cependant Israël avait semé tellement de pourriture et fabriqué en elle-même tant d’ordres systématiques, avant que chaque prophète le secouât et le jetât hors de ses fondements, que ces prophètes furent haïs de tout le monde. C’est pourquoi, quand Dieu envoya un prophète, l’église elle-même entra dans les douleurs de l’enfantement, parce que la Parole du Seigneur ne vient qu’au prophète, et à lui seulement. C’est-à-dire que la Parole qui a été proclamée pour ce jour-là est rendue manifeste par le prophète de cet âge — et il en a toujours été ainsi. Et les églises ont construit tellement de systèmes autour de la Parole — à tel point qu’Il les secoue et les jette hors de leur fondement! Cela provoque des douleurs d’enfantement.
+
+Qu’était-ce donc? — “Revenez à la Parole! Revenez à la Parole!”. Les systèmes n’ont pas la Vie! C’est la Parole de Dieu qui a la Vie! C’est la Parole qui donne la Vie!
+
+Son Message ramènera le reste de la Parole. Un petit groupe sortira, et il croira peut-être tôt ou tard — au temps de Noé, il n’y eut environ que huit personnes, mais de toute façon, Dieu ramena le reste, et détruisit l’autre partie.
+
+Cela se passa au travers de tous les âges, jusqu’à ce que, finalement, l’église accouchât d’un Enfant mâle, et cet Enfant mâle était la Parole elle-même, faite chair. “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu… et la Parole a été faite chair, et elle a habité parmi nous…”. C’est avec la Parole du Père, seulement, qu’Il vainquit chaque démon, chaque puissance qui vint contre Lui sur la terre. A chaque tentation dans laquelle Satan Le conduisit, Il chassa Satan, non point avec sa propre puissance, mais avec la Parole de Dieu: “Il est écrit!…” “Il est écrit!…” “Il est écrit!…”. Parce qu’Il était la Parole!
+
+Lorsque Satan s’attaqua à Eve, elle n’était pas la Parole, c’est pourquoi elle faillit. Quand il s’attaqua à Moïse, il en fut de même. Mais lorsqu’il toucha au Fils de Dieu, c’était du 10 000 volt! Il y perdit des plumes. Quand Jésus lui répliqua: “Il est écrit: L’homme ne vivra pas de pain
+
+http://www.cmpp.ch
+
+LES DOULEURS DE L’ENFANTEMENT    12
 seulement, mais de toute parole qui sort de la bouche de Dieu” — il y avait là cet Enfant mâle, fait
 chair, la Parole Eternelle de Dieu Lui-même manifestée ici sur la terre, dans ce corps de chair,
 pour représenter la Parole!
@@ -1205,7 +845,7 @@ donner de l’éclat au vrai.
 
         http://www.cmpp.ch
 
-    LES DOULEURS DE L’ENFANTEMENT    22
+LES DOULEURS DE L’ENFANTEMENT    22
    Maintenant, vous priez et vous croyez. Je vous défie de faire cela. Vous considérez et croyez
 ce que je vous ai dit. Combien croient que ceci est la vérité? Bien sûr! Qui que vous soyez, où que
 vous soyez. Chacun ici… Chacun ici, autant que je le sache, m’est totalement étranger, excepté
@@ -1316,4 +956,4 @@ Christ.
 
 
 
-    http://www.cmpp.ch
+        http://www.cmpp.ch
