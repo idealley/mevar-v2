@@ -2,7 +2,6 @@
 import { defineConfig } from "astro/config";
 
 import sitemap from "@astrojs/sitemap";
-import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
 import AstroPWA from "@vite-pwa/astro";
 import { slug } from "github-slugger";
@@ -43,7 +42,6 @@ export default defineConfig({
   markdown: { rehypePlugins: [rehypeBookmarks, rehypeBodyImages, rehypeBibleLinks, rehypeFrenchTypography] },
   integrations: [
     duplicateRedirects,
-    svelte(),
     sitemap(),
     AstroPWA({
       registerType: "autoUpdate",
@@ -56,8 +54,8 @@ export default defineConfig({
           description: "Étude de la Parole pour le temps de la fin",
           start_url: "/",
           display: "standalone",
-          background_color: "#fafaf9",
-          theme_color: "#1c1917",
+          background_color: "#fbfaf8",
+          theme_color: "#141110",
           lang: "fr",
           icons: [
             { src: "/brand/icon-192.png", sizes: "192x192", type: "image/png" },
@@ -66,12 +64,12 @@ export default defineConfig({
           ],
         },
         workbox: {
-          // The shell only, and no JS: no page loads an island today, and an
-          // island's JS comes with the page that uses it. Pages and images
-          // are cached when a reader opens
-          // them, never in bulk: the full corpus is 3,000+ pages, and our
-          // readers are on metered phones.
-          globPatterns: ["_astro/*.css", "index.html", "hors-ligne/index.html"],
+          // The shell only: the stylesheet, the few small scripts a page
+          // loads (a text's reading tools, « Mes lectures »), the home page.
+          // Pages and images are cached when a reader opens them, never in
+          // bulk: the full corpus is 3,000+ pages, and our readers are on
+          // metered phones.
+          globPatterns: ["_astro/*.{css,js}", "index.html", "hors-ligne/index.html"],
           // The plugin defaults this to "/", which would answer every
           // navigation with the home page once pages are not precached.
           navigateFallback: null,
@@ -88,6 +86,12 @@ export default defineConfig({
                   { handlerDidError: async () => caches.match("/hors-ligne/", { ignoreSearch: true }) },
                 ],
               },
+            },
+            {
+              // The three typefaces, each kept once a page has used it
+              urlPattern: ({ url }) => url.pathname.startsWith("/fonts/"),
+              handler: "CacheFirst",
+              options: { cacheName: "fonts" },
             },
             {
               // Mevar feature images
