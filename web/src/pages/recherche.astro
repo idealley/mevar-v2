@@ -74,11 +74,11 @@ const filters = [
   const PAGE = 10;
 
   // The index loads when the reader first touches the form, not with the page.
-  let pagefind: any;
-  async function load() {
-    if (pagefind) return pagefind;
+  let loading: Promise<any> | undefined;
+  const load = () => (loading ??= loadIndex());
+  async function loadIndex() {
     const path = "/pagefind/pagefind.js";
-    pagefind = await import(/* @vite-ignore */ path);
+    const pagefind = await import(/* @vite-ignore */ path);
     const values: Record<string, Record<string, number>> = await pagefind.filters();
     for (const select of selects) {
       const names = Object.keys(values[select.name] ?? {});
