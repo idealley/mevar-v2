@@ -21,15 +21,22 @@
 // Needs the PDFs: node scripts/20-download-pdfs.mjs manifests/branham-<year>.json
 // Run after 65, before 66.
 //
-// Done: goal 25 restored the last French names (the manifest is empty). Do
-// not run it again on the corpus: its second pass now aligns on the running
-// headers the PDF text interleaves, and would write « Hebrews WHAT SHALL I DO
-// WITH JESUS CALLED CHRIS T? 37 » into 64-0427.
+// Only in a rebuild from scratch, right after 73 has rewritten the bodies and
+// before 65d: goal 25 restored the last French names in the corpus (the
+// manifest is empty), and on it the second pass aligns on the running headers
+// the PDF text interleaves, which 65d no longer strips after it: it would
+// write « Hebrews WHAT SHALL I DO WITH JESUS CALLED CHRIS T? 37 » into
+// 64-0427. So it refuses to run without --from-scratch.
 
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { BOOKS_FR, BOOKS_EN, escRe, quotePattern as pattern, before2, after3 } from "./bible-books.mjs";
+
+if (!process.argv.includes("--from-scratch")) {
+  console.error("65b runs only in a rebuild from scratch, after 73 and before 65d: node scripts/65b-restore-branham-from-source.mjs --from-scratch");
+  process.exit(1);
+}
 
 const root = path.resolve(import.meta.dirname, "..");
 const mdRoot = path.join(root, "markdown/branham");
