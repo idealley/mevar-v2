@@ -186,4 +186,13 @@ report(
   `${items.length} items`,
 );
 
+// 6. Every page counts its visit, once (goal 29).
+report(
+  "every page carries the Google Analytics tag once",
+  pages
+    .filter((page) => fs.readFileSync(page, "utf8").split("googletagmanager.com/gtag/js?id=G-D3TVDDZ8H7").length !== 2)
+    .map((page) => path.relative(dist, page)),
+  `${pages.length} pages`,
+);
+
 process.exit(failed ? 1 : 0);

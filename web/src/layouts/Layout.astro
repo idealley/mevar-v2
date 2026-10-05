@@ -49,6 +49,22 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
+
+    {/* Google Analytics, the property mevar.org has counted its visits in
+        since Ghost (goal 29): how the site grows, not who reads. On the
+        built site only, and after everything else: the page does not wait
+        for it, and reads the same when it does not come. */}
+    {import.meta.env.PROD && (
+      <Fragment>
+        <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-D3TVDDZ8H7"></script>
+        <script is:inline>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() { dataLayer.push(arguments); }
+          gtag("js", new Date());
+          gtag("config", "G-D3TVDDZ8H7");
+        </script>
+      </Fragment>
+    )}
   </head>
 
   <body class="antialiased">
