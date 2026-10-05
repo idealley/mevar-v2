@@ -39,7 +39,12 @@ After goal 25, three things were left on Branham's side:
 3. **The 129 page headers** are removed by hand. Each spot is checked
    against the PDF's text. A paragraph number is never removed, and a spot
    that is not clearly furniture is left in place and listed. 65d then
-   rewrites its manifest with what is left.
+   rewrites its manifest with what is left. Where a page break had also
+   garbled the words beside it, the PDF's words are restored. There are
+   three such spots, found during the work and in its review:
+   - 53-0829: a doubled « you? »;
+   - 53-0905: a doubled « Jesus Christ. Amen. »;
+   - 59-0823: a paragraph number written as the reference « 2:33 ».
 4. **65b's manifest**: a rerun finds no French name left, so it is empty.
    The same rerun would also paste PDF running headers into three texts,
    so those text changes were discarded and 65b now warns against a rerun.

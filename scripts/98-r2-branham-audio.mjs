@@ -27,7 +27,7 @@ const dry = process.argv.includes("--dry");
 
 // an MP4 file (.m4a) names its type, « ftyp », in bytes 4 to 8
 const isMp4 = (buf) => buf.subarray(4, 8).toString() === "ftyp";
-const held = (file) => { try { const h = Buffer.alloc(8); const fd = fs.openSync(file, "r"); fs.readSync(fd, h, 0, 8, 0); fs.closeSync(fd); return isMp4(h); } catch { return false; } };
+const isMp4File = (file) => { try { const h = Buffer.alloc(8); const fd = fs.openSync(file, "r"); fs.readSync(fd, h, 0, 8, 0); fs.closeSync(fd); return isMp4(h); } catch { return false; } };
 
 async function download(from, file) {
   const res = await fetch(from);
@@ -55,7 +55,7 @@ async function worker() {
     const key = `audio/branham/${w.rel}.m4a`;
     const file = path.join(root, key);
     // a cached file that is not an MP4 (an error page) is downloaded again
-    if (!held(file)) {
+    if (!isMp4File(file)) {
       downloaded++;
       if (dry) continue;
       try { await download(w.audioUrl, file); } catch (e) { missing.push(`${w.md} (${e.message})`); continue; }
