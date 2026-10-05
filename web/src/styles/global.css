@@ -1,86 +1,376 @@
 @import "tailwindcss";
 
-@layer base {
-  :root {
-    --background: oklch(1 0 0);
-    --foreground: oklch(0.147 0.004 49.25);
-    --card: oklch(1 0 0);
-    --card-foreground: oklch(0.147 0.004 49.25);
-    --popover: oklch(1 0 0);
-    --popover-foreground: oklch(0.147 0.004 49.25);
-    --primary: oklch(0.216 0.006 56.043);
-    --primary-foreground: oklch(0.985 0.001 106.423);
-    --secondary: oklch(0.97 0.001 106.424);
-    --secondary-foreground: oklch(0.216 0.006 56.043);
-    --muted: oklch(0.97 0.001 106.424);
-    --muted-foreground: oklch(0.553 0.013 58.071);
-    --accent: oklch(0.97 0.001 106.424);
-    --accent-foreground: oklch(0.216 0.006 56.043);
-    --destructive: oklch(0.577 0.245 27.325);
-    --destructive-foreground: oklch(0.985 0.001 106.423);
-    --border: oklch(0.923 0.003 48.717);
-    --input: oklch(0.923 0.003 48.717);
-    --ring: oklch(0.709 0.01 56.259);
-    --radius: 0.5rem;
-  }
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
 
-  .dark {
-    --background: oklch(0.147 0.004 49.25);
-    --foreground: oklch(0.985 0.001 106.423);
-    --card: oklch(0.216 0.006 56.043);
-    --card-foreground: oklch(0.985 0.001 106.423);
-    --popover: oklch(0.216 0.006 56.043);
-    --popover-foreground: oklch(0.985 0.001 106.423);
-    --primary: oklch(0.923 0.003 48.717);
-    --primary-foreground: oklch(0.216 0.006 56.043);
-    --secondary: oklch(0.268 0.007 34.298);
-    --secondary-foreground: oklch(0.985 0.001 106.423);
-    --muted: oklch(0.268 0.007 34.298);
-    --muted-foreground: oklch(0.709 0.01 56.259);
-    --accent: oklch(0.268 0.007 34.298);
-    --accent-foreground: oklch(0.985 0.001 106.423);
-    --destructive: oklch(0.704 0.191 22.216);
-    --destructive-foreground: oklch(0.985 0.001 106.423);
-    --border: oklch(1 0 0 / 0.1);
-    --input: oklch(1 0 0 / 0.15);
-    --ring: oklch(0.553 0.013 58.071);
-  }
+/* The design's three faces (docs/website.pen), on our domain, latin subset.
+   Newsreader is the reading face: a page fetches it only if it has a body. */
+@font-face {
+  font-family: "Instrument Serif";
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/instrument-serif.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter Tight";
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("/fonts/inter-tight.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/newsreader-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/newsreader-600.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/newsreader-400-italic.woff2") format("woff2");
+}
+
+/* The design's variables, light and dark. Layout.astro sets data-theme before
+   the first paint: the reader's choice, or else the system's. */
+:root {
+  --bg: #fbfaf8;
+  --ink: #141110;
+  --ink-2: #5e574f;
+  --accent: #c64a26;
+  --accent-fill: #c64a26;
+  --on-accent: #fff6f1;
+  --on-invert: #f6f1ea;
+  --dark: #141110;
+  --dark-2: #1f1b18;
+  --panel: #141110;
+  --on-dark: #f6f1ea;
+  --on-dark-2: #a69c90;
+  --line: #e5e0d7;
+  --tint: #f2ece3;
+  --surface: #ffffff;
+  --muted: #9a9187;
+  --hairline: #2c2522;
+  --stroke: #3a3330;
+  --rail-icon: #a79d91;
+  --rail-line: #dfd7ca;
+  --read-ink: #2a2521;
+  --dim: #8a8075;
+  --dim-2: #6e6459;
+  --knob: #ffffff;
+  color-scheme: light;
+}
+:root[data-theme="dark"] {
+  --bg: #0c0a09;
+  --ink: #f5f0e9;
+  --ink-2: #a69c90;
+  --accent: #e2693d;
+  --on-invert: #141110;
+  --dark: #17130f;
+  --dark-2: #221d19;
+  --panel: #0a0807;
+  --on-dark: #f5f0e9;
+  --line: #2b2522;
+  --tint: #17130f;
+  --surface: #1c1917;
+  --muted: #7e756a;
+  --hairline: #342d28;
+  --stroke: #453d37;
+  --rail-icon: #6e6459;
+  --rail-line: #2e2724;
+  --read-ink: #e0d9ce;
+  --dim: #7e756a;
+  --dim-2: #8a8075;
+  --knob: #a69c90;
+  color-scheme: dark;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --color-card: var(--card);
-  --color-card-foreground: var(--card-foreground);
-  --color-popover: var(--popover);
-  --color-popover-foreground: var(--popover-foreground);
-  --color-primary: var(--primary);
-  --color-primary-foreground: var(--primary-foreground);
-  --color-secondary: var(--secondary);
-  --color-secondary-foreground: var(--secondary-foreground);
-  --color-muted: var(--muted);
-  --color-muted-foreground: var(--muted-foreground);
+  --color-*: initial;
+  --color-bg: var(--bg);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
   --color-accent: var(--accent);
-  --color-accent-foreground: var(--accent-foreground);
-  --color-destructive: var(--destructive);
-  --color-destructive-foreground: var(--destructive-foreground);
-  --color-border: var(--border);
-  --color-input: var(--input);
-  --color-ring: var(--ring);
-  --radius-sm: calc(var(--radius) - 4px);
-  --radius-md: calc(var(--radius) - 2px);
-  --radius-lg: var(--radius);
-  --radius-xl: calc(var(--radius) + 4px);
+  --color-accent-fill: var(--accent-fill);
+  --color-on-accent: var(--on-accent);
+  --color-on-invert: var(--on-invert);
+  --color-dark: var(--dark);
+  --color-dark-2: var(--dark-2);
+  --color-panel: var(--panel);
+  --color-on-dark: var(--on-dark);
+  --color-on-dark-2: var(--on-dark-2);
+  --color-line: var(--line);
+  --color-tint: var(--tint);
+  --color-surface: var(--surface);
+  --color-muted: var(--muted);
+  --color-hairline: var(--hairline);
+  --color-stroke: var(--stroke);
+  --color-rail-icon: var(--rail-icon);
+  --color-rail-line: var(--rail-line);
+  --color-read-ink: var(--read-ink);
+  --color-dim: var(--dim);
+  --color-dim-2: var(--dim-2);
+  --color-knob: var(--knob);
+  --color-white: #fff;
+  --color-transparent: transparent;
+  --font-display: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter Tight", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-read: "Newsreader", Georgia, "Times New Roman", serif;
 }
 
 @layer base {
   * {
-    border-color: var(--border);
-    outline-color: oklch(from var(--ring) l c h / 50%);
+    border-color: var(--line);
+  }
+  html {
+    font-family: var(--font-sans);
+    scroll-padding-top: 6.5rem;
   }
   body {
-    background-color: var(--background);
-    color: var(--foreground);
-    font-feature-settings: "rlig" 1, "calt" 1;
+    background-color: var(--bg);
+    color: var(--ink);
+  }
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+}
+
+/* The small capital labels above a title and on a card. */
+@utility eyebrow {
+  font-size: 11px;
+  line-height: 13px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--ink-2);
+}
+@utility cat {
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: 600;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+/* A 1px line drawn inside the box, as the design's strokes are: it takes no room. */
+@utility hair {
+  box-shadow: inset 0 0 0 1px var(--line);
+}
+
+@layer components {
+  .round-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 999px;
+    box-shadow: inset 0 0 0 1px var(--line);
+    color: var(--ink-2);
+    cursor: pointer;
+  }
+  .round-btn:hover,
+  .round-btn[aria-pressed="true"] {
+    color: var(--ink);
+    box-shadow: inset 0 0 0 1px var(--ink-2);
+  }
+  .round-btn[aria-pressed="true"] svg {
+    fill: currentColor;
+  }
+  .round-btn[data-done] {
+    color: var(--accent);
+  }
+  @media (width < 64rem) {
+    .round-btn {
+      width: 32px;
+      height: 32px;
+    }
+  }
+  .chip {
+    display: inline-flex;
+    flex-shrink: 0;
+    max-width: 100%;
+    border-radius: 999px;
+    padding: 10px 18px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    color: var(--ink);
+    box-shadow: inset 0 0 0 1px var(--line);
+  }
+  .chip:hover {
+    box-shadow: inset 0 0 0 1px var(--ink-2);
+  }
+  .chip[aria-current] {
+    background: var(--ink);
+    color: var(--on-invert);
+    box-shadow: none;
+  }
+  @media (width < 64rem) {
+    .chip {
+      padding: 9px 15px;
+      font-size: 13px;
+      line-height: 16px;
+    }
+  }
+  /* A Scripture reference on a card or under a text. */
+  .ref {
+    display: inline-flex;
+    flex-shrink: 0;
+    border-radius: 8px;
+    padding: 7px 12px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    background: var(--tint);
+    color: var(--ink-2);
+  }
+  a.ref:hover {
+    color: var(--ink);
+  }
+
+  /* The body of a work or of a site page, as markdown renders it. */
+  .prose-reader {
+    font-family: var(--font-read);
+    font-size: calc(20px * var(--read-scale, 1));
+    line-height: 1.8;
+    color: var(--read-ink);
+  }
+  .prose-reader > * + * {
+    margin-top: 30px;
+  }
+  .prose-reader > p:first-of-type {
+    font-size: 1.1em;
+    line-height: 1.682;
+    color: var(--ink);
+  }
+  .prose-reader :is(h2, h3, h4) {
+    font-family: var(--font-display);
+    font-weight: 400;
+    color: var(--ink);
+    padding-top: 18px;
+  }
+  .prose-reader > :first-child {
+    padding-top: 0;
+  }
+  .prose-reader h2 {
+    font-size: 1.9em;
+    line-height: 1.13;
+  }
+  .prose-reader h3 {
+    font-size: 1.5em;
+    line-height: 1.2;
+  }
+  .prose-reader h4 {
+    font-size: 1.25em;
+    line-height: 1.25;
+  }
+  .prose-reader blockquote {
+    border-left: 3px solid var(--accent);
+    padding: 4px 0 4px 30px;
+    font-family: var(--font-display);
+    font-size: 1.2em;
+    line-height: 1.458;
+    color: var(--ink);
+  }
+  .prose-reader blockquote > * + * {
+    margin-top: 14px;
+  }
+  .prose-reader strong {
+    font-weight: 600;
+  }
+  /* The display face has one weight and no italic. */
+  .prose-reader blockquote :is(strong, em) {
+    font-weight: 400;
+    font-style: normal;
+  }
+  .prose-reader :is(ul, ol) {
+    padding-left: 1.4em;
+  }
+  .prose-reader ul {
+    list-style: disc;
+  }
+  .prose-reader ol {
+    list-style: decimal;
+  }
+  .prose-reader li + li {
+    margin-top: 0.4em;
+  }
+  .prose-reader a {
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+  }
+  .prose-reader a:hover {
+    color: var(--accent);
+  }
+  .prose-reader a.bible-ref {
+    text-decoration-style: dotted;
+  }
+  .prose-reader img {
+    border-radius: 16px;
+    height: auto;
+  }
+  .prose-reader hr {
+    border-color: var(--line);
+  }
+  .prose-reader table {
+    display: block;
+    overflow-x: auto;
+    font-family: var(--font-sans);
+    font-size: 0.75em;
+    line-height: 1.5;
+  }
+  .prose-reader :is(th, td) {
+    border-bottom: 1px solid var(--line);
+    padding: 8px 12px 8px 0;
+    text-align: left;
+    vertical-align: top;
+  }
+  .prose-reader sup {
+    font-family: var(--font-sans);
+    font-size: 0.6em;
+  }
+  @media (width < 64rem) {
+    .prose-reader {
+      font-size: calc(18px * var(--read-scale, 1));
+      line-height: 1.778;
+    }
+    .prose-reader > * + * {
+      margin-top: 22px;
+    }
+    .prose-reader > p:first-of-type {
+      font-size: 1em;
+      line-height: inherit;
+      color: var(--read-ink);
+    }
+    .prose-reader blockquote {
+      padding: 2px 0 2px 18px;
+      font-size: 1.111em;
+      line-height: 1.35;
+    }
+  }
+}
+
+/* On paper: the text alone, dark on white whatever the theme. */
+@media print {
+  [data-noprint] {
+    display: none !important;
+  }
+  :root[data-theme="dark"] {
+    --bg: #fff;
+    --ink: #141110;
+    --ink-2: #5e574f;
+    --read-ink: #2a2521;
+    --accent: #c64a26;
+    --line: #e5e0d7;
   }
 }

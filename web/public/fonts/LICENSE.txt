@@ -1,0 +1,10 @@
+The fonts in this directory are served under the SIL Open Font License 1.1
+(https://openfontlicense.org), latin subset, from Google Fonts:
+
+- Instrument Serif: Copyright 2022 The Instrument Serif Project Authors
+  (https://github.com/Instrument/instrument-serif)
+- Inter Tight: Copyright 2022 The Inter Project Authors
+  (https://github.com/rsms/inter)
+- Newsreader: Copyright 2020 The Newsreader Project Authors
+  (https://github.com/productiontype/Newsreader); the three files are static
+  instances of the variable font (opsz 18; wght 400, 600; italic 400).
