@@ -319,9 +319,6 @@
     border-radius: 16px;
     height: auto;
   }
-  .prose-reader hr {
-    border-color: var(--line);
-  }
   .prose-reader table {
     display: block;
     overflow-x: auto;

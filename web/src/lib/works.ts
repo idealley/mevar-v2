@@ -97,8 +97,8 @@ function inCategory(e: WorkEntry, category: string): boolean {
 
 /** The list a card names above its title and a work page leads back to: the first a work is in. */
 export function categoryOf(e: WorkEntry): { slug: string; title: string } | undefined {
-  const slug = Object.keys(CATEGORIES).find((c) => inCategory(e, c));
-  return slug ? { slug, title: CATEGORIES[slug].title } : undefined;
+  const category = Object.keys(CATEGORIES).find((c) => inCategory(e, c));
+  return category ? { slug: category, title: CATEGORIES[category].title } : undefined;
 }
 
 // ─── What a card and a work page show of a work ──────────────────────────────
@@ -165,7 +165,7 @@ export async function mevarWorks(): Promise<WorkEntry[]> {
   return (await allWorks()).filter(isMevar);
 }
 
-/** The series of the Mevar works, each in reading order, the one read most recently first. */
+/** The series of the Mevar works, each in reading order, the one with the newest part first. */
 export async function seriesList(): Promise<{ name: string; slug: string; parts: WorkEntry[] }[]> {
   const byName = new Map<string, WorkEntry[]>();
   for (const e of await mevarWorks()) {
