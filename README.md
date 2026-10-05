@@ -103,7 +103,7 @@ node scripts/73-apply-llm.mjs <source>                # apply cache → markdown
 
 # 5. Bible reference normalization
 node scripts/65-normalize-bible.mjs                   # French (a path argument limits it, and merges)
-node scripts/65b-restore-branham-from-source.mjs      # branham: undo old damage from the PDFs (needs 20 first)
+node scripts/65b-restore-branham-from-source.mjs --from-scratch  # branham: undo old damage from the PDFs (needs 20; only after 73)
 node scripts/65d-strip-branham-furniture.mjs          # branham: page headers out, where the PDF confirms them (needs 20 first)
 node scripts/66-normalize-bible-en.mjs                # English (branham)
 node scripts/47-lift-manifest-fields.mjs              # bible_refs + urls into frontmatter
@@ -124,7 +124,13 @@ node scripts/check-local-assets.mjs                   # every local asset link r
 node scripts/48-detect-series.mjs                     # mevar article series
 node scripts/49-link-le-scribe-branham.mjs            # French summary ↔ English sermon
 
-# 9. Index
+# 9. PDFs and recordings: generated, and on R2 (files.mevar.org)
+node scripts/95-mevar-pdfs.mjs                        # Mevar texts: their PDF and their original
+node scripts/96-r2-pdfs.mjs                           # Branham, Le Scribe, CMPP PDFs → local_pdf
+node scripts/97-mevar-media.mjs                       # Ghost posts' recordings and videos → local_audio, video_url
+node scripts/98-r2-branham-audio.mjs                  # Branham recordings → local_audio
+
+# 10. Index
 node scripts/50-build-index.mjs                       # build master index.json, run last
 ```
 
@@ -132,7 +138,7 @@ node scripts/50-build-index.mjs                       # build master index.json,
 
 - `pdfs/` — all original PDFs (227 MB downloaded; regenerable from manifests)
 - `onedrive/` — original OneDrive collection (62 MB)
-- `audio/` — sermon audio (1.8 GB)
+- `audio/` — the Mevar recordings (Samuel's, 1.8 GB), their MP3s in `audio/mp3/`, and the Branham recordings in `audio/branham/` (27 GB, regenerable by 98)
 - `mevar.ghost.*.json` — Ghost export (38 MB)
 - `.llm-cache*/` — LLM response cache (~140 MB; regenerable from PDFs + API)
 - `.firecrawl/` — firecrawl scratch
