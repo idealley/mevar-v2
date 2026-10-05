@@ -14,6 +14,7 @@ Find which docs exist on each source and collect their URLs.
 | `12-discover-cmpp.mjs`                  | cmpp.ch      | `manifests/cmpp.json`                   |
 | `40-process-mevar.mjs`                  | firecrawl crawl → `markdown/mevar/` (later replaced by Ghost)   |
 | `45-process-ghost.mjs`                  | mevar Ghost export → final `markdown/mevar/` + tags + authors    |
+| `49b-link-cmpp-branham.mjs`             | each CMPP translation of a Branham sermon → `original:` / `translation_fr:`, and its year folder; unresolved to `manifests/cmpp-branham-unresolved.json` |
 | `60-onedrive-inventory.mjs`             | onedrive/    | `manifests/onedrive-inventory.json` (sha1 dedup) |
 | `80-download-mevar-pdfs.mjs`            | mevar CDN    | `manifests/mevar-pdfs.json`             |
 | `81-dedup-mevar-pdfs.mjs`               | content fingerprint vs onedrive | `manifests/mevar-pdfs-triage.json` |

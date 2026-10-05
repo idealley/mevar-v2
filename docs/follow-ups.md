@@ -111,11 +111,13 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 
 **Fix**: if it matters, have the page ask the worker to cache `location.href` once it is active (a few lines in the registration).
 
-## CMPP translations with no Branham link
+## CMPP: what goal 16 has not done yet
 
-**Status**: `markdown/cmpp/` holds 107 works with `preacher: "William Branham"`, the CMPP's French translations (1954 to 1965 by frontmatter date, all filed under `cmpp/undated/`; the full Seven Seals series of March 1963 among them). None carries `original:` and no Branham file points back at them, so a reader on the English sermon does not learn that a full French translation exists, and the Branham timeline in `infographics.md` cannot count them per sermon.
+**Status**: goal 16's items 6 to 9 are done, item 5 in part (2026-10-05): `49b-link-cmpp-branham.mjs` links 96 of the 107 Branham translations to their sermon (`original:` on the translation, `translation_fr:` on the sermon) and files 173 CMPP works under their year. 11 translations wait in `manifests/cmpp-branham-unresolved.json` for Samuel's answers (`scripts/cmpp-branham-decided.json`): `les_aigles_de_dieu`, `la_profondeur`, `eden` and eight tracts that may be Ewald Frank's. 30 works stay under `cmpp/undated/`.
 
-**Fix**: goal 16 (`docs/goals/goal-16-cmpp-complete.md`): the same approach as `49-link-le-scribe-branham.mjs`, by date and time of day, then the English title from the booklet's title page, writing `original:` on the translation and a `translation_fr:` twin of `summary_fr` on the sermon; the linked files move out of `undated/` since the work's URL is its path. The same goal rediscovers cmpp.ch (the crawl cache and the PDFs are gone from the Mac; series 6 stops at booklet 5), cleans the three works whose LLM pass failed (`lc56`, `serie1no8`, `serie4no6`, raw bodies today) and folds the 30 layout variants (`_A4`, `_A5`, `_gc`, `_traite`) of 13 texts.
+**Fix**: goal 16's items 1 to 4, each with its own gate: rediscover cmpp.ch (a crawl, on the Mac), download and clean what is new and the three works the LLM pass failed on (`lc56`, `serie1no8`, `serie4no6`: paid, with an estimate first), fold the 13 groups of layout variants (`_A4`, `_A5`, `_gc`, `_traite`) with `duplicate_of`. And what is left of item 5: the title pages against the PDFs, the dates a model set (`la_profondeur`, `islam`).
+
+Two loose ends of the move: the moved works' `local_pdf` still names `…/cmpp/undated/<id>.pdf` on files.mevar.org (it answers; `96`'s next run would upload them again under the new path, Samuel's call), and `100-ingest-surrealdb.mjs` still calls every CMPP work a `bible_study` where the site now calls Branham's a `sermon`.
 
 ## Cross-language linking
 
