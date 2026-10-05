@@ -14,6 +14,8 @@ node_modules/
 # the cleaned markdown counterparts under markdown/onedrive/ etc are kept.
 /pdfs/
 /audio/
+# the cf CLI's local cache (the Cloudflare account it is logged in to)
+/.cloudflare/
 /onedrive/
 mevar.ghost.*.json
 fra.traineddata
