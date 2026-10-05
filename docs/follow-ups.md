@@ -113,7 +113,7 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 
 ## CMPP: what goal 16 has not done yet
 
-**Status**: goal 16's items 6 to 9 are done, item 5 in part (2026-10-05): `49b-link-cmpp-branham.mjs` links 96 of the 107 Branham translations to their sermon (`original:` on the translation, `translation_fr:` on the sermon) and files 173 CMPP works under their year. 11 translations wait in `manifests/cmpp-branham-unresolved.json` for Samuel's answers (`scripts/cmpp-branham-decided.json`): `les_aigles_de_dieu`, `la_profondeur`, `eden` and eight tracts that may be Ewald Frank's. 30 works stay under `cmpp/undated/`.
+**Status**: goal 16's items 6 to 9 are done, item 5 in part (2026-10-05): `49b-link-cmpp-branham.mjs` links 97 of the 107 Branham translations to their sermon (`original:` on the translation, `translation_fr:` on the sermon) and files 173 CMPP works under their year. 9 translations wait in `manifests/cmpp-branham-unresolved.json` for an answer (`scripts/cmpp-branham-decided.json`): `les_aigles_de_dieu` and eight tracts that may be Ewald Frank's; `eden` is decided to translate no sermon, and still names William Branham as its preacher. 30 works stay under `cmpp/undated/`.
 
 **Fix**: goal 16's items 1 to 4, each with its own gate: rediscover cmpp.ch (a crawl, on the Mac), download and clean what is new and the three works the LLM pass failed on (`lc56`, `serie1no8`, `serie4no6`: paid, with an estimate first), fold the 13 groups of layout variants (`_A4`, `_A5`, `_gc`, `_traite`) with `duplicate_of`. And what is left of item 5: the title pages against the PDFs, the dates a model set (`la_profondeur`, `islam`).
 

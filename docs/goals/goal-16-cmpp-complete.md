@@ -208,10 +208,15 @@ need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
   dates a model set are known to be wrong and stay: `la_profondeur`
   (`1954-07-01`, where the booklet says « Juillet 1954 ») and `islam`
   (`2001-01-01`).
-- **Item 6, the links.** 107 translations: 96 linked (60 by the English
-  title, 20 as the only sermon of their day, 16 by the time of day), 11
-  unresolved, 0 decided. No sermon has two translations. All 96 pairs were
-  read, French title against English title.
+- **Item 6, the links.** 107 translations: 97 linked (60 by the English
+  title, 20 as the only sermon of their day, 16 by the time of day, 1
+  decided), 1 decided to have no sermon, 9 unresolved. No sermon has two
+  translations. All 97 pairs were read, French title against English title.
+- **Samuel's answers (2026-10-05)**, in `scripts/cmpp-branham-decided.json`:
+  `la_profondeur` is « The Deep Calleth to the Deep » (54-0624, Washington,
+  D.C.; the booklet says « juillet 1954 »); `eden` is not a sermon of
+  Branham's (« I guess you are right »; its `preacher` is not changed
+  here); `les_aigles_de_dieu`, he does not know.
 - **Four booklets print another time of day than the archive gives their
   sermon.** The English title decides, and Samuel may want to confirm:
   `serie1no2` (« matin ») is 65-0718E, `serie1no9` (« soir ») is 63-0707M,
@@ -219,7 +224,7 @@ need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
   and « après-midi ») is 65-0418E. Two more print another day than their
   frontmatter and are settled the same way: `serie4no6` (its cover carries
   the previous issue's date, as `76` notes) and `serie5no3`.
-- **Item 7, the folders.** 173 works moved out of `cmpp/undated/`: the 96
+- **Item 7, the folders.** 173 works moved out of `cmpp/undated/`: the
   linked ones to their sermon's year, and 77 others, each to the year of
   its frontmatter when a short line of its title page prints that year
   (« Krefeld, mai 1985 », « Copyright © 1978 »). 30 stay. This is wider
@@ -238,16 +243,14 @@ need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
 - **Idempotent.** A second run of `49b`, `65`, `47` and `50` changes
   nothing. `160` rewrites its timestamp, as it does on `main`.
 
-### For Samuel: the 11 unresolved
+### Still unresolved: 9
 
 Answer in `scripts/cmpp-branham-decided.json`, `"<id>": "<branham id>"` or
 `"none"`, then rerun `49b`, `65`, `47`, `50`.
 
 | id | Title | Title page | Why |
 | -- | ----- | ---------- | --- |
-| `les_aigles_de_dieu` | Les Aigles de Dieu | 4 mars 1960, après-midi, « God's Eagles » | the only sermon the archive has that day is 60-0304, « Thirsting for Life » |
-| `la_profondeur` | La Profondeur appelle la Profondeur | « Juillet 1954 », « Texte du film » | no day |
-| `eden` | Le séducteur, Caïn et le péché originel | none | no date; this goal doubts it is Branham's |
+| `les_aigles_de_dieu` | Les Aigles de Dieu | 4 mars 1960, après-midi, « God's Eagles » | the only sermon the archive has that day is 60-0304, « Thirsting for Life »; Samuel does not know |
 | `le_bapteme_une_question_importante` (and `_A4_traite`) | Le Baptême ? Une question importante ! | none | a tract, no date |
 | `quand_dieu` (and `_A4_traite`) | Quand Dieu devint homme | none | a tract, no date |
 | `quel_bapteme` (and `_A4_traite`) | De quel baptême avez-vous donc été baptisé ? | none | a tract, no date |

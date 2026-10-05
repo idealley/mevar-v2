@@ -13554,8 +13554,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1954/54-0624.md",
-    "size_bytes": 53606,
-    "line_count": 305
+    "size_bytes": 53648,
+    "line_count": 306
   },
   {
     "source": "branham",
@@ -77277,10 +77277,10 @@
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
-    "original": null,
+    "original": "branham/1954/54-0624",
     "local_md": "markdown/cmpp/1954/la_profondeur.md",
-    "size_bytes": 59259,
-    "line_count": 262
+    "size_bytes": 59292,
+    "line_count": 263
   },
   {
     "source": "cmpp",
@@ -161541,7 +161541,7 @@
     "tags": [
       "Prédications",
       "2015",
-      "Chantier",
+      "La foi",
       "Sinfra"
     ],
     "authors": [
@@ -161558,7 +161558,7 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/untitled.md",
-    "size_bytes": 38479,
+    "size_bytes": 38477,
     "line_count": 125
   },
   {

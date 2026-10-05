@@ -40,7 +40,7 @@ One row per year. Per year, three counts drawn from the corpus:
    their sermon by `summary_fr` on the Branham side (`49-link-le-scribe-branham.mjs`).
 3. French translations: `markdown/cmpp/`, 107 works with
    `preacher: "William Branham"`, translated by the CMPP (Ewald Frank's
-   French publishing side, cmpp.ch), 96 linked to their sermon by
+   French publishing side, cmpp.ch), 97 linked to their sermon by
    `translation_fr` on the Branham side (`49b-link-cmpp-branham.mjs`), each
    under its sermon's year. The Seven Seals series of March 1963 is there
    (`7sceaux1` to `7sceaux10`).
