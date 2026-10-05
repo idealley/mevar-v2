@@ -255,3 +255,24 @@ Answer in `scripts/cmpp-branham-decided.json`, `"<id>": "<branham id>"` or
 | `quand_dieu` (and `_A4_traite`) | Quand Dieu devint homme | none | a tract, no date |
 | `quel_bapteme` (and `_A4_traite`) | De quel baptême avez-vous donc été baptisé ? | none | a tract, no date |
 | `savez-vous` (and `_A4_traite`) | Le savez-vous… ? | none | a tract, no date |
+
+### The LLM pass: the estimate, written before spending (2026-10-06)
+
+- **Works:** 277. The 274 PDFs `12` found on cmpp.ch that the manifest did
+  not have, and the three the first pass failed on (`lc56`, `serie1no8`,
+  `serie4no6`).
+- **Text:** 4,143,583 characters of extracted text for the 274, 290,694
+  for the three: 4.43 million characters.
+- **Tokens:** at 3 characters a token (a low figure for French, so a high
+  count): 1.48 million in, plus the system prompt on each of about 400
+  calls (0.18 million): **1.66 million in**. Out, the same text without
+  the layout's spaces, and the metadata: **1.5 million out**.
+- **Price:** the API lists two models today, `deepseek-flash` and
+  `deepseek-v4-pro` (`deepseek-chat`, the script's default, is no longer
+  listed). At Flash's peak price (0.30 USD a million in, 1.20 out):
+  0.50 + 1.80 = **2.30 USD**, 3.00 USD with a third more for retries. If
+  the calls were billed at v4-pro's peak price (1.32 and 3.96): 8.13 USD,
+  10.60 USD with the same margin.
+- **Limit:** 15 USD (Samuel). Both figures are under it. The first call is
+  one small text, to read the usage the API reports and check this
+  estimate before the rest runs.
