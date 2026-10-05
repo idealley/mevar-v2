@@ -1,0 +1,139 @@
+[
+  {
+    "cmpp": "eden",
+    "title": "Le séducteur — Caïn et le péché originel",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": null
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  },
+  {
+    "cmpp": "la_profondeur",
+    "title": "La Profondeur Appelle La Profondeur",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": "Texte du film"
+    },
+    "frontmatter_date": "1954-07-01",
+    "reason": "no Branham sermon that day",
+    "candidates": []
+  },
+  {
+    "cmpp": "le_bapteme_une_question_importante",
+    "title": "Le Baptême? Une Question Importante!",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": null
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  },
+  {
+    "cmpp": "le_bapteme_une_question_importante_A4_traite",
+    "title": "Le Baptême? Une Question Importante!",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": null
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  },
+  {
+    "cmpp": "les_aigles_de_dieu",
+    "title": "Les Aigles de Dieu",
+    "title_page": {
+      "day": "1960-03-04",
+      "time": "après-midi",
+      "in_parentheses": "God’s Eagles"
+    },
+    "frontmatter_date": "1960-03-04",
+    "reason": "the title page says « God’s Eagles », no sermon that day has those words",
+    "candidates": [
+      {
+        "branham": "60-0304",
+        "title": "Thirsting for Life"
+      }
+    ]
+  },
+  {
+    "cmpp": "quand_dieu",
+    "title": "Quand Dieu devint Homme",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": null
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  },
+  {
+    "cmpp": "quand_dieu_A4_traite",
+    "title": "Quand Dieu devint un homme",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": null
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  },
+  {
+    "cmpp": "quel_bapteme",
+    "title": "De quel baptême avez-vous donc été baptisé?",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": "Actes 19.3"
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  },
+  {
+    "cmpp": "quel_bapteme_A4_traite",
+    "title": "De quel baptême avez-vous donc été baptisé?",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": null
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  },
+  {
+    "cmpp": "savez-vous",
+    "title": "Le savez-vous… ?",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": null
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  },
+  {
+    "cmpp": "savez-vous_A4_traite",
+    "title": "Savez-vous que...?",
+    "title_page": {
+      "day": null,
+      "time": null,
+      "in_parentheses": null
+    },
+    "frontmatter_date": null,
+    "reason": "no date on the title page nor in the frontmatter",
+    "candidates": []
+  }
+]
