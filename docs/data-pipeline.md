@@ -14,8 +14,8 @@ Find which docs exist on each source and collect their URLs.
 | `12-discover-cmpp.mjs`                  | cmpp.ch, by a plain fetch of its pages (home page and sitemap; on the Mac) | `manifests/cmpp.json`: an entry it has is kept as it is, a PDF it has not is added, an entry no longer linked on the site is kept and named |
 | `40-process-mevar.mjs`                  | firecrawl crawl → `markdown/mevar/` (later replaced by Ghost)   |
 | `45-process-ghost.mjs`                  | mevar Ghost export → final `markdown/mevar/` + tags + authors    |
-| `76b-cmpp-title-pages.mjs`              | what a CMPP work's own text says against the model's `date`, `preacher`: a hand-read table, into the frontmatter and `manifests/cmpp.json`. After 73 |
-| `83b-cmpp-variants.mjs`                 | the CMPP's layouts of one text (`_A4`, `_A5`, `_gc`, `_traite`) → `duplicate_of:` on all but one, when the bodies agree; every group in `manifests/cmpp-variants.json`. After 73 and 49b |
+| `76b-cmpp-title-pages.mjs`              | what a CMPP work's own text says against the model's `date`, `preacher`: a hand-read table, and one rule (a text dated by its month has `YYYY-MM`, not the first of the month), into the frontmatter and `manifests/cmpp.json`. After 73 |
+| `83b-cmpp-variants.mjs`                 | the CMPP's layouts of one text (`_A4`, `_A5`, `_gc`, `_traite`) → `duplicate_of:` on all but one, when the bodies agree, and four letters the corpus has under two names; every group in `manifests/cmpp-variants.json`. After 73 and 49b |
 | `49b-link-cmpp-branham.mjs`             | each CMPP translation of a Branham sermon → `original:` / `translation_fr:`, and its year folder; unresolved to `manifests/cmpp-branham-unresolved.json` |
 | `60-onedrive-inventory.mjs`             | onedrive/    | `manifests/onedrive-inventory.json` (sha1 dedup) |
 | `80-download-mevar-pdfs.mjs`            | mevar CDN    | `manifests/mevar-pdfs.json`             |

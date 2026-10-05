@@ -239,9 +239,42 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
   0.98; the lowest (0.82 to 0.93, six « Sommaire » of 2005 to 2008) are
   PDFs whose kerning cuts words (« v ersé »), which the model rejoined.
   Three texts where it had spelled out the Bible abbreviations (« Gen. » to
-  « Genèse ») were run again and keep them. `local_pdf` is not set on the
-  new works: `96` uploads to R2, and that run is Samuel's; their pages link
-  the PDF on cmpp.ch.
+  « Genèse ») were run again and keep them.
+
+  The review's first round then read the bodies against their PDFs, and
+  what the model or an older step had changed was put back, word by word
+  (each cleaned text aligned with its extraction; a word restored only
+  where the PDF prints it):
+  - `lc56`: 66 references are abbreviated again (« (1 Timothée 1.1) » back
+    to « (1 Tim. 1.1) »). They had been spelled out before this goal, in
+    the raw body the corpus held (the old `65` wrote citations canonical),
+    and the pass kept them. The body now has the PDF's 79 abbreviated
+    references.
+  - 141 accents are the PDF's again in 14 works, nearly all capitals the
+    model had accented (« Église » back to « Eglise », « Éternel » to
+    « Eternel »): `le_reveil_promis` (58), `lc5_A5` (32),
+    `exhortation_annee_2023_A4_gc` (19), `video_02_2005` (12), `lc56` (6),
+    and one to three each in nine others (« précèdera » in three
+    « Sommaire »).
+  - 20 words: « révèlera », « assemblé », « partagent », « que homme »,
+    « Mathieu », and in the A5 duplicates the words the
+    model had altered or left cut at a page end (« inimaginables »,
+    « deuxièmement », « critiqueuses », « parviennent », « transmutation »).
+    A misprint of the PDF is the PDF's and stays (« l’assemblé »,
+    « la écompense », « cala »).
+  Not restored: « II » for « Il » in two A5 duplicates (the PDF's text has
+  two capital I), and what the first pass may have done to the 239 older
+  bodies, which nobody has read against their PDFs.
+
+  `local_pdf` is not set on the new works: `96` uploads to R2, and that
+  run is Samuel's; their pages link the PDF on cmpp.ch.
+
+  **One new PDF is not a work**: `faire_part_alexis_barilier` is a death
+  notice that names a family person by person. It is a draft
+  (`status: "draft"`: not built, not listed, not indexed), and the names
+  and towns the model had lifted into `persons`, `tags`, `places` and
+  `summary` are removed (`76b`). The file and its body stay. **Samuel
+  decides** whether it is published at all, or deleted.
 - **Item 3, the three errored works.** `lc56`, `serie1no8`, `serie4no6`
   are cleaned; their title, subtitle, date, place and preacher are the
   ones `76` wrote (the model's were left out of the cache before `73`),
@@ -251,11 +284,16 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
   tokens; `74` now shortens them before the call. No file of
   `markdown/cmpp/` is left without `llm_cleaned: true`.
 - **Item 4, the layouts.** `83b-cmpp-variants.mjs`: with the new works the
-  13 groups are **75**, and **90 files are duplicates** (23 the corpus
-  had, 67 new): 516 works, **426 built**. Every variant passes the body
-  check, none is left out: the lowest is 0.925 of
-  `exhortation_annee_2025_A5` in its A4. Keepers and duplicates are in
-  `manifests/cmpp-variants.json`. Where the id without a suffix is new
+  13 groups are **75**, and **94 files are duplicates** (27 the corpus
+  had, 67 new): 516 works, **421 built** (422 that are no duplicate, less
+  the draft). Every variant passes the body check, none is left out: the
+  lowest is 0.925 of `exhortation_annee_2025_A5` in its A4. Keepers and
+  duplicates are in `manifests/cmpp-variants.json`. Four of the 94 are no
+  layouts: `janvier1974`, `mars1974`, `juillet1974`, `octobre1974` are
+  the letters cmpp.ch now names `lc_janvier_1974` and so on (0.996 to
+  0.999 both ways), a small table in `83b`. Both names were in the corpus
+  before this goal; the one the site still links keeps, with its siblings
+  of 1972 and 1973. Where the id without a suffix is new
   (`annee_2013`, `nouvelle_naissance`, `paille_et_froment`), the layout
   the corpus had becomes its duplicate and its address redirects.
 - **Item 5.** The title page is the head of each text; the PDFs were read
@@ -268,7 +306,7 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
 
   | id | field | before | after | the text |
   | -- | ----- | ------ | ----- | -------- |
-  | `la_profondeur` | `date` | `1954-07-01` | none (`year: 1954` stays) | title page: « Juillet 1954 », « Washington D.C. — U.S.A. » |
+  | `la_profondeur` | `date` | `1954-07-01` | `1954-07` | title page: « Juillet 1954 », « Washington D.C. — U.S.A. » |
   | `islam` | `date` | `2001-01-01` | none (`year: 2001` stays) | « Auteur: Missionnaire Ewald Frank, Krefeld (Allemagne) Copyright © 2001 », and the text speaks of « le 8 octobre 2001 » |
   | `eden` | `preacher` | William Branham | none | « Frère Branham certifie que la révélation qu’il a reçue sur le péché originel est l’entière vérité » : written about him; the tract is unsigned |
 
@@ -292,15 +330,27 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
     English title.
   - The `preacher`, `date` and `location` of the 274 new works are the
     model's, as those of the first 242 were: 264 Ewald Frank, 6 Alexis
-    Barilier, 2 Parfait M'bra, 2 none. A « Sommaire » or a letter dated
-    by its month has the first of the month as its date (`2013-01-01` for
-    « Janvier 2013 »), which is `12`'s and the pass's convention for the
-    source, and the same kind of date as the two corrected above.
+    Barilier, 2 Parfait M'bra, 2 none.
+  - 50 works dated by their year alone (« Année 2020 », the yearly
+    exhortations and their layouts, `christianisme`, `l_indicateur`,
+    `information_globale`, `vision_7000`) still have the first of January
+    as their date; `rev12` has it rightly (« 1er janvier 1961 »). And four
+    have a first of the month their text does not name:
+    `la_parole_de_dieu_demeure_eternellement` (« Septembre – Octobre
+    1966 »), `lc57` and `grace_verite_A5` (« Printemps 2005 »),
+    `tragedie`.
+- **A month is not a day.** The first pass and `12` wrote « Janvier 2013 »
+  as `2013-01-01`. **314 works now have `YYYY-MM`**: the 187 « Sommaire
+  des rencontres », 126 letters and booklets whose file name, subtitle or
+  head names the month, and `la_profondeur`. The rule is in `76b`; a work
+  whose title page prints the first of the month keeps its day (`rev12`,
+  `serie2no1`, `serie2no2`, `serie2no12`). `12` and the prompt of `72`
+  write a month as a month from now on, and the work page prints it
+  (« janvier 2013 », `formatDateFr`); the lists show the year, as for any
+  work without a day.
 - **Same texts the suffix rule does not see**, found by comparing every
   CMPP body with the others and with the Mevar sources; not folded, for
-  Samuel: `janvier1974`, `mars1974`, `juillet1974`, `octobre1974` are
-  `lc_janvier_1974`, `lc_mars_1974`, `lc_juillet_1974`,
-  `lc_octobre_1974` (0.96 to 0.97 both ways); `quanddieu` is `quand_dieu`
+  Samuel (the four letters of 1974 are folded, item 4): `quanddieu` is `quand_dieu`
   (0.90); `grace_verite_A4`, `votre_attention_A4` and `paille_et_froment`
   are within `lc57`, `lc55` and `lc56` (0.92 to 0.94 of each);
   `les_70_semaines_de_daniel` and `lc42` share most of their text (0.79,
@@ -334,7 +384,7 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
   than the item as written (« unlinked works stay where they are »): Samuel
   asked why a dated text had « undated » in its address, and should
   confirm the 76. Of the 274 new works, 30 moved the same way; 52 works
-  are under `cmpp/undated/` today, 17 of them duplicates.
+  are under `cmpp/undated/` today, 17 of them duplicates and one a draft.
 - **One booklet may cover two sermons.** `parole_parlee_semence_originelle`
   prints « 18 mars 1962, matin et après-midi » and is linked to 62-0318,
   « The Spoken Word Is The Original Seed 1 », the only sermon the archive
