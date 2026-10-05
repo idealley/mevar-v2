@@ -101,7 +101,7 @@ const groups = [
       description,
       inLanguage: lang,
       datePublished: published,
-      image: fm.local_image && new URL(`/${fm.local_image}`, Astro.site).href,
+      image: new URL(fm.local_image ? `/${fm.local_image}` : "/brand/icon-512.png", Astro.site).href,
       author: preacher && {
         "@type": "Person",
         name: preacher,
@@ -130,7 +130,7 @@ const groups = [
 
     <!-- Header: only the title is indexed, as the result's title -->
     <header class="mx-auto flex max-w-[1440px] flex-col gap-[26px] px-[84px] max-xl:px-10 pt-[52px] pb-9 max-lg:gap-3 max-lg:px-5 max-lg:pt-4 max-lg:pb-4" data-pagefind-ignore>
-      <Crumbs crumbs={crumbs} />
+      <Crumbs crumbs={crumbs} here={title} />
       <div class="flex flex-col gap-5 max-lg:gap-3">
         <p class="text-[11px] leading-[13px] font-semibold tracking-[2px] text-accent uppercase max-lg:text-[9px] max-lg:leading-[11px] max-lg:tracking-[1.6px]">{fm.subtitle ?? kindLabel(entry)}</p>
         <h1 class="max-w-[1020px] font-display text-[70px] leading-[71px] max-lg:text-[40px] max-lg:leading-[41px]" data-pagefind-meta="title">{title}</h1>

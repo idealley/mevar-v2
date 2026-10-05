@@ -1,11 +1,13 @@
 ---
 // Where a page is: home, then the lists that lead to it. Shown from 1024px,
-// and told to search engines at every width.
+// and told to search engines at every width, with the page itself at the end.
 import Icon from "./Icon.astro";
 import JsonLd from "./JsonLd.astro";
 
 interface Props {
   crumbs: { href: string; label: string }[];
+  /** The page's own title: the last item of the trail a search engine reads. */
+  here: string;
 }
 ---
 
@@ -20,7 +22,7 @@ interface Props {
 <JsonLd
   data={{
     "@type": "BreadcrumbList",
-    itemListElement: Astro.props.crumbs.map((c, i) => ({
+    itemListElement: [...Astro.props.crumbs, { href: Astro.url.pathname, label: Astro.props.here }].map((c, i) => ({
       "@type": "ListItem",
       position: i + 1,
       name: c.label,

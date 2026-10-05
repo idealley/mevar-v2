@@ -27,7 +27,8 @@ missing:
    language, date, image, author with their page, and MEVAR as publisher of
    its own texts only), `og:type` `article` with its date and author.
 2. **Where a page is**: a `BreadcrumbList` wherever the page shows a
-   breadcrumb (a work, a book, a chapter, a verse).
+   breadcrumb (a work, a book, a chapter, a verse), ending on the page
+   itself.
 3. **The home page**: a `WebSite`, published by the `Organization` MEVAR,
    with its full name and its mark.
 4. **Every page**: `og:url`, `og:site_name`, `og:locale` (French, or English
