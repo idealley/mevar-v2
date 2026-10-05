@@ -9,6 +9,8 @@ interface Props {
   description?: string;
   image?: string;
   lang?: "fr" | "en";
+  /** A work: Open Graph calls it an article, with its date and its author. */
+  article?: { published?: string; author?: string };
 }
 
 const {
@@ -16,8 +18,11 @@ const {
   description = "Bibliothèque numérique de prédications, exhortations, études bibliques et livres autour du message du temps de la fin.",
   image,
   lang = "fr",
+  article,
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+// dist/404.html answers for every unknown path: it has no address of its own.
+const found = Astro.url.pathname !== "/404/";
 ---
 
 <!doctype html>
@@ -42,13 +47,23 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {found && <link rel="canonical" href={canonical} />}
+    <link rel="alternate" type="application/rss+xml" title="Mevar" href="/rss/index.xml" />
 
-    <!-- Open Graph -->
-    <meta property="og:type" content="website" />
+    <!-- Open Graph, and the card other networks draw from it. A page
+         without an image of its own shows the mark. -->
+    <meta property="og:site_name" content="Mevar" />
+    <meta property="og:locale" content={lang === "en" ? "en_US" : "fr_FR"} />
+    <meta property="og:type" content={article ? "article" : "website"} />
+    {found && <meta property="og:url" content={canonical} />}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
+    <meta property="og:image" content={new URL(image ?? "/brand/icon-512.png", Astro.site)} />
+    {article?.published && <meta property="article:published_time" content={article.published} />}
+    {article?.author && <meta property="article:author" content={article.author} />}
+    <meta name="twitter:card" content={image ? "summary_large_image" : "summary"} />
+
+    <slot name="head" />
   </head>
 
   <body class="antialiased">
