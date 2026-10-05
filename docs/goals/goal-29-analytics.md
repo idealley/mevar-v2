@@ -23,8 +23,10 @@ measure of how the site grows and whom it reaches.
 1. **The same tag, the same property**, in the head of every page of the
    built site: not in `npm run dev`, so that a local session counts
    nothing.
-2. **It never holds the page**: loaded `async`, last in the head. Offline,
-   or where Google is blocked, the page is the same.
+2. **It never holds the page**: its script is fetched once the page has
+   loaded, so neither the text nor the service worker (offline reading)
+   waits for Google. A reader who leaves before the page has finished
+   loading is not counted.
 3. **`AGENTS.md`, hard rule 6**: the exception, named and dated.
 
 ## Not in this goal
@@ -39,6 +41,7 @@ measure of how the site grows and whom it reaches.
 ## Acceptance evidence
 
 - Every built page carries the tag once; the dev server's pages do not.
+  (`astro preview` serves the built site: a local preview is counted.)
 - `npm run build` on the full corpus, `check:dist`, `check:limits`,
   `npm test`.
 
