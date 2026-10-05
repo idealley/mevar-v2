@@ -186,4 +186,33 @@ report(
   `${items.length} items`,
 );
 
+// 6. What a search engine reads (goal 28): robots.txt names the sitemap, every
+// page's JSON-LD parses, and every Ghost post says it is an article, with its
+// title, its date and its author.
+const robots = path.join(dist, "robots.txt");
+report(
+  "robots.txt names the sitemap",
+  fs.existsSync(robots) && fs.readFileSync(robots, "utf8").includes("Sitemap: https://mevar.org/sitemap-index.xml") ? [] : ["dist/robots.txt missing, or without its Sitemap line"],
+);
+const jsonLd = (file) => [...fs.readFileSync(file, "utf8").matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map((m) => m[1]);
+const unparsed = [];
+let blocks = 0;
+for (const page of pages) {
+  for (const block of jsonLd(page)) {
+    blocks++;
+    try { JSON.parse(block); } catch { unparsed.push(path.relative(dist, page)); }
+  }
+}
+report("every JSON-LD block parses", unparsed, `${blocks} blocks`);
+report(
+  "every Ghost post is an Article with its title, date and author",
+  published.flatMap((p) => {
+    const file = served(`/${p.sermon_id}/`);
+    const article = file && jsonLd(file).map((b) => JSON.parse(b)).find((d) => d["@type"] === "Article");
+    const said = article?.headline && article.datePublished && article.author?.name && fs.readFileSync(file, "utf8").includes('<meta property="og:type" content="article"');
+    return said ? [] : [`/${p.sermon_id}/`];
+  }),
+  `${published.length} posts`,
+);
+
 process.exit(failed ? 1 : 0);
