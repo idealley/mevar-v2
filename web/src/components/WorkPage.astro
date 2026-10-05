@@ -25,8 +25,10 @@ const preacher = fm.preacher ?? fm.authors?.[0];
 const originalPdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
 const textPdf = fm.text_pdf as string | undefined;
 const pdf = textPdf ?? originalPdf;
-// A Ghost post's recording on R2 and its YouTube video (goal 25).
+// A recording on R2, played on the page (goals 25, 26); a remote one only
+// where there is none; and a Ghost post's YouTube video.
 const audio = fm.local_audio as string | undefined;
+const remoteAudio = audio ? undefined : fm.audio_url;
 const video = fm.video_url as string | undefined;
 
 const series = fm.series
@@ -94,7 +96,7 @@ const publishedWith = fm.published_with ? await workAt(fm.published_with as stri
         </p>
       )}
 
-      {(pdf || fm.audio_url || video) && (
+      {(pdf || remoteAudio || video) && (
         <div class="mt-4 flex flex-wrap gap-2">
           {pdf && (
             <a href={pdf} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
@@ -108,8 +110,8 @@ const publishedWith = fm.published_with ? await workAt(fm.published_with as stri
               PDF d’origine
             </a>
           )}
-          {fm.audio_url && (
-            <a href={fm.audio_url} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
+          {remoteAudio && (
+            <a href={remoteAudio} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
               Audio
             </a>
