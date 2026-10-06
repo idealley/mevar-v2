@@ -5,7 +5,6 @@ title: "Lettre circulaire 2"
 subtitle: "Avril 1975"
 date: "1975-04"
 year: 1975
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank rend compte de ses voyages missionnaires au Brésil et en Afrique (Côte d'Ivoire, Cameroun, Zaïre, Kenya), où la Parole de Dieu révélée est répandue. Il met en garde contre les faux frères et les doctrines erronées, notamment celles qui font de William Branham une idole, et insiste sur la nécessité de rester attaché à Jésus-Christ et à la Parole."
 tags:

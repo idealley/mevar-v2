@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "impact"
 title: "L'IMPACT DE LA REVELATION"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette brochure examine le plan de Dieu à travers les âges, en mettant l'accent sur la révélation prophétique et le ministère de William Branham comme précurseur de la seconde venue de Christ. Elle souligne l'importance de reconnaître la voix de Dieu pour notre temps et de revenir à la Parole originale, loin des interprétations humaines."
 tags:

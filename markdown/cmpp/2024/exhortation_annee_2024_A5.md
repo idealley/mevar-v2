@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2024_A5"
 title: "Lettre circulaire"
 subtitle: "Année 2024"
-date: "2024-01-01"
 year: 2024
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de 2024 exhorte les croyants à revenir à l'amour pour le Seigneur Jésus-Christ, à éviter les querelles et les interprétations religieuses, et à se préparer pour le retour du Seigneur. Elle souligne l'importance de la persévérance et de la restauration du premier amour, en s'appuyant sur les Écritures et les événements actuels en Israël."
 tags:

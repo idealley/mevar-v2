@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "honore_tes_parents"
 title: "“HONORE TON PERE ET TA MERE…”"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette exhortation souligne l'importance de l'obéissance et du respect envers les parents, un commandement divin valable pour toutes les générations. Elle met en garde contre la rébellion des enfants dans les temps de la fin et encourage à suivre l'exemple de Jésus et d'autres figures bibliques. Le texte insiste sur les promesses liées à l'obéissance et les conséquences de la désobéissance, tout en appelant à la repentance et à la réconciliation."
 tags:

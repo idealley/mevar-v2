@@ -462,8 +462,8 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | dieu maintenant | 73 | 63 | yes |  |
 | parmi les croyants | 73 | 13 |  |  |
 | voyages missionnaires | 73 | 4 |  |  |
-| domaine spirituel | 73 | 19 |  |  |
 | dieu aime | 73 | 78 | yes | yes |
+| domaine spirituel | 73 | 19 |  |  |
 | accomplir la volonté | 73 | 8 |  |  |
 | ordre divin | 72 | 8 |  |  |
 | envoyé par dieu | 72 | 73 | yes | yes |
@@ -650,10 +650,10 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | grande guerre | 40 |  |  |
 | dieu conformément | 39 | yes |  |
 | préparation de epouse | 39 |  |  |
+| disciple de jésus-christ | 39 |  |  |
 | parole parlée case | 39 |  |  |
 | parlée case | 39 |  |  |
 | parlée case postale | 39 |  |  |
-| disciple de jésus-christ | 39 |  |  |
 | faux dieux | 39 |  |  |
 | écrit dans jean | 38 |  |  |
 | fondement biblique | 38 |  |  |
@@ -679,9 +679,9 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | doctrines bibliques | 33 |  |  |
 | révélée notre génération | 33 |  |  |
 | appel direct | 33 |  |  |
-| krefeld allemagne | 33 |  |  |
 | marche spirituelle | 33 |  |  |
 | temple de jérusalem | 33 | yes | yes |
+| krefeld allemagne | 33 |  |  |
 | églises du message | 33 |  |  |
 | parfait missionnaire | 33 |  |  |
 | travail spirituel | 33 |  |  |

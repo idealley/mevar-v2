@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "christianisme"
 title: "LE CHRISTIANISME HIER ET AUJOURD'HUI"
 subtitle: "Coup d’oeil historique sur l’Eglise"
-date: "1985-01-01"
 year: 1985
 location: "Krefeld"
 preacher: "Ewald Frank"

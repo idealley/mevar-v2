@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "quanddieu"
 title: "Quand Dieu devint homme"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette étude biblique explore le mystère de l'incarnation, affirmant que Jésus-Christ est Dieu Lui-même manifesté en chair, et non une seconde personne d'une trinité. Elle réfute la doctrine de la Trinité en montrant que le Père, le Fils et le Saint-Esprit sont un seul et même Dieu, et que Jésus est le Saint-Esprit."
 tags:

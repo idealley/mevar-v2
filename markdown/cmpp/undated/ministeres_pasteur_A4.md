@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "ministeres_pasteur_A4"
 title: "Ministères — Ministère de Pasteur"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette étude biblique examine le ministère de pasteur dans le Corps de Christ, en soulignant l'importance de l'appel divin authentique, la soumission à la volonté de Dieu et l'attitude de service. Elle met en garde contre les faux ministères, l'ambition personnelle et les divisions, tout en affirmant la nécessité de tous les ministères pour l'édification de l'Église et la préparation de l'Épouse de Christ."
 tags:

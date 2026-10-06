@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "brl"
 title: "BAPTEME — REPAS DU SEIGNEUR — LAVAGE DES PIEDS"
 subtitle: "Un exposé du point de vue biblique"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ce traité examine les ordonnances bibliques du baptême, du Repas du Seigneur et du lavage des pieds, en se basant sur les Écritures et la pratique de l'Église primitive. Il insiste sur le baptême par immersion au nom de Jésus-Christ, la sainte cène comme mémorial, et le lavage des pieds comme acte d'humilité et de communion."
 tags:

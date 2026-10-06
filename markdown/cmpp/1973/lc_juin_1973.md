@@ -5,7 +5,6 @@ title: "Lettre Circulaire"
 subtitle: "Juin 1973"
 date: "1973-06"
 year: 1973
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de juin 1973 traite de la conduite du Saint-Esprit, mettant en garde contre les faux mouvements charismatiques et l'œcuménisme. Elle exhorte les croyants à revenir à la Parole de Dieu et à se séparer des systèmes religieux corrompus, tout en rappelant le message prophétique de William Branham pour le temps de la fin."
 tags:

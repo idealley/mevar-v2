@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "grace_verite_A5"
 title: "La Grâce et la Vérité"
 subtitle: "Lettre circulaire n° 57 — Printemps 2005"
-date: "2005-04-01"
 year: 2005
 location: "Lausanne"
 preacher: "Alexis Barilier"

@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "coronavirus_A4"
 title: "Epidémie du coronavirus"
 subtitle: "Avertissement, puis jugement!"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Face à la pandémie de coronavirus, l'auteur rappelle que ces événements ont été annoncés par Jésus comme des signes des derniers temps. Il exhorte les croyants à la vigilance, à la préparation spirituelle et à la foi en Christ, seul chemin vers la vie éternelle, en soulignant l'imminence du retour du Seigneur."
 tags:

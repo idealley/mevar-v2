@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "l_indicateur"
 title: "L'Indicateur"
-date: "1978-01-01"
 year: 1978
 location: "Krefeld"
 preacher: "Ewald Frank"

@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2026_A5_gc"
 title: "Souvenez-vous de ce qui s'est passé dès les temps anciens"
 subtitle: "Année 2026"
-date: "2026-01-01"
 year: 2026
 location: "Lausanne"
 preacher: "Ewald Frank"

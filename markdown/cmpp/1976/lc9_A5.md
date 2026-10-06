@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Novembre 1976"
 date: "1976-11"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de novembre 1976 d'Ewald Frank exhortant les croyants à se fortifier et à agir avec courage pour l'œuvre de Dieu, en s'appuyant sur l'exemple de David et Salomon. Elle souligne l'importance de la foi en Dieu, de la prière et de l'unité dans le Corps de Christ, tout en mettant en garde contre les divisions et en rappelant que Jésus-Christ est le même hier, aujourd'hui et éternellement."
 tags:

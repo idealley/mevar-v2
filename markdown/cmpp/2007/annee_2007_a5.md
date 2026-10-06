@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "annee_2007_a5"
 title: "Exhortation 2007"
 subtitle: "Année 2007"
-date: "2007-01-01"
 year: 2007
 location: "Lausanne"
 preacher: "Ewald Frank"

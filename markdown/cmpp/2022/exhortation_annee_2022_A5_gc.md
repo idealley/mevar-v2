@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2022_A5_gc"
 title: "Exhortation"
 subtitle: "Année 2022"
-date: "2022-01-01"
 year: 2022
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire pour l'année 2022, exhortant les croyants à persévérer dans la foi et l'amour fraternel, en s'appuyant sur la promesse de la présence de Dieu (Emmanuel) et en rejetant les disputes de mots. L'auteur rappelle l'importance de l'obéissance aux commandements et de l'amour comme accomplissement de la loi, face aux épreuves et aux fausses manifestations spirituelles."
 tags:

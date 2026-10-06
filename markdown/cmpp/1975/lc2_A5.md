@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Avril 1975"
 date: "1975-04"
 year: 1975
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'avril 1975 d'Ewald Frank rapportant ses voyages missionnaires au Brésil et en Afrique, où la Parole de Dieu révélée à notre génération se répand puissamment. Il met en garde contre les faux frères et les imitateurs, et appelle à demeurer centré sur Jésus-Christ, la Tête de l'Eglise, en gardant un équilibre biblique dans l'interprétation du ministère de frère Branham."
 tags:

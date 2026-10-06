@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Novembre 1973"
 date: "1973-11"
 year: 1973
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de novembre 1973 d'Ewald Frank exhortant les croyants à expérimenter la justification, la sanctification et le baptême du Saint-Esprit, et à reconnaître l'action de Dieu pour le temps présent. Elle rapporte des voyages missionnaires en Pologne, Tchécoslovaquie et Autriche, ainsi que le travail de traduction et d'impression des prédications de frère Branham dans de nombreux pays. Un éditorial annonce le décès de sœur Clara Borel et des changements dans l'équipe de diffusion des brochures en français."
 tags:

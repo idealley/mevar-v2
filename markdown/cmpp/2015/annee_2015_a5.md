@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2015_a5"
 title: "Exhortation Année 2015"
 subtitle: "Année 2015"
-date: "2015-01-01"
 year: 2015
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour la nouvelle année 2015, mettant en garde contre le fait de s'ingérer dans les affaires d'autrui, la médisance et la calomnie, et encourageant les croyants à s'occuper de leurs propres affaires et de celles de Dieu."
 tags:

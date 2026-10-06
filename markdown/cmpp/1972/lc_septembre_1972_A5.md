@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Septembre 1972"
 date: "1972-09"
 year: 1972
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de septembre 1972 d'Ewald Frank, contenant des nouvelles de la mission, des questions et réponses sur l'appel à prêcher et l'institution des anciens, et un enseignement sur l'Église de Jésus-Christ comme corps de Christ, les cinq ministères et l'établissement des anciens."
 tags:

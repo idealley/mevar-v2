@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2011"
 title: "Exhortation Année 2011"
 subtitle: "Année 2011"
-date: "2011-01-01"
 year: 2011
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour la nouvelle année 2011 appelant les croyants à l'humilité, à l'unité et à sortir des divisions dénominationnelles pour former l'Épouse de Christ sous la conduite du Saint-Esprit. Elle met en garde contre le fait de s'appuyer sur un ministère particulier plutôt que sur Christ, et encourage à porter les fruits de l'Esprit."
 tags:

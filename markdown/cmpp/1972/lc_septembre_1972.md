@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Septembre 1972"
 date: "1972-09"
 year: 1972
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de septembre 1972 aborde l'édification de l'Église selon les Écritures, en mettant l'accent sur les cinq ministères (apôtres, prophètes, évangélistes, pasteurs, docteurs) et l'établissement des anciens. L'auteur insiste sur l'ordre divin et la nécessité de reconnaître ces ministères pour la croissance spirituelle et l'unité du Corps de Christ."
 tags:

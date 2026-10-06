@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2020_a5"
 title: "Exhortation 2020"
 subtitle: "Année 2020"
-date: "2020-01-01"
 year: 2020
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour l'année 2020, appelant les croyants à l'unité, à la persévérance et à la mise en garde contre les fausses doctrines et les divisions dans le Corps de Christ. Elle souligne l'importance de suivre la Parole de Dieu et de respecter les ministères établis par Dieu."
 tags:

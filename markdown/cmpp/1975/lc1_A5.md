@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Janvier 1975"
 date: "1975-01"
 year: 1975
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de janvier 1975, méditant sur la puissance créatrice et salvatrice de la Parole de Dieu, les événements actuels au Moyen-Orient et le retour d'Israël, la question du sabbat, l'exode des gens de l'Église face à l'œcuménisme, et les nouvelles missionnaires en Afrique et ailleurs."
 tags:

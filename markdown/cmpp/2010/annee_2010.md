@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2010"
 title: "Enseigne-moi à faire ta volonté"
 subtitle: "Exhortation Année 2010"
-date: "2010-01-01"
 year: 2010
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Exhortation pour la nouvelle année 2010, appelant les croyants à rechercher et accomplir la volonté de Dieu dans leur vie, à l'exemple de Jésus-Christ et de l'apôtre Paul. L'auteur souligne l'importance de se laisser guider par le Saint-Esprit et de ne pas confondre la volonté humaine avec la volonté divine."
 tags:

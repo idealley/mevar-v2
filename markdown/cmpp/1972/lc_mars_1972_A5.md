@@ -5,7 +5,6 @@ title: "Lettre Circulaire"
 subtitle: "MARS 1972"
 date: "1972-03"
 year: 1972
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de mars 1972 exhorte les croyants à se fortifier par les promesses divines, à se préparer pour le retour de Christ, et clarifie les déclarations de William Branham concernant l'année 1977, insistant sur la nécessité de recevoir la puissance du Saint-Esprit plutôt que de fixer des dates."
 tags:

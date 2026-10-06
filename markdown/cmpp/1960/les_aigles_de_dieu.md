@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "les_aigles_de_dieu"
 title: "Les Aigles de Dieu"
 subtitle: "4 mars 1960, après-midi — Tulsa, Oklahoma, U.S.A."
-date: "1960-03-04"
+date: "1960-04-03"
 year: 1960
 location: "Tulsa, Oklahoma, U.S.A."
 preacher: "William Branham"
@@ -46,6 +46,7 @@ bible_refs:
   - "Jean 4"
   - "Jean 8:58"
 local_pdf: "https://files.mevar.org/cmpp/1960/les_aigles_de_dieu.pdf"
+original: "branham/1960/60-0403"
 ---
 LA PAROLE PARLEE
 

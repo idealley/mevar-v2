@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2023_A4_gc"
 title: "Exhortation Année 2023"
 subtitle: "Année 2023"
-date: "2023-01-01"
 year: 2023
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour la nouvelle année 2023, centrée sur l'espérance vivante des croyants régénérés par la résurrection de Jésus-Christ. L'auteur encourage à la préparation de l'Épouse de Christ dans la sainteté et l'unité, en vue de l'enlèvement, tout en évoquant les événements mondiaux actuels comme signes des derniers temps."
 tags:

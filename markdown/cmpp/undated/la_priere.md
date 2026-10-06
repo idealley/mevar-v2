@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "la_priere"
 title: "La Prière"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette étude biblique explore l'importance de la prière comme moyen de communion avec Dieu, en retraçant l'histoire de cette relation depuis Adam jusqu'à la nouvelle alliance en Jésus-Christ. Elle souligne que la foi est la condition essentielle pour que nos prières soient agréées, et que Jésus-Christ est le seul médiateur entre Dieu et les hommes."
 tags:

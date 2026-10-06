@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "ministeres_pasteur_A5"
 title: "Ministère de pasteur (berger)"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette étude biblique explore le ministère de pasteur (berger) dans l'Église de Jésus-Christ, en soulignant l'importance de l'appel divin authentique, la soumission à la volonté de Dieu, et les dangers des faux ministères et des divisions. Elle s'appuie sur les Écritures et les enseignements de William Branham pour exhorter les croyants à respecter les ministères établis par Dieu et à demeurer dans l'unité et la vérité."
 tags:

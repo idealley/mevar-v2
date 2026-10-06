@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2023_A5"
 title: "Exhortation Année 2023"
 subtitle: "Année 2023"
-date: "2023-01-01"
 year: 2023
 location: "Lausanne"
 preacher: "Ewald Frank"
@@ -70,7 +69,7 @@ Le disciple de Jésus-Christ n’a pas été régénéré en vain par le Seigneu
 
 L’espérance vivante à laquelle nous aspirons, c’est la manifestation de l’Epouse de Jésus-Christ, le rassemblement spirituel des croyants dans un même Esprit, dans le même amour, dans la même foi, pour un seul Seigneur, un seul Sauveur, pour Jésus-Christ et pour Son oeuvre qu’Il est venu accomplir, afin de mettre en liberté les âmes pour qu’elles puissent servir uniquement Dieu. Comme Jésus-Christ a oeuvré avec son Père céleste, Il nous a indiqué par Ses actes le chemin à suivre, pour que les croyants puissent à leur tour aussi servir et oeuvrer uniquement avec leur Père céleste. Ça c’est l’espérance la plus glorieuse, qui doit être manifestée, puisque à la fin il n’y aura qu’une seule véritable Epouse spirituelle qui va être enlevée, et il est écrit dans Ephésiens 5.27, que cette Eglise glorieuse sera « … sans tache, ni ride, ni rien de semblable, mais sainte et irrépréhensible ». Donc, Elle sera arrivée à son achèvement de la préparation, dans la perfection, revêtue de la charité qui est ce lien de la perfection (Col. 3.14), prête à être enlevée pour participer aux noces de l’Agneau (Apoc. 19.7-9).
 
-La perfection ne s’acquière aucunement par la loi, par une doctrine, par un credo, par un acte religieux ou par un enseignement humain, mais la perfection que les croyants recherchent, provient d’une personne ayant accompli l’œuvre parfaite, une mort et une résurrection, c’est Jésus-Christ « Car, par une seule offrande, il a amené à la perfection pour toujours ceux qui sont sanctifiés » (Héb. 10.14).
+La perfection ne s’acquière aucunement par la loi, par une doctrine, par un credo, par un acte religieux ou par un enseignement humain, mais la perfection que les croyants recherchent, provient d’une personne ayant accompli l’oeuvre parfaite, une mort et une résurrection, c’est Jésus-Christ « Car, par une seule offrande, il a amené à la perfection pour toujours ceux qui sont sanctifiés » (Héb. 10.14).
 
 C’est Lui qui est le parfait, Il est la sagesse de Dieu, Il est la Lumière, Il est le Chemin, Il est la Vérité, Il est la Vie, Il est toutes ces choses-là, il est vraiment celui qui connaît Dieu, car Il est tout simplement Dieu. C’est par Lui qu’aura l’Epouse la perfection qui doit être manifestée en Elle, car Elle-même sera animée par le même Esprit ; donc c’est par les rachetés que l’espérance vivante doit être manifestée. Une Epouse qui a l’Esprit de Jésus-Christ en Elle, qui a la Parole de Dieu, qui la médite et qui a cette révélation pour être « régénéré pour une espérance vivante par Jésus-Christ d’entre les morts, pour un héritage ».
 

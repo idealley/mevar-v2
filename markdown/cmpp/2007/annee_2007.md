@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2007"
 title: "Exhortation"
 subtitle: "Année 2007"
-date: "2007-01-01"
 year: 2007
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'Ewald Frank en 2007 annonçant la publication de deux brochures de William Branham sur le site cmpp.ch. Il met en garde contre l'esprit religieux qui divise le peuple de Dieu et exhorte les croyants à s'attacher uniquement à la Parole de Dieu plutôt qu'aux paroles des serviteurs."
 tags:

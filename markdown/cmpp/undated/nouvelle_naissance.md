@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "nouvelle_naissance"
 title: "La Nouvelle Naissance"
 subtitle: "À quoi sert la nouvelle naissance ?"
-location: "Krefeld"
 preacher: "Alexis Barilier"
 summary: "Étude biblique sur la nécessité et les étapes de la nouvelle naissance, répondant à la question « À quoi sert la nouvelle naissance ? ». L'auteur explique que la nouvelle naissance est indispensable pour voir et entrer dans le royaume de Dieu, et que les credo religieux ne peuvent remplacer la Parole révélée de Dieu."
 tags:

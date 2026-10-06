@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Juillet 1976"
 date: "1976-07"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'Ewald Frank de juillet 1976, saluant les croyants et partageant des révélations prophétiques reçues lors de rassemblements de Pâques. Il souligne la résurrection de Jésus-Christ, l'importance de la Croix, et l'action du Saint-Esprit dans l'Église, tout en appelant à l'unité spirituelle et à la reconnaissance du message du temps de la fin."
 tags:

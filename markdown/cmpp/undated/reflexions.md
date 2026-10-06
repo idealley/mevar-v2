@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "reflexions"
 title: "Réflexions"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ce texte exhorte les croyants à sortir de la prison de la religion et des dénominations pour s'attacher à Jésus-Christ et à la puissance du Saint-Esprit. Il appelle à un réveil spirituel, à la prière et au jeûne, et à l'unité du Corps de Christ en vue de l'enlèvement. L'auteur met en garde contre les divisions et les cellules religieuses qui emprisonnent les croyants."
 tags:

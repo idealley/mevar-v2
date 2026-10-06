@@ -5,7 +5,6 @@ title: "Lettre Circulaire"
 subtitle: "Novembre 1973"
 date: "1973-11"
 year: 1973
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de novembre 1973 d'Ewald Frank, qui exhorte les croyants à reconnaître l'action de Dieu à travers les âges de l'Église, de la Réformation au réveil pentecôtiste, et à se préparer pour la moisson finale. Il partage une vision prophétique d'une moissonneuse-batteuse et rapporte les progrès missionnaires dans plusieurs pays."
 tags:

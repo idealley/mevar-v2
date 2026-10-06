@@ -3,9 +3,8 @@ source: "cmpp"
 sermon_id: "la_parole_de_dieu_demeure_eternellement"
 title: "La Parole de Dieu Demeure Éternellement"
 subtitle: "Septembre – Octobre 1966"
-date: "1966-09-01"
+date: "1966-09"
 year: 1966
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank présente la vie et le ministère de William Branham, soulignant les signes surnaturels (colonne de feu, nuage, résurrections) qui attestent de sa mission prophétique pour préparer l'Église au retour du Seigneur. Il insiste sur l'accomplissement de Malachie 4.5 et la nécessité d'écouter le message prophétique pour ces derniers temps."
 tags:

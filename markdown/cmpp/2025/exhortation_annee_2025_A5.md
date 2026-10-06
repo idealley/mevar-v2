@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2025_A5"
 title: "Exhortation"
 subtitle: "Année 2025"
-date: "2025-01-01"
 year: 2025
 location: "Lausanne"
 preacher: "Ewald Frank"

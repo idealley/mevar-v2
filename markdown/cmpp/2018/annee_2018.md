@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2018"
 title: "Exhortation Année 2018"
 subtitle: "Année 2018"
-date: "2018-01-01"
 year: 2018
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour la nouvelle année 2018, appelant les croyants à la douceur et à l'humilité selon Matthieu 11.28-30. Elle contraste la douceur avec la dureté et encourage à manifester le fruit de l'Esprit dans l'Église et la famille."
 tags:

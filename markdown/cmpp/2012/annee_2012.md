@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2012"
 title: "Exhortation Année 2012"
 subtitle: "Année 2012"
-date: "2012-01-01"
 year: 2012
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour l'année 2012 appelant les croyants à la persévérance face à l'accroissement de l'iniquité et au refroidissement de la charité, en demeurant fidèles à la Parole de Dieu. Elle encourage à porter des fruits de justice, à discerner la vérité et à vivre de la vie de Christ en attendant le retour du Seigneur."
 tags:

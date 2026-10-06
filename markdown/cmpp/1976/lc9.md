@@ -5,7 +5,6 @@ title: "Lettre Circulaire 9"
 subtitle: "Novembre 1976"
 date: "1976-11"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire encourage les croyants à s'appuyer sur la Parole de Dieu et à accomplir l'œuvre de Dieu avec foi et courage, en s'inspirant de David et Salomon. Elle aborde la nécessité de l'unité dans le Corps de Christ, la préparation pour la venue du Seigneur, et met en garde contre les divisions et les spéculations sur les dates."
 tags:

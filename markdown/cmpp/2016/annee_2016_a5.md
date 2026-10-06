@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2016_a5"
 title: "Exhortation Année 2016"
 subtitle: "Année 2016"
-date: "2016-01-01"
 year: 2016
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour la nouvelle année 2016, appelant les croyants à demeurer fermes dans la liberté que Christ nous a acquise et à ne pas se remettre sous un joug de servitude. Elle met en garde contre les faux docteurs, les jougs étrangers (loi, dénominations, attachement à des hommes ou lieux) et encourage à porter uniquement le joug léger de Jésus-Christ."
 tags:

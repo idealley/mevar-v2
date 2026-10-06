@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "votre_attention_A5"
 title: "Votre attention S.V.P.!"
 subtitle: "Lettre circulaire n° 54 — Février 2004"
-date: "2004-02"
 year: 2004
 location: "Lausanne"
 preacher: "Alexis Barilier"

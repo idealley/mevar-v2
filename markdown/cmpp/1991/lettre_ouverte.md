@@ -5,7 +5,6 @@ title: "LETTRE OUVERTE: Le peuple et le pays d’Israël"
 subtitle: "AVRIL 1991"
 date: "1991-04"
 year: 1991
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre ouverte adressée aux chefs d'État du monde, citant la Bible et le Coran pour affirmer que Dieu a donné la terre d'Israël au peuple juif de manière irrévocable. L'auteur appelle à respecter les frontières divines, à résoudre le problème palestinien en intégrant les réfugiés dans les pays arabes voisins, et à bénir Israël pour recevoir la bénédiction divine."
 tags:

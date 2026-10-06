@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2009_a5"
 title: "Exhortation 2009"
 subtitle: "Année 2009"
-date: "2009-01-01"
 year: 2009
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour l'année 2009, appelant les croyants à ne pas regarder en arrière mais à persévérer dans la foi, en s'appuyant sur des exemples bibliques comme le peuple d'Israël et la femme de Lot. Elle encourage à fixer les yeux sur Jésus-Christ et à courir vers le but de la vocation céleste."
 tags:

@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "paille_et_froment_A5"
 title: "La Paille et le Froment"
 subtitle: "Lettre circulaire n° 56 — Janvier 2005"
-date: "2005-01"
 year: 2005
 location: "Lausanne"
 preacher: "Alexis Barilier"

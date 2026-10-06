@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2019"
 title: "Exhortation Année 2019"
 subtitle: "Année 2019"
-date: "2019-01-01"
 year: 2019
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour l'année 2019, appelant les croyants à demeurer sur le chemin étroit, à se préparer pour le retour de Christ, et à discerner le bien du mal par la Parole de Dieu. Elle met en garde contre les scandales, les faux apôtres et les œuvres de la chair, tout en encourageant à porter les fruits de l'Esprit."
 tags:

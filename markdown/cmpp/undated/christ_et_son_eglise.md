@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "christ_et_son_eglise"
 title: "Christ et Son Eglise dans la Prophétie"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cet exposé biblique examine la relation entre Christ et Son Église à travers les prophéties, en mettant l'accent sur la restauration de l'Église dans les derniers jours, le ministère prophétique de William Branham, et l'accomplissement des prophéties de l'Apocalypse. L'auteur exhorte les croyants à revenir à l'enseignement scripturaire original et à écouter la voix du Saint-Esprit."
 tags:

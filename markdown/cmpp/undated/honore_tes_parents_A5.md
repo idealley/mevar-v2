@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "honore_tes_parents_A5"
 title: "«Honore ton père et ta mère…»"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette exhortation rappelle l'importance du commandement divin d'honorer et d'obéir à ses parents, enraciné dans l'Ancien et le Nouveau Testament. Elle met en garde contre la rébellion des enfants dans les temps de la fin et souligne les bénédictions promises à ceux qui pratiquent l'obéissance, ainsi que les conséquences de la désobéissance. L'exemple de Jésus et d'autres figures bibliques est donné pour encourager les croyants à vivre cette obéissance dans leur vie terrestre et spirituelle."
 tags:

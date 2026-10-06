@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "mariage_frank"
 title: "LE MARIAGE: PROBLEME ANCIEN"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Un exposé biblique sur le mariage et le divorce, basé sur la prédication de William Branham du 21 février 1965. L'auteur examine les enseignements de l'Ancien et du Nouveau Testament, soulignant l'importance de la révélation divine et de l'obéissance à la Parole de Dieu. Il aborde les origines du mariage dans la Genèse, la chute d'Adam et Ève, et les implications pour les croyants d'aujourd'hui."
 tags:

@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "quel_amour"
 title: "Quel amour ?"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette exhortation distingue l'amour philéô (charnel) de l'amour agapaô (divin) et montre que le véritable amour de Dieu consiste à garder Ses commandements et à demeurer dans Sa Parole. Elle met en garde contre les fausses accusations de manque d'amour proférées par ceux qui refusent de se soumettre à la Parole, et appelle les croyants à se revêtir de Jésus-Christ pour manifester l'amour véritable dans le temps de la fin."
 tags:

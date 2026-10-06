@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "vision_7000"
 title: "VISION 7000"
 subtitle: "Information globale"
-date: "1996-01-01"
 year: 1996
 location: "Krefeld"
 preacher: "Ewald Frank"

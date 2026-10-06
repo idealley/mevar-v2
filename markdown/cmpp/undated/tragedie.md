@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "tragedie"
 title: "La grande tragédie et le plan du salut de Dieu à la lumière du message du temps de la fin"
-date: "2001-03-01"
 year: 2001
 location: "Krefeld"
 preacher: "Ewald Frank"

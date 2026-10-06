@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2014"
 title: "Exhortation Année 2014"
 subtitle: "Année 2014"
-date: "2014-01-01"
 year: 2014
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour la nouvelle année 2014, mettant en garde contre l'orgueil et appelant à l'humilité, en s'appuyant sur des passages bibliques. Elle mentionne le décès du serviteur Alexis Barilier comme exemple d'humilité."
 tags:

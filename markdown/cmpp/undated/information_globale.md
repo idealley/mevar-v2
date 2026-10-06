@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "information_globale"
 title: "Information Globale — Eclaircissement d’En-Haut"
-date: "2005-01-01"
 year: 2005
 location: "Krefeld"
 preacher: "Ewald Frank"

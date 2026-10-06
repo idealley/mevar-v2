@@ -3,9 +3,7 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2021_A5_gc"
 title: "Exhortation Année 2021"
 subtitle: "Année 2021"
-date: "2021-01-01"
 year: 2021
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour l'année 2021, appelant les croyants à être de véritables témoins de Jésus-Christ, à se soumettre à la Parole de Dieu et à discerner les vrais et faux témoignages, en vue du retour proche du Seigneur."
 tags:

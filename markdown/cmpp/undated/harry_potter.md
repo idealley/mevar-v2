@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "harry_potter"
 title: "Un éclairage biblique sur les livres «Harry Potter»"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cet article analyse les livres Harry Potter d'un point de vue biblique, mettant en garde contre leur contenu occultiste et leur influence sur les enfants. Il cite Deutéronome 18.9-14 et Apocalypse 18.4 pour exhorter les chrétiens à se séparer de ces œuvres et à rester attachés à la Parole de Dieu."
 tags:

@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Juillet 1974"
 date: "1974-07"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de juillet 1974 exhorte les croyants à la patience et à la persévérance en vue du retour du Seigneur, en s'appuyant sur Jacques 5.7-11 et l'exemple de Job. Elle insiste sur le retour à la Parole originale de Dieu et à l'enseignement des apôtres, rejetant les interprétations ajoutées au cours des siècles. L'éditorial met en garde contre l'esprit de dispute et souligne l'importance d'être une nouvelle créature en Christ."
 tags:
