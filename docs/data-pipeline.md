@@ -12,6 +12,8 @@ Find which docs exist on each source and collect their URLs.
 | `13b-branham-interact.js`               | branham.org  | one-shot all-years via Playwright       |
 | `11-discover-le-scribe.mjs`             | le-scribe.org | `manifests/le-scribe.json`             |
 | `12-discover-cmpp.mjs`                  | cmpp.ch, by a plain fetch of its pages (home page and sitemap; on the Mac) | `manifests/cmpp.json`: an entry it has is kept as it is, a PDF it has not is added, an entry no longer linked on the site is kept and named |
+| `12b-pair-cmpp-pages.mjs`               | cmpp.ch's HTML pages, read once into `.html-cache/cmpp/` (gitignored) | `html_url` in `manifests/cmpp.json`: each work's own page, by its name, else by the page that offers its PDF; none for a duplicate or a draft |
+| `43-import-cmpp-html.mjs`               | a CMPP work that has an `html_url` takes its body from that page (goal 31): the `<article>` to markdown with turndown, no model; the page's header to `date`, `time_of_day`, `location`, `original_title`. After 12b; then 76b, 49b, 83b, 65, 47, 50 | 
 | `40-process-mevar.mjs`                  | firecrawl crawl → `markdown/mevar/` (later replaced by Ghost)   |
 | `45-process-ghost.mjs`                  | mevar Ghost export → final `markdown/mevar/` + tags + authors    |
 | `76b-cmpp-title-pages.mjs`              | what a CMPP work's own text says against the model's `date`, `preacher`: a hand-read table, and three rules (a date is what the PDF prints: a day, a month as `YYYY-MM`, or none; a place the PDF does not print goes; a monthly « Sommaire des rencontres » says its month in its title), into the frontmatter and `manifests/cmpp.json`. After 73, 21 and 22 |
@@ -52,7 +54,7 @@ LlamaParse rewrites words and is not used.
 | `71-llm-fanout.mjs`                      | onedrive: clean + structured NER via DeepSeek                              |
 | `72-llm-fanout-multi.mjs <source>`       | le-scribe / branham (English prompt) / mevar-pdfs / cmpp (only the entries its manifest does not mark `llm_cleaned`) |
 | `74-recover-errors.mjs <source>`         | retry with smaller chunks (default 25k chars) for stubborn fails; a coupon's dot leaders are shortened first |
-| `73-apply-llm.mjs <source>`              | apply LLM cache → markdown body + manifest fields; the model's "Unknown" is no value |
+| `73-apply-llm.mjs <source>`              | apply LLM cache → markdown body + manifest fields; the model's "Unknown" is no value; not a CMPP work that has its page (`html_url`) |
 | `75-restore-source-words.mjs <cmpp id>…` | the PDF's words back in a cleaned CMPP body, word by word against its extraction (accents, « œ », Bible abbreviations, single words); a reader's decisions in `scripts/cmpp-source-words.json`. After 73, then 65 and 47 |
 | `76-add-missing-frontmatter.mjs`         | frontmatter for the ten works that had none (hand-read table) and their manifest entries, `manifests/local.json` for the two volumes; run 47, 49, 50 after |
 | `77-branham-date-location.mjs`          | Branham `date` and `year` from the sermon id, `location` from branham.org's year listing (cached in `.firecrawl/`), in manifests and frontmatter; run 50 after |
