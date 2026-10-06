@@ -49,9 +49,9 @@ Most mentions of « fils mâle »: La Parabole des noces (2019, mevar, 13); Le P
 
 | French phrase | French works (mentions) | Translation works (mentions) | First French work | Segond | Darby |
 |---|---|---|---|---|---|
-| épouse de christ | 89 (148) | 5 (15) | 1988 · Prédication à Bruxelles, 9 avril 1988 (Ewald Frank) | 0 | 0 |
+| épouse de christ | 88 (147) | 4 (13) | 2004 · Les cinq Ministères de la Parole dans la vision des temps de la fin (Parfait M'bra) | 0 | 0 |
 | épouse du christ | 2 (4) | 0 (0) | 2004 · Les cinq Ministères de la Parole dans la vision des temps de la fin (Parfait M'bra) | 0 | 0 |
-| épouse | 288 (1293) | 316 (721) | 1974 · Lettre circulaire — Juillet 1974 (Ewald Frank) | 15 | 18 |
+| épouse | 286 (1279) | 315 (684) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 15 | 18 |
 
 | English phrase | Branham works (mentions) | KJV | Top Branham sermons |
 |---|---|---|---|
@@ -90,7 +90,7 @@ Most mentions of « témoignage de l'épouse »: La position de l’archange Mic
 | French phrase | French works (mentions) | Translation works (mentions) | First French work | Segond | Darby |
 |---|---|---|---|---|---|
 | préparation de l'épouse | 6 (13) | 1 (1) | 2004 · Les cinq Ministères de la Parole dans la vision des temps de la fin (Parfait M'bra) | 0 | 0 |
-| préparation | 289 (703) | 30 (34) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 6 | 9 |
+| préparation | 289 (704) | 30 (34) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 6 | 9 |
 
 | English phrase | Branham works (mentions) | KJV | Top Branham sermons |
 |---|---|---|---|
@@ -103,22 +103,22 @@ Most mentions of « préparation de l'épouse »: Les cinq Ministères de la Par
 
 | French phrase | French works (mentions) | Translation works (mentions) | First French work | Segond | Darby |
 |---|---|---|---|---|---|
-| huitième messager | 8 (39) | 0 (0) | 1982 · Lettre Circulaire 26 (Ewald Frank) | 0 | 0 |
-| huitième | 54 (235) | 23 (56) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 51 | 50 |
+| huitième messager | 8 (38) | 0 (0) | 1982 · Lettre Circulaire 26 (Ewald Frank) | 0 | 0 |
+| huitième | 54 (234) | 23 (56) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 51 | 50 |
 
 | English phrase | Branham works (mentions) | KJV | Top Branham sermons |
 |---|---|---|---|
 | eighth messenger | 0 (0) | 0 |  |
 | eighth | 77 (119) | 39 | 64-0802 The Future Home of the Heavenly Bridegroom and the Earthly Bride (19); 56-0408A What Is A Vision? (3); 58-1007 Church Order (3); 59-1216 What Is The Holy Ghost? (3); 63-0324E The Seventh Seal (3) |
 
-Most mentions of « huitième messager »: Mise au point sur la question du huitième messager (?, onedrive, 19); La part de la vérité (?, Parfait M'bra, 7); Des personnes interrogent… Dieu répond par Sa Parole (?, Ewald Frank, 4); Lettre Circulaire 26 (1982, Ewald Frank, 3); Lettre circulaire 26 (1982, Ewald Frank, 3); Sommaire des rencontres, décembre 2004 (2004, Ewald Frank, 1); Le culte des Athéniens (2009, Parfait M'bra, 1); L’œuvre de la restauration de la muraille de Jérusalem (2009, onedrive, 1)
+Most mentions of « huitième messager »: Mise au point sur la question du huitième messager (?, onedrive, 19); La part de la vérité (?, Parfait M'bra, 7); Lettre Circulaire 26 (1982, Ewald Frank, 3); Lettre circulaire 26 (1982, Ewald Frank, 3); Des personnes interrogent… Dieu répond par Sa Parole (?, Ewald Frank, 3); Sommaire des rencontres, décembre 2004 (2004, Ewald Frank, 1); Le culte des Athéniens (2009, Parfait M'bra, 1); L’œuvre de la restauration de la muraille de Jérusalem (2009, onedrive, 1)
 
 ### septieme-messager
 
 | French phrase | French works (mentions) | Translation works (mentions) | First French work | Segond | Darby |
 |---|---|---|---|---|---|
 | septième messager | 11 (20) | 9 (10) | 1982 · Lettre Circulaire 26 (Ewald Frank) | 0 | 0 |
-| septième ange | 30 (77) | 57 (162) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 2 | 2 |
+| septième ange | 30 (77) | 56 (161) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 2 | 2 |
 
 | English phrase | Branham works (mentions) | KJV | Top Branham sermons |
 |---|---|---|---|
@@ -173,274 +173,268 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 
 | Phrase | French works | Translation works | Segond | Darby |
 |---|---|---|---|---|
-| parole de dieu | 842 | 600 | yes | yes |
+| parole de dieu | 843 | 600 | yes | yes |
 | peuple de dieu | 585 | 112 | yes | yes |
-| seigneur jésus-christ | 528 | 249 | yes |  |
-| seigneur jésus | 508 | 518 | yes | yes |
+| seigneur jésus-christ | 526 | 249 | yes |  |
+| seigneur jésus | 511 | 518 | yes | yes |
 | royaume de dieu | 469 | 220 | yes | yes |
-| volonté de dieu | 424 | 226 | yes | yes |
+| volonté de dieu | 425 | 226 | yes | yes |
 | serviteurs de dieu | 418 | 55 | yes | yes |
-| william branham | 393 | 72 |  |  |
-| devant dieu | 390 | 292 | yes | yes |
+| william branham | 392 | 72 |  |  |
+| devant dieu | 389 | 292 | yes | yes |
 | monde entier | 389 | 330 | yes | yes |
-| fils de dieu | 379 | 692 | yes | yes |
-| esprit de dieu | 364 | 477 | yes | yes |
-| nouveau testament | 350 | 126 |  |  |
+| fils de dieu | 379 | 691 | yes | yes |
+| esprit de dieu | 365 | 477 | yes | yes |
 | puissance de dieu | 350 | 343 | yes | yes |
-| grâce de dieu | 344 | 177 | yes | yes |
+| nouveau testament | 348 | 126 |  |  |
+| grâce de dieu | 343 | 177 | yes | yes |
 | serviteur de dieu | 331 | 208 | yes | yes |
-| corps de christ | 311 | 208 | yes | yes |
-| dieu lui-même | 306 | 161 | yes | yes |
-| œuvre de dieu | 306 | 41 | yes | yes |
-| centre missionnaire | 297 | 0 |  |  |
+| corps de christ | 312 | 208 | yes | yes |
+| dieu lui-même | 306 | 162 | yes | yes |
+| œuvre de dieu | 303 | 42 | yes | yes |
 | apôtre paul | 290 | 10 |  |  |
 | gloire de dieu | 283 | 259 | yes | yes |
-| enfants de dieu | 281 | 229 | yes | yes |
+| enfants de dieu | 280 | 229 | yes | yes |
 | enfants israël | 280 | 96 | yes |  |
+| centre missionnaire | 275 | 0 |  |  |
 | seigneur et sauveur | 257 | 12 | yes | yes |
 | chers amis | 253 | 59 |  |  |
 | dieu vivant | 245 | 301 | yes | yes |
 | seigneur lui-même | 244 | 20 | yes | yes |
-| seigneur dieu | 242 | 112 | yes | yes |
-| peuple israël | 241 | 28 | yes | yes |
-| ancien testament | 240 | 243 | yes |  |
+| ancien testament | 241 | 243 | yes |  |
+| seigneur dieu | 241 | 112 | yes | yes |
+| peuple israël | 240 | 28 | yes | yes |
+| dieu dieu | 240 | 365 | yes | yes |
 | maison de dieu | 239 | 75 | yes | yes |
-| dieu dieu | 238 | 365 | yes | yes |
-| venue de christ | 223 | 138 |  |  |
+| venue de christ | 224 | 138 |  |  |
 | combat spirituel | 222 | 1 |  |  |
-| seconde venue | 217 | 166 |  |  |
+| seconde venue | 218 | 166 |  |  |
 | présence de dieu | 206 | 279 | yes | yes |
 | première venue | 203 | 103 |  |  |
 | prophéties bibliques | 201 | 1 |  |  |
-| dieu tout-puissant | 200 | 139 | yes | yes |
-| dieu envoyé | 200 | 198 | yes | yes |
+| dieu tout-puissant | 199 | 139 | yes | yes |
+| dieu envoyé | 199 | 198 | yes | yes |
 | faux prophètes | 198 | 61 | yes | yes |
 | grand nombre | 195 | 205 | yes | yes |
-| part de dieu | 193 | 31 | yes | yes |
-| quelque part | 191 | 199 | yes | yes |
+| part de dieu | 195 | 31 | yes | yes |
+| quelque part | 192 | 199 | yes | yes |
 | partir du verset | 191 | 9 |  |  |
-| retour de christ | 189 | 11 |  |  |
+| retour de christ | 187 | 11 |  |  |
+| christ notre seigneur | 186 | 1 | yes | yes |
+| saintes ecritures | 184 | 20 |  |  |
 | parole révélée | 184 | 15 |  |  |
 | plan de dieu | 183 | 109 |  |  |
-| christ notre seigneur | 183 | 1 | yes | yes |
-| saintes ecritures | 182 | 21 |  |  |
 | devant le seigneur | 180 | 42 | yes | yes |
+| chapitre verset | 180 | 28 |  |  |
 | dieu donné | 179 | 183 | yes | yes |
-| message de heure | 178 | 47 |  |  |
+| message de heure | 179 | 47 |  |  |
 | côte ivoire | 177 | 0 |  |  |
-| chapitre verset | 177 | 28 |  |  |
+| krefeld en allemagne | 176 | 0 |  |  |
 | jésus lui-même | 171 | 66 |  | yes |
-| bible parle | 171 | 27 |  |  |
-| krefeld en allemagne | 170 | 0 |  |  |
+| bible parle | 170 | 27 |  |  |
 | sauveur jésus-christ | 167 | 16 | yes |  |
 | nouvelle naissance | 165 | 204 |  |  |
-| parole prophétique | 164 | 7 | yes | yes |
-| rendre compte | 153 | 117 | yes | yes |
-| père céleste | 153 | 168 | yes | yes |
-| epouse de christ | 153 | 50 |  |  |
-| communion avec dieu | 153 | 55 |  |  |
-| centre missionnaire international | 151 | 0 |  |  |
-| missionnaire international | 151 | 0 |  |  |
+| parole prophétique | 163 | 7 | yes | yes |
+| missionnaire international | 162 | 0 |  |  |
+| centre missionnaire international | 161 | 0 |  |  |
+| international de krefeld | 160 | 0 |  |  |
+| père céleste | 154 | 168 | yes | yes |
+| epouse de christ | 154 | 50 |  |  |
+| communion avec dieu | 153 | 54 |  |  |
+| rendre compte | 152 | 117 | yes | yes |
 | reçu le message | 149 | 11 |  |  |
-| international de krefeld | 149 | 0 |  |  |
 | parole du seigneur | 147 | 85 | yes | yes |
-| envoyé de dieu | 147 | 43 | yes | yes |
+| envoyé de dieu | 146 | 43 | yes | yes |
 | appel sortir | 145 | 10 |  |  |
-| prêcher la parole | 144 | 62 |  |  |
+| jésus christ | 145 | 111 | yes | yes |
 | nouvelle alliance | 144 | 27 | yes | yes |
+| prêcher la parole | 143 | 62 |  |  |
 | royaume des cieux | 143 | 65 | yes | yes |
+| actes des apôtres | 142 | 13 |  |  |
 | amour de dieu | 142 | 240 | yes | yes |
 | jésus est venu | 141 | 134 |  | yes |
-| retour du seigneur | 140 | 24 |  |  |
-| actes des apôtres | 139 | 13 |  |  |
 | bonne nouvelle | 139 | 102 | yes | yes |
+| retour du seigneur | 138 | 24 |  |  |
 | promesses de dieu | 136 | 52 | yes | yes |
-| http www cmpp | 135 | 97 |  |  |
+| écouter la parole | 135 | 23 | yes |  |
 | seigneur notre dieu | 135 | 133 | yes | yes |
-| prendre part | 135 | 11 | yes | yes |
-| écouter la parole | 133 | 23 | yes |  |
+| prendre part | 134 | 11 | yes | yes |
 | premier verset | 133 | 16 |  |  |
-| jésus christ | 133 | 111 | yes | yes |
 | allez voir | 133 | 38 | yes |  |
-| message de dieu | 131 | 60 |  |  |
+| message de dieu | 130 | 60 |  |  |
 | retour de jésus-christ | 130 | 9 |  |  |
 | dieu parle | 128 | 94 | yes | yes |
 | chapitre partir | 128 | 1 |  |  |
+| esprit saint | 127 | 54 | yes | yes |
 | sommes appelés | 127 | 7 |  | yes |
-| esprit saint | 126 | 55 | yes | yes |
 | vierges sages | 126 | 25 |  |  |
 | sommeil et assoupissement | 124 | 0 |  |  |
-| jésus-christ notre seigneur | 123 | 11 | yes |  |
-| apocalypse chapitre | 123 | 20 |  |  |
 | vient de dieu | 122 | 126 | yes | yes |
-| parole promise | 122 | 116 |  |  |
+| apocalypse chapitre | 122 | 19 |  |  |
 | vierges folles | 121 | 75 |  |  |
+| parole promise | 121 | 116 |  |  |
 | matthieu chapitre | 121 | 9 |  |  |
 | révélation divine | 120 | 19 |  |  |
+| jésus-christ notre seigneur | 120 | 11 | yes |  |
 | eglise du nouveau | 119 | 6 |  |  |
 | beaucoup de gens | 119 | 126 | yes | yes |
 | seul dieu | 118 | 197 | yes | yes |
-| entendu parler | 118 | 240 | yes | yes |
-| puissance du saint-esprit | 117 | 184 | yes |  |
-| fausses doctrines | 117 | 4 | yes |  |
+| puissance du saint-esprit | 118 | 184 | yes |  |
+| entendu parler | 118 | 241 | yes | yes |
+| serviteur fidèle | 117 | 5 | yes |  |
 | suis venu | 117 | 148 | yes | yes |
-| serviteur fidèle | 116 | 5 | yes |  |
-| temple de dieu | 116 | 29 | yes | yes |
+| temple de dieu | 117 | 29 | yes | yes |
+| fausses doctrines | 116 | 4 | yes |  |
 | esprit religieux | 115 | 14 |  |  |
-| deux ou trois | 114 | 235 | yes | yes |
 | fidèle et prudent | 114 | 0 | yes | yes |
-| noces de agneau | 113 | 13 | yes | yes |
+| deux ou trois | 113 | 235 | yes | yes |
+| noces de agneau | 113 | 14 | yes | yes |
 | dieu demeure | 111 | 43 | yes | yes |
-| dieu israël | 110 | 36 | yes | yes |
 | vision spirituelle | 110 | 9 |  |  |
+| dieu israël | 109 | 36 | yes | yes |
 | dieu révélée | 109 | 8 |  |  |
+| reçu de dieu | 109 | 19 | yes |  |
 | jusqu'aux extrémités | 109 | 18 | yes | yes |
 | voies de dieu | 109 | 17 | yes | yes |
-| parmi le peuple | 108 | 46 | yes | yes |
-| reçu de dieu | 108 | 19 | yes |  |
+| parmi le peuple | 108 | 47 | yes | yes |
+| agneau de dieu | 108 | 92 | yes | yes |
 | apôtre pierre | 108 | 14 |  |  |
 | faux christs | 108 | 26 | yes | yes |
-| agneau de dieu | 107 | 92 | yes | yes |
-| baptême du saint-esprit | 107 | 492 |  |  |
+| seigneur donné | 107 | 34 | yes | yes |
+| dieu jésus | 107 | 130 | yes | yes |
+| baptême du saint-esprit | 107 | 493 |  |  |
+| dieu nous sommes | 107 | 73 |  |  |
 | prophète de dieu | 106 | 145 |  |  |
-| seigneur donné | 106 | 34 | yes | yes |
-| dieu jésus | 106 | 131 | yes | yes |
-| dieu nous sommes | 106 | 73 |  |  |
 | terre promise | 106 | 183 | yes |  |
 | ange du seigneur | 105 | 260 | yes | yes |
 | nourriture spirituelle | 105 | 12 |  |  |
 | rendre témoignage | 105 | 24 | yes | yes |
 | voix de dieu | 105 | 87 | yes | yes |
-| ewald frank | 104 | 4 |  |  |
+| plusieurs reprises | 105 | 45 | yes | yes |
 | propres yeux | 104 | 27 | yes | yes |
 | demeure éternellement | 104 | 9 | yes | yes |
-| plusieurs reprises | 104 | 45 | yes | yes |
 | sommes engagés | 103 | 1 | yes | yes |
 | église de laodicée | 102 | 88 | yes |  |
 | dieu voulait | 102 | 59 | yes |  |
-| case postale | 102 | 0 |  |  |
 | paul écrit | 101 | 8 |  |  |
 | histoire du salut | 101 | 0 |  |  |
+| dons de esprit | 100 | 29 |  | yes |
+| sodome et gomorrhe | 100 | 36 | yes | yes |
 | aller plus loin | 100 | 74 | yes |  |
-| dieu donne | 99 | 80 | yes | yes |
+| dieu donne | 99 | 81 | yes | yes |
 | nulle part | 99 | 109 |  | yes |
-| dons de esprit | 99 | 29 |  | yes |
 | raison pour laquelle | 99 | 84 | yes | yes |
-| sodome et gomorrhe | 99 | 36 | yes | yes |
 | main de dieu | 99 | 68 | yes | yes |
 | dieu seul | 98 | 170 | yes | yes |
 | prendre garde | 98 | 8 | yes | yes |
-| sept sceaux | 97 | 115 | yes | yes |
-| conseil de dieu | 97 | 16 | yes | yes |
+| conseil de dieu | 97 | 17 | yes | yes |
 | beaucoup de personnes | 97 | 27 | yes |  |
 | dieu envoie | 97 | 149 |  | yes |
-| part du seigneur | 96 | 6 | yes | yes |
-| révélation de jésus-christ | 96 | 68 | yes |  |
+| sept sceaux | 96 | 115 | yes | yes |
+| jardin eden | 96 | 77 |  |  |
+| révélation de jésus-christ | 96 | 61 | yes |  |
 | crainte de dieu | 95 | 14 | yes | yes |
-| jardin eden | 95 | 76 |  |  |
-| plan du salut | 94 | 11 |  |  |
-| info cmpp | 94 | 0 |  |  |
+| part du seigneur | 95 | 6 | yes | yes |
 | paul parle | 94 | 19 |  |  |
-| vérité en vérité | 94 | 48 | yes | yes |
-| éternel dieu | 94 | 9 | yes | yes |
 | telle manière | 93 | 36 | yes | yes |
-| e-mail info | 93 | 0 |  |  |
-| e-mail info cmpp | 93 | 0 |  |  |
 | seigneur parlé | 93 | 13 |  | yes |
-| seigneur seigneur | 92 | 52 | yes | yes |
-| eternel des armées | 92 | 50 |  |  |
-| prophète promis | 92 | 2 |  |  |
-| face de dieu | 91 | 10 | yes | yes |
+| eternel des armées | 93 | 50 |  |  |
+| vérité en vérité | 93 | 48 | yes | yes |
+| prophète promis | 93 | 2 |  |  |
+| seigneur seigneur | 92 | 51 | yes | yes |
+| face de dieu | 92 | 10 | yes | yes |
+| éternel dieu | 92 | 9 | yes | yes |
+| saint esprit | 92 | 129 | yes | yes |
+| plan du salut | 91 | 11 |  |  |
 | sommes arrivés | 90 | 51 | yes | yes |
 | plusieurs manières | 90 | 31 | yes | yes |
+| soeurs en christ | 90 | 3 |  |  |
 | dieu le seigneur | 89 | 4 |  | yes |
 | voix forte | 89 | 33 | yes | yes |
+| paroles de dieu | 89 | 39 | yes | yes |
 | ministère prophétique | 89 | 1 |  |  |
-| épouse de christ | 89 | 5 |  |  |
-| paroles de dieu | 88 | 39 | yes | yes |
+| ewald frank | 89 | 0 |  |  |
 | rend témoignage | 88 | 23 | yes | yes |
-| sommes parvenus | 88 | 6 | yes | yes |
-| salut de dieu | 88 | 8 | yes | yes |
-| parole parlée | 88 | 35 |  |  |
-| servir dieu | 88 | 119 | yes | yes |
+| prenez garde | 88 | 30 | yes | yes |
+| servir dieu | 88 | 120 | yes | yes |
+| épouse de christ | 88 | 4 |  |  |
 | appel divin | 87 | 3 |  |  |
-| prophète william | 87 | 1 |  |  |
-| prenez garde | 87 | 30 | yes | yes |
-| grand et terrible | 86 | 9 | yes | yes |
-| oeuvre de dieu | 86 | 7 |  |  |
+| oeuvre de dieu | 87 | 7 |  |  |
+| sommes parvenus | 87 | 6 | yes | yes |
+| venue du seigneur | 86 | 239 |  | yes |
 | enfant de dieu | 86 | 162 |  |  |
-| prophète william branham | 86 | 1 |  |  |
-| internet http | 86 | 0 |  |  |
+| prophète william | 86 | 1 |  |  |
 | mettre accent | 86 | 7 |  |  |
 | pensée de dieu | 86 | 73 |  |  |
-| venue du seigneur | 85 | 239 |  | yes |
 | dieu parlé | 85 | 130 | yes | yes |
+| grand et terrible | 85 | 9 | yes | yes |
 | séjour des morts | 85 | 132 | yes |  |
 | reçu la révélation | 85 | 19 |  |  |
-| éternellement hébreux | 85 | 23 |  |  |
-| lausanne suisse | 85 | 0 |  |  |
+| prophète william branham | 85 | 1 |  |  |
+| salut de dieu | 85 | 8 | yes | yes |
 | colère de dieu | 85 | 59 | yes | yes |
-| soeurs en christ | 85 | 3 |  |  |
 | sommes devenus | 85 | 42 | yes | yes |
+| sainte parole | 85 | 11 |  |  |
 | siècles des siècles | 85 | 46 | yes | yes |
 | adorer dieu | 85 | 38 |  |  |
 | seigneur parle | 84 | 7 | yes | yes |
 | véritables croyants | 84 | 3 |  |  |
-| rendu témoignage | 84 | 47 | yes | yes |
 | nouvelle année | 84 | 5 |  |  |
 | tache ni ride | 84 | 27 | yes | yes |
-| sainte parole | 84 | 11 |  |  |
-| saint esprit | 84 | 129 | yes | yes |
-| font partie | 83 | 34 |  |  |
 | précieuse parole | 83 | 5 |  |  |
+| rendu témoignage | 83 | 47 | yes | yes |
 | esprit de christ | 83 | 143 | yes | yes |
 | mains du seigneur | 83 | 3 |  |  |
 | passages bibliques | 82 | 2 |  |  |
 | aura lieu | 82 | 83 | yes | yes |
-| editeur centre | 82 | 0 |  |  |
-| editeur centre missionnaire | 82 | 0 |  |  |
+| font partie | 82 | 34 |  |  |
 | prendre conscience | 82 | 10 |  |  |
 | seigneur viendra | 81 | 11 | yes | yes |
-| faux prophète | 81 | 105 | yes | yes |
 | histoire de eglise | 81 | 3 |  |  |
+| case postale | 81 | 0 |  |  |
 | gloire dieu | 81 | 236 | yes | yes |
 | dieu appelé | 81 | 68 |  | yes |
-| elie le prophète | 80 | 47 |  |  |
+| dieu tout puissant | 81 | 4 |  |  |
+| elie le prophète | 80 | 46 |  |  |
 | guerre mondiale | 80 | 24 |  |  |
+| faux prophète | 80 | 105 | yes | yes |
 | milliers de personnes | 80 | 56 |  |  |
 | auprès de dieu | 80 | 45 | yes | yes |
 | seigneur est venu | 80 | 18 | yes | yes |
 | filles de dieu | 80 | 93 |  |  |
 | chaîne de prière | 80 | 11 |  |  |
 | dieu jean | 78 | 71 |  |  |
+| auprès du seigneur | 78 | 4 | yes | yes |
 | reçu du seigneur | 78 | 14 | yes | yes |
 | sommes maintenant | 78 | 62 | yes | yes |
-| âges de église | 78 | 75 |  |  |
-| jusqu'au bout | 78 | 70 | yes | yes |
+| jusqu'au bout | 78 | 71 | yes | yes |
 | suis en train | 78 | 53 |  |  |
-| dieu nous aide | 77 | 53 |  |  |
+| dieu nous aide | 77 | 52 |  |  |
 | eglise de jésus-christ | 77 | 11 |  |  |
 | plan de salut | 77 | 5 |  |  |
 | dieu nous donné | 77 | 44 | yes | yes |
 | babylone la grande | 77 | 20 | yes | yes |
 | mettre en pratique | 77 | 5 | yes |  |
-| auprès du seigneur | 77 | 4 | yes | yes |
+| âges de église | 77 | 73 |  |  |
 | adversaire de dieu | 77 | 0 |  |  |
 | commencé prêcher | 77 | 12 |  |  |
 | partir du premier | 77 | 0 |  |  |
 | main droite | 76 | 72 | yes | yes |
-| pères apostoliques | 76 | 8 |  |  |
 | dieu promis | 76 | 193 |  |  |
 | jugement de dieu | 76 | 45 | yes | yes |
+| http www cmpp | 76 | 0 |  |  |
 | seul corps | 76 | 85 | yes | yes |
 | empire romain | 76 | 18 |  |  |
 | bénédictions de dieu | 76 | 29 |  |  |
 | moment donné | 76 | 5 |  |  |
 | jean chapitre | 76 | 8 |  |  |
 | première partie | 75 | 22 | yes | yes |
+| pères apostoliques | 75 | 8 |  |  |
 | dieu puisse | 75 | 80 | yes | yes |
 | fondation du monde | 75 | 259 | yes | yes |
 | chasser les démons | 75 | 65 | yes | yes |
+| sang de agneau | 75 | 72 | yes | yes |
+| fils unique | 75 | 103 | yes | yes |
 | dieu sait | 75 | 147 | yes | yes |
 | église catholique | 75 | 177 |  |  |
 | souverain sacrificateur | 75 | 316 | yes | yes |
@@ -451,37 +445,36 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | plusieurs années | 74 | 22 | yes | yes |
 | dieu appelle | 74 | 109 |  |  |
 | manière de voir | 74 | 5 | yes |  |
-| fils unique | 74 | 103 | yes | yes |
-| disciples de jésus-christ | 74 | 0 |  |  |
 | prendre soin | 74 | 43 | yes |  |
-| sang de agneau | 74 | 72 | yes | yes |
 | sortir de babylone | 74 | 10 |  |  |
 | laquelle nous sommes | 74 | 18 |  | yes |
-| dieu tout puissant | 74 | 4 |  |  |
-| devait venir | 73 | 106 | yes | yes |
 | dieu maintenant | 73 | 63 | yes |  |
 | parmi les croyants | 73 | 13 |  |  |
+| dernier message | 73 | 38 |  |  |
 | voyages missionnaires | 73 | 4 |  |  |
+| accomplissement des prophéties | 73 | 3 |  |  |
+| disciples de jésus-christ | 73 | 0 |  |  |
 | dieu aime | 73 | 78 | yes | yes |
 | domaine spirituel | 73 | 19 |  |  |
 | accomplir la volonté | 73 | 8 |  |  |
 | ordre divin | 72 | 8 |  |  |
-| envoyé par dieu | 72 | 73 | yes | yes |
+| devait venir | 72 | 106 | yes | yes |
+| véritable parole | 72 | 25 |  |  |
+| abraham isaac | 72 | 46 | yes | yes |
 | distribuer la nourriture | 72 | 0 |  |  |
-| accomplissement des prophéties | 72 | 3 |  |  |
-| dernier message | 72 | 38 |  |  |
 | jeûner et prier | 72 | 7 |  |  |
 | message est venu | 72 | 1 |  |  |
-| mystère de dieu | 71 | 47 | yes | yes |
-| véritable parole | 71 | 25 |  |  |
+| envoyé par dieu | 71 | 73 | yes | yes |
+| internet http | 71 | 0 |  |  |
 | dieu la parole | 71 | 75 |  | yes |
 | tenir ferme | 71 | 16 | yes | yes |
-| abraham isaac | 71 | 46 | yes | yes |
 | nature divine | 71 | 11 | yes | yes |
+| actes chapitre | 71 | 3 |  |  |
 | jusqu'à la mort | 71 | 31 | yes | yes |
-| éternel des armées | 71 | 10 | yes | yes |
 | avaient reçu | 70 | 51 | yes | yes |
+| mystère de dieu | 70 | 46 | yes | yes |
 | parole de vérité | 70 | 7 | yes |  |
+| info cmpp | 70 | 0 |  |  |
 | message divin | 70 | 3 |  |  |
 | lequel nous sommes | 70 | 11 |  | yes |
 | dieu se trouve | 70 | 13 |  |  |
@@ -489,17 +482,21 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | accomplir sa volonté | 70 | 3 |  |  |
 | chambre haute | 70 | 105 | yes | yes |
 | dieu en effet | 70 | 5 | yes |  |
+| éternel des armées | 70 | 9 | yes | yes |
 | esprit elie | 69 | 66 |  |  |
-| serviteur et prophète | 69 | 1 |  |  |
 | âges de eglise | 69 | 58 |  |  |
 | tant que fils | 69 | 20 |  |  |
 | amour fraternel | 69 | 60 | yes | yes |
+| e-mail info | 69 | 0 |  |  |
+| e-mail info cmpp | 69 | 0 |  |  |
 | membres du corps | 69 | 18 | yes | yes |
 | dieu pris | 69 | 47 | yes |  |
+| parole parlée | 69 | 33 |  |  |
 | pris part | 69 | 4 | yes | yes |
 | dieu commencé | 69 | 15 |  |  |
 | faite chair | 69 | 217 | yes |  |
-| actes chapitre | 69 | 3 |  |  |
+| eternel dieu | 68 | 23 |  |  |
+| serviteur et prophète | 68 | 1 |  |  |
 | poser la question | 68 | 10 |  |  |
 | nouvelle création | 68 | 20 |  | yes |
 | dieu le père | 68 | 86 | yes | yes |
@@ -511,121 +508,125 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | sortez du milieu | 67 | 43 | yes | yes |
 | jeune fille | 67 | 203 | yes | yes |
 | apôtre jean | 67 | 12 |  |  |
+| editeur centre | 67 | 0 |  |  |
+| editeur centre missionnaire | 67 | 0 |  |  |
 | point culminant | 67 | 15 |  |  |
+| travers du ministère | 67 | 1 |  |  |
 | suis allé | 67 | 325 | yes | yes |
 | grande tribulation | 67 | 29 | yes | yes |
 | dieu nous demande | 67 | 10 |  |  |
-| sept tonnerres | 66 | 25 | yes | yes |
-| eternel dieu | 66 | 23 |  |  |
-| lausanne suisse internet | 66 | 0 |  |  |
-| suisse internet | 66 | 0 |  |  |
+| prophète esaïe | 66 | 25 |  |  |
 | corps spirituel | 66 | 22 | yes | yes |
 | parole écrite | 66 | 88 |  |  |
-| dieu corinthiens | 66 | 1 |  |  |
 | reçu la parole | 66 | 10 | yes | yes |
-| travers du ministère | 66 | 1 |  |  |
 | beaucoup de chrétiens | 66 | 25 |  |  |
 | fils bien-aimé | 66 | 96 | yes | yes |
 | promesse de dieu | 66 | 252 | yes | yes |
-| sept anges | 65 | 79 | yes | yes |
+| sept tonnerres | 65 | 25 | yes | yes |
 | yeux de dieu | 65 | 86 | yes | yes |
 | jeunes gens | 65 | 99 | yes | yes |
 | bénédiction de dieu | 65 | 26 | yes |  |
 | dieu est-à-dire | 65 | 10 |  |  |
-| amour divin | 65 | 64 |  |  |
-| cmpp ch e-mail | 65 | 0 |  |  |
 | action de dieu | 65 | 14 |  |  |
 | servir le seigneur | 65 | 44 |  |  |
 | monde jean | 65 | 35 |  |  |
+| faux enseignements | 65 | 6 |  |  |
+| sept anges | 64 | 79 | yes | yes |
 | reçu esprit | 64 | 26 | yes | yes |
 | mission divine | 64 | 0 |  |  |
-| prophète esaïe | 64 | 24 |  |  |
+| amour divin | 64 | 64 |  |  |
 | mettre de ordre | 64 | 9 |  |  |
 | fruits de esprit | 64 | 50 |  |  |
 | écrit dans apocalypse | 64 | 2 |  |  |
-| faux enseignements | 64 | 6 |  |  |
 | parole de éternel | 64 | 5 | yes | yes |
+| seigneur eternel | 63 | 31 |  |  |
 | jean jésus | 63 | 106 | yes |  |
-| suisse internet http | 63 | 0 |  |  |
-| sommes reconnaissants | 63 | 48 |  |  |
+| petits enfants | 63 | 64 | yes | yes |
 | vision céleste | 63 | 18 | yes | yes |
 | pouvons lire | 63 | 10 |  |  |
-| jean-baptiste fut envoyé | 63 | 14 |  |  |
-| seigneur eternel | 62 | 31 |  |  |
 | nouvelle jérusalem | 62 | 22 | yes | yes |
 | tant que prophète | 62 | 14 |  |  |
 | versets bibliques | 62 | 1 |  |  |
 | connaissance de dieu | 62 | 15 | yes | yes |
 | remplis du saint-esprit | 62 | 104 | yes |  |
-| case postale lausanne | 62 | 0 |  |  |
-| postale lausanne | 62 | 0 |  |  |
-| christ jésus | 62 | 159 | yes | yes |
-| alexis barilier | 62 | 0 |  |  |
+| lausanne suisse | 62 | 0 |  |  |
+| christ jésus | 62 | 157 | yes | yes |
+| sommes reconnaissants | 62 | 48 |  |  |
 | ordre de mission | 62 | 75 |  |  |
-| différents pays | 62 | 3 |  |  |
 | prier le seigneur | 62 | 3 |  |  |
-| petits enfants | 62 | 64 | yes | yes |
 | dieu vient | 62 | 89 | yes | yes |
 | ayant reçu | 62 | 34 | yes | yes |
 | mise en garde | 62 | 8 |  |  |
+| temple du saint-esprit | 62 | 3 | yes |  |
 | sortez sa rencontre | 62 | 3 |  | yes |
+| ministère de william | 62 | 4 |  |  |
 | prêter attention | 61 | 21 | yes | yes |
 | deuxième partie | 61 | 7 |  |  |
-| eglise du dieu | 61 | 81 |  |  |
-| parole parlee | 61 | 71 |  |  |
+| ouverture des sceaux | 61 | 36 |  |  |
+| parole parlee | 61 | 3 |  |  |
+| posé la question | 61 | 14 |  |  |
+| jean-baptiste fut envoyé | 61 | 14 |  |  |
+| cause du péché | 61 | 29 | yes | yes |
+| guerre spirituelle | 61 | 2 |  |  |
+| dieu accomplit | 60 | 35 |  |  |
+| milieu du peuple | 60 | 27 | yes | yes |
+| vraie parole | 60 | 55 | yes | yes |
+| dieu établi | 60 | 20 | yes | yes |
+| entendre la parole | 60 | 24 | yes | yes |
 
 ### Present in French preaching, absent from the Branham translations
 
 | Phrase | French works | Segond | Darby |
 |---|---|---|---|
-| centre missionnaire | 297 |  |  |
+| centre missionnaire | 275 |  |  |
 | côte ivoire | 177 |  |  |
-| krefeld en allemagne | 170 |  |  |
-| centre missionnaire international | 151 |  |  |
-| missionnaire international | 151 |  |  |
-| international de krefeld | 149 |  |  |
+| krefeld en allemagne | 176 |  |  |
+| missionnaire international | 162 |  |  |
+| centre missionnaire international | 161 |  |  |
+| international de krefeld | 160 |  |  |
 | sommeil et assoupissement | 124 |  |  |
 | fidèle et prudent | 114 | yes | yes |
-| case postale | 102 |  |  |
 | histoire du salut | 101 |  |  |
-| info cmpp | 94 |  |  |
-| e-mail info | 93 |  |  |
-| e-mail info cmpp | 93 |  |  |
-| internet http | 86 |  |  |
-| lausanne suisse | 85 |  |  |
-| editeur centre | 82 |  |  |
-| editeur centre missionnaire | 82 |  |  |
+| ewald frank | 89 |  |  |
+| case postale | 81 |  |  |
 | adversaire de dieu | 77 |  |  |
 | partir du premier | 77 |  |  |
-| disciples de jésus-christ | 74 |  |  |
+| http www cmpp | 76 |  |  |
+| disciples de jésus-christ | 73 |  |  |
 | distribuer la nourriture | 72 |  |  |
-| lausanne suisse internet | 66 |  |  |
-| suisse internet | 66 |  |  |
-| cmpp ch e-mail | 65 |  |  |
+| internet http | 71 |  |  |
+| info cmpp | 70 |  |  |
+| e-mail info | 69 |  |  |
+| e-mail info cmpp | 69 |  |  |
+| editeur centre | 67 |  |  |
+| editeur centre missionnaire | 67 |  |  |
 | mission divine | 64 |  |  |
-| suisse internet http | 63 |  |  |
-| case postale lausanne | 62 |  |  |
-| postale lausanne | 62 |  |  |
-| alexis barilier | 62 |  |  |
+| lausanne suisse | 62 |  |  |
+| alexis barilier | 60 |  |  |
 | œuvres des ténèbres | 58 | yes | yes |
+| connu frère branham | 57 |  |  |
 | bénédictions du dieu | 57 |  |  |
 | combats spirituels | 57 |  |  |
 | dieu demeure éternellement | 56 | yes | yes |
 | mandat divin | 56 |  |  |
 | maturité spirituelle | 56 |  |  |
-| connu frère branham | 55 |  |  |
-| missionnaire de krefeld | 55 |  |  |
 | esprit babylonien | 55 |  |  |
 | ministère de épouse | 55 |  |  |
 | orientation spirituelle | 54 |  |  |
 | vision du réveil | 54 |  |  |
 | lettres circulaires | 52 |  |  |
 | ministère du serviteur | 52 |  |  |
+| case postale lausanne | 51 |  |  |
+| postale lausanne | 51 |  |  |
 | combat contre babylone | 50 |  |  |
 | union européenne | 49 |  |  |
 | œuvre de réveil | 49 |  |  |
+| lausanne suisse internet | 48 |  |  |
+| suisse internet | 48 |  |  |
+| suisse internet http | 48 |  |  |
 | dieu bien-aimés | 48 |  |  |
 | dieu mes bien-aimés | 48 |  |  |
+| cmpp ch e-mail | 47 |  |  |
 | dernier week-end | 47 |  |  |
 | exercices spirituels | 47 |  |  |
 | message on reçu | 47 |  |  |
@@ -637,28 +638,26 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | allemagne nous regardons | 44 |  |  |
 | guides religieux | 44 |  |  |
 | écrit dans corinthiens | 43 |  |  |
-| saint-roch case | 43 |  |  |
-| saint-roch case postale | 43 |  |  |
+| dieu br frank | 43 |  |  |
 | pays afrique | 42 |  |  |
 | matthieu le seigneur | 41 |  |  |
 | parlee rue saint-roch | 41 |  |  |
-| postale lausanne suisse | 41 |  |  |
+| saint-roch case | 41 |  |  |
+| saint-roch case postale | 41 |  |  |
 | nuée surnaturelle | 40 |  |  |
 | règne de christ | 40 |  |  |
-| saintes écritures | 40 | yes | yes |
 | mener le combat | 40 |  |  |
 | grande guerre | 40 |  |  |
 | dieu conformément | 39 | yes |  |
 | préparation de epouse | 39 |  |  |
 | disciple de jésus-christ | 39 |  |  |
-| parole parlée case | 39 |  |  |
-| parlée case | 39 |  |  |
-| parlée case postale | 39 |  |  |
+| saintes écritures | 39 | yes | yes |
 | faux dieux | 39 |  |  |
 | écrit dans jean | 38 |  |  |
 | fondement biblique | 38 |  |  |
 | position spirituelle | 38 |  |  |
 | ministère du prophète | 38 |  |  |
+| frank editorial | 37 |  |  |
 | commission divine | 37 |  |  |
 | manière générale | 37 |  |  |
 | chercher la face | 37 |  |  |
@@ -669,19 +668,18 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | dieu fait maintenant | 35 |  |  |
 | pays africains | 35 |  |  |
 | chapitre le seigneur | 35 |  |  |
-| enseignements originaux | 35 |  |  |
 | écrit au verset | 34 |  |  |
 | assemblées locales | 34 |  |  |
 | véritables serviteurs | 34 |  |  |
-| évangile du royaume | 34 |  | yes |
+| appel direct | 34 |  |  |
+| enseignements originaux | 34 |  |  |
 | huile de réserve | 34 |  |  |
 | formation spirituelle | 34 |  |  |
 | doctrines bibliques | 33 |  |  |
 | révélée notre génération | 33 |  |  |
-| appel direct | 33 |  |  |
+| évangile du royaume | 33 |  | yes |
 | marche spirituelle | 33 |  |  |
 | temple de jérusalem | 33 | yes | yes |
-| krefeld allemagne | 33 |  |  |
 | églises du message | 33 |  |  |
 | parfait missionnaire | 33 |  |  |
 | travail spirituel | 33 |  |  |
@@ -692,39 +690,41 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | moments de prière | 32 |  |  |
 | servantes de dieu | 32 |  |  |
 | pierre écrit | 31 |  |  |
+| postale lausanne suisse | 31 |  |  |
 | nouveau commencement | 31 |  |  |
 | pratique la parole | 31 | yes |  |
 | faux raisonnements | 31 | yes |  |
-| appel au réveil | 31 |  |  |
 | quiconque aime | 31 | yes | yes |
-| postale ch lausanne | 31 |  |  |
+| précéder la seconde | 31 |  |  |
 | prendre en compte | 31 |  |  |
 | guerre de libération | 31 |  |  |
 | vivante et permanente | 30 | yes | yes |
 | partager la parole | 30 |  |  |
+| appel au réveil | 30 |  |  |
 | aimeras le seigneur | 30 | yes | yes |
-| précéder la seconde | 30 |  |  |
 | assoupissement spirituels | 30 |  |  |
 | faux pasteurs | 30 |  |  |
 | éternel votre dieu | 30 | yes | yes |
 | enseignement de jésus | 29 | yes |  |
 | lisons au verset | 29 |  |  |
-| écrit dans hébreux | 29 |  |  |
-| suisse e-mail | 29 |  |  |
 | semence corruptible | 29 | yes | yes |
 | témoignage final | 29 |  |  |
+| intérieur du message | 29 |  |  |
+| matthieu chapitre verset | 29 |  |  |
 | mesure on avance | 29 |  |  |
 | séance de prière | 29 |  |  |
 | prière et intercession | 29 |  |  |
 | laquelle le seigneur | 28 |  |  |
 | manière puissante | 28 |  |  |
 | aller de ville | 28 |  |  |
-| suisse e-mail info | 28 |  |  |
 | force échapper | 28 | yes |  |
 | terminé je enverrai | 28 |  |  |
+| tant epoux | 28 |  |  |
 | dernière action | 28 |  |  |
 | croyants bibliques | 28 |  |  |
-| intérieur du message | 28 |  |  |
+| missionnaire de krefeld | 28 |  |  |
 | bien-aimés dieu | 28 | yes | yes |
 | croiser les bras | 28 |  |  |
 | mener ce combat | 28 |  |  |
+| œuvre spirituelle | 28 |  |  |
+| fils de église | 28 |  |  |

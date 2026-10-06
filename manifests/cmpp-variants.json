@@ -161,7 +161,7 @@
     "folded": [
       {
         "id": "coronavirus_A5",
-        "in_keeper": 0.999,
+        "in_keeper": 0.996,
         "of_keeper": 0.982
       }
     ],
@@ -305,8 +305,8 @@
     "folded": [
       {
         "id": "grace_verite_A5",
-        "in_keeper": 0.972,
-        "of_keeper": 0.966
+        "in_keeper": 0.968,
+        "of_keeper": 0.976
       }
     ],
     "not_folded": []
@@ -317,8 +317,8 @@
     "folded": [
       {
         "id": "honore_tes_parents_A5",
-        "in_keeper": 0.995,
-        "of_keeper": 0.995
+        "in_keeper": 0.954,
+        "of_keeper": 0.996
       }
     ],
     "not_folded": []
@@ -330,7 +330,7 @@
       {
         "id": "la_priere_A5",
         "in_keeper": 0.994,
-        "of_keeper": 0.991
+        "of_keeper": 0.981
       }
     ],
     "not_folded": []
@@ -341,7 +341,7 @@
     "folded": [
       {
         "id": "lc_janvier_1973_A5",
-        "in_keeper": 0.988,
+        "in_keeper": 0.985,
         "of_keeper": 0.996
       }
     ],
@@ -353,13 +353,13 @@
     "folded": [
       {
         "id": "lc_janvier_1974_A5",
-        "in_keeper": 0.955,
-        "of_keeper": 0.966
+        "in_keeper": 0.961,
+        "of_keeper": 0.974
       },
       {
         "id": "janvier1974",
-        "in_keeper": 0.998,
-        "of_keeper": 0.998
+        "in_keeper": 0.984,
+        "of_keeper": 0.986
       }
     ],
     "not_folded": []
@@ -370,13 +370,13 @@
     "folded": [
       {
         "id": "lc_juillet_1974_A5",
-        "in_keeper": 0.973,
-        "of_keeper": 0.982
+        "in_keeper": 0.976,
+        "of_keeper": 0.988
       },
       {
         "id": "juillet1974",
-        "in_keeper": 0.999,
-        "of_keeper": 0.999
+        "in_keeper": 0.988,
+        "of_keeper": 0.99
       }
     ],
     "not_folded": []
@@ -387,8 +387,8 @@
     "folded": [
       {
         "id": "lc_juin_1973_A5",
-        "in_keeper": 0.979,
-        "of_keeper": 0.986
+        "in_keeper": 0.986,
+        "of_keeper": 0.996
       }
     ],
     "not_folded": []
@@ -399,8 +399,8 @@
     "folded": [
       {
         "id": "lc_mars_1972_A5",
-        "in_keeper": 0.972,
-        "of_keeper": 0.986
+        "in_keeper": 0.953,
+        "of_keeper": 0.971
       }
     ],
     "not_folded": []
@@ -411,13 +411,13 @@
     "folded": [
       {
         "id": "lc_mars_1974_A5",
-        "in_keeper": 0.983,
-        "of_keeper": 0.989
+        "in_keeper": 0.988,
+        "of_keeper": 0.997
       },
       {
         "id": "mars1974",
-        "in_keeper": 0.997,
-        "of_keeper": 0.996
+        "in_keeper": 0.984,
+        "of_keeper": 0.987
       }
     ],
     "not_folded": []
@@ -428,8 +428,8 @@
     "folded": [
       {
         "id": "lc_novembre_1973_A5",
-        "in_keeper": 0.99,
-        "of_keeper": 0.996
+        "in_keeper": 0.987,
+        "of_keeper": 0.997
       }
     ],
     "not_folded": []
@@ -440,13 +440,13 @@
     "folded": [
       {
         "id": "lc_octobre_1974_A5",
-        "in_keeper": 0.988,
+        "in_keeper": 0.985,
         "of_keeper": 0.997
       },
       {
         "id": "octobre1974",
-        "in_keeper": 0.998,
-        "of_keeper": 0.998
+        "in_keeper": 0.993,
+        "of_keeper": 0.997
       }
     ],
     "not_folded": []
@@ -457,8 +457,8 @@
     "folded": [
       {
         "id": "lc_septembre_1972_A5",
-        "in_keeper": 0.987,
-        "of_keeper": 0.994
+        "in_keeper": 0.979,
+        "of_keeper": 0.989
       }
     ],
     "not_folded": []
@@ -469,8 +469,8 @@
     "folded": [
       {
         "id": "lc1_A5",
-        "in_keeper": 0.992,
-        "of_keeper": 0.998
+        "in_keeper": 0.973,
+        "of_keeper": 0.982
       }
     ],
     "not_folded": []
@@ -481,8 +481,8 @@
     "folded": [
       {
         "id": "lc10_A5",
-        "in_keeper": 0.995,
-        "of_keeper": 0.994
+        "in_keeper": 0.984,
+        "of_keeper": 0.987
       }
     ],
     "not_folded": []
@@ -493,8 +493,8 @@
     "folded": [
       {
         "id": "lc11_A5",
-        "in_keeper": 0.974,
-        "of_keeper": 0.36
+        "in_keeper": 0.943,
+        "of_keeper": 0.35
       }
     ],
     "not_folded": []
@@ -505,8 +505,8 @@
     "folded": [
       {
         "id": "lc12_A5",
-        "in_keeper": 0.977,
-        "of_keeper": 0.985
+        "in_keeper": 0.978,
+        "of_keeper": 0.988
       }
     ],
     "not_folded": []
@@ -517,8 +517,8 @@
     "folded": [
       {
         "id": "lc13_A5",
-        "in_keeper": 0.976,
-        "of_keeper": 0.983
+        "in_keeper": 0.985,
+        "of_keeper": 0.998
       }
     ],
     "not_folded": []
@@ -530,7 +530,7 @@
       {
         "id": "lc14_A5",
         "in_keeper": 0.988,
-        "of_keeper": 0.995
+        "of_keeper": 0.997
       }
     ],
     "not_folded": []
@@ -541,8 +541,8 @@
     "folded": [
       {
         "id": "lc15_A5",
-        "in_keeper": 0.984,
-        "of_keeper": 0.989
+        "in_keeper": 0.988,
+        "of_keeper": 0.997
       }
     ],
     "not_folded": []
@@ -553,8 +553,8 @@
     "folded": [
       {
         "id": "lc16_A5",
-        "in_keeper": 0.976,
-        "of_keeper": 0.983
+        "in_keeper": 0.984,
+        "of_keeper": 0.994
       }
     ],
     "not_folded": []
@@ -565,8 +565,8 @@
     "folded": [
       {
         "id": "lc17_A5",
-        "in_keeper": 0.972,
-        "of_keeper": 0.98
+        "in_keeper": 0.986,
+        "of_keeper": 0.999
       }
     ],
     "not_folded": []
@@ -577,8 +577,8 @@
     "folded": [
       {
         "id": "lc18_A5",
-        "in_keeper": 0.975,
-        "of_keeper": 0.983
+        "in_keeper": 0.979,
+        "of_keeper": 0.989
       }
     ],
     "not_folded": []
@@ -589,8 +589,8 @@
     "folded": [
       {
         "id": "lc19_A5",
-        "in_keeper": 0.989,
-        "of_keeper": 0.997
+        "in_keeper": 0.98,
+        "of_keeper": 0.992
       }
     ],
     "not_folded": []
@@ -601,8 +601,8 @@
     "folded": [
       {
         "id": "lc2_A5",
-        "in_keeper": 0.962,
-        "of_keeper": 0.972
+        "in_keeper": 0.964,
+        "of_keeper": 0.977
       }
     ],
     "not_folded": []
@@ -613,8 +613,8 @@
     "folded": [
       {
         "id": "lc20_A5",
-        "in_keeper": 0.937,
-        "of_keeper": 0.945
+        "in_keeper": 0.96,
+        "of_keeper": 0.972
       }
     ],
     "not_folded": []
@@ -625,8 +625,8 @@
     "folded": [
       {
         "id": "lc21_A5",
-        "in_keeper": 0.966,
-        "of_keeper": 0.972
+        "in_keeper": 0.989,
+        "of_keeper": 0.998
       }
     ],
     "not_folded": []
@@ -637,8 +637,8 @@
     "folded": [
       {
         "id": "lc22_A5",
-        "in_keeper": 0.962,
-        "of_keeper": 0.969
+        "in_keeper": 0.97,
+        "of_keeper": 0.98
       }
     ],
     "not_folded": []
@@ -650,7 +650,7 @@
       {
         "id": "lc23_A5",
         "in_keeper": 0.968,
-        "of_keeper": 0.977
+        "of_keeper": 0.98
       }
     ],
     "not_folded": []
@@ -662,7 +662,7 @@
       {
         "id": "lc24_A5",
         "in_keeper": 0.968,
-        "of_keeper": 0.979
+        "of_keeper": 0.98
       }
     ],
     "not_folded": []
@@ -673,8 +673,8 @@
     "folded": [
       {
         "id": "lc25_A5",
-        "in_keeper": 0.94,
-        "of_keeper": 0.95
+        "in_keeper": 0.953,
+        "of_keeper": 0.967
       }
     ],
     "not_folded": []
@@ -686,7 +686,7 @@
       {
         "id": "lc26_A5",
         "in_keeper": 0.975,
-        "of_keeper": 0.982
+        "of_keeper": 0.983
       }
     ],
     "not_folded": []
@@ -697,8 +697,8 @@
     "folded": [
       {
         "id": "lc27_A5",
-        "in_keeper": 0.962,
-        "of_keeper": 0.972
+        "in_keeper": 0.968,
+        "of_keeper": 0.98
       }
     ],
     "not_folded": []
@@ -709,8 +709,8 @@
     "folded": [
       {
         "id": "lc28_A5",
-        "in_keeper": 0.982,
-        "of_keeper": 0.988
+        "in_keeper": 0.987,
+        "of_keeper": 0.997
       }
     ],
     "not_folded": []
@@ -721,8 +721,8 @@
     "folded": [
       {
         "id": "lc29_A5",
-        "in_keeper": 0.976,
-        "of_keeper": 0.984
+        "in_keeper": 0.985,
+        "of_keeper": 0.994
       }
     ],
     "not_folded": []
@@ -733,8 +733,8 @@
     "folded": [
       {
         "id": "lc3_A5",
-        "in_keeper": 0.959,
-        "of_keeper": 0.968
+        "in_keeper": 0.963,
+        "of_keeper": 0.975
       }
     ],
     "not_folded": []
@@ -745,8 +745,8 @@
     "folded": [
       {
         "id": "lc30_A5",
-        "in_keeper": 0.965,
-        "of_keeper": 0.975
+        "in_keeper": 0.967,
+        "of_keeper": 0.979
       }
     ],
     "not_folded": []
@@ -757,8 +757,8 @@
     "folded": [
       {
         "id": "lc31_A5",
-        "in_keeper": 0.98,
-        "of_keeper": 0.984
+        "in_keeper": 0.984,
+        "of_keeper": 0.992
       }
     ],
     "not_folded": []
@@ -769,8 +769,8 @@
     "folded": [
       {
         "id": "lc32_A5",
-        "in_keeper": 0.975,
-        "of_keeper": 0.979
+        "in_keeper": 0.986,
+        "of_keeper": 0.993
       }
     ],
     "not_folded": []
@@ -781,8 +781,8 @@
     "folded": [
       {
         "id": "lc4_A5",
-        "in_keeper": 0.984,
-        "of_keeper": 0.991
+        "in_keeper": 0.982,
+        "of_keeper": 0.99
       }
     ],
     "not_folded": []
@@ -793,8 +793,8 @@
     "folded": [
       {
         "id": "lc5_A5",
-        "in_keeper": 0.984,
-        "of_keeper": 0.991
+        "in_keeper": 0.988,
+        "of_keeper": 0.998
       }
     ],
     "not_folded": []
@@ -805,8 +805,8 @@
     "folded": [
       {
         "id": "lc6_A5",
-        "in_keeper": 0.987,
-        "of_keeper": 0.991
+        "in_keeper": 0.991,
+        "of_keeper": 0.997
       }
     ],
     "not_folded": []
@@ -818,7 +818,7 @@
       {
         "id": "lc7_A5",
         "in_keeper": 0.984,
-        "of_keeper": 0.98
+        "of_keeper": 0.987
       }
     ],
     "not_folded": []
@@ -830,7 +830,7 @@
       {
         "id": "lc8_A5",
         "in_keeper": 0.986,
-        "of_keeper": 0.994
+        "of_keeper": 0.998
       }
     ],
     "not_folded": []
@@ -841,8 +841,8 @@
     "folded": [
       {
         "id": "lc9_A5",
-        "in_keeper": 0.986,
-        "of_keeper": 0.992
+        "in_keeper": 0.987,
+        "of_keeper": 0.997
       }
     ],
     "not_folded": []
@@ -853,8 +853,9 @@
     "folded": [
       {
         "id": "le_bapteme_une_question_importante_A4_traite",
-        "in_keeper": 0.944,
-        "of_keeper": 0.945
+        "in_keeper": 0.873,
+        "of_keeper": 0.934,
+        "offered_by": "http://www.cmpp.ch/bapteme_une_question_importante.htm"
       }
     ],
     "not_folded": []
@@ -865,8 +866,8 @@
     "folded": [
       {
         "id": "le_jeune_A5",
-        "in_keeper": 0.984,
-        "of_keeper": 0.981
+        "in_keeper": 0.996,
+        "of_keeper": 0.998
       }
     ],
     "not_folded": []
@@ -877,13 +878,13 @@
     "folded": [
       {
         "id": "ministeres_pasteur_A5",
-        "in_keeper": 0.971,
-        "of_keeper": 0.968
+        "in_keeper": 0.963,
+        "of_keeper": 0.977
       },
       {
         "id": "ministeres_pasteur_A4_gc",
-        "in_keeper": 0.982,
-        "of_keeper": 0.985
+        "in_keeper": 0.97,
+        "of_keeper": 0.989
       }
     ],
     "not_folded": []
@@ -894,12 +895,12 @@
     "folded": [
       {
         "id": "nouvelle_naissance_A4",
-        "in_keeper": 0.987,
-        "of_keeper": 0.986
+        "in_keeper": 0.98,
+        "of_keeper": 0.984
       },
       {
         "id": "nouvelle_naissance_A5",
-        "in_keeper": 0.981,
+        "in_keeper": 0.976,
         "of_keeper": 0.983
       }
     ],
@@ -911,8 +912,8 @@
     "folded": [
       {
         "id": "onction_temps_fin_A5",
-        "in_keeper": 0.996,
-        "of_keeper": 0.994
+        "in_keeper": 0.986,
+        "of_keeper": 1
       }
     ],
     "not_folded": []
@@ -923,13 +924,13 @@
     "folded": [
       {
         "id": "paille_et_froment_A4",
-        "in_keeper": 0.99,
-        "of_keeper": 0.991
+        "in_keeper": 0.961,
+        "of_keeper": 0.982
       },
       {
         "id": "paille_et_froment_A5",
-        "in_keeper": 0.979,
-        "of_keeper": 0.996
+        "in_keeper": 0.952,
+        "of_keeper": 0.987
       }
     ],
     "not_folded": []
@@ -940,13 +941,13 @@
     "folded": [
       {
         "id": "quand_dieu_A4_traite",
-        "in_keeper": 0.985,
-        "of_keeper": 0.988
+        "in_keeper": 0.915,
+        "of_keeper": 0.929
       },
       {
         "id": "quanddieu",
-        "in_keeper": 0.94,
-        "of_keeper": 0.941
+        "in_keeper": 0.982,
+        "of_keeper": 0.994
       }
     ],
     "not_folded": []
@@ -958,7 +959,7 @@
       {
         "id": "quel_amour_A5",
         "in_keeper": 0.995,
-        "of_keeper": 0.993
+        "of_keeper": 1
       }
     ],
     "not_folded": []
@@ -969,8 +970,8 @@
     "folded": [
       {
         "id": "quel_bapteme_A4_traite",
-        "in_keeper": 0.973,
-        "of_keeper": 0.998
+        "in_keeper": 0.921,
+        "of_keeper": 0.978
       }
     ],
     "not_folded": []
@@ -981,8 +982,9 @@
     "folded": [
       {
         "id": "savez-vous_A4_traite",
-        "in_keeper": 0.963,
-        "of_keeper": 0.975
+        "in_keeper": 0.834,
+        "of_keeper": 0.961,
+        "offered_by": "http://www.cmpp.ch/savez-vous.htm"
       }
     ],
     "not_folded": []
@@ -993,8 +995,8 @@
     "folded": [
       {
         "id": "votre_attention_A5",
-        "in_keeper": 0.959,
-        "of_keeper": 0.964
+        "in_keeper": 0.93,
+        "of_keeper": 0.989
       }
     ],
     "not_folded": []
