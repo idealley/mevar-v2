@@ -184,10 +184,21 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   « 39. ») is text, and a markdown parser finds no ordered list in the
   392 bodies. **Every word of the 392 pages, header, main and article
   (3,478,263, navigation out), is in the body, in the page's order, or in
-  a frontmatter field, but five**: the stray `</font>` of `serie4no3`, and
-  « Tel que je suis », the caption of an audio player in
-  `le_chemin_qui_mene_a_dieu`, taken out with the label that opens its
-  transcription. Of the 3,956 line breaks of the pages 3,680 are line
+  a frontmatter field**, but two things taken out on purpose: « Tel que je
+  suis », the caption of an audio player in `le_chemin_qui_mene_a_dieu`,
+  with the label that opens its transcription; and, in six works, the
+  narrow-screen copy of a block the page also sets as a table. The page's
+  own `<style>` hides that copy at full width (`#tab600{ display:none; }`,
+  `.responsive-table .stacked-table`, `#img600`), and 43 leaves out what
+  it hides; the first import printed both copies: `lc39` (853 words
+  twice), `lc47` (436), `lc54` (41), `7sceaux4` and `antichrist` (29
+  each), `lc22` (9). No other page hides at full width anything that was
+  in a body. A « < » the page prints is escaped (`lc2`: « dites:
+  <Amen>…» », which markdown read as a tag), and a parser finds no raw
+  HTML in the 392 bodies; `serie4no3`'s page prints a stray « </font> »
+  as text, and so does its body. Underlining has no markdown: the 119
+  words the pages underline (mostly « Question N / Réponse » in
+  `questions_reponses_ef`) are there, not underlined. Of the 3,956 line breaks of the pages 3,680 are line
   breaks in the bodies; 51 are doubled and make a paragraph, 107 close a
   block, 41 are inside a heading and are a space; the rest are in table
   cells. Bold and italics are the page's, written so that markdown can
@@ -195,7 +206,7 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   pages) is none, a run over several lines is marked line by line, and
   where a run touches a word on a side where it has punctuation
   (« mot.</b>Suite », « 11.25<i>: “En… ») that punctuation is written
-  outside it. A markdown parser run over the 396 bodies leaves three
+  outside it. A markdown parser run over the 392 bodies leaves three
   asterisks as text, the page's own footnote marks in `lc2`; the first
   conversion left 460.
 - **Headers.** The header is not in the body. `title_page` holds its lines
@@ -204,7 +215,8 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   of it is lost. From it: `html_url` (392
   works), `time_of_day` (96: « soir », « matin », « après-midi »,
   « dimanche matin »…), `original_title` (82: « Unveiling of God »),
-  `location` (90 changed, all Branham's: 69 « Jeffersonville, Indiana,
+  `location` (93 changed against the branch this one starts from, all
+  Branham's: 69 « Jeffersonville, Indiana,
   U.S.A. » are « Branham Tabernacle, Jeffersonville — Indiana, U.S.A. » as
   printed, the others gain the hall the page prints, « Life Tabernacle,
   Shreveport — Louisiane, U.S.A. », « Parkview Junior High School
@@ -250,10 +262,9 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   heads of the PDFs are gone. The misprints of the PDF that the first pass
   had corrected were not looked for one by one.
 - **The layouts.** A keeper now has its page's words and its variants their
-  PDF's. Two tracts fell under 83b's body test against their keeper
-  (`savez-vous_A4_traite` 0.83, `le_bapteme_une_question_importante_A4_traite`
-  0.87): 83b folds a variant its keeper's page offers among the layouts of
-  its text. 95 duplicates, as before.
+  PDF's. One tract is under 83b's body test against its keeper
+  (`savez-vous_A4_traite`, 0.834): 83b folds a variant its keeper's page
+  offers among the layouts of its text. 95 duplicates, as before.
 - **`scripts/mevar-section-headings.json`** (goal 18) holds 1,086
   decisions for 200 of the works that now have a page. They name lines of
   the old bodies and are not applied: they would write « Église » where
@@ -287,6 +298,10 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   reference on a title page should count as cited. (The page lost by goal
   16's fourth-review fix was `/auteurs/ewald-frank/6/`: 54 works fewer are
   his.)
+- **For Samuel: nothing reads `title_page`.** The words of the title
+  pages of 392 works (a letter's motto, « Titre original de l’ouvrage »,
+  the hall and the day as printed) are kept in the frontmatter and shown
+  nowhere on the site.
 - **Idempotent.** A second run of `12`, `12b`, `43`, `67`, `76b`, `49b`,
   `83b`, `65`, `47`, `50` changes nothing, and `12b` fetches nothing;
   `160` rewrites its timestamp.
