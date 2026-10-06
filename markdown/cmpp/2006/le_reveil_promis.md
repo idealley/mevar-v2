@@ -176,6 +176,7 @@ bible_refs:
   - "Luc 7:28-30"
   - "Actes 5:34-40"
   - "Apocalypse 14:14-20"
+local_pdf: "https://files.mevar.org/cmpp/2006/le_reveil_promis.pdf"
 ---
 ## PRÉSENTATION
 

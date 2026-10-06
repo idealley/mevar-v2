@@ -56,7 +56,7 @@ bible_refs:
   - "Malachie 4"
   - "Éphésiens 1:21"
   - "Psaumes 119:11"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie2no11.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie2no11.pdf"
 original: "branham/1965/65-1128M"
 ---
 SERIE 2 N° 11

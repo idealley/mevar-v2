@@ -58,7 +58,7 @@ bible_refs:
   - "Actes 26:19"
   - "2 Timothée 4:9"
   - "Hébreux 11"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie2no8.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie2no8.pdf"
 original: "branham/1963/63-0630E"
 ---
 SERIE 2 N° 8

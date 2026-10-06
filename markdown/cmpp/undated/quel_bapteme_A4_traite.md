@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "quel_bapteme_A4_traite"
 title: "De quel baptême avez-vous donc été baptisé?"
 location: "Krefeld"
-preacher: "William Branham"
+preacher: "Ewald Frank"
 summary: "Ce traité examine la question du baptême d'eau, en particulier le nom dans lequel il doit être administré. Il soutient que le baptême dans les titres de Père, Fils et Saint-Esprit est une erreur doctrinale issue du Concile de Nicée, et que le baptême biblique doit être fait au nom du Seigneur Jésus-Christ, comme le montre Actes 2.38. Il aborde également la révélation de Dieu en Jésus-Christ et l'unité de Dieu."
 tags:
   - "baptême"

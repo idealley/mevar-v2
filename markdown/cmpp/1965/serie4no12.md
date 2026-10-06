@@ -53,7 +53,7 @@ bible_refs:
   - "Luc 17:30"
   - "Malachie 4"
   - "Jean 14:12"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie4no12.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie4no12.pdf"
 original: "branham/1965/65-0218"
 ---
 SERIE 4 N° 12

@@ -143,6 +143,7 @@ bible_refs:
   - "1 Jean 4:10-11"
   - "2 Corinthiens 13:14"
 duplicate_of: "cmpp/undated/quel_amour"
+local_pdf: "https://files.mevar.org/cmpp/undated/quel_amour_A5.pdf"
 ---
 QUEL AMOUR ?
 

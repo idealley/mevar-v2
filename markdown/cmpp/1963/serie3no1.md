@@ -59,7 +59,7 @@ bible_refs:
   - "Nombres 16"
   - "Genèse 1:1"
   - "2 Timothée 4"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie3no1.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie3no1.pdf"
 original: "branham/1963/63-0623M"
 ---
 SERIE 3 N° 1

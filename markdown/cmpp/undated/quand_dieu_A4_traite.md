@@ -2,7 +2,7 @@
 source: "cmpp"
 sermon_id: "quand_dieu_A4_traite"
 title: "Quand Dieu devint un homme"
-preacher: "William Branham"
+preacher: "Ewald Frank"
 summary: "Ce texte démontre que le Seigneur Dieu de l'Ancien Testament est le Seigneur Jésus-Christ du Nouveau Testament, en s'appuyant sur de nombreux passages bibliques. Il explique que Jésus était à la fois Dieu et homme, que la filialité a commencé à Bethléhem, et que le Saint-Esprit n'est pas une troisième personne distincte mais Dieu lui-même. Il réfute la doctrine de la Trinité et met en garde contre l'esprit de l'Antichrist."
 tags:
   - "divinité de Christ"

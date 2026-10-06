@@ -68,7 +68,7 @@ bible_refs:
   - "Matthieu 5:6"
   - "Psaumes 16:10"
   - "Romains 12:1"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie5no10.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie5no10.pdf"
 original: "branham/1965/65-0911"
 ---
 SERIE 5, N° 10

@@ -56,7 +56,7 @@ bible_refs:
   - "Jean 5:7"
   - "Malachie 4"
   - "Jean 5:19"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie2no7.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1962/serie2no7.pdf"
 original: "branham/1962/62-0422"
 ---
 SERIE 2 N° 7

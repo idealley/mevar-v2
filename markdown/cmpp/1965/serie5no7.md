@@ -45,7 +45,7 @@ bible_refs:
   - "Apocalypse 3"
   - "Apocalypse 3:14"
   - "Colossiens 1:15"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie5no7.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie5no7.pdf"
 original: "branham/1965/65-0815"
 ---
 SERIE 5, N° 7

@@ -78,7 +78,7 @@ bible_refs:
   - "Jean 7:37,38"
   - "Zacharie 13"
   - "Psaumes 36:9"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie4no9.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1964/serie4no9.pdf"
 original: "branham/1964/64-0726E"
 ---
 SERIE 4 N° 9

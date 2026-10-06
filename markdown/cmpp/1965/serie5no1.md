@@ -67,7 +67,7 @@ bible_refs:
   - "Luc 17:30"
   - "Apocalypse 4:7"
   - "Marc 16"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie5no1.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie5no1.pdf"
 original: "branham/1965/65-0220"
 ---
 SERIE 5, N° 1

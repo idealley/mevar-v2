@@ -130,7 +130,7 @@ bible_refs:
   - "Éphésiens 4:5"
   - "Luc 17:30"
   - "Apocalypse 10:1-7"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie1no3.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie1no3.pdf"
 original: "branham/1965/65-0725M"
 ---
 SERIE 1 N° 3

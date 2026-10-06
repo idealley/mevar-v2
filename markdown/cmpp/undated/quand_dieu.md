@@ -2,7 +2,7 @@
 source: "cmpp"
 sermon_id: "quand_dieu"
 title: "Quand Dieu devint Homme"
-preacher: "William Branham"
+preacher: "Ewald Frank"
 summary: "Ce texte explore le mystère de l'incarnation de Dieu en Jésus-Christ, affirmant que Jésus est le Dieu tout-puissant de l'Ancien Testament venu en chair. Il réfute la doctrine de la Trinité en présentant une vision unitaire de Dieu, où le Père, le Fils et le Saint-Esprit ne sont pas trois personnes distinctes mais une seule. L'étude utilise de nombreuses citations bibliques pour prouver la divinité de Jésus et met en garde contre l'esprit de l'Antichrist qui nie cette vérité."
 tags:
   - "incarnation"

@@ -117,6 +117,7 @@ bible_refs:
   - "Daniel 10"
   - "Daniel 10:12-13"
   - "Matthieu 18:18"
+local_pdf: "https://files.mevar.org/cmpp/undated/trois_visions.pdf"
 ---
 ## INTRODUCTION
 

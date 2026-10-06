@@ -2,7 +2,7 @@
 source: "cmpp"
 sermon_id: "quel_bapteme"
 title: "De quel baptême avez-vous donc été baptisé?"
-preacher: "William Branham"
+preacher: "Ewald Frank"
 summary: "Ce traité examine la question du baptême d'eau, en comparant Matthieu 28.19 (baptême au nom du Père, du Fils et du Saint-Esprit) et Actes 2.38 (baptême au nom de Jésus-Christ). Il affirme que le vrai baptême biblique est l'immersion au nom du Seigneur Jésus-Christ, rejetant la doctrine trinitaire comme une erreur introduite au Concile de Nicée. Il encourage les lecteurs à recevoir ce baptême pour être prêts pour la venue du Seigneur."
 tags:
   - "baptême"

@@ -75,7 +75,7 @@ bible_refs:
   - "Apocalypse 1"
   - "Apocalypse 10:1"
   - "Luc 17:30"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie5no6.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie5no6.pdf"
 original: "branham/1965/65-0725E"
 ---
 SERIE 5 N° 6

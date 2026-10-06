@@ -34,6 +34,7 @@ bible_refs:
   - "Apocalypse 22:8,9"
   - "Éphésiens 3:21"
 duplicate_of: "cmpp/2008/annee_2008"
+local_pdf: "https://files.mevar.org/cmpp/2008/annee_2008_a5.pdf"
 ---
 > “Quoi que vous fassiez, faites-le de coeur, comme pour le Seigneur et non pour les hommes, sachant que du Seigneur vous recevrez la écompense de l’héritage: vous servez le Seigneur Christ”
 > (Colossiens 3.23,24).

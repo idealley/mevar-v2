@@ -61,6 +61,7 @@ bible_refs:
   - "Colossiens 1:24-29"
   - "Romains 3:4"
 duplicate_of: "cmpp/1976/lc9"
+local_pdf: "https://files.mevar.org/cmpp/1976/lc9_A5.pdf"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 (Héb. 13.8).

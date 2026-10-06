@@ -73,7 +73,7 @@ bible_refs:
   - "Apocalypse 21"
   - "Actes 15"
   - "Apocalypse 2:17"
-local_pdf: "https://files.mevar.org/cmpp/undated/rev08.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1960/rev08.pdf"
 original: "branham/1960/60-1210"
 ---
 WILLIAM MARRION BRANHAM

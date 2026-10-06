@@ -64,6 +64,7 @@ bible_refs:
   - "Nombres 16:11"
   - "Hébreux 4:1-2"
 duplicate_of: "cmpp/undated/votre_attention_A4"
+local_pdf: "https://files.mevar.org/cmpp/undated/votre_attention_A5.pdf"
 ---
 # VOTRE ATTENTION S.V.P.!
 

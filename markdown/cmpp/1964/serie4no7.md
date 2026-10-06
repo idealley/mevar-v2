@@ -83,7 +83,7 @@ bible_refs:
   - "Jean 5:24"
   - "Galates 1:8"
   - "Actes 19"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie4no7.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1964/serie4no7.pdf"
 original: "branham/1964/64-0719M"
 ---
 SERIE 4, N° 7

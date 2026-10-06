@@ -71,7 +71,7 @@ bible_refs:
   - "Jean 15:24"
   - "Jean 16:13"
   - "Apocalypse 10:1-7"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie5no8.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie5no8.pdf"
 original: "branham/1965/65-0822M"
 ---
 SERIE 5, N° 8

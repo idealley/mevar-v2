@@ -70,7 +70,7 @@ bible_refs:
   - "Malachie 4"
   - "Apocalypse 10"
   - "Luc 17"
-local_pdf: "https://files.mevar.org/cmpp/undated/chef_oeuvre.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1964/chef_oeuvre.pdf"
 original: "branham/1964/64-0705"
 ---
 LA PAROLE PARLEE

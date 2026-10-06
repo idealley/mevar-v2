@@ -72,6 +72,7 @@ bible_refs:
   - "Luc 22:47,48"
   - "Ésaïe 37:30-32"
 duplicate_of: "cmpp/1974/lc_janvier_1974"
+local_pdf: "https://files.mevar.org/cmpp/1974/lc_janvier_1974_A5.pdf"
 ---
 > "Jésus-Christ est le même hier, aujourd'hui, et éternellement"
 > (Héb. 13.8).

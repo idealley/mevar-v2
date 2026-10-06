@@ -60,7 +60,7 @@ bible_refs:
   - "Apocalypse 19:11"
   - "Hébreux 4"
   - "Esther 9"
-local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux4.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/7sceaux4.pdf"
 original: "branham/1963/63-0319"
 ---
 BROCHURE N° 4

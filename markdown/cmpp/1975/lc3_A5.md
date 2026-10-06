@@ -72,6 +72,7 @@ bible_refs:
   - "1 Thessaloniciens 5:25"
   - "Matthieu 7:6"
 duplicate_of: "cmpp/1975/lc3"
+local_pdf: "https://files.mevar.org/cmpp/1975/lc3_A5.pdf"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 (Héb. 13.8).

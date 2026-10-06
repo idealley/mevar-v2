@@ -48,7 +48,7 @@ bible_refs:
   - "Romains 8:1"
   - "Apocalypse 2"
   - "Hébreux 12"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie2no4.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie2no4.pdf"
 original: "branham/1963/63-0825M"
 ---
 SERIE 2 N° 4

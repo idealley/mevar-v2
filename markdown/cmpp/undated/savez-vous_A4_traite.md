@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "savez-vous_A4_traite"
 title: "Savez-vous que...?"
 location: "Lausanne"
-preacher: "William Branham"
+preacher: "Ewald Frank"
 summary: "Cette brochure interpelle le lecteur sur les signes des derniers temps, la corruption spirituelle, et le ministère prophétique de William Branham, envoyé par Dieu pour annoncer un message avant-coureur du retour de Christ. Elle mentionne des miracles, des guérisons, et l'apparition d'une nuée surnaturelle en 1963 comme confirmation divine."
 tags:
   - "derniers temps"

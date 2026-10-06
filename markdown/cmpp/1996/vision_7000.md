@@ -146,7 +146,7 @@ bible_refs:
   - "Psaumes 103"
   - "Matthieu 11:28"
   - "Jean 6:37"
-local_pdf: "https://files.mevar.org/cmpp/undated/vision_7000.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1996/vision_7000.pdf"
 ---
 # Vision 7000
 

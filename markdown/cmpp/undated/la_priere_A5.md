@@ -165,6 +165,7 @@ bible_refs:
   - "Matthieu 6:9-13"
   - "1 Pierre 4:7"
 duplicate_of: "cmpp/undated/la_priere"
+local_pdf: "https://files.mevar.org/cmpp/undated/la_priere_A5.pdf"
 ---
 LA PRIERE
 

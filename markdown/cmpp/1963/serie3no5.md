@@ -38,7 +38,7 @@ pdf_url: "http://cmpp.ch/serie3no5.pdf"
 llm_cleaned: true
 bible_refs:
   - "Jean 14:12"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie3no5.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie3no5.pdf"
 original: "branham/1963/63-0717"
 ---
 SERIE 3 N° 5

@@ -60,7 +60,7 @@ bible_refs:
   - "Matthieu 27:52"
   - "Matthieu 27:52,53"
   - "1 Thessaloniciens 4:16"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie1no10.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie1no10.pdf"
 original: "branham/1965/65-0418M"
 ---
 SERIE 1 N° 10

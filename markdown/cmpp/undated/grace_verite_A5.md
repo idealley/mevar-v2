@@ -74,6 +74,7 @@ bible_refs:
   - "Éphésiens 4:13"
   - "Matthieu 11:28-30"
 duplicate_of: "cmpp/undated/grace_verite_A4"
+local_pdf: "https://files.mevar.org/cmpp/undated/grace_verite_A5.pdf"
 ---
 > Car, de sa plénitude, nous tous nous avons reçu, et grâce sur grâce. Car la loi a été donnée par Moïse; la grâce et la vérité vinrent par Jésus-Christ (Jean 1.16-17).
 

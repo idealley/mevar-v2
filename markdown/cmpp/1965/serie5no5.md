@@ -52,7 +52,7 @@ bible_refs:
   - "Joël 2:25"
   - "Luc 17:30"
   - "Deutéronome 4"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie5no5.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie5no5.pdf"
 original: "branham/1965/65-0718M"
 ---
 SERIE 5, N° 5

@@ -68,7 +68,7 @@ bible_refs:
   - "Zacharie 1:14-17"
   - "Ésaïe 43:5-7"
   - "Psaumes 122:6-9"
-local_pdf: "https://files.mevar.org/cmpp/undated/lettre_ouverte.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1991/lettre_ouverte.pdf"
 ---
 LETTRE OUVERTE
 

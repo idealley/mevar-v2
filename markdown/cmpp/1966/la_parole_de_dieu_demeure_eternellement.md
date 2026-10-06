@@ -269,7 +269,7 @@ bible_refs:
   - "1 Jean 3:16"
   - "Jacques 2:20"
   - "1 Jean 4:20"
-local_pdf: "https://files.mevar.org/cmpp/undated/la_parole_de_dieu_demeure_eternellement.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1966/la_parole_de_dieu_demeure_eternellement.pdf"
 ---
 LA PAROLE DE DIEU DEMEURE ETERNELLEMENT
 

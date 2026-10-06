@@ -71,7 +71,7 @@ bible_refs:
   - "Apocalypse 2:18,20"
   - "Apocalypse 2:18-20"
   - "Apocalypse 19:17"
-local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux6.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/7sceaux6.pdf"
 original: "branham/1963/63-0321"
 ---
 BROCHURE N° 6

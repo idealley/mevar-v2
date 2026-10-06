@@ -61,7 +61,7 @@ bible_refs:
   - "Luc 24:49"
   - "Marc 16"
   - "Apocalypse 17"
-local_pdf: "https://files.mevar.org/cmpp/undated/rev07.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1960/rev07.pdf"
 original: "branham/1960/60-1209"
 ---
 WILLIAM MARRION BRANHAM

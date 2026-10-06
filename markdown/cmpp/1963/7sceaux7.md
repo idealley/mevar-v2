@@ -57,7 +57,7 @@ bible_refs:
   - "Apocalypse 19"
   - "Apocalypse 22:8"
   - "Actes 19"
-local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux7.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/7sceaux7.pdf"
 original: "branham/1963/63-0322"
 ---
 BROCHURE N° 7

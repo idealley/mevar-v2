@@ -163,6 +163,7 @@ bible_refs:
   - "Matthieu 6"
   - "Matthieu 6:9-13"
   - "1 Pierre 4:7"
+local_pdf: "https://files.mevar.org/cmpp/undated/la_priere.pdf"
 ---
 # LA PRIERE
 

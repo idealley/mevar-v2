@@ -112,6 +112,7 @@ bible_refs:
   - "Matthieu 10:7,8"
   - "Matthieu 17:19-21"
 duplicate_of: "cmpp/undated/le_jeune"
+local_pdf: "https://files.mevar.org/cmpp/undated/le_jeune_A5.pdf"
 ---
 # LE JEÛNE
 

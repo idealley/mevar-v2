@@ -100,6 +100,8 @@ bible_refs:
   - "Colossiens 2:9"
   - "Actes 8:12"
   - "Colossiens 3:17"
+duplicate_of: "cmpp/undated/quand_dieu"
+local_pdf: "https://files.mevar.org/cmpp/undated/quanddieu.pdf"
 ---
 # QUAND DIEU DEVINT HOMME
 

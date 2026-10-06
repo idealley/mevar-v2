@@ -79,6 +79,7 @@ bible_refs:
   - "1 Thessaloniciens 5:23"
   - "Romains 16:19"
   - "Romains 15:33"
+local_pdf: "https://files.mevar.org/cmpp/2019/annee_2019.pdf"
 ---
 > “C’est pourquoi les méchants ne résistent pas au jour du jugement, ni les pécheurs dans l’assemblée des justes; car l’Eternel connaît la voie des justes, et la voie des pécheurs mène à la ruine” — Psaumes 1.5,6.
 

@@ -97,6 +97,7 @@ bible_refs:
   - "Jacques 1:23"
   - "Jacques 5:7,8"
 duplicate_of: "cmpp/2020/annee_2020"
+local_pdf: "https://files.mevar.org/cmpp/2020/annee_2020_a5.pdf"
 ---
 > "N’avons-nous pas tous un seul père? N’est-ce pas un seul Dieu qui nous a créés? Pourquoi donc sommes-nous infidèles l’un envers l’autre, en profanant, l’alliance de nos pères?".
 > Malachie 2.10

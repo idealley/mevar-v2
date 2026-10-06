@@ -39,6 +39,7 @@ bible_refs:
   - "Jean 14"
   - "Genèse 3:13"
   - "Matthieu 4"
+local_pdf: "https://files.mevar.org/cmpp/undated/harry_potter.pdf"
 ---
 > «Lorsque tu seras entré dans le pays que l’Eternel, ton Dieu, te donne, tu n’apprendras point à imiter les abominations de ces nations-là. Qu’on ne trouve chez toi personne qui fasse passer son fils ou sa fille par le feu, personne qui exerce le métier de devin, d’astrologue, d’augure, de magicien, d’enchanteur, personne qui consulte ceux qui évoquent les esprits ou disent la bonne aventure, personne qui interroge les morts. Car quiconque fait ces choses est en abomination à l’Eternel; et c’est à cause de ces abominations que l’Eternel, ton Dieu, va chasser ces nations devant toi. Tu seras entièrement à l’Eternel, ton Dieu. Car ces nations que tu chasseras écoutent les astrologues et les devins; mais à toi, l’Eternel, ton Dieu, ne le permet pas.»
 > — Deutéronome 18.9-14

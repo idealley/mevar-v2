@@ -49,7 +49,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Jean 4"
   - "Jean 5"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie6no5.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1964/serie6no5.pdf"
 original: "branham/1964/64-0207"
 ---
 SERIE 6, N° 5

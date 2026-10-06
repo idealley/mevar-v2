@@ -51,7 +51,7 @@ bible_refs:
   - "Apocalypse 10"
   - "Matthieu 28:19"
   - "Matthieu 1"
-local_pdf: "https://files.mevar.org/cmpp/undated/rev15.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1961/rev15.pdf"
 original: "branham/1961/61-0618"
 ---
 WILLIAM MARRION BRANHAM

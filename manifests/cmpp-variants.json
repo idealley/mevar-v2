@@ -217,13 +217,13 @@
     "folded": [
       {
         "id": "exhortation_annee_2023_A5",
-        "in_keeper": 0.965,
-        "of_keeper": 0.981
+        "in_keeper": 0.968,
+        "of_keeper": 0.984
       },
       {
         "id": "exhortation_annee_2023_A4_gc",
-        "in_keeper": 0.977,
-        "of_keeper": 0.98
+        "in_keeper": 0.98,
+        "of_keeper": 0.983
       },
       {
         "id": "exhortation_annee_2023_A5_gc",
@@ -317,8 +317,8 @@
     "folded": [
       {
         "id": "honore_tes_parents_A5",
-        "in_keeper": 0.986,
-        "of_keeper": 0.988
+        "in_keeper": 0.995,
+        "of_keeper": 0.995
       }
     ],
     "not_folded": []
@@ -793,8 +793,8 @@
     "folded": [
       {
         "id": "lc5_A5",
-        "in_keeper": 0.963,
-        "of_keeper": 0.97
+        "in_keeper": 0.983,
+        "of_keeper": 0.99
       }
     ],
     "not_folded": []
@@ -942,6 +942,11 @@
         "id": "quand_dieu_A4_traite",
         "in_keeper": 0.985,
         "of_keeper": 0.988
+      },
+      {
+        "id": "quanddieu",
+        "in_keeper": 0.94,
+        "of_keeper": 0.941
       }
     ],
     "not_folded": []

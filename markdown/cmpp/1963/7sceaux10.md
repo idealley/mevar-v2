@@ -66,7 +66,7 @@ bible_refs:
   - "Apocalypse 10"
   - "Apocalypse 10:1-7"
   - "Matthieu 24"
-local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux10.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/7sceaux10.pdf"
 original: "branham/1963/63-0324E"
 ---
 BROCHURE N° 10

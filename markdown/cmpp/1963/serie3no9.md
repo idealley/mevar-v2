@@ -54,7 +54,7 @@ bible_refs:
   - "Marc 11:23"
   - "Actes 2"
   - "Hébreux 4"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie3no9.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie3no9.pdf"
 original: "branham/1963/63-0825E"
 ---
 SERIE 3 N° 9

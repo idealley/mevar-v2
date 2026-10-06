@@ -61,6 +61,7 @@ bible_refs:
   - "Galates 5:22,23"
   - "Philippiens 4:5-7"
 duplicate_of: "cmpp/2018/annee_2018"
+local_pdf: "https://files.mevar.org/cmpp/2018/annee_2018_a5.pdf"
 ---
 > Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos. Prenez mon joug sur vous et recevez mes instructions, car je suis doux et humble de coeur; et vous trouverez du repos pour vos âmes. Car mon joug est doux, et mon fardeau léger.
 > — Matthieu 11.28-30

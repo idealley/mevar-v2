@@ -62,7 +62,7 @@ bible_refs:
   - "Hébreux 9:11-14"
   - "Hébreux 13:8"
   - "Éphésiens 4:30"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie2no1.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie2no1.pdf"
 original: "branham/1963/63-0901M"
 ---
 SERIE 2 N° 1

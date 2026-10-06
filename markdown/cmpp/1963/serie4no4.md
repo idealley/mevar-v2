@@ -73,7 +73,7 @@ bible_refs:
   - "Jean 14:12"
   - "Marc 16"
   - "Matthieu 24"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie4no4.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie4no4.pdf"
 original: "branham/1963/63-1229M"
 ---
 SERIE 4, N° 4

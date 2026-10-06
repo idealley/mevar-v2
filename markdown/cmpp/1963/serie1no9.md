@@ -62,7 +62,7 @@ bible_refs:
   - "Malachie 4"
   - "2 Timothée 3"
   - "Apocalypse 22"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie1no9.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie1no9.pdf"
 original: "branham/1963/63-0707M"
 ---
 SERIE 1 N° 9

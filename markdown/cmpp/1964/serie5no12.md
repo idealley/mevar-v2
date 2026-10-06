@@ -45,7 +45,7 @@ bible_refs:
   - "Hébreux 11:1-3"
   - "Malachie 4"
   - "Jean 14:12"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie5no12.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1964/serie5no12.pdf"
 original: "branham/1964/64-0209"
 ---
 SERIE 5, N° 12

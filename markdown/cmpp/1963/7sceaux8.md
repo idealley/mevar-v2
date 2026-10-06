@@ -69,7 +69,7 @@ bible_refs:
   - "Marc 11"
   - "Jean 6:44"
   - "Jean 6:37"
-local_pdf: "https://files.mevar.org/cmpp/undated/7sceaux8.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/7sceaux8.pdf"
 original: "branham/1963/63-0323"
 ---
 BROCHURE N° 8

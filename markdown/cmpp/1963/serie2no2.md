@@ -48,7 +48,7 @@ bible_refs:
   - "Jacques 5:16"
   - "Matthieu 5:45"
   - "1 Corinthiens 11:23-32"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie2no2.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie2no2.pdf"
 original: "branham/1963/63-0901E"
 ---
 SERIE 2 N° 2

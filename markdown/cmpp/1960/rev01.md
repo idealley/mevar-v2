@@ -74,7 +74,7 @@ bible_refs:
   - "Jean 14:8,9"
   - "1 Jean 5:7,8"
   - "Luc 11:24-26"
-local_pdf: "https://files.mevar.org/cmpp/undated/rev01.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1960/rev01.pdf"
 original: "branham/1960/60-1204M"
 ---
 WILLIAM MARRION BRANHAM

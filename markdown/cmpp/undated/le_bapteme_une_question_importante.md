@@ -2,7 +2,7 @@
 source: "cmpp"
 sermon_id: "le_bapteme_une_question_importante"
 title: "Le Baptême? Une Question Importante!"
-preacher: "William Branham"
+preacher: "Ewald Frank"
 summary: "Cette étude biblique examine la question du baptême en eau, comparant les pratiques juive, catholique, protestante et celle des disciples de Jésus-Christ. Elle soutient que le baptême au nom de Jésus-Christ est le seul conforme aux Écritures, citant huit passages du Nouveau Testament et des sources historiques pour montrer que la formule trinitaire est un développement ultérieur de l'Église catholique romaine."
 tags:
   - "baptême"

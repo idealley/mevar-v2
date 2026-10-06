@@ -59,7 +59,7 @@ bible_refs:
   - "Apocalypse 19"
   - "2 Pierre 1:5"
   - "Galates 5:7"
-local_pdf: "https://files.mevar.org/cmpp/undated/pourquoi_contre_les_religions.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1962/pourquoi_contre_les_religions.pdf"
 original: "branham/1962/62-1111E"
 ---
 LA PAROLE PARLEE

@@ -72,6 +72,7 @@ bible_refs:
   - "Marc 12:41-44"
   - "1 Samuel 30:24,25"
 duplicate_of: "cmpp/1973/lc_janvier_1973"
+local_pdf: "https://files.mevar.org/cmpp/1973/lc_janvier_1973_A5.pdf"
 ---
 > "Jésus-Christ est le même hier, aujourd'hui, et éternellement" (Héb. 13.8).
 

@@ -92,7 +92,7 @@ bible_refs:
   - "Apocalypse 16:12-16"
   - "2 Pierre 3"
   - "Apocalypse 13:17"
-local_pdf: "https://files.mevar.org/cmpp/undated/christianisme.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1985/christianisme.pdf"
 ---
 LE CHRISTIANISME HIER ET AUJOURD'HUI
 

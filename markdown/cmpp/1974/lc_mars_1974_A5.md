@@ -59,6 +59,7 @@ bible_refs:
   - "Apocalypse 17:5"
   - "Daniel 2:34,35"
 duplicate_of: "cmpp/1974/lc_mars_1974"
+local_pdf: "https://files.mevar.org/cmpp/1974/lc_mars_1974_A5.pdf"
 ---
 “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 (Héb. 13.8).

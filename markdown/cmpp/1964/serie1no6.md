@@ -130,7 +130,7 @@ bible_refs:
   - "Matthieu 27:42"
   - "Apocalypse 10"
   - "Apocalypse 19:11-16"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie1no6.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1964/serie1no6.pdf"
 original: "branham/1964/64-0614M"
 ---
 SERIE 1 N° 6

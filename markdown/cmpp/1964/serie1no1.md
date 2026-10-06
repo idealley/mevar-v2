@@ -61,7 +61,7 @@ bible_refs:
   - "1 Pierre 3"
   - "2 Timothée 3"
   - "Apocalypse 6:9"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie1no1.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1964/serie1no1.pdf"
 original: "branham/1964/64-0726M"
 ---
 SERIE 1 N° 1

@@ -3,7 +3,7 @@ source: "cmpp"
 sermon_id: "savez-vous"
 title: "Le savez-vous… ?"
 location: "Lausanne"
-preacher: "William Branham"
+preacher: "Ewald Frank"
 summary: "Brochure présentant le message de William Branham comme dernier avertissement de Dieu pour cette génération, avec des références bibliques et des témoignages de miracles, invitant le lecteur à écouter et à demander de la littérature gratuite."
 tags:
   - "dernier avertissement"

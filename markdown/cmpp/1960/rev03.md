@@ -57,7 +57,7 @@ bible_refs:
   - "Apocalypse 12"
   - "Hébreux 6"
   - "Jean 6"
-local_pdf: "https://files.mevar.org/cmpp/undated/rev03.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1960/rev03.pdf"
 original: "branham/1960/60-1205"
 ---
 WILLIAM MARRION BRANHAM

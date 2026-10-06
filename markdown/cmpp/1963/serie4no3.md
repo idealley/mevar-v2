@@ -41,7 +41,7 @@ llm_cleaned: true
 bible_refs:
   - "Ésaïe 34"
   - "Matthieu 6:6"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie4no3.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie4no3.pdf"
 original: "branham/1963/63-1226"
 ---
 SÉRIE 4, N° 3

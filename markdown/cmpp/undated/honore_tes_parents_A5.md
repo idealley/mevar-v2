@@ -96,6 +96,7 @@ bible_refs:
   - "Romains 6:23"
   - "Romains 6:16"
 duplicate_of: "cmpp/undated/honore_tes_parents"
+local_pdf: "https://files.mevar.org/cmpp/undated/honore_tes_parents_A5.pdf"
 ---
 «Honore ton père et ta mère…»
 
@@ -165,7 +166,7 @@ Il est aussi écrit dans 1 Timothée 5.8:
 
 Jésus, Lui-même notre Maître, sur la croix de Golgotha a eu ce désir d’honorer sa mère, sachant qu’Il s’en irait avant elle de cette terre: 
 
-> «Or, près de la croix de Jésus, se tenaient sa mère, et la sœur de sa mère, Marie, femme de Clopas, et Marie de Magdala. Jésus donc voyant sa mère, et le disciple qu’il aimait se tenant là, dit à sa mère: Femme, voilà ton fils. Puis il dit au disciple: Voilà ta mère. Et dès cette heure-là, le disciple la prit chez lui» (Jean 19.25-27).
+> «Or, près de la croix de Jésus, se tenaient sa mère, et la soeur de sa mère, Marie, femme de Clopas, et Marie de Magdala. Jésus donc voyant sa mère, et le disciple qu’il aimait se tenant là, dit à sa mère: Femme, voilà ton fils. Puis il dit au disciple: Voilà ta mère. Et dès cette heure-là, le disciple la prit chez lui» (Jean 19.25-27).
 
 Dans la vieillesse des parents il nous est aussi ordonné de continuer à accomplir le commandement: 
 
@@ -191,13 +192,13 @@ Au verset 20, il est dit:
 
 N’oublions pas qu’Esther est la préfiguration de l’Epouse de Christ.
 
-Nous devons bien comprendre que les choses que nous accomplissons sur cette terre, par notre pensée, nos paroles et nos actes, montrent ce qui se trouve dans notre cœur. Toutes ces choses sont mises en parallèle pour ce qui concerne les choses spirituelles. Dans 1 Corinthiens 15.49 il est écrit: 
+Nous devons bien comprendre que les choses que nous accomplissons sur cette terre, par notre pensée, nos paroles et nos actes, montrent ce qui se trouve dans notre coeur. Toutes ces choses sont mises en parallèle pour ce qui concerne les choses spirituelles. Dans 1 Corinthiens 15.49 il est écrit: 
 
 > «Et de même que nous avons porté l’image du terrestre, nous porterons aussi l’image du céleste». 
 
 Lorsque nous n’arrivons déjà pas à mettre en pratique la Parole de Dieu dans notre corps terrestre, il ne faut pas croire ou s’imaginer que nous pourrons le faire dans un corps céleste. C’est réellement sur cette terre, dans notre corps terrestre, que le choix de notre destination finale pour notre âme doit être fait, comme il nous est dit: 
 
-> «Aujourd’hui, si vous entendez sa voix, n’endurcissez pas vos cœurs» (Hébreux 3 et 4).
+> «Aujourd’hui, si vous entendez sa voix, n’endurcissez pas vos coeurs» (Hébreux 3 et 4).
 
 Par la naissance terrestre, nous sommes des enfants d’homme, soumis à nos parents; par la nouvelle naissance spirituelle, en acceptant Christ comme son Sauveur, nous devenons des enfants de Dieu, soumis à notre Père céleste: 
 
@@ -237,7 +238,7 @@ L’enfant doit accepter que les parents aient la responsabilité d’enseigner 
 
 > «Et vous avez oublié l’exhortation qui vous est adressée comme à des fils: Mon fils, ne méprise pas le châtiment du Seigneur, Et ne perds pas courage lorsqu’il te reprend; Car le Seigneur châtie celui qu’il aime, et il frappe de la verge tous ceux qu’il reconnaît pour ses fils. Supportez le châtiment: c’est comme des fils que Dieu vous traite; car quel est le fils qu’un père ne châtie pas? Mais si vous êtes exempts du châtiment auquel tous ont part, vous êtes donc des enfants illégitimes, et non des fils. D’ailleurs, puisque nos pères selon la chair nous ont châtiés, et que nous les avons respectés, ne devons-nous pas à bien plus forte raison nous soumettre au Père des esprits, pour avoir la vie? Nos pères nous châtiaient pour peu de jours, comme ils le trouvaient bon; mais Dieu nous châtie pour notre bien, afin que nous participions à sa sainteté. Il est vrai que tout châtiment semble d’abord un sujet de tristesse, et non de joie; mais il produit plus tard pour ceux qui ont été ainsi exercés un fruit paisible de justice» (Hébreux 12.5-11).
 
-> «La folie est attachée au cœur de l’enfant; la verge de la correction l’éloignera de lui» (Proverbes 22.15).
+> «La folie est attachée au coeur de l’enfant; la verge de la correction l’éloignera de lui» (Proverbes 22.15).
 
 > «N’épargne pas la correction à l’enfant; si tu le frappes de la verge, il ne mourra point. En le frappant de la verge, tu délivres son âme du séjour des morts» (Proverbes 23.13-14).
 
@@ -269,7 +270,7 @@ Dans les Proverbes, nous trouvons plusieurs passages écrits par Salomon qui ava
 
 > «Ecoute, mon fils, l’instruction de ton père, et ne rejette pas l’enseignement de ta mère; Car c’est une couronne de grâce pour ta tête, et une parure pour ton cou» (Proverbes 1.8,9).
 
-> «Mon fils, garde les préceptes de ton père, et ne rejette pas l’enseignement de ta mère. Lie-les constamment sur ton cœur, attache-les à ton cou» (Proverbes 6.20-21).
+> «Mon fils, garde les préceptes de ton père, et ne rejette pas l’enseignement de ta mère. Lie-les constamment sur ton coeur, attache-les à ton cou» (Proverbes 6.20-21).
 
 > «Que ton père et ta mère se réjouissent, que celle qui t’a enfanté soit dans l’allégresse!» (Proverbes 23.25).
 

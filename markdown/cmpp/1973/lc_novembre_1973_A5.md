@@ -79,6 +79,7 @@ bible_refs:
   - "Matthieu 5:45"
   - "Hébreux 6"
 duplicate_of: "cmpp/1973/lc_novembre_1973"
+local_pdf: "https://files.mevar.org/cmpp/1973/lc_novembre_1973_A5.pdf"
 ---
 > "Jésus-Christ est le même hier, aujourd'hui, et éternellement" (Héb. 13.8).
 

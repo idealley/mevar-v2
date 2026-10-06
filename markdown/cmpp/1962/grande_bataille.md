@@ -53,7 +53,7 @@ bible_refs:
   - "Genèse 3"
   - "Éphésiens 6:10,13"
   - "Jacques 4:7"
-local_pdf: "https://files.mevar.org/cmpp/undated/grande_bataille.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1962/grande_bataille.pdf"
 original: "branham/1962/62-0311"
 ---
 LA PAROLE PARLEE

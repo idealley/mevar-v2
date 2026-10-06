@@ -44,6 +44,7 @@ bible_refs:
   - "Apocalypse 22:13"
   - "Éphésiens 5:27"
 duplicate_of: "cmpp/undated/onction_temps_fin_A4"
+local_pdf: "https://files.mevar.org/cmpp/undated/onction_temps_fin_A5.pdf"
 ---
 # L'ONCTION DU TEMPS DE LA FIN
 

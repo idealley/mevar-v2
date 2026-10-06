@@ -58,7 +58,7 @@ bible_refs:
   - "Joël 2:38"
   - "Romains 5:1"
   - "Apocalypse 10"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie5no11.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1965/serie5no11.pdf"
 original: "branham/1965/65-1125"
 ---
 SERIE 5, N° 11

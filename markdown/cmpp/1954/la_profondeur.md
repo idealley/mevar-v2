@@ -36,7 +36,7 @@ themes:
   - "délivrance des démons"
 pdf_url: "http://cmpp.ch/la_profondeur.pdf"
 llm_cleaned: true
-local_pdf: "https://files.mevar.org/cmpp/undated/la_profondeur.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1954/la_profondeur.pdf"
 original: "branham/1954/54-0624"
 date: "1954-07"
 ---

@@ -69,6 +69,7 @@ bible_refs:
   - "Apocalypse 22:17"
   - "Apocalypse 22:20,21"
 duplicate_of: "cmpp/undated/coronavirus_A4"
+local_pdf: "https://files.mevar.org/cmpp/undated/coronavirus_A5.pdf"
 ---
 # EPIDEMIE DU CORONAVIRUS
 

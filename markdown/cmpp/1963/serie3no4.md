@@ -47,7 +47,7 @@ bible_refs:
   - "Exode 14"
   - "Jean 14:12"
   - "Marc 11:23"
-local_pdf: "https://files.mevar.org/cmpp/undated/serie3no4.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1963/serie3no4.pdf"
 original: "branham/1963/63-0714M"
 ---
 SERIE 3 N° 4

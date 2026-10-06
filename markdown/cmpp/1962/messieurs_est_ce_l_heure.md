@@ -73,7 +73,7 @@ bible_refs:
   - "Apocalypse 17"
   - "Apocalypse 6:1"
   - "Apocalypse 10:3,4"
-local_pdf: "https://files.mevar.org/cmpp/undated/messieurs_est_ce_l_heure.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1962/messieurs_est_ce_l_heure.pdf"
 original: "branham/1962/62-1230E"
 ---
 LA PAROLE PARLEE

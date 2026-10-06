@@ -96,6 +96,7 @@ bible_refs:
   - "Éphésiens 1:7"
   - "Romains 6:23"
   - "Romains 6:16"
+local_pdf: "https://files.mevar.org/cmpp/undated/honore_tes_parents.pdf"
 ---
 “HONORE TON PERE ET TA MERE…”
 

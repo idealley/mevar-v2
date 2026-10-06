@@ -48,6 +48,7 @@ bible_refs:
   - "Marc 7:20-23"
   - "Tite 2:9-14"
   - "Philippiens 1:9-11"
+local_pdf: "https://files.mevar.org/cmpp/2012/annee_2012.pdf"
 ---
 > “Et quand ces choses commenceront à arriver, regardez en haut, et levez vos têtes, parce que votre rédemption approche” (Luc 21.28).
 
