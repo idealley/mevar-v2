@@ -423,12 +423,11 @@ They supersede what the paragraphs above leave « for Samuel ».
   explain what branham said »): `eden`, `savez-vous`, `quand_dieu`,
   `quel_bapteme`, `le_bapteme_une_question_importante` and the four
   `_A4_traite` twins have `preacher: "Ewald Frank"` (`76b`; `quanddieu`
-  had it already), and each is `"none"` in
-  `scripts/cmpp-branham-decided.json`. The works attributed to William
-  Branham are **98**: 97 linked, **1 unresolved**, `les_aigles_de_dieu`
-  (« 4 mars 1960, après-midi », « God's Eagles »; the only sermon the
-  archive has that day is 60-0304, « Thirsting for Life »; Samuel does not
-  know). On the site the tracts are Bible studies again, not sermons.
+  had it already). `49b` only looks at William Branham's works, so they
+  need no answer in `scripts/cmpp-branham-decided.json`. The works
+  attributed to William Branham are **98**, all linked since
+  `les_aigles_de_dieu` was settled (below). On the site the tracts are
+  Bible studies again, not sermons.
 - **The overlapping texts** (« yes probably duplicate, for those text
   overlapping we can keep them as they are important, it is Alexis who
   understand he had to publish them »): `quanddieu` is folded into
@@ -470,11 +469,71 @@ They supersede what the paragraphs above leave « for Samuel ».
 - **The older bodies** (« we can compare the older CMPP texts in an other
   flow »): the 239 are not compared here. `75` is the tool for it.
 
-**Left**: `les_aigles_de_dieu`; the 50 works dated by their year alone
-that carry a first of January; the four with a first of the month their
-text does not name (`la_parole_de_dieu_demeure_eternellement`, `lc57`,
-`grace_verite_A5`, `tragedie`); the 239 older bodies against their PDFs;
-the attributions of the 274 new works, the model's.
+### The remaining items (2026-10-06, after the third review)
+
+Samuel: « tackle the still open items ».
+
+- **`les_aigles_de_dieu` is 60-0403**, « As the Eagle Stirreth », Tulsa,
+  Oklahoma, the afternoon of 3 April 1960. Settled from the two texts, not
+  by Samuel, who did not know. The booklet prints « 4 mars 1960,
+  après-midi », « (God’s Eagles) », Tulsa: the American 4/3/60 read the
+  European way. The opening prayer of 60-0403 (« Almighty God, the Creator
+  of heavens and earth, and the Author of everlasting Life… for this great
+  Tulsa meeting ») is the translation's sentence for sentence, and so is
+  its end (« If you die in your sins, it won’t be God’s fault… a sinner is
+  an unbeliever. Have faith in God », « Don’t move around. See? Each one
+  of you is a spirit »); 59 of its paragraphs name an eagle and 4 name
+  Tulsa, where the archive's sermon of 4 March (60-0304, « Thirsting for
+  Life », Phoenix) names neither. `date: "1960-04-03"` through `76b`; the
+  subtitle stays, it is what the booklet prints. **98 linked, 0
+  unresolved.**
+- **A date is what the PDF prints, no more** (a rule in `76b`, on the text
+  of each PDF). 58 dates are gone, their `year` kept: the 50 works known
+  by their year alone, the four whose month was only in the model's
+  subtitle (`annee_2010_a5`, `annee_2011_a5`, `annee_2019_a5`,
+  `exhortation_annee_2024_A4`), `tragedie` (« Première édition: printemps
+  2001 ») and `grace_verite_A5` (« Printemps 2005 »). Two are a month:
+  `lc57`, whose running head prints « LETTRE CIRCULAIRE 57 — MAI 2005 »,
+  and `la_parole_de_dieu_demeure_eternellement` (« SEPTEMBRE – OCTOBRE
+  1966 », by hand). A duplicate has its keeper's date: `paille_et_froment_A5`
+  and `votre_attention_A5` print the month of the letter they were sent
+  with, their keeper prints none, and they have none. Today: **100 works
+  have a day, 310 a month, 106 no date**. `rev12` keeps its
+  first of January, which its title page prints.
+- **Attributions against the PDFs**, all 516, by a read-only script,
+  `76c-check-cmpp-attributions.mjs`. Before any correction: **308
+  confirmed, 208 not printed, 0 contradicted** (the script's first two
+  versions named 8, then 4, candidates; read one by one they were William
+  Branham spoken of in a sentence, and the editor's signature under an
+  introduction that names the author: `lc_mars_1972`, `lc4`, `lc60`,
+  `lc14_A5`, `lc25_A5`, `quel_bapteme`, `savez-vous`, `video_04_2011`,
+  `trois_visions`). No `preacher` was changed. What was not printed:
+  - **the place, 137 times**, always « Krefeld »: the prompt of the pass
+    said « Krefeld par défaut pour Ewald Frank ». Removed by a rule in
+    `76b` (a place the PDF does not print goes); 369 works keep a place
+    their PDF prints. `eden`'s « Krefeld » went with them.
+  - **the date, 59 times**: see above.
+  - **the author, 180 times**. 156 are issues of a series whose other
+    issues name him (the circular letters, the monthly summaries, the
+    yearly exhortations): kept. 24 are not, and keep `preacher: "Ewald
+    Frank"` unverified, **listed for Samuel**: `q_r_fevrier_2008_5`,
+    `le_jeune`, `le_jeune_A5`, `coronavirus_A4`, `coronavirus_A5`,
+    `harry_potter`, `honore_tes_parents`, `honore_tes_parents_A5`,
+    `la_priere`, `ministeres_pasteur_A4`, `ministeres_pasteur_A4_gc`,
+    `ministeres_pasteur_A5`, `quanddieu`, `quel_amour`, `quel_amour_A5`,
+    and the nine tracts Samuel gave to Ewald Frank.
+  After the corrections: 333 confirmed, 183 not printed (the 180 authors
+  and three dates set by hand that no title-page line prints), 0
+  contradicted.
+- **The review's smaller points.** The `"none"` answers nothing read are
+  gone from `cmpp-branham-decided.json`; the PDF lookup of 21, 22 and 75
+  is `scripts/cmpp-pdfs.mjs`; the « staged as a raw body » branch is
+  deleted; 21's page-number guard counts a page that agrees (all 77
+  booklets still pass, byte for byte); two more « œ » are « oe » again
+  (`exhortation_annee_2023_A5`, `lc5_A5`).
+
+**Left**: the 24 authors no page names; the 239 older bodies against their
+PDFs (goal 16c).
 
 ### The LLM pass: the estimate, written before spending (2026-10-06)
 

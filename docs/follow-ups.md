@@ -117,10 +117,8 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 
 **Left**:
 
-- **`les_aigles_de_dieu`**, the one translation without a sermon in `manifests/cmpp-branham-unresolved.json` (« God's Eagles », 4 March 1960, afternoon; the archive has « Thirsting for Life » that day). An answer goes into `scripts/cmpp-branham-decided.json`.
-- **Dates by the year.** 50 works dated « Année 2020 » have `2020-01-01`, and four have a first of the month their text does not name (`lc57`, `grace_verite_A5`, `tragedie`, `la_parole_de_dieu_demeure_eternellement`): a year alone as `date`, or none, is a decision for the site (its lists sort on `date`).
+- **24 authors no page names.** `76c-check-cmpp-attributions.mjs` lists them: 15 texts the pass gave to Ewald Frank by default (`harry_potter`, `la_priere`, `le_jeune`, `quel_amour`, `honore_tes_parents`, `coronavirus_A4`, `ministeres_pasteur_A4`, `q_r_fevrier_2008_5`, `quanddieu` and their layouts) and the nine tracts Samuel gave him. An answer goes into `76b`'s table.
 - **The 239 older bodies were never read against their PDFs** (Samuel: another flow). The first pass, and the old `65`, spelled out Bible abbreviations, accented capitals and changed a word here and there, as the review found in the 277 new ones. `75-restore-source-words.mjs` is the tool: run it on them and read what it reports; a booklet among them needs `21`'s extraction first (it makes it).
-- **The attributions of the 274 new works** are the model's, like those of the first 242, and unverified.
 - **Old PDF objects.** The 173 works `49b` moved have their PDF twice in the bucket: under `cmpp/undated/` (no longer named by any work) and under their year. Deleting the first is a Cloudflare step, Samuel's.
 
 Two smaller ones: `100-ingest-surrealdb.mjs` still calls every CMPP work a `bible_study` where the site calls Branham's a `sermon`; four older works have « sœ ur » for « sœur » from their extraction (`serie6no4`, `serie6no5`, `mariage_frank`, `tragedie`).
