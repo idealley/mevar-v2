@@ -126,28 +126,41 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   addresses the site answers 404 for are remembered) and pairs each work
   with its page: by its name first, then by the page that offers its PDF,
   then by the page that offers a duplicate's PDF. Of the 420 works the
-  site builds, **396 have a page, 24 have none**:
+  site builds, **392 take their text from their page, 28 keep their PDF's**:
 
   | kind | with a page | without |
   | ---- | ----------- | ------- |
   | Branham's translations | 98 | 0 |
   | circular letters | 71 | 0 |
-  | monthly summaries | 186 | 1 (`video_01_2008`) |
+  | monthly summaries | 182 | 5 (`video_01_2008`, `video_12_2006`, `video_06_2010`, `video_06_2011`, `video_10_2014`) |
   | yearly exhortations | 0 | 19 |
   | other | 41 | 4 (`q_r_fevrier_2008_5`, `le_reveil_promis`, `trois_visions`, `aide_au_pliage_du_traite`) |
 
-  The yearly exhortations exist as PDF and epub only. Two pages are not
-  their work's text and are refused by hand in `12b`: `video_01_2008.htm`
-  is headed « Janvier 2007 » and is that month's summary;
-  `questions_et_reponses_bibliques.htm` holds every question and answer
-  (42,000 words) where `q_r_fevrier_2008_5` is one of them.
+  The yearly exhortations exist as PDF and epub only. **Six pages are not
+  their work's text and are refused by hand in `12b`**, each with its
+  evidence: `video_01_2008.htm` is headed « Janvier 2007 » and is that
+  month's summary; `video_12_2006.htm` is headed « Décembre 2006 » and
+  carries December 2007's text (3 % of its 4-word sequences are in its own
+  PDF, 98 % in `video_12_2007.pdf`); `video_06_2011.htm`,
+  `video_06_2010.htm` and `video_10_2014.htm` end on a paragraph of another
+  month their PDF does not have (373 words of `video_04_2011.pdf`, 271 of
+  `video_06_2009.pdf`, 235 of `video_11_2014.pdf`), so the page is no
+  faithful witness of that month; `questions_et_reponses_bibliques.htm`
+  holds every question and answer (42,000 words) where
+  `q_r_fevrier_2008_5` is one of them. **For Samuel**: these five summaries
+  are on the site with the wrong text or a foreign paragraph; the CMPP may
+  want to know. The same fault was looked for on every page (a paragraph
+  of 40 words or more that its own PDF lacks): beside those four
+  summaries, `questions_reponses_ef` has two paragraphs (47 and 76 words)
+  that are in `commencement.pdf` and not in its own, and `la_priere` one
+  of 161 words no PDF has. Those two keep their page.
   `le_reveil_promis.htm` and `trois_visions.htm` are in the site's old
   layout (no `<article>`) and are left to their PDF. The name comes before
   the offered PDF because the site's own links slip: `lc41.htm` offers
-  `lc40.pdf`. Nine works have a page of another name
+  `lc40.pdf`. Eight works have a page of another name
   (`bapteme_une_question_importante.htm`,
   `quand_dieu_devint_un_homme.htm`, `info_lettres_circulaires.htm` for
-  `paille_et_froment`, and six `_A4` keepers whose page has no suffix).
+  `paille_et_froment`, and five `_A4` keepers whose page has no suffix).
   The 95 duplicates and the draft have no page and keep their body.
 - **Pages no work claims.** 100 text pages: four books spread over several
   pages, not three, **none of which the corpus has** (they have no PDF, « En
@@ -160,12 +173,24 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   is therefore not done: importing the four books would add works the
   manifest does not have. **For Samuel.**
 - **Conversion (items 3 and 4).** `43-import-cmpp-html.mjs`, with
-  `turndown`: the `<article>` becomes the body; the download menu, the
+  `turndown`: what `<main>` holds beyond a circular letter's number and
+  month, then the `<article>`, become the body (a first version took the
+  article alone and lost the opening of 14 texts, 1,300 words: `eden`'s
+  introduction, the addressees of `lettre_ouverte`); the download menu, the
   arrows back to a table of contents and the images go; a verse set apart
-  (`p.vec`) is a quotation; a table is a line a row. **For all 396 works
-  the body's words are the page's words, in the page's order** (checked
-  word by word; one page, `serie4no3`, carries a stray `</font>` that is
-  dropped). Bold and italics are the page's, written so that markdown can
+  (`p.vec`) is a quotation; a table is a markdown table (`7sceaux4`: `| **V** | **I** | **C** | A |
+  R | …`, a rule row, then `| 5 | \+ 1 | \+ 100 | …`); a heading of two
+  lines is one heading; the page's own numbering (« 1) Actes 2.38 »,
+  « 39. ») is text, and a markdown parser finds no ordered list in the
+  392 bodies. **Every word of the 392 pages, header, main and article
+  (3,478,263, navigation out), is in the body, in the page's order, or in
+  a frontmatter field, but five**: the stray `</font>` of `serie4no3`, and
+  « Tel que je suis », the caption of an audio player in
+  `le_chemin_qui_mene_a_dieu`, taken out with the label that opens its
+  transcription. Of the 3,956 line breaks of the pages 3,680 are line
+  breaks in the bodies; 51 are doubled and make a paragraph, 107 close a
+  block, 41 are inside a heading and are a space; the rest are in table
+  cells. Bold and italics are the page's, written so that markdown can
   say them: runs that touch are one, an empty run (173 of each on the
   pages) is none, a run over several lines is marked line by line, and
   where a run touches a word on a side where it has punctuation
@@ -173,9 +198,12 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   outside it. A markdown parser run over the 396 bodies leaves three
   asterisks as text, the page's own footnote marks in `lc2`; the first
   conversion left 460.
-- **Headers.** The header is not in the body. From it: `html_url` (396
-  works), `time_of_day` (93: « soir », « matin », « après-midi »,
-  « dimanche matin »…), `original_title` (80: « Unveiling of God »),
+- **Headers.** The header is not in the body. `title_page` holds its lines
+  as printed, all of them (a circular letter's motto and its « LETTRE
+  CIRCULAIRE N° 56 », a book's « Titre original de l’ouvrage »), so no word
+  of it is lost. From it: `html_url` (392
+  works), `time_of_day` (96: « soir », « matin », « après-midi »,
+  « dimanche matin »…), `original_title` (82: « Unveiling of God »),
   `location` (90 changed, all Branham's: 69 « Jeffersonville, Indiana,
   U.S.A. » are « Branham Tabernacle, Jeffersonville — Indiana, U.S.A. » as
   printed, the others gain the hall the page prints, « Life Tabernacle,
@@ -193,6 +221,10 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   mars 1960 » (goal 16). `76b` loses its entry for `la_profondeur` (the
   header prints « Juillet 1954 ») and no longer applies its PDF rules for
   date and place to a work that has a page.
+- 17 of Branham's 98 lack a header field because their header does not
+  print it: the fifteen of « La Révélation de Jésus-Christ » (`rev01` to
+  `rev15`) print no English title, `7sceaux1` prints neither day, place
+  nor English title, `la_profondeur` a month and no time of day.
 - **The 98 links** come out the same: `49b` reads `date`, `time_of_day`
   and `original_title` from the frontmatter of a work that has a page, and
   the head of its body for what the header does not print (`7sceaux1`
@@ -202,13 +234,13 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   where it is 63-0324M, linked by its title as before.
 - **Against the bodies they replace (item 6).** Share of the old body's
   words found in the new: median 0.994; of the new in the old: 0.999.
-  **Six works are under 0.9**: four summaries whose page is longer than
-  the PDF's text (`video_06_2010`, `video_06_2011`, `video_12_2013`,
-  `video_10_2014`: the old body is within the new at 0.99 to 1.00);
-  `savez-vous`, whose PDF has a coupon and a list of brochures the page
-  lacks; and **`video_12_2006`, where page
-  and PDF are two different texts** (0.55 and 0.61), both headed December
-  2006: the page wins, **for Samuel to look at**. Read word by word across
+  **Six works were under 0.9** in the first import. Five were
+  the site's fault and keep their PDF body (above): `video_12_2006`
+  (another year's text) and three summaries that end on a foreign
+  paragraph; a first reading took these for « the page is longer », which
+  was wrong. `video_12_2013` and `savez-vous` remain: the first has a
+  closing passage its PDF lacks and no other PDF has, the second a PDF
+  with a coupon and a list of brochures the page lacks. Read word by word across
   32 works (11 of Branham's, 11 letters, 10 summaries): what differs is
   what goal 16 fought for. The pages print the abbreviations the old
   bodies had spelled out (« Corinthiens → Cor » 46 times in the sample,
@@ -246,6 +278,15 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   does not build, 4 are built (`annee_2020`, `exhortation_annee_2025_A4`,
   `exhortation_annee_2026_A4`, `q_r_fevrier_2008_5`; 37 lines). That
   branch should be dropped, or shrunk to those four.
+- **Pages the site no longer builds.** 4,567 against 4,568 before this
+  goal: `/bible/1-chroniques/16/`, `/bible/2-samuel/2/` and the tenth page
+  of `/bible/hebreux/13/8/` went (no body cites the first two any more;
+  the motto of the circular letters, « (Hébreux 13.8) », is in
+  `title_page` and no longer in a body, so 65 does not record it), and
+  `/bible/jean/15/tout/` came with a second page. **For Samuel**: whether a
+  reference on a title page should count as cited. (The page lost by goal
+  16's fourth-review fix was `/auteurs/ewald-frank/6/`: 54 works fewer are
+  his.)
 - **Idempotent.** A second run of `12`, `12b`, `43`, `67`, `76b`, `49b`,
   `83b`, `65`, `47`, `50` changes nothing, and `12b` fetches nothing;
   `160` rewrites its timestamp.
