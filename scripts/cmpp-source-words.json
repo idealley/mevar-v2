@@ -1,0 +1,121 @@
+{
+  "exhortation_annee_2023_A4_gc": {
+    "keep": [
+      "œuvre→uvre"
+    ]
+  },
+  "lc18_A5": {
+    "keep": [
+      "querelles→querel"
+    ]
+  },
+  "lc20_A5": {
+    "keep": [
+      "ment→nent"
+    ],
+    "by_hand": [
+      [
+        "nous parvien-\nment des",
+        "nous parviennent des"
+      ],
+      [
+        "inimaginaires",
+        "inimaginables"
+      ]
+    ]
+  },
+  "lc25_A5": {
+    "keep": [
+      "goissse→goisse"
+    ],
+    "by_hand": [
+      [
+        "plein d’an-\ngoissse,",
+        "plein d’angoisse,"
+      ]
+    ]
+  },
+  "lc26_A5": {
+    "keep": [
+      "Il→II",
+      "muation→mutation"
+    ],
+    "by_hand": [
+      [
+        "et la trans-\nmuation des",
+        "et la transmutation des"
+      ]
+    ]
+  },
+  "lc27_A5": {
+    "keep": [
+      "Il→II",
+      "ent→nent"
+    ],
+    "by_hand": [
+      [
+        "ces gens vien-\nent vers",
+        "ces gens viennent vers"
+      ]
+    ]
+  },
+  "lc56": {
+    "by_hand": [
+      [
+        "## Éditorial",
+        "## EDITORIAL"
+      ]
+    ]
+  },
+  "lc_septembre_1972_A5": {
+    "by_hand": [
+      [
+        " “… premièrement des apôtres, secondement des prophètes",
+        " “… premièrement des apôtres, deuxièmement des prophètes"
+      ]
+    ]
+  },
+  "ministeres_pasteur_A5": {
+    "by_hand": [
+      [
+        "personnes critiques ou",
+        "personnes critiqueuses ou"
+      ]
+    ]
+  },
+  "quel_amour_A5": {
+    "by_hand": [
+      [
+        "l'Oecuménisme",
+        "l'Oeucuménisme"
+      ]
+    ]
+  },
+  "video_01_2008": {
+    "by_hand": [
+      [
+        "révélera",
+        "révèlera"
+      ]
+    ]
+  },
+  "video_02_2005": {
+    "by_hand": [
+      [
+        "**FÉVRIER 2005**",
+        "**FEVRIER 2005**"
+      ]
+    ]
+  },
+  "video_10_2011": {
+    "keep": [
+      "qu→que"
+    ],
+    "by_hand": [
+      [
+        "en tant qu’homme de Dieu",
+        "en tant que homme de Dieu"
+      ]
+    ]
+  }
+}
