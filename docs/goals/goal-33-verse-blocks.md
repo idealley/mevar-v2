@@ -1,0 +1,53 @@
+# GOAL 33: a song in a sermon is shown as a song
+
+## Problem
+
+branham.org sets a song, a poem or lines quoted inside a sermon as an
+indented block, and the corpus keeps that indentation
+(`markdown/branham/1961/61-0730E.md`, line 851: « I'm bound for that
+beautiful City »). Markdown reads four spaces or more as a code block, and
+the site drew it as one: a dark box, a fixed-width face, lines running out
+of the column. 733 built pages hold 3,375 such blocks (2026-10-06), nearly
+all of them Branham's.
+
+## Samuel's request (2026-10-06)
+
+A screenshot of that song: « I found one thing that is not nice the song
+could have a nicer layout ».
+
+## Decisions (mine, for Samuel to overturn)
+
+- **At display only.** The corpus keeps its indentation (hard rule 1: the
+  words, their lines and their order do not move).
+- **No highlighter.** No work holds code, so Astro's highlighter is turned
+  off; an indented block is a plain `<pre>`.
+- **Styled as verse**: the body's face, size and colour, indented like a
+  quotation without its rule, each line break of the source kept, long
+  lines wrapping. Runs of spaces collapse, so a block's inner indentation
+  (an aside one space to the left of the song) is not shown.
+
+## Work items
+
+1. `markdown.syntaxHighlight: false` in `web/astro.config.mjs`.
+2. `.prose-reader pre` in `web/src/styles/global.css`.
+
+## Acceptance evidence
+
+- The song of 61-0730E at 1440px and at 390px, light and dark: no box, no
+  line out of the column.
+- No `astro-code` and no inline colour left in `dist/`.
+- `npm run build` on the full corpus, `check:dist`, `check:limits`,
+  `npm test`.
+
+## Stop points
+
+None.
+
+## Left
+
+- Some indented blocks are not songs but what an extraction left: a page
+  number, « www.cmpp.ch », a rule of underscores (Le Scribe, the Mevar
+  PDFs, the local volumes). They were code boxes and are now quiet lines;
+  removing them is a corpus pass.
+- `rehypeFrenchTypography` skips `<pre>`: a French song keeps an ordinary
+  space before « ! » and « ? ».

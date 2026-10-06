@@ -41,7 +41,9 @@ const duplicateRedirects = {
 export default defineConfig({
   site: "https://mevar.org",
   trailingSlash: "always",
-  markdown: { rehypePlugins: [rehypeBookmarks, rehypeBodyImages, rehypeBibleLinks, rehypeFrenchTypography] },
+  // An indented block in a work is a song, a poem or a quotation, never
+  // code: no highlighter, styled as verse in global.css.
+  markdown: { syntaxHighlight: false, rehypePlugins: [rehypeBookmarks, rehypeBodyImages, rehypeBibleLinks, rehypeFrenchTypography] },
   integrations: [
     duplicateRedirects,
     sitemap(),

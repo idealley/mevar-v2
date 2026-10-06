@@ -283,6 +283,16 @@
   .prose-reader blockquote > * + * {
     margin-top: 14px;
   }
+  /* An indented block of the source: a song, a poem, lines quoted as they
+     were set. Its line breaks are kept, its lines wrap. */
+  .prose-reader pre {
+    padding-left: 30px;
+    font-family: inherit;
+    white-space: pre-line;
+  }
+  .prose-reader pre code {
+    font: inherit;
+  }
   .prose-reader strong {
     font-weight: 600;
   }
@@ -348,6 +358,9 @@
       font-size: 1em;
       line-height: inherit;
       color: var(--read-ink);
+    }
+    .prose-reader pre {
+      padding-left: 18px;
     }
     .prose-reader blockquote {
       padding: 2px 0 2px 18px;
