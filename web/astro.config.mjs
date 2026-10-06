@@ -54,6 +54,8 @@ export default defineConfig({
           name: "Mevar",
           short_name: "Mevar",
           description: "Étude de la Parole pour le temps de la fin",
+          // the app is the site at this address, whatever page it starts on
+          id: "/",
           start_url: "/",
           display: "standalone",
           background_color: "#fbfaf8",
@@ -62,7 +64,14 @@ export default defineConfig({
           icons: [
             { src: "/brand/icon-192.png", sizes: "192x192", type: "image/png" },
             { src: "/brand/icon-512.png", sizes: "512x512", type: "image/png" },
-            { src: "/brand/icon-512.png", sizes: "512x512", type: "image/png", purpose: "any maskable" },
+            // Android crops this one to its own shape: the eagle keeps to the
+            // middle 60%, inside the circle every shape leaves
+            { src: "/brand/icon-maskable-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
+          ],
+          // the home page, shown by the browser when it offers the installation
+          screenshots: [
+            { src: "/brand/screenshot-narrow.jpg", sizes: "780x1688", type: "image/jpeg", label: "La page d’accueil" },
+            { src: "/brand/screenshot-wide.jpg", sizes: "1280x800", type: "image/jpeg", form_factor: "wide", label: "La page d’accueil" },
           ],
         },
         workbox: {
