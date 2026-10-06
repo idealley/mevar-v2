@@ -47,8 +47,10 @@ can write the goal for html import/extraction and start ».
   change, and the page still offers the PDF.
 - **Where the two editions differ, nothing is reconciled.** The HTML wins
   and the difference is reported (share of words in common, per work).
-- **No model.** The conversion is a script. No LLM pass on an HTML body,
-  no summary or tags rewritten: the existing `summary`, `tags`, `persons`,
+- **No model writes or changes a word of a body.** The conversion is a
+  script. No LLM pass on an HTML body's words, no summary or tags
+  rewritten (a model set the case of the headings afterwards, on Samuel's
+  decision of 2026-10-06: see « Measured »): the existing `summary`, `tags`, `persons`,
   `places`, `themes` stay as they are.
 - **The header goes to the frontmatter, not into the body.** The body
   starts with the text. `date`, the time of day, `location` and the English
@@ -108,8 +110,9 @@ can write the goal for html import/extraction and start ».
 3. **Headers.** How many works took their date, time of day, place and
    English title from the header; every one that changed, before and
    after. The 98 Branham links are unchanged, or each change is explained.
-4. **No model.** `git log` shows no LLM pass; `summary` and `tags` are
-   byte-identical for every work.
+4. **No model for the words.** No LLM pass wrote or changed a word of a
+   body; `summary` and `tags` are byte-identical for every work. (The one
+   model pass of this branch, `87 --pages`, sets the case of headings.)
 5. **Idempotent.** A second run of the fetch, the conversion and the chain
    changes nothing.
 6. **The site builds**, `check:dist`, `check:limits`, `npm test`; three
@@ -119,7 +122,9 @@ can write the goal for html import/extraction and start ».
 ## Measured
 
 On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
-2026-10-06. No model was run.
+2026-10-06. No model wrote or changed a word of a body; a model set the
+case of the headings afterwards, on Samuel's decision of 2026-10-06
+(« Samuel's answers of 2026-10-06, applied », below).
 
 - **Coverage (items 1 and 2).** `12b-pair-cmpp-pages.mjs` reads the 641
   pages of cmpp.ch once into `.html-cache/cmpp/` (gitignored; 31
@@ -189,11 +194,38 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   with the label that opens its transcription; and, in six works, the
   narrow-screen copy of a block the page also sets as a table. The page's
   own `<style>` hides that copy at full width (`#tab600{ display:none; }`,
-  `.responsive-table .stacked-table`, `#img600`), and 43 leaves out what
-  it hides; the first import printed both copies: `lc39` (853 words
-  twice), `lc47` (436), `lc54` (41), `7sceaux4` and `antichrist` (29
-  each), `lc22` (9). No other page hides at full width anything that was
-  in a body. A « < » the page prints is escaped (`lc2`: « dites:
+  `.responsive-table .stacked-table`, `#img600`), and 43 leaves it out
+  **only where the block shown in its place prints its words** (four
+  fifths of them at least, in the block beside it); the first import
+  printed both copies: `lc39` (853 words twice), `lc47` (436), `lc54`
+  (41), `7sceaux4` (29), `lc22` (9). **`antichrist` is the other case, and
+  five works, not six, lose a copy**: its page has no table; at full width
+  it shows the count of 666 as an image (`vicaris.jpg`), which the body
+  does not have, and the hidden list (« V 5+ », « I 1+ » … « = 666 ») is
+  the only text of it. The body keeps that list, a term and its value a
+  line, once. (A first version of this fix dropped it: the review of
+  2026-10-06 found the body with no « = 666 » at all.) The measures: a
+  dropped copy shares 0.875 to 1 of its words with the block beside it,
+  and no other neighbour of a hidden block more than 0.6; `antichrist`'s
+  list shares 0.07 with the paragraph before it and nothing with the
+  image. Every cached page was read for this, the books' too: 14 hidden
+  blocks in a text, 9 of them on a work's page (the nine above); no page
+  hides anything by an inline style or a `hidden` attribute. Three more
+  lists of the `antichrist` kind are on pages of the four books
+  (`apocalypse/chapitre13.htm`, `christianisme/chapitre28.htm` twice):
+  for that goal. **`lc47`'s two copies are not word for word the same**:
+  the hidden one repeats « Promesse », « Accomplissement », « Evénement »
+  on each of its 30 rows where the table has one heading row
+  (« Promesses », « Evénements »), prints « Act. 3.22-23 », « Zach.
+  11.12-13 », « Mat. 27.9-10 » where the table prints « 3.22,23 »,
+  « 11.12,13 », « 27.9,10 », and « Fais connaître Ton Nom » where the
+  table has « fais connaître ton nom ». The table is what a reader at a
+  desk sees, and it stays. No reference is lost by it: 65 already reads
+  a comma between two verses, and `lc47` has « Actes 3:22,23 »,
+  « Zacharie 11:12,13 », « Matthieu 27:9,10 » where it had the same
+  verses written « 3:22-23 », « 11:12-13 », « 27:9-10 » (1,106 references
+  of that form in 731 works of the corpus; `/bible/actes/3/` lists `lc47`).
+  65 is not changed. A « < » the page prints is escaped (`lc2`: « dites:
   <Amen>…» », which markdown read as a tag), and a parser finds no raw
   HTML in the 392 bodies; `serie4no3`'s page prints a stray « </font> »
   as text, and so does its body. Underlining has no markdown: the 119
@@ -269,9 +301,10 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   decisions for 200 of the works that now have a page. They name lines of
   the old bodies and are not applied: they would write « Église » where
   the page prints « EGLISE ». The 609 headings of the new bodies are as
-  the pages print them, mostly in capitals. The file is not changed; 87
-  can decide the new headings, and it asks a model. **For Samuel**:
-  sentence case for these headings again, or the page's capitals.
+  the pages print them, mostly in capitals. The import itself did not change the file. (Since
+  Samuel's answer the headings are in sentence case, and `87 --pages`
+  dropped the 876 decisions that named a line no body has any more: see
+  below.)
 - **What depends on a body** was run again: `49b`, `83b`, `65` (the
   `bible_refs` of 125 works move), `47`, `50`, `160`. `73` and `75` skip
   a work that has a page. A header's motto (« Jésus-Christ est le même
@@ -340,11 +373,26 @@ in capitals; no other line.
   `##` and `###`) and keeps a body's last line end. One decision is
   corrected by hand against the work's own subtitle: `7sceaux1`, « Dieu
   caché et révélé dans la simplicité » (the model had read two verbs,
-  « cache et révèle »). Left as the page prints: 8 lines the model left
-  alone, and `serie1no2`'s « ##### DIEU EST SON PROPRE INTERPRETE », a
-  fifth level 87 does not read. Doubtful, for Samuel: « sa Parole » where
-  the capitals do not say whether the page means « Sa Parole » (three
-  headings); a page's slips kept in lower case (« L a vraie Église »,
+  « cache et révèle »). The decisions file: 876 of goal 18's 1,151 CMPP decisions named a line
+  no body has any more and are gone, 404 are new, 275 stay; 679 in all,
+  614 of them for works with a page, none refused and none empty (the 8
+  lines the model left alone are goal 18's, in works without a page). Not
+  recased, 27 headings: 26 the pages already print in lower case, and
+  `serie1no2`'s « ##### DIEU EST SON PROPRE INTERPRETE », a fifth level 87
+  does not read. Doubtful, for Samuel, and not changed: a lower-case possessive for God
+  or Christ where the capitals do not say whether the page means « Sa
+  Parole », in eleven headings (« sa Parole » three times, « son plan »
+  three, « son Église » twice, « son œuvre », « ses serviteurs », « les
+  siens »); `lc_janvier_1973` « Frappe d’aveuglement », likely
+  « Frappé(s) » (carried from goal 18); `lc25` « L’évangile du royaume »
+  where its own next paragraph has « l’Evangile du Royaume »; `lc15`
+  « “…Vous sanctifie lui-même tout entiers…” », a capital in the middle
+  of a quotation; « Le Créateur » beside « Dieu le créateur », « L’union
+  européenne » beside « Union européenne »; three headings still partly
+  in capitals (`lc55` « VOTRE ATTENTION S.V.P.! du Missionnaire Alexis
+  Barilier », `information_globale` « AINSI DIT LE SEIGNEUR: “Je bâtirai
+  Mon Assemblée!” », `lc58` « APPEL AU REVEIL Le compte à rebours a-t-il
+  commencé? »); a page's slips kept in lower case (« L a vraie Église »,
   « La la foi biblique », « Lles soixante-dix semaines »); headings that
   were several lines of a title, read as one phrase (« Baptême repas du
   Seigneur lavage des pieds », « Au commencement était la Parole pas
@@ -354,14 +402,20 @@ in capitals; no other line.
   `title_page` before the body. 71 works gain a reference: Hébreux 13:8
   for 70 (the circular letters' motto) and Actes 19:3 for one; none loses
   one. `/bible/hebreux/13/8/` has its tenth page again and lists 108 CMPP
-  works.
+  works. **For Samuel**: 70 circular letters are listed under Hébreux
+  13:8 for a motto their own built page never shows, since nothing
+  renders `title_page`.
 - **The four books (C)**: a goal of their own; what is known is in
   `docs/follow-ups.md`.
 - **Authors (D).** The 50 yearly exhortations are drafts until their
   author is verified (51 CMPP drafts with the death notice; 31 of the 50
   were already duplicates): **401 CMPP works are built, 420 before**, 392
   of them from their page. `duplicateRedirects` writes no rule from a
-  draft nor to one: 385 targets in `_redirects`, 416 before. In the built
+  draft nor to one: `_redirects` has 380 rules, 310 of them the
+  duplicates', and 344 distinct targets (411 rules and 341 for the
+  duplicates before: the 31 exhortations that were duplicates); the 385
+  and 416 that `check:dist` prints count a target a rule, with the one
+  `:slug` rule counted once for each Ghost author. In the built
   site no page, no redirect, no sitemap entry and no Pagefind fragment
   names one of the 50. `ministeres_pasteur_A4`, `_A4_gc`, `_A5` and
   `reflexions` have the author « CMPP » (`/auteurs/cmpp/`, two pages
