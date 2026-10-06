@@ -305,3 +305,21 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
 - **Idempotent.** A second run of `12`, `12b`, `43`, `67`, `76b`, `49b`,
   `83b`, `65`, `47`, `50` changes nothing, and `12b` fetches nothing;
   `160` rewrites its timestamp.
+
+### The headings in sentence case: the estimate, written before the first call (2026-10-06)
+
+Samuel: « We can launch the pass to fix the texts capitals ». `87 --pages`,
+goal 18's script and model (`gpt-6-sol`), on the headings the pages print
+in capitals; no other line.
+
+- **Works and headings:** the 392 bodies have 641 headings, 615 of them in
+  capitals. 211 are lines goal 18 had already decided, word for word, and
+  cost nothing. **404 headings in 71 works** go to the model.
+- **Tokens:** one call a work. The instructions are about 900 tokens a
+  call (64,000 in all); a heading goes with 160 characters before and
+  after it, about 110 tokens (44,000). **About 110,000 tokens in.** Out: a
+  line a heading, about 5,000 tokens; if the model reasons before it
+  answers, up to 4,000 more a call, 284,000 at the very most.
+- **Price** (2 USD a million in, 10 out, as 87 counts): 0.22 USD in, 0.05
+  out: **about 0.30 USD**; 3.10 USD at the very most.
+- **Limit:** 15 USD (Samuel). Under it.
