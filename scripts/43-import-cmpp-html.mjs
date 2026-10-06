@@ -84,9 +84,10 @@ const emphasis = (mark) => (content, node) => {
   // a run of signs alone (« 27.45<i>-</i>54 ») has nothing markdown can mark
   if (!WORD.test(content)) return content;
   const before = neighbour(node, "previousSibling").slice(-1), after = neighbour(node, "nextSibling").slice(0, 1);
-  const lead = WORD.test(before) ? content.match(/^[^\p{L}\p{N}*]+/u)?.[0] ?? "" : "";
+  // (a space inside the run on that side already parts it from the word: turndown writes it outside)
+  const lead = WORD.test(before) && !/^\s/.test(node.textContent) ? content.match(/^[^\p{L}\p{N}*]+/u)?.[0] ?? "" : "";
   const rest = content.slice(lead.length);
-  const trail = WORD.test(after) ? rest.match(/[^\p{L}\p{N}*]+$/u)?.[0] ?? "" : "";
+  const trail = WORD.test(after) && !/\s$/.test(node.textContent) ? rest.match(/[^\p{L}\p{N}*]+$/u)?.[0] ?? "" : "";
   const run = rest.slice(0, rest.length - trail.length);
   // a run over several lines of the page is marked line by line: a mark cannot open before a line break and close after it
   return lead + run.split(/(\s*\n\s*)/).map((part, n) => (n % 2 || !WORD.test(part) ? part : `${mark}${part}${mark}`)).join("") + trail;
