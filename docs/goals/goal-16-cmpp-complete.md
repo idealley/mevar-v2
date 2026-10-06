@@ -1,6 +1,6 @@
 # GOAL 16: CMPP complete, and each Branham translation linked to its sermon
 
-**Status:** proposed (written 2026-09-25 with Samuel, not dispatched)
+**Status:** items 6 to 9 done and item 5 in part, on 2026-10-05, at Samuel's request (« why is this one "undated" in the path… could we verify all those to make this clean? »); items 1 to 4 wait, see « Measured »
 **Repo:** `mevar-v2` (`scripts/12-discover-cmpp.mjs`, `scripts/20-download-pdfs.mjs`,
 `scripts/72-llm-fanout-multi.mjs`, `scripts/73-apply-llm.mjs`, a new
 `scripts/49b-link-cmpp-branham.mjs`, `manifests/cmpp.json`,
@@ -198,8 +198,64 @@ Branham, 13 variant groups, 3 uncleaned, 0 links).
 
 ## Measured
 
-(Filled on the branch.)
+On the branch `goal-16-cmpp`, 2026-10-05. Items 1 to 4 are not done: they
+need a crawl of cmpp.ch, a paid LLM pass and Samuel's gates.
 
-## Follow-up
+- **Item 5, in part.** The PDFs were not read: the title page is the head
+  of each text, and `49b` reads the day, the time of day and the English
+  title there, for the link only. No frontmatter was corrected, no English
+  title was written into `subtitle`, and there is no table of the 107. Two
+  dates a model set are known to be wrong and stay: `la_profondeur`
+  (`1954-07-01`, where the booklet says « Juillet 1954 ») and `islam`
+  (`2001-01-01`).
+- **Item 6, the links.** 107 translations: 97 linked (60 by the English
+  title, 20 as the only sermon of their day, 16 by the time of day, 1
+  decided), 1 decided to have no sermon, 9 unresolved. No sermon has two
+  translations. All 97 pairs were read, French title against English title.
+- **Samuel's answers (2026-10-05)**, in `scripts/cmpp-branham-decided.json`:
+  `la_profondeur` is « The Deep Calleth to the Deep » (54-0624, Washington,
+  D.C.; the booklet says « juillet 1954 »); `eden` is not a sermon of
+  Branham's (« I guess you are right »; its `preacher` is not changed
+  here); `les_aigles_de_dieu`, he does not know.
+- **Four booklets print another time of day than the archive gives their
+  sermon.** The English title decides, and Samuel may want to confirm:
+  `serie1no2` (« matin ») is 65-0718E, `serie1no9` (« soir ») is 63-0707M,
+  `serie5no2` (« après-midi ») is 65-0221E, `serie5no3` (two dates, « soir »
+  and « après-midi ») is 65-0418E. Two more print another day than their
+  frontmatter and are settled the same way: `serie4no6` (its cover carries
+  the previous issue's date, as `76` notes) and `serie5no3`.
+- **Item 7, the folders.** 173 works moved out of `cmpp/undated/`: the
+  linked ones to their sermon's year, and 76 others, each to the year of
+  its frontmatter when a short line of its title page prints that year
+  (« Krefeld, mai 1985 », « Copyright © 1978 »). 30 stay. This is wider
+  than the item as written (« unlinked works stay where they are »): Samuel
+  asked why a dated text had « undated » in its address, and should
+  confirm the 76.
+- **One booklet may cover two sermons.** `parole_parlee_semence_originelle`
+  prints « 18 mars 1962, matin et après-midi » and is linked to 62-0318,
+  « The Spoken Word Is The Original Seed 1 », the only sermon the archive
+  has for that day. For Samuel to confirm.
+- **`local_pdf` did not move.** A moved work keeps the address of its PDF
+  on files.mevar.org (`…/cmpp/undated/<id>.pdf`), which still answers. `96`
+  names a PDF by its work's path: its next run would upload those PDFs
+  again under the new path and leave the old objects. That run is Samuel's.
+- **Items 8 and 9.** A CMPP work by William Branham is a `sermon`. A
+  translation's page says « Traduction de la prédication » and names the
+  Le-Scribe summary of its sermon (Samuel's request); the sermon's page
+  says « Traduction en français ». `100-ingest-surrealdb.mjs` still calls
+  every CMPP work a `bible_study`: a line in `docs/follow-ups.md`.
+- **Idempotent.** A second run of `49b`, `65`, `47` and `50` changes
+  nothing. `160` rewrites its timestamp, as it does on `main`.
 
-(Filled at the landing check.)
+### Still unresolved: 9
+
+Answer in `scripts/cmpp-branham-decided.json`, `"<id>": "<branham id>"` or
+`"none"`, then rerun `49b`, `65`, `47`, `50`.
+
+| id | Title | Title page | Why |
+| -- | ----- | ---------- | --- |
+| `les_aigles_de_dieu` | Les Aigles de Dieu | 4 mars 1960, après-midi, « God's Eagles » | the only sermon the archive has that day is 60-0304, « Thirsting for Life »; Samuel does not know |
+| `le_bapteme_une_question_importante` (and `_A4_traite`) | Le Baptême ? Une question importante ! | none | a tract, no date |
+| `quand_dieu` (and `_A4_traite`) | Quand Dieu devint homme | none | a tract, no date |
+| `quel_bapteme` (and `_A4_traite`) | De quel baptême avez-vous donc été baptisé ? | none | a tract, no date |
+| `savez-vous` (and `_A4_traite`) | Le savez-vous… ? | none | a tract, no date |

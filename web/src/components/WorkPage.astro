@@ -58,7 +58,11 @@ const [previous, next] = [series[at - 1], series[at + 1]];
 
 // A Le-Scribe summary and the Branham sermon it summarizes.
 const original = fm.original ? await workAt(fm.original as string) : undefined;
-const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefined;
+// On a sermon: its Le-Scribe summary and, for some, the CMPP's full
+// translation (goal 16). On a translation, the summary of its sermon too.
+const summaryRef = (fm.summary_fr ?? (fm.source === "cmpp" ? original?.data.summary_fr : undefined)) as string | undefined;
+const summaryFr = summaryRef ? await workAt(summaryRef) : undefined;
+const translationFr = fm.translation_fr ? await workAt(fm.translation_fr as string) : undefined;
 // Two works one PDF printed together (86 split them).
 const publishedWith = fm.published_with ? await workAt(fm.published_with as string) : undefined;
 
@@ -186,14 +190,17 @@ const groups = [
       </aside>
 
       <div class="w-[648px] max-w-full min-w-0 max-lg:w-auto">
-        {(fm.summary || original || publishedWith || summaryFr || audio || remoteAudio || video || series.length > 1) && (
+        {(fm.summary || original || publishedWith || summaryFr || translationFr || audio || remoteAudio || video || series.length > 1) && (
           <div class="mb-[30px] flex flex-col gap-4 text-sm leading-[22px] text-ink-2" data-pagefind-ignore>
             {fm.summary && <p class="font-read text-lg leading-7 text-ink italic">{fm.summary}</p>}
             {original && (
-              <p>Résumé de la prédication <a href={workUrl(original)} class="text-ink underline decoration-accent underline-offset-4">« {original.data.title} »</a> (texte original en anglais).</p>
+              <p>{fm.source === "cmpp" ? "Traduction" : "Résumé"} de la prédication <a href={workUrl(original)} class="text-ink underline decoration-accent underline-offset-4">« {original.data.title} »</a> (texte original en anglais).</p>
             )}
             {publishedWith && (
               <p>Publié avec <a href={workUrl(publishedWith)} class="text-ink underline decoration-accent underline-offset-4">« {publishedWith.data.title} »{publishedWith.data.title === fm.title && publishedWith.data.subtitle ? ` (${publishedWith.data.subtitle})` : ""}</a>, dans le même document.</p>
+            )}
+            {translationFr && (
+              <p>Traduction en français&nbsp;: <a href={workUrl(translationFr)} class="text-ink underline decoration-accent underline-offset-4">« {translationFr.data.title} »</a>.</p>
             )}
             {summaryFr && (
               <p>Résumé en français&nbsp;: <a href={workUrl(summaryFr)} class="text-ink underline decoration-accent underline-offset-4">« {summaryFr.data.title} »</a>.</p>

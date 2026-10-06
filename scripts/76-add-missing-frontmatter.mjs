@@ -40,17 +40,17 @@ const WORKS = {
     title: "Combattre pour la foi", subtitle: "Contending for the Faith",
     date: null, year: 1956, location: "Georgetown (Indiana)", preacher: "William Branham",
   },
-  "cmpp/undated/lc56": {
+  "cmpp/2005/lc56": {
     title: "Lettre Circulaire 56", subtitle: "Janvier 2005",
     date: null, year: 2005, location: "Krefeld", preacher: "Ewald Frank",
   },
-  "cmpp/undated/serie1no8": {
+  "cmpp/1965/serie1no8": {
     title: "Les douleurs de l’enfantement", subtitle: "24 janvier 1965, après-midi",
     date: "1965-01-24", year: 1965, location: "Ramada Inn, Phoenix, Arizona, U.S.A.", preacher: "William Branham",
   },
   // The cover says « 29 décembre 1963 », the previous issue's; the title page
   // « 14 juin 1964, soir »: 64-0614E, The Oddball.
-  "cmpp/undated/serie4no6": {
+  "cmpp/1964/serie4no6": {
     title: "L’original", subtitle: "14 juin 1964, soir",
     date: "1964-06-14", year: 1964, location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.", preacher: "William Branham",
   },

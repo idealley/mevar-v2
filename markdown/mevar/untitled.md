@@ -12,7 +12,7 @@ url: "https://mevar.org/untitled/"
 tags:
   - "Prédications"
   - "2015"
-  - "Chantier"
+  - "La foi"
   - "Sinfra"
 authors:
   - "Parfait M'bra"
