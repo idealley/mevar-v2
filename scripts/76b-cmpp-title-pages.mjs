@@ -8,6 +8,9 @@
 //
 // And two rules for the whole source, on the text of each PDF (cmpp-pdfs.mjs;
 // 21 and 22 first, for the booklets and the PDFs with lost signs):
+//   (Not for a work that has its page of cmpp.ch, goal 31: 43 sets its date
+//   and place from the page's header, and what the header does not print
+//   stays as it is.)
 //   - a date is what the PDF prints, no more. The pass was asked for a date
 //     and wrote « Janvier 2013 » as "2013-01-01", « Année 2020 » as
 //     "2020-01-01". A day no title page or signature prints becomes its month
@@ -47,8 +50,6 @@ import { extraction, printedDate, printsPlace } from "./cmpp-pdfs.mjs";
 const root = path.resolve(import.meta.dirname, "..");
 
 const CORRECTIONS = {
-  // The title page: « Juillet 1954 », « Washington D.C. — U.S.A. ». No day.
-  la_profondeur: { date: "1954-07" },
   // « Auteur: Missionnaire Ewald Frank, Krefeld (Allemagne) Copyright © 2001 »,
   // and the text speaks of « le 8 octobre 2001 »: not 1 January, and no day printed.
   islam: { date: null },
@@ -148,6 +149,8 @@ for (const entry of manifest) {
   const before = fs.readFileSync(file, "utf8");
   const pdf = extraction(entry.sermon_id);
   let text = before;
+  // A work whose text is its page of cmpp.ch (goal 31) has that page's header for its date and place (43): the page is the better witness.
+  if (entry.html_url) continue;
   if (entry.date && !CORRECTIONS[entry.sermon_id]?.date && !field(frontmatter(before), "duplicate_of")) {
     const printed = printedDate(entry.sermon_id, entry.date, pdf);
     if (printed !== entry.date) {
