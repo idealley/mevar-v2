@@ -14,11 +14,20 @@
 //     ("2013-01") when the file name or the PDF names the month, and goes
 //     otherwise: the work keeps its `year`. A date set by hand in the table
 //     is left alone, and a duplicate (83b) has the date of the work it
-//     duplicates: three A5 layouts print the month of the circular letter
-//     they were sent with, their A4 does not.
-//   - a place the PDF does not print goes: the pass was told « Krefeld par
-//     défaut pour Ewald Frank », and wrote it on texts that print another
-//     address or none.
+//     duplicates: two A5 layouts print the month of the circular letter
+//     they were sent with, their keeper does not.
+//   - a place the PDF does not print as the text's own goes (a line of a
+//     title page or of a signature, as for a date; a place inside a sentence
+//     is one the text speaks of): the pass was told « Krefeld par défaut pour
+//     Ewald Frank », and wrote it on texts that print another address or
+//     none.
+//   - a yearly exhortation (annee_YYYY, exhortation_annee_YYYY) names no
+//     preacher. The pass gave all fifty to Ewald Frank. None is signed, each
+//     ends on the CMPP's address, and where one names him it speaks of him:
+//     « Le départ de cette terre du serviteur fidèle et prudent, notre frère
+//     Ewald Frank » (2025), « que ce soit avec frère William Branham, frère
+//     Ewald Frank et frère Alexis Barilier » (2020). They are the CMPP's own,
+//     unsigned; no name is put in his place.
 //
 // And one for the 187 monthly « Sommaire des rencontres » (video_MM_YYYY):
 // they all had that one title, so a reader could not tell them apart. The
@@ -71,8 +80,17 @@ const CORRECTIONS = {
   // no eagle and no Tulsa. Settled from the two texts; Samuel did not know.
   // The subtitle stays: it is what the booklet prints.
   les_aigles_de_dieu: { date: "1960-04-03" },
-  // « SEPTEMBRE – OCTOBRE 1966 » at the head of the first of its two letters.
+  // « SEPTEMBRE – OCTOBRE 1966 » at the head of the first of the PDF's twelve letters (the last: « AVRIL – JUIN 1968 »).
   la_parole_de_dieu_demeure_eternellement: { date: "1966-09" },
+  // Unsigned, and its own text rules out the preacher the pass gave it:
+  // « notre frère Ewald Frank, qui […] a enseigné », « notre frère Alexis
+  // Barilier », « dans la brochure de frère Frank ». No name in his place.
+  ministeres_pasteur_A4: { preacher: null },
+  ministeres_pasteur_A4_gc: { preacher: null },
+  ministeres_pasteur_A5: { preacher: null },
+  // The same: « Pour la cellule des Frankistes, ce n’est que frère Frank et
+  // ses brochures qui comptent […] Ils veulent défendre frère Frank ».
+  reflexions: { preacher: null },
   // A death notice, not a work: it names a family, person by person, and the
   // model had lifted the names and their towns into the metadata. A draft is
   // not built, listed or indexed (Samuel, 2026-10-06: « we can keep the death
@@ -113,6 +131,16 @@ for (const entry of manifest) {
   titles++;
 }
 
+// ─── A yearly exhortation is the CMPP's, unsigned ───────────────────────────
+let unsigned = 0;
+for (const entry of manifest) {
+  if (!/^(exhortation_)?annee_\d{4}/.test(entry.sermon_id) || !entry.preacher) continue;
+  delete entry.preacher;
+  const file = path.join(root, entry.local_md);
+  fs.writeFileSync(file, dropField(fs.readFileSync(file, "utf8"), "preacher"));
+  unsigned++;
+}
+
 // ─── A date and a place are what the PDF prints ─────────────────────────────
 let dates = 0, places = 0;
 for (const entry of manifest) {
@@ -146,4 +174,4 @@ for (const entry of manifest) {
 
 const out = JSON.stringify(manifest, null, 2);
 if (out !== fs.readFileSync(manifestPath, "utf8")) fs.writeFileSync(manifestPath, out);
-console.log(`${Object.keys(CORRECTIONS).length} works corrected from their own text, ${changed} frontmatters changed; ${titles} monthly summaries titled with their month; ${dates} dates and ${places} places set to what the PDF prints`);
+console.log(`${Object.keys(CORRECTIONS).length} works corrected from their own text, ${changed} frontmatters changed; ${titles} monthly summaries titled with their month; ${dates} dates and ${places} places set to what the PDF prints; ${unsigned} yearly exhortations left without a preacher`);

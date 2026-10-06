@@ -1,5 +1,6 @@
 // The CMPP's PDFs as the scripts that read them find them (21, 22, 75, 76b,
-// 76c): where 20 put each one, and its text.
+// 76c): where 20 put each one, its text, and what that text prints of a date
+// or a place.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -24,8 +25,9 @@ export function extraction(id) {
 // ─── What a PDF prints ──────────────────────────────────────────────────────
 const MONTHS = ["janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"];
 /** A text without case or accent, its runs of spaces single: what « prints » is tested on. */
-export const fold = (t) => (t ?? "").normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().replace(/[ \t]+/g, " ");
-const linesOf = (text) => fold(text).split("\n").map((l) => l.trim()).filter(Boolean);
+const fold = (t) => (t ?? "").normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().replace(/[ \t]+/g, " ");
+/** The lines of a text that are not empty, without case or accent. */
+export const linesOf = (text) => fold(text).split("\n").map((l) => l.trim()).filter(Boolean);
 
 /**
  * A work's date as its PDF prints it: the day when a line of a title page or
@@ -44,30 +46,17 @@ export function printedDate(id, date, text) {
   return inName || new RegExp(`${month}\\W{1,3}${year}`).test([...lines.slice(0, 40), ...lines.slice(-25), dateLines].join("\n")) ? `${year}-${mm}` : null;
 }
 
-/** Whether a PDF prints a place: one of its names at least (« Branham Tabernacle, Jeffersonville, Indiana, U.S.A. »), anywhere. */
-export function printsPlace(location, text) {
-  const all = fold(text);
-  return fold(location).split(/[,(]/).map((p) => p.replace(/[^a-z .'’-]/g, "").trim()).some((p) => p.length >= 4 && all.includes(p));
-}
-
-// The names an author is printed under: « c’est frère Frank qui vous parle », a signature, a title page
-const AUTHORS = { "William Branham": /branham/, "Ewald Frank": /frank/, "Alexis Barilier": /barilier/, "Parfait M'bra": /m[’' ]?bra\b/ };
-// A line that is a name and no more: « WILLIAM MARRION BRANHAM », « Missionnaire Ewald Frank », « Fr. A. Barilier »
-const NAME_ONLY = /^((par|de|du|frere|fr|missionnaire|pasteur|rev|l|auteur|william|marrion|w|m|ewald|e|alexis|a|parfait|bra|branham|frank|barilier) ?)+$/;
 /**
- * Who a PDF names as its author, against the `preacher` a work has:
- * "confirmed" when the preacher's name is in the first 40 or the last 40
- * lines or in a short line (a name inside the text is someone it speaks
- * of); else "contradicted", with the line, when a line of those 80 is
- * another author's name and no more (not the end of a sentence); else
- * "not printed".
+ * Whether a PDF prints a place as the text's own: one of its names at least
+ * (« Branham Tabernacle, Jeffersonville, Indiana, U.S.A. ») in a line of a
+ * title page or of a signature, as for a date (45 characters at most:
+ * « Krefeld, juillet 1986 », « Missionnaire Ewald Frank, Krefeld
+ * (Allemagne) »), or in one of the first ten lines (« Traduction de la vidéo
+ * mensuelle du Centre Missionnaire de Krefeld »). A place inside a sentence
+ * is one the text speaks of.
  */
-export function printedAuthor(preacher, text) {
-  const lines = linesOf(text), edge = [...lines.slice(0, 40), ...lines.slice(-40)];
-  if (AUTHORS[preacher].test([...edge, ...lines.filter((l) => l.length <= 45)].join("\n"))) return ["confirmed"];
-  for (const [name, re] of Object.entries(AUTHORS)) {
-    const line = name !== preacher && edge.find((l) => re.test(l) && !/[.,;:)]$/.test(l) && NAME_ONLY.test(l.replace(/[^a-z]+/g, " ").trim()));
-    if (line) return ["contradicted", `${name}: « ${line} »`];
-  }
-  return ["not printed"];
+export function printsPlace(location, text) {
+  const lines = linesOf(text);
+  const where = [...lines.slice(0, 10), ...lines.filter((l) => l.length <= 45)].join("\n");
+  return fold(location).split(/[,(]/).map((p) => p.replace(/[^a-z .'’-]/g, "").trim()).some((p) => p.length >= 4 && where.includes(p));
 }

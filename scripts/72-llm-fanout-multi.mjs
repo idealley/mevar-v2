@@ -82,7 +82,7 @@ Réponse : JSON STRICT uniquement. Schéma :
   "kind": "exhortation | bible_study | book | article | testimony | communique",
   "date": "YYYY-MM-DD, ou YYYY-MM si seul le mois est connu, sinon null",
   "year": 1974,
-  "location": "Krefeld par défaut pour Ewald Frank, sinon précise",
+  "location": "Lieu imprimé dans le document (page de titre, signature), sinon null",
   "preacher": "Auteur du document (Ewald Frank, William Branham, etc.)",
   "summary": "Résumé 2-3 phrases",
   "tags": ["1-5 tags thématiques en français"],

@@ -19,9 +19,11 @@
 // Anything else is left unlinked and listed in
 // manifests/cmpp-branham-unresolved.json. Never guessed.
 //
-// Samuel's answers come first: scripts/cmpp-branham-decided.json,
+// What was decided comes first: scripts/cmpp-branham-decided.json,
 // `{"<cmpp id>": "<branham id>" | "none"}`. "none" records that the work
 // translates no sermon of the archive, and it leaves the unresolved list.
+// An answer is Samuel's (la_profondeur), or was settled from the two texts
+// where he did not know (les_aigles_de_dieu: the evidence is in 76b).
 //
 // Writes: `original: "branham/<year>/<id>"` on the translation,
 //         `translation_fr: "cmpp/<year>/<id>"` on the sermon,
