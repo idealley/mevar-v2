@@ -29,8 +29,11 @@
 //     ends on the CMPP's address, and where one names him it speaks of him:
 //     « Le départ de cette terre du serviteur fidèle et prudent, notre frère
 //     Ewald Frank » (2025), « que ce soit avec frère William Branham, frère
-//     Ewald Frank et frère Alexis Barilier » (2020). They are the CMPP's own,
-//     unsigned; no name is put in his place.
+//     Ewald Frank et frère Alexis Barilier » (2020). They are unsigned; no
+//     name is put in his place, and they are drafts, not built, until their
+//     author is verified (Samuel, 2026-10-06, who believes he knows whose
+//     they are: « we will need to verify […] then I would not publish
+//     them »).
 //
 // And one for the 187 monthly « Sommaire des rencontres » (video_MM_YYYY):
 // they all had that one title, so a reader could not tell them apart. The
@@ -83,15 +86,18 @@ const CORRECTIONS = {
   les_aigles_de_dieu: { date: "1960-04-03" },
   // « SEPTEMBRE – OCTOBRE 1966 » at the head of the first of the PDF's twelve letters (the last: « AVRIL – JUIN 1968 »).
   la_parole_de_dieu_demeure_eternellement: { date: "1966-09" },
+  // Published under the publisher's name (Samuel, 2026-10-06: « maybe we can
+  // publish them with something like Author CMPP »; he thinks them probably
+  // by another of the CMPP's writers, which no page says).
   // Unsigned, and its own text rules out the preacher the pass gave it:
   // « notre frère Ewald Frank, qui […] a enseigné », « notre frère Alexis
-  // Barilier », « dans la brochure de frère Frank ». No name in his place.
-  ministeres_pasteur_A4: { preacher: null },
-  ministeres_pasteur_A4_gc: { preacher: null },
-  ministeres_pasteur_A5: { preacher: null },
+  // Barilier », « dans la brochure de frère Frank ».
+  ministeres_pasteur_A4: { preacher: "CMPP" },
+  ministeres_pasteur_A4_gc: { preacher: "CMPP" },
+  ministeres_pasteur_A5: { preacher: "CMPP" },
   // The same: « Pour la cellule des Frankistes, ce n’est que frère Frank et
   // ses brochures qui comptent […] Ils veulent défendre frère Frank ».
-  reflexions: { preacher: null },
+  reflexions: { preacher: "CMPP" },
   // A death notice, not a work: it names a family, person by person, and the
   // model had lifted the names and their towns into the metadata. A draft is
   // not built, listed or indexed (Samuel, 2026-10-06: « we can keep the death
@@ -132,13 +138,14 @@ for (const entry of manifest) {
   titles++;
 }
 
-// ─── A yearly exhortation is the CMPP's, unsigned ───────────────────────────
+// ─── A yearly exhortation is unsigned, and a draft until its author is known ─
 let unsigned = 0;
 for (const entry of manifest) {
-  if (!/^(exhortation_)?annee_\d{4}/.test(entry.sermon_id) || !entry.preacher) continue;
+  if (!/^(exhortation_)?annee_\d{4}/.test(entry.sermon_id) || (!entry.preacher && entry.status === "draft")) continue;
   delete entry.preacher;
+  entry.status = "draft";
   const file = path.join(root, entry.local_md);
-  fs.writeFileSync(file, dropField(fs.readFileSync(file, "utf8"), "preacher"));
+  fs.writeFileSync(file, setField(dropField(fs.readFileSync(file, "utf8"), "preacher"), "status", "draft"));
   unsigned++;
 }
 
@@ -177,4 +184,4 @@ for (const entry of manifest) {
 
 const out = JSON.stringify(manifest, null, 2);
 if (out !== fs.readFileSync(manifestPath, "utf8")) fs.writeFileSync(manifestPath, out);
-console.log(`${Object.keys(CORRECTIONS).length} works corrected from their own text, ${changed} frontmatters changed; ${titles} monthly summaries titled with their month; ${dates} dates and ${places} places set to what the PDF prints; ${unsigned} yearly exhortations left without a preacher`);
+console.log(`${Object.keys(CORRECTIONS).length} works corrected from their own text, ${changed} frontmatters changed; ${titles} monthly summaries titled with their month; ${dates} dates and ${places} places set to what the PDF prints; ${unsigned} yearly exhortations made unsigned drafts`);

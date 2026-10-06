@@ -55,7 +55,8 @@ for (const e of JSON.parse(fs.readFileSync(path.join(root, "manifests/cmpp.json"
   const text = extraction(e.sermon_id), lines = linesOf(text), notes = [];
   let worst = "confirmed";
   const note = (state, what) => { notes.push(what); if (worst !== "contradicted") worst = state; };
-  if (e.preacher && !signature(e.preacher, lines)) {
+  // (« CMPP » is the publisher, for a text that names no author: nothing to look for)
+  if (AUTHORS[e.preacher] && !signature(e.preacher, lines)) {
     const other = !SERIES.test(e.sermon_id) && Object.keys(AUTHORS).find((name) => name !== e.preacher && signature(name, lines));
     if (other) note("contradicted", `preacher ${e.preacher}, the PDF is signed ${other}: « ${signature(other, lines).slice(0, 80)} »`);
     else note("not printed", `preacher ${e.preacher}, the PDF is not signed${SERIES.test(e.sermon_id) ? " (a series)" : ""}`);

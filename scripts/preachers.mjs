@@ -32,6 +32,9 @@ export const PREACHERS = [
   { name: "William Branham", slug: "william-branham", variants: ["William Marrion Branham"], archive: true },
   { name: "Ewald Frank", slug: "ewald-frank", variants: [], archive: true },
   { name: "Alexis Barilier", slug: "alexis-barilier", variants: [], archive: true },
+  // The publisher, for a text of the CMPP that names no author (Samuel,
+  // 2026-10-06: « maybe we can publish them with something like Author CMPP »).
+  { name: "CMPP", slug: "cmpp", variants: [], archive: true },
 ];
 
 /** A spelling without its title, case, accents or apostrophe style: "Fr. M’BRA Parfait" -> "m'bra parfait". */
