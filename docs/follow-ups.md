@@ -117,7 +117,9 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 
 **Left**:
 
-- **24 authors no page names.** `76c-check-cmpp-attributions.mjs` lists them: 15 texts the pass gave to Ewald Frank by default (`harry_potter`, `la_priere`, `le_jeune`, `quel_amour`, `honore_tes_parents`, `coronavirus_A4`, `ministeres_pasteur_A4`, `q_r_fevrier_2008_5`, `quanddieu` and their layouts) and the nine tracts Samuel gave him. An answer goes into `76b`'s table.
+- **54 works without a preacher, for Samuel to name or leave.** The 50 yearly exhortations (`annee_YYYY`, `exhortation_annee_YYYY`) are unsigned and speak of Ewald Frank in the third person; so do `ministeres_pasteur` (three layouts) and `reflexions`. The pass had given them all to him; `76b` took the name away and put none in its place.
+- **21 authors no page names.** `76c-check-cmpp-attributions.mjs` lists them: 12 texts the pass gave to Ewald Frank by default (`harry_potter`, `la_priere`, `le_jeune`, `quel_amour`, `honore_tes_parents`, `coronavirus_A4`, `q_r_fevrier_2008_5`, `quanddieu` and their layouts) and the nine tracts Samuel gave him. An answer goes into `76b`'s table.
+- **The eagles' two dates.** `les_aigles_de_dieu` is 60-0403 (3 April 1960); its subtitle is the booklet's « 4 mars 1960, après-midi » and its page shows both. Say so on the page, or leave it.
 - **The 239 older bodies were never read against their PDFs** (Samuel: another flow). The first pass, and the old `65`, spelled out Bible abbreviations, accented capitals and changed a word here and there, as the review found in the 277 new ones. `75-restore-source-words.mjs` is the tool: run it on them and read what it reports; a booklet among them needs `21`'s extraction first (it makes it).
 - **Old PDF objects.** The 173 works `49b` moved have their PDF twice in the bucket: under `cmpp/undated/` (no longer named by any work) and under their year. Deleting the first is a Cloudflare step, Samuel's.
 

@@ -501,30 +501,62 @@ Samuel: « tackle the still open items ».
   have a day, 310 a month, 106 no date**. `rev12` keeps its
   first of January, which its title page prints.
 - **Attributions against the PDFs**, all 516, by a read-only script,
-  `76c-check-cmpp-attributions.mjs`. Before any correction: **308
-  confirmed, 208 not printed, 0 contradicted** (the script's first two
-  versions named 8, then 4, candidates; read one by one they were William
-  Branham spoken of in a sentence, and the editor's signature under an
-  introduction that names the author: `lc_mars_1972`, `lc4`, `lc60`,
-  `lc14_A5`, `lc25_A5`, `quel_bapteme`, `savez-vous`, `video_04_2011`,
-  `trois_visions`). No `preacher` was changed. What was not printed:
-  - **the place, 137 times**, always « Krefeld »: the prompt of the pass
-    said « Krefeld par défaut pour Ewald Frank ». Removed by a rule in
-    `76b` (a place the PDF does not print goes); 369 works keep a place
-    their PDF prints. `eden`'s « Krefeld » went with them.
-  - **the date, 59 times**: see above.
-  - **the author, 180 times**. 156 are issues of a series whose other
-    issues name him (the circular letters, the monthly summaries, the
-    yearly exhortations): kept. 24 are not, and keep `preacher: "Ewald
-    Frank"` unverified, **listed for Samuel**: `q_r_fevrier_2008_5`,
-    `le_jeune`, `le_jeune_A5`, `coronavirus_A4`, `coronavirus_A5`,
-    `harry_potter`, `honore_tes_parents`, `honore_tes_parents_A5`,
-    `la_priere`, `ministeres_pasteur_A4`, `ministeres_pasteur_A4_gc`,
-    `ministeres_pasteur_A5`, `quanddieu`, `quel_amour`, `quel_amour_A5`,
-    and the nine tracts Samuel gave to Ewald Frank.
-  After the corrections: 333 confirmed, 183 not printed (the 180 authors
-  and three dates set by hand that no title-page line prints), 0
-  contradicted.
+  `76c-check-cmpp-attributions.mjs`. Its first version took a name near
+  the head or the end of a PDF for its author, and so called « confirmed »
+  a text that speaks of Ewald Frank; the fourth review found the yearly
+  exhortations that way. Since then **an author is printed only where the
+  PDF signs**: his name alone on a line, « Missionnaire Ewald Frank »,
+  « Prédication de frère Ewald Frank », the speaker naming himself
+  (« c’est frère Frank qui vous parle »), or the editor naming whose text
+  he introduces. With that test, before the corrections it led to: **288
+  confirmed, 228 not printed, 0 contradicted** (the candidates the script
+  named on the way were read one by one: William Branham spoken of in a
+  sentence, a piece another signs inside a circular letter, `lc53` and
+  `lc55`, and Alexis Barilier's signature under the introduction of the
+  two texts of Parfait M'bra). After them: **347 confirmed, 169 not
+  printed, 0 contradicted**. What was not printed:
+  - **the author, in 220 works.**
+    - The **50 yearly exhortations** (`annee_YYYY`,
+      `exhortation_annee_YYYY`, 19 of them built) had `preacher: "Ewald
+      Frank"` from the pass. None is signed, each ends on the CMPP's
+      address, and where one names him it speaks of him: « Le départ de
+      cette terre du serviteur fidèle et prudent, notre frère Ewald Frank »
+      (2025), « que ce soit avec frère William Branham, frère Ewald Frank
+      et frère Alexis Barilier » (2020). **Their `preacher` is removed**
+      (a rule in `76b`), no name in its place: they are the CMPP's own.
+      **For Samuel**: whose name, if any, they should carry.
+    - **`ministeres_pasteur`** (three files) and **`reflexions`**: their
+      own text rules out the preacher the pass gave them (« notre frère
+      Ewald Frank, qui […] a enseigné », « dans la brochure de frère
+      Frank »; « Ils veulent défendre frère Frank »). **Removed** too
+      (`76b`'s table). For Samuel as well.
+    - **145 issues of the two series** keep him: 115 of the 116 circular
+      letters, which he writes in the first person and does not sign (« il
+      m’a aussi dit: «Frère Frank, attends… » »), and 30 of the 187
+      monthly summaries, where the 157 others open on « c’est frère Frank
+      qui vous parle ».
+    - **21 others keep `preacher: "Ewald Frank"` unverified, listed for
+      Samuel**: `q_r_fevrier_2008_5`, `le_jeune`, `le_jeune_A5`,
+      `coronavirus_A4`, `coronavirus_A5`, `harry_potter`,
+      `honore_tes_parents`, `honore_tes_parents_A5`, `la_priere`,
+      `quanddieu`, `quel_amour`, `quel_amour_A5`, and the nine tracts he
+      gave to Ewald Frank himself.
+  - **the place, 187 times**, 180 of them « Krefeld »: the prompt of the
+    pass said « Krefeld par défaut pour Ewald Frank » (it no longer does).
+    A rule in `76b` removes a place the PDF does not print as the text's
+    own: in a line of a title page or of a signature, as for a date, or
+    in its first ten lines; a place inside a sentence is one the text
+    speaks of. 137 went when the rule accepted any mention, 50 more when
+    it asked for such a line. 319 works keep a place. `eden`'s « Krefeld »
+    went with the first.
+  - **the date, 59 times**: see above. Three dates set by hand stay « not
+    printed » for the script (`les_aigles_de_dieu`,
+    `la_parole_de_dieu_demeure_eternellement`, the draft).
+- **On the page.** A work with a year and no date now says its year
+  (106 works; `WorkPage.astro`). **For Samuel**: the page of
+  `les_aigles_de_dieu` shows the booklet's subtitle, « 4 mars 1960,
+  après-midi — Tulsa, Oklahoma, U.S.A. », above its date, « 3 avril
+  1960 »; the subtitle is what the booklet prints and was not changed.
 - **The review's smaller points.** The `"none"` answers nothing read are
   gone from `cmpp-branham-decided.json`; the PDF lookup of 21, 22 and 75
   is `scripts/cmpp-pdfs.mjs`; the « staged as a raw body » branch is
@@ -532,8 +564,9 @@ Samuel: « tackle the still open items ».
   booklets still pass, byte for byte); two more « œ » are « oe » again
   (`exhortation_annee_2023_A5`, `lc5_A5`).
 
-**Left**: the 24 authors no page names; the 239 older bodies against their
-PDFs (goal 16c).
+**Left**: whose name the 50 yearly exhortations, `ministeres_pasteur` and
+`reflexions` should carry; the 21 authors no page names; the subtitle of
+`les_aigles_de_dieu`; the 239 older bodies against their PDFs (goal 16c).
 
 ### The LLM pass: the estimate, written before spending (2026-10-06)
 
