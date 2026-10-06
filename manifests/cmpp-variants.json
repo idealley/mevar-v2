@@ -217,8 +217,8 @@
     "folded": [
       {
         "id": "exhortation_annee_2023_A5",
-        "in_keeper": 0.968,
-        "of_keeper": 0.984
+        "in_keeper": 0.965,
+        "of_keeper": 0.981
       },
       {
         "id": "exhortation_annee_2023_A4_gc",
@@ -793,8 +793,8 @@
     "folded": [
       {
         "id": "lc5_A5",
-        "in_keeper": 0.983,
-        "of_keeper": 0.99
+        "in_keeper": 0.984,
+        "of_keeper": 0.991
       }
     ],
     "not_folded": []
