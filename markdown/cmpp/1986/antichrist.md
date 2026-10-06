@@ -582,6 +582,26 @@ De même, la théorie que la marque de la bête serait un code d’identificatio
 
 Nous devons revenir à cette Ecriture, *“Que celui qui a de l’intelligence compte le nombre de la bête, car c’est un nombre d’HOMME”* (Apoc. 13.18), la prendre au sérieux et ne pas simplement répéter comme un enfant le nombre 666, **mais au contraire compter réellement**. Alors voyez le compte de la manière suivante:
 
+V 5+  
+I 1+  
+C 100  
+A +  
+R
+
+I 1+  
+V 5  
+S
+
+F 1  
+I 1  
+L +50  
+I +1  
+I +1  
+D 500  
+E +  
+I 1  
+= 666
+
 **La plupart des docteurs de la Bible commettent une faute de pensée grave et lourde de conséquences.** Ils parlent de régimes et de mouvements antichrists, alors qu’il s’agit de conceptions du monde et de systèmes politiques non chrétiens, tels le socialisme, le communisme, l’athéisme, l’islamisme et ainsi de suite. Naturellement qu’il y a des religions et des gouvernements qui sont contre le christianisme, **cependant cela n’a rien à faire avec l’Antichrist dont nous parle la Bible**.
 
 Nous devons comprendre que **l’esprit antichrist existait déjà** avant que personne ne sache quoi que ce soit de l’Islam, de l’athéisme, du communisme et ainsi de suite. Nous devons aussi être conscients que dans les jours des apôtres, les religions païennes et le culte des idoles existaient dans une forte mesure. **Mais aucun homme de Dieu ne dit quelque chose comme quoi l’Antichrist sortirait de cette lignée**; au contraire Jean écrit très nettement des personnes qui se sont égarées dans la direction antichrist: *“Ils sont sortis du milieu de nous…”* (1 Jean 2.19).
