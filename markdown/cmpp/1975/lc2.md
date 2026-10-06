@@ -81,7 +81,7 @@ C’est avec puissance que la Parole du Seigneur se fraie un chemin, et qu’Ell
 
 Les frères qui dirigent cette assemblée, ainsi que toute la communauté, vous font saluer bien affectueusement.
 
-**Afrique**. En **Côte d’Ivoire**, j’ai rencontré frère Baranowski, de Belgique, qui avait préparé les réunions. Il accomplit du bon travail pour Dieu. Le Seigneur ouvre les portes de différentes assemblées, pour que la proclamation du Message du temps de la fin y soit apportée. Ceux auxquels Dieu a fait grâce ont reçu une compréhension spirituelle sur l’accomplissement des Ecritures, et ils sont reconnaissants pour ce que le Seigneur fait dans ce temps.
+**Afrique.** En **Côte d’Ivoire**, j’ai rencontré frère Baranowski, de Belgique, qui avait préparé les réunions. Il accomplit du bon travail pour Dieu. Le Seigneur ouvre les portes de différentes assemblées, pour que la proclamation du Message du temps de la fin y soit apportée. Ceux auxquels Dieu a fait grâce ont reçu une compréhension spirituelle sur l’accomplissement des Ecritures, et ils sont reconnaissants pour ce que le Seigneur fait dans ce temps.
 
 Au **Cameroun**, je me suis retrouvé avec frère Kobba, et d’autres frères, qui sont prêts à accomplir l’oeuvre de Dieu. Là aussi, le Seigneur a largement ouvert les portes. La littérature en français est en grande bénédiction aux populations d’expression française. La partie du pays parlant l’anglais fait usage des prédications originales de frère Branham. Les frères ont été saisis d’un courage tout neuf à l’égard de la traduction des brochures dans la langue de leur pays.
 

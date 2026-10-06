@@ -394,7 +394,7 @@ L’église méthodiste va dire: «Voyez depuis combien de temps…».
 
 150 Les apôtres de ce jour avaient été prédestinés à la Vie et ils le savaient. Il dit: “Tout ce que le Père m’a donné va venir. La seule chose que vous ayez à faire est de faire connaître ma Voix; ils la reconnaîtront, car mes brebis connaissent ma Voix”. Or une voix est l’expression d’une parole. [Il y a un blanc sur la bande — N.d.R.] “Ils La croient de toute façon. Ils n’ont pas besoin d’une preuve scientifique quelle qu’elle soit; ils n’ont pas besoin de demander quoi que ce soit aux Sadducéens ni aux Pharisiens. Ce que je dis, ils le croient, car Mes brebis entendent Ma Voix”.
 
-151 **Et voici la Voix de Dieu sous forme de lettre, car ceci est l’entière révélation de Jésus-Christ, le Nouveau et l’Ancien Testament mis ensemble**. Amen. Nous y voici.
+151 **Et voici la Voix de Dieu sous forme de lettre, car ceci est l’entière révélation de Jésus-Christ, le Nouveau et l’Ancien Testament mis ensemble.** Amen. Nous y voici.
 
 152 Pourquoi cela? Vous dites: «Ce sont des gens bien. Qu’est-ce qui fait que…». Il y a une chose, **c’est qu’ils sont rattachés à une église**. Vous souvenez-vous de la prédication de dimanche dernier, il y a une semaine? Combien étaient ici et ont entendu le sermon sur *“Les oints du temps de la fin”?* Je crois que vous y étiez tous. Vous voyez, ce sont des oints. **Dans cette deuxième sphère, leur esprit est oint.**
 
@@ -530,7 +530,7 @@ Je dis: «Va-t’en loin de moi, Satan!».
 
 214 Frère, soeur, laissez-moi vous dire qu’il n’y a que cette Chose. N’essayez pas de raisonner Cela. N’essayez pas d’avoir de longs cheveux simplement parce que je l’ai dit. N’essayez pas de faire ces choses de manière simplement charnelle. N’essayez pas de le faire juste pour dire que vous avez réussi. **Mais restez simplement en attente devant le Seigneur jusqu’à ce que Quelque chose se fraye un chemin à l’intérieur!**
 
-215 Beaucoup parmi vous pensent que du fait qu’elles ont de longs cheveux, elles vont aller au Ciel. **Le fait d’avoir de longs cheveux ne signifie pas cela**. Beaucoup pensent que du fait qu’elles sont des femmes bonnes et morales, elles vont aller…? **Ce n’est pas ce que cela veut dire.** Beaucoup pensent que c’est à cause de leurs églises et parce qu’ils appartiennent à ces grands groupes qui ont de grands docteurs de la Divinité qu’ils vont… **Cela n’a pas de rapport.** Vous voyez?
+215 Beaucoup parmi vous pensent que du fait qu’elles ont de longs cheveux, elles vont aller au Ciel. **Le fait d’avoir de longs cheveux ne signifie pas cela.** Beaucoup pensent que du fait qu’elles sont des femmes bonnes et morales, elles vont aller…? **Ce n’est pas ce que cela veut dire.** Beaucoup pensent que c’est à cause de leurs églises et parce qu’ils appartiennent à ces grands groupes qui ont de grands docteurs de la Divinité qu’ils vont… **Cela n’a pas de rapport.** Vous voyez?
 
 216 Beaucoup pensent que parce qu’ils parlent en langues, ils ont le Saint-Esprit. **Cela n’a pas de rapport**. Bien qu’effectivement le Saint-Esprit parle en langues. **Mais il faut que ce véritable, cet authentique Saint-Esprit qui se trouve là-dedans soit en accord avec chaque Parole!** Si ce Saint-Esprit est en vous, alors c’est Lui qui vous fera parler en langues; si lorsque vous examinez cela, vous vous rendez compte que cela ne concorde pas avec le reste de la Parole, alors c’est un esprit faux. Vous voyez?
 

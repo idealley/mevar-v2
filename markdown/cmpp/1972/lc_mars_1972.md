@@ -65,7 +65,7 @@ En rapport avec cela, nous trouvons cette merveilleuse parole de Zacharie 4.7: *
 
 Il est la Pierre d’Angle et la Pierre du Faîte. Il est le Premier et le Dernier, l’Alpha et l'Oméga. En tant que Pierre du Faîte, Sa véritable place doit être manifestée dans la maison de Dieu qui est l'Eglise du Seigneur. Paul écrit dans 1 Timothée 3.15: *“La maison de Dieu, qui est l’Eglise du Dieu vivant, la colonne et l’appui, de la vérité”.*
 
-Pierre nous conduit également à être des pierres vivantes pour édifier une maison spirituelle, dans laquelle Jésus est la Pierre angulaire et la Pierre du Faîte. Hors de Lui, il n'y a point de salut. C'est remplis d’espérance que nous Lui disons: *“Béni soit celui qui vient au nom du Seigneur*”. Il est le Chef et le consommateur de la foi.
+Pierre nous conduit également à être des pierres vivantes pour édifier une maison spirituelle, dans laquelle Jésus est la Pierre angulaire et la Pierre du Faîte. Hors de Lui, il n'y a point de salut. C'est remplis d’espérance que nous Lui disons: *“Béni soit celui qui vient au nom du Seigneur”.* Il est le Chef et le consommateur de la foi.
 
 Sous la puissante action du Saint-Esprit, au commencement de l’Eglise du Nouveau Testament, Jésus-Christ fut placé comme Pierre Angulaire. Les scribes étaient ceux qui bâtissaient en ce temps-là, et ils La rejetèrent; mais pour les apôtres, Il était choisi et précieux, car ils avaient compris la Parole prophétique de ce temps-là, et ils avaient vu l’accomplissement des promesses. Ils avaient reçu force et courage par la confirmation de la Parole révélée. Dans notre temps également, les scribes ont rejeté la Pierre du Faîte. Ils sont pareils à des gens qui bâtissent leur propre maison, mais qui ne veulent pas se laisser enchâsser dans la Maison de Dieu comme des pierres vivantes. Cependant, les vrais enfants de Dieu ont entendu les promesses pour ce temps et ils les ont reçues.
 
@@ -95,7 +95,7 @@ On me questionne toujours à nouveau sur la signification, dans le plan du salut
 
 *“Ce n'est pas à vous de connaître les temps ou les moments que le Père a fixés de sa propre autorité. Mais vous recevrez une puissance, le Saint-Esprit survenant sur vous, et vous serez mes témoins…”.*
 
-Cette déclaration de Jésus montre bien à quoi nous devons tendre, et ce qui est important, car ce n’est pas en connaissant et en fixant un temps que nous trouvons, de la force, mais au contraire comme il est écrit: *“… vous recevrez une puissance, le Saint-Esprit survenant sur vous*,…”. Ce dont nous avons besoin, c’est de la puissance du Saint-Esprit — le revêtement de la Toute-puissance divine.
+Cette déclaration de Jésus montre bien à quoi nous devons tendre, et ce qui est important, car ce n’est pas en connaissant et en fixant un temps que nous trouvons, de la force, mais au contraire comme il est écrit: *“… vous recevrez une puissance, le Saint-Esprit survenant sur vous,…”.* Ce dont nous avons besoin, c’est de la puissance du Saint-Esprit — le revêtement de la Toute-puissance divine.
 
 Il est certain que frère Branham a attribué une signification toute particulière à l’année 1977. Mais il s’agit de la placer dans le bon contexte. Avant de répondre d’une manière plus détaillée à cette question, je me sens conduit par le Saint-Esprit à insister sur les paroles d’Actes 1.4-11. Je prie chacun de prendre très au sérieux ces paroles de Jésus avant Son ascension. Après Sa résurrection, Jésus s’était montré vivant parmi Ses disciples, et Il leur avait donné Ses dernières instructions. Il est écrit, au verset 4:
 

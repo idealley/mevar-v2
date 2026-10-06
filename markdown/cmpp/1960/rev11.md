@@ -69,7 +69,7 @@ html_url: "http://www.cmpp.ch/rev11.htm"
 
 3 Nous sommes au soir de Nouvel-An. Comme d’habitude, tout le monde a fait un voeu et noté un engagement par écrit pour la nouvelle année, mais il ne se passera pas deux jours que tous ces voeux et engagements soient rompus! C’est ainsi chaque année: on tourne une nouvelle page, mais le jour suivant on recommence à faire les mêmes choses.
 
-4 Mais il y a juste une chose que je voudrais dire comme l’apôtre Paul: *“Oubliant ce qui est en arrière, et me portant vers ce qui est en avant, je cours vers le but, pour remporter le prix de la vocation céleste de Dieu en Jésus-Christ*”. Les seuls regrets que j’aie, ce sont mes erreurs de l’année dernière et ma vie passée; je Lui demande simplement et avec humilité la grâce de courir vers le but de la vocation céleste. Je suis certain que c’est le témoignage de nous tous; nous pensons tous ainsi.
+4 Mais il y a juste une chose que je voudrais dire comme l’apôtre Paul: *“Oubliant ce qui est en arrière, et me portant vers ce qui est en avant, je cours vers le but, pour remporter le prix de la vocation céleste de Dieu en Jésus-Christ”.* Les seuls regrets que j’aie, ce sont mes erreurs de l’année dernière et ma vie passée; je Lui demande simplement et avec humilité la grâce de courir vers le but de la vocation céleste. Je suis certain que c’est le témoignage de nous tous; nous pensons tous ainsi.
 
 5 Je regrette qu’il fasse si mauvais temps ce soir et que des gens n’aient pas pu venir. J’ai téléphoné à frère Neville: je ne savais même pas s’il pourrait venir! Frère Skaggs est venu du Kentucky où il y a un mètre de neige. «Il y en a à peu près haut comme cela», m’a-t-il dit, et il a fallu qu’un paysan le tire avec son tracteur jusqu’au sommet de la colline. Aussi je pensais: «Tant qu’il n’y en a qu’une dizaine de centimètres, cela ne nous gêne pas». Les routes sont praticables et tout le monde peut passer.
 
@@ -115,7 +115,7 @@ html_url: "http://www.cmpp.ch/rev11.htm"
 
 26 Une secousse vint sur ce peuple, mais il ne s’aperçut de rien. Lorsque Jésus vint, Il ne Se montra pas parmi les grands. Il vint vers les Siens, vers ceux qui Le cherchaient. C’est alors que vint la secousse. C’est encore ce qu’Il fait aujourd’hui. Le Saint-Esprit vient vers ceux que Dieu a appelés. Il y a une grande secousse parmi les élus. Quelque chose de puissant et de glorieux se passe, mais le monde n’y voit rien.
 
-27 Ils pensent que toute cette grande machine, les émissions dans le monde entier, les programmes télévisés, ces bâtiments valant des millions de dollars et tout le reste, c’est cela qu’il faut, c’est cela qui est glorieux. Mais c’est une folie aux yeux de Dieu! Dieu ne regarde pas aux grandes choses. Ce que les hommes appellent *folie*, Dieu l’appelle *grand*; et ce que les hommes appellent *grand*, Dieu l’appelle *folie. —* “Il Lui a plu de sauver ceux qui étaient perdus par la folie de la prédication”.
+27 Ils pensent que toute cette grande machine, les émissions dans le monde entier, les programmes télévisés, ces bâtiments valant des millions de dollars et tout le reste, c’est cela qu’il faut, c’est cela qui est glorieux. Mais c’est une folie aux yeux de Dieu! Dieu ne regarde pas aux grandes choses. Ce que les hommes appellent *folie,* Dieu l’appelle *grand;* et ce que les hommes appellent *grand,* Dieu l’appelle *folie. —* “Il Lui a plu de sauver ceux qui étaient perdus par la folie de la prédication”.
 
 28 Voyons Jean maintenant. Que pensez-vous que les gens dirent? — “Il y a là-bas un vieux fanatique barbu qui vient du désert, vêtu d’une peau de brebis. Il se tient nu-pieds dans la boue au bord du Jourdain et reste là à raconter des histoires. Qui a jamais entendu une chose pareille?”.
 
@@ -250,7 +250,7 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 83 Et n’est-ce pas exactement ce qu’ils disent aujourd’hui? «Comment une bande de fanatiques, de personnes qui savent à peine écrire leur nom, pourraient-ils être l’Eglise? Comment un tel groupe pourrait-il l’être?». Mais tout va bien pour nous, lorsque nous sommes fiancés, et que nous avons ressenti ce baiser de fiançailles de Jésus-Christ sur nos coeurs pour ôter nos péchés: quelque chose nous dit qu’Il revient… Un jour, Il sera de retour.
 
-84 Elle travailla toute l’année comme une esclave, mettant de côté ses soixante-douze cents ou ce qu’on lui donnait, comme salaire journalier. Elle économisait son argent pour acheter sa robe de mariée, pour que tout soit prêt. Oh, c’était toute sa pensée: se préparer! *(“Et sa femme s’est préparée*”). Elle acheta ses vêtements de noce sous les rires et les moqueries de ses cousines.
+84 Elle travailla toute l’année comme une esclave, mettant de côté ses soixante-douze cents ou ce qu’on lui donnait, comme salaire journalier. Elle économisait son argent pour acheter sa robe de mariée, pour que tout soit prêt. Oh, c’était toute sa pensée: se préparer! *(“Et sa femme s’est préparée”).* Elle acheta ses vêtements de noce sous les rires et les moqueries de ses cousines.
 
 85 Enfin, le dernier jour arriva. Elle se revêtit de sa robe de mariée toute prête et bien propre. Alors, ses cousines vinrent, lui firent des révérences et lui dirent: «Petite folle! Tu sais bien qu’il ne pensait pas ce qu’il disait! Il n’épousera jamais une fille comme toi!». Mais tout de même, elle s’était préparée!
 
@@ -270,7 +270,7 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 93 Rappelez-vous que Jean est encore à Patmos. Et c’est après avoir vu tous les âges de l’église se dérouler complètement qu’il dit: *“… je vis, et voici une porte ouverte dans le ciel…”.*
 
-94 *“Une Porte*”. Qu’est-ce que la Porte? Dans Apocalypse 3.8, il est écrit: *“Je connais tes oeuvres. Voici, j’ai mis devant toi une porte ouverte que personne ne peut fermer*”. Il est la Porte! la Porte! Christ est la Porte! Il a dit dans Jean 10: *“Je suis la Porte des brebis”.*
+94 *“Une Porte”.* Qu’est-ce que la Porte? Dans Apocalypse 3.8, il est écrit: *“Je connais tes oeuvres. Voici, j’ai mis devant toi une porte ouverte que personne ne peut fermer”.* Il est la Porte! la Porte! Christ est la Porte! Il a dit dans Jean 10: *“Je suis la Porte des brebis”.*
 
 95 Dans les vieux pays, on trouve des bergers qui conduisent leurs brebis. Après les avoir comptées et avoir vu qu’elles étaient toutes rentrées, le berger se couche en travers de la porte. Le loup ne peut pas entrer sans le réveiller, et ses brebis ne peuvent sortir sans lui passer dessus. Oh, combien les brebis se sentent en sécurité lorsque le berger est couché en travers de la porte!
 
@@ -288,7 +288,7 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 101 Maintenant, la scène change. Jean regardait vers Patmos; maintenant, il lève les yeux. Pourquoi? Il a vu quelque chose s’accomplir ici sur la terre (ces âges de l’église) pendant tout le temps de ces âges de l’église; ensuite, après qu’ils soient terminés, il entendit une Voix. Il leva les yeux vers le Ciel et vit une Porte ouverte, et la première voix avait le son d’une trompette. Voilà. La scène se déplace de Patmos au Ciel.
 
-102 La Voix était la même Voix que celle qui se tenait au milieu des sept lampes d’or. La même Voix! La Voix n’avait pas changé. Mais où était cette Voix lorsqu’il L’entendit la première fois? Combien se souviennent de ce que nous avons vu au début? Elle était derrière lui: *“Je fus en Esprit, dans la journée dominicale…”* (Apoc. 1.10) — *“en Esprit*”. Cela nous ramène droit à Apocalypse 1.10 et 13: *“Je fus en Esprit, dans la journée dominicale, et j’ouïs derrière moi une grande voix, comme d’une trompette… Et je me retournai pour voir la voix qui me parlait; et, m’étant retourné, je vis sept lampes d’or, et au milieu des sept lampes, quelqu’un de semblable au Fils de l’homme”.*
+102 La Voix était la même Voix que celle qui se tenait au milieu des sept lampes d’or. La même Voix! La Voix n’avait pas changé. Mais où était cette Voix lorsqu’il L’entendit la première fois? Combien se souviennent de ce que nous avons vu au début? Elle était derrière lui: *“Je fus en Esprit, dans la journée dominicale…”* (Apoc. 1.10) — *“en Esprit”.* Cela nous ramène droit à Apocalypse 1.10 et 13: *“Je fus en Esprit, dans la journée dominicale, et j’ouïs derrière moi une grande voix, comme d’une trompette… Et je me retournai pour voir la voix qui me parlait; et, m’étant retourné, je vis sept lampes d’or, et au milieu des sept lampes, quelqu’un de semblable au Fils de l’homme”.*
 
 103 Ensuite, après qu’Il lui ait montré tout le mystère de ces sept lampes d’or (Il tenait les sept étoiles, Ses cheveux étaient blancs comme de la laine, Ses pieds étaient comme de l’airain, Ses yeux comme une flamme de feu: tous ces symboles), après cela, il entendit la même Voix parlant du Ciel. Alors, il leva les yeux et vit une Porte ouverte. Oh! une Porte ouverte dans le Ciel! Comment y entre-t-on? Par Jésus-Christ, la Porte unique, le seul Chemin, car il n’y a pas d’autre chemin.
 
@@ -335,7 +335,7 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 > *“Sur-le-champ, je fus en Esprit…”*.
 
-118 Quand vous entendez la Voix de Dieu vous parler, quelque chose se passe! Amen! Oh, cela vous est-il arrivé de cette manière? A moi, cela m’est arrivé il y a trente-et-un ans et je n’ai plus jamais été le même, depuis lors! Il me dit: *“Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos*!”. Cela m’a changé!
+118 Quand vous entendez la Voix de Dieu vous parler, quelque chose se passe! Amen! Oh, cela vous est-il arrivé de cette manière? A moi, cela m’est arrivé il y a trente-et-un ans et je n’ai plus jamais été le même, depuis lors! Il me dit: *“Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos!”.* Cela m’a changé!
 
 119 Jean dit:
 
@@ -359,13 +359,13 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 128 Ecoutez attentivement. Bien! *“Dès lors, Jésus commença…”.* Je veux prendre un autre verset, le verset 28, parce que vous pourrez lire les autres versets chez vous. *“Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront point qu’ils n’aient vu le Fils de l’homme venir dans son règne”.*
 
-129 Oh, pensez à cela! *“Quelques-uns de ceux qui sont ici, ne mourront point qu’ils n’aient vu le Fils de l’homme venir dans Son règne*”. Quelle déclaration! Comme les critiques aiment à relever ce verset et montrer combien il est illogique! Comme ils aiment à s’emparer de cela! Mais cela est arrivé, et ils n’y ont rien vu! Bien!
+129 Oh, pensez à cela! *“Quelques-uns de ceux qui sont ici, ne mourront point qu’ils n’aient vu le Fils de l’homme venir dans Son règne”.* Quelle déclaration! Comme les critiques aiment à relever ce verset et montrer combien il est illogique! Comme ils aiment à s’emparer de cela! Mais cela est arrivé, et ils n’y ont rien vu! Bien!
 
 130 Après la “confession-rocher” de Pierre… nous savons qu’Il bâtirait Son église sur ce rocher même. Non pas sur Pierre, comme les catholiques Romains essaient de le dire: il n’était qu’un petit caillou. Mais la confession de Pierre sur la Révélation qu’il a eue, c’est cela, l’Eglise. C’est Dieu qui révélera. Il ne s’agit pas de la confession de cet homme, puisque plus tard il Le reniera. Pas non plus la confession que Jésus était le Fils de Dieu: ils savaient qu’Il était le Fils de Dieu, Pierre venait de le dire. Mais ce qu’il y avait, **c’est que la révélation qu’Il était le Fils de Dieu avait été donnée des Cieux**. Jésus dit: “Ce ne sont pas la chair et le sang qui t’ont révélé cela, mais c’est Mon Père qui est dans les Cieux. Et sur ce **rocher**, cette **confession – rocher**, Je bâtirai Mon Eglise, et les portes du séjour des morts ne prévaudront point contre Elle”.
 
 131 J’espère que le temps ne passera pas trop vite, afin que nous puissions bien pénétrer dans cela. Nous voulons voir comment cela coule dans l’être humain. C’est une belle histoire qui a sa place ici même, si seulement nous pouvons l’étudier. Bien! La confession-rocher, ce que Pierre était… Il bâtirait Son Eglise sur la confession de Pierre. Il dit: “Quelques-uns de ceux qui sont ici ne mourront point qu’ils n’aient vu le Fils de Dieu venir dans Son règne”.
 
-132 Pensez bien à ceci: Il a dit: “Quelques-uns”, c’était plus qu’une seul, n’est-ce pas? “Quelques-uns”, ce serait *plusieurs, plus qu’un seul*. Pensez à ceci: tous Ses disciples se tenaient là, et Il demanda à chacun d’eux: “Que penses-tu de ceci? Que penses-tu de cela?”. Mais Il dit: “Quelques-uns de ceux qui sont ici ne mourront point qu’ils n’aient vu le Fils de l’homme venir dans Son Règne”. Oh, quelle déclaration! Pensez qu’il y a deux mille ans que cela a été dit! C’est vrai!
+132 Pensez bien à ceci: Il a dit: “Quelques-uns”, c’était plus qu’une seul, n’est-ce pas? “Quelques-uns”, ce serait *plusieurs, plus qu’un seul.* Pensez à ceci: tous Ses disciples se tenaient là, et Il demanda à chacun d’eux: “Que penses-tu de ceci? Que penses-tu de cela?”. Mais Il dit: “Quelques-uns de ceux qui sont ici ne mourront point qu’ils n’aient vu le Fils de l’homme venir dans Son Règne”. Oh, quelle déclaration! Pensez qu’il y a deux mille ans que cela a été dit! C’est vrai!
 
 133 La Parole de Dieu est-elle infaillible? — Toute Parole qu’Il a dite s’accomplira.
 
@@ -405,7 +405,7 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 150 Oh, cette Voix! Ce soir, parlons de cette Voix! J’ai quelques versets notés ici. Prenons 1 Thessaloniciens 4 et écoutez ce que cette Voix s’apprête à dire. Nous savons tous ce qu’Elle va dire avant même que nous lisions, n’est-ce pas? Nous savons ce qui va arriver. “La trompette de Dieu sonnera et les morts en Christ ressusciteront”. Est-ce bien cela? Lisons 1 Thessaloniciens 4.16 et 17. “La Voix”. Cette Voix était la Voix de Christ. Est-ce exact? La Voix de Christ! *“Car le Seigneur lui-même, à un signal donné, à la voix d’un archange, et au son de la trompette de Dieu, descendra du ciel, et les morts en Christ ressusciteront premièrement. Ensuite, nous les vivants, qui seront restés, nous serons tous ensemble enlevés avec eux sur les nuées à la rencontre du Seigneur dans les airs, et ainsi nous serons toujours avec le Seigneur!”.*
 
-151 La Voix même qui ordonna à Jean de monter, qui lui dit: *“Monte ici*” est la Voix qui appellera un jour l’Eglise. Amen! C’est Elle qui appellera l’Eglise!
+151 La Voix même qui ordonna à Jean de monter, qui lui dit: *“Monte ici”* est la Voix qui appellera un jour l’Eglise. Amen! C’est Elle qui appellera l’Eglise!
 
 152 La Voix qui ordonna à Jean de monter est la même qui ordonna à Lazare de sortir du tombeau: c’est la Voix de l’archange. Christ est la Voix de l’archange. Oh, cette trompette de la Voix de Christ qui ordonna à Jean de monter! C’est la même Voix qui fit sortir Lazare. Avez-vous noté que devant le tombeau de Lazare, Jésus parla d’une voix *forte*? Il ne dit pas: “Lazare… sors…” mais: **“LAZARE, SORS!”**. Cette Voix l’appela d’entre les morts.
 
@@ -423,9 +423,9 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 159 C’est la même chose ce soir quand une Voix retentit clairement, disant: “Pécheur, repens-toi et Je te donnerai la Vie Eternelle! Repentez-vous, chacun de vous, et soyez baptisés au Nom de Jésus-Christ pour la rémission de vos péchés, et vous recevrez le don du Saint-Esprit”. C’est l’ordre. Il n’y a rien de confus là-dedans!
 
-160 Je suis témoin que c’est la vérité. Et il y en a d’autres! Aujourd’hui, dans le monde entier, des millions sont témoins que c’est la Vérité. Quand la Bible, la Parole de Dieu, vient, chaque Parole de Dieu est une trompette, la trompette de l’Evangile! Et quand Elle retentit, c’est la Vérité. Quand Elle dit: *“Jésus-Christ est le même hier, aujourd’hui et éternellement*”, il n’y a rien de confus! Il est le Même. C’est certain!
+160 Je suis témoin que c’est la vérité. Et il y en a d’autres! Aujourd’hui, dans le monde entier, des millions sont témoins que c’est la Vérité. Quand la Bible, la Parole de Dieu, vient, chaque Parole de Dieu est une trompette, la trompette de l’Evangile! Et quand Elle retentit, c’est la Vérité. Quand Elle dit: *“Jésus-Christ est le même hier, aujourd’hui et éternellement”,* il n’y a rien de confus! Il est le Même. C’est certain!
 
-161 *“Repentez-vous, et que chacun de vous soit baptisé au nom de Jésus-Christ pour le pardon de vos péchés, et vous recevrez le don du Saint-Esprit*”. Il n’y a rien de confus!
+161 *“Repentez-vous, et que chacun de vous soit baptisé au nom de Jésus-Christ pour le pardon de vos péchés, et vous recevrez le don du Saint-Esprit”.* Il n’y a rien de confus!
 
 162 “Celui qui entend Mes Paroles et qui croit en Celui qui M’a envoyé a la Vie Eternelle. Celui qui croit en Moi vivra, quand même il serait mort. Celui qui vit et croit en Moi ne mourra jamais. Crois-tu cela?”. Il n’y a là rien de confus: Il vivra!
 
@@ -466,11 +466,11 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 177 C’est le moment où commence le jugement. On montre à Jean ce qui va se passer après les âges de l’Eglise. Vous comprenez?
 
-178 Voyons encore ce verset 2: *“Et voici, un trône était placé dans le ciel, et sur le trône, quelqu’un était assis*”. Ce même Esprit qui était sur la terre la quitta et entra dans la Gloire. Ce même Jésus qui est avec nous ici ce soir sur Son trône de grâce est entré dans la Gloire et est assis sur le trône.
+178 Voyons encore ce verset 2: *“Et voici, un trône était placé dans le ciel, et sur le trône, quelqu’un était assis”.* Ce même Esprit qui était sur la terre la quitta et entra dans la Gloire. Ce même Jésus qui est avec nous ici ce soir sur Son trône de grâce est entré dans la Gloire et est assis sur le trône.
 
 > *“… et celui qui était assis là, à le voir, semblable à une pierre de jaspe et de sardius; et autour du trône, un arc-en-ciel, à le voir, semblable à une émeraude”.*
 
-179 Je vais bientôt terminer, car il y a d’autres frères qui vont prêcher. Je pourrais peut-être continuer demain matin, par exemple sur ceci: *“Semblable à une émeraude*”. Oh!
+179 Je vais bientôt terminer, car il y a d’autres frères qui vont prêcher. Je pourrais peut-être continuer demain matin, par exemple sur ceci: *“Semblable à une émeraude”.* Oh!
 
 > Presque partout, il y a des gens  
 > Dont le coeur est enflammé  
@@ -489,7 +489,7 @@ Elle lui répondit: «C’est vrai, monsieur!».
 
 183 Tandis qu’ils parlaient encore, une Voix se fit entendre et dit: “Celui-ci est Mon Fils bien-aimé, écoutez-Le!”. Lorsqu’ils regardèrent, ils ne virent plus que Jésus: tout s’était fondu en Un. Oh, Il était la Lumière, la Vérité, le Chemin, la Porte, l’Arc-en-ciel.
 
-184 Demain, nous aurons une belle leçon, si le Seigneur le veut. Demain, nous étudierons *“le Jugement*”; nous verrons ce que représente *la pierre de sardoine*, quel est son rôle. Nous verrons *la pierre de jaspe* et toutes les autres pierres, et nous remonterons jusqu’à Ezéchiel et jusqu’à la Genèse; puis nous redescendrons jusqu’à l’Apocalypse, passant d’un bout à l’autre de la Bible, reliant le tout, ces pierres, ces diverses couleurs, etc. Alors nous le rapporterons à cela et nous verrons si ce n’est pas ainsi. Vous voyez? Nous verrons si ce n’est pas la même couleur, etc., exactement la même chose. C’est le même Saint-Esprit, le même Dieu qui montre les mêmes signes, les mêmes prodiges, faisant exactement ce qu’Il avait promis.
+184 Demain, nous aurons une belle leçon, si le Seigneur le veut. Demain, nous étudierons *“le Jugement”;* nous verrons ce que représente *la pierre de sardoine,* quel est son rôle. Nous verrons *la pierre de jaspe* et toutes les autres pierres, et nous remonterons jusqu’à Ezéchiel et jusqu’à la Genèse; puis nous redescendrons jusqu’à l’Apocalypse, passant d’un bout à l’autre de la Bible, reliant le tout, ces pierres, ces diverses couleurs, etc. Alors nous le rapporterons à cela et nous verrons si ce n’est pas ainsi. Vous voyez? Nous verrons si ce n’est pas la même couleur, etc., exactement la même chose. C’est le même Saint-Esprit, le même Dieu qui montre les mêmes signes, les mêmes prodiges, faisant exactement ce qu’Il avait promis.
 
 185 Il dit à Pierre, Jacques et Jean et à ceux qui se trouvaient là, à tous Ses disciples: *“Quelques-uns d’entre vous ne mourront pas qu’ils n’aient vu le Fils de l’homme venir dans Son Royaume”.*
 

@@ -60,7 +60,7 @@ Père céleste, nous Te sommes reconnaissants de pouvoir nous rassembler encore 
 
 Nous nous rassemblons comme les Hébreux qui sortaient tôt le matin pour recueillir la manne qui leur avait été dispensée pendant la nuit afin de les restaurer pour la journée qui s’annonçait. Nous nous réunissons ce matin pour recueillir la Manne spirituelle qui nous donnera la force de continuer notre voyage.
 
-Seigneur, Tu connais tous les besoins qui sont présentés dans ces mains qui se sont levées. Et je joins ma prière à la leur afin que tu pourvoies à tous leurs besoins. Guéris les malades et les affligés, Seigneur. Nous savons que Tu es Dieu et que Tu peux faire toutes choses et que Tu as promis de le faire si nous pouvons simplement faire comme nous le montre ce cantique: *Crois seulement*! Comme nous l’avons entendu dans ces paroles glorieuses: *Marche avec le Roi et parle-Lui!*
+Seigneur, Tu connais tous les besoins qui sont présentés dans ces mains qui se sont levées. Et je joins ma prière à la leur afin que tu pourvoies à tous leurs besoins. Guéris les malades et les affligés, Seigneur. Nous savons que Tu es Dieu et que Tu peux faire toutes choses et que Tu as promis de le faire si nous pouvons simplement faire comme nous le montre ce cantique: *Crois seulement!* Comme nous l’avons entendu dans ces paroles glorieuses: *Marche avec le Roi et parle-Lui!*
 
 Maintenant, Père, bénis Ta Parole tandis que nous L’annonçons ce matin. Qu’Elle puisse trouver un lieu où demeurer dans notre coeur afin qu’Elle puisse nous apporter les choses que nous Te demandons. Nous Te le demandons au Nom du Seigneur Jésus. Amen.
 
@@ -92,11 +92,11 @@ Lorsque vous avez la foi… Peut-être que certains d’entre vous ne comprennen
 
 Et je voudrais aussi dire ceci, c’est que je n’ai jamais vu un groupe de femmes d’apparence aussi pure: elles avaient toutes les cheveux longs. Quand je pense à l’apparence de certaines personnes que j’ai vu sortir du fond de la jungle… je ne crois pas en avoir vu ayant l’air plus moderne (vous savez ce que je veux dire), maquillées et tout le reste! Peut-être que je ne suis pas d’accord avec tout ce qu’enseignent ces Pentecôtistes, mais pour cela, je suis entièrement d’accord avec eux! Pour moi, ces Pentecôtistes avaient vraiment l’apparence de chrétiens.
 
-Hier ou avant-hier, le Seigneur me conduisit à parler sur ce sujet: *Juste une fois encore, Seigneur*. Peut-être que certains n’ont pas compris que j’ai parlé là-dessus exprès, parce que le Seigneur m’y avait conduit. Ce petit groupe était en train de glisser dans quelque chose, mais le Seigneur avait pourvu à cela.
+Hier ou avant-hier, le Seigneur me conduisit à parler sur ce sujet: *Juste une fois encore, Seigneur.* Peut-être que certains n’ont pas compris que j’ai parlé là-dessus exprès, parce que le Seigneur m’y avait conduit. Ce petit groupe était en train de glisser dans quelque chose, mais le Seigneur avait pourvu à cela.
 
 C’était tout simplement merveilleux! Vous savez comme les choses se passent. Si vous n’avez pas la vision spirituelle, vous n’y voyez rien du tout. Il faut que nous nous attendions à ces choses.
 
-Au moment où j’entrai, le frère Ungreen était en train de chanter. C’est peut-être la deuxième fois que je l’entends chanter. Il chantait: *Je marche avec le Roi et je parle avec Lui*. Je pensai: «N’est-ce pas beau? marcher avec le Roi et parler avec Lui, cela signifie une communion constante! Pas seulement dans une église, mais en tout lieu: marcher et causer avec le Roi!».
+Au moment où j’entrai, le frère Ungreen était en train de chanter. C’est peut-être la deuxième fois que je l’entends chanter. Il chantait: *Je marche avec le Roi et je parle avec Lui.* Je pensai: «N’est-ce pas beau? marcher avec le Roi et parler avec Lui, cela signifie une communion constante! Pas seulement dans une église, mais en tout lieu: marcher et causer avec le Roi!».
 
 Regardez là sur la paroi: il y a une carte et une petite peinture faite par un homme nommé George Todd. Il l’a peinte pour moi. Je ne sais pas pourquoi il a fait cela. Peut-être qu’il ne s’est pas lui-même posé la question. Il a peint un paysage. Une montagne apparaît au loin derrière une forêt; un petit ruisseau coule en murmurant; sur la rive de l’autre côté se tiennent une daine et son faon, l’oreille dressée, regardant de ce côté-ci du ruisseau. Je ne sais pas si monsieur Todd est ici; je ne le connais pas. Mais je voudrais dire ceci: le Seigneur m’a parlé quand j’ai regardé cette peinture. Peut-être que cet homme ne savait pas ces choses lorsqu’il fit cette peinture.
 
@@ -168,7 +168,7 @@ Avez-vous remarqué cela? “Je suis descendu… Je t’enverrai…”. Dieu all
 
 Je ne l’avais pas remarqué mais, me sentant profondément inspiré par l’Esprit ce matin, je viens de le comprendre. Dieu a ramené Son serviteur dans le lieu d’où il s’était enfui et lui a donné comme signe une montagne. Je ne l’avais jamais remarqué jusqu’à présent! Ce sera un signe éternel pour toi! Vous comprenez?
 
-Ce matin, nous parlerons du *Troisième exode du peuple de Dieu*, de *l’appel du peuple de Dieu à sortir. Exode* signifie *conduit hors de, appelé hors de, emporté hors de*. Je voudrais utiliser ce texte comme sujet pour parler du *troisième exode du peuple de Dieu.*
+Ce matin, nous parlerons du *Troisième exode du peuple de Dieu,* de *l’appel du peuple de Dieu à sortir. Exode* signifie *conduit hors de, appelé hors de, emporté hors de.* Je voudrais utiliser ce texte comme sujet pour parler du *troisième exode du peuple de Dieu.*
 
 Bien entendu, ils ont eu beaucoup d’exodes, mais je veux parler du temps que Dieu a appelé un exode, c’est-à-dire une séparation d’avec le lieu où ils étaient alors.
 
@@ -286,7 +286,7 @@ Nous devons rester dans la Parole. Le commandement de Dieu était qu’il ne fal
 
 Acan pensa qu’il pouvait prendre ce lingot d’or et ce manteau babylonien et vivre tranquillement comme le reste du monde. Oh, tous ces Acan qu’il y a dans le camp! Mais ces objets sont maudits et restent maudits! La malédiction est entrée dans le camp depuis le concile de Nicée. Elle y est restée depuis lors, mais Dieu laisse l’iniquité des Amoréens arriver à son comble.
 
-Maintenant, si vous avez l’entendement spirituel (vous remarquez que je parle tout le temps *d’entendement spirituel*), vous pouvez voir que l’iniquité de cette nation est arrivée à son comble. Elle s’est organisée, organisée, organisée, réorganisée, et maintenant elle s’associe et se joint à quelque chose d’autre. L’iniquité est arrivée à son comble!
+Maintenant, si vous avez l’entendement spirituel (vous remarquez que je parle tout le temps *d’entendement spirituel),* vous pouvez voir que l’iniquité de cette nation est arrivée à son comble. Elle s’est organisée, organisée, organisée, réorganisée, et maintenant elle s’associe et se joint à quelque chose d’autre. L’iniquité est arrivée à son comble!
 
 C’est le moment de l’exode. C’est le moment de partir pour la Terre Promise. Non pas la promesse d’aller simplement dans un autre pays, mais à la maison, dans le millénium. C’est le moment de sortir de l’iniquité de cette nation. J’insisterai particulièrement là-dessus ce soir, si le Seigneur le permet. L’iniquité est arrivée à son comble! Elle est souillée!
 
@@ -382,7 +382,7 @@ Vous connaissez le vieux dicton: «Celui qui est né démocrate du Sud mourra d�
 
 J’aimerais être le juge dans ce cas. Tuer un homme qui rentre à la maison vers sa femme et ses enfants!… C’est un citoyen, il a le droit de soutenir la cause qu’il croit être la bonne. C’était un brave homme.
 
-J’ai vu la photo dans le *Life*. On voyait ce petit garçon pleurant la mort de son papa. Dire qu’un renégat quelconque l’a frappé par derrière dans un guet-apens! C’est à cela qu’on arrive quand on rejette Christ. C’est vrai! C’est vers cela que la nation tout entière se dirige avec sa politique. C’est une honte, mais nous l’avons voulu! Nous l’avons prouvé dans ces élections.
+J’ai vu la photo dans le *Life.* On voyait ce petit garçon pleurant la mort de son papa. Dire qu’un renégat quelconque l’a frappé par derrière dans un guet-apens! C’est à cela qu’on arrive quand on rejette Christ. C’est vrai! C’est vers cela que la nation tout entière se dirige avec sa politique. C’est une honte, mais nous l’avons voulu! Nous l’avons prouvé dans ces élections.
 
 Ce matin, mon fils m’a demandé: «Papa, ces pèlerins, lorsqu’ils arrivèrent ici, est-ce qu’ils appartenaient tous à telle et telle dénomination? Ils avaient tous de ces longs vêtements!».
 
@@ -512,7 +512,7 @@ Avant que Dieu pût mettre Son Eglise en ordre, elle dut attendre dix jours et d
 
 Remarquez que c’est l’incrédule, celui qui est infidèle à la Parole de Dieu, qui ne prend pas garde à ce que dit la Parole mais qui s’attache à ses propres raisonnements. C’est ce que fit Eve au commencement. Elle se fia à ses raisonnements.
 
-Satan dit: “Réfléchis un peu: n’est-ce pas raisonnable? Je sais que la Parole dit *ceci*, mais n’est-ce pas raisonnable de penser qu’il vaudrait mieux pour vous savoir discerner entre le bien et le mal?”.
+Satan dit: “Réfléchis un peu: n’est-ce pas raisonnable? Je sais que la Parole dit *ceci,* mais n’est-ce pas raisonnable de penser qu’il vaudrait mieux pour vous savoir discerner entre le bien et le mal?”.
 
 Elle répondit: “Eh bien, je pense que oui!”. Et elle prit du fruit. C’est la voie du raisonnement.
 
@@ -556,7 +556,7 @@ Ensuite on le trouve à Rome. Satan avait déplacé son siège à Rome. Et quell
 
 Aujourd’hui c’est pareil: il est venu sous la forme d’un esprit religieux qui se proclame chrétien, mais qui entraîne nos filles à épouser des garçons catholiques et à leur faire élever leurs enfants dans le Catholicisme afin de briser la puissance de l’autre parti. C’est toujours le même démon! C’est ce démon assis sur sept collines et portant une triple couronne. Il est aussi rusé, intelligent et intellectuel que le serpent; c’est la semence du serpent, ce sont les enfants du serpent. Il utilise les mêmes techniques intellectuelles.
 
-Deux fois déjà il a fait mourir les enfants. Comment a-t-il fait? Remarquez les nombres *deux* et *trois*. Les deux premières fois il a fait mourir les enfants de mort physique. Mais maintenant il prend les enfants pour les faire mourir de mort spirituelle par le moyen des mariages mixtes.
+Deux fois déjà il a fait mourir les enfants. Comment a-t-il fait? Remarquez les nombres *deux* et *trois.* Les deux premières fois il a fait mourir les enfants de mort physique. Mais maintenant il prend les enfants pour les faire mourir de mort spirituelle par le moyen des mariages mixtes.
 
 Daniel n’a-t-il pas prophétisé la même chose avec ce royaume de fer et d’argile où ils mélangeraient les semences pour essayer de briser la puissance du peuple? N’est-ce pas exactement ce qui est en train d’arriver? Ils ont même réussi à introduire un président à eux! Ensuite ils introduiront un cardinal et enfin ils investiront tout le cabinet! Que ferez-vous alors?
 
@@ -654,7 +654,7 @@ Le seul lieu où Il nous rencontre aujourd’hui n’est pas dans les dénominat
 
 Lorsque le temps de l’exode fut venu, Dieu appela un groupe de gens; parmi ce groupe… Je voudrais vous faire remarquer quelque chose. De tout ce groupe, il n’y en eut que deux qui entrèrent dans la terre promise. Quel moyen employa-t-Il pour les conduire là? La politique? L’organisation? Non! Il choisit un prophète et lui donna le signe surnaturel de la colonne de feu afin que le peuple ne se trompe pas. Ce que disait le prophète était la vérité. Dieu descendit dans une colonne de feu et Se confirma en manifestant Sa Parole. N’est-ce pas vrai?
 
-C’est ainsi qu’Il prépara un premier exode. Le deuxième exode… Dieu fait toujours les choses par *trois*. Il est parfait dans le nombre *trois*. Vous avez pu remarquer que dans ma prédication je parle toujours des nombres *trois* et *sept. Sept* montre que quelque chose est complet. Trois est le nombre de Sa perfection. Il y a *le premier, le deuxième et le troisième pull* et tout le reste. Justification, sanctification et baptême du Saint-Esprit; Père, Fils et Saint-Esprit et ainsi de suite.
+C’est ainsi qu’Il prépara un premier exode. Le deuxième exode… Dieu fait toujours les choses par *trois.* Il est parfait dans le nombre *trois.* Vous avez pu remarquer que dans ma prédication je parle toujours des nombres *trois* et *sept. Sept* montre que quelque chose est complet. Trois est le nombre de Sa perfection. Il y a *le premier, le deuxième et le troisième pull* et tout le reste. Justification, sanctification et baptême du Saint-Esprit; Père, Fils et Saint-Esprit et ainsi de suite.
 
 Remarquons d’abord comment eut lieu le PREMIER EXODE. Il envoya un prophète oint de la colonne de feu et Il appela le peuple au-dehors. Ce fut le premier exode. Lorsque le temps d’Israël fut achevé, Il envoya de nouveau un Dieu-prophète avec une colonne de feu. Jean la vit descendre du Ciel semblable à une colombe. Et Jésus dit: “Je viens de Dieu et Je retourne à Dieu”.
 
@@ -731,9 +731,9 @@ Nous sommes dans un exode. Nous allons arrêter cet enregistrement dans un momen
 
 Car tous ceux qui seront laissés en arrière porteront la marque de la bête. Sortez de Babylone! Sortez de cette confusion! Sortez de ces systèmes et servez le Dieu vivant. Laissez venir ce glorieux Ange de l’alliance, Jésus-Christ, qui est venu en forme de Dieu; Il n’a pas considéré comme une proie à arracher de devenir égal à Dieu. Aujourd’hui, Il est la même colonne de feu que celle qui conduisit autrefois le PREMIER EXODE puis le DEUXIEME EXODE. Le voici en train de conduire le TROISIEME EXODE.
 
-Que fit-Il lors du PREMIER EXODE? Il les fit sortir d’un pays *naturel* pour les conduire dans un pays *naturel*. Dans le DEUXIEME EXODE, Il les fit sortir d’un état *spirituel* pour les conduire dans un baptême *spirituel*, celui du Saint-Esprit. Aujourd’hui Il les conduit du baptême *spirituel* du Saint-Esprit pour les faire retourner dans le pays éternel du milllénium et du glorieux futur. C’est la même colonne de feu qui agit par le même système oint, le même Dieu faisant les mêmes choses. La Parole qui a annoncé le deuxième exode est La même que Celle qui a annoncé le premier, et c’est encore la même Parole qui nous a annoncé le troisième exode, et nous le voyons manifesté parmi nous.
+Que fit-Il lors du PREMIER EXODE? Il les fit sortir d’un pays *naturel* pour les conduire dans un pays *naturel.* Dans le DEUXIEME EXODE, Il les fit sortir d’un état *spirituel* pour les conduire dans un baptême *spirituel,* celui du Saint-Esprit. Aujourd’hui Il les conduit du baptême *spirituel* du Saint-Esprit pour les faire retourner dans le pays éternel du milllénium et du glorieux futur. C’est la même colonne de feu qui agit par le même système oint, le même Dieu faisant les mêmes choses. La Parole qui a annoncé le deuxième exode est La même que Celle qui a annoncé le premier, et c’est encore la même Parole qui nous a annoncé le troisième exode, et nous le voyons manifesté parmi nous.
 
-SORTEZ! Oh, sortez de ce chaos! Venez au Dieu vivant! Venez à la Parole! — *“La Parole a été faite chair et elle a habité parmi nous*…”. Aujourd’hui Elle habite parmi nous dans notre chair. Sortez pour venir servir le Dieu vivant tandis que nous inclinons nos têtes.
+SORTEZ! Oh, sortez de ce chaos! Venez au Dieu vivant! Venez à la Parole! — *“La Parole a été faite chair et elle a habité parmi nous…”.* Aujourd’hui Elle habite parmi nous dans notre chair. Sortez pour venir servir le Dieu vivant tandis que nous inclinons nos têtes.
 
 [Quelqu’un donne une prophétie dans l’assemblée — N.d.R.]
 

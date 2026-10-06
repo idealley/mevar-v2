@@ -90,7 +90,7 @@ Ce sont réellement les élus de Dieu, les vierges sages, appelés à devenir l�
 
 Vivre sous l’onction de l’Esprit, c’est réellement la mise en pratique dans notre vie du Message de la Parole de Dieu révélée par l’Esprit dans notre génération. Celle-ci se fait selon toutes les choses qui ont été ordonnées bibliquement dans l’Eglise de Christ par les différents ministères établis par Son Esprit. C’est seulement par Sa présence en nous que nous pourrons accomplir le dessein d’une Epouse parfaite selon qu’il est écrit dans Ephésiens 5.25-27: *“… comme Christ a aimé l’Eglise, et s’est livré lui-même pour elle, afin de la sanctifier par la parole, après l’avoir purifiée par le baptême d’eau, afin de faire paraître devant lui **cette Eglise glorieuse, sans tache, ni ride, ni rien de semblable, mais sainte et irrépréhensible**”*.
 
-Les noces de l’Agneau sont proches et *“Réjouissons-nous et soyons dans l’allégresse, et donnons-lui gloire; **car les noces de l’agneau sont venues**, et **son épouse s’est préparée**, et il lui a été donné de se revêtir d’un fin lin, éclatant, pur. Car le fin lin, **ce sont les oeuvres justes des saints**”* (Apoc. 19.7,8).
+Les noces de l’Agneau sont proches et *“Réjouissons-nous et soyons dans l’allégresse, et donnons-lui gloire; **car les noces de l’agneau sont venues,** et **son épouse s’est préparée**, et il lui a été donné de se revêtir d’un fin lin, éclatant, pur. Car le fin lin, **ce sont les oeuvres justes des saints**”* (Apoc. 19.7,8).
 
 *“Celui qui sème pour sa chair moissonnera de la chair la corruption; **mais celui qui sème pour l’Esprit moissonnera de l’Esprit la vie éternelle**. Ne nous lassons pas de faire le bien; car nous moissonnerons au temps convenable, si nous ne nous relâchons pas. Ainsi donc, pendant que nous en avons l’occasion, **pratiquons le bien envers tous, et surtout envers les frères en la foi**”* (Gal. 6.8-10).
 
@@ -104,7 +104,7 @@ Les noces de l’Agneau sont proches et *“Réjouissons-nous et soyons dans l�
 
 *“**Et l’Esprit et l’épouse disent: Viens. Et que celui qui entend dise: Viens.** Et que celui qui a soif vienne; que celui qui veut, **prenne de l’eau de la vie, gratuitement**”* (Apoc. 22.17).
 
-*“Celui qui atteste ces choses dit: **Oui, je viens bientôt. Amen! Viens, Seigneur Jésus**! Que la grâce du Seigneur Jésus soit avec tous!”* (Apoc. 22.20,21).
+*“Celui qui atteste ces choses dit: **Oui, je viens bientôt. Amen! Viens, Seigneur Jésus!** Que la grâce du Seigneur Jésus soit avec tous!”* (Apoc. 22.20,21).
 
 Liens des divers écrits pour celui qui désire approfondir les différents thèmes de l’exhortation:  
   

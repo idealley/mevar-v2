@@ -132,7 +132,7 @@ C’est comme si vous allez chez le médecin, que vous receviez un médicament e
 
 Comment pouvons-nous savoir si, aujourd’hui, l’instant de votre décision ne va pas déterminer votre destinée éternelle? **Prenez-Le au moment même où Il vous Le tend!**
 
-Un signe… *“Le sang vous servira de signe*…”. Mais, pour commencer, qu’est-ce qu’un *signe*? [Le mot anglais pour «signe» est «token», qui peut avoir le sens indiqué ci-dessous — N.d.T.]. Je vous enseigne que ce mot décrit quelque chose qui nous indique **que le prix** de quelque chose **a été payé** (comme le prix d’un billet de chemin de fer).
+Un signe… *“Le sang vous servira de signe…”.* Mais, pour commencer, qu’est-ce qu’un *signe*? [Le mot anglais pour «signe» est «token», qui peut avoir le sens indiqué ci-dessous — N.d.T.]. Je vous enseigne que ce mot décrit quelque chose qui nous indique **que le prix** de quelque chose **a été payé** (comme le prix d’un billet de chemin de fer).
 
 Quand vous payez votre passage, on vous donne un *signe*. Et ce signe ne peut être utilisé sur rien d’autre que sur une ligne de chemin de fer déterminée. C’est pour la compagnie de chemin de fer, un signe que vous avez payé votre passage. C’est un signe, et vous ne pouvez l’utiliser pour rien d’autre. Il n’est valable sur aucune autre ligne. Il est valable uniquement pour cette ligne-là. **C’est un *signe*.**
 
@@ -232,7 +232,7 @@ Oh! nous vivons dans l’ombre du soir, et la colère est prête à frapper, **e
 
 La vie animale ne pouvait pas revenir. C’est pourquoi le sang devait être appliqué sur la porte, sur le linteau et les poteaux, afin que tous ceux qui passeraient par là puissent voir qu’il y avait un signe sur cette porte. Amen!
 
-**C’est ainsi qu’il doit en être aujourd’hui de tous les croyants**. Ils doivent être **remplis du Saint-Esprit**, qui est un Signe que le Sang de l’Agneau (la Vie qui était dans l’Agneau), est revenue. Et cette Vie est scellée publiquement, afin que quiconque passant à proximité de vous, parlant avec vous ou étant en relations avec vous, **voie que le Sang a été appliqué, et que le Signe de Vie qui était dans ce Sang est sur vous**. Vous êtes à l’abri de la colère de cette manière seulement, et non pas en étant membre de *ceci* ou de *cela*.
+**C’est ainsi qu’il doit en être aujourd’hui de tous les croyants.** Ils doivent être **remplis du Saint-Esprit**, qui est un Signe que le Sang de l’Agneau (la Vie qui était dans l’Agneau), est revenue. Et cette Vie est scellée publiquement, afin que quiconque passant à proximité de vous, parlant avec vous ou étant en relations avec vous, **voie que le Sang a été appliqué, et que le Signe de Vie qui était dans ce Sang est sur vous**. Vous êtes à l’abri de la colère de cette manière seulement, et non pas en étant membre de *ceci* ou de *cela*.
 
 La vie animale ne pouvait pas venir sur le croyant, parce que c’était un animal, et il montrait seulement **qu’on croyait à la venue d’un Sacrifice parfait**.
 
@@ -286,7 +286,7 @@ Lorsque Pierre et Jean passèrent par la porte appelée la Belle, il y avait là
 
 On leur parlait, tout en sachant qu’ils étaient ignorants et sans instruction, **mais on avait remarqué qu’ils avaient été avec Jésus**. Vous voyez, le Signe était là, et c’est ainsi qu’Il était manifesté.
 
-*“… mais ce que j’ai*…”. Voyant un pauvre frère tombé, couché là, infirme, défiguré, malade… la Vie qui était en Christ était aussi en eux; *“mais ce que j’ai…”.*
+*“… mais ce que j’ai…”.* Voyant un pauvre frère tombé, couché là, infirme, défiguré, malade… la Vie qui était en Christ était aussi en eux; *“mais ce que j’ai…”.*
 
 *“En Mon Nom, vous chasserez les démons”.*
 
@@ -312,9 +312,9 @@ Alors, il leur demanda comment ils avaient été baptisés. Ils n’avaient pas 
 
 Ils avaient été identifiés par leur sacrifice. Et le Saint-Esprit est notre identification. C’est ce qui nous identifie en tant que Chrétiens. Ce n’est pas notre appartenance à telle ou telle église, ce n’est pas notre compréhension de la Bible, ce n’est pas le fait de bien connaître la Bible; c’est le fait de connaître l’Auteur; **cela dépend de la mesure dans laquelle l’Auteur vit en nous**.
 
-C’est lorsque notre nature a disparu. Vous n’êtes plus… Considérez-vous vous-mêmes comme étant morts; **le Signe est ce qui vit en vous**; ce n’est pas votre vie, **c’est la Sienne**. Paul a dit: *“… la Vie par laquelle je vis maintenant*…”. Il vivait maintenant une vie différente de sa vie d’autrefois. *“Ce n’est plus moi qui vis, **c’est Christ qui vit en moi**”.*
+C’est lorsque notre nature a disparu. Vous n’êtes plus… Considérez-vous vous-mêmes comme étant morts; **le Signe est ce qui vit en vous**; ce n’est pas votre vie, **c’est la Sienne**. Paul a dit: *“… la Vie par laquelle je vis maintenant…”.* Il vivait maintenant une vie différente de sa vie d’autrefois. *“Ce n’est plus moi qui vis, **c’est Christ qui vit en moi**”.*
 
-C’est cela, le Signe d’identification que Dieu requiert de nous. — Identifiés avec notre Sacrifice. **La Vie de notre Sauveur en nous, le Saint-Esprit**. Oh, quel **SIGNE POSITIF!** — il ne peut plus y avoir d’autre signe!
+C’est cela, le Signe d’identification que Dieu requiert de nous. — Identifiés avec notre Sacrifice. **La Vie de notre Sauveur en nous, le Saint-Esprit.** Oh, quel **SIGNE POSITIF!** — il ne peut plus y avoir d’autre signe!
 
 Oh, mon Dieu! — Si seulement vous pouviez comprendre cette pensée! Si ce matin **j’avais le pouvoir et les mots pour exprimer et placer dans votre âme**… non pas dans vos oreilles, mais dans votre âme!… Si vous pouviez voir la garantie que cela représente! Cela met en vous une telle paix!
 
@@ -326,7 +326,7 @@ Mais, dans notre cas, c’est le Juge Lui-même qui a pris notre parti. Dieu S�
 
 Lorsqu’Il devint à la fois Juge, Jury et Avocat, Il plaida notre cause. Nous, qui avions été trouvés coupables par Sa propre Loi… **Il vint et prit la place du coupable** dans le sanctuaire. **Il prit son péché. Il le prit sur Lui-même**, mourut, **paya le prix**, versa Son Sang, **et donna Son Signe: Sa propre Vie**.
 
-**Alors, l’affaire est classée pour le croyant. Il n’y a plus de péché**. Oh, mon Dieu, aie pitié d’eux! Si les gens ne peuvent pas voir cela, que l’affaire est classée! *“Celui qui entend mes paroles et qui croit en Celui qui m’a envoyé a la Vie éternelle et ne vient point en jugement, **mais il est passé de la mort à la Vie**”.*
+**Alors, l’affaire est classée pour le croyant. Il n’y a plus de péché.** Oh, mon Dieu, aie pitié d’eux! Si les gens ne peuvent pas voir cela, que l’affaire est classée! *“Celui qui entend mes paroles et qui croit en Celui qui m’a envoyé a la Vie éternelle et ne vient point en jugement, **mais il est passé de la mort à la Vie**”.*
 
 Voilà l’affaire. C’est une affaire classée. Il n’y a même plus d’affaire du tout! Amen!
 
@@ -400,7 +400,7 @@ Vous pourriez chasser les démons, vous pourriez avoir guéri les malades par vo
 
 Vous pourriez être un croyant. Vous pourriez être en chaire et prêcher l’Evangile, *“Plusieurs me diront en ce jour-là: Seigneur, Seigneur, n’avons-nous pas prophétisé par Ton Nom? N’avons-nous pas chassé des démons par Ton Nom?… N’avons-nous pas prêché en Ton Nom?…”* (cela est aussi valable pour les Méthodistes que pour les Baptistes ou les Pentecôtistes). Mais Jésus leur répondra: *“Je ne vous ai jamais connus, retirez-vous de moi, vous qui commettez l’iniquité”.*
 
-Mais *“quand Je verrai le Signe, Je passerai par-dessus vous*”. C’est cela que Dieu exige pour l’heure. **Le Message du soir enseigne à appliquer le Signe.**
+Mais *“quand Je verrai le Signe, Je passerai par-dessus vous”.* C’est cela que Dieu exige pour l’heure. **Le Message du soir enseigne à appliquer le Signe.**
 
 Satan sèmera toutes sortes de contrefaçons, de cérémonies, etc: N’EN TENEZ AUCUN COMPTE! **L’heure du Signe Lui-même est arrivée**, et non plus l’heure d’une contrefaçon, d’un succédané quelconque. L’heure est venue où le Signe Lui-même L’identifie parmi nous, prouvant qu’Il est le même Jésus hier, aujourd’hui et éternellement, et qu’Il est en accord avec la Parole.
 
@@ -436,7 +436,7 @@ Vous pouvez bien être circoncis. Vous pouvez joindre une église et être bapti
 
 Je continuai à parler à ce théologien que j’ai mentionné plus haut. Il me dit: «Billy, Abraham eut foi en Dieu, et cela lui fut imputé à justice. Qu’aurait-il pu faire de plus que croire en Dieu?».
 
-Je répondis: «C’est vrai, monsieur. C’est vrai. Il crut en Dieu. C’est la Bible qui le dit. Vous avez raison. Jusque là, vous avez raison. Aussi longtemps que les espions marchèrent en Canaan, tout était en ordre, mais en arrivant à la frontière, **alors ils abandonnèrent!**». Je lui dis encore: «Vous autres Baptistes, êtes tout-à-fait en règle jusqu’au point où vous êtes allés, **mais avez-vous reçu le Saint-Esprit, après avoir cru?** Rappelez-vous que Dieu a reconnu la foi d’Abraham. Il croyait en Dieu, et cela lui fut imputé à justice. Cela est vrai. Mais ensuite, Dieu lui donna le sceau de la circoncision comme signe. Ce fut un signe, pour lui. Cela ne veut pas dire que la circoncision de sa chair ait eu un rapport quelconque avec son âme, **mais cela fut un signe par lequel Dieu reconnut sa foi**. Et à nous, Il nous donne **le Signe du Saint-Esprit**, nous reconnaissant ainsi comme croyants. Car il est dit: *“Repentez-vous et soyez baptisés au Nom de Jésus-Christ pour la rémission des péchés, et vous recevrez le don du Saint-Esprit. Car la promesse est pour vous*…”». Comprenez-vous cela, maintenant?
+Je répondis: «C’est vrai, monsieur. C’est vrai. Il crut en Dieu. C’est la Bible qui le dit. Vous avez raison. Jusque là, vous avez raison. Aussi longtemps que les espions marchèrent en Canaan, tout était en ordre, mais en arrivant à la frontière, **alors ils abandonnèrent!**». Je lui dis encore: «Vous autres Baptistes, êtes tout-à-fait en règle jusqu’au point où vous êtes allés, **mais avez-vous reçu le Saint-Esprit, après avoir cru?** Rappelez-vous que Dieu a reconnu la foi d’Abraham. Il croyait en Dieu, et cela lui fut imputé à justice. Cela est vrai. Mais ensuite, Dieu lui donna le sceau de la circoncision comme signe. Ce fut un signe, pour lui. Cela ne veut pas dire que la circoncision de sa chair ait eu un rapport quelconque avec son âme, **mais cela fut un signe par lequel Dieu reconnut sa foi**. Et à nous, Il nous donne **le Signe du Saint-Esprit**, nous reconnaissant ainsi comme croyants. Car il est dit: *“Repentez-vous et soyez baptisés au Nom de Jésus-Christ pour la rémission des péchés, et vous recevrez le don du Saint-Esprit. Car la promesse est pour vous…”».* Comprenez-vous cela, maintenant?
 
 Pour les Juifs, peu importait qu’ils pussent prouver leur circoncision, le signe devait être appliqué. Autrement leur alliance restait sans effet. Aujourd’hui, il en va de même. Peu importe ce que vous faites, peu importe que vous puissiez expliquer la Bible (vous pourriez étudier la Bible et être…); vous pourriez dire: «Je suis un croyant», et tout ce que vous voudrez — **mais néanmoins, le Signe est exigé**.
 
@@ -506,7 +506,7 @@ N’imaginez rien. Restez où vous êtes, jusqu’au moment où le Signe est app
 
 Jésus a dit: *“Ces signes accompagneront ceux qui auront cru…”.* — pas les imposteurs, mais les croyants.
 
-Nous voulons ne prendre aucun risque. Nous ne le devons pas! **Le message de l’heure est un signe pour les églises**. C’est un signe pour le monde.
+Nous voulons ne prendre aucun risque. Nous ne le devons pas! **Le message de l’heure est un signe pour les églises.** C’est un signe pour le monde.
 
 Comprenez-vous ces choses? J’espère qu’avec les bandes magnétiques, ils vont faire la même chose dans le monde entier. Le signe de l’heure est là! **Il y a un Signe qui doit être appliqué!** Il n’aurait pu venir à aucun autre moment.
 
@@ -518,11 +518,11 @@ Ensuite, afin d’identifier Son prophète, **Il envoya une colonne de Feu comme
 
 Premièrement, Son prophète vint avec un message. Il S’identifia Lui-même avec Son prophète au milieu de… au moyen de la Colonne de Feu. Ensuite, Il envoya un Signe à l’homme, afin qu’il se plaçât sous le Sang, qu’il acceptât ce substitut; **cette mort qui eut lieu à la place de la sienne**. Alors, le Sang fut un Signe montrant qu’Il vous avait regardé. Vous avez entendu le message, cru à la Colonne de Feu, et accepté **le substitut qu’Il avait établi pour vous**. Et vous étiez placé sous le Sang, sous ce corps chimique de la Vie qui sortit pour vous.
 
-Comme cela est parfait! Vous êtes sous le Sang. **Maintenant, vous êtes sous l’Esprit, sous le Saint-Esprit**. Vous croyez le message du jour. Vous croyez à la puissance, à la Colonne de Feu. Vous croyez cela, et maintenant…
+Comme cela est parfait! Vous êtes sous le Sang. **Maintenant, vous êtes sous l’Esprit, sous le Saint-Esprit.** Vous croyez le message du jour. Vous croyez à la puissance, à la Colonne de Feu. Vous croyez cela, et maintenant…
 
 Mais, vous voyez, croire simplement ne suffit pas. Tourner autour des choses ne suffit pas. **Cela ne fait que vous rendre pire.** *“Car celui qui connaît ce qui est bien et qui ne le fait pas demeure dans le péché!”.*
 
-Ces croyants marginaux… Jésus en a parlé dans Hébreux 6.4-6: *“Car il est impossible que ceux qui ont été une fois éclairés, qui ont goûté le don céleste, qui ont eu part au Saint-Esprit, qui ont goûté la bonne parole de Dieu et les puissances du siècle à venir, et qui sont tombés, soient encore renouvelés et amenés à la repentance, puisqu’ils crucifient pour leur part le Fils de Dieu*…”. Ils méprisent l’alliance du Sang, par laquelle ils avaient été sanctifiés. Sanctifiés… **cela n’est pas le Signe**.
+Ces croyants marginaux… Jésus en a parlé dans Hébreux 6.4-6: *“Car il est impossible que ceux qui ont été une fois éclairés, qui ont goûté le don céleste, qui ont eu part au Saint-Esprit, qui ont goûté la bonne parole de Dieu et les puissances du siècle à venir, et qui sont tombés, soient encore renouvelés et amenés à la repentance, puisqu’ils crucifient pour leur part le Fils de Dieu…”.* Ils méprisent l’alliance du Sang, par laquelle ils avaient été sanctifiés. Sanctifiés… **cela n’est pas le Signe**.
 
 Ce n’est pas le Sang qui est le Signe; **le Signe, c’est la Vie**. La Vie ne pouvait pas revenir, parce que c’était une vie animale. Le signe était ce corps chimique. Il fallait que ce fût du vrai sang qui fût appliqué sur la porte; **mais maintenant, il y a le Saint-Esprit**. Nous allons démontrer cela dans un instant.
 
@@ -534,19 +534,19 @@ Il mit la puissance **dans la bouche** de Moïse afin qu’il sortît avec Sa Pa
 
 Ainsi donc, le signe était obligatoire pour tout Israël. Tout Israël devait appliquer le signe — *“Quand Je verrai le signe, Je passerai par-dessus vous”.* Oh, mon Dieu! quelle assurance.
 
-La sortie d’Egypte du peuple d’Israël est un type de la réalité d’aujourd’hui; l’EGYPTE REPRESENTE L’EGLISE. AINSI, L’EPOUSE SORT DE L’EGLISE. **Il y a là quelque chose dont elle doit sortir, et elle doit en sortir**. Ainsi donc, si cela était le type, nous voyons que l’église est en Egypte, dans le monde et dans le péché, **et qu’elle ne s’inquiète pas le moins du monde du Signe**. Elle n’y croit même pas. Mais Israël aimait ce Signe, **car il représentait pour lui le salut**.
+La sortie d’Egypte du peuple d’Israël est un type de la réalité d’aujourd’hui; l’EGYPTE REPRESENTE L’EGLISE. AINSI, L’EPOUSE SORT DE L’EGLISE. **Il y a là quelque chose dont elle doit sortir, et elle doit en sortir.** Ainsi donc, si cela était le type, nous voyons que l’église est en Egypte, dans le monde et dans le péché, **et qu’elle ne s’inquiète pas le moins du monde du Signe**. Elle n’y croit même pas. Mais Israël aimait ce Signe, **car il représentait pour lui le salut**.
 
-Oh, cela devrait nous faire… notre coeur devrait… Oh, Eglise, applique le Signe! Ne l’oublie pas! Pourquoi ne le fais-tu pas? N’attends pas que le soleil soit couché! **Ne te repose ni jour ni nuit! Ne prends aucun risque**! Autrement, cela ne marchera pas! VOUS DEVEZ AVOIR LE SIGNE!
+Oh, cela devrait nous faire… notre coeur devrait… Oh, Eglise, applique le Signe! Ne l’oublie pas! Pourquoi ne le fais-tu pas? N’attends pas que le soleil soit couché! **Ne te repose ni jour ni nuit! Ne prends aucun risque!** Autrement, cela ne marchera pas! VOUS DEVEZ AVOIR LE SIGNE!
 
 Vous pouvez bien dire: «Je crois, oui… Je crois au message!».
 
-C’est très bien! MAIS VOUS DEVEZ AVOIR LE SIGNE! Entends-tu, Branham Tabernacle? VOUS DEVEZ MANIFESTER LE SIGNE! **Sans cela, toute votre foi est vaine**! Vous vivez la vie d’un homme de bien. Vous écoutez ce que dit la Parole. Vous allez à l’église. Vous essayez de vivre selon la Justice. Tout cela est très bien, mais cela n’est pas le plus important.
+C’est très bien! MAIS VOUS DEVEZ AVOIR LE SIGNE! Entends-tu, Branham Tabernacle? VOUS DEVEZ MANIFESTER LE SIGNE! **Sans cela, toute votre foi est vaine!** Vous vivez la vie d’un homme de bien. Vous écoutez ce que dit la Parole. Vous allez à l’église. Vous essayez de vivre selon la Justice. Tout cela est très bien, mais cela n’est pas le plus important.
 
 *“Quand Je verrai le Sang…”.* — c’est cela, le Signe, et le Signe n’est pas… Il voulait voir le corps chimique parce que la vie était sortie du sang. C’était un animal. Mais ensuite, **ce fut Sa propre Vie qui fut dans le Sang**, et le corps chimique n’était qu’un signe de sanctification. **Mais le Signe, c’est la Vie Elle-même.**
 
 Car **sans la circoncision, sans le Signe**, vous n’êtes même pas dans l’alliance. Tout va de pair.
 
-Si vous dites que vous êtes circoncis par la Parole, par Elle seulement, alors vous croirez la Parole. **Si vous croyez la Parole, alors le Signe viendra**. Car Il a dit: *“Repentez-vous, et que chacun de vous soit baptisé au Nom de Jésus-Christ pour la rémission des péchés, et vous recevrez le don du Saint-Esprit”.* Voilà!
+Si vous dites que vous êtes circoncis par la Parole, par Elle seulement, alors vous croirez la Parole. **Si vous croyez la Parole, alors le Signe viendra.** Car Il a dit: *“Repentez-vous, et que chacun de vous soit baptisé au Nom de Jésus-Christ pour la rémission des péchés, et vous recevrez le don du Saint-Esprit”.* Voilà!
 
 Remarquez comment tout a été préparé pour le peuple du pays de la promesse. Remarquez ce qu’Il a fait. Premièrement, Il avait un peuple, pour lequel Il prépara un pays. Il leur avait préparé un pays. Ensuite, Il envoya ce qu’il fallait pour les préparer, afin de pouvoir entrer dans le pays de la promesse. Cela n’était valable **que pour ceux qui étaient prédestinés à entrer dans la terre promise**.
 
@@ -583,13 +583,13 @@ Montrer le Signe! — *“Et je le ressusciterai au dernier jour”.* C’est ce
 
 Le peuple se rassembla au pays de Goshen. Ils étaient prêts. Ils savaient que quelque chose allait se passer. Ils étaient comme… Voyez ce qui se passe, **quand les canards se rassemblent; ils volent tous ensemble**. Les abeilles font la même chose: lorsque tout est prêt, un instinct les rassemble.
 
-**Le Saint-Esprit attire les gens**. Quand le temps de la grande colère de Dieu se rapproche, tous… deux canards sont venus, un mâle et une femelle. Deux oies sont venues, un mâle et une femelle. Ensuite, il y eut deux chevaux, un mâle et une femelle. **Quelque chose les attirait**; ils étaient prédestinés. Le reste périt. Oui! LE RESTE PERIT!
+**Le Saint-Esprit attire les gens.** Quand le temps de la grande colère de Dieu se rapproche, tous… deux canards sont venus, un mâle et une femelle. Deux oies sont venues, un mâle et une femelle. Ensuite, il y eut deux chevaux, un mâle et une femelle. **Quelque chose les attirait**; ils étaient prédestinés. Le reste périt. Oui! LE RESTE PERIT!
 
 Mais ceux qui sentirent en eux cette attraction, **ils savaient que l’arche avait été préparée**. C’était un signe annonçant la prochaine venue de la pluie. Ils savaient que la pluie viendrait. Peu leur importaient les apparences et ce que disaient les autres gens, eux savaient que quelque chose à l’intérieur d’eux-mêmes disait: “Entre! Vite! Entre! **Car c’est le seul endroit où tu trouveras la sécurité**!”. Dieu, en effet, avait préparé un prophète. Il avait envoyé l’arche comme un signe. Il leur dit: “Entrez-y!”. Et lorsque la pluie vint, ils étaient à l’intérieur, deux par deux. Tous les animaux entrèrent, deux par deux, dans l’arche, parce qu’il fallait que… peu importait le reste… Tous ceux qui restèrent hors de l’arche périrent.
 
 Tous ceux qui étaient hors du signe du sang périrent: tous. Tous ceux qui seront **hors du Signe du Saint-Esprit périront**. Peu importe qu’ils soient de fidèles membres d’église… (il y en avait beaucoup aux jours de Noé et aux jours de Moïse), mais ceux qui n’appliquèrent pas le signe du sang périrent.
 
-Ceux qui n’entrèrent pas dans l’arche périrent. **Ceux qui n’entrent pas en Christ** (car Il est l’Arche) … 1 Corinthiens 12.13 nous dit que: *“Nous avons tous en effet été baptisés **dans un seul Esprit**, pour former **un seul corps***…”. Le Corps mystique — non pas l’église — le Corps mystique de Jésus-Christ; dans un seul Esprit, E-S-P-R-I-T, nous sommes tous immergés **dans ce seul Corps**.
+Ceux qui n’entrèrent pas dans l’arche périrent. **Ceux qui n’entrent pas en Christ** (car Il est l’Arche) … 1 Corinthiens 12.13 nous dit que: *“Nous avons tous en effet été baptisés **dans un seul Esprit**, pour former **un seul corps**…”.* Le Corps mystique — non pas l’église — le Corps mystique de Jésus-Christ; dans un seul Esprit, E-S-P-R-I-T, nous sommes tous immergés **dans ce seul Corps**.
 
 Alors, le Signe est sur la porte, **parce que vous êtes en Christ, et que c’est Lui, votre Sacrifice**. C’est Lui qui prit le jugement sur Lui. Et quand Dieu regarde cela, Il ne peut plus rien vous faire.
 
@@ -665,7 +665,7 @@ Remarquez bien qu’ils ne s’étaient pas simplement rassemblés pour *parler*
 
 Pasteur Neville, et vous tous dans cette assemblée, responsables, diacres, frères et soeurs, il est grand temps que nous abandonnions la folie du monde, et tout le reste. Nous avons vu assez de choses maintenant **pour être sûrs que le Signe doit être appliqué**.
 
-Sinon, vous périrez. Sinon, vous devrez périr. Tout est là! Oh, ne vous contentez pas de vous réunir en disant: «Je crois!». — Mettez-vous sous le Signe! **Entrez dans le Signe!** Comment faire cela? — **Par un Esprit, nous sommes baptisés dans le Corps de Jésus-Christ**. Que chacun croie de tout son coeur. Jésus ne portait pas la responsabilité de ceux qui sortaient de dessous le Signe.
+Sinon, vous périrez. Sinon, vous devrez périr. Tout est là! Oh, ne vous contentez pas de vous réunir en disant: «Je crois!». — Mettez-vous sous le Signe! **Entrez dans le Signe!** Comment faire cela? — **Par un Esprit, nous sommes baptisés dans le Corps de Jésus-Christ.** Que chacun croie de tout son coeur. Jésus ne portait pas la responsabilité de ceux qui sortaient de dessous le Signe.
 
 Qui est-ce qui parle?
 
@@ -691,7 +691,7 @@ Tout le monde en parlait: «M. Goldberg, je sais que c’est vraiment la Vérit�
 
 Ensuite, il entendit parler le Pasteur Moïse, qui disait: “… mais il faut se mettre sous le sang, car Dieu a dit: **Le sang vous servira de signe**”.
 
-Et c’est un signe. Peu importe que vous soyez croyant, que vous soyez circoncis (c’est une alliance que Dieu fit avec Abraham; c’est une alliance) — **vous devez vous mettre sous le sang**. Il est un signe. Car Il a dit: *“Quand Je verrai le Sang, Je passerai*…”. Que vous soyez Israélite ou non, que vous fassiez ou non partie d’une dénomination, vous devez vous mettre sous le Sang; que vous soyez Méthodiste, Baptiste, Presbytérien, Pentecôtiste, que vous ne fassiez partie d’aucune dénomination, qui que vous soyez, **cet ordre est valable pour chaque individu**. Vous devez vous placer sous le Sang.
+Et c’est un signe. Peu importe que vous soyez croyant, que vous soyez circoncis (c’est une alliance que Dieu fit avec Abraham; c’est une alliance) — **vous devez vous mettre sous le sang**. Il est un signe. Car Il a dit: *“Quand Je verrai le Sang, Je passerai…”.* Que vous soyez Israélite ou non, que vous fassiez ou non partie d’une dénomination, vous devez vous mettre sous le Sang; que vous soyez Méthodiste, Baptiste, Presbytérien, Pentecôtiste, que vous ne fassiez partie d’aucune dénomination, qui que vous soyez, **cet ordre est valable pour chaque individu**. Vous devez vous placer sous le Sang.
 
 Ne vous contentez pas d’en parler: **recevez-le**. Ecoutez-moi! Ecoutez-moi! Au Nom du Seigneur, écoutez-moi.
 
@@ -709,7 +709,7 @@ Dieu ne prenait aucune responsabilité **en ce qui concerne ceux qui étaient ho
 
 Vous pourrez bien dire: «Seigneur, j’ai fait ceci et cela. J’ai chassé des démons, j’ai prêché l’Evangile!».
 
-— *“Je ne vous ai jamais connus; retirez-vous de moi, vous qui commettez l’iniquité*!”. Il ne reconnaît que le Signe. Entendez-vous ce que je vous dis? Alors, dites: «Amen!». — Bien. Maintenant, vous en êtes responsables.
+— *“Je ne vous ai jamais connus; retirez-vous de moi, vous qui commettez l’iniquité!”.* Il ne reconnaît que le Signe. Entendez-vous ce que je vous dis? Alors, dites: «Amen!». — Bien. Maintenant, vous en êtes responsables.
 
 L’autre jour, j’étais dans les bois avec quelques amis. L’un d’eux me dit: «Voici deux jours que je n’ai même pas pu attraper un écureuil. Que se passe-t-il?».
 
@@ -727,7 +727,7 @@ Vous autres, chrétiens, cherchez votre joie **en Lui**. Prenez votre force **en
 
 Il n’est responsable de personne, quelle que soit cette personne. Il n’en est pas responsable, **en dehors du Signe**. Et rappelez-vous que toute la famille était rassemblée. Oh! vous pouvez bien dire: «Mon père est prédicateur. Mon frère, mon pasteur, etc.…».
 
-Il se peut d’ailleurs que ce soit vrai. Mais vous? Rappelez-vous que vous n’êtes en sécurité nulle part ailleurs que sous le Signe. Si un homme était sous le Signe, mais que son fils se trouvait de l’autre côté de la rue, celui-ci était en danger, et allait périr. Son père, lui, était en sécurité. Si c’était le fils qui était sous le signe, et que son père se trouvait de l’autre côté de la rue, c’est le père qui aurait péri. **Seul, le signe**… *“Quand Je verrai le signe, Je passerai par-dessus vous*…”. **C’est la seule condition.**
+Il se peut d’ailleurs que ce soit vrai. Mais vous? Rappelez-vous que vous n’êtes en sécurité nulle part ailleurs que sous le Signe. Si un homme était sous le Signe, mais que son fils se trouvait de l’autre côté de la rue, celui-ci était en danger, et allait périr. Son père, lui, était en sécurité. Si c’était le fils qui était sous le signe, et que son père se trouvait de l’autre côté de la rue, c’est le père qui aurait péri. **Seul, le signe**… *“Quand Je verrai le signe, Je passerai par-dessus vous…”.* **C’est la seule condition.**
 
 Vous direz: «Mon fils est un prédicateur!»… Vous autres mères, direz: «J’ai le meilleur des fils, la meilleure des filles. Ils sont merveilleux. Ils sont remplis du Saint-Esprit, et il y a en eux un tel amour… Ils sont soumis, je n’ai jamais vu…». **Mais qu’en est-il de vous**, Madame?
 
@@ -765,7 +765,7 @@ C’est ce que beaucoup pensent aujourd’hui. «Oh, Dieu ne fera sûrement pas 
 
 Certains voulurent ces choses. Mais qu’arriva-t-il? Ils furent réduits au silence! «Nous ne voulons pas ici de réunions de réveil!». «Notre dénomination n’accordera pas son appui à ce genre de choses!». «Nous ne voulons pas de ces bêtises au milieu de nous!». «Je défends à aucun de vous d’aller à cette réunion!». Voilà Jéricho bien engagée sur le chemin de la damnation!
 
-Mais il devait y avoir par là quelques-unes de ces personnes, avec leurs bandes magnétiques placées là pour les semences prédestinées. Ils allèrent chez Rahab, et lui firent entendre quelques bandes. Elle fit de sa propre maison une église destinée à recevoir le message. **Le message parvint ainsi, d’une manière ou d’une autre, aux semences prédestinées.** Nous ignorons comment il parvint jusqu’à eux, mais il y parvint, afin que les justes ne mourussent point avec les méchants. **Dieu S’en occupe aujourd’hui**. D’une manière ou d’une autre, le message s’infiltre. On ne sait pas comment, mais bien que les dénominations refusent de l’appuyer, **il parvient aux semences prédestinées**.
+Mais il devait y avoir par là quelques-unes de ces personnes, avec leurs bandes magnétiques placées là pour les semences prédestinées. Ils allèrent chez Rahab, et lui firent entendre quelques bandes. Elle fit de sa propre maison une église destinée à recevoir le message. **Le message parvint ainsi, d’une manière ou d’une autre, aux semences prédestinées.** Nous ignorons comment il parvint jusqu’à eux, mais il y parvint, afin que les justes ne mourussent point avec les méchants. **Dieu S’en occupe aujourd’hui.** D’une manière ou d’une autre, le message s’infiltre. On ne sait pas comment, mais bien que les dénominations refusent de l’appuyer, **il parvient aux semences prédestinées**.
 
 Quiconque a la moindre connaissance de la Bible sait que cette prostituée était prédestinée. Cela est certain! La Bible dit: “Elle ne périt point avec les incrédules”.
 
@@ -795,7 +795,7 @@ Les anges destructeurs parcoururent la cité et détruisirent tout ce qui s’y 
 
 Beaucoup de gens pensent aujourd’hui: «Parce que j’appartiens à l’église, je suis en sécurité». Ne croyez pas un tel non-sens. — **Le Sang sera pour vous un Signe!**
 
-**L’Esprit est maintenant un Signe pour vous — la Vie qui était dans le Sang**. Pensez-y… Le même signe qu’ils avaient en Egypte — le même signe de vie… Dieu utilise ici le même symbole.
+**L’Esprit est maintenant un Signe pour vous — la Vie qui était dans le Sang.** Pensez-y… Le même signe qu’ils avaient en Egypte — le même signe de vie… Dieu utilise ici le même symbole.
 
 Josué, un type parfait de Christ, fut fidèle au signe que ses messagers avaient prêché. Josué dit: “Ne touchez pas à cette maison et à ce qui s’y trouve. **Cela est réservé au Seigneur**!”. Amen!
 
@@ -817,7 +817,7 @@ Ecoutez bien ceci: comprenez-vous cela? En Egypte, tous ceux qui se tinrent sous
 
 Hébreux 13.10-20… Je n’ai pas le temps de le lire. Notez la référence. On l’appelle “l’Alliance Eternelle”. Le Sang de Jésus est appelé “Alliance Eternelle”. Oui! — “Alliance Eternelle”. [On retrouve ici l’utilisation impropre du mot «éternel», auquel on donne la signification suivante: «qui a un commencement, mais pas de fin» (du moins dans la version anglaise), alors que le vrai sens du mot «éternel» est: «qui n’a ni commencement, ni fin». Le terme d’Alliance Eternelle employé plus haut pourrait être rendu par: «Alliance qui n’a pas de fin» — N.d.T.].
 
-Pourquoi n’est-ce pas une Alliance *Eternelle*? Parce qu’elle n’a pas besoin d’être *éternelle*. **Quand nous sommes rachetés, tout est alors terminé**. Elle dure pour toujours, ce qui signifie un certain temps, jusqu’à ce que le temps… Il n’y en aura pas d’autre. **Lorsqu’il n’y aura plus de temps, nous n’aurons plus besoin d’alliance**. Mais jusqu’à ce que le temps arrive à sa fin, nous avons besoin de l’alliance.
+Pourquoi n’est-ce pas une Alliance *Eternelle*? Parce qu’elle n’a pas besoin d’être *éternelle*. **Quand nous sommes rachetés, tout est alors terminé.** Elle dure pour toujours, ce qui signifie un certain temps, jusqu’à ce que le temps… Il n’y en aura pas d’autre. **Lorsqu’il n’y aura plus de temps, nous n’aurons plus besoin d’alliance.** Mais jusqu’à ce que le temps arrive à sa fin, nous avons besoin de l’alliance.
 
 Rappelez-vous Hébreux 13.10-20: une Alliance “Eternelle”. La promesse de Dieu scellée par le Sang nous libère du péché! Amen! Il n’y a plus de péché en eux. Le péché, la chair… adorez-Le, et manifestez Sa puissance. **Le peuple de l’alliance de Dieu**, de l’alliance scellée par le Sang et par le Signe, **a l’Esprit de Jésus-Christ en lui**: *“Celui qui croit en moi fera aussi les oeuvres que Je fais”.*
 
@@ -825,7 +825,7 @@ Manifester l’alliance. Le Nouveau Testament — *Testament* veut dire *Allianc
 
 Le Sang est la Vie! Dans le Nouveau Testament, le Sang est la Vie. **La Vie vient du Sang de l’Agneau**, ce qui signifie que le Nouveau Testament, la Nouvelle Alliance, que Dieu… *“Après ces jours, j’écrirai ma loi sur les tables de chair de leur coeur”.* — non plus sur les tables de pierre et avec le sang des agneaux… Vous pouviez dire: «Oui, j’ai mis le sang là, sur la porte…» — **mais sur les tables de votre coeur**! “Je ferai avec mon peuple l’alliance de l’Esprit”.
 
-**C’est cela qui manifeste Sa puissance**. Dans Jean 14.12 Il dit: *“Celui qui croit en moi fera les oeuvres que je fais”*. Le Nouveau Testament — la Nouvelle Alliance: une Vie nouvelle. Il nous montre que Jésus a accompli pour nous tout ce que Dieu exigeait, **afin de nous rétablir vraiment dans la position de fils et de filles de Dieu** sous le Sang, sous lequel il n’y a plus de condamnation.
+**C’est cela qui manifeste Sa puissance.** Dans Jean 14.12 Il dit: *“Celui qui croit en moi fera les oeuvres que je fais”*. Le Nouveau Testament — la Nouvelle Alliance: une Vie nouvelle. Il nous montre que Jésus a accompli pour nous tout ce que Dieu exigeait, **afin de nous rétablir vraiment dans la position de fils et de filles de Dieu** sous le Sang, sous lequel il n’y a plus de condamnation.
 
 Romains 8.1 dit: *“Il n’y a donc maintenant plus aucune condamnation pour ceux qui sont en Jésus-Christ”.* — non pas pour ceux qui croient, **mais pour ceux qui sont EN Jésus-Christ**, ceux qui ne recherchent pas la chair, **mais l’Esprit**.
 
@@ -847,7 +847,7 @@ Cela, ce n’est pas le Signe! Le Signe, c’est l’Esprit! — l’Esprit de C
 
 Vous savez que la Parole nous promet quelque chose. Il y a tous ces passages… Je pourrais prêcher là-dessus toute la journée. La Parole nous a fait une promesse, parce qu’Elle est la Promesse. **La Parole est la Promesse, et la Parole est Dieu, et la Parole est pour nous.**
 
-Nous devenons la Parole, et la Parole devient nous. *“Si vous demeurez en moi et que mes Paroles demeurent en vous*…”. **Alors, nous devenons tous une grande famille**. Cela nous donne une assurance; et pourquoi? — parce que la Parole fait partie de nous. Elle devient une partie de nous. Quel sujet de prédication! — Bien!… Elle nous donne l’assurance de la Promesse.
+Nous devenons la Parole, et la Parole devient nous. *“Si vous demeurez en moi et que mes Paroles demeurent en vous…”.* **Alors, nous devenons tous une grande famille.** Cela nous donne une assurance; et pourquoi? — parce que la Parole fait partie de nous. Elle devient une partie de nous. Quel sujet de prédication! — Bien!… Elle nous donne l’assurance de la Promesse.
 
 Le Signe nous montre que le prix a été payé, que nous avons été agréés. Or, quand vous allez en train, vous ne pouvez pas recevoir votre billet avant d’avoir payé. Et comment allez-vous le payer? — **Il est simplement payé! C’est vrai! Croyez-le! Acceptez-le!**
 
@@ -859,7 +859,7 @@ Vous ne vous conduisez pas n’importe comment. Vous êtes un Chrétien. Peu imp
 
 Votre âge n’a aucune importance. **Vous êtes affranchi de l’âge: vous êtes dans l’Eternité, parce que vous êtes en Lui.** Il est Eternel. Que vous soyez jeune, vieux, d’âge moyen! Que vous soyez beau, laid, petit, gros… cela n’a aucune importance!
 
-Vous n’allez plus vous amuser et faire ce genre de choses. Vous avez dépassé cela. Vous êtes mort. Votre vie est cachée avec Christ en Dieu. **Vous êtes scellé en Lui par le Saint-Esprit, et vous marchez en Christ**. Christ est la seule chose que vous voyez. C’est vrai. C’est tout ce que vous désirez.
+Vous n’allez plus vous amuser et faire ce genre de choses. Vous avez dépassé cela. Vous êtes mort. Votre vie est cachée avec Christ en Dieu. **Vous êtes scellé en Lui par le Saint-Esprit, et vous marchez en Christ.** Christ est la seule chose que vous voyez. C’est vrai. C’est tout ce que vous désirez.
 
 Il n’est pas étonnant qu’alors, vous chantiez ce cantique:
 
@@ -875,7 +875,7 @@ Vous êtes un message vivant de Jésus-Christ dès le moment où Il exerce toute
 
 Alors, quelque chose va s’ancrer là-bas, et — pfffh!… [Frère Branham émet un sifflement — N.d.R.]
 
-Et cela vous appartient! Alors, tout est terminé. Tout est arrangé. Je demande ceci. Je demande cela. J’en ai besoin pour Ta gloire! — **Alors, Il vous le donne tout simplement, et vous savez que vous l’avez reçu**. C’est ainsi que nous procédons avec nos enfants, etc… Nous appliquons le Sang. Croyez-le! Tout est là!
+Et cela vous appartient! Alors, tout est terminé. Tout est arrangé. Je demande ceci. Je demande cela. J’en ai besoin pour Ta gloire! — **Alors, Il vous le donne tout simplement, et vous savez que vous l’avez reçu.** C’est ainsi que nous procédons avec nos enfants, etc… Nous appliquons le Sang. Croyez-le! Tout est là!
 
 Bien! Et alors, que fait-Il? Lorsque vous pouvez présenter ce Signe avec votre prière, **cela montre que vous vous êtes entièrement soumis à toute la Parole de Dieu**. Quand vous avez reçu le Signe, cela montre que vous avez obéi à chaque Parole, et qu’alors vous et la Parole êtes Un — et ainsi, vous ne faites plus rien d’autre que de demander pour ce que vous êtes.
 
@@ -887,7 +887,7 @@ C’est la raison pour laquelle le Saint-Esprit est donné si parcimonieusement.
 
 Lorsque nous prions, nous devons présenter le Signe. Il montre que nous avons pleinement obéi.
 
-Paul nous dit que c’est le sang qui parle [Hébreux 12.24 — N.d.T.] Nous savons tous que le sang, lui-même, ne peut pas réellement parler. C’est un corps chimique. N’est-ce pas vrai? Combien le savent-ils? Combien savent que le sang parle? Vous pouvez lire quelque chose à ce sujet dans Genèse 4.10. Dieu dit: *“Qu’as-tu fait de ton frère? La voix du sang de ton frère crie de la terre jusqu’à moi*!”. Amen! N’est-ce pas vrai? Son sang criait — Alléluia! Dieu dit: *“Qu’as-tu fait de lui?”.*
+Paul nous dit que c’est le sang qui parle [Hébreux 12.24 — N.d.T.] Nous savons tous que le sang, lui-même, ne peut pas réellement parler. C’est un corps chimique. N’est-ce pas vrai? Combien le savent-ils? Combien savent que le sang parle? Vous pouvez lire quelque chose à ce sujet dans Genèse 4.10. Dieu dit: *“Qu’as-tu fait de ton frère? La voix du sang de ton frère crie de la terre jusqu’à moi!”.* Amen! N’est-ce pas vrai? Son sang criait — Alléluia! Dieu dit: *“Qu’as-tu fait de lui?”.*
 
 Il répondit: *“Suis-je le gardien de mon frère?”.*
 
@@ -943,7 +943,7 @@ Ils se préparèrent. Ils appliquèrent le Signe. Amen! C’est ce qu’il faut 
 
 Si vous voulez lire quelque chose à ce sujet, lisez Ephésiens 2.13. Notez-le, si vous voulez, Ephésiens 2.13: *“Nous ne servons pas des oeuvres mortes, mais un Dieu vivant, par des oeuvres vivantes”.* Amen!
 
-Oh, mon Dieu! **Des oeuvres vivantes, des signes vivants**! Croyez-vous aux signes vivants? Notez aussi Hébreux 9.11-14! Des signes vivants! Des oeuvres vivantes! Appliquez cela! — et non pas des credo morts.
+Oh, mon Dieu! **Des oeuvres vivantes, des signes vivants!** Croyez-vous aux signes vivants? Notez aussi Hébreux 9.11-14! Des signes vivants! Des oeuvres vivantes! Appliquez cela! — et non pas des credo morts.
 
 «Je veux conduire mon garçon à l’église, et l’y faire inscrire…». Un brave garçon, un bon chrétien, un ami, vint ici et fut baptisé. Sa mère lui avait dit: «J’aurais préféré que tu ailles te faire baptiser dans une plus grande église!». — Mais il ne voulait pas de ces vieux credo morts, etc.
 
@@ -971,7 +971,7 @@ Je note tous ces passages, afin de pouvoir les retrouver facilement.
 
 Je suis votre frère. Je ne suis pas quelqu’un de grand et vous quelqu’un de petit. Nous sommes tous petits en Dieu. Nous sommes Ses petits enfants. Nous ne savons rien de ce que nous devrions réellement savoir. Il nous fait connaître ce qu’Il veut bien nous révéler, et nous Lui sommes reconnaissants pour ce qu’Il nous fait connaître de Ses bénédictions.
 
-Et je ne garde pas ces choses pour moi seul. Je désire les partager avec vous. **Je désire que vous y entriez, que vous receviez ce Signe**. Et si vous ne l’avez pas reçu (je sais que la plupart d’entre vous l’avez reçu), si quelqu’un ne l’a pas reçu… (vous comprenez, je parle aussi pour les bandes enregistrées.) Beaucoup d’entre vous… (je ne parle pas pour cette église, **où tous sont sortis du monde, je pense**), mais il y en aura des milliers de milliers qui entendront ces bandes. Cela est un ministère. Il y aura bien quelqu’un qui va se faufiler dans Jéricho avec une bande. C’est pourquoi **nous devons amener à Christ cette semence prédestinée**, quand cette bande ira là-bas, parce que la Colère va venir!
+Et je ne garde pas ces choses pour moi seul. Je désire les partager avec vous. **Je désire que vous y entriez, que vous receviez ce Signe.** Et si vous ne l’avez pas reçu (je sais que la plupart d’entre vous l’avez reçu), si quelqu’un ne l’a pas reçu… (vous comprenez, je parle aussi pour les bandes enregistrées.) Beaucoup d’entre vous… (je ne parle pas pour cette église, **où tous sont sortis du monde, je pense**), mais il y en aura des milliers de milliers qui entendront ces bandes. Cela est un ministère. Il y aura bien quelqu’un qui va se faufiler dans Jéricho avec une bande. C’est pourquoi **nous devons amener à Christ cette semence prédestinée**, quand cette bande ira là-bas, parce que la Colère va venir!
 
 Nous savons que ce Signe est la Présence du Dieu Vivant. Cela nous prouve que Dieu L’a ressuscité selon la Promesse de Sa Parole. *“Encore un peu de temps, et le monde ne me verra plus”.* Jéricho et l’Egypte ne Me verront bientôt plus. Mais vous, vous Me verrez, parce que Je (Je, pronom personnel auquel tout se réfère toujours) serai avec vous! **Je suis le Signe! Ma résurrection est le Signe. Les oeuvres que Je fais M’identifieront en vous.**
 
@@ -1047,9 +1047,9 @@ Si j’écrivais en détail ce que je L’ai vu faire, il n’y aurait pas assez
 
 Il se peut qu’Il ait dû prendre des gens de l’extérieur, mais Il y est arrivé malgré tout. Et Il a eu plus de succès ici qu’a Capernaüm ou Nazareth ou… Il a fait plus de miracles ici, dans ce tabernacle, qu’il n’en a fait partout ailleurs dans le monde. C’est vrai!
 
-Alors, qu’en est-il du reste du monde? Oh, eh bien, voilà ce qu’Il a fait! Ne l’oubliez pas: ce *qu’Il a fait*, et non pas ce que moi j’ai fait; parce que moi, je n’ai rien fait. **Je n’ai fait que L’aimer et me soumettre à Lui, et dire ce qu’Il a dit**. Le Saint-Esprit est aussi descendu sur d’autres personnes; elles ont cru ce qu’Il a dit, et alors, Il a pu accomplir l’oeuvre. C’est tout!
+Alors, qu’en est-il du reste du monde? Oh, eh bien, voilà ce qu’Il a fait! Ne l’oubliez pas: ce *qu’Il a fait*, et non pas ce que moi j’ai fait; parce que moi, je n’ai rien fait. **Je n’ai fait que L’aimer et me soumettre à Lui, et dire ce qu’Il a dit.** Le Saint-Esprit est aussi descendu sur d’autres personnes; elles ont cru ce qu’Il a dit, et alors, Il a pu accomplir l’oeuvre. C’est tout!
 
-S’il peut faire en sorte que nous croyons tous… Que ferait-Il en ce moment-même, s’Il pouvait nous amener tous à croire? **Il n’y aurait plus un seul malade dans tout le pays! — s’Il pouvait nous amener tous à croire**. Tout serait alors terminé.
+S’il peut faire en sorte que nous croyons tous… Que ferait-Il en ce moment-même, s’Il pouvait nous amener tous à croire? **Il n’y aurait plus un seul malade dans tout le pays! — s’Il pouvait nous amener tous à croire.** Tout serait alors terminé.
 
 Déployez votre Signe au-dessus de la foi inébranlable que vous avez en la Promesse de Sa Parole, et alors Satan s’en ira!
 
@@ -1073,7 +1073,7 @@ Ce que Jésus commença en Galilée, Il le continue maintenant en manifestant le
 
 Ils dirent qu’ils remarquèrent Pierre et Jean, alors qu’ils passaient par la Belle Porte. Ils étaient ignorants. Ils auraient pu dire: “Je vais vous dire quelque chose…”. Ils auraient pu être pleins d’une connaissance qu’ils ne comprenaient pas. Ils auraient pu connaître toutes les mathématiques des Saintes Ecritures, mais ce que les gens remarquèrent, c’est qu’ils avaient été avec Jésus. Ils avaient montré le Signe, **parce que l’Esprit qui était maintenant sur eux était le même qui était sur *Lui*, avant Sa crucifixion**. Après la résurrection, cet Esprit était venu sur eux. Amen!
 
-Il fut ainsi manifesté selon ce qui est dit dans Hébreux 13.8: *“Il est le même hier, aujourd’hui et éternellement*!”. C’est pour cela que nous savons qu’Il vit. Comment savons-nous que nous avons la Vie? — Parce qu’Il est vivant! **Et nous savons que si nous vivons, c’est parce que nous sommes semblables à Lui, que nous sommes en Lui.** Il a dit: *“Parce que Je vis, vous vivrez aussi”.* Apocalypse: *“Je suis Celui qui était mort, et voici, Je suis vivant au siècle des siècles!”.*
+Il fut ainsi manifesté selon ce qui est dit dans Hébreux 13.8: *“Il est le même hier, aujourd’hui et éternellement!”.* C’est pour cela que nous savons qu’Il vit. Comment savons-nous que nous avons la Vie? — Parce qu’Il est vivant! **Et nous savons que si nous vivons, c’est parce que nous sommes semblables à Lui, que nous sommes en Lui.** Il a dit: *“Parce que Je vis, vous vivrez aussi”.* Apocalypse: *“Je suis Celui qui était mort, et voici, Je suis vivant au siècle des siècles!”.*
 
 **Si nous mourons à nous-mêmes et que nous devenons vivants en Lui, nous avons la Vie Eternelle.** Alors, Sa Vie est en nous, et Elle se manifeste comme n’importe quelle autre vie. Elle manifeste ce qu’Il est. Et c’est cela qui fait qu’Il est le même hier, aujourd’hui et éternellement.
 
@@ -1101,7 +1101,7 @@ Seigneur, il se peut que je n’aie pas parlé très clairement, mais dans ce ca
 
 Puissent ces gens recevoir le Saint-Esprit, c’est là ma prière, et je Te la présente au Nom de Jésus-Christ. **Et que cela nous soit un Signe pour le restant de nos jours, comme Tu l’as promis.** Il est facile de Te demander cela, parce que Tu as promis qu’il en serait ainsi, et je sais qu’il en sera ainsi. Nous Te le demandons au Nom de Jésus. Amen.
 
-Gardons encore nos têtes inclinées un moment, et ayons la foi! J’ai prié pour vous de tout mon coeur. Je prie avec sincérité, aussi bien que je le peux. Voyez, je suis tout à fait conscient que… comprenez bien ceci. C’est avec le secours de vos dîmes et de vos offrandes que je peux vivre. C’est votre soutien dans cette église qui me permet d’aller prêcher. Il y a votre amour, vos *amen!*, votre communion fraternelle, vos bonnes paroles; tout cela se répand dans le monde, dans les différents états de cette nation. Ce sont vos paroles qui aident à répandre le message. C’est vous. Nous sommes tous participants de cette oeuvre avec Christ. **Nous sommes tous des frères et des soeurs, et Il est notre Roi**. Et je vous aime. Où je suis, j’aimerais que vous soyez aussi.
+Gardons encore nos têtes inclinées un moment, et ayons la foi! J’ai prié pour vous de tout mon coeur. Je prie avec sincérité, aussi bien que je le peux. Voyez, je suis tout à fait conscient que… comprenez bien ceci. C’est avec le secours de vos dîmes et de vos offrandes que je peux vivre. C’est votre soutien dans cette église qui me permet d’aller prêcher. Il y a votre amour, vos *amen!*, votre communion fraternelle, vos bonnes paroles; tout cela se répand dans le monde, dans les différents états de cette nation. Ce sont vos paroles qui aident à répandre le message. C’est vous. Nous sommes tous participants de cette oeuvre avec Christ. **Nous sommes tous des frères et des soeurs, et Il est notre Roi.** Et je vous aime. Où je suis, j’aimerais que vous soyez aussi.
 
 Je parcours tout le pays pour pouvoir vous parler de temps en temps. J’aime vous rencontrer ici le dimanche matin. Je vous aime. Je vous ai toujours aimés. **Quelquefois, je suis obligé de vous parler durement, mais c’est seulement pour que vous vous corrigiez. C’est parce que je vous aime, vous comprenez.**
 
@@ -1128,4 +1128,4 @@ Inclinons nos coeurs devant Dieu. Ecoutez ce que votre pasteur, le frère Nevill
 
 Nous prendrons aussi le Repas du Seigneur, ce soir. Venez, cet après-midi. Restez ici. Ne laissez pas ce message sortir de vous. Rappelez-vous cela! NE LAISSEZ JAMAIS CE MESSAGE SORTIR DE VOUS! Le Sang sera un Signe que vous avez reçu la Vie. *“… Et quand Je verrai le Sang, Je passerai par-dessus vous”.*
 
-**Le Saint-Esprit est un Signe manifestant que le Sang a été appliqué à votre coeur.** Il est le Signe que le Sang a été appliqué. **S’il n’a pas été appliqué, le Signe ne viendra pas**! Si vous le comprenez, dites «Amen!». **Le Sang doit être appliqué, et alors le Signe viendra**. C’est le signe que le Sang de la rédemption a été appliqué, et que le prix a été payé! Que Dieu vous bénisse!
+**Le Saint-Esprit est un Signe manifestant que le Sang a été appliqué à votre coeur.** Il est le Signe que le Sang a été appliqué. **S’il n’a pas été appliqué, le Signe ne viendra pas!** Si vous le comprenez, dites «Amen!». **Le Sang doit être appliqué, et alors le Signe viendra.** C’est le signe que le Sang de la rédemption a été appliqué, et que le prix a été payé! Que Dieu vous bénisse!

@@ -187,7 +187,7 @@ html_url: "http://www.cmpp.ch/serie6no5.htm"
 
 64 Il a conquis les deux, la mort et l’enfer. Il ressuscita le troisième jour disant: **“J’ai vaincu et parce que je vis, vous vivrez aussi”.** Oh, quelle promesse! Elle est pour la Semence d’Abraham. Il a conquis la tombe et ressuscita le troisième jour pour notre justification. Lorsqu’Il ressuscita, Il était notre justification. **Que cela fait-il de nous?** Il a conquis la maladie, Il a conquis la mort. Il a conquis l’enfer. Il a conquis la tombe. Il a conquis la tentation. Oh!
 
-65 Puisque nous sommes la semence royale d’Abraham, nous sommes plus que vainqueurs par Celui qui nous a aimés et qui a donné Sa vie pour nous. **Avec le même Esprit de Dieu en nous, qui était en Lui, nous sommes plus que vainqueurs.** Chaque porte a été conquise pour nous. **La seule chose que nous ayons à faire, c’est de la posséder**. Elle a déjà été conquise. La maladie a été conquise. La mort a été conquise. L’enfer a été conquis. La tombe a été conquise. Toutes choses ont été conquises **et nous tenons les clés par Sa grâce**. Avez-vous peur de les mettre dans la serrure et de dire: «Je viens dans le Nom de Jésus-Christ», “Demandez au Père toutes choses en mon Nom”? Je l’aime!
+65 Puisque nous sommes la semence royale d’Abraham, nous sommes plus que vainqueurs par Celui qui nous a aimés et qui a donné Sa vie pour nous. **Avec le même Esprit de Dieu en nous, qui était en Lui, nous sommes plus que vainqueurs.** Chaque porte a été conquise pour nous. **La seule chose que nous ayons à faire, c’est de la posséder.** Elle a déjà été conquise. La maladie a été conquise. La mort a été conquise. L’enfer a été conquis. La tombe a été conquise. Toutes choses ont été conquises **et nous tenons les clés par Sa grâce**. Avez-vous peur de les mettre dans la serrure et de dire: «Je viens dans le Nom de Jésus-Christ», “Demandez au Père toutes choses en mon Nom”? Je l’aime!
 
 66 Deux mille ans ont passé. Deux mille ans et **Il est toujours là, au milieu de nous, le puissant conquérant**. Lui, qui a déchiré le voile en deux, qui a pris chaque maladie, toutes choses sur Lui, qui a porté nos infirmités et nos maladies à la croix. Il a triomphé d’elles, ressuscita pour notre justification et se tient vivant après deux mille ans, **pour Se manifester Lui-même en tant que Jésus-Christ vivant**, parmi la Semence royale d’Abraham qui sont les héritiers de toutes choses. Oh, mes amis! Ceux qui après être passés au travers du test promis par la Parole, **peuvent croire la Parole**, alors, ils sont aussi de la Semence d’Abraham. C’est de cette façon que vous venez vers Elle.
 
@@ -403,7 +403,7 @@ Auditoire, **est-ce que cela ferait croire?** [L’assemblée dit: «Amen.» —
 
 158 C’est bien. C’est bien. Dieu a promis cela. Mais vous voyez, **nous vivons un peu plus en avant que cela, au jour que Jésus a promis**: “Comme il en était aux jours de Sodome… Les œuvres que je fais, vous les ferez aussi”.
 
-159 Maintenant, **si Dieu peut me dire ce que vous avez été**, vous savez si cela est vrai ou pas. **Il peut vous dire ce que vous serez**. Et si cela est vrai, ceci le sera aussi s’Il dit quelque chose à votre sujet, je ne sais pas. Mais s’Il me dit quel est votre problème…
+159 Maintenant, **si Dieu peut me dire ce que vous avez été**, vous savez si cela est vrai ou pas. **Il peut vous dire ce que vous serez.** Et si cela est vrai, ceci le sera aussi s’Il dit quelque chose à votre sujet, je ne sais pas. Mais s’Il me dit quel est votre problème…
 
 160 Auditoire, voulez-vous le croire? [L’assemblée dit: «Amen.» — N.d.R.]
 
@@ -421,7 +421,7 @@ Auditoire, **est-ce que cela ferait croire?** [L’assemblée dit: «Amen.» —
 
 167 Vous me dites: «Vous dites son nom ou leur nom». Certainement. Est-ce que Jésus n’a pas appelé Pierre: “Ton nom est Simon, le fils de Jonas?”.
 
-168 Il y a un homme ici. Nous sommes étrangers l’un l’autre. Monsieur, je ne vous connais pas. Mais vous êtes un homme comme le Pierre qui est venu à Jésus. Nous sommes réunis. **Est-ce que vous croyez que je suis Son serviteur**? Croyez-vous que ce que j’ai dit est la vérité? [Le frère dit: «Oui monsieur, je le crois.» — N.d.R.] Si vous pouvez le croire. [«Oui.»] Pour moi, s’il y a quelque chose que je puisse faire pour vous, je le ferais mais il n’y a rien que je puisse faire. **Il l’a déjà fait.** Ce que je fais, c’est juste quelque chose **qui vous aide à croire**. Mais vous voyez, cela ne serait pas moi. Si c’était moi, je ferais tout ce que je peux pour vous… Il m’a donné un don **et je m’abandonne moi-même à Lui, et c’est Lui qui parle**. [«C’est vrai. Oui, monsieur.»] Croyez-vous cela? [«Oui.»]
+168 Il y a un homme ici. Nous sommes étrangers l’un l’autre. Monsieur, je ne vous connais pas. Mais vous êtes un homme comme le Pierre qui est venu à Jésus. Nous sommes réunis. **Est-ce que vous croyez que je suis Son serviteur?** Croyez-vous que ce que j’ai dit est la vérité? [Le frère dit: «Oui monsieur, je le crois.» — N.d.R.] Si vous pouvez le croire. [«Oui.»] Pour moi, s’il y a quelque chose que je puisse faire pour vous, je le ferais mais il n’y a rien que je puisse faire. **Il l’a déjà fait.** Ce que je fais, c’est juste quelque chose **qui vous aide à croire**. Mais vous voyez, cela ne serait pas moi. Si c’était moi, je ferais tout ce que je peux pour vous… Il m’a donné un don **et je m’abandonne moi-même à Lui, et c’est Lui qui parle**. [«C’est vrai. Oui, monsieur.»] Croyez-vous cela? [«Oui.»]
 
 169 Auditoire, est-ce que vous croyez cela? [L’assemblée dit: «Amen.» — N.d.R.]
 
@@ -451,7 +451,7 @@ Auditoire, **est-ce que cela ferait croire?** [L’assemblée dit: «Amen.» —
 
 182 Un cœur nerveux et de l’arthrite, mais croyez-vous que Dieu puisse vous faire bien aller? Vous le croyez? Allez et que le Seigneur Jésus vous fasse bien aller.
 
-183 Cet estomac vous a certainement donné bien des problèmes dans ces dernières années? Est-ce le cas? **Il ne le fera plus jamais. Allez, croyez-le**. Que Dieu vous bénisse.
+183 Cet estomac vous a certainement donné bien des problèmes dans ces dernières années? Est-ce le cas? **Il ne le fera plus jamais. Allez, croyez-le.** Que Dieu vous bénisse.
 
 184 Vous pouvez aussi, votre estomac est guéri. Allez, croyez-le de tout votre cœur. Ne doutez pas.
 
@@ -467,7 +467,7 @@ Croyez-vous cela? [L’assemblée dit: «Amen.» — N.d.R.]
 
 189 L’homme assis ici, qui me regarde, souffre d’un trouble de la prostate. Il doit se lever la nuit et tout cela. Croyez-vous, monsieur? Cela partira, si vous croyez.
 
-190 Un homme de couleur est assis, par ici. Il me regarde, il souffre d’épilepsie. Il demande aussi le baptême du Saint-Esprit. Tenez-vous debout, monsieur. **Acceptez votre guérison**. Que Dieu vous donne le baptême du Saint-Esprit. [«Amen!»]
+190 Un homme de couleur est assis, par ici. Il me regarde, il souffre d’épilepsie. Il demande aussi le baptême du Saint-Esprit. Tenez-vous debout, monsieur. **Acceptez votre guérison.** Que Dieu vous donne le baptême du Saint-Esprit. [«Amen!»]
 
 191 Assis de l’autre côté, là-bas. Il y a un enfant qui souffre aussi d’épilepsie, une sorte de crises d’évanouissement… là-bas, de l’autre côté. Croyez-vous que Dieu fera que cet enfant, là-bas, aille bien? **Le croyez-vous de tout votre cœur?** Alors, Dieu guérira l’enfant.
 

@@ -63,7 +63,7 @@ html_url: "http://www.cmpp.ch/rev14.htm"
 
 4 J’ai été très heureux d’entendre le compte-rendu de l’église, comment elle progresse avec le Seigneur et comment Dieu S’occupe de vous dans les dons spirituels. Je suis vraiment reconnaissant à Dieu de ce que vous ayez des coeurs sincères dont Il peut S’occuper; je crois qu’Il vous gardera bien au milieu de cette Voie droite et étroite afin que vous ne vous en écartiez ni à droite ni à gauche.
 
-5 Je voudrais remercier frère Colvin et sa fille (je crois que c’étaient eux) qui sont montés il y a quelques instants pour chanter ce cantique: *“Il n’y a pas de larmes au Ciel*”. C’était bien beau! J’ai vraiment apprécié cela.
+5 Je voudrais remercier frère Colvin et sa fille (je crois que c’étaient eux) qui sont montés il y a quelques instants pour chanter ce cantique: *“Il n’y a pas de larmes au Ciel”.* C’était bien beau! J’ai vraiment apprécié cela.
 
 6 Et ce que frère Neville disait de lui-même et de moi il y a des années, je peux le dire de frère Colvin et de moi-même. Nous nous connaissons depuis des années. Cela me transporte de joie d’entendre chanter ces vieux cantiques évangéliques et de le voir élever ses enfants dans la voie du Seigneur! Cela me réjouit de savoir que Dieu a toujours un peuple qui L’aime et s’occupe de Lui. Nous en sommes reconnaissants.
 
@@ -172,7 +172,7 @@ Inclinons nos têtes.
 
 52 O Dieu notre Père, Tu nous aides alors que nous sommes nerveux. Mais si nous nous approchons de la Parole en oubliant ce qui est du passé, alors nous courons maintenant vers le but de la vocation céleste, le glorieux ministère de serviteur de Christ. Donne-nous la Parole ce matin et nourris nos âmes affamées car nous languissons, Seigneur, et nous attendons cette précieuse onction du Saint-Esprit. Viens au milieu de nous, Seigneur, nous pardonnant nos péchés et nos transgressions et nous laissant être Tes serviteurs. Nous Te le demandons au Nom de Jésus. Amen!
 
-53 Nous avons étudié les sept âges de l’église. Je crois qu’il y en a maintenant qui vont mettre cela par écrit. Puis nous avons étudié le chapitre 4 de l’Apocalypse. De quoi s’agit-il? De la révélation de Jésus-Christ! De la révélation, qu’on appelle en grec *Apocalypse*, ce qui veut dire: *être révélé, enlever le voile, montrer, exposer*. C’est la révélation de Jésus-Christ qui était, qui est et qui vient, la Racine et le Rejeton de David.
+53 Nous avons étudié les sept âges de l’église. Je crois qu’il y en a maintenant qui vont mettre cela par écrit. Puis nous avons étudié le chapitre 4 de l’Apocalypse. De quoi s’agit-il? De la révélation de Jésus-Christ! De la révélation, qu’on appelle en grec *Apocalypse,* ce qui veut dire: *être révélé, enlever le voile, montrer, exposer.* C’est la révélation de Jésus-Christ qui était, qui est et qui vient, la Racine et le Rejeton de David.
 
 54 Nous avons vu au chapitre 4 que Jean avait été enlevé au Ciel après avoir vu les âges de l’église. Je vous dis cela simplement pour dresser une petite toile de fond.
 
@@ -200,7 +200,7 @@ Inclinons nos têtes.
 
 65 Aucun homme ne pouvait approcher du trône de la grâce à moins qu’il y ait là une expiation pour lui. Quand le trône était aspergé de sang il devenait un trône de grâce. Mais quand le sang était ôté il devenait un trône de jugement.
 
-66 Oh! personne ne peut résister aux jugements de Dieu! La seule chose que nous puissions rechercher, c’est la miséricorde; pas le jugement, pas la justice! **Nous ne pouvons nous approcher de Sa justice. En effet, à cause de Sa justice, Il doit garder Sa Parole; et garder Sa Parole, c’est: *“Le jour où tu en mangeras, tu mourras*!”. Qui voudrait de la justice? Je ne désire pas la justice! Je demande la grâce!** Mon Dieu, que la miséricorde de Dieu… Et le trône de la grâce est sous l’aspersion!
+66 Oh! personne ne peut résister aux jugements de Dieu! La seule chose que nous puissions rechercher, c’est la miséricorde; pas le jugement, pas la justice! **Nous ne pouvons nous approcher de Sa justice. En effet, à cause de Sa justice, Il doit garder Sa Parole; et garder Sa Parole, c’est: *“Le jour où tu en mangeras, tu mourras!”.* Qui voudrait de la justice? Je ne désire pas la justice! Je demande la grâce!** Mon Dieu, que la miséricorde de Dieu… Et le trône de la grâce est sous l’aspersion!
 
 67 Il y avait un temps pour la purification du sanctuaire, mais tant que le sang n’était pas sur le trône, c’était un trône de jugement.
 
@@ -224,7 +224,7 @@ Inclinons nos têtes.
 
 77 Si nous allons au-delà, alors ce n’est pas ça. Mais cela appuie le véritable message, comme par exemple Actes 2.38 où il est dit: *“Repentez-vous et que chacun de vous soit baptisé au nom de Jésus-Christ pour le pardon de vos péchés…”.*
 
-78 Aujourd’hui on a adopté pour le baptême les titres de *Père, Fils et Saint-Esprit*! Il n’y a pas de verset pour confirmer cela! Il n’y a pas de confirmation! Il n’y a rien pour garder cela, rien du tout! Vous dites: “Matthieu l’a dit!”. Non! Matthieu montait la garde, Matthieu 28! Dans Matthieu 1.18 il est dit:
+78 Aujourd’hui on a adopté pour le baptême les titres de *Père, Fils et Saint-Esprit!* Il n’y a pas de verset pour confirmer cela! Il n’y a pas de confirmation! Il n’y a rien pour garder cela, rien du tout! Vous dites: “Matthieu l’a dit!”. Non! Matthieu montait la garde, Matthieu 28! Dans Matthieu 1.18 il est dit:
 
 > *“Voici de quelle manière arriva la naissance de Jésus-Christ. Marie, sa mère, ayant été fiancée à Joseph, se trouva enceinte par la vertu du Saint-Esprit, avant qu’ils eussent habité ensemble. Joseph, son époux, qui était un homme de bien et qui ne voulait pas la diffamer, se proposa de rompre secrètement avec elle. Comme il y pensait, voici, un ange du Seigneur lui apparut en songe et dit: Joseph, fils de David, ne crains pas de prendre avec toi Marie, ta femme, car l’enfant qu’elle a conçu vient du SAINT-ESPRIT”.*
 
@@ -270,7 +270,7 @@ Inclinons nos têtes.
 
 95 Rappelez-vous que Paul avait adressé cette lettre à Ephèse, aux Ephésiens et aux fidèles en Christ, ceux à qui il avait prêché, qu’il avait élevés et nourris de l’Evangile *“… aux saints qui sont à Ephèse et aux fidèles en Jésus-Christ…* (ce sont ceux qui sont déjà en Christ)”.
 
-96 Comment entre-t-on en Christ? *“Par un seul Esprit nous sommes baptisés en un seul corps*” qui est le corps de Christ. *“Que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ! Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui nous a bénis de toutes sortes de bénédictions spirituelles dans les lieux célestes en Christ!”.*
+96 Comment entre-t-on en Christ? *“Par un seul Esprit nous sommes baptisés en un seul corps”* qui est le corps de Christ. *“Que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ! Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui nous a bénis de toutes sortes de bénédictions spirituelles dans les lieux célestes en Christ!”.*
 
 97 Pensez-y! Il nous a bénis de toutes les grâces et bénédictions célestes quand nous nous rassemblons en Christ Jésus en tant que croyants, en tant qu’Eglise élue, appelée, mise à part. Il nous a scellés par Son Saint-Esprit et nous révèle maintenant toutes les choses qui nous sont réservées dans le futur. Maintenant nous arrivons à ces sept Sceaux. *“En lui, Dieu nous a élus avant la fondation du monde, pour que nous soyons saints et irrépréhensibles devant lui, nous ayant prédestinés dans son amour à être ses enfants d’adoption par Jésus-Christ, selon le bon plaisir de sa volonté…”.*
 
@@ -280,7 +280,7 @@ Inclinons nos têtes.
 
 100 Nous voyons qu’un sceau signifie que c’est une chose que Dieu a terminée, que c’est déjà achevé. Et chaque croyant fut scellé par cette promesse dès le tout début parce qu’avant la fondation du monde nous étions prédestinés à l’adoption en tant que fils. Avant même que le monde commençât! Oh, quelle espérance! Elle nous fait reposer avec assurance et certitude. C’est une ancre pour notre âme qui n’est plus ballottée de-ci de-là, mais qui est ancrée en Christ. C’est une espérance sûre! “Prédestinés avant la fondation du monde à l’adoption en tant que fils par Jésus-Christ!”. Oh, que c’est merveilleux! J’aime cette oeuvre achevée de Dieu!
 
-101 Je vais juste vous citer un autre verset: *“Et ceux qu’il a prédestinés, il les a aussi appelés, et ceux qu’il a appelés, il les a aussi justifiés; et ceux qu’il a justifiés, il les a aussi glorifiés*”. Dès le commencement, Dieu dans Sa pensée glorieuse et infinie, a connu d’avance Son Eglise et l’a prédestinée à l’adoption en tant qu’enfants par Jésus-Christ afin de leur donner la Vie éternelle à la fin de l’âge. Quelle chose magnifique! Frère Neville, je me sens beaucoup mieux! Nous avons l’adoption par le Sang de Jésus-Christ!
+101 Je vais juste vous citer un autre verset: *“Et ceux qu’il a prédestinés, il les a aussi appelés, et ceux qu’il a appelés, il les a aussi justifiés; et ceux qu’il a justifiés, il les a aussi glorifiés”.* Dès le commencement, Dieu dans Sa pensée glorieuse et infinie, a connu d’avance Son Eglise et l’a prédestinée à l’adoption en tant qu’enfants par Jésus-Christ afin de leur donner la Vie éternelle à la fin de l’âge. Quelle chose magnifique! Frère Neville, je me sens beaucoup mieux! Nous avons l’adoption par le Sang de Jésus-Christ!
 
 102 Remarquez bien ceci pendant que nous continuons. Le mot *arrhes* signifie qu’il doit en venir plus. Nous n’en avons maintenant que les arrhes. Les arrhes ne sont qu’un acompte versé (oh, que c’est beau!) qui assure et ancre notre possession de telle sorte que personne d’autre ne puisse y toucher. Ce sont les arrhes de notre adoption. Amen! Le Saint-Esprit n’est rien d’autre que les arrhes de Dieu dans notre coeur qui est ainsi scellé. C’est l’adoption en tant que fils qui nous attend à la fin de la route. Des fils et des filles de Dieu!
 
@@ -300,13 +300,13 @@ Inclinons nos têtes.
 
 109 Nous soupirons maintenant dans ces tabernacles terrestres en attendant que le salut vienne dans sa plénitude; mais maintenant, dans ces tabernacles d’argile, nous avons quelque chose qui nous dit que nous avons déjà cette position. Amen! Me comprenez-vous? Frère Dauch, c’est le petit paiement comptant qui assure la propriété du bien. Ce sont les arrhes. Autrefois, quand nous aimions les choses du monde, quand nous péchions, que nous marchions en accomplissant les choses du monde et que nous ne nous préoccupions pas de Dieu, nous étions éloignés de Dieu, nous étions sans Dieu, sans Christ: nous étions dans le monde. Mais maintenant, Dieu a envoyé Son Saint-Esprit par lequel nous sommes arrachés à ces choses. Maintenant, nous avons les arrhes afin que nous sachions que nous sommes passés de la mort à la vie. Amen!
 
-110 C’est ce que j’essayais de montrer *ici*. C’est vers cet endroit-*ci* que le pécheur ordinaire court, là tout en bas, vers le fond. Mais le chrétien va un peu plus haut que tout cela, il s’élève au-dessus de toutes ces choses. Ce sont les arrhes de son salut.
+110 C’est ce que j’essayais de montrer *ici.* C’est vers cet endroit-*ci* que le pécheur ordinaire court, là tout en bas, vers le fond. Mais le chrétien va un peu plus haut que tout cela, il s’élève au-dessus de toutes ces choses. Ce sont les arrhes de son salut.
 
-111 Je dirai ceci pour que vous compreniez ce que les visions vous font. Aidez-moi! Dieu m’est témoin que je ne tiens pas du tout à en avoir d’autres! Si cela arrive, je les garderai pour moi parce que je vois ce que cela donne. Les gens ne sont pas prêts pour un tel ministère, c’est pourquoi il faut laisser cela et revenir ici. Si jamais je retourne dans les champs de mission, ce sera comme évangéliste. Mais regardez ici maintenant. *Ici*, en revenant *ici* tout en haut, vous montez là-haut dans les lieux célestes. Vous vivez dans ces régions là-haut. Vous allez au-delà de tout ce que l’homme peut imaginer, au-delà de toutes ces choses. Et cela vous entraîne dans ces espaces là-haut.
+111 Je dirai ceci pour que vous compreniez ce que les visions vous font. Aidez-moi! Dieu m’est témoin que je ne tiens pas du tout à en avoir d’autres! Si cela arrive, je les garderai pour moi parce que je vois ce que cela donne. Les gens ne sont pas prêts pour un tel ministère, c’est pourquoi il faut laisser cela et revenir ici. Si jamais je retourne dans les champs de mission, ce sera comme évangéliste. Mais regardez ici maintenant. *Ici,* en revenant *ici* tout en haut, vous montez là-haut dans les lieux célestes. Vous vivez dans ces régions là-haut. Vous allez au-delà de tout ce que l’homme peut imaginer, au-delà de toutes ces choses. Et cela vous entraîne dans ces espaces là-haut.
 
 112 Mais maintenant nous avons, par le Saint-Esprit, les arrhes de notre héritage parce que nous avons été élevés au-dessus des choses du monde; nous marchons dans le monde mais nous sommes au-dessus du monde. Oh, frère Neville, que Dieu soit miséricordieux et accorde cela à l’Eglise du Dieu vivant!
 
-113 Nous en sommes arrivés au point de penser qu’une belle église, c’est: «Nous voulons faire aussi bien que le monde! Nous voulons avoir une meilleure équipe de basket qu’eux; nous voulons avoir de plus beaux bâtiments; il nous faut le meilleur jeu de loto; il nous faut le meilleur *ceci* ou *cela*…». Comment peut-on comparer la Parole avec la fascination et l’éclat de ce monde? L’Evangile ne fait pas d’étincelles: Il rayonne. Il y a une différence entre l’éclat étincelant et le rayonnement, n’est-ce pas?
+113 Nous en sommes arrivés au point de penser qu’une belle église, c’est: «Nous voulons faire aussi bien que le monde! Nous voulons avoir une meilleure équipe de basket qu’eux; nous voulons avoir de plus beaux bâtiments; il nous faut le meilleur jeu de loto; il nous faut le meilleur *ceci* ou *cela…».* Comment peut-on comparer la Parole avec la fascination et l’éclat de ce monde? L’Evangile ne fait pas d’étincelles: Il rayonne. Il y a une différence entre l’éclat étincelant et le rayonnement, n’est-ce pas?
 
 114 On va de-ci, de-là comme je l’ai dit, transférant un cadavre d’une morgue à l’autre, échangeant des membres et faisant toutes sortes de choses semblables. Quel bien cela fait-il? On essaie d’en faire quelque chose de brillant avec de beaux clochers et de grands bâtiments magnifiques. On veut faire mieux que les Méthodistes ou les Baptistes et nous essayons tous d’entrer en compétition avec les Catholiques. On a des parties de loto, des soirées, des repas de gala, des divertissements et tout le reste.
 
@@ -370,7 +370,7 @@ Inclinons nos têtes.
 
 142 Jean, étant sous l’influence du Saint-Esprit, n’aurait pu faire une telle erreur. D’ailleurs, ce n’était pas seulement lui qui n’était pas digne, mais il ne trouva PERSONNE qui fût digne.
 
-143 Aussitôt après, il dit: *“Et l’un des anciens me dit: Ne pleure point; voici, le lion de la tribu de Juda, le rejeton de David, a vaincu pour ouvrir le livre et ses sept sceaux*”. Amen! Autrement dit: Il a vaincu, Il est digne de prendre le Livre! Amen!
+143 Aussitôt après, il dit: *“Et l’un des anciens me dit: Ne pleure point; voici, le lion de la tribu de Juda, le rejeton de David, a vaincu pour ouvrir le livre et ses sept sceaux”.* Amen! Autrement dit: Il a vaincu, Il est digne de prendre le Livre! Amen!
 
 144 Rappelez-vous que jusque là, Jean n’avait pas encore vu Jésus. Pourquoi? Parce que Jésus était assis là-haut sur le trône de Dieu. Il était à l’intérieur du sanctuaire. Ne L’ayant pas vu jusqu’alors, Jean s’attendait à voir un Lion, mais il vit un Agneau!
 
@@ -380,7 +380,7 @@ Inclinons nos têtes.
 
 147 Nous allons bientôt découvrir (peut-être pas aujourd’hui) ce que contiennent ces sept Sceaux, ce qu’ils produisent.
 
-148 Maintenant étudions un peu la *rédemption*. Avant de pouvoir racheter, il fallait qu’Il soit digne, qu’Il soit celui qui convenait. Cela fut accompli lors de la naissance virginale de Jésus-Christ, car Il était Dieu. C’était Dieu Lui-même fait homme, Dieu dans une chair humaine. Il fallait qu’Il fût digne: le Sang virginal de Jésus-Christ L’a rendu digne. Si vous voulez le noter, cela se trouve dans 1 Pierre 1.18-20. Il fallait qu’Il fût digne. Il l’était parce qu’Il prit la forme d’un homme. Il devint un homme: Dieu devint notre parent. Nous découvrons là le rôle glorieux de Dieu Jéhovah qui fut fait chair et habita parmi nous comme Celui qui était digne. Amen!
+148 Maintenant étudions un peu la *rédemption.* Avant de pouvoir racheter, il fallait qu’Il soit digne, qu’Il soit celui qui convenait. Cela fut accompli lors de la naissance virginale de Jésus-Christ, car Il était Dieu. C’était Dieu Lui-même fait homme, Dieu dans une chair humaine. Il fallait qu’Il fût digne: le Sang virginal de Jésus-Christ L’a rendu digne. Si vous voulez le noter, cela se trouve dans 1 Pierre 1.18-20. Il fallait qu’Il fût digne. Il l’était parce qu’Il prit la forme d’un homme. Il devint un homme: Dieu devint notre parent. Nous découvrons là le rôle glorieux de Dieu Jéhovah qui fut fait chair et habita parmi nous comme Celui qui était digne. Amen!
 
 149 “Il a vaincu!”. Dieu revêtit la forme d’une chair humaine. Il est venu sur la terre. Il est né comme un petit enfant et a marché parmi nous. Et par Son saint Sang, Il a vaincu!
 
@@ -396,7 +396,7 @@ Inclinons nos têtes.
 
 154 Pendant tout ce temps, Ruth se reposait en attendant de voir comment les choses tourneraient. Puis Boaz revint: personne n’avait pu témoigner contre lui. Il revint et prit Ruth, la belle Moabite. Ils se marièrent et vécurent sur cette propriété. Quelle belle histoire!
 
-155 Dans l’histoire de Ruth, il y a les trois étapes: Ruth prend une *décision*: elle décide si elle veut retourner ou non dans son pays (exactement comme l’Eglise). Ensuite Ruth *sert* lorsqu’elle sort glaner. Puis Ruth *se repose*: c’est ce que l’Eglise fait maintenant. Enfin, Ruth sera *récompensée*: c’est la chose suivante qui doit lui arriver. C’est la récompense de l’Eglise.
+155 Dans l’histoire de Ruth, il y a les trois étapes: Ruth prend une *décision:* elle décide si elle veut retourner ou non dans son pays (exactement comme l’Eglise). Ensuite Ruth *sert* lorsqu’elle sort glaner. Puis Ruth *se repose:* c’est ce que l’Eglise fait maintenant. Enfin, Ruth sera *récompensée:* c’est la chose suivante qui doit lui arriver. C’est la récompense de l’Eglise.
 
 156 Mais nous n’avons plus le temps parce qu’il y a un service de baptême et il est déjà onze heures et quart. Mais peut-être que nous verrons cela un de ces dimanches, le Seigneur voulant. J’aimerais pouvoir vous montrer ces sept cornes, ces sept yeux, ces sept sceaux, ces sept ministères, ces sept anges de l’église, ces sept étoiles, etc.
 

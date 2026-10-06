@@ -96,7 +96,7 @@ Je demanderai à ce frère de se lever et de nous dire qui il est, ainsi que sa 
 
 Merci beaucoup. Nous désirons vraiment qu’il y ait de ces jeunes ambassadeurs dans l’oeuvre du Seigneur Jésus-Christ. Nous leur souhaitons la bénédiction de Dieu sur leur route. Et tandis que je médite et attends le retour du Seigneur, cela me réjouit de voir un jeune homme et une jeune femme se lever avec dans le coeur le dessein de servir Christ. Que le Seigneur vous bénisse richement, mon frère et ma soeur.
 
-Maintenant venons-en à un petit livre dont je ne vous ai jamais parlé; il n’a qu’un chapitre, c’est le livre de Philémon. (J’ai un peu de sang irlandais et j’ai un appareil pour tenir mes dents du bas en place, ce qui fait que je n’arrive pas toujours à prononcer ces noms correctement; parfois c’est simplement à cause de mon manque d’instruction.) Oui, *Philémon*, comme quelqu’un le dit là-bas; je crois que c’est la bonne prononciation.
+Maintenant venons-en à un petit livre dont je ne vous ai jamais parlé; il n’a qu’un chapitre, c’est le livre de Philémon. (J’ai un peu de sang irlandais et j’ai un appareil pour tenir mes dents du bas en place, ce qui fait que je n’arrive pas toujours à prononcer ces noms correctement; parfois c’est simplement à cause de mon manque d’instruction.) Oui, *Philémon,* comme quelqu’un le dit là-bas; je crois que c’est la bonne prononciation.
 
 Premier verset. Je n’en prendrai qu’un ou deux mots:
 
@@ -104,7 +104,7 @@ Premier verset. Je n’en prendrai qu’un ou deux mots:
 
 Ce sera notre sujet de ce soir, Dieu voulant: UN PRISONNIER.
 
-On peut difficilement s’imaginer Paul se considérant comme un prisonnier, lui un homme LIBRE PAR SA NAISSANCE, un homme rempli du Saint-Esprit; cependant il se dit *prisonnier*. En s’adressant aux Corinthiens nous voyons qu’il dit: *“Paul, apôtre de Jésus-Christ*…”. Une autre fois: *“Paul, serviteur de Jésus-Christ*”. Tout cela par la volonté de Dieu quand il parle à Timothée et aux autres. Ici il écrit à Philémon et dit: *“Paul prisonnier de Jésus-Christ”. “… Paul, apôtre*…”. J’aimerais prêcher un soir sur ce sujet: *“Paul, serviteur*…” puis “*Paul, prisonnier*…”. Mais ce soir, étant donné qu’il faudrait des heures pour approfondir un seul de ces sujets, je prendrai celui-ci: “Paul, le prisonnier”. Mon sujet sera: UN PRISONNIER. Maintenant courbons nos têtes un instant.
+On peut difficilement s’imaginer Paul se considérant comme un prisonnier, lui un homme LIBRE PAR SA NAISSANCE, un homme rempli du Saint-Esprit; cependant il se dit *prisonnier.* En s’adressant aux Corinthiens nous voyons qu’il dit: *“Paul, apôtre de Jésus-Christ…”.* Une autre fois: *“Paul, serviteur de Jésus-Christ”.* Tout cela par la volonté de Dieu quand il parle à Timothée et aux autres. Ici il écrit à Philémon et dit: *“Paul prisonnier de Jésus-Christ”. “… Paul, apôtre…”.* J’aimerais prêcher un soir sur ce sujet: *“Paul, serviteur…”* puis *“Paul, prisonnier…”.* Mais ce soir, étant donné qu’il faudrait des heures pour approfondir un seul de ces sujets, je prendrai celui-ci: “Paul, le prisonnier”. Mon sujet sera: UN PRISONNIER. Maintenant courbons nos têtes un instant.
 
 Seigneur Jésus, tout homme peut feuilleter la Bible, mais seul le Saint-Esprit peut L’interpréter selon la Lumière qu’Elle doit recevoir. Nous Lui demandons de venir et de nous aider à comprendre cette adresse: Paul était un grand prophète puissant et pourtant il se dit prisonnier. Que le Saint-Esprit nous le révèle tandis que nous nous attendons à Lui au Nom de Jésus-Christ. Amen.
 
@@ -140,7 +140,7 @@ Pour ce qui est du temps du Seigneur Jésus, pensons à ce personnage impopulair
 
 Vous voyez, le diable ne retire jamais son esprit: il passe simplement d’un homme à un autre. Dieu ne reprend pas non plus Son Esprit: Il passe de l’un à l’autre. Ainsi le même Esprit qui était sur Elie descendit sur Elisée, puis le même Esprit passa sur Jean-Baptiste et ainsi de suite. Le Saint-Esprit qui était sur Christ descendit sur Ses disciples et ainsi de suite, et Il est toujours sur Son peuple.
 
-Vous voyez, Dieu ne retire jamais Son Esprit. Il ne nous reste qu’à faire un choix. Et je ne crois pas que Paul regrettait quoi que ce soit et voulait dire qu’il se plaignait d’être prisonnier. Il disait cela pour lui quand le Saint-Esprit lui mit la plume à la main pour écrire cela. Peut-être que c’était uniquement pour nous donner notre sujet de ce soir que Paul fit cela, parce que c’est scripturaire et que *scripturaire* veut dire *éternel*. Je crois que si Paul s’adresse à son frère du fond de cette misérable prison en lui disant qu’il était prisonnier de Jésus-Christ, c’est aussi parce qu’il pouvait bien se représenter ce que cela signifiait en regardant simplement autour de lui.
+Vous voyez, Dieu ne retire jamais Son Esprit. Il ne nous reste qu’à faire un choix. Et je ne crois pas que Paul regrettait quoi que ce soit et voulait dire qu’il se plaignait d’être prisonnier. Il disait cela pour lui quand le Saint-Esprit lui mit la plume à la main pour écrire cela. Peut-être que c’était uniquement pour nous donner notre sujet de ce soir que Paul fit cela, parce que c’est scripturaire et que *scripturaire* veut dire *éternel.* Je crois que si Paul s’adresse à son frère du fond de cette misérable prison en lui disant qu’il était prisonnier de Jésus-Christ, c’est aussi parce qu’il pouvait bien se représenter ce que cela signifiait en regardant simplement autour de lui.
 
 Il était en prison, mais ce n’est pas de cela qu’il parlait en écrivant à ce serviteur de Christ qui exerçait un ministère avec lui; il voulait dire qu’il était prisonnier de la Parole de Jésus-Christ parce que Jésus-Christ est la Parole. Paul avait été un grand érudit en son temps. Il avait eu de grandes ambitions et avait reçu l’instruction des hommes.
 
@@ -150,9 +150,9 @@ Il avait une ambition, et pour atteindre ce but élevé, il avait été instruit
 
 II avait de grandes ambitions. Mais tout ce qu’il avait appris, Dieu le lui enleva. Son but, l’argent que son père avait dépensé pour lui, l’ambition de son père et de sa mère, tout lui fut retiré parce que Dieu avait quelque chose d’autre en vue. Autrefois il était prisonnier du but de sa vie, mais il devint prisonnier de Jésus-Christ qui est la Parole. Ce chemin de Damas changea Paul.
 
-Alors qu’il était en chemin, vers 11 heures peut-être, il fut jeté à terre et entendit une voix qui disait: *“Saul, Saul, pourquoi me persécutes-tu*?”. Il regarda et, étant Juif, il sut que la colonne de feu qu’il voyait était le Seigneur qui avait conduit les enfants d’Israël, parce qu’il savait ce qu’elle était.
+Alors qu’il était en chemin, vers 11 heures peut-être, il fut jeté à terre et entendit une voix qui disait: *“Saul, Saul, pourquoi me persécutes-tu?”.* Il regarda et, étant Juif, il sut que la colonne de feu qu’il voyait était le Seigneur qui avait conduit les enfants d’Israël, parce qu’il savait ce qu’elle était.
 
-Rappelez-vous que cet Hébreu n’aurait donné à personne le titre de *Seigneur*, S–E–I–G–N–E-U–R, *Elohim*, s’il n’avait pas été sûr que c’était bien Lui, car c’était un homme très instruit. Et quand il regarda et vit cette Lumière, cette colonne de feu qui avait conduit son peuple à travers le désert, il dit: “Seigneur” (Elohim, SEIGNEUR). “Seigneur, qui es-Tu?”. Quelle surprise pour ce théologien d’entendre: *“Je suis Jésus*…”, Celui-là même qu’il combattait! Quel revirement!
+Rappelez-vous que cet Hébreu n’aurait donné à personne le titre de *Seigneur,* S–E–I–G–N–E-U–R, *Elohim,* s’il n’avait pas été sûr que c’était bien Lui, car c’était un homme très instruit. Et quand il regarda et vit cette Lumière, cette colonne de feu qui avait conduit son peuple à travers le désert, il dit: “Seigneur” (Elohim, SEIGNEUR). “Seigneur, qui es-Tu?”. Quelle surprise pour ce théologien d’entendre: *“Je suis Jésus…”,* Celui-là même qu’il combattait! Quel revirement!
 
 Oh, cela a dû être terrible pour cet homme plein d’ambition de découvrir tout à coup qu’il était un persécuteur! Son ambition l’avait entraîné plus qu’il ne l’avait pensé loin de la chose principale. Quel choc pour cet apôtre quand il entendit: *“Je suis Jésus…”* (Celui-là même qu’il persécutait). *“Pourquoi me persécutes-tu?”.*
 
@@ -238,7 +238,7 @@ Il n’y a pas de doute que quand ce petit bébé Moïse naquit, sa mère lui di
 
 L’ambition de Moïse commença à croître: “J’étudierai, maman, j’étudierai tout ce que je pourrai! Sais-tu ce que je vais faire? Je vais travailler dur pour devenir un militaire et je saurai comment faire sortir le peuple d’ici. Je serai un grand général, un évêque, j’apprendrai tout cela et je les ferai sortir. Je vais décrocher mes diplômes! J’y arriverai!”.
 
-Comme le père Chiniqui. Avez-vous lu son livre? Bien. Il voulait convertir tous les protestants, mais il en devint un lui-même! Ce grand prêtre de jadis, le père Chiniqui. Vous devriez vous procurer son livre et le lire. On l’appelle *père*, alors que c’est *frère* Chiniqui qu’il faudrait dire. Nous ne disons *père* à aucun homme.
+Comme le père Chiniqui. Avez-vous lu son livre? Bien. Il voulait convertir tous les protestants, mais il en devint un lui-même! Ce grand prêtre de jadis, le père Chiniqui. Vous devriez vous procurer son livre et le lire. On l’appelle *père,* alors que c’est *frère* Chiniqui qu’il faudrait dire. Nous ne disons *père* à aucun homme.
 
 Il se mit à lire la Bible afin de pouvoir réfuter la religion protestante, mais il perdit la bataille. Je pense qu’après qu’il se soit mis à lire la Bible, le Saint-Esprit S’empara de lui; il reçut le Saint-Esprit puis devint l’un d’eux.
 
@@ -378,7 +378,7 @@ Rappelez-vous que tous trois étaient prophètes. Ils avaient dû être dépouil
 
 Pharaon fit de Joseph son fils. Ses prisonniers de Son amour, Christ les fait Ses fils et leur donne une puissance, la même que la Sienne. Jean 14.12: *“Celui qui croit en moi* (Vous voyez?) *fera aussi les oeuvres que je fais, et il en fera de plus grandes”.*
 
-Le prisonnier de l’amour de Christ est revêtu de puissance par son Roi qui est Christ. Amen! *“Je vous le dis en vérité, si quelqu’un dit à cette montagne: Ote-toi de là et jette-toi dans la mer, et s’il ne doute point en son cœur, mais croit que ce qu’il a dit arrive, il le verra s’accomplir”.* “Si vous demeurez en Moi et que Ma parole demeure en vous…”. Si vous êtes lié à Moi… Parce que Lui et la Parole sont un. *“Au commencement était la parole, et la parole était avec Dieu… Et la parole a été faite chair et elle a habité parmi nous…”. “Jésus-Christ est le même hier, aujourd’hui et éternellement”. “Si vous demeurez en MOI* (pas ici ou là) *et que mes paroles demeurent en vous, demandez ce que vous voudrez* (ou dites ce que vous voudrez) *et cela vous sera accordé*”. Il a la puissance.
+Le prisonnier de l’amour de Christ est revêtu de puissance par son Roi qui est Christ. Amen! *“Je vous le dis en vérité, si quelqu’un dit à cette montagne: Ote-toi de là et jette-toi dans la mer, et s’il ne doute point en son cœur, mais croit que ce qu’il a dit arrive, il le verra s’accomplir”.* “Si vous demeurez en Moi et que Ma parole demeure en vous…”. Si vous êtes lié à Moi… Parce que Lui et la Parole sont un. *“Au commencement était la parole, et la parole était avec Dieu… Et la parole a été faite chair et elle a habité parmi nous…”. “Jésus-Christ est le même hier, aujourd’hui et éternellement”. “Si vous demeurez en MOI* (pas ici ou là) *et que mes paroles demeurent en vous, demandez ce que vous voudrez* (ou dites ce que vous voudrez) *et cela vous sera accordé”.* Il a la puissance.
 
 Remarquez qu’avant sa libération, Joseph fut conduit dehors et rasé. Il fallait encore raser plusieurs choses avant qu’il puisse rencontrer son roi.
 
@@ -428,7 +428,7 @@ Rentrez à la maison et dites à votre femme… avant de vous mettre à prier ce
 
 Puissent les jeunes hommes et les jeunes femmes de partout, spécialement ceux qui ont entendu le message de ce soir, se poser la même question: «Est-ce que je désire devenir un prisonnier, abandonnant ma propre vie?». *— “Celui qui voudra sauver sa vie la perdra, mais celui qui la perdra à cause de moi la trouvera”.*
 
-Père, nous savons que cela signifie *devenir Ton prisonnier*. Délie-nous de nos ambitions personnelles et de nos désirs personnels pour découvrir les Tiens. Nous aurons alors la Vie éternelle. Accorde-le nous, Seigneur.
+Père, nous savons que cela signifie *devenir Ton prisonnier.* Délie-nous de nos ambitions personnelles et de nos désirs personnels pour découvrir les Tiens. Nous aurons alors la Vie éternelle. Accorde-le nous, Seigneur.
 
 La seule chose que je puisse faire est de tout remettre entre Tes mains. Que cela fructifie et produise de glorieux outils pour la moisson du dernier jour. Que des hommes et des femmes, des garçons et des filles s’abandonnent à l’entière volonté de Dieu et deviennent des prisonniers de Jésus-Christ dans Son amour. Qu’ils soient liés dans les liens de l’amour divin en Christ. C’est en Son Nom que nous le demandons. (Levons-nous).
 

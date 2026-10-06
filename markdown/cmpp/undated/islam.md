@@ -89,7 +89,7 @@ Selon la Surate XLIX, 15 la promptitude à combattre pour le «Djihad» est un s
 
 **«Les vrais croyants sont ceux qui ont cru en Dieu (Allah) et à son apôtre, et qui ne doutent plus, qui combattent de leurs biens et de leur personne dans le sentier de Dieu (Allah). Ceux-là sont sincères dans leurs paroles»** (Surate XLIX, 15).
 
-Dans le «dialogue chrétien-islamique» sur Internet, nous trouvons ceci: «**La tradition également tient le “Djihad” en grand estime lorsqu’elle dit: ‹Le “Djihad” est une des portes pour le paradis**», ou encore: **«Le “Djihad” est un acte de pur don de soi à Allah».**
+Dans le «dialogue chrétien-islamique» sur Internet, nous trouvons ceci: «**La tradition également tient le “Djihad” en grand estime lorsqu’elle dit: ‹Le “Djihad” est une des portes pour le paradis»,** ou encore: **«Le “Djihad” est un acte de pur don de soi à Allah».**
 
 La question suivante est: De quelle façon Ben Laden et les conducteurs religieux de l’Islam, interprètent-ils et justifient-ils ce qui se trouve dans le Coran?
 
