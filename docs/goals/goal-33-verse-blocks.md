@@ -10,7 +10,8 @@ the site drew it as one: a dark box, a fixed-width face, lines running out
 of the column. 733 built pages hold 3,375 such blocks (2026-10-06): 2,926
 of Branham's, 413 of the local volumes, 28 of Le Scribe, 8 of the CMPP. Not
 all are songs: 2,155 are a single line, and 664 of Branham's are the label
-« Copyright Notice » or « ENGLISH ».
+« Copyright Notice » (377, 34 of them « Copyright notice ») or « ENGLISH »
+(287).
 
 ## Samuel's request (2026-10-06)
 
@@ -28,15 +29,26 @@ could have a nicer layout ».
   lines wrapping. Runs of spaces collapse, so a block's inner indentation
   (an aside one space to the left of the song) is not shown.
 
+- **A word longer than the column breaks, anywhere in a body.** The
+  highlighter gave each block its own sideways scroll; without it, a rule
+  of 53 underscores widened two Le Scribe pages on a phone. One of them,
+  `620623perseverant`, has the same rule in a paragraph too, and was 411px
+  wide at 390px on the site as deployed (`mevar.pages.dev`, 2026-10-06). So
+  the declaration is on the body, not on the block: wider than the song,
+  and the same defect.
+
 ## Work items
 
 1. `markdown.syntaxHighlight: false` in `web/astro.config.mjs`.
 2. `.prose-reader pre` in `web/src/styles/global.css`.
+3. `overflow-wrap: break-word` on `.prose-reader`.
 
 ## Acceptance evidence
 
 - The song of 61-0730E at 1440px and at 390px, light and dark: no box, no
   line out of the column.
+- `620623perseverant` and `620714son-confus` at 320px and 390px: the page
+  is as wide as the screen.
 - No `astro-code` and no inline colour left in `dist/`.
 - `npm run build` on the full corpus, `check:dist`, `check:limits`,
   `npm test`.

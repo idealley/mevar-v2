@@ -242,7 +242,8 @@
     font-size: calc(20px * var(--read-scale, 1));
     line-height: 1.8;
     color: var(--read-ink);
-    /* a rule of underscores has no space to wrap at */
+    /* a rule of underscores, in a paragraph or an indented block, has no
+       space to wrap at */
     overflow-wrap: break-word;
   }
   .prose-reader > * + * {
