@@ -63,10 +63,10 @@ const root = path.resolve(import.meta.dirname, "..");
 // ─── The article ────────────────────────────────────────────────────────────
 const turndown = new TurndownService({ headingStyle: "atx", hr: "---", emDelimiter: "*", strongDelimiter: "**", bulletListMarker: "-" });
 // Only what would change the meaning of a line: an asterisk or an underscore
-// in the text, a « < » or an « & » markdown would read as a tag or an entity
-// (the page of lc2 prints « <Amen> »), and a line that would start a list, a
+// in the text, a « < » markdown would read as a tag (the page of lc2 prints
+// « <Amen> »), and a line that would start a list, a
 // heading or a quotation.
-turndown.escape = (text) => text.replace(/([*_\\<])/g, "\\$1").replace(/&(?=#?\w+;)/g, "\\&").replace(/^([-+>#])(?=\s)/gm, "\\$1").replace(/^(\d+)\.(?=\s)/gm, "$1\\.");
+turndown.escape = (text) => text.replace(/([*_\\<])/g, "\\$1").replace(/^([-+>#])(?=\s)/gm, "\\$1").replace(/^(\d+)\.(?=\s)/gm, "$1\\.");
 const cls = (node) => node.getAttribute?.("class") ?? "";
 const inline = (content) => content.replace(/\s*\n\s*/g, " ").trim();
 // (« summary » is the label that opens an audio's transcription, and the line under an <audio> its caption)
@@ -74,6 +74,9 @@ turndown.remove(["nav", "script", "style", "audio", "button", "summary"]);
 turndown.addRule("caption", { filter: (node) => node.nodeName === "SPAN" && /<audio/.test(node.previousElementSibling?.nodeName === "BR" ? node.previousElementSibling.previousElementSibling?.innerHTML ?? "" : node.previousElementSibling?.innerHTML ?? ""), replacement: () => "" });
 // « LES SAINTES ECRITURES,<br>LA TRADITION ET LES INTERPRETATIONS » is one heading
 turndown.addRule("heading", { filter: ["h1", "h2", "h3", "h4", "h5", "h6"], replacement: (content, node) => (inline(content) ? `\n\n${"#".repeat(Number(node.nodeName[1]))} ${inline(content)}\n\n` : "") });
+// A list of terms (the count of 666 on `antichrist.htm`, « V 5+ », « I 1+ »…): a term and its value on one line, as a narrow screen shows them
+turndown.addRule("term", { filter: "dt", replacement: (content) => inline(content) });
+turndown.addRule("definition", { filter: "dd", replacement: (content) => `${inline(content) && " "}${inline(content)}  \n` });
 turndown.addRule("image", { filter: "img", replacement: () => "" });
 turndown.addRule("link", { filter: "a", replacement: (content) => content });
 // Bold and italics. Markdown reads « mot.**Suite » or « 11.25*: “En… » as asterisks, not as the end or the start of a
@@ -117,20 +120,28 @@ turndown.addRule("table", {
 });
 // What the page's own <style> hides at full width (`#tab600{ display:none; }`, `.responsive-table .stacked-table`)
 // is the narrow-screen copy of a block the page also sets as a table: a reader at a desk sees one, and the body has
-// that one. (The site's shared stylesheets hide only parts of its menus.)
-let hidden = []; // the selectors of the page being converted, each a chain of compounds: [[{ tag, id, classes }]]
+// that one. But only where the block shown in its place is text the body keeps: on `antichrist.htm` the count of 666
+// is shown as an image, which the body does not have, and the hidden copy is its only text. So a hidden block goes
+// only if the block beside it (or beside the box that holds it alone) prints four fifths of its words; `lc47`'s
+// two copies, which differ by a label a row, share 0.875, and no other neighbour of a hidden block more than 0.6.
+// (The site's shared stylesheets hide only parts of its menus.)
+let hidden = []; // the selectors of the page being converted
 function hiddenBy(html) {
   const css = [...html.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(([, s]) => s).join("\n").replace(/\/\*[\s\S]*?\*\//g, "").replace(/@media[^{]*\{(?:[^{}]*\{[^{}]*\})*[^{}]*\}/g, "");
-  return [...css.matchAll(/([^{}]+)\{[^{}]*display\s*:\s*none[^{}]*\}/g)].flatMap(([, selectors]) => selectors.split(",")).map((selector) => selector.trim().split(/\s+/).map((compound) => ({ tag: compound.match(/^[a-z][a-z0-9]*/i)?.[0].toUpperCase(), id: compound.match(/#([\w-]+)/)?.[1], classes: [...compound.matchAll(/\.([\w-]+)/g)].map(([, c]) => c) })));
+  return [...css.matchAll(/([^{}]+)\{[^{}]*display\s*:\s*none[^{}]*\}/g)].flatMap(([, selectors]) => selectors.split(",")).map((selector) => selector.trim());
 }
-const is = (node, { tag, id, classes }) => node.nodeType === 1 && (!tag || node.nodeName === tag) && (!id || node.getAttribute("id") === id) && classes.every((c) => cls(node).split(/\s+/).includes(c));
-function matches(node, chain) {
-  if (!is(node, chain.at(-1))) return false;
-  let k = chain.length - 2;
-  for (let up = node.parentNode; up && k >= 0; up = up.parentNode) if (is(up, chain[k])) k--;
-  return k < 0;
+// (cell by cell: turndown has taken the spaces between two cells away, and « V », « 5 » would read « v5 »)
+const wordsOf = (node) => (node.nodeType === 3 ? node.data.toLowerCase().match(/[\p{L}\p{N}]+/gu) ?? [] : [...node.childNodes].flatMap(wordsOf));
+function printedBeside(node) {
+  let box = node;
+  while (!box.previousElementSibling && !box.nextElementSibling && box.parentNode?.nodeType === 1) box = box.parentNode;
+  const own = wordsOf(node);
+  return [box.previousElementSibling, box.nextElementSibling].some((beside) => {
+    const there = new Set(beside ? wordsOf(beside) : []);
+    return own.filter((word) => there.has(word)).length >= 0.8 * own.length;
+  });
 }
-turndown.addRule("hidden", { filter: (node) => hidden.some((chain) => matches(node, chain)), replacement: () => "" });
+turndown.addRule("hidden", { filter: (node) => hidden.some((selector) => node.matches(selector)) && printedBeside(node), replacement: () => "" });
 
 /** A page in its two parts: its title page (the <header>, and a circular letter's number and month in <main>), and its text (the rest of <main>, then the <article>). */
 function partsOf(html) {

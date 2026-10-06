@@ -206,9 +206,6 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   }
   for (const md of Object.keys(all)) all[md] = all[md].filter((d, i, a) => a.findIndex((e) => e.line === d.line) === i);
 
-  // an answer refused only for its level, which was the line's own, is taken (no call)
-  for (const d of Object.values(all).flat()) if (!d.heading && d.refused && sameLevel(d.line, d.refused) && headingOf(d.line, d.refused)) { d.heading = headingOf(d.line, d.refused); delete d.refused; }
-
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
     const paras = body.split(/\n{2,}/).map((p) => p.trim());

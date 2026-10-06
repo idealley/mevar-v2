@@ -379,8 +379,9 @@ if (process.argv[1] === import.meta.filename) {
       const text = fs.readFileSync(file, "utf8");
       // A reference printed on a work's title page is cited by the work, before its text: the motto of the CMPP's
       // circular letters, « … (Hébreux 13.8) », is in `title_page` since their text is their page's (goal 31).
-      const titlePage = JSON.parse(text.match(/^---\n[\s\S]*?\n---\n/)?.[0].match(/^title_page: (.*)$/m)?.[1] ?? "[]").join("\n");
-      const body = `${titlePage}\n\n${text.replace(/^---\n[\s\S]*?\n---\n/, "")}`;
+      const [frontmatter] = text.match(/^---\n[\s\S]*?\n---\n/);
+      const titlePage = JSON.parse(frontmatter.match(/^title_page: (.*)$/m)?.[1] ?? "[]").join("\n");
+      const body = `${titlePage}\n\n${text.slice(frontmatter.length)}`;
 
       // In the order the work cites them: by position, the longer match first
       // at the same position (as web/src/lib/bible-links.mjs), first occurrence.
