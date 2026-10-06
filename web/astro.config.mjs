@@ -47,8 +47,9 @@ export default defineConfig({
     sitemap(),
     AstroPWA({
       registerType: "autoUpdate",
-      // What every page shows. The manifest icons are fetched by the browser
-      // when a reader installs the app, not precached (icon-512 is 85 KB).
+      // What every page shows. The manifest’s icons and screenshots are
+      // fetched by the browser when a reader installs the app, not precached
+      // (210 KB together).
       includeAssets: ["favicon.svg", "favicon.ico", "brand/logo.svg", "brand/logo-white.svg"],
         manifest: {
           name: "Mevar",

@@ -26,7 +26,8 @@ small things ».
    other icons keep purpose `any`.
 2. **`id: "/"`.**
 3. **Two screenshots of the home page**, phone (780 × 1688) and desktop
-   (1280 × 800, `form_factor: "wide"`), as JPEG. A browser fetches them
+   (1280 × 800, `form_factor: "wide"`), as JPEG. Each has a `label`, its
+   name for a screen reader. A browser fetches them
    when it offers the installation, not before: they are not precached.
 
 ## Acceptance evidence
