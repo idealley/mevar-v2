@@ -45,6 +45,7 @@ bible_refs:
   - "Matthieu 24:13"
 duplicate_of: "cmpp/2009/annee_2009"
 local_pdf: "https://files.mevar.org/cmpp/2009/annee_2009_a5.pdf"
+status: "draft"
 ---
 > “Quiconque met la main à la charrue, et regarde en arrière, n’est pas propre au royaume de Dieu” (Luc 9.62).
 

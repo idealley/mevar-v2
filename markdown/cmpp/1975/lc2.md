@@ -52,6 +52,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc2.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Actes 26:19"
   - "Romains 11:29"
   - "Matthieu 3:12"

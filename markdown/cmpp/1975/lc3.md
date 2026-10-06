@@ -34,6 +34,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc3.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Ésaïe 33:2"
   - "Hébreux 12:2"
   - "Hébreux 5:7-9"

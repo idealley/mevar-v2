@@ -34,6 +34,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_mars_1974.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Ésaïe 44:24-26"
   - "Hébreux 1:1-3"
   - "Ésaïe 44"

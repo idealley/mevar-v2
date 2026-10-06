@@ -46,6 +46,7 @@ bible_refs:
   - "Éphésiens 5:19"
 duplicate_of: "cmpp/2011/annee_2011"
 local_pdf: "https://files.mevar.org/cmpp/2011/annee_2011_a5.pdf"
+status: "draft"
 ---
 > “Ne faites rien par esprit de parti ou par vaine gloire, mais que l’humilité vous fasse regarder les autres comme étant au-dessus de vous-mêmes. Que chacun de vous, au lieu de considérer ses propres intérêts, considère aussi ceux des autres. Ayez en vous les sentiments qui étaient en Jésus Christ,…” (Philipiens 2.3-5).
 >

@@ -36,6 +36,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc5.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Habacuc 1:5"
   - "Actes 13:30"
   - "2 Corinthiens 2:14-17"

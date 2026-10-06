@@ -29,6 +29,7 @@ themes:
 pdf_url: "http://cmpp.ch/quel_bapteme.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Actes 19:3"
   - "Ésaïe 40:3"
   - "Matthieu 3:13-15"
   - "Matthieu 28:19"

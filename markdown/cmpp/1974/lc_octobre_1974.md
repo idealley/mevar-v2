@@ -37,6 +37,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_octobre_1974.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Tite 1:1-3"
   - "Jean 21:25"
   - "Amos 8:11"

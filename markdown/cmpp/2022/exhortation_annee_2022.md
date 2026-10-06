@@ -57,6 +57,7 @@ bible_refs:
   - "Romains 13:10"
   - "Matthieu 5:17"
 local_pdf: "https://files.mevar.org/cmpp/2022/exhortation_annee_2022.pdf"
+status: "draft"
 ---
 > C’est pourquoi je supporte tout à cause des élus, afin qu’eux aussi obtiennent le salut qui est en Jésus-Christ, avec la gloire éternelle. Cette parole est certaine: Si nous sommes morts avec lui, nous vivrons aussi avec lui; si nous persévérons, nous régnerons aussi avec lui; si nous le renions, lui aussi nous reniera; si nous sommes infidèles, il demeure fidèle, car il ne peut se renier lui-même. Rappelle ces choses, en conjurant devant Dieu qu’on évite les disputes de mots, qui ne servent qu’à la ruine de ceux qui écoutent…
 >

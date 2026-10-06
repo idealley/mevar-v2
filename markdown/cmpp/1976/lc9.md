@@ -32,6 +32,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc9.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "1 Corinthiens 3:10"
   - "Jean 4:34"
   - "Romains 8:19"

@@ -47,6 +47,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc4.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Jean 12:35-36"
   - "Éphésiens 5:8"
   - "Zacharie 14:7"

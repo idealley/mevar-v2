@@ -65,6 +65,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_novembre_1973.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Romains 10:16-18"
   - "Romains 5:10"
   - "Hébreux 12:14"

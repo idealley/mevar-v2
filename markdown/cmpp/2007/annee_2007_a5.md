@@ -35,6 +35,7 @@ bible_refs:
   - "Matthieu 11:29,30"
 duplicate_of: "cmpp/2007/annee_2007"
 local_pdf: "https://files.mevar.org/cmpp/2007/annee_2007_a5.pdf"
+status: "draft"
 ---
 Chers frères, sœurs et amis,
 

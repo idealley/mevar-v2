@@ -39,6 +39,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_juillet_1974.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Jacques 5:7-11"
   - "Galates 5:22"
   - "Hébreux 10:36,37"

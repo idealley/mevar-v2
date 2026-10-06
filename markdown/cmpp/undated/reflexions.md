@@ -45,6 +45,7 @@ bible_refs:
 local_pdf: "https://files.mevar.org/cmpp/undated/reflexions.pdf"
 html_url: "http://www.cmpp.ch/reflexions.htm"
 title_page: ["REFLEXIONS"]
+preacher: "CMPP"
 ---
 Plusieurs sont emprisonnés et la religion est une prison. La religion est le fait d'adorer Dieu **sans révélation**, sans puissance, **sans la vision céleste. Sortir de Babylone veut dire sortir de la religion,** sortir des crédo et dénominations faites par les hommes. Il est vrai qu'une religion est toujours constituée avec des versets bibliques mais c'est quand même une religion **parce qu'ils ne sont pas révélés par Jésus Lui-même**. Ce n'est plus la puissance de Dieu qui se révèle, **qui révèle Jésus vainqueur du péché et de la mort**.
 

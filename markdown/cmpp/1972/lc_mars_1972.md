@@ -34,6 +34,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_mars_1972.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Zacharie 8:9"
   - "Marc 1:22"
   - "Actes 13"

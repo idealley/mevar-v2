@@ -256,6 +256,7 @@ bible_refs:
   - "1 Thessaloniciens 5:23"
 duplicate_of: "cmpp/undated/ministeres_pasteur_A4"
 local_pdf: "https://files.mevar.org/cmpp/undated/ministeres_pasteur_A4_gc.pdf"
+preacher: "CMPP"
 ---
 MINISTERES
 

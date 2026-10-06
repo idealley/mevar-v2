@@ -80,6 +80,7 @@ bible_refs:
   - "Jacques 1:23"
   - "Jacques 5:7,8"
 local_pdf: "https://files.mevar.org/cmpp/2020/annee_2020.pdf"
+status: "draft"
 ---
 EXHORTATION
 ANNEE 2020

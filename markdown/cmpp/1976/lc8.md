@@ -33,6 +33,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc8.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Apocalypse 3:14"
   - "Jean 14:2,3"
   - "Matthieu 24:42"

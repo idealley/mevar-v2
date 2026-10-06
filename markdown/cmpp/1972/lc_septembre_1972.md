@@ -41,6 +41,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_septembre_1972.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Ésaïe 54:14,15,17"
   - "Éphésiens 4:11,12"
   - "1 Corinthiens 1"

@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 4:21-24"
   - "Ésaïe 58:6"
 local_pdf: "https://files.mevar.org/cmpp/2016/annee_2016.pdf"
+status: "draft"
 ---
 > C’est pour la liberté que Christ nous a affranchis. Demeurez donc fermes, et ne vous laissez pas mettre de nouveau sous le joug de la servitude.
 > — Galates 5.1

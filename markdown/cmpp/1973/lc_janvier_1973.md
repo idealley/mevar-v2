@@ -42,6 +42,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_janvier_1973.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Apocalypse 3:8"
   - "Apocalypse 18:4"
   - "Hébreux 12:18-29"

@@ -40,6 +40,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_janvier_1974.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Luc 21:36"
   - "Zacharie 12:3"
   - "Galates 4:21-30"

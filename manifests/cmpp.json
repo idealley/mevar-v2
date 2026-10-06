@@ -1003,7 +1003,8 @@
       "mise en pratique de la Parole"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2013/annee_2013_a5.md"
+    "local_md": "markdown/cmpp/2013/annee_2013_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1339,7 +1340,8 @@
       "discernement"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2020/annee_2020.md"
+    "local_md": "markdown/cmpp/2020/annee_2020.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1375,7 +1377,8 @@
       "assurance du salut"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A4_gc.md"
+    "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A4_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1410,7 +1413,8 @@
       "témoignage"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A5.md"
+    "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1447,7 +1451,8 @@
       "unité des croyants"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A5_gc.md"
+    "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A5_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1485,7 +1490,8 @@
       "unité de l'Église"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A5_gc.md"
+    "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A5_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1522,7 +1528,8 @@
       "restauration du premier amour"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A5.md"
+    "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1559,7 +1566,8 @@
       "persévérance"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A4.md"
+    "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A4.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1597,7 +1605,8 @@
       "humilité"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A4_gc.md"
+    "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A4_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1636,7 +1645,8 @@
       "fruits de l'Esprit"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A5_gc.md"
+    "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A5_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1680,7 +1690,8 @@
       "ministères de l'âge"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A4.md"
+    "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A4.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1721,7 +1732,8 @@
       "Vierges sages et folles"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A4_gc.md"
+    "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A4_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1756,7 +1768,8 @@
       "marche selon l'Esprit"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A5.md"
+    "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -1800,7 +1813,8 @@
       "enlèvement"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A5_gc.md"
+    "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A5_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -17358,7 +17372,8 @@
       "publication de brochures"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2007/annee_2007.md"
+    "local_md": "markdown/cmpp/2007/annee_2007.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -17396,7 +17411,8 @@
       "avertissement contre les absolus humains"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2007/annee_2007_a5.md"
+    "local_md": "markdown/cmpp/2007/annee_2007_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -17941,7 +17957,8 @@
       "rédemption"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2008/annee_2008.md"
+    "local_md": "markdown/cmpp/2008/annee_2008.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -17977,7 +17994,8 @@
       "bénédictions"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2008/annee_2008_a5.md"
+    "local_md": "markdown/cmpp/2008/annee_2008_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -18640,7 +18658,8 @@
       "perfection"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2009/annee_2009.md"
+    "local_md": "markdown/cmpp/2009/annee_2009.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -18679,7 +18698,8 @@
       "Saint-Esprit"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2009/annee_2009_a5.md"
+    "local_md": "markdown/cmpp/2009/annee_2009_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -19322,7 +19342,8 @@
       "fin des temps"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2010/annee_2010.md"
+    "local_md": "markdown/cmpp/2010/annee_2010.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -19361,7 +19382,8 @@
       "Epouse de Christ"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2010/annee_2010_a5.md"
+    "local_md": "markdown/cmpp/2010/annee_2010_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -19976,7 +19998,8 @@
       "ministères"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2011/annee_2011.md"
+    "local_md": "markdown/cmpp/2011/annee_2011.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -20020,7 +20043,8 @@
       "avertissement contre les divisions"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2011/annee_2011_a5.md"
+    "local_md": "markdown/cmpp/2011/annee_2011_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -20616,7 +20640,8 @@
       "retour du Christ"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2012/annee_2012.md"
+    "local_md": "markdown/cmpp/2012/annee_2012.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -20655,7 +20680,8 @@
       "foi"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2012/annee_2012_a5.md"
+    "local_md": "markdown/cmpp/2012/annee_2012_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -21219,7 +21245,8 @@
       "Parole de Dieu"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2013/annee_2013.md"
+    "local_md": "markdown/cmpp/2013/annee_2013.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -21829,7 +21856,8 @@
       "salut en Christ"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2014/annee_2014.md"
+    "local_md": "markdown/cmpp/2014/annee_2014.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -21873,7 +21901,8 @@
       "unité"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2014/annee_2014_a5.md"
+    "local_md": "markdown/cmpp/2014/annee_2014_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -22529,7 +22558,8 @@
       "obéissance à la Parole"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2015/annee_2015.md"
+    "local_md": "markdown/cmpp/2015/annee_2015.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -22573,7 +22603,8 @@
       "obéissance à Dieu"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2015/annee_2015_a5.md"
+    "local_md": "markdown/cmpp/2015/annee_2015_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -23269,7 +23300,8 @@
       "obéissance à la Parole"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2016/annee_2016.md"
+    "local_md": "markdown/cmpp/2016/annee_2016.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -23318,7 +23350,8 @@
       "nouvelle alliance"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2016/annee_2016_a5.md"
+    "local_md": "markdown/cmpp/2016/annee_2016_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -24533,7 +24566,8 @@
       "retour de Christ"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2018/annee_2018.md"
+    "local_md": "markdown/cmpp/2018/annee_2018.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -24572,7 +24606,8 @@
       "retour de Christ"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2018/annee_2018_a5.md"
+    "local_md": "markdown/cmpp/2018/annee_2018_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -24780,7 +24815,8 @@
       "Parole de Dieu"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2019/annee_2019.md"
+    "local_md": "markdown/cmpp/2019/annee_2019.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -24824,7 +24860,8 @@
       "repentance"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2019/annee_2019_a5.md"
+    "local_md": "markdown/cmpp/2019/annee_2019_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -24878,7 +24915,8 @@
       "Parole de Dieu"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2020/annee_2020_a5.md"
+    "local_md": "markdown/cmpp/2020/annee_2020_a5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -24925,7 +24963,8 @@
       "sainteté"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2021/exhortation_annee_2021.md"
+    "local_md": "markdown/cmpp/2021/exhortation_annee_2021.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -24972,7 +25011,8 @@
       "fruits de l'Esprit"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A4_gc.md"
+    "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A4_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25018,7 +25058,8 @@
       "soumission"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A5.md"
+    "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25070,7 +25111,8 @@
       "signes des temps"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A5_gc.md"
+    "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A5_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25110,7 +25152,8 @@
       "fin des temps"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2022/exhortation_annee_2022.md"
+    "local_md": "markdown/cmpp/2022/exhortation_annee_2022.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25153,7 +25196,8 @@
       "perfection en Christ"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2023/exhortation_annee_2023.md"
+    "local_md": "markdown/cmpp/2023/exhortation_annee_2023.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25194,7 +25238,8 @@
       "nouvelle naissance"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A4_gc.md"
+    "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A4_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25235,7 +25280,8 @@
       "perfection en Christ"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A5.md"
+    "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25275,7 +25321,8 @@
       "tromperie"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A4.md"
+    "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A4.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25314,7 +25361,8 @@
       "prophéties bibliques"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A4_gc.md"
+    "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A4_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25354,7 +25402,8 @@
       "restauration"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A5_gc.md"
+    "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A5_gc.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -25393,7 +25442,8 @@
       "unité de l'Église"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A5.md"
+    "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A5.md",
+    "status": "draft"
   },
   {
     "source": "cmpp",
@@ -27476,7 +27526,8 @@
     "title_page": [
       "MINISTERES",
       "MINISTERE DE PASTEUR (BERGER)"
-    ]
+    ],
+    "preacher": "CMPP"
   },
   {
     "source": "cmpp",
@@ -27532,7 +27583,8 @@
       "préparation de l'Épouse"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/undated/ministeres_pasteur_A4_gc.md"
+    "local_md": "markdown/cmpp/undated/ministeres_pasteur_A4_gc.md",
+    "preacher": "CMPP"
   },
   {
     "source": "cmpp",
@@ -27588,7 +27640,8 @@
       "préparation de l'Épouse"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/undated/ministeres_pasteur_A5.md"
+    "local_md": "markdown/cmpp/undated/ministeres_pasteur_A5.md",
+    "preacher": "CMPP"
   },
   {
     "source": "cmpp",
@@ -27990,7 +28043,8 @@
     "html_url": "http://www.cmpp.ch/reflexions.htm",
     "title_page": [
       "REFLEXIONS"
-    ]
+    ],
+    "preacher": "CMPP"
   },
   {
     "source": "cmpp",

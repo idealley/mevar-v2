@@ -35,6 +35,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc6.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Psaumes 89:8"
   - "2 Corinthiens 12:1"
   - "Psaumes 2:7"

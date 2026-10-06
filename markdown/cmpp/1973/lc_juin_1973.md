@@ -36,6 +36,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc_juin_1973.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Romains 8:14"
   - "Galates 3:3"
   - "Romains 8:6"

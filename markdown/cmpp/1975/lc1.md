@@ -44,6 +44,7 @@ themes:
 pdf_url: "http://cmpp.ch/lc1.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Hébreux 13:8"
   - "Hébreux 1:3"
   - "Jacques 1:18"
   - "1 Pierre 1:23,25"

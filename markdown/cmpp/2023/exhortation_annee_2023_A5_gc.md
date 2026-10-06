@@ -47,6 +47,7 @@ bible_refs:
   - "2 Corinthiens 13:8"
 local_pdf: "https://files.mevar.org/cmpp/2023/exhortation_annee_2023_A5_gc.pdf"
 duplicate_of: "cmpp/2023/exhortation_annee_2023"
+status: "draft"
 ---
 ## EXHORTATION
 ## ANNEE 2023

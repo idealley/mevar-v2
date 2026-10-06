@@ -53,6 +53,7 @@ bible_refs:
   - "Ésaïe 53:10"
 local_pdf: "https://files.mevar.org/cmpp/2026/exhortation_annee_2026_A4_gc.pdf"
 duplicate_of: "cmpp/2026/exhortation_annee_2026_A4"
+status: "draft"
 ---
 ## Exhortation année 2026
 
