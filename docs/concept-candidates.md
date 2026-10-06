@@ -90,7 +90,7 @@ Most mentions of « témoignage de l'épouse »: La position de l’archange Mic
 | French phrase | French works (mentions) | Translation works (mentions) | First French work | Segond | Darby |
 |---|---|---|---|---|---|
 | préparation de l'épouse | 6 (13) | 1 (1) | 2004 · Les cinq Ministères de la Parole dans la vision des temps de la fin (Parfait M'bra) | 0 | 0 |
-| préparation | 289 (704) | 30 (34) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 6 | 9 |
+| préparation | 289 (703) | 30 (34) | 1966 · La Parole de Dieu Demeure Éternellement (Ewald Frank) | 6 | 9 |
 
 | English phrase | Branham works (mentions) | KJV | Top Branham sermons |
 |---|---|---|---|

@@ -489,26 +489,6 @@ Ainsi si vous prenez VICARIVS FILII DEI et que vous tiriez une ligne au-dessous 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 | \+ 1 | \+ 100 |  |  | \+ 1 | \+ 5 |  |  |  | \+ 1 | \+ 50 | \+ 1 | \+ 1 |  | \+ 500 |  | \+ 1 | = | 666 |
 
-V 5+
-I 1+
-C 100
-A +
-R
-
-I 1+
-V 5
-S
-
-F 1
-I 1
-L +50
-I +1
-I +1
-D 500
-E +
-I 1
-= 666
-
 198 **La Bible dit qu’il s’assiérait dans le temple de Dieu, qu’il serait adoré comme Dieu. Lorsque cette petite doctrine se fut incarnée, elle devint un vicaire prenant la place du Fils de Dieu.** Oh, mes frères, quel esprit terriblement trompeur! Lisez 2 Thessaloniciens 2.3 et vous verrez ce qui en est.
 
 199 **Naturellement, vous vous souvenez que Satan est la tête de tout le pouvoir politique de chaque nation.** Combien parmi vous savent cela? Voulez-vous en relever la référence? C’est Matthieu 4.8.

@@ -79257,8 +79257,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0319",
     "local_md": "markdown/cmpp/1963/7sceaux4.md",
-    "size_bytes": 125285,
-    "line_count": 675
+    "size_bytes": 125205,
+    "line_count": 655
   },
   {
     "source": "cmpp",
@@ -80917,7 +80917,7 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1226",
     "local_md": "markdown/cmpp/1963/serie4no3.md",
-    "size_bytes": 122151,
+    "size_bytes": 122159,
     "line_count": 542
   },
   {
@@ -85136,7 +85136,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1975/lc2.md",
-    "size_bytes": 37900,
+    "size_bytes": 37901,
     "line_count": 221
   },
   {
@@ -87615,8 +87615,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1980/lc22.md",
-    "size_bytes": 55023,
-    "line_count": 270
+    "size_bytes": 54905,
+    "line_count": 264
   },
   {
     "source": "cmpp",
@@ -89173,8 +89173,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1986/antichrist.md",
-    "size_bytes": 140856,
-    "line_count": 704
+    "size_bytes": 140776,
+    "line_count": 684
   },
   {
     "source": "cmpp",
@@ -89946,8 +89946,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1993/lc39.md",
-    "size_bytes": 57623,
-    "line_count": 581
+    "size_bytes": 51899,
+    "line_count": 349
   },
   {
     "source": "cmpp",
@@ -90480,8 +90480,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1997/lc47.md",
-    "size_bytes": 57792,
-    "line_count": 740
+    "size_bytes": 54939,
+    "line_count": 377
   },
   {
     "source": "cmpp",
@@ -91011,8 +91011,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/lc54.md",
-    "size_bytes": 69409,
-    "line_count": 286
+    "size_bytes": 69171,
+    "line_count": 280
   },
   {
     "source": "cmpp",

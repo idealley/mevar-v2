@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T09:38:43.836Z",
+  "generated": "2026-10-06T10:07:18.866Z",
   "totals": {
     "branham": 1206,
     "translation": 1008,
@@ -1222,7 +1222,7 @@
             "translation": 30
           },
           "mentions": {
-            "french": 704,
+            "french": 703,
             "translation": 34
           },
           "first_fr": {
@@ -88305,17 +88305,6 @@
       }
     },
     {
-      "phrase": "accomplissement apocalypse",
-      "works": {
-        "french": 11,
-        "translation": 1
-      },
-      "in_bible": {
-        "lsg": false,
-        "darby": false
-      }
-    },
-    {
       "phrase": "laquelle le diable",
       "works": {
         "french": 11,
@@ -102118,6 +102107,17 @@
       "in_bible": {
         "lsg": true,
         "darby": true
+      }
+    },
+    {
+      "phrase": "accomplissement apocalypse",
+      "works": {
+        "french": 10,
+        "translation": 1
+      },
+      "in_bible": {
+        "lsg": false,
+        "darby": false
       }
     },
     {
@@ -121206,17 +121206,6 @@
       }
     },
     {
-      "phrase": "marchent les lépreux",
-      "works": {
-        "french": 9,
-        "translation": 2
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
-      }
-    },
-    {
       "phrase": "dieu matthieu",
       "works": {
         "french": 9,
@@ -121225,6 +121214,17 @@
       "in_bible": {
         "lsg": false,
         "darby": false
+      }
+    },
+    {
+      "phrase": "marchent les lépreux",
+      "works": {
+        "french": 9,
+        "translation": 2
+      },
+      "in_bible": {
+        "lsg": true,
+        "darby": true
       }
     },
     {
@@ -140211,17 +140211,6 @@
       "in_bible": {
         "lsg": true,
         "darby": false
-      }
-    },
-    {
-      "phrase": "père seigneur",
-      "works": {
-        "french": 8,
-        "translation": 16
-      },
-      "in_bible": {
-        "lsg": true,
-        "darby": true
       }
     },
     {

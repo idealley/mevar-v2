@@ -117,7 +117,7 @@ The rapture (3 décembre 1965, Yuma, Arizona).
 Harvest time (12 décembre 1964, Phoenix, Arizona).  
 «You know what? **I hear the coming of the combine**. The world council — she will separate it. What’ll she do? — shake her off of her stalk. But she has got an elevator waiting for her. She’ll go home one of these mornings. Oh yes! If you understand, say Amen…».
 
-«Savez-vous quoi? **J’entends la venue de la moissonneuse-batteuse**. Le conseil mondial — elle le séparera. Que feront-ils? Ils la secoueront de sa tige. Mais elle a un élévateur qui l’attend. Elle s’en ira à la maison, un de ces matins. Oh, oui! Si vous le comprenez, dites: <Amen>…»
+«Savez-vous quoi? **J’entends la venue de la moissonneuse-batteuse**. Le conseil mondial — elle le séparera. Que feront-ils? Ils la secoueront de sa tige. Mais elle a un élévateur qui l’attend. Elle s’en ira à la maison, un de ces matins. Oh, oui! Si vous le comprenez, dites: \<Amen>…»
 
 Il est écrit: *“Il a son van à la main; il nettoiera son aire, et il amassera son blé dans le grenier, mais il brûlera la paille dans un feu qui ne s’éteint point”* (Mat. 3.12).
 
