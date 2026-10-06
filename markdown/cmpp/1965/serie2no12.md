@@ -65,6 +65,7 @@ original: "branham/1965/65-0801M"
 original_title: "God of This Evil Age"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie2no12.htm"
+title_page: ["LE DIEU DE CET AGE MAUVAIS","(God of This Evil Age)","1er août 1965, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Inclinons nos têtes. Cher Père céleste, nous Te sommes reconnaissants ce matin de ce que nous pouvons croire. Cela a été rendu possible par le Sang répandu de Ton Fils Jésus, afin que nous puissions avoir part à Sa grâce, et devenir des fils et des filles de Dieu, **par le fait qu’Il a obéi jusqu’à Sa mort à la croix; nous sommes justifiés par la foi que nous avons en Lui et en Sa résurrection**. Et maintenant, le Saint-Esprit est répandu dans les coeurs, en tous lieux.
 

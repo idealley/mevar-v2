@@ -35,6 +35,7 @@ themes:
 pdf_url: "http://cmpp.ch/eden.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Amos 3:7"
   - "Apocalypse 2:7"
   - "Nombres 24:6"
   - "Psaumes 1"
@@ -83,7 +84,12 @@ bible_refs:
 local_pdf: "https://files.mevar.org/cmpp/undated/eden.pdf"
 preacher: "Ewald Frank"
 html_url: "http://www.cmpp.ch/eden.htm"
+title_page: ["LE SEDUCTEUR","CAIN ET LE PECHE ORIGINEL"]
 ---
+Parmi les mystères qu’il a plu à Dieu de nous révéler dans cette dernière génération, la vraie signification du fruit défendu dans le jardin d’Eden et du péché originel est, sans nul doute, une profonde et glorieuse révélation. A travers tous les temps, lorsque Dieu révéla de nouvelles choses dans la Parole qu’Il avait placée devant nos yeux, Il a toujours parlé par le moyen de Ses serviteurs les prophètes, et cela au temps propice que Lui seul a choisi: *“Or le Seigneur, l’Eternel, ne fera rien, qu’il ne révèle son secret à ses serviteurs les prophètes”* (Amos 3.7). Je considère comme une grâce merveilleuse — particulièrement de nos jours où fleurissent tant de philosophies humaines et de fausses doctrines que Satan a si bien su incorporer dans les traditions humaines — que la possibilité nous soit donnée de puiser dans la Parole de Dieu pure et sans taches, afin de nous édifier sur le seul fondement valable pour notre salut et notre Vie éternelle. Malheureusement, la Parole de Dieu fut si souvent disséquée par les théologiens; et le peuple de Dieu, au lieu d’ouvrir la Bible pour s’y laisser guider par le Saint-Esprit, laissait souvent, sans s’en rendre compte, pénétrer davantage dans son coeur l’interprétation humaine provenant des scribes et des pharisiens modernes.
+
+C’est certainement un des signes les plus marquants du prochain retour du Seigneur Jésus-Christ, que Dieu suscite de nos jours un prophète pour ramener Son peuple aux pures vérités de l’Evangile, afin de préparer ainsi Ses élus à l’enlèvement. Nous devons prendre garde à la manière dont nous recevons cette révélation sur le péché originel, car le Seigneur a parlé à Son serviteur et prophète William Branham le 28 février 1963, directement dans une nuée, tout comme Il l’a fait pour Moïse. C’est le même Eternel qui a révélé à Son serviteur ce qu’était le péché originel. Chacun de nous est responsable devant Dieu s’il accepte ou s’il rejette cette révélation. A cause de cela nous devons nous placer dans la prière, devant la face du Seigneur, avant de lire cette étude, afin que le Saint-Esprit puisse parler à notre coeur.
+
 ## LES DEUX ARBRES DANS LE JARDIN D’EDEN
 
 *“Que celui qui a des oreilles écoute ce que l’Esprit dit aux assemblées. A celui qui vaincra, je lui donnerai de manger de l’arbre de vie qui est dans le paradis de Dieu”* (Apoc. 2.7).
@@ -152,11 +158,11 @@ Pourquoi l’apôtre Paul parle-t-il précisément d’Eve, lorsqu’il parle d�
 
 Dans le langage imagé que Dieu emploie en nous apprenant le drame du jardin d’Eden, nous décelons des points significatifs:
 
-1) Ce fut une envie, un désir des yeux! Sur quoi donc est porté le désir des yeux?
+1\) Ce fut une envie, un désir des yeux! Sur quoi donc est porté le désir des yeux?
 
-2) Pourquoi Adam et Eve, après avoir péché, ont-ils caché la nudité de leur sexe et non, par exemple, leur bouche ou leur visage?
+2\) Pourquoi Adam et Eve, après avoir péché, ont-ils caché la nudité de leur sexe et non, par exemple, leur bouche ou leur visage?
 
-3) Pourquoi Dieu dit-Il sitôt après à Eve: *“… tu enfanteras avec douleur…”* (Gen. 3.16 — Segond)?
+3\) Pourquoi Dieu dit-Il sitôt après à Eve: *“… tu enfanteras avec douleur…”* (Gen. 3.16 — Segond)?
 
 Enfante-t-on des enfants par la dégustation d’une pomme? Pourquoi n’est-il pas écrit: “Tu mangeras tes aliments avec douleur”? Mais certains feront la remarque: «Si Eve est bien tombée de cette manière, qu’a donc fait Adam, puisque nous voyons que Dieu l’accuse de la même manière?». La réponse est simple, car la Parole de Dieu ne change pas; Elle était écrite éternellement dans le ciel. Avant qu’un grain de poussière existât, la Parole de Dieu était là, telle que nous L’avons dans la Bible. Cette Parole nous apprend que si une femme quitte son mari pour aller avec un autre homme, elle commet un adultère et son mari ne doit pas la reprendre. La Parole de Dieu est aussi vraie, bien que non écrite pour ceux qui habitaient le jardin d’Eden, que plus tard dans la loi de Moïse. Mais Adam prit Eve. Il savait très bien ce qu’il faisait. Il la prit malgré son péché. Eve était une partie de lui-même; et c’est délibérément, de sa propre volonté qu’il partagea sa responsabilité. Il ne la répudia pas et, après l’avoir prise, il la rendit enceinte. Il savait aussi quelle conséquence courait l’humanité entière. Il livra néanmoins toute l’humanité sous la loi du péché et garda Eve, parce qu’il l’aimait.
 
@@ -186,8 +192,7 @@ Lorsque nous prenons connaissance à travers la Bible de tout le plan de salut p
 
 Cependant, un animal fut pris et son sang répandu. Alors seulement, Dieu put à nouveau trouver communion avec les hommes. Plus tard, le jour devait arriver où Dieu Lui-même deviendrait chair, afin de ramener à Lui l’humanité tombée et lui donner part à la Vie éternelle.
 
-## LA LOI DE LA POSTERITE  
-ET L’ARBRE GENEALOGIQUE D’ADAM
+## LA LOI DE LA POSTERITE ET L’ARBRE GENEALOGIQUE D’ADAM
 
 Dans le livre de la Genèse, chapitre 5, nous trouvons la postérité décrite de la manière suivante: Adam — Seth — Enosch — Kénan — Mahalaleel — Jéred — Hénoc.
 

@@ -53,6 +53,7 @@ original: "branham/1963/63-1222"
 original_title: "Appropriate Gifts"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no2.htm"
+title_page: ["DONS APPROPRIES","(Appropriate Gifts)","22 décembre 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonsoir, chers amis. Je viens d’entrer il y a un instant et j’ai pensé pouvoir descendre vous souhaiter à tous un «Joyeux Noël».
 

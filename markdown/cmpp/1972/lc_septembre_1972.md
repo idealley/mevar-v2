@@ -68,6 +68,7 @@ bible_refs:
   - "1 Pierre 5:1"
 local_pdf: "https://files.mevar.org/cmpp/1972/lc_septembre_1972.pdf"
 html_url: "http://www.cmpp.ch/lc_septembre_1972.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","SEPTEMBRE 1972"]
 ---
 Je vous salue cordialement dans le précieux Nom de Jésus, avec ces paroles d’Esaïe 54.14,15,17:
 

@@ -50,6 +50,7 @@ original: "branham/1963/63-1110E"
 original_title: "He that is in you"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie3no11.htm"
+title_page: ["CELUI QUI EST EN VOUS","(He that is in you)","10 novembre 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Merci. Que le Seigneur vous bénisse.
 

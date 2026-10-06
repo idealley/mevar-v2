@@ -215,6 +215,7 @@ bible_refs:
   - "Romains 9:28"
 local_pdf: "https://files.mevar.org/cmpp/1987/il_est_ecrit.pdf"
 html_url: "http://www.cmpp.ch/il_est_ecrit.htm"
+title_page: ["Titre original de l’ouvrage:","Es steht geschrieben…","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1987 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 # IL EST ECRIT…
 

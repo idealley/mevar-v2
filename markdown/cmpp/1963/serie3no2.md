@@ -63,6 +63,7 @@ original: "branham/1963/63-0623E"
 original_title: "The flashing red light of the of His Coming"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie3no2.htm"
+title_page: ["LE SIGNAL ROUGE DE SA VENUE","(The flashing red light of the of His Coming)","23 juin 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons un instant debout et inclinons nos têtes pour la prière. Notre Père céleste, nous Te louons pour tout ce que nos yeux ont vu et nos oreilles entendu. Et nous Te remercions, Seigneur, parce qu’aujourd’hui nous savons que Tu es le même grand Dieu Jéhovah que Tu as toujours été et que Tu seras toujours.
 
@@ -517,7 +518,7 @@ Seigneur, j’offre cette prière au Nom du Seigneur Jésus: veuille accorder à
 > J’entends mon Sauveur qui m’appelle (que chaque pécheur prie!)  
 > J’entends mon Sauveur qui m’appelle (avez-vous pu L’entendre appeler quand Il ressuscita cet homme ce matin?)  
 > J’entends… (pouvez-vous L’entendre vous appeler tandis qu’Il est dans la Parole et qu’Il fait clignoter Sa lumière vers vous?)  
-> Je marcherai avec Lui tout le long du chemin (êtes-vous d’accord de marcher avec Lui *tout le long du chemin*?)  
+> Je marcherai avec Lui tout le long du chemin (êtes-vous d’accord de marcher avec Lui *tout le long du chemin?)*  
 > Où Il me conduit, j’irai (que Dieu vous bénisse, mon frère! les hommes à gauche, les femmes à droite!)  
 > Où Il me conduit … (la Bible dit: tous ceux qui crurent furent baptisés)  
 > J’irai avec Lui tout le long du chemin.  

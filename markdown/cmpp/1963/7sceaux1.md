@@ -35,6 +35,8 @@ themes:
 pdf_url: "http://cmpp.ch/7sceaux1.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Malachie 4:5,6"
+  - "Apocalypse 10:7"
   - "Apocalypse 19:7"
   - "1 Chroniques 17"
   - "Jean 14"
@@ -56,7 +58,14 @@ bible_refs:
 local_pdf: "https://files.mevar.org/cmpp/1963/7sceaux1.pdf"
 html_url: "http://www.cmpp.ch/7sceaux1.htm"
 original: "branham/1963/63-0317M"
+title_page: ["LA REVELATION","DES","SEPT SCEAUX","AINSI QU’ELLE FUT DONNE A NOTRE CHER FRÈRE","WILLIAM MARRION BRANHAM","1er CHAPITRE","DIEU CACHE ET REVELE DANS LA SIMPLICITE"]
 ---
+### INTRODUCTION
+
+> *“Voici, je vous enverrai Elie, le prophète, avant que le jour de l’Eternel arrive, ce jour grand et redoutable. Il ramènera le coeur des pères à leurs enfants, et le coeur des enfants à leurs pères, de peur que je ne vienne frapper le pays d’interdit”* (Malachie 4.5,6)
+
+> *“… mais qu’aux jours de la voix du septième ange, quand il sonnerait de la trompette, le mystère de Dieu s’accomplirait, comme il l’a annoncé à ses serviteurs, les prophètes”* (Apocalypse 10.7).
+
 La Parole du Seigneur a promis qu’Il enverrait dans le monde une fois encore l’esprit d’Elie sous la forme de ce “messager du temps de la fin” qui était l’ange du septième âge de l’Eglise. Nous croyons fermement que cette promesse fut réalisée par le ministère si magnifiquement confirmé de notre précieux frère, William Marrion Branham.
 
 Tout au long de la vie de cet humble serviteur du Seigneur qui fut une si belle image de l’Esprit de Christ, nous avons trouvé des manifestations de Dieu si parfaitement confirmées qu’elles ne peuvent être expliquées par aucun raisonnement naturel. Parmi les centaines de milliers de visions que le Seigneur a données au frère Branham partout dans le monde, pas une fois il n’est arrivé qu’une vision ne soit pas confirmée et attestée comme étant la Parole du Seigneur.
@@ -73,9 +82,7 @@ Billy Paul Branham
 
 *(God Hiding Himself In Simplicity, Then Revealing Himself In The Same)*
 
-### 17 mars 1963, matin  
-Branham Tabernacle  
-Jeffersonville — Indiana, U.S.A.
+### 17 mars 1963, matin Branham Tabernacle Jeffersonville — Indiana, U.S.A.
 
 1 Bonjour, mes amis. Etre ici dans ce Tabernacle, ce matin, est pour moi un des glorieux moments de mon existence. J’aime voir cette belle architecture et le bon ordre qui règne parmi les enfants de Dieu qui sont assis aujourd’hui dans cette maison.
 

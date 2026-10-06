@@ -66,6 +66,7 @@ bible_refs:
   - "Ésaïe 37:30-32"
 local_pdf: "https://files.mevar.org/cmpp/1974/lc_janvier_1974.pdf"
 html_url: "http://www.cmpp.ch/lc_janvier_1974.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","JANVIER 1974"]
 ---
 Je salue cordialement tous les frères et soeurs, dans le précieux Nom de notre Seigneur Jésus-Christ, par cette parole de Luc 21.36:
 

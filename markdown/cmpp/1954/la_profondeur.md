@@ -40,6 +40,7 @@ local_pdf: "https://files.mevar.org/cmpp/1954/la_profondeur.pdf"
 original: "branham/1954/54-0624"
 date: "1954-07"
 html_url: "http://www.cmpp.ch/la_profondeur.htm"
+title_page: ["LA PROFONDEUR APPELLE LA PROFONDEUR","(Texte du film)","Juillet 1954","Convention des hommes d’affaires du Plein Evangile","Washington D.C. — Columbia, U.S.A."]
 ---
 Il n’y a pas DEUX Saint-Esprit; le même Saint-Esprit qui conduisit Siméon ce matin-là vers le Christ vous a conduits ici ce soir parce que vous croyez la promesse du Saint-Esprit; et Il a la même obligation envers vous qu’envers Siméon. La même. Parce qu’Il est Dieu et qu’Il doit tenir Sa Parole.
 

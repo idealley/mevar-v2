@@ -83,6 +83,7 @@ original: "branham/1965/65-0718E"
 original_title: "Spiritual food in due season"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie1no2.htm"
+title_page: ["LA NOURRITURE SPIRITUELLE AU TEMPS CONVENABLE","(Spiritual food in due season)","18 juillet 1965, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 *Chant de l’assemblée:*
 
@@ -241,8 +242,7 @@ J’ajoutai: «C’est le jugement frappant la côte ouest». Observez-la aujour
 
 ## (God is His Own Interpreter)
 
-### 5 février 1964, soir  
-Bakersfield — Californie, U.S.A.
+### 5 février 1964, soir Bakersfield — Californie, U.S.A.
 
 1 *Prière:* «Père céleste, une parole venant de Toi a plus d’importance que tout ce que l’homme peut faire ou dire, car les gens sont dans l’attente de Te voir. Nous Te rendons grâce de ce que ce soir des personnes sont également ici dans cette attente de voir se passer quelque chose. Quand les gens ont soif de quelque chose, il faut qu’une réponse y soit donnée, car la profondeur appelle la profondeur. Et si nous sommes ici ce soir, c’est parce qu’un besoin commun a été mis sur le coeur des pasteurs et des gens: faire un moment de silence ensemble pour implorer maintenant Ta grâce et Ta bénédiction, **car ils croient que Tu veux guérir les malades, sauver les perdus et rendre Ta Parole manifeste**.
 

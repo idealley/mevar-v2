@@ -92,6 +92,7 @@ bible_refs:
   - "Apocalypse 13:17"
 local_pdf: "https://files.mevar.org/cmpp/1985/christianisme.pdf"
 html_url: "http://www.cmpp.ch/christianisme.htm"
+title_page: ["Titre original de l’ouvrage:","Das Christentum gestern und heute","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1985 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 # LE CHRISTIANISME HIER ET AUJOURD’HUI
 

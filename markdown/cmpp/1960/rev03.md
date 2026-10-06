@@ -61,6 +61,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev03.pdf"
 original: "branham/1960/60-1205"
 time_of_day: "lundi soir"
 html_url: "http://www.cmpp.ch/rev03.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","EGLISE D’EPHESE","5 décembre 1960, lundi soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Que le Seigneur vous bénisse.
 

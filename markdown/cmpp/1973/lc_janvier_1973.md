@@ -63,6 +63,7 @@ bible_refs:
   - "1 Samuel 30:24,25"
 local_pdf: "https://files.mevar.org/cmpp/1973/lc_janvier_1973.pdf"
 html_url: "http://www.cmpp.ch/lc_janvier_1973.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","JANVIER 1973"]
 ---
 Je vous salue cordialement, dans le Nom du Seigneur, par cette parole d’Apocalypse 3.8:
 

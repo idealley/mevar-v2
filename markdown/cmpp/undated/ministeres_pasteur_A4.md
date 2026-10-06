@@ -45,6 +45,7 @@ themes:
 pdf_url: "http://cmpp.ch/ministeres_pasteur_A4.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Éphésiens 4:1-4,11-15"
   - "Joël 2:23"
   - "1 Thessaloniciens 4:13-18"
   - "Apocalypse 19:7,8"
@@ -254,7 +255,12 @@ bible_refs:
   - "1 Thessaloniciens 5:23"
 local_pdf: "https://files.mevar.org/cmpp/undated/ministeres_pasteur_A4.pdf"
 html_url: "http://www.cmpp.ch/ministeres_pasteur.htm"
+title_page: ["MINISTERES","MINISTERE DE PASTEUR (BERGER)"]
 ---
+> *“Je vous exhorte donc, moi, le prisonnier dans le Seigneur, **à marcher d’une manière digne de l’appel dont vous avez été appelés**, avec **toute humilité et douceur**, avec longanimité, vous supportant l’un l’autre dans l’amour; vous appliquant **à garder l’unité de l’Esprit par le lien de la paix**. Il y a un seul corps et un seul Esprit, … et lui, a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, **les autres comme pasteurs et docteurs**; en vue **de la perfection des saints**, pour l’oeuvre du service, pour **l’édification du corps de Christ**; jusqu’à ce que **nous parvenions tous à l’unité de la foi et de la connaissance du Fils de Dieu**, à l’état d’homme fait, à la mesure de **la stature de la plénitude du Christ**: afin que nous ne soyons plus de petits enfants, ballottés et emportés çà et là par tout vent de doctrine dans la tromperie des hommes, dans leur habileté à user de voies détournées pour égarer; mais que, **étant vrais dans l’amour**, nous croissions en toutes choses **jusqu’à lui qui est le chef, le Christ**;…”.*
+
+> Ephésiens 4.1-4, 11-15.
+
 ## INTRODUCTION
 
 Nous vivons indéniablement dans un temps spirituellement merveilleux, le dernier temps prophétique, car les promesses faites pour ce temps de la fin s’accomplissent continuellement sous nos yeux. Nous avançons et arrivons proche de la fin de ce temps prophétique correspondant à la fin de notre période de l’âge de l’église, l’âge de Laodicée, ce dernier du temps de la fin qui se trouve être le point culminant des âges de l’église. Nous attendons fermement et patiemment la promesse de la pluie de l’arrière-saison, selon la promesse se trouvant dans Joël 2.23. Cette promesse précède le retour annoncé et promis de Jésus-Christ, (espérance vivante dans le coeur des croyants), dans les airs selon 1 Thessaloniciens 4.13-18, pour venir chercher, après nous avoir préparé une place, Son Epouse terrestre formée par Ses véritables disciples qui se sont préparés (Apoc. 19.7,8).

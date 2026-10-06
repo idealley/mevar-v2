@@ -44,6 +44,7 @@ bible_refs:
   - "1 Jean 5:20"
 local_pdf: "https://files.mevar.org/cmpp/undated/reflexions.pdf"
 html_url: "http://www.cmpp.ch/reflexions.htm"
+title_page: ["REFLEXIONS"]
 ---
 Plusieurs sont emprisonnés et la religion est une prison. La religion est le fait d'adorer Dieu **sans révélation**, sans puissance, **sans la vision céleste. Sortir de Babylone veut dire sortir de la religion,** sortir des crédo et dénominations faites par les hommes. Il est vrai qu'une religion est toujours constituée avec des versets bibliques mais c'est quand même une religion **parce qu'ils ne sont pas révélés par Jésus Lui-même**. Ce n'est plus la puissance de Dieu qui se révèle, **qui révèle Jésus vainqueur du péché et de la mort**.
 
@@ -77,8 +78,7 @@ La guerre de libération **a lieu dans le Corps de Christ**. C'est un corps qui 
 
 Cette conquête de l'adversaire a commencé dès le commencement et c'est ce qui est décrit dans la révélation des sceaux. **Il est parti en vainqueur pour vaincre par la religion**, par la séduction des interprétations religieuses. Dans le dernier sceau qui concerne notre temps, on voit qu'il développe toutes sortes de stratégies dans l'Eglise, **pour s'y asseoir et régner sur les chrétiens**, telles que la débauche, les souillures, les impuretés de la chair, l'amour de l'argent - lui qui est Mammon, dieu de l'argent. Le réveil de l'Eglise a lieu **pour lever l'Armée du Dieu Vivant contre le siège de l'adversaire dans le Corps de Christ**. Parce que c'est le Corps de Christ qui doit être enlevé. Quand on parle de l'enlèvement, il faut y associer une guerre, **un combat de l'Eglise contre l'adversaire de Dieu**. On ne peut pas être un combattant dans cette armée sans avoir soi-même été délivré du joug de Satan. Chacun est affecté par son siège, par les manifestations des démons, de la séduction du péché dans l'Eglise. On a trouvé, **parmi ceux qui disent avoir le Message et qui dirigent des Eglises**, certains qui, eux-mêmes vivent dans la débauche, couchent avec des soeurs dans l'Eglise. **C'est ça, l'apostasie, la souillure établie en lieu saint, comme cela a été vu à Silo.** C'est écrit dans la Bible, donc ce n'est pas la première fois que l'adversaire vient assiéger **le lieu d'adoration de Dieu**. C'est cela qui conduit l'Eglise dans le sommeil et dans l'assoupissement dont parle Matthieu 25.5. **Et c'est au verset 6 qu'il est dit qu'il doit y avoir un cri de réveil.** C'est à ce moment-là, quand ils se lèvent, que les chrétiens prennent conscience **qu'ils se lèvent pour former une armée pour libérer le Corps de Christ** et porter le témoignage de l'Evangile de Jésus-Christ dans le monde entier. **Nous avons un combat à mener avant l'enlèvement de l'Epouse.** C'est la guerre contre **le péché d'incrédulité à l'égard de la Parole que Dieu a révélée en cette dernière génération**. La guerre contre l'esprit de Sodome et Gomorrhe.
 
-## TRAVAILLER DANS UN ESPRIT D’UNITE  
-ET DE RECONCILIATION, EN VUE DE L'ENLEVEMENT
+## TRAVAILLER DANS UN ESPRIT D’UNITE ET DE RECONCILIATION, EN VUE DE L'ENLEVEMENT
 
 Notre raison d'être est: être témoin de **la victoire de Jésus** au travers de sa mort pour détruire le péché, et de Sa résurrection pour donner **la Vie éternelle** par la présence de Jésus, par le Saint-Esprit, dans **Sa postérité** engendrée au travers de Sa mort et de Sa résurrection.
 

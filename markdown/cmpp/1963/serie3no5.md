@@ -43,6 +43,7 @@ original: "branham/1963/63-0717"
 original_title: "Paul, a prisoner of Christ"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie3no5.htm"
+title_page: ["PAUL, PRISONNIER DE CHRIST","(Paul, a prisoner of Christ)","17 juillet 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 …du Seigneur Jésus et d’entendre parler des oeuvres puissantes et glorieuses que Tu as accomplies auparavant: maintenant nous nous tenons ici en nous attendant à Toi. Cela élève notre foi et nous oint de croire que ce que nous avons demandé pour ce soir sera accordé. Tu connais chacun d’eux et toutes leurs requêtes. Nous prions spécialement, Seigneur, pour ceux qui sont si près de la mort. Donne-leur la paix de l’âme s’ils ne l’ont pas déjà, ainsi que la guérison du corps. Accorde-le nous, Seigneur. Bénis notre rassemblement nous T’en prions, Seigneur, lors de notre réunion de prière du mercredi soir; nous nous sommes rassemblés, sachant que là où deux ou trois sont réunis en Ton Nom Tu es au milieu d’eux. Et nous Te demandons, Seigneur, de nous donner Ta Parole ce soir. Parle-nous, Seigneur, et ranime les fibres de notre coeur afin que nous sachions nous discipliner en vue des temps glorieux à venir; car nous croyons que nous approchons de la venue du Seigneur.
 

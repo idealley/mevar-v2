@@ -43,6 +43,7 @@ bible_refs:
   - "Apocalypse 3:22"
 local_pdf: "https://files.mevar.org/cmpp/undated/savez-vous.pdf"
 html_url: "http://www.cmpp.ch/savez-vous.htm"
+title_page: ["LE SAVEZ-VOUS…?"]
 ---
 ## SAVEZ-VOUS QUE…?
 

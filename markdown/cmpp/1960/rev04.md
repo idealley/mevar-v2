@@ -57,6 +57,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev04.pdf"
 original: "branham/1960/60-1206"
 time_of_day: "mardi soir"
 html_url: "http://www.cmpp.ch/rev04.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","EGLISE DE SMYRNE","6 décembre 1960, mardi soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Glorieux Père, nous sommes tellement heureux ce soir de savoir que nous avons en nous une Vie immortelle. La Vie de notre Dieu s’est divisée en langues de feu, et s’est posée sur chacun d’eux; ils furent tous remplis du Saint-Esprit, et se mirent à parler en d’autres langues, selon que l’Esprit leur donnait de s’exprimer. O Père, comme nous Te remercions de T’être divisé au milieu de l’Eglise! Il n’est pas étonnant que notre Seigneur ait dit: *“En ce jour-là, vous connaîtrez que je suis en mon Père, que vous êtes en moi, et que je suis en vous”.* Comment est-il possible que le Dieu du Ciel demeure au milieu de Son peuple! “Encore un peu de temps, et le monde ne Me verra plus, mais vous Me verrez, car Je serai avec vous, et même en vous jusqu’à la fin du monde”. Tout au long des futurs âges de l’église, Tu serais là, Le même hier, aujourd’hui et éternellement, et nous Te connaîtrions par les oeuvres que Tu accomplirais: *“Ces signes accompagneront ceux qui auront cru”.*
 
@@ -523,7 +524,7 @@ html_url: "http://www.cmpp.ch/rev04.htm"
 > Ils donnèrent leur vie pour que puisse briller cet Evangile.  
 > Ils répandirent leur sang, comme les prophètes de l’Ancien Testament,  
 > Pour que la véritable Parole de Dieu puisse être correctement annoncée.  
-> Il y a des âmes sous l’autel (ces martyrs) qui crient: *“Jusques à quand*?…”.  
+> Il y a des âmes sous l’autel (ces martyrs) qui crient: *“Jusques à quand?…”.*  
 > Pour que le Seigneur punisse ceux qui ont mal agi; (écoutez bien!)  
 > Mais il y en aura encore plus qui donneront le sang de leur vie  
 > Pour cet Evangile du Saint-Esprit et son flot écarlate.  

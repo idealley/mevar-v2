@@ -167,6 +167,7 @@ bible_refs:
   - "1 Pierre 4:7"
 local_pdf: "https://files.mevar.org/cmpp/undated/la_priere.pdf"
 html_url: "http://www.cmpp.ch/la_priere.htm"
+title_page: ["LA PRIERE"]
 ---
 La prière est l’unique moyen d’entrer en relation avec son Dieu. C’est par ce moyen que les croyants arrivent à une communion personnelle avec leur Père céleste, pour Lui rendre hommage, Lui apporter la louange qui Lui est due et Lui demander Son secours dans tous leurs besoins.
 

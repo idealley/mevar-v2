@@ -64,6 +64,7 @@ original: "branham/1963/63-1124M"
 original_title: "What shall I do with Jesus called Christ?"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie3no12.htm"
+title_page: ["QUE FERAI-JE DE JESUS APPELE CHRIST?","(What shall I do with Jesus called Christ?)","24 novembre 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Que Dieu vous bénisse, frère Vayle. Bonjour mes amis. Je suis toujours en retard. Billy me disait que ce matin j’aurais dû avoir environ trente entretiens privés, et je crois que j’en ai eu deux ou trois. Je ne peux tout simplement pas voir tout le monde. Vous savez, il y a des gens sur la liste qui attendent depuis des mois et des mois. Et le Seigneur a fait de grandes choses ici. Oh, Il est notre Dieu, n’est-ce pas?
 

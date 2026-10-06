@@ -5,7 +5,7 @@ title: "La stature de l'homme parfait"
 subtitle: "14 octobre 1962, matin"
 date: "1962-10-14"
 year: 1962
-location: "Jeffersonville, Indiana, U.S.A."
+location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
 preacher: "William Branham"
 summary: "William Branham enseigne sur la stature de l'homme parfait, basé sur 2 Pierre 1, expliquant comment les croyants peuvent devenir participants de la nature divine par les promesses de Dieu. Il aborde la foi, l'amour pour Christ, et la croissance spirituelle, tout en partageant des témoignages de guérison et d'encouragement."
 tags:
@@ -63,6 +63,8 @@ local_pdf: "https://files.mevar.org/cmpp/1962/serie1no5.pdf"
 original: "branham/1962/62-1014M"
 original_title: "Stature Of A Perfect Man"
 html_url: "http://www.cmpp.ch/serie1no5.htm"
+title_page: ["LA STATURE DE L’HOMME PARFAIT","(Stature Of A Perfect Man)","14 octobre1962, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
+time_of_day: "matin"
 ---
 1 Qu’il est bon de se retrouver de nouveau ce matin dans le Tabernacle. Je vous salue tous avec amour, ce matin. Et je pense que ce sera un grand jour pour nous tous, dans la présence du Seigneur. Or, tout à l’heure, j’ai reçu un message. Je désire aller droit à ce message, parce que je pense que c’est important, et je voudrais préserver la foule de toute impatience et défaillance. Vous savez, ils doivent rester longtemps, et beaucoup sont obligés de rester debout. Je veux donc aller droit au message.
 

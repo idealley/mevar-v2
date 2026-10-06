@@ -187,6 +187,7 @@ bible_refs:
   - "Jude 1:24,25"
 local_pdf: "https://files.mevar.org/cmpp/undated/christ_et_son_eglise.pdf"
 html_url: "http://www.cmpp.ch/christ_et_son_eglise.htm"
+title_page: ["Titre original de l’ouvrage:","Christ and His Church in Prophecy","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’anglais. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 ## INTRODUCTION
 
@@ -208,9 +209,7 @@ Je vous demande de lire cette brochure dans un esprit de prière. Que son conten
 
 L’auteur
 
-# CHRIST  
-ET SON EGLISE  
-DANS LA PROPHETIE
+# CHRIST ET SON EGLISE DANS LA PROPHETIE
 
 En vérité, c’est un temps glorieux dans l’histoire de l’humanité. Dans tous les domaines, de nouvelles découvertes sont faites. D’énormes progrès ont été réalisés, et des choses incroyables se sont accomplies. Plus rien ne semble impossible. Cette génération a été témoin de la transition entre les jours des chars et des chevaux, et l’âge spatial. Chacun s’efforce de marcher avec son temps. Mais la grande question est celle-ci: Sommes-nous de notre temps dans les choses du Royaume de Dieu? Qu’en est-il de notre progrès spirituel? Suivons-nous le mouvement du Saint-Esprit, alors que le Seigneur est sur le point de nous prendre dans les lieux les plus élevés?
 

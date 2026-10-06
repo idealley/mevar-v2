@@ -59,6 +59,7 @@ original: "branham/1963/63-0825E"
 original_title: "Perfect Faith"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie3no9.htm"
+title_page: ["FOI PARFAITE","(Perfect Faith)","25 août 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Père céleste, c’est notre intention ce soir. Nous nous sommes rassemblés dans le seul but de croire, de croire au Seigneur Jésus-Christ. Ici ce soir il y a ceux qui sont malades et affligés, c’est pourquoi nous consacrons ce service à la guérison des corps malades et brisés. Comme nous venons de l’entendre dans ce beau cantique: «Alors Jésus vint», puisses-Tu entrer en scène pour nous ce soir, Seigneur, et guérir tous ceux qui sont affligés afin qu’il ne reste plus une seule personne faible ce soir parmi nous. Accorde-le, Seigneur, et aide-nous tandis que nous examinons la Parole afin de trouver la foi suffisante pour cette heure. Nous le demandons au Nom de Jésus. Amen.
 

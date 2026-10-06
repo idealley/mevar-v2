@@ -356,10 +356,9 @@ bible_refs:
   - "Apocalypse 22:10,12,20-21"
 local_pdf: "https://files.mevar.org/cmpp/undated/tragedie.pdf"
 html_url: "http://www.cmpp.ch/tragedie.htm"
+title_page: ["Titre original de l’ouvrage:","Die grosse Tragödie und Gottes Heilsplan im Licht der Endzeitbotschaft","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 2001 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée;","Case Postale 5633,","1002 Lausanne (Suisse)"]
 ---
-## LA GRANDE TRAGEDIE  
-ET LE PLAN DU SALUT DE DIEU A LA LUMIERE  
-DU MESSAGE DU TEMPS DE LA FIN
+## LA GRANDE TRAGEDIE ET LE PLAN DU SALUT DE DIEU A LA LUMIERE DU MESSAGE DU TEMPS DE LA FIN
 
 Dans cet exposé il s’agit d’informations importantes englobant le ciel et la terre. De tout temps les hommes ont réfléchi sur la destinée qui leur était réservée. Nous espérons arriver à éclairer, avec cet exposé, non seulement l’arrière-plan de la grande tragédie qui n’est pas encore terminée, mais également à montrer la solution de cet ancien problème, de manière à ce que cela serve d’indicateur.
 
@@ -375,9 +374,7 @@ Les croyants bibliques n’attendent pas une fin du monde apocalyptique, **mais 
 
 Les événements appartenant à l’histoire du salut arrivent toujours **lorsque le temps est accompli**, conformément au conseil de Dieu et à la chronologie divine: *“Car il consomme et abrège l’affaire en justice, parce que le Seigneur fera une affaire abrégée sur la terre”* (Rom. 9.28).
 
-## PREMIERE ET DEUXIEME CREATION  
-COMMENT CELA A-T-IL COMMENCE?  
-COMMENT CELA VA-T-IL FINIR?
+## PREMIERE ET DEUXIEME CREATION COMMENT CELA A-T-IL COMMENCE? COMMENT CELA VA-T-IL FINIR?
 
 Toutes les choses commencées par Dieu étaient très bonnes, elles étaient même parfaites, cependant chaque fois l’adversaire chercha à contrarier Ses plans et à les faire échouer. Cela commença déjà dans le ciel et se poursuivit sur la terre. C’est là la grande tragédie. Dieu avait créé toutes choses magnifiques et parfaites. Cependant, je ne sais quand, Lucifer s’éleva contre Lui dans le ciel. Après cela il séduisit les premiers humains dans le Paradis. L’ennemi de Dieu n’a rien laissé tel que cela était à l’origine. Dès le commencement et jusqu’à aujourd’hui il a menti et trompé, et il a exercé une influence destructive sur toute l’humanité. Il n’y a aucun couple, aucune famille qu’il n’ait pas secouée, aucun homme qu’il ait laissé en paix, aucune tribu, aucun peuple, aucun pays où il n’a causé des malheurs. Déjà avec Israël, et plus tard avec l’Eglise, il a cherché à contrarier le plan originel de Dieu. Il n’a eu de respect devant aucun réveil. Même là où l’Esprit de Dieu était à l’oeuvre il s’est insinué et a introduit la confusion et la division. Sous son influence, dans le domaine religieux également tout est allé de travers, et sa tromperie atteint maintenant son point culminant.
 
@@ -754,9 +751,7 @@ Qui sont **aujourd’hui** ceux dont l’Esprit de Dieu dit qu’aux derniers te
 
 Ce qui ne provient pas de Dieu, provient du diable. Aucune imitation, aucun mensonge, ne trouve son origine dans la Vérité (1 Jean 2.21). Il est véritablement tragique que les gens ne voient pas clairement que dans le christianisme traditionnel ce qui est juste a été remplacé par ce qui est faux. Les thèmes sont demeurés, mais le contenu a été changé.
 
-## MAINTENANT TOUT DOIT ETRE EPROUVE!  
-LE TEMOIGNAGE DOIT ETRE VRAI  
-ET L’ENSEIGNEMENT EXACT
+## MAINTENANT TOUT DOIT ETRE EPROUVE! LE TEMOIGNAGE DOIT ETRE VRAI ET L’ENSEIGNEMENT EXACT
 
 Dans le premier âge de l’Eglise il y eut de tels hommes qui s’écartèrent de la doctrine des apôtres et **furent démasqués comme menteurs** (Apoc. 2.2). Cependant déjà très tôt ce qui était perverti **par une fausse influence**, supplanta de plus en plus ce qui était juste. La Parole de Dieu fut remplacée par la parole des hommes, jusqu’à ce que finalement **le bon plaisir de Dieu soit révélé dans le fait que le Royaume soit donné au petit troupeau** (Luc 12.32). Et c’est ainsi que cela a été dans tous les âges de l’Eglise: il s’agissait du reste élu (Rom. 11.5). C’est pourquoi les promesses dans les sept lettres aux églises sont faites uniquement à ceux qui seront vainqueurs (Apoc. chap. 2 et 3). Il y eut assez tôt des personnes parmi les croyants qui étaient attachées à la doctrine de Balaam, lequel entraîna le peuple dans la chute, de sorte qu’ils s’en tinrent à la doctrine des Nicolaïtes, lesquels s’élevaient au-dessus des laïques (Apoc. 2.14-16). L’on permettait même à une Jésabel, qui se disait prophétesse, d’enseigner et d’accomplir ses propres méfaits (Apoc. 2.20-21). Nous avons en réalité à faire dès le commencement à un développement tout à fait tragique, à l’apostasie, c’est-à-dire l’éloignement de Dieu et de la vraie foi, par les déviations et les falsifications de toutes sortes. Déjà très tôt débuta la tromperie par l’interprétation des Ecritures. Plus tard on délibéra à ce sujet dans les Conciles et finalement des choses furent écrites comme doctrines et dogmes des Eglises.
 

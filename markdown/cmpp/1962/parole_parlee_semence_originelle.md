@@ -99,6 +99,7 @@ original: "branham/1962/62-0318"
 original_title: "The Spoken Word is the Original Seed"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/parole_parlee_semence_originelle.htm"
+title_page: ["LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE","(The Spoken Word is the Original Seed)","18 mars 1962, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Bonjour, mes amis. Je suis si heureux d’être ici. Ce matin nous commençons un peu plus tôt. Je regrette toujours qu’il n’y ait pas assez de places pour asseoir les gens et je sais que c’est pénible pour vous de rester debout. J’ai annoncé ce matin que cette fois je désirais avoir beaucoup de temps. Je pense que ce serait vraiment bien si pendant le service certains s’asseyaient et d’autres se levaient afin de pouvoir tous vous reposer à votre tour. Et si vous désirez sortir et faire quelques pas un moment, étant donné que c’est un long service, cela sera parfaitement en ordre. Ensuite vous pouvez refaire l’échange.
 

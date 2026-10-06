@@ -60,6 +60,7 @@ original: "branham/1964/64-1227"
 original_title: "Who Do You Say This Is"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie6no2.htm"
+title_page: ["D’APRES-VOUS, DE QUOI S'AGIT-IL?","(Who Do You Say This Is)","27 décembre 1964, matin","Phoenix — Arizona, U.S.A."]
 ---
 1 Amis, bonjour. Assurément, j’estime que c’est un privilège d’être ici dans cette église. Et pour commencer, j’aime le nom qu’elle porte. Elle s’appelle: «Le Nom de Jésus». J’aime cela et je pense que cela… C’est le Nom par lequel j’ai été racheté, racheté par ce beau Nom du Seigneur Jésus. Et alors, être ici avec mes bons amis, rassemblés ici à Phoenix, en ce beau dimanche matin… Je ne connais pas d’autre place où je préférerais être, à moins que cela ne soit dans la Gloire avec vous tous. Et c’est ce grand événement que nous attendons avec impatience un de ces jours.
 

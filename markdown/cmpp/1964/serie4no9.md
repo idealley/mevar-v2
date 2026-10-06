@@ -83,6 +83,7 @@ original: "branham/1964/64-0726E"
 original_title: "Broken cisterns"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no9.htm"
+title_page: ["CITERNES CREVASSEES","(Broken cisterns)","26 juillet 1964, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Prions. Seigneur, maintenant nous croyons. Nous croyons dans le Fils de Dieu et c’est au travers de Lui que nous acceptons la Vie Eternelle. Nous nous sommes de nouveau réunis cet après-midi (ou plutôt ce soir) pour un autre service, et nous avons confiance en Toi pour ce message et en ce que Tu nous diras ce soir. Nous croyons en Toi, Seigneur, et nous nous attendons à Toi. Tu as dit: *“Ceux qui s’attendent à l’Eternel renouvelleront leurs forces, ils s’élèveront avec des ailes comme des aigles”* (Esa. 40.31). Et, tandis que nous nous attendons à Toi, nous Te prions, ô Dieu, de nous donner cette puissance de nous élever.
 

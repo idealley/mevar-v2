@@ -135,6 +135,7 @@ original: "branham/1965/65-0725M"
 original_title: "The Anointed Onest At The End Time"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie1no3.htm"
+title_page: ["LES OINTS DU TEMPS DE LA FIN","(The Anointed Onest At The End Time)","25 juillet 1965, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonjour à vous tous qui formez cet auditoire. Mais, tout d’abord, adressons-nous à notre Seigneur.
 
@@ -746,11 +747,11 @@ Les rues d’or et les autres choses faites par le Créateur, c’est la Jérusa
 
 > Considérez cette trinité:
 
-> 1. LE DRAGON: Savez-vous qui était le dragon? C’était Rome. Ce dragon vint et se tint devant la femme pour dévorer son enfant aussitôt qu’il serait né (Apoc. 12.4).
+> 1\. LE DRAGON: Savez-vous qui était le dragon? C’était Rome. Ce dragon vint et se tint devant la femme pour dévorer son enfant aussitôt qu’il serait né (Apoc. 12.4).
 
-> 2. LA BETE: Que signifie une bête dans la Bible? Une puissance.
+> 2\. LA BETE: Que signifie une bête dans la Bible? Une puissance.
 
-> 3. LE FAUX PROPHETE: Un faux prophète est un faux oint. D’où partit ce faux prophète (singulier)? Il débuta avec le premier pape et de là vint aussi la prostituée, la mère des courtisanes.
+> 3\. LE FAUX PROPHETE: Un faux prophète est un faux oint. D’où partit ce faux prophète (singulier)? Il débuta avec le premier pape et de là vint aussi la prostituée, la mère des courtisanes.
 
 264 Une fausse trinité prit forme, bien que non rendue manifeste aux premiers jours de l’église. Or, lorsque les Sept Sceaux furent ouverts pour révéler ces mystères, ces trois esprits impurs, à l’aspect de grenouilles, sortirent et se manifestèrent. — Une doctrine de la trinité prit pied contre la vérité. Voyez-vous à présent d’où elle vient et où elle retourne? C’est un retour dans le Concile oecuménique, car ils sont tous frères d’un même esprit quoiqu’ils fassent, et ils se laisseront séduire bien qu’accomplissant des miracles. Ce sont des démons qui s’en vont vers tous les dieux de la terre, accomplissant des miracles pour les séduire dans ce temps de la fin et ils y réussiront.
 

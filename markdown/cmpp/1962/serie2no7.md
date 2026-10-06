@@ -61,6 +61,7 @@ original: "branham/1962/62-0422"
 original_title: "Restoration of the Bride Tree"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie2no7.htm"
+title_page: ["RESTITUTION DE L’ARBRE DE L’EPOUSE","(Restoration of the Bride Tree)","Votre vie parle plus fort que vos paroles","22 avril 1962, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Merci, frère Orman. Dieu vous bénisse.
 

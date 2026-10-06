@@ -46,6 +46,7 @@ bible_refs:
   - "Matthieu 25"
 local_pdf: "https://files.mevar.org/cmpp/1972/lc_mars_1972.pdf"
 html_url: "http://www.cmpp.ch/lc_mars_1972.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","MARS 1972"]
 ---
 Je salue cordialement tous les lecteurs de cette lettre par la parole de Zacharie 8.9:
 
@@ -133,15 +134,15 @@ Frères et soeurs, c’est la Parole de Dieu. C’est là qu’il faut faire ent
 
 C’est avec l’aide de Dieu que j’essaie de rendre ce que frère Branham a dit, à propos de l’année 1977. Déjà dans la circulaire précédente, je faisais voir qu’il ne s’agissait pas de fixer une année particulière; mais bien de se préparer pour le retour de Jésus-Christ. D’autre part, frère Branham a bien placé cette année devant nos yeux. Du 5 au 11 décembre 1960, il prêcha sur les lettres aux sept Eglises; et ces prédications furent, plus tard et avec sa collaboration, rédigées par le Dr L. Vayle pour éditer un livre. Il ne me restait plus qu’à écouter à nouveau les prédications sur les bandes magnétiques originales de l’Exposé des sept Ages de l’Eglise. Les trois déclarations suivantes, qui concernent notre thème, se trouvaient sur ces bandes.
 
-1) Dans la prédication sur l’Eglise d’Ephèse, frère Branham donne un aperçu et fait une classification de tous les Ages. Il dit littéralement:
+1\) Dans la prédication sur l’Eglise d’Ephèse, frère Branham donne un aperçu et fait une classification de tous les Ages. Il dit littéralement:
 
 «L’Age de l’Eglise de Laodicée a commencé en 1906. Je ne sais pas quand il se terminera, cependant je prédis que jusqu’en 1977 il sera terminé. Je prédis (le Seigneur ne me l’a pas dit). Je le prédis à cause de la vision que le Seigneur m’a montrée il y a quelques années».
 
-2) Dans la prédication sur l’Eglise de Thyatire, il dit:
+2\) Dans la prédication sur l’Eglise de Thyatire, il dit:
 
 «… alors, je regardai à nouveau, et vis les Etats-Unis brisés en morceaux. Rien ne demeurait de reste. C’était le AINSI DIT LE SEIGNEUR. Alors, je prédis sept choses dont cinq sont déjà accomplies. Je dis que quelque chose comme des troncs se consumant et des rochers volant en éclat me firent montrés. Les Etats-Unis se trouvaient dévasté, aussi loin que je pouvais le voir, du lieu où je me trouvais. Je dis alors: Compte tenu des rapides progrès de ces temps, ceci s’accomplira entre cette année 1933 et l’année 1977».
 
-3) Dans la prédication sur l’Eglise de Laodicée, il dit:
+3\) Dans la prédication sur l’Eglise de Laodicée, il dit:
 
 «Nous croyons que l’Age de l’Eglise de Laodicée a commencé en 1906. Je prédis — pensez à cela! (particulièrement vous qui entendrez les bandes magnétiques) je ne dis pas que ce sera ainsi, je dis uniquement à l’avance, que d’ici 1977 cela arrivera à la fin. La deuxième venue de Christ et l’enlèvement peuvent arriver à toute heure. Je peux me fourvoyer sur une année, ou vingt ou cent ans. Je ne sais pas, je le prédis seulement».
 

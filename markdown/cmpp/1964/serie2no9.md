@@ -69,6 +69,7 @@ original: "branham/1964/64-0816"
 original_title: "Proving His Word"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie2no9.htm"
+title_page: ["DIEU CONFIRMANT SA PAROLE","(Proving His Word)","16 août 1964, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons debout, et inclinons nos têtes pour la prière. Seigneur Jésus, nous Te sommes reconnaissants ce matin pour le privilège que nous avons de pouvoir venir en Ta présence, dans Ta maison, où Ton peuple est rassemblé en Ton Nom. Tous sont à Toi, Seigneur. Et nous nous en remettons à Toi, Seigneur, pour l’espérance que nous avons dans nos coeurs… **Nous dédions le culte de ce matin à ceux qui sont sans Dieu et sans Christ, afin qu’ils soient sauvés, que les malades soient guéris, et que les saints soient bénis.** Accorde-le nous, ô Seigneur. Ensuite, à la fin, nous inclinerons nos têtes avec humilité, et Te rendrons grâces pour tout ce que Tu auras fait pendant cette journée. Car c’est au Nom de Jésus que nous Te le demandons. Amen. (Vous pouvez vous asseoir.)
 

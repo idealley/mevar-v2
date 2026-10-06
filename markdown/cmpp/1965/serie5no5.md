@@ -57,6 +57,7 @@ original: "branham/1965/65-0718M"
 original_title: "Trying to do God a service without being the will of God"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie5no5.htm"
+title_page: ["RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE","(Trying to do God a service without being the will of God)","18 Juillet 1965, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Restons maintenant un moment debout tandis que nous prions. Inclinons nos têtes.
 

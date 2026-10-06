@@ -77,6 +77,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev08.pdf"
 original: "branham/1960/60-1210"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev08.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","EGLISE DE PHILADELPHIE","10 décembre 1960, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Un frère est venu m’apporter une grosse tarte aux cerises toute chaude! Vous voyez ce que cela rapporte de faire des allusions! Qu’en pensez-vous, frère Neville? Ah, vous êtes là! La tarte aux cerises est celle que je préfère. C’est vraiment bon! Comme je le disais, lorsque vous mangez une tarte aux cerises, parfois vous rencontrez un noyau. Mais on ne jette pas toute la tarte, on jette seulement le noyau et on continue à manger la tarte!
 

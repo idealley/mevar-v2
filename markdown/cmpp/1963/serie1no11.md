@@ -62,6 +62,7 @@ original: "branham/1963/63-0728"
 original_title: "Christ is the Mystery of God Revealed"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie1no11.htm"
+title_page: ["CHRIST EST LA REVELATION DU MYSTERE DE DIEU","(Christ is the Mystery of God Revealed)","28 juillet 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Merci, frère. Restons encore debout un moment, pendant que nous inclinons nos têtes pour la prière.
 

@@ -40,7 +40,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1972/lc_mars_1972.md",
-    "html_url": "http://www.cmpp.ch/lc_mars_1972.htm"
+    "html_url": "http://www.cmpp.ch/lc_mars_1972.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "MARS 1972"
+    ]
   },
   {
     "source": "cmpp",
@@ -132,7 +137,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1972/lc_septembre_1972.md",
-    "html_url": "http://www.cmpp.ch/lc_septembre_1972.htm"
+    "html_url": "http://www.cmpp.ch/lc_septembre_1972.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "SEPTEMBRE 1972"
+    ]
   },
   {
     "source": "cmpp",
@@ -183,7 +193,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1973/lc_janvier_1973.md",
-    "html_url": "http://www.cmpp.ch/lc_janvier_1973.htm"
+    "html_url": "http://www.cmpp.ch/lc_janvier_1973.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "JANVIER 1973"
+    ]
   },
   {
     "source": "cmpp",
@@ -228,7 +243,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1973/lc_juin_1973.md",
-    "html_url": "http://www.cmpp.ch/lc_juin_1973.htm"
+    "html_url": "http://www.cmpp.ch/lc_juin_1973.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "JUIN 1973"
+    ]
   },
   {
     "source": "cmpp",
@@ -302,7 +322,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1973/lc_novembre_1973.md",
-    "html_url": "http://www.cmpp.ch/lc_novembre_1973.htm"
+    "html_url": "http://www.cmpp.ch/lc_novembre_1973.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "NOVEMBRE 1973"
+    ]
   },
   {
     "source": "cmpp",
@@ -399,7 +424,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1974/lc_janvier_1974.md",
-    "html_url": "http://www.cmpp.ch/lc_janvier_1974.htm"
+    "html_url": "http://www.cmpp.ch/lc_janvier_1974.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "JANVIER 1974"
+    ]
   },
   {
     "source": "cmpp",
@@ -442,7 +472,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1974/lc_mars_1974.md",
-    "html_url": "http://www.cmpp.ch/lc_mars_1974.htm"
+    "html_url": "http://www.cmpp.ch/lc_mars_1974.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "MARS 1974"
+    ]
   },
   {
     "source": "cmpp",
@@ -583,7 +618,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1974/lc_juillet_1974.md",
-    "html_url": "http://www.cmpp.ch/lc_juillet_1974.htm"
+    "html_url": "http://www.cmpp.ch/lc_juillet_1974.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "JUILLET 1974"
+    ]
   },
   {
     "source": "cmpp",
@@ -629,7 +669,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1974/lc_octobre_1974.md",
-    "html_url": "http://www.cmpp.ch/lc_octobre_1974.htm"
+    "html_url": "http://www.cmpp.ch/lc_octobre_1974.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE",
+      "OCTOBRE 1974"
+    ]
   },
   {
     "source": "cmpp",
@@ -733,7 +778,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1988/predication_bruxelles_1988.md",
-    "html_url": "http://www.cmpp.ch/predication_bruxelles_1988.htm"
+    "html_url": "http://www.cmpp.ch/predication_bruxelles_1988.htm",
+    "title_page": [
+      "PREDICATION DE FRERE EWALD FRANK"
+    ]
   },
   {
     "source": "cmpp",
@@ -776,7 +824,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_03_2004.md",
-    "html_url": "http://www.cmpp.ch/video_03_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -821,7 +874,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_01_2007.md",
-    "html_url": "http://www.cmpp.ch/video_01_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -902,7 +960,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_12_2013.md",
-    "html_url": "http://www.cmpp.ch/video_12_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -981,7 +1044,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_11_2014.md",
-    "html_url": "http://www.cmpp.ch/video_11_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -1027,7 +1095,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_06_2015.md",
-    "html_url": "http://www.cmpp.ch/video_06_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -1074,7 +1147,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_02_2017.md",
-    "html_url": "http://www.cmpp.ch/video_02_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -1119,7 +1197,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_09_2017.md",
-    "html_url": "http://www.cmpp.ch/video_09_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -1160,7 +1243,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_11_2017.md",
-    "html_url": "http://www.cmpp.ch/video_11_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -1206,7 +1294,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2019/video_04_2019.md",
-    "html_url": "http://www.cmpp.ch/video_04_2019.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2019.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2019",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -1751,7 +1844,16 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1963/7sceaux1.md",
-    "html_url": "http://www.cmpp.ch/7sceaux1.htm"
+    "html_url": "http://www.cmpp.ch/7sceaux1.htm",
+    "title_page": [
+      "LA REVELATION",
+      "DES",
+      "SEPT SCEAUX",
+      "AINSI QU’ELLE FUT DONNE A NOTRE CHER FRÈRE",
+      "WILLIAM MARRION BRANHAM",
+      "1er CHAPITRE",
+      "DIEU CACHE ET REVELE DANS LA SIMPLICITE"
+    ]
   },
   {
     "source": "cmpp",
@@ -1815,7 +1917,15 @@
     "local_md": "markdown/cmpp/1963/7sceaux10.md",
     "html_url": "http://www.cmpp.ch/7sceaux10.htm",
     "original_title": "The Seventh Seal",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "LE SEPTIEME SCEAU",
+      "(The Seventh Seal)",
+      "24 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -1871,7 +1981,16 @@
     "local_md": "markdown/cmpp/1963/7sceaux2.md",
     "html_url": "http://www.cmpp.ch/7sceaux2.htm",
     "original_title": "The Breach Between The Church Ages And The Seven Seals",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "LA BRECHE",
+      "ENTRE LES SEPT AGES DE L’EGLISE ET LES SEPT SCEAUX",
+      "(The Breach Between The Church Ages And The Seven Seals)",
+      "17 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -1922,7 +2041,15 @@
     "local_md": "markdown/cmpp/1963/7sceaux3.md",
     "html_url": "http://www.cmpp.ch/7sceaux3.htm",
     "original_title": "The First Seal",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "LE PREMIER SCEAU",
+      "(The First Seal)",
+      "18 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -1976,7 +2103,15 @@
     "local_md": "markdown/cmpp/1963/7sceaux4.md",
     "html_url": "http://www.cmpp.ch/7sceaux4.htm",
     "original_title": "The Second Seal",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "LE DEUXIEME SCEAU",
+      "(The Second Seal)",
+      "19 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -2032,7 +2167,15 @@
     "local_md": "markdown/cmpp/1963/7sceaux5.md",
     "html_url": "http://www.cmpp.ch/7sceaux5.htm",
     "original_title": "The Third Seal",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "LE TROISIEME SCEAU",
+      "(The Third Seal)",
+      "20 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -2082,7 +2225,15 @@
     "local_md": "markdown/cmpp/1963/7sceaux6.md",
     "html_url": "http://www.cmpp.ch/7sceaux6.htm",
     "original_title": "The Fourth Seal",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "LE QUATRIEME SCEAU",
+      "(The Fourth Seal)",
+      "21 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -2128,7 +2279,15 @@
     "local_md": "markdown/cmpp/1963/7sceaux7.md",
     "html_url": "http://www.cmpp.ch/7sceaux7.htm",
     "original_title": "The Fifth Seal",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "LE CINQUIEME SCEAU",
+      "(The Fifth Seal)",
+      "22 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -2177,7 +2336,15 @@
     "local_md": "markdown/cmpp/1963/7sceaux8.md",
     "html_url": "http://www.cmpp.ch/7sceaux8.htm",
     "original_title": "The Sixth Seal",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "LE SIXIEME SCEAU",
+      "(The Sixth Seal)",
+      "23 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -2224,7 +2391,15 @@
     "local_md": "markdown/cmpp/1963/7sceaux9.md",
     "html_url": "http://www.cmpp.ch/7sceaux9.htm",
     "time_of_day": "soir",
-    "original_title": "Questions And Answers On The Seal"
+    "original_title": "Questions And Answers On The Seal",
+    "title_page": [
+      "LA REVELATION DES SEPT SCEAUX",
+      "QUESTIONS ET REPONSES SUR LES SCEAUX",
+      "Questions And Answers On The Seal)",
+      "24 mars 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -2301,7 +2476,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1986/antichrist.md",
-    "html_url": "http://www.cmpp.ch/antichrist.htm"
+    "html_url": "http://www.cmpp.ch/antichrist.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Die Antichrist",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1986 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -2348,7 +2537,22 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/brl.md",
-    "html_url": "http://www.cmpp.ch/brl.htm"
+    "html_url": "http://www.cmpp.ch/brl.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Taufe, Abendmahl, Fußwaschung",
+      "Auteur:",
+      "Missionnaire Ewald Frank,",
+      "Krefeld (Allemagne)",
+      "Copyright © 1985 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand.",
+      "Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -2417,7 +2621,14 @@
     "local_md": "markdown/cmpp/1964/chef_oeuvre.md",
     "html_url": "http://www.cmpp.ch/chef_oeuvre.htm",
     "original_title": "The Masterpiece",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LE CHEF-D’OEUVRE",
+      "(The Masterpiece)",
+      "5 juillet 1964, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -2464,7 +2675,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/christ_et_son_eglise.md",
-    "html_url": "http://www.cmpp.ch/christ_et_son_eglise.htm"
+    "html_url": "http://www.cmpp.ch/christ_et_son_eglise.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Christ and His Church in Prophecy",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’anglais. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -2508,7 +2733,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1985/christianisme.md",
-    "html_url": "http://www.cmpp.ch/christianisme.htm"
+    "html_url": "http://www.cmpp.ch/christianisme.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Das Christentum gestern und heute",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1985 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -2559,7 +2798,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/commencement.md",
-    "html_url": "http://www.cmpp.ch/commencement.htm"
+    "html_url": "http://www.cmpp.ch/commencement.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Am Anfang war das Wort — nicht die Deutung",
+      "Anklage – Warnung – Klärung",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 2003 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.",
+      "Editeur:",
+      "Centre Missionnaire de la Parole Parlée",
+      "Case Postale 5633",
+      "1002 Lausanne (Suisse)"
+    ]
   },
   {
     "source": "cmpp",
@@ -2614,7 +2867,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1985/dieu_et_son_plan.md",
-    "html_url": "http://www.cmpp.ch/dieu_et_son_plan.htm"
+    "html_url": "http://www.cmpp.ch/dieu_et_son_plan.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Gott und Sein Plan mit der Menschheit",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1985 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -2661,7 +2928,11 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/eden.md",
     "preacher": "Ewald Frank",
-    "html_url": "http://www.cmpp.ch/eden.htm"
+    "html_url": "http://www.cmpp.ch/eden.htm",
+    "title_page": [
+      "LE SEDUCTEUR",
+      "CAIN ET LE PECHE ORIGINEL"
+    ]
   },
   {
     "source": "cmpp",
@@ -2705,7 +2976,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/grace_verite_A4.md",
-    "html_url": "http://www.cmpp.ch/grace_verite.htm"
+    "html_url": "http://www.cmpp.ch/grace_verite.htm",
+    "title_page": [
+      "LA GRACE ET LA VERITE"
+    ]
   },
   {
     "source": "cmpp",
@@ -2758,7 +3032,14 @@
     "local_md": "markdown/cmpp/1962/grande_bataille.md",
     "html_url": "http://www.cmpp.ch/grande_bataille.htm",
     "original_title": "Greatest Battle Ever Fought",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LA PLUS GRANDE BATAILLE JAMAIS LIVREE",
+      "(Greatest Battle Ever Fought)",
+      "11 Mars 1962, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -2831,7 +3112,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1987/il_est_ecrit.md",
-    "html_url": "http://www.cmpp.ch/il_est_ecrit.htm"
+    "html_url": "http://www.cmpp.ch/il_est_ecrit.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Es steht geschrieben…",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1987 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -2880,7 +3175,22 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/impact.md",
-    "html_url": "http://www.cmpp.ch/impact.htm"
+    "html_url": "http://www.cmpp.ch/impact.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Wirkung der Offenbarung",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand.",
+      "Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -2927,7 +3237,26 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/information_globale.md",
-    "html_url": "http://www.cmpp.ch/information_globale.htm"
+    "html_url": "http://www.cmpp.ch/information_globale.htm",
+    "title_page": [
+      "Information globale",
+      "Eclaircissement",
+      "d’En-haut",
+      "du missionnaire",
+      "Ewald Frank",
+      "Titre original de l’ouvrage:",
+      "Global-Information",
+      "Aufklärung von oben",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 2005 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.",
+      "Editeur:",
+      "Centre Missionnaire de la Parole Parlée",
+      "Case Postale 5633",
+      "1002 Lausanne (Suisse)"
+    ]
   },
   {
     "source": "cmpp",
@@ -2983,7 +3312,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/islam.md",
-    "html_url": "http://www.cmpp.ch/islam.htm"
+    "html_url": "http://www.cmpp.ch/islam.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Die Religion des Islam im Licht der gegenwärtigen Weltereignisse",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 2001 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -3035,7 +3378,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1978/l_indicateur.md",
-    "html_url": "http://www.cmpp.ch/l_indicateur.htm"
+    "html_url": "http://www.cmpp.ch/l_indicateur.htm",
+    "title_page": [
+      "L’INDICATEUR"
+    ]
   },
   {
     "source": "cmpp",
@@ -3091,7 +3437,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1966/la_parole_de_dieu_demeure_eternellement.md",
-    "html_url": "http://www.cmpp.ch/la_parole_de_dieu_demeure_eternellement.htm"
+    "html_url": "http://www.cmpp.ch/la_parole_de_dieu_demeure_eternellement.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Das Wort Gottes bleibt in Ewigkeit",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1987 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -3138,7 +3498,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1954/la_profondeur.md",
     "date": "1954-07",
-    "html_url": "http://www.cmpp.ch/la_profondeur.htm"
+    "html_url": "http://www.cmpp.ch/la_profondeur.htm",
+    "title_page": [
+      "LA PROFONDEUR APPELLE LA PROFONDEUR",
+      "(Texte du film)",
+      "Juillet 1954",
+      "Convention des hommes d’affaires du Plein Evangile",
+      "Washington D.C. — Columbia, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -3191,7 +3558,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1975/lc1.md",
-    "html_url": "http://www.cmpp.ch/lc1.htm"
+    "html_url": "http://www.cmpp.ch/lc1.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 1",
+      "JANVIER 1975"
+    ]
   },
   {
     "source": "cmpp",
@@ -3301,7 +3673,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1977/lc10.md",
-    "html_url": "http://www.cmpp.ch/lc10.htm"
+    "html_url": "http://www.cmpp.ch/lc10.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 10",
+      "JANVIER 1977"
+    ]
   },
   {
     "source": "cmpp",
@@ -3400,7 +3777,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1977/lc11.md",
-    "html_url": "http://www.cmpp.ch/lc11.htm"
+    "html_url": "http://www.cmpp.ch/lc11.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 11",
+      "JUIN 1977"
+    ]
   },
   {
     "source": "cmpp",
@@ -3494,7 +3876,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1977/lc12.md",
-    "html_url": "http://www.cmpp.ch/lc12.htm"
+    "html_url": "http://www.cmpp.ch/lc12.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 12",
+      "OCTOBRE 1977"
+    ]
   },
   {
     "source": "cmpp",
@@ -3547,7 +3934,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1978/lc13.md",
-    "html_url": "http://www.cmpp.ch/lc13.htm"
+    "html_url": "http://www.cmpp.ch/lc13.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 13",
+      "JANVIER 1978"
+    ]
   },
   {
     "source": "cmpp",
@@ -3596,7 +3988,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1978/lc14.md",
-    "html_url": "http://www.cmpp.ch/lc14.htm"
+    "html_url": "http://www.cmpp.ch/lc14.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 14",
+      "JUIN 1978"
+    ]
   },
   {
     "source": "cmpp",
@@ -3647,7 +4044,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1978/lc15.md",
-    "html_url": "http://www.cmpp.ch/lc15.htm"
+    "html_url": "http://www.cmpp.ch/lc15.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 15",
+      "SEPTEMBRE 1978"
+    ]
   },
   {
     "source": "cmpp",
@@ -3690,7 +4092,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1979/lc16.md",
-    "html_url": "http://www.cmpp.ch/lc16.htm"
+    "html_url": "http://www.cmpp.ch/lc16.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 16",
+      "JANVIER 1979"
+    ]
   },
   {
     "source": "cmpp",
@@ -3746,7 +4153,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1979/lc17.md",
-    "html_url": "http://www.cmpp.ch/lc17.htm"
+    "html_url": "http://www.cmpp.ch/lc17.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 17",
+      "AVRIL 1979"
+    ]
   },
   {
     "source": "cmpp",
@@ -3787,7 +4199,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1979/lc18.md",
-    "html_url": "http://www.cmpp.ch/lc18.htm"
+    "html_url": "http://www.cmpp.ch/lc18.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 18",
+      "JUIN 1979"
+    ]
   },
   {
     "source": "cmpp",
@@ -3835,7 +4252,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1979/lc19.md",
-    "html_url": "http://www.cmpp.ch/lc19.htm"
+    "html_url": "http://www.cmpp.ch/lc19.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 19",
+      "SEPTEMBRE 1979"
+    ]
   },
   {
     "source": "cmpp",
@@ -3946,7 +4368,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1975/lc2.md",
-    "html_url": "http://www.cmpp.ch/lc2.htm"
+    "html_url": "http://www.cmpp.ch/lc2.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 2",
+      "AVRIL 1975"
+    ]
   },
   {
     "source": "cmpp",
@@ -3998,7 +4425,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1980/lc20.md",
-    "html_url": "http://www.cmpp.ch/lc20.htm"
+    "html_url": "http://www.cmpp.ch/lc20.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 20",
+      "JANVIER 1980"
+    ]
   },
   {
     "source": "cmpp",
@@ -4044,7 +4476,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1980/lc21.md",
-    "html_url": "http://www.cmpp.ch/lc21.htm"
+    "html_url": "http://www.cmpp.ch/lc21.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 21",
+      "AVRIL 1980"
+    ]
   },
   {
     "source": "cmpp",
@@ -4103,7 +4540,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1980/lc22.md",
-    "html_url": "http://www.cmpp.ch/lc22.htm"
+    "html_url": "http://www.cmpp.ch/lc22.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 22",
+      "JUILLET 1980"
+    ]
   },
   {
     "source": "cmpp",
@@ -4163,7 +4605,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1980/lc23.md",
-    "html_url": "http://www.cmpp.ch/lc23.htm"
+    "html_url": "http://www.cmpp.ch/lc23.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 23",
+      "OCTOBRE 1980"
+    ]
   },
   {
     "source": "cmpp",
@@ -4215,7 +4662,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1980/lc24.md",
-    "html_url": "http://www.cmpp.ch/lc24.htm"
+    "html_url": "http://www.cmpp.ch/lc24.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 24",
+      "DECEMBRE 1980"
+    ]
   },
   {
     "source": "cmpp",
@@ -4273,7 +4725,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1981/lc25.md",
-    "html_url": "http://www.cmpp.ch/lc25.htm"
+    "html_url": "http://www.cmpp.ch/lc25.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 25",
+      "FEVRIER 1981"
+    ]
   },
   {
     "source": "cmpp",
@@ -4334,7 +4791,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1982/lc26.md",
-    "html_url": "http://www.cmpp.ch/lc26.htm"
+    "html_url": "http://www.cmpp.ch/lc26.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 26",
+      "MAI 1982"
+    ]
   },
   {
     "source": "cmpp",
@@ -4388,7 +4850,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1982/lc27.md",
-    "html_url": "http://www.cmpp.ch/lc27.htm"
+    "html_url": "http://www.cmpp.ch/lc27.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 27",
+      "OCTOBRE 1982"
+    ]
   },
   {
     "source": "cmpp",
@@ -4437,7 +4904,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1983/lc28.md",
-    "html_url": "http://www.cmpp.ch/lc28.htm"
+    "html_url": "http://www.cmpp.ch/lc28.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 28",
+      "MAI 1983"
+    ]
   },
   {
     "source": "cmpp",
@@ -4494,7 +4966,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1983/lc29.md",
-    "html_url": "http://www.cmpp.ch/lc29.htm"
+    "html_url": "http://www.cmpp.ch/lc29.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 29",
+      "JUIN 1983"
+    ]
   },
   {
     "source": "cmpp",
@@ -4537,7 +5014,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1975/lc3.md",
-    "html_url": "http://www.cmpp.ch/lc3.htm"
+    "html_url": "http://www.cmpp.ch/lc3.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 3",
+      "AOUT 1975"
+    ]
   },
   {
     "source": "cmpp",
@@ -4601,7 +5083,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1983/lc30.md",
-    "html_url": "http://www.cmpp.ch/lc30.htm"
+    "html_url": "http://www.cmpp.ch/lc30.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 30",
+      "OCTOBRE 1983"
+    ]
   },
   {
     "source": "cmpp",
@@ -4648,7 +5135,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1985/lc31.md",
-    "html_url": "http://www.cmpp.ch/lc31.htm"
+    "html_url": "http://www.cmpp.ch/lc31.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 31",
+      "JANVIER 1985"
+    ]
   },
   {
     "source": "cmpp",
@@ -4708,7 +5200,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1986/lc32.md",
-    "html_url": "http://www.cmpp.ch/lc32.htm"
+    "html_url": "http://www.cmpp.ch/lc32.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 32",
+      "JANVIER 1986"
+    ]
   },
   {
     "source": "cmpp",
@@ -4759,7 +5256,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1987/lc33.md",
-    "html_url": "http://www.cmpp.ch/lc33.htm"
+    "html_url": "http://www.cmpp.ch/lc33.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 33",
+      "JANVIER 1987"
+    ]
   },
   {
     "source": "cmpp",
@@ -4818,7 +5320,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1988/lc34.md",
-    "html_url": "http://www.cmpp.ch/lc34.htm"
+    "html_url": "http://www.cmpp.ch/lc34.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 34",
+      "JANVIER 1988"
+    ]
   },
   {
     "source": "cmpp",
@@ -4882,7 +5389,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1989/lc35.md",
-    "html_url": "http://www.cmpp.ch/lc35.htm"
+    "html_url": "http://www.cmpp.ch/lc35.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 35",
+      "JANVIER 1989"
+    ]
   },
   {
     "source": "cmpp",
@@ -4936,7 +5448,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1990/lc36.md",
-    "html_url": "http://www.cmpp.ch/lc36.htm"
+    "html_url": "http://www.cmpp.ch/lc36.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 36",
+      "JANVIER 1990"
+    ]
   },
   {
     "source": "cmpp",
@@ -4987,7 +5504,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1991/lc37.md",
-    "html_url": "http://www.cmpp.ch/lc37.htm"
+    "html_url": "http://www.cmpp.ch/lc37.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 37",
+      "JANVIER 1991"
+    ]
   },
   {
     "source": "cmpp",
@@ -5034,7 +5556,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1992/lc38.md",
-    "html_url": "http://www.cmpp.ch/lc38.htm"
+    "html_url": "http://www.cmpp.ch/lc38.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 38",
+      "JANVIER 1992"
+    ]
   },
   {
     "source": "cmpp",
@@ -5101,7 +5628,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1993/lc39.md",
-    "html_url": "http://www.cmpp.ch/lc39.htm"
+    "html_url": "http://www.cmpp.ch/lc39.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 39",
+      "JANVIER 1993"
+    ]
   },
   {
     "source": "cmpp",
@@ -5157,7 +5689,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1975/lc4.md",
-    "html_url": "http://www.cmpp.ch/lc4.htm"
+    "html_url": "http://www.cmpp.ch/lc4.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 4",
+      "NOVEMBRE 1975"
+    ]
   },
   {
     "source": "cmpp",
@@ -5208,7 +5745,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1993/lc40.md",
-    "html_url": "http://www.cmpp.ch/lc40.htm"
+    "html_url": "http://www.cmpp.ch/lc40.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 40",
+      "MAI 1993"
+    ]
   },
   {
     "source": "cmpp",
@@ -5259,7 +5801,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1994/lc41.md",
-    "html_url": "http://www.cmpp.ch/lc41.htm"
+    "html_url": "http://www.cmpp.ch/lc41.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 41",
+      "JANVIER 1994"
+    ]
   },
   {
     "source": "cmpp",
@@ -5314,7 +5861,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1994/lc42.md",
-    "html_url": "http://www.cmpp.ch/lc42.htm"
+    "html_url": "http://www.cmpp.ch/lc42.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 42",
+      "MAI 1994"
+    ]
   },
   {
     "source": "cmpp",
@@ -5363,7 +5915,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1995/lc43.md",
-    "html_url": "http://www.cmpp.ch/lc43.htm"
+    "html_url": "http://www.cmpp.ch/lc43.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 43",
+      "JANVIER 1995"
+    ]
   },
   {
     "source": "cmpp",
@@ -5414,7 +5971,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1995/lc44.md",
-    "html_url": "http://www.cmpp.ch/lc44.htm"
+    "html_url": "http://www.cmpp.ch/lc44.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 44",
+      "MAI 1995"
+    ]
   },
   {
     "source": "cmpp",
@@ -5477,7 +6039,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1996/lc45.md",
-    "html_url": "http://www.cmpp.ch/lc45.htm"
+    "html_url": "http://www.cmpp.ch/lc45.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 45",
+      "JANVIER 1996"
+    ]
   },
   {
     "source": "cmpp",
@@ -5531,7 +6098,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1996/lc46.md",
-    "html_url": "http://www.cmpp.ch/lc46.htm"
+    "html_url": "http://www.cmpp.ch/lc46.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 46",
+      "JUIN 1996"
+    ]
   },
   {
     "source": "cmpp",
@@ -5595,7 +6167,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1997/lc47.md",
-    "html_url": "http://www.cmpp.ch/lc47.htm"
+    "html_url": "http://www.cmpp.ch/lc47.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 47",
+      "JANVIER 1997"
+    ]
   },
   {
     "source": "cmpp",
@@ -5647,7 +6224,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1998/lc48.md",
-    "html_url": "http://www.cmpp.ch/lc48.htm"
+    "html_url": "http://www.cmpp.ch/lc48.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 48",
+      "FEVRIER 1998"
+    ]
   },
   {
     "source": "cmpp",
@@ -5698,7 +6280,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1998/lc49.md",
-    "html_url": "http://www.cmpp.ch/lc49.htm"
+    "html_url": "http://www.cmpp.ch/lc49.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 49",
+      "MAI 1998"
+    ]
   },
   {
     "source": "cmpp",
@@ -5743,7 +6330,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1976/lc5.md",
-    "html_url": "http://www.cmpp.ch/lc5.htm"
+    "html_url": "http://www.cmpp.ch/lc5.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 5",
+      "FEVRIER 1976"
+    ]
   },
   {
     "source": "cmpp",
@@ -5800,7 +6392,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1999/lc50.md",
-    "html_url": "http://www.cmpp.ch/lc50.htm"
+    "html_url": "http://www.cmpp.ch/lc50.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 50",
+      "JANVIER 1999"
+    ]
   },
   {
     "source": "cmpp",
@@ -5846,7 +6443,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2000/lc51.md",
-    "html_url": "http://www.cmpp.ch/lc51.htm"
+    "html_url": "http://www.cmpp.ch/lc51.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 51",
+      "JANVIER 2000"
+    ]
   },
   {
     "source": "cmpp",
@@ -5917,7 +6519,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2001/lc52.md",
-    "html_url": "http://www.cmpp.ch/lc52.htm"
+    "html_url": "http://www.cmpp.ch/lc52.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 52",
+      "AVRIL 2001"
+    ]
   },
   {
     "source": "cmpp",
@@ -5971,7 +6578,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2002/lc53.md",
-    "html_url": "http://www.cmpp.ch/lc53.htm"
+    "html_url": "http://www.cmpp.ch/lc53.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 53",
+      "FEVRIER 2002"
+    ]
   },
   {
     "source": "cmpp",
@@ -6025,7 +6637,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/lc54.md",
-    "html_url": "http://www.cmpp.ch/lc54.htm"
+    "html_url": "http://www.cmpp.ch/lc54.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 54",
+      "FEVRIER 2003"
+    ]
   },
   {
     "source": "cmpp",
@@ -6085,7 +6702,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/lc55.md",
-    "html_url": "http://www.cmpp.ch/lc55.htm"
+    "html_url": "http://www.cmpp.ch/lc55.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 55",
+      "JANVIER 2004"
+    ]
   },
   {
     "source": "cmpp",
@@ -6155,7 +6777,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/lc56.md",
-    "html_url": "http://www.cmpp.ch/lc56.htm"
+    "html_url": "http://www.cmpp.ch/lc56.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 56",
+      "JANVIER 2005"
+    ]
   },
   {
     "source": "cmpp",
@@ -6205,7 +6832,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/lc57.md",
-    "html_url": "http://www.cmpp.ch/lc57.htm"
+    "html_url": "http://www.cmpp.ch/lc57.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 57",
+      "PRINTEMPS 2005"
+    ]
   },
   {
     "source": "cmpp",
@@ -6255,7 +6887,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/lc58.md",
-    "html_url": "http://www.cmpp.ch/lc58.htm"
+    "html_url": "http://www.cmpp.ch/lc58.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 58",
+      "NOVEMBRE 2005"
+    ]
   },
   {
     "source": "cmpp",
@@ -6328,7 +6965,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/lc59.md",
-    "html_url": "http://www.cmpp.ch/lc59.htm"
+    "html_url": "http://www.cmpp.ch/lc59.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 59",
+      "FEVRIER 2006"
+    ]
   },
   {
     "source": "cmpp",
@@ -6372,7 +7014,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1976/lc6.md",
-    "html_url": "http://www.cmpp.ch/lc6.htm"
+    "html_url": "http://www.cmpp.ch/lc6.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N°6",
+      "MAI 1976"
+    ]
   },
   {
     "source": "cmpp",
@@ -6429,7 +7076,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/lc60.md",
-    "html_url": "http://www.cmpp.ch/lc60.htm"
+    "html_url": "http://www.cmpp.ch/lc60.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 60",
+      "AVRIL 2006"
+    ]
   },
   {
     "source": "cmpp",
@@ -6476,7 +7128,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/lc61.md",
-    "html_url": "http://www.cmpp.ch/lc61.htm"
+    "html_url": "http://www.cmpp.ch/lc61.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 61",
+      "FEVRIER 2007"
+    ]
   },
   {
     "source": "cmpp",
@@ -6528,7 +7185,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/lc62.md",
-    "html_url": "http://www.cmpp.ch/lc62.htm"
+    "html_url": "http://www.cmpp.ch/lc62.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 62",
+      "AVRIL 2007"
+    ]
   },
   {
     "source": "cmpp",
@@ -6569,7 +7231,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1976/lc7.md",
-    "html_url": "http://www.cmpp.ch/lc7.htm"
+    "html_url": "http://www.cmpp.ch/lc7.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 7",
+      "JUILLET 1976"
+    ]
   },
   {
     "source": "cmpp",
@@ -6611,7 +7278,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1976/lc8.md",
-    "html_url": "http://www.cmpp.ch/lc8.htm"
+    "html_url": "http://www.cmpp.ch/lc8.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 8",
+      "SEPTEMBRE 1976"
+    ]
   },
   {
     "source": "cmpp",
@@ -6652,7 +7324,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1976/lc9.md",
-    "html_url": "http://www.cmpp.ch/lc9.htm"
+    "html_url": "http://www.cmpp.ch/lc9.htm",
+    "title_page": [
+      "“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).",
+      "LETTRE CIRCULAIRE N° 9",
+      "NOVEMBRE 1976"
+    ]
   },
   {
     "source": "cmpp",
@@ -6705,7 +7382,11 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/le_bapteme_une_question_importante.md",
-    "html_url": "http://www.cmpp.ch/bapteme_une_question_importante.htm"
+    "html_url": "http://www.cmpp.ch/bapteme_une_question_importante.htm",
+    "title_page": [
+      "LE BAPTEME?",
+      "UNE QUESTION IMPORTANTE!"
+    ]
   },
   {
     "source": "cmpp",
@@ -6793,7 +7474,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/le_chemin_qui_mene_a_dieu.md",
-    "html_url": "http://www.cmpp.ch/le_chemin_qui_mene_a_dieu.htm"
+    "html_url": "http://www.cmpp.ch/le_chemin_qui_mene_a_dieu.htm",
+    "title_page": [
+      "LE CHEMIN QUI MENE A DIEU",
+      "Titre original de l’ouvrage:",
+      "Der Weg zu Gott",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1985 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée",
+      "B.P. 5633",
+      "1002 Lausanne (Suisse)"
+    ]
   },
   {
     "source": "cmpp",
@@ -6853,7 +7548,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/le_jeune.md",
-    "html_url": "http://www.cmpp.ch/le_jeune.htm"
+    "html_url": "http://www.cmpp.ch/le_jeune.htm",
+    "title_page": [
+      "LE JEUNE"
+    ]
   },
   {
     "source": "cmpp",
@@ -6918,7 +7616,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/les_70_semaines_de_daniel.md",
-    "html_url": "http://www.cmpp.ch/les_70_semaines_de_daniel.htm"
+    "html_url": "http://www.cmpp.ch/les_70_semaines_de_daniel.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Die 70 Jahrwochen Daniels und die aktuellen Ereignisse im Licht biblischer Prophetie (Rundbriefe März 1994 / Dezember 2002)",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 2004 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur:",
+      "Centre Missionnaire de la Parole Parlée",
+      "Case Postale 5633",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -6969,7 +7681,13 @@
     "local_md": "markdown/cmpp/1960/les_aigles_de_dieu.md",
     "html_url": "http://www.cmpp.ch/les_aigles_de_dieu.htm",
     "original_title": "God’s Eagles",
-    "time_of_day": "après-midi"
+    "time_of_day": "après-midi",
+    "title_page": [
+      "LES AIGLES DE DIEU",
+      "(God’s Eagles)",
+      "4 mars 1960, après-midi",
+      "Tulsa — Oklahoma, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -7025,7 +7743,13 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1991/lettre_ouverte.md",
-    "html_url": "http://www.cmpp.ch/lettre_ouverte.htm"
+    "html_url": "http://www.cmpp.ch/lettre_ouverte.htm",
+    "title_page": [
+      "LETTRE OUVERTE",
+      "Avril 1991",
+      "Rédigée par le pasteur Ewald Frank",
+      "en langues allemande, anglaise, française et russe"
+    ]
   },
   {
     "source": "cmpp",
@@ -7092,7 +7816,14 @@
     "local_md": "markdown/cmpp/1965/mariage_et_divorce.md",
     "html_url": "http://www.cmpp.ch/mariage_et_divorce.htm",
     "original_title": "Marriage and Divorce",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "MARIAGE ET DIVORCE",
+      "(Marriage and Divorce)",
+      "21 février 1965, matin",
+      "Parkview Junior High School",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -7145,7 +7876,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/mariage_frank.md",
-    "html_url": "http://www.cmpp.ch/mariage_frank.htm"
+    "html_url": "http://www.cmpp.ch/mariage_frank.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Die Ehe – Das uralte Problem",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1997 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -7203,7 +7948,14 @@
     "local_md": "markdown/cmpp/1962/messieurs_est_ce_l_heure.md",
     "html_url": "http://www.cmpp.ch/messieurs_est_ce_l_heure.htm",
     "original_title": "Sirs, is the Time?",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "MESSIEURS, EST-CE L’HEURE?",
+      "(Sirs, is the Time?)",
+      "30 décembre 1962, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -7340,7 +8092,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/onction_temps_fin_A4.md",
-    "html_url": "http://www.cmpp.ch/onction_temps_fin.htm"
+    "html_url": "http://www.cmpp.ch/onction_temps_fin.htm",
+    "title_page": [
+      "L’ONCTION DU TEMPS DE LA FIN"
+    ]
   },
   {
     "source": "cmpp",
@@ -7431,7 +8186,14 @@
     "local_md": "markdown/cmpp/1962/parole_parlee_semence_originelle.md",
     "html_url": "http://www.cmpp.ch/parole_parlee_semence_originelle.htm",
     "original_title": "The Spoken Word is the Original Seed",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE",
+      "(The Spoken Word is the Original Seed)",
+      "18 mars 1962, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -7486,7 +8248,14 @@
     "local_md": "markdown/cmpp/1962/pourquoi_contre_les_religions.md",
     "html_url": "http://www.cmpp.ch/pourquoi_contre_les_religions.htm",
     "original_title": "Why I am Against Organized Religion",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES",
+      "(Why I am Against Organized Religion)",
+      "11 novembre 1962, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -7534,7 +8303,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/quand_dieu.md",
-    "html_url": "http://www.cmpp.ch/quand_dieu_devint_un_homme.htm"
+    "html_url": "http://www.cmpp.ch/quand_dieu_devint_un_homme.htm",
+    "title_page": [
+      "QUAND DIEU DEVINT UN HOMME"
+    ]
   },
   {
     "source": "cmpp",
@@ -7618,7 +8390,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/quel_bapteme.md",
-    "html_url": "http://www.cmpp.ch/quel_bapteme.htm"
+    "html_url": "http://www.cmpp.ch/quel_bapteme.htm",
+    "title_page": [
+      "DE QUEL BAPTEME AVEZ-VOUS DONC ETE BAPTISE? (Actes 19.3)"
+    ]
   },
   {
     "source": "cmpp",
@@ -7705,7 +8480,20 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/questions_reponses_ef.md",
-    "html_url": "http://www.cmpp.ch/questions_reponses_ef.htm"
+    "html_url": "http://www.cmpp.ch/questions_reponses_ef.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Menschen fragen, Gott antwortet durch Sein Wort",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 2006 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.",
+      "Editeur:",
+      "Centre Missionnaire de la Parole Parlée",
+      "Case Postale 5633",
+      "1002 Lausanne (Suisse)"
+    ]
   },
   {
     "source": "cmpp",
@@ -7770,7 +8558,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1988/retour.md",
-    "html_url": "http://www.cmpp.ch/retour.htm"
+    "html_url": "http://www.cmpp.ch/retour.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Die Wiederkunft Christi",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1989 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -7825,7 +8627,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev01.md",
     "html_url": "http://www.cmpp.ch/rev01.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "LA REVELATION",
+      "4 décembre 1960, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -7875,7 +8684,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev02.md",
     "html_url": "http://www.cmpp.ch/rev02.htm",
-    "time_of_day": "dimanche soir"
+    "time_of_day": "dimanche soir",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "VISION DE PATMOS",
+      "4 décembre 1960, dimanche soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -7931,7 +8747,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev03.md",
     "html_url": "http://www.cmpp.ch/rev03.htm",
-    "time_of_day": "lundi soir"
+    "time_of_day": "lundi soir",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "EGLISE D’EPHESE",
+      "5 décembre 1960, lundi soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -7991,7 +8814,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev04.md",
     "html_url": "http://www.cmpp.ch/rev04.htm",
-    "time_of_day": "mardi soir"
+    "time_of_day": "mardi soir",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "EGLISE DE SMYRNE",
+      "6 décembre 1960, mardi soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8043,7 +8873,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev05.md",
     "html_url": "http://www.cmpp.ch/rev05.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "EGLISE DE PERGAME",
+      "7 décembre 1960, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8095,7 +8932,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev06.md",
     "html_url": "http://www.cmpp.ch/rev06.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "EGLISE DE THYATIRE",
+      "8 décembre 1960, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8155,7 +8999,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev07.md",
     "html_url": "http://www.cmpp.ch/rev07.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "EGLISE DE SARDES",
+      "9 décembre 1960, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8217,7 +9068,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev08.md",
     "html_url": "http://www.cmpp.ch/rev08.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "EGLISE DE PHILADELPHIE",
+      "10 décembre 1960, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8278,7 +9136,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev09.md",
     "html_url": "http://www.cmpp.ch/rev09.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "LES DIX VIERGES",
+      "11 décembre 1960, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8333,7 +9198,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev10.md",
     "html_url": "http://www.cmpp.ch/rev10.htm",
-    "time_of_day": "dimanche soir"
+    "time_of_day": "dimanche soir",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "EGLISES DE LAODICEE",
+      "11 décembre 1960, dimanche soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8386,7 +9258,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1960/rev11.md",
     "html_url": "http://www.cmpp.ch/rev11.htm",
-    "time_of_day": "dimanche soir"
+    "time_of_day": "dimanche soir",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "APOCALYPSE, CHAPITRE QUATRE",
+      "31 décembre 1960, dimanche soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8437,7 +9316,15 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1961/rev12.md",
     "html_url": "http://www.cmpp.ch/rev12.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "LES VINGT-QUATRE ANCIENS",
+      "(Chapitre quatre / 2èmepartie)",
+      "1er janvier 1961, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8506,7 +9393,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1961/rev13.md",
     "html_url": "http://www.cmpp.ch/rev13.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "LE TRONE",
+      "8 janvier 1961, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8555,7 +9449,15 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1961/rev14.md",
     "html_url": "http://www.cmpp.ch/rev14.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "LE SERPENT ECRASE",
+      "Apocalypse, chapitre cinq (1ère partie)",
+      "11 juin 1961, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8606,7 +9508,15 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1961/rev15.md",
     "html_url": "http://www.cmpp.ch/rev15.htm",
-    "time_of_day": "dimanche matin"
+    "time_of_day": "dimanche matin",
+    "title_page": [
+      "LA REVELATION DE JESUS-CHRIST",
+      "APOCALYPSE, CHAPITRE CINQ",
+      "(fin)",
+      "18 juin 1961, dimanche matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8650,7 +9560,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/savez-vous.md",
-    "html_url": "http://www.cmpp.ch/savez-vous.htm"
+    "html_url": "http://www.cmpp.ch/savez-vous.htm",
+    "title_page": [
+      "LE SAVEZ-VOUS…?"
+    ]
   },
   {
     "source": "cmpp",
@@ -8744,7 +9657,14 @@
     "local_md": "markdown/cmpp/1964/serie1no1.md",
     "html_url": "http://www.cmpp.ch/serie1no1.htm",
     "original_title": "Recognizing the Day and its Message",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "RECONNAISSEZ LE JOUR ET SON MESSAGE",
+      "(Recognizing the Day and its Message)",
+      "26 juillet 1964, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8796,7 +9716,15 @@
     "local_md": "markdown/cmpp/1965/serie1no10.md",
     "html_url": "http://www.cmpp.ch/serie1no10.htm",
     "original_title": "It is The Rising of The sun",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LE LEVER DU SOLEIL",
+      "(La Puissance qui donne la Vie)",
+      "(It is The Rising of The sun)",
+      "18 avril 1965, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8844,7 +9772,14 @@
     "local_md": "markdown/cmpp/1963/serie1no11.md",
     "html_url": "http://www.cmpp.ch/serie1no11.htm",
     "original_title": "Christ is the Mystery of God Revealed",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "CHRIST EST LA REVELATION DU MYSTERE DE DIEU",
+      "(Christ is the Mystery of God Revealed)",
+      "28 juillet 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8889,7 +9824,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1959/serie1no12.md",
     "html_url": "http://www.cmpp.ch/serie1no12.htm",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "DISCERNER LE CORPS DU SEIGNEUR",
+      "(discerning the Body of The Lord)",
+      "12 août 1959, soir",
+      "Middletown — Ohio, U.S.A."
+    ],
+    "original_title": "discerning the Body of The Lord"
   },
   {
     "source": "cmpp",
@@ -8934,7 +9876,14 @@
     "local_md": "markdown/cmpp/1965/serie1no2.md",
     "html_url": "http://www.cmpp.ch/serie1no2.htm",
     "original_title": "Spiritual food in due season",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LA NOURRITURE SPIRITUELLE AU TEMPS CONVENABLE",
+      "(Spiritual food in due season)",
+      "18 juillet 1965, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -8998,7 +9947,14 @@
     "local_md": "markdown/cmpp/1965/serie1no3.md",
     "html_url": "http://www.cmpp.ch/serie1no3.htm",
     "original_title": "The Anointed Onest At The End Time",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LES OINTS DU TEMPS DE LA FIN",
+      "(The Anointed Onest At The End Time)",
+      "25 juillet 1965, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9059,7 +10015,13 @@
     "local_md": "markdown/cmpp/1963/serie1no4.md",
     "html_url": "http://www.cmpp.ch/serie1no4.htm",
     "original_title": "The End Time Messenger",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LE MESSAGER DU TEMPS DE LA FIN",
+      "(The End Time Messenger)",
+      "16 janvier 1963, soir",
+      "Mesa — Arizona, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9070,7 +10032,7 @@
     "pdf_url": "http://cmpp.ch/serie1no5.pdf",
     "stream_url": null,
     "subtitle": "14 octobre 1962, matin",
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "summary": "William Branham enseigne sur la stature de l'homme parfait, basé sur 2 Pierre 1, expliquant comment les croyants peuvent devenir participants de la nature divine par les promesses de Dieu. Il aborde la foi, l'amour pour Christ, et la croissance spirituelle, tout en partageant des témoignages de guérison et d'encouragement.",
     "tags": [
@@ -9112,7 +10074,15 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1962/serie1no5.md",
     "html_url": "http://www.cmpp.ch/serie1no5.htm",
-    "original_title": "Stature Of A Perfect Man"
+    "original_title": "Stature Of A Perfect Man",
+    "title_page": [
+      "LA STATURE DE L’HOMME PARFAIT",
+      "(Stature Of A Perfect Man)",
+      "14 octobre1962, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ],
+    "time_of_day": "matin"
   },
   {
     "source": "cmpp",
@@ -9168,7 +10138,14 @@
     "local_md": "markdown/cmpp/1964/serie1no6.md",
     "html_url": "http://www.cmpp.ch/serie1no6.htm",
     "original_title": "Unveiling of God",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "DIEU DEVOILE",
+      "(Unveiling of God)",
+      "14 juin 1964, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9222,7 +10199,13 @@
     "local_md": "markdown/cmpp/1965/serie1no7.md",
     "html_url": "http://www.cmpp.ch/serie1no7.htm",
     "original_title": "Modern Events Made Clear By Prophecy",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE",
+      "(Modern Events Made Clear By Prophecy)",
+      "6 décembre 1965, soir",
+      "San Bernardino — Californie, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9276,7 +10259,14 @@
     "local_md": "markdown/cmpp/1965/serie1no8.md",
     "html_url": "http://www.cmpp.ch/serie1no8.htm",
     "original_title": "Birth Pains",
-    "time_of_day": "après-midi"
+    "time_of_day": "après-midi",
+    "title_page": [
+      "LES DOULEURS DE L’ENFANTEMENT",
+      "(Birth Pains)",
+      "24 janvier 1965, après-midi",
+      "Ramada Inn",
+      "Phoenix — Arizona, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9331,7 +10321,15 @@
     "local_md": "markdown/cmpp/1963/serie1no9.md",
     "html_url": "http://www.cmpp.ch/serie1no9.htm",
     "original_title": "The Indictment",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "L’ACCUSATION",
+      "(The Indictment)",
+      "“… ils Le crucifièrent là…”.",
+      "7 juillet 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9385,7 +10383,14 @@
     "local_md": "markdown/cmpp/1963/serie2no1.md",
     "html_url": "http://www.cmpp.ch/serie2no1.htm",
     "original_title": "The Token",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LE SIGNE",
+      "(The Token)",
+      "1er septembre 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9444,7 +10449,14 @@
     "local_md": "markdown/cmpp/1965/serie2no10.md",
     "html_url": "http://www.cmpp.ch/serie2no10.htm",
     "original_title": "Works is Faith Expressed",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LES OEUVRES SONT L’EXPRESSION DE LA FOI",
+      "(Works is Faith Expressed)",
+      "26 novembre 1965, soir",
+      "Life Tabernacle",
+      "Shreveport — Louisiane, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9499,7 +10511,14 @@
     "local_md": "markdown/cmpp/1965/serie2no11.md",
     "html_url": "http://www.cmpp.ch/serie2no11.htm",
     "original_title": "God’s only chosen Place of Worship",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU",
+      "(God’s only chosen Place of Worship)",
+      "28 novembre 1965, matin",
+      "Life Tabernacle",
+      "Shreveport — Louisiane, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9543,7 +10562,14 @@
     "local_md": "markdown/cmpp/1965/serie2no12.md",
     "html_url": "http://www.cmpp.ch/serie2no12.htm",
     "original_title": "God of This Evil Age",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LE DIEU DE CET AGE MAUVAIS",
+      "(God of This Evil Age)",
+      "1er août 1965, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9592,7 +10618,14 @@
     "local_md": "markdown/cmpp/1963/serie2no2.md",
     "html_url": "http://www.cmpp.ch/serie2no2.htm",
     "original_title": "Desperation",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "POUSSES A BOUT",
+      "(Desperation)",
+      "1er septembre 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9642,7 +10675,14 @@
     "local_md": "markdown/cmpp/1962/serie2no3.md",
     "html_url": "http://www.cmpp.ch/serie2no3.htm",
     "original_title": "The Absolute",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "L’ABSOLU",
+      "(The Absolute)",
+      "30 décembre 1962, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9696,7 +10736,14 @@
     "local_md": "markdown/cmpp/1963/serie2no4.md",
     "html_url": "http://www.cmpp.ch/serie2no4.htm",
     "original_title": "How Can I Overcome?",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "COMMENT PUIS-JE VAINCRE?",
+      "(How Can I Overcome?)",
+      "25 août 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9751,7 +10798,14 @@
     "local_md": "markdown/cmpp/1959/serie2no5.md",
     "html_url": "http://www.cmpp.ch/serie2no5.htm",
     "original_title": "What is The Holy Ghost?",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "QU’EST-CE QUE LE SAINT-ESPRIT?",
+      "(What is The Holy Ghost?)",
+      "16 décembre 1959, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9798,7 +10852,14 @@
     "local_md": "markdown/cmpp/1959/serie2no6.md",
     "html_url": "http://www.cmpp.ch/serie2no6.htm",
     "original_title": "What The Holy Ghost Was Given For",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "POURQUOI LE SAINT-ESPRIT A ETE DONNE?",
+      "(What The Holy Ghost Was Given For)",
+      "17 décembre 1959, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9852,7 +10913,15 @@
     "local_md": "markdown/cmpp/1962/serie2no7.md",
     "html_url": "http://www.cmpp.ch/serie2no7.htm",
     "original_title": "Restoration of the Bride Tree",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "RESTITUTION DE L’ARBRE DE L’EPOUSE",
+      "(Restoration of the Bride Tree)",
+      "Votre vie parle plus fort que vos paroles",
+      "22 avril 1962, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9913,7 +10982,14 @@
     "local_md": "markdown/cmpp/1963/serie2no8.md",
     "html_url": "http://www.cmpp.ch/serie2no8.htm",
     "original_title": "Is Your Life Worthy of the Gospel?",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE?",
+      "(Is Your Life Worthy of the Gospel?)",
+      "30 juin 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -9966,7 +11042,14 @@
     "local_md": "markdown/cmpp/1964/serie2no9.md",
     "html_url": "http://www.cmpp.ch/serie2no9.htm",
     "original_title": "Proving His Word",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "DIEU CONFIRMANT SA PAROLE",
+      "(Proving His Word)",
+      "16 août 1964, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10031,7 +11114,14 @@
     "local_md": "markdown/cmpp/1963/serie3no1.md",
     "html_url": "http://www.cmpp.ch/serie3no1.htm",
     "original_title": "Standing in the Gap",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "DEBOUT DANS LA BRECHE",
+      "(Standing in the Gap)",
+      "23 juin 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10084,7 +11174,14 @@
     "local_md": "markdown/cmpp/1963/serie3no10.md",
     "html_url": "http://www.cmpp.ch/serie3no10.htm",
     "original_title": "Souls That are Imprisoned now",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LES AMES QUI SONT EN PRISON MAINTENANT",
+      "(Souls That are Imprisoned now)",
+      "10 novembre 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10131,7 +11228,14 @@
     "local_md": "markdown/cmpp/1963/serie3no11.md",
     "html_url": "http://www.cmpp.ch/serie3no11.htm",
     "original_title": "He that is in you",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "CELUI QUI EST EN VOUS",
+      "(He that is in you)",
+      "10 novembre 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10187,7 +11291,14 @@
     "local_md": "markdown/cmpp/1963/serie3no12.md",
     "html_url": "http://www.cmpp.ch/serie3no12.htm",
     "original_title": "What shall I do with Jesus called Christ?",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "QUE FERAI-JE DE JESUS APPELE CHRIST?",
+      "(What shall I do with Jesus called Christ?)",
+      "24 novembre 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10241,7 +11352,14 @@
     "local_md": "markdown/cmpp/1963/serie3no2.md",
     "html_url": "http://www.cmpp.ch/serie3no2.htm",
     "original_title": "The flashing red light of the of His Coming",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LE SIGNAL ROUGE DE SA VENUE",
+      "(The flashing red light of the of His Coming)",
+      "23 juin 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10295,7 +11413,14 @@
     "local_md": "markdown/cmpp/1963/serie3no3.md",
     "html_url": "http://www.cmpp.ch/serie3no3.htm",
     "original_title": "The Third Exodus",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LE TROISIEME EXODE",
+      "(The Third Exodus)",
+      "30 juin 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10349,7 +11474,14 @@
     "local_md": "markdown/cmpp/1963/serie3no4.md",
     "html_url": "http://www.cmpp.ch/serie3no4.htm",
     "original_title": "Why Cry? Speak!",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "POURQUOI CRIER? PARLE!",
+      "(Why Cry? Speak!)",
+      "14 juillet 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10397,7 +11529,14 @@
     "local_md": "markdown/cmpp/1963/serie3no5.md",
     "html_url": "http://www.cmpp.ch/serie3no5.htm",
     "original_title": "Paul, a prisoner of Christ",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "PAUL, PRISONNIER DE CHRIST",
+      "(Paul, a prisoner of Christ)",
+      "17 juillet 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10447,7 +11586,14 @@
     "local_md": "markdown/cmpp/1963/serie3no6.md",
     "html_url": "http://www.cmpp.ch/serie3no6.htm",
     "original_title": "He Cares. Do you care?",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "IL PREND SOIN. ET VOUS?",
+      "(He Cares. Do you care?)",
+      "21 juillet 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10497,7 +11643,16 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1963/serie3no7.md",
     "html_url": "http://www.cmpp.ch/serie3no7.htm",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "AVERTISSEMENT, PUIS JUGEMENT",
+      "(Warning, then Judgment)",
+      "(Dieu n’appelle pas l’homme en jugement sans l’avoir d’abord averti)",
+      "24 juillet 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ],
+    "original_title": "Warning, then Judgment"
   },
   {
     "source": "cmpp",
@@ -10542,7 +11697,14 @@
     "local_md": "markdown/cmpp/1963/serie3no8.md",
     "html_url": "http://www.cmpp.ch/serie3no8.htm",
     "original_title": "The Uniting Time and Sign",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LE TEMPS ET LE SIGNE DE L’UNION",
+      "(The Uniting Time and Sign)",
+      "18 août 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10594,7 +11756,14 @@
     "local_md": "markdown/cmpp/1963/serie3no9.md",
     "html_url": "http://www.cmpp.ch/serie3no9.htm",
     "original_title": "Perfect Faith",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "FOI PARFAITE",
+      "(Perfect Faith)",
+      "25 août 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10648,7 +11817,14 @@
     "local_md": "markdown/cmpp/1963/serie4no1.md",
     "html_url": "http://www.cmpp.ch/serie4no1.htm",
     "original_title": "Three kinds of believers",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "TROIS SORTES DE CROYANTS",
+      "(Three kinds of believers)",
+      "24 novembre 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10696,7 +11872,14 @@
     "local_md": "markdown/cmpp/1964/serie4no10.md",
     "html_url": "http://www.cmpp.ch/serie4no10.htm",
     "original_title": "The future home of the Heavenly bridegroom and the earthly Bride",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LA DEMEURE FUTURE DE LEPOUX CELESTE ET DE L’EPOUSE TERRESTRE",
+      "(The future home of the Heavenly bridegroom and the earthly Bride)",
+      "2 août 1964, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10742,7 +11925,14 @@
     "local_md": "markdown/cmpp/1965/serie4no11.md",
     "html_url": "http://www.cmpp.ch/serie4no11.htm",
     "original_title": "A man Runnin From the Presence of the Lord",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "L’HOMME FUYANT LOIN DE LA PRESENCE DU SEIGNEUR",
+      "(A man Runnin From the Presence of the Lord)",
+      "17 février 1965, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10794,7 +11984,14 @@
     "local_md": "markdown/cmpp/1965/serie4no12.md",
     "html_url": "http://www.cmpp.ch/serie4no12.htm",
     "original_title": "The Seed is not Heir With the Shuck",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LA SEMENCE N’HERITERA PAS AVEC LA BALLE",
+      "(The Seed is not Heir With the Shuck)",
+      "18 février 1965, soir",
+      "Parkview Junior High School Auditorium",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10843,7 +12040,14 @@
     "local_md": "markdown/cmpp/1963/serie4no2.md",
     "html_url": "http://www.cmpp.ch/serie4no2.htm",
     "original_title": "Appropriate Gifts",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "DONS APPROPRIES",
+      "(Appropriate Gifts)",
+      "22 décembre 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10893,7 +12097,14 @@
     "local_md": "markdown/cmpp/1963/serie4no3.md",
     "html_url": "http://www.cmpp.ch/serie4no3.htm",
     "original_title": "Church Ordere",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "L’ORDRE DANS L’EGLISE",
+      "(Church Ordere)",
+      "26 décembre 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -10957,7 +12168,14 @@
     "local_md": "markdown/cmpp/1963/serie4no4.md",
     "html_url": "http://www.cmpp.ch/serie4no4.htm",
     "original_title": "There is a Man here that can turn on the Light",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE",
+      "(There is a Man here that can turn on the Light)",
+      "29 décembre 1963, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11029,7 +12247,14 @@
     "local_md": "markdown/cmpp/1963/serie4no5.md",
     "html_url": "http://www.cmpp.ch/serie4no5.htm",
     "time_of_day": "soir",
-    "original_title": "Look aways to Jesus"
+    "original_title": "Look aways to Jesus",
+    "title_page": [
+      "TOURNER LES REGARDS VERS JESUS",
+      "(Look aways to Jesus",
+      "29 décembre 1963, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11089,7 +12314,14 @@
     "local_md": "markdown/cmpp/1964/serie4no6.md",
     "html_url": "http://www.cmpp.ch/serie4no6.htm",
     "original_title": "The Oddball",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "L’ORIGINAL",
+      "(The Oddball)",
+      "14 juin 1964, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11150,7 +12382,14 @@
     "local_md": "markdown/cmpp/1964/serie4no7.md",
     "html_url": "http://www.cmpp.ch/serie4no7.htm",
     "original_title": "Feast of the Trumpets",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LA FETE DES TROMPETTES",
+      "(Feast of the Trumpets)",
+      "19 juillet 1964, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11207,7 +12446,14 @@
     "local_md": "markdown/cmpp/1964/serie4no8.md",
     "html_url": "http://www.cmpp.ch/serie4no8.htm",
     "original_title": "Going beyond the Camp",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "ALLANT AU-DELA DU CAMP",
+      "(Going beyond the Camp)",
+      "19 juillet 1964, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11287,7 +12533,14 @@
     "local_md": "markdown/cmpp/1964/serie4no9.md",
     "html_url": "http://www.cmpp.ch/serie4no9.htm",
     "original_title": "Broken cisterns",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "CITERNES CREVASSEES",
+      "(Broken cisterns)",
+      "26 juillet 1964, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11349,7 +12602,14 @@
     "local_md": "markdown/cmpp/1965/serie5no1.md",
     "html_url": "http://www.cmpp.ch/serie5no1.htm",
     "original_title": "God’s Chosen place of Worship",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LE LIEU D’ADORATION CHOISI PAR DIEU",
+      "(God’s Chosen place of Worship)",
+      "20 février 1965, soir",
+      "Parkview Junior High Shool Auditorium",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11404,7 +12664,14 @@
     "local_md": "markdown/cmpp/1965/serie5no10.md",
     "html_url": "http://www.cmpp.ch/serie5no10.htm",
     "original_title": "God’s Power To Transform",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "LE POUVOIR DE DIEU POUR TRANSFORMER",
+      "(God’s Power To Transform)",
+      "11 septembre 1965, matin",
+      "Full Gospel Business Men’s Breakfast",
+      "Phoenix — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11451,7 +12718,14 @@
     "local_md": "markdown/cmpp/1965/serie5no11.md",
     "html_url": "http://www.cmpp.ch/serie5no11.htm",
     "original_title": "Invisible Union of the Bride of Christ",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "L’UNION INVISIBLE DE L’EPOUSE DE CHRIST",
+      "(Invisible Union of the Bride of Christ)",
+      "25 novembre 1965, soir",
+      "Life Tabernacle",
+      "Shreveport — Louisiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11504,7 +12778,14 @@
     "local_md": "markdown/cmpp/1964/serie5no12.md",
     "html_url": "http://www.cmpp.ch/serie5no12.htm",
     "original_title": "Countdown",
-    "time_of_day": "après-midi"
+    "time_of_day": "après-midi",
+    "title_page": [
+      "COMPTE A REBOURS",
+      "(Countdown)",
+      "9 février 1964, après-midi",
+      "Fairgrounds",
+      "Bakersfield — Californie, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11552,7 +12833,14 @@
     "local_md": "markdown/cmpp/1965/serie5no2.md",
     "html_url": "http://www.cmpp.ch/serie5no2.htm",
     "original_title": "Who is this Melchisedec?",
-    "time_of_day": "après-midi"
+    "time_of_day": "après-midi",
+    "title_page": [
+      "QUI EST CE MELCHISEDEC?",
+      "(Who is this Melchisedec?)",
+      "21 Février 1965, après-midi",
+      "Parkview-Junior, High School Auditorium",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11603,7 +12891,15 @@
     "local_md": "markdown/cmpp/1965/serie5no3.md",
     "html_url": "http://www.cmpp.ch/serie5no3.htm",
     "original_title": "Does God ever change His mind about His Word?",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE",
+      "AU SUJET DE SA PAROLE?",
+      "(Does God ever change His mind about His Word?)",
+      "18 avril 1965, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11659,7 +12955,14 @@
     "local_md": "markdown/cmpp/1965/serie5no4.md",
     "html_url": "http://www.cmpp.ch/serie5no4.htm",
     "original_title": "Ashamed of Him",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "HONTEUX DE LUI",
+      "(Ashamed of Him)",
+      "11 Juillet 1965, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11712,7 +13015,14 @@
     "local_md": "markdown/cmpp/1965/serie5no5.md",
     "html_url": "http://www.cmpp.ch/serie5no5.htm",
     "original_title": "Trying to do God a service without being the will of God",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE",
+      "(Trying to do God a service without being the will of God)",
+      "18 Juillet 1965, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11779,7 +13089,14 @@
     "local_md": "markdown/cmpp/1965/serie5no6.md",
     "html_url": "http://www.cmpp.ch/serie5no6.htm",
     "original_title": "What is the Attraction on the Mountain?",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?",
+      "(What is the Attraction on the Mountain?)",
+      "25 Juillet 1965, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11832,7 +13149,14 @@
     "local_md": "markdown/cmpp/1965/serie5no7.md",
     "html_url": "http://www.cmpp.ch/serie5no7.htm",
     "original_title": "And knoweth it not",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "ET VOUS NE LE SAVEZ PAS!",
+      "(And knoweth it not)",
+      "15 août 1965, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -11843,7 +13167,7 @@
     "pdf_url": "http://cmpp.ch/serie5no8.pdf",
     "stream_url": null,
     "subtitle": "22 août 1965, matin",
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "summary": "William Branham prêche sur la révélation de Christ dans Sa Parole, expliquant que la Bible est l'absolu de Dieu, non un livre de systèmes ou de morale, mais la révélation de Jésus-Christ. Il souligne l'unité de Christ et de la Parole, la prédestination des croyants en Dieu dès le commencement, et la nécessité d'un absolu dans la vie chrétienne.",
     "tags": [
@@ -11892,7 +13216,15 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1965/serie5no8.md",
     "html_url": "http://www.cmpp.ch/serie5no8.htm",
-    "original_title": "Christ is revealed in His own Word"
+    "original_title": "Christ is revealed in His own Word",
+    "title_page": [
+      "CHRIST EST REVELE DANS SA PROPRE PAROLE",
+      "(Christ is revealed in His own Word)",
+      "22 août1965, matin",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ],
+    "time_of_day": "matin"
   },
   {
     "source": "cmpp",
@@ -11903,7 +13235,7 @@
     "pdf_url": "http://cmpp.ch/serie5no9.pdf",
     "stream_url": null,
     "subtitle": "29 août 1965, soir",
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "summary": "William Branham prêche sur la tromperie de Satan qui, depuis le jardin d'Eden, pervertit la Parole de Dieu. Il compare l'Eden de Dieu (justice, sainteté, vie éternelle) à l'éden de Satan (péché, religion pervertie, connaissance intellectuelle). Il avertit que dans les derniers jours, Satan trompe même les élus par une fausse religion, et que l'Église de Laodicée est riche mais aveugle et nue.",
     "tags": [
@@ -11940,7 +13272,15 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1965/serie5no9.md",
     "html_url": "http://www.cmpp.ch/serie5no9.htm",
-    "original_title": "Satan’s Eden"
+    "original_title": "Satan’s Eden",
+    "title_page": [
+      "L’EDEN DE SATAN",
+      "(Satan’s Eden)",
+      "29 août1965, soir",
+      "Branham Tabernacle",
+      "Jeffersonville — Indiana, U.S.A."
+    ],
+    "time_of_day": "soir"
   },
   {
     "source": "cmpp",
@@ -11993,7 +13333,14 @@
     "local_md": "markdown/cmpp/1965/serie6no1.md",
     "html_url": "http://www.cmpp.ch/serie6no1.htm",
     "original_title": "Choosing A Bride",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LE CHOIX D’UNE EPOUSE",
+      "(Choosing A Bride)",
+      "29 avril 1965, soir",
+      "Biltmore Hotel Auditorium",
+      "Los Angeles — Californie, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -12049,7 +13396,13 @@
     "local_md": "markdown/cmpp/1964/serie6no2.md",
     "html_url": "http://www.cmpp.ch/serie6no2.htm",
     "original_title": "Who Do You Say This Is",
-    "time_of_day": "matin"
+    "time_of_day": "matin",
+    "title_page": [
+      "D’APRES-VOUS, DE QUOI S'AGIT-IL?",
+      "(Who Do You Say This Is)",
+      "27 décembre 1964, matin",
+      "Phoenix — Arizona, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -12116,7 +13469,14 @@
     "local_md": "markdown/cmpp/1965/serie6no3.md",
     "html_url": "http://www.cmpp.ch/serie6no3.htm",
     "original_title": "Thirst",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "SOIF",
+      "(Thirst)",
+      "19 septembre 1965, soir",
+      "Assemblée de Dieu de Grantway",
+      "Phoenix — Arizona, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -12166,7 +13526,14 @@
     "local_md": "markdown/cmpp/1965/serie6no4.md",
     "html_url": "http://www.cmpp.ch/serie6no4.htm",
     "original_title": "The Rapture",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "L’ENLEVEMENT",
+      "(The Rapture)",
+      "4 décembre 1965, soir",
+      "Ramada Inn",
+      "Yuma — Arizona, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -12217,7 +13584,14 @@
     "local_md": "markdown/cmpp/1964/serie6no5.md",
     "html_url": "http://www.cmpp.ch/serie6no5.htm",
     "original_title": "The Patriarche Abraham",
-    "time_of_day": "soir"
+    "time_of_day": "soir",
+    "title_page": [
+      "LE PATRIARCHE ABRAHAM",
+      "(The Patriarche Abraham)",
+      "7 février 1964, soir",
+      "Kern County Fairgrounds",
+      "Bakersfield — California, U.S.A."
+    ]
   },
   {
     "source": "cmpp",
@@ -12267,7 +13641,20 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/tragedie.md",
-    "html_url": "http://www.cmpp.ch/tragedie.htm"
+    "html_url": "http://www.cmpp.ch/tragedie.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "Die grosse Tragödie und Gottes Heilsplan im Licht der Endzeitbotschaft",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 2001 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée;",
+      "Case Postale 5633,",
+      "1002 Lausanne (Suisse)"
+    ]
   },
   {
     "source": "cmpp",
@@ -12321,7 +13708,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/1996/vision_7000.md",
-    "html_url": "http://www.cmpp.ch/vision_7000.htm"
+    "html_url": "http://www.cmpp.ch/vision_7000.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "«VISION 7000» – Global-Information",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1996 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -12366,7 +13767,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/votre_attention_A4.md",
-    "html_url": "http://www.cmpp.ch/votre_attention.htm"
+    "html_url": "http://www.cmpp.ch/votre_attention.htm",
+    "title_page": [
+      "VOTRE ATTENTION S.V.P.!"
+    ]
   },
   {
     "source": "cmpp",
@@ -12418,7 +13822,14 @@
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/vraitemoin.md",
     "html_url": "http://www.cmpp.ch/vraitemoin.htm",
-    "original_title": "I am a Witness"
+    "original_title": "I am a Witness",
+    "title_page": [
+      "JE SUIS UN VRAI TEMOIN",
+      "(I am a Witness)",
+      "«Je suis un vrai témoin»: Une documentation du révérend Ewald Frank,",
+      "enregistrée en décembre 1997 au «Centre Missionnaire» de Krefeld.",
+      "[Traduction française de la cassette vidéo en anglais.]"
+    ]
   },
   {
     "source": "cmpp",
@@ -12473,7 +13884,21 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/william.md",
-    "html_url": "http://www.cmpp.ch/william.htm"
+    "html_url": "http://www.cmpp.ch/william.htm",
+    "title_page": [
+      "Titre original de l’ouvrage:",
+      "William Branham — ein Prophet von Gott gesandt",
+      "Auteur:",
+      "Missionnaire Ewald Frank, Krefeld (Allemagne)",
+      "Copyright © 1994 by",
+      "Freie Volksmission e.V., Krefeld (Allemagne)",
+      "Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.",
+      "Editeur",
+      "Centre Missionnaire de la Parole Parlée,",
+      "Case Postale 5633,",
+      "1002 Lausanne",
+      "Suisse"
+    ]
   },
   {
     "source": "cmpp",
@@ -12974,7 +14399,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_04_2003.md",
-    "html_url": "http://www.cmpp.ch/video_04_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2003.htm",
+    "title_page": [
+      "SOMMAIRE DES RENCONTRES",
+      "Avril 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13037,7 +14467,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_05_2003.md",
-    "html_url": "http://www.cmpp.ch/video_05_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2003.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13097,7 +14532,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_06_2003.md",
-    "html_url": "http://www.cmpp.ch/video_06_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2003.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13152,7 +14592,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_07_2003.md",
-    "html_url": "http://www.cmpp.ch/video_07_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2003.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13194,7 +14639,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_08_2003.md",
-    "html_url": "http://www.cmpp.ch/video_08_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2003.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13246,7 +14696,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_09_2003.md",
-    "html_url": "http://www.cmpp.ch/video_09_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2003.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13300,7 +14755,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_10_2003.md",
-    "html_url": "http://www.cmpp.ch/video_10_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2003.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13349,7 +14809,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_11_2003.md",
-    "html_url": "http://www.cmpp.ch/video_11_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2003.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13405,7 +14870,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2003/video_12_2003.md",
-    "html_url": "http://www.cmpp.ch/video_12_2003.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2003.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2003",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13457,7 +14927,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_01_2004.md",
-    "html_url": "http://www.cmpp.ch/video_01_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13504,7 +14979,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_02_2004.md",
-    "html_url": "http://www.cmpp.ch/video_02_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13547,7 +15027,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_04_2004.md",
-    "html_url": "http://www.cmpp.ch/video_04_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13599,7 +15084,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_05_2004.md",
-    "html_url": "http://www.cmpp.ch/video_05_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13649,7 +15139,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_06_2004.md",
-    "html_url": "http://www.cmpp.ch/video_06_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13701,7 +15196,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_07_2004.md",
-    "html_url": "http://www.cmpp.ch/video_07_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13747,7 +15247,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_08_2004.md",
-    "html_url": "http://www.cmpp.ch/video_08_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13802,7 +15307,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_09_2004.md",
-    "html_url": "http://www.cmpp.ch/video_09_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13848,7 +15358,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_10_2004.md",
-    "html_url": "http://www.cmpp.ch/video_10_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13896,7 +15411,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_11_2004.md",
-    "html_url": "http://www.cmpp.ch/video_11_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13945,7 +15465,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2004/video_12_2004.md",
-    "html_url": "http://www.cmpp.ch/video_12_2004.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2004.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2004",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -13991,7 +15516,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_01_2005.md",
-    "html_url": "http://www.cmpp.ch/video_01_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14040,7 +15570,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_02_2005.md",
-    "html_url": "http://www.cmpp.ch/video_02_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14084,7 +15619,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_03_2005.md",
-    "html_url": "http://www.cmpp.ch/video_03_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14129,7 +15669,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_04_2005.md",
-    "html_url": "http://www.cmpp.ch/video_04_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14181,7 +15726,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_05_2005.md",
-    "html_url": "http://www.cmpp.ch/video_05_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14227,7 +15777,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_06_2005.md",
-    "html_url": "http://www.cmpp.ch/video_06_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14272,7 +15827,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_07_2005.md",
-    "html_url": "http://www.cmpp.ch/video_07_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14326,7 +15886,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_08_2005.md",
-    "html_url": "http://www.cmpp.ch/video_08_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14384,7 +15949,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_09_2005.md",
-    "html_url": "http://www.cmpp.ch/video_09_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14431,7 +16001,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_10_2005.md",
-    "html_url": "http://www.cmpp.ch/video_10_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14483,7 +16058,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_11_2005.md",
-    "html_url": "http://www.cmpp.ch/video_11_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14527,7 +16107,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2005/video_12_2005.md",
-    "html_url": "http://www.cmpp.ch/video_12_2005.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2005.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2005",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14572,7 +16157,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_01_2006.md",
-    "html_url": "http://www.cmpp.ch/video_01_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14621,7 +16211,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_02_2006.md",
-    "html_url": "http://www.cmpp.ch/video_02_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14667,7 +16262,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_03_2006.md",
-    "html_url": "http://www.cmpp.ch/video_03_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14712,7 +16312,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_04_2006.md",
-    "html_url": "http://www.cmpp.ch/video_04_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14759,7 +16364,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_05_2006.md",
-    "html_url": "http://www.cmpp.ch/video_05_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14806,7 +16416,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_06_2006.md",
-    "html_url": "http://www.cmpp.ch/video_06_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14853,7 +16468,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_07_2006.md",
-    "html_url": "http://www.cmpp.ch/video_07_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14910,7 +16530,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_08_2006.md",
-    "html_url": "http://www.cmpp.ch/video_08_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14955,7 +16580,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_09_2006.md",
-    "html_url": "http://www.cmpp.ch/video_09_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -14996,7 +16626,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_10_2006.md",
-    "html_url": "http://www.cmpp.ch/video_10_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15042,7 +16677,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2006/video_11_2006.md",
-    "html_url": "http://www.cmpp.ch/video_11_2006.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2006.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2006",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15089,8 +16729,7 @@
       "Dernier âge de l'Église"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2006/video_12_2006.md",
-    "html_url": "http://www.cmpp.ch/video_12_2006.htm"
+    "local_md": "markdown/cmpp/2006/video_12_2006.md"
   },
   {
     "source": "cmpp",
@@ -15140,7 +16779,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_02_2007.md",
-    "html_url": "http://www.cmpp.ch/video_02_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15191,7 +16835,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_03_2007.md",
-    "html_url": "http://www.cmpp.ch/video_03_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15241,7 +16890,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_04_2007.md",
-    "html_url": "http://www.cmpp.ch/video_04_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15295,7 +16949,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_05_2007.md",
-    "html_url": "http://www.cmpp.ch/video_05_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15338,7 +16997,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_06_2007.md",
-    "html_url": "http://www.cmpp.ch/video_06_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15384,7 +17048,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_07_2007.md",
-    "html_url": "http://www.cmpp.ch/video_07_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15436,7 +17105,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_08_2007.md",
-    "html_url": "http://www.cmpp.ch/video_08_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15486,7 +17160,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_09_2007.md",
-    "html_url": "http://www.cmpp.ch/video_09_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15540,7 +17219,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_10_2007.md",
-    "html_url": "http://www.cmpp.ch/video_10_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15583,7 +17267,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_11_2007.md",
-    "html_url": "http://www.cmpp.ch/video_11_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15627,7 +17316,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2007/video_12_2007.md",
-    "html_url": "http://www.cmpp.ch/video_12_2007.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2007.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2007",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15797,7 +17491,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_02_2008.md",
-    "html_url": "http://www.cmpp.ch/video_02_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15845,7 +17544,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_03_2008.md",
-    "html_url": "http://www.cmpp.ch/video_03_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15887,7 +17591,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_04_2008.md",
-    "html_url": "http://www.cmpp.ch/video_04_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15933,7 +17642,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_07_2008.md",
-    "html_url": "http://www.cmpp.ch/video_07_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -15982,7 +17696,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_08_2008.md",
-    "html_url": "http://www.cmpp.ch/video_08_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16031,7 +17750,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_09_2008.md",
-    "html_url": "http://www.cmpp.ch/video_09_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16078,7 +17802,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_10_2008.md",
-    "html_url": "http://www.cmpp.ch/video_10_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16123,7 +17852,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_11_2008.md",
-    "html_url": "http://www.cmpp.ch/video_11_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16169,7 +17903,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2008/video_12_2008.md",
-    "html_url": "http://www.cmpp.ch/video_12_2008.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2008.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2008",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16283,7 +18022,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_01_2009.md",
-    "html_url": "http://www.cmpp.ch/video_01_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16340,7 +18084,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_02_2009.md",
-    "html_url": "http://www.cmpp.ch/video_02_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16383,7 +18132,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_03_2009.md",
-    "html_url": "http://www.cmpp.ch/video_03_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16431,7 +18185,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_04_2009.md",
-    "html_url": "http://www.cmpp.ch/video_04_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16475,7 +18234,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_05_2009.md",
-    "html_url": "http://www.cmpp.ch/video_05_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16525,7 +18289,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_06_2009.md",
-    "html_url": "http://www.cmpp.ch/video_06_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16569,7 +18338,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_07_2009.md",
-    "html_url": "http://www.cmpp.ch/video_07_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16617,7 +18391,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_08_2009.md",
-    "html_url": "http://www.cmpp.ch/video_08_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16666,7 +18445,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_09_2009.md",
-    "html_url": "http://www.cmpp.ch/video_09_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16713,7 +18497,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_10_2009.md",
-    "html_url": "http://www.cmpp.ch/video_10_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16756,7 +18545,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_11_2009.md",
-    "html_url": "http://www.cmpp.ch/video_11_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16801,7 +18595,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2009/video_12_2009.md",
-    "html_url": "http://www.cmpp.ch/video_12_2009.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2009.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2009",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16925,7 +18724,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_01_2010.md",
-    "html_url": "http://www.cmpp.ch/video_01_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -16976,7 +18780,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_02_2010.md",
-    "html_url": "http://www.cmpp.ch/video_02_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17027,7 +18836,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_03_2010.md",
-    "html_url": "http://www.cmpp.ch/video_03_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17085,7 +18899,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_04_2010.md",
-    "html_url": "http://www.cmpp.ch/video_04_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17129,8 +18948,7 @@
       "ministère de William Branham"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2010/video_06_2010.md",
-    "html_url": "http://www.cmpp.ch/video_06_2010.htm"
+    "local_md": "markdown/cmpp/2010/video_06_2010.md"
   },
   {
     "source": "cmpp",
@@ -17179,7 +18997,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_07_2010.md",
-    "html_url": "http://www.cmpp.ch/video_07_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17240,7 +19063,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_08_2010.md",
-    "html_url": "http://www.cmpp.ch/video_08_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17291,7 +19119,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_09_2010.md",
-    "html_url": "http://www.cmpp.ch/video_09_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17343,7 +19176,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_10_2010.md",
-    "html_url": "http://www.cmpp.ch/video_10_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17391,7 +19229,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_11_2010.md",
-    "html_url": "http://www.cmpp.ch/video_11_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17436,7 +19279,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2010/video_12_2010.md",
-    "html_url": "http://www.cmpp.ch/video_12_2010.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2010.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2010",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17561,7 +19409,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_01_2011.md",
-    "html_url": "http://www.cmpp.ch/video_01_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17609,7 +19462,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_02_2011.md",
-    "html_url": "http://www.cmpp.ch/video_02_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17655,7 +19513,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_03_2011.md",
-    "html_url": "http://www.cmpp.ch/video_03_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17706,7 +19569,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_04_2011.md",
-    "html_url": "http://www.cmpp.ch/video_04_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17750,8 +19618,7 @@
       "préparation de l'Epouse"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2011/video_06_2011.md",
-    "html_url": "http://www.cmpp.ch/video_06_2011.htm"
+    "local_md": "markdown/cmpp/2011/video_06_2011.md"
   },
   {
     "source": "cmpp",
@@ -17799,7 +19666,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_07_2011.md",
-    "html_url": "http://www.cmpp.ch/video_07_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17851,7 +19723,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_08_2011.md",
-    "html_url": "http://www.cmpp.ch/video_08_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17896,7 +19773,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_09_2011.md",
-    "html_url": "http://www.cmpp.ch/video_09_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17946,7 +19828,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_10_2011.md",
-    "html_url": "http://www.cmpp.ch/video_10_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -17993,7 +19880,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_11_2011.md",
-    "html_url": "http://www.cmpp.ch/video_11_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18037,7 +19929,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2011/video_12_2011.md",
-    "html_url": "http://www.cmpp.ch/video_12_2011.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2011.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2011",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18165,7 +20062,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_01_2012.md",
-    "html_url": "http://www.cmpp.ch/video_01_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18212,7 +20114,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_02_2012.md",
-    "html_url": "http://www.cmpp.ch/video_02_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18262,7 +20169,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_03_2012.md",
-    "html_url": "http://www.cmpp.ch/video_03_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18307,7 +20219,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_04_2012.md",
-    "html_url": "http://www.cmpp.ch/video_04_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18357,7 +20274,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_05_2012.md",
-    "html_url": "http://www.cmpp.ch/video_05_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18401,7 +20323,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_06_2012.md",
-    "html_url": "http://www.cmpp.ch/video_06_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18449,7 +20376,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_07_2012.md",
-    "html_url": "http://www.cmpp.ch/video_07_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18492,7 +20424,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_08_2012.md",
-    "html_url": "http://www.cmpp.ch/video_08_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18540,7 +20477,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_10_2012.md",
-    "html_url": "http://www.cmpp.ch/video_10_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18581,7 +20523,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_11_2012.md",
-    "html_url": "http://www.cmpp.ch/video_11_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18626,7 +20573,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2012/video_12_2012.md",
-    "html_url": "http://www.cmpp.ch/video_12_2012.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2012.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2012",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18748,7 +20700,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_01_2013.md",
-    "html_url": "http://www.cmpp.ch/video_01_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18797,7 +20754,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_02_2013.md",
-    "html_url": "http://www.cmpp.ch/video_02_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18841,7 +20803,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_03_2013.md",
-    "html_url": "http://www.cmpp.ch/video_03_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18891,7 +20858,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_04_2013.md",
-    "html_url": "http://www.cmpp.ch/video_04_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18942,7 +20914,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_05_2013.md",
-    "html_url": "http://www.cmpp.ch/video_05_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -18987,7 +20964,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_06_2013.md",
-    "html_url": "http://www.cmpp.ch/video_06_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19035,7 +21017,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_07_2013.md",
-    "html_url": "http://www.cmpp.ch/video_07_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19082,7 +21069,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_09_2013.md",
-    "html_url": "http://www.cmpp.ch/video_09_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19131,7 +21123,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_10_2013.md",
-    "html_url": "http://www.cmpp.ch/video_10_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19180,7 +21177,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2013/video_11_2013.md",
-    "html_url": "http://www.cmpp.ch/video_11_2013.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2013.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2013",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19257,7 +21259,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_01_2014.md",
-    "html_url": "http://www.cmpp.ch/video_01_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19302,7 +21309,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_02_2014.md",
-    "html_url": "http://www.cmpp.ch/video_02_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19353,7 +21365,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_03_2014.md",
-    "html_url": "http://www.cmpp.ch/video_03_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19397,7 +21414,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_04_2014.md",
-    "html_url": "http://www.cmpp.ch/video_04_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19440,7 +21462,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_05_2014.md",
-    "html_url": "http://www.cmpp.ch/video_05_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19491,7 +21518,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_06_2014.md",
-    "html_url": "http://www.cmpp.ch/video_06_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19541,7 +21573,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_07_2014.md",
-    "html_url": "http://www.cmpp.ch/video_07_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19593,7 +21630,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_08_2014.md",
-    "html_url": "http://www.cmpp.ch/video_08_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19642,7 +21684,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_09_2014.md",
-    "html_url": "http://www.cmpp.ch/video_09_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19690,8 +21737,7 @@
       "ministère prophétique"
     ],
     "llm_cleaned": true,
-    "local_md": "markdown/cmpp/2014/video_10_2014.md",
-    "html_url": "http://www.cmpp.ch/video_10_2014.htm"
+    "local_md": "markdown/cmpp/2014/video_10_2014.md"
   },
   {
     "source": "cmpp",
@@ -19735,7 +21781,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2014/video_12_2014.md",
-    "html_url": "http://www.cmpp.ch/video_12_2014.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2014.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2014",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19870,7 +21921,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_01_2015.md",
-    "html_url": "http://www.cmpp.ch/video_01_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19919,7 +21975,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_02_2015.md",
-    "html_url": "http://www.cmpp.ch/video_02_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -19968,7 +22029,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_03_2015.md",
-    "html_url": "http://www.cmpp.ch/video_03_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20020,7 +22086,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_04_2015.md",
-    "html_url": "http://www.cmpp.ch/video_04_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20069,7 +22140,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_05_2015.md",
-    "html_url": "http://www.cmpp.ch/video_05_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20130,7 +22206,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_07_2015.md",
-    "html_url": "http://www.cmpp.ch/video_07_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20186,7 +22267,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_08_2015.md",
-    "html_url": "http://www.cmpp.ch/video_08_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20236,7 +22322,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_09_2015.md",
-    "html_url": "http://www.cmpp.ch/video_09_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20281,7 +22372,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_10_2015.md",
-    "html_url": "http://www.cmpp.ch/video_10_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20327,7 +22423,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_11_2015.md",
-    "html_url": "http://www.cmpp.ch/video_11_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20381,7 +22482,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2015/video_12_2015.md",
-    "html_url": "http://www.cmpp.ch/video_12_2015.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2015.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2015",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20518,7 +22624,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_01_2016.md",
-    "html_url": "http://www.cmpp.ch/video_01_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20570,7 +22681,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_02_2016.md",
-    "html_url": "http://www.cmpp.ch/video_02_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20622,7 +22738,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_03_2016.md",
-    "html_url": "http://www.cmpp.ch/video_03_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20666,7 +22787,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_04_2016.md",
-    "html_url": "http://www.cmpp.ch/video_04_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20715,7 +22841,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_05_2016.md",
-    "html_url": "http://www.cmpp.ch/video_05_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20767,7 +22898,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_06_2016.md",
-    "html_url": "http://www.cmpp.ch/video_06_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20816,7 +22952,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_07_2016.md",
-    "html_url": "http://www.cmpp.ch/video_07_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20871,7 +23012,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_08_2016.md",
-    "html_url": "http://www.cmpp.ch/video_08_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20923,7 +23069,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_09_2016.md",
-    "html_url": "http://www.cmpp.ch/video_09_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -20970,7 +23121,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_10_2016.md",
-    "html_url": "http://www.cmpp.ch/video_10_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21013,7 +23169,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_11_2016.md",
-    "html_url": "http://www.cmpp.ch/video_11_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21058,7 +23219,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2016/video_12_2016.md",
-    "html_url": "http://www.cmpp.ch/video_12_2016.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2016.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2016",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21211,7 +23377,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_01_2017.md",
-    "html_url": "http://www.cmpp.ch/video_01_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21275,7 +23446,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_03_2017.md",
-    "html_url": "http://www.cmpp.ch/video_03_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21327,7 +23503,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_04_2017.md",
-    "html_url": "http://www.cmpp.ch/video_04_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21378,7 +23559,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_05_2017.md",
-    "html_url": "http://www.cmpp.ch/video_05_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21425,7 +23611,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_06_2017.md",
-    "html_url": "http://www.cmpp.ch/video_06_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21469,7 +23660,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_07_2017.md",
-    "html_url": "http://www.cmpp.ch/video_07_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21519,7 +23715,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_08_2017.md",
-    "html_url": "http://www.cmpp.ch/video_08_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21573,7 +23774,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_10_2017.md",
-    "html_url": "http://www.cmpp.ch/video_10_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21627,7 +23833,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2017/video_12_2017.md",
-    "html_url": "http://www.cmpp.ch/video_12_2017.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2017.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2017",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21672,7 +23883,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_01_2018.md",
-    "html_url": "http://www.cmpp.ch/video_01_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2018.htm",
+    "title_page": [
+      "SOMMAIRE DES RENCONTRES",
+      "Janvier 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21724,7 +23940,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_02_2018.md",
-    "html_url": "http://www.cmpp.ch/video_02_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21786,7 +24007,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_03_2018.md",
-    "html_url": "http://www.cmpp.ch/video_03_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21839,7 +24065,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_04_2018.md",
-    "html_url": "http://www.cmpp.ch/video_04_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_04_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Avril 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21889,7 +24120,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_05_2018.md",
-    "html_url": "http://www.cmpp.ch/video_05_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_05_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mai 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21938,7 +24174,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_06_2018.md",
-    "html_url": "http://www.cmpp.ch/video_06_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_06_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juin 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -21982,7 +24223,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_07_2018.md",
-    "html_url": "http://www.cmpp.ch/video_07_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_07_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Juillet 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -22028,7 +24274,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_08_2018.md",
-    "html_url": "http://www.cmpp.ch/video_08_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_08_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Août 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -22077,7 +24328,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_09_2018.md",
-    "html_url": "http://www.cmpp.ch/video_09_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_09_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Septembre 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -22124,7 +24380,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_10_2018.md",
-    "html_url": "http://www.cmpp.ch/video_10_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_10_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Octobre 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -22175,7 +24436,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_11_2018.md",
-    "html_url": "http://www.cmpp.ch/video_11_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_11_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Novembre 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -22223,7 +24489,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2018/video_12_2018.md",
-    "html_url": "http://www.cmpp.ch/video_12_2018.htm"
+    "html_url": "http://www.cmpp.ch/video_12_2018.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Décembre 2018",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -22346,7 +24617,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2019/video_01_2019.md",
-    "html_url": "http://www.cmpp.ch/video_01_2019.htm"
+    "html_url": "http://www.cmpp.ch/video_01_2019.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Janvier 2019",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -22397,7 +24673,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2019/video_02_2019.md",
-    "html_url": "http://www.cmpp.ch/video_02_2019.htm"
+    "html_url": "http://www.cmpp.ch/video_02_2019.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Février 2019",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -22450,7 +24731,12 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/2019/video_03_2019.md",
-    "html_url": "http://www.cmpp.ch/video_03_2019.htm"
+    "html_url": "http://www.cmpp.ch/video_03_2019.htm",
+    "title_page": [
+      "SOMMAIRES DES RENCONTRES",
+      "Mars 2019",
+      "(Traduction de la vidéo mensuelle du Centre Missionnaire de Krefeld — Allemagne)"
+    ]
   },
   {
     "source": "cmpp",
@@ -23152,7 +25438,11 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/coronavirus_A4.md",
-    "html_url": "http://www.cmpp.ch/coronavirus.htm"
+    "html_url": "http://www.cmpp.ch/coronavirus.htm",
+    "title_page": [
+      "EPIDEMIE DU CORONAVIRUS",
+      "Avertissement, puis jugement!"
+    ]
   },
   {
     "source": "cmpp",
@@ -23310,7 +25600,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/harry_potter.md",
-    "html_url": "http://www.cmpp.ch/harry_potter.htm"
+    "html_url": "http://www.cmpp.ch/harry_potter.htm",
+    "title_page": [
+      "Un éclairage biblique sur les livres «Harry Potter»"
+    ]
   },
   {
     "source": "cmpp",
@@ -23361,7 +25654,11 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/honore_tes_parents.md",
-    "html_url": "http://www.cmpp.ch/honore_tes_parents.htm"
+    "html_url": "http://www.cmpp.ch/honore_tes_parents.htm",
+    "title_page": [
+      "“HONORE TON PERE ET TA MERE…”",
+      "“ENFANTS, OBEISSEZ A VOS PARENTS…”"
+    ]
   },
   {
     "source": "cmpp",
@@ -23468,7 +25765,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/la_priere.md",
-    "html_url": "http://www.cmpp.ch/la_priere.htm"
+    "html_url": "http://www.cmpp.ch/la_priere.htm",
+    "title_page": [
+      "LA PRIERE"
+    ]
   },
   {
     "source": "cmpp",
@@ -25172,7 +27472,11 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/ministeres_pasteur_A4.md",
-    "html_url": "http://www.cmpp.ch/ministeres_pasteur.htm"
+    "html_url": "http://www.cmpp.ch/ministeres_pasteur.htm",
+    "title_page": [
+      "MINISTERES",
+      "MINISTERE DE PASTEUR (BERGER)"
+    ]
   },
   {
     "source": "cmpp",
@@ -25335,7 +27639,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/nouvelle_naissance.md",
-    "html_url": "http://www.cmpp.ch/nouvelle_naissance.htm"
+    "html_url": "http://www.cmpp.ch/nouvelle_naissance.htm",
+    "title_page": [
+      "LA NOUVELLE NAISSANCE"
+    ]
   },
   {
     "source": "cmpp",
@@ -25426,7 +27733,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/paille_et_froment.md",
-    "html_url": "http://www.cmpp.ch/info_lettres_circulaires.htm"
+    "html_url": "http://www.cmpp.ch/info_lettres_circulaires.htm",
+    "title_page": [
+      "LA PAILLE ET LE FROMENT"
+    ]
   },
   {
     "source": "cmpp",
@@ -25578,7 +27888,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/quel_amour.md",
-    "html_url": "http://www.cmpp.ch/quel_amour.htm"
+    "html_url": "http://www.cmpp.ch/quel_amour.htm",
+    "title_page": [
+      "QUEL AMOUR?"
+    ]
   },
   {
     "source": "cmpp",
@@ -25674,7 +27987,10 @@
     ],
     "llm_cleaned": true,
     "local_md": "markdown/cmpp/undated/reflexions.md",
-    "html_url": "http://www.cmpp.ch/reflexions.htm"
+    "html_url": "http://www.cmpp.ch/reflexions.htm",
+    "title_page": [
+      "REFLEXIONS"
+    ]
   },
   {
     "source": "cmpp",

@@ -103,6 +103,7 @@ original: "branham/1963/63-0116"
 original_title: "The End Time Messenger"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie1no4.htm"
+title_page: ["LE MESSAGER DU TEMPS DE LA FIN","(The End Time Messenger)","16 janvier 1963, soir","Mesa — Arizona, U.S.A."]
 ---
 1 Nous nous attendons, certes, à une grande bénédiction à cette convention de Phoenix. Mon travail, ici consiste à visiter les frères, à fraterniser avec les gens, et nous prions Dieu qu’Il nous envoie Son feu. Alors nous pourrons aller directement à l’Auberge de Ramada, et nous y préparer à une merveilleuse réunion. En attendant, nous visiterons le maximum d’églises que nous pourrons visiter.
 

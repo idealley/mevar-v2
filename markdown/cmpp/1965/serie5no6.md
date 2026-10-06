@@ -80,6 +80,7 @@ original: "branham/1965/65-0725E"
 original_title: "What is the Attraction on the Mountain?"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie5no6.htm"
+title_page: ["QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?","(What is the Attraction on the Mountain?)","25 Juillet 1965, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Inclinons nos têtes:
 

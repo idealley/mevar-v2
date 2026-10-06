@@ -64,6 +64,7 @@ original: "branham/1965/65-0418M"
 original_title: "It is The Rising of The sun"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie1no10.htm"
+title_page: ["LE LEVER DU SOLEIL","(La Puissance qui donne la Vie)","(It is The Rising of The sun)","18 avril 1965, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Inclinons nos têtes.
 

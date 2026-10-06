@@ -142,6 +142,7 @@ bible_refs:
   - "1 Jean 4:10,11"
 local_pdf: "https://files.mevar.org/cmpp/undated/quel_amour.pdf"
 html_url: "http://www.cmpp.ch/quel_amour.htm"
+title_page: ["QUEL AMOUR?"]
 ---
 Nous entendons quotidiennement, dans ce monde parler d’«amour». Que ce soit dans les rues, au travail, dans les familles, dans les chansons, à la télévision, dans les films, les livres, les revues, les journaux, les écoles, les universités; tous parlent d’«amour» et tous ont en eux ce désir d’aimer malgré toutes les différences qui les opposent.
 

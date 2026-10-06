@@ -74,6 +74,7 @@ bible_refs:
 local_pdf: "https://files.mevar.org/cmpp/undated/vraitemoin.pdf"
 original_title: "I am a Witness"
 html_url: "http://www.cmpp.ch/vraitemoin.htm"
+title_page: ["JE SUIS UN VRAI TEMOIN","(I am a Witness)","«Je suis un vrai témoin»: Une documentation du révérend Ewald Frank,","enregistrée en décembre 1997 au «Centre Missionnaire» de Krefeld.","[Traduction française de la cassette vidéo en anglais.]"]
 ---
 Mesdames et messieurs, je vous salue tous dans le précieux Nom de notre Seigneur Jésus-Christ. Je suis frère Frank d’Allemagne, un vrai témoin des choses que Dieu a faites dans notre génération. Je voudrais partager mon témoignage avec vous tous à travers le monde, espérant que chacun comprendra les choses qui sont dites de la manière juste. Je voudrais lire dans Luc chapitre premier, à partir du verset premier:
 

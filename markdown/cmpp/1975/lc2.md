@@ -68,6 +68,7 @@ bible_refs:
   - "Éphésiens 5:26,27"
 local_pdf: "https://files.mevar.org/cmpp/1975/lc2.pdf"
 html_url: "http://www.cmpp.ch/lc2.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N° 2","AVRIL 1975"]
 ---
 Je vous salue bien cordialement dans le précieux Nom de notre Seigneur Jésus-Christ, vous tous qui êtes dispersés dans l’Europe de l’Est ou de l’Ouest, ainsi que dans tous les pays.
 

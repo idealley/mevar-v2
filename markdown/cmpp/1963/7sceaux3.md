@@ -75,6 +75,7 @@ original: "branham/1963/63-0318"
 original_title: "The First Seal"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux3.htm"
+title_page: ["LA REVELATION DES SEPT SCEAUX","LE PREMIER SCEAU","(The First Seal)","18 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Courbons maintenant la tête pour la prière. Notre Père céleste, nous Te remercions ce soir pour cette nouvelle occasion de venir T’adorer. Nous Te remercions d’être vivants et d’avoir cette glorieuse révélation de la Vie Eternelle qui demeure en nous. Nous venons ce soir, Père, pour étudier ensemble Ta Parole, ces grands mystères qui ont été cachés depuis la fondation du monde et que l’Agneau est le seul à pouvoir nous révéler. Je prie qu’Il vienne au milieu de nous ce soir, qu’Il prenne Sa Parole et nous La révèle afin que nous puissions savoir comment devenir pour Lui de meilleurs serviteurs dans ces temps de la fin. O notre Dieu! Comme nous voyons que nous sommes arrivés au temps de la fin, aide-nous à connaître notre position, Seigneur, la fragilité de notre être et la certitude de la prochaine venue du Seigneur. Nous le demandons au Nom de Jésus. Amen.
 

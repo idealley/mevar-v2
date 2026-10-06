@@ -66,6 +66,7 @@ original: "branham/1964/64-0726M"
 original_title: "Recognizing the Day and its Message"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie1no1.htm"
+title_page: ["RECONNAISSEZ LE JOUR ET SON MESSAGE","(Recognizing the Day and its Message)","26 juillet 1964, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Bonjour chers amis! Restons debout un instant.
 

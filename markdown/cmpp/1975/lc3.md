@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 7:6"
 local_pdf: "https://files.mevar.org/cmpp/1975/lc3.pdf"
 html_url: "http://www.cmpp.ch/lc3.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N° 3","AOUT 1975"]
 ---
 Je vous salue tous cordialement, dans le Nom précieux de Jésus, par ces paroles d’Esaïe 33.2:
 

@@ -75,6 +75,7 @@ original: "branham/1965/65-0919"
 original_title: "Thirst"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie6no3.htm"
+title_page: ["SOIF","(Thirst)","19 septembre 1965, soir","Assemblée de Dieu de Grantway","Phoenix — Arizona, U.S.A."]
 ---
 1 Bonsoir mes amis. C’est un privilège d’être ici ce soir. C’est la seconde fois que je viens ici, dans cette Assemblée de Grantway, avec mon cher frère Mack, toute sa précieuse équipe et des chrétiens qui sont venus de différentes églises. Avec frère Lee Vayle, nous venons de rencontrer un frère qui est un proche ami de frère Bosworth, et nous ne savions même pas que frère F.F. Bosworth avait rejoint le Seigneur. J’ai dit: «Je me sentais avec lui comme Elisée qui versait l’eau sur les mains d’Elie» lorsqu’ils étaient à l’étranger. Et je ne savais même pas que frère Bosworth avait rejoint le Seigneur à 84 ans.
 

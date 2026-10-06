@@ -63,6 +63,7 @@ local_pdf: "https://files.mevar.org/cmpp/1965/serie1no8.pdf"
 original_title: "Birth Pains"
 time_of_day: "après-midi"
 html_url: "http://www.cmpp.ch/serie1no8.htm"
+title_page: ["LES DOULEURS DE L’ENFANTEMENT","(Birth Pains)","24 janvier 1965, après-midi","Ramada Inn","Phoenix — Arizona, U.S.A."]
 ---
 Courbons nos têtes.
 

@@ -61,7 +61,10 @@ bible_refs:
   - "Matthieu 24:14"
 local_pdf: "https://files.mevar.org/cmpp/1988/predication_bruxelles_1988.pdf"
 html_url: "http://www.cmpp.ch/predication_bruxelles_1988.htm"
+title_page: ["PREDICATION DE FRERE EWALD FRANK"]
 ---
+## DONNEE A BRUXELLES LE SAMEDI 9 AVRIL 1988
+
 Père céleste, nous venons à Toi dans le précieux Nom de notre Seigneur Jésus-Christ. Nous Te demandons de nous bénir et d’être avec nous. Révèle-Toi Toi-même à nous cet après-midi d’une façon toute particulière. Nous sommes venus ici, Seigneur, pour ne rencontrer personne d’autre que Jésus-Christ de Nazareth. Nous sommes ici pour n’écouter que Ta Parole; non pas les paroles d’un homme mais les Paroles du Dieu Tout-Puissant. Seigneur Dieu, nous Te prions que Ta présence nous pénètre tous. Conduis-nous par Ton Esprit Saint. Et nous T’en donnons toute la gloire et l’honneur dans le Nom de Jésus-Christ. Amen.
 
 Vous pouvez vous asseoir. Je suis reconnaissant d’être ici cet après-midi et nous voulons vous saluer tous les uns et les autres, et vous souhaiter la bienvenue. Amen. Nous avons eu de merveilleuses réunions à Krefeld durant ces fêtes de Pâques, et maintenant, presque une semaine plus tard, nous voici de nouveau ensemble dans le précieux Nom de Jésus-Christ. Je ne parlerai pas beaucoup, mais j’irai directement dans la Parole de Dieu. Cependant j’aimerais tout spécialement souhaiter la bienvenue aux serviteurs de Dieu, et souhaiter également la bienvenue à tous ceux qui sont venus à Krefeld dans le Centre Missionnaire durant la période de Pâques. Notre frère, le pasteur Russ de Krefeld, est au milieu de nous et nous le saluons bien spécialement. Nous travaillons ensemble depuis de nombreuses années déjà; dès le tout début nous n’avons toujours été, lui et moi, qu’un coeur et qu’une âme et Dieu l’a béni tout particulièrement. Où que je voyage autour du monde je n’ai pas de crainte à avoir car Dieu a placé notre frère dans l’église locale et je peux me rendre là où le Seigneur veut que j’aille. Et je remercie Dieu pour un tel serviteur qui ne travaille pas pour lui-même, mais qui travaille pour le Seigneur.

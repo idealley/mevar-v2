@@ -70,6 +70,7 @@ original: "branham/1959/59-1216"
 original_title: "What is The Holy Ghost?"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie2no5.htm"
+title_page: ["QU’EST-CE QUE LE SAINT-ESPRIT?","(What is The Holy Ghost?)","16 décembre 1959, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Cette réunion sera quelque peu différente de celles que nous avons eues jusqu’ici. En général, chaque fois que nous nous sommes réunis ici, c’était pour la guérison des malades, pour une nécessité d’ordre physique. C’est là-dessus que nous mettons l’accent. Mais ce soir, nous allons nous occuper **de la guérison de l’âme** — de l’esprit de l’homme.
 

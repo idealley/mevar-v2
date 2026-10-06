@@ -52,6 +52,7 @@ original: "branham/1959/59-1217"
 original_title: "What The Holy Ghost Was Given For"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie2no6.htm"
+title_page: ["POURQUOI LE SAINT-ESPRIT A ETE DONNE?","(What The Holy Ghost Was Given For)","17 décembre 1959, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Je vois ici le frère Neville; il croit à l’imposition des mains.
 

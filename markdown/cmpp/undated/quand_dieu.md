@@ -91,6 +91,7 @@ bible_refs:
   - "Colossiens 3:17"
 local_pdf: "https://files.mevar.org/cmpp/undated/quand_dieu.pdf"
 html_url: "http://www.cmpp.ch/quand_dieu_devint_un_homme.htm"
+title_page: ["QUAND DIEU DEVINT UN HOMME"]
 ---
 ## INTRODUCTION
 

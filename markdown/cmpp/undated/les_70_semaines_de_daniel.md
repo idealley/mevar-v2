@@ -154,12 +154,11 @@ bible_refs:
   - "Luc 21:36"
 local_pdf: "https://files.mevar.org/cmpp/undated/les_70_semaines_de_daniel.pdf"
 html_url: "http://www.cmpp.ch/les_70_semaines_de_daniel.htm"
+title_page: ["Titre original de l’ouvrage:","Die 70 Jahrwochen Daniels und die aktuellen Ereignisse im Licht biblischer Prophetie (Rundbriefe März 1994 / Dezember 2002)","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 2004 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur:","Centre Missionnaire de la Parole Parlée","Case Postale 5633","1002 Lausanne","Suisse"]
 ---
-# REFLEXIONS SUR  
-LES 70 SEMAINES DE DANIEL
+# REFLEXIONS SUR LES 70 SEMAINES DE DANIEL
 
-## ET LES EVENEMENTS ACTUELS  
-A LA LUMIERE DE LA PROPHETIE BIBLIQUE
+## ET LES EVENEMENTS ACTUELS A LA LUMIERE DE LA PROPHETIE BIBLIQUE
 
 Du plus profond du coeur je vous salue tous au Nom de notre Seigneur Jésus-Christ par cette parole de Daniel 12.9: *“Va, Daniel; car ces paroles sont cachées et scellées jusqu’au temps de la fin”*.
 
@@ -183,8 +182,7 @@ En rapport avec l’année sabbatique, le grand jour de la réconciliation, qui 
 
 Voici la teneur de la prophétie de Jérémie: *“Et il arrivera, quand les soixante-dix semaines seront accomplies, que je visiterai sur le roi de Babylone et sur cette nation-là leur iniquité, dit l’Eternel…”* (Jér. 25.12). *“Car ainsi dit l’Eternel: Lorsque soixante-dix ans seront accomplis pour Babylone, je vous visiterai, et j’accomplirai envers vous ma bonne parole, pour vous faire revenir en ce lieu”* (Jér. 29.10). Le faux prophète Hanania prétendit que ceux qui avaient été emmenés reviendraient avant deux ans (Jér. 28.3,11). Là-dessus Jérémie lui annonça qu’il mourrait cette même année, et c’est ce qui arriva (Jér. 28.15-17).
 
-## LA CHOSE DOIT ETRE PRISE  
-D’UNE MANIERE RIGOUREUSE
+## LA CHOSE DOIT ETRE PRISE D’UNE MANIERE RIGOUREUSE
 
 Beaucoup d’enseignants de la Bible ont de la peine à ordonner correctement les événements dans le temps parce qu’ils n’ont pas remarqué qu’après la mort de Salomon le royaume fut divisé entre Juda et Israël. Il y eut alors, d’une part, la tribu de Juda, avec Benjamin, sous l’autorité de Roboam (932-916 av. J.-C.) et avec pour capitale Jérusalem, et d’autre part, les dix tribus, connues sous le nom de royaume d’Israël, sous l’autorité de Jéroboam (932-911 av. J.-C.) avec pour capitale Samarie. Le roi de Juda le plus notoire fut Josaphat (874-850 av. J.-C.), alors que le plus connu d’Israël fut Achab (875-854 av. J.-C.). Il est important de le noter parce qu’il y eut deux déportations différentes, et que par conséquent il y eut deux captivités. Israël, c’est-à-dire les dix tribus, furent emmenées en Assyrie en 721 av. J.-C. Les deux tribus, Benjamin et Juda furent emmenées en captivité à Babylone passablement plus tard, c’est à dire seulement en 606 avant Christ. C’est de cette captivité, laquelle dura exactement 70 années, qu’il est question ici, c’est à dire de 606 à 536 avant Christ. A cette époque environ 40 000 personnes revinrent à Jérusalem de la captivité de Babylone, **afin de reconstruire le Temple**. C’est de cette manière **que se terminèrent les soixante-dix années de captivité prophétisées par Jérémie**, lesquelles n’ont rien à faire avec les soixante-dix semaines d’années dont parle Daniel 9. Seules les deux tribus qui furent emmenées captives à Babylone, purent en revenir. La doctrine connue sous le nom de «British Israël», prétendant qu’eux sont les 10 tribus disparues, est fausse.
 
@@ -329,8 +327,7 @@ Au cours de toutes les années de mon ministère je n’ai encore jamais traité
 Agissant de la part de Dieu.  
 *E. Frank*
 
-## APPENDICE  
-LE RETABLISSEMENT DU QUATRIEME EMPIRE
+## APPENDICE LE RETABLISSEMENT DU QUATRIEME EMPIRE
 
 Comme l’on chantait sous le Troisième Reich: «… car aujourd’hui l’Allemagne nous appartient, et demain le monde entier», ainsi maintenant dans le «Quatrième Reich», le texte pourrait être le suivant: «… car aujourd’hui l’Europe nous appartient, et demain le monde entier».
 

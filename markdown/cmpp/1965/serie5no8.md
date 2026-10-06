@@ -5,7 +5,7 @@ title: "Christ est révélé dans Sa propre Parole"
 subtitle: "22 août 1965, matin"
 date: "1965-08-22"
 year: 1965
-location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
 preacher: "William Branham"
 summary: "William Branham prêche sur la révélation de Christ dans Sa Parole, expliquant que la Bible est l'absolu de Dieu, non un livre de systèmes ou de morale, mais la révélation de Jésus-Christ. Il souligne l'unité de Christ et de la Parole, la prédestination des croyants en Dieu dès le commencement, et la nécessité d'un absolu dans la vie chrétienne."
 tags:
@@ -75,6 +75,8 @@ local_pdf: "https://files.mevar.org/cmpp/1965/serie5no8.pdf"
 original: "branham/1965/65-0822M"
 original_title: "Christ is revealed in His own Word"
 html_url: "http://www.cmpp.ch/serie5no8.htm"
+title_page: ["CHRIST EST REVELE DANS SA PROPRE PAROLE","(Christ is revealed in His own Word)","22 août1965, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
+time_of_day: "matin"
 ---
 1 Inclinons nos têtes. Seigneur Jésus, Toi le Berger du grand troupeau, nous avons envers Toi une dette que nous ne pourrions jamais Te rembourser pour l’amour que Tu as versé à profusion dans nos coeurs. Nous nous sentons tellement indignes tandis que nous inclinons nos têtes et nous tenons en Ta présence. Nous Te demandons de nous nettoyer de toute faute et de tout péché. Nous Te prions afin qu’aujourd’hui Tu donnes de la force à nos corps. Beaucoup sont malades et affligés, comme le prouvent les mouchoirs ici et les requêtes qui arrivent de partout par le téléphone.
 

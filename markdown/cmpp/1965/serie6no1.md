@@ -54,6 +54,7 @@ original: "branham/1965/65-0429E"
 original_title: "Choosing A Bride"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie6no1.htm"
+title_page: ["LE CHOIX D’UNE EPOUSE","(Choosing A Bride)","29 avril 1965, soir","Biltmore Hotel Auditorium","Los Angeles — Californie, U.S.A."]
 ---
 1 … Il y a un bon nombre de gens malades, et je ne peux pas aller immédiatement vers tous.
 

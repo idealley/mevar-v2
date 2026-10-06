@@ -52,6 +52,7 @@ original: "branham/1963/63-0714M"
 original_title: "Why Cry? Speak!"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie3no4.htm"
+title_page: ["POURQUOI CRIER? PARLE!","(Why Cry? Speak!)","14 juillet 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons un moment debout tandis que nous courbons nos têtes.
 

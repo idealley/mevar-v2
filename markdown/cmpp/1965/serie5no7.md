@@ -50,6 +50,7 @@ original: "branham/1965/65-0815"
 original_title: "And knoweth it not"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie5no7.htm"
+title_page: ["ET VOUS NE LE SAVEZ PAS!","(And knoweth it not)","15 août 1965, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Merci, frère Neville. Que le Seigneur vous bénisse. Je crois bien que j’ai pris une habitude. Je veux vraiment remercier le Seigneur de s’être chargé des garçons de frère Capps. C’est arrivé juste durant la courte période de mon retour en Indiana. Je sais que ceci n’est pas enregistré, du moins je le suppose. Et je ne vois personne ici qui… Je suis revenu pour aller à la chasse à l’écureuil. Et je crois que Charlie et Nelly vont devoir me loger ainsi que ceux du Kentucky là-bas pendant un jour ou deux pour que nous puissions aller à la chasse à l’écureuil. Je pourrais me passer de n’importe quel autre sorte de loisir, mais pas de celui-là; alors je vais venir ici vers le milieu du mois d’août et j’irai chasser l’écureuil avec Charlie, Banks et tous les autres. C’est pour moi un événement traditionnel en quelque sorte. Et j’ai aussi pris Joe…
 

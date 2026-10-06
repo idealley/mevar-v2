@@ -64,6 +64,7 @@ local_pdf: "https://files.mevar.org/cmpp/1961/rev12.pdf"
 original: "branham/1961/61-0101"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev12.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","LES VINGT-QUATRE ANCIENS","(Chapitre quatre / 2èmepartie)","1er janvier 1961, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Je suis si heureux d’être de nouveau ici ce matin. Si nous étions dans le Colorado, cette neige serait toute douce et légère, et il ferait environ quarante degrés sous zéro! Vous pourriez souffler *ainsi* et cela se transformerait immédiatement en une très fine poussière, et ce serait ainsi tout l’hiver. Mais ici, nous sommes dans une zone intermédiaire; en hiver, tout devient mouillé et boueux, et j’aurais plutôt envie de m’en aller en Arizona pour attendre le printemps et revenir à ce moment-là.
 

@@ -37,6 +37,7 @@ themes:
 pdf_url: "http://cmpp.ch/paille_et_froment.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jérémie 23:28"
   - "Malachie 4:5-6"
   - "Matthieu 24:45"
   - "Matthieu 25:10"
@@ -61,7 +62,12 @@ bible_refs:
   - "1 Jean 5:20-21"
 local_pdf: "https://files.mevar.org/cmpp/undated/paille_et_froment.pdf"
 html_url: "http://www.cmpp.ch/info_lettres_circulaires.htm"
+title_page: ["LA PAILLE ET LE FROMENT"]
 ---
+***“ … que celui qui a ma parole énonce ma parole en vérité.***  
+***Qu’est-ce que la paille à côté du froment?”***  
+(Jérémie 23.28).
+
 Nous voulons faire savoir à ceux qui semblent l’ignorer encore, la raison pour laquelle nous publions non seulement les écrits du prophète de cet âge, notre frère en Christ William Branham, mais également les lettres circulaires avec les études et enseignements de notre frère Ewald Frank, ministre et docteur de l’Evangile, ainsi que les éditoriaux de notre frère Alexis Barilier.
 
 Sachez qu’après que le Seigneur ait rappelé à Lui **le prophète qui avait été promis** avant le grand et terrible jour de l’Eternel, dont parle Malachie 4.5-6, **pour faire retourner le coeur des fils vers leurs pères** (ceux de la Nouvelle Alliance), et selon la parole dite par le prophète William Branham lui-même à frère Frank en 1962, que c’est donc directement après le départ du prophète de cet âge, c’est-à-dire dès l’année 1966, que frère Ewald Frank a fait paraître les premières lettres circulaires sous le titre de La Parole de Dieu demeure éternellement. Il faut aussi dire qu’en ce temps-là aucune prédication de frère William Branham n’existait même en anglais sous forme écrite de brochure. Et c’est en 1967 que nous-même, en Suisse, avons commencé la traduction en français de ces lettres circulaires écrites en allemand. En effet, bien que moi-même j’aie participé à la préparation de la campagne de frère William Branham en 1955 à Renens près de Lausanne, et que j’aie assisté à toutes les rencontres où il nous a apporté la Parole de Dieu, j’ignorais la nature et l’importance biblique et prophétique de son ministère. D’ailleurs aucun des prédicateurs présents à cette mission, qu’ils aient été des Etats-Unis ou d’Europe, n’étaient en ce temps-là plus avancés que moi à ce sujet.

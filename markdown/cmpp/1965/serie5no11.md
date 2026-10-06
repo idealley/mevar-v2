@@ -63,6 +63,7 @@ original: "branham/1965/65-1125"
 original_title: "Invisible Union of the Bride of Christ"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie5no11.htm"
+title_page: ["L’UNION INVISIBLE DE L’EPOUSE DE CHRIST","(Invisible Union of the Bride of Christ)","25 novembre 1965, soir","Life Tabernacle","Shreveport — Louisiana, U.S.A."]
 ---
 1 J’ai annulé le voyage de chasse afin que je puisse servir le Seigneur… Nous sommes heureux d’être ici. Je crois que je vous ai dit ici la dernière fois, que chaque fois que nous venons il y a quelqu’un qui manque. Et si nous revenons l’an prochain, et si le Seigneur tarde, il y aura encore quelqu’un qui manquera.
 

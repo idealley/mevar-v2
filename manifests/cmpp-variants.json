@@ -305,7 +305,7 @@
     "folded": [
       {
         "id": "grace_verite_A5",
-        "in_keeper": 0.968,
+        "in_keeper": 0.979,
         "of_keeper": 0.976
       }
     ],
@@ -625,7 +625,7 @@
     "folded": [
       {
         "id": "lc21_A5",
-        "in_keeper": 0.989,
+        "in_keeper": 0.99,
         "of_keeper": 0.998
       }
     ],
@@ -853,9 +853,8 @@
     "folded": [
       {
         "id": "le_bapteme_une_question_importante_A4_traite",
-        "in_keeper": 0.873,
-        "of_keeper": 0.934,
-        "offered_by": "http://www.cmpp.ch/bapteme_une_question_importante.htm"
+        "in_keeper": 0.918,
+        "of_keeper": 0.932
       }
     ],
     "not_folded": []
@@ -878,12 +877,12 @@
     "folded": [
       {
         "id": "ministeres_pasteur_A5",
-        "in_keeper": 0.963,
+        "in_keeper": 0.974,
         "of_keeper": 0.977
       },
       {
         "id": "ministeres_pasteur_A4_gc",
-        "in_keeper": 0.97,
+        "in_keeper": 0.981,
         "of_keeper": 0.989
       }
     ],
@@ -895,13 +894,13 @@
     "folded": [
       {
         "id": "nouvelle_naissance_A4",
-        "in_keeper": 0.98,
+        "in_keeper": 0.981,
         "of_keeper": 0.984
       },
       {
         "id": "nouvelle_naissance_A5",
-        "in_keeper": 0.976,
-        "of_keeper": 0.983
+        "in_keeper": 0.977,
+        "of_keeper": 0.982
       }
     ],
     "not_folded": []
@@ -912,7 +911,7 @@
     "folded": [
       {
         "id": "onction_temps_fin_A5",
-        "in_keeper": 0.986,
+        "in_keeper": 0.997,
         "of_keeper": 1
       }
     ],
@@ -924,13 +923,13 @@
     "folded": [
       {
         "id": "paille_et_froment_A4",
-        "in_keeper": 0.961,
+        "in_keeper": 0.97,
         "of_keeper": 0.982
       },
       {
         "id": "paille_et_froment_A5",
-        "in_keeper": 0.952,
-        "of_keeper": 0.987
+        "in_keeper": 0.959,
+        "of_keeper": 0.986
       }
     ],
     "not_folded": []
@@ -995,8 +994,8 @@
     "folded": [
       {
         "id": "votre_attention_A5",
-        "in_keeper": 0.93,
-        "of_keeper": 0.989
+        "in_keeper": 0.969,
+        "of_keeper": 0.987
       }
     ],
     "not_folded": []

@@ -58,6 +58,7 @@ original: "branham/1962/62-0311"
 original_title: "Greatest Battle Ever Fought"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/grande_bataille.htm"
+title_page: ["LA PLUS GRANDE BATAILLE JAMAIS LIVREE","(Greatest Battle Ever Fought)","11 Mars 1962, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Merci, frère Orman. Que le Seigneur vous bénisse!
 

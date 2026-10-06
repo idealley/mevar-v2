@@ -75,6 +75,7 @@ time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux9.htm"
 original_title: "Questions And Answers On The Seal"
 original: "branham/1963/63-0324M"
+title_page: ["LA REVELATION DES SEPT SCEAUX","QUESTIONS ET REPONSES SUR LES SCEAUX","Questions And Answers On The Seal)","24 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Notre Père céleste, nous sommes vraiment reconnaissants pour ces moments pendant lesquels nous pouvons de nouveau être en communion autour de la Parole de Dieu dans la présence de Dieu. Nous sommes tellement reconnaissants de ce que Tu es au milieu de nous ce matin pour nous aider et nous bénir. Nous Te prions de pardonner nos péchés afin que nos lampes soient pleines d’huile, prêtes et allumées; nous Te prions aussi de nous utiliser afin d’honorer Ton glorieux Nom, car nous le demandons au Nom du Bien-aimé Fils de Dieu, Jésus-Christ. Amen. Vous pouvez vous asseoir.
 
@@ -470,7 +471,7 @@ original: "branham/1963/63-0324M"
 
 183 C’est vrai. Si vous voulez demander quelque chose de plus, veuillez m’écrire une lettre ou quelque chose comme cela, ou me le demander quand je m’occuperai d’autres questions. Je voudrais avancer maintenant afin de voir si nous pouvons prier pour quelques-uns de ces malades qui souffrent.
 
-> 13. **Frère Branham, si cette question n’entre pas dans le cadre de… n’y répondez pas** (voilà qui est gentil. J’apprécie cela)**. Quels sont les enfants qui vont dans l’enlèvement? Les petits enfants iront-ils aussi? Je vous remercie.**
+> 13\. **Frère Branham, si cette question n’entre pas dans le cadre de… n’y répondez pas** (voilà qui est gentil. J’apprécie cela)**. Quels sont les enfants qui vont dans l’enlèvement? Les petits enfants iront-ils aussi? Je vous remercie.**
 
 184 La personne n’a pas signé. Si vous ne le faites pas, ce n’est d’ailleurs pas nécessaire. Mais vous voyez, **quand Dieu a placé un nom dans le Livre de Vie de l’Agneau avant la fondation du monde, il n’y a rien au monde qui puisse l’effacer, parce qu’il est écrit avec l’encre du Sang de Christ.** Qu’il soit aussi grand que ceci, aussi grand que cela ou de quelque manière qu’il puisse être, il s’en ira de toute façon.
 
@@ -882,11 +883,11 @@ Jésus lui dit: “C’est moi”.
 
 349 Satan a été délivré de sa prison et est allé rassembler tous les peuples, les méchants, pour les amener en ce lieu, et Dieu a fait pleuvoir du Ciel du feu et du soufre et ils ont été consumés. Il s’agit de deux batailles totalement distinctes.
 
-> 39. **Concernant les soixante-huit millions massacrés par l’église catholique romaine, à quel moment de l’histoire cela s’est-il passé, et pendant combien de temps cela s’est-il passé?**
+> 39\. **Concernant les soixante-huit millions massacrés par l’église catholique romaine, à quel moment de l’histoire cela s’est-il passé, et pendant combien de temps cela s’est-il passé?**
 
 350 Prenez pour cela le livre Glorious Reformation de Smuckers. Je pense que parmi les érudits, quelques-uns l’ont. C’est une histoire de l’église. J’ai oublié à quelle page exactement cela se trouve, mais on attribue le commencement des persécutions à l’Eglise à Saint Augustin d’Hippone en Afrique. Cela a commencé en 354 de notre ère et a duré jusqu’en 1850 lors du massacre d’Irlande. Cela a donc duré de 354 jusqu’à 1850. Pendant ce temps, selon l’histoire, le martyrologe romain a compté que soixante-huit millions de protestants ont été mis à mort pour avoir été en désaccord avec la papauté romaine. C’est historique. Si vous prétendez que ce n’est pas vrai, eh bien disons aussi, puisqu’aucun de nous n’a vécu du temps de George Washington ou de Lincoln et que nous ne les avons pas vus, peut-être qu’ils n’ont jamais existé! Moi je crois de toute façon qu’ils ont existé. Je vois des signes qu’ils ont existé.
 
-> 40. **Frère Branham, dans 1 Rois 19 il est dit au verset 18: “Mais je laisserai en Israël sept mille hommes, tous ceux qui n’ont point fléchi les genoux devant Baal et dont la bouche ne l’a point baisé”. Veuillez m’expliquer le nombre de “sept cents”.**
+> 40\. **Frère Branham, dans 1 Rois 19 il est dit au verset 18: “Mais je laisserai en Israël sept mille hommes, tous ceux qui n’ont point fléchi les genoux devant Baal et dont la bouche ne l’a point baisé”. Veuillez m’expliquer le nombre de “sept cents”.**
 
 351 Il s’agissait de sept mille, vous voyez. Les autres avaient baisé Baal. Ne savez-vous pas… Combien ici étaient-ils auparavant catholiques? Vous baisez des images. Et rappelez-vous que du temps de Babylone et de Nébucadnetsar, quand le règne des nations a commencé, il a commencé par l’adoration d’un homme.
 
@@ -978,7 +979,7 @@ Il dit: «A Jeffersonville en Indiana, juste sous le pont».
 
 369 Après. Le reste des morts, ceux qui ne sont pas allés avec l’Epouse, ne reviennent pas à la vie avant que les mille ans ne soient accomplis.
 
-> 45. **Vous avez dit à maintes reprises que le communisme a été suscité par Dieu pour servir Son dessein, comme ce fut le cas du roi Nébucadnetsar. Mais où le communisme prend-il sa place dans ce qui arrivera à la fin? Comment cela se termine-t-il? De nombreux érudits croient que le royaume du nord** (le Gog et Magog mentionné dans les Ecritures) **descend contre Israël dans le…** (je n’arrive pas à lire)**. Je crois que… dans certaines bandes vous dites qu’il tomberait finalement… le communisme détruirait finalement le Catholicisme ou le Vatican par une explosion. Est-ce vrai?**
+> 45\. **Vous avez dit à maintes reprises que le communisme a été suscité par Dieu pour servir Son dessein, comme ce fut le cas du roi Nébucadnetsar. Mais où le communisme prend-il sa place dans ce qui arrivera à la fin? Comment cela se termine-t-il? De nombreux érudits croient que le royaume du nord** (le Gog et Magog mentionné dans les Ecritures) **descend contre Israël dans le…** (je n’arrive pas à lire)**. Je crois que… dans certaines bandes vous dites qu’il tomberait finalement… le communisme détruirait finalement le Catholicisme ou le Vatican par une explosion. Est-ce vrai?**
 
 370 Oui. Vous trouverez cela dans Apocalypse 16 et dans Apocalypse 18, versets 8 et 12. Si la personne est ici et désire prendre ce papier où cela est écrit, elle pourra le voir tout de suite. *“Hélas! Hélas! La grande ville Babylone, la ville forte! Car en une seule heure son jugement est venu”.* Les marchands et tous les autres lui apportaient leurs marchandises. Ce sera ainsi. C’est vrai.
 

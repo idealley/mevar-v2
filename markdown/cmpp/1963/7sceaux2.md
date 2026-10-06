@@ -67,6 +67,7 @@ original: "branham/1963/63-0317E"
 original_title: "The Breach Between The Church Ages And The Seven Seals"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux2.htm"
+title_page: ["LA REVELATION DES SEPT SCEAUX","LA BRECHE","ENTRE LES SEPT AGES DE L’EGLISE ET LES SEPT SCEAUX","(The Breach Between The Church Ages And The Seven Seals)","17 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonsoir, mes amis. C’est un grand privilège d’être de retour ici ce soir dans la maison du Seigneur pour le service, vivant encore de la Manne reçue ce matin où nos âmes furent abondamment bénies par Sa glorieuse présence.
 

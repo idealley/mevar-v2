@@ -78,6 +78,7 @@ original: "branham/1963/63-1229M"
 original_title: "There is a Man here that can turn on the Light"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie4no4.htm"
+title_page: ["IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE","(There is a Man here that can turn on the Light)","29 décembre 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Inclinons la tête maintenant. Père céleste, nous Te remercions ce matin pour Ta bonté et Ta miséricorde, car Tu nous accordes le privilège de nous rassembler de nouveau ici (un jour de ce côté-ci de l’éternité) pour adorer Celui qui est adorable, le Seigneur Jésus-Christ. Nous Te remercions de **ce qu’Il est venu sur la terre pour nous racheter d’une vie de péché et pour nous donner le glorieux héritage qui nous est acquis par le moyen de Sa justice**. Alors que ce matin nous sommes Ses ambassadeurs ici pour rompre le pain de vie pour cette assemblée qui est dans l’attente, que le Saint-Esprit inspire chaque mot et le fasse pénétrer dans le coeur des gens selon leurs besoins. Nous Te le demandons au Nom de Jésus. Amen. (Asseyez-vous.)
 

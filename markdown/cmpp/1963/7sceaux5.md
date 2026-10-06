@@ -76,6 +76,7 @@ original: "branham/1963/63-0320"
 original_title: "The Third Seal"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux5.htm"
+title_page: ["LA REVELATION DES SEPT SCEAUX","LE TROISIEME SCEAU","(The Third Seal)","20 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonsoir, chers amis. Levons-nous un moment et inclinons nos têtes pour prier.
 

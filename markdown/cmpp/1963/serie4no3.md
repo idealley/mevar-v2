@@ -46,6 +46,7 @@ original: "branham/1963/63-1226"
 original_title: "Church Ordere"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no3.htm"
+title_page: ["L’ORDRE DANS L’EGLISE","(Church Ordere)","26 décembre 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Chers frères, ce soir nous avons organisé cette réunion ensemble dans le but de savoir comment agir dans l’Eglise du Dieu vivant, car nous croyons faire partie de cette Eglise.
 

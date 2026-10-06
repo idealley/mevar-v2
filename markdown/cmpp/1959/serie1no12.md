@@ -57,6 +57,8 @@ local_pdf: "https://files.mevar.org/cmpp/1959/serie1no12.pdf"
 original: "branham/1959/59-0812"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie1no12.htm"
+title_page: ["DISCERNER LE CORPS DU SEIGNEUR","(discerning the Body of The Lord)","12 août 1959, soir","Middletown — Ohio, U.S.A."]
+original_title: "discerning the Body of The Lord"
 ---
 Bonsoir, chers amis. Veuillez vous asseoir. Je suis heureux d’être ici ce soir, parmi tous ces bons chrétiens. Et nous nous attendons ce soir à ce que Dieu fasse encore beaucoup plus que nous ne saurions penser ou imaginer. Nous savons qu’Il est réel.
 
@@ -366,8 +368,7 @@ Imposez-vous les mains les uns aux autres, et priez la prière de la foi, et qua
 
 ## *(Communion)*
 
-### 12 décembre 1965, soir  
-Tucson — Arizona, U.S.A.
+### 12 décembre 1965, soir Tucson — Arizona, U.S.A.
 
 ---
 

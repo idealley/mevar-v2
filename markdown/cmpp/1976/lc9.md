@@ -49,6 +49,7 @@ bible_refs:
   - "Romains 3:4"
 local_pdf: "https://files.mevar.org/cmpp/1976/lc9.pdf"
 html_url: "http://www.cmpp.ch/lc9.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N° 9","NOVEMBRE 1976"]
 ---
 Je vous salue tous affectueusement dans le précieux Nom de notre Seigneur Jésus-Christ par les paroles de 1 Chroniques 28.20:
 

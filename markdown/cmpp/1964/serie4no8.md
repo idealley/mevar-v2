@@ -59,6 +59,7 @@ original: "branham/1964/64-0719E"
 original_title: "Going beyond the Camp"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no8.htm"
+title_page: ["ALLANT AU-DELA DU CAMP","(Going beyond the Camp)","19 juillet 1964, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons debout juste un moment. Dieu bien-aimé, nous Te sommes reconnaissants pour ce privilège que Tu nous accordes à nouveau de nous tenir dans la maison de Dieu et d’adorer le Dieu vivant. Nous sommes tellement reconnaissants que Tu nous accordes encore ce privilège sur la terre. Et, Seigneur, nous sommes également reconnaissants pour ces gens fidèles dont la plupart sont venus de centaines et de centaines de kilomètres à la ronde. Et certains d’entre eux tenteront ce soir de se frayer leur chemin de retour sur ces grandes routes battues de la tempête. O Dieu, je Te prie d’être avec eux et de les aider. Père, sois leur guide.
 

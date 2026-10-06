@@ -53,6 +53,7 @@ original: "branham/1963/63-0630M"
 original_title: "The Third Exodus"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie3no3.htm"
+title_page: ["LE TROISIEME EXODE","(The Third Exodus)","30 juin 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Inclinons nos têtes pour une parole de prière. Et tandis que nos têtes restent inclinées, si quelqu’un voulait présenter à Dieu une requête spéciale, qu’il lève la main, tenant dans sa main sa prière.
 

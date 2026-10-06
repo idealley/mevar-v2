@@ -57,6 +57,7 @@ original: "branham/1965/65-0711"
 original_title: "Ashamed of Him"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie5no4.htm"
+title_page: ["HONTEUX DE LUI","(Ashamed of Him)","11 Juillet 1965, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Ces gens se tenaient debout là, en agitant les mains et en criant: «Souvenez-vous de ma mère. Souvenez-vous de mon frère qui est mort. Souvenez-vous…». Ils se trouvaient derrière une clôture de barbelés; et quand vous voyez cela, vous vous sentez vraiment mal.
 

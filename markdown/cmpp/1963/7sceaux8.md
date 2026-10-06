@@ -74,6 +74,7 @@ original: "branham/1963/63-0323"
 original_title: "The Sixth Seal"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux8.htm"
+title_page: ["LA REVELATION DES SEPT SCEAUX","LE SIXIEME SCEAU","(The Sixth Seal)","23 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Inclinons nos têtes un moment. Seigneur, nous sommes de nouveau réunis pour ce culte. Et nous pensons aux temps anciens où tous venaient à Silo pour recevoir les bénédictions du Seigneur.
 

@@ -55,6 +55,7 @@ local_pdf: "https://files.mevar.org/cmpp/1961/rev15.pdf"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev15.htm"
 original: "branham/1961/61-0618"
+title_page: ["LA REVELATION DE JESUS-CHRIST","APOCALYPSE, CHAPITRE CINQ","(fin)","18 juin 1961, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Je suis heureux d’être de nouveau au Tabernacle ce matin, et de pouvoir vous apporter de bonnes nouvelles, vous montrant combien le Seigneur Dieu a été bon pour nous.
 

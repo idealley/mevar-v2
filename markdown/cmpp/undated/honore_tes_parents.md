@@ -95,6 +95,7 @@ bible_refs:
   - "Romains 6:16"
 local_pdf: "https://files.mevar.org/cmpp/undated/honore_tes_parents.pdf"
 html_url: "http://www.cmpp.ch/honore_tes_parents.htm"
+title_page: ["“HONORE TON PERE ET TA MERE…”","“ENFANTS, OBEISSEZ A VOS PARENTS…”"]
 ---
 L’obéissance à ses parents est un sujet particulièrement important dans ces temps de la fin. Premièrement il s’agit pour le véritable disciple de Jésus-Christ d’avoir réellement au plus profond de son cœur, le désir d’être dans une position différente que celle que l’on prend dans le monde. Dans la Parole de Dieu, la Bible, il nous est donné l’avertissement, afin de connaître de quelle manière ce monde agit dans ces derniers jours. Le verset suivant est très précis à ce sujet: *“Sache que, dans les derniers jours, il y aura des temps difficiles. Car les hommes seront égoïstes, amis de l’argent, fanfarons, hautains, blasphémateurs, **rebelles à leurs parents**, ingrats, irréligieux, insensibles, déloyaux, calomniateurs,…”* (2 Timothée 3.1-3).
 

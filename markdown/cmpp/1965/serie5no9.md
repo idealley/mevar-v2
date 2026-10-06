@@ -5,7 +5,7 @@ title: "L’EDEN DE SATAN"
 subtitle: "29 août 1965, soir"
 date: "1965-08-29"
 year: 1965
-location: "Jeffersonville, Indiana, U.S.A."
+location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
 preacher: "William Branham"
 summary: "William Branham prêche sur la tromperie de Satan qui, depuis le jardin d'Eden, pervertit la Parole de Dieu. Il compare l'Eden de Dieu (justice, sainteté, vie éternelle) à l'éden de Satan (péché, religion pervertie, connaissance intellectuelle). Il avertit que dans les derniers jours, Satan trompe même les élus par une fausse religion, et que l'Église de Laodicée est riche mais aveugle et nue."
 tags:
@@ -53,6 +53,8 @@ local_pdf: "https://files.mevar.org/cmpp/1965/serie5no9.pdf"
 original: "branham/1965/65-0829"
 original_title: "Satan’s Eden"
 html_url: "http://www.cmpp.ch/serie5no9.htm"
+title_page: ["L’EDEN DE SATAN","(Satan’s Eden)","29 août1965, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
+time_of_day: "soir"
 ---
 1 Inclinons nos têtes. Dieu bien-aimé, nous te sommes reconnaissants ce soir pour cette glorieuse occasion que nous avons de venir à nouveau à la rencontre de notre ennemi, et cela dans le Nom du Seigneur Jésus. **Cet ennemi est aussi Ton ennemi et il se trouve là-dehors sur le champ de bataille; et avec la Parole, nous voulons le chasser du milieu de ton peuple afin que ce soir, Seigneur, Ils puissent voir la Lumière de l’Evangile**. Je Te prie d’oindre nos yeux avec un collyre afin qu’ils puissent s’ouvrir à la Vérité; ainsi lorsque nous partirons d’ici, nous pourrons dire dans nos coeurs: *“Nos coeurs ne brûlaient-ils pas au-dedans de nous tandis qu’Il nous parlait en chemin?”.* Guéris les malades et les affligés. Réconforte ceux qui sont découragés. Relève les mains faibles qui se sont abaissées. Puissions-nous vivre dans l’attente de la venue du Seigneur Jésus que nous savons être toute proche. Nous le demandons dans le Nom de Jésus. Amen.
 

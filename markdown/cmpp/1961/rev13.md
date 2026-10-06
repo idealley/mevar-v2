@@ -102,6 +102,7 @@ local_pdf: "https://files.mevar.org/cmpp/1961/rev13.pdf"
 original: "branham/1961/61-0108"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev13.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","LE TRONE","8 janvier 1961, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonjour, étudiants de la Bible! Comment vous sentez-vous ce matin? Bien, j’espère. Amen! C’était un peu court pour prévenir que nous serions ici ce matin, parce que je n’avais pas encore fixé mon itinéraire et la date de mon départ. Et ceci étant maintenant réglé pour les six prochains mois, j’ai pensé qu’il vaudrait mieux faire cette réunion ce matin, parce que, pour autant que je sache, il va s’écouler un certain temps avant que je revienne. Je ne serai peut-être pas de retour avant cet automne.
 

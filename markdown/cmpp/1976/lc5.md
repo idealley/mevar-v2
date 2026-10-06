@@ -46,6 +46,7 @@ bible_refs:
   - "Hébreux 10:37"
 local_pdf: "https://files.mevar.org/cmpp/1976/lc5.pdf"
 html_url: "http://www.cmpp.ch/lc5.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N° 5","FEVRIER 1976"]
 ---
 C’est de tout coeur que je salue les lecteurs de nos prédications, dans le précieux Nom de Jésus-Christ, par cette parole d’Habakuk 1.5:
 

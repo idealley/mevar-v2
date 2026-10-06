@@ -53,6 +53,7 @@ original: "branham/1963/63-0901E"
 original_title: "Desperation"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie2no2.htm"
+title_page: ["POUSSES A BOUT","(Desperation)","1er septembre 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Restons debout pendant que nous inclinons nos têtes.
 

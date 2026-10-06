@@ -67,6 +67,7 @@ original: "branham/1963/63-0901M"
 original_title: "The Token"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie2no1.htm"
+title_page: ["LE SIGNE","(The Token)","1er septembre 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Bonjour à tous. Je suis heureux d’être encore une fois ici ce matin, pour le service du Seigneur. Je ne savais pas si nous serions de retour, mais le Seigneur a pourvu, et nous sommes revenus pour le culte d’aujourd’hui.
 

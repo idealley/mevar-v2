@@ -284,6 +284,7 @@ bible_refs:
   - "1 Corinthiens 10:1-6"
 local_pdf: "https://files.mevar.org/cmpp/1966/la_parole_de_dieu_demeure_eternellement.pdf"
 html_url: "http://www.cmpp.ch/la_parole_de_dieu_demeure_eternellement.htm"
+title_page: ["Titre original de l’ouvrage:","Das Wort Gottes bleibt in Ewigkeit","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1987 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 ## SEPTEMBRE – OCTOBRE 1966
 
@@ -510,7 +511,7 @@ Combien devrions-nous être reconnaissants pour la nourriture que le Seigneur no
 Oui, le Seigneur peut ouvrir les assemblées qui sont fermées comme des prisons. Quand Il envoie Sa parole, la porte s’ouvre au large et tous ceux qui sont enchaînés dans les cachots peuvent sortir librement. Voici le temps de la complète délivrance du règne de l’homme pour entrer dans la liberté du Saint-Esprit. Par la division entre les différentes communautés, les enfants de Dieu se sont déchirés et excités les uns contre les autres, mais le Seigneur appelle les siens et les unit comme Eglise de l’Epoux, qui doit être transformée à Son image. Comment pouvons-nous être pour toujours ensemble là-haut, si ici-bas nous ne nous entendons pas? L’amour de Dieu réunit le corps de Christ dont nous sommes les membres. (1 Cor. 12.12). L’Eglise est une unité divine formée par l’Esprit. Jamais l’Eglise du Seigneur ne parviendra à l’unité par des discussions. Non, restons-en à cette prière de Jésus-Christ le Fils de Dieu *“… afin qu’ils soient un comme nous sommes un”* (Jean 17.22b). Qui pourrait douter de l’exaucement de cette prière? L’unité de l’Eglise repose sur l’unité de Dieu. Dans Jean 17.17, Jésus dit: “sanctifie-les par la vérité, Ta parole est la vérité”. Puissions-nous par l’esprit de vérité être pénétrés de part en part de la parole de vérité. Dans Ephésiens 4.13, il est dit: *“Jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ”*. Ce n’est que par l’unité de la Parole qu’on arrive à l’unité de la connaissance et l’unité de la foi. Frère Branham n’avait pas d’autre choix que de démontrer les erreurs non bibliques dans les assemblées par la parole de vérité afin qu’aussi dans ces temps, un peuple soit sanctifié, car il est dit: *“Sans la sanctification, personne ne verra le Seigneur”* (Héb. 12.14).
 
 **AVRIL 1967**  
-(*Cinquième suite)*
+*(Cinquième suite)*
 
 Je vous salue cordialement dans le nom du Seigneur Jésus avec cette parole de Jérémie 32.27:
 
@@ -594,7 +595,7 @@ Malheureusement il ne m’est pas possible, dans le cadre de cet article, d’en
 Je voudrais encore relater brièvement l’expérience que j’ai faite à la Porte des Amandiers, à Jérusalem. En entrant, je souhaitai la bénédiction de Dieu au douanier; il me répondit par un vigoureux «Amen!». Là-dessus je lui dis: «Il est écrit dans la Bible que celui qui bénit Israël est aussi béni». J’ajoutai: «Qu’Israël soit béni dans le nom du Seigneur!». Il répondit alors pour la seconde fois par un vigoureux «Amen!». Puis j’allai plus loin et demandai au préposé aux renseignements si je pouvais voir l’endroit où avait eu lieu l’effusion du Saint-Esprit à la Pentecôte. Comme il ne comprenait pas ce que j’entendais, j’eus l’idée de prendre ma Bible pour le lui faire comprendre. Alors que je me penchais pour la sortir de ma poche, il se retourna, prit sa Bible anglaise et la mit sur la table, me priant de lui montrer l’endroit où il devait lire. J’étais si surpris de voir un Israélite lire ouvertement le Nouveau Testament que je me penchai sur la table et lui demandai à voix basse: «Croyez-vous au Messie?». Sur quoi il me répondit à haute voix: «Naturellement que je crois au Messie». Il ajouta: «Nous avons été rassemblés en ces lieux et nous verrons le Messie». Je lui répondis: «Votre Messie est aussi notre Messie. Il viendra premièrement pour nous introduire dans Sa Gloire, puis Il se révèlera à vous aussi».
 
 **JUILLET – AOUT 1967**  
-(*Septième suite)*
+*(Septième suite)*
 
 Je vous salue tous cordialement dans le nom du Seigneur, par cette parole de Jérémie 7.23.
 
@@ -677,7 +678,7 @@ C’est une parole extrêmement sérieuse. Ceux qui prêchent l’Evangile devra
 Que le Seigneur nous fasse faire silence devant Sa sainte face, pour que nous reconnaissions qu’Il rétablit toutes choses et qu’Il conduit Son peuple à nouveau vers son état primitif. Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises.
 
 **SEPTEMBRE – OCTOBRE 1967**  
-(*Huitième suite)*
+*(Huitième suite)*
 
 Je vous salue tous cordialement dans le nom du Seigneur, par ces paroles d’Ezéchiel 12.28:
 
@@ -730,7 +731,7 @@ Frère Branham assure, devant la face de Dieu, avoir dit la vérité absolue au 
 **A lui seul** soit l’honneur!
 
 **NOVEMBRE – DECEMBRE 1967**  
-(*Neuvième suite)*
+*(Neuvième suite)*
 
 Je vous salue tous cordialement dans le nom précieux du Seigneur Jésus-Christ, par ces paroles de 1 Thessaloniciens 5.23,24:
 
@@ -804,7 +805,7 @@ Qui oserait nier que Dieu n’ait eu un prophète avant que ne survienne le dél
 C’est avec une grande joie que nous pouvons rendre témoignage que des milliers, à travers toute l’Europe, comptent parmi les élus, et prennent garde aux choses que le Seigneur a préparées pour Son peuple. Ils se rassasient de la précieuse Parole de Dieu, qui est la pure vérité. Ils croient le Seigneur et obéissent aux révélations qu’Il leur a données de Sa Parole.
 
 **AVRIL – JUIN 1968**  
-(*Onzième suite)*
+*(Onzième suite)*
 
 Je vous salue de tout coeur dans le précieux nom du Seigneur Jésus-Christ, par ces paroles de Deutéronome 29.29:
 

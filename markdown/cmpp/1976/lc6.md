@@ -52,6 +52,7 @@ bible_refs:
   - "Romains 8:26-27"
 local_pdf: "https://files.mevar.org/cmpp/1976/lc6.pdf"
 html_url: "http://www.cmpp.ch/lc6.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N°6","MAI 1976"]
 ---
 C’est de tout coeur que je salue ici, dans le précieux Nom de Jésus-Christ, tous les frères et soeurs, et tous les amis qui sont unis avec nous dans l’amour de Dieu, par la parole du Psaume 89.8:
 

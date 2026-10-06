@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 24:44"
 local_pdf: "https://files.mevar.org/cmpp/undated/quel_bapteme.pdf"
 html_url: "http://www.cmpp.ch/quel_bapteme.htm"
+title_page: ["DE QUEL BAPTEME AVEZ-VOUS DONC ETE BAPTISE? (Actes 19.3)"]
 ---
 Le baptême fait partie de l’Eglise chrétienne depuis que Jean-Baptiste est venu comme précurseur de la première venue du Seigneur Jésus-Christ. Jean baptisait dans le fleuve du Jourdain pour la repentance des péchés (Mat. chap. 3) et son message devait préparer le coeur du peuple à recevoir Jésus-Christ comme Seigneur (Es. 40.3). Jésus Lui-même fut baptisé par Jean (Mat. 3.13-15) et Il est notre exemple.
 

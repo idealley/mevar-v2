@@ -55,6 +55,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev05.pdf"
 original: "branham/1960/60-1207"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev05.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","EGLISE DE PERGAME","7 décembre 1960, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bien! Pour ce qui me concerne, je préférerais qu’on éteigne ce projecteur. Bien.
 

@@ -69,6 +69,7 @@ bible_refs:
   - "Apocalypse 22:20,21"
 local_pdf: "https://files.mevar.org/cmpp/undated/coronavirus_A4.pdf"
 html_url: "http://www.cmpp.ch/coronavirus.htm"
+title_page: ["EPIDEMIE DU CORONAVIRUS","Avertissement, puis jugement!"]
 ---
 Nous vivons actuellement une situation particulière, un temps troublé avec le développement du coronavirus en Asie, en Europe et sur le reste de la surface de la terre. Le monde et son système est ébranlé, malgré le fait que les gouvernements essayent de minimiser l’impact que cela aura. La population se trouve confrontée à une réalité biblique qu’elle ne connaît pas, et lorsqu’elle en prend connaissance refuse de l’accepter, et encore moins de la croire. Le monde est surpris par l’ampleur du nombre, en forte augmentation, des victimes dues aux conséquences du virus et demeure perplexe à ce sujet. Certains hommes tremblent de frayeur face à cet événement, et d’autres parlent d’une «odeur de mort». L’épidémie est bien réelle; pour celui qui le vit au quotidien, c’est une réalité, particulièrement pour les européens de cette génération qui jusqu’à présent avaient été préservés de ces choses. Auparavant était touchée seulement une région, mais à présent cela atteint divers lieux en se déplaçant dans les pays du monde entier.
 

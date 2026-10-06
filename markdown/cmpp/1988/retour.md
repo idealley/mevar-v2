@@ -329,6 +329,7 @@ bible_refs:
   - "1 Corinthiens 2:9"
 local_pdf: "https://files.mevar.org/cmpp/1988/retour.pdf"
 html_url: "http://www.cmpp.ch/retour.htm"
+title_page: ["Titre original de l’ouvrage:","Die Wiederkunft Christi","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1989 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 # LE RETOUR DE CHRIST
 
@@ -355,8 +356,7 @@ L’auteur
 
 # LE RETOUR DE CHRIST
 
-## Ses différentes venues  
-et les événements qui lui sont liés
+## Ses différentes venues et les événements qui lui sont liés
 
 Comme pour tous les thèmes bibliques, nous trouvons dans les Saintes Ecritures beaucoup de déclarations en rapport avec des événements divers, qui doivent être assemblés de la manière juste. En fait il y a plusieurs venues mais un seul **retour**, à l’occasion duquel l’Epoux divin rencontrera Son Epouse terrestre dans les airs (1 Thess. 4.13-18) pour La conduire au Repas des Noces (Apoc. 19.1-10). Il a fait cette promesse: *“Et si je m’en vais et que je vous prépare une place, je reviendrai, et je vous prendrai auprès de moi; afin que là où moi je suis, vous, vous soyez aussi”* (Jean 14.3).
 
@@ -378,9 +378,9 @@ Dans Matthieu 24, lorsque les disciples montrèrent au Seigneur et Maître la be
 
 C’est après cette parole qu’ils Lui posèrent trois questions:  
   
-1° *“Dis-nous quand ces choses auront lieu*?”;  
+1° *“Dis-nous quand ces choses auront lieu?”;*  
 2° *“… et quel sera **le signe de ta venue?**”*;  
-3° *“… et de la consommation du siècle*?”.  
+3° *“… et de la consommation du siècle?”.*  
   
 Celui qui lit ce chapitre avec attention constatera que Jésus donna à ces trois questions la réponse correspondante. A l’égard de Sa venue, Il dit: *“Car comme l’éclair sort de l’orient et apparaît jusqu’à l’occident, ainsi sera **la venue** du fils de l’homme”* (Mat. 24.27).
 

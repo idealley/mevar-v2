@@ -78,6 +78,7 @@ original: "branham/1962/62-1230E"
 original_title: "Sirs, is the Time?"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/messieurs_est_ce_l_heure.htm"
+title_page: ["MESSIEURS, EST-CE L’HEURE?","(Sirs, is the Time?)","30 décembre 1962, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonsoir, chers amis. Je suis si heureux ce soir d’être de nouveau au service du Seigneur notre Dieu. Je vous ai retenus si longtemps ce matin qu’il me semble que je dois vraiment me dépêcher ce soir. Oh, c’est terrible, tous ces gens qui ont dû rester debout! Et ce n’est pas mieux ce soir. Mais le temps n’est plus éloigné où nous aurons de la place pour tout le monde. Ce sera dès que le bâtiment sera terminé.
 

@@ -57,6 +57,7 @@ local_pdf: "https://files.mevar.org/cmpp/1964/serie4no6.pdf"
 original_title: "The Oddball"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no6.htm"
+title_page: ["L’ORIGINAL","(The Oddball)","14 juin 1964, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons debout juste un petit instant. Bien-aimé Seigneur, nous venons de nouveau en Ta divine présence par le moyen de la prière, et nous voulons tout d’abord Te remercier pour tout ce que Tu as fait pour nous, ainsi que pour ce grand amour que Tu as mis dans notre coeur pour Toi et pour Ta Parole. Seigneur, ce soir ces gens que j’aime de tout mon coeur ont fait des sacrifices afin de venir dans cette pièce surchauffée et aux autres désagréments, parce qu’ils aiment Ta Parole.
 

@@ -72,6 +72,7 @@ original: "branham/1965/65-0220"
 original_title: "God’s Chosen place of Worship"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie5no1.htm"
+title_page: ["LE LIEU D’ADORATION CHOISI PAR DIEU","(God’s Chosen place of Worship)","20 février 1965, soir","Parkview Junior High Shool Auditorium","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons debout un instant tandis que nous inclinons nos têtes pour prier. Et maintenant, alors que nos têtes sont inclinées (et nos coeurs aussi je le crois) je me demande combien ici ce soir aimeraient qu’on se souvienne d’eux dans la prière pour quelque chose de spécial. Voulez-vous simplement lever la main et dire: «O Dieu, donne-moi ce soir ce que je recherche». Que le Seigneur vous bénisse.
 

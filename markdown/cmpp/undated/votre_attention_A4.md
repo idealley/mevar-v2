@@ -34,6 +34,8 @@ themes:
 pdf_url: "http://cmpp.ch/votre_attention_A4.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 13:20"
+  - "Nombres 16:3,11"
   - "Matthieu 28:19"
   - "Matthieu 24:41-51"
   - "Éphésiens 4:8-16"
@@ -52,7 +54,12 @@ bible_refs:
   - "Hébreux 4:1,2"
 local_pdf: "https://files.mevar.org/cmpp/undated/votre_attention_A4.pdf"
 html_url: "http://www.cmpp.ch/votre_attention.htm"
+title_page: ["VOTRE ATTENTION S.V.P.!"]
 ---
+*“En vérité, en vérité, je vous dis: Celui qui reçoit quelqu’un que j’envoie, me reçoit; et celui qui me reçoit, reçoit celui qui m’a envoyé”* (Jean 13.20).
+
+*“Et ils s’attroupèrent contre Moïse et contre Aaron, et leur dirent: C’en est assez! car toute l’assemblée, eux tous sont saints, et l’Eternel est au milieu d’eux; et pourquoi vous élevez-vous au-dessus de la congrégation de l’Eternel?… C’est pourquoi, toi et toute ton assemblée, vous vous êtes rassemblés CONTRE L’ETERNEL; et Aaron, qui est-il, que vous murmuriez contre lui?”* (Nom. 16.3 et 11).
+
 C’est par cette mise en garde que je désire attirer votre attention aujourd’hui sur l’importance pour un vrai disciple de Jésus-Christ (Mat. 28.19) de **reconnaître en ce temps de la fin, ou de ne pas reconnaître,** quels sont les serviteurs de la Parole que le Dieu Vivant a véritablement établis et qu’Il a employés, et qu’Il emploie encore maintenant pour ramener le peuple de la Nouvelle Alliance à la foi des pères apostoliques. **Cette reconnaissance, ou non reconnaissance, a des conséquences énormes.**
 
 Les nombreuses promesses de l’Ecriture, concernant le retour du peuple de Dieu de la Nouvelle Alliance dans l’héritage qui lui a été donné par la mort victorieuse de Jésus-Christ, ne s’arrêtent pas à l’envoi d’un prophète animé par le même esprit qu’Elie. Ces promesses concernent également l’envoi d’un serviteur fidèle et prudent selon Matthieu 24.41-51, destiné à donner au temps convenable la nourriture aux domestiques de la maison du Dieu Vivant, et qui a été établi sur eux. De même que le Seigneur avait, dès le début, également fait des dons pour l’édification de Son Epouse, lesquels sont les cinq ministères de la Parole d’Ephésiens 4.8-16, ***“… jusqu’à ce que nous parvenions tous à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature de la plénitude du Christ”.***

@@ -136,6 +136,7 @@ original: "branham/1964/64-0614M"
 original_title: "Unveiling of God"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie1no6.htm"
+title_page: ["DIEU DEVOILE","(Unveiling of God)","14 juin 1964, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Levons-nous quelques instants et inclinons nos têtes pour prier.
 

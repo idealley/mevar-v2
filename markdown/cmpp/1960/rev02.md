@@ -76,6 +76,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev02.pdf"
 original: "branham/1960/60-1204E"
 time_of_day: "dimanche soir"
 html_url: "http://www.cmpp.ch/rev02.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","VISION DE PATMOS","4 décembre 1960, dimanche soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Il me raconta: «Cela était devenu si glorieux que je pensais que l’enlèvement avait eu lieu! Je tournai la tête, et je vis les autres qui se trouvaient là. Non, ce n’était pas encore arrivé, parce que s’ils étaient encore ici-bas, alors je savais que j’étais encore ici-bas!». Ainsi, parfois, l’Esprit du Seigneur nous montre ces choses dans Sa bonté.
 

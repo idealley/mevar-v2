@@ -37,6 +37,7 @@ bible_refs:
   - "Jacques 5:9"
 local_pdf: "https://files.mevar.org/cmpp/1976/lc7.pdf"
 html_url: "http://www.cmpp.ch/lc7.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N° 7","JUILLET 1976"]
 ---
 C’est du fond du coeur que je salue chacun de vous, en Europe et dans le monde entier, au Nom de notre Seigneur Jésus-Christ, par ces paroles d’Actes 1.3:
 

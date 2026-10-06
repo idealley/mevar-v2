@@ -87,6 +87,7 @@ original: "branham/1964/64-0719M"
 original_title: "Feast of the Trumpets"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie4no7.htm"
+title_page: ["LA FETE DES TROMPETTES","(Feast of the Trumpets)","19 juillet 1964, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Inclinons nos têtes.
 

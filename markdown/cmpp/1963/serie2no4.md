@@ -53,6 +53,7 @@ original: "branham/1963/63-0825M"
 original_title: "How Can I Overcome?"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie2no4.htm"
+title_page: ["COMMENT PUIS-JE VAINCRE?","(How Can I Overcome?)","25 août 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Inclinons nos têtes pour la prière.
 

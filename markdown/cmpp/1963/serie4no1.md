@@ -58,6 +58,7 @@ original: "branham/1963/63-1124E"
 original_title: "Three kinds of believers"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no1.htm"
+title_page: ["TROIS SORTES DE CROYANTS","(Three kinds of believers)","24 novembre 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Inclinons nos têtes. Ayant la tête et le coeur inclinés, je me demande combien aimeraient que l’on se souvienne d’eux dans la prière. Voulez-vous simplement lever la main en disant: «Seigneur, souviens-Toi de moi, ô Seigneur!». Il y a beaucoup de demandes ici et un tas de mouchoirs posés sur le pupitre.
 

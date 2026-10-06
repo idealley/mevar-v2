@@ -54,6 +54,7 @@ original: "branham/1964/64-0207"
 original_title: "The Patriarche Abraham"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie6no5.htm"
+title_page: ["LE PATRIARCHE ABRAHAM","(The Patriarche Abraham)","7 février 1964, soir","Kern County Fairgrounds","Bakersfield — California, U.S.A."]
 ---
 1 Prenons à nouveau le livre de la Genèse, chapitre 22 verset 15 et en attendant de commencer le service, nous parlerons juste un petit moment en commençant avec le quinzième verset.
 

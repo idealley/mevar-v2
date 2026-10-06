@@ -78,6 +78,7 @@ original: "branham/1965/65-1204"
 original_title: "The Rapture"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie6no4.htm"
+title_page: ["L’ENLEVEMENT","(The Rapture)","4 décembre 1965, soir","Ramada Inn","Yuma — Arizona, U.S.A."]
 ---
 1 … Yuma. C’est un grand privilège d’avoir eu cette invitation à revenir. La dernière fois, nous avons passé ici de merveilleux moments et lorsque j’ai compris que j’allais revenir, je me suis senti vraiment très bien. Entendre ces témoignages et ces bonnes paroles de la part des gens, cela vous stimule un peu.
 

@@ -106,6 +106,7 @@ bible_refs:
   - "Matthieu 17:19-21"
 local_pdf: "https://files.mevar.org/cmpp/undated/le_jeune.pdf"
 html_url: "http://www.cmpp.ch/le_jeune.htm"
+title_page: ["LE JEUNE"]
 ---
 Premièrement, le jeûne est le fait de cesser volontairement de prendre la nourriture, et parfois la boisson, nécessaire au corps humain, pour le renouvellement des forces dont il a besoin quotidiennement, pour continuer de vivre, d’accomplir les tâches de tous les jours. Il s’agit en fait d’un acte d’humiliation envers son corps de chair et son âme, afin de pouvoir mieux s’occuper de son âme et son esprit, qui forment l’être intérieur dans lequel Dieu veut habiter. C’est du cœur, de l’intérieur, que viennent les paroles et les actions du corps, et c’est cet être intérieur qui a besoin de connaître la volonté de Dieu par Son Esprit afin d’accomplir celle-ci dans la joie et la paix. La durée du jeûne peut-être d’un à quarante jour comme nous en avons l’exemple avec le Seigneur Jésus (Luc 4.2), mais il faut demeurer continuellement sous la conduite de l’Esprit.
 

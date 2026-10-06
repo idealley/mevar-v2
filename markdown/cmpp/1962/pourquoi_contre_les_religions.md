@@ -64,6 +64,7 @@ original: "branham/1962/62-1111E"
 original_title: "Why I am Against Organized Religion"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/pourquoi_contre_les_religions.htm"
+title_page: ["POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES","(Why I am Against Organized Religion)","11 novembre 1962, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Merci, frère Neville. Vous pouvez vous asseoir. Je voudrais dire d’abord que j’ai été tellement occupé aujourd’hui qu’il y a quelques appels de malades auxquels je n’ai pas pu répondre. Il y avait quelques personnes pour lesquelles je devais prier et que je devais voir personnellement. Billy m’a dit que certaines personnes venaient du Canada et de deux ou trois autres endroits. Quand ils viennent ici ils sont toujours obligés de loger dans les hôtels et les motels. Je dois aller vers eux et prier pour eux tandis qu’ils viennent de partout dans le monde, d’Asie, d’Europe, de partout. Jour après jour les gens viennent quand nous sommes ici. Il y en a plus de six cents sur la liste qui attendent une entrevue personnelle, ce qui fait que c’est passablement difficile. J’essaie de voir les personnes qui sont réellement malades et les urgences pour lesquelles il faut prier.
 

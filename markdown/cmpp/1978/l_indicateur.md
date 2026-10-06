@@ -70,7 +70,24 @@ bible_refs:
   - "Zacharie 14:9"
 local_pdf: "https://files.mevar.org/cmpp/1978/l_indicateur.pdf"
 html_url: "http://www.cmpp.ch/l_indicateur.htm"
+title_page: ["L’INDICATEUR"]
 ---
+Titre original de l’ouvrage:  
+*Der Wegweiser*
+
+Auteur:  
+*Missionnaire Ewald Frank, Krefeld (Allemagne)*  
+  
+Copyright © 1978 by  
+*Freie Volksmission e.V., Krefeld (Allemagne)*
+
+Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.
+
+Editeur  
+Centre Missionnaire de la Parole Parlée  
+B.P. 5633  
+1002 Lausanne (Suisse)
+
 ## PREFACE
 
 En tant qu’auteur de cette petite brochure, je désire que sa lecture vous apporte la bénédiction de Dieu.

@@ -140,10 +140,9 @@ bible_refs:
   - "1 Timothée 5:10"
 local_pdf: "https://files.mevar.org/cmpp/undated/brl.pdf"
 html_url: "http://www.cmpp.ch/brl.htm"
+title_page: ["Titre original de l’ouvrage:","Taufe, Abendmahl, Fußwaschung","Auteur:","Missionnaire Ewald Frank,","Krefeld (Allemagne)","Copyright © 1985 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand.","Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne Suisse"]
 ---
-# BAPTEME  
-REPAS DU SEIGNEUR  
-LAVAGE DES PIEDS
+# BAPTEME REPAS DU SEIGNEUR LAVAGE DES PIEDS
 
 *un exposé du point de vue biblique*
 

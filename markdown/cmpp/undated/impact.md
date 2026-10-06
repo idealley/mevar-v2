@@ -189,6 +189,7 @@ bible_refs:
   - "Actes 2:42"
 local_pdf: "https://files.mevar.org/cmpp/undated/impact.pdf"
 html_url: "http://www.cmpp.ch/impact.htm"
+title_page: ["Titre original de l’ouvrage:","Wirkung der Offenbarung","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand.","Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 # L’IMPACT DE LA REVELATION
 

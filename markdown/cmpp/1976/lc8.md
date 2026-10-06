@@ -41,6 +41,7 @@ bible_refs:
   - "Jean 3:3"
 local_pdf: "https://files.mevar.org/cmpp/1976/lc8.pdf"
 html_url: "http://www.cmpp.ch/lc8.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N° 8","SEPTEMBRE 1976"]
 ---
 Chers frères et soeurs dans le Seigneur,  
 C’est dans le précieux Nom de Jésus-Christ que je vous salue de tout coeur. Nous sommes confondus à la vue de tout ce que Dieu fait. Le chemin dans lequel Il S’engage avec les Siens est tellement clair, et aussi tellement significatif, que personne ayant les yeux ouverts ne peut passer à côté sans le voir. Le Ressuscité montre aujourd’hui encore qu’Il est le Vivant parmi les Siens. Il parle et agit, et Il révèle Sa Parole et Sa volonté. Nous pouvons dire sans cesse: *«**Reconnaissez que le Seigneur conduit merveilleusement Ses saints!**»*.

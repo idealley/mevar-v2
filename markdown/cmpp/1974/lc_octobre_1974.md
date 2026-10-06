@@ -44,6 +44,7 @@ bible_refs:
   - "Éphésiens 4:11-13"
 local_pdf: "https://files.mevar.org/cmpp/1974/lc_octobre_1974.pdf"
 html_url: "http://www.cmpp.ch/lc_octobre_1974.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","OCTOBRE 1974"]
 ---
 Je vous salue tous cordialement dans le précieux Nom de notre Seigneur par cette parole de Tite 1.1-3:
 

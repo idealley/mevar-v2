@@ -52,6 +52,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev06.pdf"
 original: "branham/1960/60-1208"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev06.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","EGLISE DE THYATIRE","8 décembre 1960, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Ce soir, avant d’aborder ce glorieux âge de l’église de Thyatire… J’espère que notre Seigneur va déverser Son Esprit sur nous maintenant même et nous bénir encore. Nous ne pouvons toucher que les points culminants, parce que nous ne disposons que d’une semaine pour considérer le glorieux événement de Sa venue. Hier soir, nous avons passé des moments si merveilleux!
 
@@ -647,7 +648,7 @@ Elle a commencé *ici,* et dès le début, elle est inondée du Sang de Jésus-C
 > Cet Evangile du Saint-Esprit est ruisselant de sang,  
 > Du sang des disciples qui sont morts pour la Vérité.  
 > Cet Evangile du Saint-Esprit est toujours ruisselant de sang.  
-> Il y a des âmes sous l’autel qui crient: *“Jusques à quand*?”.  
+> Il y a des âmes sous l’autel qui crient: *“Jusques à quand?”.*  
 > Pour que le Seigneur punisse ceux qui ont mal agi;  
 > Mais il y en aura encore plus qui donneront le sang de leur vie  
 > Pour cet Evangile du Saint-Esprit et son flot écarlate.  

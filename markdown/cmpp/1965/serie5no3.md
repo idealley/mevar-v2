@@ -53,6 +53,7 @@ original: "branham/1965/65-0418E"
 original_title: "Does God ever change His mind about His Word?"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie5no3.htm"
+title_page: ["ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE","AU SUJET DE SA PAROLE?","(Does God ever change His mind about His Word?)","18 avril 1965, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Inclinons nos têtes.
 

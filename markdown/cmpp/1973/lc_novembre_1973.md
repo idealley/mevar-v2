@@ -74,6 +74,7 @@ bible_refs:
   - "Hébreux 6"
 local_pdf: "https://files.mevar.org/cmpp/1973/lc_novembre_1973.pdf"
 html_url: "http://www.cmpp.ch/lc_novembre_1973.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","NOVEMBRE 1973"]
 ---
 Je salue tous les lecteurs de cette brochure, au Nom du Seigneur, par cette parole de Romains 10.16-18:
 

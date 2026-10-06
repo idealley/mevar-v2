@@ -62,6 +62,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev10.pdf"
 original: "branham/1960/60-1211E"
 time_of_day: "dimanche soir"
 html_url: "http://www.cmpp.ch/rev10.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","EGLISES DE LAODICEE","11 décembre 1960, dimanche soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Il n’a jamais terminé cela. Je me disais: «Je suis né un peu en retard, je suis arrivé un peu en retard à mon mariage; si je pouvais seulement être en retard à mon enterrement!». C’est là où j’aimerais bien être en retard, très en retard!
 

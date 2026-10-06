@@ -215,7 +215,12 @@ bible_refs:
   - "Apocalypse 22:17,20,21"
 local_pdf: "https://files.mevar.org/cmpp/undated/questions_reponses_ef.pdf"
 html_url: "http://www.cmpp.ch/questions_reponses_ef.htm"
+title_page: ["Titre original de l’ouvrage:","Menschen fragen, Gott antwortet durch Sein Wort","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 2006 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.","Editeur:","Centre Missionnaire de la Parole Parlée","Case Postale 5633","1002 Lausanne (Suisse)"]
 ---
+# DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE
+
+## QUESTIONS POSEES A FRERE FRANK PAR DES PREDICATEURS DE DIVERS PAYS SUR LESQUELLES ILS DEMANDENT UNE REPONSE.
+
 *“Et il ne faut pas que l’esclave du Seigneur conteste, mais qu’il soit doux envers tous, propre à enseigner, ayant du support; enseignant avec douceur les opposants, attendant si Dieu, peut-être, ne leur donnera pas la repentance pour reconnaître la vérité, et s’ils ne se réveilleront pas du piège du diable, par qui ils ont été pris, pour faire sa volonté”* (2 Tim. 2.24-26).
 
 Dans cet exposé, il s’agit de vie ou de mort. Dans la Parole, nous avons la vie; dans l’interprétation se trouve la mort. Chaque interprétation est un lacet que le diable met autour du cou des gens. Il ne le serre pas toujours tout de suite mais toutefois, il les tient prisonniers pour les soumettre à sa volonté, comme nous le dit clairement la Bible dans ce texte d’introduction.

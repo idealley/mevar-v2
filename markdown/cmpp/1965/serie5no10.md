@@ -74,6 +74,7 @@ original: "branham/1965/65-0911"
 original_title: "God’s Power To Transform"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie5no10.htm"
+title_page: ["LE POUVOIR DE DIEU POUR TRANSFORMER","(God’s Power To Transform)","11 septembre 1965, matin","Full Gospel Business Men’s Breakfast","Phoenix — Indiana, U.S.A."]
 ---
 1 Merci frère Williams. Bonjour chers amis. La famille Shakarian, frère Williams, soeur Williams et beaucoup d’entre vous ici le savent, j’ai vu cela dans une vision, avant qu’elle ne devienne malade il y a deux à trois ans. Et cela est arrivé.
 

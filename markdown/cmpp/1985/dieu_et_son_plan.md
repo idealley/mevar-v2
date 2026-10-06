@@ -304,6 +304,7 @@ bible_refs:
   - "Apocalypse 21:3-7"
 local_pdf: "https://files.mevar.org/cmpp/1985/dieu_et_son_plan.pdf"
 html_url: "http://www.cmpp.ch/dieu_et_son_plan.htm"
+title_page: ["Titre original de l’ouvrage:","Gott und Sein Plan mit der Menschheit","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1985 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 # DIEU ET SON PLAN POUR L’HUMANITE
 

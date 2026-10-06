@@ -67,6 +67,7 @@ original: "branham/1963/63-0707M"
 original_title: "The Indictment"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie1no9.htm"
+title_page: ["L’ACCUSATION","(The Indictment)","“… ils Le crucifièrent là…”.","7 juillet 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Merci, frère Neville. Restons debout encore un moment pour prier. Inclinons nos têtes. S’il y a des requêtes, manifestez-le en levant la main. Présentez-les à Dieu silencieusement en vous-mêmes, en croyant de tout votre coeur, pendant que je prierai pour vous.
 

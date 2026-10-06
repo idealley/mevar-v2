@@ -65,6 +65,7 @@ original: "branham/1963/63-0319"
 original_title: "The Second Seal"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux4.htm"
+title_page: ["LA REVELATION DES SEPT SCEAUX","LE DEUXIEME SCEAU","(The Second Seal)","19 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonsoir, mes amis. Levons-nous un instant pour prier.
 
@@ -484,8 +485,9 @@ Il me dit: «Oui».
 
 Ainsi si vous prenez VICARIVS FILII DEI et que vous tiriez une ligne au-dessous (en chiffres romains le V égale 5, le I égale 1, etc.) et que vous fassiez l’addition, voyez si vous n’obtenez pas six cent soixante-six.
 
-**V** | **I** | **C** | A | R | **I** | **V** | S |  | F | **I** | **L** | **I** | **I** |  | **D** | E | **I** |  |
-5 | \+ 1 | \+ 100 |  |  | \+ 1 | \+ 5 |  |  |  | \+ 1 | \+ 50 | \+ 1 | \+ 1 |  | \+ 500 |  | \+ 1 | = | 666
+| **V** | **I** | **C** | A | R | **I** | **V** | S |  | F | **I** | **L** | **I** | **I** |  | **D** | E | **I** |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | \+ 1 | \+ 100 |  |  | \+ 1 | \+ 5 |  |  |  | \+ 1 | \+ 50 | \+ 1 | \+ 1 |  | \+ 500 |  | \+ 1 | = | 666 |
 
 V 5+
 I 1+

@@ -44,6 +44,7 @@ original: "branham/1963/63-0818"
 original_title: "The Uniting Time and Sign"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie3no8.htm"
+title_page: ["LE TEMPS ET LE SIGNE DE L’UNION","(The Uniting Time and Sign)","18 août 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonsoir! C’est un privilège pour moi d’être ici ce soir et de me tenir à cette place.
 

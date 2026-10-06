@@ -71,6 +71,7 @@ bible_refs:
   - "Hébreux 12:25"
 local_pdf: "https://files.mevar.org/cmpp/undated/william.pdf"
 html_url: "http://www.cmpp.ch/william.htm"
+title_page: ["Titre original de l’ouvrage:","William Branham — ein Prophet von Gott gesandt","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1994 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 # WILLIAM BRANHAM
 

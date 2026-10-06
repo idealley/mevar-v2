@@ -58,6 +58,7 @@ original: "branham/1962/62-1230M"
 original_title: "The Absolute"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie2no3.htm"
+title_page: ["L’ABSOLU","(The Absolute)","30 décembre 1962, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Je suis très heureux de me trouver ici ce matin et d’avoir pu entendre cette exhortation en montant en chaire. Pardonnez-moi d’être en retard, il y avait des malades dehors, dans des voitures, dans des ambulances, et j’ai dû prendre ceux qui ne pouvaient pas entrer avant de pouvoir entrer moi-même.
 

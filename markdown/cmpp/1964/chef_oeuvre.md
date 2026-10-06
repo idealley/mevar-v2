@@ -75,6 +75,7 @@ original: "branham/1964/64-0705"
 original_title: "The Masterpiece"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/chef_oeuvre.htm"
+title_page: ["LE CHEF-D’OEUVRE","(The Masterpiece)","5 juillet 1964, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Inclinons nos têtes pour la prière! Pendant que nos têtes et nos coeurs sont inclinés devant Dieu, j’aimerais savoir combien ici ont une requête qu’ils aimeraient voir présentée à Dieu? Faites-la connaître en levant simplement votre main. Et maintenant, alors que nous prions, gardez votre requête dans votre coeur.
 

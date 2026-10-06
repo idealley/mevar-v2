@@ -79,6 +79,7 @@ bible_refs:
   - "Apocalypse 19:7,8"
 local_pdf: "https://files.mevar.org/cmpp/1975/lc1.pdf"
 html_url: "http://www.cmpp.ch/lc1.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N° 1","JANVIER 1975"]
 ---
 Je vous salue tous dans le précieux Nom du Seigneur Jésus-Christ par cette parole d’Hébreux 1.3:
 

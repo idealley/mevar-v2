@@ -58,6 +58,7 @@ original: "branham/1965/65-0218"
 original_title: "The Seed is not Heir With the Shuck"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no12.htm"
+title_page: ["LA SEMENCE N’HERITERA PAS AVEC LA BALLE","(The Seed is not Heir With the Shuck)","18 février 1965, soir","Parkview Junior High School Auditorium","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons debout pour un moment de prière. Inclinons nos têtes.
 

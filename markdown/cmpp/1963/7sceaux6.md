@@ -76,6 +76,7 @@ original: "branham/1963/63-0321"
 original_title: "The Fourth Seal"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux6.htm"
+title_page: ["LA REVELATION DES SEPT SCEAUX","LE QUATRIEME SCEAU","(The Fourth Seal)","21 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonsoir! Inclinons nos têtes un moment pour la prière.
 

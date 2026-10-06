@@ -77,6 +77,7 @@ original: "branham/1963/63-1229E"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no5.htm"
 original_title: "Look aways to Jesus"
+title_page: ["TOURNER LES REGARDS VERS JESUS","(Look aways to Jesus","29 décembre 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Tout est changé lorsque Jésus vient. Il chasse tout simplement les ténèbres et répand la Lumière. Nous sommes reconnaissants pour cela.
 

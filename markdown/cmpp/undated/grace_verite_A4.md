@@ -33,6 +33,7 @@ themes:
 pdf_url: "http://cmpp.ch/grace_verite_A4.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Jean 1:16,17"
   - "Matthieu 9:37-38"
   - "Jean 4:36-38"
   - "Ésaïe 53:10"
@@ -65,7 +66,11 @@ bible_refs:
   - "Matthieu 11:28-30"
 local_pdf: "https://files.mevar.org/cmpp/undated/grace_verite_A4.pdf"
 html_url: "http://www.cmpp.ch/grace_verite.htm"
+title_page: ["LA GRACE ET LA VERITE"]
 ---
+*“Car , de sa plénitude, nous tous nous avons reçu, et grâce sur grâce. Car la loi a été donnée par Moïse; **la grâce et la vérité** vinrent par Jésus-Christ”*  
+(Jean 1.16,17).
+
 Notre Créateur et Père céleste est vraiment merveilleux et sage en tout ce qu’Il fait avec Ses élus. Nous-mêmes sommes reconnaissants pour le privilège d’être de ceux qui sont encore présents dans un corps de chair sur cette terre, en ce temps du rétablissement de toutes choses, en ce temps où nous pouvons voir se réaliser l’œuvre extraordinaire que l’Eternel, le Dieu de la Bible, accomplit selon Ses promesses de restauration. Nous avons même une part, un rôle à jouer dans l’achèvement de Ses desseins, car c’est le temps du soir, **le temps de la moisson**. Le temps dont notre Seigneur dit, dans Matthieu 9.37-38: *“La moisson est grande, mais il y a peu d’ouvrier: suppliez-donc le Seigneur de la moisson, **en sorte qu’il pousse des ouvriers dans sa moisson**”*. Nous tous, n’oublions pas non plus que c’est un privilège de participer à la moisson pour le Royaume des Cieux. Comme le dit Jésus à Ses disciples: *“L’un sème, et un autre moissonne. Moi, je vous ai envoyé moissonner ce à quoi vous n’avez pas travaillé; **d’autres ont travaillé**, et vous, vous êtes entrés dans leur travail”* (Jean 4.36-38).
 
 Notre Seigneur Jésus est véritablement **le Même aujourd’hui et éternellement** et dans Esaïe 53.10, après que le prophète ait rendu témoignage qu’Il a donné Sa Vie pour le rachat des croyants, cette promesse merveilleuse est faite qu’**Il verrait une postérité et prolongerait Ses jours**. Nous pouvons comprendre que c’est au travers de cette postérité, formée de Ses disciples véritablement nés de Lui et plongés par le Saint-Esprit dans **un seul Corps**, qu’Il va prolonger SES JOURS, mais c’est bien **entre Ses mains bénies que l’œuvre de l’Eternel allait prospérer**. Cette parole de l’Ecriture s’est réalisée tout d’abord à Jérusalem, dans la première Eglise de Jésus-Christ, et en ces temps de restauration du Corps de Christ, en ce temps de la fin, c’est pourquoi nous devons nous attendre exactement aux mêmes manifestations. Car toutes ces choses s’accomplissent conformément à la parole de Zacharie 4.6-7 disant: *“Ni par force, ni par puissance, mais par mon Esprit, dit l’Eternel des armées. Qui es-tu grande montagne, devant Zorobabel? Tu deviendras une plaine; **et il fera sortir la pierre du faîte avec des acclamations: Grâce, grâce sur elle!**”*.

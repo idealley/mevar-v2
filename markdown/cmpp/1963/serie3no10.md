@@ -69,6 +69,7 @@ original: "branham/1963/63-1110M"
 original_title: "Souls That are Imprisoned now"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie3no10.htm"
+title_page: ["LES AMES QUI SONT EN PRISON MAINTENANT","(Souls That are Imprisoned now)","10 novembre 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Inclinons la tête un moment. Père céleste, nous Te sommes reconnaissants aujourd’hui du privilège de pouvoir nous rassembler une fois encore, sachant qu’un jour nous nous réunirons pour la dernière fois en tant que mortels; ensuite nous nous réunirons avec Toi dans un état glorifié et là seront rassemblés tous les rachetés de tous les âges.
 

@@ -50,6 +50,7 @@ bible_refs:
   - "Daniel 2:34,35"
 local_pdf: "https://files.mevar.org/cmpp/1974/lc_mars_1974.pdf"
 html_url: "http://www.cmpp.ch/lc_mars_1974.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","MARS 1974"]
 ---
 > *“Ainsi parle l’Eternel, ton rédempteur, celui qui t’a formé dès ta naissance: Moi, l’Eternel, j’ai fait toutes choses, seul j’ai déployé les cieux, seul j’ai étendu la terre. J’anéantis les signes des prophètes de mensonge, et je proclame insensés les devins; je fais reculer les sages, et je tourne leur science en folie. Je confirme la parole de mon serviteur, et j’accomplis ce que prédisent mes envoyés”* (Esa. 44.24-26).
 

@@ -80,6 +80,7 @@ original: "branham/1964/64-0802"
 original_title: "The future home of the Heavenly bridegroom and the earthly Bride"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie4no10.htm"
+title_page: ["LA DEMEURE FUTURE DE LEPOUX CELESTE ET DE L’EPOUSE TERRESTRE","(The future home of the Heavenly bridegroom and the earthly Bride)","2 août 1964, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons debout un instant tandis que nous inclinons nos coeurs devant Dieu.
 

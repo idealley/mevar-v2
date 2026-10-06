@@ -78,6 +78,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev01.pdf"
 original: "branham/1960/60-1204M"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev01.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","LA REVELATION","4 décembre 1960, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 Merci beaucoup, frère Neville.
 

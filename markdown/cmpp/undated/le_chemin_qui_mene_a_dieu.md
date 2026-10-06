@@ -51,7 +51,10 @@ bible_refs:
   - "Psaumes 103:1-4"
 local_pdf: "https://files.mevar.org/cmpp/undated/le_chemin_qui_mene_a_dieu.pdf"
 html_url: "http://www.cmpp.ch/le_chemin_qui_mene_a_dieu.htm"
+title_page: ["LE CHEMIN QUI MENE A DIEU","Titre original de l’ouvrage:","Der Weg zu Gott","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1985 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée","B.P. 5633","1002 Lausanne (Suisse)"]
 ---
+## LE CHEMIN QUI MENE A DIEU
+
 Aucun thème n’échauffe autant les esprits et ne les divise aussi rapidement que celui qui se rapporte à Dieu. Mais à la fin personne ne Lui échappe, même pas l’athée. Chaque être humain naît dans une certaine idéologie et la plupart des gens s’y tiennent jusqu’à la fin de leur vie sans jamais s’être assurés ou s’être convaincus de son exactitude et de sa véracité. Partout il est de bon ton de continuer à vivre selon les traditions héritées de ses pères. Même ceux qui accomplissent leurs devoirs religieux veulent en somme qu’on les laisse tranquilles à l’égard de Dieu. Ils veulent un Dieu qui corresponde à leur religion et à leur opinion. Ce n’est pas en dernier lieu dans les religions mêmes que doit être recherchée la raison de cette évolution. De la naissance à la mort les gens sont saturés de rites et de cérémonies religieuses sans jamais avoir entendu le vrai Message du salut divin et sans avoir trouvé la paix intérieure.
 
 Même les religions chrétiennes ne constituent en cela aucune exception et elles devraient accepter de se soumettre à un examen profond. Le simple fait de se référer à Christ ne sert à personne, nous tous humains avons besoin d’une relation personnelle avec Lui. Toutes les églises officielles ou libres, jusqu’aux plus petits groupements, utilisent des versets bibliques choisis qui s’adaptent à leur propre notion des choses. Vue dans son ensemble, le Christianisme d’aujourd’hui n’a pour ainsi dire plus rien de commun avec l’Eglise primitive. La même Bible est interprétée cent fois différemment. A la place de la Parole divine et de la saine doctrine, on applique continuellement de nouvelles interprétations, de nouvelles doctrines et de nouveaux dogmes faits par les hommes, lesquels n’ont cependant aucun fondement biblique. On appelle cela la «tradition chrétienne».
@@ -105,9 +108,6 @@ Pour vous l’heure de Dieu a sonné: c’est ici l’occasion pour vous d’acc
 Juste là où vous êtes maintenant vous pouvez parler à Dieu et Lui dire dans votre prière: «Seigneur Jésus-Christ, je crois que Tu es mort pour moi qui suis un pécheur. Je crois que Tu m’as racheté, que Tu m’as accepté. Je T’appartiens, mon Seigneur, pour le temps et pour l’Eternité. O mon Dieu, Tu nous as rencontrés en Jésus-Christ et en Lui je voudrais avoir une rencontre avec Toi».
 
 Croyez, je vous prie, ce que dit le Psaume 103, prenez-le pour vous de façon toute personnelle et remerciez le Seigneur pour Sa grâce: *“Mon âme, bénis l’Eternel! Et que tout ce qui est au-dedans de moi, bénisse Son saint Nom! Mon âme, bénis l’Eternel, et n’oublie aucun de Ses bienfaits. C’est Lui qui pardonne toutes tes iniquités, qui guérit toutes tes infirmités, qui rachète ta vie de la fosse, qui te couronne de bonté et de compassions…”* (Psaume 103.1-4).
-
-  
-"*Tel que je suis…* Transcription audio — paroles
 
 **Strophe 1**  
 1\. Tel que je suis, sans rien à moi,  

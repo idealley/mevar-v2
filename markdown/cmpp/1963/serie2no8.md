@@ -63,6 +63,7 @@ original: "branham/1963/63-0630E"
 original_title: "Is Your Life Worthy of the Gospel?"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie2no8.htm"
+title_page: ["VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE?","(Is Your Life Worthy of the Gospel?)","30 juin 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons debout un moment, inclinons nos têtes, et regardons au Seigneur. Et si vous avez une requête à présenter à Dieu, veuillez lever la main vers Lui, pendant ce temps, et garder présent dans votre coeur ce que vous désirez.
 

@@ -63,6 +63,7 @@ bible_refs:
   - "Matthieu 10:40-42"
 local_pdf: "https://files.mevar.org/cmpp/1975/lc4.pdf"
 html_url: "http://www.cmpp.ch/lc4.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE N° 4","NOVEMBRE 1975"]
 ---
 Je vous salue tous cordialement dans le précieux Nom de Jésus-Christ, par cette parole de Jean 12.35-36:
 

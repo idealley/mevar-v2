@@ -69,7 +69,24 @@ bible_refs:
   - "Psaumes 122:6-9"
 local_pdf: "https://files.mevar.org/cmpp/1991/lettre_ouverte.pdf"
 html_url: "http://www.cmpp.ch/lettre_ouverte.htm"
+title_page: ["LETTRE OUVERTE","Avril 1991","Rédigée par le pasteur Ewald Frank","en langues allemande, anglaise, française et russe"]
 ---
+Adressée
+
+au Président des Etats-Unis d’Amérique  
+Monsieur George Bush
+
+au Président de l’URSS  
+Monsieur Michaël Gorbatchev
+
+au Président de la République Fédérale d’Allemagne et  
+au Chancelier de la République Fédérale d’Allemagne  
+Monsieur Richard von Weizsäcker  
+Monsieur Helmut Kohl
+
+et à tous les Chefs d’Etats du monde par l’intermédiaire  
+de leurs Représentations Diplomatiques respectives.
+
 ### LE PEUPLE ET LE PAYS D’ISRAEL
 
 Comme ce thème a été récemment encore discuté de façon toujours plus intensive, et qu’il faut compter qu’il en résultera un violent dénouement, il est indispensable donc, à une heure aussi décisive de l’histoire mondiale, **qu’une parole incontestable du Tout-Puissant** soit introduite dans l’ordre du jour. Juifs, Chrétiens et Musulmans croient tous au Créateur du ciel et de la terre, à Qui tous les enfants des hommes doivent leur vie terrestre et tous les enfants de Dieu leur Vie éternelle. **Dans Sa Parole, Dieu expose clairement Ses décisions en ce qui concerne le peuple d’Israël**, décisions irrévocables et par là même aussi définitives, que Mahomet (la paix soit avec lui) a aussi respectées.

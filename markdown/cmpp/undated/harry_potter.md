@@ -32,13 +32,24 @@ themes:
 pdf_url: "http://cmpp.ch/harry_potter.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Deutéronome 18:9-14"
+  - "Apocalypse 18:4"
   - "Apocalypse 18"
   - "Jean 14"
   - "Genèse 3:13"
   - "Matthieu 4"
 local_pdf: "https://files.mevar.org/cmpp/undated/harry_potter.pdf"
 html_url: "http://www.cmpp.ch/harry_potter.htm"
+title_page: ["Un éclairage biblique sur les livres «Harry Potter»"]
 ---
+*“Lorsque tu seras entré dans le pays que l’Eternel, ton Dieu, te donne, tu n’apprendras point à imiter les abominations de ces nations-là. Qu’on ne trouve chez toi personne qui fasse passer son fils ou sa fille par le feu, personne qui exerce le métier de devin, d’astrologue, d’augure, de magicien, d’enchanteur, personne qui consulte ceux qui évoquent les esprits ou disent la bonne aventure, personne qui interroge les morts.Car quiconque fait ces choses est en abomination à l’Eternel; et c’est à cause de ces abominations que l’Eternel, ton Dieu, va chasser ces nations devant toi.Tu seras entièrement à l’Eternel, ton Dieu.Car ces nations que tu chasseras écoutent les astrologues et les devins; mais à toi, l’Eternel, ton Dieu, ne le permet pas”.*
+
+Deutéronome 18.9-14
+
+*“Et j’entendis du ciel une autre voix qui disait: Sortez du milieu d’elle, mon peuple, afin que vous ne participiez point à ses péchés, et que vous n’ayez point de part à ses fléaux…”.*
+
+Apocalypse 18.4
+
 ## Qui est Harry Potter?
 
 Harry Potter est un jeune garçon de 11 ans (il vieillit d’un an par tome), orphelin, élevé par des proches qui le maltraitent. Ses parents meurent dans un accident de voiture. Il en réchappe et conservera une marque: une cicatrice sur le front, en forme d’éclair.
@@ -57,8 +68,7 @@ De tels arguments laissent dans l’obscurité (délibérément) toute une parti
 
 Il devient en effet évident, si l’on procède à une lecture critique de ces livres, et plus particulièrement du tome 4, que l’esprit diffusé comme “naturel”, “tout simple”, comme “allant de soi”, est un esprit parfaitement antichrist. Il est ainsi répandu sur un terrain des plus réceptifs, des plus fertiles, celui de l’enfance essentiellement. Un tel succès, stupéfiant par sa fulgurance, n’a pas d’autre explication. **Nous nous trouvons face à la description de l’Empire des Ténèbres, d’un monde sans Dieu**.
 
-## **Quelques aspects essentiels**  
-tirés de l’univers de *Harry Potter* mettent cela en évidence:
+## **Quelques aspects essentiels** tirés de l’univers de *Harry Potter* mettent cela en évidence:
 
 **Un monde païen**
 

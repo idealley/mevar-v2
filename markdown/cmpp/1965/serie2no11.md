@@ -61,6 +61,7 @@ original: "branham/1965/65-1128M"
 original_title: "God’s only chosen Place of Worship"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie2no11.htm"
+title_page: ["LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU","(God’s only chosen Place of Worship)","28 novembre 1965, matin","Life Tabernacle","Shreveport — Louisiane, U.S.A."]
 ---
 1 Bonjour à tous! Je suis heureux d’être ici ce matin. Et nous nous réjouissons de pouvoir chanter dans la communion fraternelle ces vieux cantiques de la foi. J’aime cela! Pas vous? Ce choeur: *“Amen!”* c’est ce que Dieu est: Il est *l’Amen.* C’est Lui qui a le dernier mot.
 

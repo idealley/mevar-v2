@@ -77,6 +77,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev09.pdf"
 original: "branham/1960/60-1211M"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev09.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","LES DIX VIERGES","11 décembre 1960, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Bonjour! Je suis si heureux d’être de nouveau ici, ce matin, pour le service du Seigneur. Dehors, il fait mauvais temps, mais il fait vraiment bon ici dedans. Cette fois, nous pouvons dire qu’il fait bon être dedans et regarder dehors.
 

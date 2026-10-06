@@ -51,6 +51,8 @@ local_pdf: "https://files.mevar.org/cmpp/1963/serie3no7.pdf"
 original: "branham/1963/63-0724"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie3no7.htm"
+title_page: ["AVERTISSEMENT, PUIS JUGEMENT","(Warning, then Judgment)","(Dieu n’appelle pas l’homme en jugement sans l’avoir d’abord averti)","24 juillet 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
+original_title: "Warning, then Judgment"
 ---
 1 “Il aurait pu appeler dix mille anges, alors qu’un seul aurait suffi pour détruire ce monde; mais Il mourut pour vous et moi”. C’est quelque chose d’un peu semblable au sujet de mon message de dimanche matin qui sera, Dieu voulant: “Qu’était Christ?”. [*Christ est la révélation du mystère de Dieu,* Parole Parlée, série 1, n° 11 — N.d.R.] Maintenant nous espérons que ces jeunes filles nous chanteront peut-être ce cantique encore une fois dimanche matin. Frère Wheeler, je voudrais vous dire que vous avez ici deux bien braves petites dames, vêtues décemment, sans maquillage ni rien de semblable. Pour moi elles ont l’apparence de chrétiennes, elles chantent et se comportent comme des chrétiennes. C’est très bien!
 

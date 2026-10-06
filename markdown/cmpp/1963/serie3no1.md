@@ -64,6 +64,7 @@ original: "branham/1963/63-0623M"
 original_title: "Standing in the Gap"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie3no1.htm"
+title_page: ["DEBOUT DANS LA BRECHE","(Standing in the Gap)","23 juin 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Merci, frère Neville. Restons un moment debout et inclinons-nous pour la prière. Inclinons nos têtes; si vous voulez faire une requête, faites-le savoir en levant la main. Gardez dans votre coeur ces choses dont vous avez besoin et demandez à notre Père céleste qu’Il veuille bien vous les accorder.
 

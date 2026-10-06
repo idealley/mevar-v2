@@ -414,6 +414,7 @@ bible_refs:
   - "1 Pierre 1:24,25"
 local_pdf: "https://files.mevar.org/cmpp/undated/commencement.pdf"
 html_url: "http://www.cmpp.ch/commencement.htm"
+title_page: ["Titre original de l’ouvrage:","Am Anfang war das Wort — nicht die Deutung","Anklage – Warnung – Klärung","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 2003 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.","Editeur:","Centre Missionnaire de la Parole Parlée","Case Postale 5633","1002 Lausanne (Suisse)"]
 ---
 # AU COMMENCEMENT ETAIT LA PAROLE PAS L’INTERPRETATION
 

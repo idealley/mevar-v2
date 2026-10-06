@@ -72,6 +72,7 @@ original_title: "The Seventh Seal"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux10.htm"
 original: "branham/1963/63-0324E"
+title_page: ["LA REVELATION DES SEPT SCEAUX","LE SEPTIEME SCEAU","(The Seventh Seal)","24 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Restons debout pendant que nous prions. Dieu Tout-puissant, Auteur de la Vie et donateur de tous ces précieux dons spirituels, nous sommes vraiment reconnaissants pour ces moments extraordinaires où nous pouvons avoir une communion tellement merveilleuse en Ta présence. C’est un point culminant de notre vie, Seigneur, un moment que nous n’oublierons jamais, quel que soit le temps que nous passerons encore ici-bas.
 

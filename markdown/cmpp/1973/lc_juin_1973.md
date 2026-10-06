@@ -58,6 +58,7 @@ bible_refs:
   - "Galates 1:8"
 local_pdf: "https://files.mevar.org/cmpp/1973/lc_juin_1973.pdf"
 html_url: "http://www.cmpp.ch/lc_juin_1973.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","JUIN 1973"]
 ---
 Je salue cordialement tous les lecteurs de cette lettre, au Nom du Seigneur Jésus-Christ, par cette parole de Romains 8.14:
 

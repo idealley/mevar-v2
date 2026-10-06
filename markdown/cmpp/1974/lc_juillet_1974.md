@@ -55,6 +55,7 @@ bible_refs:
   - "Jacques 3:16"
 local_pdf: "https://files.mevar.org/cmpp/1974/lc_juillet_1974.pdf"
 html_url: "http://www.cmpp.ch/lc_juillet_1974.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","JUILLET 1974"]
 ---
 Je vous salue tous cordialement, dans le précieux Nom de Jésus, par ces paroles de Jacques 5.7-11:
 

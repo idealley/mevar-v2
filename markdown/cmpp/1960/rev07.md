@@ -65,6 +65,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev07.pdf"
 original: "branham/1960/60-1209"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev07.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","EGLISE DE SARDES","9 décembre 1960, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Mon frère me disait qu’il y avait ces mouchoirs et que parmi ces mouchoirs, il y en avait un pour quelqu’un qui se mourait du cancer. Aussi, nous allons prier pour eux dans un instant. [Frère Neville dit: «Il y a ici deux requêtes.» — N.d.R.] Deux requêtes? Bien. Je vais les mettre ici et nous prierons également pour elles.
 
@@ -457,7 +458,8 @@ html_url: "http://www.cmpp.ch/rev07.htm"
 182 Maintenant, nous sommes en train d’atteindre un endroit où il n’y aura plus d’autre possibilité que nager ou se noyer. C’est tout! Cela vous noiera et vous emportera définitivement ou, au contraire, vous fera entrer. Ainsi, c’est nager ou se noyer! Alléluia! Oh, je suis si heureux qu’il y ait le Saint-Esprit! Et vous?
 
 > Je suis si heureux de pouvoir dire que je suis l’un d’eux!  
-> Je suis l’un d’eux… (qui, “eux”? Non pas *ceci* ou *cela*!)Je suis si heureux de pouvoir dire que je suis l’un d’eux,  
+> Je suis l’un d’eux… (qui, “eux”? Non pas *ceci* ou *cela!)*  
+> Je suis si heureux de pouvoir dire que je suis l’un d’eux,  
 > L’un d’eux, l’un d’eux,  
 > Je suis si heureux de pouvoir dire que je suis l’un d’eux!
 
@@ -478,7 +480,7 @@ html_url: "http://www.cmpp.ch/rev07.htm"
 184 Allèrent-ils dans des séminaires? Non! Certains ne savaient même pas écrire leur propre nom! C’est vrai! Pierre ne le savait pas. La Bible dit qu’il était un homme ignorant et sans instruction, comme Jean, d’ailleurs. Mais les gens furent bien obligés de prêter attention à eux, car on savait qu’ils avaient été avec Jésus.
 
 > Bien que ces gens n’aient pas appris à paraître,  
-> Ou à se glorifier d’une renommée mondaine (oh, Dieu soit béni, j’ai tellement de *ceci* et de *cela*),  
+> Ou à se glorifier d’une renommée mondaine (oh, Dieu soit béni, j’ai tellement de *ceci* et de *cela),*  
 > Ils ont tous reçu leur Pentecôte,  
 > Baptisés au Nom de Jésus;  
 > Et ils proclament maintenant en tous lieux  

@@ -54,6 +54,7 @@ local_pdf: "https://files.mevar.org/cmpp/1961/rev14.pdf"
 original: "branham/1961/61-0611"
 time_of_day: "dimanche matin"
 html_url: "http://www.cmpp.ch/rev14.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","LE SERPENT ECRASE","Apocalypse, chapitre cinq (1ère partie)","11 juin 1961, dimanche matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Merci beaucoup, frère Neville. Que le Seigneur vous bénisse, mon frère.
 

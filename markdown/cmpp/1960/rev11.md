@@ -62,6 +62,7 @@ local_pdf: "https://files.mevar.org/cmpp/1960/rev11.pdf"
 original: "branham/1960/60-1231"
 time_of_day: "dimanche soir"
 html_url: "http://www.cmpp.ch/rev11.htm"
+title_page: ["LA REVELATION DE JESUS-CHRIST","APOCALYPSE, CHAPITRE QUATRE","31 décembre 1960, dimanche soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 … Et je crois que c’est l’attitude de beaucoup de gens. C’est très gentil de la part de cette jeune soeur, ce dernier verset. J’apprécie beaucoup cela. Et comme nous entrons dans la nuit de Nouvel An, je ne pense pas qu’on puisse chanter quelque chose de mieux, de plus approprié à cette nuit.
 

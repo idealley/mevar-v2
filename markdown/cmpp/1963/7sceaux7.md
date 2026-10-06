@@ -62,6 +62,7 @@ original: "branham/1963/63-0322"
 original_title: "The Fifth Seal"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/7sceaux7.htm"
+title_page: ["LA REVELATION DES SEPT SCEAUX","LE CINQUIEME SCEAU","(The Fifth Seal)","22 mars 1963, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Que Dieu soit remercié pour Son amour. Inclinons maintenant nos têtes pour la prière.
 

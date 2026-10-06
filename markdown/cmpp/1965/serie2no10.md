@@ -70,6 +70,7 @@ original: "branham/1965/65-1126"
 original_title: "Works is Faith Expressed"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie2no10.htm"
+title_page: ["LES OEUVRES SONT L’EXPRESSION DE LA FOI","(Works is Faith Expressed)","26 novembre 1965, soir","Life Tabernacle","Shreveport — Louisiane, U.S.A."]
 ---
 Je vous remercie.
 

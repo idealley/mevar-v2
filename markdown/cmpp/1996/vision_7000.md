@@ -146,6 +146,7 @@ bible_refs:
   - "Jean 6:37"
 local_pdf: "https://files.mevar.org/cmpp/1996/vision_7000.pdf"
 html_url: "http://www.cmpp.ch/vision_7000.htm"
+title_page: ["Titre original de l’ouvrage:","«VISION 7000» – Global-Information","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1996 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 # VISION 7000
 

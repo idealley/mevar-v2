@@ -54,6 +54,7 @@ original: "branham/1963/63-0721"
 original_title: "He Cares. Do you care?"
 time_of_day: "matin"
 html_url: "http://www.cmpp.ch/serie3no6.htm"
+title_page: ["IL PREND SOIN. ET VOUS?","(He Cares. Do you care?)","21 juillet 1963, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 > [Le verbe «to care» qui a été traduit en général par «prendre soin» ou «se soucier» a en réalité une signification bien plus étendue: «se soucier, s’inquiéter, s’occuper, prendre soin, aimer, avoir un penchant pour…» qui est presque toujours présente dans cette prédication — N.d.T.].
 

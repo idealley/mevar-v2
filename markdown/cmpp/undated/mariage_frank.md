@@ -180,11 +180,11 @@ bible_refs:
   - "Galates 1:10-12"
 local_pdf: "https://files.mevar.org/cmpp/undated/mariage_frank.pdf"
 html_url: "http://www.cmpp.ch/mariage_frank.htm"
+title_page: ["Titre original de l’ouvrage:","Die Ehe – Das uralte Problem","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1997 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
 # LE MARIAGE: PROBLEME ANCIEN
 
-## Un exposé du point de vue biblique  
-par Ewald Frank
+## Un exposé du point de vue biblique par Ewald Frank
 
 ## INTRODUCTION
 

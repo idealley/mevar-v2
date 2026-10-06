@@ -162,6 +162,7 @@ bible_refs:
   - "Hébreux 3:15"
 local_pdf: "https://files.mevar.org/cmpp/undated/information_globale.pdf"
 html_url: "http://www.cmpp.ch/information_globale.htm"
+title_page: ["Information globale","Eclaircissement","d’En-haut","du missionnaire","Ewald Frank","Titre original de l’ouvrage:","Global-Information","Aufklärung von oben","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 2005 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.","Editeur:","Centre Missionnaire de la Parole Parlée","Case Postale 5633","1002 Lausanne (Suisse)"]
 ---
 ## INFORMATION GLOBALE
 

@@ -50,6 +50,7 @@ original: "branham/1964/64-0209"
 original_title: "Countdown"
 time_of_day: "après-midi"
 html_url: "http://www.cmpp.ch/serie5no12.htm"
+title_page: ["COMPTE A REBOURS","(Countdown)","9 février 1964, après-midi","Fairgrounds","Bakersfield — Californie, U.S.A."]
 ---
 1 Maintenant, nous avons environ trente à trente-cinq minutes de retard. Je ne parlerai que quelques instants parce que nous allons avoir une ligne de prière et que nous appellerons toutes les personnes qui ont une carte de prière afin de prier pour eux. C’est notre promesse.
 

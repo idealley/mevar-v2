@@ -50,6 +50,7 @@ original: "branham/1960/60-0403"
 original_title: "God’s Eagles"
 time_of_day: "après-midi"
 html_url: "http://www.cmpp.ch/les_aigles_de_dieu.htm"
+title_page: ["LES AIGLES DE DIEU","(God’s Eagles)","4 mars 1960, après-midi","Tulsa — Oklahoma, U.S.A."]
 ---
 Prière:
 

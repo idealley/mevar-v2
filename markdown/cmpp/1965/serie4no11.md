@@ -47,6 +47,7 @@ original: "branham/1965/65-0217"
 original_title: "A man Runnin From the Presence of the Lord"
 time_of_day: "soir"
 html_url: "http://www.cmpp.ch/serie4no11.htm"
+title_page: ["L’HOMME FUYANT LOIN DE LA PRESENCE DU SEIGNEUR","(A man Runnin From the Presence of the Lord)","17 février 1965, soir","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
 1 Inclinons nos têtes. Dieu bien-aimé, nous sommes heureux cet après-midi d’avoir le privilège de nous assembler une fois de plus. Et Toi seul, Seigneur, sais combien nos coeurs languissent après cette heure où nous pourrons de nouveau nous tenir ici devant Ton peuple pour apporter ce message que nous sentons être si vital et urgent en cette heure. Et maintenant, Tu nous as accordé ces quelques jours et nous Te prions, Dieu bien-aimé, afin que Ta main miséricordieuse soit sur nous pour nous guider et nous diriger. Donne-nous ces choses dont nous avons besoin, Seigneur, car nos coeurs languissent de mieux Te connaître.
 
