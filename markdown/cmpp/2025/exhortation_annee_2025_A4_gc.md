@@ -67,6 +67,7 @@ bible_refs:
   - "2 Corinthiens 4:16-18"
 local_pdf: "https://files.mevar.org/cmpp/2025/exhortation_annee_2025_A4_gc.pdf"
 duplicate_of: "cmpp/2025/exhortation_annee_2025_A4"
+status: "draft"
 ---
 ## Exhortation année 2025
 

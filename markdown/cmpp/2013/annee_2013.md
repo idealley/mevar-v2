@@ -44,6 +44,7 @@ bible_refs:
   - "1 Jean 3:11-18"
   - "Psaumes 145:18"
 local_pdf: "https://files.mevar.org/cmpp/2013/annee_2013.pdf"
+status: "draft"
 ---
 > “Que mon coeur soit sincère dans tes statuts, afin que je ne sois pas couvert de honte!”
 > Psaumes 119.80

@@ -41,6 +41,7 @@ bible_refs:
   - "Matthieu 7:21-23"
   - "Matthieu 6:9-10"
 local_pdf: "https://files.mevar.org/cmpp/2010/annee_2010.pdf"
+status: "draft"
 ---
 > "Enseigne-moi à faire ta volonté! Car tu es mon Dieu. Que ton bon esprit me conduise sur la voie droite!" (Ps. 143.10).
 

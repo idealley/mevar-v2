@@ -45,6 +45,7 @@ bible_refs:
   - "Éphésiens 4:11"
 local_pdf: "https://files.mevar.org/cmpp/2013/annee_2013_a5.pdf"
 duplicate_of: "cmpp/2013/annee_2013"
+status: "draft"
 ---
 > “Car, quiconque fait la volonté de Dieu, celui-là est mon frère, ma sœur, et ma mère” (Marc 3.45).
 

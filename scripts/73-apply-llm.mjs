@@ -12,6 +12,8 @@
 //     plus any title/subtitle/date/location/preacher upgrades) into the manifest
 //     entry. Existing manifest fields are kept if LLM returned null.
 //   - Writes manifests/<source>-llm-stats.json with per-doc status.
+//   - Never rewrites a CMPP work that has an `html_url` (goal 31): its body is
+//     its page's, set by 43.
 //   - Never rewrites a file that has `editorial_pass` (goal 10): its body is
 //     the edited text, not the cache's.
 
@@ -140,6 +142,9 @@ for (const cacheFile of fs.readdirSync(cacheDir)) {
     errors.push({ id, reason: "no cleaned_markdown" });
     continue;
   }
+
+  // A CMPP text taken from its page of cmpp.ch (goal 31) is not a clean-up's.
+  if (entry.html_url) continue;
 
   // A text that had goal 10's pass keeps its body, frontmatter and manifest
   // entry: its title is the pass's, not the cache's.

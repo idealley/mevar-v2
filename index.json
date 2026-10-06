@@ -77231,7 +77231,7 @@
     "subtitle": "Washington D.C., juillet 1954",
     "date": "1954-07",
     "year": 1954,
-    "location": "Washington D.C.",
+    "location": "Convention des hommes d’affaires du Plein Evangile, Washington D.C. — Columbia, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77279,8 +77279,8 @@
     "llm_cleaned": true,
     "original": "branham/1954/54-0624",
     "local_md": "markdown/cmpp/1954/la_profondeur.md",
-    "size_bytes": 59286,
-    "line_count": 263
+    "size_bytes": 60083,
+    "line_count": 232
   },
   {
     "source": "cmpp",
@@ -77289,7 +77289,7 @@
     "subtitle": null,
     "date": "1959-08-12",
     "year": 1959,
-    "location": "Middletown, Ohio, U.S.A.",
+    "location": "Middletown — Ohio, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77335,8 +77335,8 @@
     "llm_cleaned": true,
     "original": "branham/1959/59-0812",
     "local_md": "markdown/cmpp/1959/serie1no12.md",
-    "size_bytes": 96336,
-    "line_count": 926
+    "size_bytes": 93971,
+    "line_count": 526
   },
   {
     "source": "cmpp",
@@ -77345,7 +77345,7 @@
     "subtitle": "16 décembre 1959, soir",
     "date": "1959-12-16",
     "year": 1959,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77399,8 +77399,8 @@
     "llm_cleaned": true,
     "original": "branham/1959/59-1216",
     "local_md": "markdown/cmpp/1959/serie2no5.md",
-    "size_bytes": 90645,
-    "line_count": 758
+    "size_bytes": 90671,
+    "line_count": 500
   },
   {
     "source": "cmpp",
@@ -77409,7 +77409,7 @@
     "subtitle": "17 décembre 1959, soir",
     "date": "1959-12-17",
     "year": 1959,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77455,8 +77455,8 @@
     "llm_cleaned": true,
     "original": "branham/1959/59-1217",
     "local_md": "markdown/cmpp/1959/serie2no6.md",
-    "size_bytes": 117908,
-    "line_count": 1222
+    "size_bytes": 117574,
+    "line_count": 550
   },
   {
     "source": "cmpp",
@@ -77465,7 +77465,7 @@
     "subtitle": "4 mars 1960, après-midi — Tulsa, Oklahoma, U.S.A.",
     "date": "1960-04-03",
     "year": 1960,
-    "location": "Tulsa, Oklahoma, U.S.A.",
+    "location": "Tulsa — Oklahoma, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77515,8 +77515,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-0403",
     "local_md": "markdown/cmpp/1960/les_aigles_de_dieu.md",
-    "size_bytes": 89901,
-    "line_count": 805
+    "size_bytes": 88867,
+    "line_count": 420
   },
   {
     "source": "cmpp",
@@ -77525,7 +77525,7 @@
     "subtitle": null,
     "date": "1960-12-04",
     "year": 1960,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77581,8 +77581,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1204M",
     "local_md": "markdown/cmpp/1960/rev01.md",
-    "size_bytes": 149221,
-    "line_count": 1095
+    "size_bytes": 148038,
+    "line_count": 1045
   },
   {
     "source": "cmpp",
@@ -77591,7 +77591,7 @@
     "subtitle": "Vision de Patmos",
     "date": "1960-12-04",
     "year": 1960,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77641,8 +77641,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1204E",
     "local_md": "markdown/cmpp/1960/rev02.md",
-    "size_bytes": 158359,
-    "line_count": 1600
+    "size_bytes": 157445,
+    "line_count": 875
   },
   {
     "source": "cmpp",
@@ -77651,7 +77651,7 @@
     "subtitle": null,
     "date": "1960-12-05",
     "year": 1960,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77708,8 +77708,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1205",
     "local_md": "markdown/cmpp/1960/rev03.md",
-    "size_bytes": 135483,
-    "line_count": 1013
+    "size_bytes": 135408,
+    "line_count": 784
   },
   {
     "source": "cmpp",
@@ -77718,7 +77718,7 @@
     "subtitle": null,
     "date": "1960-12-06",
     "year": 1960,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77779,8 +77779,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1206",
     "local_md": "markdown/cmpp/1960/rev04.md",
-    "size_bytes": 109127,
-    "line_count": 992
+    "size_bytes": 108797,
+    "line_count": 637
   },
   {
     "source": "cmpp",
@@ -77789,7 +77789,7 @@
     "subtitle": null,
     "date": "1960-12-07",
     "year": 1960,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77842,8 +77842,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1207",
     "local_md": "markdown/cmpp/1960/rev05.md",
-    "size_bytes": 143347,
-    "line_count": 955
+    "size_bytes": 142221,
+    "line_count": 787
   },
   {
     "source": "cmpp",
@@ -77852,7 +77852,7 @@
     "subtitle": null,
     "date": "1960-12-08",
     "year": 1960,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77905,8 +77905,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1208",
     "local_md": "markdown/cmpp/1960/rev06.md",
-    "size_bytes": 99208,
-    "line_count": 798
+    "size_bytes": 98831,
+    "line_count": 718
   },
   {
     "source": "cmpp",
@@ -77915,7 +77915,7 @@
     "subtitle": "9 décembre 1960, vendredi soir",
     "date": "1960-12-09",
     "year": 1960,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -77975,8 +77975,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1209",
     "local_md": "markdown/cmpp/1960/rev07.md",
-    "size_bytes": 108093,
-    "line_count": 951
+    "size_bytes": 106798,
+    "line_count": 667
   },
   {
     "source": "cmpp",
@@ -77985,7 +77985,7 @@
     "subtitle": null,
     "date": "1960-12-10",
     "year": 1960,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78048,8 +78048,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1210",
     "local_md": "markdown/cmpp/1960/rev08.md",
-    "size_bytes": 125267,
-    "line_count": 619
+    "size_bytes": 124345,
+    "line_count": 762
   },
   {
     "source": "cmpp",
@@ -78058,7 +78058,7 @@
     "subtitle": "11 décembre 1960, dimanche matin",
     "date": "1960-12-11",
     "year": 1960,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78119,8 +78119,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1211M",
     "local_md": "markdown/cmpp/1960/rev09.md",
-    "size_bytes": 170482,
-    "line_count": 1737
+    "size_bytes": 168624,
+    "line_count": 989
   },
   {
     "source": "cmpp",
@@ -78129,7 +78129,7 @@
     "subtitle": null,
     "date": "1960-12-11",
     "year": 1960,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78185,8 +78185,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1211E",
     "local_md": "markdown/cmpp/1960/rev10.md",
-    "size_bytes": 142582,
-    "line_count": 1307
+    "size_bytes": 140895,
+    "line_count": 811
   },
   {
     "source": "cmpp",
@@ -78195,7 +78195,7 @@
     "subtitle": null,
     "date": "1960-12-31",
     "year": 1960,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78249,8 +78249,8 @@
     "llm_cleaned": true,
     "original": "branham/1960/60-1231",
     "local_md": "markdown/cmpp/1960/rev11.md",
-    "size_bytes": 84702,
-    "line_count": 916
+    "size_bytes": 83657,
+    "line_count": 520
   },
   {
     "source": "cmpp",
@@ -78259,7 +78259,7 @@
     "subtitle": "Chapitre quatre / 2ème partie — 1er janvier 1961, dimanche matin",
     "date": "1961-01-01",
     "year": 1961,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78310,8 +78310,8 @@
     "llm_cleaned": true,
     "original": "branham/1961/61-0101",
     "local_md": "markdown/cmpp/1961/rev12.md",
-    "size_bytes": 145375,
-    "line_count": 1374
+    "size_bytes": 143382,
+    "line_count": 891
   },
   {
     "source": "cmpp",
@@ -78320,7 +78320,7 @@
     "subtitle": "8 janvier 1961, dimanche matin",
     "date": "1961-01-08",
     "year": 1961,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78389,8 +78389,8 @@
     "llm_cleaned": true,
     "original": "branham/1961/61-0108",
     "local_md": "markdown/cmpp/1961/rev13.md",
-    "size_bytes": 173304,
-    "line_count": 1605
+    "size_bytes": 174046,
+    "line_count": 1078
   },
   {
     "source": "cmpp",
@@ -78399,7 +78399,7 @@
     "subtitle": "Apocalypse, chapitre cinq (1ère partie) — 11 juin 1961, dimanche matin",
     "date": "1961-06-11",
     "year": 1961,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78448,8 +78448,8 @@
     "llm_cleaned": true,
     "original": "branham/1961/61-0611",
     "local_md": "markdown/cmpp/1961/rev14.md",
-    "size_bytes": 74151,
-    "line_count": 279
+    "size_bytes": 74410,
+    "line_count": 461
   },
   {
     "source": "cmpp",
@@ -78458,7 +78458,7 @@
     "subtitle": "Apocalypse, chapitre cinq (fin)",
     "date": "1961-06-18",
     "year": 1961,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78509,8 +78509,8 @@
     "llm_cleaned": true,
     "original": "branham/1961/61-0618",
     "local_md": "markdown/cmpp/1961/rev15.md",
-    "size_bytes": 121317,
-    "line_count": 887
+    "size_bytes": 120636,
+    "line_count": 620
   },
   {
     "source": "cmpp",
@@ -78519,7 +78519,7 @@
     "subtitle": "11 mars 1962, matin",
     "date": "1962-03-11",
     "year": 1962,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78571,8 +78571,8 @@
     "llm_cleaned": true,
     "original": "branham/1962/62-0311",
     "local_md": "markdown/cmpp/1962/grande_bataille.md",
-    "size_bytes": 170949,
-    "line_count": 1757
+    "size_bytes": 168345,
+    "line_count": 997
   },
   {
     "source": "cmpp",
@@ -78581,7 +78581,7 @@
     "subtitle": "18 mars 1962, matin et après-midi",
     "date": "1962-03-18",
     "year": 1962,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78628,8 +78628,8 @@
     "llm_cleaned": true,
     "original": "branham/1962/62-0318",
     "local_md": "markdown/cmpp/1962/parole_parlee_semence_originelle.md",
-    "size_bytes": 333622,
-    "line_count": 3599
+    "size_bytes": 327886,
+    "line_count": 1456
   },
   {
     "source": "cmpp",
@@ -78638,7 +78638,7 @@
     "subtitle": "22 avril 1962, matin",
     "date": "1962-04-22",
     "year": 1962,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78691,8 +78691,8 @@
     "llm_cleaned": true,
     "original": "branham/1962/62-0422",
     "local_md": "markdown/cmpp/1962/serie2no7.md",
-    "size_bytes": 198991,
-    "line_count": 2051
+    "size_bytes": 197030,
+    "line_count": 1334
   },
   {
     "source": "cmpp",
@@ -78701,7 +78701,7 @@
     "subtitle": "14 octobre 1962, matin",
     "date": "1962-10-14",
     "year": 1962,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78754,8 +78754,8 @@
     "llm_cleaned": true,
     "original": "branham/1962/62-1014M",
     "local_md": "markdown/cmpp/1962/serie1no5.md",
-    "size_bytes": 185287,
-    "line_count": 1839
+    "size_bytes": 184365,
+    "line_count": 908
   },
   {
     "source": "cmpp",
@@ -78764,7 +78764,7 @@
     "subtitle": "11 novembre 1962, soir",
     "date": "1962-11-11",
     "year": 1962,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78818,8 +78818,8 @@
     "llm_cleaned": true,
     "original": "branham/1962/62-1111E",
     "local_md": "markdown/cmpp/1962/pourquoi_contre_les_religions.md",
-    "size_bytes": 164648,
-    "line_count": 1538
+    "size_bytes": 163386,
+    "line_count": 695
   },
   {
     "source": "cmpp",
@@ -78828,7 +78828,7 @@
     "subtitle": "30 décembre 1962, soir",
     "date": "1962-12-30",
     "year": 1962,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78885,8 +78885,8 @@
     "llm_cleaned": true,
     "original": "branham/1962/62-1230E",
     "local_md": "markdown/cmpp/1962/messieurs_est_ce_l_heure.md",
-    "size_bytes": 160855,
-    "line_count": 1290
+    "size_bytes": 159027,
+    "line_count": 921
   },
   {
     "source": "cmpp",
@@ -78895,7 +78895,7 @@
     "subtitle": "30 décembre 1962, matin",
     "date": "1962-12-30",
     "year": 1962,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -78944,8 +78944,8 @@
     "llm_cleaned": true,
     "original": "branham/1962/62-1230M",
     "local_md": "markdown/cmpp/1962/serie2no3.md",
-    "size_bytes": 141786,
-    "line_count": 1551
+    "size_bytes": 141221,
+    "line_count": 998
   },
   {
     "source": "cmpp",
@@ -78954,7 +78954,7 @@
     "subtitle": "16 janvier 1963, soir",
     "date": "1963-01-16",
     "year": 1963,
-    "location": "Mesa, Arizona, U.S.A.",
+    "location": "Mesa — Arizona, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79014,8 +79014,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0116",
     "local_md": "markdown/cmpp/1963/serie1no4.md",
-    "size_bytes": 117320,
-    "line_count": 730
+    "size_bytes": 117408,
+    "line_count": 561
   },
   {
     "source": "cmpp",
@@ -79069,8 +79069,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0317M",
     "local_md": "markdown/cmpp/1963/7sceaux1.md",
-    "size_bytes": 166401,
-    "line_count": 1492
+    "size_bytes": 164989,
+    "line_count": 885
   },
   {
     "source": "cmpp",
@@ -79079,7 +79079,7 @@
     "subtitle": "La Brèche entre les sept âges de l’Eglise et les sept Sceaux",
     "date": "1963-03-17",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79134,8 +79134,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0317E",
     "local_md": "markdown/cmpp/1963/7sceaux2.md",
-    "size_bytes": 126541,
-    "line_count": 1236
+    "size_bytes": 125555,
+    "line_count": 715
   },
   {
     "source": "cmpp",
@@ -79144,7 +79144,7 @@
     "subtitle": "Premier Sceau",
     "date": "1963-03-18",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79194,8 +79194,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0318",
     "local_md": "markdown/cmpp/1963/7sceaux3.md",
-    "size_bytes": 150460,
-    "line_count": 1576
+    "size_bytes": 149206,
+    "line_count": 734
   },
   {
     "source": "cmpp",
@@ -79204,7 +79204,7 @@
     "subtitle": "Le Deuxième Sceau",
     "date": "1963-03-19",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79257,8 +79257,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0319",
     "local_md": "markdown/cmpp/1963/7sceaux4.md",
-    "size_bytes": 125618,
-    "line_count": 1140
+    "size_bytes": 125205,
+    "line_count": 655
   },
   {
     "source": "cmpp",
@@ -79267,7 +79267,7 @@
     "subtitle": "Le Troisième Sceau",
     "date": "1963-03-20",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79322,8 +79322,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0320",
     "local_md": "markdown/cmpp/1963/7sceaux5.md",
-    "size_bytes": 122259,
-    "line_count": 765
+    "size_bytes": 121973,
+    "line_count": 754
   },
   {
     "source": "cmpp",
@@ -79332,7 +79332,7 @@
     "subtitle": "Quatrième Sceau",
     "date": "1963-03-21",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79381,8 +79381,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0321",
     "local_md": "markdown/cmpp/1963/7sceaux6.md",
-    "size_bytes": 134647,
-    "line_count": 1036
+    "size_bytes": 133894,
+    "line_count": 796
   },
   {
     "source": "cmpp",
@@ -79391,7 +79391,7 @@
     "subtitle": "Cinquième Sceau",
     "date": "1963-03-22",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79436,8 +79436,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0322",
     "local_md": "markdown/cmpp/1963/7sceaux7.md",
-    "size_bytes": 148520,
-    "line_count": 1159
+    "size_bytes": 147267,
+    "line_count": 805
   },
   {
     "source": "cmpp",
@@ -79446,7 +79446,7 @@
     "subtitle": "Le Sixième Sceau",
     "date": "1963-03-23",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79494,8 +79494,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0323",
     "local_md": "markdown/cmpp/1963/7sceaux8.md",
-    "size_bytes": 154440,
-    "line_count": 1619
+    "size_bytes": 152796,
+    "line_count": 931
   },
   {
     "source": "cmpp",
@@ -79504,7 +79504,7 @@
     "subtitle": "Le Septième Sceau",
     "date": "1963-03-24",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79567,8 +79567,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0324E",
     "local_md": "markdown/cmpp/1963/7sceaux10.md",
-    "size_bytes": 140165,
-    "line_count": 1321
+    "size_bytes": 138730,
+    "line_count": 705
   },
   {
     "source": "cmpp",
@@ -79577,7 +79577,7 @@
     "subtitle": "24 mars 1963, matin",
     "date": "1963-03-24",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79623,8 +79623,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0324M",
     "local_md": "markdown/cmpp/1963/7sceaux9.md",
-    "size_bytes": 172503,
-    "line_count": 1516
+    "size_bytes": 169629,
+    "line_count": 1077
   },
   {
     "source": "cmpp",
@@ -79633,7 +79633,7 @@
     "subtitle": null,
     "date": "1963-06-23",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79698,8 +79698,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0623M",
     "local_md": "markdown/cmpp/1963/serie3no1.md",
-    "size_bytes": 102521,
-    "line_count": 545
+    "size_bytes": 101690,
+    "line_count": 516
   },
   {
     "source": "cmpp",
@@ -79708,7 +79708,7 @@
     "subtitle": "23 juin 1963, soir",
     "date": "1963-06-23",
     "year": 1963,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79761,8 +79761,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0623E",
     "local_md": "markdown/cmpp/1963/serie3no2.md",
-    "size_bytes": 115834,
-    "line_count": 682
+    "size_bytes": 127002,
+    "line_count": 553
   },
   {
     "source": "cmpp",
@@ -79771,7 +79771,7 @@
     "subtitle": "30 juin 1963, soir",
     "date": "1963-06-30",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79831,8 +79831,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0630E",
     "local_md": "markdown/cmpp/1963/serie2no8.md",
-    "size_bytes": 171268,
-    "line_count": 1661
+    "size_bytes": 170963,
+    "line_count": 846
   },
   {
     "source": "cmpp",
@@ -79841,7 +79841,7 @@
     "subtitle": "30 juin 1963, matin",
     "date": "1963-06-30",
     "year": 1963,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79894,8 +79894,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0630M",
     "local_md": "markdown/cmpp/1963/serie3no3.md",
-    "size_bytes": 127783,
-    "line_count": 963
+    "size_bytes": 126189,
+    "line_count": 778
   },
   {
     "source": "cmpp",
@@ -79904,7 +79904,7 @@
     "subtitle": "7 juillet 1963, soir",
     "date": "1963-07-07",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -79958,8 +79958,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0707M",
     "local_md": "markdown/cmpp/1963/serie1no9.md",
-    "size_bytes": 166769,
-    "line_count": 1742
+    "size_bytes": 166423,
+    "line_count": 768
   },
   {
     "source": "cmpp",
@@ -79968,7 +79968,7 @@
     "subtitle": "14 juillet 1963, matin",
     "date": "1963-07-14",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80021,8 +80021,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0714M",
     "local_md": "markdown/cmpp/1963/serie3no4.md",
-    "size_bytes": 118442,
-    "line_count": 1141
+    "size_bytes": 129799,
+    "line_count": 795
   },
   {
     "source": "cmpp",
@@ -80031,7 +80031,7 @@
     "subtitle": "17 juillet 1963, soir",
     "date": "1963-07-17",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80078,8 +80078,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0717",
     "local_md": "markdown/cmpp/1963/serie3no5.md",
-    "size_bytes": 78616,
-    "line_count": 301
+    "size_bytes": 78016,
+    "line_count": 437
   },
   {
     "source": "cmpp",
@@ -80137,8 +80137,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0721",
     "local_md": "markdown/cmpp/1963/serie3no6.md",
-    "size_bytes": 137625,
-    "line_count": 1224
+    "size_bytes": 136388,
+    "line_count": 565
   },
   {
     "source": "cmpp",
@@ -80147,7 +80147,7 @@
     "subtitle": "24 juillet 1963, soir",
     "date": "1963-07-24",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80197,8 +80197,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0724",
     "local_md": "markdown/cmpp/1963/serie3no7.md",
-    "size_bytes": 99859,
-    "line_count": 1314
+    "size_bytes": 98185,
+    "line_count": 734
   },
   {
     "source": "cmpp",
@@ -80207,7 +80207,7 @@
     "subtitle": "28 juillet 1963, matin",
     "date": "1963-07-28",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80254,8 +80254,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0728",
     "local_md": "markdown/cmpp/1963/serie1no11.md",
-    "size_bytes": 245813,
-    "line_count": 2156
+    "size_bytes": 242150,
+    "line_count": 1206
   },
   {
     "source": "cmpp",
@@ -80264,7 +80264,7 @@
     "subtitle": "18 août 1963, soir",
     "date": "1963-08-18",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80308,8 +80308,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0818",
     "local_md": "markdown/cmpp/1963/serie3no8.md",
-    "size_bytes": 83804,
-    "line_count": 676
+    "size_bytes": 83107,
+    "line_count": 410
   },
   {
     "source": "cmpp",
@@ -80371,8 +80371,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0825M",
     "local_md": "markdown/cmpp/1963/serie2no4.md",
-    "size_bytes": 108169,
-    "line_count": 1351
+    "size_bytes": 108620,
+    "line_count": 557
   },
   {
     "source": "cmpp",
@@ -80381,7 +80381,7 @@
     "subtitle": "25 août 1963, soir",
     "date": "1963-08-25",
     "year": 1963,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80432,8 +80432,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0825E",
     "local_md": "markdown/cmpp/1963/serie3no9.md",
-    "size_bytes": 91375,
-    "line_count": 587
+    "size_bytes": 90874,
+    "line_count": 507
   },
   {
     "source": "cmpp",
@@ -80442,7 +80442,7 @@
     "subtitle": "1er septembre 1963, matin",
     "date": "1963-09-01",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80495,8 +80495,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0901M",
     "local_md": "markdown/cmpp/1963/serie2no1.md",
-    "size_bytes": 151847,
-    "line_count": 1660
+    "size_bytes": 151700,
+    "line_count": 1133
   },
   {
     "source": "cmpp",
@@ -80505,7 +80505,7 @@
     "subtitle": null,
     "date": "1963-09-01",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80554,8 +80554,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-0901E",
     "local_md": "markdown/cmpp/1963/serie2no2.md",
-    "size_bytes": 110898,
-    "line_count": 1097
+    "size_bytes": 110536,
+    "line_count": 653
   },
   {
     "source": "cmpp",
@@ -80564,7 +80564,7 @@
     "subtitle": "10 novembre 1963, matin",
     "date": "1963-11-10",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80616,8 +80616,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1110M",
     "local_md": "markdown/cmpp/1963/serie3no10.md",
-    "size_bytes": 157398,
-    "line_count": 1134
+    "size_bytes": 157165,
+    "line_count": 893
   },
   {
     "source": "cmpp",
@@ -80626,7 +80626,7 @@
     "subtitle": "10 novembre 1963, soir",
     "date": "1963-11-10",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80672,8 +80672,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1110E",
     "local_md": "markdown/cmpp/1963/serie3no11.md",
-    "size_bytes": 120523,
-    "line_count": 694
+    "size_bytes": 120076,
+    "line_count": 628
   },
   {
     "source": "cmpp",
@@ -80682,7 +80682,7 @@
     "subtitle": "24 novembre 1963, matin",
     "date": "1963-11-24",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80737,8 +80737,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1124M",
     "local_md": "markdown/cmpp/1963/serie3no12.md",
-    "size_bytes": 141004,
-    "line_count": 1337
+    "size_bytes": 140195,
+    "line_count": 597
   },
   {
     "source": "cmpp",
@@ -80747,7 +80747,7 @@
     "subtitle": "24 novembre 1963, soir",
     "date": "1963-11-24",
     "year": 1963,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80800,8 +80800,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1124E",
     "local_md": "markdown/cmpp/1963/serie4no1.md",
-    "size_bytes": 124820,
-    "line_count": 1201
+    "size_bytes": 124214,
+    "line_count": 612
   },
   {
     "source": "cmpp",
@@ -80810,7 +80810,7 @@
     "subtitle": "22 décembre 1963, soir",
     "date": "1963-12-22",
     "year": 1963,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80858,8 +80858,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1222",
     "local_md": "markdown/cmpp/1963/serie4no2.md",
-    "size_bytes": 91193,
-    "line_count": 867
+    "size_bytes": 90894,
+    "line_count": 387
   },
   {
     "source": "cmpp",
@@ -80868,7 +80868,7 @@
     "subtitle": "26 décembre 1963, soir",
     "date": "1963-12-26",
     "year": 1963,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80917,8 +80917,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1226",
     "local_md": "markdown/cmpp/1963/serie4no3.md",
-    "size_bytes": 122533,
-    "line_count": 1100
+    "size_bytes": 122159,
+    "line_count": 542
   },
   {
     "source": "cmpp",
@@ -80927,7 +80927,7 @@
     "subtitle": "29 décembre 1963, matin",
     "date": "1963-12-29",
     "year": 1963,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -80990,8 +80990,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1229M",
     "local_md": "markdown/cmpp/1963/serie4no4.md",
-    "size_bytes": 155440,
-    "line_count": 1267
+    "size_bytes": 154151,
+    "line_count": 789
   },
   {
     "source": "cmpp",
@@ -81000,7 +81000,7 @@
     "subtitle": "29 décembre 1963, soir",
     "date": "1963-12-29",
     "year": 1963,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81071,8 +81071,8 @@
     "llm_cleaned": true,
     "original": "branham/1963/63-1229E",
     "local_md": "markdown/cmpp/1963/serie4no5.md",
-    "size_bytes": 125486,
-    "line_count": 1135
+    "size_bytes": 125172,
+    "line_count": 726
   },
   {
     "source": "cmpp",
@@ -81081,7 +81081,7 @@
     "subtitle": "7 février 1964, soir",
     "date": "1964-02-07",
     "year": 1964,
-    "location": "Kern County Fairgrounds, Bakersfield, California, U.S.A.",
+    "location": "Kern County Fairgrounds, Bakersfield — California, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81131,8 +81131,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0207",
     "local_md": "markdown/cmpp/1964/serie6no5.md",
-    "size_bytes": 75586,
-    "line_count": 401
+    "size_bytes": 75869,
+    "line_count": 486
   },
   {
     "source": "cmpp",
@@ -81141,7 +81141,7 @@
     "subtitle": "9 février 1964, après-midi, Fairgrounds, Bakersfield — Californie, U.S.A.",
     "date": "1964-02-09",
     "year": 1964,
-    "location": "Bakersfield, Californie, U.S.A.",
+    "location": "Fairgrounds, Bakersfield — Californie, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81193,8 +81193,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0209",
     "local_md": "markdown/cmpp/1964/serie5no12.md",
-    "size_bytes": 86189,
-    "line_count": 460
+    "size_bytes": 86129,
+    "line_count": 523
   },
   {
     "source": "cmpp",
@@ -81203,7 +81203,7 @@
     "subtitle": "14 juin 1964, matin",
     "date": "1964-06-14",
     "year": 1964,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81258,8 +81258,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0614M",
     "local_md": "markdown/cmpp/1964/serie1no6.md",
-    "size_bytes": 151043,
-    "line_count": 1664
+    "size_bytes": 150414,
+    "line_count": 759
   },
   {
     "source": "cmpp",
@@ -81268,7 +81268,7 @@
     "subtitle": "14 juin 1964, soir",
     "date": "1964-06-14",
     "year": 1964,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81327,8 +81327,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0614E",
     "local_md": "markdown/cmpp/1964/serie4no6.md",
-    "size_bytes": 81914,
-    "line_count": 809
+    "size_bytes": 81585,
+    "line_count": 462
   },
   {
     "source": "cmpp",
@@ -81337,7 +81337,7 @@
     "subtitle": "5 juillet 1964, matin",
     "date": "1964-07-05",
     "year": 1964,
-    "location": "Jeffersonville — Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81405,8 +81405,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0705",
     "local_md": "markdown/cmpp/1964/chef_oeuvre.md",
-    "size_bytes": 119846,
-    "line_count": 663
+    "size_bytes": 118898,
+    "line_count": 564
   },
   {
     "source": "cmpp",
@@ -81415,7 +81415,7 @@
     "subtitle": "19 juillet 1964, matin",
     "date": "1964-07-19",
     "year": 1964,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81475,8 +81475,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0719M",
     "local_md": "markdown/cmpp/1964/serie4no7.md",
-    "size_bytes": 126260,
-    "line_count": 943
+    "size_bytes": 126206,
+    "line_count": 714
   },
   {
     "source": "cmpp",
@@ -81485,7 +81485,7 @@
     "subtitle": "19 juillet 1964, soir",
     "date": "1964-07-19",
     "year": 1964,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81541,8 +81541,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0719E",
     "local_md": "markdown/cmpp/1964/serie4no8.md",
-    "size_bytes": 89301,
-    "line_count": 341
+    "size_bytes": 87226,
+    "line_count": 449
   },
   {
     "source": "cmpp",
@@ -81551,7 +81551,7 @@
     "subtitle": "26 juillet 1964, matin",
     "date": "1964-07-26",
     "year": 1964,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81601,8 +81601,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0726M",
     "local_md": "markdown/cmpp/1964/serie1no1.md",
-    "size_bytes": 125197,
-    "line_count": 1261
+    "size_bytes": 124360,
+    "line_count": 680
   },
   {
     "source": "cmpp",
@@ -81611,7 +81611,7 @@
     "subtitle": "26 juillet 1964, soir",
     "date": "1964-07-26",
     "year": 1964,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81690,8 +81690,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0726E",
     "local_md": "markdown/cmpp/1964/serie4no9.md",
-    "size_bytes": 95342,
-    "line_count": 921
+    "size_bytes": 94824,
+    "line_count": 542
   },
   {
     "source": "cmpp",
@@ -81700,7 +81700,7 @@
     "subtitle": "2 août 1964, matin",
     "date": "1964-08-02",
     "year": 1964,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81747,8 +81747,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0802",
     "local_md": "markdown/cmpp/1964/serie4no10.md",
-    "size_bytes": 203437,
-    "line_count": 2044
+    "size_bytes": 200982,
+    "line_count": 1044
   },
   {
     "source": "cmpp",
@@ -81809,8 +81809,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-0816",
     "local_md": "markdown/cmpp/1964/serie2no9.md",
-    "size_bytes": 176924,
-    "line_count": 1062
+    "size_bytes": 177322,
+    "line_count": 770
   },
   {
     "source": "cmpp",
@@ -81819,7 +81819,7 @@
     "subtitle": null,
     "date": "1964-12-27",
     "year": 1964,
-    "location": "Phoenix, Arizona, U.S.A.",
+    "location": "Phoenix — Arizona, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81875,8 +81875,8 @@
     "llm_cleaned": true,
     "original": "branham/1964/64-1227",
     "local_md": "markdown/cmpp/1964/serie6no2.md",
-    "size_bytes": 125682,
-    "line_count": 1140
+    "size_bytes": 125794,
+    "line_count": 596
   },
   {
     "source": "cmpp",
@@ -81885,7 +81885,7 @@
     "subtitle": "24 janvier 1965, après-midi",
     "date": "1965-01-24",
     "year": 1965,
-    "location": "Ramada Inn, Phoenix, Arizona, U.S.A.",
+    "location": "Ramada Inn, Phoenix — Arizona, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81938,8 +81938,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0124",
     "local_md": "markdown/cmpp/1965/serie1no8.md",
-    "size_bytes": 108812,
-    "line_count": 960
+    "size_bytes": 108937,
+    "line_count": 501
   },
   {
     "source": "cmpp",
@@ -81948,7 +81948,7 @@
     "subtitle": "17 février 1965, après-midi",
     "date": "1965-02-17",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -81993,8 +81993,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0217",
     "local_md": "markdown/cmpp/1965/serie4no11.md",
-    "size_bytes": 97577,
-    "line_count": 462
+    "size_bytes": 97492,
+    "line_count": 518
   },
   {
     "source": "cmpp",
@@ -82003,7 +82003,7 @@
     "subtitle": "18 février 1965, soir",
     "date": "1965-02-18",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Parkview Junior High School Auditorium, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82054,8 +82054,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0218",
     "local_md": "markdown/cmpp/1965/serie4no12.md",
-    "size_bytes": 95187,
-    "line_count": 353
+    "size_bytes": 95068,
+    "line_count": 444
   },
   {
     "source": "cmpp",
@@ -82064,7 +82064,7 @@
     "subtitle": "20 février 1965, soir",
     "date": "1965-02-20",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Parkview Junior High Shool Auditorium, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82125,8 +82125,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0220",
     "local_md": "markdown/cmpp/1965/serie5no1.md",
-    "size_bytes": 84808,
-    "line_count": 708
+    "size_bytes": 84529,
+    "line_count": 408
   },
   {
     "source": "cmpp",
@@ -82135,7 +82135,7 @@
     "subtitle": "21 février 1965, matin",
     "date": "1965-02-21",
     "year": 1965,
-    "location": "Jeffersonville — Indiana, U.S.A.",
+    "location": "Parkview Junior High School, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82201,8 +82201,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0221M",
     "local_md": "markdown/cmpp/1965/mariage_et_divorce.md",
-    "size_bytes": 137806,
-    "line_count": 1436
+    "size_bytes": 137546,
+    "line_count": 658
   },
   {
     "source": "cmpp",
@@ -82211,7 +82211,7 @@
     "subtitle": "21 février 1965, après-midi",
     "date": "1965-02-21",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Parkview-Junior, High School Auditorium, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82258,8 +82258,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0221E",
     "local_md": "markdown/cmpp/1965/serie5no2.md",
-    "size_bytes": 105702,
-    "line_count": 680
+    "size_bytes": 105057,
+    "line_count": 489
   },
   {
     "source": "cmpp",
@@ -82268,7 +82268,7 @@
     "subtitle": "18 avril 1965, matin",
     "date": "1965-04-18",
     "year": 1965,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82319,8 +82319,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0418M",
     "local_md": "markdown/cmpp/1965/serie1no10.md",
-    "size_bytes": 140763,
-    "line_count": 1390
+    "size_bytes": 140461,
+    "line_count": 731
   },
   {
     "source": "cmpp",
@@ -82329,7 +82329,7 @@
     "subtitle": "21 février 1965, après-midi / 18 avril 1965, soir",
     "date": "1965-04-18",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82379,8 +82379,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0418E",
     "local_md": "markdown/cmpp/1965/serie5no3.md",
-    "size_bytes": 121174,
-    "line_count": 514
+    "size_bytes": 119651,
+    "line_count": 641
   },
   {
     "source": "cmpp",
@@ -82389,7 +82389,7 @@
     "subtitle": "29 avril 1965, soir",
     "date": "1965-04-29",
     "year": 1965,
-    "location": "Los Angeles, Californie, U.S.A.",
+    "location": "Biltmore Hotel Auditorium, Los Angeles — Californie, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82441,8 +82441,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0429E",
     "local_md": "markdown/cmpp/1965/serie6no1.md",
-    "size_bytes": 101732,
-    "line_count": 369
+    "size_bytes": 101523,
+    "line_count": 484
   },
   {
     "source": "cmpp",
@@ -82451,7 +82451,7 @@
     "subtitle": "11 juillet 1965, matin",
     "date": "1965-07-11",
     "year": 1965,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82506,8 +82506,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0711",
     "local_md": "markdown/cmpp/1965/serie5no4.md",
-    "size_bytes": 102744,
-    "line_count": 846
+    "size_bytes": 102068,
+    "line_count": 533
   },
   {
     "source": "cmpp",
@@ -82516,7 +82516,7 @@
     "subtitle": null,
     "date": "1965-07-18",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82561,8 +82561,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0718E",
     "local_md": "markdown/cmpp/1965/serie1no2.md",
-    "size_bytes": 115350,
-    "line_count": 934
+    "size_bytes": 115034,
+    "line_count": 592
   },
   {
     "source": "cmpp",
@@ -82571,7 +82571,7 @@
     "subtitle": null,
     "date": "1965-07-18",
     "year": 1965,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82624,8 +82624,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0718M",
     "local_md": "markdown/cmpp/1965/serie5no5.md",
-    "size_bytes": 126728,
-    "line_count": 836
+    "size_bytes": 124146,
+    "line_count": 550
   },
   {
     "source": "cmpp",
@@ -82634,7 +82634,7 @@
     "subtitle": null,
     "date": "1965-07-25",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82698,8 +82698,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0725M",
     "local_md": "markdown/cmpp/1965/serie1no3.md",
-    "size_bytes": 159610,
-    "line_count": 899
+    "size_bytes": 159371,
+    "line_count": 823
   },
   {
     "source": "cmpp",
@@ -82708,7 +82708,7 @@
     "subtitle": "25 juillet 1965, soir",
     "date": "1965-07-25",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82774,8 +82774,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0725E",
     "local_md": "markdown/cmpp/1965/serie5no6.md",
-    "size_bytes": 98012,
-    "line_count": 858
+    "size_bytes": 96922,
+    "line_count": 618
   },
   {
     "source": "cmpp",
@@ -82827,8 +82827,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0801M",
     "local_md": "markdown/cmpp/1965/serie2no12.md",
-    "size_bytes": 142942,
-    "line_count": 1351
+    "size_bytes": 143294,
+    "line_count": 577
   },
   {
     "source": "cmpp",
@@ -82837,7 +82837,7 @@
     "subtitle": "15 août 1965, matin",
     "date": "1965-08-15",
     "year": 1965,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82889,8 +82889,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0815",
     "local_md": "markdown/cmpp/1965/serie5no7.md",
-    "size_bytes": 114093,
-    "line_count": 1078
+    "size_bytes": 113534,
+    "line_count": 727
   },
   {
     "source": "cmpp",
@@ -82899,7 +82899,7 @@
     "subtitle": "22 août 1965, matin",
     "date": "1965-08-22",
     "year": 1965,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -82959,8 +82959,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0822M",
     "local_md": "markdown/cmpp/1965/serie5no8.md",
-    "size_bytes": 132123,
-    "line_count": 1574
+    "size_bytes": 130523,
+    "line_count": 507
   },
   {
     "source": "cmpp",
@@ -82969,7 +82969,7 @@
     "subtitle": "29 août 1965, soir",
     "date": "1965-08-29",
     "year": 1965,
-    "location": "Jeffersonville, Indiana, U.S.A.",
+    "location": "Branham Tabernacle, Jeffersonville — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -83017,8 +83017,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0829",
     "local_md": "markdown/cmpp/1965/serie5no9.md",
-    "size_bytes": 85708,
-    "line_count": 465
+    "size_bytes": 85999,
+    "line_count": 541
   },
   {
     "source": "cmpp",
@@ -83027,7 +83027,7 @@
     "subtitle": "11 septembre 1965, matin",
     "date": "1965-09-11",
     "year": 1965,
-    "location": "Phoenix, Indiana, U.S.A.",
+    "location": "Full Gospel Business Men’s Breakfast, Phoenix — Indiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -83081,8 +83081,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0911",
     "local_md": "markdown/cmpp/1965/serie5no10.md",
-    "size_bytes": 128723,
-    "line_count": 1063
+    "size_bytes": 127798,
+    "line_count": 822
   },
   {
     "source": "cmpp",
@@ -83091,7 +83091,7 @@
     "subtitle": "19 septembre 1965, soir",
     "date": "1965-09-19",
     "year": 1965,
-    "location": "Tucson, Arizona, U.S.A.",
+    "location": "Assemblée de Dieu de Grantway, Phoenix — Arizona, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -83157,8 +83157,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-0919",
     "local_md": "markdown/cmpp/1965/serie6no3.md",
-    "size_bytes": 125362,
-    "line_count": 1008
+    "size_bytes": 124869,
+    "line_count": 742
   },
   {
     "source": "cmpp",
@@ -83167,7 +83167,7 @@
     "subtitle": "25 novembre 1965, soir",
     "date": "1965-11-25",
     "year": 1965,
-    "location": "Shreveport, Louisiana, U.S.A.",
+    "location": "Life Tabernacle, Shreveport — Louisiana, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -83213,8 +83213,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-1125",
     "local_md": "markdown/cmpp/1965/serie5no11.md",
-    "size_bytes": 159221,
-    "line_count": 1514
+    "size_bytes": 158136,
+    "line_count": 762
   },
   {
     "source": "cmpp",
@@ -83223,7 +83223,7 @@
     "subtitle": null,
     "date": "1965-11-26",
     "year": 1965,
-    "location": "Shreveport, Louisiane, U.S.A.",
+    "location": "Life Tabernacle, Shreveport — Louisiane, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -83282,8 +83282,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-1126",
     "local_md": "markdown/cmpp/1965/serie2no10.md",
-    "size_bytes": 142443,
-    "line_count": 962
+    "size_bytes": 142506,
+    "line_count": 869
   },
   {
     "source": "cmpp",
@@ -83292,7 +83292,7 @@
     "subtitle": "28 novembre 1965, matin",
     "date": "1965-11-28",
     "year": 1965,
-    "location": "Shreveport, Louisiane, U.S.A.",
+    "location": "Life Tabernacle, Shreveport — Louisiane, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -83346,8 +83346,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-1128M",
     "local_md": "markdown/cmpp/1965/serie2no11.md",
-    "size_bytes": 122620,
-    "line_count": 1472
+    "size_bytes": 121615,
+    "line_count": 735
   },
   {
     "source": "cmpp",
@@ -83356,7 +83356,7 @@
     "subtitle": "4 décembre 1965, soir",
     "date": "1965-12-04",
     "year": 1965,
-    "location": "Yuma, Arizona, U.S.A.",
+    "location": "Ramada Inn, Yuma — Arizona, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -83405,8 +83405,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-1204",
     "local_md": "markdown/cmpp/1965/serie6no4.md",
-    "size_bytes": 121317,
-    "line_count": 971
+    "size_bytes": 120961,
+    "line_count": 633
   },
   {
     "source": "cmpp",
@@ -83415,7 +83415,7 @@
     "subtitle": "6 décembre 1965, soir",
     "date": "1965-12-06",
     "year": 1965,
-    "location": "San Bernardino, Californie, U.S.A.",
+    "location": "San Bernardino — Californie, U.S.A.",
     "preacher": "William Branham",
     "duration": null,
     "source_url": null,
@@ -83468,8 +83468,8 @@
     "llm_cleaned": true,
     "original": "branham/1965/65-1206",
     "local_md": "markdown/cmpp/1965/serie1no7.md",
-    "size_bytes": 126260,
-    "line_count": 1299
+    "size_bytes": 125256,
+    "line_count": 437
   },
   {
     "source": "cmpp",
@@ -83536,8 +83536,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1966/la_parole_de_dieu_demeure_eternellement.md",
-    "size_bytes": 217306,
-    "line_count": 2260
+    "size_bytes": 226300,
+    "line_count": 846
   },
   {
     "source": "cmpp",
@@ -83591,8 +83591,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1972/lc_mars_1972.md",
-    "size_bytes": 18773,
-    "line_count": 137
+    "size_bytes": 18881,
+    "line_count": 178
   },
   {
     "source": "cmpp",
@@ -83708,8 +83708,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1972/lc_septembre_1972.md",
-    "size_bytes": 27415,
-    "line_count": 177
+    "size_bytes": 27560,
+    "line_count": 178
   },
   {
     "source": "cmpp",
@@ -83834,8 +83834,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1973/lc_janvier_1973.md",
-    "size_bytes": 21962,
-    "line_count": 138
+    "size_bytes": 22072,
+    "line_count": 140
   },
   {
     "source": "cmpp",
@@ -83962,8 +83962,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1973/lc_juin_1973.md",
-    "size_bytes": 26108,
-    "line_count": 122
+    "size_bytes": 26265,
+    "line_count": 162
   },
   {
     "source": "cmpp",
@@ -84109,8 +84109,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1973/lc_novembre_1973.md",
-    "size_bytes": 26539,
-    "line_count": 206
+    "size_bytes": 26663,
+    "line_count": 218
   },
   {
     "source": "cmpp",
@@ -84321,8 +84321,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1974/lc_janvier_1974.md",
-    "size_bytes": 37702,
-    "line_count": 255
+    "size_bytes": 37760,
+    "line_count": 264
   },
   {
     "source": "cmpp",
@@ -84443,8 +84443,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1974/lc_mars_1974.md",
-    "size_bytes": 28797,
-    "line_count": 157
+    "size_bytes": 28871,
+    "line_count": 154
   },
   {
     "source": "cmpp",
@@ -84685,8 +84685,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1974/lc_juillet_1974.md",
-    "size_bytes": 29519,
-    "line_count": 174
+    "size_bytes": 29614,
+    "line_count": 166
   },
   {
     "source": "cmpp",
@@ -84805,8 +84805,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1974/lc_octobre_1974.md",
-    "size_bytes": 20146,
-    "line_count": 113
+    "size_bytes": 20242,
+    "line_count": 111
   },
   {
     "source": "cmpp",
@@ -84997,8 +84997,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1975/lc1.md",
-    "size_bytes": 29013,
-    "line_count": 236
+    "size_bytes": 29116,
+    "line_count": 201
   },
   {
     "source": "cmpp",
@@ -85136,8 +85136,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1975/lc2.md",
-    "size_bytes": 37787,
-    "line_count": 223
+    "size_bytes": 37928,
+    "line_count": 222
   },
   {
     "source": "cmpp",
@@ -85268,8 +85268,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1975/lc3.md",
-    "size_bytes": 38007,
-    "line_count": 221
+    "size_bytes": 38082,
+    "line_count": 217
   },
   {
     "source": "cmpp",
@@ -85403,8 +85403,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1975/lc4.md",
-    "size_bytes": 40089,
-    "line_count": 195
+    "size_bytes": 40158,
+    "line_count": 193
   },
   {
     "source": "cmpp",
@@ -85529,8 +85529,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1976/lc5.md",
-    "size_bytes": 29290,
-    "line_count": 157
+    "size_bytes": 29392,
+    "line_count": 154
   },
   {
     "source": "cmpp",
@@ -85651,8 +85651,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1976/lc6.md",
-    "size_bytes": 39284,
-    "line_count": 193
+    "size_bytes": 39372,
+    "line_count": 186
   },
   {
     "source": "cmpp",
@@ -85760,7 +85760,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1976/lc7.md",
-    "size_bytes": 17325,
+    "size_bytes": 17398,
     "line_count": 100
   },
   {
@@ -85870,8 +85870,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1976/lc8.md",
-    "size_bytes": 20345,
-    "line_count": 102
+    "size_bytes": 20433,
+    "line_count": 98
   },
   {
     "source": "cmpp",
@@ -85980,8 +85980,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1976/lc9.md",
-    "size_bytes": 30611,
-    "line_count": 143
+    "size_bytes": 30701,
+    "line_count": 136
   },
   {
     "source": "cmpp",
@@ -86111,8 +86111,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1977/lc10.md",
-    "size_bytes": 29387,
-    "line_count": 188
+    "size_bytes": 29407,
+    "line_count": 178
   },
   {
     "source": "cmpp",
@@ -86235,8 +86235,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1977/lc11.md",
-    "size_bytes": 20445,
-    "line_count": 151
+    "size_bytes": 20595,
+    "line_count": 148
   },
   {
     "source": "cmpp",
@@ -86354,8 +86354,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1977/lc12.md",
-    "size_bytes": 31199,
-    "line_count": 163
+    "size_bytes": 31280,
+    "line_count": 161
   },
   {
     "source": "cmpp",
@@ -86485,8 +86485,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1978/lc13.md",
-    "size_bytes": 20912,
-    "line_count": 131
+    "size_bytes": 20975,
+    "line_count": 123
   },
   {
     "source": "cmpp",
@@ -86612,8 +86612,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1978/lc14.md",
-    "size_bytes": 28009,
-    "line_count": 152
+    "size_bytes": 28110,
+    "line_count": 151
   },
   {
     "source": "cmpp",
@@ -86735,8 +86735,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1978/lc15.md",
-    "size_bytes": 30922,
-    "line_count": 164
+    "size_bytes": 31020,
+    "line_count": 160
   },
   {
     "source": "cmpp",
@@ -86854,8 +86854,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1979/lc16.md",
-    "size_bytes": 30735,
-    "line_count": 167
+    "size_bytes": 30845,
+    "line_count": 161
   },
   {
     "source": "cmpp",
@@ -86987,8 +86987,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1979/lc17.md",
-    "size_bytes": 19908,
-    "line_count": 148
+    "size_bytes": 20304,
+    "line_count": 146
   },
   {
     "source": "cmpp",
@@ -87111,8 +87111,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1979/lc18.md",
-    "size_bytes": 31353,
-    "line_count": 139
+    "size_bytes": 31441,
+    "line_count": 136
   },
   {
     "source": "cmpp",
@@ -87228,8 +87228,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1979/lc19.md",
-    "size_bytes": 21207,
-    "line_count": 117
+    "size_bytes": 21321,
+    "line_count": 115
   },
   {
     "source": "cmpp",
@@ -87355,8 +87355,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1980/lc20.md",
-    "size_bytes": 63611,
-    "line_count": 625
+    "size_bytes": 62580,
+    "line_count": 344
   },
   {
     "source": "cmpp",
@@ -87483,8 +87483,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1980/lc21.md",
-    "size_bytes": 30578,
-    "line_count": 263
+    "size_bytes": 30699,
+    "line_count": 258
   },
   {
     "source": "cmpp",
@@ -87615,8 +87615,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1980/lc22.md",
-    "size_bytes": 54899,
-    "line_count": 339
+    "size_bytes": 54928,
+    "line_count": 265
   },
   {
     "source": "cmpp",
@@ -87753,8 +87753,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1980/lc23.md",
-    "size_bytes": 39201,
-    "line_count": 188
+    "size_bytes": 39278,
+    "line_count": 189
   },
   {
     "source": "cmpp",
@@ -87893,8 +87893,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1980/lc24.md",
-    "size_bytes": 38897,
-    "line_count": 177
+    "size_bytes": 38958,
+    "line_count": 172
   },
   {
     "source": "cmpp",
@@ -88026,8 +88026,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1981/lc25.md",
-    "size_bytes": 62089,
-    "line_count": 533
+    "size_bytes": 61588,
+    "line_count": 307
   },
   {
     "source": "cmpp",
@@ -88177,8 +88177,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1982/lc26.md",
-    "size_bytes": 70422,
-    "line_count": 300
+    "size_bytes": 70401,
+    "line_count": 292
   },
   {
     "source": "cmpp",
@@ -88306,8 +88306,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1982/lc27.md",
-    "size_bytes": 41597,
-    "line_count": 214
+    "size_bytes": 41691,
+    "line_count": 209
   },
   {
     "source": "cmpp",
@@ -88440,8 +88440,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1983/lc28.md",
-    "size_bytes": 29680,
-    "line_count": 167
+    "size_bytes": 29718,
+    "line_count": 142
   },
   {
     "source": "cmpp",
@@ -88577,8 +88577,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1983/lc29.md",
-    "size_bytes": 44393,
-    "line_count": 198
+    "size_bytes": 44336,
+    "line_count": 185
   },
   {
     "source": "cmpp",
@@ -88716,8 +88716,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1983/lc30.md",
-    "size_bytes": 38714,
-    "line_count": 218
+    "size_bytes": 38834,
+    "line_count": 214
   },
   {
     "source": "cmpp",
@@ -88843,8 +88843,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1985/lc31.md",
-    "size_bytes": 76700,
-    "line_count": 337
+    "size_bytes": 76355,
+    "line_count": 277
   },
   {
     "source": "cmpp",
@@ -88967,8 +88967,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1985/dieu_et_son_plan.md",
-    "size_bytes": 120755,
-    "line_count": 825
+    "size_bytes": 120976,
+    "line_count": 667
   },
   {
     "source": "cmpp",
@@ -89039,8 +89039,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1986/lc32.md",
-    "size_bytes": 66054,
-    "line_count": 478
+    "size_bytes": 65832,
+    "line_count": 257
   },
   {
     "source": "cmpp",
@@ -89173,8 +89173,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1986/antichrist.md",
-    "size_bytes": 139411,
-    "line_count": 1048
+    "size_bytes": 140893,
+    "line_count": 704
   },
   {
     "source": "cmpp",
@@ -89235,8 +89235,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1987/lc33.md",
-    "size_bytes": 111792,
-    "line_count": 657
+    "size_bytes": 111733,
+    "line_count": 463
   },
   {
     "source": "cmpp",
@@ -89320,8 +89320,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1987/il_est_ecrit.md",
-    "size_bytes": 78440,
-    "line_count": 737
+    "size_bytes": 77841,
+    "line_count": 456
   },
   {
     "source": "cmpp",
@@ -89391,8 +89391,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1988/lc34.md",
-    "size_bytes": 52084,
-    "line_count": 308
+    "size_bytes": 51067,
+    "line_count": 258
   },
   {
     "source": "cmpp",
@@ -89459,8 +89459,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1988/predication_bruxelles_1988.md",
-    "size_bytes": 58273,
-    "line_count": 316
+    "size_bytes": 56385,
+    "line_count": 263
   },
   {
     "source": "cmpp",
@@ -89535,8 +89535,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1988/retour.md",
-    "size_bytes": 111270,
-    "line_count": 1199
+    "size_bytes": 110990,
+    "line_count": 738
   },
   {
     "source": "cmpp",
@@ -89611,8 +89611,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1989/lc35.md",
-    "size_bytes": 65733,
-    "line_count": 460
+    "size_bytes": 65768,
+    "line_count": 292
   },
   {
     "source": "cmpp",
@@ -89677,8 +89677,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1990/lc36.md",
-    "size_bytes": 26556,
-    "line_count": 153
+    "size_bytes": 26600,
+    "line_count": 137
   },
   {
     "source": "cmpp",
@@ -89740,8 +89740,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1991/lc37.md",
-    "size_bytes": 23786,
-    "line_count": 116
+    "size_bytes": 23943,
+    "line_count": 115
   },
   {
     "source": "cmpp",
@@ -89808,8 +89808,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1991/lettre_ouverte.md",
-    "size_bytes": 18323,
-    "line_count": 206
+    "size_bytes": 18232,
+    "line_count": 197
   },
   {
     "source": "cmpp",
@@ -89867,8 +89867,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1992/lc38.md",
-    "size_bytes": 49056,
-    "line_count": 266
+    "size_bytes": 48112,
+    "line_count": 241
   },
   {
     "source": "cmpp",
@@ -89946,8 +89946,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1993/lc39.md",
-    "size_bytes": 51740,
-    "line_count": 385
+    "size_bytes": 51923,
+    "line_count": 350
   },
   {
     "source": "cmpp",
@@ -90009,8 +90009,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1993/lc40.md",
-    "size_bytes": 56315,
-    "line_count": 376
+    "size_bytes": 56046,
+    "line_count": 282
   },
   {
     "source": "cmpp",
@@ -90072,8 +90072,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1994/lc41.md",
-    "size_bytes": 78360,
-    "line_count": 609
+    "size_bytes": 78240,
+    "line_count": 358
   },
   {
     "source": "cmpp",
@@ -90139,8 +90139,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1994/lc42.md",
-    "size_bytes": 68058,
-    "line_count": 337
+    "size_bytes": 68296,
+    "line_count": 335
   },
   {
     "source": "cmpp",
@@ -90200,8 +90200,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1995/lc43.md",
-    "size_bytes": 65778,
-    "line_count": 288
+    "size_bytes": 65846,
+    "line_count": 297
   },
   {
     "source": "cmpp",
@@ -90263,8 +90263,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1995/lc44.md",
-    "size_bytes": 67463,
-    "line_count": 295
+    "size_bytes": 67588,
+    "line_count": 288
   },
   {
     "source": "cmpp",
@@ -90338,8 +90338,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1996/lc45.md",
-    "size_bytes": 56909,
-    "line_count": 343
+    "size_bytes": 57058,
+    "line_count": 250
   },
   {
     "source": "cmpp",
@@ -90404,8 +90404,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1996/lc46.md",
-    "size_bytes": 53455,
-    "line_count": 264
+    "size_bytes": 53481,
+    "line_count": 246
   },
   {
     "source": "cmpp",
@@ -90480,8 +90480,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1997/lc47.md",
-    "size_bytes": 54988,
-    "line_count": 375
+    "size_bytes": 54959,
+    "line_count": 378
   },
   {
     "source": "cmpp",
@@ -90543,8 +90543,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/vraitemoin.md",
-    "size_bytes": 56277,
-    "line_count": 514
+    "size_bytes": 56261,
+    "line_count": 180
   },
   {
     "source": "cmpp",
@@ -90607,8 +90607,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1998/lc48.md",
-    "size_bytes": 79734,
-    "line_count": 375
+    "size_bytes": 80444,
+    "line_count": 427
   },
   {
     "source": "cmpp",
@@ -90670,8 +90670,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1998/lc49.md",
-    "size_bytes": 30610,
-    "line_count": 173
+    "size_bytes": 30946,
+    "line_count": 169
   },
   {
     "source": "cmpp",
@@ -90739,8 +90739,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1999/lc50.md",
-    "size_bytes": 40367,
-    "line_count": 261
+    "size_bytes": 40520,
+    "line_count": 246
   },
   {
     "source": "cmpp",
@@ -90797,8 +90797,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2000/lc51.md",
-    "size_bytes": 46479,
-    "line_count": 219
+    "size_bytes": 46924,
+    "line_count": 214
   },
   {
     "source": "cmpp",
@@ -90879,8 +90879,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2001/lc52.md",
-    "size_bytes": 79986,
-    "line_count": 629
+    "size_bytes": 79907,
+    "line_count": 336
   },
   {
     "source": "cmpp",
@@ -90945,8 +90945,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2002/lc53.md",
-    "size_bytes": 63286,
-    "line_count": 544
+    "size_bytes": 62023,
+    "line_count": 378
   },
   {
     "source": "cmpp",
@@ -91011,8 +91011,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/lc54.md",
-    "size_bytes": 68581,
-    "line_count": 282
+    "size_bytes": 69194,
+    "line_count": 281
   },
   {
     "source": "cmpp",
@@ -91084,8 +91084,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_04_2003.md",
-    "size_bytes": 11167,
-    "line_count": 82
+    "size_bytes": 11359,
+    "line_count": 85
   },
   {
     "source": "cmpp",
@@ -91158,8 +91158,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_05_2003.md",
-    "size_bytes": 10689,
-    "line_count": 84
+    "size_bytes": 10903,
+    "line_count": 87
   },
   {
     "source": "cmpp",
@@ -91229,8 +91229,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_06_2003.md",
-    "size_bytes": 10820,
-    "line_count": 84
+    "size_bytes": 10912,
+    "line_count": 81
   },
   {
     "source": "cmpp",
@@ -91295,7 +91295,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_07_2003.md",
-    "size_bytes": 10046,
+    "size_bytes": 10392,
     "line_count": 81
   },
   {
@@ -91348,8 +91348,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_08_2003.md",
-    "size_bytes": 9590,
-    "line_count": 54
+    "size_bytes": 9776,
+    "line_count": 55
   },
   {
     "source": "cmpp",
@@ -91411,8 +91411,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_09_2003.md",
-    "size_bytes": 9620,
-    "line_count": 101
+    "size_bytes": 10009,
+    "line_count": 85
   },
   {
     "source": "cmpp",
@@ -91476,8 +91476,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_10_2003.md",
-    "size_bytes": 8691,
-    "line_count": 77
+    "size_bytes": 8890,
+    "line_count": 80
   },
   {
     "source": "cmpp",
@@ -91536,8 +91536,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_11_2003.md",
-    "size_bytes": 10066,
-    "line_count": 79
+    "size_bytes": 10271,
+    "line_count": 82
   },
   {
     "source": "cmpp",
@@ -91603,78 +91603,15 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2003/video_12_2003.md",
-    "size_bytes": 8662,
-    "line_count": 121
-  },
-  {
-    "source": "cmpp",
-    "sermon_id": "video_01_2004",
-    "title": "Sommaire des rencontres, janvier 2004",
-    "subtitle": "Janvier 2004",
-    "date": "2004-01",
-    "year": 2004,
-    "location": "Krefeld",
-    "preacher": "Ewald Frank",
-    "duration": null,
-    "source_url": null,
-    "pdf_url": "http://cmpp.ch/video_01_2004.pdf",
-    "audio_url": null,
-    "mevar_match": null,
-    "aliases": null,
-    "tags": [
-      "Parole de Dieu",
-      "prophète William Branham",
-      "fin des temps",
-      "paix",
-      "fausses interprétations"
-    ],
-    "authors": null,
-    "type": null,
-    "status": null,
-    "summary": "Lettre circulaire de janvier 2004 dans laquelle frère Frank exhorte les croyants à demeurer fidèles à la Parole de Dieu restaurée par le prophète William Branham, en mettant en garde contre les fausses interprétations et les semences de l'ennemi semées dans le même champ. Il évoque les signes des temps, notamment les déclarations du pape sur la paix et la situation à Jérusalem, et rappelle que le blé reste toujours du blé.",
-    "persons": [
-      "Ewald Frank",
-      "William Branham",
-      "Jésus-Christ",
-      "Martin Luther",
-      "John Wesley",
-      "Calvin",
-      "Zwingli",
-      "John Smith",
-      "Moody",
-      "Sinkley"
-    ],
-    "places": [
-      "Krefeld",
-      "Allemagne",
-      "Jérusalem",
-      "Israël",
-      "Vatican",
-      "Etats-Unis",
-      "Europe"
-    ],
-    "themes": [
-      "retour du Seigneur",
-      "semence de la Parole",
-      "ivraie et blé",
-      "interprétations du Message",
-      "paix mondiale",
-      "fidélité à la Parole"
-    ],
-    "feature_image": null,
-    "local_image": null,
-    "llm_cleaned": true,
-    "original": null,
-    "local_md": "markdown/cmpp/2004/video_01_2004.md",
-    "size_bytes": 8672,
-    "line_count": 85
+    "size_bytes": 9007,
+    "line_count": 92
   },
   {
     "source": "cmpp",
     "sermon_id": "lc55",
     "title": "Lettre Circulaire 55",
     "subtitle": "Février 2004",
-    "date": "2004-02",
+    "date": "2004-01",
     "year": 2004,
     "location": null,
     "preacher": "Ewald Frank",
@@ -91738,8 +91675,71 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/lc55.md",
-    "size_bytes": 92267,
-    "line_count": 671
+    "size_bytes": 92523,
+    "line_count": 450
+  },
+  {
+    "source": "cmpp",
+    "sermon_id": "video_01_2004",
+    "title": "Sommaire des rencontres, janvier 2004",
+    "subtitle": "Janvier 2004",
+    "date": "2004-01",
+    "year": 2004,
+    "location": "Krefeld",
+    "preacher": "Ewald Frank",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": "http://cmpp.ch/video_01_2004.pdf",
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": [
+      "Parole de Dieu",
+      "prophète William Branham",
+      "fin des temps",
+      "paix",
+      "fausses interprétations"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "Lettre circulaire de janvier 2004 dans laquelle frère Frank exhorte les croyants à demeurer fidèles à la Parole de Dieu restaurée par le prophète William Branham, en mettant en garde contre les fausses interprétations et les semences de l'ennemi semées dans le même champ. Il évoque les signes des temps, notamment les déclarations du pape sur la paix et la situation à Jérusalem, et rappelle que le blé reste toujours du blé.",
+    "persons": [
+      "Ewald Frank",
+      "William Branham",
+      "Jésus-Christ",
+      "Martin Luther",
+      "John Wesley",
+      "Calvin",
+      "Zwingli",
+      "John Smith",
+      "Moody",
+      "Sinkley"
+    ],
+    "places": [
+      "Krefeld",
+      "Allemagne",
+      "Jérusalem",
+      "Israël",
+      "Vatican",
+      "Etats-Unis",
+      "Europe"
+    ],
+    "themes": [
+      "retour du Seigneur",
+      "semence de la Parole",
+      "ivraie et blé",
+      "interprétations du Message",
+      "paix mondiale",
+      "fidélité à la Parole"
+    ],
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": true,
+    "original": null,
+    "local_md": "markdown/cmpp/2004/video_01_2004.md",
+    "size_bytes": 8854,
+    "line_count": 73
   },
   {
     "source": "cmpp",
@@ -91796,8 +91796,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_02_2004.md",
-    "size_bytes": 12504,
-    "line_count": 71
+    "size_bytes": 12719,
+    "line_count": 74
   },
   {
     "source": "cmpp",
@@ -91850,8 +91850,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_03_2004.md",
-    "size_bytes": 9238,
-    "line_count": 76
+    "size_bytes": 9404,
+    "line_count": 56
   },
   {
     "source": "cmpp",
@@ -91904,8 +91904,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_04_2004.md",
-    "size_bytes": 11314,
-    "line_count": 63
+    "size_bytes": 11513,
+    "line_count": 66
   },
   {
     "source": "cmpp",
@@ -91967,8 +91967,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_05_2004.md",
-    "size_bytes": 9034,
-    "line_count": 71
+    "size_bytes": 9218,
+    "line_count": 73
   },
   {
     "source": "cmpp",
@@ -92028,8 +92028,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_06_2004.md",
-    "size_bytes": 11183,
-    "line_count": 66
+    "size_bytes": 11381,
+    "line_count": 69
   },
   {
     "source": "cmpp",
@@ -92091,8 +92091,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_07_2004.md",
-    "size_bytes": 10464,
-    "line_count": 69
+    "size_bytes": 10665,
+    "line_count": 72
   },
   {
     "source": "cmpp",
@@ -92148,8 +92148,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_08_2004.md",
-    "size_bytes": 8910,
-    "line_count": 81
+    "size_bytes": 9126,
+    "line_count": 62
   },
   {
     "source": "cmpp",
@@ -92214,8 +92214,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_09_2004.md",
-    "size_bytes": 10379,
-    "line_count": 65
+    "size_bytes": 10581,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -92271,8 +92271,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_10_2004.md",
-    "size_bytes": 8348,
-    "line_count": 57
+    "size_bytes": 8562,
+    "line_count": 59
   },
   {
     "source": "cmpp",
@@ -92330,8 +92330,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_11_2004.md",
-    "size_bytes": 9784,
-    "line_count": 65
+    "size_bytes": 9983,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -92390,8 +92390,90 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2004/video_12_2004.md",
-    "size_bytes": 10098,
-    "line_count": 82
+    "size_bytes": 10305,
+    "line_count": 65
+  },
+  {
+    "source": "cmpp",
+    "sermon_id": "lc56",
+    "title": "Lettre Circulaire 56",
+    "subtitle": "Janvier 2005",
+    "date": "2005-01",
+    "year": 2005,
+    "location": null,
+    "preacher": "Ewald Frank",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": "http://cmpp.ch/lc56.pdf",
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": [
+      "Parole de Dieu",
+      "William Branham",
+      "Afrique",
+      "Baptême",
+      "Fin des temps"
+    ],
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": "Lettre circulaire d'Ewald Frank de janvier 2005, édition spéciale décisive, qui revient sur les voyages missionnaires en Afrique et l'œuvre de Dieu jusqu'à l'achèvement. Il souligne l'importance de la Parole de Dieu qui demeure éternellement, le ministère de William Branham comme prophète promis, et les deux signes de légitimation.",
+    "persons": [
+      "Ewald Frank",
+      "William Branham",
+      "Alexis Barilier",
+      "Jésus-Christ",
+      "Pierre",
+      "Paul",
+      "Moïse",
+      "Ésaïe",
+      "Jean-Baptiste",
+      "Abraham",
+      "Sara",
+      "Isaac"
+    ],
+    "places": [
+      "Krefeld",
+      "Indes",
+      "Soudan",
+      "Éthiopie",
+      "Kenya",
+      "Botswana",
+      "Afrique du Sud",
+      "Gabon",
+      "Angola",
+      "Congo-Brazzaville",
+      "République démocratique du Congo",
+      "Malawi",
+      "Zambie",
+      "Likasi",
+      "Kolwezi",
+      "Mbuji-Mayi",
+      "Lubumbashi",
+      "Kinshasa",
+      "Karlsruhe",
+      "Dallas",
+      "Zurich",
+      "Renens",
+      "Lausanne"
+    ],
+    "themes": [
+      "Parole éternelle",
+      "Ministère prophétique",
+      "Baptême au nom de Jésus",
+      "Réveil",
+      "Église-Épouse",
+      "Signes et miracles",
+      "Fin des temps"
+    ],
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": true,
+    "original": null,
+    "local_md": "markdown/cmpp/2005/lc56.md",
+    "size_bytes": 118137,
+    "line_count": 579
   },
   {
     "source": "cmpp",
@@ -92447,8 +92529,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_01_2005.md",
-    "size_bytes": 9165,
-    "line_count": 81
+    "size_bytes": 9335,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -92507,8 +92589,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_02_2005.md",
-    "size_bytes": 9614,
-    "line_count": 70
+    "size_bytes": 9889,
+    "line_count": 67
   },
   {
     "source": "cmpp",
@@ -92562,8 +92644,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_03_2005.md",
-    "size_bytes": 8205,
-    "line_count": 68
+    "size_bytes": 8499,
+    "line_count": 59
   },
   {
     "source": "cmpp",
@@ -92618,8 +92700,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_04_2005.md",
-    "size_bytes": 8604,
-    "line_count": 54
+    "size_bytes": 8783,
+    "line_count": 57
   },
   {
     "source": "cmpp",
@@ -92680,8 +92762,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/lc57.md",
-    "size_bytes": 44787,
-    "line_count": 168
+    "size_bytes": 44362,
+    "line_count": 211
   },
   {
     "source": "cmpp",
@@ -92743,8 +92825,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_05_2005.md",
-    "size_bytes": 8813,
-    "line_count": 83
+    "size_bytes": 8997,
+    "line_count": 72
   },
   {
     "source": "cmpp",
@@ -92800,8 +92882,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_06_2005.md",
-    "size_bytes": 8494,
-    "line_count": 61
+    "size_bytes": 8566,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -92856,8 +92938,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_07_2005.md",
-    "size_bytes": 8794,
-    "line_count": 78
+    "size_bytes": 8848,
+    "line_count": 69
   },
   {
     "source": "cmpp",
@@ -92921,8 +93003,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_08_2005.md",
-    "size_bytes": 8824,
-    "line_count": 72
+    "size_bytes": 9032,
+    "line_count": 73
   },
   {
     "source": "cmpp",
@@ -92990,8 +93072,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_09_2005.md",
-    "size_bytes": 9634,
-    "line_count": 77
+    "size_bytes": 9856,
+    "line_count": 80
   },
   {
     "source": "cmpp",
@@ -93048,8 +93130,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_10_2005.md",
-    "size_bytes": 8210,
-    "line_count": 69
+    "size_bytes": 8579,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -93110,8 +93192,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/lc58.md",
-    "size_bytes": 36143,
-    "line_count": 339
+    "size_bytes": 36709,
+    "line_count": 221
   },
   {
     "source": "cmpp",
@@ -93173,8 +93255,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_11_2005.md",
-    "size_bytes": 8588,
-    "line_count": 123
+    "size_bytes": 8737,
+    "line_count": 80
   },
   {
     "source": "cmpp",
@@ -93228,8 +93310,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2005/video_12_2005.md",
-    "size_bytes": 9060,
-    "line_count": 89
+    "size_bytes": 9240,
+    "line_count": 66
   },
   {
     "source": "cmpp",
@@ -93284,8 +93366,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_01_2006.md",
-    "size_bytes": 9008,
-    "line_count": 61
+    "size_bytes": 9207,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -93368,8 +93450,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/lc59.md",
-    "size_bytes": 91266,
-    "line_count": 643
+    "size_bytes": 90121,
+    "line_count": 408
   },
   {
     "source": "cmpp",
@@ -93428,8 +93510,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_02_2006.md",
-    "size_bytes": 8801,
-    "line_count": 74
+    "size_bytes": 9000,
+    "line_count": 77
   },
   {
     "source": "cmpp",
@@ -93551,8 +93633,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_03_2006.md",
-    "size_bytes": 8068,
-    "line_count": 63
+    "size_bytes": 8188,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -93620,8 +93702,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/lc60.md",
-    "size_bytes": 33076,
-    "line_count": 216
+    "size_bytes": 33094,
+    "line_count": 207
   },
   {
     "source": "cmpp",
@@ -93676,8 +93758,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_04_2006.md",
-    "size_bytes": 8741,
-    "line_count": 82
+    "size_bytes": 8815,
+    "line_count": 61
   },
   {
     "source": "cmpp",
@@ -93734,8 +93816,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_05_2006.md",
-    "size_bytes": 7335,
-    "line_count": 67
+    "size_bytes": 7488,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -93792,8 +93874,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_06_2006.md",
-    "size_bytes": 8010,
-    "line_count": 80
+    "size_bytes": 8336,
+    "line_count": 67
   },
   {
     "source": "cmpp",
@@ -93850,8 +93932,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_07_2006.md",
-    "size_bytes": 7533,
-    "line_count": 66
+    "size_bytes": 7616,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -93918,8 +94000,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_08_2006.md",
-    "size_bytes": 7699,
-    "line_count": 65
+    "size_bytes": 7854,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -93974,8 +94056,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_09_2006.md",
-    "size_bytes": 8967,
-    "line_count": 58
+    "size_bytes": 9171,
+    "line_count": 61
   },
   {
     "source": "cmpp",
@@ -94026,8 +94108,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_10_2006.md",
-    "size_bytes": 8404,
-    "line_count": 77
+    "size_bytes": 8598,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -94083,8 +94165,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2006/video_11_2006.md",
-    "size_bytes": 8560,
-    "line_count": 83
+    "size_bytes": 8763,
+    "line_count": 70
   },
   {
     "source": "cmpp",
@@ -94198,8 +94280,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_01_2007.md",
-    "size_bytes": 7949,
-    "line_count": 61
+    "size_bytes": 8156,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -94257,8 +94339,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/lc61.md",
-    "size_bytes": 65976,
-    "line_count": 737
+    "size_bytes": 65129,
+    "line_count": 373
   },
   {
     "source": "cmpp",
@@ -94318,8 +94400,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_02_2007.md",
-    "size_bytes": 8482,
-    "line_count": 65
+    "size_bytes": 8712,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -94380,8 +94462,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_03_2007.md",
-    "size_bytes": 8397,
-    "line_count": 71
+    "size_bytes": 8622,
+    "line_count": 72
   },
   {
     "source": "cmpp",
@@ -94444,8 +94526,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/lc62.md",
-    "size_bytes": 47743,
-    "line_count": 302
+    "size_bytes": 47897,
+    "line_count": 297
   },
   {
     "source": "cmpp",
@@ -94505,8 +94587,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_04_2007.md",
-    "size_bytes": 7830,
-    "line_count": 68
+    "size_bytes": 8044,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -94570,8 +94652,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_05_2007.md",
-    "size_bytes": 8423,
-    "line_count": 68
+    "size_bytes": 8737,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -94624,8 +94706,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_06_2007.md",
-    "size_bytes": 8097,
-    "line_count": 58
+    "size_bytes": 8303,
+    "line_count": 61
   },
   {
     "source": "cmpp",
@@ -94681,8 +94763,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_07_2007.md",
-    "size_bytes": 8496,
-    "line_count": 67
+    "size_bytes": 8695,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -94744,8 +94826,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_08_2007.md",
-    "size_bytes": 8951,
-    "line_count": 63
+    "size_bytes": 9157,
+    "line_count": 66
   },
   {
     "source": "cmpp",
@@ -94805,8 +94887,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_09_2007.md",
-    "size_bytes": 9003,
-    "line_count": 61
+    "size_bytes": 9220,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -94870,8 +94952,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_10_2007.md",
-    "size_bytes": 8571,
-    "line_count": 110
+    "size_bytes": 8925,
+    "line_count": 75
   },
   {
     "source": "cmpp",
@@ -94924,8 +95006,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_11_2007.md",
-    "size_bytes": 8673,
-    "line_count": 88
+    "size_bytes": 9081,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -94979,8 +95061,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/video_12_2007.md",
-    "size_bytes": 7993,
-    "line_count": 61
+    "size_bytes": 8206,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -95097,8 +95179,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_02_2008.md",
-    "size_bytes": 8095,
-    "line_count": 69
+    "size_bytes": 8305,
+    "line_count": 72
   },
   {
     "source": "cmpp",
@@ -95156,8 +95238,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_03_2008.md",
-    "size_bytes": 8186,
-    "line_count": 56
+    "size_bytes": 8387,
+    "line_count": 59
   },
   {
     "source": "cmpp",
@@ -95209,8 +95291,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_04_2008.md",
-    "size_bytes": 8283,
-    "line_count": 64
+    "size_bytes": 8481,
+    "line_count": 61
   },
   {
     "source": "cmpp",
@@ -95266,8 +95348,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_07_2008.md",
-    "size_bytes": 8100,
-    "line_count": 59
+    "size_bytes": 8304,
+    "line_count": 62
   },
   {
     "source": "cmpp",
@@ -95326,8 +95408,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_08_2008.md",
-    "size_bytes": 8298,
-    "line_count": 58
+    "size_bytes": 8505,
+    "line_count": 59
   },
   {
     "source": "cmpp",
@@ -95386,8 +95468,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_09_2008.md",
-    "size_bytes": 8305,
-    "line_count": 59
+    "size_bytes": 8620,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -95444,8 +95526,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_10_2008.md",
-    "size_bytes": 8422,
-    "line_count": 62
+    "size_bytes": 8619,
+    "line_count": 65
   },
   {
     "source": "cmpp",
@@ -95500,8 +95582,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_11_2008.md",
-    "size_bytes": 8245,
-    "line_count": 55
+    "size_bytes": 8584,
+    "line_count": 58
   },
   {
     "source": "cmpp",
@@ -95557,8 +95639,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/video_12_2008.md",
-    "size_bytes": 8091,
-    "line_count": 64
+    "size_bytes": 8426,
+    "line_count": 65
   },
   {
     "source": "cmpp",
@@ -95613,8 +95695,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_01_2009.md",
-    "size_bytes": 7989,
-    "line_count": 63
+    "size_bytes": 8218,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -95681,8 +95763,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_02_2009.md",
-    "size_bytes": 9066,
-    "line_count": 68
+    "size_bytes": 9122,
+    "line_count": 69
   },
   {
     "source": "cmpp",
@@ -95735,8 +95817,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_03_2009.md",
-    "size_bytes": 8736,
-    "line_count": 56
+    "size_bytes": 8961,
+    "line_count": 59
   },
   {
     "source": "cmpp",
@@ -95794,8 +95876,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_04_2009.md",
-    "size_bytes": 9201,
-    "line_count": 61
+    "size_bytes": 9400,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -95849,8 +95931,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_05_2009.md",
-    "size_bytes": 8865,
-    "line_count": 92
+    "size_bytes": 9041,
+    "line_count": 61
   },
   {
     "source": "cmpp",
@@ -95910,8 +95992,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_06_2009.md",
-    "size_bytes": 8571,
-    "line_count": 68
+    "size_bytes": 8800,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -95965,8 +96047,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_07_2009.md",
-    "size_bytes": 8572,
-    "line_count": 70
+    "size_bytes": 8787,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -96024,8 +96106,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_08_2009.md",
-    "size_bytes": 8401,
-    "line_count": 96
+    "size_bytes": 8652,
+    "line_count": 59
   },
   {
     "source": "cmpp",
@@ -96084,8 +96166,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_09_2009.md",
-    "size_bytes": 9170,
-    "line_count": 89
+    "size_bytes": 9353,
+    "line_count": 62
   },
   {
     "source": "cmpp",
@@ -96142,8 +96224,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_10_2009.md",
-    "size_bytes": 10943,
-    "line_count": 61
+    "size_bytes": 11021,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -96196,8 +96278,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_11_2009.md",
-    "size_bytes": 9158,
-    "line_count": 62
+    "size_bytes": 9373,
+    "line_count": 53
   },
   {
     "source": "cmpp",
@@ -96252,8 +96334,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/video_12_2009.md",
-    "size_bytes": 8619,
-    "line_count": 89
+    "size_bytes": 8841,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -96308,8 +96390,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_01_2010.md",
-    "size_bytes": 8928,
-    "line_count": 68
+    "size_bytes": 9120,
+    "line_count": 61
   },
   {
     "source": "cmpp",
@@ -96370,8 +96452,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_02_2010.md",
-    "size_bytes": 8887,
-    "line_count": 60
+    "size_bytes": 9096,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -96432,8 +96514,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_03_2010.md",
-    "size_bytes": 9401,
-    "line_count": 65
+    "size_bytes": 9613,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -96501,8 +96583,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_04_2010.md",
-    "size_bytes": 8954,
-    "line_count": 85
+    "size_bytes": 9307,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -96617,8 +96699,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_07_2010.md",
-    "size_bytes": 9623,
-    "line_count": 96
+    "size_bytes": 9978,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -96689,8 +96771,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_08_2010.md",
-    "size_bytes": 9485,
-    "line_count": 84
+    "size_bytes": 9222,
+    "line_count": 79
   },
   {
     "source": "cmpp",
@@ -96751,8 +96833,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_09_2010.md",
-    "size_bytes": 9213,
-    "line_count": 57
+    "size_bytes": 9420,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -96814,8 +96896,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_10_2010.md",
-    "size_bytes": 8519,
-    "line_count": 60
+    "size_bytes": 8714,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -96873,8 +96955,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_11_2010.md",
-    "size_bytes": 8853,
-    "line_count": 59
+    "size_bytes": 9167,
+    "line_count": 62
   },
   {
     "source": "cmpp",
@@ -96929,8 +97011,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/video_12_2010.md",
-    "size_bytes": 8089,
-    "line_count": 68
+    "size_bytes": 8402,
+    "line_count": 57
   },
   {
     "source": "cmpp",
@@ -96988,8 +97070,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_01_2011.md",
-    "size_bytes": 8638,
-    "line_count": 53
+    "size_bytes": 8109,
+    "line_count": 55
   },
   {
     "source": "cmpp",
@@ -97047,8 +97129,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_02_2011.md",
-    "size_bytes": 8510,
-    "line_count": 55
+    "size_bytes": 8623,
+    "line_count": 58
   },
   {
     "source": "cmpp",
@@ -97104,8 +97186,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_03_2011.md",
-    "size_bytes": 8870,
-    "line_count": 53
+    "size_bytes": 9084,
+    "line_count": 58
   },
   {
     "source": "cmpp",
@@ -97166,8 +97248,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_04_2011.md",
-    "size_bytes": 8548,
-    "line_count": 60
+    "size_bytes": 8755,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -97281,8 +97363,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_07_2011.md",
-    "size_bytes": 7401,
-    "line_count": 68
+    "size_bytes": 7608,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -97344,8 +97426,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_08_2011.md",
-    "size_bytes": 8908,
-    "line_count": 67
+    "size_bytes": 9104,
+    "line_count": 70
   },
   {
     "source": "cmpp",
@@ -97400,8 +97482,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_09_2011.md",
-    "size_bytes": 7692,
-    "line_count": 53
+    "size_bytes": 7891,
+    "line_count": 52
   },
   {
     "source": "cmpp",
@@ -97461,8 +97543,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_10_2011.md",
-    "size_bytes": 8670,
-    "line_count": 72
+    "size_bytes": 8871,
+    "line_count": 67
   },
   {
     "source": "cmpp",
@@ -97519,8 +97601,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_11_2011.md",
-    "size_bytes": 8238,
-    "line_count": 60
+    "size_bytes": 8436,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -97574,8 +97656,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/video_12_2011.md",
-    "size_bytes": 9885,
-    "line_count": 63
+    "size_bytes": 10093,
+    "line_count": 66
   },
   {
     "source": "cmpp",
@@ -97627,8 +97709,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_01_2012.md",
-    "size_bytes": 7785,
-    "line_count": 48
+    "size_bytes": 7988,
+    "line_count": 51
   },
   {
     "source": "cmpp",
@@ -97685,8 +97767,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_02_2012.md",
-    "size_bytes": 7934,
-    "line_count": 58
+    "size_bytes": 8262,
+    "line_count": 61
   },
   {
     "source": "cmpp",
@@ -97746,8 +97828,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_03_2012.md",
-    "size_bytes": 8989,
-    "line_count": 65
+    "size_bytes": 9185,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -97802,8 +97884,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_04_2012.md",
-    "size_bytes": 7738,
-    "line_count": 54
+    "size_bytes": 8077,
+    "line_count": 57
   },
   {
     "source": "cmpp",
@@ -97863,8 +97945,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_05_2012.md",
-    "size_bytes": 8104,
-    "line_count": 71
+    "size_bytes": 8203,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -97918,8 +98000,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_06_2012.md",
-    "size_bytes": 8732,
-    "line_count": 55
+    "size_bytes": 8935,
+    "line_count": 58
   },
   {
     "source": "cmpp",
@@ -97977,8 +98059,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_07_2012.md",
-    "size_bytes": 8515,
-    "line_count": 67
+    "size_bytes": 8724,
+    "line_count": 70
   },
   {
     "source": "cmpp",
@@ -98031,8 +98113,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_08_2012.md",
-    "size_bytes": 7632,
-    "line_count": 57
+    "size_bytes": 7843,
+    "line_count": 60
   },
   {
     "source": "cmpp",
@@ -98090,8 +98172,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_10_2012.md",
-    "size_bytes": 8656,
-    "line_count": 73
+    "size_bytes": 8848,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -98142,8 +98224,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_11_2012.md",
-    "size_bytes": 8146,
-    "line_count": 53
+    "size_bytes": 8356,
+    "line_count": 56
   },
   {
     "source": "cmpp",
@@ -98198,8 +98280,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/video_12_2012.md",
-    "size_bytes": 8722,
-    "line_count": 59
+    "size_bytes": 8941,
+    "line_count": 62
   },
   {
     "source": "cmpp",
@@ -98254,8 +98336,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_01_2013.md",
-    "size_bytes": 7463,
-    "line_count": 71
+    "size_bytes": 7662,
+    "line_count": 58
   },
   {
     "source": "cmpp",
@@ -98314,8 +98396,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_02_2013.md",
-    "size_bytes": 8928,
-    "line_count": 67
+    "size_bytes": 9123,
+    "line_count": 70
   },
   {
     "source": "cmpp",
@@ -98369,8 +98451,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_03_2013.md",
-    "size_bytes": 8279,
-    "line_count": 53
+    "size_bytes": 8481,
+    "line_count": 56
   },
   {
     "source": "cmpp",
@@ -98430,8 +98512,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_04_2013.md",
-    "size_bytes": 9749,
-    "line_count": 61
+    "size_bytes": 9947,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -98492,8 +98574,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_05_2013.md",
-    "size_bytes": 10024,
-    "line_count": 82
+    "size_bytes": 10240,
+    "line_count": 85
   },
   {
     "source": "cmpp",
@@ -98548,8 +98630,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_06_2013.md",
-    "size_bytes": 8832,
-    "line_count": 54
+    "size_bytes": 9051,
+    "line_count": 57
   },
   {
     "source": "cmpp",
@@ -98607,8 +98689,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_07_2013.md",
-    "size_bytes": 8806,
-    "line_count": 60
+    "size_bytes": 9026,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -98665,8 +98747,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_09_2013.md",
-    "size_bytes": 9524,
-    "line_count": 65
+    "size_bytes": 9717,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -98762,8 +98844,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_10_2013.md",
-    "size_bytes": 10582,
-    "line_count": 63
+    "size_bytes": 10792,
+    "line_count": 66
   },
   {
     "source": "cmpp",
@@ -98822,8 +98904,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_11_2013.md",
-    "size_bytes": 9902,
-    "line_count": 69
+    "size_bytes": 10242,
+    "line_count": 72
   },
   {
     "source": "cmpp",
@@ -98879,8 +98961,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_12_2013.md",
-    "size_bytes": 9978,
-    "line_count": 78
+    "size_bytes": 11319,
+    "line_count": 73
   },
   {
     "source": "cmpp",
@@ -98930,8 +99012,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_01_2014.md",
-    "size_bytes": 8325,
-    "line_count": 48
+    "size_bytes": 8526,
+    "line_count": 51
   },
   {
     "source": "cmpp",
@@ -98986,8 +99068,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_02_2014.md",
-    "size_bytes": 8632,
-    "line_count": 62
+    "size_bytes": 8725,
+    "line_count": 65
   },
   {
     "source": "cmpp",
@@ -99048,8 +99130,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_03_2014.md",
-    "size_bytes": 9942,
-    "line_count": 70
+    "size_bytes": 10003,
+    "line_count": 67
   },
   {
     "source": "cmpp",
@@ -99103,8 +99185,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_04_2014.md",
-    "size_bytes": 8613,
-    "line_count": 61
+    "size_bytes": 8833,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -99157,8 +99239,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_05_2014.md",
-    "size_bytes": 10232,
-    "line_count": 66
+    "size_bytes": 10307,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -99219,8 +99301,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_06_2014.md",
-    "size_bytes": 9855,
-    "line_count": 68
+    "size_bytes": 10049,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -99280,8 +99362,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_07_2014.md",
-    "size_bytes": 10066,
-    "line_count": 68
+    "size_bytes": 10269,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -99343,8 +99425,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_08_2014.md",
-    "size_bytes": 8996,
-    "line_count": 76
+    "size_bytes": 9195,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -99403,8 +99485,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_09_2014.md",
-    "size_bytes": 10524,
-    "line_count": 67
+    "size_bytes": 10751,
+    "line_count": 70
   },
   {
     "source": "cmpp",
@@ -99515,8 +99597,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_11_2014.md",
-    "size_bytes": 10068,
-    "line_count": 68
+    "size_bytes": 10146,
+    "line_count": 65
   },
   {
     "source": "cmpp",
@@ -99570,8 +99652,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/video_12_2014.md",
-    "size_bytes": 7826,
-    "line_count": 59
+    "size_bytes": 8037,
+    "line_count": 62
   },
   {
     "source": "cmpp",
@@ -99629,8 +99711,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_01_2015.md",
-    "size_bytes": 9372,
-    "line_count": 67
+    "size_bytes": 9569,
+    "line_count": 70
   },
   {
     "source": "cmpp",
@@ -99689,8 +99771,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_02_2015.md",
-    "size_bytes": 10875,
-    "line_count": 78
+    "size_bytes": 11061,
+    "line_count": 80
   },
   {
     "source": "cmpp",
@@ -99749,8 +99831,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_03_2015.md",
-    "size_bytes": 9227,
-    "line_count": 76
+    "size_bytes": 9286,
+    "line_count": 73
   },
   {
     "source": "cmpp",
@@ -99812,8 +99894,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_04_2015.md",
-    "size_bytes": 10725,
-    "line_count": 66
+    "size_bytes": 11113,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -99872,8 +99954,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_05_2015.md",
-    "size_bytes": 9274,
-    "line_count": 67
+    "size_bytes": 9466,
+    "line_count": 70
   },
   {
     "source": "cmpp",
@@ -99929,8 +100011,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_06_2015.md",
-    "size_bytes": 11448,
-    "line_count": 64
+    "size_bytes": 11648,
+    "line_count": 67
   },
   {
     "source": "cmpp",
@@ -100001,8 +100083,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_07_2015.md",
-    "size_bytes": 12253,
-    "line_count": 90
+    "size_bytes": 12452,
+    "line_count": 93
   },
   {
     "source": "cmpp",
@@ -100068,8 +100150,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_08_2015.md",
-    "size_bytes": 11127,
-    "line_count": 76
+    "size_bytes": 11324,
+    "line_count": 79
   },
   {
     "source": "cmpp",
@@ -100129,8 +100211,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_09_2015.md",
-    "size_bytes": 11969,
-    "line_count": 82
+    "size_bytes": 12163,
+    "line_count": 75
   },
   {
     "source": "cmpp",
@@ -100185,8 +100267,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_10_2015.md",
-    "size_bytes": 13364,
-    "line_count": 83
+    "size_bytes": 13564,
+    "line_count": 78
   },
   {
     "source": "cmpp",
@@ -100242,8 +100324,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_11_2015.md",
-    "size_bytes": 13272,
-    "line_count": 68
+    "size_bytes": 13458,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -100307,8 +100389,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/video_12_2015.md",
-    "size_bytes": 13066,
-    "line_count": 83
+    "size_bytes": 13507,
+    "line_count": 86
   },
   {
     "source": "cmpp",
@@ -100369,8 +100451,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_01_2016.md",
-    "size_bytes": 12948,
-    "line_count": 86
+    "size_bytes": 13173,
+    "line_count": 79
   },
   {
     "source": "cmpp",
@@ -100432,8 +100514,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_02_2016.md",
-    "size_bytes": 13647,
-    "line_count": 74
+    "size_bytes": 13823,
+    "line_count": 77
   },
   {
     "source": "cmpp",
@@ -100495,8 +100577,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_03_2016.md",
-    "size_bytes": 12974,
-    "line_count": 76
+    "size_bytes": 13172,
+    "line_count": 79
   },
   {
     "source": "cmpp",
@@ -100550,8 +100632,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_04_2016.md",
-    "size_bytes": 11810,
-    "line_count": 108
+    "size_bytes": 12011,
+    "line_count": 73
   },
   {
     "source": "cmpp",
@@ -100610,8 +100692,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_05_2016.md",
-    "size_bytes": 11854,
-    "line_count": 71
+    "size_bytes": 12094,
+    "line_count": 68
   },
   {
     "source": "cmpp",
@@ -100673,8 +100755,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_06_2016.md",
-    "size_bytes": 12124,
-    "line_count": 88
+    "size_bytes": 12312,
+    "line_count": 79
   },
   {
     "source": "cmpp",
@@ -100733,8 +100815,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_07_2016.md",
-    "size_bytes": 11351,
-    "line_count": 68
+    "size_bytes": 11552,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -100799,8 +100881,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_08_2016.md",
-    "size_bytes": 9629,
-    "line_count": 77
+    "size_bytes": 9957,
+    "line_count": 80
   },
   {
     "source": "cmpp",
@@ -100862,8 +100944,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_09_2016.md",
-    "size_bytes": 13420,
-    "line_count": 78
+    "size_bytes": 13621,
+    "line_count": 81
   },
   {
     "source": "cmpp",
@@ -100920,8 +101002,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_10_2016.md",
-    "size_bytes": 11703,
-    "line_count": 72
+    "size_bytes": 11908,
+    "line_count": 75
   },
   {
     "source": "cmpp",
@@ -100974,8 +101056,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_11_2016.md",
-    "size_bytes": 12424,
-    "line_count": 78
+    "size_bytes": 12635,
+    "line_count": 81
   },
   {
     "source": "cmpp",
@@ -101030,8 +101112,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/video_12_2016.md",
-    "size_bytes": 12381,
-    "line_count": 70
+    "size_bytes": 12580,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -101100,8 +101182,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_01_2017.md",
-    "size_bytes": 14253,
-    "line_count": 92
+    "size_bytes": 14459,
+    "line_count": 95
   },
   {
     "source": "cmpp",
@@ -101158,8 +101240,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_02_2017.md",
-    "size_bytes": 11579,
-    "line_count": 75
+    "size_bytes": 11781,
+    "line_count": 78
   },
   {
     "source": "cmpp",
@@ -101233,8 +101315,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_03_2017.md",
-    "size_bytes": 12450,
-    "line_count": 89
+    "size_bytes": 12870,
+    "line_count": 108
   },
   {
     "source": "cmpp",
@@ -101296,8 +101378,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_04_2017.md",
-    "size_bytes": 13890,
-    "line_count": 74
+    "size_bytes": 14086,
+    "line_count": 77
   },
   {
     "source": "cmpp",
@@ -101358,8 +101440,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_05_2017.md",
-    "size_bytes": 12721,
-    "line_count": 64
+    "size_bytes": 13010,
+    "line_count": 73
   },
   {
     "source": "cmpp",
@@ -101416,8 +101498,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_06_2017.md",
-    "size_bytes": 11147,
-    "line_count": 79
+    "size_bytes": 11316,
+    "line_count": 64
   },
   {
     "source": "cmpp",
@@ -101471,8 +101553,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_07_2017.md",
-    "size_bytes": 12100,
-    "line_count": 102
+    "size_bytes": 12299,
+    "line_count": 69
   },
   {
     "source": "cmpp",
@@ -101532,8 +101614,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_08_2017.md",
-    "size_bytes": 11651,
-    "line_count": 72
+    "size_bytes": 11870,
+    "line_count": 75
   },
   {
     "source": "cmpp",
@@ -101588,8 +101670,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_09_2017.md",
-    "size_bytes": 12129,
-    "line_count": 61
+    "size_bytes": 12191,
+    "line_count": 58
   },
   {
     "source": "cmpp",
@@ -101653,8 +101735,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_10_2017.md",
-    "size_bytes": 12540,
-    "line_count": 103
+    "size_bytes": 12692,
+    "line_count": 72
   },
   {
     "source": "cmpp",
@@ -101705,8 +101787,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_11_2017.md",
-    "size_bytes": 10497,
-    "line_count": 64
+    "size_bytes": 10715,
+    "line_count": 67
   },
   {
     "source": "cmpp",
@@ -101770,8 +101852,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2017/video_12_2017.md",
-    "size_bytes": 12912,
-    "line_count": 90
+    "size_bytes": 13108,
+    "line_count": 75
   },
   {
     "source": "cmpp",
@@ -101826,8 +101908,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_01_2018.md",
-    "size_bytes": 12136,
-    "line_count": 70
+    "size_bytes": 12318,
+    "line_count": 73
   },
   {
     "source": "cmpp",
@@ -101889,8 +101971,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_02_2018.md",
-    "size_bytes": 11741,
-    "line_count": 69
+    "size_bytes": 11935,
+    "line_count": 72
   },
   {
     "source": "cmpp",
@@ -101962,8 +102044,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_03_2018.md",
-    "size_bytes": 13382,
-    "line_count": 92
+    "size_bytes": 13638,
+    "line_count": 89
   },
   {
     "source": "cmpp",
@@ -102026,8 +102108,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_04_2018.md",
-    "size_bytes": 12250,
-    "line_count": 117
+    "size_bytes": 12563,
+    "line_count": 80
   },
   {
     "source": "cmpp",
@@ -102087,8 +102169,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_05_2018.md",
-    "size_bytes": 13064,
-    "line_count": 79
+    "size_bytes": 13263,
+    "line_count": 82
   },
   {
     "source": "cmpp",
@@ -102147,8 +102229,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_06_2018.md",
-    "size_bytes": 8567,
-    "line_count": 68
+    "size_bytes": 8777,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -102202,8 +102284,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_07_2018.md",
-    "size_bytes": 8297,
-    "line_count": 58
+    "size_bytes": 8496,
+    "line_count": 61
   },
   {
     "source": "cmpp",
@@ -102259,8 +102341,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_08_2018.md",
-    "size_bytes": 10195,
-    "line_count": 63
+    "size_bytes": 10394,
+    "line_count": 66
   },
   {
     "source": "cmpp",
@@ -102319,8 +102401,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_09_2018.md",
-    "size_bytes": 8895,
-    "line_count": 62
+    "size_bytes": 9242,
+    "line_count": 65
   },
   {
     "source": "cmpp",
@@ -102377,8 +102459,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_10_2018.md",
-    "size_bytes": 8750,
-    "line_count": 68
+    "size_bytes": 9060,
+    "line_count": 71
   },
   {
     "source": "cmpp",
@@ -102439,8 +102521,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_11_2018.md",
-    "size_bytes": 9140,
-    "line_count": 81
+    "size_bytes": 9441,
+    "line_count": 72
   },
   {
     "source": "cmpp",
@@ -102498,8 +102580,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/video_12_2018.md",
-    "size_bytes": 11161,
-    "line_count": 66
+    "size_bytes": 11361,
+    "line_count": 69
   },
   {
     "source": "cmpp",
@@ -102554,8 +102636,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2019/video_01_2019.md",
-    "size_bytes": 10560,
-    "line_count": 71
+    "size_bytes": 10759,
+    "line_count": 74
   },
   {
     "source": "cmpp",
@@ -102616,8 +102698,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2019/video_02_2019.md",
-    "size_bytes": 15038,
-    "line_count": 97
+    "size_bytes": 15241,
+    "line_count": 88
   },
   {
     "source": "cmpp",
@@ -102680,8 +102762,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2019/video_03_2019.md",
-    "size_bytes": 12948,
-    "line_count": 79
+    "size_bytes": 13141,
+    "line_count": 82
   },
   {
     "source": "cmpp",
@@ -102737,8 +102819,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2019/video_04_2019.md",
-    "size_bytes": 15798,
-    "line_count": 77
+    "size_bytes": 15862,
+    "line_count": 74
   },
   {
     "source": "cmpp",
@@ -102803,7 +102885,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'Ewald Frank en 2007 annonçant la publication de deux brochures de William Branham sur le site cmpp.ch. Il met en garde contre l'esprit religieux qui divise le peuple de Dieu et exhorte les croyants à s'attacher uniquement à la Parole de Dieu plutôt qu'aux paroles des serviteurs.",
     "persons": [
       "Ewald Frank",
@@ -102828,8 +102910,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/annee_2007.md",
-    "size_bytes": 6225,
-    "line_count": 62
+    "size_bytes": 6241,
+    "line_count": 63
   },
   {
     "source": "cmpp",
@@ -102855,7 +102937,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation de l'année 2007 annonçant la mise à disposition de deux brochures de frère Branham sur le site internet. L'auteur met en garde contre l'esprit religieux qui s'infiltre parmi le peuple de Dieu et appelle les croyants à se tenir uniquement à la Parole de Dieu plutôt qu'aux paroles d'un serviteur.",
     "persons": [
       "Ewald Frank",
@@ -102880,8 +102962,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2007/annee_2007_a5.md",
-    "size_bytes": 6477,
-    "line_count": 69
+    "size_bytes": 6493,
+    "line_count": 70
   },
   {
     "source": "cmpp",
@@ -102907,7 +102989,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour l'année 2008 appelant les croyants à servir le Seigneur de tout leur cœur, à rester vigilants et à n'adorer que Dieu seul, en s'appuyant sur Colossiens 3.23-24 et Apocalypse 22.8-9.",
     "persons": [
       "Jésus-Christ",
@@ -102928,8 +103010,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/annee_2008.md",
-    "size_bytes": 3036,
-    "line_count": 53
+    "size_bytes": 3052,
+    "line_count": 54
   },
   {
     "source": "cmpp",
@@ -102955,7 +103037,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour l'année 2008 appelant les croyants à servir le Seigneur de tout leur cœur, en restant vigilants et en n'adorant que Dieu seul, à l'exemple de l'apôtre Jean dans Apocalypse 22.8,9.",
     "persons": [
       "Jésus-Christ",
@@ -102978,8 +103060,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2008/annee_2008_a5.md",
-    "size_bytes": 3151,
-    "line_count": 52
+    "size_bytes": 3167,
+    "line_count": 53
   },
   {
     "source": "cmpp",
@@ -103005,7 +103087,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Exhortation pour la nouvelle année 2009, encourageant les croyants à ne pas regarder en arrière mais à persévérer dans la foi, en s'appuyant sur des exemples bibliques comme Israël sortant d'Égypte et la femme de Lot. L'auteur souligne l'importance de fixer les yeux sur Jésus-Christ et de courir vers le but de la vocation céleste.",
     "persons": [
       "Jésus-Christ",
@@ -103033,8 +103115,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/annee_2009.md",
-    "size_bytes": 6449,
-    "line_count": 76
+    "size_bytes": 6465,
+    "line_count": 77
   },
   {
     "source": "cmpp",
@@ -103060,7 +103142,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2009, appelant les croyants à ne pas regarder en arrière mais à persévérer dans la foi, en s'appuyant sur des exemples bibliques comme le peuple d'Israël et la femme de Lot. Elle encourage à fixer les yeux sur Jésus-Christ et à courir vers le but de la vocation céleste.",
     "persons": [
       "Jésus-Christ",
@@ -103087,8 +103169,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2009/annee_2009_a5.md",
-    "size_bytes": 6571,
-    "line_count": 76
+    "size_bytes": 6587,
+    "line_count": 77
   },
   {
     "source": "cmpp",
@@ -103114,7 +103196,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Exhortation pour la nouvelle année 2010, appelant les croyants à rechercher et accomplir la volonté de Dieu dans leur vie, à l'exemple de Jésus-Christ et de l'apôtre Paul. L'auteur souligne l'importance de se laisser guider par le Saint-Esprit et de ne pas confondre la volonté humaine avec la volonté divine.",
     "persons": [
       "Jésus-Christ",
@@ -103140,8 +103222,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/annee_2010.md",
-    "size_bytes": 6579,
-    "line_count": 81
+    "size_bytes": 6595,
+    "line_count": 82
   },
   {
     "source": "cmpp",
@@ -103167,7 +103249,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2010, appelant les croyants à rechercher et accomplir la volonté de Dieu dans leur vie et dans le Corps de Christ, à l'exemple de Jésus-Christ et du ministère de frère Branham. Elle souligne l'importance de se laisser conduire par l'Esprit et de s'examiner à la lumière de la Parole.",
     "persons": [
       "Jésus-Christ",
@@ -103194,8 +103276,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2010/annee_2010_a5.md",
-    "size_bytes": 6650,
-    "line_count": 84
+    "size_bytes": 6666,
+    "line_count": 85
   },
   {
     "source": "cmpp",
@@ -103221,7 +103303,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2011 appelant les croyants à l'humilité, à l'unité et à sortir des divisions dénominationnelles pour former l'Épouse de Christ sous la conduite du Saint-Esprit. Elle met en garde contre le fait de s'appuyer sur un ministère particulier plutôt que sur Christ, et encourage à porter les fruits de l'Esprit.",
     "persons": [
       "Jésus-Christ",
@@ -103251,8 +103333,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/annee_2011.md",
-    "size_bytes": 10937,
-    "line_count": 94
+    "size_bytes": 10953,
+    "line_count": 95
   },
   {
     "source": "cmpp",
@@ -103278,7 +103360,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour la nouvelle année 2011, appelant les croyants à l'humilité, à l'unité et à sortir des divisions charnelles pour former l'Épouse de Christ sous la conduite du Saint-Esprit. Elle met en garde contre le fait de s'appuyer sur un ministère particulier plutôt que sur le Seigneur, et encourage à porter les fruits de l'Esprit.",
     "persons": [
       "Jésus-Christ",
@@ -103310,8 +103392,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2011/annee_2011_a5.md",
-    "size_bytes": 11168,
-    "line_count": 97
+    "size_bytes": 11184,
+    "line_count": 98
   },
   {
     "source": "cmpp",
@@ -103337,7 +103419,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour l'année 2012 appelant les croyants à la persévérance face à l'accroissement de l'iniquité et au refroidissement de la charité, en demeurant fidèles à la Parole de Dieu. Elle encourage à porter des fruits de justice, à discerner la vérité et à vivre de la vie de Christ en attendant le retour du Seigneur.",
     "persons": [
       "Jésus-Christ",
@@ -103363,8 +103445,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/annee_2012.md",
-    "size_bytes": 10130,
-    "line_count": 117
+    "size_bytes": 10146,
+    "line_count": 118
   },
   {
     "source": "cmpp",
@@ -103390,7 +103472,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2012, appelant les croyants à la persévérance dans la foi face à l'accroissement de l'iniquité et au refroidissement de la charité, en attendant le retour du Seigneur. Elle encourage à vivre selon la Parole de Dieu et à porter des fruits de justice.",
     "persons": [
       "Jésus-Christ",
@@ -103417,8 +103499,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2012/annee_2012_a5.md",
-    "size_bytes": 10287,
-    "line_count": 119
+    "size_bytes": 10303,
+    "line_count": 120
   },
   {
     "source": "cmpp",
@@ -103444,7 +103526,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2013, appelant les croyants à un amour fraternel sincère, à éviter les jugements et les critiques, et à se consacrer entièrement au Seigneur Jésus dans la sincérité et la vérité.",
     "persons": [
       "Jésus-Christ",
@@ -103469,8 +103551,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/annee_2013.md",
-    "size_bytes": 10272,
-    "line_count": 120
+    "size_bytes": 10288,
+    "line_count": 121
   },
   {
     "source": "cmpp",
@@ -103496,7 +103578,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Cette lettre circulaire exhorte les croyants à manifester un amour fraternel sincère, en s'appuyant sur 1 Jean 3.11-18 et d'autres passages. Elle souligne l'importance de la bonté fraternelle, de la sincérité et de l'unité dans l'Esprit, tout en mettant en garde contre l'hypocrisie et le jugement. L'auteur rappelle que l'amour fraternel est essentiel pour la préparation de l'Épouse et l'entrée des derniers païens dans le royaume.",
     "persons": [
       "Jésus-Christ",
@@ -103522,8 +103604,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/annee_2013_a5.md",
-    "size_bytes": 10438,
-    "line_count": 102
+    "size_bytes": 10454,
+    "line_count": 103
   },
   {
     "source": "cmpp",
@@ -103549,7 +103631,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2014, mettant en garde contre l'orgueil et appelant à l'humilité, en s'appuyant sur des passages bibliques. Elle mentionne le décès du serviteur Alexis Barilier comme exemple d'humilité.",
     "persons": [
       "Jésus-Christ",
@@ -103580,8 +103662,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/annee_2014.md",
-    "size_bytes": 9890,
-    "line_count": 97
+    "size_bytes": 9906,
+    "line_count": 98
   },
   {
     "source": "cmpp",
@@ -103607,7 +103689,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Cette lettre circulaire exhorte les croyants à revêtir l'humilité pour l'année 2014, en mettant en garde contre l'orgueil qui caractérise les derniers temps. Elle cite de nombreux passages bibliques pour illustrer les conséquences de l'orgueil et l'importance de l'humilité, et rend hommage au serviteur Alexis Barilier.",
     "persons": [
       "Ewald Frank",
@@ -103639,8 +103721,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2014/annee_2014_a5.md",
-    "size_bytes": 10110,
-    "line_count": 101
+    "size_bytes": 10126,
+    "line_count": 102
   },
   {
     "source": "cmpp",
@@ -103666,7 +103748,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2015 mettant en garde contre le fait de s'ingérer dans les affaires d'autrui, la médisance, la calomnie et les faux frères. L'auteur encourage les croyants à s'occuper de leurs propres affaires et des affaires de Dieu, en s'appuyant sur 1 Pierre 4.15-17 et d'autres passages bibliques.",
     "persons": [
       "Jésus-Christ",
@@ -103696,8 +103778,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/annee_2015.md",
-    "size_bytes": 10060,
-    "line_count": 102
+    "size_bytes": 10076,
+    "line_count": 103
   },
   {
     "source": "cmpp",
@@ -103723,7 +103805,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2015, mettant en garde contre le fait de s'ingérer dans les affaires d'autrui, la médisance et la calomnie, et encourageant les croyants à s'occuper de leurs propres affaires et de celles de Dieu.",
     "persons": [
       "Ewald Frank",
@@ -103755,8 +103837,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2015/annee_2015_a5.md",
-    "size_bytes": 9960,
-    "line_count": 111
+    "size_bytes": 9976,
+    "line_count": 112
   },
   {
     "source": "cmpp",
@@ -103782,7 +103864,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2016, appelant les croyants à demeurer fermes dans la liberté que Christ a acquise, à ne pas se remettre sous le joug de la servitude, et à éviter les faux enseignements et les jougs étrangers comme l'attachement à des hommes ou à des lieux.",
     "persons": [
       "Jésus-Christ",
@@ -103815,8 +103897,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/annee_2016.md",
-    "size_bytes": 11599,
-    "line_count": 155
+    "size_bytes": 11615,
+    "line_count": 156
   },
   {
     "source": "cmpp",
@@ -103842,7 +103924,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour la nouvelle année 2016, appelant les croyants à demeurer fermes dans la liberté que Christ nous a acquise et à ne pas se remettre sous un joug de servitude. Elle met en garde contre les faux docteurs, les jougs étrangers (loi, dénominations, attachement à des hommes ou lieux) et encourage à porter uniquement le joug léger de Jésus-Christ.",
     "persons": [
       "Jésus-Christ",
@@ -103879,8 +103961,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2016/annee_2016_a5.md",
-    "size_bytes": 12009,
-    "line_count": 118
+    "size_bytes": 12025,
+    "line_count": 119
   },
   {
     "source": "cmpp",
@@ -103906,7 +103988,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2018, appelant les croyants à la douceur et à l'humilité selon Matthieu 11.28-30. Elle contraste la douceur avec la dureté et encourage à manifester le fruit de l'Esprit dans l'Église et la famille.",
     "persons": [
       "Jésus-Christ",
@@ -103933,8 +104015,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/annee_2018.md",
-    "size_bytes": 11439,
-    "line_count": 112
+    "size_bytes": 11455,
+    "line_count": 113
   },
   {
     "source": "cmpp",
@@ -103960,7 +104042,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour la nouvelle année 2018, centrée sur l'invitation de Jésus à venir à Lui pour trouver le repos, et sur les vertus de douceur et d'humilité que les croyants doivent manifester. Elle met en garde contre la dureté et encourage à marcher d'une manière digne de l'Évangile en vue du retour prochain de Christ.",
     "persons": [
       "Jésus-Christ",
@@ -103987,8 +104069,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2018/annee_2018_a5.md",
-    "size_bytes": 11718,
-    "line_count": 117
+    "size_bytes": 11734,
+    "line_count": 118
   },
   {
     "source": "cmpp",
@@ -104014,7 +104096,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2019, appelant les croyants à demeurer sur le chemin étroit, à se préparer pour le retour de Christ, et à discerner le bien du mal par la Parole de Dieu. Elle met en garde contre les scandales, les faux apôtres et les œuvres de la chair, tout en encourageant à porter les fruits de l'Esprit.",
     "persons": [
       "Ewald Frank",
@@ -104046,8 +104128,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2019/annee_2019.md",
-    "size_bytes": 17293,
-    "line_count": 132
+    "size_bytes": 17309,
+    "line_count": 133
   },
   {
     "source": "cmpp",
@@ -104073,7 +104155,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour la nouvelle année 2019, appelant les croyants à demeurer sur le chemin étroit de la vie éternelle, à se préparer pour l'enlèvement de l'Épouse de Christ et à discerner le bien du mal à la lumière de la Parole de Dieu. Elle met en garde contre les faux apôtres, les scandales et les œuvres de la chair qui excluent du Royaume de Dieu, et encourage à porter les fruits de l'Esprit.",
     "persons": [
       "Ewald Frank",
@@ -104105,8 +104187,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2019/annee_2019_a5.md",
-    "size_bytes": 17138,
-    "line_count": 142
+    "size_bytes": 17154,
+    "line_count": 143
   },
   {
     "source": "cmpp",
@@ -104132,7 +104214,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Cette lettre circulaire pour l'année 2020 exhorte les croyants à persévérer sur le chemin étroit, à discerner les véritables ministères suscités par Dieu, à éviter à la fois la révolte contre l'autorité et l'idolâtrie des serviteurs, et à manifester l'unité du Corps de Christ dans l'amour fraternel.",
     "persons": [
       "Ewald Frank",
@@ -104161,8 +104243,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2020/annee_2020.md",
-    "size_bytes": 23947,
-    "line_count": 334
+    "size_bytes": 23963,
+    "line_count": 335
   },
   {
     "source": "cmpp",
@@ -104188,7 +104270,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2020, appelant les croyants à l'unité, à la persévérance et à la mise en garde contre les fausses doctrines et les divisions dans le Corps de Christ. Elle souligne l'importance de suivre la Parole de Dieu et de respecter les ministères établis par Dieu.",
     "persons": [
       "Ewald Frank",
@@ -104230,8 +104312,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2020/annee_2020_a5.md",
-    "size_bytes": 24083,
-    "line_count": 151
+    "size_bytes": 24099,
+    "line_count": 152
   },
   {
     "source": "cmpp",
@@ -104289,8 +104371,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/brl.md",
-    "size_bytes": 88263,
-    "line_count": 601
+    "size_bytes": 88370,
+    "line_count": 410
   },
   {
     "source": "cmpp",
@@ -104349,8 +104431,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/christ_et_son_eglise.md",
-    "size_bytes": 125004,
-    "line_count": 1017
+    "size_bytes": 123876,
+    "line_count": 718
   },
   {
     "source": "cmpp",
@@ -104405,8 +104487,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1985/christianisme.md",
-    "size_bytes": 93251,
-    "line_count": 804
+    "size_bytes": 93297,
+    "line_count": 399
   },
   {
     "source": "cmpp",
@@ -104467,8 +104549,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/commencement.md",
-    "size_bytes": 196620,
-    "line_count": 2174
+    "size_bytes": 194537,
+    "line_count": 931
   },
   {
     "source": "cmpp",
@@ -104524,8 +104606,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/coronavirus_A4.md",
-    "size_bytes": 14522,
-    "line_count": 118
+    "size_bytes": 14853,
+    "line_count": 121
   },
   {
     "source": "cmpp",
@@ -104641,8 +104723,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/eden.md",
-    "size_bytes": 38690,
-    "line_count": 250
+    "size_bytes": 38435,
+    "line_count": 238
   },
   {
     "source": "cmpp",
@@ -104668,7 +104750,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour l'année 2021 appelant les croyants à être de véritables témoins de Jésus-Christ, à se soumettre à la Parole de Dieu et à discerner les vrais et faux témoignages, en vue du retour proche du Seigneur.",
     "persons": [
       "Jésus-Christ",
@@ -104703,8 +104785,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2021/exhortation_annee_2021.md",
-    "size_bytes": 22517,
-    "line_count": 149
+    "size_bytes": 22533,
+    "line_count": 150
   },
   {
     "source": "cmpp",
@@ -104730,7 +104812,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2021, appelant les croyants à être de véritables témoins de Jésus-Christ dans un monde marqué par la pandémie et les persécutions. Elle met en garde contre les faux témoignages et encourage à manifester les fruits de l'Esprit et l'amour fraternel.",
     "persons": [
       "Jésus-Christ",
@@ -104765,8 +104847,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A4_gc.md",
-    "size_bytes": 22963,
-    "line_count": 150
+    "size_bytes": 22979,
+    "line_count": 151
   },
   {
     "source": "cmpp",
@@ -104792,7 +104874,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2021, appelant les croyants à être de véritables témoins de Jésus-Christ dans un monde marqué par la pandémie, les persécutions et les faux témoignages. Elle encourage à la fidélité à la Parole de Dieu, à l'amour fraternel et à la préparation pour le retour du Seigneur.",
     "persons": [
       "Jésus-Christ",
@@ -104826,8 +104908,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A5.md",
-    "size_bytes": 23119,
-    "line_count": 151
+    "size_bytes": 23135,
+    "line_count": 152
   },
   {
     "source": "cmpp",
@@ -104853,7 +104935,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2021, appelant les croyants à être de véritables témoins de Jésus-Christ, à se soumettre à la Parole de Dieu et à discerner les vrais et faux témoignages, en vue du retour proche du Seigneur.",
     "persons": [
       "Jésus-Christ",
@@ -104893,8 +104975,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2021/exhortation_annee_2021_A5_gc.md",
-    "size_bytes": 22859,
-    "line_count": 161
+    "size_bytes": 22875,
+    "line_count": 162
   },
   {
     "source": "cmpp",
@@ -104920,7 +105002,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2022, encourageant les croyants à persévérer dans la foi et l'amour fraternel, en s'appuyant sur les promesses bibliques et la présence de Dieu (Emmanuel) au milieu de Son peuple. Elle met en garde contre les disputes et l'illusion des dons sans la charité, et appelle à manifester l'amour de Dieu dans un monde éprouvé par l'épidémie.",
     "persons": [
       "Jésus-Christ",
@@ -104948,8 +105030,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2022/exhortation_annee_2022.md",
-    "size_bytes": 11467,
-    "line_count": 102
+    "size_bytes": 11483,
+    "line_count": 103
   },
   {
     "source": "cmpp",
@@ -104975,7 +105057,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire pour l'année 2022, exhortant les croyants à persévérer dans la foi et l'amour fraternel, en s'appuyant sur la promesse que Dieu est avec nous (Emmanuel). L'auteur rappelle l'importance de l'obéissance aux commandements et de l'amour mutuel comme témoignage au monde, face aux épreuves et à l'iniquité croissante.",
     "persons": [
       "Jésus-Christ",
@@ -105000,8 +105082,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A4_gc.md",
-    "size_bytes": 11560,
-    "line_count": 83
+    "size_bytes": 11576,
+    "line_count": 84
   },
   {
     "source": "cmpp",
@@ -105027,7 +105109,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Cette lettre circulaire pour l'année 2022 exhorte les croyants à marcher dans l'amour et l'obéissance à Dieu, en s'appuyant sur la promesse qu'Il est avec nous. Elle rappelle l'importance de l'amour fraternel comme témoignage au monde et met en garde contre la recherche de dons spirituels sans la révélation de la Parole.",
     "persons": [
       "Jésus-Christ",
@@ -105050,8 +105132,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A5.md",
-    "size_bytes": 11497,
-    "line_count": 98
+    "size_bytes": 11513,
+    "line_count": 99
   },
   {
     "source": "cmpp",
@@ -105077,7 +105159,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire pour l'année 2022, exhortant les croyants à persévérer dans la foi et l'amour fraternel, en s'appuyant sur la promesse de la présence de Dieu (Emmanuel) et en rejetant les disputes de mots. L'auteur rappelle l'importance de l'obéissance aux commandements et de l'amour comme accomplissement de la loi, face aux épreuves et aux fausses manifestations spirituelles.",
     "persons": [
       "Jésus-Christ",
@@ -105102,8 +105184,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2022/exhortation_annee_2022_A5_gc.md",
-    "size_bytes": 11774,
-    "line_count": 101
+    "size_bytes": 11790,
+    "line_count": 102
   },
   {
     "source": "cmpp",
@@ -105129,7 +105211,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2023, encourageant les croyants à persévérer dans la préparation de l'Épouse de Christ, à vivre en régénérés par la Parole et l'Esprit, et à garder l'espérance vivante de l'héritage céleste et du retour du Seigneur.",
     "persons": [
       "Jésus-Christ",
@@ -105160,8 +105242,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2023/exhortation_annee_2023.md",
-    "size_bytes": 11880,
-    "line_count": 85
+    "size_bytes": 11896,
+    "line_count": 86
   },
   {
     "source": "cmpp",
@@ -105187,7 +105269,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour la nouvelle année 2023, centrée sur l'espérance vivante des croyants régénérés par la résurrection de Jésus-Christ. L'auteur encourage à la préparation de l'Épouse de Christ dans la sainteté et l'unité, en vue de l'enlèvement, tout en évoquant les événements mondiaux actuels comme signes des derniers temps.",
     "persons": [
       "Jésus-Christ",
@@ -105216,8 +105298,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A4_gc.md",
-    "size_bytes": 12073,
-    "line_count": 83
+    "size_bytes": 12089,
+    "line_count": 84
   },
   {
     "source": "cmpp",
@@ -105243,7 +105325,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour la nouvelle année 2023, adressée aux croyants, les encourageant à persévérer dans la préparation de l'Épouse de Jésus-Christ. Elle souligne l'espérance vivante, l'héritage céleste et la nécessité de la régénération, tout en évoquant les événements mondiaux comme signes des derniers temps.",
     "persons": [
       "Jésus-Christ",
@@ -105271,8 +105353,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A5.md",
-    "size_bytes": 12236,
-    "line_count": 89
+    "size_bytes": 12252,
+    "line_count": 90
   },
   {
     "source": "cmpp",
@@ -105298,7 +105380,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire pour la nouvelle année 2023, exhortant les croyants à persévérer dans la préparation de l'Épouse de Jésus-Christ, à se séparer de la pensée du monde et à vivre selon la Parole de Dieu, en vue de l'enlèvement et de l'héritage céleste.",
     "persons": [
       "Jésus-Christ",
@@ -105324,8 +105406,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2023/exhortation_annee_2023_A5_gc.md",
-    "size_bytes": 12143,
-    "line_count": 85
+    "size_bytes": 12159,
+    "line_count": 86
   },
   {
     "source": "cmpp",
@@ -105351,7 +105433,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2024 appelant les croyants à la vigilance face aux événements eschatologiques, notamment la guerre en Israël, et à la restauration du premier amour pour Christ. Elle met en garde contre les querelles internes et les fausses interprétations, et encourage à l'unité et à la persévérance en vue de l'enlèvement de l'Épouse de Christ.",
     "persons": [
       "Jésus-Christ",
@@ -105379,8 +105461,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A4.md",
-    "size_bytes": 12449,
-    "line_count": 82
+    "size_bytes": 12465,
+    "line_count": 83
   },
   {
     "source": "cmpp",
@@ -105406,7 +105488,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2024, appelant les croyants à l'unité et à l'amour pour Christ face aux événements eschatologiques et aux conflits actuels, notamment en Israël. Elle encourage à la persévérance et à la préparation de l'Épouse de Christ.",
     "persons": [
       "Jésus-Christ",
@@ -105433,8 +105515,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A4_gc.md",
-    "size_bytes": 12379,
-    "line_count": 81
+    "size_bytes": 12395,
+    "line_count": 82
   },
   {
     "source": "cmpp",
@@ -105460,7 +105542,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Cette lettre circulaire de 2024 exhorte les croyants à revenir à l'amour pour le Seigneur Jésus-Christ, à éviter les querelles et les interprétations religieuses, et à se préparer pour le retour du Seigneur. Elle souligne l'importance de la persévérance et de la restauration du premier amour, en s'appuyant sur les Écritures et les événements actuels en Israël.",
     "persons": [
       "Jésus-Christ",
@@ -105485,8 +105567,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A5.md",
-    "size_bytes": 12368,
-    "line_count": 79
+    "size_bytes": 12384,
+    "line_count": 80
   },
   {
     "source": "cmpp",
@@ -105512,7 +105594,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire d'exhortation pour l'année 2024, appelant les croyants à la persévérance et à l'unité dans l'amour du Christ face aux événements eschatologiques. L'auteur souligne l'importance de la restauration du premier amour et de la préparation de l'Épouse de Christ, en s'appuyant sur les Écritures et les prophéties bibliques.",
     "persons": [
       "Jésus-Christ",
@@ -105540,8 +105622,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2024/exhortation_annee_2024_A5_gc.md",
-    "size_bytes": 12620,
-    "line_count": 88
+    "size_bytes": 12636,
+    "line_count": 89
   },
   {
     "source": "cmpp",
@@ -105567,7 +105649,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire pour l'année 2025, exhortant les croyants à persévérer dans la foi malgré les conflits mondiaux et le départ du serviteur Ewald Frank, en se préparant pour le retour du Seigneur et en portant les fruits de l'Esprit.",
     "persons": [
       "Ewald Frank",
@@ -105593,8 +105675,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A4.md",
-    "size_bytes": 12830,
-    "line_count": 99
+    "size_bytes": 12846,
+    "line_count": 100
   },
   {
     "source": "cmpp",
@@ -105620,7 +105702,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire pour l'année 2025, exhortant les croyants à persévérer dans la foi, à se préparer pour le retour du Seigneur, et à porter les fruits de l'Esprit, malgré les conflits mondiaux et les départs de serviteurs fidèles.",
     "persons": [
       "Ewald Frank",
@@ -105647,8 +105729,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A4_gc.md",
-    "size_bytes": 12917,
-    "line_count": 103
+    "size_bytes": 12933,
+    "line_count": 104
   },
   {
     "source": "cmpp",
@@ -105674,7 +105756,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre d'exhortation pour l'année 2025 adressée aux croyants, les encourageant à rester fermes dans la foi face aux conflits mondiaux et aux signes des temps. Elle rappelle que notre absolu est Jésus-Christ et non un homme, et insiste sur la nécessité de porter du fruit de l'Esprit et de se préparer pour le retour du Seigneur.",
     "persons": [
       "Ewald Frank",
@@ -105701,8 +105783,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A5.md",
-    "size_bytes": 12933,
-    "line_count": 107
+    "size_bytes": 12949,
+    "line_count": 108
   },
   {
     "source": "cmpp",
@@ -105728,7 +105810,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire pour l'année 2025, exhortant les croyants à persévérer dans la foi malgré les conflits mondiaux et le départ du serviteur Ewald Frank, en se concentrant sur la Parole et l'amour de Christ.",
     "persons": [
       "Jésus-Christ",
@@ -105755,8 +105837,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2025/exhortation_annee_2025_A5_gc.md",
-    "size_bytes": 12922,
-    "line_count": 106
+    "size_bytes": 12938,
+    "line_count": 107
   },
   {
     "source": "cmpp",
@@ -105783,7 +105865,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Cette exhortation pour l'année 2026 rappelle les promesses de Dieu et l'importance de s'examiner dans le miroir de la Parole. Elle souligne la nécessité de vivre selon l'Esprit, d'accepter les ministères établis dans l'âge de Laodicée, et d'attendre patiemment le retour de Jésus-Christ, à l'exemple de Job et des vierges sages.",
     "persons": [
       "Ewald Frank",
@@ -105814,8 +105896,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A4.md",
-    "size_bytes": 11326,
-    "line_count": 89
+    "size_bytes": 11342,
+    "line_count": 90
   },
   {
     "source": "cmpp",
@@ -105841,7 +105923,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "L'exhortation pour l'année 2026 rappelle la souveraineté de Dieu et l'accomplissement des prophéties. Elle encourage les croyants à s'examiner dans le miroir de la Parole, à marcher selon l'Esprit, et à persévérer dans la foi en attendant le retour de Christ, en s'inspirant de la patience de Job et de la différence entre les vierges sages et folles.",
     "persons": [
       "Ewald Frank",
@@ -105871,8 +105953,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A4_gc.md",
-    "size_bytes": 11388,
-    "line_count": 88
+    "size_bytes": 11404,
+    "line_count": 89
   },
   {
     "source": "cmpp",
@@ -105898,7 +105980,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Cette lettre circulaire exhorte les croyants à persévérer dans la foi en regardant à l'exemple de Job, à s'examiner dans le miroir de la Parole et à accepter tous les ministères établis par l'Esprit pour l'âge de Laodicée, en vue du retour de Christ et de la formation de l'Épouse.",
     "persons": [
       "Job",
@@ -105921,8 +106003,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A5.md",
-    "size_bytes": 10913,
-    "line_count": 80
+    "size_bytes": 10929,
+    "line_count": 81
   },
   {
     "source": "cmpp",
@@ -105949,7 +106031,7 @@
     ],
     "authors": null,
     "type": null,
-    "status": null,
+    "status": "draft",
     "summary": "Lettre circulaire pour l'année 2026, exhortant les croyants à se souvenir des promesses de Dieu et à s'examiner dans le miroir de la Parole, en vue du retour du Seigneur et de la préparation de l'Épouse.",
     "persons": [
       "Job",
@@ -105979,8 +106061,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2026/exhortation_annee_2026_A5_gc.md",
-    "size_bytes": 11395,
-    "line_count": 95
+    "size_bytes": 11411,
+    "line_count": 96
   },
   {
     "source": "cmpp",
@@ -106036,8 +106118,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/grace_verite_A4.md",
-    "size_bytes": 17735,
-    "line_count": 96
+    "size_bytes": 18360,
+    "line_count": 92
   },
   {
     "source": "cmpp",
@@ -106154,8 +106236,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/harry_potter.md",
-    "size_bytes": 16323,
-    "line_count": 129
+    "size_bytes": 16504,
+    "line_count": 135
   },
   {
     "source": "cmpp",
@@ -106218,8 +106300,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/honore_tes_parents.md",
-    "size_bytes": 23134,
-    "line_count": 289
+    "size_bytes": 23109,
+    "line_count": 177
   },
   {
     "source": "cmpp",
@@ -106343,8 +106425,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/impact.md",
-    "size_bytes": 86041,
-    "line_count": 1145
+    "size_bytes": 84847,
+    "line_count": 465
   },
   {
     "source": "cmpp",
@@ -106403,8 +106485,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/information_globale.md",
-    "size_bytes": 88203,
-    "line_count": 751
+    "size_bytes": 87870,
+    "line_count": 379
   },
   {
     "source": "cmpp",
@@ -106472,8 +106554,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/islam.md",
-    "size_bytes": 45886,
-    "line_count": 184
+    "size_bytes": 46016,
+    "line_count": 170
   },
   {
     "source": "cmpp",
@@ -106537,8 +106619,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1978/l_indicateur.md",
-    "size_bytes": 36828,
-    "line_count": 251
+    "size_bytes": 36791,
+    "line_count": 231
   },
   {
     "source": "cmpp",
@@ -106608,8 +106690,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/la_priere.md",
-    "size_bytes": 56365,
-    "line_count": 605
+    "size_bytes": 57990,
+    "line_count": 273
   },
   {
     "source": "cmpp",
@@ -106685,88 +106767,6 @@
   },
   {
     "source": "cmpp",
-    "sermon_id": "lc56",
-    "title": "Lettre Circulaire 56",
-    "subtitle": "Janvier 2005",
-    "date": null,
-    "year": 2005,
-    "location": null,
-    "preacher": "Ewald Frank",
-    "duration": null,
-    "source_url": null,
-    "pdf_url": "http://cmpp.ch/lc56.pdf",
-    "audio_url": null,
-    "mevar_match": null,
-    "aliases": null,
-    "tags": [
-      "Parole de Dieu",
-      "William Branham",
-      "Afrique",
-      "Baptême",
-      "Fin des temps"
-    ],
-    "authors": null,
-    "type": null,
-    "status": null,
-    "summary": "Lettre circulaire d'Ewald Frank de janvier 2005, édition spéciale décisive, qui revient sur les voyages missionnaires en Afrique et l'œuvre de Dieu jusqu'à l'achèvement. Il souligne l'importance de la Parole de Dieu qui demeure éternellement, le ministère de William Branham comme prophète promis, et les deux signes de légitimation.",
-    "persons": [
-      "Ewald Frank",
-      "William Branham",
-      "Alexis Barilier",
-      "Jésus-Christ",
-      "Pierre",
-      "Paul",
-      "Moïse",
-      "Ésaïe",
-      "Jean-Baptiste",
-      "Abraham",
-      "Sara",
-      "Isaac"
-    ],
-    "places": [
-      "Krefeld",
-      "Indes",
-      "Soudan",
-      "Éthiopie",
-      "Kenya",
-      "Botswana",
-      "Afrique du Sud",
-      "Gabon",
-      "Angola",
-      "Congo-Brazzaville",
-      "République démocratique du Congo",
-      "Malawi",
-      "Zambie",
-      "Likasi",
-      "Kolwezi",
-      "Mbuji-Mayi",
-      "Lubumbashi",
-      "Kinshasa",
-      "Karlsruhe",
-      "Dallas",
-      "Zurich",
-      "Renens",
-      "Lausanne"
-    ],
-    "themes": [
-      "Parole éternelle",
-      "Ministère prophétique",
-      "Baptême au nom de Jésus",
-      "Réveil",
-      "Église-Épouse",
-      "Signes et miracles",
-      "Fin des temps"
-    ],
-    "feature_image": null,
-    "local_image": null,
-    "llm_cleaned": true,
-    "original": null,
-    "local_md": "markdown/cmpp/2005/lc56.md",
-    "size_bytes": 118516,
-    "line_count": 811
-  },
-  {
-    "source": "cmpp",
     "sermon_id": "le_bapteme_une_question_importante",
     "title": "Le Baptême? Une Question Importante!",
     "subtitle": null,
@@ -106828,8 +106828,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/le_bapteme_une_question_importante.md",
-    "size_bytes": 16474,
-    "line_count": 159
+    "size_bytes": 16417,
+    "line_count": 172
   },
   {
     "source": "cmpp",
@@ -106942,8 +106942,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/le_chemin_qui_mene_a_dieu.md",
-    "size_bytes": 23932,
-    "line_count": 109
+    "size_bytes": 25088,
+    "line_count": 135
   },
   {
     "source": "cmpp",
@@ -107015,8 +107015,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/le_jeune.md",
-    "size_bytes": 34849,
-    "line_count": 180
+    "size_bytes": 35010,
+    "line_count": 174
   },
   {
     "source": "cmpp",
@@ -107171,8 +107171,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/les_70_semaines_de_daniel.md",
-    "size_bytes": 75422,
-    "line_count": 387
+    "size_bytes": 76163,
+    "line_count": 357
   },
   {
     "source": "cmpp",
@@ -107237,8 +107237,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/mariage_frank.md",
-    "size_bytes": 127381,
-    "line_count": 1384
+    "size_bytes": 125229,
+    "line_count": 500
   },
   {
     "source": "cmpp",
@@ -107248,7 +107248,7 @@
     "date": null,
     "year": null,
     "location": null,
-    "preacher": null,
+    "preacher": "CMPP",
     "duration": null,
     "source_url": null,
     "pdf_url": "http://cmpp.ch/ministeres_pasteur_A4.pdf",
@@ -107307,8 +107307,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/ministeres_pasteur_A4.md",
-    "size_bytes": 109823,
-    "line_count": 1271
+    "size_bytes": 109324,
+    "line_count": 653
   },
   {
     "source": "cmpp",
@@ -107318,7 +107318,7 @@
     "date": null,
     "year": null,
     "location": null,
-    "preacher": null,
+    "preacher": "CMPP",
     "duration": null,
     "source_url": null,
     "pdf_url": "http://cmpp.ch/ministeres_pasteur_A4_gc.pdf",
@@ -107378,8 +107378,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/ministeres_pasteur_A4_gc.md",
-    "size_bytes": 110569,
-    "line_count": 1340
+    "size_bytes": 110586,
+    "line_count": 1341
   },
   {
     "source": "cmpp",
@@ -107389,7 +107389,7 @@
     "date": null,
     "year": null,
     "location": null,
-    "preacher": null,
+    "preacher": "CMPP",
     "duration": null,
     "source_url": null,
     "pdf_url": "http://cmpp.ch/ministeres_pasteur_A5.pdf",
@@ -107449,8 +107449,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/ministeres_pasteur_A5.md",
-    "size_bytes": 108466,
-    "line_count": 979
+    "size_bytes": 108483,
+    "line_count": 980
   },
   {
     "source": "cmpp",
@@ -107512,8 +107512,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/nouvelle_naissance.md",
-    "size_bytes": 40508,
-    "line_count": 311
+    "size_bytes": 41785,
+    "line_count": 165
   },
   {
     "source": "cmpp",
@@ -107687,8 +107687,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/onction_temps_fin_A4.md",
-    "size_bytes": 29937,
-    "line_count": 90
+    "size_bytes": 31430,
+    "line_count": 82
   },
   {
     "source": "cmpp",
@@ -107804,8 +107804,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/paille_et_froment.md",
-    "size_bytes": 17652,
-    "line_count": 98
+    "size_bytes": 17788,
+    "line_count": 95
   },
   {
     "source": "cmpp",
@@ -108033,8 +108033,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/quand_dieu.md",
-    "size_bytes": 18134,
-    "line_count": 207
+    "size_bytes": 18459,
+    "line_count": 225
   },
   {
     "source": "cmpp",
@@ -108220,8 +108220,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/quel_amour.md",
-    "size_bytes": 46703,
-    "line_count": 458
+    "size_bytes": 47202,
+    "line_count": 249
   },
   {
     "source": "cmpp",
@@ -108337,8 +108337,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/quel_bapteme.md",
-    "size_bytes": 13597,
-    "line_count": 125
+    "size_bytes": 13350,
+    "line_count": 122
   },
   {
     "source": "cmpp",
@@ -108450,8 +108450,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/questions_reponses_ef.md",
-    "size_bytes": 125523,
-    "line_count": 971
+    "size_bytes": 121483,
+    "line_count": 781
   },
   {
     "source": "cmpp",
@@ -108461,7 +108461,7 @@
     "date": null,
     "year": null,
     "location": null,
-    "preacher": null,
+    "preacher": "CMPP",
     "duration": null,
     "source_url": null,
     "pdf_url": "http://cmpp.ch/reflexions.pdf",
@@ -108510,8 +108510,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/reflexions.md",
-    "size_bytes": 22366,
-    "line_count": 100
+    "size_bytes": 22423,
+    "line_count": 103
   },
   {
     "source": "cmpp",
@@ -108566,8 +108566,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/savez-vous.md",
-    "size_bytes": 9027,
-    "line_count": 122
+    "size_bytes": 7445,
+    "line_count": 95
   },
   {
     "source": "cmpp",
@@ -108686,8 +108686,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/tragedie.md",
-    "size_bytes": 192689,
-    "line_count": 1718
+    "size_bytes": 191567,
+    "line_count": 880
   },
   {
     "source": "cmpp",
@@ -108823,8 +108823,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/1996/vision_7000.md",
-    "size_bytes": 73682,
-    "line_count": 585
+    "size_bytes": 71700,
+    "line_count": 345
   },
   {
     "source": "cmpp",
@@ -108881,8 +108881,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/votre_attention_A4.md",
-    "size_bytes": 14269,
-    "line_count": 94
+    "size_bytes": 14262,
+    "line_count": 91
   },
   {
     "source": "cmpp",
@@ -109014,8 +109014,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/william.md",
-    "size_bytes": 49613,
-    "line_count": 458
+    "size_bytes": 46027,
+    "line_count": 212
   },
   {
     "source": "le-scribe",

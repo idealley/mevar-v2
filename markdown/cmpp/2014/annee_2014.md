@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 6:38"
   - "Éphésiens 4:1"
 local_pdf: "https://files.mevar.org/cmpp/2014/annee_2014.pdf"
+status: "draft"
 ---
 > “Et tous, dans vos rapports mutuels, revêtez-vous d’humilité; car Dieu résiste aux orgueilleux, Mais il fait grâce aux humbles”
 > 1 Pierre 5.5

@@ -47,6 +47,7 @@ bible_refs:
   - "Ésaïe 53:10"
 local_pdf: "https://files.mevar.org/cmpp/2026/exhortation_annee_2026_A5.pdf"
 duplicate_of: "cmpp/2026/exhortation_annee_2026_A4"
+status: "draft"
 ---
 > "Souvenez-vous de ce qui s'est passé dès les temps anciens; car je suis Dieu, et il n'y en a point d'autre, Je suis Dieu, et nul n'est semblable à moi. J'annonce dès le commencement ce qui doit arriver, et longtemps d'avance ce qui n'est pas encore accompli; Je dis: Mes arrêts subsisteront, et j'exécuterai toute ma volonté. C'est moi qui appelle de l'orient un oiseau de proie, d'une terre lointaine un homme pour accomplir mes desseins, je l'ai dit, et je le réaliserai; je l'ai conçu, et je l'exécuterai. Ecoutez-moi, gens endurcis de coeur, ennemis de la droiture! Je fais approcher ma justice: elle n'est pas loin; et mon salut: il ne tardera pas. Je mettrai le salut en Sion, et ma gloire sur Israël" (Ésaïe 46.9-13)
 

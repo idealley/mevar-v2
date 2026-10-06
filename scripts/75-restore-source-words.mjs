@@ -102,6 +102,8 @@ let changed = 0, total = 0;
 for (const id of ids) {
   const entry = manifest.find((e) => e.sermon_id === id);
   if (!entry) throw new Error(`${id}: not in manifests/cmpp.json`);
+  // A work whose text is its page of cmpp.ch (goal 31) has that page's words, not its PDF's.
+  if (entry.html_url) continue;
   const file = path.join(root, entry.local_md);
   const text = fs.readFileSync(file, "utf8");
   const start = text.indexOf("\n---\n", 4) + 5;

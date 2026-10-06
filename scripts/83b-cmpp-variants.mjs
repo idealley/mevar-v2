@@ -13,7 +13,12 @@
 // 1974, where the name cmpp.ch no longer links joins the group of the one it
 // links, and a tract. The second name never keeps.
 //
-// A variant is folded only when its body says so: normalised words, 5-word
+// A keeper whose text is its page of cmpp.ch (goal 31) has that page's words,
+// and its variants their PDF's: where the two editions differ too much for
+// the test below, the page itself settles it, when it offers the variant's
+// PDF among the layouts of its text (« Dépliant A4 (pdf) »).
+//
+// Otherwise a variant is folded only when its body says so: normalised words, 5-word
 // shingles (as 83), and at least 0.90 of the variant's shingles found in the
 // keeper. That holds for the same text in another layout and for a tract
 // that is an excerpt of the full text. A variant under the threshold is not
@@ -29,6 +34,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { dropField, field, frontmatter, setField } from "./frontmatter.mjs";
+import { page } from "./12b-pair-cmpp-pages.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const dir = path.join(root, "markdown/cmpp");
@@ -83,11 +89,14 @@ for (const [base, members] of [...groups].sort(([a], [b]) => a.localeCompare(b))
   // The text after « ---\n<frontmatter>\n---\n »
   const body = (w) => { const text = fs.readFileSync(w.file, "utf8"); return shingles(text.slice(frontmatter(text).length + 9)); };
   const kept = body(keeper);
+  const keeperPage = field(frontmatter(fs.readFileSync(keeper.file, "utf8")), "html_url");
+  const offered = keeperPage ? await page(new URL(keeperPage).pathname.slice(1)) : "";
   const entry = { group: base, keeper: keeper.id, folded: [], not_folded: [] };
   for (const v of variants) {
     const own = body(v);
     const inKeeper = +contained(own, kept).toFixed(3), ofKeeper = +contained(kept, own).toFixed(3);
     if (inKeeper >= SAME_TEXT) { duplicateOf.set(v.ref, keeper.ref); entry.folded.push({ id: v.id, in_keeper: inKeeper, of_keeper: ofKeeper }); }
+    else if (new RegExp(`href="[^"]*\\b${v.id}\\.pdf"`).test(offered)) { duplicateOf.set(v.ref, keeper.ref); entry.folded.push({ id: v.id, in_keeper: inKeeper, of_keeper: ofKeeper, offered_by: keeperPage }); }
     else entry.not_folded.push({ id: v.id, in_keeper: inKeeper, of_keeper: ofKeeper, reason: "the bodies differ beyond layout" });
   }
   report.push(entry);

@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 24:12,13"
 local_pdf: "https://files.mevar.org/cmpp/2022/exhortation_annee_2022_A5.pdf"
 duplicate_of: "cmpp/2022/exhortation_annee_2022"
+status: "draft"
 ---
 car celui qui n’aime pas son frère qu’il voit, comment peut-il aimer Dieu qu’il ne voit pas? Et nous avons de lui ce commandement: que celui qui aime Dieu aime aussi son frère” (1 Jean 4.20,21). “Celui qui dit qu’il est dans la lumière, et qui hait son frère, est encore dans les ténèbres. Celui qui aime son frère demeure dans la lumière, et aucune occasion de chute n’est en lui” (1 Jean 2.9,10).
 

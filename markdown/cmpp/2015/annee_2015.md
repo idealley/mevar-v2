@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 8:49,50"
   - "1 Thessaloniciens 4:11"
 local_pdf: "https://files.mevar.org/cmpp/2015/annee_2015.pdf"
+status: "draft"
 ---
 > “Que nul de vous, en effet, ne souffre comme meurtrier, ou voleur, ou malfaiteur, ou comme s’ingérant dans les affaires d’autrui. Mais si quelqu’un souffre comme chrétien, qu’il n’en ait point honte, et que plutôt il glorifie Dieu à cause de ce nom. Car c’est le moment où le jugement va commencer par la maison de Dieu…”.
 > 1 Pierre 4.15-17

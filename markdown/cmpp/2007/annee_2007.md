@@ -33,6 +33,7 @@ bible_refs:
   - "Romains 3:4"
   - "Matthieu 11:29,30"
 local_pdf: "https://files.mevar.org/cmpp/2007/annee_2007.pdf"
+status: "draft"
 ---
 Chers frères, sœurs et amis,
 

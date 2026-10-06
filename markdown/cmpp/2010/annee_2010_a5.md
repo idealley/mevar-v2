@@ -43,6 +43,7 @@ bible_refs:
   - "Matthieu 6:9,10"
 duplicate_of: "cmpp/2010/annee_2010"
 local_pdf: "https://files.mevar.org/cmpp/2010/annee_2010_a5.pdf"
+status: "draft"
 ---
 > "Enseigne-moi à faire ta volonté! Car tu es mon Dieu. Que ton bon esprit me conduise sur la voie droite" (Ps. 143.10).
 

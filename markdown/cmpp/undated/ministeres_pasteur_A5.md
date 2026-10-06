@@ -256,6 +256,7 @@ bible_refs:
   - "1 Thessaloniciens 5:23"
 duplicate_of: "cmpp/undated/ministeres_pasteur_A4"
 local_pdf: "https://files.mevar.org/cmpp/undated/ministeres_pasteur_A5.pdf"
+preacher: "CMPP"
 ---
 > Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d’une manière digne de l’appel dont vous avez été appelés, avec toute humilité et douceur, avec longanimité, vous supportant l’un l’autre dans l’amour; vous appliquant à garder l’unité de l’Esprit par le lien de la paix. Il y a un seul corps et un seul Esprit, … et lui, a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs; en vue de la perfection des saints, pour l’oeuvre du service, pour l’édification du corps de Christ; jusqu’à ce que nous parvenions tous à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature de la plénitude du Christ: afin que nous ne soyons plus de petits enfants, ballottés et emportés çà et là par tout vent de doctrine dans la tromperie des hommes, dans leur habileté à user de voies détournées pour égarer; mais que, étant vrais dans l’amour, nous croissions en toutes choses jusqu’à lui qui est le chef, le Christ;…
 

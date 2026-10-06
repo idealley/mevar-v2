@@ -49,6 +49,7 @@ bible_refs:
   - "Philippiens 4:2"
 local_pdf: "https://files.mevar.org/cmpp/2024/exhortation_annee_2024_A5.pdf"
 duplicate_of: "cmpp/2024/exhortation_annee_2024_A4"
+status: "draft"
 ---
 > "Je veux, en effet, que vous sachiez combien est grand le combat que je soutiens pour vous, et pour ceux qui sont à Laodicée, et pour tous ceux qui n'ont pas vu mon visage en la chair, afin qu'ils aient le coeur rempli de consolation, qu'ils soient unis dans la charité, et enrichis d'une pleine intelligence pour connaître le mystère de Dieu, savoir Christ, mystère dans lequel sont cachés tous les trésors de la sagesse et de la science. Je dis cela afin que personne ne vous trompe par des discours séduisants."
 > Colossiens 2.1-4
