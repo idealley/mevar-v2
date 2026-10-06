@@ -294,8 +294,8 @@ On the branch `goal-31-cmpp-html`, stacked on `goal-16b-cmpp-rest`,
   of `/bible/hebreux/13/8/` went (no body cites the first two any more;
   the motto of the circular letters, « (Hébreux 13.8) », is in
   `title_page` and no longer in a body, so 65 does not record it), and
-  `/bible/jean/15/tout/` came with a second page. **For Samuel**: whether a
-  reference on a title page should count as cited. (The page lost by goal
+  `/bible/jean/15/tout/` came with a second page. Samuel has since answered that a
+  reference on a title page counts as cited (below). (The page lost by goal
   16's fourth-review fix was `/auteurs/ewald-frank/6/`: 54 works fewer are
   his.)
 - **For Samuel: nothing reads `title_page`.** The words of the title
@@ -323,3 +323,53 @@ in capitals; no other line.
 - **Price** (2 USD a million in, 10 out, as 87 counts): 0.22 USD in, 0.05
   out: **about 0.30 USD**; 3.10 USD at the very most.
 - **Limit:** 15 USD (Samuel). Under it.
+
+### Samuel's answers of 2026-10-06, applied
+
+- **Headings in sentence case (A).** `87 --pages`: **404 headings in 71
+  works decided, 69,837 tokens in and 10,205 out, 0.24 USD** (estimate
+  0.30). With the 211 goal 18 had already decided, 615 of the 642 headings
+  of the 392 bodies change, in 100 works. Checked heading by heading
+  against the bodies as they were: 614 keep their letters and their level,
+  case, accents and « œ » aside; the other one, `## **LE PECHE
+  ORIGINEL**`, loses its bold, as goal 18 says. Goal 18's rule puts the
+  accents on the capitals: 364 headings gain an accent or a ligature the
+  page does not print (« EGLISE » → « Église », « OEUVRE » → « œuvre »).
+  **Of the 82,302 lines that are not headings, none changes.** 87 now
+  takes an answer at the line's own level (`#` and `####` as well as
+  `##` and `###`) and keeps a body's last line end. One decision is
+  corrected by hand against the work's own subtitle: `7sceaux1`, « Dieu
+  caché et révélé dans la simplicité » (the model had read two verbs,
+  « cache et révèle »). Left as the page prints: 8 lines the model left
+  alone, and `serie1no2`'s « ##### DIEU EST SON PROPRE INTERPRETE », a
+  fifth level 87 does not read. Doubtful, for Samuel: « sa Parole » where
+  the capitals do not say whether the page means « Sa Parole » (three
+  headings); a page's slips kept in lower case (« L a vraie Église »,
+  « La la foi biblique », « Lles soixante-dix semaines »); headings that
+  were several lines of a title, read as one phrase (« Baptême repas du
+  Seigneur lavage des pieds », « Au commencement était la Parole pas
+  l’interprétation », « Appendice le rétablissement du quatrième
+  empire »).
+- **A title page's reference counts as cited (B).** 65 reads
+  `title_page` before the body. 71 works gain a reference: Hébreux 13:8
+  for 70 (the circular letters' motto) and Actes 19:3 for one; none loses
+  one. `/bible/hebreux/13/8/` has its tenth page again and lists 108 CMPP
+  works.
+- **The four books (C)**: a goal of their own; what is known is in
+  `docs/follow-ups.md`.
+- **Authors (D).** The 50 yearly exhortations are drafts until their
+  author is verified (51 CMPP drafts with the death notice; 31 of the 50
+  were already duplicates): **401 CMPP works are built, 420 before**, 392
+  of them from their page. `duplicateRedirects` writes no rule from a
+  draft nor to one: 385 targets in `_redirects`, 416 before. In the built
+  site no page, no redirect, no sitemap entry and no Pagefind fragment
+  names one of the 50. `ministeres_pasteur_A4`, `_A4_gc`, `_A5` and
+  `reflexions` have the author « CMPP » (`/auteurs/cmpp/`, two pages
+  built, the two others being layouts). The 21 works given to Ewald Frank
+  that no page signs are unchanged.
+- **Pages.** 4,543 built, 4,567 before: the 19 exhortations that had a
+  page, and seven Bible pages that no longer have enough works without them (`/bible/2-samuel/22/`,
+  `/bible/psaumes/112/`, `/bible/psaumes/145/`, `/bible/actes/1/8/` and
+  its second page, `/bible/matthieu/24/14/` and its second page) are
+  gone; `/auteurs/cmpp/` and `/bible/hebreux/13/8/10/` are new. 3,007
+  pages indexed, 3,026 before.
