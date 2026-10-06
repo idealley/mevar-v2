@@ -34,21 +34,12 @@
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { execFileSync, spawnSync } from "node:child_process";
+import { spawnSync } from "node:child_process";
+import { extraction } from "./cmpp-pdfs.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
-const cache = path.join(root, ".parse-cache/cmpp");
-fs.mkdirSync(cache, { recursive: true });
 const decided = JSON.parse(fs.readFileSync(path.join(root, "scripts/cmpp-source-words.json"), "utf8"));
 const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifests/cmpp.json"), "utf8"));
-const pdfs = new Map(fs.readdirSync(path.join(root, "pdfs/cmpp"), { recursive: true }).filter((f) => f.endsWith(".pdf")).map((f) => [path.basename(f, ".pdf"), path.join(root, "pdfs/cmpp", f)]));
-
-function extraction(id) {
-  const file = path.join(cache, `${id}.txt`);
-  // LiteParse writes its OCR model where it runs: in the cache, not in the repo
-  if (!fs.existsSync(file)) execFileSync(path.join(root, "node_modules/.bin/lit"), ["parse", pdfs.get(id), "-q", "-o", file], { cwd: path.join(root, ".parse-cache"), stdio: "ignore" });
-  return fs.readFileSync(file, "utf8");
-}
 
 const words = (text) => [...text.matchAll(/[\p{L}\p{N}]+/gu)].map((m) => ({ w: m[0], i: m.index }));
 const fold = (w) => w.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae");

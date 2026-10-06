@@ -19,9 +19,8 @@
 //
 // For every entry of manifests/cmpp.json whose PDF (pdfs/cmpp/, from 20) has
 // lost its apostrophes: the text goes to .parse-cache/cmpp/<id>.txt
-// (gitignored), where 75 reads it; a work with no markdown yet gets it as its
-// raw body, for 72 to clean. A text already in .parse-cache/ is not extracted
-// again.
+// (gitignored), where 75 and 76b read it. A text already there is not
+// extracted again.
 //
 // Usage: node scripts/22-extract-cmpp-lost-signs.mjs   (after 20; needs
 // pdftotext and pdftoppm: brew install poppler. The first run downloads
@@ -32,12 +31,10 @@ import os from "node:os";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { createWorker } from "tesseract.js";
+import { cache, pdfs } from "./cmpp-pdfs.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
-const cache = path.join(root, ".parse-cache/cmpp");
-fs.mkdirSync(cache, { recursive: true });
 const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/cmpp-extraction-fixes.json"), "utf8"));
-const pdfs = new Map(fs.readdirSync(path.join(root, "pdfs/cmpp"), { recursive: true }).filter((f) => f.endsWith(".pdf")).map((f) => [path.basename(f, ".pdf"), path.join(root, "pdfs/cmpp", f)]));
 
 // More elisions with a space (« c est », « qu il ») than apostrophes in the whole text
 const lostSigns = (text) => (text.match(/(?<!\p{L})(?:[cdjlmnst]|qu) [aeéèêiouyh]/giu) ?? []).length > Math.max(10, (text.match(/[’']/g) ?? []).length);
@@ -76,33 +73,30 @@ function withSigns(P, O) {
   return text;
 }
 
-let found = 0, extracted = 0, staged = 0, ocr;
+let found = 0, extracted = 0, ocr;
 for (const entry of JSON.parse(fs.readFileSync(path.join(root, "manifests/cmpp.json"), "utf8"))) {
   const id = entry.sermon_id, pdf = pdfs.get(id);
   if (!lostSigns(execFileSync("pdftotext", [pdf, "-"], { maxBuffer: 1 << 28 }).toString())) continue;
   found++;
   const out = path.join(cache, `${id}.txt`);
-  if (!fs.existsSync(out)) {
-    ocr ??= await createWorker("fra", 1, { cachePath: path.join(root, ".parse-cache") });
-    const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "cmpp-pages-"));
-    execFileSync("pdftoppm", ["-r", "300", "-png", pdf, path.join(tmp, "p")]);
-    const images = fs.readdirSync(tmp).sort((a, b) => parseInt(a.slice(2)) - parseInt(b.slice(2)));
-    const pages = [];
-    for (const [i, image] of images.entries()) {
-      const layer = execFileSync("pdftotext", ["-layout", "-f", i + 1, "-l", i + 1, pdf, "-"].map(String)).toString().replace(/\f/g, "");
-      pages.push(withSigns(layer, (await ocr.recognize(path.join(tmp, image))).data.text));
-    }
-    fs.rmSync(tmp, { recursive: true });
-    let text = pages.join("\n");
-    for (const [passage, printed] of fixes[id] ?? []) {
-      if (text.split(passage).length !== 2) throw new Error(`${id}: « ${passage} » is not once in the extraction`);
-      text = text.replace(passage, () => printed);
-    }
-    fs.writeFileSync(out, text);
-    extracted++;
+  if (fs.existsSync(out)) continue;
+  ocr ??= await createWorker("fra", 1, { cachePath: path.join(root, ".parse-cache") });
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "cmpp-pages-"));
+  execFileSync("pdftoppm", ["-r", "300", "-png", pdf, path.join(tmp, "p")]);
+  const images = fs.readdirSync(tmp).sort((a, b) => parseInt(a.slice(2)) - parseInt(b.slice(2)));
+  const pages = [];
+  for (const [i, image] of images.entries()) {
+    const layer = execFileSync("pdftotext", ["-layout", "-f", i + 1, "-l", i + 1, pdf, "-"].map(String)).toString().replace(/\f/g, "");
+    pages.push(withSigns(layer, (await ocr.recognize(path.join(tmp, image))).data.text));
   }
-  const md = path.join(root, entry.local_md ?? `markdown/cmpp/${entry.year ?? "undated"}/${id}.md`);
-  if (!fs.existsSync(md)) { fs.mkdirSync(path.dirname(md), { recursive: true }); fs.copyFileSync(out, md); staged++; }
+  fs.rmSync(tmp, { recursive: true });
+  let text = pages.join("\n");
+  for (const [passage, printed] of fixes[id] ?? []) {
+    if (text.split(passage).length !== 2) throw new Error(`${id}: « ${passage} » is not once in the extraction`);
+    text = text.replace(passage, () => printed);
+  }
+  fs.writeFileSync(out, text);
+  extracted++;
 }
 await ocr?.terminate();
-console.log(`${found} PDFs with lost signs: ${extracted} extracted to .parse-cache/cmpp/, ${staged} staged as a raw body`);
+console.log(`${found} PDFs with lost signs: ${extracted} extracted to .parse-cache/cmpp/`);
