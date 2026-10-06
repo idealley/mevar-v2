@@ -148,9 +148,9 @@ local_pdf: "https://files.mevar.org/cmpp/1996/vision_7000.pdf"
 html_url: "http://www.cmpp.ch/vision_7000.htm"
 title_page: ["Titre original de l’ouvrage:","«VISION 7000» – Global-Information","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1996 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
-# VISION 7000
+# Vision 7000
 
-## INFORMATION GLOBALE
+## Information globale
 
 du missionnaire Ewald Frank
 
@@ -170,7 +170,7 @@ Dieu créa le monde en six jours, puis il se reposa le septième jour. Lorsqu’
 
 Comme il est certain que nous nous trouvons à la fin de la période de six mille ans, ainsi il est tout aussi certain que le «jour du Seigneur», le septième jour de Dieu qui est le septième millénaire, se trouve à notre porte. Conformément à Apocalypse 20 ce sera ce Règne de paix de mille ans où Christ sera avec les Siens sur terre et auquel se rapporte le verset 6: *“Bienheureux et saint celui qui a part à la première résurrection; sur eux la seconde mort n’a point de pouvoir; mais ils seront sacrificateurs de Dieu et du Christ, et ils régneront avec lui **mille ans**”* Après le processus de purification vient le renouvellement; la terre sera rétablie dans l’état d’un paradis et là régnera une «paix véritable»: même le loup et l’agneau paîtront ensemble (Esa. 11.6-9). Nous trouvons dans la Parole de Dieu d’instructives descriptions en rapport avec le sujet biblique de la «vision du septième millénaire».
 
-## LES PROPHETIES BIBLIQUES ONT LE DERNIER MOT
+## Les prophéties bibliques ont le dernier mot
 
 Sous nos yeux s’accomplissent actuellement les prophéties faites auparavant dans les Saintes Ecritures, lesquelles étaient destinées au temps dans lequel nous vivons maintenant. A cet accomplissement appartient en premier lieu le retour du peuple d’Israël dans le «pays promis». Sa dispersion parmi toutes les nations avait déjà été annoncé à l’avance dans Deutéronome 4; et à la fin des temps il devait être à nouveau rassemblé (Esa. 14,1; Jér. 30.3; 31.7-12; Ezé. 36.38). Jésus-Christ a annoncé cela en symbole lorsqu’Il parlait du «figuier» — lequel symbolise Israël (Osée 9.10) — comme un signe tout particulier pour la génération actuelle (Mat. 24.32-41).
 
@@ -186,7 +186,7 @@ Depuis que Michael Gorbatchev accéda au pouvoir, en 1985, bien des conférences
 
 Conformément au troisième «Accord d’Oslo», les pourparlers sur Jérusalem doivent être terminés en 1999. Comme cela est également annoncé dans la Parole prophétique, une paix sera finalement publiée. Malheureusement — même si Israël sacrifie des «terres pour la paix» — seulement une «paix fictive» sera atteinte par beaucoup de compromis, une paix négociée par les politiciens et «bénie» par la plus haute autorité religieuse. Comme il est écrit, c’est précisément à ce moment-là qu’une ruine soudaine surviendra.
 
-## LE JOUR DU SEIGNEUR
+## Le jour du Seigneur
 
 Aussitôt que sera terminé le «jour du salut» (Esa. 49.8; 2 Cor. 6.2), directement avant le «jour du Seigneur», c’est-à-dire avant le septième millénaire, le monde sera frappé par de terribles plaies et jugements de la colère de Dieu. Dans Matthieu 24, ainsi que dans d’autres passages des Ecritures, le Seigneur Jésus Lui-même indique quelques circonstances qui accompagneront ce jour. Il parle de guerres et de cris de guerres, de tremblements de terre, de famines et de catastrophes naturelles de tout genre, et Il ajouta: *“Ceci n’est que le **commencement des douleurs**”.* Les tremblements de terre et les catastrophes naturelles de tout genre augmenteront de plus en plus, jusqu’à ce que survienne le tremblement de terre attendu depuis longtemps, qui surpassera tous les autres, celui de Californie, délimité par la fissure de San Andreas sur la côte Ouest des Etats-Unis, et que les scientifiques s’attendent à voir arriver à tout instant. Habituellement les douleurs précédent toujours une naissance. Selon Romains 8.19-22, la création toute entière soupire et souffre les douleurs d’un nouvel enfantement. Jésus annonce la grande tribulation par ces paroles: *“Car il y aura alors une grande tribulation, telle qu’il n’y en a point eu depuis le commencement du monde jusqu’à maintenant, et qu’il n’y en aura jamais”* (Mat. 24.21).
 
@@ -204,7 +204,7 @@ Une atmosphère de fin du monde n’est pas à sa place ici, elle n’apporterai
 
 Beaucoup d’autres textes bibliques pourraient être cités sur l’ensemble de ce thème. Tout ce qui a été écrit il y a déjà longtemps entrera bientôt dans l’histoire. Toutefois, nous devons agir avec sobriété et prudence et planifier tout à fait normalement notre vie, **car personne ne connaît réellement le temps ni l’heure;** nous devrions seulement nous soucier de marcher avec Dieu et d’être prêts en tout temps à rencontrer le Seigneur. Ce tout dernier âge, dans lequel nous vivons maintenant a été comparé par notre Seigneur Jésus-Christ aux jours de Noé et de Sodome et Gomorrhe (Luc 17.26-30). Personne ne contestera que dans le monde entier et sous tous les rapports les choses sont pires qu’en ce temps-là. Aujourd’hui comme en ce temps-là, le monde tombé de la position qu’il avait auprès de Dieu est mûr pour le jugement. Dieu offre les deux choses: la grâce et le jugement. Que voulez-vous choisir?
 
-## LE RETOUR DE CHRIST
+## Le retour de Christ
 
 En tant que Créateur, Dieu a un plan pour Sa création; de même, en tant que Rédempteur, Il a un plan pour Ses rachetés. Celui qui croit à l’existence d’un Dieu personnel est également convaincu qu’il n’a rien laissé au hasard. L’Eternel dit: *“Je suis Dieu, et il n’y en a point comme moi, déclarant dès le commencement ce qui sera à la fin, et d’ancienneté ce qui n’a pas été fait, disant: Mon conseil s’accomplira, et je ferai tout mon bon plaisir…”* (Esa. 46.10). *“… car il consomme et abrège l’affaire en justice, parce que le Seigneur fera une affaire abrégée sur la terre”* (Rom. 9.28).
 
@@ -220,7 +220,7 @@ Pierre fait le point sur ce thème et dit: *“… sachant tout d’abord ceci, 
 
 Avant que le Seigneur Jésus ne nous ait précédés dans la gloire, Il fit aux Siens la promesse de revenir et de les prendre à Lui (Jean 14). Lors de Son retour, tous les enfants de Dieu qui se sont endormis dans la foi en Christ et qui auront part à la “première résurrection” seront ressuscités, et ceux qui vivent dans la foi en Christ seront transmués, alors tous ensemble ils iront à Sa rencontre pour être pour toujours avec Lui (1 Thess. 4.13-18). Ils Le contempleront et seront transformés à Son image (1 Jean 3). Cela arrivera tout aussi certainement que cet événement a été annoncé à l’avance dans la Parole de Dieu.
 
-## LA MAJESTE DE LA CREATION
+## La majesté de la création
 
 La réalisation du plan de salut divin a déjà commencé lors de la création. Chacun de nous s’est certainement déjà émerveillé de la majesté de la création. Tous ne reconnaissent malheureusement pas logiquement le Créateur, bien que chacun sache qu’un horloger devait se trouver là avant qu’une horloge ne soit construite, qu’un entrepreneur devait exister avant qu’une maison ne soit bâtie, et ainsi de suite. Il est bien connu que, depuis qu’ils eurent réalisé par de grandes découvertes des choses qui semblaient impossibles, les hommes ont mis en doute l’existence de Dieu. Ils ont mis en doute le récit de la création et l’ont déclaré invraisemblable, et cela plus particulièrement depuis que Darwin, en 1859, a publié ses thèses. Dans ces derniers siècles, les philosophes athées ont réussi à rendre crédibles leurs théories contradictoires, et en même temps ils ont fait tomber les hommes dans l’incrédulité. Dieu est méconnu et l’homme loué. On a même mis en avant que tout serait venu de soi-même à l’existence. Celui qui croit de telles choses peut tout aussi bien renier son père et sa mère et prétendre s’être fait lui-même – être le produit de l’évolution.
 
@@ -232,7 +232,7 @@ De même, la réalité que tout être vivant se reproduit selon son espèce subs
 
 Il n’y a qu’une seule chose que l’homme ne peut pas faire: créer la vie. Ceux qui croient à l’évolution et parlent d’une cellule initiale, devraient dans ce cas nous dire qui est celui qui a créé la cellule initiale et a mis la vie en elle? On pourrait aussi poser la question de savoir qui a donné la capacité à tout être vivant de se multiplier? Pourquoi donc les athées ne sèment-ils pas du blé fabriqué artificiellement? C’est parce qu’ils savent très bien qu’il ne germerait pas, n’ayant point de germe de vie en lui. La création majestueuse et toute-puissante devrait en fait donner à tout homme normal qui réfléchit la certitude de l’existence d’un Créateur Tout-puissant. Si les hommes ne s’étaient pas détournés de Lui, ils pourraient croire Sa Parole et discerner le témoignage que la création déploie chaque jour devant nos yeux. Pour tous ceux qui sont dignes de la Vie éternelle, Dieu et Sa Parole demeurent éternellement vrais et dignes de foi.
 
-## DESTINES A VIVRE EN COMMUNION AVEC DIEU
+## Destinés à vivre en communion avec Dieu
 
 Selon la volonté de Dieu les hommes ont été destinés dès le commencement à vivre en communion avec Lui. C’est la raison pour laquelle, quelle que soit leur race ou leur religion, ils ont le désir d’adorer un Etre suprême. Tous ressentent en eux-mêmes un besoin inexplicable d’adoration, sans égard à la manière dont elle est pratiquée. Si une personne ne trouve pas une chose religieuse qu’il puisse adorer, il adorera alors Mammon, une passion, le sport, quelque passe-temps favori, ou encore une idole. Cette profonde aspiration que chaque homme, riche ou pauvre, porte en lui ne peut être valablement étanchée que par ce qui est divin.
 
@@ -252,7 +252,7 @@ La communion avec Dieu a été interrompue par la chute dans le péché. Cependa
 
 Comme c’est dans ce corps terrestre que nous avons péché, Dieu dut prendre un corps pareil au nôtre pour être le substitut de l’humanité entière, afin que Lui, le seul innocent, puisse prendre le péché de nous tous et nous réconcilier avec Dieu. C’est ce qui est arrivé en Jésus-Christ notre Seigneur, Lequel appelle encore aujourd’hui: *“Venez à moi vous tous qui vous fatiguez et qui êtes chargés, et moi, je vous donnerai du repos”*. Les personnes qui répondent à Son appel et viennent à Lui peuvent alors, lorsque leur dernière heure est venue, remettre leur esprit entre Ses mains et être certains qu’Il leur donnera aussi la même réponse: *“En vérité, je te dis: Aujourd’hui tu seras avec moi dans le paradis”* (Luc 23.43). Mais sans aucun doute, celui qui vit consciemment sans Lui, mourra aussi sans Lui. Seuls sont bienheureux ceux qui vivent avec Christ et qui meurent en Lui (Rom. 14. 7,8; Apoc. 14.13).
 
-## ACTION SURNATURELLE DE DIEU
+## Action surnaturelle de Dieu
 
 L’incarnation du Sauveur fût une action surnaturelle de Dieu dans le domaine naturel. Marie naquit dans ce monde de la même manière que tout autre être humain, et elle aussi eut besoin du salut. Tout simplement, elle avait été choisie par Dieu pour être un vase terrestre dans lequel la Semence divine fût placée afin que ***la Parole puisse devenir chair***. Marie eut besoin elle-même de faire une expérience de salut, et c’est pourquoi le jour de Pentecôte, elle se trouvait dans la chambre haute à Jérusalem parmi les 120 qui expérimentèrent le baptême du Saint-Esprit, expérience qui fait partie du salut (Act. 1.14; et autres).
 
@@ -266,7 +266,7 @@ Puisque le Royaume de Dieu est un Royaume éternel, tous ceux qui veulent y entr
 
 Celui qui croit de cette manière biblique dans le Seigneur comme Sauveur, peut l’expérimenter personnellement. Cette offre incomparable de la grâce de Dieu est valable pour tous les hommes qui l’acceptent, et cela aussi longtemps que dure le jour du salut. Personne ne peut vraiment se représenter combien ce sera terrible pour les hommes ayant refusé le salut, d’entrer dans l’éternité séparés de Dieu. Au plus tard, à l’heure de la mort, tous seront confrontés à cette réalité qu’avec la mort rien n’est terminé, même ceux-là qui croient que la vie ne continue pas après la mort.
 
-## LE DERNIER APPEL
+## Le dernier appel
 
 Avant que le Seigneur Jésus ne revienne, il faut que l’ordre de mission qu’Il a donné Lui-même (Marc 16.14-18) soit accompli dans le monde entier pour la dernière fois. *“Et cet évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage à toutes les nations; et alors viendra la fin”* (Mat. 24.14). En aucun autre temps comme aujourd’hui, il n’y a eu la possibilité d’accomplir cette tâche par le moyen des médias. Sur l’île de Patmos cela fût montré symboliquement à Jean, le voyant: *“Et je vis un autre ange volant par le milieu du ciel, ayant **l’évangile éternel** pour l’annoncer à ceux qui sont établis sur la terre, et à toute nation et tribu et langue et peuple”* (Apoc. 14.6).
 
@@ -290,7 +290,7 @@ Avec un profond respect tous ceux qui craignent véritablement Dieu doivent reco
 
 Tout à la fin, avant le retour de Christ, une communauté biblique non organisée de croyants, sortira pour se cristalliser sous l’autorité de Christ, leur Chef. Dans l’Eglise du Seigneur la grande brèche vers la prédication et la pratique sans compromis du Christianisme primitif, conformément au modèle des Actes des Apôtres, est proche; et avec cela “l’achèvement de la Réformation”. De même qu’il en a été au commencement, au temps des apôtres, ainsi doit-il en être de nouveau à la fin. Le livre des Actes des apôtres se trouve être le seul modèle valable devant Dieu pour l’Eglise du Nouveau Testament.
 
-## TRADITIONS HUMAINES
+## Traditions humaines
 
 Chacun naît avec en lui une certaine idéologie ou conception du monde, et la plupart s’y tiennent jusqu’à la fin de leur vie sans avoir réfléchi ni s’être persuadé, même pas une seule fois, de sa justesse ou de son erreur. Il est, selon eux, de bon ton de rester fidèle aux traditions héritées de leurs pères. Beaucoup de ceux qui accomplissent leurs devoirs religieux veulent en somme qu’on les laisse tranquilles quant à leur croyance en Dieu. La raison de cette attitude et de ce développement ne doit pas être recherchée en dernier lieu ailleurs que dans les religions elles-mêmes. L’impression s’est installée que les religieux règlent tout pour tous. De la naissance à la mort les gens sont munis de rites et de cérémonies religieuses, sans avoir jamais entendu la Bonne Nouvelle qui sauve, sans avoir expérimenté personnellement le salut ni trouvé la paix intérieure.
 
@@ -302,7 +302,7 @@ Même si la plus grande majorité de ceux qui sont à la recherche de quelque ch
 
 Les croyants bibliques véritables font tous leurs efforts pour être en toutes choses en accord et en harmonie avec les Saintes Ecritures. Les ***doctrines apostoliques*** sur la Divinité, le baptême, le Repas du Seigneur et autres choses, de même que la ***pratique originale*** de l’Eglise primitive sont toujours valables pour eux, et cela jusqu’à la fin. Tous ceux qui appartiennent à la vraie Eglise du Seigneur, qui demeurent sur le fondement biblique, expérimenteront l’action finale de Dieu, ainsi que leur perfectionnement pour le jour de Jésus-Christ, lequel est toujours plus proche (Phil. 1.6).
 
-## DECISION PERSONNELLE
+## Décision personnelle
 
 Chacun doit faire ses expériences personnelles avec Dieu, il doit expérimenter une conversion à Lui et naître de nouveau par le Saint-Esprit (Jean 3.6); il doit obtenir la certitude du salut (Rom. 8.16), être rempli du Saint-Esprit (Act. 2. 4. et autres) et être scellé par Lui (Eph. 1.13 et autres). En Jésus-Christ notre Seigneur, Dieu a réconcilié l’humanité – vous aussi personnellement! – avec Lui-même (2 Cor. 5.19). La foi qui sauve est en rapport avec le message de l’Evangile: *“Soyez réconciliés avec Dieu!”.*
 
@@ -322,7 +322,7 @@ L’urgence de faire la dernière invitation et de donner le dernier avertisseme
 
 L’occasion doit être donnée à chaque lecteur de s’occuper sérieusement et sincèrement de ces thèmes. **Il s’agit enfin de compte de vous personnellement.** Dieu a formé un plan pour l’humanité, lequel est clair et compréhensible pour tous.
 
-## CONCLUSION
+## Conclusion
 
 Chers lecteurs,
 

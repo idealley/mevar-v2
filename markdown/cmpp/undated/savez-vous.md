@@ -45,7 +45,7 @@ local_pdf: "https://files.mevar.org/cmpp/undated/savez-vous.pdf"
 html_url: "http://www.cmpp.ch/savez-vous.htm"
 title_page: ["LE SAVEZ-VOUS…?"]
 ---
-## SAVEZ-VOUS QUE…?
+## Savez-vous que…?
 
 Savez-vous que nous avons reçu notre dernier avertissement de la part de Dieu?
 

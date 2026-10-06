@@ -175,7 +175,7 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 |---|---|---|---|---|
 | parole de dieu | 842 | 600 | yes | yes |
 | peuple de dieu | 585 | 112 | yes | yes |
-| seigneur jésus-christ | 526 | 249 | yes |  |
+| seigneur jésus-christ | 527 | 249 | yes |  |
 | seigneur jésus | 511 | 518 | yes | yes |
 | royaume de dieu | 469 | 220 | yes | yes |
 | volonté de dieu | 424 | 226 | yes | yes |
@@ -191,7 +191,7 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | serviteur de dieu | 331 | 208 | yes | yes |
 | corps de christ | 311 | 208 | yes | yes |
 | dieu lui-même | 306 | 162 | yes | yes |
-| œuvre de dieu | 303 | 42 | yes | yes |
+| œuvre de dieu | 305 | 42 | yes | yes |
 | apôtre paul | 290 | 10 |  |  |
 | gloire de dieu | 283 | 259 | yes | yes |
 | enfants de dieu | 281 | 229 | yes | yes |
@@ -234,7 +234,7 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | bible parle | 171 | 27 |  |  |
 | sauveur jésus-christ | 167 | 16 | yes |  |
 | nouvelle naissance | 165 | 204 |  |  |
-| parole prophétique | 163 | 7 | yes | yes |
+| parole prophétique | 164 | 7 | yes | yes |
 | missionnaire international | 163 | 0 |  |  |
 | centre missionnaire international | 162 | 0 |  |  |
 | international de krefeld | 161 | 0 |  |  |
@@ -313,8 +313,8 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | propres yeux | 104 | 27 | yes | yes |
 | demeure éternellement | 104 | 9 | yes | yes |
 | plusieurs reprises | 104 | 45 | yes | yes |
+| église de laodicée | 103 | 88 | yes |  |
 | sommes engagés | 103 | 1 | yes | yes |
-| église de laodicée | 102 | 88 | yes |  |
 | dieu voulait | 102 | 59 | yes |  |
 | paul écrit | 101 | 8 |  |  |
 | histoire du salut | 101 | 0 |  |  |
@@ -359,10 +359,10 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | servir dieu | 88 | 120 | yes | yes |
 | épouse de christ | 88 | 4 |  |  |
 | appel divin | 87 | 3 |  |  |
-| oeuvre de dieu | 87 | 7 |  |  |
 | sommes parvenus | 87 | 6 | yes | yes |
 | prophète william | 87 | 1 |  |  |
 | grand et terrible | 86 | 9 | yes | yes |
+| oeuvre de dieu | 86 | 7 |  |  |
 | enfant de dieu | 86 | 162 |  |  |
 | prophète william branham | 86 | 1 |  |  |
 | mettre accent | 86 | 7 |  |  |
@@ -563,7 +563,7 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | prêter attention | 61 | 21 | yes | yes |
 | deuxième partie | 61 | 7 |  |  |
 | eglise du dieu | 61 | 82 |  |  |
-| parole parlee | 61 | 3 |  |  |
+| parole parlee | 61 | 2 |  |  |
 | différents pays | 61 | 3 |  |  |
 | pays promis | 61 | 28 |  |  |
 | posé la question | 61 | 14 |  |  |
@@ -646,18 +646,18 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | saint-roch case postale | 41 |  |  |
 | nuée surnaturelle | 40 |  |  |
 | règne de christ | 40 |  |  |
+| saintes écritures | 40 | yes | yes |
 | mener le combat | 40 |  |  |
 | grande guerre | 40 |  |  |
 | dieu conformément | 39 | yes |  |
 | préparation de epouse | 39 |  |  |
 | disciple de jésus-christ | 39 |  |  |
-| saintes écritures | 39 | yes | yes |
 | faux dieux | 39 |  |  |
 | écrit dans jean | 38 |  |  |
 | fondement biblique | 38 |  |  |
 | position spirituelle | 38 |  |  |
 | ministère du prophète | 38 |  |  |
-| frank editorial | 37 |  |  |
+| frank éditorial | 37 |  |  |
 | commission divine | 37 |  |  |
 | manière générale | 37 |  |  |
 | chercher la face | 37 |  |  |
@@ -672,12 +672,12 @@ Two- and three-word phrases found in at least 8 French works, by number of Frenc
 | écrit au verset | 34 |  |  |
 | assemblées locales | 34 |  |  |
 | véritables serviteurs | 34 |  |  |
+| évangile du royaume | 34 |  | yes |
 | huile de réserve | 34 |  |  |
 | formation spirituelle | 34 |  |  |
 | doctrines bibliques | 33 |  |  |
 | révélée notre génération | 33 |  |  |
 | appel direct | 33 |  |  |
-| évangile du royaume | 33 |  | yes |
 | marche spirituelle | 33 |  |  |
 | temple de jérusalem | 33 | yes | yes |
 | églises du message | 33 |  |  |

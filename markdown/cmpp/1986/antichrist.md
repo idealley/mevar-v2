@@ -229,9 +229,9 @@ local_pdf: "https://files.mevar.org/cmpp/1986/antichrist.pdf"
 html_url: "http://www.cmpp.ch/antichrist.htm"
 title_page: ["Titre original de l’ouvrage:","Die Antichrist","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1986 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
-# L’ANTICHRIST
+# L’antichrist
 
-## AVANT-PROPOS
+## Avant-propos
 
 Je suis bien conscient de la portée de ces exposés et je sais aussi que cela entraînera des conséquences. Cependant, face à l’urgence des besoins, il ne me reste aucun autre choix qu’écrire ce qui doit être dit, même s’il ne faut le faire qu’en style télégraphique. Celui qui le veut peut alors commencer à sonder les Saintes Ecritures. Comme toujours, les uns l’accepteront et les autres le rejetteront. Il y aura des personnes qui se réjouiront du fond du coeur de ce que quelqu’un aura eu le courage de prendre le mal à sa racine et, où cela est possible, d’y mettre la hache. Les autres se fâcheront.
 
@@ -252,7 +252,7 @@ Puisse cette brochure être en bénédiction à tous les lecteurs et que beaucou
 Krefeld, juillet 1986  
 L’auteur
 
-## INTRODUCTION
+## Introduction
 
 Dans cet exposé nous nous référons principalement au livre de Daniel et à l’Apocalypse. Jusque dans un passé assez récent, même les docteurs de la Bible internationalement connus ne pouvaient pas vraiment entreprendre l’étude du contenu de ces deux livres prophétiques. Ils se trouvaient sans cesse devant de nouvelles énigmes parce qu’ils n’étaient pas en mesure d’y décoder le langage symbolique utilisé. Ce qui a été écrit en vertu d’une inspiration directe ne peut être dévoilé, pour être compris, que par une révélation particulière d’en-haut. A cet égard aucun esprit philosophique humain ne peut sonder ces choses; **il faut que ce soit l’Esprit de Dieu qui éclaire et révèle ce qui est caché** (1 Cor. 2.10-13). Parce que le temps pour la partie prophétique n’était pas encore venu, l’on a simplement écrit à ce sujet selon sa propre connaissance et son meilleur savoir.
 
@@ -280,7 +280,7 @@ Dans Apocalypse 22.6 nous lisons ceci: *“Ces paroles sont certaines et vérita
 
 Lorsqu’arrivent des événements en rapport avec l’histoire du salut, toujours Dieu envoie un ange, c’est-à-dire un prophète. *“Or le Seigneur, l’Eternel, ne fera rien qu’il ne révèle son secret à ses serviteurs les prophètes”* (Amos 3.7). C’est ainsi par exemple que la naissance de Jean-Baptiste fut annoncée par un ange (Luc 1.13). Dans les champs de Bethléhem les bergers entendirent chanter les armées célestes et ils entendirent de la bouche de l’ange l’annonce de la naissance du Sauveur: *“N’ayez point de peur, car voici, je vous annonce un grand sujet de joie qui sera pour tout le peuple; car aujourd’hui, dans la cité de David, vous est né un Sauveur, qui est le Christ, le Seigneur”* (Luc 2.10,11). **L’ouverture des Sceaux fut aussi annoncée d’une manière surnaturelle.**
 
-## CHRIST ET L’ANTICHRIST
+## Christ et l’antichrist
 
 Dans la lutte pour obtenir de la clarté sur ce thème si important au sujet de l’antichrist, c’est sans idées préconçues que nous devons nous tourner vers la Parole de Dieu afin que cette mystérieuse personnalité soit éclairée par les Ecritures. Comme nous l’avons déjà mentionné, des opinions humaines existent depuis longtemps, avec des variations fort différentes de l’une à l’autre. Nous avons cependant droit à une réponse infaillible et irréfutable. Et celle-ci ne peut nous être donnée qu’au travers de la Parole infaillible de Dieu.
 
@@ -328,7 +328,7 @@ Les comparaisons suivantes doivent nous donner quelques indices de l’Antichris
 
 Ces comparaisons qui pourraient être poursuivies à volonté sont nécessaires afin que nous puissions nous représenter quelle est cette personne. Dans notre exposé, les contrastes que beaucoup jusqu’à maintenant n’ont pas reconnus deviendront encore plus distincts à la lumière. Dans Daniel, dans les épîtres des apôtres et dans l’Apocalypse nous rencontrons différentes désignations qui cependant décrivent toujours la même personne, respectivement le même système dans sa multiplicité.
 
-## L’ORIGINE
+## L’origine
 
 Aussi certainement que le Christ ne peut être reconnu pour le Véritable que par seule révélation d’en-haut, tout aussi sûrement ne peut-on reconnaître l’antichrist que par seule illumination d’en-haut. **De même que Christ est la révélation de Dieu sous une forme humaine, ainsi l’Antichrist, au temps où il se présentera directement, sera la manifestation personnifiée de Satan dans un homme.** Satan n’est certainement pas un athée, il croit en Dieu et il tremble (Jacq. 2.19). Son représentant sur la terre suit tout à fait ses empreintes. Vu de l’extérieur nous avons affaire à un homme particulièrement pieux qui utilise même des passages de la Bible comme Satan le fit lors de la tentation de Jésus.
 
@@ -340,7 +340,7 @@ Christ nous est décrit par les différentes désignations qui chaque fois Le pr
 
 Comme nous l’avons déjà mentionné, l’antichrist est appelé de divers titres à chaque fois en relation avec ce qu’il est, tel que: le “faux prophète”, “l’inique” (C’est-à-dire celui qui est sans la loi), “l’adversaire” et ainsi de suite. Pour celui qui est versé dans les Saintes Ecritures, il ne sera pas difficile de trouver que toutes les qualités et les attributs de Dieu concordent cent pour cent avec Christ et que les caractéristiques de Satan se retrouvent dans l’antichrist.
 
-## ANTI = CONTRE
+## Anti = contre
 
 La clef pour la bonne compréhension et pour suivre les traces de cette personne mystérieuse se trouve dans le mot *anti.* Comme tout le monde le sait, *anti* signifie “contre”. L’antichrist est donc l’antagoniste, l’adversaire de Christ. **La tromperie de cette personne consiste cependant en ceci, c’est qu’elle se réclame de Christ.** Et pourtant toutes ses doctrines et l’ensemble de ses pratiques **sont en opposition avec Christ et Sa Parole.** Il parle de Christ, cependant il lie à lui-même ceux qui le suivent et qui, à son sens, sont appelés “des croyants”. Ceux-ci croient à sa parole, et non pas à la Parole de Christ.
 
@@ -368,7 +368,7 @@ Comme nous l’avons déjà mentionné on reconnaît un faux prophète par le fa
 
 L’antichrist n’expérimentera jamais un exaucement de prière; jamais par son moyen, comme ce fut le cas au travers de Christ, un paralytique ne pourra marcher, un aveugle ne pourra voir ou un sourd entendre. Malgré cela, le monde entier l’ovationnera et lui rendra hommage: *“… pour ceux qui périssent, parce qu’ils n’ont pas reçu l’amour de la vérité pour être sauvés. Et à cause de cela, Dieu leur envoie une énergie d’erreur pour qu’ils croient au mensonge, afin que tous ceux-là soient jugés, qui n’ont pas cru la vérité, mais qui ont pris plaisir à l’injustice”* (2 Thes. 2.10-12). Pensons à cela: de nom, l’antichrist est un “christ”, un oint, mais au fond il est contre Christ. **Il parle du Royaume de Dieu, mais il édifie son propre royaume dans lequel il règne.**
 
-## SA PROVENANCE
+## Sa provenance
 
 Pour mieux comprendre la tactique et la nature de l’antichrist, nous devons tout d’abord nous occuper de Satan. Cela peut paraître étrange, cependant nous montrerons les parallèles existant entre lui et l’antichrist. Dans Ezéchiel 28.12-15 nous lisons ceci: *“Toi, tu étais la forme accomplie de la perfection, plein de sagesse, et parfait en beauté; tu as été en Eden, le jardin de Dieu; toutes les pierres précieuses te couvraient, le sardius, la topaze et le diamant, le chrysolithe, l’onyx et le jaspe, le saphir, l’escarboucle et l’émeraude, et l’or; le riche travail de tes tambourins et de tes flûtes était en toi; au jour où tu fus créé ils étaient préparés. Tu étais un chérubin oint, qui couvrait, et je t’avais établi tel; tu étais dans la sainte montagne de Dieu, tu marchais parmi les pierres de feu. Tu fus parfait dans tes voies depuis le jour où tu fus créé, jusqu’à ce que l’iniquité s’est trouvée en toi”.*
 
@@ -388,7 +388,7 @@ Il est écrit plus loin: *“… par ta sagesse et par ton intelligence tu t’e
 
 Nous devons bien garder à la pensée la description générale de Satan et de ses différentes caractéristiques car nous les rencontrons toujours à nouveau lorsqu’il s’agit de son représentant sur la terre. En outre, ce qui est particulièrement important, **c’est qu’il s’est présenté comme un ange de lumière et que c’est également ainsi qu’apparaîtront ses représentants** jusqu’au dernier, dans lequel il va s’incarner. L’apôtre Paul a pu regarder cela et il le décrit en disant: *“Car de tels hommes sont de faux apôtres, des ouvriers trompeurs, se transformant en apôtres de Christ; et ce n’est pas étonnant, car Satan lui-même se transforme en ange de lumière: Ce n’est donc pas chose étrange si ses ministres aussi se transforment en ministres de justice, desquels la fin sera selon leurs oeuvres”* (2 Cor. 11.13-15).
 
-## DEVOILEMENT DU MYSTERE
+## Dévoilement du mystère
 
 Comme nous l’avons déjà mentionné auparavant, le prophète Daniel vit à l’avance en symboles les événements essentiels du temps de la fin. Il en rendit ainsi témoignage au roi: *“Mais il y a un Dieu dans les cieux qui révèle les secrets et fait savoir au roi Nebucadnetsar ce qui arrivera à la fin des jours”* (Dan. 2.28). Maintenant comme alors le peuple de Dieu est le mieux informé qui soit. Ce que le Seigneur dit dans Matthieu 23.34 est encore valable aujourd’hui: *“C’est pourquoi voici, moi, je vous envoie des prophètes, et des sages, et des scribes”.* Tandis que les politiciens dépendent pour l’avenir de leurs suppositions, **les croyants, eux, reconnaissent les signes des temps à la lumière de la Parole de Dieu**. Ils reconnaissent que nous vivons maintenant dans une période prophétique. Ils peuvent placer correctement ce que les prophètes et les apôtres ont vu en vision et ont écrit sous l’inspiration de l’Esprit. La Parole de Dieu vient toujours aux prophètes, jamais aux théologiens.
 
@@ -406,7 +406,7 @@ Jean vit la même bête avec les dix cornes **sortir également de la mer des pe
 
 Un peu plus loin il est dit que Satan lui-même mit à la disposition de ce dernier royaume sur la terre son trône et sa puissance: *“… et le dragon lui donna sa puissance et son trône, et un grand pouvoir. Et je vis l’une de ses têtes comme frappée à mort; et sa plaie mortelle avait été guérie”* (Apoc. 13.2,3). Quel est ce dragon qui donne à cette puissance mondiale sa force et son trône, nous le trouvons dans Apocalypse 12.9: *“Et le grand dragon fut précipité, le serpent ancien, ce lui qui est appelé diable et Satan”.* **Le dernier empire mondial sera donc sous l’influence directe de Satan, et c’est de lui que sortira, comme nous allons le constater plus tard, l’Antichrist.**
 
-## L’ARROGANCE
+## L’arrogance
 
 Le prophète Daniel vit aussi à l’avance le point culminant de l’exercice de la puissance de Satan au travers de l’antichrist. Celui-ci sort de la bête aux dix cornes qui lui fut montrée au chapitre 7 et il relate ceci: *“Je considérai les cornes, et voici une autre corne, petite, monta au milieu d’elles, et trois des premières cornes furent arrachées devant elles. Et voici, il y avait à cette corne des yeux comme des yeux d’homme, et une bouche proférant de grandes choses”* (v. 8). Il sortira du dernier royaume une personnalité, **un homme dont la parole sera acceptée par tous les conducteurs religieux et politiques**.
 
@@ -428,7 +428,7 @@ Le Seigneur a promis aux Siens dans Jean 14.2,3: *“Dans la maison de mon Père
 
 Pendant qu’a lieu la grande tribulation sur la terre, les rachetés se trouvent dans la gloire. Jean vit la troupe des vainqueurs sur la mer de verre. Il en rend témoignage: *“Et je vis comme une mer de verre, mêlée de feu, et ceux qui avaient remporté la victoire sur la bête, et sur son image, et sur le nombre de son nom, se tenant debout sur la mer de verre, ayant des harpes de Dieu”* (Apoc. 15.2). La troupe des vainqueurs sera composée de personnes qui ont acquis la victoire sur l’image de la bête et sur le nombre de son nom. Nous allons encore arriver à cela.
 
-## INDICES PARTICULIERS
+## Indices particuliers
 
 Le prophète Daniel nous donne de cet homme, qui par ailleurs se prétend roi, d’autres signes qui ne peuvent manquer d’être vus ou entendus. Finalement son palais royal surpasse toutes les autres demeures royales. Au chapitre 11 de Daniel, verset 36, les pensées suivantes sont exprimées: *“Et le roi agira selon son bon plaisir, et s’exaltera, et s’élèvera contre tout dieu, et proférera des choses impies contre le Dieu des dieux; et il prospérera…”.* On rencontre continuellement la présomption de cet homme. Il est dit également au verset 37: *“… et il n’aura point égard à l’objet du désir des femmes, ni à aucun dieu; car il s’agrandira au-dessus de tout”.* Dieu a si clairement décrit les signes de sa personnalité que même un simple homme peut les saisir. **C’est le Seigneur qui a établi le mariage, mais cet homme rejette cela et s’oppose ainsi à l’ordre divin.** *“Il n’aura point égard* à *l’objet du désir des femmes”,* écrit Daniel sous l’inspiration du Saint-Esprit.
 
@@ -438,7 +438,7 @@ Paul écrit à l’Eglise de Corinthe: *“N’avons-nous pas le droit de mener 
 
 Plus loin il est dit du chef de ce système: *“… il honorera le dieu des forteresses: avec de l’or, et avec de l’argent, et avec des pierres précieuses, et avec des choses désirables, il honorera un dieu que n’ont pas connu ses pères”* (Dan. 11.38). L’expression *“il honorera le dieu des forteresses”* nous parle de **l’engagement belliqueux qui se trouve derrière cette puissance religieuse**. L’histoire témoigne des croisades, des guerres de religions, des dévastations qui ont été commises au Nom de Dieu sous l’emblème de la Croix. Pour rendre le contexte encore plus clair, l’indication relative à l’or, à l’argent et aux pierres précieuses ne manque pas. Le dieu qu’il s’est apprêté lui-même est un dieu que ses ancêtres n’ont pas honoré. **Le Dieu d’Abraham, d’Isaac et de Jacob est un Dieu tout autre.**
 
-## LA PROSTITUEE ASSISE SUR LA BETE
+## La prostituée assise sur la bête
 
 Nous rencontrons maintenant un symbole tout nouveau qui appartient également à l’ensemble de la constellation anti-chrétienne composée de la puissance politique terrestre et de la puissance religieuse spirituelle. Dieu avait une raison pour choisir de telles images. Il n’aurait pas pu en rendre le sens plus compréhensible. Dans Apocalypse 17 le dernier royaume nous est présenté dans sa phase finale. **La grande prostituée en joue le rôle principal** car si elle chevauche la bête, c’est parce qu’elle exerce aussi la domination sur la puissance du monde, **c’est-à-dire qu’elle en tire profit pour atteindre son but**. Jean entendit une voix qui lui disait: *“Viens ici; je te montrerai la sentance de la grande prostituée qui est assise sur plusieurs eaux, avec laquelle les rois de la terre ont commis fornication; et ceux qui habitent sur la terre ont été enivrés du vin de sa fornication”* (Apoc. 17.1,2). Prenons en considération ceci que c’est le jugement tel que Dieu le voit. Pour les hommes, la chose peut apparaître tout autre. Les puissants de la terre rivalisent entre eux pour obtenir sa faveur et **les habitants de la terre ont perdu la faculté de juger d’une façon sensée**. Un peu plus loin, Jean rapporte ceci: *“Et il m’emporta en esprit dans un désert: et je vis une femme assise sur une bête écarlate, pleine de noms de blasphèmes, ayant sept têtes et dix cornes”* (Apoc. 17.3).
 
@@ -484,7 +484,7 @@ Qui cherche à nier que toutes les personnalités marquantes, et tout particuli�
 
 Par le canal diplomatique, il lui a été accordé d’exercer une influence illimitée dans tout pays important de la terre. Il n’y a qu’une puissance ici-bas qui exerce une domination de façon aussi bien ouverte que secrète sur des rois et des hommes d’état, sur des démocraties et des dictatures. **Il y a une seule superpuissance qui enveloppe le monde entier.**
 
-## EUROPE DE L’EST ET DE L’OUEST
+## Europe de l’Est et de l’Ouest
 
 Cette constellation est d’une grande importance dans sa phase finale. Le développement mondial, que ce soit dans le domaine politique ou économique contraint les états faibles à s’associer aux forts. En l’occurrence, **sept pays de l’Ouest de l’Europe ont un rôle directeur, et c’est ce que symbolisent les sept têtes**.
 
@@ -522,7 +522,7 @@ Cependant c’est là-bas que Dieu interviendra, et par une seule attaque Il pr�
 
 En Zacharie 14.12 nous trouvons ceci: *“Et c’est ici la plaie dont l’Eternel frappera tous les peuples qui auront fait la guerre contre Jérusalem: leur chair se fondra tandis qu’ils seront debout sur leurs pieds, et leurs yeux se fondront dans leurs orbites, et leur langue se fondra dans leur bouche”.* Cette bataille décisive tombe dans la période du jugement apocalyptique. **Elle a lieu lorsque le sixième ange répand sa coupe de la colère de Dieu** (Apoc. 16.12-16). C’est alors que s’accomplissent les paroles suivantes: *“Et dans les jours de ces rois, le Dieu des cieux établira un royaume qui ne sera jamais détruit”* (Dan. 2.44). Dans la mesure où les événements eschatologiques commencent, s’accomplit ce qui est écrit: *“Car il consomme et abrège l’affaire en justice, parce que le Seigneur fera une affaire abrégée sur la terre”* (Rom. 9.28).
 
-## LA BETE AVEC LES DEUX CORNES
+## La bête avec les deux cornes
 
 Apocalypse 13 nous parle encore d’une deuxième bête. Jean écrit à ce sujet: *“Et je vis une autre bête montant de la terre; et elle avait deux cornes semblables à un agneau; et elle parlait comme un dragon”* (v.11). Cette bête ne sort pas de la mer des peuples, mais bien de la terre, **c’est-à-dire qu’elle ne vient pas des états de l’empire romain**, comme nous allons le voir, mais bien du continent nord-américain, où en son temps il n’y avait pas des masses de peuples.
 
@@ -536,7 +536,7 @@ Nous avons lu au sujet de cette deuxième bête qu’elle amène la terre entiè
 
 Le verset 13 d’Apocalypse 13 est très instructif: *“Et elle fait de grands miracles, en sorte que même elle fait descendre le feu du ciel sur la terre, devant les hommes”.* Le progrès technique inimaginable survenu après la deuxième guerre mondiale tient presque du miracle. **L’avalanche de feu** qui dans les derniers jours de la guerre est tombée sur l’Allemagne, et en Extrême-Orient sur le Japon, **n’est qu’un faible avant-goût de ce qui va arriver dans un proche avenir**.
 
-## L’IMAGE DE LA BETE
+## L’image de la bête
 
 Maintenant nous rencontrons une nouvelle notion, **c’est-à-dire celle de “l’image de la bête”**. Il est dit de la deuxième bête: *“Et elle séduit ceux qui habitent sur la terre, à cause des miracles qu’il lui fut donné de faire devant la bête, disant à ceux qui habitent sur la terre de faire une image à la bête qui a la plaie de l’épée et qui a repris vie”* (Apoc. 13.14). C’est une excellente description pour le développement que nous avons déjà observé. Les USA prennent une position privilégiée au milieu de l’alliance militaire: leurs paroles, leur influence ont du poids. Par rapport aux choses religieuses **on n’arrivera pas à démembrer les églises protestantes et à les intégrer complètement; celles-ci reconnaîtront uniquement la papauté**, et avec cela elles sauvegarderont le droit à leur propre existence et seront reconnues de la papauté.
 
@@ -554,7 +554,7 @@ De la même manière son image, qui est son pendant, la réunion des protestants
 
 Cela arrivera au point que quiconque dira quelque chose contre l’église romaine sera puni. **Plus qu’une seule voix sera autorisée sur la terre: toute autre voix sera interdite et on contraindra les gens à la reconnaître et à devenir membres d’une dénomination appartenant au Conseil Mondial des Eglises.** Celui qui ne se pliera pas à ces deux systèmes sera mis hors la loi.
 
-## LA MARQUE DE LA BETE
+## La marque de la bête
 
 En Apocalypse 13.16 il est dit: *“Et elle* (la deuxième bête) *fait qu’à tous, petits et grands, et riches et pauvres, et libres et esclaves, on leur donne une marque sur leur main droite ou sur leur front”.* Ici aussi nous avons à faire avec le langage symbolique de la Bible. **Une marque est un signe distinctif, un indice.** Paul dit: *“Désormais que personne ne vienne me troubler, car moi je porte en mon corps les marques du Seigneur Jésus”* (Gal. 6. 17). Il a souffert à cause de Christ et à cause de la véritable proclamation de l’Evangile. **Il était entré avec Lui dans une communion de souffrance.** Ce n’était certainement pas une stigmatisation extérieurement visible des cicatrices de Jésus. Cela aurait été en réalité une moquerie diabolique du saint acte de salut de Dieu en Jésus-Christ notre Seigneur qui a été accompli une seule fois et qui ne peut être imité. Paul était reconnu et caractérisé comme étant serviteur de Christ, et il a porté Son opprobre.
 
@@ -564,7 +564,7 @@ Dans les cercles de croyants bibliques les gens s’occupent de la marque de la 
 
 La plus petite communauté de croyants d’aujourd’hui se tient également rigoureusement à la ligne de conduite **qu’elle s’est elle-même établie**; seuls ceux qui appartiennent à la même organisation peuvent exercer au milieu d’eux leur fonction de prédicateur. Les protestants ont contesté à l’église catholique sa prétention **d’être l’église hors de laquelle il n’y a point de salut**, et cela avec raison. Cependant, après un examen plus rigoureux, on trouve les mêmes prétentions dans toutes les dénominations, jusqu’au plus petit groupe séparé. Pourtant que ce soit à voix haute ou à voix basse, tous disent que si l’on ne croit pas leur doctrine, leur connaissance, leur révélation, etc., on ne peut être sauvé. **Par cela ils s’identifient avec la marque de la première religion chrétienne organisée**, même s’ils différent doctrinalement l’un de l’autre. Cette marque suffit pour recevoir automatiquement la marque de la bête et être soumis à l’esprit de l’antichrist, **lequel règne partout où des hommes sont liés à une organisation, à une doctrine particulière ou à une personne**. Cela signifie que toutes les églises d’état ou indépendantes, jusqu’au plus petit mouvement ou nouvelle organisation, **portent déjà la marque de la bête sans le savoir**.
 
-## LE NOMBRE MYSTERIEUX
+## Le nombre mystérieux
 
 Pour les personnes qui ne prendront pas la marque de la bête, comme nous l’avons déjà mentionné, des temps de profonde détresse vont venir. En ce qui concerne les choses religieuses, tous ceux qui ne se joindront pas au système antichrist auront à souffrir des persécutions. **En rapport avec l’économie, cela signifie que tous devront se plier à ce système d’économie mondiale. Celui qui n’y participera pas sera boycotté et exclu du commerce.** C’est ce que nous lisons dans Apocalypse 13.17: *“… et que personne ne peut acheter ou vendre, sinon celui qui a la marque, le nom de la bête, ou le nombre de son nom”.*
 
@@ -596,7 +596,7 @@ Personne ne pourra croire sérieusement que les gens porteront une inscription v
 
 Celui qui suit véritablement le Seigneur ne demeurera pas, sur ce point également, dans les ténèbres. Le Saint-Esprit accorde à tous la clarté parce que le temps pour cela est venu. **Beaucoup de personnes sincères dans leur foi se trouvent sans le savoir, comme nous l’avons déjà exposé, dans le système antichrist parce qu’ils sont membres d’une église qui appartient au Conseil des Eglises**, et ils prêtent l’oreille avec curiosité lorsque l’on prêche sur l’antichrist. Les interprètes de la Bible cherchent l’antichrist en Syrie, en Libye, même en Israël et ainsi de suite. Des personnes n’ayant aucun éclaircissement divin sont conduites dans l’erreur par leur soi-disant bon sens, et ils en séduisent d’autres. Par leur connaissance ils impressionnent les ignorants, des personnes qui n’ont point de connaissance de la Bible. **Ce jeu perfide et trompeur de Satan qui a la fausse prétention d’apporter un éclaircissement particulier doit être stoppé par le clair langage de la Parole.** Puisse cet exposé en accord avec les Saintes Ecritures réussir cela.
 
-## UNE COMPARAISON PRECISE
+## Une comparaison précise
 
 Pour conclure, nous voulons encore aborder quelques traits caractéristiques de l’Antichrist. **Paul le désigne comme étant “l’inique”, c’est-à-dire quelqu’un qui s’est défait de la loi.** Cela n’a rien à faire avec les exigences établies par la loi de Moïse, mais au contraire **il s’agit de la partie révélée de l’histoire du salut dans l’Ancien Testament**. Tous ont violé la loi et chacun a transgressé les commandements de Dieu. Il est écrit dans Hébreux 3.5: “*Et Moïse a bien été fidèle dans toute sa maison, comme serviteur, en témoignage des choses qui devaient être DITES”.* Il s’agit donc du plan de salut qui est esquissé comme une ombre au milieu de toutes les prescriptions de à loi. Dans le sermon sur la montagne, Jésus dit: *“Ne pensez pas que je sois venu pour abolir la loi ou les prophètes: je ne suis pas venu pour abolir, mais pour accomplir; car, en vérité, je vous dis: Jusqu’à ce que le ciel et la terre passent, un seul iota ou un seul trait de lettre ne passera point de la loi, que tout ne soit accompli”* (Mat. 5.17,18). Sans aucun doute, l’expression “accompli” **se rapporte à la partie prophétique,** laquelle déjà dans l’Ancien Testament était le coeur de la Parole.
 

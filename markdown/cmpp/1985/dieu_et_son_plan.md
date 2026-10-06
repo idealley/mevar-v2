@@ -306,11 +306,11 @@ local_pdf: "https://files.mevar.org/cmpp/1985/dieu_et_son_plan.pdf"
 html_url: "http://www.cmpp.ch/dieu_et_son_plan.htm"
 title_page: ["Titre original de l’ouvrage:","Gott und Sein Plan mit der Menschheit","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1985 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
-# DIEU ET SON PLAN POUR L’HUMANITE
+# Dieu et son plan pour l’humanité
 
 Un exposé du point de vue biblique
 
-## AVANT-PROPOS
+## Avant-propos
 
 Dans cette brochure j’ai cherché à donner un court exposé sur Dieu et Son plan à l’égard de l’humanité en me basant sur l’Ancien et le Nouveau Testament. Pour cela j’ai dû mettre l’accent sur le thème de la divinité. Malheureusement nous ne pouvions parfois prendre en considération que quelques passages bibliques appartenant au thème traité. Le lecteur a cependant la possibilité de sonder plus profondément les Saintes Ecritures, et cela jusqu’à ce que la clarté nécessaire lui soit accordée par la Vérité.
 
@@ -353,7 +353,7 @@ Les représentations humaines de Dieu sont extrêmement anciennes. Elles remonte
 
 ---
 
-## LA DIVINITE
+## La divinité
 
 Les religions juive, chrétienne et musulmane sont appelées monothéistes, ce qui signifie que leurs membres croient qu’il y a un seul Dieu. Cependant chacune d’elles est parvenue à une connaissance de Dieu complètement différente; leur enseignement et leur espérance contrastent vivement de l’une à l’autre.
 
@@ -409,7 +409,7 @@ Les paroles de Deutéronome 4.35-39 sont également un témoignage clair: *“Ce
 
 Nous lisons dans Néhémie 9.13: *“Et tu descendis sur la montagne du Sinaï; et tu parlas avec eux depuis les cieux, et tu leur donnas des ordonnances droites et des lois de vérité, de bons statuts et de bons commandements”* (Darby). Ces passages de l’Ecriture se rapportent aux événements qui eurent lieu lorsque la loi leur fut donnée. Le Seigneur était descendu sur la montagne, dans le feu, et Il leur parlait d’une voix puissante. Le peuple était un témoin oculaire de ces événements, et il s’effraya. *“Et tout le peuple aperçut les tonnerres, et les flammes, et le son de la trompette, et la montagne fumante; et le peuple vit cela, et ils tremblèrent et se tinrent loin, et dirent à Moïse: Toi, parle avec nous et nous écouterons; mais que Dieu ne parle point avec nous, de peur que nous ne mourions”* (Ex. 20.18,19 — Darby).
 
-## LE SEIGNEUR DANS UNE FORME D’ANGE
+## Le Seigneur dans une forme d’ange
 
 Il nous est rapporté de Moïse que l’Ange de l’Eternel lui est apparu comme une flamme de feu et que Sa voix retentissait du milieu d’un buisson d’épines (Ex. 3.2 — Darby). Nous lisons au verset 4: *“Et l’Eternel* (Jahwe) *vit qu’il se détournait pour voir; et Dieu* (Elohim) *l’appela du milieu du buisson et dit: Moïse! Moïse! Et il dit: Me voici. Et il dit: N’approche pas d’ici; ôte tes sandales de tes pieds, car le lieu sur lequel tu te tiens est une terre sainte. Et il dit: Je suis le Dieu de ton père, le Dieu d’Abraham, le Dieu d’Isaac, et le Dieu de Jacob. Et Moïse cacha son visage, car il craignait de regarder Dieu”.*
 
@@ -429,7 +429,7 @@ Cet événement semble presque trop humain. Cependant c’est précisément en c
 
 Nous lisons dans Exode 24, depuis le verset 9: *“Et Moïse et Aaron, Nadab et Abihu, et soixante-dix des anciens d’Israël montèrent; et ils virent le Dieu d’Israël et sous ses pieds comme un ouvrage de saphir transparent, et comme le ciel même en pureté. Et il ne porta point sa main sur les nobles d’entre les fils d’Israël: ils virent Dieu, et ils mangèrent et burent”* (Darby). Aucun homme ne pouvait voir Dieu dans sa plénitude originelle, en tant qu’Esprit. Il ne fut vu qu’après être entré dans Son corps spirituel. Les soixante-dix anciens, et d’autres le virent dans Sa gloire. Le prophète Ezéchiel rapporte ceci au premier chapitre et au verset 26: *“Et au-dessus de l’étendue qui était sur leurs têtes, il y avait comme l’aspect d’une pierre de saphir, la ressemblance d’un trône; et, sur la ressemblance du trône, une ressemblance comme l’aspect d’un homme, dessus, en haut”* (Darby). Il n’y a aucun passage de l’Ecriture où l’on puisse voir trois personnes sur le trône. On ne trouve pas davantage dans la Bible les expressions “un Dieu en trois” ou “trinité”. Aucun prophète ou apôtre n’a interprété même un seul passage des Saintes Ecritures dans le sens que Dieu consisterait en plusieurs personnes.
 
-## UNE PAROLE D’ECLAIRCISSEMENT
+## Une parole d’éclaircissement
 
 A la lumière de ce que nous venons d’exposer, nous pouvons reconnaître à qui Dieu parle lors de la création lorsqu’Il dit: *“Faisons l’homme à notre image…”* (Gen 1.26 — Darby). Les Saintes Ecritures ont aussi une réponse clarifiante et catégorique à ce sujet. Dans Job 38.4-7, le Seigneur demande à Son serviteur: *“Où étais-tu quand j’ai* (non pas: nous) *fondé la terre? Déclare-le moi, si tu as de l’intelligence. Qui lui a établi sa mesure, si tu le sais? Ou qui a étendu le cordeau sur elle? Sur quoi ses bases sont-elles assises, ou qui a placé sa pierre angulaire, quand les étoiles du matin chantaient ensemble, et que tous les fils de Dieu éclataient de joie?”* (Darby). Voilà qui ne peut être dit plus clairement. Lorsque le Seigneur Dieu créa la terre, les armées célestes chantaient ensemble et *les anges* éclataient de joie. Ainsi Dieu n’était pas seul; Il n’a parlé ni à Lui-même ni à un autre Dieu, car il n’y en avait point d’autre. Mais c’est aux anges qui l’entouraient qu’Il a parlé.
 
@@ -441,7 +441,7 @@ Dieu S’est révélé aux hommes qui croyaient en Lui. Ils recevaient Ses prome
 
 Dieu ne s’est pas davantage multiplié qu’Il n’a changé. Aucun Juif ne pourrait arriver à l’idée d’une trinité; c’est tout simplement exclu parce qu’une telle chose ne peut se trouver dans le témoignage entier des Saintes Ecritures. Dieu se présente bien à nous dans Sa diversité, mais chaque fois, la façon qu’Il a de Se révéler est en relation avec la réalisation de Son plan.
 
-## LA TRANSITION
+## La transition
 
 En ce qui concerne le thème de la divinité, le Nouveau Testament réserve aux hommes des difficultés sensiblement plus grandes que l’Ancien. Cela vient de ce qu’aujourd’hui nous avons affaire à l’héritage d’une pensée théologique tout à fait antibiblique Même au concile de Nicée, en 325, il n’y avait encore aucune discussion sur une trinité. Il est connu de tout historien de l’Eglise qu’à cette occasion il était question de la divinité de Jésus-Christ, doctrine qu’Athanase défendait clairement, par opposition à celle d’Anus. **Les diverses formulations de la trinité sont le produit de l’entendement et elles sont basées sur un malentendu total.** Non seulement les paroles des prophètes et des apôtres n’ont pas été prises en considération à ce sujet, mais également les déclarations des hommes de Dieu qui ont suivi les temps apostoliques. La doctrine de la trinité provient d’une époque de la pensée philosophico-théologique. On commandait à sa propre raison, disant: «Tu dois voir les trois Personnes comme étant un seul Dieu!». Néanmoins on n’en voyait pas qu’un seul mais trois, et c’est ainsi qu’on passa du monothéisme au trinitarisme.
 
@@ -459,7 +459,7 @@ Avant d’entrer de façon détaillée dans les différentes sphères où notre 
 
 Paul rend un témoignage convaincant lorsqu’il dit ceci: *“Et, sans contredit, le mystère de la piété est grand: Dieu a été manifesté en chair, a été justifié en Esprit, a été vu des anges, a été prêché parmi les nations, a été cru au monde, a été élevé dans la gloire”* (1 Tim. 3.16 — Darby). Le témoignage unanime des prophètes et des apôtres ne peut pas être ignoré, pas plus qu’il ne peut être mis de côté. Paul écrit aux Colossiens: *“… afin que leurs coeurs soient consolés, étant unis ensemble dans l’amour et pour toutes les richesses de la pleine certitude d’intelligence, pour la connaissance du mystère de Dieu, dans lequel sont cachés tous les trésors de la sagesse et de la connaissance”* (Col. 2.2,3 — Darby). La divinité de Jésus-Christ est le fondement de notre foi et la condition absolue pour notre rédemption.
 
-## LE CREATEUR
+## Le Créateur
 
 Les désignations employées dans l’Ancien Testament à l’égard de Dieu sont également employées à l’égard du Seigneur dans le Nouveau Testament: Rédempteur, Roi, Berger, et ainsi de suite. Le Seigneur Jésus est même placé en rapport avec la création. Nous lisons dans Jean 1.10: *“… et le monde fut fait par lui; et le monde ne l’a pas connu”* (Darby). Dans Colossiens 1.16,17 il est écrit: *“… car par lui ont été créées toutes choses, les choses qui sont dans les cieux et les choses qui sont sur la terre, les visibles et les invisibles, soit trônes, ou seigneuries, ou principautés, ou autorités: toutes choses ont été créées par lui et pour lui; et lui est avant que toutes choses, et toutes choses subsistent par lui”* (Darby). Il ressort du contexte que ces passages bibliques se rapportent bien à Jésus-Christ.
 
@@ -469,7 +469,7 @@ Par Dieu le Père, toutes choses sont venues à l’existence, et par le moyen d
 
 Dans le livre prophétique du Nouveau Testament, Il est de nouveau le Seigneur Dieu. Apocalypse 4.11: *“Tu es digne, notre Seigneur et notre Dieu, de recevoir la gloire, et l’honneur, et la puissance; car c’est toi qui as créé toutes choses, et c’est à cause de ta volonté qu’elles étaient, et qu’elles furent créées”* (Darby).
 
-## LE JE SUIS
+## Le Je suis
 
 Dans Jean 8.24 il est écrit: *“Je vous ai donc dit que vous mourrez dans vos péchés; car si vous ne croyez pas que c’est moi, vous mourrez dans* vos *péchés”* (Darby). La désignation “JE SUIS” a déjà depuis les jours de Moïse une signification particulière. *“Et Moïse dit à Dieu: Voici, quand je viendrai vers les fils d’Israël, et que je leur dirai: Le Dieu de vos pères m’a envoyé vers vous, et qu’ils me diront: Quel est son nom? que leur dirai-je? Et Dieu dit à Moïse: JE SUIS CELUI QUI SUIS. Et il dit: Tu diras ainsi aux fils d’Israël; JE SUIS m’a envoyé vers vous”* (Ex. 3.13,14 — Darby).
 
@@ -479,7 +479,7 @@ Dans Esaïe 44.6b le Seigneur dit: *“JE SUIS le premier, et JE SUIS le dernier
 
 Jahwe dit dans l’Ancien Testament: *“JE SUIS le premier et le dernier…”* et Jésus dit dans le Nouveau Testament: *“JE SUIS le premier et le dernier…”.* Dans Apocalypse 1.8, Il est de nouveau le Seigneur Dieu: *“Moi, JE SUIS l’alpha et l’oméga, dit le Seigneur Dieu, celui qui est, et qui était, et qui vient, le Tout-puissant”.* Il est vraiment merveilleux de suivre la démonstration de la Parole. **Jahwe de l’Ancien Testament est Jésus du Nouveau Testament, et Il demeure toujours le Même.** Le témoignage qu’Il donne de Lui-même dans Apocalypse 1.8 est d’un poids tout particulier. Bienheureux celui qui peut croire comme l’Ecriture le dit. Dieu n’a pas du tout la pensée de faire écrire une nouvelle Bible. Il dirait aujourd’hui ce qu’Il a toujours dit; Il n’a pas besoin d’en corriger quoi que ce soit.
 
-## LE ROI
+## Le roi
 
 Certes, aucun lecteur de la Bible ne peut ignorer combien de fois le Seigneur Dieu est appelé dans l’Ancien Testament le Roi. David s’écrie au psaume 5.2: *“Sois attentif à la voix de ma supplication, mon Roi et mon Dieu! car c’est toi que je prie”* (Darby). Le prophète Jérémie dit: *“Mais l’Eternel Dieu est vérité, lui est le Dieu vivant et le Roi d’éternité…”* (Jér. 10.10 — Darby). Le prophète Esaïe l’exprime par les paroles suivantes: *“Ainsi dit l’Eternel, le roi d’Israël et son rédempteur, l’Eternel des armées…”* (Esa. 44.6 — Darby). Nous trouvons dans Zacharie 9.9: *“Réjouis-toi avec transports, fille de Sion; pousse des cris de joie, fille de Jérusalem! Voici, ton roi vient à toi; il est juste et ayant le salut, humble et monté sur un âne, et sur un poulain, le petit d’une ânesse”* (Darby).
 
@@ -493,13 +493,13 @@ L’établissement de la royauté est encore à venir. Cependant cet événement
 
 Apocalypse 11.17 appartient à ce même contexte. *“Nous te rendons grâce, Seigneur, Dieu, Tout-puissant, celui qui est et qui était, de ce que tu as pris ta grande puissance et de ce que tu es entré dans ton règne”* (Darby). Dans Matthieu 25.31,32 il est dit ceci: *“Or, quand le fils de l’homme viendra dans sa gloire, et tous les anges avec lui, alors il s’assiéra sur le trône de sa gloire, et toutes les nations seront assemblées devant lui…”* (Darby). Il est dit dans Zacharie 14.9: *“Et l’Eternel sera roi sur toute la terre. En ce jour-là, il y aura un Eternel, et son nom sera un”* (Darby). Dans le même contexte nous trouvons Apocalypse 15.3: *“Grandes et merveilleuses sont tes oeuvres, Seigneur, Dieu, Tout-puissant! Justes et véritables sont tes voies, ô Roi des nations!”* (Darby). Ces passages bibliques devraient nous suffire pour montrer que l’un et l’autre, le Seigneur Dieu et le Seigneur Jésus-Christ, sont décrits pareillement comme étant le Roi. S’il n’en était pas ainsi, que Jahwe et Jahshua soient Le Même, alors nous aurions affaire à deux rois différents.
 
-## LE JUGE
+## Le juge
 
 Beaucoup de passages des Ecritures témoignent que Dieu est aussi le Juge. Le psaume 7.10 dit: *“Dieu est un juste juge”* (Darby). Le psaume 50.6 dit: *“… car Dieu lui-même est juge”* (Darby). Le psaume 58.11 dit: *“… certainement il y a un Dieu qui juge sur la terre”* (Darby). La parole d’Esaïe 33.22 est particulièrement instructive: *“Car l’Eternel est notre juge, l’Eternel est notre législateur, l’Eternel est notre roi; lui nous sauvera”* (Darby). Le Même qui a édicté la loi jugera conformément à Sa loi. Jacques exprime la même chose dans le Nouveau Testament: *“Un seul est législateur et juge, celui qui peut sauver et détruire”* (Jacq. 4.12 — Darby). Le prophète Jérémie déclare le Seigneur comme étant également le Juge. *“Et toi, Eternel des armées, qui juges justement…”* (Jér. 11.20 — Darby). A la fin de sa carrière, Paul pouvait dire: *“… désormais m’est réservée la couronne de justice que le Seigneur juste juge me donnera dans ce jour-là…”* (2 Tim. 4.8 — Darby). Il est écrit dans Jean 5.22: *“Car aussi le Père ne juge personne, mais il a donné tout le jugement au Fils”* (Darby).
 
 Au chapitre dix des Actes des apôtres, Pierre présente en peu de mots au centenier Corneille et à ceux qui se trouvent dans sa maison le plan du salut de Dieu. Conformément à sa prédication, Jésus a été établi par Dieu Juge des vivants et des morts (verset 42). Il est écrit dans Hébreux 12.23: *“Mais vous vous êtes approchés… de l’assemblée des premiers-nés inscrits dans les cieux, du juge qui est le Dieu de tous…”* (Segond). Ici également nous pourrions de nouveau demander: qui donc alors sera Juge? Sera-ce Dieu ou le Seigneur Jésus? Certainement qu’un seul sera Juge, c’est-à-dire Celui qui a donné la loi. Qu’on L’appelle Dieu ou Père, Seigneur ou Fils, c’est égal; il s’agit toujours de l’Unique. Les comparaisons et parallèles pourraient être poursuivis à volonté.
 
-## L’INTERRUPTION
+## L’interruption
 
 Malheureusement, dans son ensemble l’humanité n’a pas compris ce que Dieu veut, ni comment Il réalise Son plan. **Le dessein de Dieu consiste en ce qu’Il veut avoir pour l’éternité des fils et des filles vivant en communion avec Lui.** C’est pour cette vocation élevée que l’homme a été créé à son image. Il était le couronnement de Son oeuvre de création; c’est à lui que fut donnée la responsabilité d’exercer la domination sur la terre entière.
 
@@ -521,7 +521,7 @@ En naissant dans ce monde tout homme est séparé de Dieu. Chacun de nous agit e
 
 Dans les deux premiers millénaires, il y eut quelques personnes auxquelles Dieu se révéla individuellement, comme par exemple Hénoc, Noé, Abraham. L’humanité suivait son propre chemin et honorait toutes sortes de dieux. Du temps de Moïse, Dieu choisit le peuple d’Israël. Dieu donna la législation et les différents sacrifices qui devaient être présentés furent disposés. Ces sacrifices ne pouvaient pas opérer une réconciliation définitive, mais ne faisaient que couvrir les transgressions. **Ils étaient une indication de la venue de l’Agneau de Dieu qui allait mourir pour les péchés du monde et enlever le mur de séparation entre Dieu et les hommes.** La loi était nécessaire, car ce n’est que par elle que vient la connaissance du péché (Rom. 3.20). L’Esprit de Dieu nous convainc de péché en vertu des ordres et des interdictions que nous ne pouvons pas observer, mais qu’au contraire nous transgressons. Ce n’est que de cette manière que nous reconnaissons notre culpabilité à l’égard de Dieu et la nécessité du salut.
 
-## LE PONT
+## Le pont
 
 Les interruptions temporelles, par les manquements et la désobéissance des hommes, ne peuvent pas rendre impuissant le plan éternel de Dieu à l’égard de l’humanité. Par la transgression, l’homme se détacha de Dieu et devint un “sans Dieu”. Mais Dieu dit: *“Je suis vivant, dit le Seigneur; l’Eternel, si je prends plaisir en la mort du méchant, …mais plutôt à ce que le méchant se détourne de sa voie et qu’il vive!”* (Ezé. 33.11 — Darby). **Parce que l’homme a été destiné à la vie et à la communion avec Dieu, le Seigneur a préparé un chemin pour nous délivrer de la mort et nous faire revenir dans la Vie éternelle.** Par nous-même, nous n’avions aucune possibilité de revenir à Dieu; il fallut donc que Lui-même vienne et nous prenne en charge. C’est pour cela que nous lisons dans Esaïe 40.3: *“La voix de celui qui crie dans le désert: Préparez le chemin de l’Eternel, aplanissez dans le lieu stérile une route pour notre Dieu”.* Nous lisons encore au verset 9: *“Elève ta voix avec force, Jérusalem, messagère de bonnes nouvelles: élève-la; ne crains point; dis aux villes de Juda: Voici votre Dieu! Voici, le Seigneur l’Eternel viendra avec puissance, et son bras dominera pour lui”* (Darby).
 
@@ -529,7 +529,7 @@ Dans Esaïe 52.10 il est écrit: *“L’Eternel a mis à nu le bras de sa saint
 
 En tant qu’Esprit, Dieu ne pouvait pas souffrir la mort. C’est pourquoi Il devait venir dans un corps de chair. C’est seulement ainsi qu’il était possible de nous délivrer de ce corps de mort, et de nous placer de nouveau dans la position divine originelle que les véritables croyants auront après la résurrection.
 
-## CREATION DIVINE
+## Création divine
 
 C’est par procréation que Dieu commença une nouvelle création. Le genre humain commença par une création, **mais c’est par le moyen de la procréation que commença la race divine**. Une relation de Père à fils devait être établie entre Dieu et les hommes. Dieu ne pouvait pas le faire par le moyen d’Abraham, de Moïse ou d’un autre prophète qui étaient nés dans ce monde par la procréation naturelle, et qui à cause de cela, étaient une partie de la création déchue. **Dieu commença une nouvelle création au travers d’une procréation surnaturelle; cela arriva par le Fils Unique.**
 
@@ -555,7 +555,7 @@ Dans Joël 2.28 Dieu dit: *“Après cela, je répandrai mon esprit sur toute ch
 
 Ni le Fils ni l’Esprit ne sont indépendants. **Dans le Fils, Dieu est entré en relation avec nous, alors que par I’Esprit, nous sommes en relation avec Lui.** Le Fils dit: *“Je suis sorti du Père…”* (Jean 16.28). Il est dit de l’Esprit: *“… l’Esprit de vérité, qui vient du Père…”* (Jean 15.26).
 
-## LA QUALITE DE FILS
+## La qualité de fils
 
 Nous lisons au psaume 2.7: *“Je raconterai le décret: l’Eternel m’a dit: Tu es mon fils; aujourd’hui, je t’ai engendré”* (Darby). Le mot “aujourd’hui” ne se rapporte nullement à l’éternité car celle-ci n’a point d’aujourd’hui et point de demain. C’est une notion de temps. Dans l’Ancien Testament, le Conseil de Dieu est pour l’avenir, c’est un projet prophétique qui y a été déposé et dont l’accomplissement arrive dans le Nouveau Testament.
 
@@ -579,7 +579,7 @@ Après avoir achevé l’oeuvre de rédemption, Jésus est ressuscité le troisi
 
 Nous voulons terminer ce chapitre par le témoignage de l’apôtre Paul. *“Je vous ai enseigné avant tout, comme je l’avais aussi reçu, que Christ est mort pour nos péchés, selon les Ecritures; qu’il a été enseveli, et qu’il est ressuscité le troisième jour, selon les Ecritures; et qu’il est apparu à Céphas, puis aux douze. Ensuite, il est apparu à plus de cinq cents frères à la fois, dont la plupart sont encore vivants, et dont quelques-uns sont morts. Ensuite, il est apparu à Jacques, puis à tous les apôtres. Après eux tous, il m’est aussi apparu à moi, comme à l’avorton”* (1 Cor. 15.3-8 — Segond).
 
-## L’HUMANITE DE JESUS-CHRIST
+## L’humanité de Jésus-Christ
 
 Nous allons nous occuper maintenant des domaines dans lesquels Christ nous est présenté dans Son humanité aux côtés de Dieu en tant que Fils de Dieu, Fils de l’homme, Fils de David, Agneau de Dieu, Médiateur et Intercesseur, Prophète, etc. Il est écrit de Lui: *“… mais s’est dépouillé lui-même, en prenant une forme de serviteur, en devenant semblable aux hommes; et ayant paru comme un simple homme, il s’est humilié lui-même, se rendant obéissant jusqu’à la mort, même jusqu’à la mort de la croix”* (Phil. 2.7,8 — Segond). Le Roi des rois naquit dans ce monde, fut enveloppé dans des langes et placé dans une mangeoire (Luc 2.7 —Segond). Nous lisons depuis le verset 21: *“Le huitième jour, auquel l’enfant devait être circoncis, étant arrivé, on lui donna le nom de Jésus, nom qu’avait indiqué l’ange avant qu’il fut conçu dans le sein de sa mère”.* Matthieu 1.21 disait: *“… et tu lui donneras le nom de Jésus; c’est lui qui sauvera son peuple de ses péchés”* (Segond). L’enfant fut consacré au Seigneur *“suivant ce qui est écrit dans la loi du Seigneur: Tout mâle premier-né sera consacré au Seigneur”* (Luc 2.23 — Segond).
 
@@ -589,7 +589,7 @@ Jésus-Christ, le Fils de Dieu, fut engendré de Dieu par le Saint-Esprit. C’e
 
 Il ne s’agit pas ici de relater seulement un événement, mais il s’agit de savoir qu’en tant que fils et filles de Dieu nous expérimentons la même chose. Celui qui est devenu croyant conformément à la Bible se laissera aussi baptiser bibliquement dans l’obéissance à la Parole de Dieu. Lors du baptême de Jésus, le Ciel s’ouvrit sur le Fils de Dieu. De même, tous les fils et filles de Dieu se trouvent sous un Ciel ouvert, et le Saint-Esprit descend sur eux comme au commencement. **Chacun doit faire une expérience personnelle, afin de recevoir le témoignage d’être agréé de Dieu.** Il est nécessaire d’avoir cette confirmation surnaturelle pour être certain que l’affection de Dieu repose sur nous en tant que fils et filles de Dieu.
 
-## LE SERVITEUR
+## Le serviteur
 
 Christ est désigné dans son abaissement comme étant le serviteur du Seigneur. Il vint pour accomplir la parfaite volonté de Dieu. Nous lisons dans Esaïe 42.1: *“Voici mon serviteur, que je soutiendrai, mon élu, en qui mon âme prend plaisir. J’ai mis mon Esprit sur lui; il annoncera la justice aux nations”* (Segond). L’Esprit de Dieu vint sur Christ parce que Dieu avait trouvé Son plaisir en Lui. Ensuite Il commença Son ministère. Dans Luc 4, le Seigneur Jésus fit la lecture du passage du prophète Esaïe 61.1,2: *“L’Esprit du Seigneur, l’Eternel, est sur moi, car l’Eternel m’a oint pour porter de bonnes nouvelles aux malheureux; il m’a envoyé pour guérir ceux qui ont le coeur brisé, pour proclamer aux captifs la liberté, et aux prisonniers la délivrance; pour publier une année de grâce de l’Eternel”.* Il est dit dans Esaïe 42.6: *“Moi, l’Eternel, je t’ai appelé pour le salut, et je te prendrai par la main, je te garderai, et je t’établirai pour traiter alliance avec le peuple, pour être la lumière des nations, pour ouvrir les yeux des aveugles, pour faire sortir de prison le captif, et de leur cachot ceux qui habitent dans les ténèbres”* (Segond). Chacun peut lire l’accomplissement de cette parole dans Matthieu 12.15-21. Ce qu’Il a dit autrefois est valable encore aujourd’hui: *“Il ne brisera point le roseau cassé, et il n’éteindra point la mèche qui brûle encore; il annoncera la justice selon la vérité. Il ne se découragera point et ne se relâchera point, jusqu’à ce qu’il ait établi la justice sur la terre, et que les îles espèrent en sa loi”* (Es. 42.3,4 — Segond).
 
@@ -605,7 +605,7 @@ En tant que serviteur, Jésus refusa d’être appelé “bon maître”. Il dit
 
 L’Eglise primitive employait à Son égard la désignation de “serviteur”, même dans ses prières. *“En effet, contre ton saint serviteur Jésus, que tu as oint, Hérode et Ponce Pilate se sont ligués dans cette ville avec les nations et avec les peuples d’Israël, pour faire tout ce que ta main et ton conseil avaient arrêté d’avance”* (Actes 4.27,28 — Segond). Sous la direction du Saint-Esprit, les hommes ont toujours dit, prié, écrit et fait ce qui était juste. Bien des choses peuvent sembler être contraires à la raison, cependant il devait être rendu compte de chaque Parole de Dieu. Ceci devrait subjuguer chacun et faire naître en lui le désir d’appartenir à la vraie Eglise biblique, dans laquelle les pensées de Dieu, Ses Paroles et Ses actions puissent se réaliser sur la terre. **De même que toutes les paroles des Ecritures relatives au Messie s’accomplirent, de même toutes les promesses faites à l’Eglise doivent s’accomplir en Elle et au travers d’Elle.** La prière de l’Eglise primitive se termine ainsi: *“Et maintenant, Seigneur, vois leurs menaces, et donne à tes serviteurs d’annoncer ta parole avec une pleine assurance, en étendant ta main, pour qu’il se fasse des guérisons, des miracles et des prodiges, par le nom de ton saint serviteur Jésus. Quand ils eurent prié, le lieu où ils étaient assemblés trembla; ils furent tous remplis du Saint-Esprit, et ils annonçaient la Parole de Dieu avec assurance”* (Actes 4.29-31 — Segond).
 
-## LE PROPHETE
+## Le prophète
 
 En tant que prophète, Jésus devait accomplir Sa tâche exactement comme dans tout autre domaine. Dans Actes 3.22,23 Pierre se réfère à la parole de Deutéronome 18.18 et dit de Jésus: *“Moïse déjà a dit: Le Seigneur votre Dieu, vous suscitera d’entre vos frères un prophète comme moi; vous l’écouterez dans tout ce qu’il pourra vous dire; et il arrivera que toute âme qui n’écoutera pas ce prophète sera exterminée d’entre le peuple”* (Darby). En tant que Fils de l’homme, Jésus était Le Prophète. Dans ce passage se trouve une sérieuse mise en garde quand il est écrit: *“… il arrivera que toute âme qui n’écoutera pas ce prophète sera exterminée d’entre le peuple”.* Si nous écoutons et croyons le AINSI DIT LE SEIGNEUR, c’est la Vie pour nous.
 
@@ -615,13 +615,13 @@ En tant que Dieu-Prophète, Jésus a publié et accompli la Parole et la volont�
 
 Il est écrit dans Jean 5.19: *“En vérité, en vérité, je vous dis: Le Fils ne peut rien faire de lui-même, à moins qu’il ne voie faire une chose au Père, car quelque chose que celui-ci fasse, cela, le Fils aussi de même le fait”.* C’est de cette manière qu’Il a pleinement et entièrement révélé Son humanité. Nous ne voyons pas ici un Dieu sans secours parler à un Dieu plus puissant, mais c’est bien le Fils de l’homme, Jésus-Christ, qui parlait à Dieu. Les prophètes envoyés par le Seigneur étaient des voyants. Par l’inspiration de l’Esprit, la volonté de Dieu leur était révélée; ils voyaient dans des visions divines ce qu’Il voulait leur faire savoir. Le Fils de l’homme était “Le Prophète” et Il voyait et entendait les choses qu’Il devait accomplir. Jésus dit aussi: *“Je ne cherche pas ma volonté, mais la volonté de celui qui m’a envoyé”* (Jean 5.30 — Segond). La parole de l’Ecriture, dans l’Ancien Testament, au psaume 40.7 se rapporte aussi à Lui: *“Alors j’ai dit: Voici, je viens; il est écrit de moi dans le rouleau du livre. C’est mes délices, ô mon Dieu, de faire ce qui est ton bon plaisir…”* (Darby). Cette parole est citée dans Hébreux 10.7-9 (Darby). Au verset 10 de ce même passage suit cette explication: *“C’est par cette volonté que nous avons été sanctifiés, par l’offrande du corps de Jésus-Christ faite une fois pour toutes”.* Adam ne fut pas capable d’accomplir la volonté de Dieu. Toutefois le Fils de Dieu engendré par l’Esprit enleva par Son obéissance la désobéissance du premier Adam. Il accomplit la parfaite volonté de Dieu, prit sur Lui notre malédiction, afin que la bénédiction de Dieu vienne sur nous. Dieu prit sur Lui notre malédiction, afin que la bénédiction de Dieu vienne sur nous. *“Et vous, lorsque vous étiez morts dans vos fautes et dans l’incirconcision de votre chair, il vous a vivifiés ensemble avec lui, nous ayant pardonnés toutes nos fautes”* (Col. 2.13 — Darby).
 
-## L’AGNEAU DE DIEU
+## L’agneau de Dieu
 
 Dans l’Ancien Testament, l’agneau innocent était une victime, image de l’Agneau parfait du sacrifice, qui devait mourir à la place de l’homme qui s’était rendu coupable. En montrant Jésus, Jean-Baptiste s’écria: *“Voilà l’agneau de Dieu qui ôte le péché du monde!”* (Jean 1.29 — Darby). Pierre écrit ceci: *“Sachant que vous avez été rachetés de votre vaine conduite qui vous avait été enseignée par vos pères, non par des choses corruptibles, de l’argent ou de l’or, mais par le sang précieux de Christ, comme d’un agneau sans défaut et sans tache”* (1 Pier. 1.18 — Segond). L’Eglise a été acquise par Son Sang divin (Actes 20.28).
 
 *“C’est lui que Dieu a destiné, par son sang, à être pour ceux qui croiraient victime propitiatoire, afin de montrer sa justice… en justifiant celui qui a la foi en Jésus”* (Rom. 3.25,26 — Segond). Quelle merveilleuse vérité! C’est le coeur même de l’Evangile. **Tous les passages bibliques reliés les uns aux autres, et leur accord les uns avec les autres, conduisent à une réponse divine.**
 
-## LE SACRIFICATEUR
+## Le sacrificateur
 
 Le Messie devait aussi être un Sacrificateur. Il est dit en Hébreux 9.11-14: *“Mais Christ étant venu, souverain sacrificateur des biens à venir, par le tabernacle plus grand et plus parfait qui n’est pas fait de main, c’est-à-dire qui n’est pas de cette création, et non avec le sang de boucs et de veaux, mais avec son propre sang, est entré une fois pour toutes dans les lieux saints, ayant obtenu une rédemption éternelle… combien plus le sang du Christ, qui, par l’Esprit éternel, s’est offert lui-même à Dieu sans tache, purifiera-t-il votre conscience des oeuvres mortes, pour que vous serviez le Dieu vivant!”* (Darby). Nous lisons dans Hébreux 5, au verset 7: *“Durant les jours de sa chair, ayant offert, avec de grands cris et avec larmes, des prières et des supplications à celui qui pouvait le sauver de la mort, et ayant été exaucé à cause de sa piété, quoi qu’il fût Fils, a appris l’obéissance par les choses qu’il a souffertes; et ayant été consommé, il est devenu, pour tous ceux qui lui obéissent, l’auteur du salut éternel, étant salué par Dieu souverain sacrificateur selon l’ordre de Melchisédec”* (Darby).
 
@@ -631,7 +631,7 @@ Dans l’Ancien Testament, le Souverain sacrificateur ne pouvait entrer dans le 
 
 Il est écrit: *”S’il livre son âme en sacrifice pour le péché, il verra une semence; il prolongera ses jours, et le plaisir de l’Eternel prospérera en sa main”* (Esa. 53.10 — Darby).
 
-## MEDIATEUR ET INTERCESSEUR
+## Médiateur et intercesseur
 
 La notion “d’expiation” conduit à un médiateur et à un intercesseur. Job a exprimé très clairement cette pensée par cette parole: *“S’il y a pour lui un messager, un interprète, un entre mille, pour montrer à l’homme ce qui, pour lui, est la droiture, il lui fera grâce, et il dira: Délivre-le pour qu’il ne descende pas dans la fosse: J’ai trouvé une propitiation… Il chantera devant les hommes, et dira: J’ai péché et j’ai perverti la droiture, et il ne me l’a pas rendu; Il a délivré mon âme pour qu’elle n’allât pas dans la fosse, et ma vie verra la lumière”* (Job 33.23,24,27,28 — Darby). Il est question ici d’un intercesseur, d’expiation et de délivrance. Job rend témoignage au chapitre 19, verset 25: *“Et moi, je sais que mon rédempteur est vivant”.*
 
@@ -643,7 +643,7 @@ Ce n’est pas seulement pendant Sa vie sur la terre, mais encore maintenant que
 
 Le Même qu’Etienne vit dans le ciel à la droite de Dieu en tant que Fils de l’homme, Jean Le vit dans l’Eglise, marchant au milieu des sept chandeliers d’or (Apoc. 1.12-20). A Saul Il apparut sur le chemin de Damas dans une lumière éclatante. Nous pouvons lire ce qui suit dans Actes 9.3-6: *“Et tout à coup une lumière brilla du ciel comme un éclair autour de lui. Et étant tombé par terre, il entendit une voix qui lui disait: Saul! Saul! pourquoi me persécutes-tu? Et il dit: Qui es-tu, Seigneur? Et il dit: Je suis Jésus que tu persécutes. Mais lève-toi, et entre dans la ville; et il te sera dit ce que tu dois faire”* (Darby). Le Seigneur peut se révéler comme Il veut, où Il veut et à qui Il veut. Nous pouvons Le voir en même temps dans une grande diversité, et cependant Il demeure le Même. Dans Jean 3.13 Jésus dit: *“Personne n’est monté au ciel, si ce n’est celui qui est descendu du ciel, le Fils de l’homme qui est dans le ciel”* (Segond). Lorsque Jésus dit cela, Ses deux pieds étaient bien sur terre et Il parlait à Nicodème. Il devient toujours plus clair que nous nous trouvons sur le terrain de la révélation divine.
 
-## DES FILS DE DIEU
+## Des fils de Dieu
 
 La relation de Dieu avec les hommes par le Fils de l’homme nous est montrée dans Hébreux 2.6-9: *“Qu’est-ce que l’homme que tu te souviennes de lui, ou le fils de l’homme que tu le visites? Tu l’as fait un peu moindre que les anges; tu l’as couronné de gloire et d’honneur, et tu l’as établi sur les oeuvres de tes mains; tu as assujetti toutes choses sous ses pieds; car en lui assujettissant toutes choses, il n’a rien laissé qui ne lui soit assujetti; mais maintenant nous ne voyons pas encore que toutes choses lui soient assujetties; mais nous voyons Jésus, qui a été fait un peu moindre que les anges à cause de la passion de la mort, couronné de gloire et d’honneur, en sorte que, par la grâce de Dieu, il goûtât à la mort pour tout”* (Darby). Tout cela est arrivé à cause de nous. Dans Hébreux 2.10,11 il est dit ceci: *“Car il convenait pour lui, à cause de qui sont toutes choses et par qui sont toutes choses, que, amenant plusieurs fils à la gloire, il consommât le chef de leur salut par des souffrances. Car, et celui qui sanctifie et ceux qui sont sanctifies sont tous d’un; c’est pourquoi il n’a pas honte de les appeler frères”* (Darby).
 
@@ -653,7 +653,7 @@ Nous trouvons ceci dans le psaume 22.22: *“J’annoncerai ton nom à mes frèr
 
 En tant que Bon Berger, Jésus a donné Sa Vie pour nous afin de faire de nous les brebis de Son pâturage et le troupeau que Sa main conduit. Il est Roi et Sacrificateur, et Il a fait de nous des rois et des sacrificateurs (Apoc. 1.6). Il est le Rocher, la précieuse Pierre angulaire sur laquelle nous, en tant que pierres vivantes, pouvons être édifiés pour former une maison spirituelle (1 Pier. 2.4-10). En tant que Fils, Jésus a fait de nous des fils et des filles de Dieu (Eph. 1.5). Et ainsi de suite. **Celui qui voit le Seigneur dans Son humanité auprès de Dieu doit se souvenir que tout cela est arrivé afin que les projets éternels de Dieu envers l’humanité puissent s’accomplir.** En tant que Fils de Dieu Jésus est Sauveur, en tant que Fils de l’homme Jésus est prophète, en tant que Fils de David Jésus est Roi. Il s’assiéra sur le trône, et nous régnerons mille ans avec Lui (Apoc. 3.20,21). Il a donné cette grande promesse aux Siens (Apoc. 3.20,21). Après cela le temps débouche dans l’éternité, et Dieu sera tout en tous.
 
-## CELUI QUI EST DIGNE D’HONNEUR
+## Celui qui est digne d’honneur
 
 Dans Daniel 7.9,10 un événement remarquable nous est relaté: *“Je vis jusqu’à ce que les trônes furent placés, et que l’Ancien des jours s’assit. Son vêtement était blanc comme la neige, et les cheveux de sa tête, comme de la laine pure; son trône était des flammes de feu; les roues du trône, un feu brûlant”.* Certainement que Dieu n’est ni un vieillard ni un grand-père. Il est Père et demeure le même de tout temps, un Dieu qui ne change pas. Avec Lui, il ne peut être question d’âge. Dans cette vision, Daniel Le vit comme Juge, comme la plus haute autorité, dans toute Sa majesté et Sa dignité. Daniel rend ce témoignage au verset 13: *“Je voyais dans les visions de la nuit, et voici, quelqu’un comme un fils d’homme vint avec les nuées des cieux, et il avança jusqu’à l’Ancien des jours, et on le fit approcher de lui”.*
 

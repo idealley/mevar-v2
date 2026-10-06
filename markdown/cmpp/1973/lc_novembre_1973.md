@@ -119,7 +119,7 @@ La parole d’Hébreux 6 nous parle de personnes qui ont été éclairées, qui 
 
 C’est une sérieuse parole d’exhortation pour le croyant de ce temps, et cela doit le conduire à s’éprouver lui-même. Qu’est-ce que la pluie de la bénédiction a-t-elle donc fait naître dans notre vie?
 
-## VOYAGES MISSIONNAIRES
+## Voyages missionnaires
 
 **Pologne**
 
@@ -135,7 +135,7 @@ Par les émissions de la radio, le Message de la fin est porté bien au-delà de
 
 C’est avec beaucoup de reconnaissance que nous nous souvenons des réunions richement bénies en Autriche. Le Seigneur a parlé aux Siens d’une manière puissante par Sa Parole et Son Esprit. Il nous a montré à nouveau que la nourriture pour ce temps avait été emmagasinée, et qu’elle ne pouvait être distribuée que conformément aux ordres de Dieu, et de la bonne manière.
 
-## TRAVAIL MISSIONNAIRE
+## Travail missionnaire
 
 De différents pays nous parviennent des nouvelles de frères auxquels le Seigneur a mis à coeur de traduire dans leur langue les prédications de frère Branham et de les publier. Le travail de traduction et d’impression est fait avec un plein dévouement et un esprit de sacrifice désintéressé.
 
@@ -177,7 +177,7 @@ Nous venons de recevoir des nouvelles de frère George Smith qui nous parle des 
 
 Chers frères et soeurs, chers amis, nous pourrions continuer à parler sur ce que Dieu fait dans le monde entier, car chaque réveil s’est étendu sur la terre entière. Ainsi, cette dernière visitation de Dieu atteint également Ses enfants jusqu’aux extrémités de la terre. Nous en sommes très reconnaissants au Seigneur, et nous en donnons à Lui Seul toute la gloire.
 
-## RESPONSABILITE COMMUNE
+## Responsabilité commune
 
 Je ne veux pas manquer de remercier de tout coeur les frères et soeurs qui soutiennent fidèlement l’oeuvre missionnaire. Ensemble, nous en portons la responsabilité devant Dieu.
 
@@ -190,7 +190,7 @@ Que le Seigneur récompense chacun, selon les richesses de Sa grâce.
 Agissant de la part de Dieu.  
 *E. Frank*
 
-## EDITORIAL
+## Éditorial
 
 Chers amis lecteurs, chers frères et soeurs en Jésus-Christ,  
 Que la grâce et la paix vous soient multipliées!

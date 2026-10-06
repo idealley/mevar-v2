@@ -416,9 +416,9 @@ local_pdf: "https://files.mevar.org/cmpp/undated/commencement.pdf"
 html_url: "http://www.cmpp.ch/commencement.htm"
 title_page: ["Titre original de l’ouvrage:","Am Anfang war das Wort — nicht die Deutung","Anklage – Warnung – Klärung","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 2003 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.","Editeur:","Centre Missionnaire de la Parole Parlée","Case Postale 5633","1002 Lausanne (Suisse)"]
 ---
-# AU COMMENCEMENT ETAIT LA PAROLE PAS L’INTERPRETATION
+# Au commencement était la Parole pas l’interprétation
 
-## ACCUSATION — AVERTISSEMENT — CLARIFICATION
+## Accusation — avertissement — clarification
 
 Sans passer par l’introduction habituelle, venons-en directement au fait. Pour toute critique et jurisprudence concernant les affaires bibliques — doctrines ou pratiques — qui sont l’objet d’une discussion, Dieu a déjà décidé et montré par Sa Parole ce qui est valable. C’est pourquoi dans cet exposé nous n’emploierons que la Parole de Dieu, éternelle et incorruptible **telle qu’Elle se trouve dans la Bible**. C’est Elle qui sera aussi employée au «dernier jour», lors du *«jugement final»* et de la jurisprudence finale. Maintenant, comme lors d’une instruction, une accusation doit être élevée devant la justice de Dieu, un avertissement doit être donné afin qu’une clarification soit possible.
 
@@ -440,7 +440,7 @@ Ces derniers temps, ce qui me trouble profondément lors de mes voyages missionn
 
 De tels événements, ainsi que maints autres encore, sont les motifs qui m’ont amené à cet exposé qui doit, en même temps, représenter un défi et une mise en garde. **Qu’est-ce qui est réellement écrit dans les Saintes Ecritures, et qu’est-ce qui vient à être interprété et compris?** Que pratiquaient réellement les apôtres et que peut-il leur être attribué? C’est ce qui doit être demandé et aussi clairement démontré! Qu’est-ce qui est Parole de Dieu, et qu’est-ce qui est interprétation?
 
-## AINSI COMMENÇA LA TROMPERIE
+## Ainsi commença la tromperie
 
 Les premiers hommes, en qui nous avons tous été représentés, sont tombés dans le péché parce qu’ils ont écouté l’ennemi qui a faussé la Parole pour Eve, et de cette façon il a porté le premier mensonge sur la terre. La chose est généralement connue. Nous avons tous expérimenté le même sort et n’avons pas résisté à la tentation. Comme cela est arrivé lors de la chute dans le péché, nous tous sommes nés dans ce monde par l’engendrement charnel. Ainsi la mort nous a tous rejoint.
 
@@ -484,7 +484,7 @@ Nous devons demander très sérieusement: De quel droit les docteurs de la Bible
 
 **La confession et les doctrines des apôtres sont exclusivement, et vraiment exclusivement, à trouver dans les Actes des apôtres et dans les Epîtres des apôtres.** Toutes autres choses ne sont que falsifications, qui ont pris origine **dans les interprétations propres** de passages bibliques. L’ennemi a véritablement commencé d’agir ainsi déjà dans le Christianisme primitif en **interprétant la Parole de Dieu,** et depuis il n’a pas cessé de le faire. Sans le savoir le monde religieux en entier est spirituellement aveugle et il s’égare, à moins que la révélation ne lui soit donnée. Bien que richement décorées avec des passages bibliques, aussi les doctrines protestantes dans leur ensemble sont demeurées non bibliques, et même dans les églises et dans les communautés du «Plein Evangile», elles sont recouvertes du manteau babylonien. **La signification originelle de la Parole est partout annulée par des interprétations personnelles.**
 
-## EPROUVEZ TOUTES CHOSES
+## Éprouvez toutes choses
 
 Maintenant voici ce qui est pour beaucoup, la première surprise, celle qui secoue tout et tous: **Il n’y a pas une seule action dans toute la Bible *qui ait été faite* *au Nom du Père, du Fils et du Saint-Esprit!*** Cette constatation importante aura, espérons-le, auprès de ceux qui se trouvent encore dans des traditions non bibliques, déclenché un choc durable et salutaire.
 
@@ -502,7 +502,7 @@ C’est là que je me tiens, fondé sur le fondement des apôtres et des prophè
 
 Les questions suivantes ne sont pas posées pour offenser quiconque, mais dans la pensée d’éprouver et d’éclairer. Chaque lecteur doit avec amour, mais aussi avec le sérieux nécessaire qui nous est indispensable, être conduit à réfléchir et à entreprendre les corrections nécessaires.
 
-## POURQUOI? POURQUOI?
+## Pourquoi? Pourquoi?
 
 Pourquoi la parole «Trinité» ne se trouve-t-elle pas une seule fois dans la Bible?
 
@@ -578,7 +578,7 @@ Le Seigneur Lui-même nous indique la révélation, sans laquelle personne, vrai
 
 Tout serviteur de Dieu appelé au service doit pouvoir l’expérimenter. Sans vouloir offenser quelqu’un, l’expression elle-même «Etudier la théologie», qui signifie en fait «Etudier Dieu», est fortement exagérée. Qui donc veut étudier quelque chose sur Dieu? Dès le commencement Dieu s’est révélé aux Siens — et Il veut aussi se révéler à nous.
 
-## QU’EST-CE QUI EST REELLEMENT SAINT?
+## Qu’est-ce qui est réellement saint?
 
 En tant que missionnaire ayant voyagé pendant quatre décennies sans interruption sur tous les continents, je sais que pour les hommes de toutes les religions et cultures, beaucoup de choses sont saintes. Chez les uns c’est la «vache sacrée» ou la «montagne sacrée», chez les autres ce sont les «saintes eaux» ou le «saint temple», le «saint lieu de pèlerinage» ou le «saint prophète», la «sainte tradition» ou d’autres choses encore. Mais qu’est-ce que tout cela a donc à faire avec Dieu? Naturellement, rien du tout! Pour les croyants bibliques, Dieu seul est saint et tout ce qui vient de Lui, comme tous ceux qui ont été sanctifiés par Lui dans la Vérité de Sa Parole, le sont par Celui qui a dit: *“… vous serez saint, car je suis saint!”* (Lév. 11.44, 19.2; 1 Pier. 1.16). Il ne peut y avoir aucune sanctification par la volonté d’un homme, car il est écrit: ***“C’est par cette volonté que nous avons été sanctifiés, par l’offrande du corps de Jésus-Christ faite une fois pour toutes”*** (Héb. 10.10). C’est pour les Siens que le Sauveur a prié: *“Sanctifie-les par la vérité; ta parole est la vérité”* (Jean 17.17), et Il intercéda pour eux dans la prière sacerdotale: ***“Et moi, je me sanctifie moi-même pour eux, afin qu’eux aussi soient sanctifiés par la vérité”*** (Jean 17.19). Il est aussi écrit: *“Poursuivez la paix avec tous, **et la sainteté,** sans laquelle nul ne verra le Seigneur…”* (Héb. 12.14). **Se sanctifier soi-même par des oeuvres de justice personnelles signifie se tromper soi-même.**
 
@@ -590,7 +590,7 @@ Satan, le prince de ce monde, a toujours réussi à susciter la confusion. Il a 
 
 Pour Marie, la béatitude est prononcée sur elle en relation avec la foi qu’elle a eu en la promesse. ***“Et bienheureuse est celle qui a cru; car il y aura un accomplissement des choses qui lui ont été dites de la part du Seigneur”*** (Luc 1.45). Les yeux et les oreilles des véritables disciples de Jésus sont aussi appelés bienheureux: ***“Mais bienheureux sont vos yeux, car ils voient, et vos oreilles, car elles entendent”*** (Mat. 13.16). Dans l’introduction au dernier livre de la Bible, il est dit: *“**Bienheureux celui qui lit et ceux qui entendent les paroles** **de la prophétie et qui gardent les choses qui y sont écrites,** car le temps est proche!”* (Apoc. 1.3). Et puis nous entendons prononcer la béatitude sur les justifiés parvenus à la perfection, et qui embrasse tout: ***“Bienheureux et saint celui qui a part à la première résurrection…”*** (Apoc. 20.6). **Les béatitudes que les hommes prononcent n’ont absolument aucune valeur, parce qu’elles n’ont pas de fondement biblique. Cette pratique est aussi à mettre au banc des accusés.**
 
-## MATIERE A REFLEXION
+## Matière à réflexion
 
 Face au proche retour de Christ, il faut principalement traiter la juste connaissance de Dieu et la claire exposition de toutes les doctrines fondamentales de l’Eglise du Nouveau Testament. **Le baptême biblique des croyants qui ont obtenu le pardon, le Souper biblique en souvenir de la réconciliation avec Dieu** jusqu’à ce que vienne le Seigneur (1 Cor. 11.26) — cela, et tout le reste, doit de nouveau être rectifié bibliquement. Tous devraient être aussi nobles que les croyants de Bérée (Actes 17.10-15), qui examinaient chaque jour les Ecritures pour voir si ce qu’on leur disait était exact. Le Dieu éternel qui s’est révélé à nous personnellement en Jésus-Christ, peut par Son Esprit donner à chacun la clarté nécessaire. Lui seul est capable de nous sortir de l’égarement et de la confusion sans espérance de Babylone.
 
@@ -610,7 +610,7 @@ Ce qui est valable pour toujours est: *“… **mais que Dieu soit vrai et tout 
 
 **Dieu est le seul Souverain qui possède l’immortalité:** *“… laquelle le bienheureux et seul Souverain, le roi de ceux qui règnent et le seigneur de ceux qui dominent, montrera au temps propre, **lui qui seul possède l’immortalité, qui habite la lumière inaccessible, lequel aucun des hommes n’a vu, ni ne peut voir,** — **auquel soit honneur et force éternelle! Amen**”* (1 Tim. 6.15,16). Oui et amen!
 
-## DIEU SE FAIT CONNAITRE
+## Dieu se fait connaître
 
 Dans l’Eternité Dieu était seul dans Sa plénitude originelle d’Esprit, de Lumière et de Vie. A l’origine Il se présenta sous une forme visible, qui est appelée «Son image». De même qu’Il se fit voir tout d’abord, dans un corps spirituel, ainsi les anges ont aussi été créés de la même manière dans un corps spirituel; et c’est sous la même forme spirituelle qu’Il créa aussi Adam.
 
@@ -664,7 +664,7 @@ Dans Exode 6.2,3 il nous est dit: *“**Et Dieu parla à Moïse, et lui dit: Je 
 
 Il est bon de savoir que chaque révélation de Dieu a dès le commencement son importance pour l’histoire du salut. C’est ainsi que l’on comprend sans peine le passage de l’Ancien Testament au Nouveau. Le Nom d’Alliance du Nouveau Testament, Jésus, se dit en hébreu YAH–SHUA, annonçant directement qui est Celui qui vient, c’est-à-dire *«Yahweh-Sauveur». “… car c’est lui qui sauvera son peuple de leurs péchés”* (Mat. 1.21). Il est profondément regrettable, et indigne de Dieu, que la signification originelle des noms n’ait pas été communiquée lors de la traduction de la Bible. Les traducteurs connaissaient la langue, mais comme nous le voyons, cela n’est pas suffisant. Il faut que cela nous soit donné par révélation. Seul l’Esprit de Dieu sonde les profondeurs de la Divinité (1 Cor. 2.10-16) et nous conduit dans toute la Vérité (Jean 16.7-15, et autres) — dans les mystères cachés du conseil divin (Eph. 3.1-5 et autres).
 
-## UN SEUL EST ASSIS SUR LE TRONE!
+## Un seul est assis sur le trône!
 
 Dans les jours du roi Achab, le prophète Michée vit le Seigneur sur Son trône. Michée n’était pas «le prophète d’une Eglise», mais bien un véritable prophète de Dieu, et il dit: *“C’est pourquoi, écoutez la parole de l’Eternel. **J’ai vu l’Eternel assis sur son trône, et toute l’armée des cieux se tenant à sa droite et à sa gauche**…”* (2 Chr. 18.18). Le prophète ne vit aussi qu’un unique SEIGNEUR assis sur le trône, et il Le vit environné d’anges.
 
@@ -690,7 +690,7 @@ Au chapitre 4, Jean vit une porte ouverte dans le ciel, et de nouveau il entendi
 
 Quelle est la personne qui, en présence de si claires et véridiques déclarations des Saintes Ecritures au sujet de Dieu, pourrait persévérer dans les fausses représentations d’un «Dieu en trois Personnes»? Si en plus, il est question d’être bien vu et reconnu par les hommes, cette personne ne pourra pas s’humilier et fléchir sous la puissante main de Dieu et de Sa Parole. Mais tous ceux qui croient comme le dit l’Ecriture reçoivent la divine révélation et acceptent la correction.
 
-## SORTI DE DIEU
+## Sorti de Dieu
 
 *“**Au commencement**…* — pas dans l’Eternité, qui elle n’a point de commencement ni de fin — *… **était la Parole;** et la Parole était auprès de Dieu…”* (Jean 1.1). Cela se rapporte au commencement des temps et à l’ensemble de l’Ancien Testament. Le texte suivant parle du Nouveau Testament: ***“Et la Parole devint chair, et habita au milieu de nous…”*** (Jean 1.14). Dans l’accomplissement nous trouvons: “… *et la Parole était Dieu”.* La clé pour une compréhension juste se trouve dans la concordance entre l’Ancien Testament et le Nouveau. L’un indique l’avenir et rend témoignage de ce qui va arriver, l’autre rend témoignage du présent continuel jusqu’à ce que tout soit accompli.
 
@@ -714,7 +714,7 @@ De la Parole de la révélation divine on a fait une faculté théologique-philo
 
 Pour tous les serviteurs de Dieu retentit encore aujourd’hui l’appel: **“… *prêche la Parole, insiste en temps et hors de temps, convaincs, reprends, exhorte, avec toute longanimité et doctrine”*** (2 Tim. 4.2-5). C’est ainsi que Paul adjure son compagnon d’oeuvre Timothée. **Ce n’est pas un serviteur qui est l’autorité, mais c’est bien la Parole de Dieu qui est l’absolu et l’unique autorité divine.**
 
-## JE BATIRAI MON EGLISE
+## Je bâtirai mon Église
 
 Christ n’a qu’une seule Eglise qu’Il a rachetée Lui-même. Il l’appelle à sortir de tous peuples, toutes tribus et langues, et Il la réunit à Lui-même. Le Rédempteur dit: *“… je bâtirai mon assemblée…”* (Mat. 16.16-18). Il amène à la perfection l’Eglise qui est Sa propriété pour le jour glorieux de Son retour (Phil. 1.6 et autres) *“… afin que lui se présentât l’assemblée à lui-même, glorieuse, n’ayant ni tache, ni ride, ni rien de semblable, mais afin qu’elle fût sainte et irréprochable”* (Eph. 5.27).
 
@@ -732,7 +732,7 @@ Nous devons maintenant comprendre le sens profond de ce qu’a dit notre Seigneu
 
 Les paroles vides ne servent pas davantage à celui qui parle qu’à ceux qui écoutent. Paul nous avertit: *“Que personne ne vous séduise par de vaines paroles…”* (Eph. 5.6). Notre Sauveur dit de Lui-même: *“Voici, je viens, — il est écrit de moi dans le rouleau du livre — **pour faire, ô Dieu, ta volonté**”* (Héb. 10.7-10). Et concernant ceux qui sont sauvés: *“Et étendant sa main vers ses disciples, il dit: Voici ma mère et mes frères; **car quiconque fera la volonté de mon Père qui est dans les cieux,** celui-là est mon frère, et ma soeur, et ma mère”* (Mat. 12.49,50), mais également aussi: *“Car vous avez besoin de patience, afin que, **ayant fait la volonté de Dieu, vous receviez les choses promises”*** (Héb. 10.36-39). **Maintenant, nous avons besoin que la nourriture spirituelle nous soit donnée pour nous restaurer, afin que nous puissions faire la volonté de Dieu.** Prier seulement en disant: «Que Ta volonté soit faite…» ne servira à personne. Comme dans la Tête, Christ, ainsi dans les membres du Corps de Christ doit être faite la volonté lors de l’achèvement.
 
-## QUELQU’UN DOIT LE DIRE
+## Quelqu’un doit le dire
 
 Quelqu’un doit le dire et faire retentir l’avertissement. Dans tous les pays du monde, les représentants en fonction de chaque religion luttent pour leurs propres pensées doctrinales et défendent leurs traditions comme «culture directive». Tous envoient leurs missionnaires, lesquels sont partout zélés dans leurs activités. Nous n’avons pas seulement beaucoup de religions de par le monde, mais aussi 342 «Eglises chrétiennes» unies dans le «Conseil oecuménique des Eglises», qui fut fondé le 23 août 1948 à Amsterdam. Tous se réfèrent à Dieu et à la Bible, agissent et enseignent cependant de façon fondamentalement différente. Tous bâtissent visiblement leur propre royaume, tout en appelant cela le Royaume de Dieu. Pour l’Eglise de Jésus-Christ, il ne s’agit pas d’être reconnu par les gens de cette terre, de devenir une puissance de ce monde, mais bien plutôt de combattre pour la foi biblique qui a été confiée dès le commencement aux saints et à ceux qui étaient consacrés à Dieu (Jude v. 3). C’était ce qu’avait sur le coeur l’apôtre en ce temps-là, et c’est aujourd’hui aussi ce que nous avons à coeur. **La Parole de Dieu doit être reconnue en toutes choses comme** *seule valable,* **et toute interprétation et enseignement d’homme doit être mis à nu et reconnu comme étant: tromperie de l’ennemi.** Cela n’a aucun sens si un évangéliste parle du retour de Christ, prêche les signes du temps de la fin, et qu’en même temps il demeure avec le vieux levain des traditions et des doctrines non bibliques. Chacun de ceux qui cherchent sincèrement, doit prendre conscience en lisant cet exposé, de la direction dans laquelle il s’est engagé. Il doit comprendre, qu’en ce qui le concerne également, la Parole de Dieu ne restera pas sans effet, mais qu’Elle accomplira réellement ce pour quoi Elle a été envoyée (Es. 55.11).
 
@@ -752,7 +752,7 @@ Celui qui pense voir une contradiction entre l’ordre de mission du Seigneur et
 
 Après tout, quel serait le Livre que nous lisons s’Il contenait des contradictions! Les contradictions se trouvent dans la tête des gens, après que l’ennemi leur a interprété la Parole. Ainsi la Parole de Dieu est rendue non crédible et les traditions des Eglises sont justifiées. Ainsi dit le Seigneur: ***“Vous annulez bien le commandement de Dieu, afin de garder votre tradition… annulant la parole de Dieu par votre tradition que vous vous êtes transmise…”*** (Marc 7.9-13).
 
-## LE NOM DANS L’ANCIEN ET LE NOUVEAU TESTAMENT
+## Le nom dans l’Ancien et le Nouveau Testament
 
 L’importance du Nom de notre Seigneur doit être encore une fois mise en évidence dans Sa signification globale, pour la foi, le baptême et le plein salut. Dans le prophète Joël, nous trouvons plusieurs informations sur le Nom du Seigneur qui doit être invoqué pour le salut des âmes. La promesse est celle-ci: ***“Et il arrivera que, quiconque invoquera le nom de l’Eternel sera sauvé”*** (Joël 2.32). Dans sa première prédication, Pierre se réfère à cette parole prophétique devant la foule rassemblée. Le: ***“Et il arrivera…”*** devint à cause de la rédemption: **“Et il arriva…”**. *“Ceux donc qui reçurent sa parole, **furent baptisés**; et en ce jour-là furent ajoutées environ trois mille âmes”* (Actes 2.41).
 
@@ -778,7 +778,7 @@ Au chapitre 3 des Actes des apôtres, nous est relaté le miracle de guérison d
 
 Nous voyons que l’accent, dans l’Ancien et le Nouveau Testament, est mis sur **le Nom du Seigneur**, dans Lequel tout s’accomplit: *“**En tout lieu où je mettrai la mémoire de mon nom, je viendrai à toi, et je te bénirai”*** (Ex. 20.24b). *“… car là où deux ou trois sont **assemblés en mon nom, je suis là au milieu d’eux**”* (Mat. 18.20). Au Psaume 22.22 nous lisons: *“**J’annoncerai ton nom à mes frères…**”.* Dans le Sermon sur la montagne, il nous est dit de quelle façon nous devons prier: *“Vous donc, priez ainsi: Notre Père qui est dans les cieux, **que ton nom soit sanctifié**”* (Mat. 6.9). Dans la prière sacerdotale nous lisons: *“**J’ai manifesté ton nom** aux hommes que tu m’as donnés du monde”* (Jean 17.6). Un peu plus loin, le Fils de Dieu prie ainsi: *“Père saint, garde-les **en ton nom que tu m’as donné…**”* (v. 11). *“Et je leur ai fait **connaître ton nom, et je le leur ferai connaître**”* (v. 26). Il s’agit du Nom qui est au-dessus de tout nom, dans Lequel Dieu, en tant que Père, s’est révélé dans le Fils. Ecoutez ceci, vous tous les peuples, et toi, peuple de Dieu, prend au sérieux cet avertissement bien intentionné; crois-le et agis en conséquence!
 
-## LA GRANDE APOSTASIE
+## La grande apostasie
 
 D’ou vient-il que même dans les Eglises où il y a peu de temps encore les prières étaient élevées au trône de la grâce au Nom de Jésus-Christ, celles-ci soient maintenant élevées selon le cours traditionnel de la doctrine des Eglises ayant abandonné le fondement biblique? Si les conducteurs des Eglises d’aujourd’hui avaient reconnu que Dieu ramène maintenant toutes choses à leur état correct, ne serait-ce pas le contraire qui devrait avoir lieu?
 
@@ -802,7 +802,7 @@ Une accusation doit être élevée devant Dieu contre toutes les tromperies reli
 
 Ceci est le dernier appel, par le dernier Message, à sortir totalement de la captivité babylonienne. Nous ne vivons plus au temps de la Réformation où beaucoup de choses furent seulement réformées, et où les 95 thèses de Luther furent clouées à la porte de l’église du château; nous ne sommes pas non plus dans les siècles qui suivirent avec leurs réveils qui conduisirent toujours plus profondément dans la Parole, **nous vivons dans le temps du plein rétablissement et du retour complet à l’ordre divin.** Maintenant les fondements apparents, dévoilés comme ayant été faits de sable et non pas du «Rocher» — le véritable fondement — sont minés, et tout bâtiment non biblique est abattu. Cependant, qui reconnaît le jour dans lequel nous vivons et le Message de Dieu pour ce jour? Qui donc est prêt à suivre le Seigneur dans l’obéissance de la foi tout au long du chemin jusqu’à l’achèvement? Qui donc prend au sérieux l’avertissement?
 
-## DEFI
+## Défi
 
 J’aimerais rencontrer la personne qui, sérieusement, me dit en le croyant aussi, qu’il y a trois Eternels, trois Tout-Puissants, trois Omniscients, dont chacun est une Personne par Elle-même et qu’Ils sont un en tout et se partagent la Divinité. Cela serait alors en fait trois Dieu et non plus UN SEUL Dieu, si la langue a encore un sens. C’est pourquoi, en particulier, la «religion trinitaire» du Tunisien Tertullien, dont vient l’expression «Trinité», doit être placée devant le trône du jugement divin. Elle doit se plier devant la sentence définitive de la Parole de Dieu. De même, la doctrine de Sabellius, reprise par les gens de «l’Eglise de l’Unité», devra être appelée en justice.
 
@@ -823,7 +823,7 @@ Maintenant, les efforts se portent sur la formation d’une «Communauté des Et
 
 **Ce n’est que dans le Fils que le Père est venu à nous, et c’est seulement en Lui que nous venons au Père.** *“Jésus lui dit: Moi, je suis le chemin, et la vérité, et la vie; nul ne vient au Père que par moi. Si vous m’aviez connu, vous auriez connu aussi mon Père; et dès maintenant vous le connaissez et vous l’avez vu… et comment toi, dis-tu: montre-nous le Père? **Ne crois-tu pas que moi je suis dans le Père, et que le Père est en moi?** Les paroles que moi je vous dis, je ne les dis pas de par moi-même; mais le Père qui demeure en moi, c’est lui qui fait les oeuvres”* (Jean 14.6 et 10). **Ainsi dit le Seigneur: *“Moi et le Père, nous sommes un”*** (Jean 10.30).
 
-## QU’EST-CE QUI EST DIGNE DE FOI?
+## Qu’est-ce qui est digne de foi?
 
 Dieu et Sa Parole sont les seuls dignes de foi. Abraham crut Dieu, et cela lui fut compté à justice (Rom. chap. 4). Tous les véritables croyants sont de la Semence spirituelle d’Abraham (Gal. chap. 3). Ils marchent dans les empreintes de la foi, comme le dit l’Ecriture. Le témoignage de Dieu est clair, et le témoignage des prophètes et des apôtres l’est également. Il s’agit maintenant de notre témoignage, et il doit être en accord avec ce qui est écrit.
 
@@ -847,7 +847,7 @@ De même que Dieu avait auparavant confié une charge à tous les prophètes —
 
 *“Bien-aimés, nous sommes maintenant enfants de Dieu, et ce que nous serons n’a pas encore été manifesté; nous savons que quand il sera manifesté, **nous lui serons semblables**, car nous le verrons comme il est”* (1 Jean 3.2).
 
-## LE TEMPS EST PROCHE
+## Le temps est proche
 
 Derrière nous se trouvent les deux mille ans **du temps de la grâce**, connus comme «les derniers jours» (Actes 2.17; Héb. 1.1,2 et autres), donnés par Dieu à l’humanité pendant le temps de la Nouvelle Alliance. Juste devant nous se trouve le glorieux événement de l’enlèvement de l’Eglise–Epouse pour le Repas des Noces dans les Cieux (Mat. 25.1-10; 1 Cor. chap. 15; 1 Thes. 4.16-18; Apoc. 19.6-10). Après le Repas des Noces dans la gloire, nous entrerons dans le septième millénaire de l’histoire de l’humanité. Nous n’entrerons pas dans l’histoire de la période des deux mille ans depuis Adam à Abraham, ni dans la période des deux mille ans d’Abraham jusqu’à Christ, et pas davantage dans la courte période de la Grande tribulation qui aura lieu dans le temps s’écoulant entre l’enlèvement de l’Epouse et le commencement du Royaume. Nous avons déjà parlé de cela dans d’autres publications.
 
@@ -897,7 +897,7 @@ Il faut encore une fois mettre l’accent sur le fait qu’à la fin, dans l’E
 
 Tous ceux qui rejettent aujourd’hui le baptême biblique dans le Nom du Seigneur Jésus-Christ, qui fait assurément partie de l’enseignement élémentaire, du fondement (Héb. 6.2), en le déclarant être une hérésie, rejettent pour leur personne l’ensemble du conseil de Dieu qu’ils imaginent prêcher et croire. Si déjà ils ne suivent pas l’enseignement élémentaire des doctrines bibliques fondées au commencement, la liste de tout ce qu’ils ont fait en Son Nom ne leur servira à rien (Mat. 7.21-27). Ils auront à entendre le *“Retirez-vous de moi!”* sortant de la bouche du Seigneur.
 
-## VOICI, JE VIENS BIENTOT!
+## Voici, je viens bientôt!
 
 Il est dit dans Matthieu 25.6: *“Voici l’époux; sortez à sa rencontre”,* et dans le dernier chapitre de la Bible, au verset 12: *“Voici, je viens, bientôt, et ma récompense est avec moi…”.* Dans le même chapitre, verset 14, se trouve aussi cette parole: *“Bienheureux ceux qui lavent leurs robes, afin qu’ils aient droit à l’arbre de vie et qu’ils entrent par les portes dans la cité”.* Sa résurrection et la transmutation de Son corps sont la garantie de notre résurrection et de la transmutation de notre corps. Dans Apocalypse 19.7 il est dit: *“Réjouissons-nous et tressaillons de joie, et donnons-lui gloire; **car les noces de l’Agneau sont venues; et sa femme s’est préparée…**”*. Et dans Matthieu 25.10: *“… l’époux vint; **et celles qui étaient prêtes** entrèrent avec lui aux noces; et la porte fut fermée”.* Depuis toujours il est écrit: *“Alors deux hommes seront au champ, l’un sera pris et l’autre laissé; deux femmes moudront à la meule, l’une sera prise et l’autre laissée”* (Mat. 24.40-42).
 
@@ -907,7 +907,7 @@ Tous ceux qui appartiennent à l’Eglise–Epouse reçoivent la Parole de prome
 
 La Parole prophétique, pour autant qu’Elle soit révélée, brille en cette période si importante comme une lampe dans les ténèbres qui donne de la clarté sur tous les événements du temps de la fin, mais elle ne permet aucune interprétation propre (2 Pier. 1.16-21). Nous expérimentons maintenant littéralement ce qui se trouve écrit dans le Psaume 119.105: *“Ta parole est une lampe à mon pied, et une lumière à mon sentier”.* Les prophéties bibliques doivent, aujourd’hui comme lors de la première venue de Christ, être reconnues et vues dans leur accomplissement. La question est celle-ci pour chaque lecteur: Lesquelles des paroles suivantes dites par notre Seigneur peuvent-elles nous être appliquées ? ***“Si tu eusses connu, toi aussi, au moins en cette tienne journée, les choses qui appartiennent à ta paix!”,*** ou bien: *“Mais maintenant elles sont cachées devant tes yeux”* (Luc 19.42-44), ou bien encore: ***“Il vint chez soi; et les siens ne l’ont pas reçu”*** (Jean 1.11)? Dieu veuille nous garder afin que pour aucun d’entre nous cette parole ne se renouvelle, mais plutôt accorde à chaque lecteur de pouvoir dire: *“Mais à tous ceux qui l’ont reçu, il leur a donné le droit d’être enfants de Dieu, savoir **à ceux qui croient en son nom…**”* (Jean 1.12), et aussi: *“… et tous ceux qui étaient destinés à la vie éternelle crurent”* (Actes 13.46-49). Bienheureux ceux à qui correspond: *“Que celui qui a des oreilles écoute ce que l’Esprit dit aux assemblées”* (Apoc. 2.17). C’est de cela qu’il s’agit aujourd’hui, parce qu’à la fin l’Epouse et l’Epoux s’accordent dans leurs déclarations. Au: *“Voici, je viens bientôt…”* suit l’appel: *“Et l’Esprit et l’épouse disent: Viens. Et que celui qui entend dise: Viens”* (Apoc. 22.17). Nous en sommes là maintenant: Au temps du soir du «jour du salut», Dieu a donné la lumière; à minuit retentit l’appel au réveil, et bientôt pointe le Matin éternel. Paul pourrait à nouveau s’écrier: *“Maranatha!”*— *“Viens bientôt!”* (1 Cor. 16.22).
 
-## EPILOGUE
+## Épilogue
 
 Depuis 1949, j’ai vécu les réveils survenus après la Deuxième guerre mondiale. J’ai fait la connaissance, dès les années 1950, de tous les évangélistes des Etats-Unis devenus réputés dans le monde entier, et j’ai même servi d’interprète à quelques-uns. Celui qui m’a été tout particulièrement en bénédiction fut l’homme de Dieu William M. Branham, des USA, dont la prédication, en comparaison avec celle de tous les autres, était purement biblique et apostolique, comme je pouvais le constater à la lumière des Ecritures. Le mensonge répandu et cru dans le monde entier que William Branham appartenait au mouvement pentecôtiste des «Jesus–Only/Jésus seul», simplement parce que quelques-uns des pasteurs de ce mouvement l’avaient invité pour tenir des réunions, peut être comparé à une calomnie. Ce qui est vrai, par contre, c’est qu’en 1932, dans la même dénomination des Eglises baptistes du Sud de laquelle fait partie Billy Graham, il fut ordonné par le Dr Roy Davis. Toutefois son appel et son mandat, avec l’exercice de son ministère tout particulier, l’ont destiné à tout le peuple de Dieu.
 

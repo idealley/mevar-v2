@@ -60,7 +60,7 @@ html_url: "http://www.cmpp.ch/7sceaux1.htm"
 original: "branham/1963/63-0317M"
 title_page: ["LA REVELATION","DES","SEPT SCEAUX","AINSI QU’ELLE FUT DONNE A NOTRE CHER FRÈRE","WILLIAM MARRION BRANHAM","1er CHAPITRE","DIEU CACHE ET REVELE DANS LA SIMPLICITE"]
 ---
-### INTRODUCTION
+### Introduction
 
 > *“Voici, je vous enverrai Elie, le prophète, avant que le jour de l’Eternel arrive, ce jour grand et redoutable. Il ramènera le coeur des pères à leurs enfants, et le coeur des enfants à leurs pères, de peur que je ne vienne frapper le pays d’interdit”* (Malachie 4.5,6)
 
@@ -76,9 +76,9 @@ Nous avons essayé de rassembler les prédications que le frère Branham a prêc
 
 Billy Paul Branham
 
-#### LA REVELATION DES SEPT SCEAUX
+#### La révélation des sept sceaux
 
-#### DIEU CACHE ET REVELE DANS LA SIMPLICITE
+#### Dieu caché et révélé dans la simplicité
 
 *(God Hiding Himself In Simplicity, Then Revealing Himself In The Same)*
 

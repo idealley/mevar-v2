@@ -719,7 +719,7 @@ Maintenant, pour vous qui êtes ici dans la salle, si vous désirez sortir et al
 
 ---
 
-## LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE
+## La Parole parlée est la semence originelle
 
 *(The Spoken Word is the Original Seed)*
 

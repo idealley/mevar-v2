@@ -353,13 +353,13 @@
     "folded": [
       {
         "id": "lc_janvier_1974_A5",
-        "in_keeper": 0.961,
-        "of_keeper": 0.974
+        "in_keeper": 0.96,
+        "of_keeper": 0.973
       },
       {
         "id": "janvier1974",
-        "in_keeper": 0.984,
-        "of_keeper": 0.986
+        "in_keeper": 0.985,
+        "of_keeper": 0.987
       }
     ],
     "not_folded": []
@@ -553,8 +553,8 @@
     "folded": [
       {
         "id": "lc16_A5",
-        "in_keeper": 0.984,
-        "of_keeper": 0.994
+        "in_keeper": 0.983,
+        "of_keeper": 0.992
       }
     ],
     "not_folded": []

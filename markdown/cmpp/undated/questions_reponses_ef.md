@@ -217,9 +217,9 @@ local_pdf: "https://files.mevar.org/cmpp/undated/questions_reponses_ef.pdf"
 html_url: "http://www.cmpp.ch/questions_reponses_ef.htm"
 title_page: ["Titre original de l’ouvrage:","Menschen fragen, Gott antwortet durch Sein Wort","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 2006 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.","Editeur:","Centre Missionnaire de la Parole Parlée","Case Postale 5633","1002 Lausanne (Suisse)"]
 ---
-# DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE
+# Des personnes interrogent… Dieu répond par sa Parole
 
-## QUESTIONS POSEES A FRERE FRANK PAR DES PREDICATEURS DE DIVERS PAYS SUR LESQUELLES ILS DEMANDENT UNE REPONSE.
+## Questions posées à frère Frank par des prédicateurs de divers pays sur lesquelles ils demandent une réponse.
 
 *“Et il ne faut pas que l’esclave du Seigneur conteste, mais qu’il soit doux envers tous, propre à enseigner, ayant du support; enseignant avec douceur les opposants, attendant si Dieu, peut-être, ne leur donnera pas la repentance pour reconnaître la vérité, et s’ils ne se réveilleront pas du piège du diable, par qui ils ont été pris, pour faire sa volonté”* (2 Tim. 2.24-26).
 
@@ -708,7 +708,7 @@ Nous arrivons maintenant dans la dernière phase de l’âge de l’Eglise — d
 
 ---
 
-## RESUME
+## Résumé
 
 C’est avec reconnaissance que je regarde en arrière sur 54 années de prédications et 42 ans de ministère international, années pendant lesquelles j’ai eu le privilège de partager avec des millions de personnes, dans plus de 130 pays, par des conférences, des émissions de radio et de télévision, la vraie Parole de Dieu. Peut-être que les frères du continent africain ont été plus particulièrement aidés par le fait que frère Branham avait eu la vision d’un aigle allemand survolant l’Afrique. Dans tous les pays et dans chaque ville, j’ai fait mention du prophète et de son ministère, mais j’ai toujours prêché Jésus-Christ comme Rédempteur, comme étant le même hier, aujourd’hui et éternellement, et naturellement, j’ai enseigné exclusivement la Parole de Dieu. Nulle part, je n’ai traité publiquement de thèmes contradictoires, ni nommé par son nom un frère qui répandait de fausses doctrines. Cependant, parce que maintenant la glorification d’un homme dépasse la mesure, qu’en la personne du prophète l’idolâtrie s’exerce par le moyen de reliques, d’images, de crucifix, de morceaux d’étoffes et de lieux qui ont été élevés en lieux de pèlerinages, je dois élever ma voix. La dernière impulsion m’a été donnée par la réception d’un paquet contenant quatre CD et DVD, qu’un frère des USA m’a fait parvenir. Cela m’est arrivé au bon moment, alors que j’écrivais la fin des réponses aux questions, travail qu’à proprement dit je ne voulais pas du tout entreprendre. Cependant, après avoir vu les DVD, je trouvai confirmé l’importance, à cause des élus, de mettre dans la lumière juste les choses contradictoires, à savoir de les mettre à la lumière de la Parole éternellement valable.
 

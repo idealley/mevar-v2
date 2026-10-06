@@ -103,7 +103,7 @@ Sachant que Sa venue est si proche, les chrétiens — chacun pour soi-même —
 
 Naturellement, chaque assemblée prétend être elle-même dans la vérité, et à cause de cela, elle n’éprouve pas la nécessité de se prêter à un examen personnel approfondi. Quant à nous, nous ne nous occupons pas de défendre la confession de foi d’une assemblée chrétienne, mais de plaider pour la Parole de Dieu et pour la doctrine des apôtres et des prophètes. Il est dans la volonté de Dieu que, dans ces derniers temps, toutes choses soient ordonnées bibliquement, et qu’elles soient placées à nouveau dans leur état original. Il s’agit maintenant de la pleine restitution et du perfectionnement de l’Epouse de Jésus-Christ.
 
-## LA PAROLE PROPHETIQUE
+## La Parole prophétique
 
 A côté de l’aspect doctrinal et évangélique, il y a dans l’histoire du salut la partie prophétique. Le dernier livre de la Bible: “La Révélation de Jésus-Christ” (L’Apocalypse), nous transmet des notions qui ne sont pas communes et qui ne sont absolument pas touchées par beaucoup de chrétiens, parce que, dans ces choses, ils ne savent trop par quoi commencer. Cependant, depuis l’ouverture des Sceaux, le temps est venu pour le peuple de Dieu de recevoir la compréhension à l’égard des choses prophétiques.
 
@@ -145,7 +145,7 @@ Tout cela constitue de pitoyables mensonges. Frère Branham a souvent dit à ce 
 
 Le même auteur écrit: «Durant trois ans et demi, de la fin de 1965 jusqu’au milieu de 1969, Branham a répandu ses révélations, qui sont en contradiction avec l’enseignement biblique». Comment Branham, qui a été rappelé le 24 décembre 1965, aurait-il pu répandre ses révélations de la fin de 1965 jusqu’au milieu de 1969? Je renonce à poursuivre la reproduction de ce texte. Dieu ne m’a pas établi comme juge. Cependant, j’aimerais prier instamment l’éditeur, et cela pour le salut de son âme, de se laisser délivrer de l’esprit de mensonge qui l’anime, et de rétablir les fausses assertions en les corrigeant — il le doit à ses lecteurs. Les prédications de frère Branham sont toutes conservées sur bandes magnétiques. Celui qui soutient de fausses allégations est tombé dans le même esprit de mensonge que Lawrie, lequel a été égaré par Satan. Personne encore n’a réussi à faire avancer sa propre affaire en sapant et injuriant d’une manière aussi scandaleuse le ministère et le nom d’un homme de Dieu. Cette parole est encore valable aujourd’hui: *“Ne touchez pas à mes oints, et ne faites pas de mal à mes prophètes”* (Ps. 105.15).
 
-## REVOLTE CONTRE DIEU
+## Révolte contre Dieu
 
 Nous ne pouvons pas tenir Dieu pour responsable de ce que, dans le Ciel, Lucifer ait fomenté une révolte, qu’il se soit opposé à Dieu et à Sa Parole, et ait été alors précipité de sa position. L’orgueil précède la chute. Nous ne pouvons faire aucun reproche à Moïse de ce qu’Aaron fit un veau d’or et dit: *“Voici notre Dieu qui nous a fait sortir d’Egypte”*. Nous ne pouvons faire aucun reproche au Seigneur Jésus de ce que Judas l’ait trahi, ni de ce que Satan soit entré en lui. Nous ne pouvons pas mettre à la charge de Paul que des faux-frères aient introduit de fausses doctrines en ce temps-là. Selon 1 Timothée 1.20, il a même livré à Satan deux d’entre eux, du nom d’Hyménée et d’Alexandre. Il est à la fois méchant et inexcusable de mettre sur le compte du serviteur de Dieu William Branham la terrible erreur de l’indien Lawrie. Quelqu’un peut-il tenir pour responsables Dieu Lui-même, le Seigneur Jésus, Moïse et Paul, de ce que certains hommes ont manqué? Paul dit: *“Qu’ai-je en effet à juger ceux du dehors?”* (1 Cor. 5.12-13). Que chacun s’éprouve lui-même, ainsi que l’église dans laquelle il se trouve, à la lumière de la Parole de Dieu.
 
@@ -158,7 +158,7 @@ L’oeuvre extraordinaire opérée par le Saint-Esprit au milieu de nous a déte
 Agissant de la part de Dieu.  
 *Br. Frank*
 
-## EDITORIAL
+## Éditorial
 
 > *“Celui qui sème pour sa chair Moissonnera de la chair la corruption; Mais celui qui sème pour l’Esprit Moissonnera de l’Esprit la vie éternelle”*  
 > (Galates 6.8).

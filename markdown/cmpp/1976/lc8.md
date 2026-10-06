@@ -57,7 +57,7 @@ Si nous pouvons nous confier à ceux qui ont fait des calculs, il se trouve que 
 
 Si Dieu S’en tient à la manière de compter que nous avons à notre disposition, alors, le temps est très avancé. Les Juifs célébreront leur Jubilé et la fête des Tabernacles l’année prochaine, du 15ème au 21ème jour du septième mois. Personne d’entre nous ne peut dire à l’avance ce qui se rattachera à cette célébration. Mais, en tant que chrétiens qui attendons le Seigneur, nous serions réjouis de voir arriver le jour et l’heure d’entrer dans la gloire.
 
-## LA CHARGE CONFIEE A L’EGLISE
+## La charge confiée à l’Église
 
 J’aimerais considérer les paroles de 2 Corinthiens 5, dès le verset 14. Dans ces passages, il est question de l’amour de Christ qui nous presse. Bienheureux celui qui peut dire avoir expérimenté que l’amour de Dieu, manifesté en Christ à la Croix de Golgotha, le presse et le conduit. Seul l’amour de Christ doit être l’inspiration de notre coeur.
 

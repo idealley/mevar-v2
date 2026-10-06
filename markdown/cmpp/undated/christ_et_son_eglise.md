@@ -189,7 +189,7 @@ local_pdf: "https://files.mevar.org/cmpp/undated/christ_et_son_eglise.pdf"
 html_url: "http://www.cmpp.ch/christ_et_son_eglise.htm"
 title_page: ["Titre original de l’ouvrage:","Christ and His Church in Prophecy","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’anglais. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
-## INTRODUCTION
+## Introduction
 
 Le but de cet exposé est de centrer notre attention sur **Christ et Son Eglise dans la prophétie**. Dès le commencement des temps, des hommes de Dieu ont consigné les actes sacrés accomplis par le Tout-Puissant. Ils ont rendu témoignage de ce qu’ils avaient vu, entendu et expérimenté. De tels témoignages se trouvent aussi bien dans l’Ancien Testament que dans le Nouveau.
 
@@ -209,7 +209,7 @@ Je vous demande de lire cette brochure dans un esprit de prière. Que son conten
 
 L’auteur
 
-# CHRIST ET SON EGLISE DANS LA PROPHETIE
+# Christ et son Église dans la prophétie
 
 En vérité, c’est un temps glorieux dans l’histoire de l’humanité. Dans tous les domaines, de nouvelles découvertes sont faites. D’énormes progrès ont été réalisés, et des choses incroyables se sont accomplies. Plus rien ne semble impossible. Cette génération a été témoin de la transition entre les jours des chars et des chevaux, et l’âge spatial. Chacun s’efforce de marcher avec son temps. Mais la grande question est celle-ci: Sommes-nous de notre temps dans les choses du Royaume de Dieu? Qu’en est-il de notre progrès spirituel? Suivons-nous le mouvement du Saint-Esprit, alors que le Seigneur est sur le point de nous prendre dans les lieux les plus élevés?
 
@@ -243,7 +243,7 @@ Nous devons tous nous abstenir de présenter une interprétation particulière, 
 
 Laissons la Bible être notre seule autorité et notre seul guide dans toutes les choses scripturaires. Lorsque nous avons à faire à la Parole de la prophétie, nous nous avançons sur un lieu saint. Enlevons simplement nos souliers, tandis que le Seigneur parle.
 
-## CHRIST SOUS SES DIFFERENTS ASPECTS
+## Christ sous ses différents aspects
 
 La Parole de Dieu nous fait voir le Seigneur Jésus-Christ dans plusieurs de Ses différents titres et fonctions lorsqu’Il Se manifeste Lui-même dans le plan de la rédemption. Il est vu comme **L’Agneau de Dieu** qui ôte le péché du monde (Jean 1.29). Il est le **Souverain Sacrificateur**, qui est entré dans le lieu très saint avec Son propre Sang (Héb. 9.11,12). Il est le **Seul médiateur** entre Dieu et les hommes (1 Tim. 2.5), **l’Avocat** qui intercède pour nous (1 Jean 2.1). Il est le **Lion de la tribu de Juda** (Apoc. 5.5), le **Roi des rois,** le **Seigneur des seigneurs** (Apoc. 19.16). Il est le tout en tous pour les croyants, **Dieu manifesté en chair** (1 Tim. 3.16). Il est le **Fils de Dieu,** le **Fils de l’homme,** et le **Fils de David**.
 
@@ -273,7 +273,7 @@ De même que, lors de la première venue de Christ, les théologiens donnèrent 
 
 Prenons garde à l’avertissement que Pierre nous a donné sous l’inspiration du Saint-Esprit: *“… sachant tout d’abord vous-mêmes qu’aucune prophétie de l’Ecriture ne peut être un objet d’interprétation particulière,…”* (2 Pier. 1.20).
 
-## LA VISION DE PATMOS
+## La vision de Patmos
 
 Alors que Jean se trouvait dans l’île de Patmos, il fut ravi en esprit, et le Seigneur lui fit voir en symboles la partie prophétique du plan du salut. Il vit les âges de l’Eglise, ainsi que tout ce qui devait arriver jusqu’à la fin des temps. Il vit même les nouveaux cieux et la nouvelle terre.
 
@@ -303,7 +303,7 @@ Les discussions et les disputes relatives au manger et au boire, ainsi que celle
 
 Jean fut ravi en esprit dans un but plus grand que de commémorer un jour de vingt-quatre heures. Il vit le développement des temps, et les choses importantes qui devaient arriver. Le même glorieux Saint-Esprit, qui avait montré ces choses à Jean, les a révélées maintenant au travers du ministère prophétique.
 
-## POUR MONTRER A SES SERVITEURS…
+## Pour montrer à ses serviteurs…
 
 Le Dieu Tout-Puissant n’a jamais manqué de donner des directives claires à Son peuple; Il l’a fait en envoyant Ses messagers, les serviteurs et prophètes, avec une parole spéciale pour le temps dans lequel ils vivaient. En période d’abondance, si le peuple de Dieu oubliait le Seigneur et ne marchait pas dans Ses sentiers, Dieu lui envoyait un message pour l’avertir avant que le jugement ne l’atteignît. *“L’Eternel envoya parmi eux des prophètes pour les ramener à lui, mais ils n’écoutèrent point les avertissements qu’ils en reçurent… Ainsi parle Dieu: Pourquoi transgressez-vous les commandements de l’Eternel? Vous ne prospérerez point; car vous avez abandonné l’Eternel, et il vous abandonnera”* (2 Chr. 24.19,20). De nouveau, les jugements de Dieu sont suspendus sur nos têtes. Quel est donc maintenant le message, avant qu’ils ne nous atteignent.
 
@@ -317,7 +317,7 @@ Tous les membres du Corps de Christ ne peuvent pas être de tels serviteurs de D
 
 Il y a une grande différence entre quelqu’un qui parle de Christ, et Christ qui parle au travers d’un prophète, lequel a le “AINSI DIT LE SEIGNEUR!”. Le grand apôtre Paul dit ceci: *“Car je ne l’ai ni reçu ni appris d’un homme, mais par la révélation de Jésus-Christ”* (Gal. 1.12).
 
-## LA VOIX SEMBLABLE A UNE TROMPETTE
+## La voix semblable à une trompette
 
 Toutes les fois que surgissait une occasion spéciale, que quelque chose d’extraordinaire allait arriver, on sonnait de la trompette pour appeler le peuple à se rassembler, que ce soit pour une fête ou une annonce. Lorsque le Seigneur Dieu descendit sur le mont Sinaï pour s’y rencontrer avec Son prophète Moïse qu’Il avait destiné à recevoir Sa Parole pour le peuple d’Israël, il est écrit: *“La montagne de Sinaï était toute en fumée, parce que l’Eternel y était descendu au milieu du feu, cette fumée s’élevait comme la fumée d’une fournaise, et toute la montagne tremblait avec violence. Le son de la trompette retentissait de plus en plus fortement. Moïse parlait, et Dieu lui répondait à haute voix”* (Ex. 19.18,19).
 
@@ -341,7 +341,7 @@ Dans l’Eglise du premier âge, il y avait des apôtres, des prophètes, des do
 
 Dans chacun des sept âges de l’Eglise, il y eut de grands hommes aux yeux du peuple; ils furent sans l’ombre d’un doute employés par Dieu dans différents ministères, mais le choix de Dieu intervint dans chaque âge pour faire paraître le message de l’heure. Pareillement dans notre génération, nous trouvons beaucoup d’évangélistes renommés et éloquents, mais qui est donc le messager auquel la Parole du Seigneur vient aujourd’hui?
 
-## LE FILS DE L’HOMME
+## Le Fils de l’homme
 
 Jésus-Christ est le **Fils de Dieu**, le **Fils de l’homme**, et le **Fils de David**. Chacun de ces titres Le décrit dans l’une de Ses différentes fonctions, et l’un ne peut être mis à la place de l’autre. En rapport avec la Parole prophétique, Il est présenté comme le **Fils de l’homme**. C’est la raison pour laquelle nous ne le voyons pas comme le Fils de Dieu, ou comme le Fils de David, mais bien comme le **Fils de l’homme** marchant au milieu des sept chandeliers d’or (Apoc. 1.13).
 
@@ -409,7 +409,7 @@ Israël sortit de l’Egypte selon la promesse que Dieu avait faite. Cependant, 
 
 Pour nous, les paroles de mise en garde qui nous sont adressées se trouvent dans Hébreux 12.25: *“Gardez-vous de refuser d’entendre celui qui parle; car si ceux-là n’ont pas échappé qui refusèrent d’entendre celui qui publiait des oracles sur la terre, combien moins échapperons-nous, si nous nous détournons de celui qui parle du haut des cieux…”.* Dans ce passage, il n’est rien dit au sujet de ceux qui Le refusent comme celui qui sauve et qui guérit, mais bien de ceux qui refusent de L’écouter, **Celui qui parle**, **le Prophète**, le **Fils de l’homme**. Si le Seigneur Dieu parle et que Son peuple n’écoute pas Sa voix, c’est une chose très grave. *“Aujourd’hui, si vous entendez sa voix, n’endurcissez pas vos coeurs, comme lors de la révolte”* (Héb. 3.15). Nous devons entendre *“Sa voix”* aujourd’hui, le jour dans lequel nous vivons. Car c’est là notre *“aujourd’hui”.*
 
-## LE MYSTERE DE CHRIST ET DE SON EGLISE
+## Le mystère de Christ et de son Église
 
 Jésus-Christ S’est offert Lui-même pour être, une fois pour toutes, le parfait sacrifice sur la croix du Calvaire, pour les péchés de l’humanité déchue. Le plus grand triomphe de tous les âges a été le Sien, lorsqu’Il emmena captive la captivité, et brisa toutes les chaînes de la prison, en faveur de ceux qu’Il avait rachetés. Puis Il monta dans les lieux célestes et revint sous la forme du Saint-Esprit pour demeurer dans les Siens et Se manifester au milieu d’eux tout au long des âges, Jusqu’à ce qu’Il revienne pour Son Epouse immaculée, laquelle est revêtue de la robe de Sa justice.
 
@@ -509,7 +509,7 @@ Beaucoup prêchent la seconde venue de Christ, et cependant, ils sont frappés d
 
 Que Dieu puisse accorder à chacun de comprendre la signification du chandelier d’or à sept branches, illuminé, lequel représente la même Eglise dans ses sept périodes, et que chacun puisse identifier les messagers, comme étant les étoiles dans la main droite du Seigneur. C’est là la gloire du Seigneur, la même Colonne de feu qui était avec les enfants d’Israël, et qui plane également sur Son Eglise.
 
-## LES DIFFERENTS AGES
+## Les différents âges
 
 Dans le temps où Jean vit *Christ et Son Eglise dans la prophétie,* il existait beaucoup d’assemblées locales, auxquelles Paul avait adressé ses épîtres. Cependant, le Saint-Esprit choisit ces sept Eglises d’Asie Mineure à cause de leurs caractéristiques spécifiques, car elles étaient un type des sept âges à venir. Aucune Eglise des Juifs, même pas celle de Jérusalem, ne fut mentionnée. Parce que ces messages avaient une signification prophétique, et qu’ils traitaient entièrement de la dispensation des nations.
 
@@ -521,7 +521,7 @@ Le Seigneur S’adressait à deux groupes à l’intérieur de l’Eglise: l’u
 
 En accord avec l’histoire et la révélation divine, les âges de l’Eglise et les messagers de chaque âge sont les suivants:
 
-## EGLISE D’EPHESE
+## Église d’Éphèse
 
 > *“Voici ce que dit celui qui tient les sept étoiles dans sa main droite, celui qui marche au milieu des sept chandeliers d’or: …”* (Apoc. 2.1-7).
 
@@ -537,7 +537,7 @@ Les vainqueurs font comme Jésus, ils demeurent avec la Parole originale, et c�
 
 L’Age de *l’Eglise d’Ephèse* dura jusqu’en l’an 170. D’après la révélation divine, l’apôtre Paul était le messager-étoile dans la main droite du Seigneur pour cet âge.
 
-## EGLISE DE SMYRNE
+## Église de Smyrne
 
 > *“Voici ce que dit le premier et le dernier, celui qui était mort, et qui est revenu à la vie…”.*
 
@@ -549,7 +549,7 @@ Les élus de Dieu ne s’inclinèrent pas devant les fausses doctrines et, par c
 
 Cet âge de l’Eglise dura jusqu’en l’an 312. Beaucoup d’hommes exercèrent leur ministère durant cette période, mais, selon la révélation divine, Irénée fut celui que Dieu avait choisi pour être le messager-étoile dans la main droite du Seigneur. Il demeura fermement fondé sur la doctrine des apôtres, et il prêcha le Plein Evangile. Son ministère fut confirmé par le Dieu Tout-Puissant au moyen des signes qui l’accompagnaient.
 
-## EGLISE DE PERGAME
+## Église de Pergame
 
 > *“Voici ce que dit celui qui a l’épée aiguë, à deux tranchants…”* (Apoc. 2.12-17).
 
@@ -565,7 +565,7 @@ La promesse pour les vainqueurs était qu’ils recevraient la manne cachée et 
 
 Cet âge de l’église dura jusqu’en l’an 606. Selon la révélation divine, Saint-Martin fut le messager-étoile dans la main droite du Seigneur. De tous les grands hommes qui proclamèrent l’Evangile en ce temps-là, il était celui qui se tenait le plus près de l’enseignement apostolique. Son puissant ministère était accompagné par les signes scripturaires.
 
-## EGLISE DE THYATIRE
+## Église de Thyatire
 
 > *“Voici ce que dit le Fils de Dieu, celui qui a les yeux comme une flamme de feu, et dont les pieds sont semblables à de l’airain ardent…”* (Apoc. 2.18-29).
 
@@ -577,7 +577,7 @@ Ce faux système est comparé par le Seigneur à celui de Jézabel, qui avait in
 
 Cet âge dura jusqu’en l’an 1520. Selon la révélation divine, Colomban fut le messager-étoile dans la main droite du Seigneur. Son ministère était fondé sur la Parole originale de Dieu, et confirmé par le Tout-Puissant.
 
-## EGLISE DE SARDES
+## Église de Sardes
 
 > *“Voici ce que dit celui qui a les sept esprits de Dieu et les sept étoiles…”* (Apoc. 3.1-6).
 
@@ -591,7 +591,7 @@ Ceux qui crurent le message envoyé par Dieu pour ce temps-là ne souillèrent p
 
 Cet âge de l’Eglise dura jusqu’en l’an 1750. Durant ce temps, il y eut plusieurs vaillants hommes, lesquels eurent part à l’oeuvre de réformation, mais, selon la révélation divine, Martin Luther fut le messager-étoile dans la main droite du Seigneur. Il parut en proclamant ce message: *“Le juste vivra par la foi”.*
 
-## EGLISE DE PHILADELPHIE
+## Église de Philadelphie
 
 > *“Voici ce que dit le Saint, le véritable, celui qui a la clef de David…”* (Apoc. 3.7-13).
 
@@ -605,7 +605,7 @@ Les vainqueurs de cet âge de l’Eglise reçurent la promesse de devenir une co
 
 Ce glorieux âge de l’Eglise dura jusqu’en 1906. Selon la révélation divine, le messager-étoile dans la main droite du Seigneur était John Wesley, lequel continua à porter le flambeau de la Parole en proclamant la glorieuse révélation de la sanctification.
 
-## EGLISE DE LAODICEE
+## Église de Laodicée
 
 > *“Voici ce que dit l’Amen, le témoin fidèle et véritable, le commencement de la création de Dieu”* (Apoc. 3.14-22).
 
@@ -631,7 +631,7 @@ En ce qui concerne cet âge d’église, frère Branham a dit: «Je prédis… j
 
 Sommes-nous si proches de la fin? *“Sentinelle, que dis-tu de la nuit? La sentinelle répond: Le matin vient, et la nuit aussi”* (Es .21.11,12).
 
-## VOICI, L’EPOUX VIENT
+## Voici, l’Époux vient
 
 La Parole nous exhorte à demeurer sobres dans toutes nos actions, et à ne pas fixer une date pour le retour du Seigneur. Notre voeu est que Christ puisse nous trouver veillants, attendants, et que nous soyons prêts lorsqu’Il viendra. *“Pour ce qui est du jour et de l’heure, personne ne le sait, ni les anges des cieux, ni le Fils, mais le Père seul”* (Mat. 24.36).
 
@@ -669,7 +669,7 @@ Au commencement du Nouveau Testament, les croyants pouvaient avoir parlé nuit e
 
 Par la grâce de Dieu, nous reconnaissons Christ dans Son ministère prophétique, en tant que *Fils de l’homme.* Sa Parole est pour nous le “AINSI DIT LE SEIGNEUR!”. Puissions-nous obtenir Sa faveur en cette heure cruciale, afin que nous ayons part aux choses que le Seigneur fera jusqu’à ce que nous Le rencontrions. *“Et si l’Esprit de celui qui a ressuscité Jésus d’entre les morts habite en vous, celui qui a ressuscité Christ d’entre les morts rendra aussi la vie à vos corps mortels par son Esprit qui habite en vous”* (Rom. 8.11). *“Aussi la création attend-elle avec un ardent désir la révélation des fils de Dieu”* (Rom. 8.19).
 
-## L’ATTITUDE CORRECTE
+## L’attitude correcte
 
 Dans les temps de visitation particulièrement surnaturelle du Seigneur, les personnes qui viennent de sortir des chaînes doivent faire très attention de demeurer dans la modération, dans un bon esprit, et dans une attitude juste à l’égard des choses de Dieu. Il est facile d’accepter un substitut, et de contrister ainsi le Saint-Esprit, Lequel S’éloignera de nous. Si les croyants négligent de demeurer en accord avec la Parole, ils peuvent facilement glisser dans l’idolâtrie sans même s’en apercevoir.
 

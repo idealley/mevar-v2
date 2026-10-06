@@ -63,7 +63,7 @@ local_pdf: "https://files.mevar.org/cmpp/1988/predication_bruxelles_1988.pdf"
 html_url: "http://www.cmpp.ch/predication_bruxelles_1988.htm"
 title_page: ["PREDICATION DE FRERE EWALD FRANK"]
 ---
-## DONNEE A BRUXELLES LE SAMEDI 9 AVRIL 1988
+## Donnée à Bruxelles le samedi 9 avril 1988
 
 Père céleste, nous venons à Toi dans le précieux Nom de notre Seigneur Jésus-Christ. Nous Te demandons de nous bénir et d’être avec nous. Révèle-Toi Toi-même à nous cet après-midi d’une façon toute particulière. Nous sommes venus ici, Seigneur, pour ne rencontrer personne d’autre que Jésus-Christ de Nazareth. Nous sommes ici pour n’écouter que Ta Parole; non pas les paroles d’un homme mais les Paroles du Dieu Tout-Puissant. Seigneur Dieu, nous Te prions que Ta présence nous pénètre tous. Conduis-nous par Ton Esprit Saint. Et nous T’en donnons toute la gloire et l’honneur dans le Nom de Jésus-Christ. Amen.
 

@@ -331,13 +331,13 @@ local_pdf: "https://files.mevar.org/cmpp/1988/retour.pdf"
 html_url: "http://www.cmpp.ch/retour.htm"
 title_page: ["Titre original de l’ouvrage:","Die Wiederkunft Christi","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1989 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
-# LE RETOUR DE CHRIST
+# Le retour de Christ
 
 ## Ses différentes venues et les événements qui lui sont liés
 
 ## Un exposé du point de vue biblique du missionnaire Ewald Frank
 
-## AVANT-PROPOS
+## Avant-propos
 
 Si je me suis décidé à écrire ce traité, c’est pour que beaucoup de croyants puissent avoir une meilleure compréhension de ce sujet difficile mais combien important du retour du Seigneur.
 
@@ -354,7 +354,7 @@ Que Dieu bénisse Sa Parole bénie en faveur de tous les bénis de Dieu.
 Krefeld, novembre/décembre 1988  
 L’auteur
 
-# LE RETOUR DE CHRIST
+# Le retour de Christ
 
 ## Ses différentes venues et les événements qui lui sont liés
 
@@ -428,7 +428,7 @@ Dans le christianisme primitif, cette espérance était constamment vivante dans
 
 *“… de même aussi dans le Christ tous seront rendus vivants; mais chacun dans son propre rang: les prémices, **Christ**; puis ceux qui sont du Christ, à sa **venue**…”* (1 Cor. 15.22,23).
 
-## CELA S’ACCOMPLIRA REELLEMENT
+## Cela s’accomplira réellement
 
 Le plus grand nombre des passages bibliques que nous avons présentés nous montrent l’importance de l’événement. Malheureusement, très tôt après la mort des apôtres, on commença à interpréter le retour de Jésus-Christ dans le sens spirituel, et cela continua jusqu’à nos jours. Les hommes meurent, mais malheureusement pas les esprits: ils s’emparent d’autres hommes et continuent de répandre les fausses doctrines. On connaît généralement la théorie d’une organisation prétendant que le Royaume de Dieu aurait commencé sur la terre depuis 1914 et qu’il y serait édifié. De semblables doctrines, en relation avec un moment donné que l’on avait déterminé, étaient déjà apparues avant celle-ci et il y en a maintenant encore. Aujourd’hui, par exemple, elles sont répandues sous la formule de *Parousie de Christ.* Les défenseurs de cette doctrine prétendent que Christ serait déjà venu et qu’Il serait actuellement présent comme Juge. Une fois de plus la venue de Christ est spiritualisée et déclarée être une certaine “révélation”, laquelle serait accordée à un groupe bien déterminé. Chaque fois on a avancé les mêmes prétentions. C’est avec un grand enthousiasme que l’on prêche cela, **et les gens ne remarquent pas qu’ils ont à proprement parler dévié de la Vérité et que la bienheureuse espérance leur a été ainsi dérobée.**
 
@@ -452,7 +452,7 @@ Lors de Son retour, tous ceux qui Lui appartiennent, qu’ils soient déjà endo
 
 Les élus du temps de l’Ancien Testament sont déjà ressuscités avec Christ (Mat. 27.51-53). *“Et tous ceux-ci, ayant reçu témoignage par la foi, n’ont pas reçu ce qui avait été promis, Dieu ayant en vue quelque chose de meilleur pour nous, afin **qu’ils ne parviennent pas à la perfection sans nous”*** (Héb. 11.39,40). C’est pourquoi ils attendent dans le paradis, jusqu’à ce que l’heure de l’achèvement soit venue **pour tous**, et alors, avec les saints du Nouveau Testament, ils prendront part au Repas des Noces. C’est à cela que se rapporte notre Seigneur lorsqu’Il dit dans Matthieu 8.11: *“Et je vous dis que plusieurs viendront d’orient et d’occident, et s’assiéront avec Abraham et Isaac et Jacob dans le royaume des cieux”.*
 
-## ASPIRATION REALISEE
+## Aspiration réalisée
 
 *“Car la vive attente de la création attend la révélation des fils de Dieu… et non seulement elle, mais nous-mêmes aussi qui avons les prémices de l’Esprit, nous aussi, nous soupirons en nous-mêmes, attendant* (la réalisation de) *l’adoption, **la délivrance de notre corps**”* (Rom. 8.19,23).
 
@@ -472,7 +472,7 @@ Jésus-Christ, le Fils de Dieu, qui fut crucifié et mis dans un tombeau, est re
 
 Comme nous l’avons déjà fait remarquer, le retour de Jésus-Christ n’est pas une pieuse illusion, mais bien un grand événement qui sera accompagné de signes visibles. **Pour les uns ce sera aussi une amère réalité**, comme il est écrit dans Luc 17.34-36: *“Je vous dis qu’en cette nuit-là, deux seront sur un même lit, l’un sera pris et l’autre laissé; deux femmes moudront ensemble, l’une sera prise et l’autre laissée; deux seront aux champs, l’un sera pris et l’autre laissé”.*
 
-## LE CRI DE COMMANDEMENT
+## Le cri de commandement
 
 Selon 1 Thessaloniciens 4.16, lors du retour du Seigneur trois choses arriveront: *Son cri de commandement* sort, *une voix d’archange* retentit, et *la trompette de Dieu* sonne. **Cela arrive lorsque le Seigneur descend du Ciel pour attirer les Siens à Lui. La rencontre de l’Epoux et de l’Epouse n’a pas lieu sur la terre, mais bien dans les airs** (1 Thess. 4.17).
 
@@ -500,7 +500,7 @@ Jean-Baptiste, qui s’est avancé comme précurseur de la première venue du Se
 
 L’appel à sortir, le cri de réveil et la préparation doivent avoir lieu avant la venue du Seigneur. L’apôtre Jean vit l’Epouse en vision et il écrivit: *“Réjouissons-nous et tressaillons de joie, et donnons-lui gloire; car les noces de l’Agneau sont venues; et sa femme **s’est préparée**…”* (Apoc. 19.7).
 
-## LA VOIX D’UN ARCHANGE
+## La voix d’un archange
 
 La mention de la voix d’un archange, dans 1 Thessaloniciens 4.16, a une importance toute particulière. *“Ne sont-ils pas tous des esprits administrateurs envoyés pour servir en faveur de ceux qui vont hériter du salut?”.* Voilà ce qui est écrit dans Hébreux 1.14. Lors de l’enlèvement, le Sauveur prend à Lui ceux qu’Il a rachetés, et Satan, avec tous ceux qui le suivent, est précipité sur la terre. Cela arrive comme Jean l’a vu en vision: *“Et il y eut un combat dans le ciel: **Michel** et ses anges combattaient contre le dragon. Et le dragon combattait, et ses anges; et il ne fut pas le plus fort, et leur place ne fut plus trouvée dans le ciel. Et le grand dragon fut précipité, le serpent ancien, celui qui est appelé diable et Satan* (l’adversaire)*, celui qui séduit la terre habitée tout entière, il fut précipité sur la terre, et ses anges furent précipités avec lui”* (Apoc. 12.7-9).
 
@@ -520,7 +520,7 @@ Dans Matthieu 22 nous avons la description de la salle des Noces remplie d’inv
 
 Il est dit de la troupe des vainqueurs: *“… et eux l’ont vaincu à cause du sang de l’Agneau et à cause de la parole de leur témoignage; et ils n’ont pas aimé leur vie, même jusqu’à la mort”* (Apoc. 12.11). Une réelle marche à la suite de Jésus place les véritables enfants de Dieu dans les empreintes de Jésus-Christ, notre Sauveur, de telle manière que cette parole s’accomplit littéralement: *“Car nul de nous ne vit ayant égard à lui-même, et nul ne meurt ayant égard à lui-même: mais soit que nous vivions, nous vivons ayant égard au Seigneur, soit que nous mourions, nous mourons ayant égard au Seigneur”* (Rom. 14.7,8). Paul, ainsi que tous ceux qui moururent avec Christ par la foi, pouvait dire: *“Et je ne vis plus, moi, mais Christ vit en moi”* (Gal. 2.20). Il ne suffit pas de prêcher, ou de parler de ces choses, mais il faut que cela devienne vrai dans la vie de ceux qui veulent entrer dans la gloire.
 
-## LA TROMPETTE
+## La trompette
 
 La trompette qui retentira lors de la venue du Seigneur, conformément à 1 Thessaloniciens 4.16, est désignée comme étant *la Trompette de Dieu.* Lors de certaines circonstances, il était d’usage dans l’Ancien Testament de sonner de la trompette. Lorsque le Seigneur descendit sur la montagne du Sinaï, le peuple vit les flammes et les éclairs, il entendit le roulement du tonnerre ainsi que le retentissement puissant des trompettes (Ex. 20.18). *Le Jubilé,* qui est aussi connu comme “l’année du retentissement du cor”, était introduit le jour des expiations par le son bruyant de la trompette (Lév. 25.8-12).
 
@@ -530,7 +530,7 @@ Jésus-Christ revient avec un cri de commandement accompagné de la voix de l’
 
 Le retour du Seigneur aura lieu comme un éclair, c’est-à-dire subitement, en un clin d’oeil. Celui qui sera réellement prêt à ce moment-là sera changé et enlevé dans la gloire. De même qu’Hénoc, le septième après Adam, fut enlevé et ne fut plus trouvé sur la terre, ainsi, à la fin des sept âges de l’Eglise, **ceux qui font partie de l’Epouse seront enlevés et ne se trouveront plus sur la terre**.
 
-## LA CONDITION
+## La condition
 
 La condition pour atteindre ce but si élevé est donnée clairement dans la parole suivante: *“Et **si** l’Esprit de celui qui a ressuscité Jésus d’entre les morts **habite** en vous, celui qui a ressuscité le Christ d’entre les morts vivifiera vos corps mortels aussi, à cause de son Esprit qui habite en vous”* (Rom. 8.11). Il ne s’agit pas ici d’une onction de l’Esprit, que peut-être des millions de personnes ont, mais bien d’une “habitation intérieure”. Le mot “**si**” est d’une grande importance. **Si** l’Esprit, et avec cela Sa puissance, **habite** en nous, c’est-à-dire demeure en nous, cela arrivera, sinon pas. Conformément aux Paroles de notre Seigneur, il y aura juste avant Son retour beaucoup de faux christs, c’est-à-dire de faux oints, qui feront de grands signes et des miracles, qui auront un ministère “oint”, **mais qui, dans les doctrines fondamentales, auront les mêmes racines que le faux prophète** (Mat. 24).
 
@@ -552,7 +552,7 @@ Beaucoup de croyants expérimentent une onction de l’Esprit et peuvent se glor
 
 Lorsque Paul parle de la révélation des fils de Dieu, il fait clairement ressortir de quoi il s’agit, et il écrit: *“Car tous ceux qui sont conduits par l’Esprit de Dieu, ceux-là sont fils de Dieu”* (Rom. 8.14). Jésus disait que l’Esprit de Vérité nous conduirait dans toute la vérité et qu’Il nous annoncerait les choses qui vont arriver (Jean 16.13). A ceux qui ont réellement reçu le Saint-Esprit et mettent leur foi dans la Parole, c’est à eux qu’est adressée cette exhortation: *“Et n’attristez pas le Saint-Esprit de Dieu, par lequel vous avez été scellés pour le jour de la rédemption”* (Eph. 4.30). **Seuls ceux-ci entendent réellement ce que l’Esprit dit aux Eglises.** Seuls ceux qui écoutent véritablement ce que l’Esprit dit aux Eglises, c’est-à-dire seuls les vainqueurs, auront part au Repas des Noces. Ces justes parvenus à la perfection pourront mêler leur voix au choeur céleste, chantant: *“Alléluia! car le Seigneur, notre Dieu, le Tout-puissant, est entré dans son règne. Réjouissons-nous et tressaillons de joie, et donnons-lui gloire; car les noces de l’Agneau sont venues; et sa femme s’est préparée; et il lui a été donné d’être vêtue de fin lin, éclatant et pur, car le fin lin, ce sont les justices des saints. Et il me dit: Ecris: Bienheureux ceux qui sont conviés au banquet des noces de l’Agneau. Et il me dit: Ce sont ici les véritables paroles de Dieu”* (Apoc. 19.6b-9).
 
-## PLAN DU TEMPS
+## Plan du temps
 
 Aussitôt que le diable, le serpent ancien, a été précipité du ciel, il est dit: *“C’est pourquoi réjouissez-vous, cieux et vous qui y habitez. Malheur à la terre et à la mer, car le diable est descendu vers vous, étant en grande fureur, sachant qu’il a peu de temps”* (Apoc. 12.12). **Il s’agit ici visiblement de la courte période existant entre l’enlèvement de l’Epouse et le commencement du règne de mille ans.** Pendant cette période, Satan donnera libre cours à sa colère sur la terre, au moyen de l’Antichrist. C’est alors qu’il entre dans son représentant, l’inique, et montre ouvertement qui il est réellement (2 Thess. 2.7,8). Comme il n’a pas réussi à engloutir la troupe des vainqueurs, ceux qui sont parvenus *“à l’état d’homme fait, à la mesure de la stature de la plénitude du Christ”* (Eph. 4.13), et qui sont désignés dans Apocalypse 12 comme “un fils mâle”, Satan se précipite alors sur l’Eglise qui est restée en arrière. Elle est représentée comme une femme de laquelle le Fils mâle va naître et *“qui doit paître toutes les nations avec une verge de fer”* (Apoc. 12.5). Cette parole ne se rapporte pas seulement à Christ, mais elle est aussi une des sept promesses faites aux vainqueurs: *“Et celui qui vaincra, et celui qui gardera mes oeuvres jusqu’à la fin, je lui donnerai autorité sur les nations; et il les paîtra avec une verge de fer…”* (Apoc. 2.26,27).
 
@@ -608,7 +608,7 @@ Dans le cinquième Sceau (Apoc. 6.9-11) il est question des âmes qui se trouven
 
 Le mot “esclave” n’est pas employé dans le cadre de l’Eglise du Nouveau Testament, car Elle est formée de fils et de filles de Dieu. Dans les prophéties bibliques, les Israélites sont désignés comme “serviteurs” et “servantes”. Sans aucun doute l’expression “compagnons d’esclavage” signifie ici les 144 000 qui sont venus à la foi par le ministère des deux prophètes, et qui pendant les trois ans et demi de la grande tribulation sont poursuivis et mis à mort par l’Antichrist.
 
-## LA RETRIBUTION
+## La rétribution
 
 *“Et aussitôt après la tribulation de ces jours-là, le soleil sera obscurci, et la lune ne donnera pas sa lumière* (Es. 13.10; Joël 3.3-5; Apoc. 6.12-17), *et les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées. Et alors paraîtra le signe du fils de l’homme dans le ciel: et alors toutes les tribus de la terre se lamenteront et verront le fils de l’homme venant sur les nuées du ciel, avec puissance et une grande gloire”* (Mat. 24.29,30).
 
@@ -640,7 +640,7 @@ La victoire sur l’Antichrist, et le jugement correspondant qui tombera sur les
 
 *“Car voici, le jour vient, brûlant comme un four; et tous les orgueilleux, et tous ceux qui pratiquent la méchanceté seront du chaume, et le jour qui vient les brûlera…”* (Mal. 4.1). *“Or le jour du Seigneur viendra comme un voleur; et, dans ce jour-là, les cieux passeront avec un bruit sifflant, et les éléments embrasés seront dissous, et la terre et les oeuvres qui sont en elle seront brûlées entièrement”* (2 Pier. 3.10).
 
-## LA TRANSITION
+## La transition
 
 Après que le Seigneur ait déversé Sa colère et réglé Ses comptes avec Ses ennemis s’accomplit ce qu’avait annoncé Zacharie: *“Et ses pieds se tiendront, en ce jour-là, sur la montagne des Oliviers…”* (Zach. 14.4). Cette fois Il ne vient pas seul, mais bien, comme il est écrit au verset suivant: *“Et l’Eternel, mon Dieu, viendra, et tous les Saints avec toi”.* **Le Repas des Noces dans le Ciel est terminé, le règne de mille ans va commencer.**
 
@@ -672,7 +672,7 @@ Par reconnaissance, nous unissons nos voix à la louange des 24 anciens, des qua
 
 Il va de soi que le Seigneur dans ce dernier verset n’est plus désigné comme Fils de l’homme, mais qu’Il est honoré comme le Dieu Tout-Puissant. Le prophète Esaïe l’a dit à l’avance par cette parole: *“Et il sera dit en ce jour-là: Voici, c’est ici notre Dieu; nous l’avons attendu, et il nous sauvera; c’est ici l’Eternel, nous l’avons attendu. Egayons-nous et réjouissons-nous dans sa délivrance”* (Es. 25.9).
 
-## LE MILLENIUM
+## Le millénium
 
 Pendant le règne de mille ans, le Seigneur, en tant que Roi, régnera sur toute la terre avec ceux qui auront pris part au Repas des Noces. Les 144’000, qui sont comptés comme faisant partie de la première résurrection, régneront aussi avec Lui (Apoc. 20.4-6). C’est le moment où le nombre complet des Juifs avec le nombre complet des nations seront unis ensemble. La même chose qui est écrite en rapport avec le vainqueur de Golgotha (Ps. 2.8) est donnée comme promesse à la troupe des vainqueurs: *“Et celui qui vaincra, et celui qui gardera mes oeuvres jusqu’à la fin, je lui donnerai autorité sur les nations; et il les paîtra avec une verge de fer…”* (Apoc. 2.26,27).
 
@@ -712,7 +712,7 @@ Pendant le millénium nous voyons sur la terre la réalisation du Royaume de Die
 
 *“Il engloutira la mort en victoire; et le Seigneur, l’Eternel, essuiera les larmes de dessus tout visage, et il ôtera l’opprobre de son peuple de dessus toute la terre; car l’Eternel a parlé”* (Es. 25.8).
 
-## LA FIN DU TEMPS
+## La fin du temps
 
 Avant la deuxième résurrection, le jugement final et l’entrée dans l’éternité, a lieu un tout dernier règlement de comptes entre Dieu et Son ennemi mortel et ceux qui le suivent. *“Et quand les mille ans seront accomplis, Satan sera délié de sa prison; et il sortira pour égarer les nations qui sont aux quatre coins de la terre, Gog et Magog, pour les assembler pour le combat, eux dont le nombre est comme le sable de la mer”* (Apoc. 20.7,8). Il s’agit de personnes qui ont vécu sur la terre pendant le millénium, mais qui à aucun moment ne se sont laissés inclure dans le plan de salut de Dieu. Lorsqu’on lit attentivement les chapitres 38 et 39 d’Ezéchiel, on constate des parallèles frappants avec **la grande bataille d’Armaguédon qui, comme nous le savons, a lieu avant l’établissement du millénium.** Une ressemblance particulièrement grande existe entre Ezéchiel 39.17-20 et Apocalypse 19.17-21. En fait les deux fois, avant et après le millénium, ce sont les mêmes peuples qui montent contre Jérusalem. Aussi longtemps que Satan a été lié, ils se sont tenus tranquilles. Mais à l’instant même où il est délié, les impies se placent de nouveau sous son influence.
 

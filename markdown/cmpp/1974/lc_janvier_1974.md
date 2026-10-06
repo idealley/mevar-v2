@@ -85,7 +85,7 @@ En ce temps-ci, nous ne nous attendons pas à un réveil mondial qui remue de gr
 
 La pierre du faîte doit être posée sur la Maison de Dieu. Christ doit être manifesté comme étant Le même dans Son Eglise. Il est la Pierre fondamentale et la Pierre du faîte; l’Alpha et l’Oméga, le Chef et le Consommateur de notre foi. Lui-même achève la préparation de Son Eglise pour le jour de Son glorieux retour.
 
-## ISRAEL DANS LA PROPHETIE
+## Israël dans la prophétie
 
 Dans ce temps prophétique, nous voyons la Parole de Dieu s’accomplir de manières variées. Dieu accomplit des choses décisives, non seulement dans l’Eglise, mais également en Israël. Il a dit: *“En ce jour-là, je ferai de Jérusalem une pierre pesante pour tous les peuples; tous ceux qui la soulèveront seront meurtris; et toutes les nations de la terre s’assembleront contre elle”* (Zach. 12.3).
 
@@ -109,7 +109,7 @@ Parmi les élus, en Israël, il y a une grande attente du Messie. Il y a dans le
 
 Comment pouvons-nous classer les événements de ce temps-là? Parmi les croyants véritables se pose cette grave question: Combien le temps de la grâce durera-t-il encore, et quand le Seigneur reviendra-t-Il? Les signes des temps nous parlent clairement, et le figuier est en pleine floraison. La parole prophétique s’accomplit sous nos yeux.
 
-## LES 70 SEMAINES DE DANIEL
+## Les 70 semaines de Daniel
 
 Beaucoup de ceux qui s’occupent de la Parole prophétique se posent la question de savoir comment doivent être classées les 70 semaines de Daniel. L’ange Gabriel instruisit le prophète Daniel sur les six buts du plan de salut pour Israël. Dans Daniel 9.24, il est écrit: *“Soixante et dix semaines ont été fixées sur ton peuple et sur ta ville sainte, pour…”.*
 
@@ -205,7 +205,7 @@ Et il fait une alliance avec eux, et au milieu de la soixante-dixième semaine, 
 
 «N’êtes-vous pas heureux? Revenez au Message, frères! Revenez à l’original! Revenez à Pentecôte! Revenez à la vraie bénédiction! Revenez au Nom de Jésus-Christ! Revenez au baptême du Saint-Esprit! Revenez aux signes et aux miracles! Revenez à Pentecôte! Finissez-en avec vos organisations!».
 
-## CONCLUSION
+## Conclusion
 
 La charge que j’ai reçue du Seigneur est uniquement de faire connaître plus loin la Parole révélée de Dieu, c’est-à-dire de distribuer la nourriture qui avait été mise en réserve. Je désire accomplir ce service consciencieusement, sans me laisser engager dans quelque spéculation que ce soit. Nous sommes décidés à nous opposer à toute interprétation arbitraire des Saintes Ecritures et de la Parole de Dieu révélée dans ce temps. Nous nous distançons consciemment de tout frère, ou de tout groupe, qui ne s’en tient pas uniquement à la Parole de Dieu.
 
@@ -217,7 +217,7 @@ En toutes choses, nous devons être profonds et vrais. Après le départ de frè
 
 Jusqu’à présent, nous n’avons pas trouvé qu’il était question d’un calendrier qui s’effeuillait de lui-même, et se serait arrêté à l’année 1977. Il a souvent parlé de 1977 en rapport avec différentes choses, mais sa signification n’en est aucunement modifiée. D’ailleurs, les frères des USA ne peuvent pas davantage trouver cette déclaration. On me dit uniquement que cette déclaration se trouvait dans un manuscrit. Nous devons alors purement et simplement la laisser tomber. Que personne ne dise: «Mon Seigneur tarde à revenir!» et que personne ne s’en tienne fanatiquement à un temps déterminé. Il est certain que le retour de Jésus-Christ est proche, mais quant au temps et à l’heure, personne ne les connaît. Que nous puissions seulement veiller journellement et être prêts.
 
-## VOEUX DE BENEDICTION
+## Vœux de bénédiction
 
 Je souhaite de tout coeur, à chacun, la bénédiction du Dieu Tout-puissant pour les fêtes de fin d’année, et une nouvelle année riche et bénie. Nous souhaitons que dans la vie de tous Ses enfants, se réalise littéralement le Psaume 20, versets 5 et 6.
 
@@ -230,7 +230,7 @@ Agissant de la part de Dieu.
 
 ---
 
-## EDITORIAL
+## Éditorial
 
 > *“Le dragon se tint devant la femme qui allait enfanter, afin de dévorer son enfant, lorsqu’elle aurait enfanté”* (Apoc. 12.4).
 

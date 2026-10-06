@@ -182,11 +182,11 @@ local_pdf: "https://files.mevar.org/cmpp/undated/mariage_frank.pdf"
 html_url: "http://www.cmpp.ch/mariage_frank.htm"
 title_page: ["Titre original de l’ouvrage:","Die Ehe – Das uralte Problem","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1997 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
-# LE MARIAGE: PROBLEME ANCIEN
+# Le mariage: problème ancien
 
 ## Un exposé du point de vue biblique par Ewald Frank
 
-## INTRODUCTION
+## Introduction
 
 A cause de certains événements, il est devenu nécessaire, comme le dit Paul à l’Eglise de Corinthe, de répondre aux questions *“… au sujet desquelles vous m’avez écrit”*. Le thème tout particulier du mariage doit donc être encore une fois éclairé à fond.
 
@@ -214,7 +214,7 @@ Les doctrines non reliées à la loi de Dieu sont les doctrines de “l’inique
 
 Une doctrine ne peut être “biblique” que lorsque les deux, l’Ancien et le Nouveau Testament, sont pris en considération et amenés à l’harmonie. C’est pour cette raison que les confessions chrétiennes sont sur le chemin de l’erreur, parce qu’elles se sont détachées du fondement de l’Ancien Testament. Dans sa prédication “*Mariage et Divorce”*, l’homme de Dieu nous surprend sans cesse par ses comparaisons inhabituelles qu’il n’aurait, comme nous le savons tous, pas utilisées de lui-même. Dans l’humilité qui lui avait été donnée, il dit: «Parce que c’est une question biblique, il doit y avoir aussi une réponse biblique». Cependant, les réponses bibliques qu’il donne ne conviennent pas à la représentation moderne que nous en avons. L’esprit de ce temps règne partout sous la bannière de l’égalité. La pleine émancipation est “à la mode”, et malheur à celui qui se réclame des déclarations de la Bible qu’il appelle “vieux jeu et dépassées”.
 
-## RECU DU SEIGNEUR
+## Reçu du Seigneur
 
 Dans l’introduction de sa prédication frère Branham mentionne (p.5, § 25) 10 000 cas dans lesquels quelque chose lui a été révélé et annoncé à l’avance, des choses qui se sont toutes accomplies. Il laissa son Assemblée, qui avait entendu de ses oreilles et vu ces choses de ses propres yeux pendant toutes ces années, confirmer cela par un puissant “Amen!”. Ensuite il montra que *les deux* pensées doctrinales qui prévalent, lesquelles sont tout à fait opposées l’une à l’autre, sont fausses *du point de vue biblique*, bien qu’elles soient partout prêchées et crues. **Citation**: «Si c’est ainsi, nous avons deux écoles de pensée au sujet du mariage et du divorce. L’une dit qu’un homme ne peut être marié *qu’une seule fois*, à moins que sa femme ne soit morte. C’est une des questions. Mais si vous suivez cette voie-là vous passez par-dessus bord. L’autre dit: ‹Oh, si le mari ou la femme (*l’un ou l’autre*) a commis adultère, l’autre peut le répudier et se remarier›. Mais dans cette voie aussi vous passez par-dessus bord» (p. 9, § 50).
 
@@ -222,7 +222,7 @@ Quelquefois il est déplaisant de faire mention d’événements tout à fait pr
 
 Tous les passages bibliques se rapportant à une chose doivent être mis ensemble. Celui qui prend pour lui-même un seul passage de la Bible, sans considérer les autres, fait violence à la Parole de Dieu. Cette Parole n’est pas là pour donner raison à qui que ce soit et encore moins pour appuyer notre propre interprétation. Nous vivons pour donner raison à Dieu et nous soumettre à chacune de Ses Paroles. Par exemple, celui qui ne discerne pas et ne considère pas quelle est la parole adressée à l’homme, et quelle est celle adressée à la femme n’a pas réellement compris la chose, ou c’est peut-être parce qu’il ne veut pas du tout le savoir correctement. Toutefois, quand Dieu dit “il”, c’est bien à l’homme qu’Il pense, et s’Il dit “elle” il s’agit de la femme. Dieu pense toujours ce qu’Il dit, et Il dit ce qu’Il pense.
 
-## C’EST AINSI QUE CELA COMMENCA
+## C’est ainsi que cela commença
 
 C’est au commencement, c’est-à-dire dans le livre de la Genèse (qui veut dire “origine”, “commencement”) que frère Branham va tout d’abord, là ou se trouve l’origine de tout mal, là où se trouve la chute dans le péché, et à cela est liée la première désobéissance, la première transgression de la Parole, la première séduction, le premier adultère, et ainsi de suite. Le frère expose comment Eve était en Adam lors de la création du corps spirituel (Gen. 1), et comment au 2ème chapitre, par une action ayant eu lieu sur la terre, Eve fut sortie d’Adam et lui fut présentée. Ainsi est présenté devant nos yeux depuis le commencement “l’histoire du salut” à l’intérieur de l’histoire de l’humanité: L’Epouse de Christ était déjà dans le Sauveur alors qu’Il se trouvait dans un corps spirituel, mais Elle ne sortit de Lui que lorsqu’Il apparut dans un corps de chair et accomplit la rédemption à la croix de Golgotha.
 
@@ -232,7 +232,7 @@ Lors du premier acte de la création, les deux, mâle et femelle, ne constituaie
 
 Dès le moment où Eve se laissa entraîner par les arguments du serpent, elle se trouva sous l’autorité de Satan. Elle amena ensuite Adam sous la même influence dans laquelle elle se trouvait et l’entraîna dans la chute du péché, par la transgression d’un commandement pourtant bien clair. Il se trouve que toute femme influençant son mari contre la Parole de Dieu est, comme Eve, tombée sous l’inspiration “du méchant”. Il est évident que, comme autrefois, de telles discussions se font avec des arguments sur “ce que Dieu a dit”. Dans une telle situation, sans que les femmes ne le remarquent, l’ennemi tord la Parole de Dieu dans leur tête et sur leurs lèvres. Satan se sert toujours de la Parole de Dieu dans l’intention de tromper; il vint aussi à notre Seigneur avec le “il est écrit”, car ce n’est qu’ainsi qu’il peut faire tomber des enfants de Dieu. Tout mensonge est en fait une vérité présentée sens dessus dessous, c’est-à-dire tordue. Nous devons donc suivre l’exemple de notre Seigneur et le rencontrer avec le *“mais il est aussi écrit”*. Satan **prend des citations** de la Bible, isolées et hors de leur contexte, pour tenter les croyants, mais nous, **nous prenons toute la Parole** pour résister à ce tentateur.
 
-## LA FIN DU “COMMENCEMENT”
+## La fin du “commencement”
 
 C’est avec une grande colère que l’Eternel Dieu a réagi à la chute dans le péché. Il maudit le serpent, qui perdit aussitôt la parole et sa forme originelle. Il pouvait auparavant parler et se tenir debout, mais dès ce moment il dut ramper sur le sol en tant que reptile. Eve n’a pas été maudite, mais punie, et cela uniquement dans le but qu’elle se souvienne de la séduction, elle devait mettre ses enfants au monde dans la douleur. Dieu n’a pas placé cette punition sur la bouche, mais bien là où elle devait être, c’est-à-dire sur le sein maternel. Le fait qu’ils couvrirent leur honte avec des feuilles de figuier — non sous l’ombre d’un pommier, duquel la Bible ne parle nullement — éclaire tout à fait ce qui s’est passé. Adam ne fut pas davantage maudit, mais la malédiction tomba sur le sol qu’il devait cultiver. Lui-même devait manger son pain à la sueur de son front. Le reproche que lui fit le Seigneur était: *“Parce que tu as écouté la voix de ta femme…”* (Gen. 3.17).
 
@@ -262,7 +262,7 @@ Plus d’un pourrait s’écrier: «C’est un comble que des hommes de Dieu du 
 
 Frère Branham se rapporte aussi à la parole de l’apôtre Paul dans 1 Timothée 2.9-15 qui dit qu’il ne permet pas à la femme *“d’enseigner ni d’user d’autorité sur l’homme”*. Après qu’Eve se soit placée sous l’influence, la puissance de Satan, et qu’elle ait consenti, elle commença à influencer Adam jusqu'à ce que finalement il fasse ce qu’elle voulait et transgresse ainsi le commandement de Dieu. C’est ainsi que vint la chute qui est un blasphème contre Dieu et anéantit l’ordre divin, et continue en tous ceux qui ne se laissent pas intégrer dans les prescriptions de Dieu. Le fondement de l’apôtre pour la subordination est celui-ci: *“Car Adam a été formé le premier, et puis Eve; et Adam **n’a pas été trompé**; mais la femme, **ayant été trompée**, est tombée dans la transgression”* (1 Tim. 2.13,14). Puis, frère Branham fait un parallèle avec 1 Corinthiens 14, et comme Paul il met l’accent sur le fait qu’il est tout à fait “légal” que les femmes se taisent et persévèrent dans la soumission “… *comme le dit aussi la loi”* (1 Cor. 14.34). Ancienne mode? Ancien Testament? Ennemi des femmes? Non! Mais tel que le Dieu qui demeure toujours Le même l’a fixé dans Sa loi, laquelle demeure valable pour toujours! Le Seigneur Jésus n’est pas venu pour annuler la loi et les commandements, mais bien pour les accomplir. Il dit: *“Ne pensez pas que je sois venu pour abolir la loi ou les prophètes; je ne suis pas venu pour abolir, mais pour accomplir; car, en vérité, je vous dis: Jusqu'à ce que le ciel et la terre passent, un seul iota ou un seul trait de lettre ne passera point de la loi, que tout ne soit accompli”* (Mat. 5.17,18). Ce qu’Il a dit une fois demeure valable pour toujours.
 
-## L’ORDRE DIVIN DEMEURE
+## L’ordre divin demeure
 
 Ainsi l’ordre divin suit réellement son cours en demeurant le même dans l’Ancien et le Nouveau Testament. Au 20ème siècle encore Dieu dit la même chose qu’il y a 6 000, 4 000, ou 2 000 ans. Celui à qui cela déplaît se place dans la même position que les hommes modernes, qui, sans orientation, s’en vont vers la perdition en suivant leur propre chemin. Nous devons nous poser la question de savoir quel état cela produirait en nous si Dieu disait une fois une chose d’une façon, et une autre fois d’une autre façon? Alors, Dieu ne serait pas Celui qui aurait pu faire un plan dans l’éternité en faveur de l’humanité, pour l’accomplir au cours de l’histoire du salut et l’amener maintenant à son achèvement. Sans cela comment aurait-Il pu juger tout le monde uniformément à l’ensemble de Sa Parole? **Citation**: «Maintenant nous voyons donc le tableau tout entier se dérouler devant nous. Voilà la femme. C’est pourquoi Dieu ne lui permet pas d’enseigner, qu’Il ne lui permet pas de faire dans l’Eglise quoi que ce soit d’autre que se tenir dans le silence, la face voilée» (p. 25, § 148). Est-ce une parole dure et sans amour? Qui peut l’écouter? Qui peut la supporter? Qui va s’en scandaliser et se suivre soi-même? Qui donc va la recevoir avec reconnaissance et aller de l’avant? Il n’y a point dans le Nouveau Testament de femme établie par Dieu dans un ministère d’apôtresse, de prophétesse, de doctoresse et de pastoresse. Toutefois, comme il est écrit dans la quatrième lettre aux anges de l’Eglise, il y a la femme “Jézabel” qui se donne pour une “prophétesse” et s’adonne à l’enseignement comme étant “un docteur” (Apoc. 2.20). Dieu reprend sévèrement l’ange de l’Eglise parce qu’il laisse faire cette femme. C’est ce que Dieu fait encore aujourd’hui.
 
@@ -278,7 +278,7 @@ En ce qui concerne **les ministères de la Parole**, ils ont été réellement *
 
 Frère Branham emploie le même modèle de preuve que Paul et se sert de ses expressions: *“Car l’homme ne procède pas de la femme, mais la femme de l’homme; car aussi l’homme n’a pas été créé à cause de la femme, mais la femme à cause de l’homme. C’est pourquoi la femme, à cause des anges, **doit avoir** sur la tête **une marque de l’autorité** à laquelle elle est soumise*” (1 Cor. 11.8-10). Il nous reste à espérer que tous ont la crainte nécessaire devant Dieu et Sa Parole, devant Ses messagers et le message apporté. Toutes Paroles de Dieu, y compris “la marque de l’autorité” sur la femme et sur ce qui nous a été laissé dans les Ecritures à ce sujet, sont toutes aussi saintes et obligatoires que n’importe quelle autre Parole de Dieu. L’homme qui appartient à Dieu vit de toute Parole sortant de la bouche de Dieu. Nous devons être prêts à suivre tout le chemin tracé par le christianisme primitif. Le Saint-Esprit agit et conduit toujours de la même manière.
 
-## QU’EST-CE QUE L’ADULTERE?
+## Qu’est-ce que l’adultère?
 
 L’homme ne peut pas rompre **son propre mariage**. Il devient adultère lorsqu’il entre dans un autre mariage, c’est-à-dire lorsqu’il prend une femme mariée, laquelle devient à son tour adultère. Dieu a établi le mariage comme une sainte institution, et Il l’a placé sous une protection particulière. Sur les dix commandements, deux s’adressent d’une manière toute spéciale aux hommes: “**Tu ne commettras pas adultère!**” et “**Tu ne convoiteras pas la femme de ton prochain**”. C’est un délit qui a de sévères conséquences, comme la chute dans le péché. C’est pourquoi Dieu a donné ce commandement: *“**Si un homme a été trouvé couché avec une femme mariée**, ils mourront tous deux, l’homme qui a couché avec la femme, et la femme; et tu ôteras le mal du milieu d’Israël*” (Deut. 22.22). La punition de la mort est prononcée sur ce délit, comme cela se trouve écrit aussi dans Lévitique 20.10: *“Et un homme **qui commet adultère avec la femme d’un autre, qui commet adultère avec la femme de son prochain**: l’homme et la femme adultères seront certainement mis à mort”.*
 
@@ -290,7 +290,7 @@ Jean-Baptiste fit de sévères reproches à Hérode pour avoir pris pour épouse
 
 Bien que frère Branham s’adressait à l’Eglise des temps de la fin, il évoquait les hommes de Dieu de l’Ancien Testament comme Abraham, Jacob et encore d’autres. **Citation**: «Voyez Jacob, de qui sont nés les patriarches. Il eut au moins une douzaine de femmes. Il épousa deux soeurs et eut à part cela des concubines (des femmes avec qui il vivait légalement sans être marié) et certains de ces patriarches naquirent de ces concubines» (p. 37, § 227). Jacob n’avait point commis d’adultère, au contraire de ce que fit David quand il prit pour femme Batshéba, la femme d’Urie. Après avoir exposé cela frère Branham dit tout simplement: «Vous voyez, vous devez laisser la Parole s’exprimer directement».
 
-## DIEU EXIGE LA SAINTETE
+## Dieu exige la sainteté
 
 Dans 1 Corinthiens 5 Paul traite le cas abominable d’un homme qui avait des rapports avec sa belle-mère. A cet égard une mise en garde était écrite: *“Tu ne découvriras pas la nudité de la femme de ton père; c’est la nudité de ton père”* (Lév. 18.8). Cet homme n’avait pas seulement péché, mais il s’était placé sous la malédiction de Dieu, parce ce qu’il faisait était classé parmi les douze choses que Dieu Lui-même avait maudites: *“**Maudit** qui couche avec la femme de son père, car il relève le pan du vêtement de son père!”* (Deut. 27.20).
 
@@ -302,7 +302,7 @@ Il est écrit dans 1 Corinthiens 6.9,10: *“Ne savez-vous pas que les injustes 
 
 Ainsi dit le Seigneur: *“Et vous vous sanctifierez et vous serez saints, car moi, je suis l’Eternel, votre Dieu. Et vous garderez mes statuts, et vous les ferez. Moi, je suis l’Eternel qui vous sanctifie”* (Lév. 20.7,8; 1 Pier. 1.13-19). Lorsque notre Seigneur dit dans sa prière sacerdotale: *“Sanctifie-les par ta vérité; ta parole est la vérité”* (Jean 17.17), Il pense aussi à cette parole que nous considérons ici, laquelle nous a été donnée pour nous conduire sur le chemin pendant notre vie terrestre.
 
-## LE MARIAGE
+## Le mariage
 
 Dieu a voulu pour l’homme un mariage harmonieux. Si cependant nous voulons que l’harmonie règne dans la vie conjugale, il faut que déjà avant le mariage les conditions bibliques soient remplies. C’est aux jeunes hommes non mariés que l’apôtre Paul écrit les directives qu’il donne “de la part de Dieu”: *“Car c’est ici la volonté de Dieu, votre sainteté, que vous vous absteniez de la fornication, que chacun de vous sache posséder son propre vase en sainteté et en honneur, non dans la passion de la convoitise comme font les nations aussi qui ne connaissent pas Dieu; que personne ne circonvienne son frère ni ne lui fasse tort dans l’affaire, parce que le Seigneur est le vengeur de toutes ces choses, comme aussi nous vous l’avons dit précédemment et affirmé, Car Dieu ne nous a pas appelé à l’impureté, mais dans la sainteté. C’est pourquoi celui qui méprise, ne méprise pas l’homme, mais Dieu, qui vous a aussi donné son Esprit Saint”* (1 Thess. 4.3-8).
 
@@ -330,7 +330,7 @@ De plus, l’apôtre écrit au sujet de ceux qui prennent une responsabilité pa
 
 Aux femmes dont le mari n’est pas encore sur le bon chemin, l’apôtre Pierre donne le meilleur des conseils que l’on puisse trouver: *“Pareillement, vous, femmes, soyez soumises à vos propres maris, afin que, si même il y en a qui n’obéissent pas à la parole, ils soient gagnés sans la parole, par la conduite de leurs femmes, ayant observé la pureté de votre conduite dans la crainte”* (1 Pier. 3.1,2).Donc ce n’est pas par des disputes, des reproches, des réprimandes que se fait l’oeuvre, mais bien, comme les Saintes Ecritures le disent dans notre texte, par leur conduite dans la vie pratique.
 
-## DIVORCE — OUI OU NON?
+## Divorce — oui ou non?
 
 L’apôtre Paul a aussi considéré le cas où un conjoint est incrédule et éventuellement se sépare. *“Mais si l’incrédule s’en va, qu’il s’en aille; **le frère ou la soeur ne sont pas asservis en pareil cas**; mais Dieu nous a appelés à marcher dans la paix”* (1 Cor. 7.12-16). Dans ce cas, il ne s’agit point d’être pour la vie entière “asservi”, ni pour un frère, ni pour une soeur. Dans la vie d’un homme il arrive qu’une fausse décision soit prise, également chez les croyants, et ceci peut arriver lors de la conclusion d’un mariage. Lorsque c’est le cas, ceux qui souffrent déjà de cette situation doivent-ils être traités comme des lépreux? Ils ont déjà un fardeau qu’ils doivent souvent porter toute leur vie. Toutefois, si le conjoint incrédule se sépare, le croyant est libre, qu’il soit homme ou femme. Il n’est pas écrit dans la Bible **“… jusqu'à ce que la mort vous sépare”.** Mais il est bien écrit: *“**Ce donc que Dieu a uni, que l’homme ne le sépare pas**”* (Mat. 19.6). Il y a réellement des mariages qui n’ont visiblement pas été unis par Dieu. C’est pourquoi l’accent est mis sur: *“Ce donc que Dieu a uni”*, car ce que Dieu fait est bien fait pour toujours!
 
@@ -364,7 +364,7 @@ Frère Branham reconnaît que dans cette affaire si compliquée il fallait une r
 
 Celui qui prétend avoir déjà toujours tout connu et compris correctement, ne connaît pas encore tout correctement; et il est loin de tout avoir compris. Parmi les croyants du “Message du temps de la fin” également, se trouve encore du levain qui a “l’apparence d’être saint”, comme aussi on y trouve des pratiques de traditions d’églises.
 
-## UN EXEMPLE BIBLIQUE EN TANT QU’EXHORTATION
+## Un exemple biblique en tant qu’exhortation
 
 L’apôtre écrit sous l’inspiration de l’Esprit: *“Mais comme l’assemblée est soumise au Christ, ainsi que les femmes le soient aussi à leurs maris en toutes choses“* (Eph. 5.24). Il n’y a pas davantage d’exception pour l’Eglise que pour la femme. Il y a tout au plus des prétextes, mais avec cela on se trompe soi-même et peut-être encore les autres. Dieu, Lui, s’en tient à Ses commandements et à Ses décisions. Frère Branham ajoute encore pour nous une comparaison, cherchée bien en arrière dans le temps, qui fait ressortir l’obéissance ordonnée a la femme:
 
@@ -386,7 +386,7 @@ L’apôtre mentionne quel devoir les personnes âgées ont en rapport avec “l
 
 L’homme devrait être le chef de la femme et de la famille, non pas le tyran de la maison, lequel n’a même pas le contrôle sur lui-même, mais qui voudrait soumettre par force sa famille à subir son contrôle. L’ordre divin ne peut être établi que là ou réellement chacun occupe sa place conformément à la Parole de Dieu, et dans l’amour divin. Alors, on s’épargne toutes les exigences mutuelles parce que chacun contribue à sa part du bien-être.
 
-## LE CHEMIN JUSTE
+## Le chemin juste
 
 **Citation**: «Revenons à ce sujet du mariage et du divorce. Vous voyez, il faut que cela soit révélé. Tant que ce n’est pas révélé, vous ne le savez pas. Mais il a promis que dans ces derniers jours, dans cet âge-ci, chaque mystère caché de la Bible serait révélé. Combien savent cela?… Jésus a promis que tous ces mystères cachés, mariage et divorce, et tous les autres mystères qui avaient été cachés, seraient révélés au temps de la fin. Vous vous rappelez cette Voix qui m’avait dit: ‹Va à Tucson›. Vous vous rappelez cette lumière mystique dans les cieux et les sept anges qui s’y tenaient. Après, je suis revenu pour l’ouverture des sept Sceaux» (p. 36,37, § 222,223).
 
@@ -410,7 +410,7 @@ Seul celui qui se laisse ici placer sous le jugement de la Parole, qui se laisse
 
 Peut-on agir en connaissance de cause contre la Parole de Dieu et se comporter comme étant tout particulièrement spirituel, en pensant appartenir à l’Eglise-Epouse? Non, et encore une fois non, cela ne marche pas auprès de Dieu! Nous avons à croire, à agir et à marcher comme le dit l’Ecriture. Le Seigneur amène Son Eglise à l’achèvement, Laquelle, à la fin comme au commencement, ne sera qu’un coeur et qu’une âme. Il unit Son Corps, qui est composé de beaucoup de membres, sous Lui-même qui en est la Tête. Frère Branham relève maintes fois que les choses concernant mariage et divorce ont besoin d’être révélées à chacun. Avec cela il ne pense pas à une révélation “particulière”, mais bien à celle qui est donnée par Dieu Lui-même après avoir lu l’exposé de tous les passages bibliques.
 
-## LES SERVITEURS DE DIEU
+## Les serviteurs de Dieu
 
 Si nous considérons les serviteurs de Dieu, il est à remarquer qu’Il n’a demandé à aucun d’eux quel était son état-civil. Il prit celui qu’Il voulait, qu’il soit marié ou célibataire. Les circonstances de la vie de Ses envoyés sont aussi diverses que la vie elle-même. Nous le voyons également par la vie des hommes dans l’histoire de l’Eglise sur laquelle tant de choses nous ont été relatées; par exemple John Wesley épousa une veuve avec quatre enfants et souffrit terriblement durant son mariage. Mais aucun d’eux n’a agi contre nature, ayant été homosexuel ou ayant pratiqué la fornication.
 
@@ -444,7 +444,7 @@ Dans le Nouveau Testament, nous trouvons une image tout à fait diverse des homm
 
 De la vie personnelle de Pierre il est seulement mentionné que sa belle-mère avait une forte fièvre et qu’elle fut guérie par le Seigneur. Sur la plupart des apôtres nous n’avons pas davantage de détails. Cependant Paul, semble-t-il, libère son coeur lorsqu’il dit: *“Ne suis-je pas libre? Ne suis-je pas apôtre? N’ai-je pas vu Jésus notre Seigneur? N’êtes vous pas, vous, mon ouvrage dans le Seigneur? …N’avons-nous pas le droit de mener avec nous une soeur comme femme, comme font aussi les autres apôtres, et les frères du Seigneur, et Céphas? N’y a-t-il que moi et Barnabas qui n’ayons pas le droit de ne pas travailler?”* (1 Cor. 9.1,5,6). Les frères du Seigneur, Jacques et Jude étaient donc mariés. Paul mentionne Jacques comme frère du Seigneur dans Galates 1.19, et Jude mentionne son frère Jacques dans le premier verset de son épître.
 
-## RETOUR A LA PAROLE — RETOUR A DIEU
+## Retour à la Parole — retour à Dieu
 
 Dans l’Ancien Testament Dieu avait élu un peuple naturel, auquel Il avait promis et donné un pays naturel. Dans le Nouveau Testament Son Royaume n’est pas de ce monde. C’est le Royaume de Dieu; cependant aussi longtemps que nous sommes sur la terre, les ordonnances de Dieu pour la vie terrestre sont également valables pour nous. Maintenant nous ne pouvons plus nous demander les uns aux autres: «Que dis-tu de cela? Comment vois-tu la chose?». Maintenant commence le jugement dans la maison de Dieu par l’administration divine de la justice. C’est pour cela que notre question devrait toujours être: «Comment Dieu voit-Il la chose? Que dit-Il à ce sujet?».
 
@@ -468,7 +468,7 @@ Cela seulement prouve à chacun de ceux qui peuvent discerner justement les chos
 
 Je demande que tous sondent les Saintes Ecritures, qu’ils lisent et relisent sincèrement, honnêtement et ouvertement aussi la prédication dans laquelle frère Branham dut exposer ce qui lui avait été révélé. Il est important, oui, même urgent de le faire, parce que le Seigneur Lui-même en a donné les éclaircissements du haut de la nuée. A la fin de sa prédication sur mariage et divorce l’homme de Dieu pouvait dire avec certitude: «Je vous ai dit la vérité, le AINSI DIT LE SEIGNEUR d’un bout à l’autre» (p. 43, § 274).
 
-## LES SIENS ECOUTENT SA PAROLE
+## Les siens écoutent sa Parole
 
 Avec les nombreuses et vieilles traditions l’ennemi se moque encore maintenant de beaucoup de personnes. Ce qu’il a fait dans “les temps d’ignorance” ne lui suffit toujours pas, il continue de le faire d’une manière éhontée également après que la révélation directe ait été donnée. Or jamais auparavant on n’a connu avec autant de détails ce qui s’est réellement passé dans le jardin d’Eden, c’est-à-dire comment l’ennemi a fait pénétrer sa semence dans la race humaine, et comment il a ainsi amené toute chose sous son influence et son pouvoir. C’est à cause de cela que Dieu a dû établir l’inimitié entre les deux semences (Gen. 3.15). Lucifer, qui était déjà dans le jardin d’Eden avant sa chute (Ezé. 28.13-15), ne voudrait pas être mis à nu: il veut empêcher que sa révolte, sa chute du ciel (Esa. 14), le péché originel opéré par son oeuvre trompeuse et illusoire en Eden (Gen. 3) et que son trafic soient dévoilé. Frère Branham voulait encore tenir une prédication sur la trace du serpent et il dit: «La Bête était au commencement, et la Bête se trouve à la fin». Malheureusement il n’en eut plus le temps. Cependant les pensées de Satan nous sont bien connues, comme l’écrit Paul dans 2 Corinthiens 2.11.
 
@@ -482,7 +482,7 @@ Celui qui est de Dieu écoute la Parole de Dieu, il se laisse interpeller par la
 
 Cette fois encore la Parole accomplira en tous ce pourquoi Elle a été envoyée. Par le “en tous” il est pensé à ceux qui sont nés de la Semence-Parole pour une espérance vivante. Celui qui n’est pas de la Semence-Parole ne peut pas être de l’Epouse-Parole, et il n’a aucune relation divine, ni aucun rapport avec la Parole divine. Il faut être de la même espèce, de la même parenté, et celle-ci existe seulement en ceux qui sont nés de Dieu.
 
-## CONCLUSION
+## Conclusion
 
 Je ne fais pas partie de ceux qui glorifient frère Branham — et je ne le fais pas davantage envers Pierre et Paul, mais j’accepte volontiers et respecte les décisions de Dieu, auquel seul est dû tout honneur par Jésus-Christ notre Seigneur. Dieu m’a jugé digne de reconnaître le temps et l’heure de Sa Visitation de grâce dans notre génération, ainsi que d’accepter avec reconnaissance aussi bien le Message que le messager, comme Il le dit dans Jean 13.20: *“En vérité, en vérité, je vous dis: Celui qui reçoit quelqu’un que j’envoie, me reçoit; et celui qui me reçoit, reçoit celui qui m’a envoyé”.* Par ce ministère unique et extraordinaire de frère Branham, des millions de personnes de cette génération peuvent témoigner qu’il s’agit directement d’une mission divine. Aucun des autres évangélistes connus aujourd’hui du monde entier ne peut témoigner du jour et de l’heure de son appel divin; pour eux il peut être seulement parlé d’un ministère, mais non pas d’une mission reliée au plan du salut de Dieu.
 

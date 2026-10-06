@@ -364,7 +364,7 @@ Imposez-vous les mains les uns aux autres, et priez la prière de la foi, et qua
 
 ---
 
-# LE REPAS DU SEIGNEUR
+# Le repas du Seigneur
 
 ## *(Communion)*
 

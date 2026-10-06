@@ -191,9 +191,9 @@ local_pdf: "https://files.mevar.org/cmpp/undated/impact.pdf"
 html_url: "http://www.cmpp.ch/impact.htm"
 title_page: ["Titre original de l’ouvrage:","Wirkung der Offenbarung","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand.","Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
-# L’IMPACT DE LA REVELATION
+# L’impact de la révélation
 
-## INTRODUCTION
+## Introduction
 
 Nous considérons comme un grand privilège de vous faire connaître, cher ami, les oeuvres puissantes de Dieu se rapportant à Son plan de salut qui s’étend jusqu’à nos jours. C’est en parcourant les nombreux pays autour de notre globe que j’ai vu la nécessité de faire paraître cette brochure. En faisant cela, le seul but que nous visons est d’exalter et de magnifier le Nom du Seigneur, et de recevoir la Parole de Dieu telle qu’Elle s’exprime Elle-même. Prophètes et apôtres n’y sont mentionnés que pour mieux montrer comment l’action divine agit au travers de leurs ministères, tels que nous les trouvons décrits dans l’Ancien et le Nouveau Testament.
 
@@ -203,7 +203,7 @@ Ce passage des Ecritures: *“Eprouvez toutes choses…”* s’applique aussi �
 
 Cela mérite d’être considéré et médité dans un esprit de prière. Nous désirons relever et décrire les oeuvres et les actions de Dieu jusqu’à notre époque, dans l’intention d’aider chacun à recevoir une compréhension plus profonde des choses que Dieu a destinées à leur croissance spirituelle. *“Cieux, écoutez! terre, prête l’oreille! Car l’Eternel parle!”* (Esa. 1.2).
 
-## DIEU ACHEVE SON OEUVRE
+## Dieu achève son œuvre
 
 *“Dieu acheva au septième jour son oeuvre, qu’il avait faite; et il se reposa au septième jour de toute son oeuvre, qu’il avait faite”* (Gen. 2.2).
 
@@ -239,7 +239,7 @@ Jean était un homme envoyé de Dieu avec le message pour ce temps-là. *“Il v
 
 Le 11 juin 1933, frère Branham tenait un service de baptême dans la rivière Ohio. Au moment de baptiser la dix-septième personne, une lumière surnaturelle traversa les nuages et descendit sur lui, et une voix prononça ces paroles: **«Comme Jean-Baptiste a été envoyé comme précurseur à la première venue de Christ, tu es envoyé avec un message comme précurseur de la seconde venue de Christ!»** Une foule d’environ 4 000 personnes fut saisie d’étonnement. Les uns s’évanouissaient, les autres se mirent à prier, et quelques-uns, voyant cette manifestation du ciel, demandèrent: «Qu’est-ce que cela?». Dieu a parlé — les élus sont sous l’impact de ce ministère de restauration confirmé par Dieu. Ils saisissent alors la signification des paroles de Jésus: *“Si vous demeurez en moi, et que mes paroles demeurent en vous, demandez ce que vous voudrez, et cela vous sera accordé”* (Jean 15.7). Cette parole de Luc 24.45 devient une réalité pour eux: *“Alors, il leur ouvrit l’esprit, afin qu’ils comprissent les Ecritures”.* Toute Parole de Dieu est l’absolue vérité inspirée par le Saint-Esprit, et elle apporte la vie. Toute interprétation particulière de la Parole est mensonge; elle sépare de Dieu et nous jette dans la mort spirituelle. *“Il est écrit: L’homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu”* (Mat. 4.4).
 
-## LA VOIX DE DIEU “AUJOURD’HUI”
+## La voix de Dieu “aujourd’hui”
 
 *“En ce moment même, Jésus tressaillit de joie par le Saint-Esprit, et il dit: Je te loue, Père, Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents, et de ce que tu les as révélées aux enfants. Oui, Père, je te loue de ce que tu l’as voulu ainsi”* (Luc 10.21).
 
@@ -255,7 +255,7 @@ A chaque réveil, c’est la minorité spirituelle qui embrasse et entretient la
 
 Au tournant du siècle, le Saint-Esprit a été répandu sur le reste des croyants. Les croyants charnels qui ne suivaient pas le mouvement de l’Esprit affirmèrent que les dons de l’Esprit et leurs manifestations n’étaient pas de Dieu. Par conséquent, les feux de l’Esprit étaient à nouveau étouffés. De nouvelles dénominations furent organisées par les hommes qui se croyaient spirituels, ne réalisant pas qu’ils tombaient dans le même piège auquel ils venaient à peine d’échapper. Ainsi, ils se coupaient de la source de vie, de celle même dont jaillissent les bénédictions de Dieu. Le résultat de cela, c’est qu’ils sont en opposition aux promesses de la Parole de Dieu pour notre **“aujourd'hui”**. Jésus dit: *“Mes brebis entendent ma voix; je les connais et elles me suivent”* (Jean 10.27).
 
-## LE MINISTERE D’UN PROPHETE
+## Le ministère d’un prophète
 
 Le Seigneur a toujours envoyé Ses prophètes et messagers pour ramener les gens à la Parole originale. *“L’Eternel, le Dieu de leurs pères, donna de bonne heure à ses envoyés la mission de les avertir, car il voulait épargner son peuple et sa propre demeure”* (2 Chr. 36.15).
 
@@ -303,13 +303,13 @@ Tous les vrais prophètes ne pouvaient dire “AINSI DIT LE SEIGNEUR!” qu’ap
 
 Les quatre cents n’étaient pas des prophètes de Dieu, mais des prophètes d’Israël. Parce qu’ils n’avaient pas prêté garde à la Parole du Seigneur annoncée par le prophète Elie, ils tombèrent par la fausse interprétation qui leur fut donnée par un esprit menteur: *“… l’Eternel a mis un esprit de mensonge dans la bouche de tes prophètes qui sont là”* (2 Chr. 18.19-22). Le Seigneur ne dit pas “de *mes* prophètes”, en parlant des quatre cents prêtres, mais “de *tes* prophètes”. Les vrais prophètes de Dieu ne peuvent être trompés par un “esprit de mensonge”, parce qu’ils sont complètement sous le contrôle de “l’Esprit de Vérité” — le Saint-Esprit. Souvenons-nous des avertissements donnés dans 2 Thessaloniciens 2.10-11: *“… ceux qui périssent, parce qu’ils n’ont pas reçu l’amour de la vérité pour être sauvés. Aussi Dieu leur envoie une puissance d’égarement, pour qu’ils croient au mensonge”.* Quiconque ne croit pas la vérité de la Parole de Dieu est livré à une puissance de tromperie qui lui fait croire au mensonge — c’est la fausse interprétation, telle qu’elle a son origine dans le Jardin d’Eden. “L’Esprit de Vérité” ne nous éloigne pas de la Parole de Dieu, mais nous conduit dans toute la vérité, et nous annoncera même les choses à venir, selon Jean 16.13. *“Quand le consolateur sera venu, l’Esprit de vérité, il vous conduira dans toute la vérité; car il ne parlera pas de lui-même, mais il dira tout ce qu’il aura entendu, et il vous annoncera les choses à venir”.*
 
-## LA PROMESSE POUR NOTRE TEMPS
+## La promesse pour notre temps
 
 *“Car, pour ce qui concerne toutes les promesses de Dieu, c’est en lui qu’est le oui; c’est pourquoi encore l’Amen par lui est prononcé par nous à la gloire de Dieu”* (2 Cor. 1.20). Pierre fut leur porte-parole au jour de la Pentecôte, après qu’ils eurent reçu la promesse. La multitude était dans l’étonnement et la surprise, et ils se disaient les uns aux autres: «Que cela signifie-t-il?». Pierre, poussé par le Saint-Esprit, leur donna la réponse scripturaire, selon Actes 2.16: *“Mais c’est ici ce qui a été dit par le prophète Joël…”.* L’apôtre se réfère fréquemment aux prophéties de l’Ancien Testament. Conduit par le Saint-Esprit, il prédit aussi ce qui aurait lieu avant le retour du Seigneur Jésus-Christ, *“… que le ciel doit recevoir jusqu’au temps du rétablissement de toutes choses, dont Dieu a parlé anciennement par la bouche de ses saints prophètes”* (Act. 3.21). Sur la base de cette prophétie, toutes choses doivent être rétablies selon la Bible et les véritables enseignements et coutumes de l’Eglise primitive, avant que Christ ne revienne.
 
 Le Seigneur Lui-même nous parle de cette restauration, et nous dit comment cela se produirait: *“Il est vrai qu’Elie doit revenir d’abord, et rétablir toute choses…”* (Mat. 17.11). Cette promesse a été donnée pour le temps où le ministère de Jean serait accompli et où il serait parti pour être glorifié! Notez que cette parole de Jésus coïncide avec ce qui est dit dans Malachie 4.5: *“Voici, je vous enverrai Elie, le prophète, avant que le jour de l’Eternel arrive”.* C’est là la promesse pour notre temps. *“… Je vous remplacerai les années…”* (Joël 2.25). Le message pour cette heure est le message d’une complète restauration.
 
-## L’ERE DU NOUVEAU TESTAMENT
+## L’ère du Nouveau Testament
 
 Beaucoup de Chrétiens négligent de lire l’Ancien Testament, ne réalisant pas qu’il trouve son accomplissement dans le Nouveau. Cent neuf (109) prédictions de l’Ancien Testament concernant le Christ s’accomplirent littéralement à Son premier avènement. Toute doctrine dans le Nouveau Testament est basée sur le “AINSI DIT LE SEIGNEUR” de la parole prophétique. Il est incompréhensible que les enseignants de la Bible et les conducteurs religieux de ce temps-là ne se soient pas rendu compte de l’accomplissement même de l’Ecriture qu’ils enseignaient aux autres. Ils croyaient et enseignaient selon leur propre interprétation, et s’attendaient à ce que Dieu les accomplissent en conséquence. Se pourrait-il que l’histoire se répète dans cette génération? On tient de grandes et impressionnantes conventions et on parle beaucoup du prochain retour du Seigneur Jésus-Christ, alors que la Parole révélée pour cette heure est rejetée.
 
@@ -333,7 +333,7 @@ Dans Matthieu 11.10, Jésus identifie Jean-Baptiste à Malachie 3.1, et non pas 
 
 Le témoignage du Seigneur Jésus, celui de l’ange, ceux de Jean-Baptiste et de Marc sont clairs et explicites. Cela nous montre avec quelle harmonie les écrivains et les orateurs du Nouveau Testament collaboraient avec ceux de l’Ancien. Parce qu’ils étaient conduits par le Saint-Esprit, ils reconnaissaient pleinement l’accomplissement des Ecritures.
 
-## LE CHANDELIER D’OR
+## Le chandelier d’or
 
 Le dernier livre de la Bible, de nature prophétique, contient des informations essentielles sur le cours entier de l’histoire de l’église, et nous donne une vue profonde du sens des prophéties, et de l’accomplissement de l’oeuvre de Dieu. Il s’ouvre par ces mots: *“Révélation de Jésus-Christ, que Dieu lui a donnée* (à Jean) *pour montrer à ses serviteurs les choses qui doivent arriver bientôt…”.*
 
@@ -353,7 +353,7 @@ Dans chacun des messages aux sept églises, la promesse n’est donnée qu’aux
 
 Les prophètes et les apôtres ont décrit le Seigneur selon Ses différents attributs, comme Créateur, Rédempteur, Agneau de Dieu, Fils de Dieu, Médiateur, Roi, etc., mais Son propre témoignage, celui qu’Il nous a donné de Lui-même et qui suffit pleinement à tout, le voici: *“Je suis l’alpha et l’oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout-Puissant”* (Apoc. 1.8). Le témoignage de Jésus est en plein accord avec la parole prophétique et est le témoignage pour tous les croyants.
 
-## LE LIVRE SCELLE
+## Le livre scellé
 
 Dans l’Ancien Testament, nous trouvons un passage concordant avec l’Apocalypse de Jean. Déjà en ce temps-là, le prophète Ezéchiel avait vu le livre mystérieux: *“Je regardai, et voici, une main était étendue vers moi, et elle tenait un livre en rouleau. Il le déploya devant moi, et il était écrit en dedans et en dehors; des lamentations, des plaintes et des gémissements y étaient écrits”* (Ezé. 2.9,10). Dans Apocalypse 5.1, Jean en témoigne également. *“Puis je vis dans la main droite de celui qui était assis sur le trône un livre écrit en dedans et en dehors, scellé de sept sceaux”.*
 
@@ -373,7 +373,7 @@ Le temps et l’espace nous manquent pour relater en détail les multiples expé
 
 Une fois, il vit apparaître trois arcs-en-ciel de derrière la montagne. Lorsqu’il enleva son chapeau, il sentit la présence de Dieu. Alors qu’il regardait ce magnifique spectacle, il vit ces trois arcs-en-ciel entrer l’un dans l’autre pour ne former plus qu’un seul mystérieux arc-en-ciel. Puis, à ce moment précis il entendit une voix dire: **«JEHOVAH de l’Ancien Testament est JESUS dans le Nouveau»**.
 
-## VISITATION DES ANGES
+## Visitation des anges
 
 Au début du Nouveau Testament, la naissance de Jean-Baptiste est annoncée par un ange (Luc 1.11). Dans le même chapitre, l’ange Gabriel annonce la naissance de Jésus-Christ. Au chapitre 2.9, l’ange apporte la bonne nouvelle aux bergers, et les armées célestes se joignent à lui pour chanter et louer Dieu. Tout le ciel participe à ce que Dieu fait sur la terre. Dieu a des messagers célestes et terrestres. *“Un ange du Seigneur, s’adressant à Philippe, lui dit: Lève-toi, et va du côté du midi…”* (Act. 8.26). Pierre a eu une expérience toute particulière. *“Et voici, un ange du Seigneur survint, et une lumière brilla dans la prison”* (Act. 12.7). De même, une expérience semblable est rapportée par Paul. *“Un ange du Dieu à qui j’appartiens et que je sers m’est apparu cette nuit…”* (Act. 27.23).
 
@@ -393,7 +393,7 @@ Cher ami, nous espérons que vous avez, vous aussi, reconnu votre **“aujourd�
 
 Pourrait-on dire des enfants de Dieu de notre temps: *“… et tout le reste du peuple entendirent la voix de l’Eternel, leur Dieu, et les paroles d’Aggée, le prophète, selon la mission que lui avait donnée l’Eternel, leur Dieu. Et le peuple fut saisi de crainte devant l’Eternel”?* (Aggée 1).
 
-## LA DIVINITE
+## La divinité
 
 Le mystère de Dieu dépasse toute compréhension et défie toute description. Parce que Dieu et Sa Parole ne peuvent être dissociés l’un de l’autre, nous devons nous en remettre entièrement à l’Ecriture qui parle pour elle-même; et nous gardons la confiance, qui permettra au Saint-Esprit de nous la révéler, bien qu’il n’y ait pas dans la Bible d’étude détaillée à ce sujet.
 
@@ -411,7 +411,7 @@ Quand les enfants de Dieu se détourneront-ils de cette chrétienté de belle ap
 
 Nous devons apprendre à ne dire que ce que l’Ecriture dit. Quoi que nous lisions sur le Créateur ou le Rédempteur, le Père qui est aux cieux, le Fils qui est sur la terre ou le Saint-Esprit demeurant en nous, c’est toujours le même Dieu en action, révélé dans Ses diverses manifestations.
 
-## LE BAPTEME SELON LES ECRITURES
+## Le baptême selon les Écritures
 
 Quand Jésus était sur le point de quitter ce monde, Il parla à Ses disciples et leur ordonna: *“Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit…”* (Mat. 28.19).
 
@@ -431,7 +431,7 @@ Beaucoup proclament croire, mais la question est de savoir ce qu’ils croient e
 
 Les élus de Dieu — l’Epouse-Parole — sont revenus à l’enseignement scripturaire et à la conduite du Saint-Esprit. Ils ont embrassé les doctrines des pères apostoliques et se sont détournés de toutes les interprétations particulières. Ils ont reconnu le message et le messager pour leur **“aujourd’hui”**.
 
-## MON TEMOIGNAGE
+## Mon témoignage
 
 C’est avec une profonde gratitude que je regarde en arrière au nombre de fois où j’ai eu le privilège d’assister aux rencontres ou aux conversations privées de frère Branham, le prophète de Dieu. Durant les années 1955 à 1965, j’ai pu faire une étude approfondie des messages qu’il a apportés de la Parole de Dieu. En 1955, frère Branham est venu en Europe. Des milliers de gens de toute l’Europe se rassemblèrent pour écouter cet homme de Dieu et ils témoignèrent que ces puissants miracles étaient pareils à ceux mentionnés dans le livre des Actes.
 

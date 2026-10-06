@@ -71,7 +71,7 @@ Sans aucun doute ces hommes, de même que ces mouvements religieux, ont souvent 
 
 Paul nous exhorte par ces paroles: *“Etes-vous tellement dépourvus de sens? Après avoir commencé par l’Esprit, voulez-vous maintenant finir par la chair?”* (Gal. 3.3). Tout ce qui est d’origine divine est spirituel; cependant, ce que les hommes commencent à produire d’eux-mêmes, c’est cela qui est charnel. L’un exclut l’autre, car l’un est issu de Dieu, et l’autre de l’homme. L’un apporte la vie, et l’autre, la mort. Car: *“… l’affection de la chair, c’est la mort, tandis que l’affection de l’esprit, c’est la vie et la paix”* (Rom. 8.6). Nous devons reconnaître que, devant Dieu, ne subsistera que ce qui a été conçu par Lui-même par le moyen de Son Esprit et en accord avec Sa Parole. *“Mon Père agit jusqu’à présent; moi aussi, j’agis”* (Jean 5.17). C’est ce que dit Jésus, et dans Philippiens 2.5 il nous est fait cette exhortation: *“Ayez en vous les sentiments qui étaient en Jésus-Christ…”*. Celui qui porte en lui ces sentiments divins est toujours en accord avec l’action de Dieu. 1 Corinthiens 2.14 dit: *“Mais l’homme animal ne reçoit pas les choses de l’Esprit de Dieu…”*. Chacun peut s’éprouver soi-même, et savoir s’il reçoit avec joie la Parole révélée par l’Esprit de Dieu, ou s’il Lui résiste. S’il y a en nous une résistance à l’égard de la Parole de Dieu, c’est que nous avons encore des sentiments charnels, et que nous ne comprenons pas les choses de l’Esprit. Si au contraire nous avons des sentiments spirituels, alors nous ressentirons une joie profonde et un désir sincère de recevoir la nourriture spirituelle.
 
-## QU’EST-CE QUE LA DIRECTION DE L’ESPRIT?
+## Qu’est-ce que la direction de l’Esprit?
 
 *“Car tous ceux qui sont conduits par l’Esprit de Dieu sont fils de Dieu”* (Rom. 8.14). Dans la pratique, la direction de l’Esprit signifie que l’on reconnaît ce qui aux yeux de Dieu est juste, qu’on le met en pratique, et qu’on l’exprime au moment propice. Nous trouvons un exemple frappant de cela dans Luc 2.25-32. Siméon avait reçu la révélation de la promesse de la Parole pour son temps, et il fut conduit au temps propice par le Saint-Esprit dans le Temple: c’est là qu’il vit de ses propres yeux l’accomplissement de la Parole. Sous l’inspiration de l’Esprit, il prononça cette merveilleuse prophétie à l’égard de Jésus.
 
@@ -83,7 +83,7 @@ Les vrais hommes de Dieu ne parlent pas d’eux-mêmes, et leur témoignage ne s
 
 *“… tous ceux qui sont conduits par l’Esprit de Dieu sont fils de Dieu”*. Aussi bien dans l’Ancien que dans le Nouveau Testament, nous avons suffisamment d’exemples d’hommes qui furent inspirés et conduits par l’Esprit de Dieu. Jésus-Christ, notre Seigneur, nous indique quelle est la marque évidente de l’action du Saint-Esprit: *“… il convaincra le monde en ce qui concerne le péché, la justice, et le jugement … il vous conduira dans toute la vérité… il dira tout ce qu’il aura entendu, et il vous annoncera les choses à venir. Il me glorifiera, parce qu’il prendra de ce qui est à moi, et qu’il vous l’annoncera”* (Jean 16.8-14). C’est tout cela que le Saint-Esprit manifeste dans la vie d’un homme qui vient à Christ et reçoit Sa grâce. Il commence par le conduire à la confession de ses péchés, à la repentance, à la réparation de ses fautes, à la conversion et à la nouvelle naissance, à la purification et à la sanctification, puis, pour finir, Il le remplit du Saint-Esprit. Là où cette action et cette marque évidente manquent, c’est que quelque chose n’est pas en ordre.
 
-## MOUVEMENT CHARISMATIQUE
+## Mouvement charismatique
 
 C’est par cette expression que l’on désigne aujourd’hui l’action de l’Esprit dans différents milieux chrétiens et églises diverses. On entend dire que, dans toutes les églises protestantes, l’action du Saint-Esprit se fait sentir à nouveau, et l’on peut lire des expressions telles que “Mouvement de Pentecôte Catholique”. Ceux qui peuvent lire les journaux religieux étrangers savent fort bien ce qui en est. Nous ne voulons pas prononcer ici de jugement à cet égard, mais seulement vous informer de quoi il s’agit réellement. On entend dire, et on lit également, que des personnes, dans de nombreuses parties du monde, font une expérience de Pentecôte; c’est-à-dire qu’elles parlent en langues, sans pour autant se détourner de toutes les doctrines non bibliques, et sans respecter les conditions scripturaires.
 
@@ -101,7 +101,7 @@ Le chemin des véritables Chrétiens ne les conduit pas à Rome, mais au contrai
 
 Je sais que ce n’est pas “bien vu” que d’écrire de cette manière, cependant, il importe que le Seigneur Lui-même fasse entendre cette parole: *“Sortez du milieu d’elle, mon peuple, afin que vous ne participiez point à ses péchés, et que vous n’ayez point de part à ses fléaux”* (Apoc. 18.4). Cet appel n’est pas adressé à tous, car le Seigneur dit textuellement: *“… mon peuple…”*. Celui qui est Sa propriété suivra Son appel, c’est certain, car le Seigneur l’a dit.
 
-## EVENEMENTS DE CE TEMPS
+## Événements de ce temps
 
 Dans notre temps, l’on est souvent assailli par la tromperie, et celui qui ne fait pas attention est facilement trompé. Souvent, des personnes avec de bons sentiments deviennent la proie de pieux séducteurs — et eux-mêmes en séduisent d’autres. Il y a des mouvements qui dominent leurs adeptes par de faux-semblants religieux, et c’est avec un don de soi fanatique qu’ils soutiennent leur manière de voir. La tragédie de l’Indien Lawrie n’est qu’un cas parmi beaucoup d’autres — ceux-là font preuve de tant d’habileté qu’ils ne se laissent pas facilement découvrir. Il vaut toujours mieux d’abord enlever la poutre qui se trouve dans son oeil, avant de pouvoir retirer la paille qui se trouve dans l’oeil de son frère. Il y a toujours eu des “Judas” qui ont tout d’abord marché avec Jésus et qui, même avaient été appelés par Lui et utilisés pour un ministère. Puis, le jour vint où Satan entra en eux — et c’en fut fait d’eux.
 
@@ -132,7 +132,7 @@ Que le Seigneur bénisse tous ceux qui ont reconnu leur “aujourd’hui”, et 
 Agissant de la part de Dieu.  
 *Br. Frank*
 
-## COMMUNIQUE
+## Communiqué
 
 Chers amis lecteurs,  
 Chers frères et soeurs en Jésus-Christ,

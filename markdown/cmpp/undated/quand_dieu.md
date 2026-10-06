@@ -93,7 +93,7 @@ local_pdf: "https://files.mevar.org/cmpp/undated/quand_dieu.pdf"
 html_url: "http://www.cmpp.ch/quand_dieu_devint_un_homme.htm"
 title_page: ["QUAND DIEU DEVINT UN HOMME"]
 ---
-## INTRODUCTION
+## Introduction
 
 Mystère des mystères.
 
@@ -142,7 +142,7 @@ L’origine de Celui qui est né à Bethléhem remonte aux jours de l’éternit
 Jésus était avant Abraham: *“Jésus leur dit: En vérité, en vérité, Je vous le dis, avant qu’Abraham fût, Je suis”* (Jean 8.56-58).  
 Thomas reconnut que Jésus était Dieu (Jean 20.28).
 
-## QUAND COMMENÇA LA FILIALITE?
+## Quand commença la filialité?
 
 Jésus était-Il un Fils dans l’éternité avec Dieu, avant Sa naissance à Bethléhem?  
 S’il en est ainsi, quand devint-Il Fils?  
@@ -157,7 +157,7 @@ Dans l’éternité, Dieu était un Esprit invisible, sans chair ni os, qui seul
 
 C’est Lui le seul Seigneur Dieu et l’unique Sauveur qui vint sur la terre sous la forme d’un homme pour devenir le salut de l’homme. Son Nom était **Jésus**, ce qui signifie “Dieu Sauveur”. C’est alors que commença la filialité: quand Dieu devint un homme, l’enfant de Bethléhem, l’Agneau du sacrifice pour le péché. Ce fut Dieu incarné qui mourut pour les péchés du monde (Act. 20.28). Il n’y avait pas de Fils avant la naissance de Jésus à Bethléhem, bien que Celui qui devint Fils existât de toute éternité en tant qu’Esprit invisible.
 
-## JESUS ETAIT A LA FOIS DIEU ET HOMME
+## Jésus était à la fois Dieu et homme
 
 Jésus était un homme, un homme parfait. En tant qu’homme, Il dormait, mangeait et éprouvait de la fatigue. Mais tout dans Ses oeuvres puissantes prouve qu’Il était plus qu’un homme. Qui d’autre que Lui aurait pu ressusciter des morts, marcher sur les eaux, ouvrir les yeux des aveugles, multiplier des pains et des poissons, etc.?
 
@@ -171,7 +171,7 @@ Par conséquent, quand Dieu dit: *“Faisons l’homme à notre image…”* (et
 
 Les enfants d’lsraël n’avaient jamais vu leur Dieu. Il était toujours invisible pour eux. Mais quand Jésus vint, le Dieu invisible fut rendu visible. En même temps que Dieu Se manifestait en chair sur la terre, Il demeurait Esprit au ciel. C’est pour cette raison que Jésus pouvait parler du “Père qui vit en Moi”, et également du “Père qui est aux cieux”.
 
-## MAIN DROITE
+## Main droite
 
 “Jésus à la droite de Dieu” ne signifie pas que Dieu et Jésus sont deux personnes assises l’une à côté de l’autre sur un trône dans le Ciel, tous deux restant là pendant des siècles. C’est une idée de Dieu ridicule et antiscripturaire. Une fois, un prédicateur a dit que Jésus S’était tenu là une seule fois depuis Son ascension au Ciel: ce fut lorsqu’Il accueillit Etienne, car celui-ci L’a vu “debout” à la droite de Dieu.
 
@@ -183,11 +183,11 @@ L’Eternel Se tient à la droite du pauvre (Ps. 109.31).
 Il dirigea la droite de Moïse (Esa. 63.12).  
 Quand Il est à ma droite, je ne chancelle pas (Ps. 16.8), et bien d’autres passages.
 
-## LE SAINT-ESPRIT
+## Le Saint-Esprit
 
 Le Saint-Esprit n’est pas une troisième personne, distincte et séparée du Père et du Fils. Le Saint-Esprit est Dieu. Dans Jean 4.24, nous lisons: *“Dieu est **Esprit**”.* Et Dieu est **Saint**. Par conséquent, Dieu est le **Saint-Esprit**. Pour prouver que le Saint-Esprit est Dieu, il n’est pas besoin d’autre preuve que la parole des Ecritures qui nous dit que le Saint-Esprit est le Père de Jésus (Mat. 1.18,20). Rappelons-nous que Jésus est Dieu incarné.
 
-## JESUS EST LE SAINT-ESPRIT
+## Jésus est le Saint-Esprit
 
 Un jour, Jésus rassembla Ses disciples et leur dit qu’Il allait bientôt S’en aller, mais qu’Il leur enverrait un autre Consolateur, qui resterait toujours avec eux.
 
@@ -195,7 +195,7 @@ Qui donc est cet autre Consolateur? Quel est Son Nom? Est-ce quelqu’un d’aut
 
 Jésus n’a pas laissé Ses disciples dans les ténèbres. Il leur a dit clairement qui est l’autre Consolateur. Il a dit: *“Je ne vous laisserai pas orphelins, Je viendrai à vous”* (Jean 14.18). Il leur a dit de plus que l’autre Consolateur était Celui qui habitait avec eux, et qu’Il serait en eux quand Il reviendrait. Il était **avec** eux dans la chair et monta au Ciel avec Son corps, mais Il revint en Esprit le jour de Pentecôte pour être **en** eux. De sorte que nous pouvons chanter avec raison: *“Quand Jésus entra dans mon coeur…”*. Par conséquent, le Nom du Consolateur (qui est le Saint-Esprit), est **Jésus** (Jean 14.26). Il n’y a pas d’autre nom.
 
-## LA THEORIE DE LA TRINITE
+## La théorie de la trinité
 
 A travers les siècles d’obscurantisme et de traditions humaines, la grandeur, la gloire et la majesté du Seigneur Jésus-Christ avaient été voilées. Celui qui avait dit: *“Je suis le Premier et le Dernier”* avait été relégué à la seconde place.
 
@@ -217,7 +217,7 @@ Ils Lui demandaient constamment: “Qui es-tu? Que te fais-tu toi-même? Quelle 
 
 Et aujourd’hui encore, le monde est dans l’embarras. Ce n’est pas étonnant parce qu’Il est grand et merveilleux. Le Nom de Jésus surpasse tout autre nom. Aucune langue humaine a-t-elle jamais pu en proclamer la valeur?
 
-## L’ANTICHRIST
+## L’antichrist
 
 Le Malin a fait de son mieux pour dissimuler l’identité de Jésus-Christ, pour Le cacher aux yeux du monde, et il y réussira si bien qu’à la fin de cet âge, le monde entier rejettera Jésus-Christ et adorera l’Antichrist comme s’il était Dieu (tous, sauf ceux dont le nom est inscrit dans le Livre de Vie de l’Agneau).
 

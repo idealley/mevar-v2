@@ -89,7 +89,7 @@ Nom invoqué: Jésus-Christ (Actes 2.38), comme le firent tous les disciples
 de Jésus-Christ, c’est-à-dire les vrais Chrétiens, décrits dans le Nouveau Testament.  
 Pratique: immersion complète, une fois.
 
-## LE BAPTEME? UNE QUESTION IMPORTANTE!
+## Le baptême? Une question importante!
 
 Pourquoi être baptisé selon la doctrine des apôtres? Pendant des siècles, cette très ancienne question s’est imposée aux conducteurs spirituels. Les apôtres ont-ils délibérément enfreint l’ordre de Jésus-Christ quand Il leur ordonna d’aller par tout le monde et de faire des disciples en les baptisant au **Nom** du Père, du Fils et du Saint-Esprit? Ont-ils inauguré quelque chose sans base scripturaire lorsqu’ils instruisaient les nouveaux convertis et leur commandèrent de se repentir et d’être baptisés au Nom de Jésus-Christ pour la rémission de leurs péchés? Si les apôtres n’ont pas obéi à l’ordre de Jésus, alors qui Lui a obéi, et quand? Telle est la grave et sérieuse question que chacun doit se poser, et cela, non pas comme Ponce Pilate qui se trouva une fois en face d’une grave décision concernant Jésus (la Parole faite chair, Jean 1.14), et qui demanda une bassine d’eau, pensant ainsi se laver de sa culpabilité. Il ne pouvait pas effacer sa faute simplement en la lavant dans de l’eau. Vous non plus! Mais, pour être libéré du péché, on doit obéir à la Parole de Dieu telle qu’Elle Se présente. Cherchons avec soin une réponse.
 
@@ -151,7 +151,7 @@ D’après la *Nouvelle Encyclopédie de Collier* (Vol. 10, p. 3), le mot *«tri
 
 *Encyclopédie britannique* (Vol. 3, p. 365-366): le *«un en trois personnes»*, la formule trinitaire, ne fut pas uniformément utilisée au début; et jusqu’au IIIème siècle, le baptême au Nom de Christ était si largement pratiqué que le pape Etienne, en opposition avec St-Cyprien, le déclara valide. Mais les missionnaires Catholiques, en omettant une ou plusieurs personnes de la trinité lors du baptême, se virent excommuniés par l’église Catholique. Actuellement, la formule de Rome est: «Je te baptise au Nom du Père, du Fils et du Saint-Esprit».
 
-## LE BAPTEME DANS L’EAU
+## Le baptême dans l’eau
 
 Bureau d’information Washington D.C.  
 Les informations suivantes sont données comme preuves que l’histoire de l’Eglise, comme l’Ecriture, établit que le baptême dans l’eau au Nom de Jésus fut pratiqué pendant trois cents ans après Jésus-Christ, et fut changé par l’église Catholique romaine.

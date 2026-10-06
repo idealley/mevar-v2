@@ -262,7 +262,7 @@ preacher: "CMPP"
 
 > Ephésiens 4.1-4, 11-15.
 
-## INTRODUCTION
+## Introduction
 
 Nous vivons indéniablement dans un temps spirituellement merveilleux, le dernier temps prophétique, car les promesses faites pour ce temps de la fin s’accomplissent continuellement sous nos yeux. Nous avançons et arrivons proche de la fin de ce temps prophétique correspondant à la fin de notre période de l’âge de l’église, l’âge de Laodicée, ce dernier du temps de la fin qui se trouve être le point culminant des âges de l’église. Nous attendons fermement et patiemment la promesse de la pluie de l’arrière-saison, selon la promesse se trouvant dans Joël 2.23. Cette promesse précède le retour annoncé et promis de Jésus-Christ, (espérance vivante dans le coeur des croyants), dans les airs selon 1 Thessaloniciens 4.13-18, pour venir chercher, après nous avoir préparé une place, Son Epouse terrestre formée par Ses véritables disciples qui se sont préparés (Apoc. 19.7,8).
 
@@ -294,7 +294,7 @@ Dans la brochure *Avertissement, puis jugement* [Série 3 n° 7] frère Branham 
 
 Parmi les croyants ayant reçu ce Message divin au travers de ces différents ministères, il y a des frères qui n’ont pas sincèrement saisi l’importance et la très grande responsabilité d’un ministère pour le Corps de Christ, et particulièrement celui qui concerne le ministère de pasteur, de berger, de conducteur.
 
-## APPEL DIVIN
+## Appel divin
 
 Comme pour tous les autres ministères de l’Eglise de Jésus-Christ, il est premièrement nécessaire **d’avoir reçu personnellement un appel authentique du Maître**, poussé par le Saint-Esprit. Dans le cas contraire, c’est sûrement sous une différente inspiration que cela s’accomplira, c’est-à-dire sous le couvert d’un esprit charnel, d’un esprit religieux, même si c’est avec des bonnes intentions, loyales et sincères. Dieu est souverain, et il n’y a personne sur cette terre qui puisse Lui dire ce qu’Il doit faire, ni comment Il doit faire, et encore moins avec quelle personne Il doit le faire.
 
@@ -322,7 +322,7 @@ L’apôtre Paul dans 2 Corinthiens 11.26 nous dit: *“Fréquemment en voyage, 
 
 *“Par la vérité de Christ qui est en moi, je déclare que ce sujet de gloire ne me sera pas enlevé dans les contrées de l’Achaïe. Pourquoi?... **Parce que je ne vous aime pas?...** Dieu le sait! Mais j’agis et j’agirai de la sorte, pour ôter ce prétexte à ceux qui cherchent un prétexte, afin qu’ils soient trouvés tels que nous dans les choses dont ils se glorifient. **Ces hommes-là sont de faux apôtres, des ouvriers trompeurs, déguisés en apôtres de Christ.** Et cela n’est pas étonnant, **puisque Satan lui-même se déguise en ange de lumière. Il n’est donc pas étrange que ses ministres aussi se déguisent en ministres de justice**. Leur fin sera selon leurs oeuvres. Je le répète, que personne ne me regarde comme un insensé; sinon, recevez-moi comme un insensé, afin que moi aussi, je me glorifie un peu. Ce que je dis, avec l’assurance d’avoir sujet de me glorifier, je ne le dis pas selon le Seigneur, mais comme par folie. Puisqu’il en est plusieurs qui se glorifient selon la chair, je me glorifierai aussi”* (2 Cor. 11.10-18).
 
-## LA VOLONTE DE DIEU
+## La volonté de Dieu
 
 *“Voici, je viens* (Dans le rouleau du livre il est question de moi) ***pour faire, ô Dieu, ta volonté**”* (Héb. 10.7).
 
@@ -338,7 +338,7 @@ Dans la prédication *Rendre un service en dehors de la volonté de Dieu* [Séri
 
 N’oublions jamais ce qui est écrit dans 1 Jean 2.17: *“Et le monde passe, et sa convoitise aussi; **mais celui qui fait la volonté de Dieu demeure éternellement**”*.
 
-## AU SERVICE
+## Au service
 
 *“Car le Fils de l’homme est venu, **non pour être servi, mais pour servir** et donner sa vie comme la rançon de plusieurs”* (Marc 10.45; Mat.10.28).
 
@@ -362,7 +362,7 @@ Un serviteur se trouve aussi dans l’obligation d’éviter et de lutter contre
 
 Que nous ne puissions pas nous trouver, ou demeurer, sur cette mauvaise voie qui nous est indiquée dans Romains 1, et particulièrement le verset 25: *“… eux qui ont changé la vérité de Dieu en mensonge, et qui ont **adoré et servi** la créature **au lieu du Créateur**, qui est béni éternellement. Amen!”* (Rom. 1.25).
 
-## COMPASSIONS
+## Compassions
 
 *“Voyant la foule, **il fut ému de compassion** pour elle, parce qu’elle était languissante et abattue, **comme des brebis qui n’ont point de berger**”* (Mat. 9.36).
 
@@ -388,7 +388,7 @@ La manifestation de la compassion n’est pas seulement destinée aux ministère
 
 Nous avons encore cette parabole de Jésus montrant quelle attitude doit avoir un berger dans Jean 10.7-16: *“Jésus leur dit encore: En vérité, en vérité, je vous le dis, je suis la porte des brebis. Tous ceux qui sont venus avant moi sont des voleurs et des brigands; mais les brebis ne les ont point écoutés. Je suis la porte. Si quelqu’un entre par moi, il sera sauvé; il entrera et il sortira, et il trouvera des pâturages. Le voleur ne vient que pour dérober, égorger et détruire; **moi, je suis venu afin que les brebis aient la vie**, et qu’elles soient dans l’abondance. Je suis le bon berger. **Le bon berger donne sa vie pour ses brebis.** Mais le mercenaire, qui n’est pas le berger, et à qui n’appartiennent pas les brebis, voit venir le loup, abandonne les brebis, et prend la fuite; et le loup les ravit et les disperse. **Le mercenaire** s’enfuit, parce qu’il est mercenaire, **et qu’il ne se met point en peine des brebis**. Je suis le bon berger. Je connais mes brebis, et elles me connaissent, comme le Père me connaît et comme je connais le Père; et je donne ma vie pour mes brebis. J’ai encore d’autres brebis, qui ne sont pas de cette bergerie; celles-là, il faut que je les amène; elles entendront ma voix, et il y aura un seul troupeau, un seul berger”*.
 
-## MODELE
+## Modèle
 
 *“**Paissez le troupeau de Dieu** qui est sous votre garde, non par contrainte, mais volontairement, selon Dieu; non pour un gain sordide, mais avec dévouement; non comme dominant sur ceux qui vous sont échus en partage, **mais en étant les modèles du troupeau**”* (1 Pier. 5.2,3).
 
@@ -408,7 +408,7 @@ Le faux imitateur est un usurpateur, il copie systématiquement le modèle à la
 
 L’exhortation suivante devrait être pratiquée par tous les véritables croyants, et encore davantage en ce qui concerne les ministères de la Parole: *“**Devenez donc les imitateurs de Dieu**, comme des enfants bien-aimés; et marchez dans la charité, à l’exemple de Christ, qui nous a aimés, et qui s’est livré lui-même à Dieu pour nous comme une offrande et un sacrifice de bonne odeur”* (Eph.5.1,2).
 
-## PAIX
+## Paix
 
 *“Mais nous attendons, selon sa promesse, de nouveaux cieux et une nouvelle terre, où la justice habitera. C’est pourquoi, bien-aimés, **en attendant ces choses**, appliquez-vous à être trouvés par lui sans tache et irrépréhensibles **dans la paix**”* (2 Pier. 3.14).
 
@@ -466,7 +466,7 @@ Dieu selon Sa Parole, condamne les divers comportements qui ne recherchent pas l
 
 Beaucoup d’autres passages dans la Bible parlent de paix et de querelles, mais le passage du Psaume 120.6,7 résume assez bien ce que subit un serviteur: *“Assez longtemps mon âme a demeuré auprès de ceux qui haïssent la paix. **Je suis pour la paix**; mais dès que je parle, ils sont pour la guerre”*.
 
-## AMOUR
+## Amour
 
 *“Nous, nous sommes de Dieu; celui qui connaît Dieu nous écoute; celui qui n’est pas de Dieu ne nous écoute pas: c’est par là que nous connaissons l’esprit de la vérité et l’esprit de l’erreur. Bien-aimés, aimons-nous les uns les autres; **car l’amour est de Dieu**, et quiconque aime est né de Dieu et connaît Dieu. **Celui qui n’aime pas n’a pas connu Dieu, car Dieu est amour**”* (1 Jean 4.6-8).
 
@@ -546,7 +546,7 @@ L’Esprit au travers de l’homme de Dieu nous dit ceci dans une prédication:
 
 *“**Que la paix et la charité avec la foi soient données aux frères** de la part de Dieu le Père et du Seigneur Jésus-Christ!”* (Eph. 6.23).
 
-## JUGEMENT
+## Jugement
 
 *“Car c’est le moment où **le jugement va commencer par la maison de Die**u. Or, si c’est par nous qu’il commence, quelle sera la fin de ceux qui n’obéissent pas à l’Evangile de Dieu?”* (1 Pier. 4.17).
 
@@ -631,7 +631,7 @@ Ces paroles sont claires et explicites. Les brebis n’appartiennent pas à une 
 
 *“Sachez que l’Eternel est Dieu! C’est lui qui nous a faits, et nous lui appartenons; Nous sommes son peuple, et le troupeau de son pâturage”* (Ps. 100.3).
 
-## CONCLUSION
+## Conclusion
 
 Ces quelques paroles d’exhortations sont adressées aux disciples de Jésus-Christ pour l’édification du Corps de Jésus-Christ qui est formé par Ses rachetés. Il ne s’agit pas d’introduire une nouvelle interprétation, un ordre, un credo ou des règles, mais bien de présenter la vérité de la Parole de Dieu, par laquelle les croyants, les serviteurs, désirent agir sous l’inspiration du Saint-Esprit afin d’accomplir et demeurer dans Sa volonté.
 

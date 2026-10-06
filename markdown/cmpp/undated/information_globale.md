@@ -164,15 +164,15 @@ local_pdf: "https://files.mevar.org/cmpp/undated/information_globale.pdf"
 html_url: "http://www.cmpp.ch/information_globale.htm"
 title_page: ["Information globale","Eclaircissement","d’En-haut","du missionnaire","Ewald Frank","Titre original de l’ouvrage:","Global-Information","Aufklärung von oben","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 2005 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.","Editeur:","Centre Missionnaire de la Parole Parlée","Case Postale 5633","1002 Lausanne (Suisse)"]
 ---
-## INFORMATION GLOBALE
+## Information globale
 
-## ECLAIRCISSEMENT D’EN-HAUT
+## Éclaircissement d’en-haut
 
 *“D’éternité en éternité tu es Dieu”* (Ps. 90.2b).  
 *“Mais la parole de notre Dieu demeure éternellement”* (Es. 40.8).  
 ***“Et cette parole est celle qui vous a été annoncée par l’Evangile”*** (1 Pier. 1.25).
 
-## LE MONDE ENTIER REGARDE A ROME
+## Le monde entier regarde à Rome
 
 Le mois d’avril 2005 nous a donné directement l’un après l’autre deux événements significatifs survenus dans la capitale de ce monde, Rome. Le départ du pape Jean-Paul II, et l’arrivée de Benoît XVI, lequel est élu par 100 voix sur 115. Pas seulement la presse internationale, mais toutes les mass média, remplirent de leurs comptes-rendus leur programme entier du jour.
 
@@ -236,7 +236,7 @@ Pour cela, il rappelle que l’Europe doit penser à revenir à ses «racines ch
 
 Dans le livre «Introduction dans le Christianisme» du cardinal Joseph Ratzinger, l’actuel pape Benoît XVI donne d’une manière proéminente, sur 266 pages, un exposé complet du point de vue catholique. **Cependant, ce qui nous intéresse c’est d’être introduit dans le conseil du salut de Dieu, du point de vue divin.** Le mot ou la notion «Christianisme», ne se trouve en réalité pas une seule fois dans la Bible. Nous lisons seulement que ceux qui avaient cru en Christ, à Antioche, furent pour la première fois appelés Chrétiens (Actes 11.26). Le mot «Christ» signifie «l’Oint» et les croyants qui avaient été oints de l’Esprit étaient les baptisés de l’Esprit (Mat. 3.11; Actes chap. 2 et autres) — «les Chrétiens» — «les oints» (2 Cor. 1.21,22).
 
-## L’HISTOIRE SE POURSUIT
+## L’histoire se poursuit
 
 Maintenant, jetons un coup d’œil dans l’Histoire: Il y a 482 ans, le 19 novembre 1523, c’est pour la dernière fois qu’un Pape allemand avait été élu, Clément VII. C’était le temps de la Réforme: le 31 octobre 1517 le moine allemand Martin Luther avait cloué ses 95 thèses à l’église du château de Wittenberg. Celui qui se donne la peine de les lire avec attention, arrivera à la même conviction que beaucoup de commentateurs ont écrite, c’est que chaque fois il a tapé dans le mille. En 1518 Martin Luther avait refusé de se rétracter et en 1520 il avait publié ses principaux écrits réformateurs. Le 3 janvier 1521 il avait été excommunié par le Pape. En 1522 apparut le Nouveau Testament traduit par Martin Luther. En même temps le théologien Suisse, Huldrych Zwingli, en 1522, avait exposé et publié ses écrits réformateurs en tant que programme complet.
 
@@ -308,7 +308,7 @@ Il est dit des croyants de l’Eglise primitive: *“**Et ils persévéraient da
 
 La véritable Eglise célèbre encore aujourd’hui le souper du Seigneur, en ce qu’un pain correspondant aux participants est préparé. Pareillement, encore aujourd’hui l’Eglise célèbre ce souper avec une coupe, qui est bénie et à laquelle tous prennent part. C’est écrit ainsi et c’est valable pour toujours. Après Sa résurrection, notre Seigneur agit de la même manière qu’avant: *“… comme il était à table avec eux, il prit le pain et il bénit; et l’ayant rompu, il le leur distribua…”* (Luc 24.30). Amen! Dans les Actes 20.7 nous lisons ceci: *“Et le premier jour de la semaine, lorsque nous étions assemblés pour rompre le pain…”*. Paul écrit à l’Eglise de Corinthe: *“La coupe de bénédiction que nous bénissons, n’est-elle pas la communion du sang de Christ? Le pain que nous rompons, n’est-il pas la communion du corps du Christ?”* (1 Cor. 10.16-22; 1 Cor. 11.23-34). Amen!
 
-## UNE COMPARAISON CONVAINCANTE
+## Une comparaison convaincante
 
 Nous pourrions exposer ici toutes les doctrines et les pratiques générales de l’Eglise primitive, mais pour résumer, nous ajouterons seulement que les véritables doctrines du temps des apôtres, sur la Divinité, le baptême, le souper du Seigneur — fondamentalement l’ensemble des voies de Dieu pour le salut, nous ont été laissées sous forme écrite. Si donc dans cet exposé, nous tirons une comparaison entre l’Eglise primitive de Jésus-Christ et toutes les Eglises nées au cours de ces deux mille ans, c’est véritablement dans un seul but, celui de montrer à tous le chemin et les structures du commencement de l’Eglise primitive. La demande que nous adressons à Dieu est liée à cela: expérimenter la même grâce de Dieu, de la même manière que nos frères et sœurs au commencement, car Jésus-Christ est le Même hier, aujourd’hui et pour l’éternité. Amen!
 
@@ -326,7 +326,7 @@ Où et quand Jésus-Christ a-t-Il désigné l’apôtre Pierre comme chef de Son
 
 Les ambassadeurs du Pape dans les divers pays ne sont pas des ambassadeurs de Jésus-Christ, mais bien ceux de l’Etat du Vatican! Tous ceux qui font partie du clergé dans toutes les Eglises sont-ils réellement des messagers de Dieu? Sont-ils apôtres de Jésus-Christ ou bien serviteurs de leur Eglise! Prêchent-ils la Parole de Dieu comme au commencement, ou bien enseignent-ils les doctrines de leur dénomination? Jésus-Christ a-t-Il jamais présenté une prétention temporelle? A-t-Il jamais voulu un Etat de l’Eglise? ou une Eglise de l’Etat? Pierre a-t-il pu être le premier pape, bien que tous les historiens sont unanimes pour dire qu’il n’est jamais allé à Rome?
 
-## SUR LE TERRAIN DES FAITS
+## Sur le terrain des faits
 
 Les voyages de Pierre en Samarie, à Césarée et jusqu’à Antioche (Gal. 2.11) sont relatés dans le Nouveau Testament; ceux faits par Paul y sont également décrits en détail. Paul est allé trois fois à Rome; il était citoyen romain (Actes 22.22-29) et ainsi il pouvait sans empêchement passer à Rome lors de son voyage en Espagne (Rom. 15.22-29). Pierre n’est pas allé une seule fois à Rome. Seulement quatre cents ans plus tard, la prétention romaine sur une primauté le transporta par une légende là-bas. En réalité, il n’y a pas davantage à Rome de tombe de Pierre que de chaire. Dans les années de 41 à 54, Claude a régné à Rome et selon Actes, chapitre 18, il en a fait sortir tous les Juifs, dont Aquila et Priscille que Paul rencontra à Corinthe. Sous Néron, qui régna de 54 à 68, eut lieu la première persécution des Chrétiens. Par décision divine il était convenu que Jacques, Céphas et Jean servent comme apôtre des Juifs, alors que Paul et Barnabas seraient au service des païens (Gal. chap. 2 et autres). Seize chapitres sont répartis dans l’épître aux Romains que Paul adressa à la petite église judéo-chrétienne de Rome. Il salua nommément 27 personnes, cependant Pierre n’était pas parmi elles. Lors de sa dernière visite Paul resta deux années entières à Rome (Actes 28.30). Seule la légende attribue à Simon Pierre l’apparition d’un certain Simon Magus qui fit une grande impression au Sénat romain par ses trucs magiques. La connaissance de ce fait se trouve dans l’étude préliminaire de l’histoire indépendante de l’Eglise.
 

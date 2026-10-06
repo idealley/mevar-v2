@@ -73,11 +73,11 @@ local_pdf: "https://files.mevar.org/cmpp/undated/william.pdf"
 html_url: "http://www.cmpp.ch/william.htm"
 title_page: ["Titre original de l’ouvrage:","William Branham — ein Prophet von Gott gesandt","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1994 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée,","Case Postale 5633,","1002 Lausanne","Suisse"]
 ---
-# WILLIAM BRANHAM
+# William Branham
 
 ## Un prophète envoyé par Dieu
 
-## INTRODUCTION
+## Introduction
 
 Au cours de mes voyages pour la publication de la Parole de Dieu, il m’a souvent été demandé de faire paraître quelque chose sur William M. Branham. Je l’ai connu personnellement pendant exactement 10 ans (1955–1965) et j’ai été avec lui aussi bien en Europe qu’aux Etats-Unis. Nous avons mangé à la même table et avons voyagé dans la même voiture. Je l’ai vu vivre en tant qu’homme et en tant que serviteur de Dieu. Il m’a été accordé le privilège d’être un témoin oculaire et auriculaire du ministère exceptionnel que Dieu lui avait donné. Ainsi je puis parler et écrire à son sujet avec une connaissance personnelle et approfondie. Je suis également en possession de plus de trois cents de ses prédications, et j’ai pu de cette manière me faire une opinion générale de sa manière de prêcher la Parole de Dieu, de son apostolat hors du commun et du Message que Dieu lui a accordé de porter.
 
@@ -97,7 +97,7 @@ William Branham n’est pas venu avec de nouvelles révélations; son ministère
 
 Il est vrai qu’en apportant une prédication absolument biblique il se mettait en contradiction avec les interprétations traditionnelles ayant cours dans les églises officielles ou libres. Cependant, l’accord impressionnant qu’il y avait entre les Saintes Ecritures, ses doctrines et ce qu’il pratiquait, oblige tout homme sincère, qu’il soit d’un clergé ou qu’il soit simple laïque, à éprouver l’enseignement et la pratique qui lui sont propres. A tout chercheur sincère de la Vérité il ne reste alors plus qu’à se soumettre au seul témoignage valable devant Dieu, celui des Ecritures. C’est sur la base de ce fondement inébranlable, le fondement sur lequel l’Eglise primitive a été bâtie, que le jugement doit être entrepris.
 
-## CONFIRMATION SURNATURELLE
+## Confirmation surnaturelle
 
 De tous temps les hommes envoyés par Dieu ont été légitimés sur terre par un témoignage venu du ciel. Lors du christianisme primitif la poursuite du ministère commencé par Jésus, le Christ du Dieu Vivant, se fit après la résurrection du Rédempteur au travers des rachetés. Après l’effusion du Saint-Esprit le jour de Pentecôte, la prédication apostolique fut accompagnée de la coopération du Seigneur, qui de cette manière confirmait la prédication. C’est l’Eglise primitive qui en toutes circonstances est l’exemple valable pour toute la durée du temps de la grâce. *“Le Seigneur donc, après leur avoir parlé, fut élevé en haut dans le ciel, et s’assit la droite de Dieu. Et eux, étant partis prêchèrent partout, le Seigneur coopérant avec eux et confirmant la parole par les signes qui l’accompagnaient”* (Marc 16.19,20). *“Comment échapperons-nous, si nous négligeons un si grand salut, qui, ayant commencé par être annoncé par le Seigneur, nous a été confirmé par ceux qui l’avaient entendu, Dieu rendant témoignage avec eux par des signes et des prodiges, et par divers miracles et distribution de l’Esprit Saint, selon sa propre volonté?”* (Héb. 2.3,4).
 
@@ -117,7 +117,7 @@ Ce que notre Seigneur a dit de Lui-même se rapporte également à la lettre à 
 
 Les oeuvres opérées par Dieu de façon surnaturelle sont la preuve qu’il y a là, en rapport avec la prédication de l’Evangile de Jésus-Christ, une personne divinement envoyée. Ce sont ces oeuvres qui à proprement parler constituent la légitimation irréfutable et convaincante pour tous les homme. Notre Seigneur disait: *“Croyez-moi, que je suis dans le Père, et que le Père est en moi; sinon, croyez-moi cause des oeuvres elles-mêmes. En vérité, en vérité, je vous dis: Celui qui croit en moi fera, lui aussi; les oeuvres que moi je fait, et il en fera de plus grandes que celles-ci…”* (Jean 14.11,12). Dieu Lui-même a confirmé dans le ministère de William Branham cette Parole comme étant véritable, de telle sorte qu’il n’y a pas besoin de l’avis des hommes. Moïse et Elie, Pierre et Paul, bien sûr, tous les hommes que Dieu a envoyés ont été confirmés par Lui. La même chose peut être dite à l’égard de notre frère Branham. De cette manière celui qui a de la peine à croire en un homme a ainsi la possibilité de croire Dieu. *“... car personne ne peut faire ces miracles que toi tu fais, si Dieu n’est avec lui”* (Jean 3.2).
 
-## DES L’ENFANCE...
+## Dès l’enfance...
 
 La présence surnaturelle de Dieu accompagna cet homme dès son enfance. Il y a réellement des hommes destinés à une tâche particulière dès leur enfance, et William Branham en fait partie. Ces hommes ne se sont pas, à un certain moment, désignés eux-mêmes à cette tâche, se faisant appeler prophètes, mais c’est en vertu d’un appel céleste direct qu’ils ont été établis par Dieu même. Déjà dans son enfance William Branham eut la vision d’événements qui se sont tous accomplis souvent bien des années plus tard.
 
@@ -147,7 +147,7 @@ L’Ange poursuivit en se référant à Jean 4 et il évoqua la conversation aya
 
 L’Ange exprima encore que ce même “Signe du Messie” devait être manifesté de nouveau maintenant dans l’Eglise des nations, comme il l’avait été autrefois au milieu des Juifs et des Samaritains. Au commencement de presque tous les services de guérison qu’il tenait, William Branham se rapportait à ces passages de l’Ecriture que l’Ange lui avait littéralement expliqués. Le deuxième don consistait en ce que précisément en raison de ce que Dieu lui montrait il pouvait, pendant le service de guérison, dire aux personnes de quel pays ou de quelle ville elles venaient, comment elles s’appelaient, qui elles étaient, quelles maladies elles avaient, et, à proprement parler, tout ce qui les concernait, de la même manière que cela était arrivé dans le ministère prophétique du Fils de l’homme. J’ai personnellement été souvent témoin de ces choses dans les réunions, et la surprise n’a pas été petite pour moi lorsque cet homme de Dieu, le 3 décembre 1962, me répéta exactement les paroles que le Seigneur m’avait adressées le 2 avril 1962, avant le lever du soleil, ici à Krefeld. Il ne s’agit pas là de choses inventées pour être mises en avant, mais bien d’un témoignage conforme à la vérité devant le Dieu Tout-puissant, de ce que Jésus-Christ, dans notre génération, S’est fait connaître au travers de ce ministère prophétique de la même manière qu’aux jours où en tant que Fils de l’homme Il marchait sur la terre.
 
-## SOUS UN CIEL SEREIN
+## Sous un ciel serein
 
 En novembre 1949 William Branham informa les Révérends Jack Moore et Gordon Lindsay, lesquels avaient déjà participé à son ministère sur la côte Ouest des Etats Unis, qu’il tiendrait des rassemblements en janvier 1950 à Houston, Texas. La nouvelle s’en répandit très rapidement et des gens vinrent des environs, de telle sorte que toute la ville fut en ébullition. Les conducteurs spirituels qui n’avaient aucune compréhension spirituelle des choses s’excitèrent et portèrent des critiques destructrices sur ces rencontres. Parmi ceux-là s’éleva le Révérend Dr Best, lequel convoqua la presse et organisa pour le 24 janvier 1950 une discussion publique avec William Branham au “Sam Houston Coliseum” sur le thème “Aujourd’hui des guérisons?”, à laquelle environ 8000 personnes prirent part. Il invita aussi les deux photographes professionnels, M. James Ayers et M. Ted Kippermann, afin qu’ils fixent sur la pellicule tout particulièrement les moments les plus impressionnants.
 
@@ -163,7 +163,7 @@ William Branham mentionna plusieurs fois le fait que cette photographie remarqua
 
 Les événements surnaturels n’étaient pas choses rares pendant la vie des prophètes et des apôtres, mais ceux-ci ne peuvent êtres crus que par ceux qui ont réellement obtenu la grâce de Dieu. Lorsque Saul rencontra sur le chemin de Damas cette Lumière éclatante, il entendit la Voix de Dieu qui venait d’Elle, et c’est là qu’il reçu son mandat d’apôtre de Dieu. Que celui qui maintenant peut saisir cette réalité le fasse donc, car de nos jours il a été confirmé que Dieu ne change pas, et que Jésus, le Christ, est Le même, hier, aujourd’hui et éternellement. S’il s’agit ainsi d’une répétition de l’action surnaturelle de Dieu, et que cela se trouve déjà inscrit dans les Saintes Ecritures, nous devrions avoir un très grand respect de la manière dont Dieu a jugé bon de Se manifester. Du temps de Moïse l’Eternel Dieu descendait dans la Lumière et la Colonne de Feu, et c’est de cette manière qu’Il s’abaissait et rendait visible Sa présence directe sur la tente d’assignation. Dieu n’est pas mort. Il vit et Se révèle encore aujourd’hui là où on Le croit et où on Lui fait confiance. Dieu est Lumière et Il habite dans la Lumière. Il peut Se révéler dans une nuée surnaturelle, ou même dans un feu surnaturel. C’est ce qu’Il a fait. A Lui en soit tout l’honneur.
 
-## EN PLEIN AIR
+## En plein air
 
 Cette chose est réellement arrivée, et cela le 28 février 1963, de la manière dont Dieu l’avait montrée à l’avance à William Branham le 22 décembre 1962 dans une vision. Il avait raconté cette vision à son Eglise locale le 30 décembre 1962. Dans cette vision il lui avait été montré que sept Anges (des Chérubins), enveloppés d’une nuée, descendraient du ciel. Il vit dans cette vision la région où aurait lieu l’événement et les circonstances détaillées de ce dernier.
 
@@ -177,7 +177,7 @@ Maintenant, comme dans tous les âges, des personnes ont le même problème, c�
 
 Constamment j’entends cette phrase: «Pourquoi rien n’a-t-il été proclamé en public sur toutes ces choses?». La réponse est très simple: Pour diverses raisons les conducteurs religieux ont empêché qu’elles ne viennent à la connaissance de leur public.
 
-## CORRECTION
+## Correction
 
 A la fin de ce court exposé, j’estime nécessaire d’exprimer encore cet avis: C’est qu’on attribue injustement à William Branham beaucoup de choses qu’il n’a pas du tout dites, et parmi celles-ci une déclaration qui a été en fait rédigée par le Dr. Lee Vayle. Celui-ci a écrit une brochure qui porte le titre de “The Laodicean Church Age”, et il y écrit, à la page 7: «So I repeat, I sincereley belive et maintain as a private student of the Word, along with divine inspiration that 1977 ought to terminate the world systems and usher in the millenium». (Je le répète et le crois sincèrement, et je le maintiens en tant qu’étudiant privé de la Parole et sous l’inspiration divine, que 1977 amènera la fin des systèmes mondiaux et introduira le millénium). Exactement les mêmes paroles se retrouvent dans le livre de William Branham qu’a rédigé Lee Vayle “An Exposition of the Seven Church Ages” à la page 322. Malheureusement toutes les traductions de ce livre ont reproduit cela. Il est par conséquent tout à fait faux de prétendre, sur la base de ces citations, que c’est William Branham qui a donné une prédiction qui ne s’est pas accomplie, c’est-à-dire que les systèmes mondiaux se termineraient avec l’année 1977 et que le millénium serait introduit. William Branham n’a jamais dit ceci ainsi. Cette défaillance tout humaine doit être indubitablement imputée au compte du Dr Lee Vayle et non pas à celui de William Branham.
 

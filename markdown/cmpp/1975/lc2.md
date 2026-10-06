@@ -75,7 +75,7 @@ Je vous salue bien cordialement dans le précieux Nom de notre Seigneur Jésus-C
 
 C’est avec une profonde reconnaissance qu’il m’est donné de voir ce que Dieu a fait dans les semaines qui viennent de s’écouler. Je suis à la fois saisi et humilié, lorsque je considère ce que Dieu fait dans le monde entier. C’est Lui qui nous a donné la charge de prêcher Sa Parole, et Il aplanit le chemin, ouvre les portes et accorde la grâce et la force pour accomplir ce ministère. *“… je n’ai point résisté à la vision céleste…”* (Act. 26.19). *“Car Dieu ne se repent pas de ses dons et de son appel”* (Rom. 11.29).
 
-## ALLEZ DANS LE MONDE ENTIER
+## Allez dans le monde entier
 
 C’est avec puissance que la Parole du Seigneur se fraie un chemin, et qu’Elle accomplit ce pourquoi Dieu L’a envoyée. L’ordre de mission est encore valable, et nous devons agir jusqu’à ce que le Seigneur revienne.
 
@@ -93,7 +93,7 @@ Au **Kenya**, le Seigneur a également ouvert toutes grandes les portes. J’ai 
 
 Je vous prie de penser à l’ensemble de l’oeuvre de Dieu dans vos prières de chaque jour. Le voyage au Brésil et dans les pays africains a été en grande bénédiction pour des milliers de personnes. Je remercie sincèrement tous ceux qui ont pensé à moi dans leurs prières. L’éternité seule révélera les fruits portés par la Semence répandue.
 
-## LA RECOLTE EST MURE
+## La récolte est mûre
 
 Le Seigneur Lui-même parle de la grande récolte, et c’est aussi Lui qui exauce les prières en envoyant des ouvriers dans la moisson. Cependant, un tel envoi est lié à un appel particulier.
 
@@ -167,7 +167,7 @@ Que le Seigneur vous bénisse tous.
 Agissant de la part de Dieu.  
 *Br. Frank*
 
-## EDITORIAL
+## Éditorial
 
 > *“La voix de tes sentinelles retentit; Elles élèvent la voix, Elles poussent ensemble des cris d’allégresse; Car de leurs propres yeux elles voient Que l’Eternel ramène Sion”*.  
 > (Esaïe 52.8).
@@ -189,7 +189,7 @@ J’ai également passé quelques jours à Bamako, au **Mali**, où se trouve no
 
 A part la Parole que le Seigneur m’a donné de prêcher partout où j’ai passé, il m’a été donné d’aider matériellement les frères au nom de vous tous qui avez eu à coeur de soutenir cette oeuvre missionnaire. Nous avons pu acheter une voiture d’occasion, une petite moto, deux vélomoteurs, une voiturette pour un frère infirme qui distribue les brochures, et une machine à écrire pour servir à préparer les brochures traduites dans les langues indigènes. A part cela, les dons ont pourvu à tous les frais de déplacement. Nous remercions donc, au Nom de notre Seigneur Jésus-Christ, tous ceux qui soutiennent cette oeuvre missionnaire par leurs dons et leurs prières, sans oublier tout ce qui est fait pour le soutien de l’oeuvre de diffusion des prédications de notre frère Branham. Bientôt, le Seigneur reviendra. Les luttes seront alors terminées, et c’est Lui qui donnera à chacun de goûter au fruit du travail qu’il a accompli par amour de son Dieu, et selon la foi de Jésus-Christ.
 
-## PAROLE REVELEE ET «ORDRES DANS L’EGLISE»
+## Parole révélée et «ordres dans l’Église»
 
 Il est devenu nécessaire de faire connaître publiquement ma position vis-à-vis de ce nouveau credo qui essaie de s’introduire chez les croyants ayant reçu le Message de la Parole révélée, et qui insiste sur «Les Ordres dans l’Eglise». Ce credo a été créé autour d’une partie des prédications de frère Branham, par certains frères qui pensent être plus fidèles que d’autres dans ce Message, et qui font, sans s’en rendre compte, de frère Branham une idole.
 

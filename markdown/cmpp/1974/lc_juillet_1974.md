@@ -133,7 +133,7 @@ Tous ceux qui, dans ce temps, accordent attention à la voix de la Parole de Die
 Unis dans l’amour reconnaissant.  
 *E. Frank*
 
-## EDITORIAL
+## Éditorial
 
 > *“Car ce n’est rien que d’être circoncis Ou incirconcis; ce qui est quelque chose, C’est d’être une nouvelle créature. Paix et miséricorde sur tous ceux Qui suivront cette règle, Et sur l’Israël de Dieu!”*  
 > (Galates 6.15,16).

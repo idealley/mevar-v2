@@ -108,7 +108,7 @@ Lorsque toutes choses seront arrivées à leur achèvement, c’est alors que le
 Agissant de la part du Seigneur.  
 *Br. Frank*
 
-## EDITORIAL
+## Éditorial
 
 > *Les lignes suivantes sont l’adaptation d’une partie de la prédication apportée par notre frère Frank à la rencontre de Genève, le 28 août 1976.*
 

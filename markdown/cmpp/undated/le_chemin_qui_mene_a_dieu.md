@@ -53,7 +53,7 @@ local_pdf: "https://files.mevar.org/cmpp/undated/le_chemin_qui_mene_a_dieu.pdf"
 html_url: "http://www.cmpp.ch/le_chemin_qui_mene_a_dieu.htm"
 title_page: ["LE CHEMIN QUI MENE A DIEU","Titre original de l’ouvrage:","Der Weg zu Gott","Auteur:","Missionnaire Ewald Frank, Krefeld (Allemagne)","Copyright © 1985 by","Freie Volksmission e.V., Krefeld (Allemagne)","Traduit de l’allemand. Tout droit de reproduction,même partiel, est réservé.","Editeur","Centre Missionnaire de la Parole Parlée","B.P. 5633","1002 Lausanne (Suisse)"]
 ---
-## LE CHEMIN QUI MENE A DIEU
+## Le chemin qui mène à Dieu
 
 Aucun thème n’échauffe autant les esprits et ne les divise aussi rapidement que celui qui se rapporte à Dieu. Mais à la fin personne ne Lui échappe, même pas l’athée. Chaque être humain naît dans une certaine idéologie et la plupart des gens s’y tiennent jusqu’à la fin de leur vie sans jamais s’être assurés ou s’être convaincus de son exactitude et de sa véracité. Partout il est de bon ton de continuer à vivre selon les traditions héritées de ses pères. Même ceux qui accomplissent leurs devoirs religieux veulent en somme qu’on les laisse tranquilles à l’égard de Dieu. Ils veulent un Dieu qui corresponde à leur religion et à leur opinion. Ce n’est pas en dernier lieu dans les religions mêmes que doit être recherchée la raison de cette évolution. De la naissance à la mort les gens sont saturés de rites et de cérémonies religieuses sans jamais avoir entendu le vrai Message du salut divin et sans avoir trouvé la paix intérieure.
 

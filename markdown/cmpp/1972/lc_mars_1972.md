@@ -63,7 +63,7 @@ Nous vivons dans un temps où non seulement Il a pierre fondamentale, le fondeme
 
 En rapport avec cela, nous trouvons cette merveilleuse parole de Zacharie 4.7: *“… et il fera sortir la pierre du faîte avec des acclamations: grâce, grâce sur elle!”* (Darby).
 
-## LE SEIGNEUR JESUS-CHRIST EST LE FONDEMENT
+## Le Seigneur Jésus-Christ est le fondement
 
 Il est la Pierre d’Angle et la Pierre du Faîte. Il est le Premier et le Dernier, l’Alpha et l'Oméga. En tant que Pierre du Faîte, Sa véritable place doit être manifestée dans la maison de Dieu qui est l'Eglise du Seigneur. Paul écrit dans 1 Timothée 3.15: *“La maison de Dieu, qui est l’Eglise du Dieu vivant, la colonne et l’appui, de la vérité”.*
 
@@ -73,7 +73,7 @@ Sous la puissante action du Saint-Esprit, au commencement de l’Eglise du Nouve
 
 Ils voient JESUS-CHRIST, le Seigneur élevé, la Tête de l’Eglise, comme étant la Pierre du Faîte.
 
-## L’APPEL DE DIEU
+## L’appel de Dieu
 
 J’aimerais faire ressortir que la Parole de Dieu a une valeur éternelle pour tous ceux qui la croient et l’acceptent. Ne l’oubliez pas! C’est à vous tous que cet appel s’adresse:
 
@@ -91,7 +91,7 @@ C'est une merveilleuse exhortation pour chaque enfant de Dieu, car nous avons au
 
 Nous savons que cette parole est valable pour nous aujourd’hui. Nous ne devons pas nous effrayer, ni nous décourager, car le même Seigneur qui nous a donné Ses promesses est avec nous dans tout ce que nous entreprendrons conformément à Sa Parole. Le pays de la promesse se trouve devant nous, et avec l’aide de Dieu nous atteindrons le but. Loué soit Son Nom merveilleux qui est au dessus de tout Nom!
 
-## QU’ARRIVERA-T-IL EN 1977?
+## Qu’arrivera-t-il en 1977?
 
 On me questionne toujours à nouveau sur la signification, dans le plan du salut, de l’année 1977. Je dois reconnaître que cela me serait plus agréable de répondre à d'autres questions. Il ne s'agit pas de fixer une année dans laquelle quelque chose doit arriver, mais bien plutôt de se préparer pour le retour de Jésus-Christ. Une fois, Jésus dit à Ses disciples:
 
@@ -131,7 +131,7 @@ Les hommes ont leurs théories, mais Dieu a Ses plans qu’Il met en pratique Lu
 
 Frères et soeurs, c’est la Parole de Dieu. C’est là qu’il faut faire entendre le cri de détresse. C’est pour cela que doivent monter les prières jusques à Dieu, car — chacun doit le savoir — Dieu se tient dans Sa Parole. Il est avec Ses promesses. Nous devons nous souvenir de Ses déclarations. Il est fidèle, et Il donnera davantage que tout ce que nous pourrions imaginer et demander. Nous pouvons déjà maintenant L’en remercier!
 
-## DECLARATIONS DE FRERE BRANHAM AU SUJET DE 1977
+## Déclarations de frère Branham au sujet de 1977
 
 C’est avec l’aide de Dieu que j’essaie de rendre ce que frère Branham a dit, à propos de l’année 1977. Déjà dans la circulaire précédente, je faisais voir qu’il ne s’agissait pas de fixer une année particulière; mais bien de se préparer pour le retour de Jésus-Christ. D’autre part, frère Branham a bien placé cette année devant nos yeux. Du 5 au 11 décembre 1960, il prêcha sur les lettres aux sept Eglises; et ces prédications furent, plus tard et avec sa collaboration, rédigées par le Dr L. Vayle pour éditer un livre. Il ne me restait plus qu’à écouter à nouveau les prédications sur les bandes magnétiques originales de l’Exposé des sept Ages de l’Eglise. Les trois déclarations suivantes, qui concernent notre thème, se trouvaient sur ces bandes.
 
@@ -155,7 +155,7 @@ Des trois citations que fit frère Branham sur l’année 1977, il ressort uniqu
 
 Sur la base du fait que frère Branham faisait souvent ressortir l’année 1977, nous concluons que ce sera une année d’une grande importance. En ce qui concerne le retour de Jésus-Christ, nous croyons conformément aux Ecritures qui disent que la deuxième venue de Christ, et l’enlèvement, peuvent arriver à n’importe quel moment. J’espère que par ce court exposé tous les lecteurs auront été aidés dans la compréhension de ce sujet.
 
-## LA BONNE POSITION
+## La bonne position
 
 Le retour de Jésus-Christ appartient à la doctrine fondamentale des Saintes Ecritures, c’est pourquoi nous y croyons. Nous sommes très reconnaissants au Seigneur pour la révélation de Sa Parole et pour l’accomplissement de Ses promesses. A cause des signes que Jésus-Christ nous donna Lui-même, nous reconnaissons, au signes des temps, que nous nous trouvons très proches du retour de Christ. Dans la parabole du figuier, par lequel le peuple d’Israël, qui devait être rassemblé et devenir une nation, est typifié, nous lisons cette parole: *“Je vous le dis en vérité, cette génération ne passera point, que tout cela n’arrive”.*
 
