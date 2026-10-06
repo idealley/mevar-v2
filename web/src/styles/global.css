@@ -242,6 +242,8 @@
     font-size: calc(20px * var(--read-scale, 1));
     line-height: 1.8;
     color: var(--read-ink);
+    /* a rule of underscores has no space to wrap at */
+    overflow-wrap: break-word;
   }
   .prose-reader > * + * {
     margin-top: 30px;
@@ -288,8 +290,6 @@
   .prose-reader pre {
     padding-left: 30px;
     white-space: pre-line;
-    /* a rule of underscores has no space to wrap at */
-    overflow-wrap: anywhere;
   }
   .prose-reader :is(pre, pre code) {
     font-family: inherit;
