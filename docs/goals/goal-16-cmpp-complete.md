@@ -1,6 +1,6 @@
 # GOAL 16: CMPP complete, and each Branham translation linked to its sermon
 
-**Status:** done, 2026-10-06: items 6 to 9 on 2026-10-05 at Samuel's request (« why is this one "undated" in the path… could we verify all those to make this clean? »), items 1 to 4 and the rest of item 5 the day after (« I approve all of it, you can crawl, correct etc. until everything is clean »). What waits for Samuel is listed in « Measured »
+**Status:** done, 2026-10-06 (Samuel's answers of that day applied, see the end of « Measured »): items 6 to 9 on 2026-10-05 at Samuel's request (« why is this one "undated" in the path… could we verify all those to make this clean? »), items 1 to 4 and the rest of item 5 the day after (« I approve all of it, you can crawl, correct etc. until everything is clean »). What waits for Samuel is listed in « Measured »
 **Repo:** `mevar-v2` (`scripts/12-discover-cmpp.mjs`, `scripts/20-download-pdfs.mjs`,
 `scripts/72-llm-fanout-multi.mjs`, `scripts/73-apply-llm.mjs`, a new
 `scripts/49b-link-cmpp-branham.mjs`, `manifests/cmpp.json`,
@@ -262,10 +262,10 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
     « deuxièmement », « critiqueuses », « parviennent », « transmutation »).
     A misprint of the PDF is the PDF's and stays (« l’assemblé »,
     « la écompense », « cala »).
-  Also not restored (the review's second round): « œ » where the PDF
-  prints « oe », about 44 times, 6 of them in built works (`video_02_2005`:
-  « sœurs », « cœur »), and two capitals with an accent the PDF does not
-  print (« FÉVRIER 2005 » in `video_02_2005`, « Éditorial » in `lc56`).
+  The review's second round found « œ » where the PDF prints « oe », and
+  two capitals with an accent it does not print: restored since (44 « œ »
+  in six works, « FEVRIER 2005 » in `video_02_2005`, « EDITORIAL » in
+  `lc56`), by `75`, see « Samuel's answers » below.
   Not restored: « II » for « Il » in two A5 duplicates (the PDF's text has
   two capital I), and what the first pass may have done to the 239 older
   bodies, which nobody has read against their PDFs.
@@ -412,18 +412,69 @@ Items 6 to 9 on the branch `goal-16-cmpp`, 2026-10-05; items 1 to 5 on
   from its cache (gitignored), so after it `67`, `76b`, `49b`, `83b`, `65`,
   `47`, `50` run again, and `96` for `local_pdf`.
 
-### Still unresolved: 9
+### Samuel's answers of 2026-10-06, and what they changed
 
-Answer in `scripts/cmpp-branham-decided.json`, `"<id>": "<branham id>"` or
-`"none"`, then rerun `49b`, `65`, `47`, `50`.
+They supersede what the paragraphs above leave « for Samuel ».
 
-| id | Title | Title page | Why |
-| -- | ----- | ---------- | --- |
-| `les_aigles_de_dieu` | Les Aigles de Dieu | 4 mars 1960, après-midi, « God's Eagles » | the only sermon the archive has that day is 60-0304, « Thirsting for Life »; Samuel does not know |
-| `le_bapteme_une_question_importante` (and `_A4_traite`; the four twins are duplicates since item 4) | Le Baptême ? Une question importante ! | none | a tract, no date |
-| `quand_dieu` (and `_A4_traite`) | Quand Dieu devint homme | none | a tract, no date |
-| `quel_bapteme` (and `_A4_traite`) | De quel baptême avez-vous donc été baptisé ? | none | a tract, no date |
-| `savez-vous` (and `_A4_traite`) | Le savez-vous… ? | none | a tract, no date |
+- **The death notice** (« we can keep the death notice out »):
+  `faire_part_alexis_barilier` stays a draft. Decided. `96` does not
+  upload a draft's PDF either.
+- **The tracts are Ewald Frank's** (« these tracts are probably Frank's and
+  explain what branham said »): `eden`, `savez-vous`, `quand_dieu`,
+  `quel_bapteme`, `le_bapteme_une_question_importante` and the four
+  `_A4_traite` twins have `preacher: "Ewald Frank"` (`76b`; `quanddieu`
+  had it already), and each is `"none"` in
+  `scripts/cmpp-branham-decided.json`. The works attributed to William
+  Branham are **98**: 97 linked, **1 unresolved**, `les_aigles_de_dieu`
+  (« 4 mars 1960, après-midi », « God's Eagles »; the only sermon the
+  archive has that day is 60-0304, « Thirsting for Life »; Samuel does not
+  know). On the site the tracts are Bible studies again, not sermons.
+- **The overlapping texts** (« yes probably duplicate, for those text
+  overlapping we can keep them as they are important, it is Alexis who
+  understand he had to publish them »): `quanddieu` is folded into
+  `quand_dieu` (0.94 both ways): **95 duplicates, 420 CMPP works built**.
+  Kept as works of their own, decided: `grace_verite_A4`,
+  `votre_attention_A4` and `paille_et_froment` (within `lc57`, `lc55`,
+  `lc56`), `les_70_semaines_de_daniel` and `lc42`, and `le_reveil_promis`
+  and `trois_visions`, which Alexis Barilier published at the CMPP and
+  `markdown/mevar/` has too.
+- **The monthly summaries say their month** (« we need to fix the title,
+  and add the month probably to differentiate for the user »): the 187
+  `video_MM_YYYY` had one title, « Sommaire des Rencontres » in two
+  casings. Each is now « Sommaire des rencontres, mars 2010 », from its
+  file name (a rule in `76b`); `subtitle` is as it was.
+- **The PDFs are on our domain** (« you can run the upload, you are
+  authorized »): `96` uploaded **446 PDFs, 52.6 MB**, all CMPP's: the 273
+  new works that are no draft, and the 173 works `49b` had moved, under
+  their path of today (the old objects under `cmpp/undated/` stay; nothing
+  was deleted). Every CMPP work has a `local_pdf` that answers, but the
+  draft. A second run uploads nothing.
+- **The three steps that were described are scripts** (« why can you not
+  run these tasks? »):
+  - `21-extract-cmpp-booklets.mjs`: the half-sheets of an A5 booklet in
+    reading order (77 booklets; the 63 new ones come out byte for byte as
+    the texts the pass cleaned).
+  - `22-extract-cmpp-lost-signs.mjs`: the letters of the text layer, the
+    lost signs from an OCR (14 PDFs, byte for byte as cleaned). The five
+    signs set by hand are in `scripts/cmpp-extraction-fixes.json`.
+  - `75-restore-source-words.mjs`: a body's words against its PDF's. Run
+    on the 276 bodies as `73` had left them, it gives today's bodies: 270
+    identical, and the six that differ do so by the « œ » and the two
+    capitals of the review's second round, which it now restores too. A
+    second run restores nothing. The decisions of a reader of the PDFs
+    (9 differences that are the extraction's fault, 12 passages by hand)
+    are in `scripts/cmpp-source-words.json`.
+  Tesseract.js is not a line of `package.json`: it is LiteParse's OCR
+  engine, installed with it, and `22` imports it from there. No dependency
+  was added.
+- **The older bodies** (« we can compare the older CMPP texts in an other
+  flow »): the 239 are not compared here. `75` is the tool for it.
+
+**Left**: `les_aigles_de_dieu`; the 50 works dated by their year alone
+that carry a first of January; the four with a first of the month their
+text does not name (`la_parole_de_dieu_demeure_eternellement`, `lc57`,
+`grace_verite_A5`, `tragedie`); the 239 older bodies against their PDFs;
+the attributions of the 274 new works, the model's.
 
 ### The LLM pass: the estimate, written before spending (2026-10-06)
 

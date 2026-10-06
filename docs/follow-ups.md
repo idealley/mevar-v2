@@ -111,20 +111,17 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 
 **Fix**: if it matters, have the page ask the worker to cache `location.href` once it is active (a few lines in the registration).
 
-## CMPP: what goal 16 leaves to Samuel
+## CMPP: what goal 16 leaves
 
-**Status**: goal 16 is done (2026-10-06): cmpp.ch rediscovered by a plain fetch (512 PDFs, 274 new works, all cleaned), the 94 duplicates (90 layout variants, four letters under two names) folded with `duplicate_of` (`83b`, `manifests/cmpp-variants.json`), 97 Branham translations linked to their sermon (`49b`), the frontmatters corrected from their own text and 314 month-only dates written as `YYYY-MM` (`76b`). Details and evidence in `docs/goals/goal-16-cmpp-complete.md`, « Measured ».
+**Status**: goal 16 is done (2026-10-06): cmpp.ch rediscovered by a plain fetch (512 PDFs, 274 new works, all cleaned and compared with their PDFs), 95 duplicates folded with `duplicate_of` (`83b`, `manifests/cmpp-variants.json`), 97 Branham translations linked to their sermon (`49b`), the frontmatters corrected from their own text, 314 month-only dates written as `YYYY-MM` and the 187 monthly summaries titled with their month (`76b`), every PDF on files.mevar.org (`96`). Samuel's answers of 2026-10-06 are applied: the tracts are Ewald Frank's, the death notice stays a draft, the overlapping texts stay works of their own. Details in `docs/goals/goal-16-cmpp-complete.md`, « Measured ».
 
-**Left, each an answer of Samuel's or a run that is his**:
+**Left**:
 
-- **`local_pdf`.** The 274 new works have none (their pages link the PDF on cmpp.ch), and the works `49b` moved out of `cmpp/undated/` keep `…/cmpp/undated/<id>.pdf` on files.mevar.org, which answers. `96-r2-pdfs.mjs` uploads to R2 and sets the field: one run, Samuel's. It names a PDF by its work's path, so it uploads the moved works' PDFs again under the new path and leaves the old objects.
-- **Nine translations without a sermon** in `manifests/cmpp-branham-unresolved.json`, answered in `scripts/cmpp-branham-decided.json`: `les_aigles_de_dieu` and the four tracts with their `_A4_traite` twins (duplicates now).
-- **Who wrote the tracts.** `savez-vous` and `quel_bapteme` say `preacher: "William Branham"` and speak of him in the third person; `quand_dieu` and `le_bapteme_une_question_importante` name no one; `eden` has no preacher any more. All are unsigned. An answer goes into `scripts/76b-cmpp-title-pages.mjs`.
-- **`faire_part_alexis_barilier`**, a death notice that names a family: a draft, its model-written names removed. Publish it, keep it a draft, or delete it.
-- **Same texts under two names**, not folded because their ids are not layouts of one another: `quanddieu` and `quand_dieu`, three tracts that are parts of `lc55`, `lc56`, `lc57`, `les_70_semaines_de_daniel` and `lc42`, and two texts of Parfait M'bra the CMPP publishes and `markdown/mevar/` has (`le_reveil_promis`, `trois_visions`): a pass of `83` that includes `cmpp`, or answers.
+- **`les_aigles_de_dieu`**, the one translation without a sermon in `manifests/cmpp-branham-unresolved.json` (« God's Eagles », 4 March 1960, afternoon; the archive has « Thirsting for Life » that day). An answer goes into `scripts/cmpp-branham-decided.json`.
 - **Dates by the year.** 50 works dated « Année 2020 » have `2020-01-01`, and four have a first of the month their text does not name (`lc57`, `grace_verite_A5`, `tragedie`, `la_parole_de_dieu_demeure_eternellement`): a year alone as `date`, or none, is a decision for the site (its lists sort on `date`).
-- **The 239 older bodies were never read against their PDFs.** The review of the 277 new ones found spelled-out Bible abbreviations, accents added to capitals and a few changed words, all restored; the first pass (and the old `65`, in `lc56`) did the same to the older ones, to an extent nobody has measured. `65c`'s way, with the CMPP PDFs as the source, is the pass to write.
+- **The 239 older bodies were never read against their PDFs** (Samuel: another flow). The first pass, and the old `65`, spelled out Bible abbreviations, accented capitals and changed a word here and there, as the review found in the 277 new ones. `75-restore-source-words.mjs` is the tool: run it on them and read what it reports; a booklet among them needs `21`'s extraction first (it makes it).
 - **The attributions of the 274 new works** are the model's, like those of the first 242, and unverified.
+- **Old PDF objects.** The 173 works `49b` moved have their PDF twice in the bucket: under `cmpp/undated/` (no longer named by any work) and under their year. Deleting the first is a Cloudflare step, Samuel's.
 
 Two smaller ones: `100-ingest-surrealdb.mjs` still calls every CMPP work a `bible_study` where the site calls Branham's a `sermon`; four older works have « sœ ur » for « sœur » from their extraction (`serie6no4`, `serie6no5`, `mariage_frank`, `tragedie`).
 
