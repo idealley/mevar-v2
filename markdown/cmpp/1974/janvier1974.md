@@ -3,9 +3,8 @@ source: "cmpp"
 sermon_id: "janvier1974"
 title: "Lettre circulaire — Janvier 1974"
 subtitle: "Janvier 1974"
-date: "1974-01-01"
+date: "1974-01"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de janvier 1974 exhortant à la vigilance et à la prière face aux signes des temps. L'auteur commente les événements en Israël, les 70 semaines de Daniel, et cite des extraits de William Branham sur la prophétie. Il met en garde contre la fixation de dates et encourage à se préparer pour le retour de Christ."
 tags:
@@ -67,6 +66,7 @@ bible_refs:
   - "Luc 22:47,48"
   - "Ésaïe 37:30-32"
 local_pdf: "https://files.mevar.org/cmpp/1974/janvier1974.pdf"
+duplicate_of: "cmpp/1974/lc_janvier_1974"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).
 

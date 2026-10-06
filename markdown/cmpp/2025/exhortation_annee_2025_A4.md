@@ -2,10 +2,7 @@
 source: "cmpp"
 sermon_id: "exhortation_annee_2025_A4"
 title: "EXHORTATION ANNEE 2025"
-date: "2025-01-01"
 year: 2025
-location: "Krefeld"
-preacher: "Ewald Frank"
 summary: "Lettre circulaire pour l'année 2025, exhortant les croyants à persévérer dans la foi malgré les conflits mondiaux et le départ du serviteur Ewald Frank, en se préparant pour le retour du Seigneur et en portant les fruits de l'Esprit."
 tags:
   - "exhortation"
@@ -68,6 +65,7 @@ bible_refs:
   - "Éphésiens 5:25-27"
   - "2 Corinthiens 4:16-18"
 local_pdf: "https://files.mevar.org/cmpp/2025/exhortation_annee_2025_A4.pdf"
+status: "draft"
 ---
 EXHORTATION
 ANNEE 2025

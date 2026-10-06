@@ -2,7 +2,7 @@
 source: "cmpp"
 sermon_id: "le_bapteme_une_question_importante_A4_traite"
 title: "Le Baptême? Une Question Importante!"
-preacher: "William Branham"
+preacher: "Ewald Frank"
 summary: "Cette étude biblique examine la question du baptême au Nom de Jésus-Christ, en s'appuyant sur huit textes du Nouveau Testament pour montrer que le baptême doit être administré au Nom de Jésus-Christ, et non selon la formule trinitaire. L'auteur argumente que le baptême trinitaire est une invention ultérieure de l'Église catholique romaine, et que seul le baptême au Nom de Jésus-Christ identifie le croyant à la mort, l'ensevelissement et la résurrection de Christ."
 tags:
   - "baptême"
@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 17:20"
   - "Deutéronome 6:4"
 local_pdf: "https://files.mevar.org/cmpp/undated/le_bapteme_une_question_importante_A4_traite.pdf"
+duplicate_of: "cmpp/undated/le_bapteme_une_question_importante"
 ---
 LE BAPTEME? UNE QUESTION IMPORTANTE!
 

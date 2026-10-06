@@ -3,10 +3,7 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2025_A5_gc"
 title: "Exhortation"
 subtitle: "Année 2025"
-date: "2025-01-01"
 year: 2025
-location: "Lausanne"
-preacher: "Ewald Frank"
 summary: "Lettre circulaire pour l'année 2025, exhortant les croyants à persévérer dans la foi malgré les conflits mondiaux et le départ du serviteur Ewald Frank, en se concentrant sur la Parole et l'amour de Christ."
 tags:
   - "exhortation"
@@ -70,6 +67,8 @@ bible_refs:
   - "Éphésiens 5:25-27"
   - "2 Corinthiens 4:16-18"
 local_pdf: "https://files.mevar.org/cmpp/2025/exhortation_annee_2025_A5_gc.pdf"
+duplicate_of: "cmpp/2025/exhortation_annee_2025_A4"
+status: "draft"
 ---
 > “Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui, selon sa grande miséricorde, nous a régénérés, pour une espérance vivante, par la résurrection de Jésus-Christ d’entre les morts, pour un héritage qui ne se peut ni corrompre, ni souiller, ni flétrir, lequel vous est réservé dans les cieux, à vous qui, par la puissance de Dieu, êtes gardés par la foi pour le salut prêt à être révélé dans les derniers temps!” 1 Pierre 1.3-6
 

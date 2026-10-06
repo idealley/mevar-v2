@@ -1,13 +1,49 @@
 {
+  "markdown/cmpp/1959/serie1no12.md": [
+    {
+      "line": "# LE REPAS DU SEIGNEUR",
+      "heading": "# Le repas du Seigneur"
+    }
+  ],
+  "markdown/cmpp/1962/parole_parlee_semence_originelle.md": [
+    {
+      "line": "## LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE",
+      "heading": "## La Parole parlée est la semence originelle"
+    }
+  ],
+  "markdown/cmpp/1963/7sceaux1.md": [
+    {
+      "line": "### INTRODUCTION",
+      "heading": "### Introduction"
+    },
+    {
+      "line": "#### LA REVELATION DES SEPT SCEAUX",
+      "heading": "#### La révélation des sept sceaux"
+    },
+    {
+      "line": "#### DIEU CACHE ET REVELE DANS LA SIMPLICITE",
+      "heading": "#### Dieu caché et révélé dans la simplicité"
+    }
+  ],
+  "markdown/cmpp/1966/la_parole_de_dieu_demeure_eternellement.md": [
+    {
+      "line": "## SEPTEMBRE – OCTOBRE 1966",
+      "heading": "## Septembre – octobre 1966"
+    },
+    {
+      "line": "## LA MISSION DE FRERE BRANHAM",
+      "heading": "## La mission de frère Branham"
+    },
+    {
+      "line": "## LA DERNIERE PERIODE DU MINISTERE DE FRERE BRANHAM",
+      "heading": "## La dernière période du ministère de frère Branham"
+    },
+    {
+      "line": "## **LE PECHE ORIGINEL**",
+      "heading": "## Le péché originel"
+    }
+  ],
   "markdown/cmpp/1972/lc_mars_1972.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE",
-      "heading": "# Lettre circulaire"
-    },
-    {
-      "line": "## MARS 1972",
-      "heading": "## Mars 1972"
-    },
     {
       "line": "## LE SEIGNEUR JESUS-CHRIST EST LE FONDEMENT",
       "heading": "## Le Seigneur Jésus-Christ est le fondement"
@@ -61,14 +97,6 @@
   ],
   "markdown/cmpp/1972/lc_septembre_1972.md": [
     {
-      "line": "# LETTRE CIRCULAIRE",
-      "heading": "# Lettre circulaire"
-    },
-    {
-      "line": "## SEPTEMBRE 1972",
-      "heading": "## Septembre 1972"
-    },
-    {
       "line": "## NOUVELLES DE LA MISSION",
       "heading": "## Nouvelles de la mission"
     },
@@ -77,16 +105,8 @@
       "heading": "## Questions et réponses"
     },
     {
-      "line": "## L’EGLISE DE JESUS-CHRIST",
-      "heading": "## L’Église de Jésus-Christ"
-    },
-    {
       "line": "## QUI A PART A L’EDIFICATION DE L’EGLISE?",
       "heading": "## Qui a part à l’édification de l’Église?"
-    },
-    {
-      "line": "## LA VRAIE EGLISE EN TANT QUE CORPS DE CHRIST",
-      "heading": "## La vraie Église en tant que corps de Christ"
     },
     {
       "line": "## DIEU A ETABLI",
@@ -95,69 +115,76 @@
     {
       "line": "## ETABLISSEMENT DES ANCIENS",
       "heading": "## Établissement des anciens"
+    },
+    {
+      "line": "## EGLISE DE JESUS-CHRIST",
+      "heading": "## Église de Jésus-Christ"
+    },
+    {
+      "line": "## L A VRAIE EGLISE EN TANT QUE CORPS DE CHRIST",
+      "heading": "## L a vraie Église en tant que corps de Christ"
     }
   ],
   "markdown/cmpp/1973/lc_janvier_1973.md": [
     {
-      "line": "# LETTRE CIRCULAIRE",
-      "heading": "# Lettre circulaire"
+      "line": "## FRAPPE D’AVEUGLEMENT",
+      "heading": "## Frappe d’aveuglement"
     },
     {
-      "line": "## JANVIER 1973",
-      "heading": "## Janvier 1973"
+      "line": "## JERUSALEM, OU ROME?",
+      "heading": "## Jérusalem, ou Rome?"
     },
     {
-      "line": "### FRAPPE D’AVEUGLEMENT",
-      "heading": "### Frappe d’aveuglement"
+      "line": "## LA FOI BIBLIQUE",
+      "heading": "## La foi biblique"
     },
     {
-      "line": "### JERUSALEM, OU ROME?",
-      "heading": "### Jérusalem, ou Rome?"
+      "line": "## LA LEGENDE DE PIERRE",
+      "heading": "## La légende de Pierre"
     },
     {
-      "line": "### LA FOI BIBLIQUE",
-      "heading": "### La foi biblique"
+      "line": "## PROPHETIE DE CHARLES PRICE DONNEE EN 1916",
+      "heading": "## Prophétie de Charles Price donnée en 1916"
     },
     {
-      "line": "### LA LEGENDE DE PIERRE",
-      "heading": "### La légende de Pierre"
-    },
-    {
-      "line": "### PROPHETIE DE CHARLES PRICE DONNEE EN 1916",
-      "heading": "### Prophétie de Charles Price donnée en 1916"
-    },
-    {
-      "line": "### EDITORAL",
-      "heading": null,
-      "refused": "### Éditorial"
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1973/lc_juin_1973.md": [
     {
-      "line": "MOUVEMENT CHARISMATIQUE",
+      "line": "## QU’EST-CE QUE LA DIRECTION DE L’ESPRIT?",
+      "heading": "## Qu’est-ce que la direction de l’Esprit?"
+    },
+    {
+      "line": "## MOUVEMENT CHARISMATIQUE",
       "heading": "## Mouvement charismatique"
+    },
+    {
+      "line": "## EVENEMENTS DE CE TEMPS",
+      "heading": "## Événements de ce temps"
+    },
+    {
+      "line": "## COMMUNIQUE",
+      "heading": "## Communiqué"
     }
   ],
   "markdown/cmpp/1973/lc_novembre_1973.md": [
     {
-      "line": "NOVEMBRE 1973",
-      "heading": null
+      "line": "## VOYAGES MISSIONNAIRES",
+      "heading": "## Voyages missionnaires"
     },
     {
-      "line": "### VOYAGES MISSIONNAIRES",
-      "heading": "### Voyages missionnaires"
+      "line": "## TRAVAIL MISSIONNAIRE",
+      "heading": "## Travail missionnaire"
     },
     {
-      "line": "### TRAVAIL MISSIONNAIRE",
-      "heading": "### Travail missionnaire"
+      "line": "## RESPONSABILITE COMMUNE",
+      "heading": "## Responsabilité commune"
     },
     {
-      "line": "### RESPONSABILITE COMMUNE",
-      "heading": "### Responsabilité commune"
-    },
-    {
-      "line": "### EDITORIAL",
-      "heading": "### Éditorial"
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1974/janvier1974.md": [
@@ -206,14 +233,6 @@
   ],
   "markdown/cmpp/1974/lc_janvier_1974.md": [
     {
-      "line": "# LETTRE CIRCULAIRE",
-      "heading": "# Lettre circulaire"
-    },
-    {
-      "line": "## JANVIER 1974",
-      "heading": "## Janvier 1974"
-    },
-    {
       "line": "## ISRAEL DANS LA PROPHETIE",
       "heading": "## Israël dans la prophétie"
     },
@@ -236,27 +255,11 @@
   ],
   "markdown/cmpp/1974/lc_juillet_1974.md": [
     {
-      "line": "# LETTRE CIRCULAIRE",
-      "heading": "# Lettre circulaire"
-    },
-    {
-      "line": "## JUILLET 1974",
-      "heading": "## Juillet 1974"
-    },
-    {
       "line": "## EDITORIAL",
       "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1974/lc_mars_1974.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE",
-      "heading": "# Lettre circulaire"
-    },
-    {
-      "line": "## MARS 1974",
-      "heading": "## Mars 1974"
-    },
     {
       "line": "## FONDATION DE L’EGLISE",
       "heading": "## Fondation de l’Église"
@@ -275,14 +278,6 @@
     }
   ],
   "markdown/cmpp/1974/lc_octobre_1974.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE",
-      "heading": "# Lettre circulaire"
-    },
-    {
-      "line": "## OCTOBRE 1974",
-      "heading": "## Octobre 1974"
-    },
     {
       "line": "## EDITORIAL",
       "heading": "## Éditorial"
@@ -328,848 +323,32 @@
       "heading": "## Éditorial"
     }
   ],
-  "markdown/cmpp/1988/predication_bruxelles_1988.md": [
-    {
-      "line": "**PRÉDICATION DONNÉE À BRUXELLES LE SAMEDI 9 AVRIL 1988**",
-      "heading": null
-    },
-    {
-      "line": "**Prédication de frère Ewald Frank**",
-      "heading": null
-    },
-    {
-      "line": "BON POUR LITTERATURE GRATUITE",
-      "heading": "## Bon pour littérature gratuite"
-    }
-  ],
-  "markdown/cmpp/2013/video_12_2013.md": [
-    {
-      "line": "## SOMMAIRE DES RENCONTRES",
-      "heading": "## Sommaire des rencontres"
-    },
-    {
-      "line": "### DECEMBRE 2013",
-      "heading": "### Décembre 2013"
-    }
-  ],
-  "markdown/cmpp/2014/video_11_2014.md": [
-    {
-      "line": "## SOMMAIRE DES RENCONTRES",
-      "heading": "## Sommaire des rencontres"
-    },
-    {
-      "line": "### NOVEMBRE 2014",
-      "heading": "### Novembre 2014"
-    }
-  ],
-  "markdown/cmpp/2017/video_09_2017.md": [
-    {
-      "line": "## SOMMAIRE DES RENCONTRES",
-      "heading": "## Sommaire des rencontres"
-    },
-    {
-      "line": "### SEPTEMBRE 2017",
-      "heading": "### Septembre 2017"
-    }
-  ],
-  "markdown/cmpp/2019/video_04_2019.md": [
-    {
-      "line": "## SOMMAIRE DES RENCONTRES",
-      "heading": "## Sommaire des rencontres"
-    },
-    {
-      "line": "### AVRIL 2019",
-      "heading": "### Avril 2019"
-    }
-  ],
-  "markdown/cmpp/2025/exhortation_annee_2025_A4_gc.md": [
-    {
-      "line": "## EXHORTATION ANNEE 2025",
-      "heading": "## Exhortation année 2025"
-    }
-  ],
-  "markdown/cmpp/2026/exhortation_annee_2026_A4.md": [
-    {
-      "line": "## EXHORTATION ANNEE 2026",
-      "heading": "## Exhortation année 2026"
-    }
-  ],
-  "markdown/cmpp/2026/exhortation_annee_2026_A4_gc.md": [
-    {
-      "line": "## EXHORTATION ANNEE 2026",
-      "heading": "## Exhortation année 2026"
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux1.md": [
-    {
-      "line": "BROCHURE N° 1",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 30",
-      "heading": null
-    },
-    {
-      "line": "# RÉVÉLATION DES SEPT SCEAUX",
-      "heading": "# Révélation des sept sceaux"
-    },
-    {
-      "line": "## DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ",
-      "heading": "## Dieu caché et révélé dans la simplicité"
-    },
-    {
-      "line": "### LA RÉVÉLATION DES SEPT SCEAUX — DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ",
-      "heading": "### La révélation des sept sceaux — Dieu caché et révélé dans la simplicité"
-    },
-    {
-      "line": "### INTRODUCTION",
-      "heading": "### Introduction"
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux10.md": [
-    {
-      "line": "BROCHURE N° 10",
-      "heading": null
-    },
-    {
-      "line": "PAR WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "SEPTIEME SCEAU",
-      "heading": null
-    },
-    {
-      "line": "LE SEPTIEME SCEAU",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux2.md": [
-    {
-      "line": "BROCHURE N° 2",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "# RÉVÉLATION DES SEPT SCEAUX",
-      "heading": "# Révélation des sept sceaux"
-    },
-    {
-      "line": "## LA BRECHE",
-      "heading": "## La brèche"
-    },
-    {
-      "line": "### LA RÉVÉLATION DES SEPT SCEAUX — LA BRECHE 2",
-      "heading": "### La révélation des sept sceaux — la brèche 2"
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux3.md": [
-    {
-      "line": "BROCHURE N° 3",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "PREMIER SCEAU",
-      "heading": null
-    },
-    {
-      "line": "**RÉVÉLATION DES SEPT SCEAUX / LE PREMIER SCEAU**",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux4.md": [
-    {
-      "line": "BROCHURE N° 4",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "DEUXIÈME SCEAU",
-      "heading": "## Deuxième sceau"
-    },
-    {
-      "line": "LE DEUXIÈME SCEAU",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux5.md": [
-    {
-      "line": "BROCHURE N° 5",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "TROISIÈME SCEAU",
-      "heading": "## Troisième sceau"
-    },
-    {
-      "line": "RÉVÉLATION DES SEPT SCEAUX / LE TROISIÈME SCEAU",
-      "heading": null
-    },
-    {
-      "line": "LE TROISIÈME SCEAU",
-      "heading": null
-    },
-    {
-      "line": "REVELATION DES SEPT SCEAUX / LE TROISIEME SCEAU 21",
-      "heading": null
-    },
-    {
-      "line": "REVELATION DES SEPT SCEAUX / LE TROISIEME SCEAU 22",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux6.md": [
-    {
-      "line": "BROCHURE N° 6",
-      "heading": null
-    },
-    {
-      "line": "# RÉVÉLATION DES SEPT SCEAUX",
-      "heading": "# Révélation des sept sceaux"
-    },
-    {
-      "line": "## QUATRIÈME SCEAU",
-      "heading": "## Quatrième sceau"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 11",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 11"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 12",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 12"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 13",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 13"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 14",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 14"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 15",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 15"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 16",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 16"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 17",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 17"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 18",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 18"
-    },
-    {
-      "line": "## REVELATION DES SEPT SCEAUX / LE QUATRIEME SCEAU 19",
-      "heading": "## Révélation des sept sceaux / le quatrième sceau 19"
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux7.md": [
-    {
-      "line": "BROCHURE N° 7",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "CINQUIÈME SCEAU",
-      "heading": null
-    },
-    {
-      "line": "**Révélation des Sept Sceaux / Le Cinquième Sceau**",
-      "heading": null
-    },
-    {
-      "line": "**Le Cinquième Sceau**",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux8.md": [
-    {
-      "line": "BROCHURE N° 8",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "SIXIÈME SCEAU",
-      "heading": "## Sixième sceau"
-    },
-    {
-      "line": "RÉVÉLATION DES SEPT SCEAUX / LE SIXIÈME SCEAU",
-      "heading": null
-    },
-    {
-      "line": "LE SIXIÈME SCEAU",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/7sceaux9.md": [
-    {
-      "line": "BROCHURE N° 9",
-      "heading": null
-    },
-    {
-      "line": "RÉVÉLATION DES SEPT SCEAUX",
-      "heading": null
-    },
-    {
-      "line": "PAR WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA RÉVÉLATION DES SEPT SCEAUX — QUESTIONS ET RÉPONSES SUR LES SCEAUX 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1986/antichrist.md": [
-    {
-      "line": "LA PROSTITUEE ASSISE SUR LA BETE",
-      "heading": "## La prostituée assise sur la bête"
-    },
-    {
-      "line": "L’IMAGE DE LA BETE",
-      "heading": "## L’image de la bête"
-    },
-    {
-      "line": "LA MARQUE DE LA BETE",
-      "heading": "## La marque de la bête"
-    },
-    {
-      "line": "LE NOMBRE MYSTERIEUX",
-      "heading": "## Le nombre mystérieux"
-    },
-    {
-      "line": "UNE COMPARAISON PRECISE",
-      "heading": "## Une comparaison précise"
-    },
-    {
-      "line": "# L'ANTICHRIST",
-      "heading": "# L'antichrist"
-    },
-    {
-      "line": "## AVANT-PROPOS",
-      "heading": "## Avant-propos"
-    },
-    {
-      "line": "## INTRODUCTION",
-      "heading": "## Introduction"
-    },
-    {
-      "line": "## CHRIST ET L'ANTICHRIST",
-      "heading": "## Christ et l'antichrist"
-    },
-    {
-      "line": "## L'ORIGINE",
-      "heading": "## L'origine"
-    },
-    {
-      "line": "## ANTI = CONTRE",
-      "heading": "## Anti = contre"
-    },
-    {
-      "line": "## SA PROVENANCE",
-      "heading": "## Sa provenance"
-    },
-    {
-      "line": "## DEVOILEMENT DU MYSTERE",
-      "heading": "## Dévoilement du mystère"
-    }
-  ],
-  "markdown/cmpp/undated/brl.md": [
-    {
-      "line": "# BAPTEME — REPAS DU SEIGNEUR — LAVAGE DES PIEDS",
-      "heading": "# Baptême — repas du Seigneur — lavage des pieds"
-    },
-    {
-      "line": "### INTRODUCTION",
-      "heading": "### Introduction"
-    },
-    {
-      "line": "### LE BAPTEME",
-      "heading": "### Le baptême"
-    },
-    {
-      "line": "#### LA CONDITION",
-      "heading": "### La condition"
-    },
-    {
-      "line": "#### LE NOM",
-      "heading": "### Le nom"
-    },
-    {
-      "line": "#### ENSEIGNEMENT DES APOTRES",
-      "heading": "### Enseignement des apôtres"
-    },
-    {
-      "line": "#### LA SIGNIFICATION",
-      "heading": "### La signification"
-    },
-    {
-      "line": "#### EPROUVEZ LES ESPRITS",
-      "heading": "### Éprouvez les esprits"
-    }
-  ],
-  "markdown/cmpp/1964/chef_oeuvre.md": [
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "“LA PAROLE PARLEE EST LA SEMENCE ORIGINALE”",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE    2",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 11",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 12",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 13",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 14",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 15",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 16",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 17",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 18",
-      "heading": null
-    },
-    {
-      "line": "LE CHEF-D’OEUVRE 19",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/undated/christ_et_son_eglise.md": [
-    {
-      "line": "LES DIFFERENTS AGES",
-      "heading": "## Les différents âges"
-    },
-    {
-      "line": "# CHRIST ET SON EGLISE DANS LA PROPHETIE",
-      "heading": "# Christ et son Église dans la prophétie"
-    },
-    {
-      "line": "## INTRODUCTION",
-      "heading": "## Introduction"
-    },
-    {
-      "line": "## CHRIST SOUS SES DIFFERENTS ASPECTS",
-      "heading": "## Christ sous ses différents aspects"
-    },
-    {
-      "line": "## LA VISION DE PATMOS",
-      "heading": "## La vision de Patmos"
-    },
-    {
-      "line": "## POUR MONTRER A SES SERVITEURS…",
-      "heading": "## Pour montrer à ses serviteurs…"
-    },
-    {
-      "line": "## LA VOIX SEMBLABLE A UNE TROMPETTE",
-      "heading": "## La voix semblable à une trompette"
-    },
-    {
-      "line": "## LE FILS DE L’HOMME",
-      "heading": "## Le Fils de l’homme"
-    }
-  ],
-  "markdown/cmpp/1985/christianisme.md": [
-    {
-      "line": "AVANT-PROPOS",
-      "heading": "## Avant-propos"
-    },
-    {
-      "line": "QUELLE EST LA RELIGION JUSTE?",
-      "heading": "## Quelle est la religion juste?"
-    },
-    {
-      "line": "DERNIERES VOLONTES",
-      "heading": "## Dernières volontés"
-    },
-    {
-      "line": "PRETENTIONS NON BIBLIQUES",
-      "heading": "## Prétentions non bibliques"
-    },
-    {
-      "line": "UN MALENTENDU",
-      "heading": "## Un malentendu"
-    },
-    {
-      "line": "LES CLEFS",
-      "heading": "## Les clefs"
-    }
-  ],
-  "markdown/cmpp/undated/commencement.md": [
-    {
-      "line": "ACCUSATION — AVERTISSEMENT — CLARIFICATION",
-      "heading": null
-    },
-    {
-      "line": "AINSI COMMENÇA LA TROMPERIE",
-      "heading": "## Ainsi commença la tromperie"
-    },
-    {
-      "line": "EPROUVEZ TOUTES CHOSES",
-      "heading": "## Éprouvez toutes choses"
-    },
-    {
-      "line": "POURQUOI? POURQUOI?",
-      "heading": "## Pourquoi? Pourquoi?"
-    },
-    {
-      "line": "QUELQU’UN DOIT LE DIRE",
-      "heading": "## Quelqu’un doit le dire"
-    },
-    {
-      "line": "LE TEMPS EST PROCHE",
-      "heading": "## Le temps est proche"
-    },
-    {
-      "line": "VOICI, JE VIENS BIENTOT!",
-      "heading": "## Voici, je viens bientôt!"
-    },
-    {
-      "line": "AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    37",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1985/dieu_et_son_plan.md": [
-    {
-      "line": "# DIEU ET SON PLAN POUR L'HUMANITÉ",
-      "heading": "# Dieu et son plan pour l'humanité"
-    },
-    {
-      "line": "### AVANT-PROPOS",
-      "heading": "### Avant-propos"
-    },
-    {
-      "line": "## LA DIVINITE",
-      "heading": "## La divinité"
-    },
-    {
-      "line": "## LE SEIGNEUR DANS UNE FORME D’ANGE",
-      "heading": "## Le Seigneur dans une forme d’ange"
-    },
-    {
-      "line": "## UNE PAROLE D’ECLAIRCISSEMENT",
-      "heading": "## Une parole d’éclaircissement"
-    },
-    {
-      "line": "## LA TRANSITION",
-      "heading": "## La transition"
-    },
-    {
-      "line": "## LE CREATEUR",
-      "heading": "## Le Créateur"
-    },
-    {
-      "line": "## LE JE SUIS",
-      "heading": "## Le Je suis"
-    }
-  ],
-  "markdown/cmpp/undated/eden.md": [
-    {
-      "line": "## LES DEUX ARBRES DANS LE JARDIN D’ÉDEN",
-      "heading": "## Les deux arbres dans le jardin d’Éden"
-    },
-    {
-      "line": "## LA SÉDUCTION",
-      "heading": "## La séduction"
-    },
-    {
-      "line": "## LA LOI DE LA POSTÉRITÉ ET L’ARBRE GÉNÉALOGIQUE D’ADAM",
-      "heading": "## La loi de la postérité et l’arbre généalogique d’Adam"
-    },
-    {
-      "line": "## TOUJOURS LES DEUX SEMENCES",
-      "heading": "## Toujours les deux semences"
-    }
-  ],
-  "markdown/cmpp/undated/grace_verite_A4.md": [
-    {
-      "line": "ALEXIS BARILIER",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1962/grande_bataille.md": [
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1987/il_est_ecrit.md": [
-    {
-      "line": "IL EST ECRIT…    19",
-      "heading": null
-    },
-    {
-      "line": "# IL EST ECRIT…",
-      "heading": "# Il est écrit…"
-    },
-    {
-      "line": "### IL EST ECRIT",
-      "heading": "### Il est écrit"
-    },
-    {
-      "line": "### AVANT-PROPOS",
-      "heading": "### Avant-propos"
-    },
-    {
-      "line": "### ETRE UN DANS L’ESPRIT",
-      "heading": "### Être un dans l’Esprit"
-    },
-    {
-      "line": "### LA CONDITION",
-      "heading": "### La condition"
-    },
-    {
-      "line": "### REPETITION?",
-      "heading": "### Répétition?"
-    },
-    {
-      "line": "### DISPENSER DROITEMENT LA PAROLE",
-      "heading": "### Dispenser droitement la Parole"
-    },
-    {
-      "line": "### D’UNE IMPORTANCE PARTICULIERE",
-      "heading": "### D’une importance particulière"
-    },
-    {
-      "line": "### DE VERITABLES PROPHETES",
-      "heading": "### De véritables prophètes"
-    }
-  ],
-  "markdown/cmpp/undated/impact.md": [
-    {
-      "line": "EWALD FRANK",
-      "heading": null
-    },
-    {
-      "line": "L’IMPACT DE LA REVELATION 2",
-      "heading": null
-    },
-    {
-      "line": "DIEU ACHEVE SON OEUVRE",
-      "heading": "## Dieu achève son œuvre"
-    },
-    {
-      "line": "LA VOIX DE DIEU “AUJOURD’HUI”",
-      "heading": "## La voix de Dieu “aujourd’hui”"
-    },
-    {
-      "line": "L’ERE DU NOUVEAU TESTAMENT",
-      "heading": "## L’ère du Nouveau Testament"
-    },
-    {
-      "line": "L’IMPACT DE LA REVELATION    18",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/undated/information_globale.md": [
-    {
-      "line": "EWALD FRANK",
-      "heading": null
-    },
-    {
-      "line": "LE MONDE ENTIER REGARDE A ROME",
-      "heading": "## Le monde entier regarde à Rome"
-    },
-    {
-      "line": "L’HISTOIRE SE POURSUIT",
-      "heading": "## L’histoire se poursuit"
-    }
-  ],
-  "markdown/cmpp/undated/islam.md": [
-    {
-      "line": "# LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS",
-      "heading": "# La religion de l’islam à la lumière des événements mondiaux actuels"
-    },
-    {
-      "line": "## EWALD FRANK",
-      "heading": "## Ewald Frank"
-    },
-    {
-      "line": "## LE TEMPS DE MAHOMET",
-      "heading": "## Le temps de Mahomet"
-    },
-    {
-      "line": "## MAHOMET ET LES CHRETIENS",
-      "heading": "## Mahomet et les chrétiens"
-    },
-    {
-      "line": "## MAHOMET ET ALLAH",
-      "heading": "## Mahomet et Allah"
-    },
-    {
-      "line": "## CONCLUSION",
-      "heading": "## Conclusion"
-    },
-    {
-      "line": "## EPILOGUE",
-      "heading": "## Épilogue"
-    }
-  ],
-  "markdown/cmpp/1978/l_indicateur.md": [
-    {
-      "line": "# L'INDICATEUR",
-      "heading": "# L'indicateur"
-    },
-    {
-      "line": "## PREFACE",
-      "heading": "## Préface"
-    },
-    {
-      "line": "## D'OU VENONS-NOUS? — OU ALLONS-NOUS?",
-      "heading": "## D'où venons-nous? — Où allons-nous?"
-    },
-    {
-      "line": "## DIEU LE CREATEUR",
-      "heading": "## Dieu le créateur"
-    },
-    {
-      "line": "## LES BEAUX JOURS SONT-ILS PASSES?",
-      "heading": "## Les beaux jours sont-ils passés?"
-    },
-    {
-      "line": "## LE PLAN DE REDEMPTION",
-      "heading": "## Le plan de rédemption"
-    },
-    {
-      "line": "## LE TRIOMPHE LE PLUS GRAND",
-      "heading": "## Le triomphe le plus grand"
-    },
-    {
-      "line": "## QUI CHERCHE, TROUVE",
-      "heading": "## Qui cherche, trouve"
-    },
-    {
-      "line": "## EPROUVEZ TOUTES CHOSES",
-      "heading": "## Éprouvez toutes choses"
-    },
-    {
-      "line": "## REVENONS A LA FOI BIBLIQUE",
-      "heading": "## Revenons à la foi biblique"
-    },
-    {
-      "line": "## UN NOUVEAU COMMENCEMENT",
-      "heading": "## Un nouveau commencement"
-    },
-    {
-      "line": "## LE SIGNE: L'EXISTENCE D'ISRAEL",
-      "heading": "## Le signe: l'existence d'Israël"
-    },
-    {
-      "line": "## DECISION DEFINITIVE",
-      "heading": "## Décision définitive"
-    },
-    {
-      "line": "## BON POUR LITTERATURE GRATUITE",
-      "heading": "## Bon pour littérature gratuite"
-    }
-  ],
-  "markdown/cmpp/1966/la_parole_de_dieu_demeure_eternellement.md": [
-    {
-      "line": "EWALD FRANK",
-      "heading": null
-    },
-    {
-      "line": "SEPTEMBRE – OCTOBRE 1966",
-      "heading": null
-    },
-    {
-      "line": "LA MISSION DE FRERE BRANHAM",
-      "heading": "## La mission de frère Branham"
-    },
-    {
-      "line": "LA PAROLE DE DIEU DEMEURE ETERNELLEMENT 16",
-      "heading": null
-    },
-    {
-      "line": "LA DERNIERE PERIODE DU MINISTERE DE FRERE BRANHAM",
-      "heading": "## La dernière période du ministère de frère Branham"
-    },
-    {
-      "line": "LA PAROLE DE DIEU DEMEURE ETERNELLEMENT    20",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1954/la_profondeur.md": [
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "\"LA PAROLE PARLEE EST LA SEMENCE ORIGINALE\"",
-      "heading": null
-    }
-  ],
   "markdown/cmpp/1975/lc1.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 1",
-      "heading": "# Lettre circulaire 1"
+      "line": "## EVENEMENTS ACTUELS",
+      "heading": "## Événements actuels"
+    },
+    {
+      "line": "## LE SABBAT",
+      "heading": "## Le sabbat"
+    },
+    {
+      "line": "## EXODE DES GENS DE L’EGLISE",
+      "heading": "## Exode des gens de l’Église"
+    },
+    {
+      "line": "## NOUVELLES DE LA MISSION",
+      "heading": "## Nouvelles de la mission"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    }
+  ],
+  "markdown/cmpp/1975/lc1_A5.md": [
+    {
+      "line": "# LETTRE CIRCULAIRE",
+      "heading": "# Lettre circulaire"
     },
     {
       "line": "## JANVIER 1975",
@@ -1196,15 +375,113 @@
       "heading": "## Éditorial"
     }
   ],
+  "markdown/cmpp/1975/lc2.md": [
+    {
+      "line": "## ALLEZ DANS LE MONDE ENTIER",
+      "heading": "## Allez dans le monde entier"
+    },
+    {
+      "line": "## LA RECOLTE EST MURE",
+      "heading": "## La récolte est mûre"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    },
+    {
+      "line": "## PAROLE REVELEE ET «ORDRES DANS L’EGLISE»",
+      "heading": "## Parole révélée et «ordres dans l’Église»"
+    }
+  ],
+  "markdown/cmpp/1975/lc3.md": [
+    {
+      "line": "## L’ACHEVEMENT DE L’OEUVRE DE DIEU",
+      "heading": "## L’achèvement de l’œuvre de Dieu"
+    },
+    {
+      "line": "## ETRE ASSIS DANS LA CHAIRE DE MOISE",
+      "heading": "## Être assis dans la chaire de Moïse"
+    },
+    {
+      "line": "## ETRE ASSIS DANS LA CHAIRE DE PIERRE",
+      "heading": "## Être assis dans la chaire de Pierre"
+    },
+    {
+      "line": "## ETRE ASSIS DANS LA CHAIRE DE PAUL",
+      "heading": "## Être assis dans la chaire de Paul"
+    },
+    {
+      "line": "## ETRE ASSIS DANS LA CHAIRE DES PERES DE L’EGLISE",
+      "heading": "## Être assis dans la chaire des Pères de l’Église"
+    },
+    {
+      "line": "## ETRE ASSIS DANS LA CHAIRE DE BRANHAM",
+      "heading": "## Être assis dans la chaire de Branham"
+    },
+    {
+      "line": "## COLLABORATION",
+      "heading": "## Collaboration"
+    },
+    {
+      "line": "## TRADUCTION",
+      "heading": "## Traduction"
+    },
+    {
+      "line": "## COPYRIGHT",
+      "heading": "## Copyright"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    }
+  ],
+  "markdown/cmpp/1975/lc4.md": [
+    {
+      "line": "## L’ACTION DE L’ESPRIT DE DIEU DANS L’EGLISE",
+      "heading": "## L’action de l’Esprit de Dieu dans l’Église"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    }
+  ],
+  "markdown/cmpp/1976/lc5.md": [
+    {
+      "line": "## EVENEMENTS ACTUELS",
+      "heading": "## Événements actuels"
+    },
+    {
+      "line": "## FIN D’ANNEE 1975",
+      "heading": "## Fin d’année 1975"
+    }
+  ],
+  "markdown/cmpp/1976/lc6.md": [
+    {
+      "line": "## LA PAROLE PROPHETIQUE",
+      "heading": "## La Parole prophétique"
+    },
+    {
+      "line": "## REVOLTE CONTRE DIEU",
+      "heading": "## Révolte contre Dieu"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    }
+  ],
+  "markdown/cmpp/1976/lc8.md": [
+    {
+      "line": "## LA CHARGE CONFIEE A L’EGLISE",
+      "heading": "## La charge confiée à l’Église"
+    }
+  ],
+  "markdown/cmpp/1976/lc9.md": [
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    }
+  ],
   "markdown/cmpp/1977/lc10.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 10",
-      "heading": "# Lettre circulaire 10"
-    },
-    {
-      "line": "## JANVIER 1977",
-      "heading": "## Janvier 1977"
-    },
     {
       "line": "## DIRECTIONS DIVINES",
       "heading": "## Directions divines"
@@ -1252,16 +529,6 @@
       "heading": "## Événements actuels"
     }
   ],
-  "markdown/cmpp/1977/lc11.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 11",
-      "heading": "# Lettre circulaire 11"
-    },
-    {
-      "line": "## JUIN 1977",
-      "heading": "## Juin 1977"
-    }
-  ],
   "markdown/cmpp/1977/lc11_A5.md": [
     {
       "line": "JUIN 1977",
@@ -1269,14 +536,6 @@
     }
   ],
   "markdown/cmpp/1977/lc12.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 12",
-      "heading": "# Lettre circulaire 12"
-    },
-    {
-      "line": "## OCTOBRE 1977",
-      "heading": "## Octobre 1977"
-    },
     {
       "line": "## L’APPEL DE MINUIT",
       "heading": "## L’appel de minuit"
@@ -1286,11 +545,57 @@
       "heading": "## Éditorial"
     }
   ],
-  "markdown/cmpp/1978/lc13.md": [
+  "markdown/cmpp/1978/l_indicateur.md": [
     {
-      "line": "**JANVIER 1978**",
-      "heading": null
+      "line": "## PREFACE",
+      "heading": "## Préface"
     },
+    {
+      "line": "## DIEU LE CREATEUR",
+      "heading": "## Dieu le créateur"
+    },
+    {
+      "line": "## LE PLAN DE REDEMPTION",
+      "heading": "## Le plan de rédemption"
+    },
+    {
+      "line": "## LE TRIOMPHE LE PLUS GRAND",
+      "heading": "## Le triomphe le plus grand"
+    },
+    {
+      "line": "## QUI CHERCHE, TROUVE",
+      "heading": "## Qui cherche, trouve"
+    },
+    {
+      "line": "## EPROUVEZ TOUTES CHOSES",
+      "heading": "## Éprouvez toutes choses"
+    },
+    {
+      "line": "## UN NOUVEAU COMMENCEMENT",
+      "heading": "## Un nouveau commencement"
+    },
+    {
+      "line": "## DECISION DEFINITIVE",
+      "heading": "## Décision définitive"
+    },
+    {
+      "line": "## D’OU VENONS–NOUS? — OU ALLONS–NOUS?",
+      "heading": "## D’où venons–nous? — Où allons–nous?"
+    },
+    {
+      "line": "## LES BEAUX JOURS SONT–ILS PASSES?",
+      "heading": "## Les beaux jours sont–ils passés?"
+    },
+    {
+      "line": "## LA LA FOI BIBLIQUE",
+      "heading": "## La la foi biblique"
+    },
+    {
+      "line": "## LE SIGNE: L’EXISTENCE D’ISRAEL",
+      "heading": "## Le signe: l’existence d’Israël"
+    }
+  ],
+  "markdown/cmpp/1978/lc13.md": [
     {
       "line": "## LE TEMPS EST-IL PROCHE, OU EST-IL LA?",
       "heading": "## Le temps est-il proche, ou est-il là?"
@@ -1306,39 +611,19 @@
   ],
   "markdown/cmpp/1978/lc14.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 14",
-      "heading": "# Lettre circulaire 14"
-    },
-    {
-      "line": "## JUIN 1978",
-      "heading": "## Juin 1978"
-    },
-    {
-      "line": "## ISRAËL ET L’EGLISE",
-      "heading": "## Israël et l’Église"
-    },
-    {
       "line": "## QUESTIONS ET REPONSES",
       "heading": "## Questions et réponses"
     },
     {
       "line": "## EDITORIAL",
       "heading": "## Éditorial"
+    },
+    {
+      "line": "## ISRAEL ET L’EGLISE",
+      "heading": "## Israël et l’Église"
     }
   ],
   "markdown/cmpp/1978/lc15.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 15",
-      "heading": "# Lettre circulaire 15"
-    },
-    {
-      "line": "## SEPTEMBRE 1978",
-      "heading": "## Septembre 1978"
-    },
-    {
-      "line": "## ISRAËL — EGLISE",
-      "heading": "## Israël — Église"
-    },
     {
       "line": "## PERPLEXITE",
       "heading": "## Perplexité"
@@ -1350,17 +635,13 @@
     {
       "line": "## “…VOUS SANCTIFIE LUI-MEME TOUT ENTIERS…”",
       "heading": "## “…Vous sanctifie lui-même tout entiers…”"
+    },
+    {
+      "line": "## ISRAEL — EGLISE",
+      "heading": "## Israël — Église"
     }
   ],
   "markdown/cmpp/1979/lc16.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 16",
-      "heading": "# Lettre circulaire 16"
-    },
-    {
-      "line": "## JANVIER 1979",
-      "heading": "## Janvier 1979"
-    },
     {
       "line": "## POINT DE VUE PROPHETIQUE!",
       "heading": "## Point de vue prophétique!"
@@ -1392,14 +673,6 @@
   ],
   "markdown/cmpp/1979/lc17.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 17",
-      "heading": "# Lettre circulaire 17"
-    },
-    {
-      "line": "## AVRIL 1979",
-      "heading": "## Avril 1979"
-    },
-    {
       "line": "## COMME AU COMMENCEMENT",
       "heading": "## Comme au commencement"
     },
@@ -1414,27 +687,11 @@
   ],
   "markdown/cmpp/1979/lc18.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 18",
-      "heading": "# Lettre circulaire 18"
-    },
-    {
-      "line": "## JUIN 1979",
-      "heading": "## Juin 1979"
-    },
-    {
       "line": "## EDITORIAL",
       "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1979/lc19.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 19",
-      "heading": "# Lettre circulaire 19"
-    },
-    {
-      "line": "## SEPTEMBRE 1979",
-      "heading": "## Septembre 1979"
-    },
     {
       "line": "## QUESTIONS ET REPONSES",
       "heading": "## Questions et réponses"
@@ -1458,75 +715,7 @@
       "heading": "## L’offrande"
     }
   ],
-  "markdown/cmpp/1975/lc1_A5.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE",
-      "heading": "# Lettre circulaire"
-    },
-    {
-      "line": "## JANVIER 1975",
-      "heading": "## Janvier 1975"
-    },
-    {
-      "line": "## EVENEMENTS ACTUELS",
-      "heading": "## Événements actuels"
-    },
-    {
-      "line": "## LE SABBAT",
-      "heading": "## Le sabbat"
-    },
-    {
-      "line": "## EXODE DES GENS DE L’EGLISE",
-      "heading": "## Exode des gens de l’Église"
-    },
-    {
-      "line": "## NOUVELLES DE LA MISSION",
-      "heading": "## Nouvelles de la mission"
-    },
-    {
-      "line": "## EDITORIAL",
-      "heading": "## Éditorial"
-    }
-  ],
-  "markdown/cmpp/1975/lc2.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 2",
-      "heading": "# Lettre circulaire 2"
-    },
-    {
-      "line": "## AVRIL 1975",
-      "heading": "## Avril 1975"
-    },
-    {
-      "line": "## ALLEZ DANS LE MONDE ENTIER",
-      "heading": "## Allez dans le monde entier"
-    },
-    {
-      "line": "## LA RECOLTE EST MURE",
-      "heading": "## La récolte est mûre"
-    },
-    {
-      "line": "## EDITORIAL",
-      "heading": "## Éditorial"
-    },
-    {
-      "line": "## PAROLE REVELEE ET «ORDRES DANS L’EGLISE»",
-      "heading": "## Parole révélée et «ordres dans l’Église»"
-    }
-  ],
   "markdown/cmpp/1980/lc20.md": [
-    {
-      "line": "EDITORIAL",
-      "heading": "## Éditorial"
-    },
-    {
-      "line": "# LETTRE CIRCULAIRE 20",
-      "heading": "# Lettre circulaire 20"
-    },
-    {
-      "line": "## JANVIER 1980",
-      "heading": "## Janvier 1980"
-    },
     {
       "line": "## UNE GENERATION SPIRITUELLE",
       "heading": "## Une génération spirituelle"
@@ -1554,39 +743,31 @@
     {
       "line": "## LA VIE PERSONNELLE",
       "heading": "## La vie personnelle"
-    }
-  ],
-  "markdown/cmpp/1980/lc21.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 21",
-      "heading": "# Lettre circulaire 21"
     },
     {
-      "line": "## AVRIL 1980",
-      "heading": "## Avril 1980"
+      "line": "## POUR LA FIN DE L’ANNEE",
+      "heading": "## Pour la fin de l’année"
     },
     {
-      "line": "### L’ACHEVEMENT DE L’EGLISE DES PREMIERS-NES",
-      "heading": "### L’achèvement de l’Église des premiers-nés"
+      "line": "## NOUVELLES MISSIONNAIRES",
+      "heading": "## Nouvelles missionnaires"
     },
     {
       "line": "## EDITORIAL",
       "heading": "## Éditorial"
     }
   ],
+  "markdown/cmpp/1980/lc21.md": [
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    },
+    {
+      "line": "## L’ACHEVEMENT DE L’EGLISE DES PREMIERS-NES",
+      "heading": "## L’achèvement de l’Église des premiers-nés"
+    }
+  ],
   "markdown/cmpp/1980/lc22.md": [
-    {
-      "line": "LETTRE CIRCULAIRE 22 — JUILLET 1980 11",
-      "heading": null
-    },
-    {
-      "line": "# LETTRE CIRCULAIRE 22",
-      "heading": "# Lettre circulaire 22"
-    },
-    {
-      "line": "## JUILLET 1980",
-      "heading": "## Juillet 1980"
-    },
     {
       "line": "## DECISIONS DIVINES",
       "heading": "## Décisions divines"
@@ -1598,145 +779,129 @@
     {
       "line": "## DIRECTIVES DIVINES",
       "heading": "## Directives divines"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1980/lc23.md": [
     {
-      "line": "OCTOBRE 1980",
-      "heading": null
-    },
-    {
-      "line": "SENTINELLES SUR LES MURS DE SION",
+      "line": "## SENTINELLES SUR LES MURS DE SION",
       "heading": "## Sentinelles sur les murs de Sion"
     },
     {
-      "line": "LA PROPHETIE DEVIENT REALITE",
+      "line": "## LA PROPHETIE DEVIENT REALITE",
       "heading": "## La prophétie devient réalité"
     },
     {
-      "line": "DU FEU PENDANT SEPT ANS",
+      "line": "## DU FEU PENDANT SEPT ANS",
       "heading": "## Du feu pendant sept ans"
     },
     {
-      "line": "CREATION D’ASSEMBLEES",
+      "line": "## CREATION D’ASSEMBLEES",
       "heading": "## Création d’assemblées"
     },
     {
-      "line": "PROMESSE DE FIDELITE",
+      "line": "## PROMESSE DE FIDELITE",
       "heading": "## Promesse de fidélité"
     },
     {
-      "line": "CITATION",
+      "line": "## CITATION",
       "heading": "## Citation"
     },
     {
-      "line": "EDITORIAL",
+      "line": "## EDITORIAL",
       "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1980/lc24.md": [
     {
-      "line": "DECEMBRE 1980",
-      "heading": null
-    },
-    {
-      "line": "QUI EST REMPLI DU SAINT-ESPRIT?",
+      "line": "## QUI EST REMPLI DU SAINT-ESPRIT?",
       "heading": "## Qui est rempli du Saint-Esprit?"
     },
     {
-      "line": "ETRE ENSEIGNE DE DIEU",
+      "line": "## ETRE ENSEIGNE DE DIEU",
       "heading": "## Être enseigné de Dieu"
     },
     {
-      "line": "CE QUI EST CHARNEL VIENT EN PREMIER",
+      "line": "## CE QUI EST CHARNEL VIENT EN PREMIER",
       "heading": "## Ce qui est charnel vient en premier"
     },
     {
-      "line": "LE DISCERNEMENT EST NECESSAIRE",
+      "line": "## LE DISCERNEMENT EST NECESSAIRE",
       "heading": "## Le discernement est nécessaire"
     },
     {
-      "line": "CRITIQUES DES TRADUCTIONS",
+      "line": "## CRITIQUES DES TRADUCTIONS",
       "heading": "## Critiques des traductions"
     },
     {
-      "line": "PREDICATIONS EN PARABOLES",
+      "line": "## PREDICATIONS EN PARABOLES",
       "heading": "## Prédications en paraboles"
     },
     {
-      "line": "RETABLISSEMENT SPIRITUEL",
+      "line": "## RETABLISSEMENT SPIRITUEL",
       "heading": "## Rétablissement spirituel"
     },
     {
-      "line": "EDITORIAL",
+      "line": "## EDITORIAL",
       "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1981/lc25.md": [
     {
-      "line": "FEVRIER 1981",
-      "heading": null
+      "line": "## EVENEMENTS REMARQUABLES",
+      "heading": "## Événements remarquables"
     },
     {
-      "line": "### EVENEMENTS REMARQUABLES",
-      "heading": "### Événements remarquables"
+      "line": "## JESUS, LE CRUCIFIE",
+      "heading": "## Jésus, le crucifié"
     },
     {
-      "line": "### JESUS, LE CRUCIFIE",
-      "heading": "### Jésus, le crucifié"
+      "line": "## LA VERITABLE SACRIFICATURE",
+      "heading": "## La véritable sacrificature"
     },
     {
-      "line": "### LA VERITABLE SACRIFICATURE",
-      "heading": "### La véritable sacrificature"
+      "line": "## L’INTERCESSEUR",
+      "heading": "## L’intercesseur"
     },
     {
-      "line": "### L’INTERCESSEUR",
-      "heading": "### L’intercesseur"
+      "line": "## L’EVANGILE DU ROYAUME",
+      "heading": "## L’évangile du royaume"
     },
     {
-      "line": "### L’EVANGILE DU ROYAUME",
-      "heading": "### L’Évangile du royaume"
+      "line": "## D’UN MEME PAS",
+      "heading": "## D’un même pas"
     },
     {
-      "line": "### D’UN MEME PAS",
-      "heading": "### D’un même pas"
-    },
-    {
-      "line": "### EDITORIAL",
-      "heading": "### Éditorial"
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1982/lc26.md": [
     {
-      "line": "ECLAIRCISSEMENTS",
+      "line": "## ECLAIRCISSEMENTS",
       "heading": "## Éclaircissements"
     },
     {
-      "line": "FALSIFICATIONS INTENTIONNELLES",
+      "line": "## FALSIFICATIONS INTENTIONNELLES",
       "heading": "## Falsifications intentionnelles"
     },
     {
-      "line": "RECIT DE VOYAGES",
+      "line": "## RECIT DE VOYAGES",
       "heading": "## Récit de voyages"
     },
     {
-      "line": "EDITORIAL",
+      "line": "## EDITORIAL",
       "heading": "## Éditorial"
     },
     {
-      "line": "COMMUNIQUE",
+      "line": "## COMMUNIQUE",
       "heading": "## Communiqué"
     }
   ],
   "markdown/cmpp/1982/lc27.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 27",
-      "heading": "# Lettre circulaire 27"
-    },
-    {
-      "line": "## OCTOBRE 1982",
-      "heading": "## Octobre 1982"
-    },
     {
       "line": "## NOUVELLES DE VOYAGE",
       "heading": "## Nouvelles de voyage"
@@ -1748,13 +913,13 @@
     {
       "line": "## EDITORIAL",
       "heading": "## Éditorial"
+    },
+    {
+      "line": "## PHOTOS",
+      "heading": "## Photos"
     }
   ],
   "markdown/cmpp/1983/lc28.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 28",
-      "heading": "# Lettre circulaire 28"
-    },
     {
       "line": "## REFLEXIONS",
       "heading": "## Réflexions"
@@ -1765,14 +930,6 @@
     }
   ],
   "markdown/cmpp/1983/lc29.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 29",
-      "heading": "# Lettre circulaire 29"
-    },
-    {
-      "line": "## JUIN 1983",
-      "heading": "## Juin 1983"
-    },
     {
       "line": "## LIBERTE SPIRITUELLE",
       "heading": "## Liberté spirituelle"
@@ -1790,69 +947,7 @@
       "heading": "## Événements particuliers"
     }
   ],
-  "markdown/cmpp/1975/lc3.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 3",
-      "heading": "# Lettre circulaire 3"
-    },
-    {
-      "line": "## AOUT 1975",
-      "heading": "## Août 1975"
-    },
-    {
-      "line": "## L’ACHEVEMENT DE L’OEUVRE DE DIEU",
-      "heading": "## L’achèvement de l’œuvre de Dieu"
-    },
-    {
-      "line": "## ETRE ASSIS DANS LA CHAIRE DE MOISE",
-      "heading": "## Être assis dans la chaire de Moïse"
-    },
-    {
-      "line": "## ETRE ASSIS DANS LA CHAIRE DE PIERRE",
-      "heading": "## Être assis dans la chaire de Pierre"
-    },
-    {
-      "line": "## ETRE ASSIS DANS LA CHAIRE DE PAUL",
-      "heading": "## Être assis dans la chaire de Paul"
-    },
-    {
-      "line": "## ETRE ASSIS DANS LA CHAIRE DES PERES DE L’EGLISE",
-      "heading": "## Être assis dans la chaire des Pères de l’Église"
-    },
-    {
-      "line": "## ETRE ASSIS DANS LA CHAIRE DE BRANHAM",
-      "heading": "## Être assis dans la chaire de Branham"
-    },
-    {
-      "line": "## COLLABORATION",
-      "heading": "## Collaboration"
-    },
-    {
-      "line": "## TRADUCTION",
-      "heading": "## Traduction"
-    },
-    {
-      "line": "## COPYRIGHT",
-      "heading": "## Copyright"
-    },
-    {
-      "line": "## EDITORIAL",
-      "heading": "## Éditorial"
-    }
-  ],
   "markdown/cmpp/1983/lc30.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 30",
-      "heading": "# Lettre circulaire 30"
-    },
-    {
-      "line": "## OCTOBRE 1983",
-      "heading": "## Octobre 1983"
-    },
-    {
-      "line": "# APPEL AU REVEIL",
-      "heading": "# Appel au réveil"
-    },
     {
       "line": "## MELANGE",
       "heading": "## Mélange"
@@ -1868,41 +963,145 @@
     {
       "line": "## EDITORIAL",
       "heading": "## Éditorial"
+    },
+    {
+      "line": "## APPEL AU REVEIL",
+      "heading": "## Appel au réveil"
+    }
+  ],
+  "markdown/cmpp/1985/christianisme.md": [
+    {
+      "line": "# LE CHRISTIANISME HIER ET AUJOURD’HUI",
+      "heading": "# Le christianisme hier et aujourd’hui"
+    },
+    {
+      "line": "## AVANT-PROPOS",
+      "heading": "## Avant-propos"
+    },
+    {
+      "line": "## QUELLE EST LA RELIGION JUSTE?",
+      "heading": "## Quelle est la religion juste?"
+    },
+    {
+      "line": "## DERNIERES VOLONTES",
+      "heading": "## Dernières volontés"
+    },
+    {
+      "line": "## PRETENTIONS NON BIBLIQUES",
+      "heading": "## Prétentions non bibliques"
+    },
+    {
+      "line": "## UN MALENTENDU",
+      "heading": "## Un malentendu"
+    },
+    {
+      "line": "## LES CLEFS",
+      "heading": "## Les clefs"
+    },
+    {
+      "line": "## PLEINS POUVOIRS APOSTOLIQUES",
+      "heading": "## Pleins pouvoirs apostoliques"
+    },
+    {
+      "line": "## PARDON DES PECHES",
+      "heading": "## Pardon des péchés"
+    },
+    {
+      "line": "## NOUVEAU COMMENCEMENT",
+      "heading": "## Nouveau commencement"
+    }
+  ],
+  "markdown/cmpp/1985/dieu_et_son_plan.md": [
+    {
+      "line": "## LA DIVINITE",
+      "heading": "## La divinité"
+    },
+    {
+      "line": "## LE SEIGNEUR DANS UNE FORME D’ANGE",
+      "heading": "## Le Seigneur dans une forme d’ange"
+    },
+    {
+      "line": "## UNE PAROLE D’ECLAIRCISSEMENT",
+      "heading": "## Une parole d’éclaircissement"
+    },
+    {
+      "line": "## LA TRANSITION",
+      "heading": "## La transition"
+    },
+    {
+      "line": "## LE CREATEUR",
+      "heading": "## Le Créateur"
+    },
+    {
+      "line": "## LE JE SUIS",
+      "heading": "## Le Je suis"
+    },
+    {
+      "line": "# DIEU ET SON PLAN POUR L’HUMANITE",
+      "heading": "# Dieu et son plan pour l’humanité"
+    },
+    {
+      "line": "## AVANT-PROPOS",
+      "heading": "## Avant-propos"
+    },
+    {
+      "line": "## LE ROI",
+      "heading": "## Le roi"
+    },
+    {
+      "line": "## LE JUGE",
+      "heading": "## Le juge"
+    },
+    {
+      "line": "## L’INTERRUPTION",
+      "heading": "## L’interruption"
+    },
+    {
+      "line": "## LE PONT",
+      "heading": "## Le pont"
+    },
+    {
+      "line": "## CREATION DIVINE",
+      "heading": "## Création divine"
+    },
+    {
+      "line": "## LA QUALITE DE FILS",
+      "heading": "## La qualité de fils"
+    },
+    {
+      "line": "## L’HUMANITE DE JESUS-CHRIST",
+      "heading": "## L’humanité de Jésus-Christ"
+    },
+    {
+      "line": "## LE SERVITEUR",
+      "heading": "## Le serviteur"
+    },
+    {
+      "line": "## LE PROPHETE",
+      "heading": "## Le prophète"
+    },
+    {
+      "line": "## L’AGNEAU DE DIEU",
+      "heading": "## L’agneau de Dieu"
+    },
+    {
+      "line": "## LE SACRIFICATEUR",
+      "heading": "## Le sacrificateur"
+    },
+    {
+      "line": "## MEDIATEUR ET INTERCESSEUR",
+      "heading": "## Médiateur et intercesseur"
+    },
+    {
+      "line": "## DES FILS DE DIEU",
+      "heading": "## Des fils de Dieu"
+    },
+    {
+      "line": "## CELUI QUI EST DIGNE D’HONNEUR",
+      "heading": "## Celui qui est digne d’honneur"
     }
   ],
   "markdown/cmpp/1985/lc31.md": [
-    {
-      "line": "LETTRE CIRCULAIRE 31 — JANVIER 1985 11",
-      "heading": null
-    },
-    {
-      "line": "EDITORIAL",
-      "heading": "## Éditorial"
-    },
-    {
-      "line": "LETTRE CIRCULAIRE 31 — JANVIER 1985 12",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE 31 — JANVIER 1985 13",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE 31 — JANVIER 1985 14",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE 31 — JANVIER 1985 15",
-      "heading": null
-    },
-    {
-      "line": "# LETTRE CIRCULAIRE 31",
-      "heading": "# Lettre circulaire 31"
-    },
-    {
-      "line": "## JANVIER 1985",
-      "heading": "## Janvier 1985"
-    },
     {
       "line": "## LE RETOUR DE JESUS-CHRIST",
       "heading": "## Le retour de Jésus-Christ"
@@ -1914,17 +1113,83 @@
     {
       "line": "## COUP D’OEIL RETROSPECTIF SUR L’ANNEE 1984",
       "heading": "## Coup d’œil rétrospectif sur l’année 1984"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    }
+  ],
+  "markdown/cmpp/1986/antichrist.md": [
+    {
+      "line": "## AVANT-PROPOS",
+      "heading": "## Avant-propos"
+    },
+    {
+      "line": "## INTRODUCTION",
+      "heading": "## Introduction"
+    },
+    {
+      "line": "## ANTI = CONTRE",
+      "heading": "## Anti = contre"
+    },
+    {
+      "line": "## SA PROVENANCE",
+      "heading": "## Sa provenance"
+    },
+    {
+      "line": "## DEVOILEMENT DU MYSTERE",
+      "heading": "## Dévoilement du mystère"
+    },
+    {
+      "line": "# L’ANTICHRIST",
+      "heading": "# L’antichrist"
+    },
+    {
+      "line": "## CHRIST ET L’ANTICHRIST",
+      "heading": "## Christ et l’antichrist"
+    },
+    {
+      "line": "## L’ORIGINE",
+      "heading": "## L’origine"
+    },
+    {
+      "line": "## L’ARROGANCE",
+      "heading": "## L’arrogance"
+    },
+    {
+      "line": "## INDICES PARTICULIERS",
+      "heading": "## Indices particuliers"
+    },
+    {
+      "line": "## LA PROSTITUEE ASSISE SUR LA BETE",
+      "heading": "## La prostituée assise sur la bête"
+    },
+    {
+      "line": "## EUROPE DE L’EST ET DE L’OUEST",
+      "heading": "## Europe de l’Est et de l’Ouest"
+    },
+    {
+      "line": "## LA BETE AVEC LES DEUX CORNES",
+      "heading": "## La bête avec les deux cornes"
+    },
+    {
+      "line": "## L’IMAGE DE LA BETE",
+      "heading": "## L’image de la bête"
+    },
+    {
+      "line": "## LA MARQUE DE LA BETE",
+      "heading": "## La marque de la bête"
+    },
+    {
+      "line": "## LE NOMBRE MYSTERIEUX",
+      "heading": "## Le nombre mystérieux"
+    },
+    {
+      "line": "## UNE COMPARAISON PRECISE",
+      "heading": "## Une comparaison précise"
     }
   ],
   "markdown/cmpp/1986/lc32.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 32",
-      "heading": "# Lettre circulaire 32"
-    },
-    {
-      "line": "## JANVIER 1986",
-      "heading": "## Janvier 1986"
-    },
     {
       "line": "## RETOUR A LA PAROLE",
       "heading": "## Retour à la Parole"
@@ -1940,53 +1205,59 @@
     {
       "line": "## REGARDS EN ARRIERE",
       "heading": "## Regards en arrière"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    }
+  ],
+  "markdown/cmpp/1987/il_est_ecrit.md": [
+    {
+      "line": "# IL EST ECRIT…",
+      "heading": "# Il est écrit…"
+    },
+    {
+      "line": "## AVANT-PROPOS",
+      "heading": "## Avant-propos"
+    },
+    {
+      "line": "## IL EST ECRIT…",
+      "heading": "## Il est écrit…"
+    },
+    {
+      "line": "## ETRE UN DANS L’ESPRIT",
+      "heading": "## Être un dans l’Esprit"
+    },
+    {
+      "line": "## LA CONDITION",
+      "heading": "## La condition"
+    },
+    {
+      "line": "## REPETITION?",
+      "heading": "## Répétition?"
+    },
+    {
+      "line": "## DISPENSER DROITEMENT LA PAROLE",
+      "heading": "## Dispenser droitement la Parole"
+    },
+    {
+      "line": "## D’UNE IMPORTANCE PARTICULIERE",
+      "heading": "## D’une importance particulière"
+    },
+    {
+      "line": "## DE VERITABLES PROPHETES",
+      "heading": "## De véritables prophètes"
+    },
+    {
+      "line": "## UN DEFI",
+      "heading": "## Un défi"
+    },
+    {
+      "line": "## TEMOIGNAGE PERSONNEL",
+      "heading": "## Témoignage personnel"
     }
   ],
   "markdown/cmpp/1987/lc33.md": [
-    {
-      "line": "LETTRE CIRCULAIRE 33 — JANVIER 1987    23",
-      "heading": null
-    },
-    {
-      "line": "# LETTRE CIRCULAIRE 33",
-      "heading": "# Lettre circulaire 33"
-    },
-    {
-      "line": "## JANVIER 1987",
-      "heading": "## Janvier 1987"
-    },
-    {
-      "line": "### 20 ANS DE TRAVAIL MISSIONNAIRE DANS LE MONDE ENTIER",
-      "heading": "### 20 ans de travail missionnaire dans le monde entier"
-    },
-    {
-      "line": "### UNE NOUVELLE PERIODE",
-      "heading": "### Une nouvelle période"
-    },
-    {
-      "line": "### APPEL AU MINISTERE",
-      "heading": "### Appel au ministère"
-    },
-    {
-      "line": "### TACHES DIVERSES",
-      "heading": "### Tâches diverses"
-    },
-    {
-      "line": "### UNE PHASE NOUVELLE",
-      "heading": "### Une phase nouvelle"
-    },
-    {
-      "line": "### INSTRUCTIONS DIRECTES",
-      "heading": "### Instructions directes"
-    },
-    {
-      "line": "### DOCTRINES PERNICIEUSES",
-      "heading": "### Doctrines pernicieuses"
-    },
-    {
-      "line": "### LE JUGE",
-      "heading": "### Le juge"
-    },
     {
       "line": "## PARTICIPANT DE SON PLAN",
       "heading": "## Participant de son plan"
@@ -2002,17 +1273,45 @@
     {
       "line": "## LE THEME VIEUX COMME LE MONDE",
       "heading": "## Le thème vieux comme le monde"
+    },
+    {
+      "line": "## 20 ANS DE TRAVAIL MISSIONNAIRE DANS LE MONDE ENTIER",
+      "heading": "## 20 ans de travail missionnaire dans le monde entier"
+    },
+    {
+      "line": "## UNE NOUVELLE PERIODE",
+      "heading": "## Une nouvelle période"
+    },
+    {
+      "line": "## APPEL AU MINISTERE",
+      "heading": "## Appel au ministère"
+    },
+    {
+      "line": "## TACHES DIVERSES",
+      "heading": "## Tâches diverses"
+    },
+    {
+      "line": "## UNE PHASE NOUVELLE",
+      "heading": "## Une phase nouvelle"
+    },
+    {
+      "line": "## INSTRUCTIONS DIRECTES",
+      "heading": "## Instructions directes"
+    },
+    {
+      "line": "## DOCTRINES PERNICIEUSES",
+      "heading": "## Doctrines pernicieuses"
+    },
+    {
+      "line": "## LE JUGE",
+      "heading": "## Le juge"
+    },
+    {
+      "line": "## EN AVANT",
+      "heading": "## En avant"
     }
   ],
   "markdown/cmpp/1988/lc34.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 34",
-      "heading": "# Lettre circulaire 34"
-    },
-    {
-      "line": "## JANVIER 1988",
-      "heading": "## Janvier 1988"
-    },
     {
       "line": "## REPETITION D’UN ECLAIRCISSEMENT",
       "heading": "## Répétition d’un éclaircissement"
@@ -2040,39 +1339,99 @@
     {
       "line": "## REMERCIEMENTS",
       "heading": "## Remerciements"
+    },
+    {
+      "line": "## COMMUNIQUES DIVERS",
+      "heading": "## Communiqués divers"
+    }
+  ],
+  "markdown/cmpp/1988/predication_bruxelles_1988.md": [
+    {
+      "line": "## DONNEE A BRUXELLES LE SAMEDI 9 AVRIL 1988",
+      "heading": "## Donnée à Bruxelles le samedi 9 avril 1988"
+    }
+  ],
+  "markdown/cmpp/1988/retour.md": [
+    {
+      "line": "# LE RETOUR DE CHRIST",
+      "heading": "# Le retour de Christ"
+    },
+    {
+      "line": "## AVANT-PROPOS",
+      "heading": "## Avant-propos"
+    },
+    {
+      "line": "## CELA S’ACCOMPLIRA REELLEMENT",
+      "heading": "## Cela s’accomplira réellement"
+    },
+    {
+      "line": "## ASPIRATION REALISEE",
+      "heading": "## Aspiration réalisée"
+    },
+    {
+      "line": "## LE CRI DE COMMANDEMENT",
+      "heading": "## Le cri de commandement"
+    },
+    {
+      "line": "## LA VOIX D’UN ARCHANGE",
+      "heading": "## La voix d’un archange"
+    },
+    {
+      "line": "## LA TROMPETTE",
+      "heading": "## La trompette"
+    },
+    {
+      "line": "## LA CONDITION",
+      "heading": "## La condition"
+    },
+    {
+      "line": "## PLAN DU TEMPS",
+      "heading": "## Plan du temps"
+    },
+    {
+      "line": "## LA RETRIBUTION",
+      "heading": "## La rétribution"
+    },
+    {
+      "line": "## LA TRANSITION",
+      "heading": "## La transition"
+    },
+    {
+      "line": "## LE MILLENIUM",
+      "heading": "## Le millénium"
+    },
+    {
+      "line": "## LA FIN DU TEMPS",
+      "heading": "## La fin du temps"
     }
   ],
   "markdown/cmpp/1989/lc35.md": [
     {
-      "line": "JANVIER 1989",
-      "heading": null
-    },
-    {
-      "line": "MODELE DU NOUVEAU TESTAMENT",
+      "line": "## MODELE DU NOUVEAU TESTAMENT",
       "heading": "## Modèle du Nouveau Testament"
     },
     {
-      "line": "SEUL DIEU EST INFAILLIBLE",
+      "line": "## SEUL DIEU EST INFAILLIBLE",
       "heading": "## Seul Dieu est infaillible"
     },
     {
-      "line": "ACHEVEMENT DE L’OEUVRE",
+      "line": "## ACHEVEMENT DE L’OEUVRE",
       "heading": "## Achèvement de l’œuvre"
     },
     {
-      "line": "LETTRE CIRCULAIRE 35 — JANVIER 1989    12",
-      "heading": null
+      "line": "## TRAVAIL EN COMMUN",
+      "heading": "## Travail en commun"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    },
+    {
+      "line": "## REMERCIEMENTS",
+      "heading": "## Remerciements"
     }
   ],
   "markdown/cmpp/1990/lc36.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 36",
-      "heading": "# Lettre circulaire 36"
-    },
-    {
-      "line": "## JANVIER 1990",
-      "heading": "## Janvier 1990"
-    },
     {
       "line": "## SIGNE DES TEMPS",
       "heading": "## Signe des temps"
@@ -2088,14 +1447,6 @@
   ],
   "markdown/cmpp/1991/lc37.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 37",
-      "heading": "# Lettre circulaire 37"
-    },
-    {
-      "line": "## JANVIER 1991",
-      "heading": "## Janvier 1991"
-    },
-    {
       "line": "## MISE EN PLACE DES AIGUILLAGES",
       "heading": "## Mise en place des aiguillages"
     },
@@ -2104,23 +1455,17 @@
       "heading": "## Nouvelles missionnaires"
     }
   ],
+  "markdown/cmpp/1991/lettre_ouverte.md": [
+    {
+      "line": "### LE PEUPLE ET LE PAYS D’ISRAEL",
+      "heading": "### Le peuple et le pays d’Israël"
+    },
+    {
+      "line": "## RESULTAT",
+      "heading": "## Résultat"
+    }
+  ],
   "markdown/cmpp/1992/lc38.md": [
-    {
-      "line": "**À découper et renvoyer à l’adresse suivante:**",
-      "heading": null
-    },
-    {
-      "line": "**CONCERNE LE LIVRE DE FRERE EWALD FRANK**",
-      "heading": null
-    },
-    {
-      "line": "# LETTRE CIRCULAIRE 38",
-      "heading": "# Lettre circulaire 38"
-    },
-    {
-      "line": "## JANVIER 1992",
-      "heading": "## Janvier 1992"
-    },
     {
       "line": "## LE SIGNE",
       "heading": "## Le signe"
@@ -2144,18 +1489,6 @@
   ],
   "markdown/cmpp/1993/lc39.md": [
     {
-      "line": "EDITORIAL",
-      "heading": "## Éditorial"
-    },
-    {
-      "line": "# LETTRE CIRCULAIRE 39",
-      "heading": "# Lettre circulaire 39"
-    },
-    {
-      "line": "## JANVIER 1993",
-      "heading": "## Janvier 1993"
-    },
-    {
       "line": "## QUESTIONS ET REPONSES",
       "heading": "## Questions et réponses"
     },
@@ -2170,27 +1503,13 @@
     {
       "line": "## CONFERENCE INTERNATIONALE",
       "heading": "## Conférence internationale"
-    }
-  ],
-  "markdown/cmpp/1975/lc4.md": [
-    {
-      "line": "NOVEMBRE 1975",
-      "heading": null
     },
     {
-      "line": "L’ACTION DE L’ESPRIT DE DIEU DANS L’EGLISE",
-      "heading": "## L’action de l’Esprit de Dieu dans l’Église"
-    },
-    {
-      "line": "EDITORIAL",
+      "line": "## EDITORIAL",
       "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1993/lc40.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 40",
-      "heading": "# Lettre circulaire 40"
-    },
     {
       "line": "## DEVELOPPEMENT SPIRITUEL",
       "heading": "## Développement spirituel"
@@ -2218,101 +1537,133 @@
   ],
   "markdown/cmpp/1994/lc41.md": [
     {
-      "line": "MULTIPLICITE DES TACHES",
+      "line": "## LA REPONSE DIVINE DANS L’EGLISE",
+      "heading": "## La réponse divine dans l’Église"
+    },
+    {
+      "line": "## CONCLUSION",
+      "heading": "## Conclusion"
+    },
+    {
+      "line": "## NOUVELLES MISSIONNAIRES",
+      "heading": "## Nouvelles missionnaires"
+    },
+    {
+      "line": "## MULTIPLICITE DES TACHES",
       "heading": "## Multiplicité des tâches"
     },
     {
-      "line": "# LETTRE CIRCULAIRE 41",
-      "heading": "# Lettre circulaire 41"
-    },
-    {
-      "line": "## JANVIER 1994",
-      "heading": "## Janvier 1994"
-    },
-    {
-      "line": "## LA REPONSE DIVINE DANS L’EGLISE",
-      "heading": "## La réponse divine dans l’Église"
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1994/lc42.md": [
     {
-      "line": "LETTRE CIRCULAIRE 42",
-      "heading": null
+      "line": "## LLES SOIXANTE-DIX SEMAINES DE DANIEL ET LES EVENEMENTS ACTUELS A LA LUMIERE DE LA PROPHETIE BIBLIQUE",
+      "heading": "## Lles soixante-dix semaines de Daniel et les événements actuels à la lumière de la prophétie biblique"
     },
     {
-      "line": "LETTRE CIRCULAIRE 42 — MAI 1994    14",
-      "heading": null
+      "line": "## LA CHOSE DOIT ETRE PRISE D’UNE MANIERE RIGOUREUSE",
+      "heading": "## La chose doit être prise d’une manière rigoureuse"
     },
     {
-      "line": "## LES SOIXANTE-DIX SEMAINES DE DANIEL ET LES EVENEMENTS ACTUELS A LA LUMIERE DE LA PROPHETIE BIBLIQUE",
-      "heading": "## Les soixante-dix semaines de Daniel et les événements actuels à la lumière de la prophétie biblique"
+      "line": "## LA RECONSTRUCTION DE JERUSALEM",
+      "heading": "## La reconstruction de Jérusalem"
     },
     {
-      "line": "### LA CHOSE DOIT ETRE PRISE D’UNE MANIERE RIGOUREUSE",
-      "heading": "### La chose doit être prise d’une manière rigoureuse"
+      "line": "## REPARTITION SCRIPTURAIRE",
+      "heading": "## Répartition scripturaire"
     },
     {
-      "line": "### LA RECONSTRUCTION DE JERUSALEM",
-      "heading": "### La reconstruction de Jérusalem"
+      "line": "## SIGNES DES TEMPS",
+      "heading": "## Signes des temps"
     },
     {
-      "line": "### REPARTITION SCRIPTURAIRE",
-      "heading": "### Répartition scripturaire"
+      "line": "## JERUSALEM — LA PIERRE PESANTE",
+      "heading": "## Jérusalem — la pierre pesante"
     },
     {
-      "line": "### SIGNES DES TEMPS",
-      "heading": "### Signes des temps"
+      "line": "## LES DERNIERS JOURS",
+      "heading": "## Les derniers jours"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1995/lc43.md": [
     {
-      "line": "JANVIER 1995",
-      "heading": null
+      "line": "## EXPERIENCE PERSONNELLE…",
+      "heading": "## Expérience personnelle…"
     },
     {
-      "line": "### EXPERIENCE PERSONNELLE…",
-      "heading": "### Expérience personnelle…"
+      "line": "## CELA EST REELLEMENT ARRIVE…",
+      "heading": "## Cela est réellement arrivé…"
     },
     {
-      "line": "### CELA EST REELLEMENT ARRIVE…",
-      "heading": "### Cela est réellement arrivé…"
+      "line": "## DOCTRINE ET CONNAISSANCE",
+      "heading": "## Doctrine et connaissance"
     },
     {
-      "line": "### DOCTRINE ET CONNAISSANCE",
-      "heading": "### Doctrine et connaissance"
+      "line": "## JUSTE JUGEMENT",
+      "heading": "## Juste jugement"
     },
     {
-      "line": "### JUSTE JUGEMENT",
-      "heading": "### Juste jugement"
+      "line": "## LA POSITION JUSTE",
+      "heading": "## La position juste"
     },
     {
-      "line": "### LA POSITION JUSTE",
-      "heading": "### La position juste"
+      "line": "## MINISTERE FONDE BIBLIQUEMENT",
+      "heading": "## Ministère fondé bibliquement"
     },
     {
-      "line": "### MINISTERE FONDE BIBLIQUEMENT",
-      "heading": "### Ministère fondé bibliquement"
+      "line": "## UNION EUROPEENNE",
+      "heading": "## Union européenne"
     },
     {
-      "line": "### UNION EUROPEENNE",
-      "heading": "### Union européenne"
+      "line": "## L’OPPRESSION VIENDRA…",
+      "heading": "## L’oppression viendra…"
+    },
+    {
+      "line": "## ISRAEL SOUS LES FEUX DE LA RAMPE",
+      "heading": "## Israël sous les feux de la rampe"
+    },
+    {
+      "line": "## FIN D’ANNEE",
+      "heading": "## Fin d’année"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1995/lc44.md": [
     {
-      "line": "LETTRE CIRCULAIRE 44 — MAI 1995                      10",
-      "heading": null
+      "line": "## UNE CORRECTION IMPORTANTE",
+      "heading": "## Une correction importante"
+    },
+    {
+      "line": "## LE NOM DU SEIGNEUR",
+      "heading": "## Le nom du Seigneur"
+    },
+    {
+      "line": "## CONFESSION DES PECHES",
+      "heading": "## Confession des péchés"
+    },
+    {
+      "line": "## CHARISMATISME — BENEDICTION DE TORONTO",
+      "heading": "## Charismatisme — bénédiction de Toronto"
+    },
+    {
+      "line": "## EUROPE — VATICAN — ISRAËL",
+      "heading": "## Europe — Vatican — Israël"
+    },
+    {
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
     }
   ],
   "markdown/cmpp/1996/lc45.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 45",
-      "heading": "# Lettre circulaire 45"
-    },
-    {
-      "line": "## JANVIER 1996",
-      "heading": "## Janvier 1996"
-    },
     {
       "line": "## COMBLER LA COUPE…",
       "heading": "## Combler la coupe…"
@@ -2328,39 +1679,77 @@
   ],
   "markdown/cmpp/1996/lc46.md": [
     {
-      "line": "JUIN 1996",
-      "heading": null
-    },
-    {
-      "line": "L’ARGUMENTATION",
+      "line": "## L’ARGUMENTATION",
       "heading": "## L’argumentation"
     },
     {
-      "line": "LE RETOUR DE CHRIST",
+      "line": "## LE RETOUR DE CHRIST",
       "heading": "## Le retour de Christ"
     },
     {
-      "line": "TRENTE ANS DANS LE SERVICE",
+      "line": "## TRENTE ANS DANS LE SERVICE",
       "heading": "## Trente ans dans le service"
     },
     {
-      "line": "EDITORIAL",
+      "line": "## EDITORIAL",
       "heading": "## Éditorial"
     },
     {
-      "line": "COMMUNIQUE",
+      "line": "## COMMUNIQUE",
       "heading": "## Communiqué"
     }
   ],
+  "markdown/cmpp/1996/vision_7000.md": [
+    {
+      "line": "# VISION 7000",
+      "heading": "# Vision 7000"
+    },
+    {
+      "line": "## INFORMATION GLOBALE",
+      "heading": "## Information globale"
+    },
+    {
+      "line": "## LES PROPHETIES BIBLIQUES ONT LE DERNIER MOT",
+      "heading": "## Les prophéties bibliques ont le dernier mot"
+    },
+    {
+      "line": "## LE JOUR DU SEIGNEUR",
+      "heading": "## Le jour du Seigneur"
+    },
+    {
+      "line": "## LE RETOUR DE CHRIST",
+      "heading": "## Le retour de Christ"
+    },
+    {
+      "line": "## LA MAJESTE DE LA CREATION",
+      "heading": "## La majesté de la création"
+    },
+    {
+      "line": "## DESTINES A VIVRE EN COMMUNION AVEC DIEU",
+      "heading": "## Destinés à vivre en communion avec Dieu"
+    },
+    {
+      "line": "## ACTION SURNATURELLE DE DIEU",
+      "heading": "## Action surnaturelle de Dieu"
+    },
+    {
+      "line": "## LE DERNIER APPEL",
+      "heading": "## Le dernier appel"
+    },
+    {
+      "line": "## TRADITIONS HUMAINES",
+      "heading": "## Traditions humaines"
+    },
+    {
+      "line": "## DECISION PERSONNELLE",
+      "heading": "## Décision personnelle"
+    },
+    {
+      "line": "## CONCLUSION",
+      "heading": "## Conclusion"
+    }
+  ],
   "markdown/cmpp/1997/lc47.md": [
-    {
-      "line": "JANVIER 1997",
-      "heading": null
-    },
-    {
-      "line": "NOUVELLES MISSIONNAIRES",
-      "heading": "## Nouvelles missionnaires"
-    },
     {
       "line": "## DU POINT DE VUE BIBLIQUE",
       "heading": "## Du point de vue biblique"
@@ -2368,91 +1757,77 @@
     {
       "line": "## NOUVELLES DU MONDE ENTIER",
       "heading": "## Nouvelles du monde entier"
+    },
+    {
+      "line": "## NOUVELLES MISSIONNAIRES",
+      "heading": "## Nouvelles missionnaires"
     }
   ],
   "markdown/cmpp/1998/lc48.md": [
     {
-      "line": "FEVRIER 1998",
-      "heading": null
+      "line": "## EXPERIENCE PARTICULIERE",
+      "heading": "## Expérience particulière"
     },
     {
-      "line": "LETTRE CIRCULAIRE 48 — FEVRIER 1998    11",
-      "heading": null
+      "line": "## RECIT DE TEMOINS OCULAIRES",
+      "heading": "## Récit de témoins oculaires"
     },
     {
-      "line": "### EXPERIENCE PARTICULIERE",
-      "heading": "### Expérience particulière"
+      "line": "## QUELQUE CHOSE SE FAIT",
+      "heading": "## Quelque chose se fait"
     },
     {
-      "line": "### RECIT DE TEMOINS OCULAIRES",
-      "heading": "### Récit de témoins oculaires"
+      "line": "## LE TEMPS EST PROCHE",
+      "heading": "## Le temps est proche"
     },
     {
-      "line": "### QUELQUE CHOSE SE FAIT",
-      "heading": "### Quelque chose se fait"
+      "line": "## ISRAEL",
+      "heading": "## Israël"
     },
     {
-      "line": "### LE TEMPS EST PROCHE",
-      "heading": "### Le temps est proche"
+      "line": "## L’EUROPE UNIE",
+      "heading": "## L’Europe unie"
     },
     {
-      "line": "### ISRAEL",
-      "heading": "### Israël"
+      "line": "## LA PANIQUE ENVERS LES SECTES",
+      "heading": "## La panique envers les sectes"
     },
     {
-      "line": "### L’EUROPE UNIE",
-      "heading": "### L’Europe unie"
+      "line": "## COMPTE-RENDU DE LA MISSION",
+      "heading": "## Compte-rendu de la mission"
     },
     {
-      "line": "### LA PANIQUE ENVERS LES SECTES",
-      "heading": "### La panique envers les sectes"
+      "line": "## EDITORIAL",
+      "heading": "## Éditorial"
+    },
+    {
+      "line": "## COMMUNIQUE",
+      "heading": "## Communiqué"
     }
   ],
   "markdown/cmpp/1998/lc49.md": [
     {
-      "line": "**LES PUISSANCES S’ANNONCENT**",
+      "line": "## LES PUISSANCES S’ANNONCENT",
       "heading": "## Les puissances s’annoncent"
     },
     {
-      "line": "**JERUSALEM EST-ELLE EN L’AN 2000 OU EN L’AN 6000?**",
+      "line": "## JERUSALEM EST-ELLE EN L’AN 2000 OU EN L’AN 6000?",
       "heading": "## Jérusalem est-elle en l’an 2000 ou en l’an 6000?"
     },
     {
-      "line": "**DEVELOPPEMENT DU TEMPS DE LA FIN**",
+      "line": "## DEVELOPPEMENT DU TEMPS DE LA FIN",
       "heading": "## Développement du temps de la fin"
     },
     {
-      "line": "**REPONSE A DIVERSES QUESTIONS**",
+      "line": "## REPONSE A DIVERSES QUESTIONS",
       "heading": "## Réponse à diverses questions"
     },
     {
-      "line": "**NOUVELLES MISSIONNAIRES**",
+      "line": "## NOUVELLES MISSIONNAIRES",
       "heading": "## Nouvelles missionnaires"
     }
   ],
-  "markdown/cmpp/1976/lc5.md": [
-    {
-      "line": "FEVRIER 1976",
-      "heading": null
-    },
-    {
-      "line": "**EVENEMENTS ACTUELS**",
-      "heading": "## Événements actuels"
-    },
-    {
-      "line": "**FIN D’ANNEE 1975**",
-      "heading": "## Fin d’année 1975"
-    }
-  ],
   "markdown/cmpp/1999/lc50.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 50",
-      "heading": "# Lettre circulaire 50"
-    },
-    {
-      "line": "## JANVIER 1999",
-      "heading": "## Janvier 1999"
-    },
     {
       "line": "## MAINTENANT, QUELQUE CHOSE ENCORE SUR LE THEME «JUGEMENT»",
       "heading": "## Maintenant, quelque chose encore sur le thème «jugement»"
@@ -2472,14 +1847,6 @@
   ],
   "markdown/cmpp/2000/lc51.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 51",
-      "heading": "# Lettre circulaire 51"
-    },
-    {
-      "line": "## JANVIER 2000",
-      "heading": "## Janvier 2000"
-    },
-    {
       "line": "## ISRAEL DANS LA PROPHETIE",
       "heading": "## Israël dans la prophétie"
     },
@@ -2497,22 +1864,6 @@
     }
   ],
   "markdown/cmpp/2001/lc52.md": [
-    {
-      "line": "LETTRE CIRCULAIRE 52 — AVRIL 2001    16",
-      "heading": null
-    },
-    {
-      "line": "# LETTRE CIRCULAIRE 52",
-      "heading": "# Lettre circulaire 52"
-    },
-    {
-      "line": "## AVRIL 2001",
-      "heading": "## Avril 2001"
-    },
-    {
-      "line": "# 40 ANNEES PARTICULIERES",
-      "heading": "# 40 années particulières"
-    },
     {
       "line": "## DIRECTIVES DIVINES",
       "heading": "## Directives divines"
@@ -2536,17 +1887,25 @@
     {
       "line": "## LE CENTRE MISSIONNAIRE",
       "heading": "## Le centre missionnaire"
+    },
+    {
+      "line": "## 40 ANNEES PARTICULIERES",
+      "heading": "## 40 années particulières"
+    },
+    {
+      "line": "## EPROUVEZ LES ESPRITS",
+      "heading": "## Éprouvez les esprits"
+    },
+    {
+      "line": "## UN NOUVEAU COMMENCEMENT",
+      "heading": "## Un nouveau commencement"
+    },
+    {
+      "line": "## REGARD RETROSPECTIF",
+      "heading": "## Regard rétrospectif"
     }
   ],
   "markdown/cmpp/2002/lc53.md": [
-    {
-      "line": "EMISSIONS PAR TV",
-      "heading": "## Émissions par TV"
-    },
-    {
-      "line": "LETTRE CIRCULAIRE 53 — FEVRIER 2002    13",
-      "heading": null
-    },
     {
       "line": "## LE SEIGNEUR PARLE AVEC NOUS",
       "heading": "## Le Seigneur parle avec nous"
@@ -2558,215 +1917,203 @@
     {
       "line": "## LE COMPTE A REBOURS COURT",
       "heading": "## Le compte à rebours court"
+    },
+    {
+      "line": "## APOCALYPSE 10",
+      "heading": "## Apocalypse 10"
+    },
+    {
+      "line": "## MISSIONS PAR TV",
+      "heading": "## Missions par TV"
+    },
+    {
+      "line": "## COMMUNIQUE",
+      "heading": "## Communiqué"
     }
   ],
   "markdown/cmpp/2003/lc54.md": [
     {
-      "line": "FEVRIER 2003",
-      "heading": null
-    },
-    {
-      "line": "LE TEMPS EST TOUT PROCHE",
+      "line": "## LE TEMPS EST TOUT PROCHE",
       "heading": "## Le temps est tout proche"
     },
     {
-      "line": "LE RETABLISSEMENT DU QUATRIEME EMPIRE",
+      "line": "## LE RETABLISSEMENT DU QUATRIEME EMPIRE",
       "heading": "## Le rétablissement du quatrième empire"
     },
     {
-      "line": "L’EGLISE ET LA HAINE DES JUIFS",
+      "line": "## L’EGLISE ET LA HAINE DES JUIFS",
       "heading": "## L’Église et la haine des Juifs"
     },
     {
-      "line": "LA FIN EST-ELLE EN VUE?",
+      "line": "## LA FIN EST-ELLE EN VUE?",
       "heading": "## La fin est-elle en vue?"
     }
   ],
   "markdown/cmpp/2004/lc55.md": [
     {
-      "line": "FEVRIER 2004",
-      "heading": null
-    },
-    {
-      "line": "TRES IMPORTANT",
+      "line": "## TRES IMPORTANT",
       "heading": "## Très important"
     },
     {
-      "line": "LA MEME CHOSE NE SE REPETE-T-ELLE PAS EXACTEMENT MAINTENANT?",
+      "line": "## LA MEME CHOSE NE SE REPETE-T-ELLE PAS EXACTEMENT MAINTENANT?",
       "heading": "## La même chose ne se répète-t-elle pas exactement maintenant?"
     },
     {
-      "line": "DECISIONS DIVINES",
+      "line": "## DECISIONS DIVINES",
       "heading": "## Décisions divines"
     },
     {
-      "line": "FAITS CONVAINCANTS",
+      "line": "## FAITS CONVAINCANTS",
       "heading": "## Faits convaincants"
     },
     {
-      "line": "LE THEME PARTICULIER",
+      "line": "## LE THEME PARTICULIER",
       "heading": "## Le thème particulier"
     },
     {
-      "line": "COMPARAISON",
+      "line": "## COMPARAISON",
       "heading": "## Comparaison"
     },
     {
-      "line": "**EVENEMENTS ACTUELS**",
+      "line": "## EN VERITE, EN VERITE, JE VOUS LE DIS…",
+      "heading": "## En vérité, en vérité, je vous le dis…"
+    },
+    {
+      "line": "## EVENEMENTS ACTUELS",
       "heading": "## Événements actuels"
     },
     {
-      "line": "**BIEN DES REMERCIEMENTS**",
+      "line": "## BIEN DES REMERCIEMENTS",
       "heading": "## Bien des remerciements"
     },
     {
-      "line": "**SUPPLEMENT**",
+      "line": "## SUPPLEMENT",
       "heading": "## Supplément"
     },
     {
-      "line": "**RASSEMBLEMENT PARTICULIER COMMEMORATIF DES 3 ET 4 AVRIL 2004**",
+      "line": "## RASSEMBLEMENT PARTICULIER COMMEMORATIF DES 3 ET 4 AVRIL 2004",
       "heading": "## Rassemblement particulier commémoratif des 3 et 4 avril 2004"
     },
     {
-      "line": "**VOYAGE EN ISRAEL**",
+      "line": "## VOYAGE EN ISRAEL",
       "heading": "## Voyage en Israël"
     }
   ],
   "markdown/cmpp/2005/lc56.md": [
     {
-      "line": "JANVIER 2005",
-      "heading": null
+      "line": "## EDITION SPECIALE DECISIVE",
+      "heading": "## Édition spéciale décisive"
     },
     {
-      "line": "LETTRE CIRCULAIRE 56 — JANVIER 2005 14",
-      "heading": null
+      "line": "## L’OEUVRE DE DIEU JUSQU’A L’ACHEVEMENT",
+      "heading": "## L’œuvre de Dieu jusqu’à l’achèvement"
     },
     {
-      "line": "LETTRE CIRCULAIRE 56 — JANVIER 2005 19",
-      "heading": null
+      "line": "## DEUX SIGNES DE LEGITIMATION",
+      "heading": "## Deux signes de légitimation"
     },
     {
-      "line": "EDITORIAL",
+      "line": "## APRES ETRE SORTI, IL S’AGIT D’ENTRER",
+      "heading": "## Après être sorti, il s’agit d’entrer"
+    },
+    {
+      "line": "## LES SAINTES ECRITURES, LA TRADITION ET LES INTERPRETATIONS",
+      "heading": "## Les saintes Écritures, la tradition et les interprétations"
+    },
+    {
+      "line": "## L’HEURE DE LA TENTATION",
+      "heading": "## L’heure de la tentation"
+    },
+    {
+      "line": "## LA MOISSON EST MURE",
+      "heading": "## La moisson est mûre"
+    },
+    {
+      "line": "## EVENEMENTS ACTUELS",
+      "heading": "## Événements actuels"
+    },
+    {
+      "line": "## ENCORE UN COURT RAPPORT MISSIONNAIRE",
+      "heading": "## Encore un court rapport missionnaire"
+    },
+    {
+      "line": "## MA VISITE A JEFFERSONVILLE",
+      "heading": "## Ma visite à Jeffersonville"
+    },
+    {
+      "line": "## UN TRES CHALEUREUX MERCI BEAUCOUP",
+      "heading": "## Un très chaleureux merci beaucoup"
+    },
+    {
+      "line": "## UNE TRES BONNE NOUVELLE",
+      "heading": "## Une très bonne nouvelle"
+    },
+    {
+      "line": "## EDITORIAL",
       "heading": "## Éditorial"
     },
     {
-      "line": "LETTRE CIRCULAIRE 56 — JANVIER 2005    22",
-      "heading": null
+      "line": "## LA PAILLE ET LE FROMENT",
+      "heading": "## La paille et le froment"
     },
     {
-      "line": "LETTRE CIRCULAIRE 56 — JANVIER 2005    23",
-      "heading": null
+      "line": "## COMMUNIQUE",
+      "heading": "## Communiqué"
     },
     {
-      "line": "LETTRE CIRCULAIRE 56 — JANVIER 2005    24",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE 56 — JANVIER 2005    25",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE 56 — JANVIER 2005    26",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE 56 — JANVIER 2005    27",
-      "heading": null
+      "line": "## PHOTOS",
+      "heading": "## Photos"
     }
   ],
   "markdown/cmpp/2005/lc57.md": [
     {
-      "line": "PRINTEMPS 2005",
-      "heading": null
-    },
-    {
-      "line": "LE CRI DE REVEIL DE MINUIT",
+      "line": "## LE CRI DE REVEIL DE MINUIT",
       "heading": "## Le cri de réveil de minuit"
     },
     {
-      "line": "EDITORIAL",
+      "line": "## ISRAËL ET SON CHEMIN DOULOUREUX",
+      "heading": "## Israël et son chemin douloureux"
+    },
+    {
+      "line": "## EDITORIAL",
       "heading": "## Éditorial"
-    }
-  ],
-  "markdown/cmpp/2005/lc58.md": [
-    {
-      "line": "# LETTRE CIRCULAIRE 58",
-      "heading": "# Lettre circulaire 58"
     },
     {
-      "line": "## NOVEMBRE 2005",
-      "heading": "## Novembre 2005"
-    },
-    {
-      "line": "# APPEL AU REVEIL",
-      "heading": "# Appel au réveil"
+      "line": "## LA GRACE ET LA VERITE",
+      "heading": "## La grâce et la vérité"
     }
   ],
   "markdown/cmpp/2006/lc59.md": [
     {
-      "line": "LETTRE CIRCULAIRE 59",
-      "heading": null
+      "line": "## L’ECRITURE NE PEUT ETRE ANEANTIE",
+      "heading": "## L’Écriture ne peut être anéantie"
     },
     {
-      "line": "FEVRIER 2006",
-      "heading": null
+      "line": "## UN REGARD SUR LE PASSE, LE PRESENT ET L’AVENIR",
+      "heading": "## Un regard sur le passé, le présent et l’avenir"
     },
     {
-      "line": "QUARANTE ANNEES — ESPACE DE TEMPS BIBLIQUE",
+      "line": "## QUARANTE ANNEES — ESPACE DE TEMPS BIBLIQUE",
       "heading": "## Quarante années — espace de temps biblique"
     },
     {
-      "line": "NOUVEAU COMMENCEMENT",
+      "line": "## NOUVEAU COMMENCEMENT",
       "heading": "## Nouveau commencement"
     },
     {
-      "line": "LETTRE CIRCULAIRE N°59 — FEVRIER 2006 7",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE N°59 — FEVRIER 2006                                                   8",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE N°59 — FEVRIER 2006    9",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE N°59 — FEVRIER 2006 10",
-      "heading": null
-    },
-    {
-      "line": "DIRECTIVES DE DIEU PENDANT LES QUARANTE ANNEES PASSEES",
+      "line": "## DIRECTIVES DE DIEU PENDANT LES QUARANTE ANNEES PASSEES",
       "heading": "## Directives de Dieu pendant les quarante années passées"
     },
     {
-      "line": "LETTRE CIRCULAIRE N°59 — FEVRIER 2006    17",
-      "heading": null
+      "line": "## RELATION RETROSPECTIVE DE LA PERIODE DE QUARANTE ANS",
+      "heading": "## Relation rétrospective de la période de quarante ans"
     },
     {
-      "line": "## L’ECRITURE NE PEUT ETRE ANEANTIE",
-      "heading": "## L’Écriture ne peut être anéantie"
-    }
-  ],
-  "markdown/cmpp/1976/lc6.md": [
-    {
-      "line": "LA PAROLE PROPHETIQUE",
-      "heading": "## La Parole prophétique"
-    },
-    {
-      "line": "REVOLTE CONTRE DIEU",
-      "heading": "## Révolte contre Dieu"
-    },
-    {
-      "line": "EDITORIAL",
-      "heading": "## Éditorial"
+      "line": "## RESUME",
+      "heading": "## Résumé"
     }
   ],
   "markdown/cmpp/2006/lc60.md": [
-    {
-      "line": "AVRIL 2006",
-      "heading": null
-    },
     {
       "line": "## UN COUP D’OEIL A L’INTERIEUR",
       "heading": "## Un coup d’œil à l’intérieur"
@@ -2790,92 +2137,382 @@
   ],
   "markdown/cmpp/2007/lc61.md": [
     {
-      "line": "LETTRE CIRCULAIRE 61",
-      "heading": null
-    },
-    {
-      "line": "FEVRIER 2007",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE N°61 — FEVRIER 2007    13",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE N°61 — FEVRIER 2007    14",
-      "heading": null
-    },
-    {
-      "line": "LETTRE CIRCULAIRE N°61 — FEVRIER 2007    15",
-      "heading": null
-    },
-    {
       "line": "## SA VOLONTE S’ACCOMPLIT DANS LES SIENS",
       "heading": "## Sa volonté s’accomplit dans les siens"
     },
     {
       "line": "## UNITE AUX DEPENS DE LA VERITE",
       "heading": "## Unité aux dépens de la vérité"
+    },
+    {
+      "line": "## AUCUNE UNITE AU PRIX DE LA VERITE",
+      "heading": "## Aucune unité au prix de la vérité"
+    },
+    {
+      "line": "## EVENEMENTS ACTUELS",
+      "heading": "## Événements actuels"
+    },
+    {
+      "line": "## TOUJOURS DE NOUVELLES INTERPRETATIONS",
+      "heading": "## Toujours de nouvelles interprétations"
     }
   ],
   "markdown/cmpp/2007/lc62.md": [
     {
-      "line": "LETTRE CIRCULAIRE 62",
-      "heading": null
+      "line": "## LA VERITABLE CONFESSION",
+      "heading": "## La véritable confession"
     },
     {
-      "line": "AVRIL 2007",
-      "heading": null
-    },
-    {
-      "line": "LE MONDE ENTIER DANS UNE SEULE MAIN",
+      "line": "## LE MONDE ENTIER DANS UNE SEULE MAIN",
       "heading": "## Le monde entier dans une seule main"
     },
     {
-      "line": "L’HEURE DE L’EPREUVE",
+      "line": "## L’HEURE DE L’EPREUVE",
       "heading": "## L’heure de l’épreuve"
     },
     {
-      "line": "LE TEMPS DE NETTOYER LES LAMPES",
+      "line": "## LE TEMPS DE NETTOYER LES LAMPES",
       "heading": "## Le temps de nettoyer les lampes"
     }
   ],
-  "markdown/cmpp/1976/lc7.md": [
+  "markdown/cmpp/2025/exhortation_annee_2025_A4_gc.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 7",
-      "heading": "# Lettre circulaire 7"
-    },
-    {
-      "line": "## JUILLET 1976",
-      "heading": "## Juillet 1976"
+      "line": "## EXHORTATION ANNEE 2025",
+      "heading": "## Exhortation année 2025"
     }
   ],
-  "markdown/cmpp/1976/lc8.md": [
+  "markdown/cmpp/2026/exhortation_annee_2026_A4.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 8",
-      "heading": "# Lettre circulaire 8"
-    },
-    {
-      "line": "## SEPTEMBRE 1976",
-      "heading": "## Septembre 1976"
-    },
-    {
-      "line": "## LA CHARGE CONFIEE A L’EGLISE",
-      "heading": "## La charge confiée à l’Église"
+      "line": "## EXHORTATION ANNEE 2026",
+      "heading": "## Exhortation année 2026"
     }
   ],
-  "markdown/cmpp/1976/lc9.md": [
+  "markdown/cmpp/2026/exhortation_annee_2026_A4_gc.md": [
     {
-      "line": "# LETTRE CIRCULAIRE 9",
-      "heading": "# Lettre circulaire 9"
+      "line": "## EXHORTATION ANNEE 2026",
+      "heading": "## Exhortation année 2026"
+    }
+  ],
+  "markdown/cmpp/undated/brl.md": [
+    {
+      "line": "# BAPTEME REPAS DU SEIGNEUR LAVAGE DES PIEDS",
+      "heading": "# Baptême repas du Seigneur lavage des pieds"
     },
     {
-      "line": "## NOVEMBRE 1976",
-      "heading": "## Novembre 1976"
+      "line": "## INTRODUCTION",
+      "heading": "## Introduction"
     },
     {
-      "line": "## EDITORIAL",
-      "heading": "## Éditorial"
+      "line": "## LE BAPTEME",
+      "heading": "## Le baptême"
+    },
+    {
+      "line": "## LA CONDITION",
+      "heading": "## La condition"
+    },
+    {
+      "line": "## LE NOM",
+      "heading": "## Le nom"
+    },
+    {
+      "line": "## ENSEIGNEMENT DES APOTRES",
+      "heading": "## Enseignement des apôtres"
+    },
+    {
+      "line": "## LA SIGNIFICATION",
+      "heading": "## La signification"
+    },
+    {
+      "line": "## EPROUVEZ LES ESPRITS",
+      "heading": "## Éprouvez les esprits"
+    },
+    {
+      "line": "## LE REPAS DU SEIGNEUR",
+      "heading": "## Le repas du Seigneur"
+    },
+    {
+      "line": "## ECLAIRCISSEMENTS NECESSAIRES",
+      "heading": "## Éclaircissements nécessaires"
+    },
+    {
+      "line": "## LE LAVAGE DES PIEDS",
+      "heading": "## Le lavage des pieds"
+    }
+  ],
+  "markdown/cmpp/undated/christ_et_son_eglise.md": [
+    {
+      "line": "# CHRIST ET SON EGLISE DANS LA PROPHETIE",
+      "heading": "# Christ et son Église dans la prophétie"
+    },
+    {
+      "line": "## INTRODUCTION",
+      "heading": "## Introduction"
+    },
+    {
+      "line": "## CHRIST SOUS SES DIFFERENTS ASPECTS",
+      "heading": "## Christ sous ses différents aspects"
+    },
+    {
+      "line": "## LA VISION DE PATMOS",
+      "heading": "## La vision de Patmos"
+    },
+    {
+      "line": "## POUR MONTRER A SES SERVITEURS…",
+      "heading": "## Pour montrer à ses serviteurs…"
+    },
+    {
+      "line": "## LA VOIX SEMBLABLE A UNE TROMPETTE",
+      "heading": "## La voix semblable à une trompette"
+    },
+    {
+      "line": "## LE FILS DE L’HOMME",
+      "heading": "## Le Fils de l’homme"
+    },
+    {
+      "line": "## LE MYSTERE DE CHRIST ET DE SON EGLISE",
+      "heading": "## Le mystère de Christ et de son Église"
+    },
+    {
+      "line": "## LES DIFFERENTS AGES",
+      "heading": "## Les différents âges"
+    },
+    {
+      "line": "## EGLISE D’EPHESE",
+      "heading": "## Église d’Éphèse"
+    },
+    {
+      "line": "## EGLISE DE SMYRNE",
+      "heading": "## Église de Smyrne"
+    },
+    {
+      "line": "## EGLISE DE PERGAME",
+      "heading": "## Église de Pergame"
+    },
+    {
+      "line": "## EGLISE DE THYATIRE",
+      "heading": "## Église de Thyatire"
+    },
+    {
+      "line": "## EGLISE DE SARDES",
+      "heading": "## Église de Sardes"
+    },
+    {
+      "line": "## EGLISE DE PHILADELPHIE",
+      "heading": "## Église de Philadelphie"
+    },
+    {
+      "line": "## EGLISE DE LAODICEE",
+      "heading": "## Église de Laodicée"
+    },
+    {
+      "line": "## VOICI, L’EPOUX VIENT",
+      "heading": "## Voici, l’Époux vient"
+    },
+    {
+      "line": "## L’ATTITUDE CORRECTE",
+      "heading": "## L’attitude correcte"
+    }
+  ],
+  "markdown/cmpp/undated/commencement.md": [
+    {
+      "line": "# AU COMMENCEMENT ETAIT LA PAROLE PAS L’INTERPRETATION",
+      "heading": "# Au commencement était la Parole pas l’interprétation"
+    },
+    {
+      "line": "## ACCUSATION — AVERTISSEMENT — CLARIFICATION",
+      "heading": "## Accusation — avertissement — clarification"
+    },
+    {
+      "line": "## AINSI COMMENÇA LA TROMPERIE",
+      "heading": "## Ainsi commença la tromperie"
+    },
+    {
+      "line": "## EPROUVEZ TOUTES CHOSES",
+      "heading": "## Éprouvez toutes choses"
+    },
+    {
+      "line": "## POURQUOI? POURQUOI?",
+      "heading": "## Pourquoi? Pourquoi?"
+    },
+    {
+      "line": "## QU’EST-CE QUI EST REELLEMENT SAINT?",
+      "heading": "## Qu’est-ce qui est réellement saint?"
+    },
+    {
+      "line": "## MATIERE A REFLEXION",
+      "heading": "## Matière à réflexion"
+    },
+    {
+      "line": "## DIEU SE FAIT CONNAITRE",
+      "heading": "## Dieu se fait connaître"
+    },
+    {
+      "line": "## UN SEUL EST ASSIS SUR LE TRONE!",
+      "heading": "## Un seul est assis sur le trône!"
+    },
+    {
+      "line": "## SORTI DE DIEU",
+      "heading": "## Sorti de Dieu"
+    },
+    {
+      "line": "## JE BATIRAI MON EGLISE",
+      "heading": "## Je bâtirai mon Église"
+    },
+    {
+      "line": "## QUELQU’UN DOIT LE DIRE",
+      "heading": "## Quelqu’un doit le dire"
+    },
+    {
+      "line": "## LE NOM DANS L’ANCIEN ET LE NOUVEAU TESTAMENT",
+      "heading": "## Le nom dans l’Ancien et le Nouveau Testament"
+    },
+    {
+      "line": "## LA GRANDE APOSTASIE",
+      "heading": "## La grande apostasie"
+    },
+    {
+      "line": "## DEFI",
+      "heading": "## Défi"
+    },
+    {
+      "line": "## QU’EST-CE QUI EST DIGNE DE FOI?",
+      "heading": "## Qu’est-ce qui est digne de foi?"
+    },
+    {
+      "line": "## LE TEMPS EST PROCHE",
+      "heading": "## Le temps est proche"
+    },
+    {
+      "line": "## VOICI, JE VIENS BIENTOT!",
+      "heading": "## Voici, je viens bientôt!"
+    },
+    {
+      "line": "## EPILOGUE",
+      "heading": "## Épilogue"
+    }
+  ],
+  "markdown/cmpp/undated/eden.md": [
+    {
+      "line": "## TOUJOURS LES DEUX SEMENCES",
+      "heading": "## Toujours les deux semences"
+    },
+    {
+      "line": "## LES DEUX ARBRES DANS LE JARDIN D’EDEN",
+      "heading": "## Les deux arbres dans le jardin d’Éden"
+    },
+    {
+      "line": "## LA SEDUCTION",
+      "heading": "## La séduction"
+    },
+    {
+      "line": "## LA LOI DE LA POSTERITE ET L’ARBRE GENEALOGIQUE D’ADAM",
+      "heading": "## La loi de la postérité et l’arbre généalogique d’Adam"
+    }
+  ],
+  "markdown/cmpp/undated/impact.md": [
+    {
+      "line": "# L’IMPACT DE LA REVELATION",
+      "heading": "# L’impact de la révélation"
+    },
+    {
+      "line": "## INTRODUCTION",
+      "heading": "## Introduction"
+    },
+    {
+      "line": "## DIEU ACHEVE SON OEUVRE",
+      "heading": "## Dieu achève son œuvre"
+    },
+    {
+      "line": "## LA VOIX DE DIEU “AUJOURD’HUI”",
+      "heading": "## La voix de Dieu “aujourd’hui”"
+    },
+    {
+      "line": "## LE MINISTERE D’UN PROPHETE",
+      "heading": "## Le ministère d’un prophète"
+    },
+    {
+      "line": "## LA PROMESSE POUR NOTRE TEMPS",
+      "heading": "## La promesse pour notre temps"
+    },
+    {
+      "line": "## L’ERE DU NOUVEAU TESTAMENT",
+      "heading": "## L’ère du Nouveau Testament"
+    },
+    {
+      "line": "## LE CHANDELIER D’OR",
+      "heading": "## Le chandelier d’or"
+    },
+    {
+      "line": "## LE LIVRE SCELLE",
+      "heading": "## Le livre scellé"
+    },
+    {
+      "line": "## VISITATION DES ANGES",
+      "heading": "## Visitation des anges"
+    },
+    {
+      "line": "## LA DIVINITE",
+      "heading": "## La divinité"
+    },
+    {
+      "line": "## LE BAPTEME SELON LES ECRITURES",
+      "heading": "## Le baptême selon les Écritures"
+    },
+    {
+      "line": "## MON TEMOIGNAGE",
+      "heading": "## Mon témoignage"
+    }
+  ],
+  "markdown/cmpp/undated/information_globale.md": [
+    {
+      "line": "## INFORMATION GLOBALE",
+      "heading": "## Information globale"
+    },
+    {
+      "line": "## ECLAIRCISSEMENT D’EN-HAUT",
+      "heading": "## Éclaircissement d’en-haut"
+    },
+    {
+      "line": "## LE MONDE ENTIER REGARDE A ROME",
+      "heading": "## Le monde entier regarde à Rome"
+    },
+    {
+      "line": "## L’HISTOIRE SE POURSUIT",
+      "heading": "## L’histoire se poursuit"
+    },
+    {
+      "line": "## UNE COMPARAISON CONVAINCANTE",
+      "heading": "## Une comparaison convaincante"
+    },
+    {
+      "line": "## SUR LE TERRAIN DES FAITS",
+      "heading": "## Sur le terrain des faits"
+    }
+  ],
+  "markdown/cmpp/undated/islam.md": [
+    {
+      "line": "# LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS",
+      "heading": "# La religion de l’islam à la lumière des événements mondiaux actuels"
+    },
+    {
+      "line": "## LE TEMPS DE MAHOMET",
+      "heading": "## Le temps de Mahomet"
+    },
+    {
+      "line": "## MAHOMET ET LES CHRETIENS",
+      "heading": "## Mahomet et les chrétiens"
+    },
+    {
+      "line": "## MAHOMET ET ALLAH",
+      "heading": "## Mahomet et Allah"
+    },
+    {
+      "line": "## CONCLUSION",
+      "heading": "## Conclusion"
+    },
+    {
+      "line": "## EPILOGUE",
+      "heading": "## Épilogue"
     }
   ],
   "markdown/cmpp/undated/le_bapteme_une_question_importante.md": [
@@ -2888,133 +2525,51 @@
       "heading": "## Le baptême dans l’eau"
     }
   ],
-  "markdown/cmpp/undated/le_jeune.md": [
+  "markdown/cmpp/undated/le_chemin_qui_mene_a_dieu.md": [
     {
-      "line": "## LE JEÛNE",
-      "heading": "## Le jeûne"
+      "line": "## LE CHEMIN QUI MENE A DIEU",
+      "heading": "## Le chemin qui mène à Dieu"
     }
   ],
   "markdown/cmpp/undated/les_70_semaines_de_daniel.md": [
     {
-      "line": "EWALD FRANK",
-      "heading": null
+      "line": "# REFLEXIONS SUR LES 70 SEMAINES DE DANIEL",
+      "heading": "# Réflexions sur les 70 semaines de Daniel"
     },
     {
-      "line": "LA CHOSE DOIT ETRE PRISE D'UNE MANIERE RIGOUREUSE",
-      "heading": "## La chose doit être prise d'une manière rigoureuse"
+      "line": "## ET LES EVENEMENTS ACTUELS A LA LUMIERE DE LA PROPHETIE BIBLIQUE",
+      "heading": "## Et les événements actuels à la lumière de la prophétie biblique"
     },
     {
-      "line": "LA RECONSTRUCTION DE JERUSALEM",
+      "line": "## LA CHOSE DOIT ETRE PRISE D’UNE MANIERE RIGOUREUSE",
+      "heading": "## La chose doit être prise d’une manière rigoureuse"
+    },
+    {
+      "line": "## LA RECONSTRUCTION DE JERUSALEM",
       "heading": "## La reconstruction de Jérusalem"
     },
     {
-      "line": "REPARTITION SCRIPTURAIRE",
+      "line": "## REPARTITION SCRIPTURAIRE",
       "heading": "## Répartition scripturaire"
     },
     {
-      "line": "SIGNES DES TEMPS",
+      "line": "## SIGNES DES TEMPS",
       "heading": "## Signes des temps"
     },
     {
-      "line": "JERUSALEM — LA PIERRE PESANTE",
+      "line": "## JERUSALEM — LA PIERRE PESANTE",
       "heading": "## Jérusalem — la pierre pesante"
     },
     {
-      "line": "LES DERNIERS JOURS",
+      "line": "## LES DERNIERS JOURS",
       "heading": "## Les derniers jours"
     },
     {
-      "line": "LES 70 SEMAINES DE DANIEL… 14",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/les_aigles_de_dieu.md": [
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "“LA PAROLE PARLEE EST LA SEMENCE ORIGINALE”",
-      "heading": null
-    },
-    {
-      "line": "LES AIGLES DE DIEU    2",
-      "heading": null
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 11",
-      "heading": "## Les aigles de Dieu 11"
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 12",
-      "heading": "## Les aigles de Dieu 12"
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 13",
-      "heading": "## Les aigles de Dieu 13"
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 14",
-      "heading": "## Les aigles de Dieu 14"
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 15",
-      "heading": "## Les aigles de Dieu 15"
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 16",
-      "heading": "## Les aigles de Dieu 16"
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 17",
-      "heading": "## Les aigles de Dieu 17"
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 18",
-      "heading": "## Les aigles de Dieu 18"
-    },
-    {
-      "line": "## LES AIGLES DE DIEU 19",
-      "heading": "## Les aigles de Dieu 19"
-    }
-  ],
-  "markdown/cmpp/1991/lettre_ouverte.md": [
-    {
-      "line": "LETTRE OUVERTE",
-      "heading": null
-    },
-    {
-      "line": "AVRIL 1991",
-      "heading": null
-    },
-    {
-      "line": "LE PEUPLE ET LE PAYS D’ISRAEL",
-      "heading": null
-    },
-    {
-      "line": "RESULTAT",
-      "heading": "## Résultat"
-    }
-  ],
-  "markdown/cmpp/1965/mariage_et_divorce.md": [
-    {
-      "line": "LA PAROLE PARLÉE",
-      "heading": null
-    },
-    {
-      "line": "MARIAGE ET DIVORCE    30",
-      "heading": null
+      "line": "## APPENDICE LE RETABLISSEMENT DU QUATRIEME EMPIRE",
+      "heading": "## Appendice le rétablissement du quatrième empire"
     }
   ],
   "markdown/cmpp/undated/mariage_frank.md": [
-    {
-      "line": "L’ORDRE DIVIN DEMEURE",
-      "heading": "## L’ordre divin demeure"
-    },
     {
       "line": "## INTRODUCTION",
       "heading": "## Introduction"
@@ -3026,24 +2581,118 @@
     {
       "line": "## C’EST AINSI QUE CELA COMMENCA",
       "heading": "## C’est ainsi que cela commença"
+    },
+    {
+      "line": "# LE MARIAGE: PROBLEME ANCIEN",
+      "heading": "# Le mariage: problème ancien"
+    },
+    {
+      "line": "## LA FIN DU “COMMENCEMENT”",
+      "heading": "## La fin du “commencement”"
+    },
+    {
+      "line": "## L’ORDRE DIVIN DEMEURE",
+      "heading": "## L’ordre divin demeure"
+    },
+    {
+      "line": "## QU’EST-CE QUE L’ADULTERE?",
+      "heading": "## Qu’est-ce que l’adultère?"
+    },
+    {
+      "line": "## DIEU EXIGE LA SAINTETE",
+      "heading": "## Dieu exige la sainteté"
+    },
+    {
+      "line": "## LE MARIAGE",
+      "heading": "## Le mariage"
+    },
+    {
+      "line": "## DIVORCE — OUI OU NON?",
+      "heading": "## Divorce — oui ou non?"
+    },
+    {
+      "line": "## UN EXEMPLE BIBLIQUE EN TANT QU’EXHORTATION",
+      "heading": "## Un exemple biblique en tant qu’exhortation"
+    },
+    {
+      "line": "## LE CHEMIN JUSTE",
+      "heading": "## Le chemin juste"
+    },
+    {
+      "line": "## LES SERVITEURS DE DIEU",
+      "heading": "## Les serviteurs de Dieu"
+    },
+    {
+      "line": "## RETOUR A LA PAROLE — RETOUR A DIEU",
+      "heading": "## Retour à la Parole — retour à Dieu"
+    },
+    {
+      "line": "## LES SIENS ECOUTENT SA PAROLE",
+      "heading": "## Les siens écoutent sa Parole"
+    },
+    {
+      "line": "## CONCLUSION",
+      "heading": "## Conclusion"
     }
   ],
-  "markdown/cmpp/1962/messieurs_est_ce_l_heure.md": [
+  "markdown/cmpp/undated/ministeres_pasteur_A4.md": [
     {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
+      "line": "## INTRODUCTION",
+      "heading": "## Introduction"
     },
     {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
+      "line": "## APPEL DIVIN",
+      "heading": "## Appel divin"
     },
     {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
+      "line": "## LA VOLONTE DE DIEU",
+      "heading": "## La volonté de Dieu"
     },
     {
-      "line": "MESSIEURS, EST-CE L’HEURE?    2",
-      "heading": null
+      "line": "## AU SERVICE",
+      "heading": "## Au service"
+    },
+    {
+      "line": "## COMPASSIONS",
+      "heading": "## Compassions"
+    },
+    {
+      "line": "## MODELE",
+      "heading": "## Modèle"
+    },
+    {
+      "line": "## PAIX",
+      "heading": "## Paix"
+    },
+    {
+      "line": "## AMOUR",
+      "heading": "## Amour"
+    },
+    {
+      "line": "## JUGEMENT",
+      "heading": "## Jugement"
+    },
+    {
+      "line": "## CONCLUSION",
+      "heading": "## Conclusion"
+    }
+  ],
+  "markdown/cmpp/undated/nouvelle_naissance.md": [
+    {
+      "line": "## A QUOI SERT LA NOUVELLE NAISSANCE?",
+      "heading": "## À quoi sert la nouvelle naissance?"
+    },
+    {
+      "line": "## Y A-T-IL DES ETAPES POUR NAITRE DE NOUVEAU?",
+      "heading": "## Y a-t-il des étapes pour naître de nouveau?"
+    },
+    {
+      "line": "## ARRIVERA-T-IL QU’UNE PERSONNE NEE DE NOUVEAU NE SOIT PAS PRISE DANS L’ENLEVEMENT?",
+      "heading": "## Arrivera-t-il qu’une personne née de nouveau ne soit pas prise dans l’enlèvement?"
+    },
+    {
+      "line": "## QU’ELLE N’APPARTIENNE PAS AU CORPS DE CHRIST, QUI LUI, SERA ENLEVE?",
+      "heading": "## Qu’elle n’appartienne pas au corps de Christ, qui lui, sera enlevé?"
     }
   ],
   "markdown/cmpp/undated/nouvelle_naissance_A4.md": [
@@ -3092,51 +2741,7 @@
       "heading": null
     }
   ],
-  "markdown/cmpp/1962/parole_parlee_semence_originelle.md": [
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    2",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    34",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1962/pourquoi_contre_les_religions.md": [
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
   "markdown/cmpp/undated/quand_dieu.md": [
-    {
-      "line": "## QUAND DIEU DEVINT HOMME",
-      "heading": "## Quand Dieu devint homme"
-    },
-    {
-      "line": "## QUAND COMMENÇA LA FILIALITÉ?",
-      "heading": "## Quand commença la filialité?"
-    },
-    {
-      "line": "## JÉSUS ÉTAIT À LA FOIS DIEU ET HOMME",
-      "heading": "## Jésus était à la fois Dieu et homme"
-    },
     {
       "line": "## MAIN DROITE",
       "heading": "## Main droite"
@@ -3146,16 +2751,28 @@
       "heading": "## Le Saint-Esprit"
     },
     {
-      "line": "## JÉSUS EST LE SAINT-ESPRIT",
+      "line": "## INTRODUCTION",
+      "heading": "## Introduction"
+    },
+    {
+      "line": "## QUAND COMMENÇA LA FILIALITE?",
+      "heading": "## Quand commença la filialité?"
+    },
+    {
+      "line": "## JESUS ETAIT A LA FOIS DIEU ET HOMME",
+      "heading": "## Jésus était à la fois Dieu et homme"
+    },
+    {
+      "line": "## JESUS EST LE SAINT-ESPRIT",
       "heading": "## Jésus est le Saint-Esprit"
     },
     {
-      "line": "## LA THÉORIE DE LA TRINITÉ",
+      "line": "## LA THEORIE DE LA TRINITE",
       "heading": "## La théorie de la trinité"
     },
     {
-      "line": "## L'ANTICHRIST",
-      "heading": "## L'antichrist"
+      "line": "## L’ANTICHRIST",
+      "heading": "## L’antichrist"
     }
   ],
   "markdown/cmpp/undated/quand_dieu_A4_traite.md": [
@@ -3194,310 +2811,28 @@
   ],
   "markdown/cmpp/undated/questions_reponses_ef.md": [
     {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 2",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 3",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 4",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 6",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 7",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 8",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 9",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 10",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 11",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE    13",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 14",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 17",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 18",
-      "heading": null
-    },
-    {
-      "line": "DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE 20",
-      "heading": null
-    },
-    {
       "line": "# DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE",
       "heading": "# Des personnes interrogent… Dieu répond par sa Parole"
     },
     {
-      "line": "## EWALD FRANK",
-      "heading": "## Ewald Frank"
+      "line": "## QUESTIONS POSEES A FRERE FRANK PAR DES PREDICATEURS DE DIVERS PAYS SUR LESQUELLES ILS DEMANDENT UNE REPONSE.",
+      "heading": "## Questions posées à frère Frank par des prédicateurs de divers pays sur lesquelles ils demandent une réponse."
+    },
+    {
+      "line": "## RESUME",
+      "heading": "## Résumé"
     }
   ],
-  "markdown/cmpp/1988/retour.md": [
+  "markdown/cmpp/undated/reflexions.md": [
     {
-      "line": "LE RETOUR DE CHRIST 12",
-      "heading": null
-    },
-    {
-      "line": "LA RETRIBUTION",
-      "heading": "## La rétribution"
-    },
-    {
-      "line": "# LE RETOUR DE CHRIST",
-      "heading": "# Le retour de Christ"
-    },
-    {
-      "line": "### AVANT-PROPOS",
-      "heading": "### Avant-propos"
-    },
-    {
-      "line": "## LE RETOUR DE CHRIST",
-      "heading": "## Le retour de Christ"
-    },
-    {
-      "line": "### CELA S’ACCOMPLIRA REELLEMENT",
-      "heading": "### Cela s’accomplira réellement"
-    },
-    {
-      "line": "### ASPIRATION REALISEE",
-      "heading": "### Aspiration réalisée"
-    },
-    {
-      "line": "### LE CRI DE COMMANDEMENT",
-      "heading": "### Le cri de commandement"
-    },
-    {
-      "line": "### LA VOIX D’UN ARCHANGE",
-      "heading": "### La voix d’un archange"
-    },
-    {
-      "line": "### LA TROMPETTE",
-      "heading": "### La trompette"
-    },
-    {
-      "line": "### LA CONDITION",
-      "heading": "### La condition"
-    }
-  ],
-  "markdown/cmpp/1960/rev01.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — LA REVELATION 2",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION",
-      "heading": "## La révélation"
-    }
-  ],
-  "markdown/cmpp/1960/rev02.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "VISION DE PATMOS",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/rev03.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": null
-    },
-    {
-      "line": "EGLISE D'EPHESE",
-      "heading": "## Église d'Éphèse"
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — AGE D’EPHESE 11",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — AGE D’EPHESE    12",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — AGE D’EPHESE 13",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — AGE D’EPHESE 18",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — AGE D’EPHESE    19",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/rev04.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/rev05.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — EGLISE DE PERGAME 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/rev06.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/rev07.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 2",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": null
-    },
-    {
-      "line": "EGLISE DE SARDES",
-      "heading": "### Église de Sardes"
-    }
-  ],
-  "markdown/cmpp/1960/rev08.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/rev09.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/rev10.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1960/rev11.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "## LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE",
-      "heading": "## La révélation de Jésus-Christ — Apocalypse, chapitre quatre"
-    }
-  ],
-  "markdown/cmpp/1961/rev12.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1961/rev13.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — LE TRONE    2",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": null
-    },
-    {
-      "line": "LE TRONE",
-      "heading": "### Le trône"
-    }
-  ],
-  "markdown/cmpp/1961/rev14.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST — LE SERPENT ECRASE 2",
-      "heading": null
-    },
-    {
-      "line": "LA REVELATION DE JESUS-CHRIST",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1961/rev15.md": [
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "# LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE CINQ (FIN)",
-      "heading": "# La Révélation de Jésus-Christ — Apocalypse, chapitre cinq (fin)"
+      "line": "## TRAVAILLER DANS UN ESPRIT D’UNITE ET DE RECONCILIATION, EN VUE DE L'ENLEVEMENT",
+      "heading": "## Travailler dans un esprit d’unité et de réconciliation, en vue de l'enlèvement"
     }
   ],
   "markdown/cmpp/undated/savez-vous.md": [
     {
-      "line": "**BON POUR LITTERATURE GRATUITE**",
-      "heading": "## Bon pour littérature gratuite"
-    },
-    {
-      "line": "**Coupon à remplir, découper et envoyer à:**",
-      "heading": null
-    },
-    {
-      "line": "## LE SAVEZ-VOUS… ?",
-      "heading": "## Le savez-vous… ?"
-    },
-    {
-      "line": "### SAVEZ-VOUS QUE… ?",
-      "heading": "### Savez-vous que… ?"
+      "line": "## SAVEZ-VOUS QUE…?",
+      "heading": "## Savez-vous que…?"
     }
   ],
   "markdown/cmpp/undated/savez-vous_A4_traite.md": [
@@ -3506,1536 +2841,112 @@
       "heading": "## Bon pour littérature gratuite"
     }
   ],
-  "markdown/cmpp/1964/serie1no1.md": [
-    {
-      "line": "SERIE 1 N° 1",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "MA VISION DE L’EPOUSE",
-      "heading": "## Ma vision de l’Épouse"
-    }
-  ],
-  "markdown/cmpp/1965/serie1no10.md": [
-    {
-      "line": "SERIE 1 N° 10",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie1no11.md": [
-    {
-      "line": "SERIE 1 N° 11",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "CHRIST EST LA REVELATION DU MYSTERE DE DIEU 2",
-      "heading": null
-    },
-    {
-      "line": "CHRIST EST LA REVELATION DU MYSTERE DE DIEU    7",
-      "heading": null
-    },
-    {
-      "line": "CHRIST EST LA REVELATION DU MYSTERE DE DIEU 8",
-      "heading": null
-    },
-    {
-      "line": "CHRIST EST LA REVELATION DU MYSTERE DE DIEU    9",
-      "heading": null
-    },
-    {
-      "line": "CHRIST EST LA REVELATION DU MYSTERE DE DIEU 10",
-      "heading": null
-    },
-    {
-      "line": "CHRIST EST LA REVELATION DU MYSTERE DE DIEU 11",
-      "heading": null
-    },
-    {
-      "line": "CHRIST EST LA REVELATION DU MYSTERE DE DIEU    42",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1959/serie1no12.md": [
-    {
-      "line": "SERIE 1 N° 12",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LE REPAS DU SEIGNEUR    15",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie1no2.md": [
-    {
-      "line": "DIEU EST SON PROPRE INTERPRETE    13",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie1no3.md": [
-    {
-      "line": "SERIE 1 N° 3",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie1no4.md": [
-    {
-      "line": "SERIE 1 N° 4",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LE MESSAGER DU TEMPS DE LA FIN 20",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1962/serie1no5.md": [
-    {
-      "line": "SERIE 1 N° 5",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LA STATURE DE L’HOMME PARFAIT    39",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie1no6.md": [
-    {
-      "line": "SERIE 1 N° 6",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "DIEU DEVOILE 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie1no7.md": [
-    {
-      "line": "SERIE 1 N° 7",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE 12",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie1no8.md": [
-    {
-      "line": "SERIE 1 N° 8",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LES DOULEURS DE L’ENFANTEMENT    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie1no9.md": [
-    {
-      "line": "SERIE 1 N° 9",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie2no1.md": [
-    {
-      "line": "SERIE 2 N° 1",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie2no10.md": [
-    {
-      "line": "SERIE 2 N° 10",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie2no11.md": [
-    {
-      "line": "SERIE 2 N° 11",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie2no12.md": [
-    {
-      "line": "SERIE 2 N° 12",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LE DIEU DE CET AGE MAUVAIS 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie2no2.md": [
-    {
-      "line": "SERIE 2 N° 2",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1962/serie2no3.md": [
-    {
-      "line": "SERIE 2 N° 3",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "L’ABSOLU    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie2no4.md": [
-    {
-      "line": "SERIE 2 N° 4",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "COMMENT PUIS-JE VAINCRE?    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1959/serie2no5.md": [
-    {
-      "line": "SERIE 2 N° 5",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "QU’EST-CE QUE LE SAINT-ESPRIT?    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1959/serie2no6.md": [
-    {
-      "line": "SERIE 2 N° 6",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "POURQUOI LE SAINT-ESPRIT A ETE DONNE?    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1962/serie2no7.md": [
-    {
-      "line": "SERIE 2 N° 7",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "RESTITUTION DE L’ARBRE DE L’EPOUSE 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie2no8.md": [
-    {
-      "line": "SERIE 2 N° 8",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie2no9.md": [
-    {
-      "line": "SERIE 2 N° 9",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 11",
-      "heading": "## Dieu confirmant sa Parole 11"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 12",
-      "heading": "## Dieu confirmant sa Parole 12"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 13",
-      "heading": "## Dieu confirmant sa Parole 13"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 16",
-      "heading": "## Dieu confirmant sa Parole 16"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 17",
-      "heading": "## Dieu confirmant sa Parole 17"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 18",
-      "heading": "## Dieu confirmant sa Parole 18"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 20",
-      "heading": "## Dieu confirmant sa Parole 20"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 21",
-      "heading": "## Dieu confirmant sa Parole 21"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 22",
-      "heading": "## Dieu confirmant sa Parole 22"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 23",
-      "heading": "## Dieu confirmant sa Parole 23"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 25",
-      "heading": "## Dieu confirmant sa Parole 25"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 26",
-      "heading": "## Dieu confirmant sa Parole 26"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 27",
-      "heading": "## Dieu confirmant sa Parole 27"
-    },
-    {
-      "line": "## DIEU CONFIRMANT SA PAROLE 28",
-      "heading": "## Dieu confirmant sa Parole 28"
-    }
-  ],
-  "markdown/cmpp/1963/serie3no1.md": [
-    {
-      "line": "SERIE 3 N° 1",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no10.md": [
-    {
-      "line": "SERIE 3 N° 10",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LES AMES QUI SONT EN PRISON MAINTENANT 29",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no11.md": [
-    {
-      "line": "SERIE 3 N° 11",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "CELUI QUI EST EN VOUS    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no12.md": [
-    {
-      "line": "SERIE 3 N° 12",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no2.md": [
-    {
-      "line": "SERIE 3 N° 2",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no3.md": [
-    {
-      "line": "SERIE 3 N° 3",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no4.md": [
-    {
-      "line": "SERIE 3 N° 4",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "POURQUOI CRIER? PARLE!    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no5.md": [
-    {
-      "line": "SERIE 3 N° 5",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no6.md": [
-    {
-      "line": "SERIE 3 N° 6",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "IL PREND SOIN. ET VOUS? 2",
-      "heading": null
-    },
-    {
-      "line": "IL PREND SOIN. ET VOUS? 3",
-      "heading": null
-    },
-    {
-      "line": "IL PREND SOIN. ET VOUS? 8",
-      "heading": null
-    },
-    {
-      "line": "IL PREND SOIN. ET VOUS? 10",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no7.md": [
-    {
-      "line": "SERIE 3 N° 7",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "AVERTISSEMENT, PUIS JUGEMENT    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no8.md": [
-    {
-      "line": "SERIE 3 N° 8",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LE TEMPS ET LE SIGNE DE L’UNION    2",
-      "heading": null
-    },
-    {
-      "line": "LE TEMPS ET LE SIGNE DE L’UNION    19",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie3no9.md": [
-    {
-      "line": "SERIE 3 N° 9",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "FOI PARFAITE    2",
-      "heading": null
-    },
-    {
-      "line": "## FOI PARFAITE",
-      "heading": "## Foi parfaite"
-    }
-  ],
-  "markdown/cmpp/1963/serie4no1.md": [
-    {
-      "line": "SERIE 4, N° 1",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "TROIS SORTES DE CROYANTS 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie4no10.md": [
-    {
-      "line": "SERIE 4, N° 10",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    43",
-      "heading": null
-    },
-    {
-      "line": "LA DEMEURE FUTURE DE L'EPOUX CELESTE ET DE L'EPOUSE TERRESTRE",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie4no11.md": [
-    {
-      "line": "SERIE 4 N° 11",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie4no12.md": [
-    {
-      "line": "SERIE 4 N° 12",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie4no2.md": [
-    {
-      "line": "SERIE 4, N° 2",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "## DONS APPROPRIÉS 17",
-      "heading": "## Dons appropriés 17"
-    },
-    {
-      "line": "## DONS APPROPRIÉS 18",
-      "heading": "## Dons appropriés 18"
-    },
-    {
-      "line": "## DONS APPROPRIÉS 19",
-      "heading": "## Dons appropriés 19"
-    },
-    {
-      "line": "## DONS APPROPRIÉS 20",
-      "heading": "## Dons appropriés 20"
-    }
-  ],
-  "markdown/cmpp/1963/serie4no3.md": [
-    {
-      "line": "SÉRIE 4, N° 3",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLÉE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLÉE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "# L’ORDRE DANS L’ÉGLISE",
-      "heading": "# L’ordre dans l’Église"
-    }
-  ],
-  "markdown/cmpp/1963/serie4no4.md": [
-    {
-      "line": "SERIE 4, N° 4",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1963/serie4no5.md": [
-    {
-      "line": "SERIE 4, N° 5",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE PAR WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie4no6.md": [
-    {
-      "line": "SERIE 4, N° 6",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "L’ORIGINAL        2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie4no7.md": [
-    {
-      "line": "SERIE 4, N° 7",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE PAR WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie4no8.md": [
-    {
-      "line": "SERIE 4 N° 8",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "ALLANT AU-DELA DU CAMP 2",
-      "heading": null
-    },
-    {
-      "line": "ALLANT AU-DELA DU CAMP    20",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie4no9.md": [
-    {
-      "line": "SERIE 4 N° 9",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no1.md": [
-    {
-      "line": "SERIE 5, N° 1",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no10.md": [
-    {
-      "line": "SERIE 5, N° 10",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no11.md": [
-    {
-      "line": "SERIE 5, N° 11",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie5no12.md": [
-    {
-      "line": "SERIE 5, N° 12",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "COMPTE A REBOURS    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no2.md": [
-    {
-      "line": "SERIE 5, N° 2",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no3.md": [
-    {
-      "line": "SERIE 5, N° 3",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no4.md": [
-    {
-      "line": "SERIE 5, N° 4",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "HONTEUX DE LUI 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no5.md": [
-    {
-      "line": "SERIE 5, N° 5",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no6.md": [
-    {
-      "line": "SERIE 5 N° 6",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no7.md": [
-    {
-      "line": "SERIE 5, N° 7",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "ET VOUS NE LE SAVEZ PAS!    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no8.md": [
-    {
-      "line": "SERIE 5, N° 8",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "CHRIST EST REVELE DANS SA PROPRE PAROLE    2",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie5no9.md": [
-    {
-      "line": "SERIE 5, N° 9",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie6no1.md": [
-    {
-      "line": "SERIE 6, N° 1",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1964/serie6no2.md": [
-    {
-      "line": "SERIE 6, N° 2",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
-  "markdown/cmpp/1965/serie6no3.md": [
-    {
-      "line": "SERIE 6, N° 3",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "# SOIF",
-      "heading": "# Soif"
-    }
-  ],
-  "markdown/cmpp/1965/serie6no4.md": [
-    {
-      "line": "SERIE 6, N° 4",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    },
-    {
-      "line": "L’ENLEVEMENT 17",
-      "heading": null
-    },
-    {
-      "line": "# L’ENLEVEMENT",
-      "heading": "# L’enlèvement"
-    },
-    {
-      "line": "## L’ENLEVEMENT",
-      "heading": "## L’enlèvement"
-    }
-  ],
-  "markdown/cmpp/1964/serie6no5.md": [
-    {
-      "line": "SERIE 6, N° 5",
-      "heading": null
-    },
-    {
-      "line": "LA PAROLE PARLEE",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM MARRION BRANHAM",
-      "heading": null
-    },
-    {
-      "line": "«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»",
-      "heading": null
-    }
-  ],
   "markdown/cmpp/undated/tragedie.md": [
-    {
-      "line": "TOUT VA DE NOUVEAU BIEN",
-      "heading": "## Tout va de nouveau bien"
-    },
-    {
-      "line": "DIEU AGIT TOUJOURS CONFORMEMENT A SA PAROLE",
-      "heading": "## Dieu agit toujours conformément à sa Parole"
-    },
-    {
-      "line": "VUE CLAIRE",
-      "heading": "## Vue claire"
-    },
-    {
-      "line": "CLASSIFICATION JUSTE",
-      "heading": "## Classification juste"
-    },
-    {
-      "line": "DIEU NOUS FAIT CONNAITRE SON PLAN",
-      "heading": "## Dieu nous fait connaître son plan"
-    },
-    {
-      "line": "TEMOINS CONTEMPORAINS",
-      "heading": "## Témoins contemporains"
-    },
-    {
-      "line": "FAUX PROPHETES ET FAUX CHRISTS",
-      "heading": "## Faux prophètes et faux christs"
-    },
-    {
-      "line": "LE CRITERE PRINCIPAL",
-      "heading": "## Le critère principal"
-    },
-    {
-      "line": "LA GRANDE TRAGEDIE ET LE PLAN DU SALUT DE DIEU...    36",
-      "heading": null
-    },
     {
       "line": "## LA CHUTE DANS LE PECHE ET SA REPARATION",
       "heading": "## La chute dans le péché et sa réparation"
-    }
-  ],
-  "markdown/cmpp/1996/vision_7000.md": [
-    {
-      "line": "**DU MISSIONNAIRE EWALD FRANK**",
-      "heading": null
     },
     {
-      "line": "# VISION 7000",
-      "heading": "# Vision 7000"
+      "line": "## LA GRANDE TRAGEDIE ET LE PLAN DU SALUT DE DIEU A LA LUMIERE DU MESSAGE DU TEMPS DE LA FIN",
+      "heading": "## La grande tragédie et le plan du salut de Dieu à la lumière du Message du temps de la fin"
     },
     {
-      "line": "## INFORMATION GLOBALE",
-      "heading": "## Information globale"
+      "line": "## PREMIERE ET DEUXIEME CREATION COMMENT CELA A-T-IL COMMENCE? COMMENT CELA VA-T-IL FINIR?",
+      "heading": "## Première et deuxième création comment cela a-t-il commencé? Comment cela va-t-il finir?"
     },
     {
-      "line": "### LES PROPHETIES BIBLIQUES ONT LE DERNIER MOT",
-      "heading": "### Les prophéties bibliques ont le dernier mot"
+      "line": "## LES DEUX SEMENCES",
+      "heading": "## Les deux semences"
     },
     {
-      "line": "### LES EVENEMENTS ANNONCES DEVIENNENT REALITE",
-      "heading": "### Les événements annoncés deviennent réalité"
+      "line": "## TOUT VA DE NOUVEAU BIEN",
+      "heading": "## Tout va de nouveau bien"
     },
     {
-      "line": "### LE CHEMIN DE DIEU VERS L’HOMME EST LE CHEMIN DE L’HOMME VERS DIEU",
-      "heading": "### Le chemin de Dieu vers l’homme est le chemin de l’homme vers Dieu"
+      "line": "## DIEU AGIT TOUJOURS CONFORMEMENT A SA PAROLE",
+      "heading": "## Dieu agit toujours conformément à sa Parole"
     },
     {
-      "line": "### LE JOUR DU SEIGNEUR",
-      "heading": "### Le jour du Seigneur"
+      "line": "## VUE CLAIRE",
+      "heading": "## Vue claire"
     },
     {
-      "line": "### LE RETOUR DE CHRIST",
-      "heading": "### Le retour de Christ"
+      "line": "## CLASSIFICATION JUSTE",
+      "heading": "## Classification juste"
+    },
+    {
+      "line": "## DIEU NOUS FAIT CONNAITRE SON PLAN",
+      "heading": "## Dieu nous fait connaître son plan"
+    },
+    {
+      "line": "## TEMOINS CONTEMPORAINS",
+      "heading": "## Témoins contemporains"
+    },
+    {
+      "line": "## LA CONFIRMATION SURNATURELLE EXIGE UNE DECISION",
+      "heading": "## La confirmation surnaturelle exige une décision"
+    },
+    {
+      "line": "## LES SIGNES INDIQUENT LE BUT",
+      "heading": "## Les signes indiquent le but"
+    },
+    {
+      "line": "## LES CARACTERISTIQUES D’UN VRAI PROPHETE",
+      "heading": "## Les caractéristiques d’un vrai prophète"
+    },
+    {
+      "line": "## LE MINISTERE DANS LE NOUVEAU TESTAMENT",
+      "heading": "## Le ministère dans le Nouveau Testament"
+    },
+    {
+      "line": "## FAUX PROPHETES ET FAUX CHRISTS",
+      "heading": "## Faux prophètes et faux christs"
+    },
+    {
+      "line": "## MAINTENANT TOUT DOIT ETRE EPROUVE! LE TEMOIGNAGE DOIT ETRE VRAI ET L’ENSEIGNEMENT EXACT",
+      "heading": "## Maintenant tout doit être éprouvé! Le témoignage doit être vrai et l’enseignement exact"
+    },
+    {
+      "line": "## LE POINT CULMINANT DE LA TROMPERIE",
+      "heading": "## Le point culminant de la tromperie"
+    },
+    {
+      "line": "## LE CRITERE PRINCIPAL",
+      "heading": "## Le critère principal"
+    },
+    {
+      "line": "## LE DEFI",
+      "heading": "## Le défi"
     }
   ],
   "markdown/cmpp/undated/william.md": [
     {
-      "line": "WILLIAM BRANHAM",
-      "heading": null
+      "line": "# WILLIAM BRANHAM",
+      "heading": "# William Branham"
     },
     {
-      "line": "UN PROPHETE ENVOYE PAR DIEU",
-      "heading": null
-    },
-    {
-      "line": "EWALD FRANK",
-      "heading": null
-    },
-    {
-      "line": "INTRODUCTION",
+      "line": "## INTRODUCTION",
       "heading": "## Introduction"
     },
     {
-      "line": "CONFIRMATION SURNATURELLE",
+      "line": "## CONFIRMATION SURNATURELLE",
       "heading": "## Confirmation surnaturelle"
     },
     {
-      "line": "DES L’ENFANCE…",
-      "heading": "## Dès l’enfance…"
+      "line": "## DES L’ENFANCE...",
+      "heading": "## Dès l’enfance..."
     },
     {
-      "line": "WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU 8",
-      "heading": null
+      "line": "## SOUS UN CIEL SEREIN",
+      "heading": "## Sous un ciel serein"
     },
     {
-      "line": "WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU 9",
-      "heading": null
+      "line": "## EN PLEIN AIR",
+      "heading": "## En plein air"
     },
     {
-      "line": "WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU 10",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU    11",
-      "heading": null
-    },
-    {
-      "line": "WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU    12",
-      "heading": null
+      "line": "## CORRECTION",
+      "heading": "## Correction"
     }
   ],
   "markdown/le-scribe/1950/500827aFils-prodigue.md": [
@@ -6642,6 +4553,332 @@
     {
       "line": "INDEX",
       "heading": "## Index"
+    }
+  ],
+  "markdown/mevar-pdfs/le_royaume_de_dieu_kadjani.md": [
+    {
+      "line": "**KADJANY YOBOUET ANDRÉ**",
+      "heading": null
+    },
+    {
+      "line": "**PATMOS EDITIONS**",
+      "heading": null
+    },
+    {
+      "line": "**SOMMAIRE**",
+      "heading": "## Sommaire"
+    },
+    {
+      "line": "**Avant-propos**",
+      "heading": "## Avant-propos"
+    },
+    {
+      "line": "**KADJANY Yobouet André**",
+      "heading": null
+    },
+    {
+      "line": "**Introduction**",
+      "heading": "## Introduction"
+    },
+    {
+      "line": "**I- Au commencement**",
+      "heading": "### I- Au commencement"
+    },
+    {
+      "line": "**1- La position de l’homme dans la Création**",
+      "heading": "#### 1- La position de l’homme dans la création"
+    },
+    {
+      "line": "**2- La mission que Dieu a assignée à l’homme**",
+      "heading": "#### 2- La mission que Dieu a assignée à l’homme"
+    },
+    {
+      "line": "**4- L’œuvre de séduction au niveau spirituel**",
+      "heading": "#### 4- L’œuvre de séduction au niveau spirituel"
+    },
+    {
+      "line": "**a- Vous ne mourrez point** !",
+      "heading": "#### a- Vous ne mourrez point !"
+    },
+    {
+      "line": "**b- Vos yeux s’ouvriront** !",
+      "heading": "#### b- Vos yeux s’ouvriront !"
+    },
+    {
+      "line": "**c- Vous serez comme des dieux** !",
+      "heading": "#### c- Vous serez comme des dieux !"
+    },
+    {
+      "line": "**5- L’œuvre de séduction au niveau physique ou charnel**",
+      "heading": "#### 5- L’œuvre de séduction au niveau physique ou charnel"
+    },
+    {
+      "line": "**II- Après le commencement**",
+      "heading": "### II- Après le commencement"
+    },
+    {
+      "line": "**2- Le monde de Satan**",
+      "heading": "#### 2- Le monde de Satan"
+    },
+    {
+      "line": "**I- La promesse du rétablissement du Royaume**",
+      "heading": "### I- La promesse du rétablissement du Royaume"
+    },
+    {
+      "line": "**1- L’œuvre de Golgotha, commencement de la restauration**",
+      "heading": "#### 1- L’œuvre de Golgotha, commencement de la restauration"
+    },
+    {
+      "line": "**a- Christ est mort pour nos péchés**",
+      "heading": "#### a- Christ est mort pour nos péchés"
+    },
+    {
+      "line": "**b- Christ est ressuscité le troisième jour**",
+      "heading": "#### b- Christ est ressuscité le troisième jour"
+    },
+    {
+      "line": "**I- L’annonce du Royaume : ordre de mission originel**",
+      "heading": "### I- L’annonce du Royaume : ordre de mission originel"
+    },
+    {
+      "line": "**II- L’entrée dans le Royaume**",
+      "heading": "### II- L’entrée dans le Royaume"
+    },
+    {
+      "line": "**III- La position des fils du Royaume**",
+      "heading": "### III- La position des fils du Royaume"
+    },
+    {
+      "line": "**II- Les causes de l’échec dans l’Ancienne Alliance**",
+      "heading": "### II- Les causes de l’échec dans l’ancienne alliance"
+    },
+    {
+      "line": "**III- La promesse d’une Nouvelle Alliance**",
+      "heading": "### III- La promesse d’une nouvelle alliance"
+    },
+    {
+      "line": "**a- La marche selon l’Esprit n’est pas systématique**",
+      "heading": "#### a- La marche selon l’Esprit n’est pas systématique"
+    },
+    {
+      "line": "**1- Nous sommes dans un monde de compétition**",
+      "heading": "### 1- Nous sommes dans un monde de compétition"
+    },
+    {
+      "line": "**2- Les positionnements dans le Royaume de Dieu**",
+      "heading": "### 2- Les positionnements dans le Royaume de Dieu"
+    },
+    {
+      "line": "**b- Une assemblée par ville**",
+      "heading": "#### b- Une assemblée par ville"
+    },
+    {
+      "line": "**1- La terre dans la Création**",
+      "heading": "### 1- La terre dans la création"
+    },
+    {
+      "line": "**2- La justification par les œuvres de la foi**",
+      "heading": "### 2- La justification par les œuvres de la foi"
+    },
+    {
+      "line": "**1- Le Royaume d’Israël**",
+      "heading": "### 1- Le Royaume d’Israël"
+    },
+    {
+      "line": "**4- La guerre pour le règne du Christ**",
+      "heading": "### 4- La guerre pour le règne du Christ"
+    },
+    {
+      "line": "**5- Le règne de mille ans de Jésus le Roi**",
+      "heading": "### 5- Le règne de mille ans de Jésus le Roi"
+    },
+    {
+      "line": "**CONCLUSION**",
+      "heading": "## Conclusion"
+    },
+    {
+      "line": "**CHANT** :",
+      "heading": "### Chant :"
+    },
+    {
+      "line": "**MARANATHA SEIGNEUR JÉSUS**",
+      "heading": null
+    },
+    {
+      "line": "**Abidjan, le 14 décembre 2019**",
+      "heading": null
+    },
+    {
+      "line": "**3- L’exécution de l’ordre de mission par Adam et Ève**",
+      "heading": "#### 3- L’exécution de l’ordre de mission par Adam et Ève"
+    },
+    {
+      "line": "**1- La nature de la vie dans l’homme a changé**",
+      "heading": "#### 1- La nature de la vie dans l’homme a changé"
+    },
+    {
+      "line": "**IV- La mission des fils du Royaume de Dieu sur la terre**",
+      "heading": "### IV- La mission des fils du Royaume de Dieu sur la terre"
+    },
+    {
+      "line": "**1- Rendre témoignage de la mort et de la résurrection de Jésus**",
+      "heading": "#### 1- Rendre témoignage de la mort et de la résurrection de Jésus"
+    },
+    {
+      "line": "**2- Ils forment l’armée de Jésus-Christ sur la terre**",
+      "heading": "#### 2- Ils forment l’armée de Jésus-Christ sur la terre"
+    },
+    {
+      "line": "**I- À l’origine : la loi de Moïse ou l’Ancienne Alliance**",
+      "heading": "### I- À l’origine : la loi de Moïse ou l’ancienne alliance"
+    },
+    {
+      "line": "**IV- La Nouvelle Alliance : une alliance de l’Esprit adressée à des hommes spirituels**",
+      "heading": "### IV- La nouvelle alliance : une alliance de l’Esprit adressée à des hommes spirituels"
+    },
+    {
+      "line": "**V- La loi du Royaume supérieure par ses exigences à la loi de Moïse**",
+      "heading": "### V- La loi du Royaume supérieure par ses exigences à la loi de Moïse"
+    },
+    {
+      "line": "**VI- L’accomplissement de la justice de la loi s’obtient par la marche selon l’Esprit**",
+      "heading": "### VI- L’accomplissement de la justice de la loi s’obtient par la marche selon l’Esprit"
+    },
+    {
+      "line": "**3- […] ne sera donné qu’à ceux à qui mon Père l’a réservé**",
+      "heading": "### 3- […] ne sera donné qu’à ceux à qui mon Père l’a réservé"
+    },
+    {
+      "line": "**4- […] Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur**",
+      "heading": "### 4- […] Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur"
+    },
+    {
+      "line": "**5- […] et quiconque veut être le premier parmi vous, qu’il soit votre esclave**",
+      "heading": "### 5- […] et quiconque veut être le premier parmi vous, qu’il soit votre esclave"
+    },
+    {
+      "line": "**6- L’organisation et le fonctionnement du Royaume : le principe du « corps de Christ** »",
+      "heading": "### 6- L’organisation et le fonctionnement du Royaume : le principe du « corps de Christ »"
+    },
+    {
+      "line": "**6- Principes sur les doctrines, prescriptions et organisations dans l’Église**",
+      "heading": "### 6- Principes sur les doctrines, prescriptions et organisations dans l’Église"
+    },
+    {
+      "line": "**2- L’avènement du Messie et le rétablissement du trône de David**",
+      "heading": "### 2- L’avènement du Messie et le rétablissement du trône de David"
+    },
+    {
+      "line": "**3- Jésus le Christ, le Fils du Dieu vivant : Roi d’Israël**",
+      "heading": "### 3- Jésus le Christ, le Fils du Dieu vivant : Roi d’Israël"
+    },
+    {
+      "line": "**CHAPITRE I** : **L’ORIGINE DU ROYAUME DE DIEU**",
+      "heading": "## Chapitre I : l’origine du Royaume de Dieu"
+    },
+    {
+      "line": "**CHAPITRE II** : **L’œuvre de restauration du Royaume**",
+      "heading": "## Chapitre II : l’œuvre de restauration du Royaume"
+    },
+    {
+      "line": "**CHAPITRE III** : **LES FILS DU ROYAUME**",
+      "heading": "## Chapitre III : les fils du Royaume"
+    },
+    {
+      "line": "**CHAPITRE IV** : **LA LOI QUI GOUVERNE LE ROYAUME DE DIEU**",
+      "heading": "## Chapitre IV : la loi qui gouverne le Royaume de Dieu"
+    },
+    {
+      "line": "**CHAPITRE V** : **LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU**",
+      "heading": "## Chapitre V : les principes qui gouvernent le Royaume de Dieu"
+    },
+    {
+      "line": "**CHAPITRE VI** : **LA VIE DANS LE ROYAUME DE DIEU**",
+      "heading": "## Chapitre VI : la vie dans le Royaume de Dieu"
+    },
+    {
+      "line": "**CHAPITRE VII** : **LE ROI DU ROYAUME DE DIEU**",
+      "heading": "## Chapitre VII : le roi du Royaume de Dieu"
+    },
+    {
+      "line": "**b- Le dépouillement du vieil homme, seule solution pour obéir à la loi du Royaume**",
+      "heading": "#### b- Le dépouillement du vieil homme, seule solution pour obéir à la loi du Royaume"
+    },
+    {
+      "line": "**a- Le parler en langue – signe du baptême du Saint-Esprit**",
+      "heading": "#### a- Le parler en langue – signe du baptême du Saint-Esprit"
+    },
+    {
+      "line": "**a- Premier critère pour être enrôlé : refuser de se soumettre au péché**",
+      "heading": "#### a- Premier critère pour être enrôlé : refuser de se soumettre au péché"
+    },
+    {
+      "line": "**AVANT-PROPOS (p. 3)**",
+      "heading": null
+    },
+    {
+      "line": "**INTRODUCTION (p. 6)**",
+      "heading": null
+    },
+    {
+      "line": "**CHAPITRE I (p. 10)**",
+      "heading": null
+    },
+    {
+      "line": "**L’ORIGINE DU ROYAUME DE DIEU (p. 10)**",
+      "heading": null
+    },
+    {
+      "line": "**CHAPITRE II (p. 35)**",
+      "heading": null
+    },
+    {
+      "line": "**L’ŒUVRE DE RESTAURATION DU ROYAUME (p. 35)**",
+      "heading": null
+    },
+    {
+      "line": "**CHAPITRE III (p. 46)**",
+      "heading": null
+    },
+    {
+      "line": "**LES FILS DU ROYAUME (p. 46)**",
+      "heading": null
+    },
+    {
+      "line": "**CHAPITRE IV (p. 80)**",
+      "heading": null
+    },
+    {
+      "line": "**LA LOI QUI GOUVERNE LE ROYAUME DE DIEU (p. 80)**",
+      "heading": null
+    },
+    {
+      "line": "**CHAPITRE V (p. 129)**",
+      "heading": null
+    },
+    {
+      "line": "**LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU (p. 129)**",
+      "heading": null
+    },
+    {
+      "line": "**CHAPITRE VI (p. 165)**",
+      "heading": null
+    },
+    {
+      "line": "**LA VIE DANS LE ROYAUME DE DIEU (p. 165)**",
+      "heading": null
+    },
+    {
+      "line": "**CHAPITRE VII (p. 191)**",
+      "heading": null
+    },
+    {
+      "line": "**LE ROI DU ROYAUME DE DIEU (p. 191)**",
+      "heading": null
+    },
+    {
+      "line": "**CONCLUSION (p. 228)**",
+      "heading": null
     }
   ],
   "markdown/mevar/aux-jours-du-saint-esprit.md": [
@@ -9408,642 +7645,6 @@
       "heading": null
     }
   ],
-  "markdown/onedrive/pdf/reveilafricain.md": [
-    {
-      "line": "**En Christ notre Seigneur**",
-      "heading": null
-    },
-    {
-      "line": "**LE RÉVEIL DES AFRICAINS**",
-      "heading": null
-    },
-    {
-      "line": "**Prêché à So-Tchanwé (Bénin) le 28 janvier 2007**",
-      "heading": null
-    }
-  ],
-  "markdown/onedrive/pdf/reveilp.md": [
-    {
-      "line": "**M’BRA Parfait**",
-      "heading": null
-    },
-    {
-      "line": "TABLE DES MATIÈRES",
-      "heading": "## Table des matières"
-    },
-    {
-      "line": "MISE AU POINT",
-      "heading": "## Mise au point"
-    },
-    {
-      "line": "VISITATION PARTICULIÈRE DE L’ÉGLISE AU SOIR ET À MINUIT",
-      "heading": "### Visitation particulière de l’Église au soir et à minuit"
-    },
-    {
-      "line": "**Deux manières de prier** :",
-      "heading": null
-    },
-    {
-      "line": "**Adolphe Monod**",
-      "heading": null
-    },
-    {
-      "line": "**Seigneur : envoie-nous un réveil** !",
-      "heading": null
-    },
-    {
-      "line": "INTRODUCTION — 7",
-      "heading": null
-    },
-    {
-      "line": "1. DANS LES ÉCRITURES — 13",
-      "heading": null
-    },
-    {
-      "line": "2. DANS L’HISTOIRE — 19",
-      "heading": null
-    },
-    {
-      "line": "3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE — 27",
-      "heading": null
-    },
-    {
-      "line": "4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU — 35",
-      "heading": null
-    },
-    {
-      "line": "La malédiction empêche la pluie pour nous tous — 38",
-      "heading": null
-    },
-    {
-      "line": "Aie donc du zèle, et repens-toi ! — 41",
-      "heading": null
-    },
-    {
-      "line": "Un miracle refusé — 42",
-      "heading": null
-    },
-    {
-      "line": "5. L’HISTOIRE SE RÉPÈTE — 45",
-      "heading": null
-    },
-    {
-      "line": "À Jérusalem — 45",
-      "heading": null
-    },
-    {
-      "line": "En Judée — 46",
-      "heading": null
-    },
-    {
-      "line": "En Samarie — 47",
-      "heading": null
-    },
-    {
-      "line": "Visitation particulière de l’Église à minuit — 47",
-      "heading": null
-    },
-    {
-      "line": "Les conséquences du réveil — 50",
-      "heading": null
-    },
-    {
-      "line": "1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan — 50",
-      "heading": null
-    },
-    {
-      "line": "2. La sanctification et la piété — 54",
-      "heading": null
-    },
-    {
-      "line": "3. Séparation d’avec les faux frères — 56",
-      "heading": null
-    },
-    {
-      "line": "4. La manifestation de la Puissance de Dieu — 59",
-      "heading": null
-    },
-    {
-      "line": "Ordre de mission en rapport avec la prédication et les signes — 61",
-      "heading": null
-    },
-    {
-      "line": "Le troisième pull — 64",
-      "heading": null
-    },
-    {
-      "line": "6. LA MOISSON ET LES MOISSONNEURS — 73",
-      "heading": null
-    },
-    {
-      "line": "La moisson du Seigneur — 73",
-      "heading": null
-    },
-    {
-      "line": "Les jours du fils de l’homme sont semblables aux jours de Lot — 76",
-      "heading": null
-    },
-    {
-      "line": "La Moisson de la terre — 81",
-      "heading": null
-    },
-    {
-      "line": "CONCLUSION — 82",
-      "heading": null
-    },
-    {
-      "line": "INTRODUCTION",
-      "heading": "## Introduction"
-    },
-    {
-      "line": "DANS LES ÉCRITURES",
-      "heading": "## Dans les Écritures"
-    },
-    {
-      "line": "DANS L’HISTOIRE",
-      "heading": "## Dans l’histoire"
-    },
-    {
-      "line": "LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE",
-      "heading": "## La déchéance spirituelle de l’Église de Laodicée"
-    },
-    {
-      "line": "LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU",
-      "heading": "## La déchéance spirituelle et morale des serviteurs de Dieu"
-    },
-    {
-      "line": "LA MALÉDICTION EMPÊCHE LA PLUIE POUR NOUS TOUS",
-      "heading": "### La malédiction empêche la pluie pour nous tous"
-    },
-    {
-      "line": "AIE DONC DU ZÈLE, ET REPENS-TOI !",
-      "heading": "### Aie donc du zèle, et repens-toi !"
-    },
-    {
-      "line": "UN MIRACLE REFUSÉ",
-      "heading": "### Un miracle refusé"
-    },
-    {
-      "line": "L’HISTOIRE SE RÉPÈTE",
-      "heading": "## L’histoire se répète"
-    },
-    {
-      "line": "À Jérusalem",
-      "heading": "### À Jérusalem"
-    },
-    {
-      "line": "En Judée",
-      "heading": "### En Judée"
-    },
-    {
-      "line": "En Samarie",
-      "heading": "### En Samarie"
-    },
-    {
-      "line": "LES CONSÉQUENCES DU RÉVEIL",
-      "heading": "### Les conséquences du réveil"
-    },
-    {
-      "line": "2. La sanctification et la piété",
-      "heading": "### 2. La sanctification et la piété"
-    },
-    {
-      "line": "3. Séparation d’avec les faux frères",
-      "heading": "### 3. Séparation d’avec les faux frères"
-    },
-    {
-      "line": "4. La manifestation de la Puissance de Dieu",
-      "heading": "### 4. La manifestation de la puissance de Dieu"
-    },
-    {
-      "line": "ORDRE DE MISSION EN RAPPORT AVEC LA PRÉDICATION ET LES SIGNES",
-      "heading": "### Ordre de mission en rapport avec la prédication et les signes"
-    },
-    {
-      "line": "LE TROISIÈME PULL",
-      "heading": "### Le troisième pull"
-    },
-    {
-      "line": "La Moisson et les Moissonneurs",
-      "heading": "## La moisson et les moissonneurs"
-    },
-    {
-      "line": "La moisson du Seigneur",
-      "heading": "### La moisson du Seigneur"
-    },
-    {
-      "line": "Les jours du fils de l’homme sont semblables aux jours de Lot",
-      "heading": "### Les jours du fils de l’homme sont semblables aux jours de Lot"
-    },
-    {
-      "line": "La Moisson de la terre",
-      "heading": "### La moisson de la terre"
-    },
-    {
-      "line": "Conclusion",
-      "heading": "## Conclusion"
-    },
-    {
-      "line": "1. La conquête du monde et des promesses de Dieu : L’ÉGYPTE ET CANAAN",
-      "heading": "### 1. La conquête du monde et des promesses de Dieu : l’Égypte et Canaan"
-    }
-  ],
-  "markdown/onedrive/pdf/semence.md": [
-    {
-      "line": "**Sujets de prière**",
-      "heading": "## Sujets de prière"
-    },
-    {
-      "line": "**BREF TÉMOIGNAGE**",
-      "heading": "## Bref témoignage"
-    },
-    {
-      "line": "**Fr M’BRA Parfait**",
-      "heading": null
-    }
-  ],
-  "markdown/onedrive/pdf/temoignagenandy.md": [
-    {
-      "line": "**Serviteur de Dieu dans l’Assemblée de Guibéroua**",
-      "heading": null
-    },
-    {
-      "line": "**1. Avant que je ne reçoive la brochure**",
-      "heading": "## 1. Avant que je ne reçoive la brochure"
-    },
-    {
-      "line": "2. **La visite du frère M’BRA Parfait dans notre Assemblée**",
-      "heading": "## 2. La visite du frère M’BRA Parfait dans notre Assemblée"
-    },
-    {
-      "line": "3. **Après le départ du frère M’BRA**.",
-      "heading": "## 3. Après le départ du frère M’BRA."
-    }
-  ],
-  "markdown/onedrive/pdf/tsunami.md": [
-    {
-      "line": "**VOYEZ UN TSUNAMI SPIRITUEL** !",
-      "heading": null
-    },
-    {
-      "line": "**La révélation des prophéties bibliques**",
-      "heading": "## La révélation des prophéties bibliques"
-    },
-    {
-      "line": "**Ainsi dit le Seigneur aux prophètes circonstanciels** :",
-      "heading": null
-    },
-    {
-      "line": "**Erreurs à ne pas commettre**",
-      "heading": "## Erreurs à ne pas commettre"
-    },
-    {
-      "line": "**La sentinelle de la nuit**",
-      "heading": "## La sentinelle de la nuit"
-    },
-    {
-      "line": "**Combat contre Babylone**",
-      "heading": "## Combat contre Babylone"
-    },
-    {
-      "line": "**La reconstruction de la Muraille**",
-      "heading": "## La reconstruction de la Muraille"
-    },
-    {
-      "line": "**Chaîne de prière (Ésaïe 62 :6-7)**",
-      "heading": "## Chaîne de prière (Ésaïe 62 :6-7)"
-    },
-    {
-      "line": "**Fr. M’BRA Parfait**",
-      "heading": null
-    }
-  ],
-  "markdown/mevar-pdfs/le_royaume_de_dieu_kadjani.md": [
-    {
-      "line": "**KADJANY YOBOUET ANDRÉ**",
-      "heading": null
-    },
-    {
-      "line": "**PATMOS EDITIONS**",
-      "heading": null
-    },
-    {
-      "line": "**SOMMAIRE**",
-      "heading": "## Sommaire"
-    },
-    {
-      "line": "**Avant-propos**",
-      "heading": "## Avant-propos"
-    },
-    {
-      "line": "**KADJANY Yobouet André**",
-      "heading": null
-    },
-    {
-      "line": "**Introduction**",
-      "heading": "## Introduction"
-    },
-    {
-      "line": "**I- Au commencement**",
-      "heading": "### I- Au commencement"
-    },
-    {
-      "line": "**1- La position de l’homme dans la Création**",
-      "heading": "#### 1- La position de l’homme dans la création"
-    },
-    {
-      "line": "**2- La mission que Dieu a assignée à l’homme**",
-      "heading": "#### 2- La mission que Dieu a assignée à l’homme"
-    },
-    {
-      "line": "**4- L’œuvre de séduction au niveau spirituel**",
-      "heading": "#### 4- L’œuvre de séduction au niveau spirituel"
-    },
-    {
-      "line": "**a- Vous ne mourrez point** !",
-      "heading": "#### a- Vous ne mourrez point !"
-    },
-    {
-      "line": "**b- Vos yeux s’ouvriront** !",
-      "heading": "#### b- Vos yeux s’ouvriront !"
-    },
-    {
-      "line": "**c- Vous serez comme des dieux** !",
-      "heading": "#### c- Vous serez comme des dieux !"
-    },
-    {
-      "line": "**5- L’œuvre de séduction au niveau physique ou charnel**",
-      "heading": "#### 5- L’œuvre de séduction au niveau physique ou charnel"
-    },
-    {
-      "line": "**II- Après le commencement**",
-      "heading": "### II- Après le commencement"
-    },
-    {
-      "line": "**2- Le monde de Satan**",
-      "heading": "#### 2- Le monde de Satan"
-    },
-    {
-      "line": "**I- La promesse du rétablissement du Royaume**",
-      "heading": "### I- La promesse du rétablissement du Royaume"
-    },
-    {
-      "line": "**1- L’œuvre de Golgotha, commencement de la restauration**",
-      "heading": "#### 1- L’œuvre de Golgotha, commencement de la restauration"
-    },
-    {
-      "line": "**a- Christ est mort pour nos péchés**",
-      "heading": "#### a- Christ est mort pour nos péchés"
-    },
-    {
-      "line": "**b- Christ est ressuscité le troisième jour**",
-      "heading": "#### b- Christ est ressuscité le troisième jour"
-    },
-    {
-      "line": "**I- L’annonce du Royaume : ordre de mission originel**",
-      "heading": "### I- L’annonce du Royaume : ordre de mission originel"
-    },
-    {
-      "line": "**II- L’entrée dans le Royaume**",
-      "heading": "### II- L’entrée dans le Royaume"
-    },
-    {
-      "line": "**III- La position des fils du Royaume**",
-      "heading": "### III- La position des fils du Royaume"
-    },
-    {
-      "line": "**II- Les causes de l’échec dans l’Ancienne Alliance**",
-      "heading": "### II- Les causes de l’échec dans l’ancienne alliance"
-    },
-    {
-      "line": "**III- La promesse d’une Nouvelle Alliance**",
-      "heading": "### III- La promesse d’une nouvelle alliance"
-    },
-    {
-      "line": "**a- La marche selon l’Esprit n’est pas systématique**",
-      "heading": "#### a- La marche selon l’Esprit n’est pas systématique"
-    },
-    {
-      "line": "**1- Nous sommes dans un monde de compétition**",
-      "heading": "### 1- Nous sommes dans un monde de compétition"
-    },
-    {
-      "line": "**2- Les positionnements dans le Royaume de Dieu**",
-      "heading": "### 2- Les positionnements dans le Royaume de Dieu"
-    },
-    {
-      "line": "**b- Une assemblée par ville**",
-      "heading": "#### b- Une assemblée par ville"
-    },
-    {
-      "line": "**1- La terre dans la Création**",
-      "heading": "### 1- La terre dans la création"
-    },
-    {
-      "line": "**2- La justification par les œuvres de la foi**",
-      "heading": "### 2- La justification par les œuvres de la foi"
-    },
-    {
-      "line": "**1- Le Royaume d’Israël**",
-      "heading": "### 1- Le Royaume d’Israël"
-    },
-    {
-      "line": "**4- La guerre pour le règne du Christ**",
-      "heading": "### 4- La guerre pour le règne du Christ"
-    },
-    {
-      "line": "**5- Le règne de mille ans de Jésus le Roi**",
-      "heading": "### 5- Le règne de mille ans de Jésus le Roi"
-    },
-    {
-      "line": "**CONCLUSION**",
-      "heading": "## Conclusion"
-    },
-    {
-      "line": "**CHANT** :",
-      "heading": "### Chant :"
-    },
-    {
-      "line": "**MARANATHA SEIGNEUR JÉSUS**",
-      "heading": null
-    },
-    {
-      "line": "**Abidjan, le 14 décembre 2019**",
-      "heading": null
-    },
-    {
-      "line": "**3- L’exécution de l’ordre de mission par Adam et Ève**",
-      "heading": "#### 3- L’exécution de l’ordre de mission par Adam et Ève"
-    },
-    {
-      "line": "**1- La nature de la vie dans l’homme a changé**",
-      "heading": "#### 1- La nature de la vie dans l’homme a changé"
-    },
-    {
-      "line": "**IV- La mission des fils du Royaume de Dieu sur la terre**",
-      "heading": "### IV- La mission des fils du Royaume de Dieu sur la terre"
-    },
-    {
-      "line": "**1- Rendre témoignage de la mort et de la résurrection de Jésus**",
-      "heading": "#### 1- Rendre témoignage de la mort et de la résurrection de Jésus"
-    },
-    {
-      "line": "**2- Ils forment l’armée de Jésus-Christ sur la terre**",
-      "heading": "#### 2- Ils forment l’armée de Jésus-Christ sur la terre"
-    },
-    {
-      "line": "**I- À l’origine : la loi de Moïse ou l’Ancienne Alliance**",
-      "heading": "### I- À l’origine : la loi de Moïse ou l’ancienne alliance"
-    },
-    {
-      "line": "**IV- La Nouvelle Alliance : une alliance de l’Esprit adressée à des hommes spirituels**",
-      "heading": "### IV- La nouvelle alliance : une alliance de l’Esprit adressée à des hommes spirituels"
-    },
-    {
-      "line": "**V- La loi du Royaume supérieure par ses exigences à la loi de Moïse**",
-      "heading": "### V- La loi du Royaume supérieure par ses exigences à la loi de Moïse"
-    },
-    {
-      "line": "**VI- L’accomplissement de la justice de la loi s’obtient par la marche selon l’Esprit**",
-      "heading": "### VI- L’accomplissement de la justice de la loi s’obtient par la marche selon l’Esprit"
-    },
-    {
-      "line": "**3- […] ne sera donné qu’à ceux à qui mon Père l’a réservé**",
-      "heading": "### 3- […] ne sera donné qu’à ceux à qui mon Père l’a réservé"
-    },
-    {
-      "line": "**4- […] Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur**",
-      "heading": "### 4- […] Mais quiconque veut être grand parmi vous, qu’il soit votre serviteur"
-    },
-    {
-      "line": "**5- […] et quiconque veut être le premier parmi vous, qu’il soit votre esclave**",
-      "heading": "### 5- […] et quiconque veut être le premier parmi vous, qu’il soit votre esclave"
-    },
-    {
-      "line": "**6- L’organisation et le fonctionnement du Royaume : le principe du « corps de Christ** »",
-      "heading": "### 6- L’organisation et le fonctionnement du Royaume : le principe du « corps de Christ »"
-    },
-    {
-      "line": "**6- Principes sur les doctrines, prescriptions et organisations dans l’Église**",
-      "heading": "### 6- Principes sur les doctrines, prescriptions et organisations dans l’Église"
-    },
-    {
-      "line": "**2- L’avènement du Messie et le rétablissement du trône de David**",
-      "heading": "### 2- L’avènement du Messie et le rétablissement du trône de David"
-    },
-    {
-      "line": "**3- Jésus le Christ, le Fils du Dieu vivant : Roi d’Israël**",
-      "heading": "### 3- Jésus le Christ, le Fils du Dieu vivant : Roi d’Israël"
-    },
-    {
-      "line": "**CHAPITRE I** : **L’ORIGINE DU ROYAUME DE DIEU**",
-      "heading": "## Chapitre I : l’origine du Royaume de Dieu"
-    },
-    {
-      "line": "**CHAPITRE II** : **L’œuvre de restauration du Royaume**",
-      "heading": "## Chapitre II : l’œuvre de restauration du Royaume"
-    },
-    {
-      "line": "**CHAPITRE III** : **LES FILS DU ROYAUME**",
-      "heading": "## Chapitre III : les fils du Royaume"
-    },
-    {
-      "line": "**CHAPITRE IV** : **LA LOI QUI GOUVERNE LE ROYAUME DE DIEU**",
-      "heading": "## Chapitre IV : la loi qui gouverne le Royaume de Dieu"
-    },
-    {
-      "line": "**CHAPITRE V** : **LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU**",
-      "heading": "## Chapitre V : les principes qui gouvernent le Royaume de Dieu"
-    },
-    {
-      "line": "**CHAPITRE VI** : **LA VIE DANS LE ROYAUME DE DIEU**",
-      "heading": "## Chapitre VI : la vie dans le Royaume de Dieu"
-    },
-    {
-      "line": "**CHAPITRE VII** : **LE ROI DU ROYAUME DE DIEU**",
-      "heading": "## Chapitre VII : le roi du Royaume de Dieu"
-    },
-    {
-      "line": "**b- Le dépouillement du vieil homme, seule solution pour obéir à la loi du Royaume**",
-      "heading": "#### b- Le dépouillement du vieil homme, seule solution pour obéir à la loi du Royaume"
-    },
-    {
-      "line": "**a- Le parler en langue – signe du baptême du Saint-Esprit**",
-      "heading": "#### a- Le parler en langue – signe du baptême du Saint-Esprit"
-    },
-    {
-      "line": "**a- Premier critère pour être enrôlé : refuser de se soumettre au péché**",
-      "heading": "#### a- Premier critère pour être enrôlé : refuser de se soumettre au péché"
-    },
-    {
-      "line": "**AVANT-PROPOS (p. 3)**",
-      "heading": null
-    },
-    {
-      "line": "**INTRODUCTION (p. 6)**",
-      "heading": null
-    },
-    {
-      "line": "**CHAPITRE I (p. 10)**",
-      "heading": null
-    },
-    {
-      "line": "**L’ORIGINE DU ROYAUME DE DIEU (p. 10)**",
-      "heading": null
-    },
-    {
-      "line": "**CHAPITRE II (p. 35)**",
-      "heading": null
-    },
-    {
-      "line": "**L’ŒUVRE DE RESTAURATION DU ROYAUME (p. 35)**",
-      "heading": null
-    },
-    {
-      "line": "**CHAPITRE III (p. 46)**",
-      "heading": null
-    },
-    {
-      "line": "**LES FILS DU ROYAUME (p. 46)**",
-      "heading": null
-    },
-    {
-      "line": "**CHAPITRE IV (p. 80)**",
-      "heading": null
-    },
-    {
-      "line": "**LA LOI QUI GOUVERNE LE ROYAUME DE DIEU (p. 80)**",
-      "heading": null
-    },
-    {
-      "line": "**CHAPITRE V (p. 129)**",
-      "heading": null
-    },
-    {
-      "line": "**LES PRINCIPES QUI GOUVERNENT LE ROYAUME DE DIEU (p. 129)**",
-      "heading": null
-    },
-    {
-      "line": "**CHAPITRE VI (p. 165)**",
-      "heading": null
-    },
-    {
-      "line": "**LA VIE DANS LE ROYAUME DE DIEU (p. 165)**",
-      "heading": null
-    },
-    {
-      "line": "**CHAPITRE VII (p. 191)**",
-      "heading": null
-    },
-    {
-      "line": "**LE ROI DU ROYAUME DE DIEU (p. 191)**",
-      "heading": null
-    },
-    {
-      "line": "**CONCLUSION (p. 228)**",
-      "heading": null
-    }
-  ],
   "markdown/onedrive/pdf/publication verified/les_cinq_ministeres_de_la_parole.md": [
     {
       "line": "DANS LES PROPHÉTIES BIBLIQUES",
@@ -11011,6 +8612,316 @@
     },
     {
       "line": "**ÉPILOGUE (p. 334)**",
+      "heading": null
+    }
+  ],
+  "markdown/onedrive/pdf/reveilafricain.md": [
+    {
+      "line": "**En Christ notre Seigneur**",
+      "heading": null
+    },
+    {
+      "line": "**LE RÉVEIL DES AFRICAINS**",
+      "heading": null
+    },
+    {
+      "line": "**Prêché à So-Tchanwé (Bénin) le 28 janvier 2007**",
+      "heading": null
+    }
+  ],
+  "markdown/onedrive/pdf/reveilp.md": [
+    {
+      "line": "**M’BRA Parfait**",
+      "heading": null
+    },
+    {
+      "line": "TABLE DES MATIÈRES",
+      "heading": "## Table des matières"
+    },
+    {
+      "line": "MISE AU POINT",
+      "heading": "## Mise au point"
+    },
+    {
+      "line": "VISITATION PARTICULIÈRE DE L’ÉGLISE AU SOIR ET À MINUIT",
+      "heading": "### Visitation particulière de l’Église au soir et à minuit"
+    },
+    {
+      "line": "**Deux manières de prier** :",
+      "heading": null
+    },
+    {
+      "line": "**Adolphe Monod**",
+      "heading": null
+    },
+    {
+      "line": "**Seigneur : envoie-nous un réveil** !",
+      "heading": null
+    },
+    {
+      "line": "INTRODUCTION — 7",
+      "heading": null
+    },
+    {
+      "line": "1. DANS LES ÉCRITURES — 13",
+      "heading": null
+    },
+    {
+      "line": "2. DANS L’HISTOIRE — 19",
+      "heading": null
+    },
+    {
+      "line": "3. LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE — 27",
+      "heading": null
+    },
+    {
+      "line": "4. LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU — 35",
+      "heading": null
+    },
+    {
+      "line": "La malédiction empêche la pluie pour nous tous — 38",
+      "heading": null
+    },
+    {
+      "line": "Aie donc du zèle, et repens-toi ! — 41",
+      "heading": null
+    },
+    {
+      "line": "Un miracle refusé — 42",
+      "heading": null
+    },
+    {
+      "line": "5. L’HISTOIRE SE RÉPÈTE — 45",
+      "heading": null
+    },
+    {
+      "line": "À Jérusalem — 45",
+      "heading": null
+    },
+    {
+      "line": "En Judée — 46",
+      "heading": null
+    },
+    {
+      "line": "En Samarie — 47",
+      "heading": null
+    },
+    {
+      "line": "Visitation particulière de l’Église à minuit — 47",
+      "heading": null
+    },
+    {
+      "line": "Les conséquences du réveil — 50",
+      "heading": null
+    },
+    {
+      "line": "1. La conquête du monde et des promesses de Dieu l’Égypte et Canaan — 50",
+      "heading": null
+    },
+    {
+      "line": "2. La sanctification et la piété — 54",
+      "heading": null
+    },
+    {
+      "line": "3. Séparation d’avec les faux frères — 56",
+      "heading": null
+    },
+    {
+      "line": "4. La manifestation de la Puissance de Dieu — 59",
+      "heading": null
+    },
+    {
+      "line": "Ordre de mission en rapport avec la prédication et les signes — 61",
+      "heading": null
+    },
+    {
+      "line": "Le troisième pull — 64",
+      "heading": null
+    },
+    {
+      "line": "6. LA MOISSON ET LES MOISSONNEURS — 73",
+      "heading": null
+    },
+    {
+      "line": "La moisson du Seigneur — 73",
+      "heading": null
+    },
+    {
+      "line": "Les jours du fils de l’homme sont semblables aux jours de Lot — 76",
+      "heading": null
+    },
+    {
+      "line": "La Moisson de la terre — 81",
+      "heading": null
+    },
+    {
+      "line": "CONCLUSION — 82",
+      "heading": null
+    },
+    {
+      "line": "INTRODUCTION",
+      "heading": "## Introduction"
+    },
+    {
+      "line": "DANS LES ÉCRITURES",
+      "heading": "## Dans les Écritures"
+    },
+    {
+      "line": "DANS L’HISTOIRE",
+      "heading": "## Dans l’histoire"
+    },
+    {
+      "line": "LA DÉCHÉANCE SPIRITUELLE DE L’ÉGLISE DE LAODICÉE",
+      "heading": "## La déchéance spirituelle de l’Église de Laodicée"
+    },
+    {
+      "line": "LA DÉCHÉANCE SPIRITUELLE ET MORALE DES SERVITEURS DE DIEU",
+      "heading": "## La déchéance spirituelle et morale des serviteurs de Dieu"
+    },
+    {
+      "line": "LA MALÉDICTION EMPÊCHE LA PLUIE POUR NOUS TOUS",
+      "heading": "### La malédiction empêche la pluie pour nous tous"
+    },
+    {
+      "line": "AIE DONC DU ZÈLE, ET REPENS-TOI !",
+      "heading": "### Aie donc du zèle, et repens-toi !"
+    },
+    {
+      "line": "UN MIRACLE REFUSÉ",
+      "heading": "### Un miracle refusé"
+    },
+    {
+      "line": "L’HISTOIRE SE RÉPÈTE",
+      "heading": "## L’histoire se répète"
+    },
+    {
+      "line": "À Jérusalem",
+      "heading": "### À Jérusalem"
+    },
+    {
+      "line": "En Judée",
+      "heading": "### En Judée"
+    },
+    {
+      "line": "En Samarie",
+      "heading": "### En Samarie"
+    },
+    {
+      "line": "LES CONSÉQUENCES DU RÉVEIL",
+      "heading": "### Les conséquences du réveil"
+    },
+    {
+      "line": "2. La sanctification et la piété",
+      "heading": "### 2. La sanctification et la piété"
+    },
+    {
+      "line": "3. Séparation d’avec les faux frères",
+      "heading": "### 3. Séparation d’avec les faux frères"
+    },
+    {
+      "line": "4. La manifestation de la Puissance de Dieu",
+      "heading": "### 4. La manifestation de la puissance de Dieu"
+    },
+    {
+      "line": "ORDRE DE MISSION EN RAPPORT AVEC LA PRÉDICATION ET LES SIGNES",
+      "heading": "### Ordre de mission en rapport avec la prédication et les signes"
+    },
+    {
+      "line": "LE TROISIÈME PULL",
+      "heading": "### Le troisième pull"
+    },
+    {
+      "line": "La Moisson et les Moissonneurs",
+      "heading": "## La moisson et les moissonneurs"
+    },
+    {
+      "line": "La moisson du Seigneur",
+      "heading": "### La moisson du Seigneur"
+    },
+    {
+      "line": "Les jours du fils de l’homme sont semblables aux jours de Lot",
+      "heading": "### Les jours du fils de l’homme sont semblables aux jours de Lot"
+    },
+    {
+      "line": "La Moisson de la terre",
+      "heading": "### La moisson de la terre"
+    },
+    {
+      "line": "Conclusion",
+      "heading": "## Conclusion"
+    },
+    {
+      "line": "1. La conquête du monde et des promesses de Dieu : L’ÉGYPTE ET CANAAN",
+      "heading": "### 1. La conquête du monde et des promesses de Dieu : l’Égypte et Canaan"
+    }
+  ],
+  "markdown/onedrive/pdf/semence.md": [
+    {
+      "line": "**Sujets de prière**",
+      "heading": "## Sujets de prière"
+    },
+    {
+      "line": "**BREF TÉMOIGNAGE**",
+      "heading": "## Bref témoignage"
+    },
+    {
+      "line": "**Fr M’BRA Parfait**",
+      "heading": null
+    }
+  ],
+  "markdown/onedrive/pdf/temoignagenandy.md": [
+    {
+      "line": "**Serviteur de Dieu dans l’Assemblée de Guibéroua**",
+      "heading": null
+    },
+    {
+      "line": "**1. Avant que je ne reçoive la brochure**",
+      "heading": "## 1. Avant que je ne reçoive la brochure"
+    },
+    {
+      "line": "2. **La visite du frère M’BRA Parfait dans notre Assemblée**",
+      "heading": "## 2. La visite du frère M’BRA Parfait dans notre Assemblée"
+    },
+    {
+      "line": "3. **Après le départ du frère M’BRA**.",
+      "heading": "## 3. Après le départ du frère M’BRA."
+    }
+  ],
+  "markdown/onedrive/pdf/tsunami.md": [
+    {
+      "line": "**VOYEZ UN TSUNAMI SPIRITUEL** !",
+      "heading": null
+    },
+    {
+      "line": "**La révélation des prophéties bibliques**",
+      "heading": "## La révélation des prophéties bibliques"
+    },
+    {
+      "line": "**Ainsi dit le Seigneur aux prophètes circonstanciels** :",
+      "heading": null
+    },
+    {
+      "line": "**Erreurs à ne pas commettre**",
+      "heading": "## Erreurs à ne pas commettre"
+    },
+    {
+      "line": "**La sentinelle de la nuit**",
+      "heading": "## La sentinelle de la nuit"
+    },
+    {
+      "line": "**Combat contre Babylone**",
+      "heading": "## Combat contre Babylone"
+    },
+    {
+      "line": "**La reconstruction de la Muraille**",
+      "heading": "## La reconstruction de la Muraille"
+    },
+    {
+      "line": "**Chaîne de prière (Ésaïe 62 :6-7)**",
+      "heading": "## Chaîne de prière (Ésaïe 62 :6-7)"
+    },
+    {
+      "line": "**Fr. M’BRA Parfait**",
       "heading": null
     }
   ]

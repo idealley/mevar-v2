@@ -1,0 +1,1003 @@
+[
+  {
+    "group": "annee_2007",
+    "keeper": "annee_2007",
+    "folded": [
+      {
+        "id": "annee_2007_a5",
+        "in_keeper": 0.973,
+        "of_keeper": 1
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2008",
+    "keeper": "annee_2008",
+    "folded": [
+      {
+        "id": "annee_2008_a5",
+        "in_keeper": 0.988,
+        "of_keeper": 0.988
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2009",
+    "keeper": "annee_2009",
+    "folded": [
+      {
+        "id": "annee_2009_a5",
+        "in_keeper": 1,
+        "of_keeper": 1
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2010",
+    "keeper": "annee_2010",
+    "folded": [
+      {
+        "id": "annee_2010_a5",
+        "in_keeper": 1,
+        "of_keeper": 1
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2011",
+    "keeper": "annee_2011",
+    "folded": [
+      {
+        "id": "annee_2011_a5",
+        "in_keeper": 0.98,
+        "of_keeper": 0.992
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2012",
+    "keeper": "annee_2012",
+    "folded": [
+      {
+        "id": "annee_2012_a5",
+        "in_keeper": 0.984,
+        "of_keeper": 1
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2013",
+    "keeper": "annee_2013",
+    "folded": [
+      {
+        "id": "annee_2013_a5",
+        "in_keeper": 0.986,
+        "of_keeper": 0.974
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2014",
+    "keeper": "annee_2014",
+    "folded": [
+      {
+        "id": "annee_2014_a5",
+        "in_keeper": 0.982,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2015",
+    "keeper": "annee_2015",
+    "folded": [
+      {
+        "id": "annee_2015_a5",
+        "in_keeper": 0.978,
+        "of_keeper": 0.993
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2016",
+    "keeper": "annee_2016",
+    "folded": [
+      {
+        "id": "annee_2016_a5",
+        "in_keeper": 0.928,
+        "of_keeper": 0.951
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2018",
+    "keeper": "annee_2018",
+    "folded": [
+      {
+        "id": "annee_2018_a5",
+        "in_keeper": 0.969,
+        "of_keeper": 0.981
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2019",
+    "keeper": "annee_2019",
+    "folded": [
+      {
+        "id": "annee_2019_a5",
+        "in_keeper": 0.991,
+        "of_keeper": 1
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "annee_2020",
+    "keeper": "annee_2020",
+    "folded": [
+      {
+        "id": "annee_2020_a5",
+        "in_keeper": 0.962,
+        "of_keeper": 0.968
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "coronavirus",
+    "keeper": "coronavirus_A4",
+    "folded": [
+      {
+        "id": "coronavirus_A5",
+        "in_keeper": 0.996,
+        "of_keeper": 0.982
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "exhortation_annee_2021",
+    "keeper": "exhortation_annee_2021",
+    "folded": [
+      {
+        "id": "exhortation_annee_2021_A5",
+        "in_keeper": 0.992,
+        "of_keeper": 0.999
+      },
+      {
+        "id": "exhortation_annee_2021_A4_gc",
+        "in_keeper": 1,
+        "of_keeper": 1
+      },
+      {
+        "id": "exhortation_annee_2021_A5_gc",
+        "in_keeper": 0.992,
+        "of_keeper": 0.999
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "exhortation_annee_2022",
+    "keeper": "exhortation_annee_2022",
+    "folded": [
+      {
+        "id": "exhortation_annee_2022_A5",
+        "in_keeper": 0.962,
+        "of_keeper": 0.961
+      },
+      {
+        "id": "exhortation_annee_2022_A4_gc",
+        "in_keeper": 0.962,
+        "of_keeper": 0.964
+      },
+      {
+        "id": "exhortation_annee_2022_A5_gc",
+        "in_keeper": 0.952,
+        "of_keeper": 0.967
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "exhortation_annee_2023",
+    "keeper": "exhortation_annee_2023",
+    "folded": [
+      {
+        "id": "exhortation_annee_2023_A5",
+        "in_keeper": 0.965,
+        "of_keeper": 0.981
+      },
+      {
+        "id": "exhortation_annee_2023_A4_gc",
+        "in_keeper": 0.98,
+        "of_keeper": 0.983
+      },
+      {
+        "id": "exhortation_annee_2023_A5_gc",
+        "in_keeper": 0.94,
+        "of_keeper": 0.956
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "exhortation_annee_2024",
+    "keeper": "exhortation_annee_2024_A4",
+    "folded": [
+      {
+        "id": "exhortation_annee_2024_A5",
+        "in_keeper": 0.961,
+        "of_keeper": 0.975
+      },
+      {
+        "id": "exhortation_annee_2024_A4_gc",
+        "in_keeper": 1,
+        "of_keeper": 1
+      },
+      {
+        "id": "exhortation_annee_2024_A5_gc",
+        "in_keeper": 0.984,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "exhortation_annee_2025",
+    "keeper": "exhortation_annee_2025_A4",
+    "folded": [
+      {
+        "id": "exhortation_annee_2025_A5",
+        "in_keeper": 0.925,
+        "of_keeper": 0.928
+      },
+      {
+        "id": "exhortation_annee_2025_A4_gc",
+        "in_keeper": 1,
+        "of_keeper": 1
+      },
+      {
+        "id": "exhortation_annee_2025_A5_gc",
+        "in_keeper": 0.968,
+        "of_keeper": 0.971
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "exhortation_annee_2026",
+    "keeper": "exhortation_annee_2026_A4",
+    "folded": [
+      {
+        "id": "exhortation_annee_2026_A5",
+        "in_keeper": 1,
+        "of_keeper": 0.998
+      },
+      {
+        "id": "exhortation_annee_2026_A4_gc",
+        "in_keeper": 1,
+        "of_keeper": 1
+      },
+      {
+        "id": "exhortation_annee_2026_A5_gc",
+        "in_keeper": 0.977,
+        "of_keeper": 0.991
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "grace_verite",
+    "keeper": "grace_verite_A4",
+    "folded": [
+      {
+        "id": "grace_verite_A5",
+        "in_keeper": 0.979,
+        "of_keeper": 0.976
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "honore_tes_parents",
+    "keeper": "honore_tes_parents",
+    "folded": [
+      {
+        "id": "honore_tes_parents_A5",
+        "in_keeper": 0.954,
+        "of_keeper": 0.996
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "la_priere",
+    "keeper": "la_priere",
+    "folded": [
+      {
+        "id": "la_priere_A5",
+        "in_keeper": 0.994,
+        "of_keeper": 0.981
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_janvier_1973",
+    "keeper": "lc_janvier_1973",
+    "folded": [
+      {
+        "id": "lc_janvier_1973_A5",
+        "in_keeper": 0.985,
+        "of_keeper": 0.996
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_janvier_1974",
+    "keeper": "lc_janvier_1974",
+    "folded": [
+      {
+        "id": "lc_janvier_1974_A5",
+        "in_keeper": 0.96,
+        "of_keeper": 0.973
+      },
+      {
+        "id": "janvier1974",
+        "in_keeper": 0.985,
+        "of_keeper": 0.987
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_juillet_1974",
+    "keeper": "lc_juillet_1974",
+    "folded": [
+      {
+        "id": "lc_juillet_1974_A5",
+        "in_keeper": 0.976,
+        "of_keeper": 0.988
+      },
+      {
+        "id": "juillet1974",
+        "in_keeper": 0.988,
+        "of_keeper": 0.99
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_juin_1973",
+    "keeper": "lc_juin_1973",
+    "folded": [
+      {
+        "id": "lc_juin_1973_A5",
+        "in_keeper": 0.986,
+        "of_keeper": 0.996
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_mars_1972",
+    "keeper": "lc_mars_1972",
+    "folded": [
+      {
+        "id": "lc_mars_1972_A5",
+        "in_keeper": 0.953,
+        "of_keeper": 0.971
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_mars_1974",
+    "keeper": "lc_mars_1974",
+    "folded": [
+      {
+        "id": "lc_mars_1974_A5",
+        "in_keeper": 0.988,
+        "of_keeper": 0.997
+      },
+      {
+        "id": "mars1974",
+        "in_keeper": 0.984,
+        "of_keeper": 0.987
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_novembre_1973",
+    "keeper": "lc_novembre_1973",
+    "folded": [
+      {
+        "id": "lc_novembre_1973_A5",
+        "in_keeper": 0.987,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_octobre_1974",
+    "keeper": "lc_octobre_1974",
+    "folded": [
+      {
+        "id": "lc_octobre_1974_A5",
+        "in_keeper": 0.985,
+        "of_keeper": 0.997
+      },
+      {
+        "id": "octobre1974",
+        "in_keeper": 0.993,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc_septembre_1972",
+    "keeper": "lc_septembre_1972",
+    "folded": [
+      {
+        "id": "lc_septembre_1972_A5",
+        "in_keeper": 0.979,
+        "of_keeper": 0.989
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc1",
+    "keeper": "lc1",
+    "folded": [
+      {
+        "id": "lc1_A5",
+        "in_keeper": 0.973,
+        "of_keeper": 0.982
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc10",
+    "keeper": "lc10",
+    "folded": [
+      {
+        "id": "lc10_A5",
+        "in_keeper": 0.984,
+        "of_keeper": 0.987
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc11",
+    "keeper": "lc11",
+    "folded": [
+      {
+        "id": "lc11_A5",
+        "in_keeper": 0.943,
+        "of_keeper": 0.35
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc12",
+    "keeper": "lc12",
+    "folded": [
+      {
+        "id": "lc12_A5",
+        "in_keeper": 0.978,
+        "of_keeper": 0.988
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc13",
+    "keeper": "lc13",
+    "folded": [
+      {
+        "id": "lc13_A5",
+        "in_keeper": 0.985,
+        "of_keeper": 0.998
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc14",
+    "keeper": "lc14",
+    "folded": [
+      {
+        "id": "lc14_A5",
+        "in_keeper": 0.988,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc15",
+    "keeper": "lc15",
+    "folded": [
+      {
+        "id": "lc15_A5",
+        "in_keeper": 0.988,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc16",
+    "keeper": "lc16",
+    "folded": [
+      {
+        "id": "lc16_A5",
+        "in_keeper": 0.983,
+        "of_keeper": 0.992
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc17",
+    "keeper": "lc17",
+    "folded": [
+      {
+        "id": "lc17_A5",
+        "in_keeper": 0.986,
+        "of_keeper": 0.999
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc18",
+    "keeper": "lc18",
+    "folded": [
+      {
+        "id": "lc18_A5",
+        "in_keeper": 0.979,
+        "of_keeper": 0.989
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc19",
+    "keeper": "lc19",
+    "folded": [
+      {
+        "id": "lc19_A5",
+        "in_keeper": 0.98,
+        "of_keeper": 0.992
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc2",
+    "keeper": "lc2",
+    "folded": [
+      {
+        "id": "lc2_A5",
+        "in_keeper": 0.964,
+        "of_keeper": 0.977
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc20",
+    "keeper": "lc20",
+    "folded": [
+      {
+        "id": "lc20_A5",
+        "in_keeper": 0.96,
+        "of_keeper": 0.972
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc21",
+    "keeper": "lc21",
+    "folded": [
+      {
+        "id": "lc21_A5",
+        "in_keeper": 0.99,
+        "of_keeper": 0.998
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc22",
+    "keeper": "lc22",
+    "folded": [
+      {
+        "id": "lc22_A5",
+        "in_keeper": 0.97,
+        "of_keeper": 0.981
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc23",
+    "keeper": "lc23",
+    "folded": [
+      {
+        "id": "lc23_A5",
+        "in_keeper": 0.968,
+        "of_keeper": 0.98
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc24",
+    "keeper": "lc24",
+    "folded": [
+      {
+        "id": "lc24_A5",
+        "in_keeper": 0.968,
+        "of_keeper": 0.98
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc25",
+    "keeper": "lc25",
+    "folded": [
+      {
+        "id": "lc25_A5",
+        "in_keeper": 0.953,
+        "of_keeper": 0.967
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc26",
+    "keeper": "lc26",
+    "folded": [
+      {
+        "id": "lc26_A5",
+        "in_keeper": 0.975,
+        "of_keeper": 0.983
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc27",
+    "keeper": "lc27",
+    "folded": [
+      {
+        "id": "lc27_A5",
+        "in_keeper": 0.968,
+        "of_keeper": 0.98
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc28",
+    "keeper": "lc28",
+    "folded": [
+      {
+        "id": "lc28_A5",
+        "in_keeper": 0.987,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc29",
+    "keeper": "lc29",
+    "folded": [
+      {
+        "id": "lc29_A5",
+        "in_keeper": 0.985,
+        "of_keeper": 0.994
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc3",
+    "keeper": "lc3",
+    "folded": [
+      {
+        "id": "lc3_A5",
+        "in_keeper": 0.963,
+        "of_keeper": 0.975
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc30",
+    "keeper": "lc30",
+    "folded": [
+      {
+        "id": "lc30_A5",
+        "in_keeper": 0.967,
+        "of_keeper": 0.979
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc31",
+    "keeper": "lc31",
+    "folded": [
+      {
+        "id": "lc31_A5",
+        "in_keeper": 0.984,
+        "of_keeper": 0.992
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc32",
+    "keeper": "lc32",
+    "folded": [
+      {
+        "id": "lc32_A5",
+        "in_keeper": 0.986,
+        "of_keeper": 0.993
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc4",
+    "keeper": "lc4",
+    "folded": [
+      {
+        "id": "lc4_A5",
+        "in_keeper": 0.982,
+        "of_keeper": 0.99
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc5",
+    "keeper": "lc5",
+    "folded": [
+      {
+        "id": "lc5_A5",
+        "in_keeper": 0.988,
+        "of_keeper": 0.998
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc6",
+    "keeper": "lc6",
+    "folded": [
+      {
+        "id": "lc6_A5",
+        "in_keeper": 0.991,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc7",
+    "keeper": "lc7",
+    "folded": [
+      {
+        "id": "lc7_A5",
+        "in_keeper": 0.984,
+        "of_keeper": 0.987
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc8",
+    "keeper": "lc8",
+    "folded": [
+      {
+        "id": "lc8_A5",
+        "in_keeper": 0.986,
+        "of_keeper": 0.998
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "lc9",
+    "keeper": "lc9",
+    "folded": [
+      {
+        "id": "lc9_A5",
+        "in_keeper": 0.987,
+        "of_keeper": 0.997
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "le_bapteme_une_question_importante",
+    "keeper": "le_bapteme_une_question_importante",
+    "folded": [
+      {
+        "id": "le_bapteme_une_question_importante_A4_traite",
+        "in_keeper": 0.918,
+        "of_keeper": 0.932
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "le_jeune",
+    "keeper": "le_jeune",
+    "folded": [
+      {
+        "id": "le_jeune_A5",
+        "in_keeper": 0.996,
+        "of_keeper": 0.998
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "ministeres_pasteur",
+    "keeper": "ministeres_pasteur_A4",
+    "folded": [
+      {
+        "id": "ministeres_pasteur_A5",
+        "in_keeper": 0.974,
+        "of_keeper": 0.977
+      },
+      {
+        "id": "ministeres_pasteur_A4_gc",
+        "in_keeper": 0.981,
+        "of_keeper": 0.989
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "nouvelle_naissance",
+    "keeper": "nouvelle_naissance",
+    "folded": [
+      {
+        "id": "nouvelle_naissance_A4",
+        "in_keeper": 0.981,
+        "of_keeper": 0.984
+      },
+      {
+        "id": "nouvelle_naissance_A5",
+        "in_keeper": 0.977,
+        "of_keeper": 0.982
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "onction_temps_fin",
+    "keeper": "onction_temps_fin_A4",
+    "folded": [
+      {
+        "id": "onction_temps_fin_A5",
+        "in_keeper": 0.997,
+        "of_keeper": 1
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "paille_et_froment",
+    "keeper": "paille_et_froment",
+    "folded": [
+      {
+        "id": "paille_et_froment_A4",
+        "in_keeper": 0.97,
+        "of_keeper": 0.982
+      },
+      {
+        "id": "paille_et_froment_A5",
+        "in_keeper": 0.959,
+        "of_keeper": 0.986
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "quand_dieu",
+    "keeper": "quand_dieu",
+    "folded": [
+      {
+        "id": "quand_dieu_A4_traite",
+        "in_keeper": 0.915,
+        "of_keeper": 0.929
+      },
+      {
+        "id": "quanddieu",
+        "in_keeper": 0.982,
+        "of_keeper": 0.994
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "quel_amour",
+    "keeper": "quel_amour",
+    "folded": [
+      {
+        "id": "quel_amour_A5",
+        "in_keeper": 0.995,
+        "of_keeper": 1
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "quel_bapteme",
+    "keeper": "quel_bapteme",
+    "folded": [
+      {
+        "id": "quel_bapteme_A4_traite",
+        "in_keeper": 0.921,
+        "of_keeper": 0.978
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "savez-vous",
+    "keeper": "savez-vous",
+    "folded": [
+      {
+        "id": "savez-vous_A4_traite",
+        "in_keeper": 0.834,
+        "of_keeper": 0.961,
+        "offered_by": "http://www.cmpp.ch/savez-vous.htm"
+      }
+    ],
+    "not_folded": []
+  },
+  {
+    "group": "votre_attention",
+    "keeper": "votre_attention_A4",
+    "folded": [
+      {
+        "id": "votre_attention_A5",
+        "in_keeper": 0.969,
+        "of_keeper": 0.987
+      }
+    ],
+    "not_folded": []
+  }
+]

@@ -11,9 +11,14 @@ Find which docs exist on each source and collect their URLs.
 | `10-discover-branham.mjs`               | branham.org  | `manifests/branham-<year>.json`         |
 | `13b-branham-interact.js`               | branham.org  | one-shot all-years via Playwright       |
 | `11-discover-le-scribe.mjs`             | le-scribe.org | `manifests/le-scribe.json`             |
-| `12-discover-cmpp.mjs`                  | cmpp.ch      | `manifests/cmpp.json`                   |
+| `12-discover-cmpp.mjs`                  | cmpp.ch, by a plain fetch of its pages (home page and sitemap; on the Mac) | `manifests/cmpp.json`: an entry it has is kept as it is, a PDF it has not is added, an entry no longer linked on the site is kept and named |
+| `12b-pair-cmpp-pages.mjs`               | cmpp.ch's HTML pages, read once into `.html-cache/cmpp/` (gitignored) | `html_url` in `manifests/cmpp.json`: each work's own page, by its name, else by the page that offers its PDF; none for a duplicate or a draft |
+| `43-import-cmpp-html.mjs`               | a CMPP work that has an `html_url` takes its body from that page (goal 31): what `<main>` holds beyond a letter's number and month, then the `<article>`, to markdown with turndown, no model; the narrow-screen copy a page hides at full width is left out only where the block shown in its place prints its words; the title page to `title_page` (its lines as printed) and from them `date`, `time_of_day`, `location`, `original_title`; a heading the page prints in capitals takes the sentence case 87 decided for it (`mevar-section-headings.json`), and no other line changes. After 12b; then 76b, 49b, 83b, 65, 47, 50 | 
 | `40-process-mevar.mjs`                  | firecrawl crawl → `markdown/mevar/` (later replaced by Ghost)   |
 | `45-process-ghost.mjs`                  | mevar Ghost export → final `markdown/mevar/` + tags + authors    |
+| `76b-cmpp-title-pages.mjs`              | what a CMPP work's own text says against the model's `date`, `preacher`: a hand-read table, and three rules (a date is what the PDF prints: a day, a month as `YYYY-MM`, or none; a place the PDF does not print goes; a monthly « Sommaire des rencontres » says its month in its title), into the frontmatter and `manifests/cmpp.json`. After 73, 21 and 22 |
+| `76c-check-cmpp-attributions.mjs`      | read-only: each CMPP work's `preacher`, `date`, `location` against what its PDF prints (confirmed, not printed, contradicted with the line) |
+| `83b-cmpp-variants.mjs`                 | the CMPP's layouts of one text (`_A4`, `_A5`, `_gc`, `_traite`) → `duplicate_of:` on all but one, when the bodies agree, and five texts the corpus has under two names; every group in `manifests/cmpp-variants.json`. After 73 and 49b |
 | `49b-link-cmpp-branham.mjs`             | each CMPP translation of a Branham sermon → `original:` / `translation_fr:`, and its year folder; unresolved to `manifests/cmpp-branham-unresolved.json` |
 | `60-onedrive-inventory.mjs`             | onedrive/    | `manifests/onedrive-inventory.json` (sha1 dedup) |
 | `80-download-mevar-pdfs.mjs`            | mevar CDN    | `manifests/mevar-pdfs.json`             |
@@ -30,6 +35,15 @@ Find which docs exist on each source and collect their URLs.
 
 After parse, `.txt` files are renamed to `.md` and live under `markdown/<source>/...`.
 
+Two kinds of CMPP PDF a page-wide parse reads badly (goal 16, 77 of 274) have their own extraction, into `.parse-cache/cmpp/` (gitignored), where 75 and 76b read the text of a PDF (`scripts/cmpp-pdfs.mjs`; LiteParse's for any other PDF):
+
+| Script                              | Action |
+| ----------------------------------- | ------ |
+| `21-extract-cmpp-booklets.mjs`      | an A5 booklet printed two pages a sheet in printing order (`Page rot: 90`): each half-sheet on its own (pdftotext, cropped), the halves in reading order, checked against the printed page numbers |
+| `22-extract-cmpp-lost-signs.mjs`    | a PDF whose font maps no apostrophe, dash, quote or « œ »: the letters from the text layer, the lost signs from an OCR of the pages (Tesseract.js, French); what the OCR cannot settle in `scripts/cmpp-extraction-fixes.json` |
+
+LlamaParse rewrites words and is not used.
+
 ## Stage 3 — LLM cleanup + NER (DeepSeek V3)
 
 | Script                                   | Action                                                                      |
@@ -38,20 +52,21 @@ After parse, `.txt` files are renamed to `.md` and live under `markdown/<source>
 | `63-dedup-vs-mevar.mjs`                  | Jaccard fingerprint cross-source dup detection                              |
 | `64-add-frontmatter.mjs`                 | YAML frontmatter into each md                                               |
 | `71-llm-fanout.mjs`                      | onedrive: clean + structured NER via DeepSeek                              |
-| `72-llm-fanout-multi.mjs <source>`       | le-scribe / branham (English prompt) / mevar-pdfs                           |
-| `74-recover-errors.mjs <source>`         | retry with smaller chunks (default 25k chars) for stubborn fails            |
-| `73-apply-llm.mjs <source>`              | apply LLM cache → markdown body + manifest fields; the model's "Unknown" is no value |
+| `72-llm-fanout-multi.mjs <source>`       | le-scribe / branham (English prompt) / mevar-pdfs / cmpp (only the entries its manifest does not mark `llm_cleaned`) |
+| `74-recover-errors.mjs <source>`         | retry with smaller chunks (default 25k chars) for stubborn fails; a coupon's dot leaders are shortened first |
+| `73-apply-llm.mjs <source>`              | apply LLM cache → markdown body + manifest fields; the model's "Unknown" is no value; not a CMPP work that has its page (`html_url`) |
+| `75-restore-source-words.mjs <cmpp id>…` | the PDF's words back in a cleaned CMPP body, word by word against its extraction (accents, « œ », Bible abbreviations, single words); a reader's decisions in `scripts/cmpp-source-words.json`. After 73, then 65 and 47 |
 | `76-add-missing-frontmatter.mjs`         | frontmatter for the ten works that had none (hand-read table) and their manifest entries, `manifests/local.json` for the two volumes; run 47, 49, 50 after |
 | `77-branham-date-location.mjs`          | Branham `date` and `year` from the sermon id, `location` from branham.org's year listing (cached in `.firecrawl/`), in manifests and frontmatter; run 50 after |
 | `67-normalize-preachers.mjs`             | every `preacher` to its display name in `scripts/preachers.mjs` (frontmatter + manifests); fails on an unknown spelling. Run after 73 |
 
-Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well below the $66 paper budget).
+Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well below the $66 paper budget). The 277 CMPP works of goal 16: 1.52 USD (2026-10, `deepseek-chat` served by `deepseek-flash`).
 
 ## Stage 4 — Bible reference normalization
 
 | Script                          | Languages          | Output                                   |
 | ------------------------------- | ------------------ | ---------------------------------------- |
-| `65-normalize-bible.mjs`        | French — LSG style | records refs as `Matthieu 24:6`, spoken ones ("Luc chapitre 18 verset 9", "le chapitre 24 de Matthieu") included, and "Matthieu 13 :" before a quote whose first verse number is bold as the quote's verses; every French source, `mevar-pdfs` included; not `branham/` |
+| `65-normalize-bible.mjs`        | French — LSG style | records refs as `Matthieu 24:6`, spoken ones ("Luc chapitre 18 verset 9", "le chapitre 24 de Matthieu") included, and "Matthieu 13 :" before a quote whose first verse number is bold as the quote's verses; a reference printed on a title page (`title_page`, CMPP) counts as cited and comes first; every French source, `mevar-pdfs` included; not `branham/` |
 | `65b-restore-branham-from-source.mjs` | English | puts the branham.org wording back where old runs rewrote it; only with `--from-scratch`, after 73 (goal 26) |
 | `65c-restore-french-citations.mjs` | French | puts the Ghost (`mevar`) and le-scribe.org PDF (`le-scribe`) wording of a citation back where old runs of 65 wrote it canonical |
 | `65d-strip-branham-furniture.mjs` | English | takes the booklets' page headers ("18 THE SPOKEN WORD", "AN EXODUS 19") out of the text, where the PDF confirms each one |
@@ -89,6 +104,7 @@ for 85 the root `.env` (`DOTENV_CONFIG_PATH=<root>/.env` from a worktree).
 | `84-extract-originals.mjs <batch>`  | each PDF original to `.parse-cache/` (gitignored) through pdftohtml (poppler): the text layer word for word, with the preacher's bold as `**…**` |
 | `85-editorial-pass.mjs <batch>`     | gpt-6-sol applies goal 04's rules to the original; missing readings become Segond verses from `bible_verse` (`segond.mjs`); result to `.pass-cache/` |
 | `86-check-editorial-pass.mjs <batch>` | word-by-word check of original against pass; a text with no unexplained change is written to `markdown/` with `editorial_pass`; report to `docs/goals/evidence/goal-10-batch-<batch>.md` |
+| `87-section-headings.mjs <batch>` \| `--pages` | gpt-6-sol puts the section headings in sentence case (goal 18): the words stay, accents come on the capitals, a heading's bold goes; an answer whose letters differ by more than case and accents is refused. Decisions in `mevar-section-headings.json`. `--pages`: only the headings of the CMPP works that take their text from a page (goal 31), which 43 then applies |
 | `mevar-editorial-fixes.json`        | the editor's fixes (Samuel, or Claude as his editor): per text, an exact passage of the pass and its replacement, with a kind and a reason; 86 applies them before its check and lists them; only a fix of kind `word` may add or remove a word |
 
 Then 65 on the batch's files and 47, as after any change to a body. 73
@@ -115,12 +131,13 @@ committed and served from our domain (`web/public/images`, `web/public/files`).
 ## Stage 6b — PDFs and recordings on our domain
 
 73 rewrites a whole file from the manifest and its cache, so after it these run
-again: they set the fields that point at our copies.
+again: they set the fields that point at our copies. (For `cmpp`, 75, 67, 76b,
+49b, 83b, 65 and 47 run again too.)
 
 | Script                         | Action                                                  |
 | ------------------------------ | ------------------------------------------------------- |
 | `95-mevar-pdfs.mjs`            | a Mevar text's PDF (`text_pdf`) and its OneDrive original (`local_pdf`) |
-| `96-r2-pdfs.mjs`               | Branham, Le Scribe and CMPP PDFs to R2, `local_pdf`    |
+| `96-r2-pdfs.mjs`               | Branham, Le Scribe and CMPP PDFs to R2, `local_pdf`; not a draft's |
 | `97-mevar-media.mjs`           | Ghost posts' recordings to R2 as MP3 (`local_audio`), their YouTube videos (`video_url`), from `scripts/mevar-media.json` |
 | `98-r2-branham-audio.mjs`      | Branham recordings to R2, `local_audio`                |
 

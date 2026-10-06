@@ -5,7 +5,7 @@ title: "LE CHEF-D’OEUVRE"
 subtitle: "5 juillet 1964, matin"
 date: "1964-07-05"
 year: 1964
-location: "Jeffersonville — Indiana, U.S.A."
+location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
 preacher: "William Branham"
 summary: "William Branham utilise la statue de Moïse par Michel-Ange comme métaphore pour décrire le plan de Dieu à travers l'histoire : la création de l'homme à Son image, sa chute, et la restauration par Jésus-Christ, le Chef-d'Œuvre parfait. Il souligne que Dieu a façonné l'humanité à travers les patriarches et les prophètes, culminant en Christ, qui est la Parole faite chair."
 tags:
@@ -70,47 +70,18 @@ bible_refs:
   - "Malachie 4"
   - "Apocalypse 10"
   - "Luc 17"
-local_pdf: "https://files.mevar.org/cmpp/undated/chef_oeuvre.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1964/chef_oeuvre.pdf"
 original: "branham/1964/64-0705"
+original_title: "The Masterpiece"
+time_of_day: "matin"
+html_url: "http://www.cmpp.ch/chef_oeuvre.htm"
+title_page: ["LE CHEF-D’OEUVRE","(The Masterpiece)","5 juillet 1964, matin","Branham Tabernacle","Jeffersonville — Indiana, U.S.A."]
 ---
-LA PAROLE PARLEE
-
-PAR
-
-WILLIAM MARRION BRANHAM
-
-
-
- LE CHEF-D’OEUVRE
-(The Masterpiece)
-
-
-
-     5 juillet 1964, matin
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
-
-    “LA PAROLE PARLEE EST LA SEMENCE ORIGINALE”
-
-    LE CHEF-D’OEUVRE    2
-
-        LE CHEF-D’OEUVRE
-       (The Masterpiece)
-
-     5 juillet 1964, matin
-        Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
 1 Inclinons nos têtes pour la prière! Pendant que nos têtes et nos coeurs sont inclinés devant Dieu, j’aimerais savoir combien ici ont une requête qu’ils aimeraient voir présentée à Dieu? Faites-la connaître en levant simplement votre main. Et maintenant, alors que nous prions, gardez votre requête dans votre coeur.
 
 2 Seigneur Jésus, Toi qui es la Source, la Source inépuisable de la Vie, coule à travers nous aujourd'hui, Seigneur, et nettoie-nous de toute incrédulité et de tout péché, afin que nous puissions subsister en Ta présence, sachant qu’il y a des besoins parmi nous… Nous savons que nous sommes pécheurs et que nous ne sommes dignes d’aucune bénédiction. Mais, quand nous pensons à Lui qui est venu prendre nos péchés, alors, quand Son Sang est ici, ce n’est pas nous qui venons dans la présence de Dieu, c’est Lui, c’est notre voix au travers de Son Sang; c’est Son Sang qui parle. O, Dieu, nettoie alors nos coeurs du péché et de l’incrédulité!
 
-3 Accorde-nous le désir de nos coeurs, car nous avons vraiment le désir de Te servir. Dans ces situations qui nous affaiblissent et nous affligent, ces choses que le monde met parfois sur nous, et qui servent à nous perfectionner… Nous avons entendu que Jésus a dit: “Ne soyez pas surpris, comme d’une chose étrange qui vous arrive, de la fournaise qui est au milieu de vous pour vous éprouver”. Toutes ces choses ne sont là que pour notre bien et pour notre perfectionnement, pour nous amener à la place qui est la nôtre. Ce grand désert des épreuves qui modèle les justes pour faire des saints… Nous Te remercions pour ces épreuves, Seigneur. Nous ne voulons en aucune façon faire quelque chose de contraire à Ta volonté; mais nous Te prions, Père, qu’en cela, nous soyons amenés plus près de Toi.
+3 Accorde-nous le désir de nos coeurs, car nous avons vraiment le désir de Te servir. Dans ces situations qui nous affaiblissent et nous affligent, ces choses que le monde met parfois sur nous, et qui servent à nous perfectionner… Nous avons entendu que Jésus a dit: *“Ne soyez pas surpris, comme d’une chose étrange qui vous arrive, de la fournaise qui est au milieu de vous pour vous éprouver”.* Toutes ces choses ne sont là que pour notre bien et pour notre perfectionnement, pour nous amener à la place qui est la nôtre. Ce grand désert des épreuves qui modèle les justes pour faire des saints… Nous Te remercions pour ces épreuves, Seigneur. Nous ne voulons en aucune façon faire quelque chose de contraire à Ta volonté; mais nous Te prions, Père, qu’en cela, nous soyons amenés plus près de Toi.
 
 4 Et quand les fardeaux sont si pesants que nous ne pouvons plus avancer, alors nous levons les mains et crions à notre Père. Alors, écoute-nous du Ciel, Seigneur. Guéris-nous! Donne-nous la santé à cause du Royaume de Dieu. Bénis Ta Parole, ce matin, ô Seigneur. Ta Parole est la Vérité!
 
@@ -140,13 +111,13 @@ Jeffersonville — Indiana, U.S.A.
 
 17 Je veux lire, maintenant, quelque chose dans la Bible. Et avant de lire, j’aimerais dire qu’il y a ce soir, je crois, la Sainte Cène. Vous qui êtes de la région (certainement que les autres gens retourneront dans leurs demeures, parce qu’ils doivent aussi travailler, demain), vous qui êtes de la région, de l’assemblée d’ici, souvenez-vous que ce soir, les frères donneront la Sainte Cène.
 
-18 Maintenant, j’attends un dernier appel pour l’Afrique. Ils ne veulent pas me laisser aller comme missionnaire. Aussi, la seule manière pour que je puisse aller là-bas… Je vais aller au Kenya, Ouganda, Tanganyika. Et la seule manière que je puisse aller là-bas… Premièrement, les Eglises ne veulent pas me laisser entrer, parce qu’elles veulent que je prêche ceci d’un côté, et cela de l’autre, là-bas en Afrique. Et je ne veux pas aller dans ces conditions. Je ne suis pas assez hypocrite pour faire cela. Je leur dirai plutôt: «Je ne prêcherai que ce que Dieu mettra sur mon coeur, et c’est tout». Vous voyez? Et je suis sûr que ce ne sera pas ce qu’ils voudraient que j’enseigne: baptême trinitaire, et autres choses pareilles (et disputant avec eux). Non!
+18 Maintenant, j’attends un dernier appel pour l’Afrique. Ils ne veulent pas me laisser aller comme missionnaire. Aussi, la seule manière pour que je puisse aller là-bas… Je vais aller au Kenya, Ouganda, Tanganyika. Et la seule manière que je puisse aller là-bas… Premièrement, les Eglises ne veulent pas me laisser entrer, parce qu’elles veulent que je prêche *ceci* d’un côté, et *cela* de l’autre, là-bas en Afrique. Et je ne veux pas aller dans ces conditions. Je ne suis pas assez hypocrite pour faire cela. Je leur dirai plutôt: «Je ne prêcherai que ce que Dieu mettra sur mon coeur, et c’est tout». Vous voyez? Et je suis sûr que ce ne sera pas ce qu’ils voudraient que j’enseigne: baptême trinitaire, et autres choses pareilles (et disputant avec eux). Non!
 
 19 Mais j’ai été demandé pour une grande convention chez frère Boze; il est sur le point de recevoir la lumière sur ce que nous croyons. Ainsi j’ai demandé à entrer en Afrique comme si j’allais faire une tournée de chasse. Si je peux trouver quelqu’un qui dise qu’il me prendra avec lui à la chasse (le docteur de l’Ambassade est un ami personnel qui vient de Chicago…), mais sitôt que je serai là, il dira: «Frère Branham est ici, faisons une réunion». Alors, quand je serai là, l’Ambassade ne pourra plus me renvoyer. Ils sont en train de préparer cela maintenant. Je suis sûr que si c’est la volonté de Dieu, cela pourra aller de cette manière. Vous voyez? Nous avons tout simplement remis cela entre Ses mains. Si cela n’a pas lieu, je vous le ferai savoir.
 
 20 Alors, si c’est la volonté de Dieu, j’aimerais parler une fois sur les sept trompettes. Ce sera un service de prédication d’environ huit jours. Nous ne le ferons pas ici, dans ce tabernacle; peut-être que nous essayerons d’avoir l’auditorium de la ville.
 
-21 Je n’ai jamais pensé à ce nouvel auditorium, qui a été bâti là-bas. C’est à cet endroit même que j’ai eu la vision de Jésus pour la première fois (l’auditorium est bâti juste sur le même endroit. Je suis allé là-bas l’autre jour, pour voir). Alors que je regardais, je vis Jésus regardant vers l’Est (vous vous rappelez m’avoir entendu raconter cela), alors que j’étais sorti là prier pour mon père, quand j’étais jeune prédicateur. C’est là que je Le vis; je m’avançai, et je Le regardai. Il détournait la tête, regardant ailleurs. Je continuai à marcher, éclaircissant ma voix; c’était un champ de genêts. Je continuai à regarder, mais Il ne Se retourna pas. Alors, je L’appelai par Son Nom: “Jésus!”. Il Se tourna, et étendit les bras. C’est tout ce dont je me souviens, de ce qui s’est passé jusqu’au lever du jour. Je ne sortis de ce champ que vers le lever du jour. Ainsi, peut-être que le Seigneur me laissera prêcher là-bas sur les sept trompettes. Où que ce soit, la volonté de Dieu sera faite.
+21 Je n’ai jamais pensé à ce nouvel auditorium, qui a été bâti là-bas. C’est à cet endroit même que j’ai eu la vision de Jésus pour la première fois (l’auditorium est bâti juste sur le même endroit. Je suis allé là-bas l’autre jour, pour voir). Alors que je regardais, je vis Jésus regardant vers l’Est (vous vous rappelez m’avoir entendu raconter cela), alors que j’étais sorti là prier pour mon père, quand j’étais jeune prédicateur. C’est là que je Le vis; je m’avançai, et je Le regardai. Il détournait la tête, regardant ailleurs. Je continuai à marcher, éclaircissant ma voix; c’était un champ de genêts. Je continuai à regarder, mais Il ne Se retourna pas. Alors, je L’appelai par Son Nom: «Jésus!». Il Se tourna, et étendit les bras. C’est tout ce dont je me souviens, de ce qui s’est passé jusqu’au lever du jour. Je ne sortis de ce champ que vers le lever du jour. Ainsi, peut-être que le Seigneur me laissera prêcher là-bas sur les sept trompettes. Où que ce soit, la volonté de Dieu sera faite.
 
 22 Ouvrez maintenant vos Bibles au chapitre 53 d’Esaïe. Nous avons cette confiance, que Dieu bénira les faibles efforts que nous avons faits pour nous rassembler ici, ce matin. Nous arrivons de Philadelphie, où j’ai assisté à la convention des hommes d’affaires du Plein Evangile. Ecoutant les différents témoignages et autres…
 
@@ -154,7 +125,7 @@ Jeffersonville — Indiana, U.S.A.
 
 24 Maintenant, levons-nous pour honorer la Parole de Dieu, alors que nous lisons le chapitre 53 d’Esaïe:
 
-> “Qui a cru à ce qui nous était annoncé? Qui a reconnu le bras de l’Eternel? (Remarquez que cela commence par une question). Il s’est élevé devant lui comme une faible plante, comme un rejeton qui sort d’une terre desséchée; il n’avait ni beauté, ni éclat pour attirer nos regards, et son aspect n’avait rien pour nous plaire. Méprisé et abandonné des hommes, homme de douleur et habitué à la souffrance, semblable à celui dont on détourne le visage, nous l’avons dédaigné, nous n’avons fait de lui aucun cas. Cependant, ce sont nos souffrances qu’il a portées, c’est de nos douleurs qu’il s’est chargé; et nous l’avons considéré comme puni, frappé de Dieu, et humilié. Mais il était blessé pour nos péchés, brisé pour nos iniquités; le châtiment qui nous donne la paix est tombé sur lui, et c’est par ses meurtrissures que nous sommes guéris. Nous étions tous errants comme des brebis, chacun suivait sa propre voie; et l’Eternel a fait retomber sur lui l’iniquité de nous tous. Il a été maltraité et opprimé, et il n’a point ouvert la bouche, semblable à un agneau qu’on mène à la boucherie, à une brebis muette devant ceux qui la tondent; il n’a point ouvert la bouche. Il a été enlevé par l’angoisse et le châtiment; et, parmi ceux de sa génération, qui a cru qu’il était retranché de la terre des vivants et frappé pour les péchés de mon peuple? On a mis son sépulcre parmi les méchants, son tombeau avec le riche, quoiqu’il n’eût point commis de violence et qu’il n’y eût point eu de fraude dans sa bouche. Il a plu à l’Eternel de le briser par la souffrance… Après avoir livré sa vie en sacrifice pour le péché, il verra une postérité et prolongera ses jours; et l’oeuvre de l’Eternel prospérera entre ses mains. A cause du travail de son âme, il rassasiera ses regards; par sa connaissance, mon serviteur juste justifiera beaucoup d’hommes, et il se chargera de leurs iniquités. C’est pourquoi je lui donnerai sa part avec les grands; il partagera le butin avec les puissants, parce qu’il s’est livré lui-même à la mort, et qu’il a été mis au nombre des malfaiteurs, parce qu’il a porté les péchés de beaucoup d’hommes, et qu’il a intercédé pour les coupables”.
+> *“Qui a cru à ce qui nous était annoncé? Qui a reconnu le bras de l’Eternel?* (Remarquez que cela commence par une question). *Il s’est élevé devant lui comme une faible plante, comme un rejeton qui sort d’une terre desséchée; il n’avait ni beauté, ni éclat pour attirer nos regards, et son aspect n’avait rien pour nous plaire. Méprisé et abandonné des hommes, homme de douleur et habitué à la souffrance, semblable à celui dont on détourne le visage, nous l’avons dédaigné, nous n’avons fait de lui aucun cas. Cependant, ce sont nos souffrances qu’il a portées, c’est de nos douleurs qu’il s’est chargé; et nous l’avons considéré comme puni, frappé de Dieu, et humilié. Mais il était blessé pour nos péchés, brisé pour nos iniquités; le châtiment qui nous donne la paix est tombé sur lui, et c’est par ses meurtrissures que nous sommes guéris. Nous étions tous errants comme des brebis, chacun suivait sa propre voie; et l’Eternel a fait retomber sur lui l’iniquité de nous tous. Il a été maltraité et opprimé, et il n’a point ouvert la bouche, semblable à un agneau qu’on mène à la boucherie, à une brebis muette devant ceux qui la tondent; il n’a point ouvert la bouche. Il a été enlevé par l’angoisse et le châtiment; et, parmi ceux de sa génération, qui a cru qu’il était retranché de la terre des vivants et frappé pour les péchés de mon peuple? On a mis son sépulcre parmi les méchants, son tombeau avec le riche, quoiqu’il n’eût point commis de violence et qu’il n’y eût point eu de fraude dans sa bouche. Il a plu à l’Eternel de le briser par la souffrance… Après avoir livré sa vie en sacrifice pour le péché, il verra une postérité et prolongera ses jours; et l’oeuvre de l’Eternel prospérera entre ses mains. A cause du travail de son âme, il rassasiera ses regards; par sa connaissance, mon serviteur juste justifiera beaucoup d’hommes, et il se chargera de leurs iniquités. C’est pourquoi je lui donnerai sa part avec les grands; il partagera le butin avec les puissants, parce qu’il s’est livré lui-même à la mort, et qu’il a été mis au nombre des malfaiteurs, parce qu’il a porté les péchés de beaucoup d’hommes, et qu’il a intercédé pour les coupables”.*
 
 25 Père céleste, Ta Parole est une lampe, la lumière qui éclaire le sentier de tout croyant qui vient en Ta présence; c’est comme si nous portions une lanterne à la main, Tu n’as pas voulu que nous puissions voir la fin dès le commencement, mais nous marchons avec foi. C’est comme pour un homme qui traverserait de nuit une forêt noire (et c’est là que nous nous trouvons); la lampe qu’il tient à la main ne l’éclaire qu’à chaque pas. Mais le sentier, bien qu’il conduise en haut, avance précisément avec la lumière. Que la lumière puisse luire aujourd’hui sur la Parole, pour nous conduire un pas plus loin vers le Royaume de Dieu. Car nous le demandons au Nom de Jésus. Amen. (Vous pouvez vous asseoir).
 
@@ -182,7 +153,7 @@ Jeffersonville — Indiana, U.S.A.
 
 37 Et, alors que celle-ci était achevée, il se tint un peu éloigné, le marteau de sculpteur à la main, et il observa la statue. L’inspiration de la vision, qui lui avait montré comment elle devait être faite, le remplissait tellement, qu’il fut saisi par elle, au point qu’il frappa sur le genou de la statue, et dit: «Parle!».
 
-38 Et maintenant, il y a un défaut, à cette glorieuse image, sur le genou droit. Juste au-dessus du genou, il y a une brèche de 15 cm. J’ai mis ma main dessus, et elle est profonde environ comme cela.
+38 Et maintenant, il y a un défaut, à cette glorieuse image, sur le genou droit. Juste au-dessus du genou, il y a une brèche de 15 cm. J’ai mis ma main dessus, et elle est profonde environ comme *cela*.
 
 39 Après avoir passé tout ce temps, pendant des années et des années, à faire cette oeuvre, sous l’impulsion et dans la fièvre de voir s’accomplir la vision qu’il avait dans le coeur, et désirant tellement la voir, elle était enfin achevée. Et, lorsque son oeuvre fut achevée, il fut tellement inspiré par son oeuvre, qu’il pensa que son chef-d’oeuvre devait lui parler. C’est alors qu’il le frappa aux jambes en criant: «Parle!». C’est ce qui lui fit une brèche. Il mit un défaut à son image.
 
@@ -206,7 +177,7 @@ Jeffersonville — Indiana, U.S.A.
 
 49 Et, de même qu’un grand sculpteur prendrait son chef-d’oeuvre… Premièrement, Il avait là un chef-d’oeuvre Le représentant Lui-même. Mais Il vit que ce chef-d’oeuvre était aussi solitaire que Lui-même, aussi divisa-t-Il le chef-d’oeuvre en le frappant au côté, et en suscita une compagne.
 
-50 Et alors, pour faire un seul avec les deux, Il les plaça, telle une glorieuse sculpture, en un endroit merveilleux. Un sculpteur ne voudrait pas faire un grand chef-d’oeuvre pour le placer dans une allée quelconque, ou le cacher derrière un bâtiment. C’est comme notre Seigneur nous l’a dit: “Personne n’allume une lampe pour la mettre sous le boisseau”. Lorsque nous devenons le chef-d’oeuvre de Dieu, nous ne sommes pas cachés dans une allée quelque part; nous devons donner de la lumière.
+50 Et alors, pour faire un seul avec les deux, Il les plaça, telle une glorieuse sculpture, en un endroit merveilleux. Un sculpteur ne voudrait pas faire un grand chef-d’oeuvre pour le placer dans une allée quelconque, ou le cacher derrière un bâtiment. C’est comme notre Seigneur nous l’a dit: *“Personne n’allume une lampe pour la mettre sous le boisseau”*. Lorsque nous devenons le chef-d’oeuvre de Dieu, nous ne sommes pas cachés dans une allée quelque part; nous devons donner de la lumière.
 
 51 Ainsi, nous voyons qu’après avoir fait ce chef-d’oeuvre, Dieu le plaça ici sur terre, et Il le mit dans le lieu le plus merveilleux qui soit: dans le jardin d’Eden. Il plaça Son Chef-d’oeuvre (les deux étant un) dans le jardin d’Eden. Combien cela dut Le réjouir de voir que Son chef-d’oeuvre était parfait! Après cela, nous pouvons lire qu’Il Se reposa. Dieu était tellement satisfait de Son oeuvre!
 
@@ -220,9 +191,9 @@ Jeffersonville — Indiana, U.S.A.
 
 56 Cependant, le Grand Sculpteur, lorsqu’Il vit la chute de Sa famille, de Son chef-d’oeuvre, Il ne voulut pas le laisser étendu, la face contre terre, et tomber en ruines. Il Se remit immédiatement au travail pour le reconstruire. Ce n’était pas Sa volonté qu’il périsse, demeurant à terre tout le temps, car Il est Dieu, et Il ne peut être vaincu. Ainsi donc, Il Se mit immédiatement au travail, et recommença à façonner un homme à Sa propre image.
 
-57 Nous avons découvert que le monde d’avant le déluge est venu, et a causé la destruction du chef-d’oeuvre, parce que l’alliance avait été faite sous certaines conditions: “Si vous ne faites pas ceci, ou si vous faites cela…” Dieu, le Grand Sculpteur, vit que l’homme ne pouvait pas garder une alliance. Cela lui est impossible! Il n’y avait aucun moyen!
+57 Nous avons découvert que le monde d’avant le déluge est venu, et a causé la destruction du chef-d’oeuvre, parce que l’alliance avait été faite sous certaines conditions: “Si vous ne faites pas ceci, ou si vous faites cela…”. Dieu, le Grand Sculpteur, vit que l’homme ne pouvait pas garder une alliance. Cela lui est impossible! Il n’y avait aucun moyen!
 
-     Dans l’interview que j’ai eue il y a un moment, je parlais à une personne qui est présente dans la salle maintenant. Elle disait: «Mais, frère Branham, il y a en moi tellement de choses que je sais être fausses». (C’est une brave dame pieuse).
+Dans l’interview que j’ai eue il y a un moment, je parlais à une personne qui est présente dans la salle maintenant. Elle disait: «Mais, frère Branham, il y a en moi tellement de choses que je sais être fausses». (C’est une brave dame pieuse).
 
 58 Je dis: «Ecoutez, soeur, vous ne devez pas regarder à vous-même; ce qui compte, c’est votre désir, ce que vous essayez de faire. Si vous aimez réellement le Seigneur, vous essayerez de Le servir de tout votre coeur. Alors, toutes vos fautes seront cachées dans le Sang du Seigneur Jésus. (Vous voyez?) Il a créé une issue».
 
@@ -252,23 +223,21 @@ Jeffersonville — Indiana, U.S.A.
 
 71 Un Rédempteur de l’homme tellement parfait, d’une telle piété (bien qu’il n’y eût en Lui aucune beauté), à l’image de Dieu, à un point tel que le Glorieux Maître qui avait fait apparaître Sa vie au travers des prophètes (Il était l’accomplissement de tous les prophètes)… Il était parfait à un point tel, que Dieu, voyant cela, Le frappa en S’écriant: “Parle!”, comme Michel-Ange l’avait fait avec son chef-d’oeuvre, disant: «Parle!».
 
-72 Vous direz: «Est-ce bien ainsi?». Sur la Montagne de la transfiguration, dans Marc 9.7, nous voyons se tenir là Moïse qui représente la loi, et Elie qui représente les prophètes. En remontant jusqu’aux patriarches, par les pères, la loi, les prophètes, tout était là; et alors se fit entendre une voix venant de la nuée, et disant: “Celui-ci est mon Fils bien-aimé, écoutez-le!”. Et s’ils écoutent, il faut qu’Il parle! C’était juste quelques jours avant qu’Il ne soit frappé. “Celui-ci est Mon Fils, en qui J’ai mis toute Mon affection. Je L’ai façonné. Il M’a fallu quatre mille ans pour L’amener jusque là. Et maintenant, Il est si parfait que Je m’en vais Le frapper, pour qu’Il puisse parler. Vous, écoutez-Le. Il est le Seul parfait. Il est le Chef-d’Oeuvre”.
+72 Vous direz: «Est-ce bien ainsi?». Sur la Montagne de la transfiguration, dans Marc 9.7, nous voyons se tenir là Moïse qui représente la loi, et Elie qui représente les prophètes. En remontant jusqu’aux patriarches, par les pères, la loi, les prophètes, tout était là; et alors se fit entendre une voix venant de la nuée, et disant: *“Celui-ci est mon Fils bien-aimé, écoutez-le!”*. Et s’ils écoutent, il faut qu’Il parle! C’était juste quelques jours avant qu’Il ne soit frappé. “Celui-ci est Mon Fils, en qui J’ai mis toute Mon affection. Je L’ai façonné. Il M’a fallu quatre mille ans pour L’amener jusque là. Et maintenant, Il est si parfait que Je m’en vais Le frapper, pour qu’Il puisse parler. Vous, écoutez-Le. Il est le Seul parfait. Il est le Chef-d’Oeuvre”.
 
 73 Souvenez-vous qu’Il fut dépeint dans toutes les époques de l’Ancien Testament. Nous Le trouvons comme le Rocher qui a été frappé dans le désert. “Je suis le Rocher qui a été frappé dans le désert”. Mais cela n’était qu’une pierre, et elle ne pouvait pas encore arriver à la perfection. Mais en forme de type, Il suivait l’Eglise pour tirer de Cela ce qu’Il en pouvait tirer, et donner la Vie à ceux auxquels Il pouvait donner la Vie. Cependant, c’était Lui, le Rocher dans le désert. Il n’avait pas encore pris la forme d’un homme. Ce n’est que comme type qu’Il était présent.
 
 74 Moïse Le vit Se tenant debout sur ce rocher. Il Le vit lorsqu’Il eut passé, et il dit: “C’était comme un homme vu de derrière”. Vous voyez? Ce que le Grand Sculpteur avait montré à Moïse était l’image future de Christ. Il lui montrait à quoi ressemblerait le grand Chef-d’Oeuvre, lorsqu’Il serait achevé. Il projeta, pour Moïse, la vision de l’apparence qu’aurait le Chef-d’Oeuvre. Quand Il eut passé devant lui dans le désert, Moïse put voir comme un homme vu de dos.
 
-75 Souvenez-vous que Michel-Ange ne pouvait que crier et frapper l’image, en disant: «Parle!». Mais combien c’était différent pour Dieu, le Glorieux Sculpteur! Lorsqu’Il fit un homme à Sa propre image, elle était si parfaite qu’elle Le reflétait; et Dieu parla au travers de l’image de l’homme, montrant ce qu’Il ferait. Il parla aux prophètes lorsqu’ils étaient potentiellement dans l’image, et qu’Il préparait l’avènement de la Tête. Mais quand Dieu vint dans la Tête, Christ fut entièrement l’image de Dieu. Il Se représenta Lui-même. Alors, Il fut frappé pour nous… Maintenant, Il est le Chef-d’Oeuvre pour nous, le Don de Dieu, Jésus-Christ, la Vie Eternelle. J’espère que vous n’oublierez jamais cela.
+75 Souvenez-vous que Michel-Ange ne pouvait que crier et frapper l’image, en disant: «Parle!». Mais combien c’était différent pour Dieu, le Glorieux Sculpteur! Lorsqu’Il fit un homme à Sa propre image, elle était si parfaite qu’elle Le reflétait; et Dieu parla *au travers* de l’image de l’homme, montrant ce qu’Il ferait. Il parla aux prophètes lorsqu’ils étaient potentiellement dans l’image, et qu’Il préparait l’avènement de la Tête. Mais quand Dieu vint dans la Tête, Christ fut *entièrement* l’image de Dieu. Il Se représenta Lui-même. Alors, Il fut frappé pour nous… Maintenant, Il est le Chef-d’Oeuvre pour nous, le Don de Dieu, Jésus-Christ, la Vie Eternelle. J’espère que vous n’oublierez jamais cela.
 
 76 Comme nous voyons le jour s’obscurcir, et les ombres descendre… Lorsque je prédis qu’il n’y aurait plus que quelques couchers de soleil avant la fin de cette nation… Savez-vous qu’hier, le 4 juillet, était l’anniversaire du jour où Thomas Jefferson signa la déclaration d’Indépendance, lui et le comité qui était avec lui, la cloche de la liberté retentit, et nous fûmes déclarés indépendants en tant que nation. Selon l’histoire, il n’y a jamais eu une démocratie qui ait duré plus de deux cents ans. C’était le 4 juillet 1776. Et il reste juste onze ans. Les atteindra-t-elle? Non, ce n’est pas possible! Si elle dépasse ces onze ans, il y a une rupture dans toute l’histoire.
 
 77 Et nous voyons quelle est la condition de ces temps. Nous voyons l’état des peuples. Nous voyons les conditions dans lesquelles on fait la politique. Nous voyons la condition de ce monde. Cela ne peut pas durer! Cela va sombrer comme le Titanic. Cela doit sombrer. Lorsqu’une nation tombe, elle fait de la place pour une autre. Et ce royaume doit tomber, ainsi que tous les autres royaumes, pour faire place au Royaume qui vient et qui ne peut tomber. Parce que nous recevons un Royaume qui ne peut être renversé, au travers de cette parfaite image de Dieu, le Chef-d’Oeuvre.
 
-78 Dieu était tellement inspiré quand Il Le regardait; Il était tellement… Son apparence, Sa forme L’inspiraient tellement… cette forme serait le parfait Chef-d’Oeuvre d’un Rédempteur: Jésus, le Rédempteur. Ainsi, Dieu, afin d’être frappé Lui-même et de payer le prix qu’Il avait fixé Lui-même, est devenu Un avec Christ, afin que Dieu puisse être frappé dans Son image, qu’Il puisse être blessé… Et c’est ce que dit Esaïe: “Nous l’avons considéré comme frappé et affligé de Dieu. Mais il était blessé pour nos péchés, brisé pour nos iniquités; le châtiment qui nous donne la paix est tombé sur lui, et c’est par ses meurtrissures que nous sommes guéris”.
+78 Dieu était tellement inspiré quand Il Le regardait; Il était tellement… Son apparence, Sa forme L’inspiraient tellement… cette forme serait le parfait Chef-d’Oeuvre d’un Rédempteur: Jésus, le Rédempteur. Ainsi, Dieu, afin d’être frappé Lui-même et de payer le prix qu’Il avait fixé Lui-même, est devenu Un avec Christ, afin que Dieu puisse être frappé dans Son image, qu’Il puisse être blessé… Et c’est ce que dit Esaïe: *“Nous l’avons considéré comme frappé et affligé de Dieu. Mais il était blessé pour nos péchés, brisé pour nos iniquités; le châtiment qui nous donne la paix est tombé sur lui, et c’est par ses meurtrissures que nous sommes guéris”.*
 
-LE CHEF-D’OEUVRE 11
-
-79 L’image parfaite du Dieu homme, de Dieu “En morphe”, avait été changée de sa forme Surnaturelle en une vision. Puis la vision a été projetée dans l’Image. Et l’Image a été frappée afin que le Surnaturel puisse goûter les sentiments de la mort par le Chef-d’Oeuvre parfait de Dieu. Il ne pouvait pas le faire en Moïse. Il ne pouvait pas le faire dans les prophètes. Esaïe avait été scié jusqu’à être réduit en pièces… Il ne pouvait pas le faire dans les prophètes qui avaient été lapidés. Il ne pouvait pas le faire, parce qu’Il ne pouvait pas le ressentir. Ils n’étaient qu’une portion de Lui. Mais dans ce Chef-d’Oeuvre parfait, Il était corporellement la plénitude de la Divinité. Ce n’est pas seulement Moïse qu’Il pouvait projeter, mais c’est Son être entier qu’Il pouvait projeter dans cette personne, et goûter à la mort pour la race humaine entière. Le Chef-d’Oeuvre parfait de Dieu… Dieu fut tellement inspiré en Le voyant qu’Il devint le Rédempteur de tous les âges. Il pouvait parler par Lui à ceux de l’arrière-plan, ceux qui avaient été auparavant, et à ceux qui sont maintenant.
+79 L’image parfaite du Dieu homme, de Dieu *“En morphe”*, avait été changée de sa forme Surnaturelle en une vision. Puis la vision a été projetée dans l’Image. Et l’Image a été frappée afin que le Surnaturel puisse goûter les sentiments de la mort par le Chef-d’Oeuvre parfait de Dieu. Il ne pouvait pas le faire en Moïse. Il ne pouvait pas le faire dans les prophètes. Esaïe avait été scié jusqu’à être réduit en pièces… Il ne pouvait pas le faire dans les prophètes qui avaient été lapidés. Il ne pouvait pas le faire, parce qu’Il ne pouvait pas le ressentir. Ils n’étaient qu’une portion de Lui. Mais dans ce Chef-d’Oeuvre parfait, Il était corporellement la plénitude de la Divinité. Ce n’est pas seulement Moïse qu’Il pouvait projeter, mais c’est Son être entier qu’Il pouvait projeter dans cette personne, et goûter à la mort pour la race humaine entière. Le Chef-d’Oeuvre parfait de Dieu… Dieu fut tellement inspiré en Le voyant qu’Il devint le Rédempteur de tous les âges. Il pouvait parler par Lui à ceux de l’arrière-plan, ceux qui avaient été auparavant, et à ceux qui sont maintenant.
 
 80 Toutes les promesses se sont accomplies en Lui. Il était la Perfection des perfections! Tous les types furent parfaits en Lui: notre Parent Rédempteur, dans l’histoire de Ruth et de Boaz; Celui qui nous a donné la loi sur le Mont Sinaï; notre Prophète, venant du désert ou des montagnes, car Il vint du désert; Il vint de l’Eternité, et devint homme, l’Image parfaite.
 
@@ -283,10 +252,6 @@ LE CHEF-D’OEUVRE 11
 85 Et quand Dieu, par les prophètes et sous la loi, nous déclare coupables de péché… Car la loi n’a pas de grâce, elle déclare seulement que vous êtes pécheurs. Mais, quand Jésus entra en scène, Il fut l’accomplissement de toutes les choses que Dieu avait promises. Il était l’Image parfaitement identique à la promesse. Par conséquent, toutes les promesses de l’Ancien Testament furent accomplies en Jésus-Christ. Cela ne pouvait se faire en Moïse. Elles ne pouvaient être accomplies dans aucun prophète, mais elles le furent dans le Chef-d’Oeuvre. Et toutes correspondaient à ce qui avait été dit devoir s’accomplir à Son sujet. C’est ainsi que l’Eglise doit être en harmonie avec chaque chose que Dieu a promise. Il faut que ce soit le morceau qui a été détaché de Lui. Ainsi, si l’original est la Parole, tout ce qui a été pris d’Elle est la Parole et doit s’ajuster à Son côté.
 
 86 Par conséquent, le Chinois… La loi vous condamne et déclare que vous êtes sales, que vous êtes coupables, et qu’elle peut vous jeter en prison; mais lorsqu’Il Vint, Il fut la partie correspondante qui pouvait vous faire sortir et vous ramener à être un billet complet! C’est la Rédemption promise par Dieu autrefois dans le jardin d’Eden: “Ta postérité écrasera la tête du serpent, et celui-ci Lui blessera le talon”.
-
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 12
 
 87 Maintenant, nous trouvons ce parfait Chef-d’Oeuvre achevé par Dieu. Nous remarquons qu’Il est exactement, en tout point, tel qu’Il a été promis. En Lui, nous voyons toutes les promesses, toutes les prophéties, toutes les choses que Dieu a promises lorsqu’Il a dit: “Ta postérité écrasera la tête du serpent”. Or, Il ne pouvait pas l’écraser, avec la loi. Il ne pouvait pas l’écraser, avec les prophètes. Mais Il le fit, lorsque la postérité de la femme devint le Chef-d’Oeuvre, Christ. Il était la pierre que Daniel vit se détacher de la montagne. Il était le Seul qui pût frapper. Il est le Seul qui puisse écraser, qui puisse écraser la tête du serpent.
 
@@ -306,25 +271,19 @@ LE CHEF-D’OEUVRE 12
 
 95 C’est ainsi qu’il en sera, avec Jésus. Combien Il fut aimé du Père, et haï sans cause par Ses frères dénominationnels! Il fut vendu pour trente pièces d’argent et placé dans la fosse, et on crut qu’Il était mort. Sur la croix, l’un fut perdu, et l’autre sauvé. Il fut élevé de la croix, et s’assit à la droite de la Majesté Divine, le glorieux Esprit qui avait été reflété en Lui. Et personne ne peut parler à Dieu, si ce n’est seulement par Jésus-Christ. Pensez à cela! Et lorsqu’Il quittera le Trône pour S’avancer, les trompettes retentiront, et tout genou fléchira, et toute langue confessera…
 
-96 Souvenez-vous qu’il était le fils de la bénédiction. Tout ce qu’il entreprenait prospérait, qu’il s’agisse de la prison, ou de quoi que ce soit, tout lui réussissait. Et Jésus n’a-t-Il pas promis à Ses enfants qu’Il ferait concourir toutes choses pour leur bien? Maladie, prison, mort, soucis, quoi que
+96 Souvenez-vous qu’il était le fils de la bénédiction. Tout ce qu’il entreprenait prospérait, qu’il s’agisse de la prison, ou de quoi que ce soit, tout lui réussissait. Et Jésus n’a-t-Il pas promis à Ses enfants qu’Il ferait concourir toutes choses pour leur bien? Maladie, prison, mort, soucis, quoi que ce soit, tout cela agira pour le bien de ceux qui L’aiment. Il l’a promis, et cela doit être ainsi. C’est ainsi que cela doit être. Ces choses nous parlent de Lui d’une manière imagée. Il était la parfaite Image de Dieu.
 
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 13
-
-ce soit, tout cela agira pour le bien de ceux qui L’aiment. Il l’a promis, et cela doit être ainsi. C’est ainsi que cela doit être. Ces choses nous parlent de Lui d’une manière imagée. Il était la parfaite Image de Dieu.
-
-97 Nous pouvons voir maintenant que lorsqu’Il reviendra… Souvenez-vous que Joseph, par révélation, sauva le monde par sa glorieuse prophétie. Le monde aurait péri, si Joseph n’avait pas paru auparavant. Et le monde serait mort, s’il n’y avait pas eu Jésus: “Car Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en Lui ne périsse point”. Dieu préserve la Vie!
+97 Nous pouvons voir maintenant que lorsqu’Il reviendra… Souvenez-vous que Joseph, par révélation, sauva le monde par sa glorieuse prophétie. Le monde aurait péri, si Joseph n’avait pas paru auparavant. Et le monde serait mort, s’il n’y avait pas eu Jésus: *“Car Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en Lui ne périsse point”.* Dieu préserve la Vie!
 
 98 Nous pourrions continuer encore longtemps ainsi! parce qu’Il était tout simplement Celui qui correspondait à David. Il était Celui qui correspondait à Moïse. Il était Celui qui correspondait à Elie, à Joseph. Ils furent tous des portraits peints à l’avance dans l’Ancien Testament et correspondant exactement à Christ. Comment cela? Ces choses nous montrent un Rédempteur parfait par Lequel nous pouvons déposer nos vieux habits sales à la blanchisserie, et les réclamer de nouveau. Ils sont lavés dans le Sang de l’Agneau. Nous pouvons réclamer ce qui nous appartient. Et toutes les choses pour lesquelles Il est mort, nous pouvons les réclamer. Ainsi, Il était la Parole parfaite dont le portrait fut peint à l’avance.
 
-99 Il a plu à Dieu, le Grand Sculpteur, de Le frapper, et de le faire de cette manière. Nous Le voyons dans Esaïe, lorsque nous lisons: “Nous tous l’avons dédaigné. Nous avons détourné notre visage de Lui. Il n’avait pas de beauté pour nous Le faire désirer (tous ceux qui parlaient de Lui s’en moquaient. Je parle de Lui, maintenant, de notre époque! Chacun se moquait de Lui. Vous voyez?) Nous L’avons considéré, nous L’avons vu (considérer veut dire: “regarder”). Nous L’avons considéré comme frappé et puni de Dieu”. Dans quel but fit-Il cela? “Il a été blessé pour nos transgressions. Il a été brisé pour nos iniquités”.
+99 Il a plu à Dieu, le Grand Sculpteur, de Le frapper, et de le faire de cette manière. Nous Le voyons dans Esaïe, lorsque nous lisons: “Nous tous l’avons dédaigné. Nous avons détourné notre visage de Lui. Il n’avait pas de beauté pour nous Le faire désirer (tous ceux qui parlaient de Lui s’en moquaient. Je parle de Lui, maintenant, de notre époque! Chacun se moquait de Lui. Vous voyez?) Nous L’avons considéré, nous L’avons vu (considérer veut dire: “regarder”). Nous L’avons considéré comme frappé et puni de Dieu”. Dans quel but fit-Il cela? “Il a été blessé pour *nos* transgressions. Il a été brisé pour *nos* iniquités”.
 
 100 Nous pourrions continuer sur ce sujet, mais je crois que vous avez maintenant l’image de ce que je pense: Dieu édifiant Son Chef-d’Oeuvre dès le commencement.
 
 101 Mais n’oublions pas qu’au commencement, lorsqu’Il frappa le côté d’Adam, Il prit quelque chose de son côté. C’est pourquoi, si Christ a été frappé, c’est pour une raison. C’est pour qu’Il puisse prendre de Lui quelqu’un qui soit Sa famille, l’Epouse; qu’Il puisse Lui donner une Epouse. Ainsi, quand Son Chef-d’Oeuvre fut achevé, Il dut Le frapper pour prendre de Lui, non pas une autre pièce, non pas une autre création, mais quelque chose qui vienne de la même création.
 
-102 Mes frères, ne pensez pas à mal en ceci, mais réfléchissez une minute. S’Il prit de Lui, la création originale, de quoi faire une Epouse pour Lui… Il ne fit pas une autre création; Il prit une partie de la création originale. Alors, s’Il était la Parole, que doit être l’Epouse? Cela doit être la Parole originale, le Dieu Vivant dans la Parole.
+102 Mes frères, ne pensez pas à mal en ceci, mais réfléchissez une minute. S’Il prit de Lui, la création originale, de quoi faire une Epouse pour Lui… Il ne fit pas une autre création; Il prit une partie de la création originale. **Alors, s’Il était la Parole, que doit être l’Epouse? Cela doit être la Parole originale, le Dieu Vivant dans la Parole.**
 
 103 A Kimberley, en Afrique du Sud, je regardais une fois des diamants, comment ils avaient été extraits du sol. Et je les voyais étalés par là… (le surintendant de la mine était un de mes conseillers dans la ligne de prière). Je remarquais que ce tas de diamants, valant des dizaines de milliers de dollars, ne brillait même pas à la lumière. Je dis au surintendant des mines: «Pourquoi ne brillent-ils pas?».
 
@@ -336,35 +295,23 @@ ce soit, tout cela agira pour le bien de ceux qui L’aiment. Il l’a promis, e
 
 107 Maintenant, nous Le voyons blessé et frappé par Dieu, et affligé, l’Agneau parfait immolé pour les pécheurs, le Chef-d’Oeuvre parfait.
 
-108 Depuis bientôt deux mille ans, Dieu est de nouveau en train de faire de Lui un Chef-d’Oeuvre, car Il L’a frappé pour prendre de Lui un morceau (une partie de Lui, une côte, de laquelle Il Lui fait une Epouse. C’est pourquoi, de ce Chef-d’Oeuvre parfait qu’Il frappa au Calvaire, Il prit un morceau. C’est simplement le Nouveau Testament, voilà tout! Il a accompli l’Ancien Testament, et
-
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 14
-
-maintenant, c’est au Nouveau Testament, à un autre morceau, à être accompli. Vous voyez, l’Ancien et le Nouveau sont mari et femme. Il a fallu l’Ancien pour montrer à l’avance ce que serait le Nouveau. Christ, le Chef-d’Oeuvre, vint pour accomplir cela. Maintenant, Son Epouse accomplira toutes les choses qui sont dans le Nouveau Testament. Un autre Chef-d’Oeuvre est en train de se former.
+108 Depuis bientôt deux mille ans, Dieu est de nouveau en train de faire de Lui un Chef-d’Oeuvre, car Il L’a frappé pour prendre de Lui un morceau (une partie de Lui, une côte, de laquelle Il Lui fait une Epouse. C’est pourquoi, de ce Chef-d’Oeuvre parfait qu’Il frappa au Calvaire, Il prit un morceau. C’est simplement le Nouveau Testament, voilà tout! Il a accompli l’Ancien Testament, et maintenant, c’est au Nouveau Testament, à un autre morceau, à être accompli. Vous voyez, l’Ancien et le Nouveau sont mari et femme. Il a fallu l’Ancien pour montrer à l’avance ce que serait le Nouveau. Christ, le Chef-d’Oeuvre, vint pour accomplir cela. Maintenant, Son Epouse accomplira toutes les choses qui sont dans le Nouveau Testament. Un autre Chef-d’Oeuvre est en train de se former.
 
 109 De même qu’Il Lui fallut quatre mille ans pour faire ce premier Chef-d’Oeuvre, maintenant, il y a près de deux mille ans qu’Il S’occupe à faire un autre Chef-d’Oeuvre, l’Epouse de Christ: un autre Chef-d’Oeuvre! En le faisant, Il agit selon Sa méthode qui est immuable, de la même manière qu’Il fit le premier Chef-d’Oeuvre, Sa Parole. C’est de cette façon qu’Il fait Ses chefs-d’oeuvre. Car cela ne peut être qu’un Chef-d’Oeuvre parfait, quand c’est la Parole parfaite. Les saletés, les détritus et autres déchets seront brisés; le ciel et la terre passeront, mais la Parole ne sera jamais brisée. Souvenez-vous que pour couper les diamants, vous devez avoir un outil parfait pour y arriver; vous ne pourrez pas le faire avec n’importe quel outil. J’ai vu de grands broyeurs de plusieurs tonnes, déployant une puissance énorme, et le diamant passait au travers de ces machines sans mal. Non, elles ne pouvaient pas casser le diamant. Il doit être taillé.
 
 110 Or, Dieu fait la même chose, selon Sa méthode qui ne change pas. Nous trouvons écrit dans Malachie 3: “Je suis Dieu, et Je ne change pas”. Il ne peut changer Ses méthodes.
 
-111 Lorsqu’Il commença avec Abraham… Après la chute de Son premier chef-d’oeuvre, Il recommença avec Abraham une fondation destinée à bâtir un nouveau chef-d’oeuvre. Le jour de Pentecôte, Il commença à construire un autre Chef-d’Oeuvre: la semence originale de la Parole. Cela commença dans la première Eglise. Qu’est-ce que c’était? La semence de la Parole, la Parole manifestée selon la promesse qui avait été donnée. Joël dit: “Dans les derniers jours, dit Dieu, je répandrai mon Esprit sur toute chair; vos fils et vos filles prophétiseront, vos jeunes gens auront des visions, et vos vieillards auront des songes”. C’est ce qu’Il voulait faire dans les derniers jours, les deux derniers jours de mille ans.
+111 Lorsqu’Il commença avec Abraham… Après la chute de Son premier chef-d’oeuvre, Il recommença avec Abraham une fondation destinée à bâtir un nouveau chef-d’oeuvre. Le jour de Pentecôte, Il commença à construire un autre Chef-d’Oeuvre: la semence originale de la Parole. Cela commença dans la première Eglise. Qu’est-ce que c’était? La semence de la Parole, la Parole manifestée selon la promesse qui avait été donnée. Joël dit: *“Dans les derniers jours, dit Dieu, je répandrai mon Esprit sur toute chair; vos fils et vos filles prophétiseront, vos jeunes gens auront des visions, et vos vieillards auront des songes”.* C’est ce qu’Il voulait faire dans les derniers jours, les deux derniers jours de mille ans.
 
-112 Notez ceci. Cela commença par l’original. Comme Jésus dit: “La Parole de Dieu est la semence que répand le Semeur”. Et Il était le Semeur. La Semence était la Parole. Et remarquez que si une semence demeure seule, elle n’arrive jamais à rien. Il faut qu’elle tombe en terre pour porter de nouveau des fruits. Et cette Semence, l’Eglise parfaite, tomba en terre à Nicée, à Rome, lorsqu’Elle devint une dénomination.
+112 Notez ceci. Cela commença par l’original. Comme Jésus dit: *“La Parole de Dieu est la semence que répand le Semeur”*. Et Il était le Semeur. La Semence était la Parole. Et remarquez que si une semence demeure seule, elle n’arrive jamais à rien. Il faut qu’elle tombe en terre pour porter de nouveau des fruits. Et cette Semence, l’Eglise parfaite, tomba en terre à Nicée, à Rome, lorsqu’Elle devint une dénomination.
 
 113 Souvenez-vous, historiens, et ceux qui entendront cette bande, vérifiez, et trouvez si cela n’est pas juste. L’Eglise mourut à Nicée, à Rome, lorsqu’elle prit les dogmes et les credo, à la place de la Parole originale. Qu’était-ce? Dieu avait montré par cette première Eglise qu’Il était Dieu. Il avait une Eglise parfaite; mais l’Eglise, comme toute autre semence, devait tomber en terre et mourir. C’est pourquoi elle tomba en terre, dépérit et mourut.
 
 114 Vous savez, j’ai lu un livre, il n’y a pas longtemps. Quelqu’un a écrit un livre qui porte comme titre: «Le Dieu Silencieux». Vous l’avez peut-être lu. Je pense que c’était de Brumbach… Non, je ne suis pas sûr que ce soit lui qui l’ait écrit. Je ne peux pas me souvenir, mais je l’ai étudié: «Le Dieu Silencieux». Il dit: «Dieu, pendant deux mille ans d'âge des ténèbres, Se tut, ne bougeant même pas la main, alors qu’Il voyait les martyrs pleins de foi être jetés dans la fosse aux lions ou être brûlés par les Romains, qu’il y avait toutes sortes de meurtres, des femmes dépouillées de leurs vêtements, dont on avait enduit de bitume les longs cheveux, et que l’on brûlait ainsi». Souvenez-vous que les cheveux ont commencé à être portés courts à Rome. Mais les femmes des chrétiens portaient de longs cheveux. C’est pourquoi ils les enduisaient de bitume, et mettaient le feu. Après les avoir mises à nu, ils les brûlaient ou les donnaient en pâture aux lions. Et cet écrivain va jusqu’à dire: «Où est ce Dieu?». Oh, combien les hommes sont aveugles quelquefois. Ne savez-vous pas que la Semence devait mourir! Il n’a jamais cherché à les délivrer…?… Ils s’en sont allés dans la victoire! Ils sont morts en versant leur sang, et ont donné leur vie. Pourquoi? Il y avait une Semence, et Elle devait tomber en terre. Comme le dit Jean 12: le grain de blé doit tomber en terre et mourir, et non seulement mourir, mais se décomposer complètement. Mais, dans ces dénominations, combien peu furent ceux qui comprirent que c’était là que se trouvait la Vie!
 
-115 Au concile de Nicée, il y avait l’église elle-même. Et, après quinze jours de violents débats, lorsque les aristocrates arrivèrent, voulant introduire ces grands dignitaires dans l’église… Des prophètes étaient venus, vêtus de peaux de bêtes, et mangeant de l’herbe, des véritables
+115 Au concile de Nicée, il y avait l’église elle-même. Et, après quinze jours de violents débats, lorsque les aristocrates arrivèrent, voulant introduire ces grands dignitaires dans l’église… Des prophètes étaient venus, vêtus de peaux de bêtes, et mangeant de l’herbe, des véritables prophètes, mais on les jeta dehors. Pourquoi cela? Parce qu’il fallait que la Semence tombât premièrement dans la terre. Il fallait qu’elle mourût.
 
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 15
-
-prophètes, mais on les jeta dehors. Pourquoi cela? Parce qu’il fallait que la Semence tombât premièrement dans la terre. Il fallait qu’elle mourût.
-
-116 Elle mourut dans l'âge des ténèbres, ensevelie sous une boue noire. Ils ont pensé qu’Elle avait disparu. Vous connaissez Jean 12.24, où Jésus dit: “Si le grain de blé qui tombe en terre ne meurt, il reste seul”. Et la première Eglise était la reproduction, l’Epouse, la Semence, la Parole manifestée qui tomba en terre à Nicée, à Rome.
+116 Elle mourut dans l'âge des ténèbres, ensevelie sous une boue noire. Ils ont pensé qu’Elle avait disparu. Vous connaissez Jean 12.24, où Jésus dit: *“Si le grain de blé qui tombe en terre ne meurt, il reste seul”.* Et la première Eglise était la reproduction, l’Epouse, la Semence, la Parole manifestée qui tomba en terre à Nicée, à Rome.
 
 117 ECOUTEZ, EGLISES DE TOUTES LES NATIONS QUI ENTENDEZ CECI, C’EST LA QUE SE TROUVE VOTRE BOUE: CE SONT CES DENOMINATIONS! C’EST LA OU LA PAROLE A ETE CRUCIFIEE, ET QU’ILS ONT ACCEPTE DES DOGMES. Et pendant des centaines et des centaines d’années d'âge de ténèbres, la puissance et la manifestation de la Parole furent cachées aux yeux du monde. Seul, le Catholicisme gouvernait. Nous savons tous cela, lorsque nous lisons l’histoire. Seul, le Catholicisme régnait.
 
@@ -384,13 +331,7 @@ prophètes, mais on les jeta dehors. Pourquoi cela? Parce qu’il fallait que la
 
 125 Maintenant, frères Pentecôtistes de toutes les nations, je désire que vous écoutiez, mes frères: ce message-ci pourrait être le dernier que je prêche. C’est mon chef-d’oeuvre. Remarquez-vous ce qui se passe, quand le blé, le grain de blé tombé en terre, quand il commence de nouveau à prendre la forme d’un grain…?…
 
-126 Observez la nature! La nature est simplement Dieu; Dieu travaillant dans la nature selon tout
-
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 16
-
-ce qui peut être fait. Le réveil de Pentecôte, comme ils le pensaient, était la semence… mais ce n’était pas la semence! Prenez garde, maintenant! Ce qui sortit alors, ce fut quelque chose de semblable à la semence. Remarquez ce que Jésus dit dans Matthieu 24.24: que les deux esprits, dans les derniers jours, seraient si proches l’un de l’autre, que les élus seraient séduits, si cela était possible.
+126 Observez la nature! La nature est simplement Dieu; Dieu travaillant dans la nature selon tout ce qui peut être fait. Le réveil de Pentecôte, comme ils le pensaient, était la semence… mais ce n’était pas la semence! Prenez garde, maintenant! Ce qui sortit alors, ce fut quelque chose de semblable à la semence. Remarquez ce que Jésus dit dans Matthieu 24.24: que les deux esprits, dans les derniers jours, seraient si proches l’un de l’autre, que les élus seraient séduits, si cela était possible.
 
 127 La tige ne ressemble pas à la semence, et l’aigrette non plus ne ressemble pas à la semence. Remarquez qu’il ne s’agit plus maintenant du temps de Luther, mais des derniers jours.
 
@@ -412,13 +353,7 @@ ce qui peut être fait. Le réveil de Pentecôte, comme ils le pensaient, était
 
 136 Notez-le bien! La vie qui était dans la tige, dans l’épi, dans la balle, se rassemble toute dans la semence. La vie qui était dans la tige la quitta pour former ce qui suivait. La justification prépara le chemin de la sanctification. La sanctification prépara le chemin du baptême du Saint-Esprit. Le baptême du Saint-Esprit prépara la venue du Saint-Esprit Lui-même, pour qu’Il descende dans la perfection de la Parole restaurée, afin de Se manifester Lui-même.
 
-137 Mais ce qui est dénominationnel meurt. La même Vie qui était en Luther, s’en est allée pour faire paraître Wesley. De Wesley, Elle S’en alla à la Pentecôte. Et de la Pentecôte, Elle vint pour former la Semence originale. Jusqu’à ce jour, la Pentecôte est séparée du Méthodisme. La raison
-
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 17
-
-pour laquelle la Pentecôte sortit du Méthodisme, c’est parce qu’elle n’était pas une dénomination. Puis, la Pentecôte devint une dénomination. Alors, que fit-elle? Elle se transforma en balle. Elle avait l’apparence de la chose réelle. Et quiconque…
+137 Mais ce qui est dénominationnel meurt. La même Vie qui était en Luther, s’en est allée pour faire paraître Wesley. De Wesley, Elle S’en alla à la Pentecôte. Et de la Pentecôte, Elle vint pour former la Semence originale. Jusqu’à ce jour, la Pentecôte est séparée du Méthodisme. La raison pour laquelle la Pentecôte sortit du Méthodisme, c’est parce qu’elle n’était pas une dénomination. Puis, la Pentecôte devint une dénomination. Alors, que fit-elle? Elle se transforma en balle. Elle avait l’apparence de la chose réelle. Et quiconque…
 
 138 Combien d’entre vous ont-ils vu comment commence à grandir une semence de blé? Quelle est la première chose qui apparaît? C’est exactement pareil à la semence, mais c’est la balle. Vous voyez les trois étapes? Tige, épi, ou pollen, puis la balle. Et alors, sortant de la balle, vient la Semence originale. D’abord, ce n’était pas une semence, c’était la Vie de la Semence qui croissait au travers de ceci, pour parvenir à la Semence. Amen! Amen! Voyez-vous cela? Qu’est-ce que cela? Une résurrection! Le retour à un Chef-d’Oeuvre semblable au premier.
 
@@ -437,10 +372,6 @@ pour laquelle la Pentecôte sortit du Méthodisme, c’est parce qu’elle n’�
 145 Remarquez que la semence monte. La Vie monte, elle ne descend pas. Il n’y aura plus de résurrection, après celle-ci. La Vie est en train de monter pour aller à Sa perfection: c’est une résurrection. Notez que la balle expulse d’elle-même la semence originale. Nous trouvons cela dans Apocalypse 3.
 
 146 Souvenez-vous qu’aucune autre Eglise des sept âges, dont parle la Bible, n’a mis Jésus dehors. Combien s’en souviennent-ils? Il a passé au travers des âges de l’Eglise, pour continuer chaque fois à faire quelque chose d’autre. Mais ici, il n’y a plus rien d’autre. Le Sculpteur a obtenu à nouveau la perfection, la Parole. Vous voyez? Cela ne revient pas en arrière. Oui, combien c’est différent!
-
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 18
 
 147 Oh, notez-le! Lorsque la balle apparaît, elle ressemble au grain. Mais quand la Vie commence à quitter la balle pour aller dans le grain, pour former le Grain (l’Epouse), la balle s’ouvre et excommunie le Grain. Est-ce comme cela dans la nature? C’est exactement ce qui se passe.
 
@@ -464,13 +395,7 @@ LE CHEF-D’OEUVRE 18
 
 157 Michel-Ange ne pouvait pas reproduire son oeuvre. Il ne pouvait pas remettre le morceau. Mais Dieu est en train de le faire. Il est en train de ramener cette Epouse frappée, de la replacer dans le côté de la Parole originale. Le voici; c’est le Chef-d’Oeuvre, la famille revenant dans le jardin d’Eden.
 
-158 Comment cette Epouse arrive-t-Elle à faire cela? Comment ce blé arrive-t-il à faire cela? Malachie 4 dit que, dans les derniers jours, ces choses seraient restituées. Comment cela? Qu’elle serait ramenée à ce qu’Elle était au commencement, qu’Elle serait restaurée. “Je remplacerai, dit
-
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 19
-
-le Seigneur, les années qu’ont dévorées la sauterelle, le jélek, et toutes ces autres bêtes qui ont dévoré. Je remplacerai”. Malachie 4 dit que Dieu ramènera le coeur du peuple, la foi du peuple, à la foi originale des pères. Vous voyez? Nous voyons cela juste devant nous, ô Eglise. Alors, où en sommes-nous?
+158 Comment cette Epouse arrive-t-Elle à faire cela? Comment ce blé arrive-t-il à faire cela? Malachie 4 dit que, dans les derniers jours, ces choses seraient restituées. Comment cela? Qu’elle serait ramenée à ce qu’Elle était au commencement, qu’Elle serait restaurée. “Je remplacerai, dit le Seigneur, les années qu’ont dévorées la sauterelle, le jélek, et toutes ces autres bêtes qui ont dévoré. Je remplacerai”. Malachie 4 dit que Dieu ramènera le coeur du peuple, la foi du peuple, à la foi originale des pères. Vous voyez? Nous voyons cela juste devant nous, ô Eglise. Alors, où en sommes-nous?
 
 159 Je vais terminer dans quelques minutes. Je désire que vous remarquiez bien quelque chose qui vient d’arriver.
 
@@ -496,12 +421,7 @@ le Seigneur, les années qu’ont dévorées la sauterelle, le jélek, et toutes
 
 170 La Parole est devenue chair, exactement comme Dieu l’a promis dans Luc 17, Malachie 4, et dans d’autres passages. C’est exact!
 
-171 Toute la Vie véritable, qui était dans la tige, dans l’aigrette et la balle, se trouve maintenant rassemblée dans la Semence, prête pour la résurrection, prête pour la moisson. L’Alpha est devenu l’Oméga. Le premier est devenu le dernier, et le premier est le dernier. La semence qui est sortie en herbe s’est transformée au travers d’un processus, pour redevenir la Semence originale.
-
-http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 20
-La semence tombée dans le jardin d’Eden, et qui mourut là-bas (cette semence imparfaite qui mourut là-bas), elle revient à la Semence parfaite — le second Adam.
+171 Toute la Vie véritable, qui était dans la tige, dans l’aigrette et la balle, se trouve maintenant rassemblée dans la Semence, prête pour la résurrection, prête pour la moisson. L’Alpha est devenu l’Oméga. Le premier est devenu le dernier, et le premier est le dernier. La semence qui est sortie en herbe s’est transformée au travers d’un processus, pour redevenir la Semence originale. La semence tombée dans le jardin d’Eden, et qui mourut là-bas (cette semence imparfaite qui mourut là-bas), elle revient à la Semence parfaite — le second Adam.
 
 172 La première Eve qui tomba, et qui fut utilisée pour la seconde venue pour porter un enfant, est maintenant redevenue une Epouse fidèle, une Semence revenue à la Parole originale. L’Alpha et l’Oméga Sont un. Il a dit: “Je suis l’Alpha et l’Oméga”. Il n’a jamais dit être quelque chose entre les deux. “Je suis l’Alpha et l’Oméga, le Premier et le Dernier”. C’est cela!
 
@@ -510,14 +430,14 @@ La semence tombée dans le jardin d’Eden, et qui mourut là-bas (cette semence
 174 Le glorieux Chef-d’Oeuvre de la famille, le second Adam et la seconde Eve, sont prêts maintenant pour le jardin d’Eden, le Millénium qui revient sur la terre. Amen! Alléluia! Le Grand Sculpteur ne les a pas laissés à terre. Il a pris Son temps, comme Il le fit au travers des millions d’années employées à modeler le premier couple parfait. Mais ils tombèrent! C’est au travers de milliers d’années qu’Il les a modelés à nouveau, et maintenant, ils sont prêts.
 
 175 Le Chef-d’Oeuvre vint, et Il fut frappé. De Son côté sortit une compagne, et elle passa par le même processus. Maintenant, la voici de nouveau, avec toutes les caractéristiques de la Bible, et les autres choses qui montrent que nous sommes parvenus à ce point.
-        Les nations s’écroulent,
-        Israël se réveille:
-        Signes annoncés par les prophètes!
-        Les jours des Gentils sont comptés, (regardez ce tas d’immondices que nous avons!)
-        Remplis de tourments.
-        Oh vous, les dispersés,
-        Retournez à votre héritage. (C’est vrai, vous feriez mieux de retourner rapidement dans
-        celui-ci.)
+
+> Les nations s’écroulent,  
+> Israël se réveille:  
+> Signes annoncés par les prophètes!  
+> Les jours des Gentils sont comptés, (regardez ce tas d’immondices que nous avons!)  
+> Remplis de tourments.  
+> Oh vous, les dispersés,  
+> Retournez à votre héritage. (C’est vrai, vous feriez mieux de retourner rapidement dans celui-ci.)
 
 176 Remarquez que le grand chef-d’oeuvre de la famille, le mari et sa femme, ne peuvent être véritablement une famille s’ils ne sont pas un. Ils doivent l’être. S’ils ne le sont pas, ils ne sont pas une bonne famille — la femme tirant d’un côté et le mari de l’autre. Cela ferait une bien pauvre famille! Mais l’accord, l’amour de l’un à l’égard de l’autre, c’est cela qui fait une famille. Et c’est ainsi qu’était le chef-d’oeuvre de Dieu. Toute vraie famille d’ici-bas en est l’image. Vous voyez? Et maintenant, la famille-Chef-d’Oeuvre, Christ et Son Epouse, est prête à revenir. Le second Adam, la seconde Eve, sont prêts maintenant pour le retour dans leur demeure. Il y avait pour cela la rédemption qui rendit possible le retour à la position originale. Vous voyez? C’est exact. Elle est ramenée à sa position originale.
 
@@ -525,12 +445,7 @@ La semence tombée dans le jardin d’Eden, et qui mourut là-bas (cette semence
 
 178 Cependant, vous ne pouvez pas être omniprésent sans être omniscient; Dieu n’est pas seulement omniprésent, Il est aussi omniscient. Son omniscience le rend omniprésent (Il connaît toutes choses). Mais pour pouvoir être une personne, il faut qu’Il soit dans un être vivant; étant omniscient, Il peut être omniprésent, puisqu’Il connaît toutes choses. Avant que le monde n’eût commencé, Il connaissait combien il y aurait de puces, de poux et d’insectes, et Il savait combien de fois ils battraient des paupières, et toutes les choses les concernant, parce qu’Il est omniscient. Et vous ne pouvez pas être omniscient sans être infini. Vous voyez? Une seule chose est infinie, c’est Dieu. Amen!
 
-179 Alors, que se passe-t-il? C’est le diable qui les conduit directement à la tuerie, chacun d’eux
-
-        http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 21
-s’y laissant entraîner. C’est exactement ce que dit la Bible. C’est ici un exemple. Vous voyez, ces gens viennent tout droit au milieu des Pentecôtistes, et ils les entraînent directement là… Quel temps nous vivons!
+179 Alors, que se passe-t-il? C’est le diable qui les conduit directement à la tuerie, chacun d’eux s’y laissant entraîner. C’est exactement ce que dit la Bible. C’est ici un exemple. Vous voyez, ces gens viennent tout droit au milieu des Pentecôtistes, et ils les entraînent directement là… Quel temps nous vivons!
 
 180 Après ce témoignage, quelqu’un me dit… C’est une bonne chose que j’aie peu parlé, parce qu’ils m’auraient probablement mis en prison; moi, je me dis: «Nous y voilà!». Les gens qui connaissent ces choses savent cela. “En ces jours, les sages connaîtront leur Dieu”, dit Daniel. Certainement! Vous voyez? Les sages connaîtront leur Dieu; ils prennent garde à ces choses.
 
@@ -539,24 +454,22 @@ s’y laissant entraîner. C’est exactement ce que dit la Bible. C’est ici u
 182 Cependant, ils sont là, instruits, brillants… Mais ce n’est pas de cette manière que Dieu fait briller les Siens. Il ne les fait pas briller par l’éducation; Il les polit par l’humilité et par la puissance de Sa Parole manifestée, montrant en eux la forme du Grain sorti de la Semence originale.
 
 183 Quelqu’un me dit: «Frère Branham, il y a une chose, à votre sujet, que je ne peux pas comprendre!».
-     Je dis: «Qu’est-ce que c’est?».
-     Nous nous tenions dans une salle; il y avait soeur Dauch et tous les autres; nous nous tenions là et, venant d’un coin de la salle, accompagné d’un tas de gens, un ministre au col retourné s’approcha et me dit: «Pourquoi êtes-vous toujours en train de crier après tout le monde? Les gens croient que vous êtes un serviteur de Dieu, que vous devriez être doux et aimable avec eux, et tout cela». Il dit encore: «Chaque fois que je vous entends prêcher, vous êtes occupé à crier contre les femmes, parce qu’elles ont les cheveux coupés, et parce qu’elles mettent des shorts et se fardent, et toutes ces autres choses. Vous criez contre les gens en leur disant combien ils sont froids, formalistes et indifférents». Il me dit: «Pourquoi faites-vous cela? Ces gens vous aiment. Comment pouvez-vous être un enfant de Dieu plein d’amour, et faire pareille chose?».
+
+Je dis: «Qu’est-ce que c’est?».
+
+Nous nous tenions dans une salle; il y avait soeur Dauch et tous les autres; nous nous tenions là et, venant d’un coin de la salle, accompagné d’un tas de gens, un ministre au col retourné s’approcha et me dit: «Pourquoi êtes-vous toujours en train de crier après tout le monde? Les gens croient que vous êtes un serviteur de Dieu, que vous devriez être doux et aimable avec eux, et tout cela». Il dit encore: «Chaque fois que je vous entends prêcher, vous êtes occupé à crier contre les femmes, parce qu’elles ont les cheveux coupés, et parce qu’elles mettent des shorts et se fardent, et toutes ces autres choses. Vous criez contre les gens en leur disant combien ils sont froids, formalistes et indifférents». Il me dit: «Pourquoi faites-vous cela? Ces gens vous aiment. Comment pouvez-vous être un enfant de Dieu plein d’amour, et faire pareille chose?».
 
 184 Je pensais: «Seigneur, donne-moi de répondre à cet homme distingué quelque chose qui le pende à sa propre corde». Je dis: «Monsieur, avez-vous jamais entendu parler du grand compositeur Beethoven?».
-     Il dit: «Oh, certainement, j’ai lu certaines choses sur Beethoven».
 
-185 Je dis: «Il a probablement rempli des quantités de corbeilles à papier de brouillons, mais il a donné au monde des chefs-d’œuvre». Cet homme n’ouvrit plus la bouche, et ne prononça pas un mot de plus. Je dis: «Lorsqu’il était à son étude, sous l’inspiration, il notait quelque chose. Puis il allait à son piano et le jouait. Lorsque cela n’était pas bon, il déchirait son papier et le jetait à la corbeille. Mais, quand son inspiration lui avait tout dicté, alors, le monde avait un chef-d’œuvre». Oh, combien la Parole est tranchante! Mais Elle produit des Chefs-d’œuvre! Elle enlève toute la balle et la paille, et crée un Chef-d’Oeuvre.
+Il dit: «Oh, certainement, j’ai lu certaines choses sur Beethoven».
+
+185 Je dis: «Il a probablement rempli des quantités de corbeilles à papier de brouillons, mais il a donné au monde des chefs-d’oeuvre». Cet homme n’ouvrit plus la bouche, et ne prononça pas un mot de plus. Je dis: «Lorsqu’il était à son étude, sous l’inspiration, il notait quelque chose. Puis il allait à son piano et le jouait. Lorsque cela n’était pas bon, il déchirait son papier et le jetait à la corbeille. Mais, quand son inspiration lui avait tout dicté, alors, le monde avait un chef-d’oeuvre». Oh, combien la Parole est tranchante! Mais Elle produit des Chefs-d’Oeuvre! Elle enlève toute la balle et la paille, et crée un Chef-d’Oeuvre.
 
 186 Je n’ai plus que sept minutes, si je veux être à l’heure, pour vous raconter quelque chose qui est arrivé avant-hier. Le 3 juillet, j’avais été dans le super-marché d’ici. J’ai passé par la Rue des Cochons, à Rome; je suis allé en France, et j’ai aussi été à New York City et Los Angeles; mais le groupe de femmes le plus obscène que j’aie jamais vu dans ma vie, c’est à Jeffersonville, Indiana, que je l’ai rencontré. Je n’ai jamais vu autant de corruption morale et de laisser-aller que parmi ces gens, ici. Je me tenais là, et mon coeur était serré de douleur; et le Seigneur me donna une vision. Je m’en vais vous raconter cette vision. Je ne sais pas si je peux l’interpréter, mais je vais pour la première fois vous raconter cette vision.
 
 187 Je tombai en extase, et il y avait là quelqu’un, avec moi. Je ne voyais pas la personne. Ce n’était qu’une voix. Et je regardais. Et, comme je regardais dans cette direction, la voix me dit: «L’Epouse va apparaître en premier». Alors, je vis venir à moi le groupe de femmes le plus charmant, et le plus décemment habillé, que j’aie jamais vu dans ma vie. Chacune d’elles, bien que paraissant semblable aux autres, était habillée différemment. Toutes avaient les cheveux longs, de longues manches et de longues robes. C’étaient de jeunes femmes; elles paraissaient avoir environ vingt ans.
 
-188 Voici ma Bible ouverte ici, devant moi. Vous voyez? Je ne peux raconter que ce que j’ai vu. Si vous dites: «Que regardez-vous?», je réponds: «Je regarde l’horloge». «Que cherchez-vous?», je réponds: «Je cherche les gens — je regarde les gens». «Que regardez-vous?». Je réponds: «Je
-
-        http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 22
-regarde la Bible». Je dis la vérité. C’est ce que je vois. Et je ne peux parler que de ce que j’ai vu. Je n’en connais pas toute la signification, je dois simplement vous le raconter.
+188 Voici ma Bible ouverte ici, devant moi. Vous voyez? Je ne peux raconter que ce que j’ai vu. Si vous dites: «Que regardez-vous?», je réponds: «Je regarde l’horloge». «Que cherchez-vous?», je réponds: «Je cherche les gens — je regarde les gens». «Que regardez-vous?». Je réponds: «Je regarde la Bible». Je dis la vérité. C’est ce que je vois. Et je ne peux parler que de ce que j’ai vu. Je n’en connais pas toute la signification, je dois simplement vous le raconter.
 
 189 Mais, quand cette Epouse… (celui qui me parlait se tenait à côté de moi). Elle était formée des personnes les plus propres, les plus charmantes que j’aie jamais vues dans ma vie. Elles pouvaient bien être une douzaine, ou davantage… Je ne sais pas combien marchaient de front, mais c’était juste un groupe d’entre elles. Et l’Epouse passa, marchant dans une attitude pleine de douceur, et leurs yeux étaient levés, regardant pendant qu’elles marchaient. Oh, qu’Elle était belle! Je la considérais attentivement. Lorsqu’Elle eut défilé, celui qui était avec moi dit: «Maintenant, nous allons passer en revue…». Il dit: «C’était l’Epouse. Maintenant, nous allons passer en revue les églises». Et elles vinrent. Je les observais, alors qu’elles s’avançaient. Chaque groupe qui s’approchait semblait pire que le précédent. Je n’ai jamais vu de toute ma vie un groupe aussi dégoûtant! Et, lorsqu’il dit: «Le prochain…» — j’entendis un bruit. Il dit: «Voici venir le groupe de l’Amérique».
 
@@ -570,15 +483,11 @@ regarde la Bible». Je dis la vérité. C’est ce que je vois. Et je ne peux pa
 
 194 Voici maintenant l’interprétation de cette vision: La raison… Souvenez-vous que je n’avais pas encore pris ces notes. Mais, en prêchant ce matin, j’ai saisi dans ma prédication ce qui était juste. Avez-vous remarqué que seule l’église vint en vue… C’est la vérité, mes amis. Notre Père céleste qui a écrit la Parole sait que je dis la vérité. Vous voyez? Je dis simplement la vérité. Il n’y a que quelques minutes que je la connais. Vous voyez? Avez-vous remarqué que l’Epouse apparaît deux fois? La première Semence et la dernière Semence sont exactement pareilles. Et la raison pour laquelle ces femmes étaient habillées de façon différente, c’est qu’elles viennent de toutes les nations, pour former l’Epouse. Chacune avait de longs cheveux, et n’était pas maquillée; c’étaient réellement de belles jeunes filles, et elles me regardaient. Cela représente l’Epouse sortie de toutes les nations. Chacune représente une nation, et chacune marche en parfait accord avec la Parole. Vous comprenez?
 
-195 Moi, je dois veiller sur Elle. Elle peut ne plus marcher au pas de la Parole, si je ne veille pas
-
-        http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 23
-quand Elle défile. Peut-être que ce sera pour moi ce que j’aurai à faire, quand je serai de l’autre côté, quand j’aurai terminé ma course, ou quoi que ce soit.
+195 Moi, je dois veiller sur Elle. Elle peut ne plus marcher au pas de la Parole, si je ne veille pas quand Elle défile. Peut-être que ce sera pour moi ce que j’aurai à faire, quand je serai de l’autre côté, quand j’aurai terminé ma course, ou quoi que ce soit.
 
 196 Ecoutez bien ceci! Elles revenaient, faisant de leur mieux. Elles marchaient de front, regardant ailleurs, observant l’église qui venait de s’en aller dans le chaos. Il y en avait deux ou trois qui, en arrière, étaient un peu sorties du rang, du côté droit, et elles essayaient d’y rentrer, lorsqu’elles passèrent devant moi. Elles passaient devant moi à une distance comme d’ici à la paroi. Je me tenais là, et je les vis s’en aller et disparaître.
-     Mais vous avez remarqué que l’église, chacune des nations qui forment l’église, ne s’est présentée qu’une fois. Mais l’Epouse, Elle, a passé deux fois. Vous voyez? Comprenez-vous ce que cela signifiait? Je ne le savais pas, mais dans mon message de ce matin, j’ai considéré ces choses. Avant, je ne le savais pas.
+
+Mais vous avez remarqué que l’église, chacune des nations qui forment l’église, ne s’est présentée qu’une fois. Mais l’Epouse, Elle, a passé deux fois. Vous voyez? Comprenez-vous ce que cela signifiait? Je ne le savais pas, mais dans mon message de ce matin, j’ai considéré ces choses. Avant, je ne le savais pas.
 
 197 La Semence tomba en terre à Nicée. C’était la Semence originale. Puis, Elle passa au travers du processus de ces dénominations, qui ne peuvent avoir la vie qu’une fois. Mais l’Epouse revient à nouveau dans les derniers jours. “Je restituerai”. Vous voyez? Le Chef-d’Oeuvre prend forme! C’est la raison pour laquelle Elle est passée en revue une seconde fois. Elle a été passée en revue une première fois, puis Elle passa en revue une seconde fois. Et, la seconde fois, Elle est exactement la même qu’Elle était la première fois. O Dieu, fais-nous miséricorde! Hâtez-vous, hâtez-vous, hâtez-vous! La Vie entre dans le Grain très rapidement!
 
@@ -591,31 +500,32 @@ quand Elle défile. Peut-être que ce sera pour moi ce que j’aurai à faire, q
 201 Sois reconnaissante, Eglise, sois reconnaissante pour l’état où tu te trouves actuellement, si tu es en Christ. Parce que, vous voyez… Souvenez-vous, toute la Vie sera rassemblée dans le grain pour la résurrection, mais la tige et le reste de la plante doivent être brûlés. La balle, et tout le reste, doit être détruit, et il le sera. Ne vous confiez pas en ces dénominations. Demeurez dans la Parole, dans la Vie, en Dieu et en Son Chef-d’Oeuvre.
 
 202 Alors, qui y a-t-il, dans le Millénium? Christ et Son Epouse, qui reviennent dans le jardin du Millénium. Amen!
-        Je L’aime, je L’aime,
-        Parce qu’Il m’aima le premier,
-        Et acquit mon salut
-        Sur le bois du Calvaire.
+
+> Je L’aime, je L’aime,  
+> Parce qu’Il m’aima le premier,  
+> Et acquit mon salut  
+> Sur le bois du Calvaire.
 
 203 C’est là qu’Il fut frappé. Nous L’avons estimé puni, frappé de Dieu, et affligé. Mais Il a été blessé pour nos transgressions, et Il a été brisé pour nos iniquités.
 
 204 Y a-t-il quelqu’un, ici ce matin, qui ne soit pas dans le Grain? Et maintenant que la Vie est en train de retirer ce qui reste d’Elle dans la balle, car la balle est en train de se dessécher… Combien savent que l’église Pentecôtiste est en train de se dessécher? Qu’est-ce qui se passe? La Vie est en train de la quitter. Franchement, Elle l’a déjà quittée! Et si l’Epouse est déjà en vue, je me demande si l’Epouse n’est pas déjà complète.
-        Je L’aime, je L’aime,
-        Parce qu’Il m’aima le premier,
-        Et acquit mon salut
 
-        http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 24
-        Sur le bois du Calvaire.
+> Je L’aime, je L’aime,  
+> Parce qu’Il m’aima le premier,  
+> Et acquit mon salut  
+> Sur le bois du Calvaire.
 
 205 Maintenant, alors que nous inclinons nos têtes, y a-t-il quelqu’un qui aimerait que l’on pense à lui? Si vous sentez que vous n’êtes pas… Amis, c’est trop évident. Je n’ai jamais eu, dans ma vie, une vision sans que quelque chose n’arrive ensuite. Je dis la Vérité. Toutes ces autres fois, je vous ai dit la Vérité, et Dieu l’a confirmée, et cette fois encore, je dis la Vérité.
 
 206 Je ne sais pas en quel jour nous vivons, mais je reconnais qu’il ne reste plus rien. Aucun politicien ne pourrait plus arranger les choses. Malgré toute sa politique, la nation est perdue. Oh, Dieu! Pouvez-vous descendre assez profondément pour ressentir cela? Pas seulement la nation, mais les nations s’écroulent. Celle-ci est la meilleure de tout le groupe, et elle s’en va. Et si les nations sont perdues, le monde tout entier est perdu! Et qu’en est-il des Eglises? A mon avis, la Pentecôte était la meilleure que nous ayons eue, mais elle est perdue! O Dieu, aie pitié de nous!
 
 207 Si vous ne Le connaissez pas, hâtez-vous! hâtez-vous! Si vous sentez la Vie, sortez de vos péchés, sortez des choses dans lesquelles vous vous trouvez, et venez au plus vite au Grain. Sinon, vous mourrez dans la tige ou dans la balle. Priez, pendant que nous chantons encore.
-        Je L’aime (C’est entre vos mains, maintenant).
-     Nous n’avons pas de dénomination, rien du tout; nous avons seulement Christ. Vous êtes les bienvenus si vous venez pour L’adorer avec nous, jusqu'à ce qu’Il vienne. Nous ne pouvons pas inscrire vos noms dans un livre: nous n’avons pas de livres! Nous désirons voir vos noms dans le Livre de Vie. Vous ne pouvez y arriver que par la nouvelle naissance. Voulez-vous faire cela maintenant? Demander à Christ de vous introduire dans cette nouvelle vie, et écrire votre nom sur Son Livre, s’il n’y est pas encore. Alors, vous pourrez être en communion avec nous. Nous aimerions vous avoir avec nous.
-        Je L’aime…
+
+> Je L’aime (C’est entre vos mains, maintenant).
+
+Nous n’avons pas de dénomination, rien du tout; nous avons seulement Christ. Vous êtes les bienvenus si vous venez pour L’adorer avec nous, jusqu'à ce qu’Il vienne. Nous ne pouvons pas inscrire vos noms dans un livre: nous n’avons pas de livres! Nous désirons voir vos noms dans le Livre de Vie. Vous ne pouvez y arriver que par la nouvelle naissance. Voulez-vous faire cela maintenant? Demander à Christ de vous introduire dans cette nouvelle vie, et écrire votre nom sur Son Livre, s’il n’y est pas encore. Alors, vous pourrez être en communion avec nous. Nous aimerions vous avoir avec nous.
+
+> Je L’aime…
 
 208 Notre Dieu Bien-aimé, veuille venir en aide à quiconque s’examine maintenant, afin qu’il puisse voir s’il est vraiment en Lui. Tu nous as aimés. Tu as été frappé pour nous et nous T’avons estimé frappé et affligé par Dieu. Je Te demande ô Dieu, d’appeler chacun d’entre eux, Seigneur. Parle à mes enfants, ô Seigneur, à ceux que j’aime et à mes amis. Accorde-le nous, Seigneur, maintenant, dans le Nom de Jésus-Christ.
 
@@ -625,12 +535,7 @@ LE CHEF-D’OEUVRE 24
 
 211 Je T’offre ma prière pour eux, Seigneur. Je ne sais pas comment prier. Nous parlons au Dieu Tout-Puissant, et qu’est-ce qu’un être humain, qu’est-ce qu’un mortel peut bien offrir qui soit le genre de prière acceptable par le Dieu Vivant? Mais, Seigneur, pardonne les mots que je prononce mal, les noms et pronoms que je mets à la mauvaise place; puisque Tu peux, au travers de l’A.B.C. des petits enfants, comprendre leurs phrases, Tu peux aussi passer sous silence mes fautes de langage, et regarder simplement à ce que je crois, Seigneur. Je crois en Toi. Je crois cette Parole. Et je crois pour chacun de ceux qui sont ici. Je les amène à Ton autel, Seigneur, par la foi, là où se trouve, entre nous et le Glorieux Jéhovah, le Sang de Son Fils Jésus. Et c’est le Sang qui parlera pour nous. Lorsque Tu Le frappas au Calvaire, Tu as dit: “Parle! Ecoutez-Le!”. Et la Bible dit que Son Sang parle de choses meilleures que le sang de l’agneau de l’Ancien Testament; le Sang de Christ parle plus fort que le sang d’Abel, et de choses plus glorieuses. Et pour nous, Seigneur, Il parle de la rédemption, lorsque nous T’invoquons au travers de ce Sang.
 
-212 Glorieux Père de la Vie, reçois-nous, Seigneur. Si nous avons péché, enlève le péché de nous. Nous ne voulons pas être comme cela, Seigneur. Ce n’est pas notre intention. Et nous comprenons que nous vivons d'une manière horriblement ténébreuse. Comme nous l’avons dit au
-
-        http://www.cmpp.ch
-
-LE CHEF-D’OEUVRE 25
-commencement, nous marchons par les montagnes, par des endroits accidentés; la piste est faiblement tracée, mais nous saisissons la Lumière. Puissions-nous Le voir un pas après l’autre, alors que nous avançons, jusqu’au jour où nous Le rencontrerons, comme cela est raconté dans «Le Voyage du Pèlerin», quand nous aurons enfin atteint le sommet de la colline. Guide-nous, ô Bon Berger, Glorieux Jéhovah, conduis-nous par Ton Esprit.
+212 Glorieux Père de la Vie, reçois-nous, Seigneur. Si nous avons péché, enlève le péché de nous. Nous ne voulons pas être comme cela, Seigneur. Ce n’est pas notre intention. Et nous comprenons que nous vivons d'une manière horriblement ténébreuse. Comme nous l’avons dit au commencement, nous marchons par les montagnes, par des endroits accidentés; la piste est faiblement tracée, mais nous saisissons la Lumière. Puissions-nous Le voir un pas après l’autre, alors que nous avançons, jusqu’au jour où nous Le rencontrerons, comme cela est raconté dans «Le Voyage du Pèlerin», quand nous aurons enfin atteint le sommet de la colline. Guide-nous, ô Bon Berger, Glorieux Jéhovah, conduis-nous par Ton Esprit.
 
 213 Nous savons que nous sommes bien loin d’être un chef-d’oeuvre, mais nous regardons à la Personne d’où nous avons été tirés, du véritable Chef-d’Oeuvre, et nous mettons notre confiance en Lui. Prends-nous simplement vers Lui, Seigneur. Accorde-nous cela, ô Seigneur!
 
@@ -641,22 +546,18 @@ commencement, nous marchons par les montagnes, par des endroits accidentés; la 
 216 O Dieu notre Père, nous Te demandons d’oindre ces mouchoirs de Ta présence, Seigneur. Puisse Ta présence être avec eux où qu’ils aillent. Où qu’ils soient placés, sur quelque corps malade que ce soit, que celui-ci soit guéri. Et s’il y a quelque part une famille déchirée, répare cela, ô Seigneur, Toi le Grand Sculpteur. Accorde-le, Seigneur.
 
 217 Modèle-nous, et fais de nous des fils et des filles de Dieu. Nous croyons que l’Epouse est en train de faire ses derniers préparatifs. Elle sera entièrement détachée de toute organisation, et alors, la glorieuse moisson sera récoltée. Jusque là, Seigneur, accorde-leur la santé et le bonheur pour Te servir. Au Nom de Jésus. Amen!
-        Je L’aime, (L’aimez-vous réellement?)
-        Parce qu’Il m’aima le premier,
-        Et acquit mon salut
-        Sur l’arbre du Calvaire.
+
+> Je L’aime, (L’aimez-vous réellement?)  
+> Parce qu’Il m’aima le premier,  
+> Et acquit mon salut  
+> Sur l’arbre du Calvaire.
 
 218 Et maintenant, comprenez-vous pourquoi je vous réprimande? Ce n’est pas parce que je ne vous aime pas; je vous aime vraiment. Je veux un Chef-d’Oeuvre pour le Maître. Je peux avoir à en arracher quelques-uns comme ceci, mais un de ces jours, j’aurai un Chef-d’Oeuvre, si je continue à garder cette Parole. C’est vrai.
 
-219 Or, Jésus a dit: “Tous reconnaîtront que vous êtes mes disciples, si vous vous aimez les uns les autres”. Nous devrions être tellement dans l’amour les uns à l’égard des autres…
-        Béni soit le lien qui nous unit en Christ…
-        …
-     Donnons-nous la main, l’un l’autre.
+219 Or, Jésus a dit: *“Tous reconnaîtront que vous êtes mes disciples, si vous vous aimez les uns les autres”.* Nous devrions être tellement dans l’amour les uns à l’égard des autres…
 
+> Béni soit le lien qui nous unit en Christ…
 
+> …
 
-
-
-
-
-    http://www.cmpp.ch
+Donnons-nous la main, l’un l’autre.

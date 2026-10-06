@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "paille_et_froment_A4"
 title: "La Paille et le Froment"
-location: "Lausanne"
 preacher: "Alexis Barilier"
 summary: "Alexis Barilier explique la raison de la publication des écrits de William Branham, des lettres circulaires d'Ewald Frank et de ses propres éditoriaux. Il souligne l'importance de ne pas faire du Message de l'heure un absolu, mais de garder la Bible et Jésus-Christ comme seul absolu, en mettant en garde contre l'idolâtrie et en appelant à la repentance et au rétablissement."
 tags:
@@ -58,6 +57,7 @@ bible_refs:
   - "Matthieu 24:14"
   - "1 Jean 5:20-21"
 local_pdf: "https://files.mevar.org/cmpp/undated/paille_et_froment_A4.pdf"
+duplicate_of: "cmpp/undated/paille_et_froment"
 ---
 LA PAILLE ET LE FROMENT
 

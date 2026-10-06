@@ -80,9 +80,9 @@ Réponse : JSON STRICT uniquement. Schéma :
   "title": "Titre principal",
   "subtitle": "Sous-titre, mois/année pour lettre circulaire, ou null",
   "kind": "exhortation | bible_study | book | article | testimony | communique",
-  "date": "YYYY-MM-DD ou YYYY-MM-01 si seul le mois est connu, sinon null",
+  "date": "YYYY-MM-DD, ou YYYY-MM si seul le mois est connu, sinon null",
   "year": 1974,
-  "location": "Krefeld par défaut pour Ewald Frank, sinon précise",
+  "location": "Lieu imprimé dans le document (page de titre, signature), sinon null",
   "preacher": "Auteur du document (Ewald Frank, William Branham, etc.)",
   "summary": "Résumé 2-3 phrases",
   "tags": ["1-5 tags thématiques en français"],
@@ -163,7 +163,10 @@ function loadDocs() {
   }
   if (source === "cmpp") {
     const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/cmpp.json"), "utf8"));
-    return m.map((e) => ({ id: e.sermon_id, mdPath: `markdown/cmpp/${e.year ?? "undated"}/${e.sermon_id}.md` }));
+    // Only what was never cleaned: the cache of the first pass is gone, and a
+    // cleaned body is not cleaned twice.
+    // A work the manifest has a path for is read there (49b moves works); a new one is where the parse left it.
+    return m.filter((e) => !e.llm_cleaned).map((e) => ({ id: e.sermon_id, mdPath: e.local_md ?? `markdown/cmpp/${e.year ?? "undated"}/${e.sermon_id}.md` }));
   }
   if (source === "mevar-pdfs") {
     const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/mevar-pdfs-corpus.json"), "utf8"));
@@ -320,9 +323,10 @@ async function worker() {
 const workers = Array.from({ length: CONCURRENCY }, () => worker());
 await Promise.all(workers);
 
-const inMissCost = (sumIn - sumCached) / 1_000_000 * 0.27;
-const inHitCost = sumCached / 1_000_000 * 0.07;
-const outCost = sumOut / 1_000_000 * 1.10;
+// deepseek-chat is served by deepseek-flash (2026-10): its peak price, USD a million tokens.
+const inMissCost = (sumIn - sumCached) / 1_000_000 * 0.30;
+const inHitCost = sumCached / 1_000_000 * 0.006;
+const outCost = sumOut / 1_000_000 * 1.20;
 console.log(`\n=== ${source} fanout summary ===`);
 console.log(`processed: ${done}/${total} (ok=${ok} cached=${cached} err=${err} empty=${empty})`);
 console.log(`tokens: ${sumIn} in (${sumCached} cached) + ${sumOut} out`);

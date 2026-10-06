@@ -3,10 +3,7 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2023_A5_gc"
 title: "Exhortation"
 subtitle: "Année 2023"
-date: "2023-01-01"
 year: 2023
-location: "Krefeld"
-preacher: "Ewald Frank"
 summary: "Lettre circulaire pour la nouvelle année 2023, exhortant les croyants à persévérer dans la préparation de l'Épouse de Jésus-Christ, à se séparer de la pensée du monde et à vivre selon la Parole de Dieu, en vue de l'enlèvement et de l'héritage céleste."
 tags:
   - "espérance vivante"
@@ -49,6 +46,8 @@ bible_refs:
   - "1 Pierre 2"
   - "2 Corinthiens 13:8"
 local_pdf: "https://files.mevar.org/cmpp/2023/exhortation_annee_2023_A5_gc.pdf"
+duplicate_of: "cmpp/2023/exhortation_annee_2023"
+status: "draft"
 ---
 ## EXHORTATION
 ## ANNEE 2023

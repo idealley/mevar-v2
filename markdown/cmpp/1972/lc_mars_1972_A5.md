@@ -3,9 +3,8 @@ source: "cmpp"
 sermon_id: "lc_mars_1972_A5"
 title: "Lettre Circulaire"
 subtitle: "MARS 1972"
-date: "1972-03-01"
+date: "1972-03"
 year: 1972
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de mars 1972 exhorte les croyants à se fortifier par les promesses divines, à se préparer pour le retour de Christ, et clarifie les déclarations de William Branham concernant l'année 1977, insistant sur la nécessité de recevoir la puissance du Saint-Esprit plutôt que de fixer des dates."
 tags:
@@ -49,6 +48,7 @@ bible_refs:
   - "Actes 1:4-11"
   - "Luc 24:48,49"
 local_pdf: "https://files.mevar.org/cmpp/1972/lc_mars_1972_A5.pdf"
+duplicate_of: "cmpp/1972/lc_mars_1972"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 

@@ -1,10 +1,11 @@
-// Format a YYYY-MM-DD string into a French long-form date for human display.
+// Format a YYYY-MM-DD string into a French long-form date for human display;
+// a YYYY-MM string (a text dated by its month, goal 16) into « octobre 2012 ».
 export function formatDateFr(d: string | null | undefined): string | null {
   if (!d) return null;
-  const m = d.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  const m = d.match(/^(\d{4})-(\d{2})(?:-(\d{2}))?$/);
   if (!m) return d;
   const months = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
-  return `${parseInt(m[3], 10)} ${months[parseInt(m[2], 10) - 1]} ${m[1]}`;
+  return `${m[3] ? `${parseInt(m[3], 10)} ` : ""}${months[parseInt(m[2], 10) - 1]} ${m[1]}`;
 }
 
 // Derive `kind` from frontmatter when not explicitly set.

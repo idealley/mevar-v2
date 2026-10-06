@@ -3,7 +3,7 @@
 //
 // Their pages linked each PDF on another site (branham.org's CDN,
 // le-scribe.org, cmpp.ch), which can move or delete it. For every work of
-// those sources with a `pdf_url`, this script takes its PDF (the local copy
+// those sources with a `pdf_url` (a draft left out), this script takes its PDF (the local copy
 // in pdfs/<source>/, gitignored, which goals 01–02 downloaded for Branham
 // and Le Scribe; one not held, CMPP's for instance, downloaded once from its
 // pdf_url), uploads it to the R2
@@ -44,8 +44,10 @@ for (const source of SOURCES)
     if (!rel.endsWith(".md")) continue;
     const md = path.join("markdown", source, rel);
     const text = fs.readFileSync(path.join(root, md), "utf8");
-    const pdfUrl = field(frontmatter(text), "pdf_url");
-    if (pdfUrl) works.push({ source, rel: rel.replace(/\.md$/, ""), md, text, pdfUrl });
+    const fm = frontmatter(text);
+    const pdfUrl = field(fm, "pdf_url");
+    // a draft is not published, and neither is its PDF (the CMPP's death notice, goal 16)
+    if (pdfUrl && field(fm, "status") !== "draft") works.push({ source, rel: rel.replace(/\.md$/, ""), md, text, pdfUrl });
   }
 
 let uploaded = 0, downloaded = 0, frontmatters = 0;

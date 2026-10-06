@@ -3,9 +3,8 @@ source: "cmpp"
 sermon_id: "juillet1974"
 title: "Lettre circulaire — Juillet 1974"
 subtitle: "Juillet 1974"
-date: "1974-07-01"
+date: "1974-07"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de juillet 1974 exhorte les croyants à la patience et à la persévérance en vue du retour du Seigneur, en s'appuyant sur Jacques 5.7-11 et l'exemple de Job. Elle souligne l'importance de revenir à la Parole originale et à l'enseignement des apôtres, et annonce une restauration de l'Église par l'effusion du Saint-Esprit. L'éditorial met en garde contre les faux ouvriers et encourage à être une nouvelle créature en Christ."
 tags:
@@ -57,6 +56,7 @@ bible_refs:
   - "Jacques 3:13-18"
   - "Jacques 3:16"
 local_pdf: "https://files.mevar.org/cmpp/1974/juillet1974.pdf"
+duplicate_of: "cmpp/1974/lc_juillet_1974"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui et éternellement” (Hébreux 13.8).
 

@@ -3,10 +3,7 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2026_A4"
 title: "Souvenez-vous de ce qui s'est passé dès les temps anciens"
 subtitle: "Exhortation Année 2026"
-date: "2026-01-01"
 year: 2026
-location: "Krefeld"
-preacher: "Ewald Frank"
 summary: "Cette exhortation pour l'année 2026 rappelle les promesses de Dieu et l'importance de s'examiner dans le miroir de la Parole. Elle souligne la nécessité de vivre selon l'Esprit, d'accepter les ministères établis dans l'âge de Laodicée, et d'attendre patiemment le retour de Jésus-Christ, à l'exemple de Job et des vierges sages."
 tags:
   - "exhortation"
@@ -58,6 +55,7 @@ bible_refs:
   - "Ecclésiaste 7:8"
   - "Ésaïe 53:10"
 local_pdf: "https://files.mevar.org/cmpp/2026/exhortation_annee_2026_A4.pdf"
+status: "draft"
 ---
 ## Exhortation année 2026
 

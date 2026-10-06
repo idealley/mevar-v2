@@ -5,9 +5,12 @@
 //
 // A CMPP booklet prints its title page at the head of its text: the French
 // title, the English one in parentheses, the day and the time of day
-// (« 14 juin 1964, matin »). The frontmatter `date` came from a model, so the
-// printed day is what is trusted: a translation whose title page prints
-// another day than its frontmatter is not linked, it is listed.
+// (« 14 juin 1964, matin »). A work whose text is its page of cmpp.ch (goal
+// 31, `html_url`) has that title page in its frontmatter, where 43 wrote
+// the page's header: `date`, `time_of_day`, `original_title`. Any other
+// work has it at the head of its body, and a `date` that came from a model:
+// there the printed day is what is trusted, and a translation whose title
+// page prints another day than its frontmatter is not linked, it is listed.
 //
 // The day gives the candidates (the Branham ids start with it: "64-0614M").
 // Among them, in this order:
@@ -19,9 +22,11 @@
 // Anything else is left unlinked and listed in
 // manifests/cmpp-branham-unresolved.json. Never guessed.
 //
-// Samuel's answers come first: scripts/cmpp-branham-decided.json,
+// What was decided comes first: scripts/cmpp-branham-decided.json,
 // `{"<cmpp id>": "<branham id>" | "none"}`. "none" records that the work
 // translates no sermon of the archive, and it leaves the unresolved list.
+// An answer is Samuel's (la_profondeur), or was settled from the two texts
+// where he did not know (les_aigles_de_dieu: the evidence is in 76b).
 //
 // Writes: `original: "branham/<year>/<id>"` on the translation,
 //         `translation_fr: "cmpp/<year>/<id>"` on the sermon,
@@ -104,6 +109,15 @@ function titlePage(body) {
   };
 }
 
+/** A work's title page: its frontmatter's, when its text is its page of cmpp.ch, and the head of its body for what the page's header does not print (7sceaux1 prints its day under its introduction); else the head of its body. */
+function titlePageOf(work) {
+  const { html_url, date, time_of_day, original_title } = work.fields;
+  const head = titlePage(work.body);
+  if (!html_url) return head;
+  // no work moves for its header: its address stays
+  return { day: /^\d{4}-\d{2}-\d{2}$/.test(date ?? "") ? date : head.day, time: time_of_day?.split(" ").at(-1) ?? head.time, english: original_title ?? head.english, years: new Set() };
+}
+
 // ─── Resolve ────────────────────────────────────────────────────────────────
 const links = new Map(); // work.ref → sermon
 const unresolved = [];
@@ -111,7 +125,7 @@ const stats = {};
 const againstTime = [];
 
 for (const work of works.filter((w) => w.fields.preacher === "William Branham")) {
-  const page = titlePage(work.body);
+  const page = titlePageOf(work);
   const day = page.day ?? work.fields.date;
   const on = (d) => (/^\d{4}-\d{2}-\d{2}$/.test(d ?? "") ? byDay.get(d.slice(2, 4) + d.slice(5, 7) + d.slice(8)) ?? [] : []);
   const candidates = on(day);
@@ -181,7 +195,7 @@ const moves = new Map(); // old ref → new ref
 for (const work of works) {
   if (!work.ref.startsWith("cmpp/undated/")) continue;
   const sermon = links.get(work.ref);
-  const year = sermon ? sermon.ref.split("/")[1] : titlePage(work.body).years.has(work.fields.year) ? work.fields.year : null;
+  const year = sermon ? sermon.ref.split("/")[1] : titlePageOf(work).years.has(work.fields.year) ? work.fields.year : null;
   if (year) moves.set(work.ref, `cmpp/${year}/${work.id}`);
 }
 for (const [from, to] of moves) {

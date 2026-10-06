@@ -3,9 +3,8 @@ source: "cmpp"
 sermon_id: "lc1_A5"
 title: "Lettre circulaire"
 subtitle: "Janvier 1975"
-date: "1975-01-01"
+date: "1975-01"
 year: 1975
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de janvier 1975, méditant sur la puissance créatrice et salvatrice de la Parole de Dieu, les événements actuels au Moyen-Orient et le retour d'Israël, la question du sabbat, l'exode des gens de l'Église face à l'œcuménisme, et les nouvelles missionnaires en Afrique et ailleurs."
 tags:
@@ -80,7 +79,8 @@ bible_refs:
   - "1 Corinthiens 1:8-9"
   - "Hébreux 2:4"
   - "Apocalypse 19:7-8"
-local_pdf: "https://files.mevar.org/cmpp/undated/lc1_A5.pdf"
+local_pdf: "https://files.mevar.org/cmpp/1975/lc1_A5.pdf"
+duplicate_of: "cmpp/1975/lc1"
 ---
 > “Jésus-Christ est le même hier, aujourd’hui, et éternellement”
 > (Hébreux 13.8).

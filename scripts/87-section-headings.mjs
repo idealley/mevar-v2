@@ -20,7 +20,13 @@
 // original's), and get their headings from 86, which applies the same
 // decisions (applyHeadings) before it compares; `87 <batch>` does one batch.
 //
-// Usage: node scripts/87-section-headings.mjs [<batch>] [--dry]
+// `--pages` is for the CMPP works whose text is their page of cmpp.ch (goal
+// 31): only those works, and in them only the headings the page already has,
+// which it prints in capitals. No line becomes a heading. 43 writes those
+// bodies from the pages and applies the decisions kept here; a decision for a
+// line such a body no longer has (the PDF body's) is dropped.
+//
+// Usage: node scripts/87-section-headings.mjs [<batch> | --pages] [--dry]
 // Needs OPENAI_API_KEY (the root .env; from a worktree,
 // DOTENV_CONFIG_PATH=<root>/.env).
 
@@ -38,6 +44,8 @@ const letters = (t) => key(plain(t)).replace(/œ/g, "oe").replace(/æ/g, "ae").m
 const sameWords = (a, b) => letters(a).join(" ") === letters(b).join(" ");
 const alnum = (c) => /[\p{L}\p{N}]/u.test(c);
 const isHeading = (p) => /^#{1,4} /.test(p);
+// a line already a heading, answered at its own level: a page's « # » or « #### » stays what the page made it
+const sameLevel = (line, proposed) => isHeading(line) && line.match(/^#+/)[0] === proposed.match(/^#*/)[0];
 
 /**
  * The heading, rebuilt on the line's own characters: its punctuation, spaces
@@ -118,7 +126,7 @@ export function applyHeadings(body, decisions = []) {
       continue;
     }
     let found = false;
-    for (let i = 0; i < paras.length; i += 2) if (paras[i].trim() === line) { paras[i] = heading; found = true; }
+    for (let i = 0; i < paras.length; i += 2) if (paras[i].trim() === line) { paras[i] = paras[i].replace(line, () => heading); found = true; } // (the last paragraph keeps the text's final line end)
     if (!found && !paras.some((p) => p.trim() === heading)) refused.push(`the line « ${line} » does not stand alone in the text`);
   }
   return { body: paras.join(""), refused };
@@ -154,7 +162,7 @@ async function decide(lines) {
 if (import.meta.url === `file://${process.argv[1]}`) {
   await import("dotenv/config");
   const [batchId] = process.argv.slice(2).filter((a) => !a.startsWith("--"));
-  const dry = process.argv.includes("--dry");
+  const dry = process.argv.includes("--dry"), pages = process.argv.includes("--pages");
   const all = fs.existsSync(DECISIONS) ? JSON.parse(fs.readFileSync(DECISIONS, "utf8")) : {};
   const batches = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-batches.json"), "utf8"));
   const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-fixes.json"), "utf8"));
@@ -165,7 +173,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const works = [];
   // goal 10's texts as 86 reads them: the pass, the editor's fixes applied
   // from the end, the editor's title and subtitle
-  for (const md of batchId ? batches[batchId] : Object.values(batches).flat()) {
+  for (const md of pages ? [] : batchId ? batches[batchId] : Object.values(batches).flat()) {
     const cache = path.join(root, ".pass-cache", md.slice("markdown/".length).replace(/\.md$/, ".json"));
     if (!fs.existsSync(cache)) continue;
     const pass = JSON.parse(fs.readFileSync(cache, "utf8"));
@@ -184,16 +192,24 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       const f = fm(text);
       // a goal 10 text moved to mevar/ (goal 19) is read from its batch, above
       if (/^duplicate_of:/m.test(f) || /^source: "(onedrive|mevar-pdfs)"$/m.test(f)) continue;
+      if (pages && !/^html_url:/m.test(f)) continue;
       works.push([md, text.slice(text.indexOf("\n---\n", 4) + 5), fieldOf(f, "title"), fieldOf(f, "subtitle"), true, rel.startsWith("mevar/")]);
     }
   // a decision is kept under the path 86 and 87 read, once per line
-  if (!batchId) for (const md of Object.keys(all)) if (!works.some(([w]) => w === md)) delete all[md];
+  if (!batchId && !pages) for (const md of Object.keys(all)) if (!works.some(([w]) => w === md)) delete all[md];
+  // a page's work keeps the decisions for the headings it has, as the page prints them or already recased
+  // (not one that made a heading of a line of the PDF's body: here no line becomes a heading)
+  if (pages) for (const [md, body] of works) if (all[md]) {
+    const paras = new Set(body.split(/\n{2,}/).map((p) => p.trim()));
+    all[md] = all[md].filter((d) => isHeading(d.line) && (paras.has(d.line) || paras.has(d.heading)));
+    if (!all[md].length) delete all[md];
+  }
   for (const md of Object.keys(all)) all[md] = all[md].filter((d, i, a) => a.findIndex((e) => e.line === d.line) === i);
 
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
     const paras = body.split(/\n{2,}/).map((p) => p.trim());
-    const lines = candidates(body, title, subtitle, capsOnly).filter((l) => !done.has(l)).map((line) => {
+    const lines = candidates(body, title, subtitle, capsOnly).filter((l) => !done.has(l) && (!pages || isHeading(l))).map((line) => {
       const i = paras.indexOf(line);
       return { line, before: (paras[i - 1] ?? "").slice(-160), after: (paras[i + 1] ?? "").slice(0, 160) };
     });
@@ -214,7 +230,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     // a heading that is not its line, case and accents aside, stays a line
     all[md] = [...(all[md] ?? []), ...decisions.map((d) => {
       // the model gives ## or ### only; #### is an editor's decision (goal 18)
-      const heading = d.heading && /^#{2,3} /.test(d.heading) && headingOf(d.line, d.heading);
+      const heading = d.heading && (/^#{2,3} /.test(d.heading) || sameLevel(d.line, d.heading)) && headingOf(d.line, d.heading);
       if (d.heading && !heading) console.log(`  kept, the model changed a word: ${md}: « ${d.line} » → « ${d.heading} »`);
       return d.heading && !heading ? { line: d.line, heading: null, refused: d.heading } : { line: d.line, heading };
     })];

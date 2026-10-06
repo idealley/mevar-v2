@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Recover stubborn-error docs by reprocessing them with smaller chunks (25k vs 45k).
-// Usage: node scripts/74-recover-errors.mjs <onedrive|le-scribe|branham>
+// Usage: node scripts/74-recover-errors.mjs <onedrive|le-scribe|branham|mevar-pdfs|cmpp>
 
 import fs from "node:fs";
 import path from "node:path";
@@ -13,8 +13,8 @@ const MODEL = process.env.DEEPSEEK_MODEL || "deepseek-chat";
 const ENDPOINT = "https://api.deepseek.com/v1/chat/completions";
 
 const source = process.argv[2];
-if (!["onedrive", "le-scribe", "branham", "mevar-pdfs"].includes(source)) {
-  console.error("usage: 74-recover-errors.mjs <onedrive|le-scribe|branham|mevar-pdfs>");
+if (!["onedrive", "le-scribe", "branham", "mevar-pdfs", "cmpp"].includes(source)) {
+  console.error("usage: 74-recover-errors.mjs <onedrive|le-scribe|branham|mevar-pdfs|cmpp>");
   process.exit(2);
 }
 
@@ -132,11 +132,11 @@ function pathForId(id) {
     const e = m.find((x) => x.sermon_id === id);
     return e?.local_md;
   }
-  if (source === "le-scribe") {
-    const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/le-scribe.json"), "utf8"));
+  if (source === "le-scribe" || source === "cmpp") {
+    const m = JSON.parse(fs.readFileSync(path.join(root, `manifests/${source}.json`), "utf8"));
     const e = m.find((x) => x.sermon_id === id);
     if (!e) return null;
-    return `markdown/le-scribe/${e.year ?? "undated"}/${e.sermon_id}.md`;
+    return e.local_md ?? `markdown/${source}/${e.year ?? "undated"}/${e.sermon_id}.md`;
   }
   if (source === "mevar-pdfs") {
     const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/mevar-pdfs-corpus.json"), "utf8"));
@@ -167,7 +167,10 @@ async function recoverDoc(id) {
   const fullPath = path.join(root, mdPath);
   if (!fs.existsSync(fullPath)) return { id, status: "missing_file" };
 
-  const raw = stripFrontmatter(fs.readFileSync(fullPath, "utf8"));
+  // The dot leaders of a CMPP coupon (« Nom: . . . . . . ») are shortened: the
+  // model goes on copying them until it runs out of tokens, and the chunk fails.
+  const text = stripFrontmatter(fs.readFileSync(fullPath, "utf8"));
+  const raw = source === "cmpp" ? text.replace(/(?:\.[ \t]?){8,}/g, "… ") : text;
   const chunks = chunkAtParagraph(raw, CHUNK_SIZE);
   let merged = null;
   let totalIn = 0, totalOut = 0, totalCached = 0;

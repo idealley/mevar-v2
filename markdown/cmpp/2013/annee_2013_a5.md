@@ -3,10 +3,7 @@ source: "cmpp"
 sermon_id: "annee_2013_a5"
 title: "Lettre circulaire"
 subtitle: "Année 2013"
-date: "2013-01-01"
 year: 2013
-location: "Krefeld"
-preacher: "Ewald Frank"
 summary: "Cette lettre circulaire exhorte les croyants à manifester un amour fraternel sincère, en s'appuyant sur 1 Jean 3.11-18 et d'autres passages. Elle souligne l'importance de la bonté fraternelle, de la sincérité et de l'unité dans l'Esprit, tout en mettant en garde contre l'hypocrisie et le jugement. L'auteur rappelle que l'amour fraternel est essentiel pour la préparation de l'Épouse et l'entrée des derniers païens dans le royaume."
 tags:
   - "amour fraternel"
@@ -47,6 +44,8 @@ bible_refs:
   - "Jacques 5:1"
   - "Éphésiens 4:11"
 local_pdf: "https://files.mevar.org/cmpp/2013/annee_2013_a5.pdf"
+duplicate_of: "cmpp/2013/annee_2013"
+status: "draft"
 ---
 > “Car, quiconque fait la volonté de Dieu, celui-là est mon frère, ma sœur, et ma mère” (Marc 3.45).
 

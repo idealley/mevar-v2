@@ -28,7 +28,9 @@ const duplicateRedirects = {
         const text = fs.readFileSync(`../markdown/${rel}`, "utf8");
         const frontmatter = text.slice(0, text.indexOf("\n---\n", 4));
         const target = frontmatter.match(/^duplicate_of: ["']?([^"'\n]+)["']?$/m)?.[1];
-        if (target) rules.push(`${workUrl(rel.slice(0, -".md".length))}  ${workUrl(target)}  301`);
+        // A draft is not built and nothing leads to it: no rule from a draft, none to one.
+        const draft = (t) => /^status: ["']?draft["']?$/m.test(t.slice(0, t.indexOf("\n---\n", 4)));
+        if (target && !draft(text) && !draft(fs.readFileSync(`../markdown/${target}.md`, "utf8"))) rules.push(`${workUrl(rel.slice(0, -".md".length))}  ${workUrl(target)}  301`);
       }
       fs.appendFileSync(new URL("_redirects", dir), `\n# ─── Duplicates (goal 09), generated at build ───\n${rules.join("\n")}\n`);
     },

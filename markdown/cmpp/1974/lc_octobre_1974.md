@@ -3,9 +3,8 @@ source: "cmpp"
 sermon_id: "lc_octobre_1974"
 title: "Lettre Circulaire"
 subtitle: "Octobre 1974"
-date: "1974-10-01"
+date: "1974-10"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank explique son double appel divin (prêcher et distribuer la nourriture spirituelle) et défend son ministère de publication des prédications de William Branham. Il met en garde contre les faux docteurs et appelle à l'unité. Un éditorial d'André Barilier compare le ministère de Frank au second couteau d'une moissonneuse-batteuse."
 tags:
@@ -45,16 +44,12 @@ bible_refs:
   - "Matthieu 24:45,46"
   - "Éphésiens 4:11-13"
 local_pdf: "https://files.mevar.org/cmpp/1974/lc_octobre_1974.pdf"
+html_url: "http://www.cmpp.ch/lc_octobre_1974.htm"
+title_page: ["“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).","LETTRE CIRCULAIRE","OCTOBRE 1974"]
 ---
-> “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
-
-# Lettre circulaire
-
-## Octobre 1974
-
 Je vous salue tous cordialement dans le précieux Nom de notre Seigneur par cette parole de Tite 1.1-3:
 
-> “Paul, serviteur de Dieu, et apôtre de Jésus-Christ pour la foi des élus de Dieu et la connaissance de la vérité qui est selon la piété, — lesquelles reposent sur l’espérance de la vie éternelle, promise dès les plus anciens temps par le Dieu qui ne ment point, et qui a manifesté sa parole en son temps par la prédication qui m’a été confiée d’après l’ordre de Dieu notre Sauveur”.
+> *“Paul, serviteur de Dieu, et apôtre de Jésus-Christ pour la foi des élus de Dieu et la connaissance de la vérité qui est selon la piété, — lesquelles reposent sur l’espérance de la vie éternelle, promise dès les plus anciens temps par le Dieu qui ne ment point, et qui a manifesté sa parole en son temps par la prédication qui m’a été confiée d’après l’ordre de Dieu notre Sauveur”.*
 
 Aujourd’hui, cette parole nous est aussi adressée. Dans tous les temps, le Seigneur a eu Ses serviteurs qui ont proclamé aux élus la Parole de Dieu conformément à la Vérité. Cette Parole révélée est actuellement prêchée au temps fixé par ceux qui ont reçu de Dieu la charge de la prêcher. Nous voyons dans l’histoire de l’Eglise du Nouveau Testament que des hommes ont proclamé en leur temps, selon l’ordre de Dieu, la Parole qui était pour leur temps. Pour assumer une charge divine, il faut tout d’abord qu’il y ait à la base un appel direct de Dieu. Sans cela, on agit de sa propre autorité et selon ses caprices, et l’on n’est en bénédiction à personne — au contraire, on n’occasionne que des dommages.
 
@@ -62,7 +57,7 @@ Je ne voudrais pas écrire l’exposé suivant à seule fin de me justifier, car
 
 Sur la base de ce double ministère, il faut que soit publiée toute la Parole de Dieu, et que soient transmises à d’autres, et ordonnées selon le critère biblique, l’ensemble des révélations de l’Ecriture qui ont été accordées à frère Branham. Très souvent, on m’a demandé s’il était juste de prêcher moi-même, ou si seules les prédications de frère Branham devaient être publiées. Pour accomplir consciencieusement devant Dieu la mission qu’Il m’a confiée, je dois faire les deux choses. Tous ceux qui lisent et écoutent attentivement ce qui a déjà été publié peuvent constater que nous nous sommes efforcés d’exposer tout le conseil de Dieu au travers d’une publication bien soupesée, ceci tant en ce qui concerne les doctrines bibliques que les prophéties bibliques. Tout doit être apporté conformément à l’ordre de Dieu dans ce temps et dans l’équilibre, un équilibre divin. C’est pourquoi je prends constamment garde, dans la publication de toutes les choses qui ont été révélées par le ministère de frère Branham, d’en disposer l’ordre selon l’ensemble de la Parole proclamée. Je dois repousser résolument l’assertion selon laquelle je serais exclusivement appelé à traduire les prédications, et non à prêcher.
 
-C’est avec grand soin que, sous la direction du Saint-Esprit, j’ai choisi parmi les centaines de prédications de frère Branham, celles qui communiquent une information sur l’ensemble de la prédication prophétique. Même dans les jours du Seigneur Jésus-Christ, des choses en plus grand nombre que nous relatent les Evangiles se sont accomplies. Il est écrit dans Jean 21.25: “Jésus a fait encore beaucoup d’autres choses; si on les écrivait en détail, je ne pense pas que le monde même pût contenir les livres qu’on écrirait”. Qui a le droit de prétendre que, dans les Evangiles, trop peu de choses aient été écrites? Qui voudra blâmer les serviteurs qui ont accompli leur ministère dans la crainte de Dieu, et sous la direction du Saint-Esprit?
+C’est avec grand soin que, sous la direction du Saint-Esprit, j’ai choisi parmi les centaines de prédications de frère Branham, celles qui communiquent une information sur l’ensemble de la prédication prophétique. Même dans les jours du Seigneur Jésus-Christ, des choses en plus grand nombre que nous relatent les Evangiles se sont accomplies. Il est écrit dans Jean 21.25: *“Jésus a fait encore beaucoup d’autres choses; si on les écrivait en détail, je ne pense pas que le monde même pût contenir les livres qu’on écrirait”.* Qui a le droit de prétendre que, dans les Evangiles, trop peu de choses aient été écrites? Qui voudra blâmer les serviteurs qui ont accompli leur ministère dans la crainte de Dieu, et sous la direction du Saint-Esprit?
 
 En ce qui concerne le service de frère Branham, nous savons que beaucoup de choses se sont passées. Des centaines de prédications (en anglais) sont à la disposition de chacun, et des livres peuvent en être remplis. Cependant, comme du temps des apôtres, avons-nous bien publié sous la direction du Saint-Esprit l’essentiel, soit ce qui est nécessaire au salut, la substance de ce qui est requis pour la félicité et la préparation de l’Epouse? Et, par la grâce de Dieu, voulons-nous continuer à le faire? Il ne suffit pas seulement que nous entendions beaucoup de choses, mais bien que nous comprenions correctement ce que nous avons entendu.
 
@@ -70,13 +65,13 @@ Je dis ces choses à l’intention de ceux qui sont plongés dans le trouble à 
 
 Usant de la puissance qui m’a été accordée par l’appel divin, j’engage donc chaque frère à fournir la preuve et à témoigner de quelle manière et quand le Seigneur l’aurait chargé de publier la Parole de Dieu dans ce temps, et de distribuer la nourriture qui avait été emmagasinée. J’entends démontrer clairement ici que je n’ai pas été appelé par frère Branham, mais par le Seigneur Dieu Lui-même, qui m’a appelé et mandaté d’une voix audible le 2 avril 1962.
 
-Frère Branham a spontanément confirmé cet appel divin et ce mandat le 3 décembre 1962, en présence des témoins Sothmann et Woods sur la base d’une révélation divine. Que celui qui veut reconnaître la direction du Saint-Esprit prenne à coeur les faits suivants. Le 1ᵉʳ avril 1962, frère Branham a raconté, dans sa prédication à Jeffersonville, le songe qu’il avait eu concernant la mise en réserve de la nourriture. Si l’on prend en considération la différence d’heure existant entre l’Amérique et l’Europe, ainsi, cela eut lieu presque à la minute près au même moment où le Seigneur me parla. Le Seigneur Dieu a, depuis longtemps et des milliers de fois, confirmé ce qu’Il avait dit comme étant vrai. Légitimer ce qui est déjà justifié est donc superflu.
+Frère Branham a spontanément confirmé cet appel divin et ce mandat le 3 décembre 1962, en présence des témoins Sothmann et Woods sur la base d’une révélation divine. Que celui qui veut reconnaître la direction du Saint-Esprit prenne à coeur les faits suivants. Le 1er avril 1962, frère Branham a raconté, dans sa prédication à Jeffersonville, le songe qu’il avait eu concernant la mise en réserve de la nourriture. Si l’on prend en considération la différence d’heure existant entre l’Amérique et l’Europe, ainsi, cela eut lieu presque à la minute près au même moment où le Seigneur me parla. Le Seigneur Dieu a, depuis longtemps et des milliers de fois, confirmé ce qu’Il avait dit comme étant vrai. Légitimer ce qui est déjà justifié est donc superflu.
 
-En janvier 1963, dans une prédication à Phoenix, Arizona, frère Branham fit la déclaration suivante: «Dans ces choses, j’ai été réservé durant ces quinze ou seize années pendant lesquelles je suis sur le champ de missions. Cependant, l’heure vient maintenant où quelque chose est sur le point d’arriver. Le Message ira à une autre nation, à un autre peuple. Pendant que nous sommes encore maintenant dans Sa sainte présence… Je crois que l’Eglise, en Amérique, est presque priée de sortir…».
+En janvier 1963, dans une prédication à Phoenix, Arizona, frère Branham fit la déclaration suivante: «Dans ces choses, j’ai été réservé durant ces quinze ou seize années pendant lesquelles je suis sur le Champ de missions. Cependant, l’heure vient maintenant où quelque chose est sur le point d’arriver. **Le Message ira à une autre nation, à un autre peuple**. Pendant que nous sommes encore maintenant dans Sa sainte présence… Je crois que l’Eglise, en Amérique, est presque priée de sortir…».
 
-Lors de ma visite au Canada, en août de cette année, il m’a été demandé si mon ministère pouvait être identifié, du point de vue biblique. On m’a dit littéralement: «S’il est vrai que tu as reçu un mandat divin pour l’Eglise, alors, il doit y avoir quelque chose concernant cela dans la Bible!». Je n’avais moi-même jamais réfléchi à ces choses. Cependant, cette question me toucha beaucoup, et je priai le Seigneur de m’éclairer à ce sujet, et de me dire s’il en était donné une référence quelconque dans l’Ancien ou dans le Nouveau Testament. A ma propre surprise, le Saint-Esprit de Dieu me remémora deux passages bibliques: “Voici, les jours viennent, dit le Seigneur, l’Eternel, où j’enverrai la famine dans le pays, non pas la disette de pain et la soif de l’eau, mais la faim et la soif d’entendre les paroles (instructions — révélations) de l’Eternel” (Amos 8.11).
+Lors de ma visite au Canada, en août de cette année, il m’a été demandé si mon ministère pouvait être identifié, du point de vue biblique. On m’a dit littéralement: «S’il est vrai que tu as reçu un mandat divin pour l’Eglise, alors, il doit y avoir quelque chose concernant cela dans la Bible!». Je n’avais moi-même jamais réfléchi à ces choses. Cependant, cette question me toucha beaucoup, et je priai le Seigneur de m’éclairer à ce sujet, et de me dire s’il en était donné une référence quelconque dans l’Ancien ou dans le Nouveau Testament. A ma propre surprise, le Saint-Esprit de Dieu me remémora deux passages bibliques: *“Voici, les jours viennent, dit le Seigneur, l’Eternel, où j’enverrai la famine dans le pays, non pas la disette de pain et la soif de l’eau, mais la faim et la soif d’entendre les paroles* (instructions — révélations) *de l’Eternel”* (Amos 8.11).
 
-> “Quel est donc le serviteur fidèle et prudent, que son maître a établi sur ses gens, pour leur donner la nourriture au temps convenable? Heureux ce serviteur, que son maître, à son arrivée, trouvera faisant ainsi!” (Mat. 24.45,46).
+*“Quel est donc le serviteur fidèle et prudent, que son maître a établi sur ses gens, pour leur donner la nourriture au temps convenable? Heureux ce serviteur, que son maître, à son arrivée, trouvera faisant ainsi!”* (Mat. 24.45,46).
 
 Je ne peux décrire quel amour, quelle paix et quelle bénédiction m’envahirent alors. Jusqu’à l’ultime limite de mes forces, je veux me consacrer à la publication de la Parole de Dieu et à la distribution de la nourriture divine. C’est au mieux de ma connaissance, et en toute bonne conscience que je m’acquitte du mandat qui m’a été confié. (Dans les réunions des 7 et 8 septembre à Krefeld, j’ai parlé de cela d’une façon détaillée. C’est enregistré sur les bandes magnétiques.)
 
@@ -90,15 +85,14 @@ Je souhaiterais avoir, avec tous les frères qui voudraient participer à la pub
 
 Je dois tous vous saluer de la part de ceux que j’ai rencontrés dans les différents pays que j’ai visités durant ces dernières semaines. Je vous prie de vous souvenir de moi dans vos prières pendant mon voyage d’octobre au Pakistan, en Inde, à Ceylan, en Indonésie et aux Philippines. Que le Seigneur bénisse tous ceux qui portent Son oeuvre dans la prière, et qui soutiennent le travail missionnaire au loin.
 
-Agissant de la part de Dieu.
-
----
+Agissant de la part de Dieu.  
+*E. Frank*
 
 ## Éditorial
 
-> “Et il a donné les uns… pour le perfectionnement des saints en vue de l’oeuvre du ministère et de l’édification du corps de Christ, jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ,…” (Ephésiens 4.11-13).
+> *“Et il a donné les uns… pour le perfectionnement des saints en vue de l’oeuvre du ministère et de l’édification du corps de Christ, jusqu’à ce que nous soyons tous parvenus à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ,…”* (Ephésiens 4.11-13).
 
-Je ne peux que bénir, louer et adorer mon Seigneur et Sauveur Jésus-Christ pour la grâce qu’Il m’a accordée de recevoir le Message de la Parole révélée à notre génération. En plus de cela, Il m’a accordé la responsabilité de faire publier en langue française le Message qu’Il a préparé dans Son amour pour Ses élus afin que, par cette nourriture spirituelle, ceux-ci soient amenés “à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ”.
+Je ne peux que bénir, louer et adorer mon Seigneur et Sauveur Jésus-Christ pour la grâce qu’Il m’a accordée de recevoir le Message de la Parole révélée à notre génération. En plus de cela, Il m’a accordé la responsabilité de faire publier en langue française le Message qu’Il a préparé dans Son amour pour Ses élus afin que, par cette nourriture spirituelle, ceux-ci soient amenés *“à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature parfaite de Christ”*.
 
 En 1955, peu avant que notre frère Branham ne vienne prêcher pour la première fois en Suisse, le Seigneur me montra en songe une moissonneuse-batteuse assez extraordinaire. En examinant cette machine, je remarquai entre autres deux choses. La première, c’est qu’à part le grand couteau de coupe, sur le devant de la machine, il y en avait un plus court sur le côté. La deuxième chose remarquable, c’est que toutes les transmissions nécessaires à la marche de la machine étaient invisibles, étant cachées dans la carrosserie. Dans mon songe, je m’écriai, après l’avoir examinée: «Elle vient sûrement d’Amérique!». Je ne sus pas tout de suite ce que représentait cette machine, mais après avoir assisté à deux rencontres où frère Branham prêchait et où il fit le récit de sa vie, mon coeur fut brisé, et je réalisai clairement que cette moissonneuse-batteuse vue en songe était le ministère que le Seigneur avait accordé à notre frère Branham.
 
@@ -110,4 +104,7 @@ On reconnaît l’ouvrier à son oeuvre. Je veux donc dire que je comprends mieu
 
 Il y aurait encore beaucoup à dire à ce sujet, mais la place étant limitée, il ne m’est pas possible de vous en parler davantage. Ce que je souhaite, c’est que vous tous qui avez reçu la Parole de Dieu révélée, puissiez également discerner les ouvriers qualifiés d’entre ceux qui ne le sont pas. Dans nos pays européens d’expression française, plusieurs se réclamant du Message de la fin font une oeuvre personnelle et n’acceptent pas de travailler en harmonie avec les ouvriers que le Seigneur a établis Lui-même. Prenons donc garde à eux, et attachons-nous au Seigneur Jésus!
 
-Que la grâce soit avec chacun de vous!    Votre frère en Jésus-Christ.
+Que la grâce soit avec chacun de vous!
+
+Votre frère en Jésus-Christ.  
+*A. Barilier*
