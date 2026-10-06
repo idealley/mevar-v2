@@ -21,12 +21,13 @@
 // keeps its words. Nothing is corrected: a misprint of the page is the
 // page's.
 //
-// A heading is as the page prints it, in capitals where it prints capitals.
-// Goal 18 had put the headings of the bodies these replace in sentence case,
-// with the accents capitals lack (scripts/mevar-section-headings.json): those
-// decisions name lines that are gone, and are not applied here, since they
-// would write « Église » where the page prints « EGLISE ». 87 can decide the
-// page's headings again; it asks a model.
+// A heading the page prints in capitals is written in sentence case, with
+// the accents capitals lack, as goal 18 decided for every section heading of
+// the site (« ## EDITION SPECIALE DECISIVE » is « ## Édition spéciale
+// décisive »): the decisions are 87's (`87 --pages`), kept in
+// scripts/mevar-section-headings.json, and applied here; a heading 87 has not
+// decided stays as the page prints it. Its words do not change, and nothing
+// that is not a heading does.
 //
 // The title page goes to the frontmatter and to the manifest, not into the
 // body. `title_page` holds its lines as printed, all of them (a circular
@@ -55,6 +56,7 @@ import path from "node:path";
 import TurndownService from "turndown";
 import { dropField, setField } from "./frontmatter.mjs";
 import { page } from "./12b-pair-cmpp-pages.mjs";
+import { applyHeadings } from "./87-section-headings.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 
@@ -198,6 +200,7 @@ function headerOf(top) {
 // ─── Each work that has a page ──────────────────────────────────────────────
 const manifestPath = path.join(root, "manifests/cmpp.json");
 const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+const headings = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-section-headings.json"), "utf8"));
 let works = 0, bodies = 0, fields = 0;
 for (const entry of manifest) {
   const file = path.join(root, entry.local_md);
@@ -213,7 +216,7 @@ for (const entry of manifest) {
   const html = await page(new URL(entry.html_url).pathname.slice(1));
   hidden = hiddenBy(html);
   const { top, text: article } = partsOf(html);
-  const body = bodyOf(article);
+  const body = applyHeadings(bodyOf(article), headings[entry.local_md]).body;
   const start = before.indexOf("\n---\n", 4) + 5;
   let text = before.slice(0, start);
   const printed = { ...headerOf(top), html_url: entry.html_url };

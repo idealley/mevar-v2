@@ -20,7 +20,13 @@
 // original's), and get their headings from 86, which applies the same
 // decisions (applyHeadings) before it compares; `87 <batch>` does one batch.
 //
-// Usage: node scripts/87-section-headings.mjs [<batch>] [--dry]
+// `--pages` is for the CMPP works whose text is their page of cmpp.ch (goal
+// 31): only those works, and in them only the headings the page already has,
+// which it prints in capitals. No line becomes a heading. 43 writes those
+// bodies from the pages and applies the decisions kept here; a decision for a
+// line such a body no longer has (the PDF body's) is dropped.
+//
+// Usage: node scripts/87-section-headings.mjs [<batch> | --pages] [--dry]
 // Needs OPENAI_API_KEY (the root .env; from a worktree,
 // DOTENV_CONFIG_PATH=<root>/.env).
 
@@ -154,7 +160,7 @@ async function decide(lines) {
 if (import.meta.url === `file://${process.argv[1]}`) {
   await import("dotenv/config");
   const [batchId] = process.argv.slice(2).filter((a) => !a.startsWith("--"));
-  const dry = process.argv.includes("--dry");
+  const dry = process.argv.includes("--dry"), pages = process.argv.includes("--pages");
   const all = fs.existsSync(DECISIONS) ? JSON.parse(fs.readFileSync(DECISIONS, "utf8")) : {};
   const batches = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-batches.json"), "utf8"));
   const fixes = JSON.parse(fs.readFileSync(path.join(root, "scripts/mevar-editorial-fixes.json"), "utf8"));
@@ -165,7 +171,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const works = [];
   // goal 10's texts as 86 reads them: the pass, the editor's fixes applied
   // from the end, the editor's title and subtitle
-  for (const md of batchId ? batches[batchId] : Object.values(batches).flat()) {
+  for (const md of pages ? [] : batchId ? batches[batchId] : Object.values(batches).flat()) {
     const cache = path.join(root, ".pass-cache", md.slice("markdown/".length).replace(/\.md$/, ".json"));
     if (!fs.existsSync(cache)) continue;
     const pass = JSON.parse(fs.readFileSync(cache, "utf8"));
@@ -184,16 +190,23 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       const f = fm(text);
       // a goal 10 text moved to mevar/ (goal 19) is read from its batch, above
       if (/^duplicate_of:/m.test(f) || /^source: "(onedrive|mevar-pdfs)"$/m.test(f)) continue;
+      if (pages && !/^html_url:/m.test(f)) continue;
       works.push([md, text.slice(text.indexOf("\n---\n", 4) + 5), fieldOf(f, "title"), fieldOf(f, "subtitle"), true, rel.startsWith("mevar/")]);
     }
   // a decision is kept under the path 86 and 87 read, once per line
-  if (!batchId) for (const md of Object.keys(all)) if (!works.some(([w]) => w === md)) delete all[md];
+  if (!batchId && !pages) for (const md of Object.keys(all)) if (!works.some(([w]) => w === md)) delete all[md];
+  // a page's work keeps the decisions for the lines it has, as the page prints them or already recased
+  if (pages) for (const [md, body] of works) if (all[md]) {
+    const paras = new Set(body.split(/\n{2,}/).map((p) => p.trim()));
+    all[md] = all[md].filter((d) => paras.has(d.line) || paras.has(d.heading));
+    if (!all[md].length) delete all[md];
+  }
   for (const md of Object.keys(all)) all[md] = all[md].filter((d, i, a) => a.findIndex((e) => e.line === d.line) === i);
 
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
     const paras = body.split(/\n{2,}/).map((p) => p.trim());
-    const lines = candidates(body, title, subtitle, capsOnly).filter((l) => !done.has(l)).map((line) => {
+    const lines = candidates(body, title, subtitle, capsOnly).filter((l) => !done.has(l) && (!pages || isHeading(l))).map((line) => {
       const i = paras.indexOf(line);
       return { line, before: (paras[i - 1] ?? "").slice(-160), after: (paras[i + 1] ?? "").slice(0, 160) };
     });
