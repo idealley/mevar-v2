@@ -6,11 +6,19 @@
 // The same change goes into the work's entry
 // of manifests/cmpp.json, so 50 agrees.
 //
-// And one rule for the whole source: a text dated by its month has no day.
-// The first pass wrote « Janvier 2013 » as "2013-01-01". Such a date becomes
-// "2013-01" when the work's file name, its subtitle or the head of its text
-// names that month and year, unless the subtitle or a short line of that head
-// prints the first of the month (« 1er septembre 1963, soir »).
+// And two rules for the whole source, on the text of each PDF (cmpp-pdfs.mjs;
+// 21 and 22 first, for the booklets and the PDFs with lost signs):
+//   - a date is what the PDF prints, no more. The pass was asked for a date
+//     and wrote « Janvier 2013 » as "2013-01-01", « Année 2020 » as
+//     "2020-01-01". A day no title page or signature prints becomes its month
+//     ("2013-01") when the file name or the PDF names the month, and goes
+//     otherwise: the work keeps its `year`. A date set by hand in the table
+//     is left alone, and a duplicate (83b) has the date of the work it
+//     duplicates: three A5 layouts print the month of the circular letter
+//     they were sent with, their A4 does not.
+//   - a place the PDF does not print goes: the pass was told « Krefeld par
+//     défaut pour Ewald Frank », and wrote it on texts that print another
+//     address or none.
 //
 // And one for the 187 monthly « Sommaire des rencontres » (video_MM_YYYY):
 // they all had that one title, so a reader could not tell them apart. The
@@ -24,7 +32,8 @@
 
 import fs from "node:fs";
 import path from "node:path";
-import { dropField, setField } from "./frontmatter.mjs";
+import { dropField, field, frontmatter, setField } from "./frontmatter.mjs";
+import { extraction, printedDate, printsPlace } from "./cmpp-pdfs.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 
@@ -50,11 +59,26 @@ const CORRECTIONS = {
   quand_dieu_A4_traite: { preacher: "Ewald Frank" },
   le_bapteme_une_question_importante: { preacher: "Ewald Frank" },
   le_bapteme_une_question_importante_A4_traite: { preacher: "Ewald Frank" },
+  // « 4 mars 1960, après-midi », « (God’s Eagles) », Tulsa: the booklet's
+  // date is the American 4/3/60 read the European way. The sermon is
+  // 60-0403, « As the Eagle Stirreth », Tulsa, Oklahoma, 3 April 1960,
+  // afternoon: its opening prayer (« Almighty God, the Creator of heavens and
+  // earth, and the Author of everlasting Life… for this great Tulsa meeting »)
+  // is the translation's, sentence for sentence, and so is its end (« If you
+  // die in your sins, it won’t be God’s fault… a sinner is an unbeliever »,
+  // « Don’t move around. See? Each one of you is a spirit »). The archive's
+  // sermon of 4 March 1960 (60-0304, « Thirsting for Life », Phoenix) names
+  // no eagle and no Tulsa. Settled from the two texts; Samuel did not know.
+  // The subtitle stays: it is what the booklet prints.
+  les_aigles_de_dieu: { date: "1960-04-03" },
+  // « SEPTEMBRE – OCTOBRE 1966 » at the head of the first of its two letters.
+  la_parole_de_dieu_demeure_eternellement: { date: "1966-09" },
   // A death notice, not a work: it names a family, person by person, and the
   // model had lifted the names and their towns into the metadata. A draft is
   // not built, listed or indexed (Samuel, 2026-10-06: « we can keep the death
   // notice out »).
-  faire_part_alexis_barilier: { status: "draft", summary: null, tags: null, persons: null, places: null },
+  // Its day is in a sentence: « Survenu le 6 septembre 2013, dans sa 89ème année. »
+  faire_part_alexis_barilier: { status: "draft", date: "2013-09-06", summary: null, tags: null, persons: null, places: null },
 };
 
 // A field's line, and the items under it when it is a list
@@ -89,29 +113,37 @@ for (const entry of manifest) {
   titles++;
 }
 
-// ─── A month is not a day ───────────────────────────────────────────────────
-const MONTHS = ["janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"];
-const fold = (t) => (t ?? "").normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().replace(/\s+/g, " ");
-let months = 0;
+// ─── A date and a place are what the PDF prints ─────────────────────────────
+let dates = 0, places = 0;
 for (const entry of manifest) {
-  const [, year, mm] = entry.date?.match(/^(\d{4})-(\d{2})-01$/) ?? [];
-  if (!year) continue;
-  const month = MONTHS[mm - 1];
+  const file = path.join(root, entry.local_md);
+  const before = fs.readFileSync(file, "utf8");
+  const pdf = extraction(entry.sermon_id);
+  let text = before;
+  if (entry.date && !CORRECTIONS[entry.sermon_id]?.date && !field(frontmatter(before), "duplicate_of")) {
+    const printed = printedDate(entry.sermon_id, entry.date, pdf);
+    if (printed !== entry.date) {
+      text = printed ? setField(text, "date", printed) : dropField(text, "date");
+      if (printed) entry.date = printed; else delete entry.date;
+      dates++;
+    }
+  }
+  if (entry.location && !printsPlace(entry.location, pdf)) { text = dropField(text, "location"); delete entry.location; places++; }
+  if (text !== before) fs.writeFileSync(file, text);
+}
+
+// A duplicate says what its keeper says
+const byRef = new Map(manifest.map((e) => [e.local_md.replace(/^markdown\/|\.md$/g, ""), e]));
+for (const entry of manifest) {
   const file = path.join(root, entry.local_md);
   const text = fs.readFileSync(file, "utf8");
-  const body = text.slice(text.indexOf("\n---\n", 4) + 5);
-  const head = body.split("\n").filter((l) => l.trim()).slice(0, 15).join("\n");
-  // A title page's lines are short; a day inside a sentence of the text is an event it tells.
-  const titleLines = head.split("\n").filter((l) => l.length <= 80).join("\n");
-  const named = fold(entry.sermon_id).includes(month + year) || fold(entry.sermon_id).includes(`${month}_${year}`) || entry.sermon_id.startsWith(`video_${mm}_${year}`)
-    || new RegExp(`${month}\\W+${year}`).test(fold(`${entry.subtitle}\n${head}`));
-  const firstOfTheMonth = new RegExp(`(^|\\D)(1 ?(er|ᵉʳ)?|premier) ${month} ${year}`).test(fold(`${entry.subtitle}\n${titleLines}`));
-  if (!named || firstOfTheMonth) continue;
-  entry.date = `${year}-${mm}`;
-  fs.writeFileSync(file, setField(text, "date", entry.date));
-  months++;
+  const keeper = byRef.get(field(frontmatter(text), "duplicate_of"));
+  if (!keeper || (keeper.date ?? null) === (entry.date ?? null)) continue; // 12 writes « no date » as null
+  fs.writeFileSync(file, keeper.date ? setField(text, "date", keeper.date) : dropField(text, "date"));
+  if (keeper.date) entry.date = keeper.date; else delete entry.date;
+  dates++;
 }
 
 const out = JSON.stringify(manifest, null, 2);
 if (out !== fs.readFileSync(manifestPath, "utf8")) fs.writeFileSync(manifestPath, out);
-console.log(`${Object.keys(CORRECTIONS).length} works corrected from their own text, ${changed} frontmatters changed; ${months} dates of a first of the month set to their month; ${titles} monthly summaries titled with their month`);
+console.log(`${Object.keys(CORRECTIONS).length} works corrected from their own text, ${changed} frontmatters changed; ${titles} monthly summaries titled with their month; ${dates} dates and ${places} places set to what the PDF prints`);
