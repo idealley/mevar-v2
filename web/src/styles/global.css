@@ -242,6 +242,9 @@
     font-size: calc(20px * var(--read-scale, 1));
     line-height: 1.8;
     color: var(--read-ink);
+    /* a rule of underscores, in a paragraph or an indented block, has no
+       space to wrap at */
+    overflow-wrap: break-word;
   }
   .prose-reader > * + * {
     margin-top: 30px;
@@ -282,6 +285,15 @@
   }
   .prose-reader blockquote > * + * {
     margin-top: 14px;
+  }
+  /* An indented block of the source: a song, a poem, lines quoted as they
+     were set. Its line breaks are kept, its lines wrap. */
+  .prose-reader pre {
+    padding-left: 30px;
+    white-space: pre-line;
+  }
+  .prose-reader :is(pre, pre code) {
+    font-family: inherit;
   }
   .prose-reader strong {
     font-weight: 600;
@@ -348,6 +360,9 @@
       font-size: 1em;
       line-height: inherit;
       color: var(--read-ink);
+    }
+    .prose-reader pre {
+      padding-left: 18px;
     }
     .prose-reader blockquote {
       padding: 2px 0 2px 18px;
