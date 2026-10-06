@@ -4,13 +4,17 @@
 // page, as the publisher set it: no extraction of a PDF, no model. The PDF
 // stays the work's document (`pdf_url`, `local_pdf`).
 //
-// A page of cmpp.ch is a <header> (the title page), a <main> (the number and
-// the month of a circular letter) and an <article> (the text, then the links
-// to the PDF and the epub).
+// A page of cmpp.ch is a <header> (the title page), a <main> and an <article>
+// (the text, then the links to the PDF and the epub). <main> holds the number
+// and the month of a circular letter (« LETTRE CIRCULAIRE N° 56 », « JANVIER
+// 2005 »), which are its title page too, or the opening of the text: an
+// introduction, an epigraph, the addressees of an open letter.
 //
-// The article becomes the body: its paragraphs, bold, italics, headings,
-// line breaks and rules as the page has them; a verse set apart (p.vec, a
-// <blockquote>) is a quotation; a table is a line a row. The site's own
+// What <main> holds beyond that number and month, then the article, become
+// the body: paragraphs, bold, italics, headings (one of two lines is one
+// heading), line breaks and rules as the page has them; a verse set apart
+// (p.vec, a <blockquote>) is a quotation; a table is a table. The page's own
+// numbering (« 1) Actes 2.38 », « 39. ») is text, not a list. The site's own
 // furniture goes: the links to print or download, the arrows back to a table
 // of contents, the images. A capital the page sets apart for its size
 // (« <span>D</span>IEU DEVOILE ») is the first letter of its word. A link
@@ -24,7 +28,10 @@
 // would write « Église » where the page prints « EGLISE ». 87 can decide the
 // page's headings again; it asks a model.
 //
-// The header goes to the frontmatter and to the manifest, not into the body:
+// The title page goes to the frontmatter and to the manifest, not into the
+// body. `title_page` holds its lines as printed, all of them (a circular
+// letter's motto, a book's « Titre original de l’ouvrage »), so that no word
+// of the page is lost; and from those lines:
 //   - « (Unveiling of God) », a title in parentheses, capitalised and without
 //     an accent, is `original_title`;
 //   - « 14 juin 1964, matin » is `date` and `time_of_day` (« matin », or
@@ -60,16 +67,13 @@ const turndown = new TurndownService({ headingStyle: "atx", hr: "---", emDelimit
 // in the text, and a line that would start a list, a heading or a quotation.
 turndown.escape = (text) => text.replace(/([*_\\])/g, "\\$1").replace(/^([-+>#])(?=\s)/gm, "\\$1").replace(/^(\d+)\.(?=\s)/gm, "$1\\.");
 const cls = (node) => node.getAttribute?.("class") ?? "";
-const href = (node) => node.getAttribute("href") ?? "";
 const inline = (content) => content.replace(/\s*\n\s*/g, " ").trim();
-turndown.remove(["nav", "script", "style", "audio", "button"]);
+// (« summary » is the label that opens an audio's transcription, and the line under an <audio> its caption)
+turndown.remove(["nav", "script", "style", "audio", "button", "summary"]);
+turndown.addRule("caption", { filter: (node) => node.nodeName === "SPAN" && /<audio/.test(node.previousElementSibling?.nodeName === "BR" ? node.previousElementSibling.previousElementSibling?.innerHTML ?? "" : node.previousElementSibling?.innerHTML ?? ""), replacement: () => "" });
+// « LES SAINTES ECRITURES,<br>LA TRADITION ET LES INTERPRETATIONS » is one heading
+turndown.addRule("heading", { filter: ["h1", "h2", "h3", "h4", "h5", "h6"], replacement: (content, node) => (inline(content) ? `\n\n${"#".repeat(Number(node.nodeName[1]))} ${inline(content)}\n\n` : "") });
 turndown.addRule("image", { filter: "img", replacement: () => "" });
-// the links to print, to download, and back to the top or to a table of contents
-turndown.addRule("furniture", {
-  // (a « flex » block is the menu of downloads when it holds a <nav>; others hold a table of promises and fulfilments, or a photograph's caption)
-  filter: (node) => (node.nodeName === "DIV" && /\bflex\b/.test(cls(node)) && node.querySelector("nav")) || (node.nodeName === "A" && (/\.(pdf|epub)$/i.test(href(node)) || (href(node).startsWith("#") && /^(retour|haut)/i.test(`${node.getAttribute("title") ?? ""}${node.textContent.trim()}`)))),
-  replacement: () => "",
-});
 turndown.addRule("link", { filter: "a", replacement: (content) => content });
 // Bold and italics. Markdown reads « mot.**Suite » or « 11.25*: “En… » as asterisks, not as the end or the start of a
 // run: where a run touches a word on a side where it has punctuation, that punctuation is written outside the run.
@@ -97,14 +101,36 @@ turndown.addRule("italics", { filter: ["i", "em"], replacement: emphasis("*") })
 // the rules around the download links (« barre ») and under a title page are the layout's
 turndown.addRule("rule", { filter: (node) => node.nodeName === "HR" && (node.getAttribute("id") || /shadow|hrart/.test(cls(node))), replacement: () => "" });
 turndown.addRule("verse", { filter: (node) => node.nodeName === "P" && /\bvec/.test(cls(node)), replacement: (content) => `\n\n${content.trim().replace(/^/gm, "> ")}\n\n` });
-turndown.addRule("cell", { filter: ["td", "th"], replacement: (content) => `${inline(content)} | ` });
-turndown.addRule("row", { filter: "tr", replacement: (content) => `${content.trim().replace(/( \|)+$/, "")}\n` });
-turndown.addRule("table", { filter: ["table", "tbody", "thead"], replacement: (content) => `\n\n${content.trim()}\n\n` });
+// A table is a markdown table: its first row the heading row markdown asks for, every row as wide as the widest.
+turndown.addRule("cell", { filter: ["td", "th"], replacement: (content) => ` ${inline(content).replace(/\|/g, "\\|")} |` });
+turndown.addRule("row", { filter: "tr", replacement: (content) => `|${content}\n` });
+turndown.addRule("rows", { filter: ["tbody", "thead"], replacement: (content) => content });
+turndown.addRule("table", {
+  filter: "table",
+  replacement: (content) => {
+    const rows = content.trim().split("\n").filter(Boolean).map((row) => row.split(/(?<!\\)\|/).slice(1, -1));
+    const width = Math.max(...rows.map((cells) => cells.length));
+    const line = (cells) => `|${[...cells, ...Array(width - cells.length).fill(" ")].join("|")}|`;
+    return `\n\n${[line(rows[0]), line(Array(width).fill(" --- ")), ...rows.slice(1).map(line)].join("\n")}\n\n`;
+  },
+});
 turndown.addRule("term", { filter: "dt", replacement: (content) => `${inline(content)} ` });
 turndown.addRule("definition", { filter: "dd", replacement: (content) => `${inline(content)}\n` });
 
-function bodyOf(html) {
-  const article = html.match(/<article[^>]*>([\s\S]*)<\/article>/)[1]
+/** A page in its two parts: its title page (the <header>, and a circular letter's number and month in <main>), and its text (the rest of <main>, then the <article>). */
+function partsOf(html) {
+  let titled = "";
+  const main = (html.match(/<main[^>]*>([\s\S]*?)<\/main>/)?.[1] ?? "")
+    .replace(/<h1[^>]*>\s*LETTRE CIRCULAIRE[\s\S]*?<\/h1>\s*(?:<h2[^>]*>[\s\S]*?<\/h2>)?/, (found) => { titled = found; return ""; })
+    .replace(/<hr[^>]*>/g, ""); // the rules of <main> part the title page from the text
+  return { top: `${html.match(/<header[^>]*>([\s\S]*?)<\/header>/)?.[1] ?? ""}${titled}`, text: `${main}${html.match(/<article[^>]*>([\s\S]*)<\/article>/)[1]}` };
+}
+
+function bodyOf(text) {
+  const html = text
+    // A line break that opens or closes a run of emphasis is outside it: « <i> cela!)<br></i> ».
+    .replace(/(<br\s*\/?>\s*)<\/(i|b)>/g, "</$2>$1")
+    .replace(/<(i|b)>(\s*<br\s*\/?>)/g, "$2<$1>")
     // Runs of emphasis that touch are written so that markdown can say them: nothing changes for the reader.
     // « <b><i>A</i></b><i>”</i> » is « <i><b>A</b>”</i> », and the same before, and with bold outside;
     .replace(/<(b|i)><(i|b)>([^<]*)<\/\2><\/\1>(\s*)<\2>/g, "<$2><$1>$3</$1>$4")
@@ -112,15 +138,16 @@ function bodyOf(html) {
     // an empty run is none, and two runs of italics, or of bold, that touch are one (« *a**b* » would read as bold).
     .replace(/<(i|b)>(\s*)<\/\1>/g, "$2")
     .replace(/<\/(i|b)>(\s*)<\1>/g, "$2");
-  return `${turndown.turndown(article)
+  return `${turndown.turndown(html)
     .replace(/<\/?font[^>]*>/g, "") // a tag the page closes and never opened (serie4no3)
     .replace(/\u00a0+ | \u00a0+/g, " ") // « 20&nbsp; Au quatrième chapitre »: one space
     .replace(/[ \t\u00a0]+$/gm, (end) => (end === "  " ? end : "")) // a line's trailing spaces, but a line break's two
     .replace(/^[\u00a0 ]+(?=\S)/gm, "") // the spaces that indent a paragraph
     .replace(/ {2}\n(?=\n|$)/g, "\n") // a line break that ends a paragraph
+    .replace(/^((?:> ?)*)(\d+)([.)])(?=\s)/gm, "$1$2\\$3") // « 1) Actes 2.38 », « 39. Concernant… »: the page's numbering, not a list
     .replace(/\n{3,}/g, "\n\n")
     .trim()
-    .replace(/^(---\n+)+|(\n+---)+$/g, "")}\n`; // a rule that opens or closes the article is the layout's
+    .replace(/^(---\n+)+|(\n+---)+$/g, "")}\n`; // a rule that opens or closes the text is the layout's
 }
 
 // ─── The header ─────────────────────────────────────────────────────────────
@@ -128,18 +155,22 @@ const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet"
 const noAccent = (t) => t.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
 const monthOf = (name) => String(MONTHS.map(noAccent).indexOf(noAccent(name)) + 1).padStart(2, "0");
 const M = MONTHS.map(noAccent).join("|");
-const DAY = new RegExp(`^(\\d{1,2})\\s*(?:er|ᵉʳ)?\\s+(${M})\\s+(\\d{4})(?:,?\\s*((?:\\p{L}+ )?(?:matin|apres-midi|soir)))?$`, "u");
+// (the page types « 14 octobre1962, matin » three times)
+const DAY = new RegExp(`^(\\d{1,2})\\s*(?:er|ᵉʳ)?\\s+(${M})\\s*(\\d{4})(?:,?\\s*((?:\\p{L}+ )?(?:matin|apres-midi|soir)))?$`, "u");
 const MONTH = new RegExp(`^(${M})(?:\\s*[–—-]\\s*(?:${M}))?\\s+(\\d{4})$`);
 
-/** What the title page of a page prints: { original_title, date, time_of_day, location }, each only if it is there. */
-function headerOf(html) {
-  const top = `${html.match(/<header[^>]*>([\s\S]*?)<\/header>/)?.[1] ?? ""}${html.match(/<main[^>]*>([\s\S]*?)<\/main>/)?.[1] ?? ""}`;
-  // each block of the header, as its lines
-  const blocks = [...top.matchAll(/<(h[1-6]|p)\b[^>]*>([\s\S]*?)<\/\1>/g)].map(([, , inner]) => inner.split(/<br\s*\/?>/).map((l) => l.replace(/<[^>]+>/g, "").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim()).filter(Boolean));
-  const printed = {};
+const lineOf = (html) => html.replace(/<[^>]+>/g, "").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(n)).replace(/\s+/g, " ").trim();
+/** What a title page prints: { title_page, original_title, date, time_of_day, location }, each only if it is there. */
+function headerOf(top) {
+  // each block of the title page, as its lines
+  const blocks = [...top.matchAll(/<(h[1-6]|p)\b[^>]*>([\s\S]*?)<\/\1>/g)].map(([, , inner]) => inner.split(/<br\s*\/?>/).map(lineOf).filter(Boolean));
+  // every line it prints, a block or a line break a line
+  const all = top.replace(/<(script|style)[\s\S]*?<\/\1>/g, "").split(/<br\s*\/?>|<\/?(?:h[1-6]|p|div|li|tr|hr)\b[^>]*>/).map(lineOf).filter(Boolean);
+  const printed = all.length ? { title_page: all } : {};
   for (const lines of blocks) {
-    // « (Unveiling of God) », not « (Texte du film) » nor « (fin) »; the page forgets a parenthesis twice (« Questions And Answers On The Seal) »)
-    const english = lines.length === 1 && !/\b(du|des|de la|le|la|les|et)\b/i.test(lines[0]) && /^\(|\)$/.test(lines[0]) && lines[0].match(/^\(?([A-Z][A-Za-z0-9 ,.'’?!:-]*?)\)?$/);
+    // « (Unveiling of God) », « (discerning the Body of The Lord) »: in parentheses, without an accent, and no French
+    // (« (Texte du film) », « (fin) »); the page forgets a parenthesis twice (« Questions And Answers On The Seal) »)
+    const english = lines.map((l) => !/\b(du|des|de la|le|la|les|et|pas|en|sans|une?|pour|que|qui|dans)\b/i.test(l) && /^\(|\)$/.test(l) && l.match(/^\(?((?:[A-Z]|[a-z]+ )[A-Za-z0-9 ,.'’?!:-]*?)\)?$/)).find(Boolean);
     if (english) printed.original_title ??= english[1];
     const at = lines.findIndex((l) => DAY.test(noAccent(l)) || MONTH.test(noAccent(l)));
     if (at < 0 || printed.date) continue;
@@ -161,21 +192,22 @@ for (const entry of manifest) {
   const before = fs.readFileSync(file, "utf8");
   if (!entry.html_url) {
     // a work that lost its page (a duplicate since) says so no more; its body stays
-    const text = dropField(before, "html_url");
+    let text = before;
+    for (const key of ["html_url", "title_page", "original_title", "time_of_day"]) { text = dropField(text, key); delete entry[key]; }
     if (text !== before) fs.writeFileSync(file, text);
     continue;
   }
   works++;
-  const html = await page(new URL(entry.html_url).pathname.slice(1));
-  const body = bodyOf(html);
+  const { top, text: article } = partsOf(await page(new URL(entry.html_url).pathname.slice(1)));
+  const body = bodyOf(article);
   const start = before.indexOf("\n---\n", 4) + 5;
   let text = before.slice(0, start);
-  const printed = { ...headerOf(html), html_url: entry.html_url };
+  const printed = { ...headerOf(top), html_url: entry.html_url };
   // the two fields only a header gives go when the header no longer prints them
-  for (const key of ["original_title", "time_of_day"]) if (!(key in printed) && key in entry) { delete entry[key]; text = dropField(text, key); fields++; }
+  for (const key of ["title_page", "original_title", "time_of_day"]) if (!(key in printed) && key in entry) { delete entry[key]; text = dropField(text, key); fields++; }
   for (const [key, value] of Object.entries(printed)) {
     if (NOT_THE_HEADERS[entry.sermon_id]?.includes(key)) continue;
-    if (entry[key] !== value && key !== "html_url") fields++;
+    if (JSON.stringify(entry[key]) !== JSON.stringify(value) && key !== "html_url") fields++;
     entry[key] = value;
     text = setField(text, key, value);
   }

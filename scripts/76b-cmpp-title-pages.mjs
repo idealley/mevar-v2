@@ -147,10 +147,10 @@ let dates = 0, places = 0;
 for (const entry of manifest) {
   const file = path.join(root, entry.local_md);
   const before = fs.readFileSync(file, "utf8");
-  const pdf = extraction(entry.sermon_id);
   let text = before;
   // A work whose text is its page of cmpp.ch (goal 31) has that page's header for its date and place (43): the page is the better witness.
   if (entry.html_url) continue;
+  const pdf = extraction(entry.sermon_id);
   if (entry.date && !CORRECTIONS[entry.sermon_id]?.date && !field(frontmatter(before), "duplicate_of")) {
     const printed = printedDate(entry.sermon_id, entry.date, pdf);
     if (printed !== entry.date) {

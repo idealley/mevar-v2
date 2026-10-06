@@ -39,6 +39,14 @@ const NOT_ITS_PAGE = {
   q_r_fevrier_2008_5: "questions_et_reponses_bibliques.htm",
   // The page of this name is headed « Janvier 2007 » and is that month's summary; the PDF is January 2008's.
   video_01_2008: "video_01_2008.htm",
+  // Headed « Décembre 2006 », with December 2007's text under it: 3 % of the page's 4-word sequences are in its own PDF, 98 % in video_12_2007.pdf.
+  video_12_2006: "video_12_2006.htm",
+  // Three summaries whose page ends on a paragraph of another month, which their PDF does not have: the page is no
+  // faithful witness of that month. 373 words that are video_04_2011.pdf's (81 % of their 4-word sequences; 2 % in
+  // its own PDF); 271 that are video_06_2009.pdf's (85 %; 3 %); 235 that are video_11_2014.pdf's (100 %; 3 %).
+  video_06_2011: "video_06_2011.htm",
+  video_06_2010: "video_06_2010.htm",
+  video_10_2014: "video_10_2014.htm",
 };
 
 /** A page of cmpp.ch by its path ("lc56.htm"), from the cache or fetched into it; null when the site has none. */
