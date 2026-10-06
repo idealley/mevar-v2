@@ -29,7 +29,8 @@
 // markdown/cmpp/<year>/: a work's URL is its path. Every other CMPP work
 // under undated/ whose title page prints the year its frontmatter gives moves
 // too. The paths in manifests/cmpp.json and in the two hand-kept files that
-// name works by path follow (a later answer of Samuel's moves a work again).
+// name works by path follow, and so does the `duplicate_of` of a work that
+// names a moved one (a later answer of Samuel's moves a work again).
 // Idempotent. Run 65, 47, 50 and 160 after it.
 //
 // Not followed: `local_pdf`. A moved work keeps the address its PDF has on
@@ -196,7 +197,6 @@ for (const f of ["manifests/cmpp.json", "scripts/76-add-missing-frontmatter.mjs"
   if (out !== text) fs.writeFileSync(path.join(root, f), out);
 }
 
-// ─── Write the frontmatter on both sides ────────────────────────────────────
 // The link where it stands, or no line at all when there is none.
 function write(file, key, value) {
   const text = fs.readFileSync(file, "utf8");
@@ -205,6 +205,14 @@ function write(file, key, value) {
   return out !== text;
 }
 
+// A work that names a moved one as the text it duplicates follows it too:
+// the site answers its address with a 301 to that path.
+for (const w of works) {
+  const target = moved(w.fields.duplicate_of);
+  if (target !== w.fields.duplicate_of) write(path.join(md, `${moved(w.ref)}.md`), "duplicate_of", target);
+}
+
+// ─── Write the frontmatter on both sides ────────────────────────────────────
 const translationOf = new Map([...links].map(([ref, sermon]) => [sermon.ref, moved(ref)]));
 let touched = 0;
 for (const w of works) if (write(path.join(md, `${moved(w.ref)}.md`), "original", links.get(w.ref)?.ref)) touched++;
