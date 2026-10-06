@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "exhortation_annee_2026_A4_gc"
 title: "Exhortation Année 2026"
 year: 2026
-preacher: "Ewald Frank"
 summary: "L'exhortation pour l'année 2026 rappelle la souveraineté de Dieu et l'accomplissement des prophéties. Elle encourage les croyants à s'examiner dans le miroir de la Parole, à marcher selon l'Esprit, et à persévérer dans la foi en attendant le retour de Christ, en s'inspirant de la patience de Job et de la différence entre les vierges sages et folles."
 tags:
   - "exhortation"

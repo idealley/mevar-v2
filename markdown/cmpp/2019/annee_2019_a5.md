@@ -4,7 +4,6 @@ sermon_id: "annee_2019_a5"
 title: "Exhortation Année 2019"
 subtitle: "Janvier 2019"
 year: 2019
-preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour la nouvelle année 2019, appelant les croyants à demeurer sur le chemin étroit de la vie éternelle, à se préparer pour l'enlèvement de l'Épouse de Christ et à discerner le bien du mal à la lumière de la Parole de Dieu. Elle met en garde contre les faux apôtres, les scandales et les œuvres de la chair qui excluent du Royaume de Dieu, et encourage à porter les fruits de l'Esprit."
 tags:
   - "exhortation"

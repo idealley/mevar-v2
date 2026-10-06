@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Novembre 1975"
 date: "1975-11"
 year: 1975
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de novembre 1975 d'Ewald Frank exhortant les croyants à marcher dans la lumière de la Parole révélée pour le temps de la fin. Il partage des témoignages de l'action du Saint-Esprit dans l'assemblée de Krefeld et rapporte une tournée missionnaire en Afrique francophone, notamment au Zaïre."
 tags:

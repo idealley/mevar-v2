@@ -4,7 +4,6 @@ sermon_id: "exhortation_annee_2023_A5_gc"
 title: "Exhortation"
 subtitle: "Année 2023"
 year: 2023
-preacher: "Ewald Frank"
 summary: "Lettre circulaire pour la nouvelle année 2023, exhortant les croyants à persévérer dans la préparation de l'Épouse de Jésus-Christ, à se séparer de la pensée du monde et à vivre selon la Parole de Dieu, en vue de l'enlèvement et de l'héritage céleste."
 tags:
   - "espérance vivante"

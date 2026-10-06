@@ -5,7 +5,6 @@ title: "Lettre circulaire — Octobre 1974"
 subtitle: "Octobre 1974"
 date: "1974-10"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank explique son double mandat divin : prêcher et distribuer la nourriture spirituelle emmagasinée par William Branham. Il répond aux critiques sur son ministère, rappelle l'appel reçu le 2 avril 1962, et met en garde contre les faux frères qui sèment la confusion. Il annonce ses voyages missionnaires et appelle à l'unité."
 tags:

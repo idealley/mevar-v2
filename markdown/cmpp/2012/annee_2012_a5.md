@@ -4,7 +4,6 @@ sermon_id: "annee_2012_a5"
 title: "Exhortation 2012"
 subtitle: "Année 2012"
 year: 2012
-preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour l'année 2012, appelant les croyants à la persévérance dans la foi face à l'accroissement de l'iniquité et au refroidissement de la charité, en attendant le retour du Seigneur. Elle encourage à vivre selon la Parole de Dieu et à porter des fruits de justice."
 tags:
   - "persévérance"

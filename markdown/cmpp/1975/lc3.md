@@ -5,7 +5,6 @@ title: "Lettre circulaire 3"
 subtitle: "Août 1975"
 date: "1975-08"
 year: 1975
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank exhorte à l'achèvement de l'œuvre de Dieu et met en garde contre ceux qui s'assoient dans la chaire des prophètes sans en avoir la vocation. Il aborde la traduction des prédications de William Branham et la collaboration dans l'Église."
 tags:

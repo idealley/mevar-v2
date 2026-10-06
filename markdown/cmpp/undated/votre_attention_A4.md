@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "votre_attention_A4"
 title: "VOTRE ATTENTION S.V.P.!"
-location: "Lausanne"
 preacher: "Alexis Barilier"
 summary: "Alexis Barilier met en garde les croyants contre l'esprit de Coré, Dathan et Abiram qui pousse à rejeter les véritables serviteurs de Dieu suscités pour le temps de la fin. Il souligne l'importance de reconnaître les ministères authentiques, notamment celui d'Ewald Frank, pour entrer dans le repos promis et être préparé pour la rencontre avec l'Epoux."
 tags:

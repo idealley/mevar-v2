@@ -4,7 +4,6 @@ sermon_id: "annee_2010_a5"
 title: "Exhortation Année 2010"
 subtitle: "Janvier 2010"
 year: 2010
-preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour l'année 2010, appelant les croyants à rechercher et accomplir la volonté de Dieu dans leur vie et dans le Corps de Christ, à l'exemple de Jésus-Christ et du ministère de frère Branham. Elle souligne l'importance de se laisser conduire par l'Esprit et de s'examiner à la lumière de la Parole."
 tags:
   - "volonté de Dieu"

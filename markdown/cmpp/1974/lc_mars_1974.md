@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Mars 1974"
 date: "1974-03"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank expose le fondement biblique de l'Église, rappelle le ministère de William Branham et la fondation de l'assemblée de Krefeld, et met en garde contre l'idolâtrie moderne qui consiste à faire de la révélation reçue une image taillée."
 tags:

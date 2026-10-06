@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "le_jeune"
 title: "Le Jeûne"
-location: "Lausanne"
 preacher: "Ewald Frank"
 summary: "Cette étude biblique examine le jeûne chrétien : ses formes (partiel, abstinence, complet), ses motivations (individuel, ministériel, collectif) et son but spirituel (humiliation, repentance, recherche de la volonté de Dieu). Elle s'appuie sur de nombreux passages de l'Ancien et du Nouveau Testament, et souligne l'importance du jeûne pour la préparation de l'Épouse de Christ avant son retour."
 tags:

@@ -5,7 +5,6 @@ title: "Lettre Circulaire"
 subtitle: "Janvier 1973"
 date: "1973-01"
 year: 1973
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank commente l'état de l'Église contemporaine, appelant à sortir de Babylone et à revenir à la pure Parole de Dieu. Il évoque une prophétie de 1968 sur l'aveuglement des églises, la légende de Pierre à Rome, et une prophétie de Charles Price sur l'ouverture des Sceaux. Il remercie les soutiens et annonce des portes ouvertes en Afrique."
 tags:

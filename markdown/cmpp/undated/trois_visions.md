@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "trois_visions"
 title: "Les trois grandes visions du Message du temps de la fin"
-location: "Krefeld"
 preacher: "Parfait M'bra"
 summary: "Introduction et présentation des trois grandes visions du message du temps de la fin : le ministère d'Elie (William Branham) pour la restauration de la Parole, le ministère du serviteur fidèle et prudent (Ewald Frank) pour la distribution de la nourriture, et la voix de minuit pour le réveil. L'auteur souligne l'importance de suivre le plan de Dieu à travers ces ministères successifs."
 tags:

@@ -4,7 +4,6 @@ sermon_id: "annee_2018_a5"
 title: "Exhortation 2018"
 subtitle: "Année 2018"
 year: 2018
-preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour la nouvelle année 2018, centrée sur l'invitation de Jésus à venir à Lui pour trouver le repos, et sur les vertus de douceur et d'humilité que les croyants doivent manifester. Elle met en garde contre la dureté et encourage à marcher d'une manière digne de l'Évangile en vue du retour prochain de Christ."
 tags:
   - "douceur"

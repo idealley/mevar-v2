@@ -5,7 +5,6 @@ title: "Lettre circulaire 5"
 subtitle: "Février 1976"
 date: "1976-02"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank encourage les lecteurs à reconnaître l'œuvre de Dieu dans le temps présent, en s'appuyant sur les prophéties d'Habacuc et d'Aggée. Il souligne l'importance du message de William Branham pour l'Église de la fin des temps, et appelle à l'unité et à la persévérance dans la foi, tout en évitant de fixer des dates pour le retour du Christ."
 tags:

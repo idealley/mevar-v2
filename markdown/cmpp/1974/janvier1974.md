@@ -5,7 +5,6 @@ title: "Lettre circulaire — Janvier 1974"
 subtitle: "Janvier 1974"
 date: "1974-01"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire de janvier 1974 exhortant à la vigilance et à la prière face aux signes des temps. L'auteur commente les événements en Israël, les 70 semaines de Daniel, et cite des extraits de William Branham sur la prophétie. Il met en garde contre la fixation de dates et encourage à se préparer pour le retour de Christ."
 tags:

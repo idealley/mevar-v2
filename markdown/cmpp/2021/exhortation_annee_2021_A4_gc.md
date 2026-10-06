@@ -4,7 +4,6 @@ sermon_id: "exhortation_annee_2021_A4_gc"
 title: "Exhortation Année 2021"
 subtitle: "Année 2021"
 year: 2021
-preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour l'année 2021, appelant les croyants à être de véritables témoins de Jésus-Christ dans un monde marqué par la pandémie et les persécutions. Elle met en garde contre les faux témoignages et encourage à manifester les fruits de l'Esprit et l'amour fraternel."
 tags:
   - "témoignage"

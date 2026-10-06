@@ -4,7 +4,6 @@ sermon_id: "annee_2016"
 title: "Exhortation Année 2016"
 subtitle: "Année 2016"
 year: 2016
-preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour la nouvelle année 2016, appelant les croyants à demeurer fermes dans la liberté que Christ a acquise, à ne pas se remettre sous le joug de la servitude, et à éviter les faux enseignements et les jougs étrangers comme l'attachement à des hommes ou à des lieux."
 tags:
   - "liberté"

@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "ministeres_pasteur_A4_gc"
 title: "Ministères — Ministère de pasteur"
-preacher: "Ewald Frank"
 summary: "Cette étude biblique examine le ministère de pasteur dans le contexte des ministères donnés par Christ à l'Église, en soulignant l'importance de l'appel divin authentique, les dangers des faux ministères et la nécessité de faire la volonté de Dieu. Elle s'appuie sur les Écritures et les enseignements de William Branham et Ewald Frank pour exhorter à un service humble et conforme à la Parole."
 tags:
   - "ministère"

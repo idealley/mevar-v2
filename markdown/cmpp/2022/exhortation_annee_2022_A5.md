@@ -4,7 +4,6 @@ sermon_id: "exhortation_annee_2022_A5"
 title: "Exhortation"
 subtitle: "Année 2022"
 year: 2022
-preacher: "Ewald Frank"
 summary: "Cette lettre circulaire pour l'année 2022 exhorte les croyants à marcher dans l'amour et l'obéissance à Dieu, en s'appuyant sur la promesse qu'Il est avec nous. Elle rappelle l'importance de l'amour fraternel comme témoignage au monde et met en garde contre la recherche de dons spirituels sans la révélation de la Parole."
 tags:
   - "amour fraternel"

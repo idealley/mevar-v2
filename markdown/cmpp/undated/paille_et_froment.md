@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "paille_et_froment"
 title: "La Paille et le Froment"
-location: "Lausanne"
 preacher: "Alexis Barilier"
 summary: "Cet article explique pourquoi le Centre Missionnaire de la Parole Parlée publie non seulement les écrits de William Branham, mais aussi les lettres circulaires d'Ewald Frank et les éditoriaux d'Alexis Barilier. Il souligne l'importance de revenir à la Parole de Dieu comme absolu, plutôt que de faire du Message ou du prophète un absolu, et met en garde contre l'idolâtrie. L'auteur retrace l'histoire de la diffusion du Message depuis 1966 et insiste sur la nécessité de faire partie de l'Épouse en gardant la Parole comme fondement."
 tags:

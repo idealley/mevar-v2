@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Août 1975"
 date: "1975-08"
 year: 1975
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'août 1975 d'Ewald Frank exhortant les croyants à s'appuyer sur Dieu et à ne pas se reposer uniquement sur des hommes, même des prophètes comme Branham. Il met en garde contre le fait de s'asseoir dans la chaire de Moïse, de Pierre, de Paul ou de Branham sans avoir reçu soi-même la révélation et la vocation divine. Il souligne l'importance de l'achèvement de l'œuvre de Dieu et de la collaboration dans le Corps de Christ."
 tags:

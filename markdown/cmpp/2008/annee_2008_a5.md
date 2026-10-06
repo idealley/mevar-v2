@@ -5,7 +5,6 @@ title: "Exhortation Année 2008"
 subtitle: "Année 2008"
 year: 2008
 location: "Lausanne"
-preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour l'année 2008 appelant les croyants à servir le Seigneur de tout leur cœur, en restant vigilants et en n'adorant que Dieu seul, à l'exemple de l'apôtre Jean dans Apocalypse 22.8,9."
 tags:
   - "service"

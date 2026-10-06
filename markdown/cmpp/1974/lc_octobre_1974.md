@@ -5,7 +5,6 @@ title: "Lettre Circulaire"
 subtitle: "Octobre 1974"
 date: "1974-10"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank explique son double appel divin (prêcher et distribuer la nourriture spirituelle) et défend son ministère de publication des prédications de William Branham. Il met en garde contre les faux docteurs et appelle à l'unité. Un éditorial d'André Barilier compare le ministère de Frank au second couteau d'une moissonneuse-batteuse."
 tags:

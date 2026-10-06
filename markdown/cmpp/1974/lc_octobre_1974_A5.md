@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Octobre 1974"
 date: "1974-10"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'octobre 1974 dans laquelle Ewald Frank partage sa charge divine de publier la Parole de Dieu et de distribuer la nourriture spirituelle, en s'appuyant sur l'appel qu'il a reçu et sur le ministère de frère Branham. Il met en garde contre les faux serviteurs et les dérives doctrinales, et appelle à l'unité et à la tempérance."
 tags:

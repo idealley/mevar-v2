@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Mai 1976"
 date: "1976-05"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'Ewald Frank de mai 1976, saluant les frères et sœurs et amis unis dans l'amour de Dieu. Il souligne l'action puissante de Dieu dans l'assemblée des saints, l'importance de la Parole de Dieu et des dons du Saint-Esprit, et évoque le ministère de frère Branham comme prophète des derniers temps. Il aborde aussi la partie prophétique de l'Apocalypse et la nécessité de revenir aux vérités bibliques."
 tags:

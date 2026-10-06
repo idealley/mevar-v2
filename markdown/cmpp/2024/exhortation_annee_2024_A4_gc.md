@@ -4,7 +4,6 @@ sermon_id: "exhortation_annee_2024_A4_gc"
 title: "Exhortation Année 2024"
 subtitle: "Année 2024"
 year: 2024
-preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour l'année 2024, appelant les croyants à l'unité et à l'amour pour Christ face aux événements eschatologiques et aux conflits actuels, notamment en Israël. Elle encourage à la persévérance et à la préparation de l'Épouse de Christ."
 tags:
   - "exhortation"

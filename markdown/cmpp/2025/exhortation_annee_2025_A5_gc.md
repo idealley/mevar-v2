@@ -4,8 +4,6 @@ sermon_id: "exhortation_annee_2025_A5_gc"
 title: "Exhortation"
 subtitle: "Année 2025"
 year: 2025
-location: "Lausanne"
-preacher: "Ewald Frank"
 summary: "Lettre circulaire pour l'année 2025, exhortant les croyants à persévérer dans la foi malgré les conflits mondiaux et le départ du serviteur Ewald Frank, en se concentrant sur la Parole et l'amour de Christ."
 tags:
   - "exhortation"

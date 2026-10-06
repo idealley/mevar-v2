@@ -4,7 +4,6 @@ sermon_id: "annee_2014"
 title: "Exhortation Année 2014"
 subtitle: "Année 2014"
 year: 2014
-preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour la nouvelle année 2014, mettant en garde contre l'orgueil et appelant à l'humilité, en s'appuyant sur des passages bibliques. Elle mentionne le décès du serviteur Alexis Barilier comme exemple d'humilité."
 tags:
   - "humilité"

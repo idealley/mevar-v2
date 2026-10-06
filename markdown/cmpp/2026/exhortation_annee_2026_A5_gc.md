@@ -5,7 +5,6 @@ title: "Souvenez-vous de ce qui s'est passé dès les temps anciens"
 subtitle: "Année 2026"
 year: 2026
 location: "Lausanne"
-preacher: "Ewald Frank"
 summary: "Lettre circulaire pour l'année 2026, exhortant les croyants à se souvenir des promesses de Dieu et à s'examiner dans le miroir de la Parole, en vue du retour du Seigneur et de la préparation de l'Épouse."
 tags:
   - "retour du Seigneur"

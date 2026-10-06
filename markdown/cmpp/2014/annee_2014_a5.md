@@ -4,7 +4,6 @@ sermon_id: "annee_2014_a5"
 title: "Exhortation Année 2014"
 subtitle: "Année 2014"
 year: 2014
-preacher: "Ewald Frank"
 summary: "Cette lettre circulaire exhorte les croyants à revêtir l'humilité pour l'année 2014, en mettant en garde contre l'orgueil qui caractérise les derniers temps. Elle cite de nombreux passages bibliques pour illustrer les conséquences de l'orgueil et l'importance de l'humilité, et rend hommage au serviteur Alexis Barilier."
 tags:
   - "humilité"

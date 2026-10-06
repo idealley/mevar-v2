@@ -5,7 +5,6 @@ title: "Lettre Circulaire 6"
 subtitle: "Mai 1976"
 date: "1976-05"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank exhorte les croyants à expérimenter la puissance de Dieu dans l'assemblée, à revenir à la pure doctrine biblique et à reconnaître le ministère prophétique de William Branham pour les derniers temps. Il met en garde contre les fausses doctrines et les critiques mensongères, et encourage à la fidélité à la Parole de Dieu."
 tags:

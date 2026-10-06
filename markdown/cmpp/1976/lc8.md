@@ -5,7 +5,6 @@ title: "Lettre Circulaire 8"
 subtitle: "Septembre 1976"
 date: "1976-09"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de septembre 1976 exhorte les croyants à se préparer pour le retour du Seigneur, en insistant sur la sanctification, la purification de toute souillure de la chair et de l'esprit, et la réconciliation avec Dieu par Christ. L'auteur rappelle l'importance de la sobriété dans l'attente du Seigneur et partage des expériences de révélation divine au sein de l'Église de Krefeld."
 tags:

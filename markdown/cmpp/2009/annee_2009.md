@@ -4,7 +4,6 @@ sermon_id: "annee_2009"
 title: "Exhortation Année 2009"
 subtitle: "Année 2009"
 year: 2009
-preacher: "Ewald Frank"
 summary: "Exhortation pour la nouvelle année 2009, encourageant les croyants à ne pas regarder en arrière mais à persévérer dans la foi, en s'appuyant sur des exemples bibliques comme Israël sortant d'Égypte et la femme de Lot. L'auteur souligne l'importance de fixer les yeux sur Jésus-Christ et de courir vers le but de la vocation céleste."
 tags:
   - "persévérance"

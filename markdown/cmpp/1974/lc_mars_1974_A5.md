@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Mars 1974"
 date: "1974-03"
 year: 1974
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'Ewald Frank de mars 1974 qui rappelle que Jésus-Christ est le même hier, aujourd'hui et éternellement, et que toute doctrine doit être fondée sur la Parole de Dieu. Frank raconte la fondation de l'Église à Krefeld, son appel personnel en 1962, sa rencontre avec William Branham, et le développement de l'œuvre missionnaire, y compris les émissions radiophoniques et la distribution de nourriture spirituelle."
 tags:

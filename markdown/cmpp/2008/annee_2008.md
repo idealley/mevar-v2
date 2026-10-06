@@ -4,7 +4,6 @@ sermon_id: "annee_2008"
 title: "Exhortation 2008"
 subtitle: "Année 2008"
 year: 2008
-preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour l'année 2008 appelant les croyants à servir le Seigneur de tout leur cœur, à rester vigilants et à n'adorer que Dieu seul, en s'appuyant sur Colossiens 3.23-24 et Apocalypse 22.8-9."
 tags:
   - "service"

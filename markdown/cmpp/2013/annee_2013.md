@@ -4,7 +4,6 @@ sermon_id: "annee_2013"
 title: "Exhortation Année 2013"
 subtitle: "Année 2013"
 year: 2013
-preacher: "Ewald Frank"
 summary: "Lettre d'exhortation pour la nouvelle année 2013, appelant les croyants à un amour fraternel sincère, à éviter les jugements et les critiques, et à se consacrer entièrement au Seigneur Jésus dans la sincérité et la vérité."
 tags:
   - "amour fraternel"

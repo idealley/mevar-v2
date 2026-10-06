@@ -5,7 +5,6 @@ title: "Exhortation 2007"
 subtitle: "Année 2007"
 year: 2007
 location: "Lausanne"
-preacher: "Ewald Frank"
 summary: "Lettre d'exhortation de l'année 2007 annonçant la mise à disposition de deux brochures de frère Branham sur le site internet. L'auteur met en garde contre l'esprit religieux qui s'infiltre parmi le peuple de Dieu et appelle les croyants à se tenir uniquement à la Parole de Dieu plutôt qu'aux paroles d'un serviteur."
 tags:
   - "esprit religieux"

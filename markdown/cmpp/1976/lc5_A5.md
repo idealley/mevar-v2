@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Février 1976"
 date: "1976-02"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'Ewald Frank de février 1976, adressée aux lecteurs des prédications, soulignant l'accomplissement des prophéties bibliques à notre époque. Il évoque le ministère de frère Branham comme messager de l'âge de l'Église, l'importance de reconnaître l'œuvre de Dieu aujourd'hui, et la nécessité de persévérer dans la foi jusqu'au retour de Christ. Il aborde aussi les événements actuels et met en garde contre les fausses dates et les traductions bibliques modernes qui affaiblissent la foi."
 tags:

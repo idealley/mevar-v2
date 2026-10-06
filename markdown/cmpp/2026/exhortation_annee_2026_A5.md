@@ -4,7 +4,6 @@ sermon_id: "exhortation_annee_2026_A5"
 title: "Souvenez-vous de ce qui s'est passé dès les temps anciens"
 subtitle: "Année 2026"
 year: 2026
-preacher: "Ewald Frank"
 summary: "Cette lettre circulaire exhorte les croyants à persévérer dans la foi en regardant à l'exemple de Job, à s'examiner dans le miroir de la Parole et à accepter tous les ministères établis par l'Esprit pour l'âge de Laodicée, en vue du retour de Christ et de la formation de l'Épouse."
 tags:
   - "patience"

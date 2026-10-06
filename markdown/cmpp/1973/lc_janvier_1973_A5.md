@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Janvier 1973"
 date: "1973-01"
 year: 1973
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'Ewald Frank de janvier 1973 appelant les croyants à sortir des églises humaines devenues aveugles et à revenir à la pure Parole de Dieu. Il dénonce la dérive vers Rome, réfute la légende de Pierre comme premier pape, et cite une prophétie de Charles Price de 1916 qui s'est accomplie dans le ministère de William Branham par l'ouverture des sept Sceaux."
 tags:

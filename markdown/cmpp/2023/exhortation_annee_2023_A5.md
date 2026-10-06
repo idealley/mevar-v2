@@ -5,7 +5,6 @@ title: "Exhortation Année 2023"
 subtitle: "Année 2023"
 year: 2023
 location: "Lausanne"
-preacher: "Ewald Frank"
 summary: "Lettre circulaire d'exhortation pour la nouvelle année 2023, adressée aux croyants, les encourageant à persévérer dans la préparation de l'Épouse de Jésus-Christ. Elle souligne l'espérance vivante, l'héritage céleste et la nécessité de la régénération, tout en évoquant les événements mondiaux comme signes des derniers temps."
 tags:
   - "espérance vivante"

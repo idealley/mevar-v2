@@ -5,7 +5,6 @@ title: "Lettre circulaire 4"
 subtitle: "Novembre 1975"
 date: "1975-11"
 year: 1975
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Cette lettre circulaire de novembre 1975 exhorte les croyants à marcher dans la lumière de la Parole révélée, en s'appuyant sur la promesse de Zacharie 14.7 qu'au temps du soir la lumière paraîtra. Ewald Frank relate des expériences de l'action du Saint-Esprit dans l'assemblée de Krefeld, notamment des prophéties et des consécrations, et insiste sur la nécessité du baptême du Saint-Esprit. Il partage également un rapport de voyage en Afrique francophone, où le message de William Branham se répand, et réfute les accusations de mauvaise traduction des prédications de Branham."
 tags:

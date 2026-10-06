@@ -3,7 +3,6 @@ source: "cmpp"
 sermon_id: "annee_2020"
 title: "EXHORTATION ANNEE 2020"
 year: 2020
-preacher: "Ewald Frank"
 summary: "Cette lettre circulaire pour l'année 2020 exhorte les croyants à persévérer sur le chemin étroit, à discerner les véritables ministères suscités par Dieu, à éviter à la fois la révolte contre l'autorité et l'idolâtrie des serviteurs, et à manifester l'unité du Corps de Christ dans l'amour fraternel."
 tags:
   - "exhortation"

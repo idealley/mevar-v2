@@ -2,7 +2,6 @@
 source: "cmpp"
 sermon_id: "william"
 title: "William Branham — Un Prophète Envoyé par Dieu"
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Ewald Frank témoigne de sa connaissance personnelle de William Branham et présente son ministère prophétique, confirmé par des signes surnaturels et des guérisons, en s'appuyant sur les Écritures pour établir sa légitimité."
 tags:

@@ -5,7 +5,6 @@ title: "Lettre circulaire"
 subtitle: "Septembre 1976"
 date: "1976-09"
 year: 1976
-location: "Krefeld"
 preacher: "Ewald Frank"
 summary: "Lettre circulaire d'Ewald Frank de septembre 1976 exhortant les croyants à la sanctification et à la purification en vue du retour du Seigneur. Il souligne l'importance de la réconciliation avec Dieu et de la charge confiée à l'Église de proclamer la Parole de la Croix."
 tags:
