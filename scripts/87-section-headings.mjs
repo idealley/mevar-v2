@@ -44,6 +44,8 @@ const letters = (t) => key(plain(t)).replace(/œ/g, "oe").replace(/æ/g, "ae").m
 const sameWords = (a, b) => letters(a).join(" ") === letters(b).join(" ");
 const alnum = (c) => /[\p{L}\p{N}]/u.test(c);
 const isHeading = (p) => /^#{1,4} /.test(p);
+// a line already a heading, answered at its own level: a page's « # » or « #### » stays what the page made it
+const sameLevel = (line, proposed) => isHeading(line) && line.match(/^#+/)[0] === proposed.match(/^#*/)[0];
 
 /**
  * The heading, rebuilt on the line's own characters: its punctuation, spaces
@@ -124,7 +126,7 @@ export function applyHeadings(body, decisions = []) {
       continue;
     }
     let found = false;
-    for (let i = 0; i < paras.length; i += 2) if (paras[i].trim() === line) { paras[i] = heading; found = true; }
+    for (let i = 0; i < paras.length; i += 2) if (paras[i].trim() === line) { paras[i] = paras[i].replace(line, () => heading); found = true; } // (the last paragraph keeps the text's final line end)
     if (!found && !paras.some((p) => p.trim() === heading)) refused.push(`the line « ${line} » does not stand alone in the text`);
   }
   return { body: paras.join(""), refused };
@@ -195,13 +197,17 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     }
   // a decision is kept under the path 86 and 87 read, once per line
   if (!batchId && !pages) for (const md of Object.keys(all)) if (!works.some(([w]) => w === md)) delete all[md];
-  // a page's work keeps the decisions for the lines it has, as the page prints them or already recased
+  // a page's work keeps the decisions for the headings it has, as the page prints them or already recased
+  // (not one that made a heading of a line of the PDF's body: here no line becomes a heading)
   if (pages) for (const [md, body] of works) if (all[md]) {
     const paras = new Set(body.split(/\n{2,}/).map((p) => p.trim()));
-    all[md] = all[md].filter((d) => paras.has(d.line) || paras.has(d.heading));
+    all[md] = all[md].filter((d) => isHeading(d.line) && (paras.has(d.line) || paras.has(d.heading)));
     if (!all[md].length) delete all[md];
   }
   for (const md of Object.keys(all)) all[md] = all[md].filter((d, i, a) => a.findIndex((e) => e.line === d.line) === i);
+
+  // an answer refused only for its level, which was the line's own, is taken (no call)
+  for (const d of Object.values(all).flat()) if (!d.heading && d.refused && sameLevel(d.line, d.refused) && headingOf(d.line, d.refused)) { d.heading = headingOf(d.line, d.refused); delete d.refused; }
 
   const pending = works.map(([md, body, title, subtitle, , capsOnly]) => {
     const done = new Set((all[md] ?? []).map((d) => d.line));
@@ -227,7 +233,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     // a heading that is not its line, case and accents aside, stays a line
     all[md] = [...(all[md] ?? []), ...decisions.map((d) => {
       // the model gives ## or ### only; #### is an editor's decision (goal 18)
-      const heading = d.heading && /^#{2,3} /.test(d.heading) && headingOf(d.line, d.heading);
+      const heading = d.heading && (/^#{2,3} /.test(d.heading) || sameLevel(d.line, d.heading)) && headingOf(d.line, d.heading);
       if (d.heading && !heading) console.log(`  kept, the model changed a word: ${md}: « ${d.line} » → « ${d.heading} »`);
       return d.heading && !heading ? { line: d.line, heading: null, refused: d.heading } : { line: d.line, heading };
     })];
