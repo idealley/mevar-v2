@@ -1,5 +1,7 @@
 # GOAL 30: MEVAR's eagle is back beside its name
 
+**Status:** merged as PR #44 (2026-10-05)
+
 ## Problem
 
 Goal 27 drew the header and the footer as `docs/website.pen` does: an

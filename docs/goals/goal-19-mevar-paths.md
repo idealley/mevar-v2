@@ -1,6 +1,6 @@
 # GOAL 19: The Mevar texts under mevar/, named by their title and year
 
-**Status:** PR open
+**Status:** merged as PR #26 (2026-09-29)
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, `index.json`,
 `markdown/onedrive/` and `markdown/mevar-pdfs/` moving to `markdown/mevar/`,
 `web/src/`, `web/scripts/`, `docs/`)

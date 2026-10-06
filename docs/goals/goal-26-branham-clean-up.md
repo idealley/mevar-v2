@@ -1,5 +1,7 @@
 # GOAL 26: Branham's recordings on our domain, his texts without page headers
 
+**Status:** merged as PR #40 (2026-10-05)
+
 ## Problem
 
 After goal 25, three things were left on Branham's side:

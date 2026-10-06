@@ -1,6 +1,6 @@
 # GOAL 06: The newsletter moves from Ghost to Resend
 
-**Status:** needs one decision from Samuel (see "Decision before dispatch")
+**Status:** merged as PR #9 (2026-09-24); the cutover order below is Samuel's and under way (2026-10-06)
 **Repo:** `mevar-v2` (`web/functions/`, `email/`, `scripts/`)
 **Rules:** [README.md](README.md)
 **Reference:** `~/projects/firstprinciple`: `packages/ui/server/resend.ts`

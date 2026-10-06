@@ -1,5 +1,7 @@
 # GOAL 29: the site counts its visits where mevar.org always has
 
+**Status:** merged as PR #43 (2026-10-05)
+
 ## Problem
 
 mevar.org on Ghost counts its visits in Google Analytics (property

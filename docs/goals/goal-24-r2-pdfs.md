@@ -1,5 +1,7 @@
 # GOAL 24: The Branham, Le Scribe and CMPP PDFs served from our domain
 
+**Status:** merged as PR #38 (2026-10-04)
+
 ## Problem
 
 Every Branham (1,206), Le Scribe (910) and CMPP (242) page offers its

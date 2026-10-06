@@ -1,6 +1,6 @@
 # GOAL 10: The OneDrive and PDF texts get goal 04's pass, batch by batch
 
-**Status:** ready after goal 09 (only texts without `duplicate_of`)
+**Status:** done: batches 01 to 10 merged as PRs #19 to #36 (2026-09-28 to 2026-10-03)
 **Repo:** `mevar-v2` (`markdown/onedrive/`, `markdown/mevar-pdfs/`, `scripts/`)
 **Rules:** [README.md](README.md), and goal 04's rules, which this goal adopts
 **Kind:** EDITORIAL at scale: a script does the pass, a check verifies it,

@@ -1,6 +1,6 @@
 # GOAL 03: Nothing that works on Ghost today breaks
 
-**Status:** ready after goal 01
+**Status:** merged as PR #6 (2026-09-24)
 **Repo:** `mevar-v2/web`
 **Rules:** [README.md](README.md)
 

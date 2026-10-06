@@ -1,6 +1,6 @@
 # GOAL 14: No page furniture in Branham, working footnotes, every Le Scribe summary linked
 
-**Status:** ready to dispatch; runs in parallel with goal 10
+**Status:** merged as PR #18 (2026-09-25)
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, the bodies of
 `markdown/branham/` for item 1 only, two posts in `markdown/mevar/` for
 item 2, the frontmatter of `markdown/le-scribe/` and `markdown/branham/`

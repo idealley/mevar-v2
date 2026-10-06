@@ -1,6 +1,6 @@
 # GOAL 31: the CMPP's texts from its own HTML pages
 
-**Status:** done on the branch `goal-31-cmpp-html`, 2026-10-06; what is left is in « Measured »
+**Status:** merged as PR #47 into its parent branch, on `main` with PR #48 (2026-10-06); what is left is in « Measured »
 **Depends on:** 16 (the manifest of cmpp.ch, the links to Branham's sermons,
 the folded layouts)
 **Rules:** [README.md](README.md)

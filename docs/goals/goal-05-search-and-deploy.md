@@ -1,6 +1,6 @@
 # GOAL 05: Search, Cloudflare Pages, and a page weight fit for Africa
 
-**Status:** ready after goals 01 and 03
+**Status:** merged as PR #5 (2026-09-24); `main` deploys to `mevar.pages.dev`; the cutover checklist below is Samuel's and not yet run (2026-10-06)
 **Repo:** `mevar-v2` (`web/`, `.github/workflows/`)
 **Rules:** [README.md](README.md)
 **Reference:** `~/projects/firstprinciple/.github/workflows/deploy.yml` and

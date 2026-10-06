@@ -1,6 +1,6 @@
 # GOAL 09: Each Mevar text once
 
-**Status:** ready (independent of goal 08; goal 10 waits for it)
+**Status:** merged as PR #10 (2026-09-25), its follow-up as PR #15 (2026-09-28)
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, frontmatter of `markdown/onedrive/` and `markdown/mevar-pdfs/`)
 **Rules:** [README.md](README.md)
 

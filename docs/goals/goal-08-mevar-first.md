@@ -1,6 +1,6 @@
 # GOAL 08: Mevar first, the archive below, and every work that cites a verse
 
-**Status:** ready after goal 05 (PR #5 merged)
+**Status:** merged as PR #12 (2026-09-25)
 **Repo:** `mevar-v2` (`web/`, one pipeline script for item 5)
 **Rules:** [README.md](README.md)
 

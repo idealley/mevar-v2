@@ -1,6 +1,6 @@
 # GOAL 17: French typography: a narrow space before « : ; ? ! »
 
-**Status:** merged as PR #22 (2026-09-28); the reference follow-up below in progress
+**Status:** merged as PR #22 (2026-09-28), the reference follow-up as PR #23 (2026-09-28)
 **Repo:** `mevar-v2` (`web/src/lib/`, `web/src/content.config.ts`,
 `web/astro.config.mjs`, `email/build.mjs`, `tests/`, `package.json`,
 `docs/`)

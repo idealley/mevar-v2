@@ -1,5 +1,7 @@
 # GOAL 28: what a search engine and a shared link read
 
+**Status:** merged as PR #42 (2026-10-05)
+
 ## Problem
 
 After goal 27 every page has a title, a description, a canonical URL and

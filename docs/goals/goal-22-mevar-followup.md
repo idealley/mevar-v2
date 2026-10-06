@@ -1,6 +1,6 @@
 # GOAL 22: Mevar follow-up to goal 21
 
-**Status:** PR open
+**Status:** merged as PR #33 (2026-10-02)
 **Repo:** `mevar-v2` (`scripts/86`, `scripts/65`, the batch 01 entry
 `Exhortationnovembre2007` and the batch 07 entry `pred_sept2010` of
 `scripts/mevar-editorial-fixes.json`, the frontmatter `bible_refs` of the

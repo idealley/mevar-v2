@@ -1,5 +1,7 @@
 # GOAL 32: the app's manifest, as Chrome asks for it
 
+**Status:** merged as PR #49 (2026-10-06)
+
 ## Problem
 
 Chrome's « Application » panel on `mevar.pages.dev` (2026-10-06) reports

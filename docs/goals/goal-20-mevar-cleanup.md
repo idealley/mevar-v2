@@ -1,6 +1,6 @@
 # GOAL 20: Mevar clean-up after goal 10's first batches
 
-**Status:** PR open
+**Status:** merged as PR #28 (2026-09-30)
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, `index.json`, the frontmatter
 of `markdown/onedrive/`, `markdown/mevar-pdfs/` and the `markdown/mevar/`
 files with `source_path`, the bodies of three split works, `docs/`)

@@ -1,6 +1,6 @@
 # GOAL 16: CMPP complete, and each Branham translation linked to its sermon
 
-**Status:** done, 2026-10-06 (Samuel's answers of that day applied, see the end of « Measured »): items 6 to 9 on 2026-10-05 at Samuel's request (« why is this one "undated" in the path… could we verify all those to make this clean? »), items 1 to 4 and the rest of item 5 the day after (« I approve all of it, you can crawl, correct etc. until everything is clean »). What waits for Samuel is listed in « Measured »
+**Status:** merged as PR #45, and PR #46 on `main` with PR #48 (2026-10-06); done, 2026-10-06 (Samuel's answers of that day applied, see the end of « Measured »): items 6 to 9 on 2026-10-05 at Samuel's request (« why is this one "undated" in the path… could we verify all those to make this clean? »), items 1 to 4 and the rest of item 5 the day after (« I approve all of it, you can crawl, correct etc. until everything is clean »). What waits for Samuel is listed in « Measured »
 **Repo:** `mevar-v2` (`scripts/12-discover-cmpp.mjs`, `scripts/20-download-pdfs.mjs`,
 `scripts/72-llm-fanout-multi.mjs`, `scripts/73-apply-llm.mjs`, a new
 `scripts/49b-link-cmpp-branham.mjs`, `manifests/cmpp.json`,

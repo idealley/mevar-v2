@@ -1,5 +1,7 @@
 # GOAL 23: Every edited Mevar text offers its PDFs
 
+**Status:** merged as PR #37 (2026-10-04)
+
 ## Problem
 
 Goal 10 edited 170 texts from the OneDrive folder and the mevar.org PDFs.

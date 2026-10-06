@@ -1,5 +1,7 @@
 # GOAL 25: The data clean before the design
 
+**Status:** merged as PR #39 (2026-10-05)
+
 ## Problem
 
 Before the design work, Samuel asked for the data to be « correct, clean »

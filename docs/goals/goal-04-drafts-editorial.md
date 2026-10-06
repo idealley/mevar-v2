@@ -1,6 +1,6 @@
 # GOAL 04: The 7 drafts become publishable
 
-**Status:** ready after goal 02 (additive Ghost import, so the edits survive)
+**Status:** merged as PR #4 (2026-09-23)
 **Repo:** `mevar-v2/markdown/mevar`
 **Rules:** [README.md](README.md), with the exception below
 **Kind:** EDITORIAL, not a build. No code, no script, no template change.

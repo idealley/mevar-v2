@@ -1,6 +1,6 @@
 # GOAL 02: Close the corpus and pipeline gaps
 
-**Status:** ready to dispatch
+**Status:** merged as PR #1 (2026-09-23)
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, `markdown/`, `docs/`)
 **Rules:** [README.md](README.md)
 

@@ -1,5 +1,7 @@
 # GOAL 33: a song in a sermon is shown as a song
 
+**Status:** merged as PR #50 (2026-10-06)
+
 ## Problem
 
 branham.org sets a song, a poem or lines quoted inside a sermon as an

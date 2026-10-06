@@ -1,6 +1,6 @@
 # GOAL 18: Section headings: a line that stands alone becomes ## or ###
 
-**Status:** PR #25 open
+**Status:** merged as PR #25 (2026-09-29)
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, the bodies of
 `markdown/onedrive/`, `markdown/mevar-pdfs/`, `markdown/le-scribe/`,
 `markdown/cmpp/`, `markdown/local/`, one line of `markdown/mevar/`;

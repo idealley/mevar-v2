@@ -1,5 +1,7 @@
 # GOAL 27: the site as `docs/website.pen` draws it
 
+**Status:** merged as PR #41 (2026-10-05)
+
 ## Problem
 
 The site works and carries the whole corpus, in the scaffold's look: a

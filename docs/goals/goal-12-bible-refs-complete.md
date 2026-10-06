@@ -1,7 +1,6 @@
 # GOAL 12: Every Bible ref of a work, in the order it is cited
 
-**Status:** in review (dispatched 2026-09-25 by Samuel; branch
-`goal-12-bible-refs-complete`, baseline `fba80c0`)
+**Status:** merged as PR #14 (2026-09-25)
 **Repo:** `mevar-v2` (`scripts/47-lift-manifest-fields.mjs`,
 `scripts/65-normalize-bible.mjs`, `scripts/66-normalize-bible-en.mjs`,
 `manifests/bible-refs.json`, `index.json`, the `bible_refs` frontmatter of

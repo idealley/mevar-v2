@@ -3,6 +3,10 @@
 Six goals take the repo from "corpus done, site scaffolded" to "mevar.org served
 from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 
+**State, 2026-10-06:** every goal below is merged into `main`; each goal
+file's « Status » names its PR. What is left of v1 is Samuel's: the cutover
+(goal 05's checklist and goal 06's order).
+
 | # | Goal | Depends on | Human gate |
 | - | ---- | ---------- | ---------- |
 | 01 | [Local assets](goal-01-local-assets.md): every image and PDF served from our own domain | none | none |
@@ -26,6 +30,17 @@ from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 | 20 | [Mevar clean-up](goal-20-mevar-cleanup.md): subtitles in sentence case, a split's header, 65's missed spellings, two strays | 10, 18, 19 | Samuel answers the strays |
 | 21 | [Mevar follow-up](goal-21-mevar-followup.md): subtitles from the PDF, the two strays, 65 on every source and on a quote's verse numbers | 10, 20 | none |
 | 22 | [Mevar follow-up](goal-22-mevar-followup.md): 86 reports an overlapping fix and narrows a decided date's year, 65 reads « Mat. 24.14 » | 10, 21 | none |
+| 23 | [Mevar PDFs](goal-23-mevar-pdfs.md): every edited Mevar text offers its PDFs | — | its stop points |
+| 24 | [R2 PDFs](goal-24-r2-pdfs.md): the Branham, Le Scribe and CMPP PDFs served from our domain | — | its stop points |
+| 25 | [Clean-up](goal-25-clean-up.md): the data clean before the design | — | its stop points |
+| 26 | [Branham clean-up](goal-26-branham-clean-up.md): his recordings on our domain, his texts without page headers | — | its stop points |
+| 27 | [Design](goal-27-design.md): the site as `docs/website.pen` draws it | — | none |
+| 28 | [SEO](goal-28-seo.md): what a search engine and a shared link read | — | its stop points |
+| 29 | [Analytics](goal-29-analytics.md): the site counts its visits where mevar.org always has | — | its stop points |
+| 30 | [Logo](goal-30-logo.md): MEVAR's eagle beside its name | — | none |
+| 31 | [CMPP from HTML](goal-31-cmpp-html.md): the CMPP's texts from its own HTML pages | 16 | none |
+| 32 | [App manifest](goal-32-pwa-manifest.md): an id, a maskable icon, two screenshots | — | none |
+| 33 | [Verse blocks](goal-33-verse-blocks.md): a song in a sermon is shown as a song | — | none |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.

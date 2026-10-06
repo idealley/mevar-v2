@@ -1,6 +1,6 @@
 # GOAL 01: Every image and PDF served from our own domain
 
-**Status:** ready to dispatch
+**Status:** merged as PR #3 (2026-09-23)
 **Repo:** `mevar-v2` (scripts at the root, site in `web/`)
 **Rules:** [README.md](README.md)
 
