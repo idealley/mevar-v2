@@ -33,7 +33,7 @@ import { field, frontmatter } from "./frontmatter.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const SITE = "http://www.cmpp.ch";
-export const htmlCache = path.join(root, ".html-cache/cmpp");
+const htmlCache = path.join(root, ".html-cache/cmpp");
 const NOT_ITS_PAGE = {
   // questions_et_reponses_bibliques.htm offers its PDF and holds every question and answer (42,000 words): the work is one of them.
   q_r_fevrier_2008_5: "questions_et_reponses_bibliques.htm",
@@ -44,6 +44,8 @@ const NOT_ITS_PAGE = {
   // Three summaries whose page ends on a paragraph of another month, which their PDF does not have: the page is no
   // faithful witness of that month. 373 words that are video_04_2011.pdf's (81 % of their 4-word sequences; 2 % in
   // its own PDF); 271 that are video_06_2009.pdf's (85 %; 3 %); 235 that are video_11_2014.pdf's (100 %; 3 %).
+  // (questions_reponses_ef and la_priere have a stray paragraph too and keep their page: 123 words of 20,005 that are
+  // the same author's in another of his books, and 161 words no PDF has, against 15 to 20 % of a summary.)
   video_06_2011: "video_06_2011.htm",
   video_06_2010: "video_06_2010.htm",
   video_10_2014: "video_10_2014.htm",

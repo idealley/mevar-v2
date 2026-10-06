@@ -57,15 +57,14 @@ import { dropField, setField } from "./frontmatter.mjs";
 import { page } from "./12b-pair-cmpp-pages.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
-// A header's field that is not the work's: the booklet's « 4 mars 1960 » is
-// the American 4/3/60, and the sermon is 60-0403 (76b has the evidence).
-const NOT_THE_HEADERS = { les_aigles_de_dieu: ["date"] };
 
 // ─── The article ────────────────────────────────────────────────────────────
 const turndown = new TurndownService({ headingStyle: "atx", hr: "---", emDelimiter: "*", strongDelimiter: "**", bulletListMarker: "-" });
 // Only what would change the meaning of a line: an asterisk or an underscore
-// in the text, and a line that would start a list, a heading or a quotation.
-turndown.escape = (text) => text.replace(/([*_\\])/g, "\\$1").replace(/^([-+>#])(?=\s)/gm, "\\$1").replace(/^(\d+)\.(?=\s)/gm, "$1\\.");
+// in the text, a « < » or an « & » markdown would read as a tag or an entity
+// (the page of lc2 prints « <Amen> »), and a line that would start a list, a
+// heading or a quotation.
+turndown.escape = (text) => text.replace(/([*_\\<])/g, "\\$1").replace(/&(?=#?\w+;)/g, "\\&").replace(/^([-+>#])(?=\s)/gm, "\\$1").replace(/^(\d+)\.(?=\s)/gm, "$1\\.");
 const cls = (node) => node.getAttribute?.("class") ?? "";
 const inline = (content) => content.replace(/\s*\n\s*/g, " ").trim();
 // (« summary » is the label that opens an audio's transcription, and the line under an <audio> its caption)
@@ -114,8 +113,22 @@ turndown.addRule("table", {
     return `\n\n${[line(rows[0]), line(Array(width).fill(" --- ")), ...rows.slice(1).map(line)].join("\n")}\n\n`;
   },
 });
-turndown.addRule("term", { filter: "dt", replacement: (content) => `${inline(content)} ` });
-turndown.addRule("definition", { filter: "dd", replacement: (content) => `${inline(content)}\n` });
+// What the page's own <style> hides at full width (`#tab600{ display:none; }`, `.responsive-table .stacked-table`)
+// is the narrow-screen copy of a block the page also sets as a table: a reader at a desk sees one, and the body has
+// that one. (The site's shared stylesheets hide only parts of its menus.)
+let hidden = []; // the selectors of the page being converted, each a chain of compounds: [[{ tag, id, classes }]]
+function hiddenBy(html) {
+  const css = [...html.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(([, s]) => s).join("\n").replace(/\/\*[\s\S]*?\*\//g, "").replace(/@media[^{]*\{(?:[^{}]*\{[^{}]*\})*[^{}]*\}/g, "");
+  return [...css.matchAll(/([^{}]+)\{[^{}]*display\s*:\s*none[^{}]*\}/g)].flatMap(([, selectors]) => selectors.split(",")).map((selector) => selector.trim().split(/\s+/).map((compound) => ({ tag: compound.match(/^[a-z][a-z0-9]*/i)?.[0].toUpperCase(), id: compound.match(/#([\w-]+)/)?.[1], classes: [...compound.matchAll(/\.([\w-]+)/g)].map(([, c]) => c) })));
+}
+const is = (node, { tag, id, classes }) => node.nodeType === 1 && (!tag || node.nodeName === tag) && (!id || node.getAttribute("id") === id) && classes.every((c) => cls(node).split(/\s+/).includes(c));
+function matches(node, chain) {
+  if (!is(node, chain.at(-1))) return false;
+  let k = chain.length - 2;
+  for (let up = node.parentNode; up && k >= 0; up = up.parentNode) if (is(up, chain[k])) k--;
+  return k < 0;
+}
+turndown.addRule("hidden", { filter: (node) => hidden.some((chain) => matches(node, chain)), replacement: () => "" });
 
 /** A page in its two parts: its title page (the <header>, and a circular letter's number and month in <main>), and its text (the rest of <main>, then the <article>). */
 function partsOf(html) {
@@ -139,7 +152,6 @@ function bodyOf(text) {
     .replace(/<(i|b)>(\s*)<\/\1>/g, "$2")
     .replace(/<\/(i|b)>(\s*)<\1>/g, "$2");
   return `${turndown.turndown(html)
-    .replace(/<\/?font[^>]*>/g, "") // a tag the page closes and never opened (serie4no3)
     .replace(/\u00a0+ | \u00a0+/g, " ") // « 20&nbsp; Au quatrième chapitre »: one space
     .replace(/[ \t\u00a0]+$/gm, (end) => (end === "  " ? end : "")) // a line's trailing spaces, but a line break's two
     .replace(/^[\u00a0 ]+(?=\S)/gm, "") // the spaces that indent a paragraph
@@ -198,15 +210,18 @@ for (const entry of manifest) {
     continue;
   }
   works++;
-  const { top, text: article } = partsOf(await page(new URL(entry.html_url).pathname.slice(1)));
+  const html = await page(new URL(entry.html_url).pathname.slice(1));
+  hidden = hiddenBy(html);
+  const { top, text: article } = partsOf(html);
   const body = bodyOf(article);
   const start = before.indexOf("\n---\n", 4) + 5;
   let text = before.slice(0, start);
   const printed = { ...headerOf(top), html_url: entry.html_url };
-  // the two fields only a header gives go when the header no longer prints them
+  // the three fields only a title page gives go when it no longer prints them
   for (const key of ["title_page", "original_title", "time_of_day"]) if (!(key in printed) && key in entry) { delete entry[key]; text = dropField(text, key); fields++; }
   for (const [key, value] of Object.entries(printed)) {
-    if (NOT_THE_HEADERS[entry.sermon_id]?.includes(key)) continue;
+    // One header's date is not its work's: the booklet's « 4 mars 1960 » is the American 4/3/60, and the sermon is 60-0403 (76b has the evidence).
+    if (entry.sermon_id === "les_aigles_de_dieu" && key === "date") continue;
     if (JSON.stringify(entry[key]) !== JSON.stringify(value) && key !== "html_url") fields++;
     entry[key] = value;
     text = setField(text, key, value);
