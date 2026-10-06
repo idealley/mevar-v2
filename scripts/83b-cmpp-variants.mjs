@@ -9,9 +9,9 @@
 // The keeper: the id without a suffix; else the `_A4`; else the `_A5`; a
 // `_gc` or a `_traite` last.
 //
-// Four letters of 1974 are in the corpus under two names (SAME_LETTER): the
-// one cmpp.ch no longer links joins the group of the one it links, and never
-// keeps.
+// Five texts are in the corpus under two names (SAME_WORK): four letters of
+// 1974, where the name cmpp.ch no longer links joins the group of the one it
+// links, and a tract. The second name never keeps.
 //
 // A variant is folded only when its body says so: normalised words, 5-word
 // shingles (as 83), and at least 0.90 of the variant's shingles found in the
@@ -38,7 +38,12 @@ const SUFFIXES = /(_A4|_A5|_gc|_traite)+$/i;
 // The same letter under the name cmpp.ch gave it first, and the one it has
 // now: 0.96 to 0.97 of each in the other, and 12 lists the first as no
 // longer linked on the site.
-const SAME_LETTER = { janvier1974: "lc_janvier_1974", mars1974: "lc_mars_1974", juillet1974: "lc_juillet_1974", octobre1974: "lc_octobre_1974" };
+// And `quanddieu` is the tract `quand_dieu` (Samuel, 2026-10-06: « yes
+// probably duplicate »). The texts that only overlap stay works of their own
+// (« we can keep them as they are important »): the three tracts within lc55,
+// lc56 and lc57, les_70_semaines_de_daniel and lc42, and le_reveil_promis and
+// trois_visions, which markdown/mevar/ has too.
+const SAME_WORK = { janvier1974: "lc_janvier_1974", mars1974: "lc_mars_1974", juillet1974: "lc_juillet_1974", octobre1974: "lc_octobre_1974", quanddieu: "quand_dieu" };
 
 function shingles(body) {
   const w = body.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, " ").split(" ").filter(Boolean);
@@ -56,13 +61,13 @@ for (const rel of fs.readdirSync(dir, { recursive: true }).sort()) {
   const id = path.basename(rel, ".md");
   const work = { id, ref: `cmpp/${rel.replace(/\.md$/, "")}`, file: path.join(dir, rel) };
   works.push(work);
-  const base = SAME_LETTER[id] ?? id.replace(SUFFIXES, "");
+  const base = SAME_WORK[id] ?? id.replace(SUFFIXES, "");
   groups.set(base, [...(groups.get(base) ?? []), work]);
 }
 
 // The rank of a work as its group's keeper: the lowest keeps.
 function rank(work) {
-  if (SAME_LETTER[work.id]) return 4;
+  if (SAME_WORK[work.id]) return 4;
   const suffix = (work.id.match(SUFFIXES)?.[0] ?? "").toLowerCase();
   if (suffix === "") return 0;
   if (/_gc|_traite/.test(suffix)) return 3;
