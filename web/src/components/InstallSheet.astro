@@ -1,6 +1,6 @@
 ---
 // Under 1024px, the offer to install the site as an app, when the browser
-// says it can be (`beforeinstallprompt`) and the reader has not declined.
+// says it can be (`beforeinstallprompt`) and the reader has not answered yet.
 import Icon from "./Icon.astro";
 
 const perks = [
@@ -39,15 +39,17 @@ const perks = [
 <script>
   const sheet = document.getElementById("install") as HTMLDialogElement;
   window.addEventListener("beforeinstallprompt", (event) => {
-    // Our sheet, not the browser's banner; once declined, never again.
+    // Our sheet, not the browser's banner; once answered, never again: a
+    // browser that adds a shortcut and installs nothing (Brave, Firefox)
+    // offers the installation at every page, and so did we.
     event.preventDefault();
-    if (localStorage.getItem("install") === "later" || !matchMedia("(width < 64rem)").matches) return;
+    if (localStorage.getItem("install") || !matchMedia("(width < 64rem)").matches) return;
     sheet.showModal();
     sheet.focus();
     sheet.addEventListener("close", () => {
+      localStorage.setItem("install", sheet.returnValue || "later");
       // @ts-expect-error prompt() is on the BeforeInstallPromptEvent, which TypeScript's DOM types lack
       if (sheet.returnValue === "install") event.prompt();
-      else localStorage.setItem("install", "later");
     }, { once: true });
   });
 </script>
