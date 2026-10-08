@@ -6,7 +6,8 @@
 
 On the live site (2026-10-08), Samuel's phone (GrapheneOS, Brave): he taps
 « Installer », the browser says it adds the site to the home screen, no
-icon appears, and at the next page the sheet offers the installation again.
+icon appears, and when he reloads the home page (the only page that has the
+sheet) it offers the installation again.
 
 The manifest, its icons and the service worker answer as they should on
 mevar.org, and Chromium reports no installability error (goal 32). On
