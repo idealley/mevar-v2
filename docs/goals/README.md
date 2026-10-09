@@ -41,7 +41,7 @@ file's « Status » names its PR. What is left of v1 is Samuel's: the cutover
 | 31 | [CMPP from HTML](goal-31-cmpp-html.md): the CMPP's texts from its own HTML pages | 16 | none |
 | 32 | [App manifest](goal-32-pwa-manifest.md): an id, a maskable icon, two screenshots | — | none |
 | 33 | [Verse blocks](goal-33-verse-blocks.md): a song in a sermon is shown as a song | — | none |
-| 34 | [Email template](goal-34-email-template.md): the publication email shows the opening of the text | 06 | every real send |
+| 35 | [Email template](goal-35-email-template.md): the publication email shows the opening of the text | 06 | every real send |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.

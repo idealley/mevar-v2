@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// The "Publications" email for one work (goals 06 and 34):
+// The "Publications" email for one work (goals 06 and 35):
 //
 //   node email/build.mjs markdown/mevar/<slug>.md [--from "Une phrase du texte"] [--note "Une phrase."]
 //
