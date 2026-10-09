@@ -4,8 +4,9 @@
 // FLOOR words are already in, then the excerpt ends on the block before.
 // `from` starts it at the first block holding that phrase, at the phrase.
 // A cut is marked « … ». Only the reading counts: paragraphs, quotations and
-// verse blocks; a heading, a list (an audio post's « Sur le même sujet ») or
-// a rule is passed over. Returns mdast blocks for email/build.mjs to draw,
+// verse blocks; a list (an audio post's « Sur le même sujet ») or a rule is
+// passed over, and so is a heading, unless FLOOR words are in: then it ends
+// the excerpt, which never shows a section's text without its title. Returns mdast blocks for email/build.mjs to draw,
 // none for a work that has no text of its own.
 
 import { fromMarkdown } from "mdast-util-from-markdown";
@@ -60,11 +61,11 @@ const pattern = (from) =>
   new RegExp([...from.replace(/\s/g, "")].map((c) => (/['’]/.test(c) ? "['’]" : c.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))).join("\\s*"));
 
 export function excerpt(body, from) {
-  let blocks = fromMarkdown(body).children.filter((b) => READ.has(b.type) && text(b).trim());
+  let blocks = fromMarkdown(body).children.filter((b) => (READ.has(b.type) || b.type === "heading") && text(b).trim());
   let lead = false;
   if (from) {
     const re = pattern(from);
-    const i = blocks.findIndex((b) => re.test(text(b)));
+    const i = blocks.findIndex((b) => READ.has(b.type) && re.test(text(b)));
     if (i === -1) throw new Error(`--from: « ${from} » is not in the text`);
     const at = text(blocks[i]).search(re);
     blocks = [slice(blocks[i], at, Infinity), ...blocks.slice(i + 1)];
@@ -75,6 +76,10 @@ export function excerpt(body, from) {
   let used = 0;
   let trail = false;
   for (const b of blocks) {
+    if (b.type === "heading") {
+      if (used >= FLOOR) break;
+      continue;
+    }
     const n = text(b).split(/\s+/).filter(Boolean).length;
     if (used + n <= LIMIT) {
       out.push(b);

@@ -64,3 +64,8 @@ test("--from finds a phrase as the site shows it: « avoir ? » is « avoir? » 
   const [second] = read(excerpt("Un début. La foi  deuxième partie.", "La foi deuxième"));
   assert.equal(second, "… La foi  deuxième partie.");
 });
+
+test("past 120 words a heading ends the excerpt; before, it is passed over", () => {
+  assert.deepEqual(read(excerpt(`${para(130)}\n\n## Suite\n\n${para(20)}`)), [para(130)]);
+  assert.deepEqual(read(excerpt(`${para(30)}\n\n## Suite\n\n${para(20)}`)), [para(30), para(20)]);
+});
