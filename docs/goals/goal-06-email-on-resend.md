@@ -129,3 +129,11 @@ The rest of this goal assumes the first option.
 
 Creating the Resend account, DNS records, API keys and env vars, the real
 member export and import, and every real broadcast: Samuel.
+
+## Follow-up
+
+- Four published works stop at the 100 KB image check of `email/build.mjs`
+  and cannot be emailed until `scripts/93` optimizes their image:
+  `babylone-la-grande-ville` (146 KB), `l-epreuve-de-jean-baptiste`,
+  `le-nouveau-ministere`, `les-5-ministeres-de-la-parole` (goal 34's
+  review, 2026-10-09).
