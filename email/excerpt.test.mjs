@@ -57,3 +57,10 @@ test("a cut on a sentence that ends « … » is not marked twice", () => {
   const [only] = read(excerpt(`${para(150)} Je me souviens très bien… ${para(100)}`));
   assert.ok(only.endsWith("très bien…"));
 });
+
+test("--from finds a phrase as the site shows it: « avoir ? » is « avoir? » in the file", () => {
+  const [first] = read(excerpt(`${para(5)} Que doit-elle avoir? La foi.`, "Que doit-elle avoir ? La"));
+  assert.equal(first, "… Que doit-elle avoir? La foi.");
+  const [second] = read(excerpt("Un début. La foi  deuxième partie.", "La foi deuxième"));
+  assert.equal(second, "… La foi  deuxième partie.");
+});

@@ -53,17 +53,20 @@ function mark(block, end) {
   else p.children.unshift({ type: "text", value: "… " });
 }
 
-// A typed phrase and the text compared with the same length: ’ is ', any space is " ".
-const loose = (s) => s.replace(/’/g, "'").replace(/\s/g, " ");
+// A phrase as Samuel types or copies it: any apostrophe for either, any
+// space or none between two characters, so « avoir ? » as the site shows it
+// finds « avoir? » as the file has it.
+const pattern = (from) =>
+  new RegExp([...from.replace(/\s/g, "")].map((c) => (/['’]/.test(c) ? "['’]" : c.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))).join("\\s*"));
 
 export function excerpt(body, from) {
   let blocks = fromMarkdown(body).children.filter((b) => READ.has(b.type) && text(b).trim());
   let lead = false;
   if (from) {
-    const phrase = loose(from).replace(/ +/g, " ");
-    const i = blocks.findIndex((b) => loose(text(b)).includes(phrase));
+    const re = pattern(from);
+    const i = blocks.findIndex((b) => re.test(text(b)));
     if (i === -1) throw new Error(`--from: « ${from} » is not in the text`);
-    const at = loose(text(blocks[i])).indexOf(phrase);
+    const at = text(blocks[i]).search(re);
     blocks = [slice(blocks[i], at, Infinity), ...blocks.slice(i + 1)];
     lead = at > 0;
   }
