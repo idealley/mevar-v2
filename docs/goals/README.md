@@ -3,9 +3,9 @@
 Six goals take the repo from "corpus done, site scaffolded" to "mevar.org served
 from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 
-**State, 2026-10-09:** goals 01 to 33 are merged into `main`; from 34, each
-goal file's « Status » says where it stands and names its PR. What is left
-of v1 is Samuel's: the cutover (goal 05's checklist and goal 06's order).
+**State:** each goal file's « Status » says whether it is merged and names
+its PR. What is left of v1 is Samuel's: the cutover (goal 05's checklist and
+goal 06's order).
 
 | # | Goal | Depends on | Human gate |
 | - | ---- | ---------- | ---------- |
@@ -42,7 +42,7 @@ of v1 is Samuel's: the cutover (goal 05's checklist and goal 06's order).
 | 32 | [App manifest](goal-32-pwa-manifest.md): an id, a maskable icon, two screenshots | — | none |
 | 33 | [Verse blocks](goal-33-verse-blocks.md): a song in a sermon is shown as a song | — | none |
 | 35 | [Email template](goal-35-email-template.md): the publication email shows the opening of the text | 06 | every real send |
-| 36 | [Entry points](goal-36-entry-points.md): « Mes lectures », « Séries » and « Mis en avant » reachable on a desktop screen | — | none |
+| 36 | [Entry points](goal-36-entry-points.md): « Mes lectures » and « Mis en avant » reachable on a desktop screen | — | none |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.
