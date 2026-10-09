@@ -22,13 +22,14 @@ const here = Astro.url.pathname;
 <header class="sticky top-0 z-40 bg-bg pt-[env(safe-area-inset-top)]" data-noprint>
   <div class="mx-auto hidden max-w-[1440px] items-center justify-between px-10 py-[22px] lg:flex">
     <Brand />
-    <nav class="flex items-center gap-7 text-sm font-medium max-xl:gap-4" aria-label="Rubriques">
+    <nav class="flex items-center gap-7 text-sm font-medium max-xl:gap-3" aria-label="Rubriques">
       {links.map(([href, label]) => (
         <a href={href} aria-current={here.startsWith(href) ? "page" : undefined} class="text-ink-2 hover:text-ink aria-[current]:text-ink">{label}</a>
       ))}
     </nav>
-    <div class="flex items-center gap-3">
+    <div class="flex items-center gap-3 max-xl:gap-2">
       <a href="/recherche/" class="round-btn" aria-label="Recherche"><Icon name="search" /></a>
+      <a href="/mes-lectures/" class="round-btn" aria-label="Mes lectures"><Icon name="bookmark" /></a>
       <ThemeToggle />
       <a href="/newsletter/" class="flex items-center gap-[7px] rounded-full bg-ink px-[18px] py-2.5 text-sm leading-[17px] font-medium text-on-invert">
         S'abonner <Icon name="arrow-up-right" size={14} />
