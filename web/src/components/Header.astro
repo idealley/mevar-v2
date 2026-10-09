@@ -1,6 +1,8 @@
 ---
-// The site header. From 1024px: the brand, the lists and the actions, with
-// the reading progress of a work below. Under 1024px: the bar a page brings
+// The site header. From 1024px: the brand, the lists and the actions (search,
+// « Mes lectures », the theme, the newsletter: under 1024px the first two are
+// in the tab bar), with the reading progress of a work below. Under 1024px:
+// the bar a page brings
 // (slot "bar": the brand on the home page, the way back on a work); a page
 // with a title of its own brings none.
 import Brand from "./Brand.astro";
@@ -29,6 +31,7 @@ const here = Astro.url.pathname;
     </nav>
     <div class="flex items-center gap-3">
       <a href="/recherche/" class="round-btn" aria-label="Recherche"><Icon name="search" /></a>
+      <a href="/mes-lectures/" class="round-btn" aria-label="Mes lectures"><Icon name="bookmark" /></a>
       <ThemeToggle />
       <a href="/newsletter/" class="flex items-center gap-[7px] rounded-full bg-ink px-[18px] py-2.5 text-sm leading-[17px] font-medium text-on-invert">
         S'abonner <Icon name="arrow-up-right" size={14} />
