@@ -3,9 +3,9 @@
 Six goals take the repo from "corpus done, site scaffolded" to "mevar.org served
 from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 
-**State, 2026-10-06:** every goal below is merged into `main`; each goal
-file's « Status » names its PR. What is left of v1 is Samuel's: the cutover
-(goal 05's checklist and goal 06's order).
+**State, 2026-10-09:** goals 01 to 33 are merged into `main`; from 34, each
+goal file's « Status » says where it stands and names its PR. What is left
+of v1 is Samuel's: the cutover (goal 05's checklist and goal 06's order).
 
 | # | Goal | Depends on | Human gate |
 | - | ---- | ---------- | ---------- |
