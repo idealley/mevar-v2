@@ -1,6 +1,6 @@
 # GOAL 36: every page of the site has a way in on a desktop screen
 
-**Status:** in progress on `goal-36-entry-points` (2026-10-09)
+**Status:** PR #53 open on `goal-36-entry-points` (2026-10-09)
 **Repo:** `mevar-v2` (`web/src/components/`)
 **Rules:** [README.md](README.md)
 
