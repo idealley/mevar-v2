@@ -1,4 +1,4 @@
-// The opening of a work for its email (goal 34): its own words, never
+// The opening of a work for its email (goal 35): its own words, never
 // rewritten. Whole blocks (paragraphs, quotations) in reading order up to
 // LIMIT words; the block that crosses it is cut at a sentence end, unless
 // FLOOR words are already in, then the excerpt ends on the block before.

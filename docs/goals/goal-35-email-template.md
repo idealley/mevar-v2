@@ -1,6 +1,7 @@
-# GOAL 34: the publication email shows the opening of the text
+# GOAL 35: the publication email shows the opening of the text
 
-**Status:** in progress on `goal-34-email-template` (2026-10-08)
+**Status:** in progress on `goal-34-email-template` (2026-10-08; numbered 35 on
+2026-10-09, after goal 34's install sheet took 34 first)
 **Repo:** `mevar-v2` (`email/`)
 **Rules:** [README.md](README.md)
 
