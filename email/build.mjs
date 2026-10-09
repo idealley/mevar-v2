@@ -65,8 +65,7 @@ const kind = KIND_LABEL[deriveKind({ kind: field("kind"), tags: list("tags"), so
 const refs = list("bible_refs").slice(0, 3).map((r) => frenchSpacing(r));
 const image = field("local_image");
 // The PDF the page offers first (WorkPage.astro), and the recording on R2.
-const pdf = field("text_pdf") ?? field("local_pdf") ?? field("pdf_url");
-const pdfUrl = pdf?.startsWith("/") ? `${SITE}${pdf}` : pdf;
+const pdf = field("text_pdf") ?? field("local_pdf");
 const audio = field("local_audio");
 // The site's own rule (web/src/lib/works.ts, workUrl).
 const url = `${SITE}${rel.startsWith("mevar/") ? `/${rel.slice("mevar/".length)}/` : `/works/${rel}/`}`;
@@ -118,8 +117,6 @@ function draw(block) {
   return `<p style="${reading}">${inline(block.children ?? [block], false)}</p>`;
 }
 
-const plain = (block) =>
-  block.type === "blockquote" ? block.children.map((p) => `    ${frenchSpacing(text(p))}`).join("\n") : frenchSpacing(text(block));
 const more = blocks.length ? "Lire la suite" : "Ouvrir la page";
 const preheader = blocks.length ? frenchSpacing(text(blocks[0])).slice(0, 140) : title;
 const byline = [preacher, formatDateFr(field("published_at"))].filter(Boolean).join(" · ");
@@ -149,7 +146,7 @@ ${blocks.length ? `<tr><td style="padding:22px 24px 0;"><div style="border-top:1
 ${blocks.map(draw).join("\n")}
 </div></td></tr>\n` : ""}<tr><td style="padding:${blocks.length ? 4 : 22}px 24px 26px;">
 <a href="${url}" style="display:inline-block; ${sans} font-size:15px; font-weight:bold; color:${C.onAccent}; background:${C.accent}; text-decoration:none; border-radius:999px; padding:12px 24px; margin:0 8px 8px 0;">${esc(more)}</a>
-${pdfUrl ? `${pill(pdfUrl, "Télécharger le PDF")}\n` : ""}${audio ? `${pill(audio, "Écouter")}\n` : ""}</td></tr>
+${pdf ? `${pill(`${SITE}${pdf}`, "Télécharger le PDF")}\n` : ""}${audio ? `${pill(audio, "Écouter")}\n` : ""}</td></tr>
 <tr><td style="padding:18px 24px; border-top:1px solid ${C.line}; ${small} font-size:12px;">
 ${esc("Vous recevez cet e-mail car votre adresse est inscrite à la newsletter de mevar.org.")}
 <a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color:${C.ink2};">${esc("Se désinscrire")}</a>
@@ -165,8 +162,8 @@ const txt = `${note ? `${note}\n\n` : ""}${kind.toUpperCase()}
 ${title}
 ${byline}
 ${refs.length ? `Textes : ${refs.join(" · ")}\n` : ""}
-${blocks.map((b) => `${plain(b)}\n\n`).join("")}${more} : ${url}
-${pdfUrl ? `Télécharger le PDF : ${pdfUrl}\n` : ""}${audio ? `Écouter : ${audio}\n` : ""}
+${blocks.map((b) => `${b.type === "blockquote" ? b.children.map((p) => `    ${frenchSpacing(text(p))}`).join("\n") : frenchSpacing(text(b))}\n\n`).join("")}${more} : ${url}
+${pdf ? `Télécharger le PDF : ${SITE}${pdf}\n` : ""}${audio ? `Écouter : ${audio}\n` : ""}
 --
 Vous recevez cet e-mail car votre adresse est inscrite à la newsletter de mevar.org.
 Se désinscrire : {{{RESEND_UNSUBSCRIBE_URL}}}

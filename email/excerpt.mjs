@@ -16,7 +16,6 @@ const FLOOR = 120;
 
 /** What a node reads, as mdast-util-to-string reads it, image alts aside. */
 export const text = (n) => ("value" in n ? n.value : (n.children ?? []).map(text).join(""));
-const words = (s) => s.split(/\s+/).filter(Boolean).length;
 
 /** The node, keeping only the characters [from, to) of its text. */
 function slice(node, from, to) {
@@ -44,9 +43,11 @@ function cutAt(t, budget) {
 }
 
 // « … » beside the words, outside any bold run: a text node of the paragraph
-// (a quotation's first or last), or a verse block's own text.
+// (a quotation's first or last), or a verse block's own text. Not twice:
+// a cut on a sentence that ends « … » is marked already.
 function mark(block, end) {
   const p = block.type === "blockquote" ? block.children.at(end ? -1 : 0) : block;
+  if (end && /(…|\.\.\.)\W*$/.test(text(p))) return;
   if (!p.children) p.value = end ? `${p.value.trimEnd()} …` : `… ${p.value.trimStart()}`;
   else if (end) p.children.push({ type: "text", value: " …" });
   else p.children.unshift({ type: "text", value: "… " });
@@ -71,7 +72,7 @@ export function excerpt(body, from) {
   let used = 0;
   let trail = false;
   for (const b of blocks) {
-    const n = words(text(b));
+    const n = text(b).split(/\s+/).filter(Boolean).length;
     if (used + n <= LIMIT) {
       out.push(b);
       used += n;

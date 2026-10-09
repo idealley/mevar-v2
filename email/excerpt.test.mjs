@@ -52,3 +52,8 @@ test("headings, lists and rules are passed over; a work without text has no exce
   assert.deepEqual(read(excerpt(`## Partie 6\n\n${para(5)}\n\n* * *\n\n- [Un lien](/a/)`)), [para(5)]);
   assert.deepEqual(excerpt("## Partie 6\n\n* * *\n\n### Sur le même sujet\n\n- [Un lien](/a/)"), []);
 });
+
+test("a cut on a sentence that ends « … » is not marked twice", () => {
+  const [only] = read(excerpt(`${para(150)} Je me souviens très bien… ${para(100)}`));
+  assert.ok(only.endsWith("très bien…"));
+});
