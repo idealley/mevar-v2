@@ -28,17 +28,20 @@ export function entryDate(e: WorkEntry): string {
  * site with their own route, not works. A duplicate (goal 09) is not built
  * either: its URL answers 301 to the work it duplicates (astro.config.mjs).
  */
-export async function allWorks(): Promise<WorkEntry[]> {
-  const all = await getCollection(
+export function allWorks(): Promise<WorkEntry[]> {
+  return (works ??= getCollection(
     "works",
     (e) => e.data.status !== "draft" && e.data.type !== "page" && !e.data.duplicate_of,
-  );
-  return all.sort((a, b) => {
+  ).then((all) => all.sort((a, b) => {
     const da = entryDate(a), db = entryDate(b);
     if (da !== db) return db.localeCompare(da);
     return (a.data.title ?? "").localeCompare(b.data.title ?? "");
-  });
+  })));
 }
+// Read once per build: getCollection copies the data of all 3,100 entries on
+// each call, and a work page asks for the list several times (goal 40). No
+// caller changes the list or an entry: each filters it into its own.
+let works: Promise<WorkEntry[]> | undefined;
 
 /**
  * Mevar is what mevar.org publishes: the Ghost posts, and a OneDrive or PDF
