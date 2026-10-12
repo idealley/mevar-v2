@@ -58,7 +58,7 @@ Chaque texte qui a un PDF le propose en téléchargement, pour le lire plus tard
 
 ### Les archives
 
-Sous les textes de la mission, le site rassemble des archives pour l’étude : plus de 1 200 prédications de frère William Branham dans leur texte anglais, leurs résumés en français (quand ils existent), et des traductions françaises (quand elles existent elle aussi) . Depuis un résumé en français, un lien mène à la prédication originale.
+Sous les textes de la mission, le site rassemble des archives pour l’étude : plus de 1 200 prédications de frère William Branham dans leur texte anglais, leurs résumés en français (quand ils existent), et des traductions françaises (quand elles existent elles aussi). Depuis un résumé en français, un lien mène à la prédication originale.
 
 ## Ce qui vient
 
