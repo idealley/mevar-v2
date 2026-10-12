@@ -30,7 +30,7 @@ export function excerpt(markdown) {
 }
 
 /** Published Ghost posts: slug -> { title, summary }. */
-const posts = new Map();
+export const posts = new Map();
 for (const f of fs.readdirSync(dir)) {
   const text = fs.readFileSync(path.join(dir, f), "utf8");
   const end = text.indexOf("\n---\n", 4);

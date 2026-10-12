@@ -40,6 +40,37 @@ jobs:
 
       - run: npm ci
 
+      # Astro's content store: each work as parsed and rendered, with the
+      # digest of its file, so a build parses only the files that changed.
+      # It is under node_modules/, which npm ci empties: restored after it.
+      # A run restores the newest store saved on main and saves its own.
+      #
+      # Astro clears the store by itself when content.config.ts, an option of
+      # astro.config.mjs or its own version changes. The key holds the rest
+      # of what a stored work is made from: the packages, the rehype plugins
+      # (astro.config.mjs lists them; Astro's digest does not see a function)
+      # and what they read, that is the Bible parsers, the recorded
+      # references, the images in a body, and the title and summary of each
+      # post, which a « Cité dans ce texte » card shows in another work.
+      - id: store
+        env:
+          FILES: >-
+            ${{ hashFiles('web/package-lock.json', 'web/astro.config.mjs',
+            'web/src/lib/*.mjs', 'web/src/lib/icons.json',
+            'scripts/65-normalize-bible.mjs', 'scripts/66-normalize-bible-en.mjs',
+            'scripts/bible-books.mjs', 'manifests/bible-refs.json',
+            'images/mevar/content/**') }}
+        run: >-
+          echo "inputs=$FILES-$(node -e "import('./src/lib/bookmarks.mjs').then((m) =>
+          console.log(require('node:crypto').hash('sha256', JSON.stringify([...m.posts]))))")"
+          >> "$GITHUB_OUTPUT"
+
+      - uses: actions/cache@v4
+        with:
+          path: web/node_modules/.astro/data-store.json
+          key: content-store-${{ steps.store.outputs.inputs }}-${{ github.run_id }}
+          restore-keys: content-store-${{ steps.store.outputs.inputs }}-
+
       # astro build, then pagefind --site dist
       - run: npm run build
 
