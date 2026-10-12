@@ -169,6 +169,51 @@ so the moves out of cmpp/undated/ are free today; do them with git mv.
 
 ---
 
+## 8. Goal 37: Telegram announcement
+
+Any time. Docs and the workflow only touch `.github/` and `scripts/`.
+
+```
+<preamble>
+Goal file: docs/goals/goal-37-telegram-announce.md. Branch:
+goal-37-telegram-announce.
+
+Everything is provable with --dry on past pushes; the bot token is
+Samuel's, never ask for it. The URL rule exists twice already: the third
+copy is a reject.
+```
+
+## 9. Goal 38: recordings to text
+
+Runs on the Mac (whisper.cpp, ffmpeg, SurrealDB with 110 run). Stop after
+the benchmark report and wait for Samuel's answers before the first batch.
+
+```
+<preamble>
+Goal file: docs/goals/goal-38-recordings-to-text.md. Branch:
+goal-38-recordings-to-text for the script and the benchmark, then one
+branch per batch as goal 10 does.
+
+Recount the 75 and the 61 before starting. Reuse 85 and 86; a change to
+them is named in the PR. No text is written from a transcript Samuel has
+not committed.
+```
+
+## 10. Goal 39: Telegram intake
+
+After 37 and 38 are merged. Runs on the Mac.
+
+```
+<preamble>
+Goal file: docs/goals/goal-39-telegram-intake.md. Branch:
+goal-39-telegram-intake.
+
+The Telegram login is Samuel's: prepare the steps and stop. Read only the
+channel's posts. A caption that does not give a field leaves it empty.
+```
+
+---
+
 ## Merge ritual, by Samuel, after each PR
 
 ```bash

@@ -147,3 +147,10 @@ Schema has the `annotated` edge with PERMISSIONS clauses ready, but no UI. When 
 - Anchor format: paragraph number + char offset within paragraph (preserves through edits)
 - Search across user's own notes
 - Optional: highlight + tag the underlying paragraph itself in their copy
+
+## Search from Telegram
+
+**Status**: deferred (Samuel, 2026-10-12), after goals 37 to 39. A bot on the MEVAR channel that answers « /ref Jean 3:16 », « /date 65-1127 », a preacher's name or a title with the matching works, and works inline (« @bot cri de minuit » in any chat) so a reader can share a text. It can also send a work's PDF or recording inside Telegram, where readers often download on cheaper data.
+
+**Fix**: a Cloudflare Worker in webhook mode (free tier is enough). Pagefind runs in a browser, not in a Worker, so the index is D1 with FTS5, rebuilt from the corpus at each deploy: titles, preachers, date codes, Bible refs and summaries, not the 180 MB of bodies. The Worker stores and logs no reader's id or query (rule 3). It is a running service, unlike the site, so it waits until the channel shows readers asking for it (`VISION.md`, « Later »).
+
