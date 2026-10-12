@@ -167,14 +167,23 @@ report(
   `${locs.length} URLs`,
 );
 
-// 5. RSS at /rss/: the 30 newest published Ghost posts.
+// 5. RSS at /rss/: the 30 newest works of source mevar, as the feed picks
+// them (src/pages/rss/index.xml.ts). Read from markdown/: a post written
+// after the cutover is not in mevar.json, which is the Ghost import.
 const rssFile = path.join(dist, "rss/index.xml");
 const rss = fs.existsSync(rssFile) ? fs.readFileSync(rssFile, "utf8") : "";
 const items = [...rss.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => m[1]);
-const newest = published
-  .toSorted((a, b) => b.published_at.localeCompare(a.published_at) || a.title.localeCompare(b.title))
+const newest = fs.readdirSync(path.join(web, "../markdown/mevar"))
+  .map((f) => {
+    const text = fs.readFileSync(path.join(web, "../markdown/mevar", f), "utf8");
+    const frontmatter = text.slice(0, text.indexOf("\n---\n", 4));
+    const field = (k) => frontmatter.match(new RegExp(`^${k}: "(.*)"$`, "m"))?.[1];
+    return { slug: f.slice(0, -3), frontmatter, source: field("source"), status: field("status"), type: field("type"), date: field("published_at") ?? field("date") ?? "", title: field("title") ?? "" };
+  })
+  .filter((w) => w.source === "mevar" && w.status !== "draft" && w.type !== "page" && !/^duplicate_of: /m.test(w.frontmatter))
+  .toSorted((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title))
   .slice(0, 30)
-  .map((p) => `https://mevar.org/${p.sermon_id}/`);
+  .map((w) => `https://mevar.org/${w.slug}/`);
 const links = items.map((i) => i.match(/<link>([^<]*)<\/link>/)?.[1]);
 report(
   "rss/index.xml, the 30 newest posts",
