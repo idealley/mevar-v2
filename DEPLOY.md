@@ -194,8 +194,11 @@ What the code expects:
 ### 1. Account and plan
 
 Before the first broadcast, compare the member count from Ghost (**Members**,
-filter "Subscribed") with the plan: the free plan sends 100 emails a day and
-3,000 a month. Over 100 members, one broadcast needs the paid plan.
+filter "Subscribed") with the plan. Resend counts the two kinds of email
+apart (checked 2026-10-12, resend.com/pricing): a broadcast is a marketing
+email, free without a daily limit up to 1,000 contacts, then Marketing Pro
+(5,000 contacts). The 100 emails a day and 3,000 a month of the free plan
+are for transactional email only, here the test sends (`npm run email:test`).
 
 ### 2. Sending domain `updates.mevar.org`
 
