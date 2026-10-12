@@ -212,6 +212,21 @@ The Telegram login is Samuel's: prepare the steps and stop. Read only the
 channel's posts. A caption that does not give a field leaves it empty.
 ```
 
+## 11. Goal 40: build time
+
+Any time. Touches `web/src/lib/works.ts` and `deploy.yml`; goal 37 also
+edits `deploy.yml`, so not in parallel with it.
+
+```
+<preamble>
+Goal file: docs/goals/goal-40-build-time.md. Branch: goal-40-build-time.
+
+Measure before you change anything: the cause in the goal file is a
+hypothesis. Two full builds are needed for the diff of dist/, about 35
+minutes each before the fix. If the profile does not show the repeated
+reading of the collection, stop and report.
+```
+
 ---
 
 ## Merge ritual, by Samuel, after each PR
