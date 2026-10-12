@@ -1,0 +1,11 @@
+{
+  "id": "bd18deb8-9b8a-4e88-97c6-597bb19612be",
+  "name": "Publications le-nouveau-site-de-mevar",
+  "subject": "Le nouveau site de MEVAR est en ligne",
+  "from": "MEVAR <publications@updates.mevar.org>",
+  "segment_id": "ba54de1a-6172-4c77-9d95-dc434da1b8cc",
+  "scheduled_at": "2026-10-13T07:00:00+00:00",
+  "html_sha256": "bbdefbc85919507911a8f9a7d5ada36fcbbdfdcba5646bb07a316201ff8d1d23",
+  "text_sha256": "d1d5580e27052253cd6a3b95f6d948826d4f51b8af9fdfd20fbb59d74f9029ac",
+  "recorded_at": "2026-10-12T14:55:37.012Z"
+}
