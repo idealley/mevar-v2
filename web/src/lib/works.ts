@@ -20,6 +20,11 @@ export function entryDate(e: WorkEntry): string {
   return (e.data.published_at as string) ?? (e.data.date as string) ?? "";
 }
 
+// Read once per build: getCollection copies the data of all 3,100 entries on
+// each call, and a work page asks for the list several times (goal 40). No
+// caller changes the list or an entry: each filters it into its own.
+let list: Promise<WorkEntry[]> | undefined;
+
 /**
  * Every work, deterministic sort: most recent first, ties broken by title.
  * A draft is never built, listed, counted or indexed: every route and list
@@ -29,7 +34,7 @@ export function entryDate(e: WorkEntry): string {
  * either: its URL answers 301 to the work it duplicates (astro.config.mjs).
  */
 export function allWorks(): Promise<WorkEntry[]> {
-  return (works ??= getCollection(
+  return (list ??= getCollection(
     "works",
     (e) => e.data.status !== "draft" && e.data.type !== "page" && !e.data.duplicate_of,
   ).then((all) => all.sort((a, b) => {
@@ -38,10 +43,6 @@ export function allWorks(): Promise<WorkEntry[]> {
     return (a.data.title ?? "").localeCompare(b.data.title ?? "");
   })));
 }
-// Read once per build: getCollection copies the data of all 3,100 entries on
-// each call, and a work page asks for the list several times (goal 40). No
-// caller changes the list or an entry: each filters it into its own.
-let works: Promise<WorkEntry[]> | undefined;
 
 /**
  * Mevar is what mevar.org publishes: the Ghost posts, and a OneDrive or PDF

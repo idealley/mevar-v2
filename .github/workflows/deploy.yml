@@ -43,7 +43,8 @@ jobs:
       # Astro's content store: each work as parsed and rendered, with the
       # digest of its file, so a build parses only the files that changed.
       # It is under node_modules/, which npm ci empties: restored after it.
-      # A run restores the newest store saved on main and saves its own.
+      # A run restores the newest store made from the same inputs, if there
+      # is one, and saves its own.
       #
       # Astro clears the store by itself when content.config.ts, an option of
       # astro.config.mjs or its own version changes. The key holds the rest
