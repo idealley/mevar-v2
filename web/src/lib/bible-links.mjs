@@ -3,25 +3,19 @@
 // and 66 (English, Branham) recognise and record for this work, in its own
 // frontmatter (`bible_refs`), so every link has its page and its anchor; the
 // text does not change, and a reference they do not recognise stays plain.
-// Nothing here is read from another file: Astro's digest of the work's file
-// covers all that its links are made from.
 // Runs on every work's body at build time; not on a site page (a-propos…),
 // which is on no verse page.
 
-import path from "node:path";
 import { citations as french, quoted } from "../../../scripts/65-normalize-bible.mjs";
 import { citations as english } from "../../../scripts/66-normalize-bible-en.mjs";
 import { refUrl } from "./bible.mjs";
-
-// Relative to web/, where the build runs.
-const root = path.resolve("..");
 
 export function rehypeBibleLinks() {
   return (tree, file) => {
     if (file.data.astro.frontmatter.type === "page") return;
     const refs = new Set(file.data.astro.frontmatter.bible_refs);
     if (!refs.size) return;
-    const citations = path.relative(root, file.path).startsWith("markdown/branham/") ? english : french;
+    const citations = file.data.astro.frontmatter.source === "branham" ? english : french;
 
     // A text node becomes text and links. Citations in order, none inside
     // another; of two at the same place, the longer ("Luke 11th chapter and
