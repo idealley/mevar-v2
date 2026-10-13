@@ -1,6 +1,6 @@
 # GOAL 40: a deploy takes under ten minutes
 
-**Status:** not started (written 2026-10-12)
+**Status:** PR #55 open (2026-10-12); the two times from the deploy logs are to be added after the merge
 **Repo:** `mevar-v2` (`web/src/lib/works.ts`, `.github/workflows/deploy.yml`)
 **Rules:** [README.md](README.md)
 
