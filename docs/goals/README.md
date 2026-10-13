@@ -47,6 +47,7 @@ goal 06's order).
 | 38 | [Recordings to text](goal-38-recordings-to-text.md): the 61 audio-only preachings get their text | 25 | benchmark; Samuel corrects each transcript; cost per batch |
 | 39 | [Telegram intake](goal-39-telegram-intake.md): a preaching posted on the channel becomes a draft | 37, 38 | Telegram account; which posts; the status flip |
 | 40 | [Build time](goal-40-build-time.md): a deploy takes under ten minutes | — | none |
+| 41 | [Store restored](goal-41-store-restored.md): publishing an article restores the content store | 40 | none |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.

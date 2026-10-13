@@ -227,6 +227,20 @@ minutes each before the fix. If the profile does not show the repeated
 reading of the collection, stop and report.
 ```
 
+## 12. Goal 41: store restored
+
+After goal 40. Touches `web/src/lib/bible-links.mjs` and `deploy.yml`; goal
+37 also edits `deploy.yml`, so not in parallel with it.
+
+```
+<preamble>
+Goal file: docs/goals/goal-41-store-restored.md. Branch: goal-41-store-restored.
+
+Compare `bible_refs` with the manifest for every file before you change the
+plugin, and stop if one differs. Both builds for the diff of dist/ start
+from a cleared store (delete web/node_modules/.astro/data-store.json).
+```
+
 ---
 
 ## Merge ritual, by Samuel, after each PR
