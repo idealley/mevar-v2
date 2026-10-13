@@ -1,11 +1,11 @@
 # GOAL 40: a deploy takes under ten minutes
 
-**Status:** merged, PR #55 (2026-10-13). First deploy after the merge, run
-38387969764, with no store to restore: `generating static routes` 35 s (was
-28 min 28 s), `Syncing content` 8 min 32 s, the whole run 11 min 18 s (was
-about 37). Still owed: the time of `Syncing content` on a run that restores
-the store. The deploys that do not restore it are
-[goal 41](goal-41-store-restored.md).
+**Status:** done: merged as PR #55 (2026-10-13). First deploy after the
+merge, run 38387969764, with no store to restore: `generating static routes`
+35 s (was 28 min 28 s), `Syncing content` 8 min 32 s, the whole run
+11 min 18 s (was about 37). On a run that restores the store (run
+38457625689, after [goal 41](goal-41-store-restored.md), one post edited):
+`Syncing content` 9 s, the whole run 3 min 02 s.
 **Repo:** `mevar-v2` (`web/src/lib/works.ts`, `.github/workflows/deploy.yml`)
 **Rules:** [README.md](README.md)
 

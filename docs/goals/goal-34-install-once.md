@@ -1,6 +1,6 @@
 # GOAL 34: the offer to install is made once
 
-**Status:** PR open (2026-10-08)
+**Status:** merged as PR #51 (2026-10-09)
 
 ## Problem
 

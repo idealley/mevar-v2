@@ -1,10 +1,9 @@
 # GOAL 41: publishing an article restores the content store
 
-**Status:** in PR #56 (2026-10-13). On a preview deploy that restored the
-store (run 38397744768): `Syncing content` 7 s, the whole run 3 min 08 s;
-without a store, the same commit (run 38395662403): 8 min 56 s and
-11 min 53 s. Still owed, from `main` after the merge: both times on a
-deploy that adds or edits one post.
+**Status:** done: merged as PR #56 (2026-10-13), landing check on `main` the
+same day. On a deploy that edits one post (run 38457625689): `Syncing
+content` 9 s, the whole run 3 min 02 s. The deploy of the merge itself, with
+no store to restore (run 38452979299): 8 min 42 s and 11 min 34 s.
 **Repo:** `mevar-v2` (`web/src/lib/bible-links.mjs`, `.github/workflows/deploy.yml`)
 **Rules:** [README.md](README.md)
 
