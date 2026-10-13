@@ -50,21 +50,32 @@ jobs:
       # astro.config.mjs or its own version changes. The key holds the rest
       # of what a stored work is made from: the packages, the rehype plugins
       # (astro.config.mjs lists them; Astro's digest does not see a function)
-      # and what they read, that is the Bible parsers, the recorded
-      # references, the images in a body, and the title and summary of each
-      # post, which a « Cité dans ce texte » card shows in another work.
+      # and what they read outside the work's own file, that is the Bible
+      # parsers, the images in a body, and the title and summary of each
+      # published post a body links to (`/<slug>/`), which a « Cité dans ce
+      # texte » card shows in another work. Every link, not only a card's:
+      # more posts than the cards show, none missed. A new post nothing
+      # links to leaves the key as it is.
       - id: store
         env:
           FILES: >-
             ${{ hashFiles('web/package-lock.json', 'web/astro.config.mjs',
             'web/src/lib/*.mjs', 'web/src/lib/icons.json',
             'scripts/65-normalize-bible.mjs', 'scripts/66-normalize-bible-en.mjs',
-            'scripts/bible-books.mjs', 'manifests/bible-refs.json',
-            'images/mevar/content/**') }}
-        run: >-
-          echo "inputs=$FILES-$(node -e "import('./src/lib/bookmarks.mjs').then((m) =>
-          console.log(require('node:crypto').hash('sha256', JSON.stringify([...m.posts]))))")"
-          >> "$GITHUB_OUTPUT"
+            'scripts/bible-books.mjs', 'images/mevar/content/**') }}
+        run: |
+          echo "inputs=$FILES-$(node --input-type=module -e '
+          import fs from "node:fs";
+          import { hash } from "node:crypto";
+          import { posts } from "./src/lib/bookmarks.mjs";
+          const linked = new Set();
+          for (const f of fs.readdirSync("../markdown", { recursive: true })) {
+            if (!f.endsWith(".md")) continue;
+            const text = fs.readFileSync(`../markdown/${f}`, "utf8");
+            for (const [slug] of text.slice(text.indexOf("\n---\n", 4)).matchAll(/(?<=\/)[a-z0-9-]+(?=\/)/g)) linked.add(slug);
+          }
+          console.log(hash("sha256", JSON.stringify([...posts].filter(([slug]) => linked.has(slug)))));
+          ')" >> "$GITHUB_OUTPUT"
 
       - uses: actions/cache@v4
         with:
