@@ -87,11 +87,11 @@ Then, quoting the line:
 
 What this repository adds to the fleet `codex-second-opinion` skill.
 
-**When.** At most once per branch, when step 4 calls for it: after the step
-4 review said ACCEPT, before the PR or before the merge. Run it again only after a fix batch that changed more
-than a few lines, and then the changed code also goes back through one round
-of the step 4 review. Two rounds are the ceiling here, not the skill's three;
-what remains goes to the PR.
+**When.** Only when step 4 calls for it: after the step 4 review said
+ACCEPT, before the PR or before the merge. Run it again only after a fix
+batch that changed more than a few lines, and then the changed code also
+goes back through one round of the step 4 review. Two rounds per branch are
+the ceiling here, not the skill's three; what remains goes to the PR.
 
 **Size: review the code, sample the data.** A goal that regenerates the
 corpus changes hundreds of `markdown/` files, `manifests/*.json` and
@@ -184,8 +184,9 @@ finding with what was done and the evidence.
 
 ## Full send
 
-Full send: not yet. Samuel changes `not yet` to `allowed` on that line when he
-decides mevar-v2 may merge unattended.
+Full send: not yet. Samuel changes `not yet` to `allowed` on that line, and
+lifts "Nothing is merged by the agent" in step 5, when he decides mevar-v2
+may merge unattended. Until then step 5 holds.
 
 ## Stop points
 
