@@ -85,14 +85,12 @@ Then, quoting the line:
 
 ## Second opinion
 
-What this repository adds to the fleet `codex-second-opinion` skill. The CLI
-and the Codex GitHub app draw on different quotas; when the app is silent on
-a PR, the CLI is the fallback.
+What this repository adds to the fleet `codex-second-opinion` skill.
 
-**When.** Once per branch: after the step 4 review said ACCEPT, before the PR
-or before the merge. Run it again only after a fix batch that changed more
+**When.** At most once per branch, when step 4 calls for it: after the step
+4 review said ACCEPT, before the PR or before the merge. Run it again only after a fix batch that changed more
 than a few lines, and then the changed code also goes back through one round
-of the step 4 review. Two passes are the ceiling here, not the skill's three;
+of the step 4 review. Two rounds are the ceiling here, not the skill's three;
 what remains goes to the PR.
 
 **Size: review the code, sample the data.** A goal that regenerates the
@@ -110,7 +108,8 @@ nothing. So every prompt:
   script's `--dry` mode where it has one.
 
 **Models: one pass per task size.** Split the review into scoped passes and
-run them in parallel, each with the model its task needs. Name it with `-m`;
+run them in parallel (this repo's exception to the skill's one reviewer at a
+time), each with the model its task needs. Name it with `-m`;
 the default in `~/.codex/config.toml` is only used when a task does not say.
 
 | model | for | typical pass |
@@ -185,8 +184,8 @@ finding with what was done and the evidence.
 
 ## Full send
 
-Full send: not yet. Samuel replaces this line with `Full send: allowed` when
-he decides mevar-v2 may merge unattended.
+Full send: not yet. Samuel changes `not yet` to `allowed` on that line when he
+decides mevar-v2 may merge unattended.
 
 ## Stop points
 
