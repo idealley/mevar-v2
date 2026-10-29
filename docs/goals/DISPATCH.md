@@ -241,6 +241,20 @@ plugin, and stop if one differs. Both builds for the diff of dist/ start
 from a cleared store (delete web/node_modules/.astro/data-store.json).
 ```
 
+## 13. Goal 42: cache headers
+
+Any time. Adds `web/public/_headers` and touches nothing else, so it can run
+in parallel with any goal.
+
+```
+<preamble>
+Goal file: docs/goals/goal-42-cache-headers.md. Branch: goal-42-cache-headers.
+
+Check that Pagefind's names are content hashes before you give them a year:
+from its source or docs, and across two builds of the same corpus. The
+zone's cache rules are Samuel's; do not change them.
+```
+
 ---
 
 ## Merge ritual, by Samuel, after each PR
