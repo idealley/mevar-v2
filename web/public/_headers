@@ -1,0 +1,33 @@
+# Cache-Control for the files a page loads (goal 42). Pages sends
+# `public, max-age=0, must-revalidate` for everything else: the HTML, sw.js,
+# the web manifest and Pagefind's entry, script and UI files, whose names do
+# not change with their content. Each path matches one rule only: Pages
+# joins two rules' Cache-Control.
+
+# Vite puts a hash of the content in each name.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Pagefind names these by a hash of their content.
+/pagefind/index/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/pagefind/fragment/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/pagefind/filter/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/pagefind/pagefind.*.pf_meta
+  Cache-Control: public, max-age=31536000, immutable
+
+# Stable names; they change about once a year.
+/fonts/*
+  Cache-Control: public, max-age=604800
+
+# Stable names: a replaced image is seen within a day.
+/images/*
+  Cache-Control: public, max-age=86400
+
+/brand/*
+  Cache-Control: public, max-age=86400
