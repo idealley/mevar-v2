@@ -33,7 +33,8 @@ bible-data/
 # SurrealDB persistent data (regenerable from scripts)
 db/
 
-# Claude Code: .claude/ is tracked (shared skills); its runtime and local
+# Claude Code: .claude/ is tracked for skills specific to this repo, when
+# there are any (the shared ones come from fleet); its runtime and local
 # files are not
 .claude/scheduled_tasks.lock
 .claude/settings.local.json
