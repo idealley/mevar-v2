@@ -13,7 +13,7 @@
 /authors/andre-kadjany/  /auteurs/andre-kadjany/  301
 /authors/pierre-kouadio/ /auteurs/pierre-kouadio/ 301
 /authors/irie/           /auteurs/irie/           301
-/sitemap/             /sitemap-index.xml        301
+/sitemap/              /sitemap-index.xml        301
 /sitemap.xml           /sitemap-index.xml        301
 
 # Ghost's feed URL; readers are subscribed to it. Served, not redirected.
