@@ -18,6 +18,12 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: Samuel finds the files (OneDrive, Ghost admin) and drops them in `images/mevar/` and `files/mevar/`; the PDFs then get `local_pdf` next to `pdf_download`, and the work page shows the PDF button.
 
+## Most of `_redirects` is not served
+
+**Status**: found by goal 42's review (2026-10-30). Pages serves at most 100 dynamic redirects, and a rule below the first one with a placeholder counts as dynamic. `web/public/_redirects` has `/authors/:slug/` as its fifth rule, so 376 of the 380 rules in `dist/_redirects` (goal 09's generated ones included) are dynamic, and those past the hundredth are dropped: `/works/onedrive/pdf/publication-verified/zele/`, the last line, answers 404 on `mevar.pages.dev`. `wrangler pages dev` says "Maximum number of dynamic rules supported is 100. Skipping remaining 277 lines of file."
+
+**Fix**: move the placeholder rules to the end of the file, so the static ones are counted as static (2,000 allowed), and make `check:dist` fail when more than 100 rules follow a placeholder or splat.
+
 ## 65 reads a book name inside a number or a glued prefix
 
 **Status**: 66 and 65b refuse a book name that starts inside a number since goal 07 ("2 John" in "212 John"). 65 still accepts it, and changing that moves 47 French refs: some are wrong today ("1Jean 5:21" is recorded as "Jean 5:21", because "1Jean" is not a variant), and would simply disappear without a variant for the glued form.
