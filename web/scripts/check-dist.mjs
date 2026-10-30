@@ -78,18 +78,25 @@ report(
 // 2. Every redirect lands on a page: goal 03's, and the duplicates' (goal 08)
 // that the build appends. ":slug" is each Ghost author.
 const authors = read("mevar-authors.json").map((a) => a.slug);
-const targets = fs
+const rules = fs
   .readFileSync(path.join(dist, "_redirects"), "utf8")
   .split("\n")
   .filter((l) => l.startsWith("/"))
-  .flatMap((l) => {
-    const to = l.split(/\s+/)[1];
-    return to.includes(":slug") ? authors.map((a) => to.replace(":slug", a)) : [to];
-  });
+  .map((l) => l.split(/\s+/));
+const targets = rules.flatMap(([, to]) => (to.includes(":slug") ? authors.map((a) => to.replace(":slug", a)) : [to]));
 report(
   "every _redirects target exists",
   targets.filter((t) => !served(t)).map((t) => `${t} missing`),
   `${targets.length} targets`,
+);
+// Pages counts a rule as dynamic from the first one with a placeholder or a
+// splat to the end of the file, and drops those past the hundredth.
+const firstDynamic = rules.findIndex(([from]) => /[:*]/.test(from));
+const dynamic = firstDynamic < 0 ? 0 : rules.length - firstDynamic;
+report(
+  "Pages serves every _redirects rule",
+  dynamic > 100 ? [`${dynamic} rules from ${rules[firstDynamic][0]} count as dynamic, ${dynamic - 100} are dropped`] : [],
+  `${rules.length} rules, ${dynamic} dynamic, limit 100`,
 );
 
 // 3. Every internal href in every page resolves.
