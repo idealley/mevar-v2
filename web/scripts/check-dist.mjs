@@ -93,7 +93,7 @@ report(
 const firstDynamic = rules.findIndex(([from]) => /[:*]/.test(from));
 const dynamic = firstDynamic < 0 ? 0 : rules.length - firstDynamic;
 report(
-  "Pages serves every _redirects rule",
+  "_redirects within Pages' 100 dynamic rules",
   dynamic > 100 ? [`${dynamic} rules from ${rules[firstDynamic][0]} count as dynamic, ${dynamic - 100} are dropped`] : [],
   `${rules.length} rules, ${dynamic} dynamic, limit 100`,
 );
