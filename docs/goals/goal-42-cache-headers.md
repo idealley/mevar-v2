@@ -1,6 +1,6 @@
 # GOAL 42: a file that cannot change is kept
 
-**Status:** not started.
+**Status:** in review, branch `goal-42-cache-headers`.
 **Repo:** `mevar-v2` (`web/public/_headers`, new)
 **Rules:** [README.md](README.md)
 
@@ -38,7 +38,8 @@ Two causes:
    | Path | `Cache-Control` | Why |
    | ---- | --------------- | --- |
    | `/_astro/*` | `public, max-age=31536000, immutable` | Vite puts a content hash in each name. |
-   | `/pagefind/index/*`, `/pagefind/fragment/*`, `/pagefind/filter/*`, `/pagefind/pagefind.*.pf_meta` | `public, max-age=31536000, immutable` | Pagefind names these by a hash of their content. |
+   | `/pagefind/pagefind.*.pf_meta` | `public, max-age=31536000, immutable` | Pagefind names it by 10 hex characters of a hash of its content. |
+   | `/pagefind/index/*`, `/pagefind/fragment/*`, `/pagefind/filter/*` | `public, max-age=604800` | Pagefind names these by 7 hex characters of a hash of their content: see the decision below. |
    | `/fonts/*` | `public, max-age=604800` | Stable names; they change about once a year. |
    | `/images/*`, `/brand/*` | `public, max-age=86400` | Stable names: a replaced image is seen within a day. |
 
@@ -55,6 +56,21 @@ Two causes:
    particular a splat in the middle of `/pagefind/pagefind.*.pf_meta`, and
    that no other rule adds a second `Cache-Control` to the same path (Pages
    joins them).
+
+**Decision (Samuel, 2026-10-30): a week for Pagefind's index, fragment and
+filter files.** Their names are `fr_` and the first 7 hex characters of a
+SHA-1 of their content, set in the code with no option
+(`pagefind/src/index/mod.rs:363, 434, 512`, v1.5.2, still so on `main`).
+Two names are made distinct within one build only, and Pagefind's source
+says so: "If two builds match a collision in different orders the hashes
+will swap, which could return incorrect data due to files being cached."
+A work added renames all 963 index chunks (0 shared between the builds of
+2026-10-08 and 2026-10-12, 3,007 and 3,008 pages), so a year of
+publications makes tens of thousands of 28-bit names and a few clashes are
+expected; a year's `immutable` would keep a wrong index chunk in a phone
+that no purge reaches. Longer names would mean a fork of Pagefind or a
+script rewriting its meta file. The meta file's name has 10 hex characters
+and keeps a year.
 
 ## Samuel's part, outside the repo
 
