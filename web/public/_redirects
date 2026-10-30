@@ -6,8 +6,14 @@
 /about                 /a-propos/                301
 /authors/              /auteurs/                 301
 /authors               /auteurs/                 301
-/authors/:slug/        /auteurs/:slug/           301
-/sitemap/              /sitemap-index.xml        301
+# No placeholder: Pages counts every rule below one as dynamic and serves 100.
+/authors/parfait-mbra/   /auteurs/parfait-mbra/   301
+/authors/samuel/         /auteurs/samuel/         301
+/authors/stephane-pouyt/ /auteurs/stephane-pouyt/ 301
+/authors/andre-kadjany/  /auteurs/andre-kadjany/  301
+/authors/pierre-kouadio/ /auteurs/pierre-kouadio/ 301
+/authors/irie/           /auteurs/irie/           301
+/sitemap/             /sitemap-index.xml        301
 /sitemap.xml           /sitemap-index.xml        301
 
 # Ghost's feed URL; readers are subscribed to it. Served, not redirected.

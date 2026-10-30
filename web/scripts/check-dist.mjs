@@ -76,14 +76,13 @@ report(
 );
 
 // 2. Every redirect lands on a page: goal 03's, and the duplicates' (goal 08)
-// that the build appends. ":slug" is each Ghost author.
-const authors = read("mevar-authors.json").map((a) => a.slug);
+// that the build appends.
 const rules = fs
   .readFileSync(path.join(dist, "_redirects"), "utf8")
   .split("\n")
   .filter((l) => l.startsWith("/"))
   .map((l) => l.split(/\s+/));
-const targets = rules.flatMap(([, to]) => (to.includes(":slug") ? authors.map((a) => to.replace(":slug", a)) : [to]));
+const targets = rules.map(([, to]) => to);
 report(
   "every _redirects target exists",
   targets.filter((t) => !served(t)).map((t) => `${t} missing`),
