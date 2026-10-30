@@ -1,6 +1,7 @@
 # GOAL 43: every redirect is served
 
-**Status:** not started.
+**Status:** in PR #59 (branch `goal-43-redirects-served`), not merged. Step 3
+waits for PR #58, which adds the follow-up entry.
 **Repo:** `mevar-v2` (`web/public/_redirects`, `web/scripts/check-dist.mjs`)
 **Rules:** [README.md](README.md)
 
