@@ -1,6 +1,6 @@
 # GOAL 42: a file that cannot change is kept
 
-**Status:** in review, branch `goal-42-cache-headers`.
+**Status:** in PR #58 (branch `goal-42-cache-headers`), not merged.
 **Repo:** `mevar-v2` (`web/public/_headers`, new)
 **Rules:** [README.md](README.md)
 
