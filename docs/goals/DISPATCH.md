@@ -255,6 +255,19 @@ from its source or docs, and across two builds of the same corpus. The
 zone's cache rules are Samuel's; do not change them.
 ```
 
+## 14. Goal 43: redirects served
+
+Any time. Touches `web/public/_redirects` and `web/scripts/check-dist.mjs`;
+in parallel with goal 42, which adds `_headers` only.
+
+```
+<preamble>
+Goal file: docs/goals/goal-43-redirects-served.md. Branch: goal-43-redirects-served.
+
+Make the new check:dist rule fail on main's dist/ before you change
+_redirects. Curl every rule's source on the preview, not a sample.
+```
+
 ---
 
 ## Merge ritual, by Samuel, after each PR
