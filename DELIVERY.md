@@ -50,7 +50,10 @@ where the two disagree.
 5. **Non-draft PR** with `gh pr create`. The description opens with the
    problem, names the goal file, and lists every acceptance item with the
    command run and its output. Deviations from the goal file are stated, not
-   hidden. Nothing is merged by the agent.
+   hidden. It ends with the `local-findings` block (fleet
+   `codex-second-opinion` skill, Recording it): one line per finding of
+   every review round, kept or not, so the local review can be measured
+   against the PR bots. Nothing is merged by the agent.
 6. **Merge and landing check, by Samuel.** Squash merge keeps `main` at one
    commit per goal. After the merge, the goal file's acceptance section is
    read against `main`, not against the PR description; a gap becomes a line
