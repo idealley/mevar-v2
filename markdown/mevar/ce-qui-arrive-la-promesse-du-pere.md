@@ -6,6 +6,7 @@ year: 2026
 published_at: "2026-11-09"
 type: "post"
 status: "published"
+featured: true
 tags:
   - "Exhortations"
   - "2026"
