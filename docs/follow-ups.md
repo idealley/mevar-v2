@@ -58,6 +58,12 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: split a list into one `bible_ref` per group at ingest (and a `cites` edge to each), or have 65/66 emit one ref per group. Needs a SurrealDB run to verify; none was available for goal 07.
 
+## `50` reads a hand-added work's fields from a manifest it is not in
+
+**Symptom**: `50-build-index.mjs` takes `title`, `year`, `authors`, `tags` and the rest from `manifests/<source>.json` (`title: manifest?.title ?? basename`). A Mevar work added as a markdown file, without Ghost, has no manifest entry, so its `index.json` row carries its slug as title and null for the rest: `le-nouveau-site-de-mevar` and `ce-qui-arrive-la-promesse-du-pere` (6 of 344 Mevar rows). The site does not read `index.json`; the SurrealDB ingest (`100`) does.
+
+**Fix**: fall back to the work's frontmatter where the manifest has no entry. Every new Mevar text now arrives this way, so the gap grows with each one.
+
 ## `100-ingest-surrealdb.mjs` never deletes an edge
 
 **Symptom**: all eight edge types — `by`, `cites`, `mentions`, `mentions_place`, `has_theme`, `has_tag`, `contains`, `based_on` — go through the same insert-only `inChunks`. Re-ingesting after the corpus changed adds the new edges and leaves the old ones. Against `origin/main`, goal 02 removes 477 (file, reference) pairs from `manifests/bible-refs.json` (impossible chapters, the "you're" misreads, malformed ranges, and the 83 one-chapter refs that change form), so a database ingested before it keeps up to 477 stale `cites` edges; a corrected `original` link leaves both `based_on` edges, since the unique index is on `(in, out)`.
