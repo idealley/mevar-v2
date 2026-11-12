@@ -14,6 +14,17 @@ tags:
   - "2026"
 authors:
   - "Parfait M'bra"
+bible_refs:
+  - "Luc 4:14"
+  - "Luc 4:14-20"
+  - "Luc 4"
+  - "Luc 12:15"
+  - "1 Timothée 6:6"
+  - "1 Timothée 6:7-10"
+  - "1 Timothée 6:11-12"
+  - "2 Chroniques 14"
+  - "2 Chroniques 14:1-14"
+  - "2 Chroniques 16:1-3"
 ---
 Gloire à Dieu ! L’argent et l’onction. On sait ce qu’est l’argent, on sait ce qu’est l’onction, n’est-ce pas ? Nous allons lire un premier texte dans Luc chapitre 4 verset 14 :
 
