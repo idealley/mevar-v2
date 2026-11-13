@@ -101,7 +101,6 @@ jobs:
           path: web/dist
           retention-days: 3
           include-hidden-files: true
-          if-no-files-found: error
 
   deploy:
     needs: build
@@ -112,9 +111,12 @@ jobs:
     steps:
       # wrangler compiles the Pages Functions (/api/subscribe) from
       # web/functions/ when it uploads; nothing else of the repo is needed.
+      # Not cone mode: that brings web/tsconfig.json too, whose base config
+      # is in node_modules, and wrangler warns it cannot find it.
       - uses: actions/checkout@v4
         with:
-          sparse-checkout: web/functions
+          sparse-checkout: web/functions/
+          sparse-checkout-cone-mode: false
 
       - uses: actions/download-artifact@v4
         with:
