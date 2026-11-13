@@ -11,8 +11,8 @@ Two ways to deploy, same result:
   production. "Run workflow" on another branch deploys a preview at
   `<branch>.mevar.pages.dev`. The job `build` stores `dist/` for 3 days;
   the job `deploy` uploads it, and after a failure of any kind tries twice
-  more, 1 and 3 minutes later. When it still fails, "Re-run failed jobs" runs `deploy` alone, in
-  about a minute, without building again.
+  more, 1 and 3 minutes later. When it still fails, "Re-run failed jobs"
+  runs `deploy` alone, in about a minute, without building again.
 - **From the Mac**: `cd web && npm run deploy`. Production from `main`, a
   preview from any other branch (wrangler reads the git branch).
 
