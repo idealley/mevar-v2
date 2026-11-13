@@ -21,8 +21,11 @@ concurrency:
   group: deploy-${{ github.ref }}
   cancel-in-progress: false
 
+# Two jobs: `build` stores dist/ as an artifact, `deploy` uploads it. When
+# the upload fails, "Re-run failed jobs" runs `deploy` alone on the stored
+# dist/, without building again (goal 44).
 jobs:
-  deploy:
+  build:
     # Public repo: the standard runner has 16 GB of RAM, the build needs an
     # 8 GB heap.
     runs-on: ubuntu-latest
@@ -91,12 +94,48 @@ jobs:
 
       - run: npm run check:limits
 
+      # Kept 3 days: a re-run after a weekend's outage still finds it.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: web/dist
+          retention-days: 3
+          include-hidden-files: true
+          if-no-files-found: error
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      # wrangler compiles the Pages Functions (/api/subscribe) from
+      # web/functions/ when it uploads; nothing else of the repo is needed.
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: web/functions
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: web/dist
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Cloudflare's API answered 503 for half an hour on 2026-11-13 (run
+      # 43453160680). Two more attempts, 1 and 3 minutes after a failure.
       - name: Deploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           BRANCH: ${{ github.ref_name }}
-        run: >-
-          npx wrangler@4 pages deploy dist
-          --project-name=mevar
-          --branch="$BRANCH"
+        run: |
+          for wait in 60 180 last; do
+            npx wrangler@4 pages deploy dist --project-name=mevar --branch="$BRANCH" && exit 0
+            [ "$wait" = last ] && exit 1
+            echo "::warning::wrangler pages deploy failed, next attempt in ${wait}s"
+            sleep "$wait"
+          done
